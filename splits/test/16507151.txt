@@ -1,0 +1,7 @@
+ 124   so
+  91   ncbitaxon
+  74   go_cc
+  73   go_bpmf
+  46   entrezgene
+  33   pr
+  15   chebi

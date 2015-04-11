@@ -1,0 +1,8 @@
+ 486   chebi
+ 440   pr
+ 409   entrezgene
+ 369   so
+ 327   go_bpmf
+ 287   ncbitaxon
+ 122   go_cc
+  34   cl

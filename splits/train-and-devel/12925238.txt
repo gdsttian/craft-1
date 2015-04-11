@@ -1,0 +1,8 @@
+ 266   go_cc
+ 200   cl
+ 193   chebi
+ 180   go_bpmf
+ 151   pr
+ 105   so
+  85   entrezgene
+  66   ncbitaxon
