@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# Split annotation count files into subdirs by the most frequent type.
-# Helper for stratified sampling.
+# Separate random 1/3 as held-out test set.
 
 set -e
 set -u
