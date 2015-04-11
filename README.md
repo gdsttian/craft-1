@@ -16,8 +16,10 @@ Corpus homepage: http://bionlp-corpora.sourceforge.net/CRAFT/
   * Run `scripts/remove-all-duplicates.sh` to deduplicate .ann files
   * Check number of changes:
 
-    diff -r train-and-devel-standoff-separated train-and-devel-standoff-separated-deduplicated/ | egrep '^<' | wc -l
-    1016
+```
+diff -r train-and-devel-standoff-separated train-and-devel-standoff-separated-deduplicated/ | egrep '^<' | wc -l
+1016
+```
 
 ## Parameter selection
 
