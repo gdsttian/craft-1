@@ -12,6 +12,13 @@ Corpus homepage: http://bionlp-corpora.sourceforge.net/CRAFT/
     frequent type
   * Run `scripts/split-test-set.sh` to split off random 1/3 as test set
 
+* Eliminate duplicate annotations:
+  * Run `scripts/remove-all-duplicates.sh` to deduplicate .ann files
+  * Check number of changes:
+
+    diff -r train-and-devel-standoff-separated train-and-devel-standoff-separated-deduplicated/ | egrep '^<' | wc -l
+    1016
+
 ## Parameter selection
 
 * Run `scripts/separate-standoff.sh` to create separate standoff files for each
