@@ -1,0 +1,2378 @@
+T1	CHEBI 0 9	Molecular
+#1	AnnotatorNotes T1	CHEBI:36357 (polyatomic entities)
+T2	NCBITaxon 46 51	mouse
+#2	AnnotatorNotes T2	NCBITaxon:10088 (Mus)
+T3	italic 52 56	Acdp
+#3	AnnotatorNotes T3	italic (null)
+T4	SO 57 61	gene
+#4	AnnotatorNotes T4	SO:0000704 (gene)
+T5	SO 142 146	gene
+#5	AnnotatorNotes T5	SO:0000704 (gene)
+T6	SO 168 177	conserved
+#6	AnnotatorNotes T6	SO:0000856 (conserved)
+T7	SO 178 184	domain
+#7	AnnotatorNotes T7	SO:0000417 (polypeptide_domain)
+T8	CHEBI 185 192	protein
+#8	AnnotatorNotes T8	CHEBI:36080 (proteins)
+T9	italic 194 198	ACDP
+#9	AnnotatorNotes T9	italic (null)
+T10	NCBITaxon 203 209	humans
+#10	AnnotatorNotes T10	NCBITaxon:9606 (Homo sapiens)
+T11	SO 260 264	gene
+#11	AnnotatorNotes T11	SO:0000704 (gene)
+T12	italic 306 310	Acdp
+#12	AnnotatorNotes T12	italic (null)
+T13	NCBITaxon 316 321	mouse
+#13	AnnotatorNotes T13	NCBITaxon:10088 (Mus)
+T14	SO 322 331	homologue
+#14	AnnotatorNotes T14	SO:0000853 (homologous_region)
+T15	NCBITaxon 339 344	human
+#15	AnnotatorNotes T15	NCBITaxon:9606 (Homo sapiens)
+T16	italic 345 349	ACDP
+#16	AnnotatorNotes T16	italic (null)
+T17	SO 350 354	gene
+#17	AnnotatorNotes T17	SO:0000704 (gene)
+T18	italic 382 386	Acdp
+#18	AnnotatorNotes T18	italic (null)
+T19	SO 387 392	genes
+#19	AnnotatorNotes T19	SO:0000704 (gene)
+T20	italic 394 413	Acdp1, Acdp2, Acdp3
+#20	AnnotatorNotes T20	italic (null)
+T21	EntrezGene 394 399	Acdp1
+#21	AnnotatorNotes T21	EG:83674
+T22	PR 394 399	Acdp1
+#22	AnnotatorNotes T22	PR:000005643 (metal transporter CNNM1)
+T23	EntrezGene 401 406	Acdp2
+#23	AnnotatorNotes T23	EG:94219
+T24	PR 401 406	Acdp2
+#24	AnnotatorNotes T24	PR:000005644 (metal transporter CNNM2)
+T25	EntrezGene 408 413	Acdp3
+#25	AnnotatorNotes T25	EG:94218
+T26	PR 408 413	Acdp3
+#26	AnnotatorNotes T26	PR:000005645 (metal transporter CNNM3)
+T27	italic 418 423	Acdp4
+#27	AnnotatorNotes T27	italic (null)
+T28	EntrezGene 418 423	Acdp4
+#28	AnnotatorNotes T28	EG:94220
+T29	PR 418 423	Acdp4
+#29	AnnotatorNotes T29	PR:000005646 (metal transporter CNNM4)
+T30	SO 439 441	bp
+#30	AnnotatorNotes T30	SO:0000028 (base_pair)
+T31	SO 449 451	bp
+#31	AnnotatorNotes T31	SO:0000028 (base_pair)
+T32	SO 459 461	bp
+#32	AnnotatorNotes T32	SO:0000028 (base_pair)
+T33	SO 472 474	bp
+#33	AnnotatorNotes T33	SO:0000028 (base_pair)
+T34	SO 478 492	cDNA sequences
+#34	AnnotatorNotes T34	SO:0000756 (cDNA)
+T35	SO 505 512	deduced
+#35	AnnotatorNotes T35	SO:0000732 (predicted)
+T36	CHEBI 513 521	proteins
+#36	AnnotatorNotes T36	CHEBI:36080 (proteins)
+T37	CHEBI 547 558	amino acids
+#37	AnnotatorNotes T37	CHEBI:33708 (amino-acid residue)
+T38	SO 547 558	amino acids
+#38	AnnotatorNotes T38	SO:0001237 (amino_acid)
+T39	CHEBI 547 552	amino
+#39	AnnotatorNotes T39	CHEBI:32952 (amines)
+T40	CHEBI 547 552	amino
+#40	AnnotatorNotes T40	CHEBI:46882 (amino group)
+T41	CHEBI 553 558	acids
+#41	AnnotatorNotes T41	CHEBI:37527 (acid)
+T42	NCBITaxon 578 583	mouse
+#42	AnnotatorNotes T42	NCBITaxon:10088 (Mus)
+T43	italic 584 588	Acdp
+#43	AnnotatorNotes T43	italic (null)
+T44	SO 589 594	genes
+#44	AnnotatorNotes T44	SO:0000704 (gene)
+T45	SO 614 624	homologies
+#45	AnnotatorNotes T45	SO:0000857 (homologous)
+T46	SO 640 675	nucleotide and amino acid sequences
+#46	AnnotatorNotes T46	"nucleotide .. sequences" SO:0000348 (nucleic_acid)
+T47	CHEBI 640 650	nucleotide
+#47	AnnotatorNotes T47	CHEBI:25613 (nucleotidyl groups)
+T48	SO 640 650	nucleotide
+#48	AnnotatorNotes T48	SO:0001236 (base)
+T49	SO 655 675	amino acid sequences
+#49	AnnotatorNotes T49	SO:0001407 (peptidyl)
+T50	CHEBI 655 665	amino acid
+#50	AnnotatorNotes T50	CHEBI:33708 (amino-acid residue)
+T51	SO 655 665	amino acid
+#51	AnnotatorNotes T51	SO:0001237 (amino_acid)
+T52	CHEBI 655 660	amino
+#52	AnnotatorNotes T52	CHEBI:32952 (amines)
+T53	CHEBI 655 660	amino
+#53	AnnotatorNotes T53	CHEBI:46882 (amino group)
+T54	CHEBI 661 665	acid
+#54	AnnotatorNotes T54	CHEBI:37527 (acid)
+T55	NCBITaxon 685 690	human
+#55	AnnotatorNotes T55	NCBITaxon:9606 (Homo sapiens)
+T56	SO 691 703	counterparts
+#56	AnnotatorNotes T56	SO:0000853 (homologous_region)
+T57	SO 723 758	nucleotide and amino acid sequences
+#57	AnnotatorNotes T57	"nucleotide .. sequences" SO:0000348 (nucleic_acid)
+T58	CHEBI 723 733	nucleotide
+#58	AnnotatorNotes T58	CHEBI:25613 (nucleotidyl groups)
+T59	SO 723 733	nucleotide
+#59	AnnotatorNotes T59	SO:0001236 (base)
+T60	SO 738 758	amino acid sequences
+#60	AnnotatorNotes T60	SO:0001407 (peptidyl)
+T61	CHEBI 738 748	amino acid
+#61	AnnotatorNotes T61	CHEBI:33708 (amino-acid residue)
+T62	SO 738 748	amino acid
+#62	AnnotatorNotes T62	SO:0001237 (amino_acid)
+T63	CHEBI 738 743	amino
+#63	AnnotatorNotes T63	CHEBI:32952 (amines)
+T64	CHEBI 738 743	amino
+#64	AnnotatorNotes T64	CHEBI:46882 (amino group)
+T65	CHEBI 744 748	acid
+#65	AnnotatorNotes T65	CHEBI:37527 (acid)
+T66	SO 778 787	Conserved
+#66	AnnotatorNotes T66	SO:0000856 (conserved)
+T67	SO 788 794	Domain
+#67	AnnotatorNotes T67	SO:0000417 (polypeptide_domain)
+T68	SO 812 821	conserved
+#68	AnnotatorNotes T68	SO:0000856 (conserved)
+T69	taxonomic_rank 840 857	taxonomic species
+#69	AnnotatorNotes T69	species (null)
+T70	CHEBI 878 886	proteins
+#70	AnnotatorNotes T70	CHEBI:36080 (proteins)
+T71	CHEBI 906 908	AA
+#71	AnnotatorNotes T71	CHEBI:33708 (amino-acid residue)
+T72	SO 906 908	AA
+#72	AnnotatorNotes T72	SO:0001237 (amino_acid)
+T73	SO 909 919	homologies
+#73	AnnotatorNotes T73	SO:0000857 (homologous)
+T74	NCBITaxon 927 935	bacteria
+#74	AnnotatorNotes T74	NCBITaxon:2 (Bacteria)
+T75	EntrezGene 936 940	CorC
+#75	AnnotatorNotes T75	EG:1169007
+T76	PR 936 940	CorC
+#76	AnnotatorNotes T76	PR:000022321 (magnesium and cobalt efflux protein corC)
+T77	CHEBI 941 948	protein
+#77	AnnotatorNotes T77	CHEBI:36080 (proteins)
+T78	CHEBI 954 956	AA
+#78	AnnotatorNotes T78	CHEBI:33708 (amino-acid residue)
+T79	SO 954 956	AA
+#79	AnnotatorNotes T79	SO:0001237 (amino_acid)
+T80	SO 975 983	homology
+#80	AnnotatorNotes T80	SO:0000857 (homologous)
+T81	CHEBI 1007 1016	magnesium
+#81	AnnotatorNotes T81	CHEBI:25107 (magnesium)
+T82	CHEBI 1021 1027	cobalt
+#82	AnnotatorNotes T82	CHEBI:27638 (cobalt)
+T83	italic 1040 1044	Acdp
+#83	AnnotatorNotes T83	italic (null)
+T84	SO 1045 1050	genes
+#84	AnnotatorNotes T84	SO:0000704 (gene)
+T85	GO_BP 1062 1071	expressed
+#85	AnnotatorNotes T85	GO:0010467 (gene expression)
+T86	italic 1105 1110	Acdp1
+#86	AnnotatorNotes T86	italic (null)
+T87	EntrezGene 1105 1110	Acdp1
+#87	AnnotatorNotes T87	EG:83674
+T88	PR 1105 1110	Acdp1
+#88	AnnotatorNotes T88	PR:000005643 (metal transporter CNNM1)
+T89	GO_BP 1133 1142	expressed
+#89	AnnotatorNotes T89	GO:0010467 (gene expression)
+T90	GO_BP 1175 1185	expression
+#90	AnnotatorNotes T90	GO:0010467 (gene expression)
+T91	EntrezGene 1226 1231	Acdp1
+#91	AnnotatorNotes T91	EG:83674
+T92	PR 1226 1231	Acdp1
+#92	AnnotatorNotes T92	PR:000005643 (metal transporter CNNM1)
+T93	CL 1247 1254	neurons
+#93	AnnotatorNotes T93	CL:0000540 (neuron)
+T94	GO_BP 1278 1313	localization on the plasma membrane
+#94	AnnotatorNotes T94	"localization on .. membrane" GO:0051668 (localization within membrane)
+T95	GO_CC 1298 1313	plasma membrane
+#95	AnnotatorNotes T95	GO:0005886 (plasma membrane)
+T96	italic 1332 1336	Acdp
+#96	AnnotatorNotes T96	italic (null)
+T97	SO 1337 1342	genes
+#97	AnnotatorNotes T97	SO:0000704 (gene)
+T98	SO 1347 1371	evolutionarily conserved
+#98	AnnotatorNotes T98	SO:0000857 (homologous)
+T99	taxonomic_rank 1383 1390	species
+#99	AnnotatorNotes T99	species (null)
+T100	GO_BP 1408 1417	expressed
+#100	AnnotatorNotes T100	GO:0010467 (gene expression)
+T101	GO_BP 1429 1440	development
+#101	AnnotatorNotes T101	GO:0032502 (developmental process)
+T102	SO 1500 1504	gene
+#102	AnnotatorNotes T102	SO:0000704 (gene)
+T103	SO 1525 1533	homology
+#103	AnnotatorNotes T103	SO:0000857 (homologous)
+T104	NCBITaxon 1537 1545	bacteria
+#104	AnnotatorNotes T104	NCBITaxon:2 (Bacteria)
+T105	EntrezGene 1546 1550	CorC
+#105	AnnotatorNotes T105	EG:1169007
+T106	PR 1546 1550	CorC
+#106	AnnotatorNotes T106	PR:000022321 (magnesium and cobalt efflux protein corC)
+T107	CHEBI 1551 1558	protein
+#107	AnnotatorNotes T107	CHEBI:36080 (proteins)
+T108	GO_BP 1577 1586	localized
+#108	AnnotatorNotes T108	GO:0051179 (localization)
+T109	GO_CC 1594 1609	plasma membrane
+#109	AnnotatorNotes T109	GO:0005886 (plasma membrane)
+T110	CHEBI 1667 1675	proteins
+#110	AnnotatorNotes T110	CHEBI:36080 (proteins)
+T111	GO_BP 1688 1701	ion transport
+#111	AnnotatorNotes T111	GO:0006811 (ion transport)
+T112	CHEBI 1688 1691	ion
+#112	AnnotatorNotes T112	CHEBI:24870 (ions)
+T113	GO_BP 1692 1720	transport in mammalian cells
+#113	AnnotatorNotes T113	"transport in .. cells" GO:0046907 (intracellular transport)
+T114	NCBITaxon 1705 1714	mammalian
+#114	AnnotatorNotes T114	NCBITaxon:40674 (Mammalia)
+T115	CL 1715 1720	cells
+#115	AnnotatorNotes T115	CL:0000000 (cell)
+T116	GO_CC 1715 1720	cells
+#116	AnnotatorNotes T116	GO:0005623 (cell)
+T117	SO 1784 1788	gene
+#117	AnnotatorNotes T117	SO:0000704 (gene)
+T118	SO 1810 1819	conserved
+#118	AnnotatorNotes T118	SO:0000856 (conserved)
+T119	SO 1820 1826	domain
+#119	AnnotatorNotes T119	SO:0000417 (polypeptide_domain)
+T120	CHEBI 1827 1834	protein
+#120	AnnotatorNotes T120	CHEBI:36080 (proteins)
+T121	italic 1836 1840	ACDP
+#121	AnnotatorNotes T121	italic (null)
+T122	CHEBI 1861 1868	protein
+#122	AnnotatorNotes T122	CHEBI:36080 (proteins)
+T123	NCBITaxon 1880 1886	humans
+#123	AnnotatorNotes T123	NCBITaxon:9606 (Homo sapiens)
+T124	SO 1911 1915	gene
+#124	AnnotatorNotes T124	SO:0000704 (gene)
+T125	SO 1926 1950	evolutionarily conserved
+#125	AnnotatorNotes T125	SO:0000857 (homologous)
+T126	taxonomic_rank 1962 1969	species
+#126	AnnotatorNotes T126	species (null)
+T127	NCBITaxon 1983 1991	bacteria
+#127	AnnotatorNotes T127	NCBITaxon:2 (Bacteria)
+T128	NCBITaxon 1993 1998	yeast
+#128	AnnotatorNotes T128	NCBITaxon:4892 (Saccharomycetales)
+T129	italic 2000 2010	C. elegans
+#129	AnnotatorNotes T129	italic (null)
+T130	NCBITaxon 2000 2010	C. elegans
+#130	AnnotatorNotes T130	NCBITaxon:6239 (Caenorhabditis elegans)
+T131	taxonomic_rank 2000 2010	C. elegans
+#131	AnnotatorNotes T131	taxonomic_rank (null)
+T132	italic 2016 2031	D. melanogaster
+#132	AnnotatorNotes T132	italic (null)
+T133	taxonomic_rank 2016 2031	D. melanogaster
+#133	AnnotatorNotes T133	taxonomic_rank (null)
+T134	NCBITaxon 2016 2031	D. melanogaster
+#134	AnnotatorNotes T134	NCBITaxon:7227 (Drosophila melanogaster)
+T135	NCBITaxon 2035 2042	mammals
+#135	AnnotatorNotes T135	NCBITaxon:40674 (Mammalia)
+T136	SO 2048 2056	sequence
+#136	AnnotatorNotes T136	SO:0000001 (region)
+T137	SO 2057 2069	conservation
+#137	AnnotatorNotes T137	SO:0000856 (conserved)
+T138	taxonomic_rank 2116 2123	species
+#138	AnnotatorNotes T138	species (null)
+T139	SO 2176 2181	genes
+#139	AnnotatorNotes T139	SO:0000704 (gene)
+T140	italic 2228 2232	ACDP
+#140	AnnotatorNotes T140	italic (null)
+T141	SO 2233 2237	gene
+#141	AnnotatorNotes T141	SO:0000704 (gene)
+T142	italic 2274 2278	Acdp
+#142	AnnotatorNotes T142	italic (null)
+T143	NCBITaxon 2284 2289	mouse
+#143	AnnotatorNotes T143	NCBITaxon:10088 (Mus)
+T144	SO 2290 2299	homologue
+#144	AnnotatorNotes T144	SO:0000853 (homologous_region)
+T145	NCBITaxon 2307 2312	human
+#145	AnnotatorNotes T145	NCBITaxon:9606 (Homo sapiens)
+T146	italic 2313 2317	ACDP
+#146	AnnotatorNotes T146	italic (null)
+T147	SO 2318 2322	gene
+#147	AnnotatorNotes T147	SO:0000704 (gene)
+T148	CHEBI 2341 2350	Molecular
+#148	AnnotatorNotes T148	CHEBI:36357 (polyatomic entities)
+T149	SO 2371 2375	gene
+#149	AnnotatorNotes T149	SO:0000704 (gene)
+T150	NCBITaxon 2397 2402	mouse
+#150	AnnotatorNotes T150	NCBITaxon:10088 (Mus)
+T151	italic 2403 2407	Acdp
+#151	AnnotatorNotes T151	italic (null)
+T152	SO 2408 2413	genes
+#152	AnnotatorNotes T152	SO:0000704 (gene)
+T153	NCBITaxon 2419 2424	human
+#153	AnnotatorNotes T153	NCBITaxon:9606 (Homo sapiens)
+T154	italic 2425 2429	ACDP
+#154	AnnotatorNotes T154	italic (null)
+T155	SO 2430 2466	cDNA and predicted protein sequences
+#155	AnnotatorNotes T155	"cDNA .. sequences" SO:0000756 (cDNA)
+T156	SO 2439 2448	predicted
+#156	AnnotatorNotes T156	SO:0000732 (predicted)
+T157	CHEBI 2449 2456	protein
+#157	AnnotatorNotes T157	CHEBI:36080 (proteins)
+T158	NCBITaxon 2491 2496	mouse
+#158	AnnotatorNotes T158	NCBITaxon:10088 (Mus)
+T159	SO 2497 2500	EST
+#159	AnnotatorNotes T159	SO:0000345 (EST)
+T160	NCBITaxon 2548 2553	Mouse
+#160	AnnotatorNotes T160	NCBITaxon:10088 (Mus)
+T161	SO 2554 2557	EST
+#161	AnnotatorNotes T161	SO:0000345 (EST)
+T162	SO 2635 2638	EST
+#162	AnnotatorNotes T162	SO:0000345 (EST)
+T163	italic 2665 2670	Acdp1
+#163	AnnotatorNotes T163	italic (null)
+T164	EntrezGene 2665 2670	Acdp1
+#164	AnnotatorNotes T164	EG:83674
+T165	PR 2665 2670	Acdp1
+#165	AnnotatorNotes T165	PR:000005643 (metal transporter CNNM1)
+T166	italic 2683 2688	Acdp2
+#166	AnnotatorNotes T166	italic (null)
+T167	PR 2683 2688	Acdp2
+#167	AnnotatorNotes T167	PR:000005644 (metal transporter CNNM2)
+T168	EntrezGene 2683 2688	Acdp2
+#168	AnnotatorNotes T168	EG:94219
+T169	italic 2706 2711	Acdp3
+#169	AnnotatorNotes T169	italic (null)
+T170	PR 2706 2711	Acdp3
+#170	AnnotatorNotes T170	PR:000005645 (metal transporter CNNM3)
+T171	EntrezGene 2706 2711	Acdp3
+#171	AnnotatorNotes T171	EG:94218
+T172	italic 2729 2734	Acdp4
+#172	AnnotatorNotes T172	italic (null)
+T173	PR 2729 2734	Acdp4
+#173	AnnotatorNotes T173	PR:000005646 (metal transporter CNNM4)
+T174	EntrezGene 2729 2734	Acdp4
+#174	AnnotatorNotes T174	EG:94220
+T175	SO 2738 2746	modified
+#175	AnnotatorNotes T175	SO:0000041 (sequence_operation)
+T176	SO 2747 2752	oligo
+#176	AnnotatorNotes T176	SO:0000696 (oligo)
+T177	GO_BP 2789 2791	RT
+#177	AnnotatorNotes T177	GO:0006410 (transcription, RNA-dependent)
+T178	independent_continuant 2789 2791	RT
+#178	AnnotatorNotes T178	independent_continuant
+T179	GO_MF 2789 2791	RT
+#179	AnnotatorNotes T179	GO:0003964 (RNA-directed DNA polymerase activity)
+T180	SO 2804 2818	forward primer
+#180	AnnotatorNotes T180	SO:0000121 (forward_primer)
+T181	SO 2804 2811	forward
+#181	AnnotatorNotes T181	SO:0001030 (forward)
+T182	SO 2829 2832	EST
+#182	AnnotatorNotes T182	SO:0000345 (EST)
+T183	SO 2852 2858	primer
+#183	AnnotatorNotes T183	SO:0000112 (primer)
+T184	SO 2860 2864	olig
+#184	AnnotatorNotes T184	SO:0000696 (oligo)
+T185	SO 2899 2914	3' UTR sequence
+#185	AnnotatorNotes T185	SO:0000205 (three_prime_UTR)
+T186	SO 2943 2947	gene
+#186	AnnotatorNotes T186	SO:0000704 (gene)
+T187	GO_BP 2957 2959	RT
+#187	AnnotatorNotes T187	GO:0006410 (transcription, RNA-dependent)
+T188	independent_continuant 2957 2959	RT
+#188	AnnotatorNotes T188	independent_continuant
+T189	GO_MF 2957 2959	RT
+#189	AnnotatorNotes T189	GO:0003964 (RNA-directed DNA polymerase activity)
+T190	SO 2960 2968	products
+#190	AnnotatorNotes T190	SO:0000006 (PCR_product)
+T191	SO 2987 3003	coding sequences
+#191	AnnotatorNotes T191	SO:0000851 (CDS_region)
+T192	italic 3012 3016	Acdp
+#192	AnnotatorNotes T192	italic (null)
+T193	SO 3017 3022	genes
+#193	AnnotatorNotes T193	SO:0000704 (gene)
+T194	NCBITaxon 3078 3083	mouse
+#194	AnnotatorNotes T194	NCBITaxon:10088 (Mus)
+T195	NCBITaxon 3088 3093	human
+#195	AnnotatorNotes T195	NCBITaxon:9606 (Homo sapiens)
+T196	SO 3094 3101	primers
+#196	AnnotatorNotes T196	SO:0000112 (primer)
+T197	SO 3107 3123	5' UTR sequences
+#197	AnnotatorNotes T197	SO:0000204 (five_prime_UTR)
+T198	SO 3163 3166	BAC
+#198	AnnotatorNotes T198	SO:0000153 (BAC)
+T199	SO 3167 3170	DNA
+#199	AnnotatorNotes T199	SO:0000352 (DNA)
+T200	italic 3200 3204	Acdp
+#200	AnnotatorNotes T200	italic (null)
+T201	SO 3205 3210	genes
+#201	AnnotatorNotes T201	SO:0000704 (gene)
+T202	SO 3216 3219	BAC
+#202	AnnotatorNotes T202	SO:0000153 (BAC)
+T203	SO 3220 3226	clones
+#203	AnnotatorNotes T203	SO:0000151 (clone)
+T204	NCBITaxon 3263 3268	mouse
+#204	AnnotatorNotes T204	NCBITaxon:10088 (Mus)
+T205	SO 3269 3272	BAC
+#205	AnnotatorNotes T205	SO:0000153 (BAC)
+T206	SO 3273 3276	DNA
+#206	AnnotatorNotes T206	SO:0000352 (DNA)
+T207	SO 3310 3326	5' UTR sequences
+#207	AnnotatorNotes T207	SO:0000204 (five_prime_UTR)
+T208	GO_BP 3373 3375	RT
+#208	AnnotatorNotes T208	GO:0006410 (transcription, RNA-dependent)
+T209	independent_continuant 3373 3375	RT
+#209	AnnotatorNotes T209	independent_continuant
+T210	GO_MF 3373 3375	RT
+#210	AnnotatorNotes T210	GO:0003964 (RNA-directed DNA polymerase activity)
+T211	italic 3385 3390	Acdp1
+#211	AnnotatorNotes T211	italic (null)
+T212	PR 3385 3390	Acdp1
+#212	AnnotatorNotes T212	PR:000005643 (metal transporter CNNM1)
+T213	EntrezGene 3385 3390	Acdp1
+#213	AnnotatorNotes T213	EG:83674
+T214	SO 3391 3395	gene
+#214	AnnotatorNotes T214	SO:0000704 (gene)
+T215	SO 3411 3413	bp
+#215	AnnotatorNotes T215	SO:0000028 (base_pair)
+T216	SO 3417 3436	nucleotide sequence
+#216	AnnotatorNotes T216	SO:0000348 (nucleic_acid)
+T217	CHEBI 3417 3427	nucleotide
+#217	AnnotatorNotes T217	CHEBI:25613 (nucleotidyl groups)
+T218	SO 3417 3427	nucleotide
+#218	AnnotatorNotes T218	SO:0001236 (base)
+T219	SO 3451 3460	predicted
+#219	AnnotatorNotes T219	SO:0000732 (predicted)
+T220	CHEBI 3461 3468	protein
+#220	AnnotatorNotes T220	CHEBI:36080 (proteins)
+T221	CHEBI 3478 3489	amino acids
+#221	AnnotatorNotes T221	CHEBI:33708 (amino-acid residue)
+T222	SO 3478 3489	amino acids
+#222	AnnotatorNotes T222	SO:0001237 (amino_acid)
+T223	CHEBI 3478 3483	amino
+#223	AnnotatorNotes T223	CHEBI:32952 (amines)
+T224	CHEBI 3478 3483	amino
+#224	AnnotatorNotes T224	CHEBI:46882 (amino group)
+T225	CHEBI 3484 3489	acids
+#225	AnnotatorNotes T225	CHEBI:37527 (acid)
+T226	CHEBI 3491 3493	AA
+#226	AnnotatorNotes T226	CHEBI:33708 (amino-acid residue)
+T227	SO 3491 3493	AA
+#227	AnnotatorNotes T227	SO:0001237 (amino_acid)
+T228	italic 3512 3516	Acdp
+#228	AnnotatorNotes T228	italic (null)
+T229	SO 3517 3522	genes
+#229	AnnotatorNotes T229	SO:0000704 (gene)
+T230	italic 3524 3538	Acdp2, 3 and 4
+#230	AnnotatorNotes T230	italic (null)
+T231	EntrezGene 3524 3529	Acdp2
+#231	AnnotatorNotes T231	EG:94219
+T232	PR 3524 3529	Acdp2
+#232	AnnotatorNotes T232	PR:000005644 (metal transporter CNNM2)
+T233	SO 3554 3556	bp
+#233	AnnotatorNotes T233	SO:0000028 (base_pair)
+T234	SO 3564 3566	bp
+#234	AnnotatorNotes T234	SO:0000028 (base_pair)
+T235	SO 3577 3579	bp
+#235	AnnotatorNotes T235	SO:0000028 (base_pair)
+T236	SO 3583 3597	cDNA sequences
+#236	AnnotatorNotes T236	SO:0000756 (cDNA)
+T237	SO 3610 3617	deduced
+#237	AnnotatorNotes T237	SO:0000732 (predicted)
+T238	CHEBI 3618 3626	proteins
+#238	AnnotatorNotes T238	CHEBI:36080 (proteins)
+T239	CHEBI 3634 3645	amino acids
+#239	AnnotatorNotes T239	CHEBI:33708 (amino-acid residue)
+T240	SO 3634 3645	amino acids
+#240	AnnotatorNotes T240	SO:0001237 (amino_acid)
+T241	CHEBI 3634 3639	amino
+#241	AnnotatorNotes T241	CHEBI:32952 (amines)
+T242	CHEBI 3634 3639	amino
+#242	AnnotatorNotes T242	CHEBI:46882 (amino group)
+T243	CHEBI 3640 3645	acids
+#243	AnnotatorNotes T243	CHEBI:37527 (acid)
+T244	CHEBI 3651 3662	amino acids
+#244	AnnotatorNotes T244	CHEBI:33708 (amino-acid residue)
+T245	SO 3651 3662	amino acids
+#245	AnnotatorNotes T245	SO:0001237 (amino_acid)
+T246	CHEBI 3651 3656	amino
+#246	AnnotatorNotes T246	CHEBI:32952 (amines)
+T247	CHEBI 3651 3656	amino
+#247	AnnotatorNotes T247	CHEBI:46882 (amino group)
+T248	CHEBI 3657 3662	acids
+#248	AnnotatorNotes T248	CHEBI:37527 (acid)
+T249	CHEBI 3671 3682	amino acids
+#249	AnnotatorNotes T249	CHEBI:33708 (amino-acid residue)
+T250	SO 3671 3682	amino acids
+#250	AnnotatorNotes T250	SO:0001237 (amino_acid)
+T251	CHEBI 3671 3676	amino
+#251	AnnotatorNotes T251	CHEBI:32952 (amines)
+T252	CHEBI 3671 3676	amino
+#252	AnnotatorNotes T252	CHEBI:46882 (amino group)
+T253	CHEBI 3677 3682	acids
+#253	AnnotatorNotes T253	CHEBI:37527 (acid)
+T254	GO_BP 3706 3718	distribution
+#254	AnnotatorNotes T254	GO:0051179 (localization)
+T255	italic 3750 3754	Acdp
+#255	AnnotatorNotes T255	italic (null)
+T256	SO 3755 3759	gene
+#256	AnnotatorNotes T256	SO:0000704 (gene)
+T257	NCBITaxon 3838 3843	mouse
+#257	AnnotatorNotes T257	NCBITaxon:10088 (Mus)
+T258	SO 3896 3904	sequence
+#258	AnnotatorNotes T258	SO:0000001 (region)
+T259	SO 3905 3915	homologies
+#259	AnnotatorNotes T259	SO:0000857 (homologous)
+T260	SO 3952 3961	conserved
+#260	AnnotatorNotes T260	SO:0000856 (conserved)
+T261	SO 3962 3968	domain
+#261	AnnotatorNotes T261	SO:0000417 (polypeptide_domain)
+T262	SO 3970 3976	probes
+#262	AnnotatorNotes T262	SO:0000051 (probe)
+T263	SO 4005 4014	fragments
+#263	AnnotatorNotes T263	SO:0000731 (fragmentary)
+T264	SO 4029 4033	exon
+#264	AnnotatorNotes T264	SO:0000147 (exon)
+T265	SO 4042 4074	3' untranslated region sequences
+#265	AnnotatorNotes T265	SO:0000205 (three_prime_UTR)
+T266	NCBITaxon 4080 4085	mouse
+#266	AnnotatorNotes T266	NCBITaxon:10088 (Mus)
+T267	italic 4086 4090	Acdp
+#267	AnnotatorNotes T267	italic (null)
+T268	SO 4091 4099	messages
+#268	AnnotatorNotes T268	SO:0000673 (transcript)
+T269	GO_BP 4130 4143	distributions
+#269	AnnotatorNotes T269	GO:0051179 (localization)
+T270	NCBITaxon 4151 4156	human
+#270	AnnotatorNotes T270	NCBITaxon:9606 (Homo sapiens)
+T271	italic 4157 4161	ACDP
+#271	AnnotatorNotes T271	italic (null)
+T272	SO 4162 4167	genes
+#272	AnnotatorNotes T272	SO:0000704 (gene)
+T273	italic 4169 4174	Acdp1
+#273	AnnotatorNotes T273	italic (null)
+T274	PR 4169 4174	Acdp1
+#274	AnnotatorNotes T274	PR:000005643 (metal transporter CNNM1)
+T275	EntrezGene 4169 4174	Acdp1
+#275	AnnotatorNotes T275	EG:83674
+T276	SO 4175 4182	message
+#276	AnnotatorNotes T276	SO:0000673 (transcript)
+T277	GO_BP 4193 4202	expressed
+#277	AnnotatorNotes T277	GO:0010467 (gene expression)
+T278	GO_BP 4267 4277	expression
+#278	AnnotatorNotes T278	GO:0010467 (gene expression)
+T279	italic 4279 4284	Acdp2
+#279	AnnotatorNotes T279	italic (null)
+T280	PR 4279 4284	Acdp2
+#280	AnnotatorNotes T280	PR:000005644 (metal transporter CNNM2)
+T281	EntrezGene 4279 4284	Acdp2
+#281	AnnotatorNotes T281	EG:94219
+T282	GO_BP 4299 4310	expressions
+#282	AnnotatorNotes T282	GO:0010467 (gene expression)
+T283	italic 4356 4361	Acdp2
+#283	AnnotatorNotes T283	italic (null)
+T284	PR 4356 4361	Acdp2
+#284	AnnotatorNotes T284	PR:000005644 (metal transporter CNNM2)
+T285	EntrezGene 4356 4361	Acdp2
+#285	AnnotatorNotes T285	EG:94219
+T286	SO 4362 4372	transcript
+#286	AnnotatorNotes T286	SO:0000673 (transcript)
+T287	GO_BP 4455 4465	expression
+#287	AnnotatorNotes T287	GO:0010467 (gene expression)
+T288	italic 4490 4495	Acdp3
+#288	AnnotatorNotes T288	italic (null)
+T289	PR 4490 4495	Acdp3
+#289	AnnotatorNotes T289	PR:000005645 (metal transporter CNNM3)
+T290	EntrezGene 4490 4495	Acdp3
+#290	AnnotatorNotes T290	EG:94218
+T291	italic 4500 4505	Acdp4
+#291	AnnotatorNotes T291	italic (null)
+T292	PR 4500 4505	Acdp4
+#292	AnnotatorNotes T292	PR:000005646 (metal transporter CNNM4)
+T293	EntrezGene 4500 4505	Acdp4
+#293	AnnotatorNotes T293	EG:94220
+T294	GO_BP 4533 4543	expression
+#294	AnnotatorNotes T294	GO:0010467 (gene expression)
+T295	GO_BP 4579 4590	expressions
+#295	AnnotatorNotes T295	GO:0010467 (gene expression)
+T296	italic 4595 4600	Acdp3
+#296	AnnotatorNotes T296	italic (null)
+T297	EntrezGene 4595 4600	Acdp3
+#297	AnnotatorNotes T297	EG:94218
+T298	PR 4595 4600	Acdp3
+#298	AnnotatorNotes T298	PR:000005645 (metal transporter CNNM3)
+T299	GO_BP 4670 4681	expressions
+#299	AnnotatorNotes T299	GO:0010467 (gene expression)
+T300	italic 4686 4691	Acdp4
+#300	AnnotatorNotes T300	italic (null)
+T301	EntrezGene 4686 4691	Acdp4
+#301	AnnotatorNotes T301	EG:94220
+T302	PR 4686 4691	Acdp4
+#302	AnnotatorNotes T302	PR:000005646 (metal transporter CNNM4)
+T303	GO_BP 4753 4763	expression
+#303	AnnotatorNotes T303	GO:0010467 (gene expression)
+T304	italic 4775 4780	Acdp3
+#304	AnnotatorNotes T304	italic (null)
+T305	PR 4775 4780	Acdp3
+#305	AnnotatorNotes T305	PR:000005645 (metal transporter CNNM3)
+T306	EntrezGene 4775 4780	Acdp3
+#306	AnnotatorNotes T306	EG:94218
+T307	italic 4785 4786	4
+#307	AnnotatorNotes T307	italic (null)
+T308	EntrezGene 4839 4846	β-actin
+#308	AnnotatorNotes T308	EG:11461
+T309	PR 4839 4846	β-actin
+#309	AnnotatorNotes T309	PR:000003676 (actin, cytoplasmic 1)
+T310	GO_BP 4861 4871	expression
+#310	AnnotatorNotes T310	GO:0010467 (gene expression)
+T311	SO 4930 4933	RNA
+#311	AnnotatorNotes T311	SO:0000356 (RNA)
+T312	GO_BP 4975 4985	expression
+#312	AnnotatorNotes T312	GO:0010467 (gene expression)
+T313	CHEBI 5066 5074	proteins
+#313	AnnotatorNotes T313	CHEBI:36080 (proteins)
+T314	GO_BP 5090 5110	biological processes
+#314	AnnotatorNotes T314	GO:0008150 (biological_process)
+T315	SO 5130 5138	sequence
+#315	AnnotatorNotes T315	SO:0000001 (region)
+T316	SO 5139 5151	conservation
+#316	AnnotatorNotes T316	SO:0000856 (conserved)
+T317	taxonomic_rank 5180 5187	species
+#317	AnnotatorNotes T317	species (null)
+T318	italic 5230 5234	Acdp
+#318	AnnotatorNotes T318	italic (null)
+T319	SO 5235 5239	gene
+#319	AnnotatorNotes T319	SO:0000704 (gene)
+T320	GO_CC 5391 5402	Chromosomal
+#320	AnnotatorNotes T320	GO:0005694 (chromosome)
+T321	SO 5391 5402	Chromosomal
+#321	AnnotatorNotes T321	SO:0000340 (chromosome)
+T322	italic 5457 5462	Acdp1
+#322	AnnotatorNotes T322	italic (null)
+T323	PR 5457 5462	Acdp1
+#323	AnnotatorNotes T323	PR:000005643 (metal transporter CNNM1)
+T324	EntrezGene 5457 5462	Acdp1
+#324	AnnotatorNotes T324	EG:83674
+T325	SO 5463 5467	gene
+#325	AnnotatorNotes T325	SO:0000704 (gene)
+T326	GO_CC 5476 5486	chromosome
+#326	AnnotatorNotes T326	GO:0005694 (chromosome)
+T327	SO 5476 5486	chromosome
+#327	AnnotatorNotes T327	SO:0000340 (chromosome)
+T328	italic 5506 5515	D19Mit119
+#328	AnnotatorNotes T328	italic (null)
+T329	italic 5538 5547	D19Mit112
+#329	AnnotatorNotes T329	italic (null)
+T330	italic 5570 5575	Acdp2
+#330	AnnotatorNotes T330	italic (null)
+T331	PR 5570 5575	Acdp2
+#331	AnnotatorNotes T331	PR:000005644 (metal transporter CNNM2)
+T332	EntrezGene 5570 5575	Acdp2
+#332	AnnotatorNotes T332	EG:94219
+T333	SO 5576 5580	gene
+#333	AnnotatorNotes T333	SO:0000704 (gene)
+T334	italic 5614 5619	Acdp1
+#334	AnnotatorNotes T334	italic (null)
+T335	EntrezGene 5614 5619	Acdp1
+#335	AnnotatorNotes T335	EG:83674
+T336	PR 5614 5619	Acdp1
+#336	AnnotatorNotes T336	PR:000005643 (metal transporter CNNM1)
+T337	GO_CC 5623 5633	chromosome
+#337	AnnotatorNotes T337	GO:0005694 (chromosome)
+T338	SO 5623 5633	chromosome
+#338	AnnotatorNotes T338	SO:0000340 (chromosome)
+T339	italic 5645 5652	D19Mit9
+#339	AnnotatorNotes T339	italic (null)
+T340	italic 5675 5683	D19Mit38
+#340	AnnotatorNotes T340	italic (null)
+T341	italic 5706 5711	Acdp3
+#341	AnnotatorNotes T341	italic (null)
+T342	EntrezGene 5706 5711	Acdp3
+#342	AnnotatorNotes T342	EG:94218
+T343	PR 5706 5711	Acdp3
+#343	AnnotatorNotes T343	PR:000005645 (metal transporter CNNM3)
+T344	italic 5716 5721	Acdp4
+#344	AnnotatorNotes T344	italic (null)
+T345	EntrezGene 5716 5721	Acdp4
+#345	AnnotatorNotes T345	EG:94220
+T346	PR 5716 5721	Acdp4
+#346	AnnotatorNotes T346	PR:000005646 (metal transporter CNNM4)
+T347	SO 5722 5727	genes
+#347	AnnotatorNotes T347	SO:0000704 (gene)
+T348	GO_CC 5735 5745	chromosome
+#348	AnnotatorNotes T348	GO:0005694 (chromosome)
+T349	SO 5735 5745	chromosome
+#349	AnnotatorNotes T349	SO:0000340 (chromosome)
+T350	SO 5759 5762	BAC
+#350	AnnotatorNotes T350	SO:0000153 (BAC)
+T351	SO 5763 5768	clone
+#351	AnnotatorNotes T351	SO:0000151 (clone)
+T352	italic 5803 5811	D1Mit171
+#352	AnnotatorNotes T352	italic (null)
+T353	SO 5829 5836	regions
+#353	AnnotatorNotes T353	SO:0000001 (region)
+T354	SO 5841 5849	syntenic
+#354	AnnotatorNotes T354	SO:0000860 (syntenic)
+T355	NCBITaxon 5857 5862	human
+#355	AnnotatorNotes T355	NCBITaxon:9606 (Homo sapiens)
+T356	SO 5863 5875	counterparts
+#356	AnnotatorNotes T356	SO:0000853 (homologous_region)
+T357	SO 5878 5886	Sequence
+#357	AnnotatorNotes T357	SO:0000001 (region)
+T358	SO 5887 5895	homology
+#358	AnnotatorNotes T358	SO:0000857 (homologous)
+T359	CHEBI 5900 5909	molecular
+#359	AnnotatorNotes T359	CHEBI:36357 (polyatomic entities)
+T360	NCBITaxon 5931 5936	mouse
+#360	AnnotatorNotes T360	NCBITaxon:10088 (Mus)
+T361	italic 5937 5941	Acdp
+#361	AnnotatorNotes T361	italic (null)
+T362	SO 5942 5947	genes
+#362	AnnotatorNotes T362	SO:0000704 (gene)
+T363	SO 5967 5977	homologies
+#363	AnnotatorNotes T363	SO:0000857 (homologous)
+T364	SO 5986 6013	nucleotide and AA sequences
+#364	AnnotatorNotes T364	"nucleotide .. sequences" SO:0000348 (nucleic_acid)
+T365	CHEBI 5986 5996	nucleotide
+#365	AnnotatorNotes T365	CHEBI:25613 (nucleotidyl groups)
+T366	SO 5986 5996	nucleotide
+#366	AnnotatorNotes T366	SO:0001236 (base)
+T367	SO 6001 6013	AA sequences
+#367	AnnotatorNotes T367	SO:0001407 (peptidyl)
+T368	CHEBI 6001 6003	AA
+#368	AnnotatorNotes T368	CHEBI:33708 (amino-acid residue)
+T369	SO 6001 6003	AA
+#369	AnnotatorNotes T369	SO:0001237 (amino_acid)
+T370	NCBITaxon 6021 6026	human
+#370	AnnotatorNotes T370	NCBITaxon:9606 (Homo sapiens)
+T371	italic 6027 6031	ACDP
+#371	AnnotatorNotes T371	italic (null)
+T372	SO 6032 6037	genes
+#372	AnnotatorNotes T372	SO:0000704 (gene)
+T373	SO 6061 6071	homologies
+#373	AnnotatorNotes T373	SO:0000857 (homologous)
+T374	EntrezGene 6098 6109	human ACDP2
+#374	AnnotatorNotes T374	EG:54805
+T375	NCBITaxon 6098 6103	human
+#375	AnnotatorNotes T375	NCBITaxon:9606 (Homo sapiens)
+T376	italic 6104 6109	ACDP2
+#376	AnnotatorNotes T376	italic (null)
+T377	PR 6104 6109	ACDP2
+#377	AnnotatorNotes T377	PR:000005644 (metal transporter CNNM2)
+T378	EntrezGene 6118 6129	mouse Acdp2
+#378	AnnotatorNotes T378	EG:94219
+T379	NCBITaxon 6118 6123	mouse
+#379	AnnotatorNotes T379	NCBITaxon:10088 (Mus)
+T380	italic 6124 6129	Acdp2
+#380	AnnotatorNotes T380	italic (null)
+T381	PR 6124 6129	Acdp2
+#381	AnnotatorNotes T381	PR:000005644 (metal transporter CNNM2)
+T382	SO 6130 6134	gene
+#382	AnnotatorNotes T382	SO:0000704 (gene)
+T383	CHEBI 6143 6153	nucleotide
+#383	AnnotatorNotes T383	CHEBI:25613 (nucleotidyl groups)
+T384	SO 6143 6153	nucleotide
+#384	AnnotatorNotes T384	SO:0001236 (base)
+T385	CHEBI 6171 6173	AA
+#385	AnnotatorNotes T385	CHEBI:33708 (amino-acid residue)
+T386	SO 6171 6173	AA
+#386	AnnotatorNotes T386	SO:0001237 (amino_acid)
+T387	CHEBI 6196 6198	AA
+#387	AnnotatorNotes T387	CHEBI:33708 (amino-acid residue)
+T388	SO 6196 6198	AA
+#388	AnnotatorNotes T388	SO:0001237 (amino_acid)
+T389	SO 6199 6207	homology
+#389	AnnotatorNotes T389	SO:0000857 (homologous)
+T390	SO 6227 6254	5' UTR nucleotide sequences
+#390	AnnotatorNotes T390	SO:0000204 (five_prime_UTR)
+T391	CHEBI 6234 6244	nucleotide
+#391	AnnotatorNotes T391	CHEBI:25613 (nucleotidyl groups)
+T392	SO 6234 6244	nucleotide
+#392	AnnotatorNotes T392	SO:0001236 (base)
+T393	SO 6234 6244	nucleotide
+#393	AnnotatorNotes T393	SO:0000348 (nucleic_acid)
+T394	SO 6259 6261	bp
+#394	AnnotatorNotes T394	SO:0000028 (base_pair)
+T395	CHEBI 6265 6276	nucleotides
+#395	AnnotatorNotes T395	CHEBI:25613 (nucleotidyl groups)
+T396	SO 6265 6276	nucleotides
+#396	AnnotatorNotes T396	SO:0001236 (base)
+T397	SO 6284 6295	start codon
+#397	AnnotatorNotes T397	SO:0000318 (start_codon)
+T398	GO_BP 6284 6289	start
+#398	AnnotatorNotes T398	GO:0006352 (transcription initiation)
+T399	GO_BP 6284 6289	start
+#399	AnnotatorNotes T399	GO:0006413 (translational initiation)
+T400	SO 6314 6324	homologies
+#400	AnnotatorNotes T400	SO:0000857 (homologous)
+T401	NCBITaxon 6332 6337	human
+#401	AnnotatorNotes T401	NCBITaxon:9606 (Homo sapiens)
+T402	SO 6338 6346	homologs
+#402	AnnotatorNotes T402	SO:0000853 (homologous_region)
+T403	italic 6365 6370	Acdp2
+#403	AnnotatorNotes T403	italic (null)
+T404	PR 6365 6370	Acdp2
+#404	AnnotatorNotes T404	PR:000005644 (metal transporter CNNM2)
+T405	EntrezGene 6365 6370	Acdp2
+#405	AnnotatorNotes T405	EG:94219
+T406	SO 6371 6386	5' UTR sequence
+#406	AnnotatorNotes T406	SO:0000204 (five_prime_UTR)
+T407	NCBITaxon 6416 6421	human
+#407	AnnotatorNotes T407	NCBITaxon:9606 (Homo sapiens)
+T408	SO 6422 6429	homolog
+#408	AnnotatorNotes T408	SO:0000853 (homologous_region)
+T409	SO 6444 6454	homologies
+#409	AnnotatorNotes T409	SO:0000857 (homologous)
+T410	SO 6462 6478	3' UTR sequences
+#410	AnnotatorNotes T410	SO:0000205 (three_prime_UTR)
+T411	SO 6483 6485	bp
+#411	AnnotatorNotes T411	SO:0000028 (base_pair)
+T412	CHEBI 6489 6500	nucleotides
+#412	AnnotatorNotes T412	CHEBI:25613 (nucleotidyl groups)
+T413	SO 6489 6500	nucleotides
+#413	AnnotatorNotes T413	SO:0001236 (base)
+T414	SO 6507 6517	stop codon
+#414	AnnotatorNotes T414	SO:0000319 (stop_codon)
+T415	GO_BP 6507 6511	stop
+#415	AnnotatorNotes T415	GO:0006353 (transcription termination)
+T416	GO_BP 6507 6511	stop
+#416	AnnotatorNotes T416	GO:0006415 (translational termination)
+T417	italic 6552 6556	Acdp
+#417	AnnotatorNotes T417	italic (null)
+T418	SO 6557 6562	genes
+#418	AnnotatorNotes T418	SO:0000704 (gene)
+T419	italic 6570 6575	Acdp4
+#419	AnnotatorNotes T419	italic (null)
+T420	EntrezGene 6570 6575	Acdp4
+#420	AnnotatorNotes T420	EG:94220
+T421	PR 6570 6575	Acdp4
+#421	AnnotatorNotes T421	PR:000005646 (metal transporter CNNM4)
+T422	NCBITaxon 6597 6602	human
+#422	AnnotatorNotes T422	NCBITaxon:9606 (Homo sapiens)
+T423	SO 6603 6610	homolog
+#423	AnnotatorNotes T423	SO:0000853 (homologous_region)
+T424	SO 6625 6634	conserved
+#424	AnnotatorNotes T424	SO:0000856 (conserved)
+T425	SO 6635 6641	domain
+#425	AnnotatorNotes T425	SO:0000417 (polypeptide_domain)
+T426	CHEBI 6661 6663	AA
+#426	AnnotatorNotes T426	CHEBI:33708 (amino-acid residue)
+T427	SO 6661 6663	AA
+#427	AnnotatorNotes T427	SO:0001237 (amino_acid)
+T428	SO 6686 6694	homology
+#428	AnnotatorNotes T428	SO:0000857 (homologous)
+T429	NCBITaxon 6707 6712	mouse
+#429	AnnotatorNotes T429	NCBITaxon:10088 (Mus)
+T430	NCBITaxon 6717 6722	human
+#430	AnnotatorNotes T430	NCBITaxon:9606 (Homo sapiens)
+T431	CHEBI 6728 6736	proteins
+#431	AnnotatorNotes T431	CHEBI:36080 (proteins)
+T432	SO 6755 6761	domain
+#432	AnnotatorNotes T432	SO:0000417 (polypeptide_domain)
+T433	SO 6765 6789	evolutionarily conserved
+#433	AnnotatorNotes T433	SO:0000857 (homologous)
+T434	taxonomic_rank 6803 6810	species
+#434	AnnotatorNotes T434	species (null)
+T435	NCBITaxon 6824 6832	bacteria
+#435	AnnotatorNotes T435	NCBITaxon:2 (Bacteria)
+T436	NCBITaxon 6834 6839	yeast
+#436	AnnotatorNotes T436	NCBITaxon:4892 (Saccharomycetales)
+T437	italic 6841 6851	C. elegans
+#437	AnnotatorNotes T437	italic (null)
+T438	taxonomic_rank 6841 6851	C. elegans
+#438	AnnotatorNotes T438	taxonomic_rank (null)
+T439	NCBITaxon 6841 6851	C. elegans
+#439	AnnotatorNotes T439	NCBITaxon:6239 (Caenorhabditis elegans)
+T440	italic 6853 6868	D. melanogaster
+#440	AnnotatorNotes T440	italic (null)
+T441	NCBITaxon 6853 6868	D. melanogaster
+#441	AnnotatorNotes T441	NCBITaxon:7227 (Drosophila melanogaster)
+T442	taxonomic_rank 6853 6868	D. melanogaster
+#442	AnnotatorNotes T442	taxonomic_rank (null)
+T443	NCBITaxon 6870 6875	mouse
+#443	AnnotatorNotes T443	NCBITaxon:10088 (Mus)
+T444	NCBITaxon 6879 6884	human
+#444	AnnotatorNotes T444	NCBITaxon:9606 (Homo sapiens)
+T445	CHEBI 6934 6942	proteins
+#445	AnnotatorNotes T445	CHEBI:36080 (proteins)
+T446	CHEBI 6962 6964	AA
+#446	AnnotatorNotes T446	CHEBI:33708 (amino-acid residue)
+T447	SO 6962 6964	AA
+#447	AnnotatorNotes T447	SO:0001237 (amino_acid)
+T448	SO 6965 6973	homology
+#448	AnnotatorNotes T448	SO:0000857 (homologous)
+T449	NCBITaxon 6977 6985	bacteria
+#449	AnnotatorNotes T449	NCBITaxon:2 (Bacteria)
+T450	EntrezGene 6986 6990	CorC
+#450	AnnotatorNotes T450	EG:1169007
+T451	PR 6986 6990	CorC
+#451	AnnotatorNotes T451	PR:000022321 (magnesium and cobalt efflux protein corC)
+T452	CHEBI 6991 6998	protein
+#452	AnnotatorNotes T452	CHEBI:36080 (proteins)
+T453	CHEBI 7004 7006	AA
+#453	AnnotatorNotes T453	CHEBI:33708 (amino-acid residue)
+T454	SO 7004 7006	AA
+#454	AnnotatorNotes T454	SO:0001237 (amino_acid)
+T455	SO 7025 7033	homology
+#455	AnnotatorNotes T455	SO:0000857 (homologous)
+T456	CHEBI 7057 7066	magnesium
+#456	AnnotatorNotes T456	CHEBI:25107 (magnesium)
+T457	CHEBI 7071 7077	cobalt
+#457	AnnotatorNotes T457	CHEBI:27638 (cobalt)
+T458	CHEBI 7095 7097	AA
+#458	AnnotatorNotes T458	CHEBI:33708 (amino-acid residue)
+T459	SO 7095 7097	AA
+#459	AnnotatorNotes T459	SO:0001237 (amino_acid)
+T460	SO 7098 7106	homology
+#460	AnnotatorNotes T460	SO:0000857 (homologous)
+T461	CHEBI 7142 7150	proteins
+#461	AnnotatorNotes T461	CHEBI:36080 (proteins)
+T462	NCBITaxon 7159 7164	yeast
+#462	AnnotatorNotes T462	NCBITaxon:4892 (Saccharomycetales)
+T463	EntrezGene 7165 7170	Amip3
+#463	AnnotatorNotes T463	EG:854094
+T464	CHEBI 7171 7178	protein
+#464	AnnotatorNotes T464	CHEBI:36080 (proteins)
+T465	CHEBI 7184 7186	AA
+#465	AnnotatorNotes T465	CHEBI:33708 (amino-acid residue)
+T466	SO 7184 7186	AA
+#466	AnnotatorNotes T466	SO:0001237 (amino_acid)
+T467	SO 7205 7213	homology
+#467	AnnotatorNotes T467	SO:0000857 (homologous)
+T468	EntrezGene 7220 7225	Amip3
+#468	AnnotatorNotes T468	EG:854094
+T469	SO 7244 7254	homologous
+#469	AnnotatorNotes T469	SO:0000857 (homologous)
+T470	NCBITaxon 7262 7270	bacteria
+#470	AnnotatorNotes T470	NCBITaxon:2 (Bacteria)
+T471	EntrezGene 7271 7275	CorC
+#471	AnnotatorNotes T471	EG:1169007
+T472	PR 7271 7275	CorC
+#472	AnnotatorNotes T472	PR:000022321 (magnesium and cobalt efflux protein corC)
+T473	CHEBI 7276 7283	protein
+#473	AnnotatorNotes T473	CHEBI:36080 (proteins)
+T474	EntrezGene 7289 7294	Amip3
+#474	AnnotatorNotes T474	EG:854094
+T475	SO 7295 7302	mutants
+#475	AnnotatorNotes T475	SO:0001060 (sequence_variant)
+T476	CHEBI 7324 7330	copper
+#476	AnnotatorNotes T476	CHEBI:28694 (copper)
+T477	CHEBI 7480 7488	proteins
+#477	AnnotatorNotes T477	CHEBI:36080 (proteins)
+T478	CHEBI 7553 7555	AA
+#478	AnnotatorNotes T478	CHEBI:33708 (amino-acid residue)
+T479	SO 7553 7555	AA
+#479	AnnotatorNotes T479	SO:0001237 (amino_acid)
+T480	SO 7556 7564	homology
+#480	AnnotatorNotes T480	SO:0000857 (homologous)
+T481	CHEBI 7568 7576	proteins
+#481	AnnotatorNotes T481	CHEBI:36080 (proteins)
+T482	CHEBI 7597 7607	Nucleotide
+#482	AnnotatorNotes T482	CHEBI:25613 (nucleotidyl groups)
+T483	SO 7597 7607	Nucleotide
+#483	AnnotatorNotes T483	SO:0001236 (base)
+T484	CHEBI 7612 7622	amino acid
+#484	AnnotatorNotes T484	CHEBI:33708 (amino-acid residue)
+T485	SO 7612 7622	amino acid
+#485	AnnotatorNotes T485	SO:0001237 (amino_acid)
+T486	CHEBI 7612 7617	amino
+#486	AnnotatorNotes T486	CHEBI:32952 (amines)
+T487	CHEBI 7618 7622	acid
+#487	AnnotatorNotes T487	CHEBI:37527 (acid)
+T488	SO 7623 7633	homologies
+#488	AnnotatorNotes T488	SO:0000857 (homologous)
+T489	NCBITaxon 7646 7651	human
+#489	AnnotatorNotes T489	NCBITaxon:9606 (Homo sapiens)
+T490	NCBITaxon 7661 7666	mouse
+#490	AnnotatorNotes T490	NCBITaxon:10088 (Mus)
+T491	SO 7692 7711	Amino acid sequence
+#491	AnnotatorNotes T491	SO:0001407 (peptidyl)
+T492	CHEBI 7692 7702	Amino acid
+#492	AnnotatorNotes T492	CHEBI:33708 (amino-acid residue)
+T493	SO 7692 7702	Amino acid
+#493	AnnotatorNotes T493	SO:0001237 (amino_acid)
+T494	CHEBI 7692 7697	Amino
+#494	AnnotatorNotes T494	CHEBI:32952 (amines)
+T495	CHEBI 7692 7697	Amino
+#495	AnnotatorNotes T495	CHEBI:46882 (amino group)
+T496	CHEBI 7698 7702	acid
+#496	AnnotatorNotes T496	CHEBI:37527 (acid)
+T497	SO 7712 7720	homology
+#497	AnnotatorNotes T497	SO:0000857 (homologous)
+T498	SO 7760 7765	genes
+#498	AnnotatorNotes T498	SO:0000704 (gene)
+T499	SO 7781 7787	domain
+#499	AnnotatorNotes T499	SO:0000417 (polypeptide_domain)
+T500	SO 7793 7801	sequence
+#500	AnnotatorNotes T500	SO:0000001 (region)
+T501	SO 7820 7825	genes
+#501	AnnotatorNotes T501	SO:0000704 (gene)
+T502	EntrezGene 7890 7895	Acdp1
+#502	AnnotatorNotes T502	EG:83674
+T503	PR 7890 7895	Acdp1
+#503	AnnotatorNotes T503	PR:000005643 (metal transporter CNNM1)
+T504	EntrezGene 7908 7913	Acdp2
+#504	AnnotatorNotes T504	EG:94219
+T505	PR 7908 7913	Acdp2
+#505	AnnotatorNotes T505	PR:000005644 (metal transporter CNNM2)
+T506	EntrezGene 7926 7931	Acdp3
+#506	AnnotatorNotes T506	EG:94218
+T507	PR 7926 7931	Acdp3
+#507	AnnotatorNotes T507	PR:000005645 (metal transporter CNNM3)
+T508	EntrezGene 7947 7952	Acdp4
+#508	AnnotatorNotes T508	EG:94220
+T509	PR 7947 7952	Acdp4
+#509	AnnotatorNotes T509	PR:000005646 (metal transporter CNNM4)
+T510	CHEBI 7965 7976	amino acids
+#510	AnnotatorNotes T510	CHEBI:33708 (amino-acid residue)
+T511	SO 7965 7976	amino acids
+#511	AnnotatorNotes T511	SO:0001237 (amino_acid)
+T512	CHEBI 7965 7970	amino
+#512	AnnotatorNotes T512	CHEBI:32952 (amines)
+T513	CHEBI 7965 7970	amino
+#513	AnnotatorNotes T513	CHEBI:46882 (amino group)
+T514	CHEBI 7971 7976	acids
+#514	AnnotatorNotes T514	CHEBI:37527 (acid)
+T515	CHEBI 7980 7991	amino acids
+#515	AnnotatorNotes T515	CHEBI:33708 (amino-acid residue)
+T516	SO 7980 7991	amino acids
+#516	AnnotatorNotes T516	SO:0001237 (amino_acid)
+T517	CHEBI 7980 7985	amino
+#517	AnnotatorNotes T517	CHEBI:32952 (amines)
+T518	CHEBI 7980 7985	amino
+#518	AnnotatorNotes T518	CHEBI:46882 (amino group)
+T519	CHEBI 7986 7991	acids
+#519	AnnotatorNotes T519	CHEBI:37527 (acid)
+T520	SO 8009 8019	homologies
+#520	AnnotatorNotes T520	SO:0000857 (homologous)
+T521	CHEBI 8030 8038	proteins
+#521	AnnotatorNotes T521	CHEBI:36080 (proteins)
+T522	CHEBI 8068 8079	amino acids
+#522	AnnotatorNotes T522	CHEBI:33708 (amino-acid residue)
+T523	SO 8068 8079	amino acids
+#523	AnnotatorNotes T523	SO:0001237 (amino_acid)
+T524	CHEBI 8068 8073	amino
+#524	AnnotatorNotes T524	CHEBI:32952 (amines)
+T525	CHEBI 8068 8073	amino
+#525	AnnotatorNotes T525	CHEBI:46882 (amino group)
+T526	CHEBI 8074 8079	acids
+#526	AnnotatorNotes T526	CHEBI:37527 (acid)
+T527	CHEBI 8083 8094	amino acids
+#527	AnnotatorNotes T527	CHEBI:33708 (amino-acid residue)
+T528	SO 8083 8094	amino acids
+#528	AnnotatorNotes T528	SO:0001237 (amino_acid)
+T529	CHEBI 8083 8088	amino
+#529	AnnotatorNotes T529	CHEBI:32952 (amines)
+T530	CHEBI 8083 8088	amino
+#530	AnnotatorNotes T530	CHEBI:46882 (amino group)
+T531	CHEBI 8089 8094	acids
+#531	AnnotatorNotes T531	CHEBI:37527 (acid)
+T532	SO 8112 8122	homologies
+#532	AnnotatorNotes T532	SO:0000857 (homologous)
+T533	CHEBI 8138 8146	proteins
+#533	AnnotatorNotes T533	CHEBI:36080 (proteins)
+T534	SO 8185 8189	gaps
+#534	AnnotatorNotes T534	SO:0000730 (gap)
+T535	SO 8220 8239	Amino acid sequence
+#535	AnnotatorNotes T535	SO:0001407 (peptidyl)
+T536	CHEBI 8220 8230	Amino acid
+#536	AnnotatorNotes T536	CHEBI:33708 (amino-acid residue)
+T537	SO 8220 8230	Amino acid
+#537	AnnotatorNotes T537	SO:0001237 (amino_acid)
+T538	CHEBI 8220 8225	Amino
+#538	AnnotatorNotes T538	CHEBI:32952 (amines)
+T539	CHEBI 8220 8225	Amino
+#539	AnnotatorNotes T539	CHEBI:46882 (amino group)
+T540	CHEBI 8226 8230	acid
+#540	AnnotatorNotes T540	CHEBI:37527 (acid)
+T541	SO 8262 8274	conservation
+#541	AnnotatorNotes T541	SO:0000856 (conserved)
+T542	SO 8282 8288	domain
+#542	AnnotatorNotes T542	SO:0000417 (polypeptide_domain)
+T543	taxonomic_rank 8300 8307	species
+#543	AnnotatorNotes T543	species (null)
+T544	EntrezGene 8309 8314	Amip3
+#544	AnnotatorNotes T544	EG:854094
+T545	CHEBI 8320 8327	protein
+#545	AnnotatorNotes T545	CHEBI:36080 (proteins)
+T546	italic 8333 8357	Saccharomyces cerevisiae
+#546	AnnotatorNotes T546	italic (null)
+T547	NCBITaxon 8333 8357	Saccharomyces cerevisiae
+#547	AnnotatorNotes T547	NCBITaxon:4932 (Saccharomyces cerevisiae)
+T548	taxonomic_rank 8333 8357	Saccharomyces cerevisiae
+#548	AnnotatorNotes T548	taxonomic_rank (null)
+T549	CHEBI 8381 8388	protein
+#549	AnnotatorNotes T549	CHEBI:36080 (proteins)
+T550	italic 8394 8410	Candida glabrata
+#550	AnnotatorNotes T550	italic (null)
+T551	NCBITaxon 8394 8410	Candida glabrata
+#551	AnnotatorNotes T551	NCBITaxon:5478 (Candida glabrata)
+T552	taxonomic_rank 8394 8410	Candida glabrata
+#552	AnnotatorNotes T552	taxonomic_rank (null)
+T553	EntrezGene 8423 8427	NeuC
+#553	AnnotatorNotes T553	EG:3876578
+T554	CHEBI 8457 8464	protein
+#554	AnnotatorNotes T554	CHEBI:36080 (proteins)
+T555	italic 8470 8487	Neurospora crassa
+#555	AnnotatorNotes T555	italic (null)
+T556	taxonomic_rank 8470 8487	Neurospora crassa
+#556	AnnotatorNotes T556	taxonomic_rank (null)
+T557	NCBITaxon 8470 8487	Neurospora crassa
+#557	AnnotatorNotes T557	NCBITaxon:5141 (Neurospora crassa)
+T558	EntrezGene 8489 8493	DroM
+#558	AnnotatorNotes T558	EG:5740320
+T559	SO 8499 8503	gene
+#559	AnnotatorNotes T559	SO:0000704 (gene)
+T560	italic 8517 8532	D. melanogaster
+#560	AnnotatorNotes T560	italic (null)
+T561	taxonomic_rank 8517 8532	D. melanogaster
+#561	AnnotatorNotes T561	taxonomic_rank (null)
+T562	NCBITaxon 8517 8532	D. melanogaster
+#562	AnnotatorNotes T562	NCBITaxon:7227 (Drosophila melanogaster)
+T563	SO 8564 8568	gene
+#563	AnnotatorNotes T563	SO:0000704 (gene)
+T564	NCBITaxon 8598 8608	Drosophila
+#564	AnnotatorNotes T564	NCBITaxon:7215 (Drosophila)
+T565	taxonomic_rank 8598 8608	Drosophila
+#565	AnnotatorNotes T565	taxonomic_rank (null)
+T566	SO 8609 8615	Genome
+#566	AnnotatorNotes T566	SO:0001026 (genome)
+T567	EntrezGene 8626 8630	AnoG
+#567	AnnotatorNotes T567	EG:1281374
+T568	CHEBI 8644 8651	protein
+#568	AnnotatorNotes T568	CHEBI:36080 (proteins)
+T569	italic 8661 8682	anopheles gambiae str
+#569	AnnotatorNotes T569	italic (null)
+T570	NCBITaxon 8661 8678	anopheles gambiae
+#570	AnnotatorNotes T570	NCBITaxon:7165 (Anopheles gambiae)
+T571	taxonomic_rank 8661 8678	anopheles gambiae
+#571	AnnotatorNotes T571	taxonomic_rank (null)
+T572	EntrezGene 8696 8700	CaeE
+#572	AnnotatorNotes T572	EG:178499
+T573	CHEBI 8730 8737	protein
+#573	AnnotatorNotes T573	CHEBI:36080 (proteins)
+T574	italic 8747 8768	Caenohabditis elegans
+#574	AnnotatorNotes T574	italic (null)
+T575	taxonomic_rank 8747 8768	Caenohabditis elegans
+#575	AnnotatorNotes T575	taxonomic_rank (null)
+T576	NCBITaxon 8747 8768	Caenohabditis elegans
+#576	AnnotatorNotes T576	NCBITaxon:6239 (Caenorhabditis elegans)
+T577	EntrezGene 8770 8774	CorC
+#577	AnnotatorNotes T577	EG:1169007
+T578	PR 8770 8774	CorC
+#578	AnnotatorNotes T578	PR:000022321 (magnesium and cobalt efflux protein corC)
+T579	NCBITaxon 8786 8794	bacteria
+#579	AnnotatorNotes T579	NCBITaxon:2 (Bacteria)
+T580	CHEBI 8795 8804	magnesium
+#580	AnnotatorNotes T580	CHEBI:25107 (magnesium)
+T581	CHEBI 8809 8815	cobalt
+#581	AnnotatorNotes T581	CHEBI:27638 (cobalt)
+T582	CHEBI 8823 8830	protein
+#582	AnnotatorNotes T582	CHEBI:36080 (proteins)
+T583	italic 8840 8861	Shewanella oneidensis
+#583	AnnotatorNotes T583	italic (null)
+T584	NCBITaxon 8840 8861	Shewanella oneidensis
+#584	AnnotatorNotes T584	NCBITaxon:70863 (Shewanella oneidensis)
+T585	taxonomic_rank 8840 8861	Shewanella oneidensis
+#585	AnnotatorNotes T585	taxonomic_rank (null)
+T586	CHEBI 8886 8893	protein
+#586	AnnotatorNotes T586	CHEBI:36080 (proteins)
+T587	italic 8903 8927	Xylella fastidiosa Dixon
+#587	AnnotatorNotes T587	italic (null)
+T588	taxonomic_rank 8903 8927	Xylella fastidiosa Dixon
+#588	AnnotatorNotes T588	taxonomic_rank (null)
+T589	NCBITaxon 8903 8927	Xylella fastidiosa Dixon
+#589	AnnotatorNotes T589	NCBITaxon:155919 (Xylella fastidiosa Dixon)
+T590	CHEBI 9000 9008	proteins
+#590	AnnotatorNotes T590	CHEBI:36080 (proteins)
+T591	SO 9028 9034	domain
+#591	AnnotatorNotes T591	SO:0000417 (polypeptide_domain)
+T592	SO 9135 9140	match
+#592	AnnotatorNotes T592	SO:0000343 (match)
+T593	SO 9158 9167	sequences
+#593	AnnotatorNotes T593	SO:0000001 (region)
+T594	CHEBI 9192 9199	protein
+#594	AnnotatorNotes T594	CHEBI:36080 (proteins)
+T595	NCBITaxon 9258 9263	mouse
+#595	AnnotatorNotes T595	NCBITaxon:10088 (Mus)
+T596	GO_CC 9299 9312	transmembrane
+#596	AnnotatorNotes T596	GO:0016021 (integral to membrane)
+T597	SO 9313 9320	domains
+#597	AnnotatorNotes T597	SO:0000417 (polypeptide_domain)
+T598	SO 9339 9346	domains
+#598	AnnotatorNotes T598	SO:0000417 (polypeptide_domain)
+T599	SO 9359 9365	domain
+#599	AnnotatorNotes T599	SO:0000417 (polypeptide_domain)
+T600	NCBITaxon 9384 9392	bacteria
+#600	AnnotatorNotes T600	NCBITaxon:2 (Bacteria)
+T601	EntrezGene 9393 9397	CorC
+#601	AnnotatorNotes T601	EG:1169007
+T602	PR 9393 9397	CorC
+#602	AnnotatorNotes T602	PR:000022321 (magnesium and cobalt efflux protein corC)
+T603	EntrezGene 9402 9413	yeast Amip3
+#603	AnnotatorNotes T603	EG:854094
+T604	NCBITaxon 9402 9407	yeast
+#604	AnnotatorNotes T604	NCBITaxon:4892 (Saccharomycetales)
+T605	CHEBI 9414 9422	proteins
+#605	AnnotatorNotes T605	CHEBI:36080 (proteins)
+T606	SO 9428 9435	domains
+#606	AnnotatorNotes T606	SO:0000417 (polypeptide_domain)
+T607	GO_CC 9446 9459	intracellular
+#607	AnnotatorNotes T607	GO:0005622 (intracellular)
+T608	SO 9460 9467	modules
+#608	AnnotatorNotes T608	SO:0000417 (polypeptide_domain)
+T609	CHEBI 9519 9526	protein
+#609	AnnotatorNotes T609	CHEBI:36080 (proteins)
+T610	SO 9541 9548	domains
+#610	AnnotatorNotes T610	SO:0000417 (polypeptide_domain)
+T611	GO_MF 9549 9557	dimerise
+#611	AnnotatorNotes T611	GO:0046983 (protein dimerization activity)
+T612	GO_BP 9561 9565	form
+#612	AnnotatorNotes T612	GO:0022607 (cellular component assembly)
+T613	SO 9584 9590	domain
+#613	AnnotatorNotes T613	SO:0000417 (polypeptide_domain)
+T614	SO 9639 9645	domain
+#614	AnnotatorNotes T614	SO:0000417 (polypeptide_domain)
+T615	SO 9674 9680	domain
+#615	AnnotatorNotes T615	SO:0000417 (polypeptide_domain)
+T616	SO 9686 9706	transmembrane region
+#616	AnnotatorNotes T616	SO:0001077 (transmembrane_polypeptide_region)
+T617	GO_CC 9686 9699	transmembrane
+#617	AnnotatorNotes T617	GO:0016021 (integral to membrane)
+T618	SO 9738 9748	N-terminus
+#618	AnnotatorNotes T618	SO:0100014 (n_terminal_region)
+T619	CHEBI 9738 9739	N
+#619	AnnotatorNotes T619	CHEBI:46882 (amino group)
+T620	CHEBI 9756 9764	proteins
+#620	AnnotatorNotes T620	CHEBI:36080 (proteins)
+T621	GO_CC 9781 9794	intracellular
+#621	AnnotatorNotes T621	GO:0005622 (intracellular)
+T622	SO 9799 9806	domains
+#622	AnnotatorNotes T622	SO:0000417 (polypeptide_domain)
+T623	GO_MF 9816 9823	binding
+#623	AnnotatorNotes T623	GO:0005488 (binding)
+T624	SO 9824 9830	domain
+#624	AnnotatorNotes T624	SO:0000417 (polypeptide_domain)
+T625	CHEBI 9832 9849	cyclic nucleotide
+#625	AnnotatorNotes T625	CHEBI:23447 (cyclic nucleotides)
+T626	CHEBI 9832 9838	cyclic
+#626	AnnotatorNotes T626	CHEBI:33595 (cyclic compounds)
+T627	GO_MF 9864 9871	binding
+#627	AnnotatorNotes T627	GO:0005488 (binding)
+T628	SO 9872 9878	domain
+#628	AnnotatorNotes T628	SO:0000417 (polypeptide_domain)
+T629	GO_CC 9927 9940	transmembrane
+#629	AnnotatorNotes T629	GO:0016021 (integral to membrane)
+T630	SO 9941 9948	domains
+#630	AnnotatorNotes T630	SO:0000417 (polypeptide_domain)
+T631	EntrezGene 9956 9961	Acdp4
+#631	AnnotatorNotes T631	EG:94220
+T632	PR 9956 9961	Acdp4
+#632	AnnotatorNotes T632	PR:000005646 (metal transporter CNNM4)
+T633	CHEBI 9962 9969	protein
+#633	AnnotatorNotes T633	CHEBI:36080 (proteins)
+T634	GO_CC 9971 9984	Transmembrane
+#634	AnnotatorNotes T634	GO:0016021 (integral to membrane)
+T635	SO 9985 9992	domains
+#635	AnnotatorNotes T635	SO:0000417 (polypeptide_domain)
+T636	GO_CC 10077 10083	inside
+#636	AnnotatorNotes T636	GO:0005622 (intracellular)
+T637	GO_CC 10085 10092	outside
+#637	AnnotatorNotes T637	GO:0005576 (extracellular region)
+T638	GO_CC 10093 10095	TM
+#638	AnnotatorNotes T638	GO:0016021 (integral to membrane)
+T639	SO 10096 10101	helix
+#639	AnnotatorNotes T639	SO:0001114 (peptide_helix)
+T640	CHEBI 10243 10250	residue
+#640	AnnotatorNotes T640	CHEBI:33708 (amino-acid residue)
+T641	SO 10243 10250	residue
+#641	AnnotatorNotes T641	SO:0001237 (amino_acid)
+T642	SO 10259 10264	helix
+#642	AnnotatorNotes T642	SO:0001114 (peptide_helix)
+T643	GO_CC 10266 10272	inside
+#643	AnnotatorNotes T643	GO:0005622 (intracellular)
+T644	GO_CC 10277 10284	outside
+#644	AnnotatorNotes T644	GO:0005576 (extracellular region)
+T645	EntrezGene 10349 10354	Acdp1
+#645	AnnotatorNotes T645	EG:83674
+T646	PR 10349 10354	Acdp1
+#646	AnnotatorNotes T646	PR:000005643 (metal transporter CNNM1)
+T647	CHEBI 10367 10374	Alanine
+#647	AnnotatorNotes T647	CHEBI:32441 (alanine residue)
+T648	SO 10367 10374	Alanine
+#648	AnnotatorNotes T648	SO:0001435 (alanine)
+T649	SO 10380 10386	region
+#649	AnnotatorNotes T649	SO:0000001 (region)
+T650	CHEBI 10408 10415	Leucine
+#650	AnnotatorNotes T650	CHEBI:32630 (leucine residue)
+T651	SO 10408 10415	Leucine
+#651	AnnotatorNotes T651	SO:0001437 (leucine)
+T652	SO 10421 10427	region
+#652	AnnotatorNotes T652	SO:0000001 (region)
+T653	CHEBI 10498 10505	Proline
+#653	AnnotatorNotes T653	CHEBI:32874 (proline residue)
+T654	SO 10498 10505	Proline
+#654	AnnotatorNotes T654	SO:0001439 (proline)
+T655	SO 10511 10517	region
+#655	AnnotatorNotes T655	SO:0000001 (region)
+T656	GO_BP 10592 10601	amidation
+#656	AnnotatorNotes T656	GO:0018032 (protein amino acid amidation)
+T657	SO 10602 10607	sites
+#657	AnnotatorNotes T657	SO:0000001 (region)
+T658	EntrezGene 10640 10645	Acdp2
+#658	AnnotatorNotes T658	EG:94219
+T659	PR 10640 10645	Acdp2
+#659	AnnotatorNotes T659	PR:000005644 (metal transporter CNNM2)
+T660	CHEBI 10652 10659	glycine
+#660	AnnotatorNotes T660	CHEBI:29947 (glycine residue)
+T661	SO 10652 10659	glycine
+#661	AnnotatorNotes T661	SO:0001443 (glycine)
+T662	SO 10665 10671	region
+#662	AnnotatorNotes T662	SO:0000001 (region)
+T663	EntrezGene 10707 10712	Acdp3
+#663	AnnotatorNotes T663	EG:94218
+T664	PR 10707 10712	Acdp3
+#664	AnnotatorNotes T664	PR:000005645 (metal transporter CNNM3)
+T665	CHEBI 10731 10738	alanine
+#665	AnnotatorNotes T665	CHEBI:32441 (alanine residue)
+T666	SO 10731 10738	alanine
+#666	AnnotatorNotes T666	SO:0001435 (alanine)
+T667	SO 10744 10750	region
+#667	AnnotatorNotes T667	SO:0000001 (region)
+T668	CHEBI 10771 10778	leucine
+#668	AnnotatorNotes T668	CHEBI:32630 (leucine residue)
+T669	SO 10771 10778	leucine
+#669	AnnotatorNotes T669	SO:0001437 (leucine)
+T670	SO 10784 10790	region
+#670	AnnotatorNotes T670	SO:0000001 (region)
+T671	EntrezGene 10802 10807	Acdp4
+#671	AnnotatorNotes T671	EG:94220
+T672	PR 10802 10807	Acdp4
+#672	AnnotatorNotes T672	PR:000005646 (metal transporter CNNM4)
+T673	CHEBI 10819 10826	leucine
+#673	AnnotatorNotes T673	CHEBI:32630 (leucine residue)
+T674	SO 10819 10826	leucine
+#674	AnnotatorNotes T674	SO:0001437 (leucine)
+T675	GO_BP 10883 10892	amidation
+#675	AnnotatorNotes T675	GO:0018032 (protein amino acid amidation)
+T676	SO 10893 10897	site
+#676	AnnotatorNotes T676	SO:0000001 (region)
+T677	GO_BP 10913 10932	Antibody production
+#677	AnnotatorNotes T677	GO:0002378 (immunoglobulin biosynthetic process)
+T678	GO_BP 10913 10932	Antibody production
+#678	AnnotatorNotes T678	GO:0002377 (immunoglobulin production)
+T679	GO_CC 10913 10921	Antibody
+#679	AnnotatorNotes T679	GO:0019814 (immunoglobulin complex)
+T680	GO_BP 10954 10978	subcellular localization
+#680	AnnotatorNotes T680	GO:0051641 (cellular localization)
+T681	SO 10980 10988	Peptides
+#681	AnnotatorNotes T681	SO:0001407 (peptidyl)
+T682	PR 10994 10999	Acdp1
+#682	AnnotatorNotes T682	PR:000005643 (metal transporter CNNM1)
+T683	SO 11000 11064	N- (TSFLLRVYFQPGPPATAAPVPSPT) and C- (TQQLTLSPAAVPTR) terminuses
+#683	AnnotatorNotes T683	"N- .. terminuses" SO:0100014 (n_terminal_region)
+T684	CHEBI 11000 11001	N
+#684	AnnotatorNotes T684	CHEBI:46882 (amino group)
+T685	SO 11034 11064	C- (TQQLTLSPAAVPTR) terminuses
+#685	AnnotatorNotes T685	"C- .. terminuses" SO:0100015 (c_terminal_region)
+T686	CHEBI 11034 11035	C
+#686	AnnotatorNotes T686	CHEBI:18245 (carboxylato group)
+T687	CHEBI 11034 11035	C
+#687	AnnotatorNotes T687	CHEBI:46883 (carboxy group)
+T688	SO 11066 11075	conserved
+#688	AnnotatorNotes T688	SO:0000856 (conserved)
+T689	SO 11076 11083	peptide
+#689	AnnotatorNotes T689	SO:0001407 (peptidyl)
+T690	SO 11093 11099	domain
+#690	AnnotatorNotes T690	SO:0000417 (polypeptide_domain)
+T691	PR 11103 11108	Acdp1
+#691	AnnotatorNotes T691	PR:000005643 (metal transporter CNNM1)
+T692	GO_BP 11159 11170	synthesized
+#692	AnnotatorNotes T692	GO:0009058 (biosynthetic process)
+T693	SO 11204 11209	sites
+#693	AnnotatorNotes T693	SO:0000001 (region)
+T694	GO_CC 11271 11281	antibodies
+#694	AnnotatorNotes T694	GO:0019814 (immunoglobulin complex)
+T695	SO 11291 11298	peptide
+#695	AnnotatorNotes T695	SO:0001407 (peptidyl)
+T696	GO_BP 11304 11312	produced
+#696	AnnotatorNotes T696	GO:0009058 (biosynthetic process)
+T697	NCBITaxon 11327 11334	rabbits
+#697	AnnotatorNotes T697	NCBITaxon:9986 (Oryctolagus cuniculus)
+T698	GO_CC 11367 11377	antibodies
+#698	AnnotatorNotes T698	GO:0019814 (immunoglobulin complex)
+T699	NCBITaxon 11417 11422	mouse
+#699	AnnotatorNotes T699	NCBITaxon:10088 (Mus)
+T700	GO_CC 11471 11479	antibody
+#700	AnnotatorNotes T700	GO:0019814 (immunoglobulin complex)
+T701	GO_BP 11480 11488	produced
+#701	AnnotatorNotes T701	GO:0009058 (biosynthetic process)
+T702	SO 11492 11502	C-terminal
+#702	AnnotatorNotes T702	SO:0100015 (c_terminal_region)
+T703	CHEBI 11492 11493	C
+#703	AnnotatorNotes T703	CHEBI:46883 (carboxy group)
+T704	CHEBI 11492 11493	C
+#704	AnnotatorNotes T704	CHEBI:18245 (carboxylato group)
+T705	SO 11503 11510	peptide
+#705	AnnotatorNotes T705	SO:0001407 (peptidyl)
+T706	EntrezGene 11533 11538	Acdp1
+#706	AnnotatorNotes T706	EG:83674
+T707	PR 11533 11538	Acdp1
+#707	AnnotatorNotes T707	PR:000005643 (metal transporter CNNM1)
+T708	GO_CC 11553 11561	antibody
+#708	AnnotatorNotes T708	GO:0019814 (immunoglobulin complex)
+T709	GO_BP 11562 11571	generated
+#709	AnnotatorNotes T709	GO:0009058 (biosynthetic process)
+T710	SO 11575 11585	N-terminal
+#710	AnnotatorNotes T710	SO:0100014 (n_terminal_region)
+T711	CHEBI 11575 11576	N
+#711	AnnotatorNotes T711	CHEBI:46882 (amino group)
+T712	SO 11586 11593	peptide
+#712	AnnotatorNotes T712	SO:0001407 (peptidyl)
+T713	EntrezGene 11605 11610	Acdp4
+#713	AnnotatorNotes T713	EG:94220
+T714	PR 11605 11610	Acdp4
+#714	AnnotatorNotes T714	PR:000005646 (metal transporter CNNM4)
+T715	EntrezGene 11626 11631	Acdp1
+#715	AnnotatorNotes T715	EG:83674
+T716	PR 11626 11631	Acdp1
+#716	AnnotatorNotes T716	PR:000005643 (metal transporter CNNM1)
+T717	GO_CC 11728 11736	antibody
+#717	AnnotatorNotes T717	GO:0019814 (immunoglobulin complex)
+T718	GO_BP 11737 11745	produced
+#718	AnnotatorNotes T718	GO:0009058 (biosynthetic process)
+T719	SO 11753 11771	conserved sequence
+#719	AnnotatorNotes T719	SO:0000330 (conserved_region)
+T720	SO 11753 11762	conserved
+#720	AnnotatorNotes T720	SO:0000856 (conserved)
+T721	SO 11772 11779	peptide
+#721	AnnotatorNotes T721	SO:0001407 (peptidyl)
+T722	CHEBI 11798 11806	proteins
+#722	AnnotatorNotes T722	CHEBI:36080 (proteins)
+T723	GO_CC 11870 11878	antibody
+#723	AnnotatorNotes T723	GO:0019814 (immunoglobulin complex)
+T724	PR 11891 11896	Acdp1
+#724	AnnotatorNotes T724	PR:000005643 (metal transporter CNNM1)
+T725	SO 11897 11907	C-terminus
+#725	AnnotatorNotes T725	SO:0100015 (c_terminal_region)
+T726	CHEBI 11897 11898	C
+#726	AnnotatorNotes T726	CHEBI:46883 (carboxy group)
+T727	CHEBI 11897 11898	C
+#727	AnnotatorNotes T727	CHEBI:18245 (carboxylato group)
+T728	CL 11954 11959	cells
+#728	AnnotatorNotes T728	CL:0000000 (cell)
+T729	GO_CC 11954 11959	cells
+#729	AnnotatorNotes T729	GO:0005623 (cell)
+T730	GO_CC 12012 12020	antibody
+#730	AnnotatorNotes T730	GO:0019814 (immunoglobulin complex)
+T731	EntrezGene 12049 12054	Acdp1
+#731	AnnotatorNotes T731	EG:83674
+T732	PR 12049 12054	Acdp1
+#732	AnnotatorNotes T732	PR:000005643 (metal transporter CNNM1)
+T733	CL 12062 12066	cell
+#733	AnnotatorNotes T733	CL:0000000 (cell)
+T734	GO_CC 12062 12066	cell
+#734	AnnotatorNotes T734	GO:0005623 (cell)
+T735	CL 12142 12146	cell
+#735	AnnotatorNotes T735	CL:0000000 (cell)
+T736	GO_CC 12142 12146	cell
+#736	AnnotatorNotes T736	GO:0005623 (cell)
+T737	CL 12188 12192	cell
+#737	AnnotatorNotes T737	CL:0000000 (cell)
+T738	GO_CC 12188 12192	cell
+#738	AnnotatorNotes T738	GO:0005623 (cell)
+T739	GO_BP 12212 12222	expression
+#739	AnnotatorNotes T739	GO:0010467 (gene expression)
+T740	EntrezGene 12233 12238	Acdp1
+#740	AnnotatorNotes T740	EG:309387
+T741	PR 12233 12238	Acdp1
+#741	AnnotatorNotes T741	PR:000005643 (metal transporter CNNM1)
+T742	CL 12248 12252	cell
+#742	AnnotatorNotes T742	CL:0000000 (cell)
+T743	GO_CC 12248 12252	cell
+#743	AnnotatorNotes T743	GO:0005623 (cell)
+T744	GO_BP 12288 12298	expression
+#744	AnnotatorNotes T744	GO:0010467 (gene expression)
+T745	CL 12309 12314	cells
+#745	AnnotatorNotes T745	CL:0000000 (cell)
+T746	GO_CC 12309 12314	cells
+#746	AnnotatorNotes T746	GO:0005623 (cell)
+T747	GO_CC 12410 12418	antibody
+#747	AnnotatorNotes T747	GO:0019814 (immunoglobulin complex)
+T748	PR 12427 12432	Acdp1
+#748	AnnotatorNotes T748	PR:000005643 (metal transporter CNNM1)
+T749	SO 12433 12443	C-terminus
+#749	AnnotatorNotes T749	SO:0100015 (c_terminal_region)
+T750	CHEBI 12433 12434	C
+#750	AnnotatorNotes T750	CHEBI:46883 (carboxy group)
+T751	CHEBI 12433 12434	C
+#751	AnnotatorNotes T751	CHEBI:18245 (carboxylato group)
+T752	EntrezGene 12468 12474	Acdp-1
+#752	AnnotatorNotes T752	EG:26507
+T753	PR 12468 12474	Acdp-1
+#753	AnnotatorNotes T753	PR:000005643 (metal transporter CNNM1)
+T754	PR 12500 12505	Acdp1
+#754	AnnotatorNotes T754	PR:000005643 (metal transporter CNNM1)
+T755	SO 12506 12516	C-terminus
+#755	AnnotatorNotes T755	SO:0100015 (c_terminal_region)
+T756	CHEBI 12506 12507	C
+#756	AnnotatorNotes T756	CHEBI:46883 (carboxy group)
+T757	CHEBI 12506 12507	C
+#757	AnnotatorNotes T757	CHEBI:18245 (carboxylato group)
+T758	GO_CC 12517 12525	antibody
+#758	AnnotatorNotes T758	GO:0019814 (immunoglobulin complex)
+T759	GO_BP 12566 12574	localize
+#759	AnnotatorNotes T759	GO:0051179 (localization)
+T760	PR 12575 12581	Acdp-1
+#760	AnnotatorNotes T760	PR:000005643 (metal transporter CNNM1)
+T761	CL 12589 12594	cells
+#761	AnnotatorNotes T761	CL:0000000 (cell)
+T762	GO_CC 12589 12594	cells
+#762	AnnotatorNotes T762	GO:0005623 (cell)
+T763	GO_BP 12642 12652	expression
+#763	AnnotatorNotes T763	GO:0010467 (gene expression)
+T764	EntrezGene 12656 12661	Acdp1
+#764	AnnotatorNotes T764	EG:83674
+T765	PR 12656 12661	Acdp1
+#765	AnnotatorNotes T765	PR:000005643 (metal transporter CNNM1)
+T766	GO_BP 12692 12716	subcellular localization
+#766	AnnotatorNotes T766	GO:0051641 (cellular localization)
+T767	CL 12732 12739	neurons
+#767	AnnotatorNotes T767	CL:0000540 (neuron)
+T768	NCBITaxon 12754 12759	mouse
+#768	AnnotatorNotes T768	NCBITaxon:10088 (Mus)
+T769	CL 12773 12780	neurons
+#769	AnnotatorNotes T769	CL:0000540 (neuron)
+T770	NCBITaxon 12852 12857	mouse
+#770	AnnotatorNotes T770	NCBITaxon:10088 (Mus)
+T771	CL 12867 12877	astrocytes
+#771	AnnotatorNotes T771	CL:0000127 (astrocyte)
+T772	PR 12918 12923	Acdp1
+#772	AnnotatorNotes T772	PR:000005643 (metal transporter CNNM1)
+T773	SO 12924 12934	C-terminus
+#773	AnnotatorNotes T773	SO:0100015 (c_terminal_region)
+T774	CHEBI 12924 12925	C
+#774	AnnotatorNotes T774	CHEBI:46883 (carboxy group)
+T775	CHEBI 12924 12925	C
+#775	AnnotatorNotes T775	CHEBI:18245 (carboxylato group)
+T776	GO_CC 12944 12952	antibody
+#776	AnnotatorNotes T776	GO:0019814 (immunoglobulin complex)
+T777	EntrezGene 12985 12990	Acdp1
+#777	AnnotatorNotes T777	EG:83674
+T778	PR 12985 12990	Acdp1
+#778	AnnotatorNotes T778	PR:000005643 (metal transporter CNNM1)
+T779	GO_BP 13008 13017	localized
+#779	AnnotatorNotes T779	GO:0051179 (localization)
+T780	GO_CC 13025 13040	plasma membrane
+#780	AnnotatorNotes T780	GO:0005886 (plasma membrane)
+T781	CL 13068 13072	cell
+#781	AnnotatorNotes T781	CL:0000000 (cell)
+T782	GO_CC 13068 13072	cell
+#782	AnnotatorNotes T782	GO:0005623 (cell)
+T783	GO_CC 13123 13131	membrane
+#783	AnnotatorNotes T783	GO:0016020 (membrane)
+T784	EntrezGene 13144 13149	Acdp1
+#784	AnnotatorNotes T784	EG:83674
+T785	PR 13144 13149	Acdp1
+#785	AnnotatorNotes T785	PR:000005643 (metal transporter CNNM1)
+T786	GO_CC 13221 13234	transmembrane
+#786	AnnotatorNotes T786	GO:0016021 (integral to membrane)
+T787	SO 13235 13242	domains
+#787	AnnotatorNotes T787	SO:0000417 (polypeptide_domain)
+T788	CHEBI 13259 13267	proteins
+#788	AnnotatorNotes T788	CHEBI:36080 (proteins)
+T789	CHEBI 13317 13325	proteins
+#789	AnnotatorNotes T789	CHEBI:36080 (proteins)
+T790	GO_CC 13462 13470	antibody
+#790	AnnotatorNotes T790	GO:0019814 (immunoglobulin complex)
+T791	GO_BP 13471 13480	generated
+#791	AnnotatorNotes T791	GO:0009058 (biosynthetic process)
+T792	SO 13484 13493	conserved
+#792	AnnotatorNotes T792	SO:0000856 (conserved)
+T793	SO 13494 13501	peptide
+#793	AnnotatorNotes T793	SO:0001407 (peptidyl)
+T794	EntrezGene 13550 13555	Acdp1
+#794	AnnotatorNotes T794	EG:83674
+T795	PR 13550 13555	Acdp1
+#795	AnnotatorNotes T795	PR:000005643 (metal transporter CNNM1)
+T796	EntrezGene 13566 13571	Acdp2
+#796	AnnotatorNotes T796	EG:94219
+T797	PR 13566 13571	Acdp2
+#797	AnnotatorNotes T797	PR:000005644 (metal transporter CNNM2)
+T798	EntrezGene 13582 13587	Acdp4
+#798	AnnotatorNotes T798	EG:94220
+T799	PR 13582 13587	Acdp4
+#799	AnnotatorNotes T799	PR:000005646 (metal transporter CNNM4)
+T800	EntrezGene 13600 13605	Acdp3
+#800	AnnotatorNotes T800	EG:94218
+T801	PR 13600 13605	Acdp3
+#801	AnnotatorNotes T801	PR:000005645 (metal transporter CNNM3)
+T802	PR 13645 13650	Acdp1
+#802	AnnotatorNotes T802	PR:000005643 (metal transporter CNNM1)
+T803	GO_CC 13651 13661	antibodies
+#803	AnnotatorNotes T803	GO:0019814 (immunoglobulin complex)
+T804	GO_BP 13662 13671	generated
+#804	AnnotatorNotes T804	GO:0009058 (biosynthetic process)
+T805	SO 13675 13685	N-terminal
+#805	AnnotatorNotes T805	SO:0100014 (n_terminal_region)
+T806	CHEBI 13675 13676	N
+#806	AnnotatorNotes T806	CHEBI:46882 (amino group)
+T807	SO 13690 13700	C-terminal
+#807	AnnotatorNotes T807	SO:0100015 (c_terminal_region)
+T808	CHEBI 13690 13691	C
+#808	AnnotatorNotes T808	CHEBI:46883 (carboxy group)
+T809	CHEBI 13690 13691	C
+#809	AnnotatorNotes T809	CHEBI:18245 (carboxylato group)
+T810	SO 13701 13709	peptides
+#810	AnnotatorNotes T810	SO:0001407 (peptidyl)
+T811	EntrezGene 13757 13762	Acdp1
+#811	AnnotatorNotes T811	EG:309387
+T812	PR 13757 13762	Acdp1
+#812	AnnotatorNotes T812	PR:000005643 (metal transporter CNNM1)
+T813	CL 13787 13792	cells
+#813	AnnotatorNotes T813	CL:0000000 (cell)
+T814	GO_CC 13787 13792	cells
+#814	AnnotatorNotes T814	GO:0005623 (cell)
+T815	GO_CC 13825 13833	antibody
+#815	AnnotatorNotes T815	GO:0019814 (immunoglobulin complex)
+T816	SO 13846 13856	C-terminus
+#816	AnnotatorNotes T816	SO:0100015 (c_terminal_region)
+T817	CHEBI 13846 13847	C
+#817	AnnotatorNotes T817	CHEBI:46883 (carboxy group)
+T818	CHEBI 13846 13847	C
+#818	AnnotatorNotes T818	CHEBI:18245 (carboxylato group)
+T819	PR 13860 13866	Acdp-1
+#819	AnnotatorNotes T819	PR:000005643 (metal transporter CNNM1)
+T820	CL 13892 13896	cell
+#820	AnnotatorNotes T820	CL:0000000 (cell)
+T821	GO_CC 13892 13896	cell
+#821	AnnotatorNotes T821	GO:0005623 (cell)
+T822	CL 13943 13947	cell
+#822	AnnotatorNotes T822	CL:0000000 (cell)
+T823	GO_CC 13943 13947	cell
+#823	AnnotatorNotes T823	GO:0005623 (cell)
+T824	GO_BP 13968 13992	Subcellular localization
+#824	AnnotatorNotes T824	GO:0051641 (cellular localization)
+T825	EntrezGene 13996 14001	Acdp1
+#825	AnnotatorNotes T825	EG:83674
+T826	PR 13996 14001	Acdp1
+#826	AnnotatorNotes T826	PR:000005643 (metal transporter CNNM1)
+T827	CL 14017 14024	neurons
+#827	AnnotatorNotes T827	CL:0000540 (neuron)
+T828	CL 14070 14076	neuron
+#828	AnnotatorNotes T828	CL:0000540 (neuron)
+T829	PR 14098 14103	Acdp1
+#829	AnnotatorNotes T829	PR:000005643 (metal transporter CNNM1)
+T830	GO_CC 14104 14112	antibody
+#830	AnnotatorNotes T830	GO:0019814 (immunoglobulin complex)
+T831	CL 14182 14188	neuron
+#831	AnnotatorNotes T831	CL:0000540 (neuron)
+T832	italic 14274 14278	ACDP
+#832	AnnotatorNotes T832	italic (null)
+T833	SO 14279 14283	gene
+#833	AnnotatorNotes T833	SO:0000704 (gene)
+T834	italic 14354 14358	ACDP
+#834	AnnotatorNotes T834	italic (null)
+T835	SO 14359 14364	genes
+#835	AnnotatorNotes T835	SO:0000704 (gene)
+T836	GO_BP 14395 14415	biological processes
+#836	AnnotatorNotes T836	GO:0008150 (biological_process)
+T837	SO 14430 14435	genes
+#837	AnnotatorNotes T837	SO:0000704 (gene)
+T838	SO 14440 14464	evolutionarily conserved
+#838	AnnotatorNotes T838	SO:0000857 (homologous)
+T839	taxonomic_rank 14500 14507	species
+#839	AnnotatorNotes T839	species (null)
+T840	SO 14526 14531	genes
+#840	AnnotatorNotes T840	SO:0000704 (gene)
+T841	taxonomic_rank 14549 14556	species
+#841	AnnotatorNotes T841	species (null)
+T842	SO 14571 14576	genes
+#842	AnnotatorNotes T842	SO:0000704 (gene)
+T843	GO_BP 14594 14603	expressed
+#843	AnnotatorNotes T843	GO:0010467 (gene expression)
+T844	GO_BP 14615 14626	development
+#844	AnnotatorNotes T844	GO:0032502 (developmental process)
+T845	NCBITaxon 14705 14710	mouse
+#845	AnnotatorNotes T845	NCBITaxon:10088 (Mus)
+T846	italic 14711 14715	Acdp
+#846	AnnotatorNotes T846	italic (null)
+T847	SO 14716 14720	gene
+#847	AnnotatorNotes T847	SO:0000704 (gene)
+T848	SO 14822 14830	Sequence
+#848	AnnotatorNotes T848	SO:0000001 (region)
+T849	SO 14831 14839	homology
+#849	AnnotatorNotes T849	SO:0000857 (homologous)
+T850	CHEBI 14868 14876	proteins
+#850	AnnotatorNotes T850	CHEBI:36080 (proteins)
+T851	CHEBI 14896 14898	AA
+#851	AnnotatorNotes T851	CHEBI:33708 (amino-acid residue)
+T852	SO 14896 14898	AA
+#852	AnnotatorNotes T852	SO:0001237 (amino_acid)
+T853	SO 14899 14909	homologies
+#853	AnnotatorNotes T853	SO:0000857 (homologous)
+T854	NCBITaxon 14917 14925	bacteria
+#854	AnnotatorNotes T854	NCBITaxon:2 (Bacteria)
+T855	EntrezGene 14926 14930	CorC
+#855	AnnotatorNotes T855	EG:1169007
+T856	PR 14926 14930	CorC
+#856	AnnotatorNotes T856	PR:000022321 (magnesium and cobalt efflux protein corC)
+T857	CHEBI 14931 14938	protein
+#857	AnnotatorNotes T857	CHEBI:36080 (proteins)
+T858	EntrezGene 14943 14954	yeast Amip3
+#858	AnnotatorNotes T858	EG:854094
+T859	NCBITaxon 14943 14948	yeast
+#859	AnnotatorNotes T859	NCBITaxon:4892 (Saccharomycetales)
+T860	CHEBI 14955 14962	protein
+#860	AnnotatorNotes T860	CHEBI:36080 (proteins)
+T861	PR 14964 14968	CorA
+#861	AnnotatorNotes T861	PR:000022320 (magnesium transport protein corA)
+T862	CHEBI 14993 15000	protein
+#862	AnnotatorNotes T862	CHEBI:36080 (proteins)
+T863	CHEBI 15046 15055	magnesium
+#863	AnnotatorNotes T863	CHEBI:25107 (magnesium)
+T864	CHEBI 15060 15066	cobalt
+#864	AnnotatorNotes T864	CHEBI:27638 (cobalt)
+T865	PR 15091 15095	CorA
+#865	AnnotatorNotes T865	PR:000022320 (magnesium transport protein corA)
+T866	SO 15096 15103	mutants
+#866	AnnotatorNotes T866	SO:0001060 (sequence_variant)
+T867	CHEBI 15125 15131	cobalt
+#867	AnnotatorNotes T867	CHEBI:27638 (cobalt)
+T868	EntrezGene 15146 15151	Amip3
+#868	AnnotatorNotes T868	EG:854094
+T869	SO 15168 15178	homologous
+#869	AnnotatorNotes T869	SO:0000857 (homologous)
+T870	EntrezGene 15182 15186	CorC
+#870	AnnotatorNotes T870	EG:1169007
+T871	PR 15182 15186	CorC
+#871	AnnotatorNotes T871	PR:000022321 (magnesium and cobalt efflux protein corC)
+T872	CHEBI 15187 15194	protein
+#872	AnnotatorNotes T872	CHEBI:36080 (proteins)
+T873	CHEBI 15226 15235	magnesium
+#873	AnnotatorNotes T873	CHEBI:25107 (magnesium)
+T874	CHEBI 15240 15246	cobalt
+#874	AnnotatorNotes T874	CHEBI:27638 (cobalt)
+T875	NCBITaxon 15250 15258	bacteria
+#875	AnnotatorNotes T875	NCBITaxon:2 (Bacteria)
+T876	EntrezGene 15260 15265	Amip3
+#876	AnnotatorNotes T876	EG:854094
+T877	SO 15266 15273	mutants
+#877	AnnotatorNotes T877	SO:0001060 (sequence_variant)
+T878	CHEBI 15294 15300	copper
+#878	AnnotatorNotes T878	CHEBI:28694 (copper)
+T879	CHEBI 15316 15324	proteins
+#879	AnnotatorNotes T879	CHEBI:36080 (proteins)
+T880	SO 15342 15349	domains
+#880	AnnotatorNotes T880	SO:0000417 (polypeptide_domain)
+T881	NCBITaxon 15368 15376	bacteria
+#881	AnnotatorNotes T881	NCBITaxon:2 (Bacteria)
+T882	EntrezGene 15377 15381	CorC
+#882	AnnotatorNotes T882	EG:1169007
+T883	PR 15377 15381	CorC
+#883	AnnotatorNotes T883	PR:000022321 (magnesium and cobalt efflux protein corC)
+T884	NCBITaxon 15386 15391	yeast
+#884	AnnotatorNotes T884	NCBITaxon:4892 (Saccharomycetales)
+T885	EntrezGene 15392 15397	Amip3
+#885	AnnotatorNotes T885	EG:854094
+T886	CHEBI 15398 15406	proteins
+#886	AnnotatorNotes T886	CHEBI:36080 (proteins)
+T887	SO 15424 15431	domains
+#887	AnnotatorNotes T887	SO:0000417 (polypeptide_domain)
+T888	SO 15439 15445	domain
+#888	AnnotatorNotes T888	SO:0000417 (polypeptide_domain)
+T889	GO_CC 15450 15463	transmembrane
+#889	AnnotatorNotes T889	GO:0016021 (integral to membrane)
+T890	SO 15464 15471	domains
+#890	AnnotatorNotes T890	SO:0000417 (polypeptide_domain)
+T891	GO_MF 15493 15500	binding
+#891	AnnotatorNotes T891	GO:0005488 (binding)
+T892	SO 15501 15507	domain
+#892	AnnotatorNotes T892	SO:0000417 (polypeptide_domain)
+T893	CHEBI 15530 15538	proteins
+#893	AnnotatorNotes T893	CHEBI:36080 (proteins)
+T894	GO_MF 15568 15580	ion channels
+#894	AnnotatorNotes T894	GO:0005216 (ion channel activity)
+T895	independent_continuant 15568 15580	ion channels
+#895	AnnotatorNotes T895	independent_continuant
+T896	CHEBI 15568 15571	ion
+#896	AnnotatorNotes T896	CHEBI:24870 (ions)
+T897	independent_continuant 15600 15607	kinases
+#897	AnnotatorNotes T897	independent_continuant
+T898	GO_MF 15600 15607	kinases
+#898	AnnotatorNotes T898	GO:0016301 (kinase activity)
+T899	GO_CC 15623 15631	antibody
+#899	AnnotatorNotes T899	GO:0019814 (immunoglobulin complex)
+T900	GO_BP 15632 15640	produced
+#900	AnnotatorNotes T900	GO:0009058 (biosynthetic process)
+T901	PR 15644 15649	Acdp1
+#901	AnnotatorNotes T901	PR:000005643 (metal transporter CNNM1)
+T902	SO 15650 15660	C-terminal
+#902	AnnotatorNotes T902	SO:0100015 (c_terminal_region)
+T903	CHEBI 15650 15651	C
+#903	AnnotatorNotes T903	CHEBI:46883 (carboxy group)
+T904	CHEBI 15650 15651	C
+#904	AnnotatorNotes T904	CHEBI:18245 (carboxylato group)
+T905	SO 15661 15668	peptide
+#905	AnnotatorNotes T905	SO:0001407 (peptidyl)
+T906	EntrezGene 15689 15694	Acdp1
+#906	AnnotatorNotes T906	EG:83674
+T907	PR 15689 15694	Acdp1
+#907	AnnotatorNotes T907	PR:000005643 (metal transporter CNNM1)
+T908	GO_BP 15712 15721	localized
+#908	AnnotatorNotes T908	GO:0051179 (localization)
+T909	GO_CC 15729 15744	plasma membrane
+#909	AnnotatorNotes T909	GO:0005886 (plasma membrane)
+T910	CL 15760 15767	neurons
+#910	AnnotatorNotes T910	CL:0000540 (neuron)
+T911	NCBITaxon 15801 15806	human
+#911	AnnotatorNotes T911	NCBITaxon:9606 (Homo sapiens)
+T912	CHEBI 15812 15820	proteins
+#912	AnnotatorNotes T912	CHEBI:36080 (proteins)
+T913	GO_BP 15839 15848	localized
+#913	AnnotatorNotes T913	GO:0051179 (localization)
+T914	GO_CC 15856 15863	nucleus
+#914	AnnotatorNotes T914	GO:0005634 (nucleus)
+T915	CL 15872 15877	cells
+#915	AnnotatorNotes T915	CL:0000000 (cell)
+T916	GO_CC 15872 15877	cells
+#916	AnnotatorNotes T916	GO:0005623 (cell)
+T917	GO_BP 15908 15938	localization in neuronal cells
+#917	AnnotatorNotes T917	"localization in .. cells" GO:0051641 (cellular localization)
+T918	CL 15924 15938	neuronal cells
+#918	AnnotatorNotes T918	CL:0000540 (neuron)
+T919	GO_CC 15933 15938	cells
+#919	AnnotatorNotes T919	GO:0005623 (cell)
+T920	GO_CC 15987 15995	antibody
+#920	AnnotatorNotes T920	GO:0019814 (immunoglobulin complex)
+T921	GO_BP 16006 16014	produced
+#921	AnnotatorNotes T921	GO:0009058 (biosynthetic process)
+T922	GO_BP 16022 16033	recombinant
+#922	AnnotatorNotes T922	GO:0006310 (DNA recombination)
+T923	SO 16038 16044	domain
+#923	AnnotatorNotes T923	SO:0000417 (polypeptide_domain)
+T924	CL 16059 16064	cells
+#924	AnnotatorNotes T924	CL:0000000 (cell)
+T925	GO_CC 16059 16064	cells
+#925	AnnotatorNotes T925	GO:0005623 (cell)
+T926	PR 16093 16098	Acdp1
+#926	AnnotatorNotes T926	PR:000005643 (metal transporter CNNM1)
+T927	SO 16099 16109	C-terminus
+#927	AnnotatorNotes T927	SO:0100015 (c_terminal_region)
+T928	CHEBI 16099 16100	C
+#928	AnnotatorNotes T928	CHEBI:46883 (carboxy group)
+T929	CHEBI 16099 16100	C
+#929	AnnotatorNotes T929	CHEBI:18245 (carboxylato group)
+T930	GO_CC 16110 16118	antibody
+#930	AnnotatorNotes T930	GO:0019814 (immunoglobulin complex)
+T931	EntrezGene 16135 16140	Acdp1
+#931	AnnotatorNotes T931	EG:83674
+T932	PR 16135 16140	Acdp1
+#932	AnnotatorNotes T932	PR:000005643 (metal transporter CNNM1)
+T933	CL 16201 16205	cell
+#933	AnnotatorNotes T933	CL:0000000 (cell)
+T934	GO_CC 16201 16205	cell
+#934	AnnotatorNotes T934	GO:0005623 (cell)
+T935	GO_CC 16249 16257	antibody
+#935	AnnotatorNotes T935	GO:0019814 (immunoglobulin complex)
+T936	GO_BP 16317 16330	ion transport
+#936	AnnotatorNotes T936	GO:0006811 (ion transport)
+T937	CHEBI 16317 16320	ion
+#937	AnnotatorNotes T937	CHEBI:24870 (ions)
+T938	GO_BP 16321 16349	transport in mammalian cells
+#938	AnnotatorNotes T938	"transport in .. cells" GO:0046907 (intracellular transport)
+T939	NCBITaxon 16334 16343	mammalian
+#939	AnnotatorNotes T939	NCBITaxon:40674 (Mammalia)
+T940	CL 16344 16349	cells
+#940	AnnotatorNotes T940	CL:0000000 (cell)
+T941	GO_CC 16344 16349	cells
+#941	AnnotatorNotes T941	GO:0005623 (cell)
+T942	CHEBI 16447 16455	proteins
+#942	AnnotatorNotes T942	CHEBI:36080 (proteins)
+T943	NCBITaxon 16503 16508	human
+#943	AnnotatorNotes T943	NCBITaxon:9606 (Homo sapiens)
+T944	SO 16514 16519	genes
+#944	AnnotatorNotes T944	SO:0000704 (gene)
+T945	SO 16641 16646	genes
+#945	AnnotatorNotes T945	SO:0000704 (gene)
+T946	NCBITaxon 16656 16663	mammals
+#946	AnnotatorNotes T946	NCBITaxon:40674 (Mammalia)
+T947	NCBITaxon 16679 16684	human
+#947	AnnotatorNotes T947	NCBITaxon:9606 (Homo sapiens)
+T948	SO 16725 16729	gene
+#948	AnnotatorNotes T948	SO:0000704 (gene)
+T949	NCBITaxon 16739 16748	organisms
+#949	AnnotatorNotes T949	NCBITaxon:1 (root)
+T950	italic 16760 16770	C. elegans
+#950	AnnotatorNotes T950	italic (null)
+T951	NCBITaxon 16760 16770	C. elegans
+#951	AnnotatorNotes T951	NCBITaxon:6239 (Caenorhabditis elegans)
+T952	taxonomic_rank 16760 16770	C. elegans
+#952	AnnotatorNotes T952	taxonomic_rank (null)
+T953	NCBITaxon 16772 16778	yeasts
+#953	AnnotatorNotes T953	NCBITaxon:4892 (Saccharomycetales)
+T954	NCBITaxon 16783 16791	bacteria
+#954	AnnotatorNotes T954	NCBITaxon:2 (Bacteria)
+T955	SO 16855 16860	genes
+#955	AnnotatorNotes T955	SO:0000704 (gene)
+T956	taxonomic_rank 16874 16881	species
+#956	AnnotatorNotes T956	species (null)
+T957	CHEBI 16907 16916	Molecular
+#957	AnnotatorNotes T957	CHEBI:36357 (polyatomic entities)
+T958	NCBITaxon 16949 16955	murine
+#958	AnnotatorNotes T958	NCBITaxon:39107 (Murinae)
+T959	SO 16961 16965	gene
+#959	AnnotatorNotes T959	SO:0000704 (gene)
+T960	SO 17011 17015	gene
+#960	AnnotatorNotes T960	SO:0000704 (gene)
+T961	NCBITaxon 17026 17032	animal
+#961	AnnotatorNotes T961	NCBITaxon:33208 (Metazoa)
+T962	GO_BP 17049 17059	generation
+#962	AnnotatorNotes T962	GO:0000003 (reproduction)
+T963	SO 17075 17085	transgenic
+#963	AnnotatorNotes T963	SO:0000902 (transgene)
+T964	SO 17124 17127	DNA
+#964	AnnotatorNotes T964	SO:0000352 (DNA)
+T965	CHEBI 17132 17142	amino acid
+#965	AnnotatorNotes T965	CHEBI:33708 (amino-acid residue)
+T966	SO 17132 17142	amino acid
+#966	AnnotatorNotes T966	SO:0001237 (amino_acid)
+T967	CHEBI 17132 17137	amino
+#967	AnnotatorNotes T967	CHEBI:32952 (amines)
+T968	CHEBI 17132 17137	amino
+#968	AnnotatorNotes T968	CHEBI:46882 (amino group)
+T969	CHEBI 17138 17142	acid
+#969	AnnotatorNotes T969	CHEBI:37527 (acid)
+T970	SO 17143 17156	conservations
+#970	AnnotatorNotes T970	SO:0000330 (conserved_region)
+T971	NCBITaxon 17165 17170	mouse
+#971	AnnotatorNotes T971	NCBITaxon:10088 (Mus)
+T972	NCBITaxon 17175 17180	human
+#972	AnnotatorNotes T972	NCBITaxon:9606 (Homo sapiens)
+T973	SO 17195 17199	gene
+#973	AnnotatorNotes T973	SO:0000704 (gene)
+T974	SO 17219 17223	gene
+#974	AnnotatorNotes T974	SO:0000704 (gene)
+T975	GO_BP 17358 17367	generated
+#975	AnnotatorNotes T975	GO:0009058 (biosynthetic process)
+T976	GO_CC 17368 17378	antibodies
+#976	AnnotatorNotes T976	GO:0019814 (immunoglobulin complex)
+T977	PR 17392 17397	Acdp1
+#977	AnnotatorNotes T977	PR:000005643 (metal transporter CNNM1)
+T978	CHEBI 17411 17419	proteins
+#978	AnnotatorNotes T978	CHEBI:36080 (proteins)
+T979	PR 17425 17430	Acdp1
+#979	AnnotatorNotes T979	PR:000005643 (metal transporter CNNM1)
+T980	SO 17431 17441	C-terminus
+#980	AnnotatorNotes T980	SO:0100015 (c_terminal_region)
+T981	CHEBI 17431 17432	C
+#981	AnnotatorNotes T981	CHEBI:46883 (carboxy group)
+T982	CHEBI 17431 17432	C
+#982	AnnotatorNotes T982	CHEBI:18245 (carboxylato group)
+T983	GO_CC 17442 17450	antibody
+#983	AnnotatorNotes T983	GO:0019814 (immunoglobulin complex)
+T984	EntrezGene 17485 17490	Acdp1
+#984	AnnotatorNotes T984	EG:83674
+T985	PR 17485 17490	Acdp1
+#985	AnnotatorNotes T985	PR:000005643 (metal transporter CNNM1)
+T986	GO_CC 17503 17511	antibody
+#986	AnnotatorNotes T986	GO:0019814 (immunoglobulin complex)
+T987	EntrezGene 17539 17544	Acdp1
+#987	AnnotatorNotes T987	EG:83674
+T988	PR 17539 17544	Acdp1
+#988	AnnotatorNotes T988	PR:000005643 (metal transporter CNNM1)
+T989	GO_BP 17562 17571	localized
+#989	AnnotatorNotes T989	GO:0051179 (localization)
+T990	GO_CC 17579 17594	plasma membrane
+#990	AnnotatorNotes T990	GO:0005886 (plasma membrane)
+T991	CL 17610 17617	neurons
+#991	AnnotatorNotes T991	CL:0000540 (neuron)
+T992	SO 17716 17720	gene
+#992	AnnotatorNotes T992	SO:0000704 (gene)
+T993	SO 17739 17743	cDNA
+#993	AnnotatorNotes T993	SO:0000756 (cDNA)
+T994	SO 17753 17757	cDNA
+#994	AnnotatorNotes T994	SO:0000756 (cDNA)
+T995	italic 17773 17777	Acdp
+#995	AnnotatorNotes T995	italic (null)
+T996	SO 17778 17782	gene
+#996	AnnotatorNotes T996	SO:0000704 (gene)
+T997	NCBITaxon 17813 17818	human
+#997	AnnotatorNotes T997	NCBITaxon:9606 (Homo sapiens)
+T998	SO 17819 17838	homologue sequences
+#998	AnnotatorNotes T998	SO:0000853 (homologous_region)
+T999	NCBITaxon 17880 17885	human
+#999	AnnotatorNotes T999	NCBITaxon:9606 (Homo sapiens)
+T1000	italic 17886 17890	ACDP
+#1000	AnnotatorNotes T1000	italic (null)
+T1001	SO 17891 17896	cDNAs
+#1001	AnnotatorNotes T1001	SO:0000756 (cDNA)
+T1002	SO 17901 17910	predicted
+#1002	AnnotatorNotes T1002	SO:0000732 (predicted)
+T1003	SO 17911 17923	AA sequences
+#1003	AnnotatorNotes T1003	SO:0001407 (peptidyl)
+T1004	CHEBI 17911 17913	AA
+#1004	AnnotatorNotes T1004	CHEBI:33708 (amino-acid residue)
+T1005	SO 17911 17913	AA
+#1005	AnnotatorNotes T1005	SO:0001237 (amino_acid)
+T1006	NCBITaxon 17948 17953	mouse
+#1006	AnnotatorNotes T1006	NCBITaxon:10088 (Mus)
+T1007	SO 17954 17957	EST
+#1007	AnnotatorNotes T1007	SO:0000345 (EST)
+T1008	SO 17971 17974	EST
+#1008	AnnotatorNotes T1008	SO:0000345 (EST)
+T1009	SO 18020 18034	forward primer
+#1009	AnnotatorNotes T1009	SO:0000121 (forward_primer)
+T1010	SO 18020 18027	forward
+#1010	AnnotatorNotes T1010	SO:0001030 (forward)
+T1011	NCBITaxon 18046 18051	human
+#1011	AnnotatorNotes T1011	NCBITaxon:9606 (Homo sapiens)
+T1012	italic 18052 18056	ACDP
+#1012	AnnotatorNotes T1012	italic (null)
+T1013	SO 18060 18064	cDNA
+#1013	AnnotatorNotes T1013	SO:0000756 (cDNA)
+T1014	SO 18065 18078	coding region
+#1014	AnnotatorNotes T1014	SO:0000316 (CDS)
+T1015	SO 18086 18097	start codon
+#1015	AnnotatorNotes T1015	SO:0000318 (start_codon)
+T1016	GO_BP 18086 18091	start
+#1016	AnnotatorNotes T1016	GO:0006352 (transcription initiation)
+T1017	GO_BP 18086 18091	start
+#1017	AnnotatorNotes T1017	GO:0006413 (translational initiation)
+T1018	NCBITaxon 18105 18110	mouse
+#1018	AnnotatorNotes T1018	NCBITaxon:10088 (Mus)
+T1019	SO 18111 18125	reverse primer
+#1019	AnnotatorNotes T1019	SO:0000132 (reverse_primer)
+T1020	SO 18111 18118	reverse
+#1020	AnnotatorNotes T1020	SO:0001031 (reverse)
+T1021	NCBITaxon 18135 18140	mouse
+#1021	AnnotatorNotes T1021	NCBITaxon:10088 (Mus)
+T1022	SO 18141 18144	EST
+#1022	AnnotatorNotes T1022	SO:0000345 (EST)
+T1023	SO 18177 18195	homologue sequence
+#1023	AnnotatorNotes T1023	SO:0000853 (homologous_region)
+T1024	NCBITaxon 18201 18206	mouse
+#1024	AnnotatorNotes T1024	NCBITaxon:10088 (Mus)
+T1025	SO 18207 18211	cDNA
+#1025	AnnotatorNotes T1025	SO:0000756 (cDNA)
+T1026	GO_MF 18224 18233	annealing
+#1026	AnnotatorNotes T1026	GO:0033592 (RNA strand annealing activity)
+T1027	GO_MF 18224 18233	annealing
+#1027	AnnotatorNotes T1027	GO:0000739 (DNA strand annealing activity)
+T1028	SO 18286 18300	reverse primer
+#1028	AnnotatorNotes T1028	SO:0000132 (reverse_primer)
+T1029	SO 18286 18293	reverse
+#1029	AnnotatorNotes T1029	SO:0001031 (reverse)
+T1030	NCBITaxon 18310 18315	mouse
+#1030	AnnotatorNotes T1030	NCBITaxon:10088 (Mus)
+T1031	SO 18316 18328	EST sequence
+#1031	AnnotatorNotes T1031	SO:0000345 (EST)
+T1032	NCBITaxon 18342 18347	human
+#1032	AnnotatorNotes T1032	NCBITaxon:9606 (Homo sapiens)
+T1033	SO 18348 18362	forward primer
+#1033	AnnotatorNotes T1033	SO:0000121 (forward_primer)
+T1034	SO 18348 18355	forward
+#1034	AnnotatorNotes T1034	SO:0001030 (forward)
+T1035	NCBITaxon 18408 18413	mouse
+#1035	AnnotatorNotes T1035	NCBITaxon:10088 (Mus)
+T1036	SO 18414 18418	gene
+#1036	AnnotatorNotes T1036	SO:0000704 (gene)
+T1037	SO 18440 18452	PCR products
+#1037	AnnotatorNotes T1037	SO:0000006 (PCR_product)
+T1038	GO_MF 18461 18470	annealing
+#1038	AnnotatorNotes T1038	GO:0033592 (RNA strand annealing activity)
+T1039	GO_MF 18461 18470	annealing
+#1039	AnnotatorNotes T1039	GO:0000739 (DNA strand annealing activity)
+T1040	SO 18495 18503	expected
+#1040	AnnotatorNotes T1040	SO:0000732 (predicted)
+T1041	SO 18504 18516	PCR products
+#1041	AnnotatorNotes T1041	SO:0000006 (PCR_product)
+T1042	CHEBI 18544 18551	agarose
+#1042	AnnotatorNotes T1042	CHEBI:2511 (agarose)
+T1043	SO 18608 18616	sequence
+#1043	AnnotatorNotes T1043	SO:0000001 (region)
+T1044	SO 18647 18661	forward primer
+#1044	AnnotatorNotes T1044	SO:0000121 (forward_primer)
+T1045	SO 18647 18654	forward
+#1045	AnnotatorNotes T1045	SO:0001030 (forward)
+T1046	SO 18684 18692	sequence
+#1046	AnnotatorNotes T1046	SO:0000001 (region)
+T1047	SO 18699 18713	reverse primer
+#1047	AnnotatorNotes T1047	SO:0000132 (reverse_primer)
+T1048	SO 18699 18706	reverse
+#1048	AnnotatorNotes T1048	SO:0001031 (reverse)
+T1049	SO 18719 18724	known
+#1049	AnnotatorNotes T1049	SO:0000906 (independently_known)
+T1050	SO 18725 18733	sequence
+#1050	AnnotatorNotes T1050	SO:0000001 (region)
+T1051	SO 18752 18768	coding sequences
+#1051	AnnotatorNotes T1051	SO:0000316 (CDS)
+T1052	SO 18786 18793	partial
+#1052	AnnotatorNotes T1052	SO:0000731 (fragmentary)
+T1053	SO 18794 18802	sequence
+#1053	AnnotatorNotes T1053	SO:0000001 (region)
+T1054	SO 18806 18810	exon
+#1054	AnnotatorNotes T1054	SO:0000147 (exon)
+T1055	SO 18821 18837	5' UTR sequences
+#1055	AnnotatorNotes T1055	SO:0000204 (five_prime_UTR)
+T1056	SO 18855 18858	BAC
+#1056	AnnotatorNotes T1056	SO:0000153 (BAC)
+T1057	SO 18859 18862	DNA
+#1057	AnnotatorNotes T1057	SO:0000352 (DNA)
+T1058	NCBITaxon 18962 18967	mouse
+#1058	AnnotatorNotes T1058	NCBITaxon:10088 (Mus)
+T1059	SO 19043 19047	gene
+#1059	AnnotatorNotes T1059	SO:0000704 (gene)
+T1060	SO 19059 19067	fragment
+#1060	AnnotatorNotes T1060	SO:0000731 (fragmentary)
+T1061	SO 19080 19082	bp
+#1061	AnnotatorNotes T1061	SO:0000028 (base_pair)
+T1062	SO 19094 19098	exon
+#1062	AnnotatorNotes T1062	SO:0000147 (exon)
+T1063	SO 19107 19129	3' untranslated region
+#1063	AnnotatorNotes T1063	SO:0000205 (three_prime_UTR)
+T1064	CHEBI 19145 19148	32P
+#1064	AnnotatorNotes T1064	CHEBI:37972 (phosphorus-32)
+T1065	sup 19145 19147	32
+#1065	AnnotatorNotes T1065	sup (null)
+T1066	SO 19164 19170	random
+#1066	AnnotatorNotes T1066	SO:0000449 (random_sequence)
+T1067	SO 19171 19177	primer
+#1067	AnnotatorNotes T1067	SO:0000112 (primer)
+T1068	GO_BP 19178 19187	extension
+#1068	AnnotatorNotes T1068	GO:0022616 (DNA strand elongation)
+T1069	GO_BP 19178 19187	extension
+#1069	AnnotatorNotes T1069	GO:0006354 (RNA elongation)
+T1070	GO_MF 19216 19230	Hybridizations
+#1070	AnnotatorNotes T1070	GO:0000739 (DNA strand annealing activity)
+T1071	GO_MF 19216 19230	Hybridizations
+#1071	AnnotatorNotes T1071	GO:0033592 (RNA strand annealing activity)
+T1072	CHEBI 19324 19327	SDS
+#1072	AnnotatorNotes T1072	CHEBI:8984 (sodium dodecyl sulfate)
+T1073	CHEBI 19410 19413	SDS
+#1073	AnnotatorNotes T1073	CHEBI:8984 (sodium dodecyl sulfate)
+T1074	GO_BP 19510 19529	Antibody production
+#1074	AnnotatorNotes T1074	GO:0002378 (immunoglobulin biosynthetic process)
+T1075	GO_BP 19510 19529	Antibody production
+#1075	AnnotatorNotes T1075	GO:0002377 (immunoglobulin production)
+T1076	GO_CC 19510 19518	Antibody
+#1076	AnnotatorNotes T1076	GO:0019814 (immunoglobulin complex)
+T1077	SO 19557 19565	Peptides
+#1077	AnnotatorNotes T1077	SO:0001407 (peptidyl)
+T1078	NCBITaxon 19581 19595	keyhole limpet
+#1078	AnnotatorNotes T1078	NCBITaxon:54986 (Fissurellidae)
+T1079	PR 19613 19618	Acdp1
+#1079	AnnotatorNotes T1079	PR:000005643 (metal transporter CNNM1)
+T1080	SO 19619 19637	N- and C-terminals
+#1080	AnnotatorNotes T1080	"N- .. terminals" SO:0100014 (n_terminal_region)
+T1081	CHEBI 19619 19620	N
+#1081	AnnotatorNotes T1081	CHEBI:46882 (amino group)
+T1082	SO 19626 19637	C-terminals
+#1082	AnnotatorNotes T1082	SO:0100015 (c_terminal_region)
+T1083	CHEBI 19626 19627	C
+#1083	AnnotatorNotes T1083	CHEBI:46883 (carboxy group)
+T1084	CHEBI 19626 19627	C
+#1084	AnnotatorNotes T1084	CHEBI:18245 (carboxylato group)
+T1085	SO 19646 19655	conserved
+#1085	AnnotatorNotes T1085	SO:0000856 (conserved)
+T1086	SO 19656 19662	domain
+#1086	AnnotatorNotes T1086	SO:0000417 (polypeptide_domain)
+T1087	GO_BP 19683 19707	generation of antibodies
+#1087	AnnotatorNotes T1087	GO:0002378 (immunoglobulin biosynthetic process)
+T1088	GO_BP 19683 19707	generation of antibodies
+#1088	AnnotatorNotes T1088	GO:0002377 (immunoglobulin production)
+T1089	GO_CC 19697 19707	antibodies
+#1089	AnnotatorNotes T1089	GO:0019814 (immunoglobulin complex)
+T1090	PR 19725 19730	Acdp1
+#1090	AnnotatorNotes T1090	PR:000005643 (metal transporter CNNM1)
+T1091	GO_CC 19944 19954	antibodies
+#1091	AnnotatorNotes T1091	GO:0019814 (immunoglobulin complex)
+T1092	GO_CC 20025 20035	Chromosome
+#1092	AnnotatorNotes T1092	GO:0005694 (chromosome)
+T1093	SO 20025 20035	Chromosome
+#1093	AnnotatorNotes T1093	SO:0000340 (chromosome)
+T1094	NCBITaxon 20058 20063	mouse
+#1094	AnnotatorNotes T1094	NCBITaxon:10088 (Mus)
+T1095	GO_CC 20130 20140	chromosome
+#1095	AnnotatorNotes T1095	GO:0005694 (chromosome)
+T1096	SO 20130 20140	chromosome
+#1096	AnnotatorNotes T1096	SO:0000340 (chromosome)
+T1097	SO 20171 20178	Primers
+#1097	AnnotatorNotes T1097	SO:0000112 (primer)
+T1098	SO 20184 20190	3' UTR
+#1098	AnnotatorNotes T1098	SO:0000205 (three_prime_UTR)
+T1099	SO 20257 20263	clones
+#1099	AnnotatorNotes T1099	SO:0000151 (clone)
+T1100	NCBITaxon 20281 20286	mouse
+#1100	AnnotatorNotes T1100	NCBITaxon:10088 (Mus)
+T1101	SO 20287 20293	genome
+#1101	AnnotatorNotes T1101	SO:0001026 (genome)
+T1102	NCBITaxon 20345 20350	Mouse
+#1102	AnnotatorNotes T1102	NCBITaxon:10088 (Mus)
+T1103	SO 20392 20400	Sequence
+#1103	AnnotatorNotes T1103	SO:0000001 (region)
+T1104	SO 20468 20472	Gene
+#1104	AnnotatorNotes T1104	SO:0000704 (gene)
+T1105	CHEBI 20486 20493	Protein
+#1105	AnnotatorNotes T1105	CHEBI:36080 (proteins)
+T1106	SO 20498 20501	DNA
+#1106	AnnotatorNotes T1106	SO:0000352 (DNA)
+T1107	SO 20502 20510	homology
+#1107	AnnotatorNotes T1107	SO:0000857 (homologous)
+T1108	SO 20598 20606	sequence
+#1108	AnnotatorNotes T1108	SO:0000001 (region)
+T1109	SO 20659 20667	sequence
+#1109	AnnotatorNotes T1109	SO:0000001 (region)
+T1110	SO 20744 20752	sequence
+#1110	AnnotatorNotes T1110	SO:0000001 (region)
+T1111	SO 20812 20829	sequence features
+#1111	AnnotatorNotes T1111	SO:0000110 (sequence_feature)
+T1112	SO 20833 20838	known
+#1112	AnnotatorNotes T1112	SO:0000906 (independently_known)
+T1113	CHEBI 20839 20846	protein
+#1113	AnnotatorNotes T1113	CHEBI:36080 (proteins)
+T1114	CL 21003 21016	Neuronal cell
+#1114	AnnotatorNotes T1114	CL:0000540 (neuron)
+T1115	GO_CC 21012 21016	cell
+#1115	AnnotatorNotes T1115	GO:0005623 (cell)
+T1116	CL 21062 21068	neuron
+#1116	AnnotatorNotes T1116	CL:0000540 (neuron)
+T1117	NCBITaxon 21172 21177	mouse
+#1117	AnnotatorNotes T1117	NCBITaxon:10088 (Mus)
+T1118	italic 21197 21205	in utero
+#1118	AnnotatorNotes T1118	italic (null)
+T1119	GO_MF 21355 21362	trypsin
+#1119	AnnotatorNotes T1119	GO:0004295 (trypsin activity)
+T1120	independent_continuant 21355 21362	trypsin
+#1120	AnnotatorNotes T1120	independent_continuant
+T1121	CL 21412 21419	neurons
+#1121	AnnotatorNotes T1121	CL:0000540 (neuron)
+T1122	NCBITaxon 21489 21494	mouse
+#1122	AnnotatorNotes T1122	NCBITaxon:10088 (Mus)
+T1123	CL 21504 21514	astrocytes
+#1123	AnnotatorNotes T1123	CL:0000127 (astrocyte)
+T1124	CL 21548 21555	neurons
+#1124	AnnotatorNotes T1124	CL:0000540 (neuron)
+T1125	CHEBI 21615 21618	CO2
+#1125	AnnotatorNotes T1125	CHEBI:16526 (carbon dioxide)
+T1126	sub 21617 21618	2
+#1126	AnnotatorNotes T1126	sub (null)
+T1127	CL 21629 21639	astrocytes
+#1127	AnnotatorNotes T1127	CL:0000127 (astrocyte)
+T1128	NCBITaxon 21665 21670	mouse
+#1128	AnnotatorNotes T1128	NCBITaxon:10088 (Mus)
+T1129	GO_BP 21685 21690	grown
+#1129	AnnotatorNotes T1129	GO:0040007 (growth)
+T1130	CHEBI 21752 21755	CO2
+#1130	AnnotatorNotes T1130	CHEBI:16526 (carbon dioxide)
+T1131	sub 21754 21755	2
+#1131	AnnotatorNotes T1131	sub (null)
+T1132	CL 21777 21782	cells
+#1132	AnnotatorNotes T1132	CL:0000000 (cell)
+T1133	GO_CC 21777 21782	cells
+#1133	AnnotatorNotes T1133	GO:0005623 (cell)
+T1134	sup 21801 21803	-5
+#1134	AnnotatorNotes T1134	sup (null)
+T1135	CHEBI 21806 21826	cytosine arabinoside
+#1135	AnnotatorNotes T1135	CHEBI:28680 (cytarabine)
+T1136	CHEBI 21806 21814	cytosine
+#1136	AnnotatorNotes T1136	CHEBI:30758 (cytosin-1-yl group)
+T1137	CHEBI 21806 21814	cytosine
+#1137	AnnotatorNotes T1137	CHEBI:16040 (cytosine)
+T1138	CHEBI 21815 21826	arabinoside
+#1138	AnnotatorNotes T1138	CHEBI:22599 (arabinose)
+T1139	CL 21913 21921	cellular
+#1139	AnnotatorNotes T1139	CL:0000000 (cell)
+T1140	GO_CC 21913 21921	cellular
+#1140	AnnotatorNotes T1140	GO:0005623 (cell)
+T1141	CL 21934 21939	cells
+#1141	AnnotatorNotes T1141	CL:0000000 (cell)
+T1142	GO_CC 21934 21939	cells
+#1142	AnnotatorNotes T1142	GO:0005623 (cell)
+T1143	CL 21995 22009	neuronal cells
+#1143	AnnotatorNotes T1143	CL:0000540 (neuron)
+T1144	GO_CC 22004 22009	cells
+#1144	AnnotatorNotes T1144	GO:0005623 (cell)
+T1145	CL 22237 22242	cells
+#1145	AnnotatorNotes T1145	CL:0000000 (cell)
+T1146	GO_CC 22237 22242	cells
+#1146	AnnotatorNotes T1146	GO:0005623 (cell)
+T1147	NCBITaxon 22306 22310	goat
+#1147	AnnotatorNotes T1147	NCBITaxon:9925 (Capra hircus)
+T1148	NCBITaxon 22352 22358	rabbit
+#1148	AnnotatorNotes T1148	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1149	GO_CC 22380 22388	antibody
+#1149	AnnotatorNotes T1149	GO:0019814 (immunoglobulin complex)
+T1150	NCBITaxon 22448 22452	goat
+#1150	AnnotatorNotes T1150	NCBITaxon:9925 (Capra hircus)
+T1151	CL 22477 22482	cells
+#1151	AnnotatorNotes T1151	CL:0000000 (cell)
+T1152	GO_CC 22477 22482	cells
+#1152	AnnotatorNotes T1152	GO:0005623 (cell)
+T1153	GO_BP 22515 22525	conjugated
+#1153	AnnotatorNotes T1153	GO:0043412 (biopolymer modification)
+T1154	GO_CC 22536 22544	antibody
+#1154	AnnotatorNotes T1154	GO:0019814 (immunoglobulin complex)
+T1155	NCBITaxon 22558 22562	goat
+#1155	AnnotatorNotes T1155	NCBITaxon:9925 (Capra hircus)
+T1156	CHEBI 22583 22592	Molecular
+#1156	AnnotatorNotes T1156	CHEBI:36357 (polyatomic entities)
+T1157	SO 22593 22599	Probes
+#1157	AnnotatorNotes T1157	SO:0000051 (probe)
+T1158	NCBITaxon 22663 22667	goat
+#1158	AnnotatorNotes T1158	NCBITaxon:9925 (Capra hircus)
+T1159	CL 22692 22706	neuronal cells
+#1159	AnnotatorNotes T1159	CL:0000540 (neuron)
+T1160	GO_CC 22701 22706	cells
+#1160	AnnotatorNotes T1160	GO:0005623 (cell)
+T1161	CHEBI 22751 22759	glycerol
+#1161	AnnotatorNotes T1161	CHEBI:17754 (glycerol)
+T1162	CL 22795 22800	cells
+#1162	AnnotatorNotes T1162	CL:0000000 (cell)
+T1163	GO_CC 22795 22800	cells
+#1163	AnnotatorNotes T1163	GO:0005623 (cell)
+T1164	SO 22972 22976	Gene
+#1164	AnnotatorNotes T1164	SO:0000704 (gene)
+T1165	SO 23004 23018	cDNA sequences
+#1165	AnnotatorNotes T1165	SO:0000756 (cDNA)
+T1166	italic 23027 23031	Acdp
+#1166	AnnotatorNotes T1166	italic (null)
+T1167	SO 23032 23036	gene
+#1167	AnnotatorNotes T1167	SO:0000704 (gene)
+T1168	SO 23075 23079	gene
+#1168	AnnotatorNotes T1168	SO:0000704 (gene)
+T1169	italic 23118 23123	Acdp1
+#1169	AnnotatorNotes T1169	italic (null)
+T1170	EntrezGene 23118 23123	Acdp1
+#1170	AnnotatorNotes T1170	EG:83674
+T1171	PR 23118 23123	Acdp1
+#1171	AnnotatorNotes T1171	PR:000005643 (metal transporter CNNM1)
+T1172	italic 23136 23141	Acdp2
+#1172	AnnotatorNotes T1172	italic (null)
+T1173	EntrezGene 23136 23141	Acdp2
+#1173	AnnotatorNotes T1173	EG:94219
+T1174	PR 23136 23141	Acdp2
+#1174	AnnotatorNotes T1174	PR:000005644 (metal transporter CNNM2)
+T1175	italic 23154 23159	Acdp3
+#1175	AnnotatorNotes T1175	italic (null)
+T1176	EntrezGene 23154 23159	Acdp3
+#1176	AnnotatorNotes T1176	EG:94218
+T1177	PR 23154 23159	Acdp3
+#1177	AnnotatorNotes T1177	PR:000005645 (metal transporter CNNM3)
+T1178	italic 23175 23180	Acdp4
+#1178	AnnotatorNotes T1178	italic (null)
+T1179	PR 23175 23180	Acdp4
+#1179	AnnotatorNotes T1179	PR:000005646 (metal transporter CNNM4)
+T1180	EntrezGene 23175 23180	Acdp4
+#1180	AnnotatorNotes T1180	EG:94220
+T1181	CHEBI 23323 23332	molecular
+#1181	AnnotatorNotes T1181	CHEBI:36357 (polyatomic entities)
+T1182	GO_BP 23406 23425	antibody production
+#1182	AnnotatorNotes T1182	GO:0002378 (immunoglobulin biosynthetic process)
+T1183	GO_BP 23406 23425	antibody production
+#1183	AnnotatorNotes T1183	GO:0002377 (immunoglobulin production)
+T1184	GO_CC 23406 23414	antibody
+#1184	AnnotatorNotes T1184	GO:0019814 (immunoglobulin complex)
+T1185	EntrezGene 23462 23467	Acdp1
+#1185	AnnotatorNotes T1185	EG:83674
+T1186	PR 23462 23467	Acdp1
+#1186	AnnotatorNotes T1186	PR:000005643 (metal transporter CNNM1)
+T1187	GO_BP 23468 23498	localization in neuronal cells
+#1187	AnnotatorNotes T1187	"localization in .. cells" GO:0051641 (cellular localization)
+T1188	CL 23484 23498	neuronal cells
+#1188	AnnotatorNotes T1188	CL:0000540 (neuron)
+T1189	GO_CC 23493 23498	cells
+#1189	AnnotatorNotes T1189	GO:0005623 (cell)

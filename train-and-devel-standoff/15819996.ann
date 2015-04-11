@@ -1,0 +1,2996 @@
+T1	GO_CC 0 7	Nuclear
+#1	AnnotatorNotes T1	GO:0005634 (nucleus)
+T2	GO_BP 8 20	localization
+#2	AnnotatorNotes T2	GO:0051179 (localization)
+T3	EntrezGene 24 34	Annexin A7
+#3	AnnotatorNotes T3	EG:11750
+T4	PR 24 34	Annexin A7
+#4	AnnotatorNotes T4	PR:000004080 (annexin A7)
+T5	NCBITaxon 42 48	murine
+#5	AnnotatorNotes T5	NCBITaxon:39107 (Murinae)
+T6	GO_BP 49 66	brain development
+#6	AnnotatorNotes T6	GO:0007420 (brain development)
+T7	PR 90 100	Annexin A7
+#7	AnnotatorNotes T7	PR:000004080 (annexin A7)
+T8	CHEBI 128 135	protein
+#8	AnnotatorNotes T8	CHEBI:36080 (proteins)
+T9	CHEBI 199 212	phospholipids
+#9	AnnotatorNotes T9	CHEBI:16247 (phospholipids)
+T10	CHEBI 232 241	Ca2+-ions
+#10	AnnotatorNotes T10	CHEBI:29108 (calcium(2+))
+T11	sup 234 236	2+
+#11	AnnotatorNotes T11	sup (null)
+T12	GO_BP 278 294	Ca2+-homeostasis
+#12	AnnotatorNotes T12	GO:0055074 (calcium ion homeostasis)
+T13	CHEBI 278 282	Ca2+
+#13	AnnotatorNotes T13	CHEBI:29108 (calcium(2+))
+T14	sup 280 282	2+
+#14	AnnotatorNotes T14	sup (null)
+T15	SO 309 315	mutant
+#15	AnnotatorNotes T15	SO:0001059 (sequence_alteration)
+T16	NCBITaxon 316 320	mice
+#16	AnnotatorNotes T16	NCBITaxon:10088 (Mus)
+T17	CHEBI 336 340	Ca2+
+#17	AnnotatorNotes T17	CHEBI:29108 (calcium(2+))
+T18	sup 338 340	2+
+#18	AnnotatorNotes T18	sup (null)
+T19	CL 361 371	astrocytes
+#19	AnnotatorNotes T19	CL:0000127 (astrocyte)
+T20	GO_BP 395 407	distribution
+#20	AnnotatorNotes T20	GO:0051179 (localization)
+T21	PR 411 421	Annexin A7
+#21	AnnotatorNotes T21	PR:000004080 (annexin A7)
+T22	GO_BP 429 446	brain development
+#22	AnnotatorNotes T22	GO:0007420 (brain development)
+T23	GO_BP 499 533	distribution of Annexin A7 protein
+#23	AnnotatorNotes T23	"distribution of .. protein" GO:0008104 (protein localization)
+T24	EntrezGene 515 525	Annexin A7
+#24	AnnotatorNotes T24	EG:11750
+T25	PR 515 525	Annexin A7
+#25	AnnotatorNotes T25	PR:000004080 (annexin A7)
+T26	CHEBI 526 533	protein
+#26	AnnotatorNotes T26	CHEBI:36080 (proteins)
+T27	NCBITaxon 541 546	mouse
+#27	AnnotatorNotes T27	NCBITaxon:10088 (Mus)
+T28	GO_BP 547 560	embryogenesis
+#28	AnnotatorNotes T28	GO:0009790 (embryonic development)
+T29	GO_BP 568 578	developing
+#29	AnnotatorNotes T29	GO:0032502 (developmental process)
+T30	NCBITaxon 619 624	mouse
+#30	AnnotatorNotes T30	NCBITaxon:10088 (Mus)
+T31	EntrezGene 642 652	Annexin A7
+#31	AnnotatorNotes T31	EG:11750
+T32	PR 642 652	Annexin A7
+#32	AnnotatorNotes T32	PR:000004080 (annexin A7)
+T33	GO_BP 656 665	expressed
+#33	AnnotatorNotes T33	GO:0010467 (gene expression)
+T34	CL 669 674	cells
+#34	AnnotatorNotes T34	CL:0000000 (cell)
+T35	GO_CC 669 674	cells
+#35	AnnotatorNotes T35	GO:0005623 (cell)
+T36	GO_BP 682 692	developing
+#36	AnnotatorNotes T36	GO:0032502 (developmental process)
+T37	GO_BP 721 745	subcellular localization
+#37	AnnotatorNotes T37	GO:0051641 (cellular localization)
+T38	GO_CC 751 760	cytoplasm
+#38	AnnotatorNotes T38	GO:0005737 (cytoplasm)
+T39	GO_CC 764 771	nucleus
+#39	AnnotatorNotes T39	GO:0005634 (nucleus)
+T40	GO_BP 808 832	subcellular distribution
+#40	AnnotatorNotes T40	GO:0051641 (cellular localization)
+T41	EntrezGene 836 846	Annexin A7
+#41	AnnotatorNotes T41	EG:11750
+T42	PR 836 846	Annexin A7
+#42	AnnotatorNotes T42	PR:000004080 (annexin A7)
+T43	CL 862 866	cell
+#43	AnnotatorNotes T43	CL:0000000 (cell)
+T44	GO_CC 862 866	cell
+#44	AnnotatorNotes T44	GO:0005623 (cell)
+T45	EntrezGene 906 916	Annexin A7
+#45	AnnotatorNotes T45	EG:11750
+T46	PR 906 916	Annexin A7
+#46	AnnotatorNotes T46	PR:000004080 (annexin A7)
+T47	GO_CC 937 944	cytosol
+#47	AnnotatorNotes T47	GO:0005829 (cytosol)
+T48	CL 965 970	cells
+#48	AnnotatorNotes T48	CL:0000000 (cell)
+T49	GO_CC 965 970	cells
+#49	AnnotatorNotes T49	GO:0005623 (cell)
+T50	CHEBI 1011 1018	protein
+#50	AnnotatorNotes T50	CHEBI:36080 (proteins)
+T51	GO_CC 1043 1050	cytosol
+#51	AnnotatorNotes T51	GO:0005829 (cytosol)
+T52	CL 1054 1059	cells
+#52	AnnotatorNotes T52	CL:0000000 (cell)
+T53	GO_CC 1054 1059	cells
+#53	AnnotatorNotes T53	GO:0005623 (cell)
+T54	EntrezGene 1185 1195	Annexin A7
+#54	AnnotatorNotes T54	EG:11750
+T55	PR 1185 1195	Annexin A7
+#55	AnnotatorNotes T55	PR:000004080 (annexin A7)
+T56	CL 1199 1204	cells
+#56	AnnotatorNotes T56	CL:0000000 (cell)
+T57	GO_CC 1199 1204	cells
+#57	AnnotatorNotes T57	GO:0005623 (cell)
+T58	GO_BP 1261 1273	translocates
+#58	AnnotatorNotes T58	GO:0006810 (transport)
+T59	GO_CC 1281 1288	nucleus
+#59	AnnotatorNotes T59	GO:0005634 (nucleus)
+T60	CL 1290 1304	Neuronal cells
+#60	AnnotatorNotes T60	CL:0000540 (neuron)
+T61	GO_CC 1299 1304	cells
+#61	AnnotatorNotes T61	GO:0005623 (cell)
+T62	EntrezGene 1345 1355	Annexin A7
+#62	AnnotatorNotes T62	EG:11750
+T63	PR 1345 1355	Annexin A7
+#63	AnnotatorNotes T63	PR:000004080 (annexin A7)
+T64	GO_CC 1363 1370	nucleus
+#64	AnnotatorNotes T64	GO:0005634 (nucleus)
+T65	EntrezGene 1380 1411	glial fibrillary acidic protein
+#65	AnnotatorNotes T65	EG:14580
+T66	PR 1380 1411	glial fibrillary acidic protein
+#66	AnnotatorNotes T66	PR:000007939 (glial fibrillary acidic protein)
+T67	CL 1380 1385	glial
+#67	AnnotatorNotes T67	CL:0000125 (glial cell)
+T68	CHEBI 1397 1403	acidic
+#68	AnnotatorNotes T68	CHEBI:37527 (acid)
+T69	CHEBI 1404 1411	protein
+#69	AnnotatorNotes T69	CHEBI:36080 (proteins)
+T70	EntrezGene 1413 1417	GFAP
+#70	AnnotatorNotes T70	EG:14580
+T71	PR 1413 1417	GFAP
+#71	AnnotatorNotes T71	PR:000007939 (glial fibrillary acidic protein)
+T72	CL 1428 1438	astrocytes
+#72	AnnotatorNotes T72	CL:0000127 (astrocyte)
+T73	GO_CC 1455 1466	cytoplasmic
+#73	AnnotatorNotes T73	GO:0005737 (cytoplasm)
+T74	GO_CC 1471 1478	nuclear
+#74	AnnotatorNotes T74	GO:0005634 (nucleus)
+T75	GO_CC 1505 1512	nuclear
+#75	AnnotatorNotes T75	GO:0005634 (nucleus)
+T76	EntrezGene 1513 1523	Annexin A7
+#76	AnnotatorNotes T76	EG:155423
+T77	PR 1513 1523	Annexin A7
+#77	AnnotatorNotes T77	PR:000004080 (annexin A7)
+T78	GO_CC 1559 1570	nucleoplasm
+#78	AnnotatorNotes T78	GO:0005654 (nucleoplasm)
+T79	GO_CC 1585 1591	nuclei
+#79	AnnotatorNotes T79	GO:0005634 (nucleus)
+T80	CL 1606 1634	neuronal and astroglial cell
+#80	AnnotatorNotes T80	"neuronal .. cell" CL:0000540 (neuron)
+T81	CL 1619 1634	astroglial cell
+#81	AnnotatorNotes T81	CL:0000127 (astrocyte)
+T82	GO_CC 1630 1634	cell
+#82	AnnotatorNotes T82	GO:0005623 (cell)
+T83	GO_BP 1678 1715	translocation of Annexin A7 to nuclei
+#83	AnnotatorNotes T83	"translocation .. to nuclei" GO:0051170 (nuclear import)
+T84	EntrezGene 1695 1705	Annexin A7
+#84	AnnotatorNotes T84	EG:11750
+T85	PR 1695 1705	Annexin A7
+#85	AnnotatorNotes T85	PR:000004080 (annexin A7)
+T86	GO_CC 1709 1715	nuclei
+#86	AnnotatorNotes T86	GO:0005634 (nucleus)
+T87	CL 1719 1724	cells
+#87	AnnotatorNotes T87	CL:0000000 (cell)
+T88	GO_CC 1719 1724	cells
+#88	AnnotatorNotes T88	GO:0005623 (cell)
+T89	NCBITaxon 1734 1740	murine
+#89	AnnotatorNotes T89	NCBITaxon:39107 (Murinae)
+T90	GO_BP 1741 1758	brain development
+#90	AnnotatorNotes T90	GO:0007420 (brain development)
+T91	EntrezGene 1779 1789	Annexin A7
+#91	AnnotatorNotes T91	EG:11750
+T92	PR 1779 1789	Annexin A7
+#92	AnnotatorNotes T92	PR:000004080 (annexin A7)
+T93	GO_CC 1793 1799	nuclei
+#93	AnnotatorNotes T93	GO:0005634 (nucleus)
+T94	CL 1803 1817	neuronal cells
+#94	AnnotatorNotes T94	CL:0000540 (neuron)
+T95	GO_CC 1812 1817	cells
+#95	AnnotatorNotes T95	GO:0005623 (cell)
+T96	NCBITaxon 1831 1837	animal
+#96	AnnotatorNotes T96	NCBITaxon:33208 (Metazoa)
+T97	EntrezGene 1851 1861	Annexin A7
+#97	AnnotatorNotes T97	EG:11750
+T98	PR 1851 1861	Annexin A7
+#98	AnnotatorNotes T98	PR:000004080 (annexin A7)
+T99	GO_CC 1865 1871	nuclei
+#99	AnnotatorNotes T99	GO:0005634 (nucleus)
+T100	GO_BP 1875 1890	differentiating
+#100	AnnotatorNotes T100	GO:0030154 (cell differentiation)
+T101	CL 1902 1916	neuronal cells
+#101	AnnotatorNotes T101	CL:0000540 (neuron)
+T102	GO_CC 1911 1916	cells
+#102	AnnotatorNotes T102	GO:0005623 (cell)
+T103	CHEBI 1994 2002	proteins
+#103	AnnotatorNotes T103	CHEBI:36080 (proteins)
+T104	GO_MF 2010 2014	bind
+#104	AnnotatorNotes T104	GO:0005488 (binding)
+T105	CHEBI 2037 2050	phospholipids
+#105	AnnotatorNotes T105	CHEBI:16247 (phospholipids)
+T106	CHEBI 2056 2060	Ca2+
+#106	AnnotatorNotes T106	CHEBI:29108 (calcium(2+))
+T107	sup 2058 2060	2+
+#107	AnnotatorNotes T107	sup (null)
+T108	SO 2138 2147	conserved
+#108	AnnotatorNotes T108	SO:0000856 (conserved)
+T109	SO 2148 2170	C-terminal core domain
+#109	AnnotatorNotes T109	"C-terminal .. domain" SO:0100015 (c_terminal_region)
+T110	CHEBI 2148 2149	C
+#110	AnnotatorNotes T110	CHEBI:18245 (carboxylato group)
+T111	CHEBI 2148 2149	C
+#111	AnnotatorNotes T111	CHEBI:46883 (carboxy group)
+T112	SO 2164 2170	domain
+#112	AnnotatorNotes T112	SO:0000417 (polypeptide_domain)
+T113	SO 2184 2201	N-terminal domain
+#113	AnnotatorNotes T113	SO:0100014 (n_terminal_region)
+T114	CHEBI 2184 2185	N
+#114	AnnotatorNotes T114	CHEBI:46882 (amino group)
+T115	SO 2195 2201	domain
+#115	AnnotatorNotes T115	SO:0000417 (polypeptide_domain)
+T116	CHEBI 2228 2238	amino acid
+#116	AnnotatorNotes T116	CHEBI:33708 (amino-acid residue)
+T117	SO 2228 2238	amino acid
+#117	AnnotatorNotes T117	SO:0001237 (amino_acid)
+T118	CHEBI 2228 2233	amino
+#118	AnnotatorNotes T118	CHEBI:46882 (amino group)
+T119	CHEBI 2228 2233	amino
+#119	AnnotatorNotes T119	CHEBI:32952 (amines)
+T120	CHEBI 2234 2238	acid
+#120	AnnotatorNotes T120	CHEBI:37527 (acid)
+T121	SO 2256 2273	C-terminal domain
+#121	AnnotatorNotes T121	SO:0100015 (c_terminal_region)
+T122	CHEBI 2256 2257	C
+#122	AnnotatorNotes T122	CHEBI:18245 (carboxylato group)
+T123	CHEBI 2256 2257	C
+#123	AnnotatorNotes T123	CHEBI:46883 (carboxy group)
+T124	SO 2267 2273	domain
+#124	AnnotatorNotes T124	SO:0000417 (polypeptide_domain)
+T125	SO 2315 2321	repeat
+#125	AnnotatorNotes T125	SO:0000726 (repeat_unit)
+T126	SO 2315 2321	repeat
+#126	AnnotatorNotes T126	SO:0000657 (repeat_region)
+T127	CHEBI 2342 2353	amino acids
+#127	AnnotatorNotes T127	CHEBI:33708 (amino-acid residue)
+T128	SO 2342 2353	amino acids
+#128	AnnotatorNotes T128	SO:0001237 (amino_acid)
+T129	CHEBI 2342 2347	amino
+#129	AnnotatorNotes T129	CHEBI:32952 (amines)
+T130	CHEBI 2342 2347	amino
+#130	AnnotatorNotes T130	CHEBI:46882 (amino group)
+T131	CHEBI 2348 2353	acids
+#131	AnnotatorNotes T131	CHEBI:37527 (acid)
+T132	SO 2360 2366	repeat
+#132	AnnotatorNotes T132	SO:0000726 (repeat_unit)
+T133	SO 2360 2366	repeat
+#133	AnnotatorNotes T133	SO:0000657 (repeat_region)
+T134	GO_MF 2378 2390	Ca2+-binding
+#134	AnnotatorNotes T134	GO:0005509 (calcium ion binding)
+T135	CHEBI 2378 2382	Ca2+
+#135	AnnotatorNotes T135	CHEBI:29108 (calcium(2+))
+T136	sup 2380 2382	2+
+#136	AnnotatorNotes T136	sup (null)
+T137	SO 2383 2395	binding site
+#137	AnnotatorNotes T137	SO:0000409 (binding_site)
+T138	GO_MF 2420 2440	phospholipid binding
+#138	AnnotatorNotes T138	GO:0005543 (phospholipid binding)
+T139	CHEBI 2420 2432	phospholipid
+#139	AnnotatorNotes T139	CHEBI:16247 (phospholipids)
+T140	SO 2446 2464	N-terminal regions
+#140	AnnotatorNotes T140	SO:0100014 (n_terminal_region)
+T141	CHEBI 2446 2447	N
+#141	AnnotatorNotes T141	CHEBI:46882 (amino group)
+T142	CHEBI 2523 2531	proteins
+#142	AnnotatorNotes T142	CHEBI:36080 (proteins)
+T143	PR 2653 2663	Annexin A7
+#143	AnnotatorNotes T143	PR:000004080 (annexin A7)
+T144	GO_CC 2755 2774	chromaffin granules
+#144	AnnotatorNotes T144	GO:0042583 (chromaffin granule)
+T145	GO_BP 2779 2798	fusion of membranes
+#145	AnnotatorNotes T145	GO:0006944 (membrane fusion)
+T146	GO_CC 2789 2798	membranes
+#146	AnnotatorNotes T146	GO:0016020 (membrane)
+T147	CHEBI 2803 2816	phospholipids
+#147	AnnotatorNotes T147	CHEBI:16247 (phospholipids)
+T148	CHEBI 2836 2845	Ca2+-ions
+#148	AnnotatorNotes T148	CHEBI:29108 (calcium(2+))
+T149	sup 2838 2840	2+
+#149	AnnotatorNotes T149	sup (null)
+T150	GO_BP 2851 2861	Expression
+#150	AnnotatorNotes T150	GO:0010467 (gene expression)
+T151	GO_BP 2887 2952	distribution of Annexin A7 in a wide variety of tissues and cells
+#151	AnnotatorNotes T151	"distribution .. in .. cells" GO:0051641 (cellular localization)
+T152	PR 2903 2913	Annexin A7
+#152	AnnotatorNotes T152	PR:000004080 (annexin A7)
+T153	CL 2947 2952	cells
+#153	AnnotatorNotes T153	CL:0000000 (cell)
+T154	GO_CC 2947 2952	cells
+#154	AnnotatorNotes T154	GO:0005623 (cell)
+T155	GO_CC 2976 2983	cytosol
+#155	AnnotatorNotes T155	GO:0005829 (cytosol)
+T156	GO_CC 3010 3020	membranous
+#156	AnnotatorNotes T156	GO:0016020 (membrane)
+T157	GO_CC 3066 3073	nucleus
+#157	AnnotatorNotes T157	GO:0005634 (nucleus)
+T158	CL 3085 3101	chromaffin cells
+#158	AnnotatorNotes T158	CL:0000166 (chromaffin cell)
+T159	GO_CC 3096 3101	cells
+#159	AnnotatorNotes T159	GO:0005623 (cell)
+T160	GO_BP 3126 3147	alternatively spliced
+#160	AnnotatorNotes T160	GO:0000380 (alternative nuclear mRNA splicing, via spliceosome)
+T161	SO 3148 3156	cassette
+#161	AnnotatorNotes T161	SO:0005853 (gene_cassette)
+T162	SO 3157 3161	exon
+#162	AnnotatorNotes T162	SO:0000147 (exon)
+T163	PR 3180 3190	Annexin A7
+#163	AnnotatorNotes T163	PR:000004080 (annexin A7)
+T164	SO 3191 3199	isoforms
+#164	AnnotatorNotes T164	SO:0001060 (sequence_variant)
+T165	CHEBI 3217 3226	molecular
+#165	AnnotatorNotes T165	CHEBI:23367 (molecular entity)
+T166	SO 3258 3266	isoforms
+#166	AnnotatorNotes T166	SO:0001060 (sequence_variant)
+T167	SO 3283 3300	N-terminal domain
+#167	AnnotatorNotes T167	SO:0100014 (n_terminal_region)
+T168	CHEBI 3283 3284	N
+#168	AnnotatorNotes T168	CHEBI:46882 (amino group)
+T169	SO 3294 3300	domain
+#169	AnnotatorNotes T169	SO:0000417 (polypeptide_domain)
+T170	GO_BP 3331 3341	expression
+#170	AnnotatorNotes T170	GO:0010467 (gene expression)
+T171	SO 3362 3369	isoform
+#171	AnnotatorNotes T171	SO:0001060 (sequence_variant)
+T172	SO 3441 3448	isoform
+#172	AnnotatorNotes T172	SO:0001060 (sequence_variant)
+T173	CL 3504 3519	red blood cells
+#173	AnnotatorNotes T173	CL:0000232 (erythrocyte)
+T174	GO_CC 3514 3519	cells
+#174	AnnotatorNotes T174	GO:0005623 (cell)
+T175	SO 3533 3541	isoforms
+#175	AnnotatorNotes T175	SO:0001060 (sequence_variant)
+T176	GO_BP 3585 3609	subcellular localization
+#176	AnnotatorNotes T176	GO:0051641 (cellular localization)
+T177	PR 3613 3623	Annexin A7
+#177	AnnotatorNotes T177	PR:000004080 (annexin A7)
+T178	CL 3639 3647	myoblast
+#178	AnnotatorNotes T178	CL:0000056 (myoblast)
+T179	GO_BP 3648 3663	differentiation
+#179	AnnotatorNotes T179	GO:0030154 (cell differentiation)
+T180	CL 3685 3690	cells
+#180	AnnotatorNotes T180	CL:0000000 (cell)
+T181	GO_CC 3685 3690	cells
+#181	AnnotatorNotes T181	GO:0005623 (cell)
+T182	CHEBI 3695 3702	protein
+#182	AnnotatorNotes T182	CHEBI:36080 (proteins)
+T183	GO_BP 3714 3725	distributed
+#183	AnnotatorNotes T183	GO:0051179 (localization)
+T184	GO_CC 3734 3741	cytosol
+#184	AnnotatorNotes T184	GO:0005829 (cytosol)
+T185	GO_CC 3746 3764	membrane fractions
+#185	AnnotatorNotes T185	GO:0005624 (membrane fraction)
+T186	GO_CC 3746 3754	membrane
+#186	AnnotatorNotes T186	GO:0016020 (membrane)
+T187	GO_BP 3774 3788	differentiated
+#187	AnnotatorNotes T187	GO:0030154 (cell differentiation)
+T188	CL 3789 3794	cells
+#188	AnnotatorNotes T188	CL:0000000 (cell)
+T189	GO_CC 3789 3794	cells
+#189	AnnotatorNotes T189	GO:0005623 (cell)
+T190	GO_CC 3828 3845	membrane fraction
+#190	AnnotatorNotes T190	GO:0005624 (membrane fraction)
+T191	GO_CC 3828 3836	membrane
+#191	AnnotatorNotes T191	GO:0016020 (membrane)
+T192	PR 3926 3936	Annexin A7
+#192	AnnotatorNotes T192	PR:000004080 (annexin A7)
+T193	CL 3972 3987	red blood cells
+#193	AnnotatorNotes T193	CL:0000232 (erythrocyte)
+T194	GO_CC 3982 3987	cells
+#194	AnnotatorNotes T194	GO:0005623 (cell)
+T195	CL 3989 3997	platelet
+#195	AnnotatorNotes T195	CL:0000233 (platelet)
+T196	CL 4053 4063	astrocytic
+#196	AnnotatorNotes T196	CL:0000127 (astrocyte)
+T197	CHEBI 4064 4068	Ca2+
+#197	AnnotatorNotes T197	CHEBI:29108 (calcium(2+))
+T198	sup 4066 4068	2+
+#198	AnnotatorNotes T198	sup (null)
+T199	PR 4076 4086	Annexin A7
+#199	AnnotatorNotes T199	PR:000004080 (annexin A7)
+T200	GO_BP 4164 4180	Ca2+-homeostasis
+#200	AnnotatorNotes T200	GO:0055074 (calcium ion homeostasis)
+T201	CHEBI 4164 4168	Ca2+
+#201	AnnotatorNotes T201	CHEBI:29108 (calcium(2+))
+T202	sup 4166 4168	2+
+#202	AnnotatorNotes T202	sup (null)
+T203	GO_BP 4247 4259	distribution
+#203	AnnotatorNotes T203	GO:0051179 (localization)
+T204	PR 4263 4273	Annexin A7
+#204	AnnotatorNotes T204	PR:000004080 (annexin A7)
+T205	GO_BP 4281 4298	brain development
+#205	AnnotatorNotes T205	GO:0007420 (brain development)
+T206	GO_BP 4355 4367	distribution
+#206	AnnotatorNotes T206	GO:0051179 (localization)
+T207	EntrezGene 4371 4381	Annexin A7
+#207	AnnotatorNotes T207	EG:11750
+T208	PR 4371 4381	Annexin A7
+#208	AnnotatorNotes T208	PR:000004080 (annexin A7)
+T209	GO_BP 4389 4399	developing
+#209	AnnotatorNotes T209	GO:0032502 (developmental process)
+T210	NCBITaxon 4409 4413	mice
+#210	AnnotatorNotes T210	NCBITaxon:10088 (Mus)
+T211	NCBITaxon 4459 4464	mouse
+#211	AnnotatorNotes T211	NCBITaxon:10088 (Mus)
+T212	EntrezGene 4482 4492	Annexin A7
+#212	AnnotatorNotes T212	EG:11750
+T213	PR 4482 4492	Annexin A7
+#213	AnnotatorNotes T213	PR:000004080 (annexin A7)
+T214	GO_BP 4496 4505	expressed
+#214	AnnotatorNotes T214	GO:0010467 (gene expression)
+T215	NCBITaxon 4519 4524	mouse
+#215	AnnotatorNotes T215	NCBITaxon:10088 (Mus)
+T216	GO_BP 4555 4565	expression
+#216	AnnotatorNotes T216	GO:0010467 (gene expression)
+T217	EntrezGene 4569 4579	Annexin A7
+#217	AnnotatorNotes T217	EG:11750
+T218	PR 4569 4579	Annexin A7
+#218	AnnotatorNotes T218	PR:000004080 (annexin A7)
+T219	CL 4586 4591	cells
+#219	AnnotatorNotes T219	CL:0000000 (cell)
+T220	GO_CC 4586 4591	cells
+#220	AnnotatorNotes T220	GO:0005623 (cell)
+T221	GO_BP 4601 4612	established
+#221	AnnotatorNotes T221	GO:0032502 (developmental process)
+T222	NCBITaxon 4627 4631	mice
+#222	AnnotatorNotes T222	NCBITaxon:10088 (Mus)
+T223	NCBITaxon 4657 4662	mouse
+#223	AnnotatorNotes T223	NCBITaxon:10088 (Mus)
+T224	GO_BP 4663 4684	embryonic development
+#224	AnnotatorNotes T224	GO:0009790 (embryonic development)
+T225	CHEBI 4692 4696	mRNA
+#225	AnnotatorNotes T225	CHEBI:33699 (messenger RNA)
+T226	SO 4692 4696	mRNA
+#226	AnnotatorNotes T226	SO:0000234 (mRNA)
+T227	CHEBI 4740 4747	protein
+#227	AnnotatorNotes T227	CHEBI:36080 (proteins)
+T228	CL 4849 4854	cells
+#228	AnnotatorNotes T228	CL:0000000 (cell)
+T229	GO_CC 4849 4854	cells
+#229	AnnotatorNotes T229	GO:0005623 (cell)
+T230	CHEBI 4903 4907	mRNA
+#230	AnnotatorNotes T230	CHEBI:33699 (messenger RNA)
+T231	SO 4903 4907	mRNA
+#231	AnnotatorNotes T231	SO:0000234 (mRNA)
+T232	SO 4908 4915	species
+#232	AnnotatorNotes T232	SO:0001060 (sequence_variant)
+T233	GO_BP 4956 4976	alternative splicing
+#233	AnnotatorNotes T233	GO:0000380 (alternative nuclear mRNA splicing, via spliceosome)
+T234	SO 4984 5002	untranslated 3'end
+#234	AnnotatorNotes T234	SO:0000205 (three_prime_UTR)
+T235	EntrezGene 5036 5046	Annexin A7
+#235	AnnotatorNotes T235	EG:11750
+T236	PR 5036 5046	Annexin A7
+#236	AnnotatorNotes T236	PR:000004080 (annexin A7)
+T237	CHEBI 5047 5051	mRNA
+#237	AnnotatorNotes T237	CHEBI:33699 (messenger RNA)
+T238	SO 5047 5051	mRNA
+#238	AnnotatorNotes T238	SO:0000234 (mRNA)
+T239	PR 5106 5113	β-actin
+#239	AnnotatorNotes T239	PR:000003676 (actin, cytoplasmic 1)
+T240	SO 5114 5119	probe
+#240	AnnotatorNotes T240	SO:0000051 (probe)
+T241	CHEBI 5181 5185	mRNA
+#241	AnnotatorNotes T241	CHEBI:33699 (messenger RNA)
+T242	SO 5181 5185	mRNA
+#242	AnnotatorNotes T242	SO:0000234 (mRNA)
+T243	SO 5186 5193	species
+#243	AnnotatorNotes T243	SO:0001060 (sequence_variant)
+T244	SO 5220 5227	species
+#244	AnnotatorNotes T244	SO:0001060 (sequence_variant)
+T245	PR 5250 5257	β-actin
+#245	AnnotatorNotes T245	PR:000003676 (actin, cytoplasmic 1)
+T246	CHEBI 5271 5278	protein
+#246	AnnotatorNotes T246	CHEBI:36080 (proteins)
+T247	CL 5289 5294	cells
+#247	AnnotatorNotes T247	CL:0000000 (cell)
+T248	GO_CC 5289 5294	cells
+#248	AnnotatorNotes T248	GO:0005623 (cell)
+T249	GO_BP 5295 5302	express
+#249	AnnotatorNotes T249	GO:0010467 (gene expression)
+T250	EntrezGene 5320 5330	Annexin A7
+#250	AnnotatorNotes T250	EG:11750
+T251	PR 5320 5330	Annexin A7
+#251	AnnotatorNotes T251	PR:000004080 (annexin A7)
+T252	SO 5331 5338	isoform
+#252	AnnotatorNotes T252	SO:0001060 (sequence_variant)
+T253	CL 5368 5373	cells
+#253	AnnotatorNotes T253	CL:0000000 (cell)
+T254	GO_CC 5368 5373	cells
+#254	AnnotatorNotes T254	GO:0005623 (cell)
+T255	bold 5429 5454	Expression of Annexin A7.
+#255	AnnotatorNotes T255	bold (null)
+T256	GO_BP 5429 5439	Expression
+#256	AnnotatorNotes T256	GO:0010467 (gene expression)
+T257	EntrezGene 5443 5453	Annexin A7
+#257	AnnotatorNotes T257	EG:11750
+T258	PR 5443 5453	Annexin A7
+#258	AnnotatorNotes T258	PR:000004080 (annexin A7)
+T259	bold 5456 5457	A
+#259	AnnotatorNotes T259	bold (null)
+T260	SO 5485 5488	RNA
+#260	AnnotatorNotes T260	SO:0000356 (RNA)
+T261	CL 5497 5502	cells
+#261	AnnotatorNotes T261	CL:0000000 (cell)
+T262	GO_CC 5497 5502	cells
+#262	AnnotatorNotes T262	GO:0005623 (cell)
+T263	PR 5559 5569	annexin A7
+#263	AnnotatorNotes T263	PR:000004080 (annexin A7)
+T264	SO 5570 5574	cDNA
+#264	AnnotatorNotes T264	SO:0000756 (cDNA)
+T265	SO 5576 5587	Transcripts
+#265	AnnotatorNotes T265	SO:0000673 (transcript)
+T266	PR 5674 5681	β-actin
+#266	AnnotatorNotes T266	PR:000003676 (actin, cytoplasmic 1)
+T267	SO 5682 5687	probe
+#267	AnnotatorNotes T267	SO:0000051 (probe)
+T268	bold 5740 5741	B
+#268	AnnotatorNotes T268	bold (null)
+T269	NCBITaxon 5743 5749	Murine
+#269	AnnotatorNotes T269	NCBITaxon:39107 (Murinae)
+T270	CL 5753 5758	cells
+#270	AnnotatorNotes T270	CL:0000000 (cell)
+T271	GO_CC 5753 5758	cells
+#271	AnnotatorNotes T271	GO:0005623 (cell)
+T272	GO_BP 5764 5771	express
+#272	AnnotatorNotes T272	GO:0010467 (gene expression)
+T273	EntrezGene 5787 5797	Annexin A7
+#273	AnnotatorNotes T273	EG:11750
+T274	PR 5787 5797	Annexin A7
+#274	AnnotatorNotes T274	PR:000004080 (annexin A7)
+T275	SO 5798 5805	isoform
+#275	AnnotatorNotes T275	SO:0001060 (sequence_variant)
+T276	SO 5812 5820	isoforms
+#276	AnnotatorNotes T276	SO:0001060 (sequence_variant)
+T277	GO_BP 5825 5834	expressed
+#277	AnnotatorNotes T277	GO:0010467 (gene expression)
+T278	CL 5861 5866	cells
+#278	AnnotatorNotes T278	CL:0000000 (cell)
+T279	GO_CC 5861 5866	cells
+#279	AnnotatorNotes T279	GO:0005623 (cell)
+T280	NCBITaxon 5920 5924	mice
+#280	AnnotatorNotes T280	NCBITaxon:10088 (Mus)
+T281	CHEBI 5926 5934	Proteins
+#281	AnnotatorNotes T281	CHEBI:36080 (proteins)
+T282	CL 5956 5961	cells
+#282	AnnotatorNotes T282	CL:0000000 (cell)
+T283	GO_CC 5956 5961	cells
+#283	AnnotatorNotes T283	GO:0005623 (cell)
+T284	CHEBI 5996 5999	SDS
+#284	AnnotatorNotes T284	CHEBI:8984 (sodium dodecyl sulfate)
+T285	CHEBI 6040 6050	acrylamide
+#285	AnnotatorNotes T285	CHEBI:28619 (acrylamide)
+T286	GO_MF 6172 6182	peroxidase
+#286	AnnotatorNotes T286	GO:0004601 (peroxidase activity)
+T287	independent_continuant 6172 6182	peroxidase
+#287	AnnotatorNotes T287	independent_continuant
+T288	GO_BP 6183 6190	coupled
+#288	AnnotatorNotes T288	GO:0043412 (biopolymer modification)
+T289	GO_CC 6201 6209	antibody
+#289	AnnotatorNotes T289	GO:0019814 (immunoglobulin complex)
+T290	CHEBI 6310 6317	protein
+#290	AnnotatorNotes T290	CHEBI:36080 (proteins)
+T291	GO_BP 6331 6342	development
+#291	AnnotatorNotes T291	GO:0032502 (developmental process)
+T292	EntrezGene 6344 6354	Annexin A7
+#292	AnnotatorNotes T292	EG:11750
+T293	PR 6344 6354	Annexin A7
+#293	AnnotatorNotes T293	PR:000004080 (annexin A7)
+T294	SO 6426 6434	isoforms
+#294	AnnotatorNotes T294	SO:0001060 (sequence_variant)
+T295	EntrezGene 6438 6448	Annexin A7
+#295	AnnotatorNotes T295	EG:11750
+T296	PR 6438 6448	Annexin A7
+#296	AnnotatorNotes T296	PR:000004080 (annexin A7)
+T297	CL 6477 6481	cell
+#297	AnnotatorNotes T297	CL:0000000 (cell)
+T298	GO_CC 6477 6481	cell
+#298	AnnotatorNotes T298	GO:0005623 (cell)
+T299	EntrezGene 6530 6540	Annexin A7
+#299	AnnotatorNotes T299	EG:11750
+T300	PR 6530 6540	Annexin A7
+#300	AnnotatorNotes T300	PR:000004080 (annexin A7)
+T301	GO_BP 6541 6551	expression
+#301	AnnotatorNotes T301	GO:0010467 (gene expression)
+T302	EntrezGene 6587 6597	Annexin A7
+#302	AnnotatorNotes T302	EG:11750
+T303	PR 6587 6597	Annexin A7
+#303	AnnotatorNotes T303	PR:000004080 (annexin A7)
+T304	EntrezGene 6706 6716	Annexin A7
+#304	AnnotatorNotes T304	EG:11750
+T305	PR 6706 6716	Annexin A7
+#305	AnnotatorNotes T305	PR:000004080 (annexin A7)
+T306	CL 6737 6741	cell
+#306	AnnotatorNotes T306	CL:0000000 (cell)
+T307	GO_CC 6737 6741	cell
+#307	AnnotatorNotes T307	GO:0005623 (cell)
+T308	GO_BP 6824 6851	localization of the protein
+#308	AnnotatorNotes T308	"localization of .. protein" GO:0008104 (protein localization)
+T309	CHEBI 6844 6851	protein
+#309	AnnotatorNotes T309	CHEBI:36080 (proteins)
+T310	EntrezGene 6980 6990	Annexin A7
+#310	AnnotatorNotes T310	EG:11750
+T311	PR 6980 6990	Annexin A7
+#311	AnnotatorNotes T311	PR:000004080 (annexin A7)
+T312	GO_CC 7040 7047	cytosol
+#312	AnnotatorNotes T312	GO:0005829 (cytosol)
+T313	CL 7064 7069	cells
+#313	AnnotatorNotes T313	CL:0000000 (cell)
+T314	GO_CC 7064 7069	cells
+#314	AnnotatorNotes T314	GO:0005623 (cell)
+T315	GO_BP 7088 7100	distribution
+#315	AnnotatorNotes T315	GO:0051179 (localization)
+T316	GO_BP 7137 7148	development
+#316	AnnotatorNotes T316	GO:0032502 (developmental process)
+T317	bold 7161 7212	Annexin A7 immunoreactivity in early mouse embryos.
+#317	AnnotatorNotes T317	bold (null)
+T318	EntrezGene 7161 7171	Annexin A7
+#318	AnnotatorNotes T318	EG:11750
+T319	PR 7161 7171	Annexin A7
+#319	AnnotatorNotes T319	PR:000004080 (annexin A7)
+T320	NCBITaxon 7198 7203	mouse
+#320	AnnotatorNotes T320	NCBITaxon:10088 (Mus)
+T321	bold 7214 7215	A
+#321	AnnotatorNotes T321	bold (null)
+T322	CL 7248 7251	egg
+#322	AnnotatorNotes T322	CL:0000025 (egg)
+T323	CL 7282 7286	cell
+#323	AnnotatorNotes T323	CL:0000000 (cell)
+T324	GO_CC 7282 7286	cell
+#324	AnnotatorNotes T324	GO:0005623 (cell)
+T325	CL 7344 7358	endoderm cells
+#325	AnnotatorNotes T325	CL:0000223 (endodermal cell)
+T326	GO_CC 7353 7358	cells
+#326	AnnotatorNotes T326	GO:0005623 (cell)
+T327	bold 7364 7367	(B)
+#327	AnnotatorNotes T327	bold (null)
+T328	GO_BP 7456 7466	conjugated
+#328	AnnotatorNotes T328	GO:0043412 (biopolymer modification)
+T329	NCBITaxon 7472 7477	mouse
+#329	AnnotatorNotes T329	NCBITaxon:10088 (Mus)
+T330	EntrezGene 7483 7493	Annexin A7
+#330	AnnotatorNotes T330	EG:11750
+T331	PR 7483 7493	Annexin A7
+#331	AnnotatorNotes T331	PR:000004080 (annexin A7)
+T332	GO_BP 7497 7506	expressed
+#332	AnnotatorNotes T332	GO:0010467 (gene expression)
+T333	CL 7515 7519	cell
+#333	AnnotatorNotes T333	CL:0000000 (cell)
+T334	GO_CC 7515 7519	cell
+#334	AnnotatorNotes T334	GO:0005623 (cell)
+T335	CL 7533 7536	egg
+#335	AnnotatorNotes T335	CL:0000025 (egg)
+T336	GO_CC 7628 7634	nuclei
+#336	AnnotatorNotes T336	GO:0005634 (nucleus)
+T337	bold 7668 7669	C
+#337	AnnotatorNotes T337	bold (null)
+T338	GO_CC 7712 7720	antibody
+#338	AnnotatorNotes T338	GO:0019814 (immunoglobulin complex)
+T339	bold 7728 7731	D-F
+#339	AnnotatorNotes T339	bold (null)
+T340	EntrezGene 7733 7743	Annexin A7
+#340	AnnotatorNotes T340	EG:11750
+T341	PR 7733 7743	Annexin A7
+#341	AnnotatorNotes T341	PR:000004080 (annexin A7)
+T342	GO_BP 7744 7754	expression
+#342	AnnotatorNotes T342	GO:0010467 (gene expression)
+T343	EntrezGene 7866 7876	Annexin A7
+#343	AnnotatorNotes T343	EG:11750
+T344	PR 7866 7876	Annexin A7
+#344	AnnotatorNotes T344	PR:000004080 (annexin A7)
+T345	GO_BP 7963 7973	conjugated
+#345	AnnotatorNotes T345	GO:0043412 (biopolymer modification)
+T346	NCBITaxon 7979 7984	mouse
+#346	AnnotatorNotes T346	NCBITaxon:10088 (Mus)
+T347	bold 7991 7992	D
+#347	AnnotatorNotes T347	bold (null)
+T348	EntrezGene 8005 8015	Annexin A7
+#348	AnnotatorNotes T348	EG:11750
+T349	PR 8005 8015	Annexin A7
+#349	AnnotatorNotes T349	PR:000004080 (annexin A7)
+T350	bold 8115 8118	E,F
+#350	AnnotatorNotes T350	bold (null)
+T351	EntrezGene 8175 8185	Annexin A7
+#351	AnnotatorNotes T351	EG:11750
+T352	PR 8175 8185	Annexin A7
+#352	AnnotatorNotes T352	PR:000004080 (annexin A7)
+T353	GO_BP 8189 8198	expressed
+#353	AnnotatorNotes T353	GO:0010467 (gene expression)
+T354	GO_CC 8206 8213	cytosol
+#354	AnnotatorNotes T354	GO:0005829 (cytosol)
+T355	EntrezGene 8235 8245	Annexin A7
+#355	AnnotatorNotes T355	EG:11750
+T356	PR 8235 8245	Annexin A7
+#356	AnnotatorNotes T356	PR:000004080 (annexin A7)
+T357	GO_CC 8270 8277	cytosol
+#357	AnnotatorNotes T357	GO:0005829 (cytosol)
+T358	bold 8280 8281	G
+#358	AnnotatorNotes T358	bold (null)
+T359	bold 8331 8334	(H)
+#359	AnnotatorNotes T359	bold (null)
+T360	GO_BP 8435 8445	conjugated
+#360	AnnotatorNotes T360	GO:0043412 (biopolymer modification)
+T361	NCBITaxon 8451 8456	mouse
+#361	AnnotatorNotes T361	NCBITaxon:10088 (Mus)
+T362	bold 8463 8464	I
+#362	AnnotatorNotes T362	bold (null)
+T363	GO_CC 8519 8527	antibody
+#363	AnnotatorNotes T363	GO:0019814 (immunoglobulin complex)
+T364	EntrezGene 8547 8557	Annexin A7
+#364	AnnotatorNotes T364	EG:11750
+T365	PR 8547 8557	Annexin A7
+#365	AnnotatorNotes T365	PR:000004080 (annexin A7)
+T366	GO_BP 8570 8594	subcellular localization
+#366	AnnotatorNotes T366	GO:0051641 (cellular localization)
+T367	CL 8647 8655	cellular
+#367	AnnotatorNotes T367	CL:0000000 (cell)
+T368	GO_CC 8647 8655	cellular
+#368	AnnotatorNotes T368	GO:0005623 (cell)
+T369	GO_BP 8660 8684	subcellular distribution
+#369	AnnotatorNotes T369	GO:0051641 (cellular localization)
+T370	EntrezGene 8688 8698	Annexin A7
+#370	AnnotatorNotes T370	EG:11750
+T371	PR 8688 8698	Annexin A7
+#371	AnnotatorNotes T371	PR:000004080 (annexin A7)
+T372	GO_BP 8706 8716	developing
+#372	AnnotatorNotes T372	GO:0032502 (developmental process)
+T373	NCBITaxon 8717 8722	mouse
+#373	AnnotatorNotes T373	NCBITaxon:10088 (Mus)
+T374	CL 8824 8829	cells
+#374	AnnotatorNotes T374	CL:0000000 (cell)
+T375	GO_CC 8824 8829	cells
+#375	AnnotatorNotes T375	GO:0005623 (cell)
+T376	EntrezGene 8994 9004	Annexin A7
+#376	AnnotatorNotes T376	EG:11750
+T377	PR 8994 9004	Annexin A7
+#377	AnnotatorNotes T377	PR:000004080 (annexin A7)
+T378	GO_BP 9015 9024	localized
+#378	AnnotatorNotes T378	GO:0051179 (localization)
+T379	GO_CC 9032 9039	cytosol
+#379	AnnotatorNotes T379	GO:0005829 (cytosol)
+T380	GO_BP 9075 9086	development
+#380	AnnotatorNotes T380	GO:0032502 (developmental process)
+T381	CL 9100 9105	cells
+#381	AnnotatorNotes T381	CL:0000000 (cell)
+T382	GO_CC 9100 9105	cells
+#382	AnnotatorNotes T382	GO:0005623 (cell)
+T383	GO_BP 9147 9153	retain
+#383	AnnotatorNotes T383	GO:0051235 (maintenance of localization)
+T384	EntrezGene 9154 9164	Annexin A7
+#384	AnnotatorNotes T384	EG:11750
+T385	PR 9154 9164	Annexin A7
+#385	AnnotatorNotes T385	PR:000004080 (annexin A7)
+T386	GO_CC 9172 9179	cytosol
+#386	AnnotatorNotes T386	GO:0005829 (cytosol)
+T387	GO_CC 9239 9246	nuclear
+#387	AnnotatorNotes T387	GO:0005634 (nucleus)
+T388	EntrezGene 9259 9269	Annexin A7
+#388	AnnotatorNotes T388	EG:11750
+T389	PR 9259 9269	Annexin A7
+#389	AnnotatorNotes T389	PR:000004080 (annexin A7)
+T390	CL 9285 9290	cells
+#390	AnnotatorNotes T390	CL:0000000 (cell)
+T391	GO_CC 9285 9290	cells
+#391	AnnotatorNotes T391	GO:0005623 (cell)
+T392	CL 9348 9355	neurons
+#392	AnnotatorNotes T392	CL:0000540 (neuron)
+T393	GO_BP 9365 9374	migrating
+#393	AnnotatorNotes T393	GO:0016477 (cell migration)
+T394	GO_BP 9387 9394	growing
+#394	AnnotatorNotes T394	GO:0040007 (growth)
+T395	CL 9430 9441	glial cells
+#395	AnnotatorNotes T395	CL:0000125 (glial cell)
+T396	GO_CC 9436 9441	cells
+#396	AnnotatorNotes T396	GO:0005623 (cell)
+T397	CL 9488 9493	Cells
+#397	AnnotatorNotes T397	CL:0000000 (cell)
+T398	GO_CC 9488 9493	Cells
+#398	AnnotatorNotes T398	GO:0005623 (cell)
+T399	GO_CC 9553 9560	nuclear
+#399	AnnotatorNotes T399	GO:0005634 (nucleus)
+T400	GO_CC 9640 9647	cytosol
+#400	AnnotatorNotes T400	GO:0005829 (cytosol)
+T401	GO_CC 9692 9699	nucleus
+#401	AnnotatorNotes T401	GO:0005634 (nucleus)
+T402	bold 9712 9779	Subcellular localization of Annexin A7 in embryos E13, E15 and E16.
+#402	AnnotatorNotes T402	bold (null)
+T403	GO_BP 9712 9736	Subcellular localization
+#403	AnnotatorNotes T403	GO:0051641 (cellular localization)
+T404	EntrezGene 9740 9750	Annexin A7
+#404	AnnotatorNotes T404	EG:11750
+T405	PR 9740 9750	Annexin A7
+#405	AnnotatorNotes T405	PR:000004080 (annexin A7)
+T406	EntrezGene 9857 9867	Annexin A7
+#406	AnnotatorNotes T406	EG:11750
+T407	PR 9857 9867	Annexin A7
+#407	AnnotatorNotes T407	PR:000004080 (annexin A7)
+T408	GO_BP 9904 9914	conjugated
+#408	AnnotatorNotes T408	GO:0043412 (biopolymer modification)
+T409	GO_CC 9925 9933	antibody
+#409	AnnotatorNotes T409	GO:0019814 (immunoglobulin complex)
+T410	bold 9936 9937	A
+#410	AnnotatorNotes T410	bold (null)
+T411	EntrezGene 9969 9973	GFAP
+#411	AnnotatorNotes T411	EG:14580
+T412	PR 9969 9973	GFAP
+#412	AnnotatorNotes T412	PR:000007939 (glial fibrillary acidic protein)
+T413	CL 9983 9988	cells
+#413	AnnotatorNotes T413	CL:0000000 (cell)
+T414	GO_CC 9983 9988	cells
+#414	AnnotatorNotes T414	GO:0005623 (cell)
+T415	GO_BP 9996 10003	forming
+#415	AnnotatorNotes T415	GO:0032502 (developmental process)
+T416	bold 10149 10150	B
+#416	AnnotatorNotes T416	bold (null)
+T417	CL 10218 10223	cells
+#417	AnnotatorNotes T417	CL:0000000 (cell)
+T418	GO_CC 10218 10223	cells
+#418	AnnotatorNotes T418	GO:0005623 (cell)
+T419	GO_CC 10243 10250	cytosol
+#419	AnnotatorNotes T419	GO:0005829 (cytosol)
+T420	bold 10265 10266	C
+#420	AnnotatorNotes T420	bold (null)
+T421	CL 10294 10299	cells
+#421	AnnotatorNotes T421	CL:0000000 (cell)
+T422	GO_CC 10294 10299	cells
+#422	AnnotatorNotes T422	GO:0005623 (cell)
+T423	EntrezGene 10321 10331	Annexin A7
+#423	AnnotatorNotes T423	EG:11750
+T424	PR 10321 10331	Annexin A7
+#424	AnnotatorNotes T424	PR:000004080 (annexin A7)
+T425	GO_CC 10345 10352	cytosol
+#425	AnnotatorNotes T425	GO:0005829 (cytosol)
+T426	bold 10355 10356	D
+#426	AnnotatorNotes T426	bold (null)
+T427	GO_CC 10375 10382	nuclear
+#427	AnnotatorNotes T427	GO:0005634 (nucleus)
+T428	CL 10424 10429	cells
+#428	AnnotatorNotes T428	CL:0000000 (cell)
+T429	GO_CC 10424 10429	cells
+#429	AnnotatorNotes T429	GO:0005623 (cell)
+T430	bold 10554 10557	E-G
+#430	AnnotatorNotes T430	bold (null)
+T431	bold 10609 10610	H
+#431	AnnotatorNotes T431	bold (null)
+T432	EntrezGene 10642 10646	GFAP
+#432	AnnotatorNotes T432	EG:14580
+T433	PR 10642 10646	GFAP
+#433	AnnotatorNotes T433	PR:000007939 (glial fibrillary acidic protein)
+T434	CL 10656 10661	cells
+#434	AnnotatorNotes T434	CL:0000000 (cell)
+T435	GO_CC 10656 10661	cells
+#435	AnnotatorNotes T435	GO:0005623 (cell)
+T436	bold 10707 10708	I
+#436	AnnotatorNotes T436	bold (null)
+T437	CL 10898 10905	neurons
+#437	AnnotatorNotes T437	CL:0000540 (neuron)
+T438	NCBITaxon 10915 10920	mouse
+#438	AnnotatorNotes T438	NCBITaxon:10088 (Mus)
+T439	GO_CC 10943 10950	nuclear
+#439	AnnotatorNotes T439	GO:0005634 (nucleus)
+T440	EntrezGene 10963 10973	Annexin A7
+#440	AnnotatorNotes T440	EG:11750
+T441	PR 10963 10973	Annexin A7
+#441	AnnotatorNotes T441	PR:000004080 (annexin A7)
+T442	EntrezGene 10980 10990	Annexin A7
+#442	AnnotatorNotes T442	EG:11750
+T443	PR 10980 10990	Annexin A7
+#443	AnnotatorNotes T443	PR:000004080 (annexin A7)
+T444	SO 10991 10999	isoforms
+#444	AnnotatorNotes T444	SO:0001060 (sequence_variant)
+T445	EntrezGene 11108 11118	Annexin A7
+#445	AnnotatorNotes T445	EG:11750
+T446	PR 11108 11118	Annexin A7
+#446	AnnotatorNotes T446	PR:000004080 (annexin A7)
+T447	GO_CC 11132 11139	nuclear
+#447	AnnotatorNotes T447	GO:0005634 (nucleus)
+T448	CL 11149 11156	neurons
+#448	AnnotatorNotes T448	CL:0000540 (neuron)
+T449	EntrezGene 11180 11184	GFAP
+#449	AnnotatorNotes T449	EG:14580
+T450	PR 11180 11184	GFAP
+#450	AnnotatorNotes T450	PR:000007939 (glial fibrillary acidic protein)
+T451	GO_BP 11203 11215	localization
+#451	AnnotatorNotes T451	GO:0051179 (localization)
+T452	GO_CC 11235 11246	cytoplasmic
+#452	AnnotatorNotes T452	GO:0005737 (cytoplasm)
+T453	GO_CC 11251 11258	nuclear
+#453	AnnotatorNotes T453	GO:0005634 (nucleus)
+T454	CL 11268 11278	astrocytes
+#454	AnnotatorNotes T454	CL:0000127 (astrocyte)
+T455	EntrezGene 11280 11284	GFAP
+#455	AnnotatorNotes T455	EG:14580
+T456	PR 11280 11284	GFAP
+#456	AnnotatorNotes T456	PR:000007939 (glial fibrillary acidic protein)
+T457	NCBITaxon 11322 11328	murine
+#457	AnnotatorNotes T457	NCBITaxon:39107 (Murinae)
+T458	EntrezGene 11365 11375	Annexin A7
+#458	AnnotatorNotes T458	EG:11750
+T459	PR 11365 11375	Annexin A7
+#459	AnnotatorNotes T459	PR:000004080 (annexin A7)
+T460	GO_CC 11401 11407	nuclei
+#460	AnnotatorNotes T460	GO:0005634 (nucleus)
+T461	CL 11411 11418	neurons
+#461	AnnotatorNotes T461	CL:0000540 (neuron)
+T462	CL 11537 11547	astrocytes
+#462	AnnotatorNotes T462	CL:0000127 (astrocyte)
+T463	EntrezGene 11583 11587	GFAP
+#463	AnnotatorNotes T463	EG:14580
+T464	PR 11583 11587	GFAP
+#464	AnnotatorNotes T464	PR:000007939 (glial fibrillary acidic protein)
+T465	GO_CC 11642 11649	nuclear
+#465	AnnotatorNotes T465	GO:0005634 (nucleus)
+T466	EntrezGene 11650 11660	Annexin A7
+#466	AnnotatorNotes T466	EG:11750
+T467	PR 11650 11660	Annexin A7
+#467	AnnotatorNotes T467	PR:000004080 (annexin A7)
+T468	CL 11678 11684	neuron
+#468	AnnotatorNotes T468	CL:0000540 (neuron)
+T469	CL 11737 11752	astrocytic cell
+#469	AnnotatorNotes T469	CL:0000127 (astrocyte)
+T470	GO_CC 11748 11752	cell
+#470	AnnotatorNotes T470	GO:0005623 (cell)
+T471	CHEBI 11772 11781	molecular
+#471	AnnotatorNotes T471	CHEBI:23367 (molecular entity)
+T472	GO_CC 11851 11860	cytoplasm
+#472	AnnotatorNotes T472	GO:0005737 (cytoplasm)
+T473	CL 11868 11876	cellular
+#473	AnnotatorNotes T473	CL:0000000 (cell)
+T474	GO_CC 11868 11876	cellular
+#474	AnnotatorNotes T474	GO:0005623 (cell)
+T475	CL 11897 11901	cell
+#475	AnnotatorNotes T475	CL:0000000 (cell)
+T476	GO_CC 11897 11901	cell
+#476	AnnotatorNotes T476	GO:0005623 (cell)
+T477	GO_CC 11966 11973	nucleus
+#477	AnnotatorNotes T477	GO:0005634 (nucleus)
+T478	GO_CC 11978 11985	cytosol
+#478	AnnotatorNotes T478	GO:0005829 (cytosol)
+T479	CL 12009 12025	pyramidal neuron
+#479	AnnotatorNotes T479	CL:0000598 (pyramidal cell)
+T480	EntrezGene 12061 12065	GFAP
+#480	AnnotatorNotes T480	EG:14580
+T481	PR 12061 12065	GFAP
+#481	AnnotatorNotes T481	PR:000007939 (glial fibrillary acidic protein)
+T482	EntrezGene 12093 12103	Annexin A7
+#482	AnnotatorNotes T482	EG:11750
+T483	PR 12093 12103	Annexin A7
+#483	AnnotatorNotes T483	PR:000004080 (annexin A7)
+T484	GO_CC 12139 12146	nucleus
+#484	AnnotatorNotes T484	GO:0005634 (nucleus)
+T485	bold 12169 12289	Annexin A7 is present in neurons and astrocytes of the cortex temporalis and hippocampal formation of 10-weeks-old mice.
+#485	AnnotatorNotes T485	bold (null)
+T486	EntrezGene 12169 12179	Annexin A7
+#486	AnnotatorNotes T486	EG:11750
+T487	PR 12169 12179	Annexin A7
+#487	AnnotatorNotes T487	PR:000004080 (annexin A7)
+T488	CL 12194 12201	neurons
+#488	AnnotatorNotes T488	CL:0000540 (neuron)
+T489	CL 12206 12216	astrocytes
+#489	AnnotatorNotes T489	CL:0000127 (astrocyte)
+T490	NCBITaxon 12284 12288	mice
+#490	AnnotatorNotes T490	NCBITaxon:10088 (Mus)
+T491	bold 12291 12292	A
+#491	AnnotatorNotes T491	bold (null)
+T492	EntrezGene 12349 12359	Annexin A7
+#492	AnnotatorNotes T492	EG:11750
+T493	PR 12349 12359	Annexin A7
+#493	AnnotatorNotes T493	PR:000004080 (annexin A7)
+T494	GO_BP 12360 12370	expression
+#494	AnnotatorNotes T494	GO:0010467 (gene expression)
+T495	CL 12374 12379	cells
+#495	AnnotatorNotes T495	CL:0000000 (cell)
+T496	GO_CC 12374 12379	cells
+#496	AnnotatorNotes T496	GO:0005623 (cell)
+T497	CL 12403 12410	neurons
+#497	AnnotatorNotes T497	CL:0000540 (neuron)
+T498	bold 12492 12493	B
+#498	AnnotatorNotes T498	bold (null)
+T499	PR 12530 12534	GFAP
+#499	AnnotatorNotes T499	PR:000007939 (glial fibrillary acidic protein)
+T500	bold 12537 12538	C
+#500	AnnotatorNotes T500	bold (null)
+T501	EntrezGene 12709 12719	Annexin A7
+#501	AnnotatorNotes T501	EG:11750
+T502	PR 12709 12719	Annexin A7
+#502	AnnotatorNotes T502	PR:000004080 (annexin A7)
+T503	bold 12751 12752	D
+#503	AnnotatorNotes T503	bold (null)
+T504	GO_CC 12799 12807	antibody
+#504	AnnotatorNotes T504	GO:0019814 (immunoglobulin complex)
+T505	bold 12815 12816	E
+#505	AnnotatorNotes T505	bold (null)
+T506	EntrezGene 12830 12840	Annexin A7
+#506	AnnotatorNotes T506	EG:11750
+T507	PR 12830 12840	Annexin A7
+#507	AnnotatorNotes T507	PR:000004080 (annexin A7)
+T508	CL 12844 12861	pyramidal neurons
+#508	AnnotatorNotes T508	CL:0000598 (pyramidal cell)
+T509	CL 12926 12933	neurons
+#509	AnnotatorNotes T509	CL:0000540 (neuron)
+T510	GO_BP 12977 12989	distribution
+#510	AnnotatorNotes T510	GO:0051179 (localization)
+T511	EntrezGene 13002 13006	GFAP
+#511	AnnotatorNotes T511	EG:14580
+T512	PR 13002 13006	GFAP
+#512	AnnotatorNotes T512	PR:000007939 (glial fibrillary acidic protein)
+T513	EntrezGene 13017 13026	AnnexinA7
+#513	AnnotatorNotes T513	EG:11750
+T514	PR 13017 13026	AnnexinA7
+#514	AnnotatorNotes T514	PR:000004080 (annexin A7)
+T515	GO_CC 13084 13091	nucleus
+#515	AnnotatorNotes T515	GO:0005634 (nucleus)
+T516	bold 13106 13107	F
+#516	AnnotatorNotes T516	bold (null)
+T517	EntrezGene 13154 13164	Annexin A7
+#517	AnnotatorNotes T517	EG:11750
+T518	PR 13154 13164	Annexin A7
+#518	AnnotatorNotes T518	PR:000004080 (annexin A7)
+T519	GO_CC 13168 13174	nuclei
+#519	AnnotatorNotes T519	GO:0005634 (nucleus)
+T520	CL 13178 13185	neurons
+#520	AnnotatorNotes T520	CL:0000540 (neuron)
+T521	GO_CC 13252 13261	cytoplasm
+#521	AnnotatorNotes T521	GO:0005737 (cytoplasm)
+T522	GO_CC 13266 13272	nuclei
+#522	AnnotatorNotes T522	GO:0005634 (nucleus)
+T523	CL 13276 13286	astrocytes
+#523	AnnotatorNotes T523	CL:0000127 (astrocyte)
+T524	EntrezGene 13315 13319	GFAP
+#524	AnnotatorNotes T524	EG:14580
+T525	PR 13315 13319	GFAP
+#525	AnnotatorNotes T525	PR:000007939 (glial fibrillary acidic protein)
+T526	bold 13333 13334	G
+#526	AnnotatorNotes T526	bold (null)
+T527	CL 13364 13381	pyramidal neurons
+#527	AnnotatorNotes T527	CL:0000598 (pyramidal cell)
+T528	EntrezGene 13430 13440	Annexin A7
+#528	AnnotatorNotes T528	EG:11750
+T529	PR 13430 13440	Annexin A7
+#529	AnnotatorNotes T529	PR:000004080 (annexin A7)
+T530	CHEBI 13441 13448	protein
+#530	AnnotatorNotes T530	CHEBI:36080 (proteins)
+T531	GO_CC 13456 13463	nucleus
+#531	AnnotatorNotes T531	GO:0005634 (nucleus)
+T532	CL 13486 13493	neurons
+#532	AnnotatorNotes T532	CL:0000540 (neuron)
+T533	bold 13496 13497	H
+#533	AnnotatorNotes T533	bold (null)
+T534	italic 13558 13563	AnxA7
+#534	AnnotatorNotes T534	italic (null)
+T535	PR 13558 13563	AnxA7
+#535	AnnotatorNotes T535	PR:000004080 (annexin A7)
+T536	EntrezGene 13558 13563	AnxA7
+#536	AnnotatorNotes T536	EG:11750
+T537	sup 13563 13566	-/-
+#537	AnnotatorNotes T537	sup (null)
+T538	NCBITaxon 13567 13572	mouse
+#538	AnnotatorNotes T538	NCBITaxon:10088 (Mus)
+T539	GO_CC 13611 13619	antibody
+#539	AnnotatorNotes T539	GO:0019814 (immunoglobulin complex)
+T540	GO_CC 13635 13642	nuclear
+#540	AnnotatorNotes T540	GO:0005634 (nucleus)
+T541	italic 13741 13746	AnxA7
+#541	AnnotatorNotes T541	italic (null)
+T542	PR 13741 13746	AnxA7
+#542	AnnotatorNotes T542	PR:000004080 (annexin A7)
+T543	EntrezGene 13741 13746	AnxA7
+#543	AnnotatorNotes T543	EG:11750
+T544	sup 13746 13749	-/-
+#544	AnnotatorNotes T544	sup (null)
+T545	GO_CC 13777 13785	antibody
+#545	AnnotatorNotes T545	GO:0019814 (immunoglobulin complex)
+T546	PR 13880 13884	GFAP
+#546	AnnotatorNotes T546	PR:000007939 (glial fibrillary acidic protein)
+T547	GO_CC 13885 13893	antibody
+#547	AnnotatorNotes T547	GO:0019814 (immunoglobulin complex)
+T548	GO_CC 13953 13961	antibody
+#548	AnnotatorNotes T548	GO:0019814 (immunoglobulin complex)
+T549	EntrezGene 14015 14025	Annexin A7
+#549	AnnotatorNotes T549	EG:11750
+T550	PR 14015 14025	Annexin A7
+#550	AnnotatorNotes T550	PR:000004080 (annexin A7)
+T551	CL 14109 14119	astrocytic
+#551	AnnotatorNotes T551	CL:0000127 (astrocyte)
+T552	CL 14144 14154	astrocytes
+#552	AnnotatorNotes T552	CL:0000127 (astrocyte)
+T553	GO_BP 14166 14175	localized
+#553	AnnotatorNotes T553	GO:0051179 (localization)
+T554	CL 14196 14201	cells
+#554	AnnotatorNotes T554	CL:0000000 (cell)
+T555	GO_CC 14196 14201	cells
+#555	AnnotatorNotes T555	GO:0005623 (cell)
+T556	GO_CC 14213 14220	nuclear
+#556	AnnotatorNotes T556	GO:0005634 (nucleus)
+T557	EntrezGene 14221 14231	Annexin A7
+#557	AnnotatorNotes T557	EG:11750
+T558	PR 14221 14231	Annexin A7
+#558	AnnotatorNotes T558	PR:000004080 (annexin A7)
+T559	CHEBI 14254 14261	protein
+#559	AnnotatorNotes T559	CHEBI:36080 (proteins)
+T560	GO_CC 14274 14281	nucleus
+#560	AnnotatorNotes T560	GO:0005634 (nucleus)
+T561	GO_CC 14290 14299	cytoplasm
+#561	AnnotatorNotes T561	GO:0005737 (cytoplasm)
+T562	CL 14339 14356	pyramidal neurons
+#562	AnnotatorNotes T562	CL:0000598 (pyramidal cell)
+T563	EntrezGene 14416 14426	Annexin A7
+#563	AnnotatorNotes T563	EG:11750
+T564	PR 14416 14426	Annexin A7
+#564	AnnotatorNotes T564	PR:000004080 (annexin A7)
+T565	GO_BP 14440 14449	localized
+#565	AnnotatorNotes T565	GO:0051179 (localization)
+T566	GO_CC 14457 14463	nuclei
+#566	AnnotatorNotes T566	GO:0005634 (nucleus)
+T567	GO_CC 14486 14496	antibodies
+#567	AnnotatorNotes T567	GO:0019814 (immunoglobulin complex)
+T568	GO_CC 14559 14566	nuclear
+#568	AnnotatorNotes T568	GO:0005634 (nucleus)
+T569	GO_CC 14638 14646	antibody
+#569	AnnotatorNotes T569	GO:0019814 (immunoglobulin complex)
+T570	italic 14691 14696	AnxA7
+#570	AnnotatorNotes T570	italic (null)
+T571	PR 14691 14696	AnxA7
+#571	AnnotatorNotes T571	PR:000004080 (annexin A7)
+T572	EntrezGene 14691 14696	AnxA7
+#572	AnnotatorNotes T572	EG:11750
+T573	sup 14696 14699	-/-
+#573	AnnotatorNotes T573	sup (null)
+T574	NCBITaxon 14700 14704	mice
+#574	AnnotatorNotes T574	NCBITaxon:10088 (Mus)
+T575	EntrezGene 14717 14727	Annexin A7
+#575	AnnotatorNotes T575	EG:11750
+T576	PR 14717 14727	Annexin A7
+#576	AnnotatorNotes T576	PR:000004080 (annexin A7)
+T577	italic 14773 14778	AnxA7
+#577	AnnotatorNotes T577	italic (null)
+T578	PR 14773 14778	AnxA7
+#578	AnnotatorNotes T578	PR:000004080 (annexin A7)
+T579	EntrezGene 14773 14778	AnxA7
+#579	AnnotatorNotes T579	EG:11750
+T580	sup 14778 14781	-/-
+#580	AnnotatorNotes T580	sup (null)
+T581	GO_CC 14879 14887	antibody
+#581	AnnotatorNotes T581	GO:0019814 (immunoglobulin complex)
+T582	EntrezGene 14904 14914	Annexin A7
+#582	AnnotatorNotes T582	EG:11750
+T583	PR 14904 14914	Annexin A7
+#583	AnnotatorNotes T583	PR:000004080 (annexin A7)
+T584	CHEBI 14915 14922	protein
+#584	AnnotatorNotes T584	CHEBI:36080 (proteins)
+T585	italic 14957 14962	AnxA7
+#585	AnnotatorNotes T585	italic (null)
+T586	PR 14957 14962	AnxA7
+#586	AnnotatorNotes T586	PR:000004080 (annexin A7)
+T587	EntrezGene 14957 14962	AnxA7
+#587	AnnotatorNotes T587	EG:11750
+T588	sup 14962 14965	-/-
+#588	AnnotatorNotes T588	sup (null)
+T589	NCBITaxon 14966 14971	mouse
+#589	AnnotatorNotes T589	NCBITaxon:10088 (Mus)
+T590	NCBITaxon 15040 15045	mouse
+#590	AnnotatorNotes T590	NCBITaxon:10088 (Mus)
+T591	GO_CC 15070 15084	basal membrane
+#591	AnnotatorNotes T591	GO:0005605 (basal lamina)
+T592	GO_CC 15070 15084	basal membrane
+#592	AnnotatorNotes T592	GO:0005604 (basement membrane)
+T593	GO_CC 15070 15075	basal
+#593	AnnotatorNotes T593	GO:0045178 (basal part of cell)
+T594	GO_CC 15099 15118	intercellular space
+#594	AnnotatorNotes T594	GO:0005576 (extracellular region)
+T595	GO_MF 15146 15179	binding of the secondary antibody
+#595	AnnotatorNotes T595	"binding of .. antibody" GO:0019865 (immunoglobulin binding)
+T596	GO_CC 15171 15179	antibody
+#596	AnnotatorNotes T596	GO:0019814 (immunoglobulin complex)
+T597	EntrezGene 15203 15213	Annexin A7
+#597	AnnotatorNotes T597	EG:11750
+T598	PR 15203 15213	Annexin A7
+#598	AnnotatorNotes T598	PR:000004080 (annexin A7)
+T599	GO_CC 15258 15264	Nuclei
+#599	AnnotatorNotes T599	GO:0005634 (nucleus)
+T600	CL 15268 15275	neurons
+#600	AnnotatorNotes T600	CL:0000540 (neuron)
+T601	CL 15392 15396	cell
+#601	AnnotatorNotes T601	CL:0000000 (cell)
+T602	GO_CC 15392 15396	cell
+#602	AnnotatorNotes T602	GO:0005623 (cell)
+T603	CL 15407 15414	neurons
+#603	AnnotatorNotes T603	CL:0000540 (neuron)
+T604	GO_CC 15464 15470	nuclei
+#604	AnnotatorNotes T604	GO:0005634 (nucleus)
+T605	CL 15474 15481	neurons
+#605	AnnotatorNotes T605	CL:0000540 (neuron)
+T606	CL 15483 15493	Astrocytes
+#606	AnnotatorNotes T606	CL:0000127 (astrocyte)
+T607	EntrezGene 15516 15526	Annexin A7
+#607	AnnotatorNotes T607	EG:11750
+T608	PR 15516 15526	Annexin A7
+#608	AnnotatorNotes T608	PR:000004080 (annexin A7)
+T609	GO_CC 15534 15540	nuclei
+#609	AnnotatorNotes T609	GO:0005634 (nucleus)
+T610	GO_CC 15545 15554	cytoplasm
+#610	AnnotatorNotes T610	GO:0005737 (cytoplasm)
+T611	EntrezGene 15686 15696	Annexin A7
+#611	AnnotatorNotes T611	EG:11750
+T612	PR 15686 15696	Annexin A7
+#612	AnnotatorNotes T612	PR:000004080 (annexin A7)
+T613	CL 15706 15716	astrocytes
+#613	AnnotatorNotes T613	CL:0000127 (astrocyte)
+T614	EntrezGene 15838 15848	Annexin A7
+#614	AnnotatorNotes T614	EG:11750
+T615	PR 15838 15848	Annexin A7
+#615	AnnotatorNotes T615	PR:000004080 (annexin A7)
+T616	GO_CC 15859 15865	nuclei
+#616	AnnotatorNotes T616	GO:0005634 (nucleus)
+T617	GO_CC 15883 15892	cytoplasm
+#617	AnnotatorNotes T617	GO:0005737 (cytoplasm)
+T618	GO_CC 15904 15919	plasma membrane
+#618	AnnotatorNotes T618	GO:0005886 (plasma membrane)
+T619	CL 15923 15937	Purkinje cells
+#619	AnnotatorNotes T619	CL:0000121 (Purkinje cell)
+T620	GO_CC 15932 15937	cells
+#620	AnnotatorNotes T620	GO:0005623 (cell)
+T621	GO_CC 15969 15978	dendrites
+#621	AnnotatorNotes T621	GO:0030425 (dendrite)
+T622	EntrezGene 16049 16059	Annexin A7
+#622	AnnotatorNotes T622	EG:11750
+T623	PR 16049 16059	Annexin A7
+#623	AnnotatorNotes T623	PR:000004080 (annexin A7)
+T624	italic 16122 16127	AnxA7
+#624	AnnotatorNotes T624	italic (null)
+T625	PR 16122 16127	AnxA7
+#625	AnnotatorNotes T625	PR:000004080 (annexin A7)
+T626	EntrezGene 16122 16127	AnxA7
+#626	AnnotatorNotes T626	EG:11750
+T627	sup 16127 16130	-/-
+#627	AnnotatorNotes T627	sup (null)
+T628	NCBITaxon 16131 16136	mouse
+#628	AnnotatorNotes T628	NCBITaxon:10088 (Mus)
+T629	EntrezGene 16162 16172	Annexin A7
+#629	AnnotatorNotes T629	EG:11750
+T630	PR 16162 16172	Annexin A7
+#630	AnnotatorNotes T630	PR:000004080 (annexin A7)
+T631	GO_CC 16176 16184	neurites
+#631	AnnotatorNotes T631	GO:0030424 (axon)
+T632	GO_CC 16186 16191	axons
+#632	AnnotatorNotes T632	GO:0030424 (axon)
+T633	CL 16236 16249	Purkinje-cell
+#633	AnnotatorNotes T633	CL:0000121 (Purkinje cell)
+T634	GO_CC 16245 16249	cell
+#634	AnnotatorNotes T634	GO:0005623 (cell)
+T635	GO_CC 16283 16288	axons
+#635	AnnotatorNotes T635	GO:0030424 (axon)
+T636	CL 16296 16310	Purkinje-cells
+#636	AnnotatorNotes T636	CL:0000121 (Purkinje cell)
+T637	GO_CC 16305 16310	cells
+#637	AnnotatorNotes T637	GO:0005623 (cell)
+T638	GO_CC 16338 16346	neurites
+#638	AnnotatorNotes T638	GO:0030424 (axon)
+T639	EntrezGene 16509 16519	Annexin A7
+#639	AnnotatorNotes T639	EG:11750
+T640	PR 16509 16519	Annexin A7
+#640	AnnotatorNotes T640	PR:000004080 (annexin A7)
+T641	CL 16531 16541	astrocytes
+#641	AnnotatorNotes T641	CL:0000127 (astrocyte)
+T642	GO_CC 16546 16554	neurites
+#642	AnnotatorNotes T642	GO:0030424 (axon)
+T643	bold 16567 16625	Annexin A7 immunostaining in the cerebellum of adult mice.
+#643	AnnotatorNotes T643	bold (null)
+T644	EntrezGene 16567 16577	Annexin A7
+#644	AnnotatorNotes T644	EG:11750
+T645	PR 16567 16577	Annexin A7
+#645	AnnotatorNotes T645	PR:000004080 (annexin A7)
+T646	NCBITaxon 16620 16624	mice
+#646	AnnotatorNotes T646	NCBITaxon:10088 (Mus)
+T647	bold 16627 16628	A
+#647	AnnotatorNotes T647	bold (null)
+T648	EntrezGene 16678 16688	Annexin A7
+#648	AnnotatorNotes T648	EG:11750
+T649	PR 16678 16688	Annexin A7
+#649	AnnotatorNotes T649	PR:000004080 (annexin A7)
+T650	GO_BP 16689 16699	expression
+#650	AnnotatorNotes T650	GO:0010467 (gene expression)
+T651	CL 16710 16741	cells of the stratum granulosum
+#651	AnnotatorNotes T651	"cells of .. stratum granulosum" CL:0000712 (stratum granulosum cell)
+T652	GO_CC 16710 16715	cells
+#652	AnnotatorNotes T652	GO:0005623 (cell)
+T653	bold 16767 16768	B
+#653	AnnotatorNotes T653	bold (null)
+T654	EntrezGene 16804 16808	GFAP
+#654	AnnotatorNotes T654	EG:14580
+T655	PR 16804 16808	GFAP
+#655	AnnotatorNotes T655	PR:000007939 (glial fibrillary acidic protein)
+T656	bold 16811 16812	C
+#656	AnnotatorNotes T656	bold (null)
+T657	EntrezGene 16887 16896	AnnexinA7
+#657	AnnotatorNotes T657	EG:11750
+T658	PR 16887 16896	AnnexinA7
+#658	AnnotatorNotes T658	PR:000004080 (annexin A7)
+T659	GO_CC 16897 16905	antibody
+#659	AnnotatorNotes T659	GO:0019814 (immunoglobulin complex)
+T660	CL 17075 17089	Purkinje-cells
+#660	AnnotatorNotes T660	CL:0000121 (Purkinje cell)
+T661	GO_CC 17084 17089	cells
+#661	AnnotatorNotes T661	GO:0005623 (cell)
+T662	bold 17155 17156	D
+#662	AnnotatorNotes T662	bold (null)
+T663	CL 17182 17196	Purkinje-cells
+#663	AnnotatorNotes T663	CL:0000121 (Purkinje cell)
+T664	GO_CC 17191 17196	cells
+#664	AnnotatorNotes T664	GO:0005623 (cell)
+T665	EntrezGene 17220 17230	Annexin A7
+#665	AnnotatorNotes T665	EG:11750
+T666	PR 17220 17230	Annexin A7
+#666	AnnotatorNotes T666	PR:000004080 (annexin A7)
+T667	GO_CC 17289 17295	nuclei
+#667	AnnotatorNotes T667	GO:0005634 (nucleus)
+T668	CL 17299 17306	neurons
+#668	AnnotatorNotes T668	CL:0000540 (neuron)
+T669	bold 17309 17310	E
+#669	AnnotatorNotes T669	bold (null)
+T670	GO_CC 17354 17361	nucleus
+#670	AnnotatorNotes T670	GO:0005634 (nucleus)
+T671	GO_CC 17367 17376	cell body
+#671	AnnotatorNotes T671	GO:0043025 (cell soma)
+T672	CL 17367 17371	cell
+#672	AnnotatorNotes T672	CL:0000000 (cell)
+T673	GO_CC 17367 17371	cell
+#673	AnnotatorNotes T673	GO:0005623 (cell)
+T674	EntrezGene 17380 17389	AnnexinA7
+#674	AnnotatorNotes T674	EG:11750
+T675	PR 17380 17389	AnnexinA7
+#675	AnnotatorNotes T675	PR:000004080 (annexin A7)
+T676	GO_CC 17414 17423	dendrites
+#676	AnnotatorNotes T676	GO:0030425 (dendrite)
+T677	CL 17431 17444	Purkinje-cell
+#677	AnnotatorNotes T677	CL:0000121 (Purkinje cell)
+T678	GO_CC 17440 17444	cell
+#678	AnnotatorNotes T678	GO:0005623 (cell)
+T679	bold 17453 17454	F
+#679	AnnotatorNotes T679	bold (null)
+T680	italic 17486 17491	AnxA7
+#680	AnnotatorNotes T680	italic (null)
+T681	EntrezGene 17486 17491	AnxA7
+#681	AnnotatorNotes T681	EG:11750
+T682	PR 17486 17491	AnxA7
+#682	AnnotatorNotes T682	PR:000004080 (annexin A7)
+T683	sup 17491 17494	-/-
+#683	AnnotatorNotes T683	sup (null)
+T684	NCBITaxon 17495 17500	mouse
+#684	AnnotatorNotes T684	NCBITaxon:10088 (Mus)
+T685	bold 17503 17504	G
+#685	AnnotatorNotes T685	bold (null)
+T686	EntrezGene 17506 17515	AnnexinA7
+#686	AnnotatorNotes T686	EG:11750
+T687	PR 17506 17515	AnnexinA7
+#687	AnnotatorNotes T687	PR:000004080 (annexin A7)
+T688	GO_CC 17528 17533	axons
+#688	AnnotatorNotes T688	GO:0030424 (axon)
+T689	CL 17590 17603	Purkinje-cell
+#689	AnnotatorNotes T689	CL:0000121 (Purkinje cell)
+T690	GO_CC 17599 17603	cell
+#690	AnnotatorNotes T690	GO:0005623 (cell)
+T691	GO_BP 17708 17718	Expression
+#691	AnnotatorNotes T691	GO:0010467 (gene expression)
+T692	EntrezGene 17722 17732	Annexin A7
+#692	AnnotatorNotes T692	EG:310
+T693	PR 17722 17732	Annexin A7
+#693	AnnotatorNotes T693	PR:000004080 (annexin A7)
+T694	NCBITaxon 17746 17751	human
+#694	AnnotatorNotes T694	NCBITaxon:9606 (Homo sapiens)
+T695	NCBITaxon 17770 17775	human
+#695	AnnotatorNotes T695	NCBITaxon:9606 (Homo sapiens)
+T696	GO_BP 17798 17802	aged
+#696	AnnotatorNotes T696	GO:0007568 (aging)
+T697	NCBITaxon 17803 17814	individuals
+#697	AnnotatorNotes T697	NCBITaxon:1 (root)
+T698	CL 17866 17876	astrocytes
+#698	AnnotatorNotes T698	CL:0000127 (astrocyte)
+T699	EntrezGene 17901 17911	Annexin A7
+#699	AnnotatorNotes T699	EG:310
+T700	PR 17901 17911	Annexin A7
+#700	AnnotatorNotes T700	PR:000004080 (annexin A7)
+T701	GO_CC 17919 17928	cytoplasm
+#701	AnnotatorNotes T701	GO:0005737 (cytoplasm)
+T702	GO_CC 17932 17939	nuclear
+#702	AnnotatorNotes T702	GO:0005634 (nucleus)
+T703	EntrezGene 17952 17962	Annexin A7
+#703	AnnotatorNotes T703	EG:310
+T704	PR 17952 17962	Annexin A7
+#704	AnnotatorNotes T704	PR:000004080 (annexin A7)
+T705	CL 17985 17995	astrocytes
+#705	AnnotatorNotes T705	CL:0000127 (astrocyte)
+T706	CL 18007 18024	Pyramidal neurons
+#706	AnnotatorNotes T706	CL:0000598 (pyramidal cell)
+T707	EntrezGene 18067 18077	Annexin A7
+#707	AnnotatorNotes T707	EG:310
+T708	PR 18067 18077	Annexin A7
+#708	AnnotatorNotes T708	PR:000004080 (annexin A7)
+T709	GO_CC 18085 18100	plasma membrane
+#709	AnnotatorNotes T709	GO:0005886 (plasma membrane)
+T710	GO_CC 18110 18120	perikaryon
+#710	AnnotatorNotes T710	GO:0043204 (perikaryon)
+T711	GO_CC 18139 18145	apical
+#711	AnnotatorNotes T711	GO:0045177 (apical part of cell)
+T712	GO_CC 18146 18154	dendrite
+#712	AnnotatorNotes T712	GO:0030425 (dendrite)
+T713	CL 18172 18179	neurons
+#713	AnnotatorNotes T713	CL:0000540 (neuron)
+T714	EntrezGene 18200 18210	Annexin A7
+#714	AnnotatorNotes T714	EG:310
+T715	PR 18200 18210	Annexin A7
+#715	AnnotatorNotes T715	PR:000004080 (annexin A7)
+T716	GO_CC 18220 18226	nuclei
+#716	AnnotatorNotes T716	GO:0005634 (nucleus)
+T717	GO_CC 18228 18234	Apical
+#717	AnnotatorNotes T717	GO:0045177 (apical part of cell)
+T718	GO_CC 18235 18244	dendrites
+#718	AnnotatorNotes T718	GO:0030425 (dendrite)
+T719	CHEBI 18256 18265	molecular
+#719	AnnotatorNotes T719	CHEBI:23367 (molecular entity)
+T720	EntrezGene 18311 18321	Annexin A7
+#720	AnnotatorNotes T720	EG:310
+T721	PR 18311 18321	Annexin A7
+#721	AnnotatorNotes T721	PR:000004080 (annexin A7)
+T722	EntrezGene 18357 18367	Annexin A7
+#722	AnnotatorNotes T722	EG:310
+T723	PR 18357 18367	Annexin A7
+#723	AnnotatorNotes T723	PR:000004080 (annexin A7)
+T724	NCBITaxon 18375 18380	human
+#724	AnnotatorNotes T724	NCBITaxon:9606 (Homo sapiens)
+T725	GO_MF 18435 18442	trypsin
+#725	AnnotatorNotes T725	GO:0004295 (trypsin activity)
+T726	independent_continuant 18435 18442	trypsin
+#726	AnnotatorNotes T726	independent_continuant
+T727	bold 18455 18500	Annexin A7 immunostaining in human isocortex.
+#727	AnnotatorNotes T727	bold (null)
+T728	EntrezGene 18455 18465	Annexin A7
+#728	AnnotatorNotes T728	EG:310
+T729	PR 18455 18465	Annexin A7
+#729	AnnotatorNotes T729	PR:000004080 (annexin A7)
+T730	NCBITaxon 18484 18489	human
+#730	AnnotatorNotes T730	NCBITaxon:9606 (Homo sapiens)
+T731	bold 18502 18503	A
+#731	AnnotatorNotes T731	bold (null)
+T732	CL 18505 18522	Pyramidal neurons
+#732	AnnotatorNotes T732	CL:0000598 (pyramidal cell)
+T733	GO_CC 18540 18546	apical
+#733	AnnotatorNotes T733	GO:0045177 (apical part of cell)
+T734	GO_CC 18547 18556	dendrites
+#734	AnnotatorNotes T734	GO:0030425 (dendrite)
+T735	GO_CC 18602 18610	antibody
+#735	AnnotatorNotes T735	GO:0019814 (immunoglobulin complex)
+T736	EntrezGene 18619 18629	Annexin A7
+#736	AnnotatorNotes T736	EG:11750
+T737	PR 18619 18629	Annexin A7
+#737	AnnotatorNotes T737	PR:000004080 (annexin A7)
+T738	NCBITaxon 18637 18642	human
+#738	AnnotatorNotes T738	NCBITaxon:9606 (Homo sapiens)
+T739	bold 18661 18662	B
+#739	AnnotatorNotes T739	bold (null)
+T740	GO_CC 18666 18675	dendritic
+#740	AnnotatorNotes T740	GO:0030425 (dendrite)
+T741	CHEBI 18706 18715	molecular
+#741	AnnotatorNotes T741	CHEBI:23367 (molecular entity)
+T742	CL 18762 18772	astrocytes
+#742	AnnotatorNotes T742	CL:0000127 (astrocyte)
+T743	GO_CC 18834 18845	cytoplasmic
+#743	AnnotatorNotes T743	GO:0005737 (cytoplasm)
+T744	CL 18856 18866	astrocytes
+#744	AnnotatorNotes T744	CL:0000127 (astrocyte)
+T745	GO_CC 18876 18883	nuclear
+#745	AnnotatorNotes T745	GO:0005634 (nucleus)
+T746	bold 18911 18912	C
+#746	AnnotatorNotes T746	bold (null)
+T747	EntrezGene 18934 18944	Annexin A7
+#747	AnnotatorNotes T747	EG:310
+T748	PR 18934 18944	Annexin A7
+#748	AnnotatorNotes T748	PR:000004080 (annexin A7)
+T749	CL 18961 18965	cell
+#749	AnnotatorNotes T749	CL:0000000 (cell)
+T750	GO_CC 18961 18965	cell
+#750	AnnotatorNotes T750	GO:0005623 (cell)
+T751	GO_CC 18966 18974	membrane
+#751	AnnotatorNotes T751	GO:0016020 (membrane)
+T752	GO_CC 18982 18992	perikaryon
+#752	AnnotatorNotes T752	GO:0043204 (perikaryon)
+T753	GO_CC 19014 19020	apical
+#753	AnnotatorNotes T753	GO:0045177 (apical part of cell)
+T754	GO_CC 19021 19029	dendrite
+#754	AnnotatorNotes T754	GO:0030425 (dendrite)
+T755	bold 19047 19048	D
+#755	AnnotatorNotes T755	bold (null)
+T756	GO_CC 19086 19094	antibody
+#756	AnnotatorNotes T756	GO:0019814 (immunoglobulin complex)
+T757	CL 19182 19189	neurons
+#757	AnnotatorNotes T757	CL:0000540 (neuron)
+T758	bold 19210 19212	A)
+#758	AnnotatorNotes T758	bold (null)
+T759	bold 19221 19223	B)
+#759	AnnotatorNotes T759	bold (null)
+T760	bold 19232 19233	B
+#760	AnnotatorNotes T760	bold (null)
+T761	bold 19241 19243	C)
+#761	AnnotatorNotes T761	bold (null)
+T762	bold 19252 19254	D)
+#762	AnnotatorNotes T762	bold (null)
+T763	EntrezGene 19275 19285	Annexin A7
+#763	AnnotatorNotes T763	EG:11750
+T764	PR 19275 19285	Annexin A7
+#764	AnnotatorNotes T764	PR:000004080 (annexin A7)
+T765	GO_CC 19289 19295	nuclei
+#765	AnnotatorNotes T765	GO:0005634 (nucleus)
+T766	CL 19301 19330	neuronal and astroglial cells
+#766	AnnotatorNotes T766	"neuronal .. cells" CL:0000540 (neuron)
+T767	CL 19314 19330	astroglial cells
+#767	AnnotatorNotes T767	CL:0000127 (astrocyte)
+T768	GO_CC 19325 19330	cells
+#768	AnnotatorNotes T768	GO:0005623 (cell)
+T769	GO_CC 19336 19343	nuclear
+#769	AnnotatorNotes T769	GO:0005634 (nucleus)
+T770	GO_BP 19344 19356	localisation
+#770	AnnotatorNotes T770	GO:0051179 (localization)
+T771	EntrezGene 19360 19370	Annexin A7
+#771	AnnotatorNotes T771	EG:11750
+T772	PR 19360 19370	Annexin A7
+#772	AnnotatorNotes T772	PR:000004080 (annexin A7)
+T773	NCBITaxon 19374 19378	mice
+#773	AnnotatorNotes T773	NCBITaxon:10088 (Mus)
+T774	CL 19400 19405	cells
+#774	AnnotatorNotes T774	CL:0000000 (cell)
+T775	GO_CC 19400 19405	cells
+#775	AnnotatorNotes T775	GO:0005623 (cell)
+T776	GO_BP 19417 19431	differentiated
+#776	AnnotatorNotes T776	GO:0030154 (cell differentiation)
+T777	CL 19438 19445	neurons
+#777	AnnotatorNotes T777	CL:0000540 (neuron)
+T778	GO_MF 19534 19541	trypsin
+#778	AnnotatorNotes T778	GO:0004295 (trypsin activity)
+T779	independent_continuant 19534 19541	trypsin
+#779	AnnotatorNotes T779	independent_continuant
+T780	GO_CC 19549 19557	antibody
+#780	AnnotatorNotes T780	GO:0019814 (immunoglobulin complex)
+T781	GO_CC 19607 19617	antibodies
+#781	AnnotatorNotes T781	GO:0019814 (immunoglobulin complex)
+T782	SO 19628 19636	epitopes
+#782	AnnotatorNotes T782	SO:0001018 (epitope)
+T783	CHEBI 19651 19663	formaldehyde
+#783	AnnotatorNotes T783	CHEBI:16842 (formaldehyde)
+T784	CHEBI 19674 19682	Methanol
+#784	AnnotatorNotes T784	CHEBI:17790 (methanol)
+T785	CL 19704 19709	cells
+#785	AnnotatorNotes T785	CL:0000000 (cell)
+T786	GO_CC 19704 19709	cells
+#786	AnnotatorNotes T786	GO:0005623 (cell)
+T787	GO_BP 19840 19851	proteolytic
+#787	AnnotatorNotes T787	GO:0006508 (proteolysis)
+T788	GO_CC 20006 20014	antibody
+#788	AnnotatorNotes T788	GO:0019814 (immunoglobulin complex)
+T789	EntrezGene 20202 20212	Annexin A7
+#789	AnnotatorNotes T789	EG:155423
+T790	PR 20202 20212	Annexin A7
+#790	AnnotatorNotes T790	PR:000004080 (annexin A7)
+T791	GO_CC 20216 20222	nuclei
+#791	AnnotatorNotes T791	GO:0005634 (nucleus)
+T792	GO_CC 20268 20274	nuclei
+#792	AnnotatorNotes T792	GO:0005634 (nucleus)
+T793	CL 20304 20309	cells
+#793	AnnotatorNotes T793	CL:0000000 (cell)
+T794	GO_CC 20304 20309	cells
+#794	AnnotatorNotes T794	GO:0005623 (cell)
+T795	GO_CC 20376 20387	nucleoplasm
+#795	AnnotatorNotes T795	GO:0005654 (nucleoplasm)
+T796	GO_CC 20403 20414	nucleoplasm
+#796	AnnotatorNotes T796	GO:0005654 (nucleoplasm)
+T797	GO_CC 20433 20439	nuclei
+#797	AnnotatorNotes T797	GO:0005634 (nucleus)
+T798	GO_CC 20456 20467	nucleoplasm
+#798	AnnotatorNotes T798	GO:0005654 (nucleoplasm)
+T799	CHEBI 20516 20519	SDS
+#799	AnnotatorNotes T799	CHEBI:8984 (sodium dodecyl sulfate)
+T800	EntrezGene 20592 20602	Annexin A7
+#800	AnnotatorNotes T800	EG:11750
+T801	PR 20592 20602	Annexin A7
+#801	AnnotatorNotes T801	PR:000004080 (annexin A7)
+T802	GO_CC 20610 20621	nucleoplasm
+#802	AnnotatorNotes T802	GO:0005654 (nucleoplasm)
+T803	CL 20625 20676	neuronal (neuro-2a, PC-12) and astroglial (C6) cell
+#803	AnnotatorNotes T803	"neuronal .. cell" CL:0000540 (neuron)
+T804	CL 20656 20676	astroglial (C6) cell
+#804	AnnotatorNotes T804	"astroglial .. cell" CL:0000127 (astrocyte)
+T805	GO_CC 20672 20676	cell
+#805	AnnotatorNotes T805	GO:0005623 (cell)
+T806	SO 20713 20720	isoform
+#806	AnnotatorNotes T806	SO:0001060 (sequence_variant)
+T807	GO_CC 20758 20769	nucleoplasm
+#807	AnnotatorNotes T807	GO:0005654 (nucleoplasm)
+T808	CL 20778 20783	cells
+#808	AnnotatorNotes T808	CL:0000000 (cell)
+T809	GO_CC 20778 20783	cells
+#809	AnnotatorNotes T809	GO:0005623 (cell)
+T810	GO_CC 20798 20808	antibodies
+#810	AnnotatorNotes T810	GO:0019814 (immunoglobulin complex)
+T811	PR 20824 20830	Emerin
+#811	AnnotatorNotes T811	PR:000007050 (emerin)
+T812	GO_CC 20835 20842	tubulin
+#812	AnnotatorNotes T812	GO:0045298 (tubulin complex)
+T813	GO_CC 20872 20883	nucleoplasm
+#813	AnnotatorNotes T813	GO:0005654 (nucleoplasm)
+T814	GO_CC 20913 20921	membrane
+#814	AnnotatorNotes T814	GO:0016020 (membrane)
+T815	GO_MF 20922 20927	bound
+#815	AnnotatorNotes T815	GO:0005488 (binding)
+T816	SO 20928 20935	isoform
+#816	AnnotatorNotes T816	SO:0001060 (sequence_variant)
+T817	EntrezGene 20939 20943	LAP2
+#817	AnnotatorNotes T817	EG:21917
+T818	GO_CC 21001 21018	nuclear membranes
+#818	AnnotatorNotes T818	GO:0031965 (nuclear membrane)
+T819	GO_CC 21001 21008	nuclear
+#819	AnnotatorNotes T819	GO:0005634 (nucleus)
+T820	EntrezGene 21027 21033	Emerin
+#820	AnnotatorNotes T820	EG:25437
+T821	PR 21027 21033	Emerin
+#821	AnnotatorNotes T821	PR:000007050 (emerin)
+T822	GO_CC 21041 21050	cytoplasm
+#822	AnnotatorNotes T822	GO:0005737 (cytoplasm)
+T823	GO_CC 21059 21066	tubulin
+#823	AnnotatorNotes T823	GO:0045298 (tubulin complex)
+T824	CL 21088 21116	neuronal and astroglial cell
+#824	AnnotatorNotes T824	"neuronal .. cell" CL:0000540 (neuron)
+T825	CL 21101 21116	astroglial cell
+#825	AnnotatorNotes T825	CL:0000127 (astrocyte)
+T826	GO_CC 21112 21116	cell
+#826	AnnotatorNotes T826	GO:0005623 (cell)
+T827	EntrezGene 21123 21133	Annexin A7
+#827	AnnotatorNotes T827	EG:155423
+T828	PR 21123 21133	Annexin A7
+#828	AnnotatorNotes T828	PR:000004080 (annexin A7)
+T829	GO_CC 21159 21166	nucleus
+#829	AnnotatorNotes T829	GO:0005634 (nucleus)
+T830	CL 21271 21276	cells
+#830	AnnotatorNotes T830	CL:0000000 (cell)
+T831	GO_CC 21271 21276	cells
+#831	AnnotatorNotes T831	GO:0005623 (cell)
+T832	EntrezGene 21342 21352	Annexin A7
+#832	AnnotatorNotes T832	EG:11750
+T833	PR 21342 21352	Annexin A7
+#833	AnnotatorNotes T833	PR:000004080 (annexin A7)
+T834	GO_MF 21387 21394	trypsin
+#834	AnnotatorNotes T834	GO:0004295 (trypsin activity)
+T835	independent_continuant 21387 21394	trypsin
+#835	AnnotatorNotes T835	independent_continuant
+T836	bold 21407 21442	Nuclear localization of Annexin A7.
+#836	AnnotatorNotes T836	bold (null)
+T837	GO_CC 21407 21414	Nuclear
+#837	AnnotatorNotes T837	GO:0005634 (nucleus)
+T838	GO_BP 21415 21427	localization
+#838	AnnotatorNotes T838	GO:0051179 (localization)
+T839	EntrezGene 21431 21441	Annexin A7
+#839	AnnotatorNotes T839	EG:11750
+T840	PR 21431 21441	Annexin A7
+#840	AnnotatorNotes T840	PR:000004080 (annexin A7)
+T841	bold 21443 21446	(A)
+#841	AnnotatorNotes T841	bold (null)
+T842	EntrezGene 21461 21471	Annexin A7
+#842	AnnotatorNotes T842	EG:11750
+T843	PR 21461 21471	Annexin A7
+#843	AnnotatorNotes T843	PR:000004080 (annexin A7)
+T844	GO_CC 21477 21483	nuclei
+#844	AnnotatorNotes T844	GO:0005634 (nucleus)
+T845	CL 21487 21536	neuronal (PC-12, N2A) and an astroglial (C6) cell
+#845	AnnotatorNotes T845	"neuronal .. cell" CL:0000540 (neuron)
+T846	CL 21516 21536	astroglial (C6) cell
+#846	AnnotatorNotes T846	"astroglial .. cell" CL:0000127 (astrocyte)
+T847	GO_CC 21532 21536	cell
+#847	AnnotatorNotes T847	GO:0005623 (cell)
+T848	CL 21585 21590	cells
+#848	AnnotatorNotes T848	CL:0000000 (cell)
+T849	GO_CC 21585 21590	cells
+#849	AnnotatorNotes T849	GO:0005623 (cell)
+T850	GO_CC 21625 21642	nuclear membranes
+#850	AnnotatorNotes T850	GO:0031965 (nuclear membrane)
+T851	GO_CC 21625 21632	nuclear
+#851	AnnotatorNotes T851	GO:0005634 (nucleus)
+T852	GO_CC 21644 21645	m
+#852	AnnotatorNotes T852	GO:0031965 (nuclear membrane)
+T853	GO_CC 21651 21662	nucleoplasm
+#853	AnnotatorNotes T853	GO:0005654 (nucleoplasm)
+T854	GO_CC 21664 21665	p
+#854	AnnotatorNotes T854	GO:0005654 (nucleoplasm)
+T855	CHEBI 21685 21688	SDS
+#855	AnnotatorNotes T855	CHEBI:8984 (sodium dodecyl sulfate)
+T856	EntrezGene 21716 21726	Annexin A7
+#856	AnnotatorNotes T856	EG:11750
+T857	PR 21716 21726	Annexin A7
+#857	AnnotatorNotes T857	PR:000004080 (annexin A7)
+T858	EntrezGene 21728 21733	AnxA7
+#858	AnnotatorNotes T858	EG:155423
+T859	PR 21728 21733	AnxA7
+#859	AnnotatorNotes T859	PR:000004080 (annexin A7)
+T860	SO 21735 21743	isoforms
+#860	AnnotatorNotes T860	SO:0001060 (sequence_variant)
+T861	GO_CC 21769 21776	nucleus
+#861	AnnotatorNotes T861	GO:0005634 (nucleus)
+T862	CL 21794 21799	cells
+#862	AnnotatorNotes T862	CL:0000000 (cell)
+T863	GO_CC 21794 21799	cells
+#863	AnnotatorNotes T863	GO:0005623 (cell)
+T864	SO 21819 21826	isoform
+#864	AnnotatorNotes T864	SO:0001060 (sequence_variant)
+T865	GO_CC 21890 21898	membrane
+#865	AnnotatorNotes T865	GO:0016020 (membrane)
+T866	GO_MF 21899 21904	bound
+#866	AnnotatorNotes T866	GO:0005488 (binding)
+T867	SO 21905 21912	isoform
+#867	AnnotatorNotes T867	SO:0001060 (sequence_variant)
+T868	EntrezGene 21915 21921	Emerin
+#868	AnnotatorNotes T868	EG:25437
+T869	PR 21915 21921	Emerin
+#869	AnnotatorNotes T869	PR:000007050 (emerin)
+T870	EntrezGene 21923 21925	EM
+#870	AnnotatorNotes T870	EG:25437
+T871	GO_CC 21940 21947	tubulin
+#871	AnnotatorNotes T871	GO:0045298 (tubulin complex)
+T872	GO_CC 21949 21951	TB
+#872	AnnotatorNotes T872	GO:0045298 (tubulin complex)
+T873	GO_CC 21984 21995	nucleoplasm
+#873	AnnotatorNotes T873	GO:0005654 (nucleoplasm)
+T874	GO_CC 22005 22022	nuclear membranes
+#874	AnnotatorNotes T874	GO:0031965 (nuclear membrane)
+T875	GO_CC 22005 22012	nuclear
+#875	AnnotatorNotes T875	GO:0005634 (nucleus)
+T876	EntrezGene 22024 22030	Emerin
+#876	AnnotatorNotes T876	EG:13726
+T877	PR 22024 22030	Emerin
+#877	AnnotatorNotes T877	PR:000007050 (emerin)
+T878	GO_CC 22041 22050	cytoplasm
+#878	AnnotatorNotes T878	GO:0005737 (cytoplasm)
+T879	GO_CC 22052 22059	tubulin
+#879	AnnotatorNotes T879	GO:0045298 (tubulin complex)
+T880	GO_CC 22086 22097	nucleoplasm
+#880	AnnotatorNotes T880	GO:0005654 (nucleoplasm)
+T881	bold 22129 22132	(B)
+#881	AnnotatorNotes T881	bold (null)
+T882	CL 22172 22177	cells
+#882	AnnotatorNotes T882	CL:0000000 (cell)
+T883	GO_CC 22172 22177	cells
+#883	AnnotatorNotes T883	GO:0005623 (cell)
+T884	CL 22184 22189	Cells
+#884	AnnotatorNotes T884	CL:0000000 (cell)
+T885	GO_CC 22184 22189	Cells
+#885	AnnotatorNotes T885	GO:0005623 (cell)
+T886	independent_continuant 22273 22280	trypsin
+#886	AnnotatorNotes T886	independent_continuant
+T887	GO_MF 22273 22280	trypsin
+#887	AnnotatorNotes T887	GO:0004295 (trypsin activity)
+T888	EntrezGene 22312 22322	Annexin A7
+#888	AnnotatorNotes T888	EG:11750
+T889	PR 22312 22322	Annexin A7
+#889	AnnotatorNotes T889	PR:000004080 (annexin A7)
+T890	EntrezGene 22434 22444	Annexin A7
+#890	AnnotatorNotes T890	EG:11750
+T891	PR 22434 22444	Annexin A7
+#891	AnnotatorNotes T891	PR:000004080 (annexin A7)
+T892	NCBITaxon 22452 22457	mouse
+#892	AnnotatorNotes T892	NCBITaxon:10088 (Mus)
+T893	GO_BP 22458 22469	development
+#893	AnnotatorNotes T893	GO:0032502 (developmental process)
+T894	CHEBI 22477 22481	mRNA
+#894	AnnotatorNotes T894	CHEBI:33699 (messenger RNA)
+T895	SO 22477 22481	mRNA
+#895	AnnotatorNotes T895	SO:0000234 (mRNA)
+T896	CHEBI 22486 22493	protein
+#896	AnnotatorNotes T896	CHEBI:36080 (proteins)
+T897	GO_BP 22549 22562	embryogenesis
+#897	AnnotatorNotes T897	GO:0009790 (embryonic development)
+T898	GO_BP 22621 22631	expression
+#898	AnnotatorNotes T898	GO:0010467 (gene expression)
+T899	EntrezGene 22635 22645	Annexin A7
+#899	AnnotatorNotes T899	EG:11750
+T900	PR 22635 22645	Annexin A7
+#900	AnnotatorNotes T900	PR:000004080 (annexin A7)
+T901	GO_BP 22713 22728	Differentiating
+#901	AnnotatorNotes T901	GO:0030154 (cell differentiation)
+T902	CL 22729 22734	cells
+#902	AnnotatorNotes T902	CL:0000000 (cell)
+T903	GO_CC 22729 22734	cells
+#903	AnnotatorNotes T903	GO:0005623 (cell)
+T904	CL 22789 22794	cells
+#904	AnnotatorNotes T904	CL:0000000 (cell)
+T905	GO_CC 22789 22794	cells
+#905	AnnotatorNotes T905	GO:0005623 (cell)
+T906	EntrezGene 22833 22843	Annexin A7
+#906	AnnotatorNotes T906	EG:11750
+T907	PR 22833 22843	Annexin A7
+#907	AnnotatorNotes T907	PR:000004080 (annexin A7)
+T908	GO_CC 22875 22882	cytosol
+#908	AnnotatorNotes T908	GO:0005829 (cytosol)
+T909	CL 22884 22922	Endodermal as well as mesodermal cells
+#909	AnnotatorNotes T909	"Endodermal .. cells" CL:0000223 (endodermal cell)
+T910	CL 22906 22922	mesodermal cells
+#910	AnnotatorNotes T910	CL:0000222 (mesodermal cell)
+T911	GO_CC 22917 22922	cells
+#911	AnnotatorNotes T911	GO:0005623 (cell)
+T912	GO_BP 22941 22965	subcellular localization
+#912	AnnotatorNotes T912	GO:0051641 (cellular localization)
+T913	GO_BP 22953 22980	localization of the protein
+#913	AnnotatorNotes T913	"localization of .. protein" GO:0008104 (protein localization)
+T914	CHEBI 22973 22980	protein
+#914	AnnotatorNotes T914	CHEBI:36080 (proteins)
+T915	GO_BP 22990 23000	developing
+#915	AnnotatorNotes T915	GO:0032502 (developmental process)
+T916	GO_BP 23041 23065	subcellular distribution
+#916	AnnotatorNotes T916	GO:0051641 (cellular localization)
+T917	EntrezGene 23069 23079	Annexin A7
+#917	AnnotatorNotes T917	EG:11750
+T918	PR 23069 23079	Annexin A7
+#918	AnnotatorNotes T918	PR:000004080 (annexin A7)
+T919	CL 23081 23086	Cells
+#919	AnnotatorNotes T919	CL:0000000 (cell)
+T920	GO_CC 23081 23086	Cells
+#920	AnnotatorNotes T920	GO:0005623 (cell)
+T921	EntrezGene 23215 23225	Annexin A7
+#921	AnnotatorNotes T921	EG:11750
+T922	PR 23215 23225	Annexin A7
+#922	AnnotatorNotes T922	PR:000004080 (annexin A7)
+T923	GO_CC 23240 23247	cytosol
+#923	AnnotatorNotes T923	GO:0005829 (cytosol)
+T924	EntrezGene 23325 23335	Annexin A7
+#924	AnnotatorNotes T924	EG:11750
+T925	PR 23325 23335	Annexin A7
+#925	AnnotatorNotes T925	PR:000004080 (annexin A7)
+T926	GO_CC 23343 23350	nucleus
+#926	AnnotatorNotes T926	GO:0005634 (nucleus)
+T927	CL 23354 23359	cells
+#927	AnnotatorNotes T927	CL:0000000 (cell)
+T928	GO_CC 23354 23359	cells
+#928	AnnotatorNotes T928	GO:0005623 (cell)
+T929	GO_BP 23431 23441	expression
+#929	AnnotatorNotes T929	GO:0010467 (gene expression)
+T930	EntrezGene 23454 23464	Annexin A7
+#930	AnnotatorNotes T930	EG:11750
+T931	PR 23454 23464	Annexin A7
+#931	AnnotatorNotes T931	PR:000004080 (annexin A7)
+T932	CL 23474 23479	cells
+#932	AnnotatorNotes T932	CL:0000000 (cell)
+T933	GO_CC 23474 23479	cells
+#933	AnnotatorNotes T933	GO:0005623 (cell)
+T934	GO_BP 23604 23617	developmental
+#934	AnnotatorNotes T934	GO:0032502 (developmental process)
+T935	PR 23630 23640	Tenascin-C
+#935	AnnotatorNotes T935	PR:000016471 (tenascin)
+T936	GO_BP 23686 23694	guidance
+#936	AnnotatorNotes T936	GO:0007411 (axon guidance)
+T937	CL 23702 23720	radial glial cells
+#937	AnnotatorNotes T937	CL:0000681 (radial glial cell)
+T938	GO_CC 23715 23720	cells
+#938	AnnotatorNotes T938	GO:0005623 (cell)
+T939	GO_BP 23767 23776	migrating
+#939	AnnotatorNotes T939	GO:0016477 (cell migration)
+T940	GO_BP 23781 23795	differentiated
+#940	AnnotatorNotes T940	GO:0030154 (cell differentiation)
+T941	CL 23796 23803	neurons
+#941	AnnotatorNotes T941	CL:0000540 (neuron)
+T942	CL 23836 23843	Neurons
+#942	AnnotatorNotes T942	CL:0000540 (neuron)
+T943	GO_BP 23853 23862	generated
+#943	AnnotatorNotes T943	GO:0032502 (developmental process)
+T944	GO_BP 23881 23894	proliferative
+#944	AnnotatorNotes T944	GO:0008283 (cell proliferation)
+T945	GO_BP 23951 23958	migrate
+#945	AnnotatorNotes T945	GO:0016477 (cell migration)
+T946	GO_BP 23992 23996	form
+#946	AnnotatorNotes T946	GO:0032502 (developmental process)
+T947	CL 24020 24024	cell
+#947	AnnotatorNotes T947	CL:0000000 (cell)
+T948	GO_CC 24020 24024	cell
+#948	AnnotatorNotes T948	GO:0005623 (cell)
+T949	GO_BP 24070 24085	cell maturation
+#949	AnnotatorNotes T949	GO:0048469 (cell maturation)
+T950	CL 24070 24074	cell
+#950	AnnotatorNotes T950	CL:0000000 (cell)
+T951	GO_CC 24070 24074	cell
+#951	AnnotatorNotes T951	GO:0005623 (cell)
+T952	GO_BP 24125 24149	subcellular localization
+#952	AnnotatorNotes T952	GO:0051641 (cellular localization)
+T953	EntrezGene 24153 24163	Annexin A7
+#953	AnnotatorNotes T953	EG:11750
+T954	PR 24153 24163	Annexin A7
+#954	AnnotatorNotes T954	PR:000004080 (annexin A7)
+T955	GO_BP 24175 24188	developmental
+#955	AnnotatorNotes T955	GO:0032502 (developmental process)
+T956	CL 24199 24203	cell
+#956	AnnotatorNotes T956	CL:0000000 (cell)
+T957	GO_CC 24199 24203	cell
+#957	AnnotatorNotes T957	GO:0005623 (cell)
+T958	GO_CC 24254 24261	nuclear
+#958	AnnotatorNotes T958	GO:0005634 (nucleus)
+T959	GO_BP 24262 24274	localization
+#959	AnnotatorNotes T959	GO:0051179 (localization)
+T960	EntrezGene 24279 24289	Annexin A7
+#960	AnnotatorNotes T960	EG:11750
+T961	PR 24279 24289	Annexin A7
+#961	AnnotatorNotes T961	PR:000004080 (annexin A7)
+T962	CL 24293 24300	neurons
+#962	AnnotatorNotes T962	CL:0000540 (neuron)
+T963	CL 24309 24319	astrocytes
+#963	AnnotatorNotes T963	CL:0000127 (astrocyte)
+T964	GO_CC 24337 24346	cytosolic
+#964	AnnotatorNotes T964	GO:0005829 (cytosol)
+T965	GO_CC 24360 24367	nuclear
+#965	AnnotatorNotes T965	GO:0005634 (nucleus)
+T966	CL 24387 24404	pyramidal neurons
+#966	AnnotatorNotes T966	CL:0000598 (pyramidal cell)
+T967	CL 24426 24440	Purkinje-cells
+#967	AnnotatorNotes T967	CL:0000121 (Purkinje cell)
+T968	GO_CC 24435 24440	cells
+#968	AnnotatorNotes T968	GO:0005623 (cell)
+T969	GO_CC 24471 24480	cytosolic
+#969	AnnotatorNotes T969	GO:0005829 (cytosol)
+T970	GO_CC 24529 24537	neurites
+#970	AnnotatorNotes T970	GO:0030424 (axon)
+T971	GO_CC 24542 24551	dendrites
+#971	AnnotatorNotes T971	GO:0030425 (dendrite)
+T972	GO_BP 24585 24595	expression
+#972	AnnotatorNotes T972	GO:0010467 (gene expression)
+T973	EntrezGene 24599 24609	Annexin A7
+#973	AnnotatorNotes T973	EG:310
+T974	PR 24599 24609	Annexin A7
+#974	AnnotatorNotes T974	PR:000004080 (annexin A7)
+T975	NCBITaxon 24613 24618	human
+#975	AnnotatorNotes T975	NCBITaxon:9606 (Homo sapiens)
+T976	EntrezGene 24731 24741	Annexin A7
+#976	AnnotatorNotes T976	EG:310
+T977	PR 24731 24741	Annexin A7
+#977	AnnotatorNotes T977	PR:000004080 (annexin A7)
+T978	SO 24742 24750	isoforms
+#978	AnnotatorNotes T978	SO:0001060 (sequence_variant)
+T979	GO_CC 24769 24778	cytoplasm
+#979	AnnotatorNotes T979	GO:0005737 (cytoplasm)
+T980	GO_CC 24783 24789	nuclei
+#980	AnnotatorNotes T980	GO:0005634 (nucleus)
+T981	CL 24793 24803	astrocytes
+#981	AnnotatorNotes T981	CL:0000127 (astrocyte)
+T982	CL 24813 24820	neurons
+#982	AnnotatorNotes T982	CL:0000540 (neuron)
+T983	NCBITaxon 25068 25074	murine
+#983	AnnotatorNotes T983	NCBITaxon:39107 (Murinae)
+T984	GO_BP 25182 25192	expression
+#984	AnnotatorNotes T984	GO:0010467 (gene expression)
+T985	NCBITaxon 25205 25210	mouse
+#985	AnnotatorNotes T985	NCBITaxon:10088 (Mus)
+T986	NCBITaxon 25215 25220	human
+#986	AnnotatorNotes T986	NCBITaxon:9606 (Homo sapiens)
+T987	NCBITaxon 25260 25265	human
+#987	AnnotatorNotes T987	NCBITaxon:9606 (Homo sapiens)
+T988	NCBITaxon 25313 25318	human
+#988	AnnotatorNotes T988	NCBITaxon:9606 (Homo sapiens)
+T989	GO_BP 25368 25378	expression
+#989	AnnotatorNotes T989	GO:0010467 (gene expression)
+T990	EntrezGene 25382 25392	Annexin A7
+#990	AnnotatorNotes T990	EG:310
+T991	PR 25382 25392	Annexin A7
+#991	AnnotatorNotes T991	PR:000004080 (annexin A7)
+T992	CL 25430 25440	astrocytes
+#992	AnnotatorNotes T992	CL:0000127 (astrocyte)
+T993	GO_CC 25455 25462	nuclear
+#993	AnnotatorNotes T993	GO:0005634 (nucleus)
+T994	CL 25473 25490	Pyramidal neurons
+#994	AnnotatorNotes T994	CL:0000598 (pyramidal cell)
+T995	EntrezGene 25532 25542	Annexin A7
+#995	AnnotatorNotes T995	EG:310
+T996	PR 25532 25542	Annexin A7
+#996	AnnotatorNotes T996	PR:000004080 (annexin A7)
+T997	GO_CC 25570 25579	dendrites
+#997	AnnotatorNotes T997	GO:0030425 (dendrite)
+T998	CL 25620 25627	neurons
+#998	AnnotatorNotes T998	CL:0000540 (neuron)
+T999	NCBITaxon 25813 25818	human
+#999	AnnotatorNotes T999	NCBITaxon:9606 (Homo sapiens)
+T1000	GO_BP 25846 25850	aged
+#1000	AnnotatorNotes T1000	GO:0007568 (aging)
+T1001	NCBITaxon 25901 25905	mice
+#1001	AnnotatorNotes T1001	NCBITaxon:10088 (Mus)
+T1002	CL 25942 25947	cells
+#1002	AnnotatorNotes T1002	CL:0000000 (cell)
+T1003	GO_CC 25942 25947	cells
+#1003	AnnotatorNotes T1003	GO:0005623 (cell)
+T1004	GO_BP 25954 25978	cell damage or apoptosis
+#1004	AnnotatorNotes T1004	"cell .. apoptosis" GO:0006915 (apoptosis)
+T1005	CL 25954 25958	cell
+#1005	AnnotatorNotes T1005	CL:0000000 (cell)
+T1006	GO_CC 25954 25958	cell
+#1006	AnnotatorNotes T1006	GO:0005623 (cell)
+T1007	CL 26012 26017	cells
+#1007	AnnotatorNotes T1007	CL:0000000 (cell)
+T1008	GO_CC 26012 26017	cells
+#1008	AnnotatorNotes T1008	GO:0005623 (cell)
+T1009	CHEBI 26033 26047	Ca2+-ionophore
+#1009	AnnotatorNotes T1009	CHEBI:22986 (calcium ionophore)
+T1010	CHEBI 26033 26037	Ca2+
+#1010	AnnotatorNotes T1010	CHEBI:29108 (calcium(2+))
+T1011	sup 26035 26037	2+
+#1011	AnnotatorNotes T1011	sup (null)
+T1012	GO_MF 26038 26047	ionophore
+#1012	AnnotatorNotes T1012	GO:0022886 (channel-forming ionophore activity)
+T1013	independent_continuant 26038 26047	ionophore
+#1013	AnnotatorNotes T1013	independent_continuant
+T1014	PR 26048 26058	Annexin A7
+#1014	AnnotatorNotes T1014	PR:000004080 (annexin A7)
+T1015	GO_BP 26059 26071	translocated
+#1015	AnnotatorNotes T1015	GO:0006810 (transport)
+T1016	GO_CC 26081 26090	cytoplasm
+#1016	AnnotatorNotes T1016	GO:0005737 (cytoplasm)
+T1017	CL 26094 26102	cellular
+#1017	AnnotatorNotes T1017	CL:0000000 (cell)
+T1018	GO_CC 26094 26102	cellular
+#1018	AnnotatorNotes T1018	GO:0005623 (cell)
+T1019	GO_CC 26103 26112	membranes
+#1019	AnnotatorNotes T1019	GO:0016020 (membrane)
+T1020	EntrezGene 26158 26168	Annexin A7
+#1020	AnnotatorNotes T1020	EG:310
+T1021	PR 26158 26168	Annexin A7
+#1021	AnnotatorNotes T1021	PR:000004080 (annexin A7)
+T1022	CL 26186 26193	neurons
+#1022	AnnotatorNotes T1022	CL:0000540 (neuron)
+T1023	NCBITaxon 26201 26206	human
+#1023	AnnotatorNotes T1023	NCBITaxon:9606 (Homo sapiens)
+T1024	GO_BP 26240 26252	translocated
+#1024	AnnotatorNotes T1024	GO:0006810 (transport)
+T1025	CL 26260 26268	cellular
+#1025	AnnotatorNotes T1025	CL:0000000 (cell)
+T1026	GO_CC 26260 26268	cellular
+#1026	AnnotatorNotes T1026	GO:0005623 (cell)
+T1027	GO_CC 26269 26277	membrane
+#1027	AnnotatorNotes T1027	GO:0016020 (membrane)
+T1028	GO_BP 26296 26309	translocation
+#1028	AnnotatorNotes T1028	GO:0006810 (transport)
+T1029	GO_CC 26314 26322	membrane
+#1029	AnnotatorNotes T1029	GO:0016020 (membrane)
+T1030	GO_MF 26323 26330	binding
+#1030	AnnotatorNotes T1030	GO:0005488 (binding)
+T1031	GO_BP 26393 26402	apoptosis
+#1031	AnnotatorNotes T1031	GO:0006915 (apoptosis)
+T1032	GO_BP 26420 26431	recombinant
+#1032	AnnotatorNotes T1032	GO:0006310 (DNA recombination)
+T1033	PR 26432 26441	AnnexinA5
+#1033	AnnotatorNotes T1033	PR:000004078 (annexin A5)
+T1034	GO_CC 26459 26466	nuclear
+#1034	AnnotatorNotes T1034	GO:0005634 (nucleus)
+T1035	EntrezGene 26467 26477	Annexin A7
+#1035	AnnotatorNotes T1035	EG:11750
+T1036	PR 26467 26477	Annexin A7
+#1036	AnnotatorNotes T1036	PR:000004080 (annexin A7)
+T1037	NCBITaxon 26481 26487	murine
+#1037	AnnotatorNotes T1037	NCBITaxon:39107 (Murinae)
+T1038	italic 26544 26549	AnxA7
+#1038	AnnotatorNotes T1038	italic (null)
+T1039	PR 26544 26549	AnxA7
+#1039	AnnotatorNotes T1039	PR:000004080 (annexin A7)
+T1040	EntrezGene 26544 26549	AnxA7
+#1040	AnnotatorNotes T1040	EG:11750
+T1041	sup 26549 26552	-/-
+#1041	AnnotatorNotes T1041	sup (null)
+T1042	NCBITaxon 26553 26558	mouse
+#1042	AnnotatorNotes T1042	NCBITaxon:10088 (Mus)
+T1043	CHEBI 26598 26605	protein
+#1043	AnnotatorNotes T1043	CHEBI:36080 (proteins)
+T1044	GO_CC 26615 26622	nucleus
+#1044	AnnotatorNotes T1044	GO:0005634 (nucleus)
+T1045	EntrezGene 26629 26639	Annexin A7
+#1045	AnnotatorNotes T1045	EG:155423
+T1046	PR 26629 26639	Annexin A7
+#1046	AnnotatorNotes T1046	PR:000004080 (annexin A7)
+T1047	SO 26640 26648	isoforms
+#1047	AnnotatorNotes T1047	SO:0001060 (sequence_variant)
+T1048	GO_BP 26689 26698	expressed
+#1048	AnnotatorNotes T1048	GO:0010467 (gene expression)
+T1049	CL 26702 26709	neurons
+#1049	AnnotatorNotes T1049	CL:0000540 (neuron)
+T1050	CL 26714 26724	astrocytes
+#1050	AnnotatorNotes T1050	CL:0000127 (astrocyte)
+T1051	CL 26754 26758	cell
+#1051	AnnotatorNotes T1051	CL:0000000 (cell)
+T1052	GO_CC 26754 26758	cell
+#1052	AnnotatorNotes T1052	GO:0005623 (cell)
+T1053	CL 26803 26808	cells
+#1053	AnnotatorNotes T1053	CL:0000000 (cell)
+T1054	GO_CC 26803 26808	cells
+#1054	AnnotatorNotes T1054	GO:0005623 (cell)
+T1055	GO_BP 26831 26841	expression
+#1055	AnnotatorNotes T1055	GO:0010467 (gene expression)
+T1056	PR 26857 26867	Annexin A7
+#1056	AnnotatorNotes T1056	PR:000004080 (annexin A7)
+T1057	SO 26868 26876	isoforms
+#1057	AnnotatorNotes T1057	SO:0001060 (sequence_variant)
+T1058	CL 26922 26937	red blood cells
+#1058	AnnotatorNotes T1058	CL:0000232 (erythrocyte)
+T1059	GO_CC 26932 26937	cells
+#1059	AnnotatorNotes T1059	GO:0005623 (cell)
+T1060	EntrezGene 26979 26989	annexin A7
+#1060	AnnotatorNotes T1060	EG:11750
+T1061	PR 26979 26989	annexin A7
+#1061	AnnotatorNotes T1061	PR:000004080 (annexin A7)
+T1062	SO 26990 26994	gene
+#1062	AnnotatorNotes T1062	SO:0000704 (gene)
+T1063	GO_BP 27036 27047	development
+#1063	AnnotatorNotes T1063	GO:0032502 (developmental process)
+T1064	NCBITaxon 27061 27065	mice
+#1064	AnnotatorNotes T1064	NCBITaxon:10088 (Mus)
+T1065	GO_BP 27078 27088	generation
+#1065	AnnotatorNotes T1065	GO:0000003 (reproduction)
+T1066	EntrezGene 27123 27133	Annexin A7
+#1066	AnnotatorNotes T1066	EG:11750
+T1067	PR 27123 27133	Annexin A7
+#1067	AnnotatorNotes T1067	PR:000004080 (annexin A7)
+T1068	CL 27146 27150	cell
+#1068	AnnotatorNotes T1068	CL:0000000 (cell)
+T1069	GO_CC 27146 27150	cell
+#1069	AnnotatorNotes T1069	GO:0005623 (cell)
+T1070	CL 27197 27207	astrocytes
+#1070	AnnotatorNotes T1070	CL:0000127 (astrocyte)
+T1071	italic 27216 27221	AnxA7
+#1071	AnnotatorNotes T1071	italic (null)
+T1072	PR 27216 27221	AnxA7
+#1072	AnnotatorNotes T1072	PR:000004080 (annexin A7)
+T1073	EntrezGene 27216 27221	AnxA7
+#1073	AnnotatorNotes T1073	EG:11750
+T1074	sup 27221 27224	-/-
+#1074	AnnotatorNotes T1074	sup (null)
+T1075	NCBITaxon 27225 27230	mouse
+#1075	AnnotatorNotes T1075	NCBITaxon:10088 (Mus)
+T1076	GO_BP 27235 27269	Ca2+-dependent signaling processes
+#1076	AnnotatorNotes T1076	GO:0019722 (calcium-mediated signaling)
+T1077	CHEBI 27235 27239	Ca2+
+#1077	AnnotatorNotes T1077	CHEBI:29108 (calcium(2+))
+T1078	sup 27237 27239	2+
+#1078	AnnotatorNotes T1078	sup (null)
+T1079	CL 27359 27369	astrocytic
+#1079	AnnotatorNotes T1079	CL:0000127 (astrocyte)
+T1080	CHEBI 27370 27374	Ca2+
+#1080	AnnotatorNotes T1080	CHEBI:29108 (calcium(2+))
+T1081	sup 27372 27374	2+
+#1081	AnnotatorNotes T1081	sup (null)
+T1082	SO 27396 27405	wild type
+#1082	AnnotatorNotes T1082	SO:0000817 (wild_type)
+T1083	independent_continuant 27396 27405	wild type
+#1083	AnnotatorNotes T1083	independent_continuant
+T1084	EntrezGene 27440 27450	Annexin A7
+#1084	AnnotatorNotes T1084	EG:11750
+T1085	PR 27440 27450	Annexin A7
+#1085	AnnotatorNotes T1085	PR:000004080 (annexin A7)
+T1086	CHEBI 27464 27468	Ca2+
+#1086	AnnotatorNotes T1086	CHEBI:29108 (calcium(2+))
+T1087	sup 27466 27468	2+
+#1087	AnnotatorNotes T1087	sup (null)
+T1088	CHEBI 27469 27475	buffer
+#1088	AnnotatorNotes T1088	CHEBI:35225 (buffer)
+T1089	GO_BP 27495 27511	Ca2+-homeostasis
+#1089	AnnotatorNotes T1089	GO:0055074 (calcium ion homeostasis)
+T1090	CHEBI 27495 27499	Ca2+
+#1090	AnnotatorNotes T1090	CHEBI:29108 (calcium(2+))
+T1091	sup 27497 27499	2+
+#1091	AnnotatorNotes T1091	sup (null)
+T1092	CL 27516 27523	neurons
+#1092	AnnotatorNotes T1092	CL:0000540 (neuron)
+T1093	CHEBI 27524 27533	Ca2+ ions
+#1093	AnnotatorNotes T1093	CHEBI:29108 (calcium(2+))
+T1094	sup 27526 27528	2+
+#1094	AnnotatorNotes T1094	sup (null)
+T1095	GO_BP 27562 27608	physiological and pathophysiological processes
+#1095	AnnotatorNotes T1095	"physiological .. processes" GO:0008150 (biological_process)
+T1096	EntrezGene 27660 27670	Annexin A7
+#1096	AnnotatorNotes T1096	EG:11750
+T1097	PR 27660 27670	Annexin A7
+#1097	AnnotatorNotes T1097	PR:000004080 (annexin A7)
+T1098	GO_BP 27678 27688	regulation
+#1098	AnnotatorNotes T1098	GO:0065007 (biological regulation)
+T1099	CHEBI 27698 27702	Ca2+
+#1099	AnnotatorNotes T1099	CHEBI:29108 (calcium(2+))
+T1100	sup 27700 27702	2+
+#1100	AnnotatorNotes T1100	sup (null)
+T1101	GO_BP 27808 27822	heart function
+#1101	AnnotatorNotes T1101	GO:0003015 (heart process)
+T1102	PR 27899 27909	Annexin A7
+#1102	AnnotatorNotes T1102	PR:000004080 (annexin A7)
+T1103	GO_BP 27972 27988	Ca2+-homeostasis
+#1103	AnnotatorNotes T1103	GO:0055074 (calcium ion homeostasis)
+T1104	CHEBI 27972 27976	Ca2+
+#1104	AnnotatorNotes T1104	CHEBI:29108 (calcium(2+))
+T1105	sup 27974 27976	2+
+#1105	AnnotatorNotes T1105	sup (null)
+T1106	GO_BP 28030 28043	embryogenesis
+#1106	AnnotatorNotes T1106	GO:0009790 (embryonic development)
+T1107	PR 28066 28077	Annexin A11
+#1107	AnnotatorNotes T1107	PR:000004073 (annexin A11)
+T1108	GO_BP 28083 28093	developing
+#1108	AnnotatorNotes T1108	GO:0032502 (developmental process)
+T1109	NCBITaxon 28113 28116	rat
+#1109	AnnotatorNotes T1109	NCBITaxon:10114 (Rattus)
+T1110	GO_CC 28159 28166	nuclear
+#1110	AnnotatorNotes T1110	GO:0005634 (nucleus)
+T1111	GO_BP 28167 28179	localization
+#1111	AnnotatorNotes T1111	GO:0051179 (localization)
+T1112	PR 28183 28194	Annexin A11
+#1112	AnnotatorNotes T1112	PR:000004073 (annexin A11)
+T1113	GO_CC 28237 28243	nuclei
+#1113	AnnotatorNotes T1113	GO:0005634 (nucleus)
+T1114	GO_BP 28307 28363	relocation of Annexin A7 from the cytosol to the nucleus
+#1114	AnnotatorNotes T1114	"relocation .. to .. nucleus" GO:0051170 (nuclear import)
+T1115	EntrezGene 28321 28331	Annexin A7
+#1115	AnnotatorNotes T1115	EG:11750
+T1116	PR 28321 28331	Annexin A7
+#1116	AnnotatorNotes T1116	PR:000004080 (annexin A7)
+T1117	GO_CC 28341 28348	cytosol
+#1117	AnnotatorNotes T1117	GO:0005829 (cytosol)
+T1118	GO_CC 28356 28363	nucleus
+#1118	AnnotatorNotes T1118	GO:0005634 (nucleus)
+T1119	CL 28367 28372	cells
+#1119	AnnotatorNotes T1119	CL:0000000 (cell)
+T1120	GO_CC 28367 28372	cells
+#1120	AnnotatorNotes T1120	GO:0005623 (cell)
+T1121	CL 28390 28398	neuronal
+#1121	AnnotatorNotes T1121	CL:0000540 (neuron)
+T1122	PR 28411 28421	Annexin A7
+#1122	AnnotatorNotes T1122	PR:000004080 (annexin A7)
+T1123	GO_BP 28422 28434	distribution
+#1123	AnnotatorNotes T1123	GO:0051179 (localization)
+T1124	CHEBI 28505 28509	Ca2+
+#1124	AnnotatorNotes T1124	CHEBI:29108 (calcium(2+))
+T1125	sup 28507 28509	2+
+#1125	AnnotatorNotes T1125	sup (null)
+T1126	GO_BP 28517 28525	promotes
+#1126	AnnotatorNotes T1126	GO:0048518 (positive regulation of biological process)
+T1127	GO_MF 28526 28533	binding
+#1127	AnnotatorNotes T1127	GO:0005488 (binding)
+T1128	PR 28537 28547	Annexin A7
+#1128	AnnotatorNotes T1128	PR:000004080 (annexin A7)
+T1129	GO_CC 28551 28560	membranes
+#1129	AnnotatorNotes T1129	GO:0016020 (membrane)
+T1130	GO_MF 28607 28614	Binding
+#1130	AnnotatorNotes T1130	GO:0005488 (binding)
+T1131	PR 28627 28637	Annexin A7
+#1131	AnnotatorNotes T1131	PR:000004080 (annexin A7)
+T1132	PR 28646 28652	sorcin
+#1132	AnnotatorNotes T1132	PR:000015619 (sorcin)
+T1133	GO_CC 28764 28779	plasma membrane
+#1133	AnnotatorNotes T1133	GO:0005886 (plasma membrane)
+T1134	GO_CC 28788 28797	cytoplasm
+#1134	AnnotatorNotes T1134	GO:0005737 (cytoplasm)
+T1135	GO_CC 28825 28837	cytoskeleton
+#1135	AnnotatorNotes T1135	GO:0005856 (cytoskeleton)
+T1136	PR 28839 28870	Annexins A1, A2, A4, A5 and A11
+#1136	AnnotatorNotes T1136	"Annexins .. A11" PR:000004073 (annexin A11)
+T1137	PR 28839 28862	Annexins A1, A2, A4, A5
+#1137	AnnotatorNotes T1137	"Annexins .. A5" PR:000004078 (annexin A5)
+T1138	PR 28839 28858	Annexins A1, A2, A4
+#1138	AnnotatorNotes T1138	"Annexins .. A4" PR:000004077 (annexin A4)
+T1139	PR 28839 28854	Annexins A1, A2
+#1139	AnnotatorNotes T1139	"Annexins .. A2" PR:000004075 (annexin A2)
+T1140	PR 28839 28850	Annexins A1
+#1140	AnnotatorNotes T1140	PR:000004071 (annexin A1)
+T1141	GO_BP 28897 28906	localized
+#1141	AnnotatorNotes T1141	GO:0051179 (localization)
+T1142	GO_CC 28933 28940	nucleus
+#1142	AnnotatorNotes T1142	GO:0005634 (nucleus)
+T1143	NCBITaxon 28966 28971	human
+#1143	AnnotatorNotes T1143	NCBITaxon:9606 (Homo sapiens)
+T1144	CL 28981 28992	fibroblasts
+#1144	AnnotatorNotes T1144	CL:0000057 (fibroblast)
+T1145	EntrezGene 29011 29032	Annexin A1, A4 and A5
+#1145	AnnotatorNotes T1145	"Annexin .. A5" EG:308
+T1146	PR 29011 29032	Annexin A1, A4 and A5
+#1146	AnnotatorNotes T1146	"Annexin .. A5" PR:000004078 (annexin A5)
+T1147	EntrezGene 29011 29025	Annexin A1, A4
+#1147	AnnotatorNotes T1147	"Annexin .. A4" EG:307
+T1148	PR 29011 29025	Annexin A1, A4
+#1148	AnnotatorNotes T1148	"Annexin .. A4" PR:000004077 (annexin A4)
+T1149	EntrezGene 29011 29021	Annexin A1
+#1149	AnnotatorNotes T1149	EG:301
+T1150	PR 29011 29021	Annexin A1
+#1150	AnnotatorNotes T1150	PR:000004071 (annexin A1)
+T1151	GO_CC 29056 29063	nucleus
+#1151	AnnotatorNotes T1151	GO:0005634 (nucleus)
+T1152	GO_CC 29100 29107	cytosol
+#1152	AnnotatorNotes T1152	GO:0005829 (cytosol)
+T1153	GO_CC 29122 29135	intracellular
+#1153	AnnotatorNotes T1153	GO:0005622 (intracellular)
+T1154	CHEBI 29136 29140	Ca2+
+#1154	AnnotatorNotes T1154	CHEBI:29108 (calcium(2+))
+T1155	sup 29138 29140	2+
+#1155	AnnotatorNotes T1155	sup (null)
+T1156	GO_BP 29148 29158	relocation
+#1156	AnnotatorNotes T1156	GO:0006810 (transport)
+T1157	GO_CC 29184 29200	nuclear membrane
+#1157	AnnotatorNotes T1157	GO:0031965 (nuclear membrane)
+T1158	GO_CC 29184 29191	nuclear
+#1158	AnnotatorNotes T1158	GO:0005634 (nucleus)
+T1159	CHEBI 29250 29254	Ca2+
+#1159	AnnotatorNotes T1159	CHEBI:29108 (calcium(2+))
+T1160	sup 29252 29254	2+
+#1160	AnnotatorNotes T1160	sup (null)
+T1161	GO_CC 29273 29279	nuclei
+#1161	AnnotatorNotes T1161	GO:0005634 (nucleus)
+T1162	CL 29287 29298	fibroblasts
+#1162	AnnotatorNotes T1162	CL:0000057 (fibroblast)
+T1163	GO_BP 29354 29365	transfected
+#1163	AnnotatorNotes T1163	GO:0009294 (DNA mediated transformation)
+T1164	CL 29369 29374	cells
+#1164	AnnotatorNotes T1164	CL:0000000 (cell)
+T1165	GO_CC 29369 29374	cells
+#1165	AnnotatorNotes T1165	GO:0005623 (cell)
+T1166	GO_CC 29390 29403	intracellular
+#1166	AnnotatorNotes T1166	GO:0005622 (intracellular)
+T1167	CHEBI 29404 29408	Ca2+
+#1167	AnnotatorNotes T1167	CHEBI:29108 (calcium(2+))
+T1168	sup 29406 29408	2+
+#1168	AnnotatorNotes T1168	sup (null)
+T1169	PR 29459 29469	Annexin A7
+#1169	AnnotatorNotes T1169	PR:000004080 (annexin A7)
+T1170	GO_BP 29479 29534	localization in the nucleoplasm to the nuclear membrane
+#1170	AnnotatorNotes T1170	"localization .. to .. membrane" GO:0051668 (localization within membrane)
+T1171	GO_CC 29499 29510	nucleoplasm
+#1171	AnnotatorNotes T1171	GO:0005654 (nucleoplasm)
+T1172	GO_CC 29518 29534	nuclear membrane
+#1172	AnnotatorNotes T1172	GO:0031965 (nuclear membrane)
+T1173	GO_CC 29518 29525	nuclear
+#1173	AnnotatorNotes T1173	GO:0005634 (nucleus)
+T1174	GO_CC 29582 29589	nuclear
+#1174	AnnotatorNotes T1174	GO:0005634 (nucleus)
+T1175	GO_BP 29590 29602	localization
+#1175	AnnotatorNotes T1175	GO:0051179 (localization)
+T1176	SO 29603 29609	signal
+#1176	AnnotatorNotes T1176	SO:0000725 (transit_peptide)
+T1177	SO 29603 29609	signal
+#1177	AnnotatorNotes T1177	SO:0000418 (signal_peptide)
+T1178	GO_BP 29620 29647	mechanism of nuclear import
+#1178	AnnotatorNotes T1178	GO:0051170 (nuclear import)
+T1179	GO_CC 29633 29640	nuclear
+#1179	AnnotatorNotes T1179	GO:0005634 (nucleus)
+T1180	EntrezGene 29678 29689	Annexin A11
+#1180	AnnotatorNotes T1180	EG:100009511
+T1181	PR 29678 29689	Annexin A11
+#1181	AnnotatorNotes T1181	PR:000004073 (annexin A11)
+T1182	GO_CC 29708 29715	nuclear
+#1182	AnnotatorNotes T1182	GO:0005634 (nucleus)
+T1183	GO_BP 29716 29728	localization
+#1183	AnnotatorNotes T1183	GO:0051179 (localization)
+T1184	SO 29748 29765	N-terminal region
+#1184	AnnotatorNotes T1184	SO:0100014 (n_terminal_region)
+T1185	CHEBI 29748 29749	N
+#1185	AnnotatorNotes T1185	CHEBI:46882 (amino group)
+T1186	SO 29789 29801	binding side
+#1186	AnnotatorNotes T1186	SO:0000409 (binding_site)
+T1187	GO_MF 29789 29796	binding
+#1187	AnnotatorNotes T1187	GO:0005488 (binding)
+T1188	CHEBI 29815 29822	protein
+#1188	AnnotatorNotes T1188	CHEBI:36080 (proteins)
+T1189	PR 29823 29832	calcyclin
+#1189	AnnotatorNotes T1189	PR:000014413 (protein S100-A6)
+T1190	EntrezGene 29886 29897	Annexin A11
+#1190	AnnotatorNotes T1190	EG:311
+T1191	PR 29886 29897	Annexin A11
+#1191	AnnotatorNotes T1191	PR:000004073 (annexin A11)
+T1192	EntrezGene 29902 29908	S100A6
+#1192	AnnotatorNotes T1192	EG:6277
+T1193	PR 29902 29908	S100A6
+#1193	AnnotatorNotes T1193	PR:000014413 (protein S100-A6)
+T1194	GO_BP 29909 29917	assemble
+#1194	AnnotatorNotes T1194	GO:0051179 (localization)
+T1195	GO_CC 29925 29941	nuclear envelope
+#1195	AnnotatorNotes T1195	GO:0005635 (nuclear envelope)
+T1196	GO_CC 29925 29932	nuclear
+#1196	AnnotatorNotes T1196	GO:0005634 (nucleus)
+T1197	GO_BP 29949 29966	nuclear breakdown
+#1197	AnnotatorNotes T1197	GO:0000280 (nuclear division)
+T1198	GO_CC 29949 29956	nuclear
+#1198	AnnotatorNotes T1198	GO:0005634 (nucleus)
+T1199	GO_CC 30038 30045	nuclear
+#1199	AnnotatorNotes T1199	GO:0005634 (nucleus)
+T1200	GO_BP 30046 30058	localization
+#1200	AnnotatorNotes T1200	GO:0051179 (localization)
+T1201	GO_BP 30087 30096	regulated
+#1201	AnnotatorNotes T1201	GO:0065007 (biological regulation)
+T1202	GO_BP 30132 30152	compartmentalization
+#1202	AnnotatorNotes T1202	GO:0051179 (localization)
+T1203	EntrezGene 30156 30166	Annexin A2
+#1203	AnnotatorNotes T1203	EG:302
+T1204	PR 30156 30166	Annexin A2
+#1204	AnnotatorNotes T1204	PR:000004075 (annexin A2)
+T1205	GO_BP 30170 30180	controlled
+#1205	AnnotatorNotes T1205	GO:0065007 (biological regulation)
+T1206	GO_BP 30184 30197	sequestration
+#1206	AnnotatorNotes T1206	GO:0051235 (maintenance of localization)
+T1207	EntrezGene 30205 30210	AnxA2
+#1207	AnnotatorNotes T1207	EG:302
+T1208	PR 30205 30210	AnxA2
+#1208	AnnotatorNotes T1208	PR:000004075 (annexin A2)
+T1209	EntrezGene 30211 30214	p11
+#1209	AnnotatorNotes T1209	EG:6281
+T1210	PR 30211 30214	p11
+#1210	AnnotatorNotes T1210	PR:000014403 (protein S100-A10)
+T1211	GO_CC 30215 30222	complex
+#1211	AnnotatorNotes T1211	GO:0032991 (macromolecular complex)
+T1212	GO_BP 30223 30232	modulated
+#1212	AnnotatorNotes T1212	GO:0065007 (biological regulation)
+T1213	GO_BP 30236 30251	phosphorylation
+#1213	AnnotatorNotes T1213	GO:0016310 (phosphorylation)
+T1214	GO_BP 30261 30275	nuclear export
+#1214	AnnotatorNotes T1214	GO:0051168 (nuclear export)
+T1215	GO_CC 30261 30268	nuclear
+#1215	AnnotatorNotes T1215	GO:0005634 (nucleus)
+T1216	SO 30276 30282	signal
+#1216	AnnotatorNotes T1216	SO:0000725 (transit_peptide)
+T1217	SO 30276 30282	signal
+#1217	AnnotatorNotes T1217	SO:0000418 (signal_peptide)
+T1218	EntrezGene 30296 30301	AnxA2
+#1218	AnnotatorNotes T1218	EG:302
+T1219	PR 30296 30301	AnxA2
+#1219	AnnotatorNotes T1219	PR:000004075 (annexin A2)
+T1220	SO 30307 30313	region
+#1220	AnnotatorNotes T1220	SO:0000001 (region)
+T1221	EntrezGene 30336 30346	Annexin A2
+#1221	AnnotatorNotes T1221	EG:302
+T1222	PR 30336 30346	Annexin A2
+#1222	AnnotatorNotes T1222	PR:000004075 (annexin A2)
+T1223	GO_CC 30354 30361	nucleus
+#1223	AnnotatorNotes T1223	GO:0005634 (nucleus)
+T1224	GO_MF 30391 30398	binding
+#1224	AnnotatorNotes T1224	GO:0005488 (binding)
+T1225	EntrezGene 30402 30405	p11
+#1225	AnnotatorNotes T1225	EG:6281
+T1226	PR 30402 30405	p11
+#1226	AnnotatorNotes T1226	PR:000014403 (protein S100-A10)
+T1227	SO 30459 30465	primer
+#1227	AnnotatorNotes T1227	SO:0000112 (primer)
+T1228	GO_CC 30478 30493	protein complex
+#1228	AnnotatorNotes T1228	GO:0043234 (protein complex)
+T1229	CHEBI 30478 30485	protein
+#1229	AnnotatorNotes T1229	CHEBI:36080 (proteins)
+T1230	GO_BP 30499 30507	enhances
+#1230	AnnotatorNotes T1230	GO:0048518 (positive regulation of biological process)
+T1231	independent_continuant 30508 30523	DNA polymeraseα
+#1231	AnnotatorNotes T1231	independent_continuant
+T1232	GO_MF 30508 30523	DNA polymeraseα
+#1232	AnnotatorNotes T1232	GO:0003889 (alpha DNA polymerase activity)
+T1233	SO 30508 30511	DNA
+#1233	AnnotatorNotes T1233	SO:0000352 (DNA)
+T1234	GO_CC 30582 30589	nuclear
+#1234	AnnotatorNotes T1234	GO:0005634 (nucleus)
+T1235	GO_BP 30590 30598	response
+#1235	AnnotatorNotes T1235	GO:0050896 (response to stimulus)
+T1236	GO_BP 30610 30626	cell stimulation
+#1236	AnnotatorNotes T1236	GO:0001775 (cell activation)
+T1237	CL 30610 30614	cell
+#1237	AnnotatorNotes T1237	CL:0000000 (cell)
+T1238	GO_CC 30610 30614	cell
+#1238	AnnotatorNotes T1238	GO:0005623 (cell)
+T1239	CHEBI 30635 30639	Ca2+
+#1239	AnnotatorNotes T1239	CHEBI:29108 (calcium(2+))
+T1240	sup 30637 30639	2+
+#1240	AnnotatorNotes T1240	sup (null)
+T1241	GO_BP 30665 30675	regulating
+#1241	AnnotatorNotes T1241	GO:0065007 (biological regulation)
+T1242	GO_BP 30676 30691	DNA replication
+#1242	AnnotatorNotes T1242	GO:0006260 (DNA replication)
+T1243	SO 30676 30679	DNA
+#1243	AnnotatorNotes T1243	SO:0000352 (DNA)
+T1244	EntrezGene 30697 30707	Annexin A7
+#1244	AnnotatorNotes T1244	EG:11750
+T1245	PR 30697 30707	Annexin A7
+#1245	AnnotatorNotes T1245	PR:000004080 (annexin A7)
+T1246	GO_CC 30862 30869	nuclear
+#1246	AnnotatorNotes T1246	GO:0005634 (nucleus)
+T1247	GO_BP 30870 30882	localization
+#1247	AnnotatorNotes T1247	GO:0051179 (localization)
+T1248	SO 30883 30889	signal
+#1248	AnnotatorNotes T1248	SO:0000725 (transit_peptide)
+T1249	SO 30883 30889	signal
+#1249	AnnotatorNotes T1249	SO:0000418 (signal_peptide)
+T1250	EntrezGene 30893 30903	Annexin A7
+#1250	AnnotatorNotes T1250	EG:11750
+T1251	PR 30893 30903	Annexin A7
+#1251	AnnotatorNotes T1251	PR:000004080 (annexin A7)
+T1252	EntrezGene 30930 30940	Annexin A7
+#1252	AnnotatorNotes T1252	EG:11750
+T1253	PR 30930 30940	Annexin A7
+#1253	AnnotatorNotes T1253	PR:000004080 (annexin A7)
+T1254	GO_CC 30948 30967	nuclear compartment
+#1254	AnnotatorNotes T1254	GO:0005634 (nucleus)
+T1255	GO_BP 31012 31049	translocation of Annexin A7 to nuclei
+#1255	AnnotatorNotes T1255	"translocation .. to nuclei" GO:0051170 (nuclear import)
+T1256	EntrezGene 31029 31039	Annexin A7
+#1256	AnnotatorNotes T1256	EG:11750
+T1257	PR 31029 31039	Annexin A7
+#1257	AnnotatorNotes T1257	PR:000004080 (annexin A7)
+T1258	GO_CC 31043 31049	nuclei
+#1258	AnnotatorNotes T1258	GO:0005634 (nucleus)
+T1259	GO_BP 31053 31068	differentiating
+#1259	AnnotatorNotes T1259	GO:0030154 (cell differentiation)
+T1260	CL 31069 31074	cells
+#1260	AnnotatorNotes T1260	CL:0000000 (cell)
+T1261	GO_CC 31069 31074	cells
+#1261	AnnotatorNotes T1261	GO:0005623 (cell)
+T1262	GO_BP 31082 31092	developing
+#1262	AnnotatorNotes T1262	GO:0032502 (developmental process)
+T1263	NCBITaxon 31093 31099	murine
+#1263	AnnotatorNotes T1263	NCBITaxon:39107 (Murinae)
+T1264	EntrezGene 31126 31136	Annexin A7
+#1264	AnnotatorNotes T1264	EG:11750
+T1265	PR 31126 31136	Annexin A7
+#1265	AnnotatorNotes T1265	PR:000004080 (annexin A7)
+T1266	GO_CC 31163 31169	nuclei
+#1266	AnnotatorNotes T1266	GO:0005634 (nucleus)
+T1267	CL 31173 31180	neurons
+#1267	AnnotatorNotes T1267	CL:0000540 (neuron)
+T1268	CL 31182 31192	Astrocytes
+#1268	AnnotatorNotes T1268	CL:0000127 (astrocyte)
+T1269	CL 31205 31219	Purkinje-cells
+#1269	AnnotatorNotes T1269	CL:0000121 (Purkinje cell)
+T1270	GO_CC 31214 31219	cells
+#1270	AnnotatorNotes T1270	GO:0005623 (cell)
+T1271	CL 31236 31253	pyramidal neurons
+#1271	AnnotatorNotes T1271	CL:0000598 (pyramidal cell)
+T1272	EntrezGene 31270 31280	Annexin A7
+#1272	AnnotatorNotes T1272	EG:11750
+T1273	PR 31270 31280	Annexin A7
+#1273	AnnotatorNotes T1273	PR:000004080 (annexin A7)
+T1274	GO_CC 31288 31295	cytosol
+#1274	AnnotatorNotes T1274	GO:0005829 (cytosol)
+T1275	GO_CC 31307 31313	nuclei
+#1275	AnnotatorNotes T1275	GO:0005634 (nucleus)
+T1276	GO_BP 31325 31349	subcellular localisation
+#1276	AnnotatorNotes T1276	GO:0051641 (cellular localization)
+T1277	EntrezGene 31353 31363	Annexin A7
+#1277	AnnotatorNotes T1277	EG:11750
+T1278	PR 31353 31363	Annexin A7
+#1278	AnnotatorNotes T1278	PR:000004080 (annexin A7)
+T1279	GO_BP 31379 31392	developmental
+#1279	AnnotatorNotes T1279	GO:0032502 (developmental process)
+T1280	CL 31407 31411	cell
+#1280	AnnotatorNotes T1280	CL:0000000 (cell)
+T1281	GO_CC 31407 31411	cell
+#1281	AnnotatorNotes T1281	GO:0005623 (cell)
+T1282	EntrezGene 31428 31438	Annexin A7
+#1282	AnnotatorNotes T1282	EG:155423
+T1283	PR 31428 31438	Annexin A7
+#1283	AnnotatorNotes T1283	PR:000004080 (annexin A7)
+T1284	GO_CC 31471 31477	nuclei
+#1284	AnnotatorNotes T1284	GO:0005634 (nucleus)
+T1285	EntrezGene 31574 31584	Annexin A7
+#1285	AnnotatorNotes T1285	EG:155423
+T1286	PR 31574 31584	Annexin A7
+#1286	AnnotatorNotes T1286	PR:000004080 (annexin A7)
+T1287	GO_CC 31590 31596	nuclei
+#1287	AnnotatorNotes T1287	GO:0005634 (nucleus)
+T1288	CL 31600 31623	neuronal and glial cell
+#1288	AnnotatorNotes T1288	"neuronal .. cell" CL:0000540 (neuron)
+T1289	CL 31613 31623	glial cell
+#1289	AnnotatorNotes T1289	CL:0000125 (glial cell)
+T1290	GO_CC 31619 31623	cell
+#1290	AnnotatorNotes T1290	GO:0005623 (cell)
+T1291	NCBITaxon 31641 31648	Animals
+#1291	AnnotatorNotes T1291	NCBITaxon:33208 (Metazoa)
+T1292	NCBITaxon 31686 31690	mice
+#1292	AnnotatorNotes T1292	NCBITaxon:10088 (Mus)
+T1293	NCBITaxon 31777 31783	animal
+#1293	AnnotatorNotes T1293	NCBITaxon:33208 (Metazoa)
+T1294	NCBITaxon 31875 31882	Animals
+#1294	AnnotatorNotes T1294	NCBITaxon:33208 (Metazoa)
+T1295	GO_BP 31912 31920	Pregnant
+#1295	AnnotatorNotes T1295	GO:0007565 (female pregnancy)
+T1296	NCBITaxon 32192 32199	animals
+#1296	AnnotatorNotes T1296	NCBITaxon:33208 (Metazoa)
+T1297	GO_BP 32208 32221	developmental
+#1297	AnnotatorNotes T1297	GO:0032502 (developmental process)
+T1298	NCBITaxon 32268 32272	mice
+#1298	AnnotatorNotes T1298	NCBITaxon:10088 (Mus)
+T1299	CHEBI 32465 32472	ethanol
+#1299	AnnotatorNotes T1299	CHEBI:16236 (ethanol)
+T1300	NCBITaxon 32627 32632	Human
+#1300	AnnotatorNotes T1300	NCBITaxon:9606 (Homo sapiens)
+T1301	NCBITaxon 32652 32657	human
+#1301	AnnotatorNotes T1301	NCBITaxon:9606 (Homo sapiens)
+T1302	CHEBI 32825 32837	formaldehyde
+#1302	AnnotatorNotes T1302	CHEBI:16842 (formaldehyde)
+T1303	GO_CC 33217 33227	Antibodies
+#1303	AnnotatorNotes T1303	GO:0019814 (immunoglobulin complex)
+T1304	GO_CC 33229 33239	Antibodies
+#1304	AnnotatorNotes T1304	GO:0019814 (immunoglobulin complex)
+T1305	SO 33302 33308	domain
+#1305	AnnotatorNotes T1305	SO:0000417 (polypeptide_domain)
+T1306	EntrezGene 33312 33328	mouse Annexin A7
+#1306	AnnotatorNotes T1306	EG:11750
+T1307	NCBITaxon 33312 33317	mouse
+#1307	AnnotatorNotes T1307	NCBITaxon:10088 (Mus)
+T1308	PR 33318 33328	Annexin A7
+#1308	AnnotatorNotes T1308	PR:000004080 (annexin A7)
+T1309	EntrezGene 33384 33394	Annexin A7
+#1309	AnnotatorNotes T1309	EG:11750
+T1310	PR 33384 33394	Annexin A7
+#1310	AnnotatorNotes T1310	PR:000004080 (annexin A7)
+T1311	SO 33395 33403	isoforms
+#1311	AnnotatorNotes T1311	SO:0001060 (sequence_variant)
+T1312	GO_CC 33447 33455	antibody
+#1312	AnnotatorNotes T1312	GO:0019814 (immunoglobulin complex)
+T1313	EntrezGene 33464 33480	mouse Annexin A7
+#1313	AnnotatorNotes T1313	EG:11750
+T1314	NCBITaxon 33464 33469	mouse
+#1314	AnnotatorNotes T1314	NCBITaxon:10088 (Mus)
+T1315	PR 33470 33480	Annexin A7
+#1315	AnnotatorNotes T1315	PR:000004080 (annexin A7)
+T1316	CL 33537 33546	astrocyte
+#1316	AnnotatorNotes T1316	CL:0000127 (astrocyte)
+T1317	GO_CC 33556 33577	intermediate filament
+#1317	AnnotatorNotes T1317	GO:0005882 (intermediate filament)
+T1318	PR 33578 33609	glial fibrillary acidic protein
+#1318	AnnotatorNotes T1318	PR:000007939 (glial fibrillary acidic protein)
+T1319	CL 33578 33583	glial
+#1319	AnnotatorNotes T1319	CL:0000125 (glial cell)
+T1320	CHEBI 33595 33601	acidic
+#1320	AnnotatorNotes T1320	CHEBI:37527 (acid)
+T1321	CHEBI 33602 33609	protein
+#1321	AnnotatorNotes T1321	CHEBI:36080 (proteins)
+T1322	PR 33611 33615	GFAP
+#1322	AnnotatorNotes T1322	PR:000007939 (glial fibrillary acidic protein)
+T1323	GO_CC 33638 33645	tubulin
+#1323	AnnotatorNotes T1323	GO:0045298 (tubulin complex)
+T1324	PR 33668 33674	Emerin
+#1324	AnnotatorNotes T1324	PR:000007050 (emerin)
+T1325	GO_CC 33862 33870	antibody
+#1325	AnnotatorNotes T1325	GO:0019814 (immunoglobulin complex)
+T1326	GO_BP 33894 33904	conjugated
+#1326	AnnotatorNotes T1326	GO:0043412 (biopolymer modification)
+T1327	NCBITaxon 33905 33909	goat
+#1327	AnnotatorNotes T1327	NCBITaxon:9925 (Capra hircus)
+T1328	NCBITaxon 33915 33920	mouse
+#1328	AnnotatorNotes T1328	NCBITaxon:10088 (Mus)
+T1329	CHEBI 33926 33935	Molecular
+#1329	AnnotatorNotes T1329	CHEBI:23367 (molecular entity)
+T1330	NCBITaxon 33985 33989	goat
+#1330	AnnotatorNotes T1330	NCBITaxon:9925 (Capra hircus)
+T1331	NCBITaxon 33995 34000	mouse
+#1331	AnnotatorNotes T1331	NCBITaxon:10088 (Mus)
+T1332	GO_CC 34022 34032	antibodies
+#1332	AnnotatorNotes T1332	GO:0019814 (immunoglobulin complex)
+T1333	EntrezGene 34050 34060	Annexin A7
+#1333	AnnotatorNotes T1333	EG:11750
+T1334	PR 34050 34060	Annexin A7
+#1334	AnnotatorNotes T1334	PR:000004080 (annexin A7)
+T1335	GO_CC 34061 34069	antibody
+#1335	AnnotatorNotes T1335	GO:0019814 (immunoglobulin complex)
+T1336	PR 34079 34083	GFAP
+#1336	AnnotatorNotes T1336	PR:000007939 (glial fibrillary acidic protein)
+T1337	GO_CC 34084 34092	antibody
+#1337	AnnotatorNotes T1337	GO:0019814 (immunoglobulin complex)
+T1338	GO_BP 34128 34138	conjugated
+#1338	AnnotatorNotes T1338	GO:0043412 (biopolymer modification)
+T1339	NCBITaxon 34139 34143	goat
+#1339	AnnotatorNotes T1339	NCBITaxon:9925 (Capra hircus)
+T1340	NCBITaxon 34149 34155	rabbit
+#1340	AnnotatorNotes T1340	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1341	CHEBI 34161 34170	Molecular
+#1341	AnnotatorNotes T1341	CHEBI:23367 (molecular entity)
+T1342	EntrezGene 34206 34216	Annexin A7
+#1342	AnnotatorNotes T1342	EG:11750
+T1343	PR 34206 34216	Annexin A7
+#1343	AnnotatorNotes T1343	PR:000004080 (annexin A7)
+T1344	NCBITaxon 34240 34245	mouse
+#1344	AnnotatorNotes T1344	NCBITaxon:10088 (Mus)
+T1345	GO_CC 34260 34270	antibodies
+#1345	AnnotatorNotes T1345	GO:0019814 (immunoglobulin complex)
+T1346	NCBITaxon 34274 34279	mouse
+#1346	AnnotatorNotes T1346	NCBITaxon:10088 (Mus)
+T1347	GO_CC 34324 34334	antibodies
+#1347	AnnotatorNotes T1347	GO:0019814 (immunoglobulin complex)
+T1348	GO_BP 34356 34363	coupled
+#1348	AnnotatorNotes T1348	GO:0043412 (biopolymer modification)
+T1349	CHEBI 34459 34465	xylene
+#1349	AnnotatorNotes T1349	CHEBI:27338 (xylene)
+T1350	CHEBI 34552 34559	ethanol
+#1350	AnnotatorNotes T1350	CHEBI:16236 (ethanol)
+T1351	GO_CC 34564 34572	antibody
+#1351	AnnotatorNotes T1351	GO:0019814 (immunoglobulin complex)
+T1352	CHEBI 34624 34628	NaCl
+#1352	AnnotatorNotes T1352	CHEBI:26710 (sodium chloride)
+T1353	CHEBI 34637 34640	KCl
+#1353	AnnotatorNotes T1353	CHEBI:32588 (potassium chloride)
+T1354	CHEBI 34649 34656	Na2HPO4
+#1354	AnnotatorNotes T1354	CHEBI:34683 (disodium hydrogenphosphate)
+T1355	sub 34651 34652	2
+#1355	AnnotatorNotes T1355	sub (null)
+T1356	sub 34655 34656	4
+#1356	AnnotatorNotes T1356	sub (null)
+T1357	sub 34667 34668	2
+#1357	AnnotatorNotes T1357	sub (null)
+T1358	sub 34670 34671	4
+#1358	AnnotatorNotes T1358	sub (null)
+T1359	GO_MF 34740 34747	trypsin
+#1359	AnnotatorNotes T1359	GO:0004295 (trypsin activity)
+T1360	independent_continuant 34740 34747	trypsin
+#1360	AnnotatorNotes T1360	independent_continuant
+T1361	CHEBI 34787 34799	formaldehyde
+#1361	AnnotatorNotes T1361	CHEBI:16842 (formaldehyde)
+T1362	GO_BP 34800 34811	crosslinked
+#1362	AnnotatorNotes T1362	GO:0018149 (peptide cross-linking)
+T1363	SO 34812 34820	epitopes
+#1363	AnnotatorNotes T1363	SO:0001018 (epitope)
+T1364	SO 34883 34896	binding sites
+#1364	AnnotatorNotes T1364	SO:0000409 (binding_site)
+T1365	GO_MF 34883 34890	binding
+#1365	AnnotatorNotes T1365	GO:0005488 (binding)
+T1366	EntrezGene 34951 34954	BSA
+#1366	AnnotatorNotes T1366	EG:280717
+T1367	NCBITaxon 34964 34968	fish
+#1367	AnnotatorNotes T1367	NCBITaxon:7898 (Actinopterygii)
+T1368	NCBITaxon 34964 34968	fish
+#1368	AnnotatorNotes T1368	NCBITaxon:117569 (Hyperoartia)
+T1369	NCBITaxon 34964 34968	fish
+#1369	AnnotatorNotes T1369	NCBITaxon:118072 (Coelacanthimorpha)
+T1370	NCBITaxon 34964 34968	fish
+#1370	AnnotatorNotes T1370	NCBITaxon:7878 (Dipnoi)
+T1371	NCBITaxon 34964 34968	fish
+#1371	AnnotatorNotes T1371	NCBITaxon:117565 (Hyperotreti)
+T1372	NCBITaxon 34964 34968	fish
+#1372	AnnotatorNotes T1372	NCBITaxon:7777 (Chondrichthyes)
+T1373	NCBITaxon 35000 35004	goat
+#1373	AnnotatorNotes T1373	NCBITaxon:9925 (Capra hircus)
+T1374	GO_CC 35054 35064	antibodies
+#1374	AnnotatorNotes T1374	GO:0019814 (immunoglobulin complex)
+T1375	GO_CC 35232 35240	antibody
+#1375	AnnotatorNotes T1375	GO:0019814 (immunoglobulin complex)
+T1376	CHEBI 35334 35339	water
+#1376	AnnotatorNotes T1376	CHEBI:15377 (water)
+T1377	CHEBI 35356 35364	gelvatol
+#1377	AnnotatorNotes T1377	CHEBI:17246 (poly(vinyl alcohol))
+T1378	GO_CC 35432 35440	antibody
+#1378	AnnotatorNotes T1378	GO:0019814 (immunoglobulin complex)
+T1379	EntrezGene 35470 35480	annexin A7
+#1379	AnnotatorNotes T1379	EG:11750
+T1380	PR 35470 35480	annexin A7
+#1380	AnnotatorNotes T1380	PR:000004080 (annexin A7)
+T1381	NCBITaxon 35490 35495	mouse
+#1381	AnnotatorNotes T1381	NCBITaxon:10088 (Mus)
+T1382	NCBITaxon 35644 35649	human
+#1382	AnnotatorNotes T1382	NCBITaxon:9606 (Homo sapiens)
+T1383	NCBITaxon 35679 35684	human
+#1383	AnnotatorNotes T1383	NCBITaxon:9606 (Homo sapiens)
+T1384	EntrezGene 35748 35758	Annexin A7
+#1384	AnnotatorNotes T1384	EG:310
+T1385	PR 35748 35758	Annexin A7
+#1385	AnnotatorNotes T1385	PR:000004080 (annexin A7)
+T1386	GO_CC 35794 35802	antibody
+#1386	AnnotatorNotes T1386	GO:0019814 (immunoglobulin complex)
+T1387	independent_continuant 35872 35879	Trypsin
+#1387	AnnotatorNotes T1387	independent_continuant
+T1388	GO_MF 35872 35879	Trypsin
+#1388	AnnotatorNotes T1388	GO:0004295 (trypsin activity)
+T1389	NCBITaxon 35951 35956	mouse
+#1389	AnnotatorNotes T1389	NCBITaxon:10088 (Mus)
+T1390	GO_CC 35971 35981	antibodies
+#1390	AnnotatorNotes T1390	GO:0019814 (immunoglobulin complex)
+T1391	GO_CC 36042 36050	antibody
+#1391	AnnotatorNotes T1391	GO:0019814 (immunoglobulin complex)
+T1392	GO_BP 36126 36149	Cell culture and growth
+#1392	AnnotatorNotes T1392	"Cell .. growth" GO:0016049 (cell growth)
+T1393	CL 36126 36130	Cell
+#1393	AnnotatorNotes T1393	CL:0000000 (cell)
+T1394	GO_CC 36126 36130	Cell
+#1394	AnnotatorNotes T1394	GO:0005623 (cell)
+T1395	CL 36166 36170	cell
+#1395	AnnotatorNotes T1395	CL:0000000 (cell)
+T1396	GO_CC 36166 36170	cell
+#1396	AnnotatorNotes T1396	GO:0005623 (cell)
+T1397	NCBITaxon 36244 36250	murine
+#1397	AnnotatorNotes T1397	NCBITaxon:39107 (Murinae)
+T1398	NCBITaxon 36290 36293	rat
+#1398	AnnotatorNotes T1398	NCBITaxon:10114 (Rattus)
+T1399	NCBITaxon 36338 36341	rat
+#1399	AnnotatorNotes T1399	NCBITaxon:10114 (Rattus)
+T1400	CL 36467 36472	cells
+#1400	AnnotatorNotes T1400	CL:0000000 (cell)
+T1401	GO_CC 36467 36472	cells
+#1401	AnnotatorNotes T1401	GO:0005623 (cell)
+T1402	GO_MF 36586 36593	trypsin
+#1402	AnnotatorNotes T1402	GO:0004295 (trypsin activity)
+T1403	independent_continuant 36586 36593	trypsin
+#1403	AnnotatorNotes T1403	independent_continuant
+T1404	GO_CC 36620 36627	nuclear
+#1404	AnnotatorNotes T1404	GO:0005634 (nucleus)
+T1405	EntrezGene 36628 36638	Annexin A7
+#1405	AnnotatorNotes T1405	EG:155423
+T1406	PR 36628 36638	Annexin A7
+#1406	AnnotatorNotes T1406	PR:000004080 (annexin A7)
+T1407	CL 36649 36654	cells
+#1407	AnnotatorNotes T1407	CL:0000000 (cell)
+T1408	GO_CC 36649 36654	cells
+#1408	AnnotatorNotes T1408	GO:0005623 (cell)
+T1409	CHEBI 36746 36753	sucrose
+#1409	AnnotatorNotes T1409	CHEBI:17992 (sucrose)
+T1410	CHEBI 36761 36765	Tris
+#1410	AnnotatorNotes T1410	CHEBI:9754 (tris)
+T1411	CHEBI 36779 36784	CaCl2
+#1411	AnnotatorNotes T1411	CHEBI:3312 (calcium dichloride)
+T1412	sub 36783 36784	2
+#1412	AnnotatorNotes T1412	sub (null)
+T1413	CHEBI 36791 36793	Mg
+#1413	AnnotatorNotes T1413	CHEBI:25107 (magnesium)
+T1414	CHEBI 36794 36801	acetate
+#1414	AnnotatorNotes T1414	CHEBI:30089 (acetate)
+T1415	CHEBI 36810 36814	EDTA
+#1415	AnnotatorNotes T1415	CHEBI:30378 (ethylenediaminetetraacetate)
+T1416	CHEBI 36810 36814	EDTA
+#1416	AnnotatorNotes T1416	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T1417	CHEBI 36832 36835	DTT
+#1417	AnnotatorNotes T1417	CHEBI:18320 (1,4-dithiothreitol)
+T1418	CHEBI 36844 36848	PMSF
+#1418	AnnotatorNotes T1418	CHEBI:8102 (phenylmethanesulfonyl fluoride)
+T1419	sup 36856 36857	7
+#1419	AnnotatorNotes T1419	sup (null)
+T1420	CL 37006 37011	cells
+#1420	AnnotatorNotes T1420	CL:0000000 (cell)
+T1421	GO_CC 37006 37011	cells
+#1421	AnnotatorNotes T1421	GO:0005623 (cell)
+T1422	GO_CC 37217 37223	nuclei
+#1422	AnnotatorNotes T1422	GO:0005634 (nucleus)
+T1423	GO_CC 37255 37266	nucleoplasm
+#1423	AnnotatorNotes T1423	GO:0005654 (nucleoplasm)
+T1424	GO_CC 37286 37292	nuclei
+#1424	AnnotatorNotes T1424	GO:0005634 (nucleus)
+T1425	CHEBI 37329 37334	Hepes
+#1425	AnnotatorNotes T1425	CHEBI:46756 (HEPES)
+T1426	CHEBI 37351 37356	MgCl2
+#1426	AnnotatorNotes T1426	CHEBI:6636 (magnesium dichloride)
+T1427	sub 37355 37356	2
+#1427	AnnotatorNotes T1427	sub (null)
+T1428	CHEBI 37364 37367	KCl
+#1428	AnnotatorNotes T1428	CHEBI:32588 (potassium chloride)
+T1429	CHEBI 37376 37380	EDTA
+#1429	AnnotatorNotes T1429	CHEBI:30378 (ethylenediaminetetraacetate)
+T1430	CHEBI 37376 37380	EDTA
+#1430	AnnotatorNotes T1430	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T1431	CHEBI 37389 37398	glycerine
+#1431	AnnotatorNotes T1431	CHEBI:17754 (glycerol)
+T1432	CHEBI 37407 37410	DTT
+#1432	AnnotatorNotes T1432	CHEBI:18320 (1,4-dithiothreitol)
+T1433	CHEBI 37419 37423	PMSF
+#1433	AnnotatorNotes T1433	CHEBI:8102 (phenylmethanesulfonyl fluoride)
+T1434	GO_CC 37425 37431	nuclei
+#1434	AnnotatorNotes T1434	GO:0005634 (nucleus)
+T1435	sup 37437 37438	7
+#1435	AnnotatorNotes T1435	sup (null)
+T1436	CHEBI 37552 37557	Hepes
+#1436	AnnotatorNotes T1436	CHEBI:46756 (HEPES)
+T1437	CHEBI 37574 37579	MgCl2
+#1437	AnnotatorNotes T1437	CHEBI:6636 (magnesium dichloride)
+T1438	sub 37578 37579	2
+#1438	AnnotatorNotes T1438	sub (null)
+T1439	CHEBI 37588 37591	KCl
+#1439	AnnotatorNotes T1439	CHEBI:32588 (potassium chloride)
+T1440	CHEBI 37600 37604	EDTA
+#1440	AnnotatorNotes T1440	CHEBI:30378 (ethylenediaminetetraacetate)
+T1441	CHEBI 37600 37604	EDTA
+#1441	AnnotatorNotes T1441	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T1442	CHEBI 37613 37622	glycerine
+#1442	AnnotatorNotes T1442	CHEBI:17754 (glycerol)
+T1443	CHEBI 37631 37634	DTT
+#1443	AnnotatorNotes T1443	CHEBI:18320 (1,4-dithiothreitol)
+T1444	CHEBI 37643 37647	PMSF
+#1444	AnnotatorNotes T1444	CHEBI:8102 (phenylmethanesulfonyl fluoride)
+T1445	CHEBI 37658 37676	protease inhibitor
+#1445	AnnotatorNotes T1445	CHEBI:37670 (protease inhibitor)
+T1446	independent_continuant 37658 37676	protease inhibitor
+#1446	AnnotatorNotes T1446	independent_continuant
+T1447	GO_MF 37658 37676	protease inhibitor
+#1447	AnnotatorNotes T1447	GO:0030414 (protease inhibitor activity)
+T1448	GO_MF 37658 37666	protease
+#1448	AnnotatorNotes T1448	GO:0008233 (peptidase activity)
+T1449	independent_continuant 37658 37666	protease
+#1449	AnnotatorNotes T1449	independent_continuant
+T1450	GO_CC 37871 37882	nucleoplasm
+#1450	AnnotatorNotes T1450	GO:0005654 (nucleoplasm)
+T1451	GO_CC 37957 37968	Nucleoplasm
+#1451	AnnotatorNotes T1451	GO:0005654 (nucleoplasm)
+T1452	GO_CC 37973 37980	nuclear
+#1452	AnnotatorNotes T1452	GO:0005634 (nucleus)
+T1453	CHEBI 38006 38009	SDS
+#1453	AnnotatorNotes T1453	CHEBI:8984 (sodium dodecyl sulfate)
+T1454	CL 38056 38061	Cells
+#1454	AnnotatorNotes T1454	CL:0000000 (cell)
+T1455	GO_CC 38056 38061	Cells
+#1455	AnnotatorNotes T1455	GO:0005623 (cell)
+T1456	GO_CC 38065 38083	cellular fractions
+#1456	AnnotatorNotes T1456	GO:0000267 (cell fraction)
+T1457	CL 38065 38073	cellular
+#1457	AnnotatorNotes T1457	CL:0000000 (cell)
+T1458	GO_CC 38065 38073	cellular
+#1458	AnnotatorNotes T1458	GO:0005623 (cell)
+T1459	GO_BP 38089 38094	lysed
+#1459	AnnotatorNotes T1459	GO:0019835 (cytolysis)
+T1460	CHEBI 38098 38101	SDS
+#1460	AnnotatorNotes T1460	CHEBI:8984 (sodium dodecyl sulfate)
+T1461	CHEBI 38150 38153	SDS
+#1461	AnnotatorNotes T1461	CHEBI:8984 (sodium dodecyl sulfate)
+T1462	GO_MF 38233 38243	Peroxidase
+#1462	AnnotatorNotes T1462	GO:0004601 (peroxidase activity)
+T1463	independent_continuant 38233 38243	Peroxidase
+#1463	AnnotatorNotes T1463	independent_continuant
+T1464	GO_BP 38244 38251	coupled
+#1464	AnnotatorNotes T1464	GO:0043412 (biopolymer modification)
+T1465	GO_CC 38262 38272	antibodies
+#1465	AnnotatorNotes T1465	GO:0019814 (immunoglobulin complex)
+T1466	EntrezGene 38429 38439	Annexin A7
+#1466	AnnotatorNotes T1466	EG:11750
+T1467	PR 38429 38439	Annexin A7
+#1467	AnnotatorNotes T1467	PR:000004080 (annexin A7)
+T1468	CHEBI 38440 38444	mRNA
+#1468	AnnotatorNotes T1468	CHEBI:33699 (messenger RNA)
+T1469	SO 38440 38444	mRNA
+#1469	AnnotatorNotes T1469	SO:0000234 (mRNA)
+T1470	NCBITaxon 38448 38453	mouse
+#1470	AnnotatorNotes T1470	NCBITaxon:10088 (Mus)
+T1471	CL 38457 38462	cells
+#1471	AnnotatorNotes T1471	CL:0000000 (cell)
+T1472	GO_CC 38457 38462	cells
+#1472	AnnotatorNotes T1472	GO:0005623 (cell)
+T1473	CHEBI 38684 38685	A
+#1473	AnnotatorNotes T1473	CHEBI:30756 (adenine group)
+T1474	sup 38686 38687	+
+#1474	AnnotatorNotes T1474	sup (null)
+T1475	SO 38688 38691	RNA
+#1475	AnnotatorNotes T1475	SO:0000356 (RNA)
+T1476	NCBITaxon 38731 38736	mouse
+#1476	AnnotatorNotes T1476	NCBITaxon:10088 (Mus)
+T1477	GO_BP 38737 38748	development
+#1477	AnnotatorNotes T1477	GO:0032502 (developmental process)
+T1478	SO 38750 38753	RNA
+#1478	AnnotatorNotes T1478	SO:0000356 (RNA)
+T1479	CL 38762 38767	cells
+#1479	AnnotatorNotes T1479	CL:0000000 (cell)
+T1480	GO_CC 38762 38767	cells
+#1480	AnnotatorNotes T1480	GO:0005623 (cell)
+T1481	GO_MF 38830 38840	hybridized
+#1481	AnnotatorNotes T1481	GO:0000739 (DNA strand annealing activity)
+T1482	GO_MF 38830 38840	hybridized
+#1482	AnnotatorNotes T1482	GO:0033592 (RNA strand annealing activity)
+T1483	CHEBI 38865 38868	32P
+#1483	AnnotatorNotes T1483	CHEBI:37972 (phosphorus-32)
+T1484	sup 38865 38867	32
+#1484	AnnotatorNotes T1484	sup (null)
+T1485	CHEBI 38870 38874	dATP
+#1485	AnnotatorNotes T1485	CHEBI:16284 (dATP)
+T1486	PR 38896 38906	annexin A7
+#1486	AnnotatorNotes T1486	PR:000004080 (annexin A7)
+T1487	SO 38907 38911	cDNA
+#1487	AnnotatorNotes T1487	SO:0000756 (cDNA)
+T1488	SO 38912 38917	probe
+#1488	AnnotatorNotes T1488	SO:0000051 (probe)
+T1489	PR 38929 38936	β-actin
+#1489	AnnotatorNotes T1489	PR:000003676 (actin, cytoplasmic 1)
+T1490	SO 38946 38951	probe
+#1490	AnnotatorNotes T1490	SO:0000051 (probe)
+T1491	EntrezGene 39194 39204	Annexin A7
+#1491	AnnotatorNotes T1491	EG:11750
+T1492	PR 39194 39204	Annexin A7
+#1492	AnnotatorNotes T1492	PR:000004080 (annexin A7)
+T1493	GO_CC 39205 39215	antibodies
+#1493	AnnotatorNotes T1493	GO:0019814 (immunoglobulin complex)
+T1494	EntrezGene 39242 39247	AnxA7
+#1494	AnnotatorNotes T1494	EG:11750
+T1495	PR 39242 39247	AnxA7
+#1495	AnnotatorNotes T1495	PR:000004080 (annexin A7)
+T1496	NCBITaxon 39258 39263	mouse
+#1496	AnnotatorNotes T1496	NCBITaxon:10088 (Mus)
+T1497	NCBITaxon 39335 39340	human
+#1497	AnnotatorNotes T1497	NCBITaxon:9606 (Homo sapiens)
+T1498	CHEBI 39789 39798	Molecular
+#1498	AnnotatorNotes T1498	CHEBI:23367 (molecular entity)

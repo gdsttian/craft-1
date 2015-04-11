@@ -1,0 +1,2830 @@
+T1	independent_continuant 0 21	Dopamine D2 receptors
+#1	AnnotatorNotes T1	independent_continuant
+T2	EntrezGene 0 21	Dopamine D2 receptors
+#2	AnnotatorNotes T2	EG:13489
+T3	GO_MF 0 21	Dopamine D2 receptors
+#3	AnnotatorNotes T3	GO:0001670 (dopamine D2 receptor activity)
+T4	PR 0 21	Dopamine D2 receptors
+#4	AnnotatorNotes T4	PR:000001177 (D(2) dopamine receptor)
+T5	CHEBI 0 8	Dopamine
+#5	AnnotatorNotes T5	CHEBI:18243 (dopamine)
+T6	sub 10 11	2
+#6	AnnotatorNotes T6	sub (null)
+T7	GO_BP 67 75	learning
+#7	AnnotatorNotes T7	GO:0007612 (learning)
+T8	NCBITaxon 87 91	mice
+#8	AnnotatorNotes T8	NCBITaxon:10088 (Mus)
+T9	CHEBI 115 123	Dopamine
+#9	AnnotatorNotes T9	CHEBI:18243 (dopamine)
+T10	GO_BP 124 134	modulation
+#10	AnnotatorNotes T10	GO:0065007 (biological regulation)
+T11	CL 138 146	neuronal
+#11	AnnotatorNotes T11	CL:0000540 (neuron)
+T12	GO_BP 147 156	signaling
+#12	AnnotatorNotes T12	GO:0007165 (signal transduction)
+T13	GO_BP 220 230	processing
+#13	AnnotatorNotes T13	GO:0050893 (sensory processing)
+T14	GO_BP 264 271	sensory
+#14	AnnotatorNotes T14	GO:0007600 (sensory perception)
+T15	GO_BP 367 374	guiding
+#15	AnnotatorNotes T15	GO:0065007 (biological regulation)
+T16	GO_BP 390 409	adaptable behaviors
+#16	AnnotatorNotes T16	GO:0051867 (general adaptation syndrome, behavioral process)
+T17	CL 418 426	cellular
+#17	AnnotatorNotes T17	CL:0000000 (cell)
+T18	GO_CC 418 426	cellular
+#18	AnnotatorNotes T18	GO:0005623 (cell)
+T19	GO_BP 434 452	dopamine signaling
+#19	AnnotatorNotes T19	GO:0007212 (dopamine receptor signaling pathway)
+T20	CHEBI 434 442	dopamine
+#20	AnnotatorNotes T20	CHEBI:18243 (dopamine)
+T21	independent_continuant 473 501	D1-like or D2-like receptors
+#21	AnnotatorNotes T21	"D1-like .. receptors" independent_continuant
+T22	GO_MF 473 501	D1-like or D2-like receptors
+#22	AnnotatorNotes T22	"D1-like .. receptors" GO:0001588 (dopamine D1 receptor-like receptor activity)
+T23	PR 473 501	D1-like or D2-like receptors
+#23	AnnotatorNotes T23	"D1-like .. receptors" PR:000001107 (D(1)-like dopamine receptor)
+T24	PR 473 475	D1
+#24	AnnotatorNotes T24	PR:000001175 (D(1A) dopamine receptor)
+T25	sub 474 475	1
+#25	AnnotatorNotes T25	sub (null)
+T26	GO_MF 484 501	D2-like receptors
+#26	AnnotatorNotes T26	GO:0001591 (dopamine D2 receptor-like receptor activity)
+T27	PR 484 501	D2-like receptors
+#27	AnnotatorNotes T27	PR:000001108 (D(2)-like dopamine receptor)
+T28	independent_continuant 484 501	D2-like receptors
+#28	AnnotatorNotes T28	independent_continuant
+T29	PR 484 486	D2
+#29	AnnotatorNotes T29	PR:000001177 (D(2) dopamine receptor)
+T30	sub 485 486	2
+#30	AnnotatorNotes T30	sub (null)
+T31	independent_continuant 523 540	D1-like receptors
+#31	AnnotatorNotes T31	independent_continuant
+T32	PR 523 540	D1-like receptors
+#32	AnnotatorNotes T32	PR:000001107 (D(1)-like dopamine receptor)
+T33	GO_MF 523 540	D1-like receptors
+#33	AnnotatorNotes T33	GO:0001588 (dopamine D1 receptor-like receptor activity)
+T34	PR 523 525	D1
+#34	AnnotatorNotes T34	PR:000001175 (D(1A) dopamine receptor)
+T35	sub 524 525	1
+#35	AnnotatorNotes T35	sub (null)
+T36	GO_BP 571 580	behaviors
+#36	AnnotatorNotes T36	GO:0007610 (behavior)
+T37	independent_continuant 629 641	D2 receptors
+#37	AnnotatorNotes T37	independent_continuant
+T38	PR 629 641	D2 receptors
+#38	AnnotatorNotes T38	PR:000001177 (D(2) dopamine receptor)
+T39	GO_MF 629 641	D2 receptors
+#39	AnnotatorNotes T39	GO:0001670 (dopamine D2 receptor activity)
+T40	sub 630 631	2
+#40	AnnotatorNotes T40	sub (null)
+T41	GO_BP 697 736	dopamine D2 receptor-mediated signaling
+#41	AnnotatorNotes T41	"dopamine .. receptor-mediated signaling" GO:0007212 (dopamine receptor signaling pathway)
+T42	GO_MF 697 717	dopamine D2 receptor
+#42	AnnotatorNotes T42	GO:0001670 (dopamine D2 receptor activity)
+T43	PR 697 717	dopamine D2 receptor
+#43	AnnotatorNotes T43	PR:000001177 (D(2) dopamine receptor)
+T44	EntrezGene 697 717	dopamine D2 receptor
+#44	AnnotatorNotes T44	EG:13489
+T45	CHEBI 697 705	dopamine
+#45	AnnotatorNotes T45	CHEBI:18243 (dopamine)
+T46	sub 707 708	2
+#46	AnnotatorNotes T46	sub (null)
+T47	GO_BP 752 785	associative and reversal learning
+#47	AnnotatorNotes T47	"associative .. learning" GO:0008306 (associative learning)
+T48	NCBITaxon 808 812	mice
+#48	AnnotatorNotes T48	NCBITaxon:10088 (Mus)
+T49	GO_MF 845 866	dopamine D2 receptors
+#49	AnnotatorNotes T49	GO:0001670 (dopamine D2 receptor activity)
+T50	independent_continuant 845 866	dopamine D2 receptors
+#50	AnnotatorNotes T50	independent_continuant
+T51	EntrezGene 845 866	dopamine D2 receptors
+#51	AnnotatorNotes T51	EG:13489
+T52	PR 845 866	dopamine D2 receptors
+#52	AnnotatorNotes T52	PR:000001177 (D(2) dopamine receptor)
+T53	CHEBI 845 853	dopamine
+#53	AnnotatorNotes T53	CHEBI:18243 (dopamine)
+T54	sub 855 856	2
+#54	AnnotatorNotes T54	sub (null)
+T55	SO 870 879	wild-type
+#55	AnnotatorNotes T55	SO:0000817 (wild_type)
+T56	NCBITaxon 880 884	mice
+#56	AnnotatorNotes T56	NCBITaxon:10088 (Mus)
+T57	GO_BP 1025 1035	behavioral
+#57	AnnotatorNotes T57	GO:0007610 (behavior)
+T58	GO_BP 1102 1110	learning
+#58	AnnotatorNotes T58	GO:0007612 (learning)
+T59	CHEBI 1130 1134	food
+#59	AnnotatorNotes T59	CHEBI:33290 (food)
+T60	SO 1151 1160	wild-type
+#60	AnnotatorNotes T60	SO:0000817 (wild_type)
+T61	GO_MF 1165 1185	dopamine D2 receptor
+#61	AnnotatorNotes T61	GO:0001670 (dopamine D2 receptor activity)
+T62	PR 1165 1185	dopamine D2 receptor
+#62	AnnotatorNotes T62	PR:000001177 (D(2) dopamine receptor)
+T63	EntrezGene 1165 1185	dopamine D2 receptor
+#63	AnnotatorNotes T63	EG:13489
+T64	independent_continuant 1165 1185	dopamine D2 receptor
+#64	AnnotatorNotes T64	independent_continuant
+T65	CHEBI 1165 1173	dopamine
+#65	AnnotatorNotes T65	CHEBI:18243 (dopamine)
+T66	sub 1175 1176	2
+#66	AnnotatorNotes T66	sub (null)
+T67	NCBITaxon 1196 1200	mice
+#67	AnnotatorNotes T67	NCBITaxon:10088 (Mus)
+T68	GO_BP 1209 1216	learned
+#68	AnnotatorNotes T68	GO:0007612 (learning)
+T69	GO_BP 1233 1240	consume
+#69	AnnotatorNotes T69	GO:0007631 (feeding behavior)
+T70	CHEBI 1249 1253	food
+#70	AnnotatorNotes T70	CHEBI:33290 (food)
+T71	SO 1311 1320	genotypes
+#71	AnnotatorNotes T71	SO:0001027 (genotype)
+T72	GO_BP 1329 1336	learned
+#72	AnnotatorNotes T72	GO:0007612 (learning)
+T73	CHEBI 1419 1423	food
+#73	AnnotatorNotes T73	CHEBI:33290 (food)
+T74	GO_MF 1445 1465	dopamine D2 receptor
+#74	AnnotatorNotes T74	GO:0001670 (dopamine D2 receptor activity)
+T75	independent_continuant 1445 1465	dopamine D2 receptor
+#75	AnnotatorNotes T75	independent_continuant
+T76	EntrezGene 1445 1465	dopamine D2 receptor
+#76	AnnotatorNotes T76	EG:13489
+T77	PR 1445 1465	dopamine D2 receptor
+#77	AnnotatorNotes T77	PR:000001177 (D(2) dopamine receptor)
+T78	CHEBI 1445 1453	dopamine
+#78	AnnotatorNotes T78	CHEBI:18243 (dopamine)
+T79	sub 1455 1456	2
+#79	AnnotatorNotes T79	sub (null)
+T80	NCBITaxon 1476 1480	mice
+#80	AnnotatorNotes T80	NCBITaxon:10088 (Mus)
+T81	SO 1521 1530	wild-type
+#81	AnnotatorNotes T81	SO:0000817 (wild_type)
+T82	NCBITaxon 1531 1535	mice
+#82	AnnotatorNotes T82	NCBITaxon:10088 (Mus)
+T83	CHEBI 1688 1692	food
+#83	AnnotatorNotes T83	CHEBI:33290 (food)
+T84	GO_MF 1712 1732	dopamine D2 receptor
+#84	AnnotatorNotes T84	GO:0001670 (dopamine D2 receptor activity)
+T85	EntrezGene 1712 1732	dopamine D2 receptor
+#85	AnnotatorNotes T85	EG:13489
+T86	independent_continuant 1712 1732	dopamine D2 receptor
+#86	AnnotatorNotes T86	independent_continuant
+T87	PR 1712 1732	dopamine D2 receptor
+#87	AnnotatorNotes T87	PR:000001177 (D(2) dopamine receptor)
+T88	CHEBI 1712 1720	dopamine
+#88	AnnotatorNotes T88	CHEBI:18243 (dopamine)
+T89	sub 1722 1723	2
+#89	AnnotatorNotes T89	sub (null)
+T90	NCBITaxon 1743 1747	mice
+#90	AnnotatorNotes T90	NCBITaxon:10088 (Mus)
+T91	GO_BP 1779 1787	response
+#91	AnnotatorNotes T91	GO:0050896 (response to stimulus)
+T92	NCBITaxon 1895 1899	mice
+#92	AnnotatorNotes T92	NCBITaxon:10088 (Mus)
+T93	GO_BP 1905 1912	develop
+#93	AnnotatorNotes T93	GO:0032502 (developmental process)
+T94	independent_continuant 1951 1972	dopamine D2 receptors
+#94	AnnotatorNotes T94	independent_continuant
+T95	GO_MF 1951 1972	dopamine D2 receptors
+#95	AnnotatorNotes T95	GO:0001670 (dopamine D2 receptor activity)
+T96	EntrezGene 1951 1972	dopamine D2 receptors
+#96	AnnotatorNotes T96	EG:13489
+T97	PR 1951 1972	dopamine D2 receptors
+#97	AnnotatorNotes T97	PR:000001177 (D(2) dopamine receptor)
+T98	CHEBI 1951 1959	dopamine
+#98	AnnotatorNotes T98	CHEBI:18243 (dopamine)
+T99	sub 1961 1962	2
+#99	AnnotatorNotes T99	sub (null)
+T100	GO_BP 1988 1997	olfaction
+#100	AnnotatorNotes T100	GO:0007608 (sensory perception of smell)
+T101	GO_BP 2046 2052	driven
+#101	AnnotatorNotes T101	GO:0048518 (positive regulation of biological process)
+T102	GO_MF 2110 2130	dopamine D2 receptor
+#102	AnnotatorNotes T102	GO:0001670 (dopamine D2 receptor activity)
+T103	independent_continuant 2110 2130	dopamine D2 receptor
+#103	AnnotatorNotes T103	independent_continuant
+T104	PR 2110 2130	dopamine D2 receptor
+#104	AnnotatorNotes T104	PR:000001177 (D(2) dopamine receptor)
+T105	EntrezGene 2110 2130	dopamine D2 receptor
+#105	AnnotatorNotes T105	EG:13489
+T106	CHEBI 2110 2118	dopamine
+#106	AnnotatorNotes T106	CHEBI:18243 (dopamine)
+T107	sub 2120 2121	2
+#107	AnnotatorNotes T107	sub (null)
+T108	NCBITaxon 2141 2145	mice
+#108	AnnotatorNotes T108	NCBITaxon:10088 (Mus)
+T109	GO_BP 2162 2208	responding to a previously reinforced stimulus
+#109	AnnotatorNotes T109	"responding to .. stimulus" GO:0050896 (response to stimulus)
+T110	GO_BP 2305 2314	signaling
+#110	AnnotatorNotes T110	GO:0007165 (signal transduction)
+T111	GO_MF 2331 2351	dopamine D2 receptor
+#111	AnnotatorNotes T111	GO:0001670 (dopamine D2 receptor activity)
+T112	PR 2331 2351	dopamine D2 receptor
+#112	AnnotatorNotes T112	PR:000001177 (D(2) dopamine receptor)
+T113	EntrezGene 2331 2351	dopamine D2 receptor
+#113	AnnotatorNotes T113	EG:13489
+T114	independent_continuant 2331 2351	dopamine D2 receptor
+#114	AnnotatorNotes T114	independent_continuant
+T115	CHEBI 2331 2339	dopamine
+#115	AnnotatorNotes T115	CHEBI:18243 (dopamine)
+T116	sub 2341 2342	2
+#116	AnnotatorNotes T116	sub (null)
+T117	GO_BP 2369 2379	regulating
+#117	AnnotatorNotes T117	GO:0065007 (biological regulation)
+T118	GO_BP 2380 2413	associative and reversal learning
+#118	AnnotatorNotes T118	"associative .. learning" GO:0008306 (associative learning)
+T119	NCBITaxon 2461 2466	human
+#119	AnnotatorNotes T119	NCBITaxon:9606 (Homo sapiens)
+T120	GO_BP 2524 2544	associative learning
+#120	AnnotatorNotes T120	GO:0008306 (associative learning)
+T121	CHEBI 2698 2702	food
+#121	AnnotatorNotes T121	CHEBI:33290 (food)
+T122	NCBITaxon 2789 2797	organism
+#122	AnnotatorNotes T122	NCBITaxon:1 (root)
+T123	GO_BP 2872 2894	physiological response
+#123	AnnotatorNotes T123	GO:0050896 (response to stimulus)
+T124	CHEBI 2919 2923	food
+#124	AnnotatorNotes T124	CHEBI:33290 (food)
+T125	GO_BP 3137 3145	behavior
+#125	AnnotatorNotes T125	GO:0007610 (behavior)
+T126	NCBITaxon 3154 3160	rodent
+#126	AnnotatorNotes T126	NCBITaxon:9989 (Rodentia)
+T127	CHEBI 3179 3183	food
+#127	AnnotatorNotes T127	CHEBI:33290 (food)
+T128	GO_BP 3295 3315	associative learning
+#128	AnnotatorNotes T128	GO:0008306 (associative learning)
+T129	CHEBI 3377 3381	food
+#129	AnnotatorNotes T129	CHEBI:33290 (food)
+T130	CHEBI 3506 3514	dopamine
+#130	AnnotatorNotes T130	CHEBI:18243 (dopamine)
+T131	GO_BP 3582 3602	associative learning
+#131	AnnotatorNotes T131	GO:0008306 (associative learning)
+T132	italic 3619 3638	incentive salience"
+#132	AnnotatorNotes T132	italic (null)
+T133	GO_BP 3642 3649	learned
+#133	AnnotatorNotes T133	GO:0007612 (learning)
+T134	GO_BP 3677 3688	conditioned
+#134	AnnotatorNotes T134	GO:0008306 (associative learning)
+T135	GO_BP 3677 3688	conditioned
+#135	AnnotatorNotes T135	GO:0035106 (operant conditioning)
+T136	GO_BP 3779 3797	dopamine signaling
+#136	AnnotatorNotes T136	GO:0007212 (dopamine receptor signaling pathway)
+T137	CHEBI 3779 3787	dopamine
+#137	AnnotatorNotes T137	CHEBI:18243 (dopamine)
+T138	GO_MF 3820 3838	dopamine receptors
+#138	AnnotatorNotes T138	GO:0004952 (dopamine receptor activity)
+T139	independent_continuant 3820 3838	dopamine receptors
+#139	AnnotatorNotes T139	independent_continuant
+T140	CHEBI 3820 3828	dopamine
+#140	AnnotatorNotes T140	CHEBI:18243 (dopamine)
+T141	CHEBI 3844 3873	dopamine receptor antagonists
+#141	AnnotatorNotes T141	CHEBI:48561 (dopaminergic antagonist)
+T142	independent_continuant 3844 3861	dopamine receptor
+#142	AnnotatorNotes T142	independent_continuant
+T143	GO_MF 3844 3861	dopamine receptor
+#143	AnnotatorNotes T143	GO:0004952 (dopamine receptor activity)
+T144	CHEBI 3844 3852	dopamine
+#144	AnnotatorNotes T144	CHEBI:18243 (dopamine)
+T145	GO_MF 3853 3873	receptor antagonists
+#145	AnnotatorNotes T145	GO:0048019 (receptor antagonist activity)
+T146	independent_continuant 3853 3873	receptor antagonists
+#146	AnnotatorNotes T146	independent_continuant
+T147	GO_BP 4091 4109	Dopamine signaling
+#147	AnnotatorNotes T147	GO:0007212 (dopamine receptor signaling pathway)
+T148	CHEBI 4091 4099	Dopamine
+#148	AnnotatorNotes T148	CHEBI:18243 (dopamine)
+T149	CL 4129 4137	cellular
+#149	AnnotatorNotes T149	CL:0000000 (cell)
+T150	GO_CC 4129 4137	cellular
+#150	AnnotatorNotes T150	GO:0005623 (cell)
+T151	GO_MF 4171 4198	G-protein coupled receptors
+#151	AnnotatorNotes T151	GO:0004930 (G-protein coupled receptor activity)
+T152	independent_continuant 4171 4198	G-protein coupled receptors
+#152	AnnotatorNotes T152	independent_continuant
+T153	PR 4223 4231	D-1 like
+#153	AnnotatorNotes T153	PR:000001107 (D(1)-like dopamine receptor)
+T154	PR 4223 4226	D-1
+#154	AnnotatorNotes T154	PR:000001175 (D(1A) dopamine receptor)
+T155	PR 4233 4237	D1aR
+#155	AnnotatorNotes T155	PR:000001175 (D(1A) dopamine receptor)
+T156	sub 4234 4236	1a
+#156	AnnotatorNotes T156	sub (null)
+T157	PR 4239 4242	D1b
+#157	AnnotatorNotes T157	PR:000001176 (D(1B) dopamine receptor)
+T158	sub 4240 4244	1b/5
+#158	AnnotatorNotes T158	sub (null)
+T159	PR 4250 4258	D-2 like
+#159	AnnotatorNotes T159	PR:000001108 (D(2)-like dopamine receptor)
+T160	PR 4250 4253	D-2
+#160	AnnotatorNotes T160	PR:000001177 (D(2) dopamine receptor)
+T161	GO_MF 4260 4263	D2R
+#161	AnnotatorNotes T161	GO:0001670 (dopamine D2 receptor activity)
+T162	PR 4260 4263	D2R
+#162	AnnotatorNotes T162	PR:000001177 (D(2) dopamine receptor)
+T163	independent_continuant 4260 4263	D2R
+#163	AnnotatorNotes T163	independent_continuant
+T164	sub 4261 4262	2
+#164	AnnotatorNotes T164	sub (null)
+T165	GO_MF 4265 4268	D3R
+#165	AnnotatorNotes T165	GO:0001592 (dopamine D3 receptor activity)
+T166	PR 4265 4268	D3R
+#166	AnnotatorNotes T166	PR:000001178 (D(3) dopamine receptor)
+T167	independent_continuant 4265 4268	D3R
+#167	AnnotatorNotes T167	independent_continuant
+T168	sub 4266 4267	3
+#168	AnnotatorNotes T168	sub (null)
+T169	GO_MF 4270 4273	D4R
+#169	AnnotatorNotes T169	GO:0001593 (dopamine D4 receptor activity)
+T170	independent_continuant 4270 4273	D4R
+#170	AnnotatorNotes T170	independent_continuant
+T171	PR 4270 4273	D4R
+#171	AnnotatorNotes T171	PR:000001179 (D(4) dopamine receptor)
+T172	sub 4271 4272	4
+#172	AnnotatorNotes T172	sub (null)
+T173	SO 4304 4309	genes
+#173	AnnotatorNotes T173	SO:0000704 (gene)
+T174	GO_MF 4324 4341	dopamine receptor
+#174	AnnotatorNotes T174	GO:0004952 (dopamine receptor activity)
+T175	independent_continuant 4324 4341	dopamine receptor
+#175	AnnotatorNotes T175	independent_continuant
+T176	CHEBI 4324 4332	dopamine
+#176	AnnotatorNotes T176	CHEBI:18243 (dopamine)
+T177	independent_continuant 4405 4434	D1-like and D2-like receptors
+#177	AnnotatorNotes T177	"D1-like .. receptors" independent_continuant
+T178	GO_MF 4405 4434	D1-like and D2-like receptors
+#178	AnnotatorNotes T178	"D1-like .. receptors" GO:0001588 (dopamine D1 receptor-like receptor activity)
+T179	PR 4405 4434	D1-like and D2-like receptors
+#179	AnnotatorNotes T179	"D1-like .. receptors" PR:000001107 (D(1)-like dopamine receptor)
+T180	PR 4405 4407	D1
+#180	AnnotatorNotes T180	PR:000001175 (D(1A) dopamine receptor)
+T181	GO_MF 4417 4434	D2-like receptors
+#181	AnnotatorNotes T181	GO:0001591 (dopamine D2 receptor-like receptor activity)
+T182	PR 4417 4434	D2-like receptors
+#182	AnnotatorNotes T182	PR:000001108 (D(2)-like dopamine receptor)
+T183	independent_continuant 4417 4434	D2-like receptors
+#183	AnnotatorNotes T183	independent_continuant
+T184	PR 4417 4419	D2
+#184	AnnotatorNotes T184	PR:000001177 (D(2) dopamine receptor)
+T185	independent_continuant 4527 4544	dopamine receptor
+#185	AnnotatorNotes T185	independent_continuant
+T186	GO_MF 4527 4544	dopamine receptor
+#186	AnnotatorNotes T186	GO:0004952 (dopamine receptor activity)
+T187	CHEBI 4527 4535	dopamine
+#187	AnnotatorNotes T187	CHEBI:18243 (dopamine)
+T188	GO_BP 4575 4595	associative learning
+#188	AnnotatorNotes T188	GO:0008306 (associative learning)
+T189	independent_continuant 4643 4656	dopamine D1Rs
+#189	AnnotatorNotes T189	independent_continuant
+T190	PR 4643 4656	dopamine D1Rs
+#190	AnnotatorNotes T190	PR:000001175 (D(1A) dopamine receptor)
+T191	GO_MF 4643 4656	dopamine D1Rs
+#191	AnnotatorNotes T191	GO:0001590 (dopamine D1 receptor activity)
+T192	CHEBI 4643 4651	dopamine
+#192	AnnotatorNotes T192	CHEBI:18243 (dopamine)
+T193	sub 4653 4654	1
+#193	AnnotatorNotes T193	sub (null)
+T194	GO_BP 4707 4728	conditioned behaviors
+#194	AnnotatorNotes T194	GO:0035106 (operant conditioning)
+T195	GO_BP 4707 4728	conditioned behaviors
+#195	AnnotatorNotes T195	GO:0008306 (associative learning)
+T196	CHEBI 4739 4743	food
+#196	AnnotatorNotes T196	CHEBI:33290 (food)
+T197	GO_BP 4780 4790	responding
+#197	AnnotatorNotes T197	GO:0042220 (response to cocaine)
+T198	GO_BP 4795 4806	conditioned
+#198	AnnotatorNotes T198	GO:0035106 (operant conditioning)
+T199	GO_BP 4795 4806	conditioned
+#199	AnnotatorNotes T199	GO:0008306 (associative learning)
+T200	CHEBI 4826 4833	cocaine
+#200	AnnotatorNotes T200	CHEBI:27958 (cocaine)
+T201	independent_continuant 4889 4892	D1R
+#201	AnnotatorNotes T201	independent_continuant
+T202	PR 4889 4892	D1R
+#202	AnnotatorNotes T202	PR:000001175 (D(1A) dopamine receptor)
+T203	GO_MF 4889 4892	D1R
+#203	AnnotatorNotes T203	GO:0001590 (dopamine D1 receptor activity)
+T204	sub 4890 4891	1
+#204	AnnotatorNotes T204	sub (null)
+T205	GO_BP 4902 4911	signaling
+#205	AnnotatorNotes T205	GO:0007165 (signal transduction)
+T206	GO_BP 4918 4926	modulate
+#206	AnnotatorNotes T206	GO:0065007 (biological regulation)
+T207	GO_BP 4955 4963	response
+#207	AnnotatorNotes T207	GO:0050896 (response to stimulus)
+T208	GO_BP 5027 5047	associative learning
+#208	AnnotatorNotes T208	GO:0008306 (associative learning)
+T209	GO_BP 5081 5103	dopamine D1R signaling
+#209	AnnotatorNotes T209	"dopamine .. signaling" GO:0007212 (dopamine receptor signaling pathway)
+T210	independent_continuant 5081 5093	dopamine D1R
+#210	AnnotatorNotes T210	independent_continuant
+T211	GO_MF 5081 5093	dopamine D1R
+#211	AnnotatorNotes T211	GO:0001590 (dopamine D1 receptor activity)
+T212	PR 5081 5093	dopamine D1R
+#212	AnnotatorNotes T212	PR:000001175 (D(1A) dopamine receptor)
+T213	CHEBI 5081 5089	dopamine
+#213	AnnotatorNotes T213	CHEBI:18243 (dopamine)
+T214	sub 5091 5092	1
+#214	AnnotatorNotes T214	sub (null)
+T215	GO_BP 5126 5146	associative learning
+#215	AnnotatorNotes T215	GO:0008306 (associative learning)
+T216	CHEBI 5158 5162	food
+#216	AnnotatorNotes T216	CHEBI:33290 (food)
+T217	GO_MF 5204 5207	D2R
+#217	AnnotatorNotes T217	GO:0001670 (dopamine D2 receptor activity)
+T218	independent_continuant 5204 5207	D2R
+#218	AnnotatorNotes T218	independent_continuant
+T219	PR 5204 5207	D2R
+#219	AnnotatorNotes T219	PR:000001177 (D(2) dopamine receptor)
+T220	sub 5205 5206	2
+#220	AnnotatorNotes T220	sub (null)
+T221	GO_BP 5217 5226	signaling
+#221	AnnotatorNotes T221	GO:0007165 (signal transduction)
+T222	GO_BP 5261 5281	associative learning
+#222	AnnotatorNotes T222	GO:0008306 (associative learning)
+T223	NCBITaxon 5285 5292	rodents
+#223	AnnotatorNotes T223	NCBITaxon:9989 (Rodentia)
+T224	GO_MF 5315 5318	D2R
+#224	AnnotatorNotes T224	GO:0001670 (dopamine D2 receptor activity)
+T225	PR 5315 5318	D2R
+#225	AnnotatorNotes T225	PR:000001177 (D(2) dopamine receptor)
+T226	independent_continuant 5315 5318	D2R
+#226	AnnotatorNotes T226	independent_continuant
+T227	sub 5316 5317	2
+#227	AnnotatorNotes T227	sub (null)
+T228	CHEBI 5319 5330	antagonists
+#228	AnnotatorNotes T228	CHEBI:48561 (dopaminergic antagonist)
+T229	independent_continuant 5319 5330	antagonists
+#229	AnnotatorNotes T229	independent_continuant
+T230	GO_MF 5319 5330	antagonists
+#230	AnnotatorNotes T230	GO:0048019 (receptor antagonist activity)
+T231	NCBITaxon 5364 5370	rodent
+#231	AnnotatorNotes T231	NCBITaxon:9989 (Rodentia)
+T232	GO_BP 5371 5391	associative learning
+#232	AnnotatorNotes T232	GO:0008306 (associative learning)
+T233	GO_MF 5417 5425	receptor
+#233	AnnotatorNotes T233	GO:0004872 (receptor activity)
+T234	independent_continuant 5417 5425	receptor
+#234	AnnotatorNotes T234	independent_continuant
+T235	GO_BP 5455 5460	motor
+#235	AnnotatorNotes T235	GO:0050879 (multicellular organismal movement)
+T236	GO_MF 5548 5565	dopamine receptor
+#236	AnnotatorNotes T236	GO:0004952 (dopamine receptor activity)
+T237	independent_continuant 5548 5565	dopamine receptor
+#237	AnnotatorNotes T237	independent_continuant
+T238	CHEBI 5548 5556	dopamine
+#238	AnnotatorNotes T238	CHEBI:18243 (dopamine)
+T239	GO_BP 5583 5616	associative and reversal learning
+#239	AnnotatorNotes T239	"associative .. learning" GO:0008306 (associative learning)
+T240	GO_BP 5646 5654	behavior
+#240	AnnotatorNotes T240	GO:0007610 (behavior)
+T241	independent_continuant 5720 5733	dopamine D2Rs
+#241	AnnotatorNotes T241	independent_continuant
+T242	PR 5720 5733	dopamine D2Rs
+#242	AnnotatorNotes T242	PR:000001177 (D(2) dopamine receptor)
+T243	GO_MF 5720 5733	dopamine D2Rs
+#243	AnnotatorNotes T243	GO:0001670 (dopamine D2 receptor activity)
+T244	CHEBI 5720 5728	dopamine
+#244	AnnotatorNotes T244	CHEBI:18243 (dopamine)
+T245	sub 5730 5731	2
+#245	AnnotatorNotes T245	sub (null)
+T246	GO_BP 5737 5757	associative learning
+#246	AnnotatorNotes T246	GO:0008306 (associative learning)
+T247	CHEBI 5797 5802	drugs
+#247	AnnotatorNotes T247	CHEBI:23888 (drug)
+T248	GO_BP 5896 5905	locomotor
+#248	AnnotatorNotes T248	GO:0040011 (locomotion)
+T249	independent_continuant 5939 5942	D2R
+#249	AnnotatorNotes T249	independent_continuant
+T250	PR 5939 5942	D2R
+#250	AnnotatorNotes T250	PR:000001177 (D(2) dopamine receptor)
+T251	GO_MF 5939 5942	D2R
+#251	AnnotatorNotes T251	GO:0001670 (dopamine D2 receptor activity)
+T252	sub 5940 5941	2
+#252	AnnotatorNotes T252	sub (null)
+T253	GO_BP 5964 5972	learning
+#253	AnnotatorNotes T253	GO:0007612 (learning)
+T254	NCBITaxon 5988 5995	rodents
+#254	AnnotatorNotes T254	NCBITaxon:9989 (Rodentia)
+T255	GO_MF 6019 6027	receptor
+#255	AnnotatorNotes T255	GO:0004872 (receptor activity)
+T256	independent_continuant 6019 6027	receptor
+#256	AnnotatorNotes T256	independent_continuant
+T257	GO_MF 6093 6104	D2 receptor
+#257	AnnotatorNotes T257	GO:0001670 (dopamine D2 receptor activity)
+T258	PR 6093 6104	D2 receptor
+#258	AnnotatorNotes T258	PR:000001177 (D(2) dopamine receptor)
+T259	independent_continuant 6093 6104	D2 receptor
+#259	AnnotatorNotes T259	independent_continuant
+T260	sub 6094 6095	2
+#260	AnnotatorNotes T260	sub (null)
+T261	GO_MF 6096 6116	receptor antagonists
+#261	AnnotatorNotes T261	GO:0048019 (receptor antagonist activity)
+T262	independent_continuant 6096 6116	receptor antagonists
+#262	AnnotatorNotes T262	independent_continuant
+T263	CHEBI 6105 6116	antagonists
+#263	AnnotatorNotes T263	CHEBI:48561 (dopaminergic antagonist)
+T264	GO_BP 6143 6152	signaling
+#264	AnnotatorNotes T264	GO:0007165 (signal transduction)
+T265	independent_continuant 6172 6176	D2Rs
+#265	AnnotatorNotes T265	independent_continuant
+T266	PR 6172 6176	D2Rs
+#266	AnnotatorNotes T266	PR:000001177 (D(2) dopamine receptor)
+T267	GO_MF 6172 6176	D2Rs
+#267	AnnotatorNotes T267	GO:0001670 (dopamine D2 receptor activity)
+T268	sub 6173 6174	2
+#268	AnnotatorNotes T268	sub (null)
+T269	GO_BP 6234 6242	learning
+#269	AnnotatorNotes T269	GO:0007612 (learning)
+T270	NCBITaxon 6264 6271	rodents
+#270	AnnotatorNotes T270	NCBITaxon:9989 (Rodentia)
+T271	CHEBI 6303 6327	dopamine D2R antagonists
+#271	AnnotatorNotes T271	"dopamine .. antagonists" CHEBI:48561 (dopaminergic antagonist)
+T272	GO_MF 6303 6315	dopamine D2R
+#272	AnnotatorNotes T272	GO:0001670 (dopamine D2 receptor activity)
+T273	independent_continuant 6303 6315	dopamine D2R
+#273	AnnotatorNotes T273	independent_continuant
+T274	PR 6303 6315	dopamine D2R
+#274	AnnotatorNotes T274	PR:000001177 (D(2) dopamine receptor)
+T275	CHEBI 6303 6311	dopamine
+#275	AnnotatorNotes T275	CHEBI:18243 (dopamine)
+T276	sub 6313 6314	2
+#276	AnnotatorNotes T276	sub (null)
+T277	GO_MF 6316 6327	antagonists
+#277	AnnotatorNotes T277	GO:0048019 (receptor antagonist activity)
+T278	independent_continuant 6316 6327	antagonists
+#278	AnnotatorNotes T278	independent_continuant
+T279	GO_MF 6353 6365	dopamine D2R
+#279	AnnotatorNotes T279	GO:0001670 (dopamine D2 receptor activity)
+T280	independent_continuant 6353 6365	dopamine D2R
+#280	AnnotatorNotes T280	independent_continuant
+T281	PR 6353 6365	dopamine D2R
+#281	AnnotatorNotes T281	PR:000001177 (D(2) dopamine receptor)
+T282	CHEBI 6353 6361	dopamine
+#282	AnnotatorNotes T282	CHEBI:18243 (dopamine)
+T283	sub 6363 6364	2
+#283	AnnotatorNotes T283	sub (null)
+T284	GO_BP 6375 6384	signaling
+#284	AnnotatorNotes T284	GO:0007165 (signal transduction)
+T285	GO_BP 6397 6405	learning
+#285	AnnotatorNotes T285	GO:0007612 (learning)
+T286	GO_BP 6442 6450	learning
+#286	AnnotatorNotes T286	GO:0007612 (learning)
+T287	GO_BP 6555 6575	associative learning
+#287	AnnotatorNotes T287	GO:0008306 (associative learning)
+T288	GO_BP 6596 6604	response
+#288	AnnotatorNotes T288	GO:0050896 (response to stimulus)
+T289	GO_BP 6646 6654	learning
+#289	AnnotatorNotes T289	GO:0007612 (learning)
+T290	NCBITaxon 6658 6665	rodents
+#290	AnnotatorNotes T290	NCBITaxon:9989 (Rodentia)
+T291	GO_BP 6691 6699	learning
+#291	AnnotatorNotes T291	GO:0007612 (learning)
+T292	NCBITaxon 6748 6753	human
+#292	AnnotatorNotes T292	NCBITaxon:9606 (Homo sapiens)
+T293	GO_CC 6864 6872	terminal
+#293	AnnotatorNotes T293	GO:0043679 (nerve terminal)
+T294	CHEBI 6903 6911	dopamine
+#294	AnnotatorNotes T294	CHEBI:18243 (dopamine)
+T295	GO_BP 6948 6956	learning
+#295	AnnotatorNotes T295	GO:0007612 (learning)
+T296	independent_continuant 6985 6988	D2R
+#296	AnnotatorNotes T296	independent_continuant
+T297	PR 6985 6988	D2R
+#297	AnnotatorNotes T297	PR:000001177 (D(2) dopamine receptor)
+T298	GO_MF 6985 6988	D2R
+#298	AnnotatorNotes T298	GO:0001670 (dopamine D2 receptor activity)
+T299	sub 6986 6987	2
+#299	AnnotatorNotes T299	sub (null)
+T300	independent_continuant 6989 6992	D3R
+#300	AnnotatorNotes T300	independent_continuant
+T301	PR 6989 6992	D3R
+#301	AnnotatorNotes T301	PR:000001178 (D(3) dopamine receptor)
+T302	GO_MF 6989 6992	D3R
+#302	AnnotatorNotes T302	GO:0001592 (dopamine D3 receptor activity)
+T303	sub 6990 6991	3
+#303	AnnotatorNotes T303	sub (null)
+T304	CHEBI 6993 7003	antagonist
+#304	AnnotatorNotes T304	CHEBI:48561 (dopaminergic antagonist)
+T305	independent_continuant 6993 7003	antagonist
+#305	AnnotatorNotes T305	independent_continuant
+T306	GO_MF 6993 7003	antagonist
+#306	AnnotatorNotes T306	GO:0048019 (receptor antagonist activity)
+T307	GO_BP 7041 7048	leaning
+#307	AnnotatorNotes T307	GO:0007612 (learning)
+T308	NCBITaxon 7052 7056	mice
+#308	AnnotatorNotes T308	NCBITaxon:10088 (Mus)
+T309	GO_BP 7114 7123	cognitive
+#309	AnnotatorNotes T309	GO:0050890 (cognition)
+T310	NCBITaxon 7148 7153	human
+#310	AnnotatorNotes T310	NCBITaxon:9606 (Homo sapiens)
+T311	GO_MF 7218 7230	dopamine D2R
+#311	AnnotatorNotes T311	GO:0001670 (dopamine D2 receptor activity)
+T312	independent_continuant 7218 7230	dopamine D2R
+#312	AnnotatorNotes T312	independent_continuant
+T313	PR 7218 7230	dopamine D2R
+#313	AnnotatorNotes T313	PR:000001177 (D(2) dopamine receptor)
+T314	EntrezGene 7218 7230	dopamine D2R
+#314	AnnotatorNotes T314	EG:1813
+T315	CHEBI 7218 7226	dopamine
+#315	AnnotatorNotes T315	CHEBI:18243 (dopamine)
+T316	sub 7228 7229	2
+#316	AnnotatorNotes T316	sub (null)
+T317	GO_BP 7253 7261	behavior
+#317	AnnotatorNotes T317	GO:0007610 (behavior)
+T318	NCBITaxon 7265 7270	human
+#318	AnnotatorNotes T318	NCBITaxon:9606 (Homo sapiens)
+T319	GO_MF 7347 7350	D2R
+#319	AnnotatorNotes T319	GO:0001670 (dopamine D2 receptor activity)
+T320	independent_continuant 7347 7350	D2R
+#320	AnnotatorNotes T320	independent_continuant
+T321	PR 7347 7350	D2R
+#321	AnnotatorNotes T321	PR:000001177 (D(2) dopamine receptor)
+T322	sub 7348 7349	2
+#322	AnnotatorNotes T322	sub (null)
+T323	GO_BP 7360 7369	signaling
+#323	AnnotatorNotes T323	GO:0007165 (signal transduction)
+T324	GO_BP 7409 7417	learning
+#324	AnnotatorNotes T324	GO:0007612 (learning)
+T325	GO_BP 7499 7538	dopamine D2 receptor-mediated signaling
+#325	AnnotatorNotes T325	"dopamine .. receptor-mediated signaling" GO:0007212 (dopamine receptor signaling pathway)
+T326	GO_MF 7499 7519	dopamine D2 receptor
+#326	AnnotatorNotes T326	GO:0001670 (dopamine D2 receptor activity)
+T327	EntrezGene 7499 7519	dopamine D2 receptor
+#327	AnnotatorNotes T327	EG:13489
+T328	independent_continuant 7499 7519	dopamine D2 receptor
+#328	AnnotatorNotes T328	independent_continuant
+T329	PR 7499 7519	dopamine D2 receptor
+#329	AnnotatorNotes T329	PR:000001177 (D(2) dopamine receptor)
+T330	CHEBI 7499 7507	dopamine
+#330	AnnotatorNotes T330	CHEBI:18243 (dopamine)
+T331	sub 7509 7510	2
+#331	AnnotatorNotes T331	sub (null)
+T332	GO_BP 7542 7587	associative and non-spatial reversal learning
+#332	AnnotatorNotes T332	"associative .. learning" GO:0008306 (associative learning)
+T333	NCBITaxon 7597 7601	mice
+#333	AnnotatorNotes T333	NCBITaxon:10088 (Mus)
+T334	NCBITaxon 7615 7619	mice
+#334	AnnotatorNotes T334	NCBITaxon:10088 (Mus)
+T335	GO_BP 7634 7643	developed
+#335	AnnotatorNotes T335	GO:0032502 (developmental process)
+T336	GO_MF 7686 7707	dopamine D2 receptors
+#336	AnnotatorNotes T336	GO:0001670 (dopamine D2 receptor activity)
+T337	EntrezGene 7686 7707	dopamine D2 receptors
+#337	AnnotatorNotes T337	EG:13489
+T338	PR 7686 7707	dopamine D2 receptors
+#338	AnnotatorNotes T338	PR:000001177 (D(2) dopamine receptor)
+T339	independent_continuant 7686 7707	dopamine D2 receptors
+#339	AnnotatorNotes T339	independent_continuant
+T340	CHEBI 7686 7694	dopamine
+#340	AnnotatorNotes T340	CHEBI:18243 (dopamine)
+T341	sub 7696 7697	2
+#341	AnnotatorNotes T341	sub (null)
+T342	GO_MF 7709 7712	D2R
+#342	AnnotatorNotes T342	GO:0001670 (dopamine D2 receptor activity)
+T343	PR 7709 7712	D2R
+#343	AnnotatorNotes T343	PR:000001177 (D(2) dopamine receptor)
+T344	EntrezGene 7709 7712	D2R
+#344	AnnotatorNotes T344	EG:13489
+T345	independent_continuant 7709 7712	D2R
+#345	AnnotatorNotes T345	independent_continuant
+T346	sub 7710 7711	2
+#346	AnnotatorNotes T346	sub (null)
+T347	sup 7712 7715	-/-
+#347	AnnotatorNotes T347	sup (null)
+T348	SO 7720 7729	wild-type
+#348	AnnotatorNotes T348	SO:0000817 (wild_type)
+T349	GO_MF 7743 7746	D2R
+#349	AnnotatorNotes T349	GO:0001670 (dopamine D2 receptor activity)
+T350	PR 7743 7746	D2R
+#350	AnnotatorNotes T350	PR:000001177 (D(2) dopamine receptor)
+T351	independent_continuant 7743 7746	D2R
+#351	AnnotatorNotes T351	independent_continuant
+T352	EntrezGene 7743 7746	D2R
+#352	AnnotatorNotes T352	EG:13489
+T353	sub 7744 7745	2
+#353	AnnotatorNotes T353	sub (null)
+T354	sup 7746 7749	+/+
+#354	AnnotatorNotes T354	sup (null)
+T355	SO 7746 7747	+
+#355	AnnotatorNotes T355	SO:0000817 (wild_type)
+T356	SO 7748 7749	+
+#356	AnnotatorNotes T356	SO:0000817 (wild_type)
+T357	GO_BP 7765 7781	operant learning
+#357	AnnotatorNotes T357	GO:0035106 (operant conditioning)
+T358	GO_BP 7829 7847	sensory processing
+#358	AnnotatorNotes T358	GO:0050893 (sensory processing)
+T359	GO_BP 7829 7836	sensory
+#359	AnnotatorNotes T359	GO:0007600 (sensory perception)
+T360	GO_BP 7862 7870	learning
+#360	AnnotatorNotes T360	GO:0007612 (learning)
+T361	GO_MF 7900 7912	dopamine D2R
+#361	AnnotatorNotes T361	GO:0001670 (dopamine D2 receptor activity)
+T362	EntrezGene 7900 7912	dopamine D2R
+#362	AnnotatorNotes T362	EG:13489
+T363	PR 7900 7912	dopamine D2R
+#363	AnnotatorNotes T363	PR:000001177 (D(2) dopamine receptor)
+T364	independent_continuant 7900 7912	dopamine D2R
+#364	AnnotatorNotes T364	independent_continuant
+T365	CHEBI 7900 7908	dopamine
+#365	AnnotatorNotes T365	CHEBI:18243 (dopamine)
+T366	sub 7910 7911	2
+#366	AnnotatorNotes T366	sub (null)
+T367	GO_BP 7922 7931	signaling
+#367	AnnotatorNotes T367	GO:0007165 (signal transduction)
+T368	NCBITaxon 7952 7957	mouse
+#368	AnnotatorNotes T368	NCBITaxon:10088 (Mus)
+T369	GO_BP 7976 7981	learn
+#369	AnnotatorNotes T369	GO:0007612 (learning)
+T370	CHEBI 7997 8001	food
+#370	AnnotatorNotes T370	CHEBI:33290 (food)
+T371	GO_BP 8043 8053	adaptively
+#371	AnnotatorNotes T371	GO:0051866 (general adaptation syndrome)
+T372	GO_BP 8078 8088	behavioral
+#372	AnnotatorNotes T372	GO:0007610 (behavior)
+T373	SO 8170 8179	wild-type
+#373	AnnotatorNotes T373	SO:0000817 (wild_type)
+T374	GO_MF 8184 8187	D2R
+#374	AnnotatorNotes T374	GO:0001670 (dopamine D2 receptor activity)
+T375	EntrezGene 8184 8187	D2R
+#375	AnnotatorNotes T375	EG:13489
+T376	PR 8184 8187	D2R
+#376	AnnotatorNotes T376	PR:000001177 (D(2) dopamine receptor)
+T377	independent_continuant 8184 8187	D2R
+#377	AnnotatorNotes T377	independent_continuant
+T378	sub 8185 8186	2
+#378	AnnotatorNotes T378	sub (null)
+T379	NCBITaxon 8198 8202	mice
+#379	AnnotatorNotes T379	NCBITaxon:10088 (Mus)
+T380	GO_BP 8203 8208	learn
+#380	AnnotatorNotes T380	GO:0007612 (learning)
+T381	GO_BP 8209 8226	operant behaviors
+#381	AnnotatorNotes T381	GO:0035106 (operant conditioning)
+T382	CHEBI 8248 8252	food
+#382	AnnotatorNotes T382	CHEBI:33290 (food)
+T383	GO_MF 8262 8265	D2R
+#383	AnnotatorNotes T383	GO:0001670 (dopamine D2 receptor activity)
+T384	PR 8262 8265	D2R
+#384	AnnotatorNotes T384	PR:000001177 (D(2) dopamine receptor)
+T385	EntrezGene 8262 8265	D2R
+#385	AnnotatorNotes T385	EG:13489
+T386	independent_continuant 8262 8265	D2R
+#386	AnnotatorNotes T386	independent_continuant
+T387	sub 8263 8264	2
+#387	AnnotatorNotes T387	sub (null)
+T388	sup 8265 8268	+/+
+#388	AnnotatorNotes T388	sup (null)
+T389	SO 8265 8266	+
+#389	AnnotatorNotes T389	SO:0000817 (wild_type)
+T390	SO 8267 8268	+
+#390	AnnotatorNotes T390	SO:0000817 (wild_type)
+T391	GO_MF 8273 8276	D2R
+#391	AnnotatorNotes T391	GO:0001670 (dopamine D2 receptor activity)
+T392	independent_continuant 8273 8276	D2R
+#392	AnnotatorNotes T392	independent_continuant
+T393	EntrezGene 8273 8276	D2R
+#393	AnnotatorNotes T393	EG:13489
+T394	PR 8273 8276	D2R
+#394	AnnotatorNotes T394	PR:000001177 (D(2) dopamine receptor)
+T395	sub 8274 8275	2
+#395	AnnotatorNotes T395	sub (null)
+T396	sup 8276 8279	-/-
+#396	AnnotatorNotes T396	sup (null)
+T397	NCBITaxon 8280 8284	mice
+#397	AnnotatorNotes T397	NCBITaxon:10088 (Mus)
+T398	GO_BP 8293 8300	learned
+#398	AnnotatorNotes T398	GO:0007612 (learning)
+T399	GO_BP 8315 8322	consume
+#399	AnnotatorNotes T399	GO:0007631 (feeding behavior)
+T400	CHEBI 8323 8327	food
+#400	AnnotatorNotes T400	CHEBI:33290 (food)
+T401	SO 8405 8414	genotypes
+#401	AnnotatorNotes T401	SO:0001027 (genotype)
+T402	GO_BP 8418 8426	ambulate
+#402	AnnotatorNotes T402	GO:0040011 (locomotion)
+T403	CHEBI 8461 8465	food
+#403	AnnotatorNotes T403	CHEBI:33290 (food)
+T404	SO 8508 8517	genotypes
+#404	AnnotatorNotes T404	SO:0001027 (genotype)
+T405	sub 8548 8552	1,59
+#405	AnnotatorNotes T405	sub (null)
+T406	italic 8560 8561	p
+#406	AnnotatorNotes T406	italic (null)
+T407	sub 8687 8691	4,59
+#407	AnnotatorNotes T407	sub (null)
+T408	italic 8700 8701	p
+#408	AnnotatorNotes T408	italic (null)
+T409	CHEBI 8756 8760	food
+#409	AnnotatorNotes T409	CHEBI:33290 (food)
+T410	SO 8823 8831	genotype
+#410	AnnotatorNotes T410	SO:0001027 (genotype)
+T411	CHEBI 8913 8917	food
+#411	AnnotatorNotes T411	CHEBI:33290 (food)
+T412	sub 8927 8932	1,128
+#412	AnnotatorNotes T412	sub (null)
+T413	italic 8941 8942	p
+#413	AnnotatorNotes T413	italic (null)
+T414	SO 8953 8962	Wild-type
+#414	AnnotatorNotes T414	SO:0000817 (wild_type)
+T415	NCBITaxon 8963 8967	mice
+#415	AnnotatorNotes T415	NCBITaxon:10088 (Mus)
+T416	GO_MF 8979 8982	D2R
+#416	AnnotatorNotes T416	GO:0001670 (dopamine D2 receptor activity)
+T417	PR 8979 8982	D2R
+#417	AnnotatorNotes T417	PR:000001177 (D(2) dopamine receptor)
+T418	independent_continuant 8979 8982	D2R
+#418	AnnotatorNotes T418	independent_continuant
+T419	EntrezGene 8979 8982	D2R
+#419	AnnotatorNotes T419	EG:13489
+T420	sub 8980 8981	2
+#420	AnnotatorNotes T420	sub (null)
+T421	sup 8982 8985	-/-
+#421	AnnotatorNotes T421	sup (null)
+T422	NCBITaxon 8986 8990	mice
+#422	AnnotatorNotes T422	NCBITaxon:10088 (Mus)
+T423	GO_BP 9002 9008	driven
+#423	AnnotatorNotes T423	GO:0048518 (positive regulation of biological process)
+T424	GO_BP 9068 9074	driven
+#424	AnnotatorNotes T424	GO:0048518 (positive regulation of biological process)
+T425	GO_MF 9105 9108	D2R
+#425	AnnotatorNotes T425	GO:0001670 (dopamine D2 receptor activity)
+T426	PR 9105 9108	D2R
+#426	AnnotatorNotes T426	PR:000001177 (D(2) dopamine receptor)
+T427	independent_continuant 9105 9108	D2R
+#427	AnnotatorNotes T427	independent_continuant
+T428	EntrezGene 9105 9108	D2R
+#428	AnnotatorNotes T428	EG:13489
+T429	sub 9106 9107	2
+#429	AnnotatorNotes T429	sub (null)
+T430	sup 9108 9111	-/-
+#430	AnnotatorNotes T430	sup (null)
+T431	NCBITaxon 9112 9116	mice
+#431	AnnotatorNotes T431	NCBITaxon:10088 (Mus)
+T432	sub 9163 9167	(14)
+#432	AnnotatorNotes T432	sub (null)
+T433	italic 9176 9177	p
+#433	AnnotatorNotes T433	italic (null)
+T434	sub 9223 9227	(14)
+#434	AnnotatorNotes T434	sub (null)
+T435	italic 9236 9237	p
+#435	AnnotatorNotes T435	italic (null)
+T436	GO_MF 9251 9254	D2R
+#436	AnnotatorNotes T436	GO:0001670 (dopamine D2 receptor activity)
+T437	independent_continuant 9251 9254	D2R
+#437	AnnotatorNotes T437	independent_continuant
+T438	PR 9251 9254	D2R
+#438	AnnotatorNotes T438	PR:000001177 (D(2) dopamine receptor)
+T439	EntrezGene 9251 9254	D2R
+#439	AnnotatorNotes T439	EG:13489
+T440	sub 9252 9253	2
+#440	AnnotatorNotes T440	sub (null)
+T441	sup 9254 9257	+/+
+#441	AnnotatorNotes T441	sup (null)
+T442	SO 9254 9255	+
+#442	AnnotatorNotes T442	SO:0000817 (wild_type)
+T443	SO 9256 9257	+
+#443	AnnotatorNotes T443	SO:0000817 (wild_type)
+T444	NCBITaxon 9258 9262	mice
+#444	AnnotatorNotes T444	NCBITaxon:10088 (Mus)
+T445	GO_BP 9266 9271	learn
+#445	AnnotatorNotes T445	GO:0007612 (learning)
+T446	CHEBI 9337 9341	food
+#446	AnnotatorNotes T446	CHEBI:33290 (food)
+T447	SO 9368 9377	genotypes
+#447	AnnotatorNotes T447	SO:0001027 (genotype)
+T448	GO_BP 9382 9387	learn
+#448	AnnotatorNotes T448	GO:0007612 (learning)
+T449	GO_BP 9474 9483	responses
+#449	AnnotatorNotes T449	GO:0050896 (response to stimulus)
+T450	NCBITaxon 9503 9507	Mice
+#450	AnnotatorNotes T450	NCBITaxon:10088 (Mus)
+T451	independent_continuant 9516 9537	dopamine D2 receptors
+#451	AnnotatorNotes T451	independent_continuant
+T452	EntrezGene 9516 9537	dopamine D2 receptors
+#452	AnnotatorNotes T452	EG:13489
+T453	GO_MF 9516 9537	dopamine D2 receptors
+#453	AnnotatorNotes T453	GO:0001670 (dopamine D2 receptor activity)
+T454	PR 9516 9537	dopamine D2 receptors
+#454	AnnotatorNotes T454	PR:000001177 (D(2) dopamine receptor)
+T455	CHEBI 9516 9524	dopamine
+#455	AnnotatorNotes T455	CHEBI:18243 (dopamine)
+T456	sub 9526 9527	2
+#456	AnnotatorNotes T456	sub (null)
+T457	GO_BP 9561 9569	behavior
+#457	AnnotatorNotes T457	GO:0007610 (behavior)
+T458	GO_MF 9647 9650	D2R
+#458	AnnotatorNotes T458	GO:0001670 (dopamine D2 receptor activity)
+T459	PR 9647 9650	D2R
+#459	AnnotatorNotes T459	PR:000001177 (D(2) dopamine receptor)
+T460	EntrezGene 9647 9650	D2R
+#460	AnnotatorNotes T460	EG:13489
+T461	independent_continuant 9647 9650	D2R
+#461	AnnotatorNotes T461	independent_continuant
+T462	sub 9648 9649	2
+#462	AnnotatorNotes T462	sub (null)
+T463	sup 9650 9653	-/-
+#463	AnnotatorNotes T463	sup (null)
+T464	NCBITaxon 9654 9658	mice
+#464	AnnotatorNotes T464	NCBITaxon:10088 (Mus)
+T465	GO_BP 9711 9719	learning
+#465	AnnotatorNotes T465	GO:0007612 (learning)
+T466	sub 9768 9772	(14)
+#466	AnnotatorNotes T466	sub (null)
+T467	italic 9781 9782	p
+#467	AnnotatorNotes T467	italic (null)
+T468	GO_MF 9845 9848	D2R
+#468	AnnotatorNotes T468	GO:0001670 (dopamine D2 receptor activity)
+T469	EntrezGene 9845 9848	D2R
+#469	AnnotatorNotes T469	EG:13489
+T470	PR 9845 9848	D2R
+#470	AnnotatorNotes T470	PR:000001177 (D(2) dopamine receptor)
+T471	independent_continuant 9845 9848	D2R
+#471	AnnotatorNotes T471	independent_continuant
+T472	sub 9846 9847	2
+#472	AnnotatorNotes T472	sub (null)
+T473	sup 9848 9851	+/+
+#473	AnnotatorNotes T473	sup (null)
+T474	SO 9848 9849	+
+#474	AnnotatorNotes T474	SO:0000817 (wild_type)
+T475	SO 9850 9851	+
+#475	AnnotatorNotes T475	SO:0000817 (wild_type)
+T476	NCBITaxon 9852 9856	mice
+#476	AnnotatorNotes T476	NCBITaxon:10088 (Mus)
+T477	sub 9868 9872	(14)
+#477	AnnotatorNotes T477	sub (null)
+T478	italic 9880 9881	p
+#478	AnnotatorNotes T478	italic (null)
+T479	CHEBI 9999 10003	food
+#479	AnnotatorNotes T479	CHEBI:33290 (food)
+T480	sup 10013 10014	-
+#480	AnnotatorNotes T480	sup (null)
+T481	GO_BP 10065 10072	respond
+#481	AnnotatorNotes T481	GO:0050896 (response to stimulus)
+T482	SO 10150 10159	genotypes
+#482	AnnotatorNotes T482	SO:0001027 (genotype)
+T483	GO_MF 10226 10229	D2R
+#483	AnnotatorNotes T483	GO:0001670 (dopamine D2 receptor activity)
+T484	PR 10226 10229	D2R
+#484	AnnotatorNotes T484	PR:000001177 (D(2) dopamine receptor)
+T485	EntrezGene 10226 10229	D2R
+#485	AnnotatorNotes T485	EG:13489
+T486	independent_continuant 10226 10229	D2R
+#486	AnnotatorNotes T486	independent_continuant
+T487	sub 10227 10228	2
+#487	AnnotatorNotes T487	sub (null)
+T488	sup 10229 10232	-/-
+#488	AnnotatorNotes T488	sup (null)
+T489	NCBITaxon 10233 10237	mice
+#489	AnnotatorNotes T489	NCBITaxon:10088 (Mus)
+T490	italic 10249 10250	p
+#490	AnnotatorNotes T490	italic (null)
+T491	GO_MF 10259 10262	D2R
+#491	AnnotatorNotes T491	GO:0001670 (dopamine D2 receptor activity)
+T492	PR 10259 10262	D2R
+#492	AnnotatorNotes T492	PR:000001177 (D(2) dopamine receptor)
+T493	EntrezGene 10259 10262	D2R
+#493	AnnotatorNotes T493	EG:13489
+T494	independent_continuant 10259 10262	D2R
+#494	AnnotatorNotes T494	independent_continuant
+T495	sub 10260 10261	2
+#495	AnnotatorNotes T495	sub (null)
+T496	sup 10262 10265	+/+
+#496	AnnotatorNotes T496	sup (null)
+T497	SO 10262 10263	+
+#497	AnnotatorNotes T497	SO:0000817 (wild_type)
+T498	SO 10264 10265	+
+#498	AnnotatorNotes T498	SO:0000817 (wild_type)
+T499	NCBITaxon 10266 10270	mice
+#499	AnnotatorNotes T499	NCBITaxon:10088 (Mus)
+T500	italic 10281 10282	p
+#500	AnnotatorNotes T500	italic (null)
+T501	GO_MF 10292 10295	D2R
+#501	AnnotatorNotes T501	GO:0001670 (dopamine D2 receptor activity)
+T502	independent_continuant 10292 10295	D2R
+#502	AnnotatorNotes T502	independent_continuant
+T503	PR 10292 10295	D2R
+#503	AnnotatorNotes T503	PR:000001177 (D(2) dopamine receptor)
+T504	EntrezGene 10292 10295	D2R
+#504	AnnotatorNotes T504	EG:13489
+T505	sub 10293 10294	2
+#505	AnnotatorNotes T505	sub (null)
+T506	sup 10295 10298	-/-
+#506	AnnotatorNotes T506	sup (null)
+T507	NCBITaxon 10299 10303	mice
+#507	AnnotatorNotes T507	NCBITaxon:10088 (Mus)
+T508	GO_MF 10342 10345	D2R
+#508	AnnotatorNotes T508	GO:0001670 (dopamine D2 receptor activity)
+T509	PR 10342 10345	D2R
+#509	AnnotatorNotes T509	PR:000001177 (D(2) dopamine receptor)
+T510	independent_continuant 10342 10345	D2R
+#510	AnnotatorNotes T510	independent_continuant
+T511	EntrezGene 10342 10345	D2R
+#511	AnnotatorNotes T511	EG:13489
+T512	sub 10343 10344	2
+#512	AnnotatorNotes T512	sub (null)
+T513	sup 10345 10348	+/+
+#513	AnnotatorNotes T513	sup (null)
+T514	SO 10345 10346	+
+#514	AnnotatorNotes T514	SO:0000817 (wild_type)
+T515	SO 10347 10348	+
+#515	AnnotatorNotes T515	SO:0000817 (wild_type)
+T516	NCBITaxon 10349 10353	mice
+#516	AnnotatorNotes T516	NCBITaxon:10088 (Mus)
+T517	italic 10365 10366	p
+#517	AnnotatorNotes T517	italic (null)
+T518	GO_MF 10414 10417	D2R
+#518	AnnotatorNotes T518	GO:0001670 (dopamine D2 receptor activity)
+T519	PR 10414 10417	D2R
+#519	AnnotatorNotes T519	PR:000001177 (D(2) dopamine receptor)
+T520	EntrezGene 10414 10417	D2R
+#520	AnnotatorNotes T520	EG:13489
+T521	independent_continuant 10414 10417	D2R
+#521	AnnotatorNotes T521	independent_continuant
+T522	sub 10415 10416	2
+#522	AnnotatorNotes T522	sub (null)
+T523	sup 10417 10420	-/-
+#523	AnnotatorNotes T523	sup (null)
+T524	GO_MF 10425 10428	D2R
+#524	AnnotatorNotes T524	GO:0001670 (dopamine D2 receptor activity)
+T525	independent_continuant 10425 10428	D2R
+#525	AnnotatorNotes T525	independent_continuant
+T526	EntrezGene 10425 10428	D2R
+#526	AnnotatorNotes T526	EG:13489
+T527	PR 10425 10428	D2R
+#527	AnnotatorNotes T527	PR:000001177 (D(2) dopamine receptor)
+T528	sub 10426 10427	2
+#528	AnnotatorNotes T528	sub (null)
+T529	sup 10428 10431	+/+
+#529	AnnotatorNotes T529	sup (null)
+T530	SO 10428 10429	+
+#530	AnnotatorNotes T530	SO:0000817 (wild_type)
+T531	SO 10430 10431	+
+#531	AnnotatorNotes T531	SO:0000817 (wild_type)
+T532	NCBITaxon 10432 10436	mice
+#532	AnnotatorNotes T532	NCBITaxon:10088 (Mus)
+T533	italic 10467 10468	p
+#533	AnnotatorNotes T533	italic (null)
+T534	NCBITaxon 10617 10624	animals
+#534	AnnotatorNotes T534	NCBITaxon:33208 (Metazoa)
+T535	GO_BP 10629 10639	responding
+#535	AnnotatorNotes T535	GO:0050896 (response to stimulus)
+T536	GO_MF 10725 10728	D2R
+#536	AnnotatorNotes T536	GO:0001670 (dopamine D2 receptor activity)
+T537	PR 10725 10728	D2R
+#537	AnnotatorNotes T537	PR:000001177 (D(2) dopamine receptor)
+T538	EntrezGene 10725 10728	D2R
+#538	AnnotatorNotes T538	EG:13489
+T539	independent_continuant 10725 10728	D2R
+#539	AnnotatorNotes T539	independent_continuant
+T540	sub 10726 10727	2
+#540	AnnotatorNotes T540	sub (null)
+T541	sup 10728 10731	-/-
+#541	AnnotatorNotes T541	sup (null)
+T542	NCBITaxon 10732 10736	mice
+#542	AnnotatorNotes T542	NCBITaxon:10088 (Mus)
+T543	GO_MF 10753 10756	D2R
+#543	AnnotatorNotes T543	GO:0001670 (dopamine D2 receptor activity)
+T544	PR 10753 10756	D2R
+#544	AnnotatorNotes T544	PR:000001177 (D(2) dopamine receptor)
+T545	EntrezGene 10753 10756	D2R
+#545	AnnotatorNotes T545	EG:13489
+T546	independent_continuant 10753 10756	D2R
+#546	AnnotatorNotes T546	independent_continuant
+T547	sub 10754 10755	2
+#547	AnnotatorNotes T547	sub (null)
+T548	sup 10756 10759	+/+
+#548	AnnotatorNotes T548	sup (null)
+T549	SO 10756 10757	+
+#549	AnnotatorNotes T549	SO:0000817 (wild_type)
+T550	SO 10758 10759	+
+#550	AnnotatorNotes T550	SO:0000817 (wild_type)
+T551	NCBITaxon 10760 10764	mice
+#551	AnnotatorNotes T551	NCBITaxon:10088 (Mus)
+T552	italic 10775 10776	p
+#552	AnnotatorNotes T552	italic (null)
+T553	GO_MF 11151 11154	D2R
+#553	AnnotatorNotes T553	GO:0001670 (dopamine D2 receptor activity)
+T554	PR 11151 11154	D2R
+#554	AnnotatorNotes T554	PR:000001177 (D(2) dopamine receptor)
+T555	independent_continuant 11151 11154	D2R
+#555	AnnotatorNotes T555	independent_continuant
+T556	EntrezGene 11151 11154	D2R
+#556	AnnotatorNotes T556	EG:13489
+T557	sub 11152 11153	2
+#557	AnnotatorNotes T557	sub (null)
+T558	sup 11154 11157	+/+
+#558	AnnotatorNotes T558	sup (null)
+T559	SO 11154 11155	+
+#559	AnnotatorNotes T559	SO:0000817 (wild_type)
+T560	SO 11156 11157	+
+#560	AnnotatorNotes T560	SO:0000817 (wild_type)
+T561	NCBITaxon 11158 11162	mice
+#561	AnnotatorNotes T561	NCBITaxon:10088 (Mus)
+T562	NCBITaxon 11236 11240	mice
+#562	AnnotatorNotes T562	NCBITaxon:10088 (Mus)
+T563	GO_MF 11346 11349	D2R
+#563	AnnotatorNotes T563	GO:0001670 (dopamine D2 receptor activity)
+T564	independent_continuant 11346 11349	D2R
+#564	AnnotatorNotes T564	independent_continuant
+T565	EntrezGene 11346 11349	D2R
+#565	AnnotatorNotes T565	EG:13489
+T566	PR 11346 11349	D2R
+#566	AnnotatorNotes T566	PR:000001177 (D(2) dopamine receptor)
+T567	sub 11347 11348	2
+#567	AnnotatorNotes T567	sub (null)
+T568	sup 11349 11352	+/+
+#568	AnnotatorNotes T568	sup (null)
+T569	SO 11349 11350	+
+#569	AnnotatorNotes T569	SO:0000817 (wild_type)
+T570	SO 11351 11352	+
+#570	AnnotatorNotes T570	SO:0000817 (wild_type)
+T571	NCBITaxon 11353 11357	mice
+#571	AnnotatorNotes T571	NCBITaxon:10088 (Mus)
+T572	GO_MF 11384 11387	D2R
+#572	AnnotatorNotes T572	GO:0001670 (dopamine D2 receptor activity)
+T573	PR 11384 11387	D2R
+#573	AnnotatorNotes T573	PR:000001177 (D(2) dopamine receptor)
+T574	independent_continuant 11384 11387	D2R
+#574	AnnotatorNotes T574	independent_continuant
+T575	EntrezGene 11384 11387	D2R
+#575	AnnotatorNotes T575	EG:13489
+T576	sub 11385 11386	2
+#576	AnnotatorNotes T576	sub (null)
+T577	sup 11387 11390	-/-
+#577	AnnotatorNotes T577	sup (null)
+T578	NCBITaxon 11391 11395	mice
+#578	AnnotatorNotes T578	NCBITaxon:10088 (Mus)
+T579	GO_MF 11456 11459	D2R
+#579	AnnotatorNotes T579	GO:0001670 (dopamine D2 receptor activity)
+T580	EntrezGene 11456 11459	D2R
+#580	AnnotatorNotes T580	EG:13489
+T581	independent_continuant 11456 11459	D2R
+#581	AnnotatorNotes T581	independent_continuant
+T582	PR 11456 11459	D2R
+#582	AnnotatorNotes T582	PR:000001177 (D(2) dopamine receptor)
+T583	sub 11457 11458	2
+#583	AnnotatorNotes T583	sub (null)
+T584	sup 11459 11462	-/-
+#584	AnnotatorNotes T584	sup (null)
+T585	NCBITaxon 11463 11467	mice
+#585	AnnotatorNotes T585	NCBITaxon:10088 (Mus)
+T586	SO 11593 11602	genotypes
+#586	AnnotatorNotes T586	SO:0001027 (genotype)
+T587	sub 11644 11648	1,51
+#587	AnnotatorNotes T587	sub (null)
+T588	italic 11658 11659	p
+#588	AnnotatorNotes T588	italic (null)
+T589	GO_BP 11741 11780	dopamine D2 receptor-mediated signaling
+#589	AnnotatorNotes T589	"dopamine .. receptor-mediated signaling" GO:0007212 (dopamine receptor signaling pathway)
+T590	GO_MF 11741 11761	dopamine D2 receptor
+#590	AnnotatorNotes T590	GO:0001670 (dopamine D2 receptor activity)
+T591	independent_continuant 11741 11761	dopamine D2 receptor
+#591	AnnotatorNotes T591	independent_continuant
+T592	PR 11741 11761	dopamine D2 receptor
+#592	AnnotatorNotes T592	PR:000001177 (D(2) dopamine receptor)
+T593	EntrezGene 11741 11761	dopamine D2 receptor
+#593	AnnotatorNotes T593	EG:13489
+T594	CHEBI 11741 11749	dopamine
+#594	AnnotatorNotes T594	CHEBI:18243 (dopamine)
+T595	sub 11751 11752	2
+#595	AnnotatorNotes T595	sub (null)
+T596	GO_BP 11806 11839	associative and reversal learning
+#596	AnnotatorNotes T596	"associative .. learning" GO:0008306 (associative learning)
+T597	GO_MF 11841 11844	D2R
+#597	AnnotatorNotes T597	GO:0001670 (dopamine D2 receptor activity)
+T598	PR 11841 11844	D2R
+#598	AnnotatorNotes T598	PR:000001177 (D(2) dopamine receptor)
+T599	EntrezGene 11841 11844	D2R
+#599	AnnotatorNotes T599	EG:13489
+T600	independent_continuant 11841 11844	D2R
+#600	AnnotatorNotes T600	independent_continuant
+T601	sub 11842 11843	2
+#601	AnnotatorNotes T601	sub (null)
+T602	sup 11844 11847	-/-
+#602	AnnotatorNotes T602	sup (null)
+T603	NCBITaxon 11848 11852	mice
+#603	AnnotatorNotes T603	NCBITaxon:10088 (Mus)
+T604	GO_BP 11892 11900	learning
+#604	AnnotatorNotes T604	GO:0007612 (learning)
+T605	GO_BP 11915 11922	consume
+#605	AnnotatorNotes T605	GO:0007631 (feeding behavior)
+T606	CHEBI 11923 11927	food
+#606	AnnotatorNotes T606	CHEBI:33290 (food)
+T607	GO_BP 11959 11977	locomotor behavior
+#607	AnnotatorNotes T607	GO:0007626 (locomotory behavior)
+T608	GO_BP 11959 11968	locomotor
+#608	AnnotatorNotes T608	GO:0040011 (locomotion)
+T609	CHEBI 12068 12072	food
+#609	AnnotatorNotes T609	CHEBI:33290 (food)
+T610	GO_MF 12130 12133	D2R
+#610	AnnotatorNotes T610	GO:0001670 (dopamine D2 receptor activity)
+T611	PR 12130 12133	D2R
+#611	AnnotatorNotes T611	PR:000001177 (D(2) dopamine receptor)
+T612	independent_continuant 12130 12133	D2R
+#612	AnnotatorNotes T612	independent_continuant
+T613	EntrezGene 12130 12133	D2R
+#613	AnnotatorNotes T613	EG:13489
+T614	sub 12131 12132	2
+#614	AnnotatorNotes T614	sub (null)
+T615	sup 12133 12136	-/-
+#615	AnnotatorNotes T615	sup (null)
+T616	NCBITaxon 12137 12141	mice
+#616	AnnotatorNotes T616	NCBITaxon:10088 (Mus)
+T617	GO_MF 12248 12251	D2R
+#617	AnnotatorNotes T617	GO:0001670 (dopamine D2 receptor activity)
+T618	independent_continuant 12248 12251	D2R
+#618	AnnotatorNotes T618	independent_continuant
+T619	EntrezGene 12248 12251	D2R
+#619	AnnotatorNotes T619	EG:13489
+T620	PR 12248 12251	D2R
+#620	AnnotatorNotes T620	PR:000001177 (D(2) dopamine receptor)
+T621	sub 12249 12250	2
+#621	AnnotatorNotes T621	sub (null)
+T622	GO_BP 12261 12270	signaling
+#622	AnnotatorNotes T622	GO:0007165 (signal transduction)
+T623	CL 12290 12298	neuronal
+#623	AnnotatorNotes T623	CL:0000540 (neuron)
+T624	GO_MF 12392 12395	D2R
+#624	AnnotatorNotes T624	GO:0001670 (dopamine D2 receptor activity)
+T625	PR 12392 12395	D2R
+#625	AnnotatorNotes T625	PR:000001177 (D(2) dopamine receptor)
+T626	EntrezGene 12392 12395	D2R
+#626	AnnotatorNotes T626	EG:13489
+T627	independent_continuant 12392 12395	D2R
+#627	AnnotatorNotes T627	independent_continuant
+T628	sub 12393 12394	2
+#628	AnnotatorNotes T628	sub (null)
+T629	sup 12395 12398	-/-
+#629	AnnotatorNotes T629	sup (null)
+T630	NCBITaxon 12399 12403	mice
+#630	AnnotatorNotes T630	NCBITaxon:10088 (Mus)
+T631	GO_BP 12483 12501	dopamine signaling
+#631	AnnotatorNotes T631	GO:0007212 (dopamine receptor signaling pathway)
+T632	CHEBI 12483 12491	dopamine
+#632	AnnotatorNotes T632	CHEBI:18243 (dopamine)
+T633	GO_MF 12515 12528	dopamine D2Rs
+#633	AnnotatorNotes T633	GO:0001670 (dopamine D2 receptor activity)
+T634	PR 12515 12528	dopamine D2Rs
+#634	AnnotatorNotes T634	PR:000001177 (D(2) dopamine receptor)
+T635	EntrezGene 12515 12528	dopamine D2Rs
+#635	AnnotatorNotes T635	EG:13489
+T636	independent_continuant 12515 12528	dopamine D2Rs
+#636	AnnotatorNotes T636	independent_continuant
+T637	CHEBI 12515 12523	dopamine
+#637	AnnotatorNotes T637	CHEBI:18243 (dopamine)
+T638	sub 12525 12526	2
+#638	AnnotatorNotes T638	sub (null)
+T639	GO_BP 12565 12573	learning
+#639	AnnotatorNotes T639	GO:0007612 (learning)
+T640	NCBITaxon 12585 12589	Mice
+#640	AnnotatorNotes T640	NCBITaxon:10088 (Mus)
+T641	GO_MF 12613 12625	dopamine D2R
+#641	AnnotatorNotes T641	GO:0001670 (dopamine D2 receptor activity)
+T642	PR 12613 12625	dopamine D2R
+#642	AnnotatorNotes T642	PR:000001177 (D(2) dopamine receptor)
+T643	independent_continuant 12613 12625	dopamine D2R
+#643	AnnotatorNotes T643	independent_continuant
+T644	EntrezGene 12613 12625	dopamine D2R
+#644	AnnotatorNotes T644	EG:13489
+T645	CHEBI 12613 12621	dopamine
+#645	AnnotatorNotes T645	CHEBI:18243 (dopamine)
+T646	sub 12623 12624	2
+#646	AnnotatorNotes T646	sub (null)
+T647	GO_BP 12635 12644	signaling
+#647	AnnotatorNotes T647	GO:0007165 (signal transduction)
+T648	CHEBI 12707 12711	food
+#648	AnnotatorNotes T648	CHEBI:33290 (food)
+T649	GO_BP 12733 12740	learned
+#649	AnnotatorNotes T649	GO:0007612 (learning)
+T650	CHEBI 12752 12756	food
+#650	AnnotatorNotes T650	CHEBI:33290 (food)
+T651	NCBITaxon 12868 12872	rats
+#651	AnnotatorNotes T651	NCBITaxon:10114 (Rattus)
+T652	GO_MF 12894 12897	D2R
+#652	AnnotatorNotes T652	GO:0001670 (dopamine D2 receptor activity)
+T653	independent_continuant 12894 12897	D2R
+#653	AnnotatorNotes T653	independent_continuant
+T654	PR 12894 12897	D2R
+#654	AnnotatorNotes T654	PR:000001177 (D(2) dopamine receptor)
+T655	sub 12895 12896	2
+#655	AnnotatorNotes T655	sub (null)
+T656	CHEBI 12898 12909	antagonists
+#656	AnnotatorNotes T656	CHEBI:48561 (dopaminergic antagonist)
+T657	GO_MF 12898 12909	antagonists
+#657	AnnotatorNotes T657	GO:0048019 (receptor antagonist activity)
+T658	independent_continuant 12898 12909	antagonists
+#658	AnnotatorNotes T658	independent_continuant
+T659	GO_BP 12976 13008	associative and operant learning
+#659	AnnotatorNotes T659	"associative .. learning" GO:0008306 (associative learning)
+T660	GO_BP 12992 13008	operant learning
+#660	AnnotatorNotes T660	GO:0035106 (operant conditioning)
+T661	CHEBI 13095 13103	dopamine
+#661	AnnotatorNotes T661	CHEBI:18243 (dopamine)
+T662	GO_MF 13128 13132	D2Rs
+#662	AnnotatorNotes T662	GO:0001670 (dopamine D2 receptor activity)
+T663	independent_continuant 13128 13132	D2Rs
+#663	AnnotatorNotes T663	independent_continuant
+T664	PR 13128 13132	D2Rs
+#664	AnnotatorNotes T664	PR:000001177 (D(2) dopamine receptor)
+T665	sub 13129 13130	2
+#665	AnnotatorNotes T665	sub (null)
+T666	CHEBI 13183 13187	food
+#666	AnnotatorNotes T666	CHEBI:33290 (food)
+T667	GO_MF 13241 13244	D2R
+#667	AnnotatorNotes T667	GO:0001670 (dopamine D2 receptor activity)
+T668	EntrezGene 13241 13244	D2R
+#668	AnnotatorNotes T668	EG:13489
+T669	independent_continuant 13241 13244	D2R
+#669	AnnotatorNotes T669	independent_continuant
+T670	PR 13241 13244	D2R
+#670	AnnotatorNotes T670	PR:000001177 (D(2) dopamine receptor)
+T671	sub 13242 13243	2
+#671	AnnotatorNotes T671	sub (null)
+T672	sup 13244 13247	-/-
+#672	AnnotatorNotes T672	sup (null)
+T673	NCBITaxon 13248 13252	mice
+#673	AnnotatorNotes T673	NCBITaxon:10088 (Mus)
+T674	GO_MF 13302 13306	D2Rs
+#674	AnnotatorNotes T674	GO:0001670 (dopamine D2 receptor activity)
+T675	EntrezGene 13302 13306	D2Rs
+#675	AnnotatorNotes T675	EG:13489
+T676	PR 13302 13306	D2Rs
+#676	AnnotatorNotes T676	PR:000001177 (D(2) dopamine receptor)
+T677	independent_continuant 13302 13306	D2Rs
+#677	AnnotatorNotes T677	independent_continuant
+T678	sub 13303 13304	2
+#678	AnnotatorNotes T678	sub (null)
+T679	sup 13338 13339	+
+#679	AnnotatorNotes T679	sup (null)
+T680	sup 13341 13342	-
+#680	AnnotatorNotes T680	sup (null)
+T681	GO_BP 13360 13388	operant associative learning
+#681	AnnotatorNotes T681	"operant .. learning" GO:0035106 (operant conditioning)
+T682	GO_BP 13368 13388	associative learning
+#682	AnnotatorNotes T682	GO:0008306 (associative learning)
+T683	GO_BP 13478 13498	associative learning
+#683	AnnotatorNotes T683	GO:0008306 (associative learning)
+T684	independent_continuant 13515 13528	dopamine D1Rs
+#684	AnnotatorNotes T684	independent_continuant
+T685	PR 13515 13528	dopamine D1Rs
+#685	AnnotatorNotes T685	PR:000001175 (D(1A) dopamine receptor)
+T686	GO_MF 13515 13528	dopamine D1Rs
+#686	AnnotatorNotes T686	GO:0001590 (dopamine D1 receptor activity)
+T687	CHEBI 13515 13523	dopamine
+#687	AnnotatorNotes T687	CHEBI:18243 (dopamine)
+T688	sub 13525 13526	1
+#688	AnnotatorNotes T688	sub (null)
+T689	independent_continuant 13563 13576	dopamine D1Rs
+#689	AnnotatorNotes T689	independent_continuant
+T690	PR 13563 13576	dopamine D1Rs
+#690	AnnotatorNotes T690	PR:000001175 (D(1A) dopamine receptor)
+T691	GO_MF 13563 13576	dopamine D1Rs
+#691	AnnotatorNotes T691	GO:0001590 (dopamine D1 receptor activity)
+T692	CHEBI 13563 13571	dopamine
+#692	AnnotatorNotes T692	CHEBI:18243 (dopamine)
+T693	sub 13573 13574	1
+#693	AnnotatorNotes T693	sub (null)
+T694	CHEBI 13582 13590	dopamine
+#694	AnnotatorNotes T694	CHEBI:18243 (dopamine)
+T695	GO_BP 13600 13608	learning
+#695	AnnotatorNotes T695	GO:0007612 (learning)
+T696	GO_MF 13613 13617	D2Rs
+#696	AnnotatorNotes T696	GO:0001670 (dopamine D2 receptor activity)
+T697	PR 13613 13617	D2Rs
+#697	AnnotatorNotes T697	PR:000001177 (D(2) dopamine receptor)
+T698	independent_continuant 13613 13617	D2Rs
+#698	AnnotatorNotes T698	independent_continuant
+T699	sub 13614 13615	2
+#699	AnnotatorNotes T699	sub (null)
+T700	GO_BP 13623 13646	motor related behaviors
+#700	AnnotatorNotes T700	GO:0007626 (locomotory behavior)
+T701	GO_BP 13623 13628	motor
+#701	AnnotatorNotes T701	GO:0050879 (multicellular organismal movement)
+T702	CHEBI 13724 13748	dopamine D2/3 antagonist
+#702	AnnotatorNotes T702	"dopamine .. antagonist" CHEBI:48561 (dopaminergic antagonist)
+T703	GO_MF 13724 13735	dopamine D2
+#703	AnnotatorNotes T703	GO:0001670 (dopamine D2 receptor activity)
+T704	PR 13724 13735	dopamine D2
+#704	AnnotatorNotes T704	PR:000001177 (D(2) dopamine receptor)
+T705	independent_continuant 13724 13735	dopamine D2
+#705	AnnotatorNotes T705	independent_continuant
+T706	CHEBI 13724 13732	dopamine
+#706	AnnotatorNotes T706	CHEBI:18243 (dopamine)
+T707	sub 13734 13737	2/3
+#707	AnnotatorNotes T707	sub (null)
+T708	GO_MF 13738 13748	antagonist
+#708	AnnotatorNotes T708	GO:0048019 (receptor antagonist activity)
+T709	independent_continuant 13738 13748	antagonist
+#709	AnnotatorNotes T709	independent_continuant
+T710	CHEBI 13795 13799	food
+#710	AnnotatorNotes T710	CHEBI:33290 (food)
+T711	GO_BP 13810 13830	associative learning
+#711	AnnotatorNotes T711	GO:0008306 (associative learning)
+T712	CHEBI 13875 13886	antagonists
+#712	AnnotatorNotes T712	CHEBI:48561 (dopaminergic antagonist)
+T713	independent_continuant 13875 13886	antagonists
+#713	AnnotatorNotes T713	independent_continuant
+T714	GO_MF 13875 13886	antagonists
+#714	AnnotatorNotes T714	GO:0048019 (receptor antagonist activity)
+T715	GO_BP 13903 13911	learning
+#715	AnnotatorNotes T715	GO:0007612 (learning)
+T716	independent_continuant 13945 13948	D1R
+#716	AnnotatorNotes T716	independent_continuant
+T717	GO_MF 13945 13948	D1R
+#717	AnnotatorNotes T717	GO:0001590 (dopamine D1 receptor activity)
+T718	PR 13945 13948	D1R
+#718	AnnotatorNotes T718	PR:000001175 (D(1A) dopamine receptor)
+T719	sub 13946 13947	1
+#719	AnnotatorNotes T719	sub (null)
+T720	GO_MF 13952 13955	D2R
+#720	AnnotatorNotes T720	GO:0001670 (dopamine D2 receptor activity)
+T721	PR 13952 13955	D2R
+#721	AnnotatorNotes T721	PR:000001177 (D(2) dopamine receptor)
+T722	independent_continuant 13952 13955	D2R
+#722	AnnotatorNotes T722	independent_continuant
+T723	sub 13953 13954	2
+#723	AnnotatorNotes T723	sub (null)
+T724	CHEBI 14084 14095	antagonists
+#724	AnnotatorNotes T724	CHEBI:48561 (dopaminergic antagonist)
+T725	independent_continuant 14084 14095	antagonists
+#725	AnnotatorNotes T725	independent_continuant
+T726	GO_MF 14084 14095	antagonists
+#726	AnnotatorNotes T726	GO:0048019 (receptor antagonist activity)
+T727	GO_MF 14162 14165	D2R
+#727	AnnotatorNotes T727	GO:0001670 (dopamine D2 receptor activity)
+T728	independent_continuant 14162 14165	D2R
+#728	AnnotatorNotes T728	independent_continuant
+T729	PR 14162 14165	D2R
+#729	AnnotatorNotes T729	PR:000001177 (D(2) dopamine receptor)
+T730	sub 14163 14164	2
+#730	AnnotatorNotes T730	sub (null)
+T731	GO_BP 14175 14184	signaling
+#731	AnnotatorNotes T731	GO:0007165 (signal transduction)
+T732	GO_MF 14244 14247	D2R
+#732	AnnotatorNotes T732	GO:0001670 (dopamine D2 receptor activity)
+T733	independent_continuant 14244 14247	D2R
+#733	AnnotatorNotes T733	independent_continuant
+T734	PR 14244 14247	D2R
+#734	AnnotatorNotes T734	PR:000001177 (D(2) dopamine receptor)
+T735	sub 14245 14246	2
+#735	AnnotatorNotes T735	sub (null)
+T736	GO_BP 14257 14266	signaling
+#736	AnnotatorNotes T736	GO:0007165 (signal transduction)
+T737	GO_BP 14270 14303	associative and reversal learning
+#737	AnnotatorNotes T737	"associative .. learning" GO:0008306 (associative learning)
+T738	GO_MF 14387 14390	D2R
+#738	AnnotatorNotes T738	GO:0001670 (dopamine D2 receptor activity)
+T739	PR 14387 14390	D2R
+#739	AnnotatorNotes T739	PR:000001177 (D(2) dopamine receptor)
+T740	independent_continuant 14387 14390	D2R
+#740	AnnotatorNotes T740	independent_continuant
+T741	sub 14388 14389	2
+#741	AnnotatorNotes T741	sub (null)
+T742	CHEBI 14391 14402	antagonists
+#742	AnnotatorNotes T742	CHEBI:48561 (dopaminergic antagonist)
+T743	independent_continuant 14391 14402	antagonists
+#743	AnnotatorNotes T743	independent_continuant
+T744	GO_MF 14391 14402	antagonists
+#744	AnnotatorNotes T744	GO:0048019 (receptor antagonist activity)
+T745	GO_BP 14406 14416	locomotion
+#745	AnnotatorNotes T745	GO:0040011 (locomotion)
+T746	GO_BP 14421 14429	learning
+#746	AnnotatorNotes T746	GO:0007612 (learning)
+T747	GO_MF 14499 14502	D2R
+#747	AnnotatorNotes T747	GO:0001670 (dopamine D2 receptor activity)
+T748	independent_continuant 14499 14502	D2R
+#748	AnnotatorNotes T748	independent_continuant
+T749	PR 14499 14502	D2R
+#749	AnnotatorNotes T749	PR:000001177 (D(2) dopamine receptor)
+T750	sub 14500 14501	2
+#750	AnnotatorNotes T750	sub (null)
+T751	GO_BP 14512 14521	signaling
+#751	AnnotatorNotes T751	GO:0007165 (signal transduction)
+T752	GO_BP 14540 14545	motor
+#752	AnnotatorNotes T752	GO:0050879 (multicellular organismal movement)
+T753	GO_BP 14560 14568	learning
+#753	AnnotatorNotes T753	GO:0007612 (learning)
+T754	CHEBI 14653 14658	drugs
+#754	AnnotatorNotes T754	CHEBI:23888 (drug)
+T755	GO_MF 14731 14744	dopamine D2Rs
+#755	AnnotatorNotes T755	GO:0001670 (dopamine D2 receptor activity)
+T756	independent_continuant 14731 14744	dopamine D2Rs
+#756	AnnotatorNotes T756	independent_continuant
+T757	PR 14731 14744	dopamine D2Rs
+#757	AnnotatorNotes T757	PR:000001177 (D(2) dopamine receptor)
+T758	CHEBI 14731 14739	dopamine
+#758	AnnotatorNotes T758	CHEBI:18243 (dopamine)
+T759	sub 14741 14742	2
+#759	AnnotatorNotes T759	sub (null)
+T760	GO_MF 14824 14828	D2Rs
+#760	AnnotatorNotes T760	GO:0001670 (dopamine D2 receptor activity)
+T761	PR 14824 14828	D2Rs
+#761	AnnotatorNotes T761	PR:000001177 (D(2) dopamine receptor)
+T762	independent_continuant 14824 14828	D2Rs
+#762	AnnotatorNotes T762	independent_continuant
+T763	sub 14825 14826	2
+#763	AnnotatorNotes T763	sub (null)
+T764	GO_BP 14832 14852	associative learning
+#764	AnnotatorNotes T764	GO:0008306 (associative learning)
+T765	GO_BP 14899 14908	locomotor
+#765	AnnotatorNotes T765	GO:0040011 (locomotion)
+T766	GO_BP 14991 15005	motor behavior
+#766	AnnotatorNotes T766	GO:0007626 (locomotory behavior)
+T767	GO_BP 14991 14996	motor
+#767	AnnotatorNotes T767	GO:0050879 (multicellular organismal movement)
+T768	GO_BP 15066 15074	learning
+#768	AnnotatorNotes T768	GO:0007612 (learning)
+T769	GO_MF 15145 15149	D2Rs
+#769	AnnotatorNotes T769	GO:0001670 (dopamine D2 receptor activity)
+T770	PR 15145 15149	D2Rs
+#770	AnnotatorNotes T770	PR:000001177 (D(2) dopamine receptor)
+T771	independent_continuant 15145 15149	D2Rs
+#771	AnnotatorNotes T771	independent_continuant
+T772	sub 15146 15147	2
+#772	AnnotatorNotes T772	sub (null)
+T773	GO_BP 15153 15173	associative learning
+#773	AnnotatorNotes T773	GO:0008306 (associative learning)
+T774	GO_BP 15194 15208	motor behavior
+#774	AnnotatorNotes T774	GO:0007626 (locomotory behavior)
+T775	GO_BP 15194 15199	motor
+#775	AnnotatorNotes T775	GO:0050879 (multicellular organismal movement)
+T776	GO_MF 15325 15328	D2R
+#776	AnnotatorNotes T776	GO:0001670 (dopamine D2 receptor activity)
+T777	independent_continuant 15325 15328	D2R
+#777	AnnotatorNotes T777	independent_continuant
+T778	PR 15325 15328	D2R
+#778	AnnotatorNotes T778	PR:000001177 (D(2) dopamine receptor)
+T779	sub 15326 15327	2
+#779	AnnotatorNotes T779	sub (null)
+T780	CHEBI 15329 15340	antagonists
+#780	AnnotatorNotes T780	CHEBI:48561 (dopaminergic antagonist)
+T781	independent_continuant 15329 15340	antagonists
+#781	AnnotatorNotes T781	independent_continuant
+T782	GO_MF 15329 15340	antagonists
+#782	AnnotatorNotes T782	GO:0048019 (receptor antagonist activity)
+T783	NCBITaxon 15344 15351	rodents
+#783	AnnotatorNotes T783	NCBITaxon:9989 (Rodentia)
+T784	GO_BP 15381 15391	behavioral
+#784	AnnotatorNotes T784	GO:0007610 (behavior)
+T785	GO_MF 15481 15485	D2Rs
+#785	AnnotatorNotes T785	GO:0001670 (dopamine D2 receptor activity)
+T786	independent_continuant 15481 15485	D2Rs
+#786	AnnotatorNotes T786	independent_continuant
+T787	PR 15481 15485	D2Rs
+#787	AnnotatorNotes T787	PR:000001177 (D(2) dopamine receptor)
+T788	sub 15482 15483	2
+#788	AnnotatorNotes T788	sub (null)
+T789	GO_BP 15536 15556	associative learning
+#789	AnnotatorNotes T789	GO:0008306 (associative learning)
+T790	NCBITaxon 15560 15567	rodents
+#790	AnnotatorNotes T790	NCBITaxon:9989 (Rodentia)
+T791	GO_MF 15608 15611	D2R
+#791	AnnotatorNotes T791	GO:0001670 (dopamine D2 receptor activity)
+T792	PR 15608 15611	D2R
+#792	AnnotatorNotes T792	PR:000001177 (D(2) dopamine receptor)
+T793	independent_continuant 15608 15611	D2R
+#793	AnnotatorNotes T793	independent_continuant
+T794	sub 15609 15610	2
+#794	AnnotatorNotes T794	sub (null)
+T795	CHEBI 15612 15623	antagonists
+#795	AnnotatorNotes T795	CHEBI:48561 (dopaminergic antagonist)
+T796	GO_MF 15612 15623	antagonists
+#796	AnnotatorNotes T796	GO:0048019 (receptor antagonist activity)
+T797	independent_continuant 15612 15623	antagonists
+#797	AnnotatorNotes T797	independent_continuant
+T798	GO_BP 15641 15651	behavioral
+#798	AnnotatorNotes T798	GO:0007610 (behavior)
+T799	GO_BP 15671 15676	motor
+#799	AnnotatorNotes T799	GO:0050879 (multicellular organismal movement)
+T800	GO_MF 15779 15796	dopamine receptor
+#800	AnnotatorNotes T800	GO:0004952 (dopamine receptor activity)
+T801	independent_continuant 15779 15796	dopamine receptor
+#801	AnnotatorNotes T801	independent_continuant
+T802	CHEBI 15779 15787	dopamine
+#802	AnnotatorNotes T802	CHEBI:18243 (dopamine)
+T803	CHEBI 15879 15890	antagonists
+#803	AnnotatorNotes T803	CHEBI:48561 (dopaminergic antagonist)
+T804	GO_MF 15879 15890	antagonists
+#804	AnnotatorNotes T804	GO:0048019 (receptor antagonist activity)
+T805	independent_continuant 15879 15890	antagonists
+#805	AnnotatorNotes T805	independent_continuant
+T806	GO_MF 15900 15904	D2Rs
+#806	AnnotatorNotes T806	GO:0001670 (dopamine D2 receptor activity)
+T807	PR 15900 15904	D2Rs
+#807	AnnotatorNotes T807	PR:000001177 (D(2) dopamine receptor)
+T808	independent_continuant 15900 15904	D2Rs
+#808	AnnotatorNotes T808	independent_continuant
+T809	sub 15901 15902	2
+#809	AnnotatorNotes T809	sub (null)
+T810	GO_MF 15906 15910	D3Rs
+#810	AnnotatorNotes T810	GO:0001592 (dopamine D3 receptor activity)
+T811	independent_continuant 15906 15910	D3Rs
+#811	AnnotatorNotes T811	independent_continuant
+T812	PR 15906 15910	D3Rs
+#812	AnnotatorNotes T812	PR:000001178 (D(3) dopamine receptor)
+T813	sub 15907 15908	3
+#813	AnnotatorNotes T813	sub (null)
+T814	GO_MF 15916 15920	D4Rs
+#814	AnnotatorNotes T814	GO:0001593 (dopamine D4 receptor activity)
+T815	PR 15916 15920	D4Rs
+#815	AnnotatorNotes T815	PR:000001179 (D(4) dopamine receptor)
+T816	independent_continuant 15916 15920	D4Rs
+#816	AnnotatorNotes T816	independent_continuant
+T817	sub 15917 15918	4
+#817	AnnotatorNotes T817	sub (null)
+T818	NCBITaxon 16027 16031	mice
+#818	AnnotatorNotes T818	NCBITaxon:10088 (Mus)
+T819	SO 16047 16058	genetically
+#819	AnnotatorNotes T819	SO:0000704 (gene)
+T820	SO 16059 16066	altered
+#820	AnnotatorNotes T820	SO:0000041 (sequence_operation)
+T821	SO 16117 16124	alleles
+#821	AnnotatorNotes T821	SO:0001023 (allele)
+T822	GO_MF 16141 16149	receptor
+#822	AnnotatorNotes T822	GO:0004872 (receptor activity)
+T823	independent_continuant 16141 16149	receptor
+#823	AnnotatorNotes T823	independent_continuant
+T824	GO_BP 16206 16219	developmental
+#824	AnnotatorNotes T824	GO:0032502 (developmental process)
+T825	NCBITaxon 16255 16260	mouse
+#825	AnnotatorNotes T825	NCBITaxon:10088 (Mus)
+T826	bold 16332 16334	10
+#826	AnnotatorNotes T826	bold (null)
+T827	NCBITaxon 16384 16391	animals
+#827	AnnotatorNotes T827	NCBITaxon:33208 (Metazoa)
+T828	GO_BP 16438 16456	locomotor behavior
+#828	AnnotatorNotes T828	GO:0007626 (locomotory behavior)
+T829	GO_BP 16438 16447	locomotor
+#829	AnnotatorNotes T829	GO:0040011 (locomotion)
+T830	GO_MF 16479 16482	D2R
+#830	AnnotatorNotes T830	GO:0001670 (dopamine D2 receptor activity)
+T831	EntrezGene 16479 16482	D2R
+#831	AnnotatorNotes T831	EG:13489
+T832	PR 16479 16482	D2R
+#832	AnnotatorNotes T832	PR:000001177 (D(2) dopamine receptor)
+T833	independent_continuant 16479 16482	D2R
+#833	AnnotatorNotes T833	independent_continuant
+T834	sub 16480 16481	2
+#834	AnnotatorNotes T834	sub (null)
+T835	sup 16482 16485	-/-
+#835	AnnotatorNotes T835	sup (null)
+T836	GO_MF 16490 16493	D2R
+#836	AnnotatorNotes T836	GO:0001670 (dopamine D2 receptor activity)
+T837	EntrezGene 16490 16493	D2R
+#837	AnnotatorNotes T837	EG:13489
+T838	PR 16490 16493	D2R
+#838	AnnotatorNotes T838	PR:000001177 (D(2) dopamine receptor)
+T839	independent_continuant 16490 16493	D2R
+#839	AnnotatorNotes T839	independent_continuant
+T840	sub 16491 16492	2
+#840	AnnotatorNotes T840	sub (null)
+T841	sup 16493 16496	+/+
+#841	AnnotatorNotes T841	sup (null)
+T842	SO 16493 16494	+
+#842	AnnotatorNotes T842	SO:0000817 (wild_type)
+T843	SO 16495 16496	+
+#843	AnnotatorNotes T843	SO:0000817 (wild_type)
+T844	NCBITaxon 16497 16501	mice
+#844	AnnotatorNotes T844	NCBITaxon:10088 (Mus)
+T845	GO_MF 16559 16562	D2R
+#845	AnnotatorNotes T845	GO:0001670 (dopamine D2 receptor activity)
+T846	EntrezGene 16559 16562	D2R
+#846	AnnotatorNotes T846	EG:13489
+T847	PR 16559 16562	D2R
+#847	AnnotatorNotes T847	PR:000001177 (D(2) dopamine receptor)
+T848	independent_continuant 16559 16562	D2R
+#848	AnnotatorNotes T848	independent_continuant
+T849	sub 16560 16561	2
+#849	AnnotatorNotes T849	sub (null)
+T850	GO_BP 16572 16581	signaling
+#850	AnnotatorNotes T850	GO:0007165 (signal transduction)
+T851	GO_BP 16585 16605	associative learning
+#851	AnnotatorNotes T851	GO:0008306 (associative learning)
+T852	GO_MF 16698 16701	D2R
+#852	AnnotatorNotes T852	GO:0001670 (dopamine D2 receptor activity)
+T853	PR 16698 16701	D2R
+#853	AnnotatorNotes T853	PR:000001177 (D(2) dopamine receptor)
+T854	independent_continuant 16698 16701	D2R
+#854	AnnotatorNotes T854	independent_continuant
+T855	sub 16699 16700	2
+#855	AnnotatorNotes T855	sub (null)
+T856	CHEBI 16702 16713	antagonists
+#856	AnnotatorNotes T856	CHEBI:48561 (dopaminergic antagonist)
+T857	independent_continuant 16702 16713	antagonists
+#857	AnnotatorNotes T857	independent_continuant
+T858	GO_MF 16702 16713	antagonists
+#858	AnnotatorNotes T858	GO:0048019 (receptor antagonist activity)
+T859	SO 16778 16785	genetic
+#859	AnnotatorNotes T859	SO:0000704 (gene)
+T860	italic 16806 16810	drd2
+#860	AnnotatorNotes T860	italic (null)
+T861	PR 16806 16810	drd2
+#861	AnnotatorNotes T861	PR:000001177 (D(2) dopamine receptor)
+T862	independent_continuant 16806 16810	drd2
+#862	AnnotatorNotes T862	independent_continuant
+T863	GO_MF 16806 16810	drd2
+#863	AnnotatorNotes T863	GO:0001670 (dopamine D2 receptor activity)
+T864	SO 16811 16816	locus
+#864	AnnotatorNotes T864	SO:0000001 (region)
+T865	GO_BP 16835 16844	olfactory
+#865	AnnotatorNotes T865	GO:0007608 (sensory perception of smell)
+T866	GO_MF 16863 16866	D2R
+#866	AnnotatorNotes T866	GO:0001670 (dopamine D2 receptor activity)
+T867	PR 16863 16866	D2R
+#867	AnnotatorNotes T867	PR:000001177 (D(2) dopamine receptor)
+T868	independent_continuant 16863 16866	D2R
+#868	AnnotatorNotes T868	independent_continuant
+T869	EntrezGene 16863 16866	D2R
+#869	AnnotatorNotes T869	EG:13489
+T870	sub 16864 16865	2
+#870	AnnotatorNotes T870	sub (null)
+T871	sup 16866 16869	-/-
+#871	AnnotatorNotes T871	sup (null)
+T872	NCBITaxon 16870 16874	mice
+#872	AnnotatorNotes T872	NCBITaxon:10088 (Mus)
+T873	GO_MF 16929 16932	D2R
+#873	AnnotatorNotes T873	GO:0001670 (dopamine D2 receptor activity)
+T874	EntrezGene 16929 16932	D2R
+#874	AnnotatorNotes T874	EG:13489
+T875	PR 16929 16932	D2R
+#875	AnnotatorNotes T875	PR:000001177 (D(2) dopamine receptor)
+T876	independent_continuant 16929 16932	D2R
+#876	AnnotatorNotes T876	independent_continuant
+T877	sub 16930 16931	2
+#877	AnnotatorNotes T877	sub (null)
+T878	sup 16932 16935	-/-
+#878	AnnotatorNotes T878	sup (null)
+T879	NCBITaxon 16936 16940	mice
+#879	AnnotatorNotes T879	NCBITaxon:10088 (Mus)
+T880	GO_BP 16945 16950	learn
+#880	AnnotatorNotes T880	GO:0007612 (learning)
+T881	CHEBI 16967 16971	food
+#881	AnnotatorNotes T881	CHEBI:33290 (food)
+T882	GO_BP 17011 17018	learned
+#882	AnnotatorNotes T882	GO:0007612 (learning)
+T883	GO_MF 17103 17117	dopamine D2R's
+#883	AnnotatorNotes T883	GO:0001670 (dopamine D2 receptor activity)
+T884	PR 17103 17117	dopamine D2R's
+#884	AnnotatorNotes T884	PR:000001177 (D(2) dopamine receptor)
+T885	EntrezGene 17103 17117	dopamine D2R's
+#885	AnnotatorNotes T885	EG:24318
+T886	independent_continuant 17103 17117	dopamine D2R's
+#886	AnnotatorNotes T886	independent_continuant
+T887	CHEBI 17103 17111	dopamine
+#887	AnnotatorNotes T887	CHEBI:18243 (dopamine)
+T888	sub 17113 17114	2
+#888	AnnotatorNotes T888	sub (null)
+T889	CHEBI 17133 17146	glutamatergic
+#889	AnnotatorNotes T889	CHEBI:14321 (glutamate(1-))
+T890	CHEBI 17133 17146	glutamatergic
+#890	AnnotatorNotes T890	CHEBI:29987 (glutamate(2-))
+T891	GO_CC 17156 17161	axons
+#891	AnnotatorNotes T891	GO:0030424 (axon)
+T892	GO_BP 17165 17174	olfactory
+#892	AnnotatorNotes T892	GO:0007608 (sensory perception of smell)
+T893	GO_BP 17186 17193	depress
+#893	AnnotatorNotes T893	GO:0048519 (negative regulation of biological process)
+T894	GO_BP 17218 17227	olfactory
+#894	AnnotatorNotes T894	GO:0007608 (sensory perception of smell)
+T895	CL 17248 17253	cells
+#895	AnnotatorNotes T895	CL:0000000 (cell)
+T896	GO_CC 17248 17253	cells
+#896	AnnotatorNotes T896	GO:0005623 (cell)
+T897	GO_BP 17261 17270	olfactory
+#897	AnnotatorNotes T897	GO:0007608 (sensory perception of smell)
+T898	GO_MF 17372 17376	D2Rs
+#898	AnnotatorNotes T898	GO:0001670 (dopamine D2 receptor activity)
+T899	PR 17372 17376	D2Rs
+#899	AnnotatorNotes T899	PR:000001177 (D(2) dopamine receptor)
+T900	independent_continuant 17372 17376	D2Rs
+#900	AnnotatorNotes T900	independent_continuant
+T901	sub 17373 17374	2
+#901	AnnotatorNotes T901	sub (null)
+T902	GO_BP 17384 17393	olfactory
+#902	AnnotatorNotes T902	GO:0007608 (sensory perception of smell)
+T903	GO_BP 17416 17428	transduction
+#903	AnnotatorNotes T903	GO:0007165 (signal transduction)
+T904	GO_BP 17432 17441	olfactory
+#904	AnnotatorNotes T904	GO:0007608 (sensory perception of smell)
+T905	GO_BP 17484 17493	habituate
+#905	AnnotatorNotes T905	GO:0046959 (habituation)
+T906	GO_BP 17504 17513	olfactory
+#906	AnnotatorNotes T906	GO:0007608 (sensory perception of smell)
+T907	CHEBI 17586 17594	chemical
+#907	AnnotatorNotes T907	CHEBI:36357 (polyatomic entities)
+T908	GO_MF 17629 17632	D2R
+#908	AnnotatorNotes T908	GO:0001670 (dopamine D2 receptor activity)
+T909	EntrezGene 17629 17632	D2R
+#909	AnnotatorNotes T909	EG:13489
+T910	independent_continuant 17629 17632	D2R
+#910	AnnotatorNotes T910	independent_continuant
+T911	PR 17629 17632	D2R
+#911	AnnotatorNotes T911	PR:000001177 (D(2) dopamine receptor)
+T912	sub 17630 17631	2
+#912	AnnotatorNotes T912	sub (null)
+T913	sup 17632 17635	-/-
+#913	AnnotatorNotes T913	sup (null)
+T914	NCBITaxon 17636 17640	mice
+#914	AnnotatorNotes T914	NCBITaxon:10088 (Mus)
+T915	GO_BP 17657 17665	learning
+#915	AnnotatorNotes T915	GO:0007612 (learning)
+T916	GO_MF 17700 17712	dopamine D2R
+#916	AnnotatorNotes T916	GO:0001670 (dopamine D2 receptor activity)
+T917	EntrezGene 17700 17712	dopamine D2R
+#917	AnnotatorNotes T917	EG:13489
+T918	PR 17700 17712	dopamine D2R
+#918	AnnotatorNotes T918	PR:000001177 (D(2) dopamine receptor)
+T919	independent_continuant 17700 17712	dopamine D2R
+#919	AnnotatorNotes T919	independent_continuant
+T920	CHEBI 17700 17708	dopamine
+#920	AnnotatorNotes T920	CHEBI:18243 (dopamine)
+T921	sub 17710 17711	2
+#921	AnnotatorNotes T921	sub (null)
+T922	GO_BP 17722 17731	signaling
+#922	AnnotatorNotes T922	GO:0007165 (signal transduction)
+T923	GO_BP 17751 17761	behavioral
+#923	AnnotatorNotes T923	GO:0007610 (behavior)
+T924	GO_BP 17789 17799	behavioral
+#924	AnnotatorNotes T924	GO:0007610 (behavior)
+T925	GO_MF 17827 17830	D2R
+#925	AnnotatorNotes T925	GO:0001670 (dopamine D2 receptor activity)
+T926	independent_continuant 17827 17830	D2R
+#926	AnnotatorNotes T926	independent_continuant
+T927	EntrezGene 17827 17830	D2R
+#927	AnnotatorNotes T927	EG:13489
+T928	PR 17827 17830	D2R
+#928	AnnotatorNotes T928	PR:000001177 (D(2) dopamine receptor)
+T929	sub 17828 17829	2
+#929	AnnotatorNotes T929	sub (null)
+T930	sup 17830 17833	-/-
+#930	AnnotatorNotes T930	sup (null)
+T931	NCBITaxon 17834 17838	mice
+#931	AnnotatorNotes T931	NCBITaxon:10088 (Mus)
+T932	GO_MF 17851 17854	D2R
+#932	AnnotatorNotes T932	GO:0001670 (dopamine D2 receptor activity)
+T933	PR 17851 17854	D2R
+#933	AnnotatorNotes T933	PR:000001177 (D(2) dopamine receptor)
+T934	independent_continuant 17851 17854	D2R
+#934	AnnotatorNotes T934	independent_continuant
+T935	EntrezGene 17851 17854	D2R
+#935	AnnotatorNotes T935	EG:13489
+T936	sub 17852 17853	2
+#936	AnnotatorNotes T936	sub (null)
+T937	sup 17854 17857	+/+
+#937	AnnotatorNotes T937	sup (null)
+T938	SO 17854 17855	+
+#938	AnnotatorNotes T938	SO:0000817 (wild_type)
+T939	SO 17856 17857	+
+#939	AnnotatorNotes T939	SO:0000817 (wild_type)
+T940	NCBITaxon 17858 17862	mice
+#940	AnnotatorNotes T940	NCBITaxon:10088 (Mus)
+T941	GO_BP 17879 17887	learning
+#941	AnnotatorNotes T941	GO:0007612 (learning)
+T942	GO_MF 18049 18052	D2R
+#942	AnnotatorNotes T942	GO:0001670 (dopamine D2 receptor activity)
+T943	independent_continuant 18049 18052	D2R
+#943	AnnotatorNotes T943	independent_continuant
+T944	EntrezGene 18049 18052	D2R
+#944	AnnotatorNotes T944	EG:13489
+T945	PR 18049 18052	D2R
+#945	AnnotatorNotes T945	PR:000001177 (D(2) dopamine receptor)
+T946	sub 18050 18051	2
+#946	AnnotatorNotes T946	sub (null)
+T947	sup 18052 18055	-/-
+#947	AnnotatorNotes T947	sup (null)
+T948	NCBITaxon 18056 18060	mice
+#948	AnnotatorNotes T948	NCBITaxon:10088 (Mus)
+T949	GO_BP 18061 18068	respond
+#949	AnnotatorNotes T949	GO:0050896 (response to stimulus)
+T950	CHEBI 18072 18076	food
+#950	AnnotatorNotes T950	CHEBI:33290 (food)
+T951	GO_BP 18127 18133	driven
+#951	AnnotatorNotes T951	GO:0048518 (positive regulation of biological process)
+T952	sup 18135 18136	+
+#952	AnnotatorNotes T952	sup (null)
+T953	sup 18138 18139	-
+#953	AnnotatorNotes T953	sup (null)
+T954	independent_continuant 18166 18169	D1R
+#954	AnnotatorNotes T954	independent_continuant
+T955	GO_MF 18166 18169	D1R
+#955	AnnotatorNotes T955	GO:0001590 (dopamine D1 receptor activity)
+T956	PR 18166 18169	D1R
+#956	AnnotatorNotes T956	PR:000001175 (D(1A) dopamine receptor)
+T957	sub 18167 18168	1
+#957	AnnotatorNotes T957	sub (null)
+T958	GO_BP 18179 18187	behavior
+#958	AnnotatorNotes T958	GO:0007610 (behavior)
+T959	GO_MF 18201 18204	D2R
+#959	AnnotatorNotes T959	GO:0001670 (dopamine D2 receptor activity)
+T960	EntrezGene 18201 18204	D2R
+#960	AnnotatorNotes T960	EG:13489
+T961	independent_continuant 18201 18204	D2R
+#961	AnnotatorNotes T961	independent_continuant
+T962	PR 18201 18204	D2R
+#962	AnnotatorNotes T962	PR:000001177 (D(2) dopamine receptor)
+T963	sub 18202 18203	2
+#963	AnnotatorNotes T963	sub (null)
+T964	sup 18204 18207	+/+
+#964	AnnotatorNotes T964	sup (null)
+T965	SO 18204 18205	+
+#965	AnnotatorNotes T965	SO:0000817 (wild_type)
+T966	SO 18206 18207	+
+#966	AnnotatorNotes T966	SO:0000817 (wild_type)
+T967	NCBITaxon 18208 18212	mice
+#967	AnnotatorNotes T967	NCBITaxon:10088 (Mus)
+T968	independent_continuant 18270 18283	dopamine D1Rs
+#968	AnnotatorNotes T968	independent_continuant
+T969	EntrezGene 18270 18283	dopamine D1Rs
+#969	AnnotatorNotes T969	EG:13488
+T970	GO_MF 18270 18283	dopamine D1Rs
+#970	AnnotatorNotes T970	GO:0001590 (dopamine D1 receptor activity)
+T971	PR 18270 18283	dopamine D1Rs
+#971	AnnotatorNotes T971	PR:000001175 (D(1A) dopamine receptor)
+T972	CHEBI 18270 18278	dopamine
+#972	AnnotatorNotes T972	CHEBI:18243 (dopamine)
+T973	sub 18280 18281	1
+#973	AnnotatorNotes T973	sub (null)
+T974	NCBITaxon 18291 18295	mice
+#974	AnnotatorNotes T974	NCBITaxon:10088 (Mus)
+T975	GO_BP 18500 18508	learning
+#975	AnnotatorNotes T975	GO:0007612 (learning)
+T976	SO 18684 18690	mutant
+#976	AnnotatorNotes T976	SO:0001059 (sequence_alteration)
+T977	NCBITaxon 18691 18695	mice
+#977	AnnotatorNotes T977	NCBITaxon:10088 (Mus)
+T978	GO_MF 18801 18804	D2R
+#978	AnnotatorNotes T978	GO:0001670 (dopamine D2 receptor activity)
+T979	independent_continuant 18801 18804	D2R
+#979	AnnotatorNotes T979	independent_continuant
+T980	PR 18801 18804	D2R
+#980	AnnotatorNotes T980	PR:000001177 (D(2) dopamine receptor)
+T981	EntrezGene 18801 18804	D2R
+#981	AnnotatorNotes T981	EG:13489
+T982	sub 18802 18803	2
+#982	AnnotatorNotes T982	sub (null)
+T983	sup 18804 18807	-/-
+#983	AnnotatorNotes T983	sup (null)
+T984	NCBITaxon 18808 18812	mice
+#984	AnnotatorNotes T984	NCBITaxon:10088 (Mus)
+T985	sup 18855 18856	+
+#985	AnnotatorNotes T985	sup (null)
+T986	sup 18858 18859	-
+#986	AnnotatorNotes T986	sup (null)
+T987	GO_BP 18875 18885	responding
+#987	AnnotatorNotes T987	GO:0050896 (response to stimulus)
+T988	CHEBI 18956 18964	dopamine
+#988	AnnotatorNotes T988	CHEBI:18243 (dopamine)
+T989	GO_MF 18984 18996	dopamine D2R
+#989	AnnotatorNotes T989	GO:0001670 (dopamine D2 receptor activity)
+T990	independent_continuant 18984 18996	dopamine D2R
+#990	AnnotatorNotes T990	independent_continuant
+T991	PR 18984 18996	dopamine D2R
+#991	AnnotatorNotes T991	PR:000001177 (D(2) dopamine receptor)
+T992	EntrezGene 18984 18996	dopamine D2R
+#992	AnnotatorNotes T992	EG:13489
+T993	CHEBI 18984 18992	dopamine
+#993	AnnotatorNotes T993	CHEBI:18243 (dopamine)
+T994	sub 18994 18995	2
+#994	AnnotatorNotes T994	sub (null)
+T995	GO_BP 19006 19015	signaling
+#995	AnnotatorNotes T995	GO:0007165 (signal transduction)
+T996	GO_BP 19017 19026	modulates
+#996	AnnotatorNotes T996	GO:0065007 (biological regulation)
+T997	CL 19182 19196	dopamine cells
+#997	AnnotatorNotes T997	CL:0000700 (dopaminergic neuron)
+T998	CHEBI 19182 19190	dopamine
+#998	AnnotatorNotes T998	CHEBI:18243 (dopamine)
+T999	GO_CC 19191 19196	cells
+#999	AnnotatorNotes T999	GO:0005623 (cell)
+T1000	GO_BP 19222 19228	firing
+#1000	AnnotatorNotes T1000	GO:0019228 (generation of action potential)
+T1001	GO_BP 19260 19280	associative learning
+#1001	AnnotatorNotes T1001	GO:0008306 (associative learning)
+T1002	CL 19327 19345	dopaminergic cells
+#1002	AnnotatorNotes T1002	CL:0000700 (dopaminergic neuron)
+T1003	CHEBI 19327 19339	dopaminergic
+#1003	AnnotatorNotes T1003	CHEBI:18243 (dopamine)
+T1004	GO_CC 19340 19345	cells
+#1004	AnnotatorNotes T1004	GO:0005623 (cell)
+T1005	CL 19469 19486	dopaminergic cell
+#1005	AnnotatorNotes T1005	CL:0000700 (dopaminergic neuron)
+T1006	CHEBI 19469 19481	dopaminergic
+#1006	AnnotatorNotes T1006	CHEBI:18243 (dopamine)
+T1007	GO_BP 19482 19497	cell activation
+#1007	AnnotatorNotes T1007	GO:0001775 (cell activation)
+T1008	GO_CC 19482 19486	cell
+#1008	AnnotatorNotes T1008	GO:0005623 (cell)
+T1009	GO_BP 19501 19509	response
+#1009	AnnotatorNotes T1009	GO:0050896 (response to stimulus)
+T1010	CHEBI 19595 19604	molecular
+#1010	AnnotatorNotes T1010	CHEBI:36357 (polyatomic entities)
+T1011	GO_MF 19678 19681	D2R
+#1011	AnnotatorNotes T1011	GO:0001670 (dopamine D2 receptor activity)
+T1012	EntrezGene 19678 19681	D2R
+#1012	AnnotatorNotes T1012	EG:13489
+T1013	independent_continuant 19678 19681	D2R
+#1013	AnnotatorNotes T1013	independent_continuant
+T1014	PR 19678 19681	D2R
+#1014	AnnotatorNotes T1014	PR:000001177 (D(2) dopamine receptor)
+T1015	sub 19679 19680	2
+#1015	AnnotatorNotes T1015	sub (null)
+T1016	sup 19681 19684	-/-
+#1016	AnnotatorNotes T1016	sup (null)
+T1017	NCBITaxon 19685 19689	mice
+#1017	AnnotatorNotes T1017	NCBITaxon:10088 (Mus)
+T1018	GO_BP 19700 19746	responding to a previously reinforced stimulus
+#1018	AnnotatorNotes T1018	"responding to .. stimulus" GO:0050896 (response to stimulus)
+T1019	GO_MF 19765 19777	dopamine D2R
+#1019	AnnotatorNotes T1019	GO:0001670 (dopamine D2 receptor activity)
+T1020	independent_continuant 19765 19777	dopamine D2R
+#1020	AnnotatorNotes T1020	independent_continuant
+T1021	PR 19765 19777	dopamine D2R
+#1021	AnnotatorNotes T1021	PR:000001177 (D(2) dopamine receptor)
+T1022	CHEBI 19765 19773	dopamine
+#1022	AnnotatorNotes T1022	CHEBI:18243 (dopamine)
+T1023	sub 19775 19776	2
+#1023	AnnotatorNotes T1023	sub (null)
+T1024	GO_BP 19825 19842	signaling cascade
+#1024	AnnotatorNotes T1024	GO:0007165 (signal transduction)
+T1025	GO_BP 19907 19916	signaling
+#1025	AnnotatorNotes T1025	GO:0007165 (signal transduction)
+T1026	GO_MF 19929 19942	dopamine D2Rs
+#1026	AnnotatorNotes T1026	GO:0001670 (dopamine D2 receptor activity)
+T1027	PR 19929 19942	dopamine D2Rs
+#1027	AnnotatorNotes T1027	PR:000001177 (D(2) dopamine receptor)
+T1028	independent_continuant 19929 19942	dopamine D2Rs
+#1028	AnnotatorNotes T1028	independent_continuant
+T1029	CHEBI 19929 19937	dopamine
+#1029	AnnotatorNotes T1029	CHEBI:18243 (dopamine)
+T1030	sub 19939 19940	2
+#1030	AnnotatorNotes T1030	sub (null)
+T1031	independent_continuant 19949 19952	D1R
+#1031	AnnotatorNotes T1031	independent_continuant
+T1032	GO_MF 19949 19952	D1R
+#1032	AnnotatorNotes T1032	GO:0001590 (dopamine D1 receptor activity)
+T1033	PR 19949 19952	D1R
+#1033	AnnotatorNotes T1033	PR:000001175 (D(1A) dopamine receptor)
+T1034	sub 19950 19951	1
+#1034	AnnotatorNotes T1034	sub (null)
+T1035	GO_MF 20088 20091	D2R
+#1035	AnnotatorNotes T1035	GO:0001670 (dopamine D2 receptor activity)
+T1036	PR 20088 20091	D2R
+#1036	AnnotatorNotes T1036	PR:000001177 (D(2) dopamine receptor)
+T1037	EntrezGene 20088 20091	D2R
+#1037	AnnotatorNotes T1037	EG:13489
+T1038	independent_continuant 20088 20091	D2R
+#1038	AnnotatorNotes T1038	independent_continuant
+T1039	sub 20089 20090	2
+#1039	AnnotatorNotes T1039	sub (null)
+T1040	sup 20091 20094	-/-
+#1040	AnnotatorNotes T1040	sup (null)
+T1041	NCBITaxon 20095 20099	mice
+#1041	AnnotatorNotes T1041	NCBITaxon:10088 (Mus)
+T1042	GO_CC 20168 20176	synaptic
+#1042	AnnotatorNotes T1042	GO:0045202 (synapse)
+T1043	SO 20243 20252	wild-type
+#1043	AnnotatorNotes T1043	SO:0000817 (wild_type)
+T1044	NCBITaxon 20253 20257	mice
+#1044	AnnotatorNotes T1044	NCBITaxon:10088 (Mus)
+T1045	GO_BP 20295 20305	depression
+#1045	AnnotatorNotes T1045	GO:0048519 (negative regulation of biological process)
+T1046	CL 20321 20329	neuronal
+#1046	AnnotatorNotes T1046	CL:0000540 (neuron)
+T1047	GO_MF 20417 20429	dopamine D2R
+#1047	AnnotatorNotes T1047	GO:0001670 (dopamine D2 receptor activity)
+T1048	PR 20417 20429	dopamine D2R
+#1048	AnnotatorNotes T1048	PR:000001177 (D(2) dopamine receptor)
+T1049	independent_continuant 20417 20429	dopamine D2R
+#1049	AnnotatorNotes T1049	independent_continuant
+T1050	CHEBI 20417 20425	dopamine
+#1050	AnnotatorNotes T1050	CHEBI:18243 (dopamine)
+T1051	sub 20427 20428	2
+#1051	AnnotatorNotes T1051	sub (null)
+T1052	GO_BP 20515 20524	signaling
+#1052	AnnotatorNotes T1052	GO:0007165 (signal transduction)
+T1053	GO_BP 20563 20571	behavior
+#1053	AnnotatorNotes T1053	GO:0007610 (behavior)
+T1054	NCBITaxon 20631 20638	rodents
+#1054	AnnotatorNotes T1054	NCBITaxon:9989 (Rodentia)
+T1055	GO_MF 20740 20751	D2R binding
+#1055	AnnotatorNotes T1055	GO:0031749 (D2 dopamine receptor binding)
+T1056	GO_MF 20740 20743	D2R
+#1056	AnnotatorNotes T1056	GO:0001670 (dopamine D2 receptor activity)
+T1057	PR 20740 20743	D2R
+#1057	AnnotatorNotes T1057	PR:000001177 (D(2) dopamine receptor)
+T1058	independent_continuant 20740 20743	D2R
+#1058	AnnotatorNotes T1058	independent_continuant
+T1059	EntrezGene 20740 20743	D2R
+#1059	AnnotatorNotes T1059	EG:1813
+T1060	sub 20741 20742	2
+#1060	AnnotatorNotes T1060	sub (null)
+T1061	GO_BP 20768 20776	behavior
+#1061	AnnotatorNotes T1061	GO:0007610 (behavior)
+T1062	GO_MF 20876 20879	D2R
+#1062	AnnotatorNotes T1062	GO:0001670 (dopamine D2 receptor activity)
+T1063	independent_continuant 20876 20879	D2R
+#1063	AnnotatorNotes T1063	independent_continuant
+T1064	EntrezGene 20876 20879	D2R
+#1064	AnnotatorNotes T1064	EG:13489
+T1065	PR 20876 20879	D2R
+#1065	AnnotatorNotes T1065	PR:000001177 (D(2) dopamine receptor)
+T1066	sub 20877 20878	2
+#1066	AnnotatorNotes T1066	sub (null)
+T1067	sup 20879 20882	-/-
+#1067	AnnotatorNotes T1067	sup (null)
+T1068	NCBITaxon 20883 20887	mice
+#1068	AnnotatorNotes T1068	NCBITaxon:10088 (Mus)
+T1069	GO_BP 20919 20927	learning
+#1069	AnnotatorNotes T1069	GO:0007612 (learning)
+T1070	GO_BP 20967 20974	sensory
+#1070	AnnotatorNotes T1070	GO:0007600 (sensory perception)
+T1071	GO_MF 21012 21016	D2Rs
+#1071	AnnotatorNotes T1071	GO:0001670 (dopamine D2 receptor activity)
+T1072	independent_continuant 21012 21016	D2Rs
+#1072	AnnotatorNotes T1072	independent_continuant
+T1073	EntrezGene 21012 21016	D2Rs
+#1073	AnnotatorNotes T1073	EG:13489
+T1074	PR 21012 21016	D2Rs
+#1074	AnnotatorNotes T1074	PR:000001177 (D(2) dopamine receptor)
+T1075	sub 21013 21014	2
+#1075	AnnotatorNotes T1075	sub (null)
+T1076	GO_BP 21032 21041	signaling
+#1076	AnnotatorNotes T1076	GO:0007165 (signal transduction)
+T1077	NCBITaxon 21058 21066	organism
+#1077	AnnotatorNotes T1077	NCBITaxon:1 (root)
+T1078	GO_BP 21070 21078	learning
+#1078	AnnotatorNotes T1078	GO:0007612 (learning)
+T1079	GO_BP 21115 21123	learning
+#1079	AnnotatorNotes T1079	GO:0007612 (learning)
+T1080	GO_BP 21157 21165	behavior
+#1080	AnnotatorNotes T1080	GO:0007610 (behavior)
+T1081	GO_BP 21210 21219	signaling
+#1081	AnnotatorNotes T1081	GO:0007165 (signal transduction)
+T1082	GO_MF 21223 21236	dopamine D2Rs
+#1082	AnnotatorNotes T1082	GO:0001670 (dopamine D2 receptor activity)
+T1083	EntrezGene 21223 21236	dopamine D2Rs
+#1083	AnnotatorNotes T1083	EG:13489
+T1084	independent_continuant 21223 21236	dopamine D2Rs
+#1084	AnnotatorNotes T1084	independent_continuant
+T1085	PR 21223 21236	dopamine D2Rs
+#1085	AnnotatorNotes T1085	PR:000001177 (D(2) dopamine receptor)
+T1086	CHEBI 21223 21231	dopamine
+#1086	AnnotatorNotes T1086	CHEBI:18243 (dopamine)
+T1087	sub 21233 21234	2
+#1087	AnnotatorNotes T1087	sub (null)
+T1088	NCBITaxon 21345 21349	mice
+#1088	AnnotatorNotes T1088	NCBITaxon:10088 (Mus)
+T1089	GO_MF 21374 21378	D2Rs
+#1089	AnnotatorNotes T1089	GO:0001670 (dopamine D2 receptor activity)
+T1090	independent_continuant 21374 21378	D2Rs
+#1090	AnnotatorNotes T1090	independent_continuant
+T1091	EntrezGene 21374 21378	D2Rs
+#1091	AnnotatorNotes T1091	EG:13489
+T1092	PR 21374 21378	D2Rs
+#1092	AnnotatorNotes T1092	PR:000001177 (D(2) dopamine receptor)
+T1093	sub 21375 21376	2
+#1093	AnnotatorNotes T1093	sub (null)
+T1094	GO_BP 21503 21513	behavioral
+#1094	AnnotatorNotes T1094	GO:0007610 (behavior)
+T1095	GO_BP 21562 21582	associative learning
+#1095	AnnotatorNotes T1095	GO:0008306 (associative learning)
+T1096	GO_BP 21648 21656	learning
+#1096	AnnotatorNotes T1096	GO:0007612 (learning)
+T1097	CHEBI 21658 21666	dopamine
+#1097	AnnotatorNotes T1097	CHEBI:18243 (dopamine)
+T1098	GO_BP 21667 21673	driven
+#1098	AnnotatorNotes T1098	GO:0048518 (positive regulation of biological process)
+T1099	GO_BP 21705 21714	signaling
+#1099	AnnotatorNotes T1099	GO:0007165 (signal transduction)
+T1100	GO_MF 21727 21740	dopamine D2Rs
+#1100	AnnotatorNotes T1100	GO:0001670 (dopamine D2 receptor activity)
+T1101	EntrezGene 21727 21740	dopamine D2Rs
+#1101	AnnotatorNotes T1101	EG:13489
+T1102	independent_continuant 21727 21740	dopamine D2Rs
+#1102	AnnotatorNotes T1102	independent_continuant
+T1103	PR 21727 21740	dopamine D2Rs
+#1103	AnnotatorNotes T1103	PR:000001177 (D(2) dopamine receptor)
+T1104	CHEBI 21727 21735	dopamine
+#1104	AnnotatorNotes T1104	CHEBI:18243 (dopamine)
+T1105	sub 21737 21738	2
+#1105	AnnotatorNotes T1105	sub (null)
+T1106	GO_BP 21759 21779	associative learning
+#1106	AnnotatorNotes T1106	GO:0008306 (associative learning)
+T1107	GO_CC 21790 21798	synapses
+#1107	AnnotatorNotes T1107	GO:0045202 (synapse)
+T1108	GO_BP 21823 21829	driven
+#1108	AnnotatorNotes T1108	GO:0048518 (positive regulation of biological process)
+T1109	GO_BP 22000 22005	motor
+#1109	AnnotatorNotes T1109	GO:0050879 (multicellular organismal movement)
+T1110	GO_MF 22045 22057	dopamine D2R
+#1110	AnnotatorNotes T1110	GO:0001670 (dopamine D2 receptor activity)
+T1111	EntrezGene 22045 22057	dopamine D2R
+#1111	AnnotatorNotes T1111	EG:13489
+T1112	PR 22045 22057	dopamine D2R
+#1112	AnnotatorNotes T1112	PR:000001177 (D(2) dopamine receptor)
+T1113	independent_continuant 22045 22057	dopamine D2R
+#1113	AnnotatorNotes T1113	independent_continuant
+T1114	CHEBI 22045 22053	dopamine
+#1114	AnnotatorNotes T1114	CHEBI:18243 (dopamine)
+T1115	sub 22055 22056	2
+#1115	AnnotatorNotes T1115	sub (null)
+T1116	GO_BP 22067 22076	signaling
+#1116	AnnotatorNotes T1116	GO:0007165 (signal transduction)
+T1117	GO_MF 22164 22167	D2R
+#1117	AnnotatorNotes T1117	GO:0001670 (dopamine D2 receptor activity)
+T1118	PR 22164 22167	D2R
+#1118	AnnotatorNotes T1118	PR:000001177 (D(2) dopamine receptor)
+T1119	EntrezGene 22164 22167	D2R
+#1119	AnnotatorNotes T1119	EG:13489
+T1120	independent_continuant 22164 22167	D2R
+#1120	AnnotatorNotes T1120	independent_continuant
+T1121	sub 22165 22166	2
+#1121	AnnotatorNotes T1121	sub (null)
+T1122	sup 22167 22170	-/-
+#1122	AnnotatorNotes T1122	sup (null)
+T1123	NCBITaxon 22171 22175	mice
+#1123	AnnotatorNotes T1123	NCBITaxon:10088 (Mus)
+T1124	sup 22215 22216	+
+#1124	AnnotatorNotes T1124	sup (null)
+T1125	sup 22218 22219	-
+#1125	AnnotatorNotes T1125	sup (null)
+T1126	independent_continuant 22262 22274	dopamine D1R
+#1126	AnnotatorNotes T1126	independent_continuant
+T1127	GO_MF 22262 22274	dopamine D1R
+#1127	AnnotatorNotes T1127	GO:0001590 (dopamine D1 receptor activity)
+T1128	PR 22262 22274	dopamine D1R
+#1128	AnnotatorNotes T1128	PR:000001175 (D(1A) dopamine receptor)
+T1129	EntrezGene 22262 22274	dopamine D1R
+#1129	AnnotatorNotes T1129	EG:13488
+T1130	CHEBI 22262 22270	dopamine
+#1130	AnnotatorNotes T1130	CHEBI:18243 (dopamine)
+T1131	sub 22272 22273	1
+#1131	AnnotatorNotes T1131	sub (null)
+T1132	GO_BP 22296 22306	responding
+#1132	AnnotatorNotes T1132	GO:0050896 (response to stimulus)
+T1133	GO_BP 22353 22362	behaviors
+#1133	AnnotatorNotes T1133	GO:0007610 (behavior)
+T1134	GO_MF 22480 22483	D2R
+#1134	AnnotatorNotes T1134	GO:0001670 (dopamine D2 receptor activity)
+T1135	independent_continuant 22480 22483	D2R
+#1135	AnnotatorNotes T1135	independent_continuant
+T1136	PR 22480 22483	D2R
+#1136	AnnotatorNotes T1136	PR:000001177 (D(2) dopamine receptor)
+T1137	EntrezGene 22480 22483	D2R
+#1137	AnnotatorNotes T1137	EG:13489
+T1138	sub 22481 22482	2
+#1138	AnnotatorNotes T1138	sub (null)
+T1139	sup 22483 22486	-/-
+#1139	AnnotatorNotes T1139	sup (null)
+T1140	NCBITaxon 22487 22491	mice
+#1140	AnnotatorNotes T1140	NCBITaxon:10088 (Mus)
+T1141	GO_MF 22571 22575	D2Rs
+#1141	AnnotatorNotes T1141	GO:0001670 (dopamine D2 receptor activity)
+T1142	PR 22571 22575	D2Rs
+#1142	AnnotatorNotes T1142	PR:000001177 (D(2) dopamine receptor)
+T1143	EntrezGene 22571 22575	D2Rs
+#1143	AnnotatorNotes T1143	EG:13489
+T1144	independent_continuant 22571 22575	D2Rs
+#1144	AnnotatorNotes T1144	independent_continuant
+T1145	sub 22572 22573	2
+#1145	AnnotatorNotes T1145	sub (null)
+T1146	GO_BP 22579 22612	associative and reversal learning
+#1146	AnnotatorNotes T1146	"associative .. learning" GO:0008306 (associative learning)
+T1147	NCBITaxon 22670 22674	mice
+#1147	AnnotatorNotes T1147	NCBITaxon:10088 (Mus)
+T1148	SO 22682 22690	genotype
+#1148	AnnotatorNotes T1148	SO:0001027 (genotype)
+T1149	sub 22790 22791	2
+#1149	AnnotatorNotes T1149	sub (null)
+T1150	GO_BP 22918 22926	breeding
+#1150	AnnotatorNotes T1150	GO:0007618 (mating)
+T1151	SO 23008 23014	mutant
+#1151	AnnotatorNotes T1151	SO:0001059 (sequence_alteration)
+T1152	independent_continuant 23008 23014	mutant
+#1152	AnnotatorNotes T1152	independent_continuant
+T1153	GO_BP 23163 23177	estrous cycles
+#1153	AnnotatorNotes T1153	GO:0042698 (menstrual cycle)
+T1154	NCBITaxon 23290 23297	animals
+#1154	AnnotatorNotes T1154	NCBITaxon:33208 (Metazoa)
+T1155	italic 23363 23411	Guide for the Care and Use of Laboratory Animals
+#1155	AnnotatorNotes T1155	italic (null)
+T1156	NCBITaxon 23404 23411	Animals
+#1156	AnnotatorNotes T1156	NCBITaxon:33208 (Metazoa)
+T1157	GO_BP 23592 23600	behavior
+#1157	AnnotatorNotes T1157	GO:0007610 (behavior)
+T1158	GO_BP 23686 23694	behavior
+#1158	AnnotatorNotes T1158	GO:0007610 (behavior)
+T1159	NCBITaxon 23698 23705	rodents
+#1159	AnnotatorNotes T1159	NCBITaxon:9989 (Rodentia)
+T1160	SO 23774 23782	genotype
+#1160	AnnotatorNotes T1160	SO:0001027 (genotype)
+T1161	NCBITaxon 23799 23803	Mice
+#1161	AnnotatorNotes T1161	NCBITaxon:10088 (Mus)
+T1162	CHEBI 23816 23820	food
+#1162	AnnotatorNotes T1162	CHEBI:33290 (food)
+T1163	italic 23851 23861	ad libitum
+#1163	AnnotatorNotes T1163	italic (null)
+T1164	GO_MF 23870 23893	Dopamine D2R-/- and D2R
+#1164	AnnotatorNotes T1164	"Dopamine .. D2R" GO:0001670 (dopamine D2 receptor activity)
+T1165	independent_continuant 23870 23893	Dopamine D2R-/- and D2R
+#1165	AnnotatorNotes T1165	"Dopamine .. D2R" independent_continuant
+T1166	EntrezGene 23870 23893	Dopamine D2R-/- and D2R
+#1166	AnnotatorNotes T1166	"Dopamine .. D2R" EG:13489
+T1167	GO_MF 23870 23882	Dopamine D2R
+#1167	AnnotatorNotes T1167	GO:0001670 (dopamine D2 receptor activity)
+T1168	EntrezGene 23870 23882	Dopamine D2R
+#1168	AnnotatorNotes T1168	EG:13489
+T1169	independent_continuant 23870 23882	Dopamine D2R
+#1169	AnnotatorNotes T1169	independent_continuant
+T1170	PR 23870 23882	Dopamine D2R
+#1170	AnnotatorNotes T1170	PR:000001177 (D(2) dopamine receptor)
+T1171	CHEBI 23870 23878	Dopamine
+#1171	AnnotatorNotes T1171	CHEBI:18243 (dopamine)
+T1172	sub 23880 23881	2
+#1172	AnnotatorNotes T1172	sub (null)
+T1173	sup 23882 23885	-/-
+#1173	AnnotatorNotes T1173	sup (null)
+T1174	PR 23890 23893	D2R
+#1174	AnnotatorNotes T1174	PR:000001177 (D(2) dopamine receptor)
+T1175	sub 23891 23892	2
+#1175	AnnotatorNotes T1175	sub (null)
+T1176	sup 23893 23896	+/+
+#1176	AnnotatorNotes T1176	sup (null)
+T1177	SO 23893 23894	+
+#1177	AnnotatorNotes T1177	SO:0000817 (wild_type)
+T1178	SO 23895 23896	+
+#1178	AnnotatorNotes T1178	SO:0000817 (wild_type)
+T1179	NCBITaxon 23897 23901	mice
+#1179	AnnotatorNotes T1179	NCBITaxon:10088 (Mus)
+T1180	GO_BP 23946 23954	ambulate
+#1180	AnnotatorNotes T1180	GO:0040011 (locomotion)
+T1181	NCBITaxon 23981 23986	mouse
+#1181	AnnotatorNotes T1181	NCBITaxon:10088 (Mus)
+T1182	sup 24026 24027	®
+#1182	AnnotatorNotes T1182	sup (null)
+T1183	NCBITaxon 24045 24051	rodent
+#1183	AnnotatorNotes T1183	NCBITaxon:9989 (Rodentia)
+T1184	CHEBI 24052 24056	food
+#1184	AnnotatorNotes T1184	CHEBI:33290 (food)
+T1185	GO_BP 24229 24236	consume
+#1185	AnnotatorNotes T1185	GO:0007631 (feeding behavior)
+T1186	CHEBI 24241 24245	food
+#1186	AnnotatorNotes T1186	CHEBI:33290 (food)
+T1187	GO_BP 24361 24369	ambulate
+#1187	AnnotatorNotes T1187	GO:0040011 (locomotion)
+T1188	CHEBI 24450 24454	food
+#1188	AnnotatorNotes T1188	CHEBI:33290 (food)
+T1189	NCBITaxon 24524 24529	mouse
+#1189	AnnotatorNotes T1189	NCBITaxon:10088 (Mus)
+T1190	CHEBI 24549 24553	food
+#1190	AnnotatorNotes T1190	CHEBI:33290 (food)
+T1191	CHEBI 24609 24613	food
+#1191	AnnotatorNotes T1191	CHEBI:33290 (food)
+T1192	GO_BP 24763 24768	learn
+#1192	AnnotatorNotes T1192	GO:0007612 (learning)
+T1193	NCBITaxon 24795 24799	mice
+#1193	AnnotatorNotes T1193	NCBITaxon:10088 (Mus)
+T1194	CHEBI 24935 24939	food
+#1194	AnnotatorNotes T1194	CHEBI:33290 (food)
+T1195	sup 24988 24989	+
+#1195	AnnotatorNotes T1195	sup (null)
+T1196	sup 25084 25085	-
+#1196	AnnotatorNotes T1196	sup (null)
+T1197	NCBITaxon 25152 25156	dill
+#1197	AnnotatorNotes T1197	NCBITaxon:40922 (Anethum graveolens)
+T1198	CHEBI 25289 25293	food
+#1198	AnnotatorNotes T1198	CHEBI:33290 (food)
+T1199	CHEBI 25367 25371	food
+#1199	AnnotatorNotes T1199	CHEBI:33290 (food)
+T1200	sup 25391 25392	+
+#1200	AnnotatorNotes T1200	sup (null)
+T1201	NCBITaxon 25494 25499	mouse
+#1201	AnnotatorNotes T1201	NCBITaxon:10088 (Mus)
+T1202	GO_BP 25529 25537	consumed
+#1202	AnnotatorNotes T1202	GO:0007631 (feeding behavior)
+T1203	GO_BP 25975 25983	response
+#1203	AnnotatorNotes T1203	GO:0050896 (response to stimulus)
+T1204	GO_BP 26025 26033	behavior
+#1204	AnnotatorNotes T1204	GO:0007610 (behavior)
+T1205	SO 26041 26050	wild-type
+#1205	AnnotatorNotes T1205	SO:0000817 (wild_type)
+T1206	SO 26054 26060	mutant
+#1206	AnnotatorNotes T1206	SO:0001059 (sequence_alteration)
+T1207	NCBITaxon 26061 26065	mice
+#1207	AnnotatorNotes T1207	NCBITaxon:10088 (Mus)
+T1208	sup 26203 26204	+
+#1208	AnnotatorNotes T1208	sup (null)
+T1209	sup 26210 26211	-
+#1209	AnnotatorNotes T1209	sup (null)
+T1210	GO_BP 26489 26497	learning
+#1210	AnnotatorNotes T1210	GO:0007612 (learning)
+T1211	GO_MF 26552 26565	dopamine D2Rs
+#1211	AnnotatorNotes T1211	GO:0001670 (dopamine D2 receptor activity)
+T1212	EntrezGene 26552 26565	dopamine D2Rs
+#1212	AnnotatorNotes T1212	EG:13489
+T1213	PR 26552 26565	dopamine D2Rs
+#1213	AnnotatorNotes T1213	PR:000001177 (D(2) dopamine receptor)
+T1214	independent_continuant 26552 26565	dopamine D2Rs
+#1214	AnnotatorNotes T1214	independent_continuant
+T1215	CHEBI 26552 26560	dopamine
+#1215	AnnotatorNotes T1215	CHEBI:18243 (dopamine)
+T1216	sub 26562 26563	2
+#1216	AnnotatorNotes T1216	sub (null)
+T1217	GO_BP 26578 26595	learning behavior
+#1217	AnnotatorNotes T1217	GO:0007612 (learning)
+T1218	sup 26659 26660	+
+#1218	AnnotatorNotes T1218	sup (null)
+T1219	sup 26702 26703	-
+#1219	AnnotatorNotes T1219	sup (null)
+T1220	GO_BP 26812 26869	responses to previously reinforced discriminative stimuli
+#1220	AnnotatorNotes T1220	"responses to .. stimuli" GO:0050896 (response to stimulus)
+T1221	GO_BP 26941 26950	responses
+#1221	AnnotatorNotes T1221	GO:0050896 (response to stimulus)
+T1222	GO_BP 26993 27001	learning
+#1222	AnnotatorNotes T1222	GO:0007612 (learning)
+T1223	SO 27259 27267	genotype
+#1223	AnnotatorNotes T1223	SO:0001027 (genotype)
+T1224	GO_BP 27376 27385	responses
+#1224	AnnotatorNotes T1224	GO:0050896 (response to stimulus)
+T1225	GO_BP 27443 27451	learning
+#1225	AnnotatorNotes T1225	GO:0007612 (learning)
+T1226	GO_BP 27560 27568	learning
+#1226	AnnotatorNotes T1226	GO:0007612 (learning)
+T1227	italic 27658 27659	p
+#1227	AnnotatorNotes T1227	italic (null)
+T1228	GO_BP 27790 27800	responding
+#1228	AnnotatorNotes T1228	GO:0050896 (response to stimulus)
+T1229	sup 27805 27806	-
+#1229	AnnotatorNotes T1229	sup (null)
+T1230	GO_BP 27975 27983	learning
+#1230	AnnotatorNotes T1230	GO:0007612 (learning)
+T1231	NCBITaxon 28459 28463	Mice
+#1231	AnnotatorNotes T1231	NCBITaxon:10088 (Mus)
+T1232	GO_MF 28472 28493	dopamine D2 receptors
+#1232	AnnotatorNotes T1232	GO:0001670 (dopamine D2 receptor activity)
+T1233	independent_continuant 28472 28493	dopamine D2 receptors
+#1233	AnnotatorNotes T1233	independent_continuant
+T1234	EntrezGene 28472 28493	dopamine D2 receptors
+#1234	AnnotatorNotes T1234	EG:13489
+T1235	PR 28472 28493	dopamine D2 receptors
+#1235	AnnotatorNotes T1235	PR:000001177 (D(2) dopamine receptor)
+T1236	CHEBI 28472 28480	dopamine
+#1236	AnnotatorNotes T1236	CHEBI:18243 (dopamine)
+T1237	sub 28482 28483	2
+#1237	AnnotatorNotes T1237	sub (null)
+T1238	GO_BP 28518 28526	behavior
+#1238	AnnotatorNotes T1238	GO:0007610 (behavior)
+T1239	SO 28538 28547	wild-type
+#1239	AnnotatorNotes T1239	SO:0000817 (wild_type)
+T1240	NCBITaxon 28548 28552	mice
+#1240	AnnotatorNotes T1240	NCBITaxon:10088 (Mus)
+T1241	SO 28559 28568	genotypes
+#1241	AnnotatorNotes T1241	SO:0001027 (genotype)
+T1242	GO_BP 28577 28584	learned
+#1242	AnnotatorNotes T1242	GO:0007612 (learning)
+T1243	CHEBI 28597 28601	food
+#1243	AnnotatorNotes T1243	CHEBI:33290 (food)
+T1244	italic 28710 28711	p
+#1244	AnnotatorNotes T1244	italic (null)
+T1245	SO 28733 28742	Wild-type
+#1245	AnnotatorNotes T1245	SO:0000817 (wild_type)
+T1246	independent_continuant 28747 28750	D2R
+#1246	AnnotatorNotes T1246	independent_continuant
+T1247	EntrezGene 28747 28750	D2R
+#1247	AnnotatorNotes T1247	EG:13489
+T1248	GO_MF 28747 28750	D2R
+#1248	AnnotatorNotes T1248	GO:0001670 (dopamine D2 receptor activity)
+T1249	PR 28747 28750	D2R
+#1249	AnnotatorNotes T1249	PR:000001177 (D(2) dopamine receptor)
+T1250	sub 28748 28749	2
+#1250	AnnotatorNotes T1250	sub (null)
+T1251	NCBITaxon 28761 28765	mice
+#1251	AnnotatorNotes T1251	NCBITaxon:10088 (Mus)
+T1252	GO_BP 28823 28833	responding
+#1252	AnnotatorNotes T1252	GO:0050896 (response to stimulus)
+T1253	SO 28851 28859	genotype
+#1253	AnnotatorNotes T1253	SO:0001027 (genotype)
+T1254	GO_BP 28938 28946	response
+#1254	AnnotatorNotes T1254	GO:0050896 (response to stimulus)
+T1255	GO_BP 29015 29023	behavior
+#1255	AnnotatorNotes T1255	GO:0007610 (behavior)
+T1256	SO 29049 29058	genotypes
+#1256	AnnotatorNotes T1256	SO:0001027 (genotype)
+T1257	GO_BP 29074 29082	learning
+#1257	AnnotatorNotes T1257	GO:0007612 (learning)
+T1258	GO_BP 29111 29120	behaviors
+#1258	AnnotatorNotes T1258	GO:0007610 (behavior)
+T1259	GO_BP 29133 29172	Dopamine D2 receptor-mediated signaling
+#1259	AnnotatorNotes T1259	"Dopamine .. receptor-mediated signaling" GO:0007212 (dopamine receptor signaling pathway)
+T1260	independent_continuant 29133 29153	Dopamine D2 receptor
+#1260	AnnotatorNotes T1260	independent_continuant
+T1261	GO_MF 29133 29153	Dopamine D2 receptor
+#1261	AnnotatorNotes T1261	GO:0001670 (dopamine D2 receptor activity)
+T1262	PR 29133 29153	Dopamine D2 receptor
+#1262	AnnotatorNotes T1262	PR:000001177 (D(2) dopamine receptor)
+T1263	EntrezGene 29133 29153	Dopamine D2 receptor
+#1263	AnnotatorNotes T1263	EG:13489
+T1264	CHEBI 29133 29141	Dopamine
+#1264	AnnotatorNotes T1264	CHEBI:18243 (dopamine)
+T1265	sub 29143 29144	2
+#1265	AnnotatorNotes T1265	sub (null)
+T1266	GO_BP 29227 29247	associative learning
+#1266	AnnotatorNotes T1266	GO:0008306 (associative learning)
+T1267	SO 29249 29258	Wild-type
+#1267	AnnotatorNotes T1267	SO:0000817 (wild_type)
+T1268	independent_continuant 29260 29263	D2R
+#1268	AnnotatorNotes T1268	independent_continuant
+T1269	EntrezGene 29260 29263	D2R
+#1269	AnnotatorNotes T1269	EG:13489
+T1270	GO_MF 29260 29263	D2R
+#1270	AnnotatorNotes T1270	GO:0001670 (dopamine D2 receptor activity)
+T1271	PR 29260 29263	D2R
+#1271	AnnotatorNotes T1271	PR:000001177 (D(2) dopamine receptor)
+T1272	sub 29261 29262	2
+#1272	AnnotatorNotes T1272	sub (null)
+T1273	sup 29263 29266	+/+
+#1273	AnnotatorNotes T1273	sup (null)
+T1274	SO 29263 29264	+
+#1274	AnnotatorNotes T1274	SO:0000817 (wild_type)
+T1275	SO 29265 29266	+
+#1275	AnnotatorNotes T1275	SO:0000817 (wild_type)
+T1276	NCBITaxon 29268 29272	mice
+#1276	AnnotatorNotes T1276	NCBITaxon:10088 (Mus)
+T1277	GO_MF 29314 29317	D2R
+#1277	AnnotatorNotes T1277	GO:0001670 (dopamine D2 receptor activity)
+T1278	EntrezGene 29314 29317	D2R
+#1278	AnnotatorNotes T1278	EG:13489
+T1279	independent_continuant 29314 29317	D2R
+#1279	AnnotatorNotes T1279	independent_continuant
+T1280	PR 29314 29317	D2R
+#1280	AnnotatorNotes T1280	PR:000001177 (D(2) dopamine receptor)
+T1281	sub 29315 29316	2
+#1281	AnnotatorNotes T1281	sub (null)
+T1282	sup 29317 29320	-/-
+#1282	AnnotatorNotes T1282	sup (null)
+T1283	NCBITaxon 29321 29325	mice
+#1283	AnnotatorNotes T1283	NCBITaxon:10088 (Mus)
+T1284	italic 29374 29375	p
+#1284	AnnotatorNotes T1284	italic (null)
+T1285	italic 29447 29448	p
+#1285	AnnotatorNotes T1285	italic (null)
+T1286	independent_continuant 29500 29503	D2R
+#1286	AnnotatorNotes T1286	independent_continuant
+T1287	EntrezGene 29500 29503	D2R
+#1287	AnnotatorNotes T1287	EG:13489
+T1288	PR 29500 29503	D2R
+#1288	AnnotatorNotes T1288	PR:000001177 (D(2) dopamine receptor)
+T1289	GO_MF 29500 29503	D2R
+#1289	AnnotatorNotes T1289	GO:0001670 (dopamine D2 receptor activity)
+T1290	sub 29501 29502	2
+#1290	AnnotatorNotes T1290	sub (null)
+T1291	sup 29503 29506	-/-
+#1291	AnnotatorNotes T1291	sup (null)
+T1292	NCBITaxon 29507 29511	mice
+#1292	AnnotatorNotes T1292	NCBITaxon:10088 (Mus)
+T1293	GO_BP 29540 29548	behavior
+#1293	AnnotatorNotes T1293	GO:0007610 (behavior)
+T1294	GO_BP 29565 29573	learning
+#1294	AnnotatorNotes T1294	GO:0007612 (learning)
+T1295	GO_BP 29665 29673	learning
+#1295	AnnotatorNotes T1295	GO:0007612 (learning)
+T1296	italic 29676 29677	p
+#1296	AnnotatorNotes T1296	italic (null)
+T1297	italic 29723 29724	p
+#1297	AnnotatorNotes T1297	italic (null)
+T1298	independent_continuant 29736 29739	D2R
+#1298	AnnotatorNotes T1298	independent_continuant
+T1299	EntrezGene 29736 29739	D2R
+#1299	AnnotatorNotes T1299	EG:13489
+T1300	PR 29736 29739	D2R
+#1300	AnnotatorNotes T1300	PR:000001177 (D(2) dopamine receptor)
+T1301	GO_MF 29736 29739	D2R
+#1301	AnnotatorNotes T1301	GO:0001670 (dopamine D2 receptor activity)
+T1302	sub 29737 29738	2
+#1302	AnnotatorNotes T1302	sub (null)
+T1303	sup 29739 29742	-/-
+#1303	AnnotatorNotes T1303	sup (null)
+T1304	independent_continuant 29747 29750	D2R
+#1304	AnnotatorNotes T1304	independent_continuant
+T1305	EntrezGene 29747 29750	D2R
+#1305	AnnotatorNotes T1305	EG:13489
+T1306	GO_MF 29747 29750	D2R
+#1306	AnnotatorNotes T1306	GO:0001670 (dopamine D2 receptor activity)
+T1307	PR 29747 29750	D2R
+#1307	AnnotatorNotes T1307	PR:000001177 (D(2) dopamine receptor)
+T1308	sub 29748 29749	2
+#1308	AnnotatorNotes T1308	sub (null)
+T1309	sup 29750 29753	+/+
+#1309	AnnotatorNotes T1309	sup (null)
+T1310	SO 29750 29751	+
+#1310	AnnotatorNotes T1310	SO:0000817 (wild_type)
+T1311	SO 29752 29753	+
+#1311	AnnotatorNotes T1311	SO:0000817 (wild_type)
+T1312	NCBITaxon 29754 29758	mice
+#1312	AnnotatorNotes T1312	NCBITaxon:10088 (Mus)
+T1313	GO_BP 29780 29788	learning
+#1313	AnnotatorNotes T1313	GO:0007612 (learning)
+T1314	independent_continuant 29805 29808	D2R
+#1314	AnnotatorNotes T1314	independent_continuant
+T1315	PR 29805 29808	D2R
+#1315	AnnotatorNotes T1315	PR:000001177 (D(2) dopamine receptor)
+T1316	EntrezGene 29805 29808	D2R
+#1316	AnnotatorNotes T1316	EG:13489
+T1317	GO_MF 29805 29808	D2R
+#1317	AnnotatorNotes T1317	GO:0001670 (dopamine D2 receptor activity)
+T1318	sub 29806 29807	2
+#1318	AnnotatorNotes T1318	sub (null)
+T1319	sup 29808 29811	-/-
+#1319	AnnotatorNotes T1319	sup (null)
+T1320	NCBITaxon 29812 29816	mice
+#1320	AnnotatorNotes T1320	NCBITaxon:10088 (Mus)
+T1321	independent_continuant 29894 29897	D2R
+#1321	AnnotatorNotes T1321	independent_continuant
+T1322	EntrezGene 29894 29897	D2R
+#1322	AnnotatorNotes T1322	EG:13489
+T1323	GO_MF 29894 29897	D2R
+#1323	AnnotatorNotes T1323	GO:0001670 (dopamine D2 receptor activity)
+T1324	PR 29894 29897	D2R
+#1324	AnnotatorNotes T1324	PR:000001177 (D(2) dopamine receptor)
+T1325	sub 29895 29896	2
+#1325	AnnotatorNotes T1325	sub (null)
+T1326	sup 29897 29900	+/+
+#1326	AnnotatorNotes T1326	sup (null)
+T1327	SO 29897 29898	+
+#1327	AnnotatorNotes T1327	SO:0000817 (wild_type)
+T1328	SO 29899 29900	+
+#1328	AnnotatorNotes T1328	SO:0000817 (wild_type)
+T1329	NCBITaxon 29901 29905	mice
+#1329	AnnotatorNotes T1329	NCBITaxon:10088 (Mus)
+T1330	GO_BP 29907 29915	Response
+#1330	AnnotatorNotes T1330	GO:0050896 (response to stimulus)
+T1331	independent_continuant 29952 29955	D2R
+#1331	AnnotatorNotes T1331	independent_continuant
+T1332	EntrezGene 29952 29955	D2R
+#1332	AnnotatorNotes T1332	EG:13489
+T1333	PR 29952 29955	D2R
+#1333	AnnotatorNotes T1333	PR:000001177 (D(2) dopamine receptor)
+T1334	GO_MF 29952 29955	D2R
+#1334	AnnotatorNotes T1334	GO:0001670 (dopamine D2 receptor activity)
+T1335	sub 29953 29954	2
+#1335	AnnotatorNotes T1335	sub (null)
+T1336	sup 29955 29958	-/-
+#1336	AnnotatorNotes T1336	sup (null)
+T1337	NCBITaxon 29959 29963	mice
+#1337	AnnotatorNotes T1337	NCBITaxon:10088 (Mus)
+T1338	independent_continuant 30036 30039	D2R
+#1338	AnnotatorNotes T1338	independent_continuant
+T1339	EntrezGene 30036 30039	D2R
+#1339	AnnotatorNotes T1339	EG:13489
+T1340	PR 30036 30039	D2R
+#1340	AnnotatorNotes T1340	PR:000001177 (D(2) dopamine receptor)
+T1341	GO_MF 30036 30039	D2R
+#1341	AnnotatorNotes T1341	GO:0001670 (dopamine D2 receptor activity)
+T1342	sub 30037 30038	2
+#1342	AnnotatorNotes T1342	sub (null)
+T1343	sup 30039 30042	-/-
+#1343	AnnotatorNotes T1343	sup (null)
+T1344	NCBITaxon 30043 30047	mice
+#1344	AnnotatorNotes T1344	NCBITaxon:10088 (Mus)
+T1345	independent_continuant 30107 30110	D2R
+#1345	AnnotatorNotes T1345	independent_continuant
+T1346	PR 30107 30110	D2R
+#1346	AnnotatorNotes T1346	PR:000001177 (D(2) dopamine receptor)
+T1347	GO_MF 30107 30110	D2R
+#1347	AnnotatorNotes T1347	GO:0001670 (dopamine D2 receptor activity)
+T1348	EntrezGene 30107 30110	D2R
+#1348	AnnotatorNotes T1348	EG:13489
+T1349	sub 30108 30109	2
+#1349	AnnotatorNotes T1349	sub (null)
+T1350	sup 30110 30113	+/+
+#1350	AnnotatorNotes T1350	sup (null)
+T1351	SO 30110 30111	+
+#1351	AnnotatorNotes T1351	SO:0000817 (wild_type)
+T1352	SO 30112 30113	+
+#1352	AnnotatorNotes T1352	SO:0000817 (wild_type)
+T1353	NCBITaxon 30114 30118	mice
+#1353	AnnotatorNotes T1353	NCBITaxon:10088 (Mus)
+T1354	italic 30121 30122	p
+#1354	AnnotatorNotes T1354	italic (null)
+T1355	SO 30199 30208	genotypes
+#1355	AnnotatorNotes T1355	SO:0001027 (genotype)
+T1356	italic 30210 30211	p
+#1356	AnnotatorNotes T1356	italic (null)
+T1357	NCBITaxon 30231 30235	Mice
+#1357	AnnotatorNotes T1357	NCBITaxon:10088 (Mus)
+T1358	independent_continuant 30255 30259	D2Rs
+#1358	AnnotatorNotes T1358	independent_continuant
+T1359	EntrezGene 30255 30259	D2Rs
+#1359	AnnotatorNotes T1359	EG:13489
+T1360	PR 30255 30259	D2Rs
+#1360	AnnotatorNotes T1360	PR:000001177 (D(2) dopamine receptor)
+T1361	GO_MF 30255 30259	D2Rs
+#1361	AnnotatorNotes T1361	GO:0001670 (dopamine D2 receptor activity)
+T1362	sub 30256 30257	2
+#1362	AnnotatorNotes T1362	sub (null)
+T1363	GO_BP 30307 30316	responses
+#1363	AnnotatorNotes T1363	GO:0050896 (response to stimulus)
+T1364	GO_BP 30318 30326	Response
+#1364	AnnotatorNotes T1364	GO:0050896 (response to stimulus)
+T1365	NCBITaxon 30387 30391	mice
+#1365	AnnotatorNotes T1365	NCBITaxon:10088 (Mus)
+T1366	independent_continuant 30400 30404	D2Rs
+#1366	AnnotatorNotes T1366	independent_continuant
+T1367	PR 30400 30404	D2Rs
+#1367	AnnotatorNotes T1367	PR:000001177 (D(2) dopamine receptor)
+T1368	GO_MF 30400 30404	D2Rs
+#1368	AnnotatorNotes T1368	GO:0001670 (dopamine D2 receptor activity)
+T1369	EntrezGene 30400 30404	D2Rs
+#1369	AnnotatorNotes T1369	EG:13489
+T1370	sub 30401 30402	2
+#1370	AnnotatorNotes T1370	sub (null)
+T1371	NCBITaxon 30415 30419	mice
+#1371	AnnotatorNotes T1371	NCBITaxon:10088 (Mus)
+T1372	GO_BP 30499 30507	learning
+#1372	AnnotatorNotes T1372	GO:0007612 (learning)
+T1373	independent_continuant 30521 30524	D2R
+#1373	AnnotatorNotes T1373	independent_continuant
+T1374	GO_MF 30521 30524	D2R
+#1374	AnnotatorNotes T1374	GO:0001670 (dopamine D2 receptor activity)
+T1375	EntrezGene 30521 30524	D2R
+#1375	AnnotatorNotes T1375	EG:13489
+T1376	PR 30521 30524	D2R
+#1376	AnnotatorNotes T1376	PR:000001177 (D(2) dopamine receptor)
+T1377	sub 30522 30523	2
+#1377	AnnotatorNotes T1377	sub (null)
+T1378	sup 30524 30527	-/-
+#1378	AnnotatorNotes T1378	sup (null)
+T1379	NCBITaxon 30528 30532	mice
+#1379	AnnotatorNotes T1379	NCBITaxon:10088 (Mus)
+T1380	GO_BP 30586 30629	responding to previously reinforced stimuli
+#1380	AnnotatorNotes T1380	"responding to .. stimuli" GO:0050896 (response to stimulus)
+T1381	independent_continuant 30642 30645	D2R
+#1381	AnnotatorNotes T1381	independent_continuant
+T1382	PR 30642 30645	D2R
+#1382	AnnotatorNotes T1382	PR:000001177 (D(2) dopamine receptor)
+T1383	EntrezGene 30642 30645	D2R
+#1383	AnnotatorNotes T1383	EG:13489
+T1384	GO_MF 30642 30645	D2R
+#1384	AnnotatorNotes T1384	GO:0001670 (dopamine D2 receptor activity)
+T1385	sub 30643 30644	2
+#1385	AnnotatorNotes T1385	sub (null)
+T1386	sup 30645 30648	+/+
+#1386	AnnotatorNotes T1386	sup (null)
+T1387	SO 30645 30646	+
+#1387	AnnotatorNotes T1387	SO:0000817 (wild_type)
+T1388	SO 30647 30648	+
+#1388	AnnotatorNotes T1388	SO:0000817 (wild_type)
+T1389	NCBITaxon 30649 30653	mice
+#1389	AnnotatorNotes T1389	NCBITaxon:10088 (Mus)
+T1390	italic 30657 30658	p
+#1390	AnnotatorNotes T1390	italic (null)
+T1391	independent_continuant 30680 30683	D2R
+#1391	AnnotatorNotes T1391	independent_continuant
+T1392	EntrezGene 30680 30683	D2R
+#1392	AnnotatorNotes T1392	EG:13489
+T1393	PR 30680 30683	D2R
+#1393	AnnotatorNotes T1393	PR:000001177 (D(2) dopamine receptor)
+T1394	GO_MF 30680 30683	D2R
+#1394	AnnotatorNotes T1394	GO:0001670 (dopamine D2 receptor activity)
+T1395	sub 30681 30682	2
+#1395	AnnotatorNotes T1395	sub (null)
+T1396	sup 30683 30686	-/-
+#1396	AnnotatorNotes T1396	sup (null)
+T1397	NCBITaxon 30687 30691	mice
+#1397	AnnotatorNotes T1397	NCBITaxon:10088 (Mus)
+T1398	SO 30769 30778	wild-type
+#1398	AnnotatorNotes T1398	SO:0000817 (wild_type)
+T1399	NCBITaxon 30779 30783	mice
+#1399	AnnotatorNotes T1399	NCBITaxon:10088 (Mus)
+T1400	GO_BP 30819 30829	responding
+#1400	AnnotatorNotes T1400	GO:0050896 (response to stimulus)
+T1401	independent_continuant 30913 30916	D2R
+#1401	AnnotatorNotes T1401	independent_continuant
+T1402	EntrezGene 30913 30916	D2R
+#1402	AnnotatorNotes T1402	EG:13489
+T1403	PR 30913 30916	D2R
+#1403	AnnotatorNotes T1403	PR:000001177 (D(2) dopamine receptor)
+T1404	GO_MF 30913 30916	D2R
+#1404	AnnotatorNotes T1404	GO:0001670 (dopamine D2 receptor activity)
+T1405	sub 30914 30915	2
+#1405	AnnotatorNotes T1405	sub (null)
+T1406	sup 30916 30919	-/-
+#1406	AnnotatorNotes T1406	sup (null)
+T1407	independent_continuant 30973 30976	D2R
+#1407	AnnotatorNotes T1407	independent_continuant
+T1408	EntrezGene 30973 30976	D2R
+#1408	AnnotatorNotes T1408	EG:13489
+T1409	GO_MF 30973 30976	D2R
+#1409	AnnotatorNotes T1409	GO:0001670 (dopamine D2 receptor activity)
+T1410	PR 30973 30976	D2R
+#1410	AnnotatorNotes T1410	PR:000001177 (D(2) dopamine receptor)
+T1411	sub 30974 30975	2
+#1411	AnnotatorNotes T1411	sub (null)
+T1412	sup 30976 30979	+/+
+#1412	AnnotatorNotes T1412	sup (null)
+T1413	SO 30976 30977	+
+#1413	AnnotatorNotes T1413	SO:0000817 (wild_type)
+T1414	SO 30978 30979	+
+#1414	AnnotatorNotes T1414	SO:0000817 (wild_type)
+T1415	NCBITaxon 30980 30984	mice
+#1415	AnnotatorNotes T1415	NCBITaxon:10088 (Mus)

@@ -1,0 +1,3400 @@
+T1	GO_BP 42 63	embryonic development
+#1	AnnotatorNotes T1	GO:0009790 (embryonic development)
+T2	NCBITaxon 67 71	mice
+#2	AnnotatorNotes T2	NCBITaxon:10088 (Mus)
+T3	GO_BP 136 145	expressed
+#3	AnnotatorNotes T3	GO:0010467 (gene expression)
+T4	GO_MF 146 155	proteases
+#4	AnnotatorNotes T4	GO:0008233 (peptidase activity)
+T5	independent_continuant 146 155	proteases
+#5	AnnotatorNotes T5	independent_continuant
+T6	GO_BP 170 188	cellular migration
+#6	AnnotatorNotes T6	GO:0016477 (cell migration)
+T7	CL 170 178	cellular
+#7	AnnotatorNotes T7	CL:0000000 (cell)
+T8	GO_CC 170 178	cellular
+#8	AnnotatorNotes T8	GO:0005623 (cell)
+T9	GO_BP 190 200	cell cycle
+#9	AnnotatorNotes T9	GO:0007049 (cell cycle)
+T10	CL 190 194	cell
+#10	AnnotatorNotes T10	CL:0000000 (cell)
+T11	GO_CC 190 194	cell
+#11	AnnotatorNotes T11	GO:0005623 (cell)
+T12	GO_BP 241 251	cell death
+#12	AnnotatorNotes T12	GO:0008219 (cell death)
+T13	CL 241 245	cell
+#13	AnnotatorNotes T13	CL:0000000 (cell)
+T14	GO_CC 241 245	cell
+#14	AnnotatorNotes T14	GO:0005623 (cell)
+T15	SO 273 280	enzymes
+#15	AnnotatorNotes T15	SO:0001185 (enzymatic)
+T16	italic 337 342	Capn1
+#16	AnnotatorNotes T16	italic (null)
+T17	PR 337 342	Capn1
+#17	AnnotatorNotes T17	PR:000005009 (calpain-1 catalytic subunit)
+T18	italic 358 363	Capn2
+#18	AnnotatorNotes T18	italic (null)
+T19	PR 358 363	Capn2
+#19	AnnotatorNotes T19	PR:000005015 (calpain-2 catalytic subunit)
+T20	GO_BP 390 400	regulatory
+#20	AnnotatorNotes T20	GO:0065007 (biological regulation)
+T21	italic 420 425	Capn4
+#21	AnnotatorNotes T21	italic (null)
+T22	PR 420 425	Capn4
+#22	AnnotatorNotes T22	PR:000005022 (calpain small subunit 1)
+T23	EntrezGene 445 456	mouse Capn4
+#23	AnnotatorNotes T23	EG:12336
+T24	NCBITaxon 445 450	mouse
+#24	AnnotatorNotes T24	NCBITaxon:10088 (Mus)
+T25	italic 451 456	Capn4
+#25	AnnotatorNotes T25	italic (null)
+T26	PR 451 456	Capn4
+#26	AnnotatorNotes T26	PR:000005022 (calpain small subunit 1)
+T27	SO 457 461	gene
+#27	AnnotatorNotes T27	SO:0000704 (gene)
+T28	SO 608 615	enzymes
+#28	AnnotatorNotes T28	SO:0001185 (enzymatic)
+T29	NCBITaxon 623 632	mammalian
+#29	AnnotatorNotes T29	NCBITaxon:40674 (Mammalia)
+T30	GO_BP 633 646	embryogenesis
+#30	AnnotatorNotes T30	GO:0009790 (embryonic development)
+T31	italic 666 671	Capn1
+#31	AnnotatorNotes T31	italic (null)
+T32	PR 666 671	Capn1
+#32	AnnotatorNotes T32	PR:000005009 (calpain-1 catalytic subunit)
+T33	EntrezGene 666 671	Capn1
+#33	AnnotatorNotes T33	EG:12333
+T34	SO 672 676	gene
+#34	AnnotatorNotes T34	SO:0000704 (gene)
+T35	GO_BP 677 685	produced
+#35	AnnotatorNotes T35	GO:0000003 (reproduction)
+T36	NCBITaxon 702 706	mice
+#36	AnnotatorNotes T36	NCBITaxon:10088 (Mus)
+T37	GO_BP 832 837	death
+#37	AnnotatorNotes T37	GO:0016265 (death)
+T38	italic 841 846	Capn4
+#38	AnnotatorNotes T38	italic (null)
+T39	PR 841 846	Capn4
+#39	AnnotatorNotes T39	PR:000005022 (calpain small subunit 1)
+T40	EntrezGene 841 846	Capn4
+#40	AnnotatorNotes T40	EG:12336
+T41	sup 846 849	-/-
+#41	AnnotatorNotes T41	sup (null)
+T42	NCBITaxon 850 854	mice
+#42	AnnotatorNotes T42	NCBITaxon:10088 (Mus)
+T43	SO 926 933	deleted
+#43	AnnotatorNotes T43	SO:0000045 (delete)
+T44	SO 947 960	coding region
+#44	AnnotatorNotes T44	SO:0000851 (CDS_region)
+T45	EntrezGene 968 979	mouse Capn2
+#45	AnnotatorNotes T45	EG:12334
+T46	NCBITaxon 968 973	mouse
+#46	AnnotatorNotes T46	NCBITaxon:10088 (Mus)
+T47	PR 974 979	Capn2
+#47	AnnotatorNotes T47	PR:000005015 (calpain-2 catalytic subunit)
+T48	italic 974 978	Capn
+#48	AnnotatorNotes T48	italic (null)
+T49	SO 980 984	gene
+#49	AnnotatorNotes T49	SO:0000704 (gene)
+T50	CL 998 1009	stems cells
+#50	AnnotatorNotes T50	CL:0000034 (stem cell)
+T51	GO_CC 1004 1009	cells
+#51	AnnotatorNotes T51	GO:0005623 (cell)
+T52	SO 1031 1037	mutant
+#52	AnnotatorNotes T52	SO:0001059 (sequence_alteration)
+T53	SO 1038 1044	allele
+#53	AnnotatorNotes T53	SO:0001023 (allele)
+T54	NCBITaxon 1057 1062	mouse
+#54	AnnotatorNotes T54	NCBITaxon:10088 (Mus)
+T55	GO_BP 1073 1081	Breeding
+#55	AnnotatorNotes T55	GO:0007618 (mating)
+T56	NCBITaxon 1098 1105	animals
+#56	AnnotatorNotes T56	NCBITaxon:33208 (Metazoa)
+T57	GO_BP 1116 1123	produce
+#57	AnnotatorNotes T57	GO:0000003 (reproduction)
+T58	SO 1135 1141	mutant
+#58	AnnotatorNotes T58	SO:0001059 (sequence_alteration)
+T59	GO_BP 1160 1169	implanted
+#59	AnnotatorNotes T59	GO:0007566 (embryo implantation)
+T60	SO 1260 1266	mutant
+#60	AnnotatorNotes T60	SO:0001059 (sequence_alteration)
+T61	italic 1395 1400	Capn2
+#61	AnnotatorNotes T61	italic (null)
+T62	EntrezGene 1395 1400	Capn2
+#62	AnnotatorNotes T62	EG:12334
+T63	PR 1395 1400	Capn2
+#63	AnnotatorNotes T63	PR:000005015 (calpain-2 catalytic subunit)
+T64	SO 1401 1405	gene
+#64	AnnotatorNotes T64	SO:0000704 (gene)
+T65	GO_BP 1421 1433	implantation
+#65	AnnotatorNotes T65	GO:0007566 (embryo implantation)
+T66	GO_BP 1598 1646	development of the preimplantation murine embryo
+#66	AnnotatorNotes T66	"development of .. embryo" GO:0009790 (embryonic development)
+T67	NCBITaxon 1633 1639	murine
+#67	AnnotatorNotes T67	NCBITaxon:39107 (Murinae)
+T68	CHEBI 1680 1684	Ca2+
+#68	AnnotatorNotes T68	CHEBI:29108 (calcium(2+))
+T69	sup 1682 1684	2+
+#69	AnnotatorNotes T69	sup (null)
+T70	GO_MF 1696 1714	cysteine proteases
+#70	AnnotatorNotes T70	GO:0008234 (cysteine-type peptidase activity)
+T71	independent_continuant 1696 1714	cysteine proteases
+#71	AnnotatorNotes T71	independent_continuant
+T72	CHEBI 1696 1704	cysteine
+#72	AnnotatorNotes T72	CHEBI:32460 (cysteine residue)
+T73	SO 1696 1704	cysteine
+#73	AnnotatorNotes T73	SO:0001447 (cysteine)
+T74	SO 1802 1806	gene
+#74	AnnotatorNotes T74	SO:0000704 (gene)
+T75	SO 1828 1833	genes
+#75	AnnotatorNotes T75	SO:0000704 (gene)
+T76	NCBITaxon 1837 1844	mammals
+#76	AnnotatorNotes T76	NCBITaxon:40674 (Mammalia)
+T77	SO 1875 1882	enzymes
+#77	AnnotatorNotes T77	SO:0001185 (enzymatic)
+T78	italic 1948 1953	Capn1
+#78	AnnotatorNotes T78	italic (null)
+T79	PR 1948 1953	Capn1
+#79	AnnotatorNotes T79	PR:000005009 (calpain-1 catalytic subunit)
+T80	PR 1955 1961	μ-80 k
+#80	AnnotatorNotes T80	PR:000005009 (calpain-1 catalytic subunit)
+T81	italic 1967 1972	Capn2
+#81	AnnotatorNotes T81	italic (null)
+T82	PR 1967 1972	Capn2
+#82	AnnotatorNotes T82	PR:000005015 (calpain-2 catalytic subunit)
+T83	PR 1974 1980	m-80 k
+#83	AnnotatorNotes T83	PR:000005015 (calpain-2 catalytic subunit)
+T84	SO 1982 1987	genes
+#84	AnnotatorNotes T84	SO:0000704 (gene)
+T85	GO_BP 2039 2049	regulatory
+#85	AnnotatorNotes T85	GO:0065007 (biological regulation)
+T86	italic 2073 2078	Capn4
+#86	AnnotatorNotes T86	italic (null)
+T87	PR 2073 2078	Capn4
+#87	AnnotatorNotes T87	PR:000005022 (calpain small subunit 1)
+T88	SO 2079 2083	gene
+#88	AnnotatorNotes T88	SO:0000704 (gene)
+T89	PR 2089 2115	μ-80 k and m-80 k subunits
+#89	AnnotatorNotes T89	"μ-80 k .. subunits" PR:000005009 (calpain-1 catalytic subunit)
+T90	PR 2100 2115	m-80 k subunits
+#90	AnnotatorNotes T90	PR:000005015 (calpain-2 catalytic subunit)
+T91	SO 2126 2145	amino acid sequence
+#91	AnnotatorNotes T91	SO:0001407 (peptidyl)
+T92	CHEBI 2126 2136	amino acid
+#92	AnnotatorNotes T92	CHEBI:33708 (amino-acid residue)
+T93	SO 2126 2136	amino acid
+#93	AnnotatorNotes T93	SO:0001237 (amino_acid)
+T94	CHEBI 2126 2131	amino
+#94	AnnotatorNotes T94	CHEBI:46882 (amino group)
+T95	CHEBI 2126 2131	amino
+#95	AnnotatorNotes T95	CHEBI:32952 (amines)
+T96	CHEBI 2132 2136	acid
+#96	AnnotatorNotes T96	CHEBI:37527 (acid)
+T97	CHEBI 2200 2207	protein
+#97	AnnotatorNotes T97	CHEBI:36080 (proteins)
+T98	italic 2223 2231	in vitro
+#98	AnnotatorNotes T98	italic (null)
+T99	GO_BP 2300 2310	expression
+#99	AnnotatorNotes T99	GO:0010467 (gene expression)
+T100	NCBITaxon 2343 2352	mammalian
+#100	AnnotatorNotes T100	NCBITaxon:40674 (Mammalia)
+T101	SO 2384 2391	isoform
+#101	AnnotatorNotes T101	SO:0001060 (sequence_variant)
+T102	CHEBI 2476 2480	Ca2+
+#102	AnnotatorNotes T102	CHEBI:29108 (calcium(2+))
+T103	sup 2478 2480	2+
+#103	AnnotatorNotes T103	sup (null)
+T104	italic 2490 2498	in vitro
+#104	AnnotatorNotes T104	italic (null)
+T105	CHEBI 2532 2536	Ca2+
+#105	AnnotatorNotes T105	CHEBI:29108 (calcium(2+))
+T106	sup 2534 2536	2+
+#106	AnnotatorNotes T106	sup (null)
+T107	CHEBI 2567 2571	Ca2+
+#107	AnnotatorNotes T107	CHEBI:29108 (calcium(2+))
+T108	sup 2569 2571	2+
+#108	AnnotatorNotes T108	sup (null)
+T109	CHEBI 2678 2685	calcium
+#109	AnnotatorNotes T109	CHEBI:22984 (calcium)
+T110	italic 2686 2693	in vivo
+#110	AnnotatorNotes T110	italic (null)
+T111	GO_CC 2772 2783	cytoplasmic
+#111	AnnotatorNotes T111	GO:0005737 (cytoplasm)
+T112	CHEBI 2789 2793	Ca2+
+#112	AnnotatorNotes T112	CHEBI:29108 (calcium(2+))
+T113	sup 2791 2793	2+
+#113	AnnotatorNotes T113	sup (null)
+T114	italic 2867 2874	in vivo
+#114	AnnotatorNotes T114	italic (null)
+T115	GO_BP 2902 2912	regulation
+#115	AnnotatorNotes T115	GO:0065007 (biological regulation)
+T116	SO 2922 2929	enzymes
+#116	AnnotatorNotes T116	SO:0001185 (enzymatic)
+T117	GO_BP 2977 2987	regulating
+#117	AnnotatorNotes T117	GO:0065007 (biological regulation)
+T118	GO_BP 3186 3212	muscle growth, development
+#118	AnnotatorNotes T118	"muscle .. development" GO:0007517 (muscle development)
+T119	GO_BP 3193 3199	growth
+#119	AnnotatorNotes T119	GO:0040007 (growth)
+T120	CL 3232 3240	neuronal
+#120	AnnotatorNotes T120	CL:0000540 (neuron)
+T121	GO_BP 3241 3247	growth
+#121	AnnotatorNotes T121	GO:0040007 (growth)
+T122	GO_BP 3275 3285	cell cycle
+#122	AnnotatorNotes T122	GO:0007049 (cell cycle)
+T123	CL 3275 3279	cell
+#123	AnnotatorNotes T123	CL:0000000 (cell)
+T124	GO_CC 3275 3279	cell
+#124	AnnotatorNotes T124	GO:0005623 (cell)
+T125	GO_BP 3305 3320	signal cascades
+#125	AnnotatorNotes T125	GO:0007165 (signal transduction)
+T126	GO_CC 3334 3343	integrins
+#126	AnnotatorNotes T126	GO:0008305 (integrin complex)
+T127	GO_MF 3348 3362	growth factors
+#127	AnnotatorNotes T127	GO:0008083 (growth factor activity)
+T128	independent_continuant 3348 3362	growth factors
+#128	AnnotatorNotes T128	independent_continuant
+T129	GO_BP 3348 3354	growth
+#129	AnnotatorNotes T129	GO:0040007 (growth)
+T130	GO_CC 3368 3376	membrane
+#130	AnnotatorNotes T130	GO:0016020 (membrane)
+T131	GO_CC 3411 3423	cytoskeleton
+#131	AnnotatorNotes T131	GO:0005856 (cytoskeleton)
+T132	GO_BP 3428 3442	cell migration
+#132	AnnotatorNotes T132	GO:0016477 (cell migration)
+T133	CL 3428 3432	cell
+#133	AnnotatorNotes T133	CL:0000000 (cell)
+T134	GO_CC 3428 3432	cell
+#134	AnnotatorNotes T134	GO:0005623 (cell)
+T135	GO_BP 3455 3465	regulation
+#135	AnnotatorNotes T135	GO:0065007 (biological regulation)
+T136	GO_BP 3469 3479	cell death
+#136	AnnotatorNotes T136	GO:0008219 (cell death)
+T137	CL 3469 3473	cell
+#137	AnnotatorNotes T137	CL:0000000 (cell)
+T138	GO_CC 3469 3473	cell
+#138	AnnotatorNotes T138	GO:0005623 (cell)
+T139	GO_BP 3502 3511	apoptosis
+#139	AnnotatorNotes T139	GO:0006915 (apoptosis)
+T140	GO_MF 3582 3590	caspases
+#140	AnnotatorNotes T140	GO:0030693 (caspase activity)
+T141	independent_continuant 3582 3590	caspases
+#141	AnnotatorNotes T141	independent_continuant
+T142	GO_BP 3637 3655	cell death pathway
+#142	AnnotatorNotes T142	GO:0008219 (cell death)
+T143	CL 3637 3641	cell
+#143	AnnotatorNotes T143	CL:0000000 (cell)
+T144	GO_CC 3637 3641	cell
+#144	AnnotatorNotes T144	GO:0005623 (cell)
+T145	CL 3701 3705	cell
+#145	AnnotatorNotes T145	CL:0000000 (cell)
+T146	GO_CC 3701 3705	cell
+#146	AnnotatorNotes T146	GO:0005623 (cell)
+T147	GO_MF 3716 3738	inhibitors of calpains
+#147	AnnotatorNotes T147	GO:0030161 (calpain inhibitor activity)
+T148	independent_continuant 3716 3738	inhibitors of calpains
+#148	AnnotatorNotes T148	independent_continuant
+T149	CHEBI 3716 3726	inhibitors
+#149	AnnotatorNotes T149	CHEBI:35222 (inhibitor)
+T150	GO_BP 3850 3860	expression
+#150	AnnotatorNotes T150	GO:0010467 (gene expression)
+T151	PR 3864 3875	calpastatin
+#151	AnnotatorNotes T151	PR:000005060 (calpastatin)
+T152	CHEBI 3892 3899	protein
+#152	AnnotatorNotes T152	CHEBI:36080 (proteins)
+T153	GO_MF 3900 3929	inhibitor of μ- and m-calpain
+#153	AnnotatorNotes T153	"inhibitor of .. calpain" GO:0030161 (calpain inhibitor activity)
+T154	independent_continuant 3900 3929	inhibitor of μ- and m-calpain
+#154	AnnotatorNotes T154	"inhibitor of .. calpain" independent_continuant
+T155	CHEBI 3900 3909	inhibitor
+#155	AnnotatorNotes T155	CHEBI:35222 (inhibitor)
+T156	SO 4004 4011	isoform
+#156	AnnotatorNotes T156	SO:0001060 (sequence_variant)
+T157	SO 4067 4074	isoform
+#157	AnnotatorNotes T157	SO:0001060 (sequence_variant)
+T158	PR 4123 4146	epidermal growth factor
+#158	AnnotatorNotes T158	PR:000006928 (pro-epidermal growth factor)
+T159	GO_MF 4133 4146	growth factor
+#159	AnnotatorNotes T159	GO:0008083 (growth factor activity)
+T160	independent_continuant 4133 4146	growth factor
+#160	AnnotatorNotes T160	independent_continuant
+T161	GO_BP 4133 4139	growth
+#161	AnnotatorNotes T161	GO:0040007 (growth)
+T162	PR 4148 4151	EGF
+#162	AnnotatorNotes T162	PR:000006928 (pro-epidermal growth factor)
+T163	GO_BP 4153 4160	induced
+#163	AnnotatorNotes T163	GO:0031128 (induction)
+T164	GO_BP 4161 4174	cell motility
+#164	AnnotatorNotes T164	GO:0006928 (cell motility)
+T165	CL 4161 4165	cell
+#165	AnnotatorNotes T165	CL:0000000 (cell)
+T166	GO_CC 4161 4165	cell
+#166	AnnotatorNotes T166	GO:0005623 (cell)
+T167	PR 4211 4241	interferon-inducible protein 9
+#167	AnnotatorNotes T167	PR:000006065 (C-X-C motif chemokine 11)
+T168	CHEBI 4232 4239	protein
+#168	AnnotatorNotes T168	CHEBI:36080 (proteins)
+T169	GO_BP 4242 4249	induced
+#169	AnnotatorNotes T169	GO:0031128 (induction)
+T170	GO_BP 4250 4276	migration of keratinocytes
+#170	AnnotatorNotes T170	GO:0051546 (keratinocyte migration)
+T171	CL 4285 4289	cell
+#171	AnnotatorNotes T171	CL:0000000 (cell)
+T172	GO_CC 4285 4289	cell
+#172	AnnotatorNotes T172	GO:0005623 (cell)
+T173	GO_MF 4300 4317	calpain inhibitor
+#173	AnnotatorNotes T173	GO:0030161 (calpain inhibitor activity)
+T174	independent_continuant 4300 4317	calpain inhibitor
+#174	AnnotatorNotes T174	independent_continuant
+T175	CHEBI 4308 4317	inhibitor
+#175	AnnotatorNotes T175	CHEBI:35222 (inhibitor)
+T176	GO_MF 4347 4362	thiol-proteases
+#176	AnnotatorNotes T176	GO:0008234 (cysteine-type peptidase activity)
+T177	independent_continuant 4347 4362	thiol-proteases
+#177	AnnotatorNotes T177	independent_continuant
+T178	CHEBI 4347 4352	thiol
+#178	AnnotatorNotes T178	CHEBI:29917 (thiol group)
+T179	CL 4396 4401	cells
+#179	AnnotatorNotes T179	CL:0000000 (cell)
+T180	GO_CC 4396 4401	cells
+#180	AnnotatorNotes T180	GO:0005623 (cell)
+T181	GO_BP 4442 4455	proliferation
+#181	AnnotatorNotes T181	GO:0008283 (cell proliferation)
+T182	GO_BP 4493 4503	expression
+#182	AnnotatorNotes T182	GO:0010467 (gene expression)
+T183	CL 4523 4528	cells
+#183	AnnotatorNotes T183	CL:0000000 (cell)
+T184	GO_CC 4523 4528	cells
+#184	AnnotatorNotes T184	GO:0005623 (cell)
+T185	CL 4581 4585	cell
+#185	AnnotatorNotes T185	CL:0000000 (cell)
+T186	GO_CC 4581 4585	cell
+#186	AnnotatorNotes T186	GO:0005623 (cell)
+T187	SO 4611 4615	gene
+#187	AnnotatorNotes T187	SO:0000704 (gene)
+T188	SO 4616 4624	deletion
+#188	AnnotatorNotes T188	SO:0000045 (delete)
+T189	NCBITaxon 4628 4632	mice
+#189	AnnotatorNotes T189	NCBITaxon:10088 (Mus)
+T190	SO 4759 4766	isoform
+#190	AnnotatorNotes T190	SO:0001060 (sequence_variant)
+T191	italic 4812 4817	Capn4
+#191	AnnotatorNotes T191	italic (null)
+T192	EntrezGene 4812 4817	Capn4
+#192	AnnotatorNotes T192	EG:12336
+T193	PR 4812 4817	Capn4
+#193	AnnotatorNotes T193	PR:000005022 (calpain small subunit 1)
+T194	italic 4925 4930	Capn4
+#194	AnnotatorNotes T194	italic (null)
+T195	PR 4925 4930	Capn4
+#195	AnnotatorNotes T195	PR:000005022 (calpain small subunit 1)
+T196	EntrezGene 4925 4930	Capn4
+#196	AnnotatorNotes T196	EG:12336
+T197	sup 4930 4933	-/-
+#197	AnnotatorNotes T197	sup (null)
+T198	NCBITaxon 4934 4940	murine
+#198	AnnotatorNotes T198	NCBITaxon:39107 (Murinae)
+T199	GO_BP 4949 4953	died
+#199	AnnotatorNotes T199	GO:0016265 (death)
+T200	GO_BP 4980 4989	gestation
+#200	AnnotatorNotes T200	GO:0007565 (female pregnancy)
+T201	italic 5078 5083	Capn4
+#201	AnnotatorNotes T201	italic (null)
+T202	EntrezGene 5078 5083	Capn4
+#202	AnnotatorNotes T202	EG:12336
+T203	PR 5078 5083	Capn4
+#203	AnnotatorNotes T203	PR:000005022 (calpain small subunit 1)
+T204	sup 5083 5086	-/-
+#204	AnnotatorNotes T204	sup (null)
+T205	NCBITaxon 5087 5093	murine
+#205	AnnotatorNotes T205	NCBITaxon:39107 (Murinae)
+T206	CL 5104 5115	fibroblasts
+#206	AnnotatorNotes T206	CL:0000057 (fibroblast)
+T207	GO_BP 5247 5256	formation
+#207	AnnotatorNotes T207	GO:0009058 (biosynthetic process)
+T208	GO_CC 5275 5283	spectrin
+#208	AnnotatorNotes T208	GO:0008091 (spectrin)
+T209	GO_BP 5284 5293	breakdown
+#209	AnnotatorNotes T209	GO:0009056 (catabolic process)
+T210	GO_BP 5323 5332	migration
+#210	AnnotatorNotes T210	GO:0016477 (cell migration)
+T211	GO_CC 5390 5405	focal adhesions
+#211	AnnotatorNotes T211	GO:0005925 (focal adhesion)
+T212	italic 5436 5441	Capn4
+#212	AnnotatorNotes T212	italic (null)
+T213	PR 5436 5441	Capn4
+#213	AnnotatorNotes T213	PR:000005022 (calpain small subunit 1)
+T214	EntrezGene 5436 5441	Capn4
+#214	AnnotatorNotes T214	EG:12336
+T215	SO 5479 5487	deletion
+#215	AnnotatorNotes T215	SO:0000045 (delete)
+T216	SO 5495 5499	gene
+#216	AnnotatorNotes T216	SO:0000704 (gene)
+T217	GO_BP 5565 5577	implantation
+#217	AnnotatorNotes T217	GO:0007566 (embryo implantation)
+T218	italic 5667 5672	Capn4
+#218	AnnotatorNotes T218	italic (null)
+T219	EntrezGene 5667 5672	Capn4
+#219	AnnotatorNotes T219	EG:12336
+T220	PR 5667 5672	Capn4
+#220	AnnotatorNotes T220	PR:000005022 (calpain small subunit 1)
+T221	sup 5672 5675	-/-
+#221	AnnotatorNotes T221	sup (null)
+T222	NCBITaxon 5676 5680	mice
+#222	AnnotatorNotes T222	NCBITaxon:10088 (Mus)
+T223	SO 5719 5727	mutation
+#223	AnnotatorNotes T223	SO:0001059 (sequence_alteration)
+T224	GO_BP 5817 5826	gestation
+#224	AnnotatorNotes T224	GO:0007565 (female pregnancy)
+T225	italic 5854 5859	Capn4
+#225	AnnotatorNotes T225	italic (null)
+T226	PR 5854 5859	Capn4
+#226	AnnotatorNotes T226	PR:000005022 (calpain small subunit 1)
+T227	EntrezGene 5854 5859	Capn4
+#227	AnnotatorNotes T227	EG:12336
+T228	sup 5859 5862	-/-
+#228	AnnotatorNotes T228	sup (null)
+T229	NCBITaxon 5863 5867	mice
+#229	AnnotatorNotes T229	NCBITaxon:10088 (Mus)
+T230	SO 5897 5905	mutation
+#230	AnnotatorNotes T230	SO:0001059 (sequence_alteration)
+T231	italic 5921 5926	Capn1
+#231	AnnotatorNotes T231	italic (null)
+T232	PR 5921 5926	Capn1
+#232	AnnotatorNotes T232	PR:000005009 (calpain-1 catalytic subunit)
+T233	EntrezGene 5921 5926	Capn1
+#233	AnnotatorNotes T233	EG:12333
+T234	EntrezGene 5941 5968	μ-calpain catalytic subunit
+#234	AnnotatorNotes T234	EG:12333
+T235	PR 5941 5968	μ-calpain catalytic subunit
+#235	AnnotatorNotes T235	PR:000005009 (calpain-1 catalytic subunit)
+T236	NCBITaxon 6025 6029	mice
+#236	AnnotatorNotes T236	NCBITaxon:10088 (Mus)
+T237	CL 6075 6084	platelets
+#237	AnnotatorNotes T237	CL:0000233 (platelet)
+T238	GO_BP 6119 6134	clot retraction
+#238	AnnotatorNotes T238	GO:0050819 (negative regulation of coagulation)
+T239	italic 6155 6160	Capn4
+#239	AnnotatorNotes T239	italic (null)
+T240	EntrezGene 6155 6160	Capn4
+#240	AnnotatorNotes T240	EG:12336
+T241	PR 6155 6160	Capn4
+#241	AnnotatorNotes T241	PR:000005022 (calpain small subunit 1)
+T242	NCBITaxon 6166 6170	mice
+#242	AnnotatorNotes T242	NCBITaxon:10088 (Mus)
+T243	GO_BP 6171 6174	die
+#243	AnnotatorNotes T243	GO:0016265 (death)
+T244	GO_BP 6182 6195	embryogenesis
+#244	AnnotatorNotes T244	GO:0009790 (embryonic development)
+T245	GO_BP 6268 6279	development
+#245	AnnotatorNotes T245	GO:0032502 (developmental process)
+T246	italic 6306 6311	Capn1
+#246	AnnotatorNotes T246	italic (null)
+T247	EntrezGene 6306 6311	Capn1
+#247	AnnotatorNotes T247	EG:12333
+T248	PR 6306 6311	Capn1
+#248	AnnotatorNotes T248	PR:000005009 (calpain-1 catalytic subunit)
+T249	NCBITaxon 6322 6326	mice
+#249	AnnotatorNotes T249	NCBITaxon:10088 (Mus)
+T250	GO_BP 6437 6450	embryogenesis
+#250	AnnotatorNotes T250	GO:0009790 (embryonic development)
+T251	SO 6467 6471	form
+#251	AnnotatorNotes T251	SO:0001060 (sequence_variant)
+T252	italic 6606 6611	Capn2
+#252	AnnotatorNotes T252	italic (null)
+T253	EntrezGene 6606 6611	Capn2
+#253	AnnotatorNotes T253	EG:12334
+T254	PR 6606 6611	Capn2
+#254	AnnotatorNotes T254	PR:000005015 (calpain-2 catalytic subunit)
+T255	SO 6612 6616	gene
+#255	AnnotatorNotes T255	SO:0000704 (gene)
+T256	EntrezGene 6630 6644	m-80 k subunit
+#256	AnnotatorNotes T256	EG:12334
+T257	PR 6630 6644	m-80 k subunit
+#257	AnnotatorNotes T257	PR:000005015 (calpain-2 catalytic subunit)
+T258	NCBITaxon 6648 6652	mice
+#258	AnnotatorNotes T258	NCBITaxon:10088 (Mus)
+T259	italic 6674 6679	Capn2
+#259	AnnotatorNotes T259	italic (null)
+T260	PR 6674 6679	Capn2
+#260	AnnotatorNotes T260	PR:000005015 (calpain-2 catalytic subunit)
+T261	EntrezGene 6674 6679	Capn2
+#261	AnnotatorNotes T261	EG:12334
+T262	GO_BP 6693 6697	died
+#262	AnnotatorNotes T262	GO:0016265 (death)
+T263	GO_BP 6711 6729	implantation stage
+#263	AnnotatorNotes T263	GO:0007566 (embryo implantation)
+T264	GO_BP 6784 6797	embryogenesis
+#264	AnnotatorNotes T264	GO:0009790 (embryonic development)
+T265	GO_BP 6852 6861	expressed
+#265	AnnotatorNotes T265	GO:0010467 (gene expression)
+T266	CL 6875 6890	stem (ES) cells
+#266	AnnotatorNotes T266	"stem .. cells" CL:0000034 (stem cell)
+T267	GO_CC 6885 6890	cells
+#267	AnnotatorNotes T267	GO:0005623 (cell)
+T268	GO_BP 6942 6951	gestation
+#268	AnnotatorNotes T268	GO:0007565 (female pregnancy)
+T269	GO_BP 7061 7074	embryogenesis
+#269	AnnotatorNotes T269	GO:0009790 (embryonic development)
+T270	italic 7120 7125	Capn2
+#270	AnnotatorNotes T270	italic (null)
+T271	EntrezGene 7120 7125	Capn2
+#271	AnnotatorNotes T271	EG:12334
+T272	PR 7120 7125	Capn2
+#272	AnnotatorNotes T272	PR:000005015 (calpain-2 catalytic subunit)
+T273	CL 7138 7142	cell
+#273	AnnotatorNotes T273	CL:0000000 (cell)
+T274	GO_CC 7138 7142	cell
+#274	AnnotatorNotes T274	GO:0005623 (cell)
+T275	italic 7167 7172	Capn2
+#275	AnnotatorNotes T275	italic (null)
+T276	PR 7167 7172	Capn2
+#276	AnnotatorNotes T276	PR:000005015 (calpain-2 catalytic subunit)
+T277	EntrezGene 7167 7172	Capn2
+#277	AnnotatorNotes T277	EG:12334
+T278	sup 7172 7175	+/-
+#278	AnnotatorNotes T278	sup (null)
+T279	SO 7172 7173	+
+#279	AnnotatorNotes T279	SO:0000817 (wild_type)
+T280	CL 7179 7183	cell
+#280	AnnotatorNotes T280	CL:0000000 (cell)
+T281	GO_CC 7179 7183	cell
+#281	AnnotatorNotes T281	GO:0005623 (cell)
+T282	CHEBI 7252 7256	drug
+#282	AnnotatorNotes T282	CHEBI:23888 (drug)
+T283	italic 7300 7305	Capn2
+#283	AnnotatorNotes T283	italic (null)
+T284	PR 7300 7305	Capn2
+#284	AnnotatorNotes T284	PR:000005015 (calpain-2 catalytic subunit)
+T285	EntrezGene 7300 7305	Capn2
+#285	AnnotatorNotes T285	EG:12334
+T286	SO 7306 7311	locus
+#286	AnnotatorNotes T286	SO:0000001 (region)
+T287	GO_MF 7350 7363	hybridization
+#287	AnnotatorNotes T287	GO:0033592 (RNA strand annealing activity)
+T288	GO_MF 7350 7363	hybridization
+#288	AnnotatorNotes T288	GO:0000739 (DNA strand annealing activity)
+T289	SO 7384 7389	probe
+#289	AnnotatorNotes T289	SO:0000051 (probe)
+T290	GO_MF 7443 7453	hybridized
+#290	AnnotatorNotes T290	GO:0000739 (DNA strand annealing activity)
+T291	GO_MF 7443 7453	hybridized
+#291	AnnotatorNotes T291	GO:0033592 (RNA strand annealing activity)
+T292	italic 7466 7469	Bam
+#292	AnnotatorNotes T292	italic (null)
+T293	SO 7472 7480	fragment
+#293	AnnotatorNotes T293	SO:0000731 (fragmentary)
+T294	SO 7488 7497	wild-type
+#294	AnnotatorNotes T294	SO:0000817 (wild_type)
+T295	SO 7498 7504	allele
+#295	AnnotatorNotes T295	SO:0001023 (allele)
+T296	italic 7516 7519	Bam
+#296	AnnotatorNotes T296	italic (null)
+T297	SO 7522 7530	fragment
+#297	AnnotatorNotes T297	SO:0000731 (fragmentary)
+T298	SO 7538 7544	mutant
+#298	AnnotatorNotes T298	SO:0001059 (sequence_alteration)
+T299	SO 7545 7551	allele
+#299	AnnotatorNotes T299	SO:0001023 (allele)
+T300	SO 7570 7577	genomic
+#300	AnnotatorNotes T300	SO:0001026 (genome)
+T301	SO 7605 7610	probe
+#301	AnnotatorNotes T301	SO:0000051 (probe)
+T302	SO 7629 7637	expected
+#302	AnnotatorNotes T302	SO:0000732 (predicted)
+T303	independent_continuant 7645 7654	wild-type
+#303	AnnotatorNotes T303	independent_continuant
+T304	SO 7645 7654	wild-type
+#304	AnnotatorNotes T304	SO:0000817 (wild_type)
+T305	independent_continuant 7666 7672	mutant
+#305	AnnotatorNotes T305	independent_continuant
+T306	SO 7666 7672	mutant
+#306	AnnotatorNotes T306	SO:0001059 (sequence_alteration)
+T307	italic 7673 7676	Bgl
+#307	AnnotatorNotes T307	italic (null)
+T308	SO 7679 7688	fragments
+#308	AnnotatorNotes T308	SO:0000731 (fragmentary)
+T309	independent_continuant 7697 7706	wild-type
+#309	AnnotatorNotes T309	independent_continuant
+T310	SO 7697 7706	wild-type
+#310	AnnotatorNotes T310	SO:0000817 (wild_type)
+T311	independent_continuant 7718 7724	mutant
+#311	AnnotatorNotes T311	independent_continuant
+T312	SO 7718 7724	mutant
+#312	AnnotatorNotes T312	SO:0001059 (sequence_alteration)
+T313	italic 7725 7728	Nco
+#313	AnnotatorNotes T313	italic (null)
+T314	SO 7730 7739	fragments
+#314	AnnotatorNotes T314	SO:0000731 (fragmentary)
+T315	independent_continuant 7759 7768	wild-type
+#315	AnnotatorNotes T315	independent_continuant
+T316	SO 7759 7768	wild-type
+#316	AnnotatorNotes T316	SO:0000817 (wild_type)
+T317	independent_continuant 7780 7786	mutant
+#317	AnnotatorNotes T317	independent_continuant
+T318	SO 7780 7786	mutant
+#318	AnnotatorNotes T318	SO:0001059 (sequence_alteration)
+T319	italic 7787 7790	Bgl
+#319	AnnotatorNotes T319	italic (null)
+T320	italic 7793 7796	Age
+#320	AnnotatorNotes T320	italic (null)
+T321	SO 7798 7807	fragments
+#321	AnnotatorNotes T321	SO:0000731 (fragmentary)
+T322	SO 7823 7828	probe
+#322	AnnotatorNotes T322	SO:0000051 (probe)
+T323	GO_MF 7846 7849	PGK
+#323	AnnotatorNotes T323	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T324	independent_continuant 7846 7849	PGK
+#324	AnnotatorNotes T324	independent_continuant
+T325	GO_MF 7846 7849	PGK
+#325	AnnotatorNotes T325	GO:0004618 (phosphoglycerate kinase activity)
+T326	GO_MF 7850 7853	Neo
+#326	AnnotatorNotes T326	GO:0008910 (kanamycin kinase activity)
+T327	independent_continuant 7850 7853	Neo
+#327	AnnotatorNotes T327	independent_continuant
+T328	SO 7854 7862	cassette
+#328	AnnotatorNotes T328	SO:0005853 (gene_cassette)
+T329	italic 7890 7893	Bam
+#329	AnnotatorNotes T329	italic (null)
+T330	SO 7896 7904	fragment
+#330	AnnotatorNotes T330	SO:0000731 (fragmentary)
+T331	italic 7908 7913	Capn2
+#331	AnnotatorNotes T331	italic (null)
+T332	PR 7908 7913	Capn2
+#332	AnnotatorNotes T332	PR:000005015 (calpain-2 catalytic subunit)
+T333	EntrezGene 7908 7913	Capn2
+#333	AnnotatorNotes T333	EG:12334
+T334	sup 7913 7916	+/-
+#334	AnnotatorNotes T334	sup (null)
+T335	SO 7913 7914	+
+#335	AnnotatorNotes T335	SO:0000817 (wild_type)
+T336	CL 7920 7925	cells
+#336	AnnotatorNotes T336	CL:0000000 (cell)
+T337	GO_CC 7920 7925	cells
+#337	AnnotatorNotes T337	GO:0005623 (cell)
+T338	SO 7957 7963	vector
+#338	AnnotatorNotes T338	SO:0000440 (vector_replicon)
+T339	SO 7968 7978	integrated
+#339	AnnotatorNotes T339	SO:0000046 (insert)
+T340	italic 7993 7998	Capn2
+#340	AnnotatorNotes T340	italic (null)
+T341	PR 7993 7998	Capn2
+#341	AnnotatorNotes T341	PR:000005015 (calpain-2 catalytic subunit)
+T342	EntrezGene 7993 7998	Capn2
+#342	AnnotatorNotes T342	EG:12334
+T343	SO 7999 8004	locus
+#343	AnnotatorNotes T343	SO:0000001 (region)
+T344	GO_BP 8067 8076	generated
+#344	AnnotatorNotes T344	GO:0009058 (biosynthetic process)
+T345	independent_continuant 8079 8088	wild-type
+#345	AnnotatorNotes T345	independent_continuant
+T346	SO 8079 8088	wild-type
+#346	AnnotatorNotes T346	SO:0000817 (wild_type)
+T347	SO 8089 8096	product
+#347	AnnotatorNotes T347	SO:0000006 (PCR_product)
+T348	SO 8106 8108	bp
+#348	AnnotatorNotes T348	SO:0000028 (base_pair)
+T349	SO 8121 8123	bp
+#349	AnnotatorNotes T349	SO:0000028 (base_pair)
+T350	SO 8124 8131	product
+#350	AnnotatorNotes T350	SO:0000006 (PCR_product)
+T351	SO 8141 8147	mutant
+#351	AnnotatorNotes T351	SO:0001059 (sequence_alteration)
+T352	SO 8148 8154	allele
+#352	AnnotatorNotes T352	SO:0001023 (allele)
+T353	SO 8166 8168	bp
+#353	AnnotatorNotes T353	SO:0000028 (base_pair)
+T354	SO 8169 8176	product
+#354	AnnotatorNotes T354	SO:0000006 (PCR_product)
+T355	CL 8214 8218	cell
+#355	AnnotatorNotes T355	CL:0000000 (cell)
+T356	GO_CC 8214 8218	cell
+#356	AnnotatorNotes T356	GO:0005623 (cell)
+T357	bold 8249 8291	Characterization of targeted ES cell lines
+#357	AnnotatorNotes T357	bold (null)
+T358	CL 8281 8285	cell
+#358	AnnotatorNotes T358	CL:0000000 (cell)
+T359	GO_CC 8281 8285	cell
+#359	AnnotatorNotes T359	GO:0005623 (cell)
+T360	italic 8324 8329	Capn2
+#360	AnnotatorNotes T360	italic (null)
+T361	EntrezGene 8324 8329	Capn2
+#361	AnnotatorNotes T361	EG:12334
+T362	PR 8324 8329	Capn2
+#362	AnnotatorNotes T362	PR:000005015 (calpain-2 catalytic subunit)
+T363	SO 8330 8335	locus
+#363	AnnotatorNotes T363	SO:0000001 (region)
+T364	italic 8409 8412	Bam
+#364	AnnotatorNotes T364	italic (null)
+T365	GO_BP 8415 8423	digested
+#365	AnnotatorNotes T365	GO:0009056 (catabolic process)
+T366	SO 8424 8435	genomic DNA
+#366	AnnotatorNotes T366	SO:0000991 (genomic_DNA)
+T367	SO 8424 8431	genomic
+#367	AnnotatorNotes T367	SO:0001026 (genome)
+T368	CL 8454 8459	cells
+#368	AnnotatorNotes T368	CL:0000000 (cell)
+T369	GO_CC 8454 8459	cells
+#369	AnnotatorNotes T369	GO:0005623 (cell)
+T370	GO_MF 8464 8474	hybridized
+#370	AnnotatorNotes T370	GO:0000739 (DNA strand annealing activity)
+T371	GO_MF 8464 8474	hybridized
+#371	AnnotatorNotes T371	GO:0033592 (RNA strand annealing activity)
+T372	CHEBI 8482 8485	DIG
+#372	AnnotatorNotes T372	CHEBI:42098 (digoxigenin)
+T373	SO 8498 8500	bp
+#373	AnnotatorNotes T373	SO:0000028 (base_pair)
+T374	italic 8501 8504	Bam
+#374	AnnotatorNotes T374	italic (null)
+T375	italic 8507 8511	Hind
+#375	AnnotatorNotes T375	italic (null)
+T376	SO 8515 8523	fragment
+#376	AnnotatorNotes T376	SO:0000731 (fragmentary)
+T377	SO 8587 8593	vector
+#377	AnnotatorNotes T377	SO:0000440 (vector_replicon)
+T378	italic 8615 8618	Bam
+#378	AnnotatorNotes T378	italic (null)
+T379	SO 8621 8629	fragment
+#379	AnnotatorNotes T379	SO:0000731 (fragmentary)
+T380	SO 8651 8660	wild-type
+#380	AnnotatorNotes T380	SO:0000817 (wild_type)
+T381	SO 8661 8667	allele
+#381	AnnotatorNotes T381	SO:0001023 (allele)
+T382	CL 8687 8692	cells
+#382	AnnotatorNotes T382	CL:0000000 (cell)
+T383	GO_CC 8687 8692	cells
+#383	AnnotatorNotes T383	GO:0005623 (cell)
+T384	SO 8711 8719	fragment
+#384	AnnotatorNotes T384	SO:0000731 (fragmentary)
+T385	SO 8729 8735	mutant
+#385	AnnotatorNotes T385	SO:0001059 (sequence_alteration)
+T386	SO 8736 8742	allele
+#386	AnnotatorNotes T386	SO:0001023 (allele)
+T387	CL 8772 8776	cell
+#387	AnnotatorNotes T387	CL:0000000 (cell)
+T388	GO_CC 8772 8776	cell
+#388	AnnotatorNotes T388	GO:0005623 (cell)
+T389	SO 8908 8910	bp
+#389	AnnotatorNotes T389	SO:0000028 (base_pair)
+T390	SO 8911 8918	segment
+#390	AnnotatorNotes T390	SO:0000001 (region)
+T391	SO 8928 8937	wild-type
+#391	AnnotatorNotes T391	SO:0000817 (wild_type)
+T392	SO 8938 8944	allele
+#392	AnnotatorNotes T392	SO:0001023 (allele)
+T393	SO 8956 8958	bp
+#393	AnnotatorNotes T393	SO:0000028 (base_pair)
+T394	SO 8959 8966	segment
+#394	AnnotatorNotes T394	SO:0000001 (region)
+T395	SO 8976 8982	mutant
+#395	AnnotatorNotes T395	SO:0001059 (sequence_alteration)
+T396	SO 8983 8989	allele
+#396	AnnotatorNotes T396	SO:0001023 (allele)
+T397	SO 9026 9032	primer
+#397	AnnotatorNotes T397	SO:0000112 (primer)
+T398	SO 9044 9050	intron
+#398	AnnotatorNotes T398	SO:0000188 (intron)
+T399	SO 9093 9099	vector
+#399	AnnotatorNotes T399	SO:0000440 (vector_replicon)
+T400	SO 9114 9120	allele
+#400	AnnotatorNotes T400	SO:0001023 (allele)
+T401	SO 9130 9139	antisense
+#401	AnnotatorNotes T401	SO:0000077 (antisense)
+T402	SO 9140 9147	primers
+#402	AnnotatorNotes T402	SO:0000112 (primer)
+T403	SO 9176 9185	wild-type
+#403	AnnotatorNotes T403	SO:0000817 (wild_type)
+T404	SO 9186 9192	allele
+#404	AnnotatorNotes T404	SO:0001023 (allele)
+T405	SO 9201 9210	antisense
+#405	AnnotatorNotes T405	SO:0000077 (antisense)
+T406	SO 9211 9217	primer
+#406	AnnotatorNotes T406	SO:0000112 (primer)
+T407	SO 9229 9233	exon
+#407	AnnotatorNotes T407	SO:0000147 (exon)
+T408	SO 9267 9273	mutant
+#408	AnnotatorNotes T408	SO:0001059 (sequence_alteration)
+T409	SO 9274 9282	sequence
+#409	AnnotatorNotes T409	SO:0000001 (region)
+T410	SO 9300 9309	antisense
+#410	AnnotatorNotes T410	SO:0000077 (antisense)
+T411	SO 9310 9316	primer
+#411	AnnotatorNotes T411	SO:0000112 (primer)
+T412	GO_MF 9324 9327	PGK
+#412	AnnotatorNotes T412	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T413	GO_MF 9324 9327	PGK
+#413	AnnotatorNotes T413	GO:0004618 (phosphoglycerate kinase activity)
+T414	independent_continuant 9324 9327	PGK
+#414	AnnotatorNotes T414	independent_continuant
+T415	GO_MF 9328 9331	Neo
+#415	AnnotatorNotes T415	GO:0008910 (kanamycin kinase activity)
+T416	independent_continuant 9328 9331	Neo
+#416	AnnotatorNotes T416	independent_continuant
+T417	SO 9332 9340	cassette
+#417	AnnotatorNotes T417	SO:0005853 (gene_cassette)
+T418	SO 9382 9391	wild-type
+#418	AnnotatorNotes T418	SO:0000817 (wild_type)
+T419	SO 9392 9398	allele
+#419	AnnotatorNotes T419	SO:0001023 (allele)
+T420	CL 9406 9411	cells
+#420	AnnotatorNotes T420	CL:0000000 (cell)
+T421	GO_CC 9406 9411	cells
+#421	AnnotatorNotes T421	GO:0005623 (cell)
+T422	SO 9425 9431	mutant
+#422	AnnotatorNotes T422	SO:0001059 (sequence_alteration)
+T423	SO 9432 9438	allele
+#423	AnnotatorNotes T423	SO:0001023 (allele)
+T424	CHEBI 9508 9517	molecular
+#424	AnnotatorNotes T424	CHEBI:23367 (molecular entity)
+T425	GO_BP 9534 9544	Generation
+#425	AnnotatorNotes T425	GO:0000003 (reproduction)
+T426	NCBITaxon 9557 9561	mice
+#426	AnnotatorNotes T426	NCBITaxon:10088 (Mus)
+T427	SO 9595 9601	mutant
+#427	AnnotatorNotes T427	SO:0001059 (sequence_alteration)
+T428	italic 9602 9607	Capn2
+#428	AnnotatorNotes T428	italic (null)
+T429	PR 9602 9607	Capn2
+#429	AnnotatorNotes T429	PR:000005015 (calpain-2 catalytic subunit)
+T430	EntrezGene 9602 9607	Capn2
+#430	AnnotatorNotes T430	EG:12334
+T431	SO 9608 9614	allele
+#431	AnnotatorNotes T431	SO:0001023 (allele)
+T432	NCBITaxon 9636 9640	mice
+#432	AnnotatorNotes T432	NCBITaxon:10088 (Mus)
+T433	GO_BP 9646 9654	produced
+#433	AnnotatorNotes T433	GO:0000003 (reproduction)
+T434	italic 9699 9704	Capn2
+#434	AnnotatorNotes T434	italic (null)
+T435	EntrezGene 9699 9704	Capn2
+#435	AnnotatorNotes T435	EG:12334
+T436	PR 9699 9704	Capn2
+#436	AnnotatorNotes T436	PR:000005015 (calpain-2 catalytic subunit)
+T437	sup 9704 9707	+/-
+#437	AnnotatorNotes T437	sup (null)
+T438	SO 9704 9705	+
+#438	AnnotatorNotes T438	SO:0000817 (wild_type)
+T439	CL 9713 9717	cell
+#439	AnnotatorNotes T439	CL:0000000 (cell)
+T440	GO_CC 9713 9717	cell
+#440	AnnotatorNotes T440	GO:0005623 (cell)
+T441	italic 9759 9764	Capn2
+#441	AnnotatorNotes T441	italic (null)
+T442	PR 9759 9764	Capn2
+#442	AnnotatorNotes T442	PR:000005015 (calpain-2 catalytic subunit)
+T443	EntrezGene 9759 9764	Capn2
+#443	AnnotatorNotes T443	EG:12334
+T444	sup 9764 9767	+/-
+#444	AnnotatorNotes T444	sup (null)
+T445	SO 9764 9765	+
+#445	AnnotatorNotes T445	SO:0000817 (wild_type)
+T446	SO 9773 9781	genotype
+#446	AnnotatorNotes T446	SO:0001027 (genotype)
+T447	sub 9813 9814	1
+#447	AnnotatorNotes T447	sub (null)
+T448	italic 9840 9845	Capn2
+#448	AnnotatorNotes T448	italic (null)
+T449	PR 9840 9845	Capn2
+#449	AnnotatorNotes T449	PR:000005015 (calpain-2 catalytic subunit)
+T450	EntrezGene 9840 9845	Capn2
+#450	AnnotatorNotes T450	EG:12334
+T451	sup 9845 9848	+/-
+#451	AnnotatorNotes T451	sup (null)
+T452	SO 9845 9846	+
+#452	AnnotatorNotes T452	SO:0000817 (wild_type)
+T453	NCBITaxon 9849 9856	animals
+#453	AnnotatorNotes T453	NCBITaxon:33208 (Metazoa)
+T454	GO_BP 9916 9928	reproduction
+#454	AnnotatorNotes T454	GO:0000003 (reproduction)
+T455	italic 10001 10006	Capn2
+#455	AnnotatorNotes T455	italic (null)
+T456	PR 10001 10006	Capn2
+#456	AnnotatorNotes T456	PR:000005015 (calpain-2 catalytic subunit)
+T457	EntrezGene 10001 10006	Capn2
+#457	AnnotatorNotes T457	EG:12334
+T458	sup 10006 10009	-/-
+#458	AnnotatorNotes T458	sup (null)
+T459	GO_BP 10086 10091	death
+#459	AnnotatorNotes T459	GO:0016265 (death)
+T460	italic 10100 10105	Capn2
+#460	AnnotatorNotes T460	italic (null)
+T461	EntrezGene 10100 10105	Capn2
+#461	AnnotatorNotes T461	EG:12334
+T462	PR 10100 10105	Capn2
+#462	AnnotatorNotes T462	PR:000005015 (calpain-2 catalytic subunit)
+T463	sup 10105 10108	-/-
+#463	AnnotatorNotes T463	sup (null)
+T464	italic 10155 10160	Capn2
+#464	AnnotatorNotes T464	italic (null)
+T465	PR 10155 10160	Capn2
+#465	AnnotatorNotes T465	PR:000005015 (calpain-2 catalytic subunit)
+T466	EntrezGene 10155 10160	Capn2
+#466	AnnotatorNotes T466	EG:12334
+T467	sup 10160 10163	-/-
+#467	AnnotatorNotes T467	sup (null)
+T468	NCBITaxon 10164 10171	animals
+#468	AnnotatorNotes T468	NCBITaxon:33208 (Metazoa)
+T469	GO_BP 10172 10180	perished
+#469	AnnotatorNotes T469	GO:0016265 (death)
+T470	GO_BP 10202 10223	embryonic development
+#470	AnnotatorNotes T470	GO:0009790 (embryonic development)
+T471	GO_BP 10265 10270	death
+#471	AnnotatorNotes T471	GO:0016265 (death)
+T472	GO_BP 10290 10302	implantation
+#472	AnnotatorNotes T472	GO:0007566 (embryo implantation)
+T473	italic 10395 10400	Capn2
+#473	AnnotatorNotes T473	italic (null)
+T474	EntrezGene 10395 10400	Capn2
+#474	AnnotatorNotes T474	EG:12334
+T475	PR 10395 10400	Capn2
+#475	AnnotatorNotes T475	PR:000005015 (calpain-2 catalytic subunit)
+T476	sup 10400 10403	-/-
+#476	AnnotatorNotes T476	sup (null)
+T477	italic 10509 10514	Capn2
+#477	AnnotatorNotes T477	italic (null)
+T478	PR 10509 10514	Capn2
+#478	AnnotatorNotes T478	PR:000005015 (calpain-2 catalytic subunit)
+T479	EntrezGene 10509 10514	Capn2
+#479	AnnotatorNotes T479	EG:12334
+T480	sup 10514 10517	-/-
+#480	AnnotatorNotes T480	sup (null)
+T481	GO_BP 10535 10540	dying
+#481	AnnotatorNotes T481	GO:0016265 (death)
+T482	GO_BP 10550 10562	implantation
+#482	AnnotatorNotes T482	GO:0007566 (embryo implantation)
+T483	GO_BP 10611 10619	pregnant
+#483	AnnotatorNotes T483	GO:0007565 (female pregnancy)
+T484	GO_BP 10742 10754	implantation
+#484	AnnotatorNotes T484	GO:0007566 (embryo implantation)
+T485	italic 10768 10773	Capn2
+#485	AnnotatorNotes T485	italic (null)
+T486	EntrezGene 10768 10773	Capn2
+#486	AnnotatorNotes T486	EG:12334
+T487	PR 10768 10773	Capn2
+#487	AnnotatorNotes T487	PR:000005015 (calpain-2 catalytic subunit)
+T488	sup 10773 10776	-/-
+#488	AnnotatorNotes T488	sup (null)
+T489	italic 10813 10818	Capn2
+#489	AnnotatorNotes T489	italic (null)
+T490	PR 10813 10818	Capn2
+#490	AnnotatorNotes T490	PR:000005015 (calpain-2 catalytic subunit)
+T491	EntrezGene 10813 10818	Capn2
+#491	AnnotatorNotes T491	EG:12334
+T492	sup 10818 10821	-/-
+#492	AnnotatorNotes T492	sup (null)
+T493	CL 10853 10857	cell
+#493	AnnotatorNotes T493	CL:0000000 (cell)
+T494	GO_CC 10853 10857	cell
+#494	AnnotatorNotes T494	GO:0005623 (cell)
+T495	italic 10988 10993	Capn2
+#495	AnnotatorNotes T495	italic (null)
+T496	PR 10988 10993	Capn2
+#496	AnnotatorNotes T496	PR:000005015 (calpain-2 catalytic subunit)
+T497	EntrezGene 10988 10993	Capn2
+#497	AnnotatorNotes T497	EG:12334
+T498	sup 10993 10996	-/-
+#498	AnnotatorNotes T498	sup (null)
+T499	italic 11014 11019	Capn2
+#499	AnnotatorNotes T499	italic (null)
+T500	PR 11014 11019	Capn2
+#500	AnnotatorNotes T500	PR:000005015 (calpain-2 catalytic subunit)
+T501	EntrezGene 11014 11019	Capn2
+#501	AnnotatorNotes T501	EG:12334
+T502	CL 11057 11061	cell
+#502	AnnotatorNotes T502	CL:0000000 (cell)
+T503	GO_CC 11057 11061	cell
+#503	AnnotatorNotes T503	GO:0005623 (cell)
+T504	GO_BP 11119 11126	fatally
+#504	AnnotatorNotes T504	GO:0016265 (death)
+T505	CHEBI 11242 11257	mRNA transcript
+#505	AnnotatorNotes T505	CHEBI:33699 (messenger RNA)
+T506	SO 11242 11257	mRNA transcript
+#506	AnnotatorNotes T506	SO:0000234 (mRNA)
+T507	CHEBI 11261 11268	protein
+#507	AnnotatorNotes T507	CHEBI:36080 (proteins)
+T508	italic 11306 11311	Capn2
+#508	AnnotatorNotes T508	italic (null)
+T509	PR 11306 11311	Capn2
+#509	AnnotatorNotes T509	PR:000005015 (calpain-2 catalytic subunit)
+T510	EntrezGene 11306 11311	Capn2
+#510	AnnotatorNotes T510	EG:12334
+T511	sup 11311 11314	-/-
+#511	AnnotatorNotes T511	sup (null)
+T512	SO 11365 11373	Genotype
+#512	AnnotatorNotes T512	SO:0001027 (genotype)
+T513	italic 11413 11418	Capn2
+#513	AnnotatorNotes T513	italic (null)
+T514	PR 11413 11418	Capn2
+#514	AnnotatorNotes T514	PR:000005015 (calpain-2 catalytic subunit)
+T515	EntrezGene 11413 11418	Capn2
+#515	AnnotatorNotes T515	EG:12334
+T516	SO 11419 11429	transgenic
+#516	AnnotatorNotes T516	SO:0000902 (transgene)
+T517	NCBITaxon 11430 11434	mice
+#517	AnnotatorNotes T517	NCBITaxon:10088 (Mus)
+T518	bold 11469 11531	Nested PCR strategy for genotyping of pre-implantation embryos
+#518	AnnotatorNotes T518	bold (null)
+T519	GO_BP 11511 11523	implantation
+#519	AnnotatorNotes T519	GO:0007566 (embryo implantation)
+T520	SO 11568 11575	genetic
+#520	AnnotatorNotes T520	SO:0000704 (gene)
+T521	SO 11634 11642	genotype
+#521	AnnotatorNotes T521	SO:0001027 (genotype)
+T522	GO_BP 11647 11659	implantation
+#522	AnnotatorNotes T522	GO:0007566 (embryo implantation)
+T523	SO 11715 11717	bp
+#523	AnnotatorNotes T523	SO:0000028 (base_pair)
+T524	SO 11718 11726	fragment
+#524	AnnotatorNotes T524	SO:0000731 (fragmentary)
+T525	SO 11736 11745	wild-type
+#525	AnnotatorNotes T525	SO:0000817 (wild_type)
+T526	SO 11746 11752	allele
+#526	AnnotatorNotes T526	SO:0001023 (allele)
+T527	SO 11763 11765	bp
+#527	AnnotatorNotes T527	SO:0000028 (base_pair)
+T528	SO 11766 11773	segment
+#528	AnnotatorNotes T528	SO:0000001 (region)
+T529	SO 11783 11789	mutant
+#529	AnnotatorNotes T529	SO:0001059 (sequence_alteration)
+T530	SO 11790 11796	allele
+#530	AnnotatorNotes T530	SO:0001023 (allele)
+T531	SO 11868 11874	vector
+#531	AnnotatorNotes T531	SO:0000440 (vector_replicon)
+T532	SO 11901 11903	bp
+#532	AnnotatorNotes T532	SO:0000028 (base_pair)
+T533	SO 11904 11912	sequence
+#533	AnnotatorNotes T533	SO:0000001 (region)
+T534	SO 11981 11989	products
+#534	AnnotatorNotes T534	SO:0000006 (PCR_product)
+T535	SO 12029 12036	primers
+#535	AnnotatorNotes T535	SO:0000112 (primer)
+T536	SO 12071 12080	sequences
+#536	AnnotatorNotes T536	SO:0000001 (region)
+T537	SO 12112 12121	antisense
+#537	AnnotatorNotes T537	SO:0000077 (antisense)
+T538	SO 12122 12129	primers
+#538	AnnotatorNotes T538	SO:0000112 (primer)
+T539	SO 12135 12141	allele
+#539	AnnotatorNotes T539	SO:0001023 (allele)
+T540	SO 12156 12163	primers
+#540	AnnotatorNotes T540	SO:0000112 (primer)
+T541	SO 12258 12263	Exons
+#541	AnnotatorNotes T541	SO:0000147 (exon)
+T542	GO_MF 12314 12317	PGK
+#542	AnnotatorNotes T542	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T543	GO_MF 12314 12317	PGK
+#543	AnnotatorNotes T543	GO:0004618 (phosphoglycerate kinase activity)
+T544	independent_continuant 12314 12317	PGK
+#544	AnnotatorNotes T544	independent_continuant
+T545	GO_MF 12318 12321	Neo
+#545	AnnotatorNotes T545	GO:0008910 (kanamycin kinase activity)
+T546	independent_continuant 12318 12321	Neo
+#546	AnnotatorNotes T546	independent_continuant
+T547	SO 12322 12330	cassette
+#547	AnnotatorNotes T547	SO:0005853 (gene_cassette)
+T548	SO 12402 12412	boundaries
+#548	AnnotatorNotes T548	SO:0000699 (junction)
+T549	SO 12519 12526	segment
+#549	AnnotatorNotes T549	SO:0000001 (region)
+T550	SO 12534 12543	wild-type
+#550	AnnotatorNotes T550	SO:0000817 (wild_type)
+T551	SO 12544 12550	allele
+#551	AnnotatorNotes T551	SO:0001023 (allele)
+T552	SO 12559 12567	replaced
+#552	AnnotatorNotes T552	SO:0000048 (substitute)
+T553	GO_MF 12575 12578	PGK
+#553	AnnotatorNotes T553	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T554	independent_continuant 12575 12578	PGK
+#554	AnnotatorNotes T554	independent_continuant
+T555	GO_MF 12575 12578	PGK
+#555	AnnotatorNotes T555	GO:0004618 (phosphoglycerate kinase activity)
+T556	GO_MF 12579 12582	Neo
+#556	AnnotatorNotes T556	GO:0008910 (kanamycin kinase activity)
+T557	independent_continuant 12579 12582	Neo
+#557	AnnotatorNotes T557	independent_continuant
+T558	SO 12583 12591	cassette
+#558	AnnotatorNotes T558	SO:0005853 (gene_cassette)
+T559	SO 12599 12605	mutant
+#559	AnnotatorNotes T559	SO:0001059 (sequence_alteration)
+T560	SO 12606 12612	allele
+#560	AnnotatorNotes T560	SO:0001023 (allele)
+T561	bold 12625 12663	Genotyping of pre-implantation embryos
+#561	AnnotatorNotes T561	bold (null)
+T562	GO_BP 12643 12655	implantation
+#562	AnnotatorNotes T562	GO:0007566 (embryo implantation)
+T563	GO_BP 12725 12737	implantation
+#563	AnnotatorNotes T563	GO:0007566 (embryo implantation)
+T564	italic 12764 12769	Capn2
+#564	AnnotatorNotes T564	italic (null)
+T565	EntrezGene 12764 12769	Capn2
+#565	AnnotatorNotes T565	EG:12334
+T566	PR 12764 12769	Capn2
+#566	AnnotatorNotes T566	PR:000005015 (calpain-2 catalytic subunit)
+T567	sup 12769 12772	+/-
+#567	AnnotatorNotes T567	sup (null)
+T568	SO 12769 12770	+
+#568	AnnotatorNotes T568	SO:0000817 (wild_type)
+T569	NCBITaxon 12773 12777	mice
+#569	AnnotatorNotes T569	NCBITaxon:10088 (Mus)
+T570	GO_BP 12783 12788	mated
+#570	AnnotatorNotes T570	GO:0007618 (mating)
+T571	GO_BP 12805 12818	fertilization
+#571	AnnotatorNotes T571	GO:0009566 (fertilization)
+T572	CL 12890 12894	cell
+#572	AnnotatorNotes T572	CL:0000000 (cell)
+T573	GO_CC 12890 12894	cell
+#573	AnnotatorNotes T573	GO:0005623 (cell)
+T574	GO_BP 12950 12958	digested
+#574	AnnotatorNotes T574	GO:0009056 (catabolic process)
+T575	GO_MF 12964 12974	proteinase
+#575	AnnotatorNotes T575	GO:0008233 (peptidase activity)
+T576	independent_continuant 12964 12974	proteinase
+#576	AnnotatorNotes T576	independent_continuant
+T577	SO 13000 13008	segments
+#577	AnnotatorNotes T577	SO:0000001 (region)
+T578	SO 13041 13050	wild-type
+#578	AnnotatorNotes T578	SO:0000817 (wild_type)
+T579	SO 13054 13060	mutant
+#579	AnnotatorNotes T579	SO:0001059 (sequence_alteration)
+T580	SO 13061 13068	alleles
+#580	AnnotatorNotes T580	SO:0001023 (allele)
+T581	SO 13112 13120	sequence
+#581	AnnotatorNotes T581	SO:0000001 (region)
+T582	SO 13175 13181	vector
+#582	AnnotatorNotes T582	SO:0000440 (vector_replicon)
+T583	SO 13206 13213	alleles
+#583	AnnotatorNotes T583	SO:0001023 (allele)
+T584	SO 13225 13233	products
+#584	AnnotatorNotes T584	SO:0000006 (PCR_product)
+T585	SO 13243 13245	bp
+#585	AnnotatorNotes T585	SO:0000028 (base_pair)
+T586	SO 13254 13263	wild-type
+#586	AnnotatorNotes T586	SO:0000817 (wild_type)
+T587	SO 13264 13270	allele
+#587	AnnotatorNotes T587	SO:0001023 (allele)
+T588	SO 13276 13278	bp
+#588	AnnotatorNotes T588	SO:0000028 (base_pair)
+T589	SO 13287 13293	mutant
+#589	AnnotatorNotes T589	SO:0001059 (sequence_alteration)
+T590	SO 13294 13300	allele
+#590	AnnotatorNotes T590	SO:0001023 (allele)
+T591	SO 13310 13312	bp
+#591	AnnotatorNotes T591	SO:0000028 (base_pair)
+T592	italic 13447 13452	Capn2
+#592	AnnotatorNotes T592	italic (null)
+T593	PR 13447 13452	Capn2
+#593	AnnotatorNotes T593	PR:000005015 (calpain-2 catalytic subunit)
+T594	EntrezGene 13447 13452	Capn2
+#594	AnnotatorNotes T594	EG:12334
+T595	sup 13452 13455	+/-
+#595	AnnotatorNotes T595	sup (null)
+T596	SO 13452 13453	+
+#596	AnnotatorNotes T596	SO:0000817 (wild_type)
+T597	italic 13487 13492	Capn2
+#597	AnnotatorNotes T597	italic (null)
+T598	EntrezGene 13487 13492	Capn2
+#598	AnnotatorNotes T598	EG:12334
+T599	PR 13487 13492	Capn2
+#599	AnnotatorNotes T599	PR:000005015 (calpain-2 catalytic subunit)
+T600	sup 13492 13495	+/+
+#600	AnnotatorNotes T600	sup (null)
+T601	SO 13492 13493	+
+#601	AnnotatorNotes T601	SO:0000817 (wild_type)
+T602	SO 13494 13495	+
+#602	AnnotatorNotes T602	SO:0000817 (wild_type)
+T603	SO 13531 13533	bp
+#603	AnnotatorNotes T603	SO:0000028 (base_pair)
+T604	SO 13534 13540	mutant
+#604	AnnotatorNotes T604	SO:0001060 (sequence_variant)
+T605	CL 13587 13591	cell
+#605	AnnotatorNotes T605	CL:0000000 (cell)
+T606	GO_CC 13587 13591	cell
+#606	AnnotatorNotes T606	GO:0005623 (cell)
+T607	italic 13642 13647	Capn2
+#607	AnnotatorNotes T607	italic (null)
+T608	EntrezGene 13642 13647	Capn2
+#608	AnnotatorNotes T608	EG:12334
+T609	PR 13642 13647	Capn2
+#609	AnnotatorNotes T609	PR:000005015 (calpain-2 catalytic subunit)
+T610	sup 13647 13650	+/-
+#610	AnnotatorNotes T610	sup (null)
+T611	SO 13647 13648	+
+#611	AnnotatorNotes T611	SO:0000817 (wild_type)
+T612	italic 13671 13676	Capn2
+#612	AnnotatorNotes T612	italic (null)
+T613	PR 13671 13676	Capn2
+#613	AnnotatorNotes T613	PR:000005015 (calpain-2 catalytic subunit)
+T614	EntrezGene 13671 13676	Capn2
+#614	AnnotatorNotes T614	EG:12334
+T615	sup 13676 13679	-/-
+#615	AnnotatorNotes T615	sup (null)
+T616	SO 13714 13716	bp
+#616	AnnotatorNotes T616	SO:0000028 (base_pair)
+T617	independent_continuant 13717 13726	wild-type
+#617	AnnotatorNotes T617	independent_continuant
+T618	SO 13717 13726	wild-type
+#618	AnnotatorNotes T618	SO:0000817 (wild_type)
+T619	CHEBI 13751 13760	molecular
+#619	AnnotatorNotes T619	CHEBI:23367 (molecular entity)
+T620	GO_BP 13820 13832	implantation
+#620	AnnotatorNotes T620	GO:0007566 (embryo implantation)
+T621	GO_BP 13842 13854	implantation
+#621	AnnotatorNotes T621	GO:0007566 (embryo implantation)
+T622	italic 13909 13914	Capn2
+#622	AnnotatorNotes T622	italic (null)
+T623	PR 13909 13914	Capn2
+#623	AnnotatorNotes T623	PR:000005015 (calpain-2 catalytic subunit)
+T624	EntrezGene 13909 13914	Capn2
+#624	AnnotatorNotes T624	EG:12334
+T625	sup 13914 13917	+/+
+#625	AnnotatorNotes T625	sup (null)
+T626	SO 13914 13915	+
+#626	AnnotatorNotes T626	SO:0000817 (wild_type)
+T627	SO 13916 13917	+
+#627	AnnotatorNotes T627	SO:0000817 (wild_type)
+T628	italic 13921 13926	Capn2
+#628	AnnotatorNotes T628	italic (null)
+T629	EntrezGene 13921 13926	Capn2
+#629	AnnotatorNotes T629	EG:12334
+T630	PR 13921 13926	Capn2
+#630	AnnotatorNotes T630	PR:000005015 (calpain-2 catalytic subunit)
+T631	sup 13926 13929	+/-
+#631	AnnotatorNotes T631	sup (null)
+T632	SO 13926 13927	+
+#632	AnnotatorNotes T632	SO:0000817 (wild_type)
+T633	NCBITaxon 13929 13936	animals
+#633	AnnotatorNotes T633	NCBITaxon:33208 (Metazoa)
+T634	NCBITaxon 14056 14063	animals
+#634	AnnotatorNotes T634	NCBITaxon:33208 (Metazoa)
+T635	GO_BP 14090 14098	breeding
+#635	AnnotatorNotes T635	GO:0007618 (mating)
+T636	italic 14116 14121	Capn2
+#636	AnnotatorNotes T636	italic (null)
+T637	PR 14116 14121	Capn2
+#637	AnnotatorNotes T637	PR:000005015 (calpain-2 catalytic subunit)
+T638	EntrezGene 14116 14121	Capn2
+#638	AnnotatorNotes T638	EG:12334
+T639	sup 14121 14124	+/+
+#639	AnnotatorNotes T639	sup (null)
+T640	SO 14121 14122	+
+#640	AnnotatorNotes T640	SO:0000817 (wild_type)
+T641	SO 14123 14124	+
+#641	AnnotatorNotes T641	SO:0000817 (wild_type)
+T642	italic 14149 14154	Capn2
+#642	AnnotatorNotes T642	italic (null)
+T643	PR 14149 14154	Capn2
+#643	AnnotatorNotes T643	PR:000005015 (calpain-2 catalytic subunit)
+T644	EntrezGene 14149 14154	Capn2
+#644	AnnotatorNotes T644	EG:12334
+T645	sup 14154 14157	+/-
+#645	AnnotatorNotes T645	sup (null)
+T646	SO 14154 14155	+
+#646	AnnotatorNotes T646	SO:0000817 (wild_type)
+T647	NCBITaxon 14158 14165	animals
+#647	AnnotatorNotes T647	NCBITaxon:33208 (Metazoa)
+T648	italic 14194 14199	Capn2
+#648	AnnotatorNotes T648	italic (null)
+T649	PR 14194 14199	Capn2
+#649	AnnotatorNotes T649	PR:000005015 (calpain-2 catalytic subunit)
+T650	EntrezGene 14194 14199	Capn2
+#650	AnnotatorNotes T650	EG:12334
+T651	sup 14199 14202	+/+
+#651	AnnotatorNotes T651	sup (null)
+T652	SO 14199 14200	+
+#652	AnnotatorNotes T652	SO:0000817 (wild_type)
+T653	SO 14201 14202	+
+#653	AnnotatorNotes T653	SO:0000817 (wild_type)
+T654	italic 14206 14211	Capn2
+#654	AnnotatorNotes T654	italic (null)
+T655	PR 14206 14211	Capn2
+#655	AnnotatorNotes T655	PR:000005015 (calpain-2 catalytic subunit)
+T656	EntrezGene 14206 14211	Capn2
+#656	AnnotatorNotes T656	EG:12334
+T657	sup 14211 14214	+/-
+#657	AnnotatorNotes T657	sup (null)
+T658	SO 14211 14212	+
+#658	AnnotatorNotes T658	SO:0000817 (wild_type)
+T659	NCBITaxon 14215 14222	animals
+#659	AnnotatorNotes T659	NCBITaxon:33208 (Metazoa)
+T660	italic 14464 14469	Capn2
+#660	AnnotatorNotes T660	italic (null)
+T661	PR 14464 14469	Capn2
+#661	AnnotatorNotes T661	PR:000005015 (calpain-2 catalytic subunit)
+T662	EntrezGene 14464 14469	Capn2
+#662	AnnotatorNotes T662	EG:12334
+T663	sup 14469 14472	+/-
+#663	AnnotatorNotes T663	sup (null)
+T664	SO 14469 14470	+
+#664	AnnotatorNotes T664	SO:0000817 (wild_type)
+T665	NCBITaxon 14473 14480	animals
+#665	AnnotatorNotes T665	NCBITaxon:33208 (Metazoa)
+T666	GO_BP 14511 14523	implantation
+#666	AnnotatorNotes T666	GO:0007566 (embryo implantation)
+T667	GO_BP 14532 14544	implantation
+#667	AnnotatorNotes T667	GO:0007566 (embryo implantation)
+T668	NCBITaxon 14625 14632	animals
+#668	AnnotatorNotes T668	NCBITaxon:33208 (Metazoa)
+T669	italic 14665 14670	Capn4
+#669	AnnotatorNotes T669	italic (null)
+T670	PR 14665 14670	Capn4
+#670	AnnotatorNotes T670	PR:000005022 (calpain small subunit 1)
+T671	EntrezGene 14665 14670	Capn4
+#671	AnnotatorNotes T671	EG:12336
+T672	SO 14671 14681	transgenic
+#672	AnnotatorNotes T672	SO:0000902 (transgene)
+T673	SO 14700 14708	genotype
+#673	AnnotatorNotes T673	SO:0001027 (genotype)
+T674	italic 14758 14763	Capn2
+#674	AnnotatorNotes T674	italic (null)
+T675	EntrezGene 14758 14763	Capn2
+#675	AnnotatorNotes T675	EG:12334
+T676	PR 14758 14763	Capn2
+#676	AnnotatorNotes T676	PR:000005015 (calpain-2 catalytic subunit)
+T677	sup 14763 14766	+/+
+#677	AnnotatorNotes T677	sup (null)
+T678	SO 14763 14764	+
+#678	AnnotatorNotes T678	SO:0000817 (wild_type)
+T679	SO 14765 14766	+
+#679	AnnotatorNotes T679	SO:0000817 (wild_type)
+T680	italic 14771 14776	Capn2
+#680	AnnotatorNotes T680	italic (null)
+T681	EntrezGene 14771 14776	Capn2
+#681	AnnotatorNotes T681	EG:12334
+T682	PR 14771 14776	Capn2
+#682	AnnotatorNotes T682	PR:000005015 (calpain-2 catalytic subunit)
+T683	sup 14776 14779	+/-
+#683	AnnotatorNotes T683	sup (null)
+T684	SO 14776 14777	+
+#684	AnnotatorNotes T684	SO:0000817 (wild_type)
+T685	NCBITaxon 14780 14787	animals
+#685	AnnotatorNotes T685	NCBITaxon:33208 (Metazoa)
+T686	italic 14843 14848	Capn2
+#686	AnnotatorNotes T686	italic (null)
+T687	PR 14843 14848	Capn2
+#687	AnnotatorNotes T687	PR:000005015 (calpain-2 catalytic subunit)
+T688	EntrezGene 14843 14848	Capn2
+#688	AnnotatorNotes T688	EG:12334
+T689	sup 14848 14851	+/-
+#689	AnnotatorNotes T689	sup (null)
+T690	SO 14848 14849	+
+#690	AnnotatorNotes T690	SO:0000817 (wild_type)
+T691	NCBITaxon 14852 14859	animals
+#691	AnnotatorNotes T691	NCBITaxon:33208 (Metazoa)
+T692	italic 14896 14901	Capn2
+#692	AnnotatorNotes T692	italic (null)
+T693	EntrezGene 14896 14901	Capn2
+#693	AnnotatorNotes T693	EG:12334
+T694	PR 14896 14901	Capn2
+#694	AnnotatorNotes T694	PR:000005015 (calpain-2 catalytic subunit)
+T695	sup 14901 14904	+/-
+#695	AnnotatorNotes T695	sup (null)
+T696	SO 14901 14902	+
+#696	AnnotatorNotes T696	SO:0000817 (wild_type)
+T697	SO 14943 14949	mutant
+#697	AnnotatorNotes T697	SO:0001059 (sequence_alteration)
+T698	SO 14950 14956	allele
+#698	AnnotatorNotes T698	SO:0001023 (allele)
+T699	italic 15058 15063	Capn2
+#699	AnnotatorNotes T699	italic (null)
+T700	EntrezGene 15058 15063	Capn2
+#700	AnnotatorNotes T700	EG:12334
+T701	PR 15058 15063	Capn2
+#701	AnnotatorNotes T701	PR:000005015 (calpain-2 catalytic subunit)
+T702	sup 15063 15066	+/+
+#702	AnnotatorNotes T702	sup (null)
+T703	SO 15063 15064	+
+#703	AnnotatorNotes T703	SO:0000817 (wild_type)
+T704	SO 15065 15066	+
+#704	AnnotatorNotes T704	SO:0000817 (wild_type)
+T705	italic 15070 15075	Capn2
+#705	AnnotatorNotes T705	italic (null)
+T706	PR 15070 15075	Capn2
+#706	AnnotatorNotes T706	PR:000005015 (calpain-2 catalytic subunit)
+T707	EntrezGene 15070 15075	Capn2
+#707	AnnotatorNotes T707	EG:12334
+T708	sup 15075 15078	+/-
+#708	AnnotatorNotes T708	sup (null)
+T709	SO 15075 15076	+
+#709	AnnotatorNotes T709	SO:0000817 (wild_type)
+T710	NCBITaxon 15079 15086	animals
+#710	AnnotatorNotes T710	NCBITaxon:33208 (Metazoa)
+T711	italic 15205 15210	Capn2
+#711	AnnotatorNotes T711	italic (null)
+T712	PR 15205 15210	Capn2
+#712	AnnotatorNotes T712	PR:000005015 (calpain-2 catalytic subunit)
+T713	EntrezGene 15205 15210	Capn2
+#713	AnnotatorNotes T713	EG:12334
+T714	sup 15210 15213	+/-
+#714	AnnotatorNotes T714	sup (null)
+T715	SO 15210 15211	+
+#715	AnnotatorNotes T715	SO:0000817 (wild_type)
+T716	SO 15223 15229	mutant
+#716	AnnotatorNotes T716	SO:0001059 (sequence_alteration)
+T717	SO 15230 15236	allele
+#717	AnnotatorNotes T717	SO:0001023 (allele)
+T718	italic 15300 15305	Capn2
+#718	AnnotatorNotes T718	italic (null)
+T719	PR 15300 15305	Capn2
+#719	AnnotatorNotes T719	PR:000005015 (calpain-2 catalytic subunit)
+T720	EntrezGene 15300 15305	Capn2
+#720	AnnotatorNotes T720	EG:12334
+T721	sup 15305 15308	+/-
+#721	AnnotatorNotes T721	sup (null)
+T722	SO 15305 15306	+
+#722	AnnotatorNotes T722	SO:0000817 (wild_type)
+T723	SO 15318 15324	mutant
+#723	AnnotatorNotes T723	SO:0001059 (sequence_alteration)
+T724	SO 15325 15331	allele
+#724	AnnotatorNotes T724	SO:0001023 (allele)
+T725	GO_BP 15365 15396	generation of Capn2-/- ES cells
+#725	AnnotatorNotes T725	"generation of .. cells" GO:0048468 (cell development)
+T726	italic 15379 15384	Capn2
+#726	AnnotatorNotes T726	italic (null)
+T727	EntrezGene 15379 15384	Capn2
+#727	AnnotatorNotes T727	EG:12334
+T728	PR 15379 15384	Capn2
+#728	AnnotatorNotes T728	PR:000005015 (calpain-2 catalytic subunit)
+T729	sup 15384 15387	-/-
+#729	AnnotatorNotes T729	sup (null)
+T730	CL 15391 15396	cells
+#730	AnnotatorNotes T730	CL:0000000 (cell)
+T731	GO_CC 15391 15396	cells
+#731	AnnotatorNotes T731	GO:0005623 (cell)
+T732	italic 15398 15403	Capn2
+#732	AnnotatorNotes T732	italic (null)
+T733	PR 15398 15403	Capn2
+#733	AnnotatorNotes T733	PR:000005015 (calpain-2 catalytic subunit)
+T734	EntrezGene 15398 15403	Capn2
+#734	AnnotatorNotes T734	EG:12334
+T735	sup 15403 15406	+/-
+#735	AnnotatorNotes T735	sup (null)
+T736	SO 15403 15404	+
+#736	AnnotatorNotes T736	SO:0000817 (wild_type)
+T737	CL 15410 15415	cells
+#737	AnnotatorNotes T737	CL:0000000 (cell)
+T738	GO_CC 15410 15415	cells
+#738	AnnotatorNotes T738	GO:0005623 (cell)
+T739	GO_BP 15498 15506	generate
+#739	AnnotatorNotes T739	GO:0032502 (developmental process)
+T740	SO 15518 15524	mutant
+#740	AnnotatorNotes T740	SO:0001059 (sequence_alteration)
+T741	CL 15525 15530	cells
+#741	AnnotatorNotes T741	CL:0000000 (cell)
+T742	GO_CC 15525 15530	cells
+#742	AnnotatorNotes T742	GO:0005623 (cell)
+T743	SO 15534 15538	gene
+#743	AnnotatorNotes T743	SO:0000704 (gene)
+T744	CL 15610 15615	cells
+#744	AnnotatorNotes T744	CL:0000000 (cell)
+T745	GO_CC 15610 15615	cells
+#745	AnnotatorNotes T745	GO:0005623 (cell)
+T746	italic 15656 15661	Capn4
+#746	AnnotatorNotes T746	italic (null)
+T747	EntrezGene 15656 15661	Capn4
+#747	AnnotatorNotes T747	EG:12336
+T748	PR 15656 15661	Capn4
+#748	AnnotatorNotes T748	PR:000005022 (calpain small subunit 1)
+T749	sup 15661 15664	+/-
+#749	AnnotatorNotes T749	sup (null)
+T750	SO 15661 15662	+
+#750	AnnotatorNotes T750	SO:0000817 (wild_type)
+T751	CL 15668 15673	cells
+#751	AnnotatorNotes T751	CL:0000000 (cell)
+T752	GO_CC 15668 15673	cells
+#752	AnnotatorNotes T752	GO:0005623 (cell)
+T753	italic 15706 15711	Capn2
+#753	AnnotatorNotes T753	italic (null)
+T754	PR 15706 15711	Capn2
+#754	AnnotatorNotes T754	PR:000005015 (calpain-2 catalytic subunit)
+T755	EntrezGene 15706 15711	Capn2
+#755	AnnotatorNotes T755	EG:12334
+T756	sup 15711 15714	-/-
+#756	AnnotatorNotes T756	sup (null)
+T757	CL 15718 15723	cells
+#757	AnnotatorNotes T757	CL:0000000 (cell)
+T758	GO_CC 15718 15723	cells
+#758	AnnotatorNotes T758	GO:0005623 (cell)
+T759	CHEBI 15756 15760	drug
+#759	AnnotatorNotes T759	CHEBI:23888 (drug)
+T760	italic 15804 15809	Capn2
+#760	AnnotatorNotes T760	italic (null)
+T761	EntrezGene 15804 15809	Capn2
+#761	AnnotatorNotes T761	EG:12334
+T762	PR 15804 15809	Capn2
+#762	AnnotatorNotes T762	PR:000005015 (calpain-2 catalytic subunit)
+T763	sup 15809 15812	-/-
+#763	AnnotatorNotes T763	sup (null)
+T764	CL 15816 15821	cells
+#764	AnnotatorNotes T764	CL:0000000 (cell)
+T765	GO_CC 15816 15821	cells
+#765	AnnotatorNotes T765	GO:0005623 (cell)
+T766	italic 15854 15859	Capn2
+#766	AnnotatorNotes T766	italic (null)
+T767	PR 15854 15859	Capn2
+#767	AnnotatorNotes T767	PR:000005015 (calpain-2 catalytic subunit)
+T768	EntrezGene 15854 15859	Capn2
+#768	AnnotatorNotes T768	EG:12334
+T769	sup 15859 15862	-/-
+#769	AnnotatorNotes T769	sup (null)
+T770	CL 15884 15888	cell
+#770	AnnotatorNotes T770	CL:0000000 (cell)
+T771	GO_CC 15884 15888	cell
+#771	AnnotatorNotes T771	GO:0005623 (cell)
+T772	CL 15953 15957	cell
+#772	AnnotatorNotes T772	CL:0000000 (cell)
+T773	GO_CC 15953 15957	cell
+#773	AnnotatorNotes T773	GO:0005623 (cell)
+T774	GO_BP 15975 15988	establishment
+#774	AnnotatorNotes T774	GO:0032502 (developmental process)
+T775	CL 16002 16006	cell
+#775	AnnotatorNotes T775	CL:0000000 (cell)
+T776	GO_CC 16002 16006	cell
+#776	AnnotatorNotes T776	GO:0005623 (cell)
+T777	SO 16154 16161	enzymes
+#777	AnnotatorNotes T777	SO:0001185 (enzymatic)
+T778	CHEBI 16232 16242	inhibitors
+#778	AnnotatorNotes T778	CHEBI:35222 (inhibitor)
+T779	GO_BP 16267 16282	down-regulating
+#779	AnnotatorNotes T779	GO:0048519 (negative regulation of biological process)
+T780	GO_MF 16320 16329	proteases
+#780	AnnotatorNotes T780	GO:0008233 (peptidase activity)
+T781	independent_continuant 16320 16329	proteases
+#781	AnnotatorNotes T781	independent_continuant
+T782	SO 16441 16449	isoforms
+#782	AnnotatorNotes T782	SO:0001060 (sequence_variant)
+T783	GO_BP 16475 16484	regulated
+#783	AnnotatorNotes T783	GO:0065007 (biological regulation)
+T784	SO 16527 16531	Gene
+#784	AnnotatorNotes T784	SO:0000704 (gene)
+T785	NCBITaxon 16545 16549	mice
+#785	AnnotatorNotes T785	NCBITaxon:10088 (Mus)
+T786	SO 16638 16646	isoforms
+#786	AnnotatorNotes T786	SO:0001060 (sequence_variant)
+T787	italic 16683 16688	Capn4
+#787	AnnotatorNotes T787	italic (null)
+T788	PR 16683 16688	Capn4
+#788	AnnotatorNotes T788	PR:000005022 (calpain small subunit 1)
+T789	EntrezGene 16683 16688	Capn4
+#789	AnnotatorNotes T789	EG:12336
+T790	SO 16689 16693	gene
+#790	AnnotatorNotes T790	SO:0000704 (gene)
+T791	GO_BP 16714 16724	regulatory
+#791	AnnotatorNotes T791	GO:0065007 (biological regulation)
+T792	italic 16827 16832	Capn4
+#792	AnnotatorNotes T792	italic (null)
+T793	PR 16827 16832	Capn4
+#793	AnnotatorNotes T793	PR:000005022 (calpain small subunit 1)
+T794	EntrezGene 16827 16832	Capn4
+#794	AnnotatorNotes T794	EG:12336
+T795	NCBITaxon 16842 16846	mice
+#795	AnnotatorNotes T795	NCBITaxon:10088 (Mus)
+T796	GO_BP 16878 16889	development
+#796	AnnotatorNotes T796	GO:0032502 (developmental process)
+T797	GO_BP 17082 17103	embryonic development
+#797	AnnotatorNotes T797	GO:0009790 (embryonic development)
+T798	SO 17113 17121	isoforms
+#798	AnnotatorNotes T798	SO:0001060 (sequence_variant)
+T799	SO 17250 17257	isoform
+#799	AnnotatorNotes T799	SO:0001060 (sequence_variant)
+T800	italic 17340 17345	Capn1
+#800	AnnotatorNotes T800	italic (null)
+T801	EntrezGene 17340 17345	Capn1
+#801	AnnotatorNotes T801	EG:12333
+T802	PR 17340 17345	Capn1
+#802	AnnotatorNotes T802	PR:000005009 (calpain-1 catalytic subunit)
+T803	sup 17345 17348	-/-
+#803	AnnotatorNotes T803	sup (null)
+T804	NCBITaxon 17349 17353	mice
+#804	AnnotatorNotes T804	NCBITaxon:10088 (Mus)
+T805	EntrezGene 17370 17397	μ-calpain catalytic subunit
+#805	AnnotatorNotes T805	EG:12333
+T806	PR 17370 17397	μ-calpain catalytic subunit
+#806	AnnotatorNotes T806	PR:000005009 (calpain-1 catalytic subunit)
+T807	CL 17434 17442	platelet
+#807	AnnotatorNotes T807	CL:0000233 (platelet)
+T808	GO_BP 17459 17474	clot retraction
+#808	AnnotatorNotes T808	GO:0050819 (negative regulation of coagulation)
+T809	GO_BP 17618 17631	embryogenesis
+#809	AnnotatorNotes T809	GO:0009790 (embryonic development)
+T810	SO 17648 17655	isoform
+#810	AnnotatorNotes T810	SO:0001060 (sequence_variant)
+T811	italic 17734 17739	Capn2
+#811	AnnotatorNotes T811	italic (null)
+T812	EntrezGene 17734 17739	Capn2
+#812	AnnotatorNotes T812	EG:12334
+T813	PR 17734 17739	Capn2
+#813	AnnotatorNotes T813	PR:000005015 (calpain-2 catalytic subunit)
+T814	sup 17739 17742	-/-
+#814	AnnotatorNotes T814	sup (null)
+T815	NCBITaxon 17743 17747	mice
+#815	AnnotatorNotes T815	NCBITaxon:10088 (Mus)
+T816	EntrezGene 17764 17791	m-calpain catalytic subunit
+#816	AnnotatorNotes T816	EG:12334
+T817	PR 17764 17791	m-calpain catalytic subunit
+#817	AnnotatorNotes T817	PR:000005015 (calpain-2 catalytic subunit)
+T818	GO_BP 17793 17796	die
+#818	AnnotatorNotes T818	GO:0016265 (death)
+T819	GO_BP 17829 17840	development
+#819	AnnotatorNotes T819	GO:0032502 (developmental process)
+T820	GO_BP 17932 17945	embryogenesis
+#820	AnnotatorNotes T820	GO:0009790 (embryonic development)
+T821	italic 17982 17987	Capn4
+#821	AnnotatorNotes T821	italic (null)
+T822	PR 17982 17987	Capn4
+#822	AnnotatorNotes T822	PR:000005022 (calpain small subunit 1)
+T823	EntrezGene 17982 17987	Capn4
+#823	AnnotatorNotes T823	EG:12336
+T824	SO 17988 17992	gene
+#824	AnnotatorNotes T824	SO:0000704 (gene)
+T825	italic 18117 18122	Capn4
+#825	AnnotatorNotes T825	italic (null)
+T826	PR 18117 18122	Capn4
+#826	AnnotatorNotes T826	PR:000005022 (calpain small subunit 1)
+T827	EntrezGene 18117 18122	Capn4
+#827	AnnotatorNotes T827	EG:12336
+T828	italic 18229 18234	Capn4
+#828	AnnotatorNotes T828	italic (null)
+T829	PR 18229 18234	Capn4
+#829	AnnotatorNotes T829	PR:000005022 (calpain small subunit 1)
+T830	EntrezGene 18229 18234	Capn4
+#830	AnnotatorNotes T830	EG:12336
+T831	sup 18234 18237	-/-
+#831	AnnotatorNotes T831	sup (null)
+T832	GO_BP 18319 18328	gestation
+#832	AnnotatorNotes T832	GO:0007565 (female pregnancy)
+T833	italic 18479 18484	Capn4
+#833	AnnotatorNotes T833	italic (null)
+T834	EntrezGene 18479 18484	Capn4
+#834	AnnotatorNotes T834	EG:12336
+T835	PR 18479 18484	Capn4
+#835	AnnotatorNotes T835	PR:000005022 (calpain small subunit 1)
+T836	SO 18562 18572	C-terminus
+#836	AnnotatorNotes T836	SO:0100015 (c_terminal_region)
+T837	CHEBI 18562 18563	C
+#837	AnnotatorNotes T837	CHEBI:46883 (carboxy group)
+T838	CHEBI 18562 18563	C
+#838	AnnotatorNotes T838	CHEBI:18245 (carboxylato group)
+T839	EntrezGene 18580 18601	calpain small subunit
+#839	AnnotatorNotes T839	EG:12336
+T840	SO 18605 18614	insertion
+#840	AnnotatorNotes T840	SO:0000046 (insert)
+T841	GO_MF 18622 18625	PGK
+#841	AnnotatorNotes T841	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T842	independent_continuant 18622 18625	PGK
+#842	AnnotatorNotes T842	independent_continuant
+T843	GO_MF 18622 18625	PGK
+#843	AnnotatorNotes T843	GO:0004618 (phosphoglycerate kinase activity)
+T844	GO_MF 18626 18629	Neo
+#844	AnnotatorNotes T844	GO:0008910 (kanamycin kinase activity)
+T845	independent_continuant 18626 18629	Neo
+#845	AnnotatorNotes T845	independent_continuant
+T846	SO 18630 18638	cassette
+#846	AnnotatorNotes T846	SO:0005853 (gene_cassette)
+T847	SO 18658 18662	exon
+#847	AnnotatorNotes T847	SO:0000147 (exon)
+T848	CHEBI 18697 18704	protein
+#848	AnnotatorNotes T848	CHEBI:36080 (proteins)
+T849	SO 18789 18797	excision
+#849	AnnotatorNotes T849	SO:0000045 (delete)
+T850	SO 18805 18815	C-terminal
+#850	AnnotatorNotes T850	SO:0100015 (c_terminal_region)
+T851	CHEBI 18805 18806	C
+#851	AnnotatorNotes T851	CHEBI:18245 (carboxylato group)
+T852	CHEBI 18805 18806	C
+#852	AnnotatorNotes T852	CHEBI:46883 (carboxy group)
+T853	CHEBI 18819 18838	amino acid residues
+#853	AnnotatorNotes T853	CHEBI:33708 (amino-acid residue)
+T854	SO 18819 18838	amino acid residues
+#854	AnnotatorNotes T854	SO:0001237 (amino_acid)
+T855	CHEBI 18819 18829	amino acid
+#855	AnnotatorNotes T855	CHEBI:33709 (amino acids)
+T856	CHEBI 18819 18824	amino
+#856	AnnotatorNotes T856	CHEBI:46882 (amino group)
+T857	CHEBI 18819 18824	amino
+#857	AnnotatorNotes T857	CHEBI:32952 (amines)
+T858	GO_BP 18895 18904	expressed
+#858	AnnotatorNotes T858	GO:0010467 (gene expression)
+T859	PR 18914 18937	m-calpain large subunit
+#859	AnnotatorNotes T859	PR:000005015 (calpain-2 catalytic subunit)
+T860	italic 18941 18948	E. coli
+#860	AnnotatorNotes T860	italic (null)
+T861	taxonomic_rank 18941 18948	E. coli
+#861	AnnotatorNotes T861	taxonomic_rank (null)
+T862	NCBITaxon 18941 18948	E. coli
+#862	AnnotatorNotes T862	NCBITaxon:562 (Escherichia coli)
+T863	italic 18972 18977	Capn4
+#863	AnnotatorNotes T863	italic (null)
+T864	PR 18972 18977	Capn4
+#864	AnnotatorNotes T864	PR:000005022 (calpain small subunit 1)
+T865	EntrezGene 18972 18977	Capn4
+#865	AnnotatorNotes T865	EG:12336
+T866	SO 19065 19073	deletion
+#866	AnnotatorNotes T866	SO:0000045 (delete)
+T867	SO 19077 19082	exons
+#867	AnnotatorNotes T867	SO:0000147 (exon)
+T868	italic 19190 19195	Capn4
+#868	AnnotatorNotes T868	italic (null)
+T869	PR 19190 19195	Capn4
+#869	AnnotatorNotes T869	PR:000005022 (calpain small subunit 1)
+T870	EntrezGene 19190 19195	Capn4
+#870	AnnotatorNotes T870	EG:12336
+T871	SO 19269 19275	allele
+#871	AnnotatorNotes T871	SO:0001023 (allele)
+T872	SO 19308 19316	genotype
+#872	AnnotatorNotes T872	SO:0001027 (genotype)
+T873	SO 19334 19340	allele
+#873	AnnotatorNotes T873	SO:0001023 (allele)
+T874	SO 19365 19373	mutation
+#874	AnnotatorNotes T874	SO:0001059 (sequence_alteration)
+T875	SO 19455 19459	gene
+#875	AnnotatorNotes T875	SO:0000704 (gene)
+T876	PR 19569 19591	mixed lineage leukemia
+#876	AnnotatorNotes T876	PR:000010445 (histone-lysine N-methyltransferase HRX)
+T877	italic 19593 19596	Mll
+#877	AnnotatorNotes T877	italic (null)
+T878	PR 19593 19596	Mll
+#878	AnnotatorNotes T878	PR:000010445 (histone-lysine N-methyltransferase HRX)
+T879	SO 19598 19602	gene
+#879	AnnotatorNotes T879	SO:0000704 (gene)
+T880	GO_BP 19650 19658	perished
+#880	AnnotatorNotes T880	GO:0016265 (death)
+T881	GO_BP 19666 19679	embryogenesis
+#881	AnnotatorNotes T881	GO:0009790 (embryonic development)
+T882	CHEBI 19832 19840	proteins
+#882	AnnotatorNotes T882	CHEBI:36080 (proteins)
+T883	GO_BP 19841 19849	produced
+#883	AnnotatorNotes T883	GO:0009058 (biosynthetic process)
+T884	SO 19859 19865	mutant
+#884	AnnotatorNotes T884	SO:0001059 (sequence_alteration)
+T885	SO 19866 19873	alleles
+#885	AnnotatorNotes T885	SO:0001023 (allele)
+T886	italic 19920 19925	Capn4
+#886	AnnotatorNotes T886	italic (null)
+T887	EntrezGene 19920 19925	Capn4
+#887	AnnotatorNotes T887	EG:12336
+T888	PR 19920 19925	Capn4
+#888	AnnotatorNotes T888	PR:000005022 (calpain small subunit 1)
+T889	SO 19926 19936	transgenic
+#889	AnnotatorNotes T889	SO:0000902 (transgene)
+T890	SO 19972 19983	transcripts
+#890	AnnotatorNotes T890	SO:0000673 (transcript)
+T891	italic 20030 20035	Capn4
+#891	AnnotatorNotes T891	italic (null)
+T892	PR 20030 20035	Capn4
+#892	AnnotatorNotes T892	PR:000005022 (calpain small subunit 1)
+T893	EntrezGene 20030 20035	Capn4
+#893	AnnotatorNotes T893	EG:12336
+T894	SO 20036 20042	allele
+#894	AnnotatorNotes T894	SO:0001023 (allele)
+T895	SO 20049 20055	allele
+#895	AnnotatorNotes T895	SO:0001023 (allele)
+T896	CHEBI 20078 20082	mRNA
+#896	AnnotatorNotes T896	CHEBI:33699 (messenger RNA)
+T897	SO 20078 20082	mRNA
+#897	AnnotatorNotes T897	SO:0000234 (mRNA)
+T898	SO 20083 20090	species
+#898	AnnotatorNotes T898	SO:0001060 (sequence_variant)
+T899	GO_MF 20106 20108	RT
+#899	AnnotatorNotes T899	GO:0003964 (RNA-directed DNA polymerase activity)
+T900	independent_continuant 20106 20108	RT
+#900	AnnotatorNotes T900	independent_continuant
+T901	GO_BP 20106 20108	RT
+#901	AnnotatorNotes T901	GO:0006410 (transcription, RNA-dependent)
+T902	SO 20153 20157	exon
+#902	AnnotatorNotes T902	SO:0000147 (exon)
+T903	SO 20186 20193	cryptic
+#903	AnnotatorNotes T903	SO:0000976 (cryptic)
+T904	SO 20194 20206	splice sites
+#904	AnnotatorNotes T904	SO:0000162 (splice_site)
+T905	GO_BP 20194 20200	splice
+#905	AnnotatorNotes T905	GO:0008380 (RNA splicing)
+T906	GO_MF 20214 20217	PGK
+#906	AnnotatorNotes T906	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T907	GO_MF 20214 20217	PGK
+#907	AnnotatorNotes T907	GO:0004618 (phosphoglycerate kinase activity)
+T908	independent_continuant 20214 20217	PGK
+#908	AnnotatorNotes T908	independent_continuant
+T909	SO 20218 20235	promoter sequence
+#909	AnnotatorNotes T909	SO:0000167 (promoter)
+T910	SO 20248 20259	transcripts
+#910	AnnotatorNotes T910	SO:0000673 (transcript)
+T911	EntrezGene 20289 20311	calpain small subunits
+#911	AnnotatorNotes T911	EG:12336
+T912	SO 20337 20347	C-terminal
+#912	AnnotatorNotes T912	SO:0100015 (c_terminal_region)
+T913	CHEBI 20337 20338	C
+#913	AnnotatorNotes T913	CHEBI:46883 (carboxy group)
+T914	CHEBI 20337 20338	C
+#914	AnnotatorNotes T914	CHEBI:18245 (carboxylato group)
+T915	CHEBI 20348 20353	acids
+#915	AnnotatorNotes T915	CHEBI:33708 (amino-acid residue)
+T916	GO_BP 20434 20444	expression
+#916	AnnotatorNotes T916	GO:0010467 (gene expression)
+T917	SO 20468 20476	modified
+#917	AnnotatorNotes T917	SO:0000041 (sequence_operation)
+T918	GO_BP 20550 20559	expressed
+#918	AnnotatorNotes T918	GO:0010467 (gene expression)
+T919	italic 20563 20570	E. coli
+#919	AnnotatorNotes T919	italic (null)
+T920	taxonomic_rank 20563 20570	E. coli
+#920	AnnotatorNotes T920	taxonomic_rank (null)
+T921	NCBITaxon 20563 20570	E. coli
+#921	AnnotatorNotes T921	NCBITaxon:562 (Escherichia coli)
+T922	NCBITaxon 20604 20613	mammalian
+#922	AnnotatorNotes T922	NCBITaxon:40674 (Mammalia)
+T923	CL 20614 20619	cells
+#923	AnnotatorNotes T923	CL:0000000 (cell)
+T924	GO_CC 20614 20619	cells
+#924	AnnotatorNotes T924	GO:0005623 (cell)
+T925	CL 20767 20783	eukaryotic cells
+#925	AnnotatorNotes T925	CL:0000255 (eukaryotic cell)
+T926	NCBITaxon 20767 20777	eukaryotic
+#926	AnnotatorNotes T926	NCBITaxon:2759 (Eukaryota)
+T927	GO_CC 20778 20783	cells
+#927	AnnotatorNotes T927	GO:0005623 (cell)
+T928	GO_BP 20944 20953	expressed
+#928	AnnotatorNotes T928	GO:0010467 (gene expression)
+T929	italic 20970 20977	E. coli
+#929	AnnotatorNotes T929	italic (null)
+T930	NCBITaxon 20970 20977	E. coli
+#930	AnnotatorNotes T930	NCBITaxon:562 (Escherichia coli)
+T931	taxonomic_rank 20970 20977	E. coli
+#931	AnnotatorNotes T931	taxonomic_rank (null)
+T932	NCBITaxon 20984 20993	mammalian
+#932	AnnotatorNotes T932	NCBITaxon:40674 (Mammalia)
+T933	CL 20994 20999	cells
+#933	AnnotatorNotes T933	CL:0000000 (cell)
+T934	GO_CC 20994 20999	cells
+#934	AnnotatorNotes T934	GO:0005623 (cell)
+T935	italic 21047 21052	Capn4
+#935	AnnotatorNotes T935	italic (null)
+T936	PR 21047 21052	Capn4
+#936	AnnotatorNotes T936	PR:000005022 (calpain small subunit 1)
+T937	EntrezGene 21047 21052	Capn4
+#937	AnnotatorNotes T937	EG:12336
+T938	SO 21108 21115	genetic
+#938	AnnotatorNotes T938	SO:0000704 (gene)
+T939	SO 21139 21149	transgenic
+#939	AnnotatorNotes T939	SO:0000902 (transgene)
+T940	SO 21211 21221	transgenic
+#940	AnnotatorNotes T940	SO:0000902 (transgene)
+T941	NCBITaxon 21222 21226	mice
+#941	AnnotatorNotes T941	NCBITaxon:10088 (Mus)
+T942	SO 21345 21353	isoforms
+#942	AnnotatorNotes T942	SO:0001060 (sequence_variant)
+T943	italic 21390 21397	in vivo
+#943	AnnotatorNotes T943	italic (null)
+T944	SO 21413 21420	enzymes
+#944	AnnotatorNotes T944	SO:0001185 (enzymatic)
+T945	SO 21431 21439	sequence
+#945	AnnotatorNotes T945	SO:0000001 (region)
+T946	GO_BP 21521 21527	cleave
+#946	AnnotatorNotes T946	GO:0030908 (protein splicing)
+T947	italic 21567 21575	in vitro
+#947	AnnotatorNotes T947	italic (null)
+T948	italic 21649 21656	in vivo
+#948	AnnotatorNotes T948	italic (null)
+T949	CHEBI 21717 21721	Ca2+
+#949	AnnotatorNotes T949	CHEBI:29108 (calcium(2+))
+T950	sup 21719 21721	2+
+#950	AnnotatorNotes T950	sup (null)
+T951	italic 21726 21734	in vitro
+#951	AnnotatorNotes T951	italic (null)
+T952	SO 21775 21783	isoforms
+#952	AnnotatorNotes T952	SO:0001060 (sequence_variant)
+T953	GO_BP 21803 21812	regulated
+#953	AnnotatorNotes T953	GO:0065007 (biological regulation)
+T954	CL 21820 21825	cells
+#954	AnnotatorNotes T954	CL:0000000 (cell)
+T955	GO_CC 21820 21825	cells
+#955	AnnotatorNotes T955	GO:0005623 (cell)
+T956	SO 21853 21857	gene
+#956	AnnotatorNotes T956	SO:0000704 (gene)
+T957	NCBITaxon 21881 21885	mice
+#957	AnnotatorNotes T957	NCBITaxon:10088 (Mus)
+T958	GO_BP 21965 21978	embryogenesis
+#958	AnnotatorNotes T958	GO:0009790 (embryonic development)
+T959	italic 21998 22003	Capn2
+#959	AnnotatorNotes T959	italic (null)
+T960	EntrezGene 21998 22003	Capn2
+#960	AnnotatorNotes T960	EG:12334
+T961	PR 21998 22003	Capn2
+#961	AnnotatorNotes T961	PR:000005015 (calpain-2 catalytic subunit)
+T962	NCBITaxon 22009 22015	murine
+#962	AnnotatorNotes T962	NCBITaxon:39107 (Murinae)
+T963	GO_BP 22024 22027	die
+#963	AnnotatorNotes T963	GO:0016265 (death)
+T964	GO_BP 22037 22049	implantation
+#964	AnnotatorNotes T964	GO:0007566 (embryo implantation)
+T965	EntrezGene 22080 22103	μ-calpain large subunit
+#965	AnnotatorNotes T965	EG:12333
+T966	PR 22080 22103	μ-calpain large subunit
+#966	AnnotatorNotes T966	PR:000005009 (calpain-1 catalytic subunit)
+T967	SO 22104 22108	gene
+#967	AnnotatorNotes T967	SO:0000704 (gene)
+T968	italic 22110 22115	Capn1
+#968	AnnotatorNotes T968	italic (null)
+T969	PR 22110 22115	Capn1
+#969	AnnotatorNotes T969	PR:000005009 (calpain-1 catalytic subunit)
+T970	EntrezGene 22110 22115	Capn1
+#970	AnnotatorNotes T970	EG:12333
+T971	NCBITaxon 22149 22153	mice
+#971	AnnotatorNotes T971	NCBITaxon:10088 (Mus)
+T972	italic 22208 22213	Capn1
+#972	AnnotatorNotes T972	italic (null)
+T973	PR 22208 22213	Capn1
+#973	AnnotatorNotes T973	PR:000005009 (calpain-1 catalytic subunit)
+T974	EntrezGene 22208 22213	Capn1
+#974	AnnotatorNotes T974	EG:12333
+T975	CL 22251 22259	platelet
+#975	AnnotatorNotes T975	CL:0000233 (platelet)
+T976	GO_BP 22299 22343	tyrosine phosphorylation of certain proteins
+#976	AnnotatorNotes T976	"tyrosine phosphorylation of .. proteins" GO:0018108 (peptidyl-tyrosine phosphorylation)
+T977	CHEBI 22299 22307	tyrosine
+#977	AnnotatorNotes T977	CHEBI:32789 (tyrosine residue)
+T978	SO 22299 22307	tyrosine
+#978	AnnotatorNotes T978	SO:0001446 (tyrosine)
+T979	CHEBI 22335 22343	proteins
+#979	AnnotatorNotes T979	CHEBI:36080 (proteins)
+T980	GO_BP 22356 22375	platelet activation
+#980	AnnotatorNotes T980	GO:0030168 (platelet activation)
+T981	CL 22356 22364	platelet
+#981	AnnotatorNotes T981	CL:0000233 (platelet)
+T982	NCBITaxon 22430 22439	mammalian
+#982	AnnotatorNotes T982	NCBITaxon:40674 (Mammalia)
+T983	CL 22440 22445	cells
+#983	AnnotatorNotes T983	CL:0000000 (cell)
+T984	GO_CC 22440 22445	cells
+#984	AnnotatorNotes T984	GO:0005623 (cell)
+T985	CL 22587 22596	Platelets
+#985	AnnotatorNotes T985	CL:0000233 (platelet)
+T986	CL 22601 22613	erythrocytes
+#986	AnnotatorNotes T986	CL:0000232 (erythrocyte)
+T987	CL 22777 22786	platelets
+#987	AnnotatorNotes T987	CL:0000233 (platelet)
+T988	CL 22791 22803	erythrocytes
+#988	AnnotatorNotes T988	CL:0000232 (erythrocyte)
+T989	CL 22818 22822	cell
+#989	AnnotatorNotes T989	CL:0000000 (cell)
+T990	GO_CC 22818 22822	cell
+#990	AnnotatorNotes T990	GO:0005623 (cell)
+T991	italic 22918 22923	Capn1
+#991	AnnotatorNotes T991	italic (null)
+T992	PR 22918 22923	Capn1
+#992	AnnotatorNotes T992	PR:000005009 (calpain-1 catalytic subunit)
+T993	EntrezGene 22918 22923	Capn1
+#993	AnnotatorNotes T993	EG:12333
+T994	sup 22923 22926	-/-
+#994	AnnotatorNotes T994	sup (null)
+T995	NCBITaxon 22927 22934	animals
+#995	AnnotatorNotes T995	NCBITaxon:33208 (Metazoa)
+T996	italic 23094 23099	Capn2
+#996	AnnotatorNotes T996	italic (null)
+T997	EntrezGene 23094 23099	Capn2
+#997	AnnotatorNotes T997	EG:12334
+T998	PR 23094 23099	Capn2
+#998	AnnotatorNotes T998	PR:000005015 (calpain-2 catalytic subunit)
+T999	sup 23099 23102	-/-
+#999	AnnotatorNotes T999	sup (null)
+T1000	GO_BP 23165 23186	embryonic development
+#1000	AnnotatorNotes T1000	GO:0009790 (embryonic development)
+T1001	CL 23200 23204	cell
+#1001	AnnotatorNotes T1001	CL:0000000 (cell)
+T1002	GO_CC 23200 23204	cell
+#1002	AnnotatorNotes T1002	GO:0005623 (cell)
+T1003	italic 23351 23356	Capn2
+#1003	AnnotatorNotes T1003	italic (null)
+T1004	PR 23351 23356	Capn2
+#1004	AnnotatorNotes T1004	PR:000005015 (calpain-2 catalytic subunit)
+T1005	EntrezGene 23351 23356	Capn2
+#1005	AnnotatorNotes T1005	EG:12334
+T1006	sup 23356 23359	-/-
+#1006	AnnotatorNotes T1006	sup (null)
+T1007	CL 23448 23452	cell
+#1007	AnnotatorNotes T1007	CL:0000000 (cell)
+T1008	GO_CC 23448 23452	cell
+#1008	AnnotatorNotes T1008	GO:0005623 (cell)
+T1009	GO_BP 23579 23591	implantation
+#1009	AnnotatorNotes T1009	GO:0007566 (embryo implantation)
+T1010	italic 23613 23618	Capn2
+#1010	AnnotatorNotes T1010	italic (null)
+T1011	EntrezGene 23613 23618	Capn2
+#1011	AnnotatorNotes T1011	EG:12334
+T1012	PR 23613 23618	Capn2
+#1012	AnnotatorNotes T1012	PR:000005015 (calpain-2 catalytic subunit)
+T1013	sup 23618 23621	-/-
+#1013	AnnotatorNotes T1013	sup (null)
+T1014	SO 23687 23691	gene
+#1014	AnnotatorNotes T1014	SO:0000704 (gene)
+T1015	GO_BP 23806 23821	differentiation
+#1015	AnnotatorNotes T1015	GO:0030154 (cell differentiation)
+T1016	SO 23987 23996	genotypes
+#1016	AnnotatorNotes T1016	SO:0001027 (genotype)
+T1017	SO 24044 24048	gene
+#1017	AnnotatorNotes T1017	SO:0000704 (gene)
+T1018	GO_BP 24085 24092	fatally
+#1018	AnnotatorNotes T1018	GO:0016265 (death)
+T1019	CL 24110 24115	cells
+#1019	AnnotatorNotes T1019	CL:0000000 (cell)
+T1020	GO_CC 24110 24115	cells
+#1020	AnnotatorNotes T1020	GO:0005623 (cell)
+T1021	SO 24224 24230	mutant
+#1021	AnnotatorNotes T1021	SO:0001059 (sequence_alteration)
+T1022	CL 24234 24239	cells
+#1022	AnnotatorNotes T1022	CL:0000000 (cell)
+T1023	GO_CC 24234 24239	cells
+#1023	AnnotatorNotes T1023	GO:0005623 (cell)
+T1024	italic 24267 24272	Capn2
+#1024	AnnotatorNotes T1024	italic (null)
+T1025	PR 24267 24272	Capn2
+#1025	AnnotatorNotes T1025	PR:000005015 (calpain-2 catalytic subunit)
+T1026	EntrezGene 24267 24272	Capn2
+#1026	AnnotatorNotes T1026	EG:12334
+T1027	CL 24374 24378	cell
+#1027	AnnotatorNotes T1027	CL:0000000 (cell)
+T1028	GO_CC 24374 24378	cell
+#1028	AnnotatorNotes T1028	GO:0005623 (cell)
+T1029	italic 24412 24417	Capn2
+#1029	AnnotatorNotes T1029	italic (null)
+T1030	EntrezGene 24412 24417	Capn2
+#1030	AnnotatorNotes T1030	EG:12334
+T1031	PR 24412 24417	Capn2
+#1031	AnnotatorNotes T1031	PR:000005015 (calpain-2 catalytic subunit)
+T1032	sup 24417 24420	-/-
+#1032	AnnotatorNotes T1032	sup (null)
+T1033	CL 24438 24442	cell
+#1033	AnnotatorNotes T1033	CL:0000000 (cell)
+T1034	GO_CC 24438 24442	cell
+#1034	AnnotatorNotes T1034	GO:0005623 (cell)
+T1035	CHEBI 24514 24518	mRNA
+#1035	AnnotatorNotes T1035	CHEBI:33699 (messenger RNA)
+T1036	SO 24514 24518	mRNA
+#1036	AnnotatorNotes T1036	SO:0000234 (mRNA)
+T1037	CHEBI 24526 24533	protein
+#1037	AnnotatorNotes T1037	CHEBI:36080 (proteins)
+T1038	GO_BP 24546 24560	cell divisions
+#1038	AnnotatorNotes T1038	GO:0051301 (cell division)
+T1039	CL 24546 24550	cell
+#1039	AnnotatorNotes T1039	CL:0000000 (cell)
+T1040	GO_CC 24546 24550	cell
+#1040	AnnotatorNotes T1040	GO:0005623 (cell)
+T1041	GO_BP 24708 24726	cell proliferation
+#1041	AnnotatorNotes T1041	GO:0008283 (cell proliferation)
+T1042	CL 24708 24712	cell
+#1042	AnnotatorNotes T1042	CL:0000000 (cell)
+T1043	GO_CC 24708 24712	cell
+#1043	AnnotatorNotes T1043	GO:0005623 (cell)
+T1044	GO_BP 24793 24861	chromosome segregation during mitosis [44] as well as during meiosis
+#1044	AnnotatorNotes T1044	"chromosome segregation .. during meiosis" GO:0045132 (meiotic chromosome segregation)
+T1045	GO_CC 24793 24803	chromosome
+#1045	AnnotatorNotes T1045	GO:0005694 (chromosome)
+T1046	SO 24793 24803	chromosome
+#1046	AnnotatorNotes T1046	SO:0000340 (chromosome)
+T1047	GO_BP 24823 24830	mitosis
+#1047	AnnotatorNotes T1047	GO:0007067 (mitosis)
+T1048	GO_BP 24854 24861	meiosis
+#1048	AnnotatorNotes T1048	GO:0007126 (meiosis)
+T1049	GO_BP 24879 24888	migration
+#1049	AnnotatorNotes T1049	GO:0016477 (cell migration)
+T1050	italic 24902 24907	Capn4
+#1050	AnnotatorNotes T1050	italic (null)
+T1051	PR 24902 24907	Capn4
+#1051	AnnotatorNotes T1051	PR:000005022 (calpain small subunit 1)
+T1052	sup 24907 24910	-/-
+#1052	AnnotatorNotes T1052	sup (null)
+T1053	CL 24911 24916	cells
+#1053	AnnotatorNotes T1053	CL:0000000 (cell)
+T1054	GO_CC 24911 24916	cells
+#1054	AnnotatorNotes T1054	GO:0005623 (cell)
+T1055	GO_BP 24949 24970	embryonic development
+#1055	AnnotatorNotes T1055	GO:0009790 (embryonic development)
+T1056	CL 25008 25012	cell
+#1056	AnnotatorNotes T1056	CL:0000000 (cell)
+T1057	GO_CC 25008 25012	cell
+#1057	AnnotatorNotes T1057	GO:0005623 (cell)
+T1058	italic 25041 25046	Capn4
+#1058	AnnotatorNotes T1058	italic (null)
+T1059	EntrezGene 25041 25046	Capn4
+#1059	AnnotatorNotes T1059	EG:12336
+T1060	PR 25041 25046	Capn4
+#1060	AnnotatorNotes T1060	PR:000005022 (calpain small subunit 1)
+T1061	sup 25046 25049	-/-
+#1061	AnnotatorNotes T1061	sup (null)
+T1062	CL 25065 25069	cell
+#1062	AnnotatorNotes T1062	CL:0000000 (cell)
+T1063	GO_CC 25065 25069	cell
+#1063	AnnotatorNotes T1063	GO:0005623 (cell)
+T1064	CL 25233 25238	cells
+#1064	AnnotatorNotes T1064	CL:0000000 (cell)
+T1065	GO_CC 25233 25238	cells
+#1065	AnnotatorNotes T1065	GO:0005623 (cell)
+T1066	italic 25243 25248	Capn4
+#1066	AnnotatorNotes T1066	italic (null)
+T1067	EntrezGene 25243 25248	Capn4
+#1067	AnnotatorNotes T1067	EG:12336
+T1068	PR 25243 25248	Capn4
+#1068	AnnotatorNotes T1068	PR:000005022 (calpain small subunit 1)
+T1069	sup 25248 25251	-/-
+#1069	AnnotatorNotes T1069	sup (null)
+T1070	GO_BP 25289 25307	cell proliferation
+#1070	AnnotatorNotes T1070	GO:0008283 (cell proliferation)
+T1071	CL 25289 25293	cell
+#1071	AnnotatorNotes T1071	CL:0000000 (cell)
+T1072	GO_CC 25289 25293	cell
+#1072	AnnotatorNotes T1072	GO:0005623 (cell)
+T1073	CL 25330 25334	cell
+#1073	AnnotatorNotes T1073	CL:0000000 (cell)
+T1074	GO_CC 25330 25334	cell
+#1074	AnnotatorNotes T1074	GO:0005623 (cell)
+T1075	GO_BP 25412 25420	G1 stage
+#1075	AnnotatorNotes T1075	GO:0051318 (G1 phase)
+T1076	sub 25413 25414	1
+#1076	AnnotatorNotes T1076	sub (null)
+T1077	GO_BP 25428 25438	cell cycle
+#1077	AnnotatorNotes T1077	GO:0007049 (cell cycle)
+T1078	CL 25428 25432	cell
+#1078	AnnotatorNotes T1078	CL:0000000 (cell)
+T1079	GO_CC 25428 25432	cell
+#1079	AnnotatorNotes T1079	GO:0005623 (cell)
+T1080	CHEBI 25469 25477	proteins
+#1080	AnnotatorNotes T1080	CHEBI:36080 (proteins)
+T1081	GO_BP 25502 25512	cell cycle
+#1081	AnnotatorNotes T1081	GO:0007049 (cell cycle)
+T1082	CL 25502 25506	cell
+#1082	AnnotatorNotes T1082	CL:0000000 (cell)
+T1083	GO_CC 25502 25506	cell
+#1083	AnnotatorNotes T1083	GO:0005623 (cell)
+T1084	PR 25534 25537	p53
+#1084	AnnotatorNotes T1084	PR:000003035 (cellular tumor antigen p53)
+T1085	PR 25539 25543	p107
+#1085	AnnotatorNotes T1085	PR:000000118 (retinoblastoma-like protein 1)
+T1086	PR 25545 25554	cyclin D1
+#1086	AnnotatorNotes T1086	PR:000005121 (G1/S-specific cyclin-D1)
+T1087	PR 25560 25567	p27kip1
+#1087	AnnotatorNotes T1087	PR:000003090 (cyclin-dependent kinase inhibitor 1B)
+T1088	sup 25563 25567	kip1
+#1088	AnnotatorNotes T1088	sup (null)
+T1089	CL 25611 25616	Sperm
+#1089	AnnotatorNotes T1089	CL:0000019 (sperm)
+T1090	GO_MF 25617 25624	binding
+#1090	AnnotatorNotes T1090	GO:0005488 (binding)
+T1091	CL 25632 25638	oocyte
+#1091	AnnotatorNotes T1091	CL:0000023 (oocyte)
+T1092	GO_CC 25658 25669	cytoplasmic
+#1092	AnnotatorNotes T1092	GO:0005737 (cytoplasm)
+T1093	CHEBI 25670 25677	calcium
+#1093	AnnotatorNotes T1093	CHEBI:22984 (calcium)
+T1094	GO_BP 25697 25714	acrosome reaction
+#1094	AnnotatorNotes T1094	GO:0007340 (acrosome reaction)
+T1095	GO_CC 25697 25705	acrosome
+#1095	AnnotatorNotes T1095	GO:0001669 (acrosome)
+T1096	NCBITaxon 25774 25780	rodent
+#1096	AnnotatorNotes T1096	NCBITaxon:9989 (Rodentia)
+T1097	CL 25781 25786	sperm
+#1097	AnnotatorNotes T1097	CL:0000019 (sperm)
+T1098	CL 25796 25803	oocytes
+#1098	AnnotatorNotes T1098	CL:0000023 (oocyte)
+T1099	GO_BP 25842 25859	acrosome reaction
+#1099	AnnotatorNotes T1099	GO:0007340 (acrosome reaction)
+T1100	GO_CC 25842 25850	acrosome
+#1100	AnnotatorNotes T1100	GO:0001669 (acrosome)
+T1101	GO_BP 25889 25902	translocation
+#1101	AnnotatorNotes T1101	GO:0015031 (protein transport)
+T1102	GO_CC 25932 25940	membrane
+#1102	AnnotatorNotes T1102	GO:0016020 (membrane)
+T1103	CL 25944 25951	oocytes
+#1103	AnnotatorNotes T1103	CL:0000023 (oocyte)
+T1104	CL 26094 26100	oocyte
+#1104	AnnotatorNotes T1104	CL:0000023 (oocyte)
+T1105	GO_BP 26101 26108	meiotic
+#1105	AnnotatorNotes T1105	GO:0007126 (meiosis)
+T1106	GO_CC 26109 26116	spindle
+#1106	AnnotatorNotes T1106	GO:0005819 (spindle)
+T1107	GO_BP 26123 26136	fertilization
+#1107	AnnotatorNotes T1107	GO:0009566 (fertilization)
+T1108	GO_BP 26167 26189	chromosome segregation
+#1108	AnnotatorNotes T1108	GO:0007059 (chromosome segregation)
+T1109	GO_CC 26167 26177	chromosome
+#1109	AnnotatorNotes T1109	GO:0005694 (chromosome)
+T1110	SO 26167 26177	chromosome
+#1110	AnnotatorNotes T1110	SO:0000340 (chromosome)
+T1111	GO_BP 26220 26242	chromosome segregation
+#1111	AnnotatorNotes T1111	GO:0007059 (chromosome segregation)
+T1112	GO_CC 26220 26230	chromosome
+#1112	AnnotatorNotes T1112	GO:0005694 (chromosome)
+T1113	SO 26220 26230	chromosome
+#1113	AnnotatorNotes T1113	SO:0000340 (chromosome)
+T1114	GO_BP 26259 26265	lethal
+#1114	AnnotatorNotes T1114	GO:0016265 (death)
+T1115	GO_BP 26283 26304	embryonic development
+#1115	AnnotatorNotes T1115	GO:0009790 (embryonic development)
+T1116	italic 26339 26344	Capn4
+#1116	AnnotatorNotes T1116	italic (null)
+T1117	EntrezGene 26339 26344	Capn4
+#1117	AnnotatorNotes T1117	EG:12336
+T1118	PR 26339 26344	Capn4
+#1118	AnnotatorNotes T1118	PR:000005022 (calpain small subunit 1)
+T1119	sup 26344 26347	-/-
+#1119	AnnotatorNotes T1119	sup (null)
+T1120	CL 26359 26364	cells
+#1120	AnnotatorNotes T1120	CL:0000000 (cell)
+T1121	GO_CC 26359 26364	cells
+#1121	AnnotatorNotes T1121	GO:0005623 (cell)
+T1122	SO 26398 26404	allele
+#1122	AnnotatorNotes T1122	SO:0001023 (allele)
+T1123	GO_CC 26552 26560	spectrin
+#1123	AnnotatorNotes T1123	GO:0008091 (spectrin)
+T1124	GO_BP 26561 26570	breakdown
+#1124	AnnotatorNotes T1124	GO:0009056 (catabolic process)
+T1125	SO 26729 26735	mutant
+#1125	AnnotatorNotes T1125	SO:0001059 (sequence_alteration)
+T1126	italic 26736 26741	Capn4
+#1126	AnnotatorNotes T1126	italic (null)
+T1127	PR 26736 26741	Capn4
+#1127	AnnotatorNotes T1127	PR:000005022 (calpain small subunit 1)
+T1128	EntrezGene 26736 26741	Capn4
+#1128	AnnotatorNotes T1128	EG:12336
+T1129	SO 26742 26748	allele
+#1129	AnnotatorNotes T1129	SO:0001023 (allele)
+T1130	CL 26808 26813	cells
+#1130	AnnotatorNotes T1130	CL:0000000 (cell)
+T1131	GO_CC 26808 26813	cells
+#1131	AnnotatorNotes T1131	GO:0005623 (cell)
+T1132	CL 26874 26878	cell
+#1132	AnnotatorNotes T1132	CL:0000000 (cell)
+T1133	GO_CC 26874 26878	cell
+#1133	AnnotatorNotes T1133	GO:0005623 (cell)
+T1134	CL 26910 26914	cell
+#1134	AnnotatorNotes T1134	CL:0000000 (cell)
+T1135	GO_CC 26910 26914	cell
+#1135	AnnotatorNotes T1135	GO:0005623 (cell)
+T1136	CL 26956 26961	cells
+#1136	AnnotatorNotes T1136	CL:0000000 (cell)
+T1137	GO_CC 26956 26961	cells
+#1137	AnnotatorNotes T1137	GO:0005623 (cell)
+T1138	SO 26996 27000	gene
+#1138	AnnotatorNotes T1138	SO:0000704 (gene)
+T1139	italic 27015 27020	Capn2
+#1139	AnnotatorNotes T1139	italic (null)
+T1140	PR 27015 27020	Capn2
+#1140	AnnotatorNotes T1140	PR:000005015 (calpain-2 catalytic subunit)
+T1141	EntrezGene 27015 27020	Capn2
+#1141	AnnotatorNotes T1141	EG:12334
+T1142	sup 27020 27023	+/-
+#1142	AnnotatorNotes T1142	sup (null)
+T1143	SO 27020 27021	+
+#1143	AnnotatorNotes T1143	SO:0000817 (wild_type)
+T1144	italic 27027 27032	Capn2
+#1144	AnnotatorNotes T1144	italic (null)
+T1145	PR 27027 27032	Capn2
+#1145	AnnotatorNotes T1145	PR:000005015 (calpain-2 catalytic subunit)
+T1146	EntrezGene 27027 27032	Capn2
+#1146	AnnotatorNotes T1146	EG:12334
+T1147	sup 27032 27035	-/-
+#1147	AnnotatorNotes T1147	sup (null)
+T1148	CL 27039 27044	cells
+#1148	AnnotatorNotes T1148	CL:0000000 (cell)
+T1149	GO_CC 27039 27044	cells
+#1149	AnnotatorNotes T1149	GO:0005623 (cell)
+T1150	CL 27161 27165	cell
+#1150	AnnotatorNotes T1150	CL:0000000 (cell)
+T1151	GO_CC 27161 27165	cell
+#1151	AnnotatorNotes T1151	GO:0005623 (cell)
+T1152	CL 27202 27207	cells
+#1152	AnnotatorNotes T1152	CL:0000000 (cell)
+T1153	GO_CC 27202 27207	cells
+#1153	AnnotatorNotes T1153	GO:0005623 (cell)
+T1154	GO_BP 27234 27241	express
+#1154	AnnotatorNotes T1154	GO:0010467 (gene expression)
+T1155	EntrezGene 27246 27260	m-80 k subunit
+#1155	AnnotatorNotes T1155	EG:12334
+T1156	PR 27246 27260	m-80 k subunit
+#1156	AnnotatorNotes T1156	PR:000005015 (calpain-2 catalytic subunit)
+T1157	italic 27268 27273	Capn2
+#1157	AnnotatorNotes T1157	italic (null)
+T1158	EntrezGene 27268 27273	Capn2
+#1158	AnnotatorNotes T1158	EG:12334
+T1159	PR 27268 27273	Capn2
+#1159	AnnotatorNotes T1159	PR:000005015 (calpain-2 catalytic subunit)
+T1160	SO 27274 27278	cDNA
+#1160	AnnotatorNotes T1160	SO:0000756 (cDNA)
+T1161	SO 27279 27285	rescue
+#1161	AnnotatorNotes T1161	SO:0000814 (rescue)
+T1162	SO 27286 27295	transgene
+#1162	AnnotatorNotes T1162	SO:0000902 (transgene)
+T1163	SO 27305 27309	gene
+#1163	AnnotatorNotes T1163	SO:0000704 (gene)
+T1164	SO 27404 27413	wild-type
+#1164	AnnotatorNotes T1164	SO:0000817 (wild_type)
+T1165	SO 27414 27420	allele
+#1165	AnnotatorNotes T1165	SO:0001023 (allele)
+T1166	GO_BP 27470 27480	expression
+#1166	AnnotatorNotes T1166	GO:0010467 (gene expression)
+T1167	SO 27488 27494	rescue
+#1167	AnnotatorNotes T1167	SO:0000814 (rescue)
+T1168	SO 27495 27504	transgene
+#1168	AnnotatorNotes T1168	SO:0000902 (transgene)
+T1169	italic 27673 27678	Capn2
+#1169	AnnotatorNotes T1169	italic (null)
+T1170	PR 27673 27678	Capn2
+#1170	AnnotatorNotes T1170	PR:000005015 (calpain-2 catalytic subunit)
+T1171	EntrezGene 27673 27678	Capn2
+#1171	AnnotatorNotes T1171	EG:12334
+T1172	sup 27678 27681	+/+
+#1172	AnnotatorNotes T1172	sup (null)
+T1173	SO 27678 27679	+
+#1173	AnnotatorNotes T1173	SO:0000817 (wild_type)
+T1174	SO 27680 27681	+
+#1174	AnnotatorNotes T1174	SO:0000817 (wild_type)
+T1175	italic 27693 27698	Capn2
+#1175	AnnotatorNotes T1175	italic (null)
+T1176	PR 27693 27698	Capn2
+#1176	AnnotatorNotes T1176	PR:000005015 (calpain-2 catalytic subunit)
+T1177	EntrezGene 27693 27698	Capn2
+#1177	AnnotatorNotes T1177	EG:12334
+T1178	sup 27698 27701	+/-
+#1178	AnnotatorNotes T1178	sup (null)
+T1179	SO 27698 27699	+
+#1179	AnnotatorNotes T1179	SO:0000817 (wild_type)
+T1180	SO 27801 27810	wild-type
+#1180	AnnotatorNotes T1180	SO:0000817 (wild_type)
+T1181	NCBITaxon 27828 27832	mice
+#1181	AnnotatorNotes T1181	NCBITaxon:10088 (Mus)
+T1182	GO_BP 27838 27846	produced
+#1182	AnnotatorNotes T1182	GO:0000003 (reproduction)
+T1183	italic 27972 27977	Capn4
+#1183	AnnotatorNotes T1183	italic (null)
+T1184	PR 27972 27977	Capn4
+#1184	AnnotatorNotes T1184	PR:000005022 (calpain small subunit 1)
+T1185	EntrezGene 27972 27977	Capn4
+#1185	AnnotatorNotes T1185	EG:12336
+T1186	SO 27978 27988	transgenic
+#1186	AnnotatorNotes T1186	SO:0000902 (transgene)
+T1187	GO_BP 27994 28003	generated
+#1187	AnnotatorNotes T1187	GO:0000003 (reproduction)
+T1188	GO_BP 28032 28039	yielded
+#1188	AnnotatorNotes T1188	GO:0000003 (reproduction)
+T1189	SO 28118 28126	genotype
+#1189	AnnotatorNotes T1189	SO:0001027 (genotype)
+T1190	NCBITaxon 28159 28166	animals
+#1190	AnnotatorNotes T1190	NCBITaxon:33208 (Metazoa)
+T1191	SO 28179 28188	wild-type
+#1191	AnnotatorNotes T1191	SO:0000817 (wild_type)
+T1192	GO_BP 28294 28307	developmental
+#1192	AnnotatorNotes T1192	GO:0032502 (developmental process)
+T1193	GO_BP 28350 28360	expression
+#1193	AnnotatorNotes T1193	GO:0010467 (gene expression)
+T1194	SO 28566 28574	isoforms
+#1194	AnnotatorNotes T1194	SO:0001060 (sequence_variant)
+T1195	NCBITaxon 28667 28673	murine
+#1195	AnnotatorNotes T1195	NCBITaxon:39107 (Murinae)
+T1196	GO_BP 28674 28687	embryogenesis
+#1196	AnnotatorNotes T1196	GO:0009790 (embryonic development)
+T1197	GO_BP 28713 28725	implantation
+#1197	AnnotatorNotes T1197	GO:0007566 (embryo implantation)
+T1198	GO_BP 28726 28737	development
+#1198	AnnotatorNotes T1198	GO:0032502 (developmental process)
+T1199	italic 28822 28830	in vitro
+#1199	AnnotatorNotes T1199	italic (null)
+T1200	SO 28892 28900	isoforms
+#1200	AnnotatorNotes T1200	SO:0001060 (sequence_variant)
+T1201	italic 28934 28941	in vivo
+#1201	AnnotatorNotes T1201	italic (null)
+T1202	GO_BP 28982 28994	implantation
+#1202	AnnotatorNotes T1202	GO:0007566 (embryo implantation)
+T1203	GO_BP 28995 29008	embryogenesis
+#1203	AnnotatorNotes T1203	GO:0009790 (embryonic development)
+T1204	NCBITaxon 29022 29026	mice
+#1204	AnnotatorNotes T1204	NCBITaxon:10088 (Mus)
+T1205	SO 29101 29105	gene
+#1205	AnnotatorNotes T1205	SO:0000704 (gene)
+T1206	EntrezGene 29166 29177	mouse Capn2
+#1206	AnnotatorNotes T1206	EG:12334
+T1207	NCBITaxon 29166 29171	mouse
+#1207	AnnotatorNotes T1207	NCBITaxon:10088 (Mus)
+T1208	italic 29172 29177	Capn2
+#1208	AnnotatorNotes T1208	italic (null)
+T1209	PR 29172 29177	Capn2
+#1209	AnnotatorNotes T1209	PR:000005015 (calpain-2 catalytic subunit)
+T1210	SO 29178 29183	locus
+#1210	AnnotatorNotes T1210	SO:0000001 (region)
+T1211	EntrezGene 29189 29200	mouse Capn2
+#1211	AnnotatorNotes T1211	EG:12334
+T1212	NCBITaxon 29189 29194	mouse
+#1212	AnnotatorNotes T1212	NCBITaxon:10088 (Mus)
+T1213	italic 29195 29200	Capn2
+#1213	AnnotatorNotes T1213	italic (null)
+T1214	PR 29195 29200	Capn2
+#1214	AnnotatorNotes T1214	PR:000005015 (calpain-2 catalytic subunit)
+T1215	SO 29201 29205	gene
+#1215	AnnotatorNotes T1215	SO:0000704 (gene)
+T1216	CHEBI 29222 29233	amino acids
+#1216	AnnotatorNotes T1216	CHEBI:33708 (amino-acid residue)
+T1217	SO 29222 29233	amino acids
+#1217	AnnotatorNotes T1217	SO:0001237 (amino_acid)
+T1218	CHEBI 29222 29227	amino
+#1218	AnnotatorNotes T1218	CHEBI:32952 (amines)
+T1219	CHEBI 29222 29227	amino
+#1219	AnnotatorNotes T1219	CHEBI:46882 (amino group)
+T1220	CHEBI 29228 29233	acids
+#1220	AnnotatorNotes T1220	CHEBI:37527 (acid)
+T1221	EntrezGene 29241 29264	m-calpain large subunit
+#1221	AnnotatorNotes T1221	EG:12334
+T1222	PR 29241 29264	m-calpain large subunit
+#1222	AnnotatorNotes T1222	PR:000005015 (calpain-2 catalytic subunit)
+T1223	EntrezGene 29266 29272	m-80 k
+#1223	AnnotatorNotes T1223	EG:12334
+T1224	PR 29266 29272	m-80 k
+#1224	AnnotatorNotes T1224	PR:000005015 (calpain-2 catalytic subunit)
+T1225	SO 29293 29298	exons
+#1225	AnnotatorNotes T1225	SO:0000147 (exon)
+T1226	GO_CC 29323 29333	chromosome
+#1226	AnnotatorNotes T1226	GO:0005694 (chromosome)
+T1227	SO 29323 29333	chromosome
+#1227	AnnotatorNotes T1227	SO:0000340 (chromosome)
+T1228	SO 29339 29349	cDNA clone
+#1228	AnnotatorNotes T1228	SO:0000317 (cDNA_clone)
+T1229	SO 29361 29368	portion
+#1229	AnnotatorNotes T1229	SO:0000001 (region)
+T1230	EntrezGene 29376 29396	mouse m-80 k subunit
+#1230	AnnotatorNotes T1230	EG:12334
+T1231	NCBITaxon 29376 29381	mouse
+#1231	AnnotatorNotes T1231	NCBITaxon:10088 (Mus)
+T1232	PR 29382 29396	m-80 k subunit
+#1232	AnnotatorNotes T1232	PR:000005015 (calpain-2 catalytic subunit)
+T1233	SO 29503 29511	sequence
+#1233	AnnotatorNotes T1233	SO:0000001 (region)
+T1234	SO 29517 29525	position
+#1234	AnnotatorNotes T1234	SO:0000001 (region)
+T1235	SO 29537 29552	coding sequence
+#1235	AnnotatorNotes T1235	SO:0000316 (CDS)
+T1236	SO 29560 29570	stop codon
+#1236	AnnotatorNotes T1236	SO:0000319 (stop_codon)
+T1237	GO_BP 29560 29564	stop
+#1237	AnnotatorNotes T1237	GO:0006353 (transcription termination)
+T1238	GO_BP 29560 29564	stop
+#1238	AnnotatorNotes T1238	GO:0006415 (translational termination)
+T1239	SO 29574 29582	position
+#1239	AnnotatorNotes T1239	SO:0000001 (region)
+T1240	SO 29604 29610	3'-UTR
+#1240	AnnotatorNotes T1240	SO:0000204 (five_prime_UTR)
+T1241	SO 29618 29630	polyA signal
+#1241	AnnotatorNotes T1241	SO:0000551 (polyA_signal_sequence)
+T1242	SO 29618 29623	polyA
+#1242	AnnotatorNotes T1242	SO:0000610 (polyA_sequence)
+T1243	SO 29634 29642	fragment
+#1243	AnnotatorNotes T1243	SO:0000731 (fragmentary)
+T1244	SO 29651 29655	cDNA
+#1244	AnnotatorNotes T1244	SO:0000756 (cDNA)
+T1245	NCBITaxon 29697 29702	mouse
+#1245	AnnotatorNotes T1245	NCBITaxon:10088 (Mus)
+T1246	SO 29703 29710	genomic
+#1246	AnnotatorNotes T1246	SO:0001026 (genome)
+T1247	SO 29722 29723	λ
+#1247	AnnotatorNotes T1247	SO:0000754 (lambda_vector)
+T1248	SO 29733 29744	Overlapping
+#1248	AnnotatorNotes T1248	SO:0000068 (overlapping)
+T1249	SO 29745 29759	genomic clones
+#1249	AnnotatorNotes T1249	SO:0000040 (genomic_clone)
+T1250	SO 29745 29752	genomic
+#1250	AnnotatorNotes T1250	SO:0001026 (genome)
+T1251	SO 29790 29792	bp
+#1251	AnnotatorNotes T1251	SO:0000028 (base_pair)
+T1252	italic 29811 29814	Bam
+#1252	AnnotatorNotes T1252	italic (null)
+T1253	SO 29817 29831	site in intron
+#1253	AnnotatorNotes T1253	SO:0001014 (intron_domain)
+T1254	SO 29825 29831	intron
+#1254	AnnotatorNotes T1254	SO:0000188 (intron)
+T1255	italic 29839 29842	Bam
+#1255	AnnotatorNotes T1255	italic (null)
+T1256	SO 29845 29859	site in intron
+#1256	AnnotatorNotes T1256	SO:0001014 (intron_domain)
+T1257	SO 29853 29859	intron
+#1257	AnnotatorNotes T1257	SO:0000188 (intron)
+T1258	SO 29870 29876	clones
+#1258	AnnotatorNotes T1258	SO:0000151 (clone)
+T1259	SO 29911 29918	strands
+#1259	AnnotatorNotes T1259	SO:0000001 (region)
+T1260	SO 29998 30007	sequences
+#1260	AnnotatorNotes T1260	SO:0000001 (region)
+T1261	SO 30085 30089	gaps
+#1261	AnnotatorNotes T1261	SO:0000730 (gap)
+T1262	SO 30113 30123	repetitive
+#1262	AnnotatorNotes T1262	SO:0000657 (repeat_region)
+T1263	SO 30124 30133	sequences
+#1263	AnnotatorNotes T1263	SO:0000001 (region)
+T1264	GO_BP 30225 30237	Construction
+#1264	AnnotatorNotes T1264	GO:0009058 (biosynthetic process)
+T1265	italic 30245 30250	Capn2
+#1265	AnnotatorNotes T1265	italic (null)
+T1266	EntrezGene 30245 30250	Capn2
+#1266	AnnotatorNotes T1266	EG:12334
+T1267	PR 30245 30250	Capn2
+#1267	AnnotatorNotes T1267	PR:000005015 (calpain-2 catalytic subunit)
+T1268	SO 30261 30267	vector
+#1268	AnnotatorNotes T1268	SO:0000440 (vector_replicon)
+T1269	SO 30281 30290	construct
+#1269	AnnotatorNotes T1269	SO:0001037 (mobile_genetic_element)
+T1270	SO 30307 30314	replace
+#1270	AnnotatorNotes T1270	SO:0000048 (substitute)
+T1271	SO 30321 30323	bp
+#1271	AnnotatorNotes T1271	SO:0000028 (base_pair)
+T1272	italic 30324 30327	Bam
+#1272	AnnotatorNotes T1272	italic (null)
+T1273	italic 30330 30334	Hind
+#1273	AnnotatorNotes T1273	italic (null)
+T1274	SO 30338 30346	fragment
+#1274	AnnotatorNotes T1274	SO:0000731 (fragmentary)
+T1275	SO 30359 30363	exon
+#1275	AnnotatorNotes T1275	SO:0000147 (exon)
+T1276	italic 30373 30378	Capn2
+#1276	AnnotatorNotes T1276	italic (null)
+T1277	EntrezGene 30373 30378	Capn2
+#1277	AnnotatorNotes T1277	EG:12334
+T1278	PR 30373 30378	Capn2
+#1278	AnnotatorNotes T1278	PR:000005015 (calpain-2 catalytic subunit)
+T1279	SO 30379 30383	gene
+#1279	AnnotatorNotes T1279	SO:0000704 (gene)
+T1280	GO_MF 30394 30397	PGK
+#1280	AnnotatorNotes T1280	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T1281	independent_continuant 30394 30397	PGK
+#1281	AnnotatorNotes T1281	independent_continuant
+T1282	GO_MF 30394 30397	PGK
+#1282	AnnotatorNotes T1282	GO:0004618 (phosphoglycerate kinase activity)
+T1283	GO_MF 30398 30401	Neo
+#1283	AnnotatorNotes T1283	GO:0008910 (kanamycin kinase activity)
+T1284	independent_continuant 30398 30401	Neo
+#1284	AnnotatorNotes T1284	independent_continuant
+T1285	SO 30402 30410	cassette
+#1285	AnnotatorNotes T1285	SO:0005853 (gene_cassette)
+T1286	SO 30423 30427	Exon
+#1286	AnnotatorNotes T1286	SO:0000147 (exon)
+T1287	CHEBI 30441 30452	amino acids
+#1287	AnnotatorNotes T1287	CHEBI:33708 (amino-acid residue)
+T1288	SO 30441 30452	amino acids
+#1288	AnnotatorNotes T1288	SO:0001237 (amino_acid)
+T1289	CHEBI 30441 30446	amino
+#1289	AnnotatorNotes T1289	CHEBI:46882 (amino group)
+T1290	CHEBI 30441 30446	amino
+#1290	AnnotatorNotes T1290	CHEBI:32952 (amines)
+T1291	CHEBI 30447 30452	acids
+#1291	AnnotatorNotes T1291	CHEBI:37527 (acid)
+T1292	SO 30467 30478	site region
+#1292	AnnotatorNotes T1292	SO:0000001 (region)
+T1293	CHEBI 30525 30533	residues
+#1293	AnnotatorNotes T1293	CHEBI:33708 (amino-acid residue)
+T1294	SO 30525 30533	residues
+#1294	AnnotatorNotes T1294	SO:0001237 (amino_acid)
+T1295	SO 30577 30586	construct
+#1295	AnnotatorNotes T1295	SO:0001037 (mobile_genetic_element)
+T1296	italic 30612 30615	Hin
+#1296	AnnotatorNotes T1296	italic (null)
+T1297	italic 30620 30623	Bam
+#1297	AnnotatorNotes T1297	italic (null)
+T1298	SO 30626 30634	fragment
+#1298	AnnotatorNotes T1298	SO:0000731 (fragmentary)
+T1299	SO 30647 30652	exons
+#1299	AnnotatorNotes T1299	SO:0000147 (exon)
+T1300	SO 30672 30680	inserted
+#1300	AnnotatorNotes T1300	SO:0000046 (insert)
+T1301	SO 30695 30701	vector
+#1301	AnnotatorNotes T1301	SO:0000440 (vector_replicon)
+T1302	GO_MF 30718 30721	PGK
+#1302	AnnotatorNotes T1302	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T1303	GO_MF 30718 30721	PGK
+#1303	AnnotatorNotes T1303	GO:0004618 (phosphoglycerate kinase activity)
+T1304	independent_continuant 30718 30721	PGK
+#1304	AnnotatorNotes T1304	independent_continuant
+T1305	GO_MF 30722 30725	Neo
+#1305	AnnotatorNotes T1305	GO:0008910 (kanamycin kinase activity)
+T1306	independent_continuant 30722 30725	Neo
+#1306	AnnotatorNotes T1306	independent_continuant
+T1307	SO 30726 30734	cassette
+#1307	AnnotatorNotes T1307	SO:0005853 (gene_cassette)
+T1308	italic 30761 30764	Bam
+#1308	AnnotatorNotes T1308	italic (null)
+T1309	SO 30767 30771	site
+#1309	AnnotatorNotes T1309	SO:0000001 (region)
+T1310	SO 30807 30816	abolished
+#1310	AnnotatorNotes T1310	SO:0000045 (delete)
+T1311	SO 30822 30826	loss
+#1311	AnnotatorNotes T1311	SO:0000045 (delete)
+T1312	italic 30835 30838	Bam
+#1312	AnnotatorNotes T1312	italic (null)
+T1313	SO 30841 30845	site
+#1313	AnnotatorNotes T1313	SO:0000001 (region)
+T1314	SO 30853 30859	mutant
+#1314	AnnotatorNotes T1314	SO:0001059 (sequence_alteration)
+T1315	SO 30860 30866	allele
+#1315	AnnotatorNotes T1315	SO:0001023 (allele)
+T1316	SO 30885 30897	introduction
+#1316	AnnotatorNotes T1316	SO:0000046 (insert)
+T1317	italic 30907 30910	Bam
+#1317	AnnotatorNotes T1317	italic (null)
+T1318	SO 30913 30917	site
+#1318	AnnotatorNotes T1318	SO:0000001 (region)
+T1319	GO_MF 30939 30942	PGK
+#1319	AnnotatorNotes T1319	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T1320	independent_continuant 30939 30942	PGK
+#1320	AnnotatorNotes T1320	independent_continuant
+T1321	GO_MF 30939 30942	PGK
+#1321	AnnotatorNotes T1321	GO:0004618 (phosphoglycerate kinase activity)
+T1322	GO_MF 30943 30946	Neo
+#1322	AnnotatorNotes T1322	GO:0008910 (kanamycin kinase activity)
+T1323	independent_continuant 30943 30946	Neo
+#1323	AnnotatorNotes T1323	independent_continuant
+T1324	SO 30947 30955	cassette
+#1324	AnnotatorNotes T1324	SO:0005853 (gene_cassette)
+T1325	SO 30997 31006	wild-type
+#1325	AnnotatorNotes T1325	SO:0000817 (wild_type)
+T1326	SO 31011 31017	mutant
+#1326	AnnotatorNotes T1326	SO:0001059 (sequence_alteration)
+T1327	SO 31018 31025	alleles
+#1327	AnnotatorNotes T1327	SO:0001023 (allele)
+T1328	italic 31109 31113	Hind
+#1328	AnnotatorNotes T1328	italic (null)
+T1329	italic 31117 31120	Kpn
+#1329	AnnotatorNotes T1329	italic (null)
+T1330	SO 31122 31130	fragment
+#1330	AnnotatorNotes T1330	SO:0000731 (fragmentary)
+T1331	SO 31147 31153	intron
+#1331	AnnotatorNotes T1331	SO:0000188 (intron)
+T1332	SO 31159 31165	intron
+#1332	AnnotatorNotes T1332	SO:0000188 (intron)
+T1333	SO 31170 31178	inserted
+#1333	AnnotatorNotes T1333	SO:0000046 (insert)
+T1334	GO_MF 31191 31194	PGK
+#1334	AnnotatorNotes T1334	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T1335	independent_continuant 31191 31194	PGK
+#1335	AnnotatorNotes T1335	independent_continuant
+T1336	GO_MF 31191 31194	PGK
+#1336	AnnotatorNotes T1336	GO:0004618 (phosphoglycerate kinase activity)
+T1337	GO_MF 31195 31198	Neo
+#1337	AnnotatorNotes T1337	GO:0008910 (kanamycin kinase activity)
+T1338	independent_continuant 31195 31198	Neo
+#1338	AnnotatorNotes T1338	independent_continuant
+T1339	GO_MF 31203 31219	thymidine kinase
+#1339	AnnotatorNotes T1339	GO:0004797 (thymidine kinase activity)
+T1340	independent_continuant 31203 31219	thymidine kinase
+#1340	AnnotatorNotes T1340	independent_continuant
+T1341	CHEBI 31203 31212	thymidine
+#1341	AnnotatorNotes T1341	CHEBI:17748 (thymidine)
+T1342	italic 31220 31224	(tk)
+#1342	AnnotatorNotes T1342	italic (null)
+T1343	independent_continuant 31221 31223	tk
+#1343	AnnotatorNotes T1343	independent_continuant
+T1344	GO_MF 31221 31223	tk
+#1344	AnnotatorNotes T1344	GO:0004797 (thymidine kinase activity)
+T1345	SO 31225 31234	cassettes
+#1345	AnnotatorNotes T1345	SO:0005853 (gene_cassette)
+T1346	bold 31247 31305	Targeting strategy for disruption of the murine Capn2 gene
+#1346	AnnotatorNotes T1346	bold (null)
+T1347	NCBITaxon 31288 31294	murine
+#1347	AnnotatorNotes T1347	NCBITaxon:39107 (Murinae)
+T1348	italic 31295 31300	Capn2
+#1348	AnnotatorNotes T1348	italic (null)
+T1349	PR 31295 31300	Capn2
+#1349	AnnotatorNotes T1349	PR:000005015 (calpain-2 catalytic subunit)
+T1350	EntrezGene 31295 31300	Capn2
+#1350	AnnotatorNotes T1350	EG:12334
+T1351	SO 31301 31305	gene
+#1351	AnnotatorNotes T1351	SO:0000704 (gene)
+T1352	NCBITaxon 31311 31317	murine
+#1352	AnnotatorNotes T1352	NCBITaxon:39107 (Murinae)
+T1353	italic 31318 31323	Capn2
+#1353	AnnotatorNotes T1353	italic (null)
+T1354	PR 31318 31323	Capn2
+#1354	AnnotatorNotes T1354	PR:000005015 (calpain-2 catalytic subunit)
+T1355	EntrezGene 31318 31323	Capn2
+#1355	AnnotatorNotes T1355	EG:12334
+T1356	SO 31324 31328	gene
+#1356	AnnotatorNotes T1356	SO:0000704 (gene)
+T1357	EntrezGene 31343 31357	m-80 k subunit
+#1357	AnnotatorNotes T1357	EG:12334
+T1358	PR 31343 31357	m-80 k subunit
+#1358	AnnotatorNotes T1358	PR:000005015 (calpain-2 catalytic subunit)
+T1359	CL 31379 31384	cells
+#1359	AnnotatorNotes T1359	CL:0000000 (cell)
+T1360	GO_CC 31379 31384	cells
+#1360	AnnotatorNotes T1360	GO:0005623 (cell)
+T1361	GO_BP 31399 31412	recombination
+#1361	AnnotatorNotes T1361	GO:0006310 (DNA recombination)
+T1362	SO 31436 31445	wild-type
+#1362	AnnotatorNotes T1362	SO:0000817 (wild_type)
+T1363	SO 31446 31452	allele
+#1363	AnnotatorNotes T1363	SO:0001023 (allele)
+T1364	SO 31474 31480	vector
+#1364	AnnotatorNotes T1364	SO:0000440 (vector_replicon)
+T1365	SO 31499 31505	mutant
+#1365	AnnotatorNotes T1365	SO:0001059 (sequence_alteration)
+T1366	SO 31506 31512	allele
+#1366	AnnotatorNotes T1366	SO:0001023 (allele)
+T1367	SO 31543 31549	mutant
+#1367	AnnotatorNotes T1367	SO:0001059 (sequence_alteration)
+T1368	SO 31550 31556	allele
+#1368	AnnotatorNotes T1368	SO:0001023 (allele)
+T1369	GO_MF 31560 31563	PGK
+#1369	AnnotatorNotes T1369	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T1370	independent_continuant 31560 31563	PGK
+#1370	AnnotatorNotes T1370	independent_continuant
+T1371	GO_MF 31560 31563	PGK
+#1371	AnnotatorNotes T1371	GO:0004618 (phosphoglycerate kinase activity)
+T1372	GO_MF 31564 31567	Neo
+#1372	AnnotatorNotes T1372	GO:0008910 (kanamycin kinase activity)
+T1373	independent_continuant 31564 31567	Neo
+#1373	AnnotatorNotes T1373	independent_continuant
+T1374	SO 31568 31576	cassette
+#1374	AnnotatorNotes T1374	SO:0005853 (gene_cassette)
+T1375	SO 31577 31585	replaces
+#1375	AnnotatorNotes T1375	SO:0000048 (substitute)
+T1376	SO 31595 31602	genomic
+#1376	AnnotatorNotes T1376	SO:0001026 (genome)
+T1377	SO 31603 31611	fragment
+#1377	AnnotatorNotes T1377	SO:0000731 (fragmentary)
+T1378	SO 31623 31627	exon
+#1378	AnnotatorNotes T1378	SO:0000147 (exon)
+T1379	SO 31665 31676	active site
+#1379	AnnotatorNotes T1379	SO:0100019 (polypeptide_catalytic_motif)
+T1380	CHEBI 31677 31695	asparagine residue
+#1380	AnnotatorNotes T1380	CHEBI:32664 (asparagine residue)
+T1381	SO 31677 31695	asparagine residue
+#1381	AnnotatorNotes T1381	SO:0001449 (asparagine)
+T1382	CHEBI 31677 31687	asparagine
+#1382	AnnotatorNotes T1382	CHEBI:22653 (asparagine)
+T1383	SO 31722 31728	vector
+#1383	AnnotatorNotes T1383	SO:0000440 (vector_replicon)
+T1384	GO_MF 31734 31737	PGK
+#1384	AnnotatorNotes T1384	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T1385	GO_MF 31734 31737	PGK
+#1385	AnnotatorNotes T1385	GO:0004618 (phosphoglycerate kinase activity)
+T1386	independent_continuant 31734 31737	PGK
+#1386	AnnotatorNotes T1386	independent_continuant
+T1387	GO_MF 31738 31741	Neo
+#1387	AnnotatorNotes T1387	GO:0008910 (kanamycin kinase activity)
+T1388	independent_continuant 31738 31741	Neo
+#1388	AnnotatorNotes T1388	independent_continuant
+T1389	SO 31742 31750	cassette
+#1389	AnnotatorNotes T1389	SO:0005853 (gene_cassette)
+T1390	SO 31754 31761	flanked
+#1390	AnnotatorNotes T1390	SO:0000357 (flanked)
+T1391	italic 31775 31780	Capn2
+#1391	AnnotatorNotes T1391	italic (null)
+T1392	PR 31775 31780	Capn2
+#1392	AnnotatorNotes T1392	PR:000005015 (calpain-2 catalytic subunit)
+T1393	EntrezGene 31775 31780	Capn2
+#1393	AnnotatorNotes T1393	EG:12334
+T1394	SO 31792 31800	sequence
+#1394	AnnotatorNotes T1394	SO:0000001 (region)
+T1395	SO 31884 31889	probe
+#1395	AnnotatorNotes T1395	SO:0000051 (probe)
+T1396	italic 31952 31955	Bam
+#1396	AnnotatorNotes T1396	italic (null)
+T1397	SO 31958 31966	fragment
+#1397	AnnotatorNotes T1397	SO:0000731 (fragmentary)
+T1398	SO 31976 31985	wild-type
+#1398	AnnotatorNotes T1398	SO:0000817 (wild_type)
+T1399	SO 31986 31992	allele
+#1399	AnnotatorNotes T1399	SO:0001023 (allele)
+T1400	italic 32006 32009	Bam
+#1400	AnnotatorNotes T1400	italic (null)
+T1401	SO 32012 32020	fragment
+#1401	AnnotatorNotes T1401	SO:0000731 (fragmentary)
+T1402	SO 32030 32036	mutant
+#1402	AnnotatorNotes T1402	SO:0001059 (sequence_alteration)
+T1403	SO 32037 32043	allele
+#1403	AnnotatorNotes T1403	SO:0001023 (allele)
+T1404	SO 32045 32050	Exons
+#1404	AnnotatorNotes T1404	SO:0000147 (exon)
+T1405	SO 32103 32107	exon
+#1405	AnnotatorNotes T1405	SO:0000147 (exon)
+T1406	SO 32166 32171	probe
+#1406	AnnotatorNotes T1406	SO:0000051 (probe)
+T1407	SO 32276 32285	positions
+#1407	AnnotatorNotes T1407	SO:0000001 (region)
+T1408	SO 32293 32300	primers
+#1408	AnnotatorNotes T1408	SO:0000112 (primer)
+T1409	CL 32340 32344	cell
+#1409	AnnotatorNotes T1409	CL:0000000 (cell)
+T1410	GO_CC 32340 32344	cell
+#1410	AnnotatorNotes T1410	GO:0005623 (cell)
+T1411	GO_BP 32354 32366	transfection
+#1411	AnnotatorNotes T1411	GO:0009294 (DNA mediated transformation)
+T1412	CL 32413 32418	cells
+#1412	AnnotatorNotes T1412	CL:0000000 (cell)
+T1413	GO_CC 32413 32418	cells
+#1413	AnnotatorNotes T1413	GO:0005623 (cell)
+T1414	NCBITaxon 32487 32492	mouse
+#1414	AnnotatorNotes T1414	NCBITaxon:10088 (Mus)
+T1415	CL 32503 32514	fibroblasts
+#1415	AnnotatorNotes T1415	CL:0000057 (fibroblast)
+T1416	CHEBI 32532 32535	CO2
+#1416	AnnotatorNotes T1416	CHEBI:16526 (carbon dioxide)
+T1417	sub 32534 32535	2
+#1417	AnnotatorNotes T1417	sub (null)
+T1418	CL 32542 32546	cell
+#1418	AnnotatorNotes T1418	CL:0000000 (cell)
+T1419	GO_CC 32542 32546	cell
+#1419	AnnotatorNotes T1419	GO:0005623 (cell)
+T1420	CHEBI 32566 32573	glucose
+#1420	AnnotatorNotes T1420	CHEBI:17234 (glucose)
+T1421	NCBITaxon 32603 32609	bovine
+#1421	AnnotatorNotes T1421	NCBITaxon:27592 (Bovinae)
+T1422	CHEBI 32638 32649	amino acids
+#1422	AnnotatorNotes T1422	CHEBI:33709 (amino acids)
+T1423	SO 32638 32649	amino acids
+#1423	AnnotatorNotes T1423	SO:0001237 (amino_acid)
+T1424	CHEBI 32638 32643	amino
+#1424	AnnotatorNotes T1424	CHEBI:32952 (amines)
+T1425	CHEBI 32638 32643	amino
+#1425	AnnotatorNotes T1425	CHEBI:46882 (amino group)
+T1426	CHEBI 32656 32665	glutamine
+#1426	AnnotatorNotes T1426	CHEBI:28300 (glutamine)
+T1427	CHEBI 32672 32678	sodium
+#1427	AnnotatorNotes T1427	CHEBI:26708 (sodium)
+T1428	CHEBI 32679 32687	pyruvate
+#1428	AnnotatorNotes T1428	CHEBI:15361 (pyruvate)
+T1429	CHEBI 32696 32713	2-mercaptoethanol
+#1429	AnnotatorNotes T1429	CHEBI:41218 (mercaptoethanol)
+T1430	CHEBI 32724 32734	penicillin
+#1430	AnnotatorNotes T1430	CHEBI:17334 (penicillins)
+T1431	CHEBI 32746 32758	streptomycin
+#1431	AnnotatorNotes T1431	CHEBI:17076 (streptomycin)
+T1432	NCBITaxon 32826 32832	bovine
+#1432	AnnotatorNotes T1432	NCBITaxon:27592 (Bovinae)
+T1433	GO_BP 32924 32935	cell growth
+#1433	AnnotatorNotes T1433	GO:0016049 (cell growth)
+T1434	CL 32924 32928	cell
+#1434	AnnotatorNotes T1434	CL:0000000 (cell)
+T1435	GO_CC 32924 32928	cell
+#1435	AnnotatorNotes T1435	GO:0005623 (cell)
+T1436	CHEBI 33049 33057	reagents
+#1436	AnnotatorNotes T1436	CHEBI:33893 (reagent)
+T1437	SO 33094 33103	construct
+#1437	AnnotatorNotes T1437	SO:0001037 (mobile_genetic_element)
+T1438	italic 33122 33125	Not
+#1438	AnnotatorNotes T1438	italic (null)
+T1439	GO_BP 33127 33136	digestion
+#1439	AnnotatorNotes T1439	GO:0009056 (catabolic process)
+T1440	CL 33167 33172	cells
+#1440	AnnotatorNotes T1440	CL:0000000 (cell)
+T1441	GO_CC 33167 33172	cells
+#1441	AnnotatorNotes T1441	GO:0005623 (cell)
+T1442	CL 33174 33179	Cells
+#1442	AnnotatorNotes T1442	CL:0000000 (cell)
+T1443	GO_CC 33174 33179	Cells
+#1443	AnnotatorNotes T1443	GO:0005623 (cell)
+T1444	GO_BP 33243 33254	transformed
+#1444	AnnotatorNotes T1444	GO:0009294 (DNA mediated transformation)
+T1445	CHEBI 33375 33379	Drug
+#1445	AnnotatorNotes T1445	CHEBI:23888 (drug)
+T1446	GO_BP 33410 33418	expanded
+#1446	AnnotatorNotes T1446	GO:0008283 (cell proliferation)
+T1447	GO_BP 33511 33521	Generation
+#1447	AnnotatorNotes T1447	GO:0000003 (reproduction)
+T1448	NCBITaxon 33534 33538	mice
+#1448	AnnotatorNotes T1448	NCBITaxon:10088 (Mus)
+T1449	italic 33540 33545	Capn2
+#1449	AnnotatorNotes T1449	italic (null)
+T1450	PR 33540 33545	Capn2
+#1450	AnnotatorNotes T1450	PR:000005015 (calpain-2 catalytic subunit)
+T1451	EntrezGene 33540 33545	Capn2
+#1451	AnnotatorNotes T1451	EG:12334
+T1452	sup 33545 33548	+/-
+#1452	AnnotatorNotes T1452	sup (null)
+T1453	SO 33545 33546	+
+#1453	AnnotatorNotes T1453	SO:0000817 (wild_type)
+T1454	CL 33552 33557	cells
+#1454	AnnotatorNotes T1454	CL:0000000 (cell)
+T1455	GO_CC 33552 33557	cells
+#1455	AnnotatorNotes T1455	GO:0005623 (cell)
+T1456	CL 33591 33595	cell
+#1456	AnnotatorNotes T1456	CL:0000000 (cell)
+T1457	GO_CC 33591 33595	cell
+#1457	AnnotatorNotes T1457	GO:0005623 (cell)
+T1458	GO_BP 33623 33630	matings
+#1458	AnnotatorNotes T1458	GO:0007618 (mating)
+T1459	NCBITaxon 33748 33755	animals
+#1459	AnnotatorNotes T1459	NCBITaxon:33208 (Metazoa)
+T1460	GO_BP 33777 33782	birth
+#1460	AnnotatorNotes T1460	GO:0007567 (parturition)
+T1461	GO_BP 33792 33808	eye pigmentation
+#1461	AnnotatorNotes T1461	GO:0048069 (eye pigmentation)
+T1462	GO_BP 33880 33884	bred
+#1462	AnnotatorNotes T1462	GO:0007618 (mating)
+T1463	GO_BP 33976 33980	bred
+#1463	AnnotatorNotes T1463	GO:0007618 (mating)
+T1464	SO 34018 34026	mutation
+#1464	AnnotatorNotes T1464	SO:0001059 (sequence_alteration)
+T1465	SO 34040 34047	genetic
+#1465	AnnotatorNotes T1465	SO:0000704 (gene)
+T1466	NCBITaxon 34060 34065	Mouse
+#1466	AnnotatorNotes T1466	NCBITaxon:10088 (Mus)
+T1467	NCBITaxon 34116 34122	Animal
+#1467	AnnotatorNotes T1467	NCBITaxon:33208 (Metazoa)
+T1468	NCBITaxon 34193 34199	Animal
+#1468	AnnotatorNotes T1468	NCBITaxon:33208 (Metazoa)
+T1469	SO 34309 34317	genotype
+#1469	AnnotatorNotes T1469	SO:0001027 (genotype)
+T1470	italic 34325 34330	Capn2
+#1470	AnnotatorNotes T1470	italic (null)
+T1471	PR 34325 34330	Capn2
+#1471	AnnotatorNotes T1471	PR:000005015 (calpain-2 catalytic subunit)
+T1472	EntrezGene 34325 34330	Capn2
+#1472	AnnotatorNotes T1472	EG:12334
+T1473	SO 34331 34336	locus
+#1473	AnnotatorNotes T1473	SO:0000001 (region)
+T1474	CHEBI 34382 34393	digoxigenin
+#1474	AnnotatorNotes T1474	CHEBI:42098 (digoxigenin)
+T1475	CHEBI 34395 34398	DIG
+#1475	AnnotatorNotes T1475	CHEBI:42098 (digoxigenin)
+T1476	italic 34475 34478	Bam
+#1476	AnnotatorNotes T1476	italic (null)
+T1477	GO_BP 34481 34489	digested
+#1477	AnnotatorNotes T1477	GO:0009056 (catabolic process)
+T1478	SO 34490 34501	genomic DNA
+#1478	AnnotatorNotes T1478	SO:0000991 (genomic_DNA)
+T1479	SO 34490 34497	genomic
+#1479	AnnotatorNotes T1479	SO:0001026 (genome)
+T1480	GO_MF 34506 34516	hybridized
+#1480	AnnotatorNotes T1480	GO:0033592 (RNA strand annealing activity)
+T1481	GO_MF 34506 34516	hybridized
+#1481	AnnotatorNotes T1481	GO:0000739 (DNA strand annealing activity)
+T1482	CHEBI 34524 34527	DIG
+#1482	AnnotatorNotes T1482	CHEBI:42098 (digoxigenin)
+T1483	SO 34540 34542	bp
+#1483	AnnotatorNotes T1483	SO:0000028 (base_pair)
+T1484	SO 34543 34547	exon
+#1484	AnnotatorNotes T1484	SO:0000147 (exon)
+T1485	italic 34561 34564	Bam
+#1485	AnnotatorNotes T1485	italic (null)
+T1486	italic 34567 34571	Hind
+#1486	AnnotatorNotes T1486	italic (null)
+T1487	SO 34575 34583	fragment
+#1487	AnnotatorNotes T1487	SO:0000731 (fragmentary)
+T1488	SO 34660 34662	bp
+#1488	AnnotatorNotes T1488	SO:0000028 (base_pair)
+T1489	italic 34663 34666	Pst
+#1489	AnnotatorNotes T1489	italic (null)
+T1490	italic 34668 34671	Xba
+#1490	AnnotatorNotes T1490	italic (null)
+T1491	SO 34673 34681	fragment
+#1491	AnnotatorNotes T1491	SO:0000731 (fragmentary)
+T1492	GO_MF 34691 34694	PGK
+#1492	AnnotatorNotes T1492	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T1493	independent_continuant 34691 34694	PGK
+#1493	AnnotatorNotes T1493	independent_continuant
+T1494	GO_MF 34691 34694	PGK
+#1494	AnnotatorNotes T1494	GO:0004618 (phosphoglycerate kinase activity)
+T1495	GO_MF 34695 34698	Neo
+#1495	AnnotatorNotes T1495	GO:0008910 (kanamycin kinase activity)
+T1496	independent_continuant 34695 34698	Neo
+#1496	AnnotatorNotes T1496	independent_continuant
+T1497	SO 34699 34707	cassette
+#1497	AnnotatorNotes T1497	SO:0005853 (gene_cassette)
+T1498	SO 34774 34791	integration event
+#1498	AnnotatorNotes T1498	SO:0000046 (insert)
+T1499	SO 34864 34875	genomic DNA
+#1499	AnnotatorNotes T1499	SO:0000991 (genomic_DNA)
+T1500	SO 34864 34871	genomic
+#1500	AnnotatorNotes T1500	SO:0001026 (genome)
+T1501	SO 34881 34890	sequences
+#1501	AnnotatorNotes T1501	SO:0000001 (region)
+T1502	SO 34898 34913	oligonucleotide
+#1502	AnnotatorNotes T1502	SO:0000696 (oligo)
+T1503	SO 34914 34921	primers
+#1503	AnnotatorNotes T1503	SO:0000112 (primer)
+T1504	CL 35005 35010	cells
+#1504	AnnotatorNotes T1504	CL:0000000 (cell)
+T1505	GO_CC 35005 35010	cells
+#1505	AnnotatorNotes T1505	GO:0005623 (cell)
+T1506	GO_BP 35033 35045	implantation
+#1506	AnnotatorNotes T1506	GO:0007566 (embryo implantation)
+T1507	SO 35088 35090	bp
+#1507	AnnotatorNotes T1507	SO:0000028 (base_pair)
+T1508	SO 35091 35098	segment
+#1508	AnnotatorNotes T1508	SO:0000001 (region)
+T1509	SO 35106 35115	wild-type
+#1509	AnnotatorNotes T1509	SO:0000817 (wild_type)
+T1510	SO 35116 35122	allele
+#1510	AnnotatorNotes T1510	SO:0001023 (allele)
+T1511	SO 35135 35137	bp
+#1511	AnnotatorNotes T1511	SO:0000028 (base_pair)
+T1512	SO 35138 35145	segment
+#1512	AnnotatorNotes T1512	SO:0000001 (region)
+T1513	SO 35153 35159	mutant
+#1513	AnnotatorNotes T1513	SO:0001059 (sequence_alteration)
+T1514	SO 35160 35166	allele
+#1514	AnnotatorNotes T1514	SO:0001023 (allele)
+T1515	SO 35220 35226	intron
+#1515	AnnotatorNotes T1515	SO:0000188 (intron)
+T1516	SO 35236 35242	primer
+#1516	AnnotatorNotes T1516	SO:0000112 (primer)
+T1517	SO 35300 35309	antisense
+#1517	AnnotatorNotes T1517	SO:0000077 (antisense)
+T1518	SO 35310 35317	primers
+#1518	AnnotatorNotes T1518	SO:0000112 (primer)
+T1519	GO_MF 35324 35334	hybridized
+#1519	AnnotatorNotes T1519	GO:0000739 (DNA strand annealing activity)
+T1520	GO_MF 35324 35334	hybridized
+#1520	AnnotatorNotes T1520	GO:0033592 (RNA strand annealing activity)
+T1521	SO 35345 35354	wild-type
+#1521	AnnotatorNotes T1521	SO:0000817 (wild_type)
+T1522	SO 35356 35360	exon
+#1522	AnnotatorNotes T1522	SO:0000147 (exon)
+T1523	SO 35367 35392	mutant (PGK-Neo) sequence
+#1523	AnnotatorNotes T1523	"mutant .. sequence" SO:0001060 (sequence_variant)
+T1524	SO 35367 35373	mutant
+#1524	AnnotatorNotes T1524	SO:0001059 (sequence_alteration)
+T1525	GO_MF 35375 35378	PGK
+#1525	AnnotatorNotes T1525	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T1526	independent_continuant 35375 35378	PGK
+#1526	AnnotatorNotes T1526	independent_continuant
+T1527	GO_MF 35375 35378	PGK
+#1527	AnnotatorNotes T1527	GO:0004618 (phosphoglycerate kinase activity)
+T1528	GO_MF 35379 35382	Neo
+#1528	AnnotatorNotes T1528	GO:0008910 (kanamycin kinase activity)
+T1529	independent_continuant 35379 35382	Neo
+#1529	AnnotatorNotes T1529	independent_continuant
+T1530	GO_BP 35464 35476	denaturation
+#1530	AnnotatorNotes T1530	GO:0032508 (DNA duplex unwinding)
+T1531	GO_BP 35515 35527	denaturation
+#1531	AnnotatorNotes T1531	GO:0032508 (DNA duplex unwinding)
+T1532	GO_MF 35548 35557	annealing
+#1532	AnnotatorNotes T1532	GO:0033592 (RNA strand annealing activity)
+T1533	GO_MF 35548 35557	annealing
+#1533	AnnotatorNotes T1533	GO:0000739 (DNA strand annealing activity)
+T1534	GO_BP 35582 35591	extension
+#1534	AnnotatorNotes T1534	GO:0006354 (RNA elongation)
+T1535	GO_BP 35582 35591	extension
+#1535	AnnotatorNotes T1535	GO:0022616 (DNA strand elongation)
+T1536	GO_BP 35625 35634	extension
+#1536	AnnotatorNotes T1536	GO:0006354 (RNA elongation)
+T1537	GO_BP 35625 35634	extension
+#1537	AnnotatorNotes T1537	GO:0022616 (DNA strand elongation)
+T1538	SO 35651 35666	Oligonucleotide
+#1538	AnnotatorNotes T1538	SO:0000696 (oligo)
+T1539	SO 35667 35674	primers
+#1539	AnnotatorNotes T1539	SO:0000112 (primer)
+T1540	italic 35696 35701	Capn2
+#1540	AnnotatorNotes T1540	italic (null)
+T1541	PR 35696 35701	Capn2
+#1541	AnnotatorNotes T1541	PR:000005015 (calpain-2 catalytic subunit)
+T1542	EntrezGene 35696 35701	Capn2
+#1542	AnnotatorNotes T1542	EG:12334
+T1543	SO 35702 35707	locus
+#1543	AnnotatorNotes T1543	SO:0000001 (region)
+T1544	SO 35738 35745	genetic
+#1544	AnnotatorNotes T1544	SO:0000704 (gene)
+T1545	GO_BP 35772 35784	implantation
+#1545	AnnotatorNotes T1545	GO:0007566 (embryo implantation)
+T1546	GO_BP 35908 35916	digested
+#1546	AnnotatorNotes T1546	GO:0009056 (catabolic process)
+T1547	GO_MF 35929 35939	proteinase
+#1547	AnnotatorNotes T1547	GO:0008233 (peptidase activity)
+T1548	independent_continuant 35929 35939	proteinase
+#1548	AnnotatorNotes T1548	independent_continuant
+T1549	SO 36055 36064	wild-type
+#1549	AnnotatorNotes T1549	SO:0000817 (wild_type)
+T1550	SO 36065 36071	allele
+#1550	AnnotatorNotes T1550	SO:0001023 (allele)
+T1551	SO 36124 36130	mutant
+#1551	AnnotatorNotes T1551	SO:0001059 (sequence_alteration)
+T1552	SO 36131 36137	allele
+#1552	AnnotatorNotes T1552	SO:0001023 (allele)
+T1553	SO 36198 36207	wild-type
+#1553	AnnotatorNotes T1553	SO:0000817 (wild_type)
+T1554	SO 36208 36214	allele
+#1554	AnnotatorNotes T1554	SO:0001023 (allele)
+T1555	SO 36277 36283	intron
+#1555	AnnotatorNotes T1555	SO:0000188 (intron)
+T1556	SO 36292 36298	primer
+#1556	AnnotatorNotes T1556	SO:0000112 (primer)
+T1557	SO 36306 36315	antisense
+#1557	AnnotatorNotes T1557	SO:0000077 (antisense)
+T1558	SO 36316 36322	primer
+#1558	AnnotatorNotes T1558	SO:0000112 (primer)
+T1559	SO 36334 36340	intron
+#1559	AnnotatorNotes T1559	SO:0000188 (intron)
+T1560	SO 36441 36447	intron
+#1560	AnnotatorNotes T1560	SO:0000188 (intron)
+T1561	SO 36456 36462	primer
+#1561	AnnotatorNotes T1561	SO:0000112 (primer)
+T1562	SO 36470 36479	antisense
+#1562	AnnotatorNotes T1562	SO:0000077 (antisense)
+T1563	SO 36480 36486	primer
+#1563	AnnotatorNotes T1563	SO:0000112 (primer)
+T1564	SO 36490 36494	exon
+#1564	AnnotatorNotes T1564	SO:0000147 (exon)
+T1565	SO 36530 36536	mutant
+#1565	AnnotatorNotes T1565	SO:0001059 (sequence_alteration)
+T1566	SO 36537 36543	allele
+#1566	AnnotatorNotes T1566	SO:0001023 (allele)
+T1567	SO 36581 36587	primer
+#1567	AnnotatorNotes T1567	SO:0000112 (primer)
+T1568	SO 36610 36616	intron
+#1568	AnnotatorNotes T1568	SO:0000188 (intron)
+T1569	SO 36625 36631	primer
+#1569	AnnotatorNotes T1569	SO:0000112 (primer)
+T1570	SO 36639 36648	antisense
+#1570	AnnotatorNotes T1570	SO:0000077 (antisense)
+T1571	SO 36649 36655	primer
+#1571	AnnotatorNotes T1571	SO:0000112 (primer)
+T1572	GO_MF 36663 36666	PGK
+#1572	AnnotatorNotes T1572	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T1573	GO_MF 36663 36666	PGK
+#1573	AnnotatorNotes T1573	GO:0004618 (phosphoglycerate kinase activity)
+T1574	independent_continuant 36663 36666	PGK
+#1574	AnnotatorNotes T1574	independent_continuant
+T1575	GO_MF 36667 36670	Neo
+#1575	AnnotatorNotes T1575	GO:0008910 (kanamycin kinase activity)
+T1576	independent_continuant 36667 36670	Neo
+#1576	AnnotatorNotes T1576	independent_continuant
+T1577	SO 36671 36679	cassette
+#1577	AnnotatorNotes T1577	SO:0005853 (gene_cassette)
+T1578	SO 36692 36698	primer
+#1578	AnnotatorNotes T1578	SO:0000112 (primer)
+T1579	SO 36732 36738	intron
+#1579	AnnotatorNotes T1579	SO:0000188 (intron)
+T1580	SO 36747 36753	primer
+#1580	AnnotatorNotes T1580	SO:0000112 (primer)
+T1581	SO 36761 36770	antisense
+#1581	AnnotatorNotes T1581	SO:0000077 (antisense)
+T1582	SO 36771 36777	primer
+#1582	AnnotatorNotes T1582	SO:0000112 (primer)
+T1583	GO_MF 36802 36805	PGK
+#1583	AnnotatorNotes T1583	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T1584	independent_continuant 36802 36805	PGK
+#1584	AnnotatorNotes T1584	independent_continuant
+T1585	GO_MF 36802 36805	PGK
+#1585	AnnotatorNotes T1585	GO:0004618 (phosphoglycerate kinase activity)
+T1586	GO_MF 36806 36809	Neo
+#1586	AnnotatorNotes T1586	GO:0008910 (kanamycin kinase activity)
+T1587	independent_continuant 36806 36809	Neo
+#1587	AnnotatorNotes T1587	independent_continuant
+T1588	SO 36810 36818	sequence
+#1588	AnnotatorNotes T1588	SO:0000001 (region)
+T1589	SO 36866 36875	sequences
+#1589	AnnotatorNotes T1589	SO:0000001 (region)
+T1590	SO 36900 36907	primers
+#1590	AnnotatorNotes T1590	SO:0000112 (primer)
+T1591	SO 37024 37032	designed
+#1591	AnnotatorNotes T1591	SO:0000546 (designed_sequence)
+T1592	SO 37046 37060	genomic region
+#1592	AnnotatorNotes T1592	SO:0000991 (genomic_DNA)
+T1593	SO 37046 37053	genomic
+#1593	AnnotatorNotes T1593	SO:0001026 (genome)
+T1594	SO 37099 37105	vector
+#1594	AnnotatorNotes T1594	SO:0000440 (vector_replicon)
+T1595	SO 37136 37145	wild-type
+#1595	AnnotatorNotes T1595	SO:0000817 (wild_type)
+T1596	SO 37150 37156	mutant
+#1596	AnnotatorNotes T1596	SO:0001059 (sequence_alteration)
+T1597	SO 37157 37164	alleles
+#1597	AnnotatorNotes T1597	SO:0001023 (allele)
+T1598	SO 37176 37182	primer
+#1598	AnnotatorNotes T1598	SO:0000112 (primer)
+T1599	SO 37225 37231	intron
+#1599	AnnotatorNotes T1599	SO:0000188 (intron)
+T1600	SO 37240 37246	primer
+#1600	AnnotatorNotes T1600	SO:0000112 (primer)
+T1601	SO 37254 37260	intron
+#1601	AnnotatorNotes T1601	SO:0000188 (intron)
+T1602	SO 37263 37272	antisense
+#1602	AnnotatorNotes T1602	SO:0000077 (antisense)
+T1603	SO 37273 37279	primer
+#1603	AnnotatorNotes T1603	SO:0000112 (primer)
+T1604	SO 37292 37298	primer
+#1604	AnnotatorNotes T1604	SO:0000112 (primer)
+T1605	SO 37317 37321	exon
+#1605	AnnotatorNotes T1605	SO:0000147 (exon)
+T1606	SO 37330 37336	primer
+#1606	AnnotatorNotes T1606	SO:0000112 (primer)
+T1607	SO 37350 37356	intron
+#1607	AnnotatorNotes T1607	SO:0000188 (intron)
+T1608	SO 37359 37368	antisense
+#1608	AnnotatorNotes T1608	SO:0000077 (antisense)
+T1609	SO 37369 37375	primer
+#1609	AnnotatorNotes T1609	SO:0000112 (primer)
+T1610	SO 37387 37395	products
+#1610	AnnotatorNotes T1610	SO:0000006 (PCR_product)
+T1611	SO 37405 37407	bp
+#1611	AnnotatorNotes T1611	SO:0000028 (base_pair)
+T1612	SO 37433 37435	bp
+#1612	AnnotatorNotes T1612	SO:0000028 (base_pair)
+T1613	independent_continuant 37444 37453	wild-type
+#1613	AnnotatorNotes T1613	independent_continuant
+T1614	SO 37444 37453	wild-type
+#1614	AnnotatorNotes T1614	SO:0000817 (wild_type)
+T1615	SO 37467 37469	bp
+#1615	AnnotatorNotes T1615	SO:0000028 (base_pair)
+T1616	SO 37478 37484	mutant
+#1616	AnnotatorNotes T1616	SO:0001060 (sequence_variant)
+T1617	independent_continuant 37478 37484	mutant
+#1617	AnnotatorNotes T1617	independent_continuant
+T1618	GO_BP 37585 37597	denaturation
+#1618	AnnotatorNotes T1618	GO:0032508 (DNA duplex unwinding)
+T1619	GO_BP 37631 37643	denaturation
+#1619	AnnotatorNotes T1619	GO:0032508 (DNA duplex unwinding)
+T1620	GO_MF 37664 37673	annealing
+#1620	AnnotatorNotes T1620	GO:0033592 (RNA strand annealing activity)
+T1621	GO_MF 37664 37673	annealing
+#1621	AnnotatorNotes T1621	GO:0000739 (DNA strand annealing activity)
+T1622	GO_BP 37698 37707	extension
+#1622	AnnotatorNotes T1622	GO:0006354 (RNA elongation)
+T1623	GO_BP 37698 37707	extension
+#1623	AnnotatorNotes T1623	GO:0022616 (DNA strand elongation)
+T1624	GO_BP 37730 37739	extension
+#1624	AnnotatorNotes T1624	GO:0006354 (RNA elongation)
+T1625	GO_BP 37730 37739	extension
+#1625	AnnotatorNotes T1625	GO:0022616 (DNA strand elongation)
+T1626	GO_BP 37779 37791	implantation
+#1626	AnnotatorNotes T1626	GO:0007566 (embryo implantation)
+T1627	GO_BP 37809 37822	fertilization
+#1627	AnnotatorNotes T1627	GO:0009566 (fertilization)
+T1628	GO_BP 37856 37866	copulation
+#1628	AnnotatorNotes T1628	GO:0007620 (copulation)
+T1629	GO_BP 37920 37932	implantation
+#1629	AnnotatorNotes T1629	GO:0007566 (embryo implantation)
+T1630	GO_BP 37986 37994	pregnant
+#1630	AnnotatorNotes T1630	GO:0007565 (female pregnancy)
+T1631	CL 38053 38057	cell
+#1631	AnnotatorNotes T1631	CL:0000000 (cell)
+T1632	GO_CC 38053 38057	cell
+#1632	AnnotatorNotes T1632	GO:0005623 (cell)
+T1633	GO_BP 38093 38101	digested
+#1633	AnnotatorNotes T1633	GO:0009056 (catabolic process)
+T1634	GO_BP 38137 38142	lysis
+#1634	AnnotatorNotes T1634	GO:0019835 (cytolysis)
+T1635	CHEBI 38157 38161	Tris
+#1635	AnnotatorNotes T1635	CHEBI:9754 (tris)
+T1636	CHEBI 38162 38165	HCl
+#1636	AnnotatorNotes T1636	CHEBI:17883 (hydrogen chloride)
+T1637	CHEBI 38162 38165	HCl
+#1637	AnnotatorNotes T1637	CHEBI:36807 (hydrochlorides)
+T1638	independent_continuant 38196 38206	proteinase
+#1638	AnnotatorNotes T1638	independent_continuant
+T1639	GO_MF 38196 38206	proteinase
+#1639	AnnotatorNotes T1639	GO:0008233 (peptidase activity)
+T1640	GO_MF 38269 38279	proteinase
+#1640	AnnotatorNotes T1640	GO:0008233 (peptidase activity)
+T1641	independent_continuant 38269 38279	proteinase
+#1641	AnnotatorNotes T1641	independent_continuant
+T1642	PR 38350 38353	EGF
+#1642	AnnotatorNotes T1642	PR:000006928 (pro-epidermal growth factor)
+T1643	PR 38355 38378	Epidermal growth factor
+#1643	AnnotatorNotes T1643	PR:000006928 (pro-epidermal growth factor)
+T1644	GO_MF 38365 38378	growth factor
+#1644	AnnotatorNotes T1644	GO:0008083 (growth factor activity)
+T1645	independent_continuant 38365 38378	growth factor
+#1645	AnnotatorNotes T1645	independent_continuant
+T1646	GO_BP 38365 38371	growth
+#1646	AnnotatorNotes T1646	GO:0040007 (growth)
+T1647	NCBITaxon 38405 38410	Mouse
+#1647	AnnotatorNotes T1647	NCBITaxon:10088 (Mus)
+T1648	CL 38421 38431	fibroblast
+#1648	AnnotatorNotes T1648	CL:0000057 (fibroblast)
+T1649	SO 38464 38466	bp
+#1649	AnnotatorNotes T1649	SO:0000028 (base_pair)
+T1650	SO 38468 38477	base pair
+#1650	AnnotatorNotes T1650	SO:0000028 (base_pair)
+T1651	SO 38468 38472	base
+#1651	AnnotatorNotes T1651	SO:0001236 (base)
+T1652	GO_BP 38507 38516	generated
+#1652	AnnotatorNotes T1652	GO:0009058 (biosynthetic process)
+T1653	EntrezGene 38521 38526	Capn2
+#1653	AnnotatorNotes T1653	EG:12334
+T1654	PR 38521 38526	Capn2
+#1654	AnnotatorNotes T1654	PR:000005015 (calpain-2 catalytic subunit)
+T1655	SO 38537 38546	construct
+#1655	AnnotatorNotes T1655	SO:0001037 (mobile_genetic_element)
+T1656	GO_BP 38665 38674	establish
+#1656	AnnotatorNotes T1656	GO:0000003 (reproduction)
+T1657	NCBITaxon 38693 38700	animals
+#1657	AnnotatorNotes T1657	NCBITaxon:33208 (Metazoa)
+T1658	GO_BP 38706 38717	established
+#1658	AnnotatorNotes T1658	GO:0000003 (reproduction)
+T1659	NCBITaxon 38746 38751	mouse
+#1659	AnnotatorNotes T1659	NCBITaxon:10088 (Mus)
+T1660	bold 38937 38991	Genotyping of weanlings from heterozygote intercrosses
+#1660	AnnotatorNotes T1660	bold (null)
+T1661	italic 39068 39073	Capn2
+#1661	AnnotatorNotes T1661	italic (null)
+T1662	EntrezGene 39068 39073	Capn2
+#1662	AnnotatorNotes T1662	EG:12334
+T1663	PR 39068 39073	Capn2
+#1663	AnnotatorNotes T1663	PR:000005015 (calpain-2 catalytic subunit)
+T1664	sup 39073 39076	+/-
+#1664	AnnotatorNotes T1664	sup (null)
+T1665	SO 39073 39074	+
+#1665	AnnotatorNotes T1665	SO:0000817 (wild_type)
+T1666	SO 39098 39109	Genomic DNA
+#1666	AnnotatorNotes T1666	SO:0000991 (genomic_DNA)
+T1667	SO 39098 39105	Genomic
+#1667	AnnotatorNotes T1667	SO:0001026 (genome)
+T1668	NCBITaxon 39129 39134	mouse
+#1668	AnnotatorNotes T1668	NCBITaxon:10088 (Mus)
+T1669	italic 39255 39258	Bam
+#1669	AnnotatorNotes T1669	italic (null)
+T1670	SO 39261 39269	fragment
+#1670	AnnotatorNotes T1670	SO:0000731 (fragmentary)
+T1671	SO 39279 39288	wild-type
+#1671	AnnotatorNotes T1671	SO:0000817 (wild_type)
+T1672	SO 39289 39295	allele
+#1672	AnnotatorNotes T1672	SO:0001023 (allele)
+T1673	NCBITaxon 39316 39323	animals
+#1673	AnnotatorNotes T1673	NCBITaxon:33208 (Metazoa)
+T1674	italic 39339 39342	Bam
+#1674	AnnotatorNotes T1674	italic (null)
+T1675	SO 39345 39353	fragment
+#1675	AnnotatorNotes T1675	SO:0000731 (fragmentary)
+T1676	SO 39363 39369	mutant
+#1676	AnnotatorNotes T1676	SO:0001059 (sequence_alteration)
+T1677	SO 39370 39376	allele
+#1677	AnnotatorNotes T1677	SO:0001023 (allele)
+T1678	italic 39417 39422	Capn2
+#1678	AnnotatorNotes T1678	italic (null)
+T1679	PR 39417 39422	Capn2
+#1679	AnnotatorNotes T1679	PR:000005015 (calpain-2 catalytic subunit)
+T1680	EntrezGene 39417 39422	Capn2
+#1680	AnnotatorNotes T1680	EG:12334
+T1681	sup 39422 39425	-/-
+#1681	AnnotatorNotes T1681	sup (null)
+T1682	GO_BP 39474 39486	implantation
+#1682	AnnotatorNotes T1682	GO:0007566 (embryo implantation)
+T1683	italic 39567 39572	Capn2
+#1683	AnnotatorNotes T1683	italic (null)
+T1684	EntrezGene 39567 39572	Capn2
+#1684	AnnotatorNotes T1684	EG:12334
+T1685	PR 39567 39572	Capn2
+#1685	AnnotatorNotes T1685	PR:000005015 (calpain-2 catalytic subunit)
+T1686	sup 39572 39575	-/-
+#1686	AnnotatorNotes T1686	sup (null)
+T1687	GO_BP 39584 39592	perished
+#1687	AnnotatorNotes T1687	GO:0016265 (death)
+T1688	GO_BP 39602 39614	implantation
+#1688	AnnotatorNotes T1688	GO:0007566 (embryo implantation)
+T1689	CL 39700 39704	cell
+#1689	AnnotatorNotes T1689	CL:0000000 (cell)
+T1690	GO_CC 39700 39704	cell
+#1690	AnnotatorNotes T1690	GO:0005623 (cell)
+T1691	NCBITaxon 39740 39745	mouse
+#1691	AnnotatorNotes T1691	NCBITaxon:10088 (Mus)
+T1692	SO 39746 39757	genomic DNA
+#1692	AnnotatorNotes T1692	SO:0000991 (genomic_DNA)
+T1693	SO 39746 39753	genomic
+#1693	AnnotatorNotes T1693	SO:0001026 (genome)
+T1694	SO 39790 39802	modification
+#1694	AnnotatorNotes T1694	SO:0000041 (sequence_operation)
+T1695	SO 39815 39821	vector
+#1695	AnnotatorNotes T1695	SO:0000440 (vector_replicon)
+T1696	italic 39842 39847	Capn2
+#1696	AnnotatorNotes T1696	italic (null)
+T1697	PR 39842 39847	Capn2
+#1697	AnnotatorNotes T1697	PR:000005015 (calpain-2 catalytic subunit)
+T1698	EntrezGene 39842 39847	Capn2
+#1698	AnnotatorNotes T1698	EG:12334
+T1699	SO 39852 39858	vector
+#1699	AnnotatorNotes T1699	SO:0000440 (vector_replicon)
+T1700	GO_BP 39859 39871	construction
+#1700	AnnotatorNotes T1700	GO:0009058 (biosynthetic process)

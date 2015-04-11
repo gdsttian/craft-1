@@ -1,0 +1,2676 @@
+T1	EntrezGene 10 14	ALK5
+#1	AnnotatorNotes T1	EG:21812
+T2	PR 10 14	ALK5
+#2	AnnotatorNotes T2	PR:000000047 (TGF-beta receptor type-1)
+T3	GO_BP 15 24	signaling
+#3	AnnotatorNotes T3	GO:0007165 (signal transduction)
+T4	CL 78 95	neural crest cell
+#4	AnnotatorNotes T4	CL:0000333 (neural crest cell)
+T5	GO_BP 91 105	cell apoptosis
+#5	AnnotatorNotes T5	GO:0006915 (apoptosis)
+T6	GO_CC 91 95	cell
+#6	AnnotatorNotes T6	GO:0005623 (cell)
+T7	GO_BP 225 230	birth
+#7	AnnotatorNotes T7	GO:0007567 (parturition)
+T8	NCBITaxon 242 248	humans
+#8	AnnotatorNotes T8	NCBITaxon:9606 (Homo sapiens)
+T9	GO_BP 328 337	induction
+#9	AnnotatorNotes T9	GO:0031128 (induction)
+T10	GO_BP 339 427	migration, differentiation and patterning of pluripotent cardiac neural crest stem cells
+#10	AnnotatorNotes T10	"migration .. of .. neural crest .. cells" GO:0001755 (neural crest cell migration)
+T11	GO_BP 350 427	differentiation and patterning of pluripotent cardiac neural crest stem cells
+#11	AnnotatorNotes T11	"differentiation .. of .. cells" GO:0030154 (cell differentiation)
+T12	GO_BP 370 380	patterning
+#12	AnnotatorNotes T12	GO:0007389 (pattern specification process)
+T13	CL 404 427	neural crest stem cells
+#13	AnnotatorNotes T13	"neural crest .. cells" CL:0000333 (neural crest cell)
+T14	CL 417 427	stem cells
+#14	AnnotatorNotes T14	CL:0000034 (stem cell)
+T15	GO_CC 422 427	cells
+#15	AnnotatorNotes T15	GO:0005623 (cell)
+T16	GO_BP 435 462	TGF-β-superfamily signaling
+#16	AnnotatorNotes T16	GO:0007179 (transforming growth factor beta receptor signaling pathway)
+T17	PR 435 440	TGF-β
+#17	AnnotatorNotes T17	PR:000000046 (TGF-beta)
+T18	GO_BP 495 524	neural crest cell development
+#18	AnnotatorNotes T18	GO:0014032 (neural crest cell development)
+T19	CL 495 512	neural crest cell
+#19	AnnotatorNotes T19	CL:0000333 (neural crest cell)
+T20	GO_CC 508 512	cell
+#20	AnnotatorNotes T20	GO:0005623 (cell)
+T21	CHEBI 539 548	molecular
+#21	AnnotatorNotes T21	CHEBI:23367 (molecular entity)
+T22	GO_BP 549 569	signaling mechanisms
+#22	AnnotatorNotes T22	GO:0007165 (signal transduction)
+T23	italic 570 577	in vivo
+#23	AnnotatorNotes T23	italic (null)
+T24	SO 620 627	deleted
+#24	AnnotatorNotes T24	SO:0000045 (delete)
+T25	GO_MF 632 653	TGF-β type I receptor
+#25	AnnotatorNotes T25	GO:0005025 (transforming growth factor beta receptor activity, type I)
+T26	independent_continuant 632 653	TGF-β type I receptor
+#26	AnnotatorNotes T26	independent_continuant
+T27	PR 632 653	TGF-β type I receptor
+#27	AnnotatorNotes T27	PR:000000047 (TGF-beta receptor type-1)
+T28	PR 632 637	TGF-β
+#28	AnnotatorNotes T28	PR:000000046 (TGF-beta)
+T29	italic 654 658	Alk5
+#29	AnnotatorNotes T29	italic (null)
+T30	PR 654 658	Alk5
+#30	AnnotatorNotes T30	PR:000000047 (TGF-beta receptor type-1)
+T31	EntrezGene 654 658	Alk5
+#31	AnnotatorNotes T31	EG:21812
+T32	NCBITaxon 679 684	mouse
+#32	AnnotatorNotes T32	NCBITaxon:10088 (Mus)
+T33	CL 685 702	neural crest cell
+#33	AnnotatorNotes T33	CL:0000333 (neural crest cell)
+T34	GO_CC 698 702	cell
+#34	AnnotatorNotes T34	GO:0005623 (cell)
+T35	GO_BP 723 732	signaling
+#35	AnnotatorNotes T35	GO:0007165 (signal transduction)
+T36	EntrezGene 737 741	ALK5
+#36	AnnotatorNotes T36	EG:21812
+T37	PR 737 741	ALK5
+#37	AnnotatorNotes T37	PR:000000047 (TGF-beta receptor type-1)
+T38	GO_BP 821 831	remodeling
+#38	AnnotatorNotes T38	GO:0048771 (tissue remodeling)
+T39	GO_BP 881 892	development
+#39	AnnotatorNotes T39	GO:0032502 (developmental process)
+T40	GO_BP 922 931	migration
+#40	AnnotatorNotes T40	GO:0016477 (cell migration)
+T41	EntrezGene 973 977	ALK5
+#41	AnnotatorNotes T41	EG:21812
+T42	PR 973 977	ALK5
+#42	AnnotatorNotes T42	PR:000000047 (TGF-beta receptor type-1)
+T43	GO_BP 998 1025	neural crest cell migration
+#43	AnnotatorNotes T43	GO:0001755 (neural crest cell migration)
+T44	CL 998 1015	neural crest cell
+#44	AnnotatorNotes T44	CL:0000333 (neural crest cell)
+T45	GO_CC 1011 1015	cell
+#45	AnnotatorNotes T45	GO:0005623 (cell)
+T46	GO_BP 1107 1116	migratory
+#46	AnnotatorNotes T46	GO:0016477 (cell migration)
+T47	CL 1125 1143	neural crest cells
+#47	AnnotatorNotes T47	CL:0000333 (neural crest cell)
+T48	GO_CC 1138 1143	cells
+#48	AnnotatorNotes T48	GO:0005623 (cell)
+T49	EntrezGene 1187 1191	ALK5
+#49	AnnotatorNotes T49	EG:21812
+T50	PR 1187 1191	ALK5
+#50	AnnotatorNotes T50	PR:000000047 (TGF-beta receptor type-1)
+T51	GO_BP 1201 1232	signaling in neural crest cells
+#51	AnnotatorNotes T51	"signaling in .. cells" GO:0007242 (intracellular signaling cascade)
+T52	CL 1214 1232	neural crest cells
+#52	AnnotatorNotes T52	CL:0000333 (neural crest cell)
+T53	GO_CC 1227 1232	cells
+#53	AnnotatorNotes T53	GO:0005623 (cell)
+T54	CL 1252 1256	cell
+#54	AnnotatorNotes T54	CL:0000000 (cell)
+T55	GO_CC 1252 1256	cell
+#55	AnnotatorNotes T55	GO:0005623 (cell)
+T56	GO_BP 1280 1328	pharyngeal and cardiac outflow tract development
+#56	AnnotatorNotes T56	"pharyngeal .. development" GO:0060037 (pharyngeal system development)
+T57	GO_BP 1380 1385	birth
+#57	AnnotatorNotes T57	GO:0007567 (parturition)
+T58	GO_BP 1427 1495	migration, differentiation or patterning of the cardiac neural crest
+#58	AnnotatorNotes T58	"migration .. of .. neural crest" GO:0001755 (neural crest cell migration)
+T59	GO_BP 1438 1453	differentiation
+#59	AnnotatorNotes T59	GO:0030154 (cell differentiation)
+T60	GO_BP 1457 1467	patterning
+#60	AnnotatorNotes T60	GO:0007389 (pattern specification process)
+T61	CL 1530 1553	neural crest stem cells
+#61	AnnotatorNotes T61	"neural crest .. cells" CL:0000333 (neural crest cell)
+T62	CL 1543 1553	stem cells
+#62	AnnotatorNotes T62	CL:0000034 (stem cell)
+T63	GO_CC 1548 1553	cells
+#63	AnnotatorNotes T63	GO:0005623 (cell)
+T64	GO_BP 1554 1559	forms
+#64	AnnotatorNotes T64	GO:0032502 (developmental process)
+T65	CL 1683 1701	neural crest cells
+#65	AnnotatorNotes T65	CL:0000333 (neural crest cell)
+T66	GO_CC 1696 1701	cells
+#66	AnnotatorNotes T66	GO:0005623 (cell)
+T67	CL 1766 1796	epithelial to mesenchymal cell
+#67	AnnotatorNotes T67	"epithelial .. cell" CL:0000066 (epithelial cell)
+T68	CL 1780 1796	mesenchymal cell
+#68	AnnotatorNotes T68	CL:0000134 (mesenchymal cell)
+T69	GO_CC 1792 1796	cell
+#69	AnnotatorNotes T69	GO:0005623 (cell)
+T70	GO_BP 1807 1814	migrate
+#70	AnnotatorNotes T70	GO:0016477 (cell migration)
+T71	sup 1842 1844	rd
+#71	AnnotatorNotes T71	sup (null)
+T72	sup 1847 1849	th
+#72	AnnotatorNotes T72	sup (null)
+T73	sup 1855 1857	th
+#73	AnnotatorNotes T73	sup (null)
+T74	GO_BP 1920 1929	formation
+#74	AnnotatorNotes T74	GO:0032502 (developmental process)
+T75	CL 1937 1955	smooth muscle cell
+#75	AnnotatorNotes T75	CL:0000192 (smooth muscle cell)
+T76	GO_CC 1951 1955	cell
+#76	AnnotatorNotes T76	GO:0005623 (cell)
+T77	GO_BP 2064 2071	migrate
+#77	AnnotatorNotes T77	GO:0016477 (cell migration)
+T78	GO_BP 2102 2106	form
+#78	AnnotatorNotes T78	GO:0032502 (developmental process)
+T79	GO_BP 2251 2262	development
+#79	AnnotatorNotes T79	GO:0032502 (developmental process)
+T80	GO_BP 2565 2575	alignments
+#80	AnnotatorNotes T80	GO:0007164 (establishment of tissue polarity)
+T81	GO_BP 2587 2596	migratory
+#81	AnnotatorNotes T81	GO:0016477 (cell migration)
+T82	GO_BP 2691 2701	controlled
+#82	AnnotatorNotes T82	GO:0065007 (biological regulation)
+T83	CL 2762 2766	NCCs
+#83	AnnotatorNotes T83	CL:0000333 (neural crest cell)
+T84	GO_BP 2767 2774	migrate
+#84	AnnotatorNotes T84	GO:0016477 (cell migration)
+T85	PR 2838 2843	TGF-β
+#85	AnnotatorNotes T85	PR:000000046 (TGF-beta)
+T86	PR 2863 2869	TGF-βs
+#86	AnnotatorNotes T86	PR:000000046 (TGF-beta)
+T87	PR 2874 2878	BMPs
+#87	AnnotatorNotes T87	PR:000000034 (BMP)
+T88	NCBITaxon 2935 2939	Mice
+#88	AnnotatorNotes T88	NCBITaxon:10088 (Mus)
+T89	EntrezGene 2953 2959	TGF-β2
+#89	AnnotatorNotes T89	EG:21808
+T90	PR 2953 2959	TGF-β2
+#90	AnnotatorNotes T90	PR:000000183 (TGF-beta 2)
+T91	CL 3013 3030	neural crest cell
+#91	AnnotatorNotes T91	CL:0000333 (neural crest cell)
+T92	GO_CC 3026 3030	cell
+#92	AnnotatorNotes T92	GO:0005623 (cell)
+T93	independent_continuant 3054 3076	TGF-β type II receptor
+#93	AnnotatorNotes T93	independent_continuant
+T94	PR 3054 3076	TGF-β type II receptor
+#94	AnnotatorNotes T94	PR:000000005 (TGF-beta receptor type-2)
+T95	GO_MF 3054 3076	TGF-β type II receptor
+#95	AnnotatorNotes T95	GO:0005025 (transforming growth factor beta receptor activity, type I)
+T96	PR 3054 3059	TGF-β
+#96	AnnotatorNotes T96	PR:000000046 (TGF-beta)
+T97	italic 3078 3084	Tgfbr2
+#97	AnnotatorNotes T97	italic (null)
+T98	PR 3078 3084	Tgfbr2
+#98	AnnotatorNotes T98	PR:000000005 (TGF-beta receptor type-2)
+T99	GO_MF 3078 3084	Tgfbr2
+#99	AnnotatorNotes T99	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T100	independent_continuant 3078 3084	Tgfbr2
+#100	AnnotatorNotes T100	independent_continuant
+T101	PR 3144 3157	BMPs 6 and -7
+#101	AnnotatorNotes T101	"BMPs .. -7" PR:000000168 (BMP7)
+T102	PR 3144 3150	BMPs 6
+#102	AnnotatorNotes T102	PR:000000167 (BMP6)
+T103	GO_BP 3182 3191	formation
+#103	AnnotatorNotes T103	GO:0032502 (developmental process)
+T104	PR 3234 3254	BMP type II receptor
+#104	AnnotatorNotes T104	PR:000000037 (BMP receptor type-2)
+T105	PR 3234 3237	BMP
+#105	AnnotatorNotes T105	PR:000000034 (BMP)
+T106	independent_continuant 3246 3254	receptor
+#106	AnnotatorNotes T106	independent_continuant
+T107	GO_MF 3246 3254	receptor
+#107	AnnotatorNotes T107	GO:0004872 (receptor activity)
+T108	GO_BP 3276 3287	development
+#108	AnnotatorNotes T108	GO:0032502 (developmental process)
+T109	SO 3352 3360	deletion
+#109	AnnotatorNotes T109	SO:0000045 (delete)
+T110	PR 3368 3371	BMP
+#110	AnnotatorNotes T110	PR:000000034 (BMP)
+T111	PR 3372 3388	type I receptors
+#111	AnnotatorNotes T111	PR:000000006 (TGF-beta superfamily receptor type-1)
+T112	independent_continuant 3379 3388	receptors
+#112	AnnotatorNotes T112	independent_continuant
+T113	GO_MF 3379 3388	receptors
+#113	AnnotatorNotes T113	GO:0004872 (receptor activity)
+T114	italic 3389 3393	Alk2
+#114	AnnotatorNotes T114	italic (null)
+T115	PR 3389 3393	Alk2
+#115	AnnotatorNotes T115	PR:000000067 (activin receptor type-1)
+T116	italic 3398 3402	Alk3
+#116	AnnotatorNotes T116	italic (null)
+T117	PR 3398 3402	Alk3
+#117	AnnotatorNotes T117	PR:000000035 (BMP receptor type-1A)
+T118	PR 3506 3511	TGF-β
+#118	AnnotatorNotes T118	PR:000000046 (TGF-beta)
+T119	GO_BP 3530 3536	signal
+#119	AnnotatorNotes T119	GO:0007165 (signal transduction)
+T120	GO_CC 3543 3559	receptor complex
+#120	AnnotatorNotes T120	GO:0043235 (receptor complex)
+T121	independent_continuant 3543 3551	receptor
+#121	AnnotatorNotes T121	independent_continuant
+T122	GO_MF 3543 3551	receptor
+#122	AnnotatorNotes T122	GO:0004872 (receptor activity)
+T123	independent_continuant 3584 3593	receptors
+#123	AnnotatorNotes T123	independent_continuant
+T124	GO_MF 3584 3593	receptors
+#124	AnnotatorNotes T124	GO:0004872 (receptor activity)
+T125	PR 3602 3618	type I receptors
+#125	AnnotatorNotes T125	PR:000000006 (TGF-beta superfamily receptor type-1)
+T126	independent_continuant 3609 3618	receptors
+#126	AnnotatorNotes T126	independent_continuant
+T127	GO_MF 3609 3618	receptors
+#127	AnnotatorNotes T127	GO:0004872 (receptor activity)
+T128	GO_MF 3635 3642	binding
+#128	AnnotatorNotes T128	GO:0005488 (binding)
+T129	GO_BP 3652 3667	phosphorylation
+#129	AnnotatorNotes T129	GO:0016310 (phosphorylation)
+T130	PR 3686 3702	type I receptors
+#130	AnnotatorNotes T130	PR:000000006 (TGF-beta superfamily receptor type-1)
+T131	independent_continuant 3693 3702	receptors
+#131	AnnotatorNotes T131	independent_continuant
+T132	GO_MF 3693 3702	receptors
+#132	AnnotatorNotes T132	GO:0004872 (receptor activity)
+T133	GO_BP 3720 3733	phosphorylate
+#133	AnnotatorNotes T133	GO:0016310 (phosphorylation)
+T134	GO_BP 3776 3785	signaling
+#134	AnnotatorNotes T134	GO:0007165 (signal transduction)
+T135	CHEBI 3786 3795	molecules
+#135	AnnotatorNotes T135	CHEBI:23367 (molecular entity)
+T136	PR 3803 3808	Smads
+#136	AnnotatorNotes T136	PR:000000027 (smad protein)
+T137	PR 3828 3834	TGF-βs
+#137	AnnotatorNotes T137	PR:000000046 (TGF-beta)
+T138	GO_MF 3835 3839	bind
+#138	AnnotatorNotes T138	GO:0005488 (binding)
+T139	independent_continuant 3847 3869	TGF-β type II receptor
+#139	AnnotatorNotes T139	independent_continuant
+T140	PR 3847 3869	TGF-β type II receptor
+#140	AnnotatorNotes T140	PR:000000005 (TGF-beta receptor type-2)
+T141	GO_MF 3847 3869	TGF-β type II receptor
+#141	AnnotatorNotes T141	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T142	PR 3847 3852	TGF-β
+#142	AnnotatorNotes T142	PR:000000046 (TGF-beta)
+T143	independent_continuant 3871 3878	TGFβRII
+#143	AnnotatorNotes T143	independent_continuant
+T144	GO_MF 3871 3878	TGFβRII
+#144	AnnotatorNotes T144	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T145	PR 3871 3878	TGFβRII
+#145	AnnotatorNotes T145	PR:000000005 (TGF-beta receptor type-2)
+T146	independent_continuant 3884 3905	TGF-β type I receptor
+#146	AnnotatorNotes T146	independent_continuant
+T147	PR 3884 3905	TGF-β type I receptor
+#147	AnnotatorNotes T147	PR:000000047 (TGF-beta receptor type-1)
+T148	GO_MF 3884 3905	TGF-β type I receptor
+#148	AnnotatorNotes T148	GO:0005025 (transforming growth factor beta receptor activity, type I)
+T149	PR 3884 3889	TGF-β
+#149	AnnotatorNotes T149	PR:000000046 (TGF-beta)
+T150	PR 3907 3911	ALK5
+#150	AnnotatorNotes T150	PR:000000047 (TGF-beta receptor type-1)
+T151	PR 3924 3935	TGF-β Smads
+#151	AnnotatorNotes T151	PR:000000066 (TGF-beta receptor-regulated smad protein)
+T152	PR 3924 3929	TGF-β
+#152	AnnotatorNotes T152	PR:000000046 (TGF-beta)
+T153	PR 3930 3944	Smads (2 and 3
+#153	AnnotatorNotes T153	"Smads .. 3" PR:000000365 (smad3)
+T154	PR 3930 3938	Smads (2
+#154	AnnotatorNotes T154	"Smads .. 2" PR:000000364 (smad2)
+T155	PR 3953 3957	BMPs
+#155	AnnotatorNotes T155	PR:000000034 (BMP)
+T156	GO_MF 3958 3962	bind
+#156	AnnotatorNotes T156	GO:0005488 (binding)
+T157	PR 3970 3990	BMP type II receptor
+#157	AnnotatorNotes T157	PR:000000037 (BMP receptor type-2)
+T158	PR 3970 3973	BMP
+#158	AnnotatorNotes T158	PR:000000034 (BMP)
+T159	independent_continuant 3982 3990	receptor
+#159	AnnotatorNotes T159	independent_continuant
+T160	GO_MF 3982 3990	receptor
+#160	AnnotatorNotes T160	GO:0004872 (receptor activity)
+T161	PR 3995 4011	type I receptors
+#161	AnnotatorNotes T161	PR:000000006 (TGF-beta superfamily receptor type-1)
+T162	independent_continuant 4002 4011	receptors
+#162	AnnotatorNotes T162	independent_continuant
+T163	GO_MF 4002 4011	receptors
+#163	AnnotatorNotes T163	GO:0004872 (receptor activity)
+T164	PR 4012 4016	ALK2
+#164	AnnotatorNotes T164	PR:000000067 (activin receptor type-1)
+T165	PR 4039 4048	BMP Smads
+#165	AnnotatorNotes T165	PR:000000038 (BMP receptor-regulated smad protein)
+T166	PR 4039 4042	BMP
+#166	AnnotatorNotes T166	PR:000000034 (BMP)
+T167	PR 4043 4060	Smads (1, 5 and 8
+#167	AnnotatorNotes T167	"Smads .. 8" PR:000000375 (smad9)
+T168	PR 4043 4054	Smads (1, 5
+#168	AnnotatorNotes T168	"Smads .. 5" PR:000000372 (smad5)
+T169	PR 4043 4051	Smads (1
+#169	AnnotatorNotes T169	"Smads .. 1" PR:000000363 (smad1)
+T170	GO_BP 4096 4105	signaling
+#170	AnnotatorNotes T170	GO:0007165 (signal transduction)
+T171	italic 4136 4143	in vivo
+#171	AnnotatorNotes T171	italic (null)
+T172	GO_BP 4163 4202	formation of heterotetrameric complexes
+#172	AnnotatorNotes T172	GO:0051290 (protein heterotetramerization)
+T173	GO_CC 4193 4202	complexes
+#173	AnnotatorNotes T173	GO:0032991 (macromolecular complex)
+T174	PR 4237 4253	type I receptors
+#174	AnnotatorNotes T174	PR:000000006 (TGF-beta superfamily receptor type-1)
+T175	independent_continuant 4244 4253	receptors
+#175	AnnotatorNotes T175	independent_continuant
+T176	GO_MF 4244 4253	receptors
+#176	AnnotatorNotes T176	GO:0004872 (receptor activity)
+T177	PR 4310 4315	TGF-β
+#177	AnnotatorNotes T177	PR:000000046 (TGF-beta)
+T178	GO_MF 4343 4347	bind
+#178	AnnotatorNotes T178	GO:0005488 (binding)
+T179	independent_continuant 4384 4393	receptors
+#179	AnnotatorNotes T179	independent_continuant
+T180	GO_MF 4384 4393	receptors
+#180	AnnotatorNotes T180	GO:0004872 (receptor activity)
+T181	PR 4409 4458	growth and differentiation factors (GDFs) 8 and 9
+#181	AnnotatorNotes T181	"growth and differentiation factors .. 9" PR:000007925 (growth/differentiation factor 9)
+T182	PR 4409 4452	growth and differentiation factors (GDFs) 8
+#182	AnnotatorNotes T182	"growth and differentiation factors .. 8" PR:000010684 (growth/differentiation factor 8)
+T183	GO_MF 4409 4443	growth and differentiation factors
+#183	AnnotatorNotes T183	"growth .. factors" GO:0008083 (growth factor activity)
+T184	independent_continuant 4409 4443	growth and differentiation factors
+#184	AnnotatorNotes T184	"growth .. factors" independent_continuant
+T185	GO_BP 4409 4415	growth
+#185	AnnotatorNotes T185	GO:0040007 (growth)
+T186	GO_BP 4420 4435	differentiation
+#186	AnnotatorNotes T186	GO:0030154 (cell differentiation)
+T187	PR 4445 4458	GDFs) 8 and 9
+#187	AnnotatorNotes T187	"GDFs .. 9" PR:000007925 (growth/differentiation factor 9)
+T188	PR 4445 4452	GDFs) 8
+#188	AnnotatorNotes T188	"GDFs .. 8" PR:000010684 (growth/differentiation factor 8)
+T189	GO_MF 4463 4467	bind
+#189	AnnotatorNotes T189	GO:0005488 (binding)
+T190	GO_MF 4471 4495	Activin type II receptor
+#190	AnnotatorNotes T190	GO:0016362 (activin receptor activity, type II)
+T191	independent_continuant 4471 4495	Activin type II receptor
+#191	AnnotatorNotes T191	independent_continuant
+T192	PR 4500 4504	ALK5
+#192	AnnotatorNotes T192	PR:000000047 (TGF-beta receptor type-1)
+T193	PR 4517 4528	TGF-β Smads
+#193	AnnotatorNotes T193	PR:000000066 (TGF-beta receptor-regulated smad protein)
+T194	SO 4570 4578	deletion
+#194	AnnotatorNotes T194	SO:0000045 (delete)
+T195	italic 4582 4586	Alk5
+#195	AnnotatorNotes T195	italic (null)
+T196	EntrezGene 4582 4586	Alk5
+#196	AnnotatorNotes T196	EG:21812
+T197	PR 4582 4586	Alk5
+#197	AnnotatorNotes T197	PR:000000047 (TGF-beta receptor type-1)
+T198	CL 4601 4605	cell
+#198	AnnotatorNotes T198	CL:0000000 (cell)
+T199	GO_CC 4601 4605	cell
+#199	AnnotatorNotes T199	GO:0005623 (cell)
+T200	SO 4674 4681	mutants
+#200	AnnotatorNotes T200	SO:0001059 (sequence_alteration)
+T201	independent_continuant 4674 4681	mutants
+#201	AnnotatorNotes T201	independent_continuant
+T202	italic 4690 4696	Tgfbr2
+#202	AnnotatorNotes T202	italic (null)
+T203	GO_MF 4690 4696	Tgfbr2
+#203	AnnotatorNotes T203	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T204	independent_continuant 4690 4696	Tgfbr2
+#204	AnnotatorNotes T204	independent_continuant
+T205	PR 4690 4696	Tgfbr2
+#205	AnnotatorNotes T205	PR:000000005 (TGF-beta receptor type-2)
+T206	EntrezGene 4690 4696	Tgfbr2
+#206	AnnotatorNotes T206	EG:21813
+T207	CL 4730 4747	neural crest cell
+#207	AnnotatorNotes T207	CL:0000333 (neural crest cell)
+T208	GO_CC 4743 4747	cell
+#208	AnnotatorNotes T208	GO:0005623 (cell)
+T209	italic 4757 4761	Alk5
+#209	AnnotatorNotes T209	italic (null)
+T210	PR 4757 4761	Alk5
+#210	AnnotatorNotes T210	PR:000000047 (TGF-beta receptor type-1)
+T211	SO 4762 4769	mutants
+#211	AnnotatorNotes T211	SO:0001059 (sequence_alteration)
+T212	independent_continuant 4762 4769	mutants
+#212	AnnotatorNotes T212	independent_continuant
+T213	GO_BP 4812 4825	developmental
+#213	AnnotatorNotes T213	GO:0032502 (developmental process)
+T214	italic 4940 4946	Tgfbr2
+#214	AnnotatorNotes T214	italic (null)
+T215	GO_MF 4940 4946	Tgfbr2
+#215	AnnotatorNotes T215	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T216	independent_continuant 4940 4946	Tgfbr2
+#216	AnnotatorNotes T216	independent_continuant
+T217	PR 4940 4946	Tgfbr2
+#217	AnnotatorNotes T217	PR:000000005 (TGF-beta receptor type-2)
+T218	SO 4947 4954	mutants
+#218	AnnotatorNotes T218	SO:0001059 (sequence_alteration)
+T219	independent_continuant 4947 4954	mutants
+#219	AnnotatorNotes T219	independent_continuant
+T220	EntrezGene 4983 4987	ALK5
+#220	AnnotatorNotes T220	EG:21812
+T221	PR 4983 4987	ALK5
+#221	AnnotatorNotes T221	PR:000000047 (TGF-beta receptor type-1)
+T222	GO_BP 5028 5074	signaling events in cardiac neural crest cells
+#222	AnnotatorNotes T222	"signaling events in .. cells" GO:0007242 (intracellular signaling cascade)
+T223	CL 5056 5074	neural crest cells
+#223	AnnotatorNotes T223	CL:0000333 (neural crest cell)
+T224	GO_CC 5069 5074	cells
+#224	AnnotatorNotes T224	GO:0005623 (cell)
+T225	NCBITaxon 5127 5132	mouse
+#225	AnnotatorNotes T225	NCBITaxon:10088 (Mus)
+T226	italic 5149 5153	Alk5
+#226	AnnotatorNotes T226	italic (null)
+T227	PR 5149 5153	Alk5
+#227	AnnotatorNotes T227	PR:000000047 (TGF-beta receptor type-1)
+T228	EntrezGene 5149 5153	Alk5
+#228	AnnotatorNotes T228	EG:21812
+T229	CL 5170 5188	neural crest cells
+#229	AnnotatorNotes T229	CL:0000333 (neural crest cell)
+T230	GO_CC 5183 5188	cells
+#230	AnnotatorNotes T230	GO:0005623 (cell)
+T231	italic 5212 5225	Alk5/Wnt1-Cre
+#231	AnnotatorNotes T231	italic (null)
+T232	EntrezGene 5212 5216	Alk5
+#232	AnnotatorNotes T232	EG:21812
+T233	PR 5212 5216	Alk5
+#233	AnnotatorNotes T233	PR:000000047 (TGF-beta receptor type-1)
+T234	PR 5217 5221	Wnt1
+#234	AnnotatorNotes T234	PR:000017435 (proto-oncogene protein Wnt-1)
+T235	SO 5226 5233	mutants
+#235	AnnotatorNotes T235	SO:0001059 (sequence_alteration)
+T236	independent_continuant 5226 5233	mutants
+#236	AnnotatorNotes T236	independent_continuant
+T237	GO_BP 5286 5293	migrate
+#237	AnnotatorNotes T237	GO:0016477 (cell migration)
+T238	SO 5323 5329	mutant
+#238	AnnotatorNotes T238	SO:0001059 (sequence_alteration)
+T239	GO_BP 5572 5625	apoptosis of postmigratory cardiac neural crest cells
+#239	AnnotatorNotes T239	"apoptosis of .. cells" GO:0006915 (apoptosis)
+T240	CL 5607 5625	neural crest cells
+#240	AnnotatorNotes T240	CL:0000333 (neural crest cell)
+T241	GO_CC 5620 5625	cells
+#241	AnnotatorNotes T241	GO:0005623 (cell)
+T242	italic 5695 5701	Tgfbr2
+#242	AnnotatorNotes T242	italic (null)
+T243	independent_continuant 5695 5701	Tgfbr2
+#243	AnnotatorNotes T243	independent_continuant
+T244	PR 5695 5701	Tgfbr2
+#244	AnnotatorNotes T244	PR:000000005 (TGF-beta receptor type-2)
+T245	GO_MF 5695 5701	Tgfbr2
+#245	AnnotatorNotes T245	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T246	SO 5702 5709	mutants
+#246	AnnotatorNotes T246	SO:0001059 (sequence_alteration)
+T247	independent_continuant 5702 5709	mutants
+#247	AnnotatorNotes T247	independent_continuant
+T248	EntrezGene 5727 5731	ALK5
+#248	AnnotatorNotes T248	EG:21812
+T249	PR 5727 5731	ALK5
+#249	AnnotatorNotes T249	PR:000000047 (TGF-beta receptor type-1)
+T250	GO_BP 5761 5777	signaling events
+#250	AnnotatorNotes T250	GO:0007165 (signal transduction)
+T251	GO_MF 5797 5804	binding
+#251	AnnotatorNotes T251	GO:0005488 (binding)
+T252	independent_continuant 5813 5820	TGFβRII
+#252	AnnotatorNotes T252	independent_continuant
+T253	GO_MF 5813 5820	TGFβRII
+#253	AnnotatorNotes T253	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T254	EntrezGene 5813 5820	TGFβRII
+#254	AnnotatorNotes T254	EG:21813
+T255	PR 5813 5820	TGFβRII
+#255	AnnotatorNotes T255	PR:000000005 (TGF-beta receptor type-2)
+T256	CL 5832 5850	neural crest cells
+#256	AnnotatorNotes T256	CL:0000333 (neural crest cell)
+T257	GO_CC 5845 5850	cells
+#257	AnnotatorNotes T257	GO:0005623 (cell)
+T258	GO_BP 5858 5892	cardiac and pharyngeal development
+#258	AnnotatorNotes T258	"cardiac .. development" GO:0007507 (heart development)
+T259	GO_BP 5870 5892	pharyngeal development
+#259	AnnotatorNotes T259	GO:0060037 (pharyngeal system development)
+T260	NCBITaxon 5964 5968	mice
+#260	AnnotatorNotes T260	NCBITaxon:10088 (Mus)
+T261	italic 5977 5981	Alk5
+#261	AnnotatorNotes T261	italic (null)
+T262	EntrezGene 5977 5981	Alk5
+#262	AnnotatorNotes T262	EG:21812
+T263	PR 5977 5981	Alk5
+#263	AnnotatorNotes T263	PR:000000047 (TGF-beta receptor type-1)
+T264	CL 5993 5997	NCCs
+#264	AnnotatorNotes T264	CL:0000333 (neural crest cell)
+T265	italic 6013 6017	Alk5
+#265	AnnotatorNotes T265	italic (null)
+T266	PR 6013 6017	Alk5
+#266	AnnotatorNotes T266	PR:000000047 (TGF-beta receptor type-1)
+T267	EntrezGene 6013 6017	Alk5
+#267	AnnotatorNotes T267	EG:21812
+T268	CL 6029 6033	NCCs
+#268	AnnotatorNotes T268	CL:0000333 (neural crest cell)
+T269	NCBITaxon 6035 6039	mice
+#269	AnnotatorNotes T269	NCBITaxon:10088 (Mus)
+T270	italic 6059 6070	floxed Alk5
+#270	AnnotatorNotes T270	italic (null)
+T271	SO 6059 6065	floxed
+#271	AnnotatorNotes T271	SO:0000359 (floxed)
+T272	EntrezGene 6066 6070	Alk5
+#272	AnnotatorNotes T272	EG:21812
+T273	PR 6066 6070	Alk5
+#273	AnnotatorNotes T273	PR:000000047 (TGF-beta receptor type-1)
+T274	SO 6071 6077	allele
+#274	AnnotatorNotes T274	SO:0001023 (allele)
+T275	italic 6079 6083	Alk5
+#275	AnnotatorNotes T275	italic (null)
+T276	sup 6083 6092	Flox/Flox
+#276	AnnotatorNotes T276	sup (null)
+T277	italic 6083 6087	Flox
+#277	AnnotatorNotes T277	italic (null)
+T278	italic 6088 6092	Flox
+#278	AnnotatorNotes T278	italic (null)
+T279	SO 6088 6092	Flox
+#279	AnnotatorNotes T279	SO:0000359 (floxed)
+T280	SO 6117 6127	transgenic
+#280	AnnotatorNotes T280	SO:0000902 (transgene)
+T281	italic 6128 6136	Wnt1-Cre
+#281	AnnotatorNotes T281	italic (null)
+T282	PR 6128 6132	Wnt1
+#282	AnnotatorNotes T282	PR:000017435 (proto-oncogene protein Wnt-1)
+T283	NCBITaxon 6137 6141	mice
+#283	AnnotatorNotes T283	NCBITaxon:10088 (Mus)
+T284	italic 6185 6189	Alk5
+#284	AnnotatorNotes T284	italic (null)
+T285	PR 6185 6189	Alk5
+#285	AnnotatorNotes T285	PR:000000047 (TGF-beta receptor type-1)
+T286	EntrezGene 6185 6189	Alk5
+#286	AnnotatorNotes T286	EG:21812
+T287	SO 6199 6205	allele
+#287	AnnotatorNotes T287	SO:0001023 (allele)
+T288	italic 6207 6211	Alk5
+#288	AnnotatorNotes T288	italic (null)
+T289	sup 6211 6213	KO
+#289	AnnotatorNotes T289	sup (null)
+T290	italic 6211 6213	KO
+#290	AnnotatorNotes T290	italic (null)
+T291	SO 6215 6221	allele
+#291	AnnotatorNotes T291	SO:0001023 (allele)
+T292	NCBITaxon 6237 6241	mice
+#292	AnnotatorNotes T292	NCBITaxon:10088 (Mus)
+T293	italic 6263 6267	Alk5
+#293	AnnotatorNotes T293	italic (null)
+T294	sup 6267 6271	Flox
+#294	AnnotatorNotes T294	sup (null)
+T295	italic 6267 6271	Flox
+#295	AnnotatorNotes T295	italic (null)
+T296	italic 6276 6280	Alk5
+#296	AnnotatorNotes T296	italic (null)
+T297	sup 6280 6282	KO
+#297	AnnotatorNotes T297	sup (null)
+T298	italic 6280 6282	KO
+#298	AnnotatorNotes T298	italic (null)
+T299	SO 6283 6290	alleles
+#299	AnnotatorNotes T299	SO:0001023 (allele)
+T300	italic 6315 6323	Wnt1-Cre
+#300	AnnotatorNotes T300	italic (null)
+T301	PR 6315 6319	Wnt1
+#301	AnnotatorNotes T301	PR:000017435 (proto-oncogene protein Wnt-1)
+T302	SO 6324 6333	transgene
+#302	AnnotatorNotes T302	SO:0000902 (transgene)
+T303	italic 6343 6347	Alk5
+#303	AnnotatorNotes T303	italic (null)
+T304	EntrezGene 6343 6347	Alk5
+#304	AnnotatorNotes T304	EG:21812
+T305	PR 6343 6347	Alk5
+#305	AnnotatorNotes T305	PR:000000047 (TGF-beta receptor type-1)
+T306	SO 6348 6352	gene
+#306	AnnotatorNotes T306	SO:0000704 (gene)
+T307	CL 6381 6385	NCCs
+#307	AnnotatorNotes T307	CL:0000333 (neural crest cell)
+T308	italic 6401 6414	Alk5/Wnt1-Cre
+#308	AnnotatorNotes T308	italic (null)
+T309	EntrezGene 6401 6405	Alk5
+#309	AnnotatorNotes T309	EG:21812
+T310	PR 6401 6405	Alk5
+#310	AnnotatorNotes T310	PR:000000047 (TGF-beta receptor type-1)
+T311	PR 6406 6410	Wnt1
+#311	AnnotatorNotes T311	PR:000017435 (proto-oncogene protein Wnt-1)
+T312	SO 6454 6461	allelic
+#312	AnnotatorNotes T312	SO:0001023 (allele)
+T313	italic 6526 6530	Alk5
+#313	AnnotatorNotes T313	italic (null)
+T314	sup 6530 6536	Flox/+
+#314	AnnotatorNotes T314	sup (null)
+T315	italic 6530 6534	Flox
+#315	AnnotatorNotes T315	italic (null)
+T316	SO 6535 6536	+
+#316	AnnotatorNotes T316	SO:0000817 (wild_type)
+T317	italic 6536 6542	, Alk5
+#317	AnnotatorNotes T317	italic (null)
+T318	sup 6542 6546	KO/+
+#318	AnnotatorNotes T318	sup (null)
+T319	italic 6542 6544	KO
+#319	AnnotatorNotes T319	italic (null)
+T320	SO 6545 6546	+
+#320	AnnotatorNotes T320	SO:0000817 (wild_type)
+T321	italic 6546 6556	; Wnt1-Cre
+#321	AnnotatorNotes T321	italic (null)
+T322	PR 6548 6552	Wnt1
+#322	AnnotatorNotes T322	PR:000017435 (proto-oncogene protein Wnt-1)
+T323	GO_BP 6610 6619	gestation
+#323	AnnotatorNotes T323	GO:0007565 (female pregnancy)
+T324	italic 6649 6662	Alk5/Wnt1-Cre
+#324	AnnotatorNotes T324	italic (null)
+T325	EntrezGene 6649 6653	Alk5
+#325	AnnotatorNotes T325	EG:21812
+T326	PR 6649 6653	Alk5
+#326	AnnotatorNotes T326	PR:000000047 (TGF-beta receptor type-1)
+T327	PR 6654 6658	Wnt1
+#327	AnnotatorNotes T327	PR:000017435 (proto-oncogene protein Wnt-1)
+T328	SO 6663 6670	mutants
+#328	AnnotatorNotes T328	SO:0001059 (sequence_alteration)
+T329	independent_continuant 6663 6670	mutants
+#329	AnnotatorNotes T329	independent_continuant
+T330	SO 6700 6706	mutant
+#330	AnnotatorNotes T330	SO:0001059 (sequence_alteration)
+T331	GO_BP 6717 6721	died
+#331	AnnotatorNotes T331	GO:0016265 (death)
+T332	GO_BP 6740 6745	birth
+#332	AnnotatorNotes T332	GO:0007567 (parturition)
+T333	EntrezGene 6802 6806	ALK5
+#333	AnnotatorNotes T333	EG:21812
+T334	PR 6802 6806	ALK5
+#334	AnnotatorNotes T334	PR:000000047 (TGF-beta receptor type-1)
+T335	GO_BP 6816 6831	TGF-β-signaling
+#335	AnnotatorNotes T335	GO:0007179 (transforming growth factor beta receptor signaling pathway)
+T336	PR 6816 6821	TGF-β
+#336	AnnotatorNotes T336	PR:000000046 (TGF-beta)
+T337	GO_BP 6846 6886	development of the OFT and large vessels
+#337	AnnotatorNotes T337	"development of .. vessels" GO:0001944 (vasculature development)
+T338	CHEBI 6928 6931	dye
+#338	AnnotatorNotes T338	CHEBI:37958 (dye)
+T339	SO 6975 6984	wild-type
+#339	AnnotatorNotes T339	SO:0000817 (wild_type)
+T340	GO_BP 7135 7143	branched
+#340	AnnotatorNotes T340	GO:0001763 (morphogenesis of a branching structure)
+T341	italic 7187 7199	Alk5/Wnt1Cre
+#341	AnnotatorNotes T341	italic (null)
+T342	EntrezGene 7187 7191	Alk5
+#342	AnnotatorNotes T342	EG:21812
+T343	PR 7187 7191	Alk5
+#343	AnnotatorNotes T343	PR:000000047 (TGF-beta receptor type-1)
+T344	SO 7200 7206	mutant
+#344	AnnotatorNotes T344	SO:0001059 (sequence_alteration)
+T345	italic 7305 7311	Tgfbr2
+#345	AnnotatorNotes T345	italic (null)
+T346	PR 7305 7311	Tgfbr2
+#346	AnnotatorNotes T346	PR:000000005 (TGF-beta receptor type-2)
+T347	independent_continuant 7305 7311	Tgfbr2
+#347	AnnotatorNotes T347	independent_continuant
+T348	GO_MF 7305 7311	Tgfbr2
+#348	AnnotatorNotes T348	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T349	EntrezGene 7305 7311	Tgfbr2
+#349	AnnotatorNotes T349	EG:21813
+T350	SO 7312 7318	mutant
+#350	AnnotatorNotes T350	SO:0001059 (sequence_alteration)
+T351	italic 7422 7426	Alk5
+#351	AnnotatorNotes T351	italic (null)
+T352	PR 7422 7426	Alk5
+#352	AnnotatorNotes T352	PR:000000047 (TGF-beta receptor type-1)
+T353	EntrezGene 7422 7426	Alk5
+#353	AnnotatorNotes T353	EG:21812
+T354	SO 7427 7434	mutants
+#354	AnnotatorNotes T354	SO:0001059 (sequence_alteration)
+T355	independent_continuant 7427 7434	mutants
+#355	AnnotatorNotes T355	independent_continuant
+T356	SO 7769 7776	mutants
+#356	AnnotatorNotes T356	SO:0001059 (sequence_alteration)
+T357	independent_continuant 7769 7776	mutants
+#357	AnnotatorNotes T357	independent_continuant
+T358	GO_BP 7943 7949	budded
+#358	AnnotatorNotes T358	GO:0001763 (morphogenesis of a branching structure)
+T359	SO 8145 8152	mutants
+#359	AnnotatorNotes T359	SO:0001059 (sequence_alteration)
+T360	independent_continuant 8145 8152	mutants
+#360	AnnotatorNotes T360	independent_continuant
+T361	GO_BP 8199 8207	branched
+#361	AnnotatorNotes T361	GO:0001763 (morphogenesis of a branching structure)
+T362	italic 8257 8270	Alk5/Wnt1-Cre
+#362	AnnotatorNotes T362	italic (null)
+T363	EntrezGene 8257 8261	Alk5
+#363	AnnotatorNotes T363	EG:21812
+T364	PR 8257 8261	Alk5
+#364	AnnotatorNotes T364	PR:000000047 (TGF-beta receptor type-1)
+T365	PR 8262 8266	Wnt1
+#365	AnnotatorNotes T365	PR:000017435 (proto-oncogene protein Wnt-1)
+T366	SO 8271 8278	mutants
+#366	AnnotatorNotes T366	SO:0001059 (sequence_alteration)
+T367	independent_continuant 8271 8278	mutants
+#367	AnnotatorNotes T367	independent_continuant
+T368	italic 8402 8417	Tgfbr2/Wnt1-Cre
+#368	AnnotatorNotes T368	italic (null)
+T369	independent_continuant 8402 8408	Tgfbr2
+#369	AnnotatorNotes T369	independent_continuant
+T370	GO_MF 8402 8408	Tgfbr2
+#370	AnnotatorNotes T370	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T371	PR 8402 8408	Tgfbr2
+#371	AnnotatorNotes T371	PR:000000005 (TGF-beta receptor type-2)
+T372	PR 8409 8413	Wnt1
+#372	AnnotatorNotes T372	PR:000017435 (proto-oncogene protein Wnt-1)
+T373	SO 8418 8425	mutants
+#373	AnnotatorNotes T373	SO:0001059 (sequence_alteration)
+T374	independent_continuant 8418 8425	mutants
+#374	AnnotatorNotes T374	independent_continuant
+T375	bold 8444 8531	Abrogation of Alk5 in neural crest cells leads to persistent truncus arteriosus type A2
+#375	AnnotatorNotes T375	bold (null)
+T376	italic 8458 8462	Alk5
+#376	AnnotatorNotes T376	italic (null)
+T377	EntrezGene 8458 8462	Alk5
+#377	AnnotatorNotes T377	EG:21812
+T378	PR 8458 8462	Alk5
+#378	AnnotatorNotes T378	PR:000000047 (TGF-beta receptor type-1)
+T379	CL 8466 8484	neural crest cells
+#379	AnnotatorNotes T379	CL:0000333 (neural crest cell)
+T380	GO_CC 8479 8484	cells
+#380	AnnotatorNotes T380	GO:0005623 (cell)
+T381	CHEBI 8546 8549	dye
+#381	AnnotatorNotes T381	CHEBI:37958 (dye)
+T382	GO_BP 8566 8579	morphogenesis
+#382	AnnotatorNotes T382	GO:0009653 (anatomical structure morphogenesis)
+T383	italic 8603 8618	Tgfbr2/Wnt1-Cre
+#383	AnnotatorNotes T383	italic (null)
+T384	GO_MF 8603 8609	Tgfbr2
+#384	AnnotatorNotes T384	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T385	EntrezGene 8603 8609	Tgfbr2
+#385	AnnotatorNotes T385	EG:21813
+T386	independent_continuant 8603 8609	Tgfbr2
+#386	AnnotatorNotes T386	independent_continuant
+T387	PR 8603 8609	Tgfbr2
+#387	AnnotatorNotes T387	PR:000000005 (TGF-beta receptor type-2)
+T388	PR 8610 8614	Wnt1
+#388	AnnotatorNotes T388	PR:000017435 (proto-oncogene protein Wnt-1)
+T389	SO 8619 8625	mutant
+#389	AnnotatorNotes T389	SO:0001059 (sequence_alteration)
+T390	independent_continuant 8619 8625	mutant
+#390	AnnotatorNotes T390	independent_continuant
+T391	italic 8725 8738	Alk5/Wnt1-Cre
+#391	AnnotatorNotes T391	italic (null)
+T392	EntrezGene 8725 8729	Alk5
+#392	AnnotatorNotes T392	EG:21812
+T393	PR 8725 8729	Alk5
+#393	AnnotatorNotes T393	PR:000000047 (TGF-beta receptor type-1)
+T394	PR 8730 8734	Wnt1
+#394	AnnotatorNotes T394	PR:000017435 (proto-oncogene protein Wnt-1)
+T395	SO 8739 8746	mutants
+#395	AnnotatorNotes T395	SO:0001059 (sequence_alteration)
+T396	independent_continuant 8739 8746	mutants
+#396	AnnotatorNotes T396	independent_continuant
+T397	italic 9025 9038	Alk5/Wnt1-Cre
+#397	AnnotatorNotes T397	italic (null)
+T398	EntrezGene 9025 9029	Alk5
+#398	AnnotatorNotes T398	EG:21812
+T399	PR 9025 9029	Alk5
+#399	AnnotatorNotes T399	PR:000000047 (TGF-beta receptor type-1)
+T400	PR 9030 9034	Wnt1
+#400	AnnotatorNotes T400	PR:000017435 (proto-oncogene protein Wnt-1)
+T401	SO 9039 9046	mutants
+#401	AnnotatorNotes T401	SO:0001059 (sequence_alteration)
+T402	independent_continuant 9039 9046	mutants
+#402	AnnotatorNotes T402	independent_continuant
+T403	GO_BP 9085 9089	form
+#403	AnnotatorNotes T403	GO:0032502 (developmental process)
+T404	GO_BP 9174 9183	branching
+#404	AnnotatorNotes T404	GO:0001763 (morphogenesis of a branching structure)
+T405	GO_BP 9489 9499	patterning
+#405	AnnotatorNotes T405	GO:0007389 (pattern specification process)
+T406	italic 9550 9554	Alk5
+#406	AnnotatorNotes T406	italic (null)
+T407	PR 9550 9554	Alk5
+#407	AnnotatorNotes T407	PR:000000047 (TGF-beta receptor type-1)
+T408	EntrezGene 9550 9554	Alk5
+#408	AnnotatorNotes T408	EG:21812
+T409	italic 9555 9562	Wnt1Cre
+#409	AnnotatorNotes T409	italic (null)
+T410	SO 9563 9570	mutants
+#410	AnnotatorNotes T410	SO:0001059 (sequence_alteration)
+T411	independent_continuant 9563 9570	mutants
+#411	AnnotatorNotes T411	independent_continuant
+T412	GO_BP 9594 9605	development
+#412	AnnotatorNotes T412	GO:0032502 (developmental process)
+T413	GO_BP 9663 9673	remodeling
+#413	AnnotatorNotes T413	GO:0048771 (tissue remodeling)
+T414	EntrezGene 9743 9747	ALK5
+#414	AnnotatorNotes T414	EG:21812
+T415	PR 9743 9747	ALK5
+#415	AnnotatorNotes T415	PR:000000047 (TGF-beta receptor type-1)
+T416	GO_BP 9757 9766	signaling
+#416	AnnotatorNotes T416	GO:0007165 (signal transduction)
+T417	GO_BP 9783 9793	remodeling
+#417	AnnotatorNotes T417	GO:0048771 (tissue remodeling)
+T418	GO_BP 9863 9876	developmental
+#418	AnnotatorNotes T418	GO:0032502 (developmental process)
+T419	italic 9899 9912	Alk5/Wnt1-Cre
+#419	AnnotatorNotes T419	italic (null)
+T420	EntrezGene 9899 9903	Alk5
+#420	AnnotatorNotes T420	EG:21812
+T421	PR 9899 9903	Alk5
+#421	AnnotatorNotes T421	PR:000000047 (TGF-beta receptor type-1)
+T422	PR 9904 9908	Wnt1
+#422	AnnotatorNotes T422	PR:000017435 (proto-oncogene protein Wnt-1)
+T423	SO 9913 9920	mutants
+#423	AnnotatorNotes T423	SO:0001059 (sequence_alteration)
+T424	independent_continuant 9913 9920	mutants
+#424	AnnotatorNotes T424	independent_continuant
+T425	GO_BP 9976 9986	remodeling
+#425	AnnotatorNotes T425	GO:0048771 (tissue remodeling)
+T426	SO 10005 10012	mutants
+#426	AnnotatorNotes T426	SO:0001059 (sequence_alteration)
+T427	independent_continuant 10005 10012	mutants
+#427	AnnotatorNotes T427	independent_continuant
+T428	GO_BP 10074 10080	formed
+#428	AnnotatorNotes T428	GO:0032502 (developmental process)
+T429	sup 10082 10084	rd
+#429	AnnotatorNotes T429	sup (null)
+T430	sup 10087 10089	th
+#430	AnnotatorNotes T430	sup (null)
+T431	sup 10095 10097	th
+#431	AnnotatorNotes T431	sup (null)
+T432	sup 10162 10164	rd
+#432	AnnotatorNotes T432	sup (null)
+T433	sup 10170 10172	th
+#433	AnnotatorNotes T433	sup (null)
+T434	GO_BP 10191 10201	regressing
+#434	AnnotatorNotes T434	GO:0060033 (anatomical structure regression)
+T435	italic 10252 10265	Alk5/Wnt1-Cre
+#435	AnnotatorNotes T435	italic (null)
+T436	EntrezGene 10252 10256	Alk5
+#436	AnnotatorNotes T436	EG:21812
+T437	PR 10252 10256	Alk5
+#437	AnnotatorNotes T437	PR:000000047 (TGF-beta receptor type-1)
+T438	PR 10257 10261	Wnt1
+#438	AnnotatorNotes T438	PR:000017435 (proto-oncogene protein Wnt-1)
+T439	SO 10266 10273	mutants
+#439	AnnotatorNotes T439	SO:0001059 (sequence_alteration)
+T440	independent_continuant 10266 10273	mutants
+#440	AnnotatorNotes T440	independent_continuant
+T441	sup 10280 10282	rd
+#441	AnnotatorNotes T441	sup (null)
+T442	sup 10288 10290	th
+#442	AnnotatorNotes T442	sup (null)
+T443	sup 10348 10350	th
+#443	AnnotatorNotes T443	sup (null)
+T444	SO 10586 10593	mutants
+#444	AnnotatorNotes T444	SO:0001059 (sequence_alteration)
+T445	independent_continuant 10586 10593	mutants
+#445	AnnotatorNotes T445	independent_continuant
+T446	sup 10666 10668	th
+#446	AnnotatorNotes T446	sup (null)
+T447	sup 10674 10676	th
+#447	AnnotatorNotes T447	sup (null)
+T448	bold 10713 10769	Abnormal patterning of the PAAs in Alk5/Wnt1-Cre mutants
+#448	AnnotatorNotes T448	bold (null)
+T449	GO_BP 10722 10732	patterning
+#449	AnnotatorNotes T449	GO:0007389 (pattern specification process)
+T450	italic 10748 10761	Alk5/Wnt1-Cre
+#450	AnnotatorNotes T450	italic (null)
+T451	EntrezGene 10748 10752	Alk5
+#451	AnnotatorNotes T451	EG:21812
+T452	PR 10748 10752	Alk5
+#452	AnnotatorNotes T452	PR:000000047 (TGF-beta receptor type-1)
+T453	PR 10753 10757	Wnt1
+#453	AnnotatorNotes T453	PR:000017435 (proto-oncogene protein Wnt-1)
+T454	SO 10762 10769	mutants
+#454	AnnotatorNotes T454	SO:0001059 (sequence_alteration)
+T455	independent_continuant 10762 10769	mutants
+#455	AnnotatorNotes T455	independent_continuant
+T456	GO_BP 10840 10850	developing
+#456	AnnotatorNotes T456	GO:0032502 (developmental process)
+T457	italic 10928 10941	Alk5/Wnt1-Cre
+#457	AnnotatorNotes T457	italic (null)
+T458	EntrezGene 10928 10932	Alk5
+#458	AnnotatorNotes T458	EG:21812
+T459	PR 10928 10932	Alk5
+#459	AnnotatorNotes T459	PR:000000047 (TGF-beta receptor type-1)
+T460	PR 10933 10937	Wnt1
+#460	AnnotatorNotes T460	PR:000017435 (proto-oncogene protein Wnt-1)
+T461	SO 10942 10949	mutants
+#461	AnnotatorNotes T461	SO:0001059 (sequence_alteration)
+T462	independent_continuant 10942 10949	mutants
+#462	AnnotatorNotes T462	independent_continuant
+T463	GO_BP 10986 10996	regressing
+#463	AnnotatorNotes T463	GO:0060033 (anatomical structure regression)
+T464	SO 11068 11074	mutant
+#464	AnnotatorNotes T464	SO:0001059 (sequence_alteration)
+T465	independent_continuant 11068 11074	mutant
+#465	AnnotatorNotes T465	independent_continuant
+T466	GO_BP 11092 11102	regression
+#466	AnnotatorNotes T466	GO:0060033 (anatomical structure regression)
+T467	GO_BP 11143 11153	regression
+#467	AnnotatorNotes T467	GO:0060033 (anatomical structure regression)
+T468	sup 11187 11189	th
+#468	AnnotatorNotes T468	sup (null)
+T469	sup 11195 11197	th
+#469	AnnotatorNotes T469	sup (null)
+T470	GO_BP 11299 11304	forms
+#470	AnnotatorNotes T470	GO:0032502 (developmental process)
+T471	sup 11552 11554	th
+#471	AnnotatorNotes T471	sup (null)
+T472	italic 11609 11622	Alk5/Wnt1-Cre
+#472	AnnotatorNotes T472	italic (null)
+T473	EntrezGene 11609 11613	Alk5
+#473	AnnotatorNotes T473	EG:21812
+T474	PR 11609 11613	Alk5
+#474	AnnotatorNotes T474	PR:000000047 (TGF-beta receptor type-1)
+T475	PR 11614 11618	Wnt1
+#475	AnnotatorNotes T475	PR:000017435 (proto-oncogene protein Wnt-1)
+T476	SO 11623 11630	mutants
+#476	AnnotatorNotes T476	SO:0001059 (sequence_alteration)
+T477	independent_continuant 11623 11630	mutants
+#477	AnnotatorNotes T477	independent_continuant
+T478	GO_BP 11666 11670	form
+#478	AnnotatorNotes T478	GO:0032502 (developmental process)
+T479	GO_BP 11755 11763	branched
+#479	AnnotatorNotes T479	GO:0001763 (morphogenesis of a branching structure)
+T480	sup 11818 11820	th
+#480	AnnotatorNotes T480	sup (null)
+T481	bold 12110 12154	Abnormal Aortic Sac in Alk5/Wnt1-Cre mutants
+#481	AnnotatorNotes T481	bold (null)
+T482	italic 12133 12146	Alk5/Wnt1-Cre
+#482	AnnotatorNotes T482	italic (null)
+T483	EntrezGene 12133 12137	Alk5
+#483	AnnotatorNotes T483	EG:21812
+T484	PR 12133 12137	Alk5
+#484	AnnotatorNotes T484	PR:000000047 (TGF-beta receptor type-1)
+T485	PR 12138 12142	Wnt1
+#485	AnnotatorNotes T485	PR:000017435 (proto-oncogene protein Wnt-1)
+T486	SO 12147 12154	mutants
+#486	AnnotatorNotes T486	SO:0001059 (sequence_alteration)
+T487	independent_continuant 12147 12154	mutants
+#487	AnnotatorNotes T487	independent_continuant
+T488	italic 12156 12169	Alk5/Wnt1-Cre
+#488	AnnotatorNotes T488	italic (null)
+T489	EntrezGene 12156 12160	Alk5
+#489	AnnotatorNotes T489	EG:21812
+T490	PR 12156 12160	Alk5
+#490	AnnotatorNotes T490	PR:000000047 (TGF-beta receptor type-1)
+T491	PR 12161 12165	Wnt1
+#491	AnnotatorNotes T491	PR:000017435 (proto-oncogene protein Wnt-1)
+T492	SO 12170 12177	mutants
+#492	AnnotatorNotes T492	SO:0001059 (sequence_alteration)
+T493	independent_continuant 12170 12177	mutants
+#493	AnnotatorNotes T493	independent_continuant
+T494	GO_BP 12193 12197	form
+#494	AnnotatorNotes T494	GO:0032502 (developmental process)
+T495	SO 12495 12501	mutant
+#495	AnnotatorNotes T495	SO:0001059 (sequence_alteration)
+T496	independent_continuant 12495 12501	mutant
+#496	AnnotatorNotes T496	independent_continuant
+T497	CL 12527 12531	NCCs
+#497	AnnotatorNotes T497	CL:0000333 (neural crest cell)
+T498	italic 12545 12549	Alk5
+#498	AnnotatorNotes T498	italic (null)
+T499	PR 12545 12549	Alk5
+#499	AnnotatorNotes T499	PR:000000047 (TGF-beta receptor type-1)
+T500	EntrezGene 12545 12549	Alk5
+#500	AnnotatorNotes T500	EG:21812
+T501	italic 12599 12603	R26R
+#501	AnnotatorNotes T501	italic (null)
+T502	italic 12717 12721	Alk5
+#502	AnnotatorNotes T502	italic (null)
+T503	sup 12721 12730	Flox/Flox
+#503	AnnotatorNotes T503	sup (null)
+T504	italic 12721 12725	Flox
+#504	AnnotatorNotes T504	italic (null)
+T505	italic 12726 12730	Flox
+#505	AnnotatorNotes T505	italic (null)
+T506	SO 12726 12730	Flox
+#506	AnnotatorNotes T506	SO:0000359 (floxed)
+T507	NCBITaxon 12731 12735	mice
+#507	AnnotatorNotes T507	NCBITaxon:10088 (Mus)
+T508	italic 12758 12768	ROSA26 Cre
+#508	AnnotatorNotes T508	italic (null)
+T509	EntrezGene 12758 12764	ROSA26
+#509	AnnotatorNotes T509	EG:14910
+T510	NCBITaxon 12778 12782	mice
+#510	AnnotatorNotes T510	NCBITaxon:10088 (Mus)
+T511	italic 12801 12805	Alk5
+#511	AnnotatorNotes T511	italic (null)
+T512	sup 12805 12814	Flox/Flox
+#512	AnnotatorNotes T512	sup (null)
+T513	italic 12805 12809	Flox
+#513	AnnotatorNotes T513	italic (null)
+T514	italic 12810 12814	Flox
+#514	AnnotatorNotes T514	italic (null)
+T515	SO 12810 12814	Flox
+#515	AnnotatorNotes T515	SO:0000359 (floxed)
+T516	italic 12815 12819	R26R
+#516	AnnotatorNotes T516	italic (null)
+T517	SO 12820 12821	+
+#517	AnnotatorNotes T517	SO:0000817 (wild_type)
+T518	SO 12822 12823	+
+#518	AnnotatorNotes T518	SO:0000817 (wild_type)
+T519	italic 12851 12855	Alk5
+#519	AnnotatorNotes T519	italic (null)
+T520	sup 12855 12860	KO/WT
+#520	AnnotatorNotes T520	sup (null)
+T521	italic 12855 12857	KO
+#521	AnnotatorNotes T521	italic (null)
+T522	italic 12858 12860	WT
+#522	AnnotatorNotes T522	italic (null)
+T523	SO 12858 12860	WT
+#523	AnnotatorNotes T523	SO:0000817 (wild_type)
+T524	italic 12860 12869	;Wnt1-Cre
+#524	AnnotatorNotes T524	italic (null)
+T525	PR 12861 12865	Wnt1
+#525	AnnotatorNotes T525	PR:000017435 (proto-oncogene protein Wnt-1)
+T526	GO_MF 12943 12958	β-galactosidase
+#526	AnnotatorNotes T526	GO:0004565 (beta-galactosidase activity)
+T527	independent_continuant 12943 12958	β-galactosidase
+#527	AnnotatorNotes T527	independent_continuant
+T528	GO_BP 12959 12969	expression
+#528	AnnotatorNotes T528	GO:0010467 (gene expression)
+T529	italic 13036 13040	R26R
+#529	AnnotatorNotes T529	italic (null)
+T530	GO_MF 13075 13090	β-galactosidase
+#530	AnnotatorNotes T530	GO:0004565 (beta-galactosidase activity)
+T531	independent_continuant 13075 13090	β-galactosidase
+#531	AnnotatorNotes T531	independent_continuant
+T532	GO_BP 13142 13155	NCC migration
+#532	AnnotatorNotes T532	GO:0001755 (neural crest cell migration)
+T533	CL 13142 13145	NCC
+#533	AnnotatorNotes T533	CL:0000333 (neural crest cell)
+T534	SO 13164 13171	mutants
+#534	AnnotatorNotes T534	SO:0001059 (sequence_alteration)
+T535	independent_continuant 13164 13171	mutants
+#535	AnnotatorNotes T535	independent_continuant
+T536	CL 13322 13327	cells
+#536	AnnotatorNotes T536	CL:0000000 (cell)
+T537	GO_CC 13322 13327	cells
+#537	AnnotatorNotes T537	GO:0005623 (cell)
+T538	italic 13383 13387	Alk5
+#538	AnnotatorNotes T538	italic (null)
+T539	EntrezGene 13383 13387	Alk5
+#539	AnnotatorNotes T539	EG:21812
+T540	PR 13383 13387	Alk5
+#540	AnnotatorNotes T540	PR:000000047 (TGF-beta receptor type-1)
+T541	italic 13550 13563	Alk5/Wnt1-Cre
+#541	AnnotatorNotes T541	italic (null)
+T542	EntrezGene 13550 13554	Alk5
+#542	AnnotatorNotes T542	EG:21812
+T543	PR 13550 13554	Alk5
+#543	AnnotatorNotes T543	PR:000000047 (TGF-beta receptor type-1)
+T544	PR 13555 13559	Wnt1
+#544	AnnotatorNotes T544	PR:000017435 (proto-oncogene protein Wnt-1)
+T545	SO 13564 13571	mutants
+#545	AnnotatorNotes T545	SO:0001059 (sequence_alteration)
+T546	independent_continuant 13564 13571	mutants
+#546	AnnotatorNotes T546	independent_continuant
+T547	GO_BP 13608 13617	migration
+#547	AnnotatorNotes T547	GO:0016477 (cell migration)
+T548	bold 13683 13736	Normal cardiac NCC migration in Alk5/Wnt1-Cre mutants
+#548	AnnotatorNotes T548	bold (null)
+T549	GO_BP 13698 13711	NCC migration
+#549	AnnotatorNotes T549	GO:0001755 (neural crest cell migration)
+T550	CL 13698 13701	NCC
+#550	AnnotatorNotes T550	CL:0000333 (neural crest cell)
+T551	italic 13715 13728	Alk5/Wnt1-Cre
+#551	AnnotatorNotes T551	italic (null)
+T552	EntrezGene 13715 13719	Alk5
+#552	AnnotatorNotes T552	EG:21812
+T553	PR 13715 13719	Alk5
+#553	AnnotatorNotes T553	PR:000000047 (TGF-beta receptor type-1)
+T554	PR 13720 13724	Wnt1
+#554	AnnotatorNotes T554	PR:000017435 (proto-oncogene protein Wnt-1)
+T555	SO 13729 13736	mutants
+#555	AnnotatorNotes T555	SO:0001059 (sequence_alteration)
+T556	independent_continuant 13729 13736	mutants
+#556	AnnotatorNotes T556	independent_continuant
+T557	italic 13772 13785	Alk5/Wnt1-Cre
+#557	AnnotatorNotes T557	italic (null)
+T558	EntrezGene 13772 13776	Alk5
+#558	AnnotatorNotes T558	EG:21812
+T559	PR 13772 13776	Alk5
+#559	AnnotatorNotes T559	PR:000000047 (TGF-beta receptor type-1)
+T560	PR 13777 13781	Wnt1
+#560	AnnotatorNotes T560	PR:000017435 (proto-oncogene protein Wnt-1)
+T561	SO 13786 13793	mutants
+#561	AnnotatorNotes T561	SO:0001059 (sequence_alteration)
+T562	independent_continuant 13786 13793	mutants
+#562	AnnotatorNotes T562	independent_continuant
+T563	italic 13862 13866	R26R
+#563	AnnotatorNotes T563	italic (null)
+T564	sup 13993 13995	th
+#564	AnnotatorNotes T564	sup (null)
+T565	sup 14008 14010	th
+#565	AnnotatorNotes T565	sup (null)
+T566	GO_MF 14099 14114	β-galactosidase
+#566	AnnotatorNotes T566	GO:0004565 (beta-galactosidase activity)
+T567	independent_continuant 14099 14114	β-galactosidase
+#567	AnnotatorNotes T567	independent_continuant
+T568	italic 14177 14181	Alk5
+#568	AnnotatorNotes T568	italic (null)
+T569	PR 14177 14181	Alk5
+#569	AnnotatorNotes T569	PR:000000047 (TGF-beta receptor type-1)
+T570	EntrezGene 14177 14181	Alk5
+#570	AnnotatorNotes T570	EG:21812
+T571	italic 14182 14189	Wnt1Cre
+#571	AnnotatorNotes T571	italic (null)
+T572	SO 14190 14196	mutant
+#572	AnnotatorNotes T572	SO:0001059 (sequence_alteration)
+T573	GO_BP 14414 14419	forms
+#573	AnnotatorNotes T573	GO:0032502 (developmental process)
+T574	sup 14474 14476	th
+#574	AnnotatorNotes T574	sup (null)
+T575	sup 14482 14484	th
+#575	AnnotatorNotes T575	sup (null)
+T576	GO_BP 14523 14533	developing
+#576	AnnotatorNotes T576	GO:0032502 (developmental process)
+T577	italic 14931 14944	Alk5/Wnt1-Cre
+#577	AnnotatorNotes T577	italic (null)
+T578	EntrezGene 14931 14935	Alk5
+#578	AnnotatorNotes T578	EG:21812
+T579	PR 14931 14935	Alk5
+#579	AnnotatorNotes T579	PR:000000047 (TGF-beta receptor type-1)
+T580	PR 14936 14940	Wnt1
+#580	AnnotatorNotes T580	PR:000017435 (proto-oncogene protein Wnt-1)
+T581	SO 14945 14952	mutants
+#581	AnnotatorNotes T581	SO:0001059 (sequence_alteration)
+T582	independent_continuant 14945 14952	mutants
+#582	AnnotatorNotes T582	independent_continuant
+T583	italic 15486 15490	R26R
+#583	AnnotatorNotes T583	italic (null)
+T584	EntrezGene 15580 15585	α-SMA
+#584	AnnotatorNotes T584	EG:11475
+T585	PR 15580 15585	α-SMA
+#585	AnnotatorNotes T585	PR:000003675 (actin, aortic smooth muscle)
+T586	GO_BP 15593 15627	differentiation into smooth muscle
+#586	AnnotatorNotes T586	GO:0051145 (smooth muscle cell differentiation)
+T587	italic 15641 15654	Alk5/Wnt1-Cre
+#587	AnnotatorNotes T587	italic (null)
+T588	EntrezGene 15641 15645	Alk5
+#588	AnnotatorNotes T588	EG:21812
+T589	PR 15641 15645	Alk5
+#589	AnnotatorNotes T589	PR:000000047 (TGF-beta receptor type-1)
+T590	PR 15646 15650	Wnt1
+#590	AnnotatorNotes T590	PR:000017435 (proto-oncogene protein Wnt-1)
+T591	SO 15655 15662	mutants
+#591	AnnotatorNotes T591	SO:0001059 (sequence_alteration)
+T592	independent_continuant 15655 15662	mutants
+#592	AnnotatorNotes T592	independent_continuant
+T593	GO_BP 15773 15779	formed
+#593	AnnotatorNotes T593	GO:0032502 (developmental process)
+T594	CL 15900 15904	NCCs
+#594	AnnotatorNotes T594	CL:0000333 (neural crest cell)
+T595	CL 15941 15946	cells
+#595	AnnotatorNotes T595	CL:0000000 (cell)
+T596	GO_CC 15941 15946	cells
+#596	AnnotatorNotes T596	GO:0005623 (cell)
+T597	EntrezGene 16059 16063	αSMA
+#597	AnnotatorNotes T597	EG:11475
+T598	PR 16059 16063	αSMA
+#598	AnnotatorNotes T598	PR:000003675 (actin, aortic smooth muscle)
+T599	SO 16129 16136	mutants
+#599	AnnotatorNotes T599	SO:0001059 (sequence_alteration)
+T600	independent_continuant 16129 16136	mutants
+#600	AnnotatorNotes T600	independent_continuant
+T601	PR 16152 16167	type I receptor
+#601	AnnotatorNotes T601	PR:000000006 (TGF-beta superfamily receptor type-1)
+T602	independent_continuant 16159 16167	receptor
+#602	AnnotatorNotes T602	independent_continuant
+T603	GO_MF 16159 16167	receptor
+#603	AnnotatorNotes T603	GO:0004872 (receptor activity)
+T604	italic 16169 16173	Alk2
+#604	AnnotatorNotes T604	italic (null)
+T605	PR 16169 16173	Alk2
+#605	AnnotatorNotes T605	PR:000000067 (activin receptor type-1)
+T606	italic 16204 16217	Alk2/Wnt1-Cre
+#606	AnnotatorNotes T606	italic (null)
+T607	EntrezGene 16204 16208	Alk2
+#607	AnnotatorNotes T607	EG:11477
+T608	PR 16204 16208	Alk2
+#608	AnnotatorNotes T608	PR:000000067 (activin receptor type-1)
+T609	PR 16209 16213	Wnt1
+#609	AnnotatorNotes T609	PR:000017435 (proto-oncogene protein Wnt-1)
+T610	SO 16218 16225	mutants
+#610	AnnotatorNotes T610	SO:0001059 (sequence_alteration)
+T611	independent_continuant 16218 16225	mutants
+#611	AnnotatorNotes T611	independent_continuant
+T612	italic 16313 16326	Alk5/Wnt1-Cre
+#612	AnnotatorNotes T612	italic (null)
+T613	EntrezGene 16313 16317	Alk5
+#613	AnnotatorNotes T613	EG:21812
+T614	PR 16313 16317	Alk5
+#614	AnnotatorNotes T614	PR:000000047 (TGF-beta receptor type-1)
+T615	PR 16318 16322	Wnt1
+#615	AnnotatorNotes T615	PR:000017435 (proto-oncogene protein Wnt-1)
+T616	SO 16327 16334	mutants
+#616	AnnotatorNotes T616	SO:0001059 (sequence_alteration)
+T617	independent_continuant 16327 16334	mutants
+#617	AnnotatorNotes T617	independent_continuant
+T618	italic 16348 16352	Alk2
+#618	AnnotatorNotes T618	italic (null)
+T619	EntrezGene 16348 16352	Alk2
+#619	AnnotatorNotes T619	EG:11477
+T620	PR 16348 16352	Alk2
+#620	AnnotatorNotes T620	PR:000000067 (activin receptor type-1)
+T621	SO 16353 16360	mutants
+#621	AnnotatorNotes T621	SO:0001059 (sequence_alteration)
+T622	independent_continuant 16353 16360	mutants
+#622	AnnotatorNotes T622	independent_continuant
+T623	sup 16366 16368	th
+#623	AnnotatorNotes T623	sup (null)
+T624	italic 16425 16438	Alk2/Wnt1-Cre
+#624	AnnotatorNotes T624	italic (null)
+T625	EntrezGene 16425 16429	Alk2
+#625	AnnotatorNotes T625	EG:11477
+T626	PR 16425 16429	Alk2
+#626	AnnotatorNotes T626	PR:000000067 (activin receptor type-1)
+T627	PR 16430 16434	Wnt1
+#627	AnnotatorNotes T627	PR:000017435 (proto-oncogene protein Wnt-1)
+T628	SO 16439 16446	mutants
+#628	AnnotatorNotes T628	SO:0001059 (sequence_alteration)
+T629	independent_continuant 16439 16446	mutants
+#629	AnnotatorNotes T629	independent_continuant
+T630	sup 16507 16509	th
+#630	AnnotatorNotes T630	sup (null)
+T631	sup 16515 16517	th
+#631	AnnotatorNotes T631	sup (null)
+T632	italic 16576 16580	Alk2
+#632	AnnotatorNotes T632	italic (null)
+T633	PR 16576 16580	Alk2
+#633	AnnotatorNotes T633	PR:000000067 (activin receptor type-1)
+T634	EntrezGene 16576 16580	Alk2
+#634	AnnotatorNotes T634	EG:11477
+T635	GO_BP 16642 16646	form
+#635	AnnotatorNotes T635	GO:0032502 (developmental process)
+T636	sup 16681 16683	th
+#636	AnnotatorNotes T636	sup (null)
+T637	GO_BP 16816 16823	migrate
+#637	AnnotatorNotes T637	GO:0016477 (cell migration)
+T638	EntrezGene 16906 16910	αSMA
+#638	AnnotatorNotes T638	EG:11475
+T639	PR 16906 16910	αSMA
+#639	AnnotatorNotes T639	PR:000003675 (actin, aortic smooth muscle)
+T640	italic 16962 16966	Alk5
+#640	AnnotatorNotes T640	italic (null)
+T641	PR 16962 16966	Alk5
+#641	AnnotatorNotes T641	PR:000000047 (TGF-beta receptor type-1)
+T642	EntrezGene 16962 16966	Alk5
+#642	AnnotatorNotes T642	EG:21812
+T643	SO 16967 16974	mutants
+#643	AnnotatorNotes T643	SO:0001059 (sequence_alteration)
+T644	independent_continuant 16967 16974	mutants
+#644	AnnotatorNotes T644	independent_continuant
+T645	EntrezGene 16990 16994	ALK2
+#645	AnnotatorNotes T645	EG:11477
+T646	PR 16990 16994	ALK2
+#646	AnnotatorNotes T646	PR:000000067 (activin receptor type-1)
+T647	GO_BP 17004 17013	signaling
+#647	AnnotatorNotes T647	GO:0007165 (signal transduction)
+T648	CL 17029 17047	smooth muscle cell
+#648	AnnotatorNotes T648	CL:0000192 (smooth muscle cell)
+T649	GO_BP 17043 17063	cell differentiation
+#649	AnnotatorNotes T649	GO:0030154 (cell differentiation)
+T650	GO_CC 17043 17047	cell
+#650	AnnotatorNotes T650	GO:0005623 (cell)
+T651	italic 17118 17122	Alk2
+#651	AnnotatorNotes T651	italic (null)
+T652	PR 17118 17122	Alk2
+#652	AnnotatorNotes T652	PR:000000067 (activin receptor type-1)
+T653	EntrezGene 17118 17122	Alk2
+#653	AnnotatorNotes T653	EG:11477
+T654	italic 17127 17131	Alk5
+#654	AnnotatorNotes T654	italic (null)
+T655	EntrezGene 17127 17131	Alk5
+#655	AnnotatorNotes T655	EG:21812
+T656	PR 17127 17131	Alk5
+#656	AnnotatorNotes T656	PR:000000047 (TGF-beta receptor type-1)
+T657	SO 17132 17139	mutants
+#657	AnnotatorNotes T657	SO:0001059 (sequence_alteration)
+T658	independent_continuant 17132 17139	mutants
+#658	AnnotatorNotes T658	independent_continuant
+T659	GO_BP 17233 17242	formation
+#659	AnnotatorNotes T659	GO:0032502 (developmental process)
+T660	bold 17350 17406	The truncal OFT fails to rotate in Alk5/Wnt1-Cre mutants
+#660	AnnotatorNotes T660	bold (null)
+T661	italic 17385 17398	Alk5/Wnt1-Cre
+#661	AnnotatorNotes T661	italic (null)
+T662	EntrezGene 17385 17389	Alk5
+#662	AnnotatorNotes T662	EG:21812
+T663	PR 17385 17389	Alk5
+#663	AnnotatorNotes T663	PR:000000047 (TGF-beta receptor type-1)
+T664	PR 17390 17394	Wnt1
+#664	AnnotatorNotes T664	PR:000017435 (proto-oncogene protein Wnt-1)
+T665	SO 17399 17406	mutants
+#665	AnnotatorNotes T665	SO:0001059 (sequence_alteration)
+T666	independent_continuant 17399 17406	mutants
+#666	AnnotatorNotes T666	independent_continuant
+T667	SO 17486 17492	mutant
+#667	AnnotatorNotes T667	SO:0001059 (sequence_alteration)
+T668	SO 17559 17566	mutants
+#668	AnnotatorNotes T668	SO:0001059 (sequence_alteration)
+T669	independent_continuant 17559 17566	mutants
+#669	AnnotatorNotes T669	independent_continuant
+T670	bold 17787 17872	Signaling via ALK5 and ALK2 controls different aspects of aortico-pulmonary septation
+#670	AnnotatorNotes T670	bold (null)
+T671	GO_BP 17787 17796	Signaling
+#671	AnnotatorNotes T671	GO:0007165 (signal transduction)
+T672	EntrezGene 17801 17805	ALK5
+#672	AnnotatorNotes T672	EG:21812
+T673	PR 17801 17805	ALK5
+#673	AnnotatorNotes T673	PR:000000047 (TGF-beta receptor type-1)
+T674	EntrezGene 17810 17814	ALK2
+#674	AnnotatorNotes T674	EG:11477
+T675	PR 17810 17814	ALK2
+#675	AnnotatorNotes T675	PR:000000067 (activin receptor type-1)
+T676	GO_BP 17815 17823	controls
+#676	AnnotatorNotes T676	GO:0065007 (biological regulation)
+T677	italic 17960 17973	Alk5/Wnt1-Cre
+#677	AnnotatorNotes T677	italic (null)
+T678	EntrezGene 17960 17964	Alk5
+#678	AnnotatorNotes T678	EG:21812
+T679	PR 17960 17964	Alk5
+#679	AnnotatorNotes T679	PR:000000047 (TGF-beta receptor type-1)
+T680	PR 17965 17969	Wnt1
+#680	AnnotatorNotes T680	PR:000017435 (proto-oncogene protein Wnt-1)
+T681	SO 17974 17980	mutant
+#681	AnnotatorNotes T681	SO:0001059 (sequence_alteration)
+T682	italic 17991 18004	Alk2/Wnt1-Cre
+#682	AnnotatorNotes T682	italic (null)
+T683	EntrezGene 17991 17995	Alk2
+#683	AnnotatorNotes T683	EG:11477
+T684	PR 17991 17995	Alk2
+#684	AnnotatorNotes T684	PR:000000067 (activin receptor type-1)
+T685	PR 17996 18000	Wnt1
+#685	AnnotatorNotes T685	PR:000017435 (proto-oncogene protein Wnt-1)
+T686	SO 18005 18011	mutant
+#686	AnnotatorNotes T686	SO:0001059 (sequence_alteration)
+T687	EntrezGene 18123 18127	αSMA
+#687	AnnotatorNotes T687	EG:11475
+T688	PR 18123 18127	αSMA
+#688	AnnotatorNotes T688	PR:000003675 (actin, aortic smooth muscle)
+T689	GO_MF 18140 18155	β-galactosidase
+#689	AnnotatorNotes T689	GO:0004565 (beta-galactosidase activity)
+T690	independent_continuant 18140 18155	β-galactosidase
+#690	AnnotatorNotes T690	independent_continuant
+T691	sup 18194 18196	th
+#691	AnnotatorNotes T691	sup (null)
+T692	italic 18335 18339	Alk5
+#692	AnnotatorNotes T692	italic (null)
+T693	EntrezGene 18335 18339	Alk5
+#693	AnnotatorNotes T693	EG:21812
+T694	PR 18335 18339	Alk5
+#694	AnnotatorNotes T694	PR:000000047 (TGF-beta receptor type-1)
+T695	italic 18340 18348	Wnt1-Cre
+#695	AnnotatorNotes T695	italic (null)
+T696	PR 18340 18344	Wnt1
+#696	AnnotatorNotes T696	PR:000017435 (proto-oncogene protein Wnt-1)
+T697	SO 18349 18356	mutants
+#697	AnnotatorNotes T697	SO:0001059 (sequence_alteration)
+T698	independent_continuant 18349 18356	mutants
+#698	AnnotatorNotes T698	independent_continuant
+T699	GO_BP 18375 18421	apoptosis of post-migratory neural crest cells
+#699	AnnotatorNotes T699	"apoptosis of .. cells" GO:0006915 (apoptosis)
+T700	GO_BP 18393 18402	migratory
+#700	AnnotatorNotes T700	GO:0016477 (cell migration)
+T701	CL 18403 18421	neural crest cells
+#701	AnnotatorNotes T701	CL:0000333 (neural crest cell)
+T702	GO_CC 18416 18421	cells
+#702	AnnotatorNotes T702	GO:0005623 (cell)
+T703	italic 18443 18456	Alk5/Wnt1-Cre
+#703	AnnotatorNotes T703	italic (null)
+T704	EntrezGene 18443 18447	Alk5
+#704	AnnotatorNotes T704	EG:21812
+T705	PR 18443 18447	Alk5
+#705	AnnotatorNotes T705	PR:000000047 (TGF-beta receptor type-1)
+T706	PR 18448 18452	Wnt1
+#706	AnnotatorNotes T706	PR:000017435 (proto-oncogene protein Wnt-1)
+T707	SO 18457 18464	mutants
+#707	AnnotatorNotes T707	SO:0001059 (sequence_alteration)
+T708	independent_continuant 18457 18464	mutants
+#708	AnnotatorNotes T708	independent_continuant
+T709	sup 18570 18572	th
+#709	AnnotatorNotes T709	sup (null)
+T710	sup 18578 18580	th
+#710	AnnotatorNotes T710	sup (null)
+T711	GO_BP 18657 18670	proliferation
+#711	AnnotatorNotes T711	GO:0008283 (cell proliferation)
+T712	GO_BP 18688 18697	apoptosis
+#712	AnnotatorNotes T712	GO:0006915 (apoptosis)
+T713	GO_BP 18757 18770	proliferation
+#713	AnnotatorNotes T713	GO:0008283 (cell proliferation)
+T714	italic 18791 18795	Alk5
+#714	AnnotatorNotes T714	italic (null)
+T715	PR 18791 18795	Alk5
+#715	AnnotatorNotes T715	PR:000000047 (TGF-beta receptor type-1)
+T716	EntrezGene 18791 18795	Alk5
+#716	AnnotatorNotes T716	EG:21812
+T717	SO 18796 18803	mutants
+#717	AnnotatorNotes T717	SO:0001059 (sequence_alteration)
+T718	independent_continuant 18796 18803	mutants
+#718	AnnotatorNotes T718	independent_continuant
+T719	CL 18890 18895	cells
+#719	AnnotatorNotes T719	CL:0000000 (cell)
+T720	GO_CC 18890 18895	cells
+#720	AnnotatorNotes T720	GO:0005623 (cell)
+T721	GO_BP 18973 18978	forms
+#721	AnnotatorNotes T721	GO:0032502 (developmental process)
+T722	italic 19010 19014	lacZ
+#722	AnnotatorNotes T722	italic (null)
+T723	CL 19034 19039	cells
+#723	AnnotatorNotes T723	CL:0000000 (cell)
+T724	GO_CC 19034 19039	cells
+#724	AnnotatorNotes T724	GO:0005623 (cell)
+T725	CL 19064 19069	cells
+#725	AnnotatorNotes T725	CL:0000000 (cell)
+T726	GO_CC 19064 19069	cells
+#726	AnnotatorNotes T726	GO:0005623 (cell)
+T727	PR 19209 19226	cleaved caspase-3
+#727	AnnotatorNotes T727	PR:000018762 (caspase-3 proteolytic cleavage product)
+T728	GO_BP 19209 19216	cleaved
+#728	AnnotatorNotes T728	GO:0030908 (protein splicing)
+T729	EntrezGene 19217 19226	caspase-3
+#729	AnnotatorNotes T729	EG:12367
+T730	GO_MF 19217 19224	caspase
+#730	AnnotatorNotes T730	GO:0030693 (caspase activity)
+T731	independent_continuant 19217 19224	caspase
+#731	AnnotatorNotes T731	independent_continuant
+T732	GO_BP 19247 19256	apoptosis
+#732	AnnotatorNotes T732	GO:0006915 (apoptosis)
+T733	CL 19284 19320	apoptotic neural crest-derived cells
+#733	AnnotatorNotes T733	"apoptotic .. cells" CL:0000445 (apoptosis fated cell)
+T734	GO_BP 19284 19293	apoptotic
+#734	AnnotatorNotes T734	GO:0006915 (apoptosis)
+T735	GO_CC 19315 19320	cells
+#735	AnnotatorNotes T735	GO:0005623 (cell)
+T736	GO_BP 19459 19468	apoptosis
+#736	AnnotatorNotes T736	GO:0006915 (apoptosis)
+T737	italic 19564 19577	Alk5/Wnt1-Cre
+#737	AnnotatorNotes T737	italic (null)
+T738	EntrezGene 19564 19568	Alk5
+#738	AnnotatorNotes T738	EG:21812
+T739	PR 19564 19568	Alk5
+#739	AnnotatorNotes T739	PR:000000047 (TGF-beta receptor type-1)
+T740	PR 19569 19573	Wnt1
+#740	AnnotatorNotes T740	PR:000017435 (proto-oncogene protein Wnt-1)
+T741	SO 19578 19585	mutants
+#741	AnnotatorNotes T741	SO:0001059 (sequence_alteration)
+T742	independent_continuant 19578 19585	mutants
+#742	AnnotatorNotes T742	independent_continuant
+T743	italic 19622 19635	Alk5/Wnt1-Cre
+#743	AnnotatorNotes T743	italic (null)
+T744	EntrezGene 19622 19626	Alk5
+#744	AnnotatorNotes T744	EG:21812
+T745	PR 19622 19626	Alk5
+#745	AnnotatorNotes T745	PR:000000047 (TGF-beta receptor type-1)
+T746	PR 19627 19631	Wnt1
+#746	AnnotatorNotes T746	PR:000017435 (proto-oncogene protein Wnt-1)
+T747	SO 19636 19642	mutant
+#747	AnnotatorNotes T747	SO:0001059 (sequence_alteration)
+T748	GO_BP 19662 19691	apoptosis of NC-derived cells
+#748	AnnotatorNotes T748	"apoptosis of .. cells" GO:0006915 (apoptosis)
+T749	CL 19686 19691	cells
+#749	AnnotatorNotes T749	CL:0000000 (cell)
+T750	GO_CC 19686 19691	cells
+#750	AnnotatorNotes T750	GO:0005623 (cell)
+T751	italic 19774 19778	Alk2
+#751	AnnotatorNotes T751	italic (null)
+T752	PR 19774 19778	Alk2
+#752	AnnotatorNotes T752	PR:000000067 (activin receptor type-1)
+T753	EntrezGene 19774 19778	Alk2
+#753	AnnotatorNotes T753	EG:11477
+T754	SO 19779 19786	mutants
+#754	AnnotatorNotes T754	SO:0001059 (sequence_alteration)
+T755	independent_continuant 19779 19786	mutants
+#755	AnnotatorNotes T755	independent_continuant
+T756	bold 19811 19862	Aberrant apoptosis of NCCs in Alk5/Wnt1-Cre mutants
+#756	AnnotatorNotes T756	bold (null)
+T757	GO_BP 19820 19829	apoptosis
+#757	AnnotatorNotes T757	GO:0006915 (apoptosis)
+T758	CL 19833 19837	NCCs
+#758	AnnotatorNotes T758	CL:0000333 (neural crest cell)
+T759	italic 19841 19854	Alk5/Wnt1-Cre
+#759	AnnotatorNotes T759	italic (null)
+T760	EntrezGene 19841 19845	Alk5
+#760	AnnotatorNotes T760	EG:21812
+T761	PR 19841 19845	Alk5
+#761	AnnotatorNotes T761	PR:000000047 (TGF-beta receptor type-1)
+T762	PR 19846 19850	Wnt1
+#762	AnnotatorNotes T762	PR:000017435 (proto-oncogene protein Wnt-1)
+T763	SO 19855 19862	mutants
+#763	AnnotatorNotes T763	SO:0001059 (sequence_alteration)
+T764	independent_continuant 19855 19862	mutants
+#764	AnnotatorNotes T764	independent_continuant
+T765	PR 19880 19897	Cleaved Caspase-3
+#765	AnnotatorNotes T765	PR:000018762 (caspase-3 proteolytic cleavage product)
+T766	GO_BP 19880 19887	Cleaved
+#766	AnnotatorNotes T766	GO:0030908 (protein splicing)
+T767	EntrezGene 19888 19897	Caspase-3
+#767	AnnotatorNotes T767	EG:12367
+T768	GO_MF 19888 19895	Caspase
+#768	AnnotatorNotes T768	GO:0030693 (caspase activity)
+T769	independent_continuant 19888 19895	Caspase
+#769	AnnotatorNotes T769	independent_continuant
+T770	GO_BP 19958 19967	apoptosis
+#770	AnnotatorNotes T770	GO:0006915 (apoptosis)
+T771	italic 19971 19984	Alk5/Wnt1-Cre
+#771	AnnotatorNotes T771	italic (null)
+T772	EntrezGene 19971 19975	Alk5
+#772	AnnotatorNotes T772	EG:21812
+T773	PR 19971 19975	Alk5
+#773	AnnotatorNotes T773	PR:000000047 (TGF-beta receptor type-1)
+T774	PR 19976 19980	Wnt1
+#774	AnnotatorNotes T774	PR:000017435 (proto-oncogene protein Wnt-1)
+T775	SO 19985 19992	mutants
+#775	AnnotatorNotes T775	SO:0001059 (sequence_alteration)
+T776	independent_continuant 19985 19992	mutants
+#776	AnnotatorNotes T776	independent_continuant
+T777	italic 20066 20079	Alk2/Wnt1-Cre
+#777	AnnotatorNotes T777	italic (null)
+T778	EntrezGene 20066 20070	Alk2
+#778	AnnotatorNotes T778	EG:11477
+T779	PR 20066 20070	Alk2
+#779	AnnotatorNotes T779	PR:000000067 (activin receptor type-1)
+T780	PR 20071 20075	Wnt1
+#780	AnnotatorNotes T780	PR:000017435 (proto-oncogene protein Wnt-1)
+T781	SO 20080 20087	mutants
+#781	AnnotatorNotes T781	SO:0001059 (sequence_alteration)
+T782	independent_continuant 20080 20087	mutants
+#782	AnnotatorNotes T782	independent_continuant
+T783	italic 20200 20204	Alk5
+#783	AnnotatorNotes T783	italic (null)
+T784	PR 20200 20204	Alk5
+#784	AnnotatorNotes T784	PR:000000047 (TGF-beta receptor type-1)
+T785	EntrezGene 20200 20204	Alk5
+#785	AnnotatorNotes T785	EG:21812
+T786	italic 20212 20216	Alk2
+#786	AnnotatorNotes T786	italic (null)
+T787	EntrezGene 20212 20216	Alk2
+#787	AnnotatorNotes T787	EG:11477
+T788	PR 20212 20216	Alk2
+#788	AnnotatorNotes T788	PR:000000067 (activin receptor type-1)
+T789	SO 20221 20228	mutants
+#789	AnnotatorNotes T789	SO:0001059 (sequence_alteration)
+T790	independent_continuant 20221 20228	mutants
+#790	AnnotatorNotes T790	independent_continuant
+T791	CL 20292 20307	apoptotic cells
+#791	AnnotatorNotes T791	CL:0000445 (apoptosis fated cell)
+T792	GO_BP 20292 20301	apoptotic
+#792	AnnotatorNotes T792	GO:0006915 (apoptosis)
+T793	GO_CC 20302 20307	cells
+#793	AnnotatorNotes T793	GO:0005623 (cell)
+T794	SO 20351 20357	mutant
+#794	AnnotatorNotes T794	SO:0001059 (sequence_alteration)
+T795	independent_continuant 20351 20357	mutant
+#795	AnnotatorNotes T795	independent_continuant
+T796	CL 20403 20418	apoptotic cells
+#796	AnnotatorNotes T796	CL:0000445 (apoptosis fated cell)
+T797	GO_BP 20403 20412	apoptotic
+#797	AnnotatorNotes T797	GO:0006915 (apoptosis)
+T798	GO_CC 20413 20418	cells
+#798	AnnotatorNotes T798	GO:0005623 (cell)
+T799	italic 20489 20502	Alk5/Wnt1-Cre
+#799	AnnotatorNotes T799	italic (null)
+T800	EntrezGene 20489 20493	Alk5
+#800	AnnotatorNotes T800	EG:21812
+T801	PR 20489 20493	Alk5
+#801	AnnotatorNotes T801	PR:000000047 (TGF-beta receptor type-1)
+T802	PR 20494 20498	Wnt1
+#802	AnnotatorNotes T802	PR:000017435 (proto-oncogene protein Wnt-1)
+T803	SO 20503 20510	mutants
+#803	AnnotatorNotes T803	SO:0001059 (sequence_alteration)
+T804	independent_continuant 20503 20510	mutants
+#804	AnnotatorNotes T804	independent_continuant
+T805	GO_BP 20536 20545	apoptosis
+#805	AnnotatorNotes T805	GO:0006915 (apoptosis)
+T806	GO_BP 20574 20584	patterning
+#806	AnnotatorNotes T806	GO:0007389 (pattern specification process)
+T807	EntrezGene 20690 20694	ALK5
+#807	AnnotatorNotes T807	EG:21812
+T808	PR 20690 20694	ALK5
+#808	AnnotatorNotes T808	PR:000000047 (TGF-beta receptor type-1)
+T809	GO_BP 20695 20704	signaling
+#809	AnnotatorNotes T809	GO:0007165 (signal transduction)
+T810	GO_BP 20771 20800	apoptosis of NC-derived cells
+#810	AnnotatorNotes T810	"apoptosis of .. cells" GO:0006915 (apoptosis)
+T811	CL 20795 20800	cells
+#811	AnnotatorNotes T811	CL:0000000 (cell)
+T812	GO_CC 20795 20800	cells
+#812	AnnotatorNotes T812	GO:0005623 (cell)
+T813	italic 20816 20831	Tgfbr2/Wnt1-Cre
+#813	AnnotatorNotes T813	italic (null)
+T814	independent_continuant 20816 20822	Tgfbr2
+#814	AnnotatorNotes T814	independent_continuant
+T815	GO_MF 20816 20822	Tgfbr2
+#815	AnnotatorNotes T815	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T816	PR 20816 20822	Tgfbr2
+#816	AnnotatorNotes T816	PR:000000005 (TGF-beta receptor type-2)
+T817	PR 20823 20827	Wnt1
+#817	AnnotatorNotes T817	PR:000017435 (proto-oncogene protein Wnt-1)
+T818	SO 20832 20839	mutants
+#818	AnnotatorNotes T818	SO:0001059 (sequence_alteration)
+T819	independent_continuant 20832 20839	mutants
+#819	AnnotatorNotes T819	independent_continuant
+T820	GO_BP 20874 20881	migrate
+#820	AnnotatorNotes T820	GO:0016477 (cell migration)
+T821	italic 20885 20889	Alk5
+#821	AnnotatorNotes T821	italic (null)
+T822	PR 20885 20889	Alk5
+#822	AnnotatorNotes T822	PR:000000047 (TGF-beta receptor type-1)
+T823	EntrezGene 20885 20889	Alk5
+#823	AnnotatorNotes T823	EG:21812
+T824	italic 20890 20898	Wnt1-Cre
+#824	AnnotatorNotes T824	italic (null)
+T825	PR 20890 20894	Wnt1
+#825	AnnotatorNotes T825	PR:000017435 (proto-oncogene protein Wnt-1)
+T826	SO 20899 20906	mutants
+#826	AnnotatorNotes T826	SO:0001059 (sequence_alteration)
+T827	independent_continuant 20899 20906	mutants
+#827	AnnotatorNotes T827	independent_continuant
+T828	GO_BP 20940 20972	development of pharyngeal organs
+#828	AnnotatorNotes T828	"development of .. organs" GO:0048513 (organ development)
+T829	italic 21039 21052	Alk5/Wnt1-Cre
+#829	AnnotatorNotes T829	italic (null)
+T830	EntrezGene 21039 21043	Alk5
+#830	AnnotatorNotes T830	EG:21812
+T831	PR 21039 21043	Alk5
+#831	AnnotatorNotes T831	PR:000000047 (TGF-beta receptor type-1)
+T832	PR 21044 21048	Wnt1
+#832	AnnotatorNotes T832	PR:000017435 (proto-oncogene protein Wnt-1)
+T833	SO 21053 21060	mutants
+#833	AnnotatorNotes T833	SO:0001059 (sequence_alteration)
+T834	independent_continuant 21053 21060	mutants
+#834	AnnotatorNotes T834	independent_continuant
+T835	GO_BP 21102 21110	develops
+#835	AnnotatorNotes T835	GO:0032502 (developmental process)
+T836	GO_BP 21156 21164	migrates
+#836	AnnotatorNotes T836	GO:0016477 (cell migration)
+T837	italic 21305 21309	Alk5
+#837	AnnotatorNotes T837	italic (null)
+T838	EntrezGene 21305 21309	Alk5
+#838	AnnotatorNotes T838	EG:21812
+T839	PR 21305 21309	Alk5
+#839	AnnotatorNotes T839	PR:000000047 (TGF-beta receptor type-1)
+T840	SO 21310 21316	mutant
+#840	AnnotatorNotes T840	SO:0001059 (sequence_alteration)
+T841	GO_BP 21485 21503	fate determination
+#841	AnnotatorNotes T841	GO:0001709 (cell fate determination)
+T842	CL 21575 21579	NCCs
+#842	AnnotatorNotes T842	CL:0000333 (neural crest cell)
+T843	italic 21601 21605	Alk5
+#843	AnnotatorNotes T843	italic (null)
+T844	PR 21601 21605	Alk5
+#844	AnnotatorNotes T844	PR:000000047 (TGF-beta receptor type-1)
+T845	EntrezGene 21601 21605	Alk5
+#845	AnnotatorNotes T845	EG:21812
+T846	SO 21606 21613	mutants
+#846	AnnotatorNotes T846	SO:0001059 (sequence_alteration)
+T847	independent_continuant 21606 21613	mutants
+#847	AnnotatorNotes T847	independent_continuant
+T848	GO_BP 21669 21676	migrate
+#848	AnnotatorNotes T848	GO:0016477 (cell migration)
+T849	italic 21689 21702	Alk5/Wnt1-Cre
+#849	AnnotatorNotes T849	italic (null)
+T850	EntrezGene 21689 21693	Alk5
+#850	AnnotatorNotes T850	EG:21812
+T851	PR 21689 21693	Alk5
+#851	AnnotatorNotes T851	PR:000000047 (TGF-beta receptor type-1)
+T852	PR 21694 21698	Wnt1
+#852	AnnotatorNotes T852	PR:000017435 (proto-oncogene protein Wnt-1)
+T853	SO 21703 21710	mutants
+#853	AnnotatorNotes T853	SO:0001059 (sequence_alteration)
+T854	independent_continuant 21703 21710	mutants
+#854	AnnotatorNotes T854	independent_continuant
+T855	GO_BP 21726 21737	development
+#855	AnnotatorNotes T855	GO:0032502 (developmental process)
+T856	GO_BP 21762 21769	migrate
+#856	AnnotatorNotes T856	GO:0016477 (cell migration)
+T857	italic 21883 21896	Alk5/Wnt1-Cre
+#857	AnnotatorNotes T857	italic (null)
+T858	EntrezGene 21883 21887	Alk5
+#858	AnnotatorNotes T858	EG:21812
+T859	PR 21883 21887	Alk5
+#859	AnnotatorNotes T859	PR:000000047 (TGF-beta receptor type-1)
+T860	PR 21888 21892	Wnt1
+#860	AnnotatorNotes T860	PR:000017435 (proto-oncogene protein Wnt-1)
+T861	SO 21897 21904	mutants
+#861	AnnotatorNotes T861	SO:0001059 (sequence_alteration)
+T862	independent_continuant 21897 21904	mutants
+#862	AnnotatorNotes T862	independent_continuant
+T863	GO_BP 22014 22024	expression
+#863	AnnotatorNotes T863	GO:0010467 (gene expression)
+T864	EntrezGene 22028 22047	parathyroid hormone
+#864	AnnotatorNotes T864	EG:19226
+T865	PR 22028 22047	parathyroid hormone
+#865	AnnotatorNotes T865	PR:000013429 (parathyroid hormone)
+T866	GO_MF 22040 22047	hormone
+#866	AnnotatorNotes T866	GO:0005179 (hormone activity)
+T867	independent_continuant 22040 22047	hormone
+#867	AnnotatorNotes T867	independent_continuant
+T868	italic 22078 22082	Alk5
+#868	AnnotatorNotes T868	italic (null)
+T869	EntrezGene 22078 22082	Alk5
+#869	AnnotatorNotes T869	EG:21812
+T870	PR 22078 22082	Alk5
+#870	AnnotatorNotes T870	PR:000000047 (TGF-beta receptor type-1)
+T871	SO 22083 22090	mutants
+#871	AnnotatorNotes T871	SO:0001059 (sequence_alteration)
+T872	independent_continuant 22083 22090	mutants
+#872	AnnotatorNotes T872	independent_continuant
+T873	italic 22226 22241	Tgfbr2/Wnt1-Cre
+#873	AnnotatorNotes T873	italic (null)
+T874	GO_MF 22226 22232	Tgfbr2
+#874	AnnotatorNotes T874	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T875	independent_continuant 22226 22232	Tgfbr2
+#875	AnnotatorNotes T875	independent_continuant
+T876	PR 22226 22232	Tgfbr2
+#876	AnnotatorNotes T876	PR:000000005 (TGF-beta receptor type-2)
+T877	PR 22233 22237	Wnt1
+#877	AnnotatorNotes T877	PR:000017435 (proto-oncogene protein Wnt-1)
+T878	SO 22242 22249	mutants
+#878	AnnotatorNotes T878	SO:0001059 (sequence_alteration)
+T879	independent_continuant 22242 22249	mutants
+#879	AnnotatorNotes T879	independent_continuant
+T880	bold 22268 22326	Pharyngeal organs fail to migrate in Alk5/Wnt1-Cre mutants
+#880	AnnotatorNotes T880	bold (null)
+T881	GO_BP 22294 22301	migrate
+#881	AnnotatorNotes T881	GO:0016477 (cell migration)
+T882	italic 22305 22318	Alk5/Wnt1-Cre
+#882	AnnotatorNotes T882	italic (null)
+T883	EntrezGene 22305 22309	Alk5
+#883	AnnotatorNotes T883	EG:21812
+T884	PR 22305 22309	Alk5
+#884	AnnotatorNotes T884	PR:000000047 (TGF-beta receptor type-1)
+T885	PR 22310 22314	Wnt1
+#885	AnnotatorNotes T885	PR:000017435 (proto-oncogene protein Wnt-1)
+T886	SO 22319 22326	mutants
+#886	AnnotatorNotes T886	SO:0001059 (sequence_alteration)
+T887	independent_continuant 22319 22326	mutants
+#887	AnnotatorNotes T887	independent_continuant
+T888	italic 22411 22415	Alk5
+#888	AnnotatorNotes T888	italic (null)
+T889	PR 22411 22415	Alk5
+#889	AnnotatorNotes T889	PR:000000047 (TGF-beta receptor type-1)
+T890	EntrezGene 22411 22415	Alk5
+#890	AnnotatorNotes T890	EG:21812
+T891	SO 22416 22423	mutants
+#891	AnnotatorNotes T891	SO:0001059 (sequence_alteration)
+T892	independent_continuant 22416 22423	mutants
+#892	AnnotatorNotes T892	independent_continuant
+T893	CL 22660 22665	cells
+#893	AnnotatorNotes T893	CL:0000000 (cell)
+T894	GO_CC 22660 22665	cells
+#894	AnnotatorNotes T894	GO:0005623 (cell)
+T895	italic 22782 22786	Alk5
+#895	AnnotatorNotes T895	italic (null)
+T896	PR 22782 22786	Alk5
+#896	AnnotatorNotes T896	PR:000000047 (TGF-beta receptor type-1)
+T897	EntrezGene 22782 22786	Alk5
+#897	AnnotatorNotes T897	EG:21812
+T898	SO 22787 22794	mutants
+#898	AnnotatorNotes T898	SO:0001059 (sequence_alteration)
+T899	independent_continuant 22787 22794	mutants
+#899	AnnotatorNotes T899	independent_continuant
+T900	SO 22902 22909	mutants
+#900	AnnotatorNotes T900	SO:0001059 (sequence_alteration)
+T901	independent_continuant 22902 22909	mutants
+#901	AnnotatorNotes T901	independent_continuant
+T902	GO_BP 22910 22919	expressed
+#902	AnnotatorNotes T902	GO:0010467 (gene expression)
+T903	EntrezGene 22920 22939	parathyroid hormone
+#903	AnnotatorNotes T903	EG:19226
+T904	PR 22920 22939	parathyroid hormone
+#904	AnnotatorNotes T904	PR:000013429 (parathyroid hormone)
+T905	CHEBI 22932 22939	hormone
+#905	AnnotatorNotes T905	CHEBI:24621 (hormone)
+T906	independent_continuant 22932 22939	hormone
+#906	AnnotatorNotes T906	independent_continuant
+T907	GO_MF 22932 22939	hormone
+#907	AnnotatorNotes T907	GO:0005179 (hormone activity)
+T908	EntrezGene 22941 22944	PTH
+#908	AnnotatorNotes T908	EG:19226
+T909	PR 22941 22944	PTH
+#909	AnnotatorNotes T909	PR:000013429 (parathyroid hormone)
+T910	GO_MF 23129 23142	hybridization
+#910	AnnotatorNotes T910	GO:0000739 (DNA strand annealing activity)
+T911	GO_MF 23129 23142	hybridization
+#911	AnnotatorNotes T911	GO:0033592 (RNA strand annealing activity)
+T912	EntrezGene 23147 23150	PTH
+#912	AnnotatorNotes T912	EG:19226
+T913	PR 23147 23150	PTH
+#913	AnnotatorNotes T913	PR:000013429 (parathyroid hormone)
+T914	italic 23347 23355	Wnt1-Cre
+#914	AnnotatorNotes T914	italic (null)
+T915	PR 23347 23351	Wnt1
+#915	AnnotatorNotes T915	PR:000017435 (proto-oncogene protein Wnt-1)
+T916	SO 23356 23366	transgenic
+#916	AnnotatorNotes T916	SO:0000902 (transgene)
+T917	SO 23432 23436	gene
+#917	AnnotatorNotes T917	SO:0000704 (gene)
+T918	SO 23437 23445	deletion
+#918	AnnotatorNotes T918	SO:0000045 (delete)
+T919	CL 23449 23453	NCCs
+#919	AnnotatorNotes T919	CL:0000333 (neural crest cell)
+T920	SO 23552 23560	deletion
+#920	AnnotatorNotes T920	SO:0000045 (delete)
+T921	italic 23568 23574	Tgfbr2
+#921	AnnotatorNotes T921	italic (null)
+T922	PR 23568 23574	Tgfbr2
+#922	AnnotatorNotes T922	PR:000000005 (TGF-beta receptor type-2)
+T923	GO_MF 23568 23574	Tgfbr2
+#923	AnnotatorNotes T923	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T924	independent_continuant 23568 23574	Tgfbr2
+#924	AnnotatorNotes T924	independent_continuant
+T925	SO 23575 23579	gene
+#925	AnnotatorNotes T925	SO:0000704 (gene)
+T926	SO 23815 23822	mutants
+#926	AnnotatorNotes T926	SO:0001059 (sequence_alteration)
+T927	independent_continuant 23815 23822	mutants
+#927	AnnotatorNotes T927	independent_continuant
+T928	italic 23826 23830	Alk5
+#928	AnnotatorNotes T928	italic (null)
+T929	EntrezGene 23826 23830	Alk5
+#929	AnnotatorNotes T929	EG:21812
+T930	PR 23826 23830	Alk5
+#930	AnnotatorNotes T930	PR:000000047 (TGF-beta receptor type-1)
+T931	GO_MF 23850 23871	TGF-β type I receptor
+#931	AnnotatorNotes T931	GO:0005025 (transforming growth factor beta receptor activity, type I)
+T932	PR 23850 23871	TGF-β type I receptor
+#932	AnnotatorNotes T932	PR:000000047 (TGF-beta receptor type-1)
+T933	EntrezGene 23850 23871	TGF-β type I receptor
+#933	AnnotatorNotes T933	EG:21812
+T934	independent_continuant 23850 23871	TGF-β type I receptor
+#934	AnnotatorNotes T934	independent_continuant
+T935	PR 23850 23855	TGF-β
+#935	AnnotatorNotes T935	PR:000000046 (TGF-beta)
+T936	GO_MF 23888 23895	binding
+#936	AnnotatorNotes T936	GO:0005488 (binding)
+T937	independent_continuant 23907 23915	TGF-βRII
+#937	AnnotatorNotes T937	independent_continuant
+T938	GO_MF 23907 23915	TGF-βRII
+#938	AnnotatorNotes T938	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T939	PR 23907 23915	TGF-βRII
+#939	AnnotatorNotes T939	PR:000000005 (TGF-beta receptor type-2)
+T940	italic 23951 23966	Tgfbr2/Wnt1-Cre
+#940	AnnotatorNotes T940	italic (null)
+T941	GO_MF 23951 23957	Tgfbr2
+#941	AnnotatorNotes T941	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T942	PR 23951 23957	Tgfbr2
+#942	AnnotatorNotes T942	PR:000000005 (TGF-beta receptor type-2)
+T943	independent_continuant 23951 23957	Tgfbr2
+#943	AnnotatorNotes T943	independent_continuant
+T944	PR 23958 23962	Wnt1
+#944	AnnotatorNotes T944	PR:000017435 (proto-oncogene protein Wnt-1)
+T945	SO 23967 23974	mutants
+#945	AnnotatorNotes T945	SO:0001059 (sequence_alteration)
+T946	independent_continuant 23967 23974	mutants
+#946	AnnotatorNotes T946	independent_continuant
+T947	NCBITaxon 23986 23990	mice
+#947	AnnotatorNotes T947	NCBITaxon:10088 (Mus)
+T948	italic 24004 24010	Tgf-β2
+#948	AnnotatorNotes T948	italic (null)
+T949	GO_MF 24004 24010	Tgf-β2
+#949	AnnotatorNotes T949	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T950	independent_continuant 24004 24010	Tgf-β2
+#950	AnnotatorNotes T950	independent_continuant
+T951	EntrezGene 24004 24010	Tgf-β2
+#951	AnnotatorNotes T951	EG:21813
+T952	PR 24004 24010	Tgf-β2
+#952	AnnotatorNotes T952	PR:000000183 (TGF-beta 2)
+T953	italic 24091 24104	Alk5/Wnt1-Cre
+#953	AnnotatorNotes T953	italic (null)
+T954	EntrezGene 24091 24095	Alk5
+#954	AnnotatorNotes T954	EG:21812
+T955	PR 24091 24095	Alk5
+#955	AnnotatorNotes T955	PR:000000047 (TGF-beta receptor type-1)
+T956	PR 24096 24100	Wnt1
+#956	AnnotatorNotes T956	PR:000017435 (proto-oncogene protein Wnt-1)
+T957	SO 24105 24112	mutants
+#957	AnnotatorNotes T957	SO:0001059 (sequence_alteration)
+T958	independent_continuant 24105 24112	mutants
+#958	AnnotatorNotes T958	independent_continuant
+T959	GO_BP 24147 24157	patterning
+#959	AnnotatorNotes T959	GO:0007389 (pattern specification process)
+T960	sup 24217 24219	rd
+#960	AnnotatorNotes T960	sup (null)
+T961	italic 24252 24265	Alk5/Wnt1-Cre
+#961	AnnotatorNotes T961	italic (null)
+T962	EntrezGene 24252 24256	Alk5
+#962	AnnotatorNotes T962	EG:21812
+T963	PR 24252 24256	Alk5
+#963	AnnotatorNotes T963	PR:000000047 (TGF-beta receptor type-1)
+T964	PR 24257 24261	Wnt1
+#964	AnnotatorNotes T964	PR:000017435 (proto-oncogene protein Wnt-1)
+T965	SO 24266 24273	mutants
+#965	AnnotatorNotes T965	SO:0001059 (sequence_alteration)
+T966	independent_continuant 24266 24273	mutants
+#966	AnnotatorNotes T966	independent_continuant
+T967	GO_BP 24294 24304	patterning
+#967	AnnotatorNotes T967	GO:0007389 (pattern specification process)
+T968	sup 24659 24661	th
+#968	AnnotatorNotes T968	sup (null)
+T969	GO_BP 24764 24825	apoptosis of Alk5-deficient post-migratory neural crest cells
+#969	AnnotatorNotes T969	"apoptosis of .. cells" GO:0006915 (apoptosis)
+T970	italic 24777 24782	Alk5-
+#970	AnnotatorNotes T970	italic (null)
+T971	EntrezGene 24777 24781	Alk5
+#971	AnnotatorNotes T971	EG:21812
+T972	PR 24777 24781	Alk5
+#972	AnnotatorNotes T972	PR:000000047 (TGF-beta receptor type-1)
+T973	GO_BP 24797 24806	migratory
+#973	AnnotatorNotes T973	GO:0016477 (cell migration)
+T974	CL 24807 24825	neural crest cells
+#974	AnnotatorNotes T974	CL:0000333 (neural crest cell)
+T975	GO_CC 24820 24825	cells
+#975	AnnotatorNotes T975	GO:0005623 (cell)
+T976	GO_BP 24889 24899	cell death
+#976	AnnotatorNotes T976	GO:0008219 (cell death)
+T977	CL 24889 24893	cell
+#977	AnnotatorNotes T977	CL:0000000 (cell)
+T978	GO_CC 24889 24893	cell
+#978	AnnotatorNotes T978	GO:0005623 (cell)
+T979	italic 24925 24940	Tgfbr2/Wnt1-Cre
+#979	AnnotatorNotes T979	italic (null)
+T980	GO_MF 24925 24931	Tgfbr2
+#980	AnnotatorNotes T980	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T981	PR 24925 24931	Tgfbr2
+#981	AnnotatorNotes T981	PR:000000005 (TGF-beta receptor type-2)
+T982	independent_continuant 24925 24931	Tgfbr2
+#982	AnnotatorNotes T982	independent_continuant
+T983	PR 24932 24936	Wnt1
+#983	AnnotatorNotes T983	PR:000017435 (proto-oncogene protein Wnt-1)
+T984	SO 24941 24948	mutants
+#984	AnnotatorNotes T984	SO:0001059 (sequence_alteration)
+T985	independent_continuant 24941 24948	mutants
+#985	AnnotatorNotes T985	independent_continuant
+T986	GO_BP 24993 25008	TGF-β signaling
+#986	AnnotatorNotes T986	GO:0007179 (transforming growth factor beta receptor signaling pathway)
+T987	PR 24993 24998	TGF-β
+#987	AnnotatorNotes T987	PR:000000046 (TGF-beta)
+T988	CL 25020 25024	NCCs
+#988	AnnotatorNotes T988	CL:0000333 (neural crest cell)
+T989	EntrezGene 25059 25063	ALK5
+#989	AnnotatorNotes T989	EG:21812
+T990	PR 25059 25063	ALK5
+#990	AnnotatorNotes T990	PR:000000047 (TGF-beta receptor type-1)
+T991	independent_continuant 25064 25081	TGF-βRII receptor
+#991	AnnotatorNotes T991	independent_continuant
+T992	GO_MF 25064 25081	TGF-βRII receptor
+#992	AnnotatorNotes T992	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T993	EntrezGene 25064 25072	TGF-βRII
+#993	AnnotatorNotes T993	EG:21813
+T994	PR 25064 25072	TGF-βRII
+#994	AnnotatorNotes T994	PR:000000005 (TGF-beta receptor type-2)
+T995	GO_CC 25073 25089	receptor complex
+#995	AnnotatorNotes T995	GO:0043235 (receptor complex)
+T996	EntrezGene 25091 25095	ALK5
+#996	AnnotatorNotes T996	EG:21812
+T997	PR 25091 25095	ALK5
+#997	AnnotatorNotes T997	PR:000000047 (TGF-beta receptor type-1)
+T998	GO_BP 25110 25119	signaling
+#998	AnnotatorNotes T998	GO:0007165 (signal transduction)
+T999	CL 25211 25214	NCC
+#999	AnnotatorNotes T999	CL:0000333 (neural crest cell)
+T1000	GO_MF 25266 25274	TGF-βRII
+#1000	AnnotatorNotes T1000	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T1001	PR 25266 25274	TGF-βRII
+#1001	AnnotatorNotes T1001	PR:000000005 (TGF-beta receptor type-2)
+T1002	independent_continuant 25266 25274	TGF-βRII
+#1002	AnnotatorNotes T1002	independent_continuant
+T1003	PR 25276 25280	ALK5
+#1003	AnnotatorNotes T1003	PR:000000047 (TGF-beta receptor type-1)
+T1004	GO_BP 25290 25294	form
+#1004	AnnotatorNotes T1004	GO:0022607 (cellular component assembly)
+T1005	GO_CC 25297 25304	complex
+#1005	AnnotatorNotes T1005	GO:0032991 (macromolecular complex)
+T1006	GO_MF 25314 25339	Activin type IIB receptor
+#1006	AnnotatorNotes T1006	"Activin .. receptor" GO:0017002 (activin receptor activity)
+T1007	independent_continuant 25314 25339	Activin type IIB receptor
+#1007	AnnotatorNotes T1007	"Activin .. receptor" independent_continuant
+T1008	PR 25314 25339	Activin type IIB receptor
+#1008	AnnotatorNotes T1008	PR:000000071 (activin receptor type-2B)
+T1009	PR 25363 25372	Smads 2/3
+#1009	AnnotatorNotes T1009	"Smads .. 3" PR:000000365 (smad3)
+T1010	PR 25363 25370	Smads 2
+#1010	AnnotatorNotes T1010	PR:000000364 (smad2)
+T1011	PR 25407 25412	TGF-β
+#1011	AnnotatorNotes T1011	PR:000000046 (TGF-beta)
+T1012	GO_MF 25421 25455	growth and differentiation factors
+#1012	AnnotatorNotes T1012	"growth .. factors" GO:0008083 (growth factor activity)
+T1013	independent_continuant 25421 25455	growth and differentiation factors
+#1013	AnnotatorNotes T1013	"growth .. factors" independent_continuant
+T1014	GO_BP 25421 25427	growth
+#1014	AnnotatorNotes T1014	GO:0040007 (growth)
+T1015	GO_BP 25432 25447	differentiation
+#1015	AnnotatorNotes T1015	GO:0030154 (cell differentiation)
+T1016	PR 25470 25474	GDF8
+#1016	AnnotatorNotes T1016	PR:000010684 (growth/differentiation factor 8)
+T1017	PR 25476 25480	GDF9
+#1017	AnnotatorNotes T1017	PR:000007925 (growth/differentiation factor 9)
+T1018	PR 25482 25487	GDF11
+#1018	AnnotatorNotes T1018	PR:000007919 (growth/differentiation factor 11)
+T1019	PR 25492 25497	GDF15
+#1019	AnnotatorNotes T1019	PR:000007920 (growth/differentiation factor 15)
+T1020	GO_BP 25504 25510	induce
+#1020	AnnotatorNotes T1020	GO:0031128 (induction)
+T1021	PR 25557 25576	Gdfs 8, 9 11 and 15
+#1021	AnnotatorNotes T1021	"Gdfs .. 15" PR:000007920 (growth/differentiation factor 15)
+T1022	italic 25557 25569	Gdfs 8, 9 11
+#1022	AnnotatorNotes T1022	italic (null)
+T1023	PR 25557 25569	Gdfs 8, 9 11
+#1023	AnnotatorNotes T1023	"Gdfs .. 11" PR:000007919 (growth/differentiation factor 11)
+T1024	PR 25557 25566	Gdfs 8, 9
+#1024	AnnotatorNotes T1024	"Gdfs .. 9" PR:000007925 (growth/differentiation factor 9)
+T1025	PR 25557 25563	Gdfs 8
+#1025	AnnotatorNotes T1025	PR:000010684 (growth/differentiation factor 8)
+T1026	italic 25574 25576	15
+#1026	AnnotatorNotes T1026	italic (null)
+T1027	GO_BP 25585 25594	expressed
+#1027	AnnotatorNotes T1027	GO:0010467 (gene expression)
+T1028	GO_BP 25602 25612	developing
+#1028	AnnotatorNotes T1028	GO:0032502 (developmental process)
+T1029	NCBITaxon 25631 25635	mice
+#1029	AnnotatorNotes T1029	NCBITaxon:10088 (Mus)
+T1030	italic 25655 25659	Gdfs
+#1030	AnnotatorNotes T1030	italic (null)
+T1031	GO_BP 25668 25681	developmental
+#1031	AnnotatorNotes T1031	GO:0032502 (developmental process)
+T1032	PR 25780 25786	TGF-βs
+#1032	AnnotatorNotes T1032	PR:000000046 (TGF-beta)
+T1033	CL 25805 25808	NCC
+#1033	AnnotatorNotes T1033	CL:0000333 (neural crest cell)
+T1034	GO_BP 25825 25861	cardiac and pharyngeal morphogenesis
+#1034	AnnotatorNotes T1034	"cardiac .. morphogenesis" GO:0003007 (heart morphogenesis)
+T1035	GO_BP 25888 25897	apoptosis
+#1035	AnnotatorNotes T1035	GO:0006915 (apoptosis)
+T1036	GO_BP 25950 25955	forms
+#1036	AnnotatorNotes T1036	GO:0032502 (developmental process)
+T1037	sup 25980 25982	th
+#1037	AnnotatorNotes T1037	sup (null)
+T1038	sup 25988 25990	th
+#1038	AnnotatorNotes T1038	sup (null)
+T1039	GO_BP 26036 26045	apoptosis
+#1039	AnnotatorNotes T1039	GO:0006915 (apoptosis)
+T1040	CL 26070 26074	NCCs
+#1040	AnnotatorNotes T1040	CL:0000333 (neural crest cell)
+T1041	GO_BP 26164 26169	forms
+#1041	AnnotatorNotes T1041	GO:0032502 (developmental process)
+T1042	GO_BP 26182 26192	cell death
+#1042	AnnotatorNotes T1042	GO:0008219 (cell death)
+T1043	CL 26182 26186	cell
+#1043	AnnotatorNotes T1043	CL:0000000 (cell)
+T1044	GO_CC 26182 26186	cell
+#1044	AnnotatorNotes T1044	GO:0005623 (cell)
+T1045	SO 26231 26238	mutants
+#1045	AnnotatorNotes T1045	SO:0001059 (sequence_alteration)
+T1046	independent_continuant 26231 26238	mutants
+#1046	AnnotatorNotes T1046	independent_continuant
+T1047	CL 26265 26270	cells
+#1047	AnnotatorNotes T1047	CL:0000000 (cell)
+T1048	GO_CC 26265 26270	cells
+#1048	AnnotatorNotes T1048	GO:0005623 (cell)
+T1049	GO_BP 26286 26301	differentiating
+#1049	AnnotatorNotes T1049	GO:0030154 (cell differentiation)
+T1050	CL 26305 26324	smooth muscle cells
+#1050	AnnotatorNotes T1050	CL:0000192 (smooth muscle cell)
+T1051	GO_CC 26319 26324	cells
+#1051	AnnotatorNotes T1051	GO:0005623 (cell)
+T1052	GO_BP 26382 26389	forming
+#1052	AnnotatorNotes T1052	GO:0032502 (developmental process)
+T1053	EntrezGene 26393 26397	Alk5
+#1053	AnnotatorNotes T1053	EG:21812
+T1054	PR 26393 26397	Alk5
+#1054	AnnotatorNotes T1054	PR:000000047 (TGF-beta receptor type-1)
+T1055	PR 26398 26402	Wnt1
+#1055	AnnotatorNotes T1055	PR:000017435 (proto-oncogene protein Wnt-1)
+T1056	SO 26407 26414	mutants
+#1056	AnnotatorNotes T1056	SO:0001059 (sequence_alteration)
+T1057	independent_continuant 26407 26414	mutants
+#1057	AnnotatorNotes T1057	independent_continuant
+T1058	CL 26480 26485	cells
+#1058	AnnotatorNotes T1058	CL:0000000 (cell)
+T1059	GO_CC 26480 26485	cells
+#1059	AnnotatorNotes T1059	GO:0005623 (cell)
+T1060	GO_BP 26486 26493	forming
+#1060	AnnotatorNotes T1060	GO:0032502 (developmental process)
+T1061	GO_BP 26536 26546	cell death
+#1061	AnnotatorNotes T1061	GO:0008219 (cell death)
+T1062	CL 26536 26540	cell
+#1062	AnnotatorNotes T1062	CL:0000000 (cell)
+T1063	GO_CC 26536 26540	cell
+#1063	AnnotatorNotes T1063	GO:0005623 (cell)
+T1064	CL 26582 26587	cells
+#1064	AnnotatorNotes T1064	CL:0000000 (cell)
+T1065	GO_CC 26582 26587	cells
+#1065	AnnotatorNotes T1065	GO:0005623 (cell)
+T1066	GO_BP 26588 26595	forming
+#1066	AnnotatorNotes T1066	GO:0032502 (developmental process)
+T1067	GO_BP 26610 26613	die
+#1067	AnnotatorNotes T1067	GO:0016265 (death)
+T1068	GO_BP 26646 26659	differentiate
+#1068	AnnotatorNotes T1068	GO:0030154 (cell differentiation)
+T1069	CL 26663 26682	smooth muscle cells
+#1069	AnnotatorNotes T1069	CL:0000192 (smooth muscle cell)
+T1070	GO_CC 26677 26682	cells
+#1070	AnnotatorNotes T1070	GO:0005623 (cell)
+T1071	italic 26693 26701	in vitro
+#1071	AnnotatorNotes T1071	italic (null)
+T1072	GO_BP 26751 26766	TGF-β-signaling
+#1072	AnnotatorNotes T1072	GO:0007179 (transforming growth factor beta receptor signaling pathway)
+T1073	PR 26751 26756	TGF-β
+#1073	AnnotatorNotes T1073	PR:000000046 (TGF-beta)
+T1074	GO_BP 26770 26818	differentiation of NCCs into smooth muscle cells
+#1074	AnnotatorNotes T1074	"differentiation .. into smooth muscle cells" GO:0051145 (smooth muscle cell differentiation)
+T1075	CL 26789 26793	NCCs
+#1075	AnnotatorNotes T1075	CL:0000333 (neural crest cell)
+T1076	CL 26799 26818	smooth muscle cells
+#1076	AnnotatorNotes T1076	CL:0000192 (smooth muscle cell)
+T1077	GO_CC 26813 26818	cells
+#1077	AnnotatorNotes T1077	GO:0005623 (cell)
+T1078	italic 26839 26846	in vivo
+#1078	AnnotatorNotes T1078	italic (null)
+T1079	NCBITaxon 26868 26872	mice
+#1079	AnnotatorNotes T1079	NCBITaxon:10088 (Mus)
+T1080	italic 26881 26887	Tgfbr2
+#1080	AnnotatorNotes T1080	italic (null)
+T1081	EntrezGene 26881 26887	Tgfbr2
+#1081	AnnotatorNotes T1081	EG:21813
+T1082	GO_MF 26881 26887	Tgfbr2
+#1082	AnnotatorNotes T1082	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T1083	PR 26881 26887	Tgfbr2
+#1083	AnnotatorNotes T1083	PR:000000005 (TGF-beta receptor type-2)
+T1084	independent_continuant 26881 26887	Tgfbr2
+#1084	AnnotatorNotes T1084	independent_continuant
+T1085	CL 26915 26918	NCC
+#1085	AnnotatorNotes T1085	CL:0000333 (neural crest cell)
+T1086	GO_BP 26919 26959	differentiation into αSMA-positive cells
+#1086	AnnotatorNotes T1086	"differentiation into .. cells" GO:0030154 (cell differentiation)
+T1087	EntrezGene 26940 26944	αSMA
+#1087	AnnotatorNotes T1087	EG:11475
+T1088	PR 26940 26944	αSMA
+#1088	AnnotatorNotes T1088	PR:000003675 (actin, aortic smooth muscle)
+T1089	CL 26954 26959	cells
+#1089	AnnotatorNotes T1089	CL:0000000 (cell)
+T1090	GO_CC 26954 26959	cells
+#1090	AnnotatorNotes T1090	GO:0005623 (cell)
+T1091	EntrezGene 27080 27084	αSMA
+#1091	AnnotatorNotes T1091	EG:11475
+T1092	PR 27080 27084	αSMA
+#1092	AnnotatorNotes T1092	PR:000003675 (actin, aortic smooth muscle)
+T1093	GO_BP 27128 27137	signaling
+#1093	AnnotatorNotes T1093	GO:0007165 (signal transduction)
+T1094	EntrezGene 27142 27146	ALK5
+#1094	AnnotatorNotes T1094	EG:21812
+T1095	PR 27142 27146	ALK5
+#1095	AnnotatorNotes T1095	PR:000000047 (TGF-beta receptor type-1)
+T1096	GO_BP 27181 27196	differentiation
+#1096	AnnotatorNotes T1096	GO:0030154 (cell differentiation)
+T1097	italic 27197 27204	in vivo
+#1097	AnnotatorNotes T1097	italic (null)
+T1098	SO 27243 27251	deletion
+#1098	AnnotatorNotes T1098	SO:0000045 (delete)
+T1099	italic 27255 27261	Tgfbr2
+#1099	AnnotatorNotes T1099	italic (null)
+T1100	GO_MF 27255 27261	Tgfbr2
+#1100	AnnotatorNotes T1100	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T1101	PR 27255 27261	Tgfbr2
+#1101	AnnotatorNotes T1101	PR:000000005 (TGF-beta receptor type-2)
+T1102	independent_continuant 27255 27261	Tgfbr2
+#1102	AnnotatorNotes T1102	independent_continuant
+T1103	CL 27265 27269	NCCs
+#1103	AnnotatorNotes T1103	CL:0000333 (neural crest cell)
+T1104	SO 27399 27407	deletion
+#1104	AnnotatorNotes T1104	SO:0000045 (delete)
+T1105	SO 27443 27470	region (DGCR) on chromosome
+#1105	AnnotatorNotes T1105	"region .. on chromosome" SO:0000830 (chromosome_part)
+T1106	italic 27451 27455	DGCR
+#1106	AnnotatorNotes T1106	italic (null)
+T1107	GO_CC 27460 27470	chromosome
+#1107	AnnotatorNotes T1107	GO:0005694 (chromosome)
+T1108	SO 27460 27470	chromosome
+#1108	AnnotatorNotes T1108	SO:0000340 (chromosome)
+T1109	italic 27568 27581	Alk5/Wnt1-Cre
+#1109	AnnotatorNotes T1109	italic (null)
+T1110	EntrezGene 27568 27572	Alk5
+#1110	AnnotatorNotes T1110	EG:21812
+T1111	PR 27568 27572	Alk5
+#1111	AnnotatorNotes T1111	PR:000000047 (TGF-beta receptor type-1)
+T1112	PR 27573 27577	Wnt1
+#1112	AnnotatorNotes T1112	PR:000017435 (proto-oncogene protein Wnt-1)
+T1113	SO 27582 27589	mutants
+#1113	AnnotatorNotes T1113	SO:0001059 (sequence_alteration)
+T1114	independent_continuant 27582 27589	mutants
+#1114	AnnotatorNotes T1114	independent_continuant
+T1115	italic 27700 27704	Alk5
+#1115	AnnotatorNotes T1115	italic (null)
+T1116	PR 27700 27704	Alk5
+#1116	AnnotatorNotes T1116	PR:000000047 (TGF-beta receptor type-1)
+T1117	EntrezGene 27700 27704	Alk5
+#1117	AnnotatorNotes T1117	EG:21812
+T1118	GO_BP 27783 27792	migration
+#1118	AnnotatorNotes T1118	GO:0016477 (cell migration)
+T1119	italic 27802 27815	Alk5/Wnt1-Cre
+#1119	AnnotatorNotes T1119	italic (null)
+T1120	EntrezGene 27802 27806	Alk5
+#1120	AnnotatorNotes T1120	EG:21812
+T1121	PR 27802 27806	Alk5
+#1121	AnnotatorNotes T1121	PR:000000047 (TGF-beta receptor type-1)
+T1122	PR 27807 27811	Wnt1
+#1122	AnnotatorNotes T1122	PR:000017435 (proto-oncogene protein Wnt-1)
+T1123	SO 27816 27823	mutants
+#1123	AnnotatorNotes T1123	SO:0001059 (sequence_alteration)
+T1124	independent_continuant 27816 27823	mutants
+#1124	AnnotatorNotes T1124	independent_continuant
+T1125	CL 27858 27874	mesenchymal cell
+#1125	AnnotatorNotes T1125	CL:0000134 (mesenchymal cell)
+T1126	GO_BP 27870 27880	cell death
+#1126	AnnotatorNotes T1126	GO:0008219 (cell death)
+T1127	GO_CC 27870 27874	cell
+#1127	AnnotatorNotes T1127	GO:0005623 (cell)
+T1128	GO_BP 27956 27963	develop
+#1128	AnnotatorNotes T1128	GO:0032502 (developmental process)
+T1129	SO 28019 28026	mutants
+#1129	AnnotatorNotes T1129	SO:0001059 (sequence_alteration)
+T1130	independent_continuant 28019 28026	mutants
+#1130	AnnotatorNotes T1130	independent_continuant
+T1131	CL 28042 28045	NCC
+#1131	AnnotatorNotes T1131	CL:0000333 (neural crest cell)
+T1132	GO_BP 28046 28051	death
+#1132	AnnotatorNotes T1132	GO:0016265 (death)
+T1133	italic 28060 28064	Alk5
+#1133	AnnotatorNotes T1133	italic (null)
+T1134	EntrezGene 28060 28064	Alk5
+#1134	AnnotatorNotes T1134	EG:21812
+T1135	PR 28060 28064	Alk5
+#1135	AnnotatorNotes T1135	PR:000000047 (TGF-beta receptor type-1)
+T1136	SO 28065 28072	mutants
+#1136	AnnotatorNotes T1136	SO:0001059 (sequence_alteration)
+T1137	independent_continuant 28065 28072	mutants
+#1137	AnnotatorNotes T1137	independent_continuant
+T1138	CL 28125 28129	NCCs
+#1138	AnnotatorNotes T1138	CL:0000333 (neural crest cell)
+T1139	SO 28137 28142	genes
+#1139	AnnotatorNotes T1139	SO:0000704 (gene)
+T1140	italic 28170 28174	Tbx1
+#1140	AnnotatorNotes T1140	italic (null)
+T1141	PR 28170 28174	Tbx1
+#1141	AnnotatorNotes T1141	PR:000016143 (T-box transcription factor TBX1)
+T1142	italic 28179 28183	CrkL
+#1142	AnnotatorNotes T1142	italic (null)
+T1143	PR 28179 28183	CrkL
+#1143	AnnotatorNotes T1143	PR:000005883 (Crk-like protein)
+T1144	GO_BP 28185 28192	control
+#1144	AnnotatorNotes T1144	GO:0065007 (biological regulation)
+T1145	CL 28193 28196	NCC
+#1145	AnnotatorNotes T1145	CL:0000333 (neural crest cell)
+T1146	GO_BP 28229 28239	regulating
+#1146	AnnotatorNotes T1146	GO:0065007 (biological regulation)
+T1147	GO_BP 28240 28253	proliferation
+#1147	AnnotatorNotes T1147	GO:0008283 (cell proliferation)
+T1148	GO_BP 28303 28312	expansion
+#1148	AnnotatorNotes T1148	GO:0008283 (cell proliferation)
+T1149	CL 28357 28361	NCCs
+#1149	AnnotatorNotes T1149	CL:0000333 (neural crest cell)
+T1150	CL 28420 28423	NCC
+#1150	AnnotatorNotes T1150	CL:0000333 (neural crest cell)
+T1151	GO_BP 28592 28610	migration of cells
+#1151	AnnotatorNotes T1151	GO:0016477 (cell migration)
+T1152	CL 28605 28610	cells
+#1152	AnnotatorNotes T1152	CL:0000000 (cell)
+T1153	GO_CC 28605 28610	cells
+#1153	AnnotatorNotes T1153	GO:0005623 (cell)
+T1154	GO_BP 28738 28747	alignment
+#1154	AnnotatorNotes T1154	GO:0007164 (establishment of tissue polarity)
+T1155	italic 28831 28844	Alk5/Wnt1-Cre
+#1155	AnnotatorNotes T1155	italic (null)
+T1156	EntrezGene 28831 28835	Alk5
+#1156	AnnotatorNotes T1156	EG:21812
+T1157	PR 28831 28835	Alk5
+#1157	AnnotatorNotes T1157	PR:000000047 (TGF-beta receptor type-1)
+T1158	PR 28836 28840	Wnt1
+#1158	AnnotatorNotes T1158	PR:000017435 (proto-oncogene protein Wnt-1)
+T1159	SO 28845 28852	mutants
+#1159	AnnotatorNotes T1159	SO:0001059 (sequence_alteration)
+T1160	independent_continuant 28845 28852	mutants
+#1160	AnnotatorNotes T1160	independent_continuant
+T1161	italic 29055 29059	Alk5
+#1161	AnnotatorNotes T1161	italic (null)
+T1162	EntrezGene 29055 29059	Alk5
+#1162	AnnotatorNotes T1162	EG:21812
+T1163	PR 29055 29059	Alk5
+#1163	AnnotatorNotes T1163	PR:000000047 (TGF-beta receptor type-1)
+T1164	SO 29060 29067	mutants
+#1164	AnnotatorNotes T1164	SO:0001059 (sequence_alteration)
+T1165	independent_continuant 29060 29067	mutants
+#1165	AnnotatorNotes T1165	independent_continuant
+T1166	SO 29169 29176	mutants
+#1166	AnnotatorNotes T1166	SO:0001059 (sequence_alteration)
+T1167	independent_continuant 29169 29176	mutants
+#1167	AnnotatorNotes T1167	independent_continuant
+T1168	italic 29180 29184	Alk5
+#1168	AnnotatorNotes T1168	italic (null)
+T1169	PR 29180 29184	Alk5
+#1169	AnnotatorNotes T1169	PR:000000047 (TGF-beta receptor type-1)
+T1170	EntrezGene 29180 29184	Alk5
+#1170	AnnotatorNotes T1170	EG:21812
+T1171	italic 29188 29192	Alk2
+#1171	AnnotatorNotes T1171	italic (null)
+T1172	PR 29188 29192	Alk2
+#1172	AnnotatorNotes T1172	PR:000000067 (activin receptor type-1)
+T1173	EntrezGene 29188 29192	Alk2
+#1173	AnnotatorNotes T1173	EG:11477
+T1174	CL 29210 29215	cells
+#1174	AnnotatorNotes T1174	CL:0000000 (cell)
+T1175	GO_CC 29210 29215	cells
+#1175	AnnotatorNotes T1175	GO:0005623 (cell)
+T1176	NCBITaxon 29317 29321	mice
+#1176	AnnotatorNotes T1176	NCBITaxon:10088 (Mus)
+T1177	independent_continuant 29358 29384	TGF-β/BMP type I receptors
+#1177	AnnotatorNotes T1177	"TGF-β .. type I receptors" independent_continuant
+T1178	PR 29358 29384	TGF-β/BMP type I receptors
+#1178	AnnotatorNotes T1178	"TGF-β .. type I receptors" PR:000000047 (TGF-beta receptor type-1)
+T1179	GO_MF 29358 29384	TGF-β/BMP type I receptors
+#1179	AnnotatorNotes T1179	"TGF-β .. type I receptors" GO:0005025 (transforming growth factor beta receptor activity, type I)
+T1180	PR 29358 29363	TGF-β
+#1180	AnnotatorNotes T1180	PR:000000046 (TGF-beta)
+T1181	PR 29364 29367	BMP
+#1181	AnnotatorNotes T1181	PR:000000034 (BMP)
+T1182	EntrezGene 29445 29449	Alk5
+#1182	AnnotatorNotes T1182	EG:21812
+T1183	PR 29445 29449	Alk5
+#1183	AnnotatorNotes T1183	PR:000000047 (TGF-beta receptor type-1)
+T1184	SO 29450 29457	mutants
+#1184	AnnotatorNotes T1184	SO:0001059 (sequence_alteration)
+T1185	independent_continuant 29450 29457	mutants
+#1185	AnnotatorNotes T1185	independent_continuant
+T1186	SO 29568 29575	mutants
+#1186	AnnotatorNotes T1186	SO:0001059 (sequence_alteration)
+T1187	independent_continuant 29568 29575	mutants
+#1187	AnnotatorNotes T1187	independent_continuant
+T1188	italic 29686 29695	Alk2/Wnt1
+#1188	AnnotatorNotes T1188	italic (null)
+T1189	EntrezGene 29686 29690	Alk2
+#1189	AnnotatorNotes T1189	EG:11477
+T1190	PR 29686 29690	Alk2
+#1190	AnnotatorNotes T1190	PR:000000067 (activin receptor type-1)
+T1191	PR 29691 29695	Wnt1
+#1191	AnnotatorNotes T1191	PR:000017435 (proto-oncogene protein Wnt-1)
+T1192	italic 29696 29699	Cre
+#1192	AnnotatorNotes T1192	italic (null)
+T1193	SO 29700 29707	mutants
+#1193	AnnotatorNotes T1193	SO:0001059 (sequence_alteration)
+T1194	independent_continuant 29700 29707	mutants
+#1194	AnnotatorNotes T1194	independent_continuant
+T1195	GO_BP 29778 29785	looping
+#1195	AnnotatorNotes T1195	GO:0001947 (heart looping)
+T1196	CL 29897 29915	smooth muscle cell
+#1196	AnnotatorNotes T1196	CL:0000192 (smooth muscle cell)
+T1197	GO_BP 29911 29931	cell differentiation
+#1197	AnnotatorNotes T1197	GO:0030154 (cell differentiation)
+T1198	GO_CC 29911 29915	cell
+#1198	AnnotatorNotes T1198	GO:0005623 (cell)
+T1199	SO 30005 30012	deleted
+#1199	AnnotatorNotes T1199	SO:0000045 (delete)
+T1200	GO_MF 30017 30038	TGF-β type I receptor
+#1200	AnnotatorNotes T1200	GO:0005025 (transforming growth factor beta receptor activity, type I)
+T1201	EntrezGene 30017 30038	TGF-β type I receptor
+#1201	AnnotatorNotes T1201	EG:21812
+T1202	PR 30017 30038	TGF-β type I receptor
+#1202	AnnotatorNotes T1202	PR:000000047 (TGF-beta receptor type-1)
+T1203	independent_continuant 30017 30038	TGF-β type I receptor
+#1203	AnnotatorNotes T1203	independent_continuant
+T1204	PR 30017 30022	TGF-β
+#1204	AnnotatorNotes T1204	PR:000000046 (TGF-beta)
+T1205	italic 30040 30044	Alk5
+#1205	AnnotatorNotes T1205	italic (null)
+T1206	EntrezGene 30040 30044	Alk5
+#1206	AnnotatorNotes T1206	EG:21812
+T1207	PR 30040 30044	Alk5
+#1207	AnnotatorNotes T1207	PR:000000047 (TGF-beta receptor type-1)
+T1208	SO 30046 30050	gene
+#1208	AnnotatorNotes T1208	SO:0000704 (gene)
+T1209	NCBITaxon 30071 30076	mouse
+#1209	AnnotatorNotes T1209	NCBITaxon:10088 (Mus)
+T1210	CL 30077 30099	neural crest (NC) cell
+#1210	AnnotatorNotes T1210	"neural crest .. cell" CL:0000333 (neural crest cell)
+T1211	CL 30091 30099	NC) cell
+#1211	AnnotatorNotes T1211	"NC .. cell" CL:0000333 (neural crest cell)
+T1212	GO_CC 30095 30099	cell
+#1212	AnnotatorNotes T1212	GO:0005623 (cell)
+T1213	EntrezGene 30131 30135	ALK5
+#1213	AnnotatorNotes T1213	EG:21812
+T1214	PR 30131 30135	ALK5
+#1214	AnnotatorNotes T1214	PR:000000047 (TGF-beta receptor type-1)
+T1215	CL 30148 30152	cell
+#1215	AnnotatorNotes T1215	CL:0000000 (cell)
+T1216	GO_CC 30148 30152	cell
+#1216	AnnotatorNotes T1216	GO:0005623 (cell)
+T1217	GO_BP 30201 30217	signaling events
+#1217	AnnotatorNotes T1217	GO:0007165 (signal transduction)
+T1218	GO_BP 30253 30263	patterning
+#1218	AnnotatorNotes T1218	GO:0007389 (pattern specification process)
+T1219	italic 30369 30373	Alk5
+#1219	AnnotatorNotes T1219	italic (null)
+T1220	PR 30369 30373	Alk5
+#1220	AnnotatorNotes T1220	PR:000000047 (TGF-beta receptor type-1)
+T1221	EntrezGene 30369 30373	Alk5
+#1221	AnnotatorNotes T1221	EG:21812
+T1222	SO 30374 30381	mutants
+#1222	AnnotatorNotes T1222	SO:0001059 (sequence_alteration)
+T1223	independent_continuant 30374 30381	mutants
+#1223	AnnotatorNotes T1223	independent_continuant
+T1224	SO 30436 30443	mutants
+#1224	AnnotatorNotes T1224	SO:0001059 (sequence_alteration)
+T1225	independent_continuant 30436 30443	mutants
+#1225	AnnotatorNotes T1225	independent_continuant
+T1226	independent_continuant 30456 30478	TGF-β type II receptor
+#1226	AnnotatorNotes T1226	independent_continuant
+T1227	EntrezGene 30456 30478	TGF-β type II receptor
+#1227	AnnotatorNotes T1227	EG:21813
+T1228	PR 30456 30478	TGF-β type II receptor
+#1228	AnnotatorNotes T1228	PR:000000005 (TGF-beta receptor type-2)
+T1229	GO_MF 30456 30478	TGF-β type II receptor
+#1229	AnnotatorNotes T1229	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T1230	PR 30456 30461	TGF-β
+#1230	AnnotatorNotes T1230	PR:000000046 (TGF-beta)
+T1231	GO_BP 30496 30505	signaling
+#1231	AnnotatorNotes T1231	GO:0007165 (signal transduction)
+T1232	EntrezGene 30518 30522	ALK5
+#1232	AnnotatorNotes T1232	EG:21812
+T1233	PR 30518 30522	ALK5
+#1233	AnnotatorNotes T1233	PR:000000047 (TGF-beta receptor type-1)
+T1234	PR 30555 30560	TGF-β
+#1234	AnnotatorNotes T1234	PR:000000046 (TGF-beta)
+T1235	GO_BP 30576 30606	cardiac/pharyngeal development
+#1235	AnnotatorNotes T1235	"cardiac .. development" GO:0007507 (heart development)
+T1236	GO_BP 30584 30606	pharyngeal development
+#1236	AnnotatorNotes T1236	GO:0060037 (pharyngeal system development)
+T1237	italic 30618 30622	Alk5
+#1237	AnnotatorNotes T1237	italic (null)
+T1238	PR 30618 30622	Alk5
+#1238	AnnotatorNotes T1238	PR:000000047 (TGF-beta receptor type-1)
+T1239	EntrezGene 30618 30622	Alk5
+#1239	AnnotatorNotes T1239	EG:21812
+T1240	italic 30623 30630	Wnt1Cre
+#1240	AnnotatorNotes T1240	italic (null)
+T1241	NCBITaxon 30631 30635	mice
+#1241	AnnotatorNotes T1241	NCBITaxon:10088 (Mus)
+T1242	italic 30637 30643	Alk5 (
+#1242	AnnotatorNotes T1242	italic (null)
+T1243	EntrezGene 30637 30641	Alk5
+#1243	AnnotatorNotes T1243	EG:21812
+T1244	PR 30637 30641	Alk5
+#1244	AnnotatorNotes T1244	PR:000000047 (TGF-beta receptor type-1)
+T1245	italic 30647 30651	Alk2
+#1245	AnnotatorNotes T1245	italic (null)
+T1246	PR 30647 30651	Alk2
+#1246	AnnotatorNotes T1246	PR:000000067 (activin receptor type-1)
+T1247	EntrezGene 30647 30651	Alk2
+#1247	AnnotatorNotes T1247	EG:11477
+T1248	SO 30653 30659	mutant
+#1248	AnnotatorNotes T1248	SO:0001059 (sequence_alteration)
+T1249	GO_BP 30685 30694	generated
+#1249	AnnotatorNotes T1249	GO:0000003 (reproduction)
+T1250	GO_BP 30685 30694	generated
+#1250	AnnotatorNotes T1250	GO:0032502 (developmental process)
+T1251	GO_BP 30698 30704	mating
+#1251	AnnotatorNotes T1251	GO:0007618 (mating)
+T1252	sup 30709 30713	ko/+
+#1252	AnnotatorNotes T1252	sup (null)
+T1253	SO 30712 30713	+
+#1253	AnnotatorNotes T1253	SO:0000817 (wild_type)
+T1254	sup 30718 30722	ko/+
+#1254	AnnotatorNotes T1254	sup (null)
+T1255	SO 30721 30722	+
+#1255	AnnotatorNotes T1255	SO:0000817 (wild_type)
+T1256	PR 30724 30728	Wnt1
+#1256	AnnotatorNotes T1256	PR:000017435 (proto-oncogene protein Wnt-1)
+T1257	NCBITaxon 30738 30742	mice
+#1257	AnnotatorNotes T1257	NCBITaxon:10088 (Mus)
+T1258	sup 30779 30783	flox
+#1258	AnnotatorNotes T1258	sup (null)
+T1259	sup 30789 30793	flox
+#1259	AnnotatorNotes T1259	sup (null)
+T1260	SO 30795 30801	allele
+#1260	AnnotatorNotes T1260	SO:0001023 (allele)
+T1261	italic 30894 30902	Wnt1-Cre
+#1261	AnnotatorNotes T1261	italic (null)
+T1262	PR 30894 30898	Wnt1
+#1262	AnnotatorNotes T1262	PR:000017435 (proto-oncogene protein Wnt-1)
+T1263	NCBITaxon 30903 30907	mice
+#1263	AnnotatorNotes T1263	NCBITaxon:10088 (Mus)
+T1264	NCBITaxon 30982 30986	mice
+#1264	AnnotatorNotes T1264	NCBITaxon:10088 (Mus)
+T1265	NCBITaxon 31068 31074	Animal
+#1265	AnnotatorNotes T1265	NCBITaxon:33208 (Metazoa)
+T1266	GO_BP 31207 31215	mataings
+#1266	AnnotatorNotes T1266	GO:0007618 (mating)
+T1267	NCBITaxon 31217 31221	Mice
+#1267	AnnotatorNotes T1267	NCBITaxon:10088 (Mus)
+T1268	GO_BP 31227 31232	mated
+#1268	AnnotatorNotes T1268	GO:0007618 (mating)
+T1269	CHEBI 31372 31375	CO2
+#1269	AnnotatorNotes T1269	CHEBI:16526 (carbon dioxide)
+T1270	sub 31374 31375	2
+#1270	AnnotatorNotes T1270	sub (null)
+T1271	CHEBI 31423 31427	salt
+#1271	AnnotatorNotes T1271	CHEBI:24866 (salts)
+T1272	SO 31646 31654	genotype
+#1272	AnnotatorNotes T1272	SO:0001027 (genotype)
+T1273	GO_MF 31712 31727	β-galactosidase
+#1273	AnnotatorNotes T1273	GO:0004565 (beta-galactosidase activity)
+T1274	independent_continuant 31712 31727	β-galactosidase
+#1274	AnnotatorNotes T1274	independent_continuant
+T1275	CHEBI 31902 31911	detergent
+#1275	AnnotatorNotes T1275	CHEBI:27780 (detergent)
+T1276	SO 31978 31986	genotype
+#1276	AnnotatorNotes T1276	SO:0001027 (genotype)
+T1277	PR 32099 32120	α-smooth muscle actin
+#1277	AnnotatorNotes T1277	PR:000003675 (actin, aortic smooth muscle)
+T1278	PR 32129 32146	cleaved caspase-3
+#1278	AnnotatorNotes T1278	PR:000018762 (caspase-3 proteolytic cleavage product)
+T1279	GO_BP 32129 32136	cleaved
+#1279	AnnotatorNotes T1279	GO:0030908 (protein splicing)
+T1280	GO_MF 32137 32144	caspase
+#1280	AnnotatorNotes T1280	GO:0030693 (caspase activity)
+T1281	independent_continuant 32137 32144	caspase
+#1281	AnnotatorNotes T1281	independent_continuant
+T1282	CL 32148 32152	Cell
+#1282	AnnotatorNotes T1282	CL:0000000 (cell)
+T1283	GO_CC 32148 32152	Cell
+#1283	AnnotatorNotes T1283	GO:0005623 (cell)
+T1284	GO_BP 32153 32162	Signaling
+#1284	AnnotatorNotes T1284	GO:0007165 (signal transduction)
+T1285	CL 32185 32189	Cell
+#1285	AnnotatorNotes T1285	CL:0000000 (cell)
+T1286	GO_CC 32185 32189	Cell
+#1286	AnnotatorNotes T1286	GO:0005623 (cell)
+T1287	GO_BP 32190 32199	Signaling
+#1287	AnnotatorNotes T1287	GO:0007165 (signal transduction)
+T1288	GO_CC 32201 32211	antibodies
+#1288	AnnotatorNotes T1288	GO:0019814 (immunoglobulin complex)
+T1289	SO 32351 32359	genotype
+#1289	AnnotatorNotes T1289	SO:0001027 (genotype)
+T1290	CHEBI 32378 32381	dye
+#1290	AnnotatorNotes T1290	CHEBI:37958 (dye)
+T1291	SO 32469 32477	genotype
+#1291	AnnotatorNotes T1291	SO:0001027 (genotype)
+T1292	CHEBI 32557 32560	dye
+#1292	AnnotatorNotes T1292	CHEBI:37958 (dye)
+T1293	CHEBI 32643 32646	dye
+#1293	AnnotatorNotes T1293	CHEBI:37958 (dye)
+T1294	CHEBI 32703 32711	buffered
+#1294	AnnotatorNotes T1294	CHEBI:35225 (buffer)
+T1295	CHEBI 32761 32775	benzylbenzoate
+#1295	AnnotatorNotes T1295	CHEBI:41237 (benzyl benzoate)
+T1296	CHEBI 32777 32791	benzyl alcohol
+#1296	AnnotatorNotes T1296	CHEBI:17987 (benzyl alcohol)
+T1297	CHEBI 32777 32783	benzyl
+#1297	AnnotatorNotes T1297	CHEBI:22744 (benzyl group)
+T1298	GO_BP 32803 32813	Expression
+#1298	AnnotatorNotes T1298	GO:0010467 (gene expression)
+T1299	EntrezGene 32837 32856	parathyroid hormone
+#1299	AnnotatorNotes T1299	EG:19226
+T1300	PR 32837 32856	parathyroid hormone
+#1300	AnnotatorNotes T1300	PR:000013429 (parathyroid hormone)
+T1301	CHEBI 32849 32856	hormone
+#1301	AnnotatorNotes T1301	CHEBI:24621 (hormone)
+T1302	independent_continuant 32849 32856	hormone
+#1302	AnnotatorNotes T1302	independent_continuant
+T1303	GO_MF 32849 32856	hormone
+#1303	AnnotatorNotes T1303	GO:0005179 (hormone activity)
+T1304	GO_BP 32857 32867	expression
+#1304	AnnotatorNotes T1304	GO:0010467 (gene expression)
+T1305	GO_MF 32884 32897	hybridization
+#1305	AnnotatorNotes T1305	GO:0000739 (DNA strand annealing activity)
+T1306	GO_MF 32884 32897	hybridization
+#1306	AnnotatorNotes T1306	GO:0033592 (RNA strand annealing activity)
+T1307	SO 32905 32914	antisense
+#1307	AnnotatorNotes T1307	SO:0000077 (antisense)
+T1308	SO 32915 32920	probe
+#1308	AnnotatorNotes T1308	SO:0000051 (probe)
+T1309	CHEBI 32938 32949	nucleotides
+#1309	AnnotatorNotes T1309	CHEBI:25613 (nucleotidyl groups)
+T1310	SO 32938 32949	nucleotides
+#1310	AnnotatorNotes T1310	SO:0001236 (base)
+T1311	NCBITaxon 33056 33061	mouse
+#1311	AnnotatorNotes T1311	NCBITaxon:10088 (Mus)
+T1312	GO_BP 33137 33146	generated
+#1312	AnnotatorNotes T1312	GO:0000003 (reproduction)
+T1313	italic 33151 33155	Alk5
+#1313	AnnotatorNotes T1313	italic (null)
+T1314	sup 33155 33159	FXFX
+#1314	AnnotatorNotes T1314	sup (null)
+T1315	italic 33155 33159	FXFX
+#1315	AnnotatorNotes T1315	italic (null)
+T1316	GO_BP 33186 33196	expression
+#1316	AnnotatorNotes T1316	GO:0010467 (gene expression)
+T1317	italic 33254 33260	Tgfbr2
+#1317	AnnotatorNotes T1317	italic (null)
+T1318	independent_continuant 33254 33260	Tgfbr2
+#1318	AnnotatorNotes T1318	independent_continuant
+T1319	EntrezGene 33254 33260	Tgfbr2
+#1319	AnnotatorNotes T1319	EG:21813
+T1320	PR 33254 33260	Tgfbr2
+#1320	AnnotatorNotes T1320	PR:000000005 (TGF-beta receptor type-2)
+T1321	GO_MF 33254 33260	Tgfbr2
+#1321	AnnotatorNotes T1321	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T1322	SO 33261 33267	mutant
+#1322	AnnotatorNotes T1322	SO:0001059 (sequence_alteration)
+T1323	GO_BP 33285 33294	generated
+#1323	AnnotatorNotes T1323	GO:0000003 (reproduction)
+T1324	italic 33299 33303	Alk2
+#1324	AnnotatorNotes T1324	italic (null)
+T1325	sup 33303 33307	FXFX
+#1325	AnnotatorNotes T1325	sup (null)
+T1326	italic 33303 33307	FXFX
+#1326	AnnotatorNotes T1326	italic (null)
+T1327	NCBITaxon 33308 33312	mice
+#1327	AnnotatorNotes T1327	NCBITaxon:10088 (Mus)
+T1328	italic 33494 33502	Wnt1-Cre
+#1328	AnnotatorNotes T1328	italic (null)
+T1329	PR 33494 33498	Wnt1
+#1329	AnnotatorNotes T1329	PR:000017435 (proto-oncogene protein Wnt-1)
+T1330	NCBITaxon 33503 33508	mouse
+#1330	AnnotatorNotes T1330	NCBITaxon:10088 (Mus)
+T1331	PR 33533 33536	PTH
+#1331	AnnotatorNotes T1331	PR:000013429 (parathyroid hormone)
+T1332	SO 33537 33542	probe
+#1332	AnnotatorNotes T1332	SO:0000051 (probe)
+T1333	italic 33564 33579	Tgfbr2/Wnt1-Cre
+#1333	AnnotatorNotes T1333	italic (null)
+T1334	independent_continuant 33564 33570	Tgfbr2
+#1334	AnnotatorNotes T1334	independent_continuant
+T1335	PR 33564 33570	Tgfbr2
+#1335	AnnotatorNotes T1335	PR:000000005 (TGF-beta receptor type-2)
+T1336	EntrezGene 33564 33570	Tgfbr2
+#1336	AnnotatorNotes T1336	EG:21813
+T1337	GO_MF 33564 33570	Tgfbr2
+#1337	AnnotatorNotes T1337	GO:0005026 (transforming growth factor beta receptor activity, type II)
+T1338	PR 33571 33575	Wnt1
+#1338	AnnotatorNotes T1338	PR:000017435 (proto-oncogene protein Wnt-1)

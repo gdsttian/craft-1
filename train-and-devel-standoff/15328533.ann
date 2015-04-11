@@ -1,0 +1,1462 @@
+T1	GO_BP 0 10	Regulation
+#1	AnnotatorNotes T1	GO:0065007 (biological regulation)
+T2	EntrezGene 57 62	PPARδ
+#2	AnnotatorNotes T2	EG:19015
+T3	PR 57 62	PPARδ
+#3	AnnotatorNotes T3	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T4	GO_BP 106 113	promote
+#4	AnnotatorNotes T4	GO:0048518 (positive regulation of biological process)
+T5	GO_BP 117 153	adaptive muscle fiber transformation
+#5	AnnotatorNotes T5	GO:0043500 (muscle adaptation)
+T6	GO_CC 173 186	mitochondrial
+#6	AnnotatorNotes T6	GO:0005739 (mitochondrion)
+T7	GO_BP 187 197	biogenesis
+#7	AnnotatorNotes T7	GO:0022607 (cellular component assembly)
+T8	GO_BP 232 247	gene expression
+#8	AnnotatorNotes T8	GO:0010467 (gene expression)
+T9	SO 232 236	gene
+#9	AnnotatorNotes T9	SO:0000704 (gene)
+T10	GO_MF 261 281	transcription factor
+#10	AnnotatorNotes T10	GO:0003700 (transcription factor activity)
+T11	independent_continuant 261 281	transcription factor
+#11	AnnotatorNotes T11	independent_continuant
+T12	GO_BP 261 274	transcription
+#12	AnnotatorNotes T12	GO:0006350 (transcription)
+T13	GO_BP 315 321	direct
+#13	AnnotatorNotes T13	GO:0065007 (biological regulation)
+T14	GO_BP 352 363	engineering
+#14	AnnotatorNotes T14	GO:0000003 (reproduction)
+T15	NCBITaxon 369 374	mouse
+#15	AnnotatorNotes T15	NCBITaxon:10088 (Mus)
+T16	SO 438 447	wild-type
+#16	AnnotatorNotes T16	SO:0000817 (wild_type)
+T17	GO_BP 490 500	expression
+#17	AnnotatorNotes T17	GO:0010467 (gene expression)
+T18	SO 517 521	form
+#18	AnnotatorNotes T18	SO:0001060 (sequence_variant)
+T19	EntrezGene 525 569	peroxisome proliferator-activated receptor δ
+#19	AnnotatorNotes T19	EG:19015
+T20	PR 525 569	peroxisome proliferator-activated receptor δ
+#20	AnnotatorNotes T20	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T21	GO_CC 525 535	peroxisome
+#21	AnnotatorNotes T21	GO:0005777 (peroxisome)
+T22	GO_MF 559 567	receptor
+#22	AnnotatorNotes T22	GO:0004872 (receptor activity)
+T23	independent_continuant 559 567	receptor
+#23	AnnotatorNotes T23	independent_continuant
+T24	EntrezGene 571 576	PPARδ
+#24	AnnotatorNotes T24	EG:19015
+T25	PR 571 576	PPARδ
+#25	AnnotatorNotes T25	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T26	GO_BP 604 611	induces
+#26	AnnotatorNotes T26	GO:0031128 (induction)
+T27	GO_BP 624 628	form
+#27	AnnotatorNotes T27	GO:0032502 (developmental process)
+T28	SO 685 694	wild-type
+#28	AnnotatorNotes T28	SO:0000817 (wild_type)
+T29	NCBITaxon 695 699	mice
+#29	AnnotatorNotes T29	NCBITaxon:10088 (Mus)
+T30	EntrezGene 705 710	PPARδ
+#30	AnnotatorNotes T30	EG:19015
+T31	PR 705 710	PPARδ
+#31	AnnotatorNotes T31	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T32	CHEBI 711 718	agonist
+#32	AnnotatorNotes T32	CHEBI:48705 (agonist)
+T33	independent_continuant 711 718	agonist
+#33	AnnotatorNotes T33	independent_continuant
+T34	GO_MF 711 718	agonist
+#34	AnnotatorNotes T34	GO:0048018 (receptor agonist activity)
+T35	GO_BP 750 765	gene expression
+#35	AnnotatorNotes T35	GO:0010467 (gene expression)
+T36	SO 750 754	gene
+#36	AnnotatorNotes T36	SO:0000704 (gene)
+T37	SO 801 812	genetically
+#37	AnnotatorNotes T37	SO:0000704 (gene)
+T38	GO_BP 813 822	generated
+#38	AnnotatorNotes T38	GO:0032502 (developmental process)
+T39	GO_BP 873 882	metabolic
+#39	AnnotatorNotes T39	GO:0008152 (metabolic process)
+T40	CHEBI 1044 1055	molecularly
+#40	AnnotatorNotes T40	CHEBI:36357 (polyatomic entities)
+T41	GO_BP 1184 1194	glycolytic
+#41	AnnotatorNotes T41	GO:0006096 (glycolysis)
+T42	GO_BP 1255 1266	contraction
+#42	AnnotatorNotes T42	GO:0006936 (muscle contraction)
+T43	GO_BP 1268 1278	metabolism
+#43	AnnotatorNotes T43	GO:0008152 (metabolic process)
+T44	GO_CC 1329 1341	mitochondria
+#44	AnnotatorNotes T44	GO:0005739 (mitochondrion)
+T45	GO_BP 1362 1382	oxidative metabolism
+#45	AnnotatorNotes T45	GO:0045333 (cellular respiration)
+T46	CHEBI 1457 1460	ATP
+#46	AnnotatorNotes T46	CHEBI:15422 (ATP)
+T47	CHEBI 1457 1460	ATP
+#47	AnnotatorNotes T47	CHEBI:30616 (ATP(4-))
+T48	GO_CC 1595 1608	mitochondrial
+#48	AnnotatorNotes T48	GO:0005739 (mitochondrion)
+T49	SO 1631 1638	enzymes
+#49	AnnotatorNotes T49	SO:0001185 (enzymatic)
+T50	GO_BP 1648 1669	glycolytic metabolism
+#50	AnnotatorNotes T50	GO:0006096 (glycolysis)
+T51	GO_BP 1752 1773	contraction functions
+#51	AnnotatorNotes T51	GO:0006936 (muscle contraction)
+T52	GO_BP 1995 2003	response
+#52	AnnotatorNotes T52	GO:0050896 (response to stimulus)
+T53	GO_BP 2028 2038	modulation
+#53	AnnotatorNotes T53	GO:0065007 (biological regulation)
+T54	CL 2042 2052	motoneuron
+#54	AnnotatorNotes T54	CL:0000100 (motor neuron)
+T55	GO_BP 2256 2281	calcium signaling pathway
+#55	AnnotatorNotes T55	GO:0019722 (calcium-mediated signaling)
+T56	CHEBI 2256 2263	calcium
+#56	AnnotatorNotes T56	CHEBI:22984 (calcium)
+T57	GO_MF 2309 2336	calmodulin-dependent kinase
+#57	AnnotatorNotes T57	GO:0004683 (calmodulin-dependent protein kinase activity)
+T58	independent_continuant 2309 2336	calmodulin-dependent kinase
+#58	AnnotatorNotes T58	independent_continuant
+T59	GO_MF 2346 2370	transcriptional cofactor
+#59	AnnotatorNotes T59	GO:0003712 (transcription cofactor activity)
+T60	independent_continuant 2346 2370	transcriptional cofactor
+#60	AnnotatorNotes T60	independent_continuant
+T61	GO_BP 2346 2361	transcriptional
+#61	AnnotatorNotes T61	GO:0006350 (transcription)
+T62	PR 2371 2434	Peroxisome proliferator-activated receptor-gamma coactivator 1α
+#62	AnnotatorNotes T62	PR:000013059 (peroxisome proliferator-activated receptor gamma coactivator 1-alpha)
+T63	PR 2371 2419	Peroxisome proliferator-activated receptor-gamma
+#63	AnnotatorNotes T63	PR:000013058 (peroxisome proliferator-activated receptor gamma)
+T64	GO_CC 2371 2381	Peroxisome
+#64	AnnotatorNotes T64	GO:0005777 (peroxisome)
+T65	GO_MF 2405 2413	receptor
+#65	AnnotatorNotes T65	GO:0004872 (receptor activity)
+T66	independent_continuant 2405 2413	receptor
+#66	AnnotatorNotes T66	independent_continuant
+T67	GO_MF 2420 2431	coactivator
+#67	AnnotatorNotes T67	GO:0003713 (transcription coactivator activity)
+T68	independent_continuant 2420 2431	coactivator
+#68	AnnotatorNotes T68	independent_continuant
+T69	PR 2436 2442	PGC-1α
+#69	AnnotatorNotes T69	PR:000013059 (peroxisome proliferator-activated receptor gamma coactivator 1-alpha)
+T70	GO_MF 2544 2567	transcriptional factors
+#70	AnnotatorNotes T70	GO:0003700 (transcription factor activity)
+T71	independent_continuant 2544 2567	transcriptional factors
+#71	AnnotatorNotes T71	independent_continuant
+T72	GO_BP 2544 2559	transcriptional
+#72	AnnotatorNotes T72	GO:0006350 (transcription)
+T73	GO_BP 2626 2637	contractile
+#73	AnnotatorNotes T73	GO:0006936 (muscle contraction)
+T74	GO_BP 2642 2651	metabolic
+#74	AnnotatorNotes T74	GO:0008152 (metabolic process)
+T75	SO 2652 2657	genes
+#75	AnnotatorNotes T75	SO:0000704 (gene)
+T76	GO_BP 2697 2710	specification
+#76	AnnotatorNotes T76	GO:0007389 (pattern specification process)
+T77	NCBITaxon 2777 2784	rodents
+#77	AnnotatorNotes T77	NCBITaxon:9989 (Rodentia)
+T78	GO_BP 2976 2986	glycolytic
+#78	AnnotatorNotes T78	GO:0006096 (glycolysis)
+T79	CHEBI 3273 3280	insulin
+#79	AnnotatorNotes T79	CHEBI:5931 (insulin)
+T80	PR 3273 3280	insulin
+#80	AnnotatorNotes T80	PR:000009054 (insulin)
+T81	CL 3300 3309	adipocyte
+#81	AnnotatorNotes T81	CL:0000136 (fat cell)
+T82	PR 3393 3444	peroxisome proliferator-activated receptor (PPAR) δ
+#82	AnnotatorNotes T82	"peroxisome proliferator-activated receptor .. δ" PR:000013057 (peroxisome proliferator-activated receptor delta)
+T83	GO_CC 3393 3403	peroxisome
+#83	AnnotatorNotes T83	GO:0005777 (peroxisome)
+T84	GO_MF 3427 3435	receptor
+#84	AnnotatorNotes T84	GO:0004872 (receptor activity)
+T85	independent_continuant 3427 3435	receptor
+#85	AnnotatorNotes T85	independent_continuant
+T86	PR 3437 3444	PPAR) δ
+#86	AnnotatorNotes T86	"PPAR .. δ" PR:000013057 (peroxisome proliferator-activated receptor delta)
+T87	GO_MF 3456 3481	transcriptional regulator
+#87	AnnotatorNotes T87	GO:0030528 (transcription regulator activity)
+T88	independent_continuant 3456 3481	transcriptional regulator
+#88	AnnotatorNotes T88	independent_continuant
+T89	GO_BP 3456 3471	transcriptional
+#89	AnnotatorNotes T89	GO:0006350 (transcription)
+T90	SO 3537 3544	enzymes
+#90	AnnotatorNotes T90	SO:0001185 (enzymatic)
+T91	CHEBI 3561 3582	long-chain fatty-acid
+#91	AnnotatorNotes T91	CHEBI:15904 (long-chain fatty acids)
+T92	GO_BP 3572 3594	fatty-acid β-oxidation
+#92	AnnotatorNotes T92	GO:0006635 (fatty acid beta-oxidation)
+T93	PR 3624 3629	PPARδ
+#93	AnnotatorNotes T93	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T94	SO 3654 3661	isoform
+#94	AnnotatorNotes T94	SO:0001060 (sequence_variant)
+T95	EntrezGene 3763 3768	PPARδ
+#95	AnnotatorNotes T95	EG:19015
+T96	PR 3763 3768	PPARδ
+#96	AnnotatorNotes T96	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T97	independent_continuant 3782 3802	transcription factor
+#97	AnnotatorNotes T97	independent_continuant
+T98	GO_MF 3782 3802	transcription factor
+#98	AnnotatorNotes T98	GO:0003700 (transcription factor activity)
+T99	GO_BP 3782 3795	transcription
+#99	AnnotatorNotes T99	GO:0006350 (transcription)
+T100	GO_BP 3811 3816	drive
+#100	AnnotatorNotes T100	GO:0048518 (positive regulation of biological process)
+T101	GO_BP 3821 3865	formation of functional type I muscle fibers
+#101	AnnotatorNotes T101	"formation of .. muscle fibers" GO:0048747 (muscle fiber development)
+T102	GO_BP 3915 3924	enhancing
+#102	AnnotatorNotes T102	GO:0048518 (positive regulation of biological process)
+T103	EntrezGene 4014 4019	PPARδ
+#103	AnnotatorNotes T103	EG:19015
+T104	PR 4014 4019	PPARδ
+#104	AnnotatorNotes T104	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T105	EntrezGene 4068 4073	PPARδ
+#105	AnnotatorNotes T105	EG:19015
+T106	PR 4068 4073	PPARδ
+#106	AnnotatorNotes T106	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T107	GO_BP 4111 4119	enhanced
+#107	AnnotatorNotes T107	GO:0048518 (positive regulation of biological process)
+T108	GO_BP 4120 4130	expression
+#108	AnnotatorNotes T108	GO:0010467 (gene expression)
+T109	EntrezGene 4174 4179	PPARα
+#109	AnnotatorNotes T109	EG:19013
+T110	PR 4174 4179	PPARα
+#110	AnnotatorNotes T110	PR:000013056 (peroxisome proliferator-activated receptor alpha)
+T111	SO 4186 4194	isoforms
+#111	AnnotatorNotes T111	SO:0001060 (sequence_variant)
+T112	EntrezGene 4247 4252	PPARδ
+#112	AnnotatorNotes T112	EG:19015
+T113	PR 4247 4252	PPARδ
+#113	AnnotatorNotes T113	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T114	GO_BP 4472 4482	expression
+#114	AnnotatorNotes T114	GO:0010467 (gene expression)
+T115	EntrezGene 4517 4523	PGC-1α
+#115	AnnotatorNotes T115	EG:19017
+T116	PR 4517 4523	PGC-1α
+#116	AnnotatorNotes T116	PR:000013059 (peroxisome proliferator-activated receptor gamma coactivator 1-alpha)
+T117	CHEBI 4615 4622	protein
+#117	AnnotatorNotes T117	CHEBI:36080 (proteins)
+T118	EntrezGene 4688 4693	PPARδ
+#118	AnnotatorNotes T118	EG:19015
+T119	PR 4688 4693	PPARδ
+#119	AnnotatorNotes T119	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T120	GO_BP 4697 4704	control
+#120	AnnotatorNotes T120	GO:0065007 (biological regulation)
+T121	GO_CC 4736 4749	mitochondrial
+#121	AnnotatorNotes T121	GO:0005739 (mitochondrion)
+T122	GO_BP 4750 4760	biogenesis
+#122	AnnotatorNotes T122	GO:0022607 (cellular component assembly)
+T123	GO_BP 4765 4774	generated
+#123	AnnotatorNotes T123	GO:0000003 (reproduction)
+T124	NCBITaxon 4775 4779	mice
+#124	AnnotatorNotes T124	NCBITaxon:10088 (Mus)
+T125	GO_BP 4780 4790	expressing
+#125	AnnotatorNotes T125	GO:0010467 (gene expression)
+T126	SO 4793 4802	transgene
+#126	AnnotatorNotes T126	SO:0000902 (transgene)
+T127	CHEBI 4819 4829	amino-acid
+#127	AnnotatorNotes T127	CHEBI:33708 (amino-acid residue)
+T128	SO 4819 4829	amino-acid
+#128	AnnotatorNotes T128	SO:0001237 (amino_acid)
+T129	CHEBI 4819 4824	amino
+#129	AnnotatorNotes T129	CHEBI:32952 (amines)
+T130	CHEBI 4819 4824	amino
+#130	AnnotatorNotes T130	CHEBI:46882 (amino group)
+T131	CHEBI 4825 4829	acid
+#131	AnnotatorNotes T131	CHEBI:37527 (acid)
+T132	SO 4846 4852	domain
+#132	AnnotatorNotes T132	SO:0000417 (polypeptide_domain)
+T133	SO 4870 4880	N-terminus
+#133	AnnotatorNotes T133	SO:0100014 (n_terminal_region)
+T134	CHEBI 4870 4871	N
+#134	AnnotatorNotes T134	CHEBI:46882 (amino group)
+T135	EntrezGene 4896 4901	PPARδ
+#135	AnnotatorNotes T135	EG:19015
+T136	PR 4896 4901	PPARδ
+#136	AnnotatorNotes T136	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T137	GO_BP 4909 4916	control
+#137	AnnotatorNotes T137	GO:0065007 (biological regulation)
+T138	EntrezGene 4931 4953	human α-skeletal actin
+#138	AnnotatorNotes T138	EG:58
+T139	NCBITaxon 4931 4936	human
+#139	AnnotatorNotes T139	NCBITaxon:9606 (Homo sapiens)
+T140	PR 4937 4953	α-skeletal actin
+#140	AnnotatorNotes T140	PR:000003674 (actin, alpha skeletal muscle)
+T141	SO 4954 4962	promoter
+#141	AnnotatorNotes T141	SO:0000167 (promoter)
+T142	SO 5020 5028	promoter
+#142	AnnotatorNotes T142	SO:0000167 (promoter)
+T143	EntrezGene 5088 5093	PPARδ
+#143	AnnotatorNotes T143	EG:19015
+T144	PR 5088 5093	PPARδ
+#144	AnnotatorNotes T144	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T145	SO 5094 5103	transgene
+#145	AnnotatorNotes T145	SO:0000902 (transgene)
+T146	GO_BP 5120 5129	expressed
+#146	AnnotatorNotes T146	GO:0010467 (gene expression)
+T147	EntrezGene 5253 5258	PPARδ
+#147	AnnotatorNotes T147	EG:19015
+T148	PR 5253 5258	PPARδ
+#148	AnnotatorNotes T148	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T149	GO_BP 5259 5269	expression
+#149	AnnotatorNotes T149	GO:0010467 (gene expression)
+T150	EntrezGene 5366 5371	PPARδ
+#150	AnnotatorNotes T150	EG:19015
+T151	PR 5366 5371	PPARδ
+#151	AnnotatorNotes T151	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T152	SO 5372 5378	fusion
+#152	AnnotatorNotes T152	SO:0000806 (fusion)
+T153	CHEBI 5379 5386	protein
+#153	AnnotatorNotes T153	CHEBI:36080 (proteins)
+T154	GO_BP 5391 5399	produced
+#154	AnnotatorNotes T154	GO:0009058 (biosynthetic process)
+T155	EntrezGene 5441 5446	PPARδ
+#155	AnnotatorNotes T155	EG:19015
+T156	PR 5441 5446	PPARδ
+#156	AnnotatorNotes T156	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T157	SO 5450 5459	wild-type
+#157	AnnotatorNotes T157	SO:0000817 (wild_type)
+T158	EntrezGene 5519 5524	PPARδ
+#158	AnnotatorNotes T158	EG:19015
+T159	PR 5519 5524	PPARδ
+#159	AnnotatorNotes T159	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T160	CHEBI 5525 5532	protein
+#160	AnnotatorNotes T160	CHEBI:36080 (proteins)
+T161	SO 5540 5550	transgenic
+#161	AnnotatorNotes T161	SO:0000902 (transgene)
+T162	NCBITaxon 5551 5555	mice
+#162	AnnotatorNotes T162	NCBITaxon:10088 (Mus)
+T163	EntrezGene 5644 5649	PPARδ
+#163	AnnotatorNotes T163	EG:19015
+T164	PR 5644 5649	PPARδ
+#164	AnnotatorNotes T164	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T165	GO_BP 5732 5741	expresses
+#165	AnnotatorNotes T165	GO:0010467 (gene expression)
+T166	EntrezGene 5759 5764	PPARδ
+#166	AnnotatorNotes T166	EG:19015
+T167	PR 5759 5764	PPARδ
+#167	AnnotatorNotes T167	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T168	CHEBI 5913 5922	myoglobin
+#168	AnnotatorNotes T168	CHEBI:7044 (myoglobin)
+T169	PR 5913 5922	myoglobin
+#169	AnnotatorNotes T169	PR:000010213 (myoglobin)
+T170	CHEBI 5926 5933	protein
+#170	AnnotatorNotes T170	CHEBI:36080 (proteins)
+T171	GO_BP 5944 5953	expressed
+#171	AnnotatorNotes T171	GO:0010467 (gene expression)
+T172	SO 6011 6021	transgenic
+#172	AnnotatorNotes T172	SO:0000902 (transgene)
+T173	NCBITaxon 6022 6026	mice
+#173	AnnotatorNotes T173	NCBITaxon:10088 (Mus)
+T174	CHEBI 6386 6395	myoglobin
+#174	AnnotatorNotes T174	CHEBI:7044 (myoglobin)
+T175	EntrezGene 6386 6395	myoglobin
+#175	AnnotatorNotes T175	EG:17189
+T176	PR 6386 6395	myoglobin
+#176	AnnotatorNotes T176	PR:000010213 (myoglobin)
+T177	GO_CC 6400 6413	mitochondrial
+#177	AnnotatorNotes T177	GO:0005739 (mitochondrion)
+T178	CHEBI 6449 6453	mRNA
+#178	AnnotatorNotes T178	CHEBI:33699 (messenger RNA)
+T179	SO 6449 6453	mRNA
+#179	AnnotatorNotes T179	SO:0000234 (mRNA)
+T180	CHEBI 6498 6507	myoglobin
+#180	AnnotatorNotes T180	CHEBI:7044 (myoglobin)
+T181	PR 6498 6507	myoglobin
+#181	AnnotatorNotes T181	PR:000010213 (myoglobin)
+T182	EntrezGene 6498 6507	myoglobin
+#182	AnnotatorNotes T182	EG:17189
+T183	GO_CC 6509 6522	mitochondrial
+#183	AnnotatorNotes T183	GO:0005739 (mitochondrion)
+T184	GO_BP 6538 6555	electron transfer
+#184	AnnotatorNotes T184	GO:0006118 (electron transport)
+T185	CHEBI 6538 6546	electron
+#185	AnnotatorNotes T185	CHEBI:10545 (electron)
+T186	CHEBI 6557 6569	cytochrome c
+#186	AnnotatorNotes T186	CHEBI:18070 (cytochrome c)
+T187	EntrezGene 6557 6569	cytochrome c
+#187	AnnotatorNotes T187	EG:13063
+T188	PR 6557 6569	cytochrome c
+#188	AnnotatorNotes T188	PR:000002199 (cytochrome c protein)
+T189	EntrezGene 6574 6610	cytochrome c oxidase [COX] II and IV
+#189	AnnotatorNotes T189	"cytochrome c oxidase .. IV" EG:12857
+T190	EntrezGene 6574 6603	cytochrome c oxidase [COX] II
+#190	AnnotatorNotes T190	"cytochrome c oxidase .. II" EG:17709
+T191	PR 6574 6603	cytochrome c oxidase [COX] II
+#191	AnnotatorNotes T191	"cytochrome c oxidase .. II" PR:000025365 (cytochrome c oxidase subunit 2)
+T192	GO_MF 6574 6594	cytochrome c oxidase
+#192	AnnotatorNotes T192	GO:0004129 (cytochrome-c oxidase activity)
+T193	GO_CC 6574 6594	cytochrome c oxidase
+#193	AnnotatorNotes T193	GO:0045277 (respiratory chain complex IV)
+T194	independent_continuant 6574 6594	cytochrome c oxidase
+#194	AnnotatorNotes T194	independent_continuant
+T195	CHEBI 6574 6586	cytochrome c
+#195	AnnotatorNotes T195	CHEBI:18070 (cytochrome c)
+T196	PR 6574 6586	cytochrome c
+#196	AnnotatorNotes T196	PR:000002199 (cytochrome c protein)
+T197	EntrezGene 6596 6610	COX] II and IV
+#197	AnnotatorNotes T197	"COX .. IV" EG:12857
+T198	EntrezGene 6596 6603	COX] II
+#198	AnnotatorNotes T198	"COX .. II" EG:17709
+T199	PR 6596 6603	COX] II
+#199	AnnotatorNotes T199	"COX .. II" PR:000025365 (cytochrome c oxidase subunit 2)
+T200	GO_MF 6596 6599	COX
+#200	AnnotatorNotes T200	GO:0004129 (cytochrome-c oxidase activity)
+T201	GO_CC 6596 6599	COX
+#201	AnnotatorNotes T201	GO:0045277 (respiratory chain complex IV)
+T202	independent_continuant 6596 6599	COX
+#202	AnnotatorNotes T202	independent_continuant
+T203	GO_BP 6616 6638	fatty-acid β-oxidation
+#203	AnnotatorNotes T203	GO:0006635 (fatty acid beta-oxidation)
+T204	CHEBI 6616 6626	fatty-acid
+#204	AnnotatorNotes T204	CHEBI:35366 (fatty acids)
+T205	SO 6639 6646	enzymes
+#205	AnnotatorNotes T205	SO:0001185 (enzymatic)
+T206	EntrezGene 6742 6747	PPARδ
+#206	AnnotatorNotes T206	EG:19015
+T207	PR 6742 6747	PPARδ
+#207	AnnotatorNotes T207	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T208	EntrezGene 6773 6779	PGC-1α
+#208	AnnotatorNotes T208	EG:19017
+T209	PR 6773 6779	PGC-1α
+#209	AnnotatorNotes T209	PR:000013059 (peroxisome proliferator-activated receptor gamma coactivator 1-alpha)
+T210	GO_MF 6783 6794	coactivator
+#210	AnnotatorNotes T210	GO:0003713 (transcription coactivator activity)
+T211	independent_continuant 6783 6794	coactivator
+#211	AnnotatorNotes T211	independent_continuant
+T212	GO_CC 6831 6844	mitochondrial
+#212	AnnotatorNotes T212	GO:0005739 (mitochondrion)
+T213	GO_BP 6845 6855	biogenesis
+#213	AnnotatorNotes T213	GO:0022607 (cellular component assembly)
+T214	GO_CC 7005 7018	mitochondrial
+#214	AnnotatorNotes T214	GO:0005739 (mitochondrion)
+T215	SO 7019 7025	genome
+#215	AnnotatorNotes T215	SO:0001026 (genome)
+T216	EntrezGene 7034 7039	COXII
+#216	AnnotatorNotes T216	EG:17709
+T217	PR 7034 7039	COXII
+#217	AnnotatorNotes T217	PR:000025365 (cytochrome c oxidase subunit 2)
+T218	SO 7040 7043	DNA
+#218	AnnotatorNotes T218	SO:0000352 (DNA)
+T219	SO 7051 7061	transgenic
+#219	AnnotatorNotes T219	SO:0000902 (transgene)
+T220	NCBITaxon 7062 7066	mice
+#220	AnnotatorNotes T220	NCBITaxon:10088 (Mus)
+T221	SO 7080 7097	Mitochondrial DNA
+#221	AnnotatorNotes T221	SO:0001032 (mitochondrial_DNA)
+T222	GO_CC 7080 7093	Mitochondrial
+#222	AnnotatorNotes T222	GO:0005739 (mitochondrion)
+T223	SO 7152 7162	transgenic
+#223	AnnotatorNotes T223	SO:0000902 (transgene)
+T224	NCBITaxon 7163 7167	mice
+#224	AnnotatorNotes T224	NCBITaxon:10088 (Mus)
+T225	GO_CC 7226 7239	mitochondrial
+#225	AnnotatorNotes T225	GO:0005739 (mitochondrion)
+T226	GO_BP 7240 7250	biogenesis
+#226	AnnotatorNotes T226	GO:0022607 (cellular component assembly)
+T227	CHEBI 7433 7441	proteins
+#227	AnnotatorNotes T227	CHEBI:36080 (proteins)
+T228	CHEBI 7451 7460	myoglobin
+#228	AnnotatorNotes T228	CHEBI:7044 (myoglobin)
+T229	PR 7451 7460	myoglobin
+#229	AnnotatorNotes T229	PR:000010213 (myoglobin)
+T230	EntrezGene 7451 7460	myoglobin
+#230	AnnotatorNotes T230	EG:17189
+T231	CHEBI 7465 7483	cytochrome c and b
+#231	AnnotatorNotes T231	"cytochrome .. b" CHEBI:38551 (cytochrome b)
+T232	EntrezGene 7465 7483	cytochrome c and b
+#232	AnnotatorNotes T232	"cytochrome .. b" EG:17711
+T233	PR 7465 7483	cytochrome c and b
+#233	AnnotatorNotes T233	"cytochrome .. b" PR:000010690 (cytochrome b)
+T234	CHEBI 7465 7477	cytochrome c
+#234	AnnotatorNotes T234	CHEBI:18070 (cytochrome c)
+T235	PR 7465 7477	cytochrome c
+#235	AnnotatorNotes T235	PR:000002199 (cytochrome c protein)
+T236	EntrezGene 7465 7477	cytochrome c
+#236	AnnotatorNotes T236	EG:13063
+T237	GO_BP 7549 7560	contraction
+#237	AnnotatorNotes T237	GO:0006936 (muscle contraction)
+T238	CHEBI 7561 7568	protein
+#238	AnnotatorNotes T238	CHEBI:36080 (proteins)
+T239	EntrezGene 7569 7586	troponin I (slow)
+#239	AnnotatorNotes T239	EG:21952
+T240	PR 7569 7586	troponin I (slow)
+#240	AnnotatorNotes T240	PR:000016504 (troponin I, slow skeletal muscle)
+T241	GO_BP 7687 7698	contraction
+#241	AnnotatorNotes T241	GO:0006936 (muscle contraction)
+T242	CHEBI 7699 7706	protein
+#242	AnnotatorNotes T242	CHEBI:36080 (proteins)
+T243	EntrezGene 7707 7724	troponin I (fast)
+#243	AnnotatorNotes T243	EG:21953
+T244	PR 7707 7724	troponin I (fast)
+#244	AnnotatorNotes T244	PR:000016505 (troponin I, fast skeletal muscle)
+T245	EntrezGene 7849 7854	PPARδ
+#245	AnnotatorNotes T245	EG:19015
+T246	PR 7849 7854	PPARδ
+#246	AnnotatorNotes T246	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T247	SO 7883 7888	genes
+#247	AnnotatorNotes T247	SO:0000704 (gene)
+T248	SO 7935 7945	transgenic
+#248	AnnotatorNotes T248	SO:0000902 (transgene)
+T249	NCBITaxon 7946 7950	mice
+#249	AnnotatorNotes T249	NCBITaxon:10088 (Mus)
+T250	SO 7986 7995	wild-type
+#250	AnnotatorNotes T250	SO:0000817 (wild_type)
+T251	NCBITaxon 8003 8007	mice
+#251	AnnotatorNotes T251	NCBITaxon:10088 (Mus)
+T252	PR 8017 8022	PPARδ
+#252	AnnotatorNotes T252	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T253	CHEBI 8032 8039	agonist
+#253	AnnotatorNotes T253	CHEBI:48705 (agonist)
+T254	GO_MF 8032 8039	agonist
+#254	AnnotatorNotes T254	GO:0048018 (receptor agonist activity)
+T255	independent_continuant 8032 8039	agonist
+#255	AnnotatorNotes T255	independent_continuant
+T256	SO 8064 8069	genes
+#256	AnnotatorNotes T256	SO:0000704 (gene)
+T257	GO_BP 8085 8096	contractile
+#257	AnnotatorNotes T257	GO:0006936 (muscle contraction)
+T258	CHEBI 8097 8105	proteins
+#258	AnnotatorNotes T258	CHEBI:36080 (proteins)
+T259	GO_CC 8107 8120	mitochondrial
+#259	AnnotatorNotes T259	GO:0005739 (mitochondrion)
+T260	GO_BP 8121 8131	biogenesis
+#260	AnnotatorNotes T260	GO:0022607 (cellular component assembly)
+T261	GO_BP 8137 8148	β-oxidation
+#261	AnnotatorNotes T261	GO:0006635 (fatty acid beta-oxidation)
+T262	GO_BP 8158 8169	upregulated
+#262	AnnotatorNotes T262	GO:0048518 (positive regulation of biological process)
+T263	EntrezGene 8335 8340	PPARδ
+#263	AnnotatorNotes T263	EG:19015
+T264	PR 8335 8340	PPARδ
+#264	AnnotatorNotes T264	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T265	EntrezGene 8374 8379	PPARδ
+#265	AnnotatorNotes T265	EG:19015
+T266	PR 8374 8379	PPARδ
+#266	AnnotatorNotes T266	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T267	NCBITaxon 8457 8468	individuals
+#267	AnnotatorNotes T267	NCBITaxon:1 (root)
+T268	GO_BP 8619 8622	fed
+#268	AnnotatorNotes T268	GO:0007631 (feeding behavior)
+T269	SO 8627 8637	transgenic
+#269	AnnotatorNotes T269	SO:0000902 (transgene)
+T270	NCBITaxon 8638 8642	mice
+#270	AnnotatorNotes T270	NCBITaxon:10088 (Mus)
+T271	SO 8653 8662	wild-type
+#271	AnnotatorNotes T271	SO:0000817 (wild_type)
+T272	SO 8781 8791	transgenic
+#272	AnnotatorNotes T272	SO:0000902 (transgene)
+T273	NCBITaxon 8792 8796	mice
+#273	AnnotatorNotes T273	NCBITaxon:10088 (Mus)
+T274	SO 8891 8900	wild-type
+#274	AnnotatorNotes T274	SO:0000817 (wild_type)
+T275	NCBITaxon 8901 8908	animals
+#275	AnnotatorNotes T275	NCBITaxon:33208 (Metazoa)
+T276	SO 8926 8936	transgenic
+#276	AnnotatorNotes T276	SO:0000902 (transgene)
+T277	NCBITaxon 8937 8941	mice
+#277	AnnotatorNotes T277	NCBITaxon:10088 (Mus)
+T278	CHEBI 8973 8979	oxygen
+#278	AnnotatorNotes T278	CHEBI:15379 (dioxygen)
+T279	SO 9143 9153	transgenic
+#279	AnnotatorNotes T279	SO:0000902 (transgene)
+T280	NCBITaxon 9154 9158	mice
+#280	AnnotatorNotes T280	NCBITaxon:10088 (Mus)
+T281	CL 9303 9307	cell
+#281	AnnotatorNotes T281	CL:0000000 (cell)
+T282	GO_CC 9303 9307	cell
+#282	AnnotatorNotes T282	GO:0005623 (cell)
+T283	SO 9320 9330	transgenic
+#283	AnnotatorNotes T283	SO:0000902 (transgene)
+T284	NCBITaxon 9331 9335	mice
+#284	AnnotatorNotes T284	NCBITaxon:10088 (Mus)
+T285	CHEBI 9456 9464	glycogen
+#285	AnnotatorNotes T285	CHEBI:28087 (glycogen)
+T286	CHEBI 9478 9490	triglyceride
+#286	AnnotatorNotes T286	CHEBI:17855 (triglycerides)
+T287	SO 9520 9530	transgenic
+#287	AnnotatorNotes T287	SO:0000902 (transgene)
+T288	NCBITaxon 9531 9535	mice
+#288	AnnotatorNotes T288	NCBITaxon:10088 (Mus)
+T289	CHEBI 9589 9596	glucose
+#289	AnnotatorNotes T289	CHEBI:17234 (glucose)
+T290	SO 9635 9644	wild-type
+#290	AnnotatorNotes T290	SO:0000817 (wild_type)
+T291	NCBITaxon 9652 9656	mice
+#291	AnnotatorNotes T291	NCBITaxon:10088 (Mus)
+T292	PR 9722 9727	PPARδ
+#292	AnnotatorNotes T292	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T293	CHEBI 9728 9735	agonist
+#293	AnnotatorNotes T293	CHEBI:48705 (agonist)
+T294	independent_continuant 9728 9735	agonist
+#294	AnnotatorNotes T294	independent_continuant
+T295	GO_MF 9728 9735	agonist
+#295	AnnotatorNotes T295	GO:0048018 (receptor agonist activity)
+T296	SO 9798 9803	genes
+#296	AnnotatorNotes T296	SO:0000704 (gene)
+T297	CHEBI 9958 9965	glucose
+#297	AnnotatorNotes T297	CHEBI:17234 (glucose)
+T298	PR 10081 10086	PPARδ
+#298	AnnotatorNotes T298	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T299	CHEBI 10087 10094	agonist
+#299	AnnotatorNotes T299	CHEBI:48705 (agonist)
+T300	GO_MF 10087 10094	agonist
+#300	AnnotatorNotes T300	GO:0048018 (receptor agonist activity)
+T301	independent_continuant 10087 10094	agonist
+#301	AnnotatorNotes T301	independent_continuant
+T302	SO 10112 10121	transgene
+#302	AnnotatorNotes T302	SO:0000902 (transgene)
+T303	EntrezGene 10176 10181	PPARδ
+#303	AnnotatorNotes T303	EG:19015
+T304	PR 10176 10181	PPARδ
+#304	AnnotatorNotes T304	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T305	GO_BP 10182 10190	Enhances
+#305	AnnotatorNotes T305	GO:0048518 (positive regulation of biological process)
+T306	GO_BP 10320 10330	adaptively
+#306	AnnotatorNotes T306	GO:0043500 (muscle adaptation)
+T307	GO_BP 10331 10340	generated
+#307	AnnotatorNotes T307	GO:0032502 (developmental process)
+T308	GO_BP 10442 10451	generated
+#308	AnnotatorNotes T308	GO:0032502 (developmental process)
+T309	CHEBI 10452 10463	molecularly
+#309	AnnotatorNotes T309	CHEBI:36357 (polyatomic entities)
+T310	EntrezGene 10468 10473	PPARδ
+#310	AnnotatorNotes T310	EG:19015
+T311	PR 10468 10473	PPARδ
+#311	AnnotatorNotes T311	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T312	GO_BP 10474 10484	expression
+#312	AnnotatorNotes T312	GO:0010467 (gene expression)
+T313	GO_BP 10503 10511	enhanced
+#313	AnnotatorNotes T313	GO:0048518 (positive regulation of biological process)
+T314	SO 10600 10611	genetically
+#314	AnnotatorNotes T314	SO:0000704 (gene)
+T315	GO_BP 10612 10619	induced
+#315	AnnotatorNotes T315	GO:0031128 (induction)
+T316	SO 10773 10783	transgenic
+#316	AnnotatorNotes T316	SO:0000902 (transgene)
+T317	SO 10788 10797	wild-type
+#317	AnnotatorNotes T317	SO:0000817 (wild_type)
+T318	NCBITaxon 10811 10815	Mice
+#318	AnnotatorNotes T318	NCBITaxon:10088 (Mus)
+T319	CHEBI 10828 10834	oxygen
+#319	AnnotatorNotes T319	CHEBI:15379 (dioxygen)
+T320	SO 10928 10938	transgenic
+#320	AnnotatorNotes T320	SO:0000902 (transgene)
+T321	NCBITaxon 10939 10943	mice
+#321	AnnotatorNotes T321	NCBITaxon:10088 (Mus)
+T322	SO 11053 11063	transgenic
+#322	AnnotatorNotes T322	SO:0000902 (transgene)
+T323	NCBITaxon 11064 11068	mice
+#323	AnnotatorNotes T323	NCBITaxon:10088 (Mus)
+T324	SO 11288 11298	transgenic
+#324	AnnotatorNotes T324	SO:0000902 (transgene)
+T325	independent_continuant 11288 11298	transgenic
+#325	AnnotatorNotes T325	independent_continuant
+T326	SO 11321 11330	wild-type
+#326	AnnotatorNotes T326	SO:0000817 (wild_type)
+T327	independent_continuant 11321 11330	wild-type
+#327	AnnotatorNotes T327	independent_continuant
+T328	italic 11332 11333	p
+#328	AnnotatorNotes T328	italic (null)
+T329	italic 11342 11343	n
+#329	AnnotatorNotes T329	italic (null)
+T330	SO 11375 11385	transgenic
+#330	AnnotatorNotes T330	SO:0000902 (transgene)
+T331	NCBITaxon 11398 11402	mice
+#331	AnnotatorNotes T331	NCBITaxon:10088 (Mus)
+T332	SO 11531 11542	genetically
+#332	AnnotatorNotes T332	SO:0000704 (gene)
+T333	GO_BP 11543 11551	directed
+#333	AnnotatorNotes T333	GO:0065007 (biological regulation)
+T334	EntrezGene 11671 11676	PPARδ
+#334	AnnotatorNotes T334	EG:19015
+T335	PR 11671 11676	PPARδ
+#335	AnnotatorNotes T335	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T336	EntrezGene 11740 11745	PPARδ
+#336	AnnotatorNotes T336	EG:19015
+T337	PR 11740 11745	PPARδ
+#337	AnnotatorNotes T337	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T338	NCBITaxon 11751 11755	mice
+#338	AnnotatorNotes T338	NCBITaxon:10088 (Mus)
+T339	SO 11856 11865	wild-type
+#339	AnnotatorNotes T339	SO:0000817 (wild_type)
+T340	EntrezGene 11933 11938	PPARδ
+#340	AnnotatorNotes T340	EG:19015
+T341	PR 11933 11938	PPARδ
+#341	AnnotatorNotes T341	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T342	GO_BP 11942 11953	enhancement
+#342	AnnotatorNotes T342	GO:0048518 (positive regulation of biological process)
+T343	EntrezGene 12015 12020	PPARδ
+#343	AnnotatorNotes T343	EG:19015
+T344	PR 12015 12020	PPARδ
+#344	AnnotatorNotes T344	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T345	GO_BP 12030 12053	transcriptional pathway
+#345	AnnotatorNotes T345	GO:0006350 (transcription)
+T346	GO_BP 12058 12066	regulate
+#346	AnnotatorNotes T346	GO:0065007 (biological regulation)
+T347	GO_BP 12080 12093	specification
+#347	AnnotatorNotes T347	GO:0007389 (pattern specification process)
+T348	GO_BP 12108 12118	generation
+#348	AnnotatorNotes T348	GO:0000003 (reproduction)
+T349	NCBITaxon 12134 12138	mice
+#349	AnnotatorNotes T349	NCBITaxon:10088 (Mus)
+T350	GO_BP 12203 12213	expression
+#350	AnnotatorNotes T350	GO:0010467 (gene expression)
+T351	SO 12230 12234	form
+#351	AnnotatorNotes T351	SO:0001060 (sequence_variant)
+T352	EntrezGene 12238 12243	PPARδ
+#352	AnnotatorNotes T352	EG:19015
+T353	PR 12238 12243	PPARδ
+#353	AnnotatorNotes T353	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T354	SO 12301 12308	enzymes
+#354	AnnotatorNotes T354	SO:0001185 (enzymatic)
+T355	GO_CC 12310 12323	mitochondrial
+#355	AnnotatorNotes T355	GO:0005739 (mitochondrion)
+T356	GO_BP 12324 12334	biogenesis
+#356	AnnotatorNotes T356	GO:0022607 (cellular component assembly)
+T357	GO_BP 12340 12399	production of specialized type I fiber contractile proteins
+#357	AnnotatorNotes T357	"production of .. proteins" GO:0006412 (translation)
+T358	GO_BP 12379 12390	contractile
+#358	AnnotatorNotes T358	GO:0006936 (muscle contraction)
+T359	CHEBI 12391 12399	proteins
+#359	AnnotatorNotes T359	CHEBI:36080 (proteins)
+T360	SO 12501 12508	enzymes
+#360	AnnotatorNotes T360	SO:0001185 (enzymatic)
+T361	PR 12512 12517	PPARδ
+#361	AnnotatorNotes T361	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T362	GO_BP 12955 12963	directed
+#362	AnnotatorNotes T362	GO:0065007 (biological regulation)
+T363	CL 13057 13069	motor neuron
+#363	AnnotatorNotes T363	CL:0000100 (motor neuron)
+T364	GO_BP 13057 13062	motor
+#364	AnnotatorNotes T364	GO:0050879 (multicellular organismal movement)
+T365	GO_BP 13095 13104	metabolic
+#365	AnnotatorNotes T365	GO:0008152 (metabolic process)
+T366	GO_BP 13105 13115	adaptation
+#366	AnnotatorNotes T366	GO:0051866 (general adaptation syndrome)
+T367	GO_BP 13143 13165	physiological response
+#367	AnnotatorNotes T367	GO:0050896 (response to stimulus)
+T368	EntrezGene 13201 13206	PPARδ
+#368	AnnotatorNotes T368	EG:19015
+T369	PR 13201 13206	PPARδ
+#369	AnnotatorNotes T369	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T370	GO_MF 13375 13397	transcriptional factor
+#370	AnnotatorNotes T370	GO:0003700 (transcription factor activity)
+T371	independent_continuant 13375 13397	transcriptional factor
+#371	AnnotatorNotes T371	independent_continuant
+T372	GO_BP 13375 13390	transcriptional
+#372	AnnotatorNotes T372	GO:0006350 (transcription)
+T373	SO 13472 13482	transgenic
+#373	AnnotatorNotes T373	SO:0000902 (transgene)
+T374	NCBITaxon 13483 13487	mice
+#374	AnnotatorNotes T374	NCBITaxon:10088 (Mus)
+T375	GO_BP 13488 13498	expressing
+#375	AnnotatorNotes T375	GO:0010467 (gene expression)
+T376	GO_MF 13519 13546	calmodulin-dependent kinase
+#376	AnnotatorNotes T376	GO:0004683 (calmodulin-dependent protein kinase activity)
+T377	independent_continuant 13519 13546	calmodulin-dependent kinase
+#377	AnnotatorNotes T377	independent_continuant
+T378	PR 13551 13557	PGC-1α
+#378	AnnotatorNotes T378	PR:000013059 (peroxisome proliferator-activated receptor gamma coactivator 1-alpha)
+T379	EntrezGene 13627 13632	PPARδ
+#379	AnnotatorNotes T379	EG:19015
+T380	PR 13627 13632	PPARδ
+#380	AnnotatorNotes T380	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T381	independent_continuant 13677 13698	transcription factors
+#381	AnnotatorNotes T381	independent_continuant
+T382	GO_MF 13677 13698	transcription factors
+#382	AnnotatorNotes T382	GO:0003700 (transcription factor activity)
+T383	GO_BP 13677 13690	transcription
+#383	AnnotatorNotes T383	GO:0006350 (transcription)
+T384	SO 13785 13795	transgenic
+#384	AnnotatorNotes T384	SO:0000902 (transgene)
+T385	EntrezGene 13805 13810	PPARδ
+#385	AnnotatorNotes T385	EG:19015
+T386	PR 13805 13810	PPARδ
+#386	AnnotatorNotes T386	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T387	GO_BP 13845 13851	direct
+#387	AnnotatorNotes T387	GO:0065007 (biological regulation)
+T388	SO 13954 13963	wild-type
+#388	AnnotatorNotes T388	SO:0000817 (wild_type)
+T389	PR 13964 13969	PPARδ
+#389	AnnotatorNotes T389	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T390	GO_BP 14014 14021	promote
+#390	AnnotatorNotes T390	GO:0048518 (positive regulation of biological process)
+T391	SO 14087 14094	enzymes
+#391	AnnotatorNotes T391	SO:0001185 (enzymatic)
+T392	GO_MF 14198 14206	receptor
+#392	AnnotatorNotes T392	GO:0004872 (receptor activity)
+T393	independent_continuant 14198 14206	receptor
+#393	AnnotatorNotes T393	independent_continuant
+T394	EntrezGene 14227 14232	PPARδ
+#394	AnnotatorNotes T394	EG:19015
+T395	PR 14227 14232	PPARδ
+#395	AnnotatorNotes T395	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T396	EntrezGene 14279 14284	PPARδ
+#396	AnnotatorNotes T396	EG:19015
+T397	PR 14279 14284	PPARδ
+#397	AnnotatorNotes T397	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T398	EntrezGene 14404 14409	PPARδ
+#398	AnnotatorNotes T398	EG:19015
+T399	PR 14404 14409	PPARδ
+#399	AnnotatorNotes T399	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T400	GO_BP 14495 14504	generates
+#400	AnnotatorNotes T400	GO:0009058 (biosynthetic process)
+T401	EntrezGene 14541 14546	PPARδ
+#401	AnnotatorNotes T401	EG:19015
+T402	PR 14541 14546	PPARδ
+#402	AnnotatorNotes T402	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T403	CHEBI 14598 14608	fatty-acid
+#403	AnnotatorNotes T403	CHEBI:35366 (fatty acids)
+T404	CHEBI 14638 14649	Fatty acids
+#404	AnnotatorNotes T404	CHEBI:35366 (fatty acids)
+T405	CHEBI 14660 14671	metabolites
+#405	AnnotatorNotes T405	CHEBI:25212 (metabolite)
+T406	EntrezGene 14685 14690	PPARδ
+#406	AnnotatorNotes T406	EG:19015
+T407	PR 14685 14690	PPARδ
+#407	AnnotatorNotes T407	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T408	GO_BP 14735 14745	expression
+#408	AnnotatorNotes T408	GO:0010467 (gene expression)
+T409	EntrezGene 14749 14755	PGC-1α
+#409	AnnotatorNotes T409	EG:19017
+T410	PR 14749 14755	PGC-1α
+#410	AnnotatorNotes T410	PR:000013059 (peroxisome proliferator-activated receptor gamma coactivator 1-alpha)
+T411	EntrezGene 14796 14801	PPARδ
+#411	AnnotatorNotes T411	EG:19015
+T412	PR 14796 14801	PPARδ
+#412	AnnotatorNotes T412	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T413	PR 14869 14875	PGC-1α
+#413	AnnotatorNotes T413	PR:000013059 (peroxisome proliferator-activated receptor gamma coactivator 1-alpha)
+T414	PR 14903 14908	PPARδ
+#414	AnnotatorNotes T414	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T415	EntrezGene 15023 15028	PPARδ
+#415	AnnotatorNotes T415	EG:19015
+T416	PR 15023 15028	PPARδ
+#416	AnnotatorNotes T416	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T417	GO_BP 15067 15076	signaling
+#417	AnnotatorNotes T417	GO:0007165 (signal transduction)
+T418	GO_BP 15097 15111	kinase cascade
+#418	AnnotatorNotes T418	GO:0007243 (protein kinase cascade)
+T419	GO_MF 15097 15103	kinase
+#419	AnnotatorNotes T419	GO:0016301 (kinase activity)
+T420	independent_continuant 15097 15103	kinase
+#420	AnnotatorNotes T420	independent_continuant
+T421	EntrezGene 15157 15162	PPARδ
+#421	AnnotatorNotes T421	EG:19015
+T422	PR 15157 15162	PPARδ
+#422	AnnotatorNotes T422	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T423	GO_BP 15171 15181	regulatory
+#423	AnnotatorNotes T423	GO:0065007 (biological regulation)
+T424	CHEBI 15235 15244	molecular
+#424	AnnotatorNotes T424	CHEBI:36357 (polyatomic entities)
+T425	GO_BP 15349 15357	regulate
+#425	AnnotatorNotes T425	GO:0065007 (biological regulation)
+T426	GO_BP 15369 15402	fatty-acid and glucose metabolism
+#426	AnnotatorNotes T426	"fatty-acid .. metabolism" GO:0006631 (fatty acid metabolic process)
+T427	CHEBI 15369 15379	fatty-acid
+#427	AnnotatorNotes T427	CHEBI:35366 (fatty acids)
+T428	GO_BP 15384 15402	glucose metabolism
+#428	AnnotatorNotes T428	GO:0006006 (glucose metabolic process)
+T429	CHEBI 15384 15391	glucose
+#429	AnnotatorNotes T429	CHEBI:17234 (glucose)
+T430	NCBITaxon 15417 15421	mice
+#430	AnnotatorNotes T430	NCBITaxon:10088 (Mus)
+T431	CHEBI 15500 15507	glucose
+#431	AnnotatorNotes T431	CHEBI:17234 (glucose)
+T432	EntrezGene 15604 15609	PPARδ
+#432	AnnotatorNotes T432	EG:19015
+T433	PR 15604 15609	PPARδ
+#433	AnnotatorNotes T433	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T434	EntrezGene 15645 15650	PPARδ
+#434	AnnotatorNotes T434	EG:5467
+T435	PR 15645 15650	PPARδ
+#435	AnnotatorNotes T435	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T436	GO_BP 15682 15700	glucose metabolism
+#436	AnnotatorNotes T436	GO:0006006 (glucose metabolic process)
+T437	CHEBI 15682 15689	glucose
+#437	AnnotatorNotes T437	CHEBI:17234 (glucose)
+T438	CHEBI 15761 15768	insulin
+#438	AnnotatorNotes T438	CHEBI:5931 (insulin)
+T439	PR 15761 15768	insulin
+#439	AnnotatorNotes T439	PR:000009054 (insulin)
+T440	EntrezGene 15761 15768	insulin
+#440	AnnotatorNotes T440	EG:3630
+T441	GO_CC 15864 15877	mitochondrial
+#441	AnnotatorNotes T441	GO:0005739 (mitochondrion)
+T442	EntrezGene 15940 15945	PPARδ
+#442	AnnotatorNotes T442	EG:19015
+T443	PR 15940 15945	PPARδ
+#443	AnnotatorNotes T443	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T444	GO_CC 15959 15972	mitochondrial
+#444	AnnotatorNotes T444	GO:0005739 (mitochondrion)
+T445	GO_BP 15973 15983	biogenesis
+#445	AnnotatorNotes T445	GO:0022607 (cellular component assembly)
+T446	EntrezGene 16021 16026	PPARδ
+#446	AnnotatorNotes T446	EG:5467
+T447	PR 16021 16026	PPARδ
+#447	AnnotatorNotes T447	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T448	GO_BP 16050 16057	control
+#448	AnnotatorNotes T448	GO:0065007 (biological regulation)
+T449	CHEBI 16061 16068	insulin
+#449	AnnotatorNotes T449	CHEBI:5931 (insulin)
+T450	EntrezGene 16061 16068	insulin
+#450	AnnotatorNotes T450	EG:3630
+T451	PR 16061 16068	insulin
+#451	AnnotatorNotes T451	PR:000009054 (insulin)
+T452	GO_BP 16094 16099	aging
+#452	AnnotatorNotes T452	GO:0007568 (aging)
+T453	EntrezGene 16136 16141	PPARδ
+#453	AnnotatorNotes T453	EG:19015
+T454	PR 16136 16141	PPARδ
+#454	AnnotatorNotes T454	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T455	CHEBI 16173 16182	molecular
+#455	AnnotatorNotes T455	CHEBI:36357 (polyatomic entities)
+T456	GO_BP 16193 16201	regulate
+#456	AnnotatorNotes T456	GO:0065007 (biological regulation)
+T457	GO_BP 16215 16228	specification
+#457	AnnotatorNotes T457	GO:0007389 (pattern specification process)
+T458	CHEBI 16250 16257	insulin
+#458	AnnotatorNotes T458	CHEBI:5931 (insulin)
+T459	PR 16250 16257	insulin
+#459	AnnotatorNotes T459	PR:000009054 (insulin)
+T460	EntrezGene 16250 16257	insulin
+#460	AnnotatorNotes T460	EG:16334
+T461	SO 16430 16441	genetically
+#461	AnnotatorNotes T461	SO:0000704 (gene)
+T462	NCBITaxon 16481 16488	Animals
+#462	AnnotatorNotes T462	NCBITaxon:33208 (Metazoa)
+T463	SO 16511 16517	domain
+#463	AnnotatorNotes T463	SO:0000417 (polypeptide_domain)
+T464	CHEBI 16522 16541	amino acid residues
+#464	AnnotatorNotes T464	CHEBI:33708 (amino-acid residue)
+T465	SO 16522 16541	amino acid residues
+#465	AnnotatorNotes T465	SO:0001237 (amino_acid)
+T466	CHEBI 16522 16532	amino acid
+#466	AnnotatorNotes T466	CHEBI:33709 (amino acids)
+T467	CHEBI 16522 16527	amino
+#467	AnnotatorNotes T467	CHEBI:32952 (amines)
+T468	CHEBI 16522 16527	amino
+#468	AnnotatorNotes T468	CHEBI:46882 (amino group)
+T469	CHEBI 16560 16568	residues
+#469	AnnotatorNotes T469	CHEBI:33708 (amino-acid residue)
+T470	SO 16560 16568	residues
+#470	AnnotatorNotes T470	SO:0001237 (amino_acid)
+T471	SO 16599 16604	frame
+#471	AnnotatorNotes T471	SO:0000717 (reading_frame)
+T472	SO 16614 16624	N-terminus
+#472	AnnotatorNotes T472	SO:0100014 (n_terminal_region)
+T473	CHEBI 16614 16615	N
+#473	AnnotatorNotes T473	CHEBI:46882 (amino group)
+T474	EntrezGene 16628 16639	mouse PPARδ
+#474	AnnotatorNotes T474	EG:19015
+T475	NCBITaxon 16628 16633	mouse
+#475	AnnotatorNotes T475	NCBITaxon:10088 (Mus)
+T476	PR 16634 16639	PPARδ
+#476	AnnotatorNotes T476	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T477	EntrezGene 16650 16655	PPARδ
+#477	AnnotatorNotes T477	EG:19015
+T478	PR 16650 16655	PPARδ
+#478	AnnotatorNotes T478	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T479	SO 16656 16662	fusion
+#479	AnnotatorNotes T479	SO:0000806 (fusion)
+T480	SO 16663 16667	cDNA
+#480	AnnotatorNotes T480	SO:0000756 (cDNA)
+T481	EntrezGene 16697 16719	human α-skeletal actin
+#481	AnnotatorNotes T481	EG:58
+T482	NCBITaxon 16697 16702	human
+#482	AnnotatorNotes T482	NCBITaxon:9606 (Homo sapiens)
+T483	PR 16703 16719	α-skeletal actin
+#483	AnnotatorNotes T483	PR:000003674 (actin, alpha skeletal muscle)
+T484	SO 16720 16728	promoter
+#484	AnnotatorNotes T484	SO:0000167 (promoter)
+T485	NCBITaxon 16778 16782	SV40
+#485	AnnotatorNotes T485	NCBITaxon:10633 (Simian virus 40)
+T486	SO 16783 16789	intron
+#486	AnnotatorNotes T486	SO:0000188 (intron)
+T487	SO 16790 16806	poly(A) sequence
+#487	AnnotatorNotes T487	SO:0000610 (polyA_sequence)
+T488	CHEBI 16795 16796	A
+#488	AnnotatorNotes T488	CHEBI:30756 (adenine group)
+T489	SO 16812 16821	transgene
+#489	AnnotatorNotes T489	SO:0000902 (transgene)
+T490	CL 16871 16878	zygotes
+#490	AnnotatorNotes T490	CL:0000365 (zygote)
+T491	SO 16880 16890	Transgenic
+#491	AnnotatorNotes T491	SO:0000902 (transgene)
+T492	NCBITaxon 16891 16895	mice
+#492	AnnotatorNotes T492	NCBITaxon:10088 (Mus)
+T493	SO 16948 16957	Wild-type
+#493	AnnotatorNotes T493	SO:0000817 (wild_type)
+T494	CHEBI 17024 17028	chow
+#494	AnnotatorNotes T494	CHEBI:33290 (food)
+T495	SO 17039 17049	transgenic
+#495	AnnotatorNotes T495	SO:0000902 (transgene)
+T496	NCBITaxon 17050 17054	mice
+#496	AnnotatorNotes T496	NCBITaxon:10088 (Mus)
+T497	EntrezGene 17115 17120	PPARδ
+#497	AnnotatorNotes T497	EG:19015
+T498	PR 17115 17120	PPARδ
+#498	AnnotatorNotes T498	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T499	NCBITaxon 17126 17130	mice
+#499	AnnotatorNotes T499	NCBITaxon:10088 (Mus)
+T500	GO_BP 17147 17156	generated
+#500	AnnotatorNotes T500	GO:0000003 (reproduction)
+T501	NCBITaxon 17178 17182	Mice
+#501	AnnotatorNotes T501	NCBITaxon:10088 (Mus)
+T502	GO_BP 17188 17191	fed
+#502	AnnotatorNotes T502	GO:0007631 (feeding behavior)
+T503	CHEBI 17210 17214	chow
+#503	AnnotatorNotes T503	CHEBI:33290 (food)
+T504	GO_BP 17460 17471	synthesized
+#504	AnnotatorNotes T504	GO:0009058 (biosynthetic process)
+T505	CHEBI 17485 17493	compound
+#505	AnnotatorNotes T505	CHEBI:36357 (polyatomic entities)
+T506	NCBITaxon 17498 17502	mice
+#506	AnnotatorNotes T506	NCBITaxon:10088 (Mus)
+T507	GO_BP 17559 17574	Gene expression
+#507	AnnotatorNotes T507	GO:0010467 (gene expression)
+T508	SO 17559 17563	Gene
+#508	AnnotatorNotes T508	SO:0000704 (gene)
+T509	NCBITaxon 17611 17616	Mouse
+#509	AnnotatorNotes T509	NCBITaxon:10088 (Mus)
+T510	SO 17617 17620	EST
+#510	AnnotatorNotes T510	SO:0000345 (EST)
+T511	SO 17621 17627	clones
+#511	AnnotatorNotes T511	SO:0000151 (clone)
+T512	SO 17734 17740	probes
+#512	AnnotatorNotes T512	SO:0000051 (probe)
+T513	GO_CC 17742 17752	Antibodies
+#513	AnnotatorNotes T513	GO:0019814 (immunoglobulin complex)
+T514	CHEBI 17851 17858	protein
+#514	AnnotatorNotes T514	CHEBI:36080 (proteins)
+T515	GO_CC 17890 17897	nuclear
+#515	AnnotatorNotes T515	GO:0005634 (nucleus)
+T516	CHEBI 17898 17906	proteins
+#516	AnnotatorNotes T516	CHEBI:36080 (proteins)
+T517	NCBITaxon 17999 18003	mice
+#517	AnnotatorNotes T517	NCBITaxon:10088 (Mus)
+T518	NCBITaxon 18291 18295	mice
+#518	AnnotatorNotes T518	NCBITaxon:10088 (Mus)
+T519	SO 18372 18389	mitochondrial DNA
+#519	AnnotatorNotes T519	SO:0001032 (mitochondrial_DNA)
+T520	GO_CC 18372 18385	mitochondrial
+#520	AnnotatorNotes T520	GO:0005739 (mitochondrion)
+T521	CHEBI 18467 18470	dye
+#521	AnnotatorNotes T521	CHEBI:37958 (dye)
+T522	GO_MF 18471 18477	ATPase
+#522	AnnotatorNotes T522	GO:0016887 (ATPase activity)
+T523	independent_continuant 18471 18477	ATPase
+#523	AnnotatorNotes T523	independent_continuant
+T524	GO_CC 18534 18546	mitochondria
+#524	AnnotatorNotes T524	GO:0005739 (mitochondrion)
+T525	SO 18584 18601	Mitochondrial DNA
+#525	AnnotatorNotes T525	SO:0001032 (mitochondrial_DNA)
+T526	GO_CC 18584 18597	Mitochondrial
+#526	AnnotatorNotes T526	GO:0005739 (mitochondrion)
+T527	CHEBI 18634 18641	agarose
+#527	AnnotatorNotes T527	CHEBI:2511 (agarose)
+T528	NCBITaxon 18680 18684	mice
+#528	AnnotatorNotes T528	NCBITaxon:10088 (Mus)
+T529	italic 18840 18842	p-
+#529	AnnotatorNotes T529	italic (null)
+T530	SO 18981 18991	transgenic
+#530	AnnotatorNotes T530	SO:0000902 (transgene)
+T531	NCBITaxon 18992 18996	mice
+#531	AnnotatorNotes T531	NCBITaxon:10088 (Mus)
+T532	SO 19037 19046	wild-type
+#532	AnnotatorNotes T532	SO:0000817 (wild_type)
+T533	SO 19296 19306	transgenic
+#533	AnnotatorNotes T533	SO:0000902 (transgene)
+T534	NCBITaxon 19307 19311	mice
+#534	AnnotatorNotes T534	NCBITaxon:10088 (Mus)
+T535	SO 19352 19361	wild-type
+#535	AnnotatorNotes T535	SO:0000817 (wild_type)
+T536	EntrezGene 19564 19580	α-skeletal actin
+#536	AnnotatorNotes T536	EG:58
+T537	PR 19564 19580	α-skeletal actin
+#537	AnnotatorNotes T537	PR:000003674 (actin, alpha skeletal muscle)
+T538	SO 19581 19589	promoter
+#538	AnnotatorNotes T538	SO:0000167 (promoter)
+T539	CHEBI 20110 20119	Molecular
+#539	AnnotatorNotes T539	CHEBI:36357 (polyatomic entities)
+T540	CL 20124 20132	Cellular
+#540	AnnotatorNotes T540	CL:0000000 (cell)
+T541	GO_CC 20124 20132	Cellular
+#541	AnnotatorNotes T541	GO:0005623 (cell)
+T542	GO_BP 20356 20369	Developmental
+#542	AnnotatorNotes T542	GO:0032502 (developmental process)
+T543	GO_MF 20487 20490	COX
+#543	AnnotatorNotes T543	GO:0004129 (cytochrome-c oxidase activity)
+T544	GO_CC 20487 20490	COX
+#544	AnnotatorNotes T544	GO:0045277 (respiratory chain complex IV)
+T545	independent_continuant 20487 20490	COX
+#545	AnnotatorNotes T545	independent_continuant
+T546	GO_MF 20493 20513	cytochrome c oxidase
+#546	AnnotatorNotes T546	GO:0004129 (cytochrome-c oxidase activity)
+T547	GO_CC 20493 20513	cytochrome c oxidase
+#547	AnnotatorNotes T547	GO:0045277 (respiratory chain complex IV)
+T548	independent_continuant 20493 20513	cytochrome c oxidase
+#548	AnnotatorNotes T548	independent_continuant
+T549	CHEBI 20493 20505	cytochrome c
+#549	AnnotatorNotes T549	CHEBI:18070 (cytochrome c)
+T550	EntrezGene 20515 20520	mCPT1
+#550	AnnotatorNotes T550	EG:12895
+T551	PR 20515 20520	mCPT1
+#551	AnnotatorNotes T551	PR:000005836 (carnitine O-palmitoyltransferase 1, muscle isoform)
+T552	EntrezGene 20523 20562	muscle carnitine palmitoyltransferase-1
+#552	AnnotatorNotes T552	EG:12895
+T553	PR 20523 20562	muscle carnitine palmitoyltransferase-1
+#553	AnnotatorNotes T553	PR:000005836 (carnitine O-palmitoyltransferase 1, muscle isoform)
+T554	GO_MF 20530 20560	carnitine palmitoyltransferase
+#554	AnnotatorNotes T554	GO:0004095 (carnitine O-palmitoyltransferase activity)
+T555	independent_continuant 20530 20560	carnitine palmitoyltransferase
+#555	AnnotatorNotes T555	independent_continuant
+T556	CHEBI 20530 20539	carnitine
+#556	AnnotatorNotes T556	CHEBI:17126 (carnitine)
+T557	EntrezGene 20564 20570	PGC-1α
+#557	AnnotatorNotes T557	EG:83516
+T558	PR 20564 20570	PGC-1α
+#558	AnnotatorNotes T558	PR:000013059 (peroxisome proliferator-activated receptor gamma coactivator 1-alpha)
+T559	EntrezGene 20573 20636	Peroxisome proliferator-activated receptor-gamma coactivator 1α
+#559	AnnotatorNotes T559	EG:19017
+T560	PR 20573 20636	Peroxisome proliferator-activated receptor-gamma coactivator 1α
+#560	AnnotatorNotes T560	PR:000013059 (peroxisome proliferator-activated receptor gamma coactivator 1-alpha)
+T561	PR 20573 20621	Peroxisome proliferator-activated receptor-gamma
+#561	AnnotatorNotes T561	PR:000013058 (peroxisome proliferator-activated receptor gamma)
+T562	GO_CC 20573 20583	Peroxisome
+#562	AnnotatorNotes T562	GO:0005777 (peroxisome)
+T563	GO_MF 20607 20615	receptor
+#563	AnnotatorNotes T563	GO:0004872 (receptor activity)
+T564	independent_continuant 20607 20615	receptor
+#564	AnnotatorNotes T564	independent_continuant
+T565	GO_MF 20622 20633	coactivator
+#565	AnnotatorNotes T565	GO:0003713 (transcription coactivator activity)
+T566	independent_continuant 20622 20633	coactivator
+#566	AnnotatorNotes T566	independent_continuant
+T567	GO_CC 20645 20655	peroxisome
+#567	AnnotatorNotes T567	GO:0005777 (peroxisome)
+T568	GO_MF 20679 20687	receptor
+#568	AnnotatorNotes T568	GO:0004872 (receptor activity)
+T569	independent_continuant 20679 20687	receptor
+#569	AnnotatorNotes T569	independent_continuant
+T570	CHEBI 20706 20713	protein
+#570	AnnotatorNotes T570	CHEBI:36080 (proteins)
+T571	GO_BP 20745 20755	Expression
+#571	AnnotatorNotes T571	GO:0010467 (gene expression)
+T572	EntrezGene 20770 20775	PPARδ
+#572	AnnotatorNotes T572	EG:19015
+T573	PR 20770 20775	PPARδ
+#573	AnnotatorNotes T573	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T574	EntrezGene 20785 20790	PPARδ
+#574	AnnotatorNotes T574	EG:19015
+T575	PR 20785 20790	PPARδ
+#575	AnnotatorNotes T575	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T576	SO 20791 20800	Transgene
+#576	AnnotatorNotes T576	SO:0000902 (transgene)
+T577	SO 20823 20826	RNA
+#577	AnnotatorNotes T577	SO:0000356 (RNA)
+T578	SO 20865 20874	wild-type
+#578	AnnotatorNotes T578	SO:0000817 (wild_type)
+T579	NCBITaxon 20886 20890	mice
+#579	AnnotatorNotes T579	NCBITaxon:10088 (Mus)
+T580	GO_MF 20895 20905	hybridized
+#580	AnnotatorNotes T580	GO:0000739 (DNA strand annealing activity)
+T581	GO_MF 20895 20905	hybridized
+#581	AnnotatorNotes T581	GO:0033592 (RNA strand annealing activity)
+T582	SO 20921 20927	probes
+#582	AnnotatorNotes T582	SO:0000051 (probe)
+T583	GO_CC 20996 21003	nuclear
+#583	AnnotatorNotes T583	GO:0005634 (nucleus)
+T584	CHEBI 21004 21012	proteins
+#584	AnnotatorNotes T584	CHEBI:36080 (proteins)
+T585	SO 21056 21065	wild-type
+#585	AnnotatorNotes T585	SO:0000817 (wild_type)
+T586	PR 21099 21104	PPARδ
+#586	AnnotatorNotes T586	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T587	GO_CC 21105 21113	antibody
+#587	AnnotatorNotes T587	GO:0019814 (immunoglobulin complex)
+T588	GO_CC 21115 21132	RNA polymerase II
+#588	AnnotatorNotes T588	GO:0005665 (DNA-directed RNA polymerase II, core complex)
+T589	GO_CC 21115 21132	RNA polymerase II
+#589	AnnotatorNotes T589	GO:0016591 (DNA-directed RNA polymerase II, holoenzyme)
+T590	SO 21115 21118	RNA
+#590	AnnotatorNotes T590	SO:0000356 (RNA)
+T591	GO_CC 21134 21140	Pol II
+#591	AnnotatorNotes T591	GO:0005665 (DNA-directed RNA polymerase II, core complex)
+T592	GO_CC 21134 21140	Pol II
+#592	AnnotatorNotes T592	GO:0016591 (DNA-directed RNA polymerase II, holoenzyme)
+T593	GO_BP 21178 21188	Expression
+#593	AnnotatorNotes T593	GO:0010467 (gene expression)
+T594	EntrezGene 21201 21206	PPARδ
+#594	AnnotatorNotes T594	EG:19015
+T595	PR 21201 21206	PPARδ
+#595	AnnotatorNotes T595	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T596	SO 21207 21216	transgene
+#596	AnnotatorNotes T596	SO:0000902 (transgene)
+T597	SO 21252 21255	RNA
+#597	AnnotatorNotes T597	SO:0000356 (RNA)
+T598	GO_MF 21277 21287	hybridized
+#598	AnnotatorNotes T598	GO:0000739 (DNA strand annealing activity)
+T599	GO_MF 21277 21287	hybridized
+#599	AnnotatorNotes T599	GO:0033592 (RNA strand annealing activity)
+T600	SO 21300 21304	cDNA
+#600	AnnotatorNotes T600	SO:0000756 (cDNA)
+T601	SO 21305 21310	probe
+#601	AnnotatorNotes T601	SO:0000051 (probe)
+T602	GO_CC 21353 21360	Nuclear
+#602	AnnotatorNotes T602	GO:0005634 (nucleus)
+T603	CHEBI 21361 21369	proteins
+#603	AnnotatorNotes T603	CHEBI:36080 (proteins)
+T604	SO 21425 21435	transgenic
+#604	AnnotatorNotes T604	SO:0000902 (transgene)
+T605	NCBITaxon 21436 21440	mice
+#605	AnnotatorNotes T605	NCBITaxon:10088 (Mus)
+T606	SO 21454 21463	wild-type
+#606	AnnotatorNotes T606	SO:0000817 (wild_type)
+T607	SO 21477 21479	WT
+#607	AnnotatorNotes T607	SO:0000817 (wild_type)
+T608	independent_continuant 21477 21479	WT
+#608	AnnotatorNotes T608	independent_continuant
+T609	GO_CC 21508 21518	antibodies
+#609	AnnotatorNotes T609	GO:0019814 (immunoglobulin complex)
+T610	PR 21581 21586	PPARδ
+#610	AnnotatorNotes T610	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T611	GO_CC 21587 21595	antibody
+#611	AnnotatorNotes T611	GO:0019814 (immunoglobulin complex)
+T612	SO 21674 21684	Transgenic
+#612	AnnotatorNotes T612	SO:0000902 (transgene)
+T613	NCBITaxon 21685 21689	Mice
+#613	AnnotatorNotes T613	NCBITaxon:10088 (Mus)
+T614	SO 21712 21722	transgenic
+#614	AnnotatorNotes T614	SO:0000902 (transgene)
+T615	NCBITaxon 21723 21727	mice
+#615	AnnotatorNotes T615	NCBITaxon:10088 (Mus)
+T616	SO 21729 21731	TG
+#616	AnnotatorNotes T616	SO:0000902 (transgene)
+T617	SO 21758 21767	wild-type
+#617	AnnotatorNotes T617	SO:0000817 (wild_type)
+T618	NCBITaxon 21768 21772	mice
+#618	AnnotatorNotes T618	NCBITaxon:10088 (Mus)
+T619	SO 21774 21776	WT
+#619	AnnotatorNotes T619	SO:0000817 (wild_type)
+T620	independent_continuant 21774 21776	WT
+#620	AnnotatorNotes T620	independent_continuant
+T621	EntrezGene 21902 21907	PPARδ
+#621	AnnotatorNotes T621	EG:19015
+T622	PR 21902 21907	PPARδ
+#622	AnnotatorNotes T622	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T623	SO 21916 21921	Genes
+#623	AnnotatorNotes T623	SO:0000704 (gene)
+T624	GO_BP 21952 21960	Promotes
+#624	AnnotatorNotes T624	GO:0048518 (positive regulation of biological process)
+T625	GO_CC 21961 21974	Mitochondrial
+#625	AnnotatorNotes T625	GO:0005739 (mitochondrion)
+T626	GO_BP 21975 21985	Biogenesis
+#626	AnnotatorNotes T626	GO:0022607 (cellular component assembly)
+T627	SO 21997 22000	RNA
+#627	AnnotatorNotes T627	SO:0000356 (RNA)
+T628	SO 22052 22062	transgenic
+#628	AnnotatorNotes T628	SO:0000902 (transgene)
+T629	SO 22064 22066	TG
+#629	AnnotatorNotes T629	SO:0000902 (transgene)
+T630	SO 22072 22081	wild-type
+#630	AnnotatorNotes T630	SO:0000817 (wild_type)
+T631	SO 22083 22085	WT
+#631	AnnotatorNotes T631	SO:0000817 (wild_type)
+T632	SO 22125 22131	probes
+#632	AnnotatorNotes T632	SO:0000051 (probe)
+T633	SO 22172 22176	gene
+#633	AnnotatorNotes T633	SO:0000704 (gene)
+T634	SO 22198 22209	genomic DNA
+#634	AnnotatorNotes T634	SO:0000991 (genomic_DNA)
+T635	SO 22198 22205	genomic
+#635	AnnotatorNotes T635	SO:0001026 (genome)
+T636	GO_BP 22262 22270	digested
+#636	AnnotatorNotes T636	GO:0009056 (catabolic process)
+T637	EntrezGene 22321 22326	COXII
+#637	AnnotatorNotes T637	EG:17709
+T638	PR 22321 22326	COXII
+#638	AnnotatorNotes T638	PR:000025365 (cytochrome c oxidase subunit 2)
+T639	GO_CC 22328 22341	mitochondrial
+#639	AnnotatorNotes T639	GO:0005739 (mitochondrion)
+T640	SO 22342 22348	genome
+#640	AnnotatorNotes T640	SO:0001026 (genome)
+T641	PR 22362 22367	MCIP1
+#641	AnnotatorNotes T641	PR:000013829 (calcipressin-1)
+T642	GO_CC 22369 22376	nuclear
+#642	AnnotatorNotes T642	GO:0005634 (nucleus)
+T643	SO 22377 22383	genome
+#643	AnnotatorNotes T643	SO:0001026 (genome)
+T644	SO 22393 22396	DNA
+#644	AnnotatorNotes T644	SO:0000352 (DNA)
+T645	SO 22397 22403	probes
+#645	AnnotatorNotes T645	SO:0000051 (probe)
+T646	SO 22473 22483	transgenic
+#646	AnnotatorNotes T646	SO:0000902 (transgene)
+T647	NCBITaxon 22484 22488	mice
+#647	AnnotatorNotes T647	NCBITaxon:10088 (Mus)
+T648	SO 22520 22537	mitochondrial DNA
+#648	AnnotatorNotes T648	SO:0001032 (mitochondrial_DNA)
+T649	GO_CC 22520 22533	mitochondrial
+#649	AnnotatorNotes T649	GO:0005739 (mitochondrion)
+T650	CHEBI 22571 22578	agarose
+#650	AnnotatorNotes T650	CHEBI:2511 (agarose)
+T651	SO 22610 22627	mitochondrial DNA
+#651	AnnotatorNotes T651	SO:0001032 (mitochondrial_DNA)
+T652	GO_CC 22610 22623	mitochondrial
+#652	AnnotatorNotes T652	GO:0005739 (mitochondrion)
+T653	SO 22631 22641	transgenic
+#653	AnnotatorNotes T653	SO:0000902 (transgene)
+T654	SO 22646 22655	wild-type
+#654	AnnotatorNotes T654	SO:0000817 (wild_type)
+T655	NCBITaxon 22656 22660	mice
+#655	AnnotatorNotes T655	NCBITaxon:10088 (Mus)
+T656	GO_CC 22730 22743	mitochondrial
+#656	AnnotatorNotes T656	GO:0005739 (mitochondrion)
+T657	SO 22833 22842	Wild-type
+#657	AnnotatorNotes T657	SO:0000817 (wild_type)
+T658	NCBITaxon 22849 22853	mice
+#658	AnnotatorNotes T658	NCBITaxon:10088 (Mus)
+T659	PR 22883 22888	PPARδ
+#659	AnnotatorNotes T659	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T660	CHEBI 22889 22896	agonist
+#660	AnnotatorNotes T660	CHEBI:48705 (agonist)
+T661	independent_continuant 22889 22896	agonist
+#661	AnnotatorNotes T661	independent_continuant
+T662	GO_MF 22889 22896	agonist
+#662	AnnotatorNotes T662	GO:0048018 (receptor agonist activity)
+T663	SO 22922 22925	RNA
+#663	AnnotatorNotes T663	SO:0000356 (RNA)
+T664	SO 23004 23010	probes
+#664	AnnotatorNotes T664	SO:0000051 (probe)
+T665	SO 23069 23079	Transgenic
+#665	AnnotatorNotes T665	SO:0000902 (transgene)
+T666	NCBITaxon 23080 23084	Mice
+#666	AnnotatorNotes T666	NCBITaxon:10088 (Mus)
+T667	SO 23105 23115	transgenic
+#667	AnnotatorNotes T667	SO:0000902 (transgene)
+T668	SO 23117 23119	TG
+#668	AnnotatorNotes T668	SO:0000902 (transgene)
+T669	SO 23125 23134	wild-type
+#669	AnnotatorNotes T669	SO:0000817 (wild_type)
+T670	SO 23136 23138	WT
+#670	AnnotatorNotes T670	SO:0000817 (wild_type)
+T671	italic 23153 23154	n
+#671	AnnotatorNotes T671	italic (null)
+T672	GO_BP 23182 23185	fed
+#672	AnnotatorNotes T672	GO:0007631 (feeding behavior)
+T673	NCBITaxon 23292 23296	mice
+#673	AnnotatorNotes T673	NCBITaxon:10088 (Mus)
+T674	GO_BP 23394 23401	feeding
+#674	AnnotatorNotes T674	GO:0007631 (feeding behavior)
+T675	SO 23445 23455	transgenic
+#675	AnnotatorNotes T675	SO:0000902 (transgene)
+T676	SO 23460 23469	wild-type
+#676	AnnotatorNotes T676	SO:0000817 (wild_type)
+T677	CHEBI 23539 23547	glycogen
+#677	AnnotatorNotes T677	CHEBI:28087 (glycogen)
+T678	CHEBI 23564 23576	triglyceride
+#678	AnnotatorNotes T678	CHEBI:17855 (triglycerides)
+T679	NCBITaxon 23592 23596	mice
+#679	AnnotatorNotes T679	NCBITaxon:10088 (Mus)
+T680	GO_BP 23619 23626	feeding
+#680	AnnotatorNotes T680	GO:0007631 (feeding behavior)
+T681	italic 23628 23629	n
+#681	AnnotatorNotes T681	italic (null)
+T682	CHEBI 23641 23648	Glucose
+#682	AnnotatorNotes T682	CHEBI:17234 (glucose)
+T683	NCBITaxon 23665 23669	Mice
+#683	AnnotatorNotes T683	NCBITaxon:10088 (Mus)
+T684	GO_BP 23692 23699	feeding
+#684	AnnotatorNotes T684	GO:0007631 (feeding behavior)
+T685	CHEBI 23743 23750	glucose
+#685	AnnotatorNotes T685	CHEBI:17234 (glucose)
+T686	CHEBI 23803 23810	glucose
+#686	AnnotatorNotes T686	CHEBI:17234 (glucose)
+T687	italic 23855 23856	n
+#687	AnnotatorNotes T687	italic (null)
+T688	PR 23874 23879	PPARδ
+#688	AnnotatorNotes T688	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T689	CHEBI 23880 23888	Agonists
+#689	AnnotatorNotes T689	CHEBI:48705 (agonist)
+T690	GO_MF 23880 23888	Agonists
+#690	AnnotatorNotes T690	GO:0048018 (receptor agonist activity)
+T691	independent_continuant 23880 23888	Agonists
+#691	AnnotatorNotes T691	independent_continuant
+T692	SO 23954 23963	wild-type
+#692	AnnotatorNotes T692	SO:0000817 (wild_type)
+T693	NCBITaxon 23970 23974	mice
+#693	AnnotatorNotes T693	NCBITaxon:10088 (Mus)
+T694	GO_BP 23980 23983	fed
+#694	AnnotatorNotes T694	GO:0007631 (feeding behavior)
+T695	SO 24056 24059	RNA
+#695	AnnotatorNotes T695	SO:0000356 (RNA)
+T696	SO 24138 24144	probes
+#696	AnnotatorNotes T696	SO:0000051 (probe)
+T697	NCBITaxon 24176 24180	mice
+#697	AnnotatorNotes T697	NCBITaxon:10088 (Mus)
+T698	NCBITaxon 24234 24238	mice
+#698	AnnotatorNotes T698	NCBITaxon:10088 (Mus)
+T699	italic 24313 24314	n
+#699	AnnotatorNotes T699	italic (null)
+T700	italic 24359 24360	n
+#700	AnnotatorNotes T700	italic (null)
+T701	NCBITaxon 24399 24403	mice
+#701	AnnotatorNotes T701	NCBITaxon:10088 (Mus)
+T702	GO_BP 24455 24467	reproductive
+#702	AnnotatorNotes T702	GO:0000003 (reproduction)
+T703	CHEBI 24509 24516	Glucose
+#703	AnnotatorNotes T703	CHEBI:17234 (glucose)
+T704	NCBITaxon 24533 24537	Mice
+#704	AnnotatorNotes T704	NCBITaxon:10088 (Mus)
+T705	CHEBI 24604 24611	glucose
+#705	AnnotatorNotes T705	CHEBI:17234 (glucose)
+T706	CHEBI 24659 24666	glucose
+#706	AnnotatorNotes T706	CHEBI:17234 (glucose)
+T707	EntrezGene 24727 24732	PPARδ
+#707	AnnotatorNotes T707	EG:19015
+T708	PR 24727 24732	PPARδ
+#708	AnnotatorNotes T708	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T709	GO_BP 24733 24742	Regulates
+#709	AnnotatorNotes T709	GO:0065007 (biological regulation)
+T710	GO_BP 24767 24775	Enhanced
+#710	AnnotatorNotes T710	GO:0048518 (positive regulation of biological process)
+T711	SO 24804 24814	transgenic
+#711	AnnotatorNotes T711	SO:0000902 (transgene)
+T712	NCBITaxon 24815 24819	mice
+#712	AnnotatorNotes T712	NCBITaxon:10088 (Mus)
+T713	SO 24844 24854	transgenic
+#713	AnnotatorNotes T713	SO:0000902 (transgene)
+T714	SO 24859 24868	wild-type
+#714	AnnotatorNotes T714	SO:0000817 (wild_type)
+T715	italic 24908 24909	n
+#715	AnnotatorNotes T715	italic (null)
+T716	EntrezGene 25023 25028	PPARδ
+#716	AnnotatorNotes T716	EG:19015
+T717	PR 25023 25028	PPARδ
+#717	AnnotatorNotes T717	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T718	NCBITaxon 25034 25038	mice
+#718	AnnotatorNotes T718	NCBITaxon:10088 (Mus)
+T719	EntrezGene 25059 25064	PPARδ
+#719	AnnotatorNotes T719	EG:19015
+T720	PR 25059 25064	PPARδ
+#720	AnnotatorNotes T720	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T721	NCBITaxon 25070 25074	mice
+#721	AnnotatorNotes T721	NCBITaxon:10088 (Mus)
+T722	SO 25079 25088	wild-type
+#722	AnnotatorNotes T722	SO:0000817 (wild_type)
+T723	italic 25125 25126	n
+#723	AnnotatorNotes T723	italic (null)
+T724	EntrezGene 25217 25222	PPARδ
+#724	AnnotatorNotes T724	EG:19015
+T725	PR 25217 25222	PPARδ
+#725	AnnotatorNotes T725	PR:000013057 (peroxisome proliferator-activated receptor delta)
+T726	bold 25255 25277	Conflicts of interest.
+#726	AnnotatorNotes T726	bold (null)
+T727	bold 25342 25363	Author contributions.
+#727	AnnotatorNotes T727	bold (null)
+T728	CHEBI 25537 25545	reagents
+#728	AnnotatorNotes T728	CHEBI:33893 (reagent)
+T729	GO_BP 25730 25740	Regulation
+#729	AnnotatorNotes T729	GO:0065007 (biological regulation)
+T730	EntrezGene 25787 25792	PPARδ
+#730	AnnotatorNotes T730	EG:19015
+T731	PR 25787 25792	PPARδ
+#731	AnnotatorNotes T731	PR:000013057 (peroxisome proliferator-activated receptor delta)

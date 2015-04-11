@@ -1,0 +1,3546 @@
+T1	CHEBI 13 21	proteins
+#1	AnnotatorNotes T1	CHEBI:36080 (proteins)
+T2	EntrezGene 41 45	PAX6
+#2	AnnotatorNotes T2	EG:5080
+T3	PR 41 45	PAX6
+#3	AnnotatorNotes T3	PR:000012318 (paired box protein Pax-6)
+T4	SO 47 57	C-terminal
+#4	AnnotatorNotes T4	SO:0100015 (c_terminal_region)
+T5	CHEBI 47 48	C
+#5	AnnotatorNotes T5	CHEBI:18245 (carboxylato group)
+T6	CHEBI 47 48	C
+#6	AnnotatorNotes T6	CHEBI:46883 (carboxy group)
+T7	SO 58 67	mutations
+#7	AnnotatorNotes T7	SO:0001059 (sequence_alteration)
+T8	EntrezGene 93 99	HOMER3
+#8	AnnotatorNotes T8	EG:26558
+T9	PR 93 99	HOMER3
+#9	AnnotatorNotes T9	PR:000008680 (homer protein 3)
+T10	EntrezGene 101 106	DNCL1
+#10	AnnotatorNotes T10	EG:56455
+T11	PR 101 106	DNCL1
+#11	AnnotatorNotes T11	PR:000002325 (dynein light chain 1, cytoplasmic)
+T12	EntrezGene 111 117	TRIM11
+#12	AnnotatorNotes T12	EG:94091
+T13	PR 111 117	TRIM11
+#13	AnnotatorNotes T13	PR:000016642 (tripartite motif-containing protein 11)
+T14	EntrezGene 145 149	PAX6
+#14	AnnotatorNotes T14	EG:5080
+T15	PR 145 149	PAX6
+#15	AnnotatorNotes T15	PR:000012318 (paired box protein Pax-6)
+T16	CHEBI 150 157	protein
+#16	AnnotatorNotes T16	CHEBI:36080 (proteins)
+T17	GO_MF 163 188	transcriptional regulator
+#17	AnnotatorNotes T17	GO:0030528 (transcription regulator activity)
+T18	independent_continuant 163 188	transcriptional regulator
+#18	AnnotatorNotes T18	independent_continuant
+T19	GO_BP 163 178	transcriptional
+#19	AnnotatorNotes T19	GO:0006350 (transcription)
+T20	GO_BP 208 243	ocular and neurological development
+#20	AnnotatorNotes T20	"ocular .. development" GO:0001654 (eye development)
+T21	GO_BP 219 243	neurological development
+#21	AnnotatorNotes T21	GO:0007399 (nervous system development)
+T22	NCBITaxon 245 256	Individuals
+#22	AnnotatorNotes T22	NCBITaxon:1 (root)
+T23	SO 292 301	mutations
+#23	AnnotatorNotes T23	SO:0001059 (sequence_alteration)
+T24	italic 309 313	PAX6
+#24	AnnotatorNotes T24	italic (null)
+T25	PR 309 313	PAX6
+#25	AnnotatorNotes T25	PR:000012318 (paired box protein Pax-6)
+T26	EntrezGene 309 313	PAX6
+#26	AnnotatorNotes T26	EG:5080
+T27	SO 314 318	gene
+#27	AnnotatorNotes T27	SO:0000704 (gene)
+T28	EntrezGene 402 406	PAX6
+#28	AnnotatorNotes T28	EG:5080
+T29	PR 402 406	PAX6
+#29	AnnotatorNotes T29	PR:000012318 (paired box protein Pax-6)
+T30	CHEBI 418 426	proteins
+#30	AnnotatorNotes T30	CHEBI:36080 (proteins)
+T31	CHEBI 470 478	proteins
+#31	AnnotatorNotes T31	CHEBI:36080 (proteins)
+T32	EntrezGene 498 502	PAX6
+#32	AnnotatorNotes T32	EG:5080
+T33	PR 498 502	PAX6
+#33	AnnotatorNotes T33	PR:000012318 (paired box protein Pax-6)
+T34	SO 573 582	conserved
+#34	AnnotatorNotes T34	SO:0000856 (conserved)
+T35	SO 583 590	peptide
+#35	AnnotatorNotes T35	SO:0001407 (peptidyl)
+T36	SO 598 608	C-terminus
+#36	AnnotatorNotes T36	SO:0100015 (c_terminal_region)
+T37	CHEBI 598 599	C
+#37	AnnotatorNotes T37	CHEBI:46883 (carboxy group)
+T38	CHEBI 598 599	C
+#38	AnnotatorNotes T38	CHEBI:18245 (carboxylato group)
+T39	EntrezGene 616 620	PAX6
+#39	AnnotatorNotes T39	EG:5080
+T40	PR 616 620	PAX6
+#40	AnnotatorNotes T40	PR:000012318 (paired box protein Pax-6)
+T41	CHEBI 621 628	protein
+#41	AnnotatorNotes T41	CHEBI:36080 (proteins)
+T42	NCBITaxon 630 635	Yeast
+#42	AnnotatorNotes T42	NCBITaxon:4892 (Saccharomycetales)
+T43	GO_BP 703 712	expressed
+#43	AnnotatorNotes T43	GO:0010467 (gene expression)
+T44	CHEBI 713 721	proteins
+#44	AnnotatorNotes T44	CHEBI:36080 (proteins)
+T45	SO 745 755	C-terminal
+#45	AnnotatorNotes T45	SO:0100015 (c_terminal_region)
+T46	CHEBI 745 746	C
+#46	AnnotatorNotes T46	CHEBI:18245 (carboxylato group)
+T47	CHEBI 745 746	C
+#47	AnnotatorNotes T47	CHEBI:46883 (carboxy group)
+T48	SO 756 763	peptide
+#48	AnnotatorNotes T48	SO:0001407 (peptidyl)
+T49	EntrezGene 784 788	PAX6
+#49	AnnotatorNotes T49	EG:5080
+T50	PR 784 788	PAX6
+#50	AnnotatorNotes T50	PR:000012318 (paired box protein Pax-6)
+T51	CHEBI 789 796	proline
+#51	AnnotatorNotes T51	CHEBI:32874 (proline residue)
+T52	SO 789 796	proline
+#52	AnnotatorNotes T52	SO:0001439 (proline)
+T53	CHEBI 797 803	serine
+#53	AnnotatorNotes T53	CHEBI:32848 (serine residue)
+T54	SO 797 803	serine
+#54	AnnotatorNotes T54	SO:0001444 (serine)
+T55	CHEBI 804 813	threonine
+#55	AnnotatorNotes T55	CHEBI:32835 (threonine residue)
+T56	SO 804 813	threonine
+#56	AnnotatorNotes T56	SO:0001445 (threonine)
+T57	SO 819 825	domain
+#57	AnnotatorNotes T57	SO:0000417 (polypeptide_domain)
+T58	EntrezGene 839 843	PAX6
+#58	AnnotatorNotes T58	EG:5080
+T59	PR 839 843	PAX6
+#59	AnnotatorNotes T59	PR:000012318 (paired box protein Pax-6)
+T60	CHEBI 856 864	proteins
+#60	AnnotatorNotes T60	CHEBI:36080 (proteins)
+T61	GO_CC 886 907	post-synaptic density
+#61	AnnotatorNotes T61	GO:0014069 (postsynaptic density)
+T62	GO_CC 891 899	synaptic
+#62	AnnotatorNotes T62	GO:0045202 (synapse)
+T63	GO_CC 909 912	PSD
+#63	AnnotatorNotes T63	GO:0014069 (postsynaptic density)
+T64	CHEBI 914 921	protein
+#64	AnnotatorNotes T64	CHEBI:36080 (proteins)
+T65	EntrezGene 922 928	HOMER3
+#65	AnnotatorNotes T65	EG:26558
+T66	PR 922 928	HOMER3
+#66	AnnotatorNotes T66	PR:000008680 (homer protein 3)
+T67	GO_CC 934 940	dynein
+#67	AnnotatorNotes T67	GO:0030286 (dynein complex)
+T68	EntrezGene 949 954	DNCL1
+#68	AnnotatorNotes T68	EG:56455
+T69	PR 949 954	DNCL1
+#69	AnnotatorNotes T69	PR:000002325 (dynein light chain 1, cytoplasmic)
+T70	CHEBI 981 988	protein
+#70	AnnotatorNotes T70	CHEBI:36080 (proteins)
+T71	EntrezGene 989 995	TRIM11
+#71	AnnotatorNotes T71	EG:94091
+T72	PR 989 995	TRIM11
+#72	AnnotatorNotes T72	PR:000016642 (tripartite motif-containing protein 11)
+T73	SO 1003 1013	C-terminal
+#73	AnnotatorNotes T73	SO:0100015 (c_terminal_region)
+T74	CHEBI 1003 1004	C
+#74	AnnotatorNotes T74	CHEBI:46883 (carboxy group)
+T75	CHEBI 1003 1004	C
+#75	AnnotatorNotes T75	CHEBI:18245 (carboxylato group)
+T76	italic 1014 1018	PAX6
+#76	AnnotatorNotes T76	italic (null)
+T77	PR 1014 1018	PAX6
+#77	AnnotatorNotes T77	PR:000012318 (paired box protein Pax-6)
+T78	EntrezGene 1014 1018	PAX6
+#78	AnnotatorNotes T78	EG:5080
+T79	SO 1019 1028	mutations
+#79	AnnotatorNotes T79	SO:0001059 (sequence_alteration)
+T80	EntrezGene 1178 1182	PAX6
+#80	AnnotatorNotes T80	EG:5080
+T81	PR 1178 1182	PAX6
+#81	AnnotatorNotes T81	PR:000012318 (paired box protein Pax-6)
+T82	EntrezGene 1198 1204	HOMER3
+#82	AnnotatorNotes T82	EG:26558
+T83	PR 1198 1204	HOMER3
+#83	AnnotatorNotes T83	PR:000008680 (homer protein 3)
+T84	EntrezGene 1206 1211	DNCL1
+#84	AnnotatorNotes T84	EG:56455
+T85	PR 1206 1211	DNCL1
+#85	AnnotatorNotes T85	PR:000002325 (dynein light chain 1, cytoplasmic)
+T86	EntrezGene 1216 1222	TRIM11
+#86	AnnotatorNotes T86	EG:94091
+T87	PR 1216 1222	TRIM11
+#87	AnnotatorNotes T87	PR:000016642 (tripartite motif-containing protein 11)
+T88	EntrezGene 1259 1263	PAX6
+#88	AnnotatorNotes T88	EG:5080
+T89	PR 1259 1263	PAX6
+#89	AnnotatorNotes T89	PR:000012318 (paired box protein Pax-6)
+T90	EntrezGene 1269 1275	HOMER3
+#90	AnnotatorNotes T90	EG:9454
+T91	PR 1269 1275	HOMER3
+#91	AnnotatorNotes T91	PR:000008680 (homer protein 3)
+T92	EntrezGene 1280 1285	DNCL1
+#92	AnnotatorNotes T92	EG:8655
+T93	PR 1280 1285	DNCL1
+#93	AnnotatorNotes T93	PR:000002325 (dynein light chain 1, cytoplasmic)
+T94	GO_BP 1310 1329	synaptic activation
+#94	AnnotatorNotes T94	GO:0007268 (synaptic transmission)
+T95	GO_CC 1310 1318	synaptic
+#95	AnnotatorNotes T95	GO:0045202 (synapse)
+T96	CL 1355 1363	neuronal
+#96	AnnotatorNotes T96	CL:0000540 (neuron)
+T97	GO_BP 1364 1388	transcriptional activity
+#97	AnnotatorNotes T97	GO:0006350 (transcription)
+T98	italic 1445 1449	PAX6
+#98	AnnotatorNotes T98	italic (null)
+T99	PR 1445 1449	PAX6
+#99	AnnotatorNotes T99	PR:000012318 (paired box protein Pax-6)
+T100	EntrezGene 1445 1449	PAX6
+#100	AnnotatorNotes T100	EG:5080
+T101	SO 1450 1459	mutations
+#101	AnnotatorNotes T101	SO:0001059 (sequence_alteration)
+T102	CHEBI 1491 1498	protein
+#102	AnnotatorNotes T102	CHEBI:36080 (proteins)
+T103	CHEBI 1499 1506	protein
+#103	AnnotatorNotes T103	CHEBI:36080 (proteins)
+T104	PR 1538 1542	PAX6
+#104	AnnotatorNotes T104	PR:000012318 (paired box protein Pax-6)
+T105	CHEBI 1543 1550	protein
+#105	AnnotatorNotes T105	CHEBI:36080 (proteins)
+T106	underline 1575 1577	pa
+#106	AnnotatorNotes T106	underline (null)
+T107	underline 1584 1585	x
+#107	AnnotatorNotes T107	underline (null)
+T108	GO_MF 1597 1623	transcriptional regulators
+#108	AnnotatorNotes T108	GO:0030528 (transcription regulator activity)
+T109	independent_continuant 1597 1623	transcriptional regulators
+#109	AnnotatorNotes T109	independent_continuant
+T110	GO_BP 1597 1612	transcriptional
+#110	AnnotatorNotes T110	GO:0006350 (transcription)
+T111	GO_BP 1652 1681	ocular and neural development
+#111	AnnotatorNotes T111	"ocular .. development" GO:0001654 (eye development)
+T112	GO_BP 1663 1681	neural development
+#112	AnnotatorNotes T112	GO:0007399 (nervous system development)
+T113	SO 1700 1709	mutations
+#113	AnnotatorNotes T113	SO:0001059 (sequence_alteration)
+T114	EntrezGene 1717 1727	human PAX6
+#114	AnnotatorNotes T114	EG:5080
+T115	NCBITaxon 1717 1722	human
+#115	AnnotatorNotes T115	NCBITaxon:9606 (Homo sapiens)
+T116	italic 1723 1727	PAX6
+#116	AnnotatorNotes T116	italic (null)
+T117	PR 1723 1727	PAX6
+#117	AnnotatorNotes T117	PR:000012318 (paired box protein Pax-6)
+T118	SO 1728 1732	gene
+#118	AnnotatorNotes T118	SO:0000704 (gene)
+T119	italic 1907 1911	PAX6
+#119	AnnotatorNotes T119	italic (null)
+T120	EntrezGene 1907 1911	PAX6
+#120	AnnotatorNotes T120	EG:5080
+T121	PR 1907 1911	PAX6
+#121	AnnotatorNotes T121	PR:000012318 (paired box protein Pax-6)
+T122	SO 1953 1962	mutations
+#122	AnnotatorNotes T122	SO:0001059 (sequence_alteration)
+T123	NCBITaxon 1966 1969	man
+#123	AnnotatorNotes T123	NCBITaxon:9606 (Homo sapiens)
+T124	NCBITaxon 1974 1979	mouse
+#124	AnnotatorNotes T124	NCBITaxon:10088 (Mus)
+T125	GO_BP 1984 1990	lethal
+#125	AnnotatorNotes T125	GO:0016265 (death)
+T126	GO_BP 2012 2025	developmental
+#126	AnnotatorNotes T126	GO:0032502 (developmental process)
+T127	GO_BP 2088 2097	olfactory
+#127	AnnotatorNotes T127	GO:0007608 (sensory perception of smell)
+T128	EntrezGene 2159 2163	PAX6
+#128	AnnotatorNotes T128	EG:25509
+T129	PR 2159 2163	PAX6
+#129	AnnotatorNotes T129	PR:000012318 (paired box protein Pax-6)
+T130	GO_BP 2167 2184	brain development
+#130	AnnotatorNotes T130	GO:0007420 (brain development)
+T131	SO 2224 2230	mutant
+#131	AnnotatorNotes T131	SO:0001059 (sequence_alteration)
+T132	NCBITaxon 2231 2235	mice
+#132	AnnotatorNotes T132	NCBITaxon:10088 (Mus)
+T133	NCBITaxon 2239 2243	rats
+#133	AnnotatorNotes T133	NCBITaxon:10114 (Rattus)
+T134	GO_BP 2297 2351	formation of the prosencephalon-mesencephalon boundary
+#134	AnnotatorNotes T134	"formation of .. prosencephalon-mesencephalon boundary" GO:0021905 (forebrain-midbrain boundary formation)
+T135	GO_BP 2357 2370	axon guidance
+#135	AnnotatorNotes T135	GO:0007411 (axon guidance)
+T136	GO_CC 2357 2361	axon
+#136	AnnotatorNotes T136	GO:0030424 (axon)
+T137	GO_BP 2376 2402	differentiation of neurons
+#137	AnnotatorNotes T137	GO:0030182 (neuron differentiation)
+T138	CL 2395 2402	neurons
+#138	AnnotatorNotes T138	CL:0000540 (neuron)
+T139	CL 2408 2412	glia
+#139	AnnotatorNotes T139	CL:0000125 (glial cell)
+T140	GO_BP 2421 2439	neuronal migration
+#140	AnnotatorNotes T140	GO:0001764 (neuron migration)
+T141	CL 2421 2429	neuronal
+#141	AnnotatorNotes T141	CL:0000540 (neuron)
+T142	EntrezGene 2513 2517	PAX6
+#142	AnnotatorNotes T142	EG:18508
+T143	PR 2513 2517	PAX6
+#143	AnnotatorNotes T143	PR:000012318 (paired box protein Pax-6)
+T144	GO_BP 2521 2538	brain development
+#144	AnnotatorNotes T144	GO:0007420 (brain development)
+T145	GO_BP 2993 3001	auditory
+#145	AnnotatorNotes T145	GO:0007605 (sensory perception of sound)
+T146	SO 3034 3041	feature
+#146	AnnotatorNotes T146	SO:0000110 (sequence_feature)
+T147	CHEBI 3053 3061	proteins
+#147	AnnotatorNotes T147	CHEBI:36080 (proteins)
+T148	CHEBI 3087 3097	amino acid
+#148	AnnotatorNotes T148	CHEBI:33708 (amino-acid residue)
+T149	SO 3087 3097	amino acid
+#149	AnnotatorNotes T149	SO:0001237 (amino_acid)
+T150	CHEBI 3087 3092	amino
+#150	AnnotatorNotes T150	CHEBI:32952 (amines)
+T151	CHEBI 3087 3092	amino
+#151	AnnotatorNotes T151	CHEBI:46882 (amino group)
+T152	CHEBI 3093 3097	acid
+#152	AnnotatorNotes T152	CHEBI:37527 (acid)
+T153	GO_MF 3098 3109	DNA-binding
+#153	AnnotatorNotes T153	GO:0003677 (DNA binding)
+T154	SO 3098 3101	DNA
+#154	AnnotatorNotes T154	SO:0000352 (DNA)
+T155	SO 3117 3123	domain
+#155	AnnotatorNotes T155	SO:0000417 (polypeptide_domain)
+T156	SO 3145 3154	conserved
+#156	AnnotatorNotes T156	SO:0000856 (conserved)
+T157	SO 3201 3207	domain
+#157	AnnotatorNotes T157	SO:0000417 (polypeptide_domain)
+T158	PR 3209 3213	PAX6
+#158	AnnotatorNotes T158	PR:000012318 (paired box protein Pax-6)
+T159	GO_MF 3230 3241	DNA-binding
+#159	AnnotatorNotes T159	GO:0003677 (DNA binding)
+T160	SO 3230 3233	DNA
+#160	AnnotatorNotes T160	SO:0000352 (DNA)
+T161	CHEBI 3260 3267	proline
+#161	AnnotatorNotes T161	CHEBI:32874 (proline residue)
+T162	SO 3260 3267	proline
+#162	AnnotatorNotes T162	SO:0001439 (proline)
+T163	CHEBI 3269 3275	serine
+#163	AnnotatorNotes T163	CHEBI:32848 (serine residue)
+T164	SO 3269 3275	serine
+#164	AnnotatorNotes T164	SO:0001444 (serine)
+T165	CHEBI 3280 3289	threonine
+#165	AnnotatorNotes T165	CHEBI:32835 (threonine residue)
+T166	SO 3280 3289	threonine
+#166	AnnotatorNotes T166	SO:0001445 (threonine)
+T167	SO 3301 3307	domain
+#167	AnnotatorNotes T167	SO:0000417 (polypeptide_domain)
+T168	SO 3315 3325	C-terminus
+#168	AnnotatorNotes T168	SO:0100015 (c_terminal_region)
+T169	CHEBI 3315 3316	C
+#169	AnnotatorNotes T169	CHEBI:46883 (carboxy group)
+T170	CHEBI 3315 3316	C
+#170	AnnotatorNotes T170	CHEBI:18245 (carboxylato group)
+T171	SO 3341 3347	domain
+#171	AnnotatorNotes T171	SO:0000417 (polypeptide_domain)
+T172	SO 3371 3381	C-terminal
+#172	AnnotatorNotes T172	SO:0100015 (c_terminal_region)
+T173	CHEBI 3371 3372	C
+#173	AnnotatorNotes T173	CHEBI:18245 (carboxylato group)
+T174	CHEBI 3371 3372	C
+#174	AnnotatorNotes T174	CHEBI:46883 (carboxy group)
+T175	CHEBI 3386 3397	amino acids
+#175	AnnotatorNotes T175	CHEBI:33708 (amino-acid residue)
+T176	SO 3386 3397	amino acids
+#176	AnnotatorNotes T176	SO:0001237 (amino_acid)
+T177	CHEBI 3386 3391	amino
+#177	AnnotatorNotes T177	CHEBI:32952 (amines)
+T178	CHEBI 3386 3391	amino
+#178	AnnotatorNotes T178	CHEBI:46882 (amino group)
+T179	CHEBI 3392 3397	acids
+#179	AnnotatorNotes T179	CHEBI:37527 (acid)
+T180	PR 3401 3405	PAX6
+#180	AnnotatorNotes T180	PR:000012318 (paired box protein Pax-6)
+T181	GO_MF 3434 3459	transcriptional activator
+#181	AnnotatorNotes T181	GO:0016563 (transcription activator activity)
+T182	independent_continuant 3434 3459	transcriptional activator
+#182	AnnotatorNotes T182	independent_continuant
+T183	GO_BP 3434 3449	transcriptional
+#183	AnnotatorNotes T183	GO:0006350 (transcription)
+T184	PR 3469 3473	PAX6
+#184	AnnotatorNotes T184	PR:000012318 (paired box protein Pax-6)
+T185	CHEBI 3474 3481	protein
+#185	AnnotatorNotes T185	CHEBI:36080 (proteins)
+T186	GO_BP 3491 3500	regulates
+#186	AnnotatorNotes T186	GO:0065007 (biological regulation)
+T187	SO 3524 3529	genes
+#187	AnnotatorNotes T187	SO:0000704 (gene)
+T188	italic 3546 3550	Pax2
+#188	AnnotatorNotes T188	italic (null)
+T189	PR 3546 3550	Pax2
+#189	AnnotatorNotes T189	PR:000012315 (paired box protein Pax-2)
+T190	italic 3557 3561	Ngn2
+#190	AnnotatorNotes T190	italic (null)
+T191	PR 3557 3561	Ngn2
+#191	AnnotatorNotes T191	PR:000011157 (neurogenin-2)
+T192	italic 3571 3579	glucagon
+#192	AnnotatorNotes T192	italic (null)
+T193	PR 3571 3579	glucagon
+#193	AnnotatorNotes T193	PR:000007891 (glucagon)
+T194	italic 3591 3595	Pax6
+#194	AnnotatorNotes T194	italic (null)
+T195	PR 3591 3595	Pax6
+#195	AnnotatorNotes T195	PR:000012318 (paired box protein Pax-6)
+T196	SO 3596 3600	gene
+#196	AnnotatorNotes T196	SO:0000704 (gene)
+T197	GO_BP 3640 3650	expression
+#197	AnnotatorNotes T197	GO:0010467 (gene expression)
+T198	PR 3735 3739	PAX6
+#198	AnnotatorNotes T198	PR:000012318 (paired box protein Pax-6)
+T199	GO_BP 3772 3795	developmental processes
+#199	AnnotatorNotes T199	GO:0032502 (developmental process)
+T200	PR 3851 3855	PAX6
+#200	AnnotatorNotes T200	PR:000012318 (paired box protein Pax-6)
+T201	italic 3888 3892	Pax6
+#201	AnnotatorNotes T201	italic (null)
+T202	PR 3888 3892	Pax6
+#202	AnnotatorNotes T202	PR:000012318 (paired box protein Pax-6)
+T203	GO_BP 3893 3903	expression
+#203	AnnotatorNotes T203	GO:0010467 (gene expression)
+T204	PR 4003 4007	PAX6
+#204	AnnotatorNotes T204	PR:000012318 (paired box protein Pax-6)
+T205	GO_BP 4024 4066	development of specific axonal connections
+#205	AnnotatorNotes T205	"development of .. axonal connections" GO:0007409 (axonogenesis)
+T206	GO_CC 4048 4054	axonal
+#206	AnnotatorNotes T206	GO:0030424 (axon)
+T207	GO_BP 4165 4180	differentiation
+#207	AnnotatorNotes T207	GO:0030154 (cell differentiation)
+T208	CL 4191 4195	cell
+#208	AnnotatorNotes T208	CL:0000000 (cell)
+T209	GO_CC 4191 4195	cell
+#209	AnnotatorNotes T209	GO:0005623 (cell)
+T210	SO 4304 4309	genes
+#210	AnnotatorNotes T210	SO:0000704 (gene)
+T211	italic 4318 4322	Ngn2
+#211	AnnotatorNotes T211	italic (null)
+T212	PR 4318 4322	Ngn2
+#212	AnnotatorNotes T212	PR:000011157 (neurogenin-2)
+T213	italic 4327 4332	Mash1
+#213	AnnotatorNotes T213	italic (null)
+T214	PR 4327 4332	Mash1
+#214	AnnotatorNotes T214	PR:000004362 (achaete-scute 1)
+T215	PR 4377 4381	PAX6
+#215	AnnotatorNotes T215	PR:000012318 (paired box protein Pax-6)
+T216	NCBITaxon 4486 4497	individuals
+#216	AnnotatorNotes T216	NCBITaxon:1 (root)
+T217	italic 4503 4507	PAX6
+#217	AnnotatorNotes T217	italic (null)
+T218	EntrezGene 4503 4507	PAX6
+#218	AnnotatorNotes T218	EG:5080
+T219	PR 4503 4507	PAX6
+#219	AnnotatorNotes T219	PR:000012318 (paired box protein Pax-6)
+T220	SO 4508 4517	mutations
+#220	AnnotatorNotes T220	SO:0001059 (sequence_alteration)
+T221	GO_MF 4549 4570	transcription factors
+#221	AnnotatorNotes T221	GO:0003700 (transcription factor activity)
+T222	independent_continuant 4549 4570	transcription factors
+#222	AnnotatorNotes T222	independent_continuant
+T223	GO_BP 4549 4562	transcription
+#223	AnnotatorNotes T223	GO:0006350 (transcription)
+T224	CHEBI 4640 4648	proteins
+#224	AnnotatorNotes T224	CHEBI:36080 (proteins)
+T225	GO_BP 4741 4751	regulatory
+#225	AnnotatorNotes T225	GO:0065007 (biological regulation)
+T226	independent_continuant 4772 4792	transcription factor
+#226	AnnotatorNotes T226	independent_continuant
+T227	GO_MF 4772 4792	transcription factor
+#227	AnnotatorNotes T227	GO:0003700 (transcription factor activity)
+T228	GO_BP 4772 4785	transcription
+#228	AnnotatorNotes T228	GO:0006350 (transcription)
+T229	PR 4813 4817	PAX6
+#229	AnnotatorNotes T229	PR:000012318 (paired box protein Pax-6)
+T230	CHEBI 4818 4825	protein
+#230	AnnotatorNotes T230	CHEBI:36080 (proteins)
+T231	CHEBI 4826 4833	protein
+#231	AnnotatorNotes T231	CHEBI:36080 (proteins)
+T232	PR 4873 4877	SOX2
+#232	AnnotatorNotes T232	PR:000015426 (transcription factor SOX-2)
+T233	SO 4899 4915	enhancer element
+#233	AnnotatorNotes T233	SO:0000165 (enhancer)
+T234	italic 4925 4935	crystallin
+#234	AnnotatorNotes T234	italic (null)
+T235	SO 4936 4940	gene
+#235	AnnotatorNotes T235	SO:0000704 (gene)
+T236	GO_BP 4964 4973	modulates
+#236	AnnotatorNotes T236	GO:0065007 (biological regulation)
+T237	PR 4974 4978	PAX6
+#237	AnnotatorNotes T237	PR:000012318 (paired box protein Pax-6)
+T238	GO_BP 4997 5017	neuronal development
+#238	AnnotatorNotes T238	GO:0048666 (neuron development)
+T239	CL 4997 5005	neuronal
+#239	AnnotatorNotes T239	CL:0000540 (neuron)
+T240	CHEBI 5037 5045	proteins
+#240	AnnotatorNotes T240	CHEBI:36080 (proteins)
+T241	italic 5053 5061	glucagon
+#241	AnnotatorNotes T241	italic (null)
+T242	PR 5053 5061	glucagon
+#242	AnnotatorNotes T242	PR:000007891 (glucagon)
+T243	SO 5062 5070	promoter
+#243	AnnotatorNotes T243	SO:0000167 (promoter)
+T244	GO_BP 5095 5137	expression of this pancreatic hormone gene
+#244	AnnotatorNotes T244	"expression of .. gene" GO:0010467 (gene expression)
+T245	CHEBI 5125 5132	hormone
+#245	AnnotatorNotes T245	CHEBI:24621 (hormone)
+T246	independent_continuant 5125 5132	hormone
+#246	AnnotatorNotes T246	independent_continuant
+T247	GO_MF 5125 5132	hormone
+#247	AnnotatorNotes T247	GO:0005179 (hormone activity)
+T248	SO 5133 5137	gene
+#248	AnnotatorNotes T248	SO:0000704 (gene)
+T249	CHEBI 5219 5227	proteins
+#249	AnnotatorNotes T249	CHEBI:36080 (proteins)
+T250	EntrezGene 5247 5251	PAX6
+#250	AnnotatorNotes T250	EG:5080
+T251	PR 5247 5251	PAX6
+#251	AnnotatorNotes T251	PR:000012318 (paired box protein Pax-6)
+T252	SO 5261 5269	sequence
+#252	AnnotatorNotes T252	SO:0000001 (region)
+T253	SO 5295 5314	secondary structure
+#253	AnnotatorNotes T253	SO:0001078 (polypeptide_secondary_structure)
+T254	SO 5351 5357	domain
+#254	AnnotatorNotes T254	SO:0000417 (polypeptide_domain)
+T255	CHEBI 5364 5375	amino acids
+#255	AnnotatorNotes T255	CHEBI:33708 (amino-acid residue)
+T256	SO 5364 5375	amino acids
+#256	AnnotatorNotes T256	SO:0001237 (amino_acid)
+T257	CHEBI 5364 5369	amino
+#257	AnnotatorNotes T257	CHEBI:32952 (amines)
+T258	CHEBI 5364 5369	amino
+#258	AnnotatorNotes T258	CHEBI:46882 (amino group)
+T259	CHEBI 5370 5375	acids
+#259	AnnotatorNotes T259	CHEBI:37527 (acid)
+T260	SO 5383 5397	C-terminal end
+#260	AnnotatorNotes T260	SO:0100015 (c_terminal_region)
+T261	CHEBI 5383 5384	C
+#261	AnnotatorNotes T261	CHEBI:18245 (carboxylato group)
+T262	CHEBI 5383 5384	C
+#262	AnnotatorNotes T262	CHEBI:46883 (carboxy group)
+T263	EntrezGene 5405 5409	PAX6
+#263	AnnotatorNotes T263	EG:5080
+T264	PR 5405 5409	PAX6
+#264	AnnotatorNotes T264	PR:000012318 (paired box protein Pax-6)
+T265	CHEBI 5410 5417	protein
+#265	AnnotatorNotes T265	CHEBI:36080 (proteins)
+T266	SO 5462 5469	peptide
+#266	AnnotatorNotes T266	SO:0001407 (peptidyl)
+T267	NCBITaxon 5480 5485	yeast
+#267	AnnotatorNotes T267	NCBITaxon:4892 (Saccharomycetales)
+T268	CHEBI 5546 5554	proteins
+#268	AnnotatorNotes T268	CHEBI:36080 (proteins)
+T269	EntrezGene 5556 5562	HOMER3
+#269	AnnotatorNotes T269	EG:26558
+T270	PR 5556 5562	HOMER3
+#270	AnnotatorNotes T270	PR:000008680 (homer protein 3)
+T271	EntrezGene 5564 5569	DNCL1
+#271	AnnotatorNotes T271	EG:56455
+T272	PR 5564 5569	DNCL1
+#272	AnnotatorNotes T272	PR:000002325 (dynein light chain 1, cytoplasmic)
+T273	EntrezGene 5574 5580	TRIM11
+#273	AnnotatorNotes T273	EG:94091
+T274	PR 5574 5580	TRIM11
+#274	AnnotatorNotes T274	PR:000016642 (tripartite motif-containing protein 11)
+T275	EntrezGene 5606 5610	PAX6
+#275	AnnotatorNotes T275	EG:5080
+T276	PR 5606 5610	PAX6
+#276	AnnotatorNotes T276	PR:000012318 (paired box protein Pax-6)
+T277	CHEBI 5621 5629	proteins
+#277	AnnotatorNotes T277	CHEBI:36080 (proteins)
+T278	SO 5647 5666	naturally occurring
+#278	AnnotatorNotes T278	SO:0000782 (natural)
+T279	SO 5667 5677	C-terminal
+#279	AnnotatorNotes T279	SO:0100015 (c_terminal_region)
+T280	CHEBI 5667 5668	C
+#280	AnnotatorNotes T280	CHEBI:18245 (carboxylato group)
+T281	CHEBI 5667 5668	C
+#281	AnnotatorNotes T281	CHEBI:46883 (carboxy group)
+T282	EntrezGene 5678 5682	PAX6
+#282	AnnotatorNotes T282	EG:5080
+T283	PR 5678 5682	PAX6
+#283	AnnotatorNotes T283	PR:000012318 (paired box protein Pax-6)
+T284	SO 5683 5692	mutations
+#284	AnnotatorNotes T284	SO:0001059 (sequence_alteration)
+T285	SO 5713 5722	conserved
+#285	AnnotatorNotes T285	SO:0000856 (conserved)
+T286	SO 5723 5733	C-terminal
+#286	AnnotatorNotes T286	SO:0100015 (c_terminal_region)
+T287	CHEBI 5723 5724	C
+#287	AnnotatorNotes T287	CHEBI:18245 (carboxylato group)
+T288	CHEBI 5723 5724	C
+#288	AnnotatorNotes T288	CHEBI:46883 (carboxy group)
+T289	PR 5734 5738	PAX6
+#289	AnnotatorNotes T289	PR:000012318 (paired box protein Pax-6)
+T290	SO 5739 5746	peptide
+#290	AnnotatorNotes T290	SO:0001407 (peptidyl)
+T291	SO 5802 5810	sequence
+#291	AnnotatorNotes T291	SO:0000001 (region)
+T292	SO 5811 5823	conservation
+#292	AnnotatorNotes T292	SO:0000856 (conserved)
+T293	SO 5831 5845	C-terminal end
+#293	AnnotatorNotes T293	SO:0100015 (c_terminal_region)
+T294	CHEBI 5831 5832	C
+#294	AnnotatorNotes T294	CHEBI:18245 (carboxylato group)
+T295	CHEBI 5831 5832	C
+#295	AnnotatorNotes T295	CHEBI:46883 (carboxy group)
+T296	PR 5853 5857	PAX6
+#296	AnnotatorNotes T296	PR:000012318 (paired box protein Pax-6)
+T297	CHEBI 5858 5865	protein
+#297	AnnotatorNotes T297	CHEBI:36080 (proteins)
+T298	SO 5889 5908	amino acid sequence
+#298	AnnotatorNotes T298	SO:0001407 (peptidyl)
+T299	CHEBI 5889 5899	amino acid
+#299	AnnotatorNotes T299	CHEBI:33708 (amino-acid residue)
+T300	SO 5889 5899	amino acid
+#300	AnnotatorNotes T300	SO:0001237 (amino_acid)
+T301	CHEBI 5889 5894	amino
+#301	AnnotatorNotes T301	CHEBI:32952 (amines)
+T302	CHEBI 5889 5894	amino
+#302	AnnotatorNotes T302	CHEBI:46882 (amino group)
+T303	CHEBI 5895 5899	acid
+#303	AnnotatorNotes T303	CHEBI:37527 (acid)
+T304	EntrezGene 5916 5920	PAX6
+#304	AnnotatorNotes T304	EG:5080
+T305	PR 5916 5920	PAX6
+#305	AnnotatorNotes T305	PR:000012318 (paired box protein Pax-6)
+T306	SO 5925 5931	domain
+#306	AnnotatorNotes T306	SO:0000417 (polypeptide_domain)
+T307	CHEBI 5933 5935	aa
+#307	AnnotatorNotes T307	CHEBI:33708 (amino-acid residue)
+T308	SO 5933 5935	aa
+#308	AnnotatorNotes T308	SO:0001237 (amino_acid)
+T309	SO 5963 5972	conserved
+#309	AnnotatorNotes T309	SO:0000856 (conserved)
+T310	CHEBI 5998 6009	amino acids
+#310	AnnotatorNotes T310	CHEBI:33708 (amino-acid residue)
+T311	SO 5998 6009	amino acids
+#311	AnnotatorNotes T311	SO:0001237 (amino_acid)
+T312	CHEBI 5998 6003	amino
+#312	AnnotatorNotes T312	CHEBI:32952 (amines)
+T313	CHEBI 5998 6003	amino
+#313	AnnotatorNotes T313	CHEBI:46882 (amino group)
+T314	CHEBI 6004 6009	acids
+#314	AnnotatorNotes T314	CHEBI:37527 (acid)
+T315	SO 6062 6074	conservation
+#315	AnnotatorNotes T315	SO:0000856 (conserved)
+T316	taxonomic_rank 6105 6112	species
+#316	AnnotatorNotes T316	species (null)
+T317	NCBITaxon 6121 6128	axolotl
+#317	AnnotatorNotes T317	NCBITaxon:8296 (Ambystoma mexicanum)
+T318	italic 6130 6149	Ambystoma mexicanum
+#318	AnnotatorNotes T318	italic (null)
+T319	NCBITaxon 6130 6149	Ambystoma mexicanum
+#319	AnnotatorNotes T319	NCBITaxon:8296 (Ambystoma mexicanum)
+T320	taxonomic_rank 6130 6149	Ambystoma mexicanum
+#320	AnnotatorNotes T320	taxonomic_rank (null)
+T321	NCBITaxon 6155 6165	sea urchin
+#321	AnnotatorNotes T321	NCBITaxon:7625 (Echinoidea)
+T322	italic 6167 6188	Paracentrotus lividus
+#322	AnnotatorNotes T322	italic (null)
+T323	taxonomic_rank 6167 6188	Paracentrotus lividus
+#323	AnnotatorNotes T323	taxonomic_rank (null)
+T324	NCBITaxon 6167 6188	Paracentrotus lividus
+#324	AnnotatorNotes T324	NCBITaxon:7656 (Paracentrotus lividus)
+T325	PR 6238 6242	PAX6
+#325	AnnotatorNotes T325	PR:000012318 (paired box protein Pax-6)
+T326	SO 6243 6253	C-terminal
+#326	AnnotatorNotes T326	SO:0100015 (c_terminal_region)
+T327	CHEBI 6243 6244	C
+#327	AnnotatorNotes T327	CHEBI:18245 (carboxylato group)
+T328	CHEBI 6243 6244	C
+#328	AnnotatorNotes T328	CHEBI:46883 (carboxy group)
+T329	SO 6254 6261	peptide
+#329	AnnotatorNotes T329	SO:0001407 (peptidyl)
+T330	CHEBI 6304 6315	amino acids
+#330	AnnotatorNotes T330	CHEBI:33708 (amino-acid residue)
+T331	SO 6304 6315	amino acids
+#331	AnnotatorNotes T331	SO:0001237 (amino_acid)
+T332	CHEBI 6304 6309	amino
+#332	AnnotatorNotes T332	CHEBI:32952 (amines)
+T333	CHEBI 6304 6309	amino
+#333	AnnotatorNotes T333	CHEBI:46882 (amino group)
+T334	CHEBI 6310 6315	acids
+#334	AnnotatorNotes T334	CHEBI:37527 (acid)
+T335	PR 6319 6323	PAX6
+#335	AnnotatorNotes T335	PR:000012318 (paired box protein Pax-6)
+T336	taxonomic_rank 6337 6344	species
+#336	AnnotatorNotes T336	species (null)
+T337	SO 6360 6369	invariant
+#337	AnnotatorNotes T337	SO:0000856 (conserved)
+T338	CHEBI 6370 6378	residues
+#338	AnnotatorNotes T338	CHEBI:33708 (amino-acid residue)
+T339	SO 6370 6378	residues
+#339	AnnotatorNotes T339	SO:0001237 (amino_acid)
+T340	SO 6409 6422	substitutions
+#340	AnnotatorNotes T340	SO:1000002 (substitution)
+T341	SO 6460 6473	substitutions
+#341	AnnotatorNotes T341	SO:1000002 (substitution)
+T342	SO 6479 6498	Secondary structure
+#342	AnnotatorNotes T342	SO:0001078 (polypeptide_secondary_structure)
+T343	SO 6522 6531	conserved
+#343	AnnotatorNotes T343	SO:0000856 (conserved)
+T344	CHEBI 6544 6555	amino acids
+#344	AnnotatorNotes T344	CHEBI:33708 (amino-acid residue)
+T345	SO 6544 6555	amino acids
+#345	AnnotatorNotes T345	SO:0001237 (amino_acid)
+T346	CHEBI 6544 6549	amino
+#346	AnnotatorNotes T346	CHEBI:32952 (amines)
+T347	CHEBI 6544 6549	amino
+#347	AnnotatorNotes T347	CHEBI:46882 (amino group)
+T348	CHEBI 6550 6555	acids
+#348	AnnotatorNotes T348	CHEBI:37527 (acid)
+T349	SO 6606 6613	peptide
+#349	AnnotatorNotes T349	SO:0001407 (peptidyl)
+T350	CHEBI 6626 6634	residues
+#350	AnnotatorNotes T350	CHEBI:33708 (amino-acid residue)
+T351	SO 6626 6634	residues
+#351	AnnotatorNotes T351	SO:0001237 (amino_acid)
+T352	SO 6652 6662	N-terminal
+#352	AnnotatorNotes T352	SO:0100014 (n_terminal_region)
+T353	CHEBI 6652 6653	N
+#353	AnnotatorNotes T353	CHEBI:46882 (amino group)
+T354	EntrezGene 6731 6735	PAX6
+#354	AnnotatorNotes T354	EG:5080
+T355	PR 6731 6735	PAX6
+#355	AnnotatorNotes T355	PR:000012318 (paired box protein Pax-6)
+T356	SO 6740 6746	domain
+#356	AnnotatorNotes T356	SO:0000417 (polypeptide_domain)
+T357	SO 6750 6769	secondary structure
+#357	AnnotatorNotes T357	SO:0001078 (polypeptide_secondary_structure)
+T358	CHEBI 6834 6841	protein
+#358	AnnotatorNotes T358	CHEBI:36080 (proteins)
+T359	SO 6888 6897	consensus
+#359	AnnotatorNotes T359	SO:0000993 (consensus)
+T360	SO 6898 6917	secondary structure
+#360	AnnotatorNotes T360	SO:0001078 (polypeptide_secondary_structure)
+T361	SO 6946 6952	domain
+#361	AnnotatorNotes T361	SO:0000417 (polypeptide_domain)
+T362	SO 6975 6984	predicted
+#362	AnnotatorNotes T362	SO:0000732 (predicted)
+T363	SO 6985 7004	secondary structure
+#363	AnnotatorNotes T363	SO:0001078 (polypeptide_secondary_structure)
+T364	SO 7020 7037	C-terminal region
+#364	AnnotatorNotes T364	SO:0100015 (c_terminal_region)
+T365	CHEBI 7020 7021	C
+#365	AnnotatorNotes T365	CHEBI:18245 (carboxylato group)
+T366	CHEBI 7020 7021	C
+#366	AnnotatorNotes T366	CHEBI:46883 (carboxy group)
+T367	SO 7059 7068	predicted
+#367	AnnotatorNotes T367	SO:0000732 (predicted)
+T368	SO 7099 7108	conserved
+#368	AnnotatorNotes T368	SO:0000856 (conserved)
+T369	SO 7109 7115	domain
+#369	AnnotatorNotes T369	SO:0000417 (polypeptide_domain)
+T370	SO 7243 7260	C-terminal domain
+#370	AnnotatorNotes T370	SO:0100015 (c_terminal_region)
+T371	CHEBI 7243 7244	C
+#371	AnnotatorNotes T371	CHEBI:18245 (carboxylato group)
+T372	CHEBI 7243 7244	C
+#372	AnnotatorNotes T372	CHEBI:46883 (carboxy group)
+T373	SO 7254 7260	domain
+#373	AnnotatorNotes T373	SO:0000417 (polypeptide_domain)
+T374	SO 7305 7315	stop codon
+#374	AnnotatorNotes T374	SO:0000319 (stop_codon)
+T375	GO_BP 7305 7309	stop
+#375	AnnotatorNotes T375	GO:0006353 (transcription termination)
+T376	GO_BP 7305 7309	stop
+#376	AnnotatorNotes T376	GO:0006415 (translational termination)
+T377	SO 7328 7334	region
+#377	AnnotatorNotes T377	SO:0000001 (region)
+T378	SO 7351 7360	conserved
+#378	AnnotatorNotes T378	SO:0000856 (conserved)
+T379	SO 7384 7393	predicted
+#379	AnnotatorNotes T379	SO:0000732 (predicted)
+T380	SO 7394 7422	secondary structure elements
+#380	AnnotatorNotes T380	SO:0001078 (polypeptide_secondary_structure)
+T381	SO 7450 7469	secondary structure
+#381	AnnotatorNotes T381	SO:0001078 (polypeptide_secondary_structure)
+T382	CHEBI 7501 7511	amino acid
+#382	AnnotatorNotes T382	CHEBI:33708 (amino-acid residue)
+T383	SO 7501 7511	amino acid
+#383	AnnotatorNotes T383	SO:0001237 (amino_acid)
+T384	CHEBI 7501 7506	amino
+#384	AnnotatorNotes T384	CHEBI:32952 (amines)
+T385	CHEBI 7501 7506	amino
+#385	AnnotatorNotes T385	CHEBI:46882 (amino group)
+T386	CHEBI 7507 7511	acid
+#386	AnnotatorNotes T386	CHEBI:37527 (acid)
+T387	SO 7512 7519	peptide
+#387	AnnotatorNotes T387	SO:0001407 (peptidyl)
+T388	CHEBI 7586 7597	amino acids
+#388	AnnotatorNotes T388	CHEBI:33708 (amino-acid residue)
+T389	SO 7586 7597	amino acids
+#389	AnnotatorNotes T389	SO:0001237 (amino_acid)
+T390	CHEBI 7586 7591	amino
+#390	AnnotatorNotes T390	CHEBI:32952 (amines)
+T391	CHEBI 7586 7591	amino
+#391	AnnotatorNotes T391	CHEBI:46882 (amino group)
+T392	CHEBI 7592 7597	acids
+#392	AnnotatorNotes T392	CHEBI:37527 (acid)
+T393	CHEBI 7702 7710	residues
+#393	AnnotatorNotes T393	CHEBI:33708 (amino-acid residue)
+T394	SO 7702 7710	residues
+#394	AnnotatorNotes T394	SO:0001237 (amino_acid)
+T395	SO 7726 7735	conserved
+#395	AnnotatorNotes T395	SO:0000856 (conserved)
+T396	SO 7828 7847	secondary structure
+#396	AnnotatorNotes T396	SO:0001078 (polypeptide_secondary_structure)
+T397	SO 7868 7878	C-terminal
+#397	AnnotatorNotes T397	SO:0100015 (c_terminal_region)
+T398	CHEBI 7868 7869	C
+#398	AnnotatorNotes T398	CHEBI:18245 (carboxylato group)
+T399	CHEBI 7868 7869	C
+#399	AnnotatorNotes T399	CHEBI:46883 (carboxy group)
+T400	SO 7879 7886	peptide
+#400	AnnotatorNotes T400	SO:0001407 (peptidyl)
+T401	CHEBI 7909 7920	amino acids
+#401	AnnotatorNotes T401	CHEBI:33708 (amino-acid residue)
+T402	SO 7909 7920	amino acids
+#402	AnnotatorNotes T402	SO:0001237 (amino_acid)
+T403	CHEBI 7909 7914	amino
+#403	AnnotatorNotes T403	CHEBI:32952 (amines)
+T404	CHEBI 7909 7914	amino
+#404	AnnotatorNotes T404	CHEBI:46882 (amino group)
+T405	CHEBI 7915 7920	acids
+#405	AnnotatorNotes T405	CHEBI:37527 (acid)
+T406	EntrezGene 7924 7928	PAX6
+#406	AnnotatorNotes T406	EG:5080
+T407	PR 7924 7928	PAX6
+#407	AnnotatorNotes T407	PR:000012318 (paired box protein Pax-6)
+T408	CHEBI 7943 7952	threonine
+#408	AnnotatorNotes T408	CHEBI:32835 (threonine residue)
+T409	SO 7943 7952	threonine
+#409	AnnotatorNotes T409	SO:0001445 (threonine)
+T410	SO 7964 7974	stop codon
+#410	AnnotatorNotes T410	SO:0000319 (stop_codon)
+T411	GO_BP 7964 7968	stop
+#411	AnnotatorNotes T411	GO:0006415 (translational termination)
+T412	GO_BP 7964 7968	stop
+#412	AnnotatorNotes T412	GO:0006353 (transcription termination)
+T413	NCBITaxon 8001 8006	Yeast
+#413	AnnotatorNotes T413	NCBITaxon:4892 (Saccharomycetales)
+T414	SO 8054 8064	C-terminal
+#414	AnnotatorNotes T414	SO:0100015 (c_terminal_region)
+T415	CHEBI 8054 8055	C
+#415	AnnotatorNotes T415	CHEBI:18245 (carboxylato group)
+T416	CHEBI 8054 8055	C
+#416	AnnotatorNotes T416	CHEBI:46883 (carboxy group)
+T417	SO 8065 8072	peptide
+#417	AnnotatorNotes T417	SO:0001407 (peptidyl)
+T418	CHEBI 8094 8101	protein
+#418	AnnotatorNotes T418	CHEBI:36080 (proteins)
+T419	CHEBI 8102 8109	protein
+#419	AnnotatorNotes T419	CHEBI:36080 (proteins)
+T420	SO 8158 8162	cDNA
+#420	AnnotatorNotes T420	SO:0000756 (cDNA)
+T421	NCBITaxon 8181 8186	yeast
+#421	AnnotatorNotes T421	NCBITaxon:4892 (Saccharomycetales)
+T422	SO 8212 8221	construct
+#422	AnnotatorNotes T422	SO:0001037 (mobile_genetic_element)
+T423	CHEBI 8248 8258	amino acid
+#423	AnnotatorNotes T423	CHEBI:33708 (amino-acid residue)
+T424	SO 8248 8258	amino acid
+#424	AnnotatorNotes T424	SO:0001237 (amino_acid)
+T425	CHEBI 8248 8253	amino
+#425	AnnotatorNotes T425	CHEBI:32952 (amines)
+T426	CHEBI 8248 8253	amino
+#426	AnnotatorNotes T426	CHEBI:46882 (amino group)
+T427	CHEBI 8254 8258	acid
+#427	AnnotatorNotes T427	CHEBI:37527 (acid)
+T428	SO 8259 8269	C-terminal
+#428	AnnotatorNotes T428	SO:0100015 (c_terminal_region)
+T429	CHEBI 8259 8260	C
+#429	AnnotatorNotes T429	CHEBI:18245 (carboxylato group)
+T430	CHEBI 8259 8260	C
+#430	AnnotatorNotes T430	CHEBI:46883 (carboxy group)
+T431	SO 8270 8277	peptide
+#431	AnnotatorNotes T431	SO:0001407 (peptidyl)
+T432	EntrezGene 8295 8305	yeast GAL4
+#432	AnnotatorNotes T432	EG:855828
+T433	NCBITaxon 8295 8300	yeast
+#433	AnnotatorNotes T433	NCBITaxon:4892 (Saccharomycetales)
+T434	GO_MF 8306 8317	DNA binding
+#434	AnnotatorNotes T434	GO:0003677 (DNA binding)
+T435	SO 8306 8309	DNA
+#435	AnnotatorNotes T435	SO:0000352 (DNA)
+T436	SO 8318 8324	domain
+#436	AnnotatorNotes T436	SO:0000417 (polypeptide_domain)
+T437	NCBITaxon 8347 8352	mouse
+#437	AnnotatorNotes T437	NCBITaxon:10088 (Mus)
+T438	SO 8359 8363	cDNA
+#438	AnnotatorNotes T438	SO:0000756 (cDNA)
+T439	NCBITaxon 8378 8383	human
+#439	AnnotatorNotes T439	NCBITaxon:9606 (Homo sapiens)
+T440	SO 8434 8453	amino acid sequence
+#440	AnnotatorNotes T440	SO:0001407 (peptidyl)
+T441	CHEBI 8434 8444	amino acid
+#441	AnnotatorNotes T441	CHEBI:33708 (amino-acid residue)
+T442	SO 8434 8444	amino acid
+#442	AnnotatorNotes T442	SO:0001237 (amino_acid)
+T443	CHEBI 8434 8439	amino
+#443	AnnotatorNotes T443	CHEBI:32952 (amines)
+T444	CHEBI 8434 8439	amino
+#444	AnnotatorNotes T444	CHEBI:46882 (amino group)
+T445	CHEBI 8440 8444	acid
+#445	AnnotatorNotes T445	CHEBI:37527 (acid)
+T446	PR 8461 8465	PAX6
+#446	AnnotatorNotes T446	PR:000012318 (paired box protein Pax-6)
+T447	CHEBI 8466 8473	protein
+#447	AnnotatorNotes T447	CHEBI:36080 (proteins)
+T448	NCBITaxon 8490 8493	man
+#448	AnnotatorNotes T448	NCBITaxon:9606 (Homo sapiens)
+T449	NCBITaxon 8498 8503	mouse
+#449	AnnotatorNotes T449	NCBITaxon:10088 (Mus)
+T450	NCBITaxon 8524 8529	mouse
+#450	AnnotatorNotes T450	NCBITaxon:10088 (Mus)
+T451	SO 8632 8641	construct
+#451	AnnotatorNotes T451	SO:0001037 (mobile_genetic_element)
+T452	SO 8667 8673	domain
+#452	AnnotatorNotes T452	SO:0000417 (polypeptide_domain)
+T453	SO 8690 8700	C-terminal
+#453	AnnotatorNotes T453	SO:0100015 (c_terminal_region)
+T454	CHEBI 8690 8691	C
+#454	AnnotatorNotes T454	CHEBI:18245 (carboxylato group)
+T455	CHEBI 8690 8691	C
+#455	AnnotatorNotes T455	CHEBI:46883 (carboxy group)
+T456	SO 8701 8708	peptide
+#456	AnnotatorNotes T456	SO:0001407 (peptidyl)
+T457	SO 8789 8795	domain
+#457	AnnotatorNotes T457	SO:0000417 (polypeptide_domain)
+T458	SO 8837 8845	plasmids
+#458	AnnotatorNotes T458	SO:0000155 (plasmid)
+T459	SO 8868 8872	cDNA
+#459	AnnotatorNotes T459	SO:0000756 (cDNA)
+T460	SO 8873 8880	inserts
+#460	AnnotatorNotes T460	SO:0000667 (insertion)
+T461	SO 8898 8903	cDNAs
+#461	AnnotatorNotes T461	SO:0000756 (cDNA)
+T462	italic 8937 8943	Homer3
+#462	AnnotatorNotes T462	italic (null)
+T463	PR 8937 8943	Homer3
+#463	AnnotatorNotes T463	PR:000008680 (homer protein 3)
+T464	EntrezGene 8937 8943	Homer3
+#464	AnnotatorNotes T464	EG:26558
+T465	italic 8957 8962	Dncl1
+#465	AnnotatorNotes T465	italic (null)
+T466	PR 8957 8962	Dncl1
+#466	AnnotatorNotes T466	PR:000002325 (dynein light chain 1, cytoplasmic)
+T467	EntrezGene 8957 8962	Dncl1
+#467	AnnotatorNotes T467	EG:56455
+T468	EntrezGene 8964 8996	Dynein cytoplasmic light chain 1
+#468	AnnotatorNotes T468	EG:56455
+T469	PR 8964 8996	Dynein cytoplasmic light chain 1
+#469	AnnotatorNotes T469	PR:000002325 (dynein light chain 1, cytoplasmic)
+T470	GO_CC 8964 8970	Dynein
+#470	AnnotatorNotes T470	GO:0030286 (dynein complex)
+T471	GO_CC 8971 8982	cytoplasmic
+#471	AnnotatorNotes T471	GO:0005737 (cytoplasm)
+T472	SO 8989 8994	chain
+#472	AnnotatorNotes T472	SO:0000001 (region)
+T473	italic 9023 9026	Pin
+#473	AnnotatorNotes T473	italic (null)
+T474	EntrezGene 9023 9026	Pin
+#474	AnnotatorNotes T474	EG:56455
+T475	PR 9023 9026	Pin
+#475	AnnotatorNotes T475	PR:000002325 (dynein light chain 1, cytoplasmic)
+T476	italic 9030 9034	Dlc8
+#476	AnnotatorNotes T476	italic (null)
+T477	EntrezGene 9030 9034	Dlc8
+#477	AnnotatorNotes T477	EG:56455
+T478	PR 9030 9034	Dlc8
+#478	AnnotatorNotes T478	PR:000002325 (dynein light chain 1, cytoplasmic)
+T479	italic 9040 9046	Trim11
+#479	AnnotatorNotes T479	italic (null)
+T480	PR 9040 9046	Trim11
+#480	AnnotatorNotes T480	PR:000016642 (tripartite motif-containing protein 11)
+T481	EntrezGene 9040 9046	Trim11
+#481	AnnotatorNotes T481	EG:94091
+T482	EntrezGene 9048 9089	Tripartite motif protein family member 11
+#482	AnnotatorNotes T482	EG:94091
+T483	PR 9048 9089	Tripartite motif protein family member 11
+#483	AnnotatorNotes T483	PR:000016642 (tripartite motif-containing protein 11)
+T484	CHEBI 9065 9072	protein
+#484	AnnotatorNotes T484	CHEBI:36080 (proteins)
+T485	italic 9103 9109	Homer3
+#485	AnnotatorNotes T485	italic (null)
+T486	PR 9103 9109	Homer3
+#486	AnnotatorNotes T486	PR:000008680 (homer protein 3)
+T487	EntrezGene 9103 9109	Homer3
+#487	AnnotatorNotes T487	EG:26558
+T488	SO 9113 9119	clones
+#488	AnnotatorNotes T488	SO:0000151 (clone)
+T489	italic 9125 9130	Dncl1
+#489	AnnotatorNotes T489	italic (null)
+T490	PR 9125 9130	Dncl1
+#490	AnnotatorNotes T490	PR:000002325 (dynein light chain 1, cytoplasmic)
+T491	EntrezGene 9125 9130	Dncl1
+#491	AnnotatorNotes T491	EG:56455
+T492	SO 9134 9140	clones
+#492	AnnotatorNotes T492	SO:0000151 (clone)
+T493	SO 9165 9175	C-terminal
+#493	AnnotatorNotes T493	SO:0100015 (c_terminal_region)
+T494	CHEBI 9165 9166	C
+#494	AnnotatorNotes T494	CHEBI:18245 (carboxylato group)
+T495	CHEBI 9165 9166	C
+#495	AnnotatorNotes T495	CHEBI:46883 (carboxy group)
+T496	SO 9176 9183	peptide
+#496	AnnotatorNotes T496	SO:0001407 (peptidyl)
+T497	italic 9192 9198	Homer3
+#497	AnnotatorNotes T497	italic (null)
+T498	PR 9192 9198	Homer3
+#498	AnnotatorNotes T498	PR:000008680 (homer protein 3)
+T499	EntrezGene 9192 9198	Homer3
+#499	AnnotatorNotes T499	EG:26558
+T500	SO 9202 9208	clones
+#500	AnnotatorNotes T500	SO:0000151 (clone)
+T501	italic 9211 9216	Dncl1
+#501	AnnotatorNotes T501	italic (null)
+T502	PR 9211 9216	Dncl1
+#502	AnnotatorNotes T502	PR:000002325 (dynein light chain 1, cytoplasmic)
+T503	EntrezGene 9211 9216	Dncl1
+#503	AnnotatorNotes T503	EG:56455
+T504	SO 9220 9226	clones
+#504	AnnotatorNotes T504	SO:0000151 (clone)
+T505	italic 9232 9238	Trim11
+#505	AnnotatorNotes T505	italic (null)
+T506	PR 9232 9238	Trim11
+#506	AnnotatorNotes T506	PR:000016642 (tripartite motif-containing protein 11)
+T507	EntrezGene 9232 9238	Trim11
+#507	AnnotatorNotes T507	EG:94091
+T508	SO 9242 9248	clones
+#508	AnnotatorNotes T508	SO:0000151 (clone)
+T509	SO 9277 9283	domain
+#509	AnnotatorNotes T509	SO:0000417 (polypeptide_domain)
+T510	SO 9296 9300	cDNA
+#510	AnnotatorNotes T510	SO:0000756 (cDNA)
+T511	SO 9301 9308	inserts
+#511	AnnotatorNotes T511	SO:0000667 (insertion)
+T512	SO 9317 9322	frame
+#512	AnnotatorNotes T512	SO:0000717 (reading_frame)
+T513	SO 9332 9345	coding region
+#513	AnnotatorNotes T513	SO:0000851 (CDS_region)
+T514	EntrezGene 9359 9363	GAL4
+#514	AnnotatorNotes T514	EG:855828
+T515	SO 9375 9381	domain
+#515	AnnotatorNotes T515	SO:0000417 (polypeptide_domain)
+T516	SO 9395 9400	cDNAs
+#516	AnnotatorNotes T516	SO:0000756 (cDNA)
+T517	SO 9426 9431	known
+#517	AnnotatorNotes T517	SO:0000906 (independently_known)
+T518	PR 9455 9461	HOMER3
+#518	AnnotatorNotes T518	PR:000008680 (homer protein 3)
+T519	CL 9497 9505	neuronal
+#519	AnnotatorNotes T519	CL:0000540 (neuron)
+T520	GO_CC 9506 9527	post-synaptic density
+#520	AnnotatorNotes T520	GO:0014069 (postsynaptic density)
+T521	GO_CC 9511 9519	synaptic
+#521	AnnotatorNotes T521	GO:0045202 (synapse)
+T522	GO_CC 9529 9532	PSD
+#522	AnnotatorNotes T522	GO:0014069 (postsynaptic density)
+T523	CHEBI 9534 9542	proteins
+#523	AnnotatorNotes T523	CHEBI:36080 (proteins)
+T524	PR 9549 9554	DNCL1
+#524	AnnotatorNotes T524	PR:000002325 (dynein light chain 1, cytoplasmic)
+T525	GO_MF 9575 9580	motor
+#525	AnnotatorNotes T525	GO:0003774 (motor activity)
+T526	GO_CC 9581 9598	protein complexes
+#526	AnnotatorNotes T526	GO:0043234 (protein complex)
+T527	CHEBI 9581 9588	protein
+#527	AnnotatorNotes T527	CHEBI:36080 (proteins)
+T528	GO_CC 9600 9606	dynein
+#528	AnnotatorNotes T528	GO:0030286 (dynein complex)
+T529	PR 9611 9620	myosin-Va
+#529	AnnotatorNotes T529	PR:000010865 (myosin-Va)
+T530	GO_CC 9611 9617	myosin
+#530	AnnotatorNotes T530	GO:0016459 (myosin complex)
+T531	GO_BP 9652 9704	intracellular trafficking of proteins and organelles
+#531	AnnotatorNotes T531	"intracellular trafficking of .. organelles" GO:0051656 (establishment of organelle localization)
+T532	GO_BP 9652 9689	intracellular trafficking of proteins
+#532	AnnotatorNotes T532	GO:0006886 (intracellular protein transport)
+T533	GO_CC 9652 9665	intracellular
+#533	AnnotatorNotes T533	GO:0005622 (intracellular)
+T534	CHEBI 9681 9689	proteins
+#534	AnnotatorNotes T534	CHEBI:36080 (proteins)
+T535	GO_CC 9694 9704	organelles
+#535	AnnotatorNotes T535	GO:0043226 (organelle)
+T536	CL 9708 9715	neurons
+#536	AnnotatorNotes T536	CL:0000540 (neuron)
+T537	PR 9725 9731	TRIM11
+#537	AnnotatorNotes T537	PR:000016642 (tripartite motif-containing protein 11)
+T538	CHEBI 9768 9775	protein
+#538	AnnotatorNotes T538	CHEBI:36080 (proteins)
+T539	SO 9813 9818	B-box
+#539	AnnotatorNotes T539	SO:0000620 (B_box)
+T540	CHEBI 9819 9823	zinc
+#540	AnnotatorNotes T540	CHEBI:27363 (zinc)
+T541	SO 9834 9845	coiled coil
+#541	AnnotatorNotes T541	SO:0001080 (coiled_coil)
+T542	SO 9846 9852	domain
+#542	AnnotatorNotes T542	SO:0000417 (polypeptide_domain)
+T543	SO 9865 9871	domain
+#543	AnnotatorNotes T543	SO:0000417 (polypeptide_domain)
+T544	CHEBI 9938 9946	proteins
+#544	AnnotatorNotes T544	CHEBI:36080 (proteins)
+T545	EntrezGene 9951 9955	PAX6
+#545	AnnotatorNotes T545	EG:5080
+T546	PR 9951 9955	PAX6
+#546	AnnotatorNotes T546	PR:000012318 (paired box protein Pax-6)
+T547	italic 10018 10024	Homer3
+#547	AnnotatorNotes T547	italic (null)
+T548	PR 10018 10024	Homer3
+#548	AnnotatorNotes T548	PR:000008680 (homer protein 3)
+T549	EntrezGene 10018 10024	Homer3
+#549	AnnotatorNotes T549	EG:26558
+T550	italic 10026 10031	Dncl1
+#550	AnnotatorNotes T550	italic (null)
+T551	PR 10026 10031	Dncl1
+#551	AnnotatorNotes T551	PR:000002325 (dynein light chain 1, cytoplasmic)
+T552	EntrezGene 10026 10031	Dncl1
+#552	AnnotatorNotes T552	EG:56455
+T553	italic 10036 10042	Trim11
+#553	AnnotatorNotes T553	italic (null)
+T554	PR 10036 10042	Trim11
+#554	AnnotatorNotes T554	PR:000016642 (tripartite motif-containing protein 11)
+T555	EntrezGene 10036 10042	Trim11
+#555	AnnotatorNotes T555	EG:94091
+T556	SO 10043 10049	clones
+#556	AnnotatorNotes T556	SO:0000151 (clone)
+T557	italic 10223 10229	Homer3
+#557	AnnotatorNotes T557	italic (null)
+T558	PR 10223 10229	Homer3
+#558	AnnotatorNotes T558	PR:000008680 (homer protein 3)
+T559	EntrezGene 10223 10229	Homer3
+#559	AnnotatorNotes T559	EG:26558
+T560	italic 10231 10236	Dncl1
+#560	AnnotatorNotes T560	italic (null)
+T561	PR 10231 10236	Dncl1
+#561	AnnotatorNotes T561	PR:000002325 (dynein light chain 1, cytoplasmic)
+T562	EntrezGene 10231 10236	Dncl1
+#562	AnnotatorNotes T562	EG:56455
+T563	italic 10238 10244	Trim11
+#563	AnnotatorNotes T563	italic (null)
+T564	PR 10238 10244	Trim11
+#564	AnnotatorNotes T564	PR:000016642 (tripartite motif-containing protein 11)
+T565	EntrezGene 10238 10244	Trim11
+#565	AnnotatorNotes T565	EG:94091
+T566	italic 10249 10253	Pax6
+#566	AnnotatorNotes T566	italic (null)
+T567	PR 10249 10253	Pax6
+#567	AnnotatorNotes T567	PR:000012318 (paired box protein Pax-6)
+T568	EntrezGene 10249 10253	Pax6
+#568	AnnotatorNotes T568	EG:18508
+T569	italic 10259 10264	Gapdh
+#569	AnnotatorNotes T569	italic (null)
+T570	independent_continuant 10259 10264	Gapdh
+#570	AnnotatorNotes T570	independent_continuant
+T571	PR 10259 10264	Gapdh
+#571	AnnotatorNotes T571	PR:000007840 (glyceraldehyde-3-phosphate dehydrogenase)
+T572	EntrezGene 10259 10264	Gapdh
+#572	AnnotatorNotes T572	EG:14433
+T573	GO_MF 10259 10264	Gapdh
+#573	AnnotatorNotes T573	GO:0008943 (glyceraldehyde-3-phosphate dehydrogenase activity)
+T574	italic 10269 10275	Atp5a1
+#574	AnnotatorNotes T574	italic (null)
+T575	PR 10269 10275	Atp5a1
+#575	AnnotatorNotes T575	PR:000004453 (ATP synthase subunit alpha, mitochondrial)
+T576	EntrezGene 10269 10275	Atp5a1
+#576	AnnotatorNotes T576	EG:11946
+T577	italic 10277 10282	Gapdh
+#577	AnnotatorNotes T577	italic (null)
+T578	PR 10277 10282	Gapdh
+#578	AnnotatorNotes T578	PR:000007840 (glyceraldehyde-3-phosphate dehydrogenase)
+T579	GO_MF 10277 10282	Gapdh
+#579	AnnotatorNotes T579	GO:0008943 (glyceraldehyde-3-phosphate dehydrogenase activity)
+T580	independent_continuant 10277 10282	Gapdh
+#580	AnnotatorNotes T580	independent_continuant
+T581	italic 10287 10293	Atp5a1
+#581	AnnotatorNotes T581	italic (null)
+T582	PR 10287 10293	Atp5a1
+#582	AnnotatorNotes T582	PR:000004453 (ATP synthase subunit alpha, mitochondrial)
+T583	GO_BP 10324 10334	expression
+#583	AnnotatorNotes T583	GO:0010467 (gene expression)
+T584	italic 10388 10394	Homer3
+#584	AnnotatorNotes T584	italic (null)
+T585	EntrezGene 10388 10394	Homer3
+#585	AnnotatorNotes T585	EG:26558
+T586	PR 10388 10394	Homer3
+#586	AnnotatorNotes T586	PR:000008680 (homer protein 3)
+T587	italic 10396 10401	Dncl1
+#587	AnnotatorNotes T587	italic (null)
+T588	PR 10396 10401	Dncl1
+#588	AnnotatorNotes T588	PR:000002325 (dynein light chain 1, cytoplasmic)
+T589	EntrezGene 10396 10401	Dncl1
+#589	AnnotatorNotes T589	EG:56455
+T590	italic 10403 10409	Trim11
+#590	AnnotatorNotes T590	italic (null)
+T591	EntrezGene 10403 10409	Trim11
+#591	AnnotatorNotes T591	EG:94091
+T592	PR 10403 10409	Trim11
+#592	AnnotatorNotes T592	PR:000016642 (tripartite motif-containing protein 11)
+T593	italic 10414 10418	Pax6
+#593	AnnotatorNotes T593	italic (null)
+T594	EntrezGene 10414 10418	Pax6
+#594	AnnotatorNotes T594	EG:18508
+T595	PR 10414 10418	Pax6
+#595	AnnotatorNotes T595	PR:000012318 (paired box protein Pax-6)
+T596	italic 10546 10551	Gapdh
+#596	AnnotatorNotes T596	italic (null)
+T597	EntrezGene 10546 10551	Gapdh
+#597	AnnotatorNotes T597	EG:14433
+T598	GO_MF 10546 10551	Gapdh
+#598	AnnotatorNotes T598	GO:0008943 (glyceraldehyde-3-phosphate dehydrogenase activity)
+T599	PR 10546 10551	Gapdh
+#599	AnnotatorNotes T599	PR:000007840 (glyceraldehyde-3-phosphate dehydrogenase)
+T600	independent_continuant 10546 10551	Gapdh
+#600	AnnotatorNotes T600	independent_continuant
+T601	italic 10593 10599	Atp5a1
+#601	AnnotatorNotes T601	italic (null)
+T602	PR 10593 10599	Atp5a1
+#602	AnnotatorNotes T602	PR:000004453 (ATP synthase subunit alpha, mitochondrial)
+T603	EntrezGene 10593 10599	Atp5a1
+#603	AnnotatorNotes T603	EG:11946
+T604	italic 10693 10714	Homer3, Dncl1, Trim11
+#604	AnnotatorNotes T604	italic (null)
+T605	EntrezGene 10693 10699	Homer3
+#605	AnnotatorNotes T605	EG:26558
+T606	PR 10693 10699	Homer3
+#606	AnnotatorNotes T606	PR:000008680 (homer protein 3)
+T607	EntrezGene 10701 10706	Dncl1
+#607	AnnotatorNotes T607	EG:56455
+T608	PR 10701 10706	Dncl1
+#608	AnnotatorNotes T608	PR:000002325 (dynein light chain 1, cytoplasmic)
+T609	EntrezGene 10708 10714	Trim11
+#609	AnnotatorNotes T609	EG:94091
+T610	PR 10708 10714	Trim11
+#610	AnnotatorNotes T610	PR:000016642 (tripartite motif-containing protein 11)
+T611	italic 10719 10723	Pax6
+#611	AnnotatorNotes T611	italic (null)
+T612	PR 10719 10723	Pax6
+#612	AnnotatorNotes T612	PR:000012318 (paired box protein Pax-6)
+T613	EntrezGene 10719 10723	Pax6
+#613	AnnotatorNotes T613	EG:18508
+T614	NCBITaxon 10731 10736	mouse
+#614	AnnotatorNotes T614	NCBITaxon:10088 (Mus)
+T615	SO 10743 10747	cDNA
+#615	AnnotatorNotes T615	SO:0000756 (cDNA)
+T616	SO 10765 10769	cDNA
+#616	AnnotatorNotes T616	SO:0000756 (cDNA)
+T617	SO 10789 10796	primers
+#617	AnnotatorNotes T617	SO:0000112 (primer)
+T618	italic 10810 10814	Pax6
+#618	AnnotatorNotes T618	italic (null)
+T619	PR 10810 10814	Pax6
+#619	AnnotatorNotes T619	PR:000012318 (paired box protein Pax-6)
+T620	EntrezGene 10810 10814	Pax6
+#620	AnnotatorNotes T620	EG:18508
+T621	SO 10820 10822	bp
+#621	AnnotatorNotes T621	SO:0000028 (base_pair)
+T622	italic 10825 10831	Homer3
+#622	AnnotatorNotes T622	italic (null)
+T623	EntrezGene 10825 10831	Homer3
+#623	AnnotatorNotes T623	EG:26558
+T624	PR 10825 10831	Homer3
+#624	AnnotatorNotes T624	PR:000008680 (homer protein 3)
+T625	SO 10837 10839	bp
+#625	AnnotatorNotes T625	SO:0000028 (base_pair)
+T626	italic 10847 10852	Dncl1
+#626	AnnotatorNotes T626	italic (null)
+T627	EntrezGene 10847 10852	Dncl1
+#627	AnnotatorNotes T627	EG:56455
+T628	PR 10847 10852	Dncl1
+#628	AnnotatorNotes T628	PR:000002325 (dynein light chain 1, cytoplasmic)
+T629	SO 10858 10860	bp
+#629	AnnotatorNotes T629	SO:0000028 (base_pair)
+T630	italic 10866 10872	Trim11
+#630	AnnotatorNotes T630	italic (null)
+T631	PR 10866 10872	Trim11
+#631	AnnotatorNotes T631	PR:000016642 (tripartite motif-containing protein 11)
+T632	EntrezGene 10866 10872	Trim11
+#632	AnnotatorNotes T632	EG:94091
+T633	SO 10878 10880	bp
+#633	AnnotatorNotes T633	SO:0000028 (base_pair)
+T634	italic 10911 10917	Atp5a1
+#634	AnnotatorNotes T634	italic (null)
+T635	PR 10911 10917	Atp5a1
+#635	AnnotatorNotes T635	PR:000004453 (ATP synthase subunit alpha, mitochondrial)
+T636	EntrezGene 10911 10917	Atp5a1
+#636	AnnotatorNotes T636	EG:11946
+T637	SO 10923 10925	bp
+#637	AnnotatorNotes T637	SO:0000028 (base_pair)
+T638	italic 10931 10936	Gapdh
+#638	AnnotatorNotes T638	italic (null)
+T639	independent_continuant 10931 10936	Gapdh
+#639	AnnotatorNotes T639	independent_continuant
+T640	GO_MF 10931 10936	Gapdh
+#640	AnnotatorNotes T640	GO:0008943 (glyceraldehyde-3-phosphate dehydrogenase activity)
+T641	EntrezGene 10931 10936	Gapdh
+#641	AnnotatorNotes T641	EG:14433
+T642	PR 10931 10936	Gapdh
+#642	AnnotatorNotes T642	PR:000007840 (glyceraldehyde-3-phosphate dehydrogenase)
+T643	SO 10942 10944	bp
+#643	AnnotatorNotes T643	SO:0000028 (base_pair)
+T644	GO_BP 10964 10973	expressed
+#644	AnnotatorNotes T644	GO:0010467 (gene expression)
+T645	NCBITaxon 11033 11038	Φ×174
+#645	AnnotatorNotes T645	NCBITaxon:374840 (Enterobacteria phage phiX174 sensu lato)
+T646	italic 11039 11042	Hae
+#646	AnnotatorNotes T646	italic (null)
+T647	SO 11046 11049	DNA
+#647	AnnotatorNotes T647	SO:0000352 (DNA)
+T648	SO 11088 11090	bp
+#648	AnnotatorNotes T648	SO:0000028 (base_pair)
+T649	SO 11099 11101	bp
+#649	AnnotatorNotes T649	SO:0000028 (base_pair)
+T650	italic 11149 11155	Homer3
+#650	AnnotatorNotes T650	italic (null)
+T651	EntrezGene 11149 11155	Homer3
+#651	AnnotatorNotes T651	EG:26558
+T652	PR 11149 11155	Homer3
+#652	AnnotatorNotes T652	PR:000008680 (homer protein 3)
+T653	italic 11157 11162	Dncl1
+#653	AnnotatorNotes T653	italic (null)
+T654	EntrezGene 11157 11162	Dncl1
+#654	AnnotatorNotes T654	EG:56455
+T655	PR 11157 11162	Dncl1
+#655	AnnotatorNotes T655	PR:000002325 (dynein light chain 1, cytoplasmic)
+T656	italic 11167 11173	Trim11
+#656	AnnotatorNotes T656	italic (null)
+T657	PR 11167 11173	Trim11
+#657	AnnotatorNotes T657	PR:000016642 (tripartite motif-containing protein 11)
+T658	EntrezGene 11167 11173	Trim11
+#658	AnnotatorNotes T658	EG:94091
+T659	SO 11174 11180	clones
+#659	AnnotatorNotes T659	SO:0000151 (clone)
+T660	CHEBI 11301 11309	proteins
+#660	AnnotatorNotes T660	CHEBI:36080 (proteins)
+T661	SO 11341 11351	C-terminal
+#661	AnnotatorNotes T661	SO:0100015 (c_terminal_region)
+T662	CHEBI 11341 11342	C
+#662	AnnotatorNotes T662	CHEBI:18245 (carboxylato group)
+T663	CHEBI 11341 11342	C
+#663	AnnotatorNotes T663	CHEBI:46883 (carboxy group)
+T664	SO 11352 11359	peptide
+#664	AnnotatorNotes T664	SO:0001407 (peptidyl)
+T665	SO 11367 11373	domain
+#665	AnnotatorNotes T665	SO:0000417 (polypeptide_domain)
+T666	EntrezGene 11377 11381	PAX6
+#666	AnnotatorNotes T666	EG:5080
+T667	PR 11377 11381	PAX6
+#667	AnnotatorNotes T667	PR:000012318 (paired box protein Pax-6)
+T668	NCBITaxon 11384 11389	Yeast
+#668	AnnotatorNotes T668	NCBITaxon:4892 (Saccharomycetales)
+T669	CHEBI 11463 11471	proteins
+#669	AnnotatorNotes T669	CHEBI:36080 (proteins)
+T670	EntrezGene 11473 11479	HOMER3
+#670	AnnotatorNotes T670	EG:26558
+T671	PR 11473 11479	HOMER3
+#671	AnnotatorNotes T671	PR:000008680 (homer protein 3)
+T672	EntrezGene 11484 11489	DNCL1
+#672	AnnotatorNotes T672	EG:56455
+T673	PR 11484 11489	DNCL1
+#673	AnnotatorNotes T673	PR:000002325 (dynein light chain 1, cytoplasmic)
+T674	SO 11514 11524	C-terminal
+#674	AnnotatorNotes T674	SO:0100015 (c_terminal_region)
+T675	CHEBI 11514 11515	C
+#675	AnnotatorNotes T675	CHEBI:18245 (carboxylato group)
+T676	CHEBI 11514 11515	C
+#676	AnnotatorNotes T676	CHEBI:46883 (carboxy group)
+T677	SO 11525 11532	peptide
+#677	AnnotatorNotes T677	SO:0001407 (peptidyl)
+T678	CHEBI 11543 11551	proteins
+#678	AnnotatorNotes T678	CHEBI:36080 (proteins)
+T679	EntrezGene 11553 11559	HOMER3
+#679	AnnotatorNotes T679	EG:26558
+T680	PR 11553 11559	HOMER3
+#680	AnnotatorNotes T680	PR:000008680 (homer protein 3)
+T681	EntrezGene 11561 11566	DNCL1
+#681	AnnotatorNotes T681	EG:56455
+T682	PR 11561 11566	DNCL1
+#682	AnnotatorNotes T682	PR:000002325 (dynein light chain 1, cytoplasmic)
+T683	EntrezGene 11571 11577	TRIM11
+#683	AnnotatorNotes T683	EG:94091
+T684	PR 11571 11577	TRIM11
+#684	AnnotatorNotes T684	PR:000016642 (tripartite motif-containing protein 11)
+T685	SO 11612 11618	domain
+#685	AnnotatorNotes T685	SO:0000417 (polypeptide_domain)
+T686	EntrezGene 11639 11645	HOMER3
+#686	AnnotatorNotes T686	EG:26558
+T687	PR 11639 11645	HOMER3
+#687	AnnotatorNotes T687	PR:000008680 (homer protein 3)
+T688	EntrezGene 11650 11655	DNCL1
+#688	AnnotatorNotes T688	EG:56455
+T689	PR 11650 11655	DNCL1
+#689	AnnotatorNotes T689	PR:000002325 (dynein light chain 1, cytoplasmic)
+T690	SO 11687 11697	C-terminal
+#690	AnnotatorNotes T690	SO:0100015 (c_terminal_region)
+T691	CHEBI 11687 11688	C
+#691	AnnotatorNotes T691	CHEBI:18245 (carboxylato group)
+T692	CHEBI 11687 11688	C
+#692	AnnotatorNotes T692	CHEBI:46883 (carboxy group)
+T693	SO 11698 11705	peptide
+#693	AnnotatorNotes T693	SO:0001407 (peptidyl)
+T694	EntrezGene 11712 11718	TRIM11
+#694	AnnotatorNotes T694	EG:94091
+T695	PR 11712 11718	TRIM11
+#695	AnnotatorNotes T695	PR:000016642 (tripartite motif-containing protein 11)
+T696	SO 11741 11751	N-terminal
+#696	AnnotatorNotes T696	SO:0100014 (n_terminal_region)
+T697	CHEBI 11741 11742	N
+#697	AnnotatorNotes T697	CHEBI:46882 (amino group)
+T698	SO 11752 11756	part
+#698	AnnotatorNotes T698	SO:0000001 (region)
+T699	SO 11768 11774	domain
+#699	AnnotatorNotes T699	SO:0000417 (polypeptide_domain)
+T700	SO 11821 11831	constructs
+#700	AnnotatorNotes T700	SO:0001037 (mobile_genetic_element)
+T701	EntrezGene 11944 11948	PAX6
+#701	AnnotatorNotes T701	EG:5080
+T702	PR 11944 11948	PAX6
+#702	AnnotatorNotes T702	PR:000012318 (paired box protein Pax-6)
+T703	EntrezGene 11953 11959	HOMER3
+#703	AnnotatorNotes T703	EG:26558
+T704	PR 11953 11959	HOMER3
+#704	AnnotatorNotes T704	PR:000008680 (homer protein 3)
+T705	EntrezGene 11961 11966	DNCL1
+#705	AnnotatorNotes T705	EG:56455
+T706	PR 11961 11966	DNCL1
+#706	AnnotatorNotes T706	PR:000002325 (dynein light chain 1, cytoplasmic)
+T707	EntrezGene 11971 11977	TRIM11
+#707	AnnotatorNotes T707	EG:94091
+T708	PR 11971 11977	TRIM11
+#708	AnnotatorNotes T708	PR:000016642 (tripartite motif-containing protein 11)
+T709	italic 11983 11988	Dncl1
+#709	AnnotatorNotes T709	italic (null)
+T710	PR 11983 11988	Dncl1
+#710	AnnotatorNotes T710	PR:000002325 (dynein light chain 1, cytoplasmic)
+T711	EntrezGene 11983 11988	Dncl1
+#711	AnnotatorNotes T711	EG:56455
+T712	italic 11993 11999	Trim11
+#712	AnnotatorNotes T712	italic (null)
+T713	PR 11993 11999	Trim11
+#713	AnnotatorNotes T713	PR:000016642 (tripartite motif-containing protein 11)
+T714	EntrezGene 11993 11999	Trim11
+#714	AnnotatorNotes T714	EG:94091
+T715	SO 12000 12006	clones
+#715	AnnotatorNotes T715	SO:0000151 (clone)
+T716	italic 12069 12075	Homer3
+#716	AnnotatorNotes T716	italic (null)
+T717	PR 12069 12075	Homer3
+#717	AnnotatorNotes T717	PR:000008680 (homer protein 3)
+T718	EntrezGene 12069 12075	Homer3
+#718	AnnotatorNotes T718	EG:26558
+T719	SO 12076 12081	cDNAs
+#719	AnnotatorNotes T719	SO:0000756 (cDNA)
+T720	SO 12093 12103	N-terminal
+#720	AnnotatorNotes T720	SO:0100014 (n_terminal_region)
+T721	CHEBI 12093 12094	N
+#721	AnnotatorNotes T721	CHEBI:46882 (amino group)
+T722	CHEBI 12107 12118	amino acids
+#722	AnnotatorNotes T722	CHEBI:33708 (amino-acid residue)
+T723	SO 12107 12118	amino acids
+#723	AnnotatorNotes T723	SO:0001237 (amino_acid)
+T724	CHEBI 12107 12112	amino
+#724	AnnotatorNotes T724	CHEBI:32952 (amines)
+T725	CHEBI 12107 12112	amino
+#725	AnnotatorNotes T725	CHEBI:46882 (amino group)
+T726	CHEBI 12113 12118	acids
+#726	AnnotatorNotes T726	CHEBI:37527 (acid)
+T727	SO 12132 12145	coding region
+#727	AnnotatorNotes T727	SO:0000851 (CDS_region)
+T728	SO 12150 12158	inserted
+#728	AnnotatorNotes T728	SO:0000046 (insert)
+T729	italic 12178 12184	Homer3
+#729	AnnotatorNotes T729	italic (null)
+T730	PR 12178 12184	Homer3
+#730	AnnotatorNotes T730	PR:000008680 (homer protein 3)
+T731	EntrezGene 12178 12184	Homer3
+#731	AnnotatorNotes T731	EG:26558
+T732	SO 12185 12189	cDNA
+#732	AnnotatorNotes T732	SO:0000756 (cDNA)
+T733	GO_BP 12212 12222	expression
+#733	AnnotatorNotes T733	GO:0010467 (gene expression)
+T734	SO 12223 12232	construct
+#734	AnnotatorNotes T734	SO:0001037 (mobile_genetic_element)
+T735	italic 12327 12333	Homer3
+#735	AnnotatorNotes T735	italic (null)
+T736	PR 12327 12333	Homer3
+#736	AnnotatorNotes T736	PR:000008680 (homer protein 3)
+T737	EntrezGene 12327 12333	Homer3
+#737	AnnotatorNotes T737	EG:26558
+T738	SO 12334 12340	clones
+#738	AnnotatorNotes T738	SO:0000151 (clone)
+T739	EntrezGene 12371 12375	PAX6
+#739	AnnotatorNotes T739	EG:5080
+T740	PR 12371 12375	PAX6
+#740	AnnotatorNotes T740	PR:000012318 (paired box protein Pax-6)
+T741	SO 12380 12386	domain
+#741	AnnotatorNotes T741	SO:0000417 (polypeptide_domain)
+T742	EntrezGene 12402 12408	HOMER3
+#742	AnnotatorNotes T742	EG:26558
+T743	PR 12402 12408	HOMER3
+#743	AnnotatorNotes T743	PR:000008680 (homer protein 3)
+T744	SO 12436 12446	constructs
+#744	AnnotatorNotes T744	SO:0001037 (mobile_genetic_element)
+T745	EntrezGene 12449 12455	TRIM11
+#745	AnnotatorNotes T745	EG:94091
+T746	PR 12449 12455	TRIM11
+#746	AnnotatorNotes T746	PR:000016642 (tripartite motif-containing protein 11)
+T747	EntrezGene 12460 12465	DNCL1
+#747	AnnotatorNotes T747	EG:56455
+T748	PR 12460 12465	DNCL1
+#748	AnnotatorNotes T748	PR:000002325 (dynein light chain 1, cytoplasmic)
+T749	SO 12489 12494	genes
+#749	AnnotatorNotes T749	SO:0000704 (gene)
+T750	SO 12598 12608	C-terminal
+#750	AnnotatorNotes T750	SO:0100015 (c_terminal_region)
+T751	CHEBI 12598 12599	C
+#751	AnnotatorNotes T751	CHEBI:18245 (carboxylato group)
+T752	CHEBI 12598 12599	C
+#752	AnnotatorNotes T752	CHEBI:46883 (carboxy group)
+T753	SO 12609 12616	peptide
+#753	AnnotatorNotes T753	SO:0001407 (peptidyl)
+T754	EntrezGene 12621 12627	HOMER3
+#754	AnnotatorNotes T754	EG:26558
+T755	PR 12621 12627	HOMER3
+#755	AnnotatorNotes T755	PR:000008680 (homer protein 3)
+T756	EntrezGene 12631 12636	DNCL1
+#756	AnnotatorNotes T756	EG:56455
+T757	PR 12631 12636	DNCL1
+#757	AnnotatorNotes T757	PR:000002325 (dynein light chain 1, cytoplasmic)
+T758	GO_BP 12713 12734	suppression of growth
+#758	AnnotatorNotes T758	GO:0045926 (negative regulation of growth)
+T759	GO_BP 12728 12734	growth
+#759	AnnotatorNotes T759	GO:0040007 (growth)
+T760	CHEBI 12758 12764	fluoro
+#760	AnnotatorNotes T760	CHEBI:42645 (fluoro group)
+T761	CHEBI 12765 12776	orotic acid
+#761	AnnotatorNotes T761	CHEBI:16742 (orotic acid)
+T762	italic 12830 12834	URA3
+#762	AnnotatorNotes T762	italic (null)
+T763	PR 12830 12834	URA3
+#763	AnnotatorNotes T763	PR:000023661 (orotidine 5'-phosphate decarboxylase)
+T764	italic 12853 12857	HIS3
+#764	AnnotatorNotes T764	italic (null)
+T765	italic 12862 12866	LacZ
+#765	AnnotatorNotes T765	italic (null)
+T766	SO 13081 13091	C-terminal
+#766	AnnotatorNotes T766	SO:0100015 (c_terminal_region)
+T767	CHEBI 13081 13082	C
+#767	AnnotatorNotes T767	CHEBI:18245 (carboxylato group)
+T768	CHEBI 13081 13082	C
+#768	AnnotatorNotes T768	CHEBI:46883 (carboxy group)
+T769	SO 13092 13099	peptide
+#769	AnnotatorNotes T769	SO:0001407 (peptidyl)
+T770	EntrezGene 13138 13144	HOMER3
+#770	AnnotatorNotes T770	EG:26558
+T771	PR 13138 13144	HOMER3
+#771	AnnotatorNotes T771	PR:000008680 (homer protein 3)
+T772	EntrezGene 13149 13154	DNCL1
+#772	AnnotatorNotes T772	EG:56455
+T773	PR 13149 13154	DNCL1
+#773	AnnotatorNotes T773	PR:000002325 (dynein light chain 1, cytoplasmic)
+T774	SO 13195 13204	construct
+#774	AnnotatorNotes T774	SO:0001037 (mobile_genetic_element)
+T775	CHEBI 13231 13242	amino acids
+#775	AnnotatorNotes T775	CHEBI:33708 (amino-acid residue)
+T776	SO 13231 13242	amino acids
+#776	AnnotatorNotes T776	SO:0001237 (amino_acid)
+T777	CHEBI 13231 13236	amino
+#777	AnnotatorNotes T777	CHEBI:32952 (amines)
+T778	CHEBI 13231 13236	amino
+#778	AnnotatorNotes T778	CHEBI:46882 (amino group)
+T779	CHEBI 13237 13242	acids
+#779	AnnotatorNotes T779	CHEBI:37527 (acid)
+T780	EntrezGene 13290 13296	TRIM11
+#780	AnnotatorNotes T780	EG:94091
+T781	PR 13290 13296	TRIM11
+#781	AnnotatorNotes T781	PR:000016642 (tripartite motif-containing protein 11)
+T782	EntrezGene 13423 13429	TRIM11
+#782	AnnotatorNotes T782	EG:94091
+T783	PR 13423 13429	TRIM11
+#783	AnnotatorNotes T783	PR:000016642 (tripartite motif-containing protein 11)
+T784	SO 13456 13462	domain
+#784	AnnotatorNotes T784	SO:0000417 (polypeptide_domain)
+T785	SO 13480 13490	C-terminal
+#785	AnnotatorNotes T785	SO:0100015 (c_terminal_region)
+T786	CHEBI 13480 13481	C
+#786	AnnotatorNotes T786	CHEBI:18245 (carboxylato group)
+T787	CHEBI 13480 13481	C
+#787	AnnotatorNotes T787	CHEBI:46883 (carboxy group)
+T788	SO 13491 13498	peptide
+#788	AnnotatorNotes T788	SO:0001407 (peptidyl)
+T789	SO 13530 13540	C-terminal
+#789	AnnotatorNotes T789	SO:0100015 (c_terminal_region)
+T790	CHEBI 13530 13531	C
+#790	AnnotatorNotes T790	CHEBI:18245 (carboxylato group)
+T791	CHEBI 13530 13531	C
+#791	AnnotatorNotes T791	CHEBI:46883 (carboxy group)
+T792	SO 13541 13548	peptide
+#792	AnnotatorNotes T792	SO:0001407 (peptidyl)
+T793	EntrezGene 13594 13598	PAX6
+#793	AnnotatorNotes T793	EG:5080
+T794	PR 13594 13598	PAX6
+#794	AnnotatorNotes T794	PR:000012318 (paired box protein Pax-6)
+T795	EntrezGene 13603 13609	TRIM11
+#795	AnnotatorNotes T795	EG:94091
+T796	PR 13603 13609	TRIM11
+#796	AnnotatorNotes T796	PR:000016642 (tripartite motif-containing protein 11)
+T797	italic 13622 13626	LacZ
+#797	AnnotatorNotes T797	italic (null)
+T798	SO 13636 13640	gene
+#798	AnnotatorNotes T798	SO:0000704 (gene)
+T799	SO 13677 13687	constructs
+#799	AnnotatorNotes T799	SO:0001037 (mobile_genetic_element)
+T800	SO 13725 13735	constructs
+#800	AnnotatorNotes T800	SO:0001037 (mobile_genetic_element)
+T801	EntrezGene 13781 13785	PAX6
+#801	AnnotatorNotes T801	EG:5080
+T802	PR 13781 13785	PAX6
+#802	AnnotatorNotes T802	PR:000012318 (paired box protein Pax-6)
+T803	SO 13790 13796	domain
+#803	AnnotatorNotes T803	SO:0000417 (polypeptide_domain)
+T804	EntrezGene 13813 13817	PAX6
+#804	AnnotatorNotes T804	EG:5080
+T805	PR 13813 13817	PAX6
+#805	AnnotatorNotes T805	PR:000012318 (paired box protein Pax-6)
+T806	SO 13822 13828	domain
+#806	AnnotatorNotes T806	SO:0000417 (polypeptide_domain)
+T807	SO 13844 13852	mutation
+#807	AnnotatorNotes T807	SO:0001059 (sequence_alteration)
+T808	EntrezGene 13869 13873	PAX6
+#808	AnnotatorNotes T808	EG:5080
+T809	PR 13869 13873	PAX6
+#809	AnnotatorNotes T809	PR:000012318 (paired box protein Pax-6)
+T810	SO 13878 13884	domain
+#810	AnnotatorNotes T810	SO:0000417 (polypeptide_domain)
+T811	SO 13900 13908	mutation
+#811	AnnotatorNotes T811	SO:0001059 (sequence_alteration)
+T812	EntrezGene 13929 13933	PAX6
+#812	AnnotatorNotes T812	EG:5080
+T813	PR 13929 13933	PAX6
+#813	AnnotatorNotes T813	PR:000012318 (paired box protein Pax-6)
+T814	SO 13938 13944	domain
+#814	AnnotatorNotes T814	SO:0000417 (polypeptide_domain)
+T815	SO 13965 13973	mutation
+#815	AnnotatorNotes T815	SO:0001059 (sequence_alteration)
+T816	EntrezGene 13987 13991	PAX6
+#816	AnnotatorNotes T816	EG:5080
+T817	PR 13987 13991	PAX6
+#817	AnnotatorNotes T817	PR:000012318 (paired box protein Pax-6)
+T818	SO 13996 14002	domain
+#818	AnnotatorNotes T818	SO:0000417 (polypeptide_domain)
+T819	SO 14013 14023	C-terminal
+#819	AnnotatorNotes T819	SO:0100015 (c_terminal_region)
+T820	CHEBI 14013 14014	C
+#820	AnnotatorNotes T820	CHEBI:18245 (carboxylato group)
+T821	CHEBI 14013 14014	C
+#821	AnnotatorNotes T821	CHEBI:46883 (carboxy group)
+T822	SO 14024 14031	peptide
+#822	AnnotatorNotes T822	SO:0001407 (peptidyl)
+T823	EntrezGene 14044 14050	HOMER3
+#823	AnnotatorNotes T823	EG:26558
+T824	PR 14044 14050	HOMER3
+#824	AnnotatorNotes T824	PR:000008680 (homer protein 3)
+T825	EntrezGene 14055 14061	HOMER3
+#825	AnnotatorNotes T825	EG:26558
+T826	PR 14055 14061	HOMER3
+#826	AnnotatorNotes T826	PR:000008680 (homer protein 3)
+T827	SO 14074 14084	N-terminal
+#827	AnnotatorNotes T827	SO:0100014 (n_terminal_region)
+T828	CHEBI 14074 14075	N
+#828	AnnotatorNotes T828	CHEBI:46882 (amino group)
+T829	CHEBI 14088 14099	amino acids
+#829	AnnotatorNotes T829	CHEBI:33708 (amino-acid residue)
+T830	SO 14088 14099	amino acids
+#830	AnnotatorNotes T830	SO:0001237 (amino_acid)
+T831	CHEBI 14088 14093	amino
+#831	AnnotatorNotes T831	CHEBI:32952 (amines)
+T832	CHEBI 14088 14093	amino
+#832	AnnotatorNotes T832	CHEBI:46882 (amino group)
+T833	CHEBI 14094 14099	acids
+#833	AnnotatorNotes T833	CHEBI:37527 (acid)
+T834	independent_continuant 14273 14279	mutant
+#834	AnnotatorNotes T834	independent_continuant
+T835	SO 14273 14279	mutant
+#835	AnnotatorNotes T835	SO:0001059 (sequence_alteration)
+T836	EntrezGene 14280 14284	PAX6
+#836	AnnotatorNotes T836	EG:5080
+T837	PR 14280 14284	PAX6
+#837	AnnotatorNotes T837	PR:000012318 (paired box protein Pax-6)
+T838	SO 14285 14295	constructs
+#838	AnnotatorNotes T838	SO:0001037 (mobile_genetic_element)
+T839	EntrezGene 14300 14306	HOMER3
+#839	AnnotatorNotes T839	EG:26558
+T840	PR 14300 14306	HOMER3
+#840	AnnotatorNotes T840	PR:000008680 (homer protein 3)
+T841	EntrezGene 14308 14313	DNCL1
+#841	AnnotatorNotes T841	EG:56455
+T842	PR 14308 14313	DNCL1
+#842	AnnotatorNotes T842	PR:000002325 (dynein light chain 1, cytoplasmic)
+T843	EntrezGene 14318 14324	TRIM11
+#843	AnnotatorNotes T843	EG:94091
+T844	PR 14318 14324	TRIM11
+#844	AnnotatorNotes T844	PR:000016642 (tripartite motif-containing protein 11)
+T845	EntrezGene 14509 14513	PAX6
+#845	AnnotatorNotes T845	EG:5080
+T846	PR 14509 14513	PAX6
+#846	AnnotatorNotes T846	PR:000012318 (paired box protein Pax-6)
+T847	SO 14518 14524	domain
+#847	AnnotatorNotes T847	SO:0000417 (polypeptide_domain)
+T848	EntrezGene 14535 14539	PAX6
+#848	AnnotatorNotes T848	EG:5080
+T849	PR 14535 14539	PAX6
+#849	AnnotatorNotes T849	PR:000012318 (paired box protein Pax-6)
+T850	SO 14540 14550	C-terminal
+#850	AnnotatorNotes T850	SO:0100015 (c_terminal_region)
+T851	CHEBI 14540 14541	C
+#851	AnnotatorNotes T851	CHEBI:18245 (carboxylato group)
+T852	CHEBI 14540 14541	C
+#852	AnnotatorNotes T852	CHEBI:46883 (carboxy group)
+T853	SO 14551 14558	peptide
+#853	AnnotatorNotes T853	SO:0001407 (peptidyl)
+T854	EntrezGene 14572 14576	PAX6
+#854	AnnotatorNotes T854	EG:5080
+T855	PR 14572 14576	PAX6
+#855	AnnotatorNotes T855	PR:000012318 (paired box protein Pax-6)
+T856	SO 14581 14587	domain
+#856	AnnotatorNotes T856	SO:0000417 (polypeptide_domain)
+T857	SO 14598 14608	C-terminal
+#857	AnnotatorNotes T857	SO:0100015 (c_terminal_region)
+T858	CHEBI 14598 14599	C
+#858	AnnotatorNotes T858	CHEBI:18245 (carboxylato group)
+T859	CHEBI 14598 14599	C
+#859	AnnotatorNotes T859	CHEBI:46883 (carboxy group)
+T860	SO 14609 14616	peptide
+#860	AnnotatorNotes T860	SO:0001407 (peptidyl)
+T861	EntrezGene 14633 14637	PAX6
+#861	AnnotatorNotes T861	EG:5080
+T862	PR 14633 14637	PAX6
+#862	AnnotatorNotes T862	PR:000012318 (paired box protein Pax-6)
+T863	SO 14642 14648	domain
+#863	AnnotatorNotes T863	SO:0000417 (polypeptide_domain)
+T864	SO 14664 14672	mutation
+#864	AnnotatorNotes T864	SO:0001059 (sequence_alteration)
+T865	EntrezGene 14689 14693	PAX6
+#865	AnnotatorNotes T865	EG:5080
+T866	PR 14689 14693	PAX6
+#866	AnnotatorNotes T866	PR:000012318 (paired box protein Pax-6)
+T867	SO 14698 14704	domain
+#867	AnnotatorNotes T867	SO:0000417 (polypeptide_domain)
+T868	SO 14720 14728	mutation
+#868	AnnotatorNotes T868	SO:0001059 (sequence_alteration)
+T869	EntrezGene 14747 14751	PAX6
+#869	AnnotatorNotes T869	EG:5080
+T870	PR 14747 14751	PAX6
+#870	AnnotatorNotes T870	PR:000012318 (paired box protein Pax-6)
+T871	SO 14756 14762	domain
+#871	AnnotatorNotes T871	SO:0000417 (polypeptide_domain)
+T872	SO 14783 14791	mutation
+#872	AnnotatorNotes T872	SO:0001059 (sequence_alteration)
+T873	EntrezGene 14793 14799	HOMER3
+#873	AnnotatorNotes T873	EG:26558
+T874	PR 14793 14799	HOMER3
+#874	AnnotatorNotes T874	PR:000008680 (homer protein 3)
+T875	EntrezGene 14804 14810	HOMER3
+#875	AnnotatorNotes T875	EG:26558
+T876	PR 14804 14810	HOMER3
+#876	AnnotatorNotes T876	PR:000008680 (homer protein 3)
+T877	SO 14823 14828	clone
+#877	AnnotatorNotes T877	SO:0000151 (clone)
+T878	EntrezGene 14830 14836	HOMER3
+#878	AnnotatorNotes T878	EG:26558
+T879	PR 14830 14836	HOMER3
+#879	AnnotatorNotes T879	PR:000008680 (homer protein 3)
+T880	EntrezGene 14851 14857	HOMER3
+#880	AnnotatorNotes T880	EG:26558
+T881	PR 14851 14857	HOMER3
+#881	AnnotatorNotes T881	PR:000008680 (homer protein 3)
+T882	SO 14858 14863	clone
+#882	AnnotatorNotes T882	SO:0000151 (clone)
+T883	SO 14876 14886	N-terminal
+#883	AnnotatorNotes T883	SO:0100014 (n_terminal_region)
+T884	CHEBI 14876 14877	N
+#884	AnnotatorNotes T884	CHEBI:46882 (amino group)
+T885	CHEBI 14890 14901	amino acids
+#885	AnnotatorNotes T885	CHEBI:33708 (amino-acid residue)
+T886	SO 14890 14901	amino acids
+#886	AnnotatorNotes T886	SO:0001237 (amino_acid)
+T887	CHEBI 14890 14895	amino
+#887	AnnotatorNotes T887	CHEBI:32952 (amines)
+T888	CHEBI 14890 14895	amino
+#888	AnnotatorNotes T888	CHEBI:46882 (amino group)
+T889	CHEBI 14896 14901	acids
+#889	AnnotatorNotes T889	CHEBI:37527 (acid)
+T890	EntrezGene 14926 14932	HOMER3
+#890	AnnotatorNotes T890	EG:26558
+T891	PR 14926 14932	HOMER3
+#891	AnnotatorNotes T891	PR:000008680 (homer protein 3)
+T892	EntrezGene 14934 14939	DNCL1
+#892	AnnotatorNotes T892	EG:56455
+T893	PR 14934 14939	DNCL1
+#893	AnnotatorNotes T893	PR:000002325 (dynein light chain 1, cytoplasmic)
+T894	EntrezGene 14944 14950	TRIM11
+#894	AnnotatorNotes T894	EG:94091
+T895	PR 14944 14950	TRIM11
+#895	AnnotatorNotes T895	PR:000016642 (tripartite motif-containing protein 11)
+T896	EntrezGene 14969 14973	PAX6
+#896	AnnotatorNotes T896	EG:5080
+T897	PR 14969 14973	PAX6
+#897	AnnotatorNotes T897	PR:000012318 (paired box protein Pax-6)
+T898	SO 14978 14984	domain
+#898	AnnotatorNotes T898	SO:0000417 (polypeptide_domain)
+T899	SO 15051 15061	C-terminal
+#899	AnnotatorNotes T899	SO:0100015 (c_terminal_region)
+T900	CHEBI 15051 15052	C
+#900	AnnotatorNotes T900	CHEBI:18245 (carboxylato group)
+T901	CHEBI 15051 15052	C
+#901	AnnotatorNotes T901	CHEBI:46883 (carboxy group)
+T902	EntrezGene 15062 15066	PAX6
+#902	AnnotatorNotes T902	EG:5080
+T903	PR 15062 15066	PAX6
+#903	AnnotatorNotes T903	PR:000012318 (paired box protein Pax-6)
+T904	SO 15067 15076	mutations
+#904	AnnotatorNotes T904	SO:0001059 (sequence_alteration)
+T905	SO 15158 15166	mutation
+#905	AnnotatorNotes T905	SO:0001059 (sequence_alteration)
+T906	SO 15179 15189	nucleotide
+#906	AnnotatorNotes T906	SO:0001236 (base)
+T907	SO 15190 15202	substitution
+#907	AnnotatorNotes T907	SO:1000002 (substitution)
+T908	CHEBI 15209 15210	G
+#908	AnnotatorNotes T908	CHEBI:30755 (guanine group)
+T909	CHEBI 15225 15257	glutamine to arginine amino acid
+#909	AnnotatorNotes T909	"glutamine .. amino acid" CHEBI:32677 (glutamine residue)
+T910	CHEBI 15225 15234	glutamine
+#910	AnnotatorNotes T910	CHEBI:28300 (glutamine)
+T911	SO 15225 15234	glutamine
+#911	AnnotatorNotes T911	SO:0001448 (glutamine)
+T912	CHEBI 15238 15257	arginine amino acid
+#912	AnnotatorNotes T912	CHEBI:32700 (arginine residue)
+T913	CHEBI 15238 15246	arginine
+#913	AnnotatorNotes T913	CHEBI:29016 (arginine)
+T914	SO 15238 15246	arginine
+#914	AnnotatorNotes T914	SO:0001451 (argenine)
+T915	SO 15247 15257	amino acid
+#915	AnnotatorNotes T915	SO:0001237 (amino_acid)
+T916	CHEBI 15247 15252	amino
+#916	AnnotatorNotes T916	CHEBI:32952 (amines)
+T917	CHEBI 15247 15252	amino
+#917	AnnotatorNotes T917	CHEBI:46882 (amino group)
+T918	CHEBI 15253 15257	acid
+#918	AnnotatorNotes T918	CHEBI:37527 (acid)
+T919	SO 15258 15270	substitution
+#919	AnnotatorNotes T919	SO:1000002 (substitution)
+T920	SO 15283 15288	codon
+#920	AnnotatorNotes T920	SO:0000360 (codon)
+T921	EntrezGene 15292 15296	PAX6
+#921	AnnotatorNotes T921	EG:5080
+T922	PR 15292 15296	PAX6
+#922	AnnotatorNotes T922	PR:000012318 (paired box protein Pax-6)
+T923	SO 15312 15320	mutation
+#923	AnnotatorNotes T923	SO:0001059 (sequence_alteration)
+T924	SO 15502 15510	mutation
+#924	AnnotatorNotes T924	SO:0001059 (sequence_alteration)
+T925	SO 15566 15580	frame-shifting
+#925	AnnotatorNotes T925	SO:0000865 (frameshift)
+T926	SO 15581 15589	deletion
+#926	AnnotatorNotes T926	SO:0000159 (deletion)
+T927	italic 15613 15617	PAX6
+#927	AnnotatorNotes T927	italic (null)
+T928	PR 15613 15617	PAX6
+#928	AnnotatorNotes T928	PR:000012318 (paired box protein Pax-6)
+T929	EntrezGene 15613 15617	PAX6
+#929	AnnotatorNotes T929	EG:5080
+T930	SO 15618 15628	stop codon
+#930	AnnotatorNotes T930	SO:0000319 (stop_codon)
+T931	GO_BP 15618 15622	stop
+#931	AnnotatorNotes T931	GO:0006353 (transcription termination)
+T932	GO_BP 15618 15622	stop
+#932	AnnotatorNotes T932	GO:0006415 (translational termination)
+T933	GO_BP 15655 15681	translational read-through
+#933	AnnotatorNotes T933	GO:0006451 (translational readthrough)
+T934	GO_BP 15655 15668	translational
+#934	AnnotatorNotes T934	GO:0006412 (translation)
+T935	SO 15691 15713	3' untranslated region
+#935	AnnotatorNotes T935	SO:0000205 (three_prime_UTR)
+T936	GO_BP 15715 15725	generating
+#936	AnnotatorNotes T936	GO:0009058 (biosynthetic process)
+T937	CHEBI 15728 15735	protein
+#937	AnnotatorNotes T937	CHEBI:36080 (proteins)
+T938	CHEBI 15756 15767	amino acids
+#938	AnnotatorNotes T938	CHEBI:33708 (amino-acid residue)
+T939	SO 15756 15767	amino acids
+#939	AnnotatorNotes T939	SO:0001237 (amino_acid)
+T940	CHEBI 15756 15761	amino
+#940	AnnotatorNotes T940	CHEBI:32952 (amines)
+T941	CHEBI 15756 15761	amino
+#941	AnnotatorNotes T941	CHEBI:46882 (amino group)
+T942	CHEBI 15762 15767	acids
+#942	AnnotatorNotes T942	CHEBI:37527 (acid)
+T943	SO 15775 15785	C-terminal
+#943	AnnotatorNotes T943	SO:0100015 (c_terminal_region)
+T944	CHEBI 15775 15776	C
+#944	AnnotatorNotes T944	CHEBI:18245 (carboxylato group)
+T945	CHEBI 15775 15776	C
+#945	AnnotatorNotes T945	CHEBI:46883 (carboxy group)
+T946	SO 15786 15793	peptide
+#946	AnnotatorNotes T946	SO:0001407 (peptidyl)
+T947	SO 15798 15806	replaced
+#947	AnnotatorNotes T947	SO:0000048 (substitute)
+T948	CHEBI 15816 15826	amino acid
+#948	AnnotatorNotes T948	CHEBI:33708 (amino-acid residue)
+T949	SO 15816 15826	amino acid
+#949	AnnotatorNotes T949	SO:0001237 (amino_acid)
+T950	CHEBI 15816 15821	amino
+#950	AnnotatorNotes T950	CHEBI:32952 (amines)
+T951	CHEBI 15816 15821	amino
+#951	AnnotatorNotes T951	CHEBI:46882 (amino group)
+T952	CHEBI 15822 15826	acid
+#952	AnnotatorNotes T952	CHEBI:37527 (acid)
+T953	NCBITaxon 15847 15858	individuals
+#953	AnnotatorNotes T953	NCBITaxon:1 (root)
+T954	GO_BP 15939 15948	cognition
+#954	AnnotatorNotes T954	GO:0050890 (cognition)
+T955	SO 16147 16155	mutation
+#955	AnnotatorNotes T955	SO:0001059 (sequence_alteration)
+T956	SO 16235 16244	Insertion
+#956	AnnotatorNotes T956	SO:0000046 (insert)
+T957	CHEBI 16257 16258	T
+#957	AnnotatorNotes T957	CHEBI:30757 (thymin-1-yl group)
+T958	SO 16259 16269	nucleotide
+#958	AnnotatorNotes T958	SO:0001236 (base)
+T959	SO 16273 16281	position
+#959	AnnotatorNotes T959	SO:0000001 (region)
+T960	SO 16287 16294	changes
+#960	AnnotatorNotes T960	SO:0000041 (sequence_operation)
+T961	SO 16299 16309	stop codon
+#961	AnnotatorNotes T961	SO:0000319 (stop_codon)
+T962	GO_BP 16299 16303	stop
+#962	AnnotatorNotes T962	GO:0006415 (translational termination)
+T963	GO_BP 16299 16303	stop
+#963	AnnotatorNotes T963	GO:0006353 (transcription termination)
+T964	CHEBI 16321 16328	leucine
+#964	AnnotatorNotes T964	CHEBI:32630 (leucine residue)
+T965	SO 16321 16328	leucine
+#965	AnnotatorNotes T965	SO:0001437 (leucine)
+T966	SO 16329 16334	codon
+#966	AnnotatorNotes T966	SO:0000360 (codon)
+T967	GO_BP 16345 16354	generates
+#967	AnnotatorNotes T967	GO:0009058 (biosynthetic process)
+T968	EntrezGene 16369 16373	PAX6
+#968	AnnotatorNotes T968	EG:5080
+T969	PR 16369 16373	PAX6
+#969	AnnotatorNotes T969	PR:000012318 (paired box protein Pax-6)
+T970	CHEBI 16374 16381	protein
+#970	AnnotatorNotes T970	CHEBI:36080 (proteins)
+T971	SO 16389 16399	C-terminal
+#971	AnnotatorNotes T971	SO:0100015 (c_terminal_region)
+T972	CHEBI 16389 16390	C
+#972	AnnotatorNotes T972	CHEBI:18245 (carboxylato group)
+T973	CHEBI 16389 16390	C
+#973	AnnotatorNotes T973	CHEBI:46883 (carboxy group)
+T974	CHEBI 16440 16451	amino acids
+#974	AnnotatorNotes T974	CHEBI:33708 (amino-acid residue)
+T975	SO 16440 16451	amino acids
+#975	AnnotatorNotes T975	SO:0001237 (amino_acid)
+T976	CHEBI 16440 16445	amino
+#976	AnnotatorNotes T976	CHEBI:32952 (amines)
+T977	CHEBI 16440 16445	amino
+#977	AnnotatorNotes T977	CHEBI:46882 (amino group)
+T978	CHEBI 16446 16451	acids
+#978	AnnotatorNotes T978	CHEBI:37527 (acid)
+T979	SO 16461 16483	3' untranslated region
+#979	AnnotatorNotes T979	SO:0000205 (three_prime_UTR)
+T980	SO 16524 16532	mutation
+#980	AnnotatorNotes T980	SO:0001059 (sequence_alteration)
+T981	GO_BP 16642 16651	olfactory
+#981	AnnotatorNotes T981	GO:0007608 (sensory perception of smell)
+T982	SO 16756 16765	mutations
+#982	AnnotatorNotes T982	SO:0001059 (sequence_alteration)
+T983	SO 16799 16808	construct
+#983	AnnotatorNotes T983	SO:0001037 (mobile_genetic_element)
+T984	SO 16885 16891	mutant
+#984	AnnotatorNotes T984	SO:0001059 (sequence_alteration)
+T985	CHEBI 16892 16899	protein
+#985	AnnotatorNotes T985	CHEBI:36080 (proteins)
+T986	EntrezGene 16905 16911	HOMER3
+#986	AnnotatorNotes T986	EG:26558
+T987	PR 16905 16911	HOMER3
+#987	AnnotatorNotes T987	PR:000008680 (homer protein 3)
+T988	EntrezGene 16913 16918	DNCL1
+#988	AnnotatorNotes T988	EG:56455
+T989	PR 16913 16918	DNCL1
+#989	AnnotatorNotes T989	PR:000002325 (dynein light chain 1, cytoplasmic)
+T990	EntrezGene 16923 16929	TRIM11
+#990	AnnotatorNotes T990	EG:94091
+T991	PR 16923 16929	TRIM11
+#991	AnnotatorNotes T991	PR:000016642 (tripartite motif-containing protein 11)
+T992	SO 16941 16950	mutations
+#992	AnnotatorNotes T992	SO:0001059 (sequence_alteration)
+T993	SO 17007 17015	mutation
+#993	AnnotatorNotes T993	SO:0001059 (sequence_alteration)
+T994	EntrezGene 17067 17073	HOMER3
+#994	AnnotatorNotes T994	EG:26558
+T995	PR 17067 17073	HOMER3
+#995	AnnotatorNotes T995	PR:000008680 (homer protein 3)
+T996	EntrezGene 17078 17083	DNCL1
+#996	AnnotatorNotes T996	EG:56455
+T997	PR 17078 17083	DNCL1
+#997	AnnotatorNotes T997	PR:000002325 (dynein light chain 1, cytoplasmic)
+T998	SO 17109 17119	C-terminal
+#998	AnnotatorNotes T998	SO:0100015 (c_terminal_region)
+T999	CHEBI 17109 17110	C
+#999	AnnotatorNotes T999	CHEBI:18245 (carboxylato group)
+T1000	CHEBI 17109 17110	C
+#1000	AnnotatorNotes T1000	CHEBI:46883 (carboxy group)
+T1001	SO 17130 17139	mutations
+#1001	AnnotatorNotes T1001	SO:0001059 (sequence_alteration)
+T1002	SO 17159 17168	mutations
+#1002	AnnotatorNotes T1002	SO:0001059 (sequence_alteration)
+T1003	EntrezGene 17229 17235	HOMER3
+#1003	AnnotatorNotes T1003	EG:26558
+T1004	PR 17229 17235	HOMER3
+#1004	AnnotatorNotes T1004	PR:000008680 (homer protein 3)
+T1005	EntrezGene 17240 17245	DNCL1
+#1005	AnnotatorNotes T1005	EG:56455
+T1006	PR 17240 17245	DNCL1
+#1006	AnnotatorNotes T1006	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1007	SO 17286 17295	mutations
+#1007	AnnotatorNotes T1007	SO:0001059 (sequence_alteration)
+T1008	EntrezGene 17326 17332	TRIM11
+#1008	AnnotatorNotes T1008	EG:94091
+T1009	PR 17326 17332	TRIM11
+#1009	AnnotatorNotes T1009	PR:000016642 (tripartite motif-containing protein 11)
+T1010	EntrezGene 17384 17390	TRIM11
+#1010	AnnotatorNotes T1010	EG:94091
+T1011	PR 17384 17390	TRIM11
+#1011	AnnotatorNotes T1011	PR:000016642 (tripartite motif-containing protein 11)
+T1012	SO 17413 17423	N-terminal
+#1012	AnnotatorNotes T1012	SO:0100014 (n_terminal_region)
+T1013	CHEBI 17413 17414	N
+#1013	AnnotatorNotes T1013	CHEBI:46882 (amino group)
+T1014	SO 17424 17428	part
+#1014	AnnotatorNotes T1014	SO:0000001 (region)
+T1015	SO 17440 17446	domain
+#1015	AnnotatorNotes T1015	SO:0000417 (polypeptide_domain)
+T1016	SO 17477 17496	secondary structure
+#1016	AnnotatorNotes T1016	SO:0001078 (polypeptide_secondary_structure)
+T1017	SO 17513 17532	amino acid sequence
+#1017	AnnotatorNotes T1017	SO:0001407 (peptidyl)
+T1018	CHEBI 17513 17523	amino acid
+#1018	AnnotatorNotes T1018	CHEBI:33708 (amino-acid residue)
+T1019	SO 17513 17523	amino acid
+#1019	AnnotatorNotes T1019	SO:0001237 (amino_acid)
+T1020	CHEBI 17513 17518	amino
+#1020	AnnotatorNotes T1020	CHEBI:32952 (amines)
+T1021	CHEBI 17513 17518	amino
+#1021	AnnotatorNotes T1021	CHEBI:46882 (amino group)
+T1022	CHEBI 17519 17523	acid
+#1022	AnnotatorNotes T1022	CHEBI:37527 (acid)
+T1023	SO 17533 17545	conservation
+#1023	AnnotatorNotes T1023	SO:0000856 (conserved)
+T1024	EntrezGene 17566 17570	PAX6
+#1024	AnnotatorNotes T1024	EG:5080
+T1025	PR 17566 17570	PAX6
+#1025	AnnotatorNotes T1025	PR:000012318 (paired box protein Pax-6)
+T1026	CHEBI 17571 17578	protein
+#1026	AnnotatorNotes T1026	CHEBI:36080 (proteins)
+T1027	SO 17579 17585	domain
+#1027	AnnotatorNotes T1027	SO:0000417 (polypeptide_domain)
+T1028	SO 17612 17622	C-terminal
+#1028	AnnotatorNotes T1028	SO:0100015 (c_terminal_region)
+T1029	CHEBI 17612 17613	C
+#1029	AnnotatorNotes T1029	CHEBI:18245 (carboxylato group)
+T1030	CHEBI 17612 17613	C
+#1030	AnnotatorNotes T1030	CHEBI:46883 (carboxy group)
+T1031	SO 17623 17630	peptide
+#1031	AnnotatorNotes T1031	SO:0001407 (peptidyl)
+T1032	NCBITaxon 17645 17650	yeast
+#1032	AnnotatorNotes T1032	NCBITaxon:4892 (Saccharomycetales)
+T1033	SO 17687 17697	C-terminal
+#1033	AnnotatorNotes T1033	SO:0100015 (c_terminal_region)
+T1034	CHEBI 17687 17688	C
+#1034	AnnotatorNotes T1034	CHEBI:18245 (carboxylato group)
+T1035	CHEBI 17687 17688	C
+#1035	AnnotatorNotes T1035	CHEBI:46883 (carboxy group)
+T1036	SO 17698 17705	peptide
+#1036	AnnotatorNotes T1036	SO:0001407 (peptidyl)
+T1037	SO 17724 17730	domain
+#1037	AnnotatorNotes T1037	SO:0000417 (polypeptide_domain)
+T1038	CHEBI 17773 17781	proteins
+#1038	AnnotatorNotes T1038	CHEBI:36080 (proteins)
+T1039	EntrezGene 17783 17789	HOMER3
+#1039	AnnotatorNotes T1039	EG:26558
+T1040	PR 17783 17789	HOMER3
+#1040	AnnotatorNotes T1040	PR:000008680 (homer protein 3)
+T1041	EntrezGene 17791 17796	DNCL1
+#1041	AnnotatorNotes T1041	EG:56455
+T1042	PR 17791 17796	DNCL1
+#1042	AnnotatorNotes T1042	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1043	EntrezGene 17801 17807	TRIM11
+#1043	AnnotatorNotes T1043	EG:94091
+T1044	PR 17801 17807	TRIM11
+#1044	AnnotatorNotes T1044	PR:000016642 (tripartite motif-containing protein 11)
+T1045	EntrezGene 17829 17835	HOMER3
+#1045	AnnotatorNotes T1045	EG:26558
+T1046	PR 17829 17835	HOMER3
+#1046	AnnotatorNotes T1046	PR:000008680 (homer protein 3)
+T1047	EntrezGene 17840 17845	DNCL1
+#1047	AnnotatorNotes T1047	EG:56455
+T1048	PR 17840 17845	DNCL1
+#1048	AnnotatorNotes T1048	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1049	SO 17866 17876	C-terminal
+#1049	AnnotatorNotes T1049	SO:0100015 (c_terminal_region)
+T1050	CHEBI 17866 17867	C
+#1050	AnnotatorNotes T1050	CHEBI:18245 (carboxylato group)
+T1051	CHEBI 17866 17867	C
+#1051	AnnotatorNotes T1051	CHEBI:46883 (carboxy group)
+T1052	SO 17877 17884	peptide
+#1052	AnnotatorNotes T1052	SO:0001407 (peptidyl)
+T1053	SO 17897 17903	domain
+#1053	AnnotatorNotes T1053	SO:0000417 (polypeptide_domain)
+T1054	EntrezGene 17910 17916	TRIM11
+#1054	AnnotatorNotes T1054	EG:94091
+T1055	PR 17910 17916	TRIM11
+#1055	AnnotatorNotes T1055	PR:000016642 (tripartite motif-containing protein 11)
+T1056	SO 17946 17952	domain
+#1056	AnnotatorNotes T1056	SO:0000417 (polypeptide_domain)
+T1057	EntrezGene 17970 17976	HOMER3
+#1057	AnnotatorNotes T1057	EG:26558
+T1058	PR 17970 17976	HOMER3
+#1058	AnnotatorNotes T1058	PR:000008680 (homer protein 3)
+T1059	EntrezGene 17981 17986	DNCL1
+#1059	AnnotatorNotes T1059	EG:56455
+T1060	PR 17981 17986	DNCL1
+#1060	AnnotatorNotes T1060	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1061	SO 18018 18028	C-terminal
+#1061	AnnotatorNotes T1061	SO:0100015 (c_terminal_region)
+T1062	CHEBI 18018 18019	C
+#1062	AnnotatorNotes T1062	CHEBI:18245 (carboxylato group)
+T1063	CHEBI 18018 18019	C
+#1063	AnnotatorNotes T1063	CHEBI:46883 (carboxy group)
+T1064	SO 18029 18036	peptide
+#1064	AnnotatorNotes T1064	SO:0001407 (peptidyl)
+T1065	EntrezGene 18043 18049	TRIM11
+#1065	AnnotatorNotes T1065	EG:94091
+T1066	PR 18043 18049	TRIM11
+#1066	AnnotatorNotes T1066	PR:000016642 (tripartite motif-containing protein 11)
+T1067	SO 18072 18082	N-terminal
+#1067	AnnotatorNotes T1067	SO:0100014 (n_terminal_region)
+T1068	CHEBI 18072 18073	N
+#1068	AnnotatorNotes T1068	CHEBI:46882 (amino group)
+T1069	SO 18083 18087	part
+#1069	AnnotatorNotes T1069	SO:0000001 (region)
+T1070	SO 18099 18105	domain
+#1070	AnnotatorNotes T1070	SO:0000417 (polypeptide_domain)
+T1071	SO 18140 18146	domain
+#1071	AnnotatorNotes T1071	SO:0000417 (polypeptide_domain)
+T1072	EntrezGene 18151 18157	HOMER3
+#1072	AnnotatorNotes T1072	EG:26558
+T1073	PR 18151 18157	HOMER3
+#1073	AnnotatorNotes T1073	PR:000008680 (homer protein 3)
+T1074	EntrezGene 18159 18164	DNCL1
+#1074	AnnotatorNotes T1074	EG:56455
+T1075	PR 18159 18164	DNCL1
+#1075	AnnotatorNotes T1075	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1076	EntrezGene 18169 18175	TRIM11
+#1076	AnnotatorNotes T1076	EG:94091
+T1077	PR 18169 18175	TRIM11
+#1077	AnnotatorNotes T1077	PR:000016642 (tripartite motif-containing protein 11)
+T1078	EntrezGene 18262 18268	HOMER3
+#1078	AnnotatorNotes T1078	EG:26558
+T1079	PR 18262 18268	HOMER3
+#1079	AnnotatorNotes T1079	PR:000008680 (homer protein 3)
+T1080	EntrezGene 18272 18277	DNCL1
+#1080	AnnotatorNotes T1080	EG:56455
+T1081	PR 18272 18277	DNCL1
+#1081	AnnotatorNotes T1081	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1082	SO 18287 18297	C-terminal
+#1082	AnnotatorNotes T1082	SO:0100015 (c_terminal_region)
+T1083	CHEBI 18287 18288	C
+#1083	AnnotatorNotes T1083	CHEBI:18245 (carboxylato group)
+T1084	CHEBI 18287 18288	C
+#1084	AnnotatorNotes T1084	CHEBI:46883 (carboxy group)
+T1085	SO 18298 18305	peptide
+#1085	AnnotatorNotes T1085	SO:0001407 (peptidyl)
+T1086	SO 18306 18315	construct
+#1086	AnnotatorNotes T1086	SO:0001037 (mobile_genetic_element)
+T1087	SO 18358 18368	C-terminal
+#1087	AnnotatorNotes T1087	SO:0100015 (c_terminal_region)
+T1088	CHEBI 18358 18359	C
+#1088	AnnotatorNotes T1088	CHEBI:18245 (carboxylato group)
+T1089	CHEBI 18358 18359	C
+#1089	AnnotatorNotes T1089	CHEBI:46883 (carboxy group)
+T1090	SO 18369 18376	peptide
+#1090	AnnotatorNotes T1090	SO:0001407 (peptidyl)
+T1091	EntrezGene 18395 18399	PAX6
+#1091	AnnotatorNotes T1091	EG:5080
+T1092	PR 18395 18399	PAX6
+#1092	AnnotatorNotes T1092	PR:000012318 (paired box protein Pax-6)
+T1093	EntrezGene 18400 18406	HOMER3
+#1093	AnnotatorNotes T1093	EG:26558
+T1094	PR 18400 18406	HOMER3
+#1094	AnnotatorNotes T1094	PR:000008680 (homer protein 3)
+T1095	EntrezGene 18410 18414	PAX6
+#1095	AnnotatorNotes T1095	EG:5080
+T1096	PR 18410 18414	PAX6
+#1096	AnnotatorNotes T1096	PR:000012318 (paired box protein Pax-6)
+T1097	EntrezGene 18415 18420	DNCL1
+#1097	AnnotatorNotes T1097	EG:56455
+T1098	PR 18415 18420	DNCL1
+#1098	AnnotatorNotes T1098	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1099	EntrezGene 18441 18447	HOMER3
+#1099	AnnotatorNotes T1099	EG:26558
+T1100	PR 18441 18447	HOMER3
+#1100	AnnotatorNotes T1100	PR:000008680 (homer protein 3)
+T1101	EntrezGene 18452 18457	DNCL1
+#1101	AnnotatorNotes T1101	EG:56455
+T1102	PR 18452 18457	DNCL1
+#1102	AnnotatorNotes T1102	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1103	SO 18486 18492	domain
+#1103	AnnotatorNotes T1103	SO:0000417 (polypeptide_domain)
+T1104	SO 18493 18502	construct
+#1104	AnnotatorNotes T1104	SO:0001037 (mobile_genetic_element)
+T1105	SO 18515 18525	C-terminal
+#1105	AnnotatorNotes T1105	SO:0100015 (c_terminal_region)
+T1106	CHEBI 18515 18516	C
+#1106	AnnotatorNotes T1106	CHEBI:18245 (carboxylato group)
+T1107	CHEBI 18515 18516	C
+#1107	AnnotatorNotes T1107	CHEBI:46883 (carboxy group)
+T1108	SO 18526 18533	peptide
+#1108	AnnotatorNotes T1108	SO:0001407 (peptidyl)
+T1109	PR 18536 18542	HOMER3
+#1109	AnnotatorNotes T1109	PR:000008680 (homer protein 3)
+T1110	GO_CC 18559 18562	PSD
+#1110	AnnotatorNotes T1110	GO:0014069 (postsynaptic density)
+T1111	CL 18566 18573	neurons
+#1111	AnnotatorNotes T1111	CL:0000540 (neuron)
+T1112	GO_MF 18587 18592	binds
+#1112	AnnotatorNotes T1112	GO:0005488 (binding)
+T1113	GO_MF 18616 18635	glutamate receptors
+#1113	AnnotatorNotes T1113	GO:0008066 (glutamate receptor activity)
+T1114	independent_continuant 18616 18635	glutamate receptors
+#1114	AnnotatorNotes T1114	independent_continuant
+T1115	CHEBI 18616 18625	glutamate
+#1115	AnnotatorNotes T1115	CHEBI:14321 (glutamate(1-))
+T1116	CHEBI 18616 18625	glutamate
+#1116	AnnotatorNotes T1116	CHEBI:29987 (glutamate(2-))
+T1117	GO_MF 18651 18666	phospholipase C
+#1117	AnnotatorNotes T1117	GO:0004629 (phospholipase C activity)
+T1118	independent_continuant 18651 18666	phospholipase C
+#1118	AnnotatorNotes T1118	independent_continuant
+T1119	GO_BP 18693 18736	release of Ca2+ from intracellular vesicles
+#1119	AnnotatorNotes T1119	"release .. from intracellular vesicles" GO:0006887 (exocytosis)
+T1120	CHEBI 18704 18708	Ca2+
+#1120	AnnotatorNotes T1120	CHEBI:29108 (calcium(2+))
+T1121	sup 18706 18708	2+
+#1121	AnnotatorNotes T1121	sup (null)
+T1122	GO_CC 18714 18727	intracellular
+#1122	AnnotatorNotes T1122	GO:0005622 (intracellular)
+T1123	GO_CC 18728 18736	vesicles
+#1123	AnnotatorNotes T1123	GO:0031982 (vesicle)
+T1124	PR 18746 18752	HOMER3
+#1124	AnnotatorNotes T1124	PR:000008680 (homer protein 3)
+T1125	CHEBI 18788 18796	proteins
+#1125	AnnotatorNotes T1125	CHEBI:36080 (proteins)
+T1126	GO_BP 18821 18830	expressed
+#1126	AnnotatorNotes T1126	GO:0010467 (gene expression)
+T1127	GO_BP 18868 18887	synaptic signalling
+#1127	AnnotatorNotes T1127	GO:0007268 (synaptic transmission)
+T1128	GO_CC 18868 18876	synaptic
+#1128	AnnotatorNotes T1128	GO:0045202 (synapse)
+T1129	GO_MF 18892 18900	receptor
+#1129	AnnotatorNotes T1129	GO:0004872 (receptor activity)
+T1130	independent_continuant 18892 18900	receptor
+#1130	AnnotatorNotes T1130	independent_continuant
+T1131	GO_BP 18901 18912	trafficking
+#1131	AnnotatorNotes T1131	GO:0006810 (transport)
+T1132	GO_MF 18955 18964	receptors
+#1132	AnnotatorNotes T1132	GO:0004872 (receptor activity)
+T1133	independent_continuant 18955 18964	receptors
+#1133	AnnotatorNotes T1133	independent_continuant
+T1134	GO_CC 18969 18972	PSD
+#1134	AnnotatorNotes T1134	GO:0014069 (postsynaptic density)
+T1135	CHEBI 18985 18993	proteins
+#1135	AnnotatorNotes T1135	CHEBI:36080 (proteins)
+T1136	CHEBI 19012 19020	proteins
+#1136	AnnotatorNotes T1136	CHEBI:36080 (proteins)
+T1137	GO_BP 19050 19063	axon guidance
+#1137	AnnotatorNotes T1137	GO:0007411 (axon guidance)
+T1138	GO_CC 19050 19054	axon
+#1138	AnnotatorNotes T1138	GO:0030424 (axon)
+T1139	GO_BP 19071 19088	brain development
+#1139	AnnotatorNotes T1139	GO:0007420 (brain development)
+T1140	PR 19096 19101	DNCL1
+#1140	AnnotatorNotes T1140	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1141	GO_BP 19122 19145	intracellular transport
+#1141	AnnotatorNotes T1141	GO:0046907 (intracellular transport)
+T1142	GO_CC 19122 19135	intracellular
+#1142	AnnotatorNotes T1142	GO:0005622 (intracellular)
+T1143	GO_CC 19146 19163	protein complexes
+#1143	AnnotatorNotes T1143	GO:0043234 (protein complex)
+T1144	CHEBI 19146 19153	protein
+#1144	AnnotatorNotes T1144	CHEBI:36080 (proteins)
+T1145	GO_CC 19165 19171	dynein
+#1145	AnnotatorNotes T1145	GO:0030286 (dynein complex)
+T1146	PR 19176 19185	myosin Va
+#1146	AnnotatorNotes T1146	PR:000010865 (myosin-Va)
+T1147	GO_CC 19176 19182	myosin
+#1147	AnnotatorNotes T1147	GO:0016459 (myosin complex)
+T1148	GO_CC 19192 19198	Dynein
+#1148	AnnotatorNotes T1148	GO:0030286 (dynein complex)
+T1149	PR 19203 19212	myosin Va
+#1149	AnnotatorNotes T1149	PR:000010865 (myosin-Va)
+T1150	GO_CC 19203 19209	myosin
+#1150	AnnotatorNotes T1150	GO:0016459 (myosin complex)
+T1151	GO_BP 19233 19275	microtubule-based and actin-based movement
+#1151	AnnotatorNotes T1151	"microtubule-based .. movement" GO:0007018 (microtubule-based movement)
+T1152	GO_CC 19233 19244	microtubule
+#1152	AnnotatorNotes T1152	GO:0005874 (microtubule)
+T1153	GO_BP 19255 19275	actin-based movement
+#1153	AnnotatorNotes T1153	GO:0030048 (actin filament-based movement)
+T1154	GO_BP 19267 19325	movement respectively of proteins, organelles and vesicles
+#1154	AnnotatorNotes T1154	"movement .. of .. vesicles" GO:0051648 (vesicle localization)
+T1155	GO_BP 19267 19312	movement respectively of proteins, organelles
+#1155	AnnotatorNotes T1155	"movement .. of .. organelles" GO:0051640 (organelle localization)
+T1156	GO_BP 19267 19300	movement respectively of proteins
+#1156	AnnotatorNotes T1156	"movement .. of proteins" GO:0015031 (protein transport)
+T1157	CHEBI 19292 19300	proteins
+#1157	AnnotatorNotes T1157	CHEBI:36080 (proteins)
+T1158	GO_CC 19302 19312	organelles
+#1158	AnnotatorNotes T1158	GO:0043226 (organelle)
+T1159	GO_CC 19317 19325	vesicles
+#1159	AnnotatorNotes T1159	GO:0031982 (vesicle)
+T1160	CL 19329 19336	neurons
+#1160	AnnotatorNotes T1160	CL:0000540 (neuron)
+T1161	PR 19346 19355	Myosin Va
+#1161	AnnotatorNotes T1161	PR:000010865 (myosin-Va)
+T1162	GO_CC 19346 19352	Myosin
+#1162	AnnotatorNotes T1162	GO:0016459 (myosin complex)
+T1163	GO_CC 19375 19378	PSD
+#1163	AnnotatorNotes T1163	GO:0014069 (postsynaptic density)
+T1164	PR 19389 19394	DNCL1
+#1164	AnnotatorNotes T1164	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1165	GO_MF 19395 19400	binds
+#1165	AnnotatorNotes T1165	GO:0005488 (binding)
+T1166	GO_CC 19417 19420	PSD
+#1166	AnnotatorNotes T1166	GO:0014069 (postsynaptic density)
+T1167	CHEBI 19421 19429	proteins
+#1167	AnnotatorNotes T1167	CHEBI:36080 (proteins)
+T1168	PR 19440 19482	guanylate kinase domain-associated protein
+#1168	AnnotatorNotes T1168	PR:000006516 (disks large-associated protein 1)
+T1169	GO_MF 19440 19456	guanylate kinase
+#1169	AnnotatorNotes T1169	GO:0004385 (guanylate kinase activity)
+T1170	PR 19440 19456	guanylate kinase
+#1170	AnnotatorNotes T1170	PR:000008356 (guanylate kinase)
+T1171	independent_continuant 19440 19456	guanylate kinase
+#1171	AnnotatorNotes T1171	independent_continuant
+T1172	CHEBI 19440 19449	guanylate
+#1172	AnnotatorNotes T1172	CHEBI:17345 (GMP)
+T1173	SO 19457 19463	domain
+#1173	AnnotatorNotes T1173	SO:0000417 (polypeptide_domain)
+T1174	CHEBI 19475 19482	protein
+#1174	AnnotatorNotes T1174	CHEBI:36080 (proteins)
+T1175	PR 19492 19522	neuronal nitric oxide synthase
+#1175	AnnotatorNotes T1175	PR:000011326 (nitric oxide synthase, brain)
+T1176	CL 19492 19500	neuronal
+#1176	AnnotatorNotes T1176	CL:0000540 (neuron)
+T1177	GO_MF 19501 19522	nitric oxide synthase
+#1177	AnnotatorNotes T1177	GO:0004517 (nitric-oxide synthase activity)
+T1178	independent_continuant 19501 19522	nitric oxide synthase
+#1178	AnnotatorNotes T1178	independent_continuant
+T1179	CHEBI 19501 19513	nitric oxide
+#1179	AnnotatorNotes T1179	CHEBI:16480 (nitrosyl)
+T1180	CHEBI 19501 19507	nitric
+#1180	AnnotatorNotes T1180	CHEBI:25555 (nitrogen)
+T1181	EntrezGene 19530 19536	TRIM11
+#1181	AnnotatorNotes T1181	EG:94091
+T1182	PR 19530 19536	TRIM11
+#1182	AnnotatorNotes T1182	PR:000016642 (tripartite motif-containing protein 11)
+T1183	NCBITaxon 19556 19561	mouse
+#1183	AnnotatorNotes T1183	NCBITaxon:10088 (Mus)
+T1184	CHEBI 19579 19586	protein
+#1184	AnnotatorNotes T1184	CHEBI:36080 (proteins)
+T1185	CHEBI 19691 19698	protein
+#1185	AnnotatorNotes T1185	CHEBI:36080 (proteins)
+T1186	SO 19724 19729	B-box
+#1186	AnnotatorNotes T1186	SO:0000620 (B_box)
+T1187	CHEBI 19730 19734	zinc
+#1187	AnnotatorNotes T1187	CHEBI:27363 (zinc)
+T1188	SO 19749 19760	coiled coil
+#1188	AnnotatorNotes T1188	SO:0001080 (coiled_coil)
+T1189	SO 19761 19767	domain
+#1189	AnnotatorNotes T1189	SO:0000417 (polypeptide_domain)
+T1190	SO 19788 19794	domain
+#1190	AnnotatorNotes T1190	SO:0000417 (polypeptide_domain)
+T1191	CHEBI 19834 19842	proteins
+#1191	AnnotatorNotes T1191	CHEBI:36080 (proteins)
+T1192	PR 19849 19855	TRIM11
+#1192	AnnotatorNotes T1192	PR:000016642 (tripartite motif-containing protein 11)
+T1193	EntrezGene 19871 19878	Humanin
+#1193	AnnotatorNotes T1193	EG:4550
+T1194	PR 19871 19878	Humanin
+#1194	AnnotatorNotes T1194	PR:000008649 (humanin)
+T1195	CHEBI 19882 19889	protein
+#1195	AnnotatorNotes T1195	CHEBI:36080 (proteins)
+T1196	GO_BP 19895 19905	suppresses
+#1196	AnnotatorNotes T1196	GO:0048519 (negative regulation of biological process)
+T1197	PR 19966 19972	TRIM11
+#1197	AnnotatorNotes T1197	PR:000016642 (tripartite motif-containing protein 11)
+T1198	EntrezGene 19980 19987	Humanin
+#1198	AnnotatorNotes T1198	EG:4550
+T1199	PR 19980 19987	Humanin
+#1199	AnnotatorNotes T1199	PR:000008649 (humanin)
+T1200	GO_BP 20034 20075	ubiqutin-mediated proteasomal degradation
+#1200	AnnotatorNotes T1200	GO:0043161 (proteasomal ubiquitin-dependent protein catabolic process)
+T1201	PR 20034 20042	ubiqutin
+#1201	AnnotatorNotes T1201	PR:000016963 (ubiquitin)
+T1202	GO_CC 20052 20063	proteasomal
+#1202	AnnotatorNotes T1202	GO:0000502 (proteasome complex (sensu Eukaryota))
+T1203	EntrezGene 20269 20273	PAX6
+#1203	AnnotatorNotes T1203	EG:18508
+T1204	PR 20269 20273	PAX6
+#1204	AnnotatorNotes T1204	PR:000012318 (paired box protein Pax-6)
+T1205	EntrezGene 20279 20285	HOMER3
+#1205	AnnotatorNotes T1205	EG:26558
+T1206	PR 20279 20285	HOMER3
+#1206	AnnotatorNotes T1206	PR:000008680 (homer protein 3)
+T1207	EntrezGene 20290 20295	DNCL1
+#1207	AnnotatorNotes T1207	EG:56455
+T1208	PR 20290 20295	DNCL1
+#1208	AnnotatorNotes T1208	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1209	GO_BP 20337 20356	synaptic signalling
+#1209	AnnotatorNotes T1209	GO:0007268 (synaptic transmission)
+T1210	GO_CC 20337 20345	synaptic
+#1210	AnnotatorNotes T1210	GO:0045202 (synapse)
+T1211	GO_BP 20375 20390	gene expression
+#1211	AnnotatorNotes T1211	GO:0010467 (gene expression)
+T1212	SO 20375 20379	gene
+#1212	AnnotatorNotes T1212	SO:0000704 (gene)
+T1213	EntrezGene 20408 20412	PAX6
+#1213	AnnotatorNotes T1213	EG:18508
+T1214	PR 20408 20412	PAX6
+#1214	AnnotatorNotes T1214	PR:000012318 (paired box protein Pax-6)
+T1215	GO_BP 20416 20427	sequestered
+#1215	AnnotatorNotes T1215	GO:0051235 (maintenance of localization)
+T1216	GO_CC 20435 20438	PSD
+#1216	AnnotatorNotes T1216	GO:0014069 (postsynaptic density)
+T1217	GO_MF 20442 20449	binding
+#1217	AnnotatorNotes T1217	GO:0005488 (binding)
+T1218	EntrezGene 20453 20459	HOMER3
+#1218	AnnotatorNotes T1218	EG:26558
+T1219	PR 20453 20459	HOMER3
+#1219	AnnotatorNotes T1219	PR:000008680 (homer protein 3)
+T1220	GO_MF 20467 20475	receptor
+#1220	AnnotatorNotes T1220	GO:0004872 (receptor activity)
+T1221	independent_continuant 20467 20475	receptor
+#1221	AnnotatorNotes T1221	independent_continuant
+T1222	CHEBI 20516 20524	proteins
+#1222	AnnotatorNotes T1222	CHEBI:36080 (proteins)
+T1223	EntrezGene 20531 20535	PAX6
+#1223	AnnotatorNotes T1223	EG:5080
+T1224	PR 20531 20535	PAX6
+#1224	AnnotatorNotes T1224	PR:000012318 (paired box protein Pax-6)
+T1225	GO_BP 20567 20584	synaptic activity
+#1225	AnnotatorNotes T1225	GO:0007268 (synaptic transmission)
+T1226	GO_CC 20567 20575	synaptic
+#1226	AnnotatorNotes T1226	GO:0045202 (synapse)
+T1227	EntrezGene 20615 20620	DNCL1
+#1227	AnnotatorNotes T1227	EG:8655
+T1228	PR 20615 20620	DNCL1
+#1228	AnnotatorNotes T1228	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1229	EntrezGene 20626 20630	PAX6
+#1229	AnnotatorNotes T1229	EG:5080
+T1230	PR 20626 20630	PAX6
+#1230	AnnotatorNotes T1230	PR:000012318 (paired box protein Pax-6)
+T1231	EntrezGene 20631 20636	DNCL1
+#1231	AnnotatorNotes T1231	EG:56455
+T1232	PR 20631 20636	DNCL1
+#1232	AnnotatorNotes T1232	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1233	GO_CC 20637 20644	complex
+#1233	AnnotatorNotes T1233	GO:0032991 (macromolecular complex)
+T1234	GO_BP 20671 20743	myosin Va-mediated transport along the PSD-associated actin cytoskeleton
+#1234	AnnotatorNotes T1234	"myosin .. -mediated transport along .. actin cytoskeleton" GO:0033275 (actin-myosin filament sliding)
+T1235	PR 20671 20680	myosin Va
+#1235	AnnotatorNotes T1235	PR:000010865 (myosin-Va)
+T1236	GO_CC 20671 20677	myosin
+#1236	AnnotatorNotes T1236	GO:0016459 (myosin complex)
+T1237	GO_CC 20710 20713	PSD
+#1237	AnnotatorNotes T1237	GO:0014069 (postsynaptic density)
+T1238	GO_CC 20725 20743	actin cytoskeleton
+#1238	AnnotatorNotes T1238	GO:0015629 (actin cytoskeleton)
+T1239	GO_CC 20756 20762	dynein
+#1239	AnnotatorNotes T1239	GO:0030286 (dynein complex)
+T1240	GO_BP 20772 20811	transport along the microtubule network
+#1240	AnnotatorNotes T1240	"transport along .. microtubule network" GO:0007018 (microtubule-based movement)
+T1241	GO_CC 20792 20803	microtubule
+#1241	AnnotatorNotes T1241	GO:0005874 (microtubule)
+T1242	GO_CC 20837 20844	nucleus
+#1242	AnnotatorNotes T1242	GO:0005634 (nucleus)
+T1243	PR 20857 20863	TRIM11
+#1243	AnnotatorNotes T1243	PR:000016642 (tripartite motif-containing protein 11)
+T1244	GO_BP 20881 20900	protein degradation
+#1244	AnnotatorNotes T1244	GO:0030163 (protein catabolic process)
+T1245	CHEBI 20881 20888	protein
+#1245	AnnotatorNotes T1245	CHEBI:36080 (proteins)
+T1246	EntrezGene 20929 20933	PAX6
+#1246	AnnotatorNotes T1246	EG:5080
+T1247	PR 20929 20933	PAX6
+#1247	AnnotatorNotes T1247	PR:000012318 (paired box protein Pax-6)
+T1248	CHEBI 20934 20941	protein
+#1248	AnnotatorNotes T1248	CHEBI:36080 (proteins)
+T1249	independent_continuant 20983 21004	transcription factors
+#1249	AnnotatorNotes T1249	independent_continuant
+T1250	GO_MF 20983 21004	transcription factors
+#1250	AnnotatorNotes T1250	GO:0003700 (transcription factor activity)
+T1251	GO_BP 20983 20996	transcription
+#1251	AnnotatorNotes T1251	GO:0006350 (transcription)
+T1252	GO_CC 21014 21035	post-synaptic density
+#1252	AnnotatorNotes T1252	GO:0014069 (postsynaptic density)
+T1253	GO_CC 21019 21027	synaptic
+#1253	AnnotatorNotes T1253	GO:0045202 (synapse)
+T1254	PR 21044 21049	STAT3
+#1254	AnnotatorNotes T1254	PR:000002089 (signal transducer and activator of transcription 3)
+T1255	CHEBI 21073 21083	messengers
+#1255	AnnotatorNotes T1255	CHEBI:33280 (molecular messenger)
+T1256	GO_CC 21096 21103	synapse
+#1256	AnnotatorNotes T1256	GO:0045202 (synapse)
+T1257	GO_CC 21112 21119	nucleus
+#1257	AnnotatorNotes T1257	GO:0005634 (nucleus)
+T1258	PR 21154 21158	PAX6
+#1258	AnnotatorNotes T1258	PR:000012318 (paired box protein Pax-6)
+T1259	CHEBI 21159 21166	protein
+#1259	AnnotatorNotes T1259	CHEBI:36080 (proteins)
+T1260	GO_CC 21184 21191	nuclear
+#1260	AnnotatorNotes T1260	GO:0005634 (nucleus)
+T1261	NCBITaxon 21219 21224	mouse
+#1261	AnnotatorNotes T1261	NCBITaxon:10088 (Mus)
+T1262	NCBITaxon 21226 21231	quail
+#1262	AnnotatorNotes T1262	NCBITaxon:93934 (Coturnix japonica)
+T1263	NCBITaxon 21236 21244	nematode
+#1263	AnnotatorNotes T1263	NCBITaxon:6231 (Nematoda)
+T1264	SO 21252 21259	isoform
+#1264	AnnotatorNotes T1264	SO:0001060 (sequence_variant)
+T1265	SO 21282 21288	domain
+#1265	AnnotatorNotes T1265	SO:0000417 (polypeptide_domain)
+T1266	GO_CC 21298 21305	nuclear
+#1266	AnnotatorNotes T1266	GO:0005634 (nucleus)
+T1267	GO_CC 21310 21321	cytoplasmic
+#1267	AnnotatorNotes T1267	GO:0005737 (cytoplasm)
+T1268	GO_MF 21327 21332	binds
+#1268	AnnotatorNotes T1268	GO:0005488 (binding)
+T1269	SO 21333 21336	DNA
+#1269	AnnotatorNotes T1269	SO:0000352 (DNA)
+T1270	NCBITaxon 21379 21383	mice
+#1270	AnnotatorNotes T1270	NCBITaxon:10088 (Mus)
+T1271	SO 21400 21407	isoform
+#1271	AnnotatorNotes T1271	SO:0001060 (sequence_variant)
+T1272	GO_BP 21458 21482	subcellular localisation
+#1272	AnnotatorNotes T1272	GO:0051641 (cellular localization)
+T1273	CL 21486 21494	neurones
+#1273	AnnotatorNotes T1273	CL:0000540 (neuron)
+T1274	GO_CC 21543 21546	PSD
+#1274	AnnotatorNotes T1274	GO:0014069 (postsynaptic density)
+T1275	GO_BP 21591 21615	subcellular localisation
+#1275	AnnotatorNotes T1275	GO:0051641 (cellular localization)
+T1276	GO_BP 21603 21652	localisation of the putative interacting proteins
+#1276	AnnotatorNotes T1276	"localisation of .. proteins" GO:0008104 (protein localization)
+T1277	CHEBI 21644 21652	proteins
+#1277	AnnotatorNotes T1277	CHEBI:36080 (proteins)
+T1278	PR 21654 21660	HOMER3
+#1278	AnnotatorNotes T1278	PR:000008680 (homer protein 3)
+T1279	GO_CC 21713 21716	PSD
+#1279	AnnotatorNotes T1279	GO:0014069 (postsynaptic density)
+T1280	GO_CC 21725 21734	cytoplasm
+#1280	AnnotatorNotes T1280	GO:0005737 (cytoplasm)
+T1281	PR 21741 21746	DNCL1
+#1281	AnnotatorNotes T1281	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1282	GO_CC 21758 21769	cytoplasmic
+#1282	AnnotatorNotes T1282	GO:0005737 (cytoplasm)
+T1283	GO_CC 21780 21787	nuclear
+#1283	AnnotatorNotes T1283	GO:0005634 (nucleus)
+T1284	GO_BP 21788 21800	localisation
+#1284	AnnotatorNotes T1284	GO:0051179 (localization)
+T1285	PR 21829 21835	TRIM11
+#1285	AnnotatorNotes T1285	PR:000016642 (tripartite motif-containing protein 11)
+T1286	GO_CC 21844 21851	nuclear
+#1286	AnnotatorNotes T1286	GO:0005634 (nucleus)
+T1287	GO_CC 21856 21867	cytoplasmic
+#1287	AnnotatorNotes T1287	GO:0005737 (cytoplasm)
+T1288	GO_CC 21884 21895	cytoplasmic
+#1288	AnnotatorNotes T1288	GO:0005737 (cytoplasm)
+T1289	EntrezGene 21896 21900	PAX6
+#1289	AnnotatorNotes T1289	EG:18508
+T1290	PR 21896 21900	PAX6
+#1290	AnnotatorNotes T1290	PR:000012318 (paired box protein Pax-6)
+T1291	CHEBI 21943 21951	proteins
+#1291	AnnotatorNotes T1291	CHEBI:36080 (proteins)
+T1292	GO_CC 21959 21966	nuclear
+#1292	AnnotatorNotes T1292	GO:0005634 (nucleus)
+T1293	EntrezGene 21967 21971	PAX6
+#1293	AnnotatorNotes T1293	EG:18508
+T1294	PR 21967 21971	PAX6
+#1294	AnnotatorNotes T1294	PR:000012318 (paired box protein Pax-6)
+T1295	EntrezGene 21992 21998	TRIM11
+#1295	AnnotatorNotes T1295	EG:94091
+T1296	PR 21992 21998	TRIM11
+#1296	AnnotatorNotes T1296	PR:000016642 (tripartite motif-containing protein 11)
+T1297	EntrezGene 22003 22008	DNCL1
+#1297	AnnotatorNotes T1297	EG:8655
+T1298	PR 22003 22008	DNCL1
+#1298	AnnotatorNotes T1298	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1299	PR 22031 22037	HOMER3
+#1299	AnnotatorNotes T1299	PR:000008680 (homer protein 3)
+T1300	GO_BP 22038 22048	expression
+#1300	AnnotatorNotes T1300	GO:0010467 (gene expression)
+T1301	PR 22195 22200	DNCL1
+#1301	AnnotatorNotes T1301	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1302	PR 22205 22211	TRIM11
+#1302	AnnotatorNotes T1302	PR:000016642 (tripartite motif-containing protein 11)
+T1303	GO_BP 22227 22237	expression
+#1303	AnnotatorNotes T1303	GO:0010467 (gene expression)
+T1304	GO_BP 22287 22297	expression
+#1304	AnnotatorNotes T1304	GO:0010467 (gene expression)
+T1305	PR 22337 22341	PAX6
+#1305	AnnotatorNotes T1305	PR:000012318 (paired box protein Pax-6)
+T1306	GO_BP 22389 22399	expression
+#1306	AnnotatorNotes T1306	GO:0010467 (gene expression)
+T1307	italic 22403 22407	PAX6
+#1307	AnnotatorNotes T1307	italic (null)
+T1308	PR 22403 22407	PAX6
+#1308	AnnotatorNotes T1308	PR:000012318 (paired box protein Pax-6)
+T1309	EntrezGene 22403 22407	PAX6
+#1309	AnnotatorNotes T1309	EG:5080
+T1310	italic 22409 22415	HOMER3
+#1310	AnnotatorNotes T1310	italic (null)
+T1311	PR 22409 22415	HOMER3
+#1311	AnnotatorNotes T1311	PR:000008680 (homer protein 3)
+T1312	EntrezGene 22409 22415	HOMER3
+#1312	AnnotatorNotes T1312	EG:9454
+T1313	italic 22417 22422	DNCL1
+#1313	AnnotatorNotes T1313	italic (null)
+T1314	PR 22417 22422	DNCL1
+#1314	AnnotatorNotes T1314	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1315	EntrezGene 22417 22422	DNCL1
+#1315	AnnotatorNotes T1315	EG:8655
+T1316	italic 22427 22433	TRIM11
+#1316	AnnotatorNotes T1316	italic (null)
+T1317	PR 22427 22433	TRIM11
+#1317	AnnotatorNotes T1317	PR:000016642 (tripartite motif-containing protein 11)
+T1318	EntrezGene 22427 22433	TRIM11
+#1318	AnnotatorNotes T1318	EG:81559
+T1319	GO_MF 22437 22439	RT
+#1319	AnnotatorNotes T1319	GO:0003964 (RNA-directed DNA polymerase activity)
+T1320	independent_continuant 22437 22439	RT
+#1320	AnnotatorNotes T1320	independent_continuant
+T1321	GO_BP 22437 22439	RT
+#1321	AnnotatorNotes T1321	GO:0006410 (transcription, RNA-dependent)
+T1322	NCBITaxon 22447 22452	human
+#1322	AnnotatorNotes T1322	NCBITaxon:9606 (Homo sapiens)
+T1323	SO 22465 22468	RNA
+#1323	AnnotatorNotes T1323	SO:0000356 (RNA)
+T1324	SO 22569 22575	domain
+#1324	AnnotatorNotes T1324	SO:0000417 (polypeptide_domain)
+T1325	EntrezGene 22580 22586	HOMER3
+#1325	AnnotatorNotes T1325	EG:26558
+T1326	PR 22580 22586	HOMER3
+#1326	AnnotatorNotes T1326	PR:000008680 (homer protein 3)
+T1327	EntrezGene 22590 22595	DNCL1
+#1327	AnnotatorNotes T1327	EG:56455
+T1328	PR 22590 22595	DNCL1
+#1328	AnnotatorNotes T1328	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1329	SO 22618 22637	naturally occurring
+#1329	AnnotatorNotes T1329	SO:0000782 (natural)
+T1330	SO 22638 22647	mutations
+#1330	AnnotatorNotes T1330	SO:0001059 (sequence_alteration)
+T1331	EntrezGene 22672 22676	PAX6
+#1331	AnnotatorNotes T1331	EG:5080
+T1332	PR 22672 22676	PAX6
+#1332	AnnotatorNotes T1332	PR:000012318 (paired box protein Pax-6)
+T1333	SO 22677 22687	C-terminal
+#1333	AnnotatorNotes T1333	SO:0100015 (c_terminal_region)
+T1334	CHEBI 22677 22678	C
+#1334	AnnotatorNotes T1334	CHEBI:18245 (carboxylato group)
+T1335	CHEBI 22677 22678	C
+#1335	AnnotatorNotes T1335	CHEBI:46883 (carboxy group)
+T1336	SO 22688 22695	peptide
+#1336	AnnotatorNotes T1336	SO:0001407 (peptidyl)
+T1337	SO 22707 22715	mutation
+#1337	AnnotatorNotes T1337	SO:0001059 (sequence_alteration)
+T1338	CHEBI 22734 22743	glutamine
+#1338	AnnotatorNotes T1338	CHEBI:32677 (glutamine residue)
+T1339	SO 22734 22743	glutamine
+#1339	AnnotatorNotes T1339	SO:0001448 (glutamine)
+T1340	CHEBI 22747 22755	arginine
+#1340	AnnotatorNotes T1340	CHEBI:32700 (arginine residue)
+T1341	SO 22747 22755	arginine
+#1341	AnnotatorNotes T1341	SO:0001451 (argenine)
+T1342	SO 22756 22768	substitution
+#1342	AnnotatorNotes T1342	SO:1000002 (substitution)
+T1343	CHEBI 22776 22791	last amino acid
+#1343	AnnotatorNotes T1343	CHEBI:33711 (C-terminal amino-acid residues)
+T1344	SO 22781 22791	amino acid
+#1344	AnnotatorNotes T1344	SO:0001237 (amino_acid)
+T1345	CHEBI 22781 22786	amino
+#1345	AnnotatorNotes T1345	CHEBI:32952 (amines)
+T1346	CHEBI 22781 22786	amino
+#1346	AnnotatorNotes T1346	CHEBI:46882 (amino group)
+T1347	CHEBI 22787 22791	acid
+#1347	AnnotatorNotes T1347	CHEBI:37527 (acid)
+T1348	SO 22792 22800	position
+#1348	AnnotatorNotes T1348	SO:0000001 (region)
+T1349	EntrezGene 22804 22808	PAX6
+#1349	AnnotatorNotes T1349	EG:5080
+T1350	PR 22804 22808	PAX6
+#1350	AnnotatorNotes T1350	PR:000012318 (paired box protein Pax-6)
+T1351	EntrezGene 22853 22859	HOMER3
+#1351	AnnotatorNotes T1351	EG:26558
+T1352	PR 22853 22859	HOMER3
+#1352	AnnotatorNotes T1352	PR:000008680 (homer protein 3)
+T1353	EntrezGene 22864 22869	DNCL1
+#1353	AnnotatorNotes T1353	EG:56455
+T1354	PR 22864 22869	DNCL1
+#1354	AnnotatorNotes T1354	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1355	SO 22895 22904	mutations
+#1355	AnnotatorNotes T1355	SO:0001059 (sequence_alteration)
+T1356	EntrezGene 22967 22973	HOMER3
+#1356	AnnotatorNotes T1356	EG:26558
+T1357	PR 22967 22973	HOMER3
+#1357	AnnotatorNotes T1357	PR:000008680 (homer protein 3)
+T1358	EntrezGene 22978 22983	DNCL1
+#1358	AnnotatorNotes T1358	EG:56455
+T1359	PR 22978 22983	DNCL1
+#1359	AnnotatorNotes T1359	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1360	SO 23033 23042	mutations
+#1360	AnnotatorNotes T1360	SO:0001059 (sequence_alteration)
+T1361	GO_BP 23055 23066	translation
+#1361	AnnotatorNotes T1361	GO:0006412 (translation)
+T1362	SO 23076 23098	3' untranslated region
+#1362	AnnotatorNotes T1362	SO:0000205 (three_prime_UTR)
+T1363	GO_BP 23105 23115	generating
+#1363	AnnotatorNotes T1363	GO:0009058 (biosynthetic process)
+T1364	CHEBI 23116 23124	proteins
+#1364	AnnotatorNotes T1364	CHEBI:36080 (proteins)
+T1365	SO 23208 23222	C-terminal end
+#1365	AnnotatorNotes T1365	SO:0100015 (c_terminal_region)
+T1366	CHEBI 23208 23209	C
+#1366	AnnotatorNotes T1366	CHEBI:18245 (carboxylato group)
+T1367	CHEBI 23208 23209	C
+#1367	AnnotatorNotes T1367	CHEBI:46883 (carboxy group)
+T1368	CHEBI 23230 23237	protein
+#1368	AnnotatorNotes T1368	CHEBI:36080 (proteins)
+T1369	SO 23253 23261	mutation
+#1369	AnnotatorNotes T1369	SO:0001059 (sequence_alteration)
+T1370	SO 23267 23274	removes
+#1370	AnnotatorNotes T1370	SO:0000045 (delete)
+T1371	CHEBI 23286 23297	amino acids
+#1371	AnnotatorNotes T1371	CHEBI:33708 (amino-acid residue)
+T1372	SO 23286 23297	amino acids
+#1372	AnnotatorNotes T1372	SO:0001237 (amino_acid)
+T1373	CHEBI 23286 23291	amino
+#1373	AnnotatorNotes T1373	CHEBI:32952 (amines)
+T1374	CHEBI 23286 23291	amino
+#1374	AnnotatorNotes T1374	CHEBI:46882 (amino group)
+T1375	CHEBI 23292 23297	acids
+#1375	AnnotatorNotes T1375	CHEBI:37527 (acid)
+T1376	SO 23305 23315	C-terminal
+#1376	AnnotatorNotes T1376	SO:0100015 (c_terminal_region)
+T1377	CHEBI 23305 23306	C
+#1377	AnnotatorNotes T1377	CHEBI:18245 (carboxylato group)
+T1378	CHEBI 23305 23306	C
+#1378	AnnotatorNotes T1378	CHEBI:46883 (carboxy group)
+T1379	SO 23316 23323	peptide
+#1379	AnnotatorNotes T1379	SO:0001407 (peptidyl)
+T1380	SO 23343 23352	mutations
+#1380	AnnotatorNotes T1380	SO:0001059 (sequence_alteration)
+T1381	EntrezGene 23383 23389	TRIM11
+#1381	AnnotatorNotes T1381	EG:94091
+T1382	PR 23383 23389	TRIM11
+#1382	AnnotatorNotes T1382	PR:000016642 (tripartite motif-containing protein 11)
+T1383	SO 23454 23464	N-terminal
+#1383	AnnotatorNotes T1383	SO:0100014 (n_terminal_region)
+T1384	CHEBI 23454 23455	N
+#1384	AnnotatorNotes T1384	CHEBI:46882 (amino group)
+T1385	SO 23465 23469	part
+#1385	AnnotatorNotes T1385	SO:0000001 (region)
+T1386	SO 23481 23487	domain
+#1386	AnnotatorNotes T1386	SO:0000417 (polypeptide_domain)
+T1387	EntrezGene 23542 23548	TRIM11
+#1387	AnnotatorNotes T1387	EG:94091
+T1388	PR 23542 23548	TRIM11
+#1388	AnnotatorNotes T1388	PR:000016642 (tripartite motif-containing protein 11)
+T1389	SO 23576 23586	C-terminal
+#1389	AnnotatorNotes T1389	SO:0100015 (c_terminal_region)
+T1390	CHEBI 23576 23577	C
+#1390	AnnotatorNotes T1390	CHEBI:18245 (carboxylato group)
+T1391	CHEBI 23576 23577	C
+#1391	AnnotatorNotes T1391	CHEBI:46883 (carboxy group)
+T1392	SO 23587 23594	peptide
+#1392	AnnotatorNotes T1392	SO:0001407 (peptidyl)
+T1393	SO 23623 23629	domain
+#1393	AnnotatorNotes T1393	SO:0000417 (polypeptide_domain)
+T1394	SO 23662 23672	C-terminal
+#1394	AnnotatorNotes T1394	SO:0100015 (c_terminal_region)
+T1395	CHEBI 23662 23663	C
+#1395	AnnotatorNotes T1395	CHEBI:18245 (carboxylato group)
+T1396	CHEBI 23662 23663	C
+#1396	AnnotatorNotes T1396	CHEBI:46883 (carboxy group)
+T1397	SO 23673 23680	peptide
+#1397	AnnotatorNotes T1397	SO:0001407 (peptidyl)
+T1398	SO 23727 23736	mutations
+#1398	AnnotatorNotes T1398	SO:0001059 (sequence_alteration)
+T1399	SO 23764 23781	termination codon
+#1399	AnnotatorNotes T1399	SO:0000319 (stop_codon)
+T1400	GO_BP 23764 23775	termination
+#1400	AnnotatorNotes T1400	GO:0006353 (transcription termination)
+T1401	GO_BP 23764 23775	termination
+#1401	AnnotatorNotes T1401	GO:0006415 (translational termination)
+T1402	EntrezGene 23791 23795	PAX6
+#1402	AnnotatorNotes T1402	EG:5080
+T1403	PR 23791 23795	PAX6
+#1403	AnnotatorNotes T1403	PR:000012318 (paired box protein Pax-6)
+T1404	SO 23796 23814	open reading frame
+#1404	AnnotatorNotes T1404	SO:0000236 (ORF)
+T1405	SO 23829 23836	alleles
+#1405	AnnotatorNotes T1405	SO:0001023 (allele)
+T1406	CHEBI 23875 23883	proteins
+#1406	AnnotatorNotes T1406	CHEBI:36080 (proteins)
+T1407	CHEBI 23890 23897	protein
+#1407	AnnotatorNotes T1407	CHEBI:36080 (proteins)
+T1408	SO 23912 23918	mutant
+#1408	AnnotatorNotes T1408	SO:0001059 (sequence_alteration)
+T1409	SO 23919 23922	RNA
+#1409	AnnotatorNotes T1409	SO:0000356 (RNA)
+T1410	GO_BP 23926 23934	degraded
+#1410	AnnotatorNotes T1410	GO:0009056 (catabolic process)
+T1411	GO_BP 23938 23961	nonsense-mediated decay
+#1411	AnnotatorNotes T1411	GO:0000184 (mRNA catabolic process, nonsense-mediated decay)
+T1412	EntrezGene 24105 24109	PAX6
+#1412	AnnotatorNotes T1412	EG:5080
+T1413	PR 24105 24109	PAX6
+#1413	AnnotatorNotes T1413	PR:000012318 (paired box protein Pax-6)
+T1414	EntrezGene 24114 24120	HOMER3
+#1414	AnnotatorNotes T1414	EG:9454
+T1415	PR 24114 24120	HOMER3
+#1415	AnnotatorNotes T1415	PR:000008680 (homer protein 3)
+T1416	EntrezGene 24122 24127	DNCL1
+#1416	AnnotatorNotes T1416	EG:8655
+T1417	PR 24122 24127	DNCL1
+#1417	AnnotatorNotes T1417	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1418	EntrezGene 24132 24138	TRIM11
+#1418	AnnotatorNotes T1418	EG:81559
+T1419	PR 24132 24138	TRIM11
+#1419	AnnotatorNotes T1419	PR:000016642 (tripartite motif-containing protein 11)
+T1420	SO 24293 24303	C-terminal
+#1420	AnnotatorNotes T1420	SO:0100015 (c_terminal_region)
+T1421	CHEBI 24293 24294	C
+#1421	AnnotatorNotes T1421	CHEBI:18245 (carboxylato group)
+T1422	CHEBI 24293 24294	C
+#1422	AnnotatorNotes T1422	CHEBI:46883 (carboxy group)
+T1423	SO 24314 24323	mutations
+#1423	AnnotatorNotes T1423	SO:0001059 (sequence_alteration)
+T1424	GO_BP 24348 24383	signalling and transport mechanisms
+#1424	AnnotatorNotes T1424	"signalling .. mechanisms" GO:0007165 (signal transduction)
+T1425	GO_BP 24363 24383	transport mechanisms
+#1425	AnnotatorNotes T1425	GO:0006810 (transport)
+T1426	EntrezGene 24493 24497	PAX6
+#1426	AnnotatorNotes T1426	EG:5080
+T1427	PR 24493 24497	PAX6
+#1427	AnnotatorNotes T1427	PR:000012318 (paired box protein Pax-6)
+T1428	CHEBI 24498 24505	protein
+#1428	AnnotatorNotes T1428	CHEBI:36080 (proteins)
+T1429	CHEBI 24506 24513	protein
+#1429	AnnotatorNotes T1429	CHEBI:36080 (proteins)
+T1430	NCBITaxon 24590 24601	individuals
+#1430	AnnotatorNotes T1430	NCBITaxon:1 (root)
+T1431	italic 24607 24611	PAX6
+#1431	AnnotatorNotes T1431	italic (null)
+T1432	PR 24607 24611	PAX6
+#1432	AnnotatorNotes T1432	PR:000012318 (paired box protein Pax-6)
+T1433	EntrezGene 24607 24611	PAX6
+#1433	AnnotatorNotes T1433	EG:5080
+T1434	SO 24612 24621	mutations
+#1434	AnnotatorNotes T1434	SO:0001059 (sequence_alteration)
+T1435	GO_BP 24692 24710	neurodevelopmental
+#1435	AnnotatorNotes T1435	GO:0007399 (nervous system development)
+T1436	GO_MF 24711 24736	transcriptional regulator
+#1436	AnnotatorNotes T1436	GO:0030528 (transcription regulator activity)
+T1437	independent_continuant 24711 24736	transcriptional regulator
+#1437	AnnotatorNotes T1437	independent_continuant
+T1438	GO_BP 24711 24726	transcriptional
+#1438	AnnotatorNotes T1438	GO:0006350 (transcription)
+T1439	EntrezGene 24737 24741	PAX6
+#1439	AnnotatorNotes T1439	EG:5080
+T1440	PR 24737 24741	PAX6
+#1440	AnnotatorNotes T1440	PR:000012318 (paired box protein Pax-6)
+T1441	EntrezGene 24757 24763	HOMER3
+#1441	AnnotatorNotes T1441	EG:26558
+T1442	PR 24757 24763	HOMER3
+#1442	AnnotatorNotes T1442	PR:000008680 (homer protein 3)
+T1443	EntrezGene 24765 24770	DNCL1
+#1443	AnnotatorNotes T1443	EG:56455
+T1444	PR 24765 24770	DNCL1
+#1444	AnnotatorNotes T1444	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1445	EntrezGene 24775 24781	TRIM11
+#1445	AnnotatorNotes T1445	EG:94091
+T1446	PR 24775 24781	TRIM11
+#1446	AnnotatorNotes T1446	PR:000016642 (tripartite motif-containing protein 11)
+T1447	EntrezGene 24818 24822	PAX6
+#1447	AnnotatorNotes T1447	EG:18508
+T1448	PR 24818 24822	PAX6
+#1448	AnnotatorNotes T1448	PR:000012318 (paired box protein Pax-6)
+T1449	EntrezGene 24828 24834	HOMER3
+#1449	AnnotatorNotes T1449	EG:26558
+T1450	PR 24828 24834	HOMER3
+#1450	AnnotatorNotes T1450	PR:000008680 (homer protein 3)
+T1451	EntrezGene 24839 24844	DNCL1
+#1451	AnnotatorNotes T1451	EG:56455
+T1452	PR 24839 24844	DNCL1
+#1452	AnnotatorNotes T1452	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1453	GO_BP 24869 24888	synaptic signalling
+#1453	AnnotatorNotes T1453	GO:0007268 (synaptic transmission)
+T1454	GO_CC 24869 24877	synaptic
+#1454	AnnotatorNotes T1454	GO:0045202 (synapse)
+T1455	GO_BP 24903 24912	regulated
+#1455	AnnotatorNotes T1455	GO:0065007 (biological regulation)
+T1456	GO_BP 24924 24939	gene expression
+#1456	AnnotatorNotes T1456	GO:0010467 (gene expression)
+T1457	SO 24924 24928	gene
+#1457	AnnotatorNotes T1457	SO:0000704 (gene)
+T1458	CL 24943 24950	neurons
+#1458	AnnotatorNotes T1458	CL:0000540 (neuron)
+T1459	italic 25019 25023	PAX6
+#1459	AnnotatorNotes T1459	italic (null)
+T1460	EntrezGene 25019 25023	PAX6
+#1460	AnnotatorNotes T1460	EG:5080
+T1461	PR 25019 25023	PAX6
+#1461	AnnotatorNotes T1461	PR:000012318 (paired box protein Pax-6)
+T1462	SO 25024 25033	mutations
+#1462	AnnotatorNotes T1462	SO:0001059 (sequence_alteration)
+T1463	CHEBI 25063 25070	protein
+#1463	AnnotatorNotes T1463	CHEBI:36080 (proteins)
+T1464	CHEBI 25071 25078	protein
+#1464	AnnotatorNotes T1464	CHEBI:36080 (proteins)
+T1465	SO 25130 25138	Sequence
+#1465	AnnotatorNotes T1465	SO:0000001 (region)
+T1466	CHEBI 25308 25315	Protein
+#1466	AnnotatorNotes T1466	CHEBI:36080 (proteins)
+T1467	SO 25316 25325	sequences
+#1467	AnnotatorNotes T1467	SO:0000001 (region)
+T1468	SO 25343 25353	homologous
+#1468	AnnotatorNotes T1468	SO:0000857 (homologous)
+T1469	SO 25361 25371	C-terminus
+#1469	AnnotatorNotes T1469	SO:0100015 (c_terminal_region)
+T1470	CHEBI 25361 25362	C
+#1470	AnnotatorNotes T1470	CHEBI:18245 (carboxylato group)
+T1471	CHEBI 25361 25362	C
+#1471	AnnotatorNotes T1471	CHEBI:46883 (carboxy group)
+T1472	EntrezGene 25375 25385	human PAX6
+#1472	AnnotatorNotes T1472	EG:5080
+T1473	NCBITaxon 25375 25380	human
+#1473	AnnotatorNotes T1473	NCBITaxon:9606 (Homo sapiens)
+T1474	PR 25381 25385	PAX6
+#1474	AnnotatorNotes T1474	PR:000012318 (paired box protein Pax-6)
+T1475	SO 25419 25438	Secondary structure
+#1475	AnnotatorNotes T1475	SO:0001078 (polypeptide_secondary_structure)
+T1476	SO 25480 25489	consensus
+#1476	AnnotatorNotes T1476	SO:0000993 (consensus)
+T1477	NCBITaxon 25507 25512	Yeast
+#1477	AnnotatorNotes T1477	NCBITaxon:4892 (Saccharomycetales)
+T1478	SO 25540 25544	cDNA
+#1478	AnnotatorNotes T1478	SO:0000756 (cDNA)
+T1479	CHEBI 25549 25559	amino acid
+#1479	AnnotatorNotes T1479	CHEBI:33708 (amino-acid residue)
+T1480	SO 25549 25559	amino acid
+#1480	AnnotatorNotes T1480	SO:0001237 (amino_acid)
+T1481	CHEBI 25549 25554	amino
+#1481	AnnotatorNotes T1481	CHEBI:32952 (amines)
+T1482	CHEBI 25549 25554	amino
+#1482	AnnotatorNotes T1482	CHEBI:46882 (amino group)
+T1483	CHEBI 25555 25559	acid
+#1483	AnnotatorNotes T1483	CHEBI:37527 (acid)
+T1484	EntrezGene 25586 25596	human PAX6
+#1484	AnnotatorNotes T1484	EG:5080
+T1485	NCBITaxon 25586 25591	human
+#1485	AnnotatorNotes T1485	NCBITaxon:9606 (Homo sapiens)
+T1486	PR 25592 25596	PAX6
+#1486	AnnotatorNotes T1486	PR:000012318 (paired box protein Pax-6)
+T1487	SO 25597 25633	cDNA and protein reference sequences
+#1487	AnnotatorNotes T1487	"cDNA .. sequences" SO:0000756 (cDNA)
+T1488	CHEBI 25606 25613	protein
+#1488	AnnotatorNotes T1488	CHEBI:36080 (proteins)
+T1489	EntrezGene 25653 25663	Human PAX6
+#1489	AnnotatorNotes T1489	EG:5080
+T1490	NCBITaxon 25653 25658	Human
+#1490	AnnotatorNotes T1490	NCBITaxon:9606 (Homo sapiens)
+T1491	PR 25659 25663	PAX6
+#1491	AnnotatorNotes T1491	PR:000012318 (paired box protein Pax-6)
+T1492	SO 25664 25679	Allelic Variant
+#1492	AnnotatorNotes T1492	SO:0001023 (allele)
+T1493	GO_BP 25756 25760	make
+#1493	AnnotatorNotes T1493	GO:0009058 (biosynthetic process)
+T1494	EntrezGene 25767 25771	PAX6
+#1494	AnnotatorNotes T1494	EG:5080
+T1495	PR 25767 25771	PAX6
+#1495	AnnotatorNotes T1495	PR:000012318 (paired box protein Pax-6)
+T1496	SO 25772 25776	cDNA
+#1496	AnnotatorNotes T1496	SO:0000756 (cDNA)
+T1497	SO 25777 25787	constructs
+#1497	AnnotatorNotes T1497	SO:0001037 (mobile_genetic_element)
+T1498	GO_BP 25802 25812	expression
+#1498	AnnotatorNotes T1498	GO:0010467 (gene expression)
+T1499	SO 25813 25819	vector
+#1499	AnnotatorNotes T1499	SO:0000440 (vector_replicon)
+T1500	GO_BP 25868 25877	generates
+#1500	AnnotatorNotes T1500	GO:0009058 (biosynthetic process)
+T1501	CHEBI 25880 25887	protein
+#1501	AnnotatorNotes T1501	CHEBI:36080 (proteins)
+T1502	EntrezGene 25901 25911	yeast GAL4
+#1502	AnnotatorNotes T1502	EG:855828
+T1503	NCBITaxon 25901 25906	yeast
+#1503	AnnotatorNotes T1503	NCBITaxon:4892 (Saccharomycetales)
+T1504	GO_MF 25912 25923	DNA binding
+#1504	AnnotatorNotes T1504	GO:0003677 (DNA binding)
+T1505	SO 25912 25915	DNA
+#1505	AnnotatorNotes T1505	SO:0000352 (DNA)
+T1506	SO 25924 25930	domain
+#1506	AnnotatorNotes T1506	SO:0000417 (polypeptide_domain)
+T1507	SO 25963 25969	domain
+#1507	AnnotatorNotes T1507	SO:0000417 (polypeptide_domain)
+T1508	CHEBI 25971 25982	amino acids
+#1508	AnnotatorNotes T1508	CHEBI:33708 (amino-acid residue)
+T1509	SO 25971 25982	amino acids
+#1509	AnnotatorNotes T1509	SO:0001237 (amino_acid)
+T1510	CHEBI 25971 25976	amino
+#1510	AnnotatorNotes T1510	CHEBI:32952 (amines)
+T1511	CHEBI 25971 25976	amino
+#1511	AnnotatorNotes T1511	CHEBI:46882 (amino group)
+T1512	CHEBI 25977 25982	acids
+#1512	AnnotatorNotes T1512	CHEBI:37527 (acid)
+T1513	EntrezGene 26010 26014	PAX6
+#1513	AnnotatorNotes T1513	EG:5080
+T1514	PR 26010 26014	PAX6
+#1514	AnnotatorNotes T1514	PR:000012318 (paired box protein Pax-6)
+T1515	CHEBI 26015 26022	protein
+#1515	AnnotatorNotes T1515	CHEBI:36080 (proteins)
+T1516	SO 26025 26032	Primers
+#1516	AnnotatorNotes T1516	SO:0000112 (primer)
+T1517	SO 26045 26052	forward
+#1517	AnnotatorNotes T1517	SO:0001030 (forward)
+T1518	CHEBI 26097 26098	C
+#1518	AnnotatorNotes T1518	CHEBI:30758 (cytosin-1-yl group)
+T1519	SO 26113 26114	R
+#1519	AnnotatorNotes T1519	SO:0001031 (reverse)
+T1520	SO 26206 26216	C-terminal
+#1520	AnnotatorNotes T1520	SO:0100015 (c_terminal_region)
+T1521	CHEBI 26206 26207	C
+#1521	AnnotatorNotes T1521	CHEBI:18245 (carboxylato group)
+T1522	CHEBI 26206 26207	C
+#1522	AnnotatorNotes T1522	CHEBI:46883 (carboxy group)
+T1523	SO 26217 26224	peptide
+#1523	AnnotatorNotes T1523	SO:0001407 (peptidyl)
+T1524	SO 26242 26249	Primers
+#1524	AnnotatorNotes T1524	SO:0000112 (primer)
+T1525	SO 26262 26263	F
+#1525	AnnotatorNotes T1525	SO:0001030 (forward)
+T1526	SO 26325 26326	R
+#1526	AnnotatorNotes T1526	SO:0001031 (reverse)
+T1527	SO 26357 26363	domain
+#1527	AnnotatorNotes T1527	SO:0000417 (polypeptide_domain)
+T1528	SO 26374 26384	C-terminal
+#1528	AnnotatorNotes T1528	SO:0100015 (c_terminal_region)
+T1529	CHEBI 26374 26375	C
+#1529	AnnotatorNotes T1529	CHEBI:18245 (carboxylato group)
+T1530	CHEBI 26374 26375	C
+#1530	AnnotatorNotes T1530	CHEBI:46883 (carboxy group)
+T1531	SO 26385 26392	peptide
+#1531	AnnotatorNotes T1531	SO:0001407 (peptidyl)
+T1532	GO_BP 26413 26417	made
+#1532	AnnotatorNotes T1532	GO:0009058 (biosynthetic process)
+T1533	italic 26442 26445	Nde
+#1533	AnnotatorNotes T1533	italic (null)
+T1534	italic 26451 26454	Not
+#1534	AnnotatorNotes T1534	italic (null)
+T1535	SO 26472 26482	C-terminal
+#1535	AnnotatorNotes T1535	SO:0100015 (c_terminal_region)
+T1536	CHEBI 26472 26473	C
+#1536	AnnotatorNotes T1536	CHEBI:18245 (carboxylato group)
+T1537	CHEBI 26472 26473	C
+#1537	AnnotatorNotes T1537	CHEBI:46883 (carboxy group)
+T1538	SO 26483 26490	peptide
+#1538	AnnotatorNotes T1538	SO:0001407 (peptidyl)
+T1539	SO 26496 26505	inserting
+#1539	AnnotatorNotes T1539	SO:0000046 (insert)
+T1540	SO 26508 26517	synthetic
+#1540	AnnotatorNotes T1540	SO:0000351 (synthetic_sequence)
+T1541	SO 26541 26558	restriction sites
+#1541	AnnotatorNotes T1541	SO:0000061 (restriction_enzyme_binding_site)
+T1542	SO 26564 26573	fragments
+#1542	AnnotatorNotes T1542	SO:0000731 (fragmentary)
+T1543	GO_BP 26574 26583	generated
+#1543	AnnotatorNotes T1543	GO:0009058 (biosynthetic process)
+T1544	EntrezGene 26670 26674	PAX6
+#1544	AnnotatorNotes T1544	EG:5080
+T1545	PR 26670 26674	PAX6
+#1545	AnnotatorNotes T1545	PR:000012318 (paired box protein Pax-6)
+T1546	SO 26679 26685	domain
+#1546	AnnotatorNotes T1546	SO:0000417 (polypeptide_domain)
+T1547	SO 26686 26695	construct
+#1547	AnnotatorNotes T1547	SO:0001037 (mobile_genetic_element)
+T1548	SO 26711 26719	mutation
+#1548	AnnotatorNotes T1548	SO:0001059 (sequence_alteration)
+T1549	CHEBI 26726 26727	G
+#1549	AnnotatorNotes T1549	CHEBI:30755 (guanine group)
+T1550	GO_BP 26740 26749	generated
+#1550	AnnotatorNotes T1550	GO:0009058 (biosynthetic process)
+T1551	SO 26781 26790	construct
+#1551	AnnotatorNotes T1551	SO:0001037 (mobile_genetic_element)
+T1552	SO 26806 26824	reverse PCR primer
+#1552	AnnotatorNotes T1552	"reverse .. primer" SO:0000132 (reverse_primer)
+T1553	SO 26806 26813	reverse
+#1553	AnnotatorNotes T1553	SO:0001031 (reverse)
+T1554	underline 26859 26860	C
+#1554	AnnotatorNotes T1554	underline (null)
+T1555	SO 26912 26918	mutant
+#1555	AnnotatorNotes T1555	SO:0001059 (sequence_alteration)
+T1556	SO 26919 26929	nucleotide
+#1556	AnnotatorNotes T1556	SO:0001236 (base)
+T1557	SO 26930 26942	substitution
+#1557	AnnotatorNotes T1557	SO:1000002 (substitution)
+T1558	SO 26958 26972	cDNA sequences
+#1558	AnnotatorNotes T1558	SO:0000756 (cDNA)
+T1559	SO 26988 26997	mutations
+#1559	AnnotatorNotes T1559	SO:0001059 (sequence_alteration)
+T1560	GO_BP 27044 27053	generated
+#1560	AnnotatorNotes T1560	GO:0009058 (biosynthetic process)
+T1561	GO_BP 27066 27085	reverse transcribed
+#1561	AnnotatorNotes T1561	GO:0006410 (transcription, RNA-dependent)
+T1562	SO 27086 27089	RNA
+#1562	AnnotatorNotes T1562	SO:0000356 (RNA)
+T1563	SO 27146 27153	Primers
+#1563	AnnotatorNotes T1563	SO:0000112 (primer)
+T1564	SO 27166 27167	F
+#1564	AnnotatorNotes T1564	SO:0001030 (forward)
+T1565	CHEBI 27196 27197	C
+#1565	AnnotatorNotes T1565	CHEBI:30758 (cytosin-1-yl group)
+T1566	SO 27212 27213	R
+#1566	AnnotatorNotes T1566	SO:0001031 (reverse)
+T1567	SO 27277 27286	construct
+#1567	AnnotatorNotes T1567	SO:0001037 (mobile_genetic_element)
+T1568	italic 27300 27303	Nde
+#1568	AnnotatorNotes T1568	italic (null)
+T1569	italic 27309 27312	Not
+#1569	AnnotatorNotes T1569	italic (null)
+T1570	SO 27336 27346	C-terminal
+#1570	AnnotatorNotes T1570	SO:0100015 (c_terminal_region)
+T1571	CHEBI 27336 27337	C
+#1571	AnnotatorNotes T1571	CHEBI:18245 (carboxylato group)
+T1572	CHEBI 27336 27337	C
+#1572	AnnotatorNotes T1572	CHEBI:46883 (carboxy group)
+T1573	SO 27347 27354	peptide
+#1573	AnnotatorNotes T1573	SO:0001407 (peptidyl)
+T1574	SO 27364 27370	mutant
+#1574	AnnotatorNotes T1574	SO:0001059 (sequence_alteration)
+T1575	SO 27371 27379	sequence
+#1575	AnnotatorNotes T1575	SO:0000001 (region)
+T1576	SO 27384 27392	inserted
+#1576	AnnotatorNotes T1576	SO:0000046 (insert)
+T1577	NCBITaxon 27395 27400	Yeast
+#1577	AnnotatorNotes T1577	NCBITaxon:4892 (Saccharomycetales)
+T1578	NCBITaxon 27431 27436	mouse
+#1578	AnnotatorNotes T1578	NCBITaxon:10088 (Mus)
+T1579	SO 27443 27447	cDNA
+#1579	AnnotatorNotes T1579	SO:0000756 (cDNA)
+T1580	SO 27528 27538	constructs
+#1580	AnnotatorNotes T1580	SO:0001037 (mobile_genetic_element)
+T1581	GO_BP 27556 27567	constructed
+#1581	AnnotatorNotes T1581	GO:0009058 (biosynthetic process)
+T1582	SO 27581 27587	vector
+#1582	AnnotatorNotes T1582	SO:0000440 (vector_replicon)
+T1583	GO_BP 27595 27603	produces
+#1583	AnnotatorNotes T1583	GO:0009058 (biosynthetic process)
+T1584	CHEBI 27604 27612	proteins
+#1584	AnnotatorNotes T1584	CHEBI:36080 (proteins)
+T1585	EntrezGene 27626 27636	yeast GAL4
+#1585	AnnotatorNotes T1585	EG:855828
+T1586	NCBITaxon 27626 27631	yeast
+#1586	AnnotatorNotes T1586	NCBITaxon:4892 (Saccharomycetales)
+T1587	SO 27648 27654	domain
+#1587	AnnotatorNotes T1587	SO:0000417 (polypeptide_domain)
+T1588	EntrezGene 27678 27682	GAL4
+#1588	AnnotatorNotes T1588	EG:855828
+T1589	SO 27702 27707	genes
+#1589	AnnotatorNotes T1589	SO:0000704 (gene)
+T1590	italic 27709 27713	HIS3
+#1590	AnnotatorNotes T1590	italic (null)
+T1591	italic 27715 27719	URA3
+#1591	AnnotatorNotes T1591	italic (null)
+T1592	PR 27715 27719	URA3
+#1592	AnnotatorNotes T1592	PR:000023661 (orotidine 5'-phosphate decarboxylase)
+T1593	italic 27724 27728	lacZ
+#1593	AnnotatorNotes T1593	italic (null)
+T1594	CHEBI 27803 27810	protein
+#1594	AnnotatorNotes T1594	CHEBI:36080 (proteins)
+T1595	EntrezGene 27824 27828	GAL4
+#1595	AnnotatorNotes T1595	EG:855828
+T1596	GO_MF 27829 27840	DNA binding
+#1596	AnnotatorNotes T1596	GO:0003677 (DNA binding)
+T1597	SO 27829 27832	DNA
+#1597	AnnotatorNotes T1597	SO:0000352 (DNA)
+T1598	SO 27841 27847	domain
+#1598	AnnotatorNotes T1598	SO:0000417 (polypeptide_domain)
+T1599	CHEBI 27881 27888	protein
+#1599	AnnotatorNotes T1599	CHEBI:36080 (proteins)
+T1600	EntrezGene 27902 27906	GAL4
+#1600	AnnotatorNotes T1600	EG:855828
+T1601	SO 27918 27924	domain
+#1601	AnnotatorNotes T1601	SO:0000417 (polypeptide_domain)
+T1602	EntrezGene 27954 27958	GAL4
+#1602	AnnotatorNotes T1602	EG:855828
+T1603	italic 27969 27973	HIS3
+#1603	AnnotatorNotes T1603	italic (null)
+T1604	GO_BP 27992 27998	growth
+#1604	AnnotatorNotes T1604	GO:0040007 (growth)
+T1605	CHEBI 28017 28026	histidine
+#1605	AnnotatorNotes T1605	CHEBI:27570 (histidine)
+T1606	italic 28033 28037	URA3
+#1606	AnnotatorNotes T1606	italic (null)
+T1607	PR 28033 28037	URA3
+#1607	AnnotatorNotes T1607	PR:000023661 (orotidine 5'-phosphate decarboxylase)
+T1608	GO_BP 28049 28059	suppresses
+#1608	AnnotatorNotes T1608	GO:0048519 (negative regulation of biological process)
+T1609	GO_BP 28060 28066	growth
+#1609	AnnotatorNotes T1609	GO:0040007 (growth)
+T1610	CHEBI 28090 28095	fluro
+#1610	AnnotatorNotes T1610	CHEBI:42645 (fluoro group)
+T1611	CHEBI 28096 28107	orotic acid
+#1611	AnnotatorNotes T1611	CHEBI:16742 (orotic acid)
+T1612	italic 28121 28125	URA3
+#1612	AnnotatorNotes T1612	italic (null)
+T1613	PR 28121 28125	URA3
+#1613	AnnotatorNotes T1613	PR:000023661 (orotidine 5'-phosphate decarboxylase)
+T1614	GO_BP 28145 28151	growth
+#1614	AnnotatorNotes T1614	GO:0040007 (growth)
+T1615	CHEBI 28170 28176	uracil
+#1615	AnnotatorNotes T1615	CHEBI:17568 (uracil)
+T1616	italic 28178 28182	LacZ
+#1616	AnnotatorNotes T1616	italic (null)
+T1617	GO_MF 28225 28243	beta-galactosidase
+#1617	AnnotatorNotes T1617	GO:0004565 (beta-galactosidase activity)
+T1618	independent_continuant 28225 28243	beta-galactosidase
+#1618	AnnotatorNotes T1618	independent_continuant
+T1619	NCBITaxon 28322 28327	yeast
+#1619	AnnotatorNotes T1619	NCBITaxon:4892 (Saccharomycetales)
+T1620	CHEBI 28484 28494	chemically
+#1620	AnnotatorNotes T1620	CHEBI:23367 (molecular entity)
+T1621	NCBITaxon 28512 28517	yeast
+#1621	AnnotatorNotes T1621	NCBITaxon:4892 (Saccharomycetales)
+T1622	CL 28518 28523	cells
+#1622	AnnotatorNotes T1622	CL:0000000 (cell)
+T1623	GO_CC 28518 28523	cells
+#1623	AnnotatorNotes T1623	GO:0005623 (cell)
+T1624	GO_BP 28532 28543	transformed
+#1624	AnnotatorNotes T1624	GO:0009294 (DNA mediated transformation)
+T1625	SO 28553 28557	cDNA
+#1625	AnnotatorNotes T1625	SO:0000756 (cDNA)
+T1626	SO 28579 28586	plasmid
+#1626	AnnotatorNotes T1626	SO:0000155 (plasmid)
+T1627	sup 28642 28643	7
+#1627	AnnotatorNotes T1627	sup (null)
+T1628	CHEBI 28675 28684	histidine
+#1628	AnnotatorNotes T1628	CHEBI:27570 (histidine)
+T1629	italic 28698 28702	HIS3
+#1629	AnnotatorNotes T1629	italic (null)
+T1630	italic 28715 28719	HIS3
+#1630	AnnotatorNotes T1630	italic (null)
+T1631	SO 28784 28791	plasmid
+#1631	AnnotatorNotes T1631	SO:0000155 (plasmid)
+T1632	italic 28814 28818	HIS3
+#1632	AnnotatorNotes T1632	italic (null)
+T1633	italic 28819 28823	URA3
+#1633	AnnotatorNotes T1633	italic (null)
+T1634	PR 28819 28823	URA3
+#1634	AnnotatorNotes T1634	PR:000023661 (orotidine 5'-phosphate decarboxylase)
+T1635	italic 28824 28828	LacZ
+#1635	AnnotatorNotes T1635	italic (null)
+T1636	SO 28847 28851	cDNA
+#1636	AnnotatorNotes T1636	SO:0000756 (cDNA)
+T1637	SO 28852 28858	insert
+#1637	AnnotatorNotes T1637	SO:0000667 (insertion)
+T1638	SO 28916 28920	cDNA
+#1638	AnnotatorNotes T1638	SO:0000756 (cDNA)
+T1639	SO 28921 28927	insert
+#1639	AnnotatorNotes T1639	SO:0000667 (insertion)
+T1640	GO_BP 28995 29007	transforming
+#1640	AnnotatorNotes T1640	GO:0009294 (DNA mediated transformation)
+T1641	NCBITaxon 29025 29030	yeast
+#1641	AnnotatorNotes T1641	NCBITaxon:4892 (Saccharomycetales)
+T1642	CL 29031 29036	cells
+#1642	AnnotatorNotes T1642	CL:0000000 (cell)
+T1643	GO_CC 29031 29036	cells
+#1643	AnnotatorNotes T1643	GO:0005623 (cell)
+T1644	SO 29051 29060	construct
+#1644	AnnotatorNotes T1644	SO:0001037 (mobile_genetic_element)
+T1645	SO 29086 29095	construct
+#1645	AnnotatorNotes T1645	SO:0001037 (mobile_genetic_element)
+T1646	italic 29164 29168	HIS3
+#1646	AnnotatorNotes T1646	italic (null)
+T1647	italic 29170 29174	URA3
+#1647	AnnotatorNotes T1647	italic (null)
+T1648	PR 29170 29174	URA3
+#1648	AnnotatorNotes T1648	PR:000023661 (orotidine 5'-phosphate decarboxylase)
+T1649	italic 29179 29183	LacZ
+#1649	AnnotatorNotes T1649	italic (null)
+T1650	GO_BP 29209 29215	create
+#1650	AnnotatorNotes T1650	GO:0009058 (biosynthetic process)
+T1651	italic 29230 29236	Homer3
+#1651	AnnotatorNotes T1651	italic (null)
+T1652	EntrezGene 29230 29236	Homer3
+#1652	AnnotatorNotes T1652	EG:26558
+T1653	PR 29230 29236	Homer3
+#1653	AnnotatorNotes T1653	PR:000008680 (homer protein 3)
+T1654	SO 29237 29242	clone
+#1654	AnnotatorNotes T1654	SO:0000151 (clone)
+T1655	SO 29265 29275	cDNA clone
+#1655	AnnotatorNotes T1655	SO:0000317 (cDNA_clone)
+T1656	SO 29283 29288	clone
+#1656	AnnotatorNotes T1656	SO:0000151 (clone)
+T1657	SO 29348 29358	N-terminal
+#1657	AnnotatorNotes T1657	SO:0100014 (n_terminal_region)
+T1658	CHEBI 29348 29349	N
+#1658	AnnotatorNotes T1658	CHEBI:46882 (amino group)
+T1659	CHEBI 29362 29373	amino acids
+#1659	AnnotatorNotes T1659	CHEBI:33708 (amino-acid residue)
+T1660	SO 29362 29373	amino acids
+#1660	AnnotatorNotes T1660	SO:0001237 (amino_acid)
+T1661	CHEBI 29362 29367	amino
+#1661	AnnotatorNotes T1661	CHEBI:32952 (amines)
+T1662	CHEBI 29362 29367	amino
+#1662	AnnotatorNotes T1662	CHEBI:46882 (amino group)
+T1663	CHEBI 29368 29373	acids
+#1663	AnnotatorNotes T1663	CHEBI:37527 (acid)
+T1664	SO 29414 29437	EST nucleotide sequence
+#1664	AnnotatorNotes T1664	SO:0000345 (EST)
+T1665	SO 29418 29428	nucleotide
+#1665	AnnotatorNotes T1665	SO:0001236 (base)
+T1666	SO 29418 29428	nucleotide
+#1666	AnnotatorNotes T1666	SO:0000348 (nucleic_acid)
+T1667	SO 29529 29537	fragment
+#1667	AnnotatorNotes T1667	SO:0000731 (fragmentary)
+T1668	SO 29567 29572	clone
+#1668	AnnotatorNotes T1668	SO:0000151 (clone)
+T1669	SO 29584 29592	inserted
+#1669	AnnotatorNotes T1669	SO:0000046 (insert)
+T1670	italic 29608 29614	Homer3
+#1670	AnnotatorNotes T1670	italic (null)
+T1671	PR 29608 29614	Homer3
+#1671	AnnotatorNotes T1671	PR:000008680 (homer protein 3)
+T1672	EntrezGene 29608 29614	Homer3
+#1672	AnnotatorNotes T1672	EG:26558
+T1673	SO 29615 29622	plasmid
+#1673	AnnotatorNotes T1673	SO:0000155 (plasmid)
+T1674	GO_BP 29626 29632	create
+#1674	AnnotatorNotes T1674	GO:0009058 (biosynthetic process)
+T1675	GO_BP 29647 29657	expression
+#1675	AnnotatorNotes T1675	GO:0010467 (gene expression)
+T1676	SO 29658 29667	construct
+#1676	AnnotatorNotes T1676	SO:0001037 (mobile_genetic_element)
+T1677	SO 29733 29739	clones
+#1677	AnnotatorNotes T1677	SO:0000151 (clone)
+T1678	SO 29747 29751	cDNA
+#1678	AnnotatorNotes T1678	SO:0000756 (cDNA)
+T1679	italic 29800 29804	Pax6
+#1679	AnnotatorNotes T1679	italic (null)
+T1680	PR 29800 29804	Pax6
+#1680	AnnotatorNotes T1680	PR:000012318 (paired box protein Pax-6)
+T1681	EntrezGene 29800 29804	Pax6
+#1681	AnnotatorNotes T1681	EG:18508
+T1682	italic 29806 29812	Homer3
+#1682	AnnotatorNotes T1682	italic (null)
+T1683	EntrezGene 29806 29812	Homer3
+#1683	AnnotatorNotes T1683	EG:26558
+T1684	PR 29806 29812	Homer3
+#1684	AnnotatorNotes T1684	PR:000008680 (homer protein 3)
+T1685	italic 29814 29819	Dncl1
+#1685	AnnotatorNotes T1685	italic (null)
+T1686	PR 29814 29819	Dncl1
+#1686	AnnotatorNotes T1686	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1687	EntrezGene 29814 29819	Dncl1
+#1687	AnnotatorNotes T1687	EG:56455
+T1688	italic 29821 29827	Trim11
+#1688	AnnotatorNotes T1688	italic (null)
+T1689	EntrezGene 29821 29827	Trim11
+#1689	AnnotatorNotes T1689	EG:94091
+T1690	PR 29821 29827	Trim11
+#1690	AnnotatorNotes T1690	PR:000016642 (tripartite motif-containing protein 11)
+T1691	GO_BP 29851 29860	expressed
+#1691	AnnotatorNotes T1691	GO:0010467 (gene expression)
+T1692	SO 29861 29866	genes
+#1692	AnnotatorNotes T1692	SO:0000704 (gene)
+T1693	italic 29867 29872	Gapdh
+#1693	AnnotatorNotes T1693	italic (null)
+T1694	GO_MF 29867 29872	Gapdh
+#1694	AnnotatorNotes T1694	GO:0008943 (glyceraldehyde-3-phosphate dehydrogenase activity)
+T1695	EntrezGene 29867 29872	Gapdh
+#1695	AnnotatorNotes T1695	EG:14433
+T1696	PR 29867 29872	Gapdh
+#1696	AnnotatorNotes T1696	PR:000007840 (glyceraldehyde-3-phosphate dehydrogenase)
+T1697	independent_continuant 29867 29872	Gapdh
+#1697	AnnotatorNotes T1697	independent_continuant
+T1698	italic 29877 29883	Atp5a1
+#1698	AnnotatorNotes T1698	italic (null)
+T1699	PR 29877 29883	Atp5a1
+#1699	AnnotatorNotes T1699	PR:000004453 (ATP synthase subunit alpha, mitochondrial)
+T1700	EntrezGene 29877 29883	Atp5a1
+#1700	AnnotatorNotes T1700	EG:11946
+T1701	SO 29893 29900	Primers
+#1701	AnnotatorNotes T1701	SO:0000112 (primer)
+T1702	SO 29937 29943	intron
+#1702	AnnotatorNotes T1702	SO:0000188 (intron)
+T1703	GO_BP 29968 29975	spliced
+#1703	AnnotatorNotes T1703	GO:0008380 (RNA splicing)
+T1704	SO 29976 29982	clones
+#1704	AnnotatorNotes T1704	SO:0000151 (clone)
+T1705	SO 29999 30015	Primer sequences
+#1705	AnnotatorNotes T1705	SO:0000112 (primer)
+T1706	EntrezGene 30022 30026	Pax6
+#1706	AnnotatorNotes T1706	EG:18508
+T1707	PR 30022 30026	Pax6
+#1707	AnnotatorNotes T1707	PR:000012318 (paired box protein Pax-6)
+T1708	SO 30027 30028	F
+#1708	AnnotatorNotes T1708	SO:0001030 (forward)
+T1709	EntrezGene 30058 30062	Pax6
+#1709	AnnotatorNotes T1709	EG:18508
+T1710	PR 30058 30062	Pax6
+#1710	AnnotatorNotes T1710	PR:000012318 (paired box protein Pax-6)
+T1711	SO 30063 30064	R
+#1711	AnnotatorNotes T1711	SO:0001031 (reverse)
+T1712	EntrezGene 30093 30099	Homer3
+#1712	AnnotatorNotes T1712	EG:26558
+T1713	PR 30093 30099	Homer3
+#1713	AnnotatorNotes T1713	PR:000008680 (homer protein 3)
+T1714	SO 30100 30101	F
+#1714	AnnotatorNotes T1714	SO:0001030 (forward)
+T1715	EntrezGene 30127 30133	Homer3
+#1715	AnnotatorNotes T1715	EG:26558
+T1716	PR 30127 30133	Homer3
+#1716	AnnotatorNotes T1716	PR:000008680 (homer protein 3)
+T1717	SO 30134 30135	R
+#1717	AnnotatorNotes T1717	SO:0001031 (reverse)
+T1718	CHEBI 30164 30165	G
+#1718	AnnotatorNotes T1718	CHEBI:30755 (guanine group)
+T1719	EntrezGene 30167 30173	Trim11
+#1719	AnnotatorNotes T1719	EG:94091
+T1720	PR 30167 30173	Trim11
+#1720	AnnotatorNotes T1720	PR:000016642 (tripartite motif-containing protein 11)
+T1721	SO 30174 30175	F
+#1721	AnnotatorNotes T1721	SO:0001030 (forward)
+T1722	EntrezGene 30201 30207	Trim11
+#1722	AnnotatorNotes T1722	EG:94091
+T1723	PR 30201 30207	Trim11
+#1723	AnnotatorNotes T1723	PR:000016642 (tripartite motif-containing protein 11)
+T1724	SO 30208 30209	R
+#1724	AnnotatorNotes T1724	SO:0001031 (reverse)
+T1725	EntrezGene 30238 30243	Dncl1
+#1725	AnnotatorNotes T1725	EG:56455
+T1726	PR 30238 30243	Dncl1
+#1726	AnnotatorNotes T1726	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1727	SO 30244 30245	F
+#1727	AnnotatorNotes T1727	SO:0001030 (forward)
+T1728	CHEBI 30270 30271	G
+#1728	AnnotatorNotes T1728	CHEBI:30755 (guanine group)
+T1729	EntrezGene 30273 30278	Dncl1
+#1729	AnnotatorNotes T1729	EG:56455
+T1730	PR 30273 30278	Dncl1
+#1730	AnnotatorNotes T1730	PR:000002325 (dynein light chain 1, cytoplasmic)
+T1731	SO 30279 30280	R
+#1731	AnnotatorNotes T1731	SO:0001031 (reverse)
+T1732	independent_continuant 30310 30315	Gapdh
+#1732	AnnotatorNotes T1732	independent_continuant
+T1733	GO_MF 30310 30315	Gapdh
+#1733	AnnotatorNotes T1733	GO:0008943 (glyceraldehyde-3-phosphate dehydrogenase activity)
+T1734	PR 30310 30315	Gapdh
+#1734	AnnotatorNotes T1734	PR:000007840 (glyceraldehyde-3-phosphate dehydrogenase)
+T1735	EntrezGene 30310 30315	Gapdh
+#1735	AnnotatorNotes T1735	EG:14433
+T1736	SO 30316 30317	F
+#1736	AnnotatorNotes T1736	SO:0001030 (forward)
+T1737	independent_continuant 30347 30352	Gapdh
+#1737	AnnotatorNotes T1737	independent_continuant
+T1738	GO_MF 30347 30352	Gapdh
+#1738	AnnotatorNotes T1738	GO:0008943 (glyceraldehyde-3-phosphate dehydrogenase activity)
+T1739	PR 30347 30352	Gapdh
+#1739	AnnotatorNotes T1739	PR:000007840 (glyceraldehyde-3-phosphate dehydrogenase)
+T1740	EntrezGene 30347 30352	Gapdh
+#1740	AnnotatorNotes T1740	EG:14433
+T1741	SO 30353 30354	R
+#1741	AnnotatorNotes T1741	SO:0001031 (reverse)
+T1742	EntrezGene 30384 30390	Atp5a1
+#1742	AnnotatorNotes T1742	EG:11946
+T1743	PR 30384 30390	Atp5a1
+#1743	AnnotatorNotes T1743	PR:000004453 (ATP synthase subunit alpha, mitochondrial)
+T1744	SO 30391 30392	F
+#1744	AnnotatorNotes T1744	SO:0001030 (forward)
+T1745	EntrezGene 30422 30428	Atp5a1
+#1745	AnnotatorNotes T1745	EG:11946
+T1746	PR 30422 30428	Atp5a1
+#1746	AnnotatorNotes T1746	PR:000004453 (ATP synthase subunit alpha, mitochondrial)
+T1747	SO 30429 30430	R
+#1747	AnnotatorNotes T1747	SO:0001031 (reverse)
+T1748	CHEBI 30456 30457	A
+#1748	AnnotatorNotes T1748	CHEBI:30756 (adenine group)
+T1749	SO 30473 30477	cDNA
+#1749	AnnotatorNotes T1749	SO:0000756 (cDNA)
+T1750	CHEBI 30570 30575	MgCl2
+#1750	AnnotatorNotes T1750	CHEBI:6636 (magnesium dichloride)
+T1751	sub 30574 30575	2
+#1751	AnnotatorNotes T1751	sub (null)
+T1752	SO 30588 30594	primer
+#1752	AnnotatorNotes T1752	SO:0000112 (primer)
+T1753	SO 30774 30782	Products
+#1753	AnnotatorNotes T1753	SO:0000006 (PCR_product)
+T1754	CHEBI 30807 30814	agarose
+#1754	AnnotatorNotes T1754	CHEBI:2511 (agarose)
+T1755	NCBITaxon 30824 30829	ΦX174
+#1755	AnnotatorNotes T1755	NCBITaxon:374840 (Enterobacteria phage phiX174 sensu lato)
+T1756	italic 30830 30833	Hae
+#1756	AnnotatorNotes T1756	italic (null)
+T1757	SO 30881 30887	domain
+#1757	AnnotatorNotes T1757	SO:0000417 (polypeptide_domain)
+T1758	CHEBI 30889 30896	proline
+#1758	AnnotatorNotes T1758	CHEBI:32874 (proline residue)
+T1759	SO 30889 30896	proline
+#1759	AnnotatorNotes T1759	SO:0001439 (proline)
+T1760	CHEBI 30899 30905	serine
+#1760	AnnotatorNotes T1760	CHEBI:32848 (serine residue)
+T1761	SO 30899 30905	serine
+#1761	AnnotatorNotes T1761	SO:0001444 (serine)
+T1762	CHEBI 30911 30920	threonine
+#1762	AnnotatorNotes T1762	CHEBI:32835 (threonine residue)
+T1763	SO 30911 30920	threonine
+#1763	AnnotatorNotes T1763	SO:0001445 (threonine)
+T1764	SO 30926 30932	domain
+#1764	AnnotatorNotes T1764	SO:0000417 (polypeptide_domain)
+T1765	GO_CC 30934 30937	PSD
+#1765	AnnotatorNotes T1765	GO:0014069 (postsynaptic density)
+T1766	GO_CC 30939 30960	post-synaptic density
+#1766	AnnotatorNotes T1766	GO:0014069 (postsynaptic density)
+T1767	GO_CC 30944 30952	synaptic
+#1767	AnnotatorNotes T1767	GO:0045202 (synapse)
+T1768	NCBITaxon 31348 31353	yeast
+#1768	AnnotatorNotes T1768	NCBITaxon:4892 (Saccharomycetales)
+T1769	italic 31445 31451	Homer3
+#1769	AnnotatorNotes T1769	italic (null)
+T1770	PR 31445 31451	Homer3
+#1770	AnnotatorNotes T1770	PR:000008680 (homer protein 3)
+T1771	EntrezGene 31445 31451	Homer3
+#1771	AnnotatorNotes T1771	EG:26558
+T1772	SO 31458 31463	clone
+#1772	AnnotatorNotes T1772	SO:0000151 (clone)
+T1773	GO_BP 31496 31501	Sight
+#1773	AnnotatorNotes T1773	GO:0007601 (visual perception)

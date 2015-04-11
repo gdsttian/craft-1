@@ -1,0 +1,3534 @@
+T1	GO_CC 0 8	Membrane
+#1	AnnotatorNotes T1	GO:0016020 (membrane)
+T2	GO_BP 9 20	trafficking
+#2	AnnotatorNotes T2	GO:0006810 (transport)
+T3	GO_CC 25 38	mitochondrial
+#3	AnnotatorNotes T3	GO:0005739 (mitochondrion)
+T4	PR 61 70	subunit c
+#4	AnnotatorNotes T4	PR:000022190 (ATP synthase subunit c)
+T5	CL 98 102	cell
+#5	AnnotatorNotes T5	CL:0000000 (cell)
+T6	GO_CC 98 102	cell
+#6	AnnotatorNotes T6	GO:0005623 (cell)
+T7	CL 121 129	neuronal
+#7	AnnotatorNotes T7	CL:0000540 (neuron)
+T8	italic 282 286	CLN3
+#8	AnnotatorNotes T8	italic (null)
+T9	PR 282 286	CLN3
+#9	AnnotatorNotes T9	PR:000005591 (battenin)
+T10	EntrezGene 282 286	CLN3
+#10	AnnotatorNotes T10	EG:1201
+T11	SO 287 295	mutation
+#11	AnnotatorNotes T11	SO:0001059 (sequence_alteration)
+T12	EntrezGene 319 327	battenin
+#12	AnnotatorNotes T12	EG:1201
+T13	PR 319 327	battenin
+#13	AnnotatorNotes T13	PR:000005591 (battenin)
+T14	PR 360 397	mitochondrial ATP synthase, subunit c
+#14	AnnotatorNotes T14	PR:000022190 (ATP synthase subunit c)
+T15	GO_CC 360 386	mitochondrial ATP synthase
+#15	AnnotatorNotes T15	GO:0005753 (mitochondrial proton-transporting ATP synthase complex)
+T16	GO_CC 360 373	mitochondrial
+#16	AnnotatorNotes T16	GO:0005739 (mitochondrion)
+T17	CHEBI 374 377	ATP
+#17	AnnotatorNotes T17	CHEBI:15422 (ATP)
+T18	CHEBI 374 377	ATP
+#18	AnnotatorNotes T18	CHEBI:30616 (ATP(4-))
+T19	CL 421 432	CNS neurons
+#19	AnnotatorNotes T19	CL:0000117 (CNS neuron (sensu Vertebrata))
+T20	GO_BP 448 457	generated
+#20	AnnotatorNotes T20	GO:0000003 (reproduction)
+T21	italic 458 462	Cln3
+#21	AnnotatorNotes T21	italic (null)
+T22	sup 462 468	Δex7/8
+#22	AnnotatorNotes T22	sup (null)
+T23	NCBITaxon 478 482	mice
+#23	AnnotatorNotes T23	NCBITaxon:10088 (Mus)
+T24	GO_BP 490 499	replicate
+#24	AnnotatorNotes T24	GO:0006260 (DNA replication)
+T25	SO 516 524	mutation
+#25	AnnotatorNotes T25	SO:0001059 (sequence_alteration)
+T26	GO_BP 526 533	express
+#26	AnnotatorNotes T26	GO:0010467 (gene expression)
+T27	SO 534 540	mutant
+#27	AnnotatorNotes T27	SO:0001059 (sequence_alteration)
+T28	EntrezGene 541 549	battenin
+#28	AnnotatorNotes T28	EG:12752
+T29	PR 541 549	battenin
+#29	AnnotatorNotes T29	PR:000005591 (battenin)
+T30	SO 642 650	mutation
+#30	AnnotatorNotes T30	SO:0001059 (sequence_alteration)
+T31	CL 654 668	neuronal cells
+#31	AnnotatorNotes T31	CL:0000540 (neuron)
+T32	GO_CC 663 668	cells
+#32	AnnotatorNotes T32	GO:0005623 (cell)
+T33	NCBITaxon 690 695	mouse
+#33	AnnotatorNotes T33	NCBITaxon:10088 (Mus)
+T34	GO_BP 709 718	establish
+#34	AnnotatorNotes T34	GO:0032502 (developmental process)
+T35	italic 748 752	Cln3
+#35	AnnotatorNotes T35	italic (null)
+T36	SO 753 762	wild-type
+#36	AnnotatorNotes T36	SO:0000817 (wild_type)
+T37	CL 793 801	neuronal
+#37	AnnotatorNotes T37	CL:0000540 (neuron)
+T38	CL 812 816	cell
+#38	AnnotatorNotes T38	CL:0000000 (cell)
+T39	GO_CC 812 816	cell
+#39	AnnotatorNotes T39	GO:0005623 (cell)
+T40	GO_BP 837 851	differentiated
+#40	AnnotatorNotes T40	GO:0030154 (cell differentiation)
+T41	EntrezGene 857 862	MAP-2
+#41	AnnotatorNotes T41	EG:17756
+T42	PR 857 862	MAP-2
+#42	AnnotatorNotes T42	PR:000010124 (microtubule-associated protein 2)
+T43	EntrezGene 867 871	NeuN
+#43	AnnotatorNotes T43	EG:52897
+T44	CL 882 888	neuron
+#44	AnnotatorNotes T44	CL:0000540 (neuron)
+T45	CL 894 899	cells
+#45	AnnotatorNotes T45	CL:0000000 (cell)
+T46	GO_CC 894 899	cells
+#46	AnnotatorNotes T46	GO:0005623 (cell)
+T47	italic 914 918	Cln3
+#47	AnnotatorNotes T47	italic (null)
+T48	sup 918 924	Δex7/8
+#48	AnnotatorNotes T48	sup (null)
+T49	CL 935 940	cells
+#49	AnnotatorNotes T49	CL:0000000 (cell)
+T50	GO_CC 935 940	cells
+#50	AnnotatorNotes T50	GO:0005623 (cell)
+T51	GO_BP 941 948	express
+#51	AnnotatorNotes T51	GO:0010467 (gene expression)
+T52	SO 963 969	mutant
+#52	AnnotatorNotes T52	SO:0001059 (sequence_alteration)
+T53	EntrezGene 970 978	battenin
+#53	AnnotatorNotes T53	EG:12752
+T54	PR 970 978	battenin
+#54	AnnotatorNotes T54	PR:000005591 (battenin)
+T55	GO_BP 989 993	aged
+#55	AnnotatorNotes T55	GO:0007568 (aging)
+T56	PR 1020 1036	ATPase subunit c
+#56	AnnotatorNotes T56	PR:000022190 (ATP synthase subunit c)
+T57	GO_MF 1020 1026	ATPase
+#57	AnnotatorNotes T57	GO:0016887 (ATPase activity)
+T58	independent_continuant 1020 1026	ATPase
+#58	AnnotatorNotes T58	independent_continuant
+T59	GO_BP 1094 1100	growth
+#59	AnnotatorNotes T59	GO:0040007 (growth)
+T60	independent_continuant 1102 1113	cathepsin D
+#60	AnnotatorNotes T60	independent_continuant
+T61	EntrezGene 1102 1113	cathepsin D
+#61	AnnotatorNotes T61	EG:13033
+T62	PR 1102 1113	cathepsin D
+#62	AnnotatorNotes T62	PR:000006025 (cathepsin D)
+T63	GO_MF 1102 1113	cathepsin D
+#63	AnnotatorNotes T63	GO:0004192 (cathepsin D activity)
+T64	GO_BP 1114 1123	transport
+#64	AnnotatorNotes T64	GO:0006810 (transport)
+T65	GO_BP 1128 1138	processing
+#65	AnnotatorNotes T65	GO:0016485 (protein processing)
+T66	SO 1161 1167	enzyme
+#66	AnnotatorNotes T66	SO:0001185 (enzymatic)
+T67	GO_BP 1208 1239	lysosomal size and distribution
+#67	AnnotatorNotes T67	"lysosomal .. distribution" GO:0032418 (lysosome localization)
+T68	GO_CC 1208 1217	lysosomal
+#68	AnnotatorNotes T68	GO:0005764 (lysosome)
+T69	GO_BP 1257 1268	endocytosis
+#69	AnnotatorNotes T69	GO:0006897 (endocytosis)
+T70	GO_CC 1294 1306	mitochondria
+#70	AnnotatorNotes T70	GO:0005739 (mitochondrion)
+T71	CL 1333 1341	cellular
+#71	AnnotatorNotes T71	CL:0000000 (cell)
+T72	GO_CC 1333 1341	cellular
+#72	AnnotatorNotes T72	GO:0005623 (cell)
+T73	CHEBI 1342 1345	ATP
+#73	AnnotatorNotes T73	CHEBI:15422 (ATP)
+T74	CHEBI 1342 1345	ATP
+#74	AnnotatorNotes T74	CHEBI:30616 (ATP(4-))
+T75	EntrezGene 1461 1469	battenin
+#75	AnnotatorNotes T75	EG:12752
+T76	PR 1461 1469	battenin
+#76	AnnotatorNotes T76	PR:000005591 (battenin)
+T77	GO_BP 1486 1520	intracellular membrane trafficking
+#77	AnnotatorNotes T77	"intracellular .. trafficking" GO:0046907 (intracellular transport)
+T78	GO_CC 1486 1499	intracellular
+#78	AnnotatorNotes T78	GO:0005622 (intracellular)
+T79	GO_CC 1500 1508	membrane
+#79	AnnotatorNotes T79	GO:0016020 (membrane)
+T80	GO_CC 1525 1538	mitochondrial
+#80	AnnotatorNotes T80	GO:0005739 (mitochondrion)
+T81	CL 1664 1672	neuronal
+#81	AnnotatorNotes T81	CL:0000540 (neuron)
+T82	CL 1705 1713	neuronal
+#82	AnnotatorNotes T82	CL:0000540 (neuron)
+T83	GO_BP 1883 1888	motor
+#83	AnnotatorNotes T83	GO:0050879 (multicellular organismal movement)
+T84	GO_BP 1893 1902	cognitive
+#84	AnnotatorNotes T84	GO:0050890 (cognition)
+T85	GO_BP 1922 1927	death
+#85	AnnotatorNotes T85	GO:0016265 (death)
+T86	SO 1945 1952	genetic
+#86	AnnotatorNotes T86	SO:0000704 (gene)
+T87	GO_CC 1974 1985	chromosomes
+#87	AnnotatorNotes T87	GO:0005694 (chromosome)
+T88	SO 1974 1985	chromosomes
+#88	AnnotatorNotes T88	SO:0000340 (chromosome)
+T89	SO 2016 2027	genomic DNA
+#89	AnnotatorNotes T89	SO:0000991 (genomic_DNA)
+T90	SO 2016 2023	genomic
+#90	AnnotatorNotes T90	SO:0001026 (genome)
+T91	SO 2028 2036	deletion
+#91	AnnotatorNotes T91	SO:0000159 (deletion)
+T92	italic 2044 2048	CLN3
+#92	AnnotatorNotes T92	italic (null)
+T93	PR 2044 2048	CLN3
+#93	AnnotatorNotes T93	PR:000005591 (battenin)
+T94	EntrezGene 2044 2048	CLN3
+#94	AnnotatorNotes T94	EG:1201
+T95	SO 2049 2053	gene
+#95	AnnotatorNotes T95	SO:0000704 (gene)
+T96	SO 2061 2071	eliminates
+#96	AnnotatorNotes T96	SO:0000045 (delete)
+T97	SO 2072 2077	exons
+#97	AnnotatorNotes T97	SO:0000147 (exon)
+T98	SO 2102 2110	intronic
+#98	AnnotatorNotes T98	SO:0000188 (intron)
+T99	SO 2111 2114	DNA
+#99	AnnotatorNotes T99	SO:0000352 (DNA)
+T100	CHEBI 2144 2159	protein product
+#100	AnnotatorNotes T100	CHEBI:36080 (proteins)
+T101	PR 2288 2339	subunit c of the mitochondrial ATP synthase complex
+#101	AnnotatorNotes T101	PR:000022190 (ATP synthase subunit c)
+T102	GO_CC 2305 2339	mitochondrial ATP synthase complex
+#102	AnnotatorNotes T102	GO:0005753 (mitochondrial proton-transporting ATP synthase complex)
+T103	GO_CC 2305 2318	mitochondrial
+#103	AnnotatorNotes T103	GO:0005739 (mitochondrion)
+T104	CHEBI 2319 2322	ATP
+#104	AnnotatorNotes T104	CHEBI:15422 (ATP)
+T105	CHEBI 2319 2322	ATP
+#105	AnnotatorNotes T105	CHEBI:30616 (ATP(4-))
+T106	CL 2396 2407	CNS neurons
+#106	AnnotatorNotes T106	CL:0000117 (CNS neuron (sensu Vertebrata))
+T107	CL 2437 2445	neuronal
+#107	AnnotatorNotes T107	CL:0000540 (neuron)
+T108	CL 2446 2451	cells
+#108	AnnotatorNotes T108	CL:0000000 (cell)
+T109	GO_CC 2446 2451	cells
+#109	AnnotatorNotes T109	GO:0005623 (cell)
+T110	PR 2503 2512	subunit c
+#110	AnnotatorNotes T110	PR:000022190 (ATP synthase subunit c)
+T111	CL 2585 2593	neuronal
+#111	AnnotatorNotes T111	CL:0000540 (neuron)
+T112	italic 2652 2656	CLN3
+#112	AnnotatorNotes T112	italic (null)
+T113	EntrezGene 2652 2656	CLN3
+#113	AnnotatorNotes T113	EG:1201
+T114	PR 2652 2656	CLN3
+#114	AnnotatorNotes T114	PR:000005591 (battenin)
+T115	CHEBI 2665 2672	protein
+#115	AnnotatorNotes T115	CHEBI:36080 (proteins)
+T116	EntrezGene 2674 2682	battenin
+#116	AnnotatorNotes T116	EG:1201
+T117	PR 2674 2682	battenin
+#117	AnnotatorNotes T117	PR:000005591 (battenin)
+T118	EntrezGene 2696 2700	CLN3
+#118	AnnotatorNotes T118	EG:1201
+T119	PR 2696 2700	CLN3
+#119	AnnotatorNotes T119	PR:000005591 (battenin)
+T120	PR 2704 2710	cln3 p
+#120	AnnotatorNotes T120	PR:000005591 (battenin)
+T121	EntrezGene 2704 2708	cln3
+#121	AnnotatorNotes T121	EG:1201
+T122	SO 2724 2733	conserved
+#122	AnnotatorNotes T122	SO:0000856 (conserved)
+T123	GO_BP 2748 2757	expressed
+#123	AnnotatorNotes T123	GO:0010467 (gene expression)
+T124	GO_CC 2770 2778	membrane
+#124	AnnotatorNotes T124	GO:0016020 (membrane)
+T125	CHEBI 2779 2786	protein
+#125	AnnotatorNotes T125	CHEBI:36080 (proteins)
+T126	GO_BP 2796 2805	localizes
+#126	AnnotatorNotes T126	GO:0051179 (localization)
+T127	GO_CC 2813 2821	lysosome
+#127	AnnotatorNotes T127	GO:0005764 (lysosome)
+T128	GO_CC 2832 2854	vesicular compartments
+#128	AnnotatorNotes T128	GO:0031982 (vesicle)
+T129	EntrezGene 2862 2870	Battenin
+#129	AnnotatorNotes T129	EG:1201
+T130	PR 2862 2870	Battenin
+#130	AnnotatorNotes T130	PR:000005591 (battenin)
+T131	italic 2926 2930	btn1
+#131	AnnotatorNotes T131	italic (null)
+T132	EntrezGene 2926 2930	btn1
+#132	AnnotatorNotes T132	EG:853387
+T133	PR 2926 2930	btn1
+#133	AnnotatorNotes T133	PR:000005591 (battenin)
+T134	NCBITaxon 2936 2941	yeast
+#134	AnnotatorNotes T134	NCBITaxon:4892 (Saccharomycetales)
+T135	italic 2942 2946	CLN3
+#135	AnnotatorNotes T135	italic (null)
+T136	PR 2942 2946	CLN3
+#136	AnnotatorNotes T136	PR:000005591 (battenin)
+T137	EntrezGene 2942 2946	CLN3
+#137	AnnotatorNotes T137	EG:1201
+T138	SO 2947 2955	ortholog
+#138	AnnotatorNotes T138	SO:0000855 (orthologous_region)
+T139	EntrezGene 2973 2981	battenin
+#139	AnnotatorNotes T139	EG:1201
+T140	PR 2973 2981	battenin
+#140	AnnotatorNotes T140	PR:000005591 (battenin)
+T141	GO_CC 2985 2994	lysosomal
+#141	AnnotatorNotes T141	GO:0005764 (lysosome)
+T142	GO_BP 2995 3009	pH homeostasis
+#142	AnnotatorNotes T142	GO:0006885 (regulation of pH)
+T143	GO_BP 3014 3034	amino acid transport
+#143	AnnotatorNotes T143	GO:0006865 (amino acid transport)
+T144	CHEBI 3014 3024	amino acid
+#144	AnnotatorNotes T144	CHEBI:33709 (amino acids)
+T145	CHEBI 3014 3019	amino
+#145	AnnotatorNotes T145	CHEBI:32952 (amines)
+T146	CHEBI 3014 3019	amino
+#146	AnnotatorNotes T146	CHEBI:46882 (amino group)
+T147	EntrezGene 3078 3086	battenin
+#147	AnnotatorNotes T147	EG:1201
+T148	PR 3078 3086	battenin
+#148	AnnotatorNotes T148	PR:000005591 (battenin)
+T149	GO_BP 3111 3120	generated
+#149	AnnotatorNotes T149	GO:0000003 (reproduction)
+T150	SO 3123 3134	genetically
+#150	AnnotatorNotes T150	SO:0000704 (gene)
+T151	NCBITaxon 3148 3153	mouse
+#151	AnnotatorNotes T151	NCBITaxon:10088 (Mus)
+T152	italic 3161 3165	Cln3
+#152	AnnotatorNotes T152	italic (null)
+T153	sup 3165 3171	Δex7/8
+#153	AnnotatorNotes T153	sup (null)
+T154	NCBITaxon 3181 3185	mice
+#154	AnnotatorNotes T154	NCBITaxon:10088 (Mus)
+T155	SO 3215 3223	mutation
+#155	AnnotatorNotes T155	SO:0001059 (sequence_alteration)
+T156	GO_BP 3228 3235	express
+#156	AnnotatorNotes T156	GO:0010467 (gene expression)
+T157	SO 3252 3258	mutant
+#157	AnnotatorNotes T157	SO:0001059 (sequence_alteration)
+T158	EntrezGene 3259 3267	battenin
+#158	AnnotatorNotes T158	EG:12752
+T159	PR 3259 3267	battenin
+#159	AnnotatorNotes T159	PR:000005591 (battenin)
+T160	SO 3268 3275	isoform
+#160	AnnotatorNotes T160	SO:0001060 (sequence_variant)
+T161	GO_CC 3300 3310	antibodies
+#161	AnnotatorNotes T161	GO:0019814 (immunoglobulin complex)
+T162	SO 3323 3333	C-terminal
+#162	AnnotatorNotes T162	SO:0100015 (c_terminal_region)
+T163	CHEBI 3323 3324	C
+#163	AnnotatorNotes T163	CHEBI:46883 (carboxy group)
+T164	CHEBI 3323 3324	C
+#164	AnnotatorNotes T164	CHEBI:18245 (carboxylato group)
+T165	SO 3334 3342	epitopes
+#165	AnnotatorNotes T165	SO:0001018 (epitope)
+T166	italic 3355 3359	Cln3
+#166	AnnotatorNotes T166	italic (null)
+T167	sup 3359 3365	Δex7/8
+#167	AnnotatorNotes T167	sup (null)
+T168	NCBITaxon 3375 3379	mice
+#168	AnnotatorNotes T168	NCBITaxon:10088 (Mus)
+T169	PR 3445 3454	subunit c
+#169	AnnotatorNotes T169	PR:000022190 (ATP synthase subunit c)
+T170	CL 3474 3478	cell
+#170	AnnotatorNotes T170	CL:0000000 (cell)
+T171	GO_CC 3474 3478	cell
+#171	AnnotatorNotes T171	GO:0005623 (cell)
+T172	CL 3504 3512	neuronal
+#172	AnnotatorNotes T172	CL:0000540 (neuron)
+T173	GO_BP 3529 3539	behavioral
+#173	AnnotatorNotes T173	GO:0007610 (behavior)
+T174	PR 3635 3658	mitochondrial subunit c
+#174	AnnotatorNotes T174	PR:000022190 (ATP synthase subunit c)
+T175	GO_CC 3635 3648	mitochondrial
+#175	AnnotatorNotes T175	GO:0005739 (mitochondrion)
+T176	CL 3701 3712	CNS neurons
+#176	AnnotatorNotes T176	CL:0000117 (CNS neuron (sensu Vertebrata))
+T177	CL 3747 3760	neuronal cell
+#177	AnnotatorNotes T177	CL:0000540 (neuron)
+T178	GO_CC 3756 3760	cell
+#178	AnnotatorNotes T178	GO:0005623 (cell)
+T179	SO 3813 3821	mutation
+#179	AnnotatorNotes T179	SO:0001059 (sequence_alteration)
+T180	GO_BP 3825 3845	biological processes
+#180	AnnotatorNotes T180	GO:0008150 (biological_process)
+T181	GO_BP 3866 3877	established
+#181	AnnotatorNotes T181	GO:0032502 (developmental process)
+T182	CL 3889 3897	neuronal
+#182	AnnotatorNotes T182	CL:0000540 (neuron)
+T183	CL 3908 3912	cell
+#183	AnnotatorNotes T183	CL:0000000 (cell)
+T184	GO_CC 3908 3912	cell
+#184	AnnotatorNotes T184	GO:0005623 (cell)
+T185	italic 3924 3928	Cln3
+#185	AnnotatorNotes T185	italic (null)
+T186	sup 3928 3934	Δex7/8
+#186	AnnotatorNotes T186	sup (null)
+T187	NCBITaxon 3944 3948	mice
+#187	AnnotatorNotes T187	NCBITaxon:10088 (Mus)
+T188	italic 3963 3967	Cln3
+#188	AnnotatorNotes T188	italic (null)
+T189	sup 3967 3973	Δex7/8
+#189	AnnotatorNotes T189	sup (null)
+T190	CL 3974 3979	cells
+#190	AnnotatorNotes T190	CL:0000000 (cell)
+T191	GO_CC 3974 3979	cells
+#191	AnnotatorNotes T191	GO:0005623 (cell)
+T192	GO_CC 4043 4062	membrane organelles
+#192	AnnotatorNotes T192	GO:0043227 (membrane-bound organelle)
+T193	GO_CC 4043 4051	membrane
+#193	AnnotatorNotes T193	GO:0016020 (membrane)
+T194	GO_CC 4072 4080	membrane
+#194	AnnotatorNotes T194	GO:0016020 (membrane)
+T195	GO_BP 4081 4092	trafficking
+#195	AnnotatorNotes T195	GO:0006810 (transport)
+T196	GO_CC 4105 4118	mitochondrial
+#196	AnnotatorNotes T196	GO:0005739 (mitochondrion)
+T197	SO 4145 4151	mutant
+#197	AnnotatorNotes T197	SO:0001059 (sequence_alteration)
+T198	italic 4154 4158	Cln3
+#198	AnnotatorNotes T198	italic (null)
+T199	sup 4158 4164	Δex7/8
+#199	AnnotatorNotes T199	sup (null)
+T200	CL 4165 4170	cells
+#200	AnnotatorNotes T200	CL:0000000 (cell)
+T201	GO_CC 4165 4170	cells
+#201	AnnotatorNotes T201	GO:0005623 (cell)
+T202	GO_BP 4182 4192	Generation
+#202	AnnotatorNotes T202	GO:0032502 (developmental process)
+T203	SO 4198 4209	genetically
+#203	AnnotatorNotes T203	SO:0000704 (gene)
+T204	CL 4234 4238	cell
+#204	AnnotatorNotes T204	CL:0000000 (cell)
+T205	GO_CC 4234 4238	cell
+#205	AnnotatorNotes T205	GO:0005623 (cell)
+T206	GO_BP 4249 4257	generate
+#206	AnnotatorNotes T206	GO:0032502 (developmental process)
+T207	SO 4268 4275	genetic
+#207	AnnotatorNotes T207	SO:0000704 (gene)
+T208	CL 4277 4283	neuron
+#208	AnnotatorNotes T208	CL:0000540 (neuron)
+T209	CL 4297 4301	cell
+#209	AnnotatorNotes T209	CL:0000000 (cell)
+T210	GO_CC 4297 4301	cell
+#210	AnnotatorNotes T210	GO:0005623 (cell)
+T211	CL 4334 4349	granule neurons
+#211	AnnotatorNotes T211	CL:0000120 (granule cell)
+T212	italic 4426 4430	Cln3
+#212	AnnotatorNotes T212	italic (null)
+T213	sup 4430 4436	Δex7/8
+#213	AnnotatorNotes T213	sup (null)
+T214	NCBITaxon 4446 4450	mice
+#214	AnnotatorNotes T214	NCBITaxon:10088 (Mus)
+T215	SO 4456 4465	wild-type
+#215	AnnotatorNotes T215	SO:0000817 (wild_type)
+T216	CL 4487 4491	cell
+#216	AnnotatorNotes T216	CL:0000000 (cell)
+T217	GO_CC 4487 4491	cell
+#217	AnnotatorNotes T217	GO:0005623 (cell)
+T218	CL 4514 4529	granule neurons
+#218	AnnotatorNotes T218	CL:0000120 (granule cell)
+T219	GO_BP 4535 4545	transduced
+#219	AnnotatorNotes T219	GO:0009293 (transduction)
+T220	NCBITaxon 4551 4561	retroviral
+#220	AnnotatorNotes T220	NCBITaxon:11632 (Retroviridae)
+T221	SO 4562 4568	vector
+#221	AnnotatorNotes T221	SO:0000440 (vector_replicon)
+T222	SO 4589 4597	cassette
+#222	AnnotatorNotes T222	SO:0005853 (gene_cassette)
+T223	EntrezGene 4630 4650	SV40 large T antigen
+#223	AnnotatorNotes T223	EG:1489531
+T224	NCBITaxon 4630 4634	SV40
+#224	AnnotatorNotes T224	NCBITaxon:10633 (Simian virus 40)
+T225	GO_BP 4652 4658	Growth
+#225	AnnotatorNotes T225	GO:0040007 (growth)
+T226	EntrezGene 4777 4783	nestin
+#226	AnnotatorNotes T226	EG:18008
+T227	PR 4777 4783	nestin
+#227	AnnotatorNotes T227	PR:000011141 (nestin)
+T228	EntrezGene 4808 4812	GFAP
+#228	AnnotatorNotes T228	EG:14580
+T229	PR 4808 4812	GFAP
+#229	AnnotatorNotes T229	PR:000007939 (glial fibrillary acidic protein)
+T230	CL 4833 4837	cell
+#230	AnnotatorNotes T230	CL:0000000 (cell)
+T231	GO_CC 4833 4837	cell
+#231	AnnotatorNotes T231	GO:0005623 (cell)
+T232	SO 4853 4861	genotype
+#232	AnnotatorNotes T232	SO:0001027 (genotype)
+T233	SO 4866 4874	genotype
+#233	AnnotatorNotes T233	SO:0001027 (genotype)
+T234	CL 4913 4921	cellular
+#234	AnnotatorNotes T234	CL:0000000 (cell)
+T235	GO_CC 4913 4921	cellular
+#235	AnnotatorNotes T235	GO:0005623 (cell)
+T236	EntrezGene 4993 5013	SV40 large T antigen
+#236	AnnotatorNotes T236	EG:1489531
+T237	NCBITaxon 4993 4997	SV40
+#237	AnnotatorNotes T237	NCBITaxon:10633 (Simian virus 40)
+T238	GO_BP 5014 5024	expression
+#238	AnnotatorNotes T238	GO:0010467 (gene expression)
+T239	GO_BP 5046 5059	cell division
+#239	AnnotatorNotes T239	GO:0051301 (cell division)
+T240	CL 5046 5050	cell
+#240	AnnotatorNotes T240	CL:0000000 (cell)
+T241	GO_CC 5046 5050	cell
+#241	AnnotatorNotes T241	GO:0005623 (cell)
+T242	CL 5072 5077	cells
+#242	AnnotatorNotes T242	CL:0000000 (cell)
+T243	GO_CC 5072 5077	cells
+#243	AnnotatorNotes T243	GO:0005623 (cell)
+T244	CL 5167 5175	neuronal
+#244	AnnotatorNotes T244	CL:0000540 (neuron)
+T245	GO_BP 5176 5191	differentiation
+#245	AnnotatorNotes T245	GO:0030154 (cell differentiation)
+T246	CL 5212 5217	cells
+#246	AnnotatorNotes T246	CL:0000000 (cell)
+T247	GO_CC 5212 5217	cells
+#247	AnnotatorNotes T247	GO:0005623 (cell)
+T248	CL 5225 5231	neuron
+#248	AnnotatorNotes T248	CL:0000540 (neuron)
+T249	EntrezGene 5275 5281	nestin
+#249	AnnotatorNotes T249	EG:18008
+T250	PR 5275 5281	nestin
+#250	AnnotatorNotes T250	PR:000011141 (nestin)
+T251	GO_BP 5282 5292	expression
+#251	AnnotatorNotes T251	GO:0010467 (gene expression)
+T252	EntrezGene 5324 5328	MAP2
+#252	AnnotatorNotes T252	EG:17756
+T253	PR 5324 5328	MAP2
+#253	AnnotatorNotes T253	PR:000010124 (microtubule-associated protein 2)
+T254	EntrezGene 5333 5337	NeuN
+#254	AnnotatorNotes T254	EG:52897
+T255	GO_BP 5338 5348	expression
+#255	AnnotatorNotes T255	GO:0010467 (gene expression)
+T256	GO_BP 5371 5381	expression
+#256	AnnotatorNotes T256	GO:0010467 (gene expression)
+T257	EntrezGene 5406 5415	calbindin
+#257	AnnotatorNotes T257	EG:12307
+T258	PR 5406 5415	calbindin
+#258	AnnotatorNotes T258	PR:000004967 (calbindin)
+T259	bold 5438 5483	Neuronal marker expression in CbCln3+/+ cells
+#259	AnnotatorNotes T259	bold (null)
+T260	CL 5438 5446	Neuronal
+#260	AnnotatorNotes T260	CL:0000540 (neuron)
+T261	GO_BP 5454 5464	expression
+#261	AnnotatorNotes T261	GO:0010467 (gene expression)
+T262	italic 5470 5474	Cln3
+#262	AnnotatorNotes T262	italic (null)
+T263	sup 5474 5477	+/+
+#263	AnnotatorNotes T263	sup (null)
+T264	SO 5474 5475	+
+#264	AnnotatorNotes T264	SO:0000817 (wild_type)
+T265	SO 5476 5477	+
+#265	AnnotatorNotes T265	SO:0000817 (wild_type)
+T266	CL 5478 5483	cells
+#266	AnnotatorNotes T266	CL:0000000 (cell)
+T267	GO_CC 5478 5483	cells
+#267	AnnotatorNotes T267	GO:0005623 (cell)
+T268	italic 5506 5510	Cln3
+#268	AnnotatorNotes T268	italic (null)
+T269	sup 5510 5513	+/+
+#269	AnnotatorNotes T269	sup (null)
+T270	SO 5510 5511	+
+#270	AnnotatorNotes T270	SO:0000817 (wild_type)
+T271	SO 5512 5513	+
+#271	AnnotatorNotes T271	SO:0000817 (wild_type)
+T272	CL 5514 5519	cells
+#272	AnnotatorNotes T272	CL:0000000 (cell)
+T273	GO_CC 5514 5519	cells
+#273	AnnotatorNotes T273	GO:0005623 (cell)
+T274	GO_CC 5554 5564	antibodies
+#274	AnnotatorNotes T274	GO:0019814 (immunoglobulin complex)
+T275	italic 5577 5581	Cln3
+#275	AnnotatorNotes T275	italic (null)
+T276	sup 5581 5584	+/+
+#276	AnnotatorNotes T276	sup (null)
+T277	SO 5581 5582	+
+#277	AnnotatorNotes T277	SO:0000817 (wild_type)
+T278	SO 5583 5584	+
+#278	AnnotatorNotes T278	SO:0000817 (wild_type)
+T279	EntrezGene 5604 5610	nestin
+#279	AnnotatorNotes T279	EG:18008
+T280	PR 5604 5610	nestin
+#280	AnnotatorNotes T280	PR:000011141 (nestin)
+T281	GO_BP 5611 5621	expression
+#281	AnnotatorNotes T281	GO:0010467 (gene expression)
+T282	EntrezGene 5634 5638	GFAP
+#282	AnnotatorNotes T282	EG:14580
+T283	PR 5634 5638	GFAP
+#283	AnnotatorNotes T283	PR:000007939 (glial fibrillary acidic protein)
+T284	GO_BP 5639 5649	expression
+#284	AnnotatorNotes T284	GO:0010467 (gene expression)
+T285	CL 5673 5681	neuronal
+#285	AnnotatorNotes T285	CL:0000540 (neuron)
+T286	GO_BP 5707 5718	stimulation
+#286	AnnotatorNotes T286	GO:0001775 (cell activation)
+T287	GO_BP 5726 5741	differentiation
+#287	AnnotatorNotes T287	GO:0030154 (cell differentiation)
+T288	italic 5768 5772	Cln3
+#288	AnnotatorNotes T288	italic (null)
+T289	sup 5772 5775	+/+
+#289	AnnotatorNotes T289	sup (null)
+T290	SO 5772 5773	+
+#290	AnnotatorNotes T290	SO:0000817 (wild_type)
+T291	SO 5774 5775	+
+#291	AnnotatorNotes T291	SO:0000817 (wild_type)
+T292	CL 5776 5781	cells
+#292	AnnotatorNotes T292	CL:0000000 (cell)
+T293	GO_CC 5776 5781	cells
+#293	AnnotatorNotes T293	GO:0005623 (cell)
+T294	CL 5791 5797	neuron
+#294	AnnotatorNotes T294	CL:0000540 (neuron)
+T295	CL 5828 5832	cell
+#295	AnnotatorNotes T295	CL:0000000 (cell)
+T296	GO_CC 5828 5832	cell
+#296	AnnotatorNotes T296	GO:0005623 (cell)
+T297	EntrezGene 5872 5876	MAP2
+#297	AnnotatorNotes T297	EG:17756
+T298	PR 5872 5876	MAP2
+#298	AnnotatorNotes T298	PR:000010124 (microtubule-associated protein 2)
+T299	EntrezGene 5885 5889	NeuN
+#299	AnnotatorNotes T299	EG:52897
+T300	GO_BP 5894 5904	expression
+#300	AnnotatorNotes T300	GO:0010467 (gene expression)
+T301	italic 5922 5926	Cln3
+#301	AnnotatorNotes T301	italic (null)
+T302	sup 5926 5929	+/+
+#302	AnnotatorNotes T302	sup (null)
+T303	SO 5926 5927	+
+#303	AnnotatorNotes T303	SO:0000817 (wild_type)
+T304	SO 5928 5929	+
+#304	AnnotatorNotes T304	SO:0000817 (wild_type)
+T305	CL 5930 5935	cells
+#305	AnnotatorNotes T305	CL:0000000 (cell)
+T306	GO_CC 5930 5935	cells
+#306	AnnotatorNotes T306	GO:0005623 (cell)
+T307	CL 5957 5972	Purkinje neuron
+#307	AnnotatorNotes T307	CL:0000121 (Purkinje cell)
+T308	EntrezGene 5980 5989	calbindin
+#308	AnnotatorNotes T308	EG:12307
+T309	PR 5980 5989	calbindin
+#309	AnnotatorNotes T309	PR:000004967 (calbindin)
+T310	italic 5997 6001	Cln3
+#310	AnnotatorNotes T310	italic (null)
+T311	sup 6001 6009	+/Δex7/8
+#311	AnnotatorNotes T311	sup (null)
+T312	SO 6001 6002	+
+#312	AnnotatorNotes T312	SO:0000817 (wild_type)
+T313	italic 6016 6020	Cln3
+#313	AnnotatorNotes T313	italic (null)
+T314	sup 6020 6033	Δex7/8/Δex7/8
+#314	AnnotatorNotes T314	sup (null)
+T315	CL 6034 6038	cell
+#315	AnnotatorNotes T315	CL:0000000 (cell)
+T316	GO_CC 6034 6038	cell
+#316	AnnotatorNotes T316	GO:0005623 (cell)
+T317	italic 6169 6173	Cln3
+#317	AnnotatorNotes T317	italic (null)
+T318	sup 6173 6179	Δex7/8
+#318	AnnotatorNotes T318	sup (null)
+T319	CL 6180 6185	cells
+#319	AnnotatorNotes T319	CL:0000000 (cell)
+T320	GO_CC 6180 6185	cells
+#320	AnnotatorNotes T320	GO:0005623 (cell)
+T321	GO_BP 6186 6193	express
+#321	AnnotatorNotes T321	GO:0010467 (gene expression)
+T322	SO 6194 6200	mutant
+#322	AnnotatorNotes T322	SO:0001059 (sequence_alteration)
+T323	EntrezGene 6201 6209	battenin
+#323	AnnotatorNotes T323	EG:12752
+T324	PR 6201 6209	battenin
+#324	AnnotatorNotes T324	PR:000005591 (battenin)
+T325	italic 6257 6261	Cln3
+#325	AnnotatorNotes T325	italic (null)
+T326	sup 6261 6267	Δex7/8
+#326	AnnotatorNotes T326	sup (null)
+T327	CL 6268 6273	cells
+#327	AnnotatorNotes T327	CL:0000000 (cell)
+T328	GO_CC 6268 6273	cells
+#328	AnnotatorNotes T328	GO:0005623 (cell)
+T329	italic 6336 6340	Cln3
+#329	AnnotatorNotes T329	italic (null)
+T330	sup 6340 6346	Δex7/8
+#330	AnnotatorNotes T330	sup (null)
+T331	NCBITaxon 6356 6360	mice
+#331	AnnotatorNotes T331	NCBITaxon:10088 (Mus)
+T332	GO_BP 6361 6368	express
+#332	AnnotatorNotes T332	GO:0010467 (gene expression)
+T333	italic 6378 6382	Cln3
+#333	AnnotatorNotes T333	italic (null)
+T334	EntrezGene 6378 6382	Cln3
+#334	AnnotatorNotes T334	EG:12752
+T335	PR 6378 6382	Cln3
+#335	AnnotatorNotes T335	PR:000005591 (battenin)
+T336	GO_BP 6383 6394	mRNA splice
+#336	AnnotatorNotes T336	GO:0000398 (nuclear mRNA splicing, via spliceosome)
+T337	CHEBI 6383 6387	mRNA
+#337	AnnotatorNotes T337	CHEBI:33699 (messenger RNA)
+T338	SO 6383 6387	mRNA
+#338	AnnotatorNotes T338	SO:0000234 (mRNA)
+T339	SO 6388 6403	splice variants
+#339	AnnotatorNotes T339	SO:1001187 (alternatively_spliced_transcript)
+T340	SO 6408 6414	mutant
+#340	AnnotatorNotes T340	SO:0001059 (sequence_alteration)
+T341	EntrezGene 6415 6423	battenin
+#341	AnnotatorNotes T341	EG:12752
+T342	PR 6415 6423	battenin
+#342	AnnotatorNotes T342	PR:000005591 (battenin)
+T343	CHEBI 6424 6431	protein
+#343	AnnotatorNotes T343	CHEBI:36080 (proteins)
+T344	GO_CC 6460 6468	antibody
+#344	AnnotatorNotes T344	GO:0019814 (immunoglobulin complex)
+T345	SO 6481 6491	C-terminal
+#345	AnnotatorNotes T345	SO:0100015 (c_terminal_region)
+T346	CHEBI 6481 6482	C
+#346	AnnotatorNotes T346	CHEBI:46883 (carboxy group)
+T347	CHEBI 6481 6482	C
+#347	AnnotatorNotes T347	CHEBI:18245 (carboxylato group)
+T348	SO 6492 6500	epitopes
+#348	AnnotatorNotes T348	SO:0001018 (epitope)
+T349	CHEBI 6522 6531	molecular
+#349	AnnotatorNotes T349	CHEBI:36357 (polyatomic entities)
+T350	italic 6547 6551	Cln3
+#350	AnnotatorNotes T350	italic (null)
+T351	sup 6551 6557	Δex7/8
+#351	AnnotatorNotes T351	sup (null)
+T352	CL 6558 6563	cells
+#352	AnnotatorNotes T352	CL:0000000 (cell)
+T353	GO_CC 6558 6563	cells
+#353	AnnotatorNotes T353	GO:0005623 (cell)
+T354	GO_MF 6565 6567	RT
+#354	AnnotatorNotes T354	GO:0003964 (RNA-directed DNA polymerase activity)
+T355	independent_continuant 6565 6567	RT
+#355	AnnotatorNotes T355	independent_continuant
+T356	GO_BP 6565 6567	RT
+#356	AnnotatorNotes T356	GO:0006410 (transcription, RNA-dependent)
+T357	PR 6581 6589	battenin
+#357	AnnotatorNotes T357	PR:000005591 (battenin)
+T358	italic 6651 6655	Cln3
+#358	AnnotatorNotes T358	italic (null)
+T359	PR 6651 6655	Cln3
+#359	AnnotatorNotes T359	PR:000005591 (battenin)
+T360	EntrezGene 6651 6655	Cln3
+#360	AnnotatorNotes T360	EG:12752
+T361	CHEBI 6656 6660	mRNA
+#361	AnnotatorNotes T361	CHEBI:33699 (messenger RNA)
+T362	SO 6656 6660	mRNA
+#362	AnnotatorNotes T362	SO:0000234 (mRNA)
+T363	SO 6661 6669	isoforms
+#363	AnnotatorNotes T363	SO:0001060 (sequence_variant)
+T364	SO 6673 6682	wild-type
+#364	AnnotatorNotes T364	SO:0000817 (wild_type)
+T365	CL 6698 6703	cells
+#365	AnnotatorNotes T365	CL:0000000 (cell)
+T366	GO_CC 6698 6703	cells
+#366	AnnotatorNotes T366	GO:0005623 (cell)
+T367	SO 6744 6747	RNA
+#367	AnnotatorNotes T367	SO:0000356 (RNA)
+T368	SO 6762 6771	wild-type
+#368	AnnotatorNotes T368	SO:0000817 (wild_type)
+T369	italic 6786 6790	Cln3
+#369	AnnotatorNotes T369	italic (null)
+T370	sup 6790 6796	Δex7/8
+#370	AnnotatorNotes T370	sup (null)
+T371	SO 6879 6885	mutant
+#371	AnnotatorNotes T371	SO:0001059 (sequence_alteration)
+T372	EntrezGene 6886 6894	battenin
+#372	AnnotatorNotes T372	EG:12752
+T373	PR 6886 6894	battenin
+#373	AnnotatorNotes T373	PR:000005591 (battenin)
+T374	italic 6919 6923	Cln3
+#374	AnnotatorNotes T374	italic (null)
+T375	sup 6923 6929	Δex7/8
+#375	AnnotatorNotes T375	sup (null)
+T376	CL 6930 6935	cells
+#376	AnnotatorNotes T376	CL:0000000 (cell)
+T377	GO_CC 6930 6935	cells
+#377	AnnotatorNotes T377	GO:0005623 (cell)
+T378	GO_CC 6965 6976	cytoplasmic
+#378	AnnotatorNotes T378	GO:0005737 (cytoplasm)
+T379	GO_CC 6978 6987	vesicular
+#379	AnnotatorNotes T379	GO:0031982 (vesicle)
+T380	SO 7021 7030	wild-type
+#380	AnnotatorNotes T380	SO:0000817 (wild_type)
+T381	CL 7031 7036	cells
+#381	AnnotatorNotes T381	CL:0000000 (cell)
+T382	GO_CC 7031 7036	cells
+#382	AnnotatorNotes T382	GO:0005623 (cell)
+T383	GO_CC 7083 7092	lysosomal
+#383	AnnotatorNotes T383	GO:0005764 (lysosome)
+T384	EntrezGene 7101 7106	Lamp1
+#384	AnnotatorNotes T384	EG:16783
+T385	PR 7101 7106	Lamp1
+#385	AnnotatorNotes T385	PR:000002060 (lysosome-associated membrane glycoprotein 1)
+T386	EntrezGene 7146 7170	early endosome antigen 1
+#386	AnnotatorNotes T386	EG:216238
+T387	PR 7146 7170	early endosome antigen 1
+#387	AnnotatorNotes T387	PR:000006901 (early endosome antigen 1)
+T388	GO_CC 7146 7160	early endosome
+#388	AnnotatorNotes T388	GO:0005769 (early endosome)
+T389	EntrezGene 7172 7176	EEA1
+#389	AnnotatorNotes T389	EG:216238
+T390	PR 7172 7176	EEA1
+#390	AnnotatorNotes T390	PR:000006901 (early endosome antigen 1)
+T391	GO_CC 7186 7200	late endosomal
+#391	AnnotatorNotes T391	GO:0005770 (late endosome)
+T392	EntrezGene 7209 7213	Rab7
+#392	AnnotatorNotes T392	EG:19349
+T393	PR 7209 7213	Rab7
+#393	AnnotatorNotes T393	PR:000013639 (ras-related protein Rab-7a)
+T394	GO_CC 7263 7282	recycling endosomes
+#394	AnnotatorNotes T394	GO:0055037 (recycling endosome)
+T395	GO_BP 7263 7272	recycling
+#395	AnnotatorNotes T395	GO:0032456 (endocytic recycling)
+T396	GO_MF 7301 7321	transferrin receptor
+#396	AnnotatorNotes T396	GO:0004998 (transferrin receptor activity)
+T397	PR 7301 7321	transferrin receptor
+#397	AnnotatorNotes T397	PR:000001945 (transferrin receptor protein 1)
+T398	EntrezGene 7301 7321	transferrin receptor
+#398	AnnotatorNotes T398	EG:22042
+T399	independent_continuant 7301 7321	transferrin receptor
+#399	AnnotatorNotes T399	independent_continuant
+T400	EntrezGene 7301 7312	transferrin
+#400	AnnotatorNotes T400	EG:22041
+T401	PR 7301 7312	transferrin
+#401	AnnotatorNotes T401	PR:000016261 (serotransferrin)
+T402	EntrezGene 7366 7371	Lamp1
+#402	AnnotatorNotes T402	EG:16783
+T403	PR 7366 7371	Lamp1
+#403	AnnotatorNotes T403	PR:000002060 (lysosome-associated membrane glycoprotein 1)
+T404	EntrezGene 7376 7380	EEA1
+#404	AnnotatorNotes T404	EG:216238
+T405	PR 7376 7380	EEA1
+#405	AnnotatorNotes T405	PR:000006901 (early endosome antigen 1)
+T406	GO_BP 7400 7412	distribution
+#406	AnnotatorNotes T406	GO:0051179 (localization)
+T407	italic 7442 7446	Cln3
+#407	AnnotatorNotes T407	italic (null)
+T408	sup 7446 7452	Δex7/8
+#408	AnnotatorNotes T408	sup (null)
+T409	CL 7453 7458	cells
+#409	AnnotatorNotes T409	CL:0000000 (cell)
+T410	GO_CC 7453 7458	cells
+#410	AnnotatorNotes T410	GO:0005623 (cell)
+T411	GO_CC 7470 7481	perinuclear
+#411	AnnotatorNotes T411	GO:0048471 (perinuclear region of cytoplasm)
+T412	SO 7501 7510	wild-type
+#412	AnnotatorNotes T412	SO:0000817 (wild_type)
+T413	CL 7511 7516	cells
+#413	AnnotatorNotes T413	CL:0000000 (cell)
+T414	GO_CC 7511 7516	cells
+#414	AnnotatorNotes T414	GO:0005623 (cell)
+T415	EntrezGene 7522 7526	Rab7
+#415	AnnotatorNotes T415	EG:19349
+T416	PR 7522 7526	Rab7
+#416	AnnotatorNotes T416	PR:000013639 (ras-related protein Rab-7a)
+T417	italic 7580 7584	Cln3
+#417	AnnotatorNotes T417	italic (null)
+T418	sup 7584 7590	Δex7/8
+#418	AnnotatorNotes T418	sup (null)
+T419	CL 7591 7596	cells
+#419	AnnotatorNotes T419	CL:0000000 (cell)
+T420	GO_CC 7591 7596	cells
+#420	AnnotatorNotes T420	GO:0005623 (cell)
+T421	italic 7622 7626	Cln3
+#421	AnnotatorNotes T421	italic (null)
+T422	sup 7626 7632	Δex7/8
+#422	AnnotatorNotes T422	sup (null)
+T423	CL 7633 7638	cells
+#423	AnnotatorNotes T423	CL:0000000 (cell)
+T424	GO_CC 7633 7638	cells
+#424	AnnotatorNotes T424	GO:0005623 (cell)
+T425	italic 7662 7666	Cln3
+#425	AnnotatorNotes T425	italic (null)
+T426	PR 7662 7666	Cln3
+#426	AnnotatorNotes T426	PR:000005591 (battenin)
+T427	EntrezGene 7662 7666	Cln3
+#427	AnnotatorNotes T427	EG:12752
+T428	CHEBI 7667 7680	mRNA products
+#428	AnnotatorNotes T428	CHEBI:33699 (messenger RNA)
+T429	SO 7667 7680	mRNA products
+#429	AnnotatorNotes T429	SO:0000234 (mRNA)
+T430	SO 7695 7704	wild-type
+#430	AnnotatorNotes T430	SO:0000817 (wild_type)
+T431	SO 7705 7711	allele
+#431	AnnotatorNotes T431	SO:0001023 (allele)
+T432	SO 7720 7726	mutant
+#432	AnnotatorNotes T432	SO:0001059 (sequence_alteration)
+T433	SO 7727 7733	allele
+#433	AnnotatorNotes T433	SO:0001023 (allele)
+T434	SO 7780 7789	wild-type
+#434	AnnotatorNotes T434	SO:0000817 (wild_type)
+T435	CL 7790 7795	cells
+#435	AnnotatorNotes T435	CL:0000000 (cell)
+T436	GO_CC 7790 7795	cells
+#436	AnnotatorNotes T436	GO:0005623 (cell)
+T437	bold 7825 7891	RT-PCR of Cln3 mRNA in wild-type and homozygous CbCln3Δex7/8 cells
+#437	AnnotatorNotes T437	bold (null)
+T438	GO_MF 7825 7827	RT
+#438	AnnotatorNotes T438	GO:0003964 (RNA-directed DNA polymerase activity)
+T439	GO_BP 7825 7827	RT
+#439	AnnotatorNotes T439	GO:0006410 (transcription, RNA-dependent)
+T440	independent_continuant 7825 7827	RT
+#440	AnnotatorNotes T440	independent_continuant
+T441	EntrezGene 7835 7839	Cln3
+#441	AnnotatorNotes T441	EG:12752
+T442	PR 7835 7839	Cln3
+#442	AnnotatorNotes T442	PR:000005591 (battenin)
+T443	CHEBI 7840 7844	mRNA
+#443	AnnotatorNotes T443	CHEBI:33699 (messenger RNA)
+T444	SO 7840 7844	mRNA
+#444	AnnotatorNotes T444	SO:0000234 (mRNA)
+T445	SO 7848 7857	wild-type
+#445	AnnotatorNotes T445	SO:0000817 (wild_type)
+T446	italic 7875 7879	Cln3
+#446	AnnotatorNotes T446	italic (null)
+T447	sup 7879 7885	Δex7/8
+#447	AnnotatorNotes T447	sup (null)
+T448	CL 7886 7891	cells
+#448	AnnotatorNotes T448	CL:0000000 (cell)
+T449	GO_CC 7886 7891	cells
+#449	AnnotatorNotes T449	GO:0005623 (cell)
+T450	italic 7892 7896	Cln3
+#450	AnnotatorNotes T450	italic (null)
+T451	EntrezGene 7892 7896	Cln3
+#451	AnnotatorNotes T451	EG:12752
+T452	PR 7892 7896	Cln3
+#452	AnnotatorNotes T452	PR:000005591 (battenin)
+T453	SO 7903 7910	forward
+#453	AnnotatorNotes T453	SO:0001030 (forward)
+T454	SO 7912 7916	Exon
+#454	AnnotatorNotes T454	SO:0000147 (exon)
+T455	SO 7920 7927	reverse
+#455	AnnotatorNotes T455	SO:0001031 (reverse)
+T456	independent_continuant 7928 7930	RT
+#456	AnnotatorNotes T456	independent_continuant
+T457	GO_BP 7928 7930	RT
+#457	AnnotatorNotes T457	GO:0006410 (transcription, RNA-dependent)
+T458	GO_MF 7928 7930	RT
+#458	AnnotatorNotes T458	GO:0003964 (RNA-directed DNA polymerase activity)
+T459	SO 7931 7943	PCR products
+#459	AnnotatorNotes T459	SO:0000006 (PCR_product)
+T460	SO 7966 7975	wild-type
+#460	AnnotatorNotes T460	SO:0000817 (wild_type)
+T461	SO 7977 7978	+
+#461	AnnotatorNotes T461	SO:0000817 (wild_type)
+T462	SO 7979 7980	+
+#462	AnnotatorNotes T462	SO:0000817 (wild_type)
+T463	SO 7996 8002	mutant
+#463	AnnotatorNotes T463	SO:0001059 (sequence_alteration)
+T464	CL 8029 8033	cell
+#464	AnnotatorNotes T464	CL:0000000 (cell)
+T465	GO_CC 8029 8033	cell
+#465	AnnotatorNotes T465	GO:0005623 (cell)
+T466	SO 8039 8042	RNA
+#466	AnnotatorNotes T466	SO:0000356 (RNA)
+T467	CL 8054 8058	cell
+#467	AnnotatorNotes T467	CL:0000000 (cell)
+T468	GO_CC 8054 8058	cell
+#468	AnnotatorNotes T468	GO:0005623 (cell)
+T469	independent_continuant 8064 8066	RT
+#469	AnnotatorNotes T469	independent_continuant
+T470	GO_MF 8064 8066	RT
+#470	AnnotatorNotes T470	GO:0003964 (RNA-directed DNA polymerase activity)
+T471	GO_BP 8064 8066	RT
+#471	AnnotatorNotes T471	GO:0006410 (transcription, RNA-dependent)
+T472	SO 8067 8088	PCR reaction products
+#472	AnnotatorNotes T472	SO:0000006 (PCR_product)
+T473	CHEBI 8120 8136	ethidium-bromide
+#473	AnnotatorNotes T473	CHEBI:4883 (ethidium bromide)
+T474	CHEBI 8120 8128	ethidium
+#474	AnnotatorNotes T474	CHEBI:42478 (ethidium)
+T475	CHEBI 8129 8136	bromide
+#475	AnnotatorNotes T475	CHEBI:15858 (bromide)
+T476	CHEBI 8145 8152	agarose
+#476	AnnotatorNotes T476	CHEBI:2511 (agarose)
+T477	SO 8159 8168	Wild-type
+#477	AnnotatorNotes T477	SO:0000817 (wild_type)
+T478	independent_continuant 8159 8168	Wild-type
+#478	AnnotatorNotes T478	independent_continuant
+T479	GO_MF 8169 8171	RT
+#479	AnnotatorNotes T479	GO:0003964 (RNA-directed DNA polymerase activity)
+T480	independent_continuant 8169 8171	RT
+#480	AnnotatorNotes T480	independent_continuant
+T481	GO_BP 8169 8171	RT
+#481	AnnotatorNotes T481	GO:0006410 (transcription, RNA-dependent)
+T482	SO 8172 8183	PCR product
+#482	AnnotatorNotes T482	SO:0000006 (PCR_product)
+T483	independent_continuant 8214 8220	mutant
+#483	AnnotatorNotes T483	independent_continuant
+T484	SO 8214 8220	mutant
+#484	AnnotatorNotes T484	SO:0001059 (sequence_alteration)
+T485	SO 8221 8229	products
+#485	AnnotatorNotes T485	SO:0000006 (PCR_product)
+T486	independent_continuant 8295 8301	mutant
+#486	AnnotatorNotes T486	independent_continuant
+T487	SO 8295 8301	mutant
+#487	AnnotatorNotes T487	SO:0001059 (sequence_alteration)
+T488	SO 8302 8317	splice variants
+#488	AnnotatorNotes T488	SO:1001187 (alternatively_spliced_transcript)
+T489	GO_BP 8302 8308	splice
+#489	AnnotatorNotes T489	GO:0008380 (RNA splicing)
+T490	bold 8330 8453	Battenin and lysosomal and endosomal marker co-staining in wild-type and homozygous CbCln3Δex7/8 cerebellar precursor cells
+#490	AnnotatorNotes T490	bold (null)
+T491	EntrezGene 8330 8338	Battenin
+#491	AnnotatorNotes T491	EG:12752
+T492	PR 8330 8338	Battenin
+#492	AnnotatorNotes T492	PR:000005591 (battenin)
+T493	GO_CC 8343 8352	lysosomal
+#493	AnnotatorNotes T493	GO:0005764 (lysosome)
+T494	GO_CC 8357 8366	endosomal
+#494	AnnotatorNotes T494	GO:0005768 (endosome)
+T495	SO 8389 8398	wild-type
+#495	AnnotatorNotes T495	SO:0000817 (wild_type)
+T496	italic 8416 8420	Cln3
+#496	AnnotatorNotes T496	italic (null)
+T497	sup 8420 8426	Δex7/8
+#497	AnnotatorNotes T497	sup (null)
+T498	CL 8448 8453	cells
+#498	AnnotatorNotes T498	CL:0000000 (cell)
+T499	GO_CC 8448 8453	cells
+#499	AnnotatorNotes T499	GO:0005623 (cell)
+T500	SO 8478 8487	wild-type
+#500	AnnotatorNotes T500	SO:0000817 (wild_type)
+T501	italic 8491 8495	Cln3
+#501	AnnotatorNotes T501	italic (null)
+T502	sup 8495 8498	+/+
+#502	AnnotatorNotes T502	sup (null)
+T503	SO 8495 8496	+
+#503	AnnotatorNotes T503	SO:0000817 (wild_type)
+T504	SO 8497 8498	+
+#504	AnnotatorNotes T504	SO:0000817 (wild_type)
+T505	SO 8515 8521	mutant
+#505	AnnotatorNotes T505	SO:0001059 (sequence_alteration)
+T506	italic 8525 8529	Cln3
+#506	AnnotatorNotes T506	italic (null)
+T507	sup 8529 8542	Δex7/8/Δex7/8
+#507	AnnotatorNotes T507	sup (null)
+T508	CL 8565 8570	cells
+#508	AnnotatorNotes T508	CL:0000000 (cell)
+T509	GO_CC 8565 8570	cells
+#509	AnnotatorNotes T509	GO:0005623 (cell)
+T510	GO_CC 8602 8611	lysosomes
+#510	AnnotatorNotes T510	GO:0005764 (lysosome)
+T511	EntrezGene 8613 8619	Lamp 1
+#511	AnnotatorNotes T511	EG:16783
+T512	PR 8613 8619	Lamp 1
+#512	AnnotatorNotes T512	PR:000002060 (lysosome-associated membrane glycoprotein 1)
+T513	GO_CC 8622 8637	early endosomes
+#513	AnnotatorNotes T513	GO:0005769 (early endosome)
+T514	EntrezGene 8639 8643	EEA1
+#514	AnnotatorNotes T514	EG:216238
+T515	PR 8639 8643	EEA1
+#515	AnnotatorNotes T515	PR:000006901 (early endosome antigen 1)
+T516	GO_CC 8650 8664	late endosomes
+#516	AnnotatorNotes T516	GO:0005770 (late endosome)
+T517	EntrezGene 8666 8670	Rab7
+#517	AnnotatorNotes T517	EG:19349
+T518	PR 8666 8670	Rab7
+#518	AnnotatorNotes T518	PR:000013639 (ras-related protein Rab-7a)
+T519	EntrezGene 8720 8724	EEA1
+#519	AnnotatorNotes T519	EG:216238
+T520	PR 8720 8724	EEA1
+#520	AnnotatorNotes T520	PR:000006901 (early endosome antigen 1)
+T521	EntrezGene 8752 8756	Rab7
+#521	AnnotatorNotes T521	EG:19349
+T522	PR 8752 8756	Rab7
+#522	AnnotatorNotes T522	PR:000013639 (ras-related protein Rab-7a)
+T523	EntrezGene 8889 8893	Rab7
+#523	AnnotatorNotes T523	EG:19349
+T524	PR 8889 8893	Rab7
+#524	AnnotatorNotes T524	PR:000013639 (ras-related protein Rab-7a)
+T525	EntrezGene 8940 8946	Lamp 1
+#525	AnnotatorNotes T525	EG:16783
+T526	PR 8940 8946	Lamp 1
+#526	AnnotatorNotes T526	PR:000002060 (lysosome-associated membrane glycoprotein 1)
+T527	italic 9009 9013	Cln3
+#527	AnnotatorNotes T527	italic (null)
+T528	sup 9013 9019	Δex7/8
+#528	AnnotatorNotes T528	sup (null)
+T529	CL 9020 9025	cells
+#529	AnnotatorNotes T529	CL:0000000 (cell)
+T530	GO_CC 9020 9025	cells
+#530	AnnotatorNotes T530	GO:0005623 (cell)
+T531	EntrezGene 9081 9085	EEA1
+#531	AnnotatorNotes T531	EG:216238
+T532	PR 9081 9085	EEA1
+#532	AnnotatorNotes T532	PR:000006901 (early endosome antigen 1)
+T533	EntrezGene 9090 9094	Rab7
+#533	AnnotatorNotes T533	EG:19349
+T534	PR 9090 9094	Rab7
+#534	AnnotatorNotes T534	PR:000013639 (ras-related protein Rab-7a)
+T535	EntrezGene 9112 9118	Lamp 1
+#535	AnnotatorNotes T535	EG:16783
+T536	PR 9112 9118	Lamp 1
+#536	AnnotatorNotes T536	PR:000002060 (lysosome-associated membrane glycoprotein 1)
+T537	EntrezGene 9192 9198	Lamp 1
+#537	AnnotatorNotes T537	EG:16783
+T538	PR 9192 9196	Lamp
+#538	AnnotatorNotes T538	PR:000002060 (lysosome-associated membrane glycoprotein 1)
+T539	EntrezGene 9203 9207	EEA1
+#539	AnnotatorNotes T539	EG:216238
+T540	PR 9203 9207	EEA1
+#540	AnnotatorNotes T540	PR:000006901 (early endosome antigen 1)
+T541	GO_BP 9208 9220	localization
+#541	AnnotatorNotes T541	GO:0051179 (localization)
+T542	EntrezGene 9241 9245	Rab7
+#542	AnnotatorNotes T542	EG:19349
+T543	PR 9241 9245	Rab7
+#543	AnnotatorNotes T543	PR:000013639 (ras-related protein Rab-7a)
+T544	italic 9299 9303	Cln3
+#544	AnnotatorNotes T544	italic (null)
+T545	sup 9303 9309	Δex7/8
+#545	AnnotatorNotes T545	sup (null)
+T546	CL 9310 9315	cells
+#546	AnnotatorNotes T546	CL:0000000 (cell)
+T547	GO_CC 9310 9315	cells
+#547	AnnotatorNotes T547	GO:0005623 (cell)
+T548	SO 9317 9326	Wild-type
+#548	AnnotatorNotes T548	SO:0000817 (wild_type)
+T549	independent_continuant 9317 9326	Wild-type
+#549	AnnotatorNotes T549	independent_continuant
+T550	italic 9344 9348	Cln3
+#550	AnnotatorNotes T550	italic (null)
+T551	sup 9348 9354	Δex7/8
+#551	AnnotatorNotes T551	sup (null)
+T552	GO_BP 9461 9467	growth
+#552	AnnotatorNotes T552	GO:0040007 (growth)
+T553	SO 9488 9497	wild-type
+#553	AnnotatorNotes T553	SO:0000817 (wild_type)
+T554	italic 9515 9519	Cln3
+#554	AnnotatorNotes T554	italic (null)
+T555	sup 9519 9525	Δex7/8
+#555	AnnotatorNotes T555	sup (null)
+T556	CL 9526 9531	cells
+#556	AnnotatorNotes T556	CL:0000000 (cell)
+T557	GO_CC 9526 9531	cells
+#557	AnnotatorNotes T557	GO:0005623 (cell)
+T558	PR 9562 9571	subunit c
+#558	AnnotatorNotes T558	PR:000022190 (ATP synthase subunit c)
+T559	GO_CC 9572 9581	inclusion
+#559	AnnotatorNotes T559	GO:0016234 (inclusion body)
+T560	GO_BP 9582 9591	formation
+#560	AnnotatorNotes T560	GO:0022607 (cellular component assembly)
+T561	CL 9624 9629	cells
+#561	AnnotatorNotes T561	CL:0000000 (cell)
+T562	GO_CC 9624 9629	cells
+#562	AnnotatorNotes T562	GO:0005623 (cell)
+T563	GO_BP 9635 9639	aged
+#563	AnnotatorNotes T563	GO:0007568 (aging)
+T564	italic 9694 9698	Cln3
+#564	AnnotatorNotes T564	italic (null)
+T565	sup 9698 9704	Δex7/8
+#565	AnnotatorNotes T565	sup (null)
+T566	CL 9705 9713	cellular
+#566	AnnotatorNotes T566	CL:0000000 (cell)
+T567	GO_CC 9705 9713	cellular
+#567	AnnotatorNotes T567	GO:0005623 (cell)
+T568	PR 9714 9723	subunit c
+#568	AnnotatorNotes T568	PR:000022190 (ATP synthase subunit c)
+T569	SO 9759 9768	wild-type
+#569	AnnotatorNotes T569	SO:0000817 (wild_type)
+T570	independent_continuant 9759 9768	wild-type
+#570	AnnotatorNotes T570	independent_continuant
+T571	PR 9888 9897	subunit c
+#571	AnnotatorNotes T571	PR:000022190 (ATP synthase subunit c)
+T572	GO_BP 10040 10044	aged
+#572	AnnotatorNotes T572	GO:0007568 (aging)
+T573	italic 10058 10062	Cln3
+#573	AnnotatorNotes T573	italic (null)
+T574	sup 10062 10068	Δex7/8
+#574	AnnotatorNotes T574	sup (null)
+T575	CL 10069 10074	cells
+#575	AnnotatorNotes T575	CL:0000000 (cell)
+T576	GO_CC 10069 10074	cells
+#576	AnnotatorNotes T576	GO:0005623 (cell)
+T577	CHEBI 10134 10142	electron
+#577	AnnotatorNotes T577	CHEBI:10545 (electron)
+T578	GO_CC 10149 10159	inclusions
+#578	AnnotatorNotes T578	GO:0016234 (inclusion body)
+T579	GO_CC 10199 10213	autophagosomes
+#579	AnnotatorNotes T579	GO:0005776 (autophagic vacuole)
+T580	GO_CC 10229 10250	dense core structures
+#580	AnnotatorNotes T580	GO:0031045 (dense core granule)
+T581	GO_CC 10265 10277	mitochondria
+#581	AnnotatorNotes T581	GO:0005739 (mitochondrion)
+T582	GO_CC 10296 10304	vesicles
+#582	AnnotatorNotes T582	GO:0031982 (vesicle)
+T583	GO_CC 10316 10332	Inclusion bodies
+#583	AnnotatorNotes T583	GO:0016234 (inclusion body)
+T584	GO_CC 10337 10351	autophagosomes
+#584	AnnotatorNotes T584	GO:0005776 (autophagic vacuole)
+T585	GO_BP 10393 10397	aged
+#585	AnnotatorNotes T585	GO:0007568 (aging)
+T586	SO 10398 10407	wild-type
+#586	AnnotatorNotes T586	SO:0000817 (wild_type)
+T587	bold 10446 10522	Subunit c accumulation in homozygous CbCln3Δex7/8 cerebellar precursor cells
+#587	AnnotatorNotes T587	bold (null)
+T588	PR 10446 10455	Subunit c
+#588	AnnotatorNotes T588	PR:000022190 (ATP synthase subunit c)
+T589	italic 10485 10489	Cln3
+#589	AnnotatorNotes T589	italic (null)
+T590	sup 10489 10495	Δex7/8
+#590	AnnotatorNotes T590	sup (null)
+T591	CL 10517 10522	cells
+#591	AnnotatorNotes T591	CL:0000000 (cell)
+T592	GO_CC 10517 10522	cells
+#592	AnnotatorNotes T592	GO:0005623 (cell)
+T593	PR 10526 10535	Subunit c
+#593	AnnotatorNotes T593	PR:000022190 (ATP synthase subunit c)
+T594	GO_BP 10592 10596	aged
+#594	AnnotatorNotes T594	GO:0007568 (aging)
+T595	SO 10597 10606	wild-type
+#595	AnnotatorNotes T595	SO:0000817 (wild_type)
+T596	italic 10624 10628	Cln3
+#596	AnnotatorNotes T596	italic (null)
+T597	sup 10628 10634	Δex7/8
+#597	AnnotatorNotes T597	sup (null)
+T598	CL 10635 10640	cells
+#598	AnnotatorNotes T598	CL:0000000 (cell)
+T599	GO_CC 10635 10640	cells
+#599	AnnotatorNotes T599	GO:0005623 (cell)
+T600	SO 10651 10660	Wild-type
+#600	AnnotatorNotes T600	SO:0000817 (wild_type)
+T601	italic 10673 10677	Cln3
+#601	AnnotatorNotes T601	italic (null)
+T602	sup 10677 10680	+/+
+#602	AnnotatorNotes T602	sup (null)
+T603	SO 10677 10678	+
+#603	AnnotatorNotes T603	SO:0000817 (wild_type)
+T604	SO 10679 10680	+
+#604	AnnotatorNotes T604	SO:0000817 (wild_type)
+T605	PR 10700 10709	subunit c
+#605	AnnotatorNotes T605	PR:000022190 (ATP synthase subunit c)
+T606	italic 10758 10762	Cln3
+#606	AnnotatorNotes T606	italic (null)
+T607	sup 10762 10775	Δex7/8/Δex7/8
+#607	AnnotatorNotes T607	sup (null)
+T608	CL 10776 10781	cells
+#608	AnnotatorNotes T608	CL:0000000 (cell)
+T609	GO_CC 10776 10781	cells
+#609	AnnotatorNotes T609	GO:0005623 (cell)
+T610	PR 10801 10810	subunit c
+#610	AnnotatorNotes T610	PR:000022190 (ATP synthase subunit c)
+T611	PR 10926 10935	subunit c
+#611	AnnotatorNotes T611	PR:000022190 (ATP synthase subunit c)
+T612	PR 11012 11021	subunit c
+#612	AnnotatorNotes T612	PR:000022190 (ATP synthase subunit c)
+T613	CHEBI 11022 11029	protein
+#613	AnnotatorNotes T613	CHEBI:36080 (proteins)
+T614	CHEBI 11095 11102	protein
+#614	AnnotatorNotes T614	CHEBI:36080 (proteins)
+T615	SO 11132 11141	wild-type
+#615	AnnotatorNotes T615	SO:0000817 (wild_type)
+T616	SO 11143 11144	+
+#616	AnnotatorNotes T616	SO:0000817 (wild_type)
+T617	SO 11145 11146	+
+#617	AnnotatorNotes T617	SO:0000817 (wild_type)
+T618	SO 11163 11169	mutant
+#618	AnnotatorNotes T618	SO:0001059 (sequence_alteration)
+T619	PR 11235 11244	subunit c
+#619	AnnotatorNotes T619	PR:000022190 (ATP synthase subunit c)
+T620	CHEBI 11245 11252	protein
+#620	AnnotatorNotes T620	CHEBI:36080 (proteins)
+T621	PR 11256 11261	sub c
+#621	AnnotatorNotes T621	PR:000022190 (ATP synthase subunit c)
+T622	italic 11307 11311	Cln3
+#622	AnnotatorNotes T622	italic (null)
+T623	sup 11311 11317	Δex7/8
+#623	AnnotatorNotes T623	sup (null)
+T624	CL 11318 11323	cells
+#624	AnnotatorNotes T624	CL:0000000 (cell)
+T625	GO_CC 11318 11323	cells
+#625	AnnotatorNotes T625	GO:0005623 (cell)
+T626	PR 11363 11372	subunit c
+#626	AnnotatorNotes T626	PR:000022190 (ATP synthase subunit c)
+T627	CHEBI 11373 11380	protein
+#627	AnnotatorNotes T627	CHEBI:36080 (proteins)
+T628	SO 11402 11411	wild-type
+#628	AnnotatorNotes T628	SO:0000817 (wild_type)
+T629	SO 11421 11422	+
+#629	AnnotatorNotes T629	SO:0000817 (wild_type)
+T630	SO 11423 11424	+
+#630	AnnotatorNotes T630	SO:0000817 (wild_type)
+T631	CHEBI 11427 11434	Protein
+#631	AnnotatorNotes T631	CHEBI:36080 (proteins)
+T632	EntrezGene 11461 11492	cytochrome c oxidase subunit IV
+#632	AnnotatorNotes T632	EG:12857
+T633	PR 11461 11492	cytochrome c oxidase subunit IV
+#633	AnnotatorNotes T633	PR:000005776 (cytochrome c oxidase subunit 4 isoform 1, mitochondrial)
+T634	independent_continuant 11461 11481	cytochrome c oxidase
+#634	AnnotatorNotes T634	independent_continuant
+T635	GO_MF 11461 11481	cytochrome c oxidase
+#635	AnnotatorNotes T635	GO:0004129 (cytochrome-c oxidase activity)
+T636	GO_CC 11461 11481	cytochrome c oxidase
+#636	AnnotatorNotes T636	GO:0045277 (respiratory chain complex IV)
+T637	CHEBI 11461 11473	cytochrome c
+#637	AnnotatorNotes T637	CHEBI:18070 (cytochrome c)
+T638	PR 11461 11473	cytochrome c
+#638	AnnotatorNotes T638	PR:000002199 (cytochrome c protein)
+T639	PR 11496 11500	cox4
+#639	AnnotatorNotes T639	PR:000005776 (cytochrome c oxidase subunit 4 isoform 1, mitochondrial)
+T640	GO_CC 11522 11532	inclusions
+#640	AnnotatorNotes T640	GO:0016234 (inclusion body)
+T641	GO_BP 11553 11557	aged
+#641	AnnotatorNotes T641	GO:0007568 (aging)
+T642	italic 11571 11575	Cln3
+#642	AnnotatorNotes T642	italic (null)
+T643	sup 11575 11581	Δex7/8
+#643	AnnotatorNotes T643	sup (null)
+T644	CL 11582 11587	cells
+#644	AnnotatorNotes T644	CL:0000000 (cell)
+T645	GO_CC 11582 11587	cells
+#645	AnnotatorNotes T645	GO:0005623 (cell)
+T646	GO_CC 11606 11619	autophagosome
+#646	AnnotatorNotes T646	GO:0005776 (autophagic vacuole)
+T647	GO_CC 11640 11648	membrane
+#647	AnnotatorNotes T647	GO:0016020 (membrane)
+T648	GO_CC 11686 11698	mitochondria
+#648	AnnotatorNotes T648	GO:0005739 (mitochondrion)
+T649	sub 11701 11702	d
+#649	AnnotatorNotes T649	sub (null)
+T650	CHEBI 11705 11713	electron
+#650	AnnotatorNotes T650	CHEBI:10545 (electron)
+T651	GO_CC 11714 11725	dense cores
+#651	AnnotatorNotes T651	GO:0031045 (dense core granule)
+T652	GO_CC 11766 11775	vesicular
+#652	AnnotatorNotes T652	GO:0031982 (vesicle)
+T653	CHEBI 11796 11804	electron
+#653	AnnotatorNotes T653	CHEBI:10545 (electron)
+T654	GO_CC 11811 11820	inclusion
+#654	AnnotatorNotes T654	GO:0016234 (inclusion body)
+T655	GO_CC 11874 11875	M
+#655	AnnotatorNotes T655	GO:0005739 (mitochondrion)
+T656	GO_CC 11877 11889	mitochondria
+#656	AnnotatorNotes T656	GO:0005739 (mitochondrion)
+T657	italic 11929 11933	Cln3
+#657	AnnotatorNotes T657	italic (null)
+T658	sup 11933 11939	Δex7/8
+#658	AnnotatorNotes T658	sup (null)
+T659	CL 11940 11945	cells
+#659	AnnotatorNotes T659	CL:0000000 (cell)
+T660	GO_CC 11940 11945	cells
+#660	AnnotatorNotes T660	GO:0005623 (cell)
+T661	italic 11950 11954	Cln3
+#661	AnnotatorNotes T661	italic (null)
+T662	sup 11954 11960	Δex7/8
+#662	AnnotatorNotes T662	sup (null)
+T663	NCBITaxon 11970 11974	mice
+#663	AnnotatorNotes T663	NCBITaxon:10088 (Mus)
+T664	GO_BP 11975 11982	process
+#664	AnnotatorNotes T664	GO:0016485 (protein processing)
+T665	independent_continuant 11983 11994	cathepsin D
+#665	AnnotatorNotes T665	independent_continuant
+T666	GO_MF 11983 11994	cathepsin D
+#666	AnnotatorNotes T666	GO:0004192 (cathepsin D activity)
+T667	PR 11983 11994	cathepsin D
+#667	AnnotatorNotes T667	PR:000006025 (cathepsin D)
+T668	EntrezGene 11983 11994	cathepsin D
+#668	AnnotatorNotes T668	EG:13033
+T669	PR 12042 12051	subunit c
+#669	AnnotatorNotes T669	PR:000022190 (ATP synthase subunit c)
+T670	independent_continuant 12094 12105	cathepsin D
+#670	AnnotatorNotes T670	independent_continuant
+T671	GO_MF 12094 12105	cathepsin D
+#671	AnnotatorNotes T671	GO:0004192 (cathepsin D activity)
+T672	PR 12094 12105	cathepsin D
+#672	AnnotatorNotes T672	PR:000006025 (cathepsin D)
+T673	PR 12143 12165	ATP synthase subunit c
+#673	AnnotatorNotes T673	PR:000022190 (ATP synthase subunit c)
+T674	CHEBI 12143 12146	ATP
+#674	AnnotatorNotes T674	CHEBI:15422 (ATP)
+T675	CHEBI 12143 12146	ATP
+#675	AnnotatorNotes T675	CHEBI:30616 (ATP(4-))
+T676	GO_BP 12166 12177	degradation
+#676	AnnotatorNotes T676	GO:0009056 (catabolic process)
+T677	GO_CC 12185 12193	lysosome
+#677	AnnotatorNotes T677	GO:0005764 (lysosome)
+T678	independent_continuant 12216 12227	cathepsin D
+#678	AnnotatorNotes T678	independent_continuant
+T679	PR 12216 12227	cathepsin D
+#679	AnnotatorNotes T679	PR:000006025 (cathepsin D)
+T680	EntrezGene 12216 12227	cathepsin D
+#680	AnnotatorNotes T680	EG:13033
+T681	GO_MF 12216 12227	cathepsin D
+#681	AnnotatorNotes T681	GO:0004192 (cathepsin D activity)
+T682	GO_BP 12228 12237	transport
+#682	AnnotatorNotes T682	GO:0006810 (transport)
+T683	GO_BP 12242 12252	processing
+#683	AnnotatorNotes T683	GO:0016485 (protein processing)
+T684	italic 12269 12273	Cln3
+#684	AnnotatorNotes T684	italic (null)
+T685	sup 12273 12279	Δex7/8
+#685	AnnotatorNotes T685	sup (null)
+T686	CL 12280 12285	cells
+#686	AnnotatorNotes T686	CL:0000000 (cell)
+T687	GO_CC 12280 12285	cells
+#687	AnnotatorNotes T687	GO:0005623 (cell)
+T688	italic 12290 12294	Cln3
+#688	AnnotatorNotes T688	italic (null)
+T689	sup 12294 12300	Δex7/8
+#689	AnnotatorNotes T689	sup (null)
+T690	NCBITaxon 12301 12305	mice
+#690	AnnotatorNotes T690	NCBITaxon:10088 (Mus)
+T691	independent_continuant 12317 12328	cathepsin D
+#691	AnnotatorNotes T691	independent_continuant
+T692	GO_MF 12317 12328	cathepsin D
+#692	AnnotatorNotes T692	GO:0004192 (cathepsin D activity)
+T693	PR 12317 12328	cathepsin D
+#693	AnnotatorNotes T693	PR:000006025 (cathepsin D)
+T694	GO_CC 12329 12337	antibody
+#694	AnnotatorNotes T694	GO:0019814 (immunoglobulin complex)
+T695	PR 12354 12391	unprocessed and processed cathepsin D
+#695	AnnotatorNotes T695	"unprocessed .. cathepsin D" PR:000019559 (cathepsin D, full-length form)
+T696	GO_BP 12370 12379	processed
+#696	AnnotatorNotes T696	GO:0016485 (protein processing)
+T697	independent_continuant 12380 12391	cathepsin D
+#697	AnnotatorNotes T697	independent_continuant
+T698	GO_MF 12380 12391	cathepsin D
+#698	AnnotatorNotes T698	GO:0004192 (cathepsin D activity)
+T699	EntrezGene 12380 12391	cathepsin D
+#699	AnnotatorNotes T699	EG:13033
+T700	SO 12392 12400	isoforms
+#700	AnnotatorNotes T700	SO:0001060 (sequence_variant)
+T701	SO 12420 12429	wild-type
+#701	AnnotatorNotes T701	SO:0000817 (wild_type)
+T702	italic 12447 12451	Cln3
+#702	AnnotatorNotes T702	italic (null)
+T703	sup 12451 12457	Δex7/8
+#703	AnnotatorNotes T703	sup (null)
+T704	CL 12458 12463	cells
+#704	AnnotatorNotes T704	CL:0000000 (cell)
+T705	GO_CC 12458 12463	cells
+#705	AnnotatorNotes T705	GO:0005623 (cell)
+T706	GO_CC 12475 12486	perinuclear
+#706	AnnotatorNotes T706	GO:0048471 (perinuclear region of cytoplasm)
+T707	GO_CC 12500 12509	vesicular
+#707	AnnotatorNotes T707	GO:0031982 (vesicle)
+T708	independent_continuant 12510 12521	cathepsin D
+#708	AnnotatorNotes T708	independent_continuant
+T709	GO_MF 12510 12521	cathepsin D
+#709	AnnotatorNotes T709	GO:0004192 (cathepsin D activity)
+T710	EntrezGene 12510 12521	cathepsin D
+#710	AnnotatorNotes T710	EG:13033
+T711	PR 12510 12521	cathepsin D
+#711	AnnotatorNotes T711	PR:000006025 (cathepsin D)
+T712	GO_BP 12522 12534	distribution
+#712	AnnotatorNotes T712	GO:0051179 (localization)
+T713	GO_BP 12556 12565	transport
+#713	AnnotatorNotes T713	GO:0006810 (transport)
+T714	GO_BP 12570 12580	processing
+#714	AnnotatorNotes T714	GO:0016485 (protein processing)
+T715	GO_BP 12593 12610	secretory pathway
+#715	AnnotatorNotes T715	GO:0045045 (secretory pathway)
+T716	GO_BP 12615 12623	delivery
+#716	AnnotatorNotes T716	GO:0006810 (transport)
+T717	GO_CC 12631 12639	lysosome
+#717	AnnotatorNotes T717	GO:0005764 (lysosome)
+T718	italic 12676 12680	Cln3
+#718	AnnotatorNotes T718	italic (null)
+T719	sup 12680 12686	Δex7/8
+#719	AnnotatorNotes T719	sup (null)
+T720	CL 12687 12692	cells
+#720	AnnotatorNotes T720	CL:0000000 (cell)
+T721	GO_CC 12687 12692	cells
+#721	AnnotatorNotes T721	GO:0005623 (cell)
+T722	independent_continuant 12694 12705	cathepsin D
+#722	AnnotatorNotes T722	independent_continuant
+T723	GO_MF 12694 12705	cathepsin D
+#723	AnnotatorNotes T723	GO:0004192 (cathepsin D activity)
+T724	EntrezGene 12694 12705	cathepsin D
+#724	AnnotatorNotes T724	EG:13033
+T725	PR 12694 12705	cathepsin D
+#725	AnnotatorNotes T725	PR:000006025 (cathepsin D)
+T726	GO_BP 12706 12718	distribution
+#726	AnnotatorNotes T726	GO:0051179 (localization)
+T727	GO_CC 12728 12737	vesicular
+#727	AnnotatorNotes T727	GO:0031982 (vesicle)
+T728	GO_CC 12747 12758	perinuclear
+#728	AnnotatorNotes T728	GO:0048471 (perinuclear region of cytoplasm)
+T729	SO 12777 12786	wild-type
+#729	AnnotatorNotes T729	SO:0000817 (wild_type)
+T730	CL 12787 12792	cells
+#730	AnnotatorNotes T730	CL:0000000 (cell)
+T731	GO_CC 12787 12792	cells
+#731	AnnotatorNotes T731	GO:0005623 (cell)
+T732	italic 12822 12826	Cln3
+#732	AnnotatorNotes T732	italic (null)
+T733	sup 12826 12832	Δex7/8
+#733	AnnotatorNotes T733	sup (null)
+T734	CL 12833 12837	cell
+#734	AnnotatorNotes T734	CL:0000000 (cell)
+T735	GO_CC 12833 12837	cell
+#735	AnnotatorNotes T735	GO:0005623 (cell)
+T736	italic 12842 12846	Cln3
+#736	AnnotatorNotes T736	italic (null)
+T737	sup 12846 12852	Δex7/8
+#737	AnnotatorNotes T737	sup (null)
+T738	independent_continuant 12908 12919	cathepsin D
+#738	AnnotatorNotes T738	independent_continuant
+T739	EntrezGene 12908 12919	cathepsin D
+#739	AnnotatorNotes T739	EG:13033
+T740	GO_MF 12908 12919	cathepsin D
+#740	AnnotatorNotes T740	GO:0004192 (cathepsin D activity)
+T741	PR 12908 12919	cathepsin D
+#741	AnnotatorNotes T741	PR:000006025 (cathepsin D)
+T742	SO 12920 12928	isoforms
+#742	AnnotatorNotes T742	SO:0001060 (sequence_variant)
+T743	independent_continuant 12940 12951	Cathepsin D
+#743	AnnotatorNotes T743	independent_continuant
+T744	GO_MF 12940 12951	Cathepsin D
+#744	AnnotatorNotes T744	GO:0004192 (cathepsin D activity)
+T745	PR 12940 12951	Cathepsin D
+#745	AnnotatorNotes T745	PR:000006025 (cathepsin D)
+T746	EntrezGene 12940 12951	Cathepsin D
+#746	AnnotatorNotes T746	EG:13033
+T747	SO 12952 12960	isoforms
+#747	AnnotatorNotes T747	SO:0001060 (sequence_variant)
+T748	CHEBI 12985 12994	molecular
+#748	AnnotatorNotes T748	CHEBI:36357 (polyatomic entities)
+T749	SO 13062 13074	single chain
+#749	AnnotatorNotes T749	SO:0000984 (single)
+T750	SO 13069 13074	chain
+#750	AnnotatorNotes T750	SO:0000001 (region)
+T751	SO 13075 13079	form
+#751	AnnotatorNotes T751	SO:0001060 (sequence_variant)
+T752	SO 13087 13093	enzyme
+#752	AnnotatorNotes T752	SO:0001185 (enzymatic)
+T753	SO 13129 13141	double-chain
+#753	AnnotatorNotes T753	SO:0000985 (double)
+T754	SO 13136 13141	chain
+#754	AnnotatorNotes T754	SO:0000001 (region)
+T755	SO 13142 13146	form
+#755	AnnotatorNotes T755	SO:0001060 (sequence_variant)
+T756	SO 13161 13167	enzyme
+#756	AnnotatorNotes T756	SO:0001185 (enzymatic)
+T757	italic 13190 13194	Cln3
+#757	AnnotatorNotes T757	italic (null)
+T758	sup 13194 13200	Δex7/8
+#758	AnnotatorNotes T758	sup (null)
+T759	CL 13201 13205	cell
+#759	AnnotatorNotes T759	CL:0000000 (cell)
+T760	GO_CC 13201 13205	cell
+#760	AnnotatorNotes T760	GO:0005623 (cell)
+T761	italic 13210 13214	Cln3
+#761	AnnotatorNotes T761	italic (null)
+T762	sup 13214 13220	Δex7/8
+#762	AnnotatorNotes T762	sup (null)
+T763	SO 13262 13268	chains
+#763	AnnotatorNotes T763	SO:0000001 (region)
+T764	SO 13298 13303	chain
+#764	AnnotatorNotes T764	SO:0000001 (region)
+T765	SO 13338 13347	wild-type
+#765	AnnotatorNotes T765	SO:0000817 (wild_type)
+T766	GO_BP 13362 13377	cellular growth
+#766	AnnotatorNotes T766	GO:0016049 (cell growth)
+T767	CL 13362 13370	cellular
+#767	AnnotatorNotes T767	CL:0000000 (cell)
+T768	GO_CC 13362 13370	cellular
+#768	AnnotatorNotes T768	GO:0005623 (cell)
+T769	independent_continuant 13418 13429	cathepsin D
+#769	AnnotatorNotes T769	independent_continuant
+T770	GO_MF 13418 13429	cathepsin D
+#770	AnnotatorNotes T770	GO:0004192 (cathepsin D activity)
+T771	PR 13418 13429	cathepsin D
+#771	AnnotatorNotes T771	PR:000006025 (cathepsin D)
+T772	EntrezGene 13418 13429	cathepsin D
+#772	AnnotatorNotes T772	EG:13033
+T773	SO 13442 13448	enzyme
+#773	AnnotatorNotes T773	SO:0001185 (enzymatic)
+T774	GO_BP 13449 13458	secretion
+#774	AnnotatorNotes T774	GO:0046903 (secretion)
+T775	italic 13490 13494	Cln3
+#775	AnnotatorNotes T775	italic (null)
+T776	sup 13494 13500	Δex7/8
+#776	AnnotatorNotes T776	sup (null)
+T777	NCBITaxon 13501 13505	mice
+#777	AnnotatorNotes T777	NCBITaxon:10088 (Mus)
+T778	italic 13512 13516	Cln3
+#778	AnnotatorNotes T778	italic (null)
+T779	sup 13516 13522	Δex7/8
+#779	AnnotatorNotes T779	sup (null)
+T780	CL 13523 13528	cells
+#780	AnnotatorNotes T780	CL:0000000 (cell)
+T781	GO_CC 13523 13528	cells
+#781	AnnotatorNotes T781	GO:0005623 (cell)
+T782	SO 13557 13566	wild-type
+#782	AnnotatorNotes T782	SO:0000817 (wild_type)
+T783	independent_continuant 13557 13566	wild-type
+#783	AnnotatorNotes T783	independent_continuant
+T784	bold 13643 13729	Cathepsin D localization and processing in wild-type and homozygous CbCln3Δex7/8 cells
+#784	AnnotatorNotes T784	bold (null)
+T785	independent_continuant 13643 13654	Cathepsin D
+#785	AnnotatorNotes T785	independent_continuant
+T786	EntrezGene 13643 13654	Cathepsin D
+#786	AnnotatorNotes T786	EG:13033
+T787	PR 13643 13654	Cathepsin D
+#787	AnnotatorNotes T787	PR:000006025 (cathepsin D)
+T788	GO_MF 13643 13654	Cathepsin D
+#788	AnnotatorNotes T788	GO:0004192 (cathepsin D activity)
+T789	GO_BP 13655 13667	localization
+#789	AnnotatorNotes T789	GO:0051179 (localization)
+T790	GO_BP 13672 13682	processing
+#790	AnnotatorNotes T790	GO:0016485 (protein processing)
+T791	SO 13686 13695	wild-type
+#791	AnnotatorNotes T791	SO:0000817 (wild_type)
+T792	italic 13713 13717	Cln3
+#792	AnnotatorNotes T792	italic (null)
+T793	sup 13717 13723	Δex7/8
+#793	AnnotatorNotes T793	sup (null)
+T794	CL 13724 13729	cells
+#794	AnnotatorNotes T794	CL:0000000 (cell)
+T795	GO_CC 13724 13729	cells
+#795	AnnotatorNotes T795	GO:0005623 (cell)
+T796	SO 13751 13760	wild-type
+#796	AnnotatorNotes T796	SO:0000817 (wild_type)
+T797	italic 13778 13782	Cln3
+#797	AnnotatorNotes T797	italic (null)
+T798	sup 13782 13788	Δex7/8
+#798	AnnotatorNotes T798	sup (null)
+T799	CL 13799 13804	cells
+#799	AnnotatorNotes T799	CL:0000000 (cell)
+T800	GO_CC 13799 13804	cells
+#800	AnnotatorNotes T800	GO:0005623 (cell)
+T801	independent_continuant 13815 13826	cathepsin D
+#801	AnnotatorNotes T801	independent_continuant
+T802	PR 13815 13826	cathepsin D
+#802	AnnotatorNotes T802	PR:000006025 (cathepsin D)
+T803	GO_MF 13815 13826	cathepsin D
+#803	AnnotatorNotes T803	GO:0004192 (cathepsin D activity)
+T804	GO_CC 13827 13835	antibody
+#804	AnnotatorNotes T804	GO:0019814 (immunoglobulin complex)
+T805	PR 13849 13895	unprocessed and processed forms of cathepsin D
+#805	AnnotatorNotes T805	"unprocessed .. forms of cathepsin D" PR:000019559 (cathepsin D, full-length form)
+T806	GO_BP 13865 13874	processed
+#806	AnnotatorNotes T806	GO:0016485 (protein processing)
+T807	SO 13875 13880	forms
+#807	AnnotatorNotes T807	SO:0001060 (sequence_variant)
+T808	independent_continuant 13884 13895	cathepsin D
+#808	AnnotatorNotes T808	independent_continuant
+T809	EntrezGene 13884 13895	cathepsin D
+#809	AnnotatorNotes T809	EG:13033
+T810	GO_MF 13884 13895	cathepsin D
+#810	AnnotatorNotes T810	GO:0004192 (cathepsin D activity)
+T811	CHEBI 13896 13903	protein
+#811	AnnotatorNotes T811	CHEBI:36080 (proteins)
+T812	italic 13916 13920	Cln3
+#812	AnnotatorNotes T812	italic (null)
+T813	sup 13920 13923	+/+
+#813	AnnotatorNotes T813	sup (null)
+T814	SO 13920 13921	+
+#814	AnnotatorNotes T814	SO:0000817 (wild_type)
+T815	SO 13922 13923	+
+#815	AnnotatorNotes T815	SO:0000817 (wild_type)
+T816	CL 13924 13929	cells
+#816	AnnotatorNotes T816	CL:0000000 (cell)
+T817	GO_CC 13924 13929	cells
+#817	AnnotatorNotes T817	GO:0005623 (cell)
+T818	GO_CC 13955 13966	perinuclear
+#818	AnnotatorNotes T818	GO:0048471 (perinuclear region of cytoplasm)
+T819	GO_CC 13971 13982	cytoplasmic
+#819	AnnotatorNotes T819	GO:0005737 (cytoplasm)
+T820	independent_continuant 14000 14011	Cathepsin D
+#820	AnnotatorNotes T820	independent_continuant
+T821	EntrezGene 14000 14011	Cathepsin D
+#821	AnnotatorNotes T821	EG:13033
+T822	PR 14000 14011	Cathepsin D
+#822	AnnotatorNotes T822	PR:000006025 (cathepsin D)
+T823	GO_MF 14000 14011	Cathepsin D
+#823	AnnotatorNotes T823	GO:0004192 (cathepsin D activity)
+T824	italic 14035 14039	Cln3
+#824	AnnotatorNotes T824	italic (null)
+T825	sup 14039 14045	Δex7/8
+#825	AnnotatorNotes T825	sup (null)
+T826	CL 14046 14051	cells
+#826	AnnotatorNotes T826	CL:0000000 (cell)
+T827	GO_CC 14046 14051	cells
+#827	AnnotatorNotes T827	GO:0005623 (cell)
+T828	GO_CC 14081 14092	perinuclear
+#828	AnnotatorNotes T828	GO:0048471 (perinuclear region of cytoplasm)
+T829	GO_CC 14104 14115	cytoplasmic
+#829	AnnotatorNotes T829	GO:0005737 (cytoplasm)
+T830	SO 14145 14154	wild-type
+#830	AnnotatorNotes T830	SO:0000817 (wild_type)
+T831	italic 14157 14161	Cln3
+#831	AnnotatorNotes T831	italic (null)
+T832	sup 14161 14164	+/+
+#832	AnnotatorNotes T832	sup (null)
+T833	SO 14161 14162	+
+#833	AnnotatorNotes T833	SO:0000817 (wild_type)
+T834	SO 14163 14164	+
+#834	AnnotatorNotes T834	SO:0000817 (wild_type)
+T835	CL 14165 14170	cells
+#835	AnnotatorNotes T835	CL:0000000 (cell)
+T836	GO_CC 14165 14170	cells
+#836	AnnotatorNotes T836	GO:0005623 (cell)
+T837	GO_MF 14197 14208	Cathepsin D
+#837	AnnotatorNotes T837	GO:0004192 (cathepsin D activity)
+T838	PR 14197 14208	Cathepsin D
+#838	AnnotatorNotes T838	PR:000006025 (cathepsin D)
+T839	independent_continuant 14197 14208	Cathepsin D
+#839	AnnotatorNotes T839	independent_continuant
+T840	SO 14237 14246	wild-type
+#840	AnnotatorNotes T840	SO:0000817 (wild_type)
+T841	italic 14265 14269	Cln3
+#841	AnnotatorNotes T841	italic (null)
+T842	sup 14269 14275	Δex7/8
+#842	AnnotatorNotes T842	sup (null)
+T843	italic 14297 14301	Cln3
+#843	AnnotatorNotes T843	italic (null)
+T844	sup 14301 14307	Δex7/8
+#844	AnnotatorNotes T844	sup (null)
+T845	CL 14308 14316	cellular
+#845	AnnotatorNotes T845	CL:0000000 (cell)
+T846	GO_CC 14308 14316	cellular
+#846	AnnotatorNotes T846	GO:0005623 (cell)
+T847	GO_MF 14349 14360	cathepsin D
+#847	AnnotatorNotes T847	GO:0004192 (cathepsin D activity)
+T848	independent_continuant 14349 14360	cathepsin D
+#848	AnnotatorNotes T848	independent_continuant
+T849	PR 14349 14360	cathepsin D
+#849	AnnotatorNotes T849	PR:000006025 (cathepsin D)
+T850	EntrezGene 14349 14360	cathepsin D
+#850	AnnotatorNotes T850	EG:13033
+T851	SO 14419 14428	wild-type
+#851	AnnotatorNotes T851	SO:0000817 (wild_type)
+T852	SO 14430 14432	wt
+#852	AnnotatorNotes T852	SO:0000817 (wild_type)
+T853	CL 14445 14453	cellular
+#853	AnnotatorNotes T853	CL:0000000 (cell)
+T854	GO_CC 14445 14453	cellular
+#854	AnnotatorNotes T854	GO:0005623 (cell)
+T855	SO 14492 14498	enzyme
+#855	AnnotatorNotes T855	SO:0001185 (enzymatic)
+T856	SO 14507 14512	chain
+#856	AnnotatorNotes T856	SO:0000001 (region)
+T857	SO 14533 14538	chain
+#857	AnnotatorNotes T857	SO:0000001 (region)
+T858	italic 14573 14577	Cln3
+#858	AnnotatorNotes T858	italic (null)
+T859	sup 14577 14583	Δex7/8
+#859	AnnotatorNotes T859	sup (null)
+T860	italic 14590 14594	Cln3
+#860	AnnotatorNotes T860	italic (null)
+T861	sup 14594 14600	Δex7/8
+#861	AnnotatorNotes T861	sup (null)
+T862	SO 14601 14607	mutant
+#862	AnnotatorNotes T862	SO:0001059 (sequence_alteration)
+T863	SO 14609 14610	m
+#863	AnnotatorNotes T863	SO:0001059 (sequence_alteration)
+T864	SO 14669 14674	chain
+#864	AnnotatorNotes T864	SO:0000001 (region)
+T865	SO 14682 14694	double-chain
+#865	AnnotatorNotes T865	SO:0000985 (double)
+T866	SO 14689 14694	chain
+#866	AnnotatorNotes T866	SO:0000001 (region)
+T867	SO 14695 14699	form
+#867	AnnotatorNotes T867	SO:0001060 (sequence_variant)
+T868	SO 14707 14713	enzyme
+#868	AnnotatorNotes T868	SO:0001185 (enzymatic)
+T869	SO 14739 14751	single-chain
+#869	AnnotatorNotes T869	SO:0000984 (single)
+T870	SO 14746 14751	chain
+#870	AnnotatorNotes T870	SO:0000001 (region)
+T871	SO 14759 14765	enzyme
+#871	AnnotatorNotes T871	SO:0001185 (enzymatic)
+T872	GO_MF 14794 14805	cathepsin D
+#872	AnnotatorNotes T872	GO:0004192 (cathepsin D activity)
+T873	PR 14794 14805	cathepsin D
+#873	AnnotatorNotes T873	PR:000006025 (cathepsin D)
+T874	EntrezGene 14794 14805	cathepsin D
+#874	AnnotatorNotes T874	EG:13033
+T875	independent_continuant 14794 14805	cathepsin D
+#875	AnnotatorNotes T875	independent_continuant
+T876	GO_BP 14806 14816	processing
+#876	AnnotatorNotes T876	GO:0016485 (protein processing)
+T877	SO 14820 14829	enzymatic
+#877	AnnotatorNotes T877	SO:0001185 (enzymatic)
+T878	SO 14879 14888	enzymatic
+#878	AnnotatorNotes T878	SO:0001185 (enzymatic)
+T879	PR 14923 14932	subunit c
+#879	AnnotatorNotes T879	PR:000022190 (ATP synthase subunit c)
+T880	italic 14960 14968	in vitro
+#880	AnnotatorNotes T880	italic (null)
+T881	independent_continuant 14976 14987	cathepsin D
+#881	AnnotatorNotes T881	independent_continuant
+T882	GO_MF 14976 14987	cathepsin D
+#882	AnnotatorNotes T882	GO:0004192 (cathepsin D activity)
+T883	EntrezGene 14976 14987	cathepsin D
+#883	AnnotatorNotes T883	EG:13033
+T884	PR 14976 14987	cathepsin D
+#884	AnnotatorNotes T884	PR:000006025 (cathepsin D)
+T885	CL 15006 15014	cellular
+#885	AnnotatorNotes T885	CL:0000000 (cell)
+T886	GO_CC 15006 15014	cellular
+#886	AnnotatorNotes T886	GO:0005623 (cell)
+T887	italic 15070 15074	Cln3
+#887	AnnotatorNotes T887	italic (null)
+T888	sup 15074 15080	Δex7/8
+#888	AnnotatorNotes T888	sup (null)
+T889	CL 15081 15086	cells
+#889	AnnotatorNotes T889	CL:0000000 (cell)
+T890	GO_CC 15081 15086	cells
+#890	AnnotatorNotes T890	GO:0005623 (cell)
+T891	CHEBI 15110 15117	protein
+#891	AnnotatorNotes T891	CHEBI:36080 (proteins)
+T892	SO 15127 15136	wild-type
+#892	AnnotatorNotes T892	SO:0000817 (wild_type)
+T893	CL 15137 15142	cells
+#893	AnnotatorNotes T893	CL:0000000 (cell)
+T894	GO_CC 15137 15142	cells
+#894	AnnotatorNotes T894	GO:0005623 (cell)
+T895	CHEBI 15166 15173	protein
+#895	AnnotatorNotes T895	CHEBI:36080 (proteins)
+T896	SO 15222 15231	enzymatic
+#896	AnnotatorNotes T896	SO:0001185 (enzymatic)
+T897	SO 15244 15250	mutant
+#897	AnnotatorNotes T897	SO:0001059 (sequence_alteration)
+T898	CL 15251 15256	cells
+#898	AnnotatorNotes T898	CL:0000000 (cell)
+T899	GO_CC 15251 15256	cells
+#899	AnnotatorNotes T899	GO:0005623 (cell)
+T900	GO_MF 15277 15288	cathepsin D
+#900	AnnotatorNotes T900	GO:0004192 (cathepsin D activity)
+T901	PR 15277 15288	cathepsin D
+#901	AnnotatorNotes T901	PR:000006025 (cathepsin D)
+T902	EntrezGene 15277 15288	cathepsin D
+#902	AnnotatorNotes T902	EG:13033
+T903	independent_continuant 15277 15288	cathepsin D
+#903	AnnotatorNotes T903	independent_continuant
+T904	GO_BP 15289 15298	transport
+#904	AnnotatorNotes T904	GO:0006810 (transport)
+T905	GO_BP 15303 15313	processing
+#905	AnnotatorNotes T905	GO:0016485 (protein processing)
+T906	italic 15344 15348	Cln3
+#906	AnnotatorNotes T906	italic (null)
+T907	sup 15348 15354	Δex7/8
+#907	AnnotatorNotes T907	sup (null)
+T908	CL 15355 15360	cells
+#908	AnnotatorNotes T908	CL:0000000 (cell)
+T909	GO_CC 15355 15360	cells
+#909	AnnotatorNotes T909	GO:0005623 (cell)
+T910	SO 15383 15392	enzymatic
+#910	AnnotatorNotes T910	SO:0001185 (enzymatic)
+T911	italic 15453 15457	Cln3
+#911	AnnotatorNotes T911	italic (null)
+T912	sup 15457 15463	Δex7/8
+#912	AnnotatorNotes T912	sup (null)
+T913	CL 15464 15469	cells
+#913	AnnotatorNotes T913	CL:0000000 (cell)
+T914	GO_CC 15464 15469	cells
+#914	AnnotatorNotes T914	GO:0005623 (cell)
+T915	GO_CC 15484 15503	membrane organelles
+#915	AnnotatorNotes T915	GO:0043227 (membrane-bound organelle)
+T916	GO_CC 15484 15492	membrane
+#916	AnnotatorNotes T916	GO:0016020 (membrane)
+T917	GO_BP 15518 15527	transport
+#917	AnnotatorNotes T917	GO:0006810 (transport)
+T918	GO_BP 15532 15542	processing
+#918	AnnotatorNotes T918	GO:0016485 (protein processing)
+T919	GO_MF 15546 15557	cathepsin D
+#919	AnnotatorNotes T919	GO:0004192 (cathepsin D activity)
+T920	PR 15546 15557	cathepsin D
+#920	AnnotatorNotes T920	PR:000006025 (cathepsin D)
+T921	EntrezGene 15546 15557	cathepsin D
+#921	AnnotatorNotes T921	EG:13033
+T922	independent_continuant 15546 15557	cathepsin D
+#922	AnnotatorNotes T922	independent_continuant
+T923	GO_CC 15568 15576	membrane
+#923	AnnotatorNotes T923	GO:0016020 (membrane)
+T924	GO_BP 15577 15588	trafficking
+#924	AnnotatorNotes T924	GO:0006810 (transport)
+T925	italic 15617 15621	Cln3
+#925	AnnotatorNotes T925	italic (null)
+T926	sup 15621 15627	Δex7/8
+#926	AnnotatorNotes T926	sup (null)
+T927	CL 15628 15633	cells
+#927	AnnotatorNotes T927	CL:0000000 (cell)
+T928	GO_CC 15628 15633	cells
+#928	AnnotatorNotes T928	GO:0005623 (cell)
+T929	GO_BP 15662 15724	subcellular distribution and morphology of membrane organelles
+#929	AnnotatorNotes T929	"subcellular distribution .. of .. organelles" GO:0051640 (organelle localization)
+T930	GO_CC 15705 15724	membrane organelles
+#930	AnnotatorNotes T930	GO:0043227 (membrane-bound organelle)
+T931	GO_CC 15705 15713	membrane
+#931	AnnotatorNotes T931	GO:0016020 (membrane)
+T932	GO_BP 15744 15761	secretory pathway
+#932	AnnotatorNotes T932	GO:0045045 (secretory pathway)
+T933	GO_CC 15777 15779	ER
+#933	AnnotatorNotes T933	GO:0005783 (endoplasmic reticulum)
+T934	GO_CC 15781 15790	cis-Golgi
+#934	AnnotatorNotes T934	GO:0005801 (cis-Golgi network)
+T935	italic 15781 15784	cis
+#935	AnnotatorNotes T935	italic (null)
+T936	GO_CC 15785 15790	Golgi
+#936	AnnotatorNotes T936	GO:0005794 (Golgi apparatus)
+T937	GO_CC 15796 15807	trans-Golgi
+#937	AnnotatorNotes T937	GO:0005802 (trans-Golgi network)
+T938	italic 15796 15801	trans
+#938	AnnotatorNotes T938	italic (null)
+T939	GO_CC 15802 15807	Golgi
+#939	AnnotatorNotes T939	GO:0005794 (Golgi apparatus)
+T940	SO 15837 15846	wild-type
+#940	AnnotatorNotes T940	SO:0000817 (wild_type)
+T941	independent_continuant 15837 15846	wild-type
+#941	AnnotatorNotes T941	independent_continuant
+T942	independent_continuant 15900 15927	protein disulfide isomerase
+#942	AnnotatorNotes T942	independent_continuant
+T943	PR 15900 15927	protein disulfide isomerase
+#943	AnnotatorNotes T943	PR:000012199 (protein disulfide-isomerase)
+T944	EntrezGene 15900 15927	protein disulfide isomerase
+#944	AnnotatorNotes T944	EG:18453
+T945	GO_MF 15900 15927	protein disulfide isomerase
+#945	AnnotatorNotes T945	GO:0003756 (protein disulfide isomerase activity)
+T946	CHEBI 15900 15917	protein disulfide
+#946	AnnotatorNotes T946	CHEBI:16249 (protein disulfides)
+T947	CHEBI 15908 15917	disulfide
+#947	AnnotatorNotes T947	CHEBI:48343 (disulfides)
+T948	CHEBI 15908 15917	disulfide
+#948	AnnotatorNotes T948	CHEBI:29396 (disulfide(2-))
+T949	CHEBI 15908 15917	disulfide
+#949	AnnotatorNotes T949	CHEBI:29395 (disulfide(.1-))
+T950	independent_continuant 15929 15932	PDI
+#950	AnnotatorNotes T950	independent_continuant
+T951	GO_MF 15929 15932	PDI
+#951	AnnotatorNotes T951	GO:0003756 (protein disulfide isomerase activity)
+T952	PR 15929 15932	PDI
+#952	AnnotatorNotes T952	PR:000012199 (protein disulfide-isomerase)
+T953	EntrezGene 15929 15932	PDI
+#953	AnnotatorNotes T953	EG:18453
+T954	EntrezGene 15935 15940	GM130
+#954	AnnotatorNotes T954	EG:99412
+T955	PR 15935 15940	GM130
+#955	AnnotatorNotes T955	PR:000008131 (golgin subfamily A member 2)
+T956	PR 15946 15949	VVL
+#956	AnnotatorNotes T956	PR:000013039 (POU domain, class 3, transcription factor 2)
+T957	GO_CC 15985 15994	lysosomal
+#957	AnnotatorNotes T957	GO:0005764 (lysosome)
+T958	EntrezGene 16020 16026	Lamp 2
+#958	AnnotatorNotes T958	EG:16784
+T959	PR 16020 16026	Lamp 2
+#959	AnnotatorNotes T959	PR:000002061 (lysosome-associated membrane glycoprotein 2)
+T960	italic 16076 16080	Cln3
+#960	AnnotatorNotes T960	italic (null)
+T961	sup 16080 16086	Δex7/8
+#961	AnnotatorNotes T961	sup (null)
+T962	CL 16087 16092	cells
+#962	AnnotatorNotes T962	CL:0000000 (cell)
+T963	GO_CC 16087 16092	cells
+#963	AnnotatorNotes T963	GO:0005623 (cell)
+T964	SO 16101 16110	wild-type
+#964	AnnotatorNotes T964	SO:0000817 (wild_type)
+T965	CL 16111 16116	cells
+#965	AnnotatorNotes T965	CL:0000000 (cell)
+T966	GO_CC 16111 16116	cells
+#966	AnnotatorNotes T966	GO:0005623 (cell)
+T967	SO 16118 16127	Wild-type
+#967	AnnotatorNotes T967	SO:0000817 (wild_type)
+T968	CL 16128 16133	cells
+#968	AnnotatorNotes T968	CL:0000000 (cell)
+T969	GO_CC 16128 16133	cells
+#969	AnnotatorNotes T969	GO:0005623 (cell)
+T970	GO_CC 16161 16170	lysosomes
+#970	AnnotatorNotes T970	GO:0005764 (lysosome)
+T971	GO_CC 16208 16226	perinuclear region
+#971	AnnotatorNotes T971	GO:0048471 (perinuclear region of cytoplasm)
+T972	italic 16248 16252	Cln3
+#972	AnnotatorNotes T972	italic (null)
+T973	sup 16252 16258	Δex7/8
+#973	AnnotatorNotes T973	sup (null)
+T974	GO_CC 16259 16268	lysosomes
+#974	AnnotatorNotes T974	GO:0005764 (lysosome)
+T975	GO_CC 16299 16307	vesicles
+#975	AnnotatorNotes T975	GO:0031982 (vesicle)
+T976	GO_CC 16350 16359	cytoplasm
+#976	AnnotatorNotes T976	GO:0005737 (cytoplasm)
+T977	CL 16367 16371	cell
+#977	AnnotatorNotes T977	CL:0000000 (cell)
+T978	GO_CC 16367 16371	cell
+#978	AnnotatorNotes T978	GO:0005623 (cell)
+T979	EntrezGene 16382 16388	Lamp 1
+#979	AnnotatorNotes T979	EG:16783
+T980	PR 16382 16388	Lamp 1
+#980	AnnotatorNotes T980	PR:000002060 (lysosome-associated membrane glycoprotein 1)
+T981	GO_BP 16389 16401	distribution
+#981	AnnotatorNotes T981	GO:0051179 (localization)
+T982	EntrezGene 16459 16465	Lamp 1
+#982	AnnotatorNotes T982	EG:16783
+T983	PR 16459 16465	Lamp 1
+#983	AnnotatorNotes T983	PR:000002060 (lysosome-associated membrane glycoprotein 1)
+T984	EntrezGene 16470 16476	Lamp 2
+#984	AnnotatorNotes T984	EG:16784
+T985	PR 16470 16476	Lamp 2
+#985	AnnotatorNotes T985	PR:000002061 (lysosome-associated membrane glycoprotein 2)
+T986	CHEBI 16483 16490	protein
+#986	AnnotatorNotes T986	CHEBI:36080 (proteins)
+T987	SO 16514 16523	wild-type
+#987	AnnotatorNotes T987	SO:0000817 (wild_type)
+T988	italic 16541 16545	Cln3
+#988	AnnotatorNotes T988	italic (null)
+T989	sup 16545 16551	Δex7/8
+#989	AnnotatorNotes T989	sup (null)
+T990	CL 16552 16557	cells
+#990	AnnotatorNotes T990	CL:0000000 (cell)
+T991	GO_CC 16552 16557	cells
+#991	AnnotatorNotes T991	GO:0005623 (cell)
+T992	GO_CC 16638 16647	lysosomes
+#992	AnnotatorNotes T992	GO:0005764 (lysosome)
+T993	GO_BP 16659 16671	localization
+#993	AnnotatorNotes T993	GO:0051179 (localization)
+T994	SO 16679 16686	epitope
+#994	AnnotatorNotes T994	SO:0001018 (epitope)
+T995	CHEBI 16752 16755	dye
+#995	AnnotatorNotes T995	CHEBI:37958 (dye)
+T996	CHEBI 16790 16796	acidic
+#996	AnnotatorNotes T996	CHEBI:37527 (acid)
+T997	GO_CC 16797 16809	compartments
+#997	AnnotatorNotes T997	GO:0005575 (cellular_component)
+T998	GO_CC 16850 16859	lysosomal
+#998	AnnotatorNotes T998	GO:0005764 (lysosome)
+T999	GO_CC 16907 16916	lysosomal
+#999	AnnotatorNotes T999	GO:0005764 (lysosome)
+T1000	bold 16972 17054	Lysotracker and Lamp 2 labeling of wild-type and homozygous CbCln3Δex7/8 lysosomes
+#1000	AnnotatorNotes T1000	bold (null)
+T1001	EntrezGene 16988 16994	Lamp 2
+#1001	AnnotatorNotes T1001	EG:16784
+T1002	PR 16988 16994	Lamp 2
+#1002	AnnotatorNotes T1002	PR:000002061 (lysosome-associated membrane glycoprotein 2)
+T1003	SO 17007 17016	wild-type
+#1003	AnnotatorNotes T1003	SO:0000817 (wild_type)
+T1004	italic 17034 17038	Cln3
+#1004	AnnotatorNotes T1004	italic (null)
+T1005	sup 17038 17044	Δex7/8
+#1005	AnnotatorNotes T1005	sup (null)
+T1006	GO_CC 17045 17054	lysosomes
+#1006	AnnotatorNotes T1006	GO:0005764 (lysosome)
+T1007	GO_CC 17055 17064	Lysosomal
+#1007	AnnotatorNotes T1007	GO:0005764 (lysosome)
+T1008	SO 17077 17086	wild-type
+#1008	AnnotatorNotes T1008	SO:0000817 (wild_type)
+T1009	italic 17104 17108	Cln3
+#1009	AnnotatorNotes T1009	italic (null)
+T1010	sup 17108 17114	Δex7/8
+#1010	AnnotatorNotes T1010	sup (null)
+T1011	CL 17125 17130	cells
+#1011	AnnotatorNotes T1011	CL:0000000 (cell)
+T1012	GO_CC 17125 17130	cells
+#1012	AnnotatorNotes T1012	GO:0005623 (cell)
+T1013	EntrezGene 17152 17158	Lamp 2
+#1013	AnnotatorNotes T1013	EG:16784
+T1014	PR 17152 17158	Lamp 2
+#1014	AnnotatorNotes T1014	PR:000002061 (lysosome-associated membrane glycoprotein 2)
+T1015	GO_CC 17159 17167	antibody
+#1015	AnnotatorNotes T1015	GO:0019814 (immunoglobulin complex)
+T1016	CHEBI 17190 17193	dye
+#1016	AnnotatorNotes T1016	CHEBI:37958 (dye)
+T1017	GO_CC 17222 17233	perinuclear
+#1017	AnnotatorNotes T1017	GO:0048471 (perinuclear region of cytoplasm)
+T1018	GO_CC 17244 17253	lysosomes
+#1018	AnnotatorNotes T1018	GO:0005764 (lysosome)
+T1019	GO_CC 17268 17277	lysosomes
+#1019	AnnotatorNotes T1019	GO:0005764 (lysosome)
+T1020	SO 17298 17307	wild-type
+#1020	AnnotatorNotes T1020	SO:0000817 (wild_type)
+T1021	CL 17308 17313	cells
+#1021	AnnotatorNotes T1021	CL:0000000 (cell)
+T1022	GO_CC 17308 17313	cells
+#1022	AnnotatorNotes T1022	GO:0005623 (cell)
+T1023	italic 17317 17321	Cln3
+#1023	AnnotatorNotes T1023	italic (null)
+T1024	sup 17321 17324	+/+
+#1024	AnnotatorNotes T1024	sup (null)
+T1025	SO 17321 17322	+
+#1025	AnnotatorNotes T1025	SO:0000817 (wild_type)
+T1026	SO 17323 17324	+
+#1026	AnnotatorNotes T1026	SO:0000817 (wild_type)
+T1027	SO 17384 17390	mutant
+#1027	AnnotatorNotes T1027	SO:0001059 (sequence_alteration)
+T1028	CL 17391 17396	cells
+#1028	AnnotatorNotes T1028	CL:0000000 (cell)
+T1029	GO_CC 17391 17396	cells
+#1029	AnnotatorNotes T1029	GO:0005623 (cell)
+T1030	italic 17400 17404	Cln3
+#1030	AnnotatorNotes T1030	italic (null)
+T1031	sup 17404 17417	Δex7/8/Δex7/8
+#1031	AnnotatorNotes T1031	sup (null)
+T1032	GO_CC 17441 17449	vesicles
+#1032	AnnotatorNotes T1032	GO:0031982 (vesicle)
+T1033	GO_CC 17468 17479	perinuclear
+#1033	AnnotatorNotes T1033	GO:0048471 (perinuclear region of cytoplasm)
+T1034	EntrezGene 17492 17498	Lamp 2
+#1034	AnnotatorNotes T1034	EG:16784
+T1035	PR 17492 17498	Lamp 2
+#1035	AnnotatorNotes T1035	PR:000002061 (lysosome-associated membrane glycoprotein 2)
+T1036	GO_CC 17577 17588	perinuclear
+#1036	AnnotatorNotes T1036	GO:0048471 (perinuclear region of cytoplasm)
+T1037	italic 17616 17620	Cln3
+#1037	AnnotatorNotes T1037	italic (null)
+T1038	sup 17620 17626	Δex7/8
+#1038	AnnotatorNotes T1038	sup (null)
+T1039	CL 17627 17632	cells
+#1039	AnnotatorNotes T1039	CL:0000000 (cell)
+T1040	GO_CC 17627 17632	cells
+#1040	AnnotatorNotes T1040	GO:0005623 (cell)
+T1041	CHEBI 17717 17720	dye
+#1041	AnnotatorNotes T1041	CHEBI:37958 (dye)
+T1042	SO 17722 17731	Wild-type
+#1042	AnnotatorNotes T1042	SO:0000817 (wild_type)
+T1043	independent_continuant 17722 17731	Wild-type
+#1043	AnnotatorNotes T1043	independent_continuant
+T1044	italic 17749 17753	Cln3
+#1044	AnnotatorNotes T1044	italic (null)
+T1045	sup 17753 17759	Δex7/8
+#1045	AnnotatorNotes T1045	sup (null)
+T1046	EntrezGene 17873 17894	early endosome marker
+#1046	AnnotatorNotes T1046	EG:216238
+T1047	GO_CC 17873 17887	early endosome
+#1047	AnnotatorNotes T1047	GO:0005769 (early endosome)
+T1048	EntrezGene 17896 17900	EEA1
+#1048	AnnotatorNotes T1048	EG:216238
+T1049	PR 17896 17900	EEA1
+#1049	AnnotatorNotes T1049	PR:000006901 (early endosome antigen 1)
+T1050	GO_BP 17946 17969	fluid-phase endocytosis
+#1050	AnnotatorNotes T1050	GO:0006907 (pinocytosis)
+T1051	italic 18003 18007	Cln3
+#1051	AnnotatorNotes T1051	italic (null)
+T1052	sup 18007 18013	Δex7/8
+#1052	AnnotatorNotes T1052	sup (null)
+T1053	CL 18014 18019	cells
+#1053	AnnotatorNotes T1053	CL:0000000 (cell)
+T1054	GO_CC 18014 18019	cells
+#1054	AnnotatorNotes T1054	GO:0005623 (cell)
+T1055	CHEBI 18044 18048	FITC
+#1055	AnnotatorNotes T1055	CHEBI:37926 (fluorescein isothiocyanate)
+T1056	CHEBI 18127 18131	FITC
+#1056	AnnotatorNotes T1056	CHEBI:37926 (fluorescein isothiocyanate)
+T1057	SO 18133 18142	wild-type
+#1057	AnnotatorNotes T1057	SO:0000817 (wild_type)
+T1058	CL 18160 18165	cells
+#1058	AnnotatorNotes T1058	CL:0000000 (cell)
+T1059	GO_CC 18160 18165	cells
+#1059	AnnotatorNotes T1059	GO:0005623 (cell)
+T1060	GO_CC 18200 18218	endocytic vesicles
+#1060	AnnotatorNotes T1060	GO:0030139 (endocytic vesicle)
+T1061	GO_BP 18200 18209	endocytic
+#1061	AnnotatorNotes T1061	GO:0006897 (endocytosis)
+T1062	GO_CC 18246 18264	perinuclear region
+#1062	AnnotatorNotes T1062	GO:0048471 (perinuclear region of cytoplasm)
+T1063	italic 18288 18292	Cln3
+#1063	AnnotatorNotes T1063	italic (null)
+T1064	sup 18292 18298	Δex7/8
+#1064	AnnotatorNotes T1064	sup (null)
+T1065	CL 18299 18304	cells
+#1065	AnnotatorNotes T1065	CL:0000000 (cell)
+T1066	GO_CC 18299 18304	cells
+#1066	AnnotatorNotes T1066	GO:0005623 (cell)
+T1067	CHEBI 18350 18354	FITC
+#1067	AnnotatorNotes T1067	CHEBI:37926 (fluorescein isothiocyanate)
+T1068	GO_BP 18362 18372	localizing
+#1068	AnnotatorNotes T1068	GO:0051179 (localization)
+T1069	GO_CC 18384 18392	vesicles
+#1069	AnnotatorNotes T1069	GO:0031982 (vesicle)
+T1070	GO_CC 18418 18427	cytoplasm
+#1070	AnnotatorNotes T1070	GO:0005737 (cytoplasm)
+T1071	CL 18435 18439	cell
+#1071	AnnotatorNotes T1071	CL:0000000 (cell)
+T1072	GO_CC 18435 18439	cell
+#1072	AnnotatorNotes T1072	GO:0005623 (cell)
+T1073	bold 18452 18524	Endocytosis in wild-type, heterozygous and homozygous CbCln3Δex7/8 cells
+#1073	AnnotatorNotes T1073	bold (null)
+T1074	GO_BP 18452 18463	Endocytosis
+#1074	AnnotatorNotes T1074	GO:0006897 (endocytosis)
+T1075	SO 18467 18476	wild-type
+#1075	AnnotatorNotes T1075	SO:0000817 (wild_type)
+T1076	italic 18508 18512	Cln3
+#1076	AnnotatorNotes T1076	italic (null)
+T1077	sup 18512 18518	Δex7/8
+#1077	AnnotatorNotes T1077	sup (null)
+T1078	CL 18519 18524	cells
+#1078	AnnotatorNotes T1078	CL:0000000 (cell)
+T1079	GO_CC 18519 18524	cells
+#1079	AnnotatorNotes T1079	GO:0005623 (cell)
+T1080	CHEBI 18533 18537	FITC
+#1080	AnnotatorNotes T1080	CHEBI:37926 (fluorescein isothiocyanate)
+T1081	SO 18548 18557	wild-type
+#1081	AnnotatorNotes T1081	SO:0000817 (wild_type)
+T1082	italic 18589 18593	Cln3
+#1082	AnnotatorNotes T1082	italic (null)
+T1083	sup 18593 18599	Δex7/8
+#1083	AnnotatorNotes T1083	sup (null)
+T1084	CL 18610 18615	cells
+#1084	AnnotatorNotes T1084	CL:0000000 (cell)
+T1085	GO_CC 18610 18615	cells
+#1085	AnnotatorNotes T1085	GO:0005623 (cell)
+T1086	SO 18629 18638	wild-type
+#1086	AnnotatorNotes T1086	SO:0000817 (wild_type)
+T1087	italic 18642 18646	Cln3
+#1087	AnnotatorNotes T1087	italic (null)
+T1088	sup 18646 18649	+/+
+#1088	AnnotatorNotes T1088	sup (null)
+T1089	SO 18646 18647	+
+#1089	AnnotatorNotes T1089	SO:0000817 (wild_type)
+T1090	SO 18648 18649	+
+#1090	AnnotatorNotes T1090	SO:0000817 (wild_type)
+T1091	italic 18683 18687	Cln3
+#1091	AnnotatorNotes T1091	italic (null)
+T1092	sup 18687 18695	+/Δex7/8
+#1092	AnnotatorNotes T1092	sup (null)
+T1093	SO 18687 18688	+
+#1093	AnnotatorNotes T1093	SO:0000817 (wild_type)
+T1094	CL 18711 18716	cells
+#1094	AnnotatorNotes T1094	CL:0000000 (cell)
+T1095	GO_CC 18711 18716	cells
+#1095	AnnotatorNotes T1095	GO:0005623 (cell)
+T1096	CHEBI 18726 18730	FITC
+#1096	AnnotatorNotes T1096	CHEBI:37926 (fluorescein isothiocyanate)
+T1097	GO_CC 18755 18766	perinuclear
+#1097	AnnotatorNotes T1097	GO:0048471 (perinuclear region of cytoplasm)
+T1098	GO_CC 18777 18786	vesicular
+#1098	AnnotatorNotes T1098	GO:0031982 (vesicle)
+T1099	GO_CC 18818 18826	vesicles
+#1099	AnnotatorNotes T1099	GO:0031982 (vesicle)
+T1100	CHEBI 18879 18883	FITC
+#1100	AnnotatorNotes T1100	CHEBI:37926 (fluorescein isothiocyanate)
+T1101	SO 18904 18910	mutant
+#1101	AnnotatorNotes T1101	SO:0001059 (sequence_alteration)
+T1102	italic 18914 18918	Cln3
+#1102	AnnotatorNotes T1102	italic (null)
+T1103	sup 18918 18931	Δex7/8/Δex7/8
+#1103	AnnotatorNotes T1103	sup (null)
+T1104	CL 18946 18951	cells
+#1104	AnnotatorNotes T1104	CL:0000000 (cell)
+T1105	GO_CC 18946 18951	cells
+#1105	AnnotatorNotes T1105	GO:0005623 (cell)
+T1106	GO_CC 19002 19010	vesicles
+#1106	AnnotatorNotes T1106	GO:0031982 (vesicle)
+T1107	GO_CC 19021 19032	perinuclear
+#1107	AnnotatorNotes T1107	GO:0048471 (perinuclear region of cytoplasm)
+T1108	PR 19147 19156	subunit c
+#1108	AnnotatorNotes T1108	PR:000022190 (ATP synthase subunit c)
+T1109	GO_CC 19162 19175	mitochondrial
+#1109	AnnotatorNotes T1109	GO:0005739 (mitochondrion)
+T1110	CHEBI 19176 19183	protein
+#1110	AnnotatorNotes T1110	CHEBI:36080 (proteins)
+T1111	GO_BP 19218 19255	autophagic engulfment of mitochondria
+#1111	AnnotatorNotes T1111	GO:0000422 (mitochondrion degradation)
+T1112	GO_CC 19218 19228	autophagic
+#1112	AnnotatorNotes T1112	GO:0005776 (autophagic vacuole)
+T1113	GO_CC 19243 19255	mitochondria
+#1113	AnnotatorNotes T1113	GO:0005739 (mitochondrion)
+T1114	italic 19287 19291	Cln3
+#1114	AnnotatorNotes T1114	italic (null)
+T1115	sup 19291 19297	Δex7/8
+#1115	AnnotatorNotes T1115	sup (null)
+T1116	CL 19298 19302	cell
+#1116	AnnotatorNotes T1116	CL:0000000 (cell)
+T1117	GO_CC 19298 19302	cell
+#1117	AnnotatorNotes T1117	GO:0005623 (cell)
+T1118	GO_CC 19303 19316	mitochondrial
+#1118	AnnotatorNotes T1118	GO:0005739 (mitochondrion)
+T1119	GO_BP 19342 19401	Mitochondrial distribution in homozygous CbCln3Δex7/8 cells
+#1119	AnnotatorNotes T1119	"Mitochondrial distribution in .. cells" GO:0048311 (mitochondrion distribution)
+T1120	GO_CC 19342 19355	Mitochondrial
+#1120	AnnotatorNotes T1120	GO:0005739 (mitochondrion)
+T1121	italic 19385 19389	Cln3
+#1121	AnnotatorNotes T1121	italic (null)
+T1122	sup 19389 19395	Δex7/8
+#1122	AnnotatorNotes T1122	sup (null)
+T1123	CL 19396 19401	cells
+#1123	AnnotatorNotes T1123	CL:0000000 (cell)
+T1124	GO_CC 19396 19401	cells
+#1124	AnnotatorNotes T1124	GO:0005623 (cell)
+T1125	SO 19429 19438	wild-type
+#1125	AnnotatorNotes T1125	SO:0000817 (wild_type)
+T1126	CL 19456 19461	cells
+#1126	AnnotatorNotes T1126	CL:0000000 (cell)
+T1127	GO_CC 19456 19461	cells
+#1127	AnnotatorNotes T1127	GO:0005623 (cell)
+T1128	italic 19485 19489	Cln3
+#1128	AnnotatorNotes T1128	italic (null)
+T1129	sup 19489 19495	Δex7/8
+#1129	AnnotatorNotes T1129	sup (null)
+T1130	GO_CC 19496 19508	mitochondria
+#1130	AnnotatorNotes T1130	GO:0005739 (mitochondrion)
+T1131	EntrezGene 19536 19541	grp75
+#1131	AnnotatorNotes T1131	EG:15526
+T1132	PR 19536 19541	grp75
+#1132	AnnotatorNotes T1132	PR:000008813 (stress-70 protein, mitochondrial)
+T1133	SO 19610 19616	mutant
+#1133	AnnotatorNotes T1133	SO:0001059 (sequence_alteration)
+T1134	GO_CC 19617 19629	mitochondria
+#1134	AnnotatorNotes T1134	GO:0005739 (mitochondrion)
+T1135	SO 19707 19716	wild-type
+#1135	AnnotatorNotes T1135	SO:0000817 (wild_type)
+T1136	GO_CC 19717 19729	mitochondria
+#1136	AnnotatorNotes T1136	GO:0005739 (mitochondrion)
+T1137	GO_CC 19786 19799	Mitochondrial
+#1137	AnnotatorNotes T1137	GO:0005739 (mitochondrion)
+T1138	italic 19838 19842	Cln3
+#1138	AnnotatorNotes T1138	italic (null)
+T1139	sup 19842 19848	Δex7/8
+#1139	AnnotatorNotes T1139	sup (null)
+T1140	CL 19849 19854	cells
+#1140	AnnotatorNotes T1140	CL:0000000 (cell)
+T1141	GO_CC 19849 19854	cells
+#1141	AnnotatorNotes T1141	GO:0005623 (cell)
+T1142	SO 19895 19904	wild-type
+#1142	AnnotatorNotes T1142	SO:0000817 (wild_type)
+T1143	CL 19921 19926	cells
+#1143	AnnotatorNotes T1143	CL:0000000 (cell)
+T1144	GO_CC 19921 19926	cells
+#1144	AnnotatorNotes T1144	GO:0005623 (cell)
+T1145	italic 19941 19945	Cln3
+#1145	AnnotatorNotes T1145	italic (null)
+T1146	sup 19945 19951	Δex7/8
+#1146	AnnotatorNotes T1146	sup (null)
+T1147	CL 19952 19957	cells
+#1147	AnnotatorNotes T1147	CL:0000000 (cell)
+T1148	GO_CC 19952 19957	cells
+#1148	AnnotatorNotes T1148	GO:0005623 (cell)
+T1149	CL 19984 19992	cellular
+#1149	AnnotatorNotes T1149	CL:0000000 (cell)
+T1150	GO_CC 19984 19992	cellular
+#1150	AnnotatorNotes T1150	GO:0005623 (cell)
+T1151	CHEBI 19993 19996	ATP
+#1151	AnnotatorNotes T1151	CHEBI:15422 (ATP)
+T1152	CHEBI 19993 19996	ATP
+#1152	AnnotatorNotes T1152	CHEBI:30616 (ATP(4-))
+T1153	CHEBI 20070 20087	hydrogen peroxide
+#1153	AnnotatorNotes T1153	CHEBI:16240 (hydrogen peroxide)
+T1154	CHEBI 20070 20078	hydrogen
+#1154	AnnotatorNotes T1154	CHEBI:49637 (hydrogen)
+T1155	CHEBI 20079 20087	peroxide
+#1155	AnnotatorNotes T1155	CHEBI:44785 (peroxide)
+T1156	SO 20107 20116	wild-type
+#1156	AnnotatorNotes T1156	SO:0000817 (wild_type)
+T1157	independent_continuant 20107 20116	wild-type
+#1157	AnnotatorNotes T1157	independent_continuant
+T1158	GO_BP 20164 20174	metabolism
+#1158	AnnotatorNotes T1158	GO:0008152 (metabolic process)
+T1159	GO_BP 20179 20204	oxidative stress response
+#1159	AnnotatorNotes T1159	GO:0006979 (response to oxidative stress)
+T1160	GO_CC 20250 20263	mitochondrial
+#1160	AnnotatorNotes T1160	GO:0005739 (mitochondrion)
+T1161	italic 20289 20293	Cln3
+#1161	AnnotatorNotes T1161	italic (null)
+T1162	sup 20293 20299	Δex7/8
+#1162	AnnotatorNotes T1162	sup (null)
+T1163	CL 20300 20305	cells
+#1163	AnnotatorNotes T1163	CL:0000000 (cell)
+T1164	GO_CC 20300 20305	cells
+#1164	AnnotatorNotes T1164	GO:0005623 (cell)
+T1165	bold 20318 20416	Mitochondrial morphology and function in wild-type, heterozygous and homozygous CbCln3Δex7/8 cells
+#1165	AnnotatorNotes T1165	bold (null)
+T1166	GO_CC 20318 20331	Mitochondrial
+#1166	AnnotatorNotes T1166	GO:0005739 (mitochondrion)
+T1167	SO 20359 20368	wild-type
+#1167	AnnotatorNotes T1167	SO:0000817 (wild_type)
+T1168	italic 20400 20404	Cln3
+#1168	AnnotatorNotes T1168	italic (null)
+T1169	sup 20404 20410	Δex7/8
+#1169	AnnotatorNotes T1169	sup (null)
+T1170	CL 20411 20416	cells
+#1170	AnnotatorNotes T1170	CL:0000000 (cell)
+T1171	GO_CC 20411 20416	cells
+#1171	AnnotatorNotes T1171	GO:0005623 (cell)
+T1172	SO 20452 20461	wild-type
+#1172	AnnotatorNotes T1172	SO:0000817 (wild_type)
+T1173	italic 20479 20483	Cln3
+#1173	AnnotatorNotes T1173	italic (null)
+T1174	sup 20483 20489	Δex7/8
+#1174	AnnotatorNotes T1174	sup (null)
+T1175	GO_CC 20490 20503	mitochondrial
+#1175	AnnotatorNotes T1175	GO:0005739 (mitochondrion)
+T1176	GO_CC 20550 20578	inner mitochondrial membrane
+#1176	AnnotatorNotes T1176	GO:0005743 (mitochondrial inner membrane)
+T1177	GO_CC 20556 20569	mitochondrial
+#1177	AnnotatorNotes T1177	GO:0005739 (mitochondrion)
+T1178	EntrezGene 20587 20592	grp75
+#1178	AnnotatorNotes T1178	EG:15526
+T1179	PR 20587 20592	grp75
+#1179	AnnotatorNotes T1179	PR:000008813 (stress-70 protein, mitochondrial)
+T1180	GO_CC 20628 20640	mitochondria
+#1180	AnnotatorNotes T1180	GO:0005739 (mitochondrion)
+T1181	SO 20655 20661	mutant
+#1181	AnnotatorNotes T1181	SO:0001059 (sequence_alteration)
+T1182	CL 20662 20667	cells
+#1182	AnnotatorNotes T1182	CL:0000000 (cell)
+T1183	GO_CC 20662 20667	cells
+#1183	AnnotatorNotes T1183	GO:0005623 (cell)
+T1184	italic 20671 20675	Cln3
+#1184	AnnotatorNotes T1184	italic (null)
+T1185	sup 20675 20688	Δex7/8/Δex7/8
+#1185	AnnotatorNotes T1185	sup (null)
+T1186	SO 20703 20712	wild-type
+#1186	AnnotatorNotes T1186	SO:0000817 (wild_type)
+T1187	GO_CC 20713 20725	mitochondria
+#1187	AnnotatorNotes T1187	GO:0005739 (mitochondrion)
+T1188	italic 20729 20733	Cln3
+#1188	AnnotatorNotes T1188	italic (null)
+T1189	sup 20733 20736	+/+
+#1189	AnnotatorNotes T1189	sup (null)
+T1190	SO 20733 20734	+
+#1190	AnnotatorNotes T1190	SO:0000817 (wild_type)
+T1191	SO 20735 20736	+
+#1191	AnnotatorNotes T1191	SO:0000817 (wild_type)
+T1192	GO_BP 20762 20788	Mitochondrial distribution
+#1192	AnnotatorNotes T1192	GO:0048311 (mitochondrion distribution)
+T1193	GO_CC 20762 20775	Mitochondrial
+#1193	AnnotatorNotes T1193	GO:0005739 (mitochondrion)
+T1194	SO 20814 20823	wild-type
+#1194	AnnotatorNotes T1194	SO:0000817 (wild_type)
+T1195	independent_continuant 20814 20823	wild-type
+#1195	AnnotatorNotes T1195	independent_continuant
+T1196	italic 20856 20860	Cln3
+#1196	AnnotatorNotes T1196	italic (null)
+T1197	sup 20860 20866	Δex7/8
+#1197	AnnotatorNotes T1197	sup (null)
+T1198	GO_CC 20867 20879	mitochondria
+#1198	AnnotatorNotes T1198	GO:0005739 (mitochondrion)
+T1199	CL 20939 20947	Cellular
+#1199	AnnotatorNotes T1199	CL:0000000 (cell)
+T1200	GO_CC 20939 20947	Cellular
+#1200	AnnotatorNotes T1200	GO:0005623 (cell)
+T1201	CHEBI 20948 20951	ATP
+#1201	AnnotatorNotes T1201	CHEBI:15422 (ATP)
+T1202	CHEBI 20948 20951	ATP
+#1202	AnnotatorNotes T1202	CHEBI:30616 (ATP(4-))
+T1203	SO 20962 20971	wild-type
+#1203	AnnotatorNotes T1203	SO:0000817 (wild_type)
+T1204	italic 21003 21007	Cln3
+#1204	AnnotatorNotes T1204	italic (null)
+T1205	sup 21007 21013	Δex7/8
+#1205	AnnotatorNotes T1205	sup (null)
+T1206	CL 21024 21029	cells
+#1206	AnnotatorNotes T1206	CL:0000000 (cell)
+T1207	GO_CC 21024 21029	cells
+#1207	AnnotatorNotes T1207	GO:0005623 (cell)
+T1208	SO 21041 21050	Wild-type
+#1208	AnnotatorNotes T1208	SO:0000817 (wild_type)
+T1209	italic 21092 21096	Cln3
+#1209	AnnotatorNotes T1209	italic (null)
+T1210	sup 21096 21102	Δex7/8
+#1210	AnnotatorNotes T1210	sup (null)
+T1211	CL 21103 21108	cells
+#1211	AnnotatorNotes T1211	CL:0000000 (cell)
+T1212	GO_CC 21103 21108	cells
+#1212	AnnotatorNotes T1212	GO:0005623 (cell)
+T1213	CHEBI 21126 21129	ATP
+#1213	AnnotatorNotes T1213	CHEBI:15422 (ATP)
+T1214	CHEBI 21126 21129	ATP
+#1214	AnnotatorNotes T1214	CHEBI:30616 (ATP(4-))
+T1215	italic 21150 21154	Cln3
+#1215	AnnotatorNotes T1215	italic (null)
+T1216	sup 21154 21160	Δex7/8
+#1216	AnnotatorNotes T1216	sup (null)
+T1217	CL 21161 21166	cells
+#1217	AnnotatorNotes T1217	CL:0000000 (cell)
+T1218	GO_CC 21161 21166	cells
+#1218	AnnotatorNotes T1218	GO:0005623 (cell)
+T1219	CHEBI 21217 21220	ATP
+#1219	AnnotatorNotes T1219	CHEBI:15422 (ATP)
+T1220	CHEBI 21217 21220	ATP
+#1220	AnnotatorNotes T1220	CHEBI:30616 (ATP(4-))
+T1221	SO 21293 21302	Wild-type
+#1221	AnnotatorNotes T1221	SO:0000817 (wild_type)
+T1222	italic 21322 21326	Cln3
+#1222	AnnotatorNotes T1222	italic (null)
+T1223	sup 21326 21332	Δex7/8
+#1223	AnnotatorNotes T1223	sup (null)
+T1224	CL 21333 21341	cellular
+#1224	AnnotatorNotes T1224	CL:0000000 (cell)
+T1225	GO_CC 21333 21341	cellular
+#1225	AnnotatorNotes T1225	GO:0005623 (cell)
+T1226	CHEBI 21342 21345	ATP
+#1226	AnnotatorNotes T1226	CHEBI:15422 (ATP)
+T1227	CHEBI 21342 21345	ATP
+#1227	AnnotatorNotes T1227	CHEBI:30616 (ATP(4-))
+T1228	CL 21496 21500	Cell
+#1228	AnnotatorNotes T1228	CL:0000000 (cell)
+T1229	GO_CC 21496 21500	Cell
+#1229	AnnotatorNotes T1229	GO:0005623 (cell)
+T1230	CHEBI 21528 21545	hydrogen peroxide
+#1230	AnnotatorNotes T1230	CHEBI:16240 (hydrogen peroxide)
+T1231	CHEBI 21528 21536	hydrogen
+#1231	AnnotatorNotes T1231	CHEBI:49637 (hydrogen)
+T1232	CHEBI 21537 21545	peroxide
+#1232	AnnotatorNotes T1232	CHEBI:44785 (peroxide)
+T1233	italic 21579 21583	Cln3
+#1233	AnnotatorNotes T1233	italic (null)
+T1234	sup 21583 21589	Δex7/8
+#1234	AnnotatorNotes T1234	sup (null)
+T1235	CL 21590 21595	cells
+#1235	AnnotatorNotes T1235	CL:0000000 (cell)
+T1236	GO_CC 21590 21595	cells
+#1236	AnnotatorNotes T1236	GO:0005623 (cell)
+T1237	CHEBI 21647 21664	hydrogen peroxide
+#1237	AnnotatorNotes T1237	CHEBI:16240 (hydrogen peroxide)
+T1238	CHEBI 21647 21655	hydrogen
+#1238	AnnotatorNotes T1238	CHEBI:49637 (hydrogen)
+T1239	CHEBI 21656 21664	peroxide
+#1239	AnnotatorNotes T1239	CHEBI:44785 (peroxide)
+T1240	SO 21676 21685	Wild-type
+#1240	AnnotatorNotes T1240	SO:0000817 (wild_type)
+T1241	italic 21725 21729	Cln3
+#1241	AnnotatorNotes T1241	italic (null)
+T1242	sup 21729 21735	Δex7/8
+#1242	AnnotatorNotes T1242	sup (null)
+T1243	CL 21736 21741	cells
+#1243	AnnotatorNotes T1243	CL:0000000 (cell)
+T1244	GO_CC 21736 21741	cells
+#1244	AnnotatorNotes T1244	GO:0005623 (cell)
+T1245	CHEBI 21787 21791	H2O2
+#1245	AnnotatorNotes T1245	CHEBI:16240 (hydrogen peroxide)
+T1246	sub 21788 21789	2
+#1246	AnnotatorNotes T1246	sub (null)
+T1247	sub 21790 21791	2
+#1247	AnnotatorNotes T1247	sub (null)
+T1248	italic 21814 21818	Cln3
+#1248	AnnotatorNotes T1248	italic (null)
+T1249	sup 21818 21824	Δex7/8
+#1249	AnnotatorNotes T1249	sup (null)
+T1250	CL 21825 21830	cells
+#1250	AnnotatorNotes T1250	CL:0000000 (cell)
+T1251	GO_CC 21825 21830	cells
+#1251	AnnotatorNotes T1251	GO:0005623 (cell)
+T1252	CHEBI 21877 21881	H2O2
+#1252	AnnotatorNotes T1252	CHEBI:16240 (hydrogen peroxide)
+T1253	sub 21878 21879	2
+#1253	AnnotatorNotes T1253	sub (null)
+T1254	sub 21880 21881	2
+#1254	AnnotatorNotes T1254	sub (null)
+T1255	italic 21978 21982	Cln3
+#1255	AnnotatorNotes T1255	italic (null)
+T1256	sup 21982 21988	Δex7/8
+#1256	AnnotatorNotes T1256	sup (null)
+T1257	CL 22010 22015	cells
+#1257	AnnotatorNotes T1257	CL:0000000 (cell)
+T1258	GO_CC 22010 22015	cells
+#1258	AnnotatorNotes T1258	GO:0005623 (cell)
+T1259	SO 22036 22047	genetically
+#1259	AnnotatorNotes T1259	SO:0000704 (gene)
+T1260	CL 22057 22063	neuron
+#1260	AnnotatorNotes T1260	CL:0000540 (neuron)
+T1261	italic 22108 22112	Cln3
+#1261	AnnotatorNotes T1261	italic (null)
+T1262	sup 22112 22118	Δex7/8
+#1262	AnnotatorNotes T1262	sup (null)
+T1263	CL 22119 22124	cells
+#1263	AnnotatorNotes T1263	CL:0000000 (cell)
+T1264	GO_CC 22119 22124	cells
+#1264	AnnotatorNotes T1264	GO:0005623 (cell)
+T1265	GO_BP 22125 22132	express
+#1265	AnnotatorNotes T1265	GO:0010467 (gene expression)
+T1266	SO 22133 22139	mutant
+#1266	AnnotatorNotes T1266	SO:0001059 (sequence_alteration)
+T1267	EntrezGene 22140 22148	battenin
+#1267	AnnotatorNotes T1267	EG:12752
+T1268	PR 22140 22148	battenin
+#1268	AnnotatorNotes T1268	PR:000005591 (battenin)
+T1269	PR 22167 22197	mitochondrial ATPase subunit c
+#1269	AnnotatorNotes T1269	PR:000022190 (ATP synthase subunit c)
+T1270	GO_CC 22167 22187	mitochondrial ATPase
+#1270	AnnotatorNotes T1270	GO:0005753 (mitochondrial proton-transporting ATP synthase complex)
+T1271	GO_CC 22167 22180	mitochondrial
+#1271	AnnotatorNotes T1271	GO:0005739 (mitochondrion)
+T1272	GO_MF 22181 22187	ATPase
+#1272	AnnotatorNotes T1272	GO:0016887 (ATPase activity)
+T1273	independent_continuant 22181 22187	ATPase
+#1273	AnnotatorNotes T1273	independent_continuant
+T1274	GO_BP 22217 22231	aging of cells
+#1274	AnnotatorNotes T1274	GO:0007569 (cell aging)
+T1275	CL 22226 22231	cells
+#1275	AnnotatorNotes T1275	CL:0000000 (cell)
+T1276	GO_CC 22226 22231	cells
+#1276	AnnotatorNotes T1276	GO:0005623 (cell)
+T1277	GO_BP 22303 22343	endosomal/lysosomal membrane trafficking
+#1277	AnnotatorNotes T1277	"endosomal .. trafficking" GO:0016197 (endosome transport)
+T1278	GO_CC 22303 22331	endosomal/lysosomal membrane
+#1278	AnnotatorNotes T1278	"endosomal .. membrane" GO:0010008 (endosome membrane)
+T1279	GO_CC 22303 22312	endosomal
+#1279	AnnotatorNotes T1279	GO:0005768 (endosome)
+T1280	GO_BP 22313 22343	lysosomal membrane trafficking
+#1280	AnnotatorNotes T1280	"lysosomal .. trafficking" GO:0007041 (lysosomal transport)
+T1281	GO_CC 22313 22331	lysosomal membrane
+#1281	AnnotatorNotes T1281	GO:0005765 (lysosomal membrane)
+T1282	GO_CC 22313 22322	lysosomal
+#1282	AnnotatorNotes T1282	GO:0005764 (lysosome)
+T1283	GO_CC 22356 22369	mitochondrial
+#1283	AnnotatorNotes T1283	GO:0005739 (mitochondrion)
+T1284	PR 22396 22405	subunit c
+#1284	AnnotatorNotes T1284	PR:000022190 (ATP synthase subunit c)
+T1285	CL 22557 22565	neuronal
+#1285	AnnotatorNotes T1285	CL:0000540 (neuron)
+T1286	GO_MF 22586 22597	cathepsin D
+#1286	AnnotatorNotes T1286	GO:0004192 (cathepsin D activity)
+T1287	PR 22586 22597	cathepsin D
+#1287	AnnotatorNotes T1287	PR:000006025 (cathepsin D)
+T1288	EntrezGene 22586 22597	cathepsin D
+#1288	AnnotatorNotes T1288	EG:13033
+T1289	independent_continuant 22586 22597	cathepsin D
+#1289	AnnotatorNotes T1289	independent_continuant
+T1290	GO_BP 22598 22610	localization
+#1290	AnnotatorNotes T1290	GO:0051179 (localization)
+T1291	GO_BP 22615 22625	processing
+#1291	AnnotatorNotes T1291	GO:0016485 (protein processing)
+T1292	italic 22642 22646	Cln3
+#1292	AnnotatorNotes T1292	italic (null)
+T1293	sup 22646 22652	Δex7/8
+#1293	AnnotatorNotes T1293	sup (null)
+T1294	CL 22653 22658	cells
+#1294	AnnotatorNotes T1294	CL:0000000 (cell)
+T1295	GO_CC 22653 22658	cells
+#1295	AnnotatorNotes T1295	GO:0005623 (cell)
+T1296	italic 22663 22667	Cln3
+#1296	AnnotatorNotes T1296	italic (null)
+T1297	sup 22667 22673	Δex7/8
+#1297	AnnotatorNotes T1297	sup (null)
+T1298	NCBITaxon 22674 22678	mice
+#1298	AnnotatorNotes T1298	NCBITaxon:10088 (Mus)
+T1299	GO_BP 22703 22724	vesicular trafficking
+#1299	AnnotatorNotes T1299	GO:0016192 (vesicle-mediated transport)
+T1300	GO_CC 22703 22712	vesicular
+#1300	AnnotatorNotes T1300	GO:0031982 (vesicle)
+T1301	GO_CC 22732 22741	lysosomal
+#1301	AnnotatorNotes T1301	GO:0005764 (lysosome)
+T1302	GO_MF 22771 22782	cathepsin D
+#1302	AnnotatorNotes T1302	GO:0004192 (cathepsin D activity)
+T1303	independent_continuant 22771 22782	cathepsin D
+#1303	AnnotatorNotes T1303	independent_continuant
+T1304	PR 22771 22782	cathepsin D
+#1304	AnnotatorNotes T1304	PR:000006025 (cathepsin D)
+T1305	GO_BP 22783 22793	processing
+#1305	AnnotatorNotes T1305	GO:0016485 (protein processing)
+T1306	italic 22811 22815	CLN3
+#1306	AnnotatorNotes T1306	italic (null)
+T1307	PR 22811 22815	CLN3
+#1307	AnnotatorNotes T1307	PR:000005591 (battenin)
+T1308	EntrezGene 22811 22815	CLN3
+#1308	AnnotatorNotes T1308	EG:1201
+T1309	CL 22842 22847	cells
+#1309	AnnotatorNotes T1309	CL:0000000 (cell)
+T1310	GO_CC 22842 22847	cells
+#1310	AnnotatorNotes T1310	GO:0005623 (cell)
+T1311	GO_CC 22856 22865	lysosomal
+#1311	AnnotatorNotes T1311	GO:0005764 (lysosome)
+T1312	GO_MF 22873 22884	cathepsin D
+#1312	AnnotatorNotes T1312	GO:0004192 (cathepsin D activity)
+T1313	PR 22873 22884	cathepsin D
+#1313	AnnotatorNotes T1313	PR:000006025 (cathepsin D)
+T1314	EntrezGene 22873 22884	cathepsin D
+#1314	AnnotatorNotes T1314	EG:1509
+T1315	independent_continuant 22873 22884	cathepsin D
+#1315	AnnotatorNotes T1315	independent_continuant
+T1316	GO_BP 22885 22895	processing
+#1316	AnnotatorNotes T1316	GO:0016485 (protein processing)
+T1317	GO_CC 22906 22915	lysosomal
+#1317	AnnotatorNotes T1317	GO:0005764 (lysosome)
+T1318	GO_BP 22916 22930	pH homeostasis
+#1318	AnnotatorNotes T1318	GO:0006885 (regulation of pH)
+T1319	GO_MF 22983 22994	cathepsin B
+#1319	AnnotatorNotes T1319	GO:0004213 (cathepsin B activity)
+T1320	EntrezGene 22983 22994	cathepsin B
+#1320	AnnotatorNotes T1320	EG:1508
+T1321	PR 22983 22994	cathepsin B
+#1321	AnnotatorNotes T1321	PR:000006023 (cathepsin B)
+T1322	independent_continuant 22983 22994	cathepsin B
+#1322	AnnotatorNotes T1322	independent_continuant
+T1323	EntrezGene 23003 23007	CLN2
+#1323	AnnotatorNotes T1323	EG:1200
+T1324	PR 23003 23007	CLN2
+#1324	AnnotatorNotes T1324	PR:000016585 (tripeptidyl-peptidase 1)
+T1325	SO 23016 23022	enzyme
+#1325	AnnotatorNotes T1325	SO:0001185 (enzymatic)
+T1326	EntrezGene 23024 23028	TPPI
+#1326	AnnotatorNotes T1326	EG:1200
+T1327	PR 23024 23028	TPPI
+#1327	AnnotatorNotes T1327	PR:000016585 (tripeptidyl-peptidase 1)
+T1328	GO_MF 23090 23101	cathepsin D
+#1328	AnnotatorNotes T1328	GO:0004192 (cathepsin D activity)
+T1329	PR 23090 23101	cathepsin D
+#1329	AnnotatorNotes T1329	PR:000006025 (cathepsin D)
+T1330	EntrezGene 23090 23101	cathepsin D
+#1330	AnnotatorNotes T1330	EG:13033
+T1331	independent_continuant 23090 23101	cathepsin D
+#1331	AnnotatorNotes T1331	independent_continuant
+T1332	CHEBI 23102 23109	protein
+#1332	AnnotatorNotes T1332	CHEBI:36080 (proteins)
+T1333	italic 23156 23160	Cln3
+#1333	AnnotatorNotes T1333	italic (null)
+T1334	sup 23160 23166	Δex7/8
+#1334	AnnotatorNotes T1334	sup (null)
+T1335	CL 23167 23172	cells
+#1335	AnnotatorNotes T1335	CL:0000000 (cell)
+T1336	GO_CC 23167 23172	cells
+#1336	AnnotatorNotes T1336	GO:0005623 (cell)
+T1337	independent_continuant 23174 23185	cathepsin D
+#1337	AnnotatorNotes T1337	independent_continuant
+T1338	EntrezGene 23174 23185	cathepsin D
+#1338	AnnotatorNotes T1338	EG:13033
+T1339	PR 23174 23185	cathepsin D
+#1339	AnnotatorNotes T1339	PR:000006025 (cathepsin D)
+T1340	GO_MF 23174 23185	cathepsin D
+#1340	AnnotatorNotes T1340	GO:0004192 (cathepsin D activity)
+T1341	SO 23186 23195	enzymatic
+#1341	AnnotatorNotes T1341	SO:0001185 (enzymatic)
+T1342	independent_continuant 23252 23263	cathepsin D
+#1342	AnnotatorNotes T1342	independent_continuant
+T1343	PR 23252 23263	cathepsin D
+#1343	AnnotatorNotes T1343	PR:000006025 (cathepsin D)
+T1344	EntrezGene 23252 23263	cathepsin D
+#1344	AnnotatorNotes T1344	EG:1509
+T1345	GO_MF 23252 23263	cathepsin D
+#1345	AnnotatorNotes T1345	GO:0004192 (cathepsin D activity)
+T1346	PR 23300 23309	subunit c
+#1346	AnnotatorNotes T1346	PR:000022190 (ATP synthase subunit c)
+T1347	GO_BP 23333 23371	Aging of homozygous CbCln3Δex7/8 cells
+#1347	AnnotatorNotes T1347	"Aging of .. cells" GO:0007569 (cell aging)
+T1348	italic 23355 23359	Cln3
+#1348	AnnotatorNotes T1348	italic (null)
+T1349	sup 23359 23365	Δex7/8
+#1349	AnnotatorNotes T1349	sup (null)
+T1350	CL 23366 23371	cells
+#1350	AnnotatorNotes T1350	CL:0000000 (cell)
+T1351	GO_CC 23366 23371	cells
+#1351	AnnotatorNotes T1351	GO:0005623 (cell)
+T1352	PR 23435 23444	subunit c
+#1352	AnnotatorNotes T1352	PR:000022190 (ATP synthase subunit c)
+T1353	CHEBI 23445 23452	protein
+#1353	AnnotatorNotes T1353	CHEBI:36080 (proteins)
+T1354	GO_CC 23463 23481	membrane organelle
+#1354	AnnotatorNotes T1354	GO:0043227 (membrane-bound organelle)
+T1355	GO_CC 23463 23471	membrane
+#1355	AnnotatorNotes T1355	GO:0016020 (membrane)
+T1356	PR 23502 23511	subunit c
+#1356	AnnotatorNotes T1356	PR:000022190 (ATP synthase subunit c)
+T1357	italic 23541 23545	Cln3
+#1357	AnnotatorNotes T1357	italic (null)
+T1358	sup 23545 23551	Δex7/8
+#1358	AnnotatorNotes T1358	sup (null)
+T1359	CL 23552 23557	cells
+#1359	AnnotatorNotes T1359	CL:0000000 (cell)
+T1360	GO_CC 23552 23557	cells
+#1360	AnnotatorNotes T1360	GO:0005623 (cell)
+T1361	GO_BP 23591 23596	aging
+#1361	AnnotatorNotes T1361	GO:0007568 (aging)
+T1362	GO_BP 23612 23657	Lysosomal and endosomal size and distribution
+#1362	AnnotatorNotes T1362	"Lysosomal .. distribution" GO:0032418 (lysosome localization)
+T1363	GO_CC 23612 23621	Lysosomal
+#1363	AnnotatorNotes T1363	GO:0005764 (lysosome)
+T1364	GO_BP 23626 23657	endosomal size and distribution
+#1364	AnnotatorNotes T1364	"endosomal .. distribution" GO:0032439 (endosome localization)
+T1365	GO_CC 23626 23635	endosomal
+#1365	AnnotatorNotes T1365	GO:0005768 (endosome)
+T1366	GO_CC 23675 23687	mitochondria
+#1366	AnnotatorNotes T1366	GO:0005739 (mitochondrion)
+T1367	italic 23772 23776	Cln3
+#1367	AnnotatorNotes T1367	italic (null)
+T1368	sup 23776 23782	Δex7/8
+#1368	AnnotatorNotes T1368	sup (null)
+T1369	GO_CC 23823 23831	membrane
+#1369	AnnotatorNotes T1369	GO:0016020 (membrane)
+T1370	GO_BP 23832 23843	trafficking
+#1370	AnnotatorNotes T1370	GO:0006810 (transport)
+T1371	PR 23881 23890	subunit c
+#1371	AnnotatorNotes T1371	PR:000022190 (ATP synthase subunit c)
+T1372	GO_CC 23921 23929	lysosome
+#1372	AnnotatorNotes T1372	GO:0005764 (lysosome)
+T1373	PR 23992 24001	subunit c
+#1373	AnnotatorNotes T1373	PR:000022190 (ATP synthase subunit c)
+T1374	GO_CC 24016 24029	Mitochondrial
+#1374	AnnotatorNotes T1374	GO:0005739 (mitochondrion)
+T1375	NCBITaxon 24102 24108	animal
+#1375	AnnotatorNotes T1375	NCBITaxon:33208 (Metazoa)
+T1376	GO_BP 24165 24174	autophagy
+#1376	AnnotatorNotes T1376	GO:0006914 (autophagy)
+T1377	GO_CC 24178 24187	lysosomal
+#1377	AnnotatorNotes T1377	GO:0005764 (lysosome)
+T1378	EntrezGene 24245 24253	battenin
+#1378	AnnotatorNotes T1378	EG:12752
+T1379	PR 24245 24253	battenin
+#1379	AnnotatorNotes T1379	PR:000005591 (battenin)
+T1380	GO_CC 24276 24289	mitochondrial
+#1380	AnnotatorNotes T1380	GO:0005739 (mitochondrion)
+T1381	GO_CC 24331 24344	mitochondrial
+#1381	AnnotatorNotes T1381	GO:0005739 (mitochondrion)
+T1382	GO_BP 24345 24355	biogenesis
+#1382	AnnotatorNotes T1382	GO:0022607 (cellular component assembly)
+T1383	GO_BP 24371 24421	transport and processing of mitochondrial proteins
+#1383	AnnotatorNotes T1383	"transport .. of .. proteins" GO:0015031 (protein transport)
+T1384	GO_BP 24385 24421	processing of mitochondrial proteins
+#1384	AnnotatorNotes T1384	"processing of .. proteins" GO:0016485 (protein processing)
+T1385	GO_CC 24399 24412	mitochondrial
+#1385	AnnotatorNotes T1385	GO:0005739 (mitochondrion)
+T1386	CHEBI 24413 24421	proteins
+#1386	AnnotatorNotes T1386	CHEBI:36080 (proteins)
+T1387	SO 24427 24436	wild-type
+#1387	AnnotatorNotes T1387	SO:0000817 (wild_type)
+T1388	italic 24439 24443	Cln3
+#1388	AnnotatorNotes T1388	italic (null)
+T1389	CL 24444 24452	neuronal
+#1389	AnnotatorNotes T1389	CL:0000540 (neuron)
+T1390	CL 24463 24468	cells
+#1390	AnnotatorNotes T1390	CL:0000000 (cell)
+T1391	GO_CC 24463 24468	cells
+#1391	AnnotatorNotes T1391	GO:0005623 (cell)
+T1392	EntrezGene 24469 24477	battenin
+#1392	AnnotatorNotes T1392	EG:12752
+T1393	PR 24469 24477	battenin
+#1393	AnnotatorNotes T1393	PR:000005591 (battenin)
+T1394	GO_BP 24491 24500	localizes
+#1394	AnnotatorNotes T1394	GO:0051179 (localization)
+T1395	GO_CC 24506 24530	early and late endosomes
+#1395	AnnotatorNotes T1395	"early .. endosomes" GO:0005769 (early endosome)
+T1396	GO_CC 24516 24530	late endosomes
+#1396	AnnotatorNotes T1396	GO:0005770 (late endosome)
+T1397	EntrezGene 24532 24540	Battenin
+#1397	AnnotatorNotes T1397	EG:12752
+T1398	PR 24532 24540	Battenin
+#1398	AnnotatorNotes T1398	PR:000005591 (battenin)
+T1399	italic 24572 24576	Cln3
+#1399	AnnotatorNotes T1399	italic (null)
+T1400	sup 24576 24582	Δex7/8
+#1400	AnnotatorNotes T1400	sup (null)
+T1401	CL 24583 24591	neuronal
+#1401	AnnotatorNotes T1401	CL:0000540 (neuron)
+T1402	SO 24646 24652	mutant
+#1402	AnnotatorNotes T1402	SO:0001059 (sequence_alteration)
+T1403	independent_continuant 24646 24652	mutant
+#1403	AnnotatorNotes T1403	independent_continuant
+T1404	GO_BP 24668 24677	localizes
+#1404	AnnotatorNotes T1404	GO:0051179 (localization)
+T1405	GO_CC 24683 24692	endosomal
+#1405	AnnotatorNotes T1405	GO:0005768 (endosome)
+T1406	SO 24712 24718	mutant
+#1406	AnnotatorNotes T1406	SO:0001059 (sequence_alteration)
+T1407	EntrezGene 24719 24727	battenin
+#1407	AnnotatorNotes T1407	EG:12752
+T1408	PR 24719 24727	battenin
+#1408	AnnotatorNotes T1408	PR:000005591 (battenin)
+T1409	CHEBI 24728 24735	protein
+#1409	AnnotatorNotes T1409	CHEBI:36080 (proteins)
+T1410	SO 24741 24751	C-terminal
+#1410	AnnotatorNotes T1410	SO:0100015 (c_terminal_region)
+T1411	CHEBI 24741 24742	C
+#1411	AnnotatorNotes T1411	CHEBI:46883 (carboxy group)
+T1412	CHEBI 24741 24742	C
+#1412	AnnotatorNotes T1412	CHEBI:18245 (carboxylato group)
+T1413	SO 24752 24760	epitopes
+#1413	AnnotatorNotes T1413	SO:0001018 (epitope)
+T1414	GO_BP 24764 24774	trafficked
+#1414	AnnotatorNotes T1414	GO:0006810 (transport)
+T1415	SO 24786 24795	wild-type
+#1415	AnnotatorNotes T1415	SO:0000817 (wild_type)
+T1416	CHEBI 24796 24803	protein
+#1416	AnnotatorNotes T1416	CHEBI:36080 (proteins)
+T1417	EntrezGene 24823 24827	CLN3
+#1417	AnnotatorNotes T1417	EG:1201
+T1418	PR 24823 24827	CLN3
+#1418	AnnotatorNotes T1418	PR:000005591 (battenin)
+T1419	EntrezGene 24828 24836	battenin
+#1419	AnnotatorNotes T1419	EG:1201
+T1420	PR 24828 24836	battenin
+#1420	AnnotatorNotes T1420	PR:000005591 (battenin)
+T1421	GO_BP 24837 24857	protein localization
+#1421	AnnotatorNotes T1421	GO:0008104 (protein localization)
+T1422	CHEBI 24837 24844	protein
+#1422	AnnotatorNotes T1422	CHEBI:36080 (proteins)
+T1423	GO_CC 24902 24916	late endosomes
+#1423	AnnotatorNotes T1423	GO:0005770 (late endosome)
+T1424	GO_CC 24921 24930	lysosomes
+#1424	AnnotatorNotes T1424	GO:0005764 (lysosome)
+T1425	CL 24938 24946	neuronal
+#1425	AnnotatorNotes T1425	CL:0000540 (neuron)
+T1426	CL 24947 24952	cells
+#1426	AnnotatorNotes T1426	CL:0000000 (cell)
+T1427	GO_CC 24947 24952	cells
+#1427	AnnotatorNotes T1427	GO:0005623 (cell)
+T1428	GO_CC 24965 24974	lysosomes
+#1428	AnnotatorNotes T1428	GO:0005764 (lysosome)
+T1429	GO_CC 24976 24988	synaptosomes
+#1429	AnnotatorNotes T1429	GO:0019717 (synaptosome)
+T1430	GO_CC 24997 25006	endosomes
+#1430	AnnotatorNotes T1430	GO:0005768 (endosome)
+T1431	CL 25017 25024	neurons
+#1431	AnnotatorNotes T1431	CL:0000540 (neuron)
+T1432	EntrezGene 25059 25067	battenin
+#1432	AnnotatorNotes T1432	EG:12752
+T1433	PR 25059 25067	battenin
+#1433	AnnotatorNotes T1433	PR:000005591 (battenin)
+T1434	GO_BP 25068 25075	resides
+#1434	AnnotatorNotes T1434	GO:0051179 (localization)
+T1435	GO_CC 25091 25113	vesicular compartments
+#1435	AnnotatorNotes T1435	GO:0031982 (vesicle)
+T1436	GO_CC 25131 25139	membrane
+#1436	AnnotatorNotes T1436	GO:0016020 (membrane)
+T1437	GO_BP 25140 25160	trafficking pathways
+#1437	AnnotatorNotes T1437	GO:0006810 (transport)
+T1438	GO_BP 25185 25218	vesicular transport and/or fusion
+#1438	AnnotatorNotes T1438	"vesicular .. fusion" GO:0006906 (vesicle fusion)
+T1439	GO_BP 25185 25204	vesicular transport
+#1439	AnnotatorNotes T1439	GO:0016192 (vesicle-mediated transport)
+T1440	GO_CC 25185 25194	vesicular
+#1440	AnnotatorNotes T1440	GO:0031982 (vesicle)
+T1441	GO_BP 25220 25261	Endocytic and lysosomal-targeted pathways
+#1441	AnnotatorNotes T1441	"Endocytic .. pathways" GO:0006897 (endocytosis)
+T1442	GO_CC 25234 25243	lysosomal
+#1442	AnnotatorNotes T1442	GO:0005764 (lysosome)
+T1443	GO_BP 25273 25296	mitochondrial autophagy
+#1443	AnnotatorNotes T1443	GO:0000422 (mitochondrion degradation)
+T1444	GO_CC 25273 25286	mitochondrial
+#1444	AnnotatorNotes T1444	GO:0005739 (mitochondrion)
+T1445	GO_CC 25359 25367	membrane
+#1445	AnnotatorNotes T1445	GO:0016020 (membrane)
+T1446	GO_BP 25368 25379	trafficking
+#1446	AnnotatorNotes T1446	GO:0006810 (transport)
+T1447	GO_CC 25384 25397	mitochondrial
+#1447	AnnotatorNotes T1447	GO:0005739 (mitochondrion)
+T1448	italic 25433 25437	Cln3
+#1448	AnnotatorNotes T1448	italic (null)
+T1449	sup 25437 25443	Δex7/8
+#1449	AnnotatorNotes T1449	sup (null)
+T1450	CL 25444 25449	cells
+#1450	AnnotatorNotes T1450	CL:0000000 (cell)
+T1451	GO_CC 25444 25449	cells
+#1451	AnnotatorNotes T1451	GO:0005623 (cell)
+T1452	CL 25484 25492	neuronal
+#1452	AnnotatorNotes T1452	CL:0000540 (neuron)
+T1453	GO_BP 25503 25520	Neurotransmission
+#1453	AnnotatorNotes T1453	GO:0007268 (synaptic transmission)
+T1454	GO_BP 25539 25565	membrane vesicle transport
+#1454	AnnotatorNotes T1454	GO:0016192 (vesicle-mediated transport)
+T1455	GO_CC 25539 25555	membrane vesicle
+#1455	AnnotatorNotes T1455	GO:0031988 (membrane-bound vesicle)
+T1456	GO_CC 25539 25547	membrane
+#1456	AnnotatorNotes T1456	GO:0016020 (membrane)
+T1457	GO_BP 25585 25595	metabolism
+#1457	AnnotatorNotes T1457	GO:0008152 (metabolic process)
+T1458	CL 25618 25625	neurons
+#1458	AnnotatorNotes T1458	CL:0000540 (neuron)
+T1459	EntrezGene 25641 25649	battenin
+#1459	AnnotatorNotes T1459	EG:12752
+T1460	PR 25641 25649	battenin
+#1460	AnnotatorNotes T1460	PR:000005591 (battenin)
+T1461	SO 25679 25688	wild-type
+#1461	AnnotatorNotes T1461	SO:0000817 (wild_type)
+T1462	italic 25721 25725	Cln3
+#1462	AnnotatorNotes T1462	italic (null)
+T1463	sup 25725 25731	Δex7/8
+#1463	AnnotatorNotes T1463	sup (null)
+T1464	CL 25743 25748	cells
+#1464	AnnotatorNotes T1464	CL:0000000 (cell)
+T1465	GO_CC 25743 25748	cells
+#1465	AnnotatorNotes T1465	GO:0005623 (cell)
+T1466	EntrezGene 25800 25808	battenin
+#1466	AnnotatorNotes T1466	EG:1201
+T1467	PR 25800 25808	battenin
+#1467	AnnotatorNotes T1467	PR:000005591 (battenin)
+T1468	GO_CC 25851 25859	Antibody
+#1468	AnnotatorNotes T1468	GO:0019814 (immunoglobulin complex)
+T1469	CL 25864 25868	cell
+#1469	AnnotatorNotes T1469	CL:0000000 (cell)
+T1470	GO_CC 25864 25868	cell
+#1470	AnnotatorNotes T1470	GO:0005623 (cell)
+T1471	CHEBI 25878 25886	reagents
+#1471	AnnotatorNotes T1471	CHEBI:33893 (reagent)
+T1472	PR 25888 25894	Nestin
+#1472	AnnotatorNotes T1472	PR:000011141 (nestin)
+T1473	NCBITaxon 25902 25905	Rat
+#1473	AnnotatorNotes T1473	NCBITaxon:10114 (Rattus)
+T1474	PR 25921 25927	Lamp 1
+#1474	AnnotatorNotes T1474	PR:000002060 (lysosome-associated membrane glycoprotein 1)
+T1475	PR 25955 25961	Lamp 2
+#1475	AnnotatorNotes T1475	PR:000002061 (lysosome-associated membrane glycoprotein 2)
+T1476	GO_CC 25997 26007	antibodies
+#1476	AnnotatorNotes T1476	GO:0019814 (immunoglobulin complex)
+T1477	GO_BP 26031 26044	Developmental
+#1477	AnnotatorNotes T1477	GO:0032502 (developmental process)
+T1478	PR 26194 26203	subunit c
+#1478	AnnotatorNotes T1478	PR:000022190 (ATP synthase subunit c)
+T1479	GO_CC 26204 26212	antibody
+#1479	AnnotatorNotes T1479	GO:0019814 (immunoglobulin complex)
+T1480	GO_CC 26309 26319	antibodies
+#1480	AnnotatorNotes T1480	GO:0019814 (immunoglobulin complex)
+T1481	PR 26337 26341	GFAP
+#1481	AnnotatorNotes T1481	PR:000007939 (glial fibrillary acidic protein)
+T1482	PR 26370 26379	calbindin
+#1482	AnnotatorNotes T1482	PR:000004967 (calbindin)
+T1483	EntrezGene 26424 26438	SV40 T antigen
+#1483	AnnotatorNotes T1483	EG:1489531
+T1484	NCBITaxon 26424 26428	SV40
+#1484	AnnotatorNotes T1484	NCBITaxon:10633 (Simian virus 40)
+T1485	GO_MF 26486 26497	cathepsin D
+#1485	AnnotatorNotes T1485	GO:0004192 (cathepsin D activity)
+T1486	independent_continuant 26486 26497	cathepsin D
+#1486	AnnotatorNotes T1486	independent_continuant
+T1487	PR 26486 26497	cathepsin D
+#1487	AnnotatorNotes T1487	PR:000006025 (cathepsin D)
+T1488	PR 26542 26573	cytochrome c oxidase subunit IV
+#1488	AnnotatorNotes T1488	PR:000005776 (cytochrome c oxidase subunit 4 isoform 1, mitochondrial)
+T1489	independent_continuant 26542 26562	cytochrome c oxidase
+#1489	AnnotatorNotes T1489	independent_continuant
+T1490	GO_CC 26542 26562	cytochrome c oxidase
+#1490	AnnotatorNotes T1490	GO:0045277 (respiratory chain complex IV)
+T1491	GO_MF 26542 26562	cytochrome c oxidase
+#1491	AnnotatorNotes T1491	GO:0004129 (cytochrome-c oxidase activity)
+T1492	CHEBI 26542 26554	cytochrome c
+#1492	AnnotatorNotes T1492	CHEBI:18070 (cytochrome c)
+T1493	PR 26542 26554	cytochrome c
+#1493	AnnotatorNotes T1493	PR:000002199 (cytochrome c protein)
+T1494	PR 26575 26579	cox4
+#1494	AnnotatorNotes T1494	PR:000005776 (cytochrome c oxidase subunit 4 isoform 1, mitochondrial)
+T1495	PR 26616 26619	PDI
+#1495	AnnotatorNotes T1495	PR:000012199 (protein disulfide-isomerase)
+T1496	PR 26665 26670	GM130
+#1496	AnnotatorNotes T1496	PR:000008131 (golgin subfamily A member 2)
+T1497	GO_BP 26684 26696	Transduction
+#1497	AnnotatorNotes T1497	GO:0009293 (transduction)
+T1498	GO_CC 26706 26713	tubulin
+#1498	AnnotatorNotes T1498	GO:0045298 (tubulin complex)
+T1499	PR 26733 26738	grp75
+#1499	AnnotatorNotes T1499	PR:000008813 (stress-70 protein, mitochondrial)
+T1500	PR 26759 26783	early endosome antigen-1
+#1500	AnnotatorNotes T1500	PR:000006901 (early endosome antigen 1)
+T1501	GO_CC 26759 26773	early endosome
+#1501	AnnotatorNotes T1501	GO:0005769 (early endosome)
+T1502	PR 26785 26789	EEA1
+#1502	AnnotatorNotes T1502	PR:000006901 (early endosome antigen 1)
+T1503	PR 26828 26833	rab 7
+#1503	AnnotatorNotes T1503	PR:000013639 (ras-related protein Rab-7a)
+T1504	GO_CC 26897 26907	antibodies
+#1504	AnnotatorNotes T1504	GO:0019814 (immunoglobulin complex)
+T1505	GO_BP 26971 26981	conjugated
+#1505	AnnotatorNotes T1505	GO:0043412 (biopolymer modification)
+T1506	GO_CC 26992 27002	antibodies
+#1506	AnnotatorNotes T1506	GO:0019814 (immunoglobulin complex)
+T1507	CL 27055 27059	cell
+#1507	AnnotatorNotes T1507	CL:0000000 (cell)
+T1508	GO_CC 27055 27059	cell
+#1508	AnnotatorNotes T1508	GO:0005623 (cell)
+T1509	PR 27085 27088	VVL
+#1509	AnnotatorNotes T1509	PR:000013039 (POU domain, class 3, transcription factor 2)
+T1510	CHEBI 27089 27095	biotin
+#1510	AnnotatorNotes T1510	CHEBI:22885 (biotinyl group)
+T1511	CHEBI 27145 27149	FITC
+#1511	AnnotatorNotes T1511	CHEBI:37926 (fluorescein isothiocyanate)
+T1512	CHEBI 27195 27204	Molecular
+#1512	AnnotatorNotes T1512	CHEBI:36357 (polyatomic entities)
+T1513	GO_BP 27215 27225	Generation
+#1513	AnnotatorNotes T1513	GO:0032502 (developmental process)
+T1514	GO_BP 27243 27258	differentiation
+#1514	AnnotatorNotes T1514	GO:0030154 (cell differentiation)
+T1515	italic 27264 27268	Cln3
+#1515	AnnotatorNotes T1515	italic (null)
+T1516	CL 27280 27288	neuronal
+#1516	AnnotatorNotes T1516	CL:0000540 (neuron)
+T1517	italic 27306 27310	Cln3
+#1517	AnnotatorNotes T1517	italic (null)
+T1518	sup 27310 27316	Δex7/8
+#1518	AnnotatorNotes T1518	sup (null)
+T1519	NCBITaxon 27326 27330	mice
+#1519	AnnotatorNotes T1519	NCBITaxon:10088 (Mus)
+T1520	GO_BP 27440 27453	establishment
+#1520	AnnotatorNotes T1520	GO:0032502 (developmental process)
+T1521	GO_BP 27492 27497	yield
+#1521	AnnotatorNotes T1521	GO:0032502 (developmental process)
+T1522	CL 27509 27523	granule neuron
+#1522	AnnotatorNotes T1522	CL:0000120 (granule cell)
+T1523	CHEBI 27613 27617	Salt
+#1523	AnnotatorNotes T1523	CHEBI:24866 (salts)
+T1524	CHEBI 27666 27673	glucose
+#1524	AnnotatorNotes T1524	CHEBI:17234 (glucose)
+T1525	SO 27713 27724	genomic DNA
+#1525	AnnotatorNotes T1525	SO:0000991 (genomic_DNA)
+T1526	SO 27713 27720	genomic
+#1526	AnnotatorNotes T1526	SO:0001026 (genome)
+T1527	SO 27739 27748	genotypic
+#1527	AnnotatorNotes T1527	SO:0001027 (genotype)
+T1528	independent_continuant 27759 27766	Trypsin
+#1528	AnnotatorNotes T1528	independent_continuant
+T1529	GO_MF 27759 27766	Trypsin
+#1529	AnnotatorNotes T1529	GO:0004295 (trypsin activity)
+T1530	CHEBI 27767 27771	EDTA
+#1530	AnnotatorNotes T1530	CHEBI:30378 (ethylenediaminetetraacetate)
+T1531	CHEBI 27767 27771	EDTA
+#1531	AnnotatorNotes T1531	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T1532	independent_continuant 27794 27801	DNase I
+#1532	AnnotatorNotes T1532	independent_continuant
+T1533	PR 27794 27801	DNase I
+#1533	AnnotatorNotes T1533	PR:000006592 (deoxyribonuclease-1)
+T1534	GO_MF 27794 27801	DNase I
+#1534	AnnotatorNotes T1534	GO:0004530 (deoxyribonuclease I activity)
+T1535	CHEBI 27913 27922	ornithine
+#1535	AnnotatorNotes T1535	CHEBI:46928 (ornithine residue)
+T1536	CHEBI 28032 28035	CO2
+#1536	AnnotatorNotes T1536	CHEBI:16526 (carbon dioxide)
+T1537	sub 28034 28035	2
+#1537	AnnotatorNotes T1537	sub (null)
+T1538	CL 28040 28054	granule neuron
+#1538	AnnotatorNotes T1538	CL:0000120 (granule cell)
+T1539	GO_BP 28055 28061	growth
+#1539	AnnotatorNotes T1539	GO:0040007 (growth)
+T1540	NCBITaxon 28142 28148	bovine
+#1540	AnnotatorNotes T1540	NCBITaxon:27592 (Bovinae)
+T1541	CHEBI 28196 28199	KCl
+#1541	AnnotatorNotes T1541	CHEBI:32588 (potassium chloride)
+T1542	NCBITaxon 28259 28269	retrovirus
+#1542	AnnotatorNotes T1542	NCBITaxon:11632 (Retroviridae)
+T1543	GO_BP 28270 28281	transducing
+#1543	AnnotatorNotes T1543	GO:0009293 (transduction)
+T1544	EntrezGene 28318 28333	large T antigen
+#1544	AnnotatorNotes T1544	EG:1489531
+T1545	CHEBI 28350 28358	neomycin
+#1545	AnnotatorNotes T1545	CHEBI:44577 (neomycin)
+T1546	SO 28370 28378	cassette
+#1546	AnnotatorNotes T1546	SO:0005853 (gene_cassette)
+T1547	GO_BP 28486 28492	growth
+#1547	AnnotatorNotes T1547	GO:0040007 (growth)
+T1548	GO_BP 28543 28549	growth
+#1548	AnnotatorNotes T1548	GO:0040007 (growth)
+T1549	GO_BP 28666 28674	expanded
+#1549	AnnotatorNotes T1549	GO:0008283 (cell proliferation)
+T1550	SO 28771 28779	genotype
+#1550	AnnotatorNotes T1550	SO:0001027 (genotype)
+T1551	italic 28842 28846	Cln3
+#1551	AnnotatorNotes T1551	italic (null)
+T1552	CL 28847 28851	cell
+#1552	AnnotatorNotes T1552	CL:0000000 (cell)
+T1553	GO_CC 28847 28851	cell
+#1553	AnnotatorNotes T1553	GO:0005623 (cell)
+T1554	italic 28861 28865	Cln3
+#1554	AnnotatorNotes T1554	italic (null)
+T1555	CL 28866 28870	cell
+#1555	AnnotatorNotes T1555	CL:0000000 (cell)
+T1556	GO_CC 28866 28870	cell
+#1556	AnnotatorNotes T1556	GO:0005623 (cell)
+T1557	CHEBI 28907 28916	ornithine
+#1557	AnnotatorNotes T1557	CHEBI:46928 (ornithine residue)
+T1558	CHEBI 28968 28971	CO2
+#1558	AnnotatorNotes T1558	CHEBI:16526 (carbon dioxide)
+T1559	sub 28970 28971	2
+#1559	AnnotatorNotes T1559	sub (null)
+T1560	CL 29075 29083	Neuronal
+#1560	AnnotatorNotes T1560	CL:0000540 (neuron)
+T1561	GO_BP 29084 29099	differentiation
+#1561	AnnotatorNotes T1561	GO:0030154 (cell differentiation)
+T1562	PR 29171 29176	α-FGF
+#1562	AnnotatorNotes T1562	PR:000007479 (heparin-binding growth factor 1)
+T1563	CHEBI 29185 29189	IBMX
+#1563	AnnotatorNotes T1563	CHEBI:48518 (3-isobutyl-1-methylxanthine)
+T1564	CHEBI 29209 29218	forskolin
+#1564	AnnotatorNotes T1564	CHEBI:42471 (forskolin)
+T1565	CHEBI 29225 29233	dopamine
+#1565	AnnotatorNotes T1565	CHEBI:18243 (dopamine)
+T1566	GO_MF 29259 29261	RT
+#1566	AnnotatorNotes T1566	GO:0003964 (RNA-directed DNA polymerase activity)
+T1567	GO_BP 29259 29261	RT
+#1567	AnnotatorNotes T1567	GO:0006410 (transcription, RNA-dependent)
+T1568	independent_continuant 29259 29261	RT
+#1568	AnnotatorNotes T1568	independent_continuant
+T1569	SO 29267 29278	Genomic DNA
+#1569	AnnotatorNotes T1569	SO:0000991 (genomic_DNA)
+T1570	SO 29267 29274	Genomic
+#1570	AnnotatorNotes T1570	SO:0001026 (genome)
+T1571	CL 29316 29320	cell
+#1571	AnnotatorNotes T1571	CL:0000000 (cell)
+T1572	GO_CC 29316 29320	cell
+#1572	AnnotatorNotes T1572	GO:0005623 (cell)
+T1573	italic 29365 29369	Cln3
+#1573	AnnotatorNotes T1573	italic (null)
+T1574	sup 29369 29375	Δex7/8
+#1574	AnnotatorNotes T1574	sup (null)
+T1575	SO 29385 29391	allele
+#1575	AnnotatorNotes T1575	SO:0001023 (allele)
+T1576	independent_continuant 29416 29425	wild-type
+#1576	AnnotatorNotes T1576	independent_continuant
+T1577	SO 29416 29425	wild-type
+#1577	AnnotatorNotes T1577	SO:0000817 (wild_type)
+T1578	SO 29426 29433	primers
+#1578	AnnotatorNotes T1578	SO:0000112 (primer)
+T1579	GO_BP 29510 29515	yield
+#1579	AnnotatorNotes T1579	GO:0009058 (biosynthetic process)
+T1580	SO 29523 29525	bp
+#1580	AnnotatorNotes T1580	SO:0000028 (base_pair)
+T1581	SO 29544 29551	primers
+#1581	AnnotatorNotes T1581	SO:0000112 (primer)
+T1582	SO 29645 29647	bp
+#1582	AnnotatorNotes T1582	SO:0000028 (base_pair)
+T1583	SO 29779 29782	RNA
+#1583	AnnotatorNotes T1583	SO:0000356 (RNA)
+T1584	italic 29797 29801	Cln3
+#1584	AnnotatorNotes T1584	italic (null)
+T1585	PR 29797 29801	Cln3
+#1585	AnnotatorNotes T1585	PR:000005591 (battenin)
+T1586	EntrezGene 29797 29801	Cln3
+#1586	AnnotatorNotes T1586	EG:12752
+T1587	GO_MF 29802 29804	RT
+#1587	AnnotatorNotes T1587	GO:0003964 (RNA-directed DNA polymerase activity)
+T1588	independent_continuant 29802 29804	RT
+#1588	AnnotatorNotes T1588	independent_continuant
+T1589	GO_BP 29802 29804	RT
+#1589	AnnotatorNotes T1589	GO:0006410 (transcription, RNA-dependent)
+T1590	SO 29809 29816	primers
+#1590	AnnotatorNotes T1590	SO:0000112 (primer)
+T1591	PR 29870 29879	Subunit c
+#1591	AnnotatorNotes T1591	PR:000022190 (ATP synthase subunit c)
+T1592	CL 29900 29905	Cells
+#1592	AnnotatorNotes T1592	CL:0000000 (cell)
+T1593	GO_CC 29900 29905	Cells
+#1593	AnnotatorNotes T1593	GO:0005623 (cell)
+T1594	sup 29976 29977	4
+#1594	AnnotatorNotes T1594	sup (null)
+T1595	CL 29978 29983	cells
+#1595	AnnotatorNotes T1595	CL:0000000 (cell)
+T1596	GO_CC 29978 29983	cells
+#1596	AnnotatorNotes T1596	GO:0005623 (cell)
+T1597	sup 30070 30071	5
+#1597	AnnotatorNotes T1597	sup (null)
+T1598	CL 30072 30077	cells
+#1598	AnnotatorNotes T1598	CL:0000000 (cell)
+T1599	GO_CC 30072 30077	cells
+#1599	AnnotatorNotes T1599	GO:0005623 (cell)
+T1600	CHEBI 30091 30098	protein
+#1600	AnnotatorNotes T1600	CHEBI:36080 (proteins)
+T1601	CL 30111 30116	Cells
+#1601	AnnotatorNotes T1601	CL:0000000 (cell)
+T1602	GO_CC 30111 30116	Cells
+#1602	AnnotatorNotes T1602	GO:0005623 (cell)
+T1603	CL 30253 30258	cells
+#1603	AnnotatorNotes T1603	CL:0000000 (cell)
+T1604	GO_CC 30253 30258	cells
+#1604	AnnotatorNotes T1604	GO:0005623 (cell)
+T1605	CHEBI 30285 30297	formaldehyde
+#1605	AnnotatorNotes T1605	CHEBI:16842 (formaldehyde)
+T1606	CHEBI 30301 30310	phosphate
+#1606	AnnotatorNotes T1606	CHEBI:26020 (phosphates)
+T1607	CHEBI 30301 30310	phosphate
+#1607	AnnotatorNotes T1607	CHEBI:35780 (phosphate ions)
+T1608	CHEBI 30311 30319	buffered
+#1608	AnnotatorNotes T1608	CHEBI:35225 (buffer)
+T1609	PR 30392 30401	subunit c
+#1609	AnnotatorNotes T1609	PR:000022190 (ATP synthase subunit c)
+T1610	CL 30421 30425	cell
+#1610	AnnotatorNotes T1610	CL:0000000 (cell)
+T1611	GO_CC 30421 30425	cell
+#1611	AnnotatorNotes T1611	GO:0005623 (cell)
+T1612	CHEBI 30459 30466	protein
+#1612	AnnotatorNotes T1612	CHEBI:36080 (proteins)
+T1613	CL 30495 30500	cells
+#1613	AnnotatorNotes T1613	CL:0000000 (cell)
+T1614	GO_CC 30495 30500	cells
+#1614	AnnotatorNotes T1614	GO:0005623 (cell)
+T1615	CHEBI 30566 30576	cacodylate
+#1615	AnnotatorNotes T1615	CHEBI:16223 (dimethylarsinate)
+T1616	GO_CC 30870 30878	antibody
+#1616	AnnotatorNotes T1616	GO:0019814 (immunoglobulin complex)
+T1617	CL 30954 30959	cells
+#1617	AnnotatorNotes T1617	CL:0000000 (cell)
+T1618	GO_CC 30954 30959	cells
+#1618	AnnotatorNotes T1618	GO:0005623 (cell)
+T1619	sup 30996 30997	4
+#1619	AnnotatorNotes T1619	sup (null)
+T1620	CL 30998 31003	cells
+#1620	AnnotatorNotes T1620	CL:0000000 (cell)
+T1621	GO_CC 30998 31003	cells
+#1621	AnnotatorNotes T1621	GO:0005623 (cell)
+T1622	GO_BP 31042 31047	grown
+#1622	AnnotatorNotes T1622	GO:0040007 (growth)
+T1623	CHEBI 31125 31137	formaldehyde
+#1623	AnnotatorNotes T1623	CHEBI:16842 (formaldehyde)
+T1624	CHEBI 31187 31195	methanol
+#1624	AnnotatorNotes T1624	CHEBI:17790 (methanol)
+T1625	CHEBI 31196 31203	acetone
+#1625	AnnotatorNotes T1625	CHEBI:15347 (acetone)
+T1626	GO_CC 31258 31266	antibody
+#1626	AnnotatorNotes T1626	GO:0019814 (immunoglobulin complex)
+T1627	CL 31279 31284	Cells
+#1627	AnnotatorNotes T1627	CL:0000000 (cell)
+T1628	GO_CC 31279 31284	Cells
+#1628	AnnotatorNotes T1628	GO:0005623 (cell)
+T1629	CHEBI 31413 31420	glycine
+#1629	AnnotatorNotes T1629	CHEBI:15428 (glycine)
+T1630	GO_CC 31458 31466	antibody
+#1630	AnnotatorNotes T1630	GO:0019814 (immunoglobulin complex)
+T1631	EntrezGene 31536 31556	bovine serum albumin
+#1631	AnnotatorNotes T1631	EG:280717
+T1632	NCBITaxon 31536 31542	bovine
+#1632	AnnotatorNotes T1632	NCBITaxon:27592 (Bovinae)
+T1633	PR 31543 31556	serum albumin
+#1633	AnnotatorNotes T1633	PR:000003918 (serum albumin)
+T1634	EntrezGene 31558 31561	BSA
+#1634	AnnotatorNotes T1634	EG:280717
+T1635	GO_CC 31594 31602	antibody
+#1635	AnnotatorNotes T1635	GO:0019814 (immunoglobulin complex)
+T1636	EntrezGene 31617 31620	BSA
+#1636	AnnotatorNotes T1636	EG:280717
+T1637	GO_CC 31651 31659	antibody
+#1637	AnnotatorNotes T1637	GO:0019814 (immunoglobulin complex)
+T1638	EntrezGene 31674 31677	BSA
+#1638	AnnotatorNotes T1638	EG:280717
+T1639	SO 31969 31978	wild-type
+#1639	AnnotatorNotes T1639	SO:0000817 (wild_type)
+T1640	independent_continuant 31969 31978	wild-type
+#1640	AnnotatorNotes T1640	independent_continuant
+T1641	SO 31983 31989	mutant
+#1641	AnnotatorNotes T1641	SO:0001059 (sequence_alteration)
+T1642	independent_continuant 31983 31989	mutant
+#1642	AnnotatorNotes T1642	independent_continuant
+T1643	SO 32022 32031	wild-type
+#1643	AnnotatorNotes T1643	SO:0000817 (wild_type)
+T1644	independent_continuant 32022 32031	wild-type
+#1644	AnnotatorNotes T1644	independent_continuant
+T1645	SO 32036 32042	mutant
+#1645	AnnotatorNotes T1645	SO:0001059 (sequence_alteration)
+T1646	independent_continuant 32036 32042	mutant
+#1646	AnnotatorNotes T1646	independent_continuant
+T1647	CHEBI 32145 32153	proteins
+#1647	AnnotatorNotes T1647	CHEBI:36080 (proteins)
+T1648	CL 32173 32177	cell
+#1648	AnnotatorNotes T1648	CL:0000000 (cell)
+T1649	GO_CC 32173 32177	cell
+#1649	AnnotatorNotes T1649	GO:0005623 (cell)
+T1650	CHEBI 32220 32224	Tris
+#1650	AnnotatorNotes T1650	CHEBI:9754 (tris)
+T1651	GO_CC 32251 32259	membrane
+#1651	AnnotatorNotes T1651	GO:0016020 (membrane)
+T1652	CHEBI 32289 32308	protease inhibitors
+#1652	AnnotatorNotes T1652	CHEBI:37670 (protease inhibitor)
+T1653	independent_continuant 32289 32308	protease inhibitors
+#1653	AnnotatorNotes T1653	independent_continuant
+T1654	GO_MF 32289 32308	protease inhibitors
+#1654	AnnotatorNotes T1654	GO:0030414 (protease inhibitor activity)
+T1655	GO_MF 32289 32297	protease
+#1655	AnnotatorNotes T1655	GO:0008233 (peptidase activity)
+T1656	independent_continuant 32289 32297	protease
+#1656	AnnotatorNotes T1656	independent_continuant
+T1657	CHEBI 32570 32577	protein
+#1657	AnnotatorNotes T1657	CHEBI:36080 (proteins)
+T1658	sub 32602 32603	c
+#1658	AnnotatorNotes T1658	sub (null)
+T1659	CHEBI 32604 32611	Protein
+#1659	AnnotatorNotes T1659	CHEBI:36080 (proteins)
+T1660	CHEBI 32636 32639	SDS
+#1660	AnnotatorNotes T1660	CHEBI:8984 (sodium dodecyl sulfate)
+T1661	CHEBI 32702 32706	tris
+#1661	AnnotatorNotes T1661	CHEBI:9754 (tris)
+T1662	CHEBI 32707 32714	tricine
+#1662	AnnotatorNotes T1662	CHEBI:46760 (tricine)
+T1663	CHEBI 32715 32718	SDS
+#1663	AnnotatorNotes T1663	CHEBI:8984 (sodium dodecyl sulfate)
+T1664	PR 32743 32752	subunit c
+#1664	AnnotatorNotes T1664	PR:000022190 (ATP synthase subunit c)
+T1665	independent_continuant 32782 32793	Cathepsin D
+#1665	AnnotatorNotes T1665	independent_continuant
+T1666	PR 32782 32793	Cathepsin D
+#1666	AnnotatorNotes T1666	PR:000006025 (cathepsin D)
+T1667	EntrezGene 32782 32793	Cathepsin D
+#1667	AnnotatorNotes T1667	EG:13033
+T1668	GO_MF 32782 32793	Cathepsin D
+#1668	AnnotatorNotes T1668	GO:0004192 (cathepsin D activity)
+T1669	CHEBI 32932 32939	protein
+#1669	AnnotatorNotes T1669	CHEBI:36080 (proteins)
+T1670	CL 32975 32980	cells
+#1670	AnnotatorNotes T1670	CL:0000000 (cell)
+T1671	GO_CC 32975 32980	cells
+#1671	AnnotatorNotes T1671	GO:0005623 (cell)
+T1672	CHEBI 32992 32996	Tris
+#1672	AnnotatorNotes T1672	CHEBI:9754 (tris)
+T1673	GO_CC 33075 33093	insoluble material
+#1673	AnnotatorNotes T1673	GO:0005626 (insoluble fraction)
+T1674	CHEBI 33157 33164	protein
+#1674	AnnotatorNotes T1674	CHEBI:36080 (proteins)
+T1675	sub 33213 33214	c
+#1675	AnnotatorNotes T1675	sub (null)
+T1676	CHEBI 33215 33222	Protein
+#1676	AnnotatorNotes T1676	CHEBI:36080 (proteins)
+T1677	CHEBI 33248 33255	protein
+#1677	AnnotatorNotes T1677	CHEBI:36080 (proteins)
+T1678	independent_continuant 33285 33296	cathepsin D
+#1678	AnnotatorNotes T1678	independent_continuant
+T1679	GO_MF 33285 33296	cathepsin D
+#1679	AnnotatorNotes T1679	GO:0004192 (cathepsin D activity)
+T1680	EntrezGene 33285 33296	cathepsin D
+#1680	AnnotatorNotes T1680	EG:13033
+T1681	PR 33285 33296	cathepsin D
+#1681	AnnotatorNotes T1681	PR:000006025 (cathepsin D)
+T1682	independent_continuant 33338 33349	Cathepsin D
+#1682	AnnotatorNotes T1682	independent_continuant
+T1683	GO_MF 33338 33349	Cathepsin D
+#1683	AnnotatorNotes T1683	GO:0004192 (cathepsin D activity)
+T1684	PR 33338 33349	Cathepsin D
+#1684	AnnotatorNotes T1684	PR:000006025 (cathepsin D)
+T1685	CHEBI 33519 33528	Molecular
+#1685	AnnotatorNotes T1685	CHEBI:36357 (polyatomic entities)
+T1686	GO_CC 33725 33734	Lysosomal
+#1686	AnnotatorNotes T1686	GO:0005764 (lysosome)
+T1687	GO_BP 33748 33764	endocytic uptake
+#1687	AnnotatorNotes T1687	GO:0006897 (endocytosis)
+T1688	CL 33766 33771	Cells
+#1688	AnnotatorNotes T1688	CL:0000000 (cell)
+T1689	GO_CC 33766 33771	Cells
+#1689	AnnotatorNotes T1689	GO:0005623 (cell)
+T1690	sup 33808 33809	4
+#1690	AnnotatorNotes T1690	sup (null)
+T1691	CL 33810 33815	cells
+#1691	AnnotatorNotes T1691	CL:0000000 (cell)
+T1692	GO_CC 33810 33815	cells
+#1692	AnnotatorNotes T1692	GO:0005623 (cell)
+T1693	GO_BP 33854 33859	grown
+#1693	AnnotatorNotes T1693	GO:0040007 (growth)
+T1694	GO_BP 33879 33885	Growth
+#1694	AnnotatorNotes T1694	GO:0040007 (growth)
+T1695	GO_BP 33928 33934	growth
+#1695	AnnotatorNotes T1695	GO:0040007 (growth)
+T1696	CHEBI 33990 33994	FITC
+#1696	AnnotatorNotes T1696	CHEBI:37926 (fluorescein isothiocyanate)
+T1697	CL 34000 34005	cells
+#1697	AnnotatorNotes T1697	CL:0000000 (cell)
+T1698	GO_CC 34000 34005	cells
+#1698	AnnotatorNotes T1698	GO:0005623 (cell)
+T1699	CL 34093 34098	cells
+#1699	AnnotatorNotes T1699	CL:0000000 (cell)
+T1700	GO_CC 34093 34098	cells
+#1700	AnnotatorNotes T1700	GO:0005623 (cell)
+T1701	CHEBI 34168 34171	dye
+#1701	AnnotatorNotes T1701	CHEBI:37958 (dye)
+T1702	CHEBI 34202 34214	formaldehyde
+#1702	AnnotatorNotes T1702	CHEBI:16842 (formaldehyde)
+T1703	GO_CC 34409 34421	mitochondria
+#1703	AnnotatorNotes T1703	GO:0005739 (mitochondrion)
+T1704	GO_CC 34566 34578	mitochondria
+#1704	AnnotatorNotes T1704	GO:0005739 (mitochondrion)
+T1705	GO_CC 34636 34648	mitochondria
+#1705	AnnotatorNotes T1705	GO:0005739 (mitochondrion)
+T1706	GO_CC 34912 34925	mitochondrial
+#1706	AnnotatorNotes T1706	GO:0005739 (mitochondrion)
+T1707	CHEBI 35040 35043	ATP
+#1707	AnnotatorNotes T1707	CHEBI:15422 (ATP)
+T1708	CHEBI 35040 35043	ATP
+#1708	AnnotatorNotes T1708	CHEBI:30616 (ATP(4-))
+T1709	CHEBI 35057 35060	ATP
+#1709	AnnotatorNotes T1709	CHEBI:15422 (ATP)
+T1710	CHEBI 35057 35060	ATP
+#1710	AnnotatorNotes T1710	CHEBI:30616 (ATP(4-))
+T1711	sup 35100 35101	®
+#1711	AnnotatorNotes T1711	sup (null)
+T1712	CL 35114 35118	Cell
+#1712	AnnotatorNotes T1712	CL:0000000 (cell)
+T1713	GO_CC 35114 35118	Cell
+#1713	AnnotatorNotes T1713	GO:0005623 (cell)
+T1714	CL 35202 35207	cells
+#1714	AnnotatorNotes T1714	CL:0000000 (cell)
+T1715	GO_CC 35202 35207	cells
+#1715	AnnotatorNotes T1715	GO:0005623 (cell)
+T1716	sup 35372 35373	®
+#1716	AnnotatorNotes T1716	sup (null)
+T1717	CHEBI 35374 35381	Reagent
+#1717	AnnotatorNotes T1717	CHEBI:33893 (reagent)
+T1718	GO_BP 35409 35419	cell lysis
+#1718	AnnotatorNotes T1718	GO:0019835 (cytolysis)
+T1719	CL 35409 35413	cell
+#1719	AnnotatorNotes T1719	CL:0000000 (cell)
+T1720	GO_CC 35409 35413	cell
+#1720	AnnotatorNotes T1720	GO:0005623 (cell)
+T1721	CHEBI 35456 35459	ATP
+#1721	AnnotatorNotes T1721	CHEBI:15422 (ATP)
+T1722	CHEBI 35456 35459	ATP
+#1722	AnnotatorNotes T1722	CHEBI:30616 (ATP(4-))
+T1723	CHEBI 35718 35735	Hydrogen peroxide
+#1723	AnnotatorNotes T1723	CHEBI:16240 (hydrogen peroxide)
+T1724	CHEBI 35718 35726	Hydrogen
+#1724	AnnotatorNotes T1724	CHEBI:49637 (hydrogen)
+T1725	CHEBI 35727 35735	peroxide
+#1725	AnnotatorNotes T1725	CHEBI:44785 (peroxide)
+T1726	CL 35753 35758	Cells
+#1726	AnnotatorNotes T1726	CL:0000000 (cell)
+T1727	GO_CC 35753 35758	Cells
+#1727	AnnotatorNotes T1727	GO:0005623 (cell)
+T1728	CL 35794 35799	cells
+#1728	AnnotatorNotes T1728	CL:0000000 (cell)
+T1729	GO_CC 35794 35799	cells
+#1729	AnnotatorNotes T1729	GO:0005623 (cell)
+T1730	CHEBI 35924 35941	hydrogen peroxide
+#1730	AnnotatorNotes T1730	CHEBI:16240 (hydrogen peroxide)
+T1731	CHEBI 35924 35932	hydrogen
+#1731	AnnotatorNotes T1731	CHEBI:49637 (hydrogen)
+T1732	CHEBI 35933 35941	peroxide
+#1732	AnnotatorNotes T1732	CHEBI:44785 (peroxide)
+T1733	CL 35970 35975	Cells
+#1733	AnnotatorNotes T1733	CL:0000000 (cell)
+T1734	GO_CC 35970 35975	Cells
+#1734	AnnotatorNotes T1734	GO:0005623 (cell)
+T1735	CHEBI 36010 36027	hydrogen peroxide
+#1735	AnnotatorNotes T1735	CHEBI:16240 (hydrogen peroxide)
+T1736	CHEBI 36010 36018	hydrogen
+#1736	AnnotatorNotes T1736	CHEBI:49637 (hydrogen)
+T1737	CHEBI 36019 36027	peroxide
+#1737	AnnotatorNotes T1737	CHEBI:44785 (peroxide)
+T1738	sup 36100 36101	®
+#1738	AnnotatorNotes T1738	sup (null)
+T1739	GO_BP 36126 36144	Cell Proliferation
+#1739	AnnotatorNotes T1739	GO:0008283 (cell proliferation)
+T1740	CL 36126 36130	Cell
+#1740	AnnotatorNotes T1740	CL:0000000 (cell)
+T1741	GO_CC 36126 36130	Cell
+#1741	AnnotatorNotes T1741	GO:0005623 (cell)
+T1742	GO_BP 36254 36267	establishment
+#1742	AnnotatorNotes T1742	GO:0032502 (developmental process)
+T1743	CL 36292 36296	cell
+#1743	AnnotatorNotes T1743	CL:0000000 (cell)
+T1744	GO_CC 36292 36296	cell
+#1744	AnnotatorNotes T1744	GO:0005623 (cell)
+T1745	CHEBI 36317 36320	ATP
+#1745	AnnotatorNotes T1745	CHEBI:15422 (ATP)
+T1746	CHEBI 36317 36320	ATP
+#1746	AnnotatorNotes T1746	CHEBI:30616 (ATP(4-))
+T1747	GO_CC 36356 36369	mitochondrial
+#1747	AnnotatorNotes T1747	GO:0005739 (mitochondrion)
+T1748	CL 36490 36494	cell
+#1748	AnnotatorNotes T1748	CL:0000000 (cell)
+T1749	GO_CC 36490 36494	cell
+#1749	AnnotatorNotes T1749	GO:0005623 (cell)
+T1750	NCBITaxon 36522 36527	virus
+#1750	AnnotatorNotes T1750	NCBITaxon:10239 (Viruses)
+T1751	CL 36582 36587	cells
+#1751	AnnotatorNotes T1751	CL:0000000 (cell)
+T1752	GO_CC 36582 36587	cells
+#1752	AnnotatorNotes T1752	GO:0005623 (cell)
+T1753	GO_BP 36710 36723	establishment
+#1753	AnnotatorNotes T1753	GO:0032502 (developmental process)
+T1754	CL 36751 36755	cell
+#1754	AnnotatorNotes T1754	CL:0000000 (cell)
+T1755	GO_CC 36751 36755	cell
+#1755	AnnotatorNotes T1755	GO:0005623 (cell)
+T1756	GO_CC 36900 36908	antibody
+#1756	AnnotatorNotes T1756	GO:0019814 (immunoglobulin complex)
+T1757	PR 36912 36945	subunit c of mitochondrial ATPase
+#1757	AnnotatorNotes T1757	PR:000022190 (ATP synthase subunit c)
+T1758	GO_CC 36925 36945	mitochondrial ATPase
+#1758	AnnotatorNotes T1758	GO:0005753 (mitochondrial proton-transporting ATP synthase complex)
+T1759	GO_CC 36925 36938	mitochondrial
+#1759	AnnotatorNotes T1759	GO:0005739 (mitochondrion)
+T1760	GO_MF 36939 36945	ATPase
+#1760	AnnotatorNotes T1760	GO:0016887 (ATPase activity)
+T1761	independent_continuant 36939 36945	ATPase
+#1761	AnnotatorNotes T1761	independent_continuant
+T1762	CHEBI 37005 37013	Electron
+#1762	AnnotatorNotes T1762	CHEBI:10545 (electron)
+T1763	GO_BP 37124 37135	endocytosis
+#1763	AnnotatorNotes T1763	GO:0006897 (endocytosis)
+T1764	independent_continuant 37213 37224	cathepsin D
+#1764	AnnotatorNotes T1764	independent_continuant
+T1765	EntrezGene 37213 37224	cathepsin D
+#1765	AnnotatorNotes T1765	EG:13033
+T1766	PR 37213 37224	cathepsin D
+#1766	AnnotatorNotes T1766	PR:000006025 (cathepsin D)
+T1767	GO_MF 37213 37224	cathepsin D
+#1767	AnnotatorNotes T1767	GO:0004192 (cathepsin D activity)

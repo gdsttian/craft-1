@@ -1,0 +1,2306 @@
+T1	EntrezGene 0 5	Brn3c
+#1	AnnotatorNotes T1	EG:18998
+T2	PR 0 5	Brn3c
+#2	AnnotatorNotes T2	PR:000013043 (POU domain, class 4, transcription factor 3)
+T3	SO 11 17	mutant
+#3	AnnotatorNotes T3	SO:0001059 (sequence_alteration)
+T4	NCBITaxon 18 22	mice
+#4	AnnotatorNotes T4	NCBITaxon:10088 (Mus)
+T5	PR 130 135	Brn3c
+#5	AnnotatorNotes T5	PR:000013043 (POU domain, class 4, transcription factor 3)
+T6	SO 141 148	mutants
+#6	AnnotatorNotes T6	SO:0001059 (sequence_alteration)
+T7	independent_continuant 141 148	mutants
+#7	AnnotatorNotes T7	independent_continuant
+T8	GO_BP 149 156	develop
+#8	AnnotatorNotes T8	GO:0032502 (developmental process)
+T9	CL 166 176	hair cells
+#9	AnnotatorNotes T9	CL:0000855 (hair cell)
+T10	GO_CC 171 176	cells
+#10	AnnotatorNotes T10	GO:0005623 (cell)
+T11	CHEBI 207 216	molecular
+#11	AnnotatorNotes T11	CHEBI:36357 (polyatomic entities)
+T12	GO_BP 238 247	apoptosis
+#12	AnnotatorNotes T12	GO:0006915 (apoptosis)
+T13	GO_BP 274 299	development of hair cells
+#13	AnnotatorNotes T13	GO:0060119 (inner ear receptor cell development)
+T14	CL 289 299	hair cells
+#14	AnnotatorNotes T14	CL:0000855 (hair cell)
+T15	GO_CC 294 299	cells
+#15	AnnotatorNotes T15	GO:0005623 (cell)
+T16	PR 321 333	neurotrophin
+#16	AnnotatorNotes T16	PR:000021998 (neurotrophin)
+T17	GO_BP 334 344	expression
+#17	AnnotatorNotes T17	GO:0010467 (gene expression)
+T18	CL 356 371	sensory neurons
+#18	AnnotatorNotes T18	CL:0000101 (sensory neuron)
+T19	GO_BP 356 363	sensory
+#19	AnnotatorNotes T19	GO:0007600 (sensory perception)
+T20	GO_BP 380 401	embryonic development
+#20	AnnotatorNotes T20	GO:0009790 (embryonic development)
+T21	SO 443 450	mutants
+#21	AnnotatorNotes T21	SO:0001059 (sequence_alteration)
+T22	independent_continuant 443 450	mutants
+#22	AnnotatorNotes T22	independent_continuant
+T23	GO_BP 486 496	expression
+#23	AnnotatorNotes T23	GO:0010467 (gene expression)
+T24	SO 500 505	known
+#24	AnnotatorNotes T24	SO:0000906 (independently_known)
+T25	PR 506 519	neurotrophins
+#25	AnnotatorNotes T25	PR:000021998 (neurotrophin)
+T26	GO_BP 534 539	birth
+#26	AnnotatorNotes T26	GO:0007567 (parturition)
+T27	GO_BP 559 569	expression
+#27	AnnotatorNotes T27	GO:0010467 (gene expression)
+T28	EntrezGene 573 577	BDNF
+#28	AnnotatorNotes T28	EG:12064
+T29	PR 573 577	BDNF
+#29	AnnotatorNotes T29	PR:000004716 (brain-derived neurotrophic factor)
+T30	EntrezGene 582 586	NT-3
+#30	AnnotatorNotes T30	EG:18205
+T31	PR 582 586	NT-3
+#31	AnnotatorNotes T31	PR:000011459 (neurotrophin-3)
+T32	SO 594 600	mutant
+#32	AnnotatorNotes T32	SO:0001059 (sequence_alteration)
+T33	GO_BP 601 608	sensory
+#33	AnnotatorNotes T33	GO:0007600 (sensory perception)
+T34	PR 704 716	neurotrophin
+#34	AnnotatorNotes T34	PR:000021998 (neurotrophin)
+T35	SO 722 731	mutations
+#35	AnnotatorNotes T35	SO:0001059 (sequence_alteration)
+T36	EntrezGene 839 850	myosin VIIa
+#36	AnnotatorNotes T36	EG:17921
+T37	PR 839 850	myosin VIIa
+#37	AnnotatorNotes T37	PR:000010869 (myosin-VIIa)
+T38	GO_CC 839 845	myosin
+#38	AnnotatorNotes T38	GO:0016459 (myosin complex)
+T39	CL 869 879	hair cells
+#39	AnnotatorNotes T39	CL:0000855 (hair cell)
+T40	GO_CC 874 879	cells
+#40	AnnotatorNotes T40	GO:0005623 (cell)
+T41	SO 899 905	mutant
+#41	AnnotatorNotes T41	SO:0001059 (sequence_alteration)
+T42	CL 964 974	hair cells
+#42	AnnotatorNotes T42	CL:0000855 (hair cell)
+T43	GO_CC 969 974	cells
+#43	AnnotatorNotes T43	GO:0005623 (cell)
+T44	SO 988 994	mutant
+#44	AnnotatorNotes T44	SO:0001059 (sequence_alteration)
+T45	GO_BP 1006 1013	sensory
+#45	AnnotatorNotes T45	GO:0007600 (sensory perception)
+T46	CL 1053 1063	hair cells
+#46	AnnotatorNotes T46	CL:0000855 (hair cell)
+T47	GO_CC 1058 1063	cells
+#47	AnnotatorNotes T47	GO:0005623 (cell)
+T48	CL 1116 1131	sensory neurons
+#48	AnnotatorNotes T48	CL:0000101 (sensory neuron)
+T49	GO_BP 1116 1123	sensory
+#49	AnnotatorNotes T49	GO:0007600 (sensory perception)
+T50	SO 1199 1205	mutant
+#50	AnnotatorNotes T50	SO:0001059 (sequence_alteration)
+T51	NCBITaxon 1206 1210	mice
+#51	AnnotatorNotes T51	NCBITaxon:10088 (Mus)
+T52	GO_BP 1246 1253	sensory
+#52	AnnotatorNotes T52	GO:0007600 (sensory perception)
+T53	EntrezGene 1311 1318	MyoVIIa
+#53	AnnotatorNotes T53	EG:17921
+T54	PR 1311 1318	MyoVIIa
+#54	AnnotatorNotes T54	PR:000010869 (myosin-VIIa)
+T55	CL 1328 1338	hair cells
+#55	AnnotatorNotes T55	CL:0000855 (hair cell)
+T56	GO_CC 1333 1338	cells
+#56	AnnotatorNotes T56	GO:0005623 (cell)
+T57	GO_BP 1354 1363	organized
+#57	AnnotatorNotes T57	GO:0048532 (organization of an anatomical structure)
+T58	CL 1444 1454	hair cells
+#58	AnnotatorNotes T58	CL:0000855 (hair cell)
+T59	GO_CC 1449 1454	cells
+#59	AnnotatorNotes T59	GO:0005623 (cell)
+T60	GO_BP 1475 1484	establish
+#60	AnnotatorNotes T60	GO:0032502 (developmental process)
+T61	GO_BP 1528 1538	expression
+#61	AnnotatorNotes T61	GO:0010467 (gene expression)
+T62	PR 1542 1555	neurotrophins
+#62	AnnotatorNotes T62	PR:000021998 (neurotrophin)
+T63	EntrezGene 1574 1579	Brn3c
+#63	AnnotatorNotes T63	EG:18998
+T64	PR 1574 1579	Brn3c
+#64	AnnotatorNotes T64	PR:000013043 (POU domain, class 4, transcription factor 3)
+T65	NCBITaxon 1585 1589	mice
+#65	AnnotatorNotes T65	NCBITaxon:10088 (Mus)
+T66	CL 1615 1630	sensory neurons
+#66	AnnotatorNotes T66	CL:0000101 (sensory neuron)
+T67	GO_BP 1615 1622	sensory
+#67	AnnotatorNotes T67	GO:0007600 (sensory perception)
+T68	GO_BP 1667 1672	birth
+#68	AnnotatorNotes T68	GO:0007567 (parturition)
+T69	CHEBI 1678 1687	molecular
+#69	AnnotatorNotes T69	CHEBI:36357 (polyatomic entities)
+T70	CL 1738 1745	neurons
+#70	AnnotatorNotes T70	CL:0000540 (neuron)
+T71	GO_BP 1774 1789	ear development
+#71	AnnotatorNotes T71	GO:0043583 (ear development)
+T72	CL 1807 1817	hair cells
+#72	AnnotatorNotes T72	CL:0000855 (hair cell)
+T73	GO_CC 1812 1817	cells
+#73	AnnotatorNotes T73	GO:0005623 (cell)
+T74	PR 1883 1888	Brn3c
+#74	AnnotatorNotes T74	PR:000013043 (POU domain, class 4, transcription factor 3)
+T75	SO 1898 1904	domain
+#75	AnnotatorNotes T75	SO:0000417 (polypeptide_domain)
+T76	GO_BP 1932 1963	inner ear hair cell development
+#76	AnnotatorNotes T76	GO:0060119 (inner ear receptor cell development)
+T77	CL 1942 1951	hair cell
+#77	AnnotatorNotes T77	CL:0000855 (hair cell)
+T78	GO_CC 1947 1951	cell
+#78	AnnotatorNotes T78	GO:0005623 (cell)
+T79	PR 1979 1984	Brn3c
+#79	AnnotatorNotes T79	PR:000013043 (POU domain, class 4, transcription factor 3)
+T80	SO 1985 1992	mutants
+#80	AnnotatorNotes T80	SO:0001059 (sequence_alteration)
+T81	independent_continuant 1985 1992	mutants
+#81	AnnotatorNotes T81	independent_continuant
+T82	CL 2008 2018	hair cells
+#82	AnnotatorNotes T82	CL:0000855 (hair cell)
+T83	GO_CC 2013 2018	cells
+#83	AnnotatorNotes T83	GO:0005623 (cell)
+T84	CL 2078 2088	hair cells
+#84	AnnotatorNotes T84	CL:0000855 (hair cell)
+T85	GO_CC 2083 2088	cells
+#85	AnnotatorNotes T85	GO:0005623 (cell)
+T86	GO_BP 2089 2093	form
+#86	AnnotatorNotes T86	GO:0032502 (developmental process)
+T87	PR 2097 2102	Brn3c
+#87	AnnotatorNotes T87	PR:000013043 (POU domain, class 4, transcription factor 3)
+T88	SO 2108 2115	mutants
+#88	AnnotatorNotes T88	SO:0001059 (sequence_alteration)
+T89	independent_continuant 2108 2115	mutants
+#89	AnnotatorNotes T89	independent_continuant
+T90	GO_BP 2120 2127	express
+#90	AnnotatorNotes T90	GO:0010467 (gene expression)
+T91	CL 2128 2136	cellular
+#91	AnnotatorNotes T91	CL:0000000 (cell)
+T92	GO_CC 2128 2136	cellular
+#92	AnnotatorNotes T92	GO:0005623 (cell)
+T93	PR 2153 2171	Myosin VI and VIIa
+#93	AnnotatorNotes T93	"Myosin .. VIIa" PR:000010869 (myosin-VIIa)
+T94	GO_CC 2153 2162	Myosin VI
+#94	AnnotatorNotes T94	GO:0031476 (myosin VI complex)
+T95	PR 2153 2162	Myosin VI
+#95	AnnotatorNotes T95	PR:000010868 (myosin-VI)
+T96	PR 2173 2183	calretinin
+#96	AnnotatorNotes T96	PR:000004968 (calretinin)
+T97	PR 2188 2199	parvalbumin
+#97	AnnotatorNotes T97	PR:000013502 (parvalbumin alpha)
+T98	CL 2233 2243	hair cells
+#98	AnnotatorNotes T98	CL:0000855 (hair cell)
+T99	GO_CC 2238 2243	cells
+#99	AnnotatorNotes T99	GO:0005623 (cell)
+T100	PR 2247 2252	Brn3c
+#100	AnnotatorNotes T100	PR:000013043 (POU domain, class 4, transcription factor 3)
+T101	SO 2258 2265	mutants
+#101	AnnotatorNotes T101	SO:0001059 (sequence_alteration)
+T102	independent_continuant 2258 2265	mutants
+#102	AnnotatorNotes T102	independent_continuant
+T103	GO_BP 2274 2283	apoptosis
+#103	AnnotatorNotes T103	GO:0006915 (apoptosis)
+T104	CL 2347 2357	hair cells
+#104	AnnotatorNotes T104	CL:0000855 (hair cell)
+T105	GO_CC 2352 2357	cells
+#105	AnnotatorNotes T105	GO:0005623 (cell)
+T106	CL 2427 2432	cells
+#106	AnnotatorNotes T106	CL:0000000 (cell)
+T107	GO_CC 2427 2432	cells
+#107	AnnotatorNotes T107	GO:0005623 (cell)
+T108	CL 2570 2577	neurons
+#108	AnnotatorNotes T108	CL:0000540 (neuron)
+T109	CL 2601 2608	neurons
+#109	AnnotatorNotes T109	CL:0000540 (neuron)
+T110	PR 2804 2809	Brn3c
+#110	AnnotatorNotes T110	PR:000013043 (POU domain, class 4, transcription factor 3)
+T111	SO 2815 2822	mutants
+#111	AnnotatorNotes T111	SO:0001059 (sequence_alteration)
+T112	independent_continuant 2815 2822	mutants
+#112	AnnotatorNotes T112	independent_continuant
+T113	GO_BP 2837 2890	development and partial differentiation of hair cells
+#113	AnnotatorNotes T113	"development .. of hair cells" GO:0060119 (inner ear receptor cell development)
+T114	GO_BP 2861 2890	differentiation of hair cells
+#114	AnnotatorNotes T114	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T115	CL 2880 2890	hair cells
+#115	AnnotatorNotes T115	CL:0000855 (hair cell)
+T116	GO_CC 2885 2890	cells
+#116	AnnotatorNotes T116	GO:0005623 (cell)
+T117	PR 2894 2899	Brn3c
+#117	AnnotatorNotes T117	PR:000013043 (POU domain, class 4, transcription factor 3)
+T118	SO 2900 2907	mutants
+#118	AnnotatorNotes T118	SO:0001059 (sequence_alteration)
+T119	independent_continuant 2900 2907	mutants
+#119	AnnotatorNotes T119	independent_continuant
+T120	PR 2936 2948	neurotrophin
+#120	AnnotatorNotes T120	PR:000021998 (neurotrophin)
+T121	GO_BP 2949 2959	expression
+#121	AnnotatorNotes T121	GO:0010467 (gene expression)
+T122	CL 2969 2974	cells
+#122	AnnotatorNotes T122	CL:0000000 (cell)
+T123	GO_CC 2969 2974	cells
+#123	AnnotatorNotes T123	GO:0005623 (cell)
+T124	CL 2986 3001	sensory neurons
+#124	AnnotatorNotes T124	CL:0000101 (sensory neuron)
+T125	GO_BP 2986 2993	sensory
+#125	AnnotatorNotes T125	GO:0007600 (sensory perception)
+T126	GO_BP 3010 3031	embryonic development
+#126	AnnotatorNotes T126	GO:0009790 (embryonic development)
+T127	PR 3080 3092	neurotrophin
+#127	AnnotatorNotes T127	PR:000021998 (neurotrophin)
+T128	SO 3098 3105	mutants
+#128	AnnotatorNotes T128	SO:0001059 (sequence_alteration)
+T129	independent_continuant 3098 3105	mutants
+#129	AnnotatorNotes T129	independent_continuant
+T130	PR 3145 3157	neurotrophin
+#130	AnnotatorNotes T130	PR:000021998 (neurotrophin)
+T131	CL 3200 3215	sensory neurons
+#131	AnnotatorNotes T131	CL:0000101 (sensory neuron)
+T132	GO_BP 3200 3207	sensory
+#132	AnnotatorNotes T132	GO:0007600 (sensory perception)
+T133	PR 3267 3272	Brn3c
+#133	AnnotatorNotes T133	PR:000013043 (POU domain, class 4, transcription factor 3)
+T134	SO 3278 3285	mutants
+#134	AnnotatorNotes T134	SO:0001059 (sequence_alteration)
+T135	independent_continuant 3278 3285	mutants
+#135	AnnotatorNotes T135	independent_continuant
+T136	PR 3335 3347	neurotrophin
+#136	AnnotatorNotes T136	PR:000021998 (neurotrophin)
+T137	CL 3360 3370	hair cells
+#137	AnnotatorNotes T137	CL:0000855 (hair cell)
+T138	GO_CC 3365 3370	cells
+#138	AnnotatorNotes T138	GO:0005623 (cell)
+T139	PR 3416 3420	NT-3
+#139	AnnotatorNotes T139	PR:000011459 (neurotrophin-3)
+T140	GO_BP 3434 3443	expressed
+#140	AnnotatorNotes T140	GO:0010467 (gene expression)
+T141	CL 3447 3463	supporting cells
+#141	AnnotatorNotes T141	CL:0000630 (supportive cell)
+T142	GO_CC 3458 3463	cells
+#142	AnnotatorNotes T142	GO:0005623 (cell)
+T143	GO_BP 3465 3471	moving
+#143	AnnotatorNotes T143	GO:0006810 (transport)
+T144	GO_BP 3484 3489	birth
+#144	AnnotatorNotes T144	GO:0007567 (parturition)
+T145	CL 3495 3505	hair cells
+#145	AnnotatorNotes T145	CL:0000855 (hair cell)
+T146	GO_CC 3500 3505	cells
+#146	AnnotatorNotes T146	GO:0005623 (cell)
+T147	CL 3579 3594	sensory neurons
+#147	AnnotatorNotes T147	CL:0000101 (sensory neuron)
+T148	GO_BP 3579 3586	sensory
+#148	AnnotatorNotes T148	GO:0007600 (sensory perception)
+T149	PR 3631 3635	NT-3
+#149	AnnotatorNotes T149	PR:000011459 (neurotrophin-3)
+T150	GO_BP 3636 3646	expression
+#150	AnnotatorNotes T150	GO:0010467 (gene expression)
+T151	GO_BP 3659 3672	downregulated
+#151	AnnotatorNotes T151	GO:0048519 (negative regulation of biological process)
+T152	PR 3676 3681	Brn3c
+#152	AnnotatorNotes T152	PR:000013043 (POU domain, class 4, transcription factor 3)
+T153	SO 3687 3694	mutants
+#153	AnnotatorNotes T153	SO:0001059 (sequence_alteration)
+T154	independent_continuant 3687 3694	mutants
+#154	AnnotatorNotes T154	independent_continuant
+T155	PR 3700 3704	BDNF
+#155	AnnotatorNotes T155	PR:000004716 (brain-derived neurotrophic factor)
+T156	GO_BP 3742 3777	differentiation of supporting cells
+#156	AnnotatorNotes T156	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T157	CL 3761 3777	supporting cells
+#157	AnnotatorNotes T157	CL:0000630 (supportive cell)
+T158	GO_CC 3772 3777	cells
+#158	AnnotatorNotes T158	GO:0005623 (cell)
+T159	PR 3832 3845	neurotrophins
+#159	AnnotatorNotes T159	PR:000021998 (neurotrophin)
+T160	GO_BP 3864 3877	downregulated
+#160	AnnotatorNotes T160	GO:0048519 (negative regulation of biological process)
+T161	NCBITaxon 3891 3898	mammals
+#161	AnnotatorNotes T161	NCBITaxon:40674 (Mammalia)
+T162	EntrezGene 4010 4015	Brn3c
+#162	AnnotatorNotes T162	EG:18998
+T163	PR 4010 4015	Brn3c
+#163	AnnotatorNotes T163	PR:000013043 (POU domain, class 4, transcription factor 3)
+T164	SO 4016 4023	mutants
+#164	AnnotatorNotes T164	SO:0001059 (sequence_alteration)
+T165	independent_continuant 4016 4023	mutants
+#165	AnnotatorNotes T165	independent_continuant
+T166	GO_BP 4040 4050	expression
+#166	AnnotatorNotes T166	GO:0010467 (gene expression)
+T167	EntrezGene 4054 4058	NT-3
+#167	AnnotatorNotes T167	EG:18205
+T168	PR 4054 4058	NT-3
+#168	AnnotatorNotes T168	PR:000011459 (neurotrophin-3)
+T169	EntrezGene 4063 4067	BDNF
+#169	AnnotatorNotes T169	EG:12064
+T170	PR 4063 4067	BDNF
+#170	AnnotatorNotes T170	PR:000004716 (brain-derived neurotrophic factor)
+T171	CL 4136 4150	sensory neuron
+#171	AnnotatorNotes T171	CL:0000101 (sensory neuron)
+T172	GO_BP 4136 4143	sensory
+#172	AnnotatorNotes T172	GO:0007600 (sensory perception)
+T173	PR 4182 4194	neurotrophin
+#173	AnnotatorNotes T173	PR:000021998 (neurotrophin)
+T174	CL 4218 4228	hair cells
+#174	AnnotatorNotes T174	CL:0000855 (hair cell)
+T175	GO_CC 4223 4228	cells
+#175	AnnotatorNotes T175	GO:0005623 (cell)
+T176	GO_BP 4232 4237	birth
+#176	AnnotatorNotes T176	GO:0007567 (parturition)
+T177	NCBITaxon 4251 4258	animals
+#177	AnnotatorNotes T177	NCBITaxon:33208 (Metazoa)
+T178	NCBITaxon 4330 4335	human
+#178	AnnotatorNotes T178	NCBITaxon:9606 (Homo sapiens)
+T179	EntrezGene 4360 4366	Pou4f3
+#179	AnnotatorNotes T179	EG:5459
+T180	PR 4360 4366	Pou4f3
+#180	AnnotatorNotes T180	PR:000013043 (POU domain, class 4, transcription factor 3)
+T181	SO 4367 4371	gene
+#181	AnnotatorNotes T181	SO:0000704 (gene)
+T182	EntrezGene 4373 4379	DFNA15
+#182	AnnotatorNotes T182	EG:5459
+T183	PR 4373 4379	DFNA15
+#183	AnnotatorNotes T183	PR:000013043 (POU domain, class 4, transcription factor 3)
+T184	CL 4434 4449	sensory neurons
+#184	AnnotatorNotes T184	CL:0000101 (sensory neuron)
+T185	GO_BP 4434 4441	sensory
+#185	AnnotatorNotes T185	GO:0007600 (sensory perception)
+T186	EntrezGene 4512 4517	Brn3c
+#186	AnnotatorNotes T186	EG:18998
+T187	PR 4512 4517	Brn3c
+#187	AnnotatorNotes T187	PR:000013043 (POU domain, class 4, transcription factor 3)
+T188	SO 4523 4529	mutant
+#188	AnnotatorNotes T188	SO:0001059 (sequence_alteration)
+T189	NCBITaxon 4530 4534	mice
+#189	AnnotatorNotes T189	NCBITaxon:10088 (Mus)
+T190	CL 4594 4603	hair cell
+#190	AnnotatorNotes T190	CL:0000855 (hair cell)
+T191	GO_BP 4599 4619	cell differentiation
+#191	AnnotatorNotes T191	GO:0030154 (cell differentiation)
+T192	GO_CC 4599 4603	cell
+#192	AnnotatorNotes T192	GO:0005623 (cell)
+T193	CL 4641 4651	hair cells
+#193	AnnotatorNotes T193	CL:0000855 (hair cell)
+T194	GO_CC 4646 4651	cells
+#194	AnnotatorNotes T194	GO:0005623 (cell)
+T195	EntrezGene 4699 4705	MyoVII
+#195	AnnotatorNotes T195	EG:17921
+T196	CL 4787 4794	neurons
+#196	AnnotatorNotes T196	CL:0000540 (neuron)
+T197	PR 4824 4837	neurotrophins
+#197	AnnotatorNotes T197	PR:000021998 (neurotrophin)
+T198	GO_BP 4877 4887	expression
+#198	AnnotatorNotes T198	GO:0010467 (gene expression)
+T199	NCBITaxon 4900 4907	rodents
+#199	AnnotatorNotes T199	NCBITaxon:9989 (Rodentia)
+T200	EntrezGene 4956 4961	Brn3c
+#200	AnnotatorNotes T200	EG:18998
+T201	PR 4956 4961	Brn3c
+#201	AnnotatorNotes T201	PR:000013043 (POU domain, class 4, transcription factor 3)
+T202	SO 4967 4975	mutation
+#202	AnnotatorNotes T202	SO:0001059 (sequence_alteration)
+T203	PR 5061 5065	BDNF
+#203	AnnotatorNotes T203	PR:000004716 (brain-derived neurotrophic factor)
+T204	PR 5070 5074	NT-3
+#204	AnnotatorNotes T204	PR:000011459 (neurotrophin-3)
+T205	SO 5080 5089	mutations
+#205	AnnotatorNotes T205	SO:0001059 (sequence_alteration)
+T206	GO_BP 5093 5098	birth
+#206	AnnotatorNotes T206	GO:0007567 (parturition)
+T207	SO 5115 5122	mutants
+#207	AnnotatorNotes T207	SO:0001059 (sequence_alteration)
+T208	independent_continuant 5115 5122	mutants
+#208	AnnotatorNotes T208	independent_continuant
+T209	PR 5126 5130	BDNF
+#209	AnnotatorNotes T209	PR:000004716 (brain-derived neurotrophic factor)
+T210	GO_MF 5138 5146	receptor
+#210	AnnotatorNotes T210	GO:0004872 (receptor activity)
+T211	independent_continuant 5138 5146	receptor
+#211	AnnotatorNotes T211	independent_continuant
+T212	PR 5147 5151	trkB
+#212	AnnotatorNotes T212	PR:000011470 (BDNF/NT-3 growth factors receptor)
+T213	SO 5305 5314	mutations
+#213	AnnotatorNotes T213	SO:0001059 (sequence_alteration)
+T214	PR 5325 5329	NT-3
+#214	AnnotatorNotes T214	PR:000011459 (neurotrophin-3)
+T215	independent_continuant 5337 5345	receptor
+#215	AnnotatorNotes T215	independent_continuant
+T216	GO_MF 5337 5345	receptor
+#216	AnnotatorNotes T216	GO:0004872 (receptor activity)
+T217	PR 5346 5350	trkC
+#217	AnnotatorNotes T217	PR:000011471 (NT-3 growth factor receptor)
+T218	CL 5376 5383	neurons
+#218	AnnotatorNotes T218	CL:0000540 (neuron)
+T219	GO_BP 5407 5416	formation
+#219	AnnotatorNotes T219	GO:0032502 (developmental process)
+T220	EntrezGene 5533 5538	Brn3c
+#220	AnnotatorNotes T220	EG:18998
+T221	PR 5533 5538	Brn3c
+#221	AnnotatorNotes T221	PR:000013043 (POU domain, class 4, transcription factor 3)
+T222	NCBITaxon 5544 5548	mice
+#222	AnnotatorNotes T222	NCBITaxon:10088 (Mus)
+T223	GO_BP 5573 5606	production of these neurotrophins
+#223	AnnotatorNotes T223	"production of .. neurotrophins" GO:0032898 (neurotrophin production)
+T224	GO_BP 5573 5583	production
+#224	AnnotatorNotes T224	GO:0009058 (biosynthetic process)
+T225	PR 5593 5606	neurotrophins
+#225	AnnotatorNotes T225	PR:000021998 (neurotrophin)
+T226	EntrezGene 5676 5681	Brn3c
+#226	AnnotatorNotes T226	EG:18998
+T227	PR 5676 5681	Brn3c
+#227	AnnotatorNotes T227	PR:000013043 (POU domain, class 4, transcription factor 3)
+T228	SO 5687 5694	mutants
+#228	AnnotatorNotes T228	SO:0001059 (sequence_alteration)
+T229	independent_continuant 5687 5694	mutants
+#229	AnnotatorNotes T229	independent_continuant
+T230	GO_BP 5698 5703	birth
+#230	AnnotatorNotes T230	GO:0007567 (parturition)
+T231	EntrezGene 5744 5749	Brn3c
+#231	AnnotatorNotes T231	EG:18998
+T232	PR 5744 5749	Brn3c
+#232	AnnotatorNotes T232	PR:000013043 (POU domain, class 4, transcription factor 3)
+T233	SO 5755 5762	mutants
+#233	AnnotatorNotes T233	SO:0001059 (sequence_alteration)
+T234	independent_continuant 5755 5762	mutants
+#234	AnnotatorNotes T234	independent_continuant
+T235	PR 5831 5835	BDNF
+#235	AnnotatorNotes T235	PR:000004716 (brain-derived neurotrophic factor)
+T236	PR 5839 5843	trkB
+#236	AnnotatorNotes T236	PR:000011470 (BDNF/NT-3 growth factors receptor)
+T237	SO 5849 5856	mutants
+#237	AnnotatorNotes T237	SO:0001059 (sequence_alteration)
+T238	independent_continuant 5849 5856	mutants
+#238	AnnotatorNotes T238	independent_continuant
+T239	CL 6057 6072	sensory neurons
+#239	AnnotatorNotes T239	CL:0000101 (sensory neuron)
+T240	GO_BP 6057 6064	sensory
+#240	AnnotatorNotes T240	GO:0007600 (sensory perception)
+T241	PR 6076 6080	BDNF
+#241	AnnotatorNotes T241	PR:000004716 (brain-derived neurotrophic factor)
+T242	PR 6085 6089	trkB
+#242	AnnotatorNotes T242	PR:000011470 (BDNF/NT-3 growth factors receptor)
+T243	SO 6095 6102	mutants
+#243	AnnotatorNotes T243	SO:0001059 (sequence_alteration)
+T244	independent_continuant 6095 6102	mutants
+#244	AnnotatorNotes T244	independent_continuant
+T245	CL 6133 6148	sensory neurons
+#245	AnnotatorNotes T245	CL:0000101 (sensory neuron)
+T246	GO_BP 6133 6140	sensory
+#246	AnnotatorNotes T246	GO:0007600 (sensory perception)
+T247	PR 6155 6160	Brn3c
+#247	AnnotatorNotes T247	PR:000013043 (POU domain, class 4, transcription factor 3)
+T248	SO 6166 6173	mutants
+#248	AnnotatorNotes T248	SO:0001059 (sequence_alteration)
+T249	independent_continuant 6166 6173	mutants
+#249	AnnotatorNotes T249	independent_continuant
+T250	GO_BP 6222 6229	sensory
+#250	AnnotatorNotes T250	GO:0007600 (sensory perception)
+T251	EntrezGene 6274 6278	BDNF
+#251	AnnotatorNotes T251	EG:12064
+T252	PR 6274 6278	BDNF
+#252	AnnotatorNotes T252	PR:000004716 (brain-derived neurotrophic factor)
+T253	GO_BP 6279 6289	production
+#253	AnnotatorNotes T253	GO:0009058 (biosynthetic process)
+T254	CL 6306 6316	hair cells
+#254	AnnotatorNotes T254	CL:0000855 (hair cell)
+T255	GO_CC 6311 6316	cells
+#255	AnnotatorNotes T255	GO:0005623 (cell)
+T256	bold 6329 6418	Size variations of vestibular ganglia in control and mutant littermates labeled with DiI.
+#256	AnnotatorNotes T256	bold (null)
+T257	SO 6382 6388	mutant
+#257	AnnotatorNotes T257	SO:0001059 (sequence_alteration)
+T258	NCBITaxon 6430 6437	animals
+#258	AnnotatorNotes T258	NCBITaxon:33208 (Metazoa)
+T259	EntrezGene 6493 6498	Brn3c
+#259	AnnotatorNotes T259	EG:18998
+T260	PR 6493 6498	Brn3c
+#260	AnnotatorNotes T260	PR:000013043 (POU domain, class 4, transcription factor 3)
+T261	SO 6504 6511	mutants
+#261	AnnotatorNotes T261	SO:0001059 (sequence_alteration)
+T262	independent_continuant 6504 6511	mutants
+#262	AnnotatorNotes T262	independent_continuant
+T263	CL 6740 6743	HaC
+#263	AnnotatorNotes T263	CL:0000609 (vestibular hair cell)
+T264	CL 6745 6765	vestibular hair cell
+#264	AnnotatorNotes T264	CL:0000609 (vestibular hair cell)
+T265	GO_CC 6761 6765	cell
+#265	AnnotatorNotes T265	GO:0005623 (cell)
+T266	CL 6767 6770	IHC
+#266	AnnotatorNotes T266	CL:0000589 (inner hair cell)
+T267	CL 6772 6787	inner hair cell
+#267	AnnotatorNotes T267	CL:0000589 (inner hair cell)
+T268	GO_CC 6783 6787	cell
+#268	AnnotatorNotes T268	GO:0005623 (cell)
+T269	CL 6803 6812	hair cell
+#269	AnnotatorNotes T269	CL:0000855 (hair cell)
+T270	GO_CC 6808 6812	cell
+#270	AnnotatorNotes T270	GO:0005623 (cell)
+T271	CL 6851 6854	OHC
+#271	AnnotatorNotes T271	CL:0000601 (outer hair cell)
+T272	CL 6856 6871	outer hair cell
+#272	AnnotatorNotes T272	CL:0000601 (outer hair cell)
+T273	GO_CC 6867 6871	cell
+#273	AnnotatorNotes T273	GO:0005623 (cell)
+T274	EntrezGene 7057 7062	Brn3c
+#274	AnnotatorNotes T274	EG:18998
+T275	PR 7057 7062	Brn3c
+#275	AnnotatorNotes T275	PR:000013043 (POU domain, class 4, transcription factor 3)
+T276	SO 7068 7075	mutants
+#276	AnnotatorNotes T276	SO:0001059 (sequence_alteration)
+T277	independent_continuant 7068 7075	mutants
+#277	AnnotatorNotes T277	independent_continuant
+T278	GO_BP 7154 7161	sensory
+#278	AnnotatorNotes T278	GO:0007600 (sensory perception)
+T279	PR 7290 7294	BDNF
+#279	AnnotatorNotes T279	PR:000004716 (brain-derived neurotrophic factor)
+T280	PR 7299 7303	trkB
+#280	AnnotatorNotes T280	PR:000011470 (BDNF/NT-3 growth factors receptor)
+T281	SO 7309 7318	mutations
+#281	AnnotatorNotes T281	SO:0001059 (sequence_alteration)
+T282	GO_BP 7407 7414	sensory
+#282	AnnotatorNotes T282	GO:0007600 (sensory perception)
+T283	EntrezGene 7588 7592	BDNF
+#283	AnnotatorNotes T283	EG:12064
+T284	PR 7588 7592	BDNF
+#284	AnnotatorNotes T284	PR:000004716 (brain-derived neurotrophic factor)
+T285	SO 7598 7604	mutant
+#285	AnnotatorNotes T285	SO:0001059 (sequence_alteration)
+T286	NCBITaxon 7605 7609	mice
+#286	AnnotatorNotes T286	NCBITaxon:10088 (Mus)
+T287	EntrezGene 7652 7657	Brn3c
+#287	AnnotatorNotes T287	EG:18998
+T288	PR 7652 7657	Brn3c
+#288	AnnotatorNotes T288	PR:000013043 (POU domain, class 4, transcription factor 3)
+T289	NCBITaxon 7663 7667	mice
+#289	AnnotatorNotes T289	NCBITaxon:10088 (Mus)
+T290	GO_BP 7720 7730	acteylated
+#290	AnnotatorNotes T290	GO:0006473 (protein amino acid acetylation)
+T291	GO_CC 7731 7738	tubulin
+#291	AnnotatorNotes T291	GO:0045298 (tubulin complex)
+T292	bold 7781 7851	Innervation of Brn3c null and control ears are shown for newborn mice.
+#292	AnnotatorNotes T292	bold (null)
+T293	EntrezGene 7796 7801	Brn3c
+#293	AnnotatorNotes T293	EG:18998
+T294	PR 7796 7801	Brn3c
+#294	AnnotatorNotes T294	PR:000013043 (POU domain, class 4, transcription factor 3)
+T295	NCBITaxon 7846 7850	mice
+#295	AnnotatorNotes T295	NCBITaxon:10088 (Mus)
+T296	GO_BP 7953 7963	acetylated
+#296	AnnotatorNotes T296	GO:0006473 (protein amino acid acetylation)
+T297	GO_CC 7964 7971	tubulin
+#297	AnnotatorNotes T297	GO:0045298 (tubulin complex)
+T298	EntrezGene 8090 8095	Brn3c
+#298	AnnotatorNotes T298	EG:18998
+T299	PR 8090 8095	Brn3c
+#299	AnnotatorNotes T299	PR:000013043 (POU domain, class 4, transcription factor 3)
+T300	SO 8101 8108	mutants
+#300	AnnotatorNotes T300	SO:0001059 (sequence_alteration)
+T301	independent_continuant 8101 8108	mutants
+#301	AnnotatorNotes T301	independent_continuant
+T302	CL 8213 8229	outer hair cells
+#302	AnnotatorNotes T302	CL:0000601 (outer hair cell)
+T303	GO_CC 8224 8229	cells
+#303	AnnotatorNotes T303	GO:0005623 (cell)
+T304	GO_BP 8277 8286	developed
+#304	AnnotatorNotes T304	GO:0032502 (developmental process)
+T305	CL 8481 8496	sensory neurons
+#305	AnnotatorNotes T305	CL:0000101 (sensory neuron)
+T306	GO_BP 8481 8488	sensory
+#306	AnnotatorNotes T306	GO:0007600 (sensory perception)
+T307	EntrezGene 8587 8592	Brn3c
+#307	AnnotatorNotes T307	EG:18998
+T308	PR 8587 8592	Brn3c
+#308	AnnotatorNotes T308	PR:000013043 (POU domain, class 4, transcription factor 3)
+T309	SO 8598 8605	mutants
+#309	AnnotatorNotes T309	SO:0001059 (sequence_alteration)
+T310	independent_continuant 8598 8605	mutants
+#310	AnnotatorNotes T310	independent_continuant
+T311	CL 8648 8655	neurons
+#311	AnnotatorNotes T311	CL:0000540 (neuron)
+T312	EntrezGene 8671 8676	Brn3c
+#312	AnnotatorNotes T312	EG:18998
+T313	PR 8671 8676	Brn3c
+#313	AnnotatorNotes T313	PR:000013043 (POU domain, class 4, transcription factor 3)
+T314	SO 8682 8689	mutants
+#314	AnnotatorNotes T314	SO:0001059 (sequence_alteration)
+T315	independent_continuant 8682 8689	mutants
+#315	AnnotatorNotes T315	independent_continuant
+T316	PR 8729 8733	NT-3
+#316	AnnotatorNotes T316	PR:000011459 (neurotrophin-3)
+T317	PR 8737 8741	trkC
+#317	AnnotatorNotes T317	PR:000011471 (NT-3 growth factor receptor)
+T318	NCBITaxon 8891 8898	animals
+#318	AnnotatorNotes T318	NCBITaxon:33208 (Metazoa)
+T319	EntrezGene 8936 8940	BDNF
+#319	AnnotatorNotes T319	EG:12064
+T320	PR 8936 8940	BDNF
+#320	AnnotatorNotes T320	PR:000004716 (brain-derived neurotrophic factor)
+T321	GO_BP 8950 8959	expressed
+#321	AnnotatorNotes T321	GO:0010467 (gene expression)
+T322	PR 9140 9152	neurotrophin
+#322	AnnotatorNotes T322	PR:000021998 (neurotrophin)
+T323	SO 9158 9165	mutants
+#323	AnnotatorNotes T323	SO:0001059 (sequence_alteration)
+T324	independent_continuant 9158 9165	mutants
+#324	AnnotatorNotes T324	independent_continuant
+T325	CL 9207 9222	sensory neurons
+#325	AnnotatorNotes T325	CL:0000101 (sensory neuron)
+T326	GO_BP 9207 9214	sensory
+#326	AnnotatorNotes T326	GO:0007600 (sensory perception)
+T327	GO_BP 9223 9230	develop
+#327	AnnotatorNotes T327	GO:0032502 (developmental process)
+T328	PR 9423 9427	BDNF
+#328	AnnotatorNotes T328	PR:000004716 (brain-derived neurotrophic factor)
+T329	SO 9433 9440	mutants
+#329	AnnotatorNotes T329	SO:0001059 (sequence_alteration)
+T330	independent_continuant 9433 9440	mutants
+#330	AnnotatorNotes T330	independent_continuant
+T331	PR 9524 9536	neurotrophin
+#331	AnnotatorNotes T331	PR:000021998 (neurotrophin)
+T332	SO 9542 9548	mutant
+#332	AnnotatorNotes T332	SO:0001059 (sequence_alteration)
+T333	independent_continuant 9542 9548	mutant
+#333	AnnotatorNotes T333	independent_continuant
+T334	CL 9584 9600	outer hair cells
+#334	AnnotatorNotes T334	CL:0000601 (outer hair cell)
+T335	GO_CC 9595 9600	cells
+#335	AnnotatorNotes T335	GO:0005623 (cell)
+T336	SO 9630 9638	wildtype
+#336	AnnotatorNotes T336	SO:0000817 (wild_type)
+T337	CL 9722 9738	outer hair cells
+#337	AnnotatorNotes T337	CL:0000601 (outer hair cell)
+T338	GO_CC 9733 9738	cells
+#338	AnnotatorNotes T338	GO:0005623 (cell)
+T339	EntrezGene 9742 9747	Brn3c
+#339	AnnotatorNotes T339	EG:18998
+T340	PR 9742 9747	Brn3c
+#340	AnnotatorNotes T340	PR:000013043 (POU domain, class 4, transcription factor 3)
+T341	SO 9753 9760	mutants
+#341	AnnotatorNotes T341	SO:0001059 (sequence_alteration)
+T342	independent_continuant 9753 9760	mutants
+#342	AnnotatorNotes T342	independent_continuant
+T343	GO_BP 9799 9811	organization
+#343	AnnotatorNotes T343	GO:0048532 (organization of an anatomical structure)
+T344	CL 9893 9908	outer hair cell
+#344	AnnotatorNotes T344	CL:0000601 (outer hair cell)
+T345	GO_CC 9904 9908	cell
+#345	AnnotatorNotes T345	GO:0005623 (cell)
+T346	GO_BP 9947 9959	organization
+#346	AnnotatorNotes T346	GO:0048532 (organization of an anatomical structure)
+T347	CL 9967 9982	outer hair cell
+#347	AnnotatorNotes T347	CL:0000601 (outer hair cell)
+T348	GO_CC 9978 9982	cell
+#348	AnnotatorNotes T348	GO:0005623 (cell)
+T349	EntrezGene 10013 10018	Brn3c
+#349	AnnotatorNotes T349	EG:18998
+T350	PR 10013 10018	Brn3c
+#350	AnnotatorNotes T350	PR:000013043 (POU domain, class 4, transcription factor 3)
+T351	SO 10024 10030	mutant
+#351	AnnotatorNotes T351	SO:0001059 (sequence_alteration)
+T352	independent_continuant 10024 10030	mutant
+#352	AnnotatorNotes T352	independent_continuant
+T353	EntrezGene 10033 10038	Brn3c
+#353	AnnotatorNotes T353	EG:18998
+T354	PR 10033 10038	Brn3c
+#354	AnnotatorNotes T354	PR:000013043 (POU domain, class 4, transcription factor 3)
+T355	SO 10044 10051	mutants
+#355	AnnotatorNotes T355	SO:0001059 (sequence_alteration)
+T356	independent_continuant 10044 10051	mutants
+#356	AnnotatorNotes T356	independent_continuant
+T357	EntrezGene 10450 10455	Brn3c
+#357	AnnotatorNotes T357	EG:18998
+T358	PR 10450 10455	Brn3c
+#358	AnnotatorNotes T358	PR:000013043 (POU domain, class 4, transcription factor 3)
+T359	SO 10461 10468	mutants
+#359	AnnotatorNotes T359	SO:0001059 (sequence_alteration)
+T360	independent_continuant 10461 10468	mutants
+#360	AnnotatorNotes T360	independent_continuant
+T361	bold 10481 10544	Reduction of innervation of the ear is shown in 8-day old mice.
+#361	AnnotatorNotes T361	bold (null)
+T362	NCBITaxon 10539 10543	mice
+#362	AnnotatorNotes T362	NCBITaxon:10088 (Mus)
+T363	GO_BP 10566 10573	sensory
+#363	AnnotatorNotes T363	GO:0007600 (sensory perception)
+T364	CL 10925 10941	outer hair cells
+#364	AnnotatorNotes T364	CL:0000601 (outer hair cell)
+T365	GO_CC 10936 10941	cells
+#365	AnnotatorNotes T365	GO:0005623 (cell)
+T366	SO 10945 10951	mutant
+#366	AnnotatorNotes T366	SO:0001059 (sequence_alteration)
+T367	CL 11050 11066	outer hair cells
+#367	AnnotatorNotes T367	CL:0000601 (outer hair cell)
+T368	GO_CC 11061 11066	cells
+#368	AnnotatorNotes T368	GO:0005623 (cell)
+T369	GO_BP 11075 11084	formation
+#369	AnnotatorNotes T369	GO:0032502 (developmental process)
+T370	CL 11140 11150	hair cells
+#370	AnnotatorNotes T370	CL:0000855 (hair cell)
+T371	GO_CC 11145 11150	cells
+#371	AnnotatorNotes T371	GO:0005623 (cell)
+T372	GO_BP 11231 11241	acetylated
+#372	AnnotatorNotes T372	GO:0006473 (protein amino acid acetylation)
+T373	GO_CC 11242 11249	tubulin
+#373	AnnotatorNotes T373	GO:0045298 (tubulin complex)
+T374	CL 11441 11457	outer hair cells
+#374	AnnotatorNotes T374	CL:0000601 (outer hair cell)
+T375	GO_CC 11452 11457	cells
+#375	AnnotatorNotes T375	GO:0005623 (cell)
+T376	CL 11588 11603	outer hair cell
+#376	AnnotatorNotes T376	CL:0000601 (outer hair cell)
+T377	GO_CC 11599 11603	cell
+#377	AnnotatorNotes T377	GO:0005623 (cell)
+T378	EntrezGene 11614 11619	Brn3c
+#378	AnnotatorNotes T378	EG:18998
+T379	PR 11614 11619	Brn3c
+#379	AnnotatorNotes T379	PR:000013043 (POU domain, class 4, transcription factor 3)
+T380	SO 11625 11632	mutants
+#380	AnnotatorNotes T380	SO:0001059 (sequence_alteration)
+T381	independent_continuant 11625 11632	mutants
+#381	AnnotatorNotes T381	independent_continuant
+T382	NCBITaxon 11662 11669	animals
+#382	AnnotatorNotes T382	NCBITaxon:33208 (Metazoa)
+T383	CL 11700 11716	inner hair cells
+#383	AnnotatorNotes T383	CL:0000589 (inner hair cell)
+T384	GO_CC 11711 11716	cells
+#384	AnnotatorNotes T384	GO:0005623 (cell)
+T385	EntrezGene 11726 11731	Brn3c
+#385	AnnotatorNotes T385	EG:18998
+T386	PR 11726 11731	Brn3c
+#386	AnnotatorNotes T386	PR:000013043 (POU domain, class 4, transcription factor 3)
+T387	SO 11737 11744	mutants
+#387	AnnotatorNotes T387	SO:0001059 (sequence_alteration)
+T388	independent_continuant 11737 11744	mutants
+#388	AnnotatorNotes T388	independent_continuant
+T389	CL 11971 11986	outer hair cell
+#389	AnnotatorNotes T389	CL:0000601 (outer hair cell)
+T390	GO_CC 11982 11986	cell
+#390	AnnotatorNotes T390	GO:0005623 (cell)
+T391	GO_BP 12004 12013	formation
+#391	AnnotatorNotes T391	GO:0032502 (developmental process)
+T392	GO_BP 12040 12053	communicating
+#392	AnnotatorNotes T392	GO:0007154 (cell communication)
+T393	NCBITaxon 12195 12202	animals
+#393	AnnotatorNotes T393	NCBITaxon:33208 (Metazoa)
+T394	EntrezGene 12338 12343	Brn3c
+#394	AnnotatorNotes T394	EG:18998
+T395	PR 12338 12343	Brn3c
+#395	AnnotatorNotes T395	PR:000013043 (POU domain, class 4, transcription factor 3)
+T396	SO 12349 12358	mutations
+#396	AnnotatorNotes T396	SO:0001059 (sequence_alteration)
+T397	EntrezGene 12407 12412	Brn3c
+#397	AnnotatorNotes T397	EG:18998
+T398	PR 12407 12412	Brn3c
+#398	AnnotatorNotes T398	PR:000013043 (POU domain, class 4, transcription factor 3)
+T399	SO 12418 12424	mutant
+#399	AnnotatorNotes T399	SO:0001059 (sequence_alteration)
+T400	CL 12531 12541	hair cells
+#400	AnnotatorNotes T400	CL:0000855 (hair cell)
+T401	GO_CC 12536 12541	cells
+#401	AnnotatorNotes T401	GO:0005623 (cell)
+T402	CL 12627 12636	hair cell
+#402	AnnotatorNotes T402	CL:0000855 (hair cell)
+T403	GO_CC 12632 12636	cell
+#403	AnnotatorNotes T403	GO:0005623 (cell)
+T404	GO_BP 12637 12642	forms
+#404	AnnotatorNotes T404	GO:0032502 (developmental process)
+T405	CL 12698 12708	hair cells
+#405	AnnotatorNotes T405	CL:0000855 (hair cell)
+T406	GO_CC 12703 12708	cells
+#406	AnnotatorNotes T406	GO:0005623 (cell)
+T407	CL 12750 12760	hair cells
+#407	AnnotatorNotes T407	CL:0000855 (hair cell)
+T408	GO_CC 12755 12760	cells
+#408	AnnotatorNotes T408	GO:0005623 (cell)
+T409	CL 12920 12930	hair cells
+#409	AnnotatorNotes T409	CL:0000855 (hair cell)
+T410	GO_CC 12925 12930	cells
+#410	AnnotatorNotes T410	GO:0005623 (cell)
+T411	GO_BP 12968 12975	sensory
+#411	AnnotatorNotes T411	GO:0007600 (sensory perception)
+T412	EntrezGene 13000 13005	Brn3c
+#412	AnnotatorNotes T412	EG:18998
+T413	PR 13000 13005	Brn3c
+#413	AnnotatorNotes T413	PR:000013043 (POU domain, class 4, transcription factor 3)
+T414	SO 13011 13018	mutants
+#414	AnnotatorNotes T414	SO:0001059 (sequence_alteration)
+T415	independent_continuant 13011 13018	mutants
+#415	AnnotatorNotes T415	independent_continuant
+T416	CL 13088 13103	sensory neurons
+#416	AnnotatorNotes T416	CL:0000101 (sensory neuron)
+T417	GO_BP 13088 13095	sensory
+#417	AnnotatorNotes T417	GO:0007600 (sensory perception)
+T418	EntrezGene 13143 13148	Brn3c
+#418	AnnotatorNotes T418	EG:18998
+T419	PR 13143 13148	Brn3c
+#419	AnnotatorNotes T419	PR:000013043 (POU domain, class 4, transcription factor 3)
+T420	SO 13154 13161	mutants
+#420	AnnotatorNotes T420	SO:0001059 (sequence_alteration)
+T421	independent_continuant 13154 13161	mutants
+#421	AnnotatorNotes T421	independent_continuant
+T422	CL 13357 13367	hair cells
+#422	AnnotatorNotes T422	CL:0000855 (hair cell)
+T423	GO_CC 13362 13367	cells
+#423	AnnotatorNotes T423	GO:0005623 (cell)
+T424	GO_BP 13393 13418	formation of pillar cells
+#424	AnnotatorNotes T424	"formation of .. cells" GO:0048468 (cell development)
+T425	CL 13406 13418	pillar cells
+#425	AnnotatorNotes T425	CL:1000191 (pillar cell)
+T426	GO_CC 13413 13418	cells
+#426	AnnotatorNotes T426	GO:0005623 (cell)
+T427	CL 13480 13494	Deiters' cells
+#427	AnnotatorNotes T427	CL:0000635 (Deiter's cell)
+T428	GO_CC 13489 13494	cells
+#428	AnnotatorNotes T428	GO:0005623 (cell)
+T429	CHEBI 13577 13586	molecular
+#429	AnnotatorNotes T429	CHEBI:36357 (polyatomic entities)
+T430	CL 13614 13624	hair cells
+#430	AnnotatorNotes T430	CL:0000855 (hair cell)
+T431	GO_CC 13619 13624	cells
+#431	AnnotatorNotes T431	GO:0005623 (cell)
+T432	CL 13629 13645	supporting cells
+#432	AnnotatorNotes T432	CL:0000630 (supportive cell)
+T433	GO_CC 13640 13645	cells
+#433	AnnotatorNotes T433	GO:0005623 (cell)
+T434	bold 13666 13982	The distribution of hair cells as identified with MyoVII immunocytochemistry is shown for 7-day old whole mounted cochlea (a-d) and the appearance of cytological differentiation is shown as revealed with epoxy resin sections in 7-day old (e-g) and 6-month old (h) control (a,c,e) and Brn3c mutant cochleae (b,d,f-h).
+#434	AnnotatorNotes T434	bold (null)
+T435	GO_BP 13670 13696	distribution of hair cells
+#435	AnnotatorNotes T435	"distribution of .. cells" GO:0051674 (localization of cell)
+T436	CL 13686 13696	hair cells
+#436	AnnotatorNotes T436	CL:0000855 (hair cell)
+T437	GO_CC 13691 13696	cells
+#437	AnnotatorNotes T437	GO:0005623 (cell)
+T438	EntrezGene 13716 13722	MyoVII
+#438	AnnotatorNotes T438	EG:17921
+T439	GO_BP 13816 13843	cytological differentiation
+#439	AnnotatorNotes T439	GO:0030154 (cell differentiation)
+T440	CHEBI 13870 13875	epoxy
+#440	AnnotatorNotes T440	CHEBI:37407 (epoxy compounds)
+T441	CHEBI 13870 13875	epoxy
+#441	AnnotatorNotes T441	CHEBI:30721 (epoxy group)
+T442	EntrezGene 13950 13955	Brn3c
+#442	AnnotatorNotes T442	EG:18998
+T443	PR 13950 13955	Brn3c
+#443	AnnotatorNotes T443	PR:000013043 (POU domain, class 4, transcription factor 3)
+T444	SO 13956 13962	mutant
+#444	AnnotatorNotes T444	SO:0001059 (sequence_alteration)
+T445	GO_CC 14019 14027	antibody
+#445	AnnotatorNotes T445	GO:0019814 (immunoglobulin complex)
+T446	CL 14049 14065	outer hair cells
+#446	AnnotatorNotes T446	CL:0000601 (outer hair cell)
+T447	GO_CC 14060 14065	cells
+#447	AnnotatorNotes T447	GO:0005623 (cell)
+T448	CL 14094 14110	inner hair cells
+#448	AnnotatorNotes T448	CL:0000589 (inner hair cell)
+T449	GO_CC 14105 14110	cells
+#449	AnnotatorNotes T449	GO:0005623 (cell)
+T450	SO 14124 14132	wildtype
+#450	AnnotatorNotes T450	SO:0000817 (wild_type)
+T451	independent_continuant 14124 14132	wildtype
+#451	AnnotatorNotes T451	independent_continuant
+T452	CL 14171 14181	hair cells
+#452	AnnotatorNotes T452	CL:0000855 (hair cell)
+T453	GO_CC 14176 14181	cells
+#453	AnnotatorNotes T453	GO:0005623 (cell)
+T454	SO 14223 14229	mutant
+#454	AnnotatorNotes T454	SO:0001059 (sequence_alteration)
+T455	CL 14268 14272	cell
+#455	AnnotatorNotes T455	CL:0000000 (cell)
+T456	GO_CC 14268 14272	cell
+#456	AnnotatorNotes T456	GO:0005623 (cell)
+T457	EntrezGene 14276 14282	MyoVII
+#457	AnnotatorNotes T457	EG:17921
+T458	EntrezGene 14325 14331	MyoVII
+#458	AnnotatorNotes T458	EG:17921
+T459	CL 14350 14360	hair cells
+#459	AnnotatorNotes T459	CL:0000855 (hair cell)
+T460	GO_CC 14355 14360	cells
+#460	AnnotatorNotes T460	GO:0005623 (cell)
+T461	GO_BP 14408 14437	differentiation of hair cells
+#461	AnnotatorNotes T461	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T462	CL 14427 14437	hair cells
+#462	AnnotatorNotes T462	CL:0000855 (hair cell)
+T463	GO_CC 14432 14437	cells
+#463	AnnotatorNotes T463	GO:0005623 (cell)
+T464	GO_CC 14480 14487	tubulin
+#464	AnnotatorNotes T464	GO:0045298 (tubulin complex)
+T465	CL 14607 14633	inner and outer hair cells
+#465	AnnotatorNotes T465	"inner .. hair cells" CL:0000589 (inner hair cell)
+T466	CL 14617 14633	outer hair cells
+#466	AnnotatorNotes T466	CL:0000601 (outer hair cell)
+T467	GO_CC 14628 14633	cells
+#467	AnnotatorNotes T467	GO:0005623 (cell)
+T468	SO 14644 14652	wildtype
+#468	AnnotatorNotes T468	SO:0000817 (wild_type)
+T469	independent_continuant 14644 14652	wildtype
+#469	AnnotatorNotes T469	independent_continuant
+T470	SO 14733 14740	mutants
+#470	AnnotatorNotes T470	SO:0001059 (sequence_alteration)
+T471	independent_continuant 14733 14740	mutants
+#471	AnnotatorNotes T471	independent_continuant
+T472	GO_BP 14808 14813	forms
+#472	AnnotatorNotes T472	GO:0032502 (developmental process)
+T473	GO_BP 14849 14877	cyotological differentiation
+#473	AnnotatorNotes T473	GO:0030154 (cell differentiation)
+T474	GO_CC 14889 14896	tubulin
+#474	AnnotatorNotes T474	GO:0045298 (tubulin complex)
+T475	CL 14943 14948	cells
+#475	AnnotatorNotes T475	CL:0000000 (cell)
+T476	GO_CC 14943 14948	cells
+#476	AnnotatorNotes T476	GO:0005623 (cell)
+T477	CL 15017 15027	hair cells
+#477	AnnotatorNotes T477	CL:0000855 (hair cell)
+T478	GO_CC 15022 15027	cells
+#478	AnnotatorNotes T478	GO:0005623 (cell)
+T479	CL 15032 15047	sensory neurons
+#479	AnnotatorNotes T479	CL:0000101 (sensory neuron)
+T480	GO_BP 15032 15039	sensory
+#480	AnnotatorNotes T480	GO:0007600 (sensory perception)
+T481	SO 15054 15062	wildtype
+#481	AnnotatorNotes T481	SO:0000817 (wild_type)
+T482	EntrezGene 15067 15072	Brn3c
+#482	AnnotatorNotes T482	EG:18998
+T483	PR 15067 15072	Brn3c
+#483	AnnotatorNotes T483	PR:000013043 (POU domain, class 4, transcription factor 3)
+T484	SO 15073 15079	mutant
+#484	AnnotatorNotes T484	SO:0001059 (sequence_alteration)
+T485	SO 15113 15121	wildtype
+#485	AnnotatorNotes T485	SO:0000817 (wild_type)
+T486	independent_continuant 15113 15121	wildtype
+#486	AnnotatorNotes T486	independent_continuant
+T487	SO 15126 15133	mutants
+#487	AnnotatorNotes T487	SO:0001059 (sequence_alteration)
+T488	independent_continuant 15126 15133	mutants
+#488	AnnotatorNotes T488	independent_continuant
+T489	CL 15197 15207	hair cells
+#489	AnnotatorNotes T489	CL:0000855 (hair cell)
+T490	GO_CC 15202 15207	cells
+#490	AnnotatorNotes T490	GO:0005623 (cell)
+T491	CL 15308 15323	sensory neurons
+#491	AnnotatorNotes T491	CL:0000101 (sensory neuron)
+T492	GO_BP 15308 15315	sensory
+#492	AnnotatorNotes T492	GO:0007600 (sensory perception)
+T493	CL 15401 15411	hair cells
+#493	AnnotatorNotes T493	CL:0000855 (hair cell)
+T494	GO_CC 15406 15411	cells
+#494	AnnotatorNotes T494	GO:0005623 (cell)
+T495	EntrezGene 15429 15436	MyoVIIa
+#495	AnnotatorNotes T495	EG:17921
+T496	PR 15429 15436	MyoVIIa
+#496	AnnotatorNotes T496	PR:000010869 (myosin-VIIa)
+T497	CL 15532 15547	sensory neurons
+#497	AnnotatorNotes T497	CL:0000101 (sensory neuron)
+T498	GO_BP 15532 15539	sensory
+#498	AnnotatorNotes T498	GO:0007600 (sensory perception)
+T499	CL 15643 15653	hair cells
+#499	AnnotatorNotes T499	CL:0000855 (hair cell)
+T500	GO_CC 15648 15653	cells
+#500	AnnotatorNotes T500	GO:0005623 (cell)
+T501	EntrezGene 15659 15666	MyoVIIa
+#501	AnnotatorNotes T501	EG:17921
+T502	PR 15659 15666	MyoVIIa
+#502	AnnotatorNotes T502	PR:000010869 (myosin-VIIa)
+T503	GO_BP 15741 15755	differentiated
+#503	AnnotatorNotes T503	GO:0035315 (hair cell differentiation)
+T504	CL 15756 15766	hair cells
+#504	AnnotatorNotes T504	CL:0000855 (hair cell)
+T505	GO_CC 15761 15766	cells
+#505	AnnotatorNotes T505	GO:0005623 (cell)
+T506	GO_BP 15771 15775	form
+#506	AnnotatorNotes T506	GO:0032502 (developmental process)
+T507	bold 15800 15944	This graph shows the reduction in sensory neurons (top) and in hair cells (bottom) between 7-day old wildtype and Brn3c null mutant littermates.
+#507	AnnotatorNotes T507	bold (null)
+T508	CL 15834 15849	sensory neurons
+#508	AnnotatorNotes T508	CL:0000101 (sensory neuron)
+T509	GO_BP 15834 15841	sensory
+#509	AnnotatorNotes T509	GO:0007600 (sensory perception)
+T510	CL 15863 15873	hair cells
+#510	AnnotatorNotes T510	CL:0000855 (hair cell)
+T511	GO_CC 15868 15873	cells
+#511	AnnotatorNotes T511	GO:0005623 (cell)
+T512	SO 15901 15909	wildtype
+#512	AnnotatorNotes T512	SO:0000817 (wild_type)
+T513	EntrezGene 15914 15919	Brn3c
+#513	AnnotatorNotes T513	EG:18998
+T514	PR 15914 15919	Brn3c
+#514	AnnotatorNotes T514	PR:000013043 (POU domain, class 4, transcription factor 3)
+T515	SO 15925 15931	mutant
+#515	AnnotatorNotes T515	SO:0001059 (sequence_alteration)
+T516	CL 16001 16011	hair cells
+#516	AnnotatorNotes T516	CL:0000855 (hair cell)
+T517	GO_CC 16006 16011	cells
+#517	AnnotatorNotes T517	GO:0005623 (cell)
+T518	CL 16036 16051	sensory neurons
+#518	AnnotatorNotes T518	CL:0000101 (sensory neuron)
+T519	GO_BP 16036 16043	sensory
+#519	AnnotatorNotes T519	GO:0007600 (sensory perception)
+T520	CL 16114 16124	hair cells
+#520	AnnotatorNotes T520	CL:0000855 (hair cell)
+T521	GO_CC 16119 16124	cells
+#521	AnnotatorNotes T521	GO:0005623 (cell)
+T522	GO_BP 16159 16166	sensory
+#522	AnnotatorNotes T522	GO:0007600 (sensory perception)
+T523	CL 16255 16270	sensory neurons
+#523	AnnotatorNotes T523	CL:0000101 (sensory neuron)
+T524	GO_BP 16255 16262	sensory
+#524	AnnotatorNotes T524	GO:0007600 (sensory perception)
+T525	SO 16692 16700	wildtype
+#525	AnnotatorNotes T525	SO:0000817 (wild_type)
+T526	NCBITaxon 16821 16825	mice
+#526	AnnotatorNotes T526	NCBITaxon:10088 (Mus)
+T527	GO_BP 16854 16862	auditory
+#527	AnnotatorNotes T527	GO:0007605 (sensory perception of sound)
+T528	CL 16884 16893	hair cell
+#528	AnnotatorNotes T528	CL:0000855 (hair cell)
+T529	GO_CC 16889 16893	cell
+#529	AnnotatorNotes T529	GO:0005623 (cell)
+T530	bold 16971 17053	These confocal images show the projection pattern of a P8 Brn3c null mutant mouse.
+#530	AnnotatorNotes T530	bold (null)
+T531	EntrezGene 17029 17034	Brn3c
+#531	AnnotatorNotes T531	EG:18998
+T532	PR 17029 17034	Brn3c
+#532	AnnotatorNotes T532	PR:000013043 (POU domain, class 4, transcription factor 3)
+T533	SO 17040 17046	mutant
+#533	AnnotatorNotes T533	SO:0001059 (sequence_alteration)
+T534	NCBITaxon 17047 17052	mouse
+#534	AnnotatorNotes T534	NCBITaxon:10088 (Mus)
+T535	GO_BP 17410 17414	form
+#535	AnnotatorNotes T535	GO:0032502 (developmental process)
+T536	GO_BP 17436 17445	signaling
+#536	AnnotatorNotes T536	GO:0007165 (signal transduction)
+T537	CL 17464 17474	hair cells
+#537	AnnotatorNotes T537	CL:0000855 (hair cell)
+T538	GO_CC 17469 17474	cells
+#538	AnnotatorNotes T538	GO:0005623 (cell)
+T539	EntrezGene 17598 17603	Brn3c
+#539	AnnotatorNotes T539	EG:18998
+T540	PR 17598 17603	Brn3c
+#540	AnnotatorNotes T540	PR:000013043 (POU domain, class 4, transcription factor 3)
+T541	SO 17609 17616	mutants
+#541	AnnotatorNotes T541	SO:0001059 (sequence_alteration)
+T542	independent_continuant 17609 17616	mutants
+#542	AnnotatorNotes T542	independent_continuant
+T543	EntrezGene 17787 17792	Brn3c
+#543	AnnotatorNotes T543	EG:18998
+T544	PR 17787 17792	Brn3c
+#544	AnnotatorNotes T544	PR:000013043 (POU domain, class 4, transcription factor 3)
+T545	SO 17798 17805	mutants
+#545	AnnotatorNotes T545	SO:0001059 (sequence_alteration)
+T546	independent_continuant 17798 17805	mutants
+#546	AnnotatorNotes T546	independent_continuant
+T547	CL 17890 17905	sensory neurons
+#547	AnnotatorNotes T547	CL:0000101 (sensory neuron)
+T548	GO_BP 17890 17897	sensory
+#548	AnnotatorNotes T548	GO:0007600 (sensory perception)
+T549	NCBITaxon 18159 18163	mice
+#549	AnnotatorNotes T549	NCBITaxon:10088 (Mus)
+T550	CL 18214 18219	cells
+#550	AnnotatorNotes T550	CL:0000000 (cell)
+T551	GO_CC 18214 18219	cells
+#551	AnnotatorNotes T551	GO:0005623 (cell)
+T552	EntrezGene 18271 18276	Brn3c
+#552	AnnotatorNotes T552	EG:18998
+T553	PR 18271 18276	Brn3c
+#553	AnnotatorNotes T553	PR:000013043 (POU domain, class 4, transcription factor 3)
+T554	SO 18282 18288	mutant
+#554	AnnotatorNotes T554	SO:0001059 (sequence_alteration)
+T555	CL 18323 18328	cells
+#555	AnnotatorNotes T555	CL:0000000 (cell)
+T556	GO_CC 18323 18328	cells
+#556	AnnotatorNotes T556	GO:0005623 (cell)
+T557	CL 18373 18383	hair cells
+#557	AnnotatorNotes T557	CL:0000855 (hair cell)
+T558	GO_CC 18378 18383	cells
+#558	AnnotatorNotes T558	GO:0005623 (cell)
+T559	bold 18422 18506	The innervation of sensory epithelia is shown in 6-month old Brn3c null mutant mice.
+#559	AnnotatorNotes T559	bold (null)
+T560	GO_BP 18441 18448	sensory
+#560	AnnotatorNotes T560	GO:0007600 (sensory perception)
+T561	EntrezGene 18483 18488	Brn3c
+#561	AnnotatorNotes T561	EG:18998
+T562	PR 18483 18488	Brn3c
+#562	AnnotatorNotes T562	PR:000013043 (POU domain, class 4, transcription factor 3)
+T563	SO 18494 18500	mutant
+#563	AnnotatorNotes T563	SO:0001059 (sequence_alteration)
+T564	NCBITaxon 18501 18505	mice
+#564	AnnotatorNotes T564	NCBITaxon:10088 (Mus)
+T565	NCBITaxon 18522 18529	animals
+#565	AnnotatorNotes T565	NCBITaxon:33208 (Metazoa)
+T566	GO_BP 18590 18597	sensory
+#566	AnnotatorNotes T566	GO:0007600 (sensory perception)
+T567	GO_BP 18641 18648	sensory
+#567	AnnotatorNotes T567	GO:0007600 (sensory perception)
+T568	CL 18756 18766	hair cells
+#568	AnnotatorNotes T568	CL:0000855 (hair cell)
+T569	GO_CC 18761 18766	cells
+#569	AnnotatorNotes T569	GO:0005623 (cell)
+T570	CL 18868 18883	sensory neurons
+#570	AnnotatorNotes T570	CL:0000101 (sensory neuron)
+T571	GO_BP 18868 18875	sensory
+#571	AnnotatorNotes T571	GO:0007600 (sensory perception)
+T572	GO_BP 18974 18978	form
+#572	AnnotatorNotes T572	GO:0032502 (developmental process)
+T573	GO_BP 19127 19131	form
+#573	AnnotatorNotes T573	GO:0032502 (developmental process)
+T574	GO_BP 19215 19225	myelinated
+#574	AnnotatorNotes T574	GO:0042552 (myelination)
+T575	CL 19322 19338	outer hair cells
+#575	AnnotatorNotes T575	CL:0000601 (outer hair cell)
+T576	GO_CC 19333 19338	cells
+#576	AnnotatorNotes T576	GO:0005623 (cell)
+T577	GO_BP 19377 19387	maturation
+#577	AnnotatorNotes T577	GO:0021700 (developmental maturation)
+T578	CL 19420 19427	neurons
+#578	AnnotatorNotes T578	CL:0000540 (neuron)
+T579	CL 19514 19524	hair cells
+#579	AnnotatorNotes T579	CL:0000855 (hair cell)
+T580	GO_CC 19519 19524	cells
+#580	AnnotatorNotes T580	GO:0005623 (cell)
+T581	GO_BP 19546 19552	direct
+#581	AnnotatorNotes T581	GO:0065007 (biological regulation)
+T582	PR 19749 19761	neurotrophin
+#582	AnnotatorNotes T582	PR:000021998 (neurotrophin)
+T583	independent_continuant 19766 19787	neurotrophin receptor
+#583	AnnotatorNotes T583	independent_continuant
+T584	GO_MF 19766 19787	neurotrophin receptor
+#584	AnnotatorNotes T584	GO:0005030 (neurotrophin receptor activity)
+T585	PR 19766 19778	neurotrophin
+#585	AnnotatorNotes T585	PR:000021998 (neurotrophin)
+T586	SO 19793 19802	mutations
+#586	AnnotatorNotes T586	SO:0001059 (sequence_alteration)
+T587	EntrezGene 19819 19824	Brn3c
+#587	AnnotatorNotes T587	EG:18998
+T588	PR 19819 19824	Brn3c
+#588	AnnotatorNotes T588	PR:000013043 (POU domain, class 4, transcription factor 3)
+T589	SO 19825 19831	mutant
+#589	AnnotatorNotes T589	SO:0001059 (sequence_alteration)
+T590	NCBITaxon 19832 19836	mice
+#590	AnnotatorNotes T590	NCBITaxon:10088 (Mus)
+T591	GO_BP 19843 19848	birth
+#591	AnnotatorNotes T591	GO:0007567 (parturition)
+T592	italic 19851 19858	In situ
+#592	AnnotatorNotes T592	italic (null)
+T593	GO_MF 19859 19872	hybridization
+#593	AnnotatorNotes T593	GO:0000739 (DNA strand annealing activity)
+T594	GO_MF 19859 19872	hybridization
+#594	AnnotatorNotes T594	GO:0033592 (RNA strand annealing activity)
+T595	PR 19891 19903	neurotrophin
+#595	AnnotatorNotes T595	PR:000021998 (neurotrophin)
+T596	GO_BP 19904 19914	expression
+#596	AnnotatorNotes T596	GO:0010467 (gene expression)
+T597	EntrezGene 19952 19957	Brn3c
+#597	AnnotatorNotes T597	EG:18998
+T598	PR 19952 19957	Brn3c
+#598	AnnotatorNotes T598	PR:000013043 (POU domain, class 4, transcription factor 3)
+T599	GO_BP 19991 20001	expression
+#599	AnnotatorNotes T599	GO:0010467 (gene expression)
+T600	EntrezGene 20005 20009	BDNF
+#600	AnnotatorNotes T600	EG:12064
+T601	PR 20005 20009	BDNF
+#601	AnnotatorNotes T601	PR:000004716 (brain-derived neurotrophic factor)
+T602	EntrezGene 20014 20018	NT-3
+#602	AnnotatorNotes T602	EG:18205
+T603	PR 20014 20018	NT-3
+#603	AnnotatorNotes T603	PR:000011459 (neurotrophin-3)
+T604	PR 20085 20097	neurotrophin
+#604	AnnotatorNotes T604	PR:000021998 (neurotrophin)
+T605	GO_BP 20098 20108	expression
+#605	AnnotatorNotes T605	GO:0010467 (gene expression)
+T606	NCBITaxon 20124 20131	animals
+#606	AnnotatorNotes T606	NCBITaxon:33208 (Metazoa)
+T607	PR 20135 20148	neurotrophins
+#607	AnnotatorNotes T607	PR:000021998 (neurotrophin)
+T608	GO_BP 20153 20166	downregulated
+#608	AnnotatorNotes T608	GO:0048519 (negative regulation of biological process)
+T609	GO_BP 20191 20201	expression
+#609	AnnotatorNotes T609	GO:0010467 (gene expression)
+T610	SO 20223 20229	normal
+#610	AnnotatorNotes T610	SO:0000817 (wild_type)
+T611	NCBITaxon 20230 20237	animals
+#611	AnnotatorNotes T611	NCBITaxon:33208 (Metazoa)
+T612	EntrezGene 20295 20299	BDNF
+#612	AnnotatorNotes T612	EG:12064
+T613	PR 20295 20299	BDNF
+#613	AnnotatorNotes T613	PR:000004716 (brain-derived neurotrophic factor)
+T614	CL 20341 20351	hair cells
+#614	AnnotatorNotes T614	CL:0000855 (hair cell)
+T615	GO_CC 20346 20351	cells
+#615	AnnotatorNotes T615	GO:0005623 (cell)
+T616	NCBITaxon 20370 20377	animals
+#616	AnnotatorNotes T616	NCBITaxon:33208 (Metazoa)
+T617	EntrezGene 20442 20447	Brn3c
+#617	AnnotatorNotes T617	EG:18998
+T618	PR 20442 20447	Brn3c
+#618	AnnotatorNotes T618	PR:000013043 (POU domain, class 4, transcription factor 3)
+T619	SO 20453 20459	mutant
+#619	AnnotatorNotes T619	SO:0001059 (sequence_alteration)
+T620	independent_continuant 20453 20459	mutant
+#620	AnnotatorNotes T620	independent_continuant
+T621	CL 20553 20563	hair cells
+#621	AnnotatorNotes T621	CL:0000855 (hair cell)
+T622	GO_CC 20558 20563	cells
+#622	AnnotatorNotes T622	GO:0005623 (cell)
+T623	EntrezGene 20569 20573	BDNF
+#623	AnnotatorNotes T623	EG:12064
+T624	PR 20569 20573	BDNF
+#624	AnnotatorNotes T624	PR:000004716 (brain-derived neurotrophic factor)
+T625	CL 20624 20634	hair cells
+#625	AnnotatorNotes T625	CL:0000855 (hair cell)
+T626	GO_CC 20629 20634	cells
+#626	AnnotatorNotes T626	GO:0005623 (cell)
+T627	NCBITaxon 20650 20656	animal
+#627	AnnotatorNotes T627	NCBITaxon:33208 (Metazoa)
+T628	EntrezGene 20716 20721	Brn3c
+#628	AnnotatorNotes T628	EG:18998
+T629	PR 20716 20721	Brn3c
+#629	AnnotatorNotes T629	PR:000013043 (POU domain, class 4, transcription factor 3)
+T630	SO 20727 20734	mutants
+#630	AnnotatorNotes T630	SO:0001059 (sequence_alteration)
+T631	independent_continuant 20727 20734	mutants
+#631	AnnotatorNotes T631	independent_continuant
+T632	bold 20764 20849	The expression of BDNF and NT-3 mRNA is shown in the P0 vestibular sensory epithelia.
+#632	AnnotatorNotes T632	bold (null)
+T633	GO_BP 20768 20778	expression
+#633	AnnotatorNotes T633	GO:0010467 (gene expression)
+T634	EntrezGene 20782 20786	BDNF
+#634	AnnotatorNotes T634	EG:12064
+T635	PR 20782 20786	BDNF
+#635	AnnotatorNotes T635	PR:000004716 (brain-derived neurotrophic factor)
+T636	EntrezGene 20791 20795	NT-3
+#636	AnnotatorNotes T636	EG:18205
+T637	PR 20791 20795	NT-3
+#637	AnnotatorNotes T637	PR:000011459 (neurotrophin-3)
+T638	CHEBI 20796 20800	mRNA
+#638	AnnotatorNotes T638	CHEBI:33699 (messenger RNA)
+T639	SO 20796 20800	mRNA
+#639	AnnotatorNotes T639	SO:0000234 (mRNA)
+T640	GO_BP 20831 20838	sensory
+#640	AnnotatorNotes T640	GO:0007600 (sensory perception)
+T641	EntrezGene 20981 20985	BDNF
+#641	AnnotatorNotes T641	EG:12064
+T642	PR 20981 20985	BDNF
+#642	AnnotatorNotes T642	PR:000004716 (brain-derived neurotrophic factor)
+T643	EntrezGene 21062 21066	BDNF
+#643	AnnotatorNotes T643	EG:12064
+T644	PR 21062 21066	BDNF
+#644	AnnotatorNotes T644	PR:000004716 (brain-derived neurotrophic factor)
+T645	EntrezGene 21071 21075	NT-3
+#645	AnnotatorNotes T645	EG:18205
+T646	PR 21071 21075	NT-3
+#646	AnnotatorNotes T646	PR:000011459 (neurotrophin-3)
+T647	EntrezGene 21102 21106	BDNF
+#647	AnnotatorNotes T647	EG:12064
+T648	PR 21102 21106	BDNF
+#648	AnnotatorNotes T648	PR:000004716 (brain-derived neurotrophic factor)
+T649	GO_BP 21107 21117	expression
+#649	AnnotatorNotes T649	GO:0010467 (gene expression)
+T650	CL 21125 21134	hair cell
+#650	AnnotatorNotes T650	CL:0000855 (hair cell)
+T651	GO_CC 21130 21134	cell
+#651	AnnotatorNotes T651	GO:0005623 (cell)
+T652	GO_BP 21203 21213	expression
+#652	AnnotatorNotes T652	GO:0010467 (gene expression)
+T653	EntrezGene 21221 21226	Brn3c
+#653	AnnotatorNotes T653	EG:18998
+T654	PR 21221 21226	Brn3c
+#654	AnnotatorNotes T654	PR:000013043 (POU domain, class 4, transcription factor 3)
+T655	NCBITaxon 21232 21236	mice
+#655	AnnotatorNotes T655	NCBITaxon:10088 (Mus)
+T656	CL 21257 21267	hair cells
+#656	AnnotatorNotes T656	CL:0000855 (hair cell)
+T657	GO_CC 21262 21267	cells
+#657	AnnotatorNotes T657	GO:0005623 (cell)
+T658	EntrezGene 21279 21283	NT-3
+#658	AnnotatorNotes T658	EG:18205
+T659	PR 21279 21283	NT-3
+#659	AnnotatorNotes T659	PR:000011459 (neurotrophin-3)
+T660	GO_BP 21284 21294	expression
+#660	AnnotatorNotes T660	GO:0010467 (gene expression)
+T661	EntrezGene 21336 21341	Brn3c
+#661	AnnotatorNotes T661	EG:18998
+T662	PR 21336 21341	Brn3c
+#662	AnnotatorNotes T662	PR:000013043 (POU domain, class 4, transcription factor 3)
+T663	SO 21342 21348	mutant
+#663	AnnotatorNotes T663	SO:0001059 (sequence_alteration)
+T664	EntrezGene 21426 21430	BDNF
+#664	AnnotatorNotes T664	EG:12064
+T665	PR 21426 21430	BDNF
+#665	AnnotatorNotes T665	PR:000004716 (brain-derived neurotrophic factor)
+T666	EntrezGene 21448 21452	NT-3
+#666	AnnotatorNotes T666	EG:18205
+T667	PR 21448 21452	NT-3
+#667	AnnotatorNotes T667	PR:000011459 (neurotrophin-3)
+T668	EntrezGene 21480 21485	Brn3c
+#668	AnnotatorNotes T668	EG:18998
+T669	PR 21480 21485	Brn3c
+#669	AnnotatorNotes T669	PR:000013043 (POU domain, class 4, transcription factor 3)
+T670	SO 21491 21497	mutant
+#670	AnnotatorNotes T670	SO:0001059 (sequence_alteration)
+T671	EntrezGene 21558 21562	BDNF
+#671	AnnotatorNotes T671	EG:12064
+T672	PR 21558 21562	BDNF
+#672	AnnotatorNotes T672	PR:000004716 (brain-derived neurotrophic factor)
+T673	CL 21589 21599	hair cells
+#673	AnnotatorNotes T673	CL:0000855 (hair cell)
+T674	GO_CC 21594 21599	cells
+#674	AnnotatorNotes T674	GO:0005623 (cell)
+T675	NCBITaxon 21611 21618	animals
+#675	AnnotatorNotes T675	NCBITaxon:33208 (Metazoa)
+T676	CL 21646 21655	hair cell
+#676	AnnotatorNotes T676	CL:0000855 (hair cell)
+T677	GO_CC 21651 21655	cell
+#677	AnnotatorNotes T677	GO:0005623 (cell)
+T678	EntrezGene 21670 21674	BDNF
+#678	AnnotatorNotes T678	EG:12064
+T679	PR 21670 21674	BDNF
+#679	AnnotatorNotes T679	PR:000004716 (brain-derived neurotrophic factor)
+T680	EntrezGene 21689 21694	Brn3c
+#680	AnnotatorNotes T680	EG:18998
+T681	PR 21689 21694	Brn3c
+#681	AnnotatorNotes T681	PR:000013043 (POU domain, class 4, transcription factor 3)
+T682	SO 21700 21707	mutants
+#682	AnnotatorNotes T682	SO:0001059 (sequence_alteration)
+T683	independent_continuant 21700 21707	mutants
+#683	AnnotatorNotes T683	independent_continuant
+T684	EntrezGene 21713 21717	NT-3
+#684	AnnotatorNotes T684	EG:18205
+T685	PR 21713 21717	NT-3
+#685	AnnotatorNotes T685	PR:000011459 (neurotrophin-3)
+T686	EntrezGene 21770 21775	Brn3c
+#686	AnnotatorNotes T686	EG:18998
+T687	PR 21770 21775	Brn3c
+#687	AnnotatorNotes T687	PR:000013043 (POU domain, class 4, transcription factor 3)
+T688	GO_BP 21861 21868	sensory
+#688	AnnotatorNotes T688	GO:0007600 (sensory perception)
+T689	EntrezGene 21892 21897	Brn3c
+#689	AnnotatorNotes T689	EG:18998
+T690	PR 21892 21897	Brn3c
+#690	AnnotatorNotes T690	PR:000013043 (POU domain, class 4, transcription factor 3)
+T691	SO 21903 21909	mutant
+#691	AnnotatorNotes T691	SO:0001059 (sequence_alteration)
+T692	independent_continuant 21903 21909	mutant
+#692	AnnotatorNotes T692	independent_continuant
+T693	EntrezGene 21932 21936	BDNF
+#693	AnnotatorNotes T693	EG:12064
+T694	PR 21932 21936	BDNF
+#694	AnnotatorNotes T694	PR:000004716 (brain-derived neurotrophic factor)
+T695	EntrezGene 22008 22013	Brn3c
+#695	AnnotatorNotes T695	EG:18998
+T696	PR 22008 22013	Brn3c
+#696	AnnotatorNotes T696	PR:000013043 (POU domain, class 4, transcription factor 3)
+T697	EntrezGene 22083 22087	NT-3
+#697	AnnotatorNotes T697	EG:18205
+T698	PR 22083 22087	NT-3
+#698	AnnotatorNotes T698	PR:000011459 (neurotrophin-3)
+T699	EntrezGene 22134 22139	Brn3c
+#699	AnnotatorNotes T699	EG:18998
+T700	PR 22134 22139	Brn3c
+#700	AnnotatorNotes T700	PR:000013043 (POU domain, class 4, transcription factor 3)
+T701	EntrezGene 22247 22251	NT-3
+#701	AnnotatorNotes T701	EG:18205
+T702	PR 22247 22251	NT-3
+#702	AnnotatorNotes T702	PR:000011459 (neurotrophin-3)
+T703	EntrezGene 22359 22364	Brn3c
+#703	AnnotatorNotes T703	EG:18998
+T704	PR 22359 22364	Brn3c
+#704	AnnotatorNotes T704	PR:000013043 (POU domain, class 4, transcription factor 3)
+T705	NCBITaxon 22370 22374	mice
+#705	AnnotatorNotes T705	NCBITaxon:10088 (Mus)
+T706	bold 22400 22514	BDNF and NT-3 mRNA expression is shown in the cochlea of P0 (a-d) and P8 (e,f) Brn3c null and control littermates.
+#706	AnnotatorNotes T706	bold (null)
+T707	EntrezGene 22400 22404	BDNF
+#707	AnnotatorNotes T707	EG:12064
+T708	PR 22400 22404	BDNF
+#708	AnnotatorNotes T708	PR:000004716 (brain-derived neurotrophic factor)
+T709	EntrezGene 22409 22413	NT-3
+#709	AnnotatorNotes T709	EG:18205
+T710	PR 22409 22413	NT-3
+#710	AnnotatorNotes T710	PR:000011459 (neurotrophin-3)
+T711	CHEBI 22414 22418	mRNA
+#711	AnnotatorNotes T711	CHEBI:33699 (messenger RNA)
+T712	SO 22414 22418	mRNA
+#712	AnnotatorNotes T712	SO:0000234 (mRNA)
+T713	GO_BP 22419 22429	expression
+#713	AnnotatorNotes T713	GO:0010467 (gene expression)
+T714	EntrezGene 22479 22484	Brn3c
+#714	AnnotatorNotes T714	EG:18998
+T715	PR 22479 22484	Brn3c
+#715	AnnotatorNotes T715	PR:000013043 (POU domain, class 4, transcription factor 3)
+T716	GO_BP 22532 22542	expression
+#716	AnnotatorNotes T716	GO:0010467 (gene expression)
+T717	EntrezGene 22546 22550	BDNF
+#717	AnnotatorNotes T717	EG:12064
+T718	PR 22546 22550	BDNF
+#718	AnnotatorNotes T718	PR:000004716 (brain-derived neurotrophic factor)
+T719	SO 22577 22585	wildtype
+#719	AnnotatorNotes T719	SO:0000817 (wild_type)
+T720	SO 22590 22596	mutant
+#720	AnnotatorNotes T720	SO:0001059 (sequence_alteration)
+T721	GO_BP 22637 22647	expression
+#721	AnnotatorNotes T721	GO:0010467 (gene expression)
+T722	EntrezGene 22651 22655	NT-3
+#722	AnnotatorNotes T722	EG:18205
+T723	PR 22651 22655	NT-3
+#723	AnnotatorNotes T723	PR:000011459 (neurotrophin-3)
+T724	CL 22691 22707	inner hair cells
+#724	AnnotatorNotes T724	CL:0000589 (inner hair cell)
+T725	GO_CC 22702 22707	cells
+#725	AnnotatorNotes T725	GO:0005623 (cell)
+T726	SO 22716 22724	wildtype
+#726	AnnotatorNotes T726	SO:0000817 (wild_type)
+T727	EntrezGene 22756 22760	NT-3
+#727	AnnotatorNotes T727	EG:18205
+T728	PR 22756 22760	NT-3
+#728	AnnotatorNotes T728	PR:000011459 (neurotrophin-3)
+T729	GO_BP 22761 22771	expression
+#729	AnnotatorNotes T729	GO:0010467 (gene expression)
+T730	EntrezGene 22814 22819	Brn3c
+#730	AnnotatorNotes T730	EG:18998
+T731	PR 22814 22819	Brn3c
+#731	AnnotatorNotes T731	PR:000013043 (POU domain, class 4, transcription factor 3)
+T732	NCBITaxon 22825 22829	mice
+#732	AnnotatorNotes T732	NCBITaxon:10088 (Mus)
+T733	CL 22876 22892	inner hair cells
+#733	AnnotatorNotes T733	CL:0000589 (inner hair cell)
+T734	GO_CC 22887 22892	cells
+#734	AnnotatorNotes T734	GO:0005623 (cell)
+T735	NCBITaxon 22904 22911	animals
+#735	AnnotatorNotes T735	NCBITaxon:33208 (Metazoa)
+T736	GO_BP 23026 23036	expression
+#736	AnnotatorNotes T736	GO:0010467 (gene expression)
+T737	PR 23040 23053	neurotrophins
+#737	AnnotatorNotes T737	PR:000021998 (neurotrophin)
+T738	CL 23090 23105	primary neurons
+#738	AnnotatorNotes T738	CL:0000530 (primary neuron)
+T739	CL 23148 23158	hair cells
+#739	AnnotatorNotes T739	CL:0000855 (hair cell)
+T740	GO_CC 23153 23158	cells
+#740	AnnotatorNotes T740	GO:0005623 (cell)
+T741	PR 23176 23189	neurotrophins
+#741	AnnotatorNotes T741	PR:000021998 (neurotrophin)
+T742	CL 23260 23267	neurons
+#742	AnnotatorNotes T742	CL:0000540 (neuron)
+T743	GO_BP 23284 23298	differentiated
+#743	AnnotatorNotes T743	GO:0035315 (hair cell differentiation)
+T744	CL 23299 23309	hair cells
+#744	AnnotatorNotes T744	CL:0000855 (hair cell)
+T745	GO_CC 23304 23309	cells
+#745	AnnotatorNotes T745	GO:0005623 (cell)
+T746	GO_BP 23340 23349	targeting
+#746	AnnotatorNotes T746	GO:0008039 (synaptic target recognition)
+T747	SO 23395 23401	mutant
+#747	AnnotatorNotes T747	SO:0001059 (sequence_alteration)
+T748	NCBITaxon 23402 23409	animals
+#748	AnnotatorNotes T748	NCBITaxon:33208 (Metazoa)
+T749	GO_BP 23426 23430	born
+#749	AnnotatorNotes T749	GO:0007567 (parturition)
+T750	GO_BP 23445 23452	hearing
+#750	AnnotatorNotes T750	GO:0007605 (sensory perception of sound)
+T751	CL 23469 23479	hair cells
+#751	AnnotatorNotes T751	CL:0000855 (hair cell)
+T752	GO_CC 23474 23479	cells
+#752	AnnotatorNotes T752	GO:0005623 (cell)
+T753	GO_BP 23492 23502	expression
+#753	AnnotatorNotes T753	GO:0010467 (gene expression)
+T754	PR 23506 23519	neurotrophins
+#754	AnnotatorNotes T754	PR:000021998 (neurotrophin)
+T755	PR 23561 23574	neurotrophins
+#755	AnnotatorNotes T755	PR:000021998 (neurotrophin)
+T756	GO_BP 23638 23648	cell death
+#756	AnnotatorNotes T756	GO:0008219 (cell death)
+T757	CL 23638 23642	cell
+#757	AnnotatorNotes T757	CL:0000000 (cell)
+T758	GO_CC 23638 23642	cell
+#758	AnnotatorNotes T758	GO:0005623 (cell)
+T759	GO_BP 23677 23687	regulation
+#759	AnnotatorNotes T759	GO:0050789 (regulation of biological process)
+T760	GO_BP 23716 23728	neurotrophic
+#760	AnnotatorNotes T760	GO:0048666 (neuron development)
+T761	PR 23716 23728	neurotrophic
+#761	AnnotatorNotes T761	PR:000021998 (neurotrophin)
+T762	PR 23777 23790	neurotrophins
+#762	AnnotatorNotes T762	PR:000021998 (neurotrophin)
+T763	GO_BP 23795 23803	released
+#763	AnnotatorNotes T763	GO:0046903 (secretion)
+T764	CL 23860 23875	sensory neurons
+#764	AnnotatorNotes T764	CL:0000101 (sensory neuron)
+T765	GO_BP 23860 23867	sensory
+#765	AnnotatorNotes T765	GO:0007600 (sensory perception)
+T766	PR 23926 23939	neurotrophins
+#766	AnnotatorNotes T766	PR:000021998 (neurotrophin)
+T767	PR 23993 24006	neurotrophins
+#767	AnnotatorNotes T767	PR:000021998 (neurotrophin)
+T768	italic 24075 24082	in vivo
+#768	AnnotatorNotes T768	italic (null)
+T769	PR 24100 24104	BDNF
+#769	AnnotatorNotes T769	PR:000004716 (brain-derived neurotrophic factor)
+T770	NCBITaxon 24119 24126	animals
+#770	AnnotatorNotes T770	NCBITaxon:33208 (Metazoa)
+T771	CL 24170 24185	sensory neurons
+#771	AnnotatorNotes T771	CL:0000101 (sensory neuron)
+T772	GO_BP 24170 24177	sensory
+#772	AnnotatorNotes T772	GO:0007600 (sensory perception)
+T773	PR 24276 24288	neurotrophin
+#773	AnnotatorNotes T773	PR:000021998 (neurotrophin)
+T774	GO_MF 24289 24310	neurotrophin receptor
+#774	AnnotatorNotes T774	GO:0005030 (neurotrophin receptor activity)
+T775	independent_continuant 24289 24310	neurotrophin receptor
+#775	AnnotatorNotes T775	independent_continuant
+T776	PR 24289 24301	neurotrophin
+#776	AnnotatorNotes T776	PR:000021998 (neurotrophin)
+T777	SO 24316 24323	mutants
+#777	AnnotatorNotes T777	SO:0001059 (sequence_alteration)
+T778	independent_continuant 24316 24323	mutants
+#778	AnnotatorNotes T778	independent_continuant
+T779	GO_BP 24350 24360	expression
+#779	AnnotatorNotes T779	GO:0010467 (gene expression)
+T780	PR 24476 24481	Brn3c
+#780	AnnotatorNotes T780	PR:000013043 (POU domain, class 4, transcription factor 3)
+T781	GO_BP 24492 24501	expressed
+#781	AnnotatorNotes T781	GO:0010467 (gene expression)
+T782	GO_BP 24509 24522	embryogenesis
+#782	AnnotatorNotes T782	GO:0009790 (embryonic development)
+T783	CL 24577 24592	primary neurons
+#783	AnnotatorNotes T783	CL:0000530 (primary neuron)
+T784	GO_BP 24654 24664	expression
+#784	AnnotatorNotes T784	GO:0010467 (gene expression)
+T785	PR 24668 24681	neurotrophins
+#785	AnnotatorNotes T785	PR:000021998 (neurotrophin)
+T786	CL 24727 24742	primary neurons
+#786	AnnotatorNotes T786	CL:0000530 (primary neuron)
+T787	EntrezGene 24800 24805	Brn3c
+#787	AnnotatorNotes T787	EG:18998
+T788	PR 24800 24805	Brn3c
+#788	AnnotatorNotes T788	PR:000013043 (POU domain, class 4, transcription factor 3)
+T789	NCBITaxon 24811 24815	mice
+#789	AnnotatorNotes T789	NCBITaxon:10088 (Mus)
+T790	italic 24856 24863	in situ
+#790	AnnotatorNotes T790	italic (null)
+T791	GO_BP 24896 24906	expression
+#791	AnnotatorNotes T791	GO:0010467 (gene expression)
+T792	EntrezGene 24910 24914	BDNF
+#792	AnnotatorNotes T792	EG:12064
+T793	PR 24910 24914	BDNF
+#793	AnnotatorNotes T793	PR:000004716 (brain-derived neurotrophic factor)
+T794	PR 25009 25022	neurotrophins
+#794	AnnotatorNotes T794	PR:000021998 (neurotrophin)
+T795	GO_BP 25038 25047	expressed
+#795	AnnotatorNotes T795	GO:0010467 (gene expression)
+T796	GO_BP 25055 25062	sensory
+#796	AnnotatorNotes T796	GO:0007600 (sensory perception)
+T797	EntrezGene 25086 25091	Brn3c
+#797	AnnotatorNotes T797	EG:18998
+T798	PR 25086 25091	Brn3c
+#798	AnnotatorNotes T798	PR:000013043 (POU domain, class 4, transcription factor 3)
+T799	SO 25097 25104	mutants
+#799	AnnotatorNotes T799	SO:0001059 (sequence_alteration)
+T800	independent_continuant 25097 25104	mutants
+#800	AnnotatorNotes T800	independent_continuant
+T801	PR 25147 25160	neurotrophins
+#801	AnnotatorNotes T801	PR:000021998 (neurotrophin)
+T802	GO_BP 25179 25186	sensory
+#802	AnnotatorNotes T802	GO:0007600 (sensory perception)
+T803	EntrezGene 25300 25304	NT-3
+#803	AnnotatorNotes T803	EG:18205
+T804	PR 25300 25304	NT-3
+#804	AnnotatorNotes T804	PR:000011459 (neurotrophin-3)
+T805	GO_BP 25305 25315	expression
+#805	AnnotatorNotes T805	GO:0010467 (gene expression)
+T806	EntrezGene 25319 25324	Brn3c
+#806	AnnotatorNotes T806	EG:18998
+T807	PR 25319 25324	Brn3c
+#807	AnnotatorNotes T807	PR:000013043 (POU domain, class 4, transcription factor 3)
+T808	SO 25330 25336	mutant
+#808	AnnotatorNotes T808	SO:0001059 (sequence_alteration)
+T809	PR 25377 25389	neurotrophin
+#809	AnnotatorNotes T809	PR:000021998 (neurotrophin)
+T810	CL 25425 25440	sensory neurons
+#810	AnnotatorNotes T810	CL:0000101 (sensory neuron)
+T811	GO_BP 25425 25432	sensory
+#811	AnnotatorNotes T811	GO:0007600 (sensory perception)
+T812	GO_BP 25483 25518	development of cochlear innervation
+#812	AnnotatorNotes T812	GO:0021562 (vestibulocochlear nerve development)
+T813	EntrezGene 25530 25535	Brn3c
+#813	AnnotatorNotes T813	EG:18998
+T814	PR 25530 25535	Brn3c
+#814	AnnotatorNotes T814	PR:000013043 (POU domain, class 4, transcription factor 3)
+T815	SO 25541 25548	mutants
+#815	AnnotatorNotes T815	SO:0001059 (sequence_alteration)
+T816	independent_continuant 25541 25548	mutants
+#816	AnnotatorNotes T816	independent_continuant
+T817	PR 25557 25561	BDNF
+#817	AnnotatorNotes T817	PR:000004716 (brain-derived neurotrophic factor)
+T818	GO_BP 25588 25596	produced
+#818	AnnotatorNotes T818	GO:0009058 (biosynthetic process)
+T819	CL 25600 25610	hair cells
+#819	AnnotatorNotes T819	CL:0000855 (hair cell)
+T820	GO_CC 25605 25610	cells
+#820	AnnotatorNotes T820	GO:0005623 (cell)
+T821	GO_BP 25642 25671	differentiation of hair cells
+#821	AnnotatorNotes T821	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T822	CL 25661 25671	hair cells
+#822	AnnotatorNotes T822	CL:0000855 (hair cell)
+T823	GO_CC 25666 25671	cells
+#823	AnnotatorNotes T823	GO:0005623 (cell)
+T824	GO_BP 25714 25724	expression
+#824	AnnotatorNotes T824	GO:0010467 (gene expression)
+T825	EntrezGene 25728 25732	BDNF
+#825	AnnotatorNotes T825	EG:12064
+T826	PR 25728 25732	BDNF
+#826	AnnotatorNotes T826	PR:000004716 (brain-derived neurotrophic factor)
+T827	PR 25812 25816	BDNF
+#827	AnnotatorNotes T827	PR:000004716 (brain-derived neurotrophic factor)
+T828	PR 25821 25825	trkB
+#828	AnnotatorNotes T828	PR:000011470 (BDNF/NT-3 growth factors receptor)
+T829	SO 25831 25838	mutants
+#829	AnnotatorNotes T829	SO:0001059 (sequence_alteration)
+T830	independent_continuant 25831 25838	mutants
+#830	AnnotatorNotes T830	independent_continuant
+T831	GO_BP 25888 25893	birth
+#831	AnnotatorNotes T831	GO:0007567 (parturition)
+T832	GO_BP 25932 25942	expression
+#832	AnnotatorNotes T832	GO:0010467 (gene expression)
+T833	GO_BP 25997 26004	sensory
+#833	AnnotatorNotes T833	GO:0007600 (sensory perception)
+T834	GO_BP 26073 26078	birth
+#834	AnnotatorNotes T834	GO:0007567 (parturition)
+T835	PR 26175 26179	BDNF
+#835	AnnotatorNotes T835	PR:000004716 (brain-derived neurotrophic factor)
+T836	PR 26184 26188	NT-3
+#836	AnnotatorNotes T836	PR:000011459 (neurotrophin-3)
+T837	GO_BP 26193 26202	expressed
+#837	AnnotatorNotes T837	GO:0010467 (gene expression)
+T838	EntrezGene 26249 26253	NT-3
+#838	AnnotatorNotes T838	EG:18205
+T839	PR 26249 26253	NT-3
+#839	AnnotatorNotes T839	PR:000011459 (neurotrophin-3)
+T840	GO_BP 26254 26264	expression
+#840	AnnotatorNotes T840	GO:0010467 (gene expression)
+T841	PR 26488 26492	NT-3
+#841	AnnotatorNotes T841	PR:000011459 (neurotrophin-3)
+T842	GO_BP 26510 26519	expressed
+#842	AnnotatorNotes T842	GO:0010467 (gene expression)
+T843	CL 26523 26539	supporting cells
+#843	AnnotatorNotes T843	CL:0000630 (supportive cell)
+T844	GO_CC 26534 26539	cells
+#844	AnnotatorNotes T844	GO:0005623 (cell)
+T845	GO_BP 26550 26560	expression
+#845	AnnotatorNotes T845	GO:0010467 (gene expression)
+T846	EntrezGene 26564 26568	NT-3
+#846	AnnotatorNotes T846	EG:18205
+T847	PR 26564 26568	NT-3
+#847	AnnotatorNotes T847	PR:000011459 (neurotrophin-3)
+T848	CL 26572 26588	supporting cells
+#848	AnnotatorNotes T848	CL:0000630 (supportive cell)
+T849	GO_CC 26583 26588	cells
+#849	AnnotatorNotes T849	GO:0005623 (cell)
+T850	EntrezGene 26634 26639	Brn3c
+#850	AnnotatorNotes T850	EG:18998
+T851	PR 26634 26639	Brn3c
+#851	AnnotatorNotes T851	PR:000013043 (POU domain, class 4, transcription factor 3)
+T852	SO 26645 26652	mutants
+#852	AnnotatorNotes T852	SO:0001059 (sequence_alteration)
+T853	independent_continuant 26645 26652	mutants
+#853	AnnotatorNotes T853	independent_continuant
+T854	CL 26673 26688	sensory neurons
+#854	AnnotatorNotes T854	CL:0000101 (sensory neuron)
+T855	GO_BP 26673 26680	sensory
+#855	AnnotatorNotes T855	GO:0007600 (sensory perception)
+T856	NCBITaxon 26714 26721	animals
+#856	AnnotatorNotes T856	NCBITaxon:33208 (Metazoa)
+T857	CL 26766 26781	sensory neurons
+#857	AnnotatorNotes T857	CL:0000101 (sensory neuron)
+T858	GO_BP 26766 26773	sensory
+#858	AnnotatorNotes T858	GO:0007600 (sensory perception)
+T859	GO_BP 26798 26812	differentiated
+#859	AnnotatorNotes T859	GO:0035315 (hair cell differentiation)
+T860	CL 26813 26823	hair cells
+#860	AnnotatorNotes T860	CL:0000855 (hair cell)
+T861	GO_CC 26818 26823	cells
+#861	AnnotatorNotes T861	GO:0005623 (cell)
+T862	PR 26853 26866	neurotrophins
+#862	AnnotatorNotes T862	PR:000021998 (neurotrophin)
+T863	PR 26893 26897	BDNF
+#863	AnnotatorNotes T863	PR:000004716 (brain-derived neurotrophic factor)
+T864	PR 26902 26906	NT-3
+#864	AnnotatorNotes T864	PR:000011459 (neurotrophin-3)
+T865	GO_BP 26932 26942	expression
+#865	AnnotatorNotes T865	GO:0010467 (gene expression)
+T866	CL 26948 26964	inner hair cells
+#866	AnnotatorNotes T866	CL:0000589 (inner hair cell)
+T867	GO_CC 26959 26964	cells
+#867	AnnotatorNotes T867	GO:0005623 (cell)
+T868	GO_BP 26972 26977	birth
+#868	AnnotatorNotes T868	GO:0007567 (parturition)
+T869	PR 27086 27099	neurotrophins
+#869	AnnotatorNotes T869	PR:000021998 (neurotrophin)
+T870	EntrezGene 27157 27162	Brn3c
+#870	AnnotatorNotes T870	EG:18998
+T871	PR 27157 27162	Brn3c
+#871	AnnotatorNotes T871	PR:000013043 (POU domain, class 4, transcription factor 3)
+T872	SO 27168 27175	mutants
+#872	AnnotatorNotes T872	SO:0001059 (sequence_alteration)
+T873	independent_continuant 27168 27175	mutants
+#873	AnnotatorNotes T873	independent_continuant
+T874	CL 27210 27226	neuron afferents
+#874	AnnotatorNotes T874	CL:0000526 (afferent neuron)
+T875	GO_BP 27248 27278	formation of mature hair cells
+#875	AnnotatorNotes T875	"formation of .. hair cells" GO:0060119 (inner ear receptor cell development)
+T876	CL 27268 27278	hair cells
+#876	AnnotatorNotes T876	CL:0000855 (hair cell)
+T877	GO_CC 27273 27278	cells
+#877	AnnotatorNotes T877	GO:0005623 (cell)
+T878	GO_BP 27349 27357	released
+#878	AnnotatorNotes T878	GO:0046903 (secretion)
+T879	GO_BP 27361 27375	differentiated
+#879	AnnotatorNotes T879	GO:0035315 (hair cell differentiation)
+T880	CL 27376 27386	hair cells
+#880	AnnotatorNotes T880	CL:0000855 (hair cell)
+T881	GO_CC 27381 27386	cells
+#881	AnnotatorNotes T881	GO:0005623 (cell)
+T882	GO_BP 27441 27451	expression
+#882	AnnotatorNotes T882	GO:0010467 (gene expression)
+T883	PR 27455 27468	neurotrophins
+#883	AnnotatorNotes T883	PR:000021998 (neurotrophin)
+T884	SO 27527 27532	known
+#884	AnnotatorNotes T884	SO:0000906 (independently_known)
+T885	PR 27533 27546	neurotrophins
+#885	AnnotatorNotes T885	PR:000021998 (neurotrophin)
+T886	PR 27619 27631	neurotrophin
+#886	AnnotatorNotes T886	PR:000021998 (neurotrophin)
+T887	GO_BP 27632 27642	expression
+#887	AnnotatorNotes T887	GO:0010467 (gene expression)
+T888	NCBITaxon 27679 27686	animals
+#888	AnnotatorNotes T888	NCBITaxon:33208 (Metazoa)
+T889	GO_BP 27709 27719	expression
+#889	AnnotatorNotes T889	GO:0010467 (gene expression)
+T890	PR 27791 27802	neutrophins
+#890	AnnotatorNotes T890	PR:000021998 (neurotrophin)
+T891	SO 27820 27827	mutants
+#891	AnnotatorNotes T891	SO:0001059 (sequence_alteration)
+T892	independent_continuant 27820 27827	mutants
+#892	AnnotatorNotes T892	independent_continuant
+T893	CL 27880 27895	primary neurons
+#893	AnnotatorNotes T893	CL:0000530 (primary neuron)
+T894	GO_BP 27939 27944	birth
+#894	AnnotatorNotes T894	GO:0007567 (parturition)
+T895	EntrezGene 28061 28066	Brn3c
+#895	AnnotatorNotes T895	EG:18998
+T896	PR 28061 28066	Brn3c
+#896	AnnotatorNotes T896	PR:000013043 (POU domain, class 4, transcription factor 3)
+T897	SO 28072 28079	mutants
+#897	AnnotatorNotes T897	SO:0001059 (sequence_alteration)
+T898	independent_continuant 28072 28079	mutants
+#898	AnnotatorNotes T898	independent_continuant
+T899	GO_BP 28132 28144	neurotrophic
+#899	AnnotatorNotes T899	GO:0048666 (neuron development)
+T900	PR 28132 28144	neurotrophic
+#900	AnnotatorNotes T900	PR:000021998 (neurotrophin)
+T901	CHEBI 28145 28155	substances
+#901	AnnotatorNotes T901	CHEBI:36357 (polyatomic entities)
+T902	GO_BP 28159 28171	neurotrophic
+#902	AnnotatorNotes T902	GO:0048666 (neuron development)
+T903	PR 28159 28171	neurotrophic
+#903	AnnotatorNotes T903	PR:000021998 (neurotrophin)
+T904	CL 28249 28264	sensory neurons
+#904	AnnotatorNotes T904	CL:0000101 (sensory neuron)
+T905	GO_BP 28249 28256	sensory
+#905	AnnotatorNotes T905	GO:0007600 (sensory perception)
+T906	NCBITaxon 28298 28301	cat
+#906	AnnotatorNotes T906	NCBITaxon:9685 (Felis catus)
+T907	NCBITaxon 28335 28341	humans
+#907	AnnotatorNotes T907	NCBITaxon:9606 (Homo sapiens)
+T908	GO_BP 28369 28375	Growth
+#908	AnnotatorNotes T908	GO:0040007 (growth)
+T909	CL 28425 28435	hair cells
+#909	AnnotatorNotes T909	CL:0000855 (hair cell)
+T910	GO_CC 28430 28435	cells
+#910	AnnotatorNotes T910	GO:0005623 (cell)
+T911	GO_BP 28437 28446	Formation
+#911	AnnotatorNotes T911	GO:0032502 (developmental process)
+T912	CL 28506 28513	neurons
+#912	AnnotatorNotes T912	CL:0000540 (neuron)
+T913	GO_BP 28615 28622	develop
+#913	AnnotatorNotes T913	GO:0032502 (developmental process)
+T914	CL 28632 28642	hair cells
+#914	AnnotatorNotes T914	CL:0000855 (hair cell)
+T915	GO_CC 28637 28642	cells
+#915	AnnotatorNotes T915	GO:0005623 (cell)
+T916	EntrezGene 28659 28667	Myo VIIa
+#916	AnnotatorNotes T916	EG:17921
+T917	PR 28659 28667	Myo VIIa
+#917	AnnotatorNotes T917	PR:000010869 (myosin-VIIa)
+T918	GO_BP 28707 28721	differentiated
+#918	AnnotatorNotes T918	GO:0035315 (hair cell differentiation)
+T919	CL 28722 28731	hair cell
+#919	AnnotatorNotes T919	CL:0000855 (hair cell)
+T920	GO_CC 28727 28731	cell
+#920	AnnotatorNotes T920	GO:0005623 (cell)
+T921	GO_BP 28747 28751	form
+#921	AnnotatorNotes T921	GO:0032502 (developmental process)
+T922	GO_BP 28794 28798	died
+#922	AnnotatorNotes T922	GO:0016265 (death)
+T923	GO_BP 28806 28811	birth
+#923	AnnotatorNotes T923	GO:0007567 (parturition)
+T924	GO_BP 28832 28838	growth
+#924	AnnotatorNotes T924	GO:0040007 (growth)
+T925	CL 28842 28858	outer hair cells
+#925	AnnotatorNotes T925	CL:0000601 (outer hair cell)
+T926	GO_CC 28853 28858	cells
+#926	AnnotatorNotes T926	GO:0005623 (cell)
+T927	EntrezGene 28879 28884	Brn3c
+#927	AnnotatorNotes T927	EG:18998
+T928	PR 28879 28884	Brn3c
+#928	AnnotatorNotes T928	PR:000013043 (POU domain, class 4, transcription factor 3)
+T929	SO 28890 28896	mutant
+#929	AnnotatorNotes T929	SO:0001059 (sequence_alteration)
+T930	CL 28968 28984	outer hair cells
+#930	AnnotatorNotes T930	CL:0000601 (outer hair cell)
+T931	GO_CC 28979 28984	cells
+#931	AnnotatorNotes T931	GO:0005623 (cell)
+T932	GO_BP 29115 29146	differentiation of pillar cells
+#932	AnnotatorNotes T932	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T933	CL 29134 29146	pillar cells
+#933	AnnotatorNotes T933	CL:1000191 (pillar cell)
+T934	GO_CC 29141 29146	cells
+#934	AnnotatorNotes T934	GO:0005623 (cell)
+T935	PR 29172 29177	Fgfr3
+#935	AnnotatorNotes T935	PR:000001450 (fibroblast growth factor receptor 3)
+T936	PR 29202 29206	Fgf8
+#936	AnnotatorNotes T936	PR:000007499 (fibroblast growth factor 8)
+T937	GO_BP 29217 29225	produced
+#937	AnnotatorNotes T937	GO:0009058 (biosynthetic process)
+T938	GO_BP 29229 29239	developing
+#938	AnnotatorNotes T938	GO:0032502 (developmental process)
+T939	CL 29251 29267	inner hair cells
+#939	AnnotatorNotes T939	CL:0000589 (inner hair cell)
+T940	GO_CC 29262 29267	cells
+#940	AnnotatorNotes T940	GO:0005623 (cell)
+T941	GO_BP 29281 29310	formation of supporting cells
+#941	AnnotatorNotes T941	"formation of .. cells" GO:0048468 (cell development)
+T942	CL 29294 29310	supporting cells
+#942	AnnotatorNotes T942	CL:0000630 (supportive cell)
+T943	GO_CC 29305 29310	cells
+#943	AnnotatorNotes T943	GO:0005623 (cell)
+T944	GO_BP 29348 29358	expression
+#944	AnnotatorNotes T944	GO:0010467 (gene expression)
+T945	PR 29391 29402	Hes 1 and 5
+#945	AnnotatorNotes T945	"Hes .. 5" PR:000008519 (transcription factor HES-5)
+T946	PR 29391 29396	Hes 1
+#946	AnnotatorNotes T946	PR:000008515 (transcription factor HES-1)
+T947	GO_BP 29422 29431	regulated
+#947	AnnotatorNotes T947	GO:0065007 (biological regulation)
+T948	GO_BP 29439 29462	Notch signaling pathway
+#948	AnnotatorNotes T948	GO:0007219 (Notch signaling pathway)
+T949	CL 29544 29560	outer hair cells
+#949	AnnotatorNotes T949	CL:0000601 (outer hair cell)
+T950	GO_CC 29555 29560	cells
+#950	AnnotatorNotes T950	GO:0005623 (cell)
+T951	GO_BP 29587 29622	differentiation of supporting cells
+#951	AnnotatorNotes T951	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T952	CL 29606 29622	supporting cells
+#952	AnnotatorNotes T952	CL:0000630 (supportive cell)
+T953	GO_CC 29617 29622	cells
+#953	AnnotatorNotes T953	GO:0005623 (cell)
+T954	CL 29648 29658	hair cells
+#954	AnnotatorNotes T954	CL:0000855 (hair cell)
+T955	GO_CC 29653 29658	cells
+#955	AnnotatorNotes T955	GO:0005623 (cell)
+T956	GO_BP 29683 29693	expression
+#956	AnnotatorNotes T956	GO:0010467 (gene expression)
+T957	CL 29697 29712	supporting cell
+#957	AnnotatorNotes T957	CL:0000630 (supportive cell)
+T958	GO_CC 29708 29712	cell
+#958	AnnotatorNotes T958	GO:0005623 (cell)
+T959	EntrezGene 29733 29738	Brn3c
+#959	AnnotatorNotes T959	EG:18998
+T960	PR 29733 29738	Brn3c
+#960	AnnotatorNotes T960	PR:000013043 (POU domain, class 4, transcription factor 3)
+T961	SO 29744 29751	mutants
+#961	AnnotatorNotes T961	SO:0001059 (sequence_alteration)
+T962	independent_continuant 29744 29751	mutants
+#962	AnnotatorNotes T962	independent_continuant
+T963	CL 29885 29896	motoneurons
+#963	AnnotatorNotes T963	CL:0000100 (motor neuron)
+T964	CHEBI 30119 30130	molecularly
+#964	AnnotatorNotes T964	CHEBI:36357 (polyatomic entities)
+T965	GO_BP 30139 30151	neurotrophic
+#965	AnnotatorNotes T965	GO:0048666 (neuron development)
+T966	PR 30139 30151	neurotrophic
+#966	AnnotatorNotes T966	PR:000021998 (neurotrophin)
+T967	GO_BP 30289 30300	established
+#967	AnnotatorNotes T967	GO:0032502 (developmental process)
+T968	CHEBI 30389 30398	molecular
+#968	AnnotatorNotes T968	CHEBI:36357 (polyatomic entities)
+T969	NCBITaxon 30588 30595	mammals
+#969	AnnotatorNotes T969	NCBITaxon:40674 (Mammalia)
+T970	GO_BP 30652 30660	develops
+#970	AnnotatorNotes T970	GO:0032502 (developmental process)
+T971	GO_BP 30677 30684	hearing
+#971	AnnotatorNotes T971	GO:0007605 (sensory perception of sound)
+T972	GO_BP 30786 30794	develops
+#972	AnnotatorNotes T972	GO:0032502 (developmental process)
+T973	EntrezGene 30803 30809	Brn 3c
+#973	AnnotatorNotes T973	EG:18998
+T974	PR 30803 30809	Brn 3c
+#974	AnnotatorNotes T974	PR:000013043 (POU domain, class 4, transcription factor 3)
+T975	SO 30815 30822	mutants
+#975	AnnotatorNotes T975	SO:0001059 (sequence_alteration)
+T976	independent_continuant 30815 30822	mutants
+#976	AnnotatorNotes T976	independent_continuant
+T977	GO_BP 30873 30882	formation
+#977	AnnotatorNotes T977	GO:0032502 (developmental process)
+T978	PR 30921 30925	NT-3
+#978	AnnotatorNotes T978	PR:000011459 (neurotrophin-3)
+T979	SO 30931 30938	mutants
+#979	AnnotatorNotes T979	SO:0001059 (sequence_alteration)
+T980	independent_continuant 30931 30938	mutants
+#980	AnnotatorNotes T980	independent_continuant
+T981	SO 30953 30960	mutants
+#981	AnnotatorNotes T981	SO:0001059 (sequence_alteration)
+T982	independent_continuant 30953 30960	mutants
+#982	AnnotatorNotes T982	independent_continuant
+T983	GO_BP 31025 31035	developing
+#983	AnnotatorNotes T983	GO:0032502 (developmental process)
+T984	EntrezGene 31082 31087	Brn3c
+#984	AnnotatorNotes T984	EG:18998
+T985	PR 31082 31087	Brn3c
+#985	AnnotatorNotes T985	PR:000013043 (POU domain, class 4, transcription factor 3)
+T986	SO 31093 31100	mutants
+#986	AnnotatorNotes T986	SO:0001059 (sequence_alteration)
+T987	independent_continuant 31093 31100	mutants
+#987	AnnotatorNotes T987	independent_continuant
+T988	GO_BP 31177 31186	generated
+#988	AnnotatorNotes T988	GO:0000003 (reproduction)
+T989	SO 31187 31197	transgenic
+#989	AnnotatorNotes T989	SO:0000902 (transgene)
+T990	NCBITaxon 31198 31203	mouse
+#990	AnnotatorNotes T990	NCBITaxon:10088 (Mus)
+T991	PR 31213 31217	BDNF
+#991	AnnotatorNotes T991	PR:000004716 (brain-derived neurotrophic factor)
+T992	GO_BP 31221 31230	expressed
+#992	AnnotatorNotes T992	GO:0010467 (gene expression)
+T993	PR 31237 31241	NT-3
+#993	AnnotatorNotes T993	PR:000011459 (neurotrophin-3)
+T994	SO 31242 31250	promoter
+#994	AnnotatorNotes T994	SO:0000167 (promoter)
+T995	GO_BP 31251 31258	control
+#995	AnnotatorNotes T995	GO:0065007 (biological regulation)
+T996	EntrezGene 31323 31328	Brn3c
+#996	AnnotatorNotes T996	EG:18998
+T997	PR 31323 31328	Brn3c
+#997	AnnotatorNotes T997	PR:000013043 (POU domain, class 4, transcription factor 3)
+T998	SO 31334 31340	mutant
+#998	AnnotatorNotes T998	SO:0001059 (sequence_alteration)
+T999	independent_continuant 31334 31340	mutant
+#999	AnnotatorNotes T999	independent_continuant
+T1000	SO 31389 31398	mutations
+#1000	AnnotatorNotes T1000	SO:0001059 (sequence_alteration)
+T1001	CL 31404 31413	hair cell
+#1001	AnnotatorNotes T1001	CL:0000855 (hair cell)
+T1002	GO_CC 31409 31413	cell
+#1002	AnnotatorNotes T1002	GO:0005623 (cell)
+T1003	SO 31486 31494	mutation
+#1003	AnnotatorNotes T1003	SO:0000041 (sequence_operation)
+T1004	NCBITaxon 31507 31512	human
+#1004	AnnotatorNotes T1004	NCBITaxon:9606 (Homo sapiens)
+T1005	SO 31513 31519	allele
+#1005	AnnotatorNotes T1005	SO:0001023 (allele)
+T1006	EntrezGene 31523 31529	Pou4f3
+#1006	AnnotatorNotes T1006	EG:5459
+T1007	PR 31523 31529	Pou4f3
+#1007	AnnotatorNotes T1007	PR:000013043 (POU domain, class 4, transcription factor 3)
+T1008	EntrezGene 31531 31536	Brn3c
+#1008	AnnotatorNotes T1008	EG:5459
+T1009	PR 31531 31536	Brn3c
+#1009	AnnotatorNotes T1009	PR:000013043 (POU domain, class 4, transcription factor 3)
+T1010	GO_BP 31580 31587	hearing
+#1010	AnnotatorNotes T1010	GO:0007605 (sensory perception of sound)
+T1011	GO_BP 31658 31665	hearing
+#1011	AnnotatorNotes T1011	GO:0007605 (sensory perception of sound)
+T1012	EntrezGene 31743 31748	Brn3c
+#1012	AnnotatorNotes T1012	EG:18998
+T1013	PR 31743 31748	Brn3c
+#1013	AnnotatorNotes T1013	PR:000013043 (POU domain, class 4, transcription factor 3)
+T1014	NCBITaxon 31763 31767	mice
+#1014	AnnotatorNotes T1014	NCBITaxon:10088 (Mus)
+T1015	GO_BP 31799 31806	hearing
+#1015	AnnotatorNotes T1015	GO:0007605 (sensory perception of sound)
+T1016	NCBITaxon 31847 31851	mice
+#1016	AnnotatorNotes T1016	NCBITaxon:10088 (Mus)
+T1017	EntrezGene 31870 31875	Brn3c
+#1017	AnnotatorNotes T1017	EG:18998
+T1018	PR 31870 31875	Brn3c
+#1018	AnnotatorNotes T1018	PR:000013043 (POU domain, class 4, transcription factor 3)
+T1019	NCBITaxon 31881 31886	mouse
+#1019	AnnotatorNotes T1019	NCBITaxon:10088 (Mus)
+T1020	SO 31887 31894	mutants
+#1020	AnnotatorNotes T1020	SO:0001059 (sequence_alteration)
+T1021	independent_continuant 31887 31894	mutants
+#1021	AnnotatorNotes T1021	independent_continuant
+T1022	GO_BP 31959 31966	hearing
+#1022	AnnotatorNotes T1022	GO:0007605 (sensory perception of sound)
+T1023	NCBITaxon 31975 31981	humans
+#1023	AnnotatorNotes T1023	NCBITaxon:9606 (Homo sapiens)
+T1024	CL 32050 32056	neuron
+#1024	AnnotatorNotes T1024	CL:0000540 (neuron)
+T1025	EntrezGene 32103 32115	human Pou4f3
+#1025	AnnotatorNotes T1025	EG:5459
+T1026	NCBITaxon 32103 32108	human
+#1026	AnnotatorNotes T1026	NCBITaxon:9606 (Homo sapiens)
+T1027	PR 32109 32115	Pou4f3
+#1027	AnnotatorNotes T1027	PR:000013043 (POU domain, class 4, transcription factor 3)
+T1028	CL 32157 32163	neuron
+#1028	AnnotatorNotes T1028	CL:0000540 (neuron)
+T1029	GO_BP 32231 32238	hearing
+#1029	AnnotatorNotes T1029	GO:0007605 (sensory perception of sound)
+T1030	NCBITaxon 32352 32355	cat
+#1030	AnnotatorNotes T1030	NCBITaxon:9685 (Felis catus)
+T1031	SO 32401 32407	mutant
+#1031	AnnotatorNotes T1031	SO:0001059 (sequence_alteration)
+T1032	NCBITaxon 32408 32412	mice
+#1032	AnnotatorNotes T1032	NCBITaxon:10088 (Mus)
+T1033	CL 32442 32452	hair cells
+#1033	AnnotatorNotes T1033	CL:0000855 (hair cell)
+T1034	GO_CC 32447 32452	cells
+#1034	AnnotatorNotes T1034	GO:0005623 (cell)
+T1035	CL 32459 32475	outer hair cells
+#1035	AnnotatorNotes T1035	CL:0000601 (outer hair cell)
+T1036	GO_CC 32470 32475	cells
+#1036	AnnotatorNotes T1036	GO:0005623 (cell)
+T1037	CL 32548 32558	hair cells
+#1037	AnnotatorNotes T1037	CL:0000855 (hair cell)
+T1038	GO_CC 32553 32558	cells
+#1038	AnnotatorNotes T1038	GO:0005623 (cell)
+T1039	GO_BP 32562 32569	forming
+#1039	AnnotatorNotes T1039	GO:0032502 (developmental process)
+T1040	NCBITaxon 32635 32639	mice
+#1040	AnnotatorNotes T1040	NCBITaxon:10088 (Mus)
+T1041	EntrezGene 32715 32720	Brn3c
+#1041	AnnotatorNotes T1041	EG:18998
+T1042	PR 32715 32720	Brn3c
+#1042	AnnotatorNotes T1042	PR:000013043 (POU domain, class 4, transcription factor 3)
+T1043	SO 32726 32733	mutants
+#1043	AnnotatorNotes T1043	SO:0001059 (sequence_alteration)
+T1044	independent_continuant 32726 32733	mutants
+#1044	AnnotatorNotes T1044	independent_continuant
+T1045	PR 32826 32830	BDNF
+#1045	AnnotatorNotes T1045	PR:000004716 (brain-derived neurotrophic factor)
+T1046	PR 32834 32838	NT-3
+#1046	AnnotatorNotes T1046	PR:000011459 (neurotrophin-3)
+T1047	SO 32844 32853	mutations
+#1047	AnnotatorNotes T1047	SO:0001059 (sequence_alteration)
+T1048	SO 32864 32871	mutants
+#1048	AnnotatorNotes T1048	SO:0001059 (sequence_alteration)
+T1049	independent_continuant 32864 32871	mutants
+#1049	AnnotatorNotes T1049	independent_continuant
+T1050	PR 32888 32901	neurotrophins
+#1050	AnnotatorNotes T1050	PR:000021998 (neurotrophin)
+T1051	CL 32929 32944	sensory neurons
+#1051	AnnotatorNotes T1051	CL:0000101 (sensory neuron)
+T1052	GO_BP 32929 32936	sensory
+#1052	AnnotatorNotes T1052	GO:0007600 (sensory perception)
+T1053	GO_BP 32952 32957	birth
+#1053	AnnotatorNotes T1053	GO:0007567 (parturition)
+T1054	CL 33085 33099	sensory neuron
+#1054	AnnotatorNotes T1054	CL:0000101 (sensory neuron)
+T1055	GO_BP 33085 33092	sensory
+#1055	AnnotatorNotes T1055	GO:0007600 (sensory perception)
+T1056	PR 33136 33148	neurotrophin
+#1056	AnnotatorNotes T1056	PR:000021998 (neurotrophin)
+T1057	GO_BP 33149 33158	signaling
+#1057	AnnotatorNotes T1057	GO:0007165 (signal transduction)
+T1058	SO 33193 33201	wildtype
+#1058	AnnotatorNotes T1058	SO:0000817 (wild_type)
+T1059	NCBITaxon 33202 33209	animals
+#1059	AnnotatorNotes T1059	NCBITaxon:33208 (Metazoa)
+T1060	PR 33234 33238	GDNF
+#1060	AnnotatorNotes T1060	PR:000007928 (glial cell line-derived neurotrophic factor)
+T1061	GO_BP 33280 33290	expression
+#1061	AnnotatorNotes T1061	GO:0010467 (gene expression)
+T1062	SO 33300 33307	mutants
+#1062	AnnotatorNotes T1062	SO:0001059 (sequence_alteration)
+T1063	independent_continuant 33300 33307	mutants
+#1063	AnnotatorNotes T1063	independent_continuant
+T1064	GO_BP 33482 33511	differentiation of hair cells
+#1064	AnnotatorNotes T1064	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T1065	CL 33501 33511	hair cells
+#1065	AnnotatorNotes T1065	CL:0000855 (hair cell)
+T1066	GO_CC 33506 33511	cells
+#1066	AnnotatorNotes T1066	GO:0005623 (cell)
+T1067	GO_BP 33555 33559	born
+#1067	AnnotatorNotes T1067	GO:0007567 (parturition)
+T1068	NCBITaxon 33643 33646	cat
+#1068	AnnotatorNotes T1068	NCBITaxon:9685 (Felis catus)
+T1069	CL 33726 33735	hair cell
+#1069	AnnotatorNotes T1069	CL:0000855 (hair cell)
+T1070	GO_CC 33731 33735	cell
+#1070	AnnotatorNotes T1070	GO:0005623 (cell)
+T1071	GO_BP 33760 33768	Breeding
+#1071	AnnotatorNotes T1071	GO:0000003 (reproduction)
+T1072	GO_BP 33760 33768	Breeding
+#1072	AnnotatorNotes T1072	GO:0007618 (mating)
+T1073	EntrezGene 33785 33790	Brn3c
+#1073	AnnotatorNotes T1073	EG:18998
+T1074	PR 33785 33790	Brn3c
+#1074	AnnotatorNotes T1074	PR:000013043 (POU domain, class 4, transcription factor 3)
+T1075	NCBITaxon 33791 33795	mice
+#1075	AnnotatorNotes T1075	NCBITaxon:10088 (Mus)
+T1076	GO_BP 33801 33805	bred
+#1076	AnnotatorNotes T1076	GO:0000003 (reproduction)
+T1077	GO_BP 33801 33805	bred
+#1077	AnnotatorNotes T1077	GO:0007618 (mating)
+T1078	NCBITaxon 33836 33840	Mice
+#1078	AnnotatorNotes T1078	NCBITaxon:10088 (Mus)
+T1079	EntrezGene 33860 33865	Brn3c
+#1079	AnnotatorNotes T1079	EG:18998
+T1080	PR 33860 33865	Brn3c
+#1080	AnnotatorNotes T1080	PR:000013043 (POU domain, class 4, transcription factor 3)
+T1081	SO 33871 33878	mutants
+#1081	AnnotatorNotes T1081	SO:0001059 (sequence_alteration)
+T1082	independent_continuant 33871 33878	mutants
+#1082	AnnotatorNotes T1082	independent_continuant
+T1083	NCBITaxon 33969 33976	animals
+#1083	AnnotatorNotes T1083	NCBITaxon:33208 (Metazoa)
+T1084	CHEBI 34007 34020	pentobarbital
+#1084	AnnotatorNotes T1084	CHEBI:7983 (pentobarbital)
+T1085	CHEBI 34083 34092	phosphate
+#1085	AnnotatorNotes T1085	CHEBI:26020 (phosphates)
+T1086	CHEBI 34083 34092	phosphate
+#1086	AnnotatorNotes T1086	CHEBI:35780 (phosphate ions)
+T1087	CHEBI 34518 34521	dye
+#1087	AnnotatorNotes T1087	CHEBI:37958 (dye)
+T1088	GO_BP 34789 34799	acetylated
+#1088	AnnotatorNotes T1088	GO:0006473 (protein amino acid acetylation)
+T1089	GO_CC 34800 34807	tubulin
+#1089	AnnotatorNotes T1089	GO:0045298 (tubulin complex)
+T1090	GO_BP 34988 34998	acetylated
+#1090	AnnotatorNotes T1090	GO:0006473 (protein amino acid acetylation)
+T1091	GO_CC 34999 35006	tubulin
+#1091	AnnotatorNotes T1091	GO:0045298 (tubulin complex)
+T1092	GO_CC 35007 35017	antibodies
+#1092	AnnotatorNotes T1092	GO:0019814 (immunoglobulin complex)
+T1093	GO_CC 35059 35069	antibodies
+#1093	AnnotatorNotes T1093	GO:0019814 (immunoglobulin complex)
+T1094	GO_BP 35070 35080	conjugated
+#1094	AnnotatorNotes T1094	GO:0043412 (biopolymer modification)
+T1095	CHEBI 35136 35140	H2O2
+#1095	AnnotatorNotes T1095	CHEBI:16240 (hydrogen peroxide)
+T1096	sub 35137 35138	2
+#1096	AnnotatorNotes T1096	sub (null)
+T1097	sub 35139 35140	2
+#1097	AnnotatorNotes T1097	sub (null)
+T1098	GO_BP 35149 35161	distribution
+#1098	AnnotatorNotes T1098	GO:0051179 (localization)
+T1099	CHEBI 35267 35272	epoxy
+#1099	AnnotatorNotes T1099	CHEBI:37407 (epoxy compounds)
+T1100	CHEBI 35267 35272	epoxy
+#1100	AnnotatorNotes T1100	CHEBI:30721 (epoxy group)
+T1101	GO_BP 35341 35348	sensory
+#1101	AnnotatorNotes T1101	GO:0007600 (sensory perception)
+T1102	EntrezGene 35533 35538	Brn3c
+#1102	AnnotatorNotes T1102	EG:18998
+T1103	PR 35533 35538	Brn3c
+#1103	AnnotatorNotes T1103	PR:000013043 (POU domain, class 4, transcription factor 3)
+T1104	SO 35544 35551	mutants
+#1104	AnnotatorNotes T1104	SO:0001059 (sequence_alteration)
+T1105	independent_continuant 35544 35551	mutants
+#1105	AnnotatorNotes T1105	independent_continuant
+T1106	SO 35576 35584	wildtype
+#1106	AnnotatorNotes T1106	SO:0000817 (wild_type)
+T1107	italic 35985 35992	In situ
+#1107	AnnotatorNotes T1107	italic (null)
+T1108	GO_MF 35993 36006	hybridization
+#1108	AnnotatorNotes T1108	GO:0000739 (DNA strand annealing activity)
+T1109	GO_MF 35993 36006	hybridization
+#1109	AnnotatorNotes T1109	GO:0033592 (RNA strand annealing activity)
+T1110	EntrezGene 36026 36031	Brn3c
+#1110	AnnotatorNotes T1110	EG:18998
+T1111	PR 36026 36031	Brn3c
+#1111	AnnotatorNotes T1111	PR:000013043 (POU domain, class 4, transcription factor 3)
+T1112	SO 36037 36044	mutants
+#1112	AnnotatorNotes T1112	SO:0001059 (sequence_alteration)
+T1113	independent_continuant 36037 36044	mutants
+#1113	AnnotatorNotes T1113	independent_continuant
+T1114	EntrezGene 36149 36153	BDNF
+#1114	AnnotatorNotes T1114	EG:12064
+T1115	PR 36149 36153	BDNF
+#1115	AnnotatorNotes T1115	PR:000004716 (brain-derived neurotrophic factor)
+T1116	EntrezGene 36158 36162	NT-3
+#1116	AnnotatorNotes T1116	EG:18205
+T1117	PR 36158 36162	NT-3
+#1117	AnnotatorNotes T1117	PR:000011459 (neurotrophin-3)
+T1118	CHEBI 36163 36167	mRNA
+#1118	AnnotatorNotes T1118	CHEBI:33699 (messenger RNA)
+T1119	SO 36163 36167	mRNA
+#1119	AnnotatorNotes T1119	SO:0000234 (mRNA)
+T1120	italic 36178 36185	in situ
+#1120	AnnotatorNotes T1120	italic (null)
+T1121	CL 36438 36448	hair cells
+#1121	AnnotatorNotes T1121	CL:0000855 (hair cell)
+T1122	GO_CC 36443 36448	cells
+#1122	AnnotatorNotes T1122	GO:0005623 (cell)
+T1123	CL 36471 36481	hair cells
+#1123	AnnotatorNotes T1123	CL:0000855 (hair cell)
+T1124	GO_CC 36476 36481	cells
+#1124	AnnotatorNotes T1124	GO:0005623 (cell)
+T1125	CL 36486 36493	neurons
+#1125	AnnotatorNotes T1125	CL:0000540 (neuron)
+T1126	CL 36548 36557	hair cell
+#1126	AnnotatorNotes T1126	CL:0000855 (hair cell)
+T1127	GO_CC 36553 36557	cell
+#1127	AnnotatorNotes T1127	GO:0005623 (cell)
+T1128	GO_CC 36567 36577	myosin VII
+#1128	AnnotatorNotes T1128	GO:0031477 (myosin VII complex)
+T1129	PR 36579 36586	MyoVIIa
+#1129	AnnotatorNotes T1129	PR:000010869 (myosin-VIIa)
+T1130	GO_CC 36588 36596	antibody
+#1130	AnnotatorNotes T1130	GO:0019814 (immunoglobulin complex)
+T1131	CL 36769 36779	hair cells
+#1131	AnnotatorNotes T1131	CL:0000855 (hair cell)
+T1132	GO_CC 36774 36779	cells
+#1132	AnnotatorNotes T1132	GO:0005623 (cell)
+T1133	CL 36840 36850	hair cells
+#1133	AnnotatorNotes T1133	CL:0000855 (hair cell)
+T1134	GO_CC 36845 36850	cells
+#1134	AnnotatorNotes T1134	GO:0005623 (cell)
+T1135	CL 36854 36861	neurons
+#1135	AnnotatorNotes T1135	CL:0000540 (neuron)
+T1136	GO_BP 36889 36896	sensory
+#1136	AnnotatorNotes T1136	GO:0007600 (sensory perception)
+T1137	GO_BP 37041 37048	sensory
+#1137	AnnotatorNotes T1137	GO:0007600 (sensory perception)
+T1138	CL 37119 37126	neurons
+#1138	AnnotatorNotes T1138	CL:0000540 (neuron)
+T1139	CL 37130 37135	cells
+#1139	AnnotatorNotes T1139	CL:0000000 (cell)
+T1140	GO_CC 37130 37135	cells
+#1140	AnnotatorNotes T1140	GO:0005623 (cell)
+T1141	GO_CC 37149 37156	nucleus
+#1141	AnnotatorNotes T1141	GO:0005634 (nucleus)
+T1142	GO_CC 37161 37169	nucleoli
+#1142	AnnotatorNotes T1142	GO:0005730 (nucleolus)
+T1143	SO 37389 37397	mutation
+#1143	AnnotatorNotes T1143	SO:0001059 (sequence_alteration)
+T1144	GO_BP 37399 37403	bred
+#1144	AnnotatorNotes T1144	GO:0007618 (mating)
+T1145	NCBITaxon 37412 37416	mice
+#1145	AnnotatorNotes T1145	NCBITaxon:10088 (Mus)
+T1146	EntrezGene 37509 37515	MyoVII
+#1146	AnnotatorNotes T1146	EG:17921
+T1147	GO_MF 37677 37690	hybridization
+#1147	AnnotatorNotes T1147	GO:0000739 (DNA strand annealing activity)
+T1148	GO_MF 37677 37690	hybridization
+#1148	AnnotatorNotes T1148	GO:0033592 (RNA strand annealing activity)
+T1149	PR 37695 37708	neurotrophins
+#1149	AnnotatorNotes T1149	PR:000021998 (neurotrophin)
+T1150	CL 37799 37807	neuronal
+#1150	AnnotatorNotes T1150	CL:0000540 (neuron)
+T1151	GO_BP 37844 37854	acetylated
+#1151	AnnotatorNotes T1151	GO:0006473 (protein amino acid acetylation)
+T1152	GO_CC 37855 37862	tubulin
+#1152	AnnotatorNotes T1152	GO:0045298 (tubulin complex)
+T1153	GO_BP 38031 38036	Birth
+#1153	AnnotatorNotes T1153	GO:0007567 (parturition)

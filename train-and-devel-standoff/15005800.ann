@@ -1,0 +1,3612 @@
+T1	GO_BP 5 16	gestational
+#1	AnnotatorNotes T1	GO:0007565 (female pregnancy)
+T2	NCBITaxon 38 43	mouse
+#2	AnnotatorNotes T2	NCBITaxon:10088 (Mus)
+T3	CHEBI 119 127	squalene
+#3	AnnotatorNotes T3	CHEBI:15440 (squalene)
+T4	GO_BP 128 152	cholesterol biosynthesis
+#4	AnnotatorNotes T4	GO:0006695 (cholesterol biosynthetic process)
+T5	CHEBI 128 139	cholesterol
+#5	AnnotatorNotes T5	CHEBI:16113 (cholesterol)
+T6	NCBITaxon 170 179	mammalian
+#6	AnnotatorNotes T6	NCBITaxon:40674 (Mammalia)
+T7	GO_BP 180 201	embryonic development
+#7	AnnotatorNotes T7	GO:0009790 (embryonic development)
+T8	NCBITaxon 212 216	mice
+#8	AnnotatorNotes T8	NCBITaxon:10088 (Mus)
+T9	GO_MF 236 267	dehydrocholesterol Δ7-reductase
+#9	AnnotatorNotes T9	GO:0047598 (7-dehydrocholesterol reductase activity)
+T10	independent_continuant 236 267	dehydrocholesterol Δ7-reductase
+#10	AnnotatorNotes T10	independent_continuant
+T11	PR 236 267	dehydrocholesterol Δ7-reductase
+#11	AnnotatorNotes T11	PR:000006454 (7-dehydrocholesterol reductase)
+T12	EntrezGene 236 267	dehydrocholesterol Δ7-reductase
+#12	AnnotatorNotes T12	EG:13360
+T13	GO_MF 269 274	Dhcr7
+#13	AnnotatorNotes T13	GO:0047598 (7-dehydrocholesterol reductase activity)
+T14	EntrezGene 269 274	Dhcr7
+#14	AnnotatorNotes T14	EG:13360
+T15	independent_continuant 269 274	Dhcr7
+#15	AnnotatorNotes T15	independent_continuant
+T16	PR 269 274	Dhcr7
+#16	AnnotatorNotes T16	PR:000006454 (7-dehydrocholesterol reductase)
+T17	NCBITaxon 293 298	human
+#17	AnnotatorNotes T17	NCBITaxon:9606 (Homo sapiens)
+T18	GO_BP 338 341	die
+#18	AnnotatorNotes T18	GO:0016265 (death)
+T19	GO_BP 361 366	birth
+#19	AnnotatorNotes T19	GO:0007567 (parturition)
+T20	GO_BP 454 459	death
+#20	AnnotatorNotes T20	GO:0016265 (death)
+T21	GO_BP 504 517	developmental
+#21	AnnotatorNotes T21	GO:0032502 (developmental process)
+T22	CHEBI 605 616	cholesterol
+#22	AnnotatorNotes T22	CHEBI:16113 (cholesterol)
+T23	GO_BP 631 647	lung development
+#23	AnnotatorNotes T23	GO:0030324 (lung development)
+T24	NCBITaxon 657 661	mice
+#24	AnnotatorNotes T24	NCBITaxon:10088 (Mus)
+T25	GO_BP 675 681	growth
+#25	AnnotatorNotes T25	GO:0040007 (growth)
+T26	italic 737 742	Dhcr7
+#26	AnnotatorNotes T26	italic (null)
+T27	PR 737 742	Dhcr7
+#27	AnnotatorNotes T27	PR:000006454 (7-dehydrocholesterol reductase)
+T28	independent_continuant 737 742	Dhcr7
+#28	AnnotatorNotes T28	independent_continuant
+T29	EntrezGene 737 742	Dhcr7
+#29	AnnotatorNotes T29	EG:13360
+T30	GO_MF 737 742	Dhcr7
+#30	AnnotatorNotes T30	GO:0047598 (7-dehydrocholesterol reductase activity)
+T31	sup 742 745	-/-
+#31	AnnotatorNotes T31	sup (null)
+T32	italic 859 864	Dhcr7
+#32	AnnotatorNotes T32	italic (null)
+T33	EntrezGene 859 864	Dhcr7
+#33	AnnotatorNotes T33	EG:13360
+T34	PR 859 864	Dhcr7
+#34	AnnotatorNotes T34	PR:000006454 (7-dehydrocholesterol reductase)
+T35	GO_MF 859 864	Dhcr7
+#35	AnnotatorNotes T35	GO:0047598 (7-dehydrocholesterol reductase activity)
+T36	independent_continuant 859 864	Dhcr7
+#36	AnnotatorNotes T36	independent_continuant
+T37	sup 864 867	-/-
+#37	AnnotatorNotes T37	sup (null)
+T38	GO_BP 904 927	branching morphogenesis
+#38	AnnotatorNotes T38	GO:0001763 (morphogenesis of a branching structure)
+T39	italic 951 956	Dhcr7
+#39	AnnotatorNotes T39	italic (null)
+T40	independent_continuant 951 956	Dhcr7
+#40	AnnotatorNotes T40	independent_continuant
+T41	PR 951 956	Dhcr7
+#41	AnnotatorNotes T41	PR:000006454 (7-dehydrocholesterol reductase)
+T42	GO_MF 951 956	Dhcr7
+#42	AnnotatorNotes T42	GO:0047598 (7-dehydrocholesterol reductase activity)
+T43	EntrezGene 951 956	Dhcr7
+#43	AnnotatorNotes T43	EG:13360
+T44	sup 956 959	-/-
+#44	AnnotatorNotes T44	sup (null)
+T45	GO_BP 1011 1022	development
+#45	AnnotatorNotes T45	GO:0032502 (developmental process)
+T46	italic 1042 1047	Dhcr7
+#46	AnnotatorNotes T46	italic (null)
+T47	independent_continuant 1042 1047	Dhcr7
+#47	AnnotatorNotes T47	independent_continuant
+T48	PR 1042 1047	Dhcr7
+#48	AnnotatorNotes T48	PR:000006454 (7-dehydrocholesterol reductase)
+T49	EntrezGene 1042 1047	Dhcr7
+#49	AnnotatorNotes T49	EG:13360
+T50	GO_MF 1042 1047	Dhcr7
+#50	AnnotatorNotes T50	GO:0047598 (7-dehydrocholesterol reductase activity)
+T51	sup 1047 1050	-/-
+#51	AnnotatorNotes T51	sup (null)
+T52	GO_BP 1092 1112	alveolar development
+#52	AnnotatorNotes T52	GO:0048286 (alveolus development)
+T53	GO_BP 1144 1162	cell proliferation
+#53	AnnotatorNotes T53	GO:0008283 (cell proliferation)
+T54	CL 1144 1148	cell
+#54	AnnotatorNotes T54	CL:0000000 (cell)
+T55	GO_CC 1144 1148	cell
+#55	AnnotatorNotes T55	GO:0005623 (cell)
+T56	GO_BP 1172 1223	differentiation of type I alveolar epithelial cells
+#56	AnnotatorNotes T56	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T57	CL 1207 1223	epithelial cells
+#57	AnnotatorNotes T57	CL:0000066 (epithelial cell)
+T58	GO_CC 1218 1223	cells
+#58	AnnotatorNotes T58	GO:0005623 (cell)
+T59	GO_BP 1243 1263	vascular development
+#59	AnnotatorNotes T59	GO:0001944 (vasculature development)
+T60	GO_BP 1300 1315	Differentiation
+#60	AnnotatorNotes T60	GO:0030154 (cell differentiation)
+T61	CHEBI 1367 1377	surfactant
+#61	AnnotatorNotes T61	CHEBI:35195 (surfactant)
+T62	CHEBI 1378 1385	protein
+#62	AnnotatorNotes T62	CHEBI:36080 (proteins)
+T63	CHEBI 1391 1396	mRNAs
+#63	AnnotatorNotes T63	CHEBI:33699 (messenger RNA)
+T64	SO 1391 1396	mRNAs
+#64	AnnotatorNotes T64	SO:0000234 (mRNA)
+T65	EntrezGene 1401 1405	SP-C
+#65	AnnotatorNotes T65	EG:20389
+T66	PR 1401 1405	SP-C
+#66	AnnotatorNotes T66	PR:000014774 (pulmonary surfactant-associated protein C)
+T67	CHEBI 1446 1457	cholesterol
+#67	AnnotatorNotes T67	CHEBI:16113 (cholesterol)
+T68	GO_BP 1518 1541	transfer of cholesterol
+#68	AnnotatorNotes T68	GO:0030301 (cholesterol transport)
+T69	CHEBI 1530 1541	cholesterol
+#69	AnnotatorNotes T69	CHEBI:16113 (cholesterol)
+T70	GO_BP 1594 1606	localization
+#70	AnnotatorNotes T70	GO:0051179 (localization)
+T71	EntrezGene 1610 1624	sonic hedgehog
+#71	AnnotatorNotes T71	EG:20423
+T72	PR 1610 1624	sonic hedgehog
+#72	AnnotatorNotes T72	PR:000014841 (sonic hedgehog protein)
+T73	EntrezGene 1626 1629	Shh
+#73	AnnotatorNotes T73	EG:20423
+T74	PR 1626 1629	Shh
+#74	AnnotatorNotes T74	PR:000014841 (sonic hedgehog protein)
+T75	SO 1716 1725	wild-type
+#75	AnnotatorNotes T75	SO:0000817 (wild_type)
+T76	EntrezGene 1736 1739	Shh
+#76	AnnotatorNotes T76	EG:20423
+T77	PR 1736 1739	Shh
+#77	AnnotatorNotes T77	PR:000014841 (sonic hedgehog protein)
+T78	GO_BP 1740 1754	autoprocessing
+#78	AnnotatorNotes T78	GO:0016540 (protein autoprocessing)
+T79	italic 1789 1794	Dhcr7
+#79	AnnotatorNotes T79	italic (null)
+T80	independent_continuant 1789 1794	Dhcr7
+#80	AnnotatorNotes T80	independent_continuant
+T81	EntrezGene 1789 1794	Dhcr7
+#81	AnnotatorNotes T81	EG:13360
+T82	PR 1789 1794	Dhcr7
+#82	AnnotatorNotes T82	PR:000006454 (7-dehydrocholesterol reductase)
+T83	GO_MF 1789 1794	Dhcr7
+#83	AnnotatorNotes T83	GO:0047598 (7-dehydrocholesterol reductase activity)
+T84	sup 1794 1797	-/-
+#84	AnnotatorNotes T84	sup (null)
+T85	CHEBI 1844 1855	cholesterol
+#85	AnnotatorNotes T85	CHEBI:16113 (cholesterol)
+T86	italic 1877 1882	Dhcr7
+#86	AnnotatorNotes T86	italic (null)
+T87	PR 1877 1882	Dhcr7
+#87	AnnotatorNotes T87	PR:000006454 (7-dehydrocholesterol reductase)
+T88	EntrezGene 1877 1882	Dhcr7
+#88	AnnotatorNotes T88	EG:13360
+T89	GO_MF 1877 1882	Dhcr7
+#89	AnnotatorNotes T89	GO:0047598 (7-dehydrocholesterol reductase activity)
+T90	independent_continuant 1877 1882	Dhcr7
+#90	AnnotatorNotes T90	independent_continuant
+T91	GO_BP 1984 1997	differentiate
+#91	AnnotatorNotes T91	GO:0030154 (cell differentiation)
+T92	GO_BP 2023 2038	differentiation
+#92	AnnotatorNotes T92	GO:0030154 (cell differentiation)
+T93	GO_BP 2095 2106	gestational
+#93	AnnotatorNotes T93	GO:0007565 (female pregnancy)
+T94	CHEBI 2119 2128	molecular
+#94	AnnotatorNotes T94	CHEBI:36357 (polyatomic entities)
+T95	GO_BP 2129 2167	mechanism of impaired lung development
+#95	AnnotatorNotes T95	"mechanism of .. lung development" GO:0030324 (lung development)
+T96	CHEBI 2184 2190	sterol
+#96	AnnotatorNotes T96	CHEBI:15889 (sterols)
+T97	italic 2205 2210	Dhcr7
+#97	AnnotatorNotes T97	italic (null)
+T98	PR 2205 2210	Dhcr7
+#98	AnnotatorNotes T98	PR:000006454 (7-dehydrocholesterol reductase)
+T99	independent_continuant 2205 2210	Dhcr7
+#99	AnnotatorNotes T99	independent_continuant
+T100	EntrezGene 2205 2210	Dhcr7
+#100	AnnotatorNotes T100	EG:13360
+T101	GO_MF 2205 2210	Dhcr7
+#101	AnnotatorNotes T101	GO:0047598 (7-dehydrocholesterol reductase activity)
+T102	EntrezGene 2299 2302	Shh
+#102	AnnotatorNotes T102	EG:20423
+T103	PR 2299 2302	Shh
+#103	AnnotatorNotes T103	PR:000014841 (sonic hedgehog protein)
+T104	CHEBI 2360 2371	Cholesterol
+#104	AnnotatorNotes T104	CHEBI:16113 (cholesterol)
+T105	GO_CC 2387 2395	membrane
+#105	AnnotatorNotes T105	GO:0016020 (membrane)
+T106	NCBITaxon 2415 2424	mammalian
+#106	AnnotatorNotes T106	NCBITaxon:40674 (Mammalia)
+T107	NCBITaxon 2426 2433	reptile
+#107	AnnotatorNotes T107	NCBITaxon:8459 (Testudines)
+T108	NCBITaxon 2426 2433	reptile
+#108	AnnotatorNotes T108	NCBITaxon:8493 (Crocodylidae)
+T109	NCBITaxon 2426 2433	reptile
+#109	AnnotatorNotes T109	NCBITaxon:8504 (Lepidosauria)
+T110	NCBITaxon 2438 2443	avian
+#110	AnnotatorNotes T110	NCBITaxon:8782 (Aves)
+T111	CL 2444 2449	cells
+#111	AnnotatorNotes T111	CL:0000000 (cell)
+T112	GO_CC 2444 2449	cells
+#112	AnnotatorNotes T112	GO:0005623 (cell)
+T113	NCBITaxon 2474 2483	organisms
+#113	AnnotatorNotes T113	NCBITaxon:1 (root)
+T114	NCBITaxon 2497 2517	eukaryotic organisms
+#114	AnnotatorNotes T114	NCBITaxon:2759 (Eukaryota)
+T115	NCBITaxon 2548 2554	plants
+#115	AnnotatorNotes T115	NCBITaxon:3193 (Embryophyta)
+T116	NCBITaxon 2559 2564	fungi
+#116	AnnotatorNotes T116	NCBITaxon:4751 (Fungi)
+T117	CHEBI 2566 2577	cholesterol
+#117	AnnotatorNotes T117	CHEBI:16113 (cholesterol)
+T118	CHEBI 2583 2590	sterols
+#118	AnnotatorNotes T118	CHEBI:15889 (sterols)
+T119	CHEBI 2592 2604	phytosterols
+#119	AnnotatorNotes T119	CHEBI:26125 (phytosterols)
+T120	CHEBI 2606 2616	ergosterol
+#120	AnnotatorNotes T120	CHEBI:16933 (ergosterol)
+T121	CHEBI 2646 2657	cholesterol
+#121	AnnotatorNotes T121	CHEBI:16113 (cholesterol)
+T122	CHEBI 2680 2687	sterols
+#122	AnnotatorNotes T122	CHEBI:15889 (sterols)
+T123	GO_CC 2691 2711	biological membranes
+#123	AnnotatorNotes T123	GO:0016020 (membrane)
+T124	GO_CC 2801 2808	caveoli
+#124	AnnotatorNotes T124	GO:0005901 (caveola)
+T125	CHEBI 2875 2886	cholesterol
+#125	AnnotatorNotes T125	CHEBI:16113 (cholesterol)
+T126	CHEBI 2953 2964	cholesterol
+#126	AnnotatorNotes T126	CHEBI:16113 (cholesterol)
+T127	CHEBI 2996 3007	cholesterol
+#127	AnnotatorNotes T127	CHEBI:16113 (cholesterol)
+T128	GO_BP 3060 3081	embryonic development
+#128	AnnotatorNotes T128	GO:0009790 (embryonic development)
+T129	SO 3185 3194	mutations
+#129	AnnotatorNotes T129	SO:0001059 (sequence_alteration)
+T130	GO_MF 3198 3203	DHCR7
+#130	AnnotatorNotes T130	GO:0047598 (7-dehydrocholesterol reductase activity)
+T131	PR 3198 3203	DHCR7
+#131	AnnotatorNotes T131	PR:000006454 (7-dehydrocholesterol reductase)
+T132	EntrezGene 3198 3203	DHCR7
+#132	AnnotatorNotes T132	EG:1717
+T133	independent_continuant 3198 3203	DHCR7
+#133	AnnotatorNotes T133	independent_continuant
+T134	GO_MF 3229 3262	7-dehydrocholesterol Δ7-reductase
+#134	AnnotatorNotes T134	GO:0047598 (7-dehydrocholesterol reductase activity)
+T135	PR 3229 3262	7-dehydrocholesterol Δ7-reductase
+#135	AnnotatorNotes T135	PR:000006454 (7-dehydrocholesterol reductase)
+T136	EntrezGene 3229 3262	7-dehydrocholesterol Δ7-reductase
+#136	AnnotatorNotes T136	EG:1717
+T137	independent_continuant 3229 3262	7-dehydrocholesterol Δ7-reductase
+#137	AnnotatorNotes T137	independent_continuant
+T138	GO_BP 3293 3317	cholesterol biosynthesis
+#138	AnnotatorNotes T138	GO:0006695 (cholesterol biosynthetic process)
+T139	CHEBI 3293 3304	cholesterol
+#139	AnnotatorNotes T139	CHEBI:16113 (cholesterol)
+T140	CHEBI 3394 3402	squalene
+#140	AnnotatorNotes T140	CHEBI:15440 (squalene)
+T141	GO_BP 3403 3435	cholesterol biosynthesis pathway
+#141	AnnotatorNotes T141	GO:0006695 (cholesterol biosynthetic process)
+T142	CHEBI 3403 3414	cholesterol
+#142	AnnotatorNotes T142	CHEBI:16113 (cholesterol)
+T143	GO_CC 3479 3480	X
+#143	AnnotatorNotes T143	GO:0000805 (X chromosome)
+T144	SO 3574 3581	Genetic
+#144	AnnotatorNotes T144	SO:0000704 (gene)
+T145	italic 3600 3605	Dhcr7
+#145	AnnotatorNotes T145	italic (null)
+T146	PR 3600 3605	Dhcr7
+#146	AnnotatorNotes T146	PR:000006454 (7-dehydrocholesterol reductase)
+T147	independent_continuant 3600 3605	Dhcr7
+#147	AnnotatorNotes T147	independent_continuant
+T148	EntrezGene 3600 3605	Dhcr7
+#148	AnnotatorNotes T148	EG:13360
+T149	GO_MF 3600 3605	Dhcr7
+#149	AnnotatorNotes T149	GO:0047598 (7-dehydrocholesterol reductase activity)
+T150	NCBITaxon 3651 3655	mice
+#150	AnnotatorNotes T150	NCBITaxon:10088 (Mus)
+T151	italic 3675 3680	Dhcr7
+#151	AnnotatorNotes T151	italic (null)
+T152	PR 3675 3680	Dhcr7
+#152	AnnotatorNotes T152	PR:000006454 (7-dehydrocholesterol reductase)
+T153	independent_continuant 3675 3680	Dhcr7
+#153	AnnotatorNotes T153	independent_continuant
+T154	EntrezGene 3675 3680	Dhcr7
+#154	AnnotatorNotes T154	EG:13360
+T155	GO_MF 3675 3680	Dhcr7
+#155	AnnotatorNotes T155	GO:0047598 (7-dehydrocholesterol reductase activity)
+T156	SO 3681 3685	gene
+#156	AnnotatorNotes T156	SO:0000704 (gene)
+T157	CHEBI 3714 3725	cholesterol
+#157	AnnotatorNotes T157	CHEBI:16113 (cholesterol)
+T158	CHEBI 3765 3776	cholesterol
+#158	AnnotatorNotes T158	CHEBI:16113 (cholesterol)
+T159	GO_BP 3901 3914	developmental
+#159	AnnotatorNotes T159	GO:0032502 (developmental process)
+T160	GO_BP 3933 3937	died
+#160	AnnotatorNotes T160	GO:0016265 (death)
+T161	GO_BP 3956 3961	birth
+#161	AnnotatorNotes T161	GO:0007567 (parturition)
+T162	NCBITaxon 3973 3978	mouse
+#162	AnnotatorNotes T162	NCBITaxon:10088 (Mus)
+T163	GO_BP 3991 4000	generated
+#163	AnnotatorNotes T163	GO:0000003 (reproduction)
+T164	SO 4004 4013	replacing
+#164	AnnotatorNotes T164	SO:0000048 (substitute)
+T165	SO 4014 4019	exons
+#165	AnnotatorNotes T165	SO:0000147 (exon)
+T166	SO 4029 4041	part of exon
+#166	AnnotatorNotes T166	SO:0000852 (exon_region)
+T167	SO 4037 4041	exon
+#167	AnnotatorNotes T167	SO:0000147 (exon)
+T168	EntrezGene 4051 4063	murine Dhcr7
+#168	AnnotatorNotes T168	EG:13360
+T169	NCBITaxon 4051 4057	murine
+#169	AnnotatorNotes T169	NCBITaxon:39107 (Murinae)
+T170	italic 4058 4063	Dhcr7
+#170	AnnotatorNotes T170	italic (null)
+T171	independent_continuant 4058 4063	Dhcr7
+#171	AnnotatorNotes T171	independent_continuant
+T172	GO_MF 4058 4063	Dhcr7
+#172	AnnotatorNotes T172	GO:0047598 (7-dehydrocholesterol reductase activity)
+T173	PR 4058 4063	Dhcr7
+#173	AnnotatorNotes T173	PR:000006454 (7-dehydrocholesterol reductase)
+T174	SO 4064 4068	gene
+#174	AnnotatorNotes T174	SO:0000704 (gene)
+T175	GO_BP 4184 4200	lung development
+#175	AnnotatorNotes T175	GO:0030324 (lung development)
+T176	italic 4304 4309	Dhcr7
+#176	AnnotatorNotes T176	italic (null)
+T177	PR 4304 4309	Dhcr7
+#177	AnnotatorNotes T177	PR:000006454 (7-dehydrocholesterol reductase)
+T178	EntrezGene 4304 4309	Dhcr7
+#178	AnnotatorNotes T178	EG:13360
+T179	independent_continuant 4304 4309	Dhcr7
+#179	AnnotatorNotes T179	independent_continuant
+T180	GO_MF 4304 4309	Dhcr7
+#180	AnnotatorNotes T180	GO:0047598 (7-dehydrocholesterol reductase activity)
+T181	GO_BP 4415 4420	death
+#181	AnnotatorNotes T181	GO:0016265 (death)
+T182	italic 4424 4429	Dhcr7
+#182	AnnotatorNotes T182	italic (null)
+T183	PR 4424 4429	Dhcr7
+#183	AnnotatorNotes T183	PR:000006454 (7-dehydrocholesterol reductase)
+T184	EntrezGene 4424 4429	Dhcr7
+#184	AnnotatorNotes T184	EG:13360
+T185	GO_MF 4424 4429	Dhcr7
+#185	AnnotatorNotes T185	GO:0047598 (7-dehydrocholesterol reductase activity)
+T186	independent_continuant 4424 4429	Dhcr7
+#186	AnnotatorNotes T186	independent_continuant
+T187	sup 4429 4432	-/-
+#187	AnnotatorNotes T187	sup (null)
+T188	italic 4445 4450	Dhcr7
+#188	AnnotatorNotes T188	italic (null)
+T189	PR 4445 4450	Dhcr7
+#189	AnnotatorNotes T189	PR:000006454 (7-dehydrocholesterol reductase)
+T190	independent_continuant 4445 4450	Dhcr7
+#190	AnnotatorNotes T190	independent_continuant
+T191	GO_MF 4445 4450	Dhcr7
+#191	AnnotatorNotes T191	GO:0047598 (7-dehydrocholesterol reductase activity)
+T192	EntrezGene 4445 4450	Dhcr7
+#192	AnnotatorNotes T192	EG:13360
+T193	NCBITaxon 4460 4464	mice
+#193	AnnotatorNotes T193	NCBITaxon:10088 (Mus)
+T194	NCBITaxon 4480 4485	human
+#194	AnnotatorNotes T194	NCBITaxon:9606 (Homo sapiens)
+T195	GO_BP 4643 4656	Developmental
+#195	AnnotatorNotes T195	GO:0032502 (developmental process)
+T196	GO_BP 4841 4852	development
+#196	AnnotatorNotes T196	GO:0032502 (developmental process)
+T197	NCBITaxon 4860 4869	Mammalian
+#197	AnnotatorNotes T197	NCBITaxon:40674 (Mammalia)
+T198	GO_BP 4905 4914	developed
+#198	AnnotatorNotes T198	GO:0032502 (developmental process)
+T199	GO_BP 4942 4954	gas exchange
+#199	AnnotatorNotes T199	GO:0007585 (respiratory gaseous exchange)
+T200	GO_BP 4978 4983	birth
+#200	AnnotatorNotes T200	GO:0007567 (parturition)
+T201	GO_BP 5012 5023	development
+#201	AnnotatorNotes T201	GO:0032502 (developmental process)
+T202	GO_BP 5028 5038	maturation
+#202	AnnotatorNotes T202	GO:0021700 (developmental maturation)
+T203	italic 5051 5059	in utero
+#203	AnnotatorNotes T203	italic (null)
+T204	GO_BP 5061 5077	Lung development
+#204	AnnotatorNotes T204	GO:0030324 (lung development)
+T205	GO_BP 5113 5136	branching morphogenesis
+#205	AnnotatorNotes T205	GO:0001763 (morphogenesis of a branching structure)
+T206	GO_BP 5165 5176	development
+#206	AnnotatorNotes T206	GO:0032502 (developmental process)
+T207	GO_BP 5187 5201	vasculogenesis
+#207	AnnotatorNotes T207	GO:0001570 (vasculogenesis)
+T208	GO_BP 5203 5227	cellular differentiation
+#208	AnnotatorNotes T208	GO:0030154 (cell differentiation)
+T209	CL 5203 5211	cellular
+#209	AnnotatorNotes T209	CL:0000000 (cell)
+T210	GO_CC 5203 5211	cellular
+#210	AnnotatorNotes T210	GO:0005623 (cell)
+T211	GO_BP 5241 5251	maturation
+#211	AnnotatorNotes T211	GO:0021700 (developmental maturation)
+T212	GO_BP 5265 5271	growth
+#212	AnnotatorNotes T212	GO:0040007 (growth)
+T213	NCBITaxon 5288 5293	mouse
+#213	AnnotatorNotes T213	NCBITaxon:10088 (Mus)
+T214	GO_BP 5294 5310	lung development
+#214	AnnotatorNotes T214	GO:0030324 (lung development)
+T215	GO_BP 5602 5623	embryonic development
+#215	AnnotatorNotes T215	GO:0009790 (embryonic development)
+T216	CHEBI 5629 5640	cholesterol
+#216	AnnotatorNotes T216	CHEBI:16113 (cholesterol)
+T217	GO_BP 5658 5668	maturation
+#217	AnnotatorNotes T217	GO:0051604 (protein maturation)
+T218	GO_MF 5678 5688	morphogens
+#218	AnnotatorNotes T218	GO:0016015 (morphogen activity)
+T219	independent_continuant 5678 5688	morphogens
+#219	AnnotatorNotes T219	independent_continuant
+T220	PR 5702 5716	sonic hedgehog
+#220	AnnotatorNotes T220	PR:000014841 (sonic hedgehog protein)
+T221	GO_BP 5708 5740	hedgehog (Shh) signaling cascade
+#221	AnnotatorNotes T221	"hedgehog .. signaling cascade" GO:0007224 (smoothened signaling pathway)
+T222	PR 5718 5721	Shh
+#222	AnnotatorNotes T222	PR:000014841 (sonic hedgehog protein)
+T223	GO_BP 5782 5798	lung development
+#223	AnnotatorNotes T223	GO:0030324 (lung development)
+T224	PR 5816 5819	Shh
+#224	AnnotatorNotes T224	PR:000014841 (sonic hedgehog protein)
+T225	GO_BP 5885 5908	branching morphogenesis
+#225	AnnotatorNotes T225	GO:0001763 (morphogenesis of a branching structure)
+T226	GO_BP 5943 5958	differentiation
+#226	AnnotatorNotes T226	GO:0030154 (cell differentiation)
+T227	PR 6002 6005	Shh
+#227	AnnotatorNotes T227	PR:000014841 (sonic hedgehog protein)
+T228	GO_BP 6144 6197	proliferation of both epithelial and mesenchyme cells
+#228	AnnotatorNotes T228	"proliferation of .. epithelial .. cells" GO:0050673 (epithelial cell proliferation)
+T229	GO_BP 6144 6197	proliferation of both epithelial and mesenchyme cells
+#229	AnnotatorNotes T229	"proliferation of .. mesenchyme cells" GO:0010463 (mesenchymal cell proliferation)
+T230	CL 6166 6197	epithelial and mesenchyme cells
+#230	AnnotatorNotes T230	"epithelial .. cells" CL:0000066 (epithelial cell)
+T231	CL 6181 6197	mesenchyme cells
+#231	AnnotatorNotes T231	CL:0000134 (mesenchymal cell)
+T232	GO_CC 6192 6197	cells
+#232	AnnotatorNotes T232	GO:0005623 (cell)
+T233	NCBITaxon 6204 6208	Mice
+#233	AnnotatorNotes T233	NCBITaxon:10088 (Mus)
+T234	PR 6214 6217	Shh
+#234	AnnotatorNotes T234	PR:000014841 (sonic hedgehog protein)
+T235	GO_BP 6233 6237	died
+#235	AnnotatorNotes T235	GO:0016265 (death)
+T236	GO_BP 6259 6264	birth
+#236	AnnotatorNotes T236	GO:0007567 (parturition)
+T237	GO_BP 6345 6369	cholesterol biosynthesis
+#237	AnnotatorNotes T237	GO:0006695 (cholesterol biosynthetic process)
+T238	CHEBI 6345 6356	cholesterol
+#238	AnnotatorNotes T238	CHEBI:16113 (cholesterol)
+T239	CHEBI 6373 6392	chemical inhibitors
+#239	AnnotatorNotes T239	CHEBI:35222 (inhibitor)
+T240	CHEBI 6373 6381	chemical
+#240	AnnotatorNotes T240	CHEBI:36357 (polyatomic entities)
+T241	italic 6396 6401	Dhcr7
+#241	AnnotatorNotes T241	italic (null)
+T242	PR 6396 6401	Dhcr7
+#242	AnnotatorNotes T242	PR:000006454 (7-dehydrocholesterol reductase)
+T243	independent_continuant 6396 6401	Dhcr7
+#243	AnnotatorNotes T243	independent_continuant
+T244	GO_MF 6396 6401	Dhcr7
+#244	AnnotatorNotes T244	GO:0047598 (7-dehydrocholesterol reductase activity)
+T245	PR 6435 6438	Shh
+#245	AnnotatorNotes T245	PR:000014841 (sonic hedgehog protein)
+T246	GO_BP 6439 6448	signaling
+#246	AnnotatorNotes T246	GO:0007165 (signal transduction)
+T247	GO_BP 6463 6476	embryogenesis
+#247	AnnotatorNotes T247	GO:0009790 (embryonic development)
+T248	CHEBI 6497 6503	sterol
+#248	AnnotatorNotes T248	CHEBI:15889 (sterols)
+T249	GO_BP 6539 6549	processing
+#249	AnnotatorNotes T249	GO:0016485 (protein processing)
+T250	GO_BP 6553 6564	transfected
+#250	AnnotatorNotes T250	GO:0009294 (DNA mediated transformation)
+T251	PR 6565 6568	Shh
+#251	AnnotatorNotes T251	PR:000014841 (sonic hedgehog protein)
+T252	NCBITaxon 6581 6590	mammalian
+#252	AnnotatorNotes T252	NCBITaxon:40674 (Mammalia)
+T253	CL 6591 6596	cells
+#253	AnnotatorNotes T253	CL:0000000 (cell)
+T254	GO_CC 6591 6596	cells
+#254	AnnotatorNotes T254	GO:0005623 (cell)
+T255	GO_BP 6645 6661	lung development
+#255	AnnotatorNotes T255	GO:0030324 (lung development)
+T256	italic 6665 6670	Dhcr7
+#256	AnnotatorNotes T256	italic (null)
+T257	PR 6665 6670	Dhcr7
+#257	AnnotatorNotes T257	PR:000006454 (7-dehydrocholesterol reductase)
+T258	independent_continuant 6665 6670	Dhcr7
+#258	AnnotatorNotes T258	independent_continuant
+T259	GO_MF 6665 6670	Dhcr7
+#259	AnnotatorNotes T259	GO:0047598 (7-dehydrocholesterol reductase activity)
+T260	EntrezGene 6665 6670	Dhcr7
+#260	AnnotatorNotes T260	EG:13360
+T261	sup 6670 6673	-/-
+#261	AnnotatorNotes T261	sup (null)
+T262	GO_BP 6696 6701	birth
+#262	AnnotatorNotes T262	GO:0007567 (parturition)
+T263	CHEBI 6727 6738	cholesterol
+#263	AnnotatorNotes T263	CHEBI:16113 (cholesterol)
+T264	independent_continuant 6769 6774	Dhcr7
+#264	AnnotatorNotes T264	independent_continuant
+T265	EntrezGene 6769 6774	Dhcr7
+#265	AnnotatorNotes T265	EG:13360
+T266	GO_MF 6769 6774	Dhcr7
+#266	AnnotatorNotes T266	GO:0047598 (7-dehydrocholesterol reductase activity)
+T267	PR 6769 6774	Dhcr7
+#267	AnnotatorNotes T267	PR:000006454 (7-dehydrocholesterol reductase)
+T268	GO_BP 6804 6827	branching morphogenesis
+#268	AnnotatorNotes T268	GO:0001763 (morphogenesis of a branching structure)
+T269	GO_BP 6835 6846	gestational
+#269	AnnotatorNotes T269	GO:0007565 (female pregnancy)
+T270	GO_BP 6880 6905	lung saccular development
+#270	AnnotatorNotes T270	"lung .. development" GO:0030324 (lung development)
+T271	GO_BP 6947 6956	developed
+#271	AnnotatorNotes T271	GO:0032502 (developmental process)
+T272	GO_BP 6988 7008	vascular development
+#272	AnnotatorNotes T272	GO:0001944 (vasculature development)
+T273	GO_BP 7010 7062	Differentiation of type II alveolar epithelial cells
+#273	AnnotatorNotes T273	"Differentiation of .. cells" GO:0030154 (cell differentiation)
+T274	CL 7046 7062	epithelial cells
+#274	AnnotatorNotes T274	CL:0000066 (epithelial cell)
+T275	GO_CC 7057 7062	cells
+#275	AnnotatorNotes T275	GO:0005623 (cell)
+T276	GO_BP 7090 7105	differentiation
+#276	AnnotatorNotes T276	GO:0030154 (cell differentiation)
+T277	CHEBI 7155 7166	cholesterol
+#277	AnnotatorNotes T277	CHEBI:16113 (cholesterol)
+T278	GO_BP 7206 7217	gestational
+#278	AnnotatorNotes T278	GO:0007565 (female pregnancy)
+T279	GO_BP 7298 7313	differentiation
+#279	AnnotatorNotes T279	GO:0030154 (cell differentiation)
+T280	GO_BP 7327 7347	vascular development
+#280	AnnotatorNotes T280	GO:0001944 (vasculature development)
+T281	EntrezGene 7423 7426	Shh
+#281	AnnotatorNotes T281	EG:20423
+T282	PR 7423 7426	Shh
+#282	AnnotatorNotes T282	PR:000014841 (sonic hedgehog protein)
+T283	GO_BP 7483 7496	developmental
+#283	AnnotatorNotes T283	GO:0032502 (developmental process)
+T284	italic 7516 7521	Dhcr7
+#284	AnnotatorNotes T284	italic (null)
+T285	EntrezGene 7516 7521	Dhcr7
+#285	AnnotatorNotes T285	EG:13360
+T286	PR 7516 7521	Dhcr7
+#286	AnnotatorNotes T286	PR:000006454 (7-dehydrocholesterol reductase)
+T287	independent_continuant 7516 7521	Dhcr7
+#287	AnnotatorNotes T287	independent_continuant
+T288	GO_MF 7516 7521	Dhcr7
+#288	AnnotatorNotes T288	GO:0047598 (7-dehydrocholesterol reductase activity)
+T289	sup 7521 7524	-/-
+#289	AnnotatorNotes T289	sup (null)
+T290	GO_BP 7546 7556	expression
+#290	AnnotatorNotes T290	GO:0010467 (gene expression)
+T291	EntrezGene 7560 7563	Shh
+#291	AnnotatorNotes T291	EG:20423
+T292	PR 7560 7563	Shh
+#292	AnnotatorNotes T292	PR:000014841 (sonic hedgehog protein)
+T293	GO_BP 7564 7581	signaling cascade
+#293	AnnotatorNotes T293	GO:0007165 (signal transduction)
+T294	GO_BP 7612 7622	processing
+#294	AnnotatorNotes T294	GO:0016485 (protein processing)
+T295	EntrezGene 7626 7629	Shh
+#295	AnnotatorNotes T295	EG:20423
+T296	PR 7626 7629	Shh
+#296	AnnotatorNotes T296	PR:000014841 (sonic hedgehog protein)
+T297	GO_BP 7662 7668	growth
+#297	AnnotatorNotes T297	GO:0040007 (growth)
+T298	GO_BP 7689 7698	gestation
+#298	AnnotatorNotes T298	GO:0007565 (female pregnancy)
+T299	italic 7708 7713	Dhcr7
+#299	AnnotatorNotes T299	italic (null)
+T300	PR 7708 7713	Dhcr7
+#300	AnnotatorNotes T300	PR:000006454 (7-dehydrocholesterol reductase)
+T301	EntrezGene 7708 7713	Dhcr7
+#301	AnnotatorNotes T301	EG:13360
+T302	independent_continuant 7708 7713	Dhcr7
+#302	AnnotatorNotes T302	independent_continuant
+T303	GO_MF 7708 7713	Dhcr7
+#303	AnnotatorNotes T303	GO:0047598 (7-dehydrocholesterol reductase activity)
+T304	sup 7713 7716	-/-
+#304	AnnotatorNotes T304	sup (null)
+T305	italic 7726 7731	Dhcr7
+#305	AnnotatorNotes T305	italic (null)
+T306	independent_continuant 7726 7731	Dhcr7
+#306	AnnotatorNotes T306	independent_continuant
+T307	PR 7726 7731	Dhcr7
+#307	AnnotatorNotes T307	PR:000006454 (7-dehydrocholesterol reductase)
+T308	GO_MF 7726 7731	Dhcr7
+#308	AnnotatorNotes T308	GO:0047598 (7-dehydrocholesterol reductase activity)
+T309	EntrezGene 7726 7731	Dhcr7
+#309	AnnotatorNotes T309	EG:13360
+T310	sup 7731 7734	-/-
+#310	AnnotatorNotes T310	sup (null)
+T311	NCBITaxon 7735 7739	mice
+#311	AnnotatorNotes T311	NCBITaxon:10088 (Mus)
+T312	GO_BP 7745 7749	born
+#312	AnnotatorNotes T312	GO:0007567 (parturition)
+T313	GO_BP 7832 7836	died
+#313	AnnotatorNotes T313	GO:0016265 (death)
+T314	GO_BP 7873 7878	birth
+#314	AnnotatorNotes T314	GO:0007567 (parturition)
+T315	GO_BP 7888 7893	birth
+#315	AnnotatorNotes T315	GO:0007567 (parturition)
+T316	SO 7926 7935	wild-type
+#316	AnnotatorNotes T316	SO:0000817 (wild_type)
+T317	GO_BP 8095 8103	movement
+#317	AnnotatorNotes T317	GO:0050879 (multicellular organismal movement)
+T318	italic 8135 8140	Dhcr7
+#318	AnnotatorNotes T318	italic (null)
+T319	PR 8135 8140	Dhcr7
+#319	AnnotatorNotes T319	PR:000006454 (7-dehydrocholesterol reductase)
+T320	independent_continuant 8135 8140	Dhcr7
+#320	AnnotatorNotes T320	independent_continuant
+T321	EntrezGene 8135 8140	Dhcr7
+#321	AnnotatorNotes T321	EG:13360
+T322	GO_MF 8135 8140	Dhcr7
+#322	AnnotatorNotes T322	GO:0047598 (7-dehydrocholesterol reductase activity)
+T323	sup 8140 8143	-/-
+#323	AnnotatorNotes T323	sup (null)
+T324	italic 8217 8222	Dhcr7
+#324	AnnotatorNotes T324	italic (null)
+T325	PR 8217 8222	Dhcr7
+#325	AnnotatorNotes T325	PR:000006454 (7-dehydrocholesterol reductase)
+T326	GO_MF 8217 8222	Dhcr7
+#326	AnnotatorNotes T326	GO:0047598 (7-dehydrocholesterol reductase activity)
+T327	EntrezGene 8217 8222	Dhcr7
+#327	AnnotatorNotes T327	EG:13360
+T328	independent_continuant 8217 8222	Dhcr7
+#328	AnnotatorNotes T328	independent_continuant
+T329	sup 8222 8225	-/-
+#329	AnnotatorNotes T329	sup (null)
+T330	GO_BP 8401 8412	gestational
+#330	AnnotatorNotes T330	GO:0007565 (female pregnancy)
+T331	GO_BP 8428 8434	growth
+#331	AnnotatorNotes T331	GO:0040007 (growth)
+T332	GO_BP 8517 8526	gestation
+#332	AnnotatorNotes T332	GO:0007565 (female pregnancy)
+T333	italic 8567 8572	Dhcr7
+#333	AnnotatorNotes T333	italic (null)
+T334	EntrezGene 8567 8572	Dhcr7
+#334	AnnotatorNotes T334	EG:13360
+T335	GO_MF 8567 8572	Dhcr7
+#335	AnnotatorNotes T335	GO:0047598 (7-dehydrocholesterol reductase activity)
+T336	independent_continuant 8567 8572	Dhcr7
+#336	AnnotatorNotes T336	independent_continuant
+T337	PR 8567 8572	Dhcr7
+#337	AnnotatorNotes T337	PR:000006454 (7-dehydrocholesterol reductase)
+T338	sup 8572 8575	-/-
+#338	AnnotatorNotes T338	sup (null)
+T339	SO 8734 8743	wild-type
+#339	AnnotatorNotes T339	SO:0000817 (wild_type)
+T340	GO_BP 8858 8864	growth
+#340	AnnotatorNotes T340	GO:0040007 (growth)
+T341	italic 9055 9060	Dhcr7
+#341	AnnotatorNotes T341	italic (null)
+T342	EntrezGene 9055 9060	Dhcr7
+#342	AnnotatorNotes T342	EG:13360
+T343	PR 9055 9060	Dhcr7
+#343	AnnotatorNotes T343	PR:000006454 (7-dehydrocholesterol reductase)
+T344	independent_continuant 9055 9060	Dhcr7
+#344	AnnotatorNotes T344	independent_continuant
+T345	GO_MF 9055 9060	Dhcr7
+#345	AnnotatorNotes T345	GO:0047598 (7-dehydrocholesterol reductase activity)
+T346	sup 9060 9063	-/-
+#346	AnnotatorNotes T346	sup (null)
+T347	bold 9102 9128	Body length growth curves.
+#347	AnnotatorNotes T347	bold (null)
+T348	GO_BP 9114 9120	growth
+#348	AnnotatorNotes T348	GO:0040007 (growth)
+T349	GO_BP 9141 9147	growth
+#349	AnnotatorNotes T349	GO:0040007 (growth)
+T350	italic 9148 9151	vs.
+#350	AnnotatorNotes T350	italic (null)
+T351	GO_BP 9152 9163	gestational
+#351	AnnotatorNotes T351	GO:0007565 (female pregnancy)
+T352	SO 9217 9226	wild-type
+#352	AnnotatorNotes T352	SO:0000817 (wild_type)
+T353	GO_BP 9385 9391	growth
+#353	AnnotatorNotes T353	GO:0040007 (growth)
+T354	italic 9481 9486	Dhcr7
+#354	AnnotatorNotes T354	italic (null)
+T355	PR 9481 9486	Dhcr7
+#355	AnnotatorNotes T355	PR:000006454 (7-dehydrocholesterol reductase)
+T356	independent_continuant 9481 9486	Dhcr7
+#356	AnnotatorNotes T356	independent_continuant
+T357	GO_MF 9481 9486	Dhcr7
+#357	AnnotatorNotes T357	GO:0047598 (7-dehydrocholesterol reductase activity)
+T358	EntrezGene 9481 9486	Dhcr7
+#358	AnnotatorNotes T358	EG:13360
+T359	sup 9486 9489	-/-
+#359	AnnotatorNotes T359	sup (null)
+T360	italic 9558 9560	vs
+#360	AnnotatorNotes T360	italic (null)
+T361	italic 9581 9586	Dhcr7
+#361	AnnotatorNotes T361	italic (null)
+T362	PR 9581 9586	Dhcr7
+#362	AnnotatorNotes T362	PR:000006454 (7-dehydrocholesterol reductase)
+T363	independent_continuant 9581 9586	Dhcr7
+#363	AnnotatorNotes T363	independent_continuant
+T364	EntrezGene 9581 9586	Dhcr7
+#364	AnnotatorNotes T364	EG:13360
+T365	GO_MF 9581 9586	Dhcr7
+#365	AnnotatorNotes T365	GO:0047598 (7-dehydrocholesterol reductase activity)
+T366	sup 9586 9589	-/-
+#366	AnnotatorNotes T366	sup (null)
+T367	italic 9652 9655	vs.
+#367	AnnotatorNotes T367	italic (null)
+T368	italic 9674 9679	Dhcr7
+#368	AnnotatorNotes T368	italic (null)
+T369	GO_MF 9674 9679	Dhcr7
+#369	AnnotatorNotes T369	GO:0047598 (7-dehydrocholesterol reductase activity)
+T370	independent_continuant 9674 9679	Dhcr7
+#370	AnnotatorNotes T370	independent_continuant
+T371	PR 9674 9679	Dhcr7
+#371	AnnotatorNotes T371	PR:000006454 (7-dehydrocholesterol reductase)
+T372	EntrezGene 9674 9679	Dhcr7
+#372	AnnotatorNotes T372	EG:13360
+T373	sup 9679 9682	-/-
+#373	AnnotatorNotes T373	sup (null)
+T374	italic 9747 9750	vs.
+#374	AnnotatorNotes T374	italic (null)
+T375	italic 9769 9774	Dhcr7
+#375	AnnotatorNotes T375	italic (null)
+T376	GO_MF 9769 9774	Dhcr7
+#376	AnnotatorNotes T376	GO:0047598 (7-dehydrocholesterol reductase activity)
+T377	PR 9769 9774	Dhcr7
+#377	AnnotatorNotes T377	PR:000006454 (7-dehydrocholesterol reductase)
+T378	independent_continuant 9769 9774	Dhcr7
+#378	AnnotatorNotes T378	independent_continuant
+T379	EntrezGene 9769 9774	Dhcr7
+#379	AnnotatorNotes T379	EG:13360
+T380	sup 9774 9777	-/-
+#380	AnnotatorNotes T380	sup (null)
+T381	italic 9895 9900	Dhcr7
+#381	AnnotatorNotes T381	italic (null)
+T382	independent_continuant 9895 9900	Dhcr7
+#382	AnnotatorNotes T382	independent_continuant
+T383	GO_MF 9895 9900	Dhcr7
+#383	AnnotatorNotes T383	GO:0047598 (7-dehydrocholesterol reductase activity)
+T384	PR 9895 9900	Dhcr7
+#384	AnnotatorNotes T384	PR:000006454 (7-dehydrocholesterol reductase)
+T385	EntrezGene 9895 9900	Dhcr7
+#385	AnnotatorNotes T385	EG:13360
+T386	sup 9900 9903	-/-
+#386	AnnotatorNotes T386	sup (null)
+T387	GO_BP 9980 9991	development
+#387	AnnotatorNotes T387	GO:0032502 (developmental process)
+T388	italic 10077 10082	Dhcr7
+#388	AnnotatorNotes T388	italic (null)
+T389	independent_continuant 10077 10082	Dhcr7
+#389	AnnotatorNotes T389	independent_continuant
+T390	EntrezGene 10077 10082	Dhcr7
+#390	AnnotatorNotes T390	EG:13360
+T391	PR 10077 10082	Dhcr7
+#391	AnnotatorNotes T391	PR:000006454 (7-dehydrocholesterol reductase)
+T392	GO_MF 10077 10082	Dhcr7
+#392	AnnotatorNotes T392	GO:0047598 (7-dehydrocholesterol reductase activity)
+T393	sup 10082 10085	-/-
+#393	AnnotatorNotes T393	sup (null)
+T394	SO 10116 10125	wild-type
+#394	AnnotatorNotes T394	SO:0000817 (wild_type)
+T395	independent_continuant 10116 10125	wild-type
+#395	AnnotatorNotes T395	independent_continuant
+T396	GO_BP 10296 10301	birth
+#396	AnnotatorNotes T396	GO:0007567 (parturition)
+T397	NCBITaxon 10372 10377	mouse
+#397	AnnotatorNotes T397	NCBITaxon:10088 (Mus)
+T398	italic 10411 10416	Dhcr7
+#398	AnnotatorNotes T398	italic (null)
+T399	PR 10411 10416	Dhcr7
+#399	AnnotatorNotes T399	PR:000006454 (7-dehydrocholesterol reductase)
+T400	EntrezGene 10411 10416	Dhcr7
+#400	AnnotatorNotes T400	EG:13360
+T401	GO_MF 10411 10416	Dhcr7
+#401	AnnotatorNotes T401	GO:0047598 (7-dehydrocholesterol reductase activity)
+T402	independent_continuant 10411 10416	Dhcr7
+#402	AnnotatorNotes T402	independent_continuant
+T403	sup 10416 10419	+/+
+#403	AnnotatorNotes T403	sup (null)
+T404	SO 10416 10417	+
+#404	AnnotatorNotes T404	SO:0000817 (wild_type)
+T405	SO 10418 10419	+
+#405	AnnotatorNotes T405	SO:0000817 (wild_type)
+T406	bold 10466 10545	Embryonic size, lung morphology and histology at various stages of development.
+#406	AnnotatorNotes T406	bold (null)
+T407	GO_BP 10533 10544	development
+#407	AnnotatorNotes T407	GO:0032502 (developmental process)
+T408	SO 10595 10604	wild-type
+#408	AnnotatorNotes T408	SO:0000817 (wild_type)
+T409	SO 10606 10607	+
+#409	AnnotatorNotes T409	SO:0000817 (wild_type)
+T410	SO 10608 10609	+
+#410	AnnotatorNotes T410	SO:0000817 (wild_type)
+T411	italic 10615 10620	Dhcr7
+#411	AnnotatorNotes T411	italic (null)
+T412	independent_continuant 10615 10620	Dhcr7
+#412	AnnotatorNotes T412	independent_continuant
+T413	GO_MF 10615 10620	Dhcr7
+#413	AnnotatorNotes T413	GO:0047598 (7-dehydrocholesterol reductase activity)
+T414	PR 10615 10620	Dhcr7
+#414	AnnotatorNotes T414	PR:000006454 (7-dehydrocholesterol reductase)
+T415	EntrezGene 10615 10620	Dhcr7
+#415	AnnotatorNotes T415	EG:13360
+T416	sup 10620 10623	-/-
+#416	AnnotatorNotes T416	sup (null)
+T417	SO 10818 10827	wild-type
+#417	AnnotatorNotes T417	SO:0000817 (wild_type)
+T418	independent_continuant 10818 10827	wild-type
+#418	AnnotatorNotes T418	independent_continuant
+T419	GO_BP 10939 10944	birth
+#419	AnnotatorNotes T419	GO:0007567 (parturition)
+T420	NCBITaxon 11001 11008	animals
+#420	AnnotatorNotes T420	NCBITaxon:33208 (Metazoa)
+T421	GO_BP 11408 11430	organogenesis of lungs
+#421	AnnotatorNotes T421	GO:0030324 (lung development)
+T422	italic 11448 11453	Dhcr7
+#422	AnnotatorNotes T422	italic (null)
+T423	PR 11448 11453	Dhcr7
+#423	AnnotatorNotes T423	PR:000006454 (7-dehydrocholesterol reductase)
+T424	independent_continuant 11448 11453	Dhcr7
+#424	AnnotatorNotes T424	independent_continuant
+T425	EntrezGene 11448 11453	Dhcr7
+#425	AnnotatorNotes T425	EG:13360
+T426	GO_MF 11448 11453	Dhcr7
+#426	AnnotatorNotes T426	GO:0047598 (7-dehydrocholesterol reductase activity)
+T427	sup 11453 11456	-/-
+#427	AnnotatorNotes T427	sup (null)
+T428	GO_BP 11571 11576	birth
+#428	AnnotatorNotes T428	GO:0007567 (parturition)
+T429	SO 11677 11686	wild-type
+#429	AnnotatorNotes T429	SO:0000817 (wild_type)
+T430	GO_BP 11793 11798	birth
+#430	AnnotatorNotes T430	GO:0007567 (parturition)
+T431	GO_BP 11875 11895	anatomic development
+#431	AnnotatorNotes T431	GO:0048856 (anatomical structure development)
+T432	GO_BP 12100 12105	birth
+#432	AnnotatorNotes T432	GO:0007567 (parturition)
+T433	italic 12287 12292	Dhcr7
+#433	AnnotatorNotes T433	italic (null)
+T434	GO_MF 12287 12292	Dhcr7
+#434	AnnotatorNotes T434	GO:0047598 (7-dehydrocholesterol reductase activity)
+T435	independent_continuant 12287 12292	Dhcr7
+#435	AnnotatorNotes T435	independent_continuant
+T436	PR 12287 12292	Dhcr7
+#436	AnnotatorNotes T436	PR:000006454 (7-dehydrocholesterol reductase)
+T437	EntrezGene 12287 12292	Dhcr7
+#437	AnnotatorNotes T437	EG:13360
+T438	sup 12292 12295	-/-
+#438	AnnotatorNotes T438	sup (null)
+T439	SO 12300 12309	wild-type
+#439	AnnotatorNotes T439	SO:0000817 (wild_type)
+T440	SO 12588 12597	wild-type
+#440	AnnotatorNotes T440	SO:0000817 (wild_type)
+T441	NCBITaxon 12647 12654	animals
+#441	AnnotatorNotes T441	NCBITaxon:33208 (Metazoa)
+T442	GO_BP 12686 12695	formation
+#442	AnnotatorNotes T442	GO:0032502 (developmental process)
+T443	GO_BP 12816 12825	expansion
+#443	AnnotatorNotes T443	GO:0008283 (cell proliferation)
+T444	italic 13119 13124	Dhcr7
+#444	AnnotatorNotes T444	italic (null)
+T445	EntrezGene 13119 13124	Dhcr7
+#445	AnnotatorNotes T445	EG:13360
+T446	independent_continuant 13119 13124	Dhcr7
+#446	AnnotatorNotes T446	independent_continuant
+T447	GO_MF 13119 13124	Dhcr7
+#447	AnnotatorNotes T447	GO:0047598 (7-dehydrocholesterol reductase activity)
+T448	PR 13119 13124	Dhcr7
+#448	AnnotatorNotes T448	PR:000006454 (7-dehydrocholesterol reductase)
+T449	sup 13124 13127	-/-
+#449	AnnotatorNotes T449	sup (null)
+T450	SO 13144 13153	wild-type
+#450	AnnotatorNotes T450	SO:0000817 (wild_type)
+T451	italic 13356 13361	Dhcr7
+#451	AnnotatorNotes T451	italic (null)
+T452	independent_continuant 13356 13361	Dhcr7
+#452	AnnotatorNotes T452	independent_continuant
+T453	EntrezGene 13356 13361	Dhcr7
+#453	AnnotatorNotes T453	EG:13360
+T454	GO_MF 13356 13361	Dhcr7
+#454	AnnotatorNotes T454	GO:0047598 (7-dehydrocholesterol reductase activity)
+T455	PR 13356 13361	Dhcr7
+#455	AnnotatorNotes T455	PR:000006454 (7-dehydrocholesterol reductase)
+T456	sup 13361 13364	-/-
+#456	AnnotatorNotes T456	sup (null)
+T457	GO_BP 13373 13378	birth
+#457	AnnotatorNotes T457	GO:0007567 (parturition)
+T458	bold 13391 13450	Histological analyses of lungs at various embryonic stages.
+#458	AnnotatorNotes T458	bold (null)
+T459	GO_BP 13526 13537	gestational
+#459	AnnotatorNotes T459	GO:0007565 (female pregnancy)
+T460	SO 13731 13740	wild-type
+#460	AnnotatorNotes T460	SO:0000817 (wild_type)
+T461	SO 13742 13743	+
+#461	AnnotatorNotes T461	SO:0000817 (wild_type)
+T462	SO 13744 13745	+
+#462	AnnotatorNotes T462	SO:0000817 (wild_type)
+T463	SO 14041 14050	wild-type
+#463	AnnotatorNotes T463	SO:0000817 (wild_type)
+T464	SO 14210 14219	wild-type
+#464	AnnotatorNotes T464	SO:0000817 (wild_type)
+T465	GO_BP 14249 14259	developing
+#465	AnnotatorNotes T465	GO:0032502 (developmental process)
+T466	GO_BP 14389 14400	development
+#466	AnnotatorNotes T466	GO:0032502 (developmental process)
+T467	GO_BP 14427 14432	birth
+#467	AnnotatorNotes T467	GO:0007567 (parturition)
+T468	GO_BP 14724 14735	gestational
+#468	AnnotatorNotes T468	GO:0007565 (female pregnancy)
+T469	GO_BP 14873 14891	cell proliferation
+#469	AnnotatorNotes T469	GO:0008283 (cell proliferation)
+T470	CL 14873 14877	cell
+#470	AnnotatorNotes T470	CL:0000000 (cell)
+T471	GO_CC 14873 14877	cell
+#471	AnnotatorNotes T471	GO:0005623 (cell)
+T472	GO_BP 14900 14911	gestational
+#472	AnnotatorNotes T472	GO:0007565 (female pregnancy)
+T473	italic 14912 14917	Dhcr7
+#473	AnnotatorNotes T473	italic (null)
+T474	independent_continuant 14912 14917	Dhcr7
+#474	AnnotatorNotes T474	independent_continuant
+T475	PR 14912 14917	Dhcr7
+#475	AnnotatorNotes T475	PR:000006454 (7-dehydrocholesterol reductase)
+T476	EntrezGene 14912 14917	Dhcr7
+#476	AnnotatorNotes T476	EG:13360
+T477	GO_MF 14912 14917	Dhcr7
+#477	AnnotatorNotes T477	GO:0047598 (7-dehydrocholesterol reductase activity)
+T478	sup 14917 14920	-/-
+#478	AnnotatorNotes T478	sup (null)
+T479	GO_BP 14952 14976	cholesterol biosynthesis
+#479	AnnotatorNotes T479	GO:0006695 (cholesterol biosynthetic process)
+T480	CHEBI 14952 14963	cholesterol
+#480	AnnotatorNotes T480	CHEBI:16113 (cholesterol)
+T481	GO_BP 15002 15029	cell proliferation/division
+#481	AnnotatorNotes T481	"cell .. division" GO:0051301 (cell division)
+T482	GO_BP 15002 15020	cell proliferation
+#482	AnnotatorNotes T482	GO:0008283 (cell proliferation)
+T483	CL 15002 15006	cell
+#483	AnnotatorNotes T483	CL:0000000 (cell)
+T484	GO_CC 15002 15006	cell
+#484	AnnotatorNotes T484	GO:0005623 (cell)
+T485	GO_BP 15033 15043	cell death
+#485	AnnotatorNotes T485	GO:0008219 (cell death)
+T486	CL 15033 15037	cell
+#486	AnnotatorNotes T486	CL:0000000 (cell)
+T487	GO_CC 15033 15037	cell
+#487	AnnotatorNotes T487	GO:0005623 (cell)
+T488	GO_BP 15045 15063	Cell proliferation
+#488	AnnotatorNotes T488	GO:0008283 (cell proliferation)
+T489	CL 15045 15049	Cell
+#489	AnnotatorNotes T489	CL:0000000 (cell)
+T490	GO_CC 15045 15049	Cell
+#490	AnnotatorNotes T490	GO:0005623 (cell)
+T491	GO_CC 15099 15103	PCNA
+#491	AnnotatorNotes T491	GO:0043626 (PCNA complex)
+T492	PR 15099 15103	PCNA
+#492	AnnotatorNotes T492	PR:000012421 (proliferating cell nuclear antigen)
+T493	EntrezGene 15099 15103	PCNA
+#493	AnnotatorNotes T493	EG:18538
+T494	SO 15121 15134	incorporation
+#494	AnnotatorNotes T494	SO:0000046 (insert)
+T495	GO_CC 15141 15145	PCNA
+#495	AnnotatorNotes T495	GO:0043626 (PCNA complex)
+T496	PR 15141 15145	PCNA
+#496	AnnotatorNotes T496	PR:000012421 (proliferating cell nuclear antigen)
+T497	EntrezGene 15141 15145	PCNA
+#497	AnnotatorNotes T497	EG:18538
+T498	SO 15167 15176	wild-type
+#498	AnnotatorNotes T498	SO:0000817 (wild_type)
+T499	GO_BP 15205 15216	gestational
+#499	AnnotatorNotes T499	GO:0007565 (female pregnancy)
+T500	GO_CC 15321 15325	PCNA
+#500	AnnotatorNotes T500	GO:0043626 (PCNA complex)
+T501	PR 15321 15325	PCNA
+#501	AnnotatorNotes T501	PR:000012421 (proliferating cell nuclear antigen)
+T502	EntrezGene 15321 15325	PCNA
+#502	AnnotatorNotes T502	EG:18538
+T503	GO_BP 15403 15414	gestational
+#503	AnnotatorNotes T503	GO:0007565 (female pregnancy)
+T504	GO_CC 15472 15476	PCNA
+#504	AnnotatorNotes T504	GO:0043626 (PCNA complex)
+T505	PR 15472 15476	PCNA
+#505	AnnotatorNotes T505	PR:000012421 (proliferating cell nuclear antigen)
+T506	EntrezGene 15472 15476	PCNA
+#506	AnnotatorNotes T506	EG:18538
+T507	GO_BP 15611 15624	cell division
+#507	AnnotatorNotes T507	GO:0051301 (cell division)
+T508	CL 15611 15615	cell
+#508	AnnotatorNotes T508	CL:0000000 (cell)
+T509	GO_CC 15611 15615	cell
+#509	AnnotatorNotes T509	GO:0005623 (cell)
+T510	GO_BP 15652 15662	expression
+#510	AnnotatorNotes T510	GO:0010467 (gene expression)
+T511	GO_BP 15832 15846	cell apoptosis
+#511	AnnotatorNotes T511	GO:0006915 (apoptosis)
+T512	CL 15832 15836	cell
+#512	AnnotatorNotes T512	CL:0000000 (cell)
+T513	GO_CC 15832 15836	cell
+#513	AnnotatorNotes T513	GO:0005623 (cell)
+T514	SO 15875 15884	wild-type
+#514	AnnotatorNotes T514	SO:0000817 (wild_type)
+T515	GO_BP 15961 15972	gestational
+#515	AnnotatorNotes T515	GO:0007565 (female pregnancy)
+T516	GO_BP 15981 16008	cell proliferation/division
+#516	AnnotatorNotes T516	"cell .. division" GO:0051301 (cell division)
+T517	GO_BP 15981 15999	cell proliferation
+#517	AnnotatorNotes T517	GO:0008283 (cell proliferation)
+T518	CL 15981 15985	cell
+#518	AnnotatorNotes T518	CL:0000000 (cell)
+T519	GO_CC 15981 15985	cell
+#519	AnnotatorNotes T519	GO:0005623 (cell)
+T520	GO_BP 16062 16072	cell death
+#520	AnnotatorNotes T520	GO:0008219 (cell death)
+T521	CL 16062 16066	cell
+#521	AnnotatorNotes T521	CL:0000000 (cell)
+T522	GO_CC 16062 16066	cell
+#522	AnnotatorNotes T522	GO:0005623 (cell)
+T523	bold 16091 16152	Analyses of cell proliferation, cell division and cell death.
+#523	AnnotatorNotes T523	bold (null)
+T524	GO_BP 16103 16121	cell proliferation
+#524	AnnotatorNotes T524	GO:0008283 (cell proliferation)
+T525	CL 16103 16107	cell
+#525	AnnotatorNotes T525	CL:0000000 (cell)
+T526	GO_CC 16103 16107	cell
+#526	AnnotatorNotes T526	GO:0005623 (cell)
+T527	GO_BP 16123 16136	cell division
+#527	AnnotatorNotes T527	GO:0051301 (cell division)
+T528	CL 16123 16127	cell
+#528	AnnotatorNotes T528	CL:0000000 (cell)
+T529	GO_CC 16123 16127	cell
+#529	AnnotatorNotes T529	GO:0005623 (cell)
+T530	GO_BP 16141 16151	cell death
+#530	AnnotatorNotes T530	GO:0008219 (cell death)
+T531	CL 16141 16145	cell
+#531	AnnotatorNotes T531	CL:0000000 (cell)
+T532	GO_CC 16141 16145	cell
+#532	AnnotatorNotes T532	GO:0005623 (cell)
+T533	GO_BP 16153 16171	Cell proliferation
+#533	AnnotatorNotes T533	GO:0008283 (cell proliferation)
+T534	CL 16153 16157	Cell
+#534	AnnotatorNotes T534	CL:0000000 (cell)
+T535	GO_CC 16153 16157	Cell
+#535	AnnotatorNotes T535	GO:0005623 (cell)
+T536	GO_CC 16173 16177	PCNA
+#536	AnnotatorNotes T536	GO:0043626 (PCNA complex)
+T537	PR 16173 16177	PCNA
+#537	AnnotatorNotes T537	PR:000012421 (proliferating cell nuclear antigen)
+T538	EntrezGene 16173 16177	PCNA
+#538	AnnotatorNotes T538	EG:18538
+T539	GO_BP 16230 16243	cell division
+#539	AnnotatorNotes T539	GO:0051301 (cell division)
+T540	CL 16230 16234	cell
+#540	AnnotatorNotes T540	CL:0000000 (cell)
+T541	GO_CC 16230 16234	cell
+#541	AnnotatorNotes T541	GO:0005623 (cell)
+T542	GO_BP 16277 16287	cell death
+#542	AnnotatorNotes T542	GO:0008219 (cell death)
+T543	CL 16277 16281	cell
+#543	AnnotatorNotes T543	CL:0000000 (cell)
+T544	GO_CC 16277 16281	cell
+#544	AnnotatorNotes T544	GO:0005623 (cell)
+T545	GO_BP 16379 16390	gestational
+#545	AnnotatorNotes T545	GO:0007565 (female pregnancy)
+T546	GO_CC 16404 16408	PCNA
+#546	AnnotatorNotes T546	GO:0043626 (PCNA complex)
+T547	EntrezGene 16404 16408	PCNA
+#547	AnnotatorNotes T547	EG:18538
+T548	PR 16404 16408	PCNA
+#548	AnnotatorNotes T548	PR:000012421 (proliferating cell nuclear antigen)
+T549	CL 16426 16474	cells in both epithelial and mesenchymal regions
+#549	AnnotatorNotes T549	"cells in .. epithelial .. regions" CL:0000066 (epithelial cell)
+T550	CL 16426 16474	cells in both epithelial and mesenchymal regions
+#550	AnnotatorNotes T550	"cells in .. mesenchymal regions" CL:0000134 (mesenchymal cell)
+T551	GO_CC 16426 16431	cells
+#551	AnnotatorNotes T551	GO:0005623 (cell)
+T552	GO_CC 16518 16522	PCNA
+#552	AnnotatorNotes T552	GO:0043626 (PCNA complex)
+T553	PR 16518 16522	PCNA
+#553	AnnotatorNotes T553	PR:000012421 (proliferating cell nuclear antigen)
+T554	EntrezGene 16518 16522	PCNA
+#554	AnnotatorNotes T554	EG:18538
+T555	SO 16551 16560	wild-type
+#555	AnnotatorNotes T555	SO:0000817 (wild_type)
+T556	SO 16562 16563	+
+#556	AnnotatorNotes T556	SO:0000817 (wild_type)
+T557	SO 16564 16565	+
+#557	AnnotatorNotes T557	SO:0000817 (wild_type)
+T558	CL 16612 16617	cells
+#558	AnnotatorNotes T558	CL:0000000 (cell)
+T559	GO_CC 16612 16617	cells
+#559	AnnotatorNotes T559	GO:0005623 (cell)
+T560	GO_CC 16659 16663	PCNA
+#560	AnnotatorNotes T560	GO:0043626 (PCNA complex)
+T561	PR 16659 16663	PCNA
+#561	AnnotatorNotes T561	PR:000012421 (proliferating cell nuclear antigen)
+T562	EntrezGene 16659 16663	PCNA
+#562	AnnotatorNotes T562	EG:18538
+T563	SO 16741 16750	wild-type
+#563	AnnotatorNotes T563	SO:0000817 (wild_type)
+T564	independent_continuant 16741 16750	wild-type
+#564	AnnotatorNotes T564	independent_continuant
+T565	GO_CC 16752 16756	PCNA
+#565	AnnotatorNotes T565	GO:0043626 (PCNA complex)
+T566	PR 16752 16756	PCNA
+#566	AnnotatorNotes T566	PR:000012421 (proliferating cell nuclear antigen)
+T567	EntrezGene 16752 16756	PCNA
+#567	AnnotatorNotes T567	EG:18538
+T568	SO 16951 16960	wild-type
+#568	AnnotatorNotes T568	SO:0000817 (wild_type)
+T569	independent_continuant 16951 16960	wild-type
+#569	AnnotatorNotes T569	independent_continuant
+T570	SO 17022 17031	wild-type
+#570	AnnotatorNotes T570	SO:0000817 (wild_type)
+T571	SO 17080 17089	wild-type
+#571	AnnotatorNotes T571	SO:0000817 (wild_type)
+T572	independent_continuant 17080 17089	wild-type
+#572	AnnotatorNotes T572	independent_continuant
+T573	CL 17131 17136	cells
+#573	AnnotatorNotes T573	CL:0000000 (cell)
+T574	GO_CC 17131 17136	cells
+#574	AnnotatorNotes T574	GO:0005623 (cell)
+T575	GO_BP 17219 17227	dividing
+#575	AnnotatorNotes T575	GO:0051301 (cell division)
+T576	CL 17228 17233	cells
+#576	AnnotatorNotes T576	CL:0000000 (cell)
+T577	GO_CC 17228 17233	cells
+#577	AnnotatorNotes T577	GO:0005623 (cell)
+T578	CHEBI 17326 17332	Sterol
+#578	AnnotatorNotes T578	CHEBI:15889 (sterols)
+T579	GO_BP 17344 17354	developing
+#579	AnnotatorNotes T579	GO:0032502 (developmental process)
+T580	italic 17364 17369	Dhcr7
+#580	AnnotatorNotes T580	italic (null)
+T581	PR 17364 17369	Dhcr7
+#581	AnnotatorNotes T581	PR:000006454 (7-dehydrocholesterol reductase)
+T582	EntrezGene 17364 17369	Dhcr7
+#582	AnnotatorNotes T582	EG:13360
+T583	independent_continuant 17364 17369	Dhcr7
+#583	AnnotatorNotes T583	independent_continuant
+T584	GO_MF 17364 17369	Dhcr7
+#584	AnnotatorNotes T584	GO:0047598 (7-dehydrocholesterol reductase activity)
+T585	CHEBI 17440 17451	cholesterol
+#585	AnnotatorNotes T585	CHEBI:16113 (cholesterol)
+T586	italic 17492 17497	Dhcr7
+#586	AnnotatorNotes T586	italic (null)
+T587	GO_MF 17492 17497	Dhcr7
+#587	AnnotatorNotes T587	GO:0047598 (7-dehydrocholesterol reductase activity)
+T588	PR 17492 17497	Dhcr7
+#588	AnnotatorNotes T588	PR:000006454 (7-dehydrocholesterol reductase)
+T589	independent_continuant 17492 17497	Dhcr7
+#589	AnnotatorNotes T589	independent_continuant
+T590	EntrezGene 17492 17497	Dhcr7
+#590	AnnotatorNotes T590	EG:13360
+T591	sup 17497 17500	-/-
+#591	AnnotatorNotes T591	sup (null)
+T592	NCBITaxon 17504 17508	mice
+#592	AnnotatorNotes T592	NCBITaxon:10088 (Mus)
+T593	CHEBI 17542 17553	cholesterol
+#593	AnnotatorNotes T593	CHEBI:16113 (cholesterol)
+T594	italic 17581 17586	Dhcr7
+#594	AnnotatorNotes T594	italic (null)
+T595	independent_continuant 17581 17586	Dhcr7
+#595	AnnotatorNotes T595	independent_continuant
+T596	EntrezGene 17581 17586	Dhcr7
+#596	AnnotatorNotes T596	EG:13360
+T597	PR 17581 17586	Dhcr7
+#597	AnnotatorNotes T597	PR:000006454 (7-dehydrocholesterol reductase)
+T598	GO_MF 17581 17586	Dhcr7
+#598	AnnotatorNotes T598	GO:0047598 (7-dehydrocholesterol reductase activity)
+T599	sup 17586 17589	-/-
+#599	AnnotatorNotes T599	sup (null)
+T600	NCBITaxon 17590 17594	mice
+#600	AnnotatorNotes T600	NCBITaxon:10088 (Mus)
+T601	CHEBI 17637 17644	sterols
+#601	AnnotatorNotes T601	CHEBI:15889 (sterols)
+T602	CHEBI 17712 17723	cholesterol
+#602	AnnotatorNotes T602	CHEBI:16113 (cholesterol)
+T603	SO 17740 17749	wild type
+#603	AnnotatorNotes T603	SO:0000817 (wild_type)
+T604	CHEBI 17813 17824	cholesterol
+#604	AnnotatorNotes T604	CHEBI:16113 (cholesterol)
+T605	italic 17849 17854	Dhcr7
+#605	AnnotatorNotes T605	italic (null)
+T606	EntrezGene 17849 17854	Dhcr7
+#606	AnnotatorNotes T606	EG:13360
+T607	independent_continuant 17849 17854	Dhcr7
+#607	AnnotatorNotes T607	independent_continuant
+T608	PR 17849 17854	Dhcr7
+#608	AnnotatorNotes T608	PR:000006454 (7-dehydrocholesterol reductase)
+T609	GO_MF 17849 17854	Dhcr7
+#609	AnnotatorNotes T609	GO:0047598 (7-dehydrocholesterol reductase activity)
+T610	GO_BP 17928 17939	gestational
+#610	AnnotatorNotes T610	GO:0007565 (female pregnancy)
+T611	GO_BP 18024 18033	generated
+#611	AnnotatorNotes T611	GO:0009058 (biosynthetic process)
+T612	CHEBI 18088 18095	sterols
+#612	AnnotatorNotes T612	CHEBI:15889 (sterols)
+T613	GO_BP 18099 18104	birth
+#613	AnnotatorNotes T613	GO:0007567 (parturition)
+T614	italic 18134 18139	Dhcr7
+#614	AnnotatorNotes T614	italic (null)
+T615	independent_continuant 18134 18139	Dhcr7
+#615	AnnotatorNotes T615	independent_continuant
+T616	EntrezGene 18134 18139	Dhcr7
+#616	AnnotatorNotes T616	EG:13360
+T617	PR 18134 18139	Dhcr7
+#617	AnnotatorNotes T617	PR:000006454 (7-dehydrocholesterol reductase)
+T618	GO_MF 18134 18139	Dhcr7
+#618	AnnotatorNotes T618	GO:0047598 (7-dehydrocholesterol reductase activity)
+T619	NCBITaxon 18145 18149	mice
+#619	AnnotatorNotes T619	NCBITaxon:10088 (Mus)
+T620	NCBITaxon 18206 18210	mice
+#620	AnnotatorNotes T620	NCBITaxon:10088 (Mus)
+T621	bold 18224 18259	Sterol analyses of embryonic lungs.
+#621	AnnotatorNotes T621	bold (null)
+T622	CHEBI 18224 18230	Sterol
+#622	AnnotatorNotes T622	CHEBI:15889 (sterols)
+T623	CHEBI 18260 18266	Sterol
+#623	AnnotatorNotes T623	CHEBI:15889 (sterols)
+T624	CHEBI 18287 18298	cholesterol
+#624	AnnotatorNotes T624	CHEBI:16113 (cholesterol)
+T625	SO 18384 18393	wild-type
+#625	AnnotatorNotes T625	SO:0000817 (wild_type)
+T626	SO 18395 18396	+
+#626	AnnotatorNotes T626	SO:0000817 (wild_type)
+T627	SO 18397 18398	+
+#627	AnnotatorNotes T627	SO:0000817 (wild_type)
+T628	CHEBI 18520 18527	sterols
+#628	AnnotatorNotes T628	CHEBI:15889 (sterols)
+T629	CHEBI 18599 18610	cholesterol
+#629	AnnotatorNotes T629	CHEBI:16113 (cholesterol)
+T630	CHEBI 18698 18705	sterols
+#630	AnnotatorNotes T630	CHEBI:15889 (sterols)
+T631	GO_BP 18746 18755	gestation
+#631	AnnotatorNotes T631	GO:0007565 (female pregnancy)
+T632	CHEBI 18758 18769	Cholesterol
+#632	AnnotatorNotes T632	CHEBI:16113 (cholesterol)
+T633	CHEBI 18797 18812	steroid hormone
+#633	AnnotatorNotes T633	CHEBI:26764 (steroid hormone)
+T634	CHEBI 18797 18804	steroid
+#634	AnnotatorNotes T634	CHEBI:35341 (steroids)
+T635	GO_BP 18805 18822	hormone synthesis
+#635	AnnotatorNotes T635	GO:0042446 (hormone biosynthetic process)
+T636	GO_MF 18805 18812	hormone
+#636	AnnotatorNotes T636	GO:0005179 (hormone activity)
+T637	independent_continuant 18805 18812	hormone
+#637	AnnotatorNotes T637	independent_continuant
+T638	CHEBI 19004 19012	Steroids
+#638	AnnotatorNotes T638	CHEBI:35341 (steroids)
+T639	CHEBI 19031 19046	corticosteroids
+#639	AnnotatorNotes T639	CHEBI:36699 (corticosteroid hormone)
+T640	GO_BP 19071 19081	maturation
+#640	AnnotatorNotes T640	GO:0021700 (developmental maturation)
+T641	GO_BP 19098 19107	synthesis
+#641	AnnotatorNotes T641	GO:0009058 (biosynthetic process)
+T642	GO_BP 19112 19121	secretion
+#642	AnnotatorNotes T642	GO:0046903 (secretion)
+T643	CHEBI 19125 19135	surfactant
+#643	AnnotatorNotes T643	CHEBI:35195 (surfactant)
+T644	CHEBI 19174 19188	corticosterone
+#644	AnnotatorNotes T644	CHEBI:16827 (corticosterone)
+T645	NCBITaxon 19202 19206	mice
+#645	AnnotatorNotes T645	NCBITaxon:10088 (Mus)
+T646	GO_BP 19222 19227	birth
+#646	AnnotatorNotes T646	GO:0007567 (parturition)
+T647	SO 19229 19238	Wild type
+#647	AnnotatorNotes T647	SO:0000817 (wild_type)
+T648	NCBITaxon 19242 19246	mice
+#648	AnnotatorNotes T648	NCBITaxon:10088 (Mus)
+T649	CHEBI 19251 19265	corticosterone
+#649	AnnotatorNotes T649	CHEBI:16827 (corticosterone)
+T650	italic 19351 19356	Dhcr7
+#650	AnnotatorNotes T650	italic (null)
+T651	EntrezGene 19351 19356	Dhcr7
+#651	AnnotatorNotes T651	EG:13360
+T652	GO_MF 19351 19356	Dhcr7
+#652	AnnotatorNotes T652	GO:0047598 (7-dehydrocholesterol reductase activity)
+T653	PR 19351 19356	Dhcr7
+#653	AnnotatorNotes T653	PR:000006454 (7-dehydrocholesterol reductase)
+T654	independent_continuant 19351 19356	Dhcr7
+#654	AnnotatorNotes T654	independent_continuant
+T655	sup 19356 19359	-/-
+#655	AnnotatorNotes T655	sup (null)
+T656	NCBITaxon 19363 19367	mice
+#656	AnnotatorNotes T656	NCBITaxon:10088 (Mus)
+T657	CHEBI 19379 19393	corticosterone
+#657	AnnotatorNotes T657	CHEBI:16827 (corticosterone)
+T658	italic 19404 19409	Dhcr7
+#658	AnnotatorNotes T658	italic (null)
+T659	independent_continuant 19404 19409	Dhcr7
+#659	AnnotatorNotes T659	independent_continuant
+T660	PR 19404 19409	Dhcr7
+#660	AnnotatorNotes T660	PR:000006454 (7-dehydrocholesterol reductase)
+T661	GO_MF 19404 19409	Dhcr7
+#661	AnnotatorNotes T661	GO:0047598 (7-dehydrocholesterol reductase activity)
+T662	EntrezGene 19404 19409	Dhcr7
+#662	AnnotatorNotes T662	EG:13360
+T663	sup 19409 19412	-/-
+#663	AnnotatorNotes T663	sup (null)
+T664	NCBITaxon 19413 19417	mice
+#664	AnnotatorNotes T664	NCBITaxon:10088 (Mus)
+T665	NCBITaxon 19485 19489	mice
+#665	AnnotatorNotes T665	NCBITaxon:10088 (Mus)
+T666	GO_BP 19495 19500	dying
+#666	AnnotatorNotes T666	GO:0016265 (death)
+T667	CHEBI 19592 19606	corticosterone
+#667	AnnotatorNotes T667	CHEBI:16827 (corticosterone)
+T668	CHEBI 19683 19697	corticosterone
+#668	AnnotatorNotes T668	CHEBI:16827 (corticosterone)
+T669	CHEBI 19751 19761	surfactant
+#669	AnnotatorNotes T669	CHEBI:35195 (surfactant)
+T670	CHEBI 19762 19769	protein
+#670	AnnotatorNotes T670	CHEBI:36080 (proteins)
+T671	GO_BP 19770 19780	expression
+#671	AnnotatorNotes T671	GO:0010467 (gene expression)
+T672	EntrezGene 19782 19802	Surfactant protein C
+#672	AnnotatorNotes T672	EG:20389
+T673	PR 19782 19802	Surfactant protein C
+#673	AnnotatorNotes T673	PR:000014774 (pulmonary surfactant-associated protein C)
+T674	CHEBI 19782 19792	Surfactant
+#674	AnnotatorNotes T674	CHEBI:35195 (surfactant)
+T675	CHEBI 19793 19800	protein
+#675	AnnotatorNotes T675	CHEBI:36080 (proteins)
+T676	SO 19863 19872	wild-type
+#676	AnnotatorNotes T676	SO:0000817 (wild_type)
+T677	italic 19876 19881	Dhcr7
+#677	AnnotatorNotes T677	italic (null)
+T678	EntrezGene 19876 19881	Dhcr7
+#678	AnnotatorNotes T678	EG:13360
+T679	PR 19876 19881	Dhcr7
+#679	AnnotatorNotes T679	PR:000006454 (7-dehydrocholesterol reductase)
+T680	independent_continuant 19876 19881	Dhcr7
+#680	AnnotatorNotes T680	independent_continuant
+T681	GO_MF 19876 19881	Dhcr7
+#681	AnnotatorNotes T681	GO:0047598 (7-dehydrocholesterol reductase activity)
+T682	GO_BP 19923 19934	gestational
+#682	AnnotatorNotes T682	GO:0007565 (female pregnancy)
+T683	EntrezGene 19981 19985	SP-A
+#683	AnnotatorNotes T683	EG:20387
+T684	PR 19981 19985	SP-A
+#684	AnnotatorNotes T684	PR:000015945 (pulmonary surfactant-associated protein A)
+T685	EntrezGene 19987 19991	SP-B
+#685	AnnotatorNotes T685	EG:20388
+T686	PR 19987 19991	SP-B
+#686	AnnotatorNotes T686	PR:000014773 (pulmonary surfactant-associated protein B)
+T687	EntrezGene 19993 19997	SP-C
+#687	AnnotatorNotes T687	EG:20389
+T688	PR 19993 19997	SP-C
+#688	AnnotatorNotes T688	PR:000014774 (pulmonary surfactant-associated protein C)
+T689	EntrezGene 20001 20005	SP-D
+#689	AnnotatorNotes T689	EG:20390
+T690	PR 20001 20005	SP-D
+#690	AnnotatorNotes T690	PR:000014775 (pulmonary surfactant-associated protein D)
+T691	SO 20050 20059	wild-type
+#691	AnnotatorNotes T691	SO:0000817 (wild_type)
+T692	italic 20064 20069	Dhcr7
+#692	AnnotatorNotes T692	italic (null)
+T693	independent_continuant 20064 20069	Dhcr7
+#693	AnnotatorNotes T693	independent_continuant
+T694	PR 20064 20069	Dhcr7
+#694	AnnotatorNotes T694	PR:000006454 (7-dehydrocholesterol reductase)
+T695	EntrezGene 20064 20069	Dhcr7
+#695	AnnotatorNotes T695	EG:13360
+T696	GO_MF 20064 20069	Dhcr7
+#696	AnnotatorNotes T696	GO:0047598 (7-dehydrocholesterol reductase activity)
+T697	NCBITaxon 20075 20079	mice
+#697	AnnotatorNotes T697	NCBITaxon:10088 (Mus)
+T698	CHEBI 20113 20123	surfactant
+#698	AnnotatorNotes T698	CHEBI:35195 (surfactant)
+T699	CHEBI 20124 20131	protein
+#699	AnnotatorNotes T699	CHEBI:36080 (proteins)
+T700	GO_BP 20132 20142	expression
+#700	AnnotatorNotes T700	GO:0010467 (gene expression)
+T701	GO_MF 20162 20167	Dhcr7
+#701	AnnotatorNotes T701	GO:0047598 (7-dehydrocholesterol reductase activity)
+T702	independent_continuant 20162 20167	Dhcr7
+#702	AnnotatorNotes T702	independent_continuant
+T703	PR 20162 20167	Dhcr7
+#703	AnnotatorNotes T703	PR:000006454 (7-dehydrocholesterol reductase)
+T704	EntrezGene 20162 20167	Dhcr7
+#704	AnnotatorNotes T704	EG:13360
+T705	bold 20191 20230	Surfactant protein expression in lungs.
+#705	AnnotatorNotes T705	bold (null)
+T706	CHEBI 20191 20201	Surfactant
+#706	AnnotatorNotes T706	CHEBI:35195 (surfactant)
+T707	CHEBI 20202 20209	protein
+#707	AnnotatorNotes T707	CHEBI:36080 (proteins)
+T708	GO_BP 20210 20220	expression
+#708	AnnotatorNotes T708	GO:0010467 (gene expression)
+T709	EntrezGene 20277 20281	SP-C
+#709	AnnotatorNotes T709	EG:20389
+T710	PR 20277 20281	SP-C
+#710	AnnotatorNotes T710	PR:000014774 (pulmonary surfactant-associated protein C)
+T711	SO 20315 20324	wild-type
+#711	AnnotatorNotes T711	SO:0000817 (wild_type)
+T712	SO 20326 20327	+
+#712	AnnotatorNotes T712	SO:0000817 (wild_type)
+T713	SO 20328 20329	+
+#713	AnnotatorNotes T713	SO:0000817 (wild_type)
+T714	EntrezGene 20405 20409	SP-C
+#714	AnnotatorNotes T714	EG:20389
+T715	PR 20405 20409	SP-C
+#715	AnnotatorNotes T715	PR:000014774 (pulmonary surfactant-associated protein C)
+T716	SO 20440 20449	wild-type
+#716	AnnotatorNotes T716	SO:0000817 (wild_type)
+T717	GO_BP 20556 20565	expressed
+#717	AnnotatorNotes T717	GO:0010467 (gene expression)
+T718	EntrezGene 20566 20570	SP-C
+#718	AnnotatorNotes T718	EG:20389
+T719	PR 20566 20570	SP-C
+#719	AnnotatorNotes T719	PR:000014774 (pulmonary surfactant-associated protein C)
+T720	GO_BP 20634 20649	differentiation
+#720	AnnotatorNotes T720	GO:0030154 (cell differentiation)
+T721	SO 20768 20771	RNA
+#721	AnnotatorNotes T721	SO:0000356 (RNA)
+T722	SO 20777 20786	wild-type
+#722	AnnotatorNotes T722	SO:0000817 (wild_type)
+T723	EntrezGene 20827 20831	SP-A
+#723	AnnotatorNotes T723	EG:20387
+T724	PR 20827 20831	SP-A
+#724	AnnotatorNotes T724	PR:000015945 (pulmonary surfactant-associated protein A)
+T725	EntrezGene 20833 20837	SP-B
+#725	AnnotatorNotes T725	EG:20388
+T726	PR 20833 20837	SP-B
+#726	AnnotatorNotes T726	PR:000014773 (pulmonary surfactant-associated protein B)
+T727	EntrezGene 20839 20843	SP-C
+#727	AnnotatorNotes T727	EG:20389
+T728	PR 20839 20843	SP-C
+#728	AnnotatorNotes T728	PR:000014774 (pulmonary surfactant-associated protein C)
+T729	EntrezGene 20848 20852	SP-D
+#729	AnnotatorNotes T729	EG:20390
+T730	PR 20848 20852	SP-D
+#730	AnnotatorNotes T730	PR:000014775 (pulmonary surfactant-associated protein D)
+T731	GO_BP 20853 20863	expression
+#731	AnnotatorNotes T731	GO:0010467 (gene expression)
+T732	GO_BP 20907 20917	expression
+#732	AnnotatorNotes T732	GO:0010467 (gene expression)
+T733	CHEBI 20948 20958	surfactant
+#733	AnnotatorNotes T733	CHEBI:35195 (surfactant)
+T734	CHEBI 20959 20966	protein
+#734	AnnotatorNotes T734	CHEBI:36080 (proteins)
+T735	CHEBI 20967 20972	mRNAs
+#735	AnnotatorNotes T735	CHEBI:33699 (messenger RNA)
+T736	SO 20967 20972	mRNAs
+#736	AnnotatorNotes T736	SO:0000234 (mRNA)
+T737	SO 21026 21035	genotypes
+#737	AnnotatorNotes T737	SO:0001027 (genotype)
+T738	italic 21038 21043	Dhcr7
+#738	AnnotatorNotes T738	italic (null)
+T739	GO_MF 21038 21043	Dhcr7
+#739	AnnotatorNotes T739	GO:0047598 (7-dehydrocholesterol reductase activity)
+T740	EntrezGene 21038 21043	Dhcr7
+#740	AnnotatorNotes T740	EG:13360
+T741	PR 21038 21043	Dhcr7
+#741	AnnotatorNotes T741	PR:000006454 (7-dehydrocholesterol reductase)
+T742	independent_continuant 21038 21043	Dhcr7
+#742	AnnotatorNotes T742	independent_continuant
+T743	sup 21043 21046	-/-
+#743	AnnotatorNotes T743	sup (null)
+T744	GO_BP 21069 21120	differentiation of type I alveolar epithelial cells
+#744	AnnotatorNotes T744	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T745	CL 21104 21120	epithelial cells
+#745	AnnotatorNotes T745	CL:0000066 (epithelial cell)
+T746	GO_CC 21115 21120	cells
+#746	AnnotatorNotes T746	GO:0005623 (cell)
+T747	SO 21158 21167	wild type
+#747	AnnotatorNotes T747	SO:0000817 (wild_type)
+T748	CHEBI 21252 21262	surfactant
+#748	AnnotatorNotes T748	CHEBI:35195 (surfactant)
+T749	GO_BP 21263 21272	producing
+#749	AnnotatorNotes T749	GO:0009058 (biosynthetic process)
+T750	GO_BP 21314 21323	formation
+#750	AnnotatorNotes T750	GO:0032502 (developmental process)
+T751	GO_MF 21366 21371	Dhcr7
+#751	AnnotatorNotes T751	GO:0047598 (7-dehydrocholesterol reductase activity)
+T752	PR 21366 21371	Dhcr7
+#752	AnnotatorNotes T752	PR:000006454 (7-dehydrocholesterol reductase)
+T753	independent_continuant 21366 21371	Dhcr7
+#753	AnnotatorNotes T753	independent_continuant
+T754	EntrezGene 21366 21371	Dhcr7
+#754	AnnotatorNotes T754	EG:13360
+T755	CL 21498 21503	cells
+#755	AnnotatorNotes T755	CL:0000000 (cell)
+T756	GO_CC 21498 21503	cells
+#756	AnnotatorNotes T756	GO:0005623 (cell)
+T757	GO_BP 21626 21641	differentiation
+#757	AnnotatorNotes T757	GO:0030154 (cell differentiation)
+T758	GO_BP 21672 21682	expression
+#758	AnnotatorNotes T758	GO:0010467 (gene expression)
+T759	EntrezGene 21686 21689	T1α
+#759	AnnotatorNotes T759	EG:14726
+T760	PR 21686 21689	T1α
+#760	AnnotatorNotes T760	PR:000012516 (podoplanin)
+T761	GO_CC 21694 21709	apical membrane
+#761	AnnotatorNotes T761	GO:0016324 (apical plasma membrane)
+T762	GO_CC 21694 21700	apical
+#762	AnnotatorNotes T762	GO:0045177 (apical part of cell)
+T763	CHEBI 21710 21717	protein
+#763	AnnotatorNotes T763	CHEBI:36080 (proteins)
+T764	EntrezGene 21804 21808	AQP5
+#764	AnnotatorNotes T764	EG:11830
+T765	PR 21804 21808	AQP5
+#765	AnnotatorNotes T765	PR:000004185 (aquaporin-5)
+T766	GO_MF 21855 21860	Dhcr7
+#766	AnnotatorNotes T766	GO:0047598 (7-dehydrocholesterol reductase activity)
+T767	EntrezGene 21855 21860	Dhcr7
+#767	AnnotatorNotes T767	EG:13360
+T768	independent_continuant 21855 21860	Dhcr7
+#768	AnnotatorNotes T768	independent_continuant
+T769	PR 21855 21860	Dhcr7
+#769	AnnotatorNotes T769	PR:000006454 (7-dehydrocholesterol reductase)
+T770	PR 21943 21950	Megalin
+#770	AnnotatorNotes T770	PR:000009921 (low-density lipoprotein receptor-related protein 2)
+T771	GO_MF 21954 21986	low density lipoprotein receptor
+#771	AnnotatorNotes T771	GO:0005041 (low-density lipoprotein receptor activity)
+T772	PR 21954 21986	low density lipoprotein receptor
+#772	AnnotatorNotes T772	PR:000009744 (low-density lipoprotein receptor)
+T773	independent_continuant 21954 21986	low density lipoprotein receptor
+#773	AnnotatorNotes T773	independent_continuant
+T774	CHEBI 21954 21977	low density lipoprotein
+#774	AnnotatorNotes T774	CHEBI:39026 (low-density lipoproteins)
+T775	GO_MF 21988 21992	LDLR
+#775	AnnotatorNotes T775	GO:0005041 (low-density lipoprotein receptor activity)
+T776	independent_continuant 21988 21992	LDLR
+#776	AnnotatorNotes T776	independent_continuant
+T777	PR 21988 21992	LDLR
+#777	AnnotatorNotes T777	PR:000009744 (low-density lipoprotein receptor)
+T778	SO 21994 21998	gene
+#778	AnnotatorNotes T778	SO:0000704 (gene)
+T779	GO_BP 22017 22026	expressed
+#779	AnnotatorNotes T779	GO:0010467 (gene expression)
+T780	CL 22040 22056	epithelial cells
+#780	AnnotatorNotes T780	CL:0000066 (epithelial cell)
+T781	GO_CC 22051 22056	cells
+#781	AnnotatorNotes T781	GO:0005623 (cell)
+T782	GO_BP 22080 22089	endocytic
+#782	AnnotatorNotes T782	GO:0006897 (endocytosis)
+T783	PR 22090 22093	Shh
+#783	AnnotatorNotes T783	PR:000014841 (sonic hedgehog protein)
+T784	GO_MF 22094 22102	receptor
+#784	AnnotatorNotes T784	GO:0004872 (receptor activity)
+T785	independent_continuant 22094 22102	receptor
+#785	AnnotatorNotes T785	independent_continuant
+T786	EntrezGene 22109 22116	Megalin
+#786	AnnotatorNotes T786	EG:14725
+T787	PR 22109 22116	Megalin
+#787	AnnotatorNotes T787	PR:000009921 (low-density lipoprotein receptor-related protein 2)
+T788	GO_BP 22128 22137	expressed
+#788	AnnotatorNotes T788	GO:0010467 (gene expression)
+T789	SO 22177 22186	wild-type
+#789	AnnotatorNotes T789	SO:0000817 (wild_type)
+T790	GO_BP 22228 22237	developed
+#790	AnnotatorNotes T790	GO:0032502 (developmental process)
+T791	EntrezGene 22278 22285	megalin
+#791	AnnotatorNotes T791	EG:14725
+T792	PR 22278 22285	megalin
+#792	AnnotatorNotes T792	PR:000009921 (low-density lipoprotein receptor-related protein 2)
+T793	GO_BP 22311 22321	developing
+#793	AnnotatorNotes T793	GO:0032502 (developmental process)
+T794	GO_BP 22364 22374	expression
+#794	AnnotatorNotes T794	GO:0010467 (gene expression)
+T795	CL 22417 22422	cells
+#795	AnnotatorNotes T795	CL:0000000 (cell)
+T796	GO_CC 22417 22422	cells
+#796	AnnotatorNotes T796	GO:0005623 (cell)
+T797	GO_BP 22476 22491	differentiation
+#797	AnnotatorNotes T797	GO:0030154 (cell differentiation)
+T798	bold 22526 22574	Characterization of type I AECs differentiation.
+#798	AnnotatorNotes T798	bold (null)
+T799	GO_BP 22558 22573	differentiation
+#799	AnnotatorNotes T799	GO:0030154 (cell differentiation)
+T800	SO 22605 22614	wild-type
+#800	AnnotatorNotes T800	SO:0000817 (wild_type)
+T801	independent_continuant 22605 22614	wild-type
+#801	AnnotatorNotes T801	independent_continuant
+T802	SO 22616 22617	+
+#802	AnnotatorNotes T802	SO:0000817 (wild_type)
+T803	SO 22618 22619	+
+#803	AnnotatorNotes T803	SO:0000817 (wild_type)
+T804	CL 22686 22702	epithelial cells
+#804	AnnotatorNotes T804	CL:0000066 (epithelial cell)
+T805	GO_CC 22697 22702	cells
+#805	AnnotatorNotes T805	GO:0005623 (cell)
+T806	GO_BP 22774 22783	developed
+#806	AnnotatorNotes T806	GO:0032502 (developmental process)
+T807	CL 22811 22827	epithelial cells
+#807	AnnotatorNotes T807	CL:0000066 (epithelial cell)
+T808	GO_CC 22822 22827	cells
+#808	AnnotatorNotes T808	GO:0005623 (cell)
+T809	CL 22963 22967	cell
+#809	AnnotatorNotes T809	CL:0000000 (cell)
+T810	GO_CC 22963 22967	cell
+#810	AnnotatorNotes T810	GO:0005623 (cell)
+T811	EntrezGene 22976 22979	T1α
+#811	AnnotatorNotes T811	EG:14726
+T812	PR 22976 22979	T1α
+#812	AnnotatorNotes T812	PR:000012516 (podoplanin)
+T813	EntrezGene 22984 22988	AQP5
+#813	AnnotatorNotes T813	EG:11830
+T814	PR 22984 22988	AQP5
+#814	AnnotatorNotes T814	PR:000004185 (aquaporin-5)
+T815	CL 23030 23065	epithelial cells in wild-type lungs
+#815	AnnotatorNotes T815	"epithelial cells in .. lungs" CL:0000082 (epithelial cell of lung)
+T816	GO_CC 23041 23046	cells
+#816	AnnotatorNotes T816	GO:0005623 (cell)
+T817	SO 23050 23059	wild-type
+#817	AnnotatorNotes T817	SO:0000817 (wild_type)
+T818	EntrezGene 23148 23151	T1α
+#818	AnnotatorNotes T818	EG:14726
+T819	PR 23148 23151	T1α
+#819	AnnotatorNotes T819	PR:000012516 (podoplanin)
+T820	EntrezGene 23156 23160	AQP5
+#820	AnnotatorNotes T820	EG:11830
+T821	PR 23156 23160	AQP5
+#821	AnnotatorNotes T821	PR:000004185 (aquaporin-5)
+T822	EntrezGene 23227 23234	Megalin
+#822	AnnotatorNotes T822	EG:14725
+T823	PR 23227 23234	Megalin
+#823	AnnotatorNotes T823	PR:000009921 (low-density lipoprotein receptor-related protein 2)
+T824	GO_BP 23235 23245	expression
+#824	AnnotatorNotes T824	GO:0010467 (gene expression)
+T825	EntrezGene 23247 23250	Meg
+#825	AnnotatorNotes T825	EG:14725
+T826	PR 23247 23250	Meg
+#826	AnnotatorNotes T826	PR:000009921 (low-density lipoprotein receptor-related protein 2)
+T827	CL 23279 23295	epithelial cells
+#827	AnnotatorNotes T827	CL:0000066 (epithelial cell)
+T828	GO_CC 23290 23295	cells
+#828	AnnotatorNotes T828	GO:0005623 (cell)
+T829	CL 23328 23374	epithelial cells (data not shown) in the lungs
+#829	AnnotatorNotes T829	"epithelial cells .. in .. lungs" CL:0000082 (epithelial cell of lung)
+T830	GO_CC 23339 23344	cells
+#830	AnnotatorNotes T830	GO:0005623 (cell)
+T831	SO 23385 23394	wild-type
+#831	AnnotatorNotes T831	SO:0000817 (wild_type)
+T832	independent_continuant 23385 23394	wild-type
+#832	AnnotatorNotes T832	independent_continuant
+T833	EntrezGene 23432 23439	megalin
+#833	AnnotatorNotes T833	EG:14725
+T834	PR 23432 23439	megalin
+#834	AnnotatorNotes T834	PR:000009921 (low-density lipoprotein receptor-related protein 2)
+T835	CL 23449 23465	epithelial cells
+#835	AnnotatorNotes T835	CL:0000066 (epithelial cell)
+T836	GO_CC 23460 23465	cells
+#836	AnnotatorNotes T836	GO:0005623 (cell)
+T837	GO_BP 23487 23496	developed
+#837	AnnotatorNotes T837	GO:0032502 (developmental process)
+T838	SO 23548 23557	wild-type
+#838	AnnotatorNotes T838	SO:0000817 (wild_type)
+T839	CL 23591 23607	epithelial cells
+#839	AnnotatorNotes T839	CL:0000066 (epithelial cell)
+T840	GO_CC 23602 23607	cells
+#840	AnnotatorNotes T840	GO:0005623 (cell)
+T841	PR 23630 23637	megalin
+#841	AnnotatorNotes T841	PR:000009921 (low-density lipoprotein receptor-related protein 2)
+T842	GO_CC 23638 23648	antibodies
+#842	AnnotatorNotes T842	GO:0019814 (immunoglobulin complex)
+T843	CL 23718 23723	cells
+#843	AnnotatorNotes T843	CL:0000000 (cell)
+T844	GO_CC 23718 23723	cells
+#844	AnnotatorNotes T844	GO:0005623 (cell)
+T845	GO_BP 23830 23850	vascular development
+#845	AnnotatorNotes T845	GO:0001944 (vasculature development)
+T846	italic 23854 23859	Dhcr7
+#846	AnnotatorNotes T846	italic (null)
+T847	GO_MF 23854 23859	Dhcr7
+#847	AnnotatorNotes T847	GO:0047598 (7-dehydrocholesterol reductase activity)
+T848	EntrezGene 23854 23859	Dhcr7
+#848	AnnotatorNotes T848	EG:13360
+T849	PR 23854 23859	Dhcr7
+#849	AnnotatorNotes T849	PR:000006454 (7-dehydrocholesterol reductase)
+T850	independent_continuant 23854 23859	Dhcr7
+#850	AnnotatorNotes T850	independent_continuant
+T851	sup 23859 23862	-/-
+#851	AnnotatorNotes T851	sup (null)
+T852	GO_BP 23908 23932	blood vessel development
+#852	AnnotatorNotes T852	GO:0001568 (blood vessel development)
+T853	GO_BP 23937 23964	lung structural development
+#853	AnnotatorNotes T853	GO:0030324 (lung development)
+T854	GO_BP 23975 23993	lung developmental
+#854	AnnotatorNotes T854	GO:0030324 (lung development)
+T855	GO_BP 24022 24033	development
+#855	AnnotatorNotes T855	GO:0032502 (developmental process)
+T856	GO_BP 24084 24096	gas-exchange
+#856	AnnotatorNotes T856	GO:0007585 (respiratory gaseous exchange)
+T857	italic 24176 24181	Dhcr7
+#857	AnnotatorNotes T857	italic (null)
+T858	PR 24176 24181	Dhcr7
+#858	AnnotatorNotes T858	PR:000006454 (7-dehydrocholesterol reductase)
+T859	independent_continuant 24176 24181	Dhcr7
+#859	AnnotatorNotes T859	independent_continuant
+T860	EntrezGene 24176 24181	Dhcr7
+#860	AnnotatorNotes T860	EG:13360
+T861	GO_MF 24176 24181	Dhcr7
+#861	AnnotatorNotes T861	GO:0047598 (7-dehydrocholesterol reductase activity)
+T862	sup 24181 24184	-/-
+#862	AnnotatorNotes T862	sup (null)
+T863	GO_BP 24199 24210	gestational
+#863	AnnotatorNotes T863	GO:0007565 (female pregnancy)
+T864	GO_BP 24386 24410	blood vessel development
+#864	AnnotatorNotes T864	GO:0001568 (blood vessel development)
+T865	SO 24437 24444	isoform
+#865	AnnotatorNotes T865	SO:0001060 (sequence_variant)
+T866	EntrezGene 24448 24458	caveolin-1
+#866	AnnotatorNotes T866	EG:12389
+T867	PR 24448 24458	caveolin-1
+#867	AnnotatorNotes T867	PR:000003198 (caveolin-1)
+T868	EntrezGene 24472 24516	platelet endothelial cell adhesion molecular
+#868	AnnotatorNotes T868	EG:18613
+T869	PR 24472 24516	platelet endothelial cell adhesion molecular
+#869	AnnotatorNotes T869	PR:000001904 (platelet endothelial cell adhesion molecule)
+T870	CL 24472 24480	platelet
+#870	AnnotatorNotes T870	CL:0000233 (platelet)
+T871	CL 24481 24497	endothelial cell
+#871	AnnotatorNotes T871	CL:0000115 (endothelial cell)
+T872	GO_BP 24493 24506	cell adhesion
+#872	AnnotatorNotes T872	GO:0007155 (cell adhesion)
+T873	GO_CC 24493 24497	cell
+#873	AnnotatorNotes T873	GO:0005623 (cell)
+T874	CHEBI 24507 24516	molecular
+#874	AnnotatorNotes T874	CHEBI:36357 (polyatomic entities)
+T875	EntrezGene 24518 24525	PECAM-1
+#875	AnnotatorNotes T875	EG:18613
+T876	PR 24518 24525	PECAM-1
+#876	AnnotatorNotes T876	PR:000001904 (platelet endothelial cell adhesion molecule)
+T877	SO 24559 24568	wild-type
+#877	AnnotatorNotes T877	SO:0000817 (wild_type)
+T878	italic 24573 24578	Dhcr7
+#878	AnnotatorNotes T878	italic (null)
+T879	independent_continuant 24573 24578	Dhcr7
+#879	AnnotatorNotes T879	independent_continuant
+T880	PR 24573 24578	Dhcr7
+#880	AnnotatorNotes T880	PR:000006454 (7-dehydrocholesterol reductase)
+T881	GO_MF 24573 24578	Dhcr7
+#881	AnnotatorNotes T881	GO:0047598 (7-dehydrocholesterol reductase activity)
+T882	EntrezGene 24573 24578	Dhcr7
+#882	AnnotatorNotes T882	EG:13360
+T883	sup 24578 24581	-/-
+#883	AnnotatorNotes T883	sup (null)
+T884	GO_BP 24596 24606	developing
+#884	AnnotatorNotes T884	GO:0032502 (developmental process)
+T885	GO_BP 24623 24632	expressed
+#885	AnnotatorNotes T885	GO:0010467 (gene expression)
+T886	GO_BP 24664 24674	developing
+#886	AnnotatorNotes T886	GO:0032502 (developmental process)
+T887	GO_BP 24740 24754	differentiated
+#887	AnnotatorNotes T887	GO:0030154 (cell differentiation)
+T888	GO_BP 24942 24952	developing
+#888	AnnotatorNotes T888	GO:0032502 (developmental process)
+T889	SO 25021 25030	wild-type
+#889	AnnotatorNotes T889	SO:0000817 (wild_type)
+T890	italic 25035 25040	Dhcr7
+#890	AnnotatorNotes T890	italic (null)
+T891	EntrezGene 25035 25040	Dhcr7
+#891	AnnotatorNotes T891	EG:13360
+T892	independent_continuant 25035 25040	Dhcr7
+#892	AnnotatorNotes T892	independent_continuant
+T893	PR 25035 25040	Dhcr7
+#893	AnnotatorNotes T893	PR:000006454 (7-dehydrocholesterol reductase)
+T894	GO_MF 25035 25040	Dhcr7
+#894	AnnotatorNotes T894	GO:0047598 (7-dehydrocholesterol reductase activity)
+T895	sup 25040 25043	-/-
+#895	AnnotatorNotes T895	sup (null)
+T896	GO_BP 25120 25140	vascular development
+#896	AnnotatorNotes T896	GO:0001944 (vasculature development)
+T897	GO_BP 25340 25349	developed
+#897	AnnotatorNotes T897	GO:0032502 (developmental process)
+T898	italic 25486 25491	Dhcr7
+#898	AnnotatorNotes T898	italic (null)
+T899	PR 25486 25491	Dhcr7
+#899	AnnotatorNotes T899	PR:000006454 (7-dehydrocholesterol reductase)
+T900	independent_continuant 25486 25491	Dhcr7
+#900	AnnotatorNotes T900	independent_continuant
+T901	EntrezGene 25486 25491	Dhcr7
+#901	AnnotatorNotes T901	EG:13360
+T902	GO_MF 25486 25491	Dhcr7
+#902	AnnotatorNotes T902	GO:0047598 (7-dehydrocholesterol reductase activity)
+T903	sup 25491 25494	-/-
+#903	AnnotatorNotes T903	sup (null)
+T904	CL 25612 25617	cells
+#904	AnnotatorNotes T904	CL:0000000 (cell)
+T905	GO_CC 25612 25617	cells
+#905	AnnotatorNotes T905	GO:0005623 (cell)
+T906	CL 25737 25753	epithelial cells
+#906	AnnotatorNotes T906	CL:0000066 (epithelial cell)
+T907	GO_CC 25748 25753	cells
+#907	AnnotatorNotes T907	GO:0005623 (cell)
+T908	EntrezGene 25818 25825	PECAM-1
+#908	AnnotatorNotes T908	EG:18613
+T909	PR 25818 25825	PECAM-1
+#909	AnnotatorNotes T909	PR:000001904 (platelet endothelial cell adhesion molecule)
+T910	GO_BP 25866 25891	lung vascular development
+#910	AnnotatorNotes T910	"lung .. development" GO:0030324 (lung development)
+T911	GO_BP 25871 25891	vascular development
+#911	AnnotatorNotes T911	GO:0001944 (vasculature development)
+T912	GO_BP 25906 25917	gestational
+#912	AnnotatorNotes T912	GO:0007565 (female pregnancy)
+T913	GO_MF 25928 25933	Dhcr7
+#913	AnnotatorNotes T913	GO:0047598 (7-dehydrocholesterol reductase activity)
+T914	PR 25928 25933	Dhcr7
+#914	AnnotatorNotes T914	PR:000006454 (7-dehydrocholesterol reductase)
+T915	independent_continuant 25928 25933	Dhcr7
+#915	AnnotatorNotes T915	independent_continuant
+T916	EntrezGene 25928 25933	Dhcr7
+#916	AnnotatorNotes T916	EG:13360
+T917	bold 25993 26062	Immunostaining patterns for caveolin-1α and PECAM-1 in lung sections.
+#917	AnnotatorNotes T917	bold (null)
+T918	EntrezGene 26037 26044	PECAM-1
+#918	AnnotatorNotes T918	EG:18613
+T919	PR 26037 26044	PECAM-1
+#919	AnnotatorNotes T919	PR:000001904 (platelet endothelial cell adhesion molecule)
+T920	GO_BP 26128 26139	development
+#920	AnnotatorNotes T920	GO:0032502 (developmental process)
+T921	GO_BP 26211 26221	Developing
+#921	AnnotatorNotes T921	GO:0032502 (developmental process)
+T922	SO 26365 26374	wild-type
+#922	AnnotatorNotes T922	SO:0000817 (wild_type)
+T923	SO 26376 26377	+
+#923	AnnotatorNotes T923	SO:0000817 (wild_type)
+T924	SO 26378 26379	+
+#924	AnnotatorNotes T924	SO:0000817 (wild_type)
+T925	GO_BP 26700 26710	expression
+#925	AnnotatorNotes T925	GO:0010467 (gene expression)
+T926	SO 26776 26785	wild-type
+#926	AnnotatorNotes T926	SO:0000817 (wild_type)
+T927	SO 26889 26898	wild-type
+#927	AnnotatorNotes T927	SO:0000817 (wild_type)
+T928	EntrezGene 26922 26929	PECAM-1
+#928	AnnotatorNotes T928	EG:18613
+T929	PR 26922 26929	PECAM-1
+#929	AnnotatorNotes T929	PR:000001904 (platelet endothelial cell adhesion molecule)
+T930	GO_BP 26994 27003	developed
+#930	AnnotatorNotes T930	GO:0032502 (developmental process)
+T931	CL 27064 27080	epithelial cells
+#931	AnnotatorNotes T931	CL:0000066 (epithelial cell)
+T932	GO_CC 27075 27080	cells
+#932	AnnotatorNotes T932	GO:0005623 (cell)
+T933	GO_BP 27146 27166	vascular development
+#933	AnnotatorNotes T933	GO:0001944 (vasculature development)
+T934	CL 27377 27393	epithelial cells
+#934	AnnotatorNotes T934	CL:0000066 (epithelial cell)
+T935	GO_CC 27388 27393	cells
+#935	AnnotatorNotes T935	GO:0005623 (cell)
+T936	EntrezGene 27500 27514	sonic hedgehog
+#936	AnnotatorNotes T936	EG:20423
+T937	PR 27500 27514	sonic hedgehog
+#937	AnnotatorNotes T937	PR:000014841 (sonic hedgehog protein)
+T938	GO_BP 27506 27538	hedgehog expression or signaling
+#938	AnnotatorNotes T938	"hedgehog .. signaling" GO:0007224 (smoothened signaling pathway)
+T939	GO_BP 27515 27525	expression
+#939	AnnotatorNotes T939	GO:0010467 (gene expression)
+T940	italic 27550 27555	Dhcr7
+#940	AnnotatorNotes T940	italic (null)
+T941	EntrezGene 27550 27555	Dhcr7
+#941	AnnotatorNotes T941	EG:13360
+T942	PR 27550 27555	Dhcr7
+#942	AnnotatorNotes T942	PR:000006454 (7-dehydrocholesterol reductase)
+T943	independent_continuant 27550 27555	Dhcr7
+#943	AnnotatorNotes T943	independent_continuant
+T944	GO_MF 27550 27555	Dhcr7
+#944	AnnotatorNotes T944	GO:0047598 (7-dehydrocholesterol reductase activity)
+T945	sup 27555 27558	-/-
+#945	AnnotatorNotes T945	sup (null)
+T946	PR 27569 27572	Shh
+#946	AnnotatorNotes T946	PR:000014841 (sonic hedgehog protein)
+T947	GO_BP 27596 27617	embryonic development
+#947	AnnotatorNotes T947	GO:0009790 (embryonic development)
+T948	GO_BP 27626 27640	autoprocessing
+#948	AnnotatorNotes T948	GO:0016540 (protein autoprocessing)
+T949	CHEBI 27657 27677	cholesterol molecule
+#949	AnnotatorNotes T949	CHEBI:16113 (cholesterol)
+T950	GO_MF 27689 27697	attached
+#950	AnnotatorNotes T950	GO:0005488 (binding)
+T951	SO 27705 27715	C-terminus
+#951	AnnotatorNotes T951	SO:0100015 (c_terminal_region)
+T952	CHEBI 27705 27706	C
+#952	AnnotatorNotes T952	CHEBI:46883 (carboxy group)
+T953	CHEBI 27705 27706	C
+#953	AnnotatorNotes T953	CHEBI:18245 (carboxylato group)
+T954	GO_BP 27745 27754	regulated
+#954	AnnotatorNotes T954	GO:0065007 (biological regulation)
+T955	GO_BP 27755 27764	signaling
+#955	AnnotatorNotes T955	GO:0007165 (signal transduction)
+T956	GO_BP 27803 27827	cholesterol biosynthesis
+#956	AnnotatorNotes T956	GO:0006695 (cholesterol biosynthetic process)
+T957	CHEBI 27803 27814	cholesterol
+#957	AnnotatorNotes T957	CHEBI:16113 (cholesterol)
+T958	GO_BP 27869 27881	distribution
+#958	AnnotatorNotes T958	GO:0051179 (localization)
+T959	GO_BP 27905 27916	development
+#959	AnnotatorNotes T959	GO:0032502 (developmental process)
+T960	GO_BP 27948 27958	expression
+#960	AnnotatorNotes T960	GO:0010467 (gene expression)
+T961	EntrezGene 27962 27965	Shh
+#961	AnnotatorNotes T961	EG:20423
+T962	PR 27962 27965	Shh
+#962	AnnotatorNotes T962	PR:000014841 (sonic hedgehog protein)
+T963	italic 27985 27990	Dhcr7
+#963	AnnotatorNotes T963	italic (null)
+T964	EntrezGene 27985 27990	Dhcr7
+#964	AnnotatorNotes T964	EG:13360
+T965	PR 27985 27990	Dhcr7
+#965	AnnotatorNotes T965	PR:000006454 (7-dehydrocholesterol reductase)
+T966	independent_continuant 27985 27990	Dhcr7
+#966	AnnotatorNotes T966	independent_continuant
+T967	GO_MF 27985 27990	Dhcr7
+#967	AnnotatorNotes T967	GO:0047598 (7-dehydrocholesterol reductase activity)
+T968	sup 27990 27993	-/-
+#968	AnnotatorNotes T968	sup (null)
+T969	GO_BP 28010 28022	distribution
+#969	AnnotatorNotes T969	GO:0051179 (localization)
+T970	EntrezGene 28026 28029	Shh
+#970	AnnotatorNotes T970	EG:20423
+T971	PR 28026 28029	Shh
+#971	AnnotatorNotes T971	PR:000014841 (sonic hedgehog protein)
+T972	italic 28037 28042	Dhcr7
+#972	AnnotatorNotes T972	italic (null)
+T973	EntrezGene 28037 28042	Dhcr7
+#973	AnnotatorNotes T973	EG:13360
+T974	PR 28037 28042	Dhcr7
+#974	AnnotatorNotes T974	PR:000006454 (7-dehydrocholesterol reductase)
+T975	independent_continuant 28037 28042	Dhcr7
+#975	AnnotatorNotes T975	independent_continuant
+T976	GO_MF 28037 28042	Dhcr7
+#976	AnnotatorNotes T976	GO:0047598 (7-dehydrocholesterol reductase activity)
+T977	sup 28042 28045	-/-
+#977	AnnotatorNotes T977	sup (null)
+T978	SO 28050 28059	wild-type
+#978	AnnotatorNotes T978	SO:0000817 (wild_type)
+T979	PR 28109 28112	Shh
+#979	AnnotatorNotes T979	PR:000014841 (sonic hedgehog protein)
+T980	CHEBI 28113 28114	N
+#980	AnnotatorNotes T980	CHEBI:46882 (amino group)
+T981	SO 28113 28114	N
+#981	AnnotatorNotes T981	SO:0100014 (n_terminal_region)
+T982	SO 28115 28122	peptide
+#982	AnnotatorNotes T982	SO:0001407 (peptidyl)
+T983	GO_CC 28123 28131	antibody
+#983	AnnotatorNotes T983	GO:0019814 (immunoglobulin complex)
+T984	GO_BP 28147 28159	distribution
+#984	AnnotatorNotes T984	GO:0051179 (localization)
+T985	EntrezGene 28163 28166	Shh
+#985	AnnotatorNotes T985	EG:20423
+T986	PR 28163 28166	Shh
+#986	AnnotatorNotes T986	PR:000014841 (sonic hedgehog protein)
+T987	CL 28187 28203	epithelial cells
+#987	AnnotatorNotes T987	CL:0000066 (epithelial cell)
+T988	GO_CC 28198 28203	cells
+#988	AnnotatorNotes T988	GO:0005623 (cell)
+T989	EntrezGene 28279 28282	Shh
+#989	AnnotatorNotes T989	EG:20423
+T990	PR 28279 28282	Shh
+#990	AnnotatorNotes T990	PR:000014841 (sonic hedgehog protein)
+T991	GO_BP 28283 28293	expressing
+#991	AnnotatorNotes T991	GO:0010467 (gene expression)
+T992	italic 28415 28420	Dhcr7
+#992	AnnotatorNotes T992	italic (null)
+T993	GO_MF 28415 28420	Dhcr7
+#993	AnnotatorNotes T993	GO:0047598 (7-dehydrocholesterol reductase activity)
+T994	independent_continuant 28415 28420	Dhcr7
+#994	AnnotatorNotes T994	independent_continuant
+T995	PR 28415 28420	Dhcr7
+#995	AnnotatorNotes T995	PR:000006454 (7-dehydrocholesterol reductase)
+T996	EntrezGene 28415 28420	Dhcr7
+#996	AnnotatorNotes T996	EG:13360
+T997	sup 28420 28423	-/-
+#997	AnnotatorNotes T997	sup (null)
+T998	GO_BP 28511 28522	gestational
+#998	AnnotatorNotes T998	GO:0007565 (female pregnancy)
+T999	GO_BP 28539 28544	birth
+#999	AnnotatorNotes T999	GO:0007567 (parturition)
+T1000	SO 28587 28596	wild-type
+#1000	AnnotatorNotes T1000	SO:0000817 (wild_type)
+T1001	GO_MF 28601 28606	Dhcr7
+#1001	AnnotatorNotes T1001	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1002	PR 28601 28606	Dhcr7
+#1002	AnnotatorNotes T1002	PR:000006454 (7-dehydrocholesterol reductase)
+T1003	independent_continuant 28601 28606	Dhcr7
+#1003	AnnotatorNotes T1003	independent_continuant
+T1004	EntrezGene 28601 28606	Dhcr7
+#1004	AnnotatorNotes T1004	EG:13360
+T1005	EntrezGene 28709 28712	Shh
+#1005	AnnotatorNotes T1005	EG:20423
+T1006	PR 28709 28712	Shh
+#1006	AnnotatorNotes T1006	PR:000014841 (sonic hedgehog protein)
+T1007	NCBITaxon 28716 28721	mouse
+#1007	AnnotatorNotes T1007	NCBITaxon:10088 (Mus)
+T1008	bold 28745 28841	Shh and Ptch expression patterns at different gestational stages in Dhcr7-/- and wild-type mice.
+#1008	AnnotatorNotes T1008	bold (null)
+T1009	EntrezGene 28745 28748	Shh
+#1009	AnnotatorNotes T1009	EG:20423
+T1010	PR 28745 28748	Shh
+#1010	AnnotatorNotes T1010	PR:000014841 (sonic hedgehog protein)
+T1011	GO_BP 28758 28768	expression
+#1011	AnnotatorNotes T1011	GO:0010467 (gene expression)
+T1012	GO_BP 28791 28802	gestational
+#1012	AnnotatorNotes T1012	GO:0007565 (female pregnancy)
+T1013	italic 28813 28818	Dhcr7
+#1013	AnnotatorNotes T1013	italic (null)
+T1014	independent_continuant 28813 28818	Dhcr7
+#1014	AnnotatorNotes T1014	independent_continuant
+T1015	EntrezGene 28813 28818	Dhcr7
+#1015	AnnotatorNotes T1015	EG:13360
+T1016	GO_MF 28813 28818	Dhcr7
+#1016	AnnotatorNotes T1016	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1017	PR 28813 28818	Dhcr7
+#1017	AnnotatorNotes T1017	PR:000006454 (7-dehydrocholesterol reductase)
+T1018	sup 28818 28821	-/-
+#1018	AnnotatorNotes T1018	sup (null)
+T1019	SO 28826 28835	wild-type
+#1019	AnnotatorNotes T1019	SO:0000817 (wild_type)
+T1020	NCBITaxon 28836 28840	mice
+#1020	AnnotatorNotes T1020	NCBITaxon:10088 (Mus)
+T1021	EntrezGene 28863 28866	Shh
+#1021	AnnotatorNotes T1021	EG:20423
+T1022	PR 28863 28866	Shh
+#1022	AnnotatorNotes T1022	PR:000014841 (sonic hedgehog protein)
+T1023	GO_CC 28900 28908	antibody
+#1023	AnnotatorNotes T1023	GO:0019814 (immunoglobulin complex)
+T1024	PR 28912 28915	Shh
+#1024	AnnotatorNotes T1024	PR:000014841 (sonic hedgehog protein)
+T1025	CHEBI 28916 28917	N
+#1025	AnnotatorNotes T1025	CHEBI:46882 (amino group)
+T1026	SO 28916 28917	N
+#1026	AnnotatorNotes T1026	SO:0100014 (n_terminal_region)
+T1027	SO 28918 28925	peptide
+#1027	AnnotatorNotes T1027	SO:0001407 (peptidyl)
+T1028	GO_BP 28937 28948	gestational
+#1028	AnnotatorNotes T1028	GO:0007565 (female pregnancy)
+T1029	SO 29080 29089	wild-type
+#1029	AnnotatorNotes T1029	SO:0000817 (wild_type)
+T1030	SO 29091 29092	+
+#1030	AnnotatorNotes T1030	SO:0000817 (wild_type)
+T1031	SO 29093 29094	+
+#1031	AnnotatorNotes T1031	SO:0000817 (wild_type)
+T1032	EntrezGene 29134 29137	Shh
+#1032	AnnotatorNotes T1032	EG:20423
+T1033	PR 29134 29137	Shh
+#1033	AnnotatorNotes T1033	PR:000014841 (sonic hedgehog protein)
+T1034	EntrezGene 29264 29267	Shh
+#1034	AnnotatorNotes T1034	EG:20423
+T1035	PR 29264 29267	Shh
+#1035	AnnotatorNotes T1035	PR:000014841 (sonic hedgehog protein)
+T1036	CL 29295 29311	epithelial cells
+#1036	AnnotatorNotes T1036	CL:0000066 (epithelial cell)
+T1037	GO_CC 29306 29311	cells
+#1037	AnnotatorNotes T1037	GO:0005623 (cell)
+T1038	CL 29405 29421	epithelial cells
+#1038	AnnotatorNotes T1038	CL:0000066 (epithelial cell)
+T1039	GO_CC 29416 29421	cells
+#1039	AnnotatorNotes T1039	GO:0005623 (cell)
+T1040	EntrezGene 29469 29472	Shh
+#1040	AnnotatorNotes T1040	EG:20423
+T1041	PR 29469 29472	Shh
+#1041	AnnotatorNotes T1041	PR:000014841 (sonic hedgehog protein)
+T1042	EntrezGene 29492 29495	Shh
+#1042	AnnotatorNotes T1042	EG:20423
+T1043	PR 29492 29495	Shh
+#1043	AnnotatorNotes T1043	PR:000014841 (sonic hedgehog protein)
+T1044	CL 29516 29537	lung epithelial cells
+#1044	AnnotatorNotes T1044	CL:0000082 (epithelial cell of lung)
+T1045	GO_CC 29532 29537	cells
+#1045	AnnotatorNotes T1045	GO:0005623 (cell)
+T1046	GO_BP 29720 29731	gestational
+#1046	AnnotatorNotes T1046	GO:0007565 (female pregnancy)
+T1047	EntrezGene 29808 29811	Shh
+#1047	AnnotatorNotes T1047	EG:20423
+T1048	PR 29808 29811	Shh
+#1048	AnnotatorNotes T1048	PR:000014841 (sonic hedgehog protein)
+T1049	GO_BP 29812 29822	expression
+#1049	AnnotatorNotes T1049	GO:0010467 (gene expression)
+T1050	SO 29867 29876	wild-type
+#1050	AnnotatorNotes T1050	SO:0000817 (wild_type)
+T1051	CL 29922 29938	epithelial cells
+#1051	AnnotatorNotes T1051	CL:0000066 (epithelial cell)
+T1052	GO_CC 29933 29938	cells
+#1052	AnnotatorNotes T1052	GO:0005623 (cell)
+T1053	EntrezGene 30109 30112	Shh
+#1053	AnnotatorNotes T1053	EG:20423
+T1054	PR 30109 30112	Shh
+#1054	AnnotatorNotes T1054	PR:000014841 (sonic hedgehog protein)
+T1055	GO_BP 30113 30122	signaling
+#1055	AnnotatorNotes T1055	GO:0007165 (signal transduction)
+T1056	GO_BP 30169 30179	expression
+#1056	AnnotatorNotes T1056	GO:0010467 (gene expression)
+T1057	independent_continuant 30209 30217	receptor
+#1057	AnnotatorNotes T1057	independent_continuant
+T1058	GO_MF 30209 30217	receptor
+#1058	AnnotatorNotes T1058	GO:0004872 (receptor activity)
+T1059	PR 30222 30225	Shh
+#1059	AnnotatorNotes T1059	PR:000014841 (sonic hedgehog protein)
+T1060	GO_BP 30240 30250	expression
+#1060	AnnotatorNotes T1060	GO:0010467 (gene expression)
+T1061	GO_BP 30259 30268	regulated
+#1061	AnnotatorNotes T1061	GO:0065007 (biological regulation)
+T1062	PR 30272 30275	Shh
+#1062	AnnotatorNotes T1062	PR:000014841 (sonic hedgehog protein)
+T1063	GO_BP 30276 30285	signaling
+#1063	AnnotatorNotes T1063	GO:0007165 (signal transduction)
+T1064	GO_BP 30338 30349	gestational
+#1064	AnnotatorNotes T1064	GO:0007565 (female pregnancy)
+T1065	SO 30393 30402	wild-type
+#1065	AnnotatorNotes T1065	SO:0000817 (wild_type)
+T1066	GO_BP 30452 30462	expression
+#1066	AnnotatorNotes T1066	GO:0010467 (gene expression)
+T1067	EntrezGene 30503 30506	Shh
+#1067	AnnotatorNotes T1067	EG:20423
+T1068	PR 30503 30506	Shh
+#1068	AnnotatorNotes T1068	PR:000014841 (sonic hedgehog protein)
+T1069	CL 30547 30567	lung epithelial cell
+#1069	AnnotatorNotes T1069	CL:0000082 (epithelial cell of lung)
+T1070	GO_CC 30563 30567	cell
+#1070	AnnotatorNotes T1070	GO:0005623 (cell)
+T1071	GO_BP 30568 30578	expression
+#1071	AnnotatorNotes T1071	GO:0010467 (gene expression)
+T1072	PR 30598 30601	Shh
+#1072	AnnotatorNotes T1072	PR:000014841 (sonic hedgehog protein)
+T1073	GO_BP 30607 30624	signaling cascade
+#1073	AnnotatorNotes T1073	GO:0007165 (signal transduction)
+T1074	CHEBI 30629 30637	proteins
+#1074	AnnotatorNotes T1074	CHEBI:36080 (proteins)
+T1075	PR 30646 30656	smoothened
+#1075	AnnotatorNotes T1075	PR:000015288 (smoothened)
+T1076	PR 30658 30661	Smo
+#1076	AnnotatorNotes T1076	PR:000015288 (smoothened)
+T1077	CHEBI 30672 30680	proteins
+#1077	AnnotatorNotes T1077	CHEBI:36080 (proteins)
+T1078	GO_BP 30707 30722	gene expression
+#1078	AnnotatorNotes T1078	GO:0010467 (gene expression)
+T1079	SO 30707 30711	gene
+#1079	AnnotatorNotes T1079	SO:0000704 (gene)
+T1080	GO_BP 30726 30734	response
+#1080	AnnotatorNotes T1080	GO:0050896 (response to stimulus)
+T1081	PR 30738 30741	Shh
+#1081	AnnotatorNotes T1081	PR:000014841 (sonic hedgehog protein)
+T1082	GO_BP 30742 30751	signaling
+#1082	AnnotatorNotes T1082	GO:0007165 (signal transduction)
+T1083	GO_BP 30771 30781	expression
+#1083	AnnotatorNotes T1083	GO:0010467 (gene expression)
+T1084	EntrezGene 30795 30798	Smo
+#1084	AnnotatorNotes T1084	EG:319757
+T1085	PR 30795 30798	Smo
+#1085	AnnotatorNotes T1085	PR:000015288 (smoothened)
+T1086	EntrezGene 30824 30828	Gli1
+#1086	AnnotatorNotes T1086	EG:14632
+T1087	PR 30824 30828	Gli1
+#1087	AnnotatorNotes T1087	PR:000008026 (zinc finger protein GLI1)
+T1088	EntrezGene 30857 30861	Gli3
+#1088	AnnotatorNotes T1088	EG:14634
+T1089	PR 30857 30861	Gli3
+#1089	AnnotatorNotes T1089	PR:000008028 (zinc finger protein GLI3)
+T1090	SO 30906 30915	wild-type
+#1090	AnnotatorNotes T1090	SO:0000817 (wild_type)
+T1091	GO_BP 30961 30972	gestational
+#1091	AnnotatorNotes T1091	GO:0007565 (female pregnancy)
+T1092	bold 30991 31053	Comparisons of Smo, Gli1 and Gli3 expression in lung sections.
+#1092	AnnotatorNotes T1092	bold (null)
+T1093	EntrezGene 31006 31009	Smo
+#1093	AnnotatorNotes T1093	EG:319757
+T1094	PR 31006 31009	Smo
+#1094	AnnotatorNotes T1094	PR:000015288 (smoothened)
+T1095	EntrezGene 31011 31015	Gli1
+#1095	AnnotatorNotes T1095	EG:14632
+T1096	PR 31011 31015	Gli1
+#1096	AnnotatorNotes T1096	PR:000008026 (zinc finger protein GLI1)
+T1097	italic 31014 31019	1 and
+#1097	AnnotatorNotes T1097	italic (null)
+T1098	EntrezGene 31020 31024	Gli3
+#1098	AnnotatorNotes T1098	EG:14634
+T1099	PR 31020 31024	Gli3
+#1099	AnnotatorNotes T1099	PR:000008028 (zinc finger protein GLI3)
+T1100	italic 31023 31024	3
+#1100	AnnotatorNotes T1100	italic (null)
+T1101	GO_BP 31025 31035	expression
+#1101	AnnotatorNotes T1101	GO:0010467 (gene expression)
+T1102	EntrezGene 31054 31064	Smoothened
+#1102	AnnotatorNotes T1102	EG:319757
+T1103	PR 31054 31064	Smoothened
+#1103	AnnotatorNotes T1103	PR:000015288 (smoothened)
+T1104	EntrezGene 31066 31069	Smo
+#1104	AnnotatorNotes T1104	EG:319757
+T1105	PR 31066 31069	Smo
+#1105	AnnotatorNotes T1105	PR:000015288 (smoothened)
+T1106	EntrezGene 31085 31089	Gli1
+#1106	AnnotatorNotes T1106	EG:14632
+T1107	PR 31085 31089	Gli1
+#1107	AnnotatorNotes T1107	PR:000008026 (zinc finger protein GLI1)
+T1108	EntrezGene 31109 31113	Gli3
+#1108	AnnotatorNotes T1108	EG:14634
+T1109	PR 31109 31113	Gli3
+#1109	AnnotatorNotes T1109	PR:000008028 (zinc finger protein GLI3)
+T1110	GO_BP 31149 31161	distribution
+#1110	AnnotatorNotes T1110	GO:0051179 (localization)
+T1111	EntrezGene 31188 31191	Shh
+#1111	AnnotatorNotes T1111	EG:20423
+T1112	PR 31188 31191	Shh
+#1112	AnnotatorNotes T1112	PR:000014841 (sonic hedgehog protein)
+T1113	SO 31245 31254	wild-type
+#1113	AnnotatorNotes T1113	SO:0000817 (wild_type)
+T1114	SO 31256 31257	+
+#1114	AnnotatorNotes T1114	SO:0000817 (wild_type)
+T1115	SO 31258 31259	+
+#1115	AnnotatorNotes T1115	SO:0000817 (wild_type)
+T1116	EntrezGene 31333 31336	Shh
+#1116	AnnotatorNotes T1116	EG:20423
+T1117	PR 31333 31336	Shh
+#1117	AnnotatorNotes T1117	PR:000014841 (sonic hedgehog protein)
+T1118	GO_BP 31337 31355	protein processing
+#1118	AnnotatorNotes T1118	GO:0016485 (protein processing)
+T1119	CHEBI 31337 31344	protein
+#1119	AnnotatorNotes T1119	CHEBI:36080 (proteins)
+T1120	italic 31359 31364	Dhcr7
+#1120	AnnotatorNotes T1120	italic (null)
+T1121	PR 31359 31364	Dhcr7
+#1121	AnnotatorNotes T1121	PR:000006454 (7-dehydrocholesterol reductase)
+T1122	GO_MF 31359 31364	Dhcr7
+#1122	AnnotatorNotes T1122	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1123	EntrezGene 31359 31364	Dhcr7
+#1123	AnnotatorNotes T1123	EG:13360
+T1124	independent_continuant 31359 31364	Dhcr7
+#1124	AnnotatorNotes T1124	independent_continuant
+T1125	sup 31364 31367	-/-
+#1125	AnnotatorNotes T1125	sup (null)
+T1126	EntrezGene 31383 31386	Shh
+#1126	AnnotatorNotes T1126	EG:20423
+T1127	PR 31383 31386	Shh
+#1127	AnnotatorNotes T1127	PR:000014841 (sonic hedgehog protein)
+T1128	GO_BP 31387 31397	expression
+#1128	AnnotatorNotes T1128	GO:0010467 (gene expression)
+T1129	EntrezGene 31422 31425	Shh
+#1129	AnnotatorNotes T1129	EG:20423
+T1130	PR 31422 31425	Shh
+#1130	AnnotatorNotes T1130	PR:000014841 (sonic hedgehog protein)
+T1131	GO_BP 31426 31435	signaling
+#1131	AnnotatorNotes T1131	GO:0007165 (signal transduction)
+T1132	italic 31472 31477	Dhcr7
+#1132	AnnotatorNotes T1132	italic (null)
+T1133	PR 31472 31477	Dhcr7
+#1133	AnnotatorNotes T1133	PR:000006454 (7-dehydrocholesterol reductase)
+T1134	independent_continuant 31472 31477	Dhcr7
+#1134	AnnotatorNotes T1134	independent_continuant
+T1135	GO_MF 31472 31477	Dhcr7
+#1135	AnnotatorNotes T1135	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1136	EntrezGene 31472 31477	Dhcr7
+#1136	AnnotatorNotes T1136	EG:13360
+T1137	sup 31477 31480	-/-
+#1137	AnnotatorNotes T1137	sup (null)
+T1138	GO_BP 31501 31515	autoprocessing
+#1138	AnnotatorNotes T1138	GO:0016540 (protein autoprocessing)
+T1139	EntrezGene 31519 31522	Shh
+#1139	AnnotatorNotes T1139	EG:20423
+T1140	PR 31519 31522	Shh
+#1140	AnnotatorNotes T1140	PR:000014841 (sonic hedgehog protein)
+T1141	GO_BP 31526 31534	generate
+#1141	AnnotatorNotes T1141	GO:0009058 (biosynthetic process)
+T1142	CHEBI 31537 31548	cholesterol
+#1142	AnnotatorNotes T1142	CHEBI:16113 (cholesterol)
+T1143	GO_BP 31549 31557	modified
+#1143	AnnotatorNotes T1143	GO:0043412 (biopolymer modification)
+T1144	SO 31558 31568	N-terminal
+#1144	AnnotatorNotes T1144	SO:0100014 (n_terminal_region)
+T1145	CHEBI 31558 31559	N
+#1145	AnnotatorNotes T1145	CHEBI:46882 (amino group)
+T1146	SO 31569 31577	fragment
+#1146	AnnotatorNotes T1146	SO:0000731 (fragmentary)
+T1147	EntrezGene 31581 31584	Shh
+#1147	AnnotatorNotes T1147	EG:20423
+T1148	PR 31581 31584	Shh
+#1148	AnnotatorNotes T1148	PR:000014841 (sonic hedgehog protein)
+T1149	EntrezGene 31586 31589	Shh
+#1149	AnnotatorNotes T1149	EG:20423
+T1150	PR 31586 31589	Shh
+#1150	AnnotatorNotes T1150	PR:000014841 (sonic hedgehog protein)
+T1151	CL 31615 31620	cells
+#1151	AnnotatorNotes T1151	CL:0000000 (cell)
+T1152	GO_CC 31615 31620	cells
+#1152	AnnotatorNotes T1152	GO:0005623 (cell)
+T1153	GO_BP 31622 31633	transfected
+#1153	AnnotatorNotes T1153	GO:0009294 (DNA mediated transformation)
+T1154	PR 31651 31654	Shh
+#1154	AnnotatorNotes T1154	PR:000014841 (sonic hedgehog protein)
+T1155	SO 31655 31659	cDNA
+#1155	AnnotatorNotes T1155	SO:0000756 (cDNA)
+T1156	PR 31712 31715	Shh
+#1156	AnnotatorNotes T1156	PR:000014841 (sonic hedgehog protein)
+T1157	SO 31716 31720	cDNA
+#1157	AnnotatorNotes T1157	SO:0000756 (cDNA)
+T1158	PR 31722 31725	Shh
+#1158	AnnotatorNotes T1158	PR:000014841 (sonic hedgehog protein)
+T1159	CHEBI 31726 31727	N
+#1159	AnnotatorNotes T1159	CHEBI:46882 (amino group)
+T1160	SO 31726 31727	N
+#1160	AnnotatorNotes T1160	SO:0100014 (n_terminal_region)
+T1161	GO_BP 31729 31739	expression
+#1161	AnnotatorNotes T1161	GO:0010467 (gene expression)
+T1162	SO 31755 31759	form
+#1162	AnnotatorNotes T1162	SO:0001060 (sequence_variant)
+T1163	GO_BP 31825 31837	Transfection
+#1163	AnnotatorNotes T1163	GO:0009294 (DNA mediated transformation)
+T1164	SO 31857 31861	cDNA
+#1164	AnnotatorNotes T1164	SO:0000756 (cDNA)
+T1165	PR 31866 31869	Shh
+#1165	AnnotatorNotes T1165	PR:000014841 (sonic hedgehog protein)
+T1166	CHEBI 31904 31911	protein
+#1166	AnnotatorNotes T1166	CHEBI:36080 (proteins)
+T1167	GO_BP 31938 31945	cleaved
+#1167	AnnotatorNotes T1167	GO:0030908 (protein splicing)
+T1168	PR 31957 31960	Shh
+#1168	AnnotatorNotes T1168	PR:000014841 (sonic hedgehog protein)
+T1169	GO_BP 32011 32023	Transfection
+#1169	AnnotatorNotes T1169	GO:0009294 (DNA mediated transformation)
+T1170	CL 32031 32036	cells
+#1170	AnnotatorNotes T1170	CL:0000000 (cell)
+T1171	GO_CC 32031 32036	cells
+#1171	AnnotatorNotes T1171	GO:0005623 (cell)
+T1172	PR 32069 32072	Shh
+#1172	AnnotatorNotes T1172	PR:000014841 (sonic hedgehog protein)
+T1173	CHEBI 32073 32074	N
+#1173	AnnotatorNotes T1173	CHEBI:46882 (amino group)
+T1174	SO 32073 32074	N
+#1174	AnnotatorNotes T1174	SO:0100014 (n_terminal_region)
+T1175	SO 32075 32079	cDNA
+#1175	AnnotatorNotes T1175	SO:0000756 (cDNA)
+T1176	PR 32143 32146	Shh
+#1176	AnnotatorNotes T1176	PR:000014841 (sonic hedgehog protein)
+T1177	GO_BP 32176 32185	generated
+#1177	AnnotatorNotes T1177	GO:0009058 (biosynthetic process)
+T1178	CHEBI 32204 32209	lipid
+#1178	AnnotatorNotes T1178	CHEBI:18059 (lipids)
+T1179	GO_BP 32210 32223	modifications
+#1179	AnnotatorNotes T1179	GO:0043412 (biopolymer modification)
+T1180	SO 32281 32290	wild-type
+#1180	AnnotatorNotes T1180	SO:0000817 (wild_type)
+T1181	italic 32292 32297	Dhcr7
+#1181	AnnotatorNotes T1181	italic (null)
+T1182	EntrezGene 32292 32297	Dhcr7
+#1182	AnnotatorNotes T1182	EG:13360
+T1183	PR 32292 32297	Dhcr7
+#1183	AnnotatorNotes T1183	PR:000006454 (7-dehydrocholesterol reductase)
+T1184	independent_continuant 32292 32297	Dhcr7
+#1184	AnnotatorNotes T1184	independent_continuant
+T1185	GO_MF 32292 32297	Dhcr7
+#1185	AnnotatorNotes T1185	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1186	sup 32297 32300	+/-
+#1186	AnnotatorNotes T1186	sup (null)
+T1187	SO 32297 32298	+
+#1187	AnnotatorNotes T1187	SO:0000817 (wild_type)
+T1188	italic 32305 32310	Dhcr7
+#1188	AnnotatorNotes T1188	italic (null)
+T1189	EntrezGene 32305 32310	Dhcr7
+#1189	AnnotatorNotes T1189	EG:13360
+T1190	GO_MF 32305 32310	Dhcr7
+#1190	AnnotatorNotes T1190	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1191	PR 32305 32310	Dhcr7
+#1191	AnnotatorNotes T1191	PR:000006454 (7-dehydrocholesterol reductase)
+T1192	independent_continuant 32305 32310	Dhcr7
+#1192	AnnotatorNotes T1192	independent_continuant
+T1193	sup 32310 32313	-/-
+#1193	AnnotatorNotes T1193	sup (null)
+T1194	EntrezGene 32371 32374	Shh
+#1194	AnnotatorNotes T1194	EG:20423
+T1195	PR 32371 32374	Shh
+#1195	AnnotatorNotes T1195	PR:000014841 (sonic hedgehog protein)
+T1196	italic 32489 32494	Dhcr7
+#1196	AnnotatorNotes T1196	italic (null)
+T1197	EntrezGene 32489 32494	Dhcr7
+#1197	AnnotatorNotes T1197	EG:13360
+T1198	PR 32489 32494	Dhcr7
+#1198	AnnotatorNotes T1198	PR:000006454 (7-dehydrocholesterol reductase)
+T1199	GO_MF 32489 32494	Dhcr7
+#1199	AnnotatorNotes T1199	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1200	independent_continuant 32489 32494	Dhcr7
+#1200	AnnotatorNotes T1200	independent_continuant
+T1201	sup 32494 32497	-/-
+#1201	AnnotatorNotes T1201	sup (null)
+T1202	SO 32506 32515	wild-type
+#1202	AnnotatorNotes T1202	SO:0000817 (wild_type)
+T1203	EntrezGene 32541 32544	Shh
+#1203	AnnotatorNotes T1203	EG:20423
+T1204	PR 32541 32544	Shh
+#1204	AnnotatorNotes T1204	PR:000014841 (sonic hedgehog protein)
+T1205	GO_BP 32545 32559	autoprocessing
+#1205	AnnotatorNotes T1205	GO:0016540 (protein autoprocessing)
+T1206	CHEBI 32613 32624	cholesterol
+#1206	AnnotatorNotes T1206	CHEBI:16113 (cholesterol)
+T1207	PR 32691 32706	full-length Shh
+#1207	AnnotatorNotes T1207	PR:000021466 (sonic hedgehog protein, full-length form)
+T1208	EntrezGene 32703 32706	Shh
+#1208	AnnotatorNotes T1208	EG:20423
+T1209	GO_BP 32791 32801	processing
+#1209	AnnotatorNotes T1209	GO:0016485 (protein processing)
+T1210	EntrezGene 32805 32808	Shh
+#1210	AnnotatorNotes T1210	EG:20423
+T1211	PR 32805 32808	Shh
+#1211	AnnotatorNotes T1211	PR:000014841 (sonic hedgehog protein)
+T1212	bold 32839 32883	Shh protein autoprocessing in mouse embryos.
+#1212	AnnotatorNotes T1212	bold (null)
+T1213	EntrezGene 32839 32842	Shh
+#1213	AnnotatorNotes T1213	EG:20423
+T1214	PR 32839 32842	Shh
+#1214	AnnotatorNotes T1214	PR:000014841 (sonic hedgehog protein)
+T1215	GO_BP 32843 32865	protein autoprocessing
+#1215	AnnotatorNotes T1215	GO:0016540 (protein autoprocessing)
+T1216	CHEBI 32843 32850	protein
+#1216	AnnotatorNotes T1216	CHEBI:36080 (proteins)
+T1217	NCBITaxon 32869 32874	mouse
+#1217	AnnotatorNotes T1217	NCBITaxon:10088 (Mus)
+T1218	SO 32917 32926	wild-type
+#1218	AnnotatorNotes T1218	SO:0000817 (wild_type)
+T1219	CL 33010 33015	cells
+#1219	AnnotatorNotes T1219	CL:0000000 (cell)
+T1220	GO_CC 33010 33015	cells
+#1220	AnnotatorNotes T1220	GO:0005623 (cell)
+T1221	GO_BP 33016 33027	transfected
+#1221	AnnotatorNotes T1221	GO:0009294 (DNA mediated transformation)
+T1222	PR 33033 33036	Shh
+#1222	AnnotatorNotes T1222	PR:000014841 (sonic hedgehog protein)
+T1223	PR 33050 33053	Shh
+#1223	AnnotatorNotes T1223	PR:000014841 (sonic hedgehog protein)
+T1224	CHEBI 33054 33055	N
+#1224	AnnotatorNotes T1224	CHEBI:46882 (amino group)
+T1225	SO 33054 33055	N
+#1225	AnnotatorNotes T1225	SO:0100014 (n_terminal_region)
+T1226	PR 33088 33091	Shh
+#1226	AnnotatorNotes T1226	PR:000014841 (sonic hedgehog protein)
+T1227	GO_CC 33096 33106	antibodies
+#1227	AnnotatorNotes T1227	GO:0019814 (immunoglobulin complex)
+T1228	CHEBI 33125 33133	proteins
+#1228	AnnotatorNotes T1228	CHEBI:36080 (proteins)
+T1229	PR 33139 33142	Shh
+#1229	AnnotatorNotes T1229	PR:000014841 (sonic hedgehog protein)
+T1230	GO_BP 33143 33154	transfected
+#1230	AnnotatorNotes T1230	GO:0009294 (DNA mediated transformation)
+T1231	CL 33160 33165	cells
+#1231	AnnotatorNotes T1231	CL:0000000 (cell)
+T1232	GO_CC 33160 33165	cells
+#1232	AnnotatorNotes T1232	GO:0005623 (cell)
+T1233	PR 33220 33223	Shh
+#1233	AnnotatorNotes T1233	PR:000014841 (sonic hedgehog protein)
+T1234	GO_BP 33264 33273	processed
+#1234	AnnotatorNotes T1234	GO:0016485 (protein processing)
+T1235	PR 33275 33278	Shh
+#1235	AnnotatorNotes T1235	PR:000014841 (sonic hedgehog protein)
+T1236	SO 33321 33326	forms
+#1236	AnnotatorNotes T1236	SO:0001060 (sequence_variant)
+T1237	PR 33330 33333	Shh
+#1237	AnnotatorNotes T1237	PR:000014841 (sonic hedgehog protein)
+T1238	PR 33353 33356	Shh
+#1238	AnnotatorNotes T1238	PR:000014841 (sonic hedgehog protein)
+T1239	GO_BP 33357 33368	transfected
+#1239	AnnotatorNotes T1239	GO:0009294 (DNA mediated transformation)
+T1240	CL 33374 33379	cells
+#1240	AnnotatorNotes T1240	CL:0000000 (cell)
+T1241	GO_CC 33374 33379	cells
+#1241	AnnotatorNotes T1241	GO:0005623 (cell)
+T1242	PR 33415 33418	Shh
+#1242	AnnotatorNotes T1242	PR:000014841 (sonic hedgehog protein)
+T1243	CHEBI 33419 33420	N
+#1243	AnnotatorNotes T1243	CHEBI:46882 (amino group)
+T1244	SO 33419 33420	N
+#1244	AnnotatorNotes T1244	SO:0100014 (n_terminal_region)
+T1245	GO_BP 33421 33432	transfected
+#1245	AnnotatorNotes T1245	GO:0009294 (DNA mediated transformation)
+T1246	CL 33438 33443	cells
+#1246	AnnotatorNotes T1246	CL:0000000 (cell)
+T1247	GO_CC 33438 33443	cells
+#1247	AnnotatorNotes T1247	GO:0005623 (cell)
+T1248	PR 33466 33469	Shh
+#1248	AnnotatorNotes T1248	PR:000014841 (sonic hedgehog protein)
+T1249	CHEBI 33470 33471	N
+#1249	AnnotatorNotes T1249	CHEBI:46882 (amino group)
+T1250	SO 33470 33471	N
+#1250	AnnotatorNotes T1250	SO:0100014 (n_terminal_region)
+T1251	CHEBI 33472 33480	proteins
+#1251	AnnotatorNotes T1251	CHEBI:36080 (proteins)
+T1252	CHEBI 33496 33501	lipid
+#1252	AnnotatorNotes T1252	CHEBI:18059 (lipids)
+T1253	GO_BP 33502 33515	modifications
+#1253	AnnotatorNotes T1253	GO:0043412 (biopolymer modification)
+T1254	SO 33523 33533	N terminus
+#1254	AnnotatorNotes T1254	SO:0100014 (n_terminal_region)
+T1255	CHEBI 33523 33524	N
+#1255	AnnotatorNotes T1255	CHEBI:46882 (amino group)
+T1256	GO_BP 33580 33589	processed
+#1256	AnnotatorNotes T1256	GO:0016485 (protein processing)
+T1257	PR 33590 33593	Shh
+#1257	AnnotatorNotes T1257	PR:000014841 (sonic hedgehog protein)
+T1258	EntrezGene 33728 33731	Shh
+#1258	AnnotatorNotes T1258	EG:20423
+T1259	PR 33728 33731	Shh
+#1259	AnnotatorNotes T1259	PR:000014841 (sonic hedgehog protein)
+T1260	CHEBI 33732 33740	proteins
+#1260	AnnotatorNotes T1260	CHEBI:36080 (proteins)
+T1261	SO 33870 33876	enzyme
+#1261	AnnotatorNotes T1261	SO:0001185 (enzymatic)
+T1262	GO_BP 33891 33915	cholesterol biosynthesis
+#1262	AnnotatorNotes T1262	GO:0006695 (cholesterol biosynthetic process)
+T1263	CHEBI 33891 33902	cholesterol
+#1263	AnnotatorNotes T1263	CHEBI:16113 (cholesterol)
+T1264	GO_BP 33950 33971	embryonic development
+#1264	AnnotatorNotes T1264	GO:0009790 (embryonic development)
+T1265	GO_BP 34040 34061	embryonic development
+#1265	AnnotatorNotes T1265	GO:0009790 (embryonic development)
+T1266	SO 34072 34081	mutations
+#1266	AnnotatorNotes T1266	SO:0001059 (sequence_alteration)
+T1267	SO 34085 34090	genes
+#1267	AnnotatorNotes T1267	SO:0000704 (gene)
+T1268	SO 34106 34113	enzymes
+#1268	AnnotatorNotes T1268	SO:0001185 (enzymatic)
+T1269	CHEBI 34126 34134	squalene
+#1269	AnnotatorNotes T1269	CHEBI:15440 (squalene)
+T1270	GO_BP 34144 34168	cholesterol biosynthesis
+#1270	AnnotatorNotes T1270	GO:0006695 (cholesterol biosynthetic process)
+T1271	CHEBI 34144 34155	cholesterol
+#1271	AnnotatorNotes T1271	CHEBI:16113 (cholesterol)
+T1272	SO 34185 34192	genetic
+#1272	AnnotatorNotes T1272	SO:0000704 (gene)
+T1273	GO_BP 34235 34256	cholesterol synthesis
+#1273	AnnotatorNotes T1273	GO:0006695 (cholesterol biosynthetic process)
+T1274	CHEBI 34235 34246	cholesterol
+#1274	AnnotatorNotes T1274	CHEBI:16113 (cholesterol)
+T1275	CHEBI 34285 34296	cholesterol
+#1275	AnnotatorNotes T1275	CHEBI:16113 (cholesterol)
+T1276	GO_BP 34307 34328	embryonic development
+#1276	AnnotatorNotes T1276	GO:0009790 (embryonic development)
+T1277	GO_BP 34411 34427	lung development
+#1277	AnnotatorNotes T1277	GO:0030324 (lung development)
+T1278	italic 34431 34436	Dhcr7
+#1278	AnnotatorNotes T1278	italic (null)
+T1279	EntrezGene 34431 34436	Dhcr7
+#1279	AnnotatorNotes T1279	EG:13360
+T1280	PR 34431 34436	Dhcr7
+#1280	AnnotatorNotes T1280	PR:000006454 (7-dehydrocholesterol reductase)
+T1281	independent_continuant 34431 34436	Dhcr7
+#1281	AnnotatorNotes T1281	independent_continuant
+T1282	GO_MF 34431 34436	Dhcr7
+#1282	AnnotatorNotes T1282	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1283	sup 34436 34439	-/-
+#1283	AnnotatorNotes T1283	sup (null)
+T1284	NCBITaxon 34494 34499	human
+#1284	AnnotatorNotes T1284	NCBITaxon:9606 (Homo sapiens)
+T1285	italic 34594 34599	Dhcr7
+#1285	AnnotatorNotes T1285	italic (null)
+T1286	EntrezGene 34594 34599	Dhcr7
+#1286	AnnotatorNotes T1286	EG:13360
+T1287	GO_MF 34594 34599	Dhcr7
+#1287	AnnotatorNotes T1287	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1288	PR 34594 34599	Dhcr7
+#1288	AnnotatorNotes T1288	PR:000006454 (7-dehydrocholesterol reductase)
+T1289	independent_continuant 34594 34599	Dhcr7
+#1289	AnnotatorNotes T1289	independent_continuant
+T1290	sup 34599 34602	-/-
+#1290	AnnotatorNotes T1290	sup (null)
+T1291	GO_BP 34609 34625	Lung development
+#1291	AnnotatorNotes T1291	GO:0030324 (lung development)
+T1292	italic 34629 34634	Dhcr7
+#1292	AnnotatorNotes T1292	italic (null)
+T1293	GO_MF 34629 34634	Dhcr7
+#1293	AnnotatorNotes T1293	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1294	EntrezGene 34629 34634	Dhcr7
+#1294	AnnotatorNotes T1294	EG:13360
+T1295	independent_continuant 34629 34634	Dhcr7
+#1295	AnnotatorNotes T1295	independent_continuant
+T1296	PR 34629 34634	Dhcr7
+#1296	AnnotatorNotes T1296	PR:000006454 (7-dehydrocholesterol reductase)
+T1297	sup 34634 34637	-/-
+#1297	AnnotatorNotes T1297	sup (null)
+T1298	GO_BP 34681 34690	formation
+#1298	AnnotatorNotes T1298	GO:0030324 (lung development)
+T1299	GO_BP 34852 34861	developed
+#1299	AnnotatorNotes T1299	GO:0032502 (developmental process)
+T1300	GO_BP 34937 34952	differentiation
+#1300	AnnotatorNotes T1300	GO:0030154 (cell differentiation)
+T1301	GO_BP 34965 34985	vascular development
+#1301	AnnotatorNotes T1301	GO:0001944 (vasculature development)
+T1302	GO_BP 35021 35032	gestational
+#1302	AnnotatorNotes T1302	GO:0007565 (female pregnancy)
+T1303	italic 35043 35048	Dhcr7
+#1303	AnnotatorNotes T1303	italic (null)
+T1304	EntrezGene 35043 35048	Dhcr7
+#1304	AnnotatorNotes T1304	EG:13360
+T1305	GO_MF 35043 35048	Dhcr7
+#1305	AnnotatorNotes T1305	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1306	PR 35043 35048	Dhcr7
+#1306	AnnotatorNotes T1306	PR:000006454 (7-dehydrocholesterol reductase)
+T1307	independent_continuant 35043 35048	Dhcr7
+#1307	AnnotatorNotes T1307	independent_continuant
+T1308	sup 35048 35051	-/-
+#1308	AnnotatorNotes T1308	sup (null)
+T1309	GO_BP 35086 35103	fetal development
+#1309	AnnotatorNotes T1309	GO:0009790 (embryonic development)
+T1310	NCBITaxon 35109 35118	mammalian
+#1310	AnnotatorNotes T1310	NCBITaxon:40674 (Mammalia)
+T1311	GO_BP 35159 35174	differentiation
+#1311	AnnotatorNotes T1311	GO:0030855 (epithelial cell differentiation)
+T1312	GO_BP 35246 35258	gas exchange
+#1312	AnnotatorNotes T1312	GO:0007585 (respiratory gaseous exchange)
+T1313	GO_BP 35284 35293	producing
+#1313	AnnotatorNotes T1313	GO:0009058 (biosynthetic process)
+T1314	CHEBI 35304 35315	surfactants
+#1314	AnnotatorNotes T1314	CHEBI:35195 (surfactant)
+T1315	GO_BP 35345 35353	expanded
+#1315	AnnotatorNotes T1315	GO:0008283 (cell proliferation)
+T1316	GO_BP 35390 35400	maturation
+#1316	AnnotatorNotes T1316	GO:0021700 (developmental maturation)
+T1317	GO_BP 35419 35439	vascular development
+#1317	AnnotatorNotes T1317	GO:0001944 (vasculature development)
+T1318	GO_BP 35428 35450	development of alveoli
+#1318	AnnotatorNotes T1318	GO:0048286 (alveolus development)
+T1319	GO_BP 35485 35498	morphogenesis
+#1319	AnnotatorNotes T1319	GO:0009887 (organ morphogenesis)
+T1320	GO_BP 35507 35518	gestational
+#1320	AnnotatorNotes T1320	GO:0007565 (female pregnancy)
+T1321	GO_BP 35554 35569	differentiation
+#1321	AnnotatorNotes T1321	GO:0030154 (cell differentiation)
+T1322	italic 35609 35614	Dhcr7
+#1322	AnnotatorNotes T1322	italic (null)
+T1323	independent_continuant 35609 35614	Dhcr7
+#1323	AnnotatorNotes T1323	independent_continuant
+T1324	PR 35609 35614	Dhcr7
+#1324	AnnotatorNotes T1324	PR:000006454 (7-dehydrocholesterol reductase)
+T1325	GO_MF 35609 35614	Dhcr7
+#1325	AnnotatorNotes T1325	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1326	EntrezGene 35609 35614	Dhcr7
+#1326	AnnotatorNotes T1326	EG:13360
+T1327	sup 35614 35617	-/-
+#1327	AnnotatorNotes T1327	sup (null)
+T1328	CL 35687 35692	cells
+#1328	AnnotatorNotes T1328	CL:0000000 (cell)
+T1329	GO_CC 35687 35692	cells
+#1329	AnnotatorNotes T1329	GO:0005623 (cell)
+T1330	GO_BP 35708 35718	expression
+#1330	AnnotatorNotes T1330	GO:0010467 (gene expression)
+T1331	EntrezGene 35746 35749	T1α
+#1331	AnnotatorNotes T1331	EG:14726
+T1332	PR 35746 35749	T1α
+#1332	AnnotatorNotes T1332	PR:000012516 (podoplanin)
+T1333	EntrezGene 35754 35758	AQP5
+#1333	AnnotatorNotes T1333	EG:11830
+T1334	PR 35754 35758	AQP5
+#1334	AnnotatorNotes T1334	PR:000004185 (aquaporin-5)
+T1335	GO_BP 35768 35788	vascular development
+#1335	AnnotatorNotes T1335	GO:0001944 (vasculature development)
+T1336	italic 35837 35842	Dhcr7
+#1336	AnnotatorNotes T1336	italic (null)
+T1337	independent_continuant 35837 35842	Dhcr7
+#1337	AnnotatorNotes T1337	independent_continuant
+T1338	GO_MF 35837 35842	Dhcr7
+#1338	AnnotatorNotes T1338	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1339	EntrezGene 35837 35842	Dhcr7
+#1339	AnnotatorNotes T1339	EG:13360
+T1340	PR 35837 35842	Dhcr7
+#1340	AnnotatorNotes T1340	PR:000006454 (7-dehydrocholesterol reductase)
+T1341	sup 35842 35845	-/-
+#1341	AnnotatorNotes T1341	sup (null)
+T1342	GO_BP 35966 35981	differentiation
+#1342	AnnotatorNotes T1342	GO:0030154 (cell differentiation)
+T1343	GO_BP 36020 36035	gene expression
+#1343	AnnotatorNotes T1343	GO:0010467 (gene expression)
+T1344	SO 36020 36024	gene
+#1344	AnnotatorNotes T1344	SO:0000704 (gene)
+T1345	EntrezGene 36049 36081	surfactant proteins A, B, C or D
+#1345	AnnotatorNotes T1345	"surfactant proteins .. D" EG:20390
+T1346	PR 36049 36081	surfactant proteins A, B, C or D
+#1346	AnnotatorNotes T1346	"surfactant proteins .. D" PR:000014775 (pulmonary surfactant-associated protein D)
+T1347	EntrezGene 36049 36076	surfactant proteins A, B, C
+#1347	AnnotatorNotes T1347	"surfactant proteins .. C" EG:20389
+T1348	PR 36049 36076	surfactant proteins A, B, C
+#1348	AnnotatorNotes T1348	"surfactant proteins .. C" PR:000014774 (pulmonary surfactant-associated protein C)
+T1349	EntrezGene 36049 36073	surfactant proteins A, B
+#1349	AnnotatorNotes T1349	"surfactant proteins .. B" EG:20388
+T1350	PR 36049 36073	surfactant proteins A, B
+#1350	AnnotatorNotes T1350	"surfactant proteins .. B" PR:000014773 (pulmonary surfactant-associated protein B)
+T1351	EntrezGene 36049 36070	surfactant proteins A
+#1351	AnnotatorNotes T1351	EG:20387
+T1352	PR 36049 36070	surfactant proteins A
+#1352	AnnotatorNotes T1352	PR:000015945 (pulmonary surfactant-associated protein A)
+T1353	CHEBI 36049 36059	surfactant
+#1353	AnnotatorNotes T1353	CHEBI:35195 (surfactant)
+T1354	CHEBI 36060 36068	proteins
+#1354	AnnotatorNotes T1354	CHEBI:36080 (proteins)
+T1355	GO_BP 36116 36128	distribution
+#1355	AnnotatorNotes T1355	GO:0051179 (localization)
+T1356	EntrezGene 36132 36136	SP-C
+#1356	AnnotatorNotes T1356	EG:20389
+T1357	PR 36132 36136	SP-C
+#1357	AnnotatorNotes T1357	PR:000014774 (pulmonary surfactant-associated protein C)
+T1358	GO_BP 36192 36204	gas exchange
+#1358	AnnotatorNotes T1358	GO:0007585 (respiratory gaseous exchange)
+T1359	GO_MF 36332 36337	Dhcr7
+#1359	AnnotatorNotes T1359	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1360	EntrezGene 36332 36337	Dhcr7
+#1360	AnnotatorNotes T1360	EG:13360
+T1361	PR 36332 36337	Dhcr7
+#1361	AnnotatorNotes T1361	PR:000006454 (7-dehydrocholesterol reductase)
+T1362	independent_continuant 36332 36337	Dhcr7
+#1362	AnnotatorNotes T1362	independent_continuant
+T1363	GO_BP 36372 36378	growth
+#1363	AnnotatorNotes T1363	GO:0040007 (growth)
+T1364	CHEBI 36420 36431	cholesterol
+#1364	AnnotatorNotes T1364	CHEBI:16113 (cholesterol)
+T1365	GO_BP 36580 36586	growth
+#1365	AnnotatorNotes T1365	GO:0040007 (growth)
+T1366	GO_BP 36784 36793	gestation
+#1366	AnnotatorNotes T1366	GO:0007565 (female pregnancy)
+T1367	italic 36797 36802	Dhcr7
+#1367	AnnotatorNotes T1367	italic (null)
+T1368	PR 36797 36802	Dhcr7
+#1368	AnnotatorNotes T1368	PR:000006454 (7-dehydrocholesterol reductase)
+T1369	independent_continuant 36797 36802	Dhcr7
+#1369	AnnotatorNotes T1369	independent_continuant
+T1370	GO_MF 36797 36802	Dhcr7
+#1370	AnnotatorNotes T1370	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1371	EntrezGene 36797 36802	Dhcr7
+#1371	AnnotatorNotes T1371	EG:13360
+T1372	sup 36802 36805	-/-
+#1372	AnnotatorNotes T1372	sup (null)
+T1373	NCBITaxon 36806 36813	animals
+#1373	AnnotatorNotes T1373	NCBITaxon:33208 (Metazoa)
+T1374	GO_BP 36940 36951	gestational
+#1374	AnnotatorNotes T1374	GO:0007565 (female pregnancy)
+T1375	italic 36978 36983	Dhcr7
+#1375	AnnotatorNotes T1375	italic (null)
+T1376	PR 36978 36983	Dhcr7
+#1376	AnnotatorNotes T1376	PR:000006454 (7-dehydrocholesterol reductase)
+T1377	independent_continuant 36978 36983	Dhcr7
+#1377	AnnotatorNotes T1377	independent_continuant
+T1378	EntrezGene 36978 36983	Dhcr7
+#1378	AnnotatorNotes T1378	EG:13360
+T1379	GO_MF 36978 36983	Dhcr7
+#1379	AnnotatorNotes T1379	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1380	sup 36983 36986	-/-
+#1380	AnnotatorNotes T1380	sup (null)
+T1381	italic 37050 37055	Dhcr7
+#1381	AnnotatorNotes T1381	italic (null)
+T1382	independent_continuant 37050 37055	Dhcr7
+#1382	AnnotatorNotes T1382	independent_continuant
+T1383	PR 37050 37055	Dhcr7
+#1383	AnnotatorNotes T1383	PR:000006454 (7-dehydrocholesterol reductase)
+T1384	GO_MF 37050 37055	Dhcr7
+#1384	AnnotatorNotes T1384	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1385	EntrezGene 37050 37055	Dhcr7
+#1385	AnnotatorNotes T1385	EG:13360
+T1386	sup 37055 37058	-/-
+#1386	AnnotatorNotes T1386	sup (null)
+T1387	SO 37079 37088	wild-type
+#1387	AnnotatorNotes T1387	SO:0000817 (wild_type)
+T1388	independent_continuant 37079 37088	wild-type
+#1388	AnnotatorNotes T1388	independent_continuant
+T1389	GO_BP 37137 37143	growth
+#1389	AnnotatorNotes T1389	GO:0040007 (growth)
+T1390	GO_BP 37163 37194	Cell proliferation and division
+#1390	AnnotatorNotes T1390	"Cell .. division" GO:0051301 (cell division)
+T1391	GO_BP 37163 37181	Cell proliferation
+#1391	AnnotatorNotes T1391	GO:0008283 (cell proliferation)
+T1392	CL 37163 37167	Cell
+#1392	AnnotatorNotes T1392	CL:0000000 (cell)
+T1393	GO_CC 37163 37167	Cell
+#1393	AnnotatorNotes T1393	GO:0005623 (cell)
+T1394	italic 37198 37203	Dhcr7
+#1394	AnnotatorNotes T1394	italic (null)
+T1395	PR 37198 37203	Dhcr7
+#1395	AnnotatorNotes T1395	PR:000006454 (7-dehydrocholesterol reductase)
+T1396	EntrezGene 37198 37203	Dhcr7
+#1396	AnnotatorNotes T1396	EG:13360
+T1397	independent_continuant 37198 37203	Dhcr7
+#1397	AnnotatorNotes T1397	independent_continuant
+T1398	GO_MF 37198 37203	Dhcr7
+#1398	AnnotatorNotes T1398	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1399	sup 37203 37206	-/-
+#1399	AnnotatorNotes T1399	sup (null)
+T1400	GO_BP 37265 37279	cell apoptosis
+#1400	AnnotatorNotes T1400	GO:0006915 (apoptosis)
+T1401	CL 37265 37269	cell
+#1401	AnnotatorNotes T1401	CL:0000000 (cell)
+T1402	GO_CC 37265 37269	cell
+#1402	AnnotatorNotes T1402	GO:0005623 (cell)
+T1403	GO_BP 37308 37314	growth
+#1403	AnnotatorNotes T1403	GO:0040007 (growth)
+T1404	CHEBI 37337 37348	cholesterol
+#1404	AnnotatorNotes T1404	CHEBI:16113 (cholesterol)
+T1405	GO_BP 37402 37431	cell growth and proliferation
+#1405	AnnotatorNotes T1405	"cell .. proliferation" GO:0008283 (cell proliferation)
+T1406	GO_BP 37402 37413	cell growth
+#1406	AnnotatorNotes T1406	GO:0016049 (cell growth)
+T1407	CL 37402 37406	cell
+#1407	AnnotatorNotes T1407	CL:0000000 (cell)
+T1408	GO_CC 37402 37406	cell
+#1408	AnnotatorNotes T1408	GO:0005623 (cell)
+T1409	GO_BP 37460 37470	cell death
+#1409	AnnotatorNotes T1409	GO:0008219 (cell death)
+T1410	CL 37460 37464	cell
+#1410	AnnotatorNotes T1410	CL:0000000 (cell)
+T1411	GO_CC 37460 37464	cell
+#1411	AnnotatorNotes T1411	GO:0005623 (cell)
+T1412	CHEBI 37473 37484	Cholesterol
+#1412	AnnotatorNotes T1412	CHEBI:16113 (cholesterol)
+T1413	italic 37499 37504	Dhcr7
+#1413	AnnotatorNotes T1413	italic (null)
+T1414	independent_continuant 37499 37504	Dhcr7
+#1414	AnnotatorNotes T1414	independent_continuant
+T1415	GO_MF 37499 37504	Dhcr7
+#1415	AnnotatorNotes T1415	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1416	EntrezGene 37499 37504	Dhcr7
+#1416	AnnotatorNotes T1416	EG:13360
+T1417	PR 37499 37504	Dhcr7
+#1417	AnnotatorNotes T1417	PR:000006454 (7-dehydrocholesterol reductase)
+T1418	sup 37504 37507	-/-
+#1418	AnnotatorNotes T1418	sup (null)
+T1419	italic 37529 37533	Sc5d
+#1419	AnnotatorNotes T1419	italic (null)
+T1420	PR 37529 37533	Sc5d
+#1420	AnnotatorNotes T1420	PR:000014480 (lathosterol oxidase)
+T1421	sup 37533 37536	-/-
+#1421	AnnotatorNotes T1421	sup (null)
+T1422	italic 37559 37565	Dhcr24
+#1422	AnnotatorNotes T1422	italic (null)
+T1423	EntrezGene 37559 37565	Dhcr24
+#1423	AnnotatorNotes T1423	EG:74754
+T1424	PR 37559 37565	Dhcr24
+#1424	AnnotatorNotes T1424	PR:000006453 (24-dehydrocholesterol reductase)
+T1425	sup 37565 37568	-/-
+#1425	AnnotatorNotes T1425	sup (null)
+T1426	CHEBI 37609 37616	sterols
+#1426	AnnotatorNotes T1426	CHEBI:15889 (sterols)
+T1427	CHEBI 37621 37632	cholesterol
+#1427	AnnotatorNotes T1427	CHEBI:16113 (cholesterol)
+T1428	italic 37636 37641	Dhcr7
+#1428	AnnotatorNotes T1428	italic (null)
+T1429	GO_MF 37636 37641	Dhcr7
+#1429	AnnotatorNotes T1429	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1430	independent_continuant 37636 37641	Dhcr7
+#1430	AnnotatorNotes T1430	independent_continuant
+T1431	EntrezGene 37636 37641	Dhcr7
+#1431	AnnotatorNotes T1431	EG:13360
+T1432	PR 37636 37641	Dhcr7
+#1432	AnnotatorNotes T1432	PR:000006454 (7-dehydrocholesterol reductase)
+T1433	sup 37641 37644	-/-
+#1433	AnnotatorNotes T1433	sup (null)
+T1434	CHEBI 37774 37785	cholesterol
+#1434	AnnotatorNotes T1434	CHEBI:16113 (cholesterol)
+T1435	CHEBI 37843 37850	sterols
+#1435	AnnotatorNotes T1435	CHEBI:15889 (sterols)
+T1436	CHEBI 37893 37904	cholesterol
+#1436	AnnotatorNotes T1436	CHEBI:16113 (cholesterol)
+T1437	GO_BP 37919 37930	synthesized
+#1437	AnnotatorNotes T1437	GO:0009058 (biosynthetic process)
+T1438	NCBITaxon 38066 38070	mice
+#1438	AnnotatorNotes T1438	NCBITaxon:10088 (Mus)
+T1439	GO_BP 38093 38103	synthesize
+#1439	AnnotatorNotes T1439	GO:0009058 (biosynthetic process)
+T1440	CHEBI 38104 38115	cholesterol
+#1440	AnnotatorNotes T1440	CHEBI:16113 (cholesterol)
+T1441	CHEBI 38137 38148	cholesterol
+#1441	AnnotatorNotes T1441	CHEBI:16113 (cholesterol)
+T1442	italic 38207 38213	Dhcr24
+#1442	AnnotatorNotes T1442	italic (null)
+T1443	PR 38207 38213	Dhcr24
+#1443	AnnotatorNotes T1443	PR:000006453 (24-dehydrocholesterol reductase)
+T1444	EntrezGene 38207 38213	Dhcr24
+#1444	AnnotatorNotes T1444	EG:74754
+T1445	NCBITaxon 38219 38223	mice
+#1445	AnnotatorNotes T1445	NCBITaxon:10088 (Mus)
+T1446	CHEBI 38259 38270	cholesterol
+#1446	AnnotatorNotes T1446	CHEBI:16113 (cholesterol)
+T1447	CHEBI 38314 38325	cholesterol
+#1447	AnnotatorNotes T1447	CHEBI:16113 (cholesterol)
+T1448	italic 38337 38343	Dhcr24
+#1448	AnnotatorNotes T1448	italic (null)
+T1449	PR 38337 38343	Dhcr24
+#1449	AnnotatorNotes T1449	PR:000006453 (24-dehydrocholesterol reductase)
+T1450	EntrezGene 38337 38343	Dhcr24
+#1450	AnnotatorNotes T1450	EG:74754
+T1451	CHEBI 38426 38433	sterols
+#1451	AnnotatorNotes T1451	CHEBI:15889 (sterols)
+T1452	CHEBI 38525 38536	cholesterol
+#1452	AnnotatorNotes T1452	CHEBI:16113 (cholesterol)
+T1453	GO_BP 38544 38555	transferred
+#1453	AnnotatorNotes T1453	GO:0006810 (transport)
+T1454	NCBITaxon 38563 38569	murine
+#1454	AnnotatorNotes T1454	NCBITaxon:39107 (Murinae)
+T1455	italic 38604 38610	Dhcr24
+#1455	AnnotatorNotes T1455	italic (null)
+T1456	PR 38604 38610	Dhcr24
+#1456	AnnotatorNotes T1456	PR:000006453 (24-dehydrocholesterol reductase)
+T1457	EntrezGene 38604 38610	Dhcr24
+#1457	AnnotatorNotes T1457	EG:74754
+T1458	sup 38610 38613	-/-
+#1458	AnnotatorNotes T1458	sup (null)
+T1459	NCBITaxon 38614 38618	mice
+#1459	AnnotatorNotes T1459	NCBITaxon:10088 (Mus)
+T1460	GO_BP 38623 38638	developmentally
+#1460	AnnotatorNotes T1460	GO:0032502 (developmental process)
+T1461	italic 38650 38655	Dhcr7
+#1461	AnnotatorNotes T1461	italic (null)
+T1462	independent_continuant 38650 38655	Dhcr7
+#1462	AnnotatorNotes T1462	independent_continuant
+T1463	PR 38650 38655	Dhcr7
+#1463	AnnotatorNotes T1463	PR:000006454 (7-dehydrocholesterol reductase)
+T1464	EntrezGene 38650 38655	Dhcr7
+#1464	AnnotatorNotes T1464	EG:13360
+T1465	GO_MF 38650 38655	Dhcr7
+#1465	AnnotatorNotes T1465	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1466	sup 38655 38658	-/-
+#1466	AnnotatorNotes T1466	sup (null)
+T1467	NCBITaxon 38659 38663	mice
+#1467	AnnotatorNotes T1467	NCBITaxon:10088 (Mus)
+T1468	CHEBI 38692 38703	desmosterol
+#1468	AnnotatorNotes T1468	CHEBI:17737 (desmosterol)
+T1469	CHEBI 38736 38747	cholesterol
+#1469	AnnotatorNotes T1469	CHEBI:16113 (cholesterol)
+T1470	CHEBI 38767 38778	cholesterol
+#1470	AnnotatorNotes T1470	CHEBI:16113 (cholesterol)
+T1471	GO_BP 38860 38884	cholesterol biosynthesis
+#1471	AnnotatorNotes T1471	GO:0006695 (cholesterol biosynthetic process)
+T1472	CHEBI 38860 38871	cholesterol
+#1472	AnnotatorNotes T1472	CHEBI:16113 (cholesterol)
+T1473	GO_BP 38903 38924	embryonic development
+#1473	AnnotatorNotes T1473	GO:0009790 (embryonic development)
+T1474	PR 38985 38988	Shh
+#1474	AnnotatorNotes T1474	PR:000014841 (sonic hedgehog protein)
+T1475	GO_BP 38989 38998	signaling
+#1475	AnnotatorNotes T1475	GO:0007165 (signal transduction)
+T1476	GO_BP 39018 39042	developmental patterning
+#1476	AnnotatorNotes T1476	GO:0007389 (pattern specification process)
+T1477	GO_BP 39069 39079	developing
+#1477	AnnotatorNotes T1477	GO:0032502 (developmental process)
+T1478	PR 39097 39100	Shh
+#1478	AnnotatorNotes T1478	PR:000014841 (sonic hedgehog protein)
+T1479	GO_BP 39104 39113	expressed
+#1479	AnnotatorNotes T1479	GO:0010467 (gene expression)
+T1480	GO_BP 39134 39142	promotes
+#1480	AnnotatorNotes T1480	GO:0048518 (positive regulation of biological process)
+T1481	GO_BP 39143 39166	branching morphogenesis
+#1481	AnnotatorNotes T1481	GO:0001763 (morphogenesis of a branching structure)
+T1482	EntrezGene 39189 39192	Shh
+#1482	AnnotatorNotes T1482	EG:20423
+T1483	PR 39189 39192	Shh
+#1483	AnnotatorNotes T1483	PR:000014841 (sonic hedgehog protein)
+T1484	NCBITaxon 39202 39206	mice
+#1484	AnnotatorNotes T1484	NCBITaxon:10088 (Mus)
+T1485	EntrezGene 39229 39232	Shh
+#1485	AnnotatorNotes T1485	EG:20423
+T1486	PR 39229 39232	Shh
+#1486	AnnotatorNotes T1486	PR:000014841 (sonic hedgehog protein)
+T1487	GO_BP 39234 39242	secreted
+#1487	AnnotatorNotes T1487	GO:0046903 (secretion)
+T1488	GO_BP 39278 39301	branching morphogenesis
+#1488	AnnotatorNotes T1488	GO:0001763 (morphogenesis of a branching structure)
+T1489	GO_BP 39356 39379	branching morphogenesis
+#1489	AnnotatorNotes T1489	GO:0001763 (morphogenesis of a branching structure)
+T1490	GO_BP 39426 39436	maturation
+#1490	AnnotatorNotes T1490	GO:0021700 (developmental maturation)
+T1491	GO_BP 39444 39456	gas-exchange
+#1491	AnnotatorNotes T1491	GO:0007585 (respiratory gaseous exchange)
+T1492	GO_BP 39502 39533	development of Dhcr7-/- embryos
+#1492	AnnotatorNotes T1492	"development of .. embryos" GO:0009790 (embryonic development)
+T1493	italic 39517 39522	Dhcr7
+#1493	AnnotatorNotes T1493	italic (null)
+T1494	PR 39517 39522	Dhcr7
+#1494	AnnotatorNotes T1494	PR:000006454 (7-dehydrocholesterol reductase)
+T1495	independent_continuant 39517 39522	Dhcr7
+#1495	AnnotatorNotes T1495	independent_continuant
+T1496	GO_MF 39517 39522	Dhcr7
+#1496	AnnotatorNotes T1496	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1497	EntrezGene 39517 39522	Dhcr7
+#1497	AnnotatorNotes T1497	EG:13360
+T1498	sup 39522 39525	-/-
+#1498	AnnotatorNotes T1498	sup (null)
+T1499	EntrezGene 39565 39568	Shh
+#1499	AnnotatorNotes T1499	EG:20423
+T1500	PR 39565 39568	Shh
+#1500	AnnotatorNotes T1500	PR:000014841 (sonic hedgehog protein)
+T1501	GO_BP 39569 39578	signaling
+#1501	AnnotatorNotes T1501	GO:0007165 (signal transduction)
+T1502	EntrezGene 39591 39594	Shh
+#1502	AnnotatorNotes T1502	EG:20423
+T1503	PR 39591 39594	Shh
+#1503	AnnotatorNotes T1503	PR:000014841 (sonic hedgehog protein)
+T1504	GO_BP 39595 39632	protein expression and autoprocessing
+#1504	AnnotatorNotes T1504	"protein .. autoprocessing" GO:0016540 (protein autoprocessing)
+T1505	CHEBI 39595 39602	protein
+#1505	AnnotatorNotes T1505	CHEBI:36080 (proteins)
+T1506	GO_BP 39603 39613	expression
+#1506	AnnotatorNotes T1506	GO:0010467 (gene expression)
+T1507	SO 39672 39681	wild-type
+#1507	AnnotatorNotes T1507	SO:0000817 (wild_type)
+T1508	italic 39686 39691	Dhcr7
+#1508	AnnotatorNotes T1508	italic (null)
+T1509	EntrezGene 39686 39691	Dhcr7
+#1509	AnnotatorNotes T1509	EG:13360
+T1510	independent_continuant 39686 39691	Dhcr7
+#1510	AnnotatorNotes T1510	independent_continuant
+T1511	PR 39686 39691	Dhcr7
+#1511	AnnotatorNotes T1511	PR:000006454 (7-dehydrocholesterol reductase)
+T1512	GO_MF 39686 39691	Dhcr7
+#1512	AnnotatorNotes T1512	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1513	sup 39691 39694	-/-
+#1513	AnnotatorNotes T1513	sup (null)
+T1514	EntrezGene 39785 39788	Shh
+#1514	AnnotatorNotes T1514	EG:20423
+T1515	PR 39785 39788	Shh
+#1515	AnnotatorNotes T1515	PR:000014841 (sonic hedgehog protein)
+T1516	SO 39822 39831	genotypes
+#1516	AnnotatorNotes T1516	SO:0001027 (genotype)
+T1517	CHEBI 39863 39874	cholesterol
+#1517	AnnotatorNotes T1517	CHEBI:16113 (cholesterol)
+T1518	italic 39916 39921	Dhcr7
+#1518	AnnotatorNotes T1518	italic (null)
+T1519	EntrezGene 39916 39921	Dhcr7
+#1519	AnnotatorNotes T1519	EG:13360
+T1520	PR 39916 39921	Dhcr7
+#1520	AnnotatorNotes T1520	PR:000006454 (7-dehydrocholesterol reductase)
+T1521	GO_MF 39916 39921	Dhcr7
+#1521	AnnotatorNotes T1521	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1522	independent_continuant 39916 39921	Dhcr7
+#1522	AnnotatorNotes T1522	independent_continuant
+T1523	sup 39921 39924	-/-
+#1523	AnnotatorNotes T1523	sup (null)
+T1524	EntrezGene 39963 39966	Shh
+#1524	AnnotatorNotes T1524	EG:20423
+T1525	PR 39963 39966	Shh
+#1525	AnnotatorNotes T1525	PR:000014841 (sonic hedgehog protein)
+T1526	GO_BP 39967 39981	autoprocessing
+#1526	AnnotatorNotes T1526	GO:0016540 (protein autoprocessing)
+T1527	italic 40005 40010	Dhcr7
+#1527	AnnotatorNotes T1527	italic (null)
+T1528	PR 40005 40010	Dhcr7
+#1528	AnnotatorNotes T1528	PR:000006454 (7-dehydrocholesterol reductase)
+T1529	GO_MF 40005 40010	Dhcr7
+#1529	AnnotatorNotes T1529	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1530	EntrezGene 40005 40010	Dhcr7
+#1530	AnnotatorNotes T1530	EG:13360
+T1531	independent_continuant 40005 40010	Dhcr7
+#1531	AnnotatorNotes T1531	independent_continuant
+T1532	sup 40010 40013	-/-
+#1532	AnnotatorNotes T1532	sup (null)
+T1533	CHEBI 40070 40076	sterol
+#1533	AnnotatorNotes T1533	CHEBI:15889 (sterols)
+T1534	EntrezGene 40091 40094	Shh
+#1534	AnnotatorNotes T1534	EG:20423
+T1535	PR 40091 40094	Shh
+#1535	AnnotatorNotes T1535	PR:000014841 (sonic hedgehog protein)
+T1536	GO_BP 40095 40114	processing reaction
+#1536	AnnotatorNotes T1536	GO:0016485 (protein processing)
+T1537	EntrezGene 40157 40160	Shh
+#1537	AnnotatorNotes T1537	EG:13360
+T1538	PR 40157 40160	Shh
+#1538	AnnotatorNotes T1538	PR:000014841 (sonic hedgehog protein)
+T1539	GO_BP 40161 40178	signaling pathway
+#1539	AnnotatorNotes T1539	GO:0007165 (signal transduction)
+T1540	EntrezGene 40261 40271	smoothened
+#1540	AnnotatorNotes T1540	EG:319757
+T1541	PR 40261 40271	smoothened
+#1541	AnnotatorNotes T1541	PR:000015288 (smoothened)
+T1542	CHEBI 40280 40288	proteins
+#1542	AnnotatorNotes T1542	CHEBI:36080 (proteins)
+T1543	PR 40290 40293	Shh
+#1543	AnnotatorNotes T1543	PR:000014841 (sonic hedgehog protein)
+T1544	GO_BP 40294 40303	signaling
+#1544	AnnotatorNotes T1544	GO:0007165 (signal transduction)
+T1545	GO_BP 40331 40344	transcription
+#1545	AnnotatorNotes T1545	GO:0006350 (transcription)
+T1546	CHEBI 40359 40366	protein
+#1546	AnnotatorNotes T1546	CHEBI:36080 (proteins)
+T1547	EntrezGene 40406 40409	Shh
+#1547	AnnotatorNotes T1547	EG:20423
+T1548	PR 40406 40409	Shh
+#1548	AnnotatorNotes T1548	PR:000014841 (sonic hedgehog protein)
+T1549	GO_BP 40410 40419	signaling
+#1549	AnnotatorNotes T1549	GO:0007165 (signal transduction)
+T1550	italic 40438 40443	Dhcr7
+#1550	AnnotatorNotes T1550	italic (null)
+T1551	GO_MF 40438 40443	Dhcr7
+#1551	AnnotatorNotes T1551	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1552	EntrezGene 40438 40443	Dhcr7
+#1552	AnnotatorNotes T1552	EG:13360
+T1553	independent_continuant 40438 40443	Dhcr7
+#1553	AnnotatorNotes T1553	independent_continuant
+T1554	PR 40438 40443	Dhcr7
+#1554	AnnotatorNotes T1554	PR:000006454 (7-dehydrocholesterol reductase)
+T1555	sup 40443 40446	-/-
+#1555	AnnotatorNotes T1555	sup (null)
+T1556	CHEBI 40607 40614	protein
+#1556	AnnotatorNotes T1556	CHEBI:36080 (proteins)
+T1557	GO_BP 40615 40625	expression
+#1557	AnnotatorNotes T1557	GO:0010467 (gene expression)
+T1558	SO 40671 40680	wild-type
+#1558	AnnotatorNotes T1558	SO:0000817 (wild_type)
+T1559	GO_BP 40706 40722	lung development
+#1559	AnnotatorNotes T1559	GO:0030324 (lung development)
+T1560	NCBITaxon 40767 40772	mouse
+#1560	AnnotatorNotes T1560	NCBITaxon:10088 (Mus)
+T1561	CL 40783 40794	fibroblasts
+#1561	AnnotatorNotes T1561	CL:0000057 (fibroblast)
+T1562	italic 40807 40812	Dhcr7
+#1562	AnnotatorNotes T1562	italic (null)
+T1563	GO_MF 40807 40812	Dhcr7
+#1563	AnnotatorNotes T1563	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1564	PR 40807 40812	Dhcr7
+#1564	AnnotatorNotes T1564	PR:000006454 (7-dehydrocholesterol reductase)
+T1565	independent_continuant 40807 40812	Dhcr7
+#1565	AnnotatorNotes T1565	independent_continuant
+T1566	EntrezGene 40807 40812	Dhcr7
+#1566	AnnotatorNotes T1566	EG:13360
+T1567	sup 40812 40815	-/-
+#1567	AnnotatorNotes T1567	sup (null)
+T1568	GO_BP 40825 40830	grown
+#1568	AnnotatorNotes T1568	GO:0040007 (growth)
+T1569	CHEBI 40886 40898	cyclodextrin
+#1569	AnnotatorNotes T1569	CHEBI:23456 (cyclodextrins)
+T1570	EntrezGene 40920 40923	Shh
+#1570	AnnotatorNotes T1570	EG:20423
+T1571	PR 40920 40923	Shh
+#1571	AnnotatorNotes T1571	PR:000014841 (sonic hedgehog protein)
+T1572	GO_BP 40924 40934	processing
+#1572	AnnotatorNotes T1572	GO:0016485 (protein processing)
+T1573	GO_BP 40978 40985	respond
+#1573	AnnotatorNotes T1573	GO:0050896 (response to stimulus)
+T1574	EntrezGene 40989 40992	Shh
+#1574	AnnotatorNotes T1574	EG:20423
+T1575	PR 40989 40992	Shh
+#1575	AnnotatorNotes T1575	PR:000014841 (sonic hedgehog protein)
+T1576	GO_BP 41027 41042	gene expression
+#1576	AnnotatorNotes T1576	GO:0010467 (gene expression)
+T1577	SO 41027 41031	gene
+#1577	AnnotatorNotes T1577	SO:0000704 (gene)
+T1578	CL 41084 41089	cells
+#1578	AnnotatorNotes T1578	CL:0000000 (cell)
+T1579	GO_CC 41084 41089	cells
+#1579	AnnotatorNotes T1579	GO:0005623 (cell)
+T1580	GO_BP 41103 41112	expressed
+#1580	AnnotatorNotes T1580	GO:0010467 (gene expression)
+T1581	PR 41113 41116	Shh
+#1581	AnnotatorNotes T1581	PR:000014841 (sonic hedgehog protein)
+T1582	CHEBI 41136 41142	sterol
+#1582	AnnotatorNotes T1582	CHEBI:15889 (sterols)
+T1583	PR 41169 41172	Shh
+#1583	AnnotatorNotes T1583	PR:000014841 (sonic hedgehog protein)
+T1584	GO_BP 41173 41187	autoprocessing
+#1584	AnnotatorNotes T1584	GO:0016540 (protein autoprocessing)
+T1585	EntrezGene 41271 41274	Shh
+#1585	AnnotatorNotes T1585	EG:20423
+T1586	PR 41271 41274	Shh
+#1586	AnnotatorNotes T1586	PR:000014841 (sonic hedgehog protein)
+T1587	italic 41278 41283	Dhcr7
+#1587	AnnotatorNotes T1587	italic (null)
+T1588	PR 41278 41283	Dhcr7
+#1588	AnnotatorNotes T1588	PR:000006454 (7-dehydrocholesterol reductase)
+T1589	EntrezGene 41278 41283	Dhcr7
+#1589	AnnotatorNotes T1589	EG:13360
+T1590	independent_continuant 41278 41283	Dhcr7
+#1590	AnnotatorNotes T1590	independent_continuant
+T1591	GO_MF 41278 41283	Dhcr7
+#1591	AnnotatorNotes T1591	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1592	sup 41283 41286	-/-
+#1592	AnnotatorNotes T1592	sup (null)
+T1593	EntrezGene 41337 41340	Shh
+#1593	AnnotatorNotes T1593	EG:20423
+T1594	PR 41337 41340	Shh
+#1594	AnnotatorNotes T1594	PR:000014841 (sonic hedgehog protein)
+T1595	GO_BP 41341 41360	signal transduction
+#1595	AnnotatorNotes T1595	GO:0007165 (signal transduction)
+T1596	GO_BP 41456 41480	cholesterol biosynthesis
+#1596	AnnotatorNotes T1596	GO:0006695 (cholesterol biosynthetic process)
+T1597	CHEBI 41456 41467	cholesterol
+#1597	AnnotatorNotes T1597	CHEBI:16113 (cholesterol)
+T1598	EntrezGene 41511 41514	Shh
+#1598	AnnotatorNotes T1598	EG:20423
+T1599	PR 41511 41514	Shh
+#1599	AnnotatorNotes T1599	PR:000014841 (sonic hedgehog protein)
+T1600	GO_CC 41560 41575	plasma membrane
+#1600	AnnotatorNotes T1600	GO:0005886 (plasma membrane)
+T1601	CHEBI 41602 41613	cholesterol
+#1601	AnnotatorNotes T1601	CHEBI:16113 (cholesterol)
+T1602	GO_CC 41629 41644	plasma membrane
+#1602	AnnotatorNotes T1602	GO:0005886 (plasma membrane)
+T1603	GO_CC 41662 41670	membrane
+#1603	AnnotatorNotes T1603	GO:0016020 (membrane)
+T1604	independent_continuant 41707 41716	receptors
+#1604	AnnotatorNotes T1604	independent_continuant
+T1605	GO_MF 41707 41716	receptors
+#1605	AnnotatorNotes T1605	GO:0004872 (receptor activity)
+T1606	GO_BP 41756 41777	cholesterol synthesis
+#1606	AnnotatorNotes T1606	GO:0006695 (cholesterol biosynthetic process)
+T1607	CHEBI 41756 41767	cholesterol
+#1607	AnnotatorNotes T1607	CHEBI:16113 (cholesterol)
+T1608	GO_BP 41798 41817	signal transduction
+#1608	AnnotatorNotes T1608	GO:0007165 (signal transduction)
+T1609	EntrezGene 41890 41893	Shh
+#1609	AnnotatorNotes T1609	EG:20423
+T1610	PR 41890 41893	Shh
+#1610	AnnotatorNotes T1610	PR:000014841 (sonic hedgehog protein)
+T1611	italic 41989 41994	Dhcr7
+#1611	AnnotatorNotes T1611	italic (null)
+T1612	PR 41989 41994	Dhcr7
+#1612	AnnotatorNotes T1612	PR:000006454 (7-dehydrocholesterol reductase)
+T1613	independent_continuant 41989 41994	Dhcr7
+#1613	AnnotatorNotes T1613	independent_continuant
+T1614	GO_MF 41989 41994	Dhcr7
+#1614	AnnotatorNotes T1614	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1615	EntrezGene 41989 41994	Dhcr7
+#1615	AnnotatorNotes T1615	EG:13360
+T1616	NCBITaxon 42000 42004	mice
+#1616	AnnotatorNotes T1616	NCBITaxon:10088 (Mus)
+T1617	CHEBI 42019 42030	Cholesterol
+#1617	AnnotatorNotes T1617	CHEBI:16113 (cholesterol)
+T1618	GO_MF 42052 42057	Dhcr7
+#1618	AnnotatorNotes T1618	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1619	PR 42052 42057	Dhcr7
+#1619	AnnotatorNotes T1619	PR:000006454 (7-dehydrocholesterol reductase)
+T1620	EntrezGene 42052 42057	Dhcr7
+#1620	AnnotatorNotes T1620	EG:13360
+T1621	independent_continuant 42052 42057	Dhcr7
+#1621	AnnotatorNotes T1621	independent_continuant
+T1622	NCBITaxon 42072 42076	mice
+#1622	AnnotatorNotes T1622	NCBITaxon:10088 (Mus)
+T1623	GO_BP 42157 42172	differentiation
+#1623	AnnotatorNotes T1623	GO:0030154 (cell differentiation)
+T1624	GO_BP 42227 42247	vascular development
+#1624	AnnotatorNotes T1624	GO:0001944 (vasculature development)
+T1625	CHEBI 42280 42291	cholesterol
+#1625	AnnotatorNotes T1625	CHEBI:16113 (cholesterol)
+T1626	GO_CC 42299 42308	membranes
+#1626	AnnotatorNotes T1626	GO:0016020 (membrane)
+T1627	independent_continuant 42327 42336	receptors
+#1627	AnnotatorNotes T1627	independent_continuant
+T1628	GO_MF 42327 42336	receptors
+#1628	AnnotatorNotes T1628	GO:0004872 (receptor activity)
+T1629	CHEBI 42354 42365	cholesterol
+#1629	AnnotatorNotes T1629	CHEBI:16113 (cholesterol)
+T1630	GO_BP 42380 42399	signal transduction
+#1630	AnnotatorNotes T1630	GO:0007165 (signal transduction)
+T1631	GO_BP 42432 42480	transcriptional and signal transduction pathways
+#1631	AnnotatorNotes T1631	"transcriptional .. pathways" GO:0006350 (transcription)
+T1632	GO_BP 42452 42480	signal transduction pathways
+#1632	AnnotatorNotes T1632	GO:0007165 (signal transduction)
+T1633	italic 42528 42533	Dhcr7
+#1633	AnnotatorNotes T1633	italic (null)
+T1634	PR 42528 42533	Dhcr7
+#1634	AnnotatorNotes T1634	PR:000006454 (7-dehydrocholesterol reductase)
+T1635	EntrezGene 42528 42533	Dhcr7
+#1635	AnnotatorNotes T1635	EG:13360
+T1636	independent_continuant 42528 42533	Dhcr7
+#1636	AnnotatorNotes T1636	independent_continuant
+T1637	GO_MF 42528 42533	Dhcr7
+#1637	AnnotatorNotes T1637	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1638	CHEBI 42635 42646	cholesterol
+#1638	AnnotatorNotes T1638	CHEBI:16113 (cholesterol)
+T1639	GO_BP 42650 42671	embryonic development
+#1639	AnnotatorNotes T1639	GO:0009790 (embryonic development)
+T1640	NCBITaxon 42683 42690	Animals
+#1640	AnnotatorNotes T1640	NCBITaxon:33208 (Metazoa)
+T1641	NCBITaxon 42696 42700	mice
+#1641	AnnotatorNotes T1641	NCBITaxon:10088 (Mus)
+T1642	NCBITaxon 42719 42725	animal
+#1642	AnnotatorNotes T1642	NCBITaxon:33208 (Metazoa)
+T1643	NCBITaxon 42831 42837	Animal
+#1643	AnnotatorNotes T1643	NCBITaxon:33208 (Metazoa)
+T1644	italic 42857 42862	Dhcr7
+#1644	AnnotatorNotes T1644	italic (null)
+T1645	independent_continuant 42857 42862	Dhcr7
+#1645	AnnotatorNotes T1645	independent_continuant
+T1646	EntrezGene 42857 42862	Dhcr7
+#1646	AnnotatorNotes T1646	EG:13360
+T1647	GO_MF 42857 42862	Dhcr7
+#1647	AnnotatorNotes T1647	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1648	PR 42857 42862	Dhcr7
+#1648	AnnotatorNotes T1648	PR:000006454 (7-dehydrocholesterol reductase)
+T1649	NCBITaxon 42876 42883	animals
+#1649	AnnotatorNotes T1649	NCBITaxon:33208 (Metazoa)
+T1650	GO_BP 43060 43068	pregnant
+#1650	AnnotatorNotes T1650	GO:0007565 (female pregnancy)
+T1651	NCBITaxon 43389 43393	Mice
+#1651	AnnotatorNotes T1651	NCBITaxon:10088 (Mus)
+T1652	GO_BP 43421 43426	birth
+#1652	AnnotatorNotes T1652	GO:0007567 (parturition)
+T1653	italic 43744 43749	Dhcr7
+#1653	AnnotatorNotes T1653	italic (null)
+T1654	EntrezGene 43744 43749	Dhcr7
+#1654	AnnotatorNotes T1654	EG:13360
+T1655	independent_continuant 43744 43749	Dhcr7
+#1655	AnnotatorNotes T1655	independent_continuant
+T1656	PR 43744 43749	Dhcr7
+#1656	AnnotatorNotes T1656	PR:000006454 (7-dehydrocholesterol reductase)
+T1657	GO_MF 43744 43749	Dhcr7
+#1657	AnnotatorNotes T1657	GO:0047598 (7-dehydrocholesterol reductase activity)
+T1658	SO 43750 43758	genotype
+#1658	AnnotatorNotes T1658	SO:0001027 (genotype)
+T1659	CHEBI 43794 43800	sterol
+#1659	AnnotatorNotes T1659	CHEBI:15889 (sterols)
+T1660	CHEBI 43914 43928	corticosterone
+#1660	AnnotatorNotes T1660	CHEBI:16827 (corticosterone)
+T1661	CHEBI 44053 44060	hormone
+#1661	AnnotatorNotes T1661	CHEBI:24621 (hormone)
+T1662	GO_MF 44053 44060	hormone
+#1662	AnnotatorNotes T1662	GO:0005179 (hormone activity)
+T1663	independent_continuant 44053 44060	hormone
+#1663	AnnotatorNotes T1663	independent_continuant
+T1664	NCBITaxon 44176 44180	mice
+#1664	AnnotatorNotes T1664	NCBITaxon:10088 (Mus)
+T1665	CHEBI 44224 44232	methanol
+#1665	AnnotatorNotes T1665	CHEBI:17790 (methanol)
+T1666	CHEBI 44233 44240	acetone
+#1666	AnnotatorNotes T1666	CHEBI:15347 (acetone)
+T1667	CHEBI 44241 44252	acetic acid
+#1667	AnnotatorNotes T1667	CHEBI:15366 (acetic acid)
+T1668	CHEBI 44253 44258	water
+#1668	AnnotatorNotes T1668	CHEBI:15377 (water)
+T1669	CHEBI 44400 44407	ethanol
+#1669	AnnotatorNotes T1669	CHEBI:16236 (ethanol)
+T1670	CHEBI 44427 44434	toluene
+#1670	AnnotatorNotes T1670	CHEBI:17578 (toluene)
+T1671	CHEBI 44669 44675	xylene
+#1671	AnnotatorNotes T1671	CHEBI:27338 (xylene)
+T1672	CHEBI 44719 44726	ethanol
+#1672	AnnotatorNotes T1672	CHEBI:16236 (ethanol)
+T1673	CHEBI 44766 44772	sodium
+#1673	AnnotatorNotes T1673	CHEBI:26708 (sodium)
+T1674	CHEBI 44773 44780	citrate
+#1674	AnnotatorNotes T1674	CHEBI:16947 (citrate(3-))
+T1675	CHEBI 44773 44780	citrate
+#1675	AnnotatorNotes T1675	CHEBI:35804 (citrate(1-))
+T1676	CHEBI 44773 44780	citrate
+#1676	AnnotatorNotes T1676	CHEBI:35808 (citrate(2-))
+T1677	CHEBI 44903 44920	hydrogen peroxide
+#1677	AnnotatorNotes T1677	CHEBI:16240 (hydrogen peroxide)
+T1678	CHEBI 44903 44911	hydrogen
+#1678	AnnotatorNotes T1678	CHEBI:49637 (hydrogen)
+T1679	CHEBI 44912 44920	peroxide
+#1679	AnnotatorNotes T1679	CHEBI:44785 (peroxide)
+T1680	GO_CC 45063 45073	antibodies
+#1680	AnnotatorNotes T1680	GO:0019814 (immunoglobulin complex)
+T1681	PR 45082 45085	Shh
+#1681	AnnotatorNotes T1681	PR:000014841 (sonic hedgehog protein)
+T1682	PR 45116 45119	Smo
+#1682	AnnotatorNotes T1682	PR:000015288 (smoothened)
+T1683	PR 45133 45137	Gli1
+#1683	AnnotatorNotes T1683	PR:000008026 (zinc finger protein GLI1)
+T1684	PR 45147 45151	Gli3
+#1684	AnnotatorNotes T1684	PR:000008028 (zinc finger protein GLI3)
+T1685	PR 45165 45169	SP-C
+#1685	AnnotatorNotes T1685	PR:000014774 (pulmonary surfactant-associated protein C)
+T1686	PR 45208 45219	aquaporin 5
+#1686	AnnotatorNotes T1686	PR:000004185 (aquaporin-5)
+T1687	PR 45221 45225	AQP5
+#1687	AnnotatorNotes T1687	PR:000004185 (aquaporin-5)
+T1688	PR 45235 45242	megalin
+#1688	AnnotatorNotes T1688	PR:000009921 (low-density lipoprotein receptor-related protein 2)
+T1689	PR 45252 45259	PECAM-1
+#1689	AnnotatorNotes T1689	PR:000001904 (platelet endothelial cell adhesion molecule)
+T1690	PR 45314 45317	T1α
+#1690	AnnotatorNotes T1690	PR:000012516 (podoplanin)
+T1691	GO_BP 45347 45360	Developmental
+#1691	AnnotatorNotes T1691	GO:0032502 (developmental process)
+T1692	GO_BP 45491 45503	biotinylated
+#1692	AnnotatorNotes T1692	GO:0009305 (protein amino acid biotinylation)
+T1693	GO_CC 45514 45524	antibodies
+#1693	AnnotatorNotes T1693	GO:0019814 (immunoglobulin complex)
+T1694	CHEBI 45678 45683	Metal
+#1694	AnnotatorNotes T1694	CHEBI:33521 (metals)
+T1695	sup 46069 46070	2
+#1695	AnnotatorNotes T1695	sup (null)
+T1696	NCBITaxon 46271 46278	animals
+#1696	AnnotatorNotes T1696	NCBITaxon:33208 (Metazoa)
+T1697	SO 46283 46291	genotype
+#1697	AnnotatorNotes T1697	SO:0001027 (genotype)
+T1698	GO_BP 46322 46355	cell proliferation/Division/death
+#1698	AnnotatorNotes T1698	"cell .. death" GO:0008219 (cell death)
+T1699	GO_BP 46322 46349	cell proliferation/Division
+#1699	AnnotatorNotes T1699	"cell .. Division" GO:0051301 (cell division)
+T1700	GO_BP 46322 46340	cell proliferation
+#1700	AnnotatorNotes T1700	GO:0008283 (cell proliferation)
+T1701	CL 46322 46326	cell
+#1701	AnnotatorNotes T1701	CL:0000000 (cell)
+T1702	GO_CC 46322 46326	cell
+#1702	AnnotatorNotes T1702	GO:0005623 (cell)
+T1703	GO_BP 46368 46399	cell proliferation and division
+#1703	AnnotatorNotes T1703	"cell .. division" GO:0051301 (cell division)
+T1704	GO_BP 46368 46386	cell proliferation
+#1704	AnnotatorNotes T1704	GO:0008283 (cell proliferation)
+T1705	CL 46368 46372	cell
+#1705	AnnotatorNotes T1705	CL:0000000 (cell)
+T1706	GO_CC 46368 46372	cell
+#1706	AnnotatorNotes T1706	GO:0005623 (cell)
+T1707	GO_CC 46417 46451	proliferating cell nuclear antigen
+#1707	AnnotatorNotes T1707	GO:0043626 (PCNA complex)
+T1708	PR 46417 46451	proliferating cell nuclear antigen
+#1708	AnnotatorNotes T1708	PR:000012421 (proliferating cell nuclear antigen)
+T1709	EntrezGene 46417 46451	proliferating cell nuclear antigen
+#1709	AnnotatorNotes T1709	EG:18538
+T1710	GO_BP 46417 46430	proliferating
+#1710	AnnotatorNotes T1710	GO:0008283 (cell proliferation)
+T1711	CL 46431 46435	cell
+#1711	AnnotatorNotes T1711	CL:0000000 (cell)
+T1712	GO_CC 46431 46435	cell
+#1712	AnnotatorNotes T1712	GO:0005623 (cell)
+T1713	GO_CC 46453 46457	PCNA
+#1713	AnnotatorNotes T1713	GO:0043626 (PCNA complex)
+T1714	PR 46453 46457	PCNA
+#1714	AnnotatorNotes T1714	PR:000012421 (proliferating cell nuclear antigen)
+T1715	EntrezGene 46453 46457	PCNA
+#1715	AnnotatorNotes T1715	EG:18538
+T1716	SO 46489 46502	incorporation
+#1716	AnnotatorNotes T1716	SO:0000046 (insert)
+T1717	GO_BP 46507 46521	phosphorylated
+#1717	AnnotatorNotes T1717	GO:0016310 (phosphorylation)
+T1718	CHEBI 46522 46529	histone
+#1718	AnnotatorNotes T1718	CHEBI:15358 (histone)
+T1719	GO_CC 46549 46553	PCNA
+#1719	AnnotatorNotes T1719	GO:0043626 (PCNA complex)
+T1720	PR 46549 46553	PCNA
+#1720	AnnotatorNotes T1720	PR:000012421 (proliferating cell nuclear antigen)
+T1721	GO_CC 46586 46596	antibodies
+#1721	AnnotatorNotes T1721	GO:0019814 (immunoglobulin complex)
+T1722	SO 46651 46664	incorporation
+#1722	AnnotatorNotes T1722	SO:0000046 (insert)
+T1723	GO_BP 46672 46680	pregnant
+#1723	AnnotatorNotes T1723	GO:0007565 (female pregnancy)
+T1724	NCBITaxon 46681 46685	mice
+#1724	AnnotatorNotes T1724	NCBITaxon:10088 (Mus)
+T1725	GO_CC 46922 46930	antibody
+#1725	AnnotatorNotes T1725	GO:0019814 (immunoglobulin complex)
+T1726	GO_BP 46939 46952	Developmental
+#1726	AnnotatorNotes T1726	GO:0032502 (developmental process)
+T1727	GO_BP 47018 47028	conjugated
+#1727	AnnotatorNotes T1727	GO:0043412 (biopolymer modification)
+T1728	NCBITaxon 47029 47035	rabbit
+#1728	AnnotatorNotes T1728	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1729	NCBITaxon 47041 47046	mouse
+#1729	AnnotatorNotes T1729	NCBITaxon:10088 (Mus)
+T1730	GO_CC 47047 47055	antibody
+#1730	AnnotatorNotes T1730	GO:0019814 (immunoglobulin complex)
+T1731	GO_BP 47100 47110	Cell death
+#1731	AnnotatorNotes T1731	GO:0008219 (cell death)
+T1732	CL 47100 47104	Cell
+#1732	AnnotatorNotes T1732	CL:0000000 (cell)
+T1733	GO_CC 47100 47104	Cell
+#1733	AnnotatorNotes T1733	GO:0005623 (cell)
+T1734	GO_MF 47131 47167	terminal deoxynucleotidyltransferase
+#1734	AnnotatorNotes T1734	GO:0003912 (DNA nucleotidylexotransferase activity)
+T1735	PR 47131 47167	terminal deoxynucleotidyltransferase
+#1735	AnnotatorNotes T1735	PR:000006611 (DNA nucleotidylexotransferase)
+T1736	independent_continuant 47131 47167	terminal deoxynucleotidyltransferase
+#1736	AnnotatorNotes T1736	independent_continuant
+T1737	CHEBI 47177 47181	dUTP
+#1737	AnnotatorNotes T1737	CHEBI:17625 (dUTP)
+T1738	GO_BP 47238 47248	Cell Death
+#1738	AnnotatorNotes T1738	GO:0008219 (cell death)
+T1739	CL 47238 47242	Cell
+#1739	AnnotatorNotes T1739	CL:0000000 (cell)
+T1740	GO_CC 47238 47242	Cell
+#1740	AnnotatorNotes T1740	GO:0005623 (cell)
+T1741	italic 47426 47431	et al
+#1741	AnnotatorNotes T1741	italic (null)
+T1742	SO 47497 47505	genotype
+#1742	AnnotatorNotes T1742	SO:0001027 (genotype)
+T1743	GO_BP 47543 47548	lysis
+#1743	AnnotatorNotes T1743	GO:0019835 (cytolysis)
+T1744	CHEBI 47563 47567	Tris
+#1744	AnnotatorNotes T1744	CHEBI:9754 (tris)
+T1745	CHEBI 47582 47586	NaCl
+#1745	AnnotatorNotes T1745	CHEBI:26710 (sodium chloride)
+T1746	CHEBI 47593 47597	EDTA
+#1746	AnnotatorNotes T1746	CHEBI:30378 (ethylenediaminetetraacetate)
+T1747	CHEBI 47593 47597	EDTA
+#1747	AnnotatorNotes T1747	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T1748	CHEBI 47623 47626	DTT
+#1748	AnnotatorNotes T1748	CHEBI:18320 (1,4-dithiothreitol)
+T1749	CHEBI 47633 47637	PMSF
+#1749	AnnotatorNotes T1749	CHEBI:8102 (phenylmethanesulfonyl fluoride)
+T1750	CHEBI 47942 47949	protein
+#1750	AnnotatorNotes T1750	CHEBI:36080 (proteins)
+T1751	CL 48011 48016	cells
+#1751	AnnotatorNotes T1751	CL:0000000 (cell)
+T1752	GO_CC 48011 48016	cells
+#1752	AnnotatorNotes T1752	GO:0005623 (cell)
+T1753	GO_BP 48022 48033	transfected
+#1753	AnnotatorNotes T1753	GO:0009294 (DNA mediated transformation)
+T1754	GO_BP 48050 48062	transfection
+#1754	AnnotatorNotes T1754	GO:0009294 (DNA mediated transformation)
+T1755	CHEBI 48063 48070	reagent
+#1755	AnnotatorNotes T1755	CHEBI:33893 (reagent)
+T1756	GO_BP 48099 48109	expression
+#1756	AnnotatorNotes T1756	GO:0010467 (gene expression)
+T1757	SO 48110 48120	constructs
+#1757	AnnotatorNotes T1757	SO:0001037 (mobile_genetic_element)
+T1758	PR 48141 48156	full-length Shh
+#1758	AnnotatorNotes T1758	PR:000021466 (sonic hedgehog protein, full-length form)
+T1759	SO 48164 48174	N-terminal
+#1759	AnnotatorNotes T1759	SO:0100014 (n_terminal_region)
+T1760	CHEBI 48164 48165	N
+#1760	AnnotatorNotes T1760	CHEBI:46882 (amino group)
+T1761	SO 48175 48183	fragment
+#1761	AnnotatorNotes T1761	SO:0000731 (fragmentary)
+T1762	PR 48187 48190	Shh
+#1762	AnnotatorNotes T1762	PR:000014841 (sonic hedgehog protein)
+T1763	GO_BP 48199 48231	post-translational modifications
+#1763	AnnotatorNotes T1763	GO:0043687 (post-translational protein modification)
+T1764	GO_BP 48204 48217	translational
+#1764	AnnotatorNotes T1764	GO:0006412 (translation)
+T1765	SO 48218 48231	modifications
+#1765	AnnotatorNotes T1765	SO:0001059 (sequence_alteration)
+T1766	SO 48233 48243	constructs
+#1766	AnnotatorNotes T1766	SO:0001037 (mobile_genetic_element)
+T1767	GO_BP 48388 48400	transfection
+#1767	AnnotatorNotes T1767	GO:0009294 (DNA mediated transformation)
+T1768	CHEBI 48405 48412	protein
+#1768	AnnotatorNotes T1768	CHEBI:36080 (proteins)
+T1769	CHEBI 48451 48458	Protein
+#1769	AnnotatorNotes T1769	CHEBI:36080 (proteins)
+T1770	CHEBI 48502 48509	protein
+#1770	AnnotatorNotes T1770	CHEBI:36080 (proteins)
+T1771	CL 48559 48564	cells
+#1771	AnnotatorNotes T1771	CL:0000000 (cell)
+T1772	GO_CC 48559 48564	cells
+#1772	AnnotatorNotes T1772	GO:0005623 (cell)
+T1773	CHEBI 48615 48618	SDS
+#1773	AnnotatorNotes T1773	CHEBI:8984 (sodium dodecyl sulfate)
+T1774	GO_CC 48690 48698	antibody
+#1774	AnnotatorNotes T1774	GO:0019814 (immunoglobulin complex)
+T1775	PR 48700 48703	Shh
+#1775	AnnotatorNotes T1775	PR:000014841 (sonic hedgehog protein)
+T1776	NCBITaxon 48741 48747	donkey
+#1776	AnnotatorNotes T1776	NCBITaxon:9793 (Equus asinus)
+T1777	GO_CC 48769 48777	antibody
+#1777	AnnotatorNotes T1777	GO:0019814 (immunoglobulin complex)
+T1778	SO 49005 49008	RNA
+#1778	AnnotatorNotes T1778	SO:0000356 (RNA)
+T1779	NCBITaxon 49025 49029	mice
+#1779	AnnotatorNotes T1779	NCBITaxon:10088 (Mus)
+T1780	SO 49041 49045	cDNA
+#1780	AnnotatorNotes T1780	SO:0000756 (cDNA)
+T1781	SO 49046 49052	probes
+#1781	AnnotatorNotes T1781	SO:0000051 (probe)
+T1782	PR 49057 49061	SP-A
+#1782	AnnotatorNotes T1782	PR:000015945 (pulmonary surfactant-associated protein A)
+T1783	PR 49063 49067	SP-B
+#1783	AnnotatorNotes T1783	PR:000014773 (pulmonary surfactant-associated protein B)
+T1784	PR 49072 49076	SP-C
+#1784	AnnotatorNotes T1784	PR:000014774 (pulmonary surfactant-associated protein C)
+T1785	SO 49222 49226	cDNA
+#1785	AnnotatorNotes T1785	SO:0000756 (cDNA)
+T1786	SO 49227 49232	probe
+#1786	AnnotatorNotes T1786	SO:0000051 (probe)
+T1787	PR 49237 49241	SP-D
+#1787	AnnotatorNotes T1787	PR:000014775 (pulmonary surfactant-associated protein D)
+T1788	GO_MF 49259 49261	RT
+#1788	AnnotatorNotes T1788	GO:0003964 (RNA-directed DNA polymerase activity)
+T1789	independent_continuant 49259 49261	RT
+#1789	AnnotatorNotes T1789	independent_continuant
+T1790	GO_BP 49259 49261	RT
+#1790	AnnotatorNotes T1790	GO:0006410 (transcription, RNA-dependent)
+T1791	NCBITaxon 49273 49279	murine
+#1791	AnnotatorNotes T1791	NCBITaxon:39107 (Murinae)
+T1792	PR 49280 49284	SP-D
+#1792	AnnotatorNotes T1792	PR:000014775 (pulmonary surfactant-associated protein D)
+T1793	SO 49285 49289	cDNA
+#1793	AnnotatorNotes T1793	SO:0000756 (cDNA)
+T1794	SO 49299 49306	primers
+#1794	AnnotatorNotes T1794	SO:0000112 (primer)
+T1795	SO 49345 49354	antisense
+#1795	AnnotatorNotes T1795	SO:0000077 (antisense)
+T1796	CHEBI 49526 49533	sterols
+#1796	AnnotatorNotes T1796	CHEBI:15889 (sterols)
+T1797	SO 49779 49783	cDNA
+#1797	AnnotatorNotes T1797	SO:0000756 (cDNA)
+T1798	SO 49784 49790	probes
+#1798	AnnotatorNotes T1798	SO:0000051 (probe)
+T1799	PR 49795 49799	SP-A
+#1799	AnnotatorNotes T1799	PR:000015945 (pulmonary surfactant-associated protein A)
+T1800	PR 49801 49805	SP-B
+#1800	AnnotatorNotes T1800	PR:000014773 (pulmonary surfactant-associated protein B)
+T1801	PR 49810 49814	SP-C
+#1801	AnnotatorNotes T1801	PR:000014774 (pulmonary surfactant-associated protein C)
+T1802	PR 49843 49846	Shh
+#1802	AnnotatorNotes T1802	PR:000014841 (sonic hedgehog protein)
+T1803	PR 49851 49854	Shh
+#1803	AnnotatorNotes T1803	PR:000014841 (sonic hedgehog protein)
+T1804	CHEBI 49855 49856	N
+#1804	AnnotatorNotes T1804	CHEBI:46882 (amino group)
+T1805	SO 49855 49856	N
+#1805	AnnotatorNotes T1805	SO:0100014 (n_terminal_region)
+T1806	SO 49857 49865	plasmids
+#1806	AnnotatorNotes T1806	SO:0000155 (plasmid)

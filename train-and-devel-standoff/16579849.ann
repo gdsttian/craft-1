@@ -1,0 +1,2932 @@
+T1	GO_BP 0 10	Production
+#1	AnnotatorNotes T1	GO:0000003 (reproduction)
+T2	NCBITaxon 35 41	murine
+#2	AnnotatorNotes T2	NCBITaxon:39107 (Murinae)
+T3	NCBITaxon 77 82	maple
+#3	AnnotatorNotes T3	NCBITaxon:4022 (Acer)
+T4	NCBITaxon 126 131	Maple
+#4	AnnotatorNotes T4	NCBITaxon:4022 (Acer)
+T5	GO_BP 181 191	metabolism
+#5	AnnotatorNotes T5	GO:0008152 (metabolic process)
+T6	GO_CC 218 256	branched-chain keto acid dehydrogenase
+#6	AnnotatorNotes T6	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T7	GO_MF 233 256	keto acid dehydrogenase
+#7	AnnotatorNotes T7	GO:0003826 (alpha-ketoacid dehydrogenase activity)
+T8	independent_continuant 233 256	keto acid dehydrogenase
+#8	AnnotatorNotes T8	independent_continuant
+T9	CHEBI 233 237	keto
+#9	AnnotatorNotes T9	CHEBI:23019 (carbonyl group)
+T10	CHEBI 238 242	acid
+#10	AnnotatorNotes T10	CHEBI:37527 (acid)
+T11	SO 322 328	enzyme
+#11	AnnotatorNotes T11	SO:0001185 (enzymatic)
+T12	NCBITaxon 508 514	animal
+#12	AnnotatorNotes T12	NCBITaxon:33208 (Metazoa)
+T13	GO_BP 535 541	create
+#13	AnnotatorNotes T13	GO:0000003 (reproduction)
+T14	NCBITaxon 544 550	murine
+#14	AnnotatorNotes T14	NCBITaxon:39107 (Murinae)
+T15	SO 582 586	gene
+#15	AnnotatorNotes T15	SO:0000704 (gene)
+T16	CL 611 620	stem cell
+#16	AnnotatorNotes T16	CL:0000034 (stem cell)
+T17	GO_CC 616 620	cell
+#17	AnnotatorNotes T17	GO:0005623 (cell)
+T18	GO_BP 637 643	create
+#18	AnnotatorNotes T18	GO:0000003 (reproduction)
+T19	NCBITaxon 646 651	mouse
+#19	AnnotatorNotes T19	NCBITaxon:10088 (Mus)
+T20	EntrezGene 682 692	E2 subunit
+#20	AnnotatorNotes T20	EG:13171
+T21	PR 682 692	E2 subunit
+#21	AnnotatorNotes T21	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T22	SO 693 697	gene
+#22	AnnotatorNotes T22	SO:0000704 (gene)
+T23	GO_CC 701 739	branched-chain keto acid dehydrogenase
+#23	AnnotatorNotes T23	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T24	GO_MF 716 739	keto acid dehydrogenase
+#24	AnnotatorNotes T24	GO:0003826 (alpha-ketoacid dehydrogenase activity)
+T25	independent_continuant 716 739	keto acid dehydrogenase
+#25	AnnotatorNotes T25	independent_continuant
+T26	CHEBI 716 720	keto
+#26	AnnotatorNotes T26	CHEBI:23019 (carbonyl group)
+T27	CHEBI 721 725	acid
+#27	AnnotatorNotes T27	CHEBI:37527 (acid)
+T28	GO_BP 744 750	create
+#28	AnnotatorNotes T28	GO:0000003 (reproduction)
+T29	NCBITaxon 753 759	murine
+#29	AnnotatorNotes T29	NCBITaxon:39107 (Murinae)
+T30	SO 796 806	transgenic
+#30	AnnotatorNotes T30	SO:0000902 (transgene)
+T31	GO_BP 821 828	express
+#31	AnnotatorNotes T31	GO:0010467 (gene expression)
+T32	EntrezGene 831 839	human E2
+#32	AnnotatorNotes T32	EG:1629
+T33	NCBITaxon 831 836	human
+#33	AnnotatorNotes T33	NCBITaxon:9606 (Homo sapiens)
+T34	PR 837 839	E2
+#34	AnnotatorNotes T34	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T35	SO 840 844	cDNA
+#35	AnnotatorNotes T35	SO:0000756 (cDNA)
+T36	NCBITaxon 873 877	Mice
+#36	AnnotatorNotes T36	NCBITaxon:10088 (Mus)
+T37	CHEBI 919 928	molecular
+#37	AnnotatorNotes T37	CHEBI:23367 (molecular entity)
+T38	NCBITaxon 953 959	animal
+#38	AnnotatorNotes T38	NCBITaxon:33208 (Metazoa)
+T39	EntrezGene 996 1006	E2 subunit
+#39	AnnotatorNotes T39	EG:13171
+T40	PR 996 1006	E2 subunit
+#40	AnnotatorNotes T40	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T41	SO 1007 1011	gene
+#41	AnnotatorNotes T41	SO:0000704 (gene)
+T42	GO_CC 1015 1053	branched-chain keto acid dehydrogenase
+#42	AnnotatorNotes T42	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T43	GO_MF 1030 1053	keto acid dehydrogenase
+#43	AnnotatorNotes T43	GO:0003826 (alpha-ketoacid dehydrogenase activity)
+T44	independent_continuant 1030 1053	keto acid dehydrogenase
+#44	AnnotatorNotes T44	independent_continuant
+T45	CHEBI 1030 1034	keto
+#45	AnnotatorNotes T45	CHEBI:23019 (carbonyl group)
+T46	CHEBI 1035 1039	acid
+#46	AnnotatorNotes T46	CHEBI:37527 (acid)
+T47	GO_BP 1058 1065	created
+#47	AnnotatorNotes T47	GO:0000003 (reproduction)
+T48	SO 1068 1072	gene
+#48	AnnotatorNotes T48	SO:0000704 (gene)
+T49	NCBITaxon 1082 1087	mouse
+#49	AnnotatorNotes T49	NCBITaxon:10088 (Mus)
+T50	NCBITaxon 1135 1139	mice
+#50	AnnotatorNotes T50	NCBITaxon:10088 (Mus)
+T51	GO_CC 1147 1185	branched-chain keto acid dehydrogenase
+#51	AnnotatorNotes T51	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T52	independent_continuant 1162 1185	keto acid dehydrogenase
+#52	AnnotatorNotes T52	independent_continuant
+T53	GO_MF 1162 1185	keto acid dehydrogenase
+#53	AnnotatorNotes T53	GO:0003826 (alpha-ketoacid dehydrogenase activity)
+T54	CHEBI 1162 1166	keto
+#54	AnnotatorNotes T54	CHEBI:23019 (carbonyl group)
+T55	CHEBI 1167 1171	acid
+#55	AnnotatorNotes T55	CHEBI:37527 (acid)
+T56	EntrezGene 1196 1198	E2
+#56	AnnotatorNotes T56	EG:13171
+T57	PR 1196 1198	E2
+#57	AnnotatorNotes T57	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T58	CHEBI 1258 1284	branched-chain amino acids
+#58	AnnotatorNotes T58	CHEBI:22918 (branched chain amino acids)
+T59	CHEBI 1273 1278	amino
+#59	AnnotatorNotes T59	CHEBI:46882 (amino group)
+T60	CHEBI 1273 1278	amino
+#60	AnnotatorNotes T60	CHEBI:32952 (amines)
+T61	GO_BP 1292 1301	metabolic
+#61	AnnotatorNotes T61	GO:0008152 (metabolic process)
+T62	SO 1347 1357	Transgenic
+#62	AnnotatorNotes T62	SO:0000902 (transgene)
+T63	GO_BP 1358 1368	expression
+#63	AnnotatorNotes T63	GO:0010467 (gene expression)
+T64	EntrezGene 1374 1382	human E2
+#64	AnnotatorNotes T64	EG:1629
+T65	NCBITaxon 1374 1379	human
+#65	AnnotatorNotes T65	NCBITaxon:9606 (Homo sapiens)
+T66	PR 1380 1382	E2
+#66	AnnotatorNotes T66	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T67	SO 1383 1387	cDNA
+#67	AnnotatorNotes T67	SO:0000756 (cDNA)
+T68	EntrezGene 1408 1410	E2
+#68	AnnotatorNotes T68	EG:13171
+T69	PR 1408 1410	E2
+#69	AnnotatorNotes T69	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T70	NCBITaxon 1420 1427	animals
+#70	AnnotatorNotes T70	NCBITaxon:33208 (Metazoa)
+T71	GO_BP 1428 1436	produced
+#71	AnnotatorNotes T71	GO:0000003 (reproduction)
+T72	GO_CC 1467 1505	Branched-chain keto acid dehydrogenase
+#72	AnnotatorNotes T72	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T73	independent_continuant 1482 1505	keto acid dehydrogenase
+#73	AnnotatorNotes T73	independent_continuant
+T74	GO_MF 1482 1505	keto acid dehydrogenase
+#74	AnnotatorNotes T74	GO:0003826 (alpha-ketoacid dehydrogenase activity)
+T75	CHEBI 1482 1486	keto
+#75	AnnotatorNotes T75	CHEBI:23019 (carbonyl group)
+T76	CHEBI 1487 1491	acid
+#76	AnnotatorNotes T76	CHEBI:37527 (acid)
+T77	CHEBI 1618 1644	branched-chain amino acids
+#77	AnnotatorNotes T77	CHEBI:22918 (branched chain amino acids)
+T78	CHEBI 1633 1638	amino
+#78	AnnotatorNotes T78	CHEBI:46882 (amino group)
+T79	CHEBI 1633 1638	amino
+#79	AnnotatorNotes T79	CHEBI:32952 (amines)
+T80	SO 1685 1693	wildtype
+#80	AnnotatorNotes T80	SO:0000817 (wild_type)
+T81	independent_continuant 1685 1693	wildtype
+#81	AnnotatorNotes T81	independent_continuant
+T82	NCBITaxon 1715 1720	mouse
+#82	AnnotatorNotes T82	NCBITaxon:10088 (Mus)
+T83	NCBITaxon 1747 1751	mice
+#83	AnnotatorNotes T83	NCBITaxon:10088 (Mus)
+T84	NCBITaxon 1772 1778	animal
+#84	AnnotatorNotes T84	NCBITaxon:33208 (Metazoa)
+T85	NCBITaxon 1828 1834	humans
+#85	AnnotatorNotes T85	NCBITaxon:9606 (Homo sapiens)
+T86	NCBITaxon 1890 1897	animals
+#86	AnnotatorNotes T86	NCBITaxon:33208 (Metazoa)
+T87	SO 2034 2038	gene
+#87	AnnotatorNotes T87	SO:0000704 (gene)
+T88	CL 2043 2051	cellular
+#88	AnnotatorNotes T88	CL:0000000 (cell)
+T89	GO_CC 2043 2051	cellular
+#89	AnnotatorNotes T89	GO:0005623 (cell)
+T90	GO_BP 2089 2098	metabolic
+#90	AnnotatorNotes T90	GO:0008152 (metabolic process)
+T91	NCBITaxon 2121 2126	Maple
+#91	AnnotatorNotes T91	NCBITaxon:4022 (Acer)
+T92	SO 2159 2166	genetic
+#92	AnnotatorNotes T92	SO:0000704 (gene)
+T93	GO_CC 2202 2240	branched-chain keto acid dehydrogenase
+#93	AnnotatorNotes T93	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T94	GO_MF 2217 2240	keto acid dehydrogenase
+#94	AnnotatorNotes T94	GO:0003826 (alpha-ketoacid dehydrogenase activity)
+T95	independent_continuant 2217 2240	keto acid dehydrogenase
+#95	AnnotatorNotes T95	independent_continuant
+T96	CHEBI 2217 2221	keto
+#96	AnnotatorNotes T96	CHEBI:23019 (carbonyl group)
+T97	CHEBI 2222 2226	acid
+#97	AnnotatorNotes T97	CHEBI:37527 (acid)
+T98	GO_CC 2242 2247	BCKDH
+#98	AnnotatorNotes T98	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T99	GO_CC 2252 2265	mitochondrial
+#99	AnnotatorNotes T99	GO:0005739 (mitochondrion)
+T100	GO_CC 2278 2285	complex
+#100	AnnotatorNotes T100	GO:0032991 (macromolecular complex)
+T101	CHEBI 2350 2354	keto
+#101	AnnotatorNotes T101	CHEBI:23019 (carbonyl group)
+T102	CHEBI 2355 2360	acids
+#102	AnnotatorNotes T102	CHEBI:37527 (acid)
+T103	CHEBI 2374 2400	branched-chain amino acids
+#103	AnnotatorNotes T103	CHEBI:22918 (branched chain amino acids)
+T104	CHEBI 2389 2394	amino
+#104	AnnotatorNotes T104	CHEBI:46882 (amino group)
+T105	CHEBI 2389 2394	amino
+#105	AnnotatorNotes T105	CHEBI:32952 (amines)
+T106	CHEBI 2402 2406	BCAA
+#106	AnnotatorNotes T106	CHEBI:22918 (branched chain amino acids)
+T107	CHEBI 2409 2416	leucine
+#107	AnnotatorNotes T107	CHEBI:25017 (leucine)
+T108	CHEBI 2418 2428	isoleucine
+#108	AnnotatorNotes T108	CHEBI:24898 (isoleucine)
+T109	CHEBI 2433 2439	valine
+#109	AnnotatorNotes T109	CHEBI:27266 (valine)
+T110	SO 2502 2510	mutation
+#110	AnnotatorNotes T110	SO:0001059 (sequence_alteration)
+T111	SO 2537 2543	enzyme
+#111	AnnotatorNotes T111	SO:0001185 (enzymatic)
+T112	GO_CC 2686 2691	BCKDH
+#112	AnnotatorNotes T112	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T113	CHEBI 2785 2789	BCAA
+#113	AnnotatorNotes T113	CHEBI:22918 (branched chain amino acids)
+T114	GO_CC 2949 2954	BCKDH
+#114	AnnotatorNotes T114	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T115	CHEBI 3097 3101	BCAA
+#115	AnnotatorNotes T115	CHEBI:22918 (branched chain amino acids)
+T116	GO_CC 3156 3161	BCKDH
+#116	AnnotatorNotes T116	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T117	CHEBI 3237 3241	BCAA
+#117	AnnotatorNotes T117	CHEBI:22918 (branched chain amino acids)
+T118	GO_CC 3469 3482	BCKDH complex
+#118	AnnotatorNotes T118	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T119	SO 3498 3504	enzyme
+#119	AnnotatorNotes T119	SO:0001185 (enzymatic)
+T120	CHEBI 3542 3550	proteins
+#120	AnnotatorNotes T120	CHEBI:36080 (proteins)
+T121	GO_MF 3554 3567	decarboxylase
+#121	AnnotatorNotes T121	GO:0016831 (carboxy-lyase activity)
+T122	independent_continuant 3554 3567	decarboxylase
+#122	AnnotatorNotes T122	independent_continuant
+T123	GO_MF 3576 3602	dihydrolipoyl transacylase
+#123	AnnotatorNotes T123	GO:0043754 (dihydrolipoyllysine-residue (2-methylpropanoyl)transferase activity)
+T124	EntrezGene 3576 3602	dihydrolipoyl transacylase
+#124	AnnotatorNotes T124	EG:1629
+T125	PR 3576 3602	dihydrolipoyl transacylase
+#125	AnnotatorNotes T125	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T126	independent_continuant 3576 3602	dihydrolipoyl transacylase
+#126	AnnotatorNotes T126	independent_continuant
+T127	CHEBI 3576 3589	dihydrolipoyl
+#127	AnnotatorNotes T127	CHEBI:30319 (dihydrolipoyl group)
+T128	EntrezGene 3604 3606	E2
+#128	AnnotatorNotes T128	EG:1629
+T129	PR 3604 3606	E2
+#129	AnnotatorNotes T129	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T130	GO_MF 3615 3642	dihydrolipoyl dehydrogenase
+#130	AnnotatorNotes T130	GO:0004148 (dihydrolipoyl dehydrogenase activity)
+T131	EntrezGene 3615 3642	dihydrolipoyl dehydrogenase
+#131	AnnotatorNotes T131	EG:1738
+T132	independent_continuant 3615 3642	dihydrolipoyl dehydrogenase
+#132	AnnotatorNotes T132	independent_continuant
+T133	PR 3615 3642	dihydrolipoyl dehydrogenase
+#133	AnnotatorNotes T133	PR:000006506 (dihydrolipoyl dehydrogenase, mitochondrial)
+T134	CHEBI 3615 3628	dihydrolipoyl
+#134	AnnotatorNotes T134	CHEBI:30319 (dihydrolipoyl group)
+T135	EntrezGene 3644 3646	E3
+#135	AnnotatorNotes T135	EG:1738
+T136	PR 3644 3646	E3
+#136	AnnotatorNotes T136	PR:000006506 (dihydrolipoyl dehydrogenase, mitochondrial)
+T137	PR 3702 3722	α and two β subunits
+#137	AnnotatorNotes T137	"α .. subunits" PR:000004686 (2-oxoisovalerate dehydrogenase subunit alpha, mitochondrial)
+T138	PR 3712 3722	β subunits
+#138	AnnotatorNotes T138	PR:000004687 (2-oxoisovalerate dehydrogenase subunit beta, mitochondrial)
+T139	EntrezGene 3739 3741	E2
+#139	AnnotatorNotes T139	EG:1629
+T140	PR 3739 3741	E2
+#140	AnnotatorNotes T140	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T141	GO_CC 3769 3774	BCKDH
+#141	AnnotatorNotes T141	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T142	EntrezGene 3784 3786	E3
+#142	AnnotatorNotes T142	EG:1738
+T143	PR 3784 3786	E3
+#143	AnnotatorNotes T143	PR:000006506 (dihydrolipoyl dehydrogenase, mitochondrial)
+T144	GO_CC 3803 3855	pyruvate and α-ketoglutarate dehydrogenase complexes
+#144	AnnotatorNotes T144	"pyruvate .. dehydrogenase complexes" GO:0045254 (pyruvate dehydrogenase complex)
+T145	GO_MF 3803 3845	pyruvate and α-ketoglutarate dehydrogenase
+#145	AnnotatorNotes T145	"pyruvate .. dehydrogenase" GO:0004738 (pyruvate dehydrogenase activity)
+T146	independent_continuant 3803 3845	pyruvate and α-ketoglutarate dehydrogenase
+#146	AnnotatorNotes T146	"pyruvate .. dehydrogenase" independent_continuant
+T147	CHEBI 3803 3811	pyruvate
+#147	AnnotatorNotes T147	CHEBI:15361 (pyruvate)
+T148	GO_CC 3816 3855	α-ketoglutarate dehydrogenase complexes
+#148	AnnotatorNotes T148	GO:0045240 (alpha-ketoglutarate dehydrogenase complex)
+T149	GO_MF 3816 3845	α-ketoglutarate dehydrogenase
+#149	AnnotatorNotes T149	GO:0004591 (oxoglutarate dehydrogenase (succinyl-transferring) activity)
+T150	independent_continuant 3816 3845	α-ketoglutarate dehydrogenase
+#150	AnnotatorNotes T150	independent_continuant
+T151	CHEBI 3816 3831	α-ketoglutarate
+#151	AnnotatorNotes T151	CHEBI:30916 (2-oxoglutarate(1-))
+T152	CHEBI 3816 3831	α-ketoglutarate
+#152	AnnotatorNotes T152	CHEBI:16810 (2-oxoglutarate(2-))
+T153	GO_CC 3868 3891	glycine cleavage system
+#153	AnnotatorNotes T153	GO:0005960 (glycine cleavage complex)
+T154	GO_BP 3868 3884	glycine cleavage
+#154	AnnotatorNotes T154	GO:0006546 (glycine catabolic process)
+T155	CHEBI 3868 3875	glycine
+#155	AnnotatorNotes T155	CHEBI:15428 (glycine)
+T156	GO_CC 3897 3902	BCKDH
+#156	AnnotatorNotes T156	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T157	GO_BP 3931 3941	regulatory
+#157	AnnotatorNotes T157	GO:0065007 (biological regulation)
+T158	CHEBI 3942 3950	proteins
+#158	AnnotatorNotes T158	CHEBI:36080 (proteins)
+T159	GO_MF 3963 3969	kinase
+#159	AnnotatorNotes T159	GO:0016301 (kinase activity)
+T160	independent_continuant 3963 3969	kinase
+#160	AnnotatorNotes T160	independent_continuant
+T161	GO_MF 3976 3987	phosphatase
+#161	AnnotatorNotes T161	GO:0016791 (phosphoric monoester hydrolase activity)
+T162	independent_continuant 3976 3987	phosphatase
+#162	AnnotatorNotes T162	independent_continuant
+T163	GO_BP 3994 4002	regulate
+#163	AnnotatorNotes T163	GO:0065007 (biological regulation)
+T164	SO 4024 4030	enzyme
+#164	AnnotatorNotes T164	SO:0001185 (enzymatic)
+T165	GO_BP 4041 4056	phosphorylation
+#165	AnnotatorNotes T165	GO:0016310 (phosphorylation)
+T166	GO_BP 4076 4093	dephosphorylation
+#166	AnnotatorNotes T166	GO:0016311 (dephosphorylation)
+T167	EntrezGene 4120 4132	E1 α subunit
+#167	AnnotatorNotes T167	EG:25244
+T168	PR 4120 4132	E1 α subunit
+#168	AnnotatorNotes T168	PR:000004686 (2-oxoisovalerate dehydrogenase subunit alpha, mitochondrial)
+T169	SO 4140 4149	Mutations
+#169	AnnotatorNotes T169	SO:0001059 (sequence_alteration)
+T170	SO 4157 4162	genes
+#170	AnnotatorNotes T170	SO:0000704 (gene)
+T171	EntrezGene 4177 4197	E2 subunits of BCKDH
+#171	AnnotatorNotes T171	EG:1629
+T172	PR 4177 4197	E2 subunits of BCKDH
+#172	AnnotatorNotes T172	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T173	GO_CC 4192 4197	BCKDH
+#173	AnnotatorNotes T173	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T174	SO 4249 4258	mutations
+#174	AnnotatorNotes T174	SO:0001059 (sequence_alteration)
+T175	EntrezGene 4290 4300	E2 subunit
+#175	AnnotatorNotes T175	EG:1629
+T176	PR 4290 4300	E2 subunit
+#176	AnnotatorNotes T176	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T177	GO_BP 4376 4386	regulatory
+#177	AnnotatorNotes T177	GO:0065007 (biological regulation)
+T178	GO_MF 4387 4393	kinase
+#178	AnnotatorNotes T178	GO:0016301 (kinase activity)
+T179	independent_continuant 4387 4393	kinase
+#179	AnnotatorNotes T179	independent_continuant
+T180	GO_MF 4398 4409	phosphatase
+#180	AnnotatorNotes T180	GO:0016791 (phosphoric monoester hydrolase activity)
+T181	independent_continuant 4398 4409	phosphatase
+#181	AnnotatorNotes T181	independent_continuant
+T182	CHEBI 4503 4510	protein
+#182	AnnotatorNotes T182	CHEBI:36080 (proteins)
+T183	CHEBI 4514 4518	BCAA
+#183	AnnotatorNotes T183	CHEBI:22918 (branched chain amino acids)
+T184	GO_BP 4629 4638	metabolic
+#184	AnnotatorNotes T184	GO:0008152 (metabolic process)
+T185	GO_BP 4903 4924	amino acid metabolism
+#185	AnnotatorNotes T185	GO:0006520 (amino acid metabolic process)
+T186	CHEBI 4903 4913	amino acid
+#186	AnnotatorNotes T186	CHEBI:33709 (amino acids)
+T187	CHEBI 4903 4908	amino
+#187	AnnotatorNotes T187	CHEBI:46882 (amino group)
+T188	CHEBI 4903 4908	amino
+#188	AnnotatorNotes T188	CHEBI:32952 (amines)
+T189	GO_CC 4953 4958	BCKDH
+#189	AnnotatorNotes T189	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T190	NCBITaxon 4971 4976	human
+#190	AnnotatorNotes T190	NCBITaxon:9606 (Homo sapiens)
+T191	CHEBI 5242 5265	immunosuppressant drugs
+#191	AnnotatorNotes T191	CHEBI:35705 (immunosuppressive agent)
+T192	GO_BP 5242 5259	immunosuppressant
+#192	AnnotatorNotes T192	GO:0050777 (negative regulation of immune response)
+T193	NCBITaxon 5730 5736	animal
+#193	AnnotatorNotes T193	NCBITaxon:33208 (Metazoa)
+T194	NCBITaxon 5972 5978	animal
+#194	AnnotatorNotes T194	NCBITaxon:33208 (Metazoa)
+T195	NCBITaxon 5990 5995	human
+#195	AnnotatorNotes T195	NCBITaxon:9606 (Homo sapiens)
+T196	NCBITaxon 6077 6083	animal
+#196	AnnotatorNotes T196	NCBITaxon:33208 (Metazoa)
+T197	NCBITaxon 6115 6120	human
+#197	AnnotatorNotes T197	NCBITaxon:9606 (Homo sapiens)
+T198	CHEBI 6143 6164	N-ethyl-N-nitrosourea
+#198	AnnotatorNotes T198	CHEBI:23995 (ethyl nitrosourea)
+T199	CHEBI 6143 6144	N
+#199	AnnotatorNotes T199	CHEBI:25555 (nitrogen)
+T200	CHEBI 6145 6150	ethyl
+#200	AnnotatorNotes T200	CHEBI:37807 (ethyl group)
+T201	CHEBI 6151 6152	N
+#201	AnnotatorNotes T201	CHEBI:25555 (nitrogen)
+T202	CHEBI 6166 6169	ENU
+#202	AnnotatorNotes T202	CHEBI:23995 (ethyl nitrosourea)
+T203	SO 6179 6185	mutant
+#203	AnnotatorNotes T203	SO:0001059 (sequence_alteration)
+T204	NCBITaxon 6186 6191	mouse
+#204	AnnotatorNotes T204	NCBITaxon:10088 (Mus)
+T205	NCBITaxon 6222 6227	human
+#205	AnnotatorNotes T205	NCBITaxon:9606 (Homo sapiens)
+T206	SO 6271 6279	mutation
+#206	AnnotatorNotes T206	SO:0001059 (sequence_alteration)
+T207	SO 6305 6316	splice site
+#207	AnnotatorNotes T207	SO:0000162 (splice_site)
+T208	GO_BP 6305 6311	splice
+#208	AnnotatorNotes T208	GO:0008380 (RNA splicing)
+T209	EntrezGene 6324 6375	mitochondrial branched-chain aminotransferase (BCAT
+#209	AnnotatorNotes T209	"mitochondrial .. BCAT" EG:12036
+T210	EntrezGene 6324 6369	mitochondrial branched-chain aminotransferase
+#210	AnnotatorNotes T210	EG:12036
+T211	PR 6324 6369	mitochondrial branched-chain aminotransferase
+#211	AnnotatorNotes T211	PR:000004683 (branched-chain-amino-acid aminotransferase, mitochondrial)
+T212	GO_CC 6324 6337	mitochondrial
+#212	AnnotatorNotes T212	GO:0005739 (mitochondrion)
+T213	GO_MF 6338 6369	branched-chain aminotransferase
+#213	AnnotatorNotes T213	GO:0004084 (branched-chain-amino-acid transaminase activity)
+T214	independent_continuant 6338 6369	branched-chain aminotransferase
+#214	AnnotatorNotes T214	independent_continuant
+T215	GO_MF 6371 6375	BCAT
+#215	AnnotatorNotes T215	GO:0004084 (branched-chain-amino-acid transaminase activity)
+T216	PR 6371 6375	BCAT
+#216	AnnotatorNotes T216	PR:000004683 (branched-chain-amino-acid aminotransferase, mitochondrial)
+T217	independent_continuant 6371 6375	BCAT
+#217	AnnotatorNotes T217	independent_continuant
+T218	SO 6377 6381	gene
+#218	AnnotatorNotes T218	SO:0000704 (gene)
+T219	GO_CC 6390 6395	BCKDH
+#219	AnnotatorNotes T219	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T220	SO 6411 6417	enzyme
+#220	AnnotatorNotes T220	SO:0001185 (enzymatic)
+T221	SO 6439 6447	mutation
+#221	AnnotatorNotes T221	SO:0001059 (sequence_alteration)
+T222	GO_CC 6458 6463	BCKDH
+#222	AnnotatorNotes T222	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T223	SO 6486 6492	mutant
+#223	AnnotatorNotes T223	SO:0001059 (sequence_alteration)
+T224	NCBITaxon 6493 6498	mouse
+#224	AnnotatorNotes T224	NCBITaxon:10088 (Mus)
+T225	NCBITaxon 6517 6522	human
+#225	AnnotatorNotes T225	NCBITaxon:9606 (Homo sapiens)
+T226	GO_BP 6588 6594	create
+#226	AnnotatorNotes T226	GO:0000003 (reproduction)
+T227	SO 6595 6606	genetically
+#227	AnnotatorNotes T227	SO:0000704 (gene)
+T228	GO_BP 6607 6617	engineered
+#228	AnnotatorNotes T228	GO:0000003 (reproduction)
+T229	NCBITaxon 6618 6624	murine
+#229	AnnotatorNotes T229	NCBITaxon:39107 (Murinae)
+T230	NCBITaxon 6718 6723	human
+#230	AnnotatorNotes T230	NCBITaxon:9606 (Homo sapiens)
+T231	GO_BP 6755 6762	created
+#231	AnnotatorNotes T231	GO:0000003 (reproduction)
+T232	EntrezGene 6795 6814	E2 subunit of BCKDH
+#232	AnnotatorNotes T232	EG:13171
+T233	PR 6795 6814	E2 subunit of BCKDH
+#233	AnnotatorNotes T233	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T234	GO_CC 6809 6814	BCKDH
+#234	AnnotatorNotes T234	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T235	GO_BP 6829 6842	recombination
+#235	AnnotatorNotes T235	GO:0006310 (DNA recombination)
+T236	CL 6856 6871	stem (ES) cells
+#236	AnnotatorNotes T236	"stem .. cells" CL:0000034 (stem cell)
+T237	GO_CC 6866 6871	cells
+#237	AnnotatorNotes T237	GO:0005623 (cell)
+T238	GO_BP 6908 6915	created
+#238	AnnotatorNotes T238	GO:0000003 (reproduction)
+T239	SO 6927 6937	transgenic
+#239	AnnotatorNotes T239	SO:0000902 (transgene)
+T240	EntrezGene 6952 6954	E2
+#240	AnnotatorNotes T240	EG:13171
+T241	PR 6952 6954	E2
+#241	AnnotatorNotes T241	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T242	SO 6955 6959	gene
+#242	AnnotatorNotes T242	SO:0000704 (gene)
+T243	GO_BP 6996 7006	generation
+#243	AnnotatorNotes T243	GO:0000003 (reproduction)
+T244	NCBITaxon 7037 7043	murine
+#244	AnnotatorNotes T244	NCBITaxon:39107 (Murinae)
+T245	SO 7143 7147	gene
+#245	AnnotatorNotes T245	SO:0000704 (gene)
+T246	CL 7151 7160	stem cell
+#246	AnnotatorNotes T246	CL:0000034 (stem cell)
+T247	GO_CC 7156 7160	cell
+#247	AnnotatorNotes T247	GO:0005623 (cell)
+T248	NCBITaxon 7229 7236	animals
+#248	AnnotatorNotes T248	NCBITaxon:33208 (Metazoa)
+T249	NCBITaxon 7312 7318	Animal
+#249	AnnotatorNotes T249	NCBITaxon:33208 (Metazoa)
+T250	SO 7344 7348	Gene
+#250	AnnotatorNotes T250	SO:0000704 (gene)
+T251	GO_BP 7358 7368	production
+#251	AnnotatorNotes T251	GO:0000003 (reproduction)
+T252	SO 7372 7383	genomic DNA
+#252	AnnotatorNotes T252	SO:0000991 (genomic_DNA)
+T253	SO 7372 7379	genomic
+#253	AnnotatorNotes T253	SO:0001026 (genome)
+T254	SO 7411 7414	DNA
+#254	AnnotatorNotes T254	SO:0000352 (DNA)
+T255	SO 7432 7448	portion of Exons
+#255	AnnotatorNotes T255	SO:0000852 (exon_region)
+T256	SO 7443 7448	Exons
+#256	AnnotatorNotes T256	SO:0000147 (exon)
+T257	EntrezGene 7464 7466	E2
+#257	AnnotatorNotes T257	EG:13171
+T258	PR 7464 7466	E2
+#258	AnnotatorNotes T258	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T259	SO 7467 7471	gene
+#259	AnnotatorNotes T259	SO:0000704 (gene)
+T260	SO 7485 7488	DNA
+#260	AnnotatorNotes T260	SO:0000352 (DNA)
+T261	SO 7531 7537	Genome
+#261	AnnotatorNotes T261	SO:0001026 (genome)
+T262	NCBITaxon 7576 7581	Mouse
+#262	AnnotatorNotes T262	NCBITaxon:10088 (Mus)
+T263	SO 7616 7627	replacement
+#263	AnnotatorNotes T263	SO:0000048 (substitute)
+T264	SO 7633 7637	gene
+#264	AnnotatorNotes T264	SO:0000704 (gene)
+T265	SO 7648 7654	vector
+#265	AnnotatorNotes T265	SO:0000440 (vector_replicon)
+T266	GO_BP 7664 7671	created
+#266	AnnotatorNotes T266	GO:0009058 (biosynthetic process)
+T267	SO 7675 7684	replacing
+#267	AnnotatorNotes T267	SO:0000048 (substitute)
+T268	SO 7706 7714	fragment
+#268	AnnotatorNotes T268	SO:0000731 (fragmentary)
+T269	SO 7731 7746	portion of Exon
+#269	AnnotatorNotes T269	SO:0000852 (exon_region)
+T270	SO 7742 7746	Exon
+#270	AnnotatorNotes T270	SO:0000147 (exon)
+T271	SO 7760 7764	Exon
+#271	AnnotatorNotes T271	SO:0000147 (exon)
+T272	SO 7790 7794	gene
+#272	AnnotatorNotes T272	SO:0000704 (gene)
+T273	SO 7823 7829	vector
+#273	AnnotatorNotes T273	SO:0000440 (vector_replicon)
+T274	SO 7850 7859	construct
+#274	AnnotatorNotes T274	SO:0001037 (mobile_genetic_element)
+T275	CL 7915 7920	cells
+#275	AnnotatorNotes T275	CL:0000000 (cell)
+T276	GO_CC 7915 7920	cells
+#276	AnnotatorNotes T276	GO:0005623 (cell)
+T277	CL 7973 7978	cells
+#277	AnnotatorNotes T277	CL:0000000 (cell)
+T278	GO_CC 7973 7978	cells
+#278	AnnotatorNotes T278	GO:0005623 (cell)
+T279	SO 8154 8158	gene
+#279	AnnotatorNotes T279	SO:0000704 (gene)
+T280	GO_BP 8203 8211	digested
+#280	AnnotatorNotes T280	GO:0009056 (catabolic process)
+T281	SO 8212 8223	genomic DNA
+#281	AnnotatorNotes T281	SO:0000991 (genomic_DNA)
+T282	SO 8212 8219	genomic
+#282	AnnotatorNotes T282	SO:0001026 (genome)
+T283	GO_MF 8236 8246	hybridized
+#283	AnnotatorNotes T283	GO:0033592 (RNA strand annealing activity)
+T284	GO_MF 8236 8246	hybridized
+#284	AnnotatorNotes T284	GO:0000739 (DNA strand annealing activity)
+T285	SO 8255 8259	Exon
+#285	AnnotatorNotes T285	SO:0000147 (exon)
+T286	SO 8271 8276	probe
+#286	AnnotatorNotes T286	SO:0000051 (probe)
+T287	SO 8302 8306	gene
+#287	AnnotatorNotes T287	SO:0000704 (gene)
+T288	SO 8317 8326	construct
+#288	AnnotatorNotes T288	SO:0001037 (mobile_genetic_element)
+T289	CL 8350 8355	cells
+#289	AnnotatorNotes T289	CL:0000000 (cell)
+T290	GO_CC 8350 8355	cells
+#290	AnnotatorNotes T290	GO:0005623 (cell)
+T291	GO_BP 8399 8406	produce
+#291	AnnotatorNotes T291	GO:0000003 (reproduction)
+T292	NCBITaxon 8416 8420	mice
+#292	AnnotatorNotes T292	NCBITaxon:10088 (Mus)
+T293	GO_BP 8525 8532	produce
+#293	AnnotatorNotes T293	GO:0000003 (reproduction)
+T294	SO 8533 8542	wild type
+#294	AnnotatorNotes T294	SO:0000817 (wild_type)
+T295	SO 8544 8545	+
+#295	AnnotatorNotes T295	SO:0000817 (wild_type)
+T296	SO 8546 8547	+
+#296	AnnotatorNotes T296	SO:0000817 (wild_type)
+T297	SO 8564 8565	+
+#297	AnnotatorNotes T297	SO:0000817 (wild_type)
+T298	NCBITaxon 8599 8603	mice
+#298	AnnotatorNotes T298	NCBITaxon:10088 (Mus)
+T299	SO 8625 8626	+
+#299	AnnotatorNotes T299	SO:0000817 (wild_type)
+T300	GO_BP 8629 8637	breeding
+#300	AnnotatorNotes T300	GO:0007618 (mating)
+T301	NCBITaxon 8687 8691	mice
+#301	AnnotatorNotes T301	NCBITaxon:10088 (Mus)
+T302	NCBITaxon 8730 8737	animals
+#302	AnnotatorNotes T302	NCBITaxon:33208 (Metazoa)
+T303	SO 8782 8789	genetic
+#303	AnnotatorNotes T303	SO:0000704 (gene)
+T304	EntrezGene 8813 8815	E2
+#304	AnnotatorNotes T304	EG:13171
+T305	PR 8813 8815	E2
+#305	AnnotatorNotes T305	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T306	SO 8816 8820	gene
+#306	AnnotatorNotes T306	SO:0000704 (gene)
+T307	NCBITaxon 8830 8835	mouse
+#307	AnnotatorNotes T307	NCBITaxon:10088 (Mus)
+T308	GO_BP 8836 8846	production
+#308	AnnotatorNotes T308	GO:0000003 (reproduction)
+T309	italic 8848 8849	A
+#309	AnnotatorNotes T309	italic (null)
+T310	SO 8851 8855	Gene
+#310	AnnotatorNotes T310	SO:0000704 (gene)
+T311	EntrezGene 8898 8900	E2
+#311	AnnotatorNotes T311	EG:13171
+T312	PR 8898 8900	E2
+#312	AnnotatorNotes T312	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T313	SO 8901 8906	locus
+#313	AnnotatorNotes T313	SO:0000001 (region)
+T314	NCBITaxon 8910 8915	mouse
+#314	AnnotatorNotes T314	NCBITaxon:10088 (Mus)
+T315	CL 8919 8924	cells
+#315	AnnotatorNotes T315	CL:0000000 (cell)
+T316	GO_CC 8919 8924	cells
+#316	AnnotatorNotes T316	GO:0005623 (cell)
+T317	SO 8940 8949	construct
+#317	AnnotatorNotes T317	SO:0001037 (mobile_genetic_element)
+T318	SO 8966 8972	delete
+#318	AnnotatorNotes T318	SO:0000045 (delete)
+T319	SO 8984 8992	sequence
+#319	AnnotatorNotes T319	SO:0000001 (region)
+T320	SO 9010 9022	site in Exon
+#320	AnnotatorNotes T320	SO:0000852 (exon_region)
+T321	SO 9018 9022	Exon
+#321	AnnotatorNotes T321	SO:0000147 (exon)
+T322	SO 9036 9040	site
+#322	AnnotatorNotes T322	SO:0000001 (region)
+T323	SO 9044 9050	intron
+#323	AnnotatorNotes T323	SO:0000188 (intron)
+T324	SO 9058 9067	wild type
+#324	AnnotatorNotes T324	SO:0000817 (wild_type)
+T325	EntrezGene 9068 9070	E2
+#325	AnnotatorNotes T325	EG:13171
+T326	PR 9068 9070	E2
+#326	AnnotatorNotes T326	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T327	SO 9071 9075	gene
+#327	AnnotatorNotes T327	SO:0000704 (gene)
+T328	SO 9100 9120	restriction fragment
+#328	AnnotatorNotes T328	SO:0000412 (restriction_fragment)
+T329	GO_MF 9126 9136	hybridizes
+#329	AnnotatorNotes T329	GO:0033592 (RNA strand annealing activity)
+T330	GO_MF 9126 9136	hybridizes
+#330	AnnotatorNotes T330	GO:0000739 (DNA strand annealing activity)
+T331	SO 9144 9148	Exon
+#331	AnnotatorNotes T331	SO:0000147 (exon)
+T332	SO 9160 9165	probe
+#332	AnnotatorNotes T332	SO:0000051 (probe)
+T333	EntrezGene 9188 9190	E2
+#333	AnnotatorNotes T333	EG:13171
+T334	PR 9188 9190	E2
+#334	AnnotatorNotes T334	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T335	SO 9191 9196	locus
+#335	AnnotatorNotes T335	SO:0000001 (region)
+T336	SO 9220 9240	restriction fragment
+#336	AnnotatorNotes T336	SO:0000412 (restriction_fragment)
+T337	GO_MF 9246 9256	hybridizes
+#337	AnnotatorNotes T337	GO:0033592 (RNA strand annealing activity)
+T338	GO_MF 9246 9256	hybridizes
+#338	AnnotatorNotes T338	GO:0000739 (DNA strand annealing activity)
+T339	SO 9269 9274	probe
+#339	AnnotatorNotes T339	SO:0000051 (probe)
+T340	SO 9290 9295	probe
+#340	AnnotatorNotes T340	SO:0000051 (probe)
+T341	SO 9319 9330	integration
+#341	AnnotatorNotes T341	SO:0000046 (insert)
+T342	SO 9348 9354	vector
+#342	AnnotatorNotes T342	SO:0000440 (vector_replicon)
+T343	SO 9395 9401	vector
+#343	AnnotatorNotes T343	SO:0000440 (vector_replicon)
+T344	italic 9403 9404	B
+#344	AnnotatorNotes T344	italic (null)
+T345	GO_BP 9437 9445	digested
+#345	AnnotatorNotes T345	GO:0009056 (catabolic process)
+T346	SO 9446 9457	genomic DNA
+#346	AnnotatorNotes T346	SO:0000991 (genomic_DNA)
+T347	SO 9446 9453	genomic
+#347	AnnotatorNotes T347	SO:0001026 (genome)
+T348	SO 9484 9493	wild type
+#348	AnnotatorNotes T348	SO:0000817 (wild_type)
+T349	CL 9497 9501	cell
+#349	AnnotatorNotes T349	CL:0000000 (cell)
+T350	GO_CC 9497 9501	cell
+#350	AnnotatorNotes T350	GO:0005623 (cell)
+T351	CL 9540 9544	cell
+#351	AnnotatorNotes T351	CL:0000000 (cell)
+T352	GO_CC 9540 9544	cell
+#352	AnnotatorNotes T352	GO:0005623 (cell)
+T353	SO 9566 9575	wild type
+#353	AnnotatorNotes T353	SO:0000817 (wild_type)
+T354	SO 9577 9578	+
+#354	AnnotatorNotes T354	SO:0000817 (wild_type)
+T355	SO 9579 9580	+
+#355	AnnotatorNotes T355	SO:0000817 (wild_type)
+T356	SO 9597 9598	+
+#356	AnnotatorNotes T356	SO:0000817 (wild_type)
+T357	NCBITaxon 9632 9636	mice
+#357	AnnotatorNotes T357	NCBITaxon:10088 (Mus)
+T358	GO_MF 9651 9661	hybridized
+#358	AnnotatorNotes T358	GO:0033592 (RNA strand annealing activity)
+T359	GO_MF 9651 9661	hybridized
+#359	AnnotatorNotes T359	GO:0000739 (DNA strand annealing activity)
+T360	SO 9670 9674	Exon
+#360	AnnotatorNotes T360	SO:0000147 (exon)
+T361	SO 9686 9691	probe
+#361	AnnotatorNotes T361	SO:0000051 (probe)
+T362	italic 9693 9694	C
+#362	AnnotatorNotes T362	italic (null)
+T363	SO 9770 9771	+
+#363	AnnotatorNotes T363	SO:0000817 (wild_type)
+T364	SO 9772 9773	+
+#364	AnnotatorNotes T364	SO:0000817 (wild_type)
+T365	EntrezGene 9779 9781	E2
+#365	AnnotatorNotes T365	EG:13171
+T366	PR 9779 9781	E2
+#366	AnnotatorNotes T366	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T367	NCBITaxon 9813 9818	mouse
+#367	AnnotatorNotes T367	NCBITaxon:10088 (Mus)
+T368	EntrezGene 9851 9853	E2
+#368	AnnotatorNotes T368	EG:13171
+T369	PR 9851 9853	E2
+#369	AnnotatorNotes T369	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T370	PR 9863 9865	E2
+#370	AnnotatorNotes T370	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T371	GO_CC 9875 9883	antibody
+#371	AnnotatorNotes T371	GO:0019814 (immunoglobulin complex)
+T372	GO_CC 9898 9905	nuclear
+#372	AnnotatorNotes T372	GO:0005634 (nucleus)
+T373	EntrezGene 9949 9951	E2
+#373	AnnotatorNotes T373	EG:13171
+T374	PR 9949 9951	E2
+#374	AnnotatorNotes T374	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T375	NCBITaxon 10002 10007	mouse
+#375	AnnotatorNotes T375	NCBITaxon:10088 (Mus)
+T376	italic 10009 10010	D
+#376	AnnotatorNotes T376	italic (null)
+T377	NCBITaxon 10087 10092	mouse
+#377	AnnotatorNotes T377	NCBITaxon:10088 (Mus)
+T378	CL 10103 10114	fibroblasts
+#378	AnnotatorNotes T378	CL:0000057 (fibroblast)
+T379	EntrezGene 10167 10169	E2
+#379	AnnotatorNotes T379	EG:13171
+T380	PR 10167 10169	E2
+#380	AnnotatorNotes T380	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T381	CL 10185 10190	cells
+#381	AnnotatorNotes T381	CL:0000000 (cell)
+T382	GO_CC 10185 10190	cells
+#382	AnnotatorNotes T382	GO:0005623 (cell)
+T383	GO_CC 10234 10246	mitochondria
+#383	AnnotatorNotes T383	GO:0005739 (mitochondrion)
+T384	GO_CC 10276 10281	BCKDH
+#384	AnnotatorNotes T384	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T385	GO_BP 10284 10294	Production
+#385	AnnotatorNotes T385	GO:0000003 (reproduction)
+T386	SO 10298 10308	transgenic
+#386	AnnotatorNotes T386	SO:0000902 (transgene)
+T387	NCBITaxon 10309 10313	mice
+#387	AnnotatorNotes T387	NCBITaxon:10088 (Mus)
+T388	CHEBI 10324 10333	molecular
+#388	AnnotatorNotes T388	CHEBI:23367 (molecular entity)
+T389	GO_BP 10358 10366	assemble
+#389	AnnotatorNotes T389	GO:0009058 (biosynthetic process)
+T390	SO 10371 10381	transgenic
+#390	AnnotatorNotes T390	SO:0000902 (transgene)
+T391	SO 10382 10391	construct
+#391	AnnotatorNotes T391	SO:0001037 (mobile_genetic_element)
+T392	EntrezGene 10398 10400	E2
+#392	AnnotatorNotes T392	EG:1629
+T393	PR 10398 10400	E2
+#393	AnnotatorNotes T393	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T394	SO 10407 10416	transgene
+#394	AnnotatorNotes T394	SO:0000902 (transgene)
+T395	CHEBI 10430 10442	tetracycline
+#395	AnnotatorNotes T395	CHEBI:27902 (tetracycline)
+T396	GO_BP 10443 10453	responsive
+#396	AnnotatorNotes T396	GO:0050896 (response to stimulus)
+T397	NCBITaxon 10454 10458	hCMV
+#397	AnnotatorNotes T397	NCBITaxon:10359 (Human herpesvirus 5)
+T398	sup 10459 10461	-1
+#398	AnnotatorNotes T398	sup (null)
+T399	SO 10462 10470	promoter
+#399	AnnotatorNotes T399	SO:0000167 (promoter)
+T400	CHEBI 10490 10502	tetracycline
+#400	AnnotatorNotes T400	CHEBI:27902 (tetracycline)
+T401	GO_BP 10503 10513	responsive
+#401	AnnotatorNotes T401	GO:0050896 (response to stimulus)
+T402	SO 10514 10521	element
+#402	AnnotatorNotes T402	SO:0000001 (region)
+T403	NCBITaxon 10542 10546	hCMV
+#403	AnnotatorNotes T403	NCBITaxon:10359 (Human herpesvirus 5)
+T404	SO 10547 10555	promoter
+#404	AnnotatorNotes T404	SO:0000167 (promoter)
+T405	SO 10615 10621	intron
+#405	AnnotatorNotes T405	SO:0000188 (intron)
+T406	SO 10653 10660	message
+#406	AnnotatorNotes T406	SO:0000673 (transcript)
+T407	GO_BP 10675 10685	expression
+#407	AnnotatorNotes T407	GO:0010467 (gene expression)
+T408	SO 10703 10721	consensus sequence
+#408	AnnotatorNotes T408	SO:0000994 (consensus_region)
+T409	SO 10703 10712	consensus
+#409	AnnotatorNotes T409	SO:0000993 (consensus)
+T410	SO 10729 10745	initiation codon
+#410	AnnotatorNotes T410	SO:0000318 (start_codon)
+T411	GO_BP 10729 10739	initiation
+#411	AnnotatorNotes T411	GO:0006413 (translational initiation)
+T412	GO_BP 10729 10739	initiation
+#412	AnnotatorNotes T412	GO:0006352 (transcription initiation)
+T413	GO_BP 10758 10769	translation
+#413	AnnotatorNotes T413	GO:0006412 (translation)
+T414	EntrezGene 10780 10788	human E2
+#414	AnnotatorNotes T414	EG:1629
+T415	NCBITaxon 10780 10785	human
+#415	AnnotatorNotes T415	NCBITaxon:9606 (Homo sapiens)
+T416	PR 10786 10788	E2
+#416	AnnotatorNotes T416	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T417	sub 10787 10788	2
+#417	AnnotatorNotes T417	sub (null)
+T418	SO 10789 10793	cDNA
+#418	AnnotatorNotes T418	SO:0000756 (cDNA)
+T419	SO 10809 10817	modified
+#419	AnnotatorNotes T419	SO:0000041 (sequence_operation)
+T420	CHEBI 10834 10841	alanine
+#420	AnnotatorNotes T420	CHEBI:32441 (alanine residue)
+T421	SO 10834 10841	alanine
+#421	AnnotatorNotes T421	SO:0001435 (alanine)
+T422	italic 10863 10868	c-myc
+#422	AnnotatorNotes T422	italic (null)
+T423	PR 10863 10868	c-myc
+#423	AnnotatorNotes T423	PR:000000084 (c-myc protein)
+T424	SO 10869 10876	epitope
+#424	AnnotatorNotes T424	SO:0001018 (epitope)
+T425	independent_continuant 10877 10880	tag
+#425	AnnotatorNotes T425	independent_continuant
+T426	GO_MF 10877 10880	tag
+#426	AnnotatorNotes T426	GO:0031386 (protein tag)
+T427	SO 10888 10904	carboxy terminus
+#427	AnnotatorNotes T427	SO:0100015 (c_terminal_region)
+T428	CHEBI 10888 10895	carboxy
+#428	AnnotatorNotes T428	CHEBI:46883 (carboxy group)
+T429	CHEBI 10888 10895	carboxy
+#429	AnnotatorNotes T429	CHEBI:18245 (carboxylato group)
+T430	NCBITaxon 10937 10941	SV40
+#430	AnnotatorNotes T430	NCBITaxon:10633 (Simian virus 40)
+T431	SO 10947 10971	polyadenylation sequence
+#431	AnnotatorNotes T431	SO:0000610 (polyA_sequence)
+T432	GO_BP 10947 10962	polyadenylation
+#432	AnnotatorNotes T432	GO:0043631 (RNA polyadenylation)
+T433	GO_BP 10985 10993	enhanced
+#433	AnnotatorNotes T433	GO:0048518 (positive regulation of biological process)
+T434	GO_BP 10994 11024	mRNA stability and translation
+#434	AnnotatorNotes T434	"mRNA .. translation" GO:0006412 (translation)
+T435	CHEBI 10994 10998	mRNA
+#435	AnnotatorNotes T435	CHEBI:33699 (messenger RNA)
+T436	SO 10994 10998	mRNA
+#436	AnnotatorNotes T436	SO:0000234 (mRNA)
+T437	EntrezGene 11043 11045	E2
+#437	AnnotatorNotes T437	EG:1629
+T438	PR 11043 11045	E2
+#438	AnnotatorNotes T438	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T439	SO 11046 11055	transgene
+#439	AnnotatorNotes T439	SO:0000902 (transgene)
+T440	SO 11074 11090	vector sequences
+#440	AnnotatorNotes T440	SO:0000440 (vector_replicon)
+T441	GO_BP 11101 11110	digestion
+#441	AnnotatorNotes T441	GO:0009056 (catabolic process)
+T442	NCBITaxon 11187 11192	mouse
+#442	AnnotatorNotes T442	NCBITaxon:10088 (Mus)
+T443	SO 11208 11218	transgenic
+#443	AnnotatorNotes T443	SO:0000902 (transgene)
+T444	SO 11315 11326	Genomic DNA
+#444	AnnotatorNotes T444	SO:0000991 (genomic_DNA)
+T445	SO 11315 11322	Genomic
+#445	AnnotatorNotes T445	SO:0001026 (genome)
+T446	NCBITaxon 11344 11348	mice
+#446	AnnotatorNotes T446	NCBITaxon:10088 (Mus)
+T447	GO_BP 11398 11407	digestion
+#447	AnnotatorNotes T447	GO:0009056 (catabolic process)
+T448	GO_MF 11423 11436	hybridization
+#448	AnnotatorNotes T448	GO:0033592 (RNA strand annealing activity)
+T449	GO_MF 11423 11436	hybridization
+#449	AnnotatorNotes T449	GO:0000739 (DNA strand annealing activity)
+T450	SO 11448 11450	bp
+#450	AnnotatorNotes T450	SO:0000028 (base_pair)
+T451	SO 11451 11456	probe
+#451	AnnotatorNotes T451	SO:0000051 (probe)
+T452	NCBITaxon 11474 11478	SV40
+#452	AnnotatorNotes T452	NCBITaxon:10633 (Simian virus 40)
+T453	SO 11479 11486	portion
+#453	AnnotatorNotes T453	SO:0000001 (region)
+T454	EntrezGene 11498 11500	E2
+#454	AnnotatorNotes T454	EG:1629
+T455	PR 11498 11500	E2
+#455	AnnotatorNotes T455	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T456	SO 11501 11510	transgene
+#456	AnnotatorNotes T456	SO:0000902 (transgene)
+T457	GO_BP 11513 11523	Production
+#457	AnnotatorNotes T457	GO:0000003 (reproduction)
+T458	NCBITaxon 11545 11551	murine
+#458	AnnotatorNotes T458	NCBITaxon:39107 (Murinae)
+T459	EntrezGene 11575 11577	E2
+#459	AnnotatorNotes T459	EG:1629
+T460	PR 11575 11577	E2
+#460	AnnotatorNotes T460	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T461	SO 11578 11588	transgenic
+#461	AnnotatorNotes T461	SO:0000902 (transgene)
+T462	GO_BP 11595 11603	produced
+#462	AnnotatorNotes T462	GO:0000003 (reproduction)
+T463	GO_BP 11609 11614	mated
+#463	AnnotatorNotes T463	GO:0007618 (mating)
+T464	NCBITaxon 11632 11636	mice
+#464	AnnotatorNotes T464	NCBITaxon:10088 (Mus)
+T465	EntrezGene 11673 11675	E2
+#465	AnnotatorNotes T465	EG:13171
+T466	PR 11673 11675	E2
+#466	AnnotatorNotes T466	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T467	PR 11693 11696	LAP
+#467	AnnotatorNotes T467	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T468	SO 11701 11710	transgene
+#468	AnnotatorNotes T468	SO:0000902 (transgene)
+T469	SO 11712 11714	Tg
+#469	AnnotatorNotes T469	SO:0000902 (transgene)
+T470	NCBITaxon 11833 11840	animals
+#470	AnnotatorNotes T470	NCBITaxon:33208 (Metazoa)
+T471	SO 11873 11883	transgenes
+#471	AnnotatorNotes T471	SO:0000902 (transgene)
+T472	GO_BP 11917 11927	production
+#472	AnnotatorNotes T472	GO:0000003 (reproduction)
+T473	NCBITaxon 11931 11935	mice
+#473	AnnotatorNotes T473	NCBITaxon:10088 (Mus)
+T474	SO 11954 11963	genotypes
+#474	AnnotatorNotes T474	SO:0001027 (genotype)
+T475	NCBITaxon 11979 11986	animals
+#475	AnnotatorNotes T475	NCBITaxon:33208 (Metazoa)
+T476	SO 12052 12062	transgenes
+#476	AnnotatorNotes T476	SO:0000902 (transgene)
+T477	SO 12081 12089	genotype
+#477	AnnotatorNotes T477	SO:0001027 (genotype)
+T478	SO 12098 12104	rescue
+#478	AnnotatorNotes T478	SO:0000814 (rescue)
+T479	SO 12106 12114	genotype
+#479	AnnotatorNotes T479	SO:0001027 (genotype)
+T480	GO_BP 12159 12165	lethal
+#480	AnnotatorNotes T480	GO:0016265 (death)
+T481	NCBITaxon 12240 12247	animals
+#481	AnnotatorNotes T481	NCBITaxon:33208 (Metazoa)
+T482	SO 12262 12272	transgenes
+#482	AnnotatorNotes T482	SO:0000902 (transgene)
+T483	NCBITaxon 12332 12336	mice
+#483	AnnotatorNotes T483	NCBITaxon:10088 (Mus)
+T484	SO 12379 12391	Genomic DNAs
+#484	AnnotatorNotes T484	SO:0000991 (genomic_DNA)
+T485	SO 12379 12386	Genomic
+#485	AnnotatorNotes T485	SO:0001026 (genome)
+T486	GO_BP 12422 12430	digested
+#486	AnnotatorNotes T486	GO:0009056 (catabolic process)
+T487	GO_MF 12451 12469	restriction enzyme
+#487	AnnotatorNotes T487	GO:0015666 (restriction endodeoxyribonuclease activity)
+T488	independent_continuant 12451 12469	restriction enzyme
+#488	AnnotatorNotes T488	independent_continuant
+T489	SO 12463 12469	enzyme
+#489	AnnotatorNotes T489	SO:0001185 (enzymatic)
+T490	CHEBI 12492 12499	agarose
+#490	AnnotatorNotes T490	CHEBI:2511 (agarose)
+T491	CHEBI 12532 12537	nylon
+#491	AnnotatorNotes T491	CHEBI:25614 (nylons)
+T492	NCBITaxon 12608 12613	mouse
+#492	AnnotatorNotes T492	NCBITaxon:10088 (Mus)
+T493	CL 12624 12635	fibroblasts
+#493	AnnotatorNotes T493	CL:0000057 (fibroblast)
+T494	CL 12707 12718	Fibroblasts
+#494	AnnotatorNotes T494	CL:0000057 (fibroblast)
+T495	EntrezGene 12921 12924	BSA
+#495	AnnotatorNotes T495	EG:280717
+T496	CHEBI 12935 12942	glycine
+#496	AnnotatorNotes T496	CHEBI:15428 (glycine)
+T497	NCBITaxon 13007 13011	goat
+#497	AnnotatorNotes T497	NCBITaxon:9925 (Capra hircus)
+T498	CL 13079 13084	cells
+#498	AnnotatorNotes T498	CL:0000000 (cell)
+T499	GO_CC 13079 13084	cells
+#499	AnnotatorNotes T499	GO:0005623 (cell)
+T500	PR 13116 13118	E2
+#500	AnnotatorNotes T500	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T501	CHEBI 13219 13240	fluorescently labeled
+#501	AnnotatorNotes T501	CHEBI:39442 (fluorescent probe)
+T502	GO_CC 13248 13256	antibody
+#502	AnnotatorNotes T502	GO:0019814 (immunoglobulin complex)
+T503	CL 13274 13279	cells
+#503	AnnotatorNotes T503	CL:0000000 (cell)
+T504	GO_CC 13274 13279	cells
+#504	AnnotatorNotes T504	GO:0005623 (cell)
+T505	CHEBI 13352 13360	gelvatol
+#505	AnnotatorNotes T505	CHEBI:17246 (poly(vinyl alcohol))
+T506	CHEBI 13533 13541	nitrogen
+#506	AnnotatorNotes T506	CHEBI:17997 (dinitrogen)
+T507	CHEBI 13549 13559	isopentane
+#507	AnnotatorNotes T507	CHEBI:30362 (isopentane)
+T508	CL 13624 13629	cells
+#508	AnnotatorNotes T508	CL:0000000 (cell)
+T509	GO_CC 13624 13629	cells
+#509	AnnotatorNotes T509	GO:0005623 (cell)
+T510	CHEBI 13687 13697	Amino acid
+#510	AnnotatorNotes T510	CHEBI:33709 (amino acids)
+T511	CHEBI 13687 13692	Amino
+#511	AnnotatorNotes T511	CHEBI:46882 (amino group)
+T512	CHEBI 13687 13692	Amino
+#512	AnnotatorNotes T512	CHEBI:32952 (amines)
+T513	NCBITaxon 13772 13776	mice
+#513	AnnotatorNotes T513	NCBITaxon:10088 (Mus)
+T514	CHEBI 13832 13842	amino acid
+#514	AnnotatorNotes T514	CHEBI:33709 (amino acids)
+T515	CHEBI 13832 13837	amino
+#515	AnnotatorNotes T515	CHEBI:46882 (amino group)
+T516	CHEBI 13832 13837	amino
+#516	AnnotatorNotes T516	CHEBI:32952 (amines)
+T517	CHEBI 13894 13898	BCAA
+#517	AnnotatorNotes T517	CHEBI:22918 (branched chain amino acids)
+T518	CHEBI 13909 13920	amino acids
+#518	AnnotatorNotes T518	CHEBI:33709 (amino acids)
+T519	CHEBI 13909 13914	amino
+#519	AnnotatorNotes T519	CHEBI:46882 (amino group)
+T520	CHEBI 13909 13914	amino
+#520	AnnotatorNotes T520	CHEBI:32952 (amines)
+T521	GO_CC 14024 14029	BCKDH
+#521	AnnotatorNotes T521	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T522	CHEBI 14078 14086	nitrogen
+#522	AnnotatorNotes T522	CHEBI:17997 (dinitrogen)
+T523	SO 14124 14130	enzyme
+#523	AnnotatorNotes T523	SO:0001185 (enzymatic)
+T524	CHEBI 14195 14202	sucrose
+#524	AnnotatorNotes T524	CHEBI:17992 (sucrose)
+T525	CHEBI 14210 14214	Tris
+#525	AnnotatorNotes T525	CHEBI:9754 (tris)
+T526	CHEBI 14215 14218	HC1
+#526	AnnotatorNotes T526	CHEBI:17883 (hydrogen chloride)
+T527	CHEBI 14215 14218	HC1
+#527	AnnotatorNotes T527	CHEBI:36807 (hydrochlorides)
+T528	GO_CC 14312 14320	fraction
+#528	AnnotatorNotes T528	GO:0000267 (cell fraction)
+T529	GO_CC 14348 14353	BCKDH
+#529	AnnotatorNotes T529	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T530	GO_CC 14488 14493	BCKDH
+#530	AnnotatorNotes T530	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T531	sup 14546 14548	14
+#531	AnnotatorNotes T531	sup (null)
+T532	sub 14550 14551	2
+#532	AnnotatorNotes T532	sub (null)
+T533	CHEBI 14557 14583	α-keto [1-14C] isocaproate
+#533	AnnotatorNotes T533	"α-keto .. isocaproate" CHEBI:17865 (4-methyl-2-oxopentanoate)
+T534	CHEBI 14559 14563	keto
+#534	AnnotatorNotes T534	CHEBI:23019 (carbonyl group)
+T535	CHEBI 14567 14570	14C
+#535	AnnotatorNotes T535	CHEBI:36927 (carbon-14)
+T536	sup 14567 14569	14
+#536	AnnotatorNotes T536	sup (null)
+T537	CHEBI 14680 14689	potassium
+#537	AnnotatorNotes T537	CHEBI:26216 (potassium)
+T538	CHEBI 14690 14699	phosphate
+#538	AnnotatorNotes T538	CHEBI:26020 (phosphates)
+T539	CHEBI 14690 14699	phosphate
+#539	AnnotatorNotes T539	CHEBI:35780 (phosphate ions)
+T540	CHEBI 14724 14741	α-ketoisocaproate
+#540	AnnotatorNotes T540	CHEBI:17865 (4-methyl-2-oxopentanoate)
+T541	CHEBI 14751 14756	CoASH
+#541	AnnotatorNotes T541	CHEBI:15346 (coenzyme A)
+T542	CHEBI 14766 14787	thiamin pyrophosphate
+#542	AnnotatorNotes T542	CHEBI:9532 (thiamine(1+) diphosphate)
+T543	CHEBI 14766 14773	thiamin
+#543	AnnotatorNotes T543	CHEBI:18385 (thiamine(1+))
+T544	CHEBI 14774 14787	pyrophosphate
+#544	AnnotatorNotes T544	CHEBI:35782 (diphosphate ions)
+T545	CHEBI 14794 14798	NAD+
+#545	AnnotatorNotes T545	CHEBI:15846 (NAD(+))
+T546	sup 14797 14798	+
+#546	AnnotatorNotes T546	sup (null)
+T547	CHEBI 14805 14819	dithiothreitol
+#547	AnnotatorNotes T547	CHEBI:18320 (1,4-dithiothreitol)
+T548	CHEBI 14826 14830	Mg2+
+#548	AnnotatorNotes T548	CHEBI:18420 (magnesium(2+))
+T549	sup 14828 14830	2+
+#549	AnnotatorNotes T549	sup (null)
+T550	CHEBI 14861 14887	α-keto [1-14C] isocaproate
+#550	AnnotatorNotes T550	"α-keto .. isocaproate" CHEBI:17865 (4-methyl-2-oxopentanoate)
+T551	CHEBI 14863 14867	keto
+#551	AnnotatorNotes T551	CHEBI:23019 (carbonyl group)
+T552	CHEBI 14871 14874	14C
+#552	AnnotatorNotes T552	CHEBI:36927 (carbon-14)
+T553	sup 14871 14873	14
+#553	AnnotatorNotes T553	sup (null)
+T554	CHEBI 14929 14936	protein
+#554	AnnotatorNotes T554	CHEBI:36080 (proteins)
+T555	sup 14983 14985	14
+#555	AnnotatorNotes T555	sup (null)
+T556	sub 14987 14988	2
+#556	AnnotatorNotes T556	sub (null)
+T557	CHEBI 15004 15013	hydroxide
+#557	AnnotatorNotes T557	CHEBI:16234 (hydroxide)
+T558	CHEBI 15121 15128	Protein
+#558	AnnotatorNotes T558	CHEBI:36080 (proteins)
+T559	SO 15215 15223	wildtype
+#559	AnnotatorNotes T559	SO:0000817 (wild_type)
+T560	SO 15247 15257	transgenic
+#560	AnnotatorNotes T560	SO:0000902 (transgene)
+T561	NCBITaxon 15258 15262	mice
+#561	AnnotatorNotes T561	NCBITaxon:10088 (Mus)
+T562	CHEBI 15264 15271	Protein
+#562	AnnotatorNotes T562	CHEBI:36080 (proteins)
+T563	CHEBI 15332 15335	SDS
+#563	AnnotatorNotes T563	CHEBI:8984 (sodium dodecyl sulfate)
+T564	EntrezGene 15477 15479	E2
+#564	AnnotatorNotes T564	EG:1629
+T565	PR 15477 15479	E2
+#565	AnnotatorNotes T565	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T566	CHEBI 15480 15487	protein
+#566	AnnotatorNotes T566	CHEBI:36080 (proteins)
+T567	NCBITaxon 15505 15511	rabbit
+#567	AnnotatorNotes T567	NCBITaxon:9986 (Oryctolagus cuniculus)
+T568	PR 15512 15514	E2
+#568	AnnotatorNotes T568	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T569	EntrezGene 15554 15599	mouse (~47 kD) and human (~54 kD) E2 subunits
+#569	AnnotatorNotes T569	"mouse .. E2 subunits" EG:13171
+T570	NCBITaxon 15554 15559	mouse
+#570	AnnotatorNotes T570	NCBITaxon:10088 (Mus)
+T571	EntrezGene 15573 15599	human (~54 kD) E2 subunits
+#571	AnnotatorNotes T571	"human .. E2 subunits" EG:1629
+T572	NCBITaxon 15573 15578	human
+#572	AnnotatorNotes T572	NCBITaxon:9606 (Homo sapiens)
+T573	PR 15588 15599	E2 subunits
+#573	AnnotatorNotes T573	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T574	NCBITaxon 15688 15694	rabbit
+#574	AnnotatorNotes T574	NCBITaxon:9986 (Oryctolagus cuniculus)
+T575	italic 15695 15705	anti-c-myc
+#575	AnnotatorNotes T575	italic (null)
+T576	PR 15700 15705	c-myc
+#576	AnnotatorNotes T576	PR:000000084 (c-myc protein)
+T577	GO_MF 15706 15709	tag
+#577	AnnotatorNotes T577	GO:0031386 (protein tag)
+T578	independent_continuant 15706 15709	tag
+#578	AnnotatorNotes T578	independent_continuant
+T579	GO_CC 15710 15718	antibody
+#579	AnnotatorNotes T579	GO:0019814 (immunoglobulin complex)
+T580	GO_CC 15805 15813	antibody
+#580	AnnotatorNotes T580	GO:0019814 (immunoglobulin complex)
+T581	PR 15818 15825	β-actin
+#581	AnnotatorNotes T581	PR:000003676 (actin, cytoplasmic 1)
+T582	NCBITaxon 15905 15909	goat
+#582	AnnotatorNotes T582	NCBITaxon:9925 (Capra hircus)
+T583	NCBITaxon 15915 15921	rabbit
+#583	AnnotatorNotes T583	NCBITaxon:9986 (Oryctolagus cuniculus)
+T584	GO_CC 15932 15940	antibody
+#584	AnnotatorNotes T584	GO:0019814 (immunoglobulin complex)
+T585	GO_BP 15941 15951	conjugated
+#585	AnnotatorNotes T585	GO:0043412 (biopolymer modification)
+T586	NCBITaxon 15955 15966	horseradish
+#586	AnnotatorNotes T586	NCBITaxon:3704 (Armoracia rusticana)
+T587	GO_MF 15967 15977	peroxidase
+#587	AnnotatorNotes T587	GO:0004601 (peroxidase activity)
+T588	independent_continuant 15967 15977	peroxidase
+#588	AnnotatorNotes T588	independent_continuant
+T589	CHEBI 16095 16102	reagent
+#589	AnnotatorNotes T589	CHEBI:33893 (reagent)
+T590	CHEBI 16184 16188	BCAA
+#590	AnnotatorNotes T590	CHEBI:22918 (branched chain amino acids)
+T591	GO_CC 16193 16198	BCKDH
+#591	AnnotatorNotes T591	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T592	SO 16199 16205	enzyme
+#592	AnnotatorNotes T592	SO:0001185 (enzymatic)
+T593	SO 16311 16320	genotypes
+#593	AnnotatorNotes T593	SO:0001027 (genotype)
+T594	GO_BP 16370 16380	Production
+#594	AnnotatorNotes T594	GO:0000003 (reproduction)
+T595	EntrezGene 16384 16386	E2
+#595	AnnotatorNotes T595	EG:13171
+T596	PR 16384 16386	E2
+#596	AnnotatorNotes T596	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T597	SO 16387 16391	gene
+#597	AnnotatorNotes T597	SO:0000704 (gene)
+T598	NCBITaxon 16401 16405	mice
+#598	AnnotatorNotes T598	NCBITaxon:10088 (Mus)
+T599	GO_BP 16410 16416	create
+#599	AnnotatorNotes T599	GO:0000003 (reproduction)
+T600	EntrezGene 16417 16419	E2
+#600	AnnotatorNotes T600	EG:13171
+T601	PR 16417 16419	E2
+#601	AnnotatorNotes T601	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T602	NCBITaxon 16429 16433	mice
+#602	AnnotatorNotes T602	NCBITaxon:10088 (Mus)
+T603	SO 16443 16447	gene
+#603	AnnotatorNotes T603	SO:0000704 (gene)
+T604	NCBITaxon 16461 16466	mouse
+#604	AnnotatorNotes T604	NCBITaxon:10088 (Mus)
+T605	CL 16470 16475	cells
+#605	AnnotatorNotes T605	CL:0000000 (cell)
+T606	GO_CC 16470 16475	cells
+#606	AnnotatorNotes T606	GO:0005623 (cell)
+T607	EntrezGene 16491 16493	E2
+#607	AnnotatorNotes T607	EG:13171
+T608	PR 16491 16493	E2
+#608	AnnotatorNotes T608	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T609	SO 16494 16498	gene
+#609	AnnotatorNotes T609	SO:0000704 (gene)
+T610	EntrezGene 16540 16542	E2
+#610	AnnotatorNotes T610	EG:13171
+T611	PR 16540 16542	E2
+#611	AnnotatorNotes T611	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T612	SO 16543 16547	gene
+#612	AnnotatorNotes T612	SO:0000704 (gene)
+T613	SO 16579 16583	gene
+#613	AnnotatorNotes T613	SO:0000704 (gene)
+T614	SO 16594 16603	construct
+#614	AnnotatorNotes T614	SO:0001037 (mobile_genetic_element)
+T615	SO 16620 16627	replace
+#615	AnnotatorNotes T615	SO:0000048 (substitute)
+T616	SO 16649 16660	genomic DNA
+#616	AnnotatorNotes T616	SO:0000991 (genomic_DNA)
+T617	SO 16649 16656	genomic
+#617	AnnotatorNotes T617	SO:0001026 (genome)
+T618	SO 16661 16669	fragment
+#618	AnnotatorNotes T618	SO:0000731 (fragmentary)
+T619	SO 16683 16695	part of Exon
+#619	AnnotatorNotes T619	SO:0000852 (exon_region)
+T620	SO 16691 16695	Exon
+#620	AnnotatorNotes T620	SO:0000147 (exon)
+T621	SO 16709 16713	Exon
+#621	AnnotatorNotes T621	SO:0000147 (exon)
+T622	SO 16750 16758	cassette
+#622	AnnotatorNotes T622	SO:0001037 (mobile_genetic_element)
+T623	CL 16770 16774	cell
+#623	AnnotatorNotes T623	CL:0000000 (cell)
+T624	GO_CC 16770 16774	cell
+#624	AnnotatorNotes T624	GO:0005623 (cell)
+T625	SO 16854 16863	predicted
+#625	AnnotatorNotes T625	SO:0000732 (predicted)
+T626	SO 16864 16905	restriction fragment length polymorphisms
+#626	AnnotatorNotes T626	SO:0000193 (RFLP_fragment)
+T627	SO 16920 16924	gene
+#627	AnnotatorNotes T627	SO:0000704 (gene)
+T628	EntrezGene 16942 16944	E2
+#628	AnnotatorNotes T628	EG:13171
+T629	PR 16942 16944	E2
+#629	AnnotatorNotes T629	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T630	SO 16945 16950	locus
+#630	AnnotatorNotes T630	SO:0000001 (region)
+T631	EntrezGene 16989 16991	E2
+#631	AnnotatorNotes T631	EG:13171
+T632	PR 16989 16991	E2
+#632	AnnotatorNotes T632	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T633	SO 16992 16996	Exon
+#633	AnnotatorNotes T633	SO:0000147 (exon)
+T634	SO 17008 17013	probe
+#634	AnnotatorNotes T634	SO:0000051 (probe)
+T635	SO 17050 17059	construct
+#635	AnnotatorNotes T635	SO:0001037 (mobile_genetic_element)
+T636	GO_MF 17061 17071	hybridizes
+#636	AnnotatorNotes T636	GO:0000739 (DNA strand annealing activity)
+T637	GO_MF 17061 17071	hybridizes
+#637	AnnotatorNotes T637	GO:0033592 (RNA strand annealing activity)
+T638	SO 17094 17114	restriction fragment
+#638	AnnotatorNotes T638	SO:0000412 (restriction_fragment)
+T639	SO 17124 17133	wild type
+#639	AnnotatorNotes T639	SO:0000817 (wild_type)
+T640	SO 17134 17140	allele
+#640	AnnotatorNotes T640	SO:0001023 (allele)
+T641	CL 17163 17167	cell
+#641	AnnotatorNotes T641	CL:0000000 (cell)
+T642	GO_CC 17163 17167	cell
+#642	AnnotatorNotes T642	GO:0005623 (cell)
+T643	CL 17199 17204	cells
+#643	AnnotatorNotes T643	CL:0000000 (cell)
+T644	GO_CC 17199 17204	cells
+#644	AnnotatorNotes T644	GO:0005623 (cell)
+T645	SO 17211 17216	probe
+#645	AnnotatorNotes T645	SO:0000051 (probe)
+T646	GO_MF 17222 17232	hybridizes
+#646	AnnotatorNotes T646	GO:0033592 (RNA strand annealing activity)
+T647	GO_MF 17222 17232	hybridizes
+#647	AnnotatorNotes T647	GO:0000739 (DNA strand annealing activity)
+T648	SO 17250 17270	restriction fragment
+#648	AnnotatorNotes T648	SO:0000412 (restriction_fragment)
+T649	GO_MF 17320 17339	restriction enzymes
+#649	AnnotatorNotes T649	GO:0015666 (restriction endodeoxyribonuclease activity)
+T650	independent_continuant 17320 17339	restriction enzymes
+#650	AnnotatorNotes T650	independent_continuant
+T651	SO 17332 17339	enzymes
+#651	AnnotatorNotes T651	SO:0001185 (enzymatic)
+T652	SO 17344 17350	probes
+#652	AnnotatorNotes T652	SO:0000051 (probe)
+T653	CL 17392 17397	cells
+#653	AnnotatorNotes T653	CL:0000000 (cell)
+T654	GO_CC 17392 17397	cells
+#654	AnnotatorNotes T654	GO:0005623 (cell)
+T655	GO_BP 17437 17444	produce
+#655	AnnotatorNotes T655	GO:0000003 (reproduction)
+T656	NCBITaxon 17454 17458	mice
+#656	AnnotatorNotes T656	NCBITaxon:10088 (Mus)
+T657	GO_BP 17475 17479	bred
+#657	AnnotatorNotes T657	GO:0007618 (mating)
+T658	NCBITaxon 17492 17496	mice
+#658	AnnotatorNotes T658	NCBITaxon:10088 (Mus)
+T659	SO 17546 17552	allele
+#659	AnnotatorNotes T659	SO:0001023 (allele)
+T660	NCBITaxon 17567 17571	mice
+#660	AnnotatorNotes T660	NCBITaxon:10088 (Mus)
+T661	GO_BP 17590 17597	produce
+#661	AnnotatorNotes T661	GO:0000003 (reproduction)
+T662	SO 17598 17607	wild type
+#662	AnnotatorNotes T662	SO:0000817 (wild_type)
+T663	SO 17609 17610	+
+#663	AnnotatorNotes T663	SO:0000817 (wild_type)
+T664	SO 17611 17612	+
+#664	AnnotatorNotes T664	SO:0000817 (wild_type)
+T665	SO 17629 17630	+
+#665	AnnotatorNotes T665	SO:0000817 (wild_type)
+T666	NCBITaxon 17655 17662	animals
+#666	AnnotatorNotes T666	NCBITaxon:33208 (Metazoa)
+T667	NCBITaxon 17664 17668	Mice
+#667	AnnotatorNotes T667	NCBITaxon:10088 (Mus)
+T668	SO 17715 17719	Exon
+#668	AnnotatorNotes T668	SO:0000147 (exon)
+T669	SO 17731 17736	probe
+#669	AnnotatorNotes T669	SO:0000051 (probe)
+T670	GO_MF 17737 17747	hybridized
+#670	AnnotatorNotes T670	GO:0033592 (RNA strand annealing activity)
+T671	GO_MF 17737 17747	hybridized
+#671	AnnotatorNotes T671	GO:0000739 (DNA strand annealing activity)
+T672	SO 17770 17790	restriction fragment
+#672	AnnotatorNotes T672	SO:0000412 (restriction_fragment)
+T673	SO 17794 17795	+
+#673	AnnotatorNotes T673	SO:0000817 (wild_type)
+T674	SO 17796 17797	+
+#674	AnnotatorNotes T674	SO:0000817 (wild_type)
+T675	NCBITaxon 17798 17802	mice
+#675	AnnotatorNotes T675	NCBITaxon:10088 (Mus)
+T676	SO 17818 17826	fragment
+#676	AnnotatorNotes T676	SO:0000731 (fragmentary)
+T677	NCBITaxon 17834 17838	mice
+#677	AnnotatorNotes T677	NCBITaxon:10088 (Mus)
+T678	SO 17861 17870	fragments
+#678	AnnotatorNotes T678	SO:0000731 (fragmentary)
+T679	SO 17874 17875	+
+#679	AnnotatorNotes T679	SO:0000817 (wild_type)
+T680	NCBITaxon 17878 17882	mice
+#680	AnnotatorNotes T680	NCBITaxon:10088 (Mus)
+T681	NCBITaxon 17895 17899	Mice
+#681	AnnotatorNotes T681	NCBITaxon:10088 (Mus)
+T682	EntrezGene 17919 17921	E2
+#682	AnnotatorNotes T682	EG:13171
+T683	PR 17919 17921	E2
+#683	AnnotatorNotes T683	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T684	SO 17922 17930	mutation
+#684	AnnotatorNotes T684	SO:0001059 (sequence_alteration)
+T685	GO_BP 17936 17940	born
+#685	AnnotatorNotes T685	GO:0007567 (parturition)
+T686	SO 17968 17976	Genotype
+#686	AnnotatorNotes T686	SO:0001027 (genotype)
+T687	SO 18007 18008	+
+#687	AnnotatorNotes T687	SO:0000817 (wild_type)
+T688	SO 18014 18015	+
+#688	AnnotatorNotes T688	SO:0000817 (wild_type)
+T689	GO_BP 18018 18025	matings
+#689	AnnotatorNotes T689	GO:0007618 (mating)
+T690	SO 18040 18041	+
+#690	AnnotatorNotes T690	SO:0000817 (wild_type)
+T691	SO 18042 18043	+
+#691	AnnotatorNotes T691	SO:0000817 (wild_type)
+T692	SO 18045 18046	+
+#692	AnnotatorNotes T692	SO:0000817 (wild_type)
+T693	NCBITaxon 18058 18062	mice
+#693	AnnotatorNotes T693	NCBITaxon:10088 (Mus)
+T694	NCBITaxon 18134 18141	animals
+#694	AnnotatorNotes T694	NCBITaxon:33208 (Metazoa)
+T695	SO 18167 18168	+
+#695	AnnotatorNotes T695	SO:0000817 (wild_type)
+T696	SO 18169 18170	+
+#696	AnnotatorNotes T696	SO:0000817 (wild_type)
+T697	SO 18186 18187	+
+#697	AnnotatorNotes T697	SO:0000817 (wild_type)
+T698	EntrezGene 18224 18226	E2
+#698	AnnotatorNotes T698	EG:13171
+T699	PR 18224 18226	E2
+#699	AnnotatorNotes T699	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T700	SO 18227 18231	gene
+#700	AnnotatorNotes T700	SO:0000704 (gene)
+T701	GO_BP 18259 18280	embryonic development
+#701	AnnotatorNotes T701	GO:0009790 (embryonic development)
+T702	NCBITaxon 18326 18330	mice
+#702	AnnotatorNotes T702	NCBITaxon:10088 (Mus)
+T703	GO_BP 18331 18335	died
+#703	AnnotatorNotes T703	GO:0016265 (death)
+T704	GO_BP 18383 18388	birth
+#704	AnnotatorNotes T704	GO:0007567 (parturition)
+T705	SO 18440 18441	+
+#705	AnnotatorNotes T705	SO:0000817 (wild_type)
+T706	SO 18442 18443	+
+#706	AnnotatorNotes T706	SO:0000817 (wild_type)
+T707	SO 18448 18449	+
+#707	AnnotatorNotes T707	SO:0000817 (wild_type)
+T708	GO_BP 18504 18510	suckle
+#708	AnnotatorNotes T708	GO:0001967 (suckling behavior)
+T709	GO_BP 18677 18686	movements
+#709	AnnotatorNotes T709	GO:0050879 (multicellular organismal movement)
+T710	GO_BP 18718 18722	died
+#710	AnnotatorNotes T710	GO:0016265 (death)
+T711	GO_BP 18742 18747	birth
+#711	AnnotatorNotes T711	GO:0007567 (parturition)
+T712	EntrezGene 18881 18883	E2
+#712	AnnotatorNotes T712	EG:13171
+T713	PR 18881 18883	E2
+#713	AnnotatorNotes T713	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T714	NCBITaxon 18894 18898	mice
+#714	AnnotatorNotes T714	NCBITaxon:10088 (Mus)
+T715	SO 18954 18958	gene
+#715	AnnotatorNotes T715	SO:0000704 (gene)
+T716	GO_BP 18975 18982	created
+#716	AnnotatorNotes T716	GO:0009058 (biosynthetic process)
+T717	EntrezGene 18990 18992	E2
+#717	AnnotatorNotes T717	EG:13171
+T718	PR 18990 18992	E2
+#718	AnnotatorNotes T718	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T719	SO 18998 19004	allele
+#719	AnnotatorNotes T719	SO:0001023 (allele)
+T720	GO_CC 19020 19025	BCKDH
+#720	AnnotatorNotes T720	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T721	NCBITaxon 19075 19080	mouse
+#721	AnnotatorNotes T721	NCBITaxon:10088 (Mus)
+T722	SO 19099 19100	+
+#722	AnnotatorNotes T722	SO:0000817 (wild_type)
+T723	SO 19106 19107	+
+#723	AnnotatorNotes T723	SO:0000817 (wild_type)
+T724	GO_BP 19110 19116	mating
+#724	AnnotatorNotes T724	GO:0007618 (mating)
+T725	GO_CC 19151 19156	BCKDH
+#725	AnnotatorNotes T725	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T726	SO 19169 19170	+
+#726	AnnotatorNotes T726	SO:0000817 (wild_type)
+T727	SO 19171 19172	+
+#727	AnnotatorNotes T727	SO:0000817 (wild_type)
+T728	NCBITaxon 19173 19177	mice
+#728	AnnotatorNotes T728	NCBITaxon:10088 (Mus)
+T729	GO_CC 19222 19227	BCKDH
+#729	AnnotatorNotes T729	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T730	NCBITaxon 19266 19271	mouse
+#730	AnnotatorNotes T730	NCBITaxon:10088 (Mus)
+T731	SO 19310 19311	+
+#731	AnnotatorNotes T731	SO:0000817 (wild_type)
+T732	NCBITaxon 19314 19318	mice
+#732	AnnotatorNotes T732	NCBITaxon:10088 (Mus)
+T733	SO 19364 19365	+
+#733	AnnotatorNotes T733	SO:0000817 (wild_type)
+T734	SO 19366 19367	+
+#734	AnnotatorNotes T734	SO:0000817 (wild_type)
+T735	NCBITaxon 19414 19418	mice
+#735	AnnotatorNotes T735	NCBITaxon:10088 (Mus)
+T736	NCBITaxon 19451 19457	humans
+#736	AnnotatorNotes T736	NCBITaxon:9606 (Homo sapiens)
+T737	NCBITaxon 19541 19547	murine
+#737	AnnotatorNotes T737	NCBITaxon:39107 (Murinae)
+T738	italic 19555 19556	A
+#738	AnnotatorNotes T738	italic (null)
+T739	GO_CC 19558 19563	BCKDH
+#739	AnnotatorNotes T739	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T740	SO 19564 19570	enzyme
+#740	AnnotatorNotes T740	SO:0001185 (enzymatic)
+T741	SO 19600 19609	wild type
+#741	AnnotatorNotes T741	SO:0000817 (wild_type)
+T742	SO 19619 19620	+
+#742	AnnotatorNotes T742	SO:0000817 (wild_type)
+T743	SO 19621 19622	+
+#743	AnnotatorNotes T743	SO:0000817 (wild_type)
+T744	SO 19639 19640	+
+#744	AnnotatorNotes T744	SO:0000817 (wild_type)
+T745	NCBITaxon 19675 19679	mice
+#745	AnnotatorNotes T745	NCBITaxon:10088 (Mus)
+T746	SO 19681 19687	Enzyme
+#746	AnnotatorNotes T746	SO:0001185 (enzymatic)
+T747	SO 19726 19727	+
+#747	AnnotatorNotes T747	SO:0000817 (wild_type)
+T748	SO 19748 19749	+
+#748	AnnotatorNotes T748	SO:0000817 (wild_type)
+T749	SO 19750 19751	+
+#749	AnnotatorNotes T749	SO:0000817 (wild_type)
+T750	CHEBI 19813 19817	BCAA
+#750	AnnotatorNotes T750	CHEBI:22918 (branched chain amino acids)
+T751	NCBITaxon 19845 19849	mice
+#751	AnnotatorNotes T751	NCBITaxon:10088 (Mus)
+T752	CHEBI 19857 19861	BCAA
+#752	AnnotatorNotes T752	CHEBI:22918 (branched chain amino acids)
+T753	CHEBI 19883 19890	leucine
+#753	AnnotatorNotes T753	CHEBI:25017 (leucine)
+T754	CHEBI 19892 19902	isoleucine
+#754	AnnotatorNotes T754	CHEBI:24898 (isoleucine)
+T755	CHEBI 19908 19914	valine
+#755	AnnotatorNotes T755	CHEBI:27266 (valine)
+T756	CHEBI 19922 19926	BCAA
+#756	AnnotatorNotes T756	CHEBI:22918 (branched chain amino acids)
+T757	NCBITaxon 19960 19964	mice
+#757	AnnotatorNotes T757	NCBITaxon:10088 (Mus)
+T758	SO 20005 20006	+
+#758	AnnotatorNotes T758	SO:0000817 (wild_type)
+T759	SO 20007 20008	+
+#759	AnnotatorNotes T759	SO:0000817 (wild_type)
+T760	SO 20013 20014	+
+#760	AnnotatorNotes T760	SO:0000817 (wild_type)
+T761	CHEBI 20036 20040	BCAA
+#761	AnnotatorNotes T761	CHEBI:22918 (branched chain amino acids)
+T762	CHEBI 20044 20051	alanine
+#762	AnnotatorNotes T762	CHEBI:16449 (alanine)
+T763	NCBITaxon 20064 20068	mice
+#763	AnnotatorNotes T763	NCBITaxon:10088 (Mus)
+T764	NCBITaxon 20115 20119	mice
+#764	AnnotatorNotes T764	NCBITaxon:10088 (Mus)
+T765	SO 20132 20133	+
+#765	AnnotatorNotes T765	SO:0000817 (wild_type)
+T766	SO 20134 20135	+
+#766	AnnotatorNotes T766	SO:0000817 (wild_type)
+T767	SO 20140 20141	+
+#767	AnnotatorNotes T767	SO:0000817 (wild_type)
+T768	NCBITaxon 20144 20148	mice
+#768	AnnotatorNotes T768	NCBITaxon:10088 (Mus)
+T769	NCBITaxon 20198 20202	mice
+#769	AnnotatorNotes T769	NCBITaxon:10088 (Mus)
+T770	SO 20245 20246	+
+#770	AnnotatorNotes T770	SO:0000817 (wild_type)
+T771	SO 20247 20248	+
+#771	AnnotatorNotes T771	SO:0000817 (wild_type)
+T772	SO 20295 20296	+
+#772	AnnotatorNotes T772	SO:0000817 (wild_type)
+T773	SO 20297 20298	+
+#773	AnnotatorNotes T773	SO:0000817 (wild_type)
+T774	SO 20303 20304	+
+#774	AnnotatorNotes T774	SO:0000817 (wild_type)
+T775	PR 20350 20352	E2
+#775	AnnotatorNotes T775	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T776	GO_CC 20362 20370	antibody
+#776	AnnotatorNotes T776	GO:0019814 (immunoglobulin complex)
+T777	EntrezGene 20391 20393	E2
+#777	AnnotatorNotes T777	EG:13171
+T778	PR 20391 20393	E2
+#778	AnnotatorNotes T778	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T779	CHEBI 20394 20401	protein
+#779	AnnotatorNotes T779	CHEBI:36080 (proteins)
+T780	NCBITaxon 20409 20413	mice
+#780	AnnotatorNotes T780	NCBITaxon:10088 (Mus)
+T781	EntrezGene 20460 20462	E2
+#781	AnnotatorNotes T781	EG:13171
+T782	PR 20460 20462	E2
+#782	AnnotatorNotes T782	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T783	CHEBI 20463 20470	protein
+#783	AnnotatorNotes T783	CHEBI:36080 (proteins)
+T784	CL 20507 20518	fibroblasts
+#784	AnnotatorNotes T784	CL:0000057 (fibroblast)
+T785	SO 20521 20522	+
+#785	AnnotatorNotes T785	SO:0000817 (wild_type)
+T786	SO 20523 20524	+
+#786	AnnotatorNotes T786	SO:0000817 (wild_type)
+T787	NCBITaxon 20525 20529	mice
+#787	AnnotatorNotes T787	NCBITaxon:10088 (Mus)
+T788	EntrezGene 20566 20568	E2
+#788	AnnotatorNotes T788	EG:13171
+T789	PR 20566 20568	E2
+#789	AnnotatorNotes T789	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T790	CHEBI 20569 20576	protein
+#790	AnnotatorNotes T790	CHEBI:36080 (proteins)
+T791	NCBITaxon 20617 20621	mice
+#791	AnnotatorNotes T791	NCBITaxon:10088 (Mus)
+T792	EntrezGene 20635 20637	E2
+#792	AnnotatorNotes T792	EG:13171
+T793	PR 20635 20637	E2
+#793	AnnotatorNotes T793	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T794	NCBITaxon 20647 20651	mice
+#794	AnnotatorNotes T794	NCBITaxon:10088 (Mus)
+T795	CHEBI 20739 20743	BCAA
+#795	AnnotatorNotes T795	CHEBI:22918 (branched chain amino acids)
+T796	CHEBI 20752 20759	leucine
+#796	AnnotatorNotes T796	CHEBI:25017 (leucine)
+T797	CHEBI 20761 20771	isoleucine
+#797	AnnotatorNotes T797	CHEBI:24898 (isoleucine)
+T798	CHEBI 20777 20783	valine
+#798	AnnotatorNotes T798	CHEBI:27266 (valine)
+T799	SO 20806 20807	+
+#799	AnnotatorNotes T799	SO:0000817 (wild_type)
+T800	SO 20808 20809	+
+#800	AnnotatorNotes T800	SO:0000817 (wild_type)
+T801	CHEBI 20831 20842	amino acids
+#801	AnnotatorNotes T801	CHEBI:33709 (amino acids)
+T802	CHEBI 20831 20836	amino
+#802	AnnotatorNotes T802	CHEBI:46882 (amino group)
+T803	CHEBI 20831 20836	amino
+#803	AnnotatorNotes T803	CHEBI:32952 (amines)
+T804	CHEBI 20897 20901	BCAA
+#804	AnnotatorNotes T804	CHEBI:22918 (branched chain amino acids)
+T805	CHEBI 20938 20952	alloisoleucine
+#805	AnnotatorNotes T805	CHEBI:22359 (alloisoleucine)
+T806	GO_BP 20972 20980	produced
+#806	AnnotatorNotes T806	GO:0009058 (biosynthetic process)
+T807	NCBITaxon 20993 20997	mice
+#807	AnnotatorNotes T807	NCBITaxon:10088 (Mus)
+T808	GO_BP 21004 21022	metabolism of BCAA
+#808	AnnotatorNotes T808	GO:0009081 (branched chain family amino acid metabolic process)
+T809	CHEBI 21018 21022	BCAA
+#809	AnnotatorNotes T809	CHEBI:22918 (branched chain amino acids)
+T810	GO_BP 21042 21088	synthesis of alanine, glutamate, and glutamine
+#810	AnnotatorNotes T810	"synthesis of .. glutamine" GO:0006542 (glutamine biosynthetic process)
+T811	GO_BP 21042 21073	synthesis of alanine, glutamate
+#811	AnnotatorNotes T811	"synthesis of .. glutamate" GO:0006537 (glutamate biosynthetic process)
+T812	GO_BP 21042 21062	synthesis of alanine
+#812	AnnotatorNotes T812	GO:0006523 (alanine biosynthetic process)
+T813	CHEBI 21055 21062	alanine
+#813	AnnotatorNotes T813	CHEBI:16449 (alanine)
+T814	CHEBI 21064 21073	glutamate
+#814	AnnotatorNotes T814	CHEBI:14321 (glutamate(1-))
+T815	CHEBI 21064 21073	glutamate
+#815	AnnotatorNotes T815	CHEBI:29987 (glutamate(2-))
+T816	CHEBI 21079 21088	glutamine
+#816	AnnotatorNotes T816	CHEBI:28300 (glutamine)
+T817	GO_BP 21115 21133	metabolism of BCAA
+#817	AnnotatorNotes T817	GO:0009081 (branched chain family amino acid metabolic process)
+T818	CHEBI 21129 21133	BCAA
+#818	AnnotatorNotes T818	CHEBI:22918 (branched chain amino acids)
+T819	NCBITaxon 21142 21146	mice
+#819	AnnotatorNotes T819	NCBITaxon:10088 (Mus)
+T820	CHEBI 21253 21260	alanine
+#820	AnnotatorNotes T820	CHEBI:16449 (alanine)
+T821	CHEBI 21262 21271	glutamate
+#821	AnnotatorNotes T821	CHEBI:29987 (glutamate(2-))
+T822	CHEBI 21262 21271	glutamate
+#822	AnnotatorNotes T822	CHEBI:14321 (glutamate(1-))
+T823	CHEBI 21277 21286	glutamine
+#823	AnnotatorNotes T823	CHEBI:28300 (glutamine)
+T824	CHEBI 21333 21344	amino acids
+#824	AnnotatorNotes T824	CHEBI:33709 (amino acids)
+T825	CHEBI 21333 21338	amino
+#825	AnnotatorNotes T825	CHEBI:46882 (amino group)
+T826	CHEBI 21333 21338	amino
+#826	AnnotatorNotes T826	CHEBI:32952 (amines)
+T827	NCBITaxon 21359 21363	mice
+#827	AnnotatorNotes T827	NCBITaxon:10088 (Mus)
+T828	SO 21403 21404	+
+#828	AnnotatorNotes T828	SO:0000817 (wild_type)
+T829	SO 21405 21406	+
+#829	AnnotatorNotes T829	SO:0000817 (wild_type)
+T830	SO 21410 21411	+
+#830	AnnotatorNotes T830	SO:0000817 (wild_type)
+T831	NCBITaxon 21414 21418	mice
+#831	AnnotatorNotes T831	NCBITaxon:10088 (Mus)
+T832	CHEBI 21440 21451	amino acids
+#832	AnnotatorNotes T832	CHEBI:33709 (amino acids)
+T833	CHEBI 21440 21445	amino
+#833	AnnotatorNotes T833	CHEBI:46882 (amino group)
+T834	CHEBI 21440 21445	amino
+#834	AnnotatorNotes T834	CHEBI:32952 (amines)
+T835	SO 21459 21460	+
+#835	AnnotatorNotes T835	SO:0000817 (wild_type)
+T836	NCBITaxon 21463 21467	mice
+#836	AnnotatorNotes T836	NCBITaxon:10088 (Mus)
+T837	SO 21496 21497	+
+#837	AnnotatorNotes T837	SO:0000817 (wild_type)
+T838	SO 21498 21499	+
+#838	AnnotatorNotes T838	SO:0000817 (wild_type)
+T839	NCBITaxon 21500 21504	mice
+#839	AnnotatorNotes T839	NCBITaxon:10088 (Mus)
+T840	CHEBI 21562 21569	alanine
+#840	AnnotatorNotes T840	CHEBI:16449 (alanine)
+T841	CHEBI 21601 21605	BCAA
+#841	AnnotatorNotes T841	CHEBI:22918 (branched chain amino acids)
+T842	CHEBI 21711 21715	BCAA
+#842	AnnotatorNotes T842	CHEBI:22918 (branched chain amino acids)
+T843	CHEBI 21716 21723	alanine
+#843	AnnotatorNotes T843	CHEBI:16449 (alanine)
+T844	CHEBI 21800 21804	BCAA
+#844	AnnotatorNotes T844	CHEBI:22918 (branched chain amino acids)
+T845	CHEBI 21855 21865	amino acid
+#845	AnnotatorNotes T845	CHEBI:33709 (amino acids)
+T846	CHEBI 21855 21860	amino
+#846	AnnotatorNotes T846	CHEBI:46882 (amino group)
+T847	CHEBI 21855 21860	amino
+#847	AnnotatorNotes T847	CHEBI:32952 (amines)
+T848	CHEBI 21877 21881	BCAA
+#848	AnnotatorNotes T848	CHEBI:22918 (branched chain amino acids)
+T849	CHEBI 21882 21889	alanine
+#849	AnnotatorNotes T849	CHEBI:16449 (alanine)
+T850	SO 21976 21977	+
+#850	AnnotatorNotes T850	SO:0000817 (wild_type)
+T851	SO 21978 21979	+
+#851	AnnotatorNotes T851	SO:0000817 (wild_type)
+T852	SO 21983 21984	+
+#852	AnnotatorNotes T852	SO:0000817 (wild_type)
+T853	CHEBI 22012 22022	amino acid
+#853	AnnotatorNotes T853	CHEBI:33709 (amino acids)
+T854	CHEBI 22012 22017	amino
+#854	AnnotatorNotes T854	CHEBI:46882 (amino group)
+T855	CHEBI 22012 22017	amino
+#855	AnnotatorNotes T855	CHEBI:32952 (amines)
+T856	CHEBI 22145 22155	amino acid
+#856	AnnotatorNotes T856	CHEBI:33709 (amino acids)
+T857	CHEBI 22145 22150	amino
+#857	AnnotatorNotes T857	CHEBI:46882 (amino group)
+T858	CHEBI 22145 22150	amino
+#858	AnnotatorNotes T858	CHEBI:32952 (amines)
+T859	GO_BP 22297 22302	birth
+#859	AnnotatorNotes T859	GO:0007567 (parturition)
+T860	SO 22366 22367	+
+#860	AnnotatorNotes T860	SO:0000817 (wild_type)
+T861	SO 22368 22369	+
+#861	AnnotatorNotes T861	SO:0000817 (wild_type)
+T862	SO 22374 22375	+
+#862	AnnotatorNotes T862	SO:0000817 (wild_type)
+T863	EntrezGene 22404 22406	E2
+#863	AnnotatorNotes T863	EG:13171
+T864	PR 22404 22406	E2
+#864	AnnotatorNotes T864	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T865	NCBITaxon 22416 22420	mice
+#865	AnnotatorNotes T865	NCBITaxon:10088 (Mus)
+T866	GO_CC 22426 22431	BCKDH
+#866	AnnotatorNotes T866	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T867	SO 22432 22441	enzymatic
+#867	AnnotatorNotes T867	SO:0001185 (enzymatic)
+T868	EntrezGene 22452 22454	E2
+#868	AnnotatorNotes T868	EG:13171
+T869	PR 22452 22454	E2
+#869	AnnotatorNotes T869	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T870	CHEBI 22510 22514	BCAA
+#870	AnnotatorNotes T870	CHEBI:22918 (branched chain amino acids)
+T871	GO_BP 22545 22554	metabolic
+#871	AnnotatorNotes T871	GO:0008152 (metabolic process)
+T872	NCBITaxon 22669 22675	humans
+#872	AnnotatorNotes T872	NCBITaxon:9606 (Homo sapiens)
+T873	EntrezGene 22713 22715	E2
+#873	AnnotatorNotes T873	EG:13171
+T874	PR 22713 22715	E2
+#874	AnnotatorNotes T874	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T875	NCBITaxon 22725 22729	mice
+#875	AnnotatorNotes T875	NCBITaxon:10088 (Mus)
+T876	NCBITaxon 22768 22772	mice
+#876	AnnotatorNotes T876	NCBITaxon:10088 (Mus)
+T877	GO_BP 22773 22783	expressing
+#877	AnnotatorNotes T877	GO:0010467 (gene expression)
+T878	EntrezGene 22786 22794	human E2
+#878	AnnotatorNotes T878	EG:1629
+T879	NCBITaxon 22786 22791	human
+#879	AnnotatorNotes T879	NCBITaxon:9606 (Homo sapiens)
+T880	PR 22792 22794	E2
+#880	AnnotatorNotes T880	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T881	SO 22795 22804	transgene
+#881	AnnotatorNotes T881	SO:0000902 (transgene)
+T882	GO_BP 22868 22874	create
+#882	AnnotatorNotes T882	GO:0000003 (reproduction)
+T883	NCBITaxon 22877 22883	murine
+#883	AnnotatorNotes T883	NCBITaxon:39107 (Murinae)
+T884	SO 22942 22952	transgenic
+#884	AnnotatorNotes T884	SO:0000902 (transgene)
+T885	CHEBI 22996 23000	BCAA
+#885	AnnotatorNotes T885	CHEBI:22918 (branched chain amino acids)
+T886	NCBITaxon 23056 23061	mouse
+#886	AnnotatorNotes T886	NCBITaxon:10088 (Mus)
+T887	SO 23109 23119	transgenic
+#887	AnnotatorNotes T887	SO:0000902 (transgene)
+T888	GO_BP 23130 23137	express
+#888	AnnotatorNotes T888	GO:0010467 (gene expression)
+T889	EntrezGene 23138 23146	human E2
+#889	AnnotatorNotes T889	EG:1629
+T890	NCBITaxon 23138 23143	human
+#890	AnnotatorNotes T890	NCBITaxon:9606 (Homo sapiens)
+T891	PR 23144 23146	E2
+#891	AnnotatorNotes T891	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T892	EntrezGene 23163 23165	E2
+#892	AnnotatorNotes T892	EG:13171
+T893	PR 23163 23165	E2
+#893	AnnotatorNotes T893	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T894	SO 23195 23205	transgenic
+#894	AnnotatorNotes T894	SO:0000902 (transgene)
+T895	PR 23228 23231	LAP
+#895	AnnotatorNotes T895	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T896	SO 23236 23245	transgene
+#896	AnnotatorNotes T896	SO:0000902 (transgene)
+T897	EntrezGene 23256 23258	E2
+#897	AnnotatorNotes T897	EG:1629
+T898	PR 23256 23258	E2
+#898	AnnotatorNotes T898	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T899	SO 23259 23268	transgene
+#899	AnnotatorNotes T899	SO:0000902 (transgene)
+T900	PR 23284 23287	LAP
+#900	AnnotatorNotes T900	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T901	SO 23292 23301	transgene
+#901	AnnotatorNotes T901	SO:0000902 (transgene)
+T902	GO_BP 23307 23314	directs
+#902	AnnotatorNotes T902	GO:0065007 (biological regulation)
+T903	GO_BP 23345 23355	expression
+#903	AnnotatorNotes T903	GO:0010467 (gene expression)
+T904	CHEBI 23363 23375	tetracycline
+#904	AnnotatorNotes T904	CHEBI:27902 (tetracycline)
+T905	GO_BP 23376 23386	controlled
+#905	AnnotatorNotes T905	GO:0065007 (biological regulation)
+T906	GO_MF 23411 23431	transcription factor
+#906	AnnotatorNotes T906	GO:0003700 (transcription factor activity)
+T907	independent_continuant 23411 23431	transcription factor
+#907	AnnotatorNotes T907	independent_continuant
+T908	GO_BP 23411 23424	transcription
+#908	AnnotatorNotes T908	GO:0006350 (transcription)
+T909	GO_BP 23448 23458	expression
+#909	AnnotatorNotes T909	GO:0010467 (gene expression)
+T910	SO 23462 23471	promoters
+#910	AnnotatorNotes T910	SO:0000167 (promoter)
+T911	GO_BP 23501 23509	response
+#911	AnnotatorNotes T911	GO:0050896 (response to stimulus)
+T912	SO 23510 23517	element
+#912	AnnotatorNotes T912	SO:0000001 (region)
+T913	EntrezGene 23533 23535	E2
+#913	AnnotatorNotes T913	EG:1629
+T914	PR 23533 23535	E2
+#914	AnnotatorNotes T914	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T915	SO 23536 23545	transgene
+#915	AnnotatorNotes T915	SO:0000902 (transgene)
+T916	GO_BP 23562 23569	express
+#916	AnnotatorNotes T916	GO:0010467 (gene expression)
+T917	EntrezGene 23572 23580	human E2
+#917	AnnotatorNotes T917	EG:1629
+T918	NCBITaxon 23572 23577	human
+#918	AnnotatorNotes T918	NCBITaxon:9606 (Homo sapiens)
+T919	PR 23578 23580	E2
+#919	AnnotatorNotes T919	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T920	SO 23581 23585	cDNA
+#920	AnnotatorNotes T920	SO:0000756 (cDNA)
+T921	SO 23616 23624	promoter
+#921	AnnotatorNotes T921	SO:0000167 (promoter)
+T922	SO 23661 23671	Transgenic
+#922	AnnotatorNotes T922	SO:0000902 (transgene)
+T923	NCBITaxon 23672 23677	mouse
+#923	AnnotatorNotes T923	NCBITaxon:10088 (Mus)
+T924	GO_BP 23678 23688	production
+#924	AnnotatorNotes T924	GO:0000003 (reproduction)
+T925	italic 23711 23712	A
+#925	AnnotatorNotes T925	italic (null)
+T926	SO 23714 23724	Transgenic
+#926	AnnotatorNotes T926	SO:0000902 (transgene)
+T927	GO_BP 23742 23749	produce
+#927	AnnotatorNotes T927	GO:0000003 (reproduction)
+T928	NCBITaxon 23750 23754	mice
+#928	AnnotatorNotes T928	NCBITaxon:10088 (Mus)
+T929	GO_BP 23760 23767	express
+#929	AnnotatorNotes T929	GO:0010467 (gene expression)
+T930	EntrezGene 23768 23776	human E2
+#930	AnnotatorNotes T930	EG:1629
+T931	NCBITaxon 23768 23773	human
+#931	AnnotatorNotes T931	NCBITaxon:9606 (Homo sapiens)
+T932	PR 23774 23776	E2
+#932	AnnotatorNotes T932	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T933	PR 23778 23781	LAP
+#933	AnnotatorNotes T933	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T934	SO 23786 23796	transgenic
+#934	AnnotatorNotes T934	SO:0000902 (transgene)
+T935	NCBITaxon 23797 23801	mice
+#935	AnnotatorNotes T935	NCBITaxon:10088 (Mus)
+T936	NCBITaxon 23845 23849	mice
+#936	AnnotatorNotes T936	NCBITaxon:10088 (Mus)
+T937	GO_BP 23850 23857	express
+#937	AnnotatorNotes T937	GO:0010467 (gene expression)
+T938	CHEBI 23862 23874	tetracycline
+#938	AnnotatorNotes T938	CHEBI:27902 (tetracycline)
+T939	GO_BP 23875 23885	controlled
+#939	AnnotatorNotes T939	GO:0065007 (biological regulation)
+T940	PR 23931 23934	LAP
+#940	AnnotatorNotes T940	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T941	SO 23935 23943	promoter
+#941	AnnotatorNotes T941	SO:0000167 (promoter)
+T942	EntrezGene 23953 23955	E2
+#942	AnnotatorNotes T942	EG:1629
+T943	PR 23953 23955	E2
+#943	AnnotatorNotes T943	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T944	SO 23956 23965	transgene
+#944	AnnotatorNotes T944	SO:0000902 (transgene)
+T945	CHEBI 23979 23991	tetracycline
+#945	AnnotatorNotes T945	CHEBI:27902 (tetracycline)
+T946	GO_BP 23992 24000	response
+#946	AnnotatorNotes T946	GO:0050896 (response to stimulus)
+T947	SO 24001 24008	element
+#947	AnnotatorNotes T947	SO:0000001 (region)
+T948	SO 24030 24038	promoter
+#948	AnnotatorNotes T948	SO:0000167 (promoter)
+T949	SO 24042 24051	synthetic
+#949	AnnotatorNotes T949	SO:0000351 (synthetic_sequence)
+T950	SO 24052 24058	intron
+#950	AnnotatorNotes T950	SO:0000188 (intron)
+T951	EntrezGene 24076 24084	human E2
+#951	AnnotatorNotes T951	EG:1629
+T952	NCBITaxon 24076 24081	human
+#952	AnnotatorNotes T952	NCBITaxon:9606 (Homo sapiens)
+T953	PR 24082 24084	E2
+#953	AnnotatorNotes T953	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T954	sub 24083 24084	2
+#954	AnnotatorNotes T954	sub (null)
+T955	SO 24085 24089	cDNA
+#955	AnnotatorNotes T955	SO:0000756 (cDNA)
+T956	CHEBI 24094 24101	alanine
+#956	AnnotatorNotes T956	CHEBI:32441 (alanine residue)
+T957	SO 24094 24101	alanine
+#957	AnnotatorNotes T957	SO:0001435 (alanine)
+T958	italic 24112 24117	c-myc
+#958	AnnotatorNotes T958	italic (null)
+T959	PR 24112 24117	c-myc
+#959	AnnotatorNotes T959	PR:000000084 (c-myc protein)
+T960	SO 24118 24125	epitope
+#960	AnnotatorNotes T960	SO:0001018 (epitope)
+T961	independent_continuant 24126 24129	tag
+#961	AnnotatorNotes T961	independent_continuant
+T962	GO_MF 24126 24129	tag
+#962	AnnotatorNotes T962	GO:0031386 (protein tag)
+T963	NCBITaxon 24135 24139	SV40
+#963	AnnotatorNotes T963	NCBITaxon:10633 (Simian virus 40)
+T964	SO 24148 24172	polyadenylation sequence
+#964	AnnotatorNotes T964	SO:0000610 (polyA_sequence)
+T965	GO_BP 24148 24163	polyadenylation
+#965	AnnotatorNotes T965	GO:0043631 (RNA polyadenylation)
+T966	SO 24179 24188	construct
+#966	AnnotatorNotes T966	SO:0001037 (mobile_genetic_element)
+T967	GO_BP 24201 24207	create
+#967	AnnotatorNotes T967	GO:0000003 (reproduction)
+T968	SO 24225 24235	transgenic
+#968	AnnotatorNotes T968	SO:0000902 (transgene)
+T969	NCBITaxon 24236 24240	mice
+#969	AnnotatorNotes T969	NCBITaxon:10088 (Mus)
+T970	italic 24242 24243	B
+#970	AnnotatorNotes T970	italic (null)
+T971	EntrezGene 24270 24272	E2
+#971	AnnotatorNotes T971	EG:1629
+T972	PR 24270 24272	E2
+#972	AnnotatorNotes T972	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T973	CHEBI 24273 24280	protein
+#973	AnnotatorNotes T973	CHEBI:36080 (proteins)
+T974	NCBITaxon 24323 24327	mice
+#974	AnnotatorNotes T974	NCBITaxon:10088 (Mus)
+T975	EntrezGene 24353 24361	human E2
+#975	AnnotatorNotes T975	EG:1629
+T976	NCBITaxon 24353 24358	human
+#976	AnnotatorNotes T976	NCBITaxon:9606 (Homo sapiens)
+T977	PR 24359 24361	E2
+#977	AnnotatorNotes T977	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T978	CHEBI 24362 24369	protein
+#978	AnnotatorNotes T978	CHEBI:36080 (proteins)
+T979	NCBITaxon 24395 24399	mice
+#979	AnnotatorNotes T979	NCBITaxon:10088 (Mus)
+T980	NCBITaxon 24455 24462	animals
+#980	AnnotatorNotes T980	NCBITaxon:33208 (Metazoa)
+T981	EntrezGene 24503 24511	mouse E2
+#981	AnnotatorNotes T981	EG:13171
+T982	NCBITaxon 24503 24508	mouse
+#982	AnnotatorNotes T982	NCBITaxon:10088 (Mus)
+T983	PR 24509 24511	E2
+#983	AnnotatorNotes T983	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T984	NCBITaxon 24535 24542	animals
+#984	AnnotatorNotes T984	NCBITaxon:33208 (Metazoa)
+T985	italic 24562 24567	c-myc
+#985	AnnotatorNotes T985	italic (null)
+T986	PR 24562 24567	c-myc
+#986	AnnotatorNotes T986	PR:000000084 (c-myc protein)
+T987	GO_MF 24568 24571	tag
+#987	AnnotatorNotes T987	GO:0031386 (protein tag)
+T988	independent_continuant 24568 24571	tag
+#988	AnnotatorNotes T988	independent_continuant
+T989	GO_CC 24572 24580	antibody
+#989	AnnotatorNotes T989	GO:0019814 (immunoglobulin complex)
+T990	SO 24611 24620	transgene
+#990	AnnotatorNotes T990	SO:0000902 (transgene)
+T991	italic 24630 24635	c-myc
+#991	AnnotatorNotes T991	italic (null)
+T992	PR 24630 24635	c-myc
+#992	AnnotatorNotes T992	PR:000000084 (c-myc protein)
+T993	EntrezGene 24644 24652	human E2
+#993	AnnotatorNotes T993	EG:1629
+T994	NCBITaxon 24644 24649	human
+#994	AnnotatorNotes T994	NCBITaxon:9606 (Homo sapiens)
+T995	PR 24650 24652	E2
+#995	AnnotatorNotes T995	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T996	SO 24656 24666	transgenic
+#996	AnnotatorNotes T996	SO:0000902 (transgene)
+T997	NCBITaxon 24667 24671	mice
+#997	AnnotatorNotes T997	NCBITaxon:10088 (Mus)
+T998	italic 24725 24726	C
+#998	AnnotatorNotes T998	italic (null)
+T999	italic 24737 24738	D
+#999	AnnotatorNotes T999	italic (null)
+T1000	italic 24753 24754	E
+#1000	AnnotatorNotes T1000	italic (null)
+T1001	SO 24787 24796	transgene
+#1001	AnnotatorNotes T1001	SO:0000902 (transgene)
+T1002	EntrezGene 24805 24807	E2
+#1002	AnnotatorNotes T1002	EG:1629
+T1003	PR 24805 24807	E2
+#1003	AnnotatorNotes T1003	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1004	PR 24859 24864	actin
+#1004	AnnotatorNotes T1004	PR:000003676 (actin, cytoplasmic 1)
+T1005	GO_CC 24865 24873	antibody
+#1005	AnnotatorNotes T1005	GO:0019814 (immunoglobulin complex)
+T1006	CHEBI 24893 24900	protein
+#1006	AnnotatorNotes T1006	CHEBI:36080 (proteins)
+T1007	PR 24938 24941	LAP
+#1007	AnnotatorNotes T1007	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T1008	NCBITaxon 24946 24950	mice
+#1008	AnnotatorNotes T1008	NCBITaxon:10088 (Mus)
+T1009	GO_BP 24967 24975	produced
+#1009	AnnotatorNotes T1009	GO:0000003 (reproduction)
+T1010	GO_CC 25025 25035	Pronuclear
+#1010	AnnotatorNotes T1010	GO:0045120 (pronucleus)
+T1011	GO_BP 25063 25070	produce
+#1011	AnnotatorNotes T1011	GO:0000003 (reproduction)
+T1012	SO 25071 25081	transgenic
+#1012	AnnotatorNotes T1012	SO:0000902 (transgene)
+T1013	NCBITaxon 25082 25086	mice
+#1013	AnnotatorNotes T1013	NCBITaxon:10088 (Mus)
+T1014	EntrezGene 25109 25111	E2
+#1014	AnnotatorNotes T1014	EG:1629
+T1015	PR 25109 25111	E2
+#1015	AnnotatorNotes T1015	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1016	SO 25112 25121	transgene
+#1016	AnnotatorNotes T1016	SO:0000902 (transgene)
+T1017	SO 25174 25183	transgene
+#1017	AnnotatorNotes T1017	SO:0000902 (transgene)
+T1018	GO_BP 25234 25244	generation
+#1018	AnnotatorNotes T1018	GO:0000003 (reproduction)
+T1019	SO 25260 25270	transgenic
+#1019	AnnotatorNotes T1019	SO:0000902 (transgene)
+T1020	SO 25363 25372	transgene
+#1020	AnnotatorNotes T1020	SO:0000902 (transgene)
+T1021	GO_BP 25403 25411	breeding
+#1021	AnnotatorNotes T1021	GO:0007618 (mating)
+T1022	NCBITaxon 25456 25463	animals
+#1022	AnnotatorNotes T1022	NCBITaxon:33208 (Metazoa)
+T1023	SO 25477 25486	transgene
+#1023	AnnotatorNotes T1023	SO:0000902 (transgene)
+T1024	SO 25487 25502	insertion sites
+#1024	AnnotatorNotes T1024	SO:0000366 (insertion_site)
+T1025	SO 25487 25496	insertion
+#1025	AnnotatorNotes T1025	SO:0000046 (insert)
+T1026	GO_BP 25523 25534	established
+#1026	AnnotatorNotes T1026	GO:0000003 (reproduction)
+T1027	SO 25559 25569	transgenic
+#1027	AnnotatorNotes T1027	SO:0000902 (transgene)
+T1028	SO 25710 25719	transgene
+#1028	AnnotatorNotes T1028	SO:0000902 (transgene)
+T1029	SO 25778 25781	DNA
+#1029	AnnotatorNotes T1029	SO:0000352 (DNA)
+T1030	SO 25801 25811	Transgenic
+#1030	AnnotatorNotes T1030	SO:0000902 (transgene)
+T1031	EntrezGene 25816 25818	E2
+#1031	AnnotatorNotes T1031	EG:1629
+T1032	PR 25816 25818	E2
+#1032	AnnotatorNotes T1032	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1033	NCBITaxon 25819 25823	mice
+#1033	AnnotatorNotes T1033	NCBITaxon:10088 (Mus)
+T1034	NCBITaxon 25889 25893	mice
+#1034	AnnotatorNotes T1034	NCBITaxon:10088 (Mus)
+T1035	PR 25921 25924	LAP
+#1035	AnnotatorNotes T1035	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T1036	SO 25929 25938	transgene
+#1036	AnnotatorNotes T1036	SO:0000902 (transgene)
+T1037	EntrezGene 25969 25971	E2
+#1037	AnnotatorNotes T1037	EG:13171
+T1038	PR 25969 25971	E2
+#1038	AnnotatorNotes T1038	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1039	GO_BP 25994 26002	breeding
+#1039	AnnotatorNotes T1039	GO:0007618 (mating)
+T1040	NCBITaxon 26032 26036	mice
+#1040	AnnotatorNotes T1040	NCBITaxon:10088 (Mus)
+T1041	PR 26063 26066	LAP
+#1041	AnnotatorNotes T1041	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T1042	SO 26071 26080	transgene
+#1042	AnnotatorNotes T1042	SO:0000902 (transgene)
+T1043	EntrezGene 26090 26092	E2
+#1043	AnnotatorNotes T1043	EG:1629
+T1044	PR 26090 26092	E2
+#1044	AnnotatorNotes T1044	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1045	SO 26093 26102	transgene
+#1045	AnnotatorNotes T1045	SO:0000902 (transgene)
+T1046	EntrezGene 26112 26114	E2
+#1046	AnnotatorNotes T1046	EG:13171
+T1047	PR 26112 26114	E2
+#1047	AnnotatorNotes T1047	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1048	sub 26113 26114	2
+#1048	AnnotatorNotes T1048	sub (null)
+T1049	SO 26170 26180	transgenes
+#1049	AnnotatorNotes T1049	SO:0000902 (transgene)
+T1050	GO_BP 26267 26275	breeding
+#1050	AnnotatorNotes T1050	GO:0007618 (mating)
+T1051	NCBITaxon 26335 26342	animals
+#1051	AnnotatorNotes T1051	NCBITaxon:33208 (Metazoa)
+T1052	SO 26352 26358	rescue
+#1052	AnnotatorNotes T1052	SO:0000814 (rescue)
+T1053	SO 26359 26367	genotype
+#1053	AnnotatorNotes T1053	SO:0001027 (genotype)
+T1054	EntrezGene 26386 26388	E2
+#1054	AnnotatorNotes T1054	EG:13171
+T1055	PR 26386 26388	E2
+#1055	AnnotatorNotes T1055	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1056	SO 26420 26430	transgenes
+#1056	AnnotatorNotes T1056	SO:0000902 (transgene)
+T1057	NCBITaxon 26472 26476	mice
+#1057	AnnotatorNotes T1057	NCBITaxon:10088 (Mus)
+T1058	SO 26503 26509	rescue
+#1058	AnnotatorNotes T1058	SO:0000814 (rescue)
+T1059	SO 26510 26518	genotype
+#1059	AnnotatorNotes T1059	SO:0001027 (genotype)
+T1060	SO 26529 26539	transgenic
+#1060	AnnotatorNotes T1060	SO:0000902 (transgene)
+T1061	NCBITaxon 26653 26657	mice
+#1061	AnnotatorNotes T1061	NCBITaxon:10088 (Mus)
+T1062	SO 26752 26758	rescue
+#1062	AnnotatorNotes T1062	SO:0000814 (rescue)
+T1063	SO 26759 26767	genotype
+#1063	AnnotatorNotes T1063	SO:0001027 (genotype)
+T1064	SO 26784 26793	transgene
+#1064	AnnotatorNotes T1064	SO:0000902 (transgene)
+T1065	GO_BP 26850 26856	lethal
+#1065	AnnotatorNotes T1065	GO:0016265 (death)
+T1066	EntrezGene 26874 26876	E2
+#1066	AnnotatorNotes T1066	EG:13171
+T1067	PR 26874 26876	E2
+#1067	AnnotatorNotes T1067	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1068	GO_BP 26951 26957	lethal
+#1068	AnnotatorNotes T1068	GO:0016265 (death)
+T1069	GO_BP 26992 27000	produced
+#1069	AnnotatorNotes T1069	GO:0000003 (reproduction)
+T1070	NCBITaxon 27018 27025	animals
+#1070	AnnotatorNotes T1070	NCBITaxon:33208 (Metazoa)
+T1071	NCBITaxon 27127 27133	murine
+#1071	AnnotatorNotes T1071	NCBITaxon:10088 (Mus)
+T1072	italic 27141 27142	A
+#1072	AnnotatorNotes T1072	italic (null)
+T1073	SO 27165 27175	transgenic
+#1073	AnnotatorNotes T1073	SO:0000902 (transgene)
+T1074	NCBITaxon 27219 27223	mice
+#1074	AnnotatorNotes T1074	NCBITaxon:10088 (Mus)
+T1075	SO 27251 27261	transgenic
+#1075	AnnotatorNotes T1075	SO:0000902 (transgene)
+T1076	SO 27287 27293	rescue
+#1076	AnnotatorNotes T1076	SO:0000814 (rescue)
+T1077	SO 27294 27302	genotype
+#1077	AnnotatorNotes T1077	SO:0001027 (genotype)
+T1078	EntrezGene 27348 27350	E2
+#1078	AnnotatorNotes T1078	EG:13171
+T1079	PR 27348 27350	E2
+#1079	AnnotatorNotes T1079	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1080	PR 27377 27380	LAP
+#1080	AnnotatorNotes T1080	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T1081	EntrezGene 27393 27395	E2
+#1081	AnnotatorNotes T1081	EG:1629
+T1082	PR 27393 27395	E2
+#1082	AnnotatorNotes T1082	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1083	SO 27396 27406	transgenes
+#1083	AnnotatorNotes T1083	SO:0000902 (transgene)
+T1084	SO 27473 27481	genotype
+#1084	AnnotatorNotes T1084	SO:0001027 (genotype)
+T1085	NCBITaxon 27516 27523	animals
+#1085	AnnotatorNotes T1085	NCBITaxon:33208 (Metazoa)
+T1086	italic 27602 27603	B
+#1086	AnnotatorNotes T1086	italic (null)
+T1087	CHEBI 27620 27624	BCAA
+#1087	AnnotatorNotes T1087	CHEBI:22918 (branched chain amino acids)
+T1088	CHEBI 27628 27635	alanine
+#1088	AnnotatorNotes T1088	CHEBI:16449 (alanine)
+T1089	NCBITaxon 27648 27652	mice
+#1089	AnnotatorNotes T1089	NCBITaxon:10088 (Mus)
+T1090	CHEBI 27695 27699	BCAA
+#1090	AnnotatorNotes T1090	CHEBI:22918 (branched chain amino acids)
+T1091	CHEBI 27721 27728	leucine
+#1091	AnnotatorNotes T1091	CHEBI:25017 (leucine)
+T1092	CHEBI 27730 27740	isoleucine
+#1092	AnnotatorNotes T1092	CHEBI:24898 (isoleucine)
+T1093	CHEBI 27746 27752	valine
+#1093	AnnotatorNotes T1093	CHEBI:27266 (valine)
+T1094	CHEBI 27754 27758	BCAA
+#1094	AnnotatorNotes T1094	CHEBI:22918 (branched chain amino acids)
+T1095	CHEBI 27759 27766	alanine
+#1095	AnnotatorNotes T1095	CHEBI:16449 (alanine)
+T1096	italic 27958 27959	C
+#1096	AnnotatorNotes T1096	italic (null)
+T1097	GO_CC 27961 27966	BCKDH
+#1097	AnnotatorNotes T1097	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1098	SO 27967 27973	enzyme
+#1098	AnnotatorNotes T1098	SO:0001185 (enzymatic)
+T1099	NCBITaxon 28024 28028	mice
+#1099	AnnotatorNotes T1099	NCBITaxon:10088 (Mus)
+T1100	italic 28060 28061	D
+#1100	AnnotatorNotes T1100	italic (null)
+T1101	NCBITaxon 28083 28087	mice
+#1101	AnnotatorNotes T1101	NCBITaxon:10088 (Mus)
+T1102	SO 28111 28117	Rescue
+#1102	AnnotatorNotes T1102	SO:0000814 (rescue)
+T1103	NCBITaxon 28118 28122	mice
+#1103	AnnotatorNotes T1103	NCBITaxon:10088 (Mus)
+T1104	GO_BP 28222 28226	dead
+#1104	AnnotatorNotes T1104	GO:0016265 (death)
+T1105	CHEBI 28341 28351	amino acid
+#1105	AnnotatorNotes T1105	CHEBI:33709 (amino acids)
+T1106	CHEBI 28341 28346	amino
+#1106	AnnotatorNotes T1106	CHEBI:46882 (amino group)
+T1107	CHEBI 28341 28346	amino
+#1107	AnnotatorNotes T1107	CHEBI:32952 (amines)
+T1108	CHEBI 28391 28395	BCAA
+#1108	AnnotatorNotes T1108	CHEBI:22918 (branched chain amino acids)
+T1109	CHEBI 28399 28406	alanine
+#1109	AnnotatorNotes T1109	CHEBI:16449 (alanine)
+T1110	CHEBI 28412 28416	BCAA
+#1110	AnnotatorNotes T1110	CHEBI:22918 (branched chain amino acids)
+T1111	CHEBI 28417 28424	alanine
+#1111	AnnotatorNotes T1111	CHEBI:16449 (alanine)
+T1112	NCBITaxon 28436 28440	mice
+#1112	AnnotatorNotes T1112	NCBITaxon:10088 (Mus)
+T1113	CHEBI 28557 28561	BCAA
+#1113	AnnotatorNotes T1113	CHEBI:22918 (branched chain amino acids)
+T1114	CHEBI 28562 28569	alanine
+#1114	AnnotatorNotes T1114	CHEBI:16449 (alanine)
+T1115	SO 28585 28595	transgenic
+#1115	AnnotatorNotes T1115	SO:0000902 (transgene)
+T1116	NCBITaxon 28596 28600	mice
+#1116	AnnotatorNotes T1116	NCBITaxon:10088 (Mus)
+T1117	CHEBI 28682 28689	alanine
+#1117	AnnotatorNotes T1117	CHEBI:16449 (alanine)
+T1118	CHEBI 28691 28700	glutamate
+#1118	AnnotatorNotes T1118	CHEBI:14321 (glutamate(1-))
+T1119	CHEBI 28691 28700	glutamate
+#1119	AnnotatorNotes T1119	CHEBI:29987 (glutamate(2-))
+T1120	CHEBI 28706 28715	glutamine
+#1120	AnnotatorNotes T1120	CHEBI:28300 (glutamine)
+T1121	NCBITaxon 28739 28743	mice
+#1121	AnnotatorNotes T1121	NCBITaxon:10088 (Mus)
+T1122	CHEBI 28752 28761	glutamate
+#1122	AnnotatorNotes T1122	CHEBI:14321 (glutamate(1-))
+T1123	CHEBI 28752 28761	glutamate
+#1123	AnnotatorNotes T1123	CHEBI:29987 (glutamate(2-))
+T1124	NCBITaxon 28775 28779	mice
+#1124	AnnotatorNotes T1124	NCBITaxon:10088 (Mus)
+T1125	CHEBI 28851 28861	amino acid
+#1125	AnnotatorNotes T1125	CHEBI:33709 (amino acids)
+T1126	CHEBI 28851 28856	amino
+#1126	AnnotatorNotes T1126	CHEBI:46882 (amino group)
+T1127	CHEBI 28851 28856	amino
+#1127	AnnotatorNotes T1127	CHEBI:32952 (amines)
+T1128	NCBITaxon 28995 28999	mice
+#1128	AnnotatorNotes T1128	NCBITaxon:10088 (Mus)
+T1129	PR 29234 29237	LAP
+#1129	AnnotatorNotes T1129	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T1130	NCBITaxon 29242 29246	mice
+#1130	AnnotatorNotes T1130	NCBITaxon:10088 (Mus)
+T1131	GO_BP 29265 29270	drive
+#1131	AnnotatorNotes T1131	GO:0048518 (positive regulation of biological process)
+T1132	GO_BP 29271 29281	expression
+#1132	AnnotatorNotes T1132	GO:0010467 (gene expression)
+T1133	SO 29285 29295	transgenic
+#1133	AnnotatorNotes T1133	SO:0000902 (transgene)
+T1134	EntrezGene 29296 29304	human E2
+#1134	AnnotatorNotes T1134	EG:1629
+T1135	NCBITaxon 29296 29301	human
+#1135	AnnotatorNotes T1135	NCBITaxon:9606 (Homo sapiens)
+T1136	PR 29302 29304	E2
+#1136	AnnotatorNotes T1136	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1137	GO_BP 29354 29364	expression
+#1137	AnnotatorNotes T1137	GO:0010467 (gene expression)
+T1138	GO_CC 29371 29376	BCKDH
+#1138	AnnotatorNotes T1138	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1139	SO 29377 29383	enzyme
+#1139	AnnotatorNotes T1139	SO:0001185 (enzymatic)
+T1140	GO_BP 29397 29427	production of human E2 protein
+#1140	AnnotatorNotes T1140	"production of .. protein" GO:0006412 (translation)
+T1141	EntrezGene 29411 29419	human E2
+#1141	AnnotatorNotes T1141	EG:1629
+T1142	NCBITaxon 29411 29416	human
+#1142	AnnotatorNotes T1142	NCBITaxon:9606 (Homo sapiens)
+T1143	PR 29417 29419	E2
+#1143	AnnotatorNotes T1143	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1144	CHEBI 29420 29427	protein
+#1144	AnnotatorNotes T1144	CHEBI:36080 (proteins)
+T1145	GO_CC 29471 29476	BCKDH
+#1145	AnnotatorNotes T1145	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1146	SO 29477 29486	enzymatic
+#1146	AnnotatorNotes T1146	SO:0001185 (enzymatic)
+T1147	SO 29563 29572	enzymatic
+#1147	AnnotatorNotes T1147	SO:0001185 (enzymatic)
+T1148	EntrezGene 29653 29661	human E2
+#1148	AnnotatorNotes T1148	EG:1629
+T1149	NCBITaxon 29653 29658	human
+#1149	AnnotatorNotes T1149	NCBITaxon:9606 (Homo sapiens)
+T1150	PR 29659 29661	E2
+#1150	AnnotatorNotes T1150	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1151	SO 29692 29702	transgenic
+#1151	AnnotatorNotes T1151	SO:0000902 (transgene)
+T1152	NCBITaxon 29703 29707	mice
+#1152	AnnotatorNotes T1152	NCBITaxon:10088 (Mus)
+T1153	NCBITaxon 29735 29739	mice
+#1153	AnnotatorNotes T1153	NCBITaxon:10088 (Mus)
+T1154	SO 29758 29768	transgenic
+#1154	AnnotatorNotes T1154	SO:0000902 (transgene)
+T1155	NCBITaxon 29769 29773	mice
+#1155	AnnotatorNotes T1155	NCBITaxon:10088 (Mus)
+T1156	EntrezGene 29788 29796	human E2
+#1156	AnnotatorNotes T1156	EG:1629
+T1157	NCBITaxon 29788 29793	human
+#1157	AnnotatorNotes T1157	NCBITaxon:9606 (Homo sapiens)
+T1158	PR 29794 29796	E2
+#1158	AnnotatorNotes T1158	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1159	EntrezGene 29838 29846	mouse E2
+#1159	AnnotatorNotes T1159	EG:13171
+T1160	NCBITaxon 29838 29843	mouse
+#1160	AnnotatorNotes T1160	NCBITaxon:10088 (Mus)
+T1161	PR 29844 29846	E2
+#1161	AnnotatorNotes T1161	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1162	GO_BP 29856 29864	produced
+#1162	AnnotatorNotes T1162	GO:0009058 (biosynthetic process)
+T1163	NCBITaxon 29899 29903	mice
+#1163	AnnotatorNotes T1163	NCBITaxon:10088 (Mus)
+T1164	EntrezGene 29956 29958	E2
+#1164	AnnotatorNotes T1164	EG:1629
+T1165	PR 29956 29958	E2
+#1165	AnnotatorNotes T1165	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1166	CHEBI 29959 29966	protein
+#1166	AnnotatorNotes T1166	CHEBI:36080 (proteins)
+T1167	GO_CC 29998 30003	BCKDH
+#1167	AnnotatorNotes T1167	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1168	SO 30004 30010	enzyme
+#1168	AnnotatorNotes T1168	SO:0001185 (enzymatic)
+T1169	SO 30033 30042	transgene
+#1169	AnnotatorNotes T1169	SO:0000902 (transgene)
+T1170	EntrezGene 30051 30053	E2
+#1170	AnnotatorNotes T1170	EG:1629
+T1171	PR 30051 30053	E2
+#1171	AnnotatorNotes T1171	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1172	italic 30116 30121	c-myc
+#1172	AnnotatorNotes T1172	italic (null)
+T1173	PR 30116 30121	c-myc
+#1173	AnnotatorNotes T1173	PR:000000084 (c-myc protein)
+T1174	GO_MF 30122 30125	tag
+#1174	AnnotatorNotes T1174	GO:0031386 (protein tag)
+T1175	independent_continuant 30122 30125	tag
+#1175	AnnotatorNotes T1175	independent_continuant
+T1176	SO 30133 30149	carboxy terminus
+#1176	AnnotatorNotes T1176	SO:0100015 (c_terminal_region)
+T1177	CHEBI 30133 30140	carboxy
+#1177	AnnotatorNotes T1177	CHEBI:46883 (carboxy group)
+T1178	CHEBI 30133 30140	carboxy
+#1178	AnnotatorNotes T1178	CHEBI:18245 (carboxylato group)
+T1179	SO 30157 30166	transgene
+#1179	AnnotatorNotes T1179	SO:0000902 (transgene)
+T1180	EntrezGene 30175 30183	human E2
+#1180	AnnotatorNotes T1180	EG:1629
+T1181	NCBITaxon 30175 30180	human
+#1181	AnnotatorNotes T1181	NCBITaxon:9606 (Homo sapiens)
+T1182	PR 30181 30183	E2
+#1182	AnnotatorNotes T1182	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1183	SO 30200 30209	enzymatic
+#1183	AnnotatorNotes T1183	SO:0001185 (enzymatic)
+T1184	SO 30305 30321	carboxy terminus
+#1184	AnnotatorNotes T1184	SO:0100015 (c_terminal_region)
+T1185	CHEBI 30305 30312	carboxy
+#1185	AnnotatorNotes T1185	CHEBI:46883 (carboxy group)
+T1186	CHEBI 30305 30312	carboxy
+#1186	AnnotatorNotes T1186	CHEBI:18245 (carboxylato group)
+T1187	GO_CC 30353 30383	pyruvate dehydrogenase complex
+#1187	AnnotatorNotes T1187	GO:0045254 (pyruvate dehydrogenase complex)
+T1188	GO_MF 30353 30375	pyruvate dehydrogenase
+#1188	AnnotatorNotes T1188	GO:0004738 (pyruvate dehydrogenase activity)
+T1189	independent_continuant 30353 30375	pyruvate dehydrogenase
+#1189	AnnotatorNotes T1189	independent_continuant
+T1190	CHEBI 30353 30361	pyruvate
+#1190	AnnotatorNotes T1190	CHEBI:15361 (pyruvate)
+T1191	SO 30431 30440	insertion
+#1191	AnnotatorNotes T1191	SO:0000046 (insert)
+T1192	GO_MF 30452 30455	tag
+#1192	AnnotatorNotes T1192	GO:0031386 (protein tag)
+T1193	independent_continuant 30452 30455	tag
+#1193	AnnotatorNotes T1193	independent_continuant
+T1194	SO 30463 30479	carboxy terminus
+#1194	AnnotatorNotes T1194	SO:0100015 (c_terminal_region)
+T1195	CHEBI 30463 30470	carboxy
+#1195	AnnotatorNotes T1195	CHEBI:46883 (carboxy group)
+T1196	CHEBI 30463 30470	carboxy
+#1196	AnnotatorNotes T1196	CHEBI:18245 (carboxylato group)
+T1197	italic 30496 30503	E. coli
+#1197	AnnotatorNotes T1197	italic (null)
+T1198	taxonomic_rank 30496 30503	E. coli
+#1198	AnnotatorNotes T1198	taxonomic_rank (null)
+T1199	NCBITaxon 30496 30503	E. coli
+#1199	AnnotatorNotes T1199	NCBITaxon:562 (Escherichia coli)
+T1200	GO_BP 30535 30551	subunit assembly
+#1200	AnnotatorNotes T1200	GO:0065003 (macromolecular complex assembly)
+T1201	EntrezGene 30583 30591	human E2
+#1201	AnnotatorNotes T1201	EG:1629
+T1202	NCBITaxon 30583 30588	human
+#1202	AnnotatorNotes T1202	NCBITaxon:9606 (Homo sapiens)
+T1203	PR 30589 30591	E2
+#1203	AnnotatorNotes T1203	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1204	GO_BP 30622 30631	complexed
+#1204	AnnotatorNotes T1204	GO:0065003 (macromolecular complex assembly)
+T1205	EntrezGene 30637 30661	mouse E1 and E3 subunits
+#1205	AnnotatorNotes T1205	"mouse .. E3 subunits" EG:13382
+T1206	NCBITaxon 30637 30642	mouse
+#1206	AnnotatorNotes T1206	NCBITaxon:10088 (Mus)
+T1207	PR 30650 30661	E3 subunits
+#1207	AnnotatorNotes T1207	PR:000006506 (dihydrolipoyl dehydrogenase, mitochondrial)
+T1208	EntrezGene 30663 30671	Human E2
+#1208	AnnotatorNotes T1208	EG:1629
+T1209	NCBITaxon 30663 30668	Human
+#1209	AnnotatorNotes T1209	NCBITaxon:9606 (Homo sapiens)
+T1210	PR 30669 30671	E2
+#1210	AnnotatorNotes T1210	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1211	EntrezGene 30696 30704	mouse E2
+#1211	AnnotatorNotes T1211	EG:13171
+T1212	NCBITaxon 30696 30701	mouse
+#1212	AnnotatorNotes T1212	NCBITaxon:10088 (Mus)
+T1213	PR 30702 30704	E2
+#1213	AnnotatorNotes T1213	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1214	CHEBI 30712 30722	amino acid
+#1214	AnnotatorNotes T1214	CHEBI:33708 (amino-acid residue)
+T1215	SO 30712 30722	amino acid
+#1215	AnnotatorNotes T1215	SO:0001237 (amino_acid)
+T1216	CHEBI 30712 30717	amino
+#1216	AnnotatorNotes T1216	CHEBI:46882 (amino group)
+T1217	CHEBI 30712 30717	amino
+#1217	AnnotatorNotes T1217	CHEBI:32952 (amines)
+T1218	CHEBI 30718 30722	acid
+#1218	AnnotatorNotes T1218	CHEBI:37527 (acid)
+T1219	GO_BP 30776 30786	expression
+#1219	AnnotatorNotes T1219	GO:0010467 (gene expression)
+T1220	EntrezGene 30794 30796	E2
+#1220	AnnotatorNotes T1220	EG:1629
+T1221	PR 30794 30796	E2
+#1221	AnnotatorNotes T1221	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1222	SO 30797 30806	transgene
+#1222	AnnotatorNotes T1222	SO:0000902 (transgene)
+T1223	GO_BP 30882 30892	expression
+#1223	AnnotatorNotes T1223	GO:0010467 (gene expression)
+T1224	EntrezGene 30896 30898	E2
+#1224	AnnotatorNotes T1224	EG:1629
+T1225	PR 30896 30898	E2
+#1225	AnnotatorNotes T1225	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1226	NCBITaxon 30958 30962	mice
+#1226	AnnotatorNotes T1226	NCBITaxon:10088 (Mus)
+T1227	SO 30978 30988	transgenic
+#1227	AnnotatorNotes T1227	SO:0000902 (transgene)
+T1228	NCBITaxon 31082 31089	animals
+#1228	AnnotatorNotes T1228	NCBITaxon:33208 (Metazoa)
+T1229	NCBITaxon 31160 31164	mice
+#1229	AnnotatorNotes T1229	NCBITaxon:10088 (Mus)
+T1230	NCBITaxon 31199 31203	mice
+#1230	AnnotatorNotes T1230	NCBITaxon:10088 (Mus)
+T1231	GO_BP 31267 31271	dead
+#1231	AnnotatorNotes T1231	GO:0016265 (death)
+T1232	NCBITaxon 31369 31373	mice
+#1232	AnnotatorNotes T1232	NCBITaxon:10088 (Mus)
+T1233	GO_BP 31427 31431	died
+#1233	AnnotatorNotes T1233	GO:0016265 (death)
+T1234	NCBITaxon 31488 31492	mice
+#1234	AnnotatorNotes T1234	NCBITaxon:10088 (Mus)
+T1235	CHEBI 31497 31501	BCAA
+#1235	AnnotatorNotes T1235	CHEBI:22918 (branched chain amino acids)
+T1236	CHEBI 31502 31509	alanine
+#1236	AnnotatorNotes T1236	CHEBI:16449 (alanine)
+T1237	GO_BP 31580 31589	expressed
+#1237	AnnotatorNotes T1237	GO:0010467 (gene expression)
+T1238	GO_CC 31606 31611	BCKDH
+#1238	AnnotatorNotes T1238	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1239	SO 31612 31618	enzyme
+#1239	AnnotatorNotes T1239	SO:0001185 (enzymatic)
+T1240	NCBITaxon 31813 31817	mice
+#1240	AnnotatorNotes T1240	NCBITaxon:10088 (Mus)
+T1241	NCBITaxon 31993 31999	animal
+#1241	AnnotatorNotes T1241	NCBITaxon:33208 (Metazoa)
+T1242	GO_BP 32089 32100	development
+#1242	AnnotatorNotes T1242	GO:0000003 (reproduction)
+T1243	SO 32129 32140	genetically
+#1243	AnnotatorNotes T1243	SO:0000704 (gene)
+T1244	GO_BP 32141 32151	engineered
+#1244	AnnotatorNotes T1244	GO:0000003 (reproduction)
+T1245	NCBITaxon 32152 32157	mouse
+#1245	AnnotatorNotes T1245	NCBITaxon:10088 (Mus)
+T1246	GO_BP 32306 32313	created
+#1246	AnnotatorNotes T1246	GO:0000003 (reproduction)
+T1247	SO 32317 32321	gene
+#1247	AnnotatorNotes T1247	SO:0000704 (gene)
+T1248	EntrezGene 32338 32357	E2 subunit of BCKDH
+#1248	AnnotatorNotes T1248	EG:13171
+T1249	PR 32338 32357	E2 subunit of BCKDH
+#1249	AnnotatorNotes T1249	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1250	GO_CC 32352 32357	BCKDH
+#1250	AnnotatorNotes T1250	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1251	NCBITaxon 32391 32398	animals
+#1251	AnnotatorNotes T1251	NCBITaxon:33208 (Metazoa)
+T1252	NCBITaxon 32424 32430	humans
+#1252	AnnotatorNotes T1252	NCBITaxon:9606 (Homo sapiens)
+T1253	NCBITaxon 32459 32463	mice
+#1253	AnnotatorNotes T1253	NCBITaxon:10088 (Mus)
+T1254	GO_BP 32469 32473	born
+#1254	AnnotatorNotes T1254	GO:0007567 (parturition)
+T1255	GO_BP 32523 32528	birth
+#1255	AnnotatorNotes T1255	GO:0007567 (parturition)
+T1256	GO_BP 32546 32551	birth
+#1256	AnnotatorNotes T1256	GO:0007567 (parturition)
+T1257	GO_BP 32566 32574	suckling
+#1257	AnnotatorNotes T1257	GO:0001967 (suckling behavior)
+T1258	CHEBI 32592 32596	BCAA
+#1258	AnnotatorNotes T1258	CHEBI:22918 (branched chain amino acids)
+T1259	CHEBI 32650 32661	amino acids
+#1259	AnnotatorNotes T1259	CHEBI:33709 (amino acids)
+T1260	CHEBI 32650 32655	amino
+#1260	AnnotatorNotes T1260	CHEBI:46882 (amino group)
+T1261	CHEBI 32650 32655	amino
+#1261	AnnotatorNotes T1261	CHEBI:32952 (amines)
+T1262	CHEBI 32662 32669	alanine
+#1262	AnnotatorNotes T1262	CHEBI:16449 (alanine)
+T1263	CHEBI 32671 32680	glutamate
+#1263	AnnotatorNotes T1263	CHEBI:14321 (glutamate(1-))
+T1264	CHEBI 32671 32680	glutamate
+#1264	AnnotatorNotes T1264	CHEBI:29987 (glutamate(2-))
+T1265	CHEBI 32686 32695	glutamine
+#1265	AnnotatorNotes T1265	CHEBI:28300 (glutamine)
+T1266	GO_BP 32703 32712	synthesis
+#1266	AnnotatorNotes T1266	GO:0009058 (biosynthetic process)
+T1267	GO_BP 32735 32753	metabolism of BCAA
+#1267	AnnotatorNotes T1267	GO:0009081 (branched chain family amino acid metabolic process)
+T1268	CHEBI 32749 32753	BCAA
+#1268	AnnotatorNotes T1268	CHEBI:22918 (branched chain amino acids)
+T1269	GO_CC 32797 32802	BCKDH
+#1269	AnnotatorNotes T1269	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1270	NCBITaxon 32836 32841	mouse
+#1270	AnnotatorNotes T1270	NCBITaxon:10088 (Mus)
+T1271	CHEBI 32914 32918	BCAA
+#1271	AnnotatorNotes T1271	CHEBI:22918 (branched chain amino acids)
+T1272	EntrezGene 32935 32937	E2
+#1272	AnnotatorNotes T1272	EG:13171
+T1273	PR 32935 32937	E2
+#1273	AnnotatorNotes T1273	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1274	CHEBI 32938 32945	protein
+#1274	AnnotatorNotes T1274	CHEBI:36080 (proteins)
+T1275	CL 32970 32981	fibroblasts
+#1275	AnnotatorNotes T1275	CL:0000057 (fibroblast)
+T1276	GO_BP 33017 33025	behavior
+#1276	AnnotatorNotes T1276	GO:0007610 (behavior)
+T1277	NCBITaxon 33040 33045	mouse
+#1277	AnnotatorNotes T1277	NCBITaxon:10088 (Mus)
+T1278	GO_BP 33199 33213	motor activity
+#1278	AnnotatorNotes T1278	GO:0050879 (multicellular organismal movement)
+T1279	CHEBI 33309 33318	glutamate
+#1279	AnnotatorNotes T1279	CHEBI:14321 (glutamate(1-))
+T1280	CHEBI 33309 33318	glutamate
+#1280	AnnotatorNotes T1280	CHEBI:29987 (glutamate(2-))
+T1281	CHEBI 33320 33329	glutamine
+#1281	AnnotatorNotes T1281	CHEBI:28300 (glutamine)
+T1282	CHEBI 33331 33338	alanine
+#1282	AnnotatorNotes T1282	CHEBI:16449 (alanine)
+T1283	CHEBI 33370 33381	amino acids
+#1283	AnnotatorNotes T1283	CHEBI:33709 (amino acids)
+T1284	CHEBI 33370 33375	amino
+#1284	AnnotatorNotes T1284	CHEBI:46882 (amino group)
+T1285	CHEBI 33370 33375	amino
+#1285	AnnotatorNotes T1285	CHEBI:32952 (amines)
+T1286	GO_BP 33505 33509	died
+#1286	AnnotatorNotes T1286	GO:0016265 (death)
+T1287	GO_BP 33529 33534	birth
+#1287	AnnotatorNotes T1287	GO:0007567 (parturition)
+T1288	CHEBI 33597 33601	BCAA
+#1288	AnnotatorNotes T1288	CHEBI:22918 (branched chain amino acids)
+T1289	CHEBI 33809 33813	BCAA
+#1289	AnnotatorNotes T1289	CHEBI:22918 (branched chain amino acids)
+T1290	GO_CC 33851 33856	BCKDH
+#1290	AnnotatorNotes T1290	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1291	SO 33857 33866	enzymatic
+#1291	AnnotatorNotes T1291	SO:0001185 (enzymatic)
+T1292	SO 33940 33948	mutation
+#1292	AnnotatorNotes T1292	SO:0001059 (sequence_alteration)
+T1293	NCBITaxon 33949 33954	mouse
+#1293	AnnotatorNotes T1293	NCBITaxon:10088 (Mus)
+T1294	NCBITaxon 34043 34048	human
+#1294	AnnotatorNotes T1294	NCBITaxon:9606 (Homo sapiens)
+T1295	GO_BP 34113 34119	create
+#1295	AnnotatorNotes T1295	GO:0000003 (reproduction)
+T1296	SO 34160 34170	transgenic
+#1296	AnnotatorNotes T1296	SO:0000902 (transgene)
+T1297	GO_BP 34183 34190	express
+#1297	AnnotatorNotes T1297	GO:0010467 (gene expression)
+T1298	EntrezGene 34191 34199	human E2
+#1298	AnnotatorNotes T1298	EG:1629
+T1299	NCBITaxon 34191 34196	human
+#1299	AnnotatorNotes T1299	NCBITaxon:9606 (Homo sapiens)
+T1300	PR 34197 34199	E2
+#1300	AnnotatorNotes T1300	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1301	EntrezGene 34216 34218	E2
+#1301	AnnotatorNotes T1301	EG:13171
+T1302	PR 34216 34218	E2
+#1302	AnnotatorNotes T1302	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1303	NCBITaxon 34228 34232	mice
+#1303	AnnotatorNotes T1303	NCBITaxon:10088 (Mus)
+T1304	EntrezGene 34254 34256	E2
+#1304	AnnotatorNotes T1304	EG:13171
+T1305	PR 34254 34256	E2
+#1305	AnnotatorNotes T1305	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1306	SO 34275 34284	transgene
+#1306	AnnotatorNotes T1306	SO:0000902 (transgene)
+T1307	EntrezGene 34293 34295	E2
+#1307	AnnotatorNotes T1307	EG:1629
+T1308	PR 34293 34295	E2
+#1308	AnnotatorNotes T1308	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1309	GO_BP 34296 34299	die
+#1309	AnnotatorNotes T1309	GO:0016265 (death)
+T1310	GO_BP 34347 34357	expression
+#1310	AnnotatorNotes T1310	GO:0010467 (gene expression)
+T1311	EntrezGene 34363 34371	human E2
+#1311	AnnotatorNotes T1311	EG:1629
+T1312	NCBITaxon 34363 34368	human
+#1312	AnnotatorNotes T1312	NCBITaxon:9606 (Homo sapiens)
+T1313	PR 34369 34371	E2
+#1313	AnnotatorNotes T1313	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1314	SO 34372 34381	transgene
+#1314	AnnotatorNotes T1314	SO:0000902 (transgene)
+T1315	NCBITaxon 34413 34417	mice
+#1315	AnnotatorNotes T1315	NCBITaxon:10088 (Mus)
+T1316	NCBITaxon 34479 34483	mice
+#1316	AnnotatorNotes T1316	NCBITaxon:10088 (Mus)
+T1317	NCBITaxon 34547 34552	mouse
+#1317	AnnotatorNotes T1317	NCBITaxon:10088 (Mus)
+T1318	GO_CC 34580 34585	BCKDH
+#1318	AnnotatorNotes T1318	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1319	CHEBI 34668 34672	BCAA
+#1319	AnnotatorNotes T1319	CHEBI:22918 (branched chain amino acids)
+T1320	NCBITaxon 34705 34709	mice
+#1320	AnnotatorNotes T1320	NCBITaxon:10088 (Mus)
+T1321	NCBITaxon 34795 34800	human
+#1321	AnnotatorNotes T1321	NCBITaxon:9606 (Homo sapiens)
+T1322	CHEBI 34847 34851	BCAA
+#1322	AnnotatorNotes T1322	CHEBI:22918 (branched chain amino acids)
+T1323	GO_CC 34856 34861	BCKDH
+#1323	AnnotatorNotes T1323	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1324	NCBITaxon 34961 34965	mice
+#1324	AnnotatorNotes T1324	NCBITaxon:10088 (Mus)
+T1325	NCBITaxon 34973 34978	human
+#1325	AnnotatorNotes T1325	NCBITaxon:9606 (Homo sapiens)
+T1326	SO 34995 35006	genetically
+#1326	AnnotatorNotes T1326	SO:0000704 (gene)
+T1327	GO_BP 35007 35017	engineered
+#1327	AnnotatorNotes T1327	GO:0000003 (reproduction)
+T1328	NCBITaxon 35018 35022	mice
+#1328	AnnotatorNotes T1328	NCBITaxon:10088 (Mus)
+T1329	NCBITaxon 35048 35054	animal
+#1329	AnnotatorNotes T1329	NCBITaxon:33208 (Metazoa)
+T1330	SO 35100 35110	transgenic
+#1330	AnnotatorNotes T1330	SO:0000902 (transgene)
+T1331	GO_BP 35137 35143	create
+#1331	AnnotatorNotes T1331	GO:0000003 (reproduction)
+T1332	CHEBI 35189 35201	tetracycline
+#1332	AnnotatorNotes T1332	CHEBI:27902 (tetracycline)
+T1333	GO_BP 35202 35211	regulated
+#1333	AnnotatorNotes T1333	GO:0065007 (biological regulation)
+T1334	SO 35212 35216	gene
+#1334	AnnotatorNotes T1334	SO:0000704 (gene)
+T1335	GO_BP 35345 35351	create
+#1335	AnnotatorNotes T1335	GO:0000003 (reproduction)
+T1336	NCBITaxon 35352 35356	mice
+#1336	AnnotatorNotes T1336	NCBITaxon:10088 (Mus)
+T1337	SO 35494 35502	rescuing
+#1337	AnnotatorNotes T1337	SO:0000814 (rescue)
+T1338	SO 35503 35512	transgene
+#1338	AnnotatorNotes T1338	SO:0000902 (transgene)
+T1339	EntrezGene 35567 35575	human E2
+#1339	AnnotatorNotes T1339	EG:1629
+T1340	NCBITaxon 35567 35572	human
+#1340	AnnotatorNotes T1340	NCBITaxon:9606 (Homo sapiens)
+T1341	PR 35573 35575	E2
+#1341	AnnotatorNotes T1341	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1342	GO_BP 35576 35586	expression
+#1342	AnnotatorNotes T1342	GO:0010467 (gene expression)
+T1343	SO 35587 35595	cassette
+#1343	AnnotatorNotes T1343	SO:0005853 (gene_cassette)
+T1344	CHEBI 35610 35622	tetracycline
+#1344	AnnotatorNotes T1344	CHEBI:27902 (tetracycline)
+T1345	SO 35666 35676	transgenic
+#1345	AnnotatorNotes T1345	SO:0000902 (transgene)
+T1346	SO 35807 35823	integration site
+#1346	AnnotatorNotes T1346	SO:0000366 (insertion_site)
+T1347	SO 35807 35818	integration
+#1347	AnnotatorNotes T1347	SO:0000046 (insert)
+T1348	SO 35831 35841	transgenes
+#1348	AnnotatorNotes T1348	SO:0000902 (transgene)
+T1349	GO_BP 35865 35874	regulated
+#1349	AnnotatorNotes T1349	GO:0065007 (biological regulation)
+T1350	GO_BP 35875 35885	expression
+#1350	AnnotatorNotes T1350	GO:0010467 (gene expression)
+T1351	GO_BP 35985 35994	regulated
+#1351	AnnotatorNotes T1351	GO:0065007 (biological regulation)
+T1352	CHEBI 36104 36107	ENU
+#1352	AnnotatorNotes T1352	CHEBI:23995 (ethyl nitrosourea)
+T1353	NCBITaxon 36108 36113	mouse
+#1353	AnnotatorNotes T1353	NCBITaxon:10088 (Mus)
+T1354	NCBITaxon 36125 36130	human
+#1354	AnnotatorNotes T1354	NCBITaxon:9606 (Homo sapiens)
+T1355	GO_BP 36151 36158	created
+#1355	AnnotatorNotes T1355	GO:0000003 (reproduction)
+T1356	EntrezGene 36177 36195	mitochondrial BCAT
+#1356	AnnotatorNotes T1356	EG:12036
+T1357	PR 36177 36195	mitochondrial BCAT
+#1357	AnnotatorNotes T1357	PR:000004683 (branched-chain-amino-acid aminotransferase, mitochondrial)
+T1358	GO_CC 36177 36190	mitochondrial
+#1358	AnnotatorNotes T1358	GO:0005739 (mitochondrion)
+T1359	independent_continuant 36191 36195	BCAT
+#1359	AnnotatorNotes T1359	independent_continuant
+T1360	GO_MF 36191 36195	BCAT
+#1360	AnnotatorNotes T1360	GO:0004084 (branched-chain-amino-acid transaminase activity)
+T1361	SO 36196 36200	gene
+#1361	AnnotatorNotes T1361	SO:0000704 (gene)
+T1362	GO_CC 36211 36216	BCKDH
+#1362	AnnotatorNotes T1362	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1363	NCBITaxon 36258 36263	mouse
+#1363	AnnotatorNotes T1363	NCBITaxon:10088 (Mus)
+T1364	CHEBI 36297 36301	BCAA
+#1364	AnnotatorNotes T1364	CHEBI:22918 (branched chain amino acids)
+T1365	SO 36412 36420	mutation
+#1365	AnnotatorNotes T1365	SO:0001059 (sequence_alteration)
+T1366	GO_CC 36431 36436	BCKDH
+#1366	AnnotatorNotes T1366	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1367	GO_CC 36455 36460	BCKDH
+#1367	AnnotatorNotes T1367	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1368	GO_MF 36549 36553	BCAT
+#1368	AnnotatorNotes T1368	GO:0004084 (branched-chain-amino-acid transaminase activity)
+T1369	EntrezGene 36549 36553	BCAT
+#1369	AnnotatorNotes T1369	EG:587
+T1370	PR 36549 36553	BCAT
+#1370	AnnotatorNotes T1370	PR:000004683 (branched-chain-amino-acid aminotransferase, mitochondrial)
+T1371	independent_continuant 36549 36553	BCAT
+#1371	AnnotatorNotes T1371	independent_continuant
+T1372	NCBITaxon 36586 36591	mouse
+#1372	AnnotatorNotes T1372	NCBITaxon:10088 (Mus)
+T1373	NCBITaxon 36601 36604	cow
+#1373	AnnotatorNotes T1373	NCBITaxon:9913 (Bos taurus)
+T1374	NCBITaxon 36725 36731	animal
+#1374	AnnotatorNotes T1374	NCBITaxon:33208 (Metazoa)
+T1375	NCBITaxon 36797 36800	cow
+#1375	AnnotatorNotes T1375	NCBITaxon:9913 (Bos taurus)
+T1376	NCBITaxon 36816 36822	humans
+#1376	AnnotatorNotes T1376	NCBITaxon:9606 (Homo sapiens)
+T1377	NCBITaxon 36884 36890	murine
+#1377	AnnotatorNotes T1377	NCBITaxon:39107 (Murinae)
+T1378	NCBITaxon 36967 36972	human
+#1378	AnnotatorNotes T1378	NCBITaxon:9606 (Homo sapiens)
+T1379	NCBITaxon 37035 37040	mouse
+#1379	AnnotatorNotes T1379	NCBITaxon:10088 (Mus)
+T1380	SO 37084 37088	gene
+#1380	AnnotatorNotes T1380	SO:0000704 (gene)
+T1381	CL 37101 37105	cell
+#1381	AnnotatorNotes T1381	CL:0000000 (cell)
+T1382	GO_CC 37101 37105	cell
+#1382	AnnotatorNotes T1382	GO:0005623 (cell)
+T1383	CL 37129 37140	hepatocytes
+#1383	AnnotatorNotes T1383	CL:0000182 (hepatocyte)
+T1384	CL 37162 37172	stem cells
+#1384	AnnotatorNotes T1384	CL:0000034 (stem cell)
+T1385	GO_CC 37167 37172	cells
+#1385	AnnotatorNotes T1385	GO:0005623 (cell)
+T1386	SO 37192 37196	gene
+#1386	AnnotatorNotes T1386	SO:0000704 (gene)
+T1387	SO 37227 37231	gene
+#1387	AnnotatorNotes T1387	SO:0000704 (gene)
+T1388	NCBITaxon 37243 37249	humans
+#1388	AnnotatorNotes T1388	NCBITaxon:9606 (Homo sapiens)
+T1389	NCBITaxon 37296 37302	animal
+#1389	AnnotatorNotes T1389	NCBITaxon:33208 (Metazoa)
+T1390	SO 37313 37320	genetic
+#1390	AnnotatorNotes T1390	SO:0000704 (gene)
+T1391	SO 37370 37374	gene
+#1391	AnnotatorNotes T1391	SO:0000704 (gene)
+T1392	CL 37379 37383	cell
+#1392	AnnotatorNotes T1392	CL:0000000 (cell)
+T1393	GO_CC 37379 37383	cell
+#1393	AnnotatorNotes T1393	GO:0005623 (cell)
+T1394	NCBITaxon 37415 37421	animal
+#1394	AnnotatorNotes T1394	NCBITaxon:33208 (Metazoa)
+T1395	NCBITaxon 37556 37562	animal
+#1395	AnnotatorNotes T1395	NCBITaxon:33208 (Metazoa)
+T1396	NCBITaxon 37660 37666	humans
+#1396	AnnotatorNotes T1396	NCBITaxon:9606 (Homo sapiens)
+T1397	NCBITaxon 37882 37887	human
+#1397	AnnotatorNotes T1397	NCBITaxon:9606 (Homo sapiens)
+T1398	CHEBI 38060 38067	thiamin
+#1398	AnnotatorNotes T1398	CHEBI:18385 (thiamine(1+))
+T1399	CHEBI 38071 38078	thiamin
+#1399	AnnotatorNotes T1399	CHEBI:18385 (thiamine(1+))
+T1400	GO_BP 38079 38089	responsive
+#1400	AnnotatorNotes T1400	GO:0050896 (response to stimulus)
+T1401	CL 38266 38270	cell
+#1401	AnnotatorNotes T1401	CL:0000000 (cell)
+T1402	GO_CC 38266 38270	cell
+#1402	AnnotatorNotes T1402	GO:0005623 (cell)
+T1403	CL 38297 38302	cells
+#1403	AnnotatorNotes T1403	CL:0000000 (cell)
+T1404	GO_CC 38297 38302	cells
+#1404	AnnotatorNotes T1404	GO:0005623 (cell)
+T1405	CHEBI 38327 38334	thiamin
+#1405	AnnotatorNotes T1405	CHEBI:18385 (thiamine(1+))
+T1406	GO_BP 38335 38345	responsive
+#1406	AnnotatorNotes T1406	GO:0050896 (response to stimulus)
+T1407	EntrezGene 38403 38405	E2
+#1407	AnnotatorNotes T1407	EG:1629
+T1408	PR 38403 38405	E2
+#1408	AnnotatorNotes T1408	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1409	GO_BP 38406 38416	expressing
+#1409	AnnotatorNotes T1409	GO:0010467 (gene expression)
+T1410	SO 38417 38423	allele
+#1410	AnnotatorNotes T1410	SO:0001023 (allele)
+T1411	NCBITaxon 38489 38494	mouse
+#1411	AnnotatorNotes T1411	NCBITaxon:10088 (Mus)
+T1412	CHEBI 38534 38541	thiamin
+#1412	AnnotatorNotes T1412	CHEBI:18385 (thiamine(1+))
+T1413	GO_CC 38558 38563	BCKDH
+#1413	AnnotatorNotes T1413	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1414	CHEBI 38583 38593	amino acid
+#1414	AnnotatorNotes T1414	CHEBI:33709 (amino acids)
+T1415	CHEBI 38583 38588	amino
+#1415	AnnotatorNotes T1415	CHEBI:46882 (amino group)
+T1416	CHEBI 38583 38588	amino
+#1416	AnnotatorNotes T1416	CHEBI:32952 (amines)
+T1417	NCBITaxon 38627 38633	animal
+#1417	AnnotatorNotes T1417	NCBITaxon:33208 (Metazoa)
+T1418	GO_CC 38700 38709	complexes
+#1418	AnnotatorNotes T1418	GO:0032991 (macromolecular complex)
+T1419	GO_CC 38964 38977	mitochondrial
+#1419	AnnotatorNotes T1419	GO:0005739 (mitochondrion)
+T1420	SO 39019 39026	enzymes
+#1420	AnnotatorNotes T1420	SO:0001185 (enzymatic)
+T1421	GO_BP 39079 39090	development
+#1421	AnnotatorNotes T1421	GO:0000003 (reproduction)
+T1422	SO 39115 39126	genetically
+#1422	AnnotatorNotes T1422	SO:0000704 (gene)
+T1423	GO_BP 39127 39137	engineered
+#1423	AnnotatorNotes T1423	GO:0000003 (reproduction)
+T1424	NCBITaxon 39138 39143	mouse
+#1424	AnnotatorNotes T1424	NCBITaxon:10088 (Mus)
+T1425	NCBITaxon 39198 39205	animals
+#1425	AnnotatorNotes T1425	NCBITaxon:33208 (Metazoa)
+T1426	SO 39342 39346	gene
+#1426	AnnotatorNotes T1426	SO:0000704 (gene)
+T1427	CL 39351 39359	cellular
+#1427	AnnotatorNotes T1427	CL:0000000 (cell)
+T1428	GO_CC 39351 39359	cellular
+#1428	AnnotatorNotes T1428	GO:0005623 (cell)
+T1429	GO_BP 39397 39406	metabolic
+#1429	AnnotatorNotes T1429	GO:0008152 (metabolic process)
+T1430	NCBITaxon 39466 39471	Maple
+#1430	AnnotatorNotes T1430	NCBITaxon:4022 (Acer)
+T1431	GO_CC 39493 39498	BCKDH
+#1431	AnnotatorNotes T1431	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1432	GO_CC 39500 39537	branched chain ketoacid dehydrogenase
+#1432	AnnotatorNotes T1432	GO:0017086 (3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex)
+T1433	GO_MF 39515 39537	ketoacid dehydrogenase
+#1433	AnnotatorNotes T1433	GO:0003826 (alpha-ketoacid dehydrogenase activity)
+T1434	independent_continuant 39515 39537	ketoacid dehydrogenase
+#1434	AnnotatorNotes T1434	independent_continuant
+T1435	CHEBI 39539 39543	BCAA
+#1435	AnnotatorNotes T1435	CHEBI:22918 (branched chain amino acids)
+T1436	CHEBI 39545 39571	branched chain amino acids
+#1436	AnnotatorNotes T1436	CHEBI:22918 (branched chain amino acids)
+T1437	CHEBI 39560 39565	amino
+#1437	AnnotatorNotes T1437	CHEBI:46882 (amino group)
+T1438	CHEBI 39560 39565	amino
+#1438	AnnotatorNotes T1438	CHEBI:32952 (amines)
+T1439	CHEBI 39573 39576	ENU
+#1439	AnnotatorNotes T1439	CHEBI:23995 (ethyl nitrosourea)
+T1440	CHEBI 39578 39599	N-ethyl-N-nitrosourea
+#1440	AnnotatorNotes T1440	CHEBI:23995 (ethyl nitrosourea)
+T1441	CHEBI 39578 39579	N
+#1441	AnnotatorNotes T1441	CHEBI:25555 (nitrogen)
+T1442	CHEBI 39580 39585	ethyl
+#1442	AnnotatorNotes T1442	CHEBI:37807 (ethyl group)
+T1443	CHEBI 39586 39587	N
+#1443	AnnotatorNotes T1443	CHEBI:25555 (nitrogen)
+T1444	independent_continuant 39601 39605	BCAT
+#1444	AnnotatorNotes T1444	independent_continuant
+T1445	PR 39601 39605	BCAT
+#1445	AnnotatorNotes T1445	PR:000004683 (branched-chain-amino-acid aminotransferase, mitochondrial)
+T1446	EntrezGene 39601 39605	BCAT
+#1446	AnnotatorNotes T1446	EG:587
+T1447	GO_MF 39601 39605	BCAT
+#1447	AnnotatorNotes T1447	GO:0004084 (branched-chain-amino-acid transaminase activity)
+T1448	GO_MF 39607 39638	branched chain aminotransferase
+#1448	AnnotatorNotes T1448	GO:0004084 (branched-chain-amino-acid transaminase activity)
+T1449	PR 39607 39638	branched chain aminotransferase
+#1449	AnnotatorNotes T1449	PR:000004683 (branched-chain-amino-acid aminotransferase, mitochondrial)
+T1450	EntrezGene 39607 39638	branched chain aminotransferase
+#1450	AnnotatorNotes T1450	EG:587
+T1451	independent_continuant 39607 39638	branched chain aminotransferase
+#1451	AnnotatorNotes T1451	independent_continuant
+T1452	CL 39643 39647	cell
+#1452	AnnotatorNotes T1452	CL:0000000 (cell)
+T1453	GO_CC 39643 39647	cell
+#1453	AnnotatorNotes T1453	GO:0005623 (cell)
+T1454	CL 39659 39668	stem cell
+#1454	AnnotatorNotes T1454	CL:0000034 (stem cell)
+T1455	GO_CC 39664 39668	cell
+#1455	AnnotatorNotes T1455	GO:0005623 (cell)
+T1456	CHEBI 39675 39687	tetracycline
+#1456	AnnotatorNotes T1456	CHEBI:27902 (tetracycline)
+T1457	GO_BP 39688 39698	responsive
+#1457	AnnotatorNotes T1457	GO:0050896 (response to stimulus)
+T1458	SO 39699 39706	element
+#1458	AnnotatorNotes T1458	SO:0000001 (region)
+T1459	NCBITaxon 39713 39718	mouse
+#1459	AnnotatorNotes T1459	NCBITaxon:10088 (Mus)
+T1460	CL 39729 39739	fibroblast
+#1460	AnnotatorNotes T1460	CL:0000057 (fibroblast)
+T1461	GO_BP 39866 39874	produced
+#1461	AnnotatorNotes T1461	GO:0000003 (reproduction)
+T1462	NCBITaxon 39879 39884	mouse
+#1462	AnnotatorNotes T1462	NCBITaxon:10088 (Mus)
+T1463	GO_BP 40060 40070	production
+#1463	AnnotatorNotes T1463	GO:0000003 (reproduction)
+T1464	NCBITaxon 40078 40083	mouse
+#1464	AnnotatorNotes T1464	NCBITaxon:10088 (Mus)
+T1465	PR 40666 40668	E2
+#1465	AnnotatorNotes T1465	PR:000006300 (lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial)
+T1466	GO_BP 40800 40809	Metabolic
+#1466	AnnotatorNotes T1466	GO:0008152 (metabolic process)

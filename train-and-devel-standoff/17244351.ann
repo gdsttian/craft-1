@@ -1,0 +1,1642 @@
+T1	SO 17 23	genome
+#1	AnnotatorNotes T1	SO:0001026 (genome)
+T2	SO 79 84	genes
+#2	AnnotatorNotes T2	SO:0000704 (gene)
+T3	SO 101 124	quantitative trait loci
+#3	AnnotatorNotes T3	SO:0000771 (QTL)
+T4	GO_CC 128 136	collagen
+#4	AnnotatorNotes T4	GO:0005581 (collagen)
+T5	PR 128 136	collagen
+#5	AnnotatorNotes T5	PR:000003262 (collagen alpha chain)
+T6	GO_BP 215 225	controlled
+#6	AnnotatorNotes T6	GO:0065007 (biological regulation)
+T7	SO 247 252	genes
+#7	AnnotatorNotes T7	SO:0000704 (gene)
+T8	SO 344 349	genes
+#8	AnnotatorNotes T8	SO:0000704 (gene)
+T9	SO 367 390	quantitative trait loci
+#9	AnnotatorNotes T9	SO:0000771 (QTL)
+T10	SO 392 395	QTL
+#10	AnnotatorNotes T10	SO:0000771 (QTL)
+T11	GO_CC 400 408	collagen
+#11	AnnotatorNotes T11	GO:0005581 (collagen)
+T12	PR 400 408	collagen
+#12	AnnotatorNotes T12	PR:000003262 (collagen alpha chain)
+T13	SO 446 452	genome
+#13	AnnotatorNotes T13	SO:0001026 (genome)
+T14	SO 503 509	genome
+#14	AnnotatorNotes T14	SO:0001026 (genome)
+T15	SO 613 616	QTL
+#15	AnnotatorNotes T15	SO:0000771 (QTL)
+T16	GO_BP 638 653	gene expression
+#16	AnnotatorNotes T16	GO:0010467 (gene expression)
+T17	SO 638 642	gene
+#17	AnnotatorNotes T17	SO:0000704 (gene)
+T18	SO 705 710	genes
+#18	AnnotatorNotes T18	SO:0000704 (gene)
+T19	SO 771 785	genomic region
+#19	AnnotatorNotes T19	SO:0000991 (genomic_DNA)
+T20	SO 771 778	genomic
+#20	AnnotatorNotes T20	SO:0001026 (genome)
+T21	GO_BP 842 851	expressed
+#21	AnnotatorNotes T21	GO:0010467 (gene expression)
+T22	GO_BP 908 917	expressed
+#22	AnnotatorNotes T22	GO:0010467 (gene expression)
+T23	SO 973 976	QTL
+#23	AnnotatorNotes T23	SO:0000771 (QTL)
+T24	GO_BP 977 988	controlling
+#24	AnnotatorNotes T24	GO:0065007 (biological regulation)
+T25	SO 1038 1043	genes
+#25	AnnotatorNotes T25	SO:0000704 (gene)
+T26	GO_BP 1111 1120	expressed
+#26	AnnotatorNotes T26	GO:0010467 (gene expression)
+T27	SO 1146 1151	genes
+#27	AnnotatorNotes T27	SO:0000704 (gene)
+T28	SO 1188 1197	intervals
+#28	AnnotatorNotes T28	SO:0000001 (region)
+T29	SO 1220 1223	QTL
+#29	AnnotatorNotes T29	SO:0000771 (QTL)
+T30	SO 1262 1267	genes
+#30	AnnotatorNotes T30	SO:0000704 (gene)
+T31	GO_BP 1327 1337	controlled
+#31	AnnotatorNotes T31	GO:0065007 (biological regulation)
+T32	SO 1346 1351	genes
+#32	AnnotatorNotes T32	SO:0000704 (gene)
+T33	SO 1542 1549	genetic
+#33	AnnotatorNotes T33	SO:0000704 (gene)
+T34	SO 1580 1595	genomic regions
+#34	AnnotatorNotes T34	SO:0000991 (genomic_DNA)
+T35	SO 1580 1587	genomic
+#35	AnnotatorNotes T35	SO:0001026 (genome)
+T36	SO 1657 1672	genomic regions
+#36	AnnotatorNotes T36	SO:0000991 (genomic_DNA)
+T37	SO 1657 1664	genomic
+#37	AnnotatorNotes T37	SO:0001026 (genome)
+T38	SO 1689 1695	genome
+#38	AnnotatorNotes T38	SO:0001026 (genome)
+T39	italic 1746 1747	P
+#39	AnnotatorNotes T39	italic (null)
+T40	SO 1797 1801	loci
+#40	AnnotatorNotes T40	SO:0000001 (region)
+T41	SO 1840 1847	genetic
+#41	AnnotatorNotes T41	SO:0000704 (gene)
+T42	SO 1905 1910	genes
+#42	AnnotatorNotes T42	SO:0000704 (gene)
+T43	italic 1946 1953	HLA-DR4
+#43	AnnotatorNotes T43	italic (null)
+T44	EntrezGene 1946 1953	HLA-DR4
+#44	AnnotatorNotes T44	EG:3126
+T45	PR 1946 1953	HLA-DR4
+#45	AnnotatorNotes T45	PR:000002021 (MHC class II histocompatibility antigen beta chain HLA-DRB4)
+T46	italic 1955 1960	PADI4
+#46	AnnotatorNotes T46	italic (null)
+T47	EntrezGene 1955 1960	PADI4
+#47	AnnotatorNotes T47	EG:23569
+T48	PR 1955 1960	PADI4
+#48	AnnotatorNotes T48	PR:000012222 (protein-arginine deiminase type-4)
+T49	italic 1962 1968	PTPN22
+#49	AnnotatorNotes T49	italic (null)
+T50	PR 1962 1968	PTPN22
+#50	AnnotatorNotes T50	PR:000013457 (tyrosine-protein phosphatase non-receptor type 22)
+T51	EntrezGene 1962 1968	PTPN22
+#51	AnnotatorNotes T51	EG:26191
+T52	italic 1973 1978	FCRL3
+#52	AnnotatorNotes T52	italic (null)
+T53	PR 1973 1978	FCRL3
+#53	AnnotatorNotes T53	PR:000007442 (Fc receptor-like protein 3)
+T54	EntrezGene 1973 1978	FCRL3
+#54	AnnotatorNotes T54	EG:115352
+T55	italic 1997 2004	HLA-DR4
+#55	AnnotatorNotes T55	italic (null)
+T56	PR 1997 2004	HLA-DR4
+#56	AnnotatorNotes T56	PR:000002021 (MHC class II histocompatibility antigen beta chain HLA-DRB4)
+T57	EntrezGene 1997 2004	HLA-DR4
+#57	AnnotatorNotes T57	EG:3126
+T58	SO 2073 2078	genes
+#58	AnnotatorNotes T58	SO:0000704 (gene)
+T59	NCBITaxon 2127 2132	mouse
+#59	AnnotatorNotes T59	NCBITaxon:10088 (Mus)
+T60	SO 2152 2159	genetic
+#60	AnnotatorNotes T60	SO:0000704 (gene)
+T61	SO 2250 2256	genome
+#61	AnnotatorNotes T61	SO:0001026 (genome)
+T62	SO 2280 2303	quantitative trait loci
+#62	AnnotatorNotes T62	SO:0000771 (QTL)
+T63	SO 2305 2308	QTL
+#63	AnnotatorNotes T63	SO:0000771 (QTL)
+T64	GO_CC 2313 2321	collagen
+#64	AnnotatorNotes T64	GO:0005581 (collagen)
+T65	PR 2313 2321	collagen
+#65	AnnotatorNotes T65	PR:000003262 (collagen alpha chain)
+T66	NCBITaxon 2370 2376	animal
+#66	AnnotatorNotes T66	NCBITaxon:33208 (Metazoa)
+T67	SO 2399 2402	QTL
+#67	AnnotatorNotes T67	SO:0000771 (QTL)
+T68	italic 2404 2408	Cia2
+#68	AnnotatorNotes T68	italic (null)
+T69	EntrezGene 2404 2408	Cia2
+#69	AnnotatorNotes T69	EG:112252
+T70	SO 2469 2472	QTL
+#70	AnnotatorNotes T70	SO:0000771 (QTL)
+T71	SO 2622 2627	genes
+#71	AnnotatorNotes T71	SO:0000704 (gene)
+T72	NCBITaxon 2759 2765	animal
+#72	AnnotatorNotes T72	NCBITaxon:33208 (Metazoa)
+T73	SO 2811 2818	genetic
+#73	AnnotatorNotes T73	SO:0000704 (gene)
+T74	SO 2899 2904	known
+#74	AnnotatorNotes T74	SO:0000906 (independently_known)
+T75	SO 2905 2912	genetic
+#75	AnnotatorNotes T75	SO:0000704 (gene)
+T76	NCBITaxon 2925 2931	animal
+#76	AnnotatorNotes T76	NCBITaxon:33208 (Metazoa)
+T77	SO 2987 2992	genes
+#77	AnnotatorNotes T77	SO:0000704 (gene)
+T78	SO 3085 3088	QTL
+#78	AnnotatorNotes T78	SO:0000771 (QTL)
+T79	NCBITaxon 3117 3122	mouse
+#79	AnnotatorNotes T79	NCBITaxon:10088 (Mus)
+T80	SO 3123 3129	genome
+#80	AnnotatorNotes T80	SO:0001026 (genome)
+T81	SO 3146 3149	QTL
+#81	AnnotatorNotes T81	SO:0000771 (QTL)
+T82	SO 3246 3251	genes
+#82	AnnotatorNotes T82	SO:0000704 (gene)
+T83	NCBITaxon 3266 3271	mouse
+#83	AnnotatorNotes T83	NCBITaxon:10088 (Mus)
+T84	SO 3272 3278	genome
+#84	AnnotatorNotes T84	SO:0001026 (genome)
+T85	NCBITaxon 3347 3353	animal
+#85	AnnotatorNotes T85	NCBITaxon:33208 (Metazoa)
+T86	SO 3377 3390	polymorphisms
+#86	AnnotatorNotes T86	SO:0001025 (polymorphic_sequence_variant)
+T87	SO 3377 3390	polymorphisms
+#87	AnnotatorNotes T87	SO:0000694 (SNP)
+T88	SO 3398 3412	protein-coding
+#88	AnnotatorNotes T88	SO:0000010 (protein_coding)
+T89	CHEBI 3398 3405	protein
+#89	AnnotatorNotes T89	CHEBI:36080 (proteins)
+T90	SO 3406 3419	coding region
+#90	AnnotatorNotes T90	SO:0000316 (CDS)
+T91	CHEBI 3440 3447	protein
+#91	AnnotatorNotes T91	CHEBI:36080 (proteins)
+T92	CHEBI 3469 3476	protein
+#92	AnnotatorNotes T92	CHEBI:36080 (proteins)
+T93	SO 3539 3542	QTL
+#93	AnnotatorNotes T93	SO:0000771 (QTL)
+T94	SO 3630 3643	polymorphisms
+#94	AnnotatorNotes T94	SO:0001025 (polymorphic_sequence_variant)
+T95	SO 3630 3643	polymorphisms
+#95	AnnotatorNotes T95	SO:0000694 (SNP)
+T96	GO_BP 3644 3654	regulating
+#96	AnnotatorNotes T96	GO:0065007 (biological regulation)
+T97	GO_BP 3655 3670	gene expression
+#97	AnnotatorNotes T97	GO:0010467 (gene expression)
+T98	SO 3655 3659	gene
+#98	AnnotatorNotes T98	SO:0000704 (gene)
+T99	GO_BP 3789 3804	gene expression
+#99	AnnotatorNotes T99	GO:0010467 (gene expression)
+T100	SO 3789 3793	gene
+#100	AnnotatorNotes T100	SO:0000704 (gene)
+T101	SO 3893 3898	genes
+#101	AnnotatorNotes T101	SO:0000704 (gene)
+T102	GO_BP 3955 3964	regulated
+#102	AnnotatorNotes T102	GO:0065007 (biological regulation)
+T103	SO 3987 3992	genes
+#103	AnnotatorNotes T103	SO:0000704 (gene)
+T104	GO_BP 4046 4056	expression
+#104	AnnotatorNotes T104	GO:0010467 (gene expression)
+T105	CL 4089 4094	cells
+#105	AnnotatorNotes T105	CL:0000000 (cell)
+T106	GO_CC 4089 4094	cells
+#106	AnnotatorNotes T106	GO:0005623 (cell)
+T107	NCBITaxon 4210 4216	animal
+#107	AnnotatorNotes T107	NCBITaxon:33208 (Metazoa)
+T108	SO 4241 4246	genes
+#108	AnnotatorNotes T108	SO:0000704 (gene)
+T109	GO_BP 4283 4293	expression
+#109	AnnotatorNotes T109	GO:0010467 (gene expression)
+T110	SO 4362 4367	Genes
+#110	AnnotatorNotes T110	SO:0000704 (gene)
+T111	GO_BP 4380 4408	immunoinflammatory responses
+#111	AnnotatorNotes T111	GO:0002437 (inflammatory response to antigenic stimulus)
+T112	GO_BP 4429 4438	expressed
+#112	AnnotatorNotes T112	GO:0010467 (gene expression)
+T113	CL 4446 4457	blood cells
+#113	AnnotatorNotes T113	CL:0000081 (blood cell)
+T114	GO_CC 4452 4457	cells
+#114	AnnotatorNotes T114	GO:0005623 (cell)
+T115	GO_MF 4479 4489	Chemokines
+#115	AnnotatorNotes T115	GO:0008009 (chemokine activity)
+T116	independent_continuant 4479 4489	Chemokines
+#116	AnnotatorNotes T116	independent_continuant
+T117	GO_BP 4494 4502	adhesion
+#117	AnnotatorNotes T117	GO:0022610 (biological adhesion)
+T118	CHEBI 4503 4512	molecules
+#118	AnnotatorNotes T118	CHEBI:23367 (molecular entity)
+T119	GO_BP 4518 4529	upregulated
+#119	AnnotatorNotes T119	GO:0048518 (positive regulation of biological process)
+T120	NCBITaxon 4583 4589	animal
+#120	AnnotatorNotes T120	NCBITaxon:33208 (Metazoa)
+T121	SO 4612 4617	genes
+#121	AnnotatorNotes T121	SO:0000704 (gene)
+T122	GO_BP 4689 4698	expressed
+#122	AnnotatorNotes T122	GO:0010467 (gene expression)
+T123	NCBITaxon 4733 4739	animal
+#123	AnnotatorNotes T123	NCBITaxon:33208 (Metazoa)
+T124	SO 4780 4785	genes
+#124	AnnotatorNotes T124	SO:0000704 (gene)
+T125	SO 4861 4868	genetic
+#125	AnnotatorNotes T125	SO:0000704 (gene)
+T126	SO 4869 4882	polymorphisms
+#126	AnnotatorNotes T126	SO:0001025 (polymorphic_sequence_variant)
+T127	SO 4869 4882	polymorphisms
+#127	AnnotatorNotes T127	SO:0000694 (SNP)
+T128	GO_BP 4883 4893	regulating
+#128	AnnotatorNotes T128	GO:0065007 (biological regulation)
+T129	GO_BP 4894 4909	gene expression
+#129	AnnotatorNotes T129	GO:0010467 (gene expression)
+T130	SO 4894 4898	gene
+#130	AnnotatorNotes T130	SO:0000704 (gene)
+T131	GO_BP 4931 4942	expressions
+#131	AnnotatorNotes T131	GO:0010467 (gene expression)
+T132	SO 4988 5000	polymorphism
+#132	AnnotatorNotes T132	SO:0001025 (polymorphic_sequence_variant)
+T133	SO 4988 5000	polymorphism
+#133	AnnotatorNotes T133	SO:0000694 (SNP)
+T134	SO 5012 5031	regulatory elements
+#134	AnnotatorNotes T134	SO:0005836 (regulatory_region)
+T135	GO_BP 5012 5022	regulatory
+#135	AnnotatorNotes T135	GO:0065007 (biological regulation)
+T136	SO 5063 5066	QTL
+#136	AnnotatorNotes T136	SO:0000771 (QTL)
+T137	SO 5109 5114	genes
+#137	AnnotatorNotes T137	SO:0000704 (gene)
+T138	SO 5148 5159	genetically
+#138	AnnotatorNotes T138	SO:0000704 (gene)
+T139	SO 5206 5212	genome
+#139	AnnotatorNotes T139	SO:0001026 (genome)
+T140	SO 5246 5252	genome
+#140	AnnotatorNotes T140	SO:0001026 (genome)
+T141	GO_BP 5337 5346	generated
+#141	AnnotatorNotes T141	GO:0000003 (reproduction)
+T142	SO 5353 5359	genome
+#142	AnnotatorNotes T142	SO:0001026 (genome)
+T143	SO 5421 5424	QTL
+#143	AnnotatorNotes T143	SO:0000771 (QTL)
+T144	GO_BP 5470 5485	gene expression
+#144	AnnotatorNotes T144	GO:0010467 (gene expression)
+T145	SO 5470 5474	gene
+#145	AnnotatorNotes T145	SO:0000704 (gene)
+T146	SO 5588 5593	genes
+#146	AnnotatorNotes T146	SO:0000704 (gene)
+T147	SO 5663 5677	genomic region
+#147	AnnotatorNotes T147	SO:0000991 (genomic_DNA)
+T148	SO 5663 5670	genomic
+#148	AnnotatorNotes T148	SO:0001026 (genome)
+T149	GO_BP 5734 5743	expressed
+#149	AnnotatorNotes T149	GO:0010467 (gene expression)
+T150	GO_BP 5800 5809	expressed
+#150	AnnotatorNotes T150	GO:0010467 (gene expression)
+T151	NCBITaxon 5879 5886	Animals
+#151	AnnotatorNotes T151	NCBITaxon:33208 (Metazoa)
+T152	NCBITaxon 5951 5955	mice
+#152	AnnotatorNotes T152	NCBITaxon:10088 (Mus)
+T153	NCBITaxon 6100 6106	animal
+#153	AnnotatorNotes T153	NCBITaxon:33208 (Metazoa)
+T154	NCBITaxon 6150 6156	animal
+#154	AnnotatorNotes T154	NCBITaxon:33208 (Metazoa)
+T155	NCBITaxon 6200 6206	Animal
+#155	AnnotatorNotes T155	NCBITaxon:33208 (Metazoa)
+T156	NCBITaxon 6267 6274	animals
+#156	AnnotatorNotes T156	NCBITaxon:33208 (Metazoa)
+T157	EntrezGene 6463 6481	bovine Collagen II
+#157	AnnotatorNotes T157	EG:407142
+T158	NCBITaxon 6463 6469	bovine
+#158	AnnotatorNotes T158	NCBITaxon:27592 (Bovinae)
+T159	GO_CC 6470 6481	Collagen II
+#159	AnnotatorNotes T159	GO:0005585 (collagen type II)
+T160	PR 6470 6481	Collagen II
+#160	AnnotatorNotes T160	PR:000003266 (collagen type II alpha chain)
+T161	NCBITaxon 6632 6639	animals
+#161	AnnotatorNotes T161	NCBITaxon:33208 (Metazoa)
+T162	NCBITaxon 6845 6849	mice
+#162	AnnotatorNotes T162	NCBITaxon:10088 (Mus)
+T163	GO_BP 6881 6896	gene expression
+#163	AnnotatorNotes T163	GO:0010467 (gene expression)
+T164	SO 6881 6885	gene
+#164	AnnotatorNotes T164	SO:0000704 (gene)
+T165	NCBITaxon 7138 7142	mice
+#165	AnnotatorNotes T165	NCBITaxon:10088 (Mus)
+T166	NCBITaxon 7191 7195	mice
+#166	AnnotatorNotes T166	NCBITaxon:10088 (Mus)
+T167	NCBITaxon 7262 7266	mice
+#167	AnnotatorNotes T167	NCBITaxon:10088 (Mus)
+T168	NCBITaxon 7355 7359	mice
+#168	AnnotatorNotes T168	NCBITaxon:10088 (Mus)
+T169	NCBITaxon 7376 7380	mice
+#169	AnnotatorNotes T169	NCBITaxon:10088 (Mus)
+T170	NCBITaxon 7497 7501	mice
+#170	AnnotatorNotes T170	NCBITaxon:10088 (Mus)
+T171	NCBITaxon 7590 7594	mice
+#171	AnnotatorNotes T171	NCBITaxon:10088 (Mus)
+T172	NCBITaxon 7611 7615	mice
+#172	AnnotatorNotes T172	NCBITaxon:10088 (Mus)
+T173	SO 7776 7782	genome
+#173	AnnotatorNotes T173	SO:0001026 (genome)
+T174	NCBITaxon 7856 7860	mice
+#174	AnnotatorNotes T174	NCBITaxon:10088 (Mus)
+T175	SO 7883 7905	microsatellite markers
+#175	AnnotatorNotes T175	SO:0000289 (microsatellite)
+T176	SO 7919 7925	genome
+#176	AnnotatorNotes T176	SO:0001026 (genome)
+T177	SO 8174 8177	QTL
+#177	AnnotatorNotes T177	SO:0000771 (QTL)
+T178	italic 8221 8222	P
+#178	AnnotatorNotes T178	italic (null)
+T179	GO_MF 8284 8297	hybridisation
+#179	AnnotatorNotes T179	GO:0033592 (RNA strand annealing activity)
+T180	GO_MF 8284 8297	hybridisation
+#180	AnnotatorNotes T180	GO:0000739 (DNA strand annealing activity)
+T181	SO 8368 8371	RNA
+#181	AnnotatorNotes T181	SO:0000356 (RNA)
+T182	SO 8395 8398	RNA
+#182	AnnotatorNotes T182	SO:0000356 (RNA)
+T183	GO_BP 8543 8558	gene expression
+#183	AnnotatorNotes T183	GO:0010467 (gene expression)
+T184	SO 8543 8547	gene
+#184	AnnotatorNotes T184	SO:0000704 (gene)
+T185	SO 8659 8664	genes
+#185	AnnotatorNotes T185	SO:0000704 (gene)
+T186	SO 8666 8669	RNA
+#186	AnnotatorNotes T186	SO:0000356 (RNA)
+T187	SO 8670 8676	probes
+#187	AnnotatorNotes T187	SO:0000051 (probe)
+T188	NCBITaxon 8767 8771	mice
+#188	AnnotatorNotes T188	NCBITaxon:10088 (Mus)
+T189	GO_MF 8777 8787	hybridised
+#189	AnnotatorNotes T189	GO:0033592 (RNA strand annealing activity)
+T190	GO_MF 8777 8787	hybridised
+#190	AnnotatorNotes T190	GO:0000739 (DNA strand annealing activity)
+T191	GO_MF 8812 8825	Hybridisation
+#191	AnnotatorNotes T191	GO:0033592 (RNA strand annealing activity)
+T192	GO_MF 8812 8825	Hybridisation
+#192	AnnotatorNotes T192	GO:0000739 (DNA strand annealing activity)
+T193	SO 8841 8845	gene
+#193	AnnotatorNotes T193	SO:0000704 (gene)
+T194	SO 8958 8962	Gene
+#194	AnnotatorNotes T194	SO:0000704 (gene)
+T195	GO_BP 9016 9026	expression
+#195	AnnotatorNotes T195	GO:0010467 (gene expression)
+T196	GO_BP 9117 9132	gene expression
+#196	AnnotatorNotes T196	GO:0010467 (gene expression)
+T197	SO 9117 9121	gene
+#197	AnnotatorNotes T197	SO:0000704 (gene)
+T198	GO_BP 9170 9180	expression
+#198	AnnotatorNotes T198	GO:0010467 (gene expression)
+T199	GO_BP 9248 9257	expressed
+#199	AnnotatorNotes T199	GO:0010467 (gene expression)
+T200	SO 9258 9263	genes
+#200	AnnotatorNotes T200	SO:0000704 (gene)
+T201	italic 9505 9506	P
+#201	AnnotatorNotes T201	italic (null)
+T202	italic 9539 9540	t
+#202	AnnotatorNotes T202	italic (null)
+T203	SO 9695 9700	genes
+#203	AnnotatorNotes T203	SO:0000704 (gene)
+T204	SO 9716 9720	gene
+#204	AnnotatorNotes T204	SO:0000704 (gene)
+T205	GO_BP 9777 9792	gene expression
+#205	AnnotatorNotes T205	GO:0010467 (gene expression)
+T206	SO 9777 9781	gene
+#206	AnnotatorNotes T206	SO:0000704 (gene)
+T207	SO 9850 9855	genes
+#207	AnnotatorNotes T207	SO:0000704 (gene)
+T208	SO 9897 9902	genes
+#208	AnnotatorNotes T208	SO:0000704 (gene)
+T209	GO_BP 9996 10006	expression
+#209	AnnotatorNotes T209	GO:0010467 (gene expression)
+T210	SO 10025 10030	genes
+#210	AnnotatorNotes T210	SO:0000704 (gene)
+T211	GO_BP 10123 10132	expressed
+#211	AnnotatorNotes T211	GO:0010467 (gene expression)
+T212	SO 10133 10138	genes
+#212	AnnotatorNotes T212	SO:0000704 (gene)
+T213	SO 10140 10144	Gene
+#213	AnnotatorNotes T213	SO:0000704 (gene)
+T214	SO 10195 10198	DNA
+#214	AnnotatorNotes T214	SO:0000352 (DNA)
+T215	italic 10284 10285	P
+#215	AnnotatorNotes T215	italic (null)
+T216	SO 10339 10344	genes
+#216	AnnotatorNotes T216	SO:0000704 (gene)
+T217	SO 10369 10372	QTL
+#217	AnnotatorNotes T217	SO:0000771 (QTL)
+T218	SO 10449 10455	genome
+#218	AnnotatorNotes T218	SO:0001026 (genome)
+T219	SO 10475 10478	QTL
+#219	AnnotatorNotes T219	SO:0000771 (QTL)
+T220	GO_BP 10479 10490	controlling
+#220	AnnotatorNotes T220	GO:0065007 (biological regulation)
+T221	SO 10591 10594	QTL
+#221	AnnotatorNotes T221	SO:0000771 (QTL)
+T222	italic 10596 10600	Cia2
+#222	AnnotatorNotes T222	italic (null)
+T223	EntrezGene 10596 10600	Cia2
+#223	AnnotatorNotes T223	EG:112252
+T224	italic 10699 10703	Cia2
+#224	AnnotatorNotes T224	italic (null)
+T225	EntrezGene 10699 10703	Cia2
+#225	AnnotatorNotes T225	EG:112252
+T226	SO 10807 10810	QTL
+#226	AnnotatorNotes T226	SO:0000771 (QTL)
+T227	SO 10952 10955	QTL
+#227	AnnotatorNotes T227	SO:0000771 (QTL)
+T228	italic 11022 11023	P
+#228	AnnotatorNotes T228	italic (null)
+T229	SO 11075 11079	gene
+#229	AnnotatorNotes T229	SO:0000704 (gene)
+T230	italic 11083 11087	Cia2
+#230	AnnotatorNotes T230	italic (null)
+T231	EntrezGene 11083 11087	Cia2
+#231	AnnotatorNotes T231	EG:112252
+T232	EntrezGene 11089 11112	complement component C5
+#232	AnnotatorNotes T232	EG:15139
+T233	PR 11089 11112	complement component C5
+#233	AnnotatorNotes T233	PR:000004904 (complement C5)
+T234	italic 11114 11116	Hc
+#234	AnnotatorNotes T234	italic (null)
+T235	PR 11114 11116	Hc
+#235	AnnotatorNotes T235	PR:000004904 (complement C5)
+T236	EntrezGene 11114 11116	Hc
+#236	AnnotatorNotes T236	EG:15139
+T237	EntrezGene 11198 11200	C5
+#237	AnnotatorNotes T237	EG:15139
+T238	PR 11198 11200	C5
+#238	AnnotatorNotes T238	PR:000004904 (complement C5)
+T239	SO 11238 11241	QTL
+#239	AnnotatorNotes T239	SO:0000771 (QTL)
+T240	italic 11261 11265	Cia2
+#240	AnnotatorNotes T240	italic (null)
+T241	EntrezGene 11261 11265	Cia2
+#241	AnnotatorNotes T241	EG:112252
+T242	EntrezGene 11300 11302	C5
+#242	AnnotatorNotes T242	EG:15139
+T243	PR 11300 11302	C5
+#243	AnnotatorNotes T243	PR:000004904 (complement C5)
+T244	EntrezGene 11406 11408	C5
+#244	AnnotatorNotes T244	EG:15139
+T245	PR 11406 11408	C5
+#245	AnnotatorNotes T245	PR:000004904 (complement C5)
+T246	sup 11408 11411	+/+
+#246	AnnotatorNotes T246	sup (null)
+T247	SO 11408 11409	+
+#247	AnnotatorNotes T247	SO:0000817 (wild_type)
+T248	SO 11410 11411	+
+#248	AnnotatorNotes T248	SO:0000817 (wild_type)
+T249	EntrezGene 11441 11443	C5
+#249	AnnotatorNotes T249	EG:15139
+T250	PR 11441 11443	C5
+#250	AnnotatorNotes T250	PR:000004904 (complement C5)
+T251	sup 11443 11446	+/-
+#251	AnnotatorNotes T251	sup (null)
+T252	SO 11443 11444	+
+#252	AnnotatorNotes T252	SO:0000817 (wild_type)
+T253	SO 11465 11480	genomic regions
+#253	AnnotatorNotes T253	SO:0000991 (genomic_DNA)
+T254	SO 11465 11472	genomic
+#254	AnnotatorNotes T254	SO:0001026 (genome)
+T255	italic 11555 11556	P
+#255	AnnotatorNotes T255	italic (null)
+T256	SO 11622 11625	QTL
+#256	AnnotatorNotes T256	SO:0000771 (QTL)
+T257	GO_CC 11642 11653	chromosomes
+#257	AnnotatorNotes T257	GO:0005694 (chromosome)
+T258	SO 11642 11653	chromosomes
+#258	AnnotatorNotes T258	SO:0000340 (chromosome)
+T259	SO 11688 11692	loci
+#259	AnnotatorNotes T259	SO:0000001 (region)
+T260	SO 11748 11752	loci
+#260	AnnotatorNotes T260	SO:0000001 (region)
+T261	SO 11791 11797	allele
+#261	AnnotatorNotes T261	SO:0001023 (allele)
+T262	SO 11841 11847	allele
+#262	AnnotatorNotes T262	SO:0001023 (allele)
+T263	SO 12039 12042	QTL
+#263	AnnotatorNotes T263	SO:0000771 (QTL)
+T264	SO 12087 12090	QTL
+#264	AnnotatorNotes T264	SO:0000771 (QTL)
+T265	SO 12131 12146	genomic regions
+#265	AnnotatorNotes T265	SO:0000991 (genomic_DNA)
+T266	SO 12131 12138	genomic
+#266	AnnotatorNotes T266	SO:0001026 (genome)
+T267	SO 12180 12204	syntenic genomic regions
+#267	AnnotatorNotes T267	"syntenic .. regions" SO:0005858 (syntenic_region)
+T268	SO 12180 12188	syntenic
+#268	AnnotatorNotes T268	SO:0000860 (syntenic)
+T269	SO 12189 12204	genomic regions
+#269	AnnotatorNotes T269	SO:0000991 (genomic_DNA)
+T270	SO 12189 12196	genomic
+#270	AnnotatorNotes T270	SO:0001026 (genome)
+T271	NCBITaxon 12212 12217	human
+#271	AnnotatorNotes T271	NCBITaxon:9606 (Homo sapiens)
+T272	SO 12218 12224	genome
+#272	AnnotatorNotes T272	SO:0001026 (genome)
+T273	SO 12286 12289	QTL
+#273	AnnotatorNotes T273	SO:0000771 (QTL)
+T274	SO 12316 12319	QTL
+#274	AnnotatorNotes T274	SO:0000771 (QTL)
+T275	NCBITaxon 12327 12332	mouse
+#275	AnnotatorNotes T275	NCBITaxon:10088 (Mus)
+T276	SO 12333 12339	genome
+#276	AnnotatorNotes T276	SO:0001026 (genome)
+T277	SO 12363 12368	Locus
+#277	AnnotatorNotes T277	SO:0000001 (region)
+T278	italic 12390 12395	Cia13
+#278	AnnotatorNotes T278	italic (null)
+T279	EntrezGene 12390 12395	Cia13
+#279	AnnotatorNotes T279	EG:100034808
+T280	italic 12400 12405	Cia14
+#280	AnnotatorNotes T280	italic (null)
+T281	EntrezGene 12400 12405	Cia14
+#281	AnnotatorNotes T281	EG:100036208
+T282	GO_BP 12413 12420	control
+#282	AnnotatorNotes T282	GO:0065007 (biological regulation)
+T283	SO 12474 12479	Locus
+#283	AnnotatorNotes T283	SO:0000001 (region)
+T284	GO_CC 12493 12503	chromosome
+#284	AnnotatorNotes T284	GO:0005694 (chromosome)
+T285	SO 12493 12503	chromosome
+#285	AnnotatorNotes T285	SO:0000340 (chromosome)
+T286	italic 12521 12525	Cia8
+#286	AnnotatorNotes T286	italic (null)
+T287	EntrezGene 12521 12525	Cia8
+#287	AnnotatorNotes T287	EG:112265
+T288	SO 12584 12589	Locus
+#288	AnnotatorNotes T288	SO:0000001 (region)
+T289	italic 12606 12611	Pgia7
+#289	AnnotatorNotes T289	italic (null)
+T290	EntrezGene 12606 12611	Pgia7
+#290	AnnotatorNotes T290	EG:116882
+T291	GO_BP 12619 12627	controls
+#291	AnnotatorNotes T291	GO:0065007 (biological regulation)
+T292	CHEBI 12646 12658	proteoglycan
+#292	AnnotatorNotes T292	CHEBI:37396 (proteoglycans)
+T293	SO 12744 12768	syntenic genomic regions
+#293	AnnotatorNotes T293	"syntenic .. regions" SO:0005858 (syntenic_region)
+T294	SO 12744 12752	syntenic
+#294	AnnotatorNotes T294	SO:0000860 (syntenic)
+T295	SO 12753 12768	genomic regions
+#295	AnnotatorNotes T295	SO:0000991 (genomic_DNA)
+T296	SO 12753 12760	genomic
+#296	AnnotatorNotes T296	SO:0001026 (genome)
+T297	SO 12790 12793	QTL
+#297	AnnotatorNotes T297	SO:0000771 (QTL)
+T298	NCBITaxon 12801 12806	human
+#298	AnnotatorNotes T298	NCBITaxon:9606 (Homo sapiens)
+T299	SO 12807 12813	genome
+#299	AnnotatorNotes T299	SO:0001026 (genome)
+T300	SO 12863 12878	genomic regions
+#300	AnnotatorNotes T300	SO:0000991 (genomic_DNA)
+T301	SO 12863 12870	genomic
+#301	AnnotatorNotes T301	SO:0001026 (genome)
+T302	SO 12871 12912	regions 22q11 and 12p13-q24 on chromosome
+#302	AnnotatorNotes T302	"regions .. on chromosome" SO:0000830 (chromosome_part)
+T303	GO_CC 12902 12912	chromosome
+#303	AnnotatorNotes T303	GO:0005694 (chromosome)
+T304	SO 12902 12912	chromosome
+#304	AnnotatorNotes T304	SO:0000340 (chromosome)
+T305	SO 12944 12949	locus
+#305	AnnotatorNotes T305	SO:0000001 (region)
+T306	GO_CC 12968 12978	chromosome
+#306	AnnotatorNotes T306	GO:0005694 (chromosome)
+T307	SO 12968 12978	chromosome
+#307	AnnotatorNotes T307	SO:0000340 (chromosome)
+T308	SO 13002 13007	locus
+#308	AnnotatorNotes T308	SO:0000001 (region)
+T309	GO_CC 13039 13049	chromosome
+#309	AnnotatorNotes T309	GO:0005694 (chromosome)
+T310	SO 13039 13049	chromosome
+#310	AnnotatorNotes T310	SO:0000340 (chromosome)
+T311	SO 13081 13086	locus
+#311	AnnotatorNotes T311	SO:0000001 (region)
+T312	GO_CC 13103 13113	chromosome
+#312	AnnotatorNotes T312	GO:0005694 (chromosome)
+T313	SO 13103 13113	chromosome
+#313	AnnotatorNotes T313	SO:0000340 (chromosome)
+T314	SO 13137 13142	locus
+#314	AnnotatorNotes T314	SO:0000001 (region)
+T315	GO_CC 13163 13175	chromosome 3
+#315	AnnotatorNotes T315	GO:0005694 (chromosome)
+T316	SO 13163 13173	chromosome
+#316	AnnotatorNotes T316	SO:0000340 (chromosome)
+T317	SO 13196 13201	locus
+#317	AnnotatorNotes T317	SO:0000001 (region)
+T318	GO_BP 13244 13253	expressed
+#318	AnnotatorNotes T318	GO:0010467 (gene expression)
+T319	SO 13254 13259	genes
+#319	AnnotatorNotes T319	SO:0000704 (gene)
+T320	GO_BP 13277 13292	gene expression
+#320	AnnotatorNotes T320	GO:0010467 (gene expression)
+T321	SO 13277 13281	gene
+#321	AnnotatorNotes T321	SO:0000704 (gene)
+T322	NCBITaxon 13314 13318	mice
+#322	AnnotatorNotes T322	NCBITaxon:10088 (Mus)
+T323	SO 13503 13507	gene
+#323	AnnotatorNotes T323	SO:0000704 (gene)
+T324	SO 13551 13556	probe
+#324	AnnotatorNotes T324	SO:0000051 (probe)
+T325	GO_BP 13795 13804	expressed
+#325	AnnotatorNotes T325	GO:0010467 (gene expression)
+T326	SO 13805 13810	genes
+#326	AnnotatorNotes T326	SO:0000704 (gene)
+T327	GO_BP 13840 13855	gene expression
+#327	AnnotatorNotes T327	GO:0010467 (gene expression)
+T328	SO 13840 13844	gene
+#328	AnnotatorNotes T328	SO:0000704 (gene)
+T329	NCBITaxon 13962 13966	mice
+#329	AnnotatorNotes T329	NCBITaxon:10088 (Mus)
+T330	SO 13993 13998	genes
+#330	AnnotatorNotes T330	SO:0000704 (gene)
+T331	GO_BP 14019 14028	expressed
+#331	AnnotatorNotes T331	GO:0010467 (gene expression)
+T332	SO 14144 14149	genes
+#332	AnnotatorNotes T332	SO:0000704 (gene)
+T333	GO_BP 14170 14179	expressed
+#333	AnnotatorNotes T333	GO:0010467 (gene expression)
+T334	NCBITaxon 14193 14197	mice
+#334	AnnotatorNotes T334	NCBITaxon:10088 (Mus)
+T335	GO_BP 14239 14248	expressed
+#335	AnnotatorNotes T335	GO:0010467 (gene expression)
+T336	SO 14249 14254	genes
+#336	AnnotatorNotes T336	SO:0000704 (gene)
+T337	GO_BP 14381 14390	expressed
+#337	AnnotatorNotes T337	GO:0010467 (gene expression)
+T338	SO 14391 14396	genes
+#338	AnnotatorNotes T338	SO:0000704 (gene)
+T339	SO 14432 14443	overlapping
+#339	AnnotatorNotes T339	SO:0000068 (overlapping)
+T340	SO 14444 14449	genes
+#340	AnnotatorNotes T340	SO:0000704 (gene)
+T341	SO 14469 14474	genes
+#341	AnnotatorNotes T341	SO:0000704 (gene)
+T342	SO 14523 14528	genes
+#342	AnnotatorNotes T342	SO:0000704 (gene)
+T343	GO_BP 14562 14572	expression
+#343	AnnotatorNotes T343	GO:0010467 (gene expression)
+T344	SO 14629 14634	genes
+#344	AnnotatorNotes T344	SO:0000704 (gene)
+T345	SO 14654 14659	genes
+#345	AnnotatorNotes T345	SO:0000704 (gene)
+T346	GO_BP 14696 14705	expressed
+#346	AnnotatorNotes T346	GO:0010467 (gene expression)
+T347	GO_BP 14806 14815	expressed
+#347	AnnotatorNotes T347	GO:0010467 (gene expression)
+T348	SO 14816 14821	genes
+#348	AnnotatorNotes T348	SO:0000704 (gene)
+T349	GO_BP 14871 14880	expressed
+#349	AnnotatorNotes T349	GO:0010467 (gene expression)
+T350	SO 14881 14886	genes
+#350	AnnotatorNotes T350	SO:0000704 (gene)
+T351	SO 14911 14916	genes
+#351	AnnotatorNotes T351	SO:0000704 (gene)
+T352	GO_BP 14942 14951	expressed
+#352	AnnotatorNotes T352	GO:0010467 (gene expression)
+T353	SO 15110 15115	genes
+#353	AnnotatorNotes T353	SO:0000704 (gene)
+T354	GO_BP 15136 15145	expressed
+#354	AnnotatorNotes T354	GO:0010467 (gene expression)
+T355	GO_BP 15166 15177	upregulated
+#355	AnnotatorNotes T355	GO:0048518 (positive regulation of biological process)
+T356	SO 15245 15250	genes
+#356	AnnotatorNotes T356	SO:0000704 (gene)
+T357	GO_BP 15271 15280	expressed
+#357	AnnotatorNotes T357	GO:0010467 (gene expression)
+T358	GO_BP 15338 15347	expressed
+#358	AnnotatorNotes T358	GO:0010467 (gene expression)
+T359	SO 15348 15353	genes
+#359	AnnotatorNotes T359	SO:0000704 (gene)
+T360	GO_BP 15380 15393	downregulated
+#360	AnnotatorNotes T360	GO:0048519 (negative regulation of biological process)
+T361	SO 15394 15399	genes
+#361	AnnotatorNotes T361	SO:0000704 (gene)
+T362	SO 15410 15414	gene
+#362	AnnotatorNotes T362	SO:0000704 (gene)
+T363	GO_BP 15434 15443	expressed
+#363	AnnotatorNotes T363	GO:0010467 (gene expression)
+T364	SO 15485 15489	gene
+#364	AnnotatorNotes T364	SO:0000704 (gene)
+T365	GO_BP 15524 15533	expressed
+#365	AnnotatorNotes T365	GO:0010467 (gene expression)
+T366	SO 15534 15539	genes
+#366	AnnotatorNotes T366	SO:0000704 (gene)
+T367	GO_BP 15672 15681	expressed
+#367	AnnotatorNotes T367	GO:0010467 (gene expression)
+T368	SO 15682 15687	genes
+#368	AnnotatorNotes T368	SO:0000704 (gene)
+T369	GO_BP 15708 15717	regulated
+#369	AnnotatorNotes T369	GO:0065007 (biological regulation)
+T370	NCBITaxon 15738 15742	mice
+#370	AnnotatorNotes T370	NCBITaxon:10088 (Mus)
+T371	GO_BP 15793 15808	gene expression
+#371	AnnotatorNotes T371	GO:0010467 (gene expression)
+T372	SO 15793 15797	gene
+#372	AnnotatorNotes T372	SO:0000704 (gene)
+T373	SO 15886 15891	genes
+#373	AnnotatorNotes T373	SO:0000704 (gene)
+T374	SO 15897 15901	gene
+#374	AnnotatorNotes T374	SO:0000704 (gene)
+T375	GO_BP 15979 15994	gene expression
+#375	AnnotatorNotes T375	GO:0010467 (gene expression)
+T376	SO 15979 15983	gene
+#376	AnnotatorNotes T376	SO:0000704 (gene)
+T377	SO 16037 16042	genes
+#377	AnnotatorNotes T377	SO:0000704 (gene)
+T378	SO 16057 16062	genes
+#378	AnnotatorNotes T378	SO:0000704 (gene)
+T379	GO_BP 16073 16084	upregulated
+#379	AnnotatorNotes T379	GO:0048518 (positive regulation of biological process)
+T380	GO_BP 16113 16138	expression of these genes
+#380	AnnotatorNotes T380	"expression of .. genes" GO:0010467 (gene expression)
+T381	SO 16133 16138	genes
+#381	AnnotatorNotes T381	SO:0000704 (gene)
+T382	GO_BP 16260 16275	immune response
+#382	AnnotatorNotes T382	GO:0006955 (immune response)
+T383	SO 16300 16305	genes
+#383	AnnotatorNotes T383	SO:0000704 (gene)
+T384	GO_BP 16312 16322	expression
+#384	AnnotatorNotes T384	GO:0010467 (gene expression)
+T385	GO_BP 16337 16348	upregulated
+#385	AnnotatorNotes T385	GO:0048518 (positive regulation of biological process)
+T386	SO 16403 16408	genes
+#386	AnnotatorNotes T386	SO:0000704 (gene)
+T387	GO_BP 16435 16450	immune response
+#387	AnnotatorNotes T387	GO:0006955 (immune response)
+T388	GO_CC 16452 16470	organelle membrane
+#388	AnnotatorNotes T388	GO:0031090 (organelle membrane)
+T389	GO_CC 16475 16505	extracellular region and space
+#389	AnnotatorNotes T389	"extracellular .. space" GO:0005615 (extracellular space)
+T390	GO_CC 16475 16495	extracellular region
+#390	AnnotatorNotes T390	GO:0005576 (extracellular region)
+T391	SO 16531 16536	genes
+#391	AnnotatorNotes T391	SO:0000704 (gene)
+T392	GO_BP 16552 16563	upregulated
+#392	AnnotatorNotes T392	GO:0048518 (positive regulation of biological process)
+T393	SO 16587 16592	genes
+#393	AnnotatorNotes T393	SO:0000704 (gene)
+T394	GO_CC 16612 16634	intercellular junction
+#394	AnnotatorNotes T394	GO:0005911 (intercellular junction)
+T395	SO 16658 16663	genes
+#395	AnnotatorNotes T395	SO:0000704 (gene)
+T396	SO 16712 16717	genes
+#396	AnnotatorNotes T396	SO:0000704 (gene)
+T397	GO_BP 16731 16744	downregultaed
+#397	AnnotatorNotes T397	GO:0048519 (negative regulation of biological process)
+T398	SO 16773 16778	genes
+#398	AnnotatorNotes T398	SO:0000704 (gene)
+T399	GO_BP 16807 16831	lymphocyte proliferation
+#399	AnnotatorNotes T399	GO:0046651 (lymphocyte proliferation)
+T400	CL 16807 16817	lymphocyte
+#400	AnnotatorNotes T400	CL:0000542 (lymphocyte)
+T401	GO_BP 16833 16850	T cell activation
+#401	AnnotatorNotes T401	GO:0042110 (T cell activation)
+T402	CL 16833 16839	T cell
+#402	AnnotatorNotes T402	CL:0000084 (T cell)
+T403	GO_CC 16835 16839	cell
+#403	AnnotatorNotes T403	GO:0005623 (cell)
+T404	GO_MF 16852 16867	protein binding
+#404	AnnotatorNotes T404	GO:0005515 (protein binding)
+T405	CHEBI 16852 16859	protein
+#405	AnnotatorNotes T405	CHEBI:36080 (proteins)
+T406	GO_BP 16883 16903	notch signal pathway
+#406	AnnotatorNotes T406	GO:0007219 (Notch signaling pathway)
+T407	SO 16930 16935	genes
+#407	AnnotatorNotes T407	SO:0000704 (gene)
+T408	GO_BP 16936 16949	downregulated
+#408	AnnotatorNotes T408	GO:0048519 (negative regulation of biological process)
+T409	SO 16990 16995	genes
+#409	AnnotatorNotes T409	SO:0000704 (gene)
+T410	GO_BP 16996 17009	downregulated
+#410	AnnotatorNotes T410	GO:0048519 (negative regulation of biological process)
+T411	SO 17128 17132	gene
+#411	AnnotatorNotes T411	SO:0000704 (gene)
+T412	SO 17154 17159	genes
+#412	AnnotatorNotes T412	SO:0000704 (gene)
+T413	SO 17181 17184	QTL
+#413	AnnotatorNotes T413	SO:0000771 (QTL)
+T414	SO 17261 17264	QTL
+#414	AnnotatorNotes T414	SO:0000771 (QTL)
+T415	GO_BP 17321 17330	expressed
+#415	AnnotatorNotes T415	GO:0010467 (gene expression)
+T416	SO 17331 17336	genes
+#416	AnnotatorNotes T416	SO:0000704 (gene)
+T417	GO_BP 17386 17395	expressed
+#417	AnnotatorNotes T417	GO:0010467 (gene expression)
+T418	SO 17396 17401	genes
+#418	AnnotatorNotes T418	SO:0000704 (gene)
+T419	SO 17407 17412	genes
+#419	AnnotatorNotes T419	SO:0000704 (gene)
+T420	SO 17480 17489	positions
+#420	AnnotatorNotes T420	SO:0000001 (region)
+T421	SO 17501 17506	genes
+#421	AnnotatorNotes T421	SO:0000704 (gene)
+T422	SO 17569 17572	QTL
+#422	AnnotatorNotes T422	SO:0000771 (QTL)
+T423	SO 17584 17588	loci
+#423	AnnotatorNotes T423	SO:0000001 (region)
+T424	GO_CC 17607 17618	chromosomes
+#424	AnnotatorNotes T424	GO:0005694 (chromosome)
+T425	SO 17607 17618	chromosomes
+#425	AnnotatorNotes T425	SO:0000340 (chromosome)
+T426	SO 17682 17685	QTL
+#426	AnnotatorNotes T426	SO:0000771 (QTL)
+T427	SO 17773 17777	loci
+#427	AnnotatorNotes T427	SO:0000001 (region)
+T428	SO 17790 17795	genes
+#428	AnnotatorNotes T428	SO:0000704 (gene)
+T429	SO 17857 17860	QTL
+#429	AnnotatorNotes T429	SO:0000771 (QTL)
+T430	SO 17913 17918	genes
+#430	AnnotatorNotes T430	SO:0000704 (gene)
+T431	SO 17954 17958	loci
+#431	AnnotatorNotes T431	SO:0000001 (region)
+T432	SO 18013 18017	gene
+#432	AnnotatorNotes T432	SO:0000704 (gene)
+T433	SO 18037 18041	loci
+#433	AnnotatorNotes T433	SO:0000001 (region)
+T434	SO 18087 18092	genes
+#434	AnnotatorNotes T434	SO:0000704 (gene)
+T435	SO 18123 18128	genes
+#435	AnnotatorNotes T435	SO:0000704 (gene)
+T436	italic 18130 18136	hspa1a
+#436	AnnotatorNotes T436	italic (null)
+T437	PR 18130 18136	hspa1a
+#437	AnnotatorNotes T437	PR:000008871 (heat shock 70 kDa protein 1A)
+T438	EntrezGene 18130 18136	hspa1a
+#438	AnnotatorNotes T438	EG:193740
+T439	italic 18141 18146	Oas1a
+#439	AnnotatorNotes T439	italic (null)
+T440	PR 18141 18146	Oas1a
+#440	AnnotatorNotes T440	PR:000012101 (2'-5'-oligoadenylate synthetase 1A)
+T441	EntrezGene 18141 18146	Oas1a
+#441	AnnotatorNotes T441	EG:246730
+T442	GO_BP 18153 18164	upregulated
+#442	AnnotatorNotes T442	GO:0048518 (positive regulation of biological process)
+T443	italic 18192 18197	Oas1a
+#443	AnnotatorNotes T443	italic (null)
+T444	PR 18192 18197	Oas1a
+#444	AnnotatorNotes T444	PR:000012101 (2'-5'-oligoadenylate synthetase 1A)
+T445	EntrezGene 18192 18197	Oas1a
+#445	AnnotatorNotes T445	EG:246730
+T446	GO_BP 18207 18218	upregulated
+#446	AnnotatorNotes T446	GO:0048518 (positive regulation of biological process)
+T447	SO 18257 18262	genes
+#447	AnnotatorNotes T447	SO:0000704 (gene)
+T448	SO 18277 18282	genes
+#448	AnnotatorNotes T448	SO:0000704 (gene)
+T449	GO_BP 18288 18301	downregulated
+#449	AnnotatorNotes T449	GO:0048519 (negative regulation of biological process)
+T450	SO 18335 18340	genes
+#450	AnnotatorNotes T450	SO:0000704 (gene)
+T451	italic 18349 18355	hspa1a
+#451	AnnotatorNotes T451	italic (null)
+T452	PR 18349 18355	hspa1a
+#452	AnnotatorNotes T452	PR:000008871 (heat shock 70 kDa protein 1A)
+T453	EntrezGene 18349 18355	hspa1a
+#453	AnnotatorNotes T453	EG:193740
+T454	GO_BP 18364 18374	expression
+#454	AnnotatorNotes T454	GO:0010467 (gene expression)
+T455	SO 18433 18438	genes
+#455	AnnotatorNotes T455	SO:0000704 (gene)
+T456	GO_BP 18459 18468	expressed
+#456	AnnotatorNotes T456	GO:0010467 (gene expression)
+T457	italic 18501 18507	H2-Q10
+#457	AnnotatorNotes T457	italic (null)
+T458	PR 18501 18507	H2-Q10
+#458	AnnotatorNotes T458	PR:000008409 (H-2 class I histocompatibility antigen, Q10 alpha chain)
+T459	EntrezGene 18501 18507	H2-Q10
+#459	AnnotatorNotes T459	EG:15007
+T460	italic 18509 18515	Mapk14
+#460	AnnotatorNotes T460	italic (null)
+T461	PR 18509 18515	Mapk14
+#461	AnnotatorNotes T461	PR:000003107 (mitogen-activated protein kinase 14)
+T462	EntrezGene 18509 18515	Mapk14
+#462	AnnotatorNotes T462	EG:26416
+T463	italic 18517 18522	Pscd1
+#463	AnnotatorNotes T463	italic (null)
+T464	EntrezGene 18517 18522	Pscd1
+#464	AnnotatorNotes T464	EG:19157
+T465	PR 18517 18522	Pscd1
+#465	AnnotatorNotes T465	PR:000006153 (cytohesin-1)
+T466	italic 18524 18529	Kpnb1
+#466	AnnotatorNotes T466	italic (null)
+T467	EntrezGene 18524 18529	Kpnb1
+#467	AnnotatorNotes T467	EG:16211
+T468	PR 18524 18529	Kpnb1
+#468	AnnotatorNotes T468	PR:000009439 (importin subunit beta-1)
+T469	italic 18534 18538	Wdr1
+#469	AnnotatorNotes T469	italic (null)
+T470	PR 18534 18538	Wdr1
+#470	AnnotatorNotes T470	PR:000017387 (WD repeat-containing protein 1)
+T471	EntrezGene 18534 18538	Wdr1
+#471	AnnotatorNotes T471	EG:22388
+T472	SO 18557 18562	genes
+#472	AnnotatorNotes T472	SO:0000704 (gene)
+T473	italic 18564 18570	H2-Q10
+#473	AnnotatorNotes T473	italic (null)
+T474	EntrezGene 18564 18570	H2-Q10
+#474	AnnotatorNotes T474	EG:15007
+T475	PR 18564 18570	H2-Q10
+#475	AnnotatorNotes T475	PR:000008409 (H-2 class I histocompatibility antigen, Q10 alpha chain)
+T476	GO_BP 18597 18607	expression
+#476	AnnotatorNotes T476	GO:0010467 (gene expression)
+T477	SO 18683 18688	genes
+#477	AnnotatorNotes T477	SO:0000704 (gene)
+T478	GO_BP 18702 18712	expression
+#478	AnnotatorNotes T478	GO:0010467 (gene expression)
+T479	GO_BP 18791 18801	expression
+#479	AnnotatorNotes T479	GO:0010467 (gene expression)
+T480	GO_BP 18896 18918	protein kinase cascade
+#480	AnnotatorNotes T480	GO:0007243 (protein kinase cascade)
+T481	independent_continuant 18896 18910	protein kinase
+#481	AnnotatorNotes T481	independent_continuant
+T482	GO_MF 18896 18910	protein kinase
+#482	AnnotatorNotes T482	GO:0004672 (protein kinase activity)
+T483	CHEBI 18896 18903	protein
+#483	AnnotatorNotes T483	CHEBI:36080 (proteins)
+T484	SO 18966 18971	genes
+#484	AnnotatorNotes T484	SO:0000704 (gene)
+T485	SO 19012 19017	genes
+#485	AnnotatorNotes T485	SO:0000704 (gene)
+T486	italic 19029 19035	Mapk14
+#486	AnnotatorNotes T486	italic (null)
+T487	PR 19029 19035	Mapk14
+#487	AnnotatorNotes T487	PR:000003107 (mitogen-activated protein kinase 14)
+T488	EntrezGene 19029 19035	Mapk14
+#488	AnnotatorNotes T488	EG:26416
+T489	italic 19037 19045	Mapk8ip3
+#489	AnnotatorNotes T489	italic (null)
+T490	EntrezGene 19037 19045	Mapk8ip3
+#490	AnnotatorNotes T490	EG:30957
+T491	PR 19037 19045	Mapk8ip3
+#491	AnnotatorNotes T491	PR:000010162 (C-Jun-amino-terminal kinase-interacting protein 3)
+T492	italic 19047 19053	Stat5a
+#492	AnnotatorNotes T492	italic (null)
+T493	EntrezGene 19047 19053	Stat5a
+#493	AnnotatorNotes T493	EG:20850
+T494	PR 19047 19053	Stat5a
+#494	AnnotatorNotes T494	PR:000002091 (signal transducer and activator of transcription 5a)
+T495	italic 19058 19063	Gna12
+#495	AnnotatorNotes T495	italic (null)
+T496	EntrezGene 19058 19063	Gna12
+#496	AnnotatorNotes T496	EG:14673
+T497	PR 19058 19063	Gna12
+#497	AnnotatorNotes T497	PR:000008081 (guanine nucleotide-binding protein subunit alpha-12)
+T498	SO 19150 19153	QTL
+#498	AnnotatorNotes T498	SO:0000771 (QTL)
+T499	SO 19185 19188	QTL
+#499	AnnotatorNotes T499	SO:0000771 (QTL)
+T500	italic 19242 19243	P
+#500	AnnotatorNotes T500	italic (null)
+T501	SO 19425 19428	QTL
+#501	AnnotatorNotes T501	SO:0000771 (QTL)
+T502	SO 19459 19464	genes
+#502	AnnotatorNotes T502	SO:0000704 (gene)
+T503	EntrezGene 19566 19568	C5
+#503	AnnotatorNotes T503	EG:15139
+T504	PR 19566 19568	C5
+#504	AnnotatorNotes T504	PR:000004904 (complement C5)
+T505	SO 19568 19569	+
+#505	AnnotatorNotes T505	SO:0000817 (wild_type)
+T506	SO 19570 19571	+
+#506	AnnotatorNotes T506	SO:0000817 (wild_type)
+T507	EntrezGene 19591 19593	C5
+#507	AnnotatorNotes T507	EG:15139
+T508	PR 19591 19593	C5
+#508	AnnotatorNotes T508	PR:000004904 (complement C5)
+T509	SO 19593 19594	+
+#509	AnnotatorNotes T509	SO:0000817 (wild_type)
+T510	SO 19640 19643	QTL
+#510	AnnotatorNotes T510	SO:0000771 (QTL)
+T511	SO 19708 19711	QTL
+#511	AnnotatorNotes T511	SO:0000771 (QTL)
+T512	SO 19743 19746	QTL
+#512	AnnotatorNotes T512	SO:0000771 (QTL)
+T513	SO 19802 19805	QTL
+#513	AnnotatorNotes T513	SO:0000771 (QTL)
+T514	SO 19839 19843	loci
+#514	AnnotatorNotes T514	SO:0000001 (region)
+T515	SO 19872 19880	syntenic
+#515	AnnotatorNotes T515	SO:0000860 (syntenic)
+T516	SO 19920 19935	genomic regions
+#516	AnnotatorNotes T516	SO:0000991 (genomic_DNA)
+T517	SO 19920 19927	genomic
+#517	AnnotatorNotes T517	SO:0001026 (genome)
+T518	NCBITaxon 19943 19948	human
+#518	AnnotatorNotes T518	NCBITaxon:9606 (Homo sapiens)
+T519	SO 19949 19955	genome
+#519	AnnotatorNotes T519	SO:0001026 (genome)
+T520	SO 19979 19982	QTL
+#520	AnnotatorNotes T520	SO:0000771 (QTL)
+T521	SO 20037 20040	QTL
+#521	AnnotatorNotes T521	SO:0000771 (QTL)
+T522	SO 20051 20058	alleles
+#522	AnnotatorNotes T522	SO:0001023 (allele)
+T523	GO_BP 20077 20086	enhancing
+#523	AnnotatorNotes T523	GO:0048518 (positive regulation of biological process)
+T524	SO 20087 20094	alleles
+#524	AnnotatorNotes T524	SO:0001023 (allele)
+T525	SO 20111 20118	alleles
+#525	AnnotatorNotes T525	SO:0001023 (allele)
+T526	GO_BP 20137 20146	enhancing
+#526	AnnotatorNotes T526	GO:0048518 (positive regulation of biological process)
+T527	SO 20147 20154	alleles
+#527	AnnotatorNotes T527	SO:0001023 (allele)
+T528	SO 20174 20177	QTL
+#528	AnnotatorNotes T528	SO:0000771 (QTL)
+T529	SO 20215 20220	genes
+#529	AnnotatorNotes T529	SO:0000704 (gene)
+T530	SO 20274 20278	loci
+#530	AnnotatorNotes T530	SO:0000001 (region)
+T531	SO 20332 20335	QTL
+#531	AnnotatorNotes T531	SO:0000771 (QTL)
+T532	SO 20382 20387	Locus
+#532	AnnotatorNotes T532	SO:0000001 (region)
+T533	SO 20414 20428	genomic region
+#533	AnnotatorNotes T533	SO:0000991 (genomic_DNA)
+T534	SO 20414 20421	genomic
+#534	AnnotatorNotes T534	SO:0001026 (genome)
+T535	italic 20432 20437	Cia27
+#535	AnnotatorNotes T535	italic (null)
+T536	EntrezGene 20432 20437	Cia27
+#536	AnnotatorNotes T536	EG:100035776
+T537	SO 20441 20444	QTL
+#537	AnnotatorNotes T537	SO:0000771 (QTL)
+T538	GO_BP 20445 20456	controlling
+#538	AnnotatorNotes T538	GO:0065007 (biological regulation)
+T539	GO_CC 20463 20471	antibody
+#539	AnnotatorNotes T539	GO:0019814 (immunoglobulin complex)
+T540	GO_CC 20482 20493	collagen II
+#540	AnnotatorNotes T540	GO:0005585 (collagen type II)
+T541	EntrezGene 20482 20493	collagen II
+#541	AnnotatorNotes T541	EG:12824
+T542	PR 20482 20493	collagen II
+#542	AnnotatorNotes T542	PR:000003266 (collagen type II alpha chain)
+T543	SO 20526 20529	QTL
+#543	AnnotatorNotes T543	SO:0000771 (QTL)
+T544	SO 20544 20558	genomic region
+#544	AnnotatorNotes T544	SO:0000991 (genomic_DNA)
+T545	SO 20544 20551	genomic
+#545	AnnotatorNotes T545	SO:0001026 (genome)
+T546	SO 20577 20581	gene
+#546	AnnotatorNotes T546	SO:0000704 (gene)
+T547	SO 20594 20600	region
+#547	AnnotatorNotes T547	SO:0000001 (region)
+T548	GO_BP 20601 20610	regulates
+#548	AnnotatorNotes T548	GO:0065007 (biological regulation)
+T549	GO_BP 20627 20638	controlling
+#549	AnnotatorNotes T549	GO:0065007 (biological regulation)
+T550	GO_CC 20649 20657	antibody
+#550	AnnotatorNotes T550	GO:0019814 (immunoglobulin complex)
+T551	GO_CC 20668 20679	collagen II
+#551	AnnotatorNotes T551	GO:0005585 (collagen type II)
+T552	EntrezGene 20668 20679	collagen II
+#552	AnnotatorNotes T552	EG:12824
+T553	PR 20668 20679	collagen II
+#553	AnnotatorNotes T553	PR:000003266 (collagen type II alpha chain)
+T554	SO 20686 20707	Locus 7 on chromosome
+#554	AnnotatorNotes T554	"Locus .. on chromosome" SO:0000830 (chromosome_part)
+T555	GO_CC 20697 20707	chromosome
+#555	AnnotatorNotes T555	GO:0005694 (chromosome)
+T556	SO 20697 20707	chromosome
+#556	AnnotatorNotes T556	SO:0000340 (chromosome)
+T557	italic 20725 20728	Lp1
+#557	AnnotatorNotes T557	italic (null)
+T558	EntrezGene 20725 20728	Lp1
+#558	AnnotatorNotes T558	EG:100034901
+T559	GO_BP 20736 20744	controls
+#559	AnnotatorNotes T559	GO:0065007 (biological regulation)
+T560	GO_BP 20745 20769	lymphocyte proliferation
+#560	AnnotatorNotes T560	GO:0046651 (lymphocyte proliferation)
+T561	CL 20745 20755	lymphocyte
+#561	AnnotatorNotes T561	CL:0000542 (lymphocyte)
+T562	SO 20819 20839	loci 8 on chromosome
+#562	AnnotatorNotes T562	"loci .. on chromosome" SO:0000830 (chromosome_part)
+T563	GO_CC 20829 20839	chromosome
+#563	AnnotatorNotes T563	GO:0005694 (chromosome)
+T564	SO 20829 20839	chromosome
+#564	AnnotatorNotes T564	SO:0000340 (chromosome)
+T565	GO_BP 20843 20851	controls
+#565	AnnotatorNotes T565	GO:0065007 (biological regulation)
+T566	CL 20852 20862	lymphocyte
+#566	AnnotatorNotes T566	CL:0000542 (lymphocyte)
+T567	GO_BP 20863 20872	adherence
+#567	AnnotatorNotes T567	GO:0022610 (biological adhesion)
+T568	SO 20915 20919	gene
+#568	AnnotatorNotes T568	SO:0000704 (gene)
+T569	SO 20944 20947	QTL
+#569	AnnotatorNotes T569	SO:0000771 (QTL)
+T570	GO_BP 20982 20993	controlling
+#570	AnnotatorNotes T570	GO:0065007 (biological regulation)
+T571	GO_BP 21073 21088	gene expression
+#571	AnnotatorNotes T571	GO:0010467 (gene expression)
+T572	SO 21073 21077	gene
+#572	AnnotatorNotes T572	SO:0000704 (gene)
+T573	GO_BP 21203 21218	gene expression
+#573	AnnotatorNotes T573	GO:0010467 (gene expression)
+T574	SO 21203 21207	gene
+#574	AnnotatorNotes T574	SO:0000704 (gene)
+T575	GO_BP 21271 21286	gene expression
+#575	AnnotatorNotes T575	GO:0010467 (gene expression)
+T576	SO 21271 21275	gene
+#576	AnnotatorNotes T576	SO:0000704 (gene)
+T577	SO 21311 21322	genetically
+#577	AnnotatorNotes T577	SO:0000704 (gene)
+T578	GO_BP 21422 21431	regulated
+#578	AnnotatorNotes T578	GO:0065007 (biological regulation)
+T579	SO 21432 21437	genes
+#579	AnnotatorNotes T579	SO:0000704 (gene)
+T580	SO 21515 21520	genes
+#580	AnnotatorNotes T580	SO:0000704 (gene)
+T581	GO_BP 21541 21550	expressed
+#581	AnnotatorNotes T581	GO:0010467 (gene expression)
+T582	GO_BP 21595 21615	biological responses
+#582	AnnotatorNotes T582	GO:0050896 (response to stimulus)
+T583	GO_BP 21691 21700	responses
+#583	AnnotatorNotes T583	GO:0050896 (response to stimulus)
+T584	SO 21844 21849	genes
+#584	AnnotatorNotes T584	SO:0000704 (gene)
+T585	SO 21880 21885	genes
+#585	AnnotatorNotes T585	SO:0000704 (gene)
+T586	GO_BP 21899 21909	expression
+#586	AnnotatorNotes T586	GO:0010467 (gene expression)
+T587	GO_BP 21993 22003	expression
+#587	AnnotatorNotes T587	GO:0010467 (gene expression)
+T588	SO 22072 22077	genes
+#588	AnnotatorNotes T588	SO:0000704 (gene)
+T589	GO_BP 22094 22133	lymphocyte proliferation and activation
+#589	AnnotatorNotes T589	"lymphocyte .. activation" GO:0046649 (lymphocyte activation)
+T590	GO_BP 22094 22118	lymphocyte proliferation
+#590	AnnotatorNotes T590	GO:0046651 (lymphocyte proliferation)
+T591	CL 22094 22104	lymphocyte
+#591	AnnotatorNotes T591	CL:0000542 (lymphocyte)
+T592	CL 22151 22162	lymphocytes
+#592	AnnotatorNotes T592	CL:0000542 (lymphocyte)
+T593	GO_BP 22192 22201	activated
+#593	AnnotatorNotes T593	GO:0001775 (cell activation)
+T594	GO_BP 22291 22301	expression
+#594	AnnotatorNotes T594	GO:0010467 (gene expression)
+T595	NCBITaxon 22348 22352	mice
+#595	AnnotatorNotes T595	NCBITaxon:10088 (Mus)
+T596	SO 22394 22399	genes
+#596	AnnotatorNotes T596	SO:0000704 (gene)
+T597	GO_BP 22415 22430	immune response
+#597	AnnotatorNotes T597	GO:0006955 (immune response)
+T598	GO_BP 22436 22447	upregulated
+#598	AnnotatorNotes T598	GO:0048518 (positive regulation of biological process)
+T599	GO_BP 22553 22570	antibody response
+#599	AnnotatorNotes T599	GO:0016064 (immunoglobulin mediated immune response)
+T600	GO_CC 22553 22561	antibody
+#600	AnnotatorNotes T600	GO:0019814 (immunoglobulin complex)
+T601	GO_CC 22574 22585	collagen II
+#601	AnnotatorNotes T601	GO:0005585 (collagen type II)
+T602	PR 22574 22585	collagen II
+#602	AnnotatorNotes T602	PR:000003266 (collagen type II alpha chain)
+T603	EntrezGene 22574 22585	collagen II
+#603	AnnotatorNotes T603	EG:12824
+T604	SO 22751 22756	genes
+#604	AnnotatorNotes T604	SO:0000704 (gene)
+T605	SO 22796 22801	genes
+#605	AnnotatorNotes T605	SO:0000704 (gene)
+T606	SO 22836 22839	QTL
+#606	AnnotatorNotes T606	SO:0000771 (QTL)
+T607	GO_BP 22859 22874	gene expression
+#607	AnnotatorNotes T607	GO:0010467 (gene expression)
+T608	SO 22859 22863	gene
+#608	AnnotatorNotes T608	SO:0000704 (gene)
+T609	SO 22905 22922	genomic locations
+#609	AnnotatorNotes T609	SO:0000991 (genomic_DNA)
+T610	SO 22905 22912	genomic
+#610	AnnotatorNotes T610	SO:0001026 (genome)
+T611	SO 22937 22942	genes
+#611	AnnotatorNotes T611	SO:0000704 (gene)
+T612	SO 22959 22962	QTL
+#612	AnnotatorNotes T612	SO:0000771 (QTL)
+T613	SO 22992 23005	polymorphisms
+#613	AnnotatorNotes T613	SO:0001025 (polymorphic_sequence_variant)
+T614	SO 22992 23005	polymorphisms
+#614	AnnotatorNotes T614	SO:0000694 (SNP)
+T615	SO 23028 23033	genes
+#615	AnnotatorNotes T615	SO:0000704 (gene)
+T616	SO 23051 23054	QTL
+#616	AnnotatorNotes T616	SO:0000771 (QTL)
+T617	GO_BP 23089 23099	regulating
+#617	AnnotatorNotes T617	GO:0065007 (biological regulation)
+T618	GO_BP 23100 23115	gene expression
+#618	AnnotatorNotes T618	GO:0010467 (gene expression)
+T619	SO 23100 23104	gene
+#619	AnnotatorNotes T619	SO:0000704 (gene)
+T620	SO 23141 23146	genes
+#620	AnnotatorNotes T620	SO:0000704 (gene)
+T621	italic 23190 23196	Mapk14
+#621	AnnotatorNotes T621	italic (null)
+T622	EntrezGene 23190 23196	Mapk14
+#622	AnnotatorNotes T622	EG:26416
+T623	PR 23190 23196	Mapk14
+#623	AnnotatorNotes T623	PR:000003107 (mitogen-activated protein kinase 14)
+T624	SO 23210 23214	gene
+#624	AnnotatorNotes T624	SO:0000704 (gene)
+T625	SO 23219 23224	locus
+#625	AnnotatorNotes T625	SO:0000001 (region)
+T626	EntrezGene 23243 23292	p38 mitogen-activated protein kinase (MAPK) alpha
+#626	AnnotatorNotes T626	"p38 mitogen-activated protein kinase .. alpha" EG:26416
+T627	PR 23243 23292	p38 mitogen-activated protein kinase (MAPK) alpha
+#627	AnnotatorNotes T627	"p38 .. MAPK .. alpha" PR:000003107 (mitogen-activated protein kinase 14)
+T628	PR 23243 23292	p38 mitogen-activated protein kinase (MAPK) alpha
+#628	AnnotatorNotes T628	"p38 mitogen-activated protein kinase .. alpha" PR:000003107 (mitogen-activated protein kinase 14)
+T629	EntrezGene 23243 23292	p38 mitogen-activated protein kinase (MAPK) alpha
+#629	AnnotatorNotes T629	"p38 .. MAPK .. alpha" EG:26416
+T630	GO_MF 23247 23279	mitogen-activated protein kinase
+#630	AnnotatorNotes T630	GO:0004707 (MAP kinase activity)
+T631	independent_continuant 23247 23279	mitogen-activated protein kinase
+#631	AnnotatorNotes T631	independent_continuant
+T632	CHEBI 23265 23272	protein
+#632	AnnotatorNotes T632	CHEBI:36080 (proteins)
+T633	GO_MF 23281 23285	MAPK
+#633	AnnotatorNotes T633	GO:0004707 (MAP kinase activity)
+T634	independent_continuant 23281 23285	MAPK
+#634	AnnotatorNotes T634	independent_continuant
+T635	GO_BP 23294 23303	regulates
+#635	AnnotatorNotes T635	GO:0065007 (biological regulation)
+T636	GO_BP 23308 23351	production of arthritis-essential cytokines
+#636	AnnotatorNotes T636	"production of .. cytokines" GO:0042089 (cytokine biosynthetic process)
+T637	GO_BP 23308 23351	production of arthritis-essential cytokines
+#637	AnnotatorNotes T637	"production of .. cytokines" GO:0001816 (cytokine production)
+T638	GO_MF 23342 23351	cytokines
+#638	AnnotatorNotes T638	GO:0005125 (cytokine activity)
+T639	independent_continuant 23342 23351	cytokines
+#639	AnnotatorNotes T639	independent_continuant
+T640	PR 23361 23383	tumour necrosis factor
+#640	AnnotatorNotes T640	PR:000000033 (tumor necrosis factor, TNF-like)
+T641	PR 23388 23401	interleukin-1
+#641	AnnotatorNotes T641	PR:000001091 (interleukin-1)
+T642	CHEBI 23418 23428	inhibitors
+#642	AnnotatorNotes T642	CHEBI:35222 (inhibitor)
+T643	EntrezGene 23432 23440	p38 MAPK
+#643	AnnotatorNotes T643	EG:81649
+T644	PR 23432 23440	p38 MAPK
+#644	AnnotatorNotes T644	PR:000003106 (map kinase p38)
+T645	GO_MF 23436 23440	MAPK
+#645	AnnotatorNotes T645	GO:0004707 (MAP kinase activity)
+T646	independent_continuant 23436 23440	MAPK
+#646	AnnotatorNotes T646	independent_continuant
+T647	NCBITaxon 23464 23468	rats
+#647	AnnotatorNotes T647	NCBITaxon:10114 (Rattus)
+T648	EntrezGene 23479 23487	p38 MAPK
+#648	AnnotatorNotes T648	EG:1432
+T649	PR 23479 23487	p38 MAPK
+#649	AnnotatorNotes T649	PR:000003106 (map kinase p38)
+T650	independent_continuant 23483 23487	MAPK
+#650	AnnotatorNotes T650	independent_continuant
+T651	GO_MF 23483 23487	MAPK
+#651	AnnotatorNotes T651	GO:0004707 (MAP kinase activity)
+T652	italic 23543 23549	Stat5a
+#652	AnnotatorNotes T652	italic (null)
+T653	PR 23543 23549	Stat5a
+#653	AnnotatorNotes T653	PR:000002091 (signal transducer and activator of transcription 5a)
+T654	EntrezGene 23543 23549	Stat5a
+#654	AnnotatorNotes T654	EG:20850
+T655	SO 23563 23567	gene
+#655	AnnotatorNotes T655	SO:0000704 (gene)
+T656	SO 23572 23576	loci
+#656	AnnotatorNotes T656	SO:0000001 (region)
+T657	CHEBI 23596 23604	molecule
+#657	AnnotatorNotes T657	CHEBI:23367 (molecular entity)
+T658	GO_BP 23618 23629	development
+#658	AnnotatorNotes T658	GO:0032502 (developmental process)
+T659	GO_BP 23634 23649	differentiation
+#659	AnnotatorNotes T659	GO:0030154 (cell differentiation)
+T660	italic 23656 23662	Stat5a
+#660	AnnotatorNotes T660	italic (null)
+T661	PR 23656 23662	Stat5a
+#661	AnnotatorNotes T661	PR:000002091 (signal transducer and activator of transcription 5a)
+T662	EntrezGene 23656 23662	Stat5a
+#662	AnnotatorNotes T662	EG:20850
+T663	NCBITaxon 23673 23677	mice
+#663	AnnotatorNotes T663	NCBITaxon:10088 (Mus)
+T664	italic 23764 23770	Stat5a
+#664	AnnotatorNotes T664	italic (null)
+T665	PR 23764 23770	Stat5a
+#665	AnnotatorNotes T665	PR:000002091 (signal transducer and activator of transcription 5a)
+T666	PR 23838 23841	CD4
+#666	AnnotatorNotes T666	PR:000001004 (CD4)
+T667	PR 23842 23846	CD25
+#667	AnnotatorNotes T667	PR:000001380 (interleukin-2 receptor subunit alpha)
+T668	CL 23848 23865	regulatory T cell
+#668	AnnotatorNotes T668	CL:0000815 (regulatory T cell)
+T669	GO_BP 23848 23858	regulatory
+#669	AnnotatorNotes T669	GO:0065007 (biological regulation)
+T670	GO_CC 23861 23865	cell
+#670	AnnotatorNotes T670	GO:0005623 (cell)
+T671	SO 23949 23952	QTL
+#671	AnnotatorNotes T671	SO:0000771 (QTL)
+T672	SO 23988 23993	genes
+#672	AnnotatorNotes T672	SO:0000704 (gene)
+T673	NCBITaxon 24088 24095	animals
+#673	AnnotatorNotes T673	NCBITaxon:33208 (Metazoa)
+T674	SO 24156 24162	genome
+#674	AnnotatorNotes T674	SO:0001026 (genome)
+T675	SO 24201 24204	QTL
+#675	AnnotatorNotes T675	SO:0000771 (QTL)
+T676	italic 24250 24251	P
+#676	AnnotatorNotes T676	italic (null)
+T677	SO 24299 24304	locus
+#677	AnnotatorNotes T677	SO:0000001 (region)
+T678	italic 24333 24334	P
+#678	AnnotatorNotes T678	italic (null)
+T679	SO 24403 24406	QTL
+#679	AnnotatorNotes T679	SO:0000771 (QTL)
+T680	NCBITaxon 24456 24463	animals
+#680	AnnotatorNotes T680	NCBITaxon:33208 (Metazoa)
+T681	GO_BP 24511 24526	gene expression
+#681	AnnotatorNotes T681	GO:0010467 (gene expression)
+T682	SO 24511 24515	gene
+#682	AnnotatorNotes T682	SO:0000704 (gene)
+T683	GO_BP 24586 24595	expressed
+#683	AnnotatorNotes T683	GO:0010467 (gene expression)
+T684	SO 24596 24601	genes
+#684	AnnotatorNotes T684	SO:0000704 (gene)
+T685	GO_BP 24633 24653	expression of a gene
+#685	AnnotatorNotes T685	"expression of .. gene" GO:0010467 (gene expression)
+T686	SO 24649 24653	gene
+#686	AnnotatorNotes T686	SO:0000704 (gene)
+T687	SO 24681 24687	allele
+#687	AnnotatorNotes T687	SO:0001023 (allele)
+T688	SO 24867 24872	genes
+#688	AnnotatorNotes T688	SO:0000704 (gene)
+T689	SO 24890 24893	QTL
+#689	AnnotatorNotes T689	SO:0000771 (QTL)
+T690	SO 24942 24947	genes
+#690	AnnotatorNotes T690	SO:0000704 (gene)
+T691	SO 24967 24970	QTL
+#691	AnnotatorNotes T691	SO:0000771 (QTL)
+T692	GO_BP 24971 24981	regulating
+#692	AnnotatorNotes T692	GO:0065007 (biological regulation)
+T693	GO_BP 25076 25086	generating
+#693	AnnotatorNotes T693	GO:0000003 (reproduction)
+T694	NCBITaxon 25096 25103	animals
+#694	AnnotatorNotes T694	NCBITaxon:33208 (Metazoa)
+T695	SO 25131 25134	QTL
+#695	AnnotatorNotes T695	SO:0000771 (QTL)
+T696	italic 25161 25162	P
+#696	AnnotatorNotes T696	italic (null)
+T697	SO 25219 25222	QTL
+#697	AnnotatorNotes T697	SO:0000771 (QTL)
+T698	SO 25271 25276	genes
+#698	AnnotatorNotes T698	SO:0000704 (gene)
+T699	NCBITaxon 25288 25293	mouse
+#699	AnnotatorNotes T699	NCBITaxon:10088 (Mus)
+T700	NCBITaxon 25298 25303	human
+#700	AnnotatorNotes T700	NCBITaxon:9606 (Homo sapiens)
+T701	SO 25323 25328	genes
+#701	AnnotatorNotes T701	SO:0000704 (gene)
+T702	SO 25378 25390	polymorphism
+#702	AnnotatorNotes T702	SO:0001025 (polymorphic_sequence_variant)
+T703	SO 25378 25390	polymorphism
+#703	AnnotatorNotes T703	SO:0000694 (SNP)
+T704	GO_BP 25436 25444	generate
+#704	AnnotatorNotes T704	GO:0000003 (reproduction)
+T705	NCBITaxon 25455 25459	mice
+#705	AnnotatorNotes T705	NCBITaxon:10088 (Mus)
+T706	SO 25491 25496	genes
+#706	AnnotatorNotes T706	SO:0000704 (gene)
+T707	SO 25513 25517	loci
+#707	AnnotatorNotes T707	SO:0000001 (region)
+T708	NCBITaxon 25544 25549	human
+#708	AnnotatorNotes T708	NCBITaxon:9606 (Homo sapiens)
+T709	SO 25550 25556	genome
+#709	AnnotatorNotes T709	SO:0001026 (genome)
+T710	SO 25609 25614	genes
+#710	AnnotatorNotes T710	SO:0000704 (gene)
+T711	GO_CC 25715 25723	collagen
+#711	AnnotatorNotes T711	GO:0005581 (collagen)
+T712	PR 25715 25723	collagen
+#712	AnnotatorNotes T712	PR:000003262 (collagen alpha chain)
+T713	SO 25779 25783	Gene
+#713	AnnotatorNotes T713	SO:0000704 (gene)
+T714	independent_continuant 25840 25844	MAPK
+#714	AnnotatorNotes T714	independent_continuant
+T715	GO_MF 25840 25844	MAPK
+#715	AnnotatorNotes T715	GO:0004707 (MAP kinase activity)
+T716	independent_continuant 25847 25879	mitogen-activated protein kinase
+#716	AnnotatorNotes T716	independent_continuant
+T717	GO_MF 25847 25879	mitogen-activated protein kinase
+#717	AnnotatorNotes T717	GO:0004707 (MAP kinase activity)
+T718	CHEBI 25865 25872	protein
+#718	AnnotatorNotes T718	CHEBI:36080 (proteins)
+T719	SO 25975 25979	gene
+#719	AnnotatorNotes T719	SO:0000704 (gene)
+T720	SO 25981 25984	QTL
+#720	AnnotatorNotes T720	SO:0000771 (QTL)
+T721	SO 25987 26010	quantitative trait loci
+#721	AnnotatorNotes T721	SO:0000771 (QTL)
+T722	NCBITaxon 26169 26175	animal
+#722	AnnotatorNotes T722	NCBITaxon:33208 (Metazoa)
+T723	GO_BP 26210 26225	gene expression
+#723	AnnotatorNotes T723	GO:0010467 (gene expression)
+T724	SO 26210 26214	gene
+#724	AnnotatorNotes T724	SO:0000704 (gene)
+T725	SO 26500 26505	genes
+#725	AnnotatorNotes T725	SO:0000704 (gene)
+T726	GO_BP 26521 26530	expressed
+#726	AnnotatorNotes T726	GO:0010467 (gene expression)
+T727	GO_BP 26712 26721	expressed
+#727	AnnotatorNotes T727	GO:0010467 (gene expression)
+T728	SO 26722 26727	genes
+#728	AnnotatorNotes T728	SO:0000704 (gene)
+T729	italic 26882 26883	P
+#729	AnnotatorNotes T729	italic (null)
+T730	italic 26916 26917	t
+#730	AnnotatorNotes T730	italic (null)
+T731	SO 27004 27009	genes
+#731	AnnotatorNotes T731	SO:0000704 (gene)
+T732	GO_BP 27025 27034	expressed
+#732	AnnotatorNotes T732	GO:0010467 (gene expression)
+T733	GO_BP 27210 27219	expressed
+#733	AnnotatorNotes T733	GO:0010467 (gene expression)
+T734	SO 27220 27225	genes
+#734	AnnotatorNotes T734	SO:0000704 (gene)
+T735	italic 27380 27381	P
+#735	AnnotatorNotes T735	italic (null)
+T736	italic 27414 27415	t
+#736	AnnotatorNotes T736	italic (null)
+T737	SO 27502 27507	genes
+#737	AnnotatorNotes T737	SO:0000704 (gene)
+T738	GO_BP 27549 27558	expressed
+#738	AnnotatorNotes T738	GO:0010467 (gene expression)
+T739	SO 27626 27635	positions
+#739	AnnotatorNotes T739	SO:0000001 (region)
+T740	SO 27643 27648	genes
+#740	AnnotatorNotes T740	SO:0000704 (gene)
+T741	NCBITaxon 27767 27773	animal
+#741	AnnotatorNotes T741	NCBITaxon:33208 (Metazoa)
+T742	GO_BP 27909 27918	expressed
+#742	AnnotatorNotes T742	GO:0010467 (gene expression)
+T743	SO 27919 27924	genes
+#743	AnnotatorNotes T743	SO:0000704 (gene)
+T744	GO_CC 27933 27941	collagen
+#744	AnnotatorNotes T744	GO:0005581 (collagen)
+T745	PR 27933 27941	collagen
+#745	AnnotatorNotes T745	PR:000003262 (collagen alpha chain)
+T746	GO_BP 28019 28034	gene expression
+#746	AnnotatorNotes T746	GO:0010467 (gene expression)
+T747	SO 28019 28023	gene
+#747	AnnotatorNotes T747	SO:0000704 (gene)
+T748	SO 28131 28136	genes
+#748	AnnotatorNotes T748	SO:0000704 (gene)
+T749	GO_BP 28162 28171	expressed
+#749	AnnotatorNotes T749	GO:0010467 (gene expression)
+T750	SO 28237 28242	genes
+#750	AnnotatorNotes T750	SO:0000704 (gene)
+T751	SO 28280 28285	genes
+#751	AnnotatorNotes T751	SO:0000704 (gene)
+T752	SO 28323 28328	genes
+#752	AnnotatorNotes T752	SO:0000704 (gene)
+T753	SO 28373 28378	genes
+#753	AnnotatorNotes T753	SO:0000704 (gene)
+T754	SO 28457 28468	overlapping
+#754	AnnotatorNotes T754	SO:0000068 (overlapping)
+T755	SO 28469 28474	genes
+#755	AnnotatorNotes T755	SO:0000704 (gene)
+T756	GO_BP 28490 28499	expressed
+#756	AnnotatorNotes T756	GO:0010467 (gene expression)
+T757	GO_BP 28554 28563	expressed
+#757	AnnotatorNotes T757	GO:0010467 (gene expression)
+T758	SO 28564 28569	genes
+#758	AnnotatorNotes T758	SO:0000704 (gene)
+T759	GO_CC 28597 28605	collagen
+#759	AnnotatorNotes T759	GO:0005581 (collagen)
+T760	PR 28597 28605	collagen
+#760	AnnotatorNotes T760	PR:000003262 (collagen alpha chain)
+T761	GO_BP 28805 28814	expressed
+#761	AnnotatorNotes T761	GO:0010467 (gene expression)
+T762	SO 28815 28820	genes
+#762	AnnotatorNotes T762	SO:0000704 (gene)
+T763	bold 28822 28825	(a)
+#763	AnnotatorNotes T763	bold (null)
+T764	SO 28864 28875	overlapping
+#764	AnnotatorNotes T764	SO:0000068 (overlapping)
+T765	SO 28876 28881	genes
+#765	AnnotatorNotes T765	SO:0000704 (gene)
+T766	GO_BP 28897 28906	expressed
+#766	AnnotatorNotes T766	GO:0010467 (gene expression)
+T767	bold 28931 28934	(b)
+#767	AnnotatorNotes T767	bold (null)
+T768	GO_BP 28985 28994	expressed
+#768	AnnotatorNotes T768	GO:0010467 (gene expression)
+T769	SO 28995 29000	genes
+#769	AnnotatorNotes T769	SO:0000704 (gene)
+T770	GO_BP 29052 29067	gene expression
+#770	AnnotatorNotes T770	GO:0010467 (gene expression)
+T771	SO 29052 29056	gene
+#771	AnnotatorNotes T771	SO:0000704 (gene)
+T772	SO 29134 29139	genes
+#772	AnnotatorNotes T772	SO:0000704 (gene)
+T773	CL 29232 29236	cell
+#773	AnnotatorNotes T773	CL:0000000 (cell)
+T774	GO_CC 29232 29236	cell
+#774	AnnotatorNotes T774	GO:0005623 (cell)
+T775	GO_BP 29266 29276	expression
+#775	AnnotatorNotes T775	GO:0010467 (gene expression)
+T776	SO 29288 29292	gene
+#776	AnnotatorNotes T776	SO:0000704 (gene)
+T777	GO_BP 29324 29337	transcription
+#777	AnnotatorNotes T777	GO:0006350 (transcription)
+T778	SO 29388 29392	gene
+#778	AnnotatorNotes T778	SO:0000704 (gene)
+T779	GO_BP 29451 29461	expression
+#779	AnnotatorNotes T779	GO:0010467 (gene expression)
+T780	SO 29480 29484	gene
+#780	AnnotatorNotes T780	SO:0000704 (gene)
+T781	GO_BP 29559 29574	gene expression
+#781	AnnotatorNotes T781	GO:0010467 (gene expression)
+T782	SO 29559 29563	gene
+#782	AnnotatorNotes T782	SO:0000704 (gene)
+T783	GO_BP 29599 29609	expression
+#783	AnnotatorNotes T783	GO:0010467 (gene expression)
+T784	SO 29626 29630	gene
+#784	AnnotatorNotes T784	SO:0000704 (gene)
+T785	GO_BP 29665 29686	biological activities
+#785	AnnotatorNotes T785	GO:0008150 (biological_process)
+T786	SO 29821 29842	chromosomal locations
+#786	AnnotatorNotes T786	SO:0000830 (chromosome_part)
+T787	GO_CC 29821 29832	chromosomal
+#787	AnnotatorNotes T787	GO:0005694 (chromosome)
+T788	SO 29821 29832	chromosomal
+#788	AnnotatorNotes T788	SO:0000340 (chromosome)
+T789	SO 29863 29866	QTL
+#789	AnnotatorNotes T789	SO:0000771 (QTL)
+T790	SO 29918 29923	genes
+#790	AnnotatorNotes T790	SO:0000704 (gene)
+T791	GO_BP 29941 29956	gene expression
+#791	AnnotatorNotes T791	GO:0010467 (gene expression)
+T792	SO 29941 29945	gene
+#792	AnnotatorNotes T792	SO:0000704 (gene)
+T793	SO 29988 29997	positions
+#793	AnnotatorNotes T793	SO:0000001 (region)
+T794	SO 30009 30014	genes
+#794	AnnotatorNotes T794	SO:0000704 (gene)
+T795	SO 30043 30046	QTL
+#795	AnnotatorNotes T795	SO:0000771 (QTL)
+T796	SO 30113 30116	QTL
+#796	AnnotatorNotes T796	SO:0000771 (QTL)
+T797	GO_BP 30175 30190	gene expression
+#797	AnnotatorNotes T797	GO:0010467 (gene expression)
+T798	SO 30175 30179	gene
+#798	AnnotatorNotes T798	SO:0000704 (gene)
+T799	SO 30408 30411	QTL
+#799	AnnotatorNotes T799	SO:0000771 (QTL)
+T800	sup 30438 30439	a
+#800	AnnotatorNotes T800	sup (null)
+T801	sup 30473 30474	b
+#801	AnnotatorNotes T801	sup (null)
+T802	EntrezGene 30491 30493	C5
+#802	AnnotatorNotes T802	EG:15139
+T803	PR 30491 30493	C5
+#803	AnnotatorNotes T803	PR:000004904 (complement C5)
+T804	SO 30493 30494	+
+#804	AnnotatorNotes T804	SO:0000817 (wild_type)
+T805	SO 30495 30496	+
+#805	AnnotatorNotes T805	SO:0000817 (wild_type)
+T806	sup 30509 30510	c
+#806	AnnotatorNotes T806	sup (null)
+T807	EntrezGene 30528 30530	C5
+#807	AnnotatorNotes T807	EG:15139
+T808	PR 30528 30530	C5
+#808	AnnotatorNotes T808	PR:000004904 (complement C5)
+T809	SO 30530 30531	+
+#809	AnnotatorNotes T809	SO:0000817 (wild_type)
+T810	SO 30546 30549	QTL
+#810	AnnotatorNotes T810	SO:0000771 (QTL)
+T811	SO 30551 30574	quantitative trait loci
+#811	AnnotatorNotes T811	SO:0000771 (QTL)
+T812	SO 30640 30643	QTL
+#812	AnnotatorNotes T812	SO:0000771 (QTL)
+T813	SO 30654 30659	genes
+#813	AnnotatorNotes T813	SO:0000704 (gene)
+T814	sup 30661 30662	a
+#814	AnnotatorNotes T814	sup (null)
+T815	sup 30716 30717	b
+#815	AnnotatorNotes T815	sup (null)
+T816	GO_CC 30867 30871	Chr.
+#816	AnnotatorNotes T816	GO:0005694 (chromosome)
+T817	SO 30867 30871	Chr.
+#817	AnnotatorNotes T817	SO:0000340 (chromosome)
+T818	GO_CC 30873 30883	chromosome
+#818	AnnotatorNotes T818	GO:0005694 (chromosome)
+T819	SO 30873 30883	chromosome
+#819	AnnotatorNotes T819	SO:0000340 (chromosome)
+T820	GO_CC 30890 30898	collagen
+#820	AnnotatorNotes T820	GO:0005581 (collagen)
+T821	PR 30890 30898	collagen
+#821	AnnotatorNotes T821	PR:000003262 (collagen alpha chain)

@@ -1,0 +1,4426 @@
+T1	GO_BP 0 23	Dorsoventral Patterning
+#1	AnnotatorNotes T1	GO:0009953 (dorsal/ventral pattern formation)
+T2	NCBITaxon 31 36	Mouse
+#2	AnnotatorNotes T2	NCBITaxon:10088 (Mus)
+T3	italic 45 50	Tbx15
+#3	AnnotatorNotes T3	italic (null)
+T4	EntrezGene 45 50	Tbx15
+#4	AnnotatorNotes T4	EG:21384
+T5	PR 45 50	Tbx15
+#5	AnnotatorNotes T5	PR:000016145 (T-box transcription factor TBX15)
+T6	NCBITaxon 82 88	animal
+#6	AnnotatorNotes T6	NCBITaxon:33208 (Metazoa)
+T7	taxonomic_rank 89 96	kingdom
+#7	AnnotatorNotes T7	kingdom (null)
+T8	GO_BP 200 207	control
+#8	AnnotatorNotes T8	GO:0065007 (biological regulation)
+T9	GO_BP 232 244	pigmentation
+#9	AnnotatorNotes T9	GO:0043473 (pigmentation)
+T10	NCBITaxon 278 283	mouse
+#10	AnnotatorNotes T10	NCBITaxon:10088 (Mus)
+T11	SO 284 292	mutation
+#11	AnnotatorNotes T11	SO:0001059 (sequence_alteration)
+T12	italic 294 304	droopy ear
+#12	AnnotatorNotes T12	italic (null)
+T13	italic 306 309	deH
+#13	AnnotatorNotes T13	italic (null)
+T14	sup 308 309	H
+#14	AnnotatorNotes T14	sup (null)
+T15	GO_BP 378 385	control
+#15	AnnotatorNotes T15	GO:0065007 (biological regulation)
+T16	italic 393 399	Agouti
+#16	AnnotatorNotes T16	italic (null)
+T17	EntrezGene 393 399	Agouti
+#17	AnnotatorNotes T17	EG:50518
+T18	PR 393 399	Agouti
+#18	AnnotatorNotes T18	PR:000004372 (agouti-signaling protein)
+T19	SO 400 404	gene
+#19	AnnotatorNotes T19	SO:0000704 (gene)
+T20	NCBITaxon 406 410	Mice
+#20	AnnotatorNotes T20	NCBITaxon:10088 (Mus)
+T21	italic 424 430	Agouti
+#21	AnnotatorNotes T21	italic (null)
+T22	PR 424 430	Agouti
+#22	AnnotatorNotes T22	PR:000004372 (agouti-signaling protein)
+T23	EntrezGene 424 430	Agouti
+#23	AnnotatorNotes T23	EG:50518
+T24	SO 431 437	allele
+#24	AnnotatorNotes T24	SO:0001023 (allele)
+T25	italic 438 451	black-and-tan
+#25	AnnotatorNotes T25	italic (null)
+T26	italic 453 455	at
+#26	AnnotatorNotes T26	italic (null)
+T27	sup 454 455	t
+#27	AnnotatorNotes T27	sup (null)
+T28	italic 543 546	deH
+#28	AnnotatorNotes T28	italic (null)
+T29	sup 545 546	H
+#29	AnnotatorNotes T29	sup (null)
+T30	SO 547 555	mutation
+#30	AnnotatorNotes T30	SO:0001059 (sequence_alteration)
+T31	GO_BP 567 579	pigmentation
+#31	AnnotatorNotes T31	GO:0043473 (pigmentation)
+T32	SO 667 675	deletion
+#32	AnnotatorNotes T32	SO:0000159 (deletion)
+T33	italic 679 682	deH
+#33	AnnotatorNotes T33	italic (null)
+T34	sup 681 682	H
+#34	AnnotatorNotes T34	sup (null)
+T35	SO 688 695	removes
+#35	AnnotatorNotes T35	SO:0000045 (delete)
+T36	italic 726 731	Tbx15
+#36	AnnotatorNotes T36	italic (null)
+T37	PR 726 731	Tbx15
+#37	AnnotatorNotes T37	PR:000016145 (T-box transcription factor TBX15)
+T38	EntrezGene 726 731	Tbx15
+#38	AnnotatorNotes T38	EG:21384
+T39	SO 732 736	gene
+#39	AnnotatorNotes T39	SO:0000704 (gene)
+T40	GO_BP 754 764	expression
+#40	AnnotatorNotes T40	GO:0010467 (gene expression)
+T41	GO_BP 768 778	developing
+#41	AnnotatorNotes T41	GO:0032502 (developmental process)
+T42	CHEBI 806 816	pigmentary
+#42	AnnotatorNotes T42	CHEBI:26130 (pigment)
+T43	italic 856 859	deH
+#43	AnnotatorNotes T43	italic (null)
+T44	sup 858 859	H
+#44	AnnotatorNotes T44	sup (null)
+T45	italic 860 863	deH
+#45	AnnotatorNotes T45	italic (null)
+T46	sup 862 863	H
+#46	AnnotatorNotes T46	sup (null)
+T47	NCBITaxon 864 871	animals
+#47	AnnotatorNotes T47	NCBITaxon:33208 (Metazoa)
+T48	GO_BP 873 885	Construction
+#48	AnnotatorNotes T48	GO:0009058 (biosynthetic process)
+T49	SO 900 906	allele
+#49	AnnotatorNotes T49	SO:0001023 (allele)
+T50	italic 910 915	Tbx15
+#50	AnnotatorNotes T50	italic (null)
+T51	PR 910 915	Tbx15
+#51	AnnotatorNotes T51	PR:000016145 (T-box transcription factor TBX15)
+T52	EntrezGene 910 915	Tbx15
+#52	AnnotatorNotes T52	EG:21384
+T53	italic 935 938	deH
+#53	AnnotatorNotes T53	italic (null)
+T54	sup 937 938	H
+#54	AnnotatorNotes T54	sup (null)
+T55	italic 963 968	Tbx15
+#55	AnnotatorNotes T55	italic (null)
+T56	EntrezGene 963 968	Tbx15
+#56	AnnotatorNotes T56	EG:21384
+T57	PR 963 968	Tbx15
+#57	AnnotatorNotes T57	PR:000016145 (T-box transcription factor TBX15)
+T58	GO_BP 1003 1013	expression
+#58	AnnotatorNotes T58	GO:0010467 (gene expression)
+T59	italic 1017 1022	Tbx15
+#59	AnnotatorNotes T59	italic (null)
+T60	EntrezGene 1017 1022	Tbx15
+#60	AnnotatorNotes T60	EG:21384
+T61	PR 1017 1022	Tbx15
+#61	AnnotatorNotes T61	PR:000016145 (T-box transcription factor TBX15)
+T62	italic 1064 1070	Agouti
+#62	AnnotatorNotes T62	italic (null)
+T63	EntrezGene 1064 1070	Agouti
+#63	AnnotatorNotes T63	EG:50518
+T64	PR 1064 1070	Agouti
+#64	AnnotatorNotes T64	PR:000004372 (agouti-signaling protein)
+T65	GO_BP 1071 1081	expression
+#65	AnnotatorNotes T65	GO:0010467 (gene expression)
+T66	italic 1123 1128	Tbx15
+#66	AnnotatorNotes T66	italic (null)
+T67	EntrezGene 1123 1128	Tbx15
+#67	AnnotatorNotes T67	EG:21384
+T68	PR 1123 1128	Tbx15
+#68	AnnotatorNotes T68	PR:000016145 (T-box transcription factor TBX15)
+T69	GO_BP 1130 1140	expression
+#69	AnnotatorNotes T69	GO:0010467 (gene expression)
+T70	italic 1144 1150	Agouti
+#70	AnnotatorNotes T70	italic (null)
+T71	PR 1144 1150	Agouti
+#71	AnnotatorNotes T71	PR:000004372 (agouti-signaling protein)
+T72	EntrezGene 1144 1150	Agouti
+#72	AnnotatorNotes T72	EG:50518
+T73	NCBITaxon 1181 1188	animals
+#73	AnnotatorNotes T73	NCBITaxon:33208 (Metazoa)
+T74	GO_BP 1317 1329	pigmentation
+#74	AnnotatorNotes T74	GO:0043473 (pigmentation)
+T75	GO_BP 1345 1353	acquired
+#75	AnnotatorNotes T75	GO:0032502 (developmental process)
+T76	GO_BP 1403 1413	expression
+#76	AnnotatorNotes T76	GO:0010467 (gene expression)
+T77	italic 1417 1422	Tbx15
+#77	AnnotatorNotes T77	italic (null)
+T78	PR 1417 1422	Tbx15
+#78	AnnotatorNotes T78	PR:000016145 (T-box transcription factor TBX15)
+T79	EntrezGene 1417 1422	Tbx15
+#79	AnnotatorNotes T79	EG:21384
+T80	GO_BP 1472 1484	pigmentation
+#80	AnnotatorNotes T80	GO:0043473 (pigmentation)
+T81	CL 1549 1553	cell
+#81	AnnotatorNotes T81	CL:0000000 (cell)
+T82	GO_CC 1549 1553	cell
+#82	AnnotatorNotes T82	GO:0005623 (cell)
+T83	GO_BP 1630 1640	expression
+#83	AnnotatorNotes T83	GO:0010467 (gene expression)
+T84	italic 1644 1649	Tbx15
+#84	AnnotatorNotes T84	italic (null)
+T85	EntrezGene 1644 1649	Tbx15
+#85	AnnotatorNotes T85	EG:21384
+T86	PR 1644 1649	Tbx15
+#86	AnnotatorNotes T86	PR:000016145 (T-box transcription factor TBX15)
+T87	GO_BP 1719 1728	establish
+#87	AnnotatorNotes T87	GO:0032502 (developmental process)
+T88	SO 1826 1830	gene
+#88	AnnotatorNotes T88	SO:0000704 (gene)
+T89	GO_BP 1841 1862	embryonic development
+#89	AnnotatorNotes T89	GO:0009790 (embryonic development)
+T90	GO_BP 1910 1933	dorsoventral patterning
+#90	AnnotatorNotes T90	GO:0009953 (dorsal/ventral pattern formation)
+T91	NCBITaxon 1971 1978	mammals
+#91	AnnotatorNotes T91	NCBITaxon:40674 (Mammalia)
+T92	GO_BP 2123 2136	developmental
+#92	AnnotatorNotes T92	GO:0032502 (developmental process)
+T93	NCBITaxon 2176 2186	vertebrate
+#93	AnnotatorNotes T93	NCBITaxon:7742 (Vertebrata)
+T94	GO_BP 2192 2199	acquire
+#94	AnnotatorNotes T94	GO:0032502 (developmental process)
+T95	GO_BP 2263 2272	establish
+#95	AnnotatorNotes T95	GO:0032502 (developmental process)
+T96	GO_BP 2336 2354	signaling pathways
+#96	AnnotatorNotes T96	GO:0007165 (signal transduction)
+T97	NCBITaxon 2372 2379	animals
+#97	AnnotatorNotes T97	NCBITaxon:33208 (Metazoa)
+T98	GO_BP 2464 2471	control
+#98	AnnotatorNotes T98	GO:0065007 (biological regulation)
+T99	NCBITaxon 2531 2542	vertebrates
+#99	AnnotatorNotes T99	NCBITaxon:7742 (Vertebrata)
+T100	CHEBI 2662 2669	pigment
+#100	AnnotatorNotes T100	CHEBI:26130 (pigment)
+T101	GO_BP 2670 2682	distribution
+#101	AnnotatorNotes T101	GO:0051179 (localization)
+T102	NCBITaxon 2741 2747	animal
+#102	AnnotatorNotes T102	NCBITaxon:33208 (Metazoa)
+T103	CHEBI 2775 2782	pigment
+#103	AnnotatorNotes T103	CHEBI:26130 (pigment)
+T104	taxonomic_rank 2916 2923	species
+#104	AnnotatorNotes T104	species (null)
+T105	NCBITaxon 2942 2949	animals
+#105	AnnotatorNotes T105	NCBITaxon:33208 (Metazoa)
+T106	taxonomic_rank 2971 2978	species
+#106	AnnotatorNotes T106	species (null)
+T107	CHEBI 3123 3130	pigment
+#107	AnnotatorNotes T107	CHEBI:26130 (pigment)
+T108	NCBITaxon 3309 3319	vertebrate
+#108	AnnotatorNotes T108	NCBITaxon:7742 (Vertebrata)
+T109	CHEBI 3391 3401	pigmentary
+#109	AnnotatorNotes T109	CHEBI:26130 (pigment)
+T110	CL 3468 3476	cellular
+#110	AnnotatorNotes T110	CL:0000000 (cell)
+T111	GO_CC 3468 3476	cellular
+#111	AnnotatorNotes T111	GO:0005623 (cell)
+T112	NCBITaxon 3603 3613	vertebrate
+#112	AnnotatorNotes T112	NCBITaxon:7742 (Vertebrata)
+T113	GO_BP 3614 3626	pigmentation
+#113	AnnotatorNotes T113	GO:0043473 (pigmentation)
+T114	GO_BP 3662 3675	determination
+#114	AnnotatorNotes T114	GO:0001709 (cell fate determination)
+T115	GO_BP 3679 3726	migration of melanoblasts from the neural crest
+#115	AnnotatorNotes T115	"migration .. from .. neural crest" GO:0001755 (neural crest cell migration)
+T116	CL 3692 3704	melanoblasts
+#116	AnnotatorNotes T116	CL:0000541 (melanoblast)
+T117	GO_BP 3748 3777	distribution of pigment cells
+#117	AnnotatorNotes T117	"distribution of .. cells" GO:0051674 (localization of cell)
+T118	CL 3764 3777	pigment cells
+#118	AnnotatorNotes T118	CL:0000147 (pigment cell)
+T119	CHEBI 3764 3771	pigment
+#119	AnnotatorNotes T119	CHEBI:26130 (pigment)
+T120	GO_CC 3772 3777	cells
+#120	AnnotatorNotes T120	GO:0005623 (cell)
+T121	GO_BP 3864 3871	control
+#121	AnnotatorNotes T121	GO:0065007 (biological regulation)
+T122	CHEBI 3884 3891	pigment
+#122	AnnotatorNotes T122	CHEBI:26130 (pigment)
+T123	GO_BP 3892 3896	made
+#123	AnnotatorNotes T123	GO:0009058 (biosynthetic process)
+T124	GO_BP 3961 3971	hair cycle
+#124	AnnotatorNotes T124	GO:0042633 (hair cycle)
+T125	GO_BP 4036 4064	movement of pigment granules
+#125	AnnotatorNotes T125	GO:0051904 (pigment granule transport)
+T126	GO_CC 4048 4064	pigment granules
+#126	AnnotatorNotes T126	GO:0048770 (pigment granule)
+T127	CHEBI 4048 4055	pigment
+#127	AnnotatorNotes T127	CHEBI:26130 (pigment)
+T128	CL 4072 4083	melanocytes
+#128	AnnotatorNotes T128	CL:0000148 (melanocyte)
+T129	CL 4092 4103	melanocytes
+#129	AnnotatorNotes T129	CL:0000148 (melanocyte)
+T130	CL 4107 4120	keratinocytes
+#130	AnnotatorNotes T130	CL:0000312 (keratinocyte)
+T131	CL 4134 4142	cellular
+#131	AnnotatorNotes T131	CL:0000000 (cell)
+T132	GO_CC 4134 4142	cellular
+#132	AnnotatorNotes T132	GO:0005623 (cell)
+T133	CL 4184 4188	cell
+#133	AnnotatorNotes T133	CL:0000000 (cell)
+T134	GO_CC 4184 4188	cell
+#134	AnnotatorNotes T134	GO:0005623 (cell)
+T135	CHEBI 4337 4344	pigment
+#135	AnnotatorNotes T135	CHEBI:26130 (pigment)
+T136	GO_CC 4365 4375	melanosome
+#136	AnnotatorNotes T136	GO:0042470 (melanosome)
+T137	GO_BP 4376 4386	biogenesis
+#137	AnnotatorNotes T137	GO:0022607 (cellular component assembly)
+T138	CHEBI 4427 4436	molecular
+#138	AnnotatorNotes T138	CHEBI:36357 (polyatomic entities)
+T139	GO_BP 4480 4487	control
+#139	AnnotatorNotes T139	GO:0065007 (biological regulation)
+T140	NCBITaxon 4553 4564	vertebrates
+#140	AnnotatorNotes T140	NCBITaxon:7742 (Vertebrata)
+T141	NCBITaxon 4804 4811	rodents
+#141	AnnotatorNotes T141	NCBITaxon:9989 (Rodentia)
+T142	NCBITaxon 4831 4838	mammals
+#142	AnnotatorNotes T142	NCBITaxon:40674 (Mammalia)
+T143	CHEBI 4918 4925	pigment
+#143	AnnotatorNotes T143	CHEBI:26130 (pigment)
+T144	SO 4948 4955	allelic
+#144	AnnotatorNotes T144	SO:0001023 (allele)
+T145	italic 4973 4979	Agouti
+#145	AnnotatorNotes T145	italic (null)
+T146	PR 4973 4979	Agouti
+#146	AnnotatorNotes T146	PR:000004372 (agouti-signaling protein)
+T147	SO 4980 4984	gene
+#147	AnnotatorNotes T147	SO:0000704 (gene)
+T148	GO_BP 5028 5036	Secreted
+#148	AnnotatorNotes T148	GO:0046903 (secretion)
+T149	CL 5040 5060	dermal papilla cells
+#149	AnnotatorNotes T149	CL:0000346 (hair papilla cell)
+T150	GO_CC 5055 5060	cells
+#150	AnnotatorNotes T150	GO:0005623 (cell)
+T151	PR 5109 5115	Agouti
+#151	AnnotatorNotes T151	PR:000004372 (agouti-signaling protein)
+T152	CHEBI 5116 5123	protein
+#152	AnnotatorNotes T152	CHEBI:36080 (proteins)
+T153	CL 5131 5142	melanocytes
+#153	AnnotatorNotes T153	CL:0000148 (melanocyte)
+T154	GO_BP 5179 5189	production
+#154	AnnotatorNotes T154	GO:0009058 (biosynthetic process)
+T155	CHEBI 5205 5214	eumelanin
+#155	AnnotatorNotes T155	CHEBI:24009 (eumelanin)
+T156	PR 5242 5248	Agouti
+#156	AnnotatorNotes T156	PR:000004372 (agouti-signaling protein)
+T157	CHEBI 5249 5256	protein
+#157	AnnotatorNotes T157	CHEBI:36080 (proteins)
+T158	GO_BP 5359 5369	hair cycle
+#158	AnnotatorNotes T158	GO:0042633 (hair cycle)
+T159	GO_BP 5451 5460	regulated
+#159	AnnotatorNotes T159	GO:0065007 (biological regulation)
+T160	GO_BP 5461 5471	expression
+#160	AnnotatorNotes T160	GO:0010467 (gene expression)
+T161	NCBITaxon 5552 5556	mice
+#161	AnnotatorNotes T161	NCBITaxon:10088 (Mus)
+T162	italic 5570 5583	black-and-tan
+#162	AnnotatorNotes T162	italic (null)
+T163	italic 5585 5587	at
+#163	AnnotatorNotes T163	italic (null)
+T164	sup 5586 5587	t
+#164	AnnotatorNotes T164	sup (null)
+T165	SO 5589 5595	allele
+#165	AnnotatorNotes T165	SO:0001023 (allele)
+T166	NCBITaxon 5699 5702	dog
+#166	AnnotatorNotes T166	NCBITaxon:9615 (Canis familiaris)
+T167	NCBITaxon 5726 5730	mice
+#167	AnnotatorNotes T167	NCBITaxon:10088 (Mus)
+T168	italic 5802 5808	Agouti
+#168	AnnotatorNotes T168	italic (null)
+T169	PR 5802 5808	Agouti
+#169	AnnotatorNotes T169	PR:000004372 (agouti-signaling protein)
+T170	EntrezGene 5802 5808	Agouti
+#170	AnnotatorNotes T170	EG:50518
+T171	CHEBI 5809 5813	mRNA
+#171	AnnotatorNotes T171	CHEBI:33699 (messenger RNA)
+T172	SO 5809 5813	mRNA
+#172	AnnotatorNotes T172	SO:0000234 (mRNA)
+T173	SO 5814 5822	isoforms
+#173	AnnotatorNotes T173	SO:0001060 (sequence_variant)
+T174	SO 5854 5885	transcriptional initiation site
+#174	AnnotatorNotes T174	SO:0000315 (TSS)
+T175	GO_BP 5854 5880	transcriptional initiation
+#175	AnnotatorNotes T175	GO:0006352 (transcription initiation)
+T176	GO_BP 5854 5869	transcriptional
+#176	AnnotatorNotes T176	GO:0006350 (transcription)
+T177	SO 5890 5911	5′ untranslated exons
+#177	AnnotatorNotes T177	SO:0000445 (five_prime_noncoding_exon)
+T178	GO_BP 5916 5926	hair cycle
+#178	AnnotatorNotes T178	GO:0042633 (hair cycle)
+T179	SO 5937 5947	transcript
+#179	AnnotatorNotes T179	SO:0000673 (transcript)
+T180	GO_BP 5951 5960	expressed
+#180	AnnotatorNotes T180	GO:0010467 (gene expression)
+T181	GO_BP 6019 6030	hair growth
+#181	AnnotatorNotes T181	GO:0042640 (anagen)
+T182	SO 6059 6069	transcript
+#182	AnnotatorNotes T182	SO:0000673 (transcript)
+T183	GO_BP 6073 6082	expressed
+#183	AnnotatorNotes T183	GO:0010467 (gene expression)
+T184	GO_BP 6122 6133	hair growth
+#184	AnnotatorNotes T184	GO:0042640 (anagen)
+T185	NCBITaxon 6205 6212	Animals
+#185	AnnotatorNotes T185	NCBITaxon:33208 (Metazoa)
+T186	italic 6226 6228	at
+#186	AnnotatorNotes T186	italic (null)
+T187	sup 6227 6228	t
+#187	AnnotatorNotes T187	sup (null)
+T188	SO 6229 6235	allele
+#188	AnnotatorNotes T188	SO:0001023 (allele)
+T189	GO_BP 6236 6243	express
+#189	AnnotatorNotes T189	GO:0010467 (gene expression)
+T190	italic 6270 6276	Agouti
+#190	AnnotatorNotes T190	italic (null)
+T191	EntrezGene 6270 6276	Agouti
+#191	AnnotatorNotes T191	EG:50518
+T192	PR 6270 6276	Agouti
+#192	AnnotatorNotes T192	PR:000004372 (agouti-signaling protein)
+T193	SO 6277 6287	transcript
+#193	AnnotatorNotes T193	SO:0000673 (transcript)
+T194	italic 6529 6535	Agouti
+#194	AnnotatorNotes T194	italic (null)
+T195	PR 6529 6535	Agouti
+#195	AnnotatorNotes T195	PR:000004372 (agouti-signaling protein)
+T196	EntrezGene 6529 6535	Agouti
+#196	AnnotatorNotes T196	EG:50518
+T197	SO 6536 6544	isoforms
+#197	AnnotatorNotes T197	SO:0001060 (sequence_variant)
+T198	GO_BP 6554 6563	expressed
+#198	AnnotatorNotes T198	GO:0010467 (gene expression)
+T199	GO_BP 6567 6577	developing
+#199	AnnotatorNotes T199	GO:0032502 (developmental process)
+T200	CL 6649 6661	pigment cell
+#200	AnnotatorNotes T200	CL:0000147 (pigment cell)
+T201	CHEBI 6649 6656	pigment
+#201	AnnotatorNotes T201	CHEBI:26130 (pigment)
+T202	GO_BP 6657 6677	cell differentiation
+#202	AnnotatorNotes T202	GO:0030154 (cell differentiation)
+T203	GO_CC 6657 6661	cell
+#203	AnnotatorNotes T203	GO:0005623 (cell)
+T204	SO 6706 6725	regulatory elements
+#204	AnnotatorNotes T204	SO:0005836 (regulatory_region)
+T205	GO_BP 6706 6716	regulatory
+#205	AnnotatorNotes T205	GO:0065007 (biological regulation)
+T206	italic 6747 6753	Agouti
+#206	AnnotatorNotes T206	italic (null)
+T207	PR 6747 6753	Agouti
+#207	AnnotatorNotes T207	PR:000004372 (agouti-signaling protein)
+T208	EntrezGene 6747 6753	Agouti
+#208	AnnotatorNotes T208	EG:50518
+T209	SO 6754 6762	isoforms
+#209	AnnotatorNotes T209	SO:0001060 (sequence_variant)
+T210	GO_BP 6767 6777	responsive
+#210	AnnotatorNotes T210	GO:0050896 (response to stimulus)
+T211	GO_BP 6810 6821	established
+#211	AnnotatorNotes T211	GO:0032502 (developmental process)
+T212	GO_BP 6868 6873	birth
+#212	AnnotatorNotes T212	GO:0007567 (parturition)
+T213	italic 6938 6940	at
+#213	AnnotatorNotes T213	italic (null)
+T214	sup 6939 6940	t
+#214	AnnotatorNotes T214	sup (null)
+T215	italic 6941 6943	at
+#215	AnnotatorNotes T215	italic (null)
+T216	sup 6942 6943	t
+#216	AnnotatorNotes T216	sup (null)
+T217	NCBITaxon 6944 6948	mice
+#217	AnnotatorNotes T217	NCBITaxon:10088 (Mus)
+T218	NCBITaxon 7030 7037	mammals
+#218	AnnotatorNotes T218	NCBITaxon:40674 (Mammalia)
+T219	GO_BP 7043 7056	morphogenetic
+#219	AnnotatorNotes T219	GO:0009653 (anatomical structure morphogenesis)
+T220	CHEBI 7155 7162	pigment
+#220	AnnotatorNotes T220	CHEBI:26130 (pigment)
+T221	GO_BP 7163 7167	made
+#221	AnnotatorNotes T221	GO:0009058 (biosynthetic process)
+T222	CL 7185 7196	melanocytes
+#222	AnnotatorNotes T222	CL:0000148 (melanocyte)
+T223	GO_BP 7468 7479	established
+#223	AnnotatorNotes T223	GO:0032502 (developmental process)
+T224	GO_BP 7489 7500	development
+#224	AnnotatorNotes T224	GO:0032502 (developmental process)
+T225	NCBITaxon 7848 7853	mouse
+#225	AnnotatorNotes T225	NCBITaxon:10088 (Mus)
+T226	italic 7915 7921	Agouti
+#226	AnnotatorNotes T226	italic (null)
+T227	PR 7915 7921	Agouti
+#227	AnnotatorNotes T227	PR:000004372 (agouti-signaling protein)
+T228	EntrezGene 7915 7921	Agouti
+#228	AnnotatorNotes T228	EG:50518
+T229	GO_BP 7922 7932	expression
+#229	AnnotatorNotes T229	GO:0010467 (gene expression)
+T230	CL 8152 8162	melanocyte
+#230	AnnotatorNotes T230	CL:0000148 (melanocyte)
+T231	GO_BP 8178 8193	differentiation
+#231	AnnotatorNotes T231	GO:0030154 (cell differentiation)
+T232	CHEBI 8195 8202	pigment
+#232	AnnotatorNotes T232	CHEBI:26130 (pigment)
+T233	GO_BP 8208 8217	synthesis
+#233	AnnotatorNotes T233	GO:0009058 (biosynthetic process)
+T234	NCBITaxon 8353 8358	mouse
+#234	AnnotatorNotes T234	NCBITaxon:10088 (Mus)
+T235	SO 8359 8367	mutation
+#235	AnnotatorNotes T235	SO:0001059 (sequence_alteration)
+T236	italic 8369 8379	droopy ear
+#236	AnnotatorNotes T236	italic (null)
+T237	italic 8509 8515	Agouti
+#237	AnnotatorNotes T237	italic (null)
+T238	EntrezGene 8509 8515	Agouti
+#238	AnnotatorNotes T238	EG:50518
+T239	PR 8509 8515	Agouti
+#239	AnnotatorNotes T239	PR:000004372 (agouti-signaling protein)
+T240	SO 8516 8526	transcript
+#240	AnnotatorNotes T240	SO:0000673 (transcript)
+T241	SO 8531 8541	positional
+#241	AnnotatorNotes T241	SO:0000001 (region)
+T242	SO 8554 8558	gene
+#242	AnnotatorNotes T242	SO:0000704 (gene)
+T243	SO 8585 8591	allele
+#243	AnnotatorNotes T243	SO:0001023 (allele)
+T244	italic 8595 8605	droopy ear
+#244	AnnotatorNotes T244	italic (null)
+T245	EntrezGene 8595 8605	droopy ear
+#245	AnnotatorNotes T245	EG:21384
+T246	italic 8607 8610	deH
+#246	AnnotatorNotes T246	italic (null)
+T247	sup 8609 8610	H
+#247	AnnotatorNotes T247	sup (null)
+T248	italic 8638 8643	Tbx15
+#248	AnnotatorNotes T248	italic (null)
+T249	PR 8638 8643	Tbx15
+#249	AnnotatorNotes T249	PR:000016145 (T-box transcription factor TBX15)
+T250	EntrezGene 8638 8643	Tbx15
+#250	AnnotatorNotes T250	EG:21384
+T251	independent_continuant 8667 8687	transcription factor
+#251	AnnotatorNotes T251	independent_continuant
+T252	GO_MF 8667 8687	transcription factor
+#252	AnnotatorNotes T252	GO:0003700 (transcription factor activity)
+T253	GO_BP 8667 8680	transcription
+#253	AnnotatorNotes T253	GO:0006350 (transcription)
+T254	GO_BP 8688 8697	expressed
+#254	AnnotatorNotes T254	GO:0010467 (gene expression)
+T255	GO_BP 8750 8760	developing
+#255	AnnotatorNotes T255	GO:0032502 (developmental process)
+T256	GO_BP 8804 8814	expression
+#256	AnnotatorNotes T256	GO:0010467 (gene expression)
+T257	italic 8856 8861	Tbx15
+#257	AnnotatorNotes T257	italic (null)
+T258	PR 8856 8861	Tbx15
+#258	AnnotatorNotes T258	PR:000016145 (T-box transcription factor TBX15)
+T259	EntrezGene 8856 8861	Tbx15
+#259	AnnotatorNotes T259	EG:21384
+T260	GO_BP 8877 8886	establish
+#260	AnnotatorNotes T260	GO:0032502 (developmental process)
+T261	GO_BP 8921 8931	patterning
+#261	AnnotatorNotes T261	GO:0007389 (pattern specification process)
+T262	CL 8935 8952	mesenchymal cells
+#262	AnnotatorNotes T262	CL:0000134 (mesenchymal cell)
+T263	GO_CC 8947 8952	cells
+#263	AnnotatorNotes T263	GO:0005623 (cell)
+T264	GO_BP 8960 8970	developing
+#264	AnnotatorNotes T264	GO:0032502 (developmental process)
+T265	GO_BP 9038 9061	dorsoventral patterning
+#265	AnnotatorNotes T265	GO:0009953 (dorsal/ventral pattern formation)
+T266	NCBITaxon 9099 9106	mammals
+#266	AnnotatorNotes T266	NCBITaxon:40674 (Mammalia)
+T267	GO_BP 9540 9552	pigmentation
+#267	AnnotatorNotes T267	GO:0043473 (pigmentation)
+T268	GO_BP 9600 9614	differentiated
+#268	AnnotatorNotes T268	GO:0030154 (cell differentiation)
+T269	CL 9624 9637	pigment cells
+#269	AnnotatorNotes T269	CL:0000147 (pigment cell)
+T270	CHEBI 9624 9631	pigment
+#270	AnnotatorNotes T270	CHEBI:26130 (pigment)
+T271	GO_CC 9632 9637	cells
+#271	AnnotatorNotes T271	GO:0005623 (cell)
+T272	CHEBI 9662 9669	pigment
+#272	AnnotatorNotes T272	CHEBI:26130 (pigment)
+T273	GO_BP 9670 9681	synthesized
+#273	AnnotatorNotes T273	GO:0009058 (biosynthetic process)
+T274	GO_BP 9685 9693	response
+#274	AnnotatorNotes T274	GO:0050896 (response to stimulus)
+T275	GO_BP 9697 9707	expression
+#275	AnnotatorNotes T275	GO:0010467 (gene expression)
+T276	italic 9711 9717	Agouti
+#276	AnnotatorNotes T276	italic (null)
+T277	PR 9711 9717	Agouti
+#277	AnnotatorNotes T277	PR:000004372 (agouti-signaling protein)
+T278	EntrezGene 9711 9717	Agouti
+#278	AnnotatorNotes T278	EG:50518
+T279	italic 9750 9752	at
+#279	AnnotatorNotes T279	italic (null)
+T280	sup 9751 9752	t
+#280	AnnotatorNotes T280	sup (null)
+T281	italic 9753 9755	at
+#281	AnnotatorNotes T281	italic (null)
+T282	sup 9754 9755	t
+#282	AnnotatorNotes T282	sup (null)
+T283	NCBITaxon 9756 9763	animals
+#283	AnnotatorNotes T283	NCBITaxon:33208 (Metazoa)
+T284	NCBITaxon 9975 9979	mice
+#284	AnnotatorNotes T284	NCBITaxon:10088 (Mus)
+T285	italic 9993 9999	Agouti
+#285	AnnotatorNotes T285	italic (null)
+T286	EntrezGene 9993 9999	Agouti
+#286	AnnotatorNotes T286	EG:50518
+T287	PR 9993 9999	Agouti
+#287	AnnotatorNotes T287	PR:000004372 (agouti-signaling protein)
+T288	SO 10000 10009	genotypes
+#288	AnnotatorNotes T288	SO:0001027 (genotype)
+T289	CHEBI 10171 10178	pigment
+#289	AnnotatorNotes T289	CHEBI:26130 (pigment)
+T290	italic 10195 10197	at
+#290	AnnotatorNotes T290	italic (null)
+T291	sup 10196 10197	t
+#291	AnnotatorNotes T291	sup (null)
+T292	italic 10198 10200	at
+#292	AnnotatorNotes T292	italic (null)
+T293	sup 10199 10200	t
+#293	AnnotatorNotes T293	sup (null)
+T294	NCBITaxon 10201 10205	mice
+#294	AnnotatorNotes T294	NCBITaxon:10088 (Mus)
+T295	italic 10379 10381	at
+#295	AnnotatorNotes T295	italic (null)
+T296	sup 10380 10381	t
+#296	AnnotatorNotes T296	sup (null)
+T297	italic 10382 10384	at
+#297	AnnotatorNotes T297	italic (null)
+T298	sup 10383 10384	t
+#298	AnnotatorNotes T298	sup (null)
+T299	NCBITaxon 10385 10389	mice
+#299	AnnotatorNotes T299	NCBITaxon:10088 (Mus)
+T300	GO_BP 10614 10626	pigmentation
+#300	AnnotatorNotes T300	GO:0043473 (pigmentation)
+T301	italic 10646 10652	Agouti
+#301	AnnotatorNotes T301	italic (null)
+T302	PR 10646 10652	Agouti
+#302	AnnotatorNotes T302	PR:000004372 (agouti-signaling protein)
+T303	EntrezGene 10646 10652	Agouti
+#303	AnnotatorNotes T303	EG:50518
+T304	SO 10653 10661	genotype
+#304	AnnotatorNotes T304	SO:0001027 (genotype)
+T305	GO_BP 10672 10682	hair-cycle
+#305	AnnotatorNotes T305	GO:0042633 (hair cycle)
+T306	NCBITaxon 10767 10771	mice
+#306	AnnotatorNotes T306	NCBITaxon:10088 (Mus)
+T307	NCBITaxon 10901 10908	animals
+#307	AnnotatorNotes T307	NCBITaxon:33208 (Metazoa)
+T308	italic 10937 10943	Agouti
+#308	AnnotatorNotes T308	italic (null)
+T309	EntrezGene 10937 10943	Agouti
+#309	AnnotatorNotes T309	EG:50518
+T310	PR 10937 10943	Agouti
+#310	AnnotatorNotes T310	PR:000004372 (agouti-signaling protein)
+T311	SO 10944 10952	genotype
+#311	AnnotatorNotes T311	SO:0001027 (genotype)
+T312	GO_BP 11175 11186	hair cycles
+#312	AnnotatorNotes T312	GO:0042633 (hair cycle)
+T313	CHEBI 11257 11264	pigment
+#313	AnnotatorNotes T313	CHEBI:26130 (pigment)
+T314	italic 11284 11286	at
+#314	AnnotatorNotes T314	italic (null)
+T315	sup 11285 11286	t
+#315	AnnotatorNotes T315	sup (null)
+T316	italic 11287 11289	at
+#316	AnnotatorNotes T316	italic (null)
+T317	sup 11288 11289	t
+#317	AnnotatorNotes T317	sup (null)
+T318	NCBITaxon 11290 11294	mice
+#318	AnnotatorNotes T318	NCBITaxon:10088 (Mus)
+T319	GO_BP 11321 11328	develop
+#319	AnnotatorNotes T319	GO:0032502 (developmental process)
+T320	GO_BP 11460 11469	developed
+#320	AnnotatorNotes T320	GO:0032502 (developmental process)
+T321	NCBITaxon 11766 11770	mice
+#321	AnnotatorNotes T321	NCBITaxon:10088 (Mus)
+T322	NCBITaxon 11794 11798	mice
+#322	AnnotatorNotes T322	NCBITaxon:10088 (Mus)
+T323	NCBITaxon 12043 12047	mice
+#323	AnnotatorNotes T323	NCBITaxon:10088 (Mus)
+T324	GO_BP 12106 12118	pigmentation
+#324	AnnotatorNotes T324	GO:0043473 (pigmentation)
+T325	italic 12122 12124	at
+#325	AnnotatorNotes T325	italic (null)
+T326	sup 12123 12124	t
+#326	AnnotatorNotes T326	sup (null)
+T327	italic 12125 12127	at
+#327	AnnotatorNotes T327	italic (null)
+T328	sup 12126 12127	t
+#328	AnnotatorNotes T328	sup (null)
+T329	NCBITaxon 12128 12132	mice
+#329	AnnotatorNotes T329	NCBITaxon:10088 (Mus)
+T330	CHEBI 12159 12166	pigment
+#330	AnnotatorNotes T330	CHEBI:26130 (pigment)
+T331	GO_BP 12211 12221	expression
+#331	AnnotatorNotes T331	GO:0010467 (gene expression)
+T332	italic 12225 12231	Agouti
+#332	AnnotatorNotes T332	italic (null)
+T333	PR 12225 12231	Agouti
+#333	AnnotatorNotes T333	PR:000004372 (agouti-signaling protein)
+T334	EntrezGene 12225 12231	Agouti
+#334	AnnotatorNotes T334	EG:50518
+T335	NCBITaxon 12237 12244	animals
+#335	AnnotatorNotes T335	NCBITaxon:33208 (Metazoa)
+T336	SO 12267 12273	allele
+#336	AnnotatorNotes T336	SO:0001023 (allele)
+T337	italic 12277 12283	Agouti
+#337	AnnotatorNotes T337	italic (null)
+T338	EntrezGene 12277 12283	Agouti
+#338	AnnotatorNotes T338	EG:50518
+T339	PR 12277 12283	Agouti
+#339	AnnotatorNotes T339	PR:000004372 (agouti-signaling protein)
+T340	italic 12285 12302	extreme nonagouti
+#340	AnnotatorNotes T340	italic (null)
+T341	italic 12304 12306	ae
+#341	AnnotatorNotes T341	italic (null)
+T342	sup 12305 12306	e
+#342	AnnotatorNotes T342	sup (null)
+T343	CHEBI 12346 12353	melanin
+#343	AnnotatorNotes T343	CHEBI:25179 (melanins)
+T344	CHEBI 12447 12451	DOPA
+#344	AnnotatorNotes T344	CHEBI:49168 (dopa)
+T345	EntrezGene 12480 12490	tyrosinase
+#345	AnnotatorNotes T345	EG:22173
+T346	PR 12480 12490	tyrosinase
+#346	AnnotatorNotes T346	PR:000016877 (tyrosinase)
+T347	italic 12589 12591	ae
+#347	AnnotatorNotes T347	italic (null)
+T348	sup 12590 12591	e
+#348	AnnotatorNotes T348	sup (null)
+T349	italic 12592 12594	ae
+#349	AnnotatorNotes T349	italic (null)
+T350	sup 12593 12594	e
+#350	AnnotatorNotes T350	sup (null)
+T351	NCBITaxon 12595 12599	mice
+#351	AnnotatorNotes T351	NCBITaxon:10088 (Mus)
+T352	italic 12636 12638	at
+#352	AnnotatorNotes T352	italic (null)
+T353	sup 12637 12638	t
+#353	AnnotatorNotes T353	sup (null)
+T354	italic 12639 12641	at
+#354	AnnotatorNotes T354	italic (null)
+T355	sup 12640 12641	t
+#355	AnnotatorNotes T355	sup (null)
+T356	NCBITaxon 12642 12646	mice
+#356	AnnotatorNotes T356	NCBITaxon:10088 (Mus)
+T357	CHEBI 12691 12695	DOPA
+#357	AnnotatorNotes T357	CHEBI:49168 (dopa)
+T358	CHEBI 12762 12769	melanin
+#358	AnnotatorNotes T358	CHEBI:25179 (melanins)
+T359	italic 12785 12787	ae
+#359	AnnotatorNotes T359	italic (null)
+T360	sup 12786 12787	e
+#360	AnnotatorNotes T360	sup (null)
+T361	italic 12788 12790	ae
+#361	AnnotatorNotes T361	italic (null)
+T362	sup 12789 12790	e
+#362	AnnotatorNotes T362	sup (null)
+T363	NCBITaxon 12791 12795	mice
+#363	AnnotatorNotes T363	NCBITaxon:10088 (Mus)
+T364	GO_BP 12801 12815	downregulation
+#364	AnnotatorNotes T364	GO:0048519 (negative regulation of biological process)
+T365	EntrezGene 12819 12829	tyrosinase
+#365	AnnotatorNotes T365	EG:22173
+T366	PR 12819 12829	tyrosinase
+#366	AnnotatorNotes T366	PR:000016877 (tyrosinase)
+T367	italic 12850 12856	Agouti
+#367	AnnotatorNotes T367	italic (null)
+T368	EntrezGene 12850 12856	Agouti
+#368	AnnotatorNotes T368	EG:50518
+T369	PR 12850 12856	Agouti
+#369	AnnotatorNotes T369	PR:000004372 (agouti-signaling protein)
+T370	CHEBI 12858 12865	Melanin
+#370	AnnotatorNotes T370	CHEBI:25179 (melanins)
+T371	CL 12943 12956	pigment cells
+#371	AnnotatorNotes T371	CL:0000147 (pigment cell)
+T372	CHEBI 12943 12950	pigment
+#372	AnnotatorNotes T372	CHEBI:26130 (pigment)
+T373	GO_CC 12951 12956	cells
+#373	AnnotatorNotes T373	GO:0005623 (cell)
+T374	CHEBI 13036 13043	pigment
+#374	AnnotatorNotes T374	CHEBI:26130 (pigment)
+T375	italic 13055 13057	ae
+#375	AnnotatorNotes T375	italic (null)
+T376	sup 13056 13057	e
+#376	AnnotatorNotes T376	sup (null)
+T377	italic 13058 13060	ae
+#377	AnnotatorNotes T377	italic (null)
+T378	sup 13059 13060	e
+#378	AnnotatorNotes T378	sup (null)
+T379	NCBITaxon 13061 13065	mice
+#379	AnnotatorNotes T379	NCBITaxon:10088 (Mus)
+T380	GO_BP 13094 13105	hair cycles
+#380	AnnotatorNotes T380	GO:0042633 (hair cycle)
+T381	CHEBI 13264 13271	pigment
+#381	AnnotatorNotes T381	CHEBI:26130 (pigment)
+T382	GO_BP 13277 13286	synthesis
+#382	AnnotatorNotes T382	GO:0009058 (biosynthetic process)
+T383	italic 13301 13307	Agouti
+#383	AnnotatorNotes T383	italic (null)
+T384	PR 13301 13307	Agouti
+#384	AnnotatorNotes T384	PR:000004372 (agouti-signaling protein)
+T385	EntrezGene 13301 13307	Agouti
+#385	AnnotatorNotes T385	EG:50518
+T386	SO 13308 13316	genotype
+#386	AnnotatorNotes T386	SO:0001027 (genotype)
+T387	CHEBI 13366 13373	melanin
+#387	AnnotatorNotes T387	CHEBI:25179 (melanins)
+T388	italic 13425 13435	droopy ear
+#388	AnnotatorNotes T388	italic (null)
+T389	EntrezGene 13425 13435	droopy ear
+#389	AnnotatorNotes T389	EG:21384
+T390	SO 13436 13444	Mutation
+#390	AnnotatorNotes T390	SO:0001059 (sequence_alteration)
+T391	italic 13498 13508	droopy ear
+#391	AnnotatorNotes T391	italic (null)
+T392	SO 13524 13532	mutation
+#392	AnnotatorNotes T392	SO:0001059 (sequence_alteration)
+T393	NCBITaxon 13536 13541	mouse
+#393	AnnotatorNotes T393	NCBITaxon:10088 (Mus)
+T394	GO_CC 13542 13552	Chromosome
+#394	AnnotatorNotes T394	GO:0005694 (chromosome)
+T395	SO 13542 13552	Chromosome
+#395	AnnotatorNotes T395	SO:0000340 (chromosome)
+T396	SO 13569 13575	allele
+#396	AnnotatorNotes T396	SO:0001023 (allele)
+T397	italic 13692 13695	deH
+#397	AnnotatorNotes T397	italic (null)
+T398	sup 13694 13695	H
+#398	AnnotatorNotes T398	sup (null)
+T399	italic 13852 13855	deH
+#399	AnnotatorNotes T399	italic (null)
+T400	sup 13854 13855	H
+#400	AnnotatorNotes T400	sup (null)
+T401	italic 13856 13859	deH
+#401	AnnotatorNotes T401	italic (null)
+T402	sup 13858 13859	H
+#402	AnnotatorNotes T402	sup (null)
+T403	NCBITaxon 13860 13867	animals
+#403	AnnotatorNotes T403	NCBITaxon:33208 (Metazoa)
+T404	italic 14099 14109	droopy ear
+#404	AnnotatorNotes T404	italic (null)
+T405	EntrezGene 14099 14109	droopy ear
+#405	AnnotatorNotes T405	EG:21384
+T406	SO 14131 14137	allele
+#406	AnnotatorNotes T406	SO:0001023 (allele)
+T407	CHEBI 14162 14169	pigment
+#407	AnnotatorNotes T407	CHEBI:26130 (pigment)
+T408	SO 14252 14259	genetic
+#408	AnnotatorNotes T408	SO:0000704 (gene)
+T409	italic 14272 14274	at
+#409	AnnotatorNotes T409	italic (null)
+T410	sup 14273 14274	t
+#410	AnnotatorNotes T410	sup (null)
+T411	italic 14279 14281	AW
+#411	AnnotatorNotes T411	italic (null)
+T412	sup 14280 14281	W
+#412	AnnotatorNotes T412	sup (null)
+T413	CHEBI 14455 14462	pigment
+#413	AnnotatorNotes T413	CHEBI:26130 (pigment)
+T414	italic 14494 14496	at
+#414	AnnotatorNotes T414	italic (null)
+T415	sup 14495 14496	t
+#415	AnnotatorNotes T415	sup (null)
+T416	italic 14497 14499	at
+#416	AnnotatorNotes T416	italic (null)
+T417	sup 14498 14499	t
+#417	AnnotatorNotes T417	sup (null)
+T418	italic 14501 14504	deH
+#418	AnnotatorNotes T418	italic (null)
+T419	sup 14503 14504	H
+#419	AnnotatorNotes T419	sup (null)
+T420	italic 14505 14508	deH
+#420	AnnotatorNotes T420	italic (null)
+T421	sup 14507 14508	H
+#421	AnnotatorNotes T421	sup (null)
+T422	NCBITaxon 14509 14513	mice
+#422	AnnotatorNotes T422	NCBITaxon:10088 (Mus)
+T423	NCBITaxon 14543 14550	animals
+#423	AnnotatorNotes T423	NCBITaxon:33208 (Metazoa)
+T424	italic 14876 14878	at
+#424	AnnotatorNotes T424	italic (null)
+T425	sup 14877 14878	t
+#425	AnnotatorNotes T425	sup (null)
+T426	italic 14879 14881	at
+#426	AnnotatorNotes T426	italic (null)
+T427	sup 14880 14881	t
+#427	AnnotatorNotes T427	sup (null)
+T428	italic 14894 14896	at
+#428	AnnotatorNotes T428	italic (null)
+T429	sup 14895 14896	t
+#429	AnnotatorNotes T429	sup (null)
+T430	italic 14897 14899	at
+#430	AnnotatorNotes T430	italic (null)
+T431	sup 14898 14899	t
+#431	AnnotatorNotes T431	sup (null)
+T432	italic 14901 14904	deH
+#432	AnnotatorNotes T432	italic (null)
+T433	sup 14903 14904	H
+#433	AnnotatorNotes T433	sup (null)
+T434	italic 14905 14908	deH
+#434	AnnotatorNotes T434	italic (null)
+T435	sup 14907 14908	H
+#435	AnnotatorNotes T435	sup (null)
+T436	NCBITaxon 14909 14913	mice
+#436	AnnotatorNotes T436	NCBITaxon:10088 (Mus)
+T437	italic 14995 14997	at
+#437	AnnotatorNotes T437	italic (null)
+T438	sup 14996 14997	t
+#438	AnnotatorNotes T438	sup (null)
+T439	italic 14998 15000	at
+#439	AnnotatorNotes T439	italic (null)
+T440	sup 14999 15000	t
+#440	AnnotatorNotes T440	sup (null)
+T441	NCBITaxon 15001 15005	mice
+#441	AnnotatorNotes T441	NCBITaxon:10088 (Mus)
+T442	italic 15082 15084	at
+#442	AnnotatorNotes T442	italic (null)
+T443	sup 15083 15084	t
+#443	AnnotatorNotes T443	sup (null)
+T444	italic 15085 15087	at
+#444	AnnotatorNotes T444	italic (null)
+T445	sup 15086 15087	t
+#445	AnnotatorNotes T445	sup (null)
+T446	italic 15089 15092	deH
+#446	AnnotatorNotes T446	italic (null)
+T447	sup 15091 15092	H
+#447	AnnotatorNotes T447	sup (null)
+T448	italic 15093 15096	deH
+#448	AnnotatorNotes T448	italic (null)
+T449	sup 15095 15096	H
+#449	AnnotatorNotes T449	sup (null)
+T450	NCBITaxon 15097 15101	mice
+#450	AnnotatorNotes T450	NCBITaxon:10088 (Mus)
+T451	CHEBI 15208 15217	eumelanic
+#451	AnnotatorNotes T451	CHEBI:24009 (eumelanin)
+T452	SO 15313 15319	mutant
+#452	AnnotatorNotes T452	SO:0001059 (sequence_alteration)
+T453	NCBITaxon 15342 15349	animals
+#453	AnnotatorNotes T453	NCBITaxon:33208 (Metazoa)
+T454	SO 15426 15432	mutant
+#454	AnnotatorNotes T454	SO:0001059 (sequence_alteration)
+T455	NCBITaxon 15433 15440	animals
+#455	AnnotatorNotes T455	NCBITaxon:33208 (Metazoa)
+T456	SO 15594 15600	mutant
+#456	AnnotatorNotes T456	SO:0001059 (sequence_alteration)
+T457	NCBITaxon 15632 15639	animals
+#457	AnnotatorNotes T457	NCBITaxon:33208 (Metazoa)
+T458	italic 15855 15858	deH
+#458	AnnotatorNotes T458	italic (null)
+T459	sup 15857 15858	H
+#459	AnnotatorNotes T459	sup (null)
+T460	italic 15884 15887	deH
+#460	AnnotatorNotes T460	italic (null)
+T461	sup 15886 15887	H
+#461	AnnotatorNotes T461	sup (null)
+T462	CHEBI 15944 15951	pigment
+#462	AnnotatorNotes T462	CHEBI:26130 (pigment)
+T463	GO_BP 16011 16023	pigmentation
+#463	AnnotatorNotes T463	GO:0043473 (pigmentation)
+T464	italic 16030 16032	ae
+#464	AnnotatorNotes T464	italic (null)
+T465	sup 16031 16032	e
+#465	AnnotatorNotes T465	sup (null)
+T466	italic 16033 16035	ae
+#466	AnnotatorNotes T466	italic (null)
+T467	sup 16034 16035	e
+#467	AnnotatorNotes T467	sup (null)
+T468	italic 16057 16060	deH
+#468	AnnotatorNotes T468	italic (null)
+T469	sup 16059 16060	H
+#469	AnnotatorNotes T469	sup (null)
+T470	SO 16149 16155	mutant
+#470	AnnotatorNotes T470	SO:0001059 (sequence_alteration)
+T471	NCBITaxon 16170 16177	animals
+#471	AnnotatorNotes T471	NCBITaxon:33208 (Metazoa)
+T472	italic 16295 16297	ae
+#472	AnnotatorNotes T472	italic (null)
+T473	sup 16296 16297	e
+#473	AnnotatorNotes T473	sup (null)
+T474	italic 16298 16300	ae
+#474	AnnotatorNotes T474	italic (null)
+T475	sup 16299 16300	e
+#475	AnnotatorNotes T475	sup (null)
+T476	italic 16302 16305	deH
+#476	AnnotatorNotes T476	italic (null)
+T477	sup 16304 16305	H
+#477	AnnotatorNotes T477	sup (null)
+T478	italic 16306 16309	deH
+#478	AnnotatorNotes T478	italic (null)
+T479	sup 16308 16309	H
+#479	AnnotatorNotes T479	sup (null)
+T480	NCBITaxon 16310 16317	animals
+#480	AnnotatorNotes T480	NCBITaxon:33208 (Metazoa)
+T481	italic 16437 16439	ae
+#481	AnnotatorNotes T481	italic (null)
+T482	sup 16438 16439	e
+#482	AnnotatorNotes T482	sup (null)
+T483	italic 16440 16442	ae
+#483	AnnotatorNotes T483	italic (null)
+T484	sup 16441 16442	e
+#484	AnnotatorNotes T484	sup (null)
+T485	italic 16447 16449	ae
+#485	AnnotatorNotes T485	italic (null)
+T486	sup 16448 16449	e
+#486	AnnotatorNotes T486	sup (null)
+T487	italic 16450 16452	ae
+#487	AnnotatorNotes T487	italic (null)
+T488	sup 16451 16452	e
+#488	AnnotatorNotes T488	sup (null)
+T489	italic 16454 16457	deH
+#489	AnnotatorNotes T489	italic (null)
+T490	sup 16456 16457	H
+#490	AnnotatorNotes T490	sup (null)
+T491	italic 16458 16461	deH
+#491	AnnotatorNotes T491	italic (null)
+T492	sup 16460 16461	H
+#492	AnnotatorNotes T492	sup (null)
+T493	GO_BP 16527 16532	birth
+#493	AnnotatorNotes T493	GO:0007567 (parturition)
+T494	CL 16642 16653	melanoblast
+#494	AnnotatorNotes T494	CL:0000541 (melanoblast)
+T495	GO_BP 16654 16685	migration from the neural crest
+#495	AnnotatorNotes T495	"migration from .. neural crest" GO:0001755 (neural crest cell migration)
+T496	CL 16746 16756	melanocyte
+#496	AnnotatorNotes T496	CL:0000148 (melanocyte)
+T497	GO_BP 16757 16772	differentiation
+#497	AnnotatorNotes T497	GO:0030154 (cell differentiation)
+T498	GO_BP 16777 16794	pigment synthesis
+#498	AnnotatorNotes T498	GO:0046148 (pigment biosynthetic process)
+T499	CHEBI 16777 16784	pigment
+#499	AnnotatorNotes T499	CHEBI:26130 (pigment)
+T500	italic 16808 16810	ae
+#500	AnnotatorNotes T500	italic (null)
+T501	sup 16809 16810	e
+#501	AnnotatorNotes T501	sup (null)
+T502	italic 16811 16813	ae
+#502	AnnotatorNotes T502	italic (null)
+T503	sup 16812 16813	e
+#503	AnnotatorNotes T503	sup (null)
+T504	italic 16877 16879	ae
+#504	AnnotatorNotes T504	italic (null)
+T505	sup 16878 16879	e
+#505	AnnotatorNotes T505	sup (null)
+T506	italic 16880 16882	ae
+#506	AnnotatorNotes T506	italic (null)
+T507	sup 16881 16882	e
+#507	AnnotatorNotes T507	sup (null)
+T508	italic 16884 16887	deH
+#508	AnnotatorNotes T508	italic (null)
+T509	sup 16886 16887	H
+#509	AnnotatorNotes T509	sup (null)
+T510	italic 16888 16891	deH
+#510	AnnotatorNotes T510	italic (null)
+T511	sup 16890 16891	H
+#511	AnnotatorNotes T511	sup (null)
+T512	CHEBI 17010 17019	eumelanin
+#512	AnnotatorNotes T512	CHEBI:24009 (eumelanin)
+T513	italic 17023 17025	at
+#513	AnnotatorNotes T513	italic (null)
+T514	sup 17024 17025	t
+#514	AnnotatorNotes T514	sup (null)
+T515	italic 17026 17028	at
+#515	AnnotatorNotes T515	italic (null)
+T516	sup 17027 17028	t
+#516	AnnotatorNotes T516	sup (null)
+T517	italic 17030 17033	deH
+#517	AnnotatorNotes T517	italic (null)
+T518	sup 17032 17033	H
+#518	AnnotatorNotes T518	sup (null)
+T519	italic 17034 17037	deH
+#519	AnnotatorNotes T519	italic (null)
+T520	sup 17036 17037	H
+#520	AnnotatorNotes T520	sup (null)
+T521	NCBITaxon 17044 17051	animals
+#521	AnnotatorNotes T521	NCBITaxon:33208 (Metazoa)
+T522	italic 17102 17105	deH
+#522	AnnotatorNotes T522	italic (null)
+T523	sup 17104 17105	H
+#523	AnnotatorNotes T523	sup (null)
+T524	GO_BP 17126 17166	establishment of dorsoventral patterning
+#524	AnnotatorNotes T524	GO:0009953 (dorsal/ventral pattern formation)
+T525	GO_BP 17174 17190	skin development
+#525	AnnotatorNotes T525	GO:0043588 (skin development)
+T526	CL 17360 17370	melanocyte
+#526	AnnotatorNotes T526	CL:0000148 (melanocyte)
+T527	GO_BP 17371 17386	differentiation
+#527	AnnotatorNotes T527	GO:0030154 (cell differentiation)
+T528	GO_BP 17391 17400	promoting
+#528	AnnotatorNotes T528	GO:0048518 (positive regulation of biological process)
+T529	GO_BP 17413 17422	synthesis
+#529	AnnotatorNotes T529	GO:0009058 (biosynthetic process)
+T530	GO_BP 17468 17479	hair growth
+#530	AnnotatorNotes T530	GO:0042640 (anagen)
+T531	SO 17528 17532	gene
+#531	AnnotatorNotes T531	SO:0000704 (gene)
+T532	italic 17546 17549	deH
+#532	AnnotatorNotes T532	italic (null)
+T533	sup 17548 17549	H
+#533	AnnotatorNotes T533	sup (null)
+T534	italic 17551 17556	Tbx15
+#534	AnnotatorNotes T534	italic (null)
+T535	EntrezGene 17551 17556	Tbx15
+#535	AnnotatorNotes T535	EG:21384
+T536	PR 17551 17556	Tbx15
+#536	AnnotatorNotes T536	PR:000016145 (T-box transcription factor TBX15)
+T537	GO_BP 17570 17579	expressed
+#537	AnnotatorNotes T537	GO:0010467 (gene expression)
+T538	GO_BP 17643 17655	establishing
+#538	AnnotatorNotes T538	GO:0032502 (developmental process)
+T539	SO 17707 17717	Positional
+#539	AnnotatorNotes T539	SO:0000001 (region)
+T540	italic 17729 17732	deH
+#540	AnnotatorNotes T540	italic (null)
+T541	sup 17731 17732	H
+#541	AnnotatorNotes T541	sup (null)
+T542	italic 17795 17805	droopy ear
+#542	AnnotatorNotes T542	italic (null)
+T543	EntrezGene 17795 17805	droopy ear
+#543	AnnotatorNotes T543	EG:21384
+T544	SO 17806 17812	allele
+#544	AnnotatorNotes T544	SO:0001023 (allele)
+T545	italic 17820 17823	deH
+#545	AnnotatorNotes T545	italic (null)
+T546	sup 17822 17823	H
+#546	AnnotatorNotes T546	sup (null)
+T547	SO 17824 17830	allele
+#547	AnnotatorNotes T547	SO:0001023 (allele)
+T548	SO 17844 17847	map
+#548	AnnotatorNotes T548	SO:0001248 (assembly)
+T549	SO 17848 17856	position
+#549	AnnotatorNotes T549	SO:0000001 (region)
+T550	GO_CC 17874 17884	Chromosome
+#550	AnnotatorNotes T550	GO:0005694 (chromosome)
+T551	SO 17874 17884	Chromosome
+#551	AnnotatorNotes T551	SO:0000340 (chromosome)
+T552	italic 17898 17904	matted
+#552	AnnotatorNotes T552	italic (null)
+T553	EntrezGene 17898 17904	matted
+#553	AnnotatorNotes T553	EG:17115
+T554	italic 17921 17937	Varitint-waddler
+#554	AnnotatorNotes T554	italic (null)
+T555	EntrezGene 17921 17937	Varitint-waddler
+#555	AnnotatorNotes T555	EG:171166
+T556	sub 18032 18033	2
+#556	AnnotatorNotes T556	sub (null)
+T557	NCBITaxon 18058 18062	mice
+#557	AnnotatorNotes T557	NCBITaxon:10088 (Mus)
+T558	italic 18075 18078	deH
+#558	AnnotatorNotes T558	italic (null)
+T559	sup 18077 18078	H
+#559	AnnotatorNotes T559	sup (null)
+T560	SO 18091 18099	interval
+#560	AnnotatorNotes T560	SO:0000001 (region)
+T561	SO 18175 18206	bacterial artificial chromosome
+#561	AnnotatorNotes T561	SO:0000153 (BAC)
+T562	NCBITaxon 18175 18184	bacterial
+#562	AnnotatorNotes T562	NCBITaxon:2 (Bacteria)
+T563	GO_CC 18196 18206	chromosome
+#563	AnnotatorNotes T563	GO:0005694 (chromosome)
+T564	SO 18208 18211	BAC
+#564	AnnotatorNotes T564	SO:0000153 (BAC)
+T565	SO 18213 18219	contig
+#565	AnnotatorNotes T565	SO:0000149 (contig)
+T566	SO 18255 18261	region
+#566	AnnotatorNotes T566	SO:0000001 (region)
+T567	SO 18283 18288	genes
+#567	AnnotatorNotes T567	SO:0000704 (gene)
+T568	italic 18300 18305	Tbx15
+#568	AnnotatorNotes T568	italic (null)
+T569	PR 18300 18305	Tbx15
+#569	AnnotatorNotes T569	PR:000016145 (T-box transcription factor TBX15)
+T570	EntrezGene 18300 18305	Tbx15
+#570	AnnotatorNotes T570	EG:21384
+T571	italic 18333 18338	Tbx15
+#571	AnnotatorNotes T571	italic (null)
+T572	EntrezGene 18333 18338	Tbx15
+#572	AnnotatorNotes T572	EG:21384
+T573	PR 18333 18338	Tbx15
+#573	AnnotatorNotes T573	PR:000016145 (T-box transcription factor TBX15)
+T574	italic 18406 18409	deH
+#574	AnnotatorNotes T574	italic (null)
+T575	sup 18408 18409	H
+#575	AnnotatorNotes T575	sup (null)
+T576	GO_BP 18482 18492	expression
+#576	AnnotatorNotes T576	GO:0010467 (gene expression)
+T577	GO_BP 18524 18534	developing
+#577	AnnotatorNotes T577	GO:0032502 (developmental process)
+T578	SO 18549 18557	sequence
+#578	AnnotatorNotes T578	SO:0000001 (region)
+T579	SO 18605 18624	partially completed
+#579	AnnotatorNotes T579	SO:0000731 (fragmentary)
+T580	NCBITaxon 18625 18630	mouse
+#580	AnnotatorNotes T580	NCBITaxon:10088 (Mus)
+T581	SO 18631 18646	genome sequence
+#581	AnnotatorNotes T581	SO:0001026 (genome)
+T582	SO 18662 18693	portions of several Tbx15 exons
+#582	AnnotatorNotes T582	"portions of .. exons" SO:0000852 (exon_region)
+T583	italic 18682 18687	Tbx15
+#583	AnnotatorNotes T583	italic (null)
+T584	EntrezGene 18682 18687	Tbx15
+#584	AnnotatorNotes T584	EG:21384
+T585	PR 18682 18687	Tbx15
+#585	AnnotatorNotes T585	PR:000016145 (T-box transcription factor TBX15)
+T586	SO 18688 18693	exons
+#586	AnnotatorNotes T586	SO:0000147 (exon)
+T587	italic 18722 18725	deH
+#587	AnnotatorNotes T587	italic (null)
+T588	sup 18724 18725	H
+#588	AnnotatorNotes T588	sup (null)
+T589	italic 18726 18729	deH
+#589	AnnotatorNotes T589	italic (null)
+T590	sup 18728 18729	H
+#590	AnnotatorNotes T590	sup (null)
+T591	SO 18730 18741	genomic DNA
+#591	AnnotatorNotes T591	SO:0000991 (genomic_DNA)
+T592	SO 18730 18737	genomic
+#592	AnnotatorNotes T592	SO:0001026 (genome)
+T593	SO 18752 18756	gene
+#593	AnnotatorNotes T593	SO:0000704 (gene)
+T594	italic 18786 18790	Tbx8
+#594	AnnotatorNotes T594	italic (null)
+T595	EntrezGene 18786 18790	Tbx8
+#595	AnnotatorNotes T595	EG:21384
+T596	PR 18786 18790	Tbx8
+#596	AnnotatorNotes T596	PR:000016145 (T-box transcription factor TBX15)
+T597	italic 18836 18841	Tbx14
+#597	AnnotatorNotes T597	italic (null)
+T598	EntrezGene 18836 18841	Tbx14
+#598	AnnotatorNotes T598	EG:21384
+T599	PR 18836 18841	Tbx14
+#599	AnnotatorNotes T599	PR:000016145 (T-box transcription factor TBX15)
+T600	NCBITaxon 18883 18893	vertebrate
+#600	AnnotatorNotes T600	NCBITaxon:7742 (Vertebrata)
+T601	SO 18894 18901	genomes
+#601	AnnotatorNotes T601	SO:0001026 (genome)
+T602	italic 18905 18910	Tbx15
+#602	AnnotatorNotes T602	italic (null)
+T603	PR 18905 18910	Tbx15
+#603	AnnotatorNotes T603	PR:000016145 (T-box transcription factor TBX15)
+T604	SO 18973 18981	sequence
+#604	AnnotatorNotes T604	SO:0000001 (region)
+T605	SO 18994 19002	junction
+#605	AnnotatorNotes T605	SO:0000699 (junction)
+T606	SO 19003 19011	fragment
+#606	AnnotatorNotes T606	SO:0000731 (fragmentary)
+T607	italic 19027 19030	deH
+#607	AnnotatorNotes T607	italic (null)
+T608	sup 19029 19030	H
+#608	AnnotatorNotes T608	sup (null)
+T609	italic 19031 19034	deH
+#609	AnnotatorNotes T609	italic (null)
+T610	sup 19033 19034	H
+#610	AnnotatorNotes T610	sup (null)
+T611	SO 19035 19046	genomic DNA
+#611	AnnotatorNotes T611	SO:0000991 (genomic_DNA)
+T612	SO 19035 19042	genomic
+#612	AnnotatorNotes T612	SO:0001026 (genome)
+T613	NCBITaxon 19069 19074	mouse
+#613	AnnotatorNotes T613	NCBITaxon:10088 (Mus)
+T614	SO 19075 19090	genome sequence
+#614	AnnotatorNotes T614	SO:0001026 (genome)
+T615	SO 19115 19123	deletion
+#615	AnnotatorNotes T615	SO:0000159 (deletion)
+T616	italic 19142 19147	Tbx15
+#616	AnnotatorNotes T616	italic (null)
+T617	PR 19142 19147	Tbx15
+#617	AnnotatorNotes T617	PR:000016145 (T-box transcription factor TBX15)
+T618	EntrezGene 19142 19147	Tbx15
+#618	AnnotatorNotes T618	EG:21384
+T619	SO 19148 19154	intron
+#619	AnnotatorNotes T619	SO:0000188 (intron)
+T620	SO 19185 19209	polyadenylation sequence
+#620	AnnotatorNotes T620	SO:0000610 (polyA_sequence)
+T621	GO_BP 19185 19200	polyadenylation
+#621	AnnotatorNotes T621	GO:0043631 (RNA polyadenylation)
+T622	SO 19215 19221	region
+#622	AnnotatorNotes T622	SO:0000001 (region)
+T623	EntrezGene 19237 19265	mannose-6-phosphate receptor
+#623	AnnotatorNotes T623	EG:17113
+T624	CHEBI 19237 19256	mannose-6-phosphate
+#624	AnnotatorNotes T624	CHEBI:17369 (D-mannose 6-phosphate)
+T625	CHEBI 19237 19244	mannose
+#625	AnnotatorNotes T625	CHEBI:37684 (mannose)
+T626	CHEBI 19247 19256	phosphate
+#626	AnnotatorNotes T626	CHEBI:32958 (phosphate group)
+T627	independent_continuant 19257 19265	receptor
+#627	AnnotatorNotes T627	independent_continuant
+T628	GO_MF 19257 19265	receptor
+#628	AnnotatorNotes T628	GO:0004872 (receptor activity)
+T629	SO 19266 19276	pseudogene
+#629	AnnotatorNotes T629	SO:0000336 (pseudogene)
+T630	italic 19278 19285	M6pr-ps
+#630	AnnotatorNotes T630	italic (null)
+T631	EntrezGene 19278 19282	M6pr
+#631	AnnotatorNotes T631	EG:17113
+T632	SO 19283 19285	ps
+#632	AnnotatorNotes T632	SO:0000336 (pseudogene)
+T633	SO 19371 19377	fusion
+#633	AnnotatorNotes T633	SO:0000806 (fusion)
+T634	SO 19378 19388	transcript
+#634	AnnotatorNotes T634	SO:0000673 (transcript)
+T635	GO_BP 19389 19397	produced
+#635	AnnotatorNotes T635	GO:0009058 (biosynthetic process)
+T636	italic 19407 19410	deH
+#636	AnnotatorNotes T636	italic (null)
+T637	sup 19409 19410	H
+#637	AnnotatorNotes T637	sup (null)
+T638	GO_CC 19411 19421	chromosome
+#638	AnnotatorNotes T638	GO:0005694 (chromosome)
+T639	SO 19411 19421	chromosome
+#639	AnnotatorNotes T639	SO:0000340 (chromosome)
+T640	SO 19453 19461	deletion
+#640	AnnotatorNotes T640	SO:0000159 (deletion)
+T641	SO 19462 19469	removes
+#641	AnnotatorNotes T641	SO:0000045 (delete)
+T642	CHEBI 19485 19496	amino acids
+#642	AnnotatorNotes T642	CHEBI:33708 (amino-acid residue)
+T643	SO 19485 19496	amino acids
+#643	AnnotatorNotes T643	SO:0001237 (amino_acid)
+T644	CHEBI 19485 19490	amino
+#644	AnnotatorNotes T644	CHEBI:32952 (amines)
+T645	CHEBI 19485 19490	amino
+#645	AnnotatorNotes T645	CHEBI:46882 (amino group)
+T646	CHEBI 19491 19496	acids
+#646	AnnotatorNotes T646	CHEBI:37527 (acid)
+T647	italic 19508 19513	Tbx15
+#647	AnnotatorNotes T647	italic (null)
+T648	EntrezGene 19508 19513	Tbx15
+#648	AnnotatorNotes T648	EG:21384
+T649	PR 19508 19513	Tbx15
+#649	AnnotatorNotes T649	PR:000016145 (T-box transcription factor TBX15)
+T650	GO_MF 19535 19546	DNA-binding
+#650	AnnotatorNotes T650	GO:0003677 (DNA binding)
+T651	SO 19535 19538	DNA
+#651	AnnotatorNotes T651	SO:0000352 (DNA)
+T652	SO 19547 19553	domain
+#652	AnnotatorNotes T652	SO:0000417 (polypeptide_domain)
+T653	italic 19556 19559	deH
+#653	AnnotatorNotes T653	italic (null)
+T654	sup 19558 19559	H
+#654	AnnotatorNotes T654	sup (null)
+T655	SO 19560 19561	+
+#655	AnnotatorNotes T655	SO:0000817 (wild_type)
+T656	NCBITaxon 19562 19569	animals
+#656	AnnotatorNotes T656	NCBITaxon:33208 (Metazoa)
+T657	italic 19611 19614	deH
+#657	AnnotatorNotes T657	italic (null)
+T658	sup 19613 19614	H
+#658	AnnotatorNotes T658	sup (null)
+T659	italic 19615 19618	deH
+#659	AnnotatorNotes T659	italic (null)
+T660	sup 19617 19618	H
+#660	AnnotatorNotes T660	sup (null)
+T661	NCBITaxon 19619 19626	animals
+#661	AnnotatorNotes T661	NCBITaxon:33208 (Metazoa)
+T662	SO 19675 19681	allele
+#662	AnnotatorNotes T662	SO:0001023 (allele)
+T663	italic 19707 19714	M6pr-ps
+#663	AnnotatorNotes T663	italic (null)
+T664	EntrezGene 19707 19711	M6pr
+#664	AnnotatorNotes T664	EG:17113
+T665	SO 19712 19714	ps
+#665	AnnotatorNotes T665	SO:0000336 (pseudogene)
+T666	SO 19725 19730	genes
+#666	AnnotatorNotes T666	SO:0000704 (gene)
+T667	SO 19734 19745	transcripts
+#667	AnnotatorNotes T667	SO:0000673 (transcript)
+T668	SO 19780 19788	deletion
+#668	AnnotatorNotes T668	SO:0000159 (deletion)
+T669	SO 19801 19811	positional
+#669	AnnotatorNotes T669	SO:0000001 (region)
+T670	SO 19884 19892	mutation
+#670	AnnotatorNotes T670	SO:0001059 (sequence_alteration)
+T671	italic 19896 19901	Tbx15
+#671	AnnotatorNotes T671	italic (null)
+T672	EntrezGene 19896 19901	Tbx15
+#672	AnnotatorNotes T672	EG:21384
+T673	PR 19896 19901	Tbx15
+#673	AnnotatorNotes T673	PR:000016145 (T-box transcription factor TBX15)
+T674	SO 19905 19909	gene
+#674	AnnotatorNotes T674	SO:0000704 (gene)
+T675	CL 19933 19943	stem cells
+#675	AnnotatorNotes T675	CL:0000034 (stem cell)
+T676	GO_CC 19938 19943	cells
+#676	AnnotatorNotes T676	GO:0005623 (cell)
+T677	SO 19958 19964	allele
+#677	AnnotatorNotes T677	SO:0001023 (allele)
+T678	italic 19966 19975	Tbx15LacZ
+#678	AnnotatorNotes T678	italic (null)
+T679	sup 19971 19975	LacZ
+#679	AnnotatorNotes T679	sup (null)
+T680	italic 19988 20001	IRES-LacZ-neo
+#680	AnnotatorNotes T680	italic (null)
+T681	SO 19988 19992	IRES
+#681	AnnotatorNotes T681	SO:0000243 (internal_ribosome_entry_site)
+T682	GO_MF 19998 20001	neo
+#682	AnnotatorNotes T682	GO:0008910 (kanamycin kinase activity)
+T683	independent_continuant 19998 20001	neo
+#683	AnnotatorNotes T683	independent_continuant
+T684	SO 20002 20006	cDNA
+#684	AnnotatorNotes T684	SO:0000756 (cDNA)
+T685	SO 20007 20015	cassette
+#685	AnnotatorNotes T685	SO:0005853 (gene_cassette)
+T686	SO 20034 20052	open reading frame
+#686	AnnotatorNotes T686	SO:0000236 (ORF)
+T687	SO 20056 20061	codon
+#687	AnnotatorNotes T687	SO:0000360 (codon)
+T688	SO 20085 20091	domain
+#688	AnnotatorNotes T688	SO:0000417 (polypeptide_domain)
+T689	NCBITaxon 20105 20112	Animals
+#689	AnnotatorNotes T689	NCBITaxon:33208 (Metazoa)
+T690	SO 20143 20149	allele
+#690	AnnotatorNotes T690	SO:0001023 (allele)
+T691	italic 20247 20256	Tbx15LacZ
+#691	AnnotatorNotes T691	italic (null)
+T692	sup 20252 20256	LacZ
+#692	AnnotatorNotes T692	sup (null)
+T693	italic 20257 20266	Tbx15LacZ
+#693	AnnotatorNotes T693	italic (null)
+T694	sup 20262 20266	LacZ
+#694	AnnotatorNotes T694	sup (null)
+T695	italic 20387 20390	deH
+#695	AnnotatorNotes T695	italic (null)
+T696	sup 20389 20390	H
+#696	AnnotatorNotes T696	sup (null)
+T697	GO_BP 20395 20404	generated
+#697	AnnotatorNotes T697	GO:0000003 (reproduction)
+T698	italic 20405 20414	Tbx15LacZ
+#698	AnnotatorNotes T698	italic (null)
+T699	sup 20410 20414	LacZ
+#699	AnnotatorNotes T699	sup (null)
+T700	italic 20415 20418	deH
+#700	AnnotatorNotes T700	italic (null)
+T701	sup 20417 20418	H
+#701	AnnotatorNotes T701	sup (null)
+T702	italic 20449 20451	Aw
+#702	AnnotatorNotes T702	italic (null)
+T703	sup 20450 20451	w
+#703	AnnotatorNotes T703	sup (null)
+T704	italic 20452 20454	at
+#704	AnnotatorNotes T704	italic (null)
+T705	sup 20453 20454	t
+#705	AnnotatorNotes T705	sup (null)
+T706	NCBITaxon 20473 20480	animals
+#706	AnnotatorNotes T706	NCBITaxon:33208 (Metazoa)
+T707	GO_BP 20531 20543	pigmentation
+#707	AnnotatorNotes T707	GO:0043473 (pigmentation)
+T708	italic 20606 20609	deH
+#708	AnnotatorNotes T708	italic (null)
+T709	sup 20608 20609	H
+#709	AnnotatorNotes T709	sup (null)
+T710	italic 20610 20613	deH
+#710	AnnotatorNotes T710	italic (null)
+T711	sup 20612 20613	H
+#711	AnnotatorNotes T711	sup (null)
+T712	NCBITaxon 20614 20621	animals
+#712	AnnotatorNotes T712	NCBITaxon:33208 (Metazoa)
+T713	CHEBI 20678 20688	pigmentary
+#713	AnnotatorNotes T713	CHEBI:26130 (pigment)
+T714	italic 20725 20728	deH
+#714	AnnotatorNotes T714	italic (null)
+T715	sup 20727 20728	H
+#715	AnnotatorNotes T715	sup (null)
+T716	italic 20764 20769	Tbx15
+#716	AnnotatorNotes T716	italic (null)
+T717	EntrezGene 20764 20769	Tbx15
+#717	AnnotatorNotes T717	EG:21384
+T718	GO_BP 20772 20782	Expression
+#718	AnnotatorNotes T718	GO:0010467 (gene expression)
+T719	italic 20786 20791	Tbx15
+#719	AnnotatorNotes T719	italic (null)
+T720	EntrezGene 20786 20791	Tbx15
+#720	AnnotatorNotes T720	EG:21384
+T721	PR 20786 20791	Tbx15
+#721	AnnotatorNotes T721	PR:000016145 (T-box transcription factor TBX15)
+T722	italic 20796 20802	Agouti
+#722	AnnotatorNotes T722	italic (null)
+T723	PR 20796 20802	Agouti
+#723	AnnotatorNotes T723	PR:000004372 (agouti-signaling protein)
+T724	EntrezGene 20796 20802	Agouti
+#724	AnnotatorNotes T724	EG:50518
+T725	GO_MF 20872 20885	hybridization
+#725	AnnotatorNotes T725	GO:0000739 (DNA strand annealing activity)
+T726	GO_MF 20872 20885	hybridization
+#726	AnnotatorNotes T726	GO:0033592 (RNA strand annealing activity)
+T727	GO_BP 20896 20906	expression
+#727	AnnotatorNotes T727	GO:0010467 (gene expression)
+T728	italic 20910 20915	Tbx15
+#728	AnnotatorNotes T728	italic (null)
+T729	PR 20910 20915	Tbx15
+#729	AnnotatorNotes T729	PR:000016145 (T-box transcription factor TBX15)
+T730	GO_MF 21094 21104	hybridized
+#730	AnnotatorNotes T730	GO:0000739 (DNA strand annealing activity)
+T731	GO_MF 21094 21104	hybridized
+#731	AnnotatorNotes T731	GO:0033592 (RNA strand annealing activity)
+T732	italic 21107 21112	Tbx15
+#732	AnnotatorNotes T732	italic (null)
+T733	PR 21107 21112	Tbx15
+#733	AnnotatorNotes T733	PR:000016145 (T-box transcription factor TBX15)
+T734	CHEBI 21113 21117	mRNA
+#734	AnnotatorNotes T734	CHEBI:33699 (messenger RNA)
+T735	SO 21113 21117	mRNA
+#735	AnnotatorNotes T735	SO:0000234 (mRNA)
+T736	SO 21118 21123	probe
+#736	AnnotatorNotes T736	SO:0000051 (probe)
+T737	GO_BP 21181 21191	expression
+#737	AnnotatorNotes T737	GO:0010467 (gene expression)
+T738	GO_BP 21248 21258	developing
+#738	AnnotatorNotes T738	GO:0032502 (developmental process)
+T739	NCBITaxon 21378 21382	mice
+#739	AnnotatorNotes T739	NCBITaxon:10088 (Mus)
+T740	italic 21405 21415	droopy ear
+#740	AnnotatorNotes T740	italic (null)
+T741	EntrezGene 21405 21415	droopy ear
+#741	AnnotatorNotes T741	EG:21384
+T742	SO 21416 21422	allele
+#742	AnnotatorNotes T742	SO:0001023 (allele)
+T743	GO_BP 21512 21522	expression
+#743	AnnotatorNotes T743	GO:0010467 (gene expression)
+T744	italic 21570 21573	deH
+#744	AnnotatorNotes T744	italic (null)
+T745	sup 21572 21573	H
+#745	AnnotatorNotes T745	sup (null)
+T746	italic 21574 21577	deH
+#746	AnnotatorNotes T746	italic (null)
+T747	sup 21576 21577	H
+#747	AnnotatorNotes T747	sup (null)
+T748	NCBITaxon 21578 21582	mice
+#748	AnnotatorNotes T748	NCBITaxon:10088 (Mus)
+T749	GO_BP 21642 21653	development
+#749	AnnotatorNotes T749	GO:0032502 (developmental process)
+T750	GO_BP 21684 21694	expression
+#750	AnnotatorNotes T750	GO:0010467 (gene expression)
+T751	GO_BP 21739 21747	broadens
+#751	AnnotatorNotes T751	GO:0048518 (positive regulation of biological process)
+T752	GO_BP 21830 21840	developing
+#752	AnnotatorNotes T752	GO:0032502 (developmental process)
+T753	italic 21927 21932	Tbx15
+#753	AnnotatorNotes T753	italic (null)
+T754	EntrezGene 21927 21932	Tbx15
+#754	AnnotatorNotes T754	EG:21384
+T755	PR 21927 21932	Tbx15
+#755	AnnotatorNotes T755	PR:000016145 (T-box transcription factor TBX15)
+T756	GO_BP 21936 21945	expressed
+#756	AnnotatorNotes T756	GO:0010467 (gene expression)
+T757	italic 22028 22033	Tbx15
+#757	AnnotatorNotes T757	italic (null)
+T758	EntrezGene 22028 22033	Tbx15
+#758	AnnotatorNotes T758	EG:21384
+T759	PR 22028 22033	Tbx15
+#759	AnnotatorNotes T759	PR:000016145 (T-box transcription factor TBX15)
+T760	GO_BP 22037 22046	expressed
+#760	AnnotatorNotes T760	GO:0010467 (gene expression)
+T761	GO_BP 22128 22138	developing
+#761	AnnotatorNotes T761	GO:0032502 (developmental process)
+T762	GO_BP 22179 22189	expression
+#762	AnnotatorNotes T762	GO:0010467 (gene expression)
+T763	CL 22219 22240	dermal papillae cells
+#763	AnnotatorNotes T763	CL:0000346 (hair papilla cell)
+T764	GO_CC 22235 22240	cells
+#764	AnnotatorNotes T764	GO:0005623 (cell)
+T765	italic 22279 22285	Agouti
+#765	AnnotatorNotes T765	italic (null)
+T766	EntrezGene 22279 22285	Agouti
+#766	AnnotatorNotes T766	EG:50518
+T767	PR 22279 22285	Agouti
+#767	AnnotatorNotes T767	PR:000004372 (agouti-signaling protein)
+T768	CHEBI 22289 22296	pigment
+#768	AnnotatorNotes T768	CHEBI:26130 (pigment)
+T769	GO_BP 22335 22346	hair growth
+#769	AnnotatorNotes T769	GO:0042640 (anagen)
+T770	SO 22369 22376	isoform
+#770	AnnotatorNotes T770	SO:0001060 (sequence_variant)
+T771	italic 22380 22386	Agouti
+#771	AnnotatorNotes T771	italic (null)
+T772	EntrezGene 22380 22386	Agouti
+#772	AnnotatorNotes T772	EG:50518
+T773	PR 22380 22386	Agouti
+#773	AnnotatorNotes T773	PR:000004372 (agouti-signaling protein)
+T774	GO_BP 22390 22399	expressed
+#774	AnnotatorNotes T774	GO:0010467 (gene expression)
+T775	GO_BP 22403 22413	developing
+#775	AnnotatorNotes T775	GO:0032502 (developmental process)
+T776	GO_MF 22469 22479	hybridized
+#776	AnnotatorNotes T776	GO:0000739 (DNA strand annealing activity)
+T777	GO_MF 22469 22479	hybridized
+#777	AnnotatorNotes T777	GO:0033592 (RNA strand annealing activity)
+T778	SO 22485 22491	probes
+#778	AnnotatorNotes T778	SO:0000051 (probe)
+T779	italic 22496 22501	Tbx15
+#779	AnnotatorNotes T779	italic (null)
+T780	PR 22496 22501	Tbx15
+#780	AnnotatorNotes T780	PR:000016145 (T-box transcription factor TBX15)
+T781	italic 22506 22512	Agouti
+#781	AnnotatorNotes T781	italic (null)
+T782	PR 22506 22512	Agouti
+#782	AnnotatorNotes T782	PR:000004372 (agouti-signaling protein)
+T783	GO_BP 22564 22574	expression
+#783	AnnotatorNotes T783	GO:0010467 (gene expression)
+T784	italic 22578 22584	Agouti
+#784	AnnotatorNotes T784	italic (null)
+T785	PR 22578 22584	Agouti
+#785	AnnotatorNotes T785	PR:000004372 (agouti-signaling protein)
+T786	EntrezGene 22578 22584	Agouti
+#786	AnnotatorNotes T786	EG:50518
+T787	GO_BP 22605 22615	expression
+#787	AnnotatorNotes T787	GO:0010467 (gene expression)
+T788	italic 22619 22624	Tbx15
+#788	AnnotatorNotes T788	italic (null)
+T789	PR 22619 22624	Tbx15
+#789	AnnotatorNotes T789	PR:000016145 (T-box transcription factor TBX15)
+T790	EntrezGene 22619 22624	Tbx15
+#790	AnnotatorNotes T790	EG:21384
+T791	GO_BP 22681 22691	expression
+#791	AnnotatorNotes T791	GO:0010467 (gene expression)
+T792	italic 22729 22734	Tbx15
+#792	AnnotatorNotes T792	italic (null)
+T793	EntrezGene 22729 22734	Tbx15
+#793	AnnotatorNotes T793	EG:21384
+T794	PR 22729 22734	Tbx15
+#794	AnnotatorNotes T794	PR:000016145 (T-box transcription factor TBX15)
+T795	GO_BP 22735 22745	expression
+#795	AnnotatorNotes T795	GO:0010467 (gene expression)
+T796	italic 22794 22800	Agouti
+#796	AnnotatorNotes T796	italic (null)
+T797	EntrezGene 22794 22800	Agouti
+#797	AnnotatorNotes T797	EG:50518
+T798	PR 22794 22800	Agouti
+#798	AnnotatorNotes T798	PR:000004372 (agouti-signaling protein)
+T799	GO_BP 22801 22811	expression
+#799	AnnotatorNotes T799	GO:0010467 (gene expression)
+T800	italic 22864 22867	deH
+#800	AnnotatorNotes T800	italic (null)
+T801	sup 22866 22867	H
+#801	AnnotatorNotes T801	sup (null)
+T802	GO_BP 22871 22881	expression
+#802	AnnotatorNotes T802	GO:0010467 (gene expression)
+T803	italic 22885 22891	Agouti
+#803	AnnotatorNotes T803	italic (null)
+T804	EntrezGene 22885 22891	Agouti
+#804	AnnotatorNotes T804	EG:50518
+T805	PR 22885 22891	Agouti
+#805	AnnotatorNotes T805	PR:000004372 (agouti-signaling protein)
+T806	SO 22924 22930	mutant
+#806	AnnotatorNotes T806	SO:0001059 (sequence_alteration)
+T807	independent_continuant 22924 22930	mutant
+#807	AnnotatorNotes T807	independent_continuant
+T808	italic 23041 23047	Agouti
+#808	AnnotatorNotes T808	italic (null)
+T809	PR 23041 23047	Agouti
+#809	AnnotatorNotes T809	PR:000004372 (agouti-signaling protein)
+T810	EntrezGene 23041 23047	Agouti
+#810	AnnotatorNotes T810	EG:50518
+T811	GO_BP 23048 23058	expression
+#811	AnnotatorNotes T811	GO:0010467 (gene expression)
+T812	italic 23095 23098	deH
+#812	AnnotatorNotes T812	italic (null)
+T813	sup 23097 23098	H
+#813	AnnotatorNotes T813	sup (null)
+T814	italic 23099 23102	deH
+#814	AnnotatorNotes T814	italic (null)
+T815	sup 23101 23102	H
+#815	AnnotatorNotes T815	sup (null)
+T816	GO_BP 23138 23148	expression
+#816	AnnotatorNotes T816	GO:0010467 (gene expression)
+T817	italic 23152 23158	Agouti
+#817	AnnotatorNotes T817	italic (null)
+T818	EntrezGene 23152 23158	Agouti
+#818	AnnotatorNotes T818	EG:50518
+T819	PR 23152 23158	Agouti
+#819	AnnotatorNotes T819	PR:000004372 (agouti-signaling protein)
+T820	italic 23188 23191	deH
+#820	AnnotatorNotes T820	italic (null)
+T821	sup 23190 23191	H
+#821	AnnotatorNotes T821	sup (null)
+T822	italic 23192 23195	deH
+#822	AnnotatorNotes T822	italic (null)
+T823	sup 23194 23195	H
+#823	AnnotatorNotes T823	sup (null)
+T824	NCBITaxon 23196 23203	animals
+#824	AnnotatorNotes T824	NCBITaxon:33208 (Metazoa)
+T825	CL 23276 23297	dermal papillae cells
+#825	AnnotatorNotes T825	CL:0000346 (hair papilla cell)
+T826	GO_CC 23292 23297	cells
+#826	AnnotatorNotes T826	GO:0005623 (cell)
+T827	GO_BP 23327 23339	pigmentation
+#827	AnnotatorNotes T827	GO:0043473 (pigmentation)
+T828	italic 23353 23356	deH
+#828	AnnotatorNotes T828	italic (null)
+T829	sup 23355 23356	H
+#829	AnnotatorNotes T829	sup (null)
+T830	italic 23357 23360	deH
+#830	AnnotatorNotes T830	italic (null)
+T831	sup 23359 23360	H
+#831	AnnotatorNotes T831	sup (null)
+T832	NCBITaxon 23361 23365	mice
+#832	AnnotatorNotes T832	NCBITaxon:10088 (Mus)
+T833	italic 23425 23431	Agouti
+#833	AnnotatorNotes T833	italic (null)
+T834	EntrezGene 23425 23431	Agouti
+#834	AnnotatorNotes T834	EG:50518
+T835	PR 23425 23431	Agouti
+#835	AnnotatorNotes T835	PR:000004372 (agouti-signaling protein)
+T836	GO_BP 23432 23442	expression
+#836	AnnotatorNotes T836	GO:0010467 (gene expression)
+T837	GO_BP 23449 23454	birth
+#837	AnnotatorNotes T837	GO:0007567 (parturition)
+T838	GO_BP 23466 23476	expression
+#838	AnnotatorNotes T838	GO:0010467 (gene expression)
+T839	italic 23480 23485	Tbx15
+#839	AnnotatorNotes T839	italic (null)
+T840	EntrezGene 23480 23485	Tbx15
+#840	AnnotatorNotes T840	EG:21384
+T841	PR 23480 23485	Tbx15
+#841	AnnotatorNotes T841	PR:000016145 (T-box transcription factor TBX15)
+T842	italic 23490 23496	Agouti
+#842	AnnotatorNotes T842	italic (null)
+T843	PR 23490 23496	Agouti
+#843	AnnotatorNotes T843	PR:000004372 (agouti-signaling protein)
+T844	EntrezGene 23490 23496	Agouti
+#844	AnnotatorNotes T844	EG:50518
+T845	italic 23576 23581	Tbx15
+#845	AnnotatorNotes T845	italic (null)
+T846	EntrezGene 23576 23581	Tbx15
+#846	AnnotatorNotes T846	EG:37183
+T847	PR 23576 23581	Tbx15
+#847	AnnotatorNotes T847	PR:000016145 (T-box transcription factor TBX15)
+T848	GO_BP 23596 23606	expression
+#848	AnnotatorNotes T848	GO:0010467 (gene expression)
+T849	italic 23610 23616	Agouti
+#849	AnnotatorNotes T849	italic (null)
+T850	PR 23610 23616	Agouti
+#850	AnnotatorNotes T850	PR:000004372 (agouti-signaling protein)
+T851	EntrezGene 23610 23616	Agouti
+#851	AnnotatorNotes T851	EG:50518
+T852	italic 23670 23675	Tbx15
+#852	AnnotatorNotes T852	italic (null)
+T853	EntrezGene 23670 23675	Tbx15
+#853	AnnotatorNotes T853	EG:21384
+T854	PR 23670 23675	Tbx15
+#854	AnnotatorNotes T854	PR:000016145 (T-box transcription factor TBX15)
+T855	GO_BP 23676 23686	Expression
+#855	AnnotatorNotes T855	GO:0010467 (gene expression)
+T856	GO_BP 23709 23721	Pigmentation
+#856	AnnotatorNotes T856	GO:0043473 (pigmentation)
+T857	GO_BP 23811 23821	expression
+#857	AnnotatorNotes T857	GO:0010467 (gene expression)
+T858	italic 23825 23830	Tbx15
+#858	AnnotatorNotes T858	italic (null)
+T859	EntrezGene 23825 23830	Tbx15
+#859	AnnotatorNotes T859	EG:21384
+T860	PR 23825 23830	Tbx15
+#860	AnnotatorNotes T860	PR:000016145 (T-box transcription factor TBX15)
+T861	GO_BP 23876 23885	establish
+#861	AnnotatorNotes T861	GO:0032502 (developmental process)
+T862	CHEBI 23953 23960	pigment
+#862	AnnotatorNotes T862	CHEBI:26130 (pigment)
+T863	GO_BP 23966 23975	synthesis
+#863	AnnotatorNotes T863	GO:0009058 (biosynthetic process)
+T864	italic 24007 24013	Agouti
+#864	AnnotatorNotes T864	italic (null)
+T865	EntrezGene 24007 24013	Agouti
+#865	AnnotatorNotes T865	EG:50518
+T866	PR 24007 24013	Agouti
+#866	AnnotatorNotes T866	PR:000004372 (agouti-signaling protein)
+T867	SO 24014 24021	isoform
+#867	AnnotatorNotes T867	SO:0001060 (sequence_variant)
+T868	GO_BP 24307 24317	expression
+#868	AnnotatorNotes T868	GO:0010467 (gene expression)
+T869	italic 24321 24326	Tbx15
+#869	AnnotatorNotes T869	italic (null)
+T870	EntrezGene 24321 24326	Tbx15
+#870	AnnotatorNotes T870	EG:21384
+T871	PR 24321 24326	Tbx15
+#871	AnnotatorNotes T871	PR:000016145 (T-box transcription factor TBX15)
+T872	italic 24331 24337	Agouti
+#872	AnnotatorNotes T872	italic (null)
+T873	PR 24331 24337	Agouti
+#873	AnnotatorNotes T873	PR:000004372 (agouti-signaling protein)
+T874	EntrezGene 24331 24337	Agouti
+#874	AnnotatorNotes T874	EG:50518
+T875	italic 24458 24460	at
+#875	AnnotatorNotes T875	italic (null)
+T876	sup 24459 24460	t
+#876	AnnotatorNotes T876	sup (null)
+T877	italic 24461 24463	at
+#877	AnnotatorNotes T877	italic (null)
+T878	sup 24462 24463	t
+#878	AnnotatorNotes T878	sup (null)
+T879	GO_BP 24568 24575	develop
+#879	AnnotatorNotes T879	GO:0032502 (developmental process)
+T880	GO_BP 24625 24638	recombination
+#880	AnnotatorNotes T880	GO:0006310 (DNA recombination)
+T881	italic 24812 24814	at
+#881	AnnotatorNotes T881	italic (null)
+T882	sup 24813 24814	t
+#882	AnnotatorNotes T882	sup (null)
+T883	italic 24815 24816	a
+#883	AnnotatorNotes T883	italic (null)
+T884	GO_BP 25005 25020	gene expression
+#884	AnnotatorNotes T884	GO:0010467 (gene expression)
+T885	SO 25005 25009	gene
+#885	AnnotatorNotes T885	SO:0000704 (gene)
+T886	GO_MF 25035 25048	hybridization
+#886	AnnotatorNotes T886	GO:0000739 (DNA strand annealing activity)
+T887	GO_MF 25035 25048	hybridization
+#887	AnnotatorNotes T887	GO:0033592 (RNA strand annealing activity)
+T888	GO_BP 25528 25535	produce
+#888	AnnotatorNotes T888	GO:0032502 (developmental process)
+T889	GO_BP 25593 25601	produced
+#889	AnnotatorNotes T889	GO:0032502 (developmental process)
+T890	italic 25647 25648	n
+#890	AnnotatorNotes T890	italic (null)
+T891	italic 25696 25697	n
+#891	AnnotatorNotes T891	italic (null)
+T892	italic 25844 25845	n
+#892	AnnotatorNotes T892	italic (null)
+T893	GO_BP 25884 25892	produced
+#893	AnnotatorNotes T893	GO:0032502 (developmental process)
+T894	GO_BP 26082 26091	expressed
+#894	AnnotatorNotes T894	GO:0010467 (gene expression)
+T895	italic 26092 26097	Tbx15
+#895	AnnotatorNotes T895	italic (null)
+T896	PR 26092 26097	Tbx15
+#896	AnnotatorNotes T896	PR:000016145 (T-box transcription factor TBX15)
+T897	EntrezGene 26092 26097	Tbx15
+#897	AnnotatorNotes T897	EG:21384
+T898	italic 26106 26112	Agouti
+#898	AnnotatorNotes T898	italic (null)
+T899	PR 26106 26112	Agouti
+#899	AnnotatorNotes T899	PR:000004372 (agouti-signaling protein)
+T900	EntrezGene 26106 26112	Agouti
+#900	AnnotatorNotes T900	EG:50518
+T901	GO_BP 26133 26142	expressed
+#901	AnnotatorNotes T901	GO:0010467 (gene expression)
+T902	SO 26148 26153	genes
+#902	AnnotatorNotes T902	SO:0000704 (gene)
+T903	GO_BP 26208 26220	pigmentation
+#903	AnnotatorNotes T903	GO:0043473 (pigmentation)
+T904	GO_BP 26224 26235	established
+#904	AnnotatorNotes T904	GO:0032502 (developmental process)
+T905	GO_BP 26263 26273	expression
+#905	AnnotatorNotes T905	GO:0010467 (gene expression)
+T906	italic 26295 26300	Tbx15
+#906	AnnotatorNotes T906	italic (null)
+T907	EntrezGene 26295 26300	Tbx15
+#907	AnnotatorNotes T907	EG:21384
+T908	PR 26295 26300	Tbx15
+#908	AnnotatorNotes T908	PR:000016145 (T-box transcription factor TBX15)
+T909	italic 26305 26311	Agouti
+#909	AnnotatorNotes T909	italic (null)
+T910	PR 26305 26311	Agouti
+#910	AnnotatorNotes T910	PR:000004372 (agouti-signaling protein)
+T911	EntrezGene 26305 26311	Agouti
+#911	AnnotatorNotes T911	EG:50518
+T912	GO_BP 26401 26417	skin development
+#912	AnnotatorNotes T912	GO:0043588 (skin development)
+T913	GO_BP 26431 26441	expression
+#913	AnnotatorNotes T913	GO:0010467 (gene expression)
+T914	italic 26445 26450	Tbx15
+#914	AnnotatorNotes T914	italic (null)
+T915	EntrezGene 26445 26450	Tbx15
+#915	AnnotatorNotes T915	EG:21384
+T916	PR 26445 26450	Tbx15
+#916	AnnotatorNotes T916	PR:000016145 (T-box transcription factor TBX15)
+T917	GO_BP 26451 26459	broadens
+#917	AnnotatorNotes T917	GO:0048518 (positive regulation of biological process)
+T918	CHEBI 26537 26544	Pigment
+#918	AnnotatorNotes T918	CHEBI:26130 (pigment)
+T919	NCBITaxon 26743 26753	vertebrate
+#919	AnnotatorNotes T919	NCBITaxon:7742 (Vertebrata)
+T920	CL 26766 26770	cell
+#920	AnnotatorNotes T920	CL:0000000 (cell)
+T921	GO_CC 26766 26770	cell
+#921	AnnotatorNotes T921	GO:0005623 (cell)
+T922	NCBITaxon 27165 27174	mammalian
+#922	AnnotatorNotes T922	NCBITaxon:40674 (Mammalia)
+T923	GO_BP 27401 27413	pigmentation
+#923	AnnotatorNotes T923	GO:0043473 (pigmentation)
+T924	GO_BP 27526 27538	pigmentation
+#924	AnnotatorNotes T924	GO:0043473 (pigmentation)
+T925	italic 27613 27616	Cre
+#925	AnnotatorNotes T925	italic (null)
+T926	SO 27617 27626	transgene
+#926	AnnotatorNotes T926	SO:0000902 (transgene)
+T927	GO_BP 27627 27633	driven
+#927	AnnotatorNotes T927	GO:0048518 (positive regulation of biological process)
+T928	italic 27641 27646	Hoxb6
+#928	AnnotatorNotes T928	italic (null)
+T929	PR 27641 27646	Hoxb6
+#929	AnnotatorNotes T929	PR:000008703 (homeobox protein Hox-B6)
+T930	SO 27647 27655	promoter
+#930	AnnotatorNotes T930	SO:0000167 (promoter)
+T931	GO_BP 27665 27674	developed
+#931	AnnotatorNotes T931	GO:0009058 (biosynthetic process)
+T932	italic 27794 27803	Hoxb6-Cre
+#932	AnnotatorNotes T932	italic (null)
+T933	PR 27794 27799	Hoxb6
+#933	AnnotatorNotes T933	PR:000008703 (homeobox protein Hox-B6)
+T934	SO 27804 27813	transgene
+#934	AnnotatorNotes T934	SO:0000902 (transgene)
+T935	italic 27822 27831	R26R lacZ
+#935	AnnotatorNotes T935	italic (null)
+T936	SO 27841 27845	gene
+#936	AnnotatorNotes T936	SO:0000704 (gene)
+T937	NCBITaxon 28016 28023	animals
+#937	AnnotatorNotes T937	NCBITaxon:33208 (Metazoa)
+T938	italic 28222 28224	at
+#938	AnnotatorNotes T938	italic (null)
+T939	sup 28223 28224	t
+#939	AnnotatorNotes T939	sup (null)
+T940	italic 28225 28227	at
+#940	AnnotatorNotes T940	italic (null)
+T941	sup 28226 28227	t
+#941	AnnotatorNotes T941	sup (null)
+T942	NCBITaxon 28228 28232	mice
+#942	AnnotatorNotes T942	NCBITaxon:10088 (Mus)
+T943	CHEBI 28387 28396	eumelanin
+#943	AnnotatorNotes T943	CHEBI:24009 (eumelanin)
+T944	GO_BP 28498 28510	pigmentation
+#944	AnnotatorNotes T944	GO:0043473 (pigmentation)
+T945	GO_BP 28643 28655	pigmentation
+#945	AnnotatorNotes T945	GO:0043473 (pigmentation)
+T946	GO_BP 28771 28799	dorsoventral limb patterning
+#946	AnnotatorNotes T946	"dorsoventral .. patterning" GO:0009953 (dorsal/ventral pattern formation)
+T947	GO_BP 28834 28843	establish
+#947	AnnotatorNotes T947	GO:0032502 (developmental process)
+T948	GO_BP 28848 28860	pigmentation
+#948	AnnotatorNotes T948	GO:0043473 (pigmentation)
+T949	GO_BP 28878 28888	developing
+#949	AnnotatorNotes T949	GO:0032502 (developmental process)
+T950	italic 28895 28905	Engrailed1
+#950	AnnotatorNotes T950	italic (null)
+T951	PR 28895 28905	Engrailed1
+#951	AnnotatorNotes T951	PR:000007070 (homeobox protein engrailed-1)
+T952	italic 28907 28910	En1
+#952	AnnotatorNotes T952	italic (null)
+T953	PR 28907 28910	En1
+#953	AnnotatorNotes T953	PR:000007070 (homeobox protein engrailed-1)
+T954	italic 28913 28918	Wnt7a
+#954	AnnotatorNotes T954	italic (null)
+T955	PR 28913 28918	Wnt7a
+#955	AnnotatorNotes T955	PR:000017448 (protein Wnt-7a)
+T956	italic 28924 28929	Lmx1b
+#956	AnnotatorNotes T956	italic (null)
+T957	PR 28924 28929	Lmx1b
+#957	AnnotatorNotes T957	PR:000009871 (LIM homeobox transcription factor 1-beta)
+T958	GO_BP 28980 28990	expression
+#958	AnnotatorNotes T958	GO:0010467 (gene expression)
+T959	GO_BP 28999 29008	establish
+#959	AnnotatorNotes T959	GO:0032502 (developmental process)
+T960	italic 29061 29064	En1
+#960	AnnotatorNotes T960	italic (null)
+T961	PR 29061 29064	En1
+#961	AnnotatorNotes T961	PR:000007070 (homeobox protein engrailed-1)
+T962	EntrezGene 29061 29064	En1
+#962	AnnotatorNotes T962	EG:13798
+T963	GO_BP 29080 29089	expressed
+#963	AnnotatorNotes T963	GO:0010467 (gene expression)
+T964	GO_BP 29097 29107	developing
+#964	AnnotatorNotes T964	GO:0032502 (developmental process)
+T965	GO_MF 29276 29286	hybridized
+#965	AnnotatorNotes T965	GO:0000739 (DNA strand annealing activity)
+T966	GO_MF 29276 29286	hybridized
+#966	AnnotatorNotes T966	GO:0033592 (RNA strand annealing activity)
+T967	italic 29292 29297	Tbx15
+#967	AnnotatorNotes T967	italic (null)
+T968	PR 29292 29297	Tbx15
+#968	AnnotatorNotes T968	PR:000016145 (T-box transcription factor TBX15)
+T969	EntrezGene 29292 29297	Tbx15
+#969	AnnotatorNotes T969	EG:21384
+T970	GO_BP 29383 29407	developmental mechanisms
+#970	AnnotatorNotes T970	GO:0032502 (developmental process)
+T971	GO_BP 29413 29422	establish
+#971	AnnotatorNotes T971	GO:0032502 (developmental process)
+T972	GO_BP 29425 29437	pigmentation
+#972	AnnotatorNotes T972	GO:0043473 (pigmentation)
+T973	SO 29588 29597	mutations
+#973	AnnotatorNotes T973	SO:0001059 (sequence_alteration)
+T974	SO 29602 29607	genes
+#974	AnnotatorNotes T974	SO:0000704 (gene)
+T975	GO_BP 29656 29681	hair follicle development
+#975	AnnotatorNotes T975	GO:0001942 (hair follicle development)
+T976	italic 29687 29692	Tbx15
+#976	AnnotatorNotes T976	italic (null)
+T977	EntrezGene 29687 29692	Tbx15
+#977	AnnotatorNotes T977	EG:21384
+T978	PR 29687 29692	Tbx15
+#978	AnnotatorNotes T978	PR:000016145 (T-box transcription factor TBX15)
+T979	SO 29705 29709	gene
+#979	AnnotatorNotes T979	SO:0000704 (gene)
+T980	GO_BP 29765 29777	pigmentation
+#980	AnnotatorNotes T980	GO:0043473 (pigmentation)
+T981	GO_BP 29833 29840	produce
+#981	AnnotatorNotes T981	GO:0032502 (developmental process)
+T982	italic 29915 29918	deH
+#982	AnnotatorNotes T982	italic (null)
+T983	sup 29917 29918	H
+#983	AnnotatorNotes T983	sup (null)
+T984	italic 29919 29922	deH
+#984	AnnotatorNotes T984	italic (null)
+T985	sup 29921 29922	H
+#985	AnnotatorNotes T985	sup (null)
+T986	NCBITaxon 29923 29927	mice
+#986	AnnotatorNotes T986	NCBITaxon:10088 (Mus)
+T987	GO_BP 29987 29997	expression
+#987	AnnotatorNotes T987	GO:0010467 (gene expression)
+T988	italic 30004 30010	Agouti
+#988	AnnotatorNotes T988	italic (null)
+T989	EntrezGene 30004 30010	Agouti
+#989	AnnotatorNotes T989	EG:50518
+T990	PR 30004 30010	Agouti
+#990	AnnotatorNotes T990	PR:000004372 (agouti-signaling protein)
+T991	CHEBI 30011 30015	mRNA
+#991	AnnotatorNotes T991	CHEBI:33699 (messenger RNA)
+T992	SO 30011 30015	mRNA
+#992	AnnotatorNotes T992	SO:0000234 (mRNA)
+T993	SO 30016 30023	isoform
+#993	AnnotatorNotes T993	SO:0001060 (sequence_variant)
+T994	italic 30073 30076	deH
+#994	AnnotatorNotes T994	italic (null)
+T995	sup 30075 30076	H
+#995	AnnotatorNotes T995	sup (null)
+T996	SO 30077 30083	allele
+#996	AnnotatorNotes T996	SO:0001023 (allele)
+T997	SO 30105 30113	deletion
+#997	AnnotatorNotes T997	SO:0000159 (deletion)
+T998	SO 30119 30126	removes
+#998	AnnotatorNotes T998	SO:0000045 (delete)
+T999	italic 30139 30144	Tbx15
+#999	AnnotatorNotes T999	italic (null)
+T1000	EntrezGene 30139 30144	Tbx15
+#1000	AnnotatorNotes T1000	EG:21384
+T1001	PR 30139 30144	Tbx15
+#1001	AnnotatorNotes T1001	PR:000016145 (T-box transcription factor TBX15)
+T1002	SO 30145 30160	coding sequence
+#1002	AnnotatorNotes T1002	SO:0000316 (CDS)
+T1003	italic 30235 30240	Tbx15
+#1003	AnnotatorNotes T1003	italic (null)
+T1004	EntrezGene 30235 30240	Tbx15
+#1004	AnnotatorNotes T1004	EG:21384
+T1005	PR 30235 30240	Tbx15
+#1005	AnnotatorNotes T1005	PR:000016145 (T-box transcription factor TBX15)
+T1006	SO 30287 30291	gene
+#1006	AnnotatorNotes T1006	SO:0000704 (gene)
+T1007	SO 30360 30365	genes
+#1007	AnnotatorNotes T1007	SO:0000704 (gene)
+T1008	SO 30393 30413	deletion breakpoints
+#1008	AnnotatorNotes T1008	SO:0001415 (deletion_breakpoint)
+T1009	SO 30393 30401	deletion
+#1009	AnnotatorNotes T1009	SO:0000159 (deletion)
+T1010	GO_BP 30423 30433	expression
+#1010	AnnotatorNotes T1010	GO:0010467 (gene expression)
+T1011	italic 30445 30450	Tbx15
+#1011	AnnotatorNotes T1011	italic (null)
+T1012	PR 30445 30450	Tbx15
+#1012	AnnotatorNotes T1012	PR:000016145 (T-box transcription factor TBX15)
+T1013	EntrezGene 30445 30450	Tbx15
+#1013	AnnotatorNotes T1013	EG:21384
+T1014	italic 30532 30534	de
+#1014	AnnotatorNotes T1014	italic (null)
+T1015	EntrezGene 30532 30534	de
+#1015	AnnotatorNotes T1015	EG:21384
+T1016	SO 30535 30541	allele
+#1016	AnnotatorNotes T1016	SO:0001023 (allele)
+T1017	italic 30550 30553	deH
+#1017	AnnotatorNotes T1017	italic (null)
+T1018	sup 30552 30553	H
+#1018	AnnotatorNotes T1018	sup (null)
+T1019	SO 30554 30560	allele
+#1019	AnnotatorNotes T1019	SO:0001023 (allele)
+T1020	italic 30573 30578	Tbx15
+#1020	AnnotatorNotes T1020	italic (null)
+T1021	EntrezGene 30573 30578	Tbx15
+#1021	AnnotatorNotes T1021	EG:21384
+T1022	PR 30573 30578	Tbx15
+#1022	AnnotatorNotes T1022	PR:000016145 (T-box transcription factor TBX15)
+T1023	SO 30588 30594	allele
+#1023	AnnotatorNotes T1023	SO:0001023 (allele)
+T1024	italic 30621 30624	deH
+#1024	AnnotatorNotes T1024	italic (null)
+T1025	sup 30623 30624	H
+#1025	AnnotatorNotes T1025	sup (null)
+T1026	GO_BP 30662 30672	expression
+#1026	AnnotatorNotes T1026	GO:0010467 (gene expression)
+T1027	italic 30676 30681	Tbx15
+#1027	AnnotatorNotes T1027	italic (null)
+T1028	EntrezGene 30676 30681	Tbx15
+#1028	AnnotatorNotes T1028	EG:21384
+T1029	PR 30676 30681	Tbx15
+#1029	AnnotatorNotes T1029	PR:000016145 (T-box transcription factor TBX15)
+T1030	GO_BP 30724 30733	establish
+#1030	AnnotatorNotes T1030	GO:0032502 (developmental process)
+T1031	CHEBI 30786 30796	pigmentary
+#1031	AnnotatorNotes T1031	CHEBI:26130 (pigment)
+T1032	GO_BP 30813 30823	patterning
+#1032	AnnotatorNotes T1032	GO:0007389 (pattern specification process)
+T1033	italic 30845 30850	Tbx15
+#1033	AnnotatorNotes T1033	italic (null)
+T1034	PR 30845 30850	Tbx15
+#1034	AnnotatorNotes T1034	PR:000016145 (T-box transcription factor TBX15)
+T1035	EntrezGene 30845 30850	Tbx15
+#1035	AnnotatorNotes T1035	EG:21384
+T1036	GO_BP 30851 30861	expression
+#1036	AnnotatorNotes T1036	GO:0010467 (gene expression)
+T1037	GO_BP 30869 30879	developing
+#1037	AnnotatorNotes T1037	GO:0032502 (developmental process)
+T1038	GO_BP 30948 30964	limb development
+#1038	AnnotatorNotes T1038	GO:0060173 (limb development)
+T1039	SO 31052 31056	gene
+#1039	AnnotatorNotes T1039	SO:0000704 (gene)
+T1040	GO_BP 31067 31088	embryonic development
+#1040	AnnotatorNotes T1040	GO:0009790 (embryonic development)
+T1041	GO_BP 31155 31202	acquisition of dorsoventral positional identity
+#1041	AnnotatorNotes T1041	GO:0009953 (dorsal/ventral pattern formation)
+T1042	NCBITaxon 31206 31215	mammalian
+#1042	AnnotatorNotes T1042	NCBITaxon:40674 (Mammalia)
+T1043	GO_BP 31298 31304	visual
+#1043	AnnotatorNotes T1043	GO:0007601 (visual perception)
+T1044	italic 31349 31351	at
+#1044	AnnotatorNotes T1044	italic (null)
+T1045	sup 31350 31351	t
+#1045	AnnotatorNotes T1045	sup (null)
+T1046	italic 31352 31354	at
+#1046	AnnotatorNotes T1046	italic (null)
+T1047	sup 31353 31354	t
+#1047	AnnotatorNotes T1047	sup (null)
+T1048	NCBITaxon 31355 31359	mice
+#1048	AnnotatorNotes T1048	NCBITaxon:10088 (Mus)
+T1049	GO_BP 31479 31494	gene expression
+#1049	AnnotatorNotes T1049	GO:0010467 (gene expression)
+T1050	SO 31479 31483	gene
+#1050	AnnotatorNotes T1050	SO:0000704 (gene)
+T1051	CL 31499 31503	cell
+#1051	AnnotatorNotes T1051	CL:0000000 (cell)
+T1052	GO_CC 31499 31503	cell
+#1052	AnnotatorNotes T1052	GO:0005623 (cell)
+T1053	italic 31557 31563	Agouti
+#1053	AnnotatorNotes T1053	italic (null)
+T1054	EntrezGene 31557 31563	Agouti
+#1054	AnnotatorNotes T1054	EG:50518
+T1055	PR 31557 31563	Agouti
+#1055	AnnotatorNotes T1055	PR:000004372 (agouti-signaling protein)
+T1056	CHEBI 31564 31568	mRNA
+#1056	AnnotatorNotes T1056	CHEBI:33699 (messenger RNA)
+T1057	SO 31564 31568	mRNA
+#1057	AnnotatorNotes T1057	SO:0000234 (mRNA)
+T1058	GO_BP 31609 31620	distributed
+#1058	AnnotatorNotes T1058	GO:0051179 (localization)
+T1059	CL 31791 31802	melanocytes
+#1059	AnnotatorNotes T1059	CL:0000148 (melanocyte)
+T1060	italic 31961 31963	at
+#1060	AnnotatorNotes T1060	italic (null)
+T1061	sup 31962 31963	t
+#1061	AnnotatorNotes T1061	sup (null)
+T1062	italic 31964 31966	at
+#1062	AnnotatorNotes T1062	italic (null)
+T1063	sup 31965 31966	t
+#1063	AnnotatorNotes T1063	sup (null)
+T1064	NCBITaxon 31967 31971	mice
+#1064	AnnotatorNotes T1064	NCBITaxon:10088 (Mus)
+T1065	CHEBI 32038 32045	pigment
+#1065	AnnotatorNotes T1065	CHEBI:26130 (pigment)
+T1066	CHEBI 32065 32072	pigment
+#1066	AnnotatorNotes T1066	CHEBI:26130 (pigment)
+T1067	italic 32171 32177	Agouti
+#1067	AnnotatorNotes T1067	italic (null)
+T1068	EntrezGene 32171 32177	Agouti
+#1068	AnnotatorNotes T1068	EG:50518
+T1069	PR 32171 32177	Agouti
+#1069	AnnotatorNotes T1069	PR:000004372 (agouti-signaling protein)
+T1070	CHEBI 32178 32182	mRNA
+#1070	AnnotatorNotes T1070	CHEBI:33699 (messenger RNA)
+T1071	SO 32178 32182	mRNA
+#1071	AnnotatorNotes T1071	SO:0000234 (mRNA)
+T1072	CHEBI 32235 32242	pigment
+#1072	AnnotatorNotes T1072	CHEBI:26130 (pigment)
+T1073	SO 32343 32350	genetic
+#1073	AnnotatorNotes T1073	SO:0000704 (gene)
+T1074	italic 32436 32441	Tbx15
+#1074	AnnotatorNotes T1074	italic (null)
+T1075	EntrezGene 32436 32441	Tbx15
+#1075	AnnotatorNotes T1075	EG:21384
+T1076	PR 32436 32441	Tbx15
+#1076	AnnotatorNotes T1076	PR:000016145 (T-box transcription factor TBX15)
+T1077	CHEBI 32491 32498	pigment
+#1077	AnnotatorNotes T1077	CHEBI:26130 (pigment)
+T1078	GO_BP 32512 32522	expression
+#1078	AnnotatorNotes T1078	GO:0010467 (gene expression)
+T1079	italic 32547 32553	Agouti
+#1079	AnnotatorNotes T1079	italic (null)
+T1080	PR 32547 32553	Agouti
+#1080	AnnotatorNotes T1080	PR:000004372 (agouti-signaling protein)
+T1081	EntrezGene 32547 32553	Agouti
+#1081	AnnotatorNotes T1081	EG:50518
+T1082	SO 32554 32561	isoform
+#1082	AnnotatorNotes T1082	SO:0001060 (sequence_variant)
+T1083	GO_BP 32656 32668	pigmentation
+#1083	AnnotatorNotes T1083	GO:0043473 (pigmentation)
+T1084	italic 32678 32681	deH
+#1084	AnnotatorNotes T1084	italic (null)
+T1085	sup 32680 32681	H
+#1085	AnnotatorNotes T1085	sup (null)
+T1086	italic 32682 32685	deH
+#1086	AnnotatorNotes T1086	italic (null)
+T1087	sup 32684 32685	H
+#1087	AnnotatorNotes T1087	sup (null)
+T1088	NCBITaxon 32686 32690	mice
+#1088	AnnotatorNotes T1088	NCBITaxon:10088 (Mus)
+T1089	italic 32752 32755	deH
+#1089	AnnotatorNotes T1089	italic (null)
+T1090	sup 32754 32755	H
+#1090	AnnotatorNotes T1090	sup (null)
+T1091	italic 32756 32759	deH
+#1091	AnnotatorNotes T1091	italic (null)
+T1092	sup 32758 32759	H
+#1092	AnnotatorNotes T1092	sup (null)
+T1093	NCBITaxon 32760 32764	mice
+#1093	AnnotatorNotes T1093	NCBITaxon:10088 (Mus)
+T1094	italic 32916 32921	Tbx15
+#1094	AnnotatorNotes T1094	italic (null)
+T1095	PR 32916 32921	Tbx15
+#1095	AnnotatorNotes T1095	PR:000016145 (T-box transcription factor TBX15)
+T1096	EntrezGene 32916 32921	Tbx15
+#1096	AnnotatorNotes T1096	EG:21384
+T1097	GO_MF 32951 32962	DNA-binding
+#1097	AnnotatorNotes T1097	GO:0003677 (DNA binding)
+T1098	SO 32951 32954	DNA
+#1098	AnnotatorNotes T1098	SO:0000352 (DNA)
+T1099	SO 32963 32969	domain
+#1099	AnnotatorNotes T1099	SO:0000417 (polypeptide_domain)
+T1100	EntrezGene 32994 33009	mouse Brachyury
+#1100	AnnotatorNotes T1100	EG:20997
+T1101	NCBITaxon 32994 32999	mouse
+#1101	AnnotatorNotes T1101	NCBITaxon:10088 (Mus)
+T1102	italic 33000 33009	Brachyury
+#1102	AnnotatorNotes T1102	italic (null)
+T1103	PR 33000 33009	Brachyury
+#1103	AnnotatorNotes T1103	PR:000016001 (brachyury protein)
+T1104	SO 33010 33014	gene
+#1104	AnnotatorNotes T1104	SO:0000704 (gene)
+T1105	SO 33074 33079	genes
+#1105	AnnotatorNotes T1105	SO:0000704 (gene)
+T1106	GO_BP 33104 33117	developmental
+#1106	AnnotatorNotes T1106	GO:0032502 (developmental process)
+T1107	NCBITaxon 33177 33186	organisms
+#1107	AnnotatorNotes T1107	NCBITaxon:1 (root)
+T1108	italic 33223 33228	Tbx15
+#1108	AnnotatorNotes T1108	italic (null)
+T1109	PR 33223 33228	Tbx15
+#1109	AnnotatorNotes T1109	PR:000016145 (T-box transcription factor TBX15)
+T1110	italic 33260 33265	Tbx18
+#1110	AnnotatorNotes T1110	italic (null)
+T1111	PR 33260 33265	Tbx18
+#1111	AnnotatorNotes T1111	PR:000016146 (T-box transcription factor TBX18)
+T1112	italic 33270 33275	Tbx22
+#1112	AnnotatorNotes T1112	italic (null)
+T1113	PR 33270 33275	Tbx22
+#1113	AnnotatorNotes T1113	PR:000016150 (T-box transcription factor TBX22)
+T1114	NCBITaxon 33315 33323	chordate
+#1114	AnnotatorNotes T1114	NCBITaxon:7711 (Chordata)
+T1115	SO 33358 33362	gene
+#1115	AnnotatorNotes T1115	SO:0000704 (gene)
+T1116	NCBITaxon 33366 33375	amphioxus
+#1116	AnnotatorNotes T1116	NCBITaxon:7740 (Branchiostoma lanceolatum)
+T1117	SO 33391 33398	homolog
+#1117	AnnotatorNotes T1117	SO:0000853 (homologous_region)
+T1118	NCBITaxon 33406 33409	fly
+#1118	AnnotatorNotes T1118	NCBITaxon:7147 (Diptera)
+T1119	SO 33410 33416	genome
+#1119	AnnotatorNotes T1119	SO:0001026 (genome)
+T1120	SO 33486 33491	genes
+#1120	AnnotatorNotes T1120	SO:0000704 (gene)
+T1121	GO_BP 33496 33505	expressed
+#1121	AnnotatorNotes T1121	GO:0010467 (gene expression)
+T1122	italic 33571 33576	Tbx18
+#1122	AnnotatorNotes T1122	italic (null)
+T1123	PR 33571 33576	Tbx18
+#1123	AnnotatorNotes T1123	PR:000016146 (T-box transcription factor TBX18)
+T1124	italic 33581 33586	Tbx22
+#1124	AnnotatorNotes T1124	italic (null)
+T1125	PR 33581 33586	Tbx22
+#1125	AnnotatorNotes T1125	PR:000016150 (T-box transcription factor TBX22)
+T1126	italic 33606 33611	Tbx15
+#1126	AnnotatorNotes T1126	italic (null)
+T1127	PR 33606 33611	Tbx15
+#1127	AnnotatorNotes T1127	PR:000016145 (T-box transcription factor TBX15)
+T1128	italic 33616 33621	Tbx18
+#1128	AnnotatorNotes T1128	italic (null)
+T1129	PR 33616 33621	Tbx18
+#1129	AnnotatorNotes T1129	PR:000016146 (T-box transcription factor TBX18)
+T1130	SO 33663 33668	genes
+#1130	AnnotatorNotes T1130	SO:0000704 (gene)
+T1131	italic 33670 33675	Tbx15
+#1131	AnnotatorNotes T1131	italic (null)
+T1132	PR 33670 33675	Tbx15
+#1132	AnnotatorNotes T1132	PR:000016145 (T-box transcription factor TBX15)
+T1133	italic 33694 33699	Tbx18
+#1133	AnnotatorNotes T1133	italic (null)
+T1134	PR 33694 33699	Tbx18
+#1134	AnnotatorNotes T1134	PR:000016146 (T-box transcription factor TBX18)
+T1135	italic 33703 33708	Tbx22
+#1135	AnnotatorNotes T1135	italic (null)
+T1136	PR 33703 33708	Tbx22
+#1136	AnnotatorNotes T1136	PR:000016150 (T-box transcription factor TBX22)
+T1137	SO 33856 33860	gene
+#1137	AnnotatorNotes T1137	SO:0000704 (gene)
+T1138	italic 33865 33870	Tbx15
+#1138	AnnotatorNotes T1138	italic (null)
+T1139	PR 33865 33870	Tbx15
+#1139	AnnotatorNotes T1139	PR:000016145 (T-box transcription factor TBX15)
+T1140	italic 33872 33877	Tbx18
+#1140	AnnotatorNotes T1140	italic (null)
+T1141	PR 33872 33877	Tbx18
+#1141	AnnotatorNotes T1141	PR:000016146 (T-box transcription factor TBX18)
+T1142	italic 33883 33888	Tbx22
+#1142	AnnotatorNotes T1142	italic (null)
+T1143	PR 33883 33888	Tbx22
+#1143	AnnotatorNotes T1143	PR:000016150 (T-box transcription factor TBX22)
+T1144	GO_BP 33930 33941	development
+#1144	AnnotatorNotes T1144	GO:0032502 (developmental process)
+T1145	NCBITaxon 33945 33961	cephalochordates
+#1145	AnnotatorNotes T1145	NCBITaxon:7735 (Cephalochordata)
+T1146	GO_BP 33968 33979	acquisition
+#1146	AnnotatorNotes T1146	GO:0032502 (developmental process)
+T1147	GO_BP 33994 34004	expression
+#1147	AnnotatorNotes T1147	GO:0010467 (gene expression)
+T1148	GO_BP 34018 34031	developmental
+#1148	AnnotatorNotes T1148	GO:0032502 (developmental process)
+T1149	NCBITaxon 34081 34091	vertebrate
+#1149	AnnotatorNotes T1149	NCBITaxon:7742 (Vertebrata)
+T1150	GO_BP 34103 34113	Expression
+#1150	AnnotatorNotes T1150	GO:0010467 (gene expression)
+T1151	italic 34117 34122	Tbx18
+#1151	AnnotatorNotes T1151	italic (null)
+T1152	PR 34117 34122	Tbx18
+#1152	AnnotatorNotes T1152	PR:000016146 (T-box transcription factor TBX18)
+T1153	italic 34127 34132	Tbx22
+#1153	AnnotatorNotes T1153	italic (null)
+T1154	PR 34127 34132	Tbx22
+#1154	AnnotatorNotes T1154	PR:000016150 (T-box transcription factor TBX22)
+T1155	italic 34206 34211	Tbx15
+#1155	AnnotatorNotes T1155	italic (null)
+T1156	PR 34206 34211	Tbx15
+#1156	AnnotatorNotes T1156	PR:000016145 (T-box transcription factor TBX15)
+T1157	GO_BP 34250 34262	establishing
+#1157	AnnotatorNotes T1157	GO:0032502 (developmental process)
+T1158	NCBITaxon 34387 34394	animals
+#1158	AnnotatorNotes T1158	NCBITaxon:33208 (Metazoa)
+T1159	SO 34395 34402	mutated
+#1159	AnnotatorNotes T1159	SO:0000041 (sequence_operation)
+T1160	SO 34518 34527	mutations
+#1160	AnnotatorNotes T1160	SO:0001059 (sequence_alteration)
+T1161	italic 34531 34536	Tbx22
+#1161	AnnotatorNotes T1161	italic (null)
+T1162	PR 34531 34536	Tbx22
+#1162	AnnotatorNotes T1162	PR:000016150 (T-box transcription factor TBX22)
+T1163	EntrezGene 34531 34536	Tbx22
+#1163	AnnotatorNotes T1163	EG:50945
+T1164	NCBITaxon 34547 34552	human
+#1164	AnnotatorNotes T1164	NCBITaxon:9606 (Homo sapiens)
+T1165	GO_CC 34562 34563	X
+#1165	AnnotatorNotes T1165	GO:0000805 (X chromosome)
+T1166	italic 34650 34655	Tbx22
+#1166	AnnotatorNotes T1166	italic (null)
+T1167	PR 34650 34655	Tbx22
+#1167	AnnotatorNotes T1167	PR:000016150 (T-box transcription factor TBX22)
+T1168	GO_BP 34656 34666	expression
+#1168	AnnotatorNotes T1168	GO:0010467 (gene expression)
+T1169	italic 34851 34856	Tbx15
+#1169	AnnotatorNotes T1169	italic (null)
+T1170	PR 34851 34856	Tbx15
+#1170	AnnotatorNotes T1170	PR:000016145 (T-box transcription factor TBX15)
+T1171	GO_BP 34911 34921	expression
+#1171	AnnotatorNotes T1171	GO:0010467 (gene expression)
+T1172	SO 34926 34929	map
+#1172	AnnotatorNotes T1172	SO:0001248 (assembly)
+T1173	SO 34930 34938	location
+#1173	AnnotatorNotes T1173	SO:0000001 (region)
+T1174	EntrezGene 34942 34953	mouse Tbx15
+#1174	AnnotatorNotes T1174	EG:21384
+T1175	NCBITaxon 34942 34947	mouse
+#1175	AnnotatorNotes T1175	NCBITaxon:10088 (Mus)
+T1176	italic 34948 34953	Tbx15
+#1176	AnnotatorNotes T1176	italic (null)
+T1177	PR 34948 34953	Tbx15
+#1177	AnnotatorNotes T1177	PR:000016145 (T-box transcription factor TBX15)
+T1178	EntrezGene 34987 34998	human Tbx15
+#1178	AnnotatorNotes T1178	EG:6913
+T1179	NCBITaxon 34987 34992	human
+#1179	AnnotatorNotes T1179	NCBITaxon:9606 (Homo sapiens)
+T1180	italic 34993 34998	Tbx15
+#1180	AnnotatorNotes T1180	italic (null)
+T1181	PR 34993 34998	Tbx15
+#1181	AnnotatorNotes T1181	PR:000016145 (T-box transcription factor TBX15)
+T1182	GO_CC 35012 35022	Chromosome
+#1182	AnnotatorNotes T1182	GO:0005694 (chromosome)
+T1183	SO 35012 35022	Chromosome
+#1183	AnnotatorNotes T1183	SO:0000340 (chromosome)
+T1184	GO_CC 35144 35154	Chromosome
+#1184	AnnotatorNotes T1184	GO:0005694 (chromosome)
+T1185	SO 35144 35154	Chromosome
+#1185	AnnotatorNotes T1185	SO:0000340 (chromosome)
+T1186	GO_CC 35211 35220	autosomal
+#1186	AnnotatorNotes T1186	GO:0030849 (autosome)
+T1187	italic 35558 35561	deH
+#1187	AnnotatorNotes T1187	italic (null)
+T1188	sup 35560 35561	H
+#1188	AnnotatorNotes T1188	sup (null)
+T1189	SO 35665 35674	mutations
+#1189	AnnotatorNotes T1189	SO:0000041 (sequence_operation)
+T1190	SO 35665 35674	mutations
+#1190	AnnotatorNotes T1190	SO:0001059 (sequence_alteration)
+T1191	EntrezGene 35678 35689	human TBX15
+#1191	AnnotatorNotes T1191	EG:6913
+T1192	NCBITaxon 35678 35683	human
+#1192	AnnotatorNotes T1192	NCBITaxon:9606 (Homo sapiens)
+T1193	italic 35684 35689	TBX15
+#1193	AnnotatorNotes T1193	italic (null)
+T1194	PR 35684 35689	TBX15
+#1194	AnnotatorNotes T1194	PR:000016145 (T-box transcription factor TBX15)
+T1195	GO_CC 35738 35747	autosomal
+#1195	AnnotatorNotes T1195	GO:0030849 (autosome)
+T1196	italic 35929 35932	deH
+#1196	AnnotatorNotes T1196	italic (null)
+T1197	sup 35931 35932	H
+#1197	AnnotatorNotes T1197	sup (null)
+T1198	SO 35933 35941	mutation
+#1198	AnnotatorNotes T1198	SO:0001059 (sequence_alteration)
+T1199	GO_BP 35968 35988	skeletal development
+#1199	AnnotatorNotes T1199	GO:0001501 (skeletal development)
+T1200	italic 36031 36041	aristaless
+#1200	AnnotatorNotes T1200	italic (null)
+T1201	SO 36050 36054	gene
+#1201	AnnotatorNotes T1201	SO:0000704 (gene)
+T1202	italic 36055 36059	Alx3
+#1202	AnnotatorNotes T1202	italic (null)
+T1203	EntrezGene 36055 36059	Alx3
+#1203	AnnotatorNotes T1203	EG:11694
+T1204	PR 36055 36059	Alx3
+#1204	AnnotatorNotes T1204	PR:000003979 (homeobox protein aristaless-like 3)
+T1205	SO 36069 36076	allelic
+#1205	AnnotatorNotes T1205	SO:0001023 (allele)
+T1206	italic 36082 36092	droopy ear
+#1206	AnnotatorNotes T1206	italic (null)
+T1207	EntrezGene 36082 36092	droopy ear
+#1207	AnnotatorNotes T1207	EG:21384
+T1208	italic 36174 36177	deH
+#1208	AnnotatorNotes T1208	italic (null)
+T1209	sup 36176 36177	H
+#1209	AnnotatorNotes T1209	sup (null)
+T1210	italic 36182 36186	Alx3
+#1210	AnnotatorNotes T1210	italic (null)
+T1211	PR 36182 36186	Alx3
+#1211	AnnotatorNotes T1211	PR:000003979 (homeobox protein aristaless-like 3)
+T1212	EntrezGene 36182 36186	Alx3
+#1212	AnnotatorNotes T1212	EG:11694
+T1213	italic 36190 36194	Alx4
+#1213	AnnotatorNotes T1213	italic (null)
+T1214	PR 36190 36194	Alx4
+#1214	AnnotatorNotes T1214	PR:000003980 (homeobox protein aristaless-like 4)
+T1215	EntrezGene 36190 36194	Alx4
+#1215	AnnotatorNotes T1215	EG:11695
+T1216	SO 36195 36202	mutants
+#1216	AnnotatorNotes T1216	SO:0001059 (sequence_alteration)
+T1217	independent_continuant 36195 36202	mutants
+#1217	AnnotatorNotes T1217	independent_continuant
+T1218	italic 36267 36271	Alx3
+#1218	AnnotatorNotes T1218	italic (null)
+T1219	PR 36267 36271	Alx3
+#1219	AnnotatorNotes T1219	PR:000003979 (homeobox protein aristaless-like 3)
+T1220	EntrezGene 36267 36271	Alx3
+#1220	AnnotatorNotes T1220	EG:11694
+T1221	italic 36276 36279	deH
+#1221	AnnotatorNotes T1221	italic (null)
+T1222	sup 36278 36279	H
+#1222	AnnotatorNotes T1222	sup (null)
+T1223	italic 36311 36316	Tbx15
+#1223	AnnotatorNotes T1223	italic (null)
+T1224	PR 36311 36316	Tbx15
+#1224	AnnotatorNotes T1224	PR:000016145 (T-box transcription factor TBX15)
+T1225	EntrezGene 36311 36316	Tbx15
+#1225	AnnotatorNotes T1225	EG:21384
+T1226	GO_BP 36366 36389	Developmental Mechanism
+#1226	AnnotatorNotes T1226	GO:0032502 (developmental process)
+T1227	italic 36393 36398	Tbx15
+#1227	AnnotatorNotes T1227	italic (null)
+T1228	PR 36393 36398	Tbx15
+#1228	AnnotatorNotes T1228	PR:000016145 (T-box transcription factor TBX15)
+T1229	EntrezGene 36393 36398	Tbx15
+#1229	AnnotatorNotes T1229	EG:21384
+T1230	GO_BP 36399 36409	Expression
+#1230	AnnotatorNotes T1230	GO:0010467 (gene expression)
+T1231	italic 36463 36468	Tbx15
+#1231	AnnotatorNotes T1231	italic (null)
+T1232	EntrezGene 36463 36468	Tbx15
+#1232	AnnotatorNotes T1232	EG:21384
+T1233	PR 36463 36468	Tbx15
+#1233	AnnotatorNotes T1233	PR:000016145 (T-box transcription factor TBX15)
+T1234	CHEBI 36472 36479	pigment
+#1234	AnnotatorNotes T1234	CHEBI:26130 (pigment)
+T1235	GO_BP 36480 36490	patterning
+#1235	AnnotatorNotes T1235	GO:0007389 (pattern specification process)
+T1236	italic 36523 36529	Agouti
+#1236	AnnotatorNotes T1236	italic (null)
+T1237	PR 36523 36529	Agouti
+#1237	AnnotatorNotes T1237	PR:000004372 (agouti-signaling protein)
+T1238	EntrezGene 36523 36529	Agouti
+#1238	AnnotatorNotes T1238	EG:50518
+T1239	NCBITaxon 36543 36550	animals
+#1239	AnnotatorNotes T1239	NCBITaxon:33208 (Metazoa)
+T1240	italic 36561 36567	Agouti
+#1240	AnnotatorNotes T1240	italic (null)
+T1241	EntrezGene 36561 36567	Agouti
+#1241	AnnotatorNotes T1241	EG:50518
+T1242	PR 36561 36567	Agouti
+#1242	AnnotatorNotes T1242	PR:000004372 (agouti-signaling protein)
+T1243	GO_BP 36576 36585	expressed
+#1243	AnnotatorNotes T1243	GO:0010467 (gene expression)
+T1244	italic 36707 36713	Agouti
+#1244	AnnotatorNotes T1244	italic (null)
+T1245	EntrezGene 36707 36713	Agouti
+#1245	AnnotatorNotes T1245	EG:50518
+T1246	PR 36707 36713	Agouti
+#1246	AnnotatorNotes T1246	PR:000004372 (agouti-signaling protein)
+T1247	GO_BP 36714 36724	expression
+#1247	AnnotatorNotes T1247	GO:0010467 (gene expression)
+T1248	italic 36728 36731	deH
+#1248	AnnotatorNotes T1248	italic (null)
+T1249	sup 36730 36731	H
+#1249	AnnotatorNotes T1249	sup (null)
+T1250	italic 36732 36735	deH
+#1250	AnnotatorNotes T1250	italic (null)
+T1251	sup 36734 36735	H
+#1251	AnnotatorNotes T1251	sup (null)
+T1252	NCBITaxon 36736 36743	animals
+#1252	AnnotatorNotes T1252	NCBITaxon:33208 (Metazoa)
+T1253	italic 36783 36788	Tbx15
+#1253	AnnotatorNotes T1253	italic (null)
+T1254	PR 36783 36788	Tbx15
+#1254	AnnotatorNotes T1254	PR:000016145 (T-box transcription factor TBX15)
+T1255	EntrezGene 36783 36788	Tbx15
+#1255	AnnotatorNotes T1255	EG:21384
+T1256	GO_BP 36792 36815	dorsoventral patterning
+#1256	AnnotatorNotes T1256	GO:0009953 (dorsal/ventral pattern formation)
+T1257	SO 36865 36870	genes
+#1257	AnnotatorNotes T1257	SO:0000704 (gene)
+T1258	GO_BP 36877 36890	developmental
+#1258	AnnotatorNotes T1258	GO:0032502 (developmental process)
+T1259	GO_BP 36997 37004	specify
+#1259	AnnotatorNotes T1259	GO:0001708 (cell fate specification)
+T1260	CL 37066 37071	cells
+#1260	AnnotatorNotes T1260	CL:0000000 (cell)
+T1261	GO_CC 37066 37071	cells
+#1261	AnnotatorNotes T1261	GO:0005623 (cell)
+T1262	GO_BP 37118 37162	proliferative expansion of a cell population
+#1262	AnnotatorNotes T1262	"proliferative expansion of .. cell population" GO:0008283 (cell proliferation)
+T1263	CL 37147 37151	cell
+#1263	AnnotatorNotes T1263	CL:0000000 (cell)
+T1264	GO_CC 37147 37151	cell
+#1264	AnnotatorNotes T1264	GO:0005623 (cell)
+T1265	GO_BP 37185 37195	determined
+#1265	AnnotatorNotes T1265	GO:0001709 (cell fate determination)
+T1266	italic 37310 37313	deH
+#1266	AnnotatorNotes T1266	italic (null)
+T1267	sup 37312 37313	H
+#1267	AnnotatorNotes T1267	sup (null)
+T1268	italic 37314 37317	deH
+#1268	AnnotatorNotes T1268	italic (null)
+T1269	sup 37316 37317	H
+#1269	AnnotatorNotes T1269	sup (null)
+T1270	NCBITaxon 37318 37322	mice
+#1270	AnnotatorNotes T1270	NCBITaxon:10088 (Mus)
+T1271	italic 37366 37372	Agouti
+#1271	AnnotatorNotes T1271	italic (null)
+T1272	PR 37366 37372	Agouti
+#1272	AnnotatorNotes T1272	PR:000004372 (agouti-signaling protein)
+T1273	EntrezGene 37366 37372	Agouti
+#1273	AnnotatorNotes T1273	EG:50518
+T1274	GO_BP 37373 37383	expression
+#1274	AnnotatorNotes T1274	GO:0010467 (gene expression)
+T1275	italic 37397 37400	deH
+#1275	AnnotatorNotes T1275	italic (null)
+T1276	sup 37399 37400	H
+#1276	AnnotatorNotes T1276	sup (null)
+T1277	italic 37401 37404	deH
+#1277	AnnotatorNotes T1277	italic (null)
+T1278	sup 37403 37404	H
+#1278	AnnotatorNotes T1278	sup (null)
+T1279	NCBITaxon 37405 37412	animals
+#1279	AnnotatorNotes T1279	NCBITaxon:33208 (Metazoa)
+T1280	CL 37516 37521	cells
+#1280	AnnotatorNotes T1280	CL:0000000 (cell)
+T1281	GO_CC 37516 37521	cells
+#1281	AnnotatorNotes T1281	GO:0005623 (cell)
+T1282	GO_BP 37549 37556	acquire
+#1282	AnnotatorNotes T1282	GO:0032502 (developmental process)
+T1283	CL 37609 37614	cells
+#1283	AnnotatorNotes T1283	CL:0000000 (cell)
+T1284	GO_CC 37609 37614	cells
+#1284	AnnotatorNotes T1284	GO:0005623 (cell)
+T1285	GO_BP 37623 37634	proliferate
+#1285	AnnotatorNotes T1285	GO:0008283 (cell proliferation)
+T1286	GO_BP 37670 37696	expansion of ventral cells
+#1286	AnnotatorNotes T1286	"expansion of .. cells" GO:0008283 (cell proliferation)
+T1287	CL 37691 37696	cells
+#1287	AnnotatorNotes T1287	CL:0000000 (cell)
+T1288	GO_CC 37691 37696	cells
+#1288	AnnotatorNotes T1288	GO:0005623 (cell)
+T1289	CL 37698 37702	Cell
+#1289	AnnotatorNotes T1289	CL:0000000 (cell)
+T1290	GO_CC 37698 37702	Cell
+#1290	AnnotatorNotes T1290	GO:0005623 (cell)
+T1291	italic 37863 37866	deH
+#1291	AnnotatorNotes T1291	italic (null)
+T1292	sup 37865 37866	H
+#1292	AnnotatorNotes T1292	sup (null)
+T1293	italic 37867 37870	deH
+#1293	AnnotatorNotes T1293	italic (null)
+T1294	sup 37869 37870	H
+#1294	AnnotatorNotes T1294	sup (null)
+T1295	NCBITaxon 37871 37875	mice
+#1295	AnnotatorNotes T1295	NCBITaxon:10088 (Mus)
+T1296	GO_BP 38047 38057	expression
+#1296	AnnotatorNotes T1296	GO:0010467 (gene expression)
+T1297	italic 38061 38066	Tbx15
+#1297	AnnotatorNotes T1297	italic (null)
+T1298	PR 38061 38066	Tbx15
+#1298	AnnotatorNotes T1298	PR:000016145 (T-box transcription factor TBX15)
+T1299	EntrezGene 38061 38066	Tbx15
+#1299	AnnotatorNotes T1299	EG:21384
+T1300	italic 38071 38077	Agouti
+#1300	AnnotatorNotes T1300	italic (null)
+T1301	EntrezGene 38071 38077	Agouti
+#1301	AnnotatorNotes T1301	EG:50518
+T1302	PR 38071 38077	Agouti
+#1302	AnnotatorNotes T1302	PR:000004372 (agouti-signaling protein)
+T1303	italic 38121 38126	Tbx15
+#1303	AnnotatorNotes T1303	italic (null)
+T1304	PR 38121 38126	Tbx15
+#1304	AnnotatorNotes T1304	PR:000016145 (T-box transcription factor TBX15)
+T1305	EntrezGene 38121 38126	Tbx15
+#1305	AnnotatorNotes T1305	EG:21384
+T1306	italic 38152 38158	Agouti
+#1306	AnnotatorNotes T1306	italic (null)
+T1307	EntrezGene 38152 38158	Agouti
+#1307	AnnotatorNotes T1307	EG:50518
+T1308	PR 38152 38158	Agouti
+#1308	AnnotatorNotes T1308	PR:000004372 (agouti-signaling protein)
+T1309	GO_BP 38159 38172	transcription
+#1309	AnnotatorNotes T1309	GO:0006350 (transcription)
+T1310	italic 38225 38230	Tbx15
+#1310	AnnotatorNotes T1310	italic (null)
+T1311	PR 38225 38230	Tbx15
+#1311	AnnotatorNotes T1311	PR:000016145 (T-box transcription factor TBX15)
+T1312	EntrezGene 38225 38230	Tbx15
+#1312	AnnotatorNotes T1312	EG:21384
+T1313	GO_BP 38234 38242	suppress
+#1313	AnnotatorNotes T1313	GO:0048519 (negative regulation of biological process)
+T1314	GO_BP 38243 38253	expression
+#1314	AnnotatorNotes T1314	GO:0010467 (gene expression)
+T1315	italic 38278 38284	Agouti
+#1315	AnnotatorNotes T1315	italic (null)
+T1316	PR 38278 38284	Agouti
+#1316	AnnotatorNotes T1316	PR:000004372 (agouti-signaling protein)
+T1317	EntrezGene 38278 38284	Agouti
+#1317	AnnotatorNotes T1317	EG:50518
+T1318	SO 38285 38292	isoform
+#1318	AnnotatorNotes T1318	SO:0001060 (sequence_variant)
+T1319	NCBITaxon 38306 38310	mice
+#1319	AnnotatorNotes T1319	NCBITaxon:10088 (Mus)
+T1320	GO_BP 38353 38363	expression
+#1320	AnnotatorNotes T1320	GO:0010467 (gene expression)
+T1321	italic 38367 38372	Tbx15
+#1321	AnnotatorNotes T1321	italic (null)
+T1322	EntrezGene 38367 38372	Tbx15
+#1322	AnnotatorNotes T1322	EG:21384
+T1323	PR 38367 38372	Tbx15
+#1323	AnnotatorNotes T1323	PR:000016145 (T-box transcription factor TBX15)
+T1324	italic 38454 38460	Agouti
+#1324	AnnotatorNotes T1324	italic (null)
+T1325	EntrezGene 38454 38460	Agouti
+#1325	AnnotatorNotes T1325	EG:50518
+T1326	PR 38454 38460	Agouti
+#1326	AnnotatorNotes T1326	PR:000004372 (agouti-signaling protein)
+T1327	italic 38493 38498	Tbx15
+#1327	AnnotatorNotes T1327	italic (null)
+T1328	EntrezGene 38493 38498	Tbx15
+#1328	AnnotatorNotes T1328	EG:21384
+T1329	PR 38493 38498	Tbx15
+#1329	AnnotatorNotes T1329	PR:000016145 (T-box transcription factor TBX15)
+T1330	SO 38526 38531	genes
+#1330	AnnotatorNotes T1330	SO:0000704 (gene)
+T1331	italic 38547 38553	Agouti
+#1331	AnnotatorNotes T1331	italic (null)
+T1332	EntrezGene 38547 38553	Agouti
+#1332	AnnotatorNotes T1332	EG:50518
+T1333	PR 38547 38553	Agouti
+#1333	AnnotatorNotes T1333	PR:000004372 (agouti-signaling protein)
+T1334	CL 38577 38587	melanocyte
+#1334	AnnotatorNotes T1334	CL:0000148 (melanocyte)
+T1335	GO_BP 38588 38600	distribution
+#1335	AnnotatorNotes T1335	GO:0051179 (localization)
+T1336	NCBITaxon 38654 38661	animals
+#1336	AnnotatorNotes T1336	NCBITaxon:33208 (Metazoa)
+T1337	italic 38680 38686	Agouti
+#1337	AnnotatorNotes T1337	italic (null)
+T1338	PR 38680 38686	Agouti
+#1338	AnnotatorNotes T1338	PR:000004372 (agouti-signaling protein)
+T1339	EntrezGene 38680 38686	Agouti
+#1339	AnnotatorNotes T1339	EG:50518
+T1340	SO 38687 38693	allele
+#1340	AnnotatorNotes T1340	SO:0001023 (allele)
+T1341	italic 38719 38723	Alx4
+#1341	AnnotatorNotes T1341	italic (null)
+T1342	EntrezGene 38719 38723	Alx4
+#1342	AnnotatorNotes T1342	EG:11695
+T1343	PR 38719 38723	Alx4
+#1343	AnnotatorNotes T1343	PR:000003980 (homeobox protein aristaless-like 4)
+T1344	italic 38737 38743	Agouti
+#1344	AnnotatorNotes T1344	italic (null)
+T1345	PR 38737 38743	Agouti
+#1345	AnnotatorNotes T1345	PR:000004372 (agouti-signaling protein)
+T1346	EntrezGene 38737 38743	Agouti
+#1346	AnnotatorNotes T1346	EG:50518
+T1347	GO_BP 38748 38757	expressed
+#1347	AnnotatorNotes T1347	GO:0010467 (gene expression)
+T1348	SO 38801 38808	mutated
+#1348	AnnotatorNotes T1348	SO:0000041 (sequence_operation)
+T1349	GO_BP 38843 38876	limb and craniofacial development
+#1349	AnnotatorNotes T1349	"limb .. development" GO:0060173 (limb development)
+T1350	GO_BP 38971 38981	expression
+#1350	AnnotatorNotes T1350	GO:0010467 (gene expression)
+T1351	italic 39009 39013	Alx4
+#1351	AnnotatorNotes T1351	italic (null)
+T1352	PR 39009 39013	Alx4
+#1352	AnnotatorNotes T1352	PR:000003980 (homeobox protein aristaless-like 4)
+T1353	EntrezGene 39009 39013	Alx4
+#1353	AnnotatorNotes T1353	EG:11695
+T1354	italic 39026 39030	Alx3
+#1354	AnnotatorNotes T1354	italic (null)
+T1355	PR 39026 39030	Alx3
+#1355	AnnotatorNotes T1355	PR:000003979 (homeobox protein aristaless-like 3)
+T1356	EntrezGene 39026 39030	Alx3
+#1356	AnnotatorNotes T1356	EG:11694
+T1357	italic 39035 39039	Msx2
+#1357	AnnotatorNotes T1357	italic (null)
+T1358	EntrezGene 39035 39039	Msx2
+#1358	AnnotatorNotes T1358	EG:17702
+T1359	PR 39035 39039	Msx2
+#1359	AnnotatorNotes T1359	PR:000010687 (homeobox protein MSX-2)
+T1360	italic 39078 39081	deH
+#1360	AnnotatorNotes T1360	italic (null)
+T1361	sup 39080 39081	H
+#1361	AnnotatorNotes T1361	sup (null)
+T1362	italic 39082 39085	deH
+#1362	AnnotatorNotes T1362	italic (null)
+T1363	sup 39084 39085	H
+#1363	AnnotatorNotes T1363	sup (null)
+T1364	GO_BP 39145 39173	Dorsoventral Limb Patterning
+#1364	AnnotatorNotes T1364	"Dorsoventral .. Patterning" GO:0009953 (dorsal/ventral pattern formation)
+T1365	italic 39183 39188	Tbx15
+#1365	AnnotatorNotes T1365	italic (null)
+T1366	EntrezGene 39183 39188	Tbx15
+#1366	AnnotatorNotes T1366	EG:21384
+T1367	PR 39183 39188	Tbx15
+#1367	AnnotatorNotes T1367	PR:000016145 (T-box transcription factor TBX15)
+T1368	GO_BP 39283 39290	produce
+#1368	AnnotatorNotes T1368	GO:0032502 (developmental process)
+T1369	CHEBI 39374 39381	pigment
+#1369	AnnotatorNotes T1369	CHEBI:26130 (pigment)
+T1370	GO_BP 39387 39396	synthesis
+#1370	AnnotatorNotes T1370	GO:0009058 (biosynthetic process)
+T1371	italic 39433 39436	deH
+#1371	AnnotatorNotes T1371	italic (null)
+T1372	sup 39435 39436	H
+#1372	AnnotatorNotes T1372	sup (null)
+T1373	italic 39437 39440	deH
+#1373	AnnotatorNotes T1373	italic (null)
+T1374	sup 39439 39440	H
+#1374	AnnotatorNotes T1374	sup (null)
+T1375	NCBITaxon 39441 39445	mice
+#1375	AnnotatorNotes T1375	NCBITaxon:10088 (Mus)
+T1376	GO_BP 39468 39481	developmental
+#1376	AnnotatorNotes T1376	GO:0032502 (developmental process)
+T1377	italic 39532 39535	En1
+#1377	AnnotatorNotes T1377	italic (null)
+T1378	PR 39532 39535	En1
+#1378	AnnotatorNotes T1378	PR:000007070 (homeobox protein engrailed-1)
+T1379	italic 39539 39544	Wnt7a
+#1379	AnnotatorNotes T1379	italic (null)
+T1380	PR 39539 39544	Wnt7a
+#1380	AnnotatorNotes T1380	PR:000017448 (protein Wnt-7a)
+T1381	italic 39745 39751	Agouti
+#1381	AnnotatorNotes T1381	italic (null)
+T1382	PR 39745 39751	Agouti
+#1382	AnnotatorNotes T1382	PR:000004372 (agouti-signaling protein)
+T1383	GO_BP 39752 39762	expression
+#1383	AnnotatorNotes T1383	GO:0010467 (gene expression)
+T1384	GO_BP 39839 39851	pigmentation
+#1384	AnnotatorNotes T1384	GO:0043473 (pigmentation)
+T1385	GO_BP 39881 39889	develops
+#1385	AnnotatorNotes T1385	GO:0032502 (developmental process)
+T1386	italic 39893 39896	En1
+#1386	AnnotatorNotes T1386	italic (null)
+T1387	EntrezGene 39893 39896	En1
+#1387	AnnotatorNotes T1387	EG:13798
+T1388	PR 39893 39896	En1
+#1388	AnnotatorNotes T1388	PR:000007070 (homeobox protein engrailed-1)
+T1389	SO 39897 39903	mutant
+#1389	AnnotatorNotes T1389	SO:0001059 (sequence_alteration)
+T1390	NCBITaxon 39904 39908	mice
+#1390	AnnotatorNotes T1390	NCBITaxon:10088 (Mus)
+T1391	CHEBI 39925 39932	pigment
+#1391	AnnotatorNotes T1391	CHEBI:26130 (pigment)
+T1392	GO_BP 39938 39947	synthesis
+#1392	AnnotatorNotes T1392	GO:0009058 (biosynthetic process)
+T1393	italic 39994 39997	En1
+#1393	AnnotatorNotes T1393	italic (null)
+T1394	EntrezGene 39994 39997	En1
+#1394	AnnotatorNotes T1394	EG:13798
+T1395	PR 39994 39997	En1
+#1395	AnnotatorNotes T1395	PR:000007070 (homeobox protein engrailed-1)
+T1396	italic 40014 40019	Wnt7a
+#1396	AnnotatorNotes T1396	italic (null)
+T1397	EntrezGene 40014 40019	Wnt7a
+#1397	AnnotatorNotes T1397	EG:22421
+T1398	PR 40014 40019	Wnt7a
+#1398	AnnotatorNotes T1398	PR:000017448 (protein Wnt-7a)
+T1399	GO_BP 40024 40031	repress
+#1399	AnnotatorNotes T1399	GO:0048519 (negative regulation of biological process)
+T1400	GO_BP 40032 40085	migration or proliferation (or both) of pigment cells
+#1400	AnnotatorNotes T1400	"migration .. of .. cells" GO:0016477 (cell migration)
+T1401	GO_BP 40045 40085	proliferation (or both) of pigment cells
+#1401	AnnotatorNotes T1401	"proliferation .. of .. cells" GO:0008283 (cell proliferation)
+T1402	CL 40072 40085	pigment cells
+#1402	AnnotatorNotes T1402	CL:0000147 (pigment cell)
+T1403	CHEBI 40072 40079	pigment
+#1403	AnnotatorNotes T1403	CHEBI:26130 (pigment)
+T1404	GO_CC 40080 40085	cells
+#1404	AnnotatorNotes T1404	GO:0005623 (cell)
+T1405	GO_BP 40188 40195	control
+#1405	AnnotatorNotes T1405	GO:0065007 (biological regulation)
+T1406	italic 40229 40234	Tbx15
+#1406	AnnotatorNotes T1406	italic (null)
+T1407	PR 40229 40234	Tbx15
+#1407	AnnotatorNotes T1407	PR:000016145 (T-box transcription factor TBX15)
+T1408	EntrezGene 40229 40234	Tbx15
+#1408	AnnotatorNotes T1408	EG:21384
+T1409	GO_BP 40264 40271	control
+#1409	AnnotatorNotes T1409	GO:0065007 (biological regulation)
+T1410	GO_BP 40275 40303	dorsoventral limb patterning
+#1410	AnnotatorNotes T1410	"dorsoventral .. patterning" GO:0009953 (dorsal/ventral pattern formation)
+T1411	italic 40307 40312	Lmx1b
+#1411	AnnotatorNotes T1411	italic (null)
+T1412	PR 40307 40312	Lmx1b
+#1412	AnnotatorNotes T1412	PR:000009871 (LIM homeobox transcription factor 1-beta)
+T1413	SO 40320 40326	domain
+#1413	AnnotatorNotes T1413	SO:0000417 (polypeptide_domain)
+T1414	GO_MF 40327 40347	transcription factor
+#1414	AnnotatorNotes T1414	GO:0003700 (transcription factor activity)
+T1415	independent_continuant 40327 40347	transcription factor
+#1415	AnnotatorNotes T1415	independent_continuant
+T1416	GO_BP 40327 40340	transcription
+#1416	AnnotatorNotes T1416	GO:0006350 (transcription)
+T1417	italic 40372 40377	Wnt7a
+#1417	AnnotatorNotes T1417	italic (null)
+T1418	PR 40372 40377	Wnt7a
+#1418	AnnotatorNotes T1418	PR:000017448 (protein Wnt-7a)
+T1419	italic 40382 40385	En1
+#1419	AnnotatorNotes T1419	italic (null)
+T1420	PR 40382 40385	En1
+#1420	AnnotatorNotes T1420	PR:000007070 (homeobox protein engrailed-1)
+T1421	italic 40513 40518	Tbx15
+#1421	AnnotatorNotes T1421	italic (null)
+T1422	EntrezGene 40513 40518	Tbx15
+#1422	AnnotatorNotes T1422	EG:21384
+T1423	PR 40513 40518	Tbx15
+#1423	AnnotatorNotes T1423	PR:000016145 (T-box transcription factor TBX15)
+T1424	italic 40523 40528	Lmx1b
+#1424	AnnotatorNotes T1424	italic (null)
+T1425	PR 40523 40528	Lmx1b
+#1425	AnnotatorNotes T1425	PR:000009871 (LIM homeobox transcription factor 1-beta)
+T1426	CL 40549 40566	mesenchymal cells
+#1426	AnnotatorNotes T1426	CL:0000134 (mesenchymal cell)
+T1427	GO_CC 40561 40566	cells
+#1427	AnnotatorNotes T1427	GO:0005623 (cell)
+T1428	GO_BP 40570 40577	promote
+#1428	AnnotatorNotes T1428	GO:0048518 (positive regulation of biological process)
+T1429	GO_BP 40606 40616	expression
+#1429	AnnotatorNotes T1429	GO:0010467 (gene expression)
+T1430	CL 40651 40655	cell
+#1430	AnnotatorNotes T1430	CL:0000000 (cell)
+T1431	GO_CC 40651 40655	cell
+#1431	AnnotatorNotes T1431	GO:0005623 (cell)
+T1432	italic 40691 40696	Tbx15
+#1432	AnnotatorNotes T1432	italic (null)
+T1433	PR 40691 40696	Tbx15
+#1433	AnnotatorNotes T1433	PR:000016145 (T-box transcription factor TBX15)
+T1434	EntrezGene 40691 40696	Tbx15
+#1434	AnnotatorNotes T1434	EG:21384
+T1435	italic 40711 40716	Lmx1b
+#1435	AnnotatorNotes T1435	italic (null)
+T1436	PR 40711 40716	Lmx1b
+#1436	AnnotatorNotes T1436	PR:000009871 (LIM homeobox transcription factor 1-beta)
+T1437	italic 40777 40782	Lmx1b
+#1437	AnnotatorNotes T1437	italic (null)
+T1438	PR 40777 40782	Lmx1b
+#1438	AnnotatorNotes T1438	PR:000009871 (LIM homeobox transcription factor 1-beta)
+T1439	GO_BP 40788 40798	expression
+#1439	AnnotatorNotes T1439	GO:0010467 (gene expression)
+T1440	italic 40829 40834	Wnt7a
+#1440	AnnotatorNotes T1440	italic (null)
+T1441	PR 40829 40834	Wnt7a
+#1441	AnnotatorNotes T1441	PR:000017448 (protein Wnt-7a)
+T1442	GO_BP 40835 40843	produced
+#1442	AnnotatorNotes T1442	GO:0009058 (biosynthetic process)
+T1443	italic 40938 40943	Wnt7a
+#1443	AnnotatorNotes T1443	italic (null)
+T1444	PR 40938 40943	Wnt7a
+#1444	AnnotatorNotes T1444	PR:000017448 (protein Wnt-7a)
+T1445	italic 40990 40993	En1
+#1445	AnnotatorNotes T1445	italic (null)
+T1446	PR 40990 40993	En1
+#1446	AnnotatorNotes T1446	PR:000007070 (homeobox protein engrailed-1)
+T1447	GO_BP 41084 41094	expression
+#1447	AnnotatorNotes T1447	GO:0010467 (gene expression)
+T1448	italic 41276 41279	En1
+#1448	AnnotatorNotes T1448	italic (null)
+T1449	PR 41276 41279	En1
+#1449	AnnotatorNotes T1449	PR:000007070 (homeobox protein engrailed-1)
+T1450	italic 41283 41288	Wnt7a
+#1450	AnnotatorNotes T1450	italic (null)
+T1451	PR 41283 41288	Wnt7a
+#1451	AnnotatorNotes T1451	PR:000017448 (protein Wnt-7a)
+T1452	SO 41289 41298	mutations
+#1452	AnnotatorNotes T1452	SO:0001059 (sequence_alteration)
+T1453	GO_BP 41514 41521	control
+#1453	AnnotatorNotes T1453	GO:0065007 (biological regulation)
+T1454	GO_BP 41559 41569	developing
+#1454	AnnotatorNotes T1454	GO:0032502 (developmental process)
+T1455	GO_BP 41644 41651	develop
+#1455	AnnotatorNotes T1455	GO:0032502 (developmental process)
+T1456	italic 41820 41823	deH
+#1456	AnnotatorNotes T1456	italic (null)
+T1457	sup 41822 41823	H
+#1457	AnnotatorNotes T1457	sup (null)
+T1458	italic 41824 41827	deH
+#1458	AnnotatorNotes T1458	italic (null)
+T1459	sup 41826 41827	H
+#1459	AnnotatorNotes T1459	sup (null)
+T1460	NCBITaxon 41828 41835	animals
+#1460	AnnotatorNotes T1460	NCBITaxon:33208 (Metazoa)
+T1461	GO_BP 41892 41899	control
+#1461	AnnotatorNotes T1461	GO:0065007 (biological regulation)
+T1462	GO_BP 41900 41923	dorsoventral patterning
+#1462	AnnotatorNotes T1462	GO:0009953 (dorsal/ventral pattern formation)
+T1463	GO_BP 42111 42119	promotes
+#1463	AnnotatorNotes T1463	GO:0048518 (positive regulation of biological process)
+T1464	GO_BP 42120 42130	expression
+#1464	AnnotatorNotes T1464	GO:0010467 (gene expression)
+T1465	italic 42134 42139	Tbx15
+#1465	AnnotatorNotes T1465	italic (null)
+T1466	EntrezGene 42134 42139	Tbx15
+#1466	AnnotatorNotes T1466	EG:21384
+T1467	PR 42134 42139	Tbx15
+#1467	AnnotatorNotes T1467	PR:000016145 (T-box transcription factor TBX15)
+T1468	GO_BP 42179 42190	establishes
+#1468	AnnotatorNotes T1468	GO:0032502 (developmental process)
+T1469	CL 42227 42232	cells
+#1469	AnnotatorNotes T1469	CL:0000000 (cell)
+T1470	GO_CC 42227 42232	cells
+#1470	AnnotatorNotes T1470	GO:0005623 (cell)
+T1471	italic 42265 42271	Agouti
+#1471	AnnotatorNotes T1471	italic (null)
+T1472	PR 42265 42271	Agouti
+#1472	AnnotatorNotes T1472	PR:000004372 (agouti-signaling protein)
+T1473	EntrezGene 42265 42271	Agouti
+#1473	AnnotatorNotes T1473	EG:50518
+T1474	GO_BP 42272 42282	expression
+#1474	AnnotatorNotes T1474	GO:0010467 (gene expression)
+T1475	CL 42284 42296	pigment-cell
+#1475	AnnotatorNotes T1475	CL:0000147 (pigment cell)
+T1476	CHEBI 42284 42291	pigment
+#1476	AnnotatorNotes T1476	CHEBI:26130 (pigment)
+T1477	GO_BP 42292 42308	cell development
+#1477	AnnotatorNotes T1477	GO:0048468 (cell development)
+T1478	GO_CC 42292 42296	cell
+#1478	AnnotatorNotes T1478	GO:0005623 (cell)
+T1479	GO_BP 42314 42325	hair growth
+#1479	AnnotatorNotes T1479	GO:0042640 (anagen)
+T1480	italic 42356 42361	Tbx15
+#1480	AnnotatorNotes T1480	italic (null)
+T1481	PR 42356 42361	Tbx15
+#1481	AnnotatorNotes T1481	PR:000016145 (T-box transcription factor TBX15)
+T1482	EntrezGene 42356 42361	Tbx15
+#1482	AnnotatorNotes T1482	EG:21384
+T1483	GO_BP 42362 42372	expression
+#1483	AnnotatorNotes T1483	GO:0010467 (gene expression)
+T1484	italic 42408 42411	En1
+#1484	AnnotatorNotes T1484	italic (null)
+T1485	EntrezGene 42408 42411	En1
+#1485	AnnotatorNotes T1485	EG:13798
+T1486	PR 42408 42411	En1
+#1486	AnnotatorNotes T1486	PR:000007070 (homeobox protein engrailed-1)
+T1487	GO_BP 42412 42422	expression
+#1487	AnnotatorNotes T1487	GO:0010467 (gene expression)
+T1488	GO_BP 42462 42474	pigmentation
+#1488	AnnotatorNotes T1488	GO:0043473 (pigmentation)
+T1489	GO_BP 43133 43143	expression
+#1489	AnnotatorNotes T1489	GO:0010467 (gene expression)
+T1490	italic 43147 43152	Tbx15
+#1490	AnnotatorNotes T1490	italic (null)
+T1491	EntrezGene 43147 43152	Tbx15
+#1491	AnnotatorNotes T1491	EG:21384
+T1492	PR 43147 43152	Tbx15
+#1492	AnnotatorNotes T1492	PR:000016145 (T-box transcription factor TBX15)
+T1493	GO_BP 43187 43194	induced
+#1493	AnnotatorNotes T1493	GO:0031128 (induction)
+T1494	GO_BP 43247 43254	develop
+#1494	AnnotatorNotes T1494	GO:0032502 (developmental process)
+T1495	GO_BP 43332 43344	pigmentation
+#1495	AnnotatorNotes T1495	GO:0043473 (pigmentation)
+T1496	GO_BP 43476 43486	expression
+#1496	AnnotatorNotes T1496	GO:0010467 (gene expression)
+T1497	italic 43490 43495	Tbx15
+#1497	AnnotatorNotes T1497	italic (null)
+T1498	PR 43490 43495	Tbx15
+#1498	AnnotatorNotes T1498	PR:000016145 (T-box transcription factor TBX15)
+T1499	EntrezGene 43490 43495	Tbx15
+#1499	AnnotatorNotes T1499	EG:21384
+T1500	GO_BP 43551 43563	pigmentation
+#1500	AnnotatorNotes T1500	GO:0043473 (pigmentation)
+T1501	italic 43637 43642	Tbx15
+#1501	AnnotatorNotes T1501	italic (null)
+T1502	PR 43637 43642	Tbx15
+#1502	AnnotatorNotes T1502	PR:000016145 (T-box transcription factor TBX15)
+T1503	EntrezGene 43637 43642	Tbx15
+#1503	AnnotatorNotes T1503	EG:21384
+T1504	GO_BP 43643 43653	expression
+#1504	AnnotatorNotes T1504	GO:0010467 (gene expression)
+T1505	italic 43753 43758	Tbx15
+#1505	AnnotatorNotes T1505	italic (null)
+T1506	EntrezGene 43753 43758	Tbx15
+#1506	AnnotatorNotes T1506	EG:21384
+T1507	PR 43753 43758	Tbx15
+#1507	AnnotatorNotes T1507	PR:000016145 (T-box transcription factor TBX15)
+T1508	GO_BP 43775 43785	patterning
+#1508	AnnotatorNotes T1508	GO:0007389 (pattern specification process)
+T1509	GO_BP 43813 43824	development
+#1509	AnnotatorNotes T1509	GO:0032502 (developmental process)
+T1510	GO_BP 43841 43873	establishment of dorsal identity
+#1510	AnnotatorNotes T1510	GO:0048263 (determination of dorsal identity)
+T1511	italic 43877 43882	Tbx15
+#1511	AnnotatorNotes T1511	italic (null)
+T1512	PR 43877 43882	Tbx15
+#1512	AnnotatorNotes T1512	PR:000016145 (T-box transcription factor TBX15)
+T1513	EntrezGene 43877 43882	Tbx15
+#1513	AnnotatorNotes T1513	EG:21384
+T1514	GO_BP 43998 44010	Pigmentation
+#1514	AnnotatorNotes T1514	GO:0043473 (pigmentation)
+T1515	italic 44024 44029	Tbx15
+#1515	AnnotatorNotes T1515	italic (null)
+T1516	PR 44024 44029	Tbx15
+#1516	AnnotatorNotes T1516	PR:000016145 (T-box transcription factor TBX15)
+T1517	NCBITaxon 44039 44046	Mammals
+#1517	AnnotatorNotes T1517	NCBITaxon:40674 (Mammalia)
+T1518	GO_BP 44175 44186	established
+#1518	AnnotatorNotes T1518	GO:0032502 (developmental process)
+T1519	GO_BP 44194 44207	somitogenesis
+#1519	AnnotatorNotes T1519	GO:0001756 (somitogenesis)
+T1520	GO_BP 44217 44228	development
+#1520	AnnotatorNotes T1520	GO:0032502 (developmental process)
+T1521	NCBITaxon 44349 44356	animals
+#1521	AnnotatorNotes T1521	NCBITaxon:33208 (Metazoa)
+T1522	CL 44393 44397	cell
+#1522	AnnotatorNotes T1522	CL:0000000 (cell)
+T1523	GO_CC 44393 44397	cell
+#1523	AnnotatorNotes T1523	GO:0005623 (cell)
+T1524	GO_BP 44540 44552	pigmentation
+#1524	AnnotatorNotes T1524	GO:0043473 (pigmentation)
+T1525	italic 44727 44731	Msx1
+#1525	AnnotatorNotes T1525	italic (null)
+T1526	PR 44727 44731	Msx1
+#1526	AnnotatorNotes T1526	PR:000010686 (homeobox protein MSX-1)
+T1527	GO_BP 44739 44749	expression
+#1527	AnnotatorNotes T1527	GO:0010467 (gene expression)
+T1528	CL 44785 44802	mesenchymal cells
+#1528	AnnotatorNotes T1528	CL:0000134 (mesenchymal cell)
+T1529	GO_CC 44797 44802	cells
+#1529	AnnotatorNotes T1529	GO:0005623 (cell)
+T1530	NCBITaxon 44969 44978	mammalian
+#1530	AnnotatorNotes T1530	NCBITaxon:40674 (Mammalia)
+T1531	CHEBI 45050 45057	pigment
+#1531	AnnotatorNotes T1531	CHEBI:26130 (pigment)
+T1532	GO_BP 45063 45072	synthesis
+#1532	AnnotatorNotes T1532	GO:0009058 (biosynthetic process)
+T1533	CL 45089 45093	cell
+#1533	AnnotatorNotes T1533	CL:0000000 (cell)
+T1534	GO_CC 45089 45093	cell
+#1534	AnnotatorNotes T1534	GO:0005623 (cell)
+T1535	GO_BP 45122 45132	expression
+#1535	AnnotatorNotes T1535	GO:0010467 (gene expression)
+T1536	italic 45136 45140	Msx1
+#1536	AnnotatorNotes T1536	italic (null)
+T1537	PR 45136 45140	Msx1
+#1537	AnnotatorNotes T1537	PR:000010686 (homeobox protein MSX-1)
+T1538	NCBITaxon 45146 45153	rodents
+#1538	AnnotatorNotes T1538	NCBITaxon:9989 (Rodentia)
+T1539	GO_BP 45164 45176	pigmentation
+#1539	AnnotatorNotes T1539	GO:0043473 (pigmentation)
+T1540	NCBITaxon 45218 45225	mammals
+#1540	AnnotatorNotes T1540	NCBITaxon:40674 (Mammalia)
+T1541	NCBITaxon 45331 45339	Raccoons
+#1541	AnnotatorNotes T1541	NCBITaxon:9654 (Procyon lotor)
+T1542	NCBITaxon 45352 45358	skunks
+#1542	AnnotatorNotes T1542	NCBITaxon:119825 (Mephitidae)
+T1543	GO_BP 45419 45432	developmental
+#1543	AnnotatorNotes T1543	GO:0032502 (developmental process)
+T1544	italic 45536 45540	Msx1
+#1544	AnnotatorNotes T1544	italic (null)
+T1545	PR 45536 45540	Msx1
+#1545	AnnotatorNotes T1545	PR:000010686 (homeobox protein MSX-1)
+T1546	italic 45610 45615	Tbx15
+#1546	AnnotatorNotes T1546	italic (null)
+T1547	EntrezGene 45610 45615	Tbx15
+#1547	AnnotatorNotes T1547	EG:21384
+T1548	PR 45610 45615	Tbx15
+#1548	AnnotatorNotes T1548	PR:000016145 (T-box transcription factor TBX15)
+T1549	GO_BP 45619 45631	pigmentation
+#1549	AnnotatorNotes T1549	GO:0043473 (pigmentation)
+T1550	NCBITaxon 45646 45650	mice
+#1550	AnnotatorNotes T1550	NCBITaxon:10088 (Mus)
+T1551	NCBITaxon 45739 45746	mammals
+#1551	AnnotatorNotes T1551	NCBITaxon:40674 (Mammalia)
+T1552	NCBITaxon 45783 45786	dog
+#1552	AnnotatorNotes T1552	NCBITaxon:9615 (Canis familiaris)
+T1553	NCBITaxon 45851 45872	Peromyscus polionotus
+#1553	AnnotatorNotes T1553	NCBITaxon:42413 (Peromyscus polionotus)
+T1554	taxonomic_rank 45851 45872	Peromyscus polionotus
+#1554	AnnotatorNotes T1554	taxonomic_rank (null)
+T1555	sub 45962 45972	subspecies
+#1555	AnnotatorNotes T1555	subspecies (null)
+T1556	NCBITaxon 46081 46090	deer mice
+#1556	AnnotatorNotes T1556	NCBITaxon:10042 (Peromyscus maniculatus)
+T1557	italic 46140 46143	deH
+#1557	AnnotatorNotes T1557	italic (null)
+T1558	sup 46142 46143	H
+#1558	AnnotatorNotes T1558	sup (null)
+T1559	SO 46144 46152	mutation
+#1559	AnnotatorNotes T1559	SO:0001059 (sequence_alteration)
+T1560	GO_BP 46162 46174	pigmentation
+#1560	AnnotatorNotes T1560	GO:0043473 (pigmentation)
+T1561	NCBITaxon 46193 46200	animals
+#1561	AnnotatorNotes T1561	NCBITaxon:33208 (Metazoa)
+T1562	GO_BP 46236 46246	regulation
+#1562	AnnotatorNotes T1562	GO:0065007 (biological regulation)
+T1563	italic 46260 46265	Tbx15
+#1563	AnnotatorNotes T1563	italic (null)
+T1564	PR 46260 46265	Tbx15
+#1564	AnnotatorNotes T1564	PR:000016145 (T-box transcription factor TBX15)
+T1565	italic 46322 46327	Tbx15
+#1565	AnnotatorNotes T1565	italic (null)
+T1566	PR 46322 46327	Tbx15
+#1566	AnnotatorNotes T1566	PR:000016145 (T-box transcription factor TBX15)
+T1567	SO 46371 46378	genetic
+#1567	AnnotatorNotes T1567	SO:0000704 (gene)
+T1568	NCBITaxon 46424 46431	mammals
+#1568	AnnotatorNotes T1568	NCBITaxon:40674 (Mammalia)
+T1569	GO_BP 46455 46467	pigmentation
+#1569	AnnotatorNotes T1569	GO:0043473 (pigmentation)
+T1570	SO 46491 46499	sequence
+#1570	AnnotatorNotes T1570	SO:0000001 (region)
+T1571	GO_BP 46504 46514	expression
+#1571	AnnotatorNotes T1571	GO:0010467 (gene expression)
+T1572	italic 46518 46523	Tbx15
+#1572	AnnotatorNotes T1572	italic (null)
+T1573	PR 46518 46523	Tbx15
+#1573	AnnotatorNotes T1573	PR:000016145 (T-box transcription factor TBX15)
+T1574	NCBITaxon 46533 46544	vertebrates
+#1574	AnnotatorNotes T1574	NCBITaxon:7742 (Vertebrata)
+T1575	CHEBI 46630 46640	pigmentary
+#1575	AnnotatorNotes T1575	CHEBI:26130 (pigment)
+T1576	NCBITaxon 46675 46679	Mice
+#1576	AnnotatorNotes T1576	NCBITaxon:10088 (Mus)
+T1577	NCBITaxon 46685 46689	mice
+#1577	AnnotatorNotes T1577	NCBITaxon:10088 (Mus)
+T1578	italic 46876 46885	Hoxb6-Cre
+#1578	AnnotatorNotes T1578	italic (null)
+T1579	PR 46876 46881	Hoxb6
+#1579	AnnotatorNotes T1579	PR:000008703 (homeobox protein Hox-B6)
+T1580	SO 46886 46896	transgenic
+#1580	AnnotatorNotes T1580	SO:0000902 (transgene)
+T1581	NCBITaxon 46897 46901	mice
+#1581	AnnotatorNotes T1581	NCBITaxon:10088 (Mus)
+T1582	NCBITaxon 47005 47009	mice
+#1582	AnnotatorNotes T1582	NCBITaxon:10088 (Mus)
+T1583	italic 47023 47032	R26R lacZ
+#1583	AnnotatorNotes T1583	italic (null)
+T1584	SO 47042 47048	allele
+#1584	AnnotatorNotes T1584	SO:0001023 (allele)
+T1585	italic 47176 47181	ae/ae
+#1585	AnnotatorNotes T1585	italic (null)
+T1586	sup 47177 47178	e
+#1586	AnnotatorNotes T1586	sup (null)
+T1587	sup 47180 47181	e
+#1587	AnnotatorNotes T1587	sup (null)
+T1588	NCBITaxon 47182 47186	mice
+#1588	AnnotatorNotes T1588	NCBITaxon:10088 (Mus)
+T1589	italic 47295 47298	deH
+#1589	AnnotatorNotes T1589	italic (null)
+T1590	sup 47297 47298	H
+#1590	AnnotatorNotes T1590	sup (null)
+T1591	SO 47299 47307	mutation
+#1591	AnnotatorNotes T1591	SO:0001059 (sequence_alteration)
+T1592	italic 47426 47429	deH
+#1592	AnnotatorNotes T1592	italic (null)
+T1593	sup 47428 47429	H
+#1593	AnnotatorNotes T1593	sup (null)
+T1594	SO 47456 47466	introduced
+#1594	AnnotatorNotes T1594	SO:0000046 (insert)
+T1595	italic 47471 47473	at
+#1595	AnnotatorNotes T1595	italic (null)
+T1596	sup 47472 47473	t
+#1596	AnnotatorNotes T1596	sup (null)
+T1597	SO 47474 47480	allele
+#1597	AnnotatorNotes T1597	SO:0001023 (allele)
+T1598	italic 47543 47546	deH
+#1598	AnnotatorNotes T1598	italic (null)
+T1599	sup 47545 47546	H
+#1599	AnnotatorNotes T1599	sup (null)
+T1600	SO 47547 47548	+
+#1600	AnnotatorNotes T1600	SO:0000817 (wild_type)
+T1601	italic 47551 47554	deH
+#1601	AnnotatorNotes T1601	italic (null)
+T1602	sup 47553 47554	H
+#1602	AnnotatorNotes T1602	sup (null)
+T1603	SO 47555 47556	+
+#1603	AnnotatorNotes T1603	SO:0000817 (wild_type)
+T1604	GO_BP 47625 47632	matings
+#1604	AnnotatorNotes T1604	GO:0007618 (mating)
+T1605	GO_BP 47703 47708	birth
+#1605	AnnotatorNotes T1605	GO:0007567 (parturition)
+T1606	CHEBI 47930 47948	sodium bicarbonate
+#1606	AnnotatorNotes T1606	CHEBI:32139 (sodium bicarbonate)
+T1607	CHEBI 47930 47936	sodium
+#1607	AnnotatorNotes T1607	CHEBI:26708 (sodium)
+T1608	CHEBI 47937 47948	bicarbonate
+#1608	AnnotatorNotes T1608	CHEBI:17544 (hydrogencarbonate)
+T1609	GO_BP 48303 48311	visually
+#1609	AnnotatorNotes T1609	GO:0007601 (visual perception)
+T1610	NCBITaxon 48508 48515	animals
+#1610	AnnotatorNotes T1610	NCBITaxon:33208 (Metazoa)
+T1611	CHEBI 48749 48753	DOPA
+#1611	AnnotatorNotes T1611	CHEBI:49168 (dopa)
+T1612	CHEBI 48831 48837	sodium
+#1612	AnnotatorNotes T1612	CHEBI:26708 (sodium)
+T1613	CHEBI 48838 48845	bromide
+#1613	AnnotatorNotes T1613	CHEBI:15858 (bromide)
+T1614	CHEBI 48838 48845	bromide
+#1614	AnnotatorNotes T1614	CHEBI:22925 (bromide salts)
+T1615	CHEBI 48989 48995	L-DOPA
+#1615	AnnotatorNotes T1615	CHEBI:15765 (L-dopa)
+T1616	CHEBI 49047 49063	sodium phosphate
+#1616	AnnotatorNotes T1616	CHEBI:37586 (sodium phosphates)
+T1617	CHEBI 49047 49053	sodium
+#1617	AnnotatorNotes T1617	CHEBI:26708 (sodium)
+T1618	CHEBI 49054 49063	phosphate
+#1618	AnnotatorNotes T1618	CHEBI:35780 (phosphate ions)
+T1619	CL 49266 49277	melanocytes
+#1619	AnnotatorNotes T1619	CL:0000148 (melanocyte)
+T1620	SO 49365 49375	Positional
+#1620	AnnotatorNotes T1620	SO:0000001 (region)
+T1621	SO 49403 49406	map
+#1621	AnnotatorNotes T1621	SO:0001248 (assembly)
+T1622	italic 49411 49414	deH
+#1622	AnnotatorNotes T1622	italic (null)
+T1623	sup 49413 49414	H
+#1623	AnnotatorNotes T1623	sup (null)
+T1624	italic 49473 49476	deH
+#1624	AnnotatorNotes T1624	italic (null)
+T1625	sup 49475 49476	H
+#1625	AnnotatorNotes T1625	sup (null)
+T1626	italic 49477 49480	deH
+#1626	AnnotatorNotes T1626	italic (null)
+T1627	sup 49479 49480	H
+#1627	AnnotatorNotes T1627	sup (null)
+T1628	NCBITaxon 49493 49497	mice
+#1628	AnnotatorNotes T1628	NCBITaxon:10088 (Mus)
+T1629	italic 49522 49525	deH
+#1629	AnnotatorNotes T1629	italic (null)
+T1630	sup 49524 49525	H
+#1630	AnnotatorNotes T1630	sup (null)
+T1631	SO 49536 49544	interval
+#1631	AnnotatorNotes T1631	SO:0000001 (region)
+T1632	sub 49576 49577	2
+#1632	AnnotatorNotes T1632	sub (null)
+T1633	NCBITaxon 49578 49585	animals
+#1633	AnnotatorNotes T1633	NCBITaxon:33208 (Metazoa)
+T1634	GO_BP 49595 49606	recombinant
+#1634	AnnotatorNotes T1634	GO:0006310 (DNA recombination)
+T1635	GO_CC 49607 49618	chromosomes
+#1635	AnnotatorNotes T1635	GO:0005694 (chromosome)
+T1636	SO 49607 49618	chromosomes
+#1636	AnnotatorNotes T1636	SO:0000340 (chromosome)
+T1637	SO 49647 49655	genotype
+#1637	AnnotatorNotes T1637	SO:0001027 (genotype)
+T1638	italic 49659 49661	de
+#1638	AnnotatorNotes T1638	italic (null)
+T1639	EntrezGene 49659 49661	de
+#1639	AnnotatorNotes T1639	EG:21384
+T1640	italic 49681 49684	deH
+#1640	AnnotatorNotes T1640	italic (null)
+T1641	sup 49683 49684	H
+#1641	AnnotatorNotes T1641	sup (null)
+T1642	SO 49685 49686	+
+#1642	AnnotatorNotes T1642	SO:0000817 (wild_type)
+T1643	SO 49690 49691	+
+#1643	AnnotatorNotes T1643	SO:0000817 (wild_type)
+T1644	SO 49692 49693	+
+#1644	AnnotatorNotes T1644	SO:0000817 (wild_type)
+T1645	italic 49730 49733	deH
+#1645	AnnotatorNotes T1645	italic (null)
+T1646	sup 49732 49733	H
+#1646	AnnotatorNotes T1646	sup (null)
+T1647	italic 49734 49737	deH
+#1647	AnnotatorNotes T1647	italic (null)
+T1648	sup 49736 49737	H
+#1648	AnnotatorNotes T1648	sup (null)
+T1649	NCBITaxon 49738 49745	animals
+#1649	AnnotatorNotes T1649	NCBITaxon:33208 (Metazoa)
+T1650	SO 49755 49762	genetic
+#1650	AnnotatorNotes T1650	SO:0000704 (gene)
+T1651	SO 49793 49799	region
+#1651	AnnotatorNotes T1651	SO:0000001 (region)
+T1652	SO 49901 49913	physical map
+#1652	AnnotatorNotes T1652	SO:0001249 (fragment_assembly)
+T1653	SO 49919 49922	BAC
+#1653	AnnotatorNotes T1653	SO:0000153 (BAC)
+T1654	SO 49923 49937	genomic clones
+#1654	AnnotatorNotes T1654	SO:0000040 (genomic_clone)
+T1655	SO 49923 49930	genomic
+#1655	AnnotatorNotes T1655	SO:0001026 (genome)
+T1656	SO 49998 50004	Genome
+#1656	AnnotatorNotes T1656	SO:0001026 (genome)
+T1657	SO 50051 50079	End sequence from those BACs
+#1657	AnnotatorNotes T1657	"End sequence from .. BACs" SO:0000999 (BAC_end)
+T1658	SO 50075 50079	BACs
+#1658	AnnotatorNotes T1658	SO:0000153 (BAC)
+T1659	GO_BP 50092 50099	develop
+#1659	AnnotatorNotes T1659	GO:0009058 (biosynthetic process)
+T1660	SO 50184 50192	interval
+#1660	AnnotatorNotes T1660	SO:0000001 (region)
+T1661	SO 50204 50210	Primer
+#1661	AnnotatorNotes T1661	SO:0000112 (primer)
+T1662	SO 50512 50515	STS
+#1662	AnnotatorNotes T1662	SO:0000331 (STS)
+T1663	SO 50533 50549	Genomic sequence
+#1663	AnnotatorNotes T1663	SO:0000991 (genomic_DNA)
+T1664	SO 50533 50540	Genomic
+#1664	AnnotatorNotes T1664	SO:0001026 (genome)
+T1665	SO 50594 50600	Genome
+#1665	AnnotatorNotes T1665	SO:0001026 (genome)
+T1666	SO 50623 50631	assembly
+#1666	AnnotatorNotes T1666	SO:0001248 (assembly)
+T1667	SO 50632 50639	version
+#1667	AnnotatorNotes T1667	SO:0001060 (sequence_variant)
+T1668	SO 50652 50658	genome
+#1668	AnnotatorNotes T1668	SO:0001026 (genome)
+T1669	SO 50681 50689	interval
+#1669	AnnotatorNotes T1669	SO:0000001 (region)
+T1670	SO 50723 50728	genes
+#1670	AnnotatorNotes T1670	SO:0000704 (gene)
+T1671	CHEBI 50735 50749	hydroxysteroid
+#1671	AnnotatorNotes T1671	CHEBI:35350 (hydroxy steroids)
+T1672	italic 50776 50790	Hsd3b3, Hsd3b2
+#1672	AnnotatorNotes T1672	italic (null)
+T1673	EntrezGene 50776 50782	Hsd3b3
+#1673	AnnotatorNotes T1673	EG:15494
+T1674	PR 50776 50782	Hsd3b3
+#1674	AnnotatorNotes T1674	PR:000008867 (3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 3)
+T1675	EntrezGene 50784 50790	Hsd3b2
+#1675	AnnotatorNotes T1675	EG:15493
+T1676	PR 50784 50790	Hsd3b2
+#1676	AnnotatorNotes T1676	PR:000008786 (3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2)
+T1677	italic 50792 50798	Hsd3b6
+#1677	AnnotatorNotes T1677	italic (null)
+T1678	PR 50792 50798	Hsd3b6
+#1678	AnnotatorNotes T1678	PR:000008870 (3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 6)
+T1679	EntrezGene 50792 50798	Hsd3b6
+#1679	AnnotatorNotes T1679	EG:15497
+T1680	italic 50804 50810	Hsd3b1
+#1680	AnnotatorNotes T1680	italic (null)
+T1681	PR 50804 50810	Hsd3b1
+#1681	AnnotatorNotes T1681	PR:000008785 (3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1)
+T1682	EntrezGene 50804 50810	Hsd3b1
+#1682	AnnotatorNotes T1682	EG:15492
+T1683	GO_MF 50815 50832	hydroacid oxidase
+#1683	AnnotatorNotes T1683	GO:0003973 ((S)-2-hydroxy-acid oxidase activity)
+T1684	independent_continuant 50815 50832	hydroacid oxidase
+#1684	AnnotatorNotes T1684	independent_continuant
+T1685	CHEBI 50815 50824	hydroacid
+#1685	AnnotatorNotes T1685	CHEBI:24669 (hydroxy carboxylic acids)
+T1686	italic 50834 50838	Hao3
+#1686	AnnotatorNotes T1686	italic (null)
+T1687	PR 50834 50838	Hao3
+#1687	AnnotatorNotes T1687	PR:000008442 (hydroxyacid oxidase 2)
+T1688	EntrezGene 50834 50838	Hao3
+#1688	AnnotatorNotes T1688	EG:56185
+T1689	GO_MF 50842 50870	tryptophanyl-tRNA synthetase
+#1689	AnnotatorNotes T1689	GO:0004830 (tryptophan-tRNA ligase activity)
+T1690	independent_continuant 50842 50870	tryptophanyl-tRNA synthetase
+#1690	AnnotatorNotes T1690	independent_continuant
+T1691	CHEBI 50842 50859	tryptophanyl-tRNA
+#1691	AnnotatorNotes T1691	CHEBI:29159 (Trp-tRNA(Trp))
+T1692	SO 50842 50859	tryptophanyl-tRNA
+#1692	AnnotatorNotes T1692	SO:0000271 (tryptophanyl_tRNA)
+T1693	CHEBI 50842 50854	tryptophanyl
+#1693	AnnotatorNotes T1693	CHEBI:27897 (tryptophan)
+T1694	CHEBI 50842 50854	tryptophanyl
+#1694	AnnotatorNotes T1694	CHEBI:27165 (tryptophano group)
+T1695	italic 50872 50877	Wars2
+#1695	AnnotatorNotes T1695	italic (null)
+T1696	PR 50872 50877	Wars2
+#1696	AnnotatorNotes T1696	PR:000017370 (tryptophanyl-tRNA synthetase, mitochondrial)
+T1697	EntrezGene 50872 50877	Wars2
+#1697	AnnotatorNotes T1697	EG:70560
+T1698	SO 50887 50891	gene
+#1698	AnnotatorNotes T1698	SO:0000704 (gene)
+T1699	italic 50893 50898	Tbx15
+#1699	AnnotatorNotes T1699	italic (null)
+T1700	PR 50893 50898	Tbx15
+#1700	AnnotatorNotes T1700	PR:000016145 (T-box transcription factor TBX15)
+T1701	EntrezGene 50893 50898	Tbx15
+#1701	AnnotatorNotes T1701	EG:21384
+T1702	SO 50912 50916	gene
+#1702	AnnotatorNotes T1702	SO:0000704 (gene)
+T1703	italic 50918 50931	4931427F14Rik
+#1703	AnnotatorNotes T1703	italic (null)
+T1704	EntrezGene 50918 50931	4931427F14Rik
+#1704	AnnotatorNotes T1704	EG:74362
+T1705	PR 50918 50931	4931427F14Rik
+#1705	AnnotatorNotes T1705	PR:000015456 (sperm-associated antigen 17)
+T1706	SO 50940 50955	genome sequence
+#1706	AnnotatorNotes T1706	SO:0001026 (genome)
+T1707	SO 50960 50967	primers
+#1707	AnnotatorNotes T1707	SO:0000112 (primer)
+T1708	SO 51049 51063	reverse primer
+#1708	AnnotatorNotes T1708	SO:0000132 (reverse_primer)
+T1709	SO 51049 51056	reverse
+#1709	AnnotatorNotes T1709	SO:0001031 (reverse)
+T1710	SO 51117 51124	primers
+#1710	AnnotatorNotes T1710	SO:0000112 (primer)
+T1711	SO 51228 51237	sequences
+#1711	AnnotatorNotes T1711	SO:0000001 (region)
+T1712	SO 51245 51252	primers
+#1712	AnnotatorNotes T1712	SO:0000112 (primer)
+T1713	SO 51274 51282	BAC ends
+#1713	AnnotatorNotes T1713	SO:0000999 (BAC_end)
+T1714	SO 51274 51277	BAC
+#1714	AnnotatorNotes T1714	SO:0000153 (BAC)
+T1715	SO 51298 51313	genome sequence
+#1715	AnnotatorNotes T1715	SO:0001026 (genome)
+T1716	SO 51375 51378	BAC
+#1716	AnnotatorNotes T1716	SO:0000153 (BAC)
+T1717	SO 51379 51382	DNA
+#1717	AnnotatorNotes T1717	SO:0000352 (DNA)
+T1718	italic 51448 51451	deH
+#1718	AnnotatorNotes T1718	italic (null)
+T1719	sup 51450 51451	H
+#1719	AnnotatorNotes T1719	sup (null)
+T1720	SO 51452 51460	deletion
+#1720	AnnotatorNotes T1720	SO:0000159 (deletion)
+T1721	SO 51467 51474	primers
+#1721	AnnotatorNotes T1721	SO:0000112 (primer)
+T1722	GO_BP 51560 51568	produces
+#1722	AnnotatorNotes T1722	GO:0009058 (biosynthetic process)
+T1723	SO 51575 51577	bp
+#1723	AnnotatorNotes T1723	SO:0000028 (base_pair)
+T1724	SO 51578 51585	product
+#1724	AnnotatorNotes T1724	SO:0000006 (PCR_product)
+T1725	italic 51595 51598	deH
+#1725	AnnotatorNotes T1725	italic (null)
+T1726	sup 51597 51598	H
+#1726	AnnotatorNotes T1726	sup (null)
+T1727	GO_CC 51599 51609	chromosome
+#1727	AnnotatorNotes T1727	GO:0005694 (chromosome)
+T1728	SO 51599 51609	chromosome
+#1728	AnnotatorNotes T1728	SO:0000340 (chromosome)
+T1729	SO 51620 51622	bp
+#1729	AnnotatorNotes T1729	SO:0000028 (base_pair)
+T1730	SO 51623 51630	product
+#1730	AnnotatorNotes T1730	SO:0000006 (PCR_product)
+T1731	GO_CC 51650 51660	chromosome
+#1731	AnnotatorNotes T1731	GO:0005694 (chromosome)
+T1732	SO 51650 51660	chromosome
+#1732	AnnotatorNotes T1732	SO:0000340 (chromosome)
+T1733	SO 51663 51667	Gene
+#1733	AnnotatorNotes T1733	SO:0000704 (gene)
+T1734	SO 51690 51696	allele
+#1734	AnnotatorNotes T1734	SO:0001023 (allele)
+T1735	italic 51700 51705	Tbx15
+#1735	AnnotatorNotes T1735	italic (null)
+T1736	EntrezGene 51700 51705	Tbx15
+#1736	AnnotatorNotes T1736	EG:21384
+T1737	PR 51700 51705	Tbx15
+#1737	AnnotatorNotes T1737	PR:000016145 (T-box transcription factor TBX15)
+T1738	GO_BP 51710 51721	constructed
+#1738	AnnotatorNotes T1738	GO:0009058 (biosynthetic process)
+T1739	italic 51792 51805	IRES-LacZ-neo
+#1739	AnnotatorNotes T1739	italic (null)
+T1740	SO 51792 51796	IRES
+#1740	AnnotatorNotes T1740	SO:0000243 (internal_ribosome_entry_site)
+T1741	GO_MF 51802 51805	neo
+#1741	AnnotatorNotes T1741	GO:0008910 (kanamycin kinase activity)
+T1742	independent_continuant 51802 51805	neo
+#1742	AnnotatorNotes T1742	independent_continuant
+T1743	SO 51806 51814	cassette
+#1743	AnnotatorNotes T1743	SO:0005853 (gene_cassette)
+T1744	SO 51869 51877	inserted
+#1744	AnnotatorNotes T1744	SO:0000046 (insert)
+T1745	SO 51898 51902	site
+#1745	AnnotatorNotes T1745	SO:0000001 (region)
+T1746	CHEBI 51917 51928	nucleotides
+#1746	AnnotatorNotes T1746	CHEBI:25613 (nucleotidyl groups)
+T1747	SO 51917 51928	nucleotides
+#1747	AnnotatorNotes T1747	SO:0001236 (base)
+T1748	GO_BP 51947 51973	transcriptional initiation
+#1748	AnnotatorNotes T1748	GO:0006352 (transcription initiation)
+T1749	GO_BP 51947 51962	transcriptional
+#1749	AnnotatorNotes T1749	GO:0006350 (transcription)
+T1750	SO 51974 51978	site
+#1750	AnnotatorNotes T1750	SO:0000001 (region)
+T1751	CHEBI 51996 52009	mRNA sequence
+#1751	AnnotatorNotes T1751	CHEBI:33699 (messenger RNA)
+T1752	SO 51996 52009	mRNA sequence
+#1752	AnnotatorNotes T1752	SO:0000234 (mRNA)
+T1753	CHEBI 51996 52000	mRNA
+#1753	AnnotatorNotes T1753	CHEBI:33699 (messenger RNA)
+T1754	SO 51996 52000	mRNA
+#1754	AnnotatorNotes T1754	SO:0000234 (mRNA)
+T1755	SO 52014 52018	exon
+#1755	AnnotatorNotes T1755	SO:0000147 (exon)
+T1756	SO 52034 52040	clones
+#1756	AnnotatorNotes T1756	SO:0000151 (clone)
+T1757	NCBITaxon 52119 52123	mice
+#1757	AnnotatorNotes T1757	NCBITaxon:10088 (Mus)
+T1758	italic 52130 52133	deH
+#1758	AnnotatorNotes T1758	italic (null)
+T1759	sup 52132 52133	H
+#1759	AnnotatorNotes T1759	sup (null)
+T1760	SO 52134 52135	+
+#1760	AnnotatorNotes T1760	SO:0000817 (wild_type)
+T1761	NCBITaxon 52136 52143	animals
+#1761	AnnotatorNotes T1761	NCBITaxon:33208 (Metazoa)
+T1762	GO_MF 52154 52167	hybridization
+#1762	AnnotatorNotes T1762	GO:0000739 (DNA strand annealing activity)
+T1763	GO_MF 52154 52167	hybridization
+#1763	AnnotatorNotes T1763	GO:0033592 (RNA strand annealing activity)
+T1764	GO_MF 52177 52190	hybridization
+#1764	AnnotatorNotes T1764	GO:0000739 (DNA strand annealing activity)
+T1765	GO_MF 52177 52190	hybridization
+#1765	AnnotatorNotes T1765	GO:0033592 (RNA strand annealing activity)
+T1766	CHEBI 52240 52251	digoxigenin
+#1766	AnnotatorNotes T1766	CHEBI:42098 (digoxigenin)
+T1767	SO 52260 52263	RNA
+#1767	AnnotatorNotes T1767	SO:0000356 (RNA)
+T1768	SO 52264 52270	probes
+#1768	AnnotatorNotes T1768	SO:0000051 (probe)
+T1769	italic 52459 52462	deH
+#1769	AnnotatorNotes T1769	italic (null)
+T1770	sup 52461 52462	H
+#1770	AnnotatorNotes T1770	sup (null)
+T1771	italic 52463 52464	+
+#1771	AnnotatorNotes T1771	italic (null)
+T1772	SO 52463 52464	+
+#1772	AnnotatorNotes T1772	SO:0000817 (wild_type)
+T1773	NCBITaxon 52465 52469	mice
+#1773	AnnotatorNotes T1773	NCBITaxon:10088 (Mus)
+T1774	italic 52606 52611	Tbx15
+#1774	AnnotatorNotes T1774	italic (null)
+T1775	PR 52606 52611	Tbx15
+#1775	AnnotatorNotes T1775	PR:000016145 (T-box transcription factor TBX15)
+T1776	SO 52612 52617	probe
+#1776	AnnotatorNotes T1776	SO:0000051 (probe)
+T1777	GO_BP 52622 52631	generated
+#1777	AnnotatorNotes T1777	GO:0009058 (biosynthetic process)
+T1778	GO_BP 52635 52637	RT
+#1778	AnnotatorNotes T1778	GO:0006410 (transcription, RNA-dependent)
+T1779	SO 52648 52655	primers
+#1779	AnnotatorNotes T1779	SO:0000112 (primer)
+T1780	SO 52717 52722	exons
+#1780	AnnotatorNotes T1780	SO:0000147 (exon)
+T1781	italic 52741 52744	En1
+#1781	AnnotatorNotes T1781	italic (null)
+T1782	PR 52741 52744	En1
+#1782	AnnotatorNotes T1782	PR:000007070 (homeobox protein engrailed-1)
+T1783	SO 52745 52750	probe
+#1783	AnnotatorNotes T1783	SO:0000051 (probe)
+T1784	GO_BP 52755 52764	generated
+#1784	AnnotatorNotes T1784	GO:0009058 (biosynthetic process)
+T1785	SO 52777 52788	genomic DNA
+#1785	AnnotatorNotes T1785	SO:0000991 (genomic_DNA)
+T1786	SO 52777 52784	genomic
+#1786	AnnotatorNotes T1786	SO:0001026 (genome)
+T1787	SO 52795 52802	primers
+#1787	AnnotatorNotes T1787	SO:0000112 (primer)
+T1788	SO 52870 52874	exon
+#1788	AnnotatorNotes T1788	SO:0000147 (exon)
+T1789	italic 52881 52887	Agouti
+#1789	AnnotatorNotes T1789	italic (null)
+T1790	PR 52881 52887	Agouti
+#1790	AnnotatorNotes T1790	PR:000004372 (agouti-signaling protein)
+T1791	SO 52888 52893	probe
+#1791	AnnotatorNotes T1791	SO:0000051 (probe)
+T1792	SO 52913 52927	protein-coding
+#1792	AnnotatorNotes T1792	SO:0000010 (protein_coding)
+T1793	CHEBI 52913 52920	protein
+#1793	AnnotatorNotes T1793	CHEBI:36080 (proteins)
+T1794	SO 52921 52936	coding sequence
+#1794	AnnotatorNotes T1794	SO:0000316 (CDS)
+T1795	italic 52977 52979	at
+#1795	AnnotatorNotes T1795	italic (null)
+T1796	sup 52978 52979	t
+#1796	AnnotatorNotes T1796	sup (null)
+T1797	italic 52980 52982	at
+#1797	AnnotatorNotes T1797	italic (null)
+T1798	sup 52981 52982	t
+#1798	AnnotatorNotes T1798	sup (null)
+T1799	italic 52988 52989	a
+#1799	AnnotatorNotes T1799	italic (null)
+T1800	italic 52990 52991	a
+#1800	AnnotatorNotes T1800	italic (null)
+T1801	sub 52993 52994	1
+#1801	AnnotatorNotes T1801	sub (null)
+T1802	sup 53139 53140	2
+#1802	AnnotatorNotes T1802	sup (null)
+T1803	NCBITaxon 53226 53233	animals
+#1803	AnnotatorNotes T1803	NCBITaxon:33208 (Metazoa)
+T1804	NCBITaxon 53734 53738	mice
+#1804	AnnotatorNotes T1804	NCBITaxon:10088 (Mus)
+T1805	italic 53891 53900	Hoxb6-Cre
+#1805	AnnotatorNotes T1805	italic (null)
+T1806	PR 53891 53896	Hoxb6
+#1806	AnnotatorNotes T1806	PR:000008703 (homeobox protein Hox-B6)
+T1807	SO 53901 53910	transgene
+#1807	AnnotatorNotes T1807	SO:0000902 (transgene)
+T1808	GO_BP 53967 53976	expressed
+#1808	AnnotatorNotes T1808	GO:0010467 (gene expression)
+T1809	NCBITaxon 54060 54067	Animals
+#1809	AnnotatorNotes T1809	NCBITaxon:33208 (Metazoa)
+T1810	SO 54097 54106	transgene
+#1810	AnnotatorNotes T1810	SO:0000902 (transgene)
+T1811	italic 54115 54119	R26R
+#1811	AnnotatorNotes T1811	italic (null)
+T1812	SO 54129 54133	gene
+#1812	AnnotatorNotes T1812	SO:0000704 (gene)
+T1813	independent_continuant 54314 54329	β-galactosidase
+#1813	AnnotatorNotes T1813	independent_continuant
+T1814	GO_MF 54314 54329	β-galactosidase
+#1814	AnnotatorNotes T1814	GO:0004565 (beta-galactosidase activity)
+T1815	NCBITaxon 54520 54527	animals
+#1815	AnnotatorNotes T1815	NCBITaxon:33208 (Metazoa)
+T1816	italic 54541 54543	at
+#1816	AnnotatorNotes T1816	italic (null)
+T1817	sup 54542 54543	t
+#1817	AnnotatorNotes T1817	sup (null)
+T1818	SO 54544 54550	allele
+#1818	AnnotatorNotes T1818	SO:0001023 (allele)
+T1819	GO_BP 54678 54690	pigmentation
+#1819	AnnotatorNotes T1819	GO:0043473 (pigmentation)
+T1820	italic 54866 54879	4931427F14Rik
+#1820	AnnotatorNotes T1820	italic (null)
+T1821	EntrezGene 54866 54879	4931427F14Rik
+#1821	AnnotatorNotes T1821	EG:74362
+T1822	italic 54892 54898	Agouti
+#1822	AnnotatorNotes T1822	italic (null)
+T1823	PR 54892 54898	Agouti
+#1823	AnnotatorNotes T1823	PR:000004372 (agouti-signaling protein)
+T1824	EntrezGene 54892 54898	Agouti
+#1824	AnnotatorNotes T1824	EG:50518
+T1825	SO 54899 54903	gene
+#1825	AnnotatorNotes T1825	SO:0000704 (gene)
+T1826	italic 54914 54918	Alx3
+#1826	AnnotatorNotes T1826	italic (null)
+T1827	EntrezGene 54914 54918	Alx3
+#1827	AnnotatorNotes T1827	EG:11694
+T1828	PR 54914 54918	Alx3
+#1828	AnnotatorNotes T1828	PR:000003979 (homeobox protein aristaless-like 3)
+T1829	italic 54929 54933	Alx4
+#1829	AnnotatorNotes T1829	italic (null)
+T1830	EntrezGene 54929 54933	Alx4
+#1830	AnnotatorNotes T1830	EG:11695
+T1831	PR 54929 54933	Alx4
+#1831	AnnotatorNotes T1831	PR:000003980 (homeobox protein aristaless-like 4)
+T1832	italic 54946 54949	En1
+#1832	AnnotatorNotes T1832	italic (null)
+T1833	EntrezGene 54946 54949	En1
+#1833	AnnotatorNotes T1833	EG:13798
+T1834	PR 54946 54949	En1
+#1834	AnnotatorNotes T1834	PR:000007070 (homeobox protein engrailed-1)
+T1835	italic 54959 54966	M6pr-ps
+#1835	AnnotatorNotes T1835	italic (null)
+T1836	EntrezGene 54959 54963	M6pr
+#1836	AnnotatorNotes T1836	EG:17113
+T1837	italic 54977 54982	Tbx14
+#1837	AnnotatorNotes T1837	italic (null)
+T1838	PR 54977 54982	Tbx14
+#1838	AnnotatorNotes T1838	PR:000016145 (T-box transcription factor TBX15)
+T1839	EntrezGene 54977 54982	Tbx14
+#1839	AnnotatorNotes T1839	EG:21384
+T1840	italic 54995 55000	Tbx15
+#1840	AnnotatorNotes T1840	italic (null)
+T1841	PR 54995 55000	Tbx15
+#1841	AnnotatorNotes T1841	PR:000016145 (T-box transcription factor TBX15)
+T1842	EntrezGene 54995 55000	Tbx15
+#1842	AnnotatorNotes T1842	EG:21384
+T1843	italic 55013 55018	Tbx18
+#1843	AnnotatorNotes T1843	italic (null)
+T1844	EntrezGene 55013 55018	Tbx18
+#1844	AnnotatorNotes T1844	EG:76365
+T1845	PR 55013 55018	Tbx18
+#1845	AnnotatorNotes T1845	PR:000016146 (T-box transcription factor TBX18)
+T1846	italic 55035 55040	Tbx22
+#1846	AnnotatorNotes T1846	italic (null)
+T1847	EntrezGene 55035 55040	Tbx22
+#1847	AnnotatorNotes T1847	EG:245572
+T1848	PR 55035 55040	Tbx22
+#1848	AnnotatorNotes T1848	PR:000016150 (T-box transcription factor TBX22)
+T1849	NCBITaxon 55238 55243	human
+#1849	AnnotatorNotes T1849	NCBITaxon:9606 (Homo sapiens)
+T1850	GO_CC 55253 55254	X
+#1850	AnnotatorNotes T1850	GO:0000805 (X chromosome)
+T1851	italic 55415 55418	deH
+#1851	AnnotatorNotes T1851	italic (null)
+T1852	sup 55417 55418	H
+#1852	AnnotatorNotes T1852	sup (null)
+T1853	italic 55504 55513	Hoxb6-Cre
+#1853	AnnotatorNotes T1853	italic (null)
+T1854	PR 55504 55509	Hoxb6
+#1854	AnnotatorNotes T1854	PR:000008703 (homeobox protein Hox-B6)
+T1855	SO 55514 55524	transgenic
+#1855	AnnotatorNotes T1855	SO:0000902 (transgene)
+T1856	NCBITaxon 55525 55529	mice
+#1856	AnnotatorNotes T1856	NCBITaxon:10088 (Mus)
+T1857	italic 55727 55737	droopy ear
+#1857	AnnotatorNotes T1857	italic (null)
+T1858	EntrezGene 55727 55737	droopy ear
+#1858	AnnotatorNotes T1858	EG:21384
+T1859	GO_BP 55741 55753	pigmentation
+#1859	AnnotatorNotes T1859	GO:0043473 (pigmentation)
+T1860	SO 55946 55952	allele
+#1860	AnnotatorNotes T1860	SO:0001023 (allele)
+T1861	SO 56011 56017	allele
+#1861	AnnotatorNotes T1861	SO:0001023 (allele)
+T1862	EntrezGene 56038 56044	Agouti
+#1862	AnnotatorNotes T1862	EG:50518
+T1863	PR 56038 56044	Agouti
+#1863	AnnotatorNotes T1863	PR:000004372 (agouti-signaling protein)
+T1864	SO 56045 56051	allele
+#1864	AnnotatorNotes T1864	SO:0001023 (allele)
+T1865	NCBITaxon 56067 56071	mice
+#1865	AnnotatorNotes T1865	NCBITaxon:10088 (Mus)
+T1866	SO 56073 56076	BAC
+#1866	AnnotatorNotes T1866	SO:0000153 (BAC)
+T1867	SO 56079 56110	bacterial artificial chromosome
+#1867	AnnotatorNotes T1867	SO:0000153 (BAC)
+T1868	NCBITaxon 56079 56088	bacterial
+#1868	AnnotatorNotes T1868	NCBITaxon:2 (Bacteria)
+T1869	GO_CC 56100 56110	chromosome
+#1869	AnnotatorNotes T1869	GO:0005694 (chromosome)
+T1870	EntrezGene 56118 56128	droopy ear
+#1870	AnnotatorNotes T1870	EG:21384
+T1871	SO 56129 56135	allele
+#1871	AnnotatorNotes T1871	SO:0001023 (allele)
+T1872	GO_BP 56141 56146	arose
+#1872	AnnotatorNotes T1872	GO:0009058 (biosynthetic process)
+T1873	EntrezGene 56187 56190	En1
+#1873	AnnotatorNotes T1873	EG:13798
+T1874	PR 56187 56190	En1
+#1874	AnnotatorNotes T1874	PR:000007070 (homeobox protein engrailed-1)
+T1875	EntrezGene 56193 56203	Engrailed1
+#1875	AnnotatorNotes T1875	EG:13798
+T1876	PR 56193 56203	Engrailed1
+#1876	AnnotatorNotes T1876	PR:000007070 (homeobox protein engrailed-1)
+T1877	EntrezGene 56205 56209	M6pr
+#1877	AnnotatorNotes T1877	EG:17113
+T1878	SO 56210 56212	ps
+#1878	AnnotatorNotes T1878	SO:0000336 (pseudogene)
+T1879	EntrezGene 56215 56243	mannose-6-phosphate receptor
+#1879	AnnotatorNotes T1879	EG:17113
+T1880	CHEBI 56215 56234	mannose-6-phosphate
+#1880	AnnotatorNotes T1880	CHEBI:17369 (D-mannose 6-phosphate)
+T1881	CHEBI 56215 56222	mannose
+#1881	AnnotatorNotes T1881	CHEBI:37684 (mannose)
+T1882	CHEBI 56225 56234	phosphate
+#1882	AnnotatorNotes T1882	CHEBI:32958 (phosphate group)
+T1883	GO_MF 56235 56243	receptor
+#1883	AnnotatorNotes T1883	GO:0004872 (receptor activity)
+T1884	independent_continuant 56235 56243	receptor
+#1884	AnnotatorNotes T1884	independent_continuant
+T1885	SO 56244 56254	pseudogene
+#1885	AnnotatorNotes T1885	SO:0000336 (pseudogene)
+T1886	EntrezGene 56282 56287	Tbx15
+#1886	AnnotatorNotes T1886	EG:21384
+T1887	PR 56282 56287	Tbx15
+#1887	AnnotatorNotes T1887	PR:000016145 (T-box transcription factor TBX15)
+T1888	EntrezGene 56290 56303	T-box gene 15
+#1888	AnnotatorNotes T1888	EG:21384
+T1889	PR 56290 56303	T-box gene 15
+#1889	AnnotatorNotes T1889	PR:000016145 (T-box transcription factor TBX15)
+T1890	SO 56296 56300	gene
+#1890	AnnotatorNotes T1890	SO:0000704 (gene)
+T1891	NCBITaxon 56391 56398	animals
+#1891	AnnotatorNotes T1891	NCBITaxon:33208 (Metazoa)
+T1892	SO 56420 56428	genotype
+#1892	AnnotatorNotes T1892	SO:0001027 (genotype)
+T1893	italic 56617 56619	at
+#1893	AnnotatorNotes T1893	italic (null)
+T1894	sup 56618 56619	t
+#1894	AnnotatorNotes T1894	sup (null)
+T1895	italic 56620 56622	at
+#1895	AnnotatorNotes T1895	italic (null)
+T1896	sup 56621 56622	t
+#1896	AnnotatorNotes T1896	sup (null)
+T1897	NCBITaxon 56623 56627	mice
+#1897	AnnotatorNotes T1897	NCBITaxon:10088 (Mus)
+T1898	NCBITaxon 56873 56877	mice
+#1898	AnnotatorNotes T1898	NCBITaxon:10088 (Mus)
+T1899	NCBITaxon 56973 56977	mice
+#1899	AnnotatorNotes T1899	NCBITaxon:10088 (Mus)
+T1900	italic 56979 56980	p
+#1900	AnnotatorNotes T1900	italic (null)
+T1901	sup 56992 56993	2
+#1901	AnnotatorNotes T1901	sup (null)
+T1902	italic 57000 57001	n
+#1902	AnnotatorNotes T1902	italic (null)
+T1903	GO_BP 57072 57088	skin development
+#1903	AnnotatorNotes T1903	GO:0043588 (skin development)
+T1904	CHEBI 57164 57171	melanin
+#1904	AnnotatorNotes T1904	CHEBI:25179 (melanins)
+T1905	CHEBI 57184 57188	DOPA
+#1905	AnnotatorNotes T1905	CHEBI:49168 (dopa)
+T1906	italic 57244 57246	ae
+#1906	AnnotatorNotes T1906	italic (null)
+T1907	sup 57245 57246	e
+#1907	AnnotatorNotes T1907	sup (null)
+T1908	italic 57247 57249	ae
+#1908	AnnotatorNotes T1908	italic (null)
+T1909	sup 57248 57249	e
+#1909	AnnotatorNotes T1909	sup (null)
+T1910	italic 57254 57256	at
+#1910	AnnotatorNotes T1910	italic (null)
+T1911	sup 57255 57256	t
+#1911	AnnotatorNotes T1911	sup (null)
+T1912	italic 57257 57259	at
+#1912	AnnotatorNotes T1912	italic (null)
+T1913	sup 57258 57259	t
+#1913	AnnotatorNotes T1913	sup (null)
+T1914	NCBITaxon 57260 57264	mice
+#1914	AnnotatorNotes T1914	NCBITaxon:10088 (Mus)
+T1915	italic 57334 57336	at
+#1915	AnnotatorNotes T1915	italic (null)
+T1916	sup 57335 57336	t
+#1916	AnnotatorNotes T1916	sup (null)
+T1917	italic 57337 57339	at
+#1917	AnnotatorNotes T1917	italic (null)
+T1918	sup 57338 57339	t
+#1918	AnnotatorNotes T1918	sup (null)
+T1919	CHEBI 57436 57440	DOPA
+#1919	AnnotatorNotes T1919	CHEBI:49168 (dopa)
+T1920	italic 57493 57496	deH
+#1920	AnnotatorNotes T1920	italic (null)
+T1921	sup 57495 57496	H
+#1921	AnnotatorNotes T1921	sup (null)
+T1922	GO_BP 57497 57509	Pigmentation
+#1922	AnnotatorNotes T1922	GO:0043473 (pigmentation)
+T1923	italic 57535 57542	deH/deH
+#1923	AnnotatorNotes T1923	italic (null)
+T1924	sup 57537 57538	H
+#1924	AnnotatorNotes T1924	sup (null)
+T1925	sup 57541 57542	H
+#1925	AnnotatorNotes T1925	sup (null)
+T1926	NCBITaxon 57557 57564	animals
+#1926	AnnotatorNotes T1926	NCBITaxon:33208 (Metazoa)
+T1927	italic 57570 57572	at
+#1927	AnnotatorNotes T1927	italic (null)
+T1928	sup 57571 57572	t
+#1928	AnnotatorNotes T1928	sup (null)
+T1929	italic 57689 57692	deH
+#1929	AnnotatorNotes T1929	italic (null)
+T1930	sup 57691 57692	H
+#1930	AnnotatorNotes T1930	sup (null)
+T1931	italic 57841 57848	deH/deH
+#1931	AnnotatorNotes T1931	italic (null)
+T1932	sup 57843 57844	H
+#1932	AnnotatorNotes T1932	sup (null)
+T1933	sup 57847 57848	H
+#1933	AnnotatorNotes T1933	sup (null)
+T1934	SO 58085 58091	mutant
+#1934	AnnotatorNotes T1934	SO:0001059 (sequence_alteration)
+T1935	italic 58125 58126	p
+#1935	AnnotatorNotes T1935	italic (null)
+T1936	italic 58144 58145	t
+#1936	AnnotatorNotes T1936	italic (null)
+T1937	italic 58152 58153	n
+#1937	AnnotatorNotes T1937	italic (null)
+T1938	SO 58312 58318	mutant
+#1938	AnnotatorNotes T1938	SO:0001059 (sequence_alteration)
+T1939	independent_continuant 58312 58318	mutant
+#1939	AnnotatorNotes T1939	independent_continuant
+T1940	italic 58351 58352	p
+#1940	AnnotatorNotes T1940	italic (null)
+T1941	italic 58369 58370	t
+#1941	AnnotatorNotes T1941	italic (null)
+T1942	italic 58377 58378	n
+#1942	AnnotatorNotes T1942	italic (null)
+T1943	italic 58402 58407	ae/ae
+#1943	AnnotatorNotes T1943	italic (null)
+T1944	sup 58403 58404	e
+#1944	AnnotatorNotes T1944	sup (null)
+T1945	sup 58406 58407	e
+#1945	AnnotatorNotes T1945	sup (null)
+T1946	GO_BP 58446 58458	pigmentation
+#1946	AnnotatorNotes T1946	GO:0043473 (pigmentation)
+T1947	italic 58473 58480	deH/deH
+#1947	AnnotatorNotes T1947	italic (null)
+T1948	sup 58475 58476	H
+#1948	AnnotatorNotes T1948	sup (null)
+T1949	sup 58479 58480	H
+#1949	AnnotatorNotes T1949	sup (null)
+T1950	italic 58554 58561	deH/deH
+#1950	AnnotatorNotes T1950	italic (null)
+T1951	sup 58556 58557	H
+#1951	AnnotatorNotes T1951	sup (null)
+T1952	sup 58560 58561	H
+#1952	AnnotatorNotes T1952	sup (null)
+T1953	CHEBI 58773 58782	Molecular
+#1953	AnnotatorNotes T1953	CHEBI:36357 (polyatomic entities)
+T1954	italic 58795 58798	deH
+#1954	AnnotatorNotes T1954	italic (null)
+T1955	sup 58797 58798	H
+#1955	AnnotatorNotes T1955	sup (null)
+T1956	italic 58803 58808	Tbx15
+#1956	AnnotatorNotes T1956	italic (null)
+T1957	PR 58803 58808	Tbx15
+#1957	AnnotatorNotes T1957	PR:000016145 (T-box transcription factor TBX15)
+T1958	EntrezGene 58803 58808	Tbx15
+#1958	AnnotatorNotes T1958	EG:21384
+T1959	SO 58814 58821	Genetic
+#1959	AnnotatorNotes T1959	SO:0000704 (gene)
+T1960	SO 58826 58838	physical map
+#1960	AnnotatorNotes T1960	SO:0001249 (fragment_assembly)
+T1961	GO_BP 58900 58909	generated
+#1961	AnnotatorNotes T1961	GO:0009058 (biosynthetic process)
+T1962	SO 58917 58920	BAC
+#1962	AnnotatorNotes T1962	SO:0000153 (BAC)
+T1963	SO 58921 58927	contig
+#1963	AnnotatorNotes T1963	SO:0000149 (contig)
+T1964	SO 58935 58941	region
+#1964	AnnotatorNotes T1964	SO:0000001 (region)
+T1965	SO 58956 58959	STS
+#1965	AnnotatorNotes T1965	SO:0000331 (STS)
+T1966	SO 59029 59034	flank
+#1966	AnnotatorNotes T1966	SO:0000357 (flanked)
+T1967	italic 59039 59044	Tbx15
+#1967	AnnotatorNotes T1967	italic (null)
+T1968	EntrezGene 59039 59044	Tbx15
+#1968	AnnotatorNotes T1968	EG:21384
+T1969	PR 59039 59044	Tbx15
+#1969	AnnotatorNotes T1969	PR:000016145 (T-box transcription factor TBX15)
+T1970	italic 59049 59056	M6pr-ps
+#1970	AnnotatorNotes T1970	italic (null)
+T1971	EntrezGene 59049 59053	M6pr
+#1971	AnnotatorNotes T1971	EG:17113
+T1972	SO 59054 59056	ps
+#1972	AnnotatorNotes T1972	SO:0000336 (pseudogene)
+T1973	SO 59069 59075	genome
+#1973	AnnotatorNotes T1973	SO:0001026 (genome)
+T1974	SO 59084 59087	map
+#1974	AnnotatorNotes T1974	SO:0001248 (assembly)
+T1975	italic 59135 59138	deH
+#1975	AnnotatorNotes T1975	italic (null)
+T1976	sup 59137 59138	H
+#1976	AnnotatorNotes T1976	sup (null)
+T1977	GO_BP 59147 59154	meioses
+#1977	AnnotatorNotes T1977	GO:0007126 (meiosis)
+T1978	italic 59165 59168	deH
+#1978	AnnotatorNotes T1978	italic (null)
+T1979	sup 59167 59168	H
+#1979	AnnotatorNotes T1979	sup (null)
+T1980	SO 59169 59177	mutation
+#1980	AnnotatorNotes T1980	SO:0001059 (sequence_alteration)
+T1981	SO 59183 59191	deletion
+#1981	AnnotatorNotes T1981	SO:0000159 (deletion)
+T1982	italic 59207 59212	Tbx15
+#1982	AnnotatorNotes T1982	italic (null)
+T1983	PR 59207 59212	Tbx15
+#1983	AnnotatorNotes T1983	PR:000016145 (T-box transcription factor TBX15)
+T1984	EntrezGene 59207 59212	Tbx15
+#1984	AnnotatorNotes T1984	EG:21384
+T1985	SO 59213 59219	intron
+#1985	AnnotatorNotes T1985	SO:0000188 (intron)
+T1986	italic 59238 59245	M6pr-ps
+#1986	AnnotatorNotes T1986	italic (null)
+T1987	EntrezGene 59238 59242	M6pr
+#1987	AnnotatorNotes T1987	EG:17113
+T1988	SO 59243 59245	ps
+#1988	AnnotatorNotes T1988	SO:0000336 (pseudogene)
+T1989	SO 59252 59260	Sequence
+#1989	AnnotatorNotes T1989	SO:0000001 (region)
+T1990	SO 59264 59284	deletion breakpoints
+#1990	AnnotatorNotes T1990	SO:0001415 (deletion_breakpoint)
+T1991	SO 59264 59272	deletion
+#1991	AnnotatorNotes T1991	SO:0000159 (deletion)
+T1992	italic 59302 59311	Tbx15LacZ
+#1992	AnnotatorNotes T1992	italic (null)
+T1993	sup 59307 59311	LacZ
+#1993	AnnotatorNotes T1993	sup (null)
+T1994	SO 59312 59318	allele
+#1994	AnnotatorNotes T1994	SO:0001023 (allele)
+T1995	GO_BP 59319 59330	constructed
+#1995	AnnotatorNotes T1995	GO:0009058 (biosynthetic process)
+T1996	SO 59334 59338	gene
+#1996	AnnotatorNotes T1996	SO:0000704 (gene)
+T1997	SO 59381 59387	allele
+#1997	AnnotatorNotes T1997	SO:0001023 (allele)
+T1998	CHEBI 59419 59426	protein
+#1998	AnnotatorNotes T1998	CHEBI:36080 (proteins)
+T1999	SO 59461 59467	codons
+#1999	AnnotatorNotes T1999	SO:0000360 (codon)
+T2000	CHEBI 59492 59500	residues
+#2000	AnnotatorNotes T2000	CHEBI:33708 (amino-acid residue)
+T2001	SO 59492 59500	residues
+#2001	AnnotatorNotes T2001	SO:0001236 (base)
+T2002	SO 59546 59552	allele
+#2002	AnnotatorNotes T2002	SO:0001023 (allele)
+T2003	italic 59631 59640	Tbx15LacZ
+#2003	AnnotatorNotes T2003	italic (null)
+T2004	sup 59636 59640	LacZ
+#2004	AnnotatorNotes T2004	sup (null)
+T2005	italic 59641 59644	deH
+#2005	AnnotatorNotes T2005	italic (null)
+T2006	sup 59643 59644	H
+#2006	AnnotatorNotes T2006	sup (null)
+T2007	italic 59685 59688	deH
+#2007	AnnotatorNotes T2007	italic (null)
+T2008	sup 59687 59688	H
+#2008	AnnotatorNotes T2008	sup (null)
+T2009	GO_BP 59713 59726	Developmental
+#2009	AnnotatorNotes T2009	GO:0032502 (developmental process)
+T2010	GO_BP 59727 59737	Expression
+#2010	AnnotatorNotes T2010	GO:0010467 (gene expression)
+T2011	italic 59741 59746	Tbx15
+#2011	AnnotatorNotes T2011	italic (null)
+T2012	EntrezGene 59741 59746	Tbx15
+#2012	AnnotatorNotes T2012	EG:21384
+T2013	PR 59741 59746	Tbx15
+#2013	AnnotatorNotes T2013	PR:000016145 (T-box transcription factor TBX15)
+T2014	GO_BP 59807 59817	expression
+#2014	AnnotatorNotes T2014	GO:0010467 (gene expression)
+T2015	GO_BP 60146 60156	expression
+#2015	AnnotatorNotes T2015	GO:0010467 (gene expression)
+T2016	italic 60386 60391	Tbx15
+#2016	AnnotatorNotes T2016	italic (null)
+T2017	EntrezGene 60386 60391	Tbx15
+#2017	AnnotatorNotes T2017	EG:21384
+T2018	PR 60386 60391	Tbx15
+#2018	AnnotatorNotes T2018	PR:000016145 (T-box transcription factor TBX15)
+T2019	GO_BP 60395 60404	expressed
+#2019	AnnotatorNotes T2019	GO:0010467 (gene expression)
+T2020	GO_BP 60447 60456	expressed
+#2020	AnnotatorNotes T2020	GO:0010467 (gene expression)
+T2021	GO_BP 60518 60528	Expression
+#2021	AnnotatorNotes T2021	GO:0010467 (gene expression)
+T2022	italic 60532 60537	Tbx15
+#2022	AnnotatorNotes T2022	italic (null)
+T2023	PR 60532 60537	Tbx15
+#2023	AnnotatorNotes T2023	PR:000016145 (T-box transcription factor TBX15)
+T2024	EntrezGene 60532 60537	Tbx15
+#2024	AnnotatorNotes T2024	EG:21384
+T2025	italic 60550 60556	Agouti
+#2025	AnnotatorNotes T2025	italic (null)
+T2026	EntrezGene 60550 60556	Agouti
+#2026	AnnotatorNotes T2026	EG:50518
+T2027	PR 60550 60556	Agouti
+#2027	AnnotatorNotes T2027	PR:000004372 (agouti-signaling protein)
+T2028	italic 60560 60562	at
+#2028	AnnotatorNotes T2028	italic (null)
+T2029	sup 60561 60562	t
+#2029	AnnotatorNotes T2029	sup (null)
+T2030	italic 60563 60565	at
+#2030	AnnotatorNotes T2030	italic (null)
+T2031	sup 60564 60565	t
+#2031	AnnotatorNotes T2031	sup (null)
+T2032	NCBITaxon 60566 60570	Mice
+#2032	AnnotatorNotes T2032	NCBITaxon:10088 (Mus)
+T2033	italic 60582 60587	Tbx15
+#2033	AnnotatorNotes T2033	italic (null)
+T2034	EntrezGene 60582 60587	Tbx15
+#2034	AnnotatorNotes T2034	EG:21384
+T2035	PR 60582 60587	Tbx15
+#2035	AnnotatorNotes T2035	PR:000016145 (T-box transcription factor TBX15)
+T2036	italic 60599 60605	Agouti
+#2036	AnnotatorNotes T2036	italic (null)
+T2037	PR 60599 60605	Agouti
+#2037	AnnotatorNotes T2037	PR:000004372 (agouti-signaling protein)
+T2038	EntrezGene 60599 60605	Agouti
+#2038	AnnotatorNotes T2038	EG:50518
+T2039	GO_BP 60617 60627	expression
+#2039	AnnotatorNotes T2039	GO:0010467 (gene expression)
+T2040	italic 60631 60636	Tbx15
+#2040	AnnotatorNotes T2040	italic (null)
+T2041	PR 60631 60636	Tbx15
+#2041	AnnotatorNotes T2041	PR:000016145 (T-box transcription factor TBX15)
+T2042	EntrezGene 60631 60636	Tbx15
+#2042	AnnotatorNotes T2042	EG:21384
+T2043	italic 60694 60700	Agouti
+#2043	AnnotatorNotes T2043	italic (null)
+T2044	PR 60694 60700	Agouti
+#2044	AnnotatorNotes T2044	PR:000004372 (agouti-signaling protein)
+T2045	EntrezGene 60694 60700	Agouti
+#2045	AnnotatorNotes T2045	EG:50518
+T2046	GO_BP 60742 60752	expression
+#2046	AnnotatorNotes T2046	GO:0010467 (gene expression)
+T2047	SO 60762 60767	genes
+#2047	AnnotatorNotes T2047	SO:0000704 (gene)
+T2048	italic 60783 60788	Tbx15
+#2048	AnnotatorNotes T2048	italic (null)
+T2049	PR 60783 60788	Tbx15
+#2049	AnnotatorNotes T2049	PR:000016145 (T-box transcription factor TBX15)
+T2050	EntrezGene 60783 60788	Tbx15
+#2050	AnnotatorNotes T2050	EG:21384
+T2051	GO_BP 60789 60799	expression
+#2051	AnnotatorNotes T2051	GO:0010467 (gene expression)
+T2052	italic 60861 60867	Agouti
+#2052	AnnotatorNotes T2052	italic (null)
+T2053	PR 60861 60867	Agouti
+#2053	AnnotatorNotes T2053	PR:000004372 (agouti-signaling protein)
+T2054	EntrezGene 60861 60867	Agouti
+#2054	AnnotatorNotes T2054	EG:50518
+T2055	italic 60934 60939	Tbx15
+#2055	AnnotatorNotes T2055	italic (null)
+T2056	PR 60934 60939	Tbx15
+#2056	AnnotatorNotes T2056	PR:000016145 (T-box transcription factor TBX15)
+T2057	EntrezGene 60934 60939	Tbx15
+#2057	AnnotatorNotes T2057	EG:21384
+T2058	italic 60976 60982	Agouti
+#2058	AnnotatorNotes T2058	italic (null)
+T2059	PR 60976 60982	Agouti
+#2059	AnnotatorNotes T2059	PR:000004372 (agouti-signaling protein)
+T2060	EntrezGene 60976 60982	Agouti
+#2060	AnnotatorNotes T2060	EG:50518
+T2061	italic 61027 61030	deH
+#2061	AnnotatorNotes T2061	italic (null)
+T2062	sup 61029 61030	H
+#2062	AnnotatorNotes T2062	sup (null)
+T2063	italic 61034 61040	Agouti
+#2063	AnnotatorNotes T2063	italic (null)
+T2064	PR 61034 61040	Agouti
+#2064	AnnotatorNotes T2064	PR:000004372 (agouti-signaling protein)
+T2065	EntrezGene 61034 61040	Agouti
+#2065	AnnotatorNotes T2065	EG:50518
+T2066	GO_BP 61041 61051	Expression
+#2066	AnnotatorNotes T2066	GO:0010467 (gene expression)
+T2067	italic 61078 61083	at/at
+#2067	AnnotatorNotes T2067	italic (null)
+T2068	sup 61079 61080	t
+#2068	AnnotatorNotes T2068	sup (null)
+T2069	sup 61082 61083	t
+#2069	AnnotatorNotes T2069	sup (null)
+T2070	italic 61085 61088	deH
+#2070	AnnotatorNotes T2070	italic (null)
+T2071	sup 61087 61088	H
+#2071	AnnotatorNotes T2071	sup (null)
+T2072	italic 61089 61092	deH
+#2072	AnnotatorNotes T2072	italic (null)
+T2073	sup 61091 61092	H
+#2073	AnnotatorNotes T2073	sup (null)
+T2074	italic 61097 61102	at/at
+#2074	AnnotatorNotes T2074	italic (null)
+T2075	sup 61098 61099	t
+#2075	AnnotatorNotes T2075	sup (null)
+T2076	sup 61101 61102	t
+#2076	AnnotatorNotes T2076	sup (null)
+T2077	SO 61104 61105	+
+#2077	AnnotatorNotes T2077	SO:0000817 (wild_type)
+T2078	SO 61106 61107	+
+#2078	AnnotatorNotes T2078	SO:0000817 (wild_type)
+T2079	italic 61136 61139	deH
+#2079	AnnotatorNotes T2079	italic (null)
+T2080	sup 61138 61139	H
+#2080	AnnotatorNotes T2080	sup (null)
+T2081	italic 61140 61143	deH
+#2081	AnnotatorNotes T2081	italic (null)
+T2082	sup 61142 61143	H
+#2082	AnnotatorNotes T2082	sup (null)
+T2083	italic 61207 61213	Agouti
+#2083	AnnotatorNotes T2083	italic (null)
+T2084	PR 61207 61213	Agouti
+#2084	AnnotatorNotes T2084	PR:000004372 (agouti-signaling protein)
+T2085	EntrezGene 61207 61213	Agouti
+#2085	AnnotatorNotes T2085	EG:50518
+T2086	GO_BP 61214 61224	expression
+#2086	AnnotatorNotes T2086	GO:0010467 (gene expression)
+T2087	italic 61314 61320	Agouti
+#2087	AnnotatorNotes T2087	italic (null)
+T2088	EntrezGene 61314 61320	Agouti
+#2088	AnnotatorNotes T2088	EG:50518
+T2089	PR 61314 61320	Agouti
+#2089	AnnotatorNotes T2089	PR:000004372 (agouti-signaling protein)
+T2090	GO_BP 61321 61331	expression
+#2090	AnnotatorNotes T2090	GO:0010467 (gene expression)
+T2091	italic 61378 61381	deH
+#2091	AnnotatorNotes T2091	italic (null)
+T2092	sup 61380 61381	H
+#2092	AnnotatorNotes T2092	sup (null)
+T2093	italic 61382 61385	deH
+#2093	AnnotatorNotes T2093	italic (null)
+T2094	sup 61384 61385	H
+#2094	AnnotatorNotes T2094	sup (null)
+T2095	italic 61456 61462	Agouti
+#2095	AnnotatorNotes T2095	italic (null)
+T2096	PR 61456 61462	Agouti
+#2096	AnnotatorNotes T2096	PR:000004372 (agouti-signaling protein)
+T2097	EntrezGene 61456 61462	Agouti
+#2097	AnnotatorNotes T2097	EG:50518
+T2098	GO_BP 61463 61473	expression
+#2098	AnnotatorNotes T2098	GO:0010467 (gene expression)
+T2099	italic 61477 61480	deH
+#2099	AnnotatorNotes T2099	italic (null)
+T2100	sup 61479 61480	H
+#2100	AnnotatorNotes T2100	sup (null)
+T2101	italic 61481 61484	deH
+#2101	AnnotatorNotes T2101	italic (null)
+T2102	sup 61483 61484	H
+#2102	AnnotatorNotes T2102	sup (null)
+T2103	SO 61581 61587	mutant
+#2103	AnnotatorNotes T2103	SO:0001059 (sequence_alteration)
+T2104	GO_BP 61648 61671	Embryonic Establishment
+#2104	AnnotatorNotes T2104	GO:0009790 (embryonic development)
+T2105	GO_BP 61658 61703	Establishment of Dorsoventral Skin Patterning
+#2105	AnnotatorNotes T2105	"Establishment of Dorsoventral .. Patterning" GO:0009953 (dorsal/ventral pattern formation)
+T2106	italic 61763 61767	at/a
+#2106	AnnotatorNotes T2106	italic (null)
+T2107	sup 61764 61765	t
+#2107	AnnotatorNotes T2107	sup (null)
+T2108	NCBITaxon 61828 61835	animals
+#2108	AnnotatorNotes T2108	NCBITaxon:33208 (Metazoa)
+T2109	italic 61946 61947	n
+#2109	AnnotatorNotes T2109	italic (null)
+T2110	GO_BP 61953 61961	produced
+#2110	AnnotatorNotes T2110	GO:0032502 (developmental process)
+T2111	italic 61999 62000	n
+#2111	AnnotatorNotes T2111	italic (null)
+T2112	GO_BP 62006 62014	produced
+#2112	AnnotatorNotes T2112	GO:0032502 (developmental process)
+T2113	GO_BP 62053 62061	produced
+#2113	AnnotatorNotes T2113	GO:0032502 (developmental process)
+T2114	GO_MF 62158 62171	hybridization
+#2114	AnnotatorNotes T2114	GO:0000739 (DNA strand annealing activity)
+T2115	GO_MF 62158 62171	hybridization
+#2115	AnnotatorNotes T2115	GO:0033592 (RNA strand annealing activity)
+T2116	GO_BP 62239 62249	expression
+#2116	AnnotatorNotes T2116	GO:0010467 (gene expression)
+T2117	italic 62258 62264	Agouti
+#2117	AnnotatorNotes T2117	italic (null)
+T2118	PR 62258 62264	Agouti
+#2118	AnnotatorNotes T2118	PR:000004372 (agouti-signaling protein)
+T2119	EntrezGene 62258 62264	Agouti
+#2119	AnnotatorNotes T2119	EG:50518
+T2120	italic 62269 62274	Tbx15
+#2120	AnnotatorNotes T2120	italic (null)
+T2121	PR 62269 62274	Tbx15
+#2121	AnnotatorNotes T2121	PR:000016145 (T-box transcription factor TBX15)
+T2122	EntrezGene 62269 62274	Tbx15
+#2122	AnnotatorNotes T2122	EG:21384
+T2123	GO_MF 62327 62340	hybridization
+#2123	AnnotatorNotes T2123	GO:0000739 (DNA strand annealing activity)
+T2124	GO_MF 62327 62340	hybridization
+#2124	AnnotatorNotes T2124	GO:0033592 (RNA strand annealing activity)
+T2125	italic 62393 62398	at/at
+#2125	AnnotatorNotes T2125	italic (null)
+T2126	sup 62394 62395	t
+#2126	AnnotatorNotes T2126	sup (null)
+T2127	sup 62397 62398	t
+#2127	AnnotatorNotes T2127	sup (null)
+T2128	GO_BP 62399 62411	Pigmentation
+#2128	AnnotatorNotes T2128	GO:0043473 (pigmentation)
+T2129	italic 62636 62641	at/at
+#2129	AnnotatorNotes T2129	italic (null)
+T2130	sup 62637 62638	t
+#2130	AnnotatorNotes T2130	sup (null)
+T2131	sup 62640 62641	t
+#2131	AnnotatorNotes T2131	sup (null)
+T2132	italic 62645 62649	R26R
+#2132	AnnotatorNotes T2132	italic (null)
+T2133	SO 62650 62651	+
+#2133	AnnotatorNotes T2133	SO:0000817 (wild_type)
+T2134	italic 62653 62665	Tg.Hoxb6-Cre
+#2134	AnnotatorNotes T2134	italic (null)
+T2135	SO 62653 62655	Tg
+#2135	AnnotatorNotes T2135	SO:0000902 (transgene)
+T2136	PR 62656 62661	Hoxb6
+#2136	AnnotatorNotes T2136	PR:000008703 (homeobox protein Hox-B6)
+T2137	SO 62666 62667	+
+#2137	AnnotatorNotes T2137	SO:0000817 (wild_type)
+T2138	NCBITaxon 62668 62672	mice
+#2138	AnnotatorNotes T2138	NCBITaxon:10088 (Mus)
+T2139	italic 62981 62986	at/at
+#2139	AnnotatorNotes T2139	italic (null)
+T2140	sup 62982 62983	t
+#2140	AnnotatorNotes T2140	sup (null)
+T2141	sup 62985 62986	t
+#2141	AnnotatorNotes T2141	sup (null)
+T2142	GO_BP 62987 62999	pigmentation
+#2142	AnnotatorNotes T2142	GO:0043473 (pigmentation)
+T2143	GO_BP 63051 63063	pigmentation
+#2143	AnnotatorNotes T2143	GO:0043473 (pigmentation)
+T2144	italic 63070 63071	n
+#2144	AnnotatorNotes T2144	italic (null)
+T2145	italic 63109 63110	n
+#2145	AnnotatorNotes T2145	italic (null)
+T2146	italic 63148 63149	p
+#2146	AnnotatorNotes T2146	italic (null)
+T2147	italic 63159 63160	t
+#2147	AnnotatorNotes T2147	italic (null)
+T2148	SO 63173 63176	RNA
+#2148	AnnotatorNotes T2148	SO:0000356 (RNA)
+T2149	GO_MF 63185 63198	hybridization
+#2149	AnnotatorNotes T2149	GO:0000739 (DNA strand annealing activity)
+T2150	GO_MF 63185 63198	hybridization
+#2150	AnnotatorNotes T2150	GO:0033592 (RNA strand annealing activity)
+T2151	italic 63212 63217	Tbx15
+#2151	AnnotatorNotes T2151	italic (null)
+T2152	PR 63212 63217	Tbx15
+#2152	AnnotatorNotes T2152	PR:000016145 (T-box transcription factor TBX15)
+T2153	EntrezGene 63212 63217	Tbx15
+#2153	AnnotatorNotes T2153	EG:21384
+T2154	GO_BP 63218 63228	expression
+#2154	AnnotatorNotes T2154	GO:0010467 (gene expression)
+T2155	italic 63258 63261	En1
+#2155	AnnotatorNotes T2155	italic (null)
+T2156	PR 63258 63261	En1
+#2156	AnnotatorNotes T2156	PR:000007070 (homeobox protein engrailed-1)
+T2157	EntrezGene 63258 63261	En1
+#2157	AnnotatorNotes T2157	EG:13798
+T2158	GO_BP 63262 63272	expression
+#2158	AnnotatorNotes T2158	GO:0010467 (gene expression)
+T2159	GO_BP 63354 63364	expression
+#2159	AnnotatorNotes T2159	GO:0010467 (gene expression)
+T2160	SO 63384 63389	genes
+#2160	AnnotatorNotes T2160	SO:0000704 (gene)
+T2161	GO_BP 63412 63450	Acquisition of Dorsoventral Patterning
+#2161	AnnotatorNotes T2161	GO:0009953 (dorsal/ventral pattern formation)
+T2162	italic 63480 63485	Tbx15
+#2162	AnnotatorNotes T2162	italic (null)
+T2163	PR 63480 63485	Tbx15
+#2163	AnnotatorNotes T2163	PR:000016145 (T-box transcription factor TBX15)
+T2164	EntrezGene 63480 63485	Tbx15
+#2164	AnnotatorNotes T2164	EG:21384
+T2165	GO_BP 63502 63514	pigmentation
+#2165	AnnotatorNotes T2165	GO:0043473 (pigmentation)
+T2166	GO_BP 63590 63617	distribution of Agouti mRNA
+#2166	AnnotatorNotes T2166	"distribution of .. mRNA" GO:0008298 (intracellular mRNA localization)
+T2167	italic 63606 63612	Agouti
+#2167	AnnotatorNotes T2167	italic (null)
+T2168	PR 63606 63612	Agouti
+#2168	AnnotatorNotes T2168	PR:000004372 (agouti-signaling protein)
+T2169	EntrezGene 63606 63612	Agouti
+#2169	AnnotatorNotes T2169	EG:50518
+T2170	CHEBI 63613 63617	mRNA
+#2170	AnnotatorNotes T2170	CHEBI:33699 (messenger RNA)
+T2171	SO 63613 63617	mRNA
+#2171	AnnotatorNotes T2171	SO:0000234 (mRNA)
+T2172	CL 63649 63660	melanocytes
+#2172	AnnotatorNotes T2172	CL:0000148 (melanocyte)
+T2173	italic 63719 63721	ae
+#2173	AnnotatorNotes T2173	italic (null)
+T2174	sup 63720 63721	e
+#2174	AnnotatorNotes T2174	sup (null)
+T2175	italic 63722 63724	ae
+#2175	AnnotatorNotes T2175	italic (null)
+T2176	sup 63723 63724	e
+#2176	AnnotatorNotes T2176	sup (null)
+T2177	NCBITaxon 63725 63729	mice
+#2177	AnnotatorNotes T2177	NCBITaxon:10088 (Mus)
+T2178	italic 63749 63754	at/at
+#2178	AnnotatorNotes T2178	italic (null)
+T2179	sup 63750 63751	t
+#2179	AnnotatorNotes T2179	sup (null)
+T2180	sup 63753 63754	t
+#2180	AnnotatorNotes T2180	sup (null)
+T2181	NCBITaxon 63755 63759	mice
+#2181	AnnotatorNotes T2181	NCBITaxon:10088 (Mus)
+T2182	CL 63774 63784	melanocyte
+#2182	AnnotatorNotes T2182	CL:0000148 (melanocyte)
+T2183	italic 63813 63819	Agouti
+#2183	AnnotatorNotes T2183	italic (null)
+T2184	PR 63813 63819	Agouti
+#2184	AnnotatorNotes T2184	PR:000004372 (agouti-signaling protein)
+T2185	EntrezGene 63813 63819	Agouti
+#2185	AnnotatorNotes T2185	EG:50518
+T2186	CHEBI 63820 63824	mRNA
+#2186	AnnotatorNotes T2186	CHEBI:33699 (messenger RNA)
+T2187	SO 63820 63824	mRNA
+#2187	AnnotatorNotes T2187	SO:0000234 (mRNA)
+T2188	CL 63866 63876	melanocyte
+#2188	AnnotatorNotes T2188	CL:0000148 (melanocyte)
+T2189	GO_BP 63973 64001	distributions of Agouti mRNA
+#2189	AnnotatorNotes T2189	"distributions of .. mRNA" GO:0008298 (intracellular mRNA localization)
+T2190	italic 63990 63996	Agouti
+#2190	AnnotatorNotes T2190	italic (null)
+T2191	PR 63990 63996	Agouti
+#2191	AnnotatorNotes T2191	PR:000004372 (agouti-signaling protein)
+T2192	EntrezGene 63990 63996	Agouti
+#2192	AnnotatorNotes T2192	EG:50518
+T2193	CHEBI 63997 64001	mRNA
+#2193	AnnotatorNotes T2193	CHEBI:33699 (messenger RNA)
+T2194	SO 63997 64001	mRNA
+#2194	AnnotatorNotes T2194	SO:0000234 (mRNA)
+T2195	CL 64033 64044	melanocytes
+#2195	AnnotatorNotes T2195	CL:0000148 (melanocyte)
+T2196	italic 64066 64071	Tbx15
+#2196	AnnotatorNotes T2196	italic (null)
+T2197	PR 64066 64071	Tbx15
+#2197	AnnotatorNotes T2197	PR:000016145 (T-box transcription factor TBX15)
+T2198	EntrezGene 64066 64071	Tbx15
+#2198	AnnotatorNotes T2198	EG:21384
+T2199	italic 64247 64252	at/at
+#2199	AnnotatorNotes T2199	italic (null)
+T2200	sup 64248 64249	t
+#2200	AnnotatorNotes T2200	sup (null)
+T2201	sup 64251 64252	t
+#2201	AnnotatorNotes T2201	sup (null)
+T2202	NCBITaxon 64253 64257	mice
+#2202	AnnotatorNotes T2202	NCBITaxon:10088 (Mus)
+T2203	GO_BP 64475 64485	expression
+#2203	AnnotatorNotes T2203	GO:0010467 (gene expression)
+T2204	italic 64489 64494	Tbx15
+#2204	AnnotatorNotes T2204	italic (null)
+T2205	PR 64489 64494	Tbx15
+#2205	AnnotatorNotes T2205	PR:000016145 (T-box transcription factor TBX15)
+T2206	EntrezGene 64489 64494	Tbx15
+#2206	AnnotatorNotes T2206	EG:21384
+T2207	GO_BP 64526 64564	acquisition of dorsal dermis character
+#2207	AnnotatorNotes T2207	"acquisition of dorsal .. character" GO:0048263 (determination of dorsal identity)
+T2208	italic 64584 64589	Tbx15
+#2208	AnnotatorNotes T2208	italic (null)
+T2209	EntrezGene 64584 64589	Tbx15
+#2209	AnnotatorNotes T2209	EG:21384
+T2210	PR 64584 64589	Tbx15
+#2210	AnnotatorNotes T2210	PR:000016145 (T-box transcription factor TBX15)
+T2211	bold 64662 64684	Conflicts of interest.
+#2211	AnnotatorNotes T2211	bold (null)
+T2212	bold 64749 64770	Author contributions.
+#2212	AnnotatorNotes T2212	bold (null)
+T2213	CHEBI 64943 64951	reagents
+#2213	AnnotatorNotes T2213	CHEBI:33893 (reagent)

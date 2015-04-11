@@ -1,0 +1,2202 @@
+T1	SO 13 17	gene
+#1	AnnotatorNotes T1	SO:0000704 (gene)
+T2	CL 54 59	cells
+#2	AnnotatorNotes T2	CL:0000000 (cell)
+T3	GO_CC 54 59	cells
+#3	AnnotatorNotes T3	GO:0005623 (cell)
+T4	EntrezGene 159 162	p53
+#4	AnnotatorNotes T4	EG:22059
+T5	PR 159 162	p53
+#5	AnnotatorNotes T5	PR:000003035 (cellular tumor antigen p53)
+T6	GO_BP 163 173	regulation
+#6	AnnotatorNotes T6	GO:0065007 (biological regulation)
+T7	SO 187 196	mutations
+#7	AnnotatorNotes T7	SO:0001059 (sequence_alteration)
+T8	italic 204 207	p53
+#8	AnnotatorNotes T8	italic (null)
+T9	PR 204 207	p53
+#9	AnnotatorNotes T9	PR:000003035 (cellular tumor antigen p53)
+T10	EntrezGene 204 207	p53
+#10	AnnotatorNotes T10	EG:22059
+T11	SO 208 213	locus
+#11	AnnotatorNotes T11	SO:0000001 (region)
+T12	GO_BP 231 244	recombination
+#12	AnnotatorNotes T12	GO:0006310 (DNA recombination)
+T13	CL 251 256	cells
+#13	AnnotatorNotes T13	CL:0000000 (cell)
+T14	GO_CC 251 256	cells
+#14	AnnotatorNotes T14	GO:0005623 (cell)
+T15	GO_BP 260 268	generate
+#15	AnnotatorNotes T15	GO:0000003 (reproduction)
+T16	SO 269 275	mutant
+#16	AnnotatorNotes T16	SO:0001059 (sequence_alteration)
+T17	NCBITaxon 276 280	mice
+#17	AnnotatorNotes T17	NCBITaxon:10088 (Mus)
+T18	italic 385 388	p53
+#18	AnnotatorNotes T18	italic (null)
+T19	PR 385 388	p53
+#19	AnnotatorNotes T19	PR:000003035 (cellular tumor antigen p53)
+T20	EntrezGene 385 388	p53
+#20	AnnotatorNotes T20	EG:22059
+T21	SO 389 394	locus
+#21	AnnotatorNotes T21	SO:0000001 (region)
+T22	GO_MF 421 432	Recombinase
+#22	AnnotatorNotes T22	GO:0000150 (recombinase activity)
+T23	independent_continuant 421 432	Recombinase
+#23	AnnotatorNotes T23	independent_continuant
+T24	GO_MF 421 432	Recombinase
+#24	AnnotatorNotes T24	GO:0009009 (site-specific recombinase activity)
+T25	SO 442 450	Cassette
+#25	AnnotatorNotes T25	SO:0005853 (gene_cassette)
+T26	CL 522 527	cells
+#26	AnnotatorNotes T26	CL:0000000 (cell)
+T27	GO_CC 522 527	cells
+#27	AnnotatorNotes T27	GO:0005623 (cell)
+T28	GO_BP 546 556	production
+#28	AnnotatorNotes T28	GO:0000003 (reproduction)
+T29	SO 560 566	mutant
+#29	AnnotatorNotes T29	SO:0001059 (sequence_alteration)
+T30	NCBITaxon 567 571	mice
+#30	AnnotatorNotes T30	NCBITaxon:10088 (Mus)
+T31	CL 645 650	cells
+#31	AnnotatorNotes T31	CL:0000000 (cell)
+T32	GO_CC 645 650	cells
+#32	AnnotatorNotes T32	GO:0005623 (cell)
+T33	italic 734 737	p53
+#33	AnnotatorNotes T33	italic (null)
+T34	EntrezGene 734 737	p53
+#34	AnnotatorNotes T34	EG:22059
+T35	PR 734 737	p53
+#35	AnnotatorNotes T35	PR:000003035 (cellular tumor antigen p53)
+T36	SO 738 743	locus
+#36	AnnotatorNotes T36	SO:0000001 (region)
+T37	CL 779 790	fibroblasts
+#37	AnnotatorNotes T37	CL:0000057 (fibroblast)
+T38	SO 837 845	mutation
+#38	AnnotatorNotes T38	SO:0001059 (sequence_alteration)
+T39	SO 890 936	inverted heterologous recombinase target sites
+#39	AnnotatorNotes T39	"inverted .. sites" SO:0000948 (inversion_site)
+T40	SO 890 898	inverted
+#40	AnnotatorNotes T40	SO:0000047 (invert)
+T41	independent_continuant 912 923	recombinase
+#41	AnnotatorNotes T41	independent_continuant
+T42	GO_MF 912 923	recombinase
+#42	AnnotatorNotes T42	GO:0000150 (recombinase activity)
+T43	GO_MF 912 923	recombinase
+#43	AnnotatorNotes T43	GO:0009009 (site-specific recombinase activity)
+T44	CL 1018 1023	cells
+#44	AnnotatorNotes T44	CL:0000000 (cell)
+T45	GO_CC 1018 1023	cells
+#45	AnnotatorNotes T45	GO:0005623 (cell)
+T46	NCBITaxon 1042 1047	mouse
+#46	AnnotatorNotes T46	NCBITaxon:10088 (Mus)
+T47	SO 1123 1128	locus
+#47	AnnotatorNotes T47	SO:0000001 (region)
+T48	PR 1145 1148	p53
+#48	AnnotatorNotes T48	PR:000003035 (cellular tumor antigen p53)
+T49	CHEBI 1184 1192	proteins
+#49	AnnotatorNotes T49	CHEBI:36080 (proteins)
+T50	CL 1236 1241	cells
+#50	AnnotatorNotes T50	CL:0000000 (cell)
+T51	GO_CC 1236 1241	cells
+#51	AnnotatorNotes T51	GO:0005623 (cell)
+T52	GO_BP 1264 1276	transfection
+#52	AnnotatorNotes T52	GO:0009294 (DNA mediated transformation)
+T53	SO 1280 1288	plasmids
+#53	AnnotatorNotes T53	SO:0000155 (plasmid)
+T54	GO_BP 1289 1299	expressing
+#54	AnnotatorNotes T54	GO:0010467 (gene expression)
+T55	PR 1308 1311	p53
+#55	AnnotatorNotes T55	PR:000003035 (cellular tumor antigen p53)
+T56	SO 1312 1319	mutants
+#56	AnnotatorNotes T56	SO:0001060 (sequence_variant)
+T57	PR 1360 1363	p53
+#57	AnnotatorNotes T57	PR:000003035 (cellular tumor antigen p53)
+T58	GO_BP 1367 1376	regulated
+#58	AnnotatorNotes T58	GO:0065007 (biological regulation)
+T59	italic 1428 1435	in vivo
+#59	AnnotatorNotes T59	italic (null)
+T60	SO 1456 1465	mutations
+#60	AnnotatorNotes T60	SO:0001059 (sequence_alteration)
+T61	italic 1473 1476	p53
+#61	AnnotatorNotes T61	italic (null)
+T62	EntrezGene 1473 1476	p53
+#62	AnnotatorNotes T62	EG:22059
+T63	PR 1473 1476	p53
+#63	AnnotatorNotes T63	PR:000003035 (cellular tumor antigen p53)
+T64	SO 1477 1482	locus
+#64	AnnotatorNotes T64	SO:0000001 (region)
+T65	GO_BP 1500 1513	recombination
+#65	AnnotatorNotes T65	GO:0006310 (DNA recombination)
+T66	CL 1527 1542	stem (ES) cells
+#66	AnnotatorNotes T66	"stem .. cells" CL:0000034 (stem cell)
+T67	GO_CC 1537 1542	cells
+#67	AnnotatorNotes T67	GO:0005623 (cell)
+T68	GO_BP 1546 1554	generate
+#68	AnnotatorNotes T68	GO:0000003 (reproduction)
+T69	SO 1555 1561	mutant
+#69	AnnotatorNotes T69	SO:0001059 (sequence_alteration)
+T70	NCBITaxon 1562 1566	mice
+#70	AnnotatorNotes T70	NCBITaxon:10088 (Mus)
+T71	SO 1606 1615	mutations
+#71	AnnotatorNotes T71	SO:0001059 (sequence_alteration)
+T72	SO 1632 1639	genomic
+#72	AnnotatorNotes T72	SO:0001026 (genome)
+T73	GO_BP 1652 1661	expressed
+#73	AnnotatorNotes T73	GO:0010467 (gene expression)
+T74	SO 1682 1690	promoter
+#74	AnnotatorNotes T74	SO:0000167 (promoter)
+T75	GO_BP 1715 1725	expression
+#75	AnnotatorNotes T75	GO:0010467 (gene expression)
+T76	PR 1831 1834	p53
+#76	AnnotatorNotes T76	PR:000003035 (cellular tumor antigen p53)
+T77	SO 1835 1842	mutants
+#77	AnnotatorNotes T77	SO:0001059 (sequence_alteration)
+T78	independent_continuant 1835 1842	mutants
+#78	AnnotatorNotes T78	independent_continuant
+T79	italic 1843 1850	in vivo
+#79	AnnotatorNotes T79	italic (null)
+T80	GO_BP 1855 1867	transfection
+#80	AnnotatorNotes T80	GO:0009294 (DNA mediated transformation)
+T81	SO 1920 1929	mutations
+#81	AnnotatorNotes T81	SO:0001059 (sequence_alteration)
+T82	PR 2021 2024	p53
+#82	AnnotatorNotes T82	PR:000003035 (cellular tumor antigen p53)
+T83	GO_BP 2025 2035	regulation
+#83	AnnotatorNotes T83	GO:0065007 (biological regulation)
+T84	GO_BP 2064 2077	recombination
+#84	AnnotatorNotes T84	GO:0006310 (DNA recombination)
+T85	CL 2084 2089	cells
+#85	AnnotatorNotes T85	CL:0000000 (cell)
+T86	GO_CC 2084 2089	cells
+#86	AnnotatorNotes T86	GO:0005623 (cell)
+T87	GO_BP 2093 2101	generate
+#87	AnnotatorNotes T87	GO:0000003 (reproduction)
+T88	SO 2102 2108	mutant
+#88	AnnotatorNotes T88	SO:0001059 (sequence_alteration)
+T89	NCBITaxon 2109 2113	mice
+#89	AnnotatorNotes T89	NCBITaxon:10088 (Mus)
+T90	GO_BP 2182 2195	recombination
+#90	AnnotatorNotes T90	GO:0006310 (DNA recombination)
+T91	CL 2236 2241	cells
+#91	AnnotatorNotes T91	CL:0000000 (cell)
+T92	GO_CC 2236 2241	cells
+#92	AnnotatorNotes T92	GO:0005623 (cell)
+T93	SO 2345 2351	mutant
+#93	AnnotatorNotes T93	SO:0001060 (sequence_variant)
+T94	SO 2375 2383	plasmids
+#94	AnnotatorNotes T94	SO:0000155 (plasmid)
+T95	GO_BP 2467 2475	breeding
+#95	AnnotatorNotes T95	GO:0007618 (mating)
+T96	NCBITaxon 2476 2480	mice
+#96	AnnotatorNotes T96	NCBITaxon:10088 (Mus)
+T97	NCBITaxon 2511 2516	mouse
+#97	AnnotatorNotes T97	NCBITaxon:10088 (Mus)
+T98	SO 2609 2614	locus
+#98	AnnotatorNotes T98	SO:0000001 (region)
+T99	PR 2767 2770	p53
+#99	AnnotatorNotes T99	PR:000003035 (cellular tumor antigen p53)
+T100	SO 2780 2785	genes
+#100	AnnotatorNotes T100	SO:0000704 (gene)
+T101	CL 2845 2850	cells
+#101	AnnotatorNotes T101	CL:0000000 (cell)
+T102	GO_CC 2845 2850	cells
+#102	AnnotatorNotes T102	GO:0005623 (cell)
+T103	SO 2916 2920	gene
+#103	AnnotatorNotes T103	SO:0000704 (gene)
+T104	CL 2934 2945	fibroblasts
+#104	AnnotatorNotes T104	CL:0000057 (fibroblast)
+T105	SO 2990 2996	siRNAs
+#105	AnnotatorNotes T105	SO:0000646 (siRNA)
+T106	CL 3000 3011	fibroblasts
+#106	AnnotatorNotes T106	CL:0000057 (fibroblast)
+T107	SO 3060 3064	gene
+#107	AnnotatorNotes T107	SO:0000704 (gene)
+T108	NCBITaxon 3079 3086	animals
+#108	AnnotatorNotes T108	NCBITaxon:33208 (Metazoa)
+T109	SO 3134 3143	mutations
+#109	AnnotatorNotes T109	SO:0001059 (sequence_alteration)
+T110	SO 3171 3180	mutations
+#110	AnnotatorNotes T110	SO:0001059 (sequence_alteration)
+T111	GO_BP 3208 3218	expression
+#111	AnnotatorNotes T111	GO:0010467 (gene expression)
+T112	SO 3219 3226	alleles
+#112	AnnotatorNotes T112	SO:0001023 (allele)
+T113	SO 3238 3253	point mutations
+#113	AnnotatorNotes T113	SO:1000008 (point_mutation)
+T114	CL 3257 3268	fibroblasts
+#114	AnnotatorNotes T114	CL:0000057 (fibroblast)
+T115	GO_BP 3283 3296	recombination
+#115	AnnotatorNotes T115	GO:0006310 (DNA recombination)
+T116	SO 3342 3349	alleles
+#116	AnnotatorNotes T116	SO:0001023 (allele)
+T117	GO_CC 3399 3408	autosomal
+#117	AnnotatorNotes T117	GO:0030849 (autosome)
+T118	SO 3409 3418	mutations
+#118	AnnotatorNotes T118	SO:0001059 (sequence_alteration)
+T119	italic 3495 3498	p53
+#119	AnnotatorNotes T119	italic (null)
+T120	PR 3495 3498	p53
+#120	AnnotatorNotes T120	PR:000003035 (cellular tumor antigen p53)
+T121	EntrezGene 3495 3498	p53
+#121	AnnotatorNotes T121	EG:22059
+T122	SO 3499 3504	locus
+#122	AnnotatorNotes T122	SO:0000001 (region)
+T123	CL 3516 3521	cells
+#123	AnnotatorNotes T123	CL:0000000 (cell)
+T124	GO_CC 3516 3521	cells
+#124	AnnotatorNotes T124	GO:0005623 (cell)
+T125	CL 3526 3537	fibroblasts
+#125	AnnotatorNotes T125	CL:0000057 (fibroblast)
+T126	GO_MF 3539 3550	Recombinase
+#126	AnnotatorNotes T126	GO:0009009 (site-specific recombinase activity)
+T127	independent_continuant 3539 3550	Recombinase
+#127	AnnotatorNotes T127	independent_continuant
+T128	GO_MF 3539 3550	Recombinase
+#128	AnnotatorNotes T128	GO:0000150 (recombinase activity)
+T129	SO 3560 3568	Cassette
+#129	AnnotatorNotes T129	SO:0005853 (gene_cassette)
+T130	SO 3673 3677	gene
+#130	AnnotatorNotes T130	SO:0000704 (gene)
+T131	SO 3699 3707	replaced
+#131	AnnotatorNotes T131	SO:0000048 (substitute)
+T132	SO 3723 3731	cassette
+#132	AnnotatorNotes T132	SO:0005853 (gene_cassette)
+T133	SO 3732 3739	flanked
+#133	AnnotatorNotes T133	SO:0000357 (flanked)
+T134	GO_MF 3743 3754	recombinase
+#134	AnnotatorNotes T134	GO:0009009 (site-specific recombinase activity)
+T135	GO_MF 3743 3754	recombinase
+#135	AnnotatorNotes T135	GO:0000150 (recombinase activity)
+T136	independent_continuant 3743 3754	recombinase
+#136	AnnotatorNotes T136	independent_continuant
+T137	SO 3762 3767	sites
+#137	AnnotatorNotes T137	SO:0000001 (region)
+T138	SO 3774 3784	loxP sites
+#138	AnnotatorNotes T138	SO:0000346 (loxP_site)
+T139	independent_continuant 3793 3804	recombinase
+#139	AnnotatorNotes T139	independent_continuant
+T140	GO_MF 3793 3804	recombinase
+#140	AnnotatorNotes T140	GO:0000150 (recombinase activity)
+T141	GO_MF 3793 3804	recombinase
+#141	AnnotatorNotes T141	GO:0009009 (site-specific recombinase activity)
+T142	GO_BP 3809 3815	create
+#142	AnnotatorNotes T142	GO:0009058 (biosynthetic process)
+T143	SO 3819 3825	floxed
+#143	AnnotatorNotes T143	SO:0000359 (floxed)
+T144	SO 3827 3832	locus
+#144	AnnotatorNotes T144	SO:0000001 (region)
+T145	GO_BP 3854 3867	recombination
+#145	AnnotatorNotes T145	GO:0006310 (DNA recombination)
+T146	SO 3889 3897	cassette
+#146	AnnotatorNotes T146	SO:0005853 (gene_cassette)
+T147	SO 3911 3917	floxed
+#147	AnnotatorNotes T147	SO:0000359 (floxed)
+T148	SO 3918 3924	mutant
+#148	AnnotatorNotes T148	SO:0001059 (sequence_alteration)
+T149	SO 3925 3931	allele
+#149	AnnotatorNotes T149	SO:0001023 (allele)
+T150	SO 3932 3939	removes
+#150	AnnotatorNotes T150	SO:0000045 (delete)
+T151	SO 3953 3961	sequence
+#151	AnnotatorNotes T151	SO:0000001 (region)
+T152	SO 3966 3973	inserts
+#152	AnnotatorNotes T152	SO:0000046 (insert)
+T153	SO 3978 3984	mutant
+#153	AnnotatorNotes T153	SO:0001059 (sequence_alteration)
+T154	SO 3985 3989	gene
+#154	AnnotatorNotes T154	SO:0000704 (gene)
+T155	GO_BP 4082 4090	generate
+#155	AnnotatorNotes T155	GO:0000003 (reproduction)
+T156	SO 4091 4097	mutant
+#156	AnnotatorNotes T156	SO:0001059 (sequence_alteration)
+T157	NCBITaxon 4098 4102	mice
+#157	AnnotatorNotes T157	NCBITaxon:10088 (Mus)
+T158	SO 4133 4142	cassettes
+#158	AnnotatorNotes T158	SO:0005853 (gene_cassette)
+T159	SO 4157 4176	repeated loxP sites
+#159	AnnotatorNotes T159	"repeated .. sites" SO:0000726 (repeat_unit)
+T160	SO 4166 4176	loxP sites
+#160	AnnotatorNotes T160	SO:0000346 (loxP_site)
+T161	SO 4202 4211	excisions
+#161	AnnotatorNotes T161	SO:0000045 (delete)
+T162	SO 4250 4260	loxP sites
+#162	AnnotatorNotes T162	SO:0000346 (loxP_site)
+T163	SO 4276 4285	sequences
+#163	AnnotatorNotes T163	SO:0000001 (region)
+T164	GO_BP 4291 4300	generated
+#164	AnnotatorNotes T164	GO:0009058 (biosynthetic process)
+T165	SO 4337 4342	sites
+#165	AnnotatorNotes T165	SO:0000001 (region)
+T166	GO_BP 4373 4386	recombination
+#166	AnnotatorNotes T166	GO:0006310 (DNA recombination)
+T167	SO 4422 4433	replacement
+#167	AnnotatorNotes T167	SO:0000048 (substitute)
+T168	SO 4434 4442	cassette
+#168	AnnotatorNotes T168	SO:0005853 (gene_cassette)
+T169	GO_BP 4555 4613	expression of the selection marker and the endogenous gene
+#169	AnnotatorNotes T169	"expression of .. gene" GO:0010467 (gene expression)
+T170	SO 4609 4613	gene
+#170	AnnotatorNotes T170	SO:0000704 (gene)
+T171	SO 4646 4652	remove
+#171	AnnotatorNotes T171	SO:0000045 (delete)
+T172	SO 4668 4672	gene
+#172	AnnotatorNotes T172	SO:0000704 (gene)
+T173	SO 4744 4776	inverted heterologous loxP sites
+#173	AnnotatorNotes T173	"inverted .. sites" SO:0000948 (inversion_site)
+T174	SO 4744 4752	inverted
+#174	AnnotatorNotes T174	SO:0000047 (invert)
+T175	SO 4766 4776	loxP sites
+#175	AnnotatorNotes T175	SO:0000346 (loxP_site)
+T176	SO 4801 4803	nt
+#176	AnnotatorNotes T176	SO:0001236 (base)
+T177	GO_BP 4855 4865	expression
+#177	AnnotatorNotes T177	GO:0010467 (gene expression)
+T178	SO 4866 4874	cassette
+#178	AnnotatorNotes T178	SO:0005853 (gene_cassette)
+T179	SO 4998 5004	mutant
+#179	AnnotatorNotes T179	SO:0001059 (sequence_alteration)
+T180	SO 5005 5011	allele
+#180	AnnotatorNotes T180	SO:0001023 (allele)
+T181	SO 5071 5076	sites
+#181	AnnotatorNotes T181	SO:0000001 (region)
+T182	CL 5088 5092	cell
+#182	AnnotatorNotes T182	CL:0000000 (cell)
+T183	GO_CC 5088 5092	cell
+#183	AnnotatorNotes T183	GO:0005623 (cell)
+T184	SO 5111 5117	mutant
+#184	AnnotatorNotes T184	SO:0001059 (sequence_alteration)
+T185	NCBITaxon 5118 5122	mice
+#185	AnnotatorNotes T185	NCBITaxon:10088 (Mus)
+T186	GO_BP 5123 5132	generated
+#186	AnnotatorNotes T186	GO:0000003 (reproduction)
+T187	CL 5147 5152	cells
+#187	AnnotatorNotes T187	CL:0000000 (cell)
+T188	GO_CC 5147 5152	cells
+#188	AnnotatorNotes T188	GO:0005623 (cell)
+T189	SO 5201 5211	introduced
+#189	AnnotatorNotes T189	SO:0000046 (insert)
+T190	GO_MF 5374 5390	Thymidine Kinase
+#190	AnnotatorNotes T190	GO:0004797 (thymidine kinase activity)
+T191	independent_continuant 5374 5390	Thymidine Kinase
+#191	AnnotatorNotes T191	independent_continuant
+T192	CHEBI 5374 5383	Thymidine
+#192	AnnotatorNotes T192	CHEBI:17748 (thymidine)
+T193	SO 5391 5402	fusion gene
+#193	AnnotatorNotes T193	SO:0000287 (fusion_gene)
+T194	SO 5391 5397	fusion
+#194	AnnotatorNotes T194	SO:0000806 (fusion)
+T195	NCBITaxon 5474 5479	mouse
+#195	AnnotatorNotes T195	NCBITaxon:10088 (Mus)
+T196	CL 5537 5542	cells
+#196	AnnotatorNotes T196	CL:0000000 (cell)
+T197	GO_CC 5537 5542	cells
+#197	AnnotatorNotes T197	GO:0005623 (cell)
+T198	SO 5615 5647	inverted heterologous loxP sites
+#198	AnnotatorNotes T198	"inverted .. sites" SO:0000948 (inversion_site)
+T199	SO 5615 5623	inverted
+#199	AnnotatorNotes T199	SO:0000047 (invert)
+T200	SO 5637 5647	loxP sites
+#200	AnnotatorNotes T200	SO:0000346 (loxP_site)
+T201	CL 5729 5734	cells
+#201	AnnotatorNotes T201	CL:0000000 (cell)
+T202	GO_CC 5729 5734	cells
+#202	AnnotatorNotes T202	GO:0005623 (cell)
+T203	NCBITaxon 5753 5758	mouse
+#203	AnnotatorNotes T203	NCBITaxon:10088 (Mus)
+T204	SO 5870 5879	mutations
+#204	AnnotatorNotes T204	SO:0001059 (sequence_alteration)
+T205	EntrezGene 5887 5890	p53
+#205	AnnotatorNotes T205	EG:22059
+T206	PR 5887 5890	p53
+#206	AnnotatorNotes T206	PR:000003035 (cellular tumor antigen p53)
+T207	SO 5891 5896	locus
+#207	AnnotatorNotes T207	SO:0000001 (region)
+T208	CL 5903 5908	cells
+#208	AnnotatorNotes T208	CL:0000000 (cell)
+T209	GO_CC 5903 5908	cells
+#209	AnnotatorNotes T209	GO:0005623 (cell)
+T210	GO_BP 5912 5920	generate
+#210	AnnotatorNotes T210	GO:0000003 (reproduction)
+T211	SO 5921 5927	mutant
+#211	AnnotatorNotes T211	SO:0001059 (sequence_alteration)
+T212	NCBITaxon 5928 5932	mice
+#212	AnnotatorNotes T212	NCBITaxon:10088 (Mus)
+T213	CL 5995 6000	cells
+#213	AnnotatorNotes T213	CL:0000000 (cell)
+T214	GO_CC 5995 6000	cells
+#214	AnnotatorNotes T214	GO:0005623 (cell)
+T215	SO 6115 6120	locus
+#215	AnnotatorNotes T215	SO:0000001 (region)
+T216	SO 6168 6177	construct
+#216	AnnotatorNotes T216	SO:0001037 (mobile_genetic_element)
+T217	italic 6184 6187	p53
+#217	AnnotatorNotes T217	italic (null)
+T218	PR 6184 6187	p53
+#218	AnnotatorNotes T218	PR:000003035 (cellular tumor antigen p53)
+T219	EntrezGene 6184 6187	p53
+#219	AnnotatorNotes T219	EG:22059
+T220	SO 6199 6204	locus
+#220	AnnotatorNotes T220	SO:0000001 (region)
+T221	SO 6218 6225	plasmid
+#221	AnnotatorNotes T221	SO:0000155 (plasmid)
+T222	GO_BP 6226 6238	construction
+#222	AnnotatorNotes T222	GO:0009058 (biosynthetic process)
+T223	SO 6338 6345	plasmid
+#223	AnnotatorNotes T223	SO:0000155 (plasmid)
+T224	SO 6376 6386	loxP sites
+#224	AnnotatorNotes T224	SO:0000346 (loxP_site)
+T225	SO 6398 6404	mutant
+#225	AnnotatorNotes T225	SO:0001059 (sequence_alteration)
+T226	SO 6447 6455	inverted
+#226	AnnotatorNotes T226	SO:0000047 (invert)
+T227	SO 6456 6458	WT
+#227	AnnotatorNotes T227	SO:0000817 (wild_type)
+T228	SO 6459 6463	loxP
+#228	AnnotatorNotes T228	SO:0000346 (loxP_site)
+T229	SO 6470 6472	WT
+#229	AnnotatorNotes T229	SO:0000817 (wild_type)
+T230	SO 6473 6477	loxP
+#230	AnnotatorNotes T230	SO:0000346 (loxP_site)
+T231	SO 6513 6522	sequences
+#231	AnnotatorNotes T231	SO:0000001 (region)
+T232	SO 6535 6543	sequence
+#232	AnnotatorNotes T232	SO:0000001 (region)
+T233	SO 6566 6568	WT
+#233	AnnotatorNotes T233	SO:0000817 (wild_type)
+T234	SO 6569 6573	loxP
+#234	AnnotatorNotes T234	SO:0000346 (loxP_site)
+T235	SO 6616 6625	mutations
+#235	AnnotatorNotes T235	SO:0001059 (sequence_alteration)
+T236	SO 6648 6656	sequence
+#236	AnnotatorNotes T236	SO:0000001 (region)
+T237	GO_BP 6671 6680	recombine
+#237	AnnotatorNotes T237	GO:0006310 (DNA recombination)
+T238	SO 6686 6688	WT
+#238	AnnotatorNotes T238	SO:0000817 (wild_type)
+T239	SO 6689 6693	loxP
+#239	AnnotatorNotes T239	SO:0000346 (loxP_site)
+T240	CL 6730 6734	cell
+#240	AnnotatorNotes T240	CL:0000000 (cell)
+T241	GO_CC 6730 6734	cell
+#241	AnnotatorNotes T241	GO:0005623 (cell)
+T242	SO 6767 6777	loxP sites
+#242	AnnotatorNotes T242	SO:0000346 (loxP_site)
+T243	SO 6827 6831	loci
+#243	AnnotatorNotes T243	SO:0000001 (region)
+T244	CL 6839 6844	cells
+#244	AnnotatorNotes T244	CL:0000000 (cell)
+T245	GO_CC 6839 6844	cells
+#245	AnnotatorNotes T245	GO:0005623 (cell)
+T246	SO 6885 6889	loci
+#246	AnnotatorNotes T246	SO:0000001 (region)
+T247	CL 6898 6903	cells
+#247	AnnotatorNotes T247	CL:0000000 (cell)
+T248	GO_CC 6898 6903	cells
+#248	AnnotatorNotes T248	GO:0005623 (cell)
+T249	SO 6920 6927	plasmid
+#249	AnnotatorNotes T249	SO:0000155 (plasmid)
+T250	SO 6938 6946	modified
+#250	AnnotatorNotes T250	SO:0000041 (sequence_operation)
+T251	SO 6976 6980	site
+#251	AnnotatorNotes T251	SO:0000001 (region)
+T252	SO 6993 7003	LoxP sites
+#252	AnnotatorNotes T252	SO:0000346 (loxP_site)
+T253	SO 7016 7023	plasmid
+#253	AnnotatorNotes T253	SO:0000155 (plasmid)
+T254	SO 7042 7050	modified
+#254	AnnotatorNotes T254	SO:0000041 (sequence_operation)
+T255	SO 7061 7068	plasmid
+#255	AnnotatorNotes T255	SO:0000155 (plasmid)
+T256	SO 7115 7131	oligonucleotides
+#256	AnnotatorNotes T256	SO:0000696 (oligo)
+T257	SO 7150 7154	site
+#257	AnnotatorNotes T257	SO:0000001 (region)
+T258	SO 7181 7185	gene
+#258	AnnotatorNotes T258	SO:0000704 (gene)
+T259	SO 7190 7199	introduce
+#259	AnnotatorNotes T259	SO:0000046 (insert)
+T260	SO 7207 7211	site
+#260	AnnotatorNotes T260	SO:0000001 (region)
+T261	SO 7233 7237	site
+#261	AnnotatorNotes T261	SO:0000001 (region)
+T262	SO 7256 7260	gene
+#262	AnnotatorNotes T262	SO:0000704 (gene)
+T263	SO 7273 7280	plasmid
+#263	AnnotatorNotes T263	SO:0000155 (plasmid)
+T264	SO 7321 7329	fragment
+#264	AnnotatorNotes T264	SO:0000731 (fragmentary)
+T265	italic 7335 7340	Trp53
+#265	AnnotatorNotes T265	italic (null)
+T266	PR 7335 7340	Trp53
+#266	AnnotatorNotes T266	PR:000003035 (cellular tumor antigen p53)
+T267	EntrezGene 7335 7340	Trp53
+#267	AnnotatorNotes T267	EG:22059
+T268	SO 7360 7368	modified
+#268	AnnotatorNotes T268	SO:0000041 (sequence_operation)
+T269	SO 7424 7431	plasmid
+#269	AnnotatorNotes T269	SO:0000155 (plasmid)
+T270	GO_BP 7436 7444	digested
+#270	AnnotatorNotes T270	GO:0009056 (catabolic process)
+T271	SO 7458 7467	introduce
+#271	AnnotatorNotes T271	SO:0000046 (insert)
+T272	SO 7476 7480	site
+#272	AnnotatorNotes T272	SO:0000001 (region)
+T273	SO 7506 7513	plasmid
+#273	AnnotatorNotes T273	SO:0000155 (plasmid)
+T274	SO 7525 7530	exons
+#274	AnnotatorNotes T274	SO:0000147 (exon)
+T275	EntrezGene 7539 7542	p53
+#275	AnnotatorNotes T275	EG:22059
+T276	PR 7539 7542	p53
+#276	AnnotatorNotes T276	PR:000003035 (cellular tumor antigen p53)
+T277	SO 7552 7560	inserted
+#277	AnnotatorNotes T277	SO:0000046 (insert)
+T278	SO 7580 7588	fragment
+#278	AnnotatorNotes T278	SO:0000731 (fragmentary)
+T279	SO 7607 7614	plasmid
+#279	AnnotatorNotes T279	SO:0000155 (plasmid)
+T280	GO_BP 7628 7636	digested
+#280	AnnotatorNotes T280	GO:0009056 (catabolic process)
+T281	SO 7659 7667	inserted
+#281	AnnotatorNotes T281	SO:0000046 (insert)
+T282	SO 7682 7690	fragment
+#282	AnnotatorNotes T282	SO:0000731 (fragmentary)
+T283	SO 7703 7713	loxP sites
+#283	AnnotatorNotes T283	SO:0000346 (loxP_site)
+T284	GO_BP 7743 7752	digestion
+#284	AnnotatorNotes T284	GO:0009056 (catabolic process)
+T285	GO_BP 7797 7807	engineered
+#285	AnnotatorNotes T285	GO:0009058 (biosynthetic process)
+T286	SO 7810 7817	plasmid
+#286	AnnotatorNotes T286	SO:0000155 (plasmid)
+T287	SO 7833 7839	region
+#287	AnnotatorNotes T287	SO:0000001 (region)
+T288	EntrezGene 7874 7877	p53
+#288	AnnotatorNotes T288	EG:22059
+T289	PR 7874 7877	p53
+#289	AnnotatorNotes T289	PR:000003035 (cellular tumor antigen p53)
+T290	SO 7878 7882	gene
+#290	AnnotatorNotes T290	SO:0000704 (gene)
+T291	SO 7895 7899	gene
+#291	AnnotatorNotes T291	SO:0000704 (gene)
+T292	GO_BP 7943 7951	ligation
+#292	AnnotatorNotes T292	GO:0006266 (DNA ligation)
+T293	SO 7962 7970	modified
+#293	AnnotatorNotes T293	SO:0000041 (sequence_operation)
+T294	GO_BP 7975 7983	digested
+#294	AnnotatorNotes T294	GO:0009056 (catabolic process)
+T295	SO 8021 8029	fragment
+#295	AnnotatorNotes T295	SO:0000731 (fragmentary)
+T296	italic 8035 8040	Trp53
+#296	AnnotatorNotes T296	italic (null)
+T297	EntrezGene 8035 8040	Trp53
+#297	AnnotatorNotes T297	EG:22059
+T298	PR 8035 8040	Trp53
+#298	AnnotatorNotes T298	PR:000003035 (cellular tumor antigen p53)
+T299	SO 8074 8082	fragment
+#299	AnnotatorNotes T299	SO:0000731 (fragmentary)
+T300	SO 8102 8106	gene
+#300	AnnotatorNotes T300	SO:0000704 (gene)
+T301	SO 8113 8120	plasmid
+#301	AnnotatorNotes T301	SO:0000155 (plasmid)
+T302	SO 8169 8176	plasmid
+#302	AnnotatorNotes T302	SO:0000155 (plasmid)
+T303	SO 8220 8226	region
+#303	AnnotatorNotes T303	SO:0000001 (region)
+T304	EntrezGene 8241 8244	p53
+#304	AnnotatorNotes T304	EG:22059
+T305	PR 8241 8244	p53
+#305	AnnotatorNotes T305	PR:000003035 (cellular tumor antigen p53)
+T306	SO 8254 8274	repetitive sequences
+#306	AnnotatorNotes T306	SO:0000657 (repeat_region)
+T307	SO 8330 8337	deleted
+#307	AnnotatorNotes T307	SO:0000045 (delete)
+T308	SO 8343 8349	region
+#308	AnnotatorNotes T308	SO:0000001 (region)
+T309	SO 8361 8368	plasmid
+#309	AnnotatorNotes T309	SO:0000155 (plasmid)
+T310	SO 8432 8440	fragment
+#310	AnnotatorNotes T310	SO:0000731 (fragmentary)
+T311	SO 8446 8452	intron
+#311	AnnotatorNotes T311	SO:0000188 (intron)
+T312	EntrezGene 8458 8461	p53
+#312	AnnotatorNotes T312	EG:22059
+T313	PR 8458 8461	p53
+#313	AnnotatorNotes T313	PR:000003035 (cellular tumor antigen p53)
+T314	SO 8474 8482	modified
+#314	AnnotatorNotes T314	SO:0000041 (sequence_operation)
+T315	SO 8488 8495	plasmid
+#315	AnnotatorNotes T315	SO:0000155 (plasmid)
+T316	SO 8523 8532	fragments
+#316	AnnotatorNotes T316	SO:0000731 (fragmentary)
+T317	SO 8538 8546	plasmids
+#317	AnnotatorNotes T317	SO:0000155 (plasmid)
+T318	GO_BP 8594 8603	assembled
+#318	AnnotatorNotes T318	GO:0009058 (biosynthetic process)
+T319	SO 8609 8617	modified
+#319	AnnotatorNotes T319	SO:0000041 (sequence_operation)
+T320	SO 8624 8631	plasmid
+#320	AnnotatorNotes T320	SO:0000155 (plasmid)
+T321	SO 8643 8650	Plasmid
+#321	AnnotatorNotes T321	SO:0000155 (plasmid)
+T322	SO 8681 8690	construct
+#322	AnnotatorNotes T322	SO:0001037 (mobile_genetic_element)
+T323	SO 8754 8761	primers
+#323	AnnotatorNotes T323	SO:0000112 (primer)
+T324	EntrezGene 8793 8796	p53
+#324	AnnotatorNotes T324	EG:22059
+T325	PR 8793 8796	p53
+#325	AnnotatorNotes T325	PR:000003035 (cellular tumor antigen p53)
+T326	SO 8797 8813	coding sequences
+#326	AnnotatorNotes T326	SO:0000851 (CDS_region)
+T327	SO 8819 8840	exon–intron junctions
+#327	AnnotatorNotes T327	SO:0001421 (splice_junction)
+T328	SO 8819 8823	exon
+#328	AnnotatorNotes T328	SO:0000147 (exon)
+T329	SO 8824 8830	intron
+#329	AnnotatorNotes T329	SO:0000188 (intron)
+T330	SO 8849 8858	sequences
+#330	AnnotatorNotes T330	SO:0000001 (region)
+T331	SO 8877 8887	loxP sites
+#331	AnnotatorNotes T331	SO:0000346 (loxP_site)
+T332	SO 8899 8909	constructs
+#332	AnnotatorNotes T332	SO:0001037 (mobile_genetic_element)
+T333	GO_BP 8911 8917	making
+#333	AnnotatorNotes T333	GO:0009058 (biosynthetic process)
+T334	sup 8925 8928	GFP
+#334	AnnotatorNotes T334	sup (null)
+T335	sup 8936 8941	ΔPGFP
+#335	AnnotatorNotes T335	sup (null)
+T336	SO 8942 8950	plasmids
+#336	AnnotatorNotes T336	SO:0000155 (plasmid)
+T337	GO_BP 8955 8959	make
+#337	AnnotatorNotes T337	GO:0009058 (biosynthetic process)
+T338	EntrezGene 8962 8965	p53
+#338	AnnotatorNotes T338	EG:22059
+T339	PR 8962 8965	p53
+#339	AnnotatorNotes T339	PR:000003035 (cellular tumor antigen p53)
+T340	SO 8970 8976	fusion
+#340	AnnotatorNotes T340	SO:0000806 (fusion)
+T341	CHEBI 8977 8984	protein
+#341	AnnotatorNotes T341	CHEBI:36080 (proteins)
+T342	SO 9021 9029	fragment
+#342	AnnotatorNotes T342	SO:0000731 (fragmentary)
+T343	EntrezGene 9037 9040	p53
+#343	AnnotatorNotes T343	EG:22059
+T344	PR 9037 9040	p53
+#344	AnnotatorNotes T344	PR:000003035 (cellular tumor antigen p53)
+T345	SO 9041 9046	locus
+#345	AnnotatorNotes T345	SO:0000001 (region)
+T346	SO 9065 9077	part of exon
+#346	AnnotatorNotes T346	SO:0000852 (exon_region)
+T347	SO 9073 9077	exon
+#347	AnnotatorNotes T347	SO:0000147 (exon)
+T348	SO 9084 9093	sequences
+#348	AnnotatorNotes T348	SO:0000001 (region)
+T349	SO 9112 9116	gene
+#349	AnnotatorNotes T349	SO:0000704 (gene)
+T350	SO 9133 9140	mutated
+#350	AnnotatorNotes T350	SO:0000041 (sequence_operation)
+T351	SO 9153 9157	site
+#351	AnnotatorNotes T351	SO:0000001 (region)
+T352	SO 9170 9174	site
+#352	AnnotatorNotes T352	SO:0000001 (region)
+T353	SO 9184 9191	mutated
+#353	AnnotatorNotes T353	SO:0000041 (sequence_operation)
+T354	SO 9196 9211	C-terminal part
+#354	AnnotatorNotes T354	SO:0100015 (c_terminal_region)
+T355	CHEBI 9196 9197	C
+#355	AnnotatorNotes T355	CHEBI:18245 (carboxylato group)
+T356	CHEBI 9196 9197	C
+#356	AnnotatorNotes T356	CHEBI:46883 (carboxy group)
+T357	SO 9207 9227	part of the p53 gene
+#357	AnnotatorNotes T357	"part of .. gene" SO:0000831 (gene_member_region)
+T358	EntrezGene 9219 9222	p53
+#358	AnnotatorNotes T358	EG:22059
+T359	PR 9219 9222	p53
+#359	AnnotatorNotes T359	PR:000003035 (cellular tumor antigen p53)
+T360	SO 9223 9227	gene
+#360	AnnotatorNotes T360	SO:0000704 (gene)
+T361	SO 9249 9260	mutagenesis
+#361	AnnotatorNotes T361	SO:0000041 (sequence_operation)
+T362	SO 9273 9280	primers
+#362	AnnotatorNotes T362	SO:0000112 (primer)
+T363	SO 9378 9385	removed
+#363	AnnotatorNotes T363	SO:0000045 (delete)
+T364	SO 9390 9400	stop codon
+#364	AnnotatorNotes T364	SO:0000319 (stop_codon)
+T365	GO_BP 9390 9394	stop
+#365	AnnotatorNotes T365	GO:0006353 (transcription termination)
+T366	GO_BP 9390 9394	stop
+#366	AnnotatorNotes T366	GO:0006415 (translational termination)
+T367	SO 9405 9415	introduced
+#367	AnnotatorNotes T367	SO:0000046 (insert)
+T368	SO 9424 9428	site
+#368	AnnotatorNotes T368	SO:0000001 (region)
+T369	SO 9440 9447	primers
+#369	AnnotatorNotes T369	SO:0000112 (primer)
+T370	SO 9541 9551	introduced
+#370	AnnotatorNotes T370	SO:0000046 (insert)
+T371	SO 9561 9565	site
+#371	AnnotatorNotes T371	SO:0000001 (region)
+T372	SO 9583 9616	sequence from the mutated plasmid
+#372	AnnotatorNotes T372	"sequence from .. plasmid" SO:0000749 (plasmid_location)
+T373	SO 9601 9608	mutated
+#373	AnnotatorNotes T373	SO:0000041 (sequence_operation)
+T374	SO 9609 9616	plasmid
+#374	AnnotatorNotes T374	SO:0000155 (plasmid)
+T375	GO_BP 9623 9631	digested
+#375	AnnotatorNotes T375	GO:0009056 (catabolic process)
+T376	SO 9660 9666	insert
+#376	AnnotatorNotes T376	SO:0000046 (insert)
+T377	SO 9670 9675	frame
+#377	AnnotatorNotes T377	SO:0000717 (reading_frame)
+T378	SO 9680 9689	sequences
+#378	AnnotatorNotes T378	SO:0000001 (region)
+T379	SO 9710 9718	fragment
+#379	AnnotatorNotes T379	SO:0000731 (fragmentary)
+T380	SO 9722 9729	plasmid
+#380	AnnotatorNotes T380	SO:0000155 (plasmid)
+T381	SO 9770 9778	sequence
+#381	AnnotatorNotes T381	SO:0000001 (region)
+T382	EntrezGene 9787 9790	p53
+#382	AnnotatorNotes T382	EG:22059
+T383	PR 9787 9790	p53
+#383	AnnotatorNotes T383	PR:000003035 (cellular tumor antigen p53)
+T384	SO 9795 9801	fusion
+#384	AnnotatorNotes T384	SO:0000806 (fusion)
+T385	SO 9802 9810	fragment
+#385	AnnotatorNotes T385	SO:0000731 (fragmentary)
+T386	SO 9858 9865	plasmid
+#386	AnnotatorNotes T386	SO:0000155 (plasmid)
+T387	GO_BP 9898 9907	digestion
+#387	AnnotatorNotes T387	GO:0009056 (catabolic process)
+T388	sup 9929 9932	GFP
+#388	AnnotatorNotes T388	sup (null)
+T389	SO 9942 9951	construct
+#389	AnnotatorNotes T389	SO:0001037 (mobile_genetic_element)
+T390	SO 9957 9965	sequence
+#390	AnnotatorNotes T390	SO:0000001 (region)
+T391	sup 10004 10009	ΔPGFP
+#391	AnnotatorNotes T391	sup (null)
+T392	SO 10019 10028	construct
+#392	AnnotatorNotes T392	SO:0001037 (mobile_genetic_element)
+T393	GO_BP 10033 10043	engineered
+#393	AnnotatorNotes T393	GO:0009058 (biosynthetic process)
+T394	SO 10057 10099	sequences from the p53GFP exchange plasmid
+#394	AnnotatorNotes T394	"sequences from .. plasmid" SO:0000749 (plasmid_location)
+T395	sup 10079 10082	GFP
+#395	AnnotatorNotes T395	sup (null)
+T396	SO 10092 10099	plasmid
+#396	AnnotatorNotes T396	SO:0000155 (plasmid)
+T397	SO 10104 10113	sequences
+#397	AnnotatorNotes T397	SO:0000001 (region)
+T398	sup 10126 10128	ΔP
+#398	AnnotatorNotes T398	sup (null)
+T399	SO 10139 10148	construct
+#399	AnnotatorNotes T399	SO:0001037 (mobile_genetic_element)
+T400	SO 10177 10185	sequence
+#400	AnnotatorNotes T400	SO:0000001 (region)
+T401	SO 10217 10226	Sequences
+#401	AnnotatorNotes T401	SO:0000001 (region)
+T402	SO 10242 10249	primers
+#402	AnnotatorNotes T402	SO:0000112 (primer)
+T403	SO 10301 10305	gene
+#403	AnnotatorNotes T403	SO:0000704 (gene)
+T404	SO 10332 10339	plasmid
+#404	AnnotatorNotes T404	SO:0000155 (plasmid)
+T405	SO 10381 10390	sequences
+#405	AnnotatorNotes T405	SO:0000001 (region)
+T406	EntrezGene 10409 10412	p53
+#406	AnnotatorNotes T406	EG:22059
+T407	PR 10409 10412	p53
+#407	AnnotatorNotes T407	PR:000003035 (cellular tumor antigen p53)
+T408	SO 10413 10417	gene
+#408	AnnotatorNotes T408	SO:0000704 (gene)
+T409	SO 10435 10444	sequences
+#409	AnnotatorNotes T409	SO:0000001 (region)
+T410	sup 10488 10491	GFP
+#410	AnnotatorNotes T410	sup (null)
+T411	sup 10498 10503	ΔPGFP
+#411	AnnotatorNotes T411	sup (null)
+T412	SO 10504 10512	plasmids
+#412	AnnotatorNotes T412	SO:0000155 (plasmid)
+T413	SO 10559 10568	sequences
+#413	AnnotatorNotes T413	SO:0000001 (region)
+T414	sup 10590 10593	GFP
+#414	AnnotatorNotes T414	sup (null)
+T415	sup 10599 10604	ΔPGFP
+#415	AnnotatorNotes T415	sup (null)
+T416	SO 10605 10613	plasmids
+#416	AnnotatorNotes T416	SO:0000155 (plasmid)
+T417	EntrezGene 10659 10662	p53
+#417	AnnotatorNotes T417	EG:22059
+T418	PR 10659 10662	p53
+#418	AnnotatorNotes T418	PR:000003035 (cellular tumor antigen p53)
+T419	SO 10663 10669	intron
+#419	AnnotatorNotes T419	SO:0000188 (intron)
+T420	EntrezGene 10718 10721	p53
+#420	AnnotatorNotes T420	EG:22059
+T421	PR 10718 10721	p53
+#421	AnnotatorNotes T421	PR:000003035 (cellular tumor antigen p53)
+T422	SO 10722 10728	intron
+#422	AnnotatorNotes T422	SO:0000188 (intron)
+T423	sup 10751 10756	ΔPGFP
+#423	AnnotatorNotes T423	sup (null)
+T424	SO 10757 10764	plasmid
+#424	AnnotatorNotes T424	SO:0000155 (plasmid)
+T425	SO 10849 10851	WT
+#425	AnnotatorNotes T425	SO:0000817 (wild_type)
+T426	EntrezGene 10852 10855	p53
+#426	AnnotatorNotes T426	EG:22059
+T427	PR 10852 10855	p53
+#427	AnnotatorNotes T427	PR:000003035 (cellular tumor antigen p53)
+T428	SO 10856 10862	allele
+#428	AnnotatorNotes T428	SO:0001023 (allele)
+T429	GO_MF 10984 10987	Neo
+#429	AnnotatorNotes T429	GO:0008910 (kanamycin kinase activity)
+T430	independent_continuant 10984 10987	Neo
+#430	AnnotatorNotes T430	independent_continuant
+T431	EntrezGene 11002 11005	p53
+#431	AnnotatorNotes T431	EG:22059
+T432	PR 11002 11005	p53
+#432	AnnotatorNotes T432	PR:000003035 (cellular tumor antigen p53)
+T433	SO 11009 11015	allele
+#433	AnnotatorNotes T433	SO:0001023 (allele)
+T434	CL 11052 11056	Cell
+#434	AnnotatorNotes T434	CL:0000000 (cell)
+T435	GO_CC 11052 11056	Cell
+#435	AnnotatorNotes T435	GO:0005623 (cell)
+T436	CHEBI 11176 11187	l-glutamine
+#436	AnnotatorNotes T436	CHEBI:18050 (L-glutamine)
+T437	CHEBI 11192 11203	antibiotics
+#437	AnnotatorNotes T437	CHEBI:22582 (antibiotic)
+T438	CL 11218 11223	cells
+#438	AnnotatorNotes T438	CL:0000000 (cell)
+T439	GO_CC 11218 11223	cells
+#439	AnnotatorNotes T439	GO:0005623 (cell)
+T440	GO_BP 11229 11234	grown
+#440	AnnotatorNotes T440	GO:0040007 (growth)
+T441	CHEBI 11314 11325	mitomycin C
+#441	AnnotatorNotes T441	CHEBI:27504 (mitomycin C)
+T442	CHEBI 11420 11429	puromycin
+#442	AnnotatorNotes T442	CHEBI:17939 (puromycin)
+T443	SO 11504 11509	locus
+#443	AnnotatorNotes T443	SO:0000001 (region)
+T444	CL 11523 11528	cells
+#444	AnnotatorNotes T444	CL:0000000 (cell)
+T445	GO_CC 11523 11528	cells
+#445	AnnotatorNotes T445	GO:0005623 (cell)
+T446	SO 11563 11572	construct
+#446	AnnotatorNotes T446	SO:0001037 (mobile_genetic_element)
+T447	CHEBI 11599 11608	puromycin
+#447	AnnotatorNotes T447	CHEBI:17939 (puromycin)
+T448	CL 11768 11773	cells
+#448	AnnotatorNotes T448	CL:0000000 (cell)
+T449	GO_CC 11768 11773	cells
+#449	AnnotatorNotes T449	GO:0005623 (cell)
+T450	sup 11792 11793	5
+#450	AnnotatorNotes T450	sup (null)
+T451	italic 11794 11803	p53RMCE/+
+#451	AnnotatorNotes T451	italic (null)
+T452	sup 11797 11803	RMCE/+
+#452	AnnotatorNotes T452	sup (null)
+T453	CL 11807 11812	cells
+#453	AnnotatorNotes T453	CL:0000000 (cell)
+T454	GO_CC 11807 11812	cells
+#454	AnnotatorNotes T454	GO:0005623 (cell)
+T455	GO_BP 11818 11823	grown
+#455	AnnotatorNotes T455	GO:0040007 (growth)
+T456	CHEBI 11832 11841	puromycin
+#456	AnnotatorNotes T456	CHEBI:17939 (puromycin)
+T457	SO 11886 11893	plasmid
+#457	AnnotatorNotes T457	SO:0000155 (plasmid)
+T458	SO 11930 11939	construct
+#458	AnnotatorNotes T458	SO:0001037 (mobile_genetic_element)
+T459	sup 11971 11972	5
+#459	AnnotatorNotes T459	sup (null)
+T460	CL 11973 11978	cells
+#460	AnnotatorNotes T460	CL:0000000 (cell)
+T461	GO_CC 11973 11978	cells
+#461	AnnotatorNotes T461	GO:0005623 (cell)
+T462	GO_BP 12113 12118	grown
+#462	AnnotatorNotes T462	GO:0040007 (growth)
+T463	GO_BP 12141 12149	expanded
+#463	AnnotatorNotes T463	GO:0008283 (cell proliferation)
+T464	SO 12196 12199	DNA
+#464	AnnotatorNotes T464	SO:0000352 (DNA)
+T465	sup 12269 12270	6
+#465	AnnotatorNotes T465	sup (null)
+T466	italic 12271 12280	p53RMCE/−
+#466	AnnotatorNotes T466	italic (null)
+T467	sup 12274 12280	RMCE/−
+#467	AnnotatorNotes T467	sup (null)
+T468	CL 12286 12291	cells
+#468	AnnotatorNotes T468	CL:0000000 (cell)
+T469	GO_CC 12286 12291	cells
+#469	AnnotatorNotes T469	GO:0005623 (cell)
+T470	GO_BP 12297 12302	grown
+#470	AnnotatorNotes T470	GO:0040007 (growth)
+T471	CHEBI 12311 12320	puromycin
+#471	AnnotatorNotes T471	CHEBI:17939 (puromycin)
+T472	SO 12382 12391	construct
+#472	AnnotatorNotes T472	SO:0001037 (mobile_genetic_element)
+T473	GO_BP 12428 12433	grown
+#473	AnnotatorNotes T473	GO:0040007 (growth)
+T474	sup 12479 12480	5
+#474	AnnotatorNotes T474	sup (null)
+T475	CL 12481 12486	cells
+#475	AnnotatorNotes T475	CL:0000000 (cell)
+T476	GO_CC 12481 12486	cells
+#476	AnnotatorNotes T476	GO:0005623 (cell)
+T477	GO_BP 12636 12641	grown
+#477	AnnotatorNotes T477	GO:0040007 (growth)
+T478	GO_BP 12664 12672	expanded
+#478	AnnotatorNotes T478	GO:0008283 (cell proliferation)
+T479	SO 12690 12693	DNA
+#479	AnnotatorNotes T479	SO:0000352 (DNA)
+T480	CL 12720 12725	Cells
+#480	AnnotatorNotes T480	CL:0000000 (cell)
+T481	GO_CC 12720 12725	Cells
+#481	AnnotatorNotes T481	GO:0005623 (cell)
+T482	CHEBI 12772 12782	adriamycin
+#482	AnnotatorNotes T482	CHEBI:28748 (doxorubicin)
+T483	GO_BP 12789 12794	lysed
+#483	AnnotatorNotes T483	GO:0019835 (cytolysis)
+T484	CHEBI 12839 12843	Tris
+#484	AnnotatorNotes T484	CHEBI:9754 (tris)
+T485	CHEBI 12859 12863	EDTA
+#485	AnnotatorNotes T485	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T486	CHEBI 12872 12876	NaCl
+#486	AnnotatorNotes T486	CHEBI:26710 (sodium chloride)
+T487	CHEBI 12902 12906	PMSF
+#487	AnnotatorNotes T487	CHEBI:8102 (phenylmethanesulfonyl fluoride)
+T488	CHEBI 12913 12928	sodium vanadate
+#488	AnnotatorNotes T488	CHEBI:35607 (trisodium vanadate)
+T489	CHEBI 12913 12919	sodium
+#489	AnnotatorNotes T489	CHEBI:26708 (sodium)
+T490	CHEBI 12920 12928	vanadate
+#490	AnnotatorNotes T490	CHEBI:46442 (vanadate(3-))
+T491	CHEBI 12936 12939	NaF
+#491	AnnotatorNotes T491	CHEBI:28741 (sodium fluoride)
+T492	CHEBI 12958 12977	Protease Inhibitors
+#492	AnnotatorNotes T492	CHEBI:37670 (protease inhibitor)
+T493	independent_continuant 12958 12977	Protease Inhibitors
+#493	AnnotatorNotes T493	independent_continuant
+T494	GO_MF 12958 12977	Protease Inhibitors
+#494	AnnotatorNotes T494	GO:0030414 (protease inhibitor activity)
+T495	GO_MF 12958 12966	Protease
+#495	AnnotatorNotes T495	GO:0008233 (peptidase activity)
+T496	independent_continuant 12958 12966	Protease
+#496	AnnotatorNotes T496	independent_continuant
+T497	italic 13058 13059	g
+#497	AnnotatorNotes T497	italic (null)
+T498	CHEBI 13079 13086	Protein
+#498	AnnotatorNotes T498	CHEBI:36080 (proteins)
+T499	CHEBI 13156 13163	protein
+#499	AnnotatorNotes T499	CHEBI:36080 (proteins)
+T500	CHEBI 13215 13218	SDS
+#500	AnnotatorNotes T500	CHEBI:8984 (sodium dodecyl sulfate)
+T501	CHEBI 13387 13391	Tris
+#501	AnnotatorNotes T501	CHEBI:9754 (tris)
+T502	CHEBI 13407 13411	NaCl
+#502	AnnotatorNotes T502	CHEBI:26710 (sodium chloride)
+T503	GO_CC 13483 13493	antibodies
+#503	AnnotatorNotes T503	GO:0019814 (immunoglobulin complex)
+T504	PR 13502 13505	p53
+#504	AnnotatorNotes T504	PR:000003035 (cellular tumor antigen p53)
+T505	GO_CC 13555 13565	antibodies
+#505	AnnotatorNotes T505	GO:0019814 (immunoglobulin complex)
+T506	GO_MF 13579 13589	peroxidase
+#506	AnnotatorNotes T506	GO:0004601 (peroxidase activity)
+T507	independent_continuant 13579 13589	peroxidase
+#507	AnnotatorNotes T507	independent_continuant
+T508	GO_BP 13590 13600	conjugated
+#508	AnnotatorNotes T508	GO:0043412 (biopolymer modification)
+T509	NCBITaxon 13601 13605	goat
+#509	AnnotatorNotes T509	NCBITaxon:9925 (Capra hircus)
+T510	NCBITaxon 13611 13616	mouse
+#510	AnnotatorNotes T510	NCBITaxon:10088 (Mus)
+T511	NCBITaxon 13630 13636	rabbit
+#511	AnnotatorNotes T511	NCBITaxon:9986 (Oryctolagus cuniculus)
+T512	CL 13795 13800	cells
+#512	AnnotatorNotes T512	CL:0000000 (cell)
+T513	GO_CC 13795 13800	cells
+#513	AnnotatorNotes T513	GO:0005623 (cell)
+T514	CL 13896 13901	Cells
+#514	AnnotatorNotes T514	CL:0000000 (cell)
+T515	GO_CC 13896 13901	Cells
+#515	AnnotatorNotes T515	GO:0005623 (cell)
+T516	CHEBI 13966 13973	ethanol
+#516	AnnotatorNotes T516	CHEBI:16236 (ethanol)
+T517	CHEBI 13995 13999	FITC
+#517	AnnotatorNotes T517	CHEBI:37926 (fluorescein isothiocyanate)
+T518	CHEBI 14024 14030	iodide
+#518	AnnotatorNotes T518	CHEBI:16382 (iodide)
+T519	CHEBI 14024 14030	iodide
+#519	AnnotatorNotes T519	CHEBI:24858 (iodide salts)
+T520	GO_BP 14248 14258	generating
+#520	AnnotatorNotes T520	GO:0009058 (biosynthetic process)
+T521	SO 14261 14267	floxed
+#521	AnnotatorNotes T521	SO:0000359 (floxed)
+T522	SO 14268 14274	allele
+#522	AnnotatorNotes T522	SO:0001023 (allele)
+T523	CL 14281 14286	cells
+#523	AnnotatorNotes T523	CL:0000000 (cell)
+T524	GO_CC 14281 14286	cells
+#524	AnnotatorNotes T524	GO:0005623 (cell)
+T525	CL 14360 14364	cell
+#525	AnnotatorNotes T525	CL:0000000 (cell)
+T526	GO_CC 14360 14364	cell
+#526	AnnotatorNotes T526	GO:0005623 (cell)
+T527	CHEBI 14467 14476	puromycin
+#527	AnnotatorNotes T527	CHEBI:17939 (puromycin)
+T528	CL 14597 14602	cells
+#528	AnnotatorNotes T528	CL:0000000 (cell)
+T529	GO_CC 14597 14602	cells
+#529	AnnotatorNotes T529	GO:0005623 (cell)
+T530	SO 14612 14623	replacement
+#530	AnnotatorNotes T530	SO:0000048 (substitute)
+T531	SO 14624 14633	construct
+#531	AnnotatorNotes T531	SO:0001037 (mobile_genetic_element)
+T532	EntrezGene 14643 14646	p53
+#532	AnnotatorNotes T532	EG:22059
+T533	PR 14643 14646	p53
+#533	AnnotatorNotes T533	PR:000003035 (cellular tumor antigen p53)
+T534	sup 14664 14667	GFP
+#534	AnnotatorNotes T534	sup (null)
+T535	EntrezGene 14688 14691	p53
+#535	AnnotatorNotes T535	EG:22059
+T536	PR 14688 14691	p53
+#536	AnnotatorNotes T536	PR:000003035 (cellular tumor antigen p53)
+T537	CL 14711 14716	cells
+#537	AnnotatorNotes T537	CL:0000000 (cell)
+T538	GO_CC 14711 14716	cells
+#538	AnnotatorNotes T538	GO:0005623 (cell)
+T539	CL 14779 14784	cells
+#539	AnnotatorNotes T539	CL:0000000 (cell)
+T540	GO_CC 14779 14784	cells
+#540	AnnotatorNotes T540	GO:0005623 (cell)
+T541	CL 14949 14953	cell
+#541	AnnotatorNotes T541	CL:0000000 (cell)
+T542	GO_CC 14949 14953	cell
+#542	AnnotatorNotes T542	GO:0005623 (cell)
+T543	CHEBI 14988 14994	fluoro
+#543	AnnotatorNotes T543	CHEBI:42645 (fluoro group)
+T544	CHEBI 15020 15032	5-iodouracil
+#544	AnnotatorNotes T544	CHEBI:43636 (5-iodouracil)
+T545	GO_MF 15047 15049	TK
+#545	AnnotatorNotes T545	GO:0004797 (thymidine kinase activity)
+T546	independent_continuant 15047 15049	TK
+#546	AnnotatorNotes T546	independent_continuant
+T547	SO 15074 15077	DNA
+#547	AnnotatorNotes T547	SO:0000352 (DNA)
+T548	italic 15306 15314	p53+/GFP
+#548	AnnotatorNotes T548	italic (null)
+T549	EntrezGene 15306 15309	p53
+#549	AnnotatorNotes T549	EG:22059
+T550	PR 15306 15309	p53
+#550	AnnotatorNotes T550	PR:000003035 (cellular tumor antigen p53)
+T551	sup 15309 15314	+/GFP
+#551	AnnotatorNotes T551	sup (null)
+T552	GO_CC 15363 15371	antibody
+#552	AnnotatorNotes T552	GO:0019814 (immunoglobulin complex)
+T553	PR 15380 15383	p53
+#553	AnnotatorNotes T553	PR:000003035 (cellular tumor antigen p53)
+T554	GO_BP 15398 15405	express
+#554	AnnotatorNotes T554	GO:0010467 (gene expression)
+T555	EntrezGene 15495 15498	p53
+#555	AnnotatorNotes T555	EG:22059
+T556	PR 15495 15498	p53
+#556	AnnotatorNotes T556	PR:000003035 (cellular tumor antigen p53)
+T557	EntrezGene 15518 15521	p53
+#557	AnnotatorNotes T557	EG:22059
+T558	PR 15518 15521	p53
+#558	AnnotatorNotes T558	PR:000003035 (cellular tumor antigen p53)
+T559	sup 15559 15562	GFP
+#559	AnnotatorNotes T559	sup (null)
+T560	SO 15594 15603	wild-type
+#560	AnnotatorNotes T560	SO:0000817 (wild_type)
+T561	EntrezGene 15604 15607	p53
+#561	AnnotatorNotes T561	EG:22059
+T562	PR 15604 15607	p53
+#562	AnnotatorNotes T562	PR:000003035 (cellular tumor antigen p53)
+T563	sup 15612 15614	WT
+#563	AnnotatorNotes T563	sup (null)
+T564	CL 15630 15635	cells
+#564	AnnotatorNotes T564	CL:0000000 (cell)
+T565	GO_CC 15630 15635	cells
+#565	AnnotatorNotes T565	GO:0005623 (cell)
+T566	SO 15674 15677	DNA
+#566	AnnotatorNotes T566	SO:0000352 (DNA)
+T567	sup 15717 15719	WT
+#567	AnnotatorNotes T567	sup (null)
+T568	sup 15727 15730	GFP
+#568	AnnotatorNotes T568	sup (null)
+T569	CHEBI 15750 15760	adriamycin
+#569	AnnotatorNotes T569	CHEBI:28748 (doxorubicin)
+T570	italic 15801 15809	p53+/GFP
+#570	AnnotatorNotes T570	italic (null)
+T571	EntrezGene 15801 15804	p53
+#571	AnnotatorNotes T571	EG:22059
+T572	PR 15801 15804	p53
+#572	AnnotatorNotes T572	PR:000003035 (cellular tumor antigen p53)
+T573	sup 15804 15809	+/GFP
+#573	AnnotatorNotes T573	sup (null)
+T574	SO 15804 15805	+
+#574	AnnotatorNotes T574	SO:0000817 (wild_type)
+T575	GO_BP 15874 15882	pregnant
+#575	AnnotatorNotes T575	GO:0007565 (female pregnancy)
+T576	GO_BP 15933 15944	pregnancies
+#576	AnnotatorNotes T576	GO:0007565 (female pregnancy)
+T577	PR 15987 15990	p53
+#577	AnnotatorNotes T577	PR:000003035 (cellular tumor antigen p53)
+T578	GO_BP 16002 16011	regulated
+#578	AnnotatorNotes T578	GO:0065007 (biological regulation)
+T579	CL 16047 16052	cells
+#579	AnnotatorNotes T579	CL:0000000 (cell)
+T580	GO_CC 16047 16052	cells
+#580	AnnotatorNotes T580	GO:0005623 (cell)
+T581	CL 16057 16062	cells
+#581	AnnotatorNotes T581	CL:0000000 (cell)
+T582	GO_CC 16057 16062	cells
+#582	AnnotatorNotes T582	GO:0005623 (cell)
+T583	PR 16087 16090	p53
+#583	AnnotatorNotes T583	PR:000003035 (cellular tumor antigen p53)
+T584	PR 16111 16114	p53
+#584	AnnotatorNotes T584	PR:000003035 (cellular tumor antigen p53)
+T585	GO_BP 16124 16144	DNA damage responses
+#585	AnnotatorNotes T585	GO:0006974 (response to DNA damage stimulus)
+T586	SO 16124 16127	DNA
+#586	AnnotatorNotes T586	SO:0000352 (DNA)
+T587	CL 16162 16167	cells
+#587	AnnotatorNotes T587	CL:0000000 (cell)
+T588	GO_CC 16162 16167	cells
+#588	AnnotatorNotes T588	GO:0005623 (cell)
+T589	EntrezGene 16215 16218	p53
+#589	AnnotatorNotes T589	EG:22059
+T590	PR 16215 16218	p53
+#590	AnnotatorNotes T590	PR:000003035 (cellular tumor antigen p53)
+T591	NCBITaxon 16242 16247	mouse
+#591	AnnotatorNotes T591	NCBITaxon:10088 (Mus)
+T592	GO_BP 16248 16261	embryogenesis
+#592	AnnotatorNotes T592	GO:0009790 (embryonic development)
+T593	GO_BP 16318 16329	pregnancies
+#593	AnnotatorNotes T593	GO:0007565 (female pregnancy)
+T594	sup 16371 16374	GFP
+#594	AnnotatorNotes T594	sup (null)
+T595	CL 16385 16390	cells
+#595	AnnotatorNotes T595	CL:0000000 (cell)
+T596	GO_CC 16385 16390	cells
+#596	AnnotatorNotes T596	GO:0005623 (cell)
+T597	GO_BP 16445 16466	embryonic development
+#597	AnnotatorNotes T597	GO:0009790 (embryonic development)
+T598	CL 16478 16483	cells
+#598	AnnotatorNotes T598	CL:0000000 (cell)
+T599	GO_CC 16478 16483	cells
+#599	AnnotatorNotes T599	GO:0005623 (cell)
+T600	GO_BP 16493 16506	differentiate
+#600	AnnotatorNotes T600	GO:0030154 (cell differentiation)
+T601	EntrezGene 16515 16518	p53
+#601	AnnotatorNotes T601	EG:22059
+T602	PR 16515 16518	p53
+#602	AnnotatorNotes T602	PR:000003035 (cellular tumor antigen p53)
+T603	EntrezGene 16598 16601	p53
+#603	AnnotatorNotes T603	EG:22059
+T604	PR 16598 16601	p53
+#604	AnnotatorNotes T604	PR:000003035 (cellular tumor antigen p53)
+T605	SO 16602 16613	fusion gene
+#605	AnnotatorNotes T605	SO:0000287 (fusion_gene)
+T606	SO 16602 16608	fusion
+#606	AnnotatorNotes T606	SO:0000806 (fusion)
+T607	EntrezGene 16627 16630	p53
+#607	AnnotatorNotes T607	EG:22059
+T608	PR 16627 16630	p53
+#608	AnnotatorNotes T608	PR:000003035 (cellular tumor antigen p53)
+T609	CHEBI 16631 16638	proline
+#609	AnnotatorNotes T609	CHEBI:32874 (proline residue)
+T610	SO 16631 16638	proline
+#610	AnnotatorNotes T610	SO:0001439 (proline)
+T611	SO 16644 16650	domain
+#611	AnnotatorNotes T611	SO:0000417 (polypeptide_domain)
+T612	SO 16661 16668	deleted
+#612	AnnotatorNotes T612	SO:0000045 (delete)
+T613	sup 16673 16675	ΔP
+#613	AnnotatorNotes T613	sup (null)
+T614	sup 16689 16691	ΔP
+#614	AnnotatorNotes T614	sup (null)
+T615	SO 16723 16729	mutant
+#615	AnnotatorNotes T615	SO:0001060 (sequence_variant)
+T616	SO 16738 16746	deleting
+#616	AnnotatorNotes T616	SO:0000045 (delete)
+T617	CHEBI 16751 16758	proline
+#617	AnnotatorNotes T617	CHEBI:32874 (proline residue)
+T618	SO 16751 16758	proline
+#618	AnnotatorNotes T618	SO:0001439 (proline)
+T619	SO 16764 16770	domain
+#619	AnnotatorNotes T619	SO:0000417 (polypeptide_domain)
+T620	GO_BP 16807 16827	DNA-damage responses
+#620	AnnotatorNotes T620	GO:0006974 (response to DNA damage stimulus)
+T621	SO 16807 16810	DNA
+#621	AnnotatorNotes T621	SO:0000352 (DNA)
+T622	italic 16828 16835	in vivo
+#622	AnnotatorNotes T622	italic (null)
+T623	SO 16887 16893	mutant
+#623	AnnotatorNotes T623	SO:0001060 (sequence_variant)
+T624	GO_BP 16913 16934	embryonic development
+#624	AnnotatorNotes T624	GO:0009790 (embryonic development)
+T625	sup 16951 16956	ΔPGFP
+#625	AnnotatorNotes T625	sup (null)
+T626	SO 16957 16968	replacement
+#626	AnnotatorNotes T626	SO:0000048 (substitute)
+T627	SO 16969 16976	plasmid
+#627	AnnotatorNotes T627	SO:0000155 (plasmid)
+T628	CHEBI 17065 17074	molecular
+#628	AnnotatorNotes T628	CHEBI:23367 (molecular entity)
+T629	italic 17090 17100	p53+/ΔPGFP
+#629	AnnotatorNotes T629	italic (null)
+T630	EntrezGene 17090 17093	p53
+#630	AnnotatorNotes T630	EG:22059
+T631	PR 17090 17093	p53
+#631	AnnotatorNotes T631	PR:000003035 (cellular tumor antigen p53)
+T632	sup 17093 17100	+/ΔPGFP
+#632	AnnotatorNotes T632	sup (null)
+T633	SO 17093 17094	+
+#633	AnnotatorNotes T633	SO:0000817 (wild_type)
+T634	CL 17104 17109	cells
+#634	AnnotatorNotes T634	CL:0000000 (cell)
+T635	GO_CC 17104 17109	cells
+#635	AnnotatorNotes T635	GO:0005623 (cell)
+T636	SO 17144 17152	deletion
+#636	AnnotatorNotes T636	SO:0000159 (deletion)
+T637	GO_BP 17175 17185	expression
+#637	AnnotatorNotes T637	GO:0010467 (gene expression)
+T638	sup 17197 17202	ΔPGFP
+#638	AnnotatorNotes T638	sup (null)
+T639	sup 17234 17236	WT
+#639	AnnotatorNotes T639	sup (null)
+T640	italic 17244 17254	p53+/ΔPGFP
+#640	AnnotatorNotes T640	italic (null)
+T641	EntrezGene 17244 17247	p53
+#641	AnnotatorNotes T641	EG:22059
+T642	PR 17244 17247	p53
+#642	AnnotatorNotes T642	PR:000003035 (cellular tumor antigen p53)
+T643	sup 17247 17254	+/ΔPGFP
+#643	AnnotatorNotes T643	sup (null)
+T644	SO 17247 17248	+
+#644	AnnotatorNotes T644	SO:0000817 (wild_type)
+T645	italic 17302 17312	p53+/ΔPGFP
+#645	AnnotatorNotes T645	italic (null)
+T646	EntrezGene 17302 17305	p53
+#646	AnnotatorNotes T646	EG:22059
+T647	PR 17302 17305	p53
+#647	AnnotatorNotes T647	PR:000003035 (cellular tumor antigen p53)
+T648	sup 17305 17312	+/ΔPGFP
+#648	AnnotatorNotes T648	sup (null)
+T649	SO 17305 17306	+
+#649	AnnotatorNotes T649	SO:0000817 (wild_type)
+T650	CL 17316 17321	cells
+#650	AnnotatorNotes T650	CL:0000000 (cell)
+T651	GO_CC 17316 17321	cells
+#651	AnnotatorNotes T651	GO:0005623 (cell)
+T652	GO_BP 17328 17336	generate
+#652	AnnotatorNotes T652	GO:0000003 (reproduction)
+T653	NCBITaxon 17346 17350	mice
+#653	AnnotatorNotes T653	NCBITaxon:10088 (Mus)
+T654	SO 17368 17376	modified
+#654	AnnotatorNotes T654	SO:0000041 (sequence_operation)
+T655	SO 17377 17383	allele
+#655	AnnotatorNotes T655	SO:0001023 (allele)
+T656	italic 17410 17420	p53+/ΔPGFP
+#656	AnnotatorNotes T656	italic (null)
+T657	EntrezGene 17410 17413	p53
+#657	AnnotatorNotes T657	EG:22059
+T658	PR 17410 17413	p53
+#658	AnnotatorNotes T658	PR:000003035 (cellular tumor antigen p53)
+T659	sup 17413 17420	+/ΔPGFP
+#659	AnnotatorNotes T659	sup (null)
+T660	SO 17413 17414	+
+#660	AnnotatorNotes T660	SO:0000817 (wild_type)
+T661	CL 17424 17428	cell
+#661	AnnotatorNotes T661	CL:0000000 (cell)
+T662	GO_CC 17424 17428	cell
+#662	AnnotatorNotes T662	GO:0005623 (cell)
+T663	NCBITaxon 17494 17498	mice
+#663	AnnotatorNotes T663	NCBITaxon:10088 (Mus)
+T664	GO_BP 17556 17562	mating
+#664	AnnotatorNotes T664	GO:0007618 (mating)
+T665	SO 17581 17583	WT
+#665	AnnotatorNotes T665	SO:0000817 (wild_type)
+T666	NCBITaxon 17584 17588	mice
+#666	AnnotatorNotes T666	NCBITaxon:10088 (Mus)
+T667	CL 17671 17676	cells
+#667	AnnotatorNotes T667	CL:0000000 (cell)
+T668	GO_CC 17671 17676	cells
+#668	AnnotatorNotes T668	GO:0005623 (cell)
+T669	SO 17724 17732	mutation
+#669	AnnotatorNotes T669	SO:0001059 (sequence_alteration)
+T670	SO 17827 17836	mutations
+#670	AnnotatorNotes T670	SO:0001059 (sequence_alteration)
+T671	italic 17844 17847	p53
+#671	AnnotatorNotes T671	italic (null)
+T672	PR 17844 17847	p53
+#672	AnnotatorNotes T672	PR:000003035 (cellular tumor antigen p53)
+T673	EntrezGene 17844 17847	p53
+#673	AnnotatorNotes T673	EG:22059
+T674	SO 17848 17854	allele
+#674	AnnotatorNotes T674	SO:0001023 (allele)
+T675	CL 17866 17871	cells
+#675	AnnotatorNotes T675	CL:0000000 (cell)
+T676	GO_CC 17866 17871	cells
+#676	AnnotatorNotes T676	GO:0005623 (cell)
+T677	italic 17930 17933	p53
+#677	AnnotatorNotes T677	italic (null)
+T678	PR 17930 17933	p53
+#678	AnnotatorNotes T678	PR:000003035 (cellular tumor antigen p53)
+T679	EntrezGene 17930 17933	p53
+#679	AnnotatorNotes T679	EG:22059
+T680	SO 17934 17939	locus
+#680	AnnotatorNotes T680	SO:0000001 (region)
+T681	italic 17941 17948	p53RMCE
+#681	AnnotatorNotes T681	italic (null)
+T682	sup 17944 17948	RMCE
+#682	AnnotatorNotes T682	sup (null)
+T683	GO_BP 17995 18001	mating
+#683	AnnotatorNotes T683	GO:0007618 (mating)
+T684	italic 18002 18011	p53RMCE/+
+#684	AnnotatorNotes T684	italic (null)
+T685	sup 18005 18011	RMCE/+
+#685	AnnotatorNotes T685	sup (null)
+T686	SO 18010 18011	+
+#686	AnnotatorNotes T686	SO:0000817 (wild_type)
+T687	italic 18026 18032	p53+/−
+#687	AnnotatorNotes T687	italic (null)
+T688	EntrezGene 18026 18029	p53
+#688	AnnotatorNotes T688	EG:22059
+T689	PR 18026 18029	p53
+#689	AnnotatorNotes T689	PR:000003035 (cellular tumor antigen p53)
+T690	sup 18029 18032	+/−
+#690	AnnotatorNotes T690	sup (null)
+T691	SO 18029 18030	+
+#691	AnnotatorNotes T691	SO:0000817 (wild_type)
+T692	NCBITaxon 18033 18037	mice
+#692	AnnotatorNotes T692	NCBITaxon:10088 (Mus)
+T693	GO_BP 18087 18095	generate
+#693	AnnotatorNotes T693	GO:0032502 (developmental process)
+T694	italic 18096 18105	p53RMCE/−
+#694	AnnotatorNotes T694	italic (null)
+T695	sup 18099 18105	RMCE/−
+#695	AnnotatorNotes T695	sup (null)
+T696	italic 18148 18151	p53
+#696	AnnotatorNotes T696	italic (null)
+T697	EntrezGene 18148 18151	p53
+#697	AnnotatorNotes T697	EG:22059
+T698	PR 18148 18151	p53
+#698	AnnotatorNotes T698	PR:000003035 (cellular tumor antigen p53)
+T699	SO 18152 18157	locus
+#699	AnnotatorNotes T699	SO:0000001 (region)
+T700	CL 18169 18174	cells
+#700	AnnotatorNotes T700	CL:0000000 (cell)
+T701	GO_CC 18169 18174	cells
+#701	AnnotatorNotes T701	GO:0005623 (cell)
+T702	italic 18227 18236	p53RMCE/−
+#702	AnnotatorNotes T702	italic (null)
+T703	sup 18230 18236	RMCE/−
+#703	AnnotatorNotes T703	sup (null)
+T704	GO_BP 18253 18263	expression
+#704	AnnotatorNotes T704	GO:0010467 (gene expression)
+T705	SO 18264 18271	plasmid
+#705	AnnotatorNotes T705	SO:0000155 (plasmid)
+T706	sup 18283 18286	GFP
+#706	AnnotatorNotes T706	sup (null)
+T707	SO 18287 18294	plasmid
+#707	AnnotatorNotes T707	SO:0000155 (plasmid)
+T708	SO 18384 18390	allele
+#708	AnnotatorNotes T708	SO:0001023 (allele)
+T709	sup 18438 18441	GFP
+#709	AnnotatorNotes T709	sup (null)
+T710	CL 18448 18453	cells
+#710	AnnotatorNotes T710	CL:0000000 (cell)
+T711	GO_CC 18448 18453	cells
+#711	AnnotatorNotes T711	GO:0005623 (cell)
+T712	sup 18469 18472	GFP
+#712	AnnotatorNotes T712	sup (null)
+T713	GO_BP 18476 18485	expressed
+#713	AnnotatorNotes T713	GO:0010467 (gene expression)
+T714	EntrezGene 18543 18546	p53
+#714	AnnotatorNotes T714	EG:22059
+T715	PR 18543 18546	p53
+#715	AnnotatorNotes T715	PR:000003035 (cellular tumor antigen p53)
+T716	CL 18616 18621	cells
+#716	AnnotatorNotes T716	CL:0000000 (cell)
+T717	GO_CC 18616 18621	cells
+#717	AnnotatorNotes T717	GO:0005623 (cell)
+T718	sup 18677 18680	GFP
+#718	AnnotatorNotes T718	sup (null)
+T719	CL 18706 18711	cells
+#719	AnnotatorNotes T719	CL:0000000 (cell)
+T720	GO_CC 18706 18711	cells
+#720	AnnotatorNotes T720	GO:0005623 (cell)
+T721	CHEBI 18716 18721	toxic
+#721	AnnotatorNotes T721	CHEBI:27026 (toxin)
+T722	GO_BP 18784 18795	proliferate
+#722	AnnotatorNotes T722	GO:0008283 (cell proliferation)
+T723	italic 18823 18832	p53RMCE/−
+#723	AnnotatorNotes T723	italic (null)
+T724	sup 18826 18832	RMCE/−
+#724	AnnotatorNotes T724	sup (null)
+T725	sup 18870 18873	GFP
+#725	AnnotatorNotes T725	sup (null)
+T726	SO 18874 18885	replacement
+#726	AnnotatorNotes T726	SO:0000048 (substitute)
+T727	SO 18886 18895	construct
+#727	AnnotatorNotes T727	SO:0001037 (mobile_genetic_element)
+T728	GO_BP 18918 18928	expression
+#728	AnnotatorNotes T728	GO:0010467 (gene expression)
+T729	SO 18929 18936	plasmid
+#729	AnnotatorNotes T729	SO:0000155 (plasmid)
+T730	CL 19074 19079	cells
+#730	AnnotatorNotes T730	CL:0000000 (cell)
+T731	GO_CC 19074 19079	cells
+#731	AnnotatorNotes T731	GO:0005623 (cell)
+T732	GO_BP 19116 19127	proliferate
+#732	AnnotatorNotes T732	GO:0008283 (cell proliferation)
+T733	sup 19220 19223	GFP
+#733	AnnotatorNotes T733	sup (null)
+T734	CL 19255 19260	cells
+#734	AnnotatorNotes T734	CL:0000000 (cell)
+T735	GO_CC 19255 19260	cells
+#735	AnnotatorNotes T735	GO:0005623 (cell)
+T736	GO_BP 19279 19289	expression
+#736	AnnotatorNotes T736	GO:0010467 (gene expression)
+T737	SO 19290 19297	plasmid
+#737	AnnotatorNotes T737	SO:0000155 (plasmid)
+T738	CL 19342 19347	cells
+#738	AnnotatorNotes T738	CL:0000000 (cell)
+T739	GO_CC 19342 19347	cells
+#739	AnnotatorNotes T739	GO:0005623 (cell)
+T740	CL 19402 19407	cells
+#740	AnnotatorNotes T740	CL:0000000 (cell)
+T741	GO_CC 19402 19407	cells
+#741	AnnotatorNotes T741	GO:0005623 (cell)
+T742	GO_BP 19454 19463	senescent
+#742	AnnotatorNotes T742	GO:0007569 (cell aging)
+T743	CL 19464 19469	cells
+#743	AnnotatorNotes T743	CL:0000000 (cell)
+T744	GO_CC 19464 19469	cells
+#744	AnnotatorNotes T744	GO:0005623 (cell)
+T745	CL 19531 19536	cells
+#745	AnnotatorNotes T745	CL:0000000 (cell)
+T746	GO_CC 19531 19536	cells
+#746	AnnotatorNotes T746	GO:0005623 (cell)
+T747	sup 19613 19616	GFP
+#747	AnnotatorNotes T747	sup (null)
+T748	GO_BP 19617 19627	expressing
+#748	AnnotatorNotes T748	GO:0010467 (gene expression)
+T749	GO_BP 19643 19646	die
+#749	AnnotatorNotes T749	GO:0016265 (death)
+T750	sup 19667 19670	GFP
+#750	AnnotatorNotes T750	sup (null)
+T751	italic 19708 19717	p53RMCE/−
+#751	AnnotatorNotes T751	italic (null)
+T752	sup 19711 19717	RMCE/−
+#752	AnnotatorNotes T752	sup (null)
+T753	sup 19735 19740	ΔPGFP
+#753	AnnotatorNotes T753	sup (null)
+T754	SO 19741 19750	construct
+#754	AnnotatorNotes T754	SO:0001037 (mobile_genetic_element)
+T755	sup 19755 19760	ΔPGFP
+#755	AnnotatorNotes T755	sup (null)
+T756	GO_BP 19761 19771	expressing
+#756	AnnotatorNotes T756	GO:0010467 (gene expression)
+T757	CL 19853 19857	cell
+#757	AnnotatorNotes T757	CL:0000000 (cell)
+T758	GO_CC 19853 19857	cell
+#758	AnnotatorNotes T758	GO:0005623 (cell)
+T759	GO_BP 19871 19880	expressed
+#759	AnnotatorNotes T759	GO:0010467 (gene expression)
+T760	sup 19886 19891	ΔPGFP
+#760	AnnotatorNotes T760	sup (null)
+T761	CHEBI 19892 19899	protein
+#761	AnnotatorNotes T761	CHEBI:36080 (proteins)
+T762	sup 19929 19931	WT
+#762	AnnotatorNotes T762	sup (null)
+T763	SO 19952 19954	WT
+#763	AnnotatorNotes T763	SO:0000817 (wild_type)
+T764	italic 19961 19969	p53ΔP/ΔP
+#764	AnnotatorNotes T764	italic (null)
+T765	sup 19964 19969	ΔP/ΔP
+#765	AnnotatorNotes T765	sup (null)
+T766	GO_BP 19989 19995	arrest
+#766	AnnotatorNotes T766	GO:0007050 (cell cycle arrest)
+T767	GO_BP 20074 20082	arrested
+#767	AnnotatorNotes T767	GO:0007050 (cell cycle arrest)
+T768	italic 20083 20092	p53RMCE/−
+#768	AnnotatorNotes T768	italic (null)
+T769	sup 20086 20092	RMCE/−
+#769	AnnotatorNotes T769	sup (null)
+T770	GO_BP 20105 20112	express
+#770	AnnotatorNotes T770	GO:0010467 (gene expression)
+T771	SO 20115 20124	wild-type
+#771	AnnotatorNotes T771	SO:0000817 (wild_type)
+T772	EntrezGene 20125 20128	p53
+#772	AnnotatorNotes T772	EG:22059
+T773	PR 20125 20128	p53
+#773	AnnotatorNotes T773	PR:000003035 (cellular tumor antigen p53)
+T774	SO 20149 20154	locus
+#774	AnnotatorNotes T774	SO:0000001 (region)
+T775	GO_BP 20178 20184	arrest
+#775	AnnotatorNotes T775	GO:0007050 (cell cycle arrest)
+T776	italic 20185 20195	p53ΔPGFP/−
+#776	AnnotatorNotes T776	italic (null)
+T777	sup 20188 20195	ΔPGFP/−
+#777	AnnotatorNotes T777	sup (null)
+T778	SO 20353 20361	deleting
+#778	AnnotatorNotes T778	SO:0000045 (delete)
+T779	CHEBI 20366 20373	proline
+#779	AnnotatorNotes T779	CHEBI:32874 (proline residue)
+T780	SO 20366 20373	proline
+#780	AnnotatorNotes T780	SO:0001439 (proline)
+T781	SO 20379 20385	domain
+#781	AnnotatorNotes T781	SO:0000417 (polypeptide_domain)
+T782	EntrezGene 20407 20410	p53
+#782	AnnotatorNotes T782	EG:22059
+T783	PR 20407 20410	p53
+#783	AnnotatorNotes T783	PR:000003035 (cellular tumor antigen p53)
+T784	GO_BP 20425 20443	cell cycle control
+#784	AnnotatorNotes T784	GO:0051726 (regulation of cell cycle)
+T785	GO_BP 20425 20435	cell cycle
+#785	AnnotatorNotes T785	GO:0007049 (cell cycle)
+T786	CL 20425 20429	cell
+#786	AnnotatorNotes T786	CL:0000000 (cell)
+T787	GO_CC 20425 20429	cell
+#787	AnnotatorNotes T787	GO:0005623 (cell)
+T788	SO 20474 20484	C-terminal
+#788	AnnotatorNotes T788	SO:0100015 (c_terminal_region)
+T789	CHEBI 20474 20475	C
+#789	AnnotatorNotes T789	CHEBI:46883 (carboxy group)
+T790	CHEBI 20474 20475	C
+#790	AnnotatorNotes T790	CHEBI:18245 (carboxylato group)
+T791	EntrezGene 20515 20518	p53
+#791	AnnotatorNotes T791	EG:22059
+T792	PR 20515 20518	p53
+#792	AnnotatorNotes T792	PR:000003035 (cellular tumor antigen p53)
+T793	GO_BP 20519 20529	regulation
+#793	AnnotatorNotes T793	GO:0065007 (biological regulation)
+T794	SO 20687 20693	allele
+#794	AnnotatorNotes T794	SO:0001023 (allele)
+T795	SO 20694 20706	modification
+#795	AnnotatorNotes T795	SO:0000041 (sequence_operation)
+T796	CL 20713 20718	cells
+#796	AnnotatorNotes T796	CL:0000000 (cell)
+T797	GO_CC 20713 20718	cells
+#797	AnnotatorNotes T797	GO:0005623 (cell)
+T798	GO_BP 20722 20730	generate
+#798	AnnotatorNotes T798	GO:0000003 (reproduction)
+T799	NCBITaxon 20731 20735	mice
+#799	AnnotatorNotes T799	NCBITaxon:10088 (Mus)
+T800	SO 20853 20885	inverted heterologous loxP sites
+#800	AnnotatorNotes T800	"inverted .. sites" SO:0000948 (inversion_site)
+T801	SO 20853 20861	inverted
+#801	AnnotatorNotes T801	SO:0000047 (invert)
+T802	SO 20875 20885	loxP sites
+#802	AnnotatorNotes T802	SO:0000346 (loxP_site)
+T803	CL 20967 20972	cells
+#803	AnnotatorNotes T803	CL:0000000 (cell)
+T804	GO_CC 20967 20972	cells
+#804	AnnotatorNotes T804	GO:0005623 (cell)
+T805	CL 20991 20996	cells
+#805	AnnotatorNotes T805	CL:0000000 (cell)
+T806	GO_CC 20991 20996	cells
+#806	AnnotatorNotes T806	GO:0005623 (cell)
+T807	SO 21027 21033	allele
+#807	AnnotatorNotes T807	SO:0001023 (allele)
+T808	SO 21041 21045	gene
+#808	AnnotatorNotes T808	SO:0000704 (gene)
+T809	NCBITaxon 21151 21160	mammalian
+#809	AnnotatorNotes T809	NCBITaxon:40674 (Mammalia)
+T810	SO 21161 21166	genes
+#810	AnnotatorNotes T810	SO:0000704 (gene)
+T811	GO_BP 21205 21212	control
+#811	AnnotatorNotes T811	GO:0065007 (biological regulation)
+T812	GO_BP 21286 21294	generate
+#812	AnnotatorNotes T812	GO:0032502 (developmental process)
+T813	CL 21295 21312	fibroblastic cell
+#813	AnnotatorNotes T813	CL:0000057 (fibroblast)
+T814	GO_CC 21308 21312	cell
+#814	AnnotatorNotes T814	GO:0005623 (cell)
+T815	SO 21373 21378	genes
+#815	AnnotatorNotes T815	SO:0000704 (gene)
+T816	PR 21380 21383	p53
+#816	AnnotatorNotes T816	PR:000003035 (cellular tumor antigen p53)
+T817	PR 21385 21390	c-myc
+#817	AnnotatorNotes T817	PR:000000084 (c-myc protein)
+T818	SO 21470 21474	gene
+#818	AnnotatorNotes T818	SO:0000704 (gene)
+T819	CL 21491 21496	cells
+#819	AnnotatorNotes T819	CL:0000000 (cell)
+T820	GO_CC 21491 21496	cells
+#820	AnnotatorNotes T820	GO:0005623 (cell)
+T821	SO 21520 21524	gene
+#821	AnnotatorNotes T821	SO:0000704 (gene)
+T822	italic 21897 21928	Conflict of interest statement.
+#822	AnnotatorNotes T822	italic (null)
+T823	GO_BP 22019 22032	recombination
+#823	AnnotatorNotes T823	GO:0006310 (DNA recombination)
+T824	SO 22038 22042	gene
+#824	AnnotatorNotes T824	SO:0000704 (gene)
+T825	SO 22073 22078	exons
+#825	AnnotatorNotes T825	SO:0000147 (exon)
+T826	SO 22100 22109	construct
+#826	AnnotatorNotes T826	SO:0001037 (mobile_genetic_element)
+T827	SO 22110 22121	introducing
+#827	AnnotatorNotes T827	SO:0000046 (insert)
+T828	SO 22134 22148	coding regions
+#828	AnnotatorNotes T828	SO:0000851 (CDS_region)
+T829	SO 22153 22157	loxP
+#829	AnnotatorNotes T829	SO:0000346 (loxP_site)
+T830	SO 22221 22229	cassette
+#830	AnnotatorNotes T830	SO:0005853 (gene_cassette)
+T831	SO 22253 22261	inverted
+#831	AnnotatorNotes T831	SO:0000047 (invert)
+T832	SO 22275 22279	loxP
+#832	AnnotatorNotes T832	SO:0000346 (loxP_site)
+T833	GO_BP 22302 22308	create
+#833	AnnotatorNotes T833	GO:0032502 (developmental process)
+T834	CL 22323 22328	cells
+#834	AnnotatorNotes T834	CL:0000000 (cell)
+T835	GO_CC 22323 22328	cells
+#835	AnnotatorNotes T835	GO:0005623 (cell)
+T836	CL 22364 22369	cells
+#836	AnnotatorNotes T836	CL:0000000 (cell)
+T837	GO_CC 22364 22369	cells
+#837	AnnotatorNotes T837	GO:0005623 (cell)
+T838	GO_BP 22376 22388	transfecting
+#838	AnnotatorNotes T838	GO:0009294 (DNA mediated transformation)
+T839	GO_BP 22395 22405	expression
+#839	AnnotatorNotes T839	GO:0010467 (gene expression)
+T840	SO 22406 22413	plasmid
+#840	AnnotatorNotes T840	SO:0000155 (plasmid)
+T841	SO 22432 22439	plasmid
+#841	AnnotatorNotes T841	SO:0000155 (plasmid)
+T842	SO 22447 22453	floxed
+#842	AnnotatorNotes T842	SO:0000359 (floxed)
+T843	SO 22454 22460	mutant
+#843	AnnotatorNotes T843	SO:0001059 (sequence_alteration)
+T844	SO 22477 22484	mutated
+#844	AnnotatorNotes T844	SO:0000041 (sequence_operation)
+T845	SO 22485 22489	exon
+#845	AnnotatorNotes T845	SO:0000147 (exon)
+T846	GO_BP 22495 22502	produce
+#846	AnnotatorNotes T846	GO:0000003 (reproduction)
+T847	SO 22505 22511	mutant
+#847	AnnotatorNotes T847	SO:0001059 (sequence_alteration)
+T848	NCBITaxon 22512 22517	mouse
+#848	AnnotatorNotes T848	NCBITaxon:10088 (Mus)
+T849	SO 22652 22660	cassette
+#849	AnnotatorNotes T849	SO:0005853 (gene_cassette)
+T850	NCBITaxon 22720 22724	mice
+#850	AnnotatorNotes T850	NCBITaxon:10088 (Mus)
+T851	SO 22761 22769	cassette
+#851	AnnotatorNotes T851	SO:0005853 (gene_cassette)
+T852	SO 22779 22786	replace
+#852	AnnotatorNotes T852	SO:0000048 (substitute)
+T853	CL 22896 22901	cells
+#853	AnnotatorNotes T853	CL:0000000 (cell)
+T854	GO_CC 22896 22901	cells
+#854	AnnotatorNotes T854	GO:0005623 (cell)
+T855	SO 22963 22968	locus
+#855	AnnotatorNotes T855	SO:0000001 (region)
+T856	SO 22990 22992	WT
+#856	AnnotatorNotes T856	SO:0000817 (wild_type)
+T857	SO 22993 22998	locus
+#857	AnnotatorNotes T857	SO:0000001 (region)
+T858	GO_BP 23013 23021	breeding
+#858	AnnotatorNotes T858	GO:0007618 (mating)
+T859	NCBITaxon 23037 23042	mouse
+#859	AnnotatorNotes T859	NCBITaxon:10088 (Mus)
+T860	NCBITaxon 23048 23052	mice
+#860	AnnotatorNotes T860	NCBITaxon:10088 (Mus)
+T861	CL 23088 23093	cells
+#861	AnnotatorNotes T861	CL:0000000 (cell)
+T862	GO_CC 23088 23093	cells
+#862	AnnotatorNotes T862	GO:0005623 (cell)
+T863	SO 23113 23118	locus
+#863	AnnotatorNotes T863	SO:0000001 (region)
+T864	SO 23125 23127	WT
+#864	AnnotatorNotes T864	SO:0000817 (wild_type)
+T865	SO 23134 23140	allele
+#865	AnnotatorNotes T865	SO:0001023 (allele)
+T866	SO 23169 23170	+
+#866	AnnotatorNotes T866	SO:0000817 (wild_type)
+T867	NCBITaxon 23182 23187	mouse
+#867	AnnotatorNotes T867	NCBITaxon:10088 (Mus)
+T868	CL 23198 23209	fibroblasts
+#868	AnnotatorNotes T868	CL:0000057 (fibroblast)
+T869	CL 23224 23229	cells
+#869	AnnotatorNotes T869	CL:0000000 (cell)
+T870	GO_CC 23224 23229	cells
+#870	AnnotatorNotes T870	GO:0005623 (cell)
+T871	SO 23257 23258	+
+#871	AnnotatorNotes T871	SO:0000817 (wild_type)
+T872	SO 23259 23260	+
+#872	AnnotatorNotes T872	SO:0000817 (wild_type)
+T873	SO 23265 23266	+
+#873	AnnotatorNotes T873	SO:0000817 (wild_type)
+T874	CL 23269 23274	cells
+#874	AnnotatorNotes T874	CL:0000000 (cell)
+T875	GO_CC 23269 23274	cells
+#875	AnnotatorNotes T875	GO:0005623 (cell)
+T876	SO 23342 23351	mutations
+#876	AnnotatorNotes T876	SO:0001059 (sequence_alteration)
+T877	GO_BP 23388 23398	Generating
+#877	AnnotatorNotes T877	GO:0032502 (developmental process)
+T878	CL 23402 23407	cells
+#878	AnnotatorNotes T878	CL:0000000 (cell)
+T879	GO_CC 23402 23407	cells
+#879	AnnotatorNotes T879	GO:0005623 (cell)
+T880	italic 23415 23418	p53
+#880	AnnotatorNotes T880	italic (null)
+T881	PR 23415 23418	p53
+#881	AnnotatorNotes T881	PR:000003035 (cellular tumor antigen p53)
+T882	EntrezGene 23415 23418	p53
+#882	AnnotatorNotes T882	EG:22059
+T883	SO 23430 23435	locus
+#883	AnnotatorNotes T883	SO:0000001 (region)
+T884	EntrezGene 23441 23444	p53
+#884	AnnotatorNotes T884	EG:22059
+T885	PR 23441 23444	p53
+#885	AnnotatorNotes T885	PR:000003035 (cellular tumor antigen p53)
+T886	SO 23445 23449	gene
+#886	AnnotatorNotes T886	SO:0000704 (gene)
+T887	SO 23490 23498	fragment
+#887	AnnotatorNotes T887	SO:0000731 (fragmentary)
+T888	SO 23513 23529	coding sequences
+#888	AnnotatorNotes T888	SO:0000851 (CDS_region)
+T889	SO 23544 23548	UTRs
+#889	AnnotatorNotes T889	SO:0000203 (UTR)
+T890	SO 23570 23579	construct
+#890	AnnotatorNotes T890	SO:0001037 (mobile_genetic_element)
+T891	SO 23593 23601	sequence
+#891	AnnotatorNotes T891	SO:0000001 (region)
+T892	SO 23696 23702	region
+#892	AnnotatorNotes T892	SO:0000001 (region)
+T893	SO 23728 23744	coding sequences
+#893	AnnotatorNotes T893	SO:0000851 (CDS_region)
+T894	SO 23755 23759	site
+#894	AnnotatorNotes T894	SO:0000001 (region)
+T895	SO 23770 23776	mutant
+#895	AnnotatorNotes T895	SO:0001059 (sequence_alteration)
+T896	SO 23777 23781	loxP
+#896	AnnotatorNotes T896	SO:0000346 (loxP_site)
+T897	EntrezGene 23805 23808	p53
+#897	AnnotatorNotes T897	EG:22059
+T898	PR 23805 23808	p53
+#898	AnnotatorNotes T898	PR:000003035 (cellular tumor antigen p53)
+T899	SO 23809 23814	exons
+#899	AnnotatorNotes T899	SO:0000147 (exon)
+T900	SO 23850 23861	fusion gene
+#900	AnnotatorNotes T900	SO:0000287 (fusion_gene)
+T901	SO 23850 23856	fusion
+#901	AnnotatorNotes T901	SO:0000806 (fusion)
+T902	SO 23914 23922	inverted
+#902	AnnotatorNotes T902	SO:0000047 (invert)
+T903	SO 23923 23925	WT
+#903	AnnotatorNotes T903	SO:0000817 (wild_type)
+T904	SO 23926 23930	loxP
+#904	AnnotatorNotes T904	SO:0000346 (loxP_site)
+T905	SO 23967 23973	region
+#905	AnnotatorNotes T905	SO:0000001 (region)
+T906	CHEBI 23999 24004	toxin
+#906	AnnotatorNotes T906	CHEBI:27026 (toxin)
+T907	SO 24011 24015	gene
+#907	AnnotatorNotes T907	SO:0000704 (gene)
+T908	GO_BP 24087 24101	crossing-overs
+#908	AnnotatorNotes T908	GO:0007131 (meiotic recombination)
+T909	SO 24156 24161	probe
+#909	AnnotatorNotes T909	SO:0000051 (probe)
+T910	SO 24192 24199	primers
+#910	AnnotatorNotes T910	SO:0000112 (primer)
+T911	CL 24333 24338	cells
+#911	AnnotatorNotes T911	CL:0000000 (cell)
+T912	GO_CC 24333 24338	cells
+#912	AnnotatorNotes T912	GO:0005623 (cell)
+T913	bold 24340 24343	(A)
+#913	AnnotatorNotes T913	bold (null)
+T914	sup 24359 24362	GFP
+#914	AnnotatorNotes T914	sup (null)
+T915	SO 24363 24370	plasmid
+#915	AnnotatorNotes T915	SO:0000155 (plasmid)
+T916	SO 24385 24392	plasmid
+#916	AnnotatorNotes T916	SO:0000155 (plasmid)
+T917	SO 24398 24406	sequence
+#917	AnnotatorNotes T917	SO:0000001 (region)
+T918	sup 24450 24453	GFP
+#918	AnnotatorNotes T918	sup (null)
+T919	SO 24454 24470	coding sequences
+#919	AnnotatorNotes T919	SO:0000851 (CDS_region)
+T920	SO 24471 24478	flanked
+#920	AnnotatorNotes T920	SO:0000357 (flanked)
+T921	SO 24492 24497	sites
+#921	AnnotatorNotes T921	SO:0000001 (region)
+T922	GO_BP 24532 24542	expression
+#922	AnnotatorNotes T922	GO:0010467 (gene expression)
+T923	SO 24543 24550	plasmid
+#923	AnnotatorNotes T923	SO:0000155 (plasmid)
+T924	SO 24600 24607	primers
+#924	AnnotatorNotes T924	SO:0000112 (primer)
+T925	SO 24639 24644	probe
+#925	AnnotatorNotes T925	SO:0000051 (probe)
+T926	GO_BP 24958 24971	recombination
+#926	AnnotatorNotes T926	GO:0006310 (DNA recombination)
+T927	GO_BP 25061 25074	recombination
+#927	AnnotatorNotes T927	GO:0006310 (DNA recombination)
+T928	SO 25166 25173	plasmid
+#928	AnnotatorNotes T928	SO:0000155 (plasmid)
+T929	SO 25201 25209	inserted
+#929	AnnotatorNotes T929	SO:0000046 (insert)
+T930	SO 25221 25226	sites
+#930	AnnotatorNotes T930	SO:0000001 (region)
+T931	GO_BP 25266 25277	Recombinant
+#931	AnnotatorNotes T931	GO:0006310 (DNA recombination)
+T932	GO_CC 25323 25331	antibody
+#932	AnnotatorNotes T932	GO:0019814 (immunoglobulin complex)
+T933	PR 25335 25338	p53
+#933	AnnotatorNotes T933	PR:000003035 (cellular tumor antigen p53)
+T934	CL 25379 25384	cells
+#934	AnnotatorNotes T934	CL:0000000 (cell)
+T935	GO_CC 25379 25384	cells
+#935	AnnotatorNotes T935	GO:0005623 (cell)
+T936	italic 25406 25414	p53+/GFP
+#936	AnnotatorNotes T936	italic (null)
+T937	EntrezGene 25406 25409	p53
+#937	AnnotatorNotes T937	EG:22059
+T938	PR 25406 25409	p53
+#938	AnnotatorNotes T938	PR:000003035 (cellular tumor antigen p53)
+T939	sup 25409 25414	+/GFP
+#939	AnnotatorNotes T939	sup (null)
+T940	SO 25409 25410	+
+#940	AnnotatorNotes T940	SO:0000817 (wild_type)
+T941	CHEBI 25461 25471	adriamycin
+#941	AnnotatorNotes T941	CHEBI:28748 (doxorubicin)
+T942	CHEBI 25473 25476	ADR
+#942	AnnotatorNotes T942	CHEBI:28748 (doxorubicin)
+T943	CHEBI 25505 25512	protein
+#943	AnnotatorNotes T943	CHEBI:36080 (proteins)
+T944	sup 25540 25543	GFP
+#944	AnnotatorNotes T944	sup (null)
+T945	GO_BP 25592 25601	expressed
+#945	AnnotatorNotes T945	GO:0010467 (gene expression)
+T946	bold 25652 25655	(B)
+#946	AnnotatorNotes T946	bold (null)
+T947	sup 25671 25676	ΔPGFP
+#947	AnnotatorNotes T947	sup (null)
+T948	SO 25677 25684	plasmid
+#948	AnnotatorNotes T948	SO:0000155 (plasmid)
+T949	sup 25693 25698	ΔPGFP
+#949	AnnotatorNotes T949	sup (null)
+T950	SO 25708 25717	construct
+#950	AnnotatorNotes T950	SO:0001037 (mobile_genetic_element)
+T951	SO 25725 25733	sequence
+#951	AnnotatorNotes T951	SO:0000001 (region)
+T952	sup 25780 25783	GFP
+#952	AnnotatorNotes T952	sup (null)
+T953	SO 25784 25793	construct
+#953	AnnotatorNotes T953	SO:0001037 (mobile_genetic_element)
+T954	SO 25821 25828	mutated
+#954	AnnotatorNotes T954	SO:0000041 (sequence_operation)
+T955	SO 25829 25833	exon
+#955	AnnotatorNotes T955	SO:0000147 (exon)
+T956	SO 25856 25864	deletion
+#956	AnnotatorNotes T956	SO:0000159 (deletion)
+T957	SO 25964 25971	primers
+#957	AnnotatorNotes T957	SO:0000112 (primer)
+T958	GO_BP 26115 26124	expressed
+#958	AnnotatorNotes T958	GO:0010467 (gene expression)
+T959	sup 26128 26133	ΔPGFP
+#959	AnnotatorNotes T959	sup (null)
+T960	sup 26138 26143	ΔPGFP
+#960	AnnotatorNotes T960	sup (null)
+T961	sup 26242 26244	WT
+#961	AnnotatorNotes T961	sup (null)
+T962	bold 26246 26249	(C)
+#962	AnnotatorNotes T962	bold (null)
+T963	sup 26282 26287	ΔPGFP
+#963	AnnotatorNotes T963	sup (null)
+T964	SO 26288 26296	mutation
+#964	AnnotatorNotes T964	SO:0001059 (sequence_alteration)
+T965	SO 26298 26301	DNA
+#965	AnnotatorNotes T965	SO:0000352 (DNA)
+T966	GO_BP 26348 26354	mating
+#966	AnnotatorNotes T966	GO:0007618 (mating)
+T967	sup 26360 26365	ΔPGFP
+#967	AnnotatorNotes T967	sup (null)
+T968	SO 26381 26383	WT
+#968	AnnotatorNotes T968	SO:0000817 (wild_type)
+T969	NCBITaxon 26384 26389	mouse
+#969	AnnotatorNotes T969	NCBITaxon:10088 (Mus)
+T970	SO 26416 26423	primers
+#970	AnnotatorNotes T970	SO:0000112 (primer)
+T971	SO 26446 26449	DNA
+#971	AnnotatorNotes T971	SO:0000352 (DNA)
+T972	SO 26455 26457	WT
+#972	AnnotatorNotes T972	SO:0000817 (wild_type)
+T973	italic 26459 26466	p53+/ΔP
+#973	AnnotatorNotes T973	italic (null)
+T974	EntrezGene 26459 26462	p53
+#974	AnnotatorNotes T974	EG:22059
+T975	PR 26459 26462	p53
+#975	AnnotatorNotes T975	PR:000003035 (cellular tumor antigen p53)
+T976	sup 26462 26466	+/ΔP
+#976	AnnotatorNotes T976	sup (null)
+T977	SO 26462 26463	+
+#977	AnnotatorNotes T977	SO:0000817 (wild_type)
+T978	italic 26471 26479	p53ΔP/ΔP
+#978	AnnotatorNotes T978	italic (null)
+T979	sup 26474 26479	ΔP/ΔP
+#979	AnnotatorNotes T979	sup (null)
+T980	italic 26509 26519	p53+/ΔPGFP
+#980	AnnotatorNotes T980	italic (null)
+T981	EntrezGene 26509 26512	p53
+#981	AnnotatorNotes T981	EG:22059
+T982	PR 26509 26512	p53
+#982	AnnotatorNotes T982	PR:000003035 (cellular tumor antigen p53)
+T983	sup 26512 26519	+/ΔPGFP
+#983	AnnotatorNotes T983	sup (null)
+T984	SO 26512 26513	+
+#984	AnnotatorNotes T984	SO:0000817 (wild_type)
+T985	NCBITaxon 26520 26525	mouse
+#985	AnnotatorNotes T985	NCBITaxon:10088 (Mus)
+T986	SO 26560 26568	mutation
+#986	AnnotatorNotes T986	SO:0001059 (sequence_alteration)
+T987	italic 26610 26613	p53
+#987	AnnotatorNotes T987	italic (null)
+T988	PR 26610 26613	p53
+#988	AnnotatorNotes T988	PR:000003035 (cellular tumor antigen p53)
+T989	EntrezGene 26610 26613	p53
+#989	AnnotatorNotes T989	EG:22059
+T990	SO 26625 26630	locus
+#990	AnnotatorNotes T990	SO:0000001 (region)
+T991	italic 26632 26641	p53RMCE/+
+#991	AnnotatorNotes T991	italic (null)
+T992	sup 26635 26641	RMCE/+
+#992	AnnotatorNotes T992	sup (null)
+T993	SO 26640 26641	+
+#993	AnnotatorNotes T993	SO:0000817 (wild_type)
+T994	CL 26645 26650	cells
+#994	AnnotatorNotes T994	CL:0000000 (cell)
+T995	GO_CC 26645 26650	cells
+#995	AnnotatorNotes T995	GO:0005623 (cell)
+T996	GO_BP 26685 26693	generate
+#996	AnnotatorNotes T996	GO:0000003 (reproduction)
+T997	NCBITaxon 26703 26707	mice
+#997	AnnotatorNotes T997	NCBITaxon:10088 (Mus)
+T998	GO_BP 26735 26740	mated
+#998	AnnotatorNotes T998	GO:0007618 (mating)
+T999	EntrezGene 26746 26749	p53
+#999	AnnotatorNotes T999	EG:22059
+T1000	PR 26746 26749	p53
+#1000	AnnotatorNotes T1000	PR:000003035 (cellular tumor antigen p53)
+T1001	sup 26749 26752	+/−
+#1001	AnnotatorNotes T1001	sup (null)
+T1002	SO 26749 26750	+
+#1002	AnnotatorNotes T1002	SO:0000817 (wild_type)
+T1003	NCBITaxon 26753 26757	mice
+#1003	AnnotatorNotes T1003	NCBITaxon:10088 (Mus)
+T1004	SO 26830 26837	primers
+#1004	AnnotatorNotes T1004	SO:0000112 (primer)
+T1005	SO 26902 26908	allele
+#1005	AnnotatorNotes T1005	SO:0001023 (allele)
+T1006	EntrezGene 26959 26962	p53
+#1006	AnnotatorNotes T1006	EG:22059
+T1007	PR 26959 26962	p53
+#1007	AnnotatorNotes T1007	PR:000003035 (cellular tumor antigen p53)
+T1008	SO 26974 26979	locus
+#1008	AnnotatorNotes T1008	SO:0000001 (region)
+T1009	SO 27066 27073	primers
+#1009	AnnotatorNotes T1009	SO:0000112 (primer)
+T1010	italic 27149 27155	p53+/−
+#1010	AnnotatorNotes T1010	italic (null)
+T1011	EntrezGene 27149 27152	p53
+#1011	AnnotatorNotes T1011	EG:22059
+T1012	PR 27149 27152	p53
+#1012	AnnotatorNotes T1012	PR:000003035 (cellular tumor antigen p53)
+T1013	sup 27152 27155	+/−
+#1013	AnnotatorNotes T1013	sup (null)
+T1014	SO 27152 27153	+
+#1014	AnnotatorNotes T1014	SO:0000817 (wild_type)
+T1015	NCBITaxon 27156 27160	mice
+#1015	AnnotatorNotes T1015	NCBITaxon:10088 (Mus)
+T1016	SO 27162 27171	sequences
+#1016	AnnotatorNotes T1016	SO:0000001 (region)
+T1017	SO 27199 27206	Primers
+#1017	AnnotatorNotes T1017	SO:0000112 (primer)
+T1018	SO 27229 27231	bp
+#1018	AnnotatorNotes T1018	SO:0000028 (base_pair)
+T1019	SO 27232 27239	product
+#1019	AnnotatorNotes T1019	SO:0000006 (PCR_product)
+T1020	SO 27247 27249	WT
+#1020	AnnotatorNotes T1020	SO:0000817 (wild_type)
+T1021	SO 27258 27264	allele
+#1021	AnnotatorNotes T1021	SO:0001023 (allele)
+T1022	SO 27272 27279	primers
+#1022	AnnotatorNotes T1022	SO:0000112 (primer)
+T1023	SO 27315 27317	bp
+#1023	AnnotatorNotes T1023	SO:0000028 (base_pair)
+T1024	SO 27318 27325	product
+#1024	AnnotatorNotes T1024	SO:0000006 (PCR_product)
+T1025	GO_MF 27335 27338	Neo
+#1025	AnnotatorNotes T1025	GO:0008910 (kanamycin kinase activity)
+T1026	independent_continuant 27335 27338	Neo
+#1026	AnnotatorNotes T1026	independent_continuant
+T1027	SO 27356 27362	allele
+#1027	AnnotatorNotes T1027	SO:0001023 (allele)
+T1028	italic 27374 27383	p53RMCE/+
+#1028	AnnotatorNotes T1028	italic (null)
+T1029	sup 27377 27383	RMCE/+
+#1029	AnnotatorNotes T1029	sup (null)
+T1030	SO 27382 27383	+
+#1030	AnnotatorNotes T1030	SO:0000817 (wild_type)
+T1031	italic 27405 27414	p53RMCE/−
+#1031	AnnotatorNotes T1031	italic (null)
+T1032	sup 27408 27414	RMCE/−
+#1032	AnnotatorNotes T1032	sup (null)
+T1033	CL 27415 27420	cells
+#1033	AnnotatorNotes T1033	CL:0000000 (cell)
+T1034	GO_CC 27415 27420	cells
+#1034	AnnotatorNotes T1034	GO:0005623 (cell)
+T1035	bold 27458 27461	(A)
+#1035	AnnotatorNotes T1035	bold (null)
+T1036	sup 27479 27482	GFP
+#1036	AnnotatorNotes T1036	sup (null)
+T1037	SO 27483 27490	plasmid
+#1037	AnnotatorNotes T1037	SO:0000155 (plasmid)
+T1038	CL 27529 27534	cells
+#1038	AnnotatorNotes T1038	CL:0000000 (cell)
+T1039	GO_CC 27529 27534	cells
+#1039	AnnotatorNotes T1039	GO:0005623 (cell)
+T1040	GO_CC 27548 27555	nuclear
+#1040	AnnotatorNotes T1040	GO:0005634 (nucleus)
+T1041	italic 27570 27579	p53RMCE/−
+#1041	AnnotatorNotes T1041	italic (null)
+T1042	sup 27573 27579	RMCE/−
+#1042	AnnotatorNotes T1042	sup (null)
+T1043	GO_BP 27612 27622	expression
+#1043	AnnotatorNotes T1043	GO:0010467 (gene expression)
+T1044	SO 27623 27630	plasmid
+#1044	AnnotatorNotes T1044	SO:0000155 (plasmid)
+T1045	sup 27642 27645	GFP
+#1045	AnnotatorNotes T1045	sup (null)
+T1046	SO 27655 27662	plasmid
+#1046	AnnotatorNotes T1046	SO:0000155 (plasmid)
+T1047	CL 27806 27810	cell
+#1047	AnnotatorNotes T1047	CL:0000000 (cell)
+T1048	GO_CC 27806 27810	cell
+#1048	AnnotatorNotes T1048	GO:0005623 (cell)
+T1049	CL 27845 27849	cell
+#1049	AnnotatorNotes T1049	CL:0000000 (cell)
+T1050	GO_CC 27845 27849	cell
+#1050	AnnotatorNotes T1050	GO:0005623 (cell)
+T1051	bold 27879 27882	(B)
+#1051	AnnotatorNotes T1051	bold (null)
+T1052	sup 27900 27905	ΔPGFP
+#1052	AnnotatorNotes T1052	sup (null)
+T1053	SO 27906 27913	plasmid
+#1053	AnnotatorNotes T1053	SO:0000155 (plasmid)
+T1054	italic 27915 27924	p53RMCE/−
+#1054	AnnotatorNotes T1054	italic (null)
+T1055	sup 27918 27924	RMCE/−
+#1055	AnnotatorNotes T1055	sup (null)
+T1056	GO_BP 27957 27967	expression
+#1056	AnnotatorNotes T1056	GO:0010467 (gene expression)
+T1057	SO 27968 27975	plasmid
+#1057	AnnotatorNotes T1057	SO:0000155 (plasmid)
+T1058	sup 27987 27992	ΔPGFP
+#1058	AnnotatorNotes T1058	sup (null)
+T1059	SO 27993 28000	plasmid
+#1059	AnnotatorNotes T1059	SO:0000155 (plasmid)
+T1060	SO 28043 28050	primers
+#1060	AnnotatorNotes T1060	SO:0000112 (primer)
+T1061	SO 28120 28130	integrated
+#1061	AnnotatorNotes T1061	SO:0000046 (insert)
+T1062	SO 28138 28146	mutation
+#1062	AnnotatorNotes T1062	SO:0001059 (sequence_alteration)
+T1063	SO 28222 28229	primers
+#1063	AnnotatorNotes T1063	SO:0000112 (primer)
+T1064	SO 28274 28283	deletions
+#1064	AnnotatorNotes T1064	SO:0000159 (deletion)
+T1065	EntrezGene 28310 28313	p53
+#1065	AnnotatorNotes T1065	EG:22059
+T1066	PR 28310 28313	p53
+#1066	AnnotatorNotes T1066	PR:000003035 (cellular tumor antigen p53)
+T1067	SO 28314 28319	locus
+#1067	AnnotatorNotes T1067	SO:0000001 (region)
+T1068	SO 28332 28343	integration
+#1068	AnnotatorNotes T1068	SO:0000046 (insert)
+T1069	sup 28480 28485	ΔPGFP
+#1069	AnnotatorNotes T1069	sup (null)
+T1070	CHEBI 28504 28507	ADR
+#1070	AnnotatorNotes T1070	CHEBI:28748 (doxorubicin)
+T1071	sup 28537 28539	WT
+#1071	AnnotatorNotes T1071	sup (null)
+T1072	bold 28541 28544	(C)
+#1072	AnnotatorNotes T1072	bold (null)
+T1073	sup 28568 28573	ΔPGFP
+#1073	AnnotatorNotes T1073	sup (null)
+T1074	GO_BP 28583 28601	cell cycle control
+#1074	AnnotatorNotes T1074	GO:0051726 (regulation of cell cycle)
+T1075	GO_BP 28583 28593	cell cycle
+#1075	AnnotatorNotes T1075	GO:0007049 (cell cycle)
+T1076	CL 28583 28587	cell
+#1076	AnnotatorNotes T1076	CL:0000000 (cell)
+T1077	GO_CC 28583 28587	cell
+#1077	AnnotatorNotes T1077	GO:0005623 (cell)
+T1078	italic 28616 28625	p53RMCE/−
+#1078	AnnotatorNotes T1078	italic (null)
+T1079	sup 28619 28625	RMCE/−
+#1079	AnnotatorNotes T1079	sup (null)
+T1080	italic 28630 28640	p53ΔPGFP/−
+#1080	AnnotatorNotes T1080	italic (null)
+T1081	sup 28633 28640	ΔPGFP/−
+#1081	AnnotatorNotes T1081	sup (null)
+T1082	italic 28842 28849	p53RMCE
+#1082	AnnotatorNotes T1082	italic (null)
+T1083	sup 28845 28849	RMCE
+#1083	AnnotatorNotes T1083	sup (null)
+T1084	SO 28850 28855	locus
+#1084	AnnotatorNotes T1084	SO:0000001 (region)
+T1085	SO 28866 28868	WT
+#1085	AnnotatorNotes T1085	SO:0000817 (wild_type)
+T1086	EntrezGene 28869 28872	p53
+#1086	AnnotatorNotes T1086	EG:22059
+T1087	PR 28869 28872	p53
+#1087	AnnotatorNotes T1087	PR:000003035 (cellular tumor antigen p53)
+T1088	CL 28924 28929	cells
+#1088	AnnotatorNotes T1088	CL:0000000 (cell)
+T1089	GO_CC 28924 28929	cells
+#1089	AnnotatorNotes T1089	GO:0005623 (cell)
+T1090	sup 28944 28949	ΔPGFP
+#1090	AnnotatorNotes T1090	sup (null)
+T1091	sup 28956 28959	GFP
+#1091	AnnotatorNotes T1091	sup (null)
+T1092	GO_BP 29031 29044	recombination
+#1092	AnnotatorNotes T1092	GO:0006310 (DNA recombination)
+T1093	sup 29065 29068	GFP
+#1093	AnnotatorNotes T1093	sup (null)
+T1094	sup 29125 29130	ΔPGFP
+#1094	AnnotatorNotes T1094	sup (null)
+T1095	sup 29196 29201	ΔPGFP
+#1095	AnnotatorNotes T1095	sup (null)
+T1096	SO 29202 29210	mutation
+#1096	AnnotatorNotes T1096	SO:0001059 (sequence_alteration)
+T1097	GO_BP 29290 29303	recombination
+#1097	AnnotatorNotes T1097	GO:0006310 (DNA recombination)
+T1098	italic 29376 29379	p53
+#1098	AnnotatorNotes T1098	italic (null)
+T1099	PR 29376 29379	p53
+#1099	AnnotatorNotes T1099	PR:000003035 (cellular tumor antigen p53)
+T1100	EntrezGene 29376 29379	p53
+#1100	AnnotatorNotes T1100	EG:22059
+T1101	SO 29380 29387	alleles
+#1101	AnnotatorNotes T1101	SO:0001023 (allele)

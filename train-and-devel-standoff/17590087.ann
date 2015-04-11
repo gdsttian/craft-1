@@ -1,0 +1,2174 @@
+T1	SO 0 8	Deletion
+#1	AnnotatorNotes T1	SO:0000045 (delete)
+T2	italic 12 17	ITPR1
+#2	AnnotatorNotes T2	italic (null)
+T3	PR 12 17	ITPR1
+#3	AnnotatorNotes T3	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T4	EntrezGene 12 17	ITPR1
+#4	AnnotatorNotes T4	EG:16438
+T5	NCBITaxon 38 42	Mice
+#5	AnnotatorNotes T5	NCBITaxon:10088 (Mus)
+T6	NCBITaxon 76 82	Humans
+#6	AnnotatorNotes T6	NCBITaxon:9606 (Homo sapiens)
+T7	GO_CC 115 124	autosomal
+#7	AnnotatorNotes T7	GO:0030849 (autosome)
+T8	GO_BP 135 143	movement
+#8	AnnotatorNotes T8	GO:0050879 (multicellular organismal movement)
+T9	NCBITaxon 156 160	mice
+#9	AnnotatorNotes T9	NCBITaxon:10088 (Mus)
+T10	SO 238 245	genetic
+#10	AnnotatorNotes T10	SO:0000704 (gene)
+T11	NCBITaxon 315 321	humans
+#11	AnnotatorNotes T11	NCBITaxon:9606 (Homo sapiens)
+T12	SO 327 335	mutation
+#12	AnnotatorNotes T12	SO:0001059 (sequence_alteration)
+T13	SO 327 335	mutation
+#13	AnnotatorNotes T13	SO:0000041 (sequence_operation)
+T14	SO 348 353	locus
+#14	AnnotatorNotes T14	SO:0000001 (region)
+T15	SO 375 383	sequence
+#15	AnnotatorNotes T15	SO:0000001 (region)
+T16	SO 454 459	frame
+#16	AnnotatorNotes T16	SO:0000717 (reading_frame)
+T17	SO 463 465	bp
+#17	AnnotatorNotes T17	SO:0000028 (base_pair)
+T18	SO 466 474	deletion
+#18	AnnotatorNotes T18	SO:0000159 (deletion)
+T19	italic 478 483	Itpr1
+#19	AnnotatorNotes T19	italic (null)
+T20	PR 478 483	Itpr1
+#20	AnnotatorNotes T20	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T21	EntrezGene 478 483	Itpr1
+#21	AnnotatorNotes T21	EG:16438
+T22	italic 485 497	Itpr1Δ18/Δ18
+#22	AnnotatorNotes T22	italic (null)
+T23	sup 490 497	Δ18/Δ18
+#23	AnnotatorNotes T23	sup (null)
+T24	EntrezGene 509 547	inositol 1,4,5-triphosphate receptor 1
+#24	AnnotatorNotes T24	EG:16438
+T25	PR 509 547	inositol 1,4,5-triphosphate receptor 1
+#25	AnnotatorNotes T25	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T26	GO_MF 509 545	inositol 1,4,5-triphosphate receptor
+#26	AnnotatorNotes T26	GO:0008095 (inositol-1,4,5-triphosphate receptor activity)
+T27	independent_continuant 509 545	inositol 1,4,5-triphosphate receptor
+#27	AnnotatorNotes T27	independent_continuant
+T28	CHEBI 509 517	inositol
+#28	AnnotatorNotes T28	CHEBI:24848 (inositols)
+T29	italic 583 588	Itpr1
+#29	AnnotatorNotes T29	italic (null)
+T30	PR 583 588	Itpr1
+#30	AnnotatorNotes T30	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T31	EntrezGene 583 588	Itpr1
+#31	AnnotatorNotes T31	EG:16438
+T32	SO 589 597	mutation
+#32	AnnotatorNotes T32	SO:0001059 (sequence_alteration)
+T33	NCBITaxon 601 605	mice
+#33	AnnotatorNotes T33	NCBITaxon:10088 (Mus)
+T34	SO 676 681	frame
+#34	AnnotatorNotes T34	SO:0000717 (reading_frame)
+T35	SO 682 690	deletion
+#35	AnnotatorNotes T35	SO:0000045 (delete)
+T36	italic 698 703	Itpr1
+#36	AnnotatorNotes T36	italic (null)
+T37	PR 698 703	Itpr1
+#37	AnnotatorNotes T37	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T38	EntrezGene 698 703	Itpr1
+#38	AnnotatorNotes T38	EG:16438
+T39	italic 754 759	Itpr1
+#39	AnnotatorNotes T39	italic (null)
+T40	PR 754 759	Itpr1
+#40	AnnotatorNotes T40	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T41	EntrezGene 754 759	Itpr1
+#41	AnnotatorNotes T41	EG:16438
+T42	GO_BP 760 770	expression
+#42	AnnotatorNotes T42	GO:0010467 (gene expression)
+T43	CL 785 799	Purkinje cells
+#43	AnnotatorNotes T43	CL:0000121 (Purkinje cell)
+T44	GO_CC 794 799	cells
+#44	AnnotatorNotes T44	GO:0005623 (cell)
+T45	NCBITaxon 838 843	human
+#45	AnnotatorNotes T45	NCBITaxon:9606 (Homo sapiens)
+T46	GO_CC 844 853	autosomal
+#46	AnnotatorNotes T46	GO:0030849 (autosome)
+T47	SO 885 899	genomic region
+#47	AnnotatorNotes T47	SO:0000991 (genomic_DNA)
+T48	SO 885 892	genomic
+#48	AnnotatorNotes T48	SO:0001026 (genome)
+T49	italic 911 917	ITPR1;
+#49	AnnotatorNotes T49	italic (null)
+T50	EntrezGene 911 916	ITPR1
+#50	AnnotatorNotes T50	EG:3708
+T51	PR 911 916	ITPR1
+#51	AnnotatorNotes T51	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T52	SO 945 954	mutations
+#52	AnnotatorNotes T52	SO:0001059 (sequence_alteration)
+T53	italic 1017 1022	Itpr1
+#53	AnnotatorNotes T53	italic (null)
+T54	PR 1017 1022	Itpr1
+#54	AnnotatorNotes T54	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T55	EntrezGene 1017 1022	Itpr1
+#55	AnnotatorNotes T55	EG:16438
+T56	SO 1023 1029	mutant
+#56	AnnotatorNotes T56	SO:0001059 (sequence_alteration)
+T57	NCBITaxon 1030 1034	mice
+#57	AnnotatorNotes T57	NCBITaxon:10088 (Mus)
+T58	SO 1101 1109	mutation
+#58	AnnotatorNotes T58	SO:0000041 (sequence_operation)
+T59	italic 1113 1118	ITPR1
+#59	AnnotatorNotes T59	italic (null)
+T60	PR 1113 1118	ITPR1
+#60	AnnotatorNotes T60	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T61	EntrezGene 1113 1118	ITPR1
+#61	AnnotatorNotes T61	EG:3708
+T62	SO 1177 1185	deletion
+#62	AnnotatorNotes T62	SO:0000045 (delete)
+T63	SO 1196 1218	part of the ITPR1 gene
+#63	AnnotatorNotes T63	"part of .. gene" SO:0000831 (gene_member_region)
+T64	italic 1208 1213	ITPR1
+#64	AnnotatorNotes T64	italic (null)
+T65	PR 1208 1213	ITPR1
+#65	AnnotatorNotes T65	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T66	EntrezGene 1208 1213	ITPR1
+#66	AnnotatorNotes T66	EG:3708
+T67	SO 1214 1218	gene
+#67	AnnotatorNotes T67	SO:0000704 (gene)
+T68	SO 1233 1238	exons
+#68	AnnotatorNotes T68	SO:0000147 (exon)
+T69	NCBITaxon 1306 1312	humans
+#69	AnnotatorNotes T69	NCBITaxon:9606 (Homo sapiens)
+T70	SO 1369 1374	frame
+#70	AnnotatorNotes T70	SO:0000717 (reading_frame)
+T71	SO 1375 1392	deletion mutation
+#71	AnnotatorNotes T71	SO:0000159 (deletion)
+T72	SO 1400 1404	gene
+#72	AnnotatorNotes T72	SO:0000704 (gene)
+T73	italic 1405 1410	Itpr1
+#73	AnnotatorNotes T73	italic (null)
+T74	EntrezGene 1405 1410	Itpr1
+#74	AnnotatorNotes T74	EG:16438
+T75	PR 1405 1410	Itpr1
+#75	AnnotatorNotes T75	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T76	GO_BP 1435 1443	movement
+#76	AnnotatorNotes T76	GO:0050879 (multicellular organismal movement)
+T77	NCBITaxon 1456 1460	mice
+#77	AnnotatorNotes T77	NCBITaxon:10088 (Mus)
+T78	NCBITaxon 1524 1530	humans
+#78	AnnotatorNotes T78	NCBITaxon:9606 (Homo sapiens)
+T79	NCBITaxon 1591 1596	human
+#79	AnnotatorNotes T79	NCBITaxon:9606 (Homo sapiens)
+T80	SO 1597 1615	chromosomal region
+#80	AnnotatorNotes T80	SO:0000830 (chromosome_part)
+T81	GO_CC 1597 1608	chromosomal
+#81	AnnotatorNotes T81	GO:0005694 (chromosome)
+T82	SO 1597 1608	chromosomal
+#82	AnnotatorNotes T82	SO:0000340 (chromosome)
+T83	italic 1627 1632	ITPR1
+#83	AnnotatorNotes T83	italic (null)
+T84	EntrezGene 1627 1632	ITPR1
+#84	AnnotatorNotes T84	EG:3708
+T85	PR 1627 1632	ITPR1
+#85	AnnotatorNotes T85	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T86	SO 1704 1710	region
+#86	AnnotatorNotes T86	SO:0000001 (region)
+T87	SO 1725 1732	genomic
+#87	AnnotatorNotes T87	SO:0001026 (genome)
+T88	SO 1836 1844	deletion
+#88	AnnotatorNotes T88	SO:0000045 (delete)
+T89	SO 1856 1863	portion
+#89	AnnotatorNotes T89	SO:0000001 (region)
+T90	SO 1871 1877	region
+#90	AnnotatorNotes T90	SO:0000001 (region)
+T91	italic 1889 1894	ITPR1
+#91	AnnotatorNotes T91	italic (null)
+T92	EntrezGene 1889 1894	ITPR1
+#92	AnnotatorNotes T92	EG:3708
+T93	PR 1889 1894	ITPR1
+#93	AnnotatorNotes T93	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T94	SO 1919 1927	mutation
+#94	AnnotatorNotes T94	SO:0001059 (sequence_alteration)
+T95	EntrezGene 1963 1968	ITPR1
+#95	AnnotatorNotes T95	EG:3708
+T96	PR 1963 1968	ITPR1
+#96	AnnotatorNotes T96	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T97	CL 1972 1977	cells
+#97	AnnotatorNotes T97	CL:0000000 (cell)
+T98	GO_CC 1972 1977	cells
+#98	AnnotatorNotes T98	GO:0005623 (cell)
+T99	italic 2033 2038	ITPR1
+#99	AnnotatorNotes T99	italic (null)
+T100	PR 2033 2038	ITPR1
+#100	AnnotatorNotes T100	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T101	EntrezGene 2033 2038	ITPR1
+#101	AnnotatorNotes T101	EG:3708
+T102	SO 2039 2047	deletion
+#102	AnnotatorNotes T102	SO:0000045 (delete)
+T103	NCBITaxon 2087 2093	humans
+#103	AnnotatorNotes T103	NCBITaxon:9606 (Homo sapiens)
+T104	SO 2154 2158	loci
+#104	AnnotatorNotes T104	SO:0000001 (region)
+T105	NCBITaxon 2174 2179	human
+#105	AnnotatorNotes T105	NCBITaxon:9606 (Homo sapiens)
+T106	SO 2258 2269	mutagenesis
+#106	AnnotatorNotes T106	SO:0000041 (sequence_operation)
+T107	SO 2377 2386	mutations
+#107	AnnotatorNotes T107	SO:0001059 (sequence_alteration)
+T108	NCBITaxon 2411 2416	mouse
+#108	AnnotatorNotes T108	NCBITaxon:10088 (Mus)
+T109	GO_BP 2417 2425	breeding
+#109	AnnotatorNotes T109	GO:0007618 (mating)
+T110	GO_BP 2501 2514	establishment
+#110	AnnotatorNotes T110	GO:0000003 (reproduction)
+T111	GO_BP 2573 2583	generation
+#111	AnnotatorNotes T111	GO:0000003 (reproduction)
+T112	NCBITaxon 2606 2610	mice
+#112	AnnotatorNotes T112	NCBITaxon:10088 (Mus)
+T113	GO_BP 2629 2637	movement
+#113	AnnotatorNotes T113	GO:0050879 (multicellular organismal movement)
+T114	SO 2693 2699	vector
+#114	AnnotatorNotes T114	SO:0000440 (vector_replicon)
+T115	SO 2769 2776	genetic
+#115	AnnotatorNotes T115	SO:0000704 (gene)
+T116	GO_BP 2800 2808	movement
+#116	AnnotatorNotes T116	GO:0050879 (multicellular organismal movement)
+T117	SO 2870 2878	mutation
+#117	AnnotatorNotes T117	SO:0001059 (sequence_alteration)
+T118	NCBITaxon 2882 2888	humans
+#118	AnnotatorNotes T118	NCBITaxon:9606 (Homo sapiens)
+T119	SO 2940 2948	deletion
+#119	AnnotatorNotes T119	SO:0000045 (delete)
+T120	italic 2956 2961	ITPR1
+#120	AnnotatorNotes T120	italic (null)
+T121	PR 2956 2961	ITPR1
+#121	AnnotatorNotes T121	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T122	EntrezGene 2956 2961	ITPR1
+#122	AnnotatorNotes T122	EG:16438
+T123	SO 2962 2967	locus
+#123	AnnotatorNotes T123	SO:0000001 (region)
+T124	NCBITaxon 2999 3003	mice
+#124	AnnotatorNotes T124	NCBITaxon:10088 (Mus)
+T125	NCBITaxon 3048 3054	humans
+#125	AnnotatorNotes T125	NCBITaxon:9606 (Homo sapiens)
+T126	GO_BP 3088 3098	generation
+#126	AnnotatorNotes T126	GO:0000003 (reproduction)
+T127	NCBITaxon 3112 3116	mice
+#127	AnnotatorNotes T127	NCBITaxon:10088 (Mus)
+T128	SO 3138 3142	gene
+#128	AnnotatorNotes T128	SO:0000704 (gene)
+T129	italic 3143 3148	Park7
+#129	AnnotatorNotes T129	italic (null)
+T130	EntrezGene 3143 3148	Park7
+#130	AnnotatorNotes T130	EG:57320
+T131	PR 3143 3148	Park7
+#131	AnnotatorNotes T131	PR:000012286 (protein DJ-1)
+T132	GO_BP 3167 3175	movement
+#132	AnnotatorNotes T132	GO:0050879 (multicellular organismal movement)
+T133	SO 3231 3237	vector
+#133	AnnotatorNotes T133	SO:0000440 (vector_replicon)
+T134	NCBITaxon 3300 3304	mice
+#134	AnnotatorNotes T134	NCBITaxon:10088 (Mus)
+T135	GO_BP 3344 3352	movement
+#135	AnnotatorNotes T135	GO:0050879 (multicellular organismal movement)
+T136	GO_BP 3380 3385	touch
+#136	AnnotatorNotes T136	GO:0050975 (sensory perception of touch)
+T137	GO_BP 3400 3409	movements
+#137	AnnotatorNotes T137	GO:0050879 (multicellular organismal movement)
+T138	NCBITaxon 3524 3529	human
+#138	AnnotatorNotes T138	NCBITaxon:9606 (Homo sapiens)
+T139	GO_BP 3530 3538	movement
+#139	AnnotatorNotes T139	GO:0050879 (multicellular organismal movement)
+T140	GO_MF 3695 3706	ion channel
+#140	AnnotatorNotes T140	GO:0005216 (ion channel activity)
+T141	independent_continuant 3695 3706	ion channel
+#141	AnnotatorNotes T141	independent_continuant
+T142	CHEBI 3695 3698	ion
+#142	AnnotatorNotes T142	CHEBI:24870 (ions)
+T143	SO 3707 3715	mutation
+#143	AnnotatorNotes T143	SO:0001059 (sequence_alteration)
+T144	NCBITaxon 3742 3746	mice
+#144	AnnotatorNotes T144	NCBITaxon:10088 (Mus)
+T145	GO_BP 3860 3868	Breeding
+#145	AnnotatorNotes T145	GO:0007618 (mating)
+T146	GO_CC 3938 3947	autosomal
+#146	AnnotatorNotes T146	GO:0030849 (autosome)
+T147	SO 3977 3985	location
+#147	AnnotatorNotes T147	SO:0000001 (region)
+T148	SO 4030 4036	genome
+#148	AnnotatorNotes T148	SO:0001026 (genome)
+T149	SO 4081 4112	single nucleotide polymorphisms
+#149	AnnotatorNotes T149	SO:0000694 (SNP)
+T150	CHEBI 4088 4098	nucleotide
+#150	AnnotatorNotes T150	CHEBI:25613 (nucleotidyl groups)
+T151	SO 4088 4098	nucleotide
+#151	AnnotatorNotes T151	SO:0001236 (base)
+T152	SO 4114 4118	SNPs
+#152	AnnotatorNotes T152	SO:0000694 (SNP)
+T153	SO 4127 4131	loci
+#153	AnnotatorNotes T153	SO:0000001 (region)
+T154	NCBITaxon 4143 4148	mouse
+#154	AnnotatorNotes T154	NCBITaxon:10088 (Mus)
+T155	SO 4149 4155	genome
+#155	AnnotatorNotes T155	SO:0001026 (genome)
+T156	SO 4196 4210	genomic region
+#156	AnnotatorNotes T156	SO:0000991 (genomic_DNA)
+T157	SO 4196 4203	genomic
+#157	AnnotatorNotes T157	SO:0001026 (genome)
+T158	GO_CC 4316 4326	Chromosome
+#158	AnnotatorNotes T158	GO:0005694 (chromosome)
+T159	SO 4316 4326	Chromosome
+#159	AnnotatorNotes T159	SO:0000340 (chromosome)
+T160	SO 4344 4353	haplotype
+#160	AnnotatorNotes T160	SO:0001024 (haplotype)
+T161	SO 4368 4376	mutation
+#161	AnnotatorNotes T161	SO:0000041 (sequence_operation)
+T162	SO 4518 4524	mutant
+#162	AnnotatorNotes T162	SO:0001059 (sequence_alteration)
+T163	italic 4525 4528	opt
+#163	AnnotatorNotes T163	italic (null)
+T164	NCBITaxon 4529 4534	mouse
+#164	AnnotatorNotes T164	NCBITaxon:10088 (Mus)
+T165	SO 4621 4628	genetic
+#165	AnnotatorNotes T165	SO:0000704 (gene)
+T166	italic 4648 4651	opt
+#166	AnnotatorNotes T166	italic (null)
+T167	SO 4681 4686	frame
+#167	AnnotatorNotes T167	SO:0000717 (reading_frame)
+T168	SO 4687 4695	deletion
+#168	AnnotatorNotes T168	SO:0000159 (deletion)
+T169	SO 4699 4704	exons
+#169	AnnotatorNotes T169	SO:0000147 (exon)
+T170	SO 4722 4726	gene
+#170	AnnotatorNotes T170	SO:0000704 (gene)
+T171	italic 4727 4732	Itpr1
+#171	AnnotatorNotes T171	italic (null)
+T172	PR 4727 4732	Itpr1
+#172	AnnotatorNotes T172	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T173	EntrezGene 4727 4732	Itpr1
+#173	AnnotatorNotes T173	EG:16438
+T174	italic 4734 4742	Itpr1opt
+#174	AnnotatorNotes T174	italic (null)
+T175	sup 4739 4742	opt
+#175	AnnotatorNotes T175	sup (null)
+T176	sup 4742 4746	/opt
+#176	AnnotatorNotes T176	sup (null)
+T177	italic 4743 4746	opt
+#177	AnnotatorNotes T177	italic (null)
+T178	EntrezGene 4758 4796	inositol 1,4,5-triphosphate receptor 1
+#178	AnnotatorNotes T178	EG:16438
+T179	PR 4758 4796	inositol 1,4,5-triphosphate receptor 1
+#179	AnnotatorNotes T179	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T180	independent_continuant 4758 4794	inositol 1,4,5-triphosphate receptor
+#180	AnnotatorNotes T180	independent_continuant
+T181	GO_MF 4758 4794	inositol 1,4,5-triphosphate receptor
+#181	AnnotatorNotes T181	GO:0008095 (inositol-1,4,5-triphosphate receptor activity)
+T182	CHEBI 4758 4766	inositol
+#182	AnnotatorNotes T182	CHEBI:24848 (inositols)
+T183	EntrezGene 4798 4803	Itpr1
+#183	AnnotatorNotes T183	EG:16438
+T184	PR 4798 4803	Itpr1
+#184	AnnotatorNotes T184	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T185	SO 4824 4829	exons
+#185	AnnotatorNotes T185	SO:0000147 (exon)
+T186	SO 4834 4856	intron–exon boundaries
+#186	AnnotatorNotes T186	SO:0001421 (splice_junction)
+T187	SO 4834 4840	intron
+#187	AnnotatorNotes T187	SO:0000188 (intron)
+T188	SO 4841 4845	exon
+#188	AnnotatorNotes T188	SO:0000147 (exon)
+T189	italic 4860 4865	Itpr1
+#189	AnnotatorNotes T189	italic (null)
+T190	PR 4860 4865	Itpr1
+#190	AnnotatorNotes T190	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T191	EntrezGene 4860 4865	Itpr1
+#191	AnnotatorNotes T191	EG:16438
+T192	NCBITaxon 4878 4882	mice
+#192	AnnotatorNotes T192	NCBITaxon:10088 (Mus)
+T193	SO 4924 4932	mutation
+#193	AnnotatorNotes T193	SO:0001059 (sequence_alteration)
+T194	italic 4940 4946	Itpr1:
+#194	AnnotatorNotes T194	italic (null)
+T195	EntrezGene 4940 4945	Itpr1
+#195	AnnotatorNotes T195	EG:16438
+T196	PR 4940 4945	Itpr1
+#196	AnnotatorNotes T196	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T197	SO 4958 4963	frame
+#197	AnnotatorNotes T197	SO:0000717 (reading_frame)
+T198	SO 4964 4972	deletion
+#198	AnnotatorNotes T198	SO:0000159 (deletion)
+T199	SO 4979 4981	bp
+#199	AnnotatorNotes T199	SO:0000028 (base_pair)
+T200	SO 4989 4993	exon
+#200	AnnotatorNotes T200	SO:0000147 (exon)
+T201	italic 4998 5010	Itpr1Δ18/Δ18
+#201	AnnotatorNotes T201	italic (null)
+T202	sup 5003 5010	Δ18/Δ18
+#202	AnnotatorNotes T202	sup (null)
+T203	SO 5050 5058	mutation
+#203	AnnotatorNotes T203	SO:0001059 (sequence_alteration)
+T204	NCBITaxon 5083 5087	mice
+#204	AnnotatorNotes T204	NCBITaxon:10088 (Mus)
+T205	italic 5112 5123	Itpr1wt/Δ18
+#205	AnnotatorNotes T205	italic (null)
+T206	sup 5117 5123	wt/Δ18
+#206	AnnotatorNotes T206	sup (null)
+T207	NCBITaxon 5130 5134	mice
+#207	AnnotatorNotes T207	NCBITaxon:10088 (Mus)
+T208	italic 5156 5159	opt
+#208	AnnotatorNotes T208	italic (null)
+T209	SO 5160 5168	mutation
+#209	AnnotatorNotes T209	SO:0001059 (sequence_alteration)
+T210	italic 5170 5181	Itpr1wt/opt
+#210	AnnotatorNotes T210	italic (null)
+T211	sup 5175 5181	wt/opt
+#211	AnnotatorNotes T211	sup (null)
+T212	NCBITaxon 5216 5220	mice
+#212	AnnotatorNotes T212	NCBITaxon:10088 (Mus)
+T213	italic 5251 5263	Itpr1opt/Δ18
+#213	AnnotatorNotes T213	italic (null)
+T214	sup 5256 5263	opt/Δ18
+#214	AnnotatorNotes T214	sup (null)
+T215	italic 5342 5354	Itpr1Δ18/Δ18
+#215	AnnotatorNotes T215	italic (null)
+T216	sup 5347 5354	Δ18/Δ18
+#216	AnnotatorNotes T216	sup (null)
+T217	italic 5359 5367	Itpr1opt
+#217	AnnotatorNotes T217	italic (null)
+T218	sup 5364 5367	opt
+#218	AnnotatorNotes T218	sup (null)
+T219	sup 5367 5371	/opt
+#219	AnnotatorNotes T219	sup (null)
+T220	italic 5368 5371	opt
+#220	AnnotatorNotes T220	italic (null)
+T221	NCBITaxon 5372 5376	mice
+#221	AnnotatorNotes T221	NCBITaxon:10088 (Mus)
+T222	NCBITaxon 5468 5473	mouse
+#222	AnnotatorNotes T222	NCBITaxon:10088 (Mus)
+T223	SO 5493 5501	deletion
+#223	AnnotatorNotes T223	SO:0000045 (delete)
+T224	italic 5505 5511	Itpr1,
+#224	AnnotatorNotes T224	italic (null)
+T225	EntrezGene 5505 5510	Itpr1
+#225	AnnotatorNotes T225	EG:16438
+T226	PR 5505 5510	Itpr1
+#226	AnnotatorNotes T226	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T227	italic 5579 5587	Itpr1opt
+#227	AnnotatorNotes T227	italic (null)
+T228	sup 5584 5587	opt
+#228	AnnotatorNotes T228	sup (null)
+T229	sup 5587 5591	/opt
+#229	AnnotatorNotes T229	sup (null)
+T230	italic 5588 5591	opt
+#230	AnnotatorNotes T230	italic (null)
+T231	NCBITaxon 5592 5596	mice
+#231	AnnotatorNotes T231	NCBITaxon:10088 (Mus)
+T232	SO 5608 5616	deletion
+#232	AnnotatorNotes T232	SO:0000045 (delete)
+T233	SO 5620 5625	exons
+#233	AnnotatorNotes T233	SO:0000147 (exon)
+T234	GO_BP 5667 5680	translational
+#234	AnnotatorNotes T234	GO:0006412 (translation)
+T235	SO 5681 5694	reading frame
+#235	AnnotatorNotes T235	SO:0000717 (reading_frame)
+T236	SO 5714 5719	frame
+#236	AnnotatorNotes T236	SO:0000717 (reading_frame)
+T237	italic 5720 5732	Itpr1Δ18/Δ18
+#237	AnnotatorNotes T237	italic (null)
+T238	sup 5725 5732	Δ18/Δ18
+#238	AnnotatorNotes T238	sup (null)
+T239	SO 5733 5750	deletion mutation
+#239	AnnotatorNotes T239	SO:0000159 (deletion)
+T240	EntrezGene 5791 5796	Itpr1
+#240	AnnotatorNotes T240	EG:16438
+T241	PR 5791 5796	Itpr1
+#241	AnnotatorNotes T241	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T242	CL 5811 5825	Purkinje cells
+#242	AnnotatorNotes T242	CL:0000121 (Purkinje cell)
+T243	GO_CC 5820 5825	cells
+#243	AnnotatorNotes T243	GO:0005623 (cell)
+T244	SO 5852 5859	mutants
+#244	AnnotatorNotes T244	SO:0001059 (sequence_alteration)
+T245	independent_continuant 5852 5859	mutants
+#245	AnnotatorNotes T245	independent_continuant
+T246	italic 5875 5881	Itpr1-
+#246	AnnotatorNotes T246	italic (null)
+T247	EntrezGene 5875 5880	Itpr1
+#247	AnnotatorNotes T247	EG:16438
+T248	PR 5875 5880	Itpr1
+#248	AnnotatorNotes T248	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T249	NCBITaxon 5891 5896	mouse
+#249	AnnotatorNotes T249	NCBITaxon:10088 (Mus)
+T250	GO_BP 5901 5910	generated
+#250	AnnotatorNotes T250	GO:0000003 (reproduction)
+T251	SO 5914 5918	gene
+#251	AnnotatorNotes T251	SO:0000704 (gene)
+T252	EntrezGene 5940 5945	Itpr1
+#252	AnnotatorNotes T252	EG:16438
+T253	PR 5940 5945	Itpr1
+#253	AnnotatorNotes T253	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T254	GO_BP 5946 5956	expression
+#254	AnnotatorNotes T254	GO:0010467 (gene expression)
+T255	GO_CC 5985 5994	autosomal
+#255	AnnotatorNotes T255	GO:0030849 (autosome)
+T256	GO_BP 6005 6013	movement
+#256	AnnotatorNotes T256	GO:0050879 (multicellular organismal movement)
+T257	NCBITaxon 6058 6063	human
+#257	AnnotatorNotes T257	NCBITaxon:9606 (Homo sapiens)
+T258	NCBITaxon 6119 6124	human
+#258	AnnotatorNotes T258	NCBITaxon:9606 (Homo sapiens)
+T259	SO 6177 6192	syntenic region
+#259	AnnotatorNotes T259	SO:0005858 (syntenic_region)
+T260	SO 6177 6185	syntenic
+#260	AnnotatorNotes T260	SO:0000860 (syntenic)
+T261	NCBITaxon 6200 6205	human
+#261	AnnotatorNotes T261	NCBITaxon:9606 (Homo sapiens)
+T262	SO 6206 6212	genome
+#262	AnnotatorNotes T262	SO:0001026 (genome)
+T263	SO 6234 6242	mutation
+#263	AnnotatorNotes T263	SO:0001059 (sequence_alteration)
+T264	GO_CC 6286 6295	autosomal
+#264	AnnotatorNotes T264	GO:0030849 (autosome)
+T265	SO 6342 6347	locus
+#265	AnnotatorNotes T265	SO:0000001 (region)
+T266	SO 6371 6379	mutation
+#266	AnnotatorNotes T266	SO:0000041 (sequence_operation)
+T267	SO 6371 6379	mutation
+#267	AnnotatorNotes T267	SO:0001059 (sequence_alteration)
+T268	italic 6383 6388	ITPR1
+#268	AnnotatorNotes T268	italic (null)
+T269	EntrezGene 6383 6388	ITPR1
+#269	AnnotatorNotes T269	EG:3708
+T270	PR 6383 6388	ITPR1
+#270	AnnotatorNotes T270	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T271	italic 6490 6498	Itpr1Δ18
+#271	AnnotatorNotes T271	italic (null)
+T272	sup 6495 6498	Δ18
+#272	AnnotatorNotes T272	sup (null)
+T273	italic 6503 6511	Itpr1opt
+#273	AnnotatorNotes T273	italic (null)
+T274	sup 6508 6511	opt
+#274	AnnotatorNotes T274	sup (null)
+T275	NCBITaxon 6512 6516	mice
+#275	AnnotatorNotes T275	NCBITaxon:10088 (Mus)
+T276	NCBITaxon 6559 6563	mice
+#276	AnnotatorNotes T276	NCBITaxon:10088 (Mus)
+T277	SO 6599 6603	gene
+#277	AnnotatorNotes T277	SO:0000704 (gene)
+T278	SO 6647 6658	genomic DNA
+#278	AnnotatorNotes T278	SO:0000991 (genomic_DNA)
+T279	SO 6647 6654	genomic
+#279	AnnotatorNotes T279	SO:0001026 (genome)
+T280	SO 6939 6947	sequence
+#280	AnnotatorNotes T280	SO:0000001 (region)
+T281	SO 6964 6976	coding exons
+#281	AnnotatorNotes T281	SO:0000195 (coding_exon)
+T282	italic 6980 6985	ITPR1
+#282	AnnotatorNotes T282	italic (null)
+T283	EntrezGene 6980 6985	ITPR1
+#283	AnnotatorNotes T283	EG:3708
+T284	PR 6980 6985	ITPR1
+#284	AnnotatorNotes T284	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T285	SO 7003 7009	genome
+#285	AnnotatorNotes T285	SO:0001026 (genome)
+T286	SO 7015 7018	SNP
+#286	AnnotatorNotes T286	SO:0000694 (SNP)
+T287	SO 7031 7039	Sequence
+#287	AnnotatorNotes T287	SO:0000001 (region)
+T288	SO 7068 7074	coding
+#288	AnnotatorNotes T288	SO:0000316 (CDS)
+T289	SO 7075 7086	alterations
+#289	AnnotatorNotes T289	SO:0001059 (sequence_alteration)
+T290	SO 7119 7130	alterations
+#290	AnnotatorNotes T290	SO:0001059 (sequence_alteration)
+T291	SO 7256 7262	allele
+#291	AnnotatorNotes T291	SO:0001023 (allele)
+T292	SO 7290 7296	genome
+#292	AnnotatorNotes T292	SO:0001026 (genome)
+T293	SO 7302 7305	SNP
+#293	AnnotatorNotes T293	SO:0000694 (SNP)
+T294	SO 7380 7387	genomic
+#294	AnnotatorNotes T294	SO:0001026 (genome)
+T295	SO 7388 7396	deletion
+#295	AnnotatorNotes T295	SO:0000159 (deletion)
+T296	italic 7427 7432	ITPR1
+#296	AnnotatorNotes T296	italic (null)
+T297	EntrezGene 7427 7432	ITPR1
+#297	AnnotatorNotes T297	EG:3708
+T298	PR 7427 7432	ITPR1
+#298	AnnotatorNotes T298	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T299	SO 7476 7480	gene
+#299	AnnotatorNotes T299	SO:0000704 (gene)
+T300	italic 7482 7487	SUMF1
+#300	AnnotatorNotes T300	italic (null)
+T301	PR 7482 7487	SUMF1
+#301	AnnotatorNotes T301	PR:000015827 (sulfatase-modifying factor 1)
+T302	EntrezGene 7482 7487	SUMF1
+#302	AnnotatorNotes T302	EG:285362
+T303	SO 7505 7513	deletion
+#303	AnnotatorNotes T303	SO:0000159 (deletion)
+T304	SO 7652 7655	SNP
+#304	AnnotatorNotes T304	SO:0000694 (SNP)
+T305	SO 7670 7678	deletion
+#305	AnnotatorNotes T305	SO:0000159 (deletion)
+T306	SO 7732 7736	SNPs
+#306	AnnotatorNotes T306	SO:0000694 (SNP)
+T307	SO 7744 7768	flanking unknown regions
+#307	AnnotatorNotes T307	"flanking .. regions" SO:0000239 (flanking_region)
+T308	SO 7777 7785	deletion
+#308	AnnotatorNotes T308	SO:0000159 (deletion)
+T309	SO 7812 7835	borders of the deletion
+#309	AnnotatorNotes T309	"borders of .. deletion" SO:0000687 (deletion_junction)
+T310	SO 7827 7835	deletion
+#310	AnnotatorNotes T310	SO:0000159 (deletion)
+T311	SO 7853 7862	telomeric
+#311	AnnotatorNotes T311	SO:0000624 (telomere)
+T312	SO 7875 7883	deletion
+#312	AnnotatorNotes T312	SO:0000159 (deletion)
+T313	SO 7938 7949	centromeric
+#313	AnnotatorNotes T313	SO:0000577 (centromere)
+T314	SO 7962 7970	deletion
+#314	AnnotatorNotes T314	SO:0000159 (deletion)
+T315	SO 8044 8053	variation
+#315	AnnotatorNotes T315	SO:0001059 (sequence_alteration)
+T316	SO 8067 8079	polymorphism
+#316	AnnotatorNotes T316	SO:0001025 (polymorphic_sequence_variant)
+T317	SO 8067 8079	polymorphism
+#317	AnnotatorNotes T317	SO:0000694 (SNP)
+T318	SO 8092 8098	genome
+#318	AnnotatorNotes T318	SO:0001026 (genome)
+T319	SO 8104 8107	SNP
+#319	AnnotatorNotes T319	SO:0000694 (SNP)
+T320	SO 8121 8126	locus
+#320	AnnotatorNotes T320	SO:0000001 (region)
+T321	NCBITaxon 8178 8189	individuals
+#321	AnnotatorNotes T321	NCBITaxon:1 (root)
+T322	NCBITaxon 8238 8249	individuals
+#322	AnnotatorNotes T322	NCBITaxon:1 (root)
+T323	SO 8313 8322	deletions
+#323	AnnotatorNotes T323	SO:0000159 (deletion)
+T324	SO 8337 8352	coding sequence
+#324	AnnotatorNotes T324	SO:0000316 (CDS)
+T325	SO 8363 8367	gene
+#325	AnnotatorNotes T325	SO:0000704 (gene)
+T326	italic 8369 8374	ITPR1
+#326	AnnotatorNotes T326	italic (null)
+T327	PR 8369 8374	ITPR1
+#327	AnnotatorNotes T327	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T328	EntrezGene 8369 8374	ITPR1
+#328	AnnotatorNotes T328	EG:3708
+T329	italic 8378 8384	SUMF1;
+#329	AnnotatorNotes T329	italic (null)
+T330	EntrezGene 8378 8383	SUMF1
+#330	AnnotatorNotes T330	EG:285362
+T331	PR 8378 8383	SUMF1
+#331	AnnotatorNotes T331	PR:000015827 (sulfatase-modifying factor 1)
+T332	NCBITaxon 8420 8430	individual
+#332	AnnotatorNotes T332	NCBITaxon:1 (root)
+T333	SO 8460 8468	deletion
+#333	AnnotatorNotes T333	SO:0000159 (deletion)
+T334	SO 8503 8509	intron
+#334	AnnotatorNotes T334	SO:0000188 (intron)
+T335	italic 8519 8525	ITPR1,
+#335	AnnotatorNotes T335	italic (null)
+T336	EntrezGene 8519 8524	ITPR1
+#336	AnnotatorNotes T336	EG:3708
+T337	PR 8519 8524	ITPR1
+#337	AnnotatorNotes T337	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T338	SO 8550 8554	exon
+#338	AnnotatorNotes T338	SO:0000147 (exon)
+T339	SO 8569 8577	location
+#339	AnnotatorNotes T339	SO:0000001 (region)
+T340	SO 8586 8596	alteration
+#340	AnnotatorNotes T340	SO:0001059 (sequence_alteration)
+T341	GO_BP 8626 8636	expression
+#341	AnnotatorNotes T341	GO:0010467 (gene expression)
+T342	GO_BP 8640 8648	splicing
+#342	AnnotatorNotes T342	GO:0008380 (RNA splicing)
+T343	italic 8652 8657	ITPR1
+#343	AnnotatorNotes T343	italic (null)
+T344	PR 8652 8657	ITPR1
+#344	AnnotatorNotes T344	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T345	EntrezGene 8652 8657	ITPR1
+#345	AnnotatorNotes T345	EG:3708
+T346	SO 8690 8733	breakpoints of the disease-causing deletion
+#346	AnnotatorNotes T346	"breakpoints of .. deletion" SO:0001415 (deletion_breakpoint)
+T347	SO 8725 8733	deletion
+#347	AnnotatorNotes T347	SO:0000159 (deletion)
+T348	SO 8802 8811	intervals
+#348	AnnotatorNotes T348	SO:0000001 (region)
+T349	SO 8819 8824	edges
+#349	AnnotatorNotes T349	SO:0000699 (junction)
+T350	SO 8842 8849	deleted
+#350	AnnotatorNotes T350	SO:0000045 (delete)
+T351	SO 8871 8880	sequences
+#351	AnnotatorNotes T351	SO:0000001 (region)
+T352	SO 8914 8921	borders
+#352	AnnotatorNotes T352	SO:0000699 (junction)
+T353	SO 8938 8947	telomeric
+#353	AnnotatorNotes T353	SO:0000624 (telomere)
+T354	SO 8970 8981	centromeric
+#354	AnnotatorNotes T354	SO:0000577 (centromere)
+T355	SO 9025 9052	forward orientation primers
+#355	AnnotatorNotes T355	SO:0000121 (forward_primer)
+T356	SO 9025 9044	forward orientation
+#356	AnnotatorNotes T356	SO:0001030 (forward)
+T357	SO 9053 9061	designed
+#357	AnnotatorNotes T357	SO:0000546 (designed_sequence)
+T358	SO 9087 9096	telomeric
+#358	AnnotatorNotes T358	SO:0000624 (telomere)
+T359	SO 9097 9105	boundary
+#359	AnnotatorNotes T359	SO:0000699 (junction)
+T360	SO 9113 9140	reverse orientation primers
+#360	AnnotatorNotes T360	SO:0000132 (reverse_primer)
+T361	SO 9113 9132	reverse orientation
+#361	AnnotatorNotes T361	SO:0001031 (reverse)
+T362	SO 9141 9149	designed
+#362	AnnotatorNotes T362	SO:0000546 (designed_sequence)
+T363	SO 9175 9186	centromeric
+#363	AnnotatorNotes T363	SO:0000577 (centromere)
+T364	SO 9187 9195	boundary
+#364	AnnotatorNotes T364	SO:0000699 (junction)
+T365	SO 9246 9254	deletion
+#365	AnnotatorNotes T365	SO:0000159 (deletion)
+T366	SO 9293 9300	primers
+#366	AnnotatorNotes T366	SO:0000112 (primer)
+T367	SO 9381 9389	fragment
+#367	AnnotatorNotes T367	SO:0000731 (fragmentary)
+T368	SO 9394 9396	bp
+#368	AnnotatorNotes T368	SO:0000028 (base_pair)
+T369	SO 9411 9414	DNA
+#369	AnnotatorNotes T369	SO:0000352 (DNA)
+T370	SO 9494 9502	fragment
+#370	AnnotatorNotes T370	SO:0000731 (fragmentary)
+T371	SO 9514 9522	deletion
+#371	AnnotatorNotes T371	SO:0000159 (deletion)
+T372	SO 9534 9536	bp
+#372	AnnotatorNotes T372	SO:0000028 (base_pair)
+T373	SO 9550 9558	removing
+#373	AnnotatorNotes T373	SO:0000045 (delete)
+T374	SO 9587 9592	exons
+#374	AnnotatorNotes T374	SO:0000147 (exon)
+T375	italic 9596 9601	SUMF1
+#375	AnnotatorNotes T375	italic (null)
+T376	PR 9596 9601	SUMF1
+#376	AnnotatorNotes T376	PR:000015827 (sulfatase-modifying factor 1)
+T377	EntrezGene 9596 9601	SUMF1
+#377	AnnotatorNotes T377	EG:285362
+T378	SO 9630 9635	exons
+#378	AnnotatorNotes T378	SO:0000147 (exon)
+T379	italic 9639 9644	ITPR1
+#379	AnnotatorNotes T379	italic (null)
+T380	EntrezGene 9639 9644	ITPR1
+#380	AnnotatorNotes T380	EG:3708
+T381	PR 9639 9644	ITPR1
+#381	AnnotatorNotes T381	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T382	SO 9676 9684	deletion
+#382	AnnotatorNotes T382	SO:0000159 (deletion)
+T383	SO 9694 9702	fragment
+#383	AnnotatorNotes T383	SO:0000731 (fragmentary)
+T384	SO 9817 9824	genetic
+#384	AnnotatorNotes T384	SO:0000704 (gene)
+T385	SO 9825 9833	deletion
+#385	AnnotatorNotes T385	SO:0000045 (delete)
+T386	italic 9837 9842	ITPR1
+#386	AnnotatorNotes T386	italic (null)
+T387	EntrezGene 9837 9842	ITPR1
+#387	AnnotatorNotes T387	EG:3708
+T388	PR 9837 9842	ITPR1
+#388	AnnotatorNotes T388	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T389	SO 10048 10051	DNA
+#389	AnnotatorNotes T389	SO:0000352 (DNA)
+T390	SO 10226 10234	deletion
+#390	AnnotatorNotes T390	SO:0000045 (delete)
+T391	SO 10248 10253	locus
+#391	AnnotatorNotes T391	SO:0000001 (region)
+T392	italic 10292 10297	SUMF1
+#392	AnnotatorNotes T392	italic (null)
+T393	PR 10292 10297	SUMF1
+#393	AnnotatorNotes T393	PR:000015827 (sulfatase-modifying factor 1)
+T394	EntrezGene 10292 10297	SUMF1
+#394	AnnotatorNotes T394	EG:285362
+T395	italic 10306 10311	ITPR1
+#395	AnnotatorNotes T395	italic (null)
+T396	PR 10306 10311	ITPR1
+#396	AnnotatorNotes T396	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T397	EntrezGene 10306 10311	ITPR1
+#397	AnnotatorNotes T397	EG:3708
+T398	SO 10319 10328	mutations
+#398	AnnotatorNotes T398	SO:0001059 (sequence_alteration)
+T399	SO 10465 10475	breakpoint
+#399	AnnotatorNotes T399	SO:0001021 (chromosome_breakpoint)
+T400	SO 10529 10537	deletion
+#400	AnnotatorNotes T400	SO:0000159 (deletion)
+T401	SO 10552 10554	bp
+#401	AnnotatorNotes T401	SO:0000028 (base_pair)
+T402	SO 10556 10564	removing
+#402	AnnotatorNotes T402	SO:0000045 (delete)
+T403	SO 10565 10570	exons
+#403	AnnotatorNotes T403	SO:0000147 (exon)
+T404	italic 10578 10583	SUMF1
+#404	AnnotatorNotes T404	italic (null)
+T405	PR 10578 10583	SUMF1
+#405	AnnotatorNotes T405	PR:000015827 (sulfatase-modifying factor 1)
+T406	EntrezGene 10578 10583	SUMF1
+#406	AnnotatorNotes T406	EG:285362
+T407	italic 10596 10602	ITPR1;
+#407	AnnotatorNotes T407	italic (null)
+T408	EntrezGene 10596 10601	ITPR1
+#408	AnnotatorNotes T408	EG:3708
+T409	PR 10596 10601	ITPR1
+#409	AnnotatorNotes T409	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T410	SO 10639 10647	deletion
+#410	AnnotatorNotes T410	SO:0000159 (deletion)
+T411	SO 10680 10687	removes
+#411	AnnotatorNotes T411	SO:0000045 (delete)
+T412	SO 10688 10693	exons
+#412	AnnotatorNotes T412	SO:0000147 (exon)
+T413	italic 10701 10706	SUMF1
+#413	AnnotatorNotes T413	italic (null)
+T414	PR 10701 10706	SUMF1
+#414	AnnotatorNotes T414	PR:000015827 (sulfatase-modifying factor 1)
+T415	EntrezGene 10701 10706	SUMF1
+#415	AnnotatorNotes T415	EG:285362
+T416	SO 10711 10716	exons
+#416	AnnotatorNotes T416	SO:0000147 (exon)
+T417	italic 10725 10730	ITPR1
+#417	AnnotatorNotes T417	italic (null)
+T418	EntrezGene 10725 10730	ITPR1
+#418	AnnotatorNotes T418	EG:3708
+T419	PR 10725 10730	ITPR1
+#419	AnnotatorNotes T419	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T420	SO 10736 10740	site
+#420	AnnotatorNotes T420	SO:0000001 (region)
+T421	SO 10744 10752	mutation
+#421	AnnotatorNotes T421	SO:0000041 (sequence_operation)
+T422	SO 10830 10839	telomeric
+#422	AnnotatorNotes T422	SO:0000624 (telomere)
+T423	SO 10851 10859	deletion
+#423	AnnotatorNotes T423	SO:0000159 (deletion)
+T424	SO 10880 10885	exons
+#424	AnnotatorNotes T424	SO:0000147 (exon)
+T425	italic 10897 10903	SUMF1;
+#425	AnnotatorNotes T425	italic (null)
+T426	EntrezGene 10897 10902	SUMF1
+#426	AnnotatorNotes T426	EG:285362
+T427	PR 10897 10902	SUMF1
+#427	AnnotatorNotes T427	PR:000015827 (sulfatase-modifying factor 1)
+T428	SO 10904 10912	sequence
+#428	AnnotatorNotes T428	SO:0000001 (region)
+T429	SO 10945 10961	repeat sequences
+#429	AnnotatorNotes T429	SO:0000657 (repeat_region)
+T430	SO 10945 10961	repeat sequences
+#430	AnnotatorNotes T430	SO:0000726 (repeat_unit)
+T431	italic 11050 11061	SUMF1–ITPR1
+#431	AnnotatorNotes T431	italic (null)
+T432	EntrezGene 11050 11055	SUMF1
+#432	AnnotatorNotes T432	EG:285362
+T433	PR 11050 11055	SUMF1
+#433	AnnotatorNotes T433	PR:000015827 (sulfatase-modifying factor 1)
+T434	EntrezGene 11056 11061	ITPR1
+#434	AnnotatorNotes T434	EG:3708
+T435	PR 11056 11061	ITPR1
+#435	AnnotatorNotes T435	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T436	SO 11062 11070	deletion
+#436	AnnotatorNotes T436	SO:0000159 (deletion)
+T437	SO 11081 11089	deletion
+#437	AnnotatorNotes T437	SO:0000159 (deletion)
+T438	SO 11200 11208	deletion
+#438	AnnotatorNotes T438	SO:0000159 (deletion)
+T439	SO 11223 11230	genetic
+#439	AnnotatorNotes T439	SO:0000704 (gene)
+T440	SO 11395 11403	deletion
+#440	AnnotatorNotes T440	SO:0000045 (delete)
+T441	italic 11407 11413	SUMF1,
+#441	AnnotatorNotes T441	italic (null)
+T442	EntrezGene 11407 11412	SUMF1
+#442	AnnotatorNotes T442	EG:285362
+T443	PR 11407 11412	SUMF1
+#443	AnnotatorNotes T443	PR:000015827 (sulfatase-modifying factor 1)
+T444	EntrezGene 11423 11451	sulfatase modifying factor 1
+#444	AnnotatorNotes T444	EG:285362
+T445	PR 11423 11451	sulfatase modifying factor 1
+#445	AnnotatorNotes T445	PR:000015827 (sulfatase-modifying factor 1)
+T446	GO_MF 11423 11432	sulfatase
+#446	AnnotatorNotes T446	GO:0008484 (sulfuric ester hydrolase activity)
+T447	independent_continuant 11423 11432	sulfatase
+#447	AnnotatorNotes T447	independent_continuant
+T448	SO 11506 11514	mutation
+#448	AnnotatorNotes T448	SO:0000041 (sequence_operation)
+T449	italic 11518 11523	SUMF1
+#449	AnnotatorNotes T449	italic (null)
+T450	EntrezGene 11518 11523	SUMF1
+#450	AnnotatorNotes T450	EG:285362
+T451	PR 11518 11523	SUMF1
+#451	AnnotatorNotes T451	PR:000015827 (sulfatase-modifying factor 1)
+T452	GO_CC 11535 11544	autosomal
+#452	AnnotatorNotes T452	GO:0030849 (autosome)
+T453	GO_MF 11564 11573	sulfatase
+#453	AnnotatorNotes T453	GO:0008484 (sulfuric ester hydrolase activity)
+T454	independent_continuant 11564 11573	sulfatase
+#454	AnnotatorNotes T454	independent_continuant
+T455	GO_BP 11588 11597	metabolic
+#455	AnnotatorNotes T455	GO:0008152 (metabolic process)
+T456	GO_BP 11658 11671	developmental
+#456	AnnotatorNotes T456	GO:0032502 (developmental process)
+T457	GO_MF 11783 11792	sulfatase
+#457	AnnotatorNotes T457	GO:0008484 (sulfuric ester hydrolase activity)
+T458	independent_continuant 11783 11792	sulfatase
+#458	AnnotatorNotes T458	independent_continuant
+T459	SO 11817 11825	mutation
+#459	AnnotatorNotes T459	SO:0000041 (sequence_operation)
+T460	italic 11829 11834	ITPR1
+#460	AnnotatorNotes T460	italic (null)
+T461	PR 11829 11834	ITPR1
+#461	AnnotatorNotes T461	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T462	EntrezGene 11829 11834	ITPR1
+#462	AnnotatorNotes T462	EG:3708
+T463	CHEBI 11887 11894	protein
+#463	AnnotatorNotes T463	CHEBI:36080 (proteins)
+T464	GO_BP 11905 11914	expressed
+#464	AnnotatorNotes T464	GO:0010467 (gene expression)
+T465	CL 11918 11932	Purkinje cells
+#465	AnnotatorNotes T465	CL:0000121 (Purkinje cell)
+T466	GO_CC 11927 11932	cells
+#466	AnnotatorNotes T466	GO:0005623 (cell)
+T467	NCBITaxon 11957 11961	mice
+#467	AnnotatorNotes T467	NCBITaxon:10088 (Mus)
+T468	SO 11967 11975	mutation
+#468	AnnotatorNotes T468	SO:0001059 (sequence_alteration)
+T469	SO 11967 11975	mutation
+#469	AnnotatorNotes T469	SO:0000041 (sequence_operation)
+T470	SO 11984 11989	locus
+#470	AnnotatorNotes T470	SO:0000001 (region)
+T471	GO_BP 12025 12039	Ca2+ signaling
+#471	AnnotatorNotes T471	GO:0019722 (calcium-mediated signaling)
+T472	CHEBI 12025 12029	Ca2+
+#472	AnnotatorNotes T472	CHEBI:29108 (calcium(2+))
+T473	sup 12027 12029	2+
+#473	AnnotatorNotes T473	sup (null)
+T474	CHEBI 12197 12204	protein
+#474	AnnotatorNotes T474	CHEBI:36080 (proteins)
+T475	EntrezGene 12215 12220	ITPR1
+#475	AnnotatorNotes T475	EG:3708
+T476	PR 12215 12220	ITPR1
+#476	AnnotatorNotes T476	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T477	NCBITaxon 12224 12242	Epstein-Barr virus
+#477	AnnotatorNotes T477	NCBITaxon:10376 (Human herpesvirus 4)
+T478	NCBITaxon 12244 12247	EBV
+#478	AnnotatorNotes T478	NCBITaxon:10376 (Human herpesvirus 4)
+T479	GO_BP 12249 12261	immortalized
+#479	AnnotatorNotes T479	GO:0020021 (immortalization of host cell)
+T480	CL 12262 12273	lymphocytes
+#480	AnnotatorNotes T480	CL:0000542 (lymphocyte)
+T481	EntrezGene 12388 12393	ITPR1
+#481	AnnotatorNotes T481	EG:3708
+T482	PR 12388 12393	ITPR1
+#482	AnnotatorNotes T482	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T483	SO 12450 12458	deletion
+#483	AnnotatorNotes T483	SO:0000159 (deletion)
+T484	PR 12472 12477	Itpr1
+#484	AnnotatorNotes T484	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T485	SO 12493 12500	domains
+#485	AnnotatorNotes T485	SO:0000417 (polypeptide_domain)
+T486	SO 12505 12552	N-terminal inositol triphosphate binding domain
+#486	AnnotatorNotes T486	"N-terminal .. domain" SO:0100014 (n_terminal_region)
+T487	CHEBI 12505 12506	N
+#487	AnnotatorNotes T487	CHEBI:46882 (amino group)
+T488	CHEBI 12516 12524	inositol
+#488	AnnotatorNotes T488	CHEBI:24848 (inositols)
+T489	SO 12538 12552	binding domain
+#489	AnnotatorNotes T489	SO:0100018 (polypeptide_binding_motif)
+T490	GO_MF 12538 12545	binding
+#490	AnnotatorNotes T490	GO:0005488 (binding)
+T491	SO 12546 12552	domain
+#491	AnnotatorNotes T491	SO:0000417 (polypeptide_domain)
+T492	SO 12565 12571	domain
+#492	AnnotatorNotes T492	SO:0000417 (polypeptide_domain)
+T493	SO 12579 12610	C-terminal transmembrane domain
+#493	AnnotatorNotes T493	"C-terminal .. domain" SO:0100015 (c_terminal_region)
+T494	CHEBI 12579 12580	C
+#494	AnnotatorNotes T494	CHEBI:18245 (carboxylato group)
+T495	CHEBI 12579 12580	C
+#495	AnnotatorNotes T495	CHEBI:46883 (carboxy group)
+T496	GO_CC 12590 12603	transmembrane
+#496	AnnotatorNotes T496	GO:0016021 (integral to membrane)
+T497	GO_MF 12633 12647	protein kinase
+#497	AnnotatorNotes T497	GO:0004672 (protein kinase activity)
+T498	independent_continuant 12633 12647	protein kinase
+#498	AnnotatorNotes T498	independent_continuant
+T499	CHEBI 12633 12640	protein
+#499	AnnotatorNotes T499	CHEBI:36080 (proteins)
+T500	GO_BP 12650 12665	phosphorylation
+#500	AnnotatorNotes T500	GO:0016310 (phosphorylation)
+T501	SO 12666 12671	sites
+#501	AnnotatorNotes T501	SO:0000001 (region)
+T502	GO_MF 12679 12690	ATP-binding
+#502	AnnotatorNotes T502	GO:0005524 (ATP binding)
+T503	CHEBI 12679 12682	ATP
+#503	AnnotatorNotes T503	CHEBI:15422 (ATP)
+T504	CHEBI 12679 12682	ATP
+#504	AnnotatorNotes T504	CHEBI:30616 (ATP(4-))
+T505	SO 12683 12695	binding site
+#505	AnnotatorNotes T505	SO:0000409 (binding_site)
+T506	PR 12697 12702	Itpr1
+#506	AnnotatorNotes T506	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T507	GO_MF 12717 12730	Ca2+ channels
+#507	AnnotatorNotes T507	GO:0005262 (calcium channel activity)
+T508	independent_continuant 12717 12730	Ca2+ channels
+#508	AnnotatorNotes T508	independent_continuant
+T509	CHEBI 12717 12721	Ca2+
+#509	AnnotatorNotes T509	CHEBI:29108 (calcium(2+))
+T510	sup 12719 12721	2+
+#510	AnnotatorNotes T510	sup (null)
+T511	CHEBI 12747 12751	Ca2+
+#511	AnnotatorNotes T511	CHEBI:29108 (calcium(2+))
+T512	sup 12749 12751	2+
+#512	AnnotatorNotes T512	sup (null)
+T513	GO_CC 12769 12790	endoplasmic reticulum
+#513	AnnotatorNotes T513	GO:0005783 (endoplasmic reticulum)
+T514	GO_MF 12797 12804	binding
+#514	AnnotatorNotes T514	GO:0005488 (binding)
+T515	GO_CC 12812 12825	intracellular
+#515	AnnotatorNotes T515	GO:0005622 (intracellular)
+T516	CHEBI 12843 12851	inositol
+#516	AnnotatorNotes T516	CHEBI:24848 (inositols)
+T517	PR 12876 12881	Itpr1
+#517	AnnotatorNotes T517	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T518	CL 12901 12915	Purkinje cells
+#518	AnnotatorNotes T518	CL:0000121 (Purkinje cell)
+T519	GO_CC 12910 12915	cells
+#519	AnnotatorNotes T519	GO:0005623 (cell)
+T520	EntrezGene 12939 12944	ITPR1
+#520	AnnotatorNotes T520	EG:3708
+T521	PR 12939 12944	ITPR1
+#521	AnnotatorNotes T521	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T522	SO 12945 12954	mutations
+#522	AnnotatorNotes T522	SO:0001059 (sequence_alteration)
+T523	italic 13066 13072	ITPR1;
+#523	AnnotatorNotes T523	italic (null)
+T524	EntrezGene 13066 13071	ITPR1
+#524	AnnotatorNotes T524	EG:3708
+T525	PR 13066 13071	ITPR1
+#525	AnnotatorNotes T525	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T526	SO 13139 13147	deletion
+#526	AnnotatorNotes T526	SO:0000045 (delete)
+T527	NCBITaxon 13183 13189	humans
+#527	AnnotatorNotes T527	NCBITaxon:9606 (Homo sapiens)
+T528	SO 13210 13218	deletion
+#528	AnnotatorNotes T528	SO:0000045 (delete)
+T529	NCBITaxon 13222 13226	mice
+#529	AnnotatorNotes T529	NCBITaxon:10088 (Mus)
+T530	NCBITaxon 13323 13328	mouse
+#530	AnnotatorNotes T530	NCBITaxon:10088 (Mus)
+T531	SO 13387 13397	start site
+#531	AnnotatorNotes T531	SO:0000318 (start_codon)
+T532	GO_BP 13387 13392	start
+#532	AnnotatorNotes T532	GO:0006352 (transcription initiation)
+T533	GO_BP 13387 13392	start
+#533	AnnotatorNotes T533	GO:0006413 (translational initiation)
+T534	italic 13402 13407	ITPR1
+#534	AnnotatorNotes T534	italic (null)
+T535	PR 13402 13407	ITPR1
+#535	AnnotatorNotes T535	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T536	EntrezGene 13402 13407	ITPR1
+#536	AnnotatorNotes T536	EG:3708
+T537	CHEBI 13487 13494	protein
+#537	AnnotatorNotes T537	CHEBI:36080 (proteins)
+T538	CL 13530 13535	cells
+#538	AnnotatorNotes T538	CL:0000000 (cell)
+T539	GO_CC 13530 13535	cells
+#539	AnnotatorNotes T539	GO:0005623 (cell)
+T540	GO_CC 13608 13616	antibody
+#540	AnnotatorNotes T540	GO:0019814 (immunoglobulin complex)
+T541	GO_BP 13617 13623	raised
+#541	AnnotatorNotes T541	GO:0009058 (biosynthetic process)
+T542	SO 13636 13654	C-terminal portion
+#542	AnnotatorNotes T542	SO:0100015 (c_terminal_region)
+T543	CHEBI 13636 13637	C
+#543	AnnotatorNotes T543	CHEBI:46883 (carboxy group)
+T544	CHEBI 13636 13637	C
+#544	AnnotatorNotes T544	CHEBI:18245 (carboxylato group)
+T545	PR 13658 13663	ITPR1
+#545	AnnotatorNotes T545	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T546	CHEBI 13715 13731	protein products
+#546	AnnotatorNotes T546	CHEBI:36080 (proteins)
+T547	italic 13773 13778	ITPR1
+#547	AnnotatorNotes T547	italic (null)
+T548	PR 13773 13778	ITPR1
+#548	AnnotatorNotes T548	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T549	EntrezGene 13773 13778	ITPR1
+#549	AnnotatorNotes T549	EG:3708
+T550	SO 13779 13788	mutations
+#550	AnnotatorNotes T550	SO:0001059 (sequence_alteration)
+T551	NCBITaxon 13924 13929	mouse
+#551	AnnotatorNotes T551	NCBITaxon:10088 (Mus)
+T552	SO 13930 13939	mutations
+#552	AnnotatorNotes T552	SO:0001059 (sequence_alteration)
+T553	NCBITaxon 13957 13962	human
+#553	AnnotatorNotes T553	NCBITaxon:9606 (Homo sapiens)
+T554	GO_BP 14003 14007	aged
+#554	AnnotatorNotes T554	GO:0007568 (aging)
+T555	italic 14008 14019	Itpr1wt/Δ18
+#555	AnnotatorNotes T555	italic (null)
+T556	sup 14013 14019	wt/Δ18
+#556	AnnotatorNotes T556	sup (null)
+T557	NCBITaxon 14020 14027	animals
+#557	AnnotatorNotes T557	NCBITaxon:33208 (Metazoa)
+T558	NCBITaxon 14062 14066	mice
+#558	AnnotatorNotes T558	NCBITaxon:10088 (Mus)
+T559	NCBITaxon 14153 14157	mice
+#559	AnnotatorNotes T559	NCBITaxon:10088 (Mus)
+T560	SO 14252 14258	genome
+#560	AnnotatorNotes T560	SO:0001026 (genome)
+T561	SO 14264 14267	SNP
+#561	AnnotatorNotes T561	SO:0000694 (SNP)
+T562	SO 14319 14326	genomic
+#562	AnnotatorNotes T562	SO:0001026 (genome)
+T563	SO 14327 14336	mutations
+#563	AnnotatorNotes T563	SO:0001059 (sequence_alteration)
+T564	SO 14448 14456	deletion
+#564	AnnotatorNotes T564	SO:0000045 (delete)
+T565	italic 14460 14465	ITPR1
+#565	AnnotatorNotes T565	italic (null)
+T566	EntrezGene 14460 14465	ITPR1
+#566	AnnotatorNotes T566	EG:3708
+T567	PR 14460 14465	ITPR1
+#567	AnnotatorNotes T567	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T568	SO 14489 14497	sequence
+#568	AnnotatorNotes T568	SO:0000001 (region)
+T569	italic 14510 14515	ITPR1
+#569	AnnotatorNotes T569	italic (null)
+T570	PR 14510 14515	ITPR1
+#570	AnnotatorNotes T570	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T571	EntrezGene 14510 14515	ITPR1
+#571	AnnotatorNotes T571	EG:3708
+T572	GO_BP 14608 14612	stop
+#572	AnnotatorNotes T572	GO:0006353 (transcription termination)
+T573	GO_BP 14608 14612	stop
+#573	AnnotatorNotes T573	GO:0006415 (translational termination)
+T574	SO 14613 14621	mutation
+#574	AnnotatorNotes T574	SO:0001059 (sequence_alteration)
+T575	SO 14658 14668	mutational
+#575	AnnotatorNotes T575	SO:0001059 (sequence_alteration)
+T576	italic 14779 14784	ITPR1
+#576	AnnotatorNotes T576	italic (null)
+T577	EntrezGene 14779 14784	ITPR1
+#577	AnnotatorNotes T577	EG:3708
+T578	PR 14779 14784	ITPR1
+#578	AnnotatorNotes T578	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T579	SO 14785 14793	mutation
+#579	AnnotatorNotes T579	SO:0000041 (sequence_operation)
+T580	SO 14833 14837	gene
+#580	AnnotatorNotes T580	SO:0000704 (gene)
+T581	GO_CC 14893 14902	autosomal
+#581	AnnotatorNotes T581	GO:0030849 (autosome)
+T582	SO 14979 14986	regions
+#582	AnnotatorNotes T582	SO:0000001 (region)
+T583	SO 14987 14998	overlapping
+#583	AnnotatorNotes T583	SO:0000068 (overlapping)
+T584	SO 15014 15019	locus
+#584	AnnotatorNotes T584	SO:0000001 (region)
+T585	italic 15029 15034	ITPR1
+#585	AnnotatorNotes T585	italic (null)
+T586	EntrezGene 15029 15034	ITPR1
+#586	AnnotatorNotes T586	EG:3708
+T587	PR 15029 15034	ITPR1
+#587	AnnotatorNotes T587	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T588	SO 15040 15044	gene
+#588	AnnotatorNotes T588	SO:0000704 (gene)
+T589	GO_BP 15137 15165	intracellular Ca2+ signaling
+#589	AnnotatorNotes T589	GO:0019722 (calcium-mediated signaling)
+T590	GO_CC 15137 15150	intracellular
+#590	AnnotatorNotes T590	GO:0005622 (intracellular)
+T591	CHEBI 15151 15155	Ca2+
+#591	AnnotatorNotes T591	CHEBI:29108 (calcium(2+))
+T592	sup 15153 15155	2+
+#592	AnnotatorNotes T592	sup (null)
+T593	CL 15169 15183	Purkinje cells
+#593	AnnotatorNotes T593	CL:0000121 (Purkinje cell)
+T594	GO_CC 15178 15183	cells
+#594	AnnotatorNotes T594	GO:0005623 (cell)
+T595	SO 15255 15261	Genome
+#595	AnnotatorNotes T595	SO:0001026 (genome)
+T596	NCBITaxon 15278 15282	mice
+#596	AnnotatorNotes T596	NCBITaxon:10088 (Mus)
+T597	SO 15308 15311	DNA
+#597	AnnotatorNotes T597	SO:0000352 (DNA)
+T598	SO 15312 15321	fragments
+#598	AnnotatorNotes T598	SO:0000731 (fragmentary)
+T599	SO 15348 15354	genome
+#599	AnnotatorNotes T599	SO:0001026 (genome)
+T600	SO 15409 15413	SNPs
+#600	AnnotatorNotes T600	SO:0000694 (SNP)
+T601	SO 15496 15504	fragment
+#601	AnnotatorNotes T601	SO:0000731 (fragmentary)
+T602	NCBITaxon 15544 15548	mice
+#602	AnnotatorNotes T602	NCBITaxon:10088 (Mus)
+T603	NCBITaxon 15569 15573	mice
+#603	AnnotatorNotes T603	NCBITaxon:10088 (Mus)
+T604	SO 15575 15583	genotype
+#604	AnnotatorNotes T604	SO:0001027 (genotype)
+T605	CHEBI 15609 15612	dye
+#605	AnnotatorNotes T605	CHEBI:37958 (dye)
+T606	SO 15613 15623	terminator
+#606	AnnotatorNotes T606	SO:0000141 (terminator)
+T607	SO 15644 15653	fragments
+#607	AnnotatorNotes T607	SO:0000731 (fragmentary)
+T608	GO_CC 15758 15768	Chromosome
+#608	AnnotatorNotes T608	GO:0005694 (chromosome)
+T609	SO 15758 15768	Chromosome
+#609	AnnotatorNotes T609	SO:0000340 (chromosome)
+T610	SO 15892 15900	interval
+#610	AnnotatorNotes T610	SO:0000001 (region)
+T611	GO_BP 15957 15967	generation
+#611	AnnotatorNotes T611	GO:0000003 (reproduction)
+T612	NCBITaxon 15997 16001	mice
+#612	AnnotatorNotes T612	NCBITaxon:10088 (Mus)
+T613	NCBITaxon 16030 16034	mice
+#613	AnnotatorNotes T613	NCBITaxon:10088 (Mus)
+T614	SO 16066 16074	interval
+#614	AnnotatorNotes T614	SO:0000001 (region)
+T615	SO 16122 16128	region
+#615	AnnotatorNotes T615	SO:0000001 (region)
+T616	SO 16200 16206	region
+#616	AnnotatorNotes T616	SO:0000001 (region)
+T617	SO 16219 16224	genes
+#617	AnnotatorNotes T617	SO:0000704 (gene)
+T618	SO 16229 16238	predicted
+#618	AnnotatorNotes T618	SO:0000732 (predicted)
+T619	SO 16239 16250	transcripts
+#619	AnnotatorNotes T619	SO:0000673 (transcript)
+T620	SO 16286 16293	genetic
+#620	AnnotatorNotes T620	SO:0000704 (gene)
+T621	NCBITaxon 16304 16308	mice
+#621	AnnotatorNotes T621	NCBITaxon:10088 (Mus)
+T622	NCBITaxon 16351 16355	mice
+#622	AnnotatorNotes T622	NCBITaxon:10088 (Mus)
+T623	SO 16375 16383	interval
+#623	AnnotatorNotes T623	SO:0000001 (region)
+T624	italic 16440 16452	Itpr1opt/opt
+#624	AnnotatorNotes T624	italic (null)
+T625	sup 16445 16452	opt/opt
+#625	AnnotatorNotes T625	sup (null)
+T626	NCBITaxon 16453 16458	mouse
+#626	AnnotatorNotes T626	NCBITaxon:10088 (Mus)
+T627	SO 16501 16518	deletion mutation
+#627	AnnotatorNotes T627	SO:0000045 (delete)
+T628	SO 16522 16527	exons
+#628	AnnotatorNotes T628	SO:0000147 (exon)
+T629	italic 16541 16546	Itpr1
+#629	AnnotatorNotes T629	italic (null)
+T630	PR 16541 16546	Itpr1
+#630	AnnotatorNotes T630	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T631	EntrezGene 16541 16546	Itpr1
+#631	AnnotatorNotes T631	EG:16438
+T632	SO 16548 16554	Primer
+#632	AnnotatorNotes T632	SO:0000112 (primer)
+T633	SO 16599 16611	coding exons
+#633	AnnotatorNotes T633	SO:0000195 (coding_exon)
+T634	SO 16628 16630	bp
+#634	AnnotatorNotes T634	SO:0000028 (base_pair)
+T635	SO 16639 16665	flanking intronic sequence
+#635	AnnotatorNotes T635	"flanking .. sequence" SO:0000239 (flanking_region)
+T636	SO 16648 16665	intronic sequence
+#636	AnnotatorNotes T636	SO:0000188 (intron)
+T637	italic 16669 16674	Itpr1
+#637	AnnotatorNotes T637	italic (null)
+T638	EntrezGene 16669 16674	Itpr1
+#638	AnnotatorNotes T638	EG:16438
+T639	PR 16669 16674	Itpr1
+#639	AnnotatorNotes T639	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T640	SO 16702 16706	exon
+#640	AnnotatorNotes T640	SO:0000147 (exon)
+T641	SO 16727 16730	DNA
+#641	AnnotatorNotes T641	SO:0000352 (DNA)
+T642	NCBITaxon 16749 16753	mice
+#642	AnnotatorNotes T642	NCBITaxon:10088 (Mus)
+T643	italic 16772 16784	Itpr1Δ18/Δ18
+#643	AnnotatorNotes T643	italic (null)
+T644	sup 16777 16784	Δ18/Δ18
+#644	AnnotatorNotes T644	sup (null)
+T645	SO 16785 16793	mutation
+#645	AnnotatorNotes T645	SO:0001059 (sequence_alteration)
+T646	NCBITaxon 16838 16842	mice
+#646	AnnotatorNotes T646	NCBITaxon:10088 (Mus)
+T647	GO_BP 16857 16865	Breeding
+#647	AnnotatorNotes T647	GO:0007618 (mating)
+T648	NCBITaxon 16912 16916	mice
+#648	AnnotatorNotes T648	NCBITaxon:10088 (Mus)
+T649	SO 16946 16954	mutation
+#649	AnnotatorNotes T649	SO:0001059 (sequence_alteration)
+T650	italic 16956 16967	Itpr1wt/Δ18
+#650	AnnotatorNotes T650	italic (null)
+T651	sup 16961 16967	wt/Δ18
+#651	AnnotatorNotes T651	sup (null)
+T652	NCBITaxon 16980 16985	mouse
+#652	AnnotatorNotes T652	NCBITaxon:10088 (Mus)
+T653	italic 17007 17015	Itpr1opt
+#653	AnnotatorNotes T653	italic (null)
+T654	sup 17012 17015	opt
+#654	AnnotatorNotes T654	sup (null)
+T655	SO 17016 17024	mutation
+#655	AnnotatorNotes T655	SO:0001059 (sequence_alteration)
+T656	italic 17026 17037	Itpr1wt/opt
+#656	AnnotatorNotes T656	italic (null)
+T657	sup 17031 17037	wt/opt
+#657	AnnotatorNotes T657	sup (null)
+T658	NCBITaxon 17072 17076	mice
+#658	AnnotatorNotes T658	NCBITaxon:10088 (Mus)
+T659	italic 17107 17119	Itpr1opt/Δ18
+#659	AnnotatorNotes T659	italic (null)
+T660	sup 17112 17119	opt/Δ18
+#660	AnnotatorNotes T660	sup (null)
+T661	GO_BP 17170 17176	mating
+#661	AnnotatorNotes T661	GO:0007618 (mating)
+T662	GO_BP 17207 17213	mating
+#662	AnnotatorNotes T662	GO:0007618 (mating)
+T663	italic 17267 17279	Itpr1Δ18/Δ18
+#663	AnnotatorNotes T663	italic (null)
+T664	sup 17272 17279	Δ18/Δ18
+#664	AnnotatorNotes T664	sup (null)
+T665	italic 17284 17292	Itpr1opt
+#665	AnnotatorNotes T665	italic (null)
+T666	sup 17289 17292	opt
+#666	AnnotatorNotes T666	sup (null)
+T667	sup 17292 17296	/opt
+#667	AnnotatorNotes T667	sup (null)
+T668	italic 17293 17296	opt
+#668	AnnotatorNotes T668	italic (null)
+T669	NCBITaxon 17297 17301	mice
+#669	AnnotatorNotes T669	NCBITaxon:10088 (Mus)
+T670	EntrezGene 17316 17321	Itpr1
+#670	AnnotatorNotes T670	EG:16438
+T671	PR 17316 17321	Itpr1
+#671	AnnotatorNotes T671	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T672	CHEBI 17322 17329	protein
+#672	AnnotatorNotes T672	CHEBI:36080 (proteins)
+T673	NCBITaxon 17333 17337	mice
+#673	AnnotatorNotes T673	NCBITaxon:10088 (Mus)
+T674	CHEBI 17574 17578	Tris
+#674	AnnotatorNotes T674	CHEBI:9754 (tris)
+T675	CHEBI 17579 17582	HCl
+#675	AnnotatorNotes T675	CHEBI:36807 (hydrochlorides)
+T676	CHEBI 17579 17582	HCl
+#676	AnnotatorNotes T676	CHEBI:17883 (hydrogen chloride)
+T677	CHEBI 17591 17595	NaCl
+#677	AnnotatorNotes T677	CHEBI:26710 (sodium chloride)
+T678	CHEBI 17602 17606	EDTA
+#678	AnnotatorNotes T678	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T679	CHEBI 17602 17606	EDTA
+#679	AnnotatorNotes T679	CHEBI:30378 (ethylenediaminetetraacetate)
+T680	CHEBI 17628 17647	sodium deoxycholate
+#680	AnnotatorNotes T680	CHEBI:9177 (sodium deoxycholate)
+T681	CHEBI 17628 17634	sodium
+#681	AnnotatorNotes T681	CHEBI:26708 (sodium)
+T682	CHEBI 17635 17647	deoxycholate
+#682	AnnotatorNotes T682	CHEBI:23614 (deoxycholate)
+T683	CHEBI 17654 17657	SDS
+#683	AnnotatorNotes T683	CHEBI:8984 (sodium dodecyl sulfate)
+T684	CHEBI 17677 17696	protease inhibitors
+#684	AnnotatorNotes T684	CHEBI:37670 (protease inhibitor)
+T685	GO_MF 17677 17696	protease inhibitors
+#685	AnnotatorNotes T685	GO:0030414 (protease inhibitor activity)
+T686	independent_continuant 17677 17696	protease inhibitors
+#686	AnnotatorNotes T686	independent_continuant
+T687	GO_MF 17677 17685	protease
+#687	AnnotatorNotes T687	GO:0008233 (peptidase activity)
+T688	independent_continuant 17677 17685	protease
+#688	AnnotatorNotes T688	independent_continuant
+T689	CHEBI 17890 17893	SDS
+#689	AnnotatorNotes T689	CHEBI:8984 (sodium dodecyl sulfate)
+T690	GO_CC 17923 17933	antibodies
+#690	AnnotatorNotes T690	GO:0019814 (immunoglobulin complex)
+T691	PR 17937 17942	Itpr1
+#691	AnnotatorNotes T691	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T692	PR 17957 17961	Actb
+#692	AnnotatorNotes T692	PR:000003676 (actin, cytoplasmic 1)
+T693	NCBITaxon 18074 18078	mice
+#693	AnnotatorNotes T693	NCBITaxon:10088 (Mus)
+T694	SO 18345 18354	wild-type
+#694	AnnotatorNotes T694	SO:0000817 (wild_type)
+T695	NCBITaxon 18542 18546	goat
+#695	AnnotatorNotes T695	NCBITaxon:9925 (Capra hircus)
+T696	GO_CC 18638 18648	antibodies
+#696	AnnotatorNotes T696	GO:0019814 (immunoglobulin complex)
+T697	PR 18679 18684	Itpr1
+#697	AnnotatorNotes T697	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T698	GO_CC 18685 18693	antibody
+#698	AnnotatorNotes T698	GO:0019814 (immunoglobulin complex)
+T699	PR 18773 18778	Calb1
+#699	AnnotatorNotes T699	PR:000004967 (calbindin)
+T700	GO_CC 18779 18787	antibody
+#700	AnnotatorNotes T700	GO:0019814 (immunoglobulin complex)
+T701	independent_continuant 18853 18860	carrier
+#701	AnnotatorNotes T701	independent_continuant
+T702	GO_MF 18853 18860	carrier
+#702	AnnotatorNotes T702	GO:0005215 (transporter activity)
+T703	GO_CC 18982 18992	antibodies
+#703	AnnotatorNotes T703	GO:0019814 (immunoglobulin complex)
+T704	NCBITaxon 19010 19014	goat
+#704	AnnotatorNotes T704	NCBITaxon:9925 (Capra hircus)
+T705	NCBITaxon 19020 19026	rabbit
+#705	AnnotatorNotes T705	NCBITaxon:9986 (Oryctolagus cuniculus)
+T706	NCBITaxon 19051 19055	goat
+#706	AnnotatorNotes T706	NCBITaxon:9925 (Capra hircus)
+T707	NCBITaxon 19061 19066	mouse
+#707	AnnotatorNotes T707	NCBITaxon:10088 (Mus)
+T708	CHEBI 19195 19203	buffered
+#708	AnnotatorNotes T708	CHEBI:35225 (buffer)
+T709	SO 19508 19517	wild-type
+#709	AnnotatorNotes T709	SO:0000817 (wild_type)
+T710	SO 19548 19554	mutant
+#710	AnnotatorNotes T710	SO:0001059 (sequence_alteration)
+T711	PR 19582 19587	Itpr1
+#711	AnnotatorNotes T711	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T712	GO_CC 19588 19598	antibodies
+#712	AnnotatorNotes T712	GO:0019814 (immunoglobulin complex)
+T713	GO_CC 19650 19658	Antibody
+#713	AnnotatorNotes T713	GO:0019814 (immunoglobulin complex)
+T714	SO 19721 19728	peptide
+#714	AnnotatorNotes T714	SO:0001407 (peptidyl)
+T715	GO_CC 19782 19792	antibodies
+#715	AnnotatorNotes T715	GO:0019814 (immunoglobulin complex)
+T716	EntrezGene 19913 19918	ITPR1
+#716	AnnotatorNotes T716	EG:3708
+T717	PR 19913 19918	ITPR1
+#717	AnnotatorNotes T717	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T718	SO 19939 19942	DNA
+#718	AnnotatorNotes T718	SO:0000352 (DNA)
+T719	NCBITaxon 19962 19965	EBV
+#719	AnnotatorNotes T719	NCBITaxon:10376 (Human herpesvirus 4)
+T720	GO_BP 19966 19978	immortalized
+#720	AnnotatorNotes T720	GO:0020021 (immortalization of host cell)
+T721	CL 19979 19990	lymphocytes
+#721	AnnotatorNotes T721	CL:0000542 (lymphocyte)
+T722	SO 20025 20037	coding exons
+#722	AnnotatorNotes T722	SO:0000195 (coding_exon)
+T723	SO 20054 20056	bp
+#723	AnnotatorNotes T723	SO:0000028 (base_pair)
+T724	SO 20069 20076	introns
+#724	AnnotatorNotes T724	SO:0000188 (intron)
+T725	italic 20080 20085	ITPR1
+#725	AnnotatorNotes T725	italic (null)
+T726	PR 20080 20085	ITPR1
+#726	AnnotatorNotes T726	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T727	EntrezGene 20080 20085	ITPR1
+#727	AnnotatorNotes T727	EG:3708
+T728	CHEBI 20125 20128	dye
+#728	AnnotatorNotes T728	CHEBI:37958 (dye)
+T729	SO 20129 20139	terminator
+#729	AnnotatorNotes T729	SO:0000141 (terminator)
+T730	SO 20227 20235	Sequence
+#730	AnnotatorNotes T730	SO:0000001 (region)
+T731	SO 20426 20437	genomic DNA
+#731	AnnotatorNotes T731	SO:0000991 (genomic_DNA)
+T732	SO 20426 20433	genomic
+#732	AnnotatorNotes T732	SO:0001026 (genome)
+T733	SO 20476 20492	Primer sequences
+#733	AnnotatorNotes T733	SO:0000112 (primer)
+T734	SO 20536 20544	Sequence
+#734	AnnotatorNotes T734	SO:0000001 (region)
+T735	SO 20582 20586	Gene
+#735	AnnotatorNotes T735	SO:0000704 (gene)
+T736	SO 20633 20639	Genome
+#736	AnnotatorNotes T736	SO:0001026 (genome)
+T737	SO 20645 20648	SNP
+#737	AnnotatorNotes T737	SO:0000694 (SNP)
+T738	SO 20701 20704	SNP
+#738	AnnotatorNotes T738	SO:0000694 (SNP)
+T739	SO 20829 20833	SNPs
+#739	AnnotatorNotes T739	SO:0000694 (SNP)
+T740	SO 20924 20933	Genotypes
+#740	AnnotatorNotes T740	SO:0001027 (genotype)
+T741	SO 21040 21046	allele
+#741	AnnotatorNotes T741	SO:0001023 (allele)
+T742	SO 21083 21089	genome
+#742	AnnotatorNotes T742	SO:0001026 (genome)
+T743	SO 21178 21186	deletion
+#743	AnnotatorNotes T743	SO:0000159 (deletion)
+T744	italic 21194 21199	ITPR1
+#744	AnnotatorNotes T744	italic (null)
+T745	PR 21194 21199	ITPR1
+#745	AnnotatorNotes T745	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T746	EntrezGene 21194 21199	ITPR1
+#746	AnnotatorNotes T746	EG:3708
+T747	SO 21263 21269	allele
+#747	AnnotatorNotes T747	SO:0001023 (allele)
+T748	SO 21327 21332	locus
+#748	AnnotatorNotes T748	SO:0000001 (region)
+T749	NCBITaxon 21342 21353	individuals
+#749	AnnotatorNotes T749	NCBITaxon:1 (root)
+T750	SO 21497 21506	intervals
+#750	AnnotatorNotes T750	SO:0000001 (region)
+T751	SO 21520 21528	deletion
+#751	AnnotatorNotes T751	SO:0000159 (deletion)
+T752	SO 21566 21573	primers
+#752	AnnotatorNotes T752	SO:0000112 (primer)
+T753	GO_BP 21611 21619	generate
+#753	AnnotatorNotes T753	GO:0009058 (biosynthetic process)
+T754	SO 21620 21631	overlapping
+#754	AnnotatorNotes T754	SO:0000068 (overlapping)
+T755	SO 21632 21641	fragments
+#755	AnnotatorNotes T755	SO:0000731 (fragmentary)
+T756	SO 21657 21674	bordering regions
+#756	AnnotatorNotes T756	SO:0000239 (flanking_region)
+T757	SO 21676 21691	primer sequence
+#757	AnnotatorNotes T757	SO:0000112 (primer)
+T758	SO 21747 21753	primer
+#758	AnnotatorNotes T758	SO:0000112 (primer)
+T759	SO 21767 21776	telomeric
+#759	AnnotatorNotes T759	SO:0000624 (telomere)
+T760	SO 21777 21792	flanking region
+#760	AnnotatorNotes T760	SO:0000239 (flanking_region)
+T761	SO 21813 21824	centromeric
+#761	AnnotatorNotes T761	SO:0000577 (centromere)
+T762	SO 21825 21840	flanking region
+#762	AnnotatorNotes T762	SO:0000239 (flanking_region)
+T763	SO 21887 21889	bp
+#763	AnnotatorNotes T763	SO:0000028 (base_pair)
+T764	SO 21939 21950	genomic DNA
+#764	AnnotatorNotes T764	SO:0000991 (genomic_DNA)
+T765	SO 21939 21946	genomic
+#765	AnnotatorNotes T765	SO:0001026 (genome)
+T766	NCBITaxon 21983 21994	individuals
+#766	AnnotatorNotes T766	NCBITaxon:1 (root)
+T767	CHEBI 22026 22029	Dye
+#767	AnnotatorNotes T767	CHEBI:37958 (dye)
+T768	SO 22030 22040	terminator
+#768	AnnotatorNotes T768	SO:0000141 (terminator)
+T769	SO 22092 22119	forward and reverse primers
+#769	AnnotatorNotes T769	"forward .. primers" SO:0000121 (forward_primer)
+T770	SO 22092 22099	forward
+#770	AnnotatorNotes T770	SO:0001030 (forward)
+T771	SO 22104 22119	reverse primers
+#771	AnnotatorNotes T771	SO:0000132 (reverse_primer)
+T772	SO 22104 22111	reverse
+#772	AnnotatorNotes T772	SO:0001031 (reverse)
+T773	SO 22120 22128	designed
+#773	AnnotatorNotes T773	SO:0000546 (designed_sequence)
+T774	SO 22177 22185	fragment
+#774	AnnotatorNotes T774	SO:0000731 (fragmentary)
+T775	SO 22239 22247	fragment
+#775	AnnotatorNotes T775	SO:0000731 (fragmentary)
+T776	SO 22270 22276	genome
+#776	AnnotatorNotes T776	SO:0001026 (genome)
+T777	SO 22323 22335	polymorphism
+#777	AnnotatorNotes T777	SO:0001025 (polymorphic_sequence_variant)
+T778	SO 22323 22335	polymorphism
+#778	AnnotatorNotes T778	SO:0000694 (SNP)
+T779	SO 22356 22364	fragment
+#779	AnnotatorNotes T779	SO:0000731 (fragmentary)
+T780	SO 22372 22378	region
+#780	AnnotatorNotes T780	SO:0000001 (region)
+T781	SO 22386 22392	genome
+#781	AnnotatorNotes T781	SO:0001026 (genome)
+T782	SO 22418 22425	genomic
+#782	AnnotatorNotes T782	SO:0001026 (genome)
+T783	SO 22426 22434	deletion
+#783	AnnotatorNotes T783	SO:0000159 (deletion)
+T784	SO 22480 22486	allele
+#784	AnnotatorNotes T784	SO:0001023 (allele)
+T785	SO 22501 22507	allele
+#785	AnnotatorNotes T785	SO:0001023 (allele)
+T786	NCBITaxon 22625 22636	individuals
+#786	AnnotatorNotes T786	NCBITaxon:1 (root)
+T787	SO 22661 22670	haplotype
+#787	AnnotatorNotes T787	SO:0001024 (haplotype)
+T788	SO 22768 22775	regions
+#788	AnnotatorNotes T788	SO:0000001 (region)
+T789	SO 22789 22797	deletion
+#789	AnnotatorNotes T789	SO:0000159 (deletion)
+T790	SO 22814 22823	telomeric
+#790	AnnotatorNotes T790	SO:0000624 (telomere)
+T791	SO 22845 22856	centromeric
+#791	AnnotatorNotes T791	SO:0000577 (centromere)
+T792	SO 22883 22898	forward primers
+#792	AnnotatorNotes T792	SO:0000121 (forward_primer)
+T793	SO 22883 22890	forward
+#793	AnnotatorNotes T793	SO:0001030 (forward)
+T794	SO 22922 22928	region
+#794	AnnotatorNotes T794	SO:0000001 (region)
+T795	SO 22942 22950	deletion
+#795	AnnotatorNotes T795	SO:0000159 (deletion)
+T796	SO 22958 22967	telomeric
+#796	AnnotatorNotes T796	SO:0000624 (telomere)
+T797	SO 22978 22993	reverse primers
+#797	AnnotatorNotes T797	SO:0000132 (reverse_primer)
+T798	SO 22978 22985	reverse
+#798	AnnotatorNotes T798	SO:0001031 (reverse)
+T799	SO 23017 23023	region
+#799	AnnotatorNotes T799	SO:0000001 (region)
+T800	SO 23037 23045	deletion
+#800	AnnotatorNotes T800	SO:0000159 (deletion)
+T801	SO 23053 23064	centromeric
+#801	AnnotatorNotes T801	SO:0000577 (centromere)
+T802	SO 23126 23129	DNA
+#802	AnnotatorNotes T802	SO:0000352 (DNA)
+T803	SO 23273 23280	deleted
+#803	AnnotatorNotes T803	SO:0000045 (delete)
+T804	SO 23281 23289	fragment
+#804	AnnotatorNotes T804	SO:0000731 (fragmentary)
+T805	SO 23311 23321	breakpoint
+#805	AnnotatorNotes T805	SO:0001021 (chromosome_breakpoint)
+T806	SO 23332 23340	fragment
+#806	AnnotatorNotes T806	SO:0000731 (fragmentary)
+T807	SO 23369 23383	forward primer
+#807	AnnotatorNotes T807	SO:0000121 (forward_primer)
+T808	SO 23369 23376	forward
+#808	AnnotatorNotes T808	SO:0001030 (forward)
+T809	SO 23393 23402	telomeric
+#809	AnnotatorNotes T809	SO:0000624 (telomere)
+T810	SO 23455 23469	reverse primer
+#810	AnnotatorNotes T810	SO:0000132 (reverse_primer)
+T811	SO 23455 23462	reverse
+#811	AnnotatorNotes T811	SO:0001031 (reverse)
+T812	SO 23479 23490	centromeric
+#812	AnnotatorNotes T812	SO:0000577 (centromere)
+T813	SO 23535 23543	fragment
+#813	AnnotatorNotes T813	SO:0000731 (fragmentary)
+T814	SO 23558 23560	bp
+#814	AnnotatorNotes T814	SO:0000028 (base_pair)
+T815	SO 23631 23636	build
+#815	AnnotatorNotes T815	SO:0001248 (assembly)
+T816	NCBITaxon 23644 23649	human
+#816	AnnotatorNotes T816	NCBITaxon:9606 (Homo sapiens)
+T817	SO 23650 23656	genome
+#817	AnnotatorNotes T817	SO:0001026 (genome)
+T818	SO 23720 23740	deletion breakpoints
+#818	AnnotatorNotes T818	SO:0001415 (deletion_breakpoint)
+T819	SO 23720 23728	deletion
+#819	AnnotatorNotes T819	SO:0000159 (deletion)
+T820	SO 23796 23798	bp
+#820	AnnotatorNotes T820	SO:0000028 (base_pair)
+T821	SO 23799 23810	PCR product
+#821	AnnotatorNotes T821	SO:0000006 (PCR_product)
+T822	SO 23822 23832	breakpoint
+#822	AnnotatorNotes T822	SO:0001021 (chromosome_breakpoint)
+T823	SO 23879 23885	primer
+#823	AnnotatorNotes T823	SO:0000112 (primer)
+T824	SO 24027 24037	breakpoint
+#824	AnnotatorNotes T824	SO:0001021 (chromosome_breakpoint)
+T825	NCBITaxon 24096 24099	EBV
+#825	AnnotatorNotes T825	NCBITaxon:10376 (Human herpesvirus 4)
+T826	GO_BP 24100 24112	immortalized
+#826	AnnotatorNotes T826	GO:0020021 (immortalization of host cell)
+T827	SO 24175 24183	deletion
+#827	AnnotatorNotes T827	SO:0000159 (deletion)
+T828	SO 24218 24226	mutation
+#828	AnnotatorNotes T828	SO:0001059 (sequence_alteration)
+T829	CHEBI 24271 24278	protein
+#829	AnnotatorNotes T829	CHEBI:36080 (proteins)
+T830	CHEBI 24326 24333	Protein
+#830	AnnotatorNotes T830	CHEBI:36080 (proteins)
+T831	GO_BP 24365 24370	lysis
+#831	AnnotatorNotes T831	GO:0019835 (cytolysis)
+T832	CHEBI 24432 24451	protease inhibitors
+#832	AnnotatorNotes T832	CHEBI:37670 (protease inhibitor)
+T833	independent_continuant 24432 24451	protease inhibitors
+#833	AnnotatorNotes T833	independent_continuant
+T834	GO_MF 24432 24451	protease inhibitors
+#834	AnnotatorNotes T834	GO:0030414 (protease inhibitor activity)
+T835	GO_MF 24432 24440	protease
+#835	AnnotatorNotes T835	GO:0008233 (peptidase activity)
+T836	independent_continuant 24432 24440	protease
+#836	AnnotatorNotes T836	independent_continuant
+T837	GO_BP 24475 24480	lysis
+#837	AnnotatorNotes T837	GO:0019835 (cytolysis)
+T838	CHEBI 24640 24643	SDS
+#838	AnnotatorNotes T838	CHEBI:8984 (sodium dodecyl sulfate)
+T839	GO_CC 24673 24683	antibodies
+#839	AnnotatorNotes T839	GO:0019814 (immunoglobulin complex)
+T840	PR 24687 24692	ITPR1
+#840	AnnotatorNotes T840	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T841	PR 24707 24711	ACTB
+#841	AnnotatorNotes T841	PR:000003676 (actin, cytoplasmic 1)
+T842	NCBITaxon 24840 24845	Mouse
+#842	AnnotatorNotes T842	NCBITaxon:10088 (Mus)
+T843	GO_CC 24846 24856	Chromosome
+#843	AnnotatorNotes T843	GO:0005694 (chromosome)
+T844	SO 24846 24856	Chromosome
+#844	AnnotatorNotes T844	SO:0000340 (chromosome)
+T845	NCBITaxon 24871 24875	Mice
+#845	AnnotatorNotes T845	NCBITaxon:10088 (Mus)
+T846	SO 24931 24939	genotype
+#846	AnnotatorNotes T846	SO:0001027 (genotype)
+T847	SO 24984 24992	genotype
+#847	AnnotatorNotes T847	SO:0001027 (genotype)
+T848	SO 25042 25050	genotype
+#848	AnnotatorNotes T848	SO:0001027 (genotype)
+T849	SO 25080 25088	genotype
+#849	AnnotatorNotes T849	SO:0001027 (genotype)
+T850	SO 25113 25119	region
+#850	AnnotatorNotes T850	SO:0000001 (region)
+T851	SO 25144 25153	genotypes
+#851	AnnotatorNotes T851	SO:0001027 (genotype)
+T852	SO 25202 25208	region
+#852	AnnotatorNotes T852	SO:0000001 (region)
+T853	SO 25337 25345	Sequence
+#853	AnnotatorNotes T853	SO:0000001 (region)
+T854	SO 25349 25353	Exon
+#854	AnnotatorNotes T854	SO:0000147 (exon)
+T855	italic 25360 25365	Itpr1
+#855	AnnotatorNotes T855	italic (null)
+T856	EntrezGene 25360 25365	Itpr1
+#856	AnnotatorNotes T856	EG:16438
+T857	PR 25360 25365	Itpr1
+#857	AnnotatorNotes T857	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T858	NCBITaxon 25376 25380	Mice
+#858	AnnotatorNotes T858	NCBITaxon:10088 (Mus)
+T859	SO 25384 25393	wild-type
+#859	AnnotatorNotes T859	SO:0000817 (wild_type)
+T860	NCBITaxon 25414 25419	mouse
+#860	AnnotatorNotes T860	NCBITaxon:10088 (Mus)
+T861	SO 25427 25436	wild-type
+#861	AnnotatorNotes T861	SO:0000817 (wild_type)
+T862	NCBITaxon 25458 25463	mouse
+#862	AnnotatorNotes T862	NCBITaxon:10088 (Mus)
+T863	NCBITaxon 25489 25493	mice
+#863	AnnotatorNotes T863	NCBITaxon:10088 (Mus)
+T864	SO 25516 25518	bp
+#864	AnnotatorNotes T864	SO:0000028 (base_pair)
+T865	SO 25519 25536	deletion mutation
+#865	AnnotatorNotes T865	SO:0000159 (deletion)
+T866	NCBITaxon 25560 25565	mouse
+#866	AnnotatorNotes T866	NCBITaxon:10088 (Mus)
+T867	SO 25590 25592	bp
+#867	AnnotatorNotes T867	SO:0000028 (base_pair)
+T868	SO 25593 25610	deletion mutation
+#868	AnnotatorNotes T868	SO:0000159 (deletion)
+T869	SO 25593 25601	deletion
+#869	AnnotatorNotes T869	SO:0000045 (delete)
+T870	SO 25620 25627	deleted
+#870	AnnotatorNotes T870	SO:0000045 (delete)
+T871	CHEBI 25628 25639	nucleotides
+#871	AnnotatorNotes T871	CHEBI:25613 (nucleotidyl groups)
+T872	SO 25628 25639	nucleotides
+#872	AnnotatorNotes T872	SO:0001236 (base)
+T873	SO 25762 25770	Deletion
+#873	AnnotatorNotes T873	SO:0000159 (deletion)
+T874	SO 25784 25789	Locus
+#874	AnnotatorNotes T874	SO:0000001 (region)
+T875	SO 25859 25865	allele
+#875	AnnotatorNotes T875	SO:0001023 (allele)
+T876	SO 26049 26052	SNP
+#876	AnnotatorNotes T876	SO:0000694 (SNP)
+T877	SO 26059 26062	SNP
+#877	AnnotatorNotes T877	SO:0000694 (SNP)
+T878	SO 26132 26137	locus
+#878	AnnotatorNotes T878	SO:0000001 (region)
+T879	SO 26141 26147	allele
+#879	AnnotatorNotes T879	SO:0001023 (allele)
+T880	SO 26205 26212	alleles
+#880	AnnotatorNotes T880	SO:0001023 (allele)
+T881	SO 26234 26239	locus
+#881	AnnotatorNotes T881	SO:0000001 (region)
+T882	SO 26246 26249	SNP
+#882	AnnotatorNotes T882	SO:0000694 (SNP)
+T883	SO 26283 26287	SNPs
+#883	AnnotatorNotes T883	SO:0000694 (SNP)
+T884	SO 26297 26303	allele
+#884	AnnotatorNotes T884	SO:0001023 (allele)
+T885	SO 26351 26355	SNPs
+#885	AnnotatorNotes T885	SO:0000694 (SNP)
+T886	SO 26365 26371	allele
+#886	AnnotatorNotes T886	SO:0001023 (allele)
+T887	SO 26440 26446	allele
+#887	AnnotatorNotes T887	SO:0001023 (allele)
+T888	SO 26525 26531	region
+#888	AnnotatorNotes T888	SO:0000001 (region)
+T889	SO 26657 26664	genomic
+#889	AnnotatorNotes T889	SO:0001026 (genome)
+T890	SO 26665 26673	deletion
+#890	AnnotatorNotes T890	SO:0000159 (deletion)
+T891	SO 26761 26770	deletions
+#891	AnnotatorNotes T891	SO:0000159 (deletion)
+T892	SO 26824 26832	deletion
+#892	AnnotatorNotes T892	SO:0000159 (deletion)
+T893	SO 26841 26846	locus
+#893	AnnotatorNotes T893	SO:0000001 (region)
+T894	SO 26912 26919	Deleted
+#894	AnnotatorNotes T894	SO:0000045 (delete)
+T895	SO 26920 26927	Regions
+#895	AnnotatorNotes T895	SO:0000001 (region)
+T896	SO 26984 26992	sequence
+#896	AnnotatorNotes T896	SO:0000001 (region)
+T897	SO 27002 27013	PCR product
+#897	AnnotatorNotes T897	SO:0000006 (PCR_product)
+T898	GO_BP 27014 27023	generated
+#898	AnnotatorNotes T898	GO:0009058 (biosynthetic process)
+T899	SO 27030 27037	primers
+#899	AnnotatorNotes T899	SO:0000112 (primer)
+T900	SO 27056 27067	genomic DNA
+#900	AnnotatorNotes T900	SO:0000991 (genomic_DNA)
+T901	SO 27056 27063	genomic
+#901	AnnotatorNotes T901	SO:0001026 (genome)
+T902	SO 27126 27145	deletion breakpoint
+#902	AnnotatorNotes T902	SO:0001415 (deletion_breakpoint)
+T903	SO 27126 27134	deletion
+#903	AnnotatorNotes T903	SO:0000159 (deletion)
+T904	SO 27151 27159	deletion
+#904	AnnotatorNotes T904	SO:0000159 (deletion)
+T905	SO 27171 27173	bp
+#905	AnnotatorNotes T905	SO:0000028 (base_pair)
+T906	SO 27207 27215	sequence
+#906	AnnotatorNotes T906	SO:0000001 (region)
+T907	SO 27225 27232	deleted
+#907	AnnotatorNotes T907	SO:0000045 (delete)
+T908	SO 27233 27239	region
+#908	AnnotatorNotes T908	SO:0000001 (region)
+T909	CHEBI 27262 27273	nucleotides
+#909	AnnotatorNotes T909	CHEBI:25613 (nucleotidyl groups)
+T910	SO 27262 27273	nucleotides
+#910	AnnotatorNotes T910	SO:0001236 (base)
+T911	SO 27274 27283	telomeric
+#911	AnnotatorNotes T911	SO:0000624 (telomere)
+T912	SO 27291 27299	deletion
+#912	AnnotatorNotes T912	SO:0000159 (deletion)
+T913	CHEBI 27321 27332	nucleotides
+#913	AnnotatorNotes T913	CHEBI:25613 (nucleotidyl groups)
+T914	SO 27321 27332	nucleotides
+#914	AnnotatorNotes T914	SO:0001236 (base)
+T915	SO 27333 27344	centromeric
+#915	AnnotatorNotes T915	SO:0000577 (centromere)
+T916	SO 27352 27360	deletion
+#916	AnnotatorNotes T916	SO:0000159 (deletion)
+T917	SO 27366 27374	deletion
+#917	AnnotatorNotes T917	SO:0000159 (deletion)
+T918	SO 27386 27388	bp
+#918	AnnotatorNotes T918	SO:0000028 (base_pair)
+T919	SO 27400 27418	Basepair positions
+#919	AnnotatorNotes T919	SO:0000028 (base_pair)
+T920	SO 27437 27443	genome
+#920	AnnotatorNotes T920	SO:0001026 (genome)
+T921	SO 27444 27449	build
+#921	AnnotatorNotes T921	SO:0001248 (assembly)
+T922	SO 27463 27471	assembly
+#922	AnnotatorNotes T922	SO:0001248 (assembly)
+T923	italic 27635 27640	SUMF1
+#923	AnnotatorNotes T923	italic (null)
+T924	EntrezGene 27635 27640	SUMF1
+#924	AnnotatorNotes T924	EG:285362
+T925	PR 27635 27640	SUMF1
+#925	AnnotatorNotes T925	PR:000015827 (sulfatase-modifying factor 1)
+T926	EntrezGene 27644 27650	607939
+#926	AnnotatorNotes T926	EG:285362
+T927	NCBITaxon 27754 27757	EBV
+#927	AnnotatorNotes T927	NCBITaxon:10376 (Human herpesvirus 4)
+T928	NCBITaxon 27760 27778	Epstein-Barr virus
+#928	AnnotatorNotes T928	NCBITaxon:10376 (Human herpesvirus 4)
+T929	SO 27827 27830	SNP
+#929	AnnotatorNotes T929	SO:0000694 (SNP)
+T930	SO 27833 27863	single nucleotide polymorphism
+#930	AnnotatorNotes T930	SO:0000694 (SNP)
+T931	CHEBI 27840 27850	nucleotide
+#931	AnnotatorNotes T931	CHEBI:25613 (nucleotidyl groups)
+T932	SO 27840 27850	nucleotide
+#932	AnnotatorNotes T932	SO:0001236 (base)
+T933	EntrezGene 27945 27950	ITPR1
+#933	AnnotatorNotes T933	EG:16438
+T934	PR 27945 27950	ITPR1
+#934	AnnotatorNotes T934	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T935	CHEBI 27951 27958	Protein
+#935	AnnotatorNotes T935	CHEBI:36080 (proteins)
+T936	NCBITaxon 27969 27974	Mouse
+#936	AnnotatorNotes T936	NCBITaxon:10088 (Mus)
+T937	SO 28035 28044	wild-type
+#937	AnnotatorNotes T937	SO:0000817 (wild_type)
+T938	NCBITaxon 28045 28050	mouse
+#938	AnnotatorNotes T938	NCBITaxon:10088 (Mus)
+T939	NCBITaxon 28064 28069	mouse
+#939	AnnotatorNotes T939	NCBITaxon:10088 (Mus)
+T940	italic 28091 28096	Itpr1
+#940	AnnotatorNotes T940	italic (null)
+T941	EntrezGene 28091 28096	Itpr1
+#941	AnnotatorNotes T941	EG:16438
+T942	PR 28091 28096	Itpr1
+#942	AnnotatorNotes T942	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T943	SO 28100 28102	bp
+#943	AnnotatorNotes T943	SO:0000028 (base_pair)
+T944	SO 28103 28111	deletion
+#944	AnnotatorNotes T944	SO:0000159 (deletion)
+T945	NCBITaxon 28129 28134	mouse
+#945	AnnotatorNotes T945	NCBITaxon:10088 (Mus)
+T946	SO 28157 28159	bp
+#946	AnnotatorNotes T946	SO:0000028 (base_pair)
+T947	italic 28160 28165	Itpr1
+#947	AnnotatorNotes T947	italic (null)
+T948	EntrezGene 28160 28165	Itpr1
+#948	AnnotatorNotes T948	EG:16438
+T949	PR 28160 28165	Itpr1
+#949	AnnotatorNotes T949	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T950	SO 28166 28174	deletion
+#950	AnnotatorNotes T950	SO:0000159 (deletion)
+T951	PR 28230 28235	Itpr1
+#951	AnnotatorNotes T951	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T952	NCBITaxon 28241 28247	rabbit
+#952	AnnotatorNotes T952	NCBITaxon:9986 (Oryctolagus cuniculus)
+T953	GO_CC 28248 28256	antibody
+#953	AnnotatorNotes T953	GO:0019814 (immunoglobulin complex)
+T954	PR 28329 28334	Calb1
+#954	AnnotatorNotes T954	PR:000004967 (calbindin)
+T955	NCBITaxon 28340 28345	mouse
+#955	AnnotatorNotes T955	NCBITaxon:10088 (Mus)
+T956	GO_CC 28346 28354	antibody
+#956	AnnotatorNotes T956	GO:0019814 (immunoglobulin complex)
+T957	EntrezGene 28434 28439	Iptr1
+#957	AnnotatorNotes T957	EG:16438
+T958	PR 28434 28439	Iptr1
+#958	AnnotatorNotes T958	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T959	GO_BP 28450 28459	expressed
+#959	AnnotatorNotes T959	GO:0010467 (gene expression)
+T960	CL 28467 28481	Purkinje cells
+#960	AnnotatorNotes T960	CL:0000121 (Purkinje cell)
+T961	GO_CC 28476 28481	cells
+#961	AnnotatorNotes T961	GO:0005623 (cell)
+T962	EntrezGene 28542 28547	Itpr1
+#962	AnnotatorNotes T962	EG:16438
+T963	PR 28542 28547	Itpr1
+#963	AnnotatorNotes T963	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T964	SO 28583 28589	mutant
+#964	AnnotatorNotes T964	SO:0001059 (sequence_alteration)
+T965	NCBITaxon 28590 28594	mice
+#965	AnnotatorNotes T965	NCBITaxon:10088 (Mus)
+T966	EntrezGene 28635 28640	Itpr1
+#966	AnnotatorNotes T966	EG:16438
+T967	PR 28635 28640	Itpr1
+#967	AnnotatorNotes T967	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T968	SO 28668 28677	wild-type
+#968	AnnotatorNotes T968	SO:0000817 (wild_type)
+T969	italic 28679 28691	Itpr1wt/Δ18,
+#969	AnnotatorNotes T969	italic (null)
+T970	sup 28684 28690	wt/Δ18
+#970	AnnotatorNotes T970	sup (null)
+T971	italic 28696 28708	Itpr1Δ18/Δ18
+#971	AnnotatorNotes T971	italic (null)
+T972	sup 28701 28708	Δ18/Δ18
+#972	AnnotatorNotes T972	sup (null)
+T973	NCBITaxon 28709 28713	mice
+#973	AnnotatorNotes T973	NCBITaxon:10088 (Mus)
+T974	EntrezGene 28749 28754	Itpr1
+#974	AnnotatorNotes T974	EG:16438
+T975	PR 28749 28754	Itpr1
+#975	AnnotatorNotes T975	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T976	italic 28776 28787	Itpr1wt/Δ18
+#976	AnnotatorNotes T976	italic (null)
+T977	sup 28781 28787	wt/Δ18
+#977	AnnotatorNotes T977	sup (null)
+T978	NCBITaxon 28788 28792	mice
+#978	AnnotatorNotes T978	NCBITaxon:10088 (Mus)
+T979	EntrezGene 28820 28825	Itpr1
+#979	AnnotatorNotes T979	EG:16438
+T980	PR 28820 28825	Itpr1
+#980	AnnotatorNotes T980	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T981	italic 28829 28841	Itpr1Δ18/Δ18
+#981	AnnotatorNotes T981	italic (null)
+T982	sup 28834 28841	Δ18/Δ18
+#982	AnnotatorNotes T982	sup (null)
+T983	NCBITaxon 28842 28846	mice
+#983	AnnotatorNotes T983	NCBITaxon:10088 (Mus)
+T984	SO 28892 28895	DNA
+#984	AnnotatorNotes T984	SO:0000352 (DNA)
+T985	SO 29028 29034	allele
+#985	AnnotatorNotes T985	SO:0001023 (allele)
+T986	SO 29074 29081	segment
+#986	AnnotatorNotes T986	SO:0000001 (region)
+T987	SO 29091 29108	arm of Chromosome
+#987	AnnotatorNotes T987	SO:0000105 (chromosome_arm)
+T988	GO_CC 29098 29108	Chromosome
+#988	AnnotatorNotes T988	GO:0005694 (chromosome)
+T989	SO 29098 29108	Chromosome
+#989	AnnotatorNotes T989	SO:0000340 (chromosome)
+T990	SO 29186 29189	SNP
+#990	AnnotatorNotes T990	SO:0000694 (SNP)
+T991	SO 29196 29199	SNP
+#991	AnnotatorNotes T991	SO:0000694 (SNP)
+T992	SO 29269 29274	locus
+#992	AnnotatorNotes T992	SO:0000001 (region)
+T993	SO 29278 29284	allele
+#993	AnnotatorNotes T993	SO:0001023 (allele)
+T994	SO 29342 29349	alleles
+#994	AnnotatorNotes T994	SO:0001023 (allele)
+T995	SO 29371 29376	locus
+#995	AnnotatorNotes T995	SO:0000001 (region)
+T996	SO 29383 29386	SNP
+#996	AnnotatorNotes T996	SO:0000694 (SNP)
+T997	SO 29420 29424	SNPs
+#997	AnnotatorNotes T997	SO:0000694 (SNP)
+T998	SO 29434 29440	allele
+#998	AnnotatorNotes T998	SO:0001023 (allele)
+T999	SO 29488 29492	SNPs
+#999	AnnotatorNotes T999	SO:0000694 (SNP)
+T1000	SO 29502 29508	allele
+#1000	AnnotatorNotes T1000	SO:0001023 (allele)
+T1001	SO 29577 29583	allele
+#1001	AnnotatorNotes T1001	SO:0001023 (allele)
+T1002	SO 29671 29677	region
+#1002	AnnotatorNotes T1002	SO:0000001 (region)
+T1003	SO 29841 29848	genomic
+#1003	AnnotatorNotes T1003	SO:0001026 (genome)
+T1004	SO 29849 29857	deletion
+#1004	AnnotatorNotes T1004	SO:0000159 (deletion)
+T1005	SO 29908 29913	known
+#1005	AnnotatorNotes T1005	SO:0000906 (independently_known)
+T1006	SO 29914 29919	genes
+#1006	AnnotatorNotes T1006	SO:0000704 (gene)
+T1007	SO 29937 29945	deletion
+#1007	AnnotatorNotes T1007	SO:0000159 (deletion)
+T1008	italic 29947 29952	ITPR1
+#1008	AnnotatorNotes T1008	italic (null)
+T1009	EntrezGene 29947 29952	ITPR1
+#1009	AnnotatorNotes T1009	EG:3708
+T1010	PR 29947 29952	ITPR1
+#1010	AnnotatorNotes T1010	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T1011	italic 29957 29962	SUMF1
+#1011	AnnotatorNotes T1011	italic (null)
+T1012	PR 29957 29962	SUMF1
+#1012	AnnotatorNotes T1012	PR:000015827 (sulfatase-modifying factor 1)
+T1013	EntrezGene 29957 29962	SUMF1
+#1013	AnnotatorNotes T1013	EG:285362
+T1014	SO 29975 29983	Mutation
+#1014	AnnotatorNotes T1014	SO:0001059 (sequence_alteration)
+T1015	NCBITaxon 30083 30094	individuals
+#1015	AnnotatorNotes T1015	NCBITaxon:1 (root)
+T1016	NCBITaxon 30121 30132	individuals
+#1016	AnnotatorNotes T1016	NCBITaxon:1 (root)
+T1017	SO 30221 30222	w
+#1017	AnnotatorNotes T1017	SO:0000817 (wild_type)
+T1018	SO 30223 30224	w
+#1018	AnnotatorNotes T1018	SO:0000817 (wild_type)
+T1019	SO 30226 30235	wild-type
+#1019	AnnotatorNotes T1019	SO:0000817 (wild_type)
+T1020	italic 30239 30245	ITPR1;
+#1020	AnnotatorNotes T1020	italic (null)
+T1021	EntrezGene 30239 30244	ITPR1
+#1021	AnnotatorNotes T1021	EG:3708
+T1022	PR 30239 30244	ITPR1
+#1022	AnnotatorNotes T1022	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T1023	SO 30246 30247	w
+#1023	AnnotatorNotes T1023	SO:0000817 (wild_type)
+T1024	SO 30248 30249	m
+#1024	AnnotatorNotes T1024	SO:0001059 (sequence_alteration)
+T1025	italic 30279 30284	ITPR1
+#1025	AnnotatorNotes T1025	italic (null)
+T1026	EntrezGene 30279 30284	ITPR1
+#1026	AnnotatorNotes T1026	EG:3708
+T1027	PR 30279 30284	ITPR1
+#1027	AnnotatorNotes T1027	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T1028	SO 30285 30293	deletion
+#1028	AnnotatorNotes T1028	SO:0000159 (deletion)
+T1029	SO 30318 30324	primer
+#1029	AnnotatorNotes T1029	SO:0000112 (primer)
+T1030	SO 30358 30365	regions
+#1030	AnnotatorNotes T1030	SO:0000001 (region)
+T1031	SO 30374 30379	known
+#1031	AnnotatorNotes T1031	SO:0000906 (independently_known)
+T1032	SO 30380 30387	deleted
+#1032	AnnotatorNotes T1032	SO:0000045 (delete)
+T1033	SO 30388 30396	sequence
+#1033	AnnotatorNotes T1033	SO:0000001 (region)
+T1034	SO 30401 30406	known
+#1034	AnnotatorNotes T1034	SO:0000906 (independently_known)
+T1035	SO 30415 30423	sequence
+#1035	AnnotatorNotes T1035	SO:0000001 (region)
+T1036	SO 30437 30442	locus
+#1036	AnnotatorNotes T1036	SO:0000001 (region)
+T1037	SO 30449 30455	primer
+#1037	AnnotatorNotes T1037	SO:0000112 (primer)
+T1038	SO 30510 30516	region
+#1038	AnnotatorNotes T1038	SO:0000001 (region)
+T1039	SO 30517 30526	telomeric
+#1039	AnnotatorNotes T1039	SO:0000624 (telomere)
+T1040	SO 30534 30539	known
+#1040	AnnotatorNotes T1040	SO:0000906 (independently_known)
+T1041	SO 30540 30547	deleted
+#1041	AnnotatorNotes T1041	SO:0000045 (delete)
+T1042	SO 30548 30554	region
+#1042	AnnotatorNotes T1042	SO:0000001 (region)
+T1043	SO 30559 30565	primer
+#1043	AnnotatorNotes T1043	SO:0000112 (primer)
+T1044	SO 30621 30627	region
+#1044	AnnotatorNotes T1044	SO:0000001 (region)
+T1045	SO 30628 30639	centromeric
+#1045	AnnotatorNotes T1045	SO:0000577 (centromere)
+T1046	SO 30647 30652	known
+#1046	AnnotatorNotes T1046	SO:0000906 (independently_known)
+T1047	SO 30653 30660	deleted
+#1047	AnnotatorNotes T1047	SO:0000045 (delete)
+T1048	SO 30661 30667	region
+#1048	AnnotatorNotes T1048	SO:0000001 (region)
+T1049	SO 30777 30783	region
+#1049	AnnotatorNotes T1049	SO:0000001 (region)
+T1050	SO 30820 30826	primer
+#1050	AnnotatorNotes T1050	SO:0000112 (primer)
+T1051	SO 30862 30881	deletion breakpoint
+#1051	AnnotatorNotes T1051	SO:0001415 (deletion_breakpoint)
+T1052	SO 30862 30870	deletion
+#1052	AnnotatorNotes T1052	SO:0000159 (deletion)
+T1053	GO_BP 30920 30929	producing
+#1053	AnnotatorNotes T1053	GO:0009058 (biosynthetic process)
+T1054	SO 30932 30940	fragment
+#1054	AnnotatorNotes T1054	SO:0000731 (fragmentary)
+T1055	SO 30948 30950	bp
+#1055	AnnotatorNotes T1055	SO:0000028 (base_pair)
+T1056	NCBITaxon 30963 30974	individuals
+#1056	AnnotatorNotes T1056	NCBITaxon:1 (root)
+T1057	SO 31012 31019	product
+#1057	AnnotatorNotes T1057	SO:0000006 (PCR_product)
+T1058	SO 31026 31032	primer
+#1058	AnnotatorNotes T1058	SO:0000112 (primer)
+T1059	EntrezGene 31269 31274	ITPR1
+#1059	AnnotatorNotes T1059	EG:3708
+T1060	PR 31269 31274	ITPR1
+#1060	AnnotatorNotes T1060	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T1061	CHEBI 31275 31282	Protein
+#1061	AnnotatorNotes T1061	CHEBI:36080 (proteins)
+T1062	NCBITaxon 31293 31296	EBV
+#1062	AnnotatorNotes T1062	NCBITaxon:10376 (Human herpesvirus 4)
+T1063	GO_BP 31297 31309	Immortalized
+#1063	AnnotatorNotes T1063	GO:0020021 (immortalization of host cell)
+T1064	EntrezGene 31383 31388	ITPR1
+#1064	AnnotatorNotes T1064	EG:3708
+T1065	PR 31383 31388	ITPR1
+#1065	AnnotatorNotes T1065	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T1066	NCBITaxon 31399 31402	EBV
+#1066	AnnotatorNotes T1066	NCBITaxon:10376 (Human herpesvirus 4)
+T1067	GO_BP 31403 31415	immortalized
+#1067	AnnotatorNotes T1067	GO:0020021 (immortalization of host cell)
+T1068	CL 31416 31427	lymphocytes
+#1068	AnnotatorNotes T1068	CL:0000542 (lymphocyte)
+T1069	italic 31475 31480	ITPR1
+#1069	AnnotatorNotes T1069	italic (null)
+T1070	PR 31475 31480	ITPR1
+#1070	AnnotatorNotes T1070	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T1071	EntrezGene 31475 31480	ITPR1
+#1071	AnnotatorNotes T1071	EG:3708
+T1072	SO 31481 31489	deletion
+#1072	AnnotatorNotes T1072	SO:0000159 (deletion)
+T1073	SO 31570 31578	deletion
+#1073	AnnotatorNotes T1073	SO:0000159 (deletion)
+T1074	italic 31619 31624	ITPR1
+#1074	AnnotatorNotes T1074	italic (null)
+T1075	PR 31619 31624	ITPR1
+#1075	AnnotatorNotes T1075	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T1076	EntrezGene 31619 31624	ITPR1
+#1076	AnnotatorNotes T1076	EG:3708
+T1077	SO 31625 31633	deletion
+#1077	AnnotatorNotes T1077	SO:0000159 (deletion)
+T1078	EntrezGene 31662 31667	ITPR1
+#1078	AnnotatorNotes T1078	EG:3708
+T1079	PR 31662 31667	ITPR1
+#1079	AnnotatorNotes T1079	PR:000009158 (inositol 1,4,5-trisphosphate receptor type 1)
+T1080	GO_CC 31789 31797	antibody
+#1080	AnnotatorNotes T1080	GO:0019814 (immunoglobulin complex)
+T1081	PR 31806 31810	ACTB
+#1081	AnnotatorNotes T1081	PR:000003676 (actin, cytoplasmic 1)
+T1082	bold 31952 31973	Author contributions.
+#1082	AnnotatorNotes T1082	bold (null)
+T1083	CHEBI 32245 32253	reagents
+#1083	AnnotatorNotes T1083	CHEBI:33893 (reagent)
+T1084	bold 32318 32326	Funding.
+#1084	AnnotatorNotes T1084	bold (null)
+T1085	GO_BP 32416 32421	Aging
+#1085	AnnotatorNotes T1085	GO:0007568 (aging)
+T1086	NCBITaxon 32563 32568	Human
+#1086	AnnotatorNotes T1086	NCBITaxon:9606 (Homo sapiens)
+T1087	bold 32737 32757	Competing interests.
+#1087	AnnotatorNotes T1087	bold (null)

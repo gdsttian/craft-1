@@ -1,0 +1,2056 @@
+T1	GO_BP 20 28	learning
+#1	AnnotatorNotes T1	GO:0007612 (learning)
+T2	GO_BP 33 38	motor
+#2	AnnotatorNotes T2	GO:0050879 (multicellular organismal movement)
+T3	EntrezGene 55 61	ADAM11
+#3	AnnotatorNotes T3	EG:11488
+T4	PR 55 61	ADAM11
+#4	AnnotatorNotes T4	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T5	NCBITaxon 72 76	mice
+#5	AnnotatorNotes T5	NCBITaxon:10088 (Mus)
+T6	EntrezGene 100 106	ADAM11
+#6	AnnotatorNotes T6	EG:11488
+T7	PR 100 106	ADAM11
+#7	AnnotatorNotes T7	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T8	SO 131 135	gene
+#8	AnnotatorNotes T8	SO:0000704 (gene)
+T9	GO_BP 157 166	expressed
+#9	AnnotatorNotes T9	GO:0010467 (gene expression)
+T10	GO_BP 213 221	adhesion
+#10	AnnotatorNotes T10	GO:0022610 (biological adhesion)
+T11	CHEBI 222 230	molecule
+#11	AnnotatorNotes T11	CHEBI:23367 (molecular entity)
+T12	CL 282 286	cell
+#12	AnnotatorNotes T12	CL:0000000 (cell)
+T13	GO_CC 282 286	cell
+#13	AnnotatorNotes T13	GO:0005623 (cell)
+T14	CL 287 291	cell
+#14	AnnotatorNotes T14	CL:0000000 (cell)
+T15	GO_CC 287 291	cell
+#15	AnnotatorNotes T15	GO:0005623 (cell)
+T16	CL 295 299	cell
+#16	AnnotatorNotes T16	CL:0000000 (cell)
+T17	GO_CC 295 299	cell
+#17	AnnotatorNotes T17	GO:0005623 (cell)
+T18	GO_CC 300 306	matrix
+#18	AnnotatorNotes T18	GO:0031012 (extracellular matrix)
+T19	EntrezGene 365 371	ADAM11
+#19	AnnotatorNotes T19	EG:11488
+T20	PR 365 371	ADAM11
+#20	AnnotatorNotes T20	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T21	GO_BP 376 385	generated
+#21	AnnotatorNotes T21	GO:0000003 (reproduction)
+T22	EntrezGene 386 392	ADAM11
+#22	AnnotatorNotes T22	EG:11488
+T23	PR 386 392	ADAM11
+#23	AnnotatorNotes T23	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T24	NCBITaxon 403 407	mice
+#24	AnnotatorNotes T24	NCBITaxon:10088 (Mus)
+T25	SO 420 424	gene
+#25	AnnotatorNotes T25	SO:0000704 (gene)
+T26	EntrezGene 446 452	ADAM11
+#26	AnnotatorNotes T26	EG:11488
+T27	PR 446 452	ADAM11
+#27	AnnotatorNotes T27	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T28	NCBITaxon 463 467	mice
+#28	AnnotatorNotes T28	NCBITaxon:10088 (Mus)
+T29	EntrezGene 602 608	ADAM11
+#29	AnnotatorNotes T29	EG:11488
+T30	PR 602 608	ADAM11
+#30	AnnotatorNotes T30	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T31	GO_BP 619 628	expressed
+#31	AnnotatorNotes T31	GO:0010467 (gene expression)
+T32	EntrezGene 681 687	ADAM11
+#32	AnnotatorNotes T32	EG:11488
+T33	PR 681 687	ADAM11
+#33	AnnotatorNotes T33	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T34	SO 688 694	mutant
+#34	AnnotatorNotes T34	SO:0001059 (sequence_alteration)
+T35	NCBITaxon 695 699	mice
+#35	AnnotatorNotes T35	NCBITaxon:10088 (Mus)
+T36	GO_BP 704 712	learning
+#36	AnnotatorNotes T36	GO:0007612 (learning)
+T37	GO_BP 719 725	visual
+#37	AnnotatorNotes T37	GO:0007601 (visual perception)
+T38	CHEBI 737 742	water
+#38	AnnotatorNotes T38	CHEBI:15377 (water)
+T39	GO_BP 765 770	motor
+#39	AnnotatorNotes T39	GO:0050879 (multicellular organismal movement)
+T40	GO_BP 841 847	visual
+#40	AnnotatorNotes T40	GO:0007601 (visual perception)
+T41	CHEBI 848 853	water
+#41	AnnotatorNotes T41	CHEBI:15377 (water)
+T42	CHEBI 899 904	water
+#42	AnnotatorNotes T42	CHEBI:15377 (water)
+T43	EntrezGene 955 961	ADAM11
+#43	AnnotatorNotes T43	EG:11488
+T44	PR 955 961	ADAM11
+#44	AnnotatorNotes T44	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T45	NCBITaxon 972 976	mice
+#45	AnnotatorNotes T45	NCBITaxon:10088 (Mus)
+T46	EntrezGene 1017 1023	ADAM11
+#46	AnnotatorNotes T46	EG:11488
+T47	PR 1017 1023	ADAM11
+#47	AnnotatorNotes T47	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T48	SO 1024 1032	mutation
+#48	AnnotatorNotes T48	SO:0000041 (sequence_operation)
+T49	GO_BP 1049 1083	cell migration and differentiation
+#49	AnnotatorNotes T49	"cell .. differentiation" GO:0030154 (cell differentiation)
+T50	GO_BP 1049 1063	cell migration
+#50	AnnotatorNotes T50	GO:0016477 (cell migration)
+T51	CL 1049 1053	cell
+#51	AnnotatorNotes T51	CL:0000000 (cell)
+T52	GO_CC 1049 1053	cell
+#52	AnnotatorNotes T52	GO:0005623 (cell)
+T53	GO_BP 1091 1102	development
+#53	AnnotatorNotes T53	GO:0032502 (developmental process)
+T54	GO_BP 1116 1124	learning
+#54	AnnotatorNotes T54	GO:0007612 (learning)
+T55	GO_BP 1129 1134	motor
+#55	AnnotatorNotes T55	GO:0050879 (multicellular organismal movement)
+T56	EntrezGene 1155 1161	ADAM11
+#56	AnnotatorNotes T56	EG:11488
+T57	PR 1155 1161	ADAM11
+#57	AnnotatorNotes T57	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T58	GO_BP 1186 1196	signalling
+#58	AnnotatorNotes T58	GO:0007165 (signal transduction)
+T59	GO_BP 1221 1234	cell adhesion
+#59	AnnotatorNotes T59	GO:0007155 (cell adhesion)
+T60	CL 1221 1225	cell
+#60	AnnotatorNotes T60	CL:0000000 (cell)
+T61	GO_CC 1221 1225	cell
+#61	AnnotatorNotes T61	GO:0005623 (cell)
+T62	CHEBI 1235 1243	molecule
+#62	AnnotatorNotes T62	CHEBI:23367 (molecular entity)
+T63	GO_CC 1251 1258	synapse
+#63	AnnotatorNotes T63	GO:0045202 (synapse)
+T64	GO_CC 1288 1296	synaptic
+#64	AnnotatorNotes T64	GO:0045202 (synapse)
+T65	GO_BP 1297 1307	regulation
+#65	AnnotatorNotes T65	GO:0065007 (biological regulation)
+T66	GO_BP 1319 1330	behavioural
+#66	AnnotatorNotes T66	GO:0007610 (behavior)
+T67	independent_continuant 1381 1396	Metalloprotease
+#67	AnnotatorNotes T67	independent_continuant
+T68	GO_MF 1381 1396	Metalloprotease
+#68	AnnotatorNotes T68	GO:0008237 (metallopeptidase activity)
+T69	GO_CC 1415 1423	membrane
+#69	AnnotatorNotes T69	GO:0016020 (membrane)
+T70	SO 1439 1445	domain
+#70	AnnotatorNotes T70	SO:0000417 (polypeptide_domain)
+T71	CHEBI 1446 1454	proteins
+#71	AnnotatorNotes T71	CHEBI:36080 (proteins)
+T72	GO_MF 1468 1485	metalloproteinase
+#72	AnnotatorNotes T72	GO:0008237 (metallopeptidase activity)
+T73	independent_continuant 1468 1485	metalloproteinase
+#73	AnnotatorNotes T73	independent_continuant
+T74	SO 1491 1497	domain
+#74	AnnotatorNotes T74	SO:0000417 (polypeptide_domain)
+T75	SO 1521 1527	domain
+#75	AnnotatorNotes T75	SO:0000417 (polypeptide_domain)
+T76	GO_MF 1586 1602	metalloproteases
+#76	AnnotatorNotes T76	GO:0008237 (metallopeptidase activity)
+T77	independent_continuant 1586 1602	metalloproteases
+#77	AnnotatorNotes T77	independent_continuant
+T78	GO_MF 1650 1659	cytokines
+#78	AnnotatorNotes T78	GO:0005125 (cytokine activity)
+T79	independent_continuant 1650 1659	cytokines
+#79	AnnotatorNotes T79	independent_continuant
+T80	independent_continuant 1661 1675	growth factors
+#80	AnnotatorNotes T80	independent_continuant
+T81	GO_MF 1661 1675	growth factors
+#81	AnnotatorNotes T81	GO:0008083 (growth factor activity)
+T82	GO_BP 1661 1667	growth
+#82	AnnotatorNotes T82	GO:0040007 (growth)
+T83	independent_continuant 1677 1686	receptors
+#83	AnnotatorNotes T83	independent_continuant
+T84	GO_MF 1677 1686	receptors
+#84	AnnotatorNotes T84	GO:0004872 (receptor activity)
+T85	GO_BP 1688 1696	adhesion
+#85	AnnotatorNotes T85	GO:0022610 (biological adhesion)
+T86	CHEBI 1697 1706	molecules
+#86	AnnotatorNotes T86	CHEBI:23367 (molecular entity)
+T87	SO 1721 1725	gene
+#87	AnnotatorNotes T87	SO:0000704 (gene)
+T88	NCBITaxon 1748 1752	mice
+#88	AnnotatorNotes T88	NCBITaxon:10088 (Mus)
+T89	EntrezGene 1816 1822	ADAM10
+#89	AnnotatorNotes T89	EG:11487
+T90	PR 1816 1822	ADAM10
+#90	AnnotatorNotes T90	PR:000001278 (ADAM 10 endopeptidase)
+T91	EntrezGene 1824 1830	ADAM17
+#91	AnnotatorNotes T91	EG:11491
+T92	PR 1824 1830	ADAM17
+#92	AnnotatorNotes T92	PR:000001279 (ADAM 17 endopeptidase)
+T93	EntrezGene 1835 1841	ADAM19
+#93	AnnotatorNotes T93	EG:11492
+T94	PR 1835 1841	ADAM19
+#94	AnnotatorNotes T94	PR:000003714 (disintegrin and metalloproteinase domain-containing protein 19)
+T95	GO_BP 1866 1877	development
+#95	AnnotatorNotes T95	GO:0032502 (developmental process)
+T96	GO_BP 1891 1897	growth
+#96	AnnotatorNotes T96	GO:0040007 (growth)
+T97	EntrezGene 1975 1980	ADAM8
+#97	AnnotatorNotes T97	EG:11501
+T98	PR 1975 1980	ADAM8
+#98	AnnotatorNotes T98	PR:000001280 (ADAM 8 endopeptidase)
+T99	EntrezGene 1982 1987	ADAM9
+#99	AnnotatorNotes T99	EG:11502
+T100	PR 1982 1987	ADAM9
+#100	AnnotatorNotes T100	PR:000003725 (disintegrin and metalloproteinase domain-containing protein 9)
+T101	EntrezGene 1989 1995	ADAM12
+#101	AnnotatorNotes T101	EG:11489
+T102	PR 1989 1995	ADAM12
+#102	AnnotatorNotes T102	PR:000003711 (disintegrin and metalloproteinase domain-containing protein 12)
+T103	EntrezGene 2000 2006	ADAM15
+#103	AnnotatorNotes T103	EG:11490
+T104	PR 2000 2006	ADAM15
+#104	AnnotatorNotes T104	PR:000003712 (disintegrin and metalloproteinase domain-containing protein 15)
+T105	GO_BP 2029 2042	embryogenesis
+#105	AnnotatorNotes T105	GO:0009790 (embryonic development)
+T106	independent_continuant 2099 2107	protease
+#106	AnnotatorNotes T106	independent_continuant
+T107	GO_MF 2099 2107	protease
+#107	AnnotatorNotes T107	GO:0008233 (peptidase activity)
+T108	independent_continuant 2150 2158	protease
+#108	AnnotatorNotes T108	independent_continuant
+T109	GO_MF 2150 2158	protease
+#109	AnnotatorNotes T109	GO:0008233 (peptidase activity)
+T110	GO_BP 2184 2192	adhesion
+#110	AnnotatorNotes T110	GO:0022610 (biological adhesion)
+T111	CHEBI 2193 2202	molecules
+#111	AnnotatorNotes T111	CHEBI:23367 (molecular entity)
+T112	GO_BP 2251 2282	integrin-mediated cell adhesion
+#112	AnnotatorNotes T112	GO:0033627 (cell adhesion mediated by integrin)
+T113	GO_CC 2251 2259	integrin
+#113	AnnotatorNotes T113	GO:0008305 (integrin complex)
+T114	CL 2269 2273	cell
+#114	AnnotatorNotes T114	CL:0000000 (cell)
+T115	GO_CC 2269 2273	cell
+#115	AnnotatorNotes T115	GO:0005623 (cell)
+T116	italic 2283 2291	in vitro
+#116	AnnotatorNotes T116	italic (null)
+T117	GO_CC 2348 2356	integrin
+#117	AnnotatorNotes T117	GO:0008305 (integrin complex)
+T118	GO_BP 2366 2380	cell migration
+#118	AnnotatorNotes T118	GO:0016477 (cell migration)
+T119	CL 2366 2370	cell
+#119	AnnotatorNotes T119	CL:0000000 (cell)
+T120	GO_CC 2366 2370	cell
+#120	AnnotatorNotes T120	GO:0005623 (cell)
+T121	CL 2399 2404	cells
+#121	AnnotatorNotes T121	CL:0000000 (cell)
+T122	GO_CC 2399 2404	cells
+#122	AnnotatorNotes T122	GO:0005623 (cell)
+T123	GO_BP 2412 2422	controlled
+#123	AnnotatorNotes T123	GO:0065007 (biological regulation)
+T124	italic 2450 2460	C. elegans
+#124	AnnotatorNotes T124	italic (null)
+T125	taxonomic_rank 2450 2460	C. elegans
+#125	AnnotatorNotes T125	taxonomic_rank (null)
+T126	NCBITaxon 2450 2460	C. elegans
+#126	AnnotatorNotes T126	NCBITaxon:6239 (Caenorhabditis elegans)
+T127	italic 2462 2468	unc-71
+#127	AnnotatorNotes T127	italic (null)
+T128	EntrezGene 2462 2468	unc-71
+#128	AnnotatorNotes T128	EG:176706
+T129	PR 2462 2468	unc-71
+#129	AnnotatorNotes T129	PR:000003714 (disintegrin and metalloproteinase domain-containing protein 19)
+T130	SO 2469 2473	gene
+#130	AnnotatorNotes T130	SO:0000704 (gene)
+T131	independent_continuant 2487 2495	protease
+#131	AnnotatorNotes T131	independent_continuant
+T132	GO_MF 2487 2495	protease
+#132	AnnotatorNotes T132	GO:0008233 (peptidase activity)
+T133	CHEBI 2501 2508	protein
+#133	AnnotatorNotes T133	CHEBI:36080 (proteins)
+T134	GO_BP 2543 2564	cell migration events
+#134	AnnotatorNotes T134	GO:0016477 (cell migration)
+T135	CL 2543 2547	cell
+#135	AnnotatorNotes T135	CL:0000000 (cell)
+T136	GO_CC 2543 2547	cell
+#136	AnnotatorNotes T136	GO:0005623 (cell)
+T137	italic 2565 2572	in vivo
+#137	AnnotatorNotes T137	italic (null)
+T138	NCBITaxon 2615 2624	mammalian
+#138	AnnotatorNotes T138	NCBITaxon:40674 (Mammalia)
+T139	independent_continuant 2629 2637	protease
+#139	AnnotatorNotes T139	independent_continuant
+T140	GO_MF 2629 2637	protease
+#140	AnnotatorNotes T140	GO:0008233 (peptidase activity)
+T141	italic 2666 2673	in vivo
+#141	AnnotatorNotes T141	italic (null)
+T142	SO 2675 2682	Genetic
+#142	AnnotatorNotes T142	SO:0000704 (gene)
+T143	SO 2683 2691	deletion
+#143	AnnotatorNotes T143	SO:0000045 (delete)
+T144	NCBITaxon 2703 2707	mice
+#144	AnnotatorNotes T144	NCBITaxon:10088 (Mus)
+T145	italic 2729 2734	Adam2
+#145	AnnotatorNotes T145	italic (null)
+T146	PR 2729 2734	Adam2
+#146	AnnotatorNotes T146	PR:000003715 (disintegrin and metalloproteinase domain-containing protein 2)
+T147	EntrezGene 2729 2734	Adam2
+#147	AnnotatorNotes T147	EG:11495
+T148	italic 2744 2749	Adam3
+#148	AnnotatorNotes T148	italic (null)
+T149	EntrezGene 2744 2749	Adam3
+#149	AnnotatorNotes T149	EG:11497
+T150	SO 2760 2767	mutants
+#150	AnnotatorNotes T150	SO:0001059 (sequence_alteration)
+T151	independent_continuant 2760 2767	mutants
+#151	AnnotatorNotes T151	independent_continuant
+T152	CL 2792 2803	spermatozoa
+#152	AnnotatorNotes T152	CL:0000019 (sperm)
+T153	CL 2809 2812	egg
+#153	AnnotatorNotes T153	CL:0000025 (egg)
+T154	GO_MF 2813 2820	binding
+#154	AnnotatorNotes T154	GO:0005488 (binding)
+T155	PR 2925 2931	ADAM11
+#155	AnnotatorNotes T155	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T156	PR 2933 2939	ADAM22
+#156	AnnotatorNotes T156	PR:000003718 (disintegrin and metalloproteinase domain-containing protein 22)
+T157	PR 2944 2950	ADAM23
+#157	AnnotatorNotes T157	PR:000003719 (disintegrin and metalloproteinase domain-containing protein 23)
+T158	SO 2951 2956	genes
+#158	AnnotatorNotes T158	SO:0000704 (gene)
+T159	GO_BP 2978 2988	expression
+#159	AnnotatorNotes T159	GO:0010467 (gene expression)
+T160	NCBITaxon 2996 3001	human
+#160	AnnotatorNotes T160	NCBITaxon:9606 (Homo sapiens)
+T161	NCBITaxon 3006 3012	murine
+#161	AnnotatorNotes T161	NCBITaxon:39107 (Murinae)
+T162	independent_continuant 3090 3107	metalloproteinase
+#162	AnnotatorNotes T162	independent_continuant
+T163	GO_MF 3090 3107	metalloproteinase
+#163	AnnotatorNotes T163	GO:0008237 (metallopeptidase activity)
+T164	independent_continuant 3147 3156	proteases
+#164	AnnotatorNotes T164	independent_continuant
+T165	GO_MF 3147 3156	proteases
+#165	AnnotatorNotes T165	GO:0008233 (peptidase activity)
+T166	GO_BP 3205 3236	cell migration, differentiation
+#166	AnnotatorNotes T166	"cell .. differentiation" GO:0030154 (cell differentiation)
+T167	GO_BP 3205 3219	cell migration
+#167	AnnotatorNotes T167	GO:0016477 (cell migration)
+T168	CL 3205 3209	cell
+#168	AnnotatorNotes T168	CL:0000000 (cell)
+T169	GO_CC 3205 3209	cell
+#169	AnnotatorNotes T169	GO:0005623 (cell)
+T170	GO_CC 3253 3261	synaptic
+#170	AnnotatorNotes T170	GO:0045202 (synapse)
+T171	GO_BP 3262 3272	regulation
+#171	AnnotatorNotes T171	GO:0065007 (biological regulation)
+T172	GO_MF 3276 3283	binding
+#172	AnnotatorNotes T172	GO:0005488 (binding)
+T173	GO_CC 3287 3296	integrins
+#173	AnnotatorNotes T173	GO:0008305 (integrin complex)
+T174	GO_CC 3298 3310	cell-surface
+#174	AnnotatorNotes T174	GO:0009986 (cell surface)
+T175	CL 3298 3302	cell
+#175	AnnotatorNotes T175	CL:0000000 (cell)
+T176	GO_CC 3298 3302	cell
+#176	AnnotatorNotes T176	GO:0005623 (cell)
+T177	CHEBI 3311 3319	proteins
+#177	AnnotatorNotes T177	CHEBI:36080 (proteins)
+T178	GO_BP 3323 3347	intracellular signalling
+#178	AnnotatorNotes T178	GO:0007242 (intracellular signaling cascade)
+T179	GO_CC 3323 3336	intracellular
+#179	AnnotatorNotes T179	GO:0005622 (intracellular)
+T180	CHEBI 3348 3357	molecules
+#180	AnnotatorNotes T180	CHEBI:23367 (molecular entity)
+T181	GO_BP 3413 3418	death
+#181	AnnotatorNotes T181	GO:0016265 (death)
+T182	italic 3504 3510	Adam22
+#182	AnnotatorNotes T182	italic (null)
+T183	EntrezGene 3504 3510	Adam22
+#183	AnnotatorNotes T183	EG:11496
+T184	PR 3504 3510	Adam22
+#184	AnnotatorNotes T184	PR:000003718 (disintegrin and metalloproteinase domain-containing protein 22)
+T185	SO 3516 3522	mutant
+#185	AnnotatorNotes T185	SO:0001059 (sequence_alteration)
+T186	NCBITaxon 3523 3527	mice
+#186	AnnotatorNotes T186	NCBITaxon:10088 (Mus)
+T187	italic 3578 3584	Adam23
+#187	AnnotatorNotes T187	italic (null)
+T188	PR 3578 3584	Adam23
+#188	AnnotatorNotes T188	PR:000003719 (disintegrin and metalloproteinase domain-containing protein 23)
+T189	EntrezGene 3578 3584	Adam23
+#189	AnnotatorNotes T189	EG:23792
+T190	SO 3585 3589	gene
+#190	AnnotatorNotes T190	SO:0000704 (gene)
+T191	NCBITaxon 3597 3602	mouse
+#191	AnnotatorNotes T191	NCBITaxon:10088 (Mus)
+T192	GO_BP 3624 3629	death
+#192	AnnotatorNotes T192	GO:0016265 (death)
+T193	italic 3772 3778	Adam22
+#193	AnnotatorNotes T193	italic (null)
+T194	PR 3772 3778	Adam22
+#194	AnnotatorNotes T194	PR:000003718 (disintegrin and metalloproteinase domain-containing protein 22)
+T195	EntrezGene 3772 3778	Adam22
+#195	AnnotatorNotes T195	EG:11496
+T196	italic 3788 3794	Adam23
+#196	AnnotatorNotes T196	italic (null)
+T197	EntrezGene 3788 3794	Adam23
+#197	AnnotatorNotes T197	EG:23792
+T198	PR 3788 3794	Adam23
+#198	AnnotatorNotes T198	PR:000003719 (disintegrin and metalloproteinase domain-containing protein 23)
+T199	NCBITaxon 3800 3804	mice
+#199	AnnotatorNotes T199	NCBITaxon:10088 (Mus)
+T200	PR 3807 3813	ADAM11
+#200	AnnotatorNotes T200	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T201	SO 3829 3836	paralog
+#201	AnnotatorNotes T201	SO:0000854 (paralogous_region)
+T202	PR 3840 3846	ADAM22
+#202	AnnotatorNotes T202	PR:000003718 (disintegrin and metalloproteinase domain-containing protein 22)
+T203	PR 3851 3857	ADAM23
+#203	AnnotatorNotes T203	PR:000003719 (disintegrin and metalloproteinase domain-containing protein 23)
+T204	SO 3867 3876	orthologs
+#204	AnnotatorNotes T204	SO:0000855 (orthologous_region)
+T205	NCBITaxon 3896 3907	vertebrates
+#205	AnnotatorNotes T205	NCBITaxon:7742 (Vertebrata)
+T206	italic 3965 3972	Xenopus
+#206	AnnotatorNotes T206	italic (null)
+T207	NCBITaxon 3965 3972	Xenopus
+#207	AnnotatorNotes T207	NCBITaxon:8353 (Xenopus)
+T208	taxonomic_rank 3965 3972	Xenopus
+#208	AnnotatorNotes T208	taxonomic_rank (null)
+T209	EntrezGene 3973 3979	ADAM11
+#209	AnnotatorNotes T209	EG:11488
+T210	PR 3973 3979	ADAM11
+#210	AnnotatorNotes T210	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T211	SO 3980 3988	ortholog
+#211	AnnotatorNotes T211	SO:0000855 (orthologous_region)
+T212	EntrezGene 3990 3997	xMDC11a
+#212	AnnotatorNotes T212	EG:386622
+T213	GO_BP 4006 4016	expression
+#213	AnnotatorNotes T213	GO:0010467 (gene expression)
+T214	GO_BP 4041 4059	neural development
+#214	AnnotatorNotes T214	GO:0007399 (nervous system development)
+T215	GO_BP 4085 4099	cell migration
+#215	AnnotatorNotes T215	GO:0016477 (cell migration)
+T216	CL 4085 4089	cell
+#216	AnnotatorNotes T216	CL:0000000 (cell)
+T217	GO_CC 4085 4089	cell
+#217	AnnotatorNotes T217	GO:0005623 (cell)
+T218	italic 4167 4174	in situ
+#218	AnnotatorNotes T218	italic (null)
+T219	GO_MF 4175 4188	hybridisation
+#219	AnnotatorNotes T219	GO:0000739 (DNA strand annealing activity)
+T220	GO_MF 4175 4188	hybridisation
+#220	AnnotatorNotes T220	GO:0033592 (RNA strand annealing activity)
+T221	EntrezGene 4206 4219	murine Adam11
+#221	AnnotatorNotes T221	EG:11488
+T222	NCBITaxon 4206 4212	murine
+#222	AnnotatorNotes T222	NCBITaxon:39107 (Murinae)
+T223	italic 4213 4219	Adam11
+#223	AnnotatorNotes T223	italic (null)
+T224	PR 4213 4219	Adam11
+#224	AnnotatorNotes T224	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T225	SO 4220 4224	gene
+#225	AnnotatorNotes T225	SO:0000704 (gene)
+T226	GO_BP 4228 4237	expressed
+#226	AnnotatorNotes T226	GO:0010467 (gene expression)
+T227	GO_BP 4250 4260	developing
+#227	AnnotatorNotes T227	GO:0032502 (developmental process)
+T228	EntrezGene 4337 4343	ADAM11
+#228	AnnotatorNotes T228	EG:11488
+T229	PR 4337 4343	ADAM11
+#229	AnnotatorNotes T229	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T230	GO_MF 4350 4365	integrin binder
+#230	AnnotatorNotes T230	GO:0005178 (integrin binding)
+T231	independent_continuant 4350 4365	integrin binder
+#231	AnnotatorNotes T231	independent_continuant
+T232	GO_CC 4350 4358	integrin
+#232	AnnotatorNotes T232	GO:0008305 (integrin complex)
+T233	EntrezGene 4424 4430	ADAM22
+#233	AnnotatorNotes T233	EG:11496
+T234	PR 4424 4430	ADAM22
+#234	AnnotatorNotes T234	PR:000003718 (disintegrin and metalloproteinase domain-containing protein 22)
+T235	EntrezGene 4435 4441	ADAM23
+#235	AnnotatorNotes T235	EG:23792
+T236	PR 4435 4441	ADAM23
+#236	AnnotatorNotes T236	PR:000003719 (disintegrin and metalloproteinase domain-containing protein 23)
+T237	EntrezGene 4487 4493	ADAM11
+#237	AnnotatorNotes T237	EG:11488
+T238	PR 4487 4493	ADAM11
+#238	AnnotatorNotes T238	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T239	GO_BP 4498 4507	generated
+#239	AnnotatorNotes T239	GO:0000003 (reproduction)
+T240	italic 4521 4527	Adam11
+#240	AnnotatorNotes T240	italic (null)
+T241	PR 4521 4527	Adam11
+#241	AnnotatorNotes T241	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T242	EntrezGene 4521 4527	Adam11
+#242	AnnotatorNotes T242	EG:11488
+T243	SO 4528 4532	gene
+#243	AnnotatorNotes T243	SO:0000704 (gene)
+T244	NCBITaxon 4542 4546	mice
+#244	AnnotatorNotes T244	NCBITaxon:10088 (Mus)
+T245	GO_BP 4558 4568	Generation
+#245	AnnotatorNotes T245	GO:0000003 (reproduction)
+T246	EntrezGene 4572 4578	ADAM11
+#246	AnnotatorNotes T246	EG:11488
+T247	PR 4572 4578	ADAM11
+#247	AnnotatorNotes T247	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T248	NCBITaxon 4589 4593	mice
+#248	AnnotatorNotes T248	NCBITaxon:10088 (Mus)
+T249	NCBITaxon 4595 4599	Mice
+#249	AnnotatorNotes T249	NCBITaxon:10088 (Mus)
+T250	SO 4620 4628	mutation
+#250	AnnotatorNotes T250	SO:0001059 (sequence_alteration)
+T251	italic 4638 4644	Adam11
+#251	AnnotatorNotes T251	italic (null)
+T252	EntrezGene 4638 4644	Adam11
+#252	AnnotatorNotes T252	EG:11488
+T253	PR 4638 4644	Adam11
+#253	AnnotatorNotes T253	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T254	SO 4645 4649	gene
+#254	AnnotatorNotes T254	SO:0000704 (gene)
+T255	GO_BP 4655 4664	generated
+#255	AnnotatorNotes T255	GO:0000003 (reproduction)
+T256	GO_BP 4679 4692	recombination
+#256	AnnotatorNotes T256	GO:0006310 (DNA recombination)
+T257	SO 4820 4837	termination codon
+#257	AnnotatorNotes T257	SO:0000319 (stop_codon)
+T258	GO_BP 4820 4831	termination
+#258	AnnotatorNotes T258	GO:0006353 (transcription termination)
+T259	GO_BP 4820 4831	termination
+#259	AnnotatorNotes T259	GO:0006415 (translational termination)
+T260	SO 4856 4860	exon
+#260	AnnotatorNotes T260	SO:0000147 (exon)
+T261	SO 4870 4888	pro-protein domain
+#261	AnnotatorNotes T261	SO:0001062 (propeptide)
+T262	CHEBI 4874 4881	protein
+#262	AnnotatorNotes T262	CHEBI:36080 (proteins)
+T263	SO 4909 4913	form
+#263	AnnotatorNotes T263	SO:0001060 (sequence_variant)
+T264	EntrezGene 4921 4927	ADAM11
+#264	AnnotatorNotes T264	EG:11488
+T265	PR 4921 4927	ADAM11
+#265	AnnotatorNotes T265	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T266	CHEBI 4928 4935	protein
+#266	AnnotatorNotes T266	CHEBI:36080 (proteins)
+T267	GO_BP 4945 4956	synthesised
+#267	AnnotatorNotes T267	GO:0009058 (biosynthetic process)
+T268	SO 4976 4982	allele
+#268	AnnotatorNotes T268	SO:0001023 (allele)
+T269	SO 4992 5011	pro-protein domains
+#269	AnnotatorNotes T269	SO:0001062 (propeptide)
+T270	CHEBI 4996 5003	protein
+#270	AnnotatorNotes T270	CHEBI:36080 (proteins)
+T271	SO 5023 5030	removed
+#271	AnnotatorNotes T271	SO:0000045 (delete)
+T272	CHEBI 5057 5065	proteins
+#272	AnnotatorNotes T272	CHEBI:36080 (proteins)
+T273	GO_MF 5069 5074	furin
+#273	AnnotatorNotes T273	GO:0004276 (furin activity)
+T274	PR 5069 5074	furin
+#274	AnnotatorNotes T274	PR:000003137 (furin)
+T275	independent_continuant 5069 5074	furin
+#275	AnnotatorNotes T275	independent_continuant
+T276	GO_MF 5080 5089	proteases
+#276	AnnotatorNotes T276	GO:0008233 (peptidase activity)
+T277	independent_continuant 5080 5089	proteases
+#277	AnnotatorNotes T277	independent_continuant
+T278	SO 5166 5170	form
+#278	AnnotatorNotes T278	SO:0001060 (sequence_variant)
+T279	EntrezGene 5174 5180	ADAM11
+#279	AnnotatorNotes T279	EG:11488
+T280	PR 5174 5180	ADAM11
+#280	AnnotatorNotes T280	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T281	CHEBI 5181 5188	protein
+#281	AnnotatorNotes T281	CHEBI:36080 (proteins)
+T282	EntrezGene 5236 5242	ADAM11
+#282	AnnotatorNotes T282	EG:11488
+T283	PR 5236 5242	ADAM11
+#283	AnnotatorNotes T283	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T284	CHEBI 5243 5250	protein
+#284	AnnotatorNotes T284	CHEBI:36080 (proteins)
+T285	SO 5265 5272	mutants
+#285	AnnotatorNotes T285	SO:0001059 (sequence_alteration)
+T286	independent_continuant 5265 5272	mutants
+#286	AnnotatorNotes T286	independent_continuant
+T287	GO_CC 5329 5337	antibody
+#287	AnnotatorNotes T287	GO:0019814 (immunoglobulin complex)
+T288	EntrezGene 5358 5364	ADAM11
+#288	AnnotatorNotes T288	EG:11488
+T289	PR 5358 5364	ADAM11
+#289	AnnotatorNotes T289	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T290	CHEBI 5365 5372	protein
+#290	AnnotatorNotes T290	CHEBI:36080 (proteins)
+T291	SO 5434 5441	mutants
+#291	AnnotatorNotes T291	SO:0001059 (sequence_alteration)
+T292	independent_continuant 5434 5441	mutants
+#292	AnnotatorNotes T292	independent_continuant
+T293	GO_BP 5442 5450	produced
+#293	AnnotatorNotes T293	GO:0009058 (biosynthetic process)
+T294	independent_continuant 5477 5486	wild-type
+#294	AnnotatorNotes T294	independent_continuant
+T295	SO 5477 5486	wild-type
+#295	AnnotatorNotes T295	SO:0000817 (wild_type)
+T296	EntrezGene 5497 5503	ADAM11
+#296	AnnotatorNotes T296	EG:11488
+T297	PR 5497 5503	ADAM11
+#297	AnnotatorNotes T297	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T298	CHEBI 5504 5511	protein
+#298	AnnotatorNotes T298	CHEBI:36080 (proteins)
+T299	EntrezGene 5514 5520	ADAM11
+#299	AnnotatorNotes T299	EG:11488
+T300	PR 5514 5520	ADAM11
+#300	AnnotatorNotes T300	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T301	NCBITaxon 5531 5535	mice
+#301	AnnotatorNotes T301	NCBITaxon:10088 (Mus)
+T302	GO_BP 5566 5572	Mating
+#302	AnnotatorNotes T302	GO:0007618 (mating)
+T303	NCBITaxon 5576 5580	mice
+#303	AnnotatorNotes T303	NCBITaxon:10088 (Mus)
+T304	EntrezGene 5602 5608	ADAM11
+#304	AnnotatorNotes T304	EG:11488
+T305	PR 5602 5608	ADAM11
+#305	AnnotatorNotes T305	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T306	SO 5609 5617	mutation
+#306	AnnotatorNotes T306	SO:0001059 (sequence_alteration)
+T307	SO 5659 5668	genotypes
+#307	AnnotatorNotes T307	SO:0001027 (genotype)
+T308	EntrezGene 5795 5801	ADAM11
+#308	AnnotatorNotes T308	EG:11488
+T309	PR 5795 5801	ADAM11
+#309	AnnotatorNotes T309	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T310	NCBITaxon 5817 5821	mice
+#310	AnnotatorNotes T310	NCBITaxon:10088 (Mus)
+T311	GO_BP 5890 5901	behavioural
+#311	AnnotatorNotes T311	GO:0007610 (behavior)
+T312	EntrezGene 5959 5965	ADAM11
+#312	AnnotatorNotes T312	EG:11488
+T313	PR 5959 5965	ADAM11
+#313	AnnotatorNotes T313	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T314	NCBITaxon 5976 5980	mice
+#314	AnnotatorNotes T314	NCBITaxon:10088 (Mus)
+T315	italic 6034 6040	Adam11
+#315	AnnotatorNotes T315	italic (null)
+T316	EntrezGene 6034 6040	Adam11
+#316	AnnotatorNotes T316	EG:11488
+T317	PR 6034 6040	Adam11
+#317	AnnotatorNotes T317	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T318	SO 6041 6045	gene
+#318	AnnotatorNotes T318	SO:0000704 (gene)
+T319	GO_BP 6066 6077	development
+#319	AnnotatorNotes T319	GO:0032502 (developmental process)
+T320	NCBITaxon 6125 6129	mice
+#320	AnnotatorNotes T320	NCBITaxon:10088 (Mus)
+T321	SO 6157 6158	+
+#321	AnnotatorNotes T321	SO:0000817 (wild_type)
+T322	SO 6159 6160	+
+#322	AnnotatorNotes T322	SO:0000817 (wild_type)
+T323	SO 6167 6168	+
+#323	AnnotatorNotes T323	SO:0000817 (wild_type)
+T324	NCBITaxon 6172 6176	mice
+#324	AnnotatorNotes T324	NCBITaxon:10088 (Mus)
+T325	GO_BP 6265 6283	locomotor activity
+#325	AnnotatorNotes T325	GO:0040011 (locomotion)
+T326	SO 6291 6292	+
+#326	AnnotatorNotes T326	SO:0000817 (wild_type)
+T327	SO 6293 6294	+
+#327	AnnotatorNotes T327	SO:0000817 (wild_type)
+T328	SO 6298 6299	+
+#328	AnnotatorNotes T328	SO:0000817 (wild_type)
+T329	SO 6313 6322	genotypes
+#329	AnnotatorNotes T329	SO:0001027 (genotype)
+T330	NCBITaxon 6506 6510	mice
+#330	AnnotatorNotes T330	NCBITaxon:10088 (Mus)
+T331	SO 6613 6614	+
+#331	AnnotatorNotes T331	SO:0000817 (wild_type)
+T332	SO 6615 6616	+
+#332	AnnotatorNotes T332	SO:0000817 (wild_type)
+T333	SO 6620 6621	+
+#333	AnnotatorNotes T333	SO:0000817 (wild_type)
+T334	NCBITaxon 6635 6639	mice
+#334	AnnotatorNotes T334	NCBITaxon:10088 (Mus)
+T335	italic 6661 6667	Adam11
+#335	AnnotatorNotes T335	italic (null)
+T336	PR 6661 6667	Adam11
+#336	AnnotatorNotes T336	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T337	EntrezGene 6661 6667	Adam11
+#337	AnnotatorNotes T337	EG:11488
+T338	GO_BP 6685 6694	expressed
+#338	AnnotatorNotes T338	GO:0010467 (gene expression)
+T339	GO_BP 6778 6789	behavioural
+#339	AnnotatorNotes T339	GO:0007610 (behavior)
+T340	GO_BP 6809 6817	learning
+#340	AnnotatorNotes T340	GO:0007612 (learning)
+T341	EntrezGene 6821 6827	ADAM11
+#341	AnnotatorNotes T341	EG:11488
+T342	PR 6821 6827	ADAM11
+#342	AnnotatorNotes T342	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T343	NCBITaxon 6838 6842	mice
+#343	AnnotatorNotes T343	NCBITaxon:10088 (Mus)
+T344	EntrezGene 6870 6876	ADAM11
+#344	AnnotatorNotes T344	EG:11488
+T345	PR 6870 6876	ADAM11
+#345	AnnotatorNotes T345	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T346	GO_BP 6921 6929	learning
+#346	AnnotatorNotes T346	GO:0007612 (learning)
+T347	EntrezGene 6941 6947	ADAM11
+#347	AnnotatorNotes T347	EG:11488
+T348	PR 6941 6947	ADAM11
+#348	AnnotatorNotes T348	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T349	NCBITaxon 6958 6962	mice
+#349	AnnotatorNotes T349	NCBITaxon:10088 (Mus)
+T350	CHEBI 6980 6985	Water
+#350	AnnotatorNotes T350	CHEBI:15377 (water)
+T351	NCBITaxon 7009 7013	mice
+#351	AnnotatorNotes T351	NCBITaxon:10088 (Mus)
+T352	NCBITaxon 7063 7067	mice
+#352	AnnotatorNotes T352	NCBITaxon:10088 (Mus)
+T353	CHEBI 7121 7126	water
+#353	AnnotatorNotes T353	CHEBI:15377 (water)
+T354	italic 7128 7134	Adam11
+#354	AnnotatorNotes T354	italic (null)
+T355	PR 7128 7134	Adam11
+#355	AnnotatorNotes T355	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T356	EntrezGene 7128 7134	Adam11
+#356	AnnotatorNotes T356	EG:11488
+T357	NCBITaxon 7141 7145	mice
+#357	AnnotatorNotes T357	NCBITaxon:10088 (Mus)
+T358	SO 7229 7230	+
+#358	AnnotatorNotes T358	SO:0000817 (wild_type)
+T359	SO 7231 7232	+
+#359	AnnotatorNotes T359	SO:0000817 (wild_type)
+T360	SO 7239 7240	+
+#360	AnnotatorNotes T360	SO:0000817 (wild_type)
+T361	NCBITaxon 7244 7248	mice
+#361	AnnotatorNotes T361	NCBITaxon:10088 (Mus)
+T362	SO 7289 7290	+
+#362	AnnotatorNotes T362	SO:0000817 (wild_type)
+T363	SO 7291 7292	+
+#363	AnnotatorNotes T363	SO:0000817 (wild_type)
+T364	SO 7296 7297	+
+#364	AnnotatorNotes T364	SO:0000817 (wild_type)
+T365	NCBITaxon 7311 7315	mice
+#365	AnnotatorNotes T365	NCBITaxon:10088 (Mus)
+T366	SO 7390 7391	+
+#366	AnnotatorNotes T366	SO:0000817 (wild_type)
+T367	SO 7392 7393	+
+#367	AnnotatorNotes T367	SO:0000817 (wild_type)
+T368	SO 7397 7398	+
+#368	AnnotatorNotes T368	SO:0000817 (wild_type)
+T369	NCBITaxon 7412 7416	mice
+#369	AnnotatorNotes T369	NCBITaxon:10088 (Mus)
+T370	GO_BP 7430 7435	learn
+#370	AnnotatorNotes T370	GO:0007612 (learning)
+T371	NCBITaxon 7536 7540	mice
+#371	AnnotatorNotes T371	NCBITaxon:10088 (Mus)
+T372	SO 7586 7587	+
+#372	AnnotatorNotes T372	SO:0000817 (wild_type)
+T373	SO 7588 7589	+
+#373	AnnotatorNotes T373	SO:0000817 (wild_type)
+T374	SO 7596 7597	+
+#374	AnnotatorNotes T374	SO:0000817 (wild_type)
+T375	NCBITaxon 7601 7605	mice
+#375	AnnotatorNotes T375	NCBITaxon:10088 (Mus)
+T376	NCBITaxon 7752 7756	mice
+#376	AnnotatorNotes T376	NCBITaxon:10088 (Mus)
+T377	SO 7881 7882	+
+#377	AnnotatorNotes T377	SO:0000817 (wild_type)
+T378	SO 7883 7884	+
+#378	AnnotatorNotes T378	SO:0000817 (wild_type)
+T379	NCBITaxon 7886 7890	mice
+#379	AnnotatorNotes T379	NCBITaxon:10088 (Mus)
+T380	italic 7902 7908	Adam11
+#380	AnnotatorNotes T380	italic (null)
+T381	EntrezGene 7902 7908	Adam11
+#381	AnnotatorNotes T381	EG:11488
+T382	PR 7902 7908	Adam11
+#382	AnnotatorNotes T382	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T383	SO 7910 7911	+
+#383	AnnotatorNotes T383	SO:0000817 (wild_type)
+T384	NCBITaxon 7915 7919	mice
+#384	AnnotatorNotes T384	NCBITaxon:10088 (Mus)
+T385	SO 8026 8027	+
+#385	AnnotatorNotes T385	SO:0000817 (wild_type)
+T386	SO 8028 8029	+
+#386	AnnotatorNotes T386	SO:0000817 (wild_type)
+T387	SO 8036 8037	+
+#387	AnnotatorNotes T387	SO:0000817 (wild_type)
+T388	NCBITaxon 8041 8045	mice
+#388	AnnotatorNotes T388	NCBITaxon:10088 (Mus)
+T389	GO_BP 8090 8098	learning
+#389	AnnotatorNotes T389	GO:0007612 (learning)
+T390	NCBITaxon 8119 8123	mice
+#390	AnnotatorNotes T390	NCBITaxon:10088 (Mus)
+T391	SO 8151 8152	+
+#391	AnnotatorNotes T391	SO:0000817 (wild_type)
+T392	SO 8153 8154	+
+#392	AnnotatorNotes T392	SO:0000817 (wild_type)
+T393	SO 8158 8159	+
+#393	AnnotatorNotes T393	SO:0000817 (wild_type)
+T394	NCBITaxon 8173 8177	mice
+#394	AnnotatorNotes T394	NCBITaxon:10088 (Mus)
+T395	NCBITaxon 8283 8287	mice
+#395	AnnotatorNotes T395	NCBITaxon:10088 (Mus)
+T396	SO 8294 8295	+
+#396	AnnotatorNotes T396	SO:0000817 (wild_type)
+T397	SO 8296 8297	+
+#397	AnnotatorNotes T397	SO:0000817 (wild_type)
+T398	SO 8301 8302	+
+#398	AnnotatorNotes T398	SO:0000817 (wild_type)
+T399	SO 8316 8325	genotypes
+#399	AnnotatorNotes T399	SO:0001027 (genotype)
+T400	NCBITaxon 8488 8492	mice
+#400	AnnotatorNotes T400	NCBITaxon:10088 (Mus)
+T401	GO_BP 8493 8498	learn
+#401	AnnotatorNotes T401	GO:0007612 (learning)
+T402	SO 8543 8544	+
+#402	AnnotatorNotes T402	SO:0000817 (wild_type)
+T403	SO 8545 8546	+
+#403	AnnotatorNotes T403	SO:0000817 (wild_type)
+T404	SO 8553 8554	+
+#404	AnnotatorNotes T404	SO:0000817 (wild_type)
+T405	NCBITaxon 8558 8562	mice
+#405	AnnotatorNotes T405	NCBITaxon:10088 (Mus)
+T406	NCBITaxon 8604 8608	mice
+#406	AnnotatorNotes T406	NCBITaxon:10088 (Mus)
+T407	GO_BP 8633 8647	motor function
+#407	AnnotatorNotes T407	GO:0050879 (multicellular organismal movement)
+T408	CHEBI 8681 8686	water
+#408	AnnotatorNotes T408	CHEBI:15377 (water)
+T409	GO_BP 8699 8713	Motor function
+#409	AnnotatorNotes T409	GO:0050879 (multicellular organismal movement)
+T410	EntrezGene 8717 8723	ADAM11
+#410	AnnotatorNotes T410	EG:11488
+T411	PR 8717 8723	ADAM11
+#411	AnnotatorNotes T411	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T412	NCBITaxon 8734 8738	mice
+#412	AnnotatorNotes T412	NCBITaxon:10088 (Mus)
+T413	EntrezGene 8766 8772	ADAM11
+#413	AnnotatorNotes T413	EG:11488
+T414	PR 8766 8772	ADAM11
+#414	AnnotatorNotes T414	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T415	GO_BP 8808 8822	motor function
+#415	AnnotatorNotes T415	GO:0050879 (multicellular organismal movement)
+T416	EntrezGene 8826 8832	ADAM11
+#416	AnnotatorNotes T416	EG:11488
+T417	PR 8826 8832	ADAM11
+#417	AnnotatorNotes T417	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T418	NCBITaxon 8843 8847	mice
+#418	AnnotatorNotes T418	NCBITaxon:10088 (Mus)
+T419	SO 8929 8930	+
+#419	AnnotatorNotes T419	SO:0000817 (wild_type)
+T420	NCBITaxon 8944 8948	mice
+#420	AnnotatorNotes T420	NCBITaxon:10088 (Mus)
+T421	SO 9006 9007	+
+#421	AnnotatorNotes T421	SO:0000817 (wild_type)
+T422	SO 9008 9009	+
+#422	AnnotatorNotes T422	SO:0000817 (wild_type)
+T423	NCBITaxon 9011 9015	mice
+#423	AnnotatorNotes T423	NCBITaxon:10088 (Mus)
+T424	SO 9039 9040	+
+#424	AnnotatorNotes T424	SO:0000817 (wild_type)
+T425	italic 9044 9045	F
+#425	AnnotatorNotes T425	italic (null)
+T426	italic 9062 9063	p
+#426	AnnotatorNotes T426	italic (null)
+T427	italic 9077 9078	F
+#427	AnnotatorNotes T427	italic (null)
+T428	italic 9096 9097	p
+#428	AnnotatorNotes T428	italic (null)
+T429	SO 9121 9122	+
+#429	AnnotatorNotes T429	SO:0000817 (wild_type)
+T430	NCBITaxon 9126 9130	mice
+#430	AnnotatorNotes T430	NCBITaxon:10088 (Mus)
+T431	SO 9253 9254	+
+#431	AnnotatorNotes T431	SO:0000817 (wild_type)
+T432	SO 9255 9256	+
+#432	AnnotatorNotes T432	SO:0000817 (wild_type)
+T433	SO 9263 9264	+
+#433	AnnotatorNotes T433	SO:0000817 (wild_type)
+T434	NCBITaxon 9268 9272	mice
+#434	AnnotatorNotes T434	NCBITaxon:10088 (Mus)
+T435	italic 9281 9282	F
+#435	AnnotatorNotes T435	italic (null)
+T436	italic 9299 9300	p
+#436	AnnotatorNotes T436	italic (null)
+T437	italic 9317 9318	F
+#437	AnnotatorNotes T437	italic (null)
+T438	italic 9335 9336	p
+#438	AnnotatorNotes T438	italic (null)
+T439	italic 9353 9354	F
+#439	AnnotatorNotes T439	italic (null)
+T440	italic 9372 9373	p
+#440	AnnotatorNotes T440	italic (null)
+T441	NCBITaxon 9420 9424	mice
+#441	AnnotatorNotes T441	NCBITaxon:10088 (Mus)
+T442	SO 9462 9463	+
+#442	AnnotatorNotes T442	SO:0000817 (wild_type)
+T443	SO 9464 9465	+
+#443	AnnotatorNotes T443	SO:0000817 (wild_type)
+T444	NCBITaxon 9467 9471	mice
+#444	AnnotatorNotes T444	NCBITaxon:10088 (Mus)
+T445	italic 9500 9501	F
+#445	AnnotatorNotes T445	italic (null)
+T446	italic 9521 9522	p
+#446	AnnotatorNotes T446	italic (null)
+T447	italic 9541 9542	F
+#447	AnnotatorNotes T447	italic (null)
+T448	italic 9560 9561	p
+#448	AnnotatorNotes T448	italic (null)
+T449	italic 9579 9580	F
+#449	AnnotatorNotes T449	italic (null)
+T450	italic 9598 9599	p
+#450	AnnotatorNotes T450	italic (null)
+T451	NCBITaxon 9692 9696	mice
+#451	AnnotatorNotes T451	NCBITaxon:10088 (Mus)
+T452	italic 9751 9752	F
+#452	AnnotatorNotes T452	italic (null)
+T453	italic 9771 9772	p
+#453	AnnotatorNotes T453	italic (null)
+T454	italic 9789 9790	F
+#454	AnnotatorNotes T454	italic (null)
+T455	italic 9807 9808	p
+#455	AnnotatorNotes T455	italic (null)
+T456	italic 9825 9826	F
+#456	AnnotatorNotes T456	italic (null)
+T457	italic 9846 9847	p
+#457	AnnotatorNotes T457	italic (null)
+T458	NCBITaxon 9905 9909	mice
+#458	AnnotatorNotes T458	NCBITaxon:10088 (Mus)
+T459	SO 9958 9959	+
+#459	AnnotatorNotes T459	SO:0000817 (wild_type)
+T460	SO 9960 9961	+
+#460	AnnotatorNotes T460	SO:0000817 (wild_type)
+T461	SO 9968 9969	+
+#461	AnnotatorNotes T461	SO:0000817 (wild_type)
+T462	NCBITaxon 9973 9977	mice
+#462	AnnotatorNotes T462	NCBITaxon:10088 (Mus)
+T463	NCBITaxon 10024 10028	mice
+#463	AnnotatorNotes T463	NCBITaxon:10088 (Mus)
+T464	SO 10060 10061	+
+#464	AnnotatorNotes T464	SO:0000817 (wild_type)
+T465	SO 10062 10063	+
+#465	AnnotatorNotes T465	SO:0000817 (wild_type)
+T466	SO 10070 10071	+
+#466	AnnotatorNotes T466	SO:0000817 (wild_type)
+T467	NCBITaxon 10075 10079	mice
+#467	AnnotatorNotes T467	NCBITaxon:10088 (Mus)
+T468	SO 10227 10236	genotypes
+#468	AnnotatorNotes T468	SO:0001027 (genotype)
+T469	EntrezGene 10319 10325	ADAM11
+#469	AnnotatorNotes T469	EG:11488
+T470	PR 10319 10325	ADAM11
+#470	AnnotatorNotes T470	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T471	GO_BP 10329 10339	generating
+#471	AnnotatorNotes T471	GO:0000003 (reproduction)
+T472	NCBITaxon 10340 10344	mice
+#472	AnnotatorNotes T472	NCBITaxon:10088 (Mus)
+T473	italic 10361 10367	Adam11
+#473	AnnotatorNotes T473	italic (null)
+T474	EntrezGene 10361 10367	Adam11
+#474	AnnotatorNotes T474	EG:11488
+T475	PR 10361 10367	Adam11
+#475	AnnotatorNotes T475	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T476	SO 10368 10372	gene
+#476	AnnotatorNotes T476	SO:0000704 (gene)
+T477	italic 10404 10410	Adam11
+#477	AnnotatorNotes T477	italic (null)
+T478	PR 10404 10410	Adam11
+#478	AnnotatorNotes T478	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T479	EntrezGene 10404 10410	Adam11
+#479	AnnotatorNotes T479	EG:11488
+T480	SO 10411 10415	gene
+#480	AnnotatorNotes T480	SO:0000704 (gene)
+T481	GO_BP 10419 10428	expressed
+#481	AnnotatorNotes T481	GO:0010467 (gene expression)
+T482	EntrezGene 10529 10535	ADAM11
+#482	AnnotatorNotes T482	EG:11488
+T483	PR 10529 10535	ADAM11
+#483	AnnotatorNotes T483	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T484	NCBITaxon 10546 10550	mice
+#484	AnnotatorNotes T484	NCBITaxon:10088 (Mus)
+T485	GO_BP 10692 10702	expression
+#485	AnnotatorNotes T485	GO:0010467 (gene expression)
+T486	italic 10719 10725	Adam11
+#486	AnnotatorNotes T486	italic (null)
+T487	PR 10719 10725	Adam11
+#487	AnnotatorNotes T487	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T488	EntrezGene 10719 10725	Adam11
+#488	AnnotatorNotes T488	EG:11488
+T489	SO 10726 10730	gene
+#489	AnnotatorNotes T489	SO:0000704 (gene)
+T490	italic 10768 10775	in situ
+#490	AnnotatorNotes T490	italic (null)
+T491	GO_MF 10776 10789	hybridisation
+#491	AnnotatorNotes T491	GO:0033592 (RNA strand annealing activity)
+T492	GO_MF 10776 10789	hybridisation
+#492	AnnotatorNotes T492	GO:0000739 (DNA strand annealing activity)
+T493	GO_BP 10822 10832	expression
+#493	AnnotatorNotes T493	GO:0010467 (gene expression)
+T494	EntrezGene 10836 10842	ADAM11
+#494	AnnotatorNotes T494	EG:11488
+T495	PR 10836 10842	ADAM11
+#495	AnnotatorNotes T495	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T496	CHEBI 10843 10847	mRNA
+#496	AnnotatorNotes T496	CHEBI:33699 (messenger RNA)
+T497	SO 10843 10847	mRNA
+#497	AnnotatorNotes T497	SO:0000234 (mRNA)
+T498	GO_BP 10959 10970	behavioural
+#498	AnnotatorNotes T498	GO:0007610 (behavior)
+T499	EntrezGene 11003 11009	ADAM11
+#499	AnnotatorNotes T499	EG:11488
+T500	PR 11003 11009	ADAM11
+#500	AnnotatorNotes T500	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T501	CHEBI 11146 11151	water
+#501	AnnotatorNotes T501	CHEBI:15377 (water)
+T502	GO_BP 11236 11244	learning
+#502	AnnotatorNotes T502	GO:0007612 (learning)
+T503	EntrezGene 11293 11299	ADAM11
+#503	AnnotatorNotes T503	EG:11488
+T504	PR 11293 11299	ADAM11
+#504	AnnotatorNotes T504	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T505	NCBITaxon 11310 11314	mice
+#505	AnnotatorNotes T505	NCBITaxon:10088 (Mus)
+T506	SO 11359 11368	wild-type
+#506	AnnotatorNotes T506	SO:0000817 (wild_type)
+T507	NCBITaxon 11369 11373	mice
+#507	AnnotatorNotes T507	NCBITaxon:10088 (Mus)
+T508	GO_BP 11383 11391	learning
+#508	AnnotatorNotes T508	GO:0007612 (learning)
+T509	SO 11527 11536	wild-type
+#509	AnnotatorNotes T509	SO:0000817 (wild_type)
+T510	NCBITaxon 11537 11541	mice
+#510	AnnotatorNotes T510	NCBITaxon:10088 (Mus)
+T511	EntrezGene 11657 11663	ADAM11
+#511	AnnotatorNotes T511	EG:11488
+T512	PR 11657 11663	ADAM11
+#512	AnnotatorNotes T512	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T513	NCBITaxon 11674 11678	mice
+#513	AnnotatorNotes T513	NCBITaxon:10088 (Mus)
+T514	GO_BP 11795 11800	motor
+#514	AnnotatorNotes T514	GO:0050879 (multicellular organismal movement)
+T515	GO_BP 11813 11819	visual
+#515	AnnotatorNotes T515	GO:0007601 (visual perception)
+T516	NCBITaxon 11834 11839	mouse
+#516	AnnotatorNotes T516	NCBITaxon:10088 (Mus)
+T517	EntrezGene 11852 11858	ADAM11
+#517	AnnotatorNotes T517	EG:11488
+T518	PR 11852 11858	ADAM11
+#518	AnnotatorNotes T518	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T519	NCBITaxon 11869 11873	mice
+#519	AnnotatorNotes T519	NCBITaxon:10088 (Mus)
+T520	EntrezGene 11916 11922	ADAM11
+#520	AnnotatorNotes T520	EG:11488
+T521	PR 11916 11922	ADAM11
+#521	AnnotatorNotes T521	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T522	NCBITaxon 11933 11937	mice
+#522	AnnotatorNotes T522	NCBITaxon:10088 (Mus)
+T523	GO_BP 11955 11963	learning
+#523	AnnotatorNotes T523	GO:0007612 (learning)
+T524	GO_BP 12043 12057	motor activity
+#524	AnnotatorNotes T524	GO:0050879 (multicellular organismal movement)
+T525	GO_BP 12059 12069	regulation
+#525	AnnotatorNotes T525	GO:0065007 (biological regulation)
+T526	NCBITaxon 12252 12256	mice
+#526	AnnotatorNotes T526	NCBITaxon:10088 (Mus)
+T527	SO 12333 12338	genes
+#527	AnnotatorNotes T527	SO:0000704 (gene)
+T528	EntrezGene 12485 12491	ADAM11
+#528	AnnotatorNotes T528	EG:11488
+T529	PR 12485 12491	ADAM11
+#529	AnnotatorNotes T529	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T530	NCBITaxon 12502 12506	mice
+#530	AnnotatorNotes T530	NCBITaxon:10088 (Mus)
+T531	SO 12541 12550	wild-type
+#531	AnnotatorNotes T531	SO:0000817 (wild_type)
+T532	NCBITaxon 12551 12555	mice
+#532	AnnotatorNotes T532	NCBITaxon:10088 (Mus)
+T533	EntrezGene 12579 12585	ADAM11
+#533	AnnotatorNotes T533	EG:11488
+T534	PR 12579 12585	ADAM11
+#534	AnnotatorNotes T534	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T535	NCBITaxon 12596 12600	mice
+#535	AnnotatorNotes T535	NCBITaxon:10088 (Mus)
+T536	SO 12637 12646	wild-type
+#536	AnnotatorNotes T536	SO:0000817 (wild_type)
+T537	NCBITaxon 12647 12651	mice
+#537	AnnotatorNotes T537	NCBITaxon:10088 (Mus)
+T538	EntrezGene 12701 12707	ADAM11
+#538	AnnotatorNotes T538	EG:11488
+T539	PR 12701 12707	ADAM11
+#539	AnnotatorNotes T539	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T540	NCBITaxon 12718 12722	mice
+#540	AnnotatorNotes T540	NCBITaxon:10088 (Mus)
+T541	GO_BP 12741 12746	motor
+#541	AnnotatorNotes T541	GO:0050879 (multicellular organismal movement)
+T542	GO_BP 12787 12793	visual
+#542	AnnotatorNotes T542	GO:0007601 (visual perception)
+T543	CHEBI 12818 12823	water
+#543	AnnotatorNotes T543	CHEBI:15377 (water)
+T544	GO_BP 12835 12840	motor
+#544	AnnotatorNotes T544	GO:0050879 (multicellular organismal movement)
+T545	EntrezGene 12865 12871	ADAM11
+#545	AnnotatorNotes T545	EG:11488
+T546	PR 12865 12871	ADAM11
+#546	AnnotatorNotes T546	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T547	NCBITaxon 12882 12886	mice
+#547	AnnotatorNotes T547	NCBITaxon:10088 (Mus)
+T548	GO_BP 12968 12982	motor function
+#548	AnnotatorNotes T548	GO:0050879 (multicellular organismal movement)
+T549	GO_BP 13125 13133	learning
+#549	AnnotatorNotes T549	GO:0007612 (learning)
+T550	GO_BP 13160 13168	movement
+#550	AnnotatorNotes T550	GO:0050879 (multicellular organismal movement)
+T551	GO_BP 13170 13175	motor
+#551	AnnotatorNotes T551	GO:0050879 (multicellular organismal movement)
+T552	GO_BP 13176 13184	learning
+#552	AnnotatorNotes T552	GO:0007612 (learning)
+T553	EntrezGene 13214 13236	synaptotagmin (Syt) IV
+#553	AnnotatorNotes T553	"synaptotagmin .. IV" EG:20983
+T554	PR 13214 13236	synaptotagmin (Syt) IV
+#554	AnnotatorNotes T554	"synaptotagmin .. IV" PR:000015906 (synaptotagmin-4)
+T555	EntrezGene 13229 13236	Syt) IV
+#555	AnnotatorNotes T555	"Syt .. IV" EG:20983
+T556	PR 13229 13236	Syt) IV
+#556	AnnotatorNotes T556	"Syt .. IV" PR:000015906 (synaptotagmin-4)
+T557	NCBITaxon 13247 13251	mice
+#557	AnnotatorNotes T557	NCBITaxon:10088 (Mus)
+T558	SO 13294 13303	wild-type
+#558	AnnotatorNotes T558	SO:0000817 (wild_type)
+T559	NCBITaxon 13304 13308	mice
+#559	AnnotatorNotes T559	NCBITaxon:10088 (Mus)
+T560	SO 13370 13379	wild-type
+#560	AnnotatorNotes T560	SO:0000817 (wild_type)
+T561	NCBITaxon 13380 13384	mice
+#561	AnnotatorNotes T561	NCBITaxon:10088 (Mus)
+T562	EntrezGene 13512 13518	Syt IV
+#562	AnnotatorNotes T562	EG:20983
+T563	PR 13512 13518	Syt IV
+#563	AnnotatorNotes T563	PR:000015906 (synaptotagmin-4)
+T564	SO 13519 13526	mutants
+#564	AnnotatorNotes T564	SO:0001059 (sequence_alteration)
+T565	independent_continuant 13519 13526	mutants
+#565	AnnotatorNotes T565	independent_continuant
+T566	GO_BP 13533 13538	motor
+#566	AnnotatorNotes T566	GO:0050879 (multicellular organismal movement)
+T567	GO_BP 13567 13572	motor
+#567	AnnotatorNotes T567	GO:0050879 (multicellular organismal movement)
+T568	GO_BP 13573 13581	learning
+#568	AnnotatorNotes T568	GO:0007612 (learning)
+T569	EntrezGene 13628 13634	ADAM11
+#569	AnnotatorNotes T569	EG:11488
+T570	PR 13628 13634	ADAM11
+#570	AnnotatorNotes T570	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T571	NCBITaxon 13645 13649	mice
+#571	AnnotatorNotes T571	NCBITaxon:10088 (Mus)
+T572	GO_BP 13695 13700	motor
+#572	AnnotatorNotes T572	GO:0050879 (multicellular organismal movement)
+T573	GO_BP 13701 13709	learning
+#573	AnnotatorNotes T573	GO:0007612 (learning)
+T574	GO_BP 13775 13780	motor
+#574	AnnotatorNotes T574	GO:0050879 (multicellular organismal movement)
+T575	GO_BP 13781 13789	learning
+#575	AnnotatorNotes T575	GO:0007612 (learning)
+T576	EntrezGene 13793 13799	ADAM11
+#576	AnnotatorNotes T576	EG:11488
+T577	PR 13793 13799	ADAM11
+#577	AnnotatorNotes T577	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T578	NCBITaxon 13810 13814	mice
+#578	AnnotatorNotes T578	NCBITaxon:10088 (Mus)
+T579	GO_BP 13908 13913	learn
+#579	AnnotatorNotes T579	GO:0007612 (learning)
+T580	GO_BP 13936 13941	motor
+#580	AnnotatorNotes T580	GO:0050879 (multicellular organismal movement)
+T581	GO_BP 13942 13950	learning
+#581	AnnotatorNotes T581	GO:0007612 (learning)
+T582	EntrezGene 13962 13968	ADAM11
+#582	AnnotatorNotes T582	EG:11488
+T583	PR 13962 13968	ADAM11
+#583	AnnotatorNotes T583	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T584	NCBITaxon 13979 13983	mice
+#584	AnnotatorNotes T584	NCBITaxon:10088 (Mus)
+T585	GO_BP 14042 14050	learning
+#585	AnnotatorNotes T585	GO:0007612 (learning)
+T586	GO_BP 14068 14097	classical eyelid conditioning
+#586	AnnotatorNotes T586	"classical .. conditioning" GO:0008306 (associative learning)
+T587	EntrezGene 14177 14183	ADAM11
+#587	AnnotatorNotes T587	EG:11488
+T588	PR 14177 14183	ADAM11
+#588	AnnotatorNotes T588	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T589	NCBITaxon 14194 14198	mice
+#589	AnnotatorNotes T589	NCBITaxon:10088 (Mus)
+T590	GO_BP 14212 14226	motor activity
+#590	AnnotatorNotes T590	GO:0050879 (multicellular organismal movement)
+T591	EntrezGene 14251 14257	ADAM11
+#591	AnnotatorNotes T591	EG:11488
+T592	PR 14251 14257	ADAM11
+#592	AnnotatorNotes T592	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T593	NCBITaxon 14268 14272	mice
+#593	AnnotatorNotes T593	NCBITaxon:10088 (Mus)
+T594	GO_BP 14577 14585	learning
+#594	AnnotatorNotes T594	GO:0007612 (learning)
+T595	GO_BP 14601 14606	motor
+#595	AnnotatorNotes T595	GO:0050879 (multicellular organismal movement)
+T596	EntrezGene 14626 14632	ADAM11
+#596	AnnotatorNotes T596	EG:11488
+T597	PR 14626 14632	ADAM11
+#597	AnnotatorNotes T597	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T598	NCBITaxon 14643 14647	mice
+#598	AnnotatorNotes T598	NCBITaxon:10088 (Mus)
+T599	italic 14649 14656	In situ
+#599	AnnotatorNotes T599	italic (null)
+T600	GO_MF 14657 14670	hybridisation
+#600	AnnotatorNotes T600	GO:0033592 (RNA strand annealing activity)
+T601	GO_MF 14657 14670	hybridisation
+#601	AnnotatorNotes T601	GO:0000739 (DNA strand annealing activity)
+T602	italic 14693 14699	Adam11
+#602	AnnotatorNotes T602	italic (null)
+T603	EntrezGene 14693 14699	Adam11
+#603	AnnotatorNotes T603	EG:11488
+T604	PR 14693 14699	Adam11
+#604	AnnotatorNotes T604	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T605	GO_BP 14700 14715	gene expression
+#605	AnnotatorNotes T605	GO:0010467 (gene expression)
+T606	SO 14700 14704	gene
+#606	AnnotatorNotes T606	SO:0000704 (gene)
+T607	CL 14723 14738	pyramidal cells
+#607	AnnotatorNotes T607	CL:0000598 (pyramidal cell)
+T608	GO_CC 14733 14738	cells
+#608	AnnotatorNotes T608	GO:0005623 (cell)
+T609	CL 14761 14774	granule cells
+#609	AnnotatorNotes T609	CL:0000120 (granule cell)
+T610	GO_CC 14769 14774	cells
+#610	AnnotatorNotes T610	GO:0005623 (cell)
+T611	CL 14822 14836	granular cells
+#611	AnnotatorNotes T611	CL:0000120 (granule cell)
+T612	GO_CC 14831 14836	cells
+#612	AnnotatorNotes T612	GO:0005623 (cell)
+T613	GO_BP 14910 14921	development
+#613	AnnotatorNotes T613	GO:0032502 (developmental process)
+T614	GO_BP 14951 14959	learning
+#614	AnnotatorNotes T614	GO:0007612 (learning)
+T615	GO_BP 14964 14969	motor
+#615	AnnotatorNotes T615	GO:0050879 (multicellular organismal movement)
+T616	EntrezGene 15093 15099	ADAM11
+#616	AnnotatorNotes T616	EG:11488
+T617	PR 15093 15099	ADAM11
+#617	AnnotatorNotes T617	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T618	NCBITaxon 15110 15114	mice
+#618	AnnotatorNotes T618	NCBITaxon:10088 (Mus)
+T619	EntrezGene 15203 15209	ADAM11
+#619	AnnotatorNotes T619	EG:11488
+T620	PR 15203 15209	ADAM11
+#620	AnnotatorNotes T620	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T621	CL 15226 15232	neuron
+#621	AnnotatorNotes T621	CL:0000540 (neuron)
+T622	CL 15233 15239	neuron
+#622	AnnotatorNotes T622	CL:0000540 (neuron)
+T623	CL 15243 15249	neuron
+#623	AnnotatorNotes T623	CL:0000540 (neuron)
+T624	CL 15250 15260	glial cell
+#624	AnnotatorNotes T624	CL:0000125 (glial cell)
+T625	GO_CC 15256 15260	cell
+#625	AnnotatorNotes T625	GO:0005623 (cell)
+T626	GO_BP 15360 15368	adhesion
+#626	AnnotatorNotes T626	GO:0022610 (biological adhesion)
+T627	CHEBI 15369 15378	molecules
+#627	AnnotatorNotes T627	CHEBI:23367 (molecular entity)
+T628	PR 15388 15417	neural cell adhesion molecule
+#628	AnnotatorNotes T628	PR:000001023 (neural cell adhesion molecule NCAM)
+T629	GO_BP 15388 15408	neural cell adhesion
+#629	AnnotatorNotes T629	GO:0007158 (neuron adhesion)
+T630	CL 15395 15399	cell
+#630	AnnotatorNotes T630	CL:0000000 (cell)
+T631	GO_CC 15395 15399	cell
+#631	AnnotatorNotes T631	GO:0005623 (cell)
+T632	CHEBI 15409 15417	molecule
+#632	AnnotatorNotes T632	CHEBI:23367 (molecular entity)
+T633	PR 15419 15423	NCAM
+#633	AnnotatorNotes T633	PR:000001023 (neural cell adhesion molecule NCAM)
+T634	CL 15453 15457	cell
+#634	AnnotatorNotes T634	CL:0000000 (cell)
+T635	GO_CC 15453 15457	cell
+#635	AnnotatorNotes T635	GO:0005623 (cell)
+T636	GO_BP 15478 15504	nervous system development
+#636	AnnotatorNotes T636	GO:0007399 (nervous system development)
+T637	GO_CC 15556 15564	synaptic
+#637	AnnotatorNotes T637	GO:0045202 (synapse)
+T638	CL 15621 15627	neuron
+#638	AnnotatorNotes T638	CL:0000540 (neuron)
+T639	GO_BP 15703 15720	hyperpolarization
+#639	AnnotatorNotes T639	GO:0060081 (membrane hyperpolarization)
+T640	GO_BP 15766 15778	potentiation
+#640	AnnotatorNotes T640	GO:0048518 (positive regulation of biological process)
+T641	GO_CC 15820 15828	synaptic
+#641	AnnotatorNotes T641	GO:0045202 (synapse)
+T642	GO_BP 15857 15865	learning
+#642	AnnotatorNotes T642	GO:0007612 (learning)
+T643	GO_BP 15870 15876	memory
+#643	AnnotatorNotes T643	GO:0007613 (memory)
+T644	NCBITaxon 15914 15918	mice
+#644	AnnotatorNotes T644	NCBITaxon:10088 (Mus)
+T645	GO_MF 15927 15940	NMDA receptor
+#645	AnnotatorNotes T645	GO:0004972 (N-methyl-D-aspartate selective glutamate receptor activity)
+T646	independent_continuant 15927 15940	NMDA receptor
+#646	AnnotatorNotes T646	independent_continuant
+T647	EntrezGene 15950 15972	NR2A and NR2C subunits
+#647	AnnotatorNotes T647	"NR2A .. subunits" EG:14811
+T648	PR 15950 15972	NR2A and NR2C subunits
+#648	AnnotatorNotes T648	"NR2A .. subunits" PR:000008246 (glutamate [NMDA] receptor subunit epsilon-1)
+T649	EntrezGene 15959 15972	NR2C subunits
+#649	AnnotatorNotes T649	EG:14813
+T650	PR 15959 15972	NR2C subunits
+#650	AnnotatorNotes T650	PR:000008248 (glutamate [NMDA] receptor subunit epsilon-3)
+T651	GO_BP 15980 15985	motor
+#651	AnnotatorNotes T651	GO:0050879 (multicellular organismal movement)
+T652	GO_CC 16058 16070	postsynaptic
+#652	AnnotatorNotes T652	GO:0045211 (postsynaptic membrane)
+T653	CL 16102 16115	granule cells
+#653	AnnotatorNotes T653	CL:0000120 (granule cell)
+T654	GO_CC 16110 16115	cells
+#654	AnnotatorNotes T654	GO:0005623 (cell)
+T655	GO_BP 16182 16203	synaptic transmission
+#655	AnnotatorNotes T655	GO:0007268 (synaptic transmission)
+T656	GO_CC 16182 16190	synaptic
+#656	AnnotatorNotes T656	GO:0045202 (synapse)
+T657	EntrezGene 16256 16262	ADAM11
+#657	AnnotatorNotes T657	EG:11488
+T658	PR 16256 16262	ADAM11
+#658	AnnotatorNotes T658	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T659	NCBITaxon 16273 16277	mice
+#659	AnnotatorNotes T659	NCBITaxon:10088 (Mus)
+T660	EntrezGene 16330 16336	ADAM11
+#660	AnnotatorNotes T660	EG:11488
+T661	PR 16330 16336	ADAM11
+#661	AnnotatorNotes T661	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T662	GO_BP 16356 16366	signalling
+#662	AnnotatorNotes T662	GO:0007165 (signal transduction)
+T663	GO_CC 16393 16401	synaptic
+#663	AnnotatorNotes T663	GO:0045202 (synapse)
+T664	GO_CC 16439 16447	synaptic
+#664	AnnotatorNotes T664	GO:0045202 (synapse)
+T665	GO_BP 16448 16458	regulation
+#665	AnnotatorNotes T665	GO:0065007 (biological regulation)
+T666	EntrezGene 16461 16467	ADAM11
+#666	AnnotatorNotes T666	EG:11488
+T667	PR 16461 16467	ADAM11
+#667	AnnotatorNotes T667	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T668	NCBITaxon 16478 16482	mice
+#668	AnnotatorNotes T668	NCBITaxon:10088 (Mus)
+T669	GO_BP 16579 16587	learning
+#669	AnnotatorNotes T669	GO:0007612 (learning)
+T670	GO_BP 16592 16597	motor
+#670	AnnotatorNotes T670	GO:0050879 (multicellular organismal movement)
+T671	NCBITaxon 16630 16634	mice
+#671	AnnotatorNotes T671	NCBITaxon:10088 (Mus)
+T672	italic 16647 16653	Adam22
+#672	AnnotatorNotes T672	italic (null)
+T673	PR 16647 16653	Adam22
+#673	AnnotatorNotes T673	PR:000003718 (disintegrin and metalloproteinase domain-containing protein 22)
+T674	EntrezGene 16647 16653	Adam22
+#674	AnnotatorNotes T674	EG:11496
+T675	SO 16654 16658	gene
+#675	AnnotatorNotes T675	SO:0000704 (gene)
+T676	GO_BP 16744 16748	died
+#676	AnnotatorNotes T676	GO:0016265 (death)
+T677	NCBITaxon 16770 16774	Mice
+#677	AnnotatorNotes T677	NCBITaxon:10088 (Mus)
+T678	italic 16787 16793	Adam23
+#678	AnnotatorNotes T678	italic (null)
+T679	PR 16787 16793	Adam23
+#679	AnnotatorNotes T679	PR:000003719 (disintegrin and metalloproteinase domain-containing protein 23)
+T680	EntrezGene 16787 16793	Adam23
+#680	AnnotatorNotes T680	EG:23792
+T681	SO 16794 16798	gene
+#681	AnnotatorNotes T681	SO:0000704 (gene)
+T682	GO_BP 16835 16839	died
+#682	AnnotatorNotes T682	GO:0016265 (death)
+T683	EntrezGene 16889 16895	ADAM11
+#683	AnnotatorNotes T683	EG:11488
+T684	PR 16889 16895	ADAM11
+#684	AnnotatorNotes T684	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T685	EntrezGene 16897 16903	ADAM22
+#685	AnnotatorNotes T685	EG:11496
+T686	PR 16897 16903	ADAM22
+#686	AnnotatorNotes T686	PR:000003718 (disintegrin and metalloproteinase domain-containing protein 22)
+T687	EntrezGene 16908 16914	ADAM23
+#687	AnnotatorNotes T687	EG:23792
+T688	PR 16908 16914	ADAM23
+#688	AnnotatorNotes T688	PR:000003719 (disintegrin and metalloproteinase domain-containing protein 23)
+T689	SO 16974 16980	genome
+#689	AnnotatorNotes T689	SO:0001026 (genome)
+T690	SO 17006 17015	orthologs
+#690	AnnotatorNotes T690	SO:0000855 (orthologous_region)
+T691	EntrezGene 17019 17025	ADAM11
+#691	AnnotatorNotes T691	EG:11488
+T692	PR 17019 17025	ADAM11
+#692	AnnotatorNotes T692	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T693	EntrezGene 17027 17033	ADAM22
+#693	AnnotatorNotes T693	EG:11496
+T694	PR 17027 17033	ADAM22
+#694	AnnotatorNotes T694	PR:000003718 (disintegrin and metalloproteinase domain-containing protein 22)
+T695	EntrezGene 17038 17044	ADAM23
+#695	AnnotatorNotes T695	EG:23792
+T696	PR 17038 17044	ADAM23
+#696	AnnotatorNotes T696	PR:000003719 (disintegrin and metalloproteinase domain-containing protein 23)
+T697	SO 17045 17050	genes
+#697	AnnotatorNotes T697	SO:0000704 (gene)
+T698	NCBITaxon 17063 17074	vertebrates
+#698	AnnotatorNotes T698	NCBITaxon:7742 (Vertebrata)
+T699	NCBITaxon 17083 17090	mammals
+#699	AnnotatorNotes T699	NCBITaxon:40674 (Mammalia)
+T700	NCBITaxon 17092 17096	fish
+#700	AnnotatorNotes T700	NCBITaxon:7777 (Chondrichthyes)
+T701	NCBITaxon 17092 17096	fish
+#701	AnnotatorNotes T701	NCBITaxon:118072 (Coelacanthimorpha)
+T702	NCBITaxon 17092 17096	fish
+#702	AnnotatorNotes T702	NCBITaxon:117565 (Hyperotreti)
+T703	NCBITaxon 17092 17096	fish
+#703	AnnotatorNotes T703	NCBITaxon:117569 (Hyperoartia)
+T704	NCBITaxon 17092 17096	fish
+#704	AnnotatorNotes T704	NCBITaxon:7878 (Dipnoi)
+T705	NCBITaxon 17092 17096	fish
+#705	AnnotatorNotes T705	NCBITaxon:7898 (Actinopterygii)
+T706	NCBITaxon 17102 17112	amphibians
+#706	AnnotatorNotes T706	NCBITaxon:8292 (Amphibia)
+T707	CHEBI 17161 17170	molecular
+#707	AnnotatorNotes T707	CHEBI:23367 (molecular entity)
+T708	NCBITaxon 17303 17312	organisms
+#708	AnnotatorNotes T708	NCBITaxon:1 (root)
+T709	EntrezGene 17327 17333	ADAM11
+#709	AnnotatorNotes T709	EG:11488
+T710	PR 17327 17333	ADAM11
+#710	AnnotatorNotes T710	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T711	NCBITaxon 17344 17348	mice
+#711	AnnotatorNotes T711	NCBITaxon:10088 (Mus)
+T712	GO_BP 17460 17474	motor activity
+#712	AnnotatorNotes T712	GO:0050879 (multicellular organismal movement)
+T713	GO_BP 17612 17620	learning
+#713	AnnotatorNotes T713	GO:0007612 (learning)
+T714	GO_BP 17646 17651	motor
+#714	AnnotatorNotes T714	GO:0050879 (multicellular organismal movement)
+T715	EntrezGene 17668 17674	ADAM11
+#715	AnnotatorNotes T715	EG:11488
+T716	PR 17668 17674	ADAM11
+#716	AnnotatorNotes T716	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T717	NCBITaxon 17685 17689	mice
+#717	AnnotatorNotes T717	NCBITaxon:10088 (Mus)
+T718	CHEBI 17722 17727	water
+#718	AnnotatorNotes T718	CHEBI:15377 (water)
+T719	SO 17761 17772	genetically
+#719	AnnotatorNotes T719	SO:0000704 (gene)
+T720	SO 17773 17781	modified
+#720	AnnotatorNotes T720	SO:0000041 (sequence_operation)
+T721	NCBITaxon 17782 17787	mouse
+#721	AnnotatorNotes T721	NCBITaxon:10088 (Mus)
+T722	CHEBI 17883 17891	proteins
+#722	AnnotatorNotes T722	CHEBI:36080 (proteins)
+T723	GO_BP 17936 17948	Construction
+#723	AnnotatorNotes T723	GO:0009058 (biosynthetic process)
+T724	EntrezGene 17955 17961	Adam11
+#724	AnnotatorNotes T724	EG:11488
+T725	PR 17955 17961	Adam11
+#725	AnnotatorNotes T725	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T726	SO 17962 17966	gene
+#726	AnnotatorNotes T726	SO:0000704 (gene)
+T727	SO 17977 17983	vector
+#727	AnnotatorNotes T727	SO:0000440 (vector_replicon)
+T728	italic 17997 18000	Bam
+#728	AnnotatorNotes T728	italic (null)
+T729	SO 18003 18006	DNA
+#729	AnnotatorNotes T729	SO:0000352 (DNA)
+T730	SO 18007 18015	fragment
+#730	AnnotatorNotes T730	SO:0000731 (fragmentary)
+T731	SO 18025 18030	exons
+#731	AnnotatorNotes T731	SO:0000147 (exon)
+T732	italic 18045 18051	Adam11
+#732	AnnotatorNotes T732	italic (null)
+T733	PR 18045 18051	Adam11
+#733	AnnotatorNotes T733	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T734	EntrezGene 18045 18051	Adam11
+#734	AnnotatorNotes T734	EG:11488
+T735	SO 18052 18056	gene
+#735	AnnotatorNotes T735	SO:0000704 (gene)
+T736	SO 18084 18095	genomic DNA
+#736	AnnotatorNotes T736	SO:0000991 (genomic_DNA)
+T737	SO 18084 18091	genomic
+#737	AnnotatorNotes T737	SO:0001026 (genome)
+T738	SO 18199 18207	mutation
+#738	AnnotatorNotes T738	SO:0001059 (sequence_alteration)
+T739	EntrezGene 18215 18227	mouse Adam11
+#739	AnnotatorNotes T739	EG:11488
+T740	NCBITaxon 18215 18220	mouse
+#740	AnnotatorNotes T740	NCBITaxon:10088 (Mus)
+T741	italic 18221 18227	Adam11
+#741	AnnotatorNotes T741	italic (null)
+T742	PR 18221 18227	Adam11
+#742	AnnotatorNotes T742	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T743	SO 18228 18232	gene
+#743	AnnotatorNotes T743	SO:0000704 (gene)
+T744	SO 18237 18245	inserted
+#744	AnnotatorNotes T744	SO:0000046 (insert)
+T745	SO 18255 18263	cassette
+#745	AnnotatorNotes T745	SO:0005853 (gene_cassette)
+T746	SO 18269 18274	exons
+#746	AnnotatorNotes T746	SO:0000147 (exon)
+T747	italic 18288 18294	Adam11
+#747	AnnotatorNotes T747	italic (null)
+T748	PR 18288 18294	Adam11
+#748	AnnotatorNotes T748	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T749	EntrezGene 18288 18294	Adam11
+#749	AnnotatorNotes T749	EG:11488
+T750	SO 18295 18299	gene
+#750	AnnotatorNotes T750	SO:0000704 (gene)
+T751	SO 18321 18330	construct
+#751	AnnotatorNotes T751	SO:0001037 (mobile_genetic_element)
+T752	SO 18354 18365	genomic DNA
+#752	AnnotatorNotes T752	SO:0000991 (genomic_DNA)
+T753	SO 18354 18361	genomic
+#753	AnnotatorNotes T753	SO:0001026 (genome)
+T754	SO 18366 18374	fragment
+#754	AnnotatorNotes T754	SO:0000731 (fragmentary)
+T755	SO 18403 18412	insertion
+#755	AnnotatorNotes T755	SO:0000046 (insert)
+T756	SO 18427 18435	cassette
+#756	AnnotatorNotes T756	SO:0005853 (gene_cassette)
+T757	GO_MF 18456 18458	TK
+#757	AnnotatorNotes T757	GO:0004797 (thymidine kinase activity)
+T758	independent_continuant 18456 18458	TK
+#758	AnnotatorNotes T758	independent_continuant
+T759	SO 18459 18467	cassette
+#759	AnnotatorNotes T759	SO:0005853 (gene_cassette)
+T760	SO 18514 18525	integration
+#760	AnnotatorNotes T760	SO:0000046 (insert)
+T761	GO_BP 18533 18543	Generation
+#761	AnnotatorNotes T761	GO:0000003 (reproduction)
+T762	EntrezGene 18547 18553	Adam11
+#762	AnnotatorNotes T762	EG:11488
+T763	PR 18547 18553	Adam11
+#763	AnnotatorNotes T763	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T764	NCBITaxon 18564 18568	mice
+#764	AnnotatorNotes T764	NCBITaxon:10088 (Mus)
+T765	SO 18595 18601	vector
+#765	AnnotatorNotes T765	SO:0000440 (vector_replicon)
+T766	CL 18640 18655	stem (ES) cells
+#766	AnnotatorNotes T766	"stem .. cells" CL:0000034 (stem cell)
+T767	GO_CC 18650 18655	cells
+#767	AnnotatorNotes T767	GO:0005623 (cell)
+T768	SO 18727 18734	primers
+#768	AnnotatorNotes T768	SO:0000112 (primer)
+T769	SO 18793 18801	cassette
+#769	AnnotatorNotes T769	SO:0005853 (gene_cassette)
+T770	SO 18868 18874	vector
+#770	AnnotatorNotes T770	SO:0000440 (vector_replicon)
+T771	GO_BP 18887 18897	recombined
+#771	AnnotatorNotes T771	GO:0006310 (DNA recombination)
+T772	SO 18898 18901	DNA
+#772	AnnotatorNotes T772	SO:0000352 (DNA)
+T773	GO_BP 19056 19066	fertilised
+#773	AnnotatorNotes T773	GO:0009566 (fertilization)
+T774	NCBITaxon 19071 19076	mouse
+#774	AnnotatorNotes T774	NCBITaxon:10088 (Mus)
+T775	CL 19077 19081	eggs
+#775	AnnotatorNotes T775	CL:0000025 (egg)
+T776	CL 19095 19099	cell
+#776	AnnotatorNotes T776	CL:0000000 (cell)
+T777	GO_CC 19095 19099	cell
+#777	AnnotatorNotes T777	GO:0005623 (cell)
+T778	GO_BP 19140 19145	mated
+#778	AnnotatorNotes T778	GO:0007618 (mating)
+T779	SO 19236 19237	+
+#779	AnnotatorNotes T779	SO:0000817 (wild_type)
+T780	NCBITaxon 19257 19261	mice
+#780	AnnotatorNotes T780	NCBITaxon:10088 (Mus)
+T781	GO_BP 19280 19288	generate
+#781	AnnotatorNotes T781	GO:0000003 (reproduction)
+T782	NCBITaxon 19306 19310	mice
+#782	AnnotatorNotes T782	NCBITaxon:10088 (Mus)
+T783	NCBITaxon 19337 19342	Mouse
+#783	AnnotatorNotes T783	NCBITaxon:10088 (Mus)
+T784	SO 19343 19354	genomic DNA
+#784	AnnotatorNotes T784	SO:0000991 (genomic_DNA)
+T785	SO 19343 19350	genomic
+#785	AnnotatorNotes T785	SO:0001026 (genome)
+T786	SO 19424 19432	genotype
+#786	AnnotatorNotes T786	SO:0001027 (genotype)
+T787	italic 19434 19437	Bam
+#787	AnnotatorNotes T787	italic (null)
+T788	GO_BP 19440 19448	digested
+#788	AnnotatorNotes T788	GO:0009056 (catabolic process)
+T789	SO 19449 19460	genomic DNA
+#789	AnnotatorNotes T789	SO:0000991 (genomic_DNA)
+T790	SO 19449 19456	genomic
+#790	AnnotatorNotes T790	SO:0001026 (genome)
+T791	CHEBI 19482 19485	32P
+#791	AnnotatorNotes T791	CHEBI:37972 (phosphorus-32)
+T792	sup 19482 19484	32
+#792	AnnotatorNotes T792	sup (null)
+T793	SO 19501 19506	probe
+#793	AnnotatorNotes T793	SO:0000051 (probe)
+T794	italic 19527 19530	Bam
+#794	AnnotatorNotes T794	italic (null)
+T795	italic 19535 19538	Eco
+#795	AnnotatorNotes T795	italic (null)
+T796	SO 19541 19548	genomic
+#796	AnnotatorNotes T796	SO:0001026 (genome)
+T797	SO 19549 19557	fragment
+#797	AnnotatorNotes T797	SO:0000731 (fragmentary)
+T798	SO 19569 19575	intron
+#798	AnnotatorNotes T798	SO:0000188 (intron)
+T799	EntrezGene 19618 19624	ADAM11
+#799	AnnotatorNotes T799	EG:11488
+T800	PR 19618 19624	ADAM11
+#800	AnnotatorNotes T800	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T801	CHEBI 19625 19632	protein
+#801	AnnotatorNotes T801	CHEBI:36080 (proteins)
+T802	NCBITaxon 19646 19650	mice
+#802	AnnotatorNotes T802	NCBITaxon:10088 (Mus)
+T803	NCBITaxon 19753 19758	mouse
+#803	AnnotatorNotes T803	NCBITaxon:10088 (Mus)
+T804	SO 19767 19775	genotype
+#804	AnnotatorNotes T804	SO:0001027 (genotype)
+T805	GO_BP 19795 19805	cell lysis
+#805	AnnotatorNotes T805	GO:0019835 (cytolysis)
+T806	CL 19795 19799	cell
+#806	AnnotatorNotes T806	CL:0000000 (cell)
+T807	GO_CC 19795 19799	cell
+#807	AnnotatorNotes T807	GO:0005623 (cell)
+T808	CHEBI 19820 19824	Tris
+#808	AnnotatorNotes T808	CHEBI:9754 (tris)
+T809	CHEBI 19825 19828	HCl
+#809	AnnotatorNotes T809	CHEBI:17883 (hydrogen chloride)
+T810	CHEBI 19825 19828	HCl
+#810	AnnotatorNotes T810	CHEBI:36807 (hydrochlorides)
+T811	CHEBI 19845 19849	NaCl
+#811	AnnotatorNotes T811	CHEBI:26710 (sodium chloride)
+T812	CHEBI 19861 19879	protease inhibitor
+#812	AnnotatorNotes T812	CHEBI:37670 (protease inhibitor)
+T813	GO_MF 19861 19879	protease inhibitor
+#813	AnnotatorNotes T813	GO:0030414 (protease inhibitor activity)
+T814	independent_continuant 19861 19879	protease inhibitor
+#814	AnnotatorNotes T814	independent_continuant
+T815	independent_continuant 19861 19869	protease
+#815	AnnotatorNotes T815	independent_continuant
+T816	GO_MF 19861 19869	protease
+#816	AnnotatorNotes T816	GO:0008233 (peptidase activity)
+T817	CL 19928 19932	cell
+#817	AnnotatorNotes T817	CL:0000000 (cell)
+T818	GO_CC 19928 19932	cell
+#818	AnnotatorNotes T818	GO:0005623 (cell)
+T819	GO_BP 19963 19975	glycosylated
+#819	AnnotatorNotes T819	GO:0043413 (biopolymer glycosylation)
+T820	CHEBI 19976 19984	proteins
+#820	AnnotatorNotes T820	CHEBI:36080 (proteins)
+T821	CHEBI 20141 20144	SDS
+#821	AnnotatorNotes T821	CHEBI:8984 (sodium dodecyl sulfate)
+T822	GO_CC 20231 20239	antibody
+#822	AnnotatorNotes T822	GO:0019814 (immunoglobulin complex)
+T823	PR 20252 20258	ADAM11
+#823	AnnotatorNotes T823	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T824	GO_MF 20296 20301	Bound
+#824	AnnotatorNotes T824	GO:0005488 (binding)
+T825	GO_CC 20302 20312	antibodies
+#825	AnnotatorNotes T825	GO:0019814 (immunoglobulin complex)
+T826	NCBITaxon 20334 20345	horseradish
+#826	AnnotatorNotes T826	NCBITaxon:3704 (Armoracia rusticana)
+T827	independent_continuant 20346 20356	peroxidase
+#827	AnnotatorNotes T827	independent_continuant
+T828	GO_MF 20346 20356	peroxidase
+#828	AnnotatorNotes T828	GO:0004601 (peroxidase activity)
+T829	GO_CC 20373 20381	antibody
+#829	AnnotatorNotes T829	GO:0019814 (immunoglobulin complex)
+T830	GO_BP 20464 20475	Behavioural
+#830	AnnotatorNotes T830	GO:0007610 (behavior)
+T831	NCBITaxon 20490 20496	animal
+#831	AnnotatorNotes T831	NCBITaxon:33208 (Metazoa)
+T832	NCBITaxon 20549 20555	animal
+#832	AnnotatorNotes T832	NCBITaxon:33208 (Metazoa)
+T833	NCBITaxon 20598 20604	Animal
+#833	AnnotatorNotes T833	NCBITaxon:33208 (Metazoa)
+T834	NCBITaxon 20667 20673	Animal
+#834	AnnotatorNotes T834	NCBITaxon:33208 (Metazoa)
+T835	NCBITaxon 20708 20714	Animal
+#835	AnnotatorNotes T835	NCBITaxon:33208 (Metazoa)
+T836	EntrezGene 20786 20792	ADAM11
+#836	AnnotatorNotes T836	EG:11488
+T837	PR 20786 20792	ADAM11
+#837	AnnotatorNotes T837	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T838	NCBITaxon 20808 20812	mice
+#838	AnnotatorNotes T838	NCBITaxon:10088 (Mus)
+T839	GO_BP 20881 20892	behavioural
+#839	AnnotatorNotes T839	GO:0007610 (behavior)
+T840	GO_BP 20935 20946	behavioural
+#840	AnnotatorNotes T840	GO:0007610 (behavior)
+T841	NCBITaxon 21038 21043	mouse
+#841	AnnotatorNotes T841	NCBITaxon:10088 (Mus)
+T842	SO 21044 21053	genotypes
+#842	AnnotatorNotes T842	SO:0001027 (genotype)
+T843	GO_BP 21068 21082	motor activity
+#843	AnnotatorNotes T843	GO:0050879 (multicellular organismal movement)
+T844	GO_BP 21084 21102	Locomotor activity
+#844	AnnotatorNotes T844	GO:0040011 (locomotion)
+T845	NCBITaxon 21154 21158	mice
+#845	AnnotatorNotes T845	NCBITaxon:10088 (Mus)
+T846	SO 21160 21161	+
+#846	AnnotatorNotes T846	SO:0000817 (wild_type)
+T847	SO 21162 21163	+
+#847	AnnotatorNotes T847	SO:0000817 (wild_type)
+T848	SO 21165 21166	+
+#848	AnnotatorNotes T848	SO:0000817 (wild_type)
+T849	CHEBI 21328 21333	Water
+#849	AnnotatorNotes T849	CHEBI:15377 (water)
+T850	GO_BP 21353 21361	learning
+#850	AnnotatorNotes T850	GO:0007612 (learning)
+T851	CHEBI 21407 21412	water
+#851	AnnotatorNotes T851	CHEBI:15377 (water)
+T852	NCBITaxon 21440 21444	mice
+#852	AnnotatorNotes T852	NCBITaxon:10088 (Mus)
+T853	italic 21446 21466	Hidden platform task
+#853	AnnotatorNotes T853	italic (null)
+T854	CHEBI 21707 21712	water
+#854	AnnotatorNotes T854	CHEBI:15377 (water)
+T855	NCBITaxon 21787 21792	mouse
+#855	AnnotatorNotes T855	NCBITaxon:10088 (Mus)
+T856	NCBITaxon 22056 22062	animal
+#856	AnnotatorNotes T856	NCBITaxon:33208 (Metazoa)
+T857	italic 22102 22113	Probe trial
+#857	AnnotatorNotes T857	italic (null)
+T858	GO_BP 22251 22259	movement
+#858	AnnotatorNotes T858	GO:0050879 (multicellular organismal movement)
+T859	NCBITaxon 22268 22273	mouse
+#859	AnnotatorNotes T859	NCBITaxon:10088 (Mus)
+T860	NCBITaxon 22388 22393	mouse
+#860	AnnotatorNotes T860	NCBITaxon:10088 (Mus)
+T861	italic 22566 22587	Visible platform task
+#861	AnnotatorNotes T861	italic (null)
+T862	NCBITaxon 22683 22688	mouse
+#862	AnnotatorNotes T862	NCBITaxon:10088 (Mus)
+T863	NCBITaxon 22738 22743	mouse
+#863	AnnotatorNotes T863	NCBITaxon:10088 (Mus)
+T864	NCBITaxon 22928 22934	animal
+#864	AnnotatorNotes T864	NCBITaxon:33208 (Metazoa)
+T865	GO_BP 22994 22999	Motor
+#865	AnnotatorNotes T865	GO:0050879 (multicellular organismal movement)
+T866	NCBITaxon 23230 23234	mice
+#866	AnnotatorNotes T866	NCBITaxon:10088 (Mus)
+T867	NCBITaxon 23498 23504	animal
+#867	AnnotatorNotes T867	NCBITaxon:33208 (Metazoa)
+T868	NCBITaxon 23570 23575	mouse
+#868	AnnotatorNotes T868	NCBITaxon:10088 (Mus)
+T869	NCBITaxon 23655 23660	mouse
+#869	AnnotatorNotes T869	NCBITaxon:10088 (Mus)
+T870	NCBITaxon 23844 23849	mouse
+#870	AnnotatorNotes T870	NCBITaxon:10088 (Mus)
+T871	NCBITaxon 24478 24483	mouse
+#871	AnnotatorNotes T871	NCBITaxon:10088 (Mus)
+T872	NCBITaxon 24492 24496	mice
+#872	AnnotatorNotes T872	NCBITaxon:10088 (Mus)
+T873	CHEBI 24969 24974	water
+#873	AnnotatorNotes T873	CHEBI:15377 (water)
+T874	GO_BP 24986 24997	Behavioural
+#874	AnnotatorNotes T874	GO:0007610 (behavior)
+T875	NCBITaxon 25279 25283	mice
+#875	AnnotatorNotes T875	NCBITaxon:10088 (Mus)
+T876	SO 25285 25286	+
+#876	AnnotatorNotes T876	SO:0000817 (wild_type)
+T877	SO 25287 25288	+
+#877	AnnotatorNotes T877	SO:0000817 (wild_type)
+T878	SO 25290 25291	+
+#878	AnnotatorNotes T878	SO:0000817 (wild_type)
+T879	CHEBI 25351 25359	buffered
+#879	AnnotatorNotes T879	CHEBI:35225 (buffer)
+T880	SO 25543 25547	cDNA
+#880	AnnotatorNotes T880	SO:0000756 (cDNA)
+T881	SO 25557 25564	plasmid
+#881	AnnotatorNotes T881	SO:0000155 (plasmid)
+T882	GO_BP 25565 25577	construction
+#882	AnnotatorNotes T882	GO:0009058 (biosynthetic process)
+T883	GO_BP 25579 25598	antibody production
+#883	AnnotatorNotes T883	GO:0002378 (immunoglobulin biosynthetic process)
+T884	GO_BP 25579 25598	antibody production
+#884	AnnotatorNotes T884	GO:0002377 (immunoglobulin production)
+T885	GO_CC 25579 25587	antibody
+#885	AnnotatorNotes T885	GO:0019814 (immunoglobulin complex)
+T886	GO_BP 25692 25702	generation
+#886	AnnotatorNotes T886	GO:0000003 (reproduction)
+T887	NCBITaxon 25715 25719	mice
+#887	AnnotatorNotes T887	NCBITaxon:10088 (Mus)
+T888	GO_BP 25724 25735	behavioural
+#888	AnnotatorNotes T888	GO:0007610 (behavior)
+T889	GO_BP 25801 25811	generation
+#889	AnnotatorNotes T889	GO:0000003 (reproduction)
+T890	NCBITaxon 25824 25828	mice
+#890	AnnotatorNotes T890	NCBITaxon:10088 (Mus)
+T891	bold 26272 26299	Targeted mutation of Adam11
+#891	AnnotatorNotes T891	bold (null)
+T892	SO 26281 26289	mutation
+#892	AnnotatorNotes T892	SO:0000041 (sequence_operation)
+T893	italic 26293 26299	Adam11
+#893	AnnotatorNotes T893	italic (null)
+T894	EntrezGene 26293 26299	Adam11
+#894	AnnotatorNotes T894	EG:11488
+T895	PR 26293 26299	Adam11
+#895	AnnotatorNotes T895	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T896	SO 26310 26316	Domain
+#896	AnnotatorNotes T896	SO:0000417 (polypeptide_domain)
+T897	EntrezGene 26330 26336	ADAM11
+#897	AnnotatorNotes T897	EG:11488
+T898	PR 26330 26336	ADAM11
+#898	AnnotatorNotes T898	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T899	CHEBI 26337 26344	protein
+#899	AnnotatorNotes T899	CHEBI:36080 (proteins)
+T900	SO 26346 26349	PRO
+#900	AnnotatorNotes T900	SO:0001062 (propeptide)
+T901	SO 26351 26361	proprotein
+#901	AnnotatorNotes T901	SO:0001062 (propeptide)
+T902	independent_continuant 26363 26365	MP
+#902	AnnotatorNotes T902	independent_continuant
+T903	GO_MF 26363 26365	MP
+#903	AnnotatorNotes T903	GO:0008237 (metallopeptidase activity)
+T904	GO_MF 26367 26382	metalloprotease
+#904	AnnotatorNotes T904	GO:0008237 (metallopeptidase activity)
+T905	independent_continuant 26367 26382	metalloprotease
+#905	AnnotatorNotes T905	independent_continuant
+T906	PR 26415 26418	EGF
+#906	AnnotatorNotes T906	PR:000006928 (pro-epidermal growth factor)
+T907	CHEBI 26420 26428	Cysteine
+#907	AnnotatorNotes T907	CHEBI:32460 (cysteine residue)
+T908	SO 26420 26428	Cysteine
+#908	AnnotatorNotes T908	SO:0001447 (cysteine)
+T909	PR 26438 26441	EGF
+#909	AnnotatorNotes T909	PR:000006928 (pro-epidermal growth factor)
+T910	SO 26447 26453	repeat
+#910	AnnotatorNotes T910	SO:0000726 (repeat_unit)
+T911	SO 26447 26453	repeat
+#911	AnnotatorNotes T911	SO:0000657 (repeat_region)
+T912	GO_CC 26455 26457	TM
+#912	AnnotatorNotes T912	GO:0016021 (integral to membrane)
+T913	SO 26455 26457	TM
+#913	AnnotatorNotes T913	SO:0001077 (transmembrane_polypeptide_region)
+T914	GO_CC 26459 26472	transmembrane
+#914	AnnotatorNotes T914	GO:0016021 (integral to membrane)
+T915	SO 26459 26472	transmembrane
+#915	AnnotatorNotes T915	SO:0001077 (transmembrane_polypeptide_region)
+T916	GO_CC 26480 26491	cytoplasmic
+#916	AnnotatorNotes T916	GO:0005737 (cytoplasm)
+T917	SO 26492 26498	domain
+#917	AnnotatorNotes T917	SO:0000417 (polypeptide_domain)
+T918	italic 26500 26506	Adam11
+#918	AnnotatorNotes T918	italic (null)
+T919	PR 26500 26506	Adam11
+#919	AnnotatorNotes T919	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T920	EntrezGene 26500 26506	Adam11
+#920	AnnotatorNotes T920	EG:11488
+T921	SO 26507 26511	gene
+#921	AnnotatorNotes T921	SO:0000704 (gene)
+T922	SO 26533 26542	insertion
+#922	AnnotatorNotes T922	SO:0000046 (insert)
+T923	SO 26548 26565	termination codon
+#923	AnnotatorNotes T923	SO:0000319 (stop_codon)
+T924	GO_BP 26548 26559	termination
+#924	AnnotatorNotes T924	GO:0006353 (transcription termination)
+T925	GO_BP 26548 26559	termination
+#925	AnnotatorNotes T925	GO:0006415 (translational termination)
+T926	SO 26579 26587	cassette
+#926	AnnotatorNotes T926	SO:0005853 (gene_cassette)
+T927	SO 26593 26598	exons
+#927	AnnotatorNotes T927	SO:0000147 (exon)
+T928	GO_MF 26613 26615	TK
+#928	AnnotatorNotes T928	GO:0004797 (thymidine kinase activity)
+T929	independent_continuant 26613 26615	TK
+#929	AnnotatorNotes T929	independent_continuant
+T930	SO 26616 26624	cassette
+#930	AnnotatorNotes T930	SO:0005853 (gene_cassette)
+T931	SO 26653 26659	vector
+#931	AnnotatorNotes T931	SO:0000440 (vector_replicon)
+T932	SO 26701 26706	probe
+#932	AnnotatorNotes T932	SO:0000051 (probe)
+T933	SO 26748 26756	expected
+#933	AnnotatorNotes T933	SO:0000732 (predicted)
+T934	italic 26757 26760	Bam
+#934	AnnotatorNotes T934	italic (null)
+T935	SO 26767 26776	fragments
+#935	AnnotatorNotes T935	SO:0000731 (fragmentary)
+T936	SO 26793 26799	allele
+#936	AnnotatorNotes T936	SO:0001023 (allele)
+T937	SO 26809 26818	wild-type
+#937	AnnotatorNotes T937	SO:0000817 (wild_type)
+T938	SO 26819 26825	allele
+#938	AnnotatorNotes T938	SO:0001023 (allele)
+T939	independent_continuant 26827 26829	WT
+#939	AnnotatorNotes T939	independent_continuant
+T940	SO 26827 26829	WT
+#940	AnnotatorNotes T940	SO:0000817 (wild_type)
+T941	SO 26860 26867	primers
+#941	AnnotatorNotes T941	SO:0000112 (primer)
+T942	GO_BP 26917 26928	recombinant
+#942	AnnotatorNotes T942	GO:0006310 (DNA recombination)
+T943	NCBITaxon 26970 26975	mouse
+#943	AnnotatorNotes T943	NCBITaxon:10088 (Mus)
+T944	SO 26976 26987	genomic DNA
+#944	AnnotatorNotes T944	SO:0000991 (genomic_DNA)
+T945	SO 26976 26983	genomic
+#945	AnnotatorNotes T945	SO:0001026 (genome)
+T946	SO 26993 27001	expected
+#946	AnnotatorNotes T946	SO:0000732 (predicted)
+T947	SO 27002 27005	DNA
+#947	AnnotatorNotes T947	SO:0000352 (DNA)
+T948	SO 27006 27015	fragments
+#948	AnnotatorNotes T948	SO:0000731 (fragmentary)
+T949	SO 27024 27033	wild-type
+#949	AnnotatorNotes T949	SO:0000817 (wild_type)
+T950	SO 27034 27040	allele
+#950	AnnotatorNotes T950	SO:0001023 (allele)
+T951	independent_continuant 27042 27044	WT
+#951	AnnotatorNotes T951	independent_continuant
+T952	SO 27042 27044	WT
+#952	AnnotatorNotes T952	SO:0000817 (wild_type)
+T953	SO 27059 27065	allele
+#953	AnnotatorNotes T953	SO:0001023 (allele)
+T954	SO 27110 27111	+
+#954	AnnotatorNotes T954	SO:0000817 (wild_type)
+T955	SO 27112 27113	+
+#955	AnnotatorNotes T955	SO:0000817 (wild_type)
+T956	independent_continuant 27115 27124	wild-type
+#956	AnnotatorNotes T956	independent_continuant
+T957	SO 27115 27124	wild-type
+#957	AnnotatorNotes T957	SO:0000817 (wild_type)
+T958	SO 27126 27127	+
+#958	AnnotatorNotes T958	SO:0000817 (wild_type)
+T959	EntrezGene 27191 27197	ADAM11
+#959	AnnotatorNotes T959	EG:11488
+T960	PR 27191 27197	ADAM11
+#960	AnnotatorNotes T960	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T961	GO_BP 27198 27208	expression
+#961	AnnotatorNotes T961	GO:0010467 (gene expression)
+T962	NCBITaxon 27216 27221	mouse
+#962	AnnotatorNotes T962	NCBITaxon:10088 (Mus)
+T963	EntrezGene 27245 27251	ADAM11
+#963	AnnotatorNotes T963	EG:11488
+T964	PR 27245 27251	ADAM11
+#964	AnnotatorNotes T964	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T965	CHEBI 27252 27259	protein
+#965	AnnotatorNotes T965	CHEBI:36080 (proteins)
+T966	SO 27273 27279	mutant
+#966	AnnotatorNotes T966	SO:0001059 (sequence_alteration)
+T967	PR 27312 27318	ADAM11
+#967	AnnotatorNotes T967	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T968	GO_CC 27330 27338	antibody
+#968	AnnotatorNotes T968	GO:0019814 (immunoglobulin complex)
+T969	EntrezGene 27386 27398	mouse ADAM11
+#969	AnnotatorNotes T969	EG:11488
+T970	NCBITaxon 27386 27391	mouse
+#970	AnnotatorNotes T970	NCBITaxon:10088 (Mus)
+T971	PR 27392 27398	ADAM11
+#971	AnnotatorNotes T971	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T972	CHEBI 27399 27406	protein
+#972	AnnotatorNotes T972	CHEBI:36080 (proteins)
+T973	GO_BP 27407 27416	expressed
+#973	AnnotatorNotes T973	GO:0010467 (gene expression)
+T974	CL 27425 27430	cells
+#974	AnnotatorNotes T974	CL:0000000 (cell)
+T975	GO_CC 27425 27430	cells
+#975	AnnotatorNotes T975	GO:0005623 (cell)
+T976	SO 27462 27466	form
+#976	AnnotatorNotes T976	SO:0001060 (sequence_variant)
+T977	EntrezGene 27470 27476	ADAM11
+#977	AnnotatorNotes T977	EG:11488
+T978	PR 27470 27476	ADAM11
+#978	AnnotatorNotes T978	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T979	CHEBI 27477 27484	protein
+#979	AnnotatorNotes T979	CHEBI:36080 (proteins)
+T980	SO 27508 27516	immature
+#980	AnnotatorNotes T980	SO:0000933 (intermediate)
+T981	SO 27517 27521	form
+#981	AnnotatorNotes T981	SO:0001060 (sequence_variant)
+T982	GO_BP 27537 27546	processed
+#982	AnnotatorNotes T982	GO:0016485 (protein processing)
+T983	bold 27667 27714	Morris water maze task of ADAM11-deficient mice
+#983	AnnotatorNotes T983	bold (null)
+T984	CHEBI 27674 27679	water
+#984	AnnotatorNotes T984	CHEBI:15377 (water)
+T985	EntrezGene 27693 27699	ADAM11
+#985	AnnotatorNotes T985	EG:11488
+T986	PR 27693 27699	ADAM11
+#986	AnnotatorNotes T986	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T987	NCBITaxon 27710 27714	mice
+#987	AnnotatorNotes T987	NCBITaxon:10088 (Mus)
+T988	SO 27845 27846	+
+#988	AnnotatorNotes T988	SO:0000817 (wild_type)
+T989	SO 27847 27848	+
+#989	AnnotatorNotes T989	SO:0000817 (wild_type)
+T990	NCBITaxon 27850 27854	mice
+#990	AnnotatorNotes T990	NCBITaxon:10088 (Mus)
+T991	CHEBI 27969 27974	water
+#991	AnnotatorNotes T991	CHEBI:15377 (water)
+T992	SO 28041 28042	+
+#992	AnnotatorNotes T992	SO:0000817 (wild_type)
+T993	SO 28043 28044	+
+#993	AnnotatorNotes T993	SO:0000817 (wild_type)
+T994	NCBITaxon 28046 28050	mice
+#994	AnnotatorNotes T994	NCBITaxon:10088 (Mus)
+T995	SO 28287 28288	+
+#995	AnnotatorNotes T995	SO:0000817 (wild_type)
+T996	SO 28289 28290	+
+#996	AnnotatorNotes T996	SO:0000817 (wild_type)
+T997	SO 28292 28293	+
+#997	AnnotatorNotes T997	SO:0000817 (wild_type)
+T998	bold 28349 28458	Retention time of ADAM11-deficient mice on the rotating rod at speeds of 0 rpm (stationary), 5, 10 and 15 rpm
+#998	AnnotatorNotes T998	bold (null)
+T999	EntrezGene 28367 28373	ADAM11
+#999	AnnotatorNotes T999	EG:11488
+T1000	PR 28367 28373	ADAM11
+#1000	AnnotatorNotes T1000	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T1001	NCBITaxon 28384 28388	mice
+#1001	AnnotatorNotes T1001	NCBITaxon:10088 (Mus)
+T1002	SO 28510 28511	+
+#1002	AnnotatorNotes T1002	SO:0000817 (wild_type)
+T1003	SO 28512 28513	+
+#1003	AnnotatorNotes T1003	SO:0000817 (wild_type)
+T1004	NCBITaxon 28515 28519	mice
+#1004	AnnotatorNotes T1004	NCBITaxon:10088 (Mus)
+T1005	SO 28521 28522	+
+#1005	AnnotatorNotes T1005	SO:0000817 (wild_type)
+T1006	SO 28523 28524	+
+#1006	AnnotatorNotes T1006	SO:0000817 (wild_type)
+T1007	SO 28526 28527	+
+#1007	AnnotatorNotes T1007	SO:0000817 (wild_type)
+T1008	bold 28583 28625	Traction test (g) of ADAM11-deficient mice
+#1008	AnnotatorNotes T1008	bold (null)
+T1009	EntrezGene 28604 28610	ADAM11
+#1009	AnnotatorNotes T1009	EG:11488
+T1010	PR 28604 28610	ADAM11
+#1010	AnnotatorNotes T1010	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T1011	NCBITaxon 28621 28625	mice
+#1011	AnnotatorNotes T1011	NCBITaxon:10088 (Mus)
+T1012	SO 28627 28628	+
+#1012	AnnotatorNotes T1012	SO:0000817 (wild_type)
+T1013	SO 28629 28630	+
+#1013	AnnotatorNotes T1013	SO:0000817 (wild_type)
+T1014	SO 28632 28633	+
+#1014	AnnotatorNotes T1014	SO:0000817 (wild_type)
+T1015	bold 28689 28734	Wire suspension test of ADAM11-deficient mice
+#1015	AnnotatorNotes T1015	bold (null)
+T1016	EntrezGene 28713 28719	ADAM11
+#1016	AnnotatorNotes T1016	EG:11488
+T1017	PR 28713 28719	ADAM11
+#1017	AnnotatorNotes T1017	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T1018	NCBITaxon 28730 28734	mice
+#1018	AnnotatorNotes T1018	NCBITaxon:10088 (Mus)
+T1019	SO 28829 28830	+
+#1019	AnnotatorNotes T1019	SO:0000817 (wild_type)
+T1020	SO 28831 28832	+
+#1020	AnnotatorNotes T1020	SO:0000817 (wild_type)
+T1021	SO 28834 28835	+
+#1021	AnnotatorNotes T1021	SO:0000817 (wild_type)
+T1022	bold 28891 28930	Footprint test of ADAM11-deficient mice
+#1022	AnnotatorNotes T1022	bold (null)
+T1023	EntrezGene 28909 28915	ADAM11
+#1023	AnnotatorNotes T1023	EG:11488
+T1024	PR 28909 28915	ADAM11
+#1024	AnnotatorNotes T1024	PR:000003710 (disintegrin and metalloproteinase domain-containing protein 11)
+T1025	NCBITaxon 28926 28930	mice
+#1025	AnnotatorNotes T1025	NCBITaxon:10088 (Mus)
+T1026	SO 29021 29022	+
+#1026	AnnotatorNotes T1026	SO:0000817 (wild_type)
+T1027	SO 29023 29024	+
+#1027	AnnotatorNotes T1027	SO:0000817 (wild_type)
+T1028	SO 29026 29027	+
+#1028	AnnotatorNotes T1028	SO:0000817 (wild_type)

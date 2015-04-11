@@ -1,0 +1,1404 @@
+T1	EntrezGene 0 5	BRCA2
+#1	AnnotatorNotes T1	EG:675
+T2	PR 0 5	BRCA2
+#2	AnnotatorNotes T2	PR:000004804 (breast cancer type 2 susceptibility protein)
+T3	GO_BP 21 34	recombination
+#3	AnnotatorNotes T3	GO:0006310 (DNA recombination)
+T4	SO 142 146	gene
+#4	AnnotatorNotes T4	SO:0000704 (gene)
+T5	EntrezGene 147 152	BRCA2
+#5	AnnotatorNotes T5	EG:12190
+T6	PR 147 152	BRCA2
+#6	AnnotatorNotes T6	PR:000004804 (breast cancer type 2 susceptibility protein)
+T7	GO_BP 156 166	DNA repair
+#7	AnnotatorNotes T7	GO:0006281 (DNA repair)
+T8	SO 156 159	DNA
+#8	AnnotatorNotes T8	SO:0000352 (DNA)
+T9	italic 177 182	et al
+#9	AnnotatorNotes T9	italic (null)
+T10	SO 191 198	genetic
+#10	AnnotatorNotes T10	SO:0000704 (gene)
+T11	EntrezGene 233 238	BRCA2
+#11	AnnotatorNotes T11	EG:675
+T12	PR 233 238	BRCA2
+#12	AnnotatorNotes T12	PR:000004804 (breast cancer type 2 susceptibility protein)
+T13	GO_BP 242 313	homology-dependent (recombinational) repair of DNA double-strand breaks
+#13	AnnotatorNotes T13	"homology-dependent .. repair of DNA double-strand breaks" GO:0000724 (double-strand break repair via homologous recombination)
+T14	GO_BP 262 313	recombinational) repair of DNA double-strand breaks
+#14	AnnotatorNotes T14	"recombinational .. repair of DNA double-strand breaks" GO:0000724 (double-strand break repair via homologous recombination)
+T15	SO 289 292	DNA
+#15	AnnotatorNotes T15	SO:0000352 (DNA)
+T16	SO 293 306	double-strand
+#16	AnnotatorNotes T16	SO:0000985 (double)
+T17	SO 300 306	strand
+#17	AnnotatorNotes T17	SO:0000001 (region)
+T18	italic 343 348	et al
+#18	AnnotatorNotes T18	italic (null)
+T19	EntrezGene 396 401	BRCA2
+#19	AnnotatorNotes T19	EG:675
+T20	PR 396 401	BRCA2
+#20	AnnotatorNotes T20	PR:000004804 (breast cancer type 2 susceptibility protein)
+T21	GO_BP 428 450	recombinational repair
+#21	AnnotatorNotes T21	GO:0000725 (recombinational repair)
+T22	PR 452 457	BRCA2
+#22	AnnotatorNotes T22	PR:000004804 (breast cancer type 2 susceptibility protein)
+T23	GO_BP 481 494	recombination
+#23	AnnotatorNotes T23	GO:0006310 (DNA recombination)
+T24	NCBITaxon 527 537	eukaryotic
+#24	AnnotatorNotes T24	NCBITaxon:2759 (Eukaryota)
+T25	GO_MF 538 549	recombinase
+#25	AnnotatorNotes T25	GO:0009009 (site-specific recombinase activity)
+T26	GO_MF 538 549	recombinase
+#26	AnnotatorNotes T26	GO:0000150 (recombinase activity)
+T27	independent_continuant 538 549	recombinase
+#27	AnnotatorNotes T27	independent_continuant
+T28	PR 550 555	RAD51
+#28	AnnotatorNotes T28	PR:000013672 (DNA repair protein RAD51 1)
+T29	EntrezGene 733 738	BRCA2
+#29	AnnotatorNotes T29	EG:675
+T30	PR 733 738	BRCA2
+#30	AnnotatorNotes T30	PR:000004804 (breast cancer type 2 susceptibility protein)
+T31	EntrezGene 742 747	RAD51
+#31	AnnotatorNotes T31	EG:5888
+T32	PR 742 747	RAD51
+#32	AnnotatorNotes T32	PR:000013672 (DNA repair protein RAD51 1)
+T33	GO_BP 757 763	repair
+#33	AnnotatorNotes T33	GO:0006281 (DNA repair)
+T34	GO_BP 802 815	recombination
+#34	AnnotatorNotes T34	GO:0006310 (DNA recombination)
+T35	EntrezGene 817 822	BRCA2
+#35	AnnotatorNotes T35	EG:675
+T36	PR 817 822	BRCA2
+#36	AnnotatorNotes T36	PR:000004804 (breast cancer type 2 susceptibility protein)
+T37	EntrezGene 824 829	BRCA2
+#37	AnnotatorNotes T37	EG:675
+T38	PR 824 829	BRCA2
+#38	AnnotatorNotes T38	PR:000004804 (breast cancer type 2 susceptibility protein)
+T39	SO 874 878	gene
+#39	AnnotatorNotes T39	SO:0000704 (gene)
+T40	SO 922 932	positional
+#40	AnnotatorNotes T40	SO:0000001 (region)
+T41	CL 1000 1005	Cells
+#41	AnnotatorNotes T41	CL:0000000 (cell)
+T42	GO_CC 1000 1005	Cells
+#42	AnnotatorNotes T42	GO:0005623 (cell)
+T43	SO 1011 1017	mutant
+#43	AnnotatorNotes T43	SO:0001059 (sequence_alteration)
+T44	PR 1018 1023	BRCA2
+#44	AnnotatorNotes T44	PR:000004804 (breast cancer type 2 susceptibility protein)
+T45	CHEBI 1024 1031	protein
+#45	AnnotatorNotes T45	CHEBI:36080 (proteins)
+T46	CL 1054 1059	cells
+#46	AnnotatorNotes T46	CL:0000000 (cell)
+T47	GO_CC 1054 1059	cells
+#47	AnnotatorNotes T47	GO:0005623 (cell)
+T48	SO 1061 1072	genetically
+#48	AnnotatorNotes T48	SO:0000704 (gene)
+T49	GO_CC 1103 1114	chromosomal
+#49	AnnotatorNotes T49	GO:0005694 (chromosome)
+T50	SO 1103 1114	chromosomal
+#50	AnnotatorNotes T50	SO:0000340 (chromosome)
+T51	SO 1141 1149	sequence
+#51	AnnotatorNotes T51	SO:0000001 (region)
+T52	CHEBI 1164 1171	protein
+#52	AnnotatorNotes T52	CHEBI:36080 (proteins)
+T53	CHEBI 1178 1189	amino acids
+#53	AnnotatorNotes T53	CHEBI:33708 (amino-acid residue)
+T54	SO 1178 1189	amino acids
+#54	AnnotatorNotes T54	SO:0001237 (amino_acid)
+T55	CHEBI 1178 1183	amino
+#55	AnnotatorNotes T55	CHEBI:46882 (amino group)
+T56	CHEBI 1178 1183	amino
+#56	AnnotatorNotes T56	CHEBI:32952 (amines)
+T57	CHEBI 1184 1189	acids
+#57	AnnotatorNotes T57	CHEBI:37527 (acid)
+T58	SO 1257 1274	repeated segments
+#58	AnnotatorNotes T58	SO:0000726 (repeat_unit)
+T59	SO 1257 1274	repeated segments
+#59	AnnotatorNotes T59	SO:0000657 (repeat_region)
+T60	SO 1287 1294	repeats
+#60	AnnotatorNotes T60	SO:0000726 (repeat_unit)
+T61	SO 1287 1294	repeats
+#61	AnnotatorNotes T61	SO:0000657 (repeat_region)
+T62	CHEBI 1317 1324	protein
+#62	AnnotatorNotes T62	CHEBI:36080 (proteins)
+T63	SO 1341 1350	conserved
+#63	AnnotatorNotes T63	SO:0000856 (conserved)
+T64	NCBITaxon 1357 1366	mammalian
+#64	AnnotatorNotes T64	NCBITaxon:40674 (Mammalia)
+T65	SO 1367 1376	orthologs
+#65	AnnotatorNotes T65	SO:0000855 (orthologous_region)
+T66	SO 1414 1419	genes
+#66	AnnotatorNotes T66	SO:0000704 (gene)
+T67	GO_BP 1424 1434	DNA repair
+#67	AnnotatorNotes T67	GO:0006281 (DNA repair)
+T68	SO 1424 1427	DNA
+#68	AnnotatorNotes T68	SO:0000352 (DNA)
+T69	italic 1479 1484	et al
+#69	AnnotatorNotes T69	italic (null)
+T70	GO_MF 1505 1516	recombinase
+#70	AnnotatorNotes T70	GO:0009009 (site-specific recombinase activity)
+T71	independent_continuant 1505 1516	recombinase
+#71	AnnotatorNotes T71	independent_continuant
+T72	GO_MF 1505 1516	recombinase
+#72	AnnotatorNotes T72	GO:0000150 (recombinase activity)
+T73	PR 1517 1522	RAD51
+#73	AnnotatorNotes T73	PR:000013672 (DNA repair protein RAD51 1)
+T74	PR 1560 1565	BRCA1
+#74	AnnotatorNotes T74	PR:000004803 (breast cancer type 1 susceptibility protein)
+T75	PR 1635 1640	BRCA1
+#75	AnnotatorNotes T75	PR:000004803 (breast cancer type 1 susceptibility protein)
+T76	PR 1645 1650	BRCA2
+#76	AnnotatorNotes T76	PR:000004804 (breast cancer type 2 susceptibility protein)
+T77	GO_BP 1667 1703	recombinational repair of DNA damage
+#77	AnnotatorNotes T77	GO:0000725 (recombinational repair)
+T78	SO 1693 1696	DNA
+#78	AnnotatorNotes T78	SO:0000352 (DNA)
+T79	PR 1705 1710	BRCA1
+#79	AnnotatorNotes T79	PR:000004803 (breast cancer type 1 susceptibility protein)
+T80	PR 1715 1720	BRCA2
+#80	AnnotatorNotes T80	PR:000004804 (breast cancer type 2 susceptibility protein)
+T81	GO_BP 1721 1725	form
+#81	AnnotatorNotes T81	GO:0022607 (cellular component assembly)
+T82	GO_CC 1735 1742	nuclear
+#82	AnnotatorNotes T82	GO:0005634 (nucleus)
+T83	GO_BP 1759 1766	S phase
+#83	AnnotatorNotes T83	GO:0051320 (S phase)
+T84	SO 1789 1792	DNA
+#84	AnnotatorNotes T84	SO:0000352 (DNA)
+T85	SO 1844 1849	sites
+#85	AnnotatorNotes T85	SO:0000001 (region)
+T86	GO_BP 1853 1897	repair of spontaneous and induced DNA damage
+#86	AnnotatorNotes T86	"repair of .. DNA damage" GO:0006281 (DNA repair)
+T87	SO 1887 1890	DNA
+#87	AnnotatorNotes T87	SO:0000352 (DNA)
+T88	CL 1910 1914	Cell
+#88	AnnotatorNotes T88	CL:0000000 (cell)
+T89	GO_CC 1910 1914	Cell
+#89	AnnotatorNotes T89	GO:0005623 (cell)
+T90	PR 1941 1946	BRCA1
+#90	AnnotatorNotes T90	PR:000004803 (breast cancer type 1 susceptibility protein)
+T91	PR 1950 1955	BRCA2
+#91	AnnotatorNotes T91	PR:000004804 (breast cancer type 2 susceptibility protein)
+T92	SO 1999 2012	double-strand
+#92	AnnotatorNotes T92	SO:0000985 (double)
+T93	SO 2006 2012	strand
+#93	AnnotatorNotes T93	SO:0000001 (region)
+T94	CL 2041 2045	cell
+#94	AnnotatorNotes T94	CL:0000000 (cell)
+T95	GO_CC 2041 2045	cell
+#95	AnnotatorNotes T95	GO:0005623 (cell)
+T96	GO_BP 2065 2087	recombinational repair
+#96	AnnotatorNotes T96	GO:0000725 (recombinational repair)
+T97	PR 2108 2113	BRCA2
+#97	AnnotatorNotes T97	PR:000004804 (breast cancer type 2 susceptibility protein)
+T98	PR 2133 2150	RAD51 recombinase
+#98	AnnotatorNotes T98	PR:000013672 (DNA repair protein RAD51 1)
+T99	GO_MF 2139 2150	recombinase
+#99	AnnotatorNotes T99	GO:0009009 (site-specific recombinase activity)
+T100	GO_MF 2139 2150	recombinase
+#100	AnnotatorNotes T100	GO:0000150 (recombinase activity)
+T101	independent_continuant 2139 2150	recombinase
+#101	AnnotatorNotes T101	independent_continuant
+T102	CHEBI 2162 2169	protein
+#102	AnnotatorNotes T102	CHEBI:36080 (proteins)
+T103	CHEBI 2170 2177	protein
+#103	AnnotatorNotes T103	CHEBI:36080 (proteins)
+T104	PR 2255 2260	BRCA1
+#104	AnnotatorNotes T104	PR:000004803 (breast cancer type 1 susceptibility protein)
+T105	PR 2265 2270	RAD51
+#105	AnnotatorNotes T105	PR:000013672 (DNA repair protein RAD51 1)
+T106	SO 2345 2352	repeats
+#106	AnnotatorNotes T106	SO:0000726 (repeat_unit)
+T107	SO 2345 2352	repeats
+#107	AnnotatorNotes T107	SO:0000657 (repeat_region)
+T108	PR 2356 2361	BRCA2
+#108	AnnotatorNotes T108	PR:000004804 (breast cancer type 2 susceptibility protein)
+T109	PR 2389 2394	RAD51
+#109	AnnotatorNotes T109	PR:000013672 (DNA repair protein RAD51 1)
+T110	CL 2408 2413	Cells
+#110	AnnotatorNotes T110	CL:0000000 (cell)
+T111	GO_CC 2408 2413	Cells
+#111	AnnotatorNotes T111	GO:0005623 (cell)
+T112	PR 2422 2427	BRCA1
+#112	AnnotatorNotes T112	PR:000004803 (breast cancer type 1 susceptibility protein)
+T113	GO_BP 2438 2442	form
+#113	AnnotatorNotes T113	GO:0022607 (cellular component assembly)
+T114	PR 2469 2474	RAD51
+#114	AnnotatorNotes T114	PR:000013672 (DNA repair protein RAD51 1)
+T115	CHEBI 2526 2534	proteins
+#115	AnnotatorNotes T115	CHEBI:36080 (proteins)
+T116	GO_BP 2556 2590	formation of recombinase complexes
+#116	AnnotatorNotes T116	"formation of .. complexes" GO:0065003 (macromolecular complex assembly)
+T117	GO_MF 2569 2580	recombinase
+#117	AnnotatorNotes T117	GO:0009009 (site-specific recombinase activity)
+T118	GO_MF 2569 2580	recombinase
+#118	AnnotatorNotes T118	GO:0000150 (recombinase activity)
+T119	independent_continuant 2569 2580	recombinase
+#119	AnnotatorNotes T119	independent_continuant
+T120	GO_CC 2581 2590	complexes
+#120	AnnotatorNotes T120	GO:0032991 (macromolecular complex)
+T121	SO 2598 2603	sites
+#121	AnnotatorNotes T121	SO:0000001 (region)
+T122	SO 2607 2610	DNA
+#122	AnnotatorNotes T122	SO:0000352 (DNA)
+T123	SO 2636 2643	genetic
+#123	AnnotatorNotes T123	SO:0000704 (gene)
+T124	GO_BP 2660 2673	recombination
+#124	AnnotatorNotes T124	GO:0006310 (DNA recombination)
+T125	italic 2700 2705	Brca1
+#125	AnnotatorNotes T125	italic (null)
+T126	PR 2700 2705	Brca1
+#126	AnnotatorNotes T126	PR:000004803 (breast cancer type 1 susceptibility protein)
+T127	sup 2705 2708	-/-
+#127	AnnotatorNotes T127	sup (null)
+T128	CL 2719 2734	stem (ES) cells
+#128	AnnotatorNotes T128	"stem .. cells" CL:0000034 (stem cell)
+T129	GO_CC 2729 2734	cells
+#129	AnnotatorNotes T129	GO:0005623 (cell)
+T130	GO_BP 2752 2778	recombinational DSB repair
+#130	AnnotatorNotes T130	"recombinational .. repair" GO:0000725 (recombinational repair)
+T131	GO_BP 2768 2778	DSB repair
+#131	AnnotatorNotes T131	GO:0006302 (double-strand break repair)
+T132	PR 2838 2843	BRCA1
+#132	AnnotatorNotes T132	PR:000004803 (breast cancer type 1 susceptibility protein)
+T133	PR 2848 2853	BRCA2
+#133	AnnotatorNotes T133	PR:000004804 (breast cancer type 2 susceptibility protein)
+T134	SO 2913 2916	DNA
+#134	AnnotatorNotes T134	SO:0000352 (DNA)
+T135	GO_BP 2927 2985	distribution of BRCA1 and BRCA2 in repair-proficient cells
+#135	AnnotatorNotes T135	"distribution .. in .. cells" GO:0051641 (cellular localization)
+T136	PR 2943 2948	BRCA1
+#136	AnnotatorNotes T136	PR:000004803 (breast cancer type 1 susceptibility protein)
+T137	PR 2953 2958	BRCA2
+#137	AnnotatorNotes T137	PR:000004804 (breast cancer type 2 susceptibility protein)
+T138	GO_BP 2962 2968	repair
+#138	AnnotatorNotes T138	GO:0006281 (DNA repair)
+T139	CL 2980 2985	cells
+#139	AnnotatorNotes T139	CL:0000000 (cell)
+T140	GO_CC 2980 2985	cells
+#140	AnnotatorNotes T140	GO:0005623 (cell)
+T141	PR 3014 3019	BRCA2
+#141	AnnotatorNotes T141	PR:000004804 (breast cancer type 2 susceptibility protein)
+T142	PR 3026 3031	BRCA1
+#142	AnnotatorNotes T142	PR:000004803 (breast cancer type 1 susceptibility protein)
+T143	GO_BP 3059 3081	recombinational repair
+#143	AnnotatorNotes T143	GO:0000725 (recombinational repair)
+T144	italic 3105 3110	et al
+#144	AnnotatorNotes T144	italic (null)
+T145	GO_BP 3187 3200	recombination
+#145	AnnotatorNotes T145	GO:0006310 (DNA recombination)
+T146	EntrezGene 3214 3219	BRCA2
+#146	AnnotatorNotes T146	EG:675
+T147	PR 3214 3219	BRCA2
+#147	AnnotatorNotes T147	PR:000004804 (breast cancer type 2 susceptibility protein)
+T148	CL 3230 3235	cells
+#148	AnnotatorNotes T148	CL:0000000 (cell)
+T149	GO_CC 3230 3235	cells
+#149	AnnotatorNotes T149	GO:0005623 (cell)
+T150	italic 3244 3249	et al
+#150	AnnotatorNotes T150	italic (null)
+T151	GO_BP 3273 3286	recombination
+#151	AnnotatorNotes T151	GO:0006310 (DNA recombination)
+T152	GO_BP 3336 3349	recombination
+#152	AnnotatorNotes T152	GO:0006310 (DNA recombination)
+T153	italic 3350 3357	in vivo
+#153	AnnotatorNotes T153	italic (null)
+T154	SO 3377 3380	DNA
+#154	AnnotatorNotes T154	SO:0000352 (DNA)
+T155	SO 3410 3417	mutated
+#155	AnnotatorNotes T155	SO:0000041 (sequence_operation)
+T156	SO 3422 3427	genes
+#156	AnnotatorNotes T156	SO:0000704 (gene)
+T157	CHEBI 3479 3486	protein
+#157	AnnotatorNotes T157	CHEBI:36080 (proteins)
+T158	SO 3513 3529	restriction site
+#158	AnnotatorNotes T158	SO:0000061 (restriction_enzyme_binding_site)
+T159	EntrezGene 3534 3540	I-SceI
+#159	AnnotatorNotes T159	EG:854590
+T160	NCBITaxon 3544 3549	yeast
+#160	AnnotatorNotes T160	NCBITaxon:4892 (Saccharomycetales)
+T161	SO 3550 3556	intron
+#161	AnnotatorNotes T161	SO:0000188 (intron)
+T162	independent_continuant 3565 3577	endonuclease
+#162	AnnotatorNotes T162	independent_continuant
+T163	GO_MF 3565 3577	endonuclease
+#163	AnnotatorNotes T163	GO:0004519 (endonuclease activity)
+T164	SO 3589 3598	base pair
+#164	AnnotatorNotes T164	SO:0000028 (base_pair)
+T165	SO 3589 3593	base
+#165	AnnotatorNotes T165	SO:0001236 (base)
+T166	SO 3599 3615	recognition site
+#166	AnnotatorNotes T166	SO:0000409 (binding_site)
+T167	GO_BP 3627 3639	transfection
+#167	AnnotatorNotes T167	GO:0009294 (DNA mediated transformation)
+T168	EntrezGene 3646 3652	I-SceI
+#168	AnnotatorNotes T168	EG:854590
+T169	GO_BP 3653 3663	expression
+#169	AnnotatorNotes T169	GO:0010467 (gene expression)
+T170	SO 3664 3670	vector
+#170	AnnotatorNotes T170	SO:0000440 (vector_replicon)
+T171	SO 3719 3726	mutated
+#171	AnnotatorNotes T171	SO:0000041 (sequence_operation)
+T172	SO 3752 3755	DNA
+#172	AnnotatorNotes T172	SO:0000352 (DNA)
+T173	GO_BP 3781 3790	invade(s)
+#173	AnnotatorNotes T173	GO:0042148 (strand invasion)
+T174	SO 3806 3814	sequence
+#174	AnnotatorNotes T174	SO:0000001 (region)
+T175	SO 3829 3835	mutant
+#175	AnnotatorNotes T175	SO:0001059 (sequence_alteration)
+T176	GO_BP 3859 3922	repair of the DSB via a homology-mediated gene conversion event
+#176	AnnotatorNotes T176	"repair of .. DSB via .. homology-mediated .. event" GO:0000724 (double-strand break repair via homologous recombination)
+T177	SO 3901 3905	gene
+#177	AnnotatorNotes T177	SO:0000704 (gene)
+T178	SO 3953 3962	construct
+#178	AnnotatorNotes T178	SO:0001037 (mobile_genetic_element)
+T179	GO_BP 3976 4000	homology-mediated repair
+#179	AnnotatorNotes T179	GO:0000724 (double-strand break repair via homologous recombination)
+T180	GO_BP 4022 4031	formation
+#180	AnnotatorNotes T180	GO:0009058 (biosynthetic process)
+T181	CL 4115 4119	cell
+#181	AnnotatorNotes T181	CL:0000000 (cell)
+T182	GO_CC 4115 4119	cell
+#182	AnnotatorNotes T182	GO:0005623 (cell)
+T183	GO_BP 4156 4166	expression
+#183	AnnotatorNotes T183	GO:0010467 (gene expression)
+T184	italic 4185 4190	et al
+#184	AnnotatorNotes T184	italic (null)
+T185	GO_BP 4217 4230	recombination
+#185	AnnotatorNotes T185	GO:0006310 (DNA recombination)
+T186	CL 4261 4266	cells
+#186	AnnotatorNotes T186	CL:0000000 (cell)
+T187	GO_CC 4261 4266	cells
+#187	AnnotatorNotes T187	GO:0005623 (cell)
+T188	EntrezGene 4282 4287	BRCA2
+#188	AnnotatorNotes T188	EG:675
+T189	PR 4282 4287	BRCA2
+#189	AnnotatorNotes T189	PR:000004804 (breast cancer type 2 susceptibility protein)
+T190	CHEBI 4288 4295	protein
+#190	AnnotatorNotes T190	CHEBI:36080 (proteins)
+T191	GO_BP 4330 4336	repair
+#191	AnnotatorNotes T191	GO:0006281 (DNA repair)
+T192	EntrezGene 4341 4347	I-SceI
+#192	AnnotatorNotes T192	EG:854590
+T193	GO_BP 4379 4392	recombination
+#193	AnnotatorNotes T193	GO:0006310 (DNA recombination)
+T194	GO_BP 4394 4404	Expression
+#194	AnnotatorNotes T194	GO:0010467 (gene expression)
+T195	EntrezGene 4408 4414	I-SceI
+#195	AnnotatorNotes T195	EG:854590
+T196	CL 4441 4446	cells
+#196	AnnotatorNotes T196	CL:0000000 (cell)
+T197	GO_CC 4441 4446	cells
+#197	AnnotatorNotes T197	GO:0005623 (cell)
+T198	GO_BP 4447 4456	producing
+#198	AnnotatorNotes T198	GO:0009058 (biosynthetic process)
+T199	GO_BP 4476 4489	recombination
+#199	AnnotatorNotes T199	GO:0006310 (DNA recombination)
+T200	NCBITaxon 4497 4502	human
+#200	AnnotatorNotes T200	NCBITaxon:9606 (Homo sapiens)
+T201	CL 4520 4524	cell
+#201	AnnotatorNotes T201	CL:0000000 (cell)
+T202	GO_CC 4520 4524	cell
+#202	AnnotatorNotes T202	GO:0005623 (cell)
+T203	CL 4547 4552	cells
+#203	AnnotatorNotes T203	CL:0000000 (cell)
+T204	GO_CC 4547 4552	cells
+#204	AnnotatorNotes T204	GO:0005623 (cell)
+T205	SO 4561 4569	deletion
+#205	AnnotatorNotes T205	SO:0000159 (deletion)
+T206	EntrezGene 4573 4578	BRCA2
+#206	AnnotatorNotes T206	EG:675
+T207	PR 4573 4578	BRCA2
+#207	AnnotatorNotes T207	PR:000004804 (breast cancer type 2 susceptibility protein)
+T208	CHEBI 4610 4617	protein
+#208	AnnotatorNotes T208	CHEBI:36080 (proteins)
+T209	CHEBI 4631 4641	amino acid
+#209	AnnotatorNotes T209	CHEBI:33708 (amino-acid residue)
+T210	SO 4631 4641	amino acid
+#210	AnnotatorNotes T210	SO:0001237 (amino_acid)
+T211	CHEBI 4631 4636	amino
+#211	AnnotatorNotes T211	CHEBI:46882 (amino group)
+T212	CHEBI 4631 4636	amino
+#212	AnnotatorNotes T212	CHEBI:32952 (amines)
+T213	CHEBI 4637 4641	acid
+#213	AnnotatorNotes T213	CHEBI:37527 (acid)
+T214	EntrezGene 4708 4714	I-SceI
+#214	AnnotatorNotes T214	EG:854590
+T215	GO_BP 4723 4736	recombination
+#215	AnnotatorNotes T215	GO:0006310 (DNA recombination)
+T216	italic 4798 4803	BRCA2
+#216	AnnotatorNotes T216	italic (null)
+T217	PR 4798 4803	BRCA2
+#217	AnnotatorNotes T217	PR:000004804 (breast cancer type 2 susceptibility protein)
+T218	EntrezGene 4798 4803	BRCA2
+#218	AnnotatorNotes T218	EG:675
+T219	sup 4803 4804	+
+#219	AnnotatorNotes T219	sup (null)
+T220	SO 4803 4804	+
+#220	AnnotatorNotes T220	SO:0000817 (wild_type)
+T221	NCBITaxon 4806 4811	human
+#221	AnnotatorNotes T221	NCBITaxon:9606 (Homo sapiens)
+T222	CL 4818 4822	cell
+#222	AnnotatorNotes T222	CL:0000000 (cell)
+T223	GO_CC 4818 4822	cell
+#223	AnnotatorNotes T223	GO:0005623 (cell)
+T224	SO 4895 4906	genetically
+#224	AnnotatorNotes T224	SO:0000704 (gene)
+T225	CL 4920 4925	cells
+#225	AnnotatorNotes T225	CL:0000000 (cell)
+T226	GO_CC 4920 4925	cells
+#226	AnnotatorNotes T226	GO:0005623 (cell)
+T227	italic 4942 4947	BRCA2
+#227	AnnotatorNotes T227	italic (null)
+T228	PR 4942 4947	BRCA2
+#228	AnnotatorNotes T228	PR:000004804 (breast cancer type 2 susceptibility protein)
+T229	EntrezGene 4942 4947	BRCA2
+#229	AnnotatorNotes T229	EG:675
+T230	SO 4948 4953	locus
+#230	AnnotatorNotes T230	SO:0000001 (region)
+T231	SO 5001 5005	loci
+#231	AnnotatorNotes T231	SO:0000001 (region)
+T232	GO_BP 5064 5086	recombinational repair
+#232	AnnotatorNotes T232	GO:0000725 (recombinational repair)
+T233	SO 5126 5135	mutations
+#233	AnnotatorNotes T233	SO:0001059 (sequence_alteration)
+T234	italic 5143 5148	BRCA2
+#234	AnnotatorNotes T234	italic (null)
+T235	PR 5143 5148	BRCA2
+#235	AnnotatorNotes T235	PR:000004804 (breast cancer type 2 susceptibility protein)
+T236	EntrezGene 5143 5148	BRCA2
+#236	AnnotatorNotes T236	EG:675
+T237	SO 5149 5153	loci
+#237	AnnotatorNotes T237	SO:0000001 (region)
+T238	italic 5171 5176	et al
+#238	AnnotatorNotes T238	italic (null)
+T239	GO_BP 5276 5298	recombinational repair
+#239	AnnotatorNotes T239	GO:0000725 (recombinational repair)
+T240	CL 5321 5326	cells
+#240	AnnotatorNotes T240	CL:0000000 (cell)
+T241	GO_CC 5321 5326	cells
+#241	AnnotatorNotes T241	GO:0005623 (cell)
+T242	italic 5370 5375	BRCA2
+#242	AnnotatorNotes T242	italic (null)
+T243	PR 5370 5375	BRCA2
+#243	AnnotatorNotes T243	PR:000004804 (breast cancer type 2 susceptibility protein)
+T244	EntrezGene 5370 5375	BRCA2
+#244	AnnotatorNotes T244	EG:675
+T245	GO_BP 5408 5421	recombination
+#245	AnnotatorNotes T245	GO:0006310 (DNA recombination)
+T246	NCBITaxon 5427 5432	mouse
+#246	AnnotatorNotes T246	NCBITaxon:10088 (Mus)
+T247	CL 5436 5440	cell
+#247	AnnotatorNotes T247	CL:0000000 (cell)
+T248	GO_CC 5436 5440	cell
+#248	AnnotatorNotes T248	GO:0005623 (cell)
+T249	GO_BP 5451 5460	expresses
+#249	AnnotatorNotes T249	GO:0010467 (gene expression)
+T250	EntrezGene 5476 5481	BRCA2
+#250	AnnotatorNotes T250	EG:12190
+T251	PR 5476 5481	BRCA2
+#251	AnnotatorNotes T251	PR:000004804 (breast cancer type 2 susceptibility protein)
+T252	CHEBI 5482 5489	protein
+#252	AnnotatorNotes T252	CHEBI:36080 (proteins)
+T253	GO_BP 5538 5551	recombination
+#253	AnnotatorNotes T253	GO:0006310 (DNA recombination)
+T254	CL 5577 5582	cells
+#254	AnnotatorNotes T254	CL:0000000 (cell)
+T255	GO_CC 5577 5582	cells
+#255	AnnotatorNotes T255	GO:0005623 (cell)
+T256	GO_BP 5583 5593	expressing
+#256	AnnotatorNotes T256	GO:0010467 (gene expression)
+T257	EntrezGene 5606 5611	BRCA2
+#257	AnnotatorNotes T257	EG:12190
+T258	PR 5606 5611	BRCA2
+#258	AnnotatorNotes T258	PR:000004804 (breast cancer type 2 susceptibility protein)
+T259	GO_BP 5787 5794	express
+#259	AnnotatorNotes T259	GO:0010467 (gene expression)
+T260	EntrezGene 5807 5812	BRCA2
+#260	AnnotatorNotes T260	EG:675
+T261	PR 5807 5812	BRCA2
+#261	AnnotatorNotes T261	PR:000004804 (breast cancer type 2 susceptibility protein)
+T262	CHEBI 5813 5820	protein
+#262	AnnotatorNotes T262	CHEBI:36080 (proteins)
+T263	GO_BP 5901 5911	expressing
+#263	AnnotatorNotes T263	GO:0010467 (gene expression)
+T264	EntrezGene 5924 5929	BRCA2
+#264	AnnotatorNotes T264	EG:675
+T265	PR 5924 5929	BRCA2
+#265	AnnotatorNotes T265	PR:000004804 (breast cancer type 2 susceptibility protein)
+T266	GO_BP 5930 5937	yielded
+#266	AnnotatorNotes T266	GO:0032502 (developmental process)
+T267	GO_BP 5978 5988	expressing
+#267	AnnotatorNotes T267	GO:0010467 (gene expression)
+T268	EntrezGene 6004 6009	BRCA2
+#268	AnnotatorNotes T268	EG:675
+T269	PR 6004 6009	BRCA2
+#269	AnnotatorNotes T269	PR:000004804 (breast cancer type 2 susceptibility protein)
+T270	italic 6150 6155	et al
+#270	AnnotatorNotes T270	italic (null)
+T271	CL 6209 6214	cells
+#271	AnnotatorNotes T271	CL:0000000 (cell)
+T272	GO_CC 6209 6214	cells
+#272	AnnotatorNotes T272	GO:0005623 (cell)
+T273	SO 6234 6242	mutation
+#273	AnnotatorNotes T273	SO:0001059 (sequence_alteration)
+T274	GO_BP 6273 6295	recombinational repair
+#274	AnnotatorNotes T274	GO:0000725 (recombinational repair)
+T275	NCBITaxon 6331 6336	human
+#275	AnnotatorNotes T275	NCBITaxon:9606 (Homo sapiens)
+T276	CL 6337 6341	cell
+#276	AnnotatorNotes T276	CL:0000000 (cell)
+T277	GO_CC 6337 6341	cell
+#277	AnnotatorNotes T277	GO:0005623 (cell)
+T278	EntrezGene 6365 6370	BRCA2
+#278	AnnotatorNotes T278	EG:675
+T279	PR 6365 6370	BRCA2
+#279	AnnotatorNotes T279	PR:000004804 (breast cancer type 2 susceptibility protein)
+T280	GO_BP 6443 6456	recombination
+#280	AnnotatorNotes T280	GO:0006310 (DNA recombination)
+T281	italic 6473 6478	BRCA2
+#281	AnnotatorNotes T281	italic (null)
+T282	EntrezGene 6473 6478	BRCA2
+#282	AnnotatorNotes T282	EG:675
+T283	PR 6473 6478	BRCA2
+#283	AnnotatorNotes T283	PR:000004804 (breast cancer type 2 susceptibility protein)
+T284	NCBITaxon 6621 6626	human
+#284	AnnotatorNotes T284	NCBITaxon:9606 (Homo sapiens)
+T285	italic 6697 6702	Brca2
+#285	AnnotatorNotes T285	italic (null)
+T286	sup 6702 6711	lex1/lex2
+#286	AnnotatorNotes T286	sup (null)
+T287	italic 6702 6705	lex
+#287	AnnotatorNotes T287	italic (null)
+T288	italic 6707 6710	lex
+#288	AnnotatorNotes T288	italic (null)
+T289	italic 6721 6726	Brca2
+#289	AnnotatorNotes T289	italic (null)
+T290	PR 6721 6726	Brca2
+#290	AnnotatorNotes T290	PR:000004804 (breast cancer type 2 susceptibility protein)
+T291	EntrezGene 6721 6726	Brca2
+#291	AnnotatorNotes T291	EG:12190
+T292	sup 6726 6729	+/+
+#292	AnnotatorNotes T292	sup (null)
+T293	SO 6726 6727	+
+#293	AnnotatorNotes T293	SO:0000817 (wild_type)
+T294	SO 6728 6729	+
+#294	AnnotatorNotes T294	SO:0000817 (wild_type)
+T295	CL 6733 6738	cells
+#295	AnnotatorNotes T295	CL:0000000 (cell)
+T296	GO_CC 6733 6738	cells
+#296	AnnotatorNotes T296	GO:0005623 (cell)
+T297	italic 6786 6791	Brca2
+#297	AnnotatorNotes T297	italic (null)
+T298	sup 6791 6800	lex1/lex2
+#298	AnnotatorNotes T298	sup (null)
+T299	italic 6791 6794	lex
+#299	AnnotatorNotes T299	italic (null)
+T300	italic 6796 6799	lex
+#300	AnnotatorNotes T300	italic (null)
+T301	SO 6815 6821	allele
+#301	AnnotatorNotes T301	SO:0001023 (allele)
+T302	EntrezGene 6888 6893	BRCA2
+#302	AnnotatorNotes T302	EG:12190
+T303	PR 6888 6893	BRCA2
+#303	AnnotatorNotes T303	PR:000004804 (breast cancer type 2 susceptibility protein)
+T304	GO_BP 6906 6928	recombination pathways
+#304	AnnotatorNotes T304	GO:0006310 (DNA recombination)
+T305	EntrezGene 6972 6977	BRCA2
+#305	AnnotatorNotes T305	EG:12190
+T306	PR 6972 6977	BRCA2
+#306	AnnotatorNotes T306	PR:000004804 (breast cancer type 2 susceptibility protein)
+T307	GO_BP 7016 7038	recombinational repair
+#307	AnnotatorNotes T307	GO:0000725 (recombinational repair)
+T308	NCBITaxon 7047 7052	human
+#308	AnnotatorNotes T308	NCBITaxon:9606 (Homo sapiens)
+T309	NCBITaxon 7057 7062	mouse
+#309	AnnotatorNotes T309	NCBITaxon:10088 (Mus)
+T310	EntrezGene 7081 7086	BRCA2
+#310	AnnotatorNotes T310	EG:675
+T311	PR 7081 7086	BRCA2
+#311	AnnotatorNotes T311	PR:000004804 (breast cancer type 2 susceptibility protein)
+T312	EntrezGene 7087 7092	RAD51
+#312	AnnotatorNotes T312	EG:5888
+T313	PR 7087 7092	RAD51
+#313	AnnotatorNotes T313	PR:000013672 (DNA repair protein RAD51 1)
+T314	italic 7153 7158	et al
+#314	AnnotatorNotes T314	italic (null)
+T315	GO_MF 7230 7241	recombinase
+#315	AnnotatorNotes T315	GO:0009009 (site-specific recombinase activity)
+T316	independent_continuant 7230 7241	recombinase
+#316	AnnotatorNotes T316	independent_continuant
+T317	GO_MF 7230 7241	recombinase
+#317	AnnotatorNotes T317	GO:0000150 (recombinase activity)
+T318	EntrezGene 7242 7247	RAD51
+#318	AnnotatorNotes T318	EG:5888
+T319	PR 7242 7247	RAD51
+#319	AnnotatorNotes T319	PR:000013672 (DNA repair protein RAD51 1)
+T320	SO 7254 7261	peptide
+#320	AnnotatorNotes T320	SO:0001407 (peptidyl)
+T321	SO 7297 7304	repeats
+#321	AnnotatorNotes T321	SO:0000726 (repeat_unit)
+T322	SO 7297 7304	repeats
+#322	AnnotatorNotes T322	SO:0000657 (repeat_region)
+T323	EntrezGene 7310 7321	human BRCA2
+#323	AnnotatorNotes T323	EG:675
+T324	NCBITaxon 7310 7315	human
+#324	AnnotatorNotes T324	NCBITaxon:9606 (Homo sapiens)
+T325	PR 7316 7321	BRCA2
+#325	AnnotatorNotes T325	PR:000004804 (breast cancer type 2 susceptibility protein)
+T326	GO_BP 7323 7333	Expression
+#326	AnnotatorNotes T326	GO:0010467 (gene expression)
+T327	SO 7350 7356	repeat
+#327	AnnotatorNotes T327	SO:0000726 (repeat_unit)
+T328	SO 7350 7356	repeat
+#328	AnnotatorNotes T328	SO:0000657 (repeat_region)
+T329	CHEBI 7406 7415	inhibitor
+#329	AnnotatorNotes T329	CHEBI:35222 (inhibitor)
+T330	GO_BP 7419 7429	DNA repair
+#330	AnnotatorNotes T330	GO:0006281 (DNA repair)
+T331	SO 7419 7422	DNA
+#331	AnnotatorNotes T331	SO:0000352 (DNA)
+T332	italic 7438 7443	et al
+#332	AnnotatorNotes T332	italic (null)
+T333	GO_BP 7482 7492	expression
+#333	AnnotatorNotes T333	GO:0010467 (gene expression)
+T334	SO 7496 7506	constructs
+#334	AnnotatorNotes T334	SO:0001037 (mobile_genetic_element)
+T335	SO 7527 7533	repeat
+#335	AnnotatorNotes T335	SO:0000726 (repeat_unit)
+T336	SO 7527 7533	repeat
+#336	AnnotatorNotes T336	SO:0000657 (repeat_region)
+T337	CL 7543 7548	cells
+#337	AnnotatorNotes T337	CL:0000000 (cell)
+T338	GO_CC 7543 7548	cells
+#338	AnnotatorNotes T338	GO:0005623 (cell)
+T339	CL 7582 7587	cells
+#339	AnnotatorNotes T339	CL:0000000 (cell)
+T340	GO_CC 7582 7587	cells
+#340	AnnotatorNotes T340	GO:0005623 (cell)
+T341	GO_BP 7608 7618	G2/M delay
+#341	AnnotatorNotes T341	GO:0031576 (G2/M transition checkpoint)
+T342	GO_BP 7608 7610	G2
+#342	AnnotatorNotes T342	GO:0051319 (G2 phase)
+T343	GO_BP 7611 7612	M
+#343	AnnotatorNotes T343	GO:0000279 (M phase)
+T344	GO_BP 7665 7676	transfected
+#344	AnnotatorNotes T344	GO:0009294 (DNA mediated transformation)
+T345	CL 7677 7682	cells
+#345	AnnotatorNotes T345	CL:0000000 (cell)
+T346	GO_CC 7677 7682	cells
+#346	AnnotatorNotes T346	GO:0005623 (cell)
+T347	GO_BP 7686 7694	assembly
+#347	AnnotatorNotes T347	GO:0022607 (cellular component assembly)
+T348	EntrezGene 7706 7711	RAD51
+#348	AnnotatorNotes T348	EG:5888
+T349	PR 7706 7711	RAD51
+#349	AnnotatorNotes T349	PR:000013672 (DNA repair protein RAD51 1)
+T350	italic 7741 7746	et al
+#350	AnnotatorNotes T350	italic (null)
+T351	GO_BP 7844 7854	expression
+#351	AnnotatorNotes T351	GO:0010467 (gene expression)
+T352	SO 7871 7877	repeat
+#352	AnnotatorNotes T352	SO:0000726 (repeat_unit)
+T353	SO 7871 7877	repeat
+#353	AnnotatorNotes T353	SO:0000657 (repeat_region)
+T354	GO_MF 7879 7890	DNA binding
+#354	AnnotatorNotes T354	GO:0003677 (DNA binding)
+T355	SO 7879 7882	DNA
+#355	AnnotatorNotes T355	SO:0000352 (DNA)
+T356	SO 7960 7967	peptide
+#356	AnnotatorNotes T356	SO:0001407 (peptidyl)
+T357	EntrezGene 7999 8004	RAD51
+#357	AnnotatorNotes T357	EG:5888
+T358	PR 7999 8004	RAD51
+#358	AnnotatorNotes T358	PR:000013672 (DNA repair protein RAD51 1)
+T359	GO_BP 8008 8016	assemble
+#359	AnnotatorNotes T359	GO:0022607 (cellular component assembly)
+T360	SO 8046 8049	DNA
+#360	AnnotatorNotes T360	SO:0000352 (DNA)
+T361	SO 8058 8065	peptide
+#361	AnnotatorNotes T361	SO:0001407 (peptidyl)
+T362	EntrezGene 8099 8104	RAD51
+#362	AnnotatorNotes T362	EG:5888
+T363	PR 8099 8104	RAD51
+#363	AnnotatorNotes T363	PR:000013672 (DNA repair protein RAD51 1)
+T364	SO 8105 8108	DNA
+#364	AnnotatorNotes T364	SO:0000352 (DNA)
+T365	EntrezGene 8183 8188	BRCA2
+#365	AnnotatorNotes T365	EG:675
+T366	PR 8183 8188	BRCA2
+#366	AnnotatorNotes T366	PR:000004804 (breast cancer type 2 susceptibility protein)
+T367	CHEBI 8189 8196	protein
+#367	AnnotatorNotes T367	CHEBI:36080 (proteins)
+T368	EntrezGene 8248 8253	RAD51
+#368	AnnotatorNotes T368	EG:5888
+T369	PR 8248 8253	RAD51
+#369	AnnotatorNotes T369	PR:000013672 (DNA repair protein RAD51 1)
+T370	SO 8254 8257	DNA
+#370	AnnotatorNotes T370	SO:0000352 (DNA)
+T371	italic 8312 8317	et al
+#371	AnnotatorNotes T371	italic (null)
+T372	EntrezGene 8410 8415	BRCA2
+#372	AnnotatorNotes T372	EG:675
+T373	PR 8410 8415	BRCA2
+#373	AnnotatorNotes T373	PR:000004804 (breast cancer type 2 susceptibility protein)
+T374	GO_BP 8416 8424	promotes
+#374	AnnotatorNotes T374	GO:0048518 (positive regulation of biological process)
+T375	EntrezGene 8425 8430	RAD51
+#375	AnnotatorNotes T375	EG:5888
+T376	PR 8425 8430	RAD51
+#376	AnnotatorNotes T376	PR:000013672 (DNA repair protein RAD51 1)
+T377	GO_BP 8441 8454	recombination
+#377	AnnotatorNotes T377	GO:0006310 (DNA recombination)
+T378	GO_BP 8460 8472	localization
+#378	AnnotatorNotes T378	GO:0051179 (localization)
+T379	EntrezGene 8476 8481	RAD51
+#379	AnnotatorNotes T379	EG:5888
+T380	PR 8476 8481	RAD51
+#380	AnnotatorNotes T380	PR:000013672 (DNA repair protein RAD51 1)
+T381	CL 8506 8511	cells
+#381	AnnotatorNotes T381	CL:0000000 (cell)
+T382	GO_CC 8506 8511	cells
+#382	AnnotatorNotes T382	GO:0005623 (cell)
+T383	NCBITaxon 8522 8527	human
+#383	AnnotatorNotes T383	NCBITaxon:9606 (Homo sapiens)
+T384	italic 8560 8565	et al
+#384	AnnotatorNotes T384	italic (null)
+T385	EntrezGene 8636 8641	BRCA2
+#385	AnnotatorNotes T385	EG:675
+T386	PR 8636 8641	BRCA2
+#386	AnnotatorNotes T386	PR:000004804 (breast cancer type 2 susceptibility protein)
+T387	CHEBI 8642 8649	protein
+#387	AnnotatorNotes T387	CHEBI:36080 (proteins)
+T388	GO_BP 8650 8659	expressed
+#388	AnnotatorNotes T388	GO:0010467 (gene expression)
+T389	CL 8671 8676	cells
+#389	AnnotatorNotes T389	CL:0000000 (cell)
+T390	GO_CC 8671 8676	cells
+#390	AnnotatorNotes T390	GO:0005623 (cell)
+T391	GO_CC 8701 8710	cytoplasm
+#391	AnnotatorNotes T391	GO:0005737 (cytoplasm)
+T392	CHEBI 8757 8764	protein
+#392	AnnotatorNotes T392	CHEBI:36080 (proteins)
+T393	GO_CC 8773 8780	nuclear
+#393	AnnotatorNotes T393	GO:0005634 (nucleus)
+T394	GO_BP 8781 8793	localization
+#394	AnnotatorNotes T394	GO:0051179 (localization)
+T395	SO 8794 8800	signal
+#395	AnnotatorNotes T395	SO:0000418 (signal_peptide)
+T396	SO 8794 8800	signal
+#396	AnnotatorNotes T396	SO:0000725 (transit_peptide)
+T397	italic 8814 8819	et al
+#397	AnnotatorNotes T397	italic (null)
+T398	CL 8835 8840	cells
+#398	AnnotatorNotes T398	CL:0000000 (cell)
+T399	GO_CC 8835 8840	cells
+#399	AnnotatorNotes T399	GO:0005623 (cell)
+T400	GO_CC 8860 8867	nuclear
+#400	AnnotatorNotes T400	GO:0005634 (nucleus)
+T401	GO_BP 8868 8880	localization
+#401	AnnotatorNotes T401	GO:0051179 (localization)
+T402	EntrezGene 8884 8889	RAD51
+#402	AnnotatorNotes T402	EG:5888
+T403	PR 8884 8889	RAD51
+#403	AnnotatorNotes T403	PR:000013672 (DNA repair protein RAD51 1)
+T404	EntrezGene 8920 8925	RAD51
+#404	AnnotatorNotes T404	EG:5888
+T405	PR 8920 8925	RAD51
+#405	AnnotatorNotes T405	PR:000013672 (DNA repair protein RAD51 1)
+T406	GO_BP 8938 8945	carried
+#406	AnnotatorNotes T406	GO:0006810 (transport)
+T407	GO_CC 8953 8960	nucleus
+#407	AnnotatorNotes T407	GO:0005634 (nucleus)
+T408	GO_MF 8964 8971	binding
+#408	AnnotatorNotes T408	GO:0005488 (binding)
+T409	EntrezGene 8972 8977	BRCA2
+#409	AnnotatorNotes T409	EG:675
+T410	PR 8972 8977	BRCA2
+#410	AnnotatorNotes T410	PR:000004804 (breast cancer type 2 susceptibility protein)
+T411	EntrezGene 8999 9004	RAD51
+#411	AnnotatorNotes T411	EG:5888
+T412	PR 8999 9004	RAD51
+#412	AnnotatorNotes T412	PR:000013672 (DNA repair protein RAD51 1)
+T413	EntrezGene 9037 9042	BRCA2
+#413	AnnotatorNotes T413	EG:675
+T414	PR 9037 9042	BRCA2
+#414	AnnotatorNotes T414	PR:000004804 (breast cancer type 2 susceptibility protein)
+T415	GO_BP 9055 9064	transport
+#415	AnnotatorNotes T415	GO:0006810 (transport)
+T416	EntrezGene 9089 9094	BRCA2
+#416	AnnotatorNotes T416	EG:675
+T417	PR 9089 9094	BRCA2
+#417	AnnotatorNotes T417	PR:000004804 (breast cancer type 2 susceptibility protein)
+T418	GO_CC 9102 9111	cytoplasm
+#418	AnnotatorNotes T418	GO:0005737 (cytoplasm)
+T419	GO_BP 9116 9125	sequester
+#419	AnnotatorNotes T419	GO:0051235 (maintenance of localization)
+T420	EntrezGene 9126 9131	RAD51
+#420	AnnotatorNotes T420	EG:5888
+T421	PR 9126 9131	RAD51
+#421	AnnotatorNotes T421	PR:000013672 (DNA repair protein RAD51 1)
+T422	GO_BP 9161 9170	transport
+#422	AnnotatorNotes T422	GO:0006810 (transport)
+T423	EntrezGene 9236 9241	RAD51
+#423	AnnotatorNotes T423	EG:5888
+T424	PR 9236 9241	RAD51
+#424	AnnotatorNotes T424	PR:000013672 (DNA repair protein RAD51 1)
+T425	EntrezGene 9276 9281	BRCA2
+#425	AnnotatorNotes T425	EG:675
+T426	PR 9276 9281	BRCA2
+#426	AnnotatorNotes T426	PR:000004804 (breast cancer type 2 susceptibility protein)
+T427	EntrezGene 9327 9332	BRCA2
+#427	AnnotatorNotes T427	EG:675
+T428	PR 9327 9332	BRCA2
+#428	AnnotatorNotes T428	PR:000004804 (breast cancer type 2 susceptibility protein)
+T429	EntrezGene 9382 9387	RAD51
+#429	AnnotatorNotes T429	EG:5888
+T430	PR 9382 9387	RAD51
+#430	AnnotatorNotes T430	PR:000013672 (DNA repair protein RAD51 1)
+T431	EntrezGene 9388 9393	BRCA2
+#431	AnnotatorNotes T431	EG:675
+T432	PR 9388 9393	BRCA2
+#432	AnnotatorNotes T432	PR:000004804 (breast cancer type 2 susceptibility protein)
+T433	EntrezGene 9456 9461	BRCA2
+#433	AnnotatorNotes T433	EG:675
+T434	PR 9456 9461	BRCA2
+#434	AnnotatorNotes T434	PR:000004804 (breast cancer type 2 susceptibility protein)
+T435	GO_BP 9465 9474	promoting
+#435	AnnotatorNotes T435	GO:0048518 (positive regulation of biological process)
+T436	GO_BP 9475 9488	recombination
+#436	AnnotatorNotes T436	GO:0006310 (DNA recombination)
+T437	GO_CC 9515 9522	nuclear
+#437	AnnotatorNotes T437	GO:0005634 (nucleus)
+T438	GO_MF 9523 9534	transporter
+#438	AnnotatorNotes T438	GO:0005215 (transporter activity)
+T439	independent_continuant 9523 9534	transporter
+#439	AnnotatorNotes T439	independent_continuant
+T440	EntrezGene 9538 9543	RAD51
+#440	AnnotatorNotes T440	EG:5888
+T441	PR 9538 9543	RAD51
+#441	AnnotatorNotes T441	PR:000013672 (DNA repair protein RAD51 1)
+T442	italic 9590 9595	et al
+#442	AnnotatorNotes T442	italic (null)
+T443	EntrezGene 9629 9634	RAD51
+#443	AnnotatorNotes T443	EG:5888
+T444	PR 9629 9634	RAD51
+#444	AnnotatorNotes T444	PR:000013672 (DNA repair protein RAD51 1)
+T445	EntrezGene 9635 9640	BRCA2
+#445	AnnotatorNotes T445	EG:675
+T446	PR 9635 9640	BRCA2
+#446	AnnotatorNotes T446	PR:000004804 (breast cancer type 2 susceptibility protein)
+T447	EntrezGene 9665 9670	RAD51
+#447	AnnotatorNotes T447	EG:5888
+T448	PR 9665 9670	RAD51
+#448	AnnotatorNotes T448	PR:000013672 (DNA repair protein RAD51 1)
+T449	EntrezGene 9766 9771	BRCA2
+#449	AnnotatorNotes T449	EG:675
+T450	PR 9766 9771	BRCA2
+#450	AnnotatorNotes T450	PR:000004804 (breast cancer type 2 susceptibility protein)
+T451	EntrezGene 9773 9778	RAD51
+#451	AnnotatorNotes T451	EG:5888
+T452	PR 9773 9778	RAD51
+#452	AnnotatorNotes T452	PR:000013672 (DNA repair protein RAD51 1)
+T453	GO_BP 9830 9839	recruited
+#453	AnnotatorNotes T453	GO:0051234 (establishment of localization)
+T454	GO_BP 9858 9864	repair
+#454	AnnotatorNotes T454	GO:0006281 (DNA repair)
+T455	GO_CC 9865 9872	complex
+#455	AnnotatorNotes T455	GO:0032991 (macromolecular complex)
+T456	EntrezGene 9938 9943	RAD51
+#456	AnnotatorNotes T456	EG:5888
+T457	PR 9938 9943	RAD51
+#457	AnnotatorNotes T457	PR:000013672 (DNA repair protein RAD51 1)
+T458	GO_MF 9957 9964	binding
+#458	AnnotatorNotes T458	GO:0005488 (binding)
+T459	SO 9980 9993	single-strand
+#459	AnnotatorNotes T459	SO:0000984 (single)
+T460	SO 9987 9993	strand
+#460	AnnotatorNotes T460	SO:0000001 (region)
+T461	SO 9994 9997	DNA
+#461	AnnotatorNotes T461	SO:0000352 (DNA)
+T462	SO 10011 10024	double-strand
+#462	AnnotatorNotes T462	SO:0000985 (double)
+T463	SO 10018 10024	strand
+#463	AnnotatorNotes T463	SO:0000001 (region)
+T464	SO 10025 10028	DNA
+#464	AnnotatorNotes T464	SO:0000352 (DNA)
+T465	GO_BP 10073 10083	regulatory
+#465	AnnotatorNotes T465	GO:0065007 (biological regulation)
+T466	EntrezGene 10101 10106	BRCA2
+#466	AnnotatorNotes T466	EG:675
+T467	PR 10101 10106	BRCA2
+#467	AnnotatorNotes T467	PR:000004804 (breast cancer type 2 susceptibility protein)
+T468	GO_BP 10124 10132	suppress
+#468	AnnotatorNotes T468	GO:0048519 (negative regulation of biological process)
+T469	EntrezGene 10133 10138	RAD51
+#469	AnnotatorNotes T469	EG:5888
+T470	PR 10133 10138	RAD51
+#470	AnnotatorNotes T470	PR:000013672 (DNA repair protein RAD51 1)
+T471	GO_BP 10169 10182	sequestration
+#471	AnnotatorNotes T471	GO:0051235 (maintenance of localization)
+T472	EntrezGene 10186 10191	RAD51
+#472	AnnotatorNotes T472	EG:5888
+T473	PR 10186 10191	RAD51
+#473	AnnotatorNotes T473	PR:000013672 (DNA repair protein RAD51 1)
+T474	GO_BP 10248 10259	suppression
+#474	AnnotatorNotes T474	GO:0048519 (negative regulation of biological process)
+T475	EntrezGene 10263 10268	RAD51
+#475	AnnotatorNotes T475	EG:5888
+T476	PR 10263 10268	RAD51
+#476	AnnotatorNotes T476	PR:000013672 (DNA repair protein RAD51 1)
+T477	EntrezGene 10321 10326	RAD51
+#477	AnnotatorNotes T477	EG:5888
+T478	PR 10321 10326	RAD51
+#478	AnnotatorNotes T478	PR:000013672 (DNA repair protein RAD51 1)
+T479	GO_MF 10332 10363	binding to the regions of ssDNA
+#479	AnnotatorNotes T479	"binding to .. regions of ssDNA" GO:0003697 (single-stranded DNA binding)
+T480	SO 10347 10354	regions
+#480	AnnotatorNotes T480	SO:0000001 (region)
+T481	GO_BP 10388 10403	DNA replication
+#481	AnnotatorNotes T481	GO:0006260 (DNA replication)
+T482	SO 10388 10391	DNA
+#482	AnnotatorNotes T482	SO:0000352 (DNA)
+T483	EntrezGene 10405 10410	BRCA2
+#483	AnnotatorNotes T483	EG:675
+T484	PR 10405 10410	BRCA2
+#484	AnnotatorNotes T484	PR:000004804 (breast cancer type 2 susceptibility protein)
+T485	GO_BP 10420 10427	promote
+#485	AnnotatorNotes T485	GO:0048518 (positive regulation of biological process)
+T486	EntrezGene 10428 10433	RAD51
+#486	AnnotatorNotes T486	EG:5888
+T487	PR 10428 10433	RAD51
+#487	AnnotatorNotes T487	PR:000013672 (DNA repair protein RAD51 1)
+T488	GO_BP 10434 10480	assembly into recombinational repair complexes
+#488	AnnotatorNotes T488	"assembly into .. complexes" GO:0065003 (macromolecular complex assembly)
+T489	GO_BP 10448 10470	recombinational repair
+#489	AnnotatorNotes T489	GO:0000725 (recombinational repair)
+T490	GO_CC 10471 10480	complexes
+#490	AnnotatorNotes T490	GO:0032991 (macromolecular complex)
+T491	GO_BP 10487 10516	negative regulatory mechanism
+#491	AnnotatorNotes T491	GO:0048519 (negative regulation of biological process)
+T492	EntrezGene 10535 10540	RAD51
+#492	AnnotatorNotes T492	EG:5888
+T493	PR 10535 10540	RAD51
+#493	AnnotatorNotes T493	PR:000013672 (DNA repair protein RAD51 1)
+T494	EntrezGene 10541 10546	BRCA2
+#494	AnnotatorNotes T494	EG:675
+T495	PR 10541 10546	BRCA2
+#495	AnnotatorNotes T495	PR:000004804 (breast cancer type 2 susceptibility protein)
+T496	GO_BP 10623 10631	assembly
+#496	AnnotatorNotes T496	GO:0022607 (cellular component assembly)
+T497	EntrezGene 10635 10640	RAD51
+#497	AnnotatorNotes T497	EG:5888
+T498	PR 10635 10640	RAD51
+#498	AnnotatorNotes T498	PR:000013672 (DNA repair protein RAD51 1)
+T499	SO 10652 10657	sites
+#499	AnnotatorNotes T499	SO:0000001 (region)
+T500	SO 10719 10726	peptide
+#500	AnnotatorNotes T500	SO:0001407 (peptidyl)
+T501	GO_BP 10730 10737	repress
+#501	AnnotatorNotes T501	GO:0048519 (negative regulation of biological process)
+T502	EntrezGene 10742 10747	RAD51
+#502	AnnotatorNotes T502	EG:5888
+T503	PR 10742 10747	RAD51
+#503	AnnotatorNotes T503	PR:000013672 (DNA repair protein RAD51 1)
+T504	EntrezGene 10748 10753	BRCA2
+#504	AnnotatorNotes T504	EG:675
+T505	PR 10748 10753	BRCA2
+#505	AnnotatorNotes T505	PR:000004804 (breast cancer type 2 susceptibility protein)
+T506	CHEBI 10802 10809	protein
+#506	AnnotatorNotes T506	CHEBI:36080 (proteins)
+T507	GO_BP 10813 10824	suppressing
+#507	AnnotatorNotes T507	GO:0048519 (negative regulation of biological process)
+T508	EntrezGene 10834 10839	RAD51
+#508	AnnotatorNotes T508	EG:5888
+T509	PR 10834 10839	RAD51
+#509	AnnotatorNotes T509	PR:000013672 (DNA repair protein RAD51 1)
+T510	EntrezGene 10840 10845	BRCA2
+#510	AnnotatorNotes T510	EG:675
+T511	PR 10840 10845	BRCA2
+#511	AnnotatorNotes T511	PR:000004804 (breast cancer type 2 susceptibility protein)
+T512	EntrezGene 10892 10897	BRCA2
+#512	AnnotatorNotes T512	EG:675
+T513	PR 10892 10897	BRCA2
+#513	AnnotatorNotes T513	PR:000004804 (breast cancer type 2 susceptibility protein)
+T514	GO_BP 10901 10910	promoting
+#514	AnnotatorNotes T514	GO:0048518 (positive regulation of biological process)
+T515	EntrezGene 10911 10916	RAD51
+#515	AnnotatorNotes T515	EG:5888
+T516	PR 10911 10916	RAD51
+#516	AnnotatorNotes T516	PR:000013672 (DNA repair protein RAD51 1)
+T517	GO_BP 10927 10949	recombinational repair
+#517	AnnotatorNotes T517	GO:0000725 (recombinational repair)
+T518	GO_BP 10972 10980	assembly
+#518	AnnotatorNotes T518	GO:0022607 (cellular component assembly)
+T519	EntrezGene 10984 10989	RAD51
+#519	AnnotatorNotes T519	EG:5888
+T520	PR 10984 10989	RAD51
+#520	AnnotatorNotes T520	PR:000013672 (DNA repair protein RAD51 1)
+T521	SO 11001 11006	sites
+#521	AnnotatorNotes T521	SO:0000001 (region)
+T522	CHEBI 11026 11034	proteins
+#522	AnnotatorNotes T522	CHEBI:36080 (proteins)
+T523	PR 11054 11059	RAD51
+#523	AnnotatorNotes T523	PR:000013672 (DNA repair protein RAD51 1)
+T524	GO_BP 11085 11093	assembly
+#524	AnnotatorNotes T524	GO:0022607 (cellular component assembly)
+T525	PR 11097 11102	RAD51
+#525	AnnotatorNotes T525	PR:000013672 (DNA repair protein RAD51 1)
+T526	SO 11106 11111	sites
+#526	AnnotatorNotes T526	SO:0000001 (region)
+T527	SO 11115 11118	DNA
+#527	AnnotatorNotes T527	SO:0000352 (DNA)
+T528	PR 11146 11151	RAD51
+#528	AnnotatorNotes T528	PR:000013672 (DNA repair protein RAD51 1)
+T529	SO 11152 11160	paralogs
+#529	AnnotatorNotes T529	SO:0000854 (paralogous_region)
+T530	PR 11186 11191	XRCC2
+#530	AnnotatorNotes T530	PR:000017505 (DNA repair protein XRCC2)
+T531	PR 11193 11198	XRCC3
+#531	AnnotatorNotes T531	PR:000017506 (DNA repair protein XRCC3)
+T532	PR 11200 11206	RAD51B
+#532	AnnotatorNotes T532	PR:000013676 (DNA repair protein RAD51 2)
+T533	PR 11208 11214	RAD51C
+#533	AnnotatorNotes T533	PR:000013675 (DNA repair protein RAD51 3)
+T534	PR 11219 11225	RAD51D
+#534	AnnotatorNotes T534	PR:000013677 (DNA repair protein RAD51 4)
+T535	GO_CC 11245 11252	complex
+#535	AnnotatorNotes T535	GO:0032991 (macromolecular complex)
+T536	GO_BP 11267 11275	promotes
+#536	AnnotatorNotes T536	GO:0048518 (positive regulation of biological process)
+T537	PR 11276 11281	RAD51
+#537	AnnotatorNotes T537	PR:000013672 (DNA repair protein RAD51 1)
+T538	GO_BP 11282 11290	assembly
+#538	AnnotatorNotes T538	GO:0022607 (cellular component assembly)
+T539	EntrezGene 11297 11302	BRCA2
+#539	AnnotatorNotes T539	EG:675
+T540	PR 11297 11302	BRCA2
+#540	AnnotatorNotes T540	PR:000004804 (breast cancer type 2 susceptibility protein)
+T541	EntrezGene 11324 11329	RAD51
+#541	AnnotatorNotes T541	EG:5888
+T542	PR 11324 11329	RAD51
+#542	AnnotatorNotes T542	PR:000013672 (DNA repair protein RAD51 1)
+T543	SO 11330 11338	paralogs
+#543	AnnotatorNotes T543	SO:0000854 (paralogous_region)
+T544	GO_BP 11342 11351	promoting
+#544	AnnotatorNotes T544	GO:0048518 (positive regulation of biological process)
+T545	EntrezGene 11352 11357	RAD51
+#545	AnnotatorNotes T545	EG:5888
+T546	PR 11352 11357	RAD51
+#546	AnnotatorNotes T546	PR:000013672 (DNA repair protein RAD51 1)
+T547	GO_BP 11358 11366	assembly
+#547	AnnotatorNotes T547	GO:0022607 (cellular component assembly)
+T548	GO_BP 11399 11415	assembly pathway
+#548	AnnotatorNotes T548	GO:0022607 (cellular component assembly)
+T549	PR 11438 11443	BRCA2
+#549	AnnotatorNotes T549	PR:000004804 (breast cancer type 2 susceptibility protein)
+T550	GO_BP 11444 11453	localizes
+#550	AnnotatorNotes T550	GO:0051179 (localization)
+T551	PR 11493 11498	RAD51
+#551	AnnotatorNotes T551	PR:000013672 (DNA repair protein RAD51 1)
+T552	EntrezGene 11542 11547	BRCA2
+#552	AnnotatorNotes T552	EG:675
+T553	PR 11542 11547	BRCA2
+#553	AnnotatorNotes T553	PR:000004804 (breast cancer type 2 susceptibility protein)
+T554	GO_BP 11573 11610	assembly of the recombination complex
+#554	AnnotatorNotes T554	"assembly of .. complex" GO:0065003 (macromolecular complex assembly)
+T555	GO_BP 11589 11602	recombination
+#555	AnnotatorNotes T555	GO:0006310 (DNA recombination)
+T556	GO_CC 11603 11610	complex
+#556	AnnotatorNotes T556	GO:0032991 (macromolecular complex)
+T557	EntrezGene 11695 11700	BRCA2
+#557	AnnotatorNotes T557	EG:675
+T558	PR 11695 11700	BRCA2
+#558	AnnotatorNotes T558	PR:000004804 (breast cancer type 2 susceptibility protein)
+T559	EntrezGene 11701 11706	RAD51
+#559	AnnotatorNotes T559	EG:5888
+T560	PR 11701 11706	RAD51
+#560	AnnotatorNotes T560	PR:000013672 (DNA repair protein RAD51 1)
+T561	EntrezGene 11765 11770	BRCA2
+#561	AnnotatorNotes T561	EG:675
+T562	PR 11765 11770	BRCA2
+#562	AnnotatorNotes T562	PR:000004804 (breast cancer type 2 susceptibility protein)
+T563	EntrezGene 11799 11804	RAD51
+#563	AnnotatorNotes T563	EG:5888
+T564	PR 11799 11804	RAD51
+#564	AnnotatorNotes T564	PR:000013672 (DNA repair protein RAD51 1)
+T565	GO_BP 11805 11813	assembly
+#565	AnnotatorNotes T565	GO:0022607 (cellular component assembly)
+T566	GO_BP 11843 11850	promote
+#566	AnnotatorNotes T566	GO:0048518 (positive regulation of biological process)
+T567	EntrezGene 11862 11867	RAD51
+#567	AnnotatorNotes T567	EG:5888
+T568	PR 11862 11867	RAD51
+#568	AnnotatorNotes T568	PR:000013672 (DNA repair protein RAD51 1)
+T569	GO_BP 11868 11876	assembly
+#569	AnnotatorNotes T569	GO:0022607 (cellular component assembly)
+T570	SO 11880 11883	DNA
+#570	AnnotatorNotes T570	SO:0000352 (DNA)
+T571	GO_BP 11910 11918	response
+#571	AnnotatorNotes T571	GO:0050896 (response to stimulus)
+T572	EntrezGene 12008 12013	BRCA2
+#572	AnnotatorNotes T572	EG:675
+T573	PR 12008 12013	BRCA2
+#573	AnnotatorNotes T573	PR:000004804 (breast cancer type 2 susceptibility protein)
+T574	EntrezGene 12018 12023	RAD51
+#574	AnnotatorNotes T574	EG:5888
+T575	PR 12018 12023	RAD51
+#575	AnnotatorNotes T575	PR:000013672 (DNA repair protein RAD51 1)
+T576	GO_BP 12031 12053	recombinational repair
+#576	AnnotatorNotes T576	GO:0000725 (recombinational repair)
+T577	EntrezGene 12128 12133	BRCA2
+#577	AnnotatorNotes T577	EG:675
+T578	PR 12128 12133	BRCA2
+#578	AnnotatorNotes T578	PR:000004804 (breast cancer type 2 susceptibility protein)
+T579	GO_BP 12148 12160	transporting
+#579	AnnotatorNotes T579	GO:0006810 (transport)
+T580	EntrezGene 12161 12166	RAD51
+#580	AnnotatorNotes T580	EG:5888
+T581	PR 12161 12166	RAD51
+#581	AnnotatorNotes T581	PR:000013672 (DNA repair protein RAD51 1)
+T582	GO_CC 12174 12181	nucleus
+#582	AnnotatorNotes T582	GO:0005634 (nucleus)
+T583	GO_CC 12220 12227	nuclear
+#583	AnnotatorNotes T583	GO:0005634 (nucleus)
+T584	GO_BP 12228 12240	localization
+#584	AnnotatorNotes T584	GO:0051179 (localization)
+T585	SO 12241 12247	signal
+#585	AnnotatorNotes T585	SO:0000418 (signal_peptide)
+T586	SO 12241 12247	signal
+#586	AnnotatorNotes T586	SO:0000725 (transit_peptide)
+T587	EntrezGene 12251 12256	RAD51
+#587	AnnotatorNotes T587	EG:5888
+T588	PR 12251 12256	RAD51
+#588	AnnotatorNotes T588	PR:000013672 (DNA repair protein RAD51 1)
+T589	GO_BP 12264 12272	suppress
+#589	AnnotatorNotes T589	GO:0048519 (negative regulation of biological process)
+T590	EntrezGene 12277 12282	RAD51
+#590	AnnotatorNotes T590	EG:5888
+T591	PR 12277 12282	RAD51
+#591	AnnotatorNotes T591	PR:000013672 (DNA repair protein RAD51 1)
+T592	italic 12321 12326	BRCA2
+#592	AnnotatorNotes T592	italic (null)
+T593	EntrezGene 12321 12326	BRCA2
+#593	AnnotatorNotes T593	EG:675
+T594	PR 12321 12326	BRCA2
+#594	AnnotatorNotes T594	PR:000004804 (breast cancer type 2 susceptibility protein)
+T595	SO 12327 12335	mutation
+#595	AnnotatorNotes T595	SO:0001059 (sequence_alteration)
+T596	EntrezGene 12414 12419	BRCA2
+#596	AnnotatorNotes T596	EG:675
+T597	PR 12414 12419	BRCA2
+#597	AnnotatorNotes T597	PR:000004804 (breast cancer type 2 susceptibility protein)
+T598	GO_BP 12430 12438	promotes
+#598	AnnotatorNotes T598	GO:0048518 (positive regulation of biological process)
+T599	EntrezGene 12439 12444	RAD51
+#599	AnnotatorNotes T599	EG:5888
+T600	PR 12439 12444	RAD51
+#600	AnnotatorNotes T600	PR:000013672 (DNA repair protein RAD51 1)
+T601	EntrezGene 12445 12450	BRCA2
+#601	AnnotatorNotes T601	EG:675
+T602	PR 12445 12450	BRCA2
+#602	AnnotatorNotes T602	PR:000004804 (breast cancer type 2 susceptibility protein)
+T603	EntrezGene 12520 12525	BRCA2
+#603	AnnotatorNotes T603	EG:675
+T604	PR 12520 12525	BRCA2
+#604	AnnotatorNotes T604	PR:000004804 (breast cancer type 2 susceptibility protein)
+T605	GO_BP 12529 12551	recombinational repair
+#605	AnnotatorNotes T605	GO:0000725 (recombinational repair)
+T606	EntrezGene 12619 12624	BRCA2
+#606	AnnotatorNotes T606	EG:675
+T607	PR 12619 12624	BRCA2
+#607	AnnotatorNotes T607	PR:000004804 (breast cancer type 2 susceptibility protein)
+T608	EntrezGene 12674 12679	BRCA2
+#608	AnnotatorNotes T608	EG:675
+T609	PR 12674 12679	BRCA2
+#609	AnnotatorNotes T609	PR:000004804 (breast cancer type 2 susceptibility protein)
+T610	SO 12722 12735	double-strand
+#610	AnnotatorNotes T610	SO:0000985 (double)
+T611	SO 12729 12735	strand
+#611	AnnotatorNotes T611	SO:0000001 (region)
+T612	SO 12751 12764	double-strand
+#612	AnnotatorNotes T612	SO:0000985 (double)
+T613	SO 12758 12764	strand
+#613	AnnotatorNotes T613	SO:0000001 (region)
+T614	SO 12765 12768	DNA
+#614	AnnotatorNotes T614	SO:0000352 (DNA)
+T615	CHEBI 12815 12822	protein
+#615	AnnotatorNotes T615	CHEBI:36080 (proteins)
+T616	SO 12832 12845	single-strand
+#616	AnnotatorNotes T616	SO:0000984 (single)
+T617	SO 12839 12845	strand
+#617	AnnotatorNotes T617	SO:0000001 (region)
+T618	SO 12846 12849	DNA
+#618	AnnotatorNotes T618	SO:0000352 (DNA)
+T619	GO_BP 12882 12895	Recombination
+#619	AnnotatorNotes T619	GO:0006310 (DNA recombination)
+T620	GO_BP 12925 12949	homology-directed repair
+#620	AnnotatorNotes T620	GO:0000724 (double-strand break repair via homologous recombination)
+T621	EntrezGene 12966 12972	I-SceI
+#621	AnnotatorNotes T621	EG:854590
+T622	SO 12973 12977	site
+#622	AnnotatorNotes T622	SO:0000001 (region)
+T623	SO 12989 12995	mutant
+#623	AnnotatorNotes T623	SO:0001059 (sequence_alteration)
+T624	SO 13022 13035	double-strand
+#624	AnnotatorNotes T624	SO:0000985 (double)
+T625	SO 13029 13035	strand
+#625	AnnotatorNotes T625	SO:0000001 (region)
+T626	GO_BP 13054 13062	repaired
+#626	AnnotatorNotes T626	GO:0006281 (DNA repair)
+T627	SO 13082 13086	gene
+#627	AnnotatorNotes T627	SO:0000704 (gene)
+T628	SO 13119 13123	copy
+#628	AnnotatorNotes T628	SO:0001060 (sequence_variant)
+T629	SO 13134 13142	sequence
+#629	AnnotatorNotes T629	SO:0000001 (region)
+T630	GO_BP 13179 13188	formation
+#630	AnnotatorNotes T630	GO:0009058 (biosynthetic process)
+T631	SO 13221 13225	gene
+#631	AnnotatorNotes T631	SO:0000704 (gene)
+T632	SO 13251 13255	gene
+#632	AnnotatorNotes T632	SO:0000704 (gene)
+T633	GO_BP 13282 13291	synthesis
+#633	AnnotatorNotes T633	GO:0009058 (biosynthetic process)
+T634	GO_MF 13302 13321	annealing mechanism
+#634	AnnotatorNotes T634	GO:0033592 (RNA strand annealing activity)
+T635	GO_MF 13302 13321	annealing mechanism
+#635	AnnotatorNotes T635	GO:0000739 (DNA strand annealing activity)
+T636	EntrezGene 13353 13358	BRCA2
+#636	AnnotatorNotes T636	EG:675
+T637	PR 13353 13358	BRCA2
+#637	AnnotatorNotes T637	PR:000004804 (breast cancer type 2 susceptibility protein)
+T638	GO_BP 13362 13371	promoting
+#638	AnnotatorNotes T638	GO:0048518 (positive regulation of biological process)
+T639	GO_BP 13372 13380	assembly
+#639	AnnotatorNotes T639	GO:0022607 (cellular component assembly)
+T640	EntrezGene 13384 13389	Rad51
+#640	AnnotatorNotes T640	EG:5888
+T641	PR 13384 13389	Rad51
+#641	AnnotatorNotes T641	PR:000013672 (DNA repair protein RAD51 1)
+T642	SO 13393 13398	sites
+#642	AnnotatorNotes T642	SO:0000001 (region)
+T643	SO 13402 13405	DNA
+#643	AnnotatorNotes T643	SO:0000352 (DNA)
+T644	SO 13414 13429	Chromosomal DNA
+#644	AnnotatorNotes T644	SO:0000954 (DNA_chromosome)
+T645	GO_CC 13414 13425	Chromosomal
+#645	AnnotatorNotes T645	GO:0005694 (chromosome)
+T646	EntrezGene 13467 13472	Rad51
+#646	AnnotatorNotes T646	EG:5888
+T647	PR 13467 13472	Rad51
+#647	AnnotatorNotes T647	PR:000013672 (DNA repair protein RAD51 1)
+T648	EntrezGene 13494 13499	BRCA2
+#648	AnnotatorNotes T648	EG:675
+T649	PR 13494 13499	BRCA2
+#649	AnnotatorNotes T649	PR:000004804 (breast cancer type 2 susceptibility protein)
+T650	bold 13514 13517	(a)
+#650	AnnotatorNotes T650	bold (null)
+T651	SO 13546 13549	DNA
+#651	AnnotatorNotes T651	SO:0000352 (DNA)
+T652	EntrezGene 13564 13569	BRCA2
+#652	AnnotatorNotes T652	EG:675
+T653	PR 13564 13569	BRCA2
+#653	AnnotatorNotes T653	PR:000004804 (breast cancer type 2 susceptibility protein)
+T654	EntrezGene 13570 13575	Rad51
+#654	AnnotatorNotes T654	EG:5888
+T655	PR 13570 13575	Rad51
+#655	AnnotatorNotes T655	PR:000013672 (DNA repair protein RAD51 1)
+T656	GO_BP 13603 13611	suppress
+#656	AnnotatorNotes T656	GO:0048519 (negative regulation of biological process)
+T657	EntrezGene 13612 13617	RAD51
+#657	AnnotatorNotes T657	EG:5888
+T658	PR 13612 13617	RAD51
+#658	AnnotatorNotes T658	PR:000013672 (DNA repair protein RAD51 1)
+T659	EntrezGene 13618 13623	BRCA2
+#659	AnnotatorNotes T659	EG:675
+T660	PR 13618 13623	BRCA2
+#660	AnnotatorNotes T660	PR:000004804 (breast cancer type 2 susceptibility protein)
+T661	SO 13643 13646	DNA
+#661	AnnotatorNotes T661	SO:0000352 (DNA)
+T662	EntrezGene 13686 13691	Rad51
+#662	AnnotatorNotes T662	EG:5888
+T663	PR 13686 13691	Rad51
+#663	AnnotatorNotes T663	PR:000013672 (DNA repair protein RAD51 1)
+T664	GO_BP 13695 13704	recruited
+#664	AnnotatorNotes T664	GO:0051234 (establishment of localization)
+T665	SO 13716 13721	sites
+#665	AnnotatorNotes T665	SO:0000001 (region)
+T666	GO_BP 13731 13742	polymerizes
+#666	AnnotatorNotes T666	GO:0051258 (protein polymerization)
+T667	EntrezGene 13788 13793	BRCA2
+#667	AnnotatorNotes T667	EG:675
+T668	PR 13788 13793	BRCA2
+#668	AnnotatorNotes T668	PR:000004804 (breast cancer type 2 susceptibility protein)
+T669	GO_BP 13814 13846	assembly of functional complexes
+#669	AnnotatorNotes T669	"assembly of .. complexes" GO:0065003 (macromolecular complex assembly)
+T670	GO_CC 13837 13846	complexes
+#670	AnnotatorNotes T670	GO:0032991 (macromolecular complex)
+T671	SO 13858 13863	sites
+#671	AnnotatorNotes T671	SO:0000001 (region)
+T672	EntrezGene 13907 13912	Rad51
+#672	AnnotatorNotes T672	EG:5888
+T673	PR 13907 13912	Rad51
+#673	AnnotatorNotes T673	PR:000013672 (DNA repair protein RAD51 1)
+T674	GO_BP 13924 13935	sequestered
+#674	AnnotatorNotes T674	GO:0051235 (maintenance of localization)
+T675	EntrezGene 13966 13971	BRCA2
+#675	AnnotatorNotes T675	EG:675
+T676	PR 13966 13971	BRCA2
+#676	AnnotatorNotes T676	PR:000004804 (breast cancer type 2 susceptibility protein)
+T677	CL 13982 13986	cell
+#677	AnnotatorNotes T677	CL:0000000 (cell)
+T678	GO_CC 13982 13986	cell
+#678	AnnotatorNotes T678	GO:0005623 (cell)
+T679	SO 13988 13994	mutant
+#679	AnnotatorNotes T679	SO:0001059 (sequence_alteration)
+T680	EntrezGene 13995 14000	Rad51
+#680	AnnotatorNotes T680	EG:5888
+T681	PR 13995 14000	Rad51
+#681	AnnotatorNotes T681	PR:000013672 (DNA repair protein RAD51 1)
+T682	SO 14025 14028	DNA
+#682	AnnotatorNotes T682	SO:0000352 (DNA)
+T683	SO 14039 14044	sites
+#683	AnnotatorNotes T683	SO:0000001 (region)
+T684	GO_BP 14074 14083	recruited
+#684	AnnotatorNotes T684	GO:0051234 (establishment of localization)
+T685	SO 14087 14092	sites
+#685	AnnotatorNotes T685	SO:0000001 (region)
+T686	bold 14104 14107	(b)
+#686	AnnotatorNotes T686	bold (null)
+T687	GO_BP 14108 14127	Positive regulation
+#687	AnnotatorNotes T687	GO:0048518 (positive regulation of biological process)
+T688	EntrezGene 14129 14134	BRCA2
+#688	AnnotatorNotes T688	EG:675
+T689	PR 14129 14134	BRCA2
+#689	AnnotatorNotes T689	PR:000004804 (breast cancer type 2 susceptibility protein)
+T690	EntrezGene 14166 14171	Rad51
+#690	AnnotatorNotes T690	EG:5888
+T691	PR 14166 14171	Rad51
+#691	AnnotatorNotes T691	PR:000013672 (DNA repair protein RAD51 1)
+T692	GO_BP 14175 14183	assemble
+#692	AnnotatorNotes T692	GO:0022607 (cellular component assembly)
+T693	GO_BP 14200 14222	recombinational repair
+#693	AnnotatorNotes T693	GO:0000725 (recombinational repair)
+T694	GO_CC 14223 14232	complexes
+#694	AnnotatorNotes T694	GO:0032991 (macromolecular complex)
+T695	SO 14236 14241	sites
+#695	AnnotatorNotes T695	SO:0000001 (region)
+T696	EntrezGene 14256 14260	BRCA
+#696	AnnotatorNotes T696	EG:675
+T697	CL 14271 14276	cells
+#697	AnnotatorNotes T697	CL:0000000 (cell)
+T698	GO_CC 14271 14276	cells
+#698	AnnotatorNotes T698	GO:0005623 (cell)
+T699	EntrezGene 14278 14283	Rad51
+#699	AnnotatorNotes T699	EG:5888
+T700	PR 14278 14283	Rad51
+#700	AnnotatorNotes T700	PR:000013672 (DNA repair protein RAD51 1)
+T701	SO 14308 14313	sites
+#701	AnnotatorNotes T701	SO:0000001 (region)
+T702	GO_BP 14342 14350	assembly
+#702	AnnotatorNotes T702	GO:0022607 (cellular component assembly)

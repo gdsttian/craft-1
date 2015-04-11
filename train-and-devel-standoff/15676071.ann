@@ -1,0 +1,2646 @@
+T1	GO_BP 0 14	Synaptogenesis
+#1	AnnotatorNotes T1	GO:0007416 (synaptogenesis)
+T2	GO_CC 19 32	outer segment
+#2	AnnotatorNotes T2	GO:0001750 (photoreceptor outer segment)
+T3	GO_BP 33 42	formation
+#3	AnnotatorNotes T3	GO:0022607 (cellular component assembly)
+T4	EntrezGene 81 84	Crx
+#4	AnnotatorNotes T4	EG:12951
+T5	PR 81 84	Crx
+#5	AnnotatorNotes T5	PR:000005904 (cone-rod homeobox protein)
+T6	SO 85 91	mutant
+#6	AnnotatorNotes T6	SO:0001059 (sequence_alteration)
+T7	NCBITaxon 92 96	mice
+#7	AnnotatorNotes T7	NCBITaxon:10088 (Mus)
+T8	NCBITaxon 168 179	individuals
+#8	AnnotatorNotes T8	NCBITaxon:1 (root)
+T9	GO_BP 210 215	birth
+#9	AnnotatorNotes T9	GO:0007567 (parturition)
+T10	GO_BP 252 284	development of the neural retina
+#10	AnnotatorNotes T10	"development of .. retina" GO:0060041 (retina development in camera-type eye)
+T11	SO 286 295	Mutations
+#11	AnnotatorNotes T11	SO:0001059 (sequence_alteration)
+T12	SO 299 304	genes
+#12	AnnotatorNotes T12	SO:0000704 (gene)
+T13	GO_BP 321 371	development and/or function of photoreceptor cells
+#13	AnnotatorNotes T13	"development .. of photoreceptor cells" GO:0042461 (photoreceptor cell development)
+T14	CL 352 371	photoreceptor cells
+#14	AnnotatorNotes T14	CL:0000210 (photoreceptor cell)
+T15	GO_CC 366 371	cells
+#15	AnnotatorNotes T15	GO:0005623 (cell)
+T16	SO 447 456	mutations
+#16	AnnotatorNotes T16	SO:0001059 (sequence_alteration)
+T17	CL 464 477	photoreceptor
+#17	AnnotatorNotes T17	CL:0000210 (photoreceptor cell)
+T18	GO_MF 478 498	transcription factor
+#18	AnnotatorNotes T18	GO:0003700 (transcription factor activity)
+T19	independent_continuant 478 498	transcription factor
+#19	AnnotatorNotes T19	independent_continuant
+T20	GO_BP 478 491	transcription
+#20	AnnotatorNotes T20	GO:0006350 (transcription)
+T21	EntrezGene 500 503	Crx
+#21	AnnotatorNotes T21	EG:12951
+T22	PR 500 503	Crx
+#22	AnnotatorNotes T22	PR:000005904 (cone-rod homeobox protein)
+T23	EntrezGene 517 520	Crx
+#23	AnnotatorNotes T23	EG:12951
+T24	PR 517 520	Crx
+#24	AnnotatorNotes T24	PR:000005904 (cone-rod homeobox protein)
+T25	SO 521 527	mutant
+#25	AnnotatorNotes T25	SO:0001059 (sequence_alteration)
+T26	NCBITaxon 538 542	mice
+#26	AnnotatorNotes T26	NCBITaxon:10088 (Mus)
+T27	GO_BP 547 554	created
+#27	AnnotatorNotes T27	GO:0000003 (reproduction)
+T28	EntrezGene 616 619	Crx
+#28	AnnotatorNotes T28	EG:12951
+T29	PR 616 619	Crx
+#29	AnnotatorNotes T29	PR:000005904 (cone-rod homeobox protein)
+T30	GO_BP 682 692	developing
+#30	AnnotatorNotes T30	GO:0032502 (developmental process)
+T31	EntrezGene 703 706	Crx
+#31	AnnotatorNotes T31	EG:12951
+T32	PR 703 706	Crx
+#32	AnnotatorNotes T32	PR:000005904 (cone-rod homeobox protein)
+T33	SO 707 713	mutant
+#33	AnnotatorNotes T33	SO:0001059 (sequence_alteration)
+T34	NCBITaxon 714 718	mice
+#34	AnnotatorNotes T34	NCBITaxon:10088 (Mus)
+T35	GO_CC 734 747	Outer segment
+#35	AnnotatorNotes T35	GO:0001750 (photoreceptor outer segment)
+T36	GO_BP 748 761	morphogenesis
+#36	AnnotatorNotes T36	GO:0009653 (anatomical structure morphogenesis)
+T37	GO_BP 835 845	production
+#37	AnnotatorNotes T37	GO:0022607 (cellular component assembly)
+T38	GO_BP 853 870	phototransduction
+#38	AnnotatorNotes T38	GO:0007602 (phototransduction)
+T39	EntrezGene 891 894	Crx
+#39	AnnotatorNotes T39	EG:12951
+T40	PR 891 894	Crx
+#40	AnnotatorNotes T40	PR:000005904 (cone-rod homeobox protein)
+T41	CL 898 912	photoreceptors
+#41	AnnotatorNotes T41	CL:0000210 (photoreceptor cell)
+T42	GO_CC 944 952	synaptic
+#42	AnnotatorNotes T42	GO:0045202 (synapse)
+T43	GO_CC 953 960	endings
+#43	AnnotatorNotes T43	GO:0043679 (nerve terminal)
+T44	GO_BP 1035 1049	synaptogenesis
+#44	AnnotatorNotes T44	GO:0007416 (synaptogenesis)
+T45	NCBITaxon 1063 1069	animal
+#45	AnnotatorNotes T45	NCBITaxon:33208 (Metazoa)
+T46	SO 1128 1132	gene
+#46	AnnotatorNotes T46	SO:0000704 (gene)
+T47	GO_BP 1162 1187	photoreceptor development
+#47	AnnotatorNotes T47	GO:0042461 (photoreceptor cell development)
+T48	CL 1162 1175	photoreceptor
+#48	AnnotatorNotes T48	CL:0000210 (photoreceptor cell)
+T49	CL 1261 1280	Photoreceptor cells
+#49	AnnotatorNotes T49	CL:0000210 (photoreceptor cell)
+T50	GO_CC 1275 1280	cells
+#50	AnnotatorNotes T50	GO:0005623 (cell)
+T51	GO_BP 1304 1310	vision
+#51	AnnotatorNotes T51	GO:0007601 (visual perception)
+T52	CL 1382 1397	sensory neurons
+#52	AnnotatorNotes T52	CL:0000101 (sensory neuron)
+T53	GO_BP 1382 1389	sensory
+#53	AnnotatorNotes T53	GO:0007600 (sensory perception)
+T54	NCBITaxon 1426 1435	organisms
+#54	AnnotatorNotes T54	NCBITaxon:1 (root)
+T55	GO_BP 1447 1454	sensing
+#55	AnnotatorNotes T55	GO:0007600 (sensory perception)
+T56	NCBITaxon 1465 1471	humans
+#56	AnnotatorNotes T56	NCBITaxon:9606 (Homo sapiens)
+T57	SO 1473 1480	genetic
+#57	AnnotatorNotes T57	SO:0000704 (gene)
+T58	CL 1563 1577	photoreceptors
+#58	AnnotatorNotes T58	CL:0000210 (photoreceptor cell)
+T59	CL 1603 1617	Photoreceptors
+#59	AnnotatorNotes T59	CL:0000210 (photoreceptor cell)
+T60	GO_BP 1706 1723	phototransduction
+#60	AnnotatorNotes T60	GO:0007602 (phototransduction)
+T61	GO_BP 1742 1782	development of vertebrate photoreceptors
+#61	AnnotatorNotes T61	"development of .. photoreceptors" GO:0042461 (photoreceptor cell development)
+T62	NCBITaxon 1757 1767	vertebrate
+#62	AnnotatorNotes T62	NCBITaxon:7742 (Vertebrata)
+T63	CL 1768 1782	photoreceptors
+#63	AnnotatorNotes T63	CL:0000210 (photoreceptor cell)
+T64	CHEBI 1871 1880	molecular
+#64	AnnotatorNotes T64	CHEBI:36357 (polyatomic entities)
+T65	GO_BP 1892 1902	regulating
+#65	AnnotatorNotes T65	GO:0065007 (biological regulation)
+T66	GO_BP 1903 1928	photoreceptor development
+#66	AnnotatorNotes T66	GO:0042461 (photoreceptor cell development)
+T67	CL 1903 1916	photoreceptor
+#67	AnnotatorNotes T67	CL:0000210 (photoreceptor cell)
+T68	PR 1970 1973	Crx
+#68	AnnotatorNotes T68	PR:000005904 (cone-rod homeobox protein)
+T69	PR 1975 1992	cone-rod homeobox
+#69	AnnotatorNotes T69	PR:000005904 (cone-rod homeobox protein)
+T70	CL 1975 1979	cone
+#70	AnnotatorNotes T70	CL:0000573 (retinal cone cell)
+T71	CL 1980 1983	rod
+#71	AnnotatorNotes T71	CL:0000604 (retinal rod cell)
+T72	SO 2020 2024	gene
+#72	AnnotatorNotes T72	SO:0000704 (gene)
+T73	GO_BP 2025 2034	expressed
+#73	AnnotatorNotes T73	GO:0010467 (gene expression)
+T74	CL 2052 2066	photoreceptors
+#74	AnnotatorNotes T74	CL:0000210 (photoreceptor cell)
+T75	GO_BP 2088 2099	development
+#75	AnnotatorNotes T75	GO:0032502 (developmental process)
+T76	PR 2133 2136	Crx
+#76	AnnotatorNotes T76	PR:000005904 (cone-rod homeobox protein)
+T77	GO_BP 2137 2152	gene expression
+#77	AnnotatorNotes T77	GO:0010467 (gene expression)
+T78	SO 2137 2141	gene
+#78	AnnotatorNotes T78	SO:0000704 (gene)
+T79	PR 2182 2186	Otx2
+#79	AnnotatorNotes T79	PR:000012086 (homeobox protein OTX2)
+T80	GO_BP 2240 2249	expressed
+#80	AnnotatorNotes T80	GO:0010467 (gene expression)
+T81	CL 2259 2278	photoreceptor cells
+#81	AnnotatorNotes T81	CL:0000210 (photoreceptor cell)
+T82	GO_CC 2273 2278	cells
+#82	AnnotatorNotes T82	GO:0005623 (cell)
+T83	CL 2287 2305	rod photoreceptors
+#83	AnnotatorNotes T83	CL:0000604 (retinal rod cell)
+T84	PR 2307 2310	Crx
+#84	AnnotatorNotes T84	PR:000005904 (cone-rod homeobox protein)
+T85	PR 2343 2346	Nrl
+#85	AnnotatorNotes T85	PR:000011432 (neural retina-specific leucine zipper protein)
+T86	CHEBI 2350 2357	leucine
+#86	AnnotatorNotes T86	CHEBI:32630 (leucine residue)
+T87	SO 2350 2357	leucine
+#87	AnnotatorNotes T87	SO:0001437 (leucine)
+T88	CHEBI 2365 2372	protein
+#88	AnnotatorNotes T88	CHEBI:36080 (proteins)
+T89	GO_BP 2404 2414	expression
+#89	AnnotatorNotes T89	GO:0010467 (gene expression)
+T90	CL 2432 2450	rod photoreceptors
+#90	AnnotatorNotes T90	CL:0000604 (retinal rod cell)
+T91	CL 2461 2474	photoreceptor
+#91	AnnotatorNotes T91	CL:0000210 (photoreceptor cell)
+T92	SO 2484 2489	genes
+#92	AnnotatorNotes T92	SO:0000704 (gene)
+T93	PR 2504 2507	Crx
+#93	AnnotatorNotes T93	PR:000005904 (cone-rod homeobox protein)
+T94	SO 2508 2524	binding elements
+#94	AnnotatorNotes T94	SO:0000409 (binding_site)
+T95	GO_MF 2508 2515	binding
+#95	AnnotatorNotes T95	GO:0005488 (binding)
+T96	SO 2534 2552	regulatory regions
+#96	AnnotatorNotes T96	SO:0005836 (regulatory_region)
+T97	GO_BP 2534 2544	regulatory
+#97	AnnotatorNotes T97	GO:0065007 (biological regulation)
+T98	PR 2569 2578	rhodopsin
+#98	AnnotatorNotes T98	PR:000001245 (rhodopsin)
+T99	SO 2603 2612	Mutations
+#99	AnnotatorNotes T99	SO:0001059 (sequence_alteration)
+T100	EntrezGene 2616 2619	Crx
+#100	AnnotatorNotes T100	EG:1406
+T101	PR 2616 2619	Crx
+#101	AnnotatorNotes T101	PR:000005904 (cone-rod homeobox protein)
+T102	NCBITaxon 2654 2659	human
+#102	AnnotatorNotes T102	NCBITaxon:9606 (Homo sapiens)
+T103	CL 2703 2707	cone
+#103	AnnotatorNotes T103	CL:0000573 (retinal cone cell)
+T104	CL 2708 2711	rod
+#104	AnnotatorNotes T104	CL:0000604 (retinal rod cell)
+T105	PR 2800 2803	Crx
+#105	AnnotatorNotes T105	PR:000005904 (cone-rod homeobox protein)
+T106	GO_BP 2852 2907	differentiation and maintainance of photoreceptor cells
+#106	AnnotatorNotes T106	"differentiation .. of .. cells" GO:0030154 (cell differentiation)
+T107	CL 2888 2907	photoreceptor cells
+#107	AnnotatorNotes T107	CL:0000210 (photoreceptor cell)
+T108	GO_CC 2902 2907	cells
+#108	AnnotatorNotes T108	GO:0005623 (cell)
+T109	SO 2939 2946	genetic
+#109	AnnotatorNotes T109	SO:0000704 (gene)
+T110	CL 2958 2972	photoreceptors
+#110	AnnotatorNotes T110	CL:0000210 (photoreceptor cell)
+T111	GO_BP 3068 3074	vision
+#111	AnnotatorNotes T111	GO:0007601 (visual perception)
+T112	GO_BP 3080 3085	birth
+#112	AnnotatorNotes T112	GO:0007567 (parturition)
+T113	SO 3087 3096	Mutations
+#113	AnnotatorNotes T113	SO:0001059 (sequence_alteration)
+T114	SO 3117 3122	genes
+#114	AnnotatorNotes T114	SO:0000704 (gene)
+T115	EntrezGene 3132 3135	Crx
+#115	AnnotatorNotes T115	EG:1406
+T116	PR 3132 3135	Crx
+#116	AnnotatorNotes T116	PR:000005904 (cone-rod homeobox protein)
+T117	EntrezGene 3187 3193	GUCY2D
+#117	AnnotatorNotes T117	EG:3000
+T118	PR 3187 3193	GUCY2D
+#118	AnnotatorNotes T118	PR:000008353 (retinal guanylyl cyclase 1)
+T119	EntrezGene 3200 3205	RPE65
+#119	AnnotatorNotes T119	EG:6121
+T120	PR 3200 3205	RPE65
+#120	AnnotatorNotes T120	PR:000014179 (retinal pigment epithelium-specific 65 kDa protein)
+T121	EntrezGene 3212 3218	AIPL-1
+#121	AnnotatorNotes T121	EG:23746
+T122	PR 3212 3218	AIPL-1
+#122	AnnotatorNotes T122	PR:000003876 (aryl-hydrocarbon-interacting protein-like 1)
+T123	EntrezGene 3225 3230	CRB-1
+#123	AnnotatorNotes T123	EG:23418
+T124	PR 3225 3230	CRB-1
+#124	AnnotatorNotes T124	PR:000005848 (crumbs 1)
+T125	EntrezGene 3241 3249	RPGRIP-1
+#125	AnnotatorNotes T125	EG:57096
+T126	PR 3241 3249	RPGRIP-1
+#126	AnnotatorNotes T126	PR:000014182 (X-linked retinitis pigmentosa GTPase regulator-interacting protein 1)
+T127	SO 3302 3325	genetically linked loci
+#127	AnnotatorNotes T127	SO:0000018 (linkage_group)
+T128	SO 3302 3313	genetically
+#128	AnnotatorNotes T128	SO:0000704 (gene)
+T129	SO 3332 3337	genes
+#129	AnnotatorNotes T129	SO:0000704 (gene)
+T130	EntrezGene 3369 3372	Crx
+#130	AnnotatorNotes T130	EG:1406
+T131	PR 3369 3372	Crx
+#131	AnnotatorNotes T131	PR:000005904 (cone-rod homeobox protein)
+T132	SO 3373 3382	mutations
+#132	AnnotatorNotes T132	SO:0001059 (sequence_alteration)
+T133	SO 3434 3442	mutation
+#133	AnnotatorNotes T133	SO:0001059 (sequence_alteration)
+T134	SO 3490 3494	form
+#134	AnnotatorNotes T134	SO:0001060 (sequence_variant)
+T135	EntrezGene 3498 3501	Crx
+#135	AnnotatorNotes T135	EG:1406
+T136	PR 3498 3501	Crx
+#136	AnnotatorNotes T136	PR:000005904 (cone-rod homeobox protein)
+T137	SO 3521 3530	mutations
+#137	AnnotatorNotes T137	SO:0001059 (sequence_alteration)
+T138	SO 3572 3578	allele
+#138	AnnotatorNotes T138	SO:0001023 (allele)
+T139	CHEBI 3589 3596	protein
+#139	AnnotatorNotes T139	CHEBI:36080 (proteins)
+T140	GO_MF 3612 3623	DNA-binding
+#140	AnnotatorNotes T140	GO:0003677 (DNA binding)
+T141	SO 3612 3615	DNA
+#141	AnnotatorNotes T141	SO:0000352 (DNA)
+T142	NCBITaxon 3818 3823	human
+#142	AnnotatorNotes T142	NCBITaxon:9606 (Homo sapiens)
+T143	GO_BP 4006 4016	developing
+#143	AnnotatorNotes T143	GO:0032502 (developmental process)
+T144	NCBITaxon 4053 4059	Animal
+#144	AnnotatorNotes T144	NCBITaxon:33208 (Metazoa)
+T145	SO 4228 4239	genetically
+#145	AnnotatorNotes T145	SO:0000704 (gene)
+T146	NCBITaxon 4275 4280	mouse
+#146	AnnotatorNotes T146	NCBITaxon:10088 (Mus)
+T147	GO_BP 4357 4382	photoreceptor development
+#147	AnnotatorNotes T147	GO:0042461 (photoreceptor cell development)
+T148	CL 4357 4370	photoreceptor
+#148	AnnotatorNotes T148	CL:0000210 (photoreceptor cell)
+T149	CL 4452 4471	photoreceptor cells
+#149	AnnotatorNotes T149	CL:0000210 (photoreceptor cell)
+T150	GO_CC 4466 4471	cells
+#150	AnnotatorNotes T150	GO:0005623 (cell)
+T151	CL 4515 4523	neuronal
+#151	AnnotatorNotes T151	CL:0000540 (neuron)
+T152	GO_BP 4524 4539	differentiation
+#152	AnnotatorNotes T152	GO:0030154 (cell differentiation)
+T153	CL 4541 4560	Photoreceptor cells
+#153	AnnotatorNotes T153	CL:0000210 (photoreceptor cell)
+T154	GO_CC 4555 4560	cells
+#154	AnnotatorNotes T154	GO:0005623 (cell)
+T155	GO_BP 4572 4581	polarized
+#155	AnnotatorNotes T155	GO:0030010 (establishment of cell polarity)
+T156	GO_CC 4592 4596	apex
+#156	AnnotatorNotes T156	GO:0045177 (apical part of cell)
+T157	CL 4604 4611	neurons
+#157	AnnotatorNotes T157	CL:0000540 (neuron)
+T158	GO_CC 4619 4629	membranous
+#158	AnnotatorNotes T158	GO:0016020 (membrane)
+T159	GO_CC 4630 4643	outer segment
+#159	AnnotatorNotes T159	GO:0001750 (photoreceptor outer segment)
+T160	CHEBI 4660 4668	proteins
+#160	AnnotatorNotes T160	CHEBI:36080 (proteins)
+T161	GO_BP 4685 4710	phototransduction cascade
+#161	AnnotatorNotes T161	GO:0007602 (phototransduction)
+T162	SO 4729 4738	mutations
+#162	AnnotatorNotes T162	SO:0001059 (sequence_alteration)
+T163	PR 4742 4751	rhodopsin
+#163	AnnotatorNotes T163	PR:000001245 (rhodopsin)
+T164	CHEBI 4776 4783	protein
+#164	AnnotatorNotes T164	CHEBI:36080 (proteins)
+T165	PR 4785 4795	peripherin
+#165	AnnotatorNotes T165	PR:000013290 (peripherin-2)
+T166	GO_BP 4828 4832	form
+#166	AnnotatorNotes T166	GO:0022607 (cellular component assembly)
+T167	GO_CC 4833 4847	outer segments
+#167	AnnotatorNotes T167	GO:0001750 (photoreceptor outer segment)
+T168	CL 4873 4887	photoreceptors
+#168	AnnotatorNotes T168	CL:0000210 (photoreceptor cell)
+T169	GO_CC 4903 4911	synaptic
+#169	AnnotatorNotes T169	GO:0045202 (synapse)
+T170	GO_CC 4912 4919	endings
+#170	AnnotatorNotes T170	GO:0043679 (nerve terminal)
+T171	GO_CC 4947 4988	processes of horizontal and bipolar cells
+#171	AnnotatorNotes T171	"processes of .. cells" GO:0042995 (cell projection)
+T172	CL 4960 4988	horizontal and bipolar cells
+#172	AnnotatorNotes T172	"horizontal .. cells" CL:0000745 (horizontal cell)
+T173	CL 4975 4988	bipolar cells
+#173	AnnotatorNotes T173	CL:0000103 (bipolar neuron)
+T174	GO_CC 4983 4988	cells
+#174	AnnotatorNotes T174	GO:0005623 (cell)
+T175	CL 4998 5001	Rod
+#175	AnnotatorNotes T175	CL:0000604 (retinal rod cell)
+T176	GO_BP 5012 5021	establish
+#176	AnnotatorNotes T176	GO:0022607 (cellular component assembly)
+T177	GO_CC 5038 5045	synapse
+#177	AnnotatorNotes T177	GO:0045202 (synapse)
+T178	CL 5051 5062	rod bipolar
+#178	AnnotatorNotes T178	CL:0000751 (rod bipolar cell)
+T179	GO_CC 5063 5072	dendrites
+#179	AnnotatorNotes T179	GO:0030425 (dendrite)
+T180	GO_CC 5077 5083	axonal
+#180	AnnotatorNotes T180	GO:0030424 (axon)
+T181	GO_CC 5084 5091	endings
+#181	AnnotatorNotes T181	GO:0043679 (nerve terminal)
+T182	CL 5095 5111	horizontal cells
+#182	AnnotatorNotes T182	CL:0000745 (horizontal cell)
+T183	GO_CC 5106 5111	cells
+#183	AnnotatorNotes T183	GO:0005623 (cell)
+T184	GO_CC 5118 5125	synapse
+#184	AnnotatorNotes T184	GO:0045202 (synapse)
+T185	GO_CC 5190 5199	cytoplasm
+#185	AnnotatorNotes T185	GO:0005737 (cytoplasm)
+T186	CL 5201 5205	Cone
+#186	AnnotatorNotes T186	CL:0000573 (retinal cone cell)
+T187	GO_BP 5215 5219	make
+#187	AnnotatorNotes T187	GO:0022607 (cellular component assembly)
+T188	GO_CC 5233 5241	synapses
+#188	AnnotatorNotes T188	GO:0045202 (synapse)
+T189	GO_CC 5251 5260	dendrites
+#189	AnnotatorNotes T189	GO:0030425 (dendrite)
+T190	CL 5264 5285	on-cone bipolar cells
+#190	AnnotatorNotes T190	"on .. bipolar cells" CL:0000749 (ON-bipolar cell)
+T191	CL 5267 5271	cone
+#191	AnnotatorNotes T191	CL:0000573 (retinal cone cell)
+T192	GO_CC 5280 5285	cells
+#192	AnnotatorNotes T192	GO:0005623 (cell)
+T193	CL 5290 5306	horizontal cells
+#193	AnnotatorNotes T193	CL:0000745 (horizontal cell)
+T194	GO_CC 5301 5306	cells
+#194	AnnotatorNotes T194	GO:0005623 (cell)
+T195	GO_CC 5336 5345	dendrites
+#195	AnnotatorNotes T195	GO:0030425 (dendrite)
+T196	CL 5349 5371	off-cone bipolar cells
+#196	AnnotatorNotes T196	"off .. bipolar cells" CL:0000750 (OFF-bipolar cell)
+T197	CL 5353 5357	cone
+#197	AnnotatorNotes T197	CL:0000573 (retinal cone cell)
+T198	GO_CC 5366 5371	cells
+#198	AnnotatorNotes T198	GO:0005623 (cell)
+T199	GO_BP 5385 5395	regulating
+#199	AnnotatorNotes T199	GO:0065007 (biological regulation)
+T200	GO_BP 5400 5439	formation of the photoreceptor synapses
+#200	AnnotatorNotes T200	"formation of .. synapses" GO:0007416 (synaptogenesis)
+T201	CL 5417 5430	photoreceptor
+#201	AnnotatorNotes T201	CL:0000210 (photoreceptor cell)
+T202	GO_CC 5431 5439	synapses
+#202	AnnotatorNotes T202	GO:0045202 (synapse)
+T203	CL 5477 5490	photoreceptor
+#203	AnnotatorNotes T203	CL:0000210 (photoreceptor cell)
+T204	GO_CC 5491 5499	synaptic
+#204	AnnotatorNotes T204	GO:0045202 (synapse)
+T205	CHEBI 5500 5507	protein
+#205	AnnotatorNotes T205	CHEBI:36080 (proteins)
+T206	PR 5509 5513	HRG4
+#206	AnnotatorNotes T206	PR:000017084 (protein unc-119 A)
+T207	PR 5536 5539	Crx
+#207	AnnotatorNotes T207	PR:000005904 (cone-rod homeobox protein)
+T208	SO 5547 5555	sequence
+#208	AnnotatorNotes T208	SO:0000001 (region)
+T209	GO_BP 5563 5589	transcriptional regulatory
+#209	AnnotatorNotes T209	GO:0045449 (regulation of transcription)
+T210	GO_BP 5563 5578	transcriptional
+#210	AnnotatorNotes T210	GO:0006350 (transcription)
+T211	SO 5579 5598	regulatory sequence
+#211	AnnotatorNotes T211	SO:0005836 (regulatory_region)
+T212	NCBITaxon 5625 5631	animal
+#212	AnnotatorNotes T212	NCBITaxon:33208 (Metazoa)
+T213	GO_BP 5751 5766	differentiation
+#213	AnnotatorNotes T213	GO:0030154 (cell differentiation)
+T214	GO_BP 5776 5793	synapse formation
+#214	AnnotatorNotes T214	GO:0007416 (synaptogenesis)
+T215	GO_CC 5776 5783	synapse
+#215	AnnotatorNotes T215	GO:0045202 (synapse)
+T216	GO_BP 5948 5963	differentiation
+#216	AnnotatorNotes T216	GO:0030154 (cell differentiation)
+T217	EntrezGene 5987 5990	Crx
+#217	AnnotatorNotes T217	EG:12951
+T218	PR 5987 5990	Crx
+#218	AnnotatorNotes T218	PR:000005904 (cone-rod homeobox protein)
+T219	NCBITaxon 5994 5998	mice
+#219	AnnotatorNotes T219	NCBITaxon:10088 (Mus)
+T220	EntrezGene 6078 6081	Crx
+#220	AnnotatorNotes T220	EG:12951
+T221	PR 6078 6081	Crx
+#221	AnnotatorNotes T221	PR:000005904 (cone-rod homeobox protein)
+T222	CL 6085 6099	photoreceptors
+#222	AnnotatorNotes T222	CL:0000210 (photoreceptor cell)
+T223	GO_CC 6132 6145	outer segment
+#223	AnnotatorNotes T223	GO:0001750 (photoreceptor outer segment)
+T224	GO_BP 6146 6155	formation
+#224	AnnotatorNotes T224	GO:0022607 (cellular component assembly)
+T225	CL 6196 6201	cells
+#225	AnnotatorNotes T225	CL:0000000 (cell)
+T226	GO_CC 6196 6201	cells
+#226	AnnotatorNotes T226	GO:0005623 (cell)
+T227	GO_CC 6219 6227	synaptic
+#227	AnnotatorNotes T227	GO:0045202 (synapse)
+T228	EntrezGene 6275 6278	Crx
+#228	AnnotatorNotes T228	EG:12951
+T229	PR 6275 6278	Crx
+#229	AnnotatorNotes T229	PR:000005904 (cone-rod homeobox protein)
+T230	CL 6282 6295	photoreceptor
+#230	AnnotatorNotes T230	CL:0000210 (photoreceptor cell)
+T231	GO_BP 6296 6310	synaptogenesis
+#231	AnnotatorNotes T231	GO:0007416 (synaptogenesis)
+T232	GO_BP 6370 6398	process of synapse formation
+#232	AnnotatorNotes T232	GO:0007416 (synaptogenesis)
+T233	GO_CC 6381 6388	synapse
+#233	AnnotatorNotes T233	GO:0045202 (synapse)
+T234	GO_CC 6445 6458	outer segment
+#234	AnnotatorNotes T234	GO:0001750 (photoreceptor outer segment)
+T235	EntrezGene 6468 6471	Crx
+#235	AnnotatorNotes T235	EG:12951
+T236	PR 6468 6471	Crx
+#236	AnnotatorNotes T236	PR:000005904 (cone-rod homeobox protein)
+T237	NCBITaxon 6475 6479	mice
+#237	AnnotatorNotes T237	NCBITaxon:10088 (Mus)
+T238	GO_BP 6523 6531	generate
+#238	AnnotatorNotes T238	GO:0000003 (reproduction)
+T239	NCBITaxon 6532 6536	mice
+#239	AnnotatorNotes T239	NCBITaxon:10088 (Mus)
+T240	EntrezGene 6565 6568	Crx
+#240	AnnotatorNotes T240	EG:12951
+T241	PR 6565 6568	Crx
+#241	AnnotatorNotes T241	PR:000005904 (cone-rod homeobox protein)
+T242	SO 6589 6596	deleted
+#242	AnnotatorNotes T242	SO:0000045 (delete)
+T243	GO_BP 6598 6608	Generation
+#243	AnnotatorNotes T243	GO:0000003 (reproduction)
+T244	EntrezGene 6618 6621	Crx
+#244	AnnotatorNotes T244	EG:12951
+T245	PR 6618 6621	Crx
+#245	AnnotatorNotes T245	PR:000005904 (cone-rod homeobox protein)
+T246	NCBITaxon 6625 6629	mice
+#246	AnnotatorNotes T246	NCBITaxon:10088 (Mus)
+T247	EntrezGene 6724 6727	Crx
+#247	AnnotatorNotes T247	EG:12951
+T248	PR 6724 6727	Crx
+#248	AnnotatorNotes T248	PR:000005904 (cone-rod homeobox protein)
+T249	GO_BP 6731 6758	photoreceptor morphogenesis
+#249	AnnotatorNotes T249	GO:0008594 (photoreceptor cell morphogenesis)
+T250	CL 6731 6744	photoreceptor
+#250	AnnotatorNotes T250	CL:0000210 (photoreceptor cell)
+T251	EntrezGene 6783 6786	Crx
+#251	AnnotatorNotes T251	EG:12951
+T252	PR 6783 6786	Crx
+#252	AnnotatorNotes T252	PR:000005904 (cone-rod homeobox protein)
+T253	NCBITaxon 6790 6794	mice
+#253	AnnotatorNotes T253	NCBITaxon:10088 (Mus)
+T254	CHEBI 6828 6836	electron
+#254	AnnotatorNotes T254	CHEBI:10545 (electron)
+T255	EntrezGene 6881 6884	Crx
+#255	AnnotatorNotes T255	EG:12951
+T256	PR 6881 6884	Crx
+#256	AnnotatorNotes T256	PR:000005904 (cone-rod homeobox protein)
+T257	SO 6884 6885	+
+#257	AnnotatorNotes T257	SO:0000817 (wild_type)
+T258	SO 6886 6887	+
+#258	AnnotatorNotes T258	SO:0000817 (wild_type)
+T259	CL 6888 6902	photoreceptors
+#259	AnnotatorNotes T259	CL:0000210 (photoreceptor cell)
+T260	GO_CC 6920 6934	outer segments
+#260	AnnotatorNotes T260	GO:0001750 (photoreceptor outer segment)
+T261	EntrezGene 6952 6955	Crx
+#261	AnnotatorNotes T261	EG:12951
+T262	PR 6952 6955	Crx
+#262	AnnotatorNotes T262	PR:000005904 (cone-rod homeobox protein)
+T263	GO_CC 6995 7008	outer segment
+#263	AnnotatorNotes T263	GO:0001750 (photoreceptor outer segment)
+T264	EntrezGene 7028 7031	Crx
+#264	AnnotatorNotes T264	EG:12951
+T265	PR 7028 7031	Crx
+#265	AnnotatorNotes T265	PR:000005904 (cone-rod homeobox protein)
+T266	CL 7035 7049	photoreceptors
+#266	AnnotatorNotes T266	CL:0000210 (photoreceptor cell)
+T267	GO_CC 7054 7068	inner segments
+#267	AnnotatorNotes T267	GO:0001917 (photoreceptor inner segment)
+T268	CL 7101 7114	photoreceptor
+#268	AnnotatorNotes T268	CL:0000210 (photoreceptor cell)
+T269	GO_BP 7115 7127	polarization
+#269	AnnotatorNotes T269	GO:0030010 (establishment of cell polarity)
+T270	EntrezGene 7135 7138	Crx
+#270	AnnotatorNotes T270	EG:12951
+T271	PR 7135 7138	Crx
+#271	AnnotatorNotes T271	PR:000005904 (cone-rod homeobox protein)
+T272	SO 7139 7145	mutant
+#272	AnnotatorNotes T272	SO:0001059 (sequence_alteration)
+T273	independent_continuant 7139 7145	mutant
+#273	AnnotatorNotes T273	independent_continuant
+T274	GO_CC 7155 7169	inner segments
+#274	AnnotatorNotes T274	GO:0001917 (photoreceptor inner segment)
+T275	GO_CC 7232 7246	inner segments
+#275	AnnotatorNotes T275	GO:0001917 (photoreceptor inner segment)
+T276	GO_BP 7273 7288	differentiation
+#276	AnnotatorNotes T276	GO:0030154 (cell differentiation)
+T277	GO_CC 7319 7331	mitochondria
+#277	AnnotatorNotes T277	GO:0005739 (mitochondrion)
+T278	GO_CC 7382 7395	inner segment
+#278	AnnotatorNotes T278	GO:0001917 (photoreceptor inner segment)
+T279	GO_BP 7407 7412	lysis
+#279	AnnotatorNotes T279	GO:0019835 (cytolysis)
+T280	GO_CC 7450 7458	vacuoles
+#280	AnnotatorNotes T280	GO:0005773 (vacuole)
+T281	GO_CC 7471 7483	mitochondria
+#281	AnnotatorNotes T281	GO:0005739 (mitochondrion)
+T282	CHEBI 7526 7534	electron
+#282	AnnotatorNotes T282	CHEBI:10545 (electron)
+T283	EntrezGene 7580 7583	Crx
+#283	AnnotatorNotes T283	EG:12951
+T284	PR 7580 7583	Crx
+#284	AnnotatorNotes T284	PR:000005904 (cone-rod homeobox protein)
+T285	SO 7583 7584	+
+#285	AnnotatorNotes T285	SO:0000817 (wild_type)
+T286	SO 7585 7586	+
+#286	AnnotatorNotes T286	SO:0000817 (wild_type)
+T287	EntrezGene 7595 7598	Crx
+#287	AnnotatorNotes T287	EG:12951
+T288	PR 7595 7598	Crx
+#288	AnnotatorNotes T288	PR:000005904 (cone-rod homeobox protein)
+T289	GO_CC 7637 7639	os
+#289	AnnotatorNotes T289	GO:0001750 (photoreceptor outer segment)
+T290	GO_CC 7641 7655	outer segments
+#290	AnnotatorNotes T290	GO:0001750 (photoreceptor outer segment)
+T291	GO_CC 7657 7659	is
+#291	AnnotatorNotes T291	GO:0001917 (photoreceptor inner segment)
+T292	GO_CC 7661 7675	inner segments
+#292	AnnotatorNotes T292	GO:0001917 (photoreceptor inner segment)
+T293	GO_CC 7688 7695	nuclear
+#293	AnnotatorNotes T293	GO:0005634 (nucleus)
+T294	CL 7707 7720	photoreceptor
+#294	AnnotatorNotes T294	CL:0000210 (photoreceptor cell)
+T295	GO_CC 7721 7727	nuclei
+#295	AnnotatorNotes T295	GO:0005634 (nucleus)
+T296	CHEBI 7783 7791	electron
+#296	AnnotatorNotes T296	CHEBI:10545 (electron)
+T297	GO_CC 7810 7823	outer segment
+#297	AnnotatorNotes T297	GO:0001750 (photoreceptor outer segment)
+T298	EntrezGene 7833 7836	Crx
+#298	AnnotatorNotes T298	EG:12951
+T299	PR 7833 7836	Crx
+#299	AnnotatorNotes T299	PR:000005904 (cone-rod homeobox protein)
+T300	GO_CC 7855 7894	Inner segments of Crx-/- photoreceptors
+#300	AnnotatorNotes T300	"Inner segments of .. photoreceptors" GO:0001917 (photoreceptor inner segment)
+T301	EntrezGene 7873 7876	Crx
+#301	AnnotatorNotes T301	EG:12951
+T302	PR 7873 7876	Crx
+#302	AnnotatorNotes T302	PR:000005904 (cone-rod homeobox protein)
+T303	CL 7880 7894	photoreceptors
+#303	AnnotatorNotes T303	CL:0000210 (photoreceptor cell)
+T304	GO_CC 7912 7924	mitochondria
+#304	AnnotatorNotes T304	GO:0005739 (mitochondrion)
+T305	GO_CC 7926 7927	m
+#305	AnnotatorNotes T305	GO:0005739 (mitochondrion)
+T306	EntrezGene 7954 7957	Crx
+#306	AnnotatorNotes T306	EG:12951
+T307	PR 7954 7957	Crx
+#307	AnnotatorNotes T307	PR:000005904 (cone-rod homeobox protein)
+T308	SO 7957 7958	+
+#308	AnnotatorNotes T308	SO:0000817 (wild_type)
+T309	SO 7959 7960	+
+#309	AnnotatorNotes T309	SO:0000817 (wild_type)
+T310	GO_CC 8000 8002	is
+#310	AnnotatorNotes T310	GO:0001917 (photoreceptor inner segment)
+T311	GO_CC 8004 8018	inner segments
+#311	AnnotatorNotes T311	GO:0001917 (photoreceptor inner segment)
+T312	GO_CC 8031 8038	nuclear
+#312	AnnotatorNotes T312	GO:0005634 (nucleus)
+T313	GO_CC 8065 8112	Photoreceptor inner segments and outer segments
+#313	AnnotatorNotes T313	"Photoreceptor .. outer segments" GO:0001750 (photoreceptor outer segment)
+T314	GO_CC 8065 8093	Photoreceptor inner segments
+#314	AnnotatorNotes T314	GO:0001917 (photoreceptor inner segment)
+T315	CL 8065 8078	Photoreceptor
+#315	AnnotatorNotes T315	CL:0000210 (photoreceptor cell)
+T316	GO_CC 8129 8157	non-motile connecting cilium
+#316	AnnotatorNotes T316	GO:0032391 (photoreceptor connecting cilium)
+T317	GO_CC 8210 8221	microtubule
+#317	AnnotatorNotes T317	GO:0005874 (microtubule)
+T318	EntrezGene 8272 8275	Crx
+#318	AnnotatorNotes T318	EG:12951
+T319	PR 8272 8275	Crx
+#319	AnnotatorNotes T319	PR:000005904 (cone-rod homeobox protein)
+T320	GO_CC 8315 8331	connecting cilia
+#320	AnnotatorNotes T320	GO:0032391 (photoreceptor connecting cilium)
+T321	GO_CC 8377 8393	connecting cilia
+#321	AnnotatorNotes T321	GO:0032391 (photoreceptor connecting cilium)
+T322	GO_CC 8441 8452	microtubule
+#322	AnnotatorNotes T322	GO:0005874 (microtubule)
+T323	GO_CC 8494 8511	connecting cilium
+#323	AnnotatorNotes T323	GO:0032391 (photoreceptor connecting cilium)
+T324	GO_CC 8712 8725	inner segment
+#324	AnnotatorNotes T324	GO:0001917 (photoreceptor inner segment)
+T325	GO_BP 8726 8735	formation
+#325	AnnotatorNotes T325	GO:0022607 (cellular component assembly)
+T326	GO_BP 8737 8749	ciliogenesis
+#326	AnnotatorNotes T326	GO:0042384 (cilium biogenesis)
+T327	EntrezGene 8776 8779	Crx
+#327	AnnotatorNotes T327	EG:12951
+T328	PR 8776 8779	Crx
+#328	AnnotatorNotes T328	PR:000005904 (cone-rod homeobox protein)
+T329	CL 8783 8797	photoreceptors
+#329	AnnotatorNotes T329	CL:0000210 (photoreceptor cell)
+T330	EntrezGene 8811 8814	Crx
+#330	AnnotatorNotes T330	EG:12951
+T331	PR 8811 8814	Crx
+#331	AnnotatorNotes T331	PR:000005904 (cone-rod homeobox protein)
+T332	CHEBI 8967 8975	electron
+#332	AnnotatorNotes T332	CHEBI:10545 (electron)
+T333	EntrezGene 8990 8993	Crx
+#333	AnnotatorNotes T333	EG:12951
+T334	PR 8990 8993	Crx
+#334	AnnotatorNotes T334	PR:000005904 (cone-rod homeobox protein)
+T335	CHEBI 9035 9043	electron
+#335	AnnotatorNotes T335	CHEBI:10545 (electron)
+T336	EntrezGene 9058 9061	Crx
+#336	AnnotatorNotes T336	EG:12951
+T337	PR 9058 9061	Crx
+#337	AnnotatorNotes T337	PR:000005904 (cone-rod homeobox protein)
+T338	GO_CC 9079 9092	outer segment
+#338	AnnotatorNotes T338	GO:0001750 (photoreceptor outer segment)
+T339	GO_BP 9116 9128	ciliogenesis
+#339	AnnotatorNotes T339	GO:0042384 (cilium biogenesis)
+T340	CL 9136 9149	photoreceptor
+#340	AnnotatorNotes T340	CL:0000210 (photoreceptor cell)
+T341	EntrezGene 9159 9162	Crx
+#341	AnnotatorNotes T341	EG:12951
+T342	PR 9159 9162	Crx
+#342	AnnotatorNotes T342	PR:000005904 (cone-rod homeobox protein)
+T343	GO_CC 9174 9200	Nonmotile connecting cilia
+#343	AnnotatorNotes T343	GO:0032391 (photoreceptor connecting cilium)
+T344	GO_CC 9271 9288	Connecting cilium
+#344	AnnotatorNotes T344	GO:0032391 (photoreceptor connecting cilium)
+T345	GO_CC 9324 9334	microtuble
+#345	AnnotatorNotes T345	GO:0005874 (microtubule)
+T346	GO_CC 9351 9357	cilium
+#346	AnnotatorNotes T346	GO:0005929 (cilium)
+T347	GO_CC 9364 9370	cilium
+#347	AnnotatorNotes T347	GO:0005929 (cilium)
+T348	CL 9407 9411	cell
+#348	AnnotatorNotes T348	CL:0000000 (cell)
+T349	GO_CC 9407 9411	cell
+#349	AnnotatorNotes T349	GO:0005623 (cell)
+T350	GO_CC 9412 9419	nucleus
+#350	AnnotatorNotes T350	GO:0005634 (nucleus)
+T351	GO_CC 9421 9422	n
+#351	AnnotatorNotes T351	GO:0005634 (nucleus)
+T352	GO_BP 9434 9442	pyknotic
+#352	AnnotatorNotes T352	GO:0030263 (apoptotic chromosome condensation)
+T353	GO_CC 9470 9490	matrix (mx) material
+#353	AnnotatorNotes T353	"matrix .. material" GO:0044420 (extracellular matrix part)
+T354	GO_CC 9470 9476	matrix
+#354	AnnotatorNotes T354	GO:0031012 (extracellular matrix)
+T355	GO_CC 9478 9490	mx) material
+#355	AnnotatorNotes T355	"mx .. material" GO:0044420 (extracellular matrix part)
+T356	GO_CC 9478 9480	mx
+#356	AnnotatorNotes T356	GO:0031012 (extracellular matrix)
+T357	GO_CC 9550 9569	membranous vesicles
+#357	AnnotatorNotes T357	GO:0031988 (membrane-bound vesicle)
+T358	GO_CC 9550 9560	membranous
+#358	AnnotatorNotes T358	GO:0016020 (membrane)
+T359	CL 9595 9608	photoreceptor
+#359	AnnotatorNotes T359	CL:0000210 (photoreceptor cell)
+T360	GO_CC 9609 9614	space
+#360	AnnotatorNotes T360	GO:0005576 (extracellular region)
+T361	GO_CC 9648 9662	inner segments
+#361	AnnotatorNotes T361	GO:0001917 (photoreceptor inner segment)
+T362	GO_CC 9688 9715	Nonmotile connecting cilium
+#362	AnnotatorNotes T362	GO:0032391 (photoreceptor connecting cilium)
+T363	EntrezGene 9741 9744	Crx
+#363	AnnotatorNotes T363	EG:12951
+T364	PR 9741 9744	Crx
+#364	AnnotatorNotes T364	PR:000005904 (cone-rod homeobox protein)
+T365	CL 9748 9761	photoreceptor
+#365	AnnotatorNotes T365	CL:0000210 (photoreceptor cell)
+T366	GO_CC 9812 9823	microtubule
+#366	AnnotatorNotes T366	GO:0005874 (microtubule)
+T367	CHEBI 9866 9874	electron
+#367	AnnotatorNotes T367	CHEBI:10545 (electron)
+T368	GO_CC 9895 9914	membranous vesicles
+#368	AnnotatorNotes T368	GO:0031988 (membrane-bound vesicle)
+T369	GO_CC 9895 9905	membranous
+#369	AnnotatorNotes T369	GO:0016020 (membrane)
+T370	GO_CC 9951 9965	inner segments
+#370	AnnotatorNotes T370	GO:0001917 (photoreceptor inner segment)
+T371	EntrezGene 9969 9972	Crx
+#371	AnnotatorNotes T371	EG:12951
+T372	PR 9969 9972	Crx
+#372	AnnotatorNotes T372	PR:000005904 (cone-rod homeobox protein)
+T373	CL 9976 9990	photoreceptors
+#373	AnnotatorNotes T373	CL:0000210 (photoreceptor cell)
+T374	GO_CC 10012 10026	inner segments
+#374	AnnotatorNotes T374	GO:0001917 (photoreceptor inner segment)
+T375	GO_CC 10153 10167	outer segments
+#375	AnnotatorNotes T375	GO:0001750 (photoreceptor outer segment)
+T376	EntrezGene 10169 10172	Crx
+#376	AnnotatorNotes T376	EG:12951
+T377	PR 10169 10172	Crx
+#377	AnnotatorNotes T377	PR:000005904 (cone-rod homeobox protein)
+T378	GO_CC 10233 10246	outer segment
+#378	AnnotatorNotes T378	GO:0001750 (photoreceptor outer segment)
+T379	GO_CC 10287 10293	matrix
+#379	AnnotatorNotes T379	GO:0031012 (extracellular matrix)
+T380	GO_CC 10372 10378	nuclei
+#380	AnnotatorNotes T380	GO:0005634 (nucleus)
+T381	GO_BP 10390 10398	residing
+#381	AnnotatorNotes T381	GO:0051179 (localization)
+T382	GO_CC 10406 10411	space
+#382	AnnotatorNotes T382	GO:0005576 (extracellular region)
+T383	GO_CC 10449 10455	nuclei
+#383	AnnotatorNotes T383	GO:0005634 (nucleus)
+T384	GO_BP 10465 10473	pyknotic
+#384	AnnotatorNotes T384	GO:0030263 (apoptotic chromosome condensation)
+T385	GO_CC 10525 10540	heterochromatin
+#385	AnnotatorNotes T385	GO:0000792 (heterochromatin)
+T386	CL 10560 10574	photoreceptors
+#386	AnnotatorNotes T386	CL:0000210 (photoreceptor cell)
+T387	CL 10643 10657	photoreceptors
+#387	AnnotatorNotes T387	CL:0000210 (photoreceptor cell)
+T388	GO_CC 10702 10715	outer segment
+#388	AnnotatorNotes T388	GO:0001750 (photoreceptor outer segment)
+T389	GO_CC 10742 10750	vesicles
+#389	AnnotatorNotes T389	GO:0031982 (vesicle)
+T390	GO_CC 10834 10848	inner segments
+#390	AnnotatorNotes T390	GO:0001917 (photoreceptor inner segment)
+T391	CHEBI 10862 10870	electron
+#391	AnnotatorNotes T391	CHEBI:10545 (electron)
+T392	GO_BP 10918 10925	budding
+#392	AnnotatorNotes T392	GO:0006900 (membrane budding)
+T393	GO_CC 10935 10949	inner segments
+#393	AnnotatorNotes T393	GO:0001917 (photoreceptor inner segment)
+T394	GO_BP 11008 11046	morphogenesis of Crx-/- photoreceptors
+#394	AnnotatorNotes T394	"morphogenesis of .. photoreceptors" GO:0008594 (photoreceptor cell morphogenesis)
+T395	EntrezGene 11025 11028	Crx
+#395	AnnotatorNotes T395	EG:12951
+T396	PR 11025 11028	Crx
+#396	AnnotatorNotes T396	PR:000005904 (cone-rod homeobox protein)
+T397	CL 11032 11046	photoreceptors
+#397	AnnotatorNotes T397	CL:0000210 (photoreceptor cell)
+T398	GO_BP 11052 11062	developing
+#398	AnnotatorNotes T398	GO:0022607 (cellular component assembly)
+T399	GO_CC 11063 11076	outer segment
+#399	AnnotatorNotes T399	GO:0001750 (photoreceptor outer segment)
+T400	CHEBI 11106 11114	electron
+#400	AnnotatorNotes T400	CHEBI:10545 (electron)
+T401	EntrezGene 11160 11163	Crx
+#401	AnnotatorNotes T401	EG:12951
+T402	PR 11160 11163	Crx
+#402	AnnotatorNotes T402	PR:000005904 (cone-rod homeobox protein)
+T403	SO 11163 11164	+
+#403	AnnotatorNotes T403	SO:0000817 (wild_type)
+T404	SO 11165 11166	+
+#404	AnnotatorNotes T404	SO:0000817 (wild_type)
+T405	GO_CC 11176 11204	photoreceptor inner segments
+#405	AnnotatorNotes T405	GO:0001917 (photoreceptor inner segment)
+T406	CL 11176 11189	photoreceptor
+#406	AnnotatorNotes T406	CL:0000210 (photoreceptor cell)
+T407	GO_CC 11206 11222	connecting cilia
+#407	AnnotatorNotes T407	GO:0032391 (photoreceptor connecting cilium)
+T408	GO_CC 11250 11263	outer segment
+#408	AnnotatorNotes T408	GO:0001750 (photoreceptor outer segment)
+T409	EntrezGene 11300 11303	Crx
+#409	AnnotatorNotes T409	EG:12951
+T410	PR 11300 11303	Crx
+#410	AnnotatorNotes T410	PR:000005904 (cone-rod homeobox protein)
+T411	GO_CC 11335 11352	connecting cilium
+#411	AnnotatorNotes T411	GO:0032391 (photoreceptor connecting cilium)
+T412	GO_CC 11377 11391	inner segments
+#412	AnnotatorNotes T412	GO:0001917 (photoreceptor inner segment)
+T413	CHEBI 11489 11497	electron
+#413	AnnotatorNotes T413	CHEBI:10545 (electron)
+T414	EntrezGene 11583 11586	Crx
+#414	AnnotatorNotes T414	EG:12951
+T415	PR 11583 11586	Crx
+#415	AnnotatorNotes T415	PR:000005904 (cone-rod homeobox protein)
+T416	SO 11586 11587	+
+#416	AnnotatorNotes T416	SO:0000817 (wild_type)
+T417	SO 11588 11589	+
+#417	AnnotatorNotes T417	SO:0000817 (wild_type)
+T418	EntrezGene 11594 11597	Crx
+#418	AnnotatorNotes T418	EG:12951
+T419	PR 11594 11597	Crx
+#419	AnnotatorNotes T419	PR:000005904 (cone-rod homeobox protein)
+T420	CL 11601 11615	photoreceptors
+#420	AnnotatorNotes T420	CL:0000210 (photoreceptor cell)
+T421	GO_CC 11636 11650	outer segments
+#421	AnnotatorNotes T421	GO:0001750 (photoreceptor outer segment)
+T422	EntrezGene 11665 11668	Crx
+#422	AnnotatorNotes T422	EG:12951
+T423	PR 11665 11668	Crx
+#423	AnnotatorNotes T423	PR:000005904 (cone-rod homeobox protein)
+T424	SO 11668 11669	+
+#424	AnnotatorNotes T424	SO:0000817 (wild_type)
+T425	SO 11670 11671	+
+#425	AnnotatorNotes T425	SO:0000817 (wild_type)
+T426	CL 11672 11686	photoreceptors
+#426	AnnotatorNotes T426	CL:0000210 (photoreceptor cell)
+T427	GO_CC 11748 11752	apex
+#427	AnnotatorNotes T427	GO:0045177 (apical part of cell)
+T428	EntrezGene 11773 11776	Crx
+#428	AnnotatorNotes T428	EG:12951
+T429	PR 11773 11776	Crx
+#429	AnnotatorNotes T429	PR:000005904 (cone-rod homeobox protein)
+T430	CL 11810 11824	photoreceptors
+#430	AnnotatorNotes T430	CL:0000210 (photoreceptor cell)
+T431	GO_CC 11852 11868	connecting cilia
+#431	AnnotatorNotes T431	GO:0032391 (photoreceptor connecting cilium)
+T432	GO_CC 11877 11891	outer segments
+#432	AnnotatorNotes T432	GO:0001750 (photoreceptor outer segment)
+T433	EntrezGene 11923 11926	Crx
+#433	AnnotatorNotes T433	EG:12951
+T434	PR 11923 11926	Crx
+#434	AnnotatorNotes T434	PR:000005904 (cone-rod homeobox protein)
+T435	CL 11930 11944	photoreceptors
+#435	AnnotatorNotes T435	CL:0000210 (photoreceptor cell)
+T436	GO_CC 11999 12016	connecting cilium
+#436	AnnotatorNotes T436	GO:0032391 (photoreceptor connecting cilium)
+T437	GO_CC 12067 12080	outer segment
+#437	AnnotatorNotes T437	GO:0001750 (photoreceptor outer segment)
+T438	GO_CC 12167 12181	outer segments
+#438	AnnotatorNotes T438	GO:0001750 (photoreceptor outer segment)
+T439	EntrezGene 12208 12211	Crx
+#439	AnnotatorNotes T439	EG:12951
+T440	PR 12208 12211	Crx
+#440	AnnotatorNotes T440	PR:000005904 (cone-rod homeobox protein)
+T441	SO 12211 12212	+
+#441	AnnotatorNotes T441	SO:0000817 (wild_type)
+T442	SO 12213 12214	+
+#442	AnnotatorNotes T442	SO:0000817 (wild_type)
+T443	EntrezGene 12277 12280	Crx
+#443	AnnotatorNotes T443	EG:12951
+T444	PR 12277 12280	Crx
+#444	AnnotatorNotes T444	PR:000005904 (cone-rod homeobox protein)
+T445	CL 12284 12298	photoreceptors
+#445	AnnotatorNotes T445	CL:0000210 (photoreceptor cell)
+T446	GO_CC 12315 12331	connecting cilia
+#446	AnnotatorNotes T446	GO:0032391 (photoreceptor connecting cilium)
+T447	EntrezGene 12382 12385	Crx
+#447	AnnotatorNotes T447	EG:12951
+T448	PR 12382 12385	Crx
+#448	AnnotatorNotes T448	PR:000005904 (cone-rod homeobox protein)
+T449	CL 12389 12403	photoreceptors
+#449	AnnotatorNotes T449	CL:0000210 (photoreceptor cell)
+T450	GO_BP 12530 12537	forming
+#450	AnnotatorNotes T450	GO:0032502 (developmental process)
+T451	GO_CC 12597 12610	outer segment
+#451	AnnotatorNotes T451	GO:0001750 (photoreceptor outer segment)
+T452	GO_BP 12611 12620	formation
+#452	AnnotatorNotes T452	GO:0022607 (cellular component assembly)
+T453	EntrezGene 12628 12631	Crx
+#453	AnnotatorNotes T453	EG:12951
+T454	PR 12628 12631	Crx
+#454	AnnotatorNotes T454	PR:000005904 (cone-rod homeobox protein)
+T455	SO 12632 12638	mutant
+#455	AnnotatorNotes T455	SO:0001059 (sequence_alteration)
+T456	NCBITaxon 12639 12644	mouse
+#456	AnnotatorNotes T456	NCBITaxon:10088 (Mus)
+T457	GO_BP 12664 12675	development
+#457	AnnotatorNotes T457	GO:0022607 (cellular component assembly)
+T458	CL 12683 12696	photoreceptor
+#458	AnnotatorNotes T458	CL:0000210 (photoreceptor cell)
+T459	GO_CC 12734 12747	outer segment
+#459	AnnotatorNotes T459	GO:0001750 (photoreceptor outer segment)
+T460	GO_BP 12748 12757	formation
+#460	AnnotatorNotes T460	GO:0022607 (cellular component assembly)
+T461	GO_CC 12770 12783	Outer segment
+#461	AnnotatorNotes T461	GO:0001750 (photoreceptor outer segment)
+T462	GO_BP 12784 12797	morphogenesis
+#462	AnnotatorNotes T462	GO:0009653 (anatomical structure morphogenesis)
+T463	EntrezGene 12801 12804	Crx
+#463	AnnotatorNotes T463	EG:12951
+T464	PR 12801 12804	Crx
+#464	AnnotatorNotes T464	PR:000005904 (cone-rod homeobox protein)
+T465	CL 12808 12822	photoreceptors
+#465	AnnotatorNotes T465	CL:0000210 (photoreceptor cell)
+T466	CHEBI 12833 12841	electron
+#466	AnnotatorNotes T466	CHEBI:10545 (electron)
+T467	GO_BP 12856 12866	developing
+#467	AnnotatorNotes T467	GO:0032502 (developmental process)
+T468	CL 12867 12881	photoreceptors
+#468	AnnotatorNotes T468	CL:0000210 (photoreceptor cell)
+T469	EntrezGene 12973 12976	Crx
+#469	AnnotatorNotes T469	EG:12951
+T470	PR 12973 12976	Crx
+#470	AnnotatorNotes T470	PR:000005904 (cone-rod homeobox protein)
+T471	SO 12976 12977	+
+#471	AnnotatorNotes T471	SO:0000817 (wild_type)
+T472	SO 12978 12979	+
+#472	AnnotatorNotes T472	SO:0000817 (wild_type)
+T473	EntrezGene 12998 13001	Crx
+#473	AnnotatorNotes T473	EG:12951
+T474	PR 12998 13001	Crx
+#474	AnnotatorNotes T474	PR:000005904 (cone-rod homeobox protein)
+T475	EntrezGene 13031 13034	Crx
+#475	AnnotatorNotes T475	EG:12951
+T476	PR 13031 13034	Crx
+#476	AnnotatorNotes T476	PR:000005904 (cone-rod homeobox protein)
+T477	SO 13034 13035	+
+#477	AnnotatorNotes T477	SO:0000817 (wild_type)
+T478	SO 13036 13037	+
+#478	AnnotatorNotes T478	SO:0000817 (wild_type)
+T479	GO_CC 13055 13071	connecting cilia
+#479	AnnotatorNotes T479	GO:0032391 (photoreceptor connecting cilium)
+T480	GO_CC 13116 13130	outer segments
+#480	AnnotatorNotes T480	GO:0001750 (photoreceptor outer segment)
+T481	EntrezGene 13145 13148	Crx
+#481	AnnotatorNotes T481	EG:12951
+T482	PR 13145 13148	Crx
+#482	AnnotatorNotes T482	PR:000005904 (cone-rod homeobox protein)
+T483	SO 13148 13149	+
+#483	AnnotatorNotes T483	SO:0000817 (wild_type)
+T484	SO 13150 13151	+
+#484	AnnotatorNotes T484	SO:0000817 (wild_type)
+T485	GO_CC 13152 13165	outer segment
+#485	AnnotatorNotes T485	GO:0001750 (photoreceptor outer segment)
+T486	GO_CC 13196 13210	outer segments
+#486	AnnotatorNotes T486	GO:0001750 (photoreceptor outer segment)
+T487	EntrezGene 13280 13283	Crx
+#487	AnnotatorNotes T487	EG:12951
+T488	PR 13280 13283	Crx
+#488	AnnotatorNotes T488	PR:000005904 (cone-rod homeobox protein)
+T489	CL 13287 13301	photoreceptors
+#489	AnnotatorNotes T489	CL:0000210 (photoreceptor cell)
+T490	GO_CC 13307 13323	connecting cilia
+#490	AnnotatorNotes T490	GO:0032391 (photoreceptor connecting cilium)
+T491	GO_CC 13363 13379	connecting cilia
+#491	AnnotatorNotes T491	GO:0032391 (photoreceptor connecting cilium)
+T492	GO_CC 13428 13441	outer segment
+#492	AnnotatorNotes T492	GO:0001750 (photoreceptor outer segment)
+T493	GO_CC 13469 13486	connecting cilium
+#493	AnnotatorNotes T493	GO:0032391 (photoreceptor connecting cilium)
+T494	EntrezGene 13533 13536	Crx
+#494	AnnotatorNotes T494	EG:12951
+T495	PR 13533 13536	Crx
+#495	AnnotatorNotes T495	PR:000005904 (cone-rod homeobox protein)
+T496	SO 13536 13537	+
+#496	AnnotatorNotes T496	SO:0000817 (wild_type)
+T497	SO 13538 13539	+
+#497	AnnotatorNotes T497	SO:0000817 (wild_type)
+T498	GO_CC 13590 13606	connecting cilia
+#498	AnnotatorNotes T498	GO:0032391 (photoreceptor connecting cilium)
+T499	EntrezGene 13620 13623	Crx
+#499	AnnotatorNotes T499	EG:12951
+T500	PR 13620 13623	Crx
+#500	AnnotatorNotes T500	PR:000005904 (cone-rod homeobox protein)
+T501	CHEBI 13679 13687	electron
+#501	AnnotatorNotes T501	CHEBI:10545 (electron)
+T502	EntrezGene 13703 13706	Crx
+#502	AnnotatorNotes T502	EG:12951
+T503	PR 13703 13706	Crx
+#503	AnnotatorNotes T503	PR:000005904 (cone-rod homeobox protein)
+T504	CL 13710 13724	photoreceptors
+#504	AnnotatorNotes T504	CL:0000210 (photoreceptor cell)
+T505	CL 13732 13745	photoreceptor
+#505	AnnotatorNotes T505	CL:0000210 (photoreceptor cell)
+T506	CL 13763 13776	Photoreceptor
+#506	AnnotatorNotes T506	CL:0000210 (photoreceptor cell)
+T507	EntrezGene 13786 13789	Crx
+#507	AnnotatorNotes T507	EG:12951
+T508	PR 13786 13789	Crx
+#508	AnnotatorNotes T508	PR:000005904 (cone-rod homeobox protein)
+T509	SO 13789 13790	+
+#509	AnnotatorNotes T509	SO:0000817 (wild_type)
+T510	SO 13791 13792	+
+#510	AnnotatorNotes T510	SO:0000817 (wild_type)
+T511	GO_CC 13822 13846	outer segment structures
+#511	AnnotatorNotes T511	GO:0001750 (photoreceptor outer segment)
+T512	GO_CC 13869 13903	photoreceptor connecting cilia (cc
+#512	AnnotatorNotes T512	"photoreceptor .. cc" GO:0032391 (photoreceptor connecting cilium)
+T513	GO_CC 13869 13899	photoreceptor connecting cilia
+#513	AnnotatorNotes T513	GO:0032391 (photoreceptor connecting cilium)
+T514	CL 13869 13882	photoreceptor
+#514	AnnotatorNotes T514	CL:0000210 (photoreceptor cell)
+T515	EntrezGene 13910 13913	Crx
+#515	AnnotatorNotes T515	EG:12951
+T516	PR 13910 13913	Crx
+#516	AnnotatorNotes T516	PR:000005904 (cone-rod homeobox protein)
+T517	CL 13917 13931	photoreceptors
+#517	AnnotatorNotes T517	CL:0000210 (photoreceptor cell)
+T518	GO_CC 13942 13958	connecting cilia
+#518	AnnotatorNotes T518	GO:0032391 (photoreceptor connecting cilium)
+T519	GO_CC 13960 13962	cc
+#519	AnnotatorNotes T519	GO:0032391 (photoreceptor connecting cilium)
+T520	GO_CC 14002 14026	outer segment structures
+#520	AnnotatorNotes T520	GO:0001750 (photoreceptor outer segment)
+T521	EntrezGene 14106 14109	Crx
+#521	AnnotatorNotes T521	EG:12951
+T522	PR 14106 14109	Crx
+#522	AnnotatorNotes T522	PR:000005904 (cone-rod homeobox protein)
+T523	CL 14113 14127	photoreceptors
+#523	AnnotatorNotes T523	CL:0000210 (photoreceptor cell)
+T524	EntrezGene 14144 14153	rhodopsin
+#524	AnnotatorNotes T524	EG:212541
+T525	PR 14144 14153	rhodopsin
+#525	AnnotatorNotes T525	PR:000001245 (rhodopsin)
+T526	EntrezGene 14161 14171	peripherin
+#526	AnnotatorNotes T526	EG:19133
+T527	PR 14161 14171	peripherin
+#527	AnnotatorNotes T527	PR:000013290 (peripherin-2)
+T528	CL 14175 14189	photoreceptors
+#528	AnnotatorNotes T528	CL:0000210 (photoreceptor cell)
+T529	EntrezGene 14191 14200	Rhodopsin
+#529	AnnotatorNotes T529	EG:212541
+T530	PR 14191 14200	Rhodopsin
+#530	AnnotatorNotes T530	PR:000001245 (rhodopsin)
+T531	EntrezGene 14205 14215	peripherin
+#531	AnnotatorNotes T531	EG:19133
+T532	PR 14205 14215	peripherin
+#532	AnnotatorNotes T532	PR:000013290 (peripherin-2)
+T533	CL 14224 14237	photoreceptor
+#533	AnnotatorNotes T533	CL:0000210 (photoreceptor cell)
+T534	SO 14247 14252	genes
+#534	AnnotatorNotes T534	SO:0000704 (gene)
+T535	GO_BP 14259 14269	expression
+#535	AnnotatorNotes T535	GO:0010467 (gene expression)
+T536	GO_BP 14287 14300	downregulated
+#536	AnnotatorNotes T536	GO:0048519 (negative regulation of biological process)
+T537	EntrezGene 14308 14311	Crx
+#537	AnnotatorNotes T537	EG:12951
+T538	PR 14308 14311	Crx
+#538	AnnotatorNotes T538	PR:000005904 (cone-rod homeobox protein)
+T539	SO 14352 14361	mutations
+#539	AnnotatorNotes T539	SO:0001059 (sequence_alteration)
+T540	SO 14379 14384	genes
+#540	AnnotatorNotes T540	SO:0000704 (gene)
+T541	GO_CC 14451 14465	outer segments
+#541	AnnotatorNotes T541	GO:0001750 (photoreceptor outer segment)
+T542	CL 14475 14489	Photoreceptors
+#542	AnnotatorNotes T542	CL:0000210 (photoreceptor cell)
+T543	SO 14505 14511	mutant
+#543	AnnotatorNotes T543	SO:0001059 (sequence_alteration)
+T544	NCBITaxon 14512 14516	mice
+#544	AnnotatorNotes T544	NCBITaxon:10088 (Mus)
+T545	EntrezGene 14582 14585	Crx
+#545	AnnotatorNotes T545	EG:12951
+T546	PR 14582 14585	Crx
+#546	AnnotatorNotes T546	PR:000005904 (cone-rod homeobox protein)
+T547	CL 14589 14603	photoreceptors
+#547	AnnotatorNotes T547	CL:0000210 (photoreceptor cell)
+T548	CHEBI 14665 14673	electron
+#548	AnnotatorNotes T548	CHEBI:10545 (electron)
+T549	EntrezGene 14688 14698	peripherin
+#549	AnnotatorNotes T549	EG:19133
+T550	PR 14688 14698	peripherin
+#550	AnnotatorNotes T550	PR:000013290 (peripherin-2)
+T551	EntrezGene 14710 14719	rhodopsin
+#551	AnnotatorNotes T551	EG:212541
+T552	PR 14710 14719	rhodopsin
+#552	AnnotatorNotes T552	PR:000001245 (rhodopsin)
+T553	CL 14727 14741	photoreceptors
+#553	AnnotatorNotes T553	CL:0000210 (photoreceptor cell)
+T554	GO_CC 14818 14820	cc
+#554	AnnotatorNotes T554	GO:0032391 (photoreceptor connecting cilium)
+T555	GO_CC 14822 14839	connecting cilium
+#555	AnnotatorNotes T555	GO:0032391 (photoreceptor connecting cilium)
+T556	GO_CC 14841 14843	is
+#556	AnnotatorNotes T556	GO:0001917 (photoreceptor inner segment)
+T557	GO_CC 14845 14858	inner segment
+#557	AnnotatorNotes T557	GO:0001917 (photoreceptor inner segment)
+T558	EntrezGene 14880 14883	Crx
+#558	AnnotatorNotes T558	EG:12951
+T559	PR 14880 14883	Crx
+#559	AnnotatorNotes T559	PR:000005904 (cone-rod homeobox protein)
+T560	GO_BP 14905 14914	formation
+#560	AnnotatorNotes T560	GO:0022607 (cellular component assembly)
+T561	CL 14918 14931	photoreceptor
+#561	AnnotatorNotes T561	CL:0000210 (photoreceptor cell)
+T562	GO_CC 14932 14941	terminals
+#562	AnnotatorNotes T562	GO:0043679 (nerve terminal)
+T563	GO_BP 14992 15002	expression
+#563	AnnotatorNotes T563	GO:0010467 (gene expression)
+T564	SO 15026 15032	allele
+#564	AnnotatorNotes T564	SO:0001023 (allele)
+T565	EntrezGene 15036 15039	Crx
+#565	AnnotatorNotes T565	EG:12951
+T566	PR 15036 15039	Crx
+#566	AnnotatorNotes T566	PR:000005904 (cone-rod homeobox protein)
+T567	GO_BP 15043 15053	developing
+#567	AnnotatorNotes T567	GO:0032502 (developmental process)
+T568	CL 15054 15058	rods
+#568	AnnotatorNotes T568	CL:0000604 (retinal rod cell)
+T569	GO_BP 15067 15076	formation
+#569	AnnotatorNotes T569	GO:0022607 (cellular component assembly)
+T570	CL 15085 15088	rod
+#570	AnnotatorNotes T570	CL:0000604 (retinal rod cell)
+T571	GO_CC 15138 15152	outer segments
+#571	AnnotatorNotes T571	GO:0001750 (photoreceptor outer segment)
+T572	CL 15208 15221	photoreceptor
+#572	AnnotatorNotes T572	CL:0000210 (photoreceptor cell)
+T573	GO_CC 15222 15230	synapses
+#573	AnnotatorNotes T573	GO:0045202 (synapse)
+T574	EntrezGene 15247 15250	Crx
+#574	AnnotatorNotes T574	EG:12951
+T575	PR 15247 15250	Crx
+#575	AnnotatorNotes T575	PR:000005904 (cone-rod homeobox protein)
+T576	EntrezGene 15266 15269	Crx
+#576	AnnotatorNotes T576	EG:12951
+T577	PR 15266 15269	Crx
+#577	AnnotatorNotes T577	PR:000005904 (cone-rod homeobox protein)
+T578	SO 15269 15270	+
+#578	AnnotatorNotes T578	SO:0000817 (wild_type)
+T579	SO 15271 15272	+
+#579	AnnotatorNotes T579	SO:0000817 (wild_type)
+T580	CL 15302 15305	rod
+#580	AnnotatorNotes T580	CL:0000604 (retinal rod cell)
+T581	GO_CC 15452 15459	synapse
+#581	AnnotatorNotes T581	GO:0045202 (synapse)
+T582	GO_CC 15524 15555	processes from horizontal cells
+#582	AnnotatorNotes T582	"processes from .. cells" GO:0042995 (cell projection)
+T583	CL 15539 15555	horizontal cells
+#583	AnnotatorNotes T583	CL:0000745 (horizontal cell)
+T584	GO_CC 15550 15555	cells
+#584	AnnotatorNotes T584	GO:0005623 (cell)
+T585	GO_CC 15592 15600	synaptic
+#585	AnnotatorNotes T585	GO:0045202 (synapse)
+T586	GO_CC 15647 15656	dendrites
+#586	AnnotatorNotes T586	GO:0030425 (dendrite)
+T587	CL 15660 15677	rod bipolar cells
+#587	AnnotatorNotes T587	CL:0000751 (rod bipolar cell)
+T588	GO_CC 15672 15677	cells
+#588	AnnotatorNotes T588	GO:0005623 (cell)
+T589	CL 15739 15743	Cone
+#589	AnnotatorNotes T589	CL:0000573 (retinal cone cell)
+T590	GO_CC 15744 15753	terminals
+#590	AnnotatorNotes T590	GO:0043679 (nerve terminal)
+T591	GO_CC 15810 15818	synapses
+#591	AnnotatorNotes T591	GO:0045202 (synapse)
+T592	CL 15847 15874	horizontal and bipolar cell
+#592	AnnotatorNotes T592	"horizontal .. cell" CL:0000745 (horizontal cell)
+T593	CL 15862 15874	bipolar cell
+#593	AnnotatorNotes T593	CL:0000103 (bipolar neuron)
+T594	GO_CC 15870 15884	cell processes
+#594	AnnotatorNotes T594	GO:0042995 (cell projection)
+T595	GO_CC 15870 15874	cell
+#595	AnnotatorNotes T595	GO:0005623 (cell)
+T596	GO_CC 15932 15941	terminals
+#596	AnnotatorNotes T596	GO:0043679 (nerve terminal)
+T597	EntrezGene 15982 15985	Crx
+#597	AnnotatorNotes T597	EG:12951
+T598	PR 15982 15985	Crx
+#598	AnnotatorNotes T598	PR:000005904 (cone-rod homeobox protein)
+T599	SO 15985 15986	+
+#599	AnnotatorNotes T599	SO:0000817 (wild_type)
+T600	SO 15987 15988	+
+#600	AnnotatorNotes T600	SO:0000817 (wild_type)
+T601	EntrezGene 16035 16038	Crx
+#601	AnnotatorNotes T601	EG:12951
+T602	PR 16035 16038	Crx
+#602	AnnotatorNotes T602	PR:000005904 (cone-rod homeobox protein)
+T603	CL 16051 16064	photoreceptor
+#603	AnnotatorNotes T603	CL:0000210 (photoreceptor cell)
+T604	GO_CC 16065 16074	terminals
+#604	AnnotatorNotes T604	GO:0043679 (nerve terminal)
+T605	GO_CC 16128 16137	Processes
+#605	AnnotatorNotes T605	GO:0042995 (cell projection)
+T606	GO_CC 16149 16166	synaptic vesicles
+#606	AnnotatorNotes T606	GO:0008021 (synaptic vesicle)
+T607	GO_CC 16149 16157	synaptic
+#607	AnnotatorNotes T607	GO:0045202 (synapse)
+T608	GO_BP 16237 16247	generation
+#608	AnnotatorNotes T608	GO:0022607 (cellular component assembly)
+T609	GO_CC 16251 16269	synapse components
+#609	AnnotatorNotes T609	GO:0044456 (synapse part)
+T610	GO_CC 16251 16258	synapse
+#610	AnnotatorNotes T610	GO:0045202 (synapse)
+T611	GO_BP 16285 16291	formed
+#611	AnnotatorNotes T611	GO:0022607 (cellular component assembly)
+T612	GO_CC 16352 16361	terminals
+#612	AnnotatorNotes T612	GO:0043679 (nerve terminal)
+T613	GO_CC 16441 16456	plasma membrane
+#613	AnnotatorNotes T613	GO:0005886 (plasma membrane)
+T614	GO_CC 16477 16498	perinuclear positions
+#614	AnnotatorNotes T614	GO:0048471 (perinuclear region of cytoplasm)
+T615	CHEBI 16536 16544	electron
+#615	AnnotatorNotes T615	CHEBI:10545 (electron)
+T616	EntrezGene 16589 16592	Crx
+#616	AnnotatorNotes T616	EG:12951
+T617	PR 16589 16592	Crx
+#617	AnnotatorNotes T617	PR:000005904 (cone-rod homeobox protein)
+T618	EntrezGene 16612 16615	Crx
+#618	AnnotatorNotes T618	EG:12951
+T619	PR 16612 16615	Crx
+#619	AnnotatorNotes T619	PR:000005904 (cone-rod homeobox protein)
+T620	SO 16615 16616	+
+#620	AnnotatorNotes T620	SO:0000817 (wild_type)
+T621	SO 16617 16618	+
+#621	AnnotatorNotes T621	SO:0000817 (wild_type)
+T622	GO_BP 16640 16646	formed
+#622	AnnotatorNotes T622	GO:0022607 (cellular component assembly)
+T623	CL 16647 16650	rod
+#623	AnnotatorNotes T623	CL:0000604 (retinal rod cell)
+T624	GO_CC 16776 16783	synapse
+#624	AnnotatorNotes T624	GO:0045202 (synapse)
+T625	CL 16809 16813	Cone
+#625	AnnotatorNotes T625	CL:0000573 (retinal cone cell)
+T626	GO_CC 16814 16823	terminals
+#626	AnnotatorNotes T626	GO:0043679 (nerve terminal)
+T627	GO_BP 16824 16828	form
+#627	AnnotatorNotes T627	GO:0022607 (cellular component assembly)
+T628	GO_CC 16881 16889	synapses
+#628	AnnotatorNotes T628	GO:0045202 (synapse)
+T629	GO_CC 16929 16938	terminals
+#629	AnnotatorNotes T629	GO:0043679 (nerve terminal)
+T630	EntrezGene 16973 16976	Crx
+#630	AnnotatorNotes T630	EG:12951
+T631	PR 16973 16976	Crx
+#631	AnnotatorNotes T631	PR:000005904 (cone-rod homeobox protein)
+T632	SO 16976 16977	+
+#632	AnnotatorNotes T632	SO:0000817 (wild_type)
+T633	SO 16978 16979	+
+#633	AnnotatorNotes T633	SO:0000817 (wild_type)
+T634	EntrezGene 17059 17062	Crx
+#634	AnnotatorNotes T634	EG:12951
+T635	PR 17059 17062	Crx
+#635	AnnotatorNotes T635	PR:000005904 (cone-rod homeobox protein)
+T636	CL 17075 17088	photoreceptor
+#636	AnnotatorNotes T636	CL:0000210 (photoreceptor cell)
+T637	GO_CC 17089 17098	terminals
+#637	AnnotatorNotes T637	GO:0043679 (nerve terminal)
+T638	GO_BP 17150 17156	formed
+#638	AnnotatorNotes T638	GO:0022607 (cellular component assembly)
+T639	GO_CC 17207 17216	terminals
+#639	AnnotatorNotes T639	GO:0043679 (nerve terminal)
+T640	GO_BP 17294 17304	generation
+#640	AnnotatorNotes T640	GO:0022607 (cellular component assembly)
+T641	GO_CC 17308 17326	synapse components
+#641	AnnotatorNotes T641	GO:0044456 (synapse part)
+T642	GO_CC 17308 17315	synapse
+#642	AnnotatorNotes T642	GO:0045202 (synapse)
+T643	GO_CC 17333 17342	terminals
+#643	AnnotatorNotes T643	GO:0043679 (nerve terminal)
+T644	GO_CC 17438 17446	terminal
+#644	AnnotatorNotes T644	GO:0043679 (nerve terminal)
+T645	GO_CC 17491 17499	terminal
+#645	AnnotatorNotes T645	GO:0043679 (nerve terminal)
+T646	CHEBI 17602 17610	electron
+#646	AnnotatorNotes T646	CHEBI:10545 (electron)
+T647	EntrezGene 17655 17658	Crx
+#647	AnnotatorNotes T647	EG:12951
+T648	PR 17655 17658	Crx
+#648	AnnotatorNotes T648	PR:000005904 (cone-rod homeobox protein)
+T649	EntrezGene 17682 17685	Crx
+#649	AnnotatorNotes T649	EG:12951
+T650	PR 17682 17685	Crx
+#650	AnnotatorNotes T650	PR:000005904 (cone-rod homeobox protein)
+T651	SO 17685 17686	+
+#651	AnnotatorNotes T651	SO:0000817 (wild_type)
+T652	SO 17687 17688	+
+#652	AnnotatorNotes T652	SO:0000817 (wild_type)
+T653	CL 17689 17692	rod
+#653	AnnotatorNotes T653	CL:0000604 (retinal rod cell)
+T654	GO_CC 17735 17742	synapse
+#654	AnnotatorNotes T654	GO:0045202 (synapse)
+T655	EntrezGene 17823 17826	Crx
+#655	AnnotatorNotes T655	EG:12951
+T656	PR 17823 17826	Crx
+#656	AnnotatorNotes T656	PR:000005904 (cone-rod homeobox protein)
+T657	SO 17826 17827	+
+#657	AnnotatorNotes T657	SO:0000817 (wild_type)
+T658	SO 17828 17829	+
+#658	AnnotatorNotes T658	SO:0000817 (wild_type)
+T659	CL 17830 17833	rod
+#659	AnnotatorNotes T659	CL:0000604 (retinal rod cell)
+T660	GO_CC 17834 17843	terminals
+#660	AnnotatorNotes T660	GO:0043679 (nerve terminal)
+T661	GO_CC 17889 17898	processes
+#661	AnnotatorNotes T661	GO:0042995 (cell projection)
+T662	CL 17905 17921	horizontal cells
+#662	AnnotatorNotes T662	CL:0000745 (horizontal cell)
+T663	GO_CC 17916 17921	cells
+#663	AnnotatorNotes T663	GO:0005623 (cell)
+T664	CL 17941 17944	rod
+#664	AnnotatorNotes T664	CL:0000604 (retinal rod cell)
+T665	GO_CC 18004 18012	dendrite
+#665	AnnotatorNotes T665	GO:0030425 (dendrite)
+T666	GO_CC 18047 18056	Terminals
+#666	AnnotatorNotes T666	GO:0043679 (nerve terminal)
+T667	GO_CC 18074 18091	synaptic vesicles
+#667	AnnotatorNotes T667	GO:0008021 (synaptic vesicle)
+T668	GO_CC 18074 18082	synaptic
+#668	AnnotatorNotes T668	GO:0045202 (synapse)
+T669	GO_CC 18097 18111	coated vesicle
+#669	AnnotatorNotes T669	GO:0030135 (coated vesicle)
+T670	GO_CC 18133 18146	cell membrane
+#670	AnnotatorNotes T670	GO:0005886 (plasma membrane)
+T671	CL 18133 18137	cell
+#671	AnnotatorNotes T671	CL:0000000 (cell)
+T672	GO_CC 18133 18137	cell
+#672	AnnotatorNotes T672	GO:0005623 (cell)
+T673	EntrezGene 18187 18190	Crx
+#673	AnnotatorNotes T673	EG:12951
+T674	PR 18187 18190	Crx
+#674	AnnotatorNotes T674	PR:000005904 (cone-rod homeobox protein)
+T675	CL 18203 18216	photoreceptor
+#675	AnnotatorNotes T675	CL:0000210 (photoreceptor cell)
+T676	GO_CC 18217 18226	terminals
+#676	AnnotatorNotes T676	GO:0043679 (nerve terminal)
+T677	GO_CC 18266 18275	terminals
+#677	AnnotatorNotes T677	GO:0043679 (nerve terminal)
+T678	GO_CC 18287 18304	synaptic vesicles
+#678	AnnotatorNotes T678	GO:0008021 (synaptic vesicle)
+T679	GO_CC 18287 18295	synaptic
+#679	AnnotatorNotes T679	GO:0045202 (synapse)
+T680	GO_BP 18384 18394	generation
+#680	AnnotatorNotes T680	GO:0022607 (cellular component assembly)
+T681	GO_CC 18398 18416	synapse components
+#681	AnnotatorNotes T681	GO:0044456 (synapse part)
+T682	GO_CC 18398 18405	synapse
+#682	AnnotatorNotes T682	GO:0045202 (synapse)
+T683	GO_BP 18432 18438	formed
+#683	AnnotatorNotes T683	GO:0022607 (cellular component assembly)
+T684	GO_CC 18495 18504	terminals
+#684	AnnotatorNotes T684	GO:0043679 (nerve terminal)
+T685	GO_CC 18621 18629	synaptic
+#685	AnnotatorNotes T685	GO:0045202 (synapse)
+T686	GO_CC 18630 18638	membrane
+#686	AnnotatorNotes T686	GO:0016020 (membrane)
+T687	GO_CC 18706 18717	perinuclear
+#687	AnnotatorNotes T687	GO:0048471 (perinuclear region of cytoplasm)
+T688	CL 18730 18731	H
+#688	AnnotatorNotes T688	CL:0000745 (horizontal cell)
+T689	CL 18733 18748	horizontal cell
+#689	AnnotatorNotes T689	CL:0000745 (horizontal cell)
+T690	GO_CC 18744 18748	cell
+#690	AnnotatorNotes T690	GO:0005623 (cell)
+T691	CL 18750 18751	B
+#691	AnnotatorNotes T691	CL:0000103 (bipolar neuron)
+T692	CL 18753 18765	bipolar cell
+#692	AnnotatorNotes T692	CL:0000103 (bipolar neuron)
+T693	GO_CC 18761 18765	cell
+#693	AnnotatorNotes T693	GO:0005623 (cell)
+T694	GO_CC 18767 18768	N
+#694	AnnotatorNotes T694	GO:0005634 (nucleus)
+T695	GO_CC 18770 18777	nucleus
+#695	AnnotatorNotes T695	GO:0005634 (nucleus)
+T696	EntrezGene 18927 18930	Crx
+#696	AnnotatorNotes T696	EG:12951
+T697	PR 18927 18930	Crx
+#697	AnnotatorNotes T697	PR:000005904 (cone-rod homeobox protein)
+T698	CL 18934 18948	photoreceptors
+#698	AnnotatorNotes T698	CL:0000210 (photoreceptor cell)
+T699	EntrezGene 18969 18972	Crx
+#699	AnnotatorNotes T699	EG:1406
+T700	PR 18969 18972	Crx
+#700	AnnotatorNotes T700	PR:000005904 (cone-rod homeobox protein)
+T701	SO 18973 18982	mutations
+#701	AnnotatorNotes T701	SO:0001059 (sequence_alteration)
+T702	EntrezGene 19178 19181	Crx
+#702	AnnotatorNotes T702	EG:12951
+T703	PR 19178 19181	Crx
+#703	AnnotatorNotes T703	PR:000005904 (cone-rod homeobox protein)
+T704	GO_CC 19218 19231	outer segment
+#704	AnnotatorNotes T704	GO:0001750 (photoreceptor outer segment)
+T705	GO_BP 19232 19245	morphogenesis
+#705	AnnotatorNotes T705	GO:0009653 (anatomical structure morphogenesis)
+T706	GO_CC 19308 19321	outer segment
+#706	AnnotatorNotes T706	GO:0001750 (photoreceptor outer segment)
+T707	GO_BP 19322 19331	formation
+#707	AnnotatorNotes T707	GO:0022607 (cellular component assembly)
+T708	EntrezGene 19337 19340	Crx
+#708	AnnotatorNotes T708	EG:12951
+T709	PR 19337 19340	Crx
+#709	AnnotatorNotes T709	PR:000005904 (cone-rod homeobox protein)
+T710	CL 19344 19358	photoreceptors
+#710	AnnotatorNotes T710	CL:0000210 (photoreceptor cell)
+T711	GO_BP 19394 19411	synapse formation
+#711	AnnotatorNotes T711	GO:0007416 (synaptogenesis)
+T712	GO_CC 19394 19401	synapse
+#712	AnnotatorNotes T712	GO:0045202 (synapse)
+T713	GO_BP 19451 19465	synaptogenesis
+#713	AnnotatorNotes T713	GO:0007416 (synaptogenesis)
+T714	NCBITaxon 19479 19485	animal
+#714	AnnotatorNotes T714	NCBITaxon:33208 (Metazoa)
+T715	EntrezGene 19501 19504	Crx
+#715	AnnotatorNotes T715	EG:12951
+T716	PR 19501 19504	Crx
+#716	AnnotatorNotes T716	PR:000005904 (cone-rod homeobox protein)
+T717	CL 19508 19522	photoreceptors
+#717	AnnotatorNotes T717	CL:0000210 (photoreceptor cell)
+T718	GO_CC 19539 19552	outer segment
+#718	AnnotatorNotes T718	GO:0001750 (photoreceptor outer segment)
+T719	GO_BP 19553 19566	morphogenesis
+#719	AnnotatorNotes T719	GO:0009653 (anatomical structure morphogenesis)
+T720	SO 19568 19577	Mutations
+#720	AnnotatorNotes T720	SO:0001059 (sequence_alteration)
+T721	EntrezGene 19581 19584	Crx
+#721	AnnotatorNotes T721	EG:12951
+T722	PR 19581 19584	Crx
+#722	AnnotatorNotes T722	PR:000005904 (cone-rod homeobox protein)
+T723	SO 19618 19622	gene
+#723	AnnotatorNotes T723	SO:0000704 (gene)
+T724	SO 19623 19632	mutations
+#724	AnnotatorNotes T724	SO:0001059 (sequence_alteration)
+T725	GO_CC 19649 19662	outer segment
+#725	AnnotatorNotes T725	GO:0001750 (photoreceptor outer segment)
+T726	GO_BP 19663 19672	formation
+#726	AnnotatorNotes T726	GO:0022607 (cellular component assembly)
+T727	SO 19697 19706	mutations
+#727	AnnotatorNotes T727	SO:0001059 (sequence_alteration)
+T728	EntrezGene 19714 19724	peripherin
+#728	AnnotatorNotes T728	EG:19133
+T729	PR 19714 19724	peripherin
+#729	AnnotatorNotes T729	PR:000013290 (peripherin-2)
+T730	EntrezGene 19725 19728	RDS
+#730	AnnotatorNotes T730	EG:19133
+T731	PR 19725 19728	RDS
+#731	AnnotatorNotes T731	PR:000013290 (peripherin-2)
+T732	SO 19729 19733	gene
+#732	AnnotatorNotes T732	SO:0000704 (gene)
+T733	EntrezGene 19745 19754	rhodopsin
+#733	AnnotatorNotes T733	EG:212541
+T734	PR 19745 19754	rhodopsin
+#734	AnnotatorNotes T734	PR:000001245 (rhodopsin)
+T735	GO_CC 19781 19794	outer segment
+#735	AnnotatorNotes T735	GO:0001750 (photoreceptor outer segment)
+T736	GO_BP 19795 19804	formation
+#736	AnnotatorNotes T736	GO:0022607 (cellular component assembly)
+T737	EntrezGene 19822 19832	peripherin
+#737	AnnotatorNotes T737	EG:19133
+T738	PR 19822 19832	peripherin
+#738	AnnotatorNotes T738	PR:000013290 (peripherin-2)
+T739	EntrezGene 19840 19843	Crx
+#739	AnnotatorNotes T739	EG:12951
+T740	PR 19840 19843	Crx
+#740	AnnotatorNotes T740	PR:000005904 (cone-rod homeobox protein)
+T741	GO_BP 19847 19874	photoreceptor morphogenesis
+#741	AnnotatorNotes T741	GO:0008594 (photoreceptor cell morphogenesis)
+T742	CL 19847 19860	photoreceptor
+#742	AnnotatorNotes T742	CL:0000210 (photoreceptor cell)
+T743	GO_CC 19906 19926	Vesicular structures
+#743	AnnotatorNotes T743	GO:0031982 (vesicle)
+T744	EntrezGene 19930 19933	Crx
+#744	AnnotatorNotes T744	EG:12951
+T745	PR 19930 19933	Crx
+#745	AnnotatorNotes T745	PR:000005904 (cone-rod homeobox protein)
+T746	CL 19937 19951	photoreceptors
+#746	AnnotatorNotes T746	CL:0000210 (photoreceptor cell)
+T747	EntrezGene 20017 20020	rds
+#747	AnnotatorNotes T747	EG:19133
+T748	PR 20017 20020	rds
+#748	AnnotatorNotes T748	PR:000013290 (peripherin-2)
+T749	EntrezGene 20021 20031	peripherin
+#749	AnnotatorNotes T749	EG:19133
+T750	PR 20021 20031	peripherin
+#750	AnnotatorNotes T750	PR:000013290 (peripherin-2)
+T751	NCBITaxon 20035 20040	mouse
+#751	AnnotatorNotes T751	NCBITaxon:10088 (Mus)
+T752	GO_CC 20079 20087	vesicles
+#752	AnnotatorNotes T752	GO:0031982 (vesicle)
+T753	GO_BP 20104 20140	breakdown of outer segment membranes
+#753	AnnotatorNotes T753	"breakdown of .. membranes" GO:0030397 (membrane disassembly)
+T754	GO_CC 20117 20140	outer segment membranes
+#754	AnnotatorNotes T754	GO:0042622 (photoreceptor outer segment membrane)
+T755	GO_CC 20117 20130	outer segment
+#755	AnnotatorNotes T755	GO:0001750 (photoreceptor outer segment)
+T756	GO_BP 20164 20173	recruited
+#756	AnnotatorNotes T756	GO:0051234 (establishment of localization)
+T757	GO_CC 20181 20195	outer segments
+#757	AnnotatorNotes T757	GO:0001750 (photoreceptor outer segment)
+T758	EntrezGene 20214 20224	peripherin
+#758	AnnotatorNotes T758	EG:19133
+T759	PR 20214 20224	peripherin
+#759	AnnotatorNotes T759	PR:000013290 (peripherin-2)
+T760	GO_BP 20257 20266	breakdown
+#760	AnnotatorNotes T760	GO:0022411 (cellular component disassembly)
+T761	GO_CC 20274 20284	microvilli
+#761	AnnotatorNotes T761	GO:0005902 (microvillus)
+T762	CL 20288 20300	Müller cells
+#762	AnnotatorNotes T762	CL:0000636 (Muller cell)
+T763	GO_CC 20295 20300	cells
+#763	AnnotatorNotes T763	GO:0005623 (cell)
+T764	EntrezGene 20425 20434	rhodopsin
+#764	AnnotatorNotes T764	EG:212541
+T765	PR 20425 20434	rhodopsin
+#765	AnnotatorNotes T765	PR:000001245 (rhodopsin)
+T766	CHEBI 20435 20442	protein
+#766	AnnotatorNotes T766	CHEBI:36080 (proteins)
+T767	GO_CC 20452 20460	vesicles
+#767	AnnotatorNotes T767	GO:0031982 (vesicle)
+T768	EntrezGene 20503 20512	rhodopsin
+#768	AnnotatorNotes T768	EG:509933
+T769	PR 20503 20512	rhodopsin
+#769	AnnotatorNotes T769	PR:000001245 (rhodopsin)
+T770	SO 20513 20520	epitope
+#770	AnnotatorNotes T770	SO:0001018 (epitope)
+T771	GO_CC 20555 20563	vesicles
+#771	AnnotatorNotes T771	GO:0031982 (vesicle)
+T772	GO_BP 20574 20577	bud
+#772	AnnotatorNotes T772	GO:0006900 (membrane budding)
+T773	GO_CC 20587 20601	inner segments
+#773	AnnotatorNotes T773	GO:0001917 (photoreceptor inner segment)
+T774	GO_BP 20618 20628	developing
+#774	AnnotatorNotes T774	GO:0032502 (developmental process)
+T775	CL 20629 20643	photoreceptors
+#775	AnnotatorNotes T775	CL:0000210 (photoreceptor cell)
+T776	GO_BP 20662 20676	growth process
+#776	AnnotatorNotes T776	GO:0040007 (growth)
+T777	GO_CC 20696 20709	outer segment
+#777	AnnotatorNotes T777	GO:0001750 (photoreceptor outer segment)
+T778	GO_BP 20713 20722	generated
+#778	AnnotatorNotes T778	GO:0022607 (cellular component assembly)
+T779	GO_CC 20740 20757	connecting cilium
+#779	AnnotatorNotes T779	GO:0032391 (photoreceptor connecting cilium)
+T780	PR 20793 20803	Peripherin
+#780	AnnotatorNotes T780	PR:000013290 (peripherin-2)
+T781	PR 20804 20807	RDS
+#781	AnnotatorNotes T781	PR:000013290 (peripherin-2)
+T782	PR 20812 20817	ROM-1
+#782	AnnotatorNotes T782	PR:000014157 (rod outer segment membrane protein 1)
+T783	CHEBI 20818 20826	proteins
+#783	AnnotatorNotes T783	CHEBI:36080 (proteins)
+T784	GO_BP 20828 20837	localized
+#784	AnnotatorNotes T784	GO:0051179 (localization)
+T785	PR 20860 20865	opsin
+#785	AnnotatorNotes T785	PR:000001119 (animal opsins)
+T786	CHEBI 20866 20874	proteins
+#786	AnnotatorNotes T786	CHEBI:36080 (proteins)
+T787	GO_BP 20876 20885	localized
+#787	AnnotatorNotes T787	GO:0051179 (localization)
+T788	GO_CC 20967 20981	outer segments
+#788	AnnotatorNotes T788	GO:0001750 (photoreceptor outer segment)
+T789	EntrezGene 20997 21002	ROM-1
+#789	AnnotatorNotes T789	EG:19881
+T790	PR 20997 21002	ROM-1
+#790	AnnotatorNotes T790	PR:000014157 (rod outer segment membrane protein 1)
+T791	NCBITaxon 21006 21010	mice
+#791	AnnotatorNotes T791	NCBITaxon:10088 (Mus)
+T792	GO_BP 21011 21018	produce
+#792	AnnotatorNotes T792	GO:0022607 (cellular component assembly)
+T793	GO_CC 21032 21046	outer segments
+#793	AnnotatorNotes T793	GO:0001750 (photoreceptor outer segment)
+T794	EntrezGene 21070 21073	Crx
+#794	AnnotatorNotes T794	EG:12951
+T795	PR 21070 21073	Crx
+#795	AnnotatorNotes T795	PR:000005904 (cone-rod homeobox protein)
+T796	GO_MF 21096 21116	transcription factor
+#796	AnnotatorNotes T796	GO:0003700 (transcription factor activity)
+T797	independent_continuant 21096 21116	transcription factor
+#797	AnnotatorNotes T797	independent_continuant
+T798	GO_BP 21096 21109	transcription
+#798	AnnotatorNotes T798	GO:0006350 (transcription)
+T799	GO_BP 21129 21137	controls
+#799	AnnotatorNotes T799	GO:0065007 (biological regulation)
+T800	SO 21138 21143	genes
+#800	AnnotatorNotes T800	SO:0000704 (gene)
+T801	GO_BP 21173 21181	building
+#801	AnnotatorNotes T801	GO:0022607 (cellular component assembly)
+T802	GO_CC 21213 21236	outer segment structure
+#802	AnnotatorNotes T802	GO:0001750 (photoreceptor outer segment)
+T803	EntrezGene 21248 21257	rhodopsin
+#803	AnnotatorNotes T803	EG:212541
+T804	PR 21248 21257	rhodopsin
+#804	AnnotatorNotes T804	PR:000001245 (rhodopsin)
+T805	EntrezGene 21262 21272	peripherin
+#805	AnnotatorNotes T805	EG:19133
+T806	PR 21262 21272	peripherin
+#806	AnnotatorNotes T806	PR:000013290 (peripherin-2)
+T807	GO_BP 21342 21357	gene expression
+#807	AnnotatorNotes T807	GO:0010467 (gene expression)
+T808	SO 21342 21346	gene
+#808	AnnotatorNotes T808	SO:0000704 (gene)
+T809	SO 21405 21410	genes
+#809	AnnotatorNotes T809	SO:0000704 (gene)
+T810	GO_BP 21437 21447	expression
+#810	AnnotatorNotes T810	GO:0010467 (gene expression)
+T811	EntrezGene 21457 21460	Crx
+#811	AnnotatorNotes T811	EG:12951
+T812	PR 21457 21460	Crx
+#812	AnnotatorNotes T812	PR:000005904 (cone-rod homeobox protein)
+T813	NCBITaxon 21464 21468	mice
+#813	AnnotatorNotes T813	NCBITaxon:10088 (Mus)
+T814	EntrezGene 21484 21493	rhodopsin
+#814	AnnotatorNotes T814	EG:212541
+T815	PR 21484 21493	rhodopsin
+#815	AnnotatorNotes T815	PR:000001245 (rhodopsin)
+T816	GO_BP 21494 21504	expression
+#816	AnnotatorNotes T816	GO:0010467 (gene expression)
+T817	EntrezGene 21532 21535	Crx
+#817	AnnotatorNotes T817	EG:12951
+T818	PR 21532 21535	Crx
+#818	AnnotatorNotes T818	PR:000005904 (cone-rod homeobox protein)
+T819	NCBITaxon 21539 21546	animals
+#819	AnnotatorNotes T819	NCBITaxon:33208 (Metazoa)
+T820	EntrezGene 21552 21562	peripherin
+#820	AnnotatorNotes T820	EG:19133
+T821	PR 21552 21562	peripherin
+#821	AnnotatorNotes T821	PR:000013290 (peripherin-2)
+T822	CHEBI 21563 21567	mRNA
+#822	AnnotatorNotes T822	CHEBI:33699 (messenger RNA)
+T823	SO 21563 21567	mRNA
+#823	AnnotatorNotes T823	SO:0000234 (mRNA)
+T824	SO 21602 21612	Transgenic
+#824	AnnotatorNotes T824	SO:0000902 (transgene)
+T825	NCBITaxon 21613 21617	mice
+#825	AnnotatorNotes T825	NCBITaxon:10088 (Mus)
+T826	GO_BP 21642 21652	expression
+#826	AnnotatorNotes T826	GO:0010467 (gene expression)
+T827	SO 21656 21665	wild type
+#827	AnnotatorNotes T827	SO:0000817 (wild_type)
+T828	EntrezGene 21666 21675	rhodopsin
+#828	AnnotatorNotes T828	EG:212541
+T829	PR 21666 21675	rhodopsin
+#829	AnnotatorNotes T829	PR:000001245 (rhodopsin)
+T830	CL 21684 21687	rod
+#830	AnnotatorNotes T830	CL:0000604 (retinal rod cell)
+T831	EntrezGene 21749 21758	rhodopsin
+#831	AnnotatorNotes T831	EG:212541
+T832	PR 21749 21758	rhodopsin
+#832	AnnotatorNotes T832	PR:000001245 (rhodopsin)
+T833	GO_BP 21759 21769	expression
+#833	AnnotatorNotes T833	GO:0010467 (gene expression)
+T834	EntrezGene 21798 21807	rhodopsin
+#834	AnnotatorNotes T834	EG:212541
+T835	PR 21798 21807	rhodopsin
+#835	AnnotatorNotes T835	PR:000001245 (rhodopsin)
+T836	GO_BP 21808 21818	expression
+#836	AnnotatorNotes T836	GO:0010467 (gene expression)
+T837	taxonomic_rank 21869 21879	Drosophila
+#837	AnnotatorNotes T837	taxonomic_rank (null)
+T838	NCBITaxon 21869 21879	Drosophila
+#838	AnnotatorNotes T838	NCBITaxon:7215 (Drosophila)
+T839	italic 21885 21895	Drosophila
+#839	AnnotatorNotes T839	italic (null)
+T840	taxonomic_rank 21885 21895	Drosophila
+#840	AnnotatorNotes T840	taxonomic_rank (null)
+T841	NCBITaxon 21885 21895	Drosophila
+#841	AnnotatorNotes T841	NCBITaxon:7215 (Drosophila)
+T842	EntrezGene 21897 21906	rhodopsin
+#842	AnnotatorNotes T842	EG:42367
+T843	PR 21897 21906	rhodopsin
+#843	AnnotatorNotes T843	PR:000001245 (rhodopsin)
+T844	italic 21908 21913	ninaE
+#844	AnnotatorNotes T844	italic (null)
+T845	PR 21908 21913	ninaE
+#845	AnnotatorNotes T845	PR:000001245 (rhodopsin)
+T846	EntrezGene 21908 21913	ninaE
+#846	AnnotatorNotes T846	EG:42367
+T847	GO_BP 21918 21927	expressed
+#847	AnnotatorNotes T847	GO:0010467 (gene expression)
+T848	CL 21931 21951	photoreceptors R1–R6
+#848	AnnotatorNotes T848	"photoreceptors .. R6" CL:0000705 (R6 photoreceptor cell)
+T849	CL 21931 21948	photoreceptors R1
+#849	AnnotatorNotes T849	CL:0000687 (R1 photoreceptor cell)
+T850	italic 21956 21961	ninaE
+#850	AnnotatorNotes T850	italic (null)
+T851	EntrezGene 21956 21961	ninaE
+#851	AnnotatorNotes T851	EG:42367
+T852	PR 21956 21961	ninaE
+#852	AnnotatorNotes T852	PR:000001245 (rhodopsin)
+T853	SO 21967 21974	mutants
+#853	AnnotatorNotes T853	SO:0001059 (sequence_alteration)
+T854	independent_continuant 21967 21974	mutants
+#854	AnnotatorNotes T854	independent_continuant
+T855	GO_CC 21980 21990	rhabdomere
+#855	AnnotatorNotes T855	GO:0016028 (rhabdomere)
+T856	NCBITaxon 22017 22027	vertebrate
+#856	AnnotatorNotes T856	NCBITaxon:7742 (Vertebrata)
+T857	GO_BP 22053 22060	develop
+#857	AnnotatorNotes T857	GO:0022607 (cellular component assembly)
+T858	CL 22064 22084	R1–R6 photoreceptors
+#858	AnnotatorNotes T858	"R1 .. photoreceptors" CL:0000687 (R1 photoreceptor cell)
+T859	CL 22067 22084	R6 photoreceptors
+#859	AnnotatorNotes T859	CL:0000705 (R6 photoreceptor cell)
+T860	EntrezGene 22123 22132	rhodopsin
+#860	AnnotatorNotes T860	EG:212541
+T861	PR 22123 22132	rhodopsin
+#861	AnnotatorNotes T861	PR:000001245 (rhodopsin)
+T862	NCBITaxon 22136 22140	mice
+#862	AnnotatorNotes T862	NCBITaxon:10088 (Mus)
+T863	EntrezGene 22233 22242	rhodopsin
+#863	AnnotatorNotes T863	EG:42367
+T864	PR 22233 22242	rhodopsin
+#864	AnnotatorNotes T864	PR:000001245 (rhodopsin)
+T865	GO_BP 22243 22253	expression
+#865	AnnotatorNotes T865	GO:0010467 (gene expression)
+T866	GO_BP 22261 22283	rhabdomere development
+#866	AnnotatorNotes T866	GO:0042052 (rhabdomere development)
+T867	GO_CC 22261 22271	rhabdomere
+#867	AnnotatorNotes T867	GO:0016028 (rhabdomere)
+T868	italic 22288 22293	ninaE
+#868	AnnotatorNotes T868	italic (null)
+T869	PR 22288 22293	ninaE
+#869	AnnotatorNotes T869	PR:000001245 (rhodopsin)
+T870	EntrezGene 22288 22293	ninaE
+#870	AnnotatorNotes T870	EG:42367
+T871	NCBITaxon 22299 22304	flies
+#871	AnnotatorNotes T871	NCBITaxon:7147 (Diptera)
+T872	italic 22308 22313	ninaE
+#872	AnnotatorNotes T872	italic (null)
+T873	EntrezGene 22308 22313	ninaE
+#873	AnnotatorNotes T873	EG:42367
+T874	PR 22308 22313	ninaE
+#874	AnnotatorNotes T874	PR:000001245 (rhodopsin)
+T875	SO 22314 22323	transgene
+#875	AnnotatorNotes T875	SO:0000902 (transgene)
+T876	GO_BP 22334 22341	control
+#876	AnnotatorNotes T876	GO:0065007 (biological regulation)
+T877	SO 22358 22366	promoter
+#877	AnnotatorNotes T877	SO:0000167 (promoter)
+T878	GO_BP 22418 22429	development
+#878	AnnotatorNotes T878	GO:0032502 (developmental process)
+T879	EntrezGene 22468 22477	rhodopsin
+#879	AnnotatorNotes T879	EG:42367
+T880	PR 22468 22477	rhodopsin
+#880	AnnotatorNotes T880	PR:000001245 (rhodopsin)
+T881	CL 22535 22548	photoreceptor
+#881	AnnotatorNotes T881	CL:0000210 (photoreceptor cell)
+T882	CL 22583 22596	photoreceptor
+#882	AnnotatorNotes T882	CL:0000210 (photoreceptor cell)
+T883	GO_BP 22618 22628	expression
+#883	AnnotatorNotes T883	GO:0010467 (gene expression)
+T884	EntrezGene 22708 22717	rhodopsin
+#884	AnnotatorNotes T884	EG:42367
+T885	PR 22708 22717	rhodopsin
+#885	AnnotatorNotes T885	PR:000001245 (rhodopsin)
+T886	GO_BP 22718 22728	expression
+#886	AnnotatorNotes T886	GO:0010467 (gene expression)
+T887	GO_BP 22765 22776	development
+#887	AnnotatorNotes T887	GO:0032502 (developmental process)
+T888	GO_CC 22801 22811	rhabdomere
+#888	AnnotatorNotes T888	GO:0016028 (rhabdomere)
+T889	GO_BP 22812 22825	morphogenesis
+#889	AnnotatorNotes T889	GO:0009653 (anatomical structure morphogenesis)
+T890	NCBITaxon 22878 22881	rat
+#890	AnnotatorNotes T890	NCBITaxon:10114 (Rattus)
+T891	EntrezGene 22890 22899	rhodopsin
+#891	AnnotatorNotes T891	EG:24717
+T892	PR 22890 22899	rhodopsin
+#892	AnnotatorNotes T892	PR:000001245 (rhodopsin)
+T893	GO_BP 22939 22952	developmental
+#893	AnnotatorNotes T893	GO:0032502 (developmental process)
+T894	CL 22969 22973	rods
+#894	AnnotatorNotes T894	CL:0000604 (retinal rod cell)
+T895	GO_BP 23006 23016	regulation
+#895	AnnotatorNotes T895	GO:0065007 (biological regulation)
+T896	EntrezGene 23020 23029	rhodopsin
+#896	AnnotatorNotes T896	EG:212541
+T897	PR 23020 23029	rhodopsin
+#897	AnnotatorNotes T897	PR:000001245 (rhodopsin)
+T898	GO_BP 23057 23064	control
+#898	AnnotatorNotes T898	GO:0065007 (biological regulation)
+T899	GO_BP 23088 23101	up-regulation
+#899	AnnotatorNotes T899	GO:0048518 (positive regulation of biological process)
+T900	EntrezGene 23105 23114	rhodopsin
+#900	AnnotatorNotes T900	EG:212541
+T901	PR 23105 23114	rhodopsin
+#901	AnnotatorNotes T901	PR:000001245 (rhodopsin)
+T902	EntrezGene 23138 23141	Crx
+#902	AnnotatorNotes T902	EG:12951
+T903	PR 23138 23141	Crx
+#903	AnnotatorNotes T903	PR:000005904 (cone-rod homeobox protein)
+T904	GO_BP 23149 23159	regulating
+#904	AnnotatorNotes T904	GO:0065007 (biological regulation)
+T905	GO_CC 23160 23173	outer segment
+#905	AnnotatorNotes T905	GO:0001750 (photoreceptor outer segment)
+T906	GO_BP 23174 23187	morphogenesis
+#906	AnnotatorNotes T906	GO:0009653 (anatomical structure morphogenesis)
+T907	PR 23264 23267	Crx
+#907	AnnotatorNotes T907	PR:000005904 (cone-rod homeobox protein)
+T908	taxonomic_rank 23280 23290	Drosophila
+#908	AnnotatorNotes T908	taxonomic_rank (null)
+T909	NCBITaxon 23280 23290	Drosophila
+#909	AnnotatorNotes T909	NCBITaxon:7215 (Drosophila)
+T910	EntrezGene 23294 23297	Otd
+#910	AnnotatorNotes T910	EG:31802
+T911	SO 23344 23349	genes
+#911	AnnotatorNotes T911	SO:0000704 (gene)
+T912	PR 23359 23362	Crx
+#912	AnnotatorNotes T912	PR:000005904 (cone-rod homeobox protein)
+T913	SO 23406 23412	allele
+#913	AnnotatorNotes T913	SO:0001023 (allele)
+T914	italic 23416 23430	Drosophila otd
+#914	AnnotatorNotes T914	italic (null)
+T915	EntrezGene 23416 23430	Drosophila otd
+#915	AnnotatorNotes T915	EG:31802
+T916	taxonomic_rank 23416 23426	Drosophila
+#916	AnnotatorNotes T916	taxonomic_rank (null)
+T917	NCBITaxon 23416 23426	Drosophila
+#917	AnnotatorNotes T917	NCBITaxon:7215 (Drosophila)
+T918	italic 23432 23435	otd
+#918	AnnotatorNotes T918	italic (null)
+T919	sup 23435 23438	uvi
+#919	AnnotatorNotes T919	sup (null)
+T920	italic 23435 23438	uvi
+#920	AnnotatorNotes T920	italic (null)
+T921	GO_BP 23440 23467	photoreceptor morphogenesis
+#921	AnnotatorNotes T921	GO:0008594 (photoreceptor cell morphogenesis)
+T922	CL 23440 23453	photoreceptor
+#922	AnnotatorNotes T922	CL:0000210 (photoreceptor cell)
+T923	SO 23528 23533	genes
+#923	AnnotatorNotes T923	SO:0000704 (gene)
+T924	EntrezGene 23558 23561	Crx
+#924	AnnotatorNotes T924	EG:12951
+T925	PR 23558 23561	Crx
+#925	AnnotatorNotes T925	PR:000005904 (cone-rod homeobox protein)
+T926	GO_BP 23578 23587	expressed
+#926	AnnotatorNotes T926	GO:0010467 (gene expression)
+T927	EntrezGene 23612 23615	Crx
+#927	AnnotatorNotes T927	EG:12951
+T928	PR 23612 23615	Crx
+#928	AnnotatorNotes T928	PR:000005904 (cone-rod homeobox protein)
+T929	EntrezGene 23635 23644	rhodopsin
+#929	AnnotatorNotes T929	EG:212541
+T930	PR 23635 23644	rhodopsin
+#930	AnnotatorNotes T930	PR:000001245 (rhodopsin)
+T931	EntrezGene 23649 23659	peripherin
+#931	AnnotatorNotes T931	EG:19133
+T932	PR 23649 23659	peripherin
+#932	AnnotatorNotes T932	PR:000013290 (peripherin-2)
+T933	CL 23715 23729	photoreceptors
+#933	AnnotatorNotes T933	CL:0000210 (photoreceptor cell)
+T934	GO_BP 23739 23749	expression
+#934	AnnotatorNotes T934	GO:0010467 (gene expression)
+T935	SO 23769 23776	enzymes
+#935	AnnotatorNotes T935	SO:0001185 (enzymatic)
+T936	GO_BP 23799 23815	lipid metabolism
+#936	AnnotatorNotes T936	GO:0006629 (lipid metabolic process)
+T937	CHEBI 23799 23804	lipid
+#937	AnnotatorNotes T937	CHEBI:18059 (lipids)
+T938	GO_BP 23817 23832	protein folding
+#938	AnnotatorNotes T938	GO:0006457 (protein folding)
+T939	CHEBI 23817 23824	protein
+#939	AnnotatorNotes T939	CHEBI:36080 (proteins)
+T940	GO_BP 23837 23846	transport
+#940	AnnotatorNotes T940	GO:0006810 (transport)
+T941	GO_BP 23924 23932	building
+#941	AnnotatorNotes T941	GO:0022607 (cellular component assembly)
+T942	GO_CC 23957 23970	outer segment
+#942	AnnotatorNotes T942	GO:0001750 (photoreceptor outer segment)
+T943	GO_MF 23980 23993	hybridization
+#943	AnnotatorNotes T943	GO:0000739 (DNA strand annealing activity)
+T944	GO_MF 23980 23993	hybridization
+#944	AnnotatorNotes T944	GO:0033592 (RNA strand annealing activity)
+T945	SO 24000 24006	probes
+#945	AnnotatorNotes T945	SO:0000051 (probe)
+T946	SO 24031 24036	genes
+#946	AnnotatorNotes T946	SO:0000704 (gene)
+T947	SO 24079 24082	RNA
+#947	AnnotatorNotes T947	SO:0000356 (RNA)
+T948	GO_BP 24083 24092	localized
+#948	AnnotatorNotes T948	GO:0051179 (localization)
+T949	GO_CC 24100 24113	inner segment
+#949	AnnotatorNotes T949	GO:0001917 (photoreceptor inner segment)
+T950	CHEBI 24137 24145	proteins
+#950	AnnotatorNotes T950	CHEBI:36080 (proteins)
+T951	GO_BP 24146 24154	targeted
+#951	AnnotatorNotes T951	GO:0006605 (protein targeting)
+T952	GO_CC 24162 24175	outer segment
+#952	AnnotatorNotes T952	GO:0001750 (photoreceptor outer segment)
+T953	SO 24218 24223	genes
+#953	AnnotatorNotes T953	SO:0000704 (gene)
+T954	GO_CC 24251 24264	outer segment
+#954	AnnotatorNotes T954	GO:0001750 (photoreceptor outer segment)
+T955	GO_BP 24265 24275	biogenesis
+#955	AnnotatorNotes T955	GO:0022607 (cellular component assembly)
+T956	GO_BP 24287 24299	polarization
+#956	AnnotatorNotes T956	GO:0030010 (establishment of cell polarity)
+T957	CL 24303 24317	photoreceptors
+#957	AnnotatorNotes T957	CL:0000210 (photoreceptor cell)
+T958	GO_BP 24357 24369	ciliogenesis
+#958	AnnotatorNotes T958	GO:0042384 (cilium biogenesis)
+T959	SO 24383 24387	gene
+#959	AnnotatorNotes T959	SO:0000704 (gene)
+T960	PR 24389 24393	CRB1
+#960	AnnotatorNotes T960	PR:000005848 (crumbs 1)
+T961	SO 24409 24413	gene
+#961	AnnotatorNotes T961	SO:0000704 (gene)
+T962	PR 24414 24418	CRB3
+#962	AnnotatorNotes T962	PR:000005850 (crumbs protein 3)
+T963	GO_BP 24444 24456	ciliogenesis
+#963	AnnotatorNotes T963	GO:0042384 (cilium biogenesis)
+T964	italic 24460 24468	in vitro
+#964	AnnotatorNotes T964	italic (null)
+T965	italic 24486 24496	Drosophila
+#965	AnnotatorNotes T965	italic (null)
+T966	NCBITaxon 24486 24496	Drosophila
+#966	AnnotatorNotes T966	NCBITaxon:7215 (Drosophila)
+T967	taxonomic_rank 24486 24496	Drosophila
+#967	AnnotatorNotes T967	taxonomic_rank (null)
+T968	SO 24497 24506	homologue
+#968	AnnotatorNotes T968	SO:0000853 (homologous_region)
+T969	PR 24510 24514	CRB1
+#969	AnnotatorNotes T969	PR:000005848 (crumbs 1)
+T970	EntrezGene 24516 24522	Crumbs
+#970	AnnotatorNotes T970	EG:42896
+T971	GO_BP 24547 24574	photoreceptor morphogenesis
+#971	AnnotatorNotes T971	GO:0008594 (photoreceptor cell morphogenesis)
+T972	CL 24547 24560	photoreceptor
+#972	AnnotatorNotes T972	CL:0000210 (photoreceptor cell)
+T973	NCBITaxon 24618 24623	mouse
+#973	AnnotatorNotes T973	NCBITaxon:10088 (Mus)
+T974	SO 24624 24630	mutant
+#974	AnnotatorNotes T974	SO:0001059 (sequence_alteration)
+T975	independent_continuant 24624 24630	mutant
+#975	AnnotatorNotes T975	independent_continuant
+T976	EntrezGene 24634 24638	CRB1
+#976	AnnotatorNotes T976	EG:170788
+T977	PR 24634 24638	CRB1
+#977	AnnotatorNotes T977	PR:000005848 (crumbs 1)
+T978	NCBITaxon 24648 24653	mouse
+#978	AnnotatorNotes T978	NCBITaxon:10088 (Mus)
+T979	GO_BP 24655 24663	develops
+#979	AnnotatorNotes T979	GO:0022607 (cellular component assembly)
+T980	GO_CC 24674 24688	outer segments
+#980	AnnotatorNotes T980	GO:0001750 (photoreceptor outer segment)
+T981	CL 24740 24753	photoreceptor
+#981	AnnotatorNotes T981	CL:0000210 (photoreceptor cell)
+T982	GO_BP 24754 24766	polarization
+#982	AnnotatorNotes T982	GO:0030010 (establishment of cell polarity)
+T983	GO_BP 24771 24785	synaptogenesis
+#983	AnnotatorNotes T983	GO:0007416 (synaptogenesis)
+T984	SO 24805 24811	mutant
+#984	AnnotatorNotes T984	SO:0001059 (sequence_alteration)
+T985	independent_continuant 24805 24811	mutant
+#985	AnnotatorNotes T985	independent_continuant
+T986	EntrezGene 24819 24823	CRB1
+#986	AnnotatorNotes T986	EG:23418
+T987	PR 24819 24823	CRB1
+#987	AnnotatorNotes T987	PR:000005848 (crumbs 1)
+T988	EntrezGene 24828 24831	Crx
+#988	AnnotatorNotes T988	EG:1406
+T989	PR 24828 24831	Crx
+#989	AnnotatorNotes T989	PR:000005904 (cone-rod homeobox protein)
+T990	GO_BP 24932 24951	retinal development
+#990	AnnotatorNotes T990	GO:0060041 (retina development in camera-type eye)
+T991	GO_BP 24954 24968	Synaptogenesis
+#991	AnnotatorNotes T991	GO:0007416 (synaptogenesis)
+T992	EntrezGene 24985 24988	Crx
+#992	AnnotatorNotes T992	EG:12951
+T993	PR 24985 24988	Crx
+#993	AnnotatorNotes T993	PR:000005904 (cone-rod homeobox protein)
+T994	CL 24992 25006	photoreceptors
+#994	AnnotatorNotes T994	CL:0000210 (photoreceptor cell)
+T995	EntrezGene 25012 25015	Crx
+#995	AnnotatorNotes T995	EG:12951
+T996	PR 25012 25015	Crx
+#996	AnnotatorNotes T996	PR:000005904 (cone-rod homeobox protein)
+T997	NCBITaxon 25019 25024	mouse
+#997	AnnotatorNotes T997	NCBITaxon:10088 (Mus)
+T998	CL 25069 25082	photoreceptor
+#998	AnnotatorNotes T998	CL:0000210 (photoreceptor cell)
+T999	GO_CC 25083 25091	synapses
+#999	AnnotatorNotes T999	GO:0045202 (synapse)
+T1000	EntrezGene 25114 25124	peripherin
+#1000	AnnotatorNotes T1000	EG:19133
+T1001	PR 25114 25124	peripherin
+#1001	AnnotatorNotes T1001	PR:000013290 (peripherin-2)
+T1002	NCBITaxon 25128 25133	mouse
+#1002	AnnotatorNotes T1002	NCBITaxon:10088 (Mus)
+T1003	GO_BP 25134 25142	develops
+#1003	AnnotatorNotes T1003	GO:0022607 (cellular component assembly)
+T1004	CL 25166 25179	photoreceptor
+#1004	AnnotatorNotes T1004	CL:0000210 (photoreceptor cell)
+T1005	GO_CC 25180 25189	terminals
+#1005	AnnotatorNotes T1005	GO:0043679 (nerve terminal)
+T1006	CL 25219 25233	photoreceptors
+#1006	AnnotatorNotes T1006	CL:0000210 (photoreceptor cell)
+T1007	EntrezGene 25268 25277	rhodopsin
+#1007	AnnotatorNotes T1007	EG:212541
+T1008	PR 25268 25277	rhodopsin
+#1008	AnnotatorNotes T1008	PR:000001245 (rhodopsin)
+T1009	EntrezGene 25279 25282	Rho
+#1009	AnnotatorNotes T1009	EG:212541
+T1010	PR 25279 25282	Rho
+#1010	AnnotatorNotes T1010	PR:000001245 (rhodopsin)
+T1011	EntrezGene 25288 25328	cyclic nucleotide-gated channel, alpha-3
+#1011	AnnotatorNotes T1011	EG:12790
+T1012	PR 25288 25328	cyclic nucleotide-gated channel, alpha-3
+#1012	AnnotatorNotes T1012	PR:000000696 (cyclic nucleotide-gated cation channel alpha-3)
+T1013	CHEBI 25288 25305	cyclic nucleotide
+#1013	AnnotatorNotes T1013	CHEBI:23447 (cyclic nucleotides)
+T1014	CHEBI 25288 25294	cyclic
+#1014	AnnotatorNotes T1014	CHEBI:33595 (cyclic compounds)
+T1015	GO_MF 25306 25319	gated channel
+#1015	AnnotatorNotes T1015	GO:0022836 (gated channel activity)
+T1016	independent_continuant 25306 25319	gated channel
+#1016	AnnotatorNotes T1016	independent_continuant
+T1017	EntrezGene 25330 25335	CNGA3
+#1017	AnnotatorNotes T1017	EG:12790
+T1018	PR 25330 25335	CNGA3
+#1018	AnnotatorNotes T1018	PR:000000696 (cyclic nucleotide-gated cation channel alpha-3)
+T1019	NCBITaxon 25353 25357	mice
+#1019	AnnotatorNotes T1019	NCBITaxon:10088 (Mus)
+T1020	EntrezGene 25359 25362	Rho
+#1020	AnnotatorNotes T1020	EG:212541
+T1021	PR 25359 25362	Rho
+#1021	AnnotatorNotes T1021	PR:000001245 (rhodopsin)
+T1022	EntrezGene 25367 25372	CNGA3
+#1022	AnnotatorNotes T1022	EG:12790
+T1023	PR 25367 25372	CNGA3
+#1023	AnnotatorNotes T1023	PR:000000696 (cyclic nucleotide-gated cation channel alpha-3)
+T1024	GO_CC 25378 25386	synapses
+#1024	AnnotatorNotes T1024	GO:0045202 (synapse)
+T1025	GO_BP 25403 25407	form
+#1025	AnnotatorNotes T1025	GO:0022607 (cellular component assembly)
+T1026	CL 25459 25472	photoreceptor
+#1026	AnnotatorNotes T1026	CL:0000210 (photoreceptor cell)
+T1027	GO_BP 25473 25487	synaptogenesis
+#1027	AnnotatorNotes T1027	GO:0007416 (synaptogenesis)
+T1028	GO_CC 25516 25529	outer segment
+#1028	AnnotatorNotes T1028	GO:0001750 (photoreceptor outer segment)
+T1029	GO_BP 25530 25539	formation
+#1029	AnnotatorNotes T1029	GO:0022607 (cellular component assembly)
+T1030	EntrezGene 25637 25647	peripherin
+#1030	AnnotatorNotes T1030	EG:19133
+T1031	PR 25637 25647	peripherin
+#1031	AnnotatorNotes T1031	PR:000013290 (peripherin-2)
+T1032	NCBITaxon 25651 25655	mice
+#1032	AnnotatorNotes T1032	NCBITaxon:10088 (Mus)
+T1033	GO_BP 25681 25698	phototransduction
+#1033	AnnotatorNotes T1033	GO:0007602 (phototransduction)
+T1034	NCBITaxon 25719 25723	mice
+#1034	AnnotatorNotes T1034	NCBITaxon:10088 (Mus)
+T1035	GO_BP 25735 25740	drive
+#1035	AnnotatorNotes T1035	GO:0048518 (positive regulation of biological process)
+T1036	GO_BP 25741 25778	activity at the photoreceptor synapse
+#1036	AnnotatorNotes T1036	"activity at .. synapse" GO:0007268 (synaptic transmission)
+T1037	CL 25757 25770	photoreceptor
+#1037	AnnotatorNotes T1037	CL:0000210 (photoreceptor cell)
+T1038	GO_CC 25771 25778	synapse
+#1038	AnnotatorNotes T1038	GO:0045202 (synapse)
+T1039	GO_CC 25805 25821	synapse elements
+#1039	AnnotatorNotes T1039	GO:0044456 (synapse part)
+T1040	GO_CC 25805 25812	synapse
+#1040	AnnotatorNotes T1040	GO:0045202 (synapse)
+T1041	GO_BP 25826 25832	formed
+#1041	AnnotatorNotes T1041	GO:0022607 (cellular component assembly)
+T1042	GO_CC 25858 25871	outer segment
+#1042	AnnotatorNotes T1042	GO:0001750 (photoreceptor outer segment)
+T1043	GO_BP 25872 25883	development
+#1043	AnnotatorNotes T1043	GO:0022607 (cellular component assembly)
+T1044	CL 25936 25949	photoreceptor
+#1044	AnnotatorNotes T1044	CL:0000210 (photoreceptor cell)
+T1045	GO_BP 25995 26012	phototransduction
+#1045	AnnotatorNotes T1045	GO:0007602 (phototransduction)
+T1046	GO_BP 26017 26034	synapse formation
+#1046	AnnotatorNotes T1046	GO:0007416 (synaptogenesis)
+T1047	GO_CC 26017 26024	synapse
+#1047	AnnotatorNotes T1047	GO:0045202 (synapse)
+T1048	EntrezGene 26124 26127	Crx
+#1048	AnnotatorNotes T1048	EG:12951
+T1049	PR 26124 26127	Crx
+#1049	AnnotatorNotes T1049	PR:000005904 (cone-rod homeobox protein)
+T1050	CL 26131 26145	photoreceptors
+#1050	AnnotatorNotes T1050	CL:0000210 (photoreceptor cell)
+T1051	GO_CC 26165 26181	synaptic endings
+#1051	AnnotatorNotes T1051	GO:0044456 (synapse part)
+T1052	GO_CC 26165 26173	synaptic
+#1052	AnnotatorNotes T1052	GO:0045202 (synapse)
+T1053	GO_CC 26206 26219	outer segment
+#1053	AnnotatorNotes T1053	GO:0001750 (photoreceptor outer segment)
+T1054	GO_BP 26220 26229	formation
+#1054	AnnotatorNotes T1054	GO:0022607 (cellular component assembly)
+T1055	EntrezGene 26265 26268	Crx
+#1055	AnnotatorNotes T1055	EG:12951
+T1056	PR 26265 26268	Crx
+#1056	AnnotatorNotes T1056	PR:000005904 (cone-rod homeobox protein)
+T1057	CL 26285 26298	photoreceptor
+#1057	AnnotatorNotes T1057	CL:0000210 (photoreceptor cell)
+T1058	GO_BP 26299 26316	synapse formation
+#1058	AnnotatorNotes T1058	GO:0007416 (synaptogenesis)
+T1059	GO_CC 26299 26306	synapse
+#1059	AnnotatorNotes T1059	GO:0045202 (synapse)
+T1060	GO_BP 26329 26339	regulating
+#1060	AnnotatorNotes T1060	GO:0065007 (biological regulation)
+T1061	SO 26375 26380	genes
+#1061	AnnotatorNotes T1061	SO:0000704 (gene)
+T1062	GO_BP 26442 26452	expression
+#1062	AnnotatorNotes T1062	GO:0010467 (gene expression)
+T1063	GO_CC 26467 26475	synaptic
+#1063	AnnotatorNotes T1063	GO:0045202 (synapse)
+T1064	GO_CC 26476 26484	terminal
+#1064	AnnotatorNotes T1064	GO:0043679 (nerve terminal)
+T1065	CHEBI 26485 26493	proteins
+#1065	AnnotatorNotes T1065	CHEBI:36080 (proteins)
+T1066	EntrezGene 26505 26510	KIF3a
+#1066	AnnotatorNotes T1066	EG:16568
+T1067	PR 26505 26510	KIF3a
+#1067	AnnotatorNotes T1067	PR:000009311 (kinesin-like protein KIF3A)
+T1068	EntrezGene 26512 26515	SV2
+#1068	AnnotatorNotes T1068	EG:64051
+T1069	PR 26512 26515	SV2
+#1069	AnnotatorNotes T1069	PR:000015849 (synaptic vesicle glycoprotein 2A)
+T1070	EntrezGene 26521 26534	synaptophysin
+#1070	AnnotatorNotes T1070	EG:20977
+T1071	PR 26521 26534	synaptophysin
+#1071	AnnotatorNotes T1071	PR:000015890 (synaptophysin)
+T1072	EntrezGene 26595 26598	Crx
+#1072	AnnotatorNotes T1072	EG:12951
+T1073	PR 26595 26598	Crx
+#1073	AnnotatorNotes T1073	PR:000005904 (cone-rod homeobox protein)
+T1074	SO 26667 26670	RNA
+#1074	AnnotatorNotes T1074	SO:0000356 (RNA)
+T1075	SO 26729 26734	genes
+#1075	AnnotatorNotes T1075	SO:0000704 (gene)
+T1076	SO 26752 26756	tags
+#1076	AnnotatorNotes T1076	SO:0000324 (tag)
+T1077	SO 26783 26788	genes
+#1077	AnnotatorNotes T1077	SO:0000704 (gene)
+T1078	SO 26814 26817	RNA
+#1078	AnnotatorNotes T1078	SO:0000356 (RNA)
+T1079	SO 26875 26880	genes
+#1079	AnnotatorNotes T1079	SO:0000704 (gene)
+T1080	GO_BP 26881 26890	expressed
+#1080	AnnotatorNotes T1080	GO:0010467 (gene expression)
+T1081	CL 26894 26908	photoreceptors
+#1081	AnnotatorNotes T1081	CL:0000210 (photoreceptor cell)
+T1082	GO_BP 26945 26955	expression
+#1082	AnnotatorNotes T1082	GO:0010467 (gene expression)
+T1083	EntrezGene 26969 26972	Crx
+#1083	AnnotatorNotes T1083	EG:12951
+T1084	PR 26969 26972	Crx
+#1084	AnnotatorNotes T1084	PR:000005904 (cone-rod homeobox protein)
+T1085	NCBITaxon 26976 26981	mouse
+#1085	AnnotatorNotes T1085	NCBITaxon:10088 (Mus)
+T1086	GO_BP 27037 27064	photoreceptor morphogenesis
+#1086	AnnotatorNotes T1086	GO:0008594 (photoreceptor cell morphogenesis)
+T1087	CL 27037 27050	photoreceptor
+#1087	AnnotatorNotes T1087	CL:0000210 (photoreceptor cell)
+T1088	SO 27066 27070	Tags
+#1088	AnnotatorNotes T1088	SO:0000324 (tag)
+T1089	SO 27082 27087	genes
+#1089	AnnotatorNotes T1089	SO:0000704 (gene)
+T1090	CHEBI 27093 27101	proteins
+#1090	AnnotatorNotes T1090	CHEBI:36080 (proteins)
+T1091	GO_BP 27102 27111	expressed
+#1091	AnnotatorNotes T1091	GO:0010467 (gene expression)
+T1092	CL 27115 27128	photoreceptor
+#1092	AnnotatorNotes T1092	CL:0000210 (photoreceptor cell)
+T1093	GO_CC 27129 27138	terminals
+#1093	AnnotatorNotes T1093	GO:0043679 (nerve terminal)
+T1094	EntrezGene 27217 27256	HGF-regulated tyrosine kinase substrate
+#1094	AnnotatorNotes T1094	EG:15239
+T1095	PR 27217 27256	HGF-regulated tyrosine kinase substrate
+#1095	AnnotatorNotes T1095	PR:000008536 (hepatocyte growth factor-regulated tyrosine kinase substrate)
+T1096	EntrezGene 27217 27220	HGF
+#1096	AnnotatorNotes T1096	EG:15234
+T1097	PR 27217 27220	HGF
+#1097	AnnotatorNotes T1097	PR:000008534 (hepatocyte growth factor)
+T1098	GO_BP 27221 27230	regulated
+#1098	AnnotatorNotes T1098	GO:0065007 (biological regulation)
+T1099	GO_MF 27231 27246	tyrosine kinase
+#1099	AnnotatorNotes T1099	GO:0004713 (protein-tyrosine kinase activity)
+T1100	independent_continuant 27231 27246	tyrosine kinase
+#1100	AnnotatorNotes T1100	independent_continuant
+T1101	CHEBI 27231 27239	tyrosine
+#1101	AnnotatorNotes T1101	CHEBI:32789 (tyrosine residue)
+T1102	SO 27231 27239	tyrosine
+#1102	AnnotatorNotes T1102	SO:0001446 (tyrosine)
+T1103	EntrezGene 27262 27275	CRIPT protein
+#1103	AnnotatorNotes T1103	EG:56724
+T1104	PR 27262 27267	CRIPT
+#1104	AnnotatorNotes T1104	PR:000005877 (cysteine-rich PDZ-binding protein)
+T1105	CHEBI 27268 27275	protein
+#1105	AnnotatorNotes T1105	CHEBI:36080 (proteins)
+T1106	EntrezGene 27281 27296	synaptotagmin 1
+#1106	AnnotatorNotes T1106	EG:20979
+T1107	PR 27281 27296	synaptotagmin 1
+#1107	AnnotatorNotes T1107	PR:000015894 (synaptotagmin-1)
+T1108	SO 27354 27358	gene
+#1108	AnnotatorNotes T1108	SO:0000704 (gene)
+T1109	EntrezGene 27385 27388	Crx
+#1109	AnnotatorNotes T1109	EG:12951
+T1110	PR 27385 27388	Crx
+#1110	AnnotatorNotes T1110	PR:000005904 (cone-rod homeobox protein)
+T1111	EntrezGene 27402 27406	HRG4
+#1111	AnnotatorNotes T1111	EG:22248
+T1112	PR 27402 27406	HRG4
+#1112	AnnotatorNotes T1112	PR:000017084 (protein unc-119 A)
+T1113	SO 27410 27419	homologue
+#1113	AnnotatorNotes T1113	SO:0000853 (homologous_region)
+T1114	EntrezGene 27427 27444	C. elegans Unc119
+#1114	AnnotatorNotes T1114	EG:176519
+T1115	NCBITaxon 27427 27437	C. elegans
+#1115	AnnotatorNotes T1115	NCBITaxon:6239 (Caenorhabditis elegans)
+T1116	taxonomic_rank 27427 27437	C. elegans
+#1116	AnnotatorNotes T1116	taxonomic_rank (null)
+T1117	PR 27438 27444	Unc119
+#1117	AnnotatorNotes T1117	PR:000017084 (protein unc-119 A)
+T1118	SO 27445 27449	gene
+#1118	AnnotatorNotes T1118	SO:0000704 (gene)
+T1119	GO_CC 27531 27538	synapse
+#1119	AnnotatorNotes T1119	GO:0045202 (synapse)
+T1120	GO_BP 27565 27576	upregulated
+#1120	AnnotatorNotes T1120	GO:0048518 (positive regulation of biological process)
+T1121	GO_BP 27594 27602	response
+#1121	AnnotatorNotes T1121	GO:0050896 (response to stimulus)
+T1122	GO_CC 27625 27633	terminal
+#1122	AnnotatorNotes T1122	GO:0043679 (nerve terminal)
+T1123	SO 27660 27665	genes
+#1123	AnnotatorNotes T1123	SO:0000704 (gene)
+T1124	GO_CC 27684 27696	cytoskeletal
+#1124	AnnotatorNotes T1124	GO:0005856 (cytoskeleton)
+T1125	EntrezGene 27732 27764	microtubule associated protein 4
+#1125	AnnotatorNotes T1125	EG:17758
+T1126	PR 27732 27764	microtubule associated protein 4
+#1126	AnnotatorNotes T1126	PR:000010142 (microtubule-associated protein 4)
+T1127	GO_CC 27732 27743	microtubule
+#1127	AnnotatorNotes T1127	GO:0005874 (microtubule)
+T1128	CHEBI 27755 27762	protein
+#1128	AnnotatorNotes T1128	CHEBI:36080 (proteins)
+T1129	EntrezGene 27785 27794	cofilin 1
+#1129	AnnotatorNotes T1129	EG:12631
+T1130	PR 27785 27794	cofilin 1
+#1130	AnnotatorNotes T1130	PR:000005385 (cofilin-1)
+T1131	EntrezGene 27803 27806	Crx
+#1131	AnnotatorNotes T1131	EG:12951
+T1132	PR 27803 27806	Crx
+#1132	AnnotatorNotes T1132	PR:000005904 (cone-rod homeobox protein)
+T1133	SO 27879 27884	genes
+#1133	AnnotatorNotes T1133	SO:0000704 (gene)
+T1134	GO_BP 27901 27909	building
+#1134	AnnotatorNotes T1134	GO:0022607 (cellular component assembly)
+T1135	GO_BP 27913 27923	regulating
+#1135	AnnotatorNotes T1135	GO:0065007 (biological regulation)
+T1136	GO_CC 27924 27943	synaptic structures
+#1136	AnnotatorNotes T1136	GO:0044456 (synapse part)
+T1137	GO_CC 27924 27932	synaptic
+#1137	AnnotatorNotes T1137	GO:0045202 (synapse)
+T1138	SO 27962 27967	genes
+#1138	AnnotatorNotes T1138	SO:0000704 (gene)
+T1139	GO_BP 28017 28029	construction
+#1139	AnnotatorNotes T1139	GO:0022607 (cellular component assembly)
+T1140	GO_CC 28092 28099	synapse
+#1140	AnnotatorNotes T1140	GO:0045202 (synapse)
+T1141	CL 28111 28124	photoreceptor
+#1141	AnnotatorNotes T1141	CL:0000210 (photoreceptor cell)
+T1142	GO_CC 28125 28133	terminal
+#1142	AnnotatorNotes T1142	GO:0043679 (nerve terminal)
+T1143	GO_BP 28134 28143	formation
+#1143	AnnotatorNotes T1143	GO:0022607 (cellular component assembly)
+T1144	GO_BP 28179 28198	retinal development
+#1144	AnnotatorNotes T1144	GO:0060041 (retina development in camera-type eye)
+T1145	EntrezGene 28206 28225	laminin beta2 chain
+#1145	AnnotatorNotes T1145	EG:16779
+T1146	PR 28206 28225	laminin beta2 chain
+#1146	AnnotatorNotes T1146	PR:000009655 (laminin subunit beta-2)
+T1147	GO_CC 28206 28213	laminin
+#1147	AnnotatorNotes T1147	GO:0043256 (laminin complex)
+T1148	SO 28220 28225	chain
+#1148	AnnotatorNotes T1148	SO:0000001 (region)
+T1149	NCBITaxon 28236 28241	mouse
+#1149	AnnotatorNotes T1149	NCBITaxon:10088 (Mus)
+T1150	NCBITaxon 28288 28292	mice
+#1150	AnnotatorNotes T1150	NCBITaxon:10088 (Mus)
+T1151	EntrezGene 28301 28320	laminin beta2 chain
+#1151	AnnotatorNotes T1151	EG:16779
+T1152	PR 28301 28320	laminin beta2 chain
+#1152	AnnotatorNotes T1152	PR:000009655 (laminin subunit beta-2)
+T1153	GO_CC 28301 28308	laminin
+#1153	AnnotatorNotes T1153	GO:0043256 (laminin complex)
+T1154	SO 28315 28320	chain
+#1154	AnnotatorNotes T1154	SO:0000001 (region)
+T1155	NCBITaxon 28331 28335	mice
+#1155	AnnotatorNotes T1155	NCBITaxon:10088 (Mus)
+T1156	GO_CC 28355 28368	outer segment
+#1156	AnnotatorNotes T1156	GO:0001750 (photoreceptor outer segment)
+T1157	EntrezGene 28424 28427	Crx
+#1157	AnnotatorNotes T1157	EG:12951
+T1158	PR 28424 28427	Crx
+#1158	AnnotatorNotes T1158	PR:000005904 (cone-rod homeobox protein)
+T1159	NCBITaxon 28431 28435	mice
+#1159	AnnotatorNotes T1159	NCBITaxon:10088 (Mus)
+T1160	GO_CC 28441 28455	outer segments
+#1160	AnnotatorNotes T1160	GO:0001750 (photoreceptor outer segment)
+T1161	CL 28492 28505	photoreceptor
+#1161	AnnotatorNotes T1161	CL:0000210 (photoreceptor cell)
+T1162	GO_CC 28506 28515	terminals
+#1162	AnnotatorNotes T1162	GO:0043679 (nerve terminal)
+T1163	EntrezGene 28534 28547	laminin beta2
+#1163	AnnotatorNotes T1163	EG:16779
+T1164	PR 28534 28547	laminin beta2
+#1164	AnnotatorNotes T1164	PR:000009655 (laminin subunit beta-2)
+T1165	SO 28548 28555	mutants
+#1165	AnnotatorNotes T1165	SO:0001059 (sequence_alteration)
+T1166	independent_continuant 28548 28555	mutants
+#1166	AnnotatorNotes T1166	independent_continuant
+T1167	EntrezGene 28610 28613	Crx
+#1167	AnnotatorNotes T1167	EG:12951
+T1168	PR 28610 28613	Crx
+#1168	AnnotatorNotes T1168	PR:000005904 (cone-rod homeobox protein)
+T1169	NCBITaxon 28617 28621	mice
+#1169	AnnotatorNotes T1169	NCBITaxon:10088 (Mus)
+T1170	EntrezGene 28656 28661	beta2
+#1170	AnnotatorNotes T1170	EG:16779
+T1171	PR 28656 28661	beta2
+#1171	AnnotatorNotes T1171	PR:000009655 (laminin subunit beta-2)
+T1172	GO_CC 28721 28729	synapses
+#1172	AnnotatorNotes T1172	GO:0045202 (synapse)
+T1173	GO_CC 28795 28803	synaptic
+#1173	AnnotatorNotes T1173	GO:0045202 (synapse)
+T1174	CHEBI 28869 28878	molecules
+#1174	AnnotatorNotes T1174	CHEBI:36357 (polyatomic entities)
+T1175	GO_BP 28891 28918	photoreceptor morphogenesis
+#1175	AnnotatorNotes T1175	GO:0008594 (photoreceptor cell morphogenesis)
+T1176	CL 28891 28904	photoreceptor
+#1176	AnnotatorNotes T1176	CL:0000210 (photoreceptor cell)
+T1177	CHEBI 28943 28947	mRNA
+#1177	AnnotatorNotes T1177	CHEBI:33699 (messenger RNA)
+T1178	SO 28943 28947	mRNA
+#1178	AnnotatorNotes T1178	SO:0000234 (mRNA)
+T1179	EntrezGene 28952 28965	laminin beta2
+#1179	AnnotatorNotes T1179	EG:16779
+T1180	PR 28952 28965	laminin beta2
+#1180	AnnotatorNotes T1180	PR:000009655 (laminin subunit beta-2)
+T1181	GO_CC 28952 28959	laminin
+#1181	AnnotatorNotes T1181	GO:0043256 (laminin complex)
+T1182	SO 29017 29020	RNA
+#1182	AnnotatorNotes T1182	SO:0000356 (RNA)
+T1183	EntrezGene 29031 29034	Crx
+#1183	AnnotatorNotes T1183	EG:12951
+T1184	PR 29031 29034	Crx
+#1184	AnnotatorNotes T1184	PR:000005904 (cone-rod homeobox protein)
+T1185	EntrezGene 29042 29045	Crx
+#1185	AnnotatorNotes T1185	EG:12951
+T1186	PR 29042 29045	Crx
+#1186	AnnotatorNotes T1186	PR:000005904 (cone-rod homeobox protein)
+T1187	SO 29045 29046	+
+#1187	AnnotatorNotes T1187	SO:0000817 (wild_type)
+T1188	SO 29047 29048	+
+#1188	AnnotatorNotes T1188	SO:0000817 (wild_type)
+T1189	SO 29101 29104	RNA
+#1189	AnnotatorNotes T1189	SO:0000356 (RNA)
+T1190	EntrezGene 29109 29122	laminin beta2
+#1190	AnnotatorNotes T1190	EG:16779
+T1191	PR 29109 29122	laminin beta2
+#1191	AnnotatorNotes T1191	PR:000009655 (laminin subunit beta-2)
+T1192	GO_CC 29109 29116	laminin
+#1192	AnnotatorNotes T1192	GO:0043256 (laminin complex)
+T1193	EntrezGene 29138 29141	Crx
+#1193	AnnotatorNotes T1193	EG:12951
+T1194	PR 29138 29141	Crx
+#1194	AnnotatorNotes T1194	PR:000005904 (cone-rod homeobox protein)
+T1195	NCBITaxon 29145 29149	mice
+#1195	AnnotatorNotes T1195	NCBITaxon:10088 (Mus)
+T1196	EntrezGene 29171 29174	Crx
+#1196	AnnotatorNotes T1196	EG:1406
+T1197	PR 29171 29174	Crx
+#1197	AnnotatorNotes T1197	PR:000005904 (cone-rod homeobox protein)
+T1198	CL 29204 29217	photoreceptor
+#1198	AnnotatorNotes T1198	CL:0000210 (photoreceptor cell)
+T1199	NCBITaxon 29242 29247	human
+#1199	AnnotatorNotes T1199	NCBITaxon:9606 (Homo sapiens)
+T1200	CL 29259 29263	cone
+#1200	AnnotatorNotes T1200	CL:0000573 (retinal cone cell)
+T1201	CL 29264 29267	rod
+#1201	AnnotatorNotes T1201	CL:0000604 (retinal rod cell)
+T1202	CL 29363 29367	cone
+#1202	AnnotatorNotes T1202	CL:0000573 (retinal cone cell)
+T1203	CL 29368 29371	rod
+#1203	AnnotatorNotes T1203	CL:0000604 (retinal rod cell)
+T1204	CL 29420 29424	cone
+#1204	AnnotatorNotes T1204	CL:0000573 (retinal cone cell)
+T1205	GO_BP 29434 29440	vision
+#1205	AnnotatorNotes T1205	GO:0007601 (visual perception)
+T1206	CL 29518 29521	rod
+#1206	AnnotatorNotes T1206	CL:0000604 (retinal rod cell)
+T1207	GO_BP 29531 29537	vision
+#1207	AnnotatorNotes T1207	GO:0007601 (visual perception)
+T1208	CL 29590 29593	rod
+#1208	AnnotatorNotes T1208	CL:0000604 (retinal rod cell)
+T1209	CL 29624 29628	cone
+#1209	AnnotatorNotes T1209	CL:0000573 (retinal cone cell)
+T1210	GO_BP 29638 29644	vision
+#1210	AnnotatorNotes T1210	GO:0007601 (visual perception)
+T1211	SO 29667 29672	known
+#1211	AnnotatorNotes T1211	SO:0000906 (independently_known)
+T1212	SO 29673 29678	genes
+#1212	AnnotatorNotes T1212	SO:0000704 (gene)
+T1213	NCBITaxon 29695 29700	human
+#1213	AnnotatorNotes T1213	NCBITaxon:9606 (Homo sapiens)
+T1214	SO 29701 29708	genetic
+#1214	AnnotatorNotes T1214	SO:0000704 (gene)
+T1215	CHEBI 29727 29735	proteins
+#1215	AnnotatorNotes T1215	CHEBI:36080 (proteins)
+T1216	GO_BP 29736 29745	expressed
+#1216	AnnotatorNotes T1216	GO:0010467 (gene expression)
+T1217	CL 29785 29799	photoreceptors
+#1217	AnnotatorNotes T1217	CL:0000210 (photoreceptor cell)
+T1218	GO_CC 29821 29834	outer segment
+#1218	AnnotatorNotes T1218	GO:0001750 (photoreceptor outer segment)
+T1219	CHEBI 29855 29863	proteins
+#1219	AnnotatorNotes T1219	CHEBI:36080 (proteins)
+T1220	GO_BP 29881 29898	phototransduction
+#1220	AnnotatorNotes T1220	GO:0007602 (phototransduction)
+T1221	GO_CC 29902 29915	outer segment
+#1221	AnnotatorNotes T1221	GO:0001750 (photoreceptor outer segment)
+T1222	SO 29950 29959	mutations
+#1222	AnnotatorNotes T1222	SO:0001059 (sequence_alteration)
+T1223	CL 29963 29966	rod
+#1223	AnnotatorNotes T1223	CL:0000604 (retinal rod cell)
+T1224	SO 29976 29981	genes
+#1224	AnnotatorNotes T1224	SO:0000704 (gene)
+T1225	EntrezGene 29991 30000	rhodopsin
+#1225	AnnotatorNotes T1225	EG:6010
+T1226	PR 29991 30000	rhodopsin
+#1226	AnnotatorNotes T1226	PR:000001245 (rhodopsin)
+T1227	CL 30021 30025	cone
+#1227	AnnotatorNotes T1227	CL:0000573 (retinal cone cell)
+T1228	SO 30061 30070	Mutations
+#1228	AnnotatorNotes T1228	SO:0001059 (sequence_alteration)
+T1229	EntrezGene 30074 30077	Crx
+#1229	AnnotatorNotes T1229	EG:1406
+T1230	PR 30074 30077	Crx
+#1230	AnnotatorNotes T1230	PR:000005904 (cone-rod homeobox protein)
+T1231	GO_MF 30136 30156	transcription factor
+#1231	AnnotatorNotes T1231	GO:0003700 (transcription factor activity)
+T1232	independent_continuant 30136 30156	transcription factor
+#1232	AnnotatorNotes T1232	independent_continuant
+T1233	GO_BP 30136 30149	transcription
+#1233	AnnotatorNotes T1233	GO:0006350 (transcription)
+T1234	SO 30157 30165	mutation
+#1234	AnnotatorNotes T1234	SO:0001059 (sequence_alteration)
+T1235	CL 30177 30190	photoreceptor
+#1235	AnnotatorNotes T1235	CL:0000210 (photoreceptor cell)
+T1236	CL 30249 30262	photoreceptor
+#1236	AnnotatorNotes T1236	CL:0000210 (photoreceptor cell)
+T1237	GO_BP 30300 30313	developmental
+#1237	AnnotatorNotes T1237	GO:0032502 (developmental process)
+T1238	EntrezGene 30352 30355	Crx
+#1238	AnnotatorNotes T1238	EG:12951
+T1239	PR 30352 30355	Crx
+#1239	AnnotatorNotes T1239	PR:000005904 (cone-rod homeobox protein)
+T1240	NCBITaxon 30359 30364	mouse
+#1240	AnnotatorNotes T1240	NCBITaxon:10088 (Mus)
+T1241	EntrezGene 30483 30486	Crx
+#1241	AnnotatorNotes T1241	EG:1406
+T1242	PR 30483 30486	Crx
+#1242	AnnotatorNotes T1242	PR:000005904 (cone-rod homeobox protein)
+T1243	SO 30487 30496	mutations
+#1243	AnnotatorNotes T1243	SO:0001059 (sequence_alteration)
+T1244	NCBITaxon 30568 30573	human
+#1244	AnnotatorNotes T1244	NCBITaxon:9606 (Homo sapiens)
+T1245	NCBITaxon 30688 30694	animal
+#1245	AnnotatorNotes T1245	NCBITaxon:33208 (Metazoa)
+T1246	GO_BP 30720 30728	reactive
+#1246	AnnotatorNotes T1246	GO:0050896 (response to stimulus)
+T1247	GO_BP 30788 30815	formation of retinal tissue
+#1247	AnnotatorNotes T1247	"formation of .. tissue" GO:0009888 (tissue development)
+T1248	NCBITaxon 30840 30845	human
+#1248	AnnotatorNotes T1248	NCBITaxon:9606 (Homo sapiens)
+T1249	NCBITaxon 30868 30873	human
+#1249	AnnotatorNotes T1249	NCBITaxon:9606 (Homo sapiens)
+T1250	EntrezGene 30903 30908	RPE65
+#1250	AnnotatorNotes T1250	EG:6121
+T1251	PR 30903 30908	RPE65
+#1251	AnnotatorNotes T1251	PR:000014179 (retinal pigment epithelium-specific 65 kDa protein)
+T1252	SO 30909 30918	mutations
+#1252	AnnotatorNotes T1252	SO:0001059 (sequence_alteration)
+T1253	CL 31004 31008	cell
+#1253	AnnotatorNotes T1253	CL:0000000 (cell)
+T1254	GO_CC 31004 31008	cell
+#1254	AnnotatorNotes T1254	GO:0005623 (cell)
+T1255	CL 31041 31054	photoreceptor
+#1255	AnnotatorNotes T1255	CL:0000210 (photoreceptor cell)
+T1256	GO_CC 31120 31128	synaptic
+#1256	AnnotatorNotes T1256	GO:0045202 (synapse)
+T1257	GO_BP 31147 31159	organization
+#1257	AnnotatorNotes T1257	GO:0048532 (organization of an anatomical structure)
+T1258	CL 31191 31204	photoreceptor
+#1258	AnnotatorNotes T1258	CL:0000210 (photoreceptor cell)
+T1259	GO_CC 31205 31213	synapses
+#1259	AnnotatorNotes T1259	GO:0045202 (synapse)
+T1260	NCBITaxon 31312 31317	human
+#1260	AnnotatorNotes T1260	NCBITaxon:9606 (Homo sapiens)
+T1261	NCBITaxon 31392 31398	animal
+#1261	AnnotatorNotes T1261	NCBITaxon:33208 (Metazoa)
+T1262	GO_CC 31477 31490	outer segment
+#1262	AnnotatorNotes T1262	GO:0001750 (photoreceptor outer segment)
+T1263	GO_BP 31491 31504	morphogenesis
+#1263	AnnotatorNotes T1263	GO:0009653 (anatomical structure morphogenesis)
+T1264	GO_BP 31506 31520	synaptogenesis
+#1264	AnnotatorNotes T1264	GO:0007416 (synaptogenesis)
+T1265	NCBITaxon 31592 31596	Mice
+#1265	AnnotatorNotes T1265	NCBITaxon:10088 (Mus)
+T1266	EntrezGene 31598 31601	Crx
+#1266	AnnotatorNotes T1266	EG:12951
+T1267	PR 31598 31601	Crx
+#1267	AnnotatorNotes T1267	PR:000005904 (cone-rod homeobox protein)
+T1268	NCBITaxon 31605 31609	mice
+#1268	AnnotatorNotes T1268	NCBITaxon:10088 (Mus)
+T1269	GO_BP 31615 31624	generated
+#1269	AnnotatorNotes T1269	GO:0000003 (reproduction)
+T1270	EntrezGene 31653 31661	Rhodosin
+#1270	AnnotatorNotes T1270	EG:212541
+T1271	PR 31653 31661	Rhodosin
+#1271	AnnotatorNotes T1271	PR:000001245 (rhodopsin)
+T1272	NCBITaxon 31667 31671	mice
+#1272	AnnotatorNotes T1272	NCBITaxon:10088 (Mus)
+T1273	EntrezGene 31735 31738	Rds
+#1273	AnnotatorNotes T1273	EG:19133
+T1274	PR 31735 31738	Rds
+#1274	AnnotatorNotes T1274	PR:000013290 (peripherin-2)
+T1275	NCBITaxon 31739 31743	mice
+#1275	AnnotatorNotes T1275	NCBITaxon:10088 (Mus)
+T1276	CHEBI 31797 31805	electron
+#1276	AnnotatorNotes T1276	CHEBI:10545 (electron)
+T1277	EntrezGene 31829 31832	Crx
+#1277	AnnotatorNotes T1277	EG:12951
+T1278	PR 31829 31832	Crx
+#1278	AnnotatorNotes T1278	PR:000005904 (cone-rod homeobox protein)
+T1279	SO 31840 31848	wildtype
+#1279	AnnotatorNotes T1279	SO:0000817 (wild_type)
+T1280	CHEBI 31874 31886	formaldehyde
+#1280	AnnotatorNotes T1280	CHEBI:16842 (formaldehyde)
+T1281	CHEBI 32050 32062	formaldehyde
+#1281	AnnotatorNotes T1281	CHEBI:16842 (formaldehyde)
+T1282	GO_CC 32355 32383	photoreceptor outer segments
+#1282	AnnotatorNotes T1282	GO:0001750 (photoreceptor outer segment)
+T1283	CL 32355 32368	photoreceptor
+#1283	AnnotatorNotes T1283	CL:0000210 (photoreceptor cell)
+T1284	CHEBI 32499 32505	osmium
+#1284	AnnotatorNotes T1284	CHEBI:30687 (osmium)
+T1285	CHEBI 32521 32530	potassium
+#1285	AnnotatorNotes T1285	CHEBI:26216 (potassium)
+T1286	CHEBI 32531 32543	ferrocyanide
+#1286	AnnotatorNotes T1286	CHEBI:5032 (ferrocyanide)
+T1287	CHEBI 32618 32624	uranyl
+#1287	AnnotatorNotes T1287	CHEBI:27214 (uranium)
+T1288	CHEBI 32625 32632	acetate
+#1288	AnnotatorNotes T1288	CHEBI:30089 (acetate)
+T1289	CHEBI 32636 32643	maleate
+#1289	AnnotatorNotes T1289	CHEBI:30780 (maleate(2-))
+T1290	CHEBI 32636 32643	maleate
+#1290	AnnotatorNotes T1290	CHEBI:37156 (maleate(1-))
+T1291	CHEBI 32704 32708	acid
+#1291	AnnotatorNotes T1291	CHEBI:37527 (acid)
+T1292	CHEBI 32718 32728	cacodylate
+#1292	AnnotatorNotes T1292	CHEBI:16223 (dimethylarsinate)
+T1293	CHEBI 32865 32871	uranyl
+#1293	AnnotatorNotes T1293	CHEBI:27214 (uranium)
+T1294	CHEBI 32872 32879	acetate
+#1294	AnnotatorNotes T1294	CHEBI:30089 (acetate)
+T1295	CHEBI 32884 32888	lead
+#1295	AnnotatorNotes T1295	CHEBI:25016 (lead)
+T1296	CHEBI 32889 32896	citrate
+#1296	AnnotatorNotes T1296	CHEBI:35804 (citrate(1-))
+T1297	CHEBI 32889 32896	citrate
+#1297	AnnotatorNotes T1297	CHEBI:35808 (citrate(2-))
+T1298	CHEBI 32889 32896	citrate
+#1298	AnnotatorNotes T1298	CHEBI:16947 (citrate(3-))
+T1299	CHEBI 32932 32940	electron
+#1299	AnnotatorNotes T1299	CHEBI:10545 (electron)
+T1300	CHEBI 32963 32971	electron
+#1300	AnnotatorNotes T1300	CHEBI:10545 (electron)
+T1301	EntrezGene 33143 33146	Crx
+#1301	AnnotatorNotes T1301	EG:12951
+T1302	PR 33143 33146	Crx
+#1302	AnnotatorNotes T1302	PR:000005904 (cone-rod homeobox protein)
+T1303	EntrezGene 33151 33160	rhodopsin
+#1303	AnnotatorNotes T1303	EG:212541
+T1304	PR 33151 33160	rhodopsin
+#1304	AnnotatorNotes T1304	PR:000001245 (rhodopsin)
+T1305	EntrezGene 33165 33168	RDS
+#1305	AnnotatorNotes T1305	EG:19133
+T1306	PR 33165 33168	RDS
+#1306	AnnotatorNotes T1306	PR:000013290 (peripherin-2)
+T1307	SO 33173 33181	wildtype
+#1307	AnnotatorNotes T1307	SO:0000817 (wild_type)
+T1308	CHEBI 33280 33292	formaldehyde
+#1308	AnnotatorNotes T1308	CHEBI:16842 (formaldehyde)
+T1309	CHEBI 33340 33350	cacodylate
+#1309	AnnotatorNotes T1309	CHEBI:16223 (dimethylarsinate)
+T1310	CHEBI 33396 33403	ethanol
+#1310	AnnotatorNotes T1310	CHEBI:16236 (ethanol)
+T1311	CHEBI 33455 33469	carbon dioxide
+#1311	AnnotatorNotes T1311	CHEBI:16526 (carbon dioxide)
+T1312	CHEBI 33455 33461	carbon
+#1312	AnnotatorNotes T1312	CHEBI:27594 (carbon)
+T1313	CHEBI 33525 33529	gold
+#1313	AnnotatorNotes T1313	CHEBI:29287 (gold)
+T1314	CHEBI 33530 33539	palladium
+#1314	AnnotatorNotes T1314	CHEBI:33363 (palladium)
+T1315	CHEBI 33625 33633	electron
+#1315	AnnotatorNotes T1315	CHEBI:10545 (electron)
+T1316	CHEBI 33704 33712	electron
+#1316	AnnotatorNotes T1316	CHEBI:10545 (electron)
+T1317	CHEBI 33747 33755	electron
+#1317	AnnotatorNotes T1317	CHEBI:10545 (electron)
+T1318	GO_BP 33778 33787	generated
+#1318	AnnotatorNotes T1318	GO:0000003 (reproduction)
+T1319	EntrezGene 33822 33825	Crx
+#1319	AnnotatorNotes T1319	EG:12951
+T1320	PR 33822 33825	Crx
+#1320	AnnotatorNotes T1320	PR:000005904 (cone-rod homeobox protein)
+T1321	NCBITaxon 33829 33834	mouse
+#1321	AnnotatorNotes T1321	NCBITaxon:10088 (Mus)
+T1322	GO_BP 34184 34193	formation
+#1322	AnnotatorNotes T1322	GO:0022607 (cellular component assembly)
+T1323	GO_CC 34197 34211	outer segments
+#1323	AnnotatorNotes T1323	GO:0001750 (photoreceptor outer segment)

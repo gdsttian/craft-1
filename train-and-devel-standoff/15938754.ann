@@ -1,0 +1,2028 @@
+T1	SO 0 10	Haplotypes
+#1	AnnotatorNotes T1	SO:0001024 (haplotype)
+T2	italic 18 23	Tas2r
+#2	AnnotatorNotes T2	italic (null)
+T3	SO 24 50	locus on distal chromosome
+#3	AnnotatorNotes T3	"locus on .. chromosome" SO:0000830 (chromosome_part)
+T4	GO_CC 40 50	chromosome
+#4	AnnotatorNotes T4	GO:0005694 (chromosome)
+T5	SO 40 50	chromosome
+#5	AnnotatorNotes T5	SO:0000340 (chromosome)
+T6	CHEBI 63 70	quinine
+#6	AnnotatorNotes T6	CHEBI:15854 (quinine)
+T7	GO_BP 71 76	taste
+#7	AnnotatorNotes T7	GO:0050909 (sensory perception of taste)
+T8	NCBITaxon 99 103	mice
+#8	AnnotatorNotes T8	NCBITaxon:10088 (Mus)
+T9	GO_BP 131 140	detection
+#9	AnnotatorNotes T9	GO:0051606 (detection of stimulus)
+T10	GO_BP 144 158	bitter-tasting
+#10	AnnotatorNotes T10	GO:0050913 (sensory perception of bitter taste)
+T11	CHEBI 159 168	compounds
+#11	AnnotatorNotes T11	CHEBI:23367 (molecular entity)
+T12	GO_BP 176 185	gustatory
+#12	AnnotatorNotes T12	GO:0050909 (sensory perception of taste)
+T13	NCBITaxon 213 220	animals
+#13	AnnotatorNotes T13	NCBITaxon:33208 (Metazoa)
+T14	CHEBI 252 257	toxic
+#14	AnnotatorNotes T14	CHEBI:27026 (toxin)
+T15	CHEBI 258 262	food
+#15	AnnotatorNotes T15	CHEBI:33290 (food)
+T16	GO_MF 315 330	taste receptors
+#16	AnnotatorNotes T16	GO:0008527 (taste receptor activity)
+T17	independent_continuant 315 330	taste receptors
+#17	AnnotatorNotes T17	independent_continuant
+T18	GO_BP 315 320	taste
+#18	AnnotatorNotes T18	GO:0050909 (sensory perception of taste)
+T19	GO_BP 352 361	expressed
+#19	AnnotatorNotes T19	GO:0010467 (gene expression)
+T20	CL 376 396	taste receptor cells
+#20	AnnotatorNotes T20	CL:0000209 (taste receptor cell)
+T21	GO_MF 376 390	taste receptor
+#21	AnnotatorNotes T21	GO:0008527 (taste receptor activity)
+T22	independent_continuant 376 390	taste receptor
+#22	AnnotatorNotes T22	independent_continuant
+T23	GO_BP 376 381	taste
+#23	AnnotatorNotes T23	GO:0050909 (sensory perception of taste)
+T24	GO_CC 391 396	cells
+#24	AnnotatorNotes T24	GO:0005623 (cell)
+T25	GO_MF 459 467	receptor
+#25	AnnotatorNotes T25	GO:0004872 (receptor activity)
+T26	independent_continuant 459 467	receptor
+#26	AnnotatorNotes T26	independent_continuant
+T27	GO_BP 495 518	transduction mechanisms
+#27	AnnotatorNotes T27	GO:0007165 (signal transduction)
+T28	CHEBI 561 568	quinine
+#28	AnnotatorNotes T28	CHEBI:15854 (quinine)
+T29	CHEBI 569 582	hydrochloride
+#29	AnnotatorNotes T29	CHEBI:36807 (hydrochlorides)
+T30	CHEBI 569 582	hydrochloride
+#30	AnnotatorNotes T30	CHEBI:17883 (hydrogen chloride)
+T31	CHEBI 605 613	benzoate
+#31	AnnotatorNotes T31	CHEBI:16150 (benzoate)
+T32	GO_BP 651 661	behavioral
+#32	AnnotatorNotes T32	GO:0007610 (behavior)
+T33	GO_BP 662 667	taste
+#33	AnnotatorNotes T33	GO:0050909 (sensory perception of taste)
+T34	GO_BP 686 697	recombinant
+#34	AnnotatorNotes T34	GO:0006310 (DNA recombination)
+T35	NCBITaxon 710 715	mouse
+#35	AnnotatorNotes T35	NCBITaxon:10088 (Mus)
+T36	SO 741 765	quantitative trait locus
+#36	AnnotatorNotes T36	SO:0000771 (QTL)
+T37	SO 767 770	QTL
+#37	AnnotatorNotes T37	SO:0000771 (QTL)
+T38	GO_BP 776 781	taste
+#38	AnnotatorNotes T38	GO:0050909 (sensory perception of taste)
+T39	SO 808 811	QTL
+#39	AnnotatorNotes T39	SO:0000771 (QTL)
+T40	SO 837 859	interval on chromosome
+#40	AnnotatorNotes T40	SO:0000830 (chromosome_part)
+T41	GO_CC 849 859	chromosome
+#41	AnnotatorNotes T41	GO:0005694 (chromosome)
+T42	SO 849 859	chromosome
+#42	AnnotatorNotes T42	SO:0000340 (chromosome)
+T43	SO 879 884	genes
+#43	AnnotatorNotes T43	SO:0000704 (gene)
+T44	italic 900 906	Tas2rs
+#44	AnnotatorNotes T44	italic (null)
+T45	italic 909 915	Tas2rs
+#45	AnnotatorNotes T45	italic (null)
+T46	SO 924 929	locus
+#46	AnnotatorNotes T46	SO:0000001 (region)
+T47	SO 951 964	coding region
+#47	AnnotatorNotes T47	SO:0000316 (CDS)
+T48	SO 965 996	single nucleotide polymorphisms
+#48	AnnotatorNotes T48	SO:0000694 (SNP)
+T49	SO 972 982	nucleotide
+#49	AnnotatorNotes T49	SO:0001236 (base)
+T50	SO 998 1002	SNPs
+#50	AnnotatorNotes T50	SO:0000694 (SNP)
+T51	CHEBI 1058 1065	quinine
+#51	AnnotatorNotes T51	CHEBI:15854 (quinine)
+T52	CHEBI 1089 1096	quinine
+#52	AnnotatorNotes T52	CHEBI:15854 (quinine)
+T53	SO 1138 1147	mutations
+#53	AnnotatorNotes T53	SO:0001059 (sequence_alteration)
+T54	italic 1226 1231	Tas2r
+#54	AnnotatorNotes T54	italic (null)
+T55	SO 1232 1239	alleles
+#55	AnnotatorNotes T55	SO:0001023 (allele)
+T56	SO 1248 1253	locus
+#56	AnnotatorNotes T56	SO:0000001 (region)
+T57	italic 1288 1293	Tas2r
+#57	AnnotatorNotes T57	italic (null)
+T58	SO 1294 1301	alleles
+#58	AnnotatorNotes T58	SO:0001023 (allele)
+T59	SO 1362 1369	alleles
+#59	AnnotatorNotes T59	SO:0001023 (allele)
+T60	italic 1388 1393	Tas2r
+#60	AnnotatorNotes T60	italic (null)
+T61	SO 1394 1401	cluster
+#61	AnnotatorNotes T61	SO:0005851 (gene_array)
+T62	SO 1420 1429	haplotype
+#62	AnnotatorNotes T62	SO:0001024 (haplotype)
+T63	CHEBI 1451 1458	quinine
+#63	AnnotatorNotes T63	CHEBI:15854 (quinine)
+T64	GO_BP 1520 1525	taste
+#64	AnnotatorNotes T64	GO:0050909 (sensory perception of taste)
+T65	SO 1557 1560	QTL
+#65	AnnotatorNotes T65	SO:0000771 (QTL)
+T66	CHEBI 1565 1572	quinine
+#66	AnnotatorNotes T66	CHEBI:15854 (quinine)
+T67	GO_BP 1573 1578	taste
+#67	AnnotatorNotes T67	GO:0050909 (sensory perception of taste)
+T68	GO_BP 1610 1630	transduction cascade
+#68	AnnotatorNotes T68	GO:0007165 (signal transduction)
+T69	CHEBI 1685 1692	quinine
+#69	AnnotatorNotes T69	CHEBI:15854 (quinine)
+T70	GO_BP 1693 1698	taste
+#70	AnnotatorNotes T70	GO:0050909 (sensory perception of taste)
+T71	SO 1745 1758	polymorphisms
+#71	AnnotatorNotes T71	SO:0001025 (polymorphic_sequence_variant)
+T72	SO 1745 1758	polymorphisms
+#72	AnnotatorNotes T72	SO:0000694 (SNP)
+T73	SO 1766 1778	coding exons
+#73	AnnotatorNotes T73	SO:0000195 (coding_exon)
+T74	italic 1786 1791	Tas2r
+#74	AnnotatorNotes T74	italic (null)
+T75	SO 1792 1799	cluster
+#75	AnnotatorNotes T75	SO:0005851 (gene_array)
+T76	GO_BP 1867 1879	bitter taste
+#76	AnnotatorNotes T76	GO:0050913 (sensory perception of bitter taste)
+T77	GO_MF 1909 1918	receptors
+#77	AnnotatorNotes T77	GO:0004872 (receptor activity)
+T78	independent_continuant 1909 1918	receptors
+#78	AnnotatorNotes T78	independent_continuant
+T79	NCBITaxon 1965 1972	Animals
+#79	AnnotatorNotes T79	NCBITaxon:33208 (Metazoa)
+T80	GO_BP 1981 1990	gustatory
+#80	AnnotatorNotes T80	GO:0050909 (sensory perception of taste)
+T81	CHEBI 2027 2031	food
+#81	AnnotatorNotes T81	CHEBI:33290 (food)
+T82	GO_BP 2054 2067	sweet-tasting
+#82	AnnotatorNotes T82	GO:0050916 (sensory perception of sweet taste)
+T83	CHEBI 2068 2073	foods
+#83	AnnotatorNotes T83	CHEBI:33290 (food)
+T84	GO_BP 2131 2145	bitter-tasting
+#84	AnnotatorNotes T84	GO:0050913 (sensory perception of bitter taste)
+T85	CHEBI 2146 2151	foods
+#85	AnnotatorNotes T85	CHEBI:33290 (food)
+T86	CHEBI 2166 2182	toxic substances
+#86	AnnotatorNotes T86	CHEBI:27026 (toxin)
+T87	CHEBI 2172 2182	substances
+#87	AnnotatorNotes T87	CHEBI:23367 (molecular entity)
+T88	GO_MF 2227 2254	G protein-coupled receptors
+#88	AnnotatorNotes T88	GO:0004930 (G-protein coupled receptor activity)
+T89	independent_continuant 2227 2254	G protein-coupled receptors
+#89	AnnotatorNotes T89	independent_continuant
+T90	CHEBI 2229 2236	protein
+#90	AnnotatorNotes T90	CHEBI:36080 (proteins)
+T91	GO_MF 2256 2261	GPCRs
+#91	AnnotatorNotes T91	GO:0004930 (G-protein coupled receptor activity)
+T92	independent_continuant 2256 2261	GPCRs
+#92	AnnotatorNotes T92	independent_continuant
+T93	GO_BP 2263 2272	expressed
+#93	AnnotatorNotes T93	GO:0010467 (gene expression)
+T94	CL 2294 2314	taste receptor cells
+#94	AnnotatorNotes T94	CL:0000209 (taste receptor cell)
+T95	GO_MF 2294 2308	taste receptor
+#95	AnnotatorNotes T95	GO:0008527 (taste receptor activity)
+T96	independent_continuant 2294 2308	taste receptor
+#96	AnnotatorNotes T96	independent_continuant
+T97	GO_BP 2294 2299	taste
+#97	AnnotatorNotes T97	GO:0050909 (sensory perception of taste)
+T98	CL 2309 2349	cells (TRCs) of the gustatory epithelium
+#98	AnnotatorNotes T98	"cells .. of .. epithelium" CL:0000066 (epithelial cell)
+T99	GO_CC 2309 2314	cells
+#99	AnnotatorNotes T99	GO:0005623 (cell)
+T100	CL 2316 2320	TRCs
+#100	AnnotatorNotes T100	CL:0000209 (taste receptor cell)
+T101	GO_BP 2329 2338	gustatory
+#101	AnnotatorNotes T101	GO:0050909 (sensory perception of taste)
+T102	GO_BP 2378 2455	detection and transduction of sweet, bitter and umami (i.e., glutamate) taste
+#102	AnnotatorNotes T102	"detection .. of .. glutamate .. taste" GO:0046535 (detection of chemical stimulus during sensory perception of umami taste)
+T103	GO_BP 2378 2455	detection and transduction of sweet, bitter and umami (i.e., glutamate) taste
+#103	AnnotatorNotes T103	"detection .. of .. umami .. taste" GO:0046535 (detection of chemical stimulus during sensory perception of umami taste)
+T104	GO_BP 2378 2455	detection and transduction of sweet, bitter and umami (i.e., glutamate) taste
+#104	AnnotatorNotes T104	"detection .. of sweet .. taste" GO:0001582 (detection of chemical stimulus during sensory perception of sweet taste)
+T105	GO_BP 2378 2455	detection and transduction of sweet, bitter and umami (i.e., glutamate) taste
+#105	AnnotatorNotes T105	"detection .. of .. bitter .. taste" GO:0001580 (detection of chemical stimulus during sensory perception of bitter taste)
+T106	GO_BP 2392 2404	transduction
+#106	AnnotatorNotes T106	GO:0007165 (signal transduction)
+T107	GO_BP 2408 2455	sweet, bitter and umami (i.e., glutamate) taste
+#107	AnnotatorNotes T107	"sweet .. taste" GO:0050916 (sensory perception of sweet taste)
+T108	GO_BP 2415 2455	bitter and umami (i.e., glutamate) taste
+#108	AnnotatorNotes T108	"bitter .. taste" GO:0050913 (sensory perception of bitter taste)
+T109	GO_BP 2426 2455	umami (i.e., glutamate) taste
+#109	AnnotatorNotes T109	"umami .. taste" GO:0050917 (sensory perception of umami taste)
+T110	GO_BP 2439 2455	glutamate) taste
+#110	AnnotatorNotes T110	"glutamate .. taste" GO:0050917 (sensory perception of umami taste)
+T111	CHEBI 2439 2448	glutamate
+#111	AnnotatorNotes T111	CHEBI:14321 (glutamate(1-))
+T112	CHEBI 2439 2448	glutamate
+#112	AnnotatorNotes T112	CHEBI:29987 (glutamate(2-))
+T113	GO_BP 2466 2489	sweet-and umami-tasting
+#113	AnnotatorNotes T113	"sweet- .. tasting" GO:0050916 (sensory perception of sweet taste)
+T114	GO_BP 2476 2489	umami-tasting
+#114	AnnotatorNotes T114	GO:0050917 (sensory perception of umami taste)
+T115	GO_BP 2518 2532	bitter-tasting
+#115	AnnotatorNotes T115	GO:0050913 (sensory perception of bitter taste)
+T116	CHEBI 2533 2542	compounds
+#116	AnnotatorNotes T116	CHEBI:23367 (molecular entity)
+T117	SO 2556 2561	genes
+#117	AnnotatorNotes T117	SO:0000704 (gene)
+T118	italic 2584 2590	Tas2rs
+#118	AnnotatorNotes T118	italic (null)
+T119	NCBITaxon 2636 2645	mammalian
+#119	AnnotatorNotes T119	NCBITaxon:40674 (Mammalia)
+T120	SO 2646 2653	genomes
+#120	AnnotatorNotes T120	SO:0001026 (genome)
+T121	GO_CC 2659 2670	chromosomal
+#121	AnnotatorNotes T121	GO:0005694 (chromosome)
+T122	SO 2659 2670	chromosomal
+#122	AnnotatorNotes T122	SO:0000340 (chromosome)
+T123	GO_BP 2715 2727	bitter taste
+#123	AnnotatorNotes T123	GO:0050913 (sensory perception of bitter taste)
+T124	NCBITaxon 2754 2758	mice
+#124	AnnotatorNotes T124	NCBITaxon:10088 (Mus)
+T125	italic 2776 2782	Tas2rs
+#125	AnnotatorNotes T125	italic (null)
+T126	SO 2803 2810	cluster
+#126	AnnotatorNotes T126	SO:0005851 (gene_array)
+T127	GO_CC 2821 2831	chromosome
+#127	AnnotatorNotes T127	GO:0005694 (chromosome)
+T128	SO 2821 2831	chromosome
+#128	AnnotatorNotes T128	SO:0000340 (chromosome)
+T129	NCBITaxon 2848 2853	human
+#129	AnnotatorNotes T129	NCBITaxon:9606 (Homo sapiens)
+T130	italic 2854 2860	Tas2rs
+#130	AnnotatorNotes T130	italic (null)
+T131	SO 2874 2885	pseudogenes
+#131	AnnotatorNotes T131	SO:0000336 (pseudogene)
+T132	NCBITaxon 2902 2907	mouse
+#132	AnnotatorNotes T132	NCBITaxon:10088 (Mus)
+T133	italic 2908 2914	Tas2rs
+#133	AnnotatorNotes T133	italic (null)
+T134	SO 2928 2939	pseudogenes
+#134	AnnotatorNotes T134	SO:0000336 (pseudogene)
+T135	NCBITaxon 2952 2956	mice
+#135	AnnotatorNotes T135	NCBITaxon:10088 (Mus)
+T136	GO_BP 3011 3018	respond
+#136	AnnotatorNotes T136	GO:0050896 (response to stimulus)
+T137	GO_BP 3064 3074	expression
+#137	AnnotatorNotes T137	GO:0010467 (gene expression)
+T138	SO 3126 3130	gene
+#138	AnnotatorNotes T138	SO:0000704 (gene)
+T139	GO_BP 3146 3158	bitter taste
+#139	AnnotatorNotes T139	GO:0050913 (sensory perception of bitter taste)
+T140	SO 3199 3222	quantitative trait loci
+#140	AnnotatorNotes T140	SO:0000771 (QTL)
+T141	SO 3224 3227	QTL
+#141	AnnotatorNotes T141	SO:0000771 (QTL)
+T142	NCBITaxon 3308 3313	mouse
+#142	AnnotatorNotes T142	NCBITaxon:10088 (Mus)
+T143	SO 3325 3329	loci
+#143	AnnotatorNotes T143	SO:0000001 (region)
+T144	CHEBI 3334 3341	quinine
+#144	AnnotatorNotes T144	CHEBI:15854 (quinine)
+T145	italic 3343 3346	Qui
+#145	AnnotatorNotes T145	italic (null)
+T146	CHEBI 3343 3346	Qui
+#146	AnnotatorNotes T146	CHEBI:15854 (quinine)
+T147	CHEBI 3360 3373	cyclohexamide
+#147	AnnotatorNotes T147	CHEBI:27641 (cycloheximide)
+T148	italic 3375 3378	Cyx
+#148	AnnotatorNotes T148	italic (null)
+T149	CHEBI 3375 3378	Cyx
+#149	AnnotatorNotes T149	CHEBI:27641 (cycloheximide)
+T150	CHEBI 3389 3396	sucrose
+#150	AnnotatorNotes T150	CHEBI:17992 (sucrose)
+T151	italic 3410 3413	Soa
+#151	AnnotatorNotes T151	italic (null)
+T152	SO 3453 3456	QTL
+#152	AnnotatorNotes T152	SO:0000771 (QTL)
+T153	NCBITaxon 3464 3469	mouse
+#153	AnnotatorNotes T153	NCBITaxon:10088 (Mus)
+T154	GO_CC 3477 3487	chromosome
+#154	AnnotatorNotes T154	GO:0005694 (chromosome)
+T155	SO 3477 3487	chromosome
+#155	AnnotatorNotes T155	SO:0000340 (chromosome)
+T156	italic 3519 3526	D6Mit13
+#156	AnnotatorNotes T156	italic (null)
+T157	SO 3548 3555	cluster
+#157	AnnotatorNotes T157	SO:0005851 (gene_array)
+T158	italic 3569 3575	Tas2rs
+#158	AnnotatorNotes T158	italic (null)
+T159	SO 3591 3597	genome
+#159	AnnotatorNotes T159	SO:0001026 (genome)
+T160	GO_CC 3722 3733	chromosomal
+#160	AnnotatorNotes T160	GO:0005694 (chromosome)
+T161	SO 3722 3733	chromosomal
+#161	AnnotatorNotes T161	SO:0000340 (chromosome)
+T162	GO_BP 3756 3767	recombinant
+#162	AnnotatorNotes T162	GO:0006310 (DNA recombination)
+T163	SO 3864 3873	intervals
+#163	AnnotatorNotes T163	SO:0000001 (region)
+T164	SO 3890 3893	QTL
+#164	AnnotatorNotes T164	SO:0000771 (QTL)
+T165	GO_BP 3934 3946	bitter taste
+#165	AnnotatorNotes T165	GO:0050913 (sensory perception of bitter taste)
+T166	SO 3947 3951	QTLs
+#166	AnnotatorNotes T166	SO:0000771 (QTL)
+T167	GO_BP 3962 3972	behavioral
+#167	AnnotatorNotes T167	GO:0007610 (behavior)
+T168	GO_BP 3994 4005	consumption
+#168	AnnotatorNotes T168	GO:0007631 (feeding behavior)
+T169	GO_BP 4058 4067	ingestive
+#169	AnnotatorNotes T169	GO:0007631 (feeding behavior)
+T170	GO_BP 4171 4183	bitter taste
+#170	AnnotatorNotes T170	GO:0050913 (sensory perception of bitter taste)
+T171	GO_BP 4184 4193	behaviors
+#171	AnnotatorNotes T171	GO:0007610 (behavior)
+T172	SO 4267 4271	QTLs
+#172	AnnotatorNotes T172	SO:0000771 (QTL)
+T173	GO_BP 4275 4287	bitter taste
+#173	AnnotatorNotes T173	GO:0050913 (sensory perception of bitter taste)
+T174	GO_BP 4376 4388	transduction
+#174	AnnotatorNotes T174	GO:0007165 (signal transduction)
+T175	CHEBI 4416 4425	compounds
+#175	AnnotatorNotes T175	CHEBI:23367 (molecular entity)
+T176	CHEBI 4435 4442	quinine
+#176	AnnotatorNotes T176	CHEBI:15854 (quinine)
+T177	CHEBI 4458 4466	benzoate
+#177	AnnotatorNotes T177	CHEBI:16150 (benzoate)
+T178	GO_BP 4472 4481	stimulate
+#178	AnnotatorNotes T178	GO:0001775 (cell activation)
+T179	CL 4482 4502	taste receptor cells
+#179	AnnotatorNotes T179	CL:0000209 (taste receptor cell)
+T180	GO_MF 4482 4496	taste receptor
+#180	AnnotatorNotes T180	GO:0008527 (taste receptor activity)
+T181	independent_continuant 4482 4496	taste receptor
+#181	AnnotatorNotes T181	independent_continuant
+T182	GO_BP 4482 4487	taste
+#182	AnnotatorNotes T182	GO:0050909 (sensory perception of taste)
+T183	GO_CC 4497 4502	cells
+#183	AnnotatorNotes T183	GO:0005623 (cell)
+T184	independent_continuant 4520 4525	GPCRs
+#184	AnnotatorNotes T184	independent_continuant
+T185	GO_MF 4520 4525	GPCRs
+#185	AnnotatorNotes T185	GO:0004930 (G-protein coupled receptor activity)
+T186	CHEBI 4539 4546	Quinine
+#186	AnnotatorNotes T186	CHEBI:15854 (quinine)
+T187	CHEBI 4571 4579	proteins
+#187	AnnotatorNotes T187	CHEBI:36080 (proteins)
+T188	CHEBI 4590 4597	quinine
+#188	AnnotatorNotes T188	CHEBI:15854 (quinine)
+T189	GO_MF 4623 4634	K+ channels
+#189	AnnotatorNotes T189	GO:0005267 (potassium channel activity)
+T190	independent_continuant 4623 4634	K+ channels
+#190	AnnotatorNotes T190	independent_continuant
+T191	CHEBI 4623 4625	K+
+#191	AnnotatorNotes T191	CHEBI:29103 (potassium(1+))
+T192	sup 4624 4625	+
+#192	AnnotatorNotes T192	sup (null)
+T193	CHEBI 4645 4653	caffeine
+#193	AnnotatorNotes T193	CHEBI:27732 (caffeine)
+T194	GO_BP 4663 4677	bitter-tasting
+#194	AnnotatorNotes T194	GO:0050913 (sensory perception of bitter taste)
+T195	CHEBI 4678 4687	substance
+#195	AnnotatorNotes T195	CHEBI:23367 (molecular entity)
+T196	GO_CC 4707 4720	intracellular
+#196	AnnotatorNotes T196	GO:0005622 (intracellular)
+T197	GO_MF 4721 4738	phosphodiesterase
+#197	AnnotatorNotes T197	GO:0008081 (phosphoric diester hydrolase activity)
+T198	independent_continuant 4721 4738	phosphodiesterase
+#198	AnnotatorNotes T198	independent_continuant
+T199	GO_BP 4836 4869	detection of these bitter stimuli
+#199	AnnotatorNotes T199	"detection of .. bitter stimuli" GO:0001580 (detection of chemical stimulus during sensory perception of bitter taste)
+T200	GO_BP 4898 4903	taste
+#200	AnnotatorNotes T200	GO:0050909 (sensory perception of taste)
+T201	GO_BP 4954 4959	taste
+#201	AnnotatorNotes T201	GO:0050909 (sensory perception of taste)
+T202	GO_BP 5021 5032	recombinant
+#202	AnnotatorNotes T202	GO:0006310 (DNA recombination)
+T203	NCBITaxon 5045 5049	mice
+#203	AnnotatorNotes T203	NCBITaxon:10088 (Mus)
+T204	CHEBI 5073 5080	quinine
+#204	AnnotatorNotes T204	CHEBI:15854 (quinine)
+T205	CHEBI 5081 5094	hydrochloride
+#205	AnnotatorNotes T205	CHEBI:36807 (hydrochlorides)
+T206	CHEBI 5081 5094	hydrochloride
+#206	AnnotatorNotes T206	CHEBI:17883 (hydrogen chloride)
+T207	CHEBI 5117 5125	benzoate
+#207	AnnotatorNotes T207	CHEBI:16150 (benzoate)
+T208	GO_CC 5190 5201	chromosomal
+#208	AnnotatorNotes T208	GO:0005694 (chromosome)
+T209	SO 5190 5201	chromosomal
+#209	AnnotatorNotes T209	SO:0000340 (chromosome)
+T210	SO 5229 5232	QTL
+#210	AnnotatorNotes T210	SO:0000771 (QTL)
+T211	GO_BP 5242 5247	taste
+#211	AnnotatorNotes T211	GO:0050909 (sensory perception of taste)
+T212	SO 5259 5288	interval on distal chromosome
+#212	AnnotatorNotes T212	"interval on .. chromosome" SO:0000830 (chromosome_part)
+T213	GO_CC 5278 5288	chromosome
+#213	AnnotatorNotes T213	GO:0005694 (chromosome)
+T214	SO 5278 5288	chromosome
+#214	AnnotatorNotes T214	SO:0000340 (chromosome)
+T215	italic 5319 5324	Tas2r
+#215	AnnotatorNotes T215	italic (null)
+T216	SO 5325 5330	genes
+#216	AnnotatorNotes T216	SO:0000704 (gene)
+T217	SO 5345 5352	cluster
+#217	AnnotatorNotes T217	SO:0005851 (gene_array)
+T218	SO 5370 5378	sequence
+#218	AnnotatorNotes T218	SO:0000001 (region)
+T219	italic 5387 5392	Tas2r
+#219	AnnotatorNotes T219	italic (null)
+T220	SO 5393 5399	allele
+#220	AnnotatorNotes T220	SO:0001023 (allele)
+T221	SO 5488 5493	genes
+#221	AnnotatorNotes T221	SO:0000704 (gene)
+T222	SO 5498 5509	polymorphic
+#222	AnnotatorNotes T222	SO:0001025 (polymorphic_sequence_variant)
+T223	SO 5498 5509	polymorphic
+#223	AnnotatorNotes T223	SO:0000694 (SNP)
+T224	italic 5553 5559	Tas2rs
+#224	AnnotatorNotes T224	italic (null)
+T225	SO 5578 5587	haplotype
+#225	AnnotatorNotes T225	SO:0001024 (haplotype)
+T226	GO_BP 5614 5619	taste
+#226	AnnotatorNotes T226	GO:0050909 (sensory perception of taste)
+T227	GO_BP 5643 5648	Taste
+#227	AnnotatorNotes T227	GO:0050909 (sensory perception of taste)
+T228	SO 5682 5685	QTL
+#228	AnnotatorNotes T228	SO:0000771 (QTL)
+T229	GO_BP 5690 5702	bitter taste
+#229	AnnotatorNotes T229	GO:0050913 (sensory perception of bitter taste)
+T230	GO_BP 5717 5728	consumption
+#230	AnnotatorNotes T230	GO:0007631 (feeding behavior)
+T231	GO_BP 5787 5796	ingestive
+#231	AnnotatorNotes T231	GO:0007631 (feeding behavior)
+T232	NCBITaxon 5942 5946	mice
+#232	AnnotatorNotes T232	NCBITaxon:10088 (Mus)
+T233	GO_BP 5970 5975	taste
+#233	AnnotatorNotes T233	GO:0050909 (sensory perception of taste)
+T234	GO_BP 5995 6000	taste
+#234	AnnotatorNotes T234	GO:0050909 (sensory perception of taste)
+T235	NCBITaxon 6058 6062	mice
+#235	AnnotatorNotes T235	NCBITaxon:10088 (Mus)
+T236	CHEBI 6191 6199	compound
+#236	AnnotatorNotes T236	CHEBI:23367 (molecular entity)
+T237	GO_BP 6253 6258	taste
+#237	AnnotatorNotes T237	GO:0050909 (sensory perception of taste)
+T238	NCBITaxon 6400 6404	mice
+#238	AnnotatorNotes T238	NCBITaxon:10088 (Mus)
+T239	CHEBI 6503 6512	compounds
+#239	AnnotatorNotes T239	CHEBI:23367 (molecular entity)
+T240	NCBITaxon 6635 6639	mice
+#240	AnnotatorNotes T240	NCBITaxon:10088 (Mus)
+T241	NCBITaxon 6684 6688	mice
+#241	AnnotatorNotes T241	NCBITaxon:10088 (Mus)
+T242	GO_BP 6776 6781	taste
+#242	AnnotatorNotes T242	GO:0050909 (sensory perception of taste)
+T243	NCBITaxon 6904 6908	mice
+#243	AnnotatorNotes T243	NCBITaxon:10088 (Mus)
+T244	NCBITaxon 6936 6940	mice
+#244	AnnotatorNotes T244	NCBITaxon:10088 (Mus)
+T245	CHEBI 7046 7051	water
+#245	AnnotatorNotes T245	CHEBI:15377 (water)
+T246	CHEBI 7107 7115	benzoate
+#246	AnnotatorNotes T246	CHEBI:16150 (benzoate)
+T247	CHEBI 7122 7126	PROP
+#247	AnnotatorNotes T247	CHEBI:8502 (6-propyl-2-thiouracil)
+T248	CHEBI 7128 7148	6-n-propylthiouracil
+#248	AnnotatorNotes T248	CHEBI:8502 (6-propyl-2-thiouracil)
+T249	CHEBI 7150 7152	PR
+#249	AnnotatorNotes T249	CHEBI:8502 (6-propyl-2-thiouracil)
+T250	CHEBI 7158 7165	quinine
+#250	AnnotatorNotes T250	CHEBI:15854 (quinine)
+T251	CHEBI 7166 7179	hydrochloride
+#251	AnnotatorNotes T251	CHEBI:36807 (hydrochlorides)
+T252	CHEBI 7166 7179	hydrochloride
+#252	AnnotatorNotes T252	CHEBI:17883 (hydrogen chloride)
+T253	bold 7305 7308	(A)
+#253	AnnotatorNotes T253	bold (null)
+T254	NCBITaxon 7372 7376	mice
+#254	AnnotatorNotes T254	NCBITaxon:10088 (Mus)
+T255	GO_BP 7506 7511	taste
+#255	AnnotatorNotes T255	GO:0050909 (sensory perception of taste)
+T256	bold 7692 7695	(B)
+#256	AnnotatorNotes T256	bold (null)
+T257	bold 7784 7787	(C)
+#257	AnnotatorNotes T257	bold (null)
+T258	bold 7878 7881	(D)
+#258	AnnotatorNotes T258	bold (null)
+T259	GO_BP 7944 7949	taste
+#259	AnnotatorNotes T259	GO:0050909 (sensory perception of taste)
+T260	GO_BP 8339 8346	control
+#260	AnnotatorNotes T260	GO:0065007 (biological regulation)
+T261	NCBITaxon 8364 8368	mice
+#261	AnnotatorNotes T261	NCBITaxon:10088 (Mus)
+T262	NCBITaxon 8411 8415	mice
+#262	AnnotatorNotes T262	NCBITaxon:10088 (Mus)
+T263	GO_BP 8535 8540	taste
+#263	AnnotatorNotes T263	GO:0050909 (sensory perception of taste)
+T264	SO 8702 8705	QTL
+#264	AnnotatorNotes T264	SO:0000771 (QTL)
+T265	SO 8752 8755	Map
+#265	AnnotatorNotes T265	SO:0001248 (assembly)
+T266	SO 8803 8807	QTLs
+#266	AnnotatorNotes T266	SO:0000771 (QTL)
+T267	GO_BP 8831 8836	taste
+#267	AnnotatorNotes T267	GO:0050909 (sensory perception of taste)
+T268	GO_CC 8896 8907	chromosomes
+#268	AnnotatorNotes T268	GO:0005694 (chromosome)
+T269	SO 8896 8907	chromosomes
+#269	AnnotatorNotes T269	SO:0000340 (chromosome)
+T270	SO 8949 8955	genome
+#270	AnnotatorNotes T270	SO:0001026 (genome)
+T271	SO 9022 9028	genome
+#271	AnnotatorNotes T271	SO:0001026 (genome)
+T272	SO 9044 9047	QTL
+#272	AnnotatorNotes T272	SO:0000771 (QTL)
+T273	GO_CC 9094 9104	chromosome
+#273	AnnotatorNotes T273	GO:0005694 (chromosome)
+T274	SO 9094 9104	chromosome
+#274	AnnotatorNotes T274	SO:0000340 (chromosome)
+T275	SO 9147 9153	genome
+#275	AnnotatorNotes T275	SO:0001026 (genome)
+T276	SO 9169 9172	QTL
+#276	AnnotatorNotes T276	SO:0000771 (QTL)
+T277	GO_CC 9176 9186	chromosome
+#277	AnnotatorNotes T277	GO:0005694 (chromosome)
+T278	SO 9176 9186	chromosome
+#278	AnnotatorNotes T278	SO:0000340 (chromosome)
+T279	SO 9230 9233	QTL
+#279	AnnotatorNotes T279	SO:0000771 (QTL)
+T280	SO 9281 9287	genome
+#280	AnnotatorNotes T280	SO:0001026 (genome)
+T281	SO 9338 9341	QTL
+#281	AnnotatorNotes T281	SO:0000771 (QTL)
+T282	GO_BP 9351 9356	taste
+#282	AnnotatorNotes T282	GO:0050909 (sensory perception of taste)
+T283	NCBITaxon 9360 9365	mouse
+#283	AnnotatorNotes T283	NCBITaxon:10088 (Mus)
+T284	GO_CC 9366 9376	chromosome
+#284	AnnotatorNotes T284	GO:0005694 (chromosome)
+T285	SO 9366 9376	chromosome
+#285	AnnotatorNotes T285	SO:0000340 (chromosome)
+T286	bold 9380 9391	(Top panel)
+#286	AnnotatorNotes T286	bold (null)
+T287	SO 9396 9408	interval map
+#287	AnnotatorNotes T287	SO:0000353 (sequence_assembly)
+T288	SO 9443 9446	QTL
+#288	AnnotatorNotes T288	SO:0000771 (QTL)
+T289	GO_CC 9450 9460	chromosome
+#289	AnnotatorNotes T289	GO:0005694 (chromosome)
+T290	SO 9450 9460	chromosome
+#290	AnnotatorNotes T290	SO:0000340 (chromosome)
+T291	SO 9488 9491	QTL
+#291	AnnotatorNotes T291	SO:0000771 (QTL)
+T292	GO_CC 9495 9505	chromosome
+#292	AnnotatorNotes T292	GO:0005694 (chromosome)
+T293	SO 9495 9505	chromosome
+#293	AnnotatorNotes T293	SO:0000340 (chromosome)
+T294	GO_BP 9527 9532	taste
+#294	AnnotatorNotes T294	GO:0050909 (sensory perception of taste)
+T295	GO_BP 9533 9542	responses
+#295	AnnotatorNotes T295	GO:0050896 (response to stimulus)
+T296	bold 9557 9571	(Bottom panel)
+#296	AnnotatorNotes T296	bold (null)
+T297	SO 9592 9595	QTL
+#297	AnnotatorNotes T297	SO:0000771 (QTL)
+T298	SO 9648 9654	genome
+#298	AnnotatorNotes T298	SO:0001026 (genome)
+T299	GO_CC 9679 9689	chromosome
+#299	AnnotatorNotes T299	GO:0005694 (chromosome)
+T300	SO 9679 9689	chromosome
+#300	AnnotatorNotes T300	SO:0000340 (chromosome)
+T301	SO 9692 9695	QTL
+#301	AnnotatorNotes T301	SO:0000771 (QTL)
+T302	SO 9829 9832	QTL
+#302	AnnotatorNotes T302	SO:0000771 (QTL)
+T303	EntrezGene 9854 9862	D6Mit374
+#303	AnnotatorNotes T303	EG:62009
+T304	GO_BP 9916 9935	recombination event
+#304	AnnotatorNotes T304	GO:0006310 (DNA recombination)
+T305	SO 10000 10008	position
+#305	AnnotatorNotes T305	SO:0000001 (region)
+T306	EntrezGene 10042 10050	D6Mit374
+#306	AnnotatorNotes T306	EG:62009
+T307	SO 10153 10162	genotypes
+#307	AnnotatorNotes T307	SO:0001027 (genotype)
+T308	NCBITaxon 10231 10235	mice
+#308	AnnotatorNotes T308	NCBITaxon:10088 (Mus)
+T309	GO_BP 10274 10279	taste
+#309	AnnotatorNotes T309	GO:0050909 (sensory perception of taste)
+T310	SO 10299 10307	genotype
+#310	AnnotatorNotes T310	SO:0001027 (genotype)
+T311	SO 10335 10343	genotype
+#311	AnnotatorNotes T311	SO:0001027 (genotype)
+T312	SO 10413 10416	QTL
+#312	AnnotatorNotes T312	SO:0000771 (QTL)
+T313	SO 10434 10446	QTL interval
+#313	AnnotatorNotes T313	SO:0000771 (QTL)
+T314	SO 10485 10512	portion of mouse chromosome
+#314	AnnotatorNotes T314	"portion of .. chromosome" SO:0000830 (chromosome_part)
+T315	NCBITaxon 10496 10501	mouse
+#315	AnnotatorNotes T315	NCBITaxon:10088 (Mus)
+T316	GO_CC 10502 10512	chromosome
+#316	AnnotatorNotes T316	GO:0005694 (chromosome)
+T317	SO 10502 10512	chromosome
+#317	AnnotatorNotes T317	SO:0000340 (chromosome)
+T318	EntrezGene 10546 10554	D6Mit374
+#318	AnnotatorNotes T318	EG:62009
+T319	SO 10593 10599	region
+#319	AnnotatorNotes T319	SO:0000001 (region)
+T320	EntrezGene 10620 10628	D6Mit374
+#320	AnnotatorNotes T320	EG:62009
+T321	EntrezGene 10735 10743	D6Mit374
+#321	AnnotatorNotes T321	EG:62009
+T322	italic 10759 10768	in silico
+#322	AnnotatorNotes T322	italic (null)
+T323	SO 10792 10797	build
+#323	AnnotatorNotes T323	SO:0001248 (assembly)
+T324	SO 10815 10821	genome
+#324	AnnotatorNotes T324	SO:0001026 (genome)
+T325	SO 10845 10854	positions
+#325	AnnotatorNotes T325	SO:0000001 (region)
+T326	GO_CC 10877 10887	chromosome
+#326	AnnotatorNotes T326	GO:0005694 (chromosome)
+T327	SO 10877 10887	chromosome
+#327	AnnotatorNotes T327	SO:0000340 (chromosome)
+T328	SO 10890 10893	QTL
+#328	AnnotatorNotes T328	SO:0000771 (QTL)
+T329	SO 10931 10937	region
+#329	AnnotatorNotes T329	SO:0000001 (region)
+T330	SO 10959 10964	known
+#330	AnnotatorNotes T330	SO:0000906 (independently_known)
+T331	SO 10965 10970	genes
+#331	AnnotatorNotes T331	SO:0000704 (gene)
+T332	GO_MF 11024 11032	receptor
+#332	AnnotatorNotes T332	GO:0004872 (receptor activity)
+T333	independent_continuant 11024 11032	receptor
+#333	AnnotatorNotes T333	independent_continuant
+T334	GO_MF 11043 11084	natural killer cell lectin-like receptors
+#334	AnnotatorNotes T334	"natural killer cell .. receptors" GO:0045233 (natural killer cell receptor activity)
+T335	independent_continuant 11043 11084	natural killer cell lectin-like receptors
+#335	AnnotatorNotes T335	"natural killer cell .. receptors" independent_continuant
+T336	CL 11043 11062	natural killer cell
+#336	AnnotatorNotes T336	CL:0000623 (natural killer cell)
+T337	GO_CC 11058 11062	cell
+#337	AnnotatorNotes T337	GO:0005623 (cell)
+T338	GO_MF 11099 11114	taste receptors
+#338	AnnotatorNotes T338	GO:0008527 (taste receptor activity)
+T339	independent_continuant 11099 11114	taste receptors
+#339	AnnotatorNotes T339	independent_continuant
+T340	GO_BP 11099 11104	taste
+#340	AnnotatorNotes T340	GO:0050909 (sensory perception of taste)
+T341	italic 11120 11125	Tas2r
+#341	AnnotatorNotes T341	italic (null)
+T342	SO 11126 11131	genes
+#342	AnnotatorNotes T342	SO:0000704 (gene)
+T343	SO 11166 11175	clustered
+#343	AnnotatorNotes T343	SO:0005851 (gene_array)
+T344	SO 11192 11200	interval
+#344	AnnotatorNotes T344	SO:0000001 (region)
+T345	GO_BP 11317 11327	expression
+#345	AnnotatorNotes T345	GO:0010467 (gene expression)
+T346	CL 11331 11351	taste receptor cells
+#346	AnnotatorNotes T346	CL:0000209 (taste receptor cell)
+T347	GO_MF 11331 11345	taste receptor
+#347	AnnotatorNotes T347	GO:0008527 (taste receptor activity)
+T348	independent_continuant 11331 11345	taste receptor
+#348	AnnotatorNotes T348	independent_continuant
+T349	GO_BP 11331 11336	taste
+#349	AnnotatorNotes T349	GO:0050909 (sensory perception of taste)
+T350	GO_CC 11346 11351	cells
+#350	AnnotatorNotes T350	GO:0005623 (cell)
+T351	GO_BP 11375 11384	detection
+#351	AnnotatorNotes T351	GO:0051606 (detection of stimulus)
+T352	GO_BP 11402 11416	bitter-tasting
+#352	AnnotatorNotes T352	GO:0050913 (sensory perception of bitter taste)
+T353	CHEBI 11417 11426	compounds
+#353	AnnotatorNotes T353	CHEBI:23367 (molecular entity)
+T354	italic 11471 11477	Tas2rs
+#354	AnnotatorNotes T354	italic (null)
+T355	SO 11486 11491	locus
+#355	AnnotatorNotes T355	SO:0000001 (region)
+T356	GO_BP 11528 11533	taste
+#356	AnnotatorNotes T356	GO:0050909 (sensory perception of taste)
+T357	SO 11546 11549	QTL
+#357	AnnotatorNotes T357	SO:0000771 (QTL)
+T358	SO 11571 11574	QTL
+#358	AnnotatorNotes T358	SO:0000771 (QTL)
+T359	GO_CC 11607 11617	chromosome
+#359	AnnotatorNotes T359	GO:0005694 (chromosome)
+T360	SO 11607 11617	chromosome
+#360	AnnotatorNotes T360	SO:0000340 (chromosome)
+T361	bold 11621 11624	(A)
+#361	AnnotatorNotes T361	bold (null)
+T362	SO 11641 11653	interval map
+#362	AnnotatorNotes T362	SO:0000353 (sequence_assembly)
+T363	GO_CC 11658 11668	chromosome
+#363	AnnotatorNotes T363	GO:0005694 (chromosome)
+T364	SO 11658 11668	chromosome
+#364	AnnotatorNotes T364	SO:0000340 (chromosome)
+T365	SO 11766 11777	polymorphic
+#365	AnnotatorNotes T365	SO:0001025 (polymorphic_sequence_variant)
+T366	SO 11766 11777	polymorphic
+#366	AnnotatorNotes T366	SO:0000694 (SNP)
+T367	SO 11827 11833	genome
+#367	AnnotatorNotes T367	SO:0001026 (genome)
+T368	SO 11866 11869	QTL
+#368	AnnotatorNotes T368	SO:0000771 (QTL)
+T369	EntrezGene 11919 11928	D6Mit 374
+#369	AnnotatorNotes T369	EG:62009
+T370	SO 11941 11988	cluster of putative bitter taste receptor genes
+#370	AnnotatorNotes T370	"cluster of .. genes" SO:0005851 (gene_array)
+T371	GO_MF 11961 11982	bitter taste receptor
+#371	AnnotatorNotes T371	GO:0033038 (bitter taste receptor activity)
+T372	independent_continuant 11961 11982	bitter taste receptor
+#372	AnnotatorNotes T372	independent_continuant
+T373	GO_BP 11961 11973	bitter taste
+#373	AnnotatorNotes T373	GO:0050913 (sensory perception of bitter taste)
+T374	italic 11994 12000	Tas2rs
+#374	AnnotatorNotes T374	italic (null)
+T375	SO 12022 12031	positions
+#375	AnnotatorNotes T375	SO:0000001 (region)
+T376	SO 12039 12050	polymorphic
+#376	AnnotatorNotes T376	SO:0001025 (polymorphic_sequence_variant)
+T377	SO 12039 12050	polymorphic
+#377	AnnotatorNotes T377	SO:0000694 (SNP)
+T378	SO 12107 12112	build
+#378	AnnotatorNotes T378	SO:0001248 (assembly)
+T379	NCBITaxon 12123 12128	mouse
+#379	AnnotatorNotes T379	NCBITaxon:10088 (Mus)
+T380	SO 12129 12135	genome
+#380	AnnotatorNotes T380	SO:0001026 (genome)
+T381	SO 12150 12158	position
+#381	AnnotatorNotes T381	SO:0000001 (region)
+T382	SO 12202 12205	map
+#382	AnnotatorNotes T382	SO:0001248 (assembly)
+T383	GO_CC 12220 12230	chromosome
+#383	AnnotatorNotes T383	GO:0005694 (chromosome)
+T384	SO 12220 12230	chromosome
+#384	AnnotatorNotes T384	SO:0000340 (chromosome)
+T385	italic 12233 12238	Tas2r
+#385	AnnotatorNotes T385	italic (null)
+T386	SO 12239 12246	cluster
+#386	AnnotatorNotes T386	SO:0005851 (gene_array)
+T387	italic 12267 12272	Tas2r
+#387	AnnotatorNotes T387	italic (null)
+T388	SO 12273 12278	genes
+#388	AnnotatorNotes T388	SO:0000704 (gene)
+T389	GO_CC 12293 12303	chromosome
+#389	AnnotatorNotes T389	GO:0005694 (chromosome)
+T390	SO 12293 12303	chromosome
+#390	AnnotatorNotes T390	SO:0000340 (chromosome)
+T391	italic 12319 12324	Tas2r
+#391	AnnotatorNotes T391	italic (null)
+T392	SO 12343 12354	subclusters
+#392	AnnotatorNotes T392	SO:0005852 (gene_subarray)
+T393	SO 12377 12388	polymorphic
+#393	AnnotatorNotes T393	SO:0001025 (polymorphic_sequence_variant)
+T394	SO 12377 12388	polymorphic
+#394	AnnotatorNotes T394	SO:0000694 (SNP)
+T395	italic 12396 12403	D6Mit13
+#395	AnnotatorNotes T395	italic (null)
+T396	SO 12418 12423	genes
+#396	AnnotatorNotes T396	SO:0000704 (gene)
+T397	CHEBI 12433 12440	proline
+#397	AnnotatorNotes T397	CHEBI:32874 (proline residue)
+T398	SO 12433 12440	proline
+#398	AnnotatorNotes T398	SO:0001439 (proline)
+T399	CHEBI 12455 12463	proteins
+#399	AnnotatorNotes T399	CHEBI:36080 (proteins)
+T400	italic 12465 12469	Prp2
+#400	AnnotatorNotes T400	italic (null)
+T401	EntrezGene 12465 12469	Prp2
+#401	AnnotatorNotes T401	EG:83380
+T402	italic 12474 12478	Prh1
+#402	AnnotatorNotes T402	italic (null)
+T403	EntrezGene 12474 12478	Prh1
+#403	AnnotatorNotes T403	EG:19131
+T404	SO 12486 12489	Map
+#404	AnnotatorNotes T404	SO:0001248 (assembly)
+T405	SO 12490 12499	positions
+#405	AnnotatorNotes T405	SO:0000001 (region)
+T406	SO 12518 12540	chromosome 6 positions
+#406	AnnotatorNotes T406	"chromosome .. positions" SO:0000830 (chromosome_part)
+T407	GO_CC 12518 12528	chromosome
+#407	AnnotatorNotes T407	GO:0005694 (chromosome)
+T408	SO 12518 12528	chromosome
+#408	AnnotatorNotes T408	SO:0000340 (chromosome)
+T409	SO 12558 12566	assembly
+#409	AnnotatorNotes T409	SO:0001248 (assembly)
+T410	SO 12577 12583	genome
+#410	AnnotatorNotes T410	SO:0001026 (genome)
+T411	SO 12590 12597	alleles
+#411	AnnotatorNotes T411	SO:0001023 (allele)
+T412	italic 12616 12622	Tas2rs
+#412	AnnotatorNotes T412	italic (null)
+T413	GO_CC 12636 12646	chromosome
+#413	AnnotatorNotes T413	GO:0005694 (chromosome)
+T414	SO 12636 12646	chromosome
+#414	AnnotatorNotes T414	SO:0000340 (chromosome)
+T415	GO_BP 12654 12659	taste
+#415	AnnotatorNotes T415	GO:0050909 (sensory perception of taste)
+T416	SO 12672 12675	QTL
+#416	AnnotatorNotes T416	SO:0000771 (QTL)
+T417	italic 12713 12718	Tas2r
+#417	AnnotatorNotes T417	italic (null)
+T418	SO 12719 12724	genes
+#418	AnnotatorNotes T418	SO:0000704 (gene)
+T419	italic 12782 12787	Tas2r
+#419	AnnotatorNotes T419	italic (null)
+T420	SO 12788 12794	allele
+#420	AnnotatorNotes T420	SO:0001023 (allele)
+T421	SO 12800 12810	pseudogene
+#421	AnnotatorNotes T421	SO:0000336 (pseudogene)
+T422	SO 12818 12825	deleted
+#422	AnnotatorNotes T422	SO:0000045 (delete)
+T423	NCBITaxon 12882 12886	mice
+#423	AnnotatorNotes T423	NCBITaxon:10088 (Mus)
+T424	SO 12901 12910	mutations
+#424	AnnotatorNotes T424	SO:0001059 (sequence_alteration)
+T425	SO 12925 12936	coding exon
+#425	AnnotatorNotes T425	SO:0000195 (coding_exon)
+T426	italic 12945 12950	Tas2r
+#426	AnnotatorNotes T426	italic (null)
+T427	SO 12951 12957	allele
+#427	AnnotatorNotes T427	SO:0001023 (allele)
+T428	CHEBI 12965 12972	protein
+#428	AnnotatorNotes T428	CHEBI:36080 (proteins)
+T429	GO_MF 12998 13005	binding
+#429	AnnotatorNotes T429	GO:0005488 (binding)
+T430	GO_MF 13009 13017	receptor
+#430	AnnotatorNotes T430	GO:0004872 (receptor activity)
+T431	independent_continuant 13009 13017	receptor
+#431	AnnotatorNotes T431	independent_continuant
+T432	GO_BP 13041 13059	signaling cascades
+#432	AnnotatorNotes T432	GO:0007165 (signal transduction)
+T433	SO 13065 13074	Mutations
+#433	AnnotatorNotes T433	SO:0001059 (sequence_alteration)
+T434	SO 13091 13109	regulatory regions
+#434	AnnotatorNotes T434	SO:0005836 (regulatory_region)
+T435	GO_BP 13091 13101	regulatory
+#435	AnnotatorNotes T435	GO:0065007 (biological regulation)
+T436	italic 13118 13123	Tas2r
+#436	AnnotatorNotes T436	italic (null)
+T437	SO 13124 13130	allele
+#437	AnnotatorNotes T437	SO:0001023 (allele)
+T438	GO_BP 13139 13149	expression
+#438	AnnotatorNotes T438	GO:0010467 (gene expression)
+T439	CHEBI 13157 13172	protein product
+#439	AnnotatorNotes T439	CHEBI:36080 (proteins)
+T440	SO 13285 13293	deletion
+#440	AnnotatorNotes T440	SO:0000045 (delete)
+T441	SO 13297 13305	mutation
+#441	AnnotatorNotes T441	SO:0000041 (sequence_operation)
+T442	SO 13317 13332	coding sequence
+#442	AnnotatorNotes T442	SO:0000316 (CDS)
+T443	italic 13348 13353	Tas2r
+#443	AnnotatorNotes T443	italic (null)
+T444	GO_BP 13384 13389	taste
+#444	AnnotatorNotes T444	GO:0050909 (sensory perception of taste)
+T445	italic 13435 13441	Tas2rs
+#445	AnnotatorNotes T445	italic (null)
+T446	italic 13469 13474	Tas2r
+#446	AnnotatorNotes T446	italic (null)
+T447	SO 13475 13486	pseudogenes
+#447	AnnotatorNotes T447	SO:0000336 (pseudogene)
+T448	GO_CC 13523 13533	chromosome
+#448	AnnotatorNotes T448	GO:0005694 (chromosome)
+T449	SO 13523 13533	chromosome
+#449	AnnotatorNotes T449	SO:0000340 (chromosome)
+T450	SO 13536 13543	cluster
+#450	AnnotatorNotes T450	SO:0005851 (gene_array)
+T451	NCBITaxon 13550 13554	mice
+#451	AnnotatorNotes T451	NCBITaxon:10088 (Mus)
+T452	SO 13584 13600	oligonucleotides
+#452	AnnotatorNotes T452	SO:0000696 (oligo)
+T453	SO 13615 13622	regions
+#453	AnnotatorNotes T453	SO:0000001 (region)
+T454	SO 13636 13651	coding sequence
+#454	AnnotatorNotes T454	SO:0000316 (CDS)
+T455	italic 13667 13672	Tas2r
+#455	AnnotatorNotes T455	italic (null)
+T456	SO 13710 13716	oligos
+#456	AnnotatorNotes T456	SO:0000696 (oligo)
+T457	italic 13736 13741	Tas2r
+#457	AnnotatorNotes T457	italic (null)
+T458	SO 13742 13757	coding sequence
+#458	AnnotatorNotes T458	SO:0000316 (CDS)
+T459	SO 13766 13777	genomic DNA
+#459	AnnotatorNotes T459	SO:0000991 (genomic_DNA)
+T460	SO 13766 13773	genomic
+#460	AnnotatorNotes T460	SO:0001026 (genome)
+T461	SO 13779 13791	PCR products
+#461	AnnotatorNotes T461	SO:0000006 (PCR_product)
+T462	SO 13820 13827	vectors
+#462	AnnotatorNotes T462	SO:0000440 (vector_replicon)
+T463	SO 13862 13871	sequences
+#463	AnnotatorNotes T463	SO:0000001 (region)
+T464	SO 13885 13896	orthologues
+#464	AnnotatorNotes T464	SO:0000855 (orthologous_region)
+T465	italic 13939 13944	Tas2r
+#465	AnnotatorNotes T465	italic (null)
+T466	SO 13945 13952	alleles
+#466	AnnotatorNotes T466	SO:0001023 (allele)
+T467	italic 13963 13971	Tas2r106
+#467	AnnotatorNotes T467	italic (null)
+T468	PR 13963 13971	Tas2r106
+#468	AnnotatorNotes T468	PR:000016893 (taste receptor type 2 member 106)
+T469	EntrezGene 13963 13971	Tas2r106
+#469	AnnotatorNotes T469	EG:387341
+T470	italic 13976 13984	Tas2r124
+#470	AnnotatorNotes T470	italic (null)
+T471	EntrezGene 13976 13984	Tas2r124
+#471	AnnotatorNotes T471	EG:387351
+T472	PR 13976 13984	Tas2r124
+#472	AnnotatorNotes T472	PR:000016904 (taste receptor type 2 member 124)
+T473	CHEBI 14023 14033	amino acid
+#473	AnnotatorNotes T473	CHEBI:33708 (amino-acid residue)
+T474	SO 14023 14033	amino acid
+#474	AnnotatorNotes T474	SO:0001237 (amino_acid)
+T475	CHEBI 14023 14028	amino
+#475	AnnotatorNotes T475	CHEBI:32952 (amines)
+T476	CHEBI 14023 14028	amino
+#476	AnnotatorNotes T476	CHEBI:46882 (amino group)
+T477	CHEBI 14029 14033	acid
+#477	AnnotatorNotes T477	CHEBI:37527 (acid)
+T478	italic 14067 14075	Tas2r120
+#478	AnnotatorNotes T478	italic (null)
+T479	PR 14067 14075	Tas2r120
+#479	AnnotatorNotes T479	PR:000016902 (taste receptor type 2 member 120)
+T480	EntrezGene 14067 14075	Tas2r120
+#480	AnnotatorNotes T480	EG:387348
+T481	SO 14108 14119	genomic DNA
+#481	AnnotatorNotes T481	SO:0000991 (genomic_DNA)
+T482	SO 14108 14115	genomic
+#482	AnnotatorNotes T482	SO:0001026 (genome)
+T483	SO 14160 14176	oligonucleotides
+#483	AnnotatorNotes T483	SO:0000696 (oligo)
+T484	italic 14219 14224	Tas2r
+#484	AnnotatorNotes T484	italic (null)
+T485	SO 14228 14235	deleted
+#485	AnnotatorNotes T485	SO:0000045 (delete)
+T486	NCBITaxon 14242 14246	mice
+#486	AnnotatorNotes T486	NCBITaxon:10088 (Mus)
+T487	SO 14255 14262	alleles
+#487	AnnotatorNotes T487	SO:0001023 (allele)
+T488	italic 14264 14272	Tas2r103
+#488	AnnotatorNotes T488	italic (null)
+T489	PR 14264 14272	Tas2r103
+#489	AnnotatorNotes T489	PR:000016890 (taste receptor type 2 member 103)
+T490	EntrezGene 14264 14272	Tas2r103
+#490	AnnotatorNotes T490	EG:667992
+T491	italic 14277 14285	Tas2r117
+#491	AnnotatorNotes T491	italic (null)
+T492	PR 14277 14285	Tas2r117
+#492	AnnotatorNotes T492	PR:000016900 (taste receptor type 2 member 117)
+T493	EntrezGene 14277 14285	Tas2r117
+#493	AnnotatorNotes T493	EG:353166
+T494	SO 14315 14324	mutations
+#494	AnnotatorNotes T494	SO:0001059 (sequence_alteration)
+T495	SO 14335 14344	deletions
+#495	AnnotatorNotes T495	SO:0000159 (deletion)
+T496	SO 14357 14369	frame shifts
+#496	AnnotatorNotes T496	SO:0000865 (frameshift)
+T497	GO_BP 14384 14395	termination
+#497	AnnotatorNotes T497	GO:0006353 (transcription termination)
+T498	GO_BP 14384 14395	termination
+#498	AnnotatorNotes T498	GO:0006415 (translational termination)
+T499	SO 14407 14412	genes
+#499	AnnotatorNotes T499	SO:0000704 (gene)
+T500	SO 14420 14431	pseudogenes
+#500	AnnotatorNotes T500	SO:0000336 (pseudogene)
+T501	italic 14465 14470	Tas2r
+#501	AnnotatorNotes T501	italic (null)
+T502	SO 14510 14519	mutations
+#502	AnnotatorNotes T502	SO:0001059 (sequence_alteration)
+T503	italic 14528 14534	Tas2rs
+#503	AnnotatorNotes T503	italic (null)
+T504	SO 14559 14566	alleles
+#504	AnnotatorNotes T504	SO:0001023 (allele)
+T505	NCBITaxon 14580 14584	mice
+#505	AnnotatorNotes T505	NCBITaxon:10088 (Mus)
+T506	SO 14594 14625	single nucleotide polymorphisms
+#506	AnnotatorNotes T506	SO:0000694 (SNP)
+T507	SO 14601 14611	nucleotide
+#507	AnnotatorNotes T507	SO:0001236 (base)
+T508	SO 14645 14657	coding exons
+#508	AnnotatorNotes T508	SO:0000195 (coding_exon)
+T509	SO 14685 14696	polymorphic
+#509	AnnotatorNotes T509	SO:0000694 (SNP)
+T510	CHEBI 14697 14705	residues
+#510	AnnotatorNotes T510	CHEBI:33791 (canonical nucleoside residues)
+T511	SO 14697 14705	residues
+#511	AnnotatorNotes T511	SO:0001237 (amino_acid)
+T512	SO 14697 14705	residues
+#512	AnnotatorNotes T512	SO:0001236 (base)
+T513	italic 14724 14730	Tas2rs
+#513	AnnotatorNotes T513	italic (null)
+T514	SO 14748 14755	regions
+#514	AnnotatorNotes T514	SO:0000001 (region)
+T515	GO_MF 14763 14772	receptors
+#515	AnnotatorNotes T515	GO:0004872 (receptor activity)
+T516	independent_continuant 14763 14772	receptors
+#516	AnnotatorNotes T516	independent_continuant
+T517	CHEBI 14785 14795	amino acid
+#517	AnnotatorNotes T517	CHEBI:33708 (amino-acid residue)
+T518	SO 14785 14795	amino acid
+#518	AnnotatorNotes T518	SO:0001237 (amino_acid)
+T519	CHEBI 14785 14790	amino
+#519	AnnotatorNotes T519	CHEBI:46882 (amino group)
+T520	CHEBI 14785 14790	amino
+#520	AnnotatorNotes T520	CHEBI:32952 (amines)
+T521	CHEBI 14791 14795	acid
+#521	AnnotatorNotes T521	CHEBI:37527 (acid)
+T522	SO 14796 14803	changes
+#522	AnnotatorNotes T522	SO:0001059 (sequence_alteration)
+T523	GO_CC 14834 14847	extracellular
+#523	AnnotatorNotes T523	GO:0005576 (extracellular region)
+T524	SO 14895 14902	Allelic
+#524	AnnotatorNotes T524	SO:0001023 (allele)
+T525	italic 14937 14943	Tas2rs
+#525	AnnotatorNotes T525	italic (null)
+T526	SO 14955 14962	alleles
+#526	AnnotatorNotes T526	SO:0001023 (allele)
+T527	italic 14971 14977	Tas2rs
+#527	AnnotatorNotes T527	italic (null)
+T528	GO_BP 15032 15039	digests
+#528	AnnotatorNotes T528	GO:0009056 (catabolic process)
+T529	SO 15053 15065	PCR products
+#529	AnnotatorNotes T529	SO:0000006 (PCR_product)
+T530	italic 15067 15075	Tas2r105
+#530	AnnotatorNotes T530	italic (null)
+T531	PR 15067 15075	Tas2r105
+#531	AnnotatorNotes T531	PR:000016892 (taste receptor type 2 member 105)
+T532	EntrezGene 15067 15075	Tas2r105
+#532	AnnotatorNotes T532	EG:57252
+T533	italic 15077 15085	Tas2r116
+#533	AnnotatorNotes T533	italic (null)
+T534	PR 15077 15085	Tas2r116
+#534	AnnotatorNotes T534	PR:000016899 (taste receptor type 2 member 116)
+T535	EntrezGene 15077 15085	Tas2r116
+#535	AnnotatorNotes T535	EG:112408
+T536	italic 15090 15098	Tas2r131
+#536	AnnotatorNotes T536	italic (null)
+T537	EntrezGene 15090 15098	Tas2r131
+#537	AnnotatorNotes T537	EG:387356
+T538	SO 15135 15146	PCR product
+#538	AnnotatorNotes T538	SO:0000006 (PCR_product)
+T539	italic 15148 15156	Tas2r120
+#539	AnnotatorNotes T539	italic (null)
+T540	PR 15148 15156	Tas2r120
+#540	AnnotatorNotes T540	PR:000016902 (taste receptor type 2 member 120)
+T541	EntrezGene 15148 15156	Tas2r120
+#541	AnnotatorNotes T541	EG:387348
+T542	italic 15197 15202	Tas2r
+#542	AnnotatorNotes T542	italic (null)
+T543	SO 15203 15211	genotype
+#543	AnnotatorNotes T543	SO:0001027 (genotype)
+T544	GO_MF 15353 15372	restriction enzymes
+#544	AnnotatorNotes T544	GO:0015666 (restriction endodeoxyribonuclease activity)
+T545	independent_continuant 15353 15372	restriction enzymes
+#545	AnnotatorNotes T545	independent_continuant
+T546	SO 15365 15372	enzymes
+#546	AnnotatorNotes T546	SO:0001185 (enzymatic)
+T547	SO 15377 15393	oligonucleotides
+#547	AnnotatorNotes T547	SO:0000696 (oligo)
+T548	SO 15420 15431	orthologous
+#548	AnnotatorNotes T548	SO:0000858 (orthologous)
+T549	GO_MF 15432 15441	receptors
+#549	AnnotatorNotes T549	GO:0004872 (receptor activity)
+T550	independent_continuant 15432 15441	receptors
+#550	AnnotatorNotes T550	independent_continuant
+T551	SO 15529 15539	boundaries
+#551	AnnotatorNotes T551	SO:0000699 (junction)
+T552	GO_BP 15552 15557	taste
+#552	AnnotatorNotes T552	GO:0050909 (sensory perception of taste)
+T553	SO 15558 15561	QTL
+#553	AnnotatorNotes T553	SO:0000771 (QTL)
+T554	italic 15583 15588	Tas2r
+#554	AnnotatorNotes T554	italic (null)
+T555	SO 15589 15596	alleles
+#555	AnnotatorNotes T555	SO:0001023 (allele)
+T556	GO_BP 15622 15627	taste
+#556	AnnotatorNotes T556	GO:0050909 (sensory perception of taste)
+T557	SO 15675 15686	genomic DNA
+#557	AnnotatorNotes T557	SO:0000991 (genomic_DNA)
+T558	SO 15675 15682	genomic
+#558	AnnotatorNotes T558	SO:0001026 (genome)
+T559	GO_BP 15756 15761	taste
+#559	AnnotatorNotes T559	GO:0050909 (sensory perception of taste)
+T560	italic 15779 15784	Tas2r
+#560	AnnotatorNotes T560	italic (null)
+T561	SO 15785 15792	alleles
+#561	AnnotatorNotes T561	SO:0001023 (allele)
+T562	independent_continuant 15860 15884	restriction endonuclease
+#562	AnnotatorNotes T562	independent_continuant
+T563	GO_MF 15860 15884	restriction endonuclease
+#563	AnnotatorNotes T563	GO:0015666 (restriction endodeoxyribonuclease activity)
+T564	GO_BP 15885 15892	digests
+#564	AnnotatorNotes T564	GO:0009056 (catabolic process)
+T565	italic 15954 15959	Tas2r
+#565	AnnotatorNotes T565	italic (null)
+T566	SO 15960 15971	PCR product
+#566	AnnotatorNotes T566	SO:0000006 (PCR_product)
+T567	SO 16002 16008	allele
+#567	AnnotatorNotes T567	SO:0001023 (allele)
+T568	SO 16035 16040	genes
+#568	AnnotatorNotes T568	SO:0000704 (gene)
+T569	italic 16042 16050	Tas2r104
+#569	AnnotatorNotes T569	italic (null)
+T570	EntrezGene 16042 16050	Tas2r104
+#570	AnnotatorNotes T570	EG:387340
+T571	PR 16042 16050	Tas2r104
+#571	AnnotatorNotes T571	PR:000016891 (taste receptor type 2 member 104)
+T572	italic 16052 16060	Tas2r114
+#572	AnnotatorNotes T572	italic (null)
+T573	PR 16052 16060	Tas2r114
+#573	AnnotatorNotes T573	PR:000016898 (taste receptor type 2 member 114)
+T574	EntrezGene 16052 16060	Tas2r114
+#574	AnnotatorNotes T574	EG:387346
+T575	italic 16065 16073	Tas2r110
+#575	AnnotatorNotes T575	italic (null)
+T576	PR 16065 16073	Tas2r110
+#576	AnnotatorNotes T576	PR:000016896 (taste receptor type 2 member 110)
+T577	EntrezGene 16065 16073	Tas2r110
+#577	AnnotatorNotes T577	EG:387344
+T578	independent_continuant 16095 16119	restriction endonuclease
+#578	AnnotatorNotes T578	independent_continuant
+T579	GO_MF 16095 16119	restriction endonuclease
+#579	AnnotatorNotes T579	GO:0015666 (restriction endodeoxyribonuclease activity)
+T580	italic 16145 16153	Tas2r120
+#580	AnnotatorNotes T580	italic (null)
+T581	EntrezGene 16145 16153	Tas2r120
+#581	AnnotatorNotes T581	EG:387348
+T582	PR 16145 16153	Tas2r120
+#582	AnnotatorNotes T582	PR:000016902 (taste receptor type 2 member 120)
+T583	SO 16171 16178	deleted
+#583	AnnotatorNotes T583	SO:0000045 (delete)
+T584	NCBITaxon 16185 16189	mice
+#584	AnnotatorNotes T584	NCBITaxon:10088 (Mus)
+T585	SO 16208 16219	PCR product
+#585	AnnotatorNotes T585	SO:0000006 (PCR_product)
+T586	SO 16245 16253	genotype
+#586	AnnotatorNotes T586	SO:0001027 (genotype)
+T587	SO 16263 16267	gene
+#587	AnnotatorNotes T587	SO:0000704 (gene)
+T588	GO_BP 16331 16351	recombination events
+#588	AnnotatorNotes T588	GO:0006310 (DNA recombination)
+T589	GO_CC 16370 16380	chromosome
+#589	AnnotatorNotes T589	GO:0005694 (chromosome)
+T590	SO 16370 16380	chromosome
+#590	AnnotatorNotes T590	SO:0000340 (chromosome)
+T591	SO 16383 16390	cluster
+#591	AnnotatorNotes T591	SO:0005851 (gene_array)
+T592	GO_BP 16402 16412	generation
+#592	AnnotatorNotes T592	GO:0000003 (reproduction)
+T593	italic 16465 16470	Tas2r
+#593	AnnotatorNotes T593	italic (null)
+T594	SO 16574 16582	genotype
+#594	AnnotatorNotes T594	SO:0001027 (genotype)
+T595	italic 16591 16596	Tas2r
+#595	AnnotatorNotes T595	italic (null)
+T596	SO 16597 16601	gene
+#596	AnnotatorNotes T596	SO:0000704 (gene)
+T597	GO_BP 16634 16639	taste
+#597	AnnotatorNotes T597	GO:0050909 (sensory perception of taste)
+T598	italic 16693 16698	Tas2r
+#598	AnnotatorNotes T598	italic (null)
+T599	SO 16699 16706	cluster
+#599	AnnotatorNotes T599	SO:0005851 (gene_array)
+T600	SO 16719 16728	haplotype
+#600	AnnotatorNotes T600	SO:0001024 (haplotype)
+T601	italic 16781 16786	Tas2r
+#601	AnnotatorNotes T601	italic (null)
+T602	SO 16787 16794	cluster
+#602	AnnotatorNotes T602	SO:0005851 (gene_array)
+T603	SO 16807 16816	haplotype
+#603	AnnotatorNotes T603	SO:0001024 (haplotype)
+T604	NCBITaxon 16830 16834	mice
+#604	AnnotatorNotes T604	NCBITaxon:10088 (Mus)
+T605	SO 16840 16851	coding exon
+#605	AnnotatorNotes T605	SO:0000195 (coding_exon)
+T606	italic 16866 16872	Tas2rs
+#606	AnnotatorNotes T606	italic (null)
+T607	GO_CC 16887 16897	chromosome
+#607	AnnotatorNotes T607	GO:0005694 (chromosome)
+T608	SO 16887 16897	chromosome
+#608	AnnotatorNotes T608	SO:0000340 (chromosome)
+T609	SO 16900 16907	cluster
+#609	AnnotatorNotes T609	SO:0005851 (gene_array)
+T610	SO 16922 16933	genomic DNA
+#610	AnnotatorNotes T610	SO:0000991 (genomic_DNA)
+T611	SO 16922 16929	genomic
+#611	AnnotatorNotes T611	SO:0001026 (genome)
+T612	italic 16966 16971	Tas2r
+#612	AnnotatorNotes T612	italic (null)
+T613	SO 17049 17055	allele
+#613	AnnotatorNotes T613	SO:0001023 (allele)
+T614	SO 17067 17073	allele
+#614	AnnotatorNotes T614	SO:0001023 (allele)
+T615	GO_BP 17113 17125	behaviorally
+#615	AnnotatorNotes T615	GO:0007610 (behavior)
+T616	italic 17177 17182	Tas2r
+#616	AnnotatorNotes T616	italic (null)
+T617	SO 17183 17191	genotype
+#617	AnnotatorNotes T617	SO:0001027 (genotype)
+T618	GO_BP 17213 17218	taste
+#618	AnnotatorNotes T618	GO:0050909 (sensory perception of taste)
+T619	italic 17315 17320	Tas2r
+#619	AnnotatorNotes T619	italic (null)
+T620	SO 17321 17330	haplotype
+#620	AnnotatorNotes T620	SO:0001024 (haplotype)
+T621	SO 17335 17344	haplotype
+#621	AnnotatorNotes T621	SO:0001024 (haplotype)
+T622	SO 17356 17365	haplotype
+#622	AnnotatorNotes T622	SO:0001024 (haplotype)
+T623	NCBITaxon 17377 17381	mice
+#623	AnnotatorNotes T623	NCBITaxon:10088 (Mus)
+T624	NCBITaxon 17461 17465	mice
+#624	AnnotatorNotes T624	NCBITaxon:10088 (Mus)
+T625	GO_BP 17507 17512	taste
+#625	AnnotatorNotes T625	GO:0050909 (sensory perception of taste)
+T626	italic 17555 17560	Tas2r
+#626	AnnotatorNotes T626	italic (null)
+T627	SO 17561 17570	haplotype
+#627	AnnotatorNotes T627	SO:0001024 (haplotype)
+T628	italic 17657 17662	Tas2r
+#628	AnnotatorNotes T628	italic (null)
+T629	SO 17663 17672	haplotype
+#629	AnnotatorNotes T629	SO:0001024 (haplotype)
+T630	GO_BP 17795 17804	gustatory
+#630	AnnotatorNotes T630	GO:0050909 (sensory perception of taste)
+T631	NCBITaxon 17815 17822	mammals
+#631	AnnotatorNotes T631	NCBITaxon:40674 (Mammalia)
+T632	GO_BP 17837 17843	detect
+#632	AnnotatorNotes T632	GO:0051606 (detection of stimulus)
+T633	CHEBI 17857 17867	chemically
+#633	AnnotatorNotes T633	CHEBI:23367 (molecular entity)
+T634	GO_BP 17876 17890	bitter-tasting
+#634	AnnotatorNotes T634	GO:0050913 (sensory perception of bitter taste)
+T635	CHEBI 17891 17901	substances
+#635	AnnotatorNotes T635	CHEBI:23367 (molecular entity)
+T636	GO_MF 17926 17935	receptors
+#636	AnnotatorNotes T636	GO:0004872 (receptor activity)
+T637	independent_continuant 17926 17935	receptors
+#637	AnnotatorNotes T637	independent_continuant
+T638	SO 17937 17944	enzymes
+#638	AnnotatorNotes T638	SO:0001185 (enzymatic)
+T639	GO_MF 17949 17957	channels
+#639	AnnotatorNotes T639	GO:0015267 (channel activity)
+T640	independent_continuant 17949 17957	channels
+#640	AnnotatorNotes T640	independent_continuant
+T641	GO_BP 17986 17998	transduction
+#641	AnnotatorNotes T641	GO:0007165 (signal transduction)
+T642	CL 18058 18078	taste receptor cells
+#642	AnnotatorNotes T642	CL:0000209 (taste receptor cell)
+T643	GO_MF 18058 18072	taste receptor
+#643	AnnotatorNotes T643	GO:0008527 (taste receptor activity)
+T644	independent_continuant 18058 18072	taste receptor
+#644	AnnotatorNotes T644	independent_continuant
+T645	GO_BP 18058 18063	taste
+#645	AnnotatorNotes T645	GO:0050909 (sensory perception of taste)
+T646	GO_CC 18073 18078	cells
+#646	AnnotatorNotes T646	GO:0005623 (cell)
+T647	GO_BP 18087 18106	cellular activation
+#647	AnnotatorNotes T647	GO:0001775 (cell activation)
+T648	CL 18087 18095	cellular
+#648	AnnotatorNotes T648	CL:0000000 (cell)
+T649	GO_CC 18087 18095	cellular
+#649	AnnotatorNotes T649	GO:0005623 (cell)
+T650	GO_BP 18111 18120	signaling
+#650	AnnotatorNotes T650	GO:0007165 (signal transduction)
+T651	SO 18207 18210	QTL
+#651	AnnotatorNotes T651	SO:0000771 (QTL)
+T652	GO_CC 18221 18231	chromosome
+#652	AnnotatorNotes T652	GO:0005694 (chromosome)
+T653	SO 18221 18231	chromosome
+#653	AnnotatorNotes T653	SO:0000340 (chromosome)
+T654	GO_BP 18277 18282	taste
+#654	AnnotatorNotes T654	GO:0050909 (sensory perception of taste)
+T655	NCBITaxon 18313 18317	mice
+#655	AnnotatorNotes T655	NCBITaxon:10088 (Mus)
+T656	SO 18324 18327	QTL
+#656	AnnotatorNotes T656	SO:0000771 (QTL)
+T657	SO 18345 18365	chromosomal position
+#657	AnnotatorNotes T657	SO:0000830 (chromosome_part)
+T658	GO_CC 18345 18356	chromosomal
+#658	AnnotatorNotes T658	GO:0005694 (chromosome)
+T659	SO 18345 18356	chromosomal
+#659	AnnotatorNotes T659	SO:0000340 (chromosome)
+T660	SO 18393 18396	QTL
+#660	AnnotatorNotes T660	SO:0000771 (QTL)
+T661	CHEBI 18401 18408	quinine
+#661	AnnotatorNotes T661	CHEBI:15854 (quinine)
+T662	italic 18417 18420	Qui
+#662	AnnotatorNotes T662	italic (null)
+T663	EntrezGene 18417 18420	Qui
+#663	AnnotatorNotes T663	EG:110007
+T664	CHEBI 18417 18420	Qui
+#664	AnnotatorNotes T664	CHEBI:15854 (quinine)
+T665	GO_BP 18446 18451	taste
+#665	AnnotatorNotes T665	GO:0050909 (sensory perception of taste)
+T666	GO_BP 18475 18485	regulating
+#666	AnnotatorNotes T666	GO:0065007 (biological regulation)
+T667	CHEBI 18486 18493	quinine
+#667	AnnotatorNotes T667	CHEBI:15854 (quinine)
+T668	GO_BP 18545 18556	consumption
+#668	AnnotatorNotes T668	GO:0007631 (feeding behavior)
+T669	GO_BP 18560 18574	bitter-tasting
+#669	AnnotatorNotes T669	GO:0050913 (sensory perception of bitter taste)
+T670	GO_BP 18626 18631	taste
+#670	AnnotatorNotes T670	GO:0050909 (sensory perception of taste)
+T671	GO_CC 18683 18694	chromosomal
+#671	AnnotatorNotes T671	GO:0005694 (chromosome)
+T672	SO 18683 18694	chromosomal
+#672	AnnotatorNotes T672	SO:0000340 (chromosome)
+T673	CHEBI 18727 18734	quinine
+#673	AnnotatorNotes T673	CHEBI:15854 (quinine)
+T674	GO_BP 18735 18740	taste
+#674	AnnotatorNotes T674	GO:0050909 (sensory perception of taste)
+T675	SO 18741 18744	QTL
+#675	AnnotatorNotes T675	SO:0000771 (QTL)
+T676	SO 18757 18784	region on distal chromosome
+#676	AnnotatorNotes T676	"region on .. chromosome" SO:0000830 (chromosome_part)
+T677	GO_CC 18774 18784	chromosome
+#677	AnnotatorNotes T677	GO:0005694 (chromosome)
+T678	SO 18774 18784	chromosome
+#678	AnnotatorNotes T678	SO:0000340 (chromosome)
+T679	italic 18804 18809	Tas2r
+#679	AnnotatorNotes T679	italic (null)
+T680	SO 18810 18815	genes
+#680	AnnotatorNotes T680	SO:0000704 (gene)
+T681	SO 18835 18840	genes
+#681	AnnotatorNotes T681	SO:0000704 (gene)
+T682	SO 18862 18870	interval
+#682	AnnotatorNotes T682	SO:0000001 (region)
+T683	SO 18886 18891	genes
+#683	AnnotatorNotes T683	SO:0000704 (gene)
+T684	CHEBI 18904 18911	proline
+#684	AnnotatorNotes T684	CHEBI:32874 (proline residue)
+T685	SO 18904 18911	proline
+#685	AnnotatorNotes T685	SO:0001439 (proline)
+T686	CHEBI 18926 18934	proteins
+#686	AnnotatorNotes T686	CHEBI:36080 (proteins)
+T687	italic 18936 18940	Prp2
+#687	AnnotatorNotes T687	italic (null)
+T688	EntrezGene 18936 18940	Prp2
+#688	AnnotatorNotes T688	EG:83380
+T689	italic 18945 18949	Prh1
+#689	AnnotatorNotes T689	italic (null)
+T690	EntrezGene 18945 18949	Prh1
+#690	AnnotatorNotes T690	EG:19131
+T691	CHEBI 18957 18965	proteins
+#691	AnnotatorNotes T691	CHEBI:36080 (proteins)
+T692	GO_BP 18999 19011	bitter taste
+#692	AnnotatorNotes T692	GO:0050913 (sensory perception of bitter taste)
+T693	italic 19018 19024	Tas2rs
+#693	AnnotatorNotes T693	italic (null)
+T694	SO 19088 19095	gene(s)
+#694	AnnotatorNotes T694	SO:0000704 (gene)
+T695	GO_BP 19114 19124	expression
+#695	AnnotatorNotes T695	GO:0010467 (gene expression)
+T696	CL 19128 19148	taste receptor cells
+#696	AnnotatorNotes T696	CL:0000209 (taste receptor cell)
+T697	GO_MF 19128 19142	taste receptor
+#697	AnnotatorNotes T697	GO:0008527 (taste receptor activity)
+T698	independent_continuant 19128 19142	taste receptor
+#698	AnnotatorNotes T698	independent_continuant
+T699	GO_BP 19128 19133	taste
+#699	AnnotatorNotes T699	GO:0050909 (sensory perception of taste)
+T700	GO_CC 19143 19148	cells
+#700	AnnotatorNotes T700	GO:0005623 (cell)
+T701	SO 19157 19164	genetic
+#701	AnnotatorNotes T701	SO:0000704 (gene)
+T702	GO_BP 19209 19254	detection of a number of bitter taste stimuli
+#702	AnnotatorNotes T702	"detection .. of bitter taste stimuli" GO:0001580 (detection of chemical stimulus during sensory perception of bitter taste)
+T703	GO_BP 19234 19246	bitter taste
+#703	AnnotatorNotes T703	GO:0050913 (sensory perception of bitter taste)
+T704	CHEBI 19291 19298	quinine
+#704	AnnotatorNotes T704	CHEBI:15854 (quinine)
+T705	GO_MF 19350 19359	receptors
+#705	AnnotatorNotes T705	GO:0004872 (receptor activity)
+T706	independent_continuant 19350 19359	receptors
+#706	AnnotatorNotes T706	independent_continuant
+T707	CL 19376 19381	cells
+#707	AnnotatorNotes T707	CL:0000000 (cell)
+T708	GO_CC 19376 19381	cells
+#708	AnnotatorNotes T708	GO:0005623 (cell)
+T709	GO_CC 19385 19393	membrane
+#709	AnnotatorNotes T709	GO:0016020 (membrane)
+T710	CHEBI 19447 19454	quinine
+#710	AnnotatorNotes T710	CHEBI:15854 (quinine)
+T711	CHEBI 19520 19527	quinine
+#711	AnnotatorNotes T711	CHEBI:15854 (quinine)
+T712	CHEBI 19552 19560	proteins
+#712	AnnotatorNotes T712	CHEBI:36080 (proteins)
+T713	GO_BP 19564 19585	cationic conductances
+#713	AnnotatorNotes T713	GO:0006812 (cation transport)
+T714	CHEBI 19564 19572	cationic
+#714	AnnotatorNotes T714	CHEBI:36916 (cations)
+T715	GO_MF 19600 19611	K+ channels
+#715	AnnotatorNotes T715	GO:0005267 (potassium channel activity)
+T716	independent_continuant 19600 19611	K+ channels
+#716	AnnotatorNotes T716	independent_continuant
+T717	CHEBI 19600 19602	K+
+#717	AnnotatorNotes T717	CHEBI:29103 (potassium(1+))
+T718	sup 19601 19602	+
+#718	AnnotatorNotes T718	sup (null)
+T719	CL 19615 19635	taste receptor cells
+#719	AnnotatorNotes T719	CL:0000209 (taste receptor cell)
+T720	GO_MF 19615 19629	taste receptor
+#720	AnnotatorNotes T720	GO:0008527 (taste receptor activity)
+T721	independent_continuant 19615 19629	taste receptor
+#721	AnnotatorNotes T721	independent_continuant
+T722	GO_BP 19615 19620	taste
+#722	AnnotatorNotes T722	GO:0050909 (sensory perception of taste)
+T723	GO_CC 19630 19635	cells
+#723	AnnotatorNotes T723	GO:0005623 (cell)
+T724	CHEBI 19675 19682	quinine
+#724	AnnotatorNotes T724	CHEBI:15854 (quinine)
+T725	GO_BP 19683 19688	taste
+#725	AnnotatorNotes T725	GO:0050909 (sensory perception of taste)
+T726	CHEBI 19792 19799	quinine
+#726	AnnotatorNotes T726	CHEBI:15854 (quinine)
+T727	CHEBI 20060 20067	quinine
+#727	AnnotatorNotes T727	CHEBI:15854 (quinine)
+T728	GO_BP 20068 20073	taste
+#728	AnnotatorNotes T728	GO:0050909 (sensory perception of taste)
+T729	SO 20102 20105	QTL
+#729	AnnotatorNotes T729	SO:0000771 (QTL)
+T730	GO_CC 20109 20119	chromosome
+#730	AnnotatorNotes T730	GO:0005694 (chromosome)
+T731	SO 20109 20119	chromosome
+#731	AnnotatorNotes T731	SO:0000340 (chromosome)
+T732	italic 20143 20148	Tas2r
+#732	AnnotatorNotes T732	italic (null)
+T733	SO 20149 20154	genes
+#733	AnnotatorNotes T733	SO:0000704 (gene)
+T734	SO 20185 20190	genes
+#734	AnnotatorNotes T734	SO:0000704 (gene)
+T735	GO_MF 20200 20212	ion channels
+#735	AnnotatorNotes T735	GO:0005216 (ion channel activity)
+T736	independent_continuant 20200 20212	ion channels
+#736	AnnotatorNotes T736	independent_continuant
+T737	CHEBI 20200 20203	ion
+#737	AnnotatorNotes T737	CHEBI:24870 (ions)
+T738	SO 20214 20221	enzymes
+#738	AnnotatorNotes T738	SO:0001185 (enzymatic)
+T739	GO_MF 20243 20251	receptor
+#739	AnnotatorNotes T739	GO:0004872 (receptor activity)
+T740	independent_continuant 20243 20251	receptor
+#740	AnnotatorNotes T740	independent_continuant
+T741	SO 20345 20348	QTL
+#741	AnnotatorNotes T741	SO:0000771 (QTL)
+T742	CHEBI 20362 20369	quinine
+#742	AnnotatorNotes T742	CHEBI:15854 (quinine)
+T743	GO_BP 20370 20375	taste
+#743	AnnotatorNotes T743	GO:0050909 (sensory perception of taste)
+T744	GO_BP 20474 20486	bitter taste
+#744	AnnotatorNotes T744	GO:0050913 (sensory perception of bitter taste)
+T745	GO_BP 20544 20563	recombination event
+#745	AnnotatorNotes T745	GO:0006310 (DNA recombination)
+T746	GO_CC 20575 20585	chromosome
+#746	AnnotatorNotes T746	GO:0005694 (chromosome)
+T747	SO 20575 20585	chromosome
+#747	AnnotatorNotes T747	SO:0000340 (chromosome)
+T748	italic 20588 20593	Tas2r
+#748	AnnotatorNotes T748	italic (null)
+T749	SO 20594 20601	cluster
+#749	AnnotatorNotes T749	SO:0005851 (gene_array)
+T750	SO 20740 20753	QTL intervals
+#750	AnnotatorNotes T750	SO:0000771 (QTL)
+T751	italic 20840 20846	Tas2rs
+#751	AnnotatorNotes T751	italic (null)
+T752	CHEBI 20859 20866	quinine
+#752	AnnotatorNotes T752	CHEBI:15854 (quinine)
+T753	GO_BP 20867 20872	taste
+#753	AnnotatorNotes T753	GO:0050909 (sensory perception of taste)
+T754	GO_BP 20942 20956	recombinations
+#754	AnnotatorNotes T754	GO:0006310 (DNA recombination)
+T755	italic 20997 21003	Tas2rs
+#755	AnnotatorNotes T755	italic (null)
+T756	GO_BP 21041 21055	recombinations
+#756	AnnotatorNotes T756	GO:0006310 (DNA recombination)
+T757	italic 21067 21072	Tas2r
+#757	AnnotatorNotes T757	italic (null)
+T758	SO 21073 21080	cluster
+#758	AnnotatorNotes T758	SO:0005851 (gene_array)
+T759	GO_BP 21099 21109	Behavioral
+#759	AnnotatorNotes T759	GO:0007610 (behavior)
+T760	SO 21110 21117	genetic
+#760	AnnotatorNotes T760	SO:0000704 (gene)
+T761	SO 21166 21171	genes
+#761	AnnotatorNotes T761	SO:0000704 (gene)
+T762	GO_BP 21184 21198	taste function
+#762	AnnotatorNotes T762	GO:0050909 (sensory perception of taste)
+T763	italic 21212 21218	Tas1r3
+#763	AnnotatorNotes T763	italic (null)
+T764	PR 21212 21218	Tas1r3
+#764	AnnotatorNotes T764	PR:000016062 (taste receptor type 1 member 3)
+T765	EntrezGene 21212 21218	Tas1r3
+#765	AnnotatorNotes T765	EG:83771
+T766	SO 21219 21223	gene
+#766	AnnotatorNotes T766	SO:0000704 (gene)
+T767	GO_MF 21239 21247	receptor
+#767	AnnotatorNotes T767	GO:0004872 (receptor activity)
+T768	independent_continuant 21239 21247	receptor
+#768	AnnotatorNotes T768	independent_continuant
+T769	GO_BP 21262 21283	sweet and umami taste
+#769	AnnotatorNotes T769	"sweet .. taste" GO:0050916 (sensory perception of sweet taste)
+T770	GO_BP 21272 21283	umami taste
+#770	AnnotatorNotes T770	GO:0050917 (sensory perception of umami taste)
+T771	SO 21290 21300	Positional
+#771	AnnotatorNotes T771	SO:0000001 (region)
+T772	italic 21350 21355	Tas2r
+#772	AnnotatorNotes T772	italic (null)
+T773	GO_BP 21426 21431	taste
+#773	AnnotatorNotes T773	GO:0050909 (sensory perception of taste)
+T774	NCBITaxon 21447 21453	humans
+#774	AnnotatorNotes T774	NCBITaxon:9606 (Homo sapiens)
+T775	SO 21497 21502	genes
+#775	AnnotatorNotes T775	SO:0000704 (gene)
+T776	GO_BP 21530 21535	taste
+#776	AnnotatorNotes T776	GO:0050909 (sensory perception of taste)
+T777	SO 21553 21562	clustered
+#777	AnnotatorNotes T777	SO:0005851 (gene_array)
+T778	SO 21568 21578	paralogues
+#778	AnnotatorNotes T778	SO:0000854 (paralogous_region)
+T779	GO_BP 21584 21596	bitter taste
+#779	AnnotatorNotes T779	GO:0050913 (sensory perception of bitter taste)
+T780	GO_BP 21598 21608	behavioral
+#780	AnnotatorNotes T780	GO:0007610 (behavior)
+T781	SO 21609 21616	genetic
+#781	AnnotatorNotes T781	SO:0000704 (gene)
+T782	SO 21663 21668	genes
+#782	AnnotatorNotes T782	SO:0000704 (gene)
+T783	GO_BP 21689 21698	signaling
+#783	AnnotatorNotes T783	GO:0007165 (signal transduction)
+T784	CHEBI 21699 21708	molecules
+#784	AnnotatorNotes T784	CHEBI:23367 (molecular entity)
+T785	GO_BP 21742 21765	transduction mechanisms
+#785	AnnotatorNotes T785	GO:0007165 (signal transduction)
+T786	SO 21782 21785	QTL
+#786	AnnotatorNotes T786	SO:0000771 (QTL)
+T787	CHEBI 21790 21794	PROP
+#787	AnnotatorNotes T787	CHEBI:8502 (6-propyl-2-thiouracil)
+T788	GO_CC 21827 21837	chromosome
+#788	AnnotatorNotes T788	GO:0005694 (chromosome)
+T789	SO 21827 21837	chromosome
+#789	AnnotatorNotes T789	SO:0000340 (chromosome)
+T790	SO 21874 21877	QTL
+#790	AnnotatorNotes T790	SO:0000771 (QTL)
+T791	CHEBI 21882 21889	quinine
+#791	AnnotatorNotes T791	CHEBI:15854 (quinine)
+T792	GO_BP 21890 21895	taste
+#792	AnnotatorNotes T792	GO:0050909 (sensory perception of taste)
+T793	GO_CC 21899 21909	chromosome
+#793	AnnotatorNotes T793	GO:0005694 (chromosome)
+T794	SO 21899 21909	chromosome
+#794	AnnotatorNotes T794	SO:0000340 (chromosome)
+T795	italic 21944 21950	Tas2rs
+#795	AnnotatorNotes T795	italic (null)
+T796	SO 21966 21970	loci
+#796	AnnotatorNotes T796	SO:0000001 (region)
+T797	italic 22032 22038	Tas2rs
+#797	AnnotatorNotes T797	italic (null)
+T798	SO 22055 22062	variant
+#798	AnnotatorNotes T798	SO:0001060 (sequence_variant)
+T799	CHEBI 22063 22071	proteins
+#799	AnnotatorNotes T799	CHEBI:36080 (proteins)
+T800	NCBITaxon 22085 22089	mice
+#800	AnnotatorNotes T800	NCBITaxon:10088 (Mus)
+T801	GO_BP 22132 22137	taste
+#801	AnnotatorNotes T801	GO:0050909 (sensory perception of taste)
+T802	GO_BP 22138 22167	responses to bitter compounds
+#802	AnnotatorNotes T802	"responses to .. compounds" GO:0042221 (response to chemical stimulus)
+T803	CHEBI 22158 22167	compounds
+#803	AnnotatorNotes T803	CHEBI:23367 (molecular entity)
+T804	CHEBI 22182 22195	cyclohexamide
+#804	AnnotatorNotes T804	CHEBI:27641 (cycloheximide)
+T805	italic 22250 22256	Tas2rs
+#805	AnnotatorNotes T805	italic (null)
+T806	SO 22354 22361	domains
+#806	AnnotatorNotes T806	SO:0000417 (polypeptide_domain)
+T807	GO_MF 22399 22407	receptor
+#807	AnnotatorNotes T807	GO:0004872 (receptor activity)
+T808	independent_continuant 22399 22407	receptor
+#808	AnnotatorNotes T808	independent_continuant
+T809	GO_BP 22417 22437	signaling mechanisms
+#809	AnnotatorNotes T809	GO:0007165 (signal transduction)
+T810	SO 22470 22479	mutations
+#810	AnnotatorNotes T810	SO:0001059 (sequence_alteration)
+T811	italic 22486 22492	Tas2rs
+#811	AnnotatorNotes T811	italic (null)
+T812	GO_CC 22514 22527	extracellular
+#812	AnnotatorNotes T812	GO:0005576 (extracellular region)
+T813	GO_MF 22541 22550	receptors
+#813	AnnotatorNotes T813	GO:0004872 (receptor activity)
+T814	independent_continuant 22541 22550	receptors
+#814	AnnotatorNotes T814	independent_continuant
+T815	GO_BP 22614 22622	response
+#815	AnnotatorNotes T815	GO:0050896 (response to stimulus)
+T816	SO 22730 22738	variants
+#816	AnnotatorNotes T816	SO:0001060 (sequence_variant)
+T817	SO 22803 22810	changes
+#817	AnnotatorNotes T817	SO:0001059 (sequence_alteration)
+T818	GO_MF 22829 22836	binding
+#818	AnnotatorNotes T818	GO:0005488 (binding)
+T819	CHEBI 22862 22870	proteins
+#819	AnnotatorNotes T819	CHEBI:36080 (proteins)
+T820	GO_MF 22883 22891	receptor
+#820	AnnotatorNotes T820	GO:0004872 (receptor activity)
+T821	independent_continuant 22883 22891	receptor
+#821	AnnotatorNotes T821	independent_continuant
+T822	SO 22940 22953	substitutions
+#822	AnnotatorNotes T822	SO:1000002 (substitution)
+T823	SO 22962 22973	orthologues
+#823	AnnotatorNotes T823	SO:0000855 (orthologous_region)
+T824	SO 23023 23031	sequence
+#824	AnnotatorNotes T824	SO:0000001 (region)
+T825	italic 23045 23051	Tas2rs
+#825	AnnotatorNotes T825	italic (null)
+T826	NCBITaxon 23055 23061	humans
+#826	AnnotatorNotes T826	NCBITaxon:9606 (Homo sapiens)
+T827	NCBITaxon 23063 23073	great apes
+#827	AnnotatorNotes T827	NCBITaxon:9604 (Hominidae)
+T828	NCBITaxon 23078 23095	old world monkeys
+#828	AnnotatorNotes T828	NCBITaxon:9527 (Cercopithecidae)
+T829	italic 23109 23115	Tas2rs
+#829	AnnotatorNotes T829	italic (null)
+T830	NCBITaxon 23207 23212	mouse
+#830	AnnotatorNotes T830	NCBITaxon:10088 (Mus)
+T831	taxonomic_rank 23242 23249	species
+#831	AnnotatorNotes T831	species (null)
+T832	NCBITaxon 23340 23344	mice
+#832	AnnotatorNotes T832	NCBITaxon:10088 (Mus)
+T833	sup 23389 23391	th
+#833	AnnotatorNotes T833	sup (null)
+T834	italic 23421 23426	Tas2r
+#834	AnnotatorNotes T834	italic (null)
+T835	SO 23427 23437	haplotypes
+#835	AnnotatorNotes T835	SO:0001024 (haplotype)
+T836	NCBITaxon 23454 23459	mouse
+#836	AnnotatorNotes T836	NCBITaxon:10088 (Mus)
+T837	italic 23513 23518	Tas2r
+#837	AnnotatorNotes T837	italic (null)
+T838	SO 23519 23528	sequences
+#838	AnnotatorNotes T838	SO:0000001 (region)
+T839	NCBITaxon 23545 23550	mouse
+#839	AnnotatorNotes T839	NCBITaxon:10088 (Mus)
+T840	taxonomic_rank 23551 23558	species
+#840	AnnotatorNotes T840	species (null)
+T841	sub 23562 23572	subspecies
+#841	AnnotatorNotes T841	subspecies (null)
+T842	GO_BP 23698 23712	bitter-tasting
+#842	AnnotatorNotes T842	GO:0050913 (sensory perception of bitter taste)
+T843	CHEBI 23713 23722	substance
+#843	AnnotatorNotes T843	CHEBI:23367 (molecular entity)
+T844	CHEBI 23723 23730	quinine
+#844	AnnotatorNotes T844	CHEBI:15854 (quinine)
+T845	GO_BP 23748 23753	taste
+#845	AnnotatorNotes T845	GO:0050909 (sensory perception of taste)
+T846	NCBITaxon 23806 23810	mice
+#846	AnnotatorNotes T846	NCBITaxon:10088 (Mus)
+T847	CHEBI 23845 23852	quinine
+#847	AnnotatorNotes T847	CHEBI:15854 (quinine)
+T848	GO_BP 23853 23858	taste
+#848	AnnotatorNotes T848	GO:0050909 (sensory perception of taste)
+T849	GO_BP 23859 23871	transduction
+#849	AnnotatorNotes T849	GO:0007165 (signal transduction)
+T850	GO_MF 23911 23920	receptors
+#850	AnnotatorNotes T850	GO:0004872 (receptor activity)
+T851	independent_continuant 23911 23920	receptors
+#851	AnnotatorNotes T851	independent_continuant
+T852	italic 23927 23932	Tas2r
+#852	AnnotatorNotes T852	italic (null)
+T853	SO 23933 23938	genes
+#853	AnnotatorNotes T853	SO:0000704 (gene)
+T854	GO_CC 23953 23963	chromosome
+#854	AnnotatorNotes T854	GO:0005694 (chromosome)
+T855	SO 23953 23963	chromosome
+#855	AnnotatorNotes T855	SO:0000340 (chromosome)
+T856	SO 23966 23973	cluster
+#856	AnnotatorNotes T856	SO:0005851 (gene_array)
+T857	SO 23978 23989	polymorphic
+#857	AnnotatorNotes T857	SO:0001025 (polymorphic_sequence_variant)
+T858	SO 23978 23989	polymorphic
+#858	AnnotatorNotes T858	SO:0000694 (SNP)
+T859	NCBITaxon 24015 24019	mice
+#859	AnnotatorNotes T859	NCBITaxon:10088 (Mus)
+T860	SO 24030 24037	cluster
+#860	AnnotatorNotes T860	SO:0005851 (gene_array)
+T861	SO 24053 24062	haplotype
+#861	AnnotatorNotes T861	SO:0001024 (haplotype)
+T862	CHEBI 24084 24091	quinine
+#862	AnnotatorNotes T862	CHEBI:15854 (quinine)
+T863	GO_BP 24092 24097	taste
+#863	AnnotatorNotes T863	GO:0050909 (sensory perception of taste)
+T864	CHEBI 24143 24150	protein
+#864	AnnotatorNotes T864	CHEBI:36080 (proteins)
+T865	SO 24151 24159	sequence
+#865	AnnotatorNotes T865	SO:0000001 (region)
+T866	NCBITaxon 24178 24183	mouse
+#866	AnnotatorNotes T866	NCBITaxon:10088 (Mus)
+T867	GO_MF 24229 24238	receptors
+#867	AnnotatorNotes T867	GO:0004872 (receptor activity)
+T868	independent_continuant 24229 24238	receptors
+#868	AnnotatorNotes T868	independent_continuant
+T869	SO 24257 24265	sequence
+#869	AnnotatorNotes T869	SO:0000001 (region)
+T870	GO_BP 24332 24342	expressing
+#870	AnnotatorNotes T870	GO:0010467 (gene expression)
+T871	CL 24361 24372	taste cells
+#871	AnnotatorNotes T871	CL:0000209 (taste receptor cell)
+T872	GO_BP 24361 24366	taste
+#872	AnnotatorNotes T872	GO:0050909 (sensory perception of taste)
+T873	GO_CC 24367 24372	cells
+#873	AnnotatorNotes T873	GO:0005623 (cell)
+T874	GO_BP 24376 24383	respond
+#874	AnnotatorNotes T874	GO:0050896 (response to stimulus)
+T875	CHEBI 24415 24420	toxic
+#875	AnnotatorNotes T875	CHEBI:27026 (toxin)
+T876	NCBITaxon 24440 24444	Mice
+#876	AnnotatorNotes T876	NCBITaxon:10088 (Mus)
+T877	NCBITaxon 24497 24501	mice
+#877	AnnotatorNotes T877	NCBITaxon:10088 (Mus)
+T878	GO_BP 24507 24519	behaviorally
+#878	AnnotatorNotes T878	GO:0007610 (behavior)
+T879	GO_BP 24633 24644	recombinant
+#879	AnnotatorNotes T879	GO:0006310 (DNA recombination)
+T880	NCBITaxon 24652 24656	mice
+#880	AnnotatorNotes T880	NCBITaxon:10088 (Mus)
+T881	NCBITaxon 24791 24795	mice
+#881	AnnotatorNotes T881	NCBITaxon:10088 (Mus)
+T882	GO_BP 24869 24873	bred
+#882	AnnotatorNotes T882	GO:0000003 (reproduction)
+T883	GO_BP 24879 24885	mating
+#883	AnnotatorNotes T883	GO:0007618 (mating)
+T884	NCBITaxon 24922 24926	mice
+#884	AnnotatorNotes T884	NCBITaxon:10088 (Mus)
+T885	CHEBI 25015 25019	food
+#885	AnnotatorNotes T885	CHEBI:33290 (food)
+T886	NCBITaxon 25033 25039	rodent
+#886	AnnotatorNotes T886	NCBITaxon:9989 (Rodentia)
+T887	GO_BP 25047 25052	Taste
+#887	AnnotatorNotes T887	GO:0050909 (sensory perception of taste)
+T888	CHEBI 25100 25107	reagent
+#888	AnnotatorNotes T888	CHEBI:33893 (reagent)
+T889	CHEBI 25114 25123	chemicals
+#889	AnnotatorNotes T889	CHEBI:23367 (molecular entity)
+T890	CHEBI 25125 25132	Sucrose
+#890	AnnotatorNotes T890	CHEBI:17992 (sucrose)
+T891	CHEBI 25145 25153	benzoate
+#891	AnnotatorNotes T891	CHEBI:16150 (benzoate)
+T892	CHEBI 25155 25175	6-n-propylthiouracil
+#892	AnnotatorNotes T892	CHEBI:8502 (6-propyl-2-thiouracil)
+T893	CHEBI 25180 25187	quinine
+#893	AnnotatorNotes T893	CHEBI:15854 (quinine)
+T894	CHEBI 25188 25201	hydrochloride
+#894	AnnotatorNotes T894	CHEBI:36807 (hydrochlorides)
+T895	CHEBI 25188 25201	hydrochloride
+#895	AnnotatorNotes T895	CHEBI:17883 (hydrogen chloride)
+T896	CHEBI 25310 25315	water
+#896	AnnotatorNotes T896	CHEBI:15377 (water)
+T897	GO_BP 25325 25330	taste
+#897	AnnotatorNotes T897	GO:0050909 (sensory perception of taste)
+T898	NCBITaxon 25379 25385	animal
+#898	AnnotatorNotes T898	NCBITaxon:33208 (Metazoa)
+T899	NCBITaxon 25437 25443	Animal
+#899	AnnotatorNotes T899	NCBITaxon:33208 (Metazoa)
+T900	GO_BP 25493 25503	behavioral
+#900	AnnotatorNotes T900	GO:0007610 (behavior)
+T901	CHEBI 25717 25722	water
+#901	AnnotatorNotes T901	CHEBI:15377 (water)
+T902	NCBITaxon 25742 25746	mice
+#902	AnnotatorNotes T902	NCBITaxon:10088 (Mus)
+T903	CHEBI 25835 25840	water
+#903	AnnotatorNotes T903	CHEBI:15377 (water)
+T904	NCBITaxon 25875 25879	mice
+#904	AnnotatorNotes T904	NCBITaxon:10088 (Mus)
+T905	CHEBI 25983 25988	water
+#905	AnnotatorNotes T905	CHEBI:15377 (water)
+T906	NCBITaxon 26079 26084	mouse
+#906	AnnotatorNotes T906	NCBITaxon:10088 (Mus)
+T907	NCBITaxon 26154 26158	mice
+#907	AnnotatorNotes T907	NCBITaxon:10088 (Mus)
+T908	NCBITaxon 26309 26313	Mice
+#908	AnnotatorNotes T908	NCBITaxon:10088 (Mus)
+T909	GO_BP 26368 26373	taste
+#909	AnnotatorNotes T909	GO:0050909 (sensory perception of taste)
+T910	CHEBI 26427 26431	PROP
+#910	AnnotatorNotes T910	CHEBI:8502 (6-propyl-2-thiouracil)
+T911	CHEBI 26471 26478	sucrose
+#911	AnnotatorNotes T911	CHEBI:17992 (sucrose)
+T912	CHEBI 26681 26686	water
+#912	AnnotatorNotes T912	CHEBI:15377 (water)
+T913	NCBITaxon 26715 26719	mice
+#913	AnnotatorNotes T913	NCBITaxon:10088 (Mus)
+T914	NCBITaxon 26804 26809	mouse
+#914	AnnotatorNotes T914	NCBITaxon:10088 (Mus)
+T915	italic 26818 26828	lick ratio
+#915	AnnotatorNotes T915	italic (null)
+T916	sub 26865 26866	x
+#916	AnnotatorNotes T916	sub (null)
+T917	italic 26865 26866	x
+#917	AnnotatorNotes T917	italic (null)
+T918	CHEBI 26895 26900	water
+#918	AnnotatorNotes T918	CHEBI:15377 (water)
+T919	italic 26908 26909	x
+#919	AnnotatorNotes T919	italic (null)
+T920	CHEBI 26982 26987	water
+#920	AnnotatorNotes T920	CHEBI:15377 (water)
+T921	CHEBI 27008 27013	water
+#921	AnnotatorNotes T921	CHEBI:15377 (water)
+T922	NCBITaxon 27115 27119	mice
+#922	AnnotatorNotes T922	NCBITaxon:10088 (Mus)
+T923	NCBITaxon 27257 27261	mice
+#923	AnnotatorNotes T923	NCBITaxon:10088 (Mus)
+T924	CHEBI 27265 27272	sucrose
+#924	AnnotatorNotes T924	CHEBI:17992 (sucrose)
+T925	CHEBI 27356 27364	compound
+#925	AnnotatorNotes T925	CHEBI:23367 (molecular entity)
+T926	CHEBI 27397 27402	water
+#926	AnnotatorNotes T926	CHEBI:15377 (water)
+T927	NCBITaxon 27420 27427	animals
+#927	AnnotatorNotes T927	NCBITaxon:33208 (Metazoa)
+T928	GO_BP 27511 27518	sensory
+#928	AnnotatorNotes T928	GO:0007600 (sensory perception)
+T929	CHEBI 27535 27540	water
+#929	AnnotatorNotes T929	CHEBI:15377 (water)
+T930	CHEBI 27622 27627	water
+#930	AnnotatorNotes T930	CHEBI:15377 (water)
+T931	NCBITaxon 27668 27672	mice
+#931	AnnotatorNotes T931	NCBITaxon:10088 (Mus)
+T932	GO_BP 27673 27679	detect
+#932	AnnotatorNotes T932	GO:0007600 (sensory perception)
+T933	CHEBI 27706 27711	water
+#933	AnnotatorNotes T933	CHEBI:15377 (water)
+T934	GO_BP 27728 27733	taste
+#934	AnnotatorNotes T934	GO:0050909 (sensory perception of taste)
+T935	GO_BP 27749 27758	olfactory
+#935	AnnotatorNotes T935	GO:0007608 (sensory perception of smell)
+T936	NCBITaxon 27792 27796	mice
+#936	AnnotatorNotes T936	NCBITaxon:10088 (Mus)
+T937	GO_BP 27801 27807	detect
+#937	AnnotatorNotes T937	GO:0007600 (sensory perception)
+T938	SO 27876 27879	QTL
+#938	AnnotatorNotes T938	SO:0000771 (QTL)
+T939	NCBITaxon 27927 27931	mice
+#939	AnnotatorNotes T939	NCBITaxon:10088 (Mus)
+T940	SO 27996 28004	genotype
+#940	AnnotatorNotes T940	SO:0001027 (genotype)
+T941	SO 28099 28107	interval
+#941	AnnotatorNotes T941	SO:0000001 (region)
+T942	SO 28208 28216	expected
+#942	AnnotatorNotes T942	SO:0000732 (predicted)
+T943	SO 28217 28225	genotype
+#943	AnnotatorNotes T943	SO:0001027 (genotype)
+T944	SO 28244 28268	quantitative trait locus
+#944	AnnotatorNotes T944	SO:0000771 (QTL)
+T945	SO 28270 28273	QTL
+#945	AnnotatorNotes T945	SO:0000771 (QTL)
+T946	SO 28340 28344	loci
+#946	AnnotatorNotes T946	SO:0000001 (region)
+T947	SO 28508 28514	genome
+#947	AnnotatorNotes T947	SO:0001026 (genome)
+T948	SO 28664 28667	QTL
+#948	AnnotatorNotes T948	SO:0000771 (QTL)
+T949	GO_CC 28671 28681	chromosome
+#949	AnnotatorNotes T949	GO:0005694 (chromosome)
+T950	SO 28671 28681	chromosome
+#950	AnnotatorNotes T950	SO:0000340 (chromosome)
+T951	SO 28799 28806	alleles
+#951	AnnotatorNotes T951	SO:0001023 (allele)
+T952	SO 28808 28824	Oligonucleotides
+#952	AnnotatorNotes T952	SO:0000696 (oligo)
+T953	italic 28849 28855	mTas2r
+#953	AnnotatorNotes T953	italic (null)
+T954	SO 28870 28884	cDNA sequences
+#954	AnnotatorNotes T954	SO:0000756 (cDNA)
+T955	SO 28905 28911	genome
+#955	AnnotatorNotes T955	SO:0001026 (genome)
+T956	SO 28920 28934	coding regions
+#956	AnnotatorNotes T956	SO:0000316 (CDS)
+T957	SO 28950 28967	flanking sequence
+#957	AnnotatorNotes T957	SO:0000239 (flanking_region)
+T958	SO 28983 28987	exon
+#958	AnnotatorNotes T958	SO:0000147 (exon)
+T959	italic 28988 28993	Tas2r
+#959	AnnotatorNotes T959	italic (null)
+T960	SO 29026 29037	genomic DNA
+#960	AnnotatorNotes T960	SO:0000991 (genomic_DNA)
+T961	SO 29026 29033	genomic
+#961	AnnotatorNotes T961	SO:0001026 (genome)
+T962	SO 29206 29218	PCR products
+#962	AnnotatorNotes T962	SO:0000006 (PCR_product)
+T963	SO 29357 29366	sequences
+#963	AnnotatorNotes T963	SO:0000001 (region)
+T964	SO 29373 29381	products
+#964	AnnotatorNotes T964	SO:0000006 (PCR_product)
+T965	SO 29402 29411	sequences
+#965	AnnotatorNotes T965	SO:0000001 (region)
+T966	SO 29462 29475	polymorphisms
+#966	AnnotatorNotes T966	SO:0001025 (polymorphic_sequence_variant)
+T967	SO 29462 29475	polymorphisms
+#967	AnnotatorNotes T967	SO:0000694 (SNP)
+T968	SO 29510 29527	restriction sites
+#968	AnnotatorNotes T968	SO:0000061 (restriction_enzyme_binding_site)
+T969	SO 29574 29581	alleles
+#969	AnnotatorNotes T969	SO:0001023 (allele)
+T970	independent_continuant 29605 29630	restriction endonucleases
+#970	AnnotatorNotes T970	independent_continuant
+T971	GO_MF 29605 29630	restriction endonucleases
+#971	AnnotatorNotes T971	GO:0015666 (restriction endodeoxyribonuclease activity)
+T972	GO_BP 29655 29662	digests
+#972	AnnotatorNotes T972	GO:0009056 (catabolic process)
+T973	italic 29666 29671	Tas2r
+#973	AnnotatorNotes T973	italic (null)
+T974	SO 29672 29677	cDNAs
+#974	AnnotatorNotes T974	SO:0000756 (cDNA)
+T975	SO 29693 29704	genomic DNA
+#975	AnnotatorNotes T975	SO:0000991 (genomic_DNA)
+T976	SO 29693 29700	genomic
+#976	AnnotatorNotes T976	SO:0001026 (genome)
+T977	italic 29735 29743	Tas2r120
+#977	AnnotatorNotes T977	italic (null)
+T978	PR 29735 29743	Tas2r120
+#978	AnnotatorNotes T978	PR:000016902 (taste receptor type 2 member 120)
+T979	EntrezGene 29735 29743	Tas2r120
+#979	AnnotatorNotes T979	EG:387348
+T980	SO 29762 29773	PCR product
+#980	AnnotatorNotes T980	SO:0000006 (PCR_product)
+T981	SO 29810 29816	allele
+#981	AnnotatorNotes T981	SO:0001023 (allele)
+T982	italic 29860 29869	in silico
+#982	AnnotatorNotes T982	italic (null)
+T983	CHEBI 29886 29893	quinine
+#983	AnnotatorNotes T983	CHEBI:15854 (quinine)
+T984	GO_BP 29894 29899	taste
+#984	AnnotatorNotes T984	GO:0050909 (sensory perception of taste)
+T985	SO 29900 29903	QTL
+#985	AnnotatorNotes T985	SO:0000771 (QTL)
+T986	italic 29918 29923	Tas2r
+#986	AnnotatorNotes T986	italic (null)
+T987	SO 29924 29929	genes
+#987	AnnotatorNotes T987	SO:0000704 (gene)
+T988	GO_BP 30016 30026	behavioral
+#988	AnnotatorNotes T988	GO:0007610 (behavior)
+T989	SO 30039 30042	QTL
+#989	AnnotatorNotes T989	SO:0000771 (QTL)
+T990	italic 30074 30083	in silico
+#990	AnnotatorNotes T990	italic (null)
+T991	CHEBI 30100 30107	quinine
+#991	AnnotatorNotes T991	CHEBI:15854 (quinine)
+T992	GO_BP 30108 30113	taste
+#992	AnnotatorNotes T992	GO:0050909 (sensory perception of taste)
+T993	SO 30114 30117	QTL
+#993	AnnotatorNotes T993	SO:0000771 (QTL)
+T994	italic 30126 30132	Tas2rs
+#994	AnnotatorNotes T994	italic (null)
+T995	SO 30147 30150	QTL
+#995	AnnotatorNotes T995	SO:0000771 (QTL)
+T996	SO 30385 30388	QTL
+#996	AnnotatorNotes T996	SO:0000771 (QTL)
+T997	GO_CC 30403 30413	chromosome
+#997	AnnotatorNotes T997	GO:0005694 (chromosome)
+T998	SO 30403 30413	chromosome
+#998	AnnotatorNotes T998	SO:0000340 (chromosome)
+T999	EntrezGene 30452 30460	D6Mit150
+#999	AnnotatorNotes T999	EG:61453
+T1000	SO 30503 30511	position
+#1000	AnnotatorNotes T1000	SO:0000001 (region)
+T1001	SO 30542 30550	position
+#1001	AnnotatorNotes T1001	SO:0000001 (region)
+T1002	SO 30661 30666	locus
+#1002	AnnotatorNotes T1002	SO:0000001 (region)
+T1003	GO_BP 30723 30728	taste
+#1003	AnnotatorNotes T1003	GO:0050909 (sensory perception of taste)
+T1004	SO 30752 30757	locus
+#1004	AnnotatorNotes T1004	SO:0000001 (region)
+T1005	SO 30838 30841	QTL
+#1005	AnnotatorNotes T1005	SO:0000771 (QTL)
+T1006	SO 30850 30855	locus
+#1006	AnnotatorNotes T1006	SO:0000001 (region)
+T1007	SO 31007 31014	alleles
+#1007	AnnotatorNotes T1007	SO:0001023 (allele)
+T1008	SO 31118 31122	loci
+#1008	AnnotatorNotes T1008	SO:0000001 (region)
+T1009	italic 31163 31164	p
+#1009	AnnotatorNotes T1009	italic (null)
+T1010	SO 31244 31250	genome
+#1010	AnnotatorNotes T1010	SO:0001026 (genome)
+T1011	CHEBI 31334 31343	Molecular
+#1011	AnnotatorNotes T1011	CHEBI:23367 (molecular entity)
+T1012	italic 31383 31389	Tas2rs
+#1012	AnnotatorNotes T1012	italic (null)
+T1013	GO_BP 31474 31479	taste
+#1013	AnnotatorNotes T1013	GO:0050909 (sensory perception of taste)
+T1014	GO_BP 31616 31626	behavioral
+#1014	AnnotatorNotes T1014	GO:0007610 (behavior)

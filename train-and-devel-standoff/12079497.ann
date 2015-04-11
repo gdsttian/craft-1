@@ -1,0 +1,1030 @@
+T1	CL 10 20	stem cells
+#1	AnnotatorNotes T1	CL:0000034 (stem cell)
+T2	GO_CC 15 20	cells
+#2	AnnotatorNotes T2	GO:0005623 (cell)
+T3	NCBITaxon 25 29	mice
+#3	AnnotatorNotes T3	NCBITaxon:10088 (Mus)
+T4	GO_BP 30 40	expressing
+#4	AnnotatorNotes T4	GO:0010467 (gene expression)
+T5	SO 55 63	variants
+#5	AnnotatorNotes T5	SO:0001060 (sequence_variant)
+T6	NCBITaxon 121 127	animal
+#6	AnnotatorNotes T6	NCBITaxon:33208 (Metazoa)
+T7	NCBITaxon 252 261	organisms
+#7	AnnotatorNotes T7	NCBITaxon:1 (root)
+T8	CHEBI 297 304	protein
+#8	AnnotatorNotes T8	CHEBI:36080 (proteins)
+T9	GO_BP 320 334	bioluminescent
+#9	AnnotatorNotes T9	GO:0008218 (bioluminescence)
+T10	NCBITaxon 335 344	jellyfish
+#10	AnnotatorNotes T10	NCBITaxon:6142 (Scyphozoa)
+T11	italic 345 362	Aequoria Victoria
+#11	AnnotatorNotes T11	italic (null)
+T12	taxonomic_rank 345 362	Aequoria Victoria
+#12	AnnotatorNotes T12	taxonomic_rank (null)
+T13	NCBITaxon 345 362	Aequoria Victoria
+#13	AnnotatorNotes T13	NCBITaxon:6100 (Aequorea victoria)
+T14	NCBITaxon 388 393	mouse
+#14	AnnotatorNotes T14	NCBITaxon:10088 (Mus)
+T15	SO 394 404	transgenic
+#15	AnnotatorNotes T15	SO:0000902 (transgene)
+T16	SO 409 413	gene
+#16	AnnotatorNotes T16	SO:0000704 (gene)
+T17	SO 484 488	gene
+#17	AnnotatorNotes T17	SO:0000704 (gene)
+T18	GO_MF 523 543	alkaline phosphatase
+#18	AnnotatorNotes T18	GO:0004035 (alkaline phosphatase activity)
+T19	independent_continuant 523 543	alkaline phosphatase
+#19	AnnotatorNotes T19	independent_continuant
+T20	CHEBI 523 531	alkaline
+#20	AnnotatorNotes T20	CHEBI:36364 (alkaline earth salts)
+T21	CHEBI 523 531	alkaline
+#21	AnnotatorNotes T21	CHEBI:35479 (alkali metal salts)
+T22	GO_BP 689 702	developmental
+#22	AnnotatorNotes T22	GO:0032502 (developmental process)
+T23	CHEBI 744 751	protein
+#23	AnnotatorNotes T23	CHEBI:36080 (proteins)
+T24	CL 772 787	stem (ES) cells
+#24	AnnotatorNotes T24	"stem .. cells" CL:0000034 (stem cell)
+T25	GO_CC 782 787	cells
+#25	AnnotatorNotes T25	GO:0005623 (cell)
+T26	NCBITaxon 792 796	mice
+#26	AnnotatorNotes T26	NCBITaxon:10088 (Mus)
+T27	CL 849 863	stem (ES) cell
+#27	AnnotatorNotes T27	"stem .. cell" CL:0000034 (stem cell)
+T28	GO_CC 859 863	cell
+#28	AnnotatorNotes T28	GO:0005623 (cell)
+T29	CHEBI 924 931	protein
+#29	AnnotatorNotes T29	CHEBI:36080 (proteins)
+T30	CHEBI 971 978	protein
+#30	AnnotatorNotes T30	CHEBI:36080 (proteins)
+T31	SO 991 997	mutant
+#31	AnnotatorNotes T31	SO:0001059 (sequence_alteration)
+T32	SO 1028 1036	variants
+#32	AnnotatorNotes T32	SO:0001060 (sequence_variant)
+T33	SO 1040 1049	wild type
+#33	AnnotatorNotes T33	SO:0000817 (wild_type)
+T34	SO 1051 1053	wt
+#34	AnnotatorNotes T34	SO:0000817 (wild_type)
+T35	CHEBI 1114 1121	protein
+#35	AnnotatorNotes T35	CHEBI:36080 (proteins)
+T36	NCBITaxon 1156 1172	Discostoma coral
+#36	AnnotatorNotes T36	NCBITaxon:86599 (Discosoma)
+T37	italic 1156 1166	Discostoma
+#37	AnnotatorNotes T37	italic (null)
+T38	taxonomic_rank 1156 1166	Discostoma
+#38	AnnotatorNotes T38	taxonomic_rank (null)
+T39	SO 1190 1198	homology
+#39	AnnotatorNotes T39	SO:0000857 (homologous)
+T40	GO_BP 1228 1239	established
+#40	AnnotatorNotes T40	GO:0032502 (developmental process)
+T41	GO_BP 1228 1239	established
+#41	AnnotatorNotes T41	GO:0000003 (reproduction)
+T42	CL 1252 1257	cells
+#42	AnnotatorNotes T42	CL:0000000 (cell)
+T43	GO_CC 1252 1257	cells
+#43	AnnotatorNotes T43	GO:0005623 (cell)
+T44	NCBITaxon 1291 1295	mice
+#44	AnnotatorNotes T44	NCBITaxon:10088 (Mus)
+T45	GO_BP 1314 1324	expression
+#45	AnnotatorNotes T45	GO:0010467 (gene expression)
+T46	SO 1356 1363	variant
+#46	AnnotatorNotes T46	SO:0001060 (sequence_variant)
+T47	GO_BP 1402 1410	generate
+#47	AnnotatorNotes T47	GO:0032502 (developmental process)
+T48	GO_BP 1466 1481	developmentally
+#48	AnnotatorNotes T48	GO:0032502 (developmental process)
+T49	SO 1498 1507	transgene
+#49	AnnotatorNotes T49	SO:0000902 (transgene)
+T50	GO_BP 1508 1518	expression
+#50	AnnotatorNotes T50	GO:0010467 (gene expression)
+T51	CL 1682 1687	cells
+#51	AnnotatorNotes T51	CL:0000000 (cell)
+T52	GO_CC 1682 1687	cells
+#52	AnnotatorNotes T52	GO:0005623 (cell)
+T53	CL 1736 1741	cells
+#53	AnnotatorNotes T53	CL:0000000 (cell)
+T54	GO_CC 1736 1741	cells
+#54	AnnotatorNotes T54	GO:0005623 (cell)
+T55	GO_BP 1742 1752	expressing
+#55	AnnotatorNotes T55	GO:0010467 (gene expression)
+T56	NCBITaxon 1815 1821	animal
+#56	AnnotatorNotes T56	NCBITaxon:33208 (Metazoa)
+T57	SO 1841 1848	variant
+#57	AnnotatorNotes T57	SO:0001060 (sequence_variant)
+T58	GO_BP 1959 1969	expressing
+#58	AnnotatorNotes T58	GO:0010467 (gene expression)
+T59	SO 1970 1980	transgenic
+#59	AnnotatorNotes T59	SO:0000902 (transgene)
+T60	CL 1984 1989	cells
+#60	AnnotatorNotes T60	CL:0000000 (cell)
+T61	GO_CC 1984 1989	cells
+#61	AnnotatorNotes T61	GO:0005623 (cell)
+T62	NCBITaxon 1994 1998	mice
+#62	AnnotatorNotes T62	NCBITaxon:10088 (Mus)
+T63	GO_BP 2012 2021	generated
+#63	AnnotatorNotes T63	GO:0032502 (developmental process)
+T64	GO_BP 2012 2021	generated
+#64	AnnotatorNotes T64	GO:0000003 (reproduction)
+T65	CL 2041 2046	cells
+#65	AnnotatorNotes T65	CL:0000000 (cell)
+T66	GO_CC 2041 2046	cells
+#66	AnnotatorNotes T66	GO:0005623 (cell)
+T67	SO 2191 2197	genome
+#67	AnnotatorNotes T67	SO:0001026 (genome)
+T68	NCBITaxon 2223 2228	mouse
+#68	AnnotatorNotes T68	NCBITaxon:10088 (Mus)
+T69	NCBITaxon 2250 2258	organism
+#69	AnnotatorNotes T69	NCBITaxon:1 (root)
+T70	NCBITaxon 2263 2272	mammalian
+#70	AnnotatorNotes T70	NCBITaxon:40674 (Mammalia)
+T71	SO 2273 2280	genetic
+#71	AnnotatorNotes T71	SO:0000704 (gene)
+T72	SO 2315 2326	mutagenesis
+#72	AnnotatorNotes T72	SO:0000041 (sequence_operation)
+T73	SO 2386 2390	gene
+#73	AnnotatorNotes T73	SO:0000704 (gene)
+T74	CL 2407 2412	cells
+#74	AnnotatorNotes T74	CL:0000000 (cell)
+T75	GO_CC 2407 2412	cells
+#75	AnnotatorNotes T75	GO:0005623 (cell)
+T76	SO 2439 2450	Genetically
+#76	AnnotatorNotes T76	SO:0000704 (gene)
+T77	NCBITaxon 2463 2467	mice
+#77	AnnotatorNotes T77	NCBITaxon:10088 (Mus)
+T78	SO 2475 2488	incorporating
+#78	AnnotatorNotes T78	SO:0000046 (insert)
+T79	SO 2489 2493	gene
+#79	AnnotatorNotes T79	SO:0000704 (gene)
+T80	NCBITaxon 2561 2570	mammalian
+#80	AnnotatorNotes T80	NCBITaxon:40674 (Mammalia)
+T81	GO_BP 2571 2582	development
+#81	AnnotatorNotes T81	GO:0032502 (developmental process)
+T82	CHEBI 2618 2625	protein
+#82	AnnotatorNotes T82	CHEBI:36080 (proteins)
+T83	SO 2688 2692	gene
+#83	AnnotatorNotes T83	SO:0000704 (gene)
+T84	NCBITaxon 2721 2730	bacterial
+#84	AnnotatorNotes T84	NCBITaxon:2 (Bacteria)
+T85	EntrezGene 2739 2775	human placental alkaline phosphatase
+#85	AnnotatorNotes T85	EG:250
+T86	NCBITaxon 2739 2744	human
+#86	AnnotatorNotes T86	NCBITaxon:9606 (Homo sapiens)
+T87	PR 2745 2775	placental alkaline phosphatase
+#87	AnnotatorNotes T87	PR:000003969 (alkaline phosphatase, placental type)
+T88	independent_continuant 2755 2775	alkaline phosphatase
+#88	AnnotatorNotes T88	independent_continuant
+T89	GO_MF 2755 2775	alkaline phosphatase
+#89	AnnotatorNotes T89	GO:0004035 (alkaline phosphatase activity)
+T90	CHEBI 2755 2763	alkaline
+#90	AnnotatorNotes T90	CHEBI:36364 (alkaline earth salts)
+T91	CHEBI 2755 2763	alkaline
+#91	AnnotatorNotes T91	CHEBI:35479 (alkali metal salts)
+T92	italic 2917 2924	in vivo
+#92	AnnotatorNotes T92	italic (null)
+T93	italic 2929 2936	in situ
+#93	AnnotatorNotes T93	italic (null)
+T94	CHEBI 3022 3029	protein
+#94	AnnotatorNotes T94	CHEBI:36080 (proteins)
+T95	CHEBI 3060 3067	protein
+#95	AnnotatorNotes T95	CHEBI:36080 (proteins)
+T96	GO_BP 3118 3132	bioluminescent
+#96	AnnotatorNotes T96	GO:0008218 (bioluminescence)
+T97	NCBITaxon 3133 3142	jellyfish
+#97	AnnotatorNotes T97	NCBITaxon:6142 (Scyphozoa)
+T98	italic 3143 3160	Aequorea Victoria
+#98	AnnotatorNotes T98	italic (null)
+T99	taxonomic_rank 3143 3160	Aequorea Victoria
+#99	AnnotatorNotes T99	taxonomic_rank (null)
+T100	NCBITaxon 3143 3160	Aequorea Victoria
+#100	AnnotatorNotes T100	NCBITaxon:6100 (Aequorea victoria)
+T101	SO 3185 3193	variants
+#101	AnnotatorNotes T101	SO:0001060 (sequence_variant)
+T102	SO 3197 3206	wild type
+#102	AnnotatorNotes T102	SO:0000817 (wild_type)
+T103	CHEBI 3313 3320	protein
+#103	AnnotatorNotes T103	CHEBI:36080 (proteins)
+T104	NCBITaxon 3383 3387	mice
+#104	AnnotatorNotes T104	NCBITaxon:10088 (Mus)
+T105	SO 3426 3433	mutants
+#105	AnnotatorNotes T105	SO:0001060 (sequence_variant)
+T106	SO 3660 3667	variant
+#106	AnnotatorNotes T106	SO:0001060 (sequence_variant)
+T107	CHEBI 3668 3676	proteins
+#107	AnnotatorNotes T107	CHEBI:36080 (proteins)
+T108	CL 3746 3750	cell
+#108	AnnotatorNotes T108	CL:0000000 (cell)
+T109	GO_CC 3746 3750	cell
+#109	AnnotatorNotes T109	GO:0005623 (cell)
+T110	CL 3820 3825	cells
+#110	AnnotatorNotes T110	CL:0000000 (cell)
+T111	GO_CC 3820 3825	cells
+#111	AnnotatorNotes T111	GO:0005623 (cell)
+T112	NCBITaxon 3869 3873	mice
+#112	AnnotatorNotes T112	NCBITaxon:10088 (Mus)
+T113	SO 3885 3895	transgenic
+#113	AnnotatorNotes T113	SO:0000902 (transgene)
+T114	NCBITaxon 3900 3905	viral
+#114	AnnotatorNotes T114	NCBITaxon:10239 (Viruses)
+T115	NCBITaxon 4037 4041	mice
+#115	AnnotatorNotes T115	NCBITaxon:10088 (Mus)
+T116	GO_BP 4103 4112	establish
+#116	AnnotatorNotes T116	GO:0000003 (reproduction)
+T117	NCBITaxon 4132 4136	mice
+#117	AnnotatorNotes T117	NCBITaxon:10088 (Mus)
+T118	GO_BP 4153 4163	expression
+#118	AnnotatorNotes T118	GO:0010467 (gene expression)
+T119	SO 4171 4178	variant
+#119	AnnotatorNotes T119	SO:0001060 (sequence_variant)
+T120	SO 4256 4264	variants
+#120	AnnotatorNotes T120	SO:0001060 (sequence_variant)
+T121	GO_BP 4269 4282	developmental
+#121	AnnotatorNotes T121	GO:0032502 (developmental process)
+T122	GO_BP 4322 4332	expression
+#122	AnnotatorNotes T122	GO:0010467 (gene expression)
+T123	CL 4340 4344	cell
+#123	AnnotatorNotes T123	CL:0000000 (cell)
+T124	GO_CC 4340 4344	cell
+#124	AnnotatorNotes T124	GO:0005623 (cell)
+T125	SO 4354 4364	transgenic
+#125	AnnotatorNotes T125	SO:0000902 (transgene)
+T126	CHEBI 4425 4432	Protein
+#126	AnnotatorNotes T126	CHEBI:36080 (proteins)
+T127	CHEBI 4472 4479	Protein
+#127	AnnotatorNotes T127	CHEBI:36080 (proteins)
+T128	SO 4502 4510	variants
+#128	AnnotatorNotes T128	SO:0001060 (sequence_variant)
+T129	CHEBI 4536 4541	amino
+#129	AnnotatorNotes T129	CHEBI:33708 (amino-acid residue)
+T130	SO 4536 4541	amino
+#130	AnnotatorNotes T130	SO:0001237 (amino_acid)
+T131	SO 4542 4555	substitutions
+#131	AnnotatorNotes T131	SO:1000002 (substitution)
+T132	CHEBI 4738 4746	proteins
+#132	AnnotatorNotes T132	CHEBI:36080 (proteins)
+T133	SO 4753 4762	mutations
+#133	AnnotatorNotes T133	SO:0001059 (sequence_alteration)
+T134	GO_BP 4798 4809	translation
+#134	AnnotatorNotes T134	GO:0006412 (translation)
+T135	CHEBI 4902 4910	proteins
+#135	AnnotatorNotes T135	CHEBI:36080 (proteins)
+T136	NCBITaxon 4940 4949	anthozoan
+#136	AnnotatorNotes T136	NCBITaxon:6101 (Anthozoa)
+T137	CHEBI 4962 4970	proteins
+#137	AnnotatorNotes T137	CHEBI:36080 (proteins)
+T138	italic 5062 5067	et al
+#138	AnnotatorNotes T138	italic (null)
+T139	CHEBI 5086 5093	protein
+#139	AnnotatorNotes T139	CHEBI:36080 (proteins)
+T140	NCBITaxon 5124 5135	sea anemone
+#140	AnnotatorNotes T140	NCBITaxon:44295 (Corallimorpharia)
+T141	italic 5136 5148	Discosoma sp
+#141	AnnotatorNotes T141	italic (null)
+T142	taxonomic_rank 5136 5145	Discosoma
+#142	AnnotatorNotes T142	taxonomic_rank (null)
+T143	NCBITaxon 5136 5145	Discosoma
+#143	AnnotatorNotes T143	NCBITaxon:86599 (Discosoma)
+T144	taxonomic_rank 5146 5148	sp
+#144	AnnotatorNotes T144	species (null)
+T145	SO 5243 5252	wild-type
+#145	AnnotatorNotes T145	SO:0000817 (wild_type)
+T146	CHEBI 5269 5276	protein
+#146	AnnotatorNotes T146	CHEBI:36080 (proteins)
+T147	SO 5282 5290	sequence
+#147	AnnotatorNotes T147	SO:0000001 (region)
+T148	SO 5319 5327	modified
+#148	AnnotatorNotes T148	SO:0000041 (sequence_operation)
+T149	GO_BP 5361 5371	expression
+#149	AnnotatorNotes T149	GO:0010467 (gene expression)
+T150	NCBITaxon 5375 5384	mammalian
+#150	AnnotatorNotes T150	NCBITaxon:40674 (Mammalia)
+T151	CL 5385 5390	cells
+#151	AnnotatorNotes T151	CL:0000000 (cell)
+T152	GO_CC 5385 5390	cells
+#152	AnnotatorNotes T152	GO:0005623 (cell)
+T153	SO 5425 5434	base pair
+#153	AnnotatorNotes T153	SO:0000028 (base_pair)
+T154	SO 5425 5429	base
+#154	AnnotatorNotes T154	SO:0001236 (base)
+T155	SO 5435 5442	changes
+#155	AnnotatorNotes T155	SO:0001059 (sequence_alteration)
+T156	NCBITaxon 5460 5465	human
+#156	AnnotatorNotes T156	NCBITaxon:9606 (Homo sapiens)
+T157	SO 5466 5471	codon
+#157	AnnotatorNotes T157	SO:0000360 (codon)
+T158	CHEBI 5543 5550	protein
+#158	AnnotatorNotes T158	CHEBI:36080 (proteins)
+T159	CL 5563 5568	cells
+#159	AnnotatorNotes T159	CL:0000000 (cell)
+T160	GO_CC 5563 5568	cells
+#160	AnnotatorNotes T160	GO:0005623 (cell)
+T161	NCBITaxon 5573 5577	mice
+#161	AnnotatorNotes T161	NCBITaxon:10088 (Mus)
+T162	SO 5580 5588	Plasmids
+#162	AnnotatorNotes T162	SO:0000155 (plasmid)
+T163	GO_BP 5594 5605	constructed
+#163	AnnotatorNotes T163	GO:0009058 (biosynthetic process)
+T164	GO_BP 5610 5617	driving
+#164	AnnotatorNotes T164	GO:0048518 (positive regulation of biological process)
+T165	GO_BP 5629 5639	expression
+#165	AnnotatorNotes T165	GO:0010467 (gene expression)
+T166	SO 5655 5659	gene
+#166	AnnotatorNotes T166	SO:0000704 (gene)
+T167	CHEBI 5678 5685	protein
+#167	AnnotatorNotes T167	CHEBI:36080 (proteins)
+T168	CL 5723 5727	cell
+#168	AnnotatorNotes T168	CL:0000000 (cell)
+T169	GO_CC 5723 5727	cell
+#169	AnnotatorNotes T169	GO:0005623 (cell)
+T170	SO 5737 5748	transgenics
+#170	AnnotatorNotes T170	SO:0000902 (transgene)
+T171	independent_continuant 5737 5748	transgenics
+#171	AnnotatorNotes T171	independent_continuant
+T172	SO 5778 5788	Transgenic
+#172	AnnotatorNotes T172	SO:0000902 (transgene)
+T173	CL 5792 5797	cells
+#173	AnnotatorNotes T173	CL:0000000 (cell)
+T174	GO_CC 5792 5797	cells
+#174	AnnotatorNotes T174	GO:0005623 (cell)
+T175	GO_BP 5816 5826	expression
+#175	AnnotatorNotes T175	GO:0010467 (gene expression)
+T176	CL 5919 5924	Cells
+#176	AnnotatorNotes T176	CL:0000000 (cell)
+T177	GO_CC 5919 5924	Cells
+#177	AnnotatorNotes T177	GO:0005623 (cell)
+T178	GO_BP 5925 5935	expressing
+#178	AnnotatorNotes T178	GO:0010467 (gene expression)
+T179	SO 5964 5971	variant
+#179	AnnotatorNotes T179	SO:0001060 (sequence_variant)
+T180	SO 6105 6111	clones
+#180	AnnotatorNotes T180	SO:0000151 (clone)
+T181	GO_BP 6112 6122	expressing
+#181	AnnotatorNotes T181	GO:0010467 (gene expression)
+T182	SO 6167 6174	variant
+#182	AnnotatorNotes T182	SO:0001060 (sequence_variant)
+T183	GO_BP 6267 6277	expressing
+#183	AnnotatorNotes T183	GO:0010467 (gene expression)
+T184	SO 6278 6284	clones
+#184	AnnotatorNotes T184	SO:0000151 (clone)
+T185	CL 6353 6357	cell
+#185	AnnotatorNotes T185	CL:0000000 (cell)
+T186	GO_CC 6353 6357	cell
+#186	AnnotatorNotes T186	GO:0005623 (cell)
+T187	SO 6526 6534	variants
+#187	AnnotatorNotes T187	SO:0001060 (sequence_variant)
+T188	CL 6579 6584	cells
+#188	AnnotatorNotes T188	CL:0000000 (cell)
+T189	GO_CC 6579 6584	cells
+#189	AnnotatorNotes T189	GO:0005623 (cell)
+T190	GO_CC 6686 6722	perinuclear regions of the cytoplasm
+#190	AnnotatorNotes T190	"perinuclear regions of .. cytoplasm" GO:0048471 (perinuclear region of cytoplasm)
+T191	GO_CC 6713 6722	cytoplasm
+#191	AnnotatorNotes T191	GO:0005737 (cytoplasm)
+T192	GO_BP 6800 6811	recombinant
+#192	AnnotatorNotes T192	GO:0006310 (DNA recombination)
+T193	NCBITaxon 6812 6825	sindbis virus
+#193	AnnotatorNotes T193	NCBITaxon:11034 (Sindbis virus)
+T194	GO_CC 6846 6855	dendrites
+#194	AnnotatorNotes T194	GO:0030425 (dendrite)
+T195	GO_CC 6860 6865	axons
+#195	AnnotatorNotes T195	GO:0030424 (axon)
+T196	NCBITaxon 6890 6894	mice
+#196	AnnotatorNotes T196	NCBITaxon:10088 (Mus)
+T197	GO_BP 6913 6921	generate
+#197	AnnotatorNotes T197	GO:0009058 (biosynthetic process)
+T198	SO 6930 6937	variant
+#198	AnnotatorNotes T198	SO:0001060 (sequence_variant)
+T199	CL 6972 6977	cells
+#199	AnnotatorNotes T199	CL:0000000 (cell)
+T200	GO_CC 6972 6977	cells
+#200	AnnotatorNotes T200	GO:0005623 (cell)
+T201	NCBITaxon 6982 6986	mice
+#201	AnnotatorNotes T201	NCBITaxon:10088 (Mus)
+T202	SO 7000 7010	introduced
+#202	AnnotatorNotes T202	SO:0000046 (insert)
+T203	SO 7019 7028	sequences
+#203	AnnotatorNotes T203	SO:0000001 (region)
+T204	GO_BP 7034 7040	direct
+#204	AnnotatorNotes T204	GO:0065007 (biological regulation)
+T205	GO_CC 7041 7048	nuclear
+#205	AnnotatorNotes T205	GO:0005634 (nucleus)
+T206	GO_BP 7049 7061	localization
+#206	AnnotatorNotes T206	GO:0051179 (localization)
+T207	SO 7075 7088	coding region
+#207	AnnotatorNotes T207	SO:0000316 (CDS)
+T208	GO_BP 7123 7131	generate
+#208	AnnotatorNotes T208	GO:0000003 (reproduction)
+T209	GO_BP 7123 7131	generate
+#209	AnnotatorNotes T209	GO:0032502 (developmental process)
+T210	CL 7135 7140	cells
+#210	AnnotatorNotes T210	CL:0000000 (cell)
+T211	GO_CC 7135 7140	cells
+#211	AnnotatorNotes T211	GO:0005623 (cell)
+T212	NCBITaxon 7144 7148	mice
+#212	AnnotatorNotes T212	NCBITaxon:10088 (Mus)
+T213	CL 7316 7321	cells
+#213	AnnotatorNotes T213	CL:0000000 (cell)
+T214	GO_CC 7316 7321	cells
+#214	AnnotatorNotes T214	GO:0005623 (cell)
+T215	bold 7324 7325	a
+#215	AnnotatorNotes T215	bold (null)
+T216	bold 7326 7327	d
+#216	AnnotatorNotes T216	bold (null)
+T217	CL 7383 7388	cells
+#217	AnnotatorNotes T217	CL:0000000 (cell)
+T218	GO_CC 7383 7388	cells
+#218	AnnotatorNotes T218	GO:0005623 (cell)
+T219	bold 7406 7407	a
+#219	AnnotatorNotes T219	bold (null)
+T220	bold 7466 7467	b
+#220	AnnotatorNotes T220	bold (null)
+T221	bold 7517 7518	c
+#221	AnnotatorNotes T221	bold (null)
+T222	bold 7568 7569	d
+#222	AnnotatorNotes T222	bold (null)
+T223	CL 7665 7670	cells
+#223	AnnotatorNotes T223	CL:0000000 (cell)
+T224	GO_CC 7665 7670	cells
+#224	AnnotatorNotes T224	GO:0005623 (cell)
+T225	CL 7707 7712	cells
+#225	AnnotatorNotes T225	CL:0000000 (cell)
+T226	GO_CC 7707 7712	cells
+#226	AnnotatorNotes T226	GO:0005623 (cell)
+T227	bold 7715 7718	e-f
+#227	AnnotatorNotes T227	bold (null)
+T228	CL 7755 7760	cells
+#228	AnnotatorNotes T228	CL:0000000 (cell)
+T229	GO_CC 7755 7760	cells
+#229	AnnotatorNotes T229	GO:0005623 (cell)
+T230	CL 7794 7799	cells
+#230	AnnotatorNotes T230	CL:0000000 (cell)
+T231	GO_CC 7794 7799	cells
+#231	AnnotatorNotes T231	GO:0005623 (cell)
+T232	SO 7855 7861	clones
+#232	AnnotatorNotes T232	SO:0000151 (clone)
+T233	GO_BP 7906 7914	generate
+#233	AnnotatorNotes T233	GO:0000003 (reproduction)
+T234	CL 7935 7939	cell
+#234	AnnotatorNotes T234	CL:0000000 (cell)
+T235	GO_CC 7935 7939	cell
+#235	AnnotatorNotes T235	GO:0005623 (cell)
+T236	CL 7994 7998	cell
+#236	AnnotatorNotes T236	CL:0000000 (cell)
+T237	GO_CC 7994 7998	cell
+#237	AnnotatorNotes T237	GO:0005623 (cell)
+T238	GO_BP 8054 8067	establishment
+#238	AnnotatorNotes T238	GO:0000003 (reproduction)
+T239	NCBITaxon 8110 8114	mice
+#239	AnnotatorNotes T239	NCBITaxon:10088 (Mus)
+T240	CHEBI 8139 8146	protein
+#240	AnnotatorNotes T240	CHEBI:36080 (proteins)
+T241	GO_BP 8147 8157	expression
+#241	AnnotatorNotes T241	GO:0010467 (gene expression)
+T242	CHEBI 8235 8242	protein
+#242	AnnotatorNotes T242	CHEBI:36080 (proteins)
+T243	GO_BP 8243 8253	expression
+#243	AnnotatorNotes T243	GO:0010467 (gene expression)
+T244	NCBITaxon 8264 8268	mice
+#244	AnnotatorNotes T244	NCBITaxon:10088 (Mus)
+T245	GO_BP 8287 8297	expression
+#245	AnnotatorNotes T245	GO:0010467 (gene expression)
+T246	GO_BP 8391 8404	embryogenesis
+#246	AnnotatorNotes T246	GO:0009790 (embryonic development)
+T247	GO_BP 8437 8447	expressing
+#247	AnnotatorNotes T247	GO:0010467 (gene expression)
+T248	GO_BP 8495 8503	breeding
+#248	AnnotatorNotes T248	GO:0007618 (mating)
+T249	NCBITaxon 8552 8559	animals
+#249	AnnotatorNotes T249	NCBITaxon:33208 (Metazoa)
+T250	GO_BP 8592 8607	gene expression
+#250	AnnotatorNotes T250	GO:0010467 (gene expression)
+T251	SO 8592 8596	gene
+#251	AnnotatorNotes T251	SO:0000704 (gene)
+T252	SO 8616 8645	site of transgene integration
+#252	AnnotatorNotes T252	"site of .. integration" SO:0000366 (insertion_site)
+T253	SO 8624 8633	transgene
+#253	AnnotatorNotes T253	SO:0000902 (transgene)
+T254	SO 8634 8645	integration
+#254	AnnotatorNotes T254	SO:0000046 (insert)
+T255	GO_BP 8651 8666	developmentally
+#255	AnnotatorNotes T255	GO:0032502 (developmental process)
+T256	NCBITaxon 8749 8753	mice
+#256	AnnotatorNotes T256	NCBITaxon:10088 (Mus)
+T257	SO 8755 8765	Transgenic
+#257	AnnotatorNotes T257	SO:0000902 (transgene)
+T258	NCBITaxon 8766 8773	animals
+#258	AnnotatorNotes T258	NCBITaxon:33208 (Metazoa)
+T259	SO 8825 8835	transgenes
+#259	AnnotatorNotes T259	SO:0000902 (transgene)
+T260	bold 8838 8839	a
+#260	AnnotatorNotes T260	bold (null)
+T261	bold 8840 8841	d
+#261	AnnotatorNotes T261	bold (null)
+T262	SO 9043 9053	transgenes
+#262	AnnotatorNotes T262	SO:0000902 (transgene)
+T263	bold 9125 9126	a
+#263	AnnotatorNotes T263	bold (null)
+T264	SO 9139 9148	wild type
+#264	AnnotatorNotes T264	SO:0000817 (wild_type)
+T265	bold 9170 9171	a
+#265	AnnotatorNotes T265	bold (null)
+T266	bold 9230 9231	b
+#266	AnnotatorNotes T266	bold (null)
+T267	bold 9281 9282	c
+#267	AnnotatorNotes T267	bold (null)
+T268	bold 9332 9333	d
+#268	AnnotatorNotes T268	bold (null)
+T269	bold 9424 9425	e
+#269	AnnotatorNotes T269	bold (null)
+T270	bold 9426 9427	h
+#270	AnnotatorNotes T270	bold (null)
+T271	SO 9433 9443	transgenic
+#271	AnnotatorNotes T271	SO:0000902 (transgene)
+T272	SO 9445 9447	TG
+#272	AnnotatorNotes T272	SO:0000902 (transgene)
+T273	SO 9448 9449	+
+#273	AnnotatorNotes T273	SO:0000817 (wild_type)
+T274	independent_continuant 9554 9564	transgenic
+#274	AnnotatorNotes T274	independent_continuant
+T275	SO 9554 9564	transgenic
+#275	AnnotatorNotes T275	SO:0000902 (transgene)
+T276	independent_continuant 9625 9635	transgenic
+#276	AnnotatorNotes T276	independent_continuant
+T277	SO 9625 9635	transgenic
+#277	AnnotatorNotes T277	SO:0000902 (transgene)
+T278	bold 9646 9647	e
+#278	AnnotatorNotes T278	bold (null)
+T279	bold 9706 9707	f
+#279	AnnotatorNotes T279	bold (null)
+T280	bold 9757 9758	g
+#280	AnnotatorNotes T280	bold (null)
+T281	bold 9809 9810	h
+#281	AnnotatorNotes T281	bold (null)
+T282	bold 9884 9885	i
+#282	AnnotatorNotes T282	bold (null)
+T283	bold 9886 9887	k
+#283	AnnotatorNotes T283	bold (null)
+T284	SO 9908 9918	transgenic
+#284	AnnotatorNotes T284	SO:0000902 (transgene)
+T285	NCBITaxon 9919 9923	mice
+#285	AnnotatorNotes T285	NCBITaxon:10088 (Mus)
+T286	GO_BP 9941 9951	expressing
+#286	AnnotatorNotes T286	GO:0010467 (gene expression)
+T287	bold 10108 10109	i
+#287	AnnotatorNotes T287	bold (null)
+T288	SO 10121 10123	TG
+#288	AnnotatorNotes T288	SO:0000902 (transgene)
+T289	SO 10124 10125	+
+#289	AnnotatorNotes T289	SO:0000817 (wild_type)
+T290	SO 10127 10137	transgenic
+#290	AnnotatorNotes T290	SO:0000902 (transgene)
+T291	NCBITaxon 10138 10143	mouse
+#291	AnnotatorNotes T291	NCBITaxon:10088 (Mus)
+T292	SO 10162 10164	TG
+#292	AnnotatorNotes T292	SO:0000902 (transgene)
+T293	SO 10165 10166	+
+#293	AnnotatorNotes T293	SO:0000817 (wild_type)
+T294	SO 10168 10178	transgenic
+#294	AnnotatorNotes T294	SO:0000902 (transgene)
+T295	NCBITaxon 10179 10184	mouse
+#295	AnnotatorNotes T295	NCBITaxon:10088 (Mus)
+T296	bold 10194 10195	j
+#296	AnnotatorNotes T296	bold (null)
+T297	SO 10207 10209	TG
+#297	AnnotatorNotes T297	SO:0000902 (transgene)
+T298	SO 10210 10211	+
+#298	AnnotatorNotes T298	SO:0000817 (wild_type)
+T299	SO 10213 10223	transgenic
+#299	AnnotatorNotes T299	SO:0000902 (transgene)
+T300	NCBITaxon 10224 10229	mouse
+#300	AnnotatorNotes T300	NCBITaxon:10088 (Mus)
+T301	SO 10246 10248	TG
+#301	AnnotatorNotes T301	SO:0000902 (transgene)
+T302	SO 10249 10250	+
+#302	AnnotatorNotes T302	SO:0000817 (wild_type)
+T303	SO 10252 10262	transgenic
+#303	AnnotatorNotes T303	SO:0000902 (transgene)
+T304	NCBITaxon 10263 10268	mouse
+#304	AnnotatorNotes T304	NCBITaxon:10088 (Mus)
+T305	bold 10277 10278	k
+#305	AnnotatorNotes T305	bold (null)
+T306	NCBITaxon 10327 10331	mice
+#306	AnnotatorNotes T306	NCBITaxon:10088 (Mus)
+T307	bold 10335 10336	i
+#307	AnnotatorNotes T307	bold (null)
+T308	bold 10341 10342	j
+#308	AnnotatorNotes T308	bold (null)
+T309	GO_BP 10353 10363	expression
+#309	AnnotatorNotes T309	GO:0010467 (gene expression)
+T310	SO 10374 10384	transgenes
+#310	AnnotatorNotes T310	SO:0000902 (transgene)
+T311	SO 10592 10602	transgenic
+#311	AnnotatorNotes T311	SO:0000902 (transgene)
+T312	NCBITaxon 10740 10744	mice
+#312	AnnotatorNotes T312	NCBITaxon:10088 (Mus)
+T313	SO 10857 10867	transgenic
+#313	AnnotatorNotes T313	SO:0000902 (transgene)
+T314	CL 10871 10875	cell
+#314	AnnotatorNotes T314	CL:0000000 (cell)
+T315	GO_CC 10871 10875	cell
+#315	AnnotatorNotes T315	GO:0005623 (cell)
+T316	GO_BP 10916 10926	expression
+#316	AnnotatorNotes T316	GO:0010467 (gene expression)
+T317	italic 10932 10940	in vitro
+#317	AnnotatorNotes T317	italic (null)
+T318	GO_BP 11001 11011	expression
+#318	AnnotatorNotes T318	GO:0010467 (gene expression)
+T319	GO_BP 11016 11022	making
+#319	AnnotatorNotes T319	GO:0000003 (reproduction)
+T320	GO_BP 11106 11116	expression
+#320	AnnotatorNotes T320	GO:0010467 (gene expression)
+T321	NCBITaxon 11120 11127	animals
+#321	AnnotatorNotes T321	NCBITaxon:33208 (Metazoa)
+T322	CL 11129 11134	Cells
+#322	AnnotatorNotes T322	CL:0000000 (cell)
+T323	GO_CC 11129 11134	Cells
+#323	AnnotatorNotes T323	GO:0005623 (cell)
+T324	GO_BP 11197 11207	expression
+#324	AnnotatorNotes T324	GO:0010467 (gene expression)
+T325	CL 11259 11263	cell
+#325	AnnotatorNotes T325	CL:0000000 (cell)
+T326	GO_CC 11259 11263	cell
+#326	AnnotatorNotes T326	GO:0005623 (cell)
+T327	CL 11293 11297	cell
+#327	AnnotatorNotes T327	CL:0000000 (cell)
+T328	GO_CC 11293 11297	cell
+#328	AnnotatorNotes T328	GO:0005623 (cell)
+T329	SO 11366 11375	transgene
+#329	AnnotatorNotes T329	SO:0000902 (transgene)
+T330	GO_BP 11402 11412	expression
+#330	AnnotatorNotes T330	GO:0010467 (gene expression)
+T331	NCBITaxon 11477 11481	mice
+#331	AnnotatorNotes T331	NCBITaxon:10088 (Mus)
+T332	GO_BP 11589 11599	expression
+#332	AnnotatorNotes T332	GO:0010467 (gene expression)
+T333	SO 11615 11623	promoter
+#333	AnnotatorNotes T333	SO:0000167 (promoter)
+T334	SO 11624 11632	enhancer
+#334	AnnotatorNotes T334	SO:0000165 (enhancer)
+T335	SO 11685 11692	variant
+#335	AnnotatorNotes T335	SO:0001060 (sequence_variant)
+T336	NCBITaxon 11759 11763	mice
+#336	AnnotatorNotes T336	NCBITaxon:10088 (Mus)
+T337	GO_BP 11769 11777	produced
+#337	AnnotatorNotes T337	GO:0000003 (reproduction)
+T338	NCBITaxon 11898 11904	animal
+#338	AnnotatorNotes T338	NCBITaxon:33208 (Metazoa)
+T339	GO_BP 11940 11949	generated
+#339	AnnotatorNotes T339	GO:0000003 (reproduction)
+T340	CL 12008 12013	cells
+#340	AnnotatorNotes T340	CL:0000000 (cell)
+T341	GO_CC 12008 12013	cells
+#341	AnnotatorNotes T341	GO:0005623 (cell)
+T342	GO_BP 12119 12129	expression
+#342	AnnotatorNotes T342	GO:0010467 (gene expression)
+T343	SO 12185 12195	transgenic
+#343	AnnotatorNotes T343	SO:0000902 (transgene)
+T344	GO_BP 12473 12482	generated
+#344	AnnotatorNotes T344	GO:0000003 (reproduction)
+T345	CL 12554 12559	cells
+#345	AnnotatorNotes T345	CL:0000000 (cell)
+T346	GO_CC 12554 12559	cells
+#346	AnnotatorNotes T346	GO:0005623 (cell)
+T347	CL 12785 12790	cells
+#347	AnnotatorNotes T347	CL:0000000 (cell)
+T348	GO_CC 12785 12790	cells
+#348	AnnotatorNotes T348	GO:0005623 (cell)
+T349	GO_BP 12931 12943	construction
+#349	AnnotatorNotes T349	GO:0000003 (reproduction)
+T350	SO 12974 12980	mutant
+#350	AnnotatorNotes T350	SO:0001059 (sequence_alteration)
+T351	SO 12985 12994	wild type
+#351	AnnotatorNotes T351	SO:0000817 (wild_type)
+T352	GO_BP 13077 13086	generated
+#352	AnnotatorNotes T352	GO:0000003 (reproduction)
+T353	bold 13254 13255	a
+#353	AnnotatorNotes T353	bold (null)
+T354	CL 13355 13366	blastomeres
+#354	AnnotatorNotes T354	CL:0000353 (blastoderm cell)
+T355	italic 13379 13387	in vitro
+#355	AnnotatorNotes T355	italic (null)
+T356	CL 13541 13546	cells
+#356	AnnotatorNotes T356	CL:0000000 (cell)
+T357	GO_CC 13541 13546	cells
+#357	AnnotatorNotes T357	GO:0005623 (cell)
+T358	bold 13549 13550	b
+#358	AnnotatorNotes T358	bold (null)
+T359	bold 13551 13552	d
+#359	AnnotatorNotes T359	bold (null)
+T360	CL 13678 13683	cells
+#360	AnnotatorNotes T360	CL:0000000 (cell)
+T361	GO_CC 13678 13683	cells
+#361	AnnotatorNotes T361	GO:0005623 (cell)
+T362	bold 13888 13889	b
+#362	AnnotatorNotes T362	bold (null)
+T363	bold 13939 13940	c
+#363	AnnotatorNotes T363	bold (null)
+T364	bold 13990 13991	d
+#364	AnnotatorNotes T364	bold (null)
+T365	bold 14082 14084	e)
+#365	AnnotatorNotes T365	bold (null)
+T366	CL 14370 14375	cells
+#366	AnnotatorNotes T366	CL:0000000 (cell)
+T367	GO_CC 14370 14375	cells
+#367	AnnotatorNotes T367	GO:0005623 (cell)
+T368	CL 14571 14585	endoderm cells
+#368	AnnotatorNotes T368	CL:0000223 (endodermal cell)
+T369	GO_CC 14580 14585	cells
+#369	AnnotatorNotes T369	GO:0005623 (cell)
+T370	bold 14659 14660	f
+#370	AnnotatorNotes T370	bold (null)
+T371	CL 14902 14907	cells
+#371	AnnotatorNotes T371	CL:0000000 (cell)
+T372	GO_CC 14902 14907	cells
+#372	AnnotatorNotes T372	GO:0005623 (cell)
+T373	bold 15199 15202	a-c
+#373	AnnotatorNotes T373	bold (null)
+T374	bold 15278 15279	a
+#374	AnnotatorNotes T374	bold (null)
+T375	bold 15321 15322	b
+#375	AnnotatorNotes T375	bold (null)
+T376	GO_BP 15379 15388	generated
+#376	AnnotatorNotes T376	GO:0032502 (developmental process)
+T377	SO 15468 15477	transgene
+#377	AnnotatorNotes T377	SO:0000902 (transgene)
+T378	SO 15528 15537	transgene
+#378	AnnotatorNotes T378	SO:0000902 (transgene)
+T379	GO_BP 15680 15693	proliferative
+#379	AnnotatorNotes T379	GO:0008283 (cell proliferation)
+T380	bold 15731 15732	c
+#380	AnnotatorNotes T380	bold (null)
+T381	GO_BP 15752 15761	generated
+#381	AnnotatorNotes T381	GO:0032502 (developmental process)
+T382	SO 15817 15826	transgene
+#382	AnnotatorNotes T382	SO:0000902 (transgene)
+T383	CL 15844 15849	cells
+#383	AnnotatorNotes T383	CL:0000000 (cell)
+T384	GO_CC 15844 15849	cells
+#384	AnnotatorNotes T384	GO:0005623 (cell)
+T385	GO_BP 15903 15916	proliferative
+#385	AnnotatorNotes T385	GO:0008283 (cell proliferation)
+T386	bold 15953 15954	d
+#386	AnnotatorNotes T386	bold (null)
+T387	CL 16079 16084	cells
+#387	AnnotatorNotes T387	CL:0000000 (cell)
+T388	GO_CC 16079 16084	cells
+#388	AnnotatorNotes T388	GO:0005623 (cell)
+T389	SO 16112 16121	transgene
+#389	AnnotatorNotes T389	SO:0000902 (transgene)
+T390	SO 16166 16175	transgene
+#390	AnnotatorNotes T390	SO:0000902 (transgene)
+T391	GO_BP 16214 16226	proliferated
+#391	AnnotatorNotes T391	GO:0008283 (cell proliferation)
+T392	CL 16431 16435	cell
+#392	AnnotatorNotes T392	CL:0000000 (cell)
+T393	GO_CC 16431 16435	cell
+#393	AnnotatorNotes T393	GO:0005623 (cell)
+T394	GO_BP 16461 16482	genesis of this organ
+#394	AnnotatorNotes T394	"genesis of .. organ" GO:0048513 (organ development)
+T395	SO 16587 16595	variants
+#395	AnnotatorNotes T395	SO:0001060 (sequence_variant)
+T396	NCBITaxon 16633 16637	mice
+#396	AnnotatorNotes T396	NCBITaxon:10088 (Mus)
+T397	GO_BP 16658 16669	established
+#397	AnnotatorNotes T397	GO:0000003 (reproduction)
+T398	NCBITaxon 16698 16702	mice
+#398	AnnotatorNotes T398	NCBITaxon:10088 (Mus)
+T399	GO_BP 16724 16734	expression
+#399	AnnotatorNotes T399	GO:0010467 (gene expression)
+T400	GO_BP 16785 16800	developmentally
+#400	AnnotatorNotes T400	GO:0032502 (developmental process)
+T401	CL 16854 16859	cells
+#401	AnnotatorNotes T401	CL:0000000 (cell)
+T402	GO_CC 16854 16859	cells
+#402	AnnotatorNotes T402	GO:0005623 (cell)
+T403	NCBITaxon 16872 16876	mice
+#403	AnnotatorNotes T403	NCBITaxon:10088 (Mus)
+T404	GO_BP 16893 16903	expression
+#404	AnnotatorNotes T404	GO:0010467 (gene expression)
+T405	GO_BP 16960 16975	developmentally
+#405	AnnotatorNotes T405	GO:0032502 (developmental process)
+T406	GO_BP 16996 17006	expression
+#406	AnnotatorNotes T406	GO:0010467 (gene expression)
+T407	SO 17105 17109	gene
+#407	AnnotatorNotes T407	SO:0000704 (gene)
+T408	CL 17486 17491	cells
+#408	AnnotatorNotes T408	CL:0000000 (cell)
+T409	GO_CC 17486 17491	cells
+#409	AnnotatorNotes T409	GO:0005623 (cell)
+T410	GO_BP 17492 17502	expressing
+#410	AnnotatorNotes T410	GO:0010467 (gene expression)
+T411	GO_BP 17611 17617	create
+#411	AnnotatorNotes T411	GO:0009058 (biosynthetic process)
+T412	SO 17795 17803	variants
+#412	AnnotatorNotes T412	SO:0001060 (sequence_variant)
+T413	SO 17931 17941	transgenic
+#413	AnnotatorNotes T413	SO:0000902 (transgene)
+T414	italic 17959 17966	in vivo
+#414	AnnotatorNotes T414	italic (null)
+T415	NCBITaxon 18124 18130	animal
+#415	AnnotatorNotes T415	NCBITaxon:33208 (Metazoa)
+T416	GO_BP 18151 18164	developmental
+#416	AnnotatorNotes T416	GO:0032502 (developmental process)
+T417	independent_continuant 18296 18307	transgenics
+#417	AnnotatorNotes T417	independent_continuant
+T418	SO 18296 18307	transgenics
+#418	AnnotatorNotes T418	SO:0000902 (transgene)
+T419	NCBITaxon 18467 18472	mouse
+#419	AnnotatorNotes T419	NCBITaxon:10088 (Mus)
+T420	SO 18473 18479	genome
+#420	AnnotatorNotes T420	SO:0001026 (genome)
+T421	SO 18551 18557	Vector
+#421	AnnotatorNotes T421	SO:0000440 (vector_replicon)
+T422	GO_BP 18558 18570	construction
+#422	AnnotatorNotes T422	GO:0009058 (biosynthetic process)
+T423	SO 18572 18577	cDNAs
+#423	AnnotatorNotes T423	SO:0000756 (cDNA)
+T424	SO 18628 18636	plasmids
+#424	AnnotatorNotes T424	SO:0000155 (plasmid)
+T425	SO 18747 18754	primers
+#425	AnnotatorNotes T425	SO:0000112 (primer)
+T426	SO 18869 18876	primers
+#426	AnnotatorNotes T426	SO:0000112 (primer)
+T427	SO 18993 19003	5' primers
+#427	AnnotatorNotes T427	SO:0000121 (forward_primer)
+T428	SO 19020 19057	consensus translation initiation site
+#428	AnnotatorNotes T428	"consensus .. site" SO:0000994 (consensus_region)
+T429	SO 19020 19029	consensus
+#429	AnnotatorNotes T429	SO:0000993 (consensus)
+T430	SO 19030 19057	translation initiation site
+#430	AnnotatorNotes T430	SO:0000323 (coding_start)
+T431	GO_BP 19030 19052	translation initiation
+#431	AnnotatorNotes T431	GO:0006413 (translational initiation)
+T432	GO_BP 19030 19041	translation
+#432	AnnotatorNotes T432	GO:0006412 (translation)
+T433	GO_BP 19092 19103	translation
+#433	AnnotatorNotes T433	GO:0006412 (translation)
+T434	CL 19118 19134	eukaryotic cells
+#434	AnnotatorNotes T434	CL:0000255 (eukaryotic cell)
+T435	NCBITaxon 19118 19128	eukaryotic
+#435	AnnotatorNotes T435	NCBITaxon:2759 (Eukaryota)
+T436	GO_CC 19129 19134	cells
+#436	AnnotatorNotes T436	GO:0005623 (cell)
+T437	GO_BP 19144 19153	construct
+#437	AnnotatorNotes T437	GO:0009058 (biosynthetic process)
+T438	SO 19154 19161	vectors
+#438	AnnotatorNotes T438	SO:0000440 (vector_replicon)
+T439	GO_BP 19162 19169	driving
+#439	AnnotatorNotes T439	GO:0048518 (positive regulation of biological process)
+T440	SO 19181 19190	transgene
+#440	AnnotatorNotes T440	SO:0000902 (transgene)
+T441	GO_BP 19191 19201	expression
+#441	AnnotatorNotes T441	GO:0010467 (gene expression)
+T442	CL 19208 19213	cells
+#442	AnnotatorNotes T442	CL:0000000 (cell)
+T443	GO_CC 19208 19213	cells
+#443	AnnotatorNotes T443	GO:0005623 (cell)
+T444	NCBITaxon 19218 19222	mice
+#444	AnnotatorNotes T444	NCBITaxon:10088 (Mus)
+T445	SO 19242 19247	cDNAs
+#445	AnnotatorNotes T445	SO:0000756 (cDNA)
+T446	GO_BP 19253 19261	digested
+#446	AnnotatorNotes T446	GO:0009056 (catabolic process)
+T447	SO 19277 19285	inserted
+#447	AnnotatorNotes T447	SO:0000046 (insert)
+T448	SO 19301 19306	sites
+#448	AnnotatorNotes T448	SO:0000001 (region)
+T449	GO_BP 19325 19333	generate
+#449	AnnotatorNotes T449	GO:0009058 (biosynthetic process)
+T450	EntrezGene 19388 19406	chicken beta-actin
+#450	AnnotatorNotes T450	EG:396526
+T451	NCBITaxon 19388 19395	chicken
+#451	AnnotatorNotes T451	NCBITaxon:9031 (Gallus gallus)
+T452	PR 19396 19406	beta-actin
+#452	AnnotatorNotes T452	PR:000003676 (actin, cytoplasmic 1)
+T453	SO 19407 19415	promoter
+#453	AnnotatorNotes T453	SO:0000167 (promoter)
+T454	SO 19420 19432	first intron
+#454	AnnotatorNotes T454	SO:0000190 (five_prime_intron)
+T455	NCBITaxon 19448 19451	CMV
+#455	AnnotatorNotes T455	NCBITaxon:10358 (Cytomegalovirus)
+T456	SO 19468 19476	enhancer
+#456	AnnotatorNotes T456	SO:0000165 (enhancer)
+T457	EntrezGene 19482 19500	rabbit beta-globin
+#457	AnnotatorNotes T457	EG:100009084
+T458	NCBITaxon 19482 19488	rabbit
+#458	AnnotatorNotes T458	NCBITaxon:9986 (Oryctolagus cuniculus)
+T459	PR 19489 19500	beta-globin
+#459	AnnotatorNotes T459	PR:000008457 (hemoglobin subunit beta)
+T460	SO 19501 19523	polyadenylation signal
+#460	AnnotatorNotes T460	SO:0000551 (polyA_signal_sequence)
+T461	GO_BP 19501 19516	polyadenylation
+#461	AnnotatorNotes T461	GO:0043631 (RNA polyadenylation)
+T462	SO 19530 19538	promoter
+#462	AnnotatorNotes T462	SO:0000167 (promoter)
+T463	SO 19539 19547	enhancer
+#463	AnnotatorNotes T463	SO:0000165 (enhancer)
+T464	GO_BP 19589 19594	drive
+#464	AnnotatorNotes T464	GO:0048518 (positive regulation of biological process)
+T465	SO 19617 19626	transgene
+#465	AnnotatorNotes T465	SO:0000902 (transgene)
+T466	GO_BP 19627 19637	expression
+#466	AnnotatorNotes T466	GO:0010467 (gene expression)
+T467	CL 19644 19649	cells
+#467	AnnotatorNotes T467	CL:0000000 (cell)
+T468	GO_CC 19644 19649	cells
+#468	AnnotatorNotes T468	GO:0005623 (cell)
+T469	NCBITaxon 19669 19673	mice
+#469	AnnotatorNotes T469	NCBITaxon:10088 (Mus)
+T470	CL 19706 19711	cells
+#470	AnnotatorNotes T470	CL:0000000 (cell)
+T471	GO_CC 19706 19711	cells
+#471	AnnotatorNotes T471	GO:0005623 (cell)
+T472	PR 19786 19789	LIF
+#472	AnnotatorNotes T472	PR:000009799 (leukemia inhibitory factor)
+T473	italic 19830 19833	Sal
+#473	AnnotatorNotes T473	italic (null)
+T474	sup 19912 19913	7
+#474	AnnotatorNotes T474	sup (null)
+T475	CL 19914 19919	cells
+#475	AnnotatorNotes T475	CL:0000000 (cell)
+T476	GO_CC 19914 19919	cells
+#476	AnnotatorNotes T476	GO:0005623 (cell)
+T477	SO 19936 19944	circular
+#477	AnnotatorNotes T477	SO:0000988 (circular)
+T478	CHEBI 19984 19988	drug
+#478	AnnotatorNotes T478	CHEBI:23888 (drug)
+T479	CL 20161 20166	cells
+#479	AnnotatorNotes T479	CL:0000000 (cell)
+T480	GO_CC 20161 20166	cells
+#480	AnnotatorNotes T480	GO:0005623 (cell)
+T481	GO_BP 20269 20277	expanded
+#481	AnnotatorNotes T481	GO:0008283 (cell proliferation)
+T482	SO 20321 20327	Clones
+#482	AnnotatorNotes T482	SO:0000151 (clone)
+T483	SO 20377 20386	transgene
+#483	AnnotatorNotes T483	SO:0000902 (transgene)
+T484	GO_BP 20387 20397	expression
+#484	AnnotatorNotes T484	GO:0010467 (gene expression)
+T485	CHEBI 20431 20435	drug
+#485	AnnotatorNotes T485	CHEBI:23888 (drug)
+T486	GO_BP 20456 20466	production
+#486	AnnotatorNotes T486	GO:0000003 (reproduction)
+T487	CL 20497 20501	cell
+#487	AnnotatorNotes T487	CL:0000000 (cell)
+T488	GO_CC 20497 20501	cell
+#488	AnnotatorNotes T488	GO:0005623 (cell)
+T489	SO 20526 20535	transgene
+#489	AnnotatorNotes T489	SO:0000902 (transgene)
+T490	GO_BP 20536 20546	expression
+#490	AnnotatorNotes T490	GO:0010467 (gene expression)
+T491	italic 20547 20555	in vitro
+#491	AnnotatorNotes T491	italic (null)
+T492	italic 20570 20577	in vivo
+#492	AnnotatorNotes T492	italic (null)
+T493	SO 20611 20620	transgene
+#493	AnnotatorNotes T493	SO:0000902 (transgene)
+T494	GO_BP 20621 20631	expression
+#494	AnnotatorNotes T494	GO:0010467 (gene expression)
+T495	GO_BP 20642 20655	developmental
+#495	AnnotatorNotes T495	GO:0032502 (developmental process)
+T496	GO_BP 20678 20686	produced
+#496	AnnotatorNotes T496	GO:0000003 (reproduction)
+T497	SO 20707 20716	wild type
+#497	AnnotatorNotes T497	SO:0000817 (wild_type)
+T498	GO_BP 20749 20756	produce
+#498	AnnotatorNotes T498	GO:0000003 (reproduction)
+T499	CL 20771 20775	cell
+#499	AnnotatorNotes T499	CL:0000000 (cell)
+T500	GO_CC 20771 20775	cell
+#500	AnnotatorNotes T500	GO:0005623 (cell)
+T501	SO 20886 20892	Clones
+#501	AnnotatorNotes T501	SO:0000151 (clone)
+T502	GO_BP 20984 20992	generate
+#502	AnnotatorNotes T502	GO:0032502 (developmental process)
+T503	SO 21052 21061	wild type
+#503	AnnotatorNotes T503	SO:0000817 (wild_type)
+T504	SO 21135 21145	transgenes
+#504	AnnotatorNotes T504	SO:0000902 (transgene)
+T505	GO_BP 21151 21155	bred
+#505	AnnotatorNotes T505	GO:0000003 (reproduction)
+T506	SO 21173 21183	Transgenes
+#506	AnnotatorNotes T506	SO:0000902 (transgene)
+T507	SO 21241 21248	genetic
+#507	AnnotatorNotes T507	SO:0000704 (gene)
+T508	NCBITaxon 21686 21690	mice
+#508	AnnotatorNotes T508	NCBITaxon:10088 (Mus)
+T509	CHEBI 22155 22162	protein
+#509	AnnotatorNotes T509	CHEBI:36080 (proteins)
+T510	GO_BP 22163 22173	expressing
+#510	AnnotatorNotes T510	GO:0010467 (gene expression)
+T511	NCBITaxon 22174 22178	mice
+#511	AnnotatorNotes T511	NCBITaxon:10088 (Mus)
+T512	SO 22272 22278	Mutant
+#512	AnnotatorNotes T512	SO:0001059 (sequence_alteration)
+T513	independent_continuant 22272 22278	Mutant
+#513	AnnotatorNotes T513	independent_continuant
+T514	SO 22472 22479	plasmid
+#514	AnnotatorNotes T514	SO:0000155 (plasmid)
+T515	NCBITaxon 22472 22479	plasmid
+#515	AnnotatorNotes T515	NCBITaxon:36549 (plasmids)

@@ -1,0 +1,2658 @@
+T1	GO_BP 10 20	expression
+#1	AnnotatorNotes T1	GO:0010467 (gene expression)
+T2	GO_BP 25 37	localization
+#2	AnnotatorNotes T2	GO:0051179 (localization)
+T3	EntrezGene 41 51	annexin A7
+#3	AnnotatorNotes T3	EG:11750
+T4	PR 41 51	annexin A7
+#4	AnnotatorNotes T4	PR:000004080 (annexin A7)
+T5	CL 55 64	platelets
+#5	AnnotatorNotes T5	CL:0000233 (platelet)
+T6	CL 69 84	red blood cells
+#6	AnnotatorNotes T6	CL:0000232 (erythrocyte)
+T7	GO_CC 79 84	cells
+#7	AnnotatorNotes T7	GO:0005623 (cell)
+T8	EntrezGene 111 121	annexin A7
+#8	AnnotatorNotes T8	EG:11750
+T9	PR 111 121	annexin A7
+#9	AnnotatorNotes T9	PR:000004080 (annexin A7)
+T10	SO 122 128	mutant
+#10	AnnotatorNotes T10	SO:0001059 (sequence_alteration)
+T11	NCBITaxon 129 134	mouse
+#11	AnnotatorNotes T11	NCBITaxon:10088 (Mus)
+T12	PR 158 168	Annexin A7
+#12	AnnotatorNotes T12	PR:000004080 (annexin A7)
+T13	GO_MF 174 204	Ca2+- and phospholipid-binding
+#13	AnnotatorNotes T13	"Ca2+- .. binding" GO:0005509 (calcium ion binding)
+T14	CHEBI 174 178	Ca2+
+#14	AnnotatorNotes T14	CHEBI:29108 (calcium(2+))
+T15	sup 176 178	2+
+#15	AnnotatorNotes T15	sup (null)
+T16	GO_MF 184 204	phospholipid-binding
+#16	AnnotatorNotes T16	GO:0005543 (phospholipid binding)
+T17	CHEBI 184 196	phospholipid
+#17	AnnotatorNotes T17	CHEBI:16247 (phospholipids)
+T18	CHEBI 205 212	protein
+#18	AnnotatorNotes T18	CHEBI:36080 (proteins)
+T19	GO_BP 213 222	expressed
+#19	AnnotatorNotes T19	GO:0010467 (gene expression)
+T20	SO 242 249	isoform
+#20	AnnotatorNotes T20	SO:0001060 (sequence_variant)
+T21	GO_BP 286 311	membrane fusion processes
+#21	AnnotatorNotes T21	GO:0006944 (membrane fusion)
+T22	GO_CC 286 294	membrane
+#22	AnnotatorNotes T22	GO:0016020 (membrane)
+T23	SO 333 340	isoform
+#23	AnnotatorNotes T23	SO:0001060 (sequence_variant)
+T24	CL 364 376	erythrocytes
+#24	AnnotatorNotes T24	CL:0000232 (erythrocyte)
+T25	GO_BP 428 473	process of the Ca2+-dependent vesicle release
+#25	AnnotatorNotes T25	"process of .. Ca2+-dependent vesicle release" GO:0017156 (calcium ion-dependent exocytosis)
+T26	CHEBI 443 447	Ca2+
+#26	AnnotatorNotes T26	CHEBI:29108 (calcium(2+))
+T27	sup 445 447	2+
+#27	AnnotatorNotes T27	sup (null)
+T28	GO_CC 458 465	vesicle
+#28	AnnotatorNotes T28	GO:0031982 (vesicle)
+T29	CL 496 511	red blood cells
+#29	AnnotatorNotes T29	CL:0000232 (erythrocyte)
+T30	GO_CC 506 511	cells
+#30	AnnotatorNotes T30	GO:0005623 (cell)
+T31	EntrezGene 615 625	annexin A7
+#31	AnnotatorNotes T31	EG:11750
+T32	PR 615 625	annexin A7
+#32	AnnotatorNotes T32	PR:000004080 (annexin A7)
+T33	CL 629 644	red blood cells
+#33	AnnotatorNotes T33	CL:0000232 (erythrocyte)
+T34	GO_CC 639 644	cells
+#34	AnnotatorNotes T34	GO:0005623 (cell)
+T35	CL 662 674	erythrocytes
+#35	AnnotatorNotes T35	CL:0000232 (erythrocyte)
+T36	italic 680 685	anxA7
+#36	AnnotatorNotes T36	italic (null)
+T37	EntrezGene 680 685	anxA7
+#37	AnnotatorNotes T37	EG:11750
+T38	PR 680 685	anxA7
+#38	AnnotatorNotes T38	PR:000004080 (annexin A7)
+T39	sup 685 688	-/-
+#39	AnnotatorNotes T39	sup (null)
+T40	NCBITaxon 689 693	mice
+#40	AnnotatorNotes T40	NCBITaxon:10088 (Mus)
+T41	CHEBI 714 718	Ca2+
+#41	AnnotatorNotes T41	CHEBI:29108 (calcium(2+))
+T42	sup 716 718	2+
+#42	AnnotatorNotes T42	sup (null)
+T43	GO_BP 728 748	vesiculation process
+#43	AnnotatorNotes T43	GO:0006900 (membrane budding)
+T44	GO_CC 777 785	membrane
+#44	AnnotatorNotes T44	GO:0016020 (membrane)
+T45	EntrezGene 895 905	annexin A7
+#45	AnnotatorNotes T45	EG:11750
+T46	PR 895 905	annexin A7
+#46	AnnotatorNotes T46	PR:000004080 (annexin A7)
+T47	CL 924 928	cell
+#47	AnnotatorNotes T47	CL:0000000 (cell)
+T48	GO_CC 924 928	cell
+#48	AnnotatorNotes T48	GO:0005623 (cell)
+T49	CL 971 986	red blood cells
+#49	AnnotatorNotes T49	CL:0000232 (erythrocyte)
+T50	GO_CC 981 986	cells
+#50	AnnotatorNotes T50	GO:0005623 (cell)
+T51	EntrezGene 988 998	Annexin A7
+#51	AnnotatorNotes T51	EG:310
+T52	PR 988 998	Annexin A7
+#52	AnnotatorNotes T52	PR:000004080 (annexin A7)
+T53	CL 1022 1031	platelets
+#53	AnnotatorNotes T53	CL:0000233 (platelet)
+T54	CL 1042 1047	cells
+#54	AnnotatorNotes T54	CL:0000000 (cell)
+T55	GO_CC 1042 1047	cells
+#55	AnnotatorNotes T55	GO:0005623 (cell)
+T56	CL 1159 1168	platelets
+#56	AnnotatorNotes T56	CL:0000233 (platelet)
+T57	EntrezGene 1222 1232	annexin A7
+#57	AnnotatorNotes T57	EG:11750
+T58	PR 1222 1232	annexin A7
+#58	AnnotatorNotes T58	PR:000004080 (annexin A7)
+T59	GO_BP 1236 1261	membrane fusion processes
+#59	AnnotatorNotes T59	GO:0006944 (membrane fusion)
+T60	GO_CC 1236 1244	membrane
+#60	AnnotatorNotes T60	GO:0016020 (membrane)
+T61	CL 1275 1290	red blood cells
+#61	AnnotatorNotes T61	CL:0000232 (erythrocyte)
+T62	GO_CC 1285 1290	cells
+#62	AnnotatorNotes T62	GO:0005623 (cell)
+T63	CHEBI 1304 1311	protein
+#63	AnnotatorNotes T63	CHEBI:36080 (proteins)
+T64	GO_CC 1357 1365	membrane
+#64	AnnotatorNotes T64	GO:0016020 (membrane)
+T65	GO_CC 1366 1378	cytoskeleton
+#65	AnnotatorNotes T65	GO:0005856 (cytoskeleton)
+T66	CL 1380 1395	Red blood cells
+#66	AnnotatorNotes T66	CL:0000232 (erythrocyte)
+T67	GO_CC 1390 1395	cells
+#67	AnnotatorNotes T67	GO:0005623 (cell)
+T68	EntrezGene 1452 1462	annexin A7
+#68	AnnotatorNotes T68	EG:11750
+T69	PR 1452 1462	annexin A7
+#69	AnnotatorNotes T69	PR:000004080 (annexin A7)
+T70	GO_BP 1466 1484	cellular processes
+#70	AnnotatorNotes T70	GO:0009987 (cellular process)
+T71	CL 1466 1474	cellular
+#71	AnnotatorNotes T71	CL:0000000 (cell)
+T72	GO_CC 1466 1474	cellular
+#72	AnnotatorNotes T72	GO:0005623 (cell)
+T73	EntrezGene 1541 1551	annexin A7
+#73	AnnotatorNotes T73	EG:310
+T74	PR 1541 1551	annexin A7
+#74	AnnotatorNotes T74	PR:000004080 (annexin A7)
+T75	SO 1552 1560	isoforms
+#75	AnnotatorNotes T75	SO:0001060 (sequence_variant)
+T76	CL 1564 1579	red blood cells
+#76	AnnotatorNotes T76	CL:0000232 (erythrocyte)
+T77	GO_CC 1574 1579	cells
+#77	AnnotatorNotes T77	GO:0005623 (cell)
+T78	SO 1610 1617	isoform
+#78	AnnotatorNotes T78	SO:0001060 (sequence_variant)
+T79	CL 1621 1630	platelets
+#79	AnnotatorNotes T79	CL:0000233 (platelet)
+T80	CL 1640 1644	cell
+#80	AnnotatorNotes T80	CL:0000000 (cell)
+T81	GO_CC 1640 1644	cell
+#81	AnnotatorNotes T81	GO:0005623 (cell)
+T82	EntrezGene 1663 1673	annexin A7
+#82	AnnotatorNotes T82	EG:11750
+T83	PR 1663 1673	annexin A7
+#83	AnnotatorNotes T83	PR:000004080 (annexin A7)
+T84	GO_BP 1682 1700	cellular functions
+#84	AnnotatorNotes T84	GO:0009987 (cellular process)
+T85	CL 1682 1690	cellular
+#85	AnnotatorNotes T85	CL:0000000 (cell)
+T86	GO_CC 1682 1690	cellular
+#86	AnnotatorNotes T86	GO:0005623 (cell)
+T87	EntrezGene 1774 1784	annexin A7
+#87	AnnotatorNotes T87	EG:11750
+T88	PR 1774 1784	annexin A7
+#88	AnnotatorNotes T88	PR:000004080 (annexin A7)
+T89	GO_BP 1788 1813	membrane fusion processes
+#89	AnnotatorNotes T89	GO:0006944 (membrane fusion)
+T90	GO_CC 1788 1796	membrane
+#90	AnnotatorNotes T90	GO:0016020 (membrane)
+T91	CL 1823 1827	cell
+#91	AnnotatorNotes T91	CL:0000000 (cell)
+T92	GO_CC 1823 1827	cell
+#92	AnnotatorNotes T92	GO:0005623 (cell)
+T93	PR 1848 1858	Annexin A7
+#93	AnnotatorNotes T93	PR:000004080 (annexin A7)
+T94	GO_MF 1864 1894	Ca2+- and phospholipid-binding
+#94	AnnotatorNotes T94	"Ca2+- .. binding" GO:0005509 (calcium ion binding)
+T95	CHEBI 1864 1868	Ca2+
+#95	AnnotatorNotes T95	CHEBI:29108 (calcium(2+))
+T96	sup 1866 1868	2+
+#96	AnnotatorNotes T96	sup (null)
+T97	GO_MF 1874 1894	phospholipid-binding
+#97	AnnotatorNotes T97	GO:0005543 (phospholipid binding)
+T98	CHEBI 1874 1886	phospholipid
+#98	AnnotatorNotes T98	CHEBI:16247 (phospholipids)
+T99	CHEBI 1895 1902	protein
+#99	AnnotatorNotes T99	CHEBI:36080 (proteins)
+T100	GO_CC 1965 1984	chromaffin granules
+#100	AnnotatorNotes T100	GO:0042583 (chromaffin granule)
+T101	GO_BP 1989 2021	fusion of phospholipid membranes
+#101	AnnotatorNotes T101	"fusion of .. membranes" GO:0006944 (membrane fusion)
+T102	CHEBI 1999 2011	phospholipid
+#102	AnnotatorNotes T102	CHEBI:16247 (phospholipids)
+T103	GO_CC 2012 2021	membranes
+#103	AnnotatorNotes T103	GO:0016020 (membrane)
+T104	CHEBI 2041 2045	Ca2+
+#104	AnnotatorNotes T104	CHEBI:29108 (calcium(2+))
+T105	sup 2043 2045	2+
+#105	AnnotatorNotes T105	sup (null)
+T106	PR 2084 2094	annexin A7
+#106	AnnotatorNotes T106	PR:000004080 (annexin A7)
+T107	GO_BP 2116 2126	exocytotic
+#107	AnnotatorNotes T107	GO:0006887 (exocytosis)
+T108	GO_BP 2127 2154	secretion of catecholamines
+#108	AnnotatorNotes T108	GO:0050432 (catecholamine secretion)
+T109	CHEBI 2140 2154	catecholamines
+#109	AnnotatorNotes T109	CHEBI:33567 (catecholamines)
+T110	CHEBI 2164 2171	protein
+#110	AnnotatorNotes T110	CHEBI:36080 (proteins)
+T111	SO 2195 2219	evolutionarily conserved
+#111	AnnotatorNotes T111	SO:0000857 (homologous)
+T112	CHEBI 2220 2228	proteins
+#112	AnnotatorNotes T112	CHEBI:36080 (proteins)
+T113	SO 2270 2314	N-terminal and a conserved C-terminal domain
+#113	AnnotatorNotes T113	"N-terminal .. domain" SO:0100014 (n_terminal_region)
+T114	CHEBI 2270 2271	N
+#114	AnnotatorNotes T114	CHEBI:46882 (amino group)
+T115	SO 2287 2296	conserved
+#115	AnnotatorNotes T115	SO:0000856 (conserved)
+T116	SO 2297 2314	C-terminal domain
+#116	AnnotatorNotes T116	SO:0100015 (c_terminal_region)
+T117	CHEBI 2297 2298	C
+#117	AnnotatorNotes T117	CHEBI:46883 (carboxy group)
+T118	CHEBI 2297 2298	C
+#118	AnnotatorNotes T118	CHEBI:18245 (carboxylato group)
+T119	SO 2308 2314	domain
+#119	AnnotatorNotes T119	SO:0000417 (polypeptide_domain)
+T120	SO 2320 2337	C-terminal domain
+#120	AnnotatorNotes T120	SO:0100015 (c_terminal_region)
+T121	CHEBI 2320 2321	C
+#121	AnnotatorNotes T121	CHEBI:46883 (carboxy group)
+T122	CHEBI 2320 2321	C
+#122	AnnotatorNotes T122	CHEBI:18245 (carboxylato group)
+T123	SO 2331 2337	domain
+#123	AnnotatorNotes T123	SO:0000417 (polypeptide_domain)
+T124	GO_MF 2361 2391	Ca2+- and phospholipid-binding
+#124	AnnotatorNotes T124	"Ca2+- .. binding" GO:0005509 (calcium ion binding)
+T125	CHEBI 2361 2365	Ca2+
+#125	AnnotatorNotes T125	CHEBI:29108 (calcium(2+))
+T126	sup 2363 2365	2+
+#126	AnnotatorNotes T126	sup (null)
+T127	GO_MF 2371 2391	phospholipid-binding
+#127	AnnotatorNotes T127	GO:0005543 (phospholipid binding)
+T128	CHEBI 2371 2383	phospholipid
+#128	AnnotatorNotes T128	CHEBI:16247 (phospholipids)
+T129	SO 2397 2414	N-terminal domain
+#129	AnnotatorNotes T129	SO:0100014 (n_terminal_region)
+T130	CHEBI 2397 2398	N
+#130	AnnotatorNotes T130	CHEBI:46882 (amino group)
+T131	SO 2408 2414	domain
+#131	AnnotatorNotes T131	SO:0000417 (polypeptide_domain)
+T132	GO_MF 2465 2508	binding to negatively charged phospholipids
+#132	AnnotatorNotes T132	"binding to .. phospholipids" GO:0005543 (phospholipid binding)
+T133	CHEBI 2495 2508	phospholipids
+#133	AnnotatorNotes T133	CHEBI:16247 (phospholipids)
+T134	CHEBI 2538 2547	Ca2+ ions
+#134	AnnotatorNotes T134	CHEBI:29108 (calcium(2+))
+T135	sup 2540 2542	2+
+#135	AnnotatorNotes T135	sup (null)
+T136	PR 2550 2560	Annexin A7
+#136	AnnotatorNotes T136	PR:000004080 (annexin A7)
+T137	SO 2630 2644	amino terminus
+#137	AnnotatorNotes T137	SO:0100014 (n_terminal_region)
+T138	CHEBI 2630 2635	amino
+#138	AnnotatorNotes T138	CHEBI:46882 (amino group)
+T139	CHEBI 2664 2675	amino acids
+#139	AnnotatorNotes T139	CHEBI:33708 (amino-acid residue)
+T140	SO 2664 2675	amino acids
+#140	AnnotatorNotes T140	SO:0001237 (amino_acid)
+T141	CHEBI 2664 2669	amino
+#141	AnnotatorNotes T141	CHEBI:32952 (amines)
+T142	CHEBI 2664 2669	amino
+#142	AnnotatorNotes T142	CHEBI:46882 (amino group)
+T143	CHEBI 2670 2675	acids
+#143	AnnotatorNotes T143	CHEBI:37527 (acid)
+T144	GO_BP 2677 2697	Alternative splicing
+#144	AnnotatorNotes T144	GO:0000380 (alternative nuclear mRNA splicing, via spliceosome)
+T145	SO 2716 2724	isoforms
+#145	AnnotatorNotes T145	SO:0001060 (sequence_variant)
+T146	SO 2748 2756	isoforms
+#146	AnnotatorNotes T146	SO:0001060 (sequence_variant)
+T147	SO 2790 2794	exon
+#147	AnnotatorNotes T147	SO:0000147 (exon)
+T148	SO 2829 2846	N-terminal domain
+#148	AnnotatorNotes T148	SO:0100014 (n_terminal_region)
+T149	CHEBI 2829 2830	N
+#149	AnnotatorNotes T149	CHEBI:46882 (amino group)
+T150	SO 2840 2846	domain
+#150	AnnotatorNotes T150	SO:0000417 (polypeptide_domain)
+T151	SO 2884 2891	isoform
+#151	AnnotatorNotes T151	SO:0001060 (sequence_variant)
+T152	SO 2898 2903	forms
+#152	AnnotatorNotes T152	SO:0001060 (sequence_variant)
+T153	SO 2950 2957	isoform
+#153	AnnotatorNotes T153	SO:0001060 (sequence_variant)
+T154	GO_BP 2973 2982	expressed
+#154	AnnotatorNotes T154	GO:0010467 (gene expression)
+T155	CL 3018 3026	cellular
+#155	AnnotatorNotes T155	CL:0000000 (cell)
+T156	GO_CC 3018 3026	cellular
+#156	AnnotatorNotes T156	GO:0005623 (cell)
+T157	PR 3033 3043	annexin A7
+#157	AnnotatorNotes T157	PR:000004080 (annexin A7)
+T158	GO_CC 3067 3074	cytosol
+#158	AnnotatorNotes T158	GO:0005829 (cytosol)
+T159	GO_CC 3083 3098	plasma membrane
+#159	AnnotatorNotes T159	GO:0005886 (plasma membrane)
+T160	GO_CC 3111 3118	nucleus
+#160	AnnotatorNotes T160	GO:0005634 (nucleus)
+T161	GO_CC 3123 3132	vesicular
+#161	AnnotatorNotes T161	GO:0031982 (vesicle)
+T162	GO_CC 3162 3181	chromaffin granules
+#162	AnnotatorNotes T162	GO:0042583 (chromaffin granule)
+T163	GO_CC 3194 3202	t-tubule
+#163	AnnotatorNotes T163	GO:0030315 (T-tubule)
+T164	PR 3217 3227	Annexin A7
+#164	AnnotatorNotes T164	PR:000004080 (annexin A7)
+T165	GO_BP 3228 3240	translocates
+#165	AnnotatorNotes T165	GO:0006810 (transport)
+T166	GO_CC 3244 3253	membranes
+#166	AnnotatorNotes T166	GO:0016020 (membrane)
+T167	CHEBI 3259 3263	Ca2+
+#167	AnnotatorNotes T167	CHEBI:29108 (calcium(2+))
+T168	sup 3261 3263	2+
+#168	AnnotatorNotes T168	sup (null)
+T169	GO_CC 3292 3305	intracellular
+#169	AnnotatorNotes T169	GO:0005622 (intracellular)
+T170	CHEBI 3306 3310	Ca2+
+#170	AnnotatorNotes T170	CHEBI:29108 (calcium(2+))
+T171	sup 3308 3310	2+
+#171	AnnotatorNotes T171	sup (null)
+T172	GO_CC 3358 3389	plasma and the nuclear membrane
+#172	AnnotatorNotes T172	"plasma .. membrane" GO:0005886 (plasma membrane)
+T173	GO_CC 3373 3389	nuclear membrane
+#173	AnnotatorNotes T173	GO:0031965 (nuclear membrane)
+T174	GO_CC 3404 3417	intracellular
+#174	AnnotatorNotes T174	GO:0005622 (intracellular)
+T175	GO_CC 3418 3426	vesicles
+#175	AnnotatorNotes T175	GO:0031982 (vesicle)
+T176	PR 3441 3451	annexin A7
+#176	AnnotatorNotes T176	PR:000004080 (annexin A7)
+T177	GO_CC 3468 3479	lipid rafts
+#177	AnnotatorNotes T177	GO:0045121 (lipid raft)
+T178	CHEBI 3468 3473	lipid
+#178	AnnotatorNotes T178	CHEBI:18059 (lipids)
+T179	GO_CC 3485 3496	Lipid rafts
+#179	AnnotatorNotes T179	GO:0045121 (lipid raft)
+T180	CHEBI 3485 3490	Lipid
+#180	AnnotatorNotes T180	CHEBI:18059 (lipids)
+T181	GO_BP 3516 3532	membrane budding
+#181	AnnotatorNotes T181	GO:0006900 (membrane budding)
+T182	GO_CC 3516 3524	membrane
+#182	AnnotatorNotes T182	GO:0016020 (membrane)
+T183	GO_BP 3540 3562	vesiculation processes
+#183	AnnotatorNotes T183	GO:0006900 (membrane budding)
+T184	GO_BP 3581 3591	exocytosis
+#184	AnnotatorNotes T184	GO:0006887 (exocytosis)
+T185	GO_MF 3605 3612	binding
+#185	AnnotatorNotes T185	GO:0005488 (binding)
+T186	PR 3625 3635	annexin A7
+#186	AnnotatorNotes T186	PR:000004080 (annexin A7)
+T187	PR 3658 3664	sorcin
+#187	AnnotatorNotes T187	PR:000015619 (sorcin)
+T188	PR 3669 3679	galectin-3
+#188	AnnotatorNotes T188	PR:000009771 (galectin-3)
+T189	PR 3689 3695	Sorcin
+#189	AnnotatorNotes T189	PR:000015619 (sorcin)
+T190	GO_MF 3701 3713	Ca2+-binding
+#190	AnnotatorNotes T190	GO:0005509 (calcium ion binding)
+T191	CHEBI 3701 3705	Ca2+
+#191	AnnotatorNotes T191	CHEBI:29108 (calcium(2+))
+T192	sup 3703 3705	2+
+#192	AnnotatorNotes T192	sup (null)
+T193	CHEBI 3714 3721	protein
+#193	AnnotatorNotes T193	CHEBI:36080 (proteins)
+T194	CHEBI 3755 3762	protein
+#194	AnnotatorNotes T194	CHEBI:36080 (proteins)
+T195	PR 3781 3791	annexin A7
+#195	AnnotatorNotes T195	PR:000004080 (annexin A7)
+T196	GO_MF 3795 3800	binds
+#196	AnnotatorNotes T196	GO:0005488 (binding)
+T197	CHEBI 3819 3823	Ca2+
+#197	AnnotatorNotes T197	CHEBI:29108 (calcium(2+))
+T198	sup 3821 3823	2+
+#198	AnnotatorNotes T198	sup (null)
+T199	PR 3842 3848	Sorcin
+#199	AnnotatorNotes T199	PR:000015619 (sorcin)
+T200	GO_MF 3903 3921	ryanodine receptor
+#200	AnnotatorNotes T200	GO:0005219 (ryanodine-sensitive calcium-release channel activity)
+T201	independent_continuant 3903 3921	ryanodine receptor
+#201	AnnotatorNotes T201	independent_continuant
+T202	CHEBI 3903 3912	ryanodine
+#202	AnnotatorNotes T202	CHEBI:8925 (ryanodine)
+T203	GO_BP 3938 3946	modulate
+#203	AnnotatorNotes T203	GO:0065007 (biological regulation)
+T204	PR 3987 3993	sorcin
+#204	AnnotatorNotes T204	PR:000015619 (sorcin)
+T205	PR 3994 4004	annexin A7
+#205	AnnotatorNotes T205	PR:000004080 (annexin A7)
+T206	GO_MF 4024 4042	ryanodine receptor
+#206	AnnotatorNotes T206	GO:0005219 (ryanodine-sensitive calcium-release channel activity)
+T207	independent_continuant 4024 4042	ryanodine receptor
+#207	AnnotatorNotes T207	independent_continuant
+T208	CHEBI 4024 4033	ryanodine
+#208	AnnotatorNotes T208	CHEBI:8925 (ryanodine)
+T209	PR 4055 4061	Sorcin
+#209	AnnotatorNotes T209	PR:000015619 (sorcin)
+T210	PR 4066 4076	annexin A7
+#210	AnnotatorNotes T210	PR:000004080 (annexin A7)
+T211	GO_MF 4134 4141	binding
+#211	AnnotatorNotes T211	GO:0005488 (binding)
+T212	PR 4145 4155	annexin A7
+#212	AnnotatorNotes T212	PR:000004080 (annexin A7)
+T213	PR 4160 4166	sorcin
+#213	AnnotatorNotes T213	PR:000015619 (sorcin)
+T214	CHEBI 4170 4174	Ca2+
+#214	AnnotatorNotes T214	CHEBI:29108 (calcium(2+))
+T215	sup 4172 4174	2+
+#215	AnnotatorNotes T215	sup (null)
+T216	CHEBI 4210 4214	Ca2+
+#216	AnnotatorNotes T216	CHEBI:29108 (calcium(2+))
+T217	sup 4212 4214	2+
+#217	AnnotatorNotes T217	sup (null)
+T218	SO 4235 4248	binding sites
+#218	AnnotatorNotes T218	SO:0000409 (binding_site)
+T219	GO_MF 4235 4242	binding
+#219	AnnotatorNotes T219	GO:0005488 (binding)
+T220	SO 4276 4290	amino terminal
+#220	AnnotatorNotes T220	SO:0100014 (n_terminal_region)
+T221	CHEBI 4276 4281	amino
+#221	AnnotatorNotes T221	CHEBI:46882 (amino group)
+T222	PR 4315 4321	sorcin
+#222	AnnotatorNotes T222	PR:000015619 (sorcin)
+T223	SO 4351 4365	amino terminus
+#223	AnnotatorNotes T223	SO:0100014 (n_terminal_region)
+T224	CHEBI 4351 4356	amino
+#224	AnnotatorNotes T224	CHEBI:46882 (amino group)
+T225	PR 4369 4379	annexin A7
+#225	AnnotatorNotes T225	PR:000004080 (annexin A7)
+T226	CHEBI 4385 4393	proteins
+#226	AnnotatorNotes T226	CHEBI:36080 (proteins)
+T227	GO_MF 4394 4398	bind
+#227	AnnotatorNotes T227	GO:0005488 (binding)
+T228	PR 4441 4447	sorcin
+#228	AnnotatorNotes T228	PR:000015619 (sorcin)
+T229	CHEBI 4448 4457	molecules
+#229	AnnotatorNotes T229	CHEBI:36357 (polyatomic entities)
+T230	PR 4462 4472	annexin A7
+#230	AnnotatorNotes T230	PR:000004080 (annexin A7)
+T231	CHEBI 4473 4481	molecule
+#231	AnnotatorNotes T231	CHEBI:36357 (polyatomic entities)
+T232	PR 4489 4499	Galectin-3
+#232	AnnotatorNotes T232	PR:000009771 (galectin-3)
+T233	CHEBI 4531 4538	protein
+#233	AnnotatorNotes T233	CHEBI:36080 (proteins)
+T234	GO_BP 4547 4561	anti-apoptotic
+#234	AnnotatorNotes T234	GO:0006916 (anti-apoptosis)
+T235	GO_BP 4552 4561	apoptotic
+#235	AnnotatorNotes T235	GO:0006915 (apoptosis)
+T236	GO_CC 4584 4603	extracellular space
+#236	AnnotatorNotes T236	GO:0005576 (extracellular region)
+T237	GO_CC 4612 4619	nucleus
+#237	AnnotatorNotes T237	GO:0005634 (nucleus)
+T238	GO_CC 4624 4633	cytoplasm
+#238	AnnotatorNotes T238	GO:0005737 (cytoplasm)
+T239	GO_CC 4641 4653	mitochondria
+#239	AnnotatorNotes T239	GO:0005739 (mitochondrion)
+T240	GO_CC 4655 4666	Cytoplasmic
+#240	AnnotatorNotes T240	GO:0005737 (cytoplasm)
+T241	PR 4667 4677	galectin-3
+#241	AnnotatorNotes T241	PR:000009771 (galectin-3)
+T242	GO_CC 4725 4738	mitochondrial
+#242	AnnotatorNotes T242	GO:0005739 (mitochondrion)
+T243	GO_BP 4750 4765	Down regulation
+#243	AnnotatorNotes T243	GO:0048519 (negative regulation of biological process)
+T244	PR 4769 4779	annexin A7
+#244	AnnotatorNotes T244	PR:000004080 (annexin A7)
+T245	PR 4789 4799	galectin-3
+#245	AnnotatorNotes T245	PR:000009771 (galectin-3)
+T246	GO_BP 4800 4813	translocation
+#246	AnnotatorNotes T246	GO:0006810 (transport)
+T247	GO_CC 4821 4832	perinuclear
+#247	AnnotatorNotes T247	GO:0048471 (perinuclear region of cytoplasm)
+T248	GO_CC 4833 4841	membrane
+#248	AnnotatorNotes T248	GO:0016020 (membrane)
+T249	PR 4856 4866	galectin-3
+#249	AnnotatorNotes T249	PR:000009771 (galectin-3)
+T250	GO_BP 4867 4876	secretion
+#250	AnnotatorNotes T250	GO:0046903 (secretion)
+T251	PR 4882 4892	annexin A7
+#251	AnnotatorNotes T251	PR:000004080 (annexin A7)
+T252	PR 4904 4914	galectin-3
+#252	AnnotatorNotes T252	PR:000009771 (galectin-3)
+T253	GO_BP 4915 4926	trafficking
+#253	AnnotatorNotes T253	GO:0006810 (transport)
+T254	GO_BP 4928 4948	apoptosis regulation
+#254	AnnotatorNotes T254	GO:0042981 (regulation of apoptosis)
+T255	GO_BP 4928 4937	apoptosis
+#255	AnnotatorNotes T255	GO:0006915 (apoptosis)
+T256	GO_CC 4954 4967	mitochondrial
+#256	AnnotatorNotes T256	GO:0005739 (mitochondrion)
+T257	CL 5002 5010	cellular
+#257	AnnotatorNotes T257	CL:0000000 (cell)
+T258	GO_CC 5002 5010	cellular
+#258	AnnotatorNotes T258	GO:0005623 (cell)
+T259	PR 5019 5029	annexin A7
+#259	AnnotatorNotes T259	PR:000004080 (annexin A7)
+T260	GO_BP 5071 5079	regulate
+#260	AnnotatorNotes T260	GO:0065007 (biological regulation)
+T261	GO_CC 5094 5110	membrane domains
+#261	AnnotatorNotes T261	GO:0044425 (membrane part)
+T262	GO_CC 5094 5102	membrane
+#262	AnnotatorNotes T262	GO:0016020 (membrane)
+T263	GO_BP 5133 5149	Ca2+ homeostasis
+#263	AnnotatorNotes T263	GO:0055074 (calcium ion homeostasis)
+T264	CHEBI 5133 5137	Ca2+
+#264	AnnotatorNotes T264	CHEBI:29108 (calcium(2+))
+T265	sup 5135 5137	2+
+#265	AnnotatorNotes T265	sup (null)
+T266	GO_BP 5154 5187	Ca2+-dependent signaling pathways
+#266	AnnotatorNotes T266	GO:0019722 (calcium-mediated signaling)
+T267	CHEBI 5154 5158	Ca2+
+#267	AnnotatorNotes T267	CHEBI:29108 (calcium(2+))
+T268	sup 5156 5158	2+
+#268	AnnotatorNotes T268	sup (null)
+T269	EntrezGene 5253 5263	annexin A7
+#269	AnnotatorNotes T269	EG:11750
+T270	PR 5253 5263	annexin A7
+#270	AnnotatorNotes T270	PR:000004080 (annexin A7)
+T271	NCBITaxon 5274 5279	mouse
+#271	AnnotatorNotes T271	NCBITaxon:10088 (Mus)
+T272	SO 5280 5287	mutants
+#272	AnnotatorNotes T272	SO:0001059 (sequence_alteration)
+T273	independent_continuant 5280 5287	mutants
+#273	AnnotatorNotes T273	independent_continuant
+T274	EntrezGene 5293 5303	annexin A7
+#274	AnnotatorNotes T274	EG:11750
+T275	PR 5293 5303	annexin A7
+#275	AnnotatorNotes T275	PR:000004080 (annexin A7)
+T276	NCBITaxon 5315 5319	mice
+#276	AnnotatorNotes T276	NCBITaxon:10088 (Mus)
+T277	GO_BP 5333 5342	generated
+#277	AnnotatorNotes T277	GO:0000003 (reproduction)
+T278	GO_BP 5422 5428	lethal
+#278	AnnotatorNotes T278	GO:0016265 (death)
+T279	NCBITaxon 5443 5447	mice
+#279	AnnotatorNotes T279	NCBITaxon:10088 (Mus)
+T280	GO_BP 5459 5476	insulin secretion
+#280	AnnotatorNotes T280	GO:0030073 (insulin secretion)
+T281	CHEBI 5459 5466	insulin
+#281	AnnotatorNotes T281	CHEBI:5931 (insulin)
+T282	PR 5459 5466	insulin
+#282	AnnotatorNotes T282	PR:000009054 (insulin)
+T283	EntrezGene 5459 5466	insulin
+#283	AnnotatorNotes T283	EG:16334
+T284	GO_BP 5584 5601	insulin secretion
+#284	AnnotatorNotes T284	GO:0030073 (insulin secretion)
+T285	CHEBI 5584 5591	insulin
+#285	AnnotatorNotes T285	CHEBI:5931 (insulin)
+T286	EntrezGene 5584 5591	insulin
+#286	AnnotatorNotes T286	EG:16334
+T287	PR 5584 5591	insulin
+#287	AnnotatorNotes T287	PR:000009054 (insulin)
+T288	CL 5656 5670	cardiomyocytes
+#288	AnnotatorNotes T288	CL:0000746 (cardiac muscle cell)
+T289	CL 5758 5773	red blood cells
+#289	AnnotatorNotes T289	CL:0000232 (erythrocyte)
+T290	GO_CC 5768 5773	cells
+#290	AnnotatorNotes T290	GO:0005623 (cell)
+T291	CL 5778 5787	platelets
+#291	AnnotatorNotes T291	CL:0000233 (platelet)
+T292	italic 5795 5800	anxA7
+#292	AnnotatorNotes T292	italic (null)
+T293	PR 5795 5800	anxA7
+#293	AnnotatorNotes T293	PR:000004080 (annexin A7)
+T294	EntrezGene 5795 5800	anxA7
+#294	AnnotatorNotes T294	EG:11750
+T295	sup 5800 5803	-/-
+#295	AnnotatorNotes T295	sup (null)
+T296	SO 5804 5810	mutant
+#296	AnnotatorNotes T296	SO:0001059 (sequence_alteration)
+T297	independent_continuant 5804 5810	mutant
+#297	AnnotatorNotes T297	independent_continuant
+T298	CL 5823 5838	red blood cells
+#298	AnnotatorNotes T298	CL:0000232 (erythrocyte)
+T299	GO_CC 5833 5838	cells
+#299	AnnotatorNotes T299	GO:0005623 (cell)
+T300	CL 5843 5852	platelets
+#300	AnnotatorNotes T300	CL:0000233 (platelet)
+T301	PR 5881 5891	annexin A7
+#301	AnnotatorNotes T301	PR:000004080 (annexin A7)
+T302	SO 5921 5928	isoform
+#302	AnnotatorNotes T302	SO:0001060 (sequence_variant)
+T303	CL 5963 5978	red blood cells
+#303	AnnotatorNotes T303	CL:0000232 (erythrocyte)
+T304	GO_CC 5973 5978	cells
+#304	AnnotatorNotes T304	GO:0005623 (cell)
+T305	CL 5985 6000	Red blood cells
+#305	AnnotatorNotes T305	CL:0000232 (erythrocyte)
+T306	GO_CC 5995 6000	cells
+#306	AnnotatorNotes T306	GO:0005623 (cell)
+T307	CHEBI 6072 6076	Ca2+
+#307	AnnotatorNotes T307	CHEBI:29108 (calcium(2+))
+T308	sup 6074 6076	2+
+#308	AnnotatorNotes T308	sup (null)
+T309	GO_BP 6125 6169	release of hemoglobin-containing exovesicles
+#309	AnnotatorNotes T309	"release of .. exovesicles" GO:0006887 (exocytosis)
+T310	CHEBI 6136 6146	hemoglobin
+#310	AnnotatorNotes T310	CHEBI:35143 (hemoglobin)
+T311	CL 6280 6294	red blood cell
+#311	AnnotatorNotes T311	CL:0000232 (erythrocyte)
+T312	GO_CC 6290 6294	cell
+#312	AnnotatorNotes T312	GO:0005623 (cell)
+T313	CL 6351 6366	Red blood cells
+#313	AnnotatorNotes T313	CL:0000232 (erythrocyte)
+T314	GO_CC 6361 6366	cells
+#314	AnnotatorNotes T314	GO:0005623 (cell)
+T315	GO_BP 6393 6403	vesiculate
+#315	AnnotatorNotes T315	GO:0006900 (membrane budding)
+T316	CL 6425 6439	red blood cell
+#316	AnnotatorNotes T316	CL:0000232 (erythrocyte)
+T317	GO_BP 6435 6451	cell destruction
+#317	AnnotatorNotes T317	GO:0008219 (cell death)
+T318	GO_CC 6435 6439	cell
+#318	AnnotatorNotes T318	GO:0005623 (cell)
+T319	GO_CC 6503 6511	vesicles
+#319	AnnotatorNotes T319	GO:0031982 (vesicle)
+T320	CHEBI 6605 6616	cholesterol
+#320	AnnotatorNotes T320	CHEBI:16113 (cholesterol)
+T321	CHEBI 6621 6633	sphingolipid
+#321	AnnotatorNotes T321	CHEBI:26739 (sphingolipids)
+T322	GO_CC 6639 6657	lipid raft domains
+#322	AnnotatorNotes T322	GO:0045121 (lipid raft)
+T323	CHEBI 6639 6644	lipid
+#323	AnnotatorNotes T323	CHEBI:18059 (lipids)
+T324	CHEBI 6683 6691	proteins
+#324	AnnotatorNotes T324	CHEBI:36080 (proteins)
+T325	GO_MF 6697 6717	acetylcholinesterase
+#325	AnnotatorNotes T325	GO:0003990 (acetylcholinesterase activity)
+T326	independent_continuant 6697 6717	acetylcholinesterase
+#326	AnnotatorNotes T326	independent_continuant
+T327	PR 6697 6717	acetylcholinesterase
+#327	AnnotatorNotes T327	PR:000003626 (acetylcholinesterase)
+T328	GO_CC 6719 6731	cell surface
+#328	AnnotatorNotes T328	GO:0009986 (cell surface)
+T329	CL 6719 6723	cell
+#329	AnnotatorNotes T329	CL:0000000 (cell)
+T330	GO_CC 6719 6723	cell
+#330	AnnotatorNotes T330	GO:0005623 (cell)
+T331	CHEBI 6732 6740	proteins
+#331	AnnotatorNotes T331	CHEBI:36080 (proteins)
+T332	GO_MF 6753 6772	complement receptor
+#332	AnnotatorNotes T332	GO:0004875 (complement receptor activity)
+T333	independent_continuant 6753 6772	complement receptor
+#333	AnnotatorNotes T333	independent_continuant
+T334	GO_CC 6782 6792	lipid raft
+#334	AnnotatorNotes T334	GO:0045121 (lipid raft)
+T335	CHEBI 6782 6787	lipid
+#335	AnnotatorNotes T335	CHEBI:18059 (lipids)
+T336	CHEBI 6793 6801	proteins
+#336	AnnotatorNotes T336	CHEBI:36080 (proteins)
+T337	PR 6802 6810	stomatin
+#337	AnnotatorNotes T337	PR:000015763 (erythrocyte band 7 integral membrane protein)
+T338	GO_CC 6844 6856	cytoskeletal
+#338	AnnotatorNotes T338	GO:0005856 (cytoskeleton)
+T339	CHEBI 6857 6864	protein
+#339	AnnotatorNotes T339	CHEBI:36080 (proteins)
+T340	PR 6896 6902	sorcin
+#340	AnnotatorNotes T340	PR:000015619 (sorcin)
+T341	PR 6907 6917	annexin A7
+#341	AnnotatorNotes T341	PR:000004080 (annexin A7)
+T342	GO_CC 6934 6945	lipid rafts
+#342	AnnotatorNotes T342	GO:0045121 (lipid raft)
+T343	CHEBI 6934 6939	lipid
+#343	AnnotatorNotes T343	CHEBI:18059 (lipids)
+T344	CHEBI 6952 6960	proteins
+#344	AnnotatorNotes T344	CHEBI:36080 (proteins)
+T345	GO_BP 7000 7017	vesicle formation
+#345	AnnotatorNotes T345	GO:0006900 (membrane budding)
+T346	GO_CC 7000 7007	vesicle
+#346	AnnotatorNotes T346	GO:0031982 (vesicle)
+T347	CL 7063 7077	red blood cell
+#347	AnnotatorNotes T347	CL:0000232 (erythrocyte)
+T348	GO_CC 7073 7077	cell
+#348	AnnotatorNotes T348	GO:0005623 (cell)
+T349	GO_CC 7083 7095	cytoskeletal
+#349	AnnotatorNotes T349	GO:0005856 (cytoskeleton)
+T350	CHEBI 7130 7142	phospholipid
+#350	AnnotatorNotes T350	CHEBI:16247 (phospholipids)
+T351	GO_CC 7162 7179	cellular membrane
+#351	AnnotatorNotes T351	GO:0005886 (plasma membrane)
+T352	CL 7162 7170	cellular
+#352	AnnotatorNotes T352	CL:0000000 (cell)
+T353	GO_CC 7162 7170	cellular
+#353	AnnotatorNotes T353	GO:0005623 (cell)
+T354	EntrezGene 7191 7201	Annexin A7
+#354	AnnotatorNotes T354	EG:310
+T355	PR 7191 7201	Annexin A7
+#355	AnnotatorNotes T355	PR:000004080 (annexin A7)
+T356	GO_BP 7202 7212	expression
+#356	AnnotatorNotes T356	GO:0010467 (gene expression)
+T357	CL 7216 7231	red blood cells
+#357	AnnotatorNotes T357	CL:0000232 (erythrocyte)
+T358	GO_CC 7226 7231	cells
+#358	AnnotatorNotes T358	GO:0005623 (cell)
+T359	CL 7233 7247	red blood cell
+#359	AnnotatorNotes T359	CL:0000232 (erythrocyte)
+T360	GO_CC 7243 7247	cell
+#360	AnnotatorNotes T360	GO:0005623 (cell)
+T361	CL 7275 7284	platelets
+#361	AnnotatorNotes T361	CL:0000233 (platelet)
+T362	SO 7345 7352	isoform
+#362	AnnotatorNotes T362	SO:0001060 (sequence_variant)
+T363	PR 7356 7366	annexin A7
+#363	AnnotatorNotes T363	PR:000004080 (annexin A7)
+T364	PR 7383 7389	sorcin
+#364	AnnotatorNotes T364	PR:000015619 (sorcin)
+T365	CL 7430 7445	red blood cells
+#365	AnnotatorNotes T365	CL:0000232 (erythrocyte)
+T366	GO_CC 7440 7445	cells
+#366	AnnotatorNotes T366	GO:0005623 (cell)
+T367	GO_CC 7507 7515	membrane
+#367	AnnotatorNotes T367	GO:0016020 (membrane)
+T368	SO 7593 7600	isoform
+#368	AnnotatorNotes T368	SO:0001060 (sequence_variant)
+T369	NCBITaxon 7641 7646	human
+#369	AnnotatorNotes T369	NCBITaxon:9606 (Homo sapiens)
+T370	CL 7647 7662	red blood cells
+#370	AnnotatorNotes T370	CL:0000232 (erythrocyte)
+T371	GO_CC 7657 7662	cells
+#371	AnnotatorNotes T371	GO:0005623 (cell)
+T372	SO 7681 7689	isoforms
+#372	AnnotatorNotes T372	SO:0001060 (sequence_variant)
+T373	SO 7743 7750	isoform
+#373	AnnotatorNotes T373	SO:0001060 (sequence_variant)
+T374	CHEBI 7767 7773	silver
+#374	AnnotatorNotes T374	CHEBI:30512 (silver)
+T375	EntrezGene 7809 7819	annexin A7
+#375	AnnotatorNotes T375	EG:310
+T376	PR 7809 7819	annexin A7
+#376	AnnotatorNotes T376	PR:000004080 (annexin A7)
+T377	SO 7833 7840	peptide
+#377	AnnotatorNotes T377	SO:0001407 (peptidyl)
+T378	SO 7890 7897	isoform
+#378	AnnotatorNotes T378	SO:0001060 (sequence_variant)
+T379	GO_BP 7945 7955	Expression
+#379	AnnotatorNotes T379	GO:0010467 (gene expression)
+T380	EntrezGene 7959 7969	annexin A7
+#380	AnnotatorNotes T380	EG:310
+T381	PR 7959 7969	annexin A7
+#381	AnnotatorNotes T381	PR:000004080 (annexin A7)
+T382	NCBITaxon 7973 7978	human
+#382	AnnotatorNotes T382	NCBITaxon:9606 (Homo sapiens)
+T383	CL 7979 7994	red blood cells
+#383	AnnotatorNotes T383	CL:0000232 (erythrocyte)
+T384	GO_CC 7989 7994	cells
+#384	AnnotatorNotes T384	GO:0005623 (cell)
+T385	NCBITaxon 8003 8008	human
+#385	AnnotatorNotes T385	NCBITaxon:9606 (Homo sapiens)
+T386	CL 8009 8018	platelets
+#386	AnnotatorNotes T386	CL:0000233 (platelet)
+T387	CHEBI 8024 8031	Protein
+#387	AnnotatorNotes T387	CHEBI:36080 (proteins)
+T388	CHEBI 8062 8065	SDS
+#388	AnnotatorNotes T388	CHEBI:8984 (sodium dodecyl sulfate)
+T389	CHEBI 8077 8087	acrylamide
+#389	AnnotatorNotes T389	CHEBI:28619 (acrylamide)
+T390	independent_continuant 8179 8189	peroxidase
+#390	AnnotatorNotes T390	independent_continuant
+T391	GO_MF 8179 8189	peroxidase
+#391	AnnotatorNotes T391	GO:0004601 (peroxidase activity)
+T392	GO_BP 8190 8197	coupled
+#392	AnnotatorNotes T392	GO:0043412 (biopolymer modification)
+T393	GO_CC 8198 8206	antibody
+#393	AnnotatorNotes T393	GO:0019814 (immunoglobulin complex)
+T394	SO 8229 8237	isoforms
+#394	AnnotatorNotes T394	SO:0001060 (sequence_variant)
+T395	CL 8254 8269	red blood cells
+#395	AnnotatorNotes T395	CL:0000232 (erythrocyte)
+T396	GO_CC 8264 8269	cells
+#396	AnnotatorNotes T396	GO:0005623 (cell)
+T397	CL 8274 8283	platelets
+#397	AnnotatorNotes T397	CL:0000233 (platelet)
+T398	SO 8299 8306	isoform
+#398	AnnotatorNotes T398	SO:0001060 (sequence_variant)
+T399	GO_CC 8336 8344	vesicles
+#399	AnnotatorNotes T399	GO:0031982 (vesicle)
+T400	PR 8399 8409	annexin A7
+#400	AnnotatorNotes T400	PR:000004080 (annexin A7)
+T401	GO_CC 8426 8434	membrane
+#401	AnnotatorNotes T401	GO:0016020 (membrane)
+T402	GO_BP 8456 8476	vesiculation process
+#402	AnnotatorNotes T402	GO:0006900 (membrane budding)
+T403	CL 8522 8537	red blood cells
+#403	AnnotatorNotes T403	CL:0000232 (erythrocyte)
+T404	GO_CC 8532 8537	cells
+#404	AnnotatorNotes T404	GO:0005623 (cell)
+T405	EntrezGene 8555 8565	annexin A7
+#405	AnnotatorNotes T405	EG:11750
+T406	PR 8555 8565	annexin A7
+#406	AnnotatorNotes T406	PR:000004080 (annexin A7)
+T407	NCBITaxon 8576 8580	mice
+#407	AnnotatorNotes T407	NCBITaxon:10088 (Mus)
+T408	italic 8582 8587	anxA7
+#408	AnnotatorNotes T408	italic (null)
+T409	PR 8582 8587	anxA7
+#409	AnnotatorNotes T409	PR:000004080 (annexin A7)
+T410	EntrezGene 8582 8587	anxA7
+#410	AnnotatorNotes T410	EG:11750
+T411	sup 8587 8590	-/-
+#411	AnnotatorNotes T411	sup (null)
+T412	GO_BP 8595 8599	form
+#412	AnnotatorNotes T412	GO:0022607 (cellular component assembly)
+T413	NCBITaxon 8736 8741	human
+#413	AnnotatorNotes T413	NCBITaxon:9606 (Homo sapiens)
+T414	EntrezGene 8780 8790	annexin A7
+#414	AnnotatorNotes T414	EG:11750
+T415	PR 8780 8790	annexin A7
+#415	AnnotatorNotes T415	PR:000004080 (annexin A7)
+T416	GO_BP 8848 8856	released
+#416	AnnotatorNotes T416	GO:0006887 (exocytosis)
+T417	CHEBI 8863 8867	Ca2+
+#417	AnnotatorNotes T417	CHEBI:29108 (calcium(2+))
+T418	sup 8865 8867	2+
+#418	AnnotatorNotes T418	sup (null)
+T419	CHEBI 8868 8877	ionophore
+#419	AnnotatorNotes T419	CHEBI:24869 (ionophore)
+T420	independent_continuant 8868 8877	ionophore
+#420	AnnotatorNotes T420	independent_continuant
+T421	GO_MF 8868 8877	ionophore
+#421	AnnotatorNotes T421	GO:0022886 (channel-forming ionophore activity)
+T422	independent_continuant 8905 8927	acetylcholine esterase
+#422	AnnotatorNotes T422	independent_continuant
+T423	PR 8905 8927	acetylcholine esterase
+#423	AnnotatorNotes T423	PR:000003626 (acetylcholinesterase)
+T424	GO_MF 8905 8927	acetylcholine esterase
+#424	AnnotatorNotes T424	GO:0003990 (acetylcholinesterase activity)
+T425	EntrezGene 8905 8927	acetylcholine esterase
+#425	AnnotatorNotes T425	EG:11423
+T426	CHEBI 8905 8918	acetylcholine
+#426	AnnotatorNotes T426	CHEBI:15355 (acetylcholine)
+T427	EntrezGene 8966 8976	Annexin A7
+#427	AnnotatorNotes T427	EG:11750
+T428	PR 8966 8976	Annexin A7
+#428	AnnotatorNotes T428	PR:000004080 (annexin A7)
+T429	GO_CC 8996 9003	vesicle
+#429	AnnotatorNotes T429	GO:0031982 (vesicle)
+T430	SO 9073 9080	isoform
+#430	AnnotatorNotes T430	SO:0001060 (sequence_variant)
+T431	GO_CC 9138 9145	vesicle
+#431	AnnotatorNotes T431	GO:0031982 (vesicle)
+T432	SO 9175 9184	wild type
+#432	AnnotatorNotes T432	SO:0000817 (wild_type)
+T433	CL 9199 9213	red blood cell
+#433	AnnotatorNotes T433	CL:0000232 (erythrocyte)
+T434	GO_CC 9209 9213	cell
+#434	AnnotatorNotes T434	GO:0005623 (cell)
+T435	GO_CC 9214 9222	vesicles
+#435	AnnotatorNotes T435	GO:0031982 (vesicle)
+T436	EntrezGene 9244 9248	AChE
+#436	AnnotatorNotes T436	EG:11423
+T437	PR 9244 9248	AChE
+#437	AnnotatorNotes T437	PR:000003626 (acetylcholinesterase)
+T438	sub 9258 9261	405
+#438	AnnotatorNotes T438	sub (null)
+T439	sub 9284 9287	405
+#439	AnnotatorNotes T439	sub (null)
+T440	SO 9319 9321	wt
+#440	AnnotatorNotes T440	SO:0000817 (wild_type)
+T441	independent_continuant 9319 9321	wt
+#441	AnnotatorNotes T441	independent_continuant
+T442	EntrezGene 9347 9357	annexin A7
+#442	AnnotatorNotes T442	EG:11750
+T443	PR 9347 9357	annexin A7
+#443	AnnotatorNotes T443	PR:000004080 (annexin A7)
+T444	GO_CC 9398 9407	membranes
+#444	AnnotatorNotes T444	GO:0016020 (membrane)
+T445	GO_BP 9439 9463	process of the formation
+#445	AnnotatorNotes T445	"process of .. formation" GO:0022607 (cellular component assembly)
+T446	CL 9467 9481	red blood cell
+#446	AnnotatorNotes T446	CL:0000232 (erythrocyte)
+T447	GO_CC 9477 9481	cell
+#447	AnnotatorNotes T447	GO:0005623 (cell)
+T448	EntrezGene 9530 9536	sorcin
+#448	AnnotatorNotes T448	EG:109552
+T449	PR 9530 9536	sorcin
+#449	AnnotatorNotes T449	PR:000015619 (sorcin)
+T450	SO 9540 9549	wild type
+#450	AnnotatorNotes T450	SO:0000817 (wild_type)
+T451	SO 9554 9560	mutant
+#451	AnnotatorNotes T451	SO:0001059 (sequence_alteration)
+T452	GO_CC 9561 9569	vesicles
+#452	AnnotatorNotes T452	GO:0031982 (vesicle)
+T453	EntrezGene 9588 9594	sorcin
+#453	AnnotatorNotes T453	EG:109552
+T454	PR 9588 9594	sorcin
+#454	AnnotatorNotes T454	PR:000015619 (sorcin)
+T455	SO 9622 9628	mutant
+#455	AnnotatorNotes T455	SO:0001059 (sequence_alteration)
+T456	EntrezGene 9677 9687	annexin A7
+#456	AnnotatorNotes T456	EG:310
+T457	PR 9677 9687	annexin A7
+#457	AnnotatorNotes T457	PR:000004080 (annexin A7)
+T458	EntrezGene 9692 9698	sorcin
+#458	AnnotatorNotes T458	EG:6717
+T459	PR 9692 9698	sorcin
+#459	AnnotatorNotes T459	PR:000015619 (sorcin)
+T460	CL 9727 9742	red blood cells
+#460	AnnotatorNotes T460	CL:0000232 (erythrocyte)
+T461	GO_CC 9737 9742	cells
+#461	AnnotatorNotes T461	GO:0005623 (cell)
+T462	GO_CC 9744 9752	Vesicles
+#462	AnnotatorNotes T462	GO:0031982 (vesicle)
+T463	SO 9758 9767	wild type
+#463	AnnotatorNotes T463	SO:0000817 (wild_type)
+T464	independent_continuant 9758 9767	wild type
+#464	AnnotatorNotes T464	independent_continuant
+T465	SO 9769 9771	wt
+#465	AnnotatorNotes T465	SO:0000817 (wild_type)
+T466	independent_continuant 9769 9771	wt
+#466	AnnotatorNotes T466	independent_continuant
+T467	italic 9777 9782	anxA7
+#467	AnnotatorNotes T467	italic (null)
+T468	PR 9777 9782	anxA7
+#468	AnnotatorNotes T468	PR:000004080 (annexin A7)
+T469	EntrezGene 9777 9782	anxA7
+#469	AnnotatorNotes T469	EG:11750
+T470	sup 9782 9785	-/-
+#470	AnnotatorNotes T470	sup (null)
+T471	SO 9786 9792	mutant
+#471	AnnotatorNotes T471	SO:0001059 (sequence_alteration)
+T472	independent_continuant 9786 9792	mutant
+#472	AnnotatorNotes T472	independent_continuant
+T473	GO_BP 9803 9812	generated
+#473	AnnotatorNotes T473	GO:0022607 (cellular component assembly)
+T474	CHEBI 9818 9822	Ca2+
+#474	AnnotatorNotes T474	CHEBI:29108 (calcium(2+))
+T475	sup 9820 9822	2+
+#475	AnnotatorNotes T475	sup (null)
+T476	CHEBI 9823 9832	ionophore
+#476	AnnotatorNotes T476	CHEBI:24869 (ionophore)
+T477	GO_MF 9823 9832	ionophore
+#477	AnnotatorNotes T477	GO:0022886 (channel-forming ionophore activity)
+T478	independent_continuant 9823 9832	ionophore
+#478	AnnotatorNotes T478	independent_continuant
+T479	PR 9938 9944	sorcin
+#479	AnnotatorNotes T479	PR:000015619 (sorcin)
+T480	GO_CC 9956 9964	antibody
+#480	AnnotatorNotes T480	GO:0019814 (immunoglobulin complex)
+T481	EntrezGene 9978 9988	annexin A7
+#481	AnnotatorNotes T481	EG:11750
+T482	PR 9978 9988	annexin A7
+#482	AnnotatorNotes T482	PR:000004080 (annexin A7)
+T483	EntrezGene 9993 9999	sorcin
+#483	AnnotatorNotes T483	EG:109552
+T484	PR 9993 9999	sorcin
+#484	AnnotatorNotes T484	PR:000015619 (sorcin)
+T485	SO 10046 10053	isoform
+#485	AnnotatorNotes T485	SO:0001060 (sequence_variant)
+T486	EntrezGene 10057 10067	annexin A7
+#486	AnnotatorNotes T486	EG:11750
+T487	PR 10057 10067	annexin A7
+#487	AnnotatorNotes T487	PR:000004080 (annexin A7)
+T488	GO_CC 10127 10135	vesicles
+#488	AnnotatorNotes T488	GO:0031982 (vesicle)
+T489	independent_continuant 10177 10199	acetylcholine esterase
+#489	AnnotatorNotes T489	independent_continuant
+T490	EntrezGene 10177 10199	acetylcholine esterase
+#490	AnnotatorNotes T490	EG:11423
+T491	PR 10177 10199	acetylcholine esterase
+#491	AnnotatorNotes T491	PR:000003626 (acetylcholinesterase)
+T492	GO_MF 10177 10199	acetylcholine esterase
+#492	AnnotatorNotes T492	GO:0003990 (acetylcholinesterase activity)
+T493	CHEBI 10177 10190	acetylcholine
+#493	AnnotatorNotes T493	CHEBI:15355 (acetylcholine)
+T494	NCBITaxon 10210 10215	Human
+#494	AnnotatorNotes T494	NCBITaxon:9606 (Homo sapiens)
+T495	CL 10216 10231	red blood cells
+#495	AnnotatorNotes T495	CL:0000232 (erythrocyte)
+T496	GO_CC 10226 10231	cells
+#496	AnnotatorNotes T496	GO:0005623 (cell)
+T497	GO_BP 10303 10348	distribution of annexin A7 in red blood cells
+#497	AnnotatorNotes T497	"distribution .. in .. cells" GO:0051641 (cellular localization)
+T498	EntrezGene 10319 10329	annexin A7
+#498	AnnotatorNotes T498	EG:310
+T499	PR 10319 10329	annexin A7
+#499	AnnotatorNotes T499	PR:000004080 (annexin A7)
+T500	CL 10333 10348	red blood cells
+#500	AnnotatorNotes T500	CL:0000232 (erythrocyte)
+T501	GO_CC 10343 10348	cells
+#501	AnnotatorNotes T501	GO:0005623 (cell)
+T502	SO 10404 10412	isoforms
+#502	AnnotatorNotes T502	SO:0001060 (sequence_variant)
+T503	GO_CC 10433 10449	soluble fraction
+#503	AnnotatorNotes T503	GO:0005625 (soluble fraction)
+T504	GO_CC 10477 10486	fractions
+#504	AnnotatorNotes T504	GO:0000267 (cell fraction)
+T505	GO_CC 10532 10541	membranes
+#505	AnnotatorNotes T505	GO:0016020 (membrane)
+T506	GO_CC 10549 10558	membranes
+#506	AnnotatorNotes T506	GO:0016020 (membrane)
+T507	GO_CC 10575 10591	plasma membranes
+#507	AnnotatorNotes T507	GO:0005886 (plasma membrane)
+T508	CL 10595 10610	red blood cells
+#508	AnnotatorNotes T508	CL:0000232 (erythrocyte)
+T509	GO_CC 10605 10610	cells
+#509	AnnotatorNotes T509	GO:0005623 (cell)
+T510	GO_CC 10627 10637	organelles
+#510	AnnotatorNotes T510	GO:0043226 (organelle)
+T511	GO_BP 10643 10655	distribution
+#511	AnnotatorNotes T511	GO:0051179 (localization)
+T512	GO_MF 10732 10739	binding
+#512	AnnotatorNotes T512	GO:0005488 (binding)
+T513	EntrezGene 10743 10753	annexin A7
+#513	AnnotatorNotes T513	EG:310
+T514	PR 10743 10753	annexin A7
+#514	AnnotatorNotes T514	PR:000004080 (annexin A7)
+T515	GO_CC 10757 10776	membrane subdomains
+#515	AnnotatorNotes T515	GO:0044425 (membrane part)
+T516	GO_CC 10757 10765	membrane
+#516	AnnotatorNotes T516	GO:0016020 (membrane)
+T517	CHEBI 10797 10802	lipid
+#517	AnnotatorNotes T517	CHEBI:18059 (lipids)
+T518	CHEBI 10806 10811	lipid
+#518	AnnotatorNotes T518	CHEBI:18059 (lipids)
+T519	CHEBI 10812 10819	protein
+#519	AnnotatorNotes T519	CHEBI:36080 (proteins)
+T520	EntrezGene 10877 10883	sorcin
+#520	AnnotatorNotes T520	EG:6717
+T521	PR 10877 10883	sorcin
+#521	AnnotatorNotes T521	PR:000015619 (sorcin)
+T522	GO_BP 10915 10927	distribution
+#522	AnnotatorNotes T522	GO:0051179 (localization)
+T523	GO_BP 10958 10968	segregates
+#523	AnnotatorNotes T523	GO:0051235 (maintenance of localization)
+T524	GO_CC 10974 10982	vesicles
+#524	AnnotatorNotes T524	GO:0031982 (vesicle)
+T525	EntrezGene 11013 11023	annexin A7
+#525	AnnotatorNotes T525	EG:310
+T526	PR 11013 11023	annexin A7
+#526	AnnotatorNotes T526	PR:000004080 (annexin A7)
+T527	CL 11049 11058	platelets
+#527	AnnotatorNotes T527	CL:0000233 (platelet)
+T528	EntrezGene 11063 11073	annexin A7
+#528	AnnotatorNotes T528	EG:310
+T529	PR 11063 11073	annexin A7
+#529	AnnotatorNotes T529	PR:000004080 (annexin A7)
+T530	GO_BP 11074 11084	expression
+#530	AnnotatorNotes T530	GO:0010467 (gene expression)
+T531	SO 11109 11116	isoform
+#531	AnnotatorNotes T531	SO:0001060 (sequence_variant)
+T532	EntrezGene 11153 11163	annexin A7
+#532	AnnotatorNotes T532	EG:310
+T533	PR 11153 11163	annexin A7
+#533	AnnotatorNotes T533	PR:000004080 (annexin A7)
+T534	EntrezGene 11168 11174	sorcin
+#534	AnnotatorNotes T534	EG:6717
+T535	PR 11168 11174	sorcin
+#535	AnnotatorNotes T535	PR:000015619 (sorcin)
+T536	CL 11189 11203	red blood cell
+#536	AnnotatorNotes T536	CL:0000232 (erythrocyte)
+T537	GO_CC 11199 11203	cell
+#537	AnnotatorNotes T537	GO:0005623 (cell)
+T538	GO_CC 11204 11219	plasma membrane
+#538	AnnotatorNotes T538	GO:0005886 (plasma membrane)
+T539	GO_CC 11211 11229	membrane fractions
+#539	AnnotatorNotes T539	GO:0005624 (membrane fraction)
+T540	GO_BP 11231 11236	Lysed
+#540	AnnotatorNotes T540	GO:0019835 (cytolysis)
+T541	NCBITaxon 11237 11242	human
+#541	AnnotatorNotes T541	NCBITaxon:9606 (Homo sapiens)
+T542	CL 11243 11258	red blood cells
+#542	AnnotatorNotes T542	CL:0000232 (erythrocyte)
+T543	GO_CC 11253 11258	cells
+#543	AnnotatorNotes T543	GO:0005623 (cell)
+T544	PR 11466 11472	sorcin
+#544	AnnotatorNotes T544	PR:000015619 (sorcin)
+T545	GO_CC 11484 11492	antibody
+#545	AnnotatorNotes T545	GO:0019814 (immunoglobulin complex)
+T546	EntrezGene 11507 11517	annexin A7
+#546	AnnotatorNotes T546	EG:11750
+T547	PR 11507 11517	annexin A7
+#547	AnnotatorNotes T547	PR:000004080 (annexin A7)
+T548	CL 11526 11540	red blood cell
+#548	AnnotatorNotes T548	CL:0000232 (erythrocyte)
+T549	GO_CC 11536 11540	cell
+#549	AnnotatorNotes T549	GO:0005623 (cell)
+T550	EntrezGene 11579 11589	annexin A7
+#550	AnnotatorNotes T550	EG:11750
+T551	PR 11579 11589	annexin A7
+#551	AnnotatorNotes T551	PR:000004080 (annexin A7)
+T552	CL 11608 11622	red blood cell
+#552	AnnotatorNotes T552	CL:0000232 (erythrocyte)
+T553	GO_CC 11618 11622	cell
+#553	AnnotatorNotes T553	GO:0005623 (cell)
+T554	GO_CC 11623 11631	vesicles
+#554	AnnotatorNotes T554	GO:0031982 (vesicle)
+T555	CHEBI 11679 11686	protein
+#555	AnnotatorNotes T555	CHEBI:36080 (proteins)
+T556	italic 11694 11699	anxA7
+#556	AnnotatorNotes T556	italic (null)
+T557	EntrezGene 11694 11699	anxA7
+#557	AnnotatorNotes T557	EG:11750
+T558	PR 11694 11699	anxA7
+#558	AnnotatorNotes T558	PR:000004080 (annexin A7)
+T559	sup 11699 11702	-/-
+#559	AnnotatorNotes T559	sup (null)
+T560	NCBITaxon 11702 11707	mouse
+#560	AnnotatorNotes T560	NCBITaxon:10088 (Mus)
+T561	CL 11712 11726	red blood cell
+#561	AnnotatorNotes T561	CL:0000232 (erythrocyte)
+T562	GO_CC 11722 11726	cell
+#562	AnnotatorNotes T562	GO:0005623 (cell)
+T563	CL 11827 11832	cells
+#563	AnnotatorNotes T563	CL:0000000 (cell)
+T564	GO_CC 11827 11832	cells
+#564	AnnotatorNotes T564	GO:0005623 (cell)
+T565	italic 11910 11915	anxA7
+#565	AnnotatorNotes T565	italic (null)
+T566	PR 11910 11915	anxA7
+#566	AnnotatorNotes T566	PR:000004080 (annexin A7)
+T567	EntrezGene 11910 11915	anxA7
+#567	AnnotatorNotes T567	EG:11750
+T568	sup 11915 11918	-/-
+#568	AnnotatorNotes T568	sup (null)
+T569	CL 11918 11933	red blood cells
+#569	AnnotatorNotes T569	CL:0000232 (erythrocyte)
+T570	GO_CC 11928 11933	cells
+#570	AnnotatorNotes T570	GO:0005623 (cell)
+T571	CL 11979 11983	cell
+#571	AnnotatorNotes T571	CL:0000000 (cell)
+T572	GO_CC 11979 11983	cell
+#572	AnnotatorNotes T572	GO:0005623 (cell)
+T573	SO 12015 12024	wild type
+#573	AnnotatorNotes T573	SO:0000817 (wild_type)
+T574	independent_continuant 12015 12024	wild type
+#574	AnnotatorNotes T574	independent_continuant
+T575	CL 12230 12234	cell
+#575	AnnotatorNotes T575	CL:0000000 (cell)
+T576	GO_CC 12230 12234	cell
+#576	AnnotatorNotes T576	GO:0005623 (cell)
+T577	CL 12280 12295	red blood cells
+#577	AnnotatorNotes T577	CL:0000232 (erythrocyte)
+T578	GO_CC 12290 12295	cells
+#578	AnnotatorNotes T578	GO:0005623 (cell)
+T579	italic 12301 12306	anxA7
+#579	AnnotatorNotes T579	italic (null)
+T580	PR 12301 12306	anxA7
+#580	AnnotatorNotes T580	PR:000004080 (annexin A7)
+T581	EntrezGene 12301 12306	anxA7
+#581	AnnotatorNotes T581	EG:11750
+T582	sup 12306 12309	-/-
+#582	AnnotatorNotes T582	sup (null)
+T583	SO 12310 12316	mutant
+#583	AnnotatorNotes T583	SO:0001059 (sequence_alteration)
+T584	SO 12325 12334	wild type
+#584	AnnotatorNotes T584	SO:0000817 (wild_type)
+T585	NCBITaxon 12335 12339	mice
+#585	AnnotatorNotes T585	NCBITaxon:10088 (Mus)
+T586	CL 12354 12362	cellular
+#586	AnnotatorNotes T586	CL:0000000 (cell)
+T587	GO_CC 12354 12362	cellular
+#587	AnnotatorNotes T587	GO:0005623 (cell)
+T588	CL 12513 12527	red blood cell
+#588	AnnotatorNotes T588	CL:0000232 (erythrocyte)
+T589	GO_CC 12523 12527	cell
+#589	AnnotatorNotes T589	GO:0005623 (cell)
+T590	GO_BP 12577 12584	passage
+#590	AnnotatorNotes T590	GO:0051234 (establishment of localization)
+T591	GO_CC 12657 12665	membrane
+#591	AnnotatorNotes T591	GO:0016020 (membrane)
+T592	CHEBI 12666 12671	lipid
+#592	AnnotatorNotes T592	CHEBI:18059 (lipids)
+T593	GO_CC 12706 12718	cytoskeleton
+#593	AnnotatorNotes T593	GO:0005856 (cytoskeleton)
+T594	PR 12730 12740	annexin A7
+#594	AnnotatorNotes T594	PR:000004080 (annexin A7)
+T595	GO_CC 12831 12844	extracellular
+#595	AnnotatorNotes T595	GO:0005576 (extracellular region)
+T596	CHEBI 12845 12850	ionic
+#596	AnnotatorNotes T596	CHEBI:24870 (ions)
+T597	CL 12903 12917	red blood cell
+#597	AnnotatorNotes T597	CL:0000232 (erythrocyte)
+T598	GO_CC 12913 12917	cell
+#598	AnnotatorNotes T598	GO:0005623 (cell)
+T599	CHEBI 12951 12966	sodium chloride
+#599	AnnotatorNotes T599	CHEBI:26710 (sodium chloride)
+T600	CHEBI 12951 12957	sodium
+#600	AnnotatorNotes T600	CHEBI:26708 (sodium)
+T601	CHEBI 12958 12966	chloride
+#601	AnnotatorNotes T601	CHEBI:17996 (chloride)
+T602	GO_BP 12990 13004	cellular lysis
+#602	AnnotatorNotes T602	GO:0019835 (cytolysis)
+T603	CL 12990 12998	cellular
+#603	AnnotatorNotes T603	CL:0000000 (cell)
+T604	GO_CC 12990 12998	cellular
+#604	AnnotatorNotes T604	GO:0005623 (cell)
+T605	GO_BP 13050 13089	lysis (maximal resistance) of the cells
+#605	AnnotatorNotes T605	"lysis .. of .. cells" GO:0019835 (cytolysis)
+T606	CL 13084 13089	cells
+#606	AnnotatorNotes T606	CL:0000000 (cell)
+T607	GO_CC 13084 13089	cells
+#607	AnnotatorNotes T607	GO:0005623 (cell)
+T608	GO_BP 13185 13204	cellular metabolism
+#608	AnnotatorNotes T608	GO:0044237 (cellular metabolic process)
+T609	CL 13185 13193	cellular
+#609	AnnotatorNotes T609	CL:0000000 (cell)
+T610	GO_CC 13185 13193	cellular
+#610	AnnotatorNotes T610	GO:0005623 (cell)
+T611	GO_CC 13221 13234	intracellular
+#611	AnnotatorNotes T611	GO:0005622 (intracellular)
+T612	CHEBI 13235 13238	ion
+#612	AnnotatorNotes T612	CHEBI:24870 (ions)
+T613	GO_BP 13247 13251	Aged
+#613	AnnotatorNotes T613	GO:0007568 (aging)
+T614	CL 13252 13267	red blood cells
+#614	AnnotatorNotes T614	CL:0000232 (erythrocyte)
+T615	GO_CC 13262 13267	cells
+#615	AnnotatorNotes T615	GO:0005623 (cell)
+T616	CL 13360 13375	red blood cells
+#616	AnnotatorNotes T616	CL:0000232 (erythrocyte)
+T617	GO_CC 13370 13375	cells
+#617	AnnotatorNotes T617	GO:0005623 (cell)
+T618	GO_CC 13389 13397	membrane
+#618	AnnotatorNotes T618	GO:0016020 (membrane)
+T619	EntrezGene 13438 13448	annexin A7
+#619	AnnotatorNotes T619	EG:11750
+T620	PR 13438 13448	annexin A7
+#620	AnnotatorNotes T620	PR:000004080 (annexin A7)
+T621	CL 13459 13474	red blood cells
+#621	AnnotatorNotes T621	CL:0000232 (erythrocyte)
+T622	GO_CC 13469 13474	cells
+#622	AnnotatorNotes T622	GO:0005623 (cell)
+T623	SO 13514 13523	wild type
+#623	AnnotatorNotes T623	SO:0000817 (wild_type)
+T624	CL 13524 13529	cells
+#624	AnnotatorNotes T624	CL:0000000 (cell)
+T625	GO_CC 13524 13529	cells
+#625	AnnotatorNotes T625	GO:0005623 (cell)
+T626	CL 13573 13578	cells
+#626	AnnotatorNotes T626	CL:0000000 (cell)
+T627	GO_CC 13573 13578	cells
+#627	AnnotatorNotes T627	GO:0005623 (cell)
+T628	CHEBI 13603 13607	NaCl
+#628	AnnotatorNotes T628	CHEBI:26710 (sodium chloride)
+T629	SO 13635 13644	wild type
+#629	AnnotatorNotes T629	SO:0000817 (wild_type)
+T630	CL 13645 13650	cells
+#630	AnnotatorNotes T630	CL:0000000 (cell)
+T631	GO_CC 13645 13650	cells
+#631	AnnotatorNotes T631	GO:0005623 (cell)
+T632	CHEBI 13691 13695	NaCl
+#632	AnnotatorNotes T632	CHEBI:26710 (sodium chloride)
+T633	CHEBI 13734 13738	NaCl
+#633	AnnotatorNotes T633	CHEBI:26710 (sodium chloride)
+T634	SO 13743 13752	wild type
+#634	AnnotatorNotes T634	SO:0000817 (wild_type)
+T635	CL 13753 13758	cells
+#635	AnnotatorNotes T635	CL:0000000 (cell)
+T636	GO_CC 13753 13758	cells
+#636	AnnotatorNotes T636	GO:0005623 (cell)
+T637	CL 13840 13845	cells
+#637	AnnotatorNotes T637	CL:0000000 (cell)
+T638	GO_CC 13840 13845	cells
+#638	AnnotatorNotes T638	GO:0005623 (cell)
+T639	CHEBI 13890 13894	NaCl
+#639	AnnotatorNotes T639	CHEBI:26710 (sodium chloride)
+T640	CL 13951 13965	red blood cell
+#640	AnnotatorNotes T640	CL:0000232 (erythrocyte)
+T641	GO_CC 13961 13965	cell
+#641	AnnotatorNotes T641	GO:0005623 (cell)
+T642	GO_CC 13966 13974	membrane
+#642	AnnotatorNotes T642	GO:0016020 (membrane)
+T643	EntrezGene 14033 14043	annexin A7
+#643	AnnotatorNotes T643	EG:11750
+T644	PR 14033 14043	annexin A7
+#644	AnnotatorNotes T644	PR:000004080 (annexin A7)
+T645	GO_CC 14051 14059	membrane
+#645	AnnotatorNotes T645	GO:0016020 (membrane)
+T646	CL 14157 14172	red blood cells
+#646	AnnotatorNotes T646	CL:0000232 (erythrocyte)
+T647	GO_CC 14167 14172	cells
+#647	AnnotatorNotes T647	GO:0005623 (cell)
+T648	GO_CC 14279 14287	membrane
+#648	AnnotatorNotes T648	GO:0016020 (membrane)
+T649	GO_BP 14301 14306	lysis
+#649	AnnotatorNotes T649	GO:0019835 (cytolysis)
+T650	CL 14546 14561	red blood cells
+#650	AnnotatorNotes T650	CL:0000232 (erythrocyte)
+T651	GO_CC 14556 14561	cells
+#651	AnnotatorNotes T651	GO:0005623 (cell)
+T652	CL 14603 14618	red blood cells
+#652	AnnotatorNotes T652	CL:0000232 (erythrocyte)
+T653	GO_CC 14613 14618	cells
+#653	AnnotatorNotes T653	GO:0005623 (cell)
+T654	SO 14624 14633	wild type
+#654	AnnotatorNotes T654	SO:0000817 (wild_type)
+T655	italic 14638 14643	anxA7
+#655	AnnotatorNotes T655	italic (null)
+T656	PR 14638 14643	anxA7
+#656	AnnotatorNotes T656	PR:000004080 (annexin A7)
+T657	EntrezGene 14638 14643	anxA7
+#657	AnnotatorNotes T657	EG:11750
+T658	sup 14643 14646	-/-
+#658	AnnotatorNotes T658	sup (null)
+T659	SO 14647 14653	mutant
+#659	AnnotatorNotes T659	SO:0001059 (sequence_alteration)
+T660	NCBITaxon 14654 14658	mice
+#660	AnnotatorNotes T660	NCBITaxon:10088 (Mus)
+T661	GO_CC 14706 14719	extracellular
+#661	AnnotatorNotes T661	GO:0005576 (extracellular region)
+T662	CHEBI 14720 14725	ionic
+#662	AnnotatorNotes T662	CHEBI:24870 (ions)
+T663	CL 14777 14791	red blood cell
+#663	AnnotatorNotes T663	CL:0000232 (erythrocyte)
+T664	GO_CC 14787 14791	cell
+#664	AnnotatorNotes T664	GO:0005623 (cell)
+T665	CHEBI 14823 14838	sodium chloride
+#665	AnnotatorNotes T665	CHEBI:26710 (sodium chloride)
+T666	CHEBI 14823 14829	sodium
+#666	AnnotatorNotes T666	CHEBI:26708 (sodium)
+T667	CHEBI 14830 14838	chloride
+#667	AnnotatorNotes T667	CHEBI:17996 (chloride)
+T668	GO_BP 14862 14876	cellular lysis
+#668	AnnotatorNotes T668	GO:0019835 (cytolysis)
+T669	CL 14862 14870	cellular
+#669	AnnotatorNotes T669	CL:0000000 (cell)
+T670	GO_CC 14862 14870	cellular
+#670	AnnotatorNotes T670	GO:0005623 (cell)
+T671	GO_BP 14922 14968	lysis (maximal resistance) of a red blood cell
+#671	AnnotatorNotes T671	"lysis .. of .. cell" GO:0019835 (cytolysis)
+T672	CL 14954 14968	red blood cell
+#672	AnnotatorNotes T672	CL:0000232 (erythrocyte)
+T673	GO_CC 14964 14968	cell
+#673	AnnotatorNotes T673	GO:0005623 (cell)
+T674	EntrezGene 14996 15006	annexin A7
+#674	AnnotatorNotes T674	EG:11750
+T675	PR 14996 15006	annexin A7
+#675	AnnotatorNotes T675	PR:000004080 (annexin A7)
+T676	CL 15017 15032	red blood cells
+#676	AnnotatorNotes T676	CL:0000232 (erythrocyte)
+T677	GO_CC 15027 15032	cells
+#677	AnnotatorNotes T677	GO:0005623 (cell)
+T678	SO 15083 15092	wild type
+#678	AnnotatorNotes T678	SO:0000817 (wild_type)
+T679	independent_continuant 15083 15092	wild type
+#679	AnnotatorNotes T679	independent_continuant
+T680	EntrezGene 15140 15150	annexin A7
+#680	AnnotatorNotes T680	EG:11750
+T681	PR 15140 15150	annexin A7
+#681	AnnotatorNotes T681	PR:000004080 (annexin A7)
+T682	CL 15179 15194	red blood cells
+#682	AnnotatorNotes T682	CL:0000232 (erythrocyte)
+T683	GO_CC 15189 15194	cells
+#683	AnnotatorNotes T683	GO:0005623 (cell)
+T684	GO_MF 15249 15281	binding of annexin A7 to F-actin
+#684	AnnotatorNotes T684	"binding .. to F-actin" GO:0051015 (actin filament binding)
+T685	EntrezGene 15260 15270	annexin A7
+#685	AnnotatorNotes T685	EG:11750
+T686	PR 15260 15270	annexin A7
+#686	AnnotatorNotes T686	PR:000004080 (annexin A7)
+T687	GO_CC 15342 15350	membrane
+#687	AnnotatorNotes T687	GO:0016020 (membrane)
+T688	GO_BP 15384 15399	ion homeostasis
+#688	AnnotatorNotes T688	GO:0050801 (ion homeostasis)
+T689	CHEBI 15384 15387	ion
+#689	AnnotatorNotes T689	CHEBI:24870 (ions)
+T690	EntrezGene 15414 15424	annexin A7
+#690	AnnotatorNotes T690	EG:11750
+T691	PR 15414 15424	annexin A7
+#691	AnnotatorNotes T691	PR:000004080 (annexin A7)
+T692	GO_BP 15441 15452	haemostasis
+#692	AnnotatorNotes T692	GO:0007599 (hemostasis)
+T693	CL 15496 15500	cell
+#693	AnnotatorNotes T693	CL:0000000 (cell)
+T694	GO_CC 15496 15500	cell
+#694	AnnotatorNotes T694	GO:0005623 (cell)
+T695	NCBITaxon 15605 15611	murine
+#695	AnnotatorNotes T695	NCBITaxon:39107 (Murinae)
+T696	CL 15638 15648	leukocytes
+#696	AnnotatorNotes T696	CL:0000738 (leukocyte)
+T697	CL 15650 15665	red blood cells
+#697	AnnotatorNotes T697	CL:0000232 (erythrocyte)
+T698	GO_CC 15660 15665	cells
+#698	AnnotatorNotes T698	GO:0005623 (cell)
+T699	CHEBI 15667 15678	haemoglobin
+#699	AnnotatorNotes T699	CHEBI:35143 (hemoglobin)
+T700	CL 15706 15714	cellular
+#700	AnnotatorNotes T700	CL:0000000 (cell)
+T701	GO_CC 15706 15714	cellular
+#701	AnnotatorNotes T701	GO:0005623 (cell)
+T702	CL 15728 15736	cellular
+#702	AnnotatorNotes T702	CL:0000000 (cell)
+T703	GO_CC 15728 15736	cellular
+#703	AnnotatorNotes T703	GO:0005623 (cell)
+T704	CHEBI 15737 15748	haemoglobin
+#704	AnnotatorNotes T704	CHEBI:35143 (hemoglobin)
+T705	CL 15755 15763	cellular
+#705	AnnotatorNotes T705	CL:0000000 (cell)
+T706	GO_CC 15755 15763	cellular
+#706	AnnotatorNotes T706	GO:0005623 (cell)
+T707	CHEBI 15764 15775	haemoglobin
+#707	AnnotatorNotes T707	CHEBI:35143 (hemoglobin)
+T708	CL 15791 15800	platelets
+#708	AnnotatorNotes T708	CL:0000233 (platelet)
+T709	CL 15802 15814	neutrophiles
+#709	AnnotatorNotes T709	CL:0000775 (neutrophil)
+T710	CL 15816 15827	lymphocytes
+#710	AnnotatorNotes T710	CL:0000542 (lymphocyte)
+T711	CL 15829 15838	monocytes
+#711	AnnotatorNotes T711	CL:0000576 (monocyte)
+T712	CL 15840 15852	eosinophiles
+#712	AnnotatorNotes T712	CL:0000771 (eosinophil)
+T713	CL 15857 15867	basophiles
+#713	AnnotatorNotes T713	CL:0000767 (basophil)
+T714	CL 15929 15937	platelet
+#714	AnnotatorNotes T714	CL:0000233 (platelet)
+T715	CL 16019 16027	platelet
+#715	AnnotatorNotes T715	CL:0000233 (platelet)
+T716	SO 16040 16049	wild type
+#716	AnnotatorNotes T716	SO:0000817 (wild_type)
+T717	italic 16054 16059	anxA7
+#717	AnnotatorNotes T717	italic (null)
+T718	EntrezGene 16054 16059	anxA7
+#718	AnnotatorNotes T718	EG:11750
+T719	PR 16054 16059	anxA7
+#719	AnnotatorNotes T719	PR:000004080 (annexin A7)
+T720	sup 16059 16062	-/-
+#720	AnnotatorNotes T720	sup (null)
+T721	SO 16063 16069	mutant
+#721	AnnotatorNotes T721	SO:0001059 (sequence_alteration)
+T722	NCBITaxon 16070 16074	mice
+#722	AnnotatorNotes T722	NCBITaxon:10088 (Mus)
+T723	sup 16101 16102	3
+#723	AnnotatorNotes T723	sup (null)
+T724	sup 16118 16119	3
+#724	AnnotatorNotes T724	sup (null)
+T725	CL 16142 16150	platelet
+#725	AnnotatorNotes T725	CL:0000233 (platelet)
+T726	NCBITaxon 16171 16175	mice
+#726	AnnotatorNotes T726	NCBITaxon:10088 (Mus)
+T727	sub 16216 16225	knock out
+#727	AnnotatorNotes T727	sub (null)
+T728	sub 16234 16243	wild type
+#728	AnnotatorNotes T728	sub (null)
+T729	independent_continuant 16234 16243	wild type
+#729	AnnotatorNotes T729	independent_continuant
+T730	SO 16234 16243	wild type
+#730	AnnotatorNotes T730	SO:0000817 (wild_type)
+T731	CL 16266 16274	platelet
+#731	AnnotatorNotes T731	CL:0000233 (platelet)
+T732	NCBITaxon 16316 16322	humans
+#732	AnnotatorNotes T732	NCBITaxon:9606 (Homo sapiens)
+T733	CL 16324 16332	platelet
+#733	AnnotatorNotes T733	CL:0000233 (platelet)
+T734	italic 16506 16511	anxA7
+#734	AnnotatorNotes T734	italic (null)
+T735	PR 16506 16511	anxA7
+#735	AnnotatorNotes T735	PR:000004080 (annexin A7)
+T736	EntrezGene 16506 16511	anxA7
+#736	AnnotatorNotes T736	EG:11750
+T737	sup 16511 16514	-/-
+#737	AnnotatorNotes T737	sup (null)
+T738	CL 16567 16575	platelet
+#738	AnnotatorNotes T738	CL:0000233 (platelet)
+T739	CL 16630 16638	platelet
+#739	AnnotatorNotes T739	CL:0000233 (platelet)
+T740	GO_BP 16652 16671	Platelet activation
+#740	AnnotatorNotes T740	GO:0030168 (platelet activation)
+T741	CL 16652 16660	Platelet
+#741	AnnotatorNotes T741	CL:0000233 (platelet)
+T742	GO_BP 16744 16753	activated
+#742	AnnotatorNotes T742	GO:0001775 (cell activation)
+T743	CL 16764 16769	cells
+#743	AnnotatorNotes T743	CL:0000000 (cell)
+T744	GO_CC 16764 16769	cells
+#744	AnnotatorNotes T744	GO:0005623 (cell)
+T745	GO_CC 16775 16785	pseudopods
+#745	AnnotatorNotes T745	GO:0031143 (pseudopodium)
+T746	GO_CC 16824 16836	cytoskeletal
+#746	AnnotatorNotes T746	GO:0005856 (cytoskeleton)
+T747	GO_BP 16866 16875	activated
+#747	AnnotatorNotes T747	GO:0001775 (cell activation)
+T748	CL 16876 16881	cells
+#748	AnnotatorNotes T748	CL:0000000 (cell)
+T749	GO_CC 16876 16881	cells
+#749	AnnotatorNotes T749	GO:0005623 (cell)
+T750	GO_BP 16882 16886	form
+#750	AnnotatorNotes T750	GO:0032502 (developmental process)
+T751	GO_BP 16898 16908	recruiting
+#751	AnnotatorNotes T751	GO:0051234 (establishment of localization)
+T752	CL 16920 16925	cells
+#752	AnnotatorNotes T752	CL:0000000 (cell)
+T753	GO_CC 16920 16925	cells
+#753	AnnotatorNotes T753	GO:0005623 (cell)
+T754	GO_BP 17039 17058	platelet activation
+#754	AnnotatorNotes T754	GO:0030168 (platelet activation)
+T755	CL 17039 17047	platelet
+#755	AnnotatorNotes T755	CL:0000233 (platelet)
+T756	CHEBI 17098 17106	cofactor
+#756	AnnotatorNotes T756	CHEBI:23357 (cofactor)
+T757	GO_BP 17196 17215	platelet initiation
+#757	AnnotatorNotes T757	GO:0030168 (platelet activation)
+T758	CL 17196 17204	platelet
+#758	AnnotatorNotes T758	CL:0000233 (platelet)
+T759	sub 17231 17240	knock out
+#759	AnnotatorNotes T759	sub (null)
+T760	sub 17249 17258	wild type
+#760	AnnotatorNotes T760	sub (null)
+T761	SO 17249 17258	wild type
+#761	AnnotatorNotes T761	SO:0000817 (wild_type)
+T762	independent_continuant 17249 17258	wild type
+#762	AnnotatorNotes T762	independent_continuant
+T763	EntrezGene 17274 17284	Annexin A7
+#763	AnnotatorNotes T763	EG:11750
+T764	PR 17274 17284	Annexin A7
+#764	AnnotatorNotes T764	PR:000004080 (annexin A7)
+T765	CL 17295 17304	platelets
+#765	AnnotatorNotes T765	CL:0000233 (platelet)
+T766	NCBITaxon 17396 17401	human
+#766	AnnotatorNotes T766	NCBITaxon:9606 (Homo sapiens)
+T767	CL 17402 17411	platelets
+#767	AnnotatorNotes T767	CL:0000233 (platelet)
+T768	NCBITaxon 17464 17474	individual
+#768	AnnotatorNotes T768	NCBITaxon:1 (root)
+T769	EntrezGene 17482 17503	von Willebrand factor
+#769	AnnotatorNotes T769	EG:7450
+T770	PR 17482 17503	von Willebrand factor
+#770	AnnotatorNotes T770	PR:000017364 (von Willebrand factor)
+T771	NCBITaxon 17625 17630	mouse
+#771	AnnotatorNotes T771	NCBITaxon:10088 (Mus)
+T772	CL 17631 17640	platelets
+#772	AnnotatorNotes T772	CL:0000233 (platelet)
+T773	italic 17645 17650	anxA7
+#773	AnnotatorNotes T773	italic (null)
+T774	PR 17645 17650	anxA7
+#774	AnnotatorNotes T774	PR:000004080 (annexin A7)
+T775	EntrezGene 17645 17650	anxA7
+#775	AnnotatorNotes T775	EG:11750
+T776	sup 17650 17653	-/-
+#776	AnnotatorNotes T776	sup (null)
+T777	CL 17653 17662	platelets
+#777	AnnotatorNotes T777	CL:0000233 (platelet)
+T778	NCBITaxon 17690 17696	murine
+#778	AnnotatorNotes T778	NCBITaxon:39107 (Murinae)
+T779	CL 17697 17706	platelets
+#779	AnnotatorNotes T779	CL:0000233 (platelet)
+T780	GO_BP 17707 17716	responded
+#780	AnnotatorNotes T780	GO:0050896 (response to stimulus)
+T781	CHEBI 17747 17755	chemical
+#781	AnnotatorNotes T781	CHEBI:36357 (polyatomic entities)
+T782	NCBITaxon 17764 17769	human
+#782	AnnotatorNotes T782	NCBITaxon:9606 (Homo sapiens)
+T783	CL 17770 17779	platelets
+#783	AnnotatorNotes T783	CL:0000233 (platelet)
+T784	CL 17814 17822	Platelet
+#784	AnnotatorNotes T784	CL:0000233 (platelet)
+T785	CL 17847 17855	platelet
+#785	AnnotatorNotes T785	CL:0000233 (platelet)
+T786	EntrezGene 17871 17881	annexin A7
+#786	AnnotatorNotes T786	EG:11750
+T787	PR 17871 17881	annexin A7
+#787	AnnotatorNotes T787	PR:000004080 (annexin A7)
+T788	SO 17896 17905	wild type
+#788	AnnotatorNotes T788	SO:0000817 (wild_type)
+T789	NCBITaxon 17906 17910	mice
+#789	AnnotatorNotes T789	NCBITaxon:10088 (Mus)
+T790	CL 18072 18080	platelet
+#790	AnnotatorNotes T790	CL:0000233 (platelet)
+T791	NCBITaxon 18264 18270	murine
+#791	AnnotatorNotes T791	NCBITaxon:39107 (Murinae)
+T792	GO_BP 18338 18357	platelet initiation
+#792	AnnotatorNotes T792	GO:0030168 (platelet activation)
+T793	CL 18338 18346	platelet
+#793	AnnotatorNotes T793	CL:0000233 (platelet)
+T794	SO 18363 18369	mutant
+#794	AnnotatorNotes T794	SO:0001059 (sequence_alteration)
+T795	independent_continuant 18363 18369	mutant
+#795	AnnotatorNotes T795	independent_continuant
+T796	sub 18429 18438	knock out
+#796	AnnotatorNotes T796	sub (null)
+T797	sub 18447 18456	wild type
+#797	AnnotatorNotes T797	sub (null)
+T798	SO 18447 18456	wild type
+#798	AnnotatorNotes T798	SO:0000817 (wild_type)
+T799	independent_continuant 18447 18456	wild type
+#799	AnnotatorNotes T799	independent_continuant
+T800	sub 18468 18477	knock out
+#800	AnnotatorNotes T800	sub (null)
+T801	sub 18506 18515	wild type
+#801	AnnotatorNotes T801	sub (null)
+T802	independent_continuant 18506 18515	wild type
+#802	AnnotatorNotes T802	independent_continuant
+T803	SO 18506 18515	wild type
+#803	AnnotatorNotes T803	SO:0000817 (wild_type)
+T804	sub 18554 18563	knock out
+#804	AnnotatorNotes T804	sub (null)
+T805	sub 18601 18610	wild type
+#805	AnnotatorNotes T805	sub (null)
+T806	independent_continuant 18601 18610	wild type
+#806	AnnotatorNotes T806	independent_continuant
+T807	SO 18601 18610	wild type
+#807	AnnotatorNotes T807	SO:0000817 (wild_type)
+T808	NCBITaxon 18635 18641	Murine
+#808	AnnotatorNotes T808	NCBITaxon:39107 (Murinae)
+T809	CL 18642 18651	platelets
+#809	AnnotatorNotes T809	CL:0000233 (platelet)
+T810	GO_BP 18652 18657	react
+#810	AnnotatorNotes T810	GO:0050896 (response to stimulus)
+T811	CHEBI 18688 18696	chemical
+#811	AnnotatorNotes T811	CHEBI:36357 (polyatomic entities)
+T812	NCBITaxon 18735 18740	human
+#812	AnnotatorNotes T812	NCBITaxon:9606 (Homo sapiens)
+T813	CL 18741 18750	platelets
+#813	AnnotatorNotes T813	CL:0000233 (platelet)
+T814	CL 18787 18795	platelet
+#814	AnnotatorNotes T814	CL:0000233 (platelet)
+T815	NCBITaxon 18825 18830	human
+#815	AnnotatorNotes T815	NCBITaxon:9606 (Homo sapiens)
+T816	CL 18831 18840	platelets
+#816	AnnotatorNotes T816	CL:0000233 (platelet)
+T817	PR 18899 18909	Annexin A7
+#817	AnnotatorNotes T817	PR:000004080 (annexin A7)
+T818	GO_BP 18939 18953	vesicle fusion
+#818	AnnotatorNotes T818	GO:0006906 (vesicle fusion)
+T819	GO_CC 18939 18946	vesicle
+#819	AnnotatorNotes T819	GO:0031982 (vesicle)
+T820	GO_BP 18961 18971	regulating
+#820	AnnotatorNotes T820	GO:0065007 (biological regulation)
+T821	GO_CC 18988 19004	membrane domains
+#821	AnnotatorNotes T821	GO:0044425 (membrane part)
+T822	GO_CC 18988 18996	membrane
+#822	AnnotatorNotes T822	GO:0016020 (membrane)
+T823	CHEBI 19014 19021	protein
+#823	AnnotatorNotes T823	CHEBI:36080 (proteins)
+T824	GO_BP 19031 19040	localized
+#824	AnnotatorNotes T824	GO:0051179 (localization)
+T825	GO_CC 19048 19063	plasma membrane
+#825	AnnotatorNotes T825	GO:0005886 (plasma membrane)
+T826	GO_CC 19124 19131	cytosol
+#826	AnnotatorNotes T826	GO:0005829 (cytosol)
+T827	GO_CC 19165 19172	vesicle
+#827	AnnotatorNotes T827	GO:0031982 (vesicle)
+T828	GO_BP 19195 19207	distribution
+#828	AnnotatorNotes T828	GO:0051179 (localization)
+T829	CL 19251 19255	cell
+#829	AnnotatorNotes T829	CL:0000000 (cell)
+T830	GO_CC 19251 19255	cell
+#830	AnnotatorNotes T830	GO:0005623 (cell)
+T831	GO_BP 19300 19314	differentiated
+#831	AnnotatorNotes T831	GO:0030154 (cell differentiation)
+T832	CL 19315 19320	cells
+#832	AnnotatorNotes T832	CL:0000000 (cell)
+T833	GO_CC 19315 19320	cells
+#833	AnnotatorNotes T833	GO:0005623 (cell)
+T834	GO_BP 19322 19332	expression
+#834	AnnotatorNotes T834	GO:0010467 (gene expression)
+T835	SO 19386 19394	isoforms
+#835	AnnotatorNotes T835	SO:0001060 (sequence_variant)
+T836	GO_BP 19404 19413	expressed
+#836	AnnotatorNotes T836	GO:0010467 (gene expression)
+T837	CL 19426 19441	Red blood cells
+#837	AnnotatorNotes T837	CL:0000232 (erythrocyte)
+T838	GO_CC 19436 19441	cells
+#838	AnnotatorNotes T838	GO:0005623 (cell)
+T839	PR 19478 19488	annexin A7
+#839	AnnotatorNotes T839	PR:000004080 (annexin A7)
+T840	SO 19531 19538	isoform
+#840	AnnotatorNotes T840	SO:0001060 (sequence_variant)
+T841	GO_MF 19557 19564	binding
+#841	AnnotatorNotes T841	GO:0005488 (binding)
+T842	PR 19573 19579	sorcin
+#842	AnnotatorNotes T842	PR:000015619 (sorcin)
+T843	SO 19622 19629	isoform
+#843	AnnotatorNotes T843	SO:0001060 (sequence_variant)
+T844	CL 19646 19661	red blood cells
+#844	AnnotatorNotes T844	CL:0000232 (erythrocyte)
+T845	GO_CC 19656 19661	cells
+#845	AnnotatorNotes T845	GO:0005623 (cell)
+T846	CL 19677 19682	cells
+#846	AnnotatorNotes T846	CL:0000000 (cell)
+T847	GO_CC 19677 19682	cells
+#847	AnnotatorNotes T847	GO:0005623 (cell)
+T848	SO 19700 19707	isoform
+#848	AnnotatorNotes T848	SO:0001060 (sequence_variant)
+T849	PR 19765 19775	annexin A7
+#849	AnnotatorNotes T849	PR:000004080 (annexin A7)
+T850	CL 19779 19794	red blood cells
+#850	AnnotatorNotes T850	CL:0000232 (erythrocyte)
+T851	GO_CC 19789 19794	cells
+#851	AnnotatorNotes T851	GO:0005623 (cell)
+T852	PR 19818 19828	annexin A7
+#852	AnnotatorNotes T852	PR:000004080 (annexin A7)
+T853	PR 19833 19839	sorcin
+#853	AnnotatorNotes T853	PR:000015619 (sorcin)
+T854	GO_CC 19857 19865	membrane
+#854	AnnotatorNotes T854	GO:0016020 (membrane)
+T855	GO_BP 19895 19901	formed
+#855	AnnotatorNotes T855	GO:0022607 (cellular component assembly)
+T856	CL 19907 19922	red blood cells
+#856	AnnotatorNotes T856	CL:0000232 (erythrocyte)
+T857	GO_CC 19917 19922	cells
+#857	AnnotatorNotes T857	GO:0005623 (cell)
+T858	GO_CC 19987 19995	membrane
+#858	AnnotatorNotes T858	GO:0016020 (membrane)
+T859	GO_BP 20030 20050	vesiculation process
+#859	AnnotatorNotes T859	GO:0006900 (membrane budding)
+T860	CHEBI 20087 20100	sphingolipids
+#860	AnnotatorNotes T860	CHEBI:26739 (sphingolipids)
+T861	CHEBI 20105 20116	cholesterol
+#861	AnnotatorNotes T861	CHEBI:16113 (cholesterol)
+T862	GO_CC 20145 20153	membrane
+#862	AnnotatorNotes T862	GO:0016020 (membrane)
+T863	CHEBI 20167 20180	phospholipids
+#863	AnnotatorNotes T863	CHEBI:16247 (phospholipids)
+T864	CHEBI 20185 20196	cholesterol
+#864	AnnotatorNotes T864	CHEBI:16113 (cholesterol)
+T865	CHEBI 20246 20254	proteins
+#865	AnnotatorNotes T865	CHEBI:36080 (proteins)
+T866	GO_CC 20291 20300	membranes
+#866	AnnotatorNotes T866	GO:0016020 (membrane)
+T867	CHEBI 20394 20401	sucrose
+#867	AnnotatorNotes T867	CHEBI:17992 (sucrose)
+T868	PR 20473 20483	annexin A7
+#868	AnnotatorNotes T868	PR:000004080 (annexin A7)
+T869	GO_CC 20493 20501	membrane
+#869	AnnotatorNotes T869	GO:0016020 (membrane)
+T870	PR 20534 20544	annexin A7
+#870	AnnotatorNotes T870	PR:000004080 (annexin A7)
+T871	GO_BP 20578 20590	vesiculation
+#871	AnnotatorNotes T871	GO:0006900 (membrane budding)
+T872	GO_BP 20646 20666	vesiculation process
+#872	AnnotatorNotes T872	GO:0006900 (membrane budding)
+T873	CHEBI 20670 20673	GTP
+#873	AnnotatorNotes T873	CHEBI:15996 (GTP)
+T874	PR 20692 20702	annexin A7
+#874	AnnotatorNotes T874	PR:000004080 (annexin A7)
+T875	independent_continuant 20713 20719	GTPase
+#875	AnnotatorNotes T875	independent_continuant
+T876	GO_MF 20713 20719	GTPase
+#876	AnnotatorNotes T876	GO:0003924 (GTPase activity)
+T877	CHEBI 20748 20751	GTP
+#877	AnnotatorNotes T877	CHEBI:15996 (GTP)
+T878	GO_BP 20752 20760	enhanced
+#878	AnnotatorNotes T878	GO:0048518 (positive regulation of biological process)
+T879	GO_BP 20765 20774	secretion
+#879	AnnotatorNotes T879	GO:0046903 (secretion)
+T880	CHEBI 20778 20788	surfactant
+#880	AnnotatorNotes T880	CHEBI:35195 (surfactant)
+T881	PR 20792 20802	annexin A7
+#881	AnnotatorNotes T881	PR:000004080 (annexin A7)
+T882	PR 20860 20870	annexin A7
+#882	AnnotatorNotes T882	PR:000004080 (annexin A7)
+T883	GO_BP 20885 20894	secretion
+#883	AnnotatorNotes T883	GO:0046903 (secretion)
+T884	PR 20917 20927	annexin A7
+#884	AnnotatorNotes T884	PR:000004080 (annexin A7)
+T885	GO_BP 20937 20952	membrane fusion
+#885	AnnotatorNotes T885	GO:0006944 (membrane fusion)
+T886	GO_CC 20937 20945	membrane
+#886	AnnotatorNotes T886	GO:0016020 (membrane)
+T887	CHEBI 20981 20984	GTP
+#887	AnnotatorNotes T887	CHEBI:15996 (GTP)
+T888	EntrezGene 21022 21032	annexin A7
+#888	AnnotatorNotes T888	EG:11750
+T889	PR 21022 21032	annexin A7
+#889	AnnotatorNotes T889	PR:000004080 (annexin A7)
+T890	NCBITaxon 21042 21047	mouse
+#890	AnnotatorNotes T890	NCBITaxon:10088 (Mus)
+T891	EntrezGene 21077 21087	annexin A7
+#891	AnnotatorNotes T891	EG:11750
+T892	PR 21077 21087	annexin A7
+#892	AnnotatorNotes T892	PR:000004080 (annexin A7)
+T893	GO_BP 21091 21125	budding of red blood cell vesicles
+#893	AnnotatorNotes T893	"budding of .. vesicles" GO:0006900 (membrane budding)
+T894	CL 21102 21116	red blood cell
+#894	AnnotatorNotes T894	CL:0000232 (erythrocyte)
+T895	GO_CC 21112 21116	cell
+#895	AnnotatorNotes T895	GO:0005623 (cell)
+T896	GO_CC 21117 21125	vesicles
+#896	AnnotatorNotes T896	GO:0031982 (vesicle)
+T897	GO_BP 21190 21199	formation
+#897	AnnotatorNotes T897	GO:0022607 (cellular component assembly)
+T898	SO 21234 21243	wild type
+#898	AnnotatorNotes T898	SO:0000817 (wild_type)
+T899	SO 21248 21254	mutant
+#899	AnnotatorNotes T899	SO:0001059 (sequence_alteration)
+T900	CL 21255 21270	red blood cells
+#900	AnnotatorNotes T900	CL:0000232 (erythrocyte)
+T901	GO_CC 21265 21270	cells
+#901	AnnotatorNotes T901	GO:0005623 (cell)
+T902	italic 21282 21306	Dictyostelium discoideum
+#902	AnnotatorNotes T902	italic (null)
+T903	taxonomic_rank 21282 21306	Dictyostelium discoideum
+#903	AnnotatorNotes T903	taxonomic_rank (null)
+T904	NCBITaxon 21282 21306	Dictyostelium discoideum
+#904	AnnotatorNotes T904	NCBITaxon:44689 (Dictyostelium discoideum)
+T905	CL 21307 21312	cells
+#905	AnnotatorNotes T905	CL:0000000 (cell)
+T906	GO_CC 21307 21312	cells
+#906	AnnotatorNotes T906	GO:0005623 (cell)
+T907	EntrezGene 21334 21341	annexin
+#907	AnnotatorNotes T907	EG:8616954
+T908	SO 21342 21346	gene
+#908	AnnotatorNotes T908	SO:0000704 (gene)
+T909	GO_BP 21405 21420	membrane fusion
+#909	AnnotatorNotes T909	GO:0006944 (membrane fusion)
+T910	GO_CC 21405 21413	membrane
+#910	AnnotatorNotes T910	GO:0016020 (membrane)
+T911	CHEBI 21496 21508	phospholipid
+#911	AnnotatorNotes T911	CHEBI:16247 (phospholipids)
+T912	PR 21519 21529	annexin A7
+#912	AnnotatorNotes T912	PR:000004080 (annexin A7)
+T913	CHEBI 21554 21558	Ca2+
+#913	AnnotatorNotes T913	CHEBI:29108 (calcium(2+))
+T914	sup 21556 21558	2+
+#914	AnnotatorNotes T914	sup (null)
+T915	PR 21646 21656	annexin A7
+#915	AnnotatorNotes T915	PR:000004080 (annexin A7)
+T916	CL 21739 21753	red blood cell
+#916	AnnotatorNotes T916	CL:0000232 (erythrocyte)
+T917	GO_CC 21749 21753	cell
+#917	AnnotatorNotes T917	GO:0005623 (cell)
+T918	GO_CC 21754 21762	membrane
+#918	AnnotatorNotes T918	GO:0016020 (membrane)
+T919	PR 21775 21785	annexin A7
+#919	AnnotatorNotes T919	PR:000004080 (annexin A7)
+T920	CHEBI 21806 21810	Ca2+
+#920	AnnotatorNotes T920	CHEBI:29108 (calcium(2+))
+T921	sup 21808 21810	2+
+#921	AnnotatorNotes T921	sup (null)
+T922	GO_BP 21854 21863	formation
+#922	AnnotatorNotes T922	GO:0022607 (cellular component assembly)
+T923	GO_BP 21897 21909	distribution
+#923	AnnotatorNotes T923	GO:0051179 (localization)
+T924	EntrezGene 21918 21928	annexin A7
+#924	AnnotatorNotes T924	EG:310
+T925	PR 21918 21928	annexin A7
+#925	AnnotatorNotes T925	PR:000004080 (annexin A7)
+T926	SO 21929 21937	isoforms
+#926	AnnotatorNotes T926	SO:0001060 (sequence_variant)
+T927	CL 21954 21969	red blood cells
+#927	AnnotatorNotes T927	CL:0000232 (erythrocyte)
+T928	GO_CC 21964 21969	cells
+#928	AnnotatorNotes T928	GO:0005623 (cell)
+T929	GO_CC 22033 22042	membranes
+#929	AnnotatorNotes T929	GO:0016020 (membrane)
+T930	GO_CC 22046 22054	membrane
+#930	AnnotatorNotes T930	GO:0016020 (membrane)
+T931	PR 22073 22083	annexin A2
+#931	AnnotatorNotes T931	PR:000004075 (annexin A2)
+T932	GO_CC 22111 22120	endosomes
+#932	AnnotatorNotes T932	GO:0005768 (endosome)
+T933	GO_BP 22147 22162	membrane fusion
+#933	AnnotatorNotes T933	GO:0006944 (membrane fusion)
+T934	GO_CC 22147 22155	membrane
+#934	AnnotatorNotes T934	GO:0016020 (membrane)
+T935	GO_CC 22171 22180	endosomal
+#935	AnnotatorNotes T935	GO:0005768 (endosome)
+T936	PR 22190 22200	annexin A7
+#936	AnnotatorNotes T936	PR:000004080 (annexin A7)
+T937	GO_BP 22201 22212	distributes
+#937	AnnotatorNotes T937	GO:0051179 (localization)
+T938	GO_CC 22218 22233	plasma membrane
+#938	AnnotatorNotes T938	GO:0005886 (plasma membrane)
+T939	GO_CC 22299 22307	vesicles
+#939	AnnotatorNotes T939	GO:0031982 (vesicle)
+T940	CL 22311 22326	red blood cells
+#940	AnnotatorNotes T940	CL:0000232 (erythrocyte)
+T941	GO_CC 22321 22326	cells
+#941	AnnotatorNotes T941	GO:0005623 (cell)
+T942	EntrezGene 22335 22345	annexin A7
+#942	AnnotatorNotes T942	EG:11750
+T943	PR 22335 22345	annexin A7
+#943	AnnotatorNotes T943	PR:000004080 (annexin A7)
+T944	EntrezGene 22360 22366	sorcin
+#944	AnnotatorNotes T944	EG:109552
+T945	PR 22360 22366	sorcin
+#945	AnnotatorNotes T945	PR:000015619 (sorcin)
+T946	GO_BP 22399 22411	localisation
+#946	AnnotatorNotes T946	GO:0051179 (localization)
+T947	EntrezGene 22439 22449	annexin A7
+#947	AnnotatorNotes T947	EG:11750
+T948	PR 22439 22449	annexin A7
+#948	AnnotatorNotes T948	PR:000004080 (annexin A7)
+T949	GO_BP 22457 22467	expression
+#949	AnnotatorNotes T949	GO:0010467 (gene expression)
+T950	GO_BP 22475 22501	red blood cell development
+#950	AnnotatorNotes T950	GO:0048821 (erythrocyte development)
+T951	CL 22475 22489	red blood cell
+#951	AnnotatorNotes T951	CL:0000232 (erythrocyte)
+T952	GO_CC 22485 22489	cell
+#952	AnnotatorNotes T952	GO:0005623 (cell)
+T953	GO_BP 22549 22566	vesicle formation
+#953	AnnotatorNotes T953	GO:0006900 (membrane budding)
+T954	GO_CC 22549 22556	vesicle
+#954	AnnotatorNotes T954	GO:0031982 (vesicle)
+T955	GO_BP 22571 22586	membrane fusion
+#955	AnnotatorNotes T955	GO:0006944 (membrane fusion)
+T956	GO_CC 22571 22579	membrane
+#956	AnnotatorNotes T956	GO:0016020 (membrane)
+T957	PR 22588 22598	annexin A7
+#957	AnnotatorNotes T957	PR:000004080 (annexin A7)
+T958	GO_MF 22628 22640	Ca2+-binding
+#958	AnnotatorNotes T958	GO:0005509 (calcium ion binding)
+T959	CHEBI 22628 22632	Ca2+
+#959	AnnotatorNotes T959	CHEBI:29108 (calcium(2+))
+T960	sup 22630 22632	2+
+#960	AnnotatorNotes T960	sup (null)
+T961	CHEBI 22641 22648	protein
+#961	AnnotatorNotes T961	CHEBI:36080 (proteins)
+T962	PR 22681 22691	annexin A7
+#962	AnnotatorNotes T962	PR:000004080 (annexin A7)
+T963	GO_CC 22720 22728	membrane
+#963	AnnotatorNotes T963	GO:0016020 (membrane)
+T964	PR 22788 22798	annexin A7
+#964	AnnotatorNotes T964	PR:000004080 (annexin A7)
+T965	GO_BP 22836 22852	Ca2+ homeostasis
+#965	AnnotatorNotes T965	GO:0055074 (calcium ion homeostasis)
+T966	CHEBI 22836 22840	Ca2+
+#966	AnnotatorNotes T966	CHEBI:29108 (calcium(2+))
+T967	sup 22838 22840	2+
+#967	AnnotatorNotes T967	sup (null)
+T968	GO_CC 22870 22878	membrane
+#968	AnnotatorNotes T968	GO:0016020 (membrane)
+T969	SO 22937 22961	evolutionarily conserved
+#969	AnnotatorNotes T969	SO:0000857 (homologous)
+T970	CHEBI 22962 22969	protein
+#970	AnnotatorNotes T970	CHEBI:36080 (proteins)
+T971	PR 23112 23122	annexin A7
+#971	AnnotatorNotes T971	PR:000004080 (annexin A7)
+T972	CL 23147 23162	red blood cells
+#972	AnnotatorNotes T972	CL:0000232 (erythrocyte)
+T973	GO_CC 23157 23162	cells
+#973	AnnotatorNotes T973	GO:0005623 (cell)
+T974	CL 23206 23221	red blood cells
+#974	AnnotatorNotes T974	CL:0000232 (erythrocyte)
+T975	GO_CC 23216 23221	cells
+#975	AnnotatorNotes T975	GO:0005623 (cell)
+T976	CHEBI 23252 23261	molecular
+#976	AnnotatorNotes T976	CHEBI:36357 (polyatomic entities)
+T977	GO_CC 23279 23294	plasma membrane
+#977	AnnotatorNotes T977	GO:0005886 (plasma membrane)
+T978	GO_CC 23303 23311	membrane
+#978	AnnotatorNotes T978	GO:0016020 (membrane)
+T979	GO_CC 23323 23347	part of the cytoskeleton
+#979	AnnotatorNotes T979	"part of .. cytoskeleton" GO:0044430 (cytoskeletal part)
+T980	GO_CC 23335 23347	cytoskeleton
+#980	AnnotatorNotes T980	GO:0005856 (cytoskeleton)
+T981	GO_CC 23383 23391	membrane
+#981	AnnotatorNotes T981	GO:0016020 (membrane)
+T982	GO_CC 23405 23413	spectrin
+#982	AnnotatorNotes T982	GO:0008091 (spectrin)
+T983	GO_CC 23449 23464	actin filaments
+#983	AnnotatorNotes T983	GO:0005884 (actin filament)
+T984	CHEBI 23483 23491	proteins
+#984	AnnotatorNotes T984	CHEBI:36080 (proteins)
+T985	GO_CC 23512 23562	cytoplasmic surface of the red blood cell membrane
+#985	AnnotatorNotes T985	"cytoplasmic surface of .. cell membrane" GO:0009898 (internal side of plasma membrane)
+T986	GO_CC 23512 23523	cytoplasmic
+#986	AnnotatorNotes T986	GO:0005737 (cytoplasm)
+T987	CL 23539 23553	red blood cell
+#987	AnnotatorNotes T987	CL:0000232 (erythrocyte)
+T988	GO_CC 23549 23553	cell
+#988	AnnotatorNotes T988	GO:0005623 (cell)
+T989	GO_CC 23554 23562	membrane
+#989	AnnotatorNotes T989	GO:0016020 (membrane)
+T990	GO_CC 23569 23577	Membrane
+#990	AnnotatorNotes T990	GO:0016020 (membrane)
+T991	CHEBI 23578 23589	cholesterol
+#991	AnnotatorNotes T991	CHEBI:16113 (cholesterol)
+T992	CL 23601 23615	red blood cell
+#992	AnnotatorNotes T992	CL:0000232 (erythrocyte)
+T993	GO_CC 23611 23615	cell
+#993	AnnotatorNotes T993	GO:0005623 (cell)
+T994	CHEBI 23680 23691	cholesterol
+#994	AnnotatorNotes T994	CHEBI:16113 (cholesterol)
+T995	CHEBI 23726 23734	proteins
+#995	AnnotatorNotes T995	CHEBI:36080 (proteins)
+T996	GO_CC 23790 23803	cell membrane
+#996	AnnotatorNotes T996	GO:0005886 (plasma membrane)
+T997	CL 23790 23794	cell
+#997	AnnotatorNotes T997	CL:0000000 (cell)
+T998	GO_CC 23790 23794	cell
+#998	AnnotatorNotes T998	GO:0005623 (cell)
+T999	EntrezGene 23832 23842	Annexin A7
+#999	AnnotatorNotes T999	EG:11750
+T1000	PR 23832 23842	Annexin A7
+#1000	AnnotatorNotes T1000	PR:000004080 (annexin A7)
+T1001	NCBITaxon 23853 23858	mouse
+#1001	AnnotatorNotes T1001	NCBITaxon:10088 (Mus)
+T1002	CL 23859 23874	red blood cells
+#1002	AnnotatorNotes T1002	CL:0000232 (erythrocyte)
+T1003	GO_CC 23869 23874	cells
+#1003	AnnotatorNotes T1003	GO:0005623 (cell)
+T1004	EntrezGene 23952 23962	annexin A7
+#1004	AnnotatorNotes T1004	EG:11750
+T1005	PR 23952 23962	annexin A7
+#1005	AnnotatorNotes T1005	PR:000004080 (annexin A7)
+T1006	GO_CC 24040 24048	membrane
+#1006	AnnotatorNotes T1006	GO:0016020 (membrane)
+T1007	EntrezGene 24104 24114	Annexin A7
+#1007	AnnotatorNotes T1007	EG:11750
+T1008	PR 24104 24114	Annexin A7
+#1008	AnnotatorNotes T1008	PR:000004080 (annexin A7)
+T1009	GO_CC 24155 24170	plasma membrane
+#1009	AnnotatorNotes T1009	GO:0005886 (plasma membrane)
+T1010	CHEBI 24244 24248	Ca2+
+#1010	AnnotatorNotes T1010	CHEBI:29108 (calcium(2+))
+T1011	sup 24246 24248	2+
+#1011	AnnotatorNotes T1011	sup (null)
+T1012	GO_CC 24253 24261	membrane
+#1012	AnnotatorNotes T1012	GO:0016020 (membrane)
+T1013	CHEBI 24271 24279	proteins
+#1013	AnnotatorNotes T1013	CHEBI:36080 (proteins)
+T1014	CL 24315 24329	red blood cell
+#1014	AnnotatorNotes T1014	CL:0000232 (erythrocyte)
+T1015	GO_CC 24325 24329	cell
+#1015	AnnotatorNotes T1015	GO:0005623 (cell)
+T1016	GO_CC 24330 24338	membrane
+#1016	AnnotatorNotes T1016	GO:0016020 (membrane)
+T1017	GO_MF 24396 24400	bind
+#1017	AnnotatorNotes T1017	GO:0005488 (binding)
+T1018	EntrezGene 24468 24478	annexin A7
+#1018	AnnotatorNotes T1018	EG:11750
+T1019	PR 24468 24478	annexin A7
+#1019	AnnotatorNotes T1019	PR:000004080 (annexin A7)
+T1020	GO_CC 24567 24575	membrane
+#1020	AnnotatorNotes T1020	GO:0016020 (membrane)
+T1021	GO_CC 24576 24588	cytoskeleton
+#1021	AnnotatorNotes T1021	GO:0005856 (cytoskeleton)
+T1022	GO_BP 24590 24601	controlling
+#1022	AnnotatorNotes T1022	GO:0065007 (biological regulation)
+T1023	CHEBI 24607 24614	protein
+#1023	AnnotatorNotes T1023	CHEBI:36080 (proteins)
+T1024	CHEBI 24647 24652	ionic
+#1024	AnnotatorNotes T1024	CHEBI:24870 (ions)
+T1025	CL 24665 24680	red blood cells
+#1025	AnnotatorNotes T1025	CL:0000232 (erythrocyte)
+T1026	GO_CC 24675 24680	cells
+#1026	AnnotatorNotes T1026	GO:0005623 (cell)
+T1027	GO_BP 24721 24739	signaling pathways
+#1027	AnnotatorNotes T1027	GO:0007165 (signal transduction)
+T1028	PR 24761 24771	annexin A7
+#1028	AnnotatorNotes T1028	PR:000004080 (annexin A7)
+T1029	GO_CC 24797 24808	cytoplasmic
+#1029	AnnotatorNotes T1029	GO:0005737 (cytoplasm)
+T1030	GO_BP 24809 24825	Ca2+ homeostasis
+#1030	AnnotatorNotes T1030	GO:0055074 (calcium ion homeostasis)
+T1031	CHEBI 24809 24813	Ca2+
+#1031	AnnotatorNotes T1031	CHEBI:29108 (calcium(2+))
+T1032	sup 24811 24813	2+
+#1032	AnnotatorNotes T1032	sup (null)
+T1033	GO_CC 24883 24896	intracellular
+#1033	AnnotatorNotes T1033	GO:0005622 (intracellular)
+T1034	CHEBI 24897 24901	Ca2+
+#1034	AnnotatorNotes T1034	CHEBI:29108 (calcium(2+))
+T1035	sup 24899 24901	2+
+#1035	AnnotatorNotes T1035	sup (null)
+T1036	GO_CC 24947 24955	membrane
+#1036	AnnotatorNotes T1036	GO:0016020 (membrane)
+T1037	GO_BP 24972 24980	regulate
+#1037	AnnotatorNotes T1037	GO:0065007 (biological regulation)
+T1038	CL 24981 24995	red blood cell
+#1038	AnnotatorNotes T1038	CL:0000232 (erythrocyte)
+T1039	GO_CC 24991 24995	cell
+#1039	AnnotatorNotes T1039	GO:0005623 (cell)
+T1040	GO_CC 25036 25049	intracellular
+#1040	AnnotatorNotes T1040	GO:0005622 (intracellular)
+T1041	CHEBI 25050 25054	Ca2+
+#1041	AnnotatorNotes T1041	CHEBI:29108 (calcium(2+))
+T1042	sup 25052 25054	2+
+#1042	AnnotatorNotes T1042	sup (null)
+T1043	GO_BP 25068 25076	regulate
+#1043	AnnotatorNotes T1043	GO:0065007 (biological regulation)
+T1044	GO_CC 25081 25089	membrane
+#1044	AnnotatorNotes T1044	GO:0016020 (membrane)
+T1045	GO_BP 25108 25118	modulation
+#1045	AnnotatorNotes T1045	GO:0065007 (biological regulation)
+T1046	GO_CC 25122 25134	cytoskeletal
+#1046	AnnotatorNotes T1046	GO:0005856 (cytoskeleton)
+T1047	CHEBI 25135 25142	protein
+#1047	AnnotatorNotes T1047	CHEBI:36080 (proteins)
+T1048	CHEBI 25162 25166	Ca2+
+#1048	AnnotatorNotes T1048	CHEBI:29108 (calcium(2+))
+T1049	sup 25164 25166	2+
+#1049	AnnotatorNotes T1049	sup (null)
+T1050	CHEBI 25195 25207	phospholipid
+#1050	AnnotatorNotes T1050	CHEBI:16247 (phospholipids)
+T1051	CL 25250 25265	red blood cells
+#1051	AnnotatorNotes T1051	CL:0000232 (erythrocyte)
+T1052	GO_CC 25260 25265	cells
+#1052	AnnotatorNotes T1052	GO:0005623 (cell)
+T1053	CHEBI 25285 25294	Ca2+ ions
+#1053	AnnotatorNotes T1053	CHEBI:29108 (calcium(2+))
+T1054	sup 25287 25289	2+
+#1054	AnnotatorNotes T1054	sup (null)
+T1055	GO_BP 25299 25304	drive
+#1055	AnnotatorNotes T1055	GO:0048518 (positive regulation of biological process)
+T1056	GO_CC 25324 25332	membrane
+#1056	AnnotatorNotes T1056	GO:0016020 (membrane)
+T1057	GO_CC 25363 25375	cytoskeleton
+#1057	AnnotatorNotes T1057	GO:0005856 (cytoskeleton)
+T1058	CL 25417 25425	platelet
+#1058	AnnotatorNotes T1058	CL:0000233 (platelet)
+T1059	EntrezGene 25442 25452	annexin A7
+#1059	AnnotatorNotes T1059	EG:11750
+T1060	PR 25442 25452	annexin A7
+#1060	AnnotatorNotes T1060	PR:000004080 (annexin A7)
+T1061	SO 25453 25459	mutant
+#1061	AnnotatorNotes T1061	SO:0001059 (sequence_alteration)
+T1062	independent_continuant 25453 25459	mutant
+#1062	AnnotatorNotes T1062	independent_continuant
+T1063	CL 25468 25476	platelet
+#1063	AnnotatorNotes T1063	CL:0000233 (platelet)
+T1064	CL 25575 25584	platelets
+#1064	AnnotatorNotes T1064	CL:0000233 (platelet)
+T1065	EntrezGene 25593 25603	annexin A7
+#1065	AnnotatorNotes T1065	EG:11750
+T1066	PR 25593 25603	annexin A7
+#1066	AnnotatorNotes T1066	PR:000004080 (annexin A7)
+T1067	GO_BP 25688 25696	reaction
+#1067	AnnotatorNotes T1067	GO:0050896 (response to stimulus)
+T1068	NCBITaxon 25706 25712	murine
+#1068	AnnotatorNotes T1068	NCBITaxon:39107 (Murinae)
+T1069	CL 25713 25722	platelets
+#1069	AnnotatorNotes T1069	CL:0000233 (platelet)
+T1070	NCBITaxon 25752 25757	human
+#1070	AnnotatorNotes T1070	NCBITaxon:9606 (Homo sapiens)
+T1071	NCBITaxon 25832 25837	mouse
+#1071	AnnotatorNotes T1071	NCBITaxon:10088 (Mus)
+T1072	GO_BP 25861 25869	reaction
+#1072	AnnotatorNotes T1072	GO:0050896 (response to stimulus)
+T1073	NCBITaxon 25873 25878	mouse
+#1073	AnnotatorNotes T1073	NCBITaxon:10088 (Mus)
+T1074	CL 25879 25888	platelets
+#1074	AnnotatorNotes T1074	CL:0000233 (platelet)
+T1075	GO_MF 25979 25987	thrombin
+#1075	AnnotatorNotes T1075	GO:0003809 (thrombin activity)
+T1076	EntrezGene 25979 25987	thrombin
+#1076	AnnotatorNotes T1076	EG:14061
+T1077	independent_continuant 25979 25987	thrombin
+#1077	AnnotatorNotes T1077	independent_continuant
+T1078	GO_BP 25988 25998	generation
+#1078	AnnotatorNotes T1078	GO:0009058 (biosynthetic process)
+T1079	NCBITaxon 26032 26037	human
+#1079	AnnotatorNotes T1079	NCBITaxon:9606 (Homo sapiens)
+T1080	EntrezGene 26038 26041	vWF
+#1080	AnnotatorNotes T1080	EG:7450
+T1081	PR 26038 26041	vWF
+#1081	AnnotatorNotes T1081	PR:000017364 (von Willebrand factor)
+T1082	GO_BP 26060 26071	haemostatic
+#1082	AnnotatorNotes T1082	GO:0007599 (hemostasis)
+T1083	CL 26288 26296	platelet
+#1083	AnnotatorNotes T1083	CL:0000233 (platelet)
+T1084	CL 26317 26325	platelet
+#1084	AnnotatorNotes T1084	CL:0000233 (platelet)
+T1085	SO 26334 26346	polymorphism
+#1085	AnnotatorNotes T1085	SO:0001025 (polymorphic_sequence_variant)
+T1086	SO 26334 26346	polymorphism
+#1086	AnnotatorNotes T1086	SO:0000694 (SNP)
+T1087	EntrezGene 26446 26456	annexin A7
+#1087	AnnotatorNotes T1087	EG:310
+T1088	PR 26446 26456	annexin A7
+#1088	AnnotatorNotes T1088	PR:000004080 (annexin A7)
+T1089	SO 26457 26465	isoforms
+#1089	AnnotatorNotes T1089	SO:0001060 (sequence_variant)
+T1090	CL 26469 26484	red blood cells
+#1090	AnnotatorNotes T1090	CL:0000232 (erythrocyte)
+T1091	GO_CC 26479 26484	cells
+#1091	AnnotatorNotes T1091	GO:0005623 (cell)
+T1092	GO_BP 26530 26534	form
+#1092	AnnotatorNotes T1092	GO:0022607 (cellular component assembly)
+T1093	CHEBI 26540 26544	Ca2+
+#1093	AnnotatorNotes T1093	CHEBI:29108 (calcium(2+))
+T1094	sup 26542 26544	2+
+#1094	AnnotatorNotes T1094	sup (null)
+T1095	CHEBI 26559 26567	proteins
+#1095	AnnotatorNotes T1095	CHEBI:36080 (proteins)
+T1096	GO_BP 26601 26621	vesiculation process
+#1096	AnnotatorNotes T1096	GO:0006900 (membrane budding)
+T1097	GO_BP 26659 26668	formation
+#1097	AnnotatorNotes T1097	GO:0022607 (cellular component assembly)
+T1098	CHEBI 26706 26711	lipid
+#1098	AnnotatorNotes T1098	CHEBI:18059 (lipids)
+T1099	GO_BP 26740 26751	recombinant
+#1099	AnnotatorNotes T1099	GO:0006310 (DNA recombination)
+T1100	PR 26752 26762	annexin A7
+#1100	AnnotatorNotes T1100	PR:000004080 (annexin A7)
+T1101	CL 26854 26869	red blood cells
+#1101	AnnotatorNotes T1101	CL:0000232 (erythrocyte)
+T1102	GO_CC 26864 26869	cells
+#1102	AnnotatorNotes T1102	GO:0005623 (cell)
+T1103	italic 26873 26878	anxA7
+#1103	AnnotatorNotes T1103	italic (null)
+T1104	PR 26873 26878	anxA7
+#1104	AnnotatorNotes T1104	PR:000004080 (annexin A7)
+T1105	EntrezGene 26873 26878	anxA7
+#1105	AnnotatorNotes T1105	EG:11750
+T1106	sup 26878 26881	-/-
+#1106	AnnotatorNotes T1106	sup (null)
+T1107	NCBITaxon 26881 26885	mice
+#1107	AnnotatorNotes T1107	NCBITaxon:10088 (Mus)
+T1108	CL 26900 26904	cell
+#1108	AnnotatorNotes T1108	CL:0000000 (cell)
+T1109	GO_CC 26900 26904	cell
+#1109	AnnotatorNotes T1109	GO:0005623 (cell)
+T1110	CL 26921 26933	erythrocytes
+#1110	AnnotatorNotes T1110	CL:0000232 (erythrocyte)
+T1111	EntrezGene 26942 26952	annexin A7
+#1111	AnnotatorNotes T1111	EG:11750
+T1112	PR 26942 26952	annexin A7
+#1112	AnnotatorNotes T1112	PR:000004080 (annexin A7)
+T1113	CL 26988 26999	erythrocyte
+#1113	AnnotatorNotes T1113	CL:0000232 (erythrocyte)
+T1114	GO_CC 27000 27012	cytoskeleton
+#1114	AnnotatorNotes T1114	GO:0005856 (cytoskeleton)
+T1115	GO_MF 27109 27121	Ca2+-binding
+#1115	AnnotatorNotes T1115	GO:0005509 (calcium ion binding)
+T1116	CHEBI 27109 27113	Ca2+
+#1116	AnnotatorNotes T1116	CHEBI:29108 (calcium(2+))
+T1117	sup 27111 27113	2+
+#1117	AnnotatorNotes T1117	sup (null)
+T1118	NCBITaxon 27157 27163	murine
+#1118	AnnotatorNotes T1118	NCBITaxon:39107 (Murinae)
+T1119	NCBITaxon 27168 27173	human
+#1119	AnnotatorNotes T1119	NCBITaxon:9606 (Homo sapiens)
+T1120	SO 27206 27215	wild type
+#1120	AnnotatorNotes T1120	SO:0000817 (wild_type)
+T1121	EntrezGene 27220 27230	annexin A7
+#1121	AnnotatorNotes T1121	EG:11750
+T1122	PR 27220 27230	annexin A7
+#1122	AnnotatorNotes T1122	PR:000004080 (annexin A7)
+T1123	NCBITaxon 27241 27245	mice
+#1123	AnnotatorNotes T1123	NCBITaxon:10088 (Mus)
+T1124	italic 27247 27252	anxA7
+#1124	AnnotatorNotes T1124	italic (null)
+T1125	PR 27247 27252	anxA7
+#1125	AnnotatorNotes T1125	PR:000004080 (annexin A7)
+T1126	EntrezGene 27247 27252	anxA7
+#1126	AnnotatorNotes T1126	EG:11750
+T1127	sup 27252 27255	-/-
+#1127	AnnotatorNotes T1127	sup (null)
+T1128	GO_BP 27297 27300	fed
+#1128	AnnotatorNotes T1128	GO:0007631 (feeding behavior)
+T1129	CHEBI 27314 27318	food
+#1129	AnnotatorNotes T1129	CHEBI:33290 (food)
+T1130	GO_BP 27477 27488	Coagulation
+#1130	AnnotatorNotes T1130	GO:0050817 (coagulation)
+T1131	NCBITaxon 27591 27595	mice
+#1131	AnnotatorNotes T1131	NCBITaxon:10088 (Mus)
+T1132	CHEBI 27664 27685	anaesthetic chemicals
+#1132	AnnotatorNotes T1132	CHEBI:38867 (anaesthetic)
+T1133	SO 27711 27720	wild type
+#1133	AnnotatorNotes T1133	SO:0000817 (wild_type)
+T1134	SO 27725 27731	mutant
+#1134	AnnotatorNotes T1134	SO:0001059 (sequence_alteration)
+T1135	NCBITaxon 27732 27736	mice
+#1135	AnnotatorNotes T1135	NCBITaxon:10088 (Mus)
+T1136	NCBITaxon 27909 27915	murine
+#1136	AnnotatorNotes T1136	NCBITaxon:39107 (Murinae)
+T1137	NCBITaxon 28004 28009	Human
+#1137	AnnotatorNotes T1137	NCBITaxon:9606 (Homo sapiens)
+T1138	CHEBI 28086 28090	EDTA
+#1138	AnnotatorNotes T1138	CHEBI:30378 (ethylenediaminetetraacetate)
+T1139	CHEBI 28086 28090	EDTA
+#1139	AnnotatorNotes T1139	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T1140	CL 28290 28294	cell
+#1140	AnnotatorNotes T1140	CL:0000000 (cell)
+T1141	GO_CC 28290 28294	cell
+#1141	AnnotatorNotes T1141	GO:0005623 (cell)
+T1142	SO 28383 28390	genetic
+#1142	AnnotatorNotes T1142	SO:0000704 (gene)
+T1143	SO 28427 28437	transgenic
+#1143	AnnotatorNotes T1143	SO:0000902 (transgene)
+T1144	NCBITaxon 28438 28442	mice
+#1144	AnnotatorNotes T1144	NCBITaxon:10088 (Mus)
+T1145	NCBITaxon 28514 28518	mice
+#1145	AnnotatorNotes T1145	NCBITaxon:10088 (Mus)
+T1146	SO 28557 28564	genetic
+#1146	AnnotatorNotes T1146	SO:0000704 (gene)
+T1147	NCBITaxon 28593 28597	mice
+#1147	AnnotatorNotes T1147	NCBITaxon:10088 (Mus)
+T1148	CL 28641 28649	platelet
+#1148	AnnotatorNotes T1148	CL:0000233 (platelet)
+T1149	NCBITaxon 28683 28687	mice
+#1149	AnnotatorNotes T1149	NCBITaxon:10088 (Mus)
+T1150	NCBITaxon 28778 28783	human
+#1150	AnnotatorNotes T1150	NCBITaxon:9606 (Homo sapiens)
+T1151	CL 28784 28799	red blood cells
+#1151	AnnotatorNotes T1151	CL:0000232 (erythrocyte)
+T1152	GO_CC 28794 28799	cells
+#1152	AnnotatorNotes T1152	GO:0005623 (cell)
+T1153	GO_BP 28805 28829	subcellular distribution
+#1153	AnnotatorNotes T1153	GO:0051641 (cellular localization)
+T1154	EntrezGene 28833 28843	annexin A7
+#1154	AnnotatorNotes T1154	EG:310
+T1155	PR 28833 28843	annexin A7
+#1155	AnnotatorNotes T1155	PR:000004080 (annexin A7)
+T1156	CL 28877 28892	Red blood cells
+#1156	AnnotatorNotes T1156	CL:0000232 (erythrocyte)
+T1157	GO_CC 28887 28892	cells
+#1157	AnnotatorNotes T1157	GO:0005623 (cell)
+T1158	CHEBI 28933 28941	buffered
+#1158	AnnotatorNotes T1158	CHEBI:35225 (buffer)
+T1159	CHEBI 28942 28946	salt
+#1159	AnnotatorNotes T1159	CHEBI:24866 (salts)
+T1160	GO_BP 28979 28984	lysis
+#1160	AnnotatorNotes T1160	GO:0019835 (cytolysis)
+T1161	CHEBI 28999 29004	Hepes
+#1161	AnnotatorNotes T1161	CHEBI:46756 (HEPES)
+T1162	CHEBI 29021 29026	CaCl2
+#1162	AnnotatorNotes T1162	CHEBI:3312 (calcium dichloride)
+T1163	sub 29025 29026	2
+#1163	AnnotatorNotes T1163	sub (null)
+T1164	CHEBI 29035 29042	sucrose
+#1164	AnnotatorNotes T1164	CHEBI:17992 (sucrose)
+T1165	CHEBI 29048 29069	proteinase inhibitors
+#1165	AnnotatorNotes T1165	CHEBI:37670 (protease inhibitor)
+T1166	independent_continuant 29048 29069	proteinase inhibitors
+#1166	AnnotatorNotes T1166	independent_continuant
+T1167	GO_MF 29048 29069	proteinase inhibitors
+#1167	AnnotatorNotes T1167	GO:0030414 (protease inhibitor activity)
+T1168	GO_MF 29048 29058	proteinase
+#1168	AnnotatorNotes T1168	GO:0008233 (peptidase activity)
+T1169	independent_continuant 29048 29058	proteinase
+#1169	AnnotatorNotes T1169	independent_continuant
+T1170	CHEBI 29297 29302	Hepes
+#1170	AnnotatorNotes T1170	CHEBI:46756 (HEPES)
+T1171	CHEBI 29319 29324	CaCl2
+#1171	AnnotatorNotes T1171	CHEBI:3312 (calcium dichloride)
+T1172	sub 29323 29324	2
+#1172	AnnotatorNotes T1172	sub (null)
+T1173	CHEBI 29333 29340	sucrose
+#1173	AnnotatorNotes T1173	CHEBI:17992 (sucrose)
+T1174	CL 29425 29439	red blood cell
+#1174	AnnotatorNotes T1174	CL:0000232 (erythrocyte)
+T1175	GO_CC 29435 29439	cell
+#1175	AnnotatorNotes T1175	GO:0005623 (cell)
+T1176	CHEBI 29915 29923	nitrogen
+#1176	AnnotatorNotes T1176	CHEBI:17997 (dinitrogen)
+T1177	GO_BP 29953 29963	generation
+#1177	AnnotatorNotes T1177	GO:0022607 (cellular component assembly)
+T1178	NCBITaxon 29969 29974	human
+#1178	AnnotatorNotes T1178	NCBITaxon:9606 (Homo sapiens)
+T1179	NCBITaxon 29979 29985	murine
+#1179	AnnotatorNotes T1179	NCBITaxon:39107 (Murinae)
+T1180	CL 29986 30001	red blood cells
+#1180	AnnotatorNotes T1180	CL:0000232 (erythrocyte)
+T1181	GO_CC 29996 30001	cells
+#1181	AnnotatorNotes T1181	GO:0005623 (cell)
+T1182	CL 30003 30018	Red blood cells
+#1182	AnnotatorNotes T1182	CL:0000232 (erythrocyte)
+T1183	GO_CC 30013 30018	cells
+#1183	AnnotatorNotes T1183	GO:0005623 (cell)
+T1184	GO_BP 30033 30037	form
+#1184	AnnotatorNotes T1184	GO:0022607 (cellular component assembly)
+T1185	CHEBI 30038 30048	hemoglobin
+#1185	AnnotatorNotes T1185	CHEBI:35143 (hemoglobin)
+T1186	GO_BP 30088 30105	vesicle formation
+#1186	AnnotatorNotes T1186	GO:0006900 (membrane budding)
+T1187	GO_CC 30088 30095	vesicle
+#1187	AnnotatorNotes T1187	GO:0031982 (vesicle)
+T1188	CHEBI 30109 30113	Ca2+
+#1188	AnnotatorNotes T1188	CHEBI:29108 (calcium(2+))
+T1189	sup 30111 30113	2+
+#1189	AnnotatorNotes T1189	sup (null)
+T1190	CHEBI 30141 30148	lithium
+#1190	AnnotatorNotes T1190	CHEBI:30145 (lithium)
+T1191	CHEBI 30149 30156	heparin
+#1191	AnnotatorNotes T1191	CHEBI:28304 (heparin)
+T1192	GO_BP 30157 30171	anticoagulated
+#1192	AnnotatorNotes T1192	GO:0050819 (negative regulation of coagulation)
+T1193	CL 30241 30253	erythrocytes
+#1193	AnnotatorNotes T1193	CL:0000232 (erythrocyte)
+T1194	CHEBI 30288 30293	Hepes
+#1194	AnnotatorNotes T1194	CHEBI:46756 (HEPES)
+T1195	CHEBI 30314 30318	NaCl
+#1195	AnnotatorNotes T1195	CHEBI:26710 (sodium chloride)
+T1196	CL 30363 30378	red blood cells
+#1196	AnnotatorNotes T1196	CL:0000232 (erythrocyte)
+T1197	GO_CC 30373 30378	cells
+#1197	AnnotatorNotes T1197	GO:0005623 (cell)
+T1198	GO_BP 30406 30418	vesiculation
+#1198	AnnotatorNotes T1198	GO:0006900 (membrane budding)
+T1199	CHEBI 30433 30438	Hepes
+#1199	AnnotatorNotes T1199	CHEBI:46756 (HEPES)
+T1200	CHEBI 30455 30459	NaCl
+#1200	AnnotatorNotes T1200	CHEBI:26710 (sodium chloride)
+T1201	CHEBI 30466 30471	CaCl2
+#1201	AnnotatorNotes T1201	CHEBI:3312 (calcium dichloride)
+T1202	sub 30470 30471	2
+#1202	AnnotatorNotes T1202	sub (null)
+T1203	CHEBI 30489 30493	Ca2+
+#1203	AnnotatorNotes T1203	CHEBI:29108 (calcium(2+))
+T1204	sup 30491 30493	2+
+#1204	AnnotatorNotes T1204	sup (null)
+T1205	CHEBI 30494 30503	ionophore
+#1205	AnnotatorNotes T1205	CHEBI:24869 (ionophore)
+T1206	independent_continuant 30494 30503	ionophore
+#1206	AnnotatorNotes T1206	independent_continuant
+T1207	GO_MF 30494 30503	ionophore
+#1207	AnnotatorNotes T1207	GO:0022886 (channel-forming ionophore activity)
+T1208	CHEBI 30567 30571	EDTA
+#1208	AnnotatorNotes T1208	CHEBI:30378 (ethylenediaminetetraacetate)
+T1209	CHEBI 30567 30571	EDTA
+#1209	AnnotatorNotes T1209	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T1210	CL 30892 30906	red blood cell
+#1210	AnnotatorNotes T1210	CL:0000232 (erythrocyte)
+T1211	GO_CC 30902 30906	cell
+#1211	AnnotatorNotes T1211	GO:0005623 (cell)
+T1212	GO_CC 31198 31206	vesicles
+#1212	AnnotatorNotes T1212	GO:0031982 (vesicle)
+T1213	independent_continuant 31224 31246	acetylcholine esterase
+#1213	AnnotatorNotes T1213	independent_continuant
+T1214	GO_MF 31224 31246	acetylcholine esterase
+#1214	AnnotatorNotes T1214	GO:0003990 (acetylcholinesterase activity)
+T1215	PR 31224 31246	acetylcholine esterase
+#1215	AnnotatorNotes T1215	PR:000003626 (acetylcholinesterase)
+T1216	EntrezGene 31224 31246	acetylcholine esterase
+#1216	AnnotatorNotes T1216	EG:11423
+T1217	CHEBI 31224 31237	acetylcholine
+#1217	AnnotatorNotes T1217	CHEBI:15355 (acetylcholine)
+T1218	GO_MF 31288 31310	Acetylcholine esterase
+#1218	AnnotatorNotes T1218	GO:0003990 (acetylcholinesterase activity)
+T1219	PR 31288 31310	Acetylcholine esterase
+#1219	AnnotatorNotes T1219	PR:000003626 (acetylcholinesterase)
+T1220	independent_continuant 31288 31310	Acetylcholine esterase
+#1220	AnnotatorNotes T1220	independent_continuant
+T1221	EntrezGene 31288 31310	Acetylcholine esterase
+#1221	AnnotatorNotes T1221	EG:11423
+T1222	CHEBI 31288 31301	Acetylcholine
+#1222	AnnotatorNotes T1222	CHEBI:15355 (acetylcholine)
+T1223	CL 31336 31350	red blood cell
+#1223	AnnotatorNotes T1223	CL:0000232 (erythrocyte)
+T1224	GO_CC 31346 31350	cell
+#1224	AnnotatorNotes T1224	GO:0005623 (cell)
+T1225	GO_CC 31351 31359	vesicles
+#1225	AnnotatorNotes T1225	GO:0031982 (vesicle)
+T1226	CHEBI 31408 31413	Hepes
+#1226	AnnotatorNotes T1226	CHEBI:46756 (HEPES)
+T1227	CHEBI 31430 31434	NaCl
+#1227	AnnotatorNotes T1227	CHEBI:26710 (sodium chloride)
+T1228	CHEBI 31523 31539	sodium phosphate
+#1228	AnnotatorNotes T1228	CHEBI:37586 (sodium phosphates)
+T1229	CHEBI 31523 31529	sodium
+#1229	AnnotatorNotes T1229	CHEBI:26708 (sodium)
+T1230	CHEBI 31530 31539	phosphate
+#1230	AnnotatorNotes T1230	CHEBI:35780 (phosphate ions)
+T1231	sub 31557 31558	2
+#1231	AnnotatorNotes T1231	sub (null)
+T1232	sub 31560 31561	4
+#1232	AnnotatorNotes T1232	sub (null)
+T1233	CHEBI 31631 31647	sodium phosphate
+#1233	AnnotatorNotes T1233	CHEBI:37586 (sodium phosphates)
+T1234	CHEBI 31631 31637	sodium
+#1234	AnnotatorNotes T1234	CHEBI:26708 (sodium)
+T1235	CHEBI 31638 31647	phosphate
+#1235	AnnotatorNotes T1235	CHEBI:35780 (phosphate ions)
+T1236	CHEBI 31685 31693	chloride
+#1236	AnnotatorNotes T1236	CHEBI:23114 (chloride salts)
+T1237	CHEBI 31685 31693	chloride
+#1237	AnnotatorNotes T1237	CHEBI:17996 (chloride)
+T1238	CHEBI 31706 31709	H2O
+#1238	AnnotatorNotes T1238	CHEBI:15377 (water)
+T1239	sub 31707 31708	2
+#1239	AnnotatorNotes T1239	sub (null)
+T1240	CL 31909 31924	red blood cells
+#1240	AnnotatorNotes T1240	CL:0000232 (erythrocyte)
+T1241	GO_CC 31919 31924	cells
+#1241	AnnotatorNotes T1241	GO:0005623 (cell)
+T1242	CHEBI 31928 31935	Na2HPO4
+#1242	AnnotatorNotes T1242	CHEBI:34683 (disodium hydrogenphosphate)
+T1243	sub 31930 31931	2
+#1243	AnnotatorNotes T1243	sub (null)
+T1244	sub 31934 31935	4
+#1244	AnnotatorNotes T1244	sub (null)
+T1245	CHEBI 31936 31943	NaH2PO4
+#1245	AnnotatorNotes T1245	CHEBI:37585 (sodium dihydrogenphosphate)
+T1246	sub 31939 31940	2
+#1246	AnnotatorNotes T1246	sub (null)
+T1247	sub 31942 31943	4
+#1247	AnnotatorNotes T1247	sub (null)
+T1248	CHEBI 31944 31952	buffered
+#1248	AnnotatorNotes T1248	CHEBI:35225 (buffer)
+T1249	CHEBI 31953 31957	NaCl
+#1249	AnnotatorNotes T1249	CHEBI:26710 (sodium chloride)
+T1250	CHEBI 32003 32007	NaCl
+#1250	AnnotatorNotes T1250	CHEBI:26710 (sodium chloride)
+T1251	CL 32477 32485	Platelet
+#1251	AnnotatorNotes T1251	CL:0000233 (platelet)
+T1252	NCBITaxon 32529 32535	murine
+#1252	AnnotatorNotes T1252	NCBITaxon:39107 (Murinae)
+T1253	CL 32655 32663	platelet
+#1253	AnnotatorNotes T1253	CL:0000233 (platelet)
+T1254	CL 32687 32695	platelet
+#1254	AnnotatorNotes T1254	CL:0000233 (platelet)
+T1255	CHEBI 32940 32945	Hepes
+#1255	AnnotatorNotes T1255	CHEBI:46756 (HEPES)
+T1256	CHEBI 32954 32958	NaCl
+#1256	AnnotatorNotes T1256	CHEBI:26710 (sodium chloride)
+T1257	CL 33004 33012	platelet
+#1257	AnnotatorNotes T1257	CL:0000233 (platelet)
+T1258	SO 33068 33077	wild type
+#1258	AnnotatorNotes T1258	SO:0000817 (wild_type)
+T1259	NCBITaxon 33092 33098	murine
+#1259	AnnotatorNotes T1259	NCBITaxon:39107 (Murinae)
+T1260	NCBITaxon 33103 33108	human
+#1260	AnnotatorNotes T1260	NCBITaxon:9606 (Homo sapiens)
+T1261	CL 33134 33143	platelets
+#1261	AnnotatorNotes T1261	CL:0000233 (platelet)
+T1262	CHEBI 33370 33377	reagent
+#1262	AnnotatorNotes T1262	CHEBI:33893 (reagent)
+T1263	NCBITaxon 33418 33423	mouse
+#1263	AnnotatorNotes T1263	NCBITaxon:10088 (Mus)
+T1264	NCBITaxon 33428 33433	human
+#1264	AnnotatorNotes T1264	NCBITaxon:9606 (Homo sapiens)
+T1265	CL 33434 33443	platelets
+#1265	AnnotatorNotes T1265	CL:0000233 (platelet)
+T1266	NCBITaxon 33450 33456	murine
+#1266	AnnotatorNotes T1266	NCBITaxon:39107 (Murinae)
+T1267	NCBITaxon 33486 33492	animal
+#1267	AnnotatorNotes T1267	NCBITaxon:33208 (Metazoa)
+T1268	NCBITaxon 33506 33511	human
+#1268	AnnotatorNotes T1268	NCBITaxon:9606 (Homo sapiens)
+T1269	NCBITaxon 33630 33646	human individual
+#1269	AnnotatorNotes T1269	NCBITaxon:9606 (Homo sapiens)
+T1270	CL 33898 33906	platelet
+#1270	AnnotatorNotes T1270	CL:0000233 (platelet)
+T1271	GO_BP 34026 34039	haematopoetic
+#1271	AnnotatorNotes T1271	GO:0030097 (hemopoiesis)
+T1272	CL 34057 34061	cell
+#1272	AnnotatorNotes T1272	CL:0000000 (cell)
+T1273	GO_CC 34057 34061	cell
+#1273	AnnotatorNotes T1273	GO:0005623 (cell)
+T1274	NCBITaxon 34072 34078	murine
+#1274	AnnotatorNotes T1274	NCBITaxon:39107 (Murinae)
+T1275	NCBITaxon 34083 34088	human
+#1275	AnnotatorNotes T1275	NCBITaxon:9606 (Homo sapiens)
+T1276	CL 34168 34172	cell
+#1276	AnnotatorNotes T1276	CL:0000000 (cell)
+T1277	GO_CC 34168 34172	cell
+#1277	AnnotatorNotes T1277	GO:0005623 (cell)
+T1278	CL 34210 34225	red blood cells
+#1278	AnnotatorNotes T1278	CL:0000232 (erythrocyte)
+T1279	GO_CC 34220 34225	cells
+#1279	AnnotatorNotes T1279	GO:0005623 (cell)
+T1280	CL 34230 34239	platelets
+#1280	AnnotatorNotes T1280	CL:0000233 (platelet)
+T1281	CL 34342 34357	red blood cells
+#1281	AnnotatorNotes T1281	CL:0000232 (erythrocyte)
+T1282	GO_CC 34352 34357	cells
+#1282	AnnotatorNotes T1282	GO:0005623 (cell)
+T1283	CL 34362 34371	platelets
+#1283	AnnotatorNotes T1283	CL:0000233 (platelet)
+T1284	CL 34477 34487	leucocytes
+#1284	AnnotatorNotes T1284	CL:0000738 (leukocyte)
+T1285	CL 34489 34504	red blood cells
+#1285	AnnotatorNotes T1285	CL:0000232 (erythrocyte)
+T1286	GO_CC 34499 34504	cells
+#1286	AnnotatorNotes T1286	GO:0005623 (cell)
+T1287	CHEBI 34506 34517	haemoglobin
+#1287	AnnotatorNotes T1287	CHEBI:35143 (hemoglobin)
+T1288	CL 34537 34545	cellular
+#1288	AnnotatorNotes T1288	CL:0000000 (cell)
+T1289	GO_CC 34537 34545	cellular
+#1289	AnnotatorNotes T1289	GO:0005623 (cell)
+T1290	CL 34559 34567	cellular
+#1290	AnnotatorNotes T1290	CL:0000000 (cell)
+T1291	GO_CC 34559 34567	cellular
+#1291	AnnotatorNotes T1291	GO:0005623 (cell)
+T1292	CHEBI 34568 34579	haemoglobin
+#1292	AnnotatorNotes T1292	CHEBI:35143 (hemoglobin)
+T1293	CL 34586 34594	cellular
+#1293	AnnotatorNotes T1293	CL:0000000 (cell)
+T1294	GO_CC 34586 34594	cellular
+#1294	AnnotatorNotes T1294	GO:0005623 (cell)
+T1295	CHEBI 34595 34606	haemoglobin
+#1295	AnnotatorNotes T1295	CHEBI:35143 (hemoglobin)
+T1296	CL 34622 34630	platelet
+#1296	AnnotatorNotes T1296	CL:0000233 (platelet)
+T1297	CL 34639 34651	neutrophiles
+#1297	AnnotatorNotes T1297	CL:0000775 (neutrophil)
+T1298	CL 34653 34664	lymphocytes
+#1298	AnnotatorNotes T1298	CL:0000542 (lymphocyte)
+T1299	CL 34666 34675	monocytes
+#1299	AnnotatorNotes T1299	CL:0000576 (monocyte)
+T1300	CL 34677 34689	eosinophiles
+#1300	AnnotatorNotes T1300	CL:0000771 (eosinophil)
+T1301	CL 34691 34701	basophiles
+#1301	AnnotatorNotes T1301	CL:0000767 (basophil)
+T1302	SO 34704 34711	Peptide
+#1302	AnnotatorNotes T1302	SO:0001407 (peptidyl)
+T1303	GO_BP 34797 34808	Recombinant
+#1303	AnnotatorNotes T1303	GO:0006310 (DNA recombination)
+T1304	PR 34809 34819	annexin A7
+#1304	AnnotatorNotes T1304	PR:000004080 (annexin A7)
+T1305	GO_MF 34852 34867	F-actin-binding
+#1305	AnnotatorNotes T1305	GO:0051015 (actin filament binding)
+T1306	GO_BP 34871 34882	recombinant
+#1306	AnnotatorNotes T1306	GO:0006310 (DNA recombination)
+T1307	PR 34883 34893	annexin A7
+#1307	AnnotatorNotes T1307	PR:000004080 (annexin A7)
+T1308	CHEBI 34922 34925	SDS
+#1308	AnnotatorNotes T1308	CHEBI:8984 (sodium dodecyl sulfate)
+T1309	GO_CC 35051 35061	Antibodies
+#1309	AnnotatorNotes T1309	GO:0019814 (immunoglobulin complex)
+T1310	EntrezGene 35105 35121	mouse annexin A7
+#1310	AnnotatorNotes T1310	EG:11750
+T1311	NCBITaxon 35105 35110	mouse
+#1311	AnnotatorNotes T1311	NCBITaxon:10088 (Mus)
+T1312	PR 35111 35121	annexin A7
+#1312	AnnotatorNotes T1312	PR:000004080 (annexin A7)
+T1313	SO 35127 35133	domain
+#1313	AnnotatorNotes T1313	SO:0000417 (polypeptide_domain)
+T1314	NCBITaxon 35155 35161	rabbit
+#1314	AnnotatorNotes T1314	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1315	PR 35167 35173	sorcin
+#1315	AnnotatorNotes T1315	PR:000015619 (sorcin)
+T1316	GO_CC 35174 35182	antibody
+#1316	AnnotatorNotes T1316	GO:0019814 (immunoglobulin complex)
+T1317	CL 35707 35722	red blood cells
+#1317	AnnotatorNotes T1317	CL:0000232 (erythrocyte)
+T1318	GO_CC 35717 35722	cells
+#1318	AnnotatorNotes T1318	GO:0005623 (cell)
+T1319	CL 35727 35736	platelets
+#1319	AnnotatorNotes T1319	CL:0000233 (platelet)
+T1320	CL 35818 35827	platelets
+#1320	AnnotatorNotes T1320	CL:0000233 (platelet)
+T1321	CL 35862 35866	cell
+#1321	AnnotatorNotes T1321	CL:0000000 (cell)
+T1322	GO_CC 35862 35866	cell
+#1322	AnnotatorNotes T1322	GO:0005623 (cell)
+T1323	CL 35959 35967	platelet
+#1323	AnnotatorNotes T1323	CL:0000233 (platelet)
+T1324	EntrezGene 36047 36053	sorcin
+#1324	AnnotatorNotes T1324	EG:6717
+T1325	PR 36047 36053	sorcin
+#1325	AnnotatorNotes T1325	PR:000015619 (sorcin)
+T1326	GO_CC 36078 36090	cytoskeletal
+#1326	AnnotatorNotes T1326	GO:0005856 (cytoskeleton)
+T1327	CHEBI 36109 36116	protein
+#1327	AnnotatorNotes T1327	CHEBI:36080 (proteins)
+T1328	CHEBI 36424 36431	protein
+#1328	AnnotatorNotes T1328	CHEBI:36080 (proteins)
+T1329	CHEBI 36596 36605	Molecular
+#1329	AnnotatorNotes T1329	CHEBI:36357 (polyatomic entities)

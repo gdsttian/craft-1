@@ -1,0 +1,3146 @@
+T1	EntrezGene 8 14	KCNJ10
+#1	AnnotatorNotes T1	EG:16513
+T2	PR 8 14	KCNJ10
+#2	AnnotatorNotes T2	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T3	CHEBI 15 22	protein
+#3	AnnotatorNotes T3	CHEBI:36080 (proteins)
+T4	GO_BP 23 33	expression
+#4	AnnotatorNotes T4	GO:0010467 (gene expression)
+T5	NCBITaxon 107 112	mouse
+#5	AnnotatorNotes T5	NCBITaxon:10088 (Mus)
+T6	GO_CC 169 178	autosomal
+#6	AnnotatorNotes T6	GO:0030849 (autosome)
+T7	SO 260 269	mutations
+#7	AnnotatorNotes T7	SO:0000041 (sequence_operation)
+T8	SO 260 269	mutations
+#8	AnnotatorNotes T8	SO:0001059 (sequence_alteration)
+T9	EntrezGene 273 280	SLC26A4
+#9	AnnotatorNotes T9	EG:5172
+T10	PR 273 280	SLC26A4
+#10	AnnotatorNotes T10	PR:000015039 (pendrin)
+T11	EntrezGene 298 305	pendrin
+#11	AnnotatorNotes T11	EG:5172
+T12	PR 298 305	pendrin
+#12	AnnotatorNotes T12	PR:000015039 (pendrin)
+T13	EntrezGene 348 355	pendrin
+#13	AnnotatorNotes T13	EG:23985
+T14	PR 348 355	pendrin
+#14	AnnotatorNotes T14	PR:000015039 (pendrin)
+T15	NCBITaxon 375 379	mice
+#15	AnnotatorNotes T15	NCBITaxon:10088 (Mus)
+T16	italic 391 398	Slc26a4
+#16	AnnotatorNotes T16	italic (null)
+T17	PR 391 398	Slc26a4
+#17	AnnotatorNotes T17	PR:000015039 (pendrin)
+T18	EntrezGene 391 398	Slc26a4
+#18	AnnotatorNotes T18	EG:23985
+T19	sup 398 401	+/+
+#19	AnnotatorNotes T19	sup (null)
+T20	SO 398 399	+
+#20	AnnotatorNotes T20	SO:0000817 (wild_type)
+T21	SO 400 401	+
+#21	AnnotatorNotes T21	SO:0000817 (wild_type)
+T22	italic 422 429	Slc26a4
+#22	AnnotatorNotes T22	italic (null)
+T23	PR 422 429	Slc26a4
+#23	AnnotatorNotes T23	PR:000015039 (pendrin)
+T24	EntrezGene 422 429	Slc26a4
+#24	AnnotatorNotes T24	EG:23985
+T25	SO 430 434	gene
+#25	AnnotatorNotes T25	SO:0000704 (gene)
+T26	italic 436 443	Slc26a4
+#26	AnnotatorNotes T26	italic (null)
+T27	EntrezGene 436 443	Slc26a4
+#27	AnnotatorNotes T27	EG:23985
+T28	PR 436 443	Slc26a4
+#28	AnnotatorNotes T28	PR:000015039 (pendrin)
+T29	sup 443 446	-/-
+#29	AnnotatorNotes T29	sup (null)
+T30	GO_BP 459 469	Expression
+#30	AnnotatorNotes T30	GO:0010467 (gene expression)
+T31	EntrezGene 473 480	pendrin
+#31	AnnotatorNotes T31	EG:23985
+T32	PR 473 480	pendrin
+#32	AnnotatorNotes T32	PR:000015039 (pendrin)
+T33	CHEBI 491 499	proteins
+#33	AnnotatorNotes T33	CHEBI:36080 (proteins)
+T34	GO_BP 548 558	Expression
+#34	AnnotatorNotes T34	GO:0010467 (gene expression)
+T35	CHEBI 562 566	mRNA
+#35	AnnotatorNotes T35	CHEBI:33699 (messenger RNA)
+T36	SO 562 566	mRNA
+#36	AnnotatorNotes T36	SO:0000234 (mRNA)
+T37	GO_MF 598 600	RT
+#37	AnnotatorNotes T37	GO:0003964 (RNA-directed DNA polymerase activity)
+T38	GO_BP 598 600	RT
+#38	AnnotatorNotes T38	GO:0006410 (transcription, RNA-dependent)
+T39	independent_continuant 598 600	RT
+#39	AnnotatorNotes T39	independent_continuant
+T40	CHEBI 655 657	K+
+#40	AnnotatorNotes T40	CHEBI:29103 (potassium(1+))
+T41	sup 656 657	+
+#41	AnnotatorNotes T41	sup (null)
+T42	CL 765 770	cells
+#42	AnnotatorNotes T42	CL:0000000 (cell)
+T43	GO_CC 765 770	cells
+#43	AnnotatorNotes T43	GO:0005623 (cell)
+T44	GO_BP 880 892	pigmentation
+#44	AnnotatorNotes T44	GO:0043473 (pigmentation)
+T45	EntrezGene 935 942	Pendrin
+#45	AnnotatorNotes T45	EG:23985
+T46	PR 935 942	Pendrin
+#46	AnnotatorNotes T46	PR:000015039 (pendrin)
+T47	GO_CC 971 1014	apical membranes of spiral prominence cells
+#47	AnnotatorNotes T47	"apical membranes of .. cells" GO:0016324 (apical plasma membrane)
+T48	GO_CC 971 977	apical
+#48	AnnotatorNotes T48	GO:0045177 (apical part of cell)
+T49	CL 1009 1014	cells
+#49	AnnotatorNotes T49	CL:0000000 (cell)
+T50	GO_CC 1009 1014	cells
+#50	AnnotatorNotes T50	GO:0005623 (cell)
+T51	CL 1034 1039	cells
+#51	AnnotatorNotes T51	CL:0000000 (cell)
+T52	GO_CC 1034 1039	cells
+#52	AnnotatorNotes T52	GO:0005623 (cell)
+T53	CL 1086 1091	cells
+#53	AnnotatorNotes T53	CL:0000000 (cell)
+T54	GO_CC 1086 1091	cells
+#54	AnnotatorNotes T54	GO:0005623 (cell)
+T55	italic 1113 1120	Slc26a4
+#55	AnnotatorNotes T55	italic (null)
+T56	PR 1113 1120	Slc26a4
+#56	AnnotatorNotes T56	PR:000015039 (pendrin)
+T57	EntrezGene 1113 1120	Slc26a4
+#57	AnnotatorNotes T57	EG:23985
+T58	sup 1120 1123	-/-
+#58	AnnotatorNotes T58	sup (null)
+T59	NCBITaxon 1124 1128	mice
+#59	AnnotatorNotes T59	NCBITaxon:10088 (Mus)
+T60	CL 1205 1215	fibrocytes
+#60	AnnotatorNotes T60	CL:0000135 (fibrocyte)
+T61	italic 1230 1237	Slc26a4
+#61	AnnotatorNotes T61	italic (null)
+T62	PR 1230 1237	Slc26a4
+#62	AnnotatorNotes T62	PR:000015039 (pendrin)
+T63	EntrezGene 1230 1237	Slc26a4
+#63	AnnotatorNotes T63	EG:23985
+T64	sup 1237 1240	-/-
+#64	AnnotatorNotes T64	sup (null)
+T65	NCBITaxon 1241 1245	mice
+#65	AnnotatorNotes T65	NCBITaxon:10088 (Mus)
+T66	CL 1311 1321	basal cell
+#66	AnnotatorNotes T66	CL:0000646 (basal cell)
+T67	GO_CC 1317 1321	cell
+#67	AnnotatorNotes T67	GO:0005623 (cell)
+T68	GO_MF 1337 1347	K+ channel
+#68	AnnotatorNotes T68	GO:0005267 (potassium channel activity)
+T69	independent_continuant 1337 1347	K+ channel
+#69	AnnotatorNotes T69	independent_continuant
+T70	CHEBI 1337 1339	K+
+#70	AnnotatorNotes T70	CHEBI:29103 (potassium(1+))
+T71	sup 1338 1339	+
+#71	AnnotatorNotes T71	sup (null)
+T72	EntrezGene 1348 1354	KCNJ10
+#72	AnnotatorNotes T72	EG:16513
+T73	PR 1348 1354	KCNJ10
+#73	AnnotatorNotes T73	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T74	GO_BP 1355 1364	localized
+#74	AnnotatorNotes T74	GO:0051179 (localization)
+T75	CL 1381 1386	cells
+#75	AnnotatorNotes T75	CL:0000000 (cell)
+T76	GO_CC 1381 1386	cells
+#76	AnnotatorNotes T76	GO:0005623 (cell)
+T77	CHEBI 1449 1461	free radical
+#77	AnnotatorNotes T77	CHEBI:26519 (radicals)
+T78	CL 1474 1484	basal cell
+#78	AnnotatorNotes T78	CL:0000646 (basal cell)
+T79	GO_CC 1480 1484	cell
+#79	AnnotatorNotes T79	GO:0005623 (cell)
+T80	CL 1523 1528	cells
+#80	AnnotatorNotes T80	CL:0000000 (cell)
+T81	GO_CC 1523 1528	cells
+#81	AnnotatorNotes T81	GO:0005623 (cell)
+T82	EntrezGene 1533 1539	KCNJ10
+#82	AnnotatorNotes T82	EG:16513
+T83	PR 1533 1539	KCNJ10
+#83	AnnotatorNotes T83	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T84	CHEBI 1540 1544	mRNA
+#84	AnnotatorNotes T84	CHEBI:33699 (messenger RNA)
+T85	SO 1540 1544	mRNA
+#85	AnnotatorNotes T85	SO:0000234 (mRNA)
+T86	EntrezGene 1562 1568	KCNJ10
+#86	AnnotatorNotes T86	EG:16513
+T87	PR 1562 1568	KCNJ10
+#87	AnnotatorNotes T87	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T88	CHEBI 1569 1576	protein
+#88	AnnotatorNotes T88	CHEBI:36080 (proteins)
+T89	CHEBI 1603 1605	K+
+#89	AnnotatorNotes T89	CHEBI:29103 (potassium(1+))
+T90	sup 1604 1605	+
+#90	AnnotatorNotes T90	sup (null)
+T91	GO_CC 1637 1645	membrane
+#91	AnnotatorNotes T91	GO:0016020 (membrane)
+T92	CHEBI 1646 1654	proteins
+#92	AnnotatorNotes T92	CHEBI:36080 (proteins)
+T93	CHEBI 1669 1671	K+
+#93	AnnotatorNotes T93	CHEBI:29103 (potassium(1+))
+T94	sup 1670 1671	+
+#94	AnnotatorNotes T94	sup (null)
+T95	GO_BP 1672 1681	secretion
+#95	AnnotatorNotes T95	GO:0046903 (secretion)
+T96	GO_MF 1710 1720	K+ channel
+#96	AnnotatorNotes T96	GO:0005267 (potassium channel activity)
+T97	independent_continuant 1710 1720	K+ channel
+#97	AnnotatorNotes T97	independent_continuant
+T98	CHEBI 1710 1712	K+
+#98	AnnotatorNotes T98	CHEBI:29103 (potassium(1+))
+T99	sup 1711 1712	+
+#99	AnnotatorNotes T99	sup (null)
+T100	EntrezGene 1721 1726	KCNQ1
+#100	AnnotatorNotes T100	EG:16535
+T101	PR 1721 1726	KCNQ1
+#101	AnnotatorNotes T101	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T102	EntrezGene 1731 1736	KCNE1
+#102	AnnotatorNotes T102	EG:16509
+T103	PR 1731 1736	KCNE1
+#103	AnnotatorNotes T103	PR:000009255 (potassium voltage-gated channel subfamily E member 1)
+T104	GO_MF 1738 1763	Na+/2Cl-/K+ cotransporter
+#104	AnnotatorNotes T104	GO:0008511 (sodium:potassium:chloride symporter activity)
+T105	independent_continuant 1738 1763	Na+/2Cl-/K+ cotransporter
+#105	AnnotatorNotes T105	independent_continuant
+T106	CHEBI 1738 1741	Na+
+#106	AnnotatorNotes T106	CHEBI:29101 (sodium(1+))
+T107	sup 1740 1741	+
+#107	AnnotatorNotes T107	sup (null)
+T108	sup 1745 1746	-
+#108	AnnotatorNotes T108	sup (null)
+T109	CHEBI 1747 1749	K+
+#109	AnnotatorNotes T109	CHEBI:29103 (potassium(1+))
+T110	sup 1748 1749	+
+#110	AnnotatorNotes T110	sup (null)
+T111	EntrezGene 1764 1771	SLC12A2
+#111	AnnotatorNotes T111	EG:20496
+T112	PR 1764 1771	SLC12A2
+#112	AnnotatorNotes T112	PR:000014925 (solute carrier family 12 member 2)
+T113	GO_CC 1780 1792	gap junction
+#113	AnnotatorNotes T113	GO:0005921 (gap junction)
+T114	EntrezGene 1793 1797	GJB2
+#114	AnnotatorNotes T114	EG:14619
+T115	PR 1793 1797	GJB2
+#115	AnnotatorNotes T115	PR:000007998 (gap junction beta-2 protein)
+T116	EntrezGene 1849 1856	pendrin
+#116	AnnotatorNotes T116	EG:23985
+T117	PR 1849 1856	pendrin
+#117	AnnotatorNotes T117	PR:000015039 (pendrin)
+T118	EntrezGene 1888 1894	KCNJ10
+#118	AnnotatorNotes T118	EG:16513
+T119	PR 1888 1894	KCNJ10
+#119	AnnotatorNotes T119	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T120	CHEBI 1895 1902	protein
+#120	AnnotatorNotes T120	CHEBI:36080 (proteins)
+T121	GO_BP 1903 1913	expression
+#121	AnnotatorNotes T121	GO:0010467 (gene expression)
+T122	GO_CC 2072 2081	autosomal
+#122	AnnotatorNotes T122	GO:0030849 (autosome)
+T123	SO 2169 2178	mutations
+#123	AnnotatorNotes T123	SO:0001059 (sequence_alteration)
+T124	SO 2169 2178	mutations
+#124	AnnotatorNotes T124	SO:0000041 (sequence_operation)
+T125	italic 2186 2189	PDS
+#125	AnnotatorNotes T125	italic (null)
+T126	EntrezGene 2186 2189	PDS
+#126	AnnotatorNotes T126	EG:5172
+T127	PR 2186 2189	PDS
+#127	AnnotatorNotes T127	PR:000015039 (pendrin)
+T128	SO 2190 2194	gene
+#128	AnnotatorNotes T128	SO:0000704 (gene)
+T129	EntrezGene 2195 2202	SLC26A4
+#129	AnnotatorNotes T129	EG:5172
+T130	PR 2195 2202	SLC26A4
+#130	AnnotatorNotes T130	PR:000015039 (pendrin)
+T131	CHEBI 2224 2231	protein
+#131	AnnotatorNotes T131	CHEBI:36080 (proteins)
+T132	EntrezGene 2232 2239	pendrin
+#132	AnnotatorNotes T132	EG:5172
+T133	PR 2232 2239	pendrin
+#133	AnnotatorNotes T133	PR:000015039 (pendrin)
+T134	CHEBI 2508 2514	iodide
+#134	AnnotatorNotes T134	CHEBI:16382 (iodide)
+T135	GO_BP 2573 2589	iodide transport
+#135	AnnotatorNotes T135	GO:0015705 (iodide transport)
+T136	CHEBI 2573 2579	iodide
+#136	AnnotatorNotes T136	CHEBI:16382 (iodide)
+T137	GO_BP 2580 2616	transport across the apical membrane
+#137	AnnotatorNotes T137	"transport across .. membrane" GO:0055085 (transmembrane transport)
+T138	GO_CC 2601 2650	apical membrane of thyroid gland epithelial cells
+#138	AnnotatorNotes T138	"apical membrane of .. cells" GO:0016324 (apical plasma membrane)
+T139	GO_CC 2601 2607	apical
+#139	AnnotatorNotes T139	GO:0045177 (apical part of cell)
+T140	CL 2634 2650	epithelial cells
+#140	AnnotatorNotes T140	CL:0000066 (epithelial cell)
+T141	GO_CC 2645 2650	cells
+#141	AnnotatorNotes T141	GO:0005623 (cell)
+T142	CHEBI 2667 2678	perchlorate
+#142	AnnotatorNotes T142	CHEBI:49706 (perchlorate)
+T143	PR 2802 2809	Pendrin
+#143	AnnotatorNotes T143	PR:000015039 (pendrin)
+T144	GO_MF 2816 2831	anion exchanger
+#144	AnnotatorNotes T144	GO:0015380 (anion exchanger activity)
+T145	independent_continuant 2816 2831	anion exchanger
+#145	AnnotatorNotes T145	independent_continuant
+T146	CHEBI 2816 2821	anion
+#146	AnnotatorNotes T146	CHEBI:22563 (anions)
+T147	GO_BP 2841 2850	transport
+#147	AnnotatorNotes T147	GO:0006810 (transport)
+T148	CHEBI 2851 2854	Cl-
+#148	AnnotatorNotes T148	CHEBI:17996 (chloride)
+T149	sup 2853 2854	-
+#149	AnnotatorNotes T149	sup (null)
+T150	CHEBI 2856 2858	I-
+#150	AnnotatorNotes T150	CHEBI:16382 (iodide)
+T151	sup 2857 2858	-
+#151	AnnotatorNotes T151	sup (null)
+T152	CHEBI 2860 2866	HCO3 -
+#152	AnnotatorNotes T152	CHEBI:17544 (hydrogencarbonate)
+T153	sub 2863 2864	3
+#153	AnnotatorNotes T153	sub (null)
+T154	sup 2865 2866	-
+#154	AnnotatorNotes T154	sup (null)
+T155	CHEBI 2871 2878	formate
+#155	AnnotatorNotes T155	CHEBI:15740 (formate)
+T156	GO_BP 2886 2896	Expression
+#156	AnnotatorNotes T156	GO:0010467 (gene expression)
+T157	PR 3027 3034	pendrin
+#157	AnnotatorNotes T157	PR:000015039 (pendrin)
+T158	GO_BP 3035 3045	expression
+#158	AnnotatorNotes T158	GO:0010467 (gene expression)
+T159	GO_BP 3147 3157	expression
+#159	AnnotatorNotes T159	GO:0010467 (gene expression)
+T160	GO_BP 3249 3259	Expression
+#160	AnnotatorNotes T160	GO:0010467 (gene expression)
+T161	PR 3263 3270	pendrin
+#161	AnnotatorNotes T161	PR:000015039 (pendrin)
+T162	CHEBI 3271 3275	mRNA
+#162	AnnotatorNotes T162	CHEBI:33699 (messenger RNA)
+T163	SO 3271 3275	mRNA
+#163	AnnotatorNotes T163	SO:0000234 (mRNA)
+T164	PR 3429 3436	pendrin
+#164	AnnotatorNotes T164	PR:000015039 (pendrin)
+T165	CHEBI 3437 3444	protein
+#165	AnnotatorNotes T165	CHEBI:36080 (proteins)
+T166	GO_BP 3445 3455	expression
+#166	AnnotatorNotes T166	GO:0010467 (gene expression)
+T167	EntrezGene 3617 3624	pendrin
+#167	AnnotatorNotes T167	EG:5172
+T168	PR 3617 3624	pendrin
+#168	AnnotatorNotes T168	PR:000015039 (pendrin)
+T169	EntrezGene 3701 3708	pendrin
+#169	AnnotatorNotes T169	EG:5172
+T170	PR 3701 3708	pendrin
+#170	AnnotatorNotes T170	PR:000015039 (pendrin)
+T171	GO_BP 3743 3753	expression
+#171	AnnotatorNotes T171	GO:0010467 (gene expression)
+T172	CHEBI 3764 3772	proteins
+#172	AnnotatorNotes T172	CHEBI:36080 (proteins)
+T173	GO_BP 3818 3834	hearing function
+#173	AnnotatorNotes T173	GO:0007605 (sensory perception of sound)
+T174	GO_BP 3964 4016	generation of a pendrin-specific polyclonal antibody
+#174	AnnotatorNotes T174	"generation of .. antibody" GO:0002378 (immunoglobulin biosynthetic process)
+T175	GO_BP 3964 4016	generation of a pendrin-specific polyclonal antibody
+#175	AnnotatorNotes T175	"generation of .. antibody" GO:0002377 (immunoglobulin production)
+T176	PR 3980 3987	pendrin
+#176	AnnotatorNotes T176	PR:000015039 (pendrin)
+T177	GO_CC 4008 4016	antibody
+#177	AnnotatorNotes T177	GO:0019814 (immunoglobulin complex)
+T178	GO_BP 4029 4040	development
+#178	AnnotatorNotes T178	GO:0000003 (reproduction)
+T179	italic 4044 4051	Slc26a4
+#179	AnnotatorNotes T179	italic (null)
+T180	EntrezGene 4044 4051	Slc26a4
+#180	AnnotatorNotes T180	EG:23985
+T181	PR 4044 4051	Slc26a4
+#181	AnnotatorNotes T181	PR:000015039 (pendrin)
+T182	sup 4051 4054	-/-
+#182	AnnotatorNotes T182	sup (null)
+T183	NCBITaxon 4055 4059	mice
+#183	AnnotatorNotes T183	NCBITaxon:10088 (Mus)
+T184	EntrezGene 4101 4114	mouse Slc26a4
+#184	AnnotatorNotes T184	EG:23985
+T185	NCBITaxon 4101 4106	mouse
+#185	AnnotatorNotes T185	NCBITaxon:10088 (Mus)
+T186	italic 4107 4114	Slc26a4
+#186	AnnotatorNotes T186	italic (null)
+T187	PR 4107 4114	Slc26a4
+#187	AnnotatorNotes T187	PR:000015039 (pendrin)
+T188	SO 4115 4119	gene
+#188	AnnotatorNotes T188	SO:0000704 (gene)
+T189	EntrezGene 4188 4195	pendrin
+#189	AnnotatorNotes T189	EG:23985
+T190	PR 4188 4195	pendrin
+#190	AnnotatorNotes T190	PR:000015039 (pendrin)
+T191	italic 4225 4232	Slc26a4
+#191	AnnotatorNotes T191	italic (null)
+T192	PR 4225 4232	Slc26a4
+#192	AnnotatorNotes T192	PR:000015039 (pendrin)
+T193	EntrezGene 4225 4232	Slc26a4
+#193	AnnotatorNotes T193	EG:23985
+T194	sup 4232 4235	-/-
+#194	AnnotatorNotes T194	sup (null)
+T195	NCBITaxon 4236 4240	mice
+#195	AnnotatorNotes T195	NCBITaxon:10088 (Mus)
+T196	CHEBI 4319 4321	K+
+#196	AnnotatorNotes T196	CHEBI:29103 (potassium(1+))
+T197	sup 4320 4321	+
+#197	AnnotatorNotes T197	sup (null)
+T198	NCBITaxon 4366 4370	mice
+#198	AnnotatorNotes T198	NCBITaxon:10088 (Mus)
+T199	italic 4408 4415	Slc26a4
+#199	AnnotatorNotes T199	italic (null)
+T200	PR 4408 4415	Slc26a4
+#200	AnnotatorNotes T200	PR:000015039 (pendrin)
+T201	EntrezGene 4408 4415	Slc26a4
+#201	AnnotatorNotes T201	EG:23985
+T202	sup 4415 4418	+/+
+#202	AnnotatorNotes T202	sup (null)
+T203	SO 4415 4416	+
+#203	AnnotatorNotes T203	SO:0000817 (wild_type)
+T204	SO 4417 4418	+
+#204	AnnotatorNotes T204	SO:0000817 (wild_type)
+T205	italic 4429 4436	Slc26a4
+#205	AnnotatorNotes T205	italic (null)
+T206	PR 4429 4436	Slc26a4
+#206	AnnotatorNotes T206	PR:000015039 (pendrin)
+T207	EntrezGene 4429 4436	Slc26a4
+#207	AnnotatorNotes T207	EG:23985
+T208	sup 4436 4439	-/-
+#208	AnnotatorNotes T208	sup (null)
+T209	SO 4454 4458	gene
+#209	AnnotatorNotes T209	SO:0000704 (gene)
+T210	EntrezGene 4463 4470	pendrin
+#210	AnnotatorNotes T210	EG:23985
+T211	PR 4463 4470	pendrin
+#211	AnnotatorNotes T211	PR:000015039 (pendrin)
+T212	NCBITaxon 4481 4486	mouse
+#212	AnnotatorNotes T212	NCBITaxon:10088 (Mus)
+T213	italic 4557 4564	Slc26a4
+#213	AnnotatorNotes T213	italic (null)
+T214	PR 4557 4564	Slc26a4
+#214	AnnotatorNotes T214	PR:000015039 (pendrin)
+T215	EntrezGene 4557 4564	Slc26a4
+#215	AnnotatorNotes T215	EG:23985
+T216	sup 4564 4567	+/+
+#216	AnnotatorNotes T216	sup (null)
+T217	SO 4564 4565	+
+#217	AnnotatorNotes T217	SO:0000817 (wild_type)
+T218	SO 4566 4567	+
+#218	AnnotatorNotes T218	SO:0000817 (wild_type)
+T219	italic 4584 4591	Slc26a4
+#219	AnnotatorNotes T219	italic (null)
+T220	PR 4584 4591	Slc26a4
+#220	AnnotatorNotes T220	PR:000015039 (pendrin)
+T221	EntrezGene 4584 4591	Slc26a4
+#221	AnnotatorNotes T221	EG:23985
+T222	sup 4591 4594	-/-
+#222	AnnotatorNotes T222	sup (null)
+T223	NCBITaxon 4595 4599	mice
+#223	AnnotatorNotes T223	NCBITaxon:10088 (Mus)
+T224	GO_BP 4605 4615	propagated
+#224	AnnotatorNotes T224	GO:0000003 (reproduction)
+T225	GO_BP 4639 4648	generated
+#225	AnnotatorNotes T225	GO:0000003 (reproduction)
+T226	CL 4657 4666	stem cell
+#226	AnnotatorNotes T226	CL:0000034 (stem cell)
+T227	GO_CC 4662 4666	cell
+#227	AnnotatorNotes T227	GO:0005623 (cell)
+T228	italic 4695 4702	Slc26a4
+#228	AnnotatorNotes T228	italic (null)
+T229	PR 4695 4702	Slc26a4
+#229	AnnotatorNotes T229	PR:000015039 (pendrin)
+T230	EntrezGene 4695 4702	Slc26a4
+#230	AnnotatorNotes T230	EG:23985
+T231	sup 4702 4705	+/+
+#231	AnnotatorNotes T231	sup (null)
+T232	SO 4702 4703	+
+#232	AnnotatorNotes T232	SO:0000817 (wild_type)
+T233	SO 4704 4705	+
+#233	AnnotatorNotes T233	SO:0000817 (wild_type)
+T234	italic 4710 4717	Slc26a4
+#234	AnnotatorNotes T234	italic (null)
+T235	PR 4710 4717	Slc26a4
+#235	AnnotatorNotes T235	PR:000015039 (pendrin)
+T236	EntrezGene 4710 4717	Slc26a4
+#236	AnnotatorNotes T236	EG:23985
+T237	sup 4717 4720	-/-
+#237	AnnotatorNotes T237	sup (null)
+T238	GO_BP 4784 4796	pigmentation
+#238	AnnotatorNotes T238	GO:0043473 (pigmentation)
+T239	italic 4840 4847	Slc26a4
+#239	AnnotatorNotes T239	italic (null)
+T240	PR 4840 4847	Slc26a4
+#240	AnnotatorNotes T240	PR:000015039 (pendrin)
+T241	EntrezGene 4840 4847	Slc26a4
+#241	AnnotatorNotes T241	EG:23985
+T242	sup 4847 4850	+/+
+#242	AnnotatorNotes T242	sup (null)
+T243	SO 4847 4848	+
+#243	AnnotatorNotes T243	SO:0000817 (wild_type)
+T244	SO 4849 4850	+
+#244	AnnotatorNotes T244	SO:0000817 (wild_type)
+T245	italic 4855 4862	Slc26a4
+#245	AnnotatorNotes T245	italic (null)
+T246	PR 4855 4862	Slc26a4
+#246	AnnotatorNotes T246	PR:000015039 (pendrin)
+T247	EntrezGene 4855 4862	Slc26a4
+#247	AnnotatorNotes T247	EG:23985
+T248	sup 4862 4865	-/-
+#248	AnnotatorNotes T248	sup (null)
+T249	GO_BP 4876 4880	bred
+#249	AnnotatorNotes T249	GO:0000003 (reproduction)
+T250	GO_BP 4895 4905	Expression
+#250	AnnotatorNotes T250	GO:0010467 (gene expression)
+T251	CHEBI 4913 4921	proteins
+#251	AnnotatorNotes T251	CHEBI:36080 (proteins)
+T252	GO_BP 4987 5002	transport of K+
+#252	AnnotatorNotes T252	GO:0006813 (potassium ion transport)
+T253	CHEBI 5000 5002	K+
+#253	AnnotatorNotes T253	CHEBI:29103 (potassium(1+))
+T254	sup 5001 5002	+
+#254	AnnotatorNotes T254	sup (null)
+T255	GO_MF 5067 5069	RT
+#255	AnnotatorNotes T255	GO:0003964 (RNA-directed DNA polymerase activity)
+T256	GO_BP 5067 5069	RT
+#256	AnnotatorNotes T256	GO:0006410 (transcription, RNA-dependent)
+T257	independent_continuant 5067 5069	RT
+#257	AnnotatorNotes T257	independent_continuant
+T258	CHEBI 5075 5077	K+
+#258	AnnotatorNotes T258	CHEBI:29103 (potassium(1+))
+T259	sup 5076 5077	+
+#259	AnnotatorNotes T259	sup (null)
+T260	GO_BP 5078 5087	secretion
+#260	AnnotatorNotes T260	GO:0046903 (secretion)
+T261	NCBITaxon 5241 5247	Animal
+#261	AnnotatorNotes T261	NCBITaxon:33208 (Metazoa)
+T262	NCBITaxon 5330 5337	Animals
+#262	AnnotatorNotes T262	NCBITaxon:33208 (Metazoa)
+T263	CHEBI 5368 5374	sodium
+#263	AnnotatorNotes T263	CHEBI:26708 (sodium)
+T264	CHEBI 5368 5374	sodium
+#264	AnnotatorNotes T264	CHEBI:26714 (sodium salts)
+T265	CHEBI 5375 5388	pentobarbital
+#265	AnnotatorNotes T265	CHEBI:7983 (pentobarbital)
+T266	CHEBI 5441 5444	Cl-
+#266	AnnotatorNotes T266	CHEBI:17996 (chloride)
+T267	sup 5443 5444	-
+#267	AnnotatorNotes T267	sup (null)
+T268	CHEBI 5450 5459	phosphate
+#268	AnnotatorNotes T268	CHEBI:26020 (phosphates)
+T269	CHEBI 5450 5459	phosphate
+#269	AnnotatorNotes T269	CHEBI:35780 (phosphate ions)
+T270	CHEBI 5460 5468	buffered
+#270	AnnotatorNotes T270	CHEBI:35225 (buffer)
+T271	CHEBI 5469 5471	Na
+#271	AnnotatorNotes T271	CHEBI:26708 (sodium)
+T272	CHEBI 5472 5481	gluconate
+#272	AnnotatorNotes T272	CHEBI:24265 (gluconate)
+T273	CHEBI 5613 5617	EDTA
+#273	AnnotatorNotes T273	CHEBI:30378 (ethylenediaminetetraacetate)
+T274	CHEBI 5613 5617	EDTA
+#274	AnnotatorNotes T274	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T275	CHEBI 5639 5646	sucrose
+#275	AnnotatorNotes T275	CHEBI:17992 (sucrose)
+T276	CHEBI 5677 5696	polyethylene glycol
+#276	AnnotatorNotes T276	CHEBI:46793 (polyethylene glycols)
+T277	CHEBI 5690 5696	glycol
+#277	AnnotatorNotes T277	CHEBI:13643 (glycols)
+T278	EntrezGene 5823 5843	bovine serum albumin
+#278	AnnotatorNotes T278	EG:280717
+T279	NCBITaxon 5823 5829	bovine
+#279	AnnotatorNotes T279	NCBITaxon:27592 (Bovinae)
+T280	PR 5830 5843	serum albumin
+#280	AnnotatorNotes T280	PR:000003918 (serum albumin)
+T281	GO_CC 5897 5907	antibodies
+#281	AnnotatorNotes T281	GO:0019814 (immunoglobulin complex)
+T282	EntrezGene 5928 5931	BSA
+#282	AnnotatorNotes T282	EG:280717
+T283	NCBITaxon 5933 5939	rabbit
+#283	AnnotatorNotes T283	NCBITaxon:9986 (Oryctolagus cuniculus)
+T284	PR 5945 5952	pendrin
+#284	AnnotatorNotes T284	PR:000015039 (pendrin)
+T285	NCBITaxon 5972 5975	rat
+#285	AnnotatorNotes T285	NCBITaxon:10114 (Rattus)
+T286	PR 5981 5985	ZO-1
+#286	AnnotatorNotes T286	PR:000016364 (tight junction protein ZO-1)
+T287	NCBITaxon 6019 6023	goat
+#287	AnnotatorNotes T287	NCBITaxon:9925 (Capra hircus)
+T288	PR 6029 6034	KCNQ1
+#288	AnnotatorNotes T288	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T289	NCBITaxon 6091 6097	rabbit
+#289	AnnotatorNotes T289	NCBITaxon:9986 (Oryctolagus cuniculus)
+T290	PR 6103 6108	KCNE1
+#290	AnnotatorNotes T290	PR:000009255 (potassium voltage-gated channel subfamily E member 1)
+T291	NCBITaxon 6146 6152	rabbit
+#291	AnnotatorNotes T291	NCBITaxon:9986 (Oryctolagus cuniculus)
+T292	PR 6158 6164	KCNJ10
+#292	AnnotatorNotes T292	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T293	NCBITaxon 6183 6189	rabbit
+#293	AnnotatorNotes T293	NCBITaxon:9986 (Oryctolagus cuniculus)
+T294	PR 6195 6202	SLC12A2
+#294	AnnotatorNotes T294	PR:000014925 (solute carrier family 12 member 2)
+T295	NCBITaxon 6226 6232	rabbit
+#295	AnnotatorNotes T295	NCBITaxon:9986 (Oryctolagus cuniculus)
+T296	PR 6238 6249	connexin 26
+#296	AnnotatorNotes T296	PR:000007998 (gap junction beta-2 protein)
+T297	GO_CC 6372 6382	antibodies
+#297	AnnotatorNotes T297	GO:0019814 (immunoglobulin complex)
+T298	NCBITaxon 6429 6435	donkey
+#298	AnnotatorNotes T298	NCBITaxon:9793 (Equus asinus)
+T299	NCBITaxon 6441 6447	rabbit
+#299	AnnotatorNotes T299	NCBITaxon:9986 (Oryctolagus cuniculus)
+T300	NCBITaxon 6459 6466	chicken
+#300	AnnotatorNotes T300	NCBITaxon:9031 (Gallus gallus)
+T301	NCBITaxon 6472 6475	rat
+#301	AnnotatorNotes T301	NCBITaxon:10114 (Rattus)
+T302	NCBITaxon 6491 6498	chicken
+#302	AnnotatorNotes T302	NCBITaxon:9031 (Gallus gallus)
+T303	NCBITaxon 6504 6508	goat
+#303	AnnotatorNotes T303	NCBITaxon:9925 (Capra hircus)
+T304	CHEBI 6520 6529	Molecular
+#304	AnnotatorNotes T304	CHEBI:36357 (polyatomic entities)
+T305	GO_CC 6552 6567	Actin filaments
+#305	AnnotatorNotes T305	GO:0005884 (actin filament)
+T306	GO_BP 6611 6621	conjugated
+#306	AnnotatorNotes T306	GO:0043412 (biopolymer modification)
+T307	CHEBI 6622 6632	phalloidin
+#307	AnnotatorNotes T307	CHEBI:8040 (phalloidin)
+T308	CHEBI 6634 6643	Molecular
+#308	AnnotatorNotes T308	CHEBI:36357 (polyatomic entities)
+T309	GO_BP 6992 7004	pigmentation
+#309	AnnotatorNotes T309	GO:0043473 (pigmentation)
+T310	GO_MF 7020 7022	RT
+#310	AnnotatorNotes T310	GO:0003964 (RNA-directed DNA polymerase activity)
+T311	GO_BP 7020 7022	RT
+#311	AnnotatorNotes T311	GO:0006410 (transcription, RNA-dependent)
+T312	independent_continuant 7020 7022	RT
+#312	AnnotatorNotes T312	independent_continuant
+T313	NCBITaxon 7028 7035	Animals
+#313	AnnotatorNotes T313	NCBITaxon:33208 (Metazoa)
+T314	CHEBI 7066 7072	sodium
+#314	AnnotatorNotes T314	CHEBI:26708 (sodium)
+T315	CHEBI 7066 7072	sodium
+#315	AnnotatorNotes T315	CHEBI:26714 (sodium salts)
+T316	CHEBI 7073 7086	pentobarbital
+#316	AnnotatorNotes T316	CHEBI:7983 (pentobarbital)
+T317	CHEBI 7161 7163	N2
+#317	AnnotatorNotes T317	CHEBI:17997 (dinitrogen)
+T318	sub 7162 7163	2
+#318	AnnotatorNotes T318	sub (null)
+T319	italic 7542 7549	Slc26a4
+#319	AnnotatorNotes T319	italic (null)
+T320	EntrezGene 7542 7549	Slc26a4
+#320	AnnotatorNotes T320	EG:23985
+T321	PR 7542 7549	Slc26a4
+#321	AnnotatorNotes T321	PR:000015039 (pendrin)
+T322	sup 7549 7552	-/-
+#322	AnnotatorNotes T322	sup (null)
+T323	SO 7552 7560	genotype
+#323	AnnotatorNotes T323	SO:0001027 (genotype)
+T324	SO 7647 7650	RNA
+#324	AnnotatorNotes T324	SO:0000356 (RNA)
+T325	SO 7677 7680	DNA
+#325	AnnotatorNotes T325	SO:0000352 (DNA)
+T326	SO 7710 7719	enzymatic
+#326	AnnotatorNotes T326	SO:0001185 (enzymatic)
+T327	GO_BP 7720 7729	digestion
+#327	AnnotatorNotes T327	GO:0009056 (catabolic process)
+T328	SO 7792 7800	18S rRNA
+#328	AnnotatorNotes T328	SO:0000407 (rRNA_18S)
+T329	EntrezGene 7792 7800	18S rRNA
+#329	AnnotatorNotes T329	EG:19791
+T330	CHEBI 7796 7800	rRNA
+#330	AnnotatorNotes T330	CHEBI:18111 (ribosomal RNA)
+T331	SO 7929 7932	RNA
+#331	AnnotatorNotes T331	SO:0000356 (RNA)
+T332	GO_MF 8051 8053	RT
+#332	AnnotatorNotes T332	GO:0003964 (RNA-directed DNA polymerase activity)
+T333	GO_BP 8051 8053	RT
+#333	AnnotatorNotes T333	GO:0006410 (transcription, RNA-dependent)
+T334	independent_continuant 8051 8053	RT
+#334	AnnotatorNotes T334	independent_continuant
+T335	SO 8075 8078	RNA
+#335	AnnotatorNotes T335	SO:0000356 (RNA)
+T336	NCBITaxon 8104 8111	animals
+#336	AnnotatorNotes T336	NCBITaxon:33208 (Metazoa)
+T337	GO_MF 8121 8123	RT
+#337	AnnotatorNotes T337	GO:0003964 (RNA-directed DNA polymerase activity)
+T338	GO_BP 8121 8123	RT
+#338	AnnotatorNotes T338	GO:0006410 (transcription, RNA-dependent)
+T339	independent_continuant 8121 8123	RT
+#339	AnnotatorNotes T339	independent_continuant
+T340	CHEBI 8213 8222	Molecular
+#340	AnnotatorNotes T340	CHEBI:36357 (polyatomic entities)
+T341	SO 8232 8243	Transcripts
+#341	AnnotatorNotes T341	SO:0000673 (transcript)
+T342	SO 8247 8255	18S rRNA
+#342	AnnotatorNotes T342	SO:0000407 (rRNA_18S)
+T343	EntrezGene 8247 8255	18S rRNA
+#343	AnnotatorNotes T343	EG:19791
+T344	CHEBI 8251 8255	rRNA
+#344	AnnotatorNotes T344	CHEBI:18111 (ribosomal RNA)
+T345	CHEBI 8260 8264	mRNA
+#345	AnnotatorNotes T345	CHEBI:33699 (messenger RNA)
+T346	SO 8260 8264	mRNA
+#346	AnnotatorNotes T346	SO:0000234 (mRNA)
+T347	GO_MF 8273 8284	K+ channels
+#347	AnnotatorNotes T347	GO:0005267 (potassium channel activity)
+T348	independent_continuant 8273 8284	K+ channels
+#348	AnnotatorNotes T348	independent_continuant
+T349	CHEBI 8273 8275	K+
+#349	AnnotatorNotes T349	CHEBI:29103 (potassium(1+))
+T350	sup 8274 8275	+
+#350	AnnotatorNotes T350	sup (null)
+T351	EntrezGene 8285 8291	KCNJ10
+#351	AnnotatorNotes T351	EG:16513
+T352	PR 8285 8291	KCNJ10
+#352	AnnotatorNotes T352	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T353	EntrezGene 8293 8298	KCNQ1
+#353	AnnotatorNotes T353	EG:16535
+T354	PR 8293 8298	KCNQ1
+#354	AnnotatorNotes T354	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T355	EntrezGene 8303 8308	KCNQ4
+#355	AnnotatorNotes T355	EG:60613
+T356	PR 8303 8308	KCNQ4
+#356	AnnotatorNotes T356	PR:000000731 (voltage-gated potassium channel subunit KCNQ4)
+T357	SO 8330 8334	gene
+#357	AnnotatorNotes T357	SO:0000704 (gene)
+T358	SO 8344 8351	primers
+#358	AnnotatorNotes T358	SO:0000112 (primer)
+T359	GO_BP 8363 8365	RT
+#359	AnnotatorNotes T359	GO:0006410 (transcription, RNA-dependent)
+T360	GO_BP 8565 8572	melting
+#360	AnnotatorNotes T360	GO:0032508 (DNA duplex unwinding)
+T361	SO 8676 8682	primer
+#361	AnnotatorNotes T361	SO:0000112 (primer)
+T362	GO_BP 8699 8706	melting
+#362	AnnotatorNotes T362	GO:0032508 (DNA duplex unwinding)
+T363	GO_BP 8768 8772	melt
+#363	AnnotatorNotes T363	GO:0032508 (DNA duplex unwinding)
+T364	GO_BP 8791 8801	generation
+#364	AnnotatorNotes T364	GO:0009058 (biosynthetic process)
+T365	GO_BP 8892 8896	melt
+#365	AnnotatorNotes T365	GO:0032508 (DNA duplex unwinding)
+T366	CHEBI 8909 8916	agarose
+#366	AnnotatorNotes T366	CHEBI:2511 (agarose)
+T367	SO 8994 9001	Primers
+#367	AnnotatorNotes T367	SO:0000112 (primer)
+T368	CHEBI 9012 9021	molecules
+#368	AnnotatorNotes T368	CHEBI:36357 (polyatomic entities)
+T369	sub 9068 9069	t
+#369	AnnotatorNotes T369	sub (null)
+T370	SO 9096 9113	product molecules
+#370	AnnotatorNotes T370	SO:0000006 (PCR_product)
+T371	CHEBI 9104 9113	molecules
+#371	AnnotatorNotes T371	CHEBI:36357 (polyatomic entities)
+T372	sub 9154 9155	t
+#372	AnnotatorNotes T372	sub (null)
+T373	SO 9192 9209	product molecules
+#373	AnnotatorNotes T373	SO:0000006 (PCR_product)
+T374	CHEBI 9200 9209	molecules
+#374	AnnotatorNotes T374	CHEBI:36357 (polyatomic entities)
+T375	sup 9401 9402	2
+#375	AnnotatorNotes T375	sup (null)
+T376	sup 9413 9414	3
+#376	AnnotatorNotes T376	sup (null)
+T377	sup 9427 9429	-3
+#377	AnnotatorNotes T377	sup (null)
+T378	sup 9433 9434	4
+#378	AnnotatorNotes T378	sup (null)
+T379	sup 9446 9448	-4
+#379	AnnotatorNotes T379	sup (null)
+T380	sup 9452 9453	5
+#380	AnnotatorNotes T380	sup (null)
+T381	SO 9469 9486	product molecules
+#381	AnnotatorNotes T381	SO:0000006 (PCR_product)
+T382	CHEBI 9477 9486	molecules
+#382	AnnotatorNotes T382	CHEBI:36357 (polyatomic entities)
+T383	sub 9502 9504	Ct
+#383	AnnotatorNotes T383	sub (null)
+T384	SO 9558 9566	18S rRNA
+#384	AnnotatorNotes T384	SO:0000407 (rRNA_18S)
+T385	EntrezGene 9558 9566	18S rRNA
+#385	AnnotatorNotes T385	EG:19791
+T386	CHEBI 9562 9566	rRNA
+#386	AnnotatorNotes T386	CHEBI:18111 (ribosomal RNA)
+T387	sub 9581 9583	Ct
+#387	AnnotatorNotes T387	sub (null)
+T388	sub 9594 9595	t
+#388	AnnotatorNotes T388	sub (null)
+T389	SO 9616 9624	18S rRNA
+#389	AnnotatorNotes T389	SO:0000407 (rRNA_18S)
+T390	EntrezGene 9616 9624	18S rRNA
+#390	AnnotatorNotes T390	EG:19791
+T391	CHEBI 9620 9624	rRNA
+#391	AnnotatorNotes T391	CHEBI:18111 (ribosomal RNA)
+T392	SO 9662 9669	Genomic
+#392	AnnotatorNotes T392	SO:0001026 (genome)
+T393	GO_BP 9750 9752	RT
+#393	AnnotatorNotes T393	GO:0006410 (transcription, RNA-dependent)
+T394	NCBITaxon 9788 9795	Animals
+#394	AnnotatorNotes T394	NCBITaxon:33208 (Metazoa)
+T395	CHEBI 9826 9832	sodium
+#395	AnnotatorNotes T395	CHEBI:26708 (sodium)
+T396	CHEBI 9826 9832	sodium
+#396	AnnotatorNotes T396	CHEBI:26714 (sodium salts)
+T397	CHEBI 9833 9846	pentobarbital
+#397	AnnotatorNotes T397	CHEBI:7983 (pentobarbital)
+T398	NCBITaxon 10538 10545	Animals
+#398	AnnotatorNotes T398	NCBITaxon:33208 (Metazoa)
+T399	CHEBI 10595 10606	sodium salt
+#399	AnnotatorNotes T399	CHEBI:26714 (sodium salts)
+T400	CHEBI 10595 10601	sodium
+#400	AnnotatorNotes T400	CHEBI:26708 (sodium)
+T401	CHEBI 10673 10675	K+
+#401	AnnotatorNotes T401	CHEBI:29103 (potassium(1+))
+T402	sup 10674 10675	+
+#402	AnnotatorNotes T402	sup (null)
+T403	CHEBI 10939 10941	K+
+#403	AnnotatorNotes T403	CHEBI:29103 (potassium(1+))
+T404	sup 10940 10941	+
+#404	AnnotatorNotes T404	sup (null)
+T405	CHEBI 11004 11010	cation
+#405	AnnotatorNotes T405	CHEBI:36916 (cations)
+T406	CHEBI 11012 11014	K+
+#406	AnnotatorNotes T406	CHEBI:29103 (potassium(1+))
+T407	sup 11013 11014	+
+#407	AnnotatorNotes T407	sup (null)
+T408	CHEBI 11019 11022	Na+
+#408	AnnotatorNotes T408	CHEBI:29101 (sodium(1+))
+T409	sup 11021 11022	+
+#409	AnnotatorNotes T409	sup (null)
+T410	CHEBI 11078 11080	K+
+#410	AnnotatorNotes T410	CHEBI:29103 (potassium(1+))
+T411	sup 11079 11080	+
+#411	AnnotatorNotes T411	sup (null)
+T412	CHEBI 11096 11099	Na+
+#412	AnnotatorNotes T412	CHEBI:29101 (sodium(1+))
+T413	sup 11098 11099	+
+#413	AnnotatorNotes T413	sup (null)
+T414	sub 11274 11275	i
+#414	AnnotatorNotes T414	sub (null)
+T415	italic 11278 11279	S
+#415	AnnotatorNotes T415	italic (null)
+T416	CHEBI 11288 11290	K+
+#416	AnnotatorNotes T416	CHEBI:29103 (potassium(1+))
+T417	sup 11289 11290	+
+#417	AnnotatorNotes T417	sup (null)
+T418	italic 11294 11295	A
+#418	AnnotatorNotes T418	italic (null)
+T419	CHEBI 11299 11302	Na+
+#419	AnnotatorNotes T419	CHEBI:29101 (sodium(1+))
+T420	sup 11301 11302	+
+#420	AnnotatorNotes T420	sup (null)
+T421	italic 11312 11313	V
+#421	AnnotatorNotes T421	italic (null)
+T422	sub 11313 11314	i
+#422	AnnotatorNotes T422	sub (null)
+T423	italic 11334 11335	S
+#423	AnnotatorNotes T423	italic (null)
+T424	italic 11346 11347	A
+#424	AnnotatorNotes T424	italic (null)
+T425	CHEBI 11369 11372	Na+
+#425	AnnotatorNotes T425	CHEBI:29101 (sodium(1+))
+T426	sup 11371 11372	+
+#426	AnnotatorNotes T426	sup (null)
+T427	CHEBI 11377 11380	Na+
+#427	AnnotatorNotes T427	CHEBI:29101 (sodium(1+))
+T428	sup 11379 11380	+
+#428	AnnotatorNotes T428	sup (null)
+T429	CHEBI 11491 11493	K+
+#429	AnnotatorNotes T429	CHEBI:29103 (potassium(1+))
+T430	sup 11492 11493	+
+#430	AnnotatorNotes T430	sup (null)
+T431	italic 11746 11753	In situ
+#431	AnnotatorNotes T431	italic (null)
+T432	GO_MF 11754 11767	hybridization
+#432	AnnotatorNotes T432	GO:0000739 (DNA strand annealing activity)
+T433	GO_MF 11754 11767	hybridization
+#433	AnnotatorNotes T433	GO:0033592 (RNA strand annealing activity)
+T434	PR 11802 11809	pendrin
+#434	AnnotatorNotes T434	PR:000015039 (pendrin)
+T435	CHEBI 11810 11814	mRNA
+#435	AnnotatorNotes T435	CHEBI:33699 (messenger RNA)
+T436	SO 11810 11814	mRNA
+#436	AnnotatorNotes T436	SO:0000234 (mRNA)
+T437	GO_BP 11818 11827	expressed
+#437	AnnotatorNotes T437	GO:0010467 (gene expression)
+T438	CL 11831 11836	cells
+#438	AnnotatorNotes T438	CL:0000000 (cell)
+T439	GO_CC 11831 11836	cells
+#439	AnnotatorNotes T439	GO:0005623 (cell)
+T440	GO_BP 11842 11848	reside
+#440	AnnotatorNotes T440	GO:0051179 (localization)
+T441	EntrezGene 11968 11975	pendrin
+#441	AnnotatorNotes T441	EG:23985
+T442	PR 11968 11975	pendrin
+#442	AnnotatorNotes T442	PR:000015039 (pendrin)
+T443	CHEBI 11976 11983	protein
+#443	AnnotatorNotes T443	CHEBI:36080 (proteins)
+T444	GO_BP 11984 11994	expression
+#444	AnnotatorNotes T444	GO:0010467 (gene expression)
+T445	italic 12094 12101	Slc26a4
+#445	AnnotatorNotes T445	italic (null)
+T446	PR 12094 12101	Slc26a4
+#446	AnnotatorNotes T446	PR:000015039 (pendrin)
+T447	EntrezGene 12094 12101	Slc26a4
+#447	AnnotatorNotes T447	EG:23985
+T448	sup 12101 12104	+/+
+#448	AnnotatorNotes T448	sup (null)
+T449	SO 12101 12102	+
+#449	AnnotatorNotes T449	SO:0000817 (wild_type)
+T450	SO 12103 12104	+
+#450	AnnotatorNotes T450	SO:0000817 (wild_type)
+T451	NCBITaxon 12106 12110	mice
+#451	AnnotatorNotes T451	NCBITaxon:10088 (Mus)
+T452	GO_CC 12132 12140	antibody
+#452	AnnotatorNotes T452	GO:0019814 (immunoglobulin complex)
+T453	GO_CC 12183 12191	antibody
+#453	AnnotatorNotes T453	GO:0019814 (immunoglobulin complex)
+T454	SO 12228 12235	peptide
+#454	AnnotatorNotes T454	SO:0001407 (peptidyl)
+T455	italic 12237 12251	data not shown
+#455	AnnotatorNotes T455	italic (null)
+T456	GO_BP 12261 12271	expression
+#456	AnnotatorNotes T456	GO:0010467 (gene expression)
+T457	EntrezGene 12275 12282	pendrin
+#457	AnnotatorNotes T457	EG:23985
+T458	PR 12275 12282	pendrin
+#458	AnnotatorNotes T458	PR:000015039 (pendrin)
+T459	CL 12321 12337	epithelial cells
+#459	AnnotatorNotes T459	CL:0000066 (epithelial cell)
+T460	GO_CC 12332 12337	cells
+#460	AnnotatorNotes T460	GO:0005623 (cell)
+T461	italic 12357 12364	in situ
+#461	AnnotatorNotes T461	italic (null)
+T462	GO_MF 12365 12378	hybridization
+#462	AnnotatorNotes T462	GO:0000739 (DNA strand annealing activity)
+T463	GO_MF 12365 12378	hybridization
+#463	AnnotatorNotes T463	GO:0033592 (RNA strand annealing activity)
+T464	CL 12402 12407	cells
+#464	AnnotatorNotes T464	CL:0000000 (cell)
+T465	GO_CC 12402 12407	cells
+#465	AnnotatorNotes T465	GO:0005623 (cell)
+T466	GO_CC 12412 12474	apical membranes of spiral prominence surface epithelial cells
+#466	AnnotatorNotes T466	"apical membranes of .. cells" GO:0016324 (apical plasma membrane)
+T467	GO_CC 12412 12418	apical
+#467	AnnotatorNotes T467	GO:0045177 (apical part of cell)
+T468	CL 12458 12474	epithelial cells
+#468	AnnotatorNotes T468	CL:0000066 (epithelial cell)
+T469	GO_CC 12469 12474	cells
+#469	AnnotatorNotes T469	GO:0005623 (cell)
+T470	GO_CC 12482 12522	apical membranes of spindle-shaped cells
+#470	AnnotatorNotes T470	"apical membranes of .. cells" GO:0016324 (apical plasma membrane)
+T471	GO_CC 12482 12488	apical
+#471	AnnotatorNotes T471	GO:0045177 (apical part of cell)
+T472	CL 12517 12522	cells
+#472	AnnotatorNotes T472	CL:0000000 (cell)
+T473	GO_CC 12517 12522	cells
+#473	AnnotatorNotes T473	GO:0005623 (cell)
+T474	EntrezGene 12590 12597	pendrin
+#474	AnnotatorNotes T474	EG:23985
+T475	PR 12590 12597	pendrin
+#475	AnnotatorNotes T475	PR:000015039 (pendrin)
+T476	CL 12616 12621	cells
+#476	AnnotatorNotes T476	CL:0000000 (cell)
+T477	GO_CC 12616 12621	cells
+#477	AnnotatorNotes T477	GO:0005623 (cell)
+T478	CL 12642 12647	cells
+#478	AnnotatorNotes T478	CL:0000000 (cell)
+T479	GO_CC 12642 12647	cells
+#479	AnnotatorNotes T479	GO:0005623 (cell)
+T480	GO_BP 12648 12655	secrete
+#480	AnnotatorNotes T480	GO:0046903 (secretion)
+T481	CHEBI 12656 12662	HCO3 -
+#481	AnnotatorNotes T481	CHEBI:17544 (hydrogencarbonate)
+T482	sub 12659 12660	3
+#482	AnnotatorNotes T482	sub (null)
+T483	sup 12661 12662	-
+#483	AnnotatorNotes T483	sup (null)
+T484	PR 12679 12686	Pendrin
+#484	AnnotatorNotes T484	PR:000015039 (pendrin)
+T485	GO_BP 12696 12712	HCO3 - transport
+#485	AnnotatorNotes T485	GO:0015701 (bicarbonate transport)
+T486	CHEBI 12696 12702	HCO3 -
+#486	AnnotatorNotes T486	CHEBI:17544 (hydrogencarbonate)
+T487	sub 12699 12700	3
+#487	AnnotatorNotes T487	sub (null)
+T488	sup 12701 12702	-
+#488	AnnotatorNotes T488	sup (null)
+T489	CHEBI 12758 12764	HCO3 -
+#489	AnnotatorNotes T489	CHEBI:17544 (hydrogencarbonate)
+T490	sub 12761 12762	3
+#490	AnnotatorNotes T490	sub (null)
+T491	sup 12763 12764	-
+#491	AnnotatorNotes T491	sup (null)
+T492	GO_BP 12787 12796	generated
+#492	AnnotatorNotes T492	GO:0009058 (biosynthetic process)
+T493	CHEBI 12802 12805	CO2
+#493	AnnotatorNotes T493	CHEBI:16526 (carbon dioxide)
+T494	sub 12804 12805	2
+#494	AnnotatorNotes T494	sub (null)
+T495	GO_MF 12809 12827	carbonic anhydrase
+#495	AnnotatorNotes T495	GO:0004089 (carbonate dehydratase activity)
+T496	independent_continuant 12809 12827	carbonic anhydrase
+#496	AnnotatorNotes T496	independent_continuant
+T497	CHEBI 12809 12817	carbonic
+#497	AnnotatorNotes T497	CHEBI:27594 (carbon)
+T498	CL 12859 12864	cells
+#498	AnnotatorNotes T498	CL:0000000 (cell)
+T499	GO_CC 12859 12864	cells
+#499	AnnotatorNotes T499	GO:0005623 (cell)
+T500	CHEBI 12874 12877	CO2
+#500	AnnotatorNotes T500	CHEBI:16526 (carbon dioxide)
+T501	sub 12876 12877	2
+#501	AnnotatorNotes T501	sub (null)
+T502	GO_BP 12901 12914	metabolically
+#502	AnnotatorNotes T502	GO:0008152 (metabolic process)
+T503	CL 12944 12949	cells
+#503	AnnotatorNotes T503	CL:0000000 (cell)
+T504	GO_CC 12944 12949	cells
+#504	AnnotatorNotes T504	GO:0005623 (cell)
+T505	EntrezGene 12974 12981	pendrin
+#505	AnnotatorNotes T505	EG:23985
+T506	PR 12974 12981	pendrin
+#506	AnnotatorNotes T506	PR:000015039 (pendrin)
+T507	CHEBI 13005 13011	HCO3 -
+#507	AnnotatorNotes T507	CHEBI:17544 (hydrogencarbonate)
+T508	sub 13008 13009	3
+#508	AnnotatorNotes T508	sub (null)
+T509	sup 13010 13011	-
+#509	AnnotatorNotes T509	sup (null)
+T510	GO_BP 13012 13021	secretion
+#510	AnnotatorNotes T510	GO:0046903 (secretion)
+T511	CHEBI 13054 13060	HCO3 -
+#511	AnnotatorNotes T511	CHEBI:17544 (hydrogencarbonate)
+T512	sub 13057 13058	3
+#512	AnnotatorNotes T512	sub (null)
+T513	sup 13059 13060	-
+#513	AnnotatorNotes T513	sup (null)
+T514	italic 13118 13129	unpublished
+#514	AnnotatorNotes T514	italic (null)
+T515	PR 13150 13157	pendrin
+#515	AnnotatorNotes T515	PR:000015039 (pendrin)
+T516	CHEBI 13161 13167	HCO3 -
+#516	AnnotatorNotes T516	CHEBI:17544 (hydrogencarbonate)
+T517	sub 13164 13165	3
+#517	AnnotatorNotes T517	sub (null)
+T518	sup 13166 13167	-
+#518	AnnotatorNotes T518	sup (null)
+T519	GO_BP 13168 13177	secretion
+#519	AnnotatorNotes T519	GO:0046903 (secretion)
+T520	GO_BP 13205 13225	Protein localization
+#520	AnnotatorNotes T520	GO:0008104 (protein localization)
+T521	CHEBI 13205 13212	Protein
+#521	AnnotatorNotes T521	CHEBI:36080 (proteins)
+T522	EntrezGene 13229 13236	pendrin
+#522	AnnotatorNotes T522	EG:23985
+T523	PR 13229 13236	pendrin
+#523	AnnotatorNotes T523	PR:000015039 (pendrin)
+T524	EntrezGene 13238 13243	KCNQ1
+#524	AnnotatorNotes T524	EG:16535
+T525	PR 13238 13243	KCNQ1
+#525	AnnotatorNotes T525	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T526	EntrezGene 13245 13249	ZO-1
+#526	AnnotatorNotes T526	EG:21872
+T527	PR 13245 13249	ZO-1
+#527	AnnotatorNotes T527	PR:000016364 (tight junction protein ZO-1)
+T528	GO_CC 13254 13261	F actin
+#528	AnnotatorNotes T528	GO:0031941 (filamentous actin)
+T529	italic 13301 13308	Slc26a4
+#529	AnnotatorNotes T529	italic (null)
+T530	PR 13301 13308	Slc26a4
+#530	AnnotatorNotes T530	PR:000015039 (pendrin)
+T531	EntrezGene 13301 13308	Slc26a4
+#531	AnnotatorNotes T531	EG:23985
+T532	sup 13308 13311	+/+
+#532	AnnotatorNotes T532	sup (null)
+T533	SO 13308 13309	+
+#533	AnnotatorNotes T533	SO:0000817 (wild_type)
+T534	SO 13310 13311	+
+#534	AnnotatorNotes T534	SO:0000817 (wild_type)
+T535	italic 13316 13323	Slc26a4
+#535	AnnotatorNotes T535	italic (null)
+T536	EntrezGene 13316 13323	Slc26a4
+#536	AnnotatorNotes T536	EG:23985
+T537	PR 13316 13323	Slc26a4
+#537	AnnotatorNotes T537	PR:000015039 (pendrin)
+T538	sup 13323 13326	-/-
+#538	AnnotatorNotes T538	sup (null)
+T539	NCBITaxon 13327 13331	mice
+#539	AnnotatorNotes T539	NCBITaxon:10088 (Mus)
+T540	bold 13333 13335	a:
+#540	AnnotatorNotes T540	bold (null)
+T541	bold 13371 13375	b-f:
+#541	AnnotatorNotes T541	bold (null)
+T542	bold 13422 13424	g:
+#542	AnnotatorNotes T542	bold (null)
+T543	bold 13457 13461	h-i:
+#543	AnnotatorNotes T543	bold (null)
+T544	CL 13538 13543	cells
+#544	AnnotatorNotes T544	CL:0000000 (cell)
+T545	GO_CC 13538 13543	cells
+#545	AnnotatorNotes T545	GO:0005623 (cell)
+T546	CL 13566 13571	cells
+#546	AnnotatorNotes T546	CL:0000000 (cell)
+T547	GO_CC 13566 13571	cells
+#547	AnnotatorNotes T547	GO:0005623 (cell)
+T548	CL 13640 13651	basal cells
+#548	AnnotatorNotes T548	CL:0000646 (basal cell)
+T549	GO_CC 13646 13651	cells
+#549	AnnotatorNotes T549	GO:0005623 (cell)
+T550	CL 13675 13691	epithelial cells
+#550	AnnotatorNotes T550	CL:0000066 (epithelial cell)
+T551	GO_CC 13686 13691	cells
+#551	AnnotatorNotes T551	GO:0005623 (cell)
+T552	CL 13702 13707	cells
+#552	AnnotatorNotes T552	CL:0000000 (cell)
+T553	GO_CC 13702 13707	cells
+#553	AnnotatorNotes T553	GO:0005623 (cell)
+T554	CL 13726 13742	epithelial cells
+#554	AnnotatorNotes T554	CL:0000066 (epithelial cell)
+T555	GO_CC 13737 13742	cells
+#555	AnnotatorNotes T555	GO:0005623 (cell)
+T556	CL 13744 13747	VHC
+#556	AnnotatorNotes T556	CL:0000609 (vestibular hair cell)
+T557	CL 13749 13770	vestibular hair cells
+#557	AnnotatorNotes T557	CL:0000609 (vestibular hair cell)
+T558	GO_CC 13765 13770	cells
+#558	AnnotatorNotes T558	GO:0005623 (cell)
+T559	CL 13788 13806	transitional cells
+#559	AnnotatorNotes T559	CL:0000244 (transitional epithelial cell)
+T560	GO_CC 13801 13806	cells
+#560	AnnotatorNotes T560	GO:0005623 (cell)
+T561	CL 13808 13811	VDC
+#561	AnnotatorNotes T561	CL:0000846 (vestibular dark cell)
+T562	CL 13813 13834	vestibular dark cells
+#562	AnnotatorNotes T562	CL:0000846 (vestibular dark cell)
+T563	GO_CC 13829 13834	cells
+#563	AnnotatorNotes T563	GO:0005623 (cell)
+T564	CL 13844 13855	basal cells
+#564	AnnotatorNotes T564	CL:0000646 (basal cell)
+T565	GO_CC 13850 13855	cells
+#565	AnnotatorNotes T565	GO:0005623 (cell)
+T566	GO_BP 13898 13902	form
+#566	AnnotatorNotes T566	GO:0022607 (cellular component assembly)
+T567	GO_CC 13903 13918	tight junctions
+#567	AnnotatorNotes T567	GO:0005923 (tight junction)
+T568	CL 13932 13948	epithelial cells
+#568	AnnotatorNotes T568	CL:0000066 (epithelial cell)
+T569	GO_CC 13943 13948	cells
+#569	AnnotatorNotes T569	GO:0005623 (cell)
+T570	EntrezGene 13965 13972	pendrin
+#570	AnnotatorNotes T570	EG:23985
+T571	PR 13965 13972	pendrin
+#571	AnnotatorNotes T571	PR:000015039 (pendrin)
+T572	GO_BP 13973 13983	expression
+#572	AnnotatorNotes T572	GO:0010467 (gene expression)
+T573	CL 14005 14010	cells
+#573	AnnotatorNotes T573	CL:0000000 (cell)
+T574	GO_CC 14005 14010	cells
+#574	AnnotatorNotes T574	GO:0005623 (cell)
+T575	EntrezGene 14059 14064	KCNQ1
+#575	AnnotatorNotes T575	EG:16535
+T576	PR 14059 14064	KCNQ1
+#576	AnnotatorNotes T576	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T577	GO_MF 14068 14078	K+ channel
+#577	AnnotatorNotes T577	GO:0005267 (potassium channel activity)
+T578	independent_continuant 14068 14078	K+ channel
+#578	AnnotatorNotes T578	independent_continuant
+T579	CHEBI 14068 14070	K+
+#579	AnnotatorNotes T579	CHEBI:29103 (potassium(1+))
+T580	sup 14069 14070	+
+#580	AnnotatorNotes T580	sup (null)
+T581	GO_BP 14087 14096	expressed
+#581	AnnotatorNotes T581	GO:0010467 (gene expression)
+T582	CL 14116 14121	cells
+#582	AnnotatorNotes T582	CL:0000000 (cell)
+T583	GO_CC 14116 14121	cells
+#583	AnnotatorNotes T583	GO:0005623 (cell)
+T584	EntrezGene 14127 14131	ZO-1
+#584	AnnotatorNotes T584	EG:21872
+T585	PR 14127 14131	ZO-1
+#585	AnnotatorNotes T585	PR:000016364 (tight junction protein ZO-1)
+T586	GO_CC 14135 14149	tight junction
+#586	AnnotatorNotes T586	GO:0005923 (tight junction)
+T587	CHEBI 14150 14157	protein
+#587	AnnotatorNotes T587	CHEBI:36080 (proteins)
+T588	CL 14170 14181	basal cells
+#588	AnnotatorNotes T588	CL:0000646 (basal cell)
+T589	GO_CC 14176 14181	cells
+#589	AnnotatorNotes T589	GO:0005623 (cell)
+T590	EntrezGene 14285 14292	pendrin
+#590	AnnotatorNotes T590	EG:23985
+T591	PR 14285 14292	pendrin
+#591	AnnotatorNotes T591	PR:000015039 (pendrin)
+T592	GO_BP 14296 14305	expressed
+#592	AnnotatorNotes T592	GO:0010467 (gene expression)
+T593	CL 14324 14329	cells
+#593	AnnotatorNotes T593	CL:0000000 (cell)
+T594	GO_CC 14324 14329	cells
+#594	AnnotatorNotes T594	GO:0005623 (cell)
+T595	CL 14349 14365	epithelial cells
+#595	AnnotatorNotes T595	CL:0000066 (epithelial cell)
+T596	GO_CC 14360 14365	cells
+#596	AnnotatorNotes T596	GO:0005623 (cell)
+T597	CL 14414 14419	cells
+#597	AnnotatorNotes T597	CL:0000000 (cell)
+T598	GO_CC 14414 14419	cells
+#598	AnnotatorNotes T598	GO:0005623 (cell)
+T599	italic 14503 14510	In situ
+#599	AnnotatorNotes T599	italic (null)
+T600	GO_MF 14511 14524	hybridization
+#600	AnnotatorNotes T600	GO:0000739 (DNA strand annealing activity)
+T601	GO_MF 14511 14524	hybridization
+#601	AnnotatorNotes T601	GO:0033592 (RNA strand annealing activity)
+T602	PR 14568 14575	pendrin
+#602	AnnotatorNotes T602	PR:000015039 (pendrin)
+T603	CHEBI 14576 14580	mRNA
+#603	AnnotatorNotes T603	CHEBI:33699 (messenger RNA)
+T604	SO 14576 14580	mRNA
+#604	AnnotatorNotes T604	SO:0000234 (mRNA)
+T605	GO_BP 14584 14593	expressed
+#605	AnnotatorNotes T605	GO:0010467 (gene expression)
+T606	GO_BP 14601 14608	sensory
+#606	AnnotatorNotes T606	GO:0007600 (sensory perception)
+T607	CL 14609 14614	cells
+#607	AnnotatorNotes T607	CL:0000000 (cell)
+T608	GO_CC 14609 14614	cells
+#608	AnnotatorNotes T608	GO:0005623 (cell)
+T609	GO_BP 14691 14701	expression
+#609	AnnotatorNotes T609	GO:0010467 (gene expression)
+T610	EntrezGene 14709 14716	pendrin
+#610	AnnotatorNotes T610	EG:23985
+T611	PR 14709 14716	pendrin
+#611	AnnotatorNotes T611	PR:000015039 (pendrin)
+T612	CHEBI 14717 14724	protein
+#612	AnnotatorNotes T612	CHEBI:36080 (proteins)
+T613	GO_CC 14732 14780	apical membrane of vestibular transitional cells
+#613	AnnotatorNotes T613	"apical membrane of .. cells" GO:0016324 (apical plasma membrane)
+T614	GO_CC 14732 14738	apical
+#614	AnnotatorNotes T614	GO:0045177 (apical part of cell)
+T615	CL 14762 14780	transitional cells
+#615	AnnotatorNotes T615	CL:0000244 (transitional epithelial cell)
+T616	GO_CC 14775 14780	cells
+#616	AnnotatorNotes T616	GO:0005623 (cell)
+T617	EntrezGene 14845 14850	KCNQ1
+#617	AnnotatorNotes T617	EG:16535
+T618	PR 14845 14850	KCNQ1
+#618	AnnotatorNotes T618	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T619	EntrezGene 14869 14876	pendrin
+#619	AnnotatorNotes T619	EG:23985
+T620	PR 14869 14876	pendrin
+#620	AnnotatorNotes T620	PR:000015039 (pendrin)
+T621	GO_BP 14877 14887	expression
+#621	AnnotatorNotes T621	GO:0010467 (gene expression)
+T622	CL 14922 14940	transitional cells
+#622	AnnotatorNotes T622	CL:0000244 (transitional epithelial cell)
+T623	GO_CC 14935 14940	cells
+#623	AnnotatorNotes T623	GO:0005623 (cell)
+T624	GO_BP 14973 14980	sensory
+#624	AnnotatorNotes T624	GO:0007600 (sensory perception)
+T625	CL 14981 14986	cells
+#625	AnnotatorNotes T625	CL:0000000 (cell)
+T626	GO_CC 14981 14986	cells
+#626	AnnotatorNotes T626	GO:0005623 (cell)
+T627	CL 14995 15016	vestibular dark cells
+#627	AnnotatorNotes T627	CL:0000846 (vestibular dark cell)
+T628	GO_CC 15011 15016	cells
+#628	AnnotatorNotes T628	GO:0005623 (cell)
+T629	GO_BP 15055 15065	expression
+#629	AnnotatorNotes T629	GO:0010467 (gene expression)
+T630	EntrezGene 15069 15074	KCNQ1
+#630	AnnotatorNotes T630	EG:16535
+T631	PR 15069 15074	KCNQ1
+#631	AnnotatorNotes T631	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T632	EntrezGene 15079 15084	KCNE1
+#632	AnnotatorNotes T632	EG:16509
+T633	PR 15079 15084	KCNE1
+#633	AnnotatorNotes T633	PR:000009255 (potassium voltage-gated channel subfamily E member 1)
+T634	GO_CC 15094 15110	apical membranes
+#634	AnnotatorNotes T634	GO:0016324 (apical plasma membrane)
+T635	GO_CC 15094 15100	apical
+#635	AnnotatorNotes T635	GO:0045177 (apical part of cell)
+T636	EntrezGene 15126 15133	pendrin
+#636	AnnotatorNotes T636	EG:23985
+T637	PR 15126 15133	pendrin
+#637	AnnotatorNotes T637	PR:000015039 (pendrin)
+T638	GO_BP 15134 15144	expression
+#638	AnnotatorNotes T638	GO:0010467 (gene expression)
+T639	GO_BP 15152 15186	development of the mouse inner ear
+#639	AnnotatorNotes T639	"development of .. inner ear" GO:0048839 (inner ear development)
+T640	NCBITaxon 15171 15176	mouse
+#640	AnnotatorNotes T640	NCBITaxon:10088 (Mus)
+T641	italic 15301 15308	Slc26a4
+#641	AnnotatorNotes T641	italic (null)
+T642	PR 15301 15308	Slc26a4
+#642	AnnotatorNotes T642	PR:000015039 (pendrin)
+T643	EntrezGene 15301 15308	Slc26a4
+#643	AnnotatorNotes T643	EG:23985
+T644	sup 15308 15311	+/+
+#644	AnnotatorNotes T644	sup (null)
+T645	SO 15308 15309	+
+#645	AnnotatorNotes T645	SO:0000817 (wild_type)
+T646	SO 15310 15311	+
+#646	AnnotatorNotes T646	SO:0000817 (wild_type)
+T647	italic 15316 15323	Slc26a4
+#647	AnnotatorNotes T647	italic (null)
+T648	PR 15316 15323	Slc26a4
+#648	AnnotatorNotes T648	PR:000015039 (pendrin)
+T649	EntrezGene 15316 15323	Slc26a4
+#649	AnnotatorNotes T649	EG:23985
+T650	sup 15323 15326	-/-
+#650	AnnotatorNotes T650	sup (null)
+T651	NCBITaxon 15327 15331	mice
+#651	AnnotatorNotes T651	NCBITaxon:10088 (Mus)
+T652	italic 15371 15378	Slc26a4
+#652	AnnotatorNotes T652	italic (null)
+T653	EntrezGene 15371 15378	Slc26a4
+#653	AnnotatorNotes T653	EG:23985
+T654	PR 15371 15378	Slc26a4
+#654	AnnotatorNotes T654	PR:000015039 (pendrin)
+T655	sup 15378 15381	-/-
+#655	AnnotatorNotes T655	sup (null)
+T656	NCBITaxon 15382 15386	mice
+#656	AnnotatorNotes T656	NCBITaxon:10088 (Mus)
+T657	GO_BP 15396 15403	develop
+#657	AnnotatorNotes T657	GO:0032502 (developmental process)
+T658	GO_BP 15486 15493	sensory
+#658	AnnotatorNotes T658	GO:0007600 (sensory perception)
+T659	CL 15494 15504	hair cells
+#659	AnnotatorNotes T659	CL:0000855 (hair cell)
+T660	GO_CC 15499 15504	cells
+#660	AnnotatorNotes T660	GO:0005623 (cell)
+T661	GO_BP 15698 15705	sensory
+#661	AnnotatorNotes T661	GO:0007600 (sensory perception)
+T662	CL 15706 15716	hair cells
+#662	AnnotatorNotes T662	CL:0000855 (hair cell)
+T663	GO_CC 15711 15716	cells
+#663	AnnotatorNotes T663	GO:0005623 (cell)
+T664	CHEBI 15795 15797	K+
+#664	AnnotatorNotes T664	CHEBI:29103 (potassium(1+))
+T665	sup 15796 15797	+
+#665	AnnotatorNotes T665	sup (null)
+T666	CL 15835 15844	hair cell
+#666	AnnotatorNotes T666	CL:0000855 (hair cell)
+T667	GO_CC 15840 15844	cell
+#667	AnnotatorNotes T667	GO:0005623 (cell)
+T668	italic 15907 15914	Slc26a4
+#668	AnnotatorNotes T668	italic (null)
+T669	PR 15907 15914	Slc26a4
+#669	AnnotatorNotes T669	PR:000015039 (pendrin)
+T670	EntrezGene 15907 15914	Slc26a4
+#670	AnnotatorNotes T670	EG:23985
+T671	sup 15914 15917	-/-
+#671	AnnotatorNotes T671	sup (null)
+T672	GO_BP 16044 16051	hearing
+#672	AnnotatorNotes T672	GO:0007605 (sensory perception of sound)
+T673	CHEBI 16159 16161	K+
+#673	AnnotatorNotes T673	CHEBI:29103 (potassium(1+))
+T674	sup 16160 16161	+
+#674	AnnotatorNotes T674	sup (null)
+T675	italic 16206 16213	Slc26a4
+#675	AnnotatorNotes T675	italic (null)
+T676	PR 16206 16213	Slc26a4
+#676	AnnotatorNotes T676	PR:000015039 (pendrin)
+T677	EntrezGene 16206 16213	Slc26a4
+#677	AnnotatorNotes T677	EG:23985
+T678	sup 16213 16216	-/-
+#678	AnnotatorNotes T678	sup (null)
+T679	NCBITaxon 16217 16221	mice
+#679	AnnotatorNotes T679	NCBITaxon:10088 (Mus)
+T680	CHEBI 16315 16317	K+
+#680	AnnotatorNotes T680	CHEBI:29103 (potassium(1+))
+T681	sup 16316 16317	+
+#681	AnnotatorNotes T681	sup (null)
+T682	italic 16352 16359	Slc26a4
+#682	AnnotatorNotes T682	italic (null)
+T683	EntrezGene 16352 16359	Slc26a4
+#683	AnnotatorNotes T683	EG:23985
+T684	PR 16352 16359	Slc26a4
+#684	AnnotatorNotes T684	PR:000015039 (pendrin)
+T685	sup 16359 16362	-/-
+#685	AnnotatorNotes T685	sup (null)
+T686	italic 16409 16416	Slc26a4
+#686	AnnotatorNotes T686	italic (null)
+T687	EntrezGene 16409 16416	Slc26a4
+#687	AnnotatorNotes T687	EG:23985
+T688	PR 16409 16416	Slc26a4
+#688	AnnotatorNotes T688	PR:000015039 (pendrin)
+T689	sup 16416 16419	+/+
+#689	AnnotatorNotes T689	sup (null)
+T690	SO 16416 16417	+
+#690	AnnotatorNotes T690	SO:0000817 (wild_type)
+T691	SO 16418 16419	+
+#691	AnnotatorNotes T691	SO:0000817 (wild_type)
+T692	italic 16424 16431	Slc26a4
+#692	AnnotatorNotes T692	italic (null)
+T693	PR 16424 16431	Slc26a4
+#693	AnnotatorNotes T693	PR:000015039 (pendrin)
+T694	EntrezGene 16424 16431	Slc26a4
+#694	AnnotatorNotes T694	EG:23985
+T695	sup 16431 16434	-/-
+#695	AnnotatorNotes T695	sup (null)
+T696	NCBITaxon 16435 16439	mice
+#696	AnnotatorNotes T696	NCBITaxon:10088 (Mus)
+T697	CHEBI 16488 16490	K+
+#697	AnnotatorNotes T697	CHEBI:29103 (potassium(1+))
+T698	sup 16489 16490	+
+#698	AnnotatorNotes T698	sup (null)
+T699	italic 16507 16514	Slc26a4
+#699	AnnotatorNotes T699	italic (null)
+T700	PR 16507 16514	Slc26a4
+#700	AnnotatorNotes T700	PR:000015039 (pendrin)
+T701	EntrezGene 16507 16514	Slc26a4
+#701	AnnotatorNotes T701	EG:23985
+T702	sup 16514 16517	+/+
+#702	AnnotatorNotes T702	sup (null)
+T703	SO 16514 16515	+
+#703	AnnotatorNotes T703	SO:0000817 (wild_type)
+T704	SO 16516 16517	+
+#704	AnnotatorNotes T704	SO:0000817 (wild_type)
+T705	italic 16540 16547	Slc26a4
+#705	AnnotatorNotes T705	italic (null)
+T706	PR 16540 16547	Slc26a4
+#706	AnnotatorNotes T706	PR:000015039 (pendrin)
+T707	EntrezGene 16540 16547	Slc26a4
+#707	AnnotatorNotes T707	EG:23985
+T708	sup 16547 16550	-/-
+#708	AnnotatorNotes T708	sup (null)
+T709	italic 16645 16652	Slc26a4
+#709	AnnotatorNotes T709	italic (null)
+T710	PR 16645 16652	Slc26a4
+#710	AnnotatorNotes T710	PR:000015039 (pendrin)
+T711	EntrezGene 16645 16652	Slc26a4
+#711	AnnotatorNotes T711	EG:23985
+T712	sup 16652 16655	-/-
+#712	AnnotatorNotes T712	sup (null)
+T713	NCBITaxon 16656 16660	mice
+#713	AnnotatorNotes T713	NCBITaxon:10088 (Mus)
+T714	CL 16782 16792	hair cells
+#714	AnnotatorNotes T714	CL:0000855 (hair cell)
+T715	GO_CC 16787 16792	cells
+#715	AnnotatorNotes T715	GO:0005623 (cell)
+T716	GO_BP 16807 16815	response
+#716	AnnotatorNotes T716	GO:0043627 (response to estrogen stimulus)
+T717	CHEBI 16881 16883	K+
+#717	AnnotatorNotes T717	CHEBI:29103 (potassium(1+))
+T718	sup 16882 16883	+
+#718	AnnotatorNotes T718	sup (null)
+T719	GO_BP 16903 16915	pigmentation
+#719	AnnotatorNotes T719	GO:0043473 (pigmentation)
+T720	italic 16939 16946	Slc26a4
+#720	AnnotatorNotes T720	italic (null)
+T721	PR 16939 16946	Slc26a4
+#721	AnnotatorNotes T721	PR:000015039 (pendrin)
+T722	EntrezGene 16939 16946	Slc26a4
+#722	AnnotatorNotes T722	EG:23985
+T723	sup 16946 16949	+/+
+#723	AnnotatorNotes T723	sup (null)
+T724	SO 16946 16947	+
+#724	AnnotatorNotes T724	SO:0000817 (wild_type)
+T725	SO 16948 16949	+
+#725	AnnotatorNotes T725	SO:0000817 (wild_type)
+T726	italic 16954 16961	Slc26a4
+#726	AnnotatorNotes T726	italic (null)
+T727	EntrezGene 16954 16961	Slc26a4
+#727	AnnotatorNotes T727	EG:23985
+T728	PR 16954 16961	Slc26a4
+#728	AnnotatorNotes T728	PR:000015039 (pendrin)
+T729	sup 16961 16964	-/-
+#729	AnnotatorNotes T729	sup (null)
+T730	NCBITaxon 16965 16969	mice
+#730	AnnotatorNotes T730	NCBITaxon:10088 (Mus)
+T731	bold 16971 16973	a:
+#731	AnnotatorNotes T731	bold (null)
+T732	CHEBI 17001 17003	K+
+#732	AnnotatorNotes T732	CHEBI:29103 (potassium(1+))
+T733	sup 17002 17003	+
+#733	AnnotatorNotes T733	sup (null)
+T734	bold 17150 17154	b-d:
+#734	AnnotatorNotes T734	bold (null)
+T735	GO_BP 17155 17167	Pigmentation
+#735	AnnotatorNotes T735	GO:0043473 (pigmentation)
+T736	italic 17191 17198	Slc26a4
+#736	AnnotatorNotes T736	italic (null)
+T737	PR 17191 17198	Slc26a4
+#737	AnnotatorNotes T737	PR:000015039 (pendrin)
+T738	EntrezGene 17191 17198	Slc26a4
+#738	AnnotatorNotes T738	EG:23985
+T739	sup 17198 17201	+/+
+#739	AnnotatorNotes T739	sup (null)
+T740	SO 17198 17199	+
+#740	AnnotatorNotes T740	SO:0000817 (wild_type)
+T741	SO 17200 17201	+
+#741	AnnotatorNotes T741	SO:0000817 (wild_type)
+T742	italic 17206 17213	Slc26a4
+#742	AnnotatorNotes T742	italic (null)
+T743	PR 17206 17213	Slc26a4
+#743	AnnotatorNotes T743	PR:000015039 (pendrin)
+T744	EntrezGene 17206 17213	Slc26a4
+#744	AnnotatorNotes T744	EG:23985
+T745	sup 17213 17216	-/-
+#745	AnnotatorNotes T745	sup (null)
+T746	NCBITaxon 17217 17221	mice
+#746	AnnotatorNotes T746	NCBITaxon:10088 (Mus)
+T747	bold 17223 17225	b:
+#747	AnnotatorNotes T747	bold (null)
+T748	bold 17353 17357	c-d:
+#748	AnnotatorNotes T748	bold (null)
+T749	NCBITaxon 17417 17421	mice
+#749	AnnotatorNotes T749	NCBITaxon:10088 (Mus)
+T750	bold 17423 17425	c:
+#750	AnnotatorNotes T750	bold (null)
+T751	bold 17462 17464	d:
+#751	AnnotatorNotes T751	bold (null)
+T752	GO_BP 17483 17495	pigmentation
+#752	AnnotatorNotes T752	GO:0043473 (pigmentation)
+T753	CL 17665 17675	basal cell
+#753	AnnotatorNotes T753	CL:0000646 (basal cell)
+T754	GO_CC 17671 17675	cell
+#754	AnnotatorNotes T754	GO:0005623 (cell)
+T755	GO_MF 17711 17721	K+ channel
+#755	AnnotatorNotes T755	GO:0005267 (potassium channel activity)
+T756	independent_continuant 17711 17721	K+ channel
+#756	AnnotatorNotes T756	independent_continuant
+T757	CHEBI 17711 17713	K+
+#757	AnnotatorNotes T757	CHEBI:29103 (potassium(1+))
+T758	sup 17712 17713	+
+#758	AnnotatorNotes T758	sup (null)
+T759	PR 17722 17728	KCNJ10
+#759	AnnotatorNotes T759	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T760	CL 17753 17758	cells
+#760	AnnotatorNotes T760	CL:0000000 (cell)
+T761	GO_CC 17753 17758	cells
+#761	AnnotatorNotes T761	GO:0005623 (cell)
+T762	CL 17788 17799	basal cells
+#762	AnnotatorNotes T762	CL:0000646 (basal cell)
+T763	GO_CC 17794 17799	cells
+#763	AnnotatorNotes T763	GO:0005623 (cell)
+T764	GO_CC 17821 17834	gap junctions
+#764	AnnotatorNotes T764	GO:0005921 (gap junction)
+T765	CL 17850 17855	cells
+#765	AnnotatorNotes T765	CL:0000000 (cell)
+T766	GO_CC 17850 17855	cells
+#766	AnnotatorNotes T766	GO:0005623 (cell)
+T767	GO_BP 17883 17887	form
+#767	AnnotatorNotes T767	GO:0032502 (developmental process)
+T768	GO_BP 17918 17927	transport
+#768	AnnotatorNotes T768	GO:0006810 (transport)
+T769	CHEBI 17928 17930	K+
+#769	AnnotatorNotes T769	CHEBI:29103 (potassium(1+))
+T770	sup 17929 17930	+
+#770	AnnotatorNotes T770	sup (null)
+T771	CHEBI 17986 17988	K+
+#771	AnnotatorNotes T771	CHEBI:29103 (potassium(1+))
+T772	sup 17987 17988	+
+#772	AnnotatorNotes T772	sup (null)
+T773	PR 18023 18040	KCNJ10 K+ channel
+#773	AnnotatorNotes T773	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T774	GO_MF 18030 18040	K+ channel
+#774	AnnotatorNotes T774	GO:0005267 (potassium channel activity)
+T775	independent_continuant 18030 18040	K+ channel
+#775	AnnotatorNotes T775	independent_continuant
+T776	CHEBI 18030 18032	K+
+#776	AnnotatorNotes T776	CHEBI:29103 (potassium(1+))
+T777	sup 18031 18032	+
+#777	AnnotatorNotes T777	sup (null)
+T778	italic 18115 18122	Slc26a4
+#778	AnnotatorNotes T778	italic (null)
+T779	PR 18115 18122	Slc26a4
+#779	AnnotatorNotes T779	PR:000015039 (pendrin)
+T780	EntrezGene 18115 18122	Slc26a4
+#780	AnnotatorNotes T780	EG:23985
+T781	sup 18122 18125	-/-
+#781	AnnotatorNotes T781	sup (null)
+T782	NCBITaxon 18126 18130	mice
+#782	AnnotatorNotes T782	NCBITaxon:10088 (Mus)
+T783	CL 18173 18178	cells
+#783	AnnotatorNotes T783	CL:0000000 (cell)
+T784	GO_CC 18173 18178	cells
+#784	AnnotatorNotes T784	GO:0005623 (cell)
+T785	CL 18241 18246	cells
+#785	AnnotatorNotes T785	CL:0000000 (cell)
+T786	GO_CC 18241 18246	cells
+#786	AnnotatorNotes T786	GO:0005623 (cell)
+T787	CL 18326 18331	cells
+#787	AnnotatorNotes T787	CL:0000000 (cell)
+T788	GO_CC 18326 18331	cells
+#788	AnnotatorNotes T788	GO:0005623 (cell)
+T789	GO_BP 18377 18389	pigmentation
+#789	AnnotatorNotes T789	GO:0043473 (pigmentation)
+T790	GO_BP 18391 18403	Pigmentation
+#790	AnnotatorNotes T790	GO:0043473 (pigmentation)
+T791	italic 18439 18446	Slc26a4
+#791	AnnotatorNotes T791	italic (null)
+T792	PR 18439 18446	Slc26a4
+#792	AnnotatorNotes T792	PR:000015039 (pendrin)
+T793	EntrezGene 18439 18446	Slc26a4
+#793	AnnotatorNotes T793	EG:23985
+T794	sup 18446 18449	-/-
+#794	AnnotatorNotes T794	sup (null)
+T795	NCBITaxon 18450 18454	mice
+#795	AnnotatorNotes T795	NCBITaxon:10088 (Mus)
+T796	CL 18499 18504	cells
+#796	AnnotatorNotes T796	CL:0000000 (cell)
+T797	GO_CC 18499 18504	cells
+#797	AnnotatorNotes T797	GO:0005623 (cell)
+T798	GO_BP 18533 18545	pigmentation
+#798	AnnotatorNotes T798	GO:0043473 (pigmentation)
+T799	italic 18587 18594	Slc26a4
+#799	AnnotatorNotes T799	italic (null)
+T800	PR 18587 18594	Slc26a4
+#800	AnnotatorNotes T800	PR:000015039 (pendrin)
+T801	EntrezGene 18587 18594	Slc26a4
+#801	AnnotatorNotes T801	EG:23985
+T802	sup 18594 18597	-/-
+#802	AnnotatorNotes T802	sup (null)
+T803	italic 18606 18613	Slc26a4
+#803	AnnotatorNotes T803	italic (null)
+T804	PR 18606 18613	Slc26a4
+#804	AnnotatorNotes T804	PR:000015039 (pendrin)
+T805	EntrezGene 18606 18613	Slc26a4
+#805	AnnotatorNotes T805	EG:23985
+T806	sup 18613 18616	+/+
+#806	AnnotatorNotes T806	sup (null)
+T807	SO 18613 18614	+
+#807	AnnotatorNotes T807	SO:0000817 (wild_type)
+T808	SO 18615 18616	+
+#808	AnnotatorNotes T808	SO:0000817 (wild_type)
+T809	NCBITaxon 18617 18621	mice
+#809	AnnotatorNotes T809	NCBITaxon:10088 (Mus)
+T810	italic 18710 18717	Slc26a4
+#810	AnnotatorNotes T810	italic (null)
+T811	PR 18710 18717	Slc26a4
+#811	AnnotatorNotes T811	PR:000015039 (pendrin)
+T812	EntrezGene 18710 18717	Slc26a4
+#812	AnnotatorNotes T812	EG:23985
+T813	sup 18717 18720	-/-
+#813	AnnotatorNotes T813	sup (null)
+T814	NCBITaxon 18721 18725	mice
+#814	AnnotatorNotes T814	NCBITaxon:10088 (Mus)
+T815	SO 18745 18748	RNA
+#815	AnnotatorNotes T815	SO:0000356 (RNA)
+T816	italic 18811 18818	Slc26a4
+#816	AnnotatorNotes T816	italic (null)
+T817	PR 18811 18818	Slc26a4
+#817	AnnotatorNotes T817	PR:000015039 (pendrin)
+T818	EntrezGene 18811 18818	Slc26a4
+#818	AnnotatorNotes T818	EG:23985
+T819	sup 18818 18821	+/+
+#819	AnnotatorNotes T819	sup (null)
+T820	SO 18818 18819	+
+#820	AnnotatorNotes T820	SO:0000817 (wild_type)
+T821	SO 18820 18821	+
+#821	AnnotatorNotes T821	SO:0000817 (wild_type)
+T822	italic 18857 18864	Slc26a4
+#822	AnnotatorNotes T822	italic (null)
+T823	PR 18857 18864	Slc26a4
+#823	AnnotatorNotes T823	PR:000015039 (pendrin)
+T824	EntrezGene 18857 18864	Slc26a4
+#824	AnnotatorNotes T824	EG:23985
+T825	sup 18864 18867	-/-
+#825	AnnotatorNotes T825	sup (null)
+T826	NCBITaxon 18868 18872	mice
+#826	AnnotatorNotes T826	NCBITaxon:10088 (Mus)
+T827	SO 18932 18940	18S rRNA
+#827	AnnotatorNotes T827	SO:0000407 (rRNA_18S)
+T828	EntrezGene 18932 18940	18S rRNA
+#828	AnnotatorNotes T828	EG:19791
+T829	CHEBI 18936 18940	rRNA
+#829	AnnotatorNotes T829	CHEBI:18111 (ribosomal RNA)
+T830	GO_BP 18961 18971	expression
+#830	AnnotatorNotes T830	GO:0010467 (gene expression)
+T831	EntrezGene 18975 18981	KCNJ10
+#831	AnnotatorNotes T831	EG:16513
+T832	PR 18975 18981	KCNJ10
+#832	AnnotatorNotes T832	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T833	CHEBI 18982 18986	mRNA
+#833	AnnotatorNotes T833	CHEBI:33699 (messenger RNA)
+T834	SO 18982 18986	mRNA
+#834	AnnotatorNotes T834	SO:0000234 (mRNA)
+T835	NCBITaxon 19049 19053	mice
+#835	AnnotatorNotes T835	NCBITaxon:10088 (Mus)
+T836	SO 19130 19138	18S rRNA
+#836	AnnotatorNotes T836	SO:0000407 (rRNA_18S)
+T837	EntrezGene 19130 19138	18S rRNA
+#837	AnnotatorNotes T837	EG:19791
+T838	CHEBI 19134 19148	rRNA molecules
+#838	AnnotatorNotes T838	CHEBI:18111 (ribosomal RNA)
+T839	CHEBI 19154 19158	rRNA
+#839	AnnotatorNotes T839	CHEBI:18111 (ribosomal RNA)
+T840	SO 19154 19158	rRNA
+#840	AnnotatorNotes T840	SO:0000252 (rRNA)
+T841	italic 19183 19194	pooled data
+#841	AnnotatorNotes T841	italic (null)
+T842	italic 19267 19274	Slc26a4
+#842	AnnotatorNotes T842	italic (null)
+T843	EntrezGene 19267 19274	Slc26a4
+#843	AnnotatorNotes T843	EG:23985
+T844	PR 19267 19274	Slc26a4
+#844	AnnotatorNotes T844	PR:000015039 (pendrin)
+T845	sup 19274 19277	-/-
+#845	AnnotatorNotes T845	sup (null)
+T846	NCBITaxon 19278 19282	mice
+#846	AnnotatorNotes T846	NCBITaxon:10088 (Mus)
+T847	CHEBI 19288 19292	rRNA
+#847	AnnotatorNotes T847	CHEBI:18111 (ribosomal RNA)
+T848	SO 19288 19292	rRNA
+#848	AnnotatorNotes T848	SO:0000252 (rRNA)
+T849	italic 19374 19381	Slc26a4
+#849	AnnotatorNotes T849	italic (null)
+T850	EntrezGene 19374 19381	Slc26a4
+#850	AnnotatorNotes T850	EG:23985
+T851	PR 19374 19381	Slc26a4
+#851	AnnotatorNotes T851	PR:000015039 (pendrin)
+T852	sup 19381 19384	+/+
+#852	AnnotatorNotes T852	sup (null)
+T853	SO 19381 19382	+
+#853	AnnotatorNotes T853	SO:0000817 (wild_type)
+T854	SO 19383 19384	+
+#854	AnnotatorNotes T854	SO:0000817 (wild_type)
+T855	NCBITaxon 19385 19389	mice
+#855	AnnotatorNotes T855	NCBITaxon:10088 (Mus)
+T856	CHEBI 19395 19399	rRNA
+#856	AnnotatorNotes T856	CHEBI:18111 (ribosomal RNA)
+T857	SO 19395 19399	rRNA
+#857	AnnotatorNotes T857	SO:0000252 (rRNA)
+T858	italic 19459 19468	see below
+#858	AnnotatorNotes T858	italic (null)
+T859	GO_BP 19471 19481	Expression
+#859	AnnotatorNotes T859	GO:0010467 (gene expression)
+T860	EntrezGene 19485 19491	KCNJ10
+#860	AnnotatorNotes T860	EG:16513
+T861	PR 19485 19491	KCNJ10
+#861	AnnotatorNotes T861	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T862	CHEBI 19492 19496	mRNA
+#862	AnnotatorNotes T862	CHEBI:33699 (messenger RNA)
+T863	SO 19492 19496	mRNA
+#863	AnnotatorNotes T863	SO:0000234 (mRNA)
+T864	italic 19556 19563	Slc26a4
+#864	AnnotatorNotes T864	italic (null)
+T865	PR 19556 19563	Slc26a4
+#865	AnnotatorNotes T865	PR:000015039 (pendrin)
+T866	EntrezGene 19556 19563	Slc26a4
+#866	AnnotatorNotes T866	EG:23985
+T867	sup 19563 19566	-/-
+#867	AnnotatorNotes T867	sup (null)
+T868	NCBITaxon 19567 19571	mice
+#868	AnnotatorNotes T868	NCBITaxon:10088 (Mus)
+T869	italic 19605 19612	Slc26a4
+#869	AnnotatorNotes T869	italic (null)
+T870	EntrezGene 19605 19612	Slc26a4
+#870	AnnotatorNotes T870	EG:23985
+T871	PR 19605 19612	Slc26a4
+#871	AnnotatorNotes T871	PR:000015039 (pendrin)
+T872	sup 19612 19615	-/-
+#872	AnnotatorNotes T872	sup (null)
+T873	NCBITaxon 19616 19620	mice
+#873	AnnotatorNotes T873	NCBITaxon:10088 (Mus)
+T874	EntrezGene 19650 19655	KCNQ1
+#874	AnnotatorNotes T874	EG:16535
+T875	PR 19650 19655	KCNQ1
+#875	AnnotatorNotes T875	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T876	EntrezGene 19660 19665	KCNQ4
+#876	AnnotatorNotes T876	EG:60613
+T877	PR 19660 19665	KCNQ4
+#877	AnnotatorNotes T877	PR:000000731 (voltage-gated potassium channel subunit KCNQ4)
+T878	CHEBI 19666 19670	mRNA
+#878	AnnotatorNotes T878	CHEBI:33699 (messenger RNA)
+T879	SO 19666 19670	mRNA
+#879	AnnotatorNotes T879	SO:0000234 (mRNA)
+T880	EntrezGene 19815 19820	KCNQ1
+#880	AnnotatorNotes T880	EG:16535
+T881	PR 19815 19820	KCNQ1
+#881	AnnotatorNotes T881	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T882	GO_BP 19824 19833	expressed
+#882	AnnotatorNotes T882	GO:0010467 (gene expression)
+T883	CL 19837 19842	cells
+#883	AnnotatorNotes T883	CL:0000000 (cell)
+T884	GO_CC 19837 19842	cells
+#884	AnnotatorNotes T884	GO:0005623 (cell)
+T885	EntrezGene 19914 19919	KCNQ4
+#885	AnnotatorNotes T885	EG:60613
+T886	PR 19914 19919	KCNQ4
+#886	AnnotatorNotes T886	PR:000000731 (voltage-gated potassium channel subunit KCNQ4)
+T887	GO_BP 19923 19932	expressed
+#887	AnnotatorNotes T887	GO:0010467 (gene expression)
+T888	CL 19936 19941	cells
+#888	AnnotatorNotes T888	CL:0000000 (cell)
+T889	GO_CC 19936 19941	cells
+#889	AnnotatorNotes T889	GO:0005623 (cell)
+T890	EntrezGene 20020 20025	KCNQ1
+#890	AnnotatorNotes T890	EG:16535
+T891	PR 20020 20025	KCNQ1
+#891	AnnotatorNotes T891	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T892	CHEBI 20026 20040	mRNA molecules
+#892	AnnotatorNotes T892	CHEBI:33699 (messenger RNA)
+T893	SO 20026 20040	mRNA molecules
+#893	AnnotatorNotes T893	SO:0000234 (mRNA)
+T894	CHEBI 20026 20030	mRNA
+#894	AnnotatorNotes T894	CHEBI:33699 (messenger RNA)
+T895	SO 20026 20030	mRNA
+#895	AnnotatorNotes T895	SO:0000234 (mRNA)
+T896	EntrezGene 20123 20128	KCNQ4
+#896	AnnotatorNotes T896	EG:60613
+T897	PR 20123 20128	KCNQ4
+#897	AnnotatorNotes T897	PR:000000731 (voltage-gated potassium channel subunit KCNQ4)
+T898	CHEBI 20129 20143	mRNA molecules
+#898	AnnotatorNotes T898	CHEBI:33699 (messenger RNA)
+T899	SO 20129 20143	mRNA molecules
+#899	AnnotatorNotes T899	SO:0000234 (mRNA)
+T900	CHEBI 20129 20133	mRNA
+#900	AnnotatorNotes T900	CHEBI:33699 (messenger RNA)
+T901	SO 20129 20133	mRNA
+#901	AnnotatorNotes T901	SO:0000234 (mRNA)
+T902	EntrezGene 20255 20261	KCNJ10
+#902	AnnotatorNotes T902	EG:16513
+T903	PR 20255 20261	KCNJ10
+#903	AnnotatorNotes T903	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T904	EntrezGene 20266 20271	KCNQ1
+#904	AnnotatorNotes T904	EG:16535
+T905	PR 20266 20271	KCNQ1
+#905	AnnotatorNotes T905	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T906	EntrezGene 20431 20437	KCNJ10
+#906	AnnotatorNotes T906	EG:16513
+T907	PR 20431 20437	KCNJ10
+#907	AnnotatorNotes T907	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T908	EntrezGene 20442 20447	KCNQ1
+#908	AnnotatorNotes T908	EG:16535
+T909	PR 20442 20447	KCNQ1
+#909	AnnotatorNotes T909	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T910	CHEBI 20448 20452	mRNA
+#910	AnnotatorNotes T910	CHEBI:33699 (messenger RNA)
+T911	SO 20448 20452	mRNA
+#911	AnnotatorNotes T911	SO:0000234 (mRNA)
+T912	GO_BP 20453 20463	expression
+#912	AnnotatorNotes T912	GO:0010467 (gene expression)
+T913	italic 20506 20513	Slc26a4
+#913	AnnotatorNotes T913	italic (null)
+T914	EntrezGene 20506 20513	Slc26a4
+#914	AnnotatorNotes T914	EG:23985
+T915	PR 20506 20513	Slc26a4
+#915	AnnotatorNotes T915	PR:000015039 (pendrin)
+T916	sup 20513 20516	+/+
+#916	AnnotatorNotes T916	sup (null)
+T917	SO 20513 20514	+
+#917	AnnotatorNotes T917	SO:0000817 (wild_type)
+T918	SO 20515 20516	+
+#918	AnnotatorNotes T918	SO:0000817 (wild_type)
+T919	italic 20521 20528	Slc26a4
+#919	AnnotatorNotes T919	italic (null)
+T920	EntrezGene 20521 20528	Slc26a4
+#920	AnnotatorNotes T920	EG:23985
+T921	PR 20521 20528	Slc26a4
+#921	AnnotatorNotes T921	PR:000015039 (pendrin)
+T922	sup 20528 20531	-/-
+#922	AnnotatorNotes T922	sup (null)
+T923	NCBITaxon 20532 20536	mice
+#923	AnnotatorNotes T923	NCBITaxon:10088 (Mus)
+T924	bold 20538 20540	a:
+#924	AnnotatorNotes T924	bold (null)
+T925	SO 20567 20570	RNA
+#925	AnnotatorNotes T925	SO:0000356 (RNA)
+T926	NCBITaxon 20626 20631	mouse
+#926	AnnotatorNotes T926	NCBITaxon:10088 (Mus)
+T927	SO 20653 20656	RNA
+#927	AnnotatorNotes T927	SO:0000356 (RNA)
+T928	italic 20695 20701	shaded
+#928	AnnotatorNotes T928	italic (null)
+T929	SO 20721 20729	18S rRNA
+#929	AnnotatorNotes T929	SO:0000407 (rRNA_18S)
+T930	EntrezGene 20721 20729	18S rRNA
+#930	AnnotatorNotes T930	EG:19791
+T931	CHEBI 20725 20729	rRNA
+#931	AnnotatorNotes T931	CHEBI:18111 (ribosomal RNA)
+T932	SO 20768 20771	18S
+#932	AnnotatorNotes T932	SO:0000407 (rRNA_18S)
+T933	EntrezGene 20768 20771	18S
+#933	AnnotatorNotes T933	EG:19791
+T934	SO 20803 20819	18S and 28S rRNA
+#934	AnnotatorNotes T934	"18S .. rRNA" SO:0000407 (rRNA_18S)
+T935	EntrezGene 20803 20819	18S and 28S rRNA
+#935	AnnotatorNotes T935	"18S .. rRNA" EG:19791
+T936	SO 20811 20819	28S rRNA
+#936	AnnotatorNotes T936	SO:0000653 (rRNA_28S)
+T937	EntrezGene 20811 20819	28S rRNA
+#937	AnnotatorNotes T937	EG:236598
+T938	CHEBI 20815 20819	rRNA
+#938	AnnotatorNotes T938	CHEBI:18111 (ribosomal RNA)
+T939	SO 20852 20855	RNA
+#939	AnnotatorNotes T939	SO:0000356 (RNA)
+T940	bold 20857 20864	Insert:
+#940	AnnotatorNotes T940	bold (null)
+T941	SO 20865 20873	Genotype
+#941	AnnotatorNotes T941	SO:0001027 (genotype)
+T942	italic 20877 20884	Slc26a4
+#942	AnnotatorNotes T942	italic (null)
+T943	PR 20877 20884	Slc26a4
+#943	AnnotatorNotes T943	PR:000015039 (pendrin)
+T944	EntrezGene 20877 20884	Slc26a4
+#944	AnnotatorNotes T944	EG:23985
+T945	sup 20884 20887	-/-
+#945	AnnotatorNotes T945	sup (null)
+T946	NCBITaxon 20888 20892	mice
+#946	AnnotatorNotes T946	NCBITaxon:10088 (Mus)
+T947	italic 20996 21001	arrow
+#947	AnnotatorNotes T947	italic (null)
+T948	bold 21066 21068	b:
+#948	AnnotatorNotes T948	bold (null)
+T949	GO_MF 21090 21092	RT
+#949	AnnotatorNotes T949	GO:0003964 (RNA-directed DNA polymerase activity)
+T950	independent_continuant 21090 21092	RT
+#950	AnnotatorNotes T950	independent_continuant
+T951	GO_BP 21090 21092	RT
+#951	AnnotatorNotes T951	GO:0006410 (transcription, RNA-dependent)
+T952	EntrezGene 21129 21132	18S
+#952	AnnotatorNotes T952	EG:19791
+T953	EntrezGene 21134 21140	KCNJ10
+#953	AnnotatorNotes T953	EG:16513
+T954	PR 21134 21140	KCNJ10
+#954	AnnotatorNotes T954	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T955	EntrezGene 21142 21147	KCNQ1
+#955	AnnotatorNotes T955	EG:16535
+T956	PR 21142 21147	KCNQ1
+#956	AnnotatorNotes T956	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T957	EntrezGene 21152 21157	KCNQ4
+#957	AnnotatorNotes T957	EG:60613
+T958	PR 21152 21157	KCNQ4
+#958	AnnotatorNotes T958	PR:000000731 (voltage-gated potassium channel subunit KCNQ4)
+T959	SO 21179 21187	18S rRNA
+#959	AnnotatorNotes T959	SO:0000407 (rRNA_18S)
+T960	EntrezGene 21179 21187	18S rRNA
+#960	AnnotatorNotes T960	EG:19791
+T961	CHEBI 21183 21187	rRNA
+#961	AnnotatorNotes T961	CHEBI:18111 (ribosomal RNA)
+T962	bold 21268 21270	c:
+#962	AnnotatorNotes T962	bold (null)
+T963	EntrezGene 21289 21295	KCNJ10
+#963	AnnotatorNotes T963	EG:16513
+T964	PR 21289 21295	KCNJ10
+#964	AnnotatorNotes T964	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T965	EntrezGene 21300 21305	KCNQ1
+#965	AnnotatorNotes T965	EG:16535
+T966	PR 21300 21305	KCNQ1
+#966	AnnotatorNotes T966	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T967	CHEBI 21306 21310	mRNA
+#967	AnnotatorNotes T967	CHEBI:33699 (messenger RNA)
+T968	SO 21306 21310	mRNA
+#968	AnnotatorNotes T968	SO:0000234 (mRNA)
+T969	italic 21320 21327	Slc26a4
+#969	AnnotatorNotes T969	italic (null)
+T970	PR 21320 21327	Slc26a4
+#970	AnnotatorNotes T970	PR:000015039 (pendrin)
+T971	EntrezGene 21320 21327	Slc26a4
+#971	AnnotatorNotes T971	EG:23985
+T972	sup 21327 21330	+/+
+#972	AnnotatorNotes T972	sup (null)
+T973	SO 21327 21328	+
+#973	AnnotatorNotes T973	SO:0000817 (wild_type)
+T974	SO 21329 21330	+
+#974	AnnotatorNotes T974	SO:0000817 (wild_type)
+T975	italic 21349 21356	Slc26a4
+#975	AnnotatorNotes T975	italic (null)
+T976	PR 21349 21356	Slc26a4
+#976	AnnotatorNotes T976	PR:000015039 (pendrin)
+T977	EntrezGene 21349 21356	Slc26a4
+#977	AnnotatorNotes T977	EG:23985
+T978	sup 21356 21359	-/-
+#978	AnnotatorNotes T978	sup (null)
+T979	NCBITaxon 21360 21364	mice
+#979	AnnotatorNotes T979	NCBITaxon:10088 (Mus)
+T980	EntrezGene 21383 21389	KCNJ10
+#980	AnnotatorNotes T980	EG:16513
+T981	PR 21383 21389	KCNJ10
+#981	AnnotatorNotes T981	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T982	CHEBI 21390 21394	mRNA
+#982	AnnotatorNotes T982	CHEBI:33699 (messenger RNA)
+T983	SO 21390 21394	mRNA
+#983	AnnotatorNotes T983	SO:0000234 (mRNA)
+T984	italic 21418 21425	Slc26a4
+#984	AnnotatorNotes T984	italic (null)
+T985	PR 21418 21425	Slc26a4
+#985	AnnotatorNotes T985	PR:000015039 (pendrin)
+T986	EntrezGene 21418 21425	Slc26a4
+#986	AnnotatorNotes T986	EG:23985
+T987	sup 21425 21428	-/-
+#987	AnnotatorNotes T987	sup (null)
+T988	NCBITaxon 21429 21433	mice
+#988	AnnotatorNotes T988	NCBITaxon:10088 (Mus)
+T989	CL 21473 21478	cells
+#989	AnnotatorNotes T989	CL:0000000 (cell)
+T990	GO_CC 21473 21478	cells
+#990	AnnotatorNotes T990	GO:0005623 (cell)
+T991	GO_BP 21492 21502	Expression
+#991	AnnotatorNotes T991	GO:0010467 (gene expression)
+T992	EntrezGene 21510 21516	KCNJ10
+#992	AnnotatorNotes T992	EG:16513
+T993	PR 21510 21516	KCNJ10
+#993	AnnotatorNotes T993	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T994	CHEBI 21517 21524	protein
+#994	AnnotatorNotes T994	CHEBI:36080 (proteins)
+T995	italic 21547 21554	Slc26a4
+#995	AnnotatorNotes T995	italic (null)
+T996	EntrezGene 21547 21554	Slc26a4
+#996	AnnotatorNotes T996	EG:23985
+T997	PR 21547 21554	Slc26a4
+#997	AnnotatorNotes T997	PR:000015039 (pendrin)
+T998	sup 21554 21557	-/-
+#998	AnnotatorNotes T998	sup (null)
+T999	NCBITaxon 21558 21562	mice
+#999	AnnotatorNotes T999	NCBITaxon:10088 (Mus)
+T1000	GO_BP 21611 21621	expression
+#1000	AnnotatorNotes T1000	GO:0010467 (gene expression)
+T1001	EntrezGene 21629 21635	KCNJ10
+#1001	AnnotatorNotes T1001	EG:16513
+T1002	PR 21629 21635	KCNJ10
+#1002	AnnotatorNotes T1002	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T1003	CHEBI 21636 21643	protein
+#1003	AnnotatorNotes T1003	CHEBI:36080 (proteins)
+T1004	EntrezGene 21733 21750	KCNJ10 K+ channel
+#1004	AnnotatorNotes T1004	EG:16513
+T1005	PR 21733 21750	KCNJ10 K+ channel
+#1005	AnnotatorNotes T1005	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T1006	GO_MF 21740 21750	K+ channel
+#1006	AnnotatorNotes T1006	GO:0005267 (potassium channel activity)
+T1007	independent_continuant 21740 21750	K+ channel
+#1007	AnnotatorNotes T1007	independent_continuant
+T1008	CHEBI 21740 21742	K+
+#1008	AnnotatorNotes T1008	CHEBI:29103 (potassium(1+))
+T1009	sup 21741 21742	+
+#1009	AnnotatorNotes T1009	sup (null)
+T1010	GO_BP 21852 21872	Protein localization
+#1010	AnnotatorNotes T1010	GO:0008104 (protein localization)
+T1011	CHEBI 21852 21859	Protein
+#1011	AnnotatorNotes T1011	CHEBI:36080 (proteins)
+T1012	EntrezGene 21876 21882	KCNJ10
+#1012	AnnotatorNotes T1012	EG:16513
+T1013	PR 21876 21882	KCNJ10
+#1013	AnnotatorNotes T1013	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T1014	italic 21901 21908	Slc26a4
+#1014	AnnotatorNotes T1014	italic (null)
+T1015	PR 21901 21908	Slc26a4
+#1015	AnnotatorNotes T1015	PR:000015039 (pendrin)
+T1016	EntrezGene 21901 21908	Slc26a4
+#1016	AnnotatorNotes T1016	EG:23985
+T1017	sup 21908 21911	+/+
+#1017	AnnotatorNotes T1017	sup (null)
+T1018	SO 21908 21909	+
+#1018	AnnotatorNotes T1018	SO:0000817 (wild_type)
+T1019	SO 21910 21911	+
+#1019	AnnotatorNotes T1019	SO:0000817 (wild_type)
+T1020	italic 21916 21923	Slc26a4
+#1020	AnnotatorNotes T1020	italic (null)
+T1021	PR 21916 21923	Slc26a4
+#1021	AnnotatorNotes T1021	PR:000015039 (pendrin)
+T1022	EntrezGene 21916 21923	Slc26a4
+#1022	AnnotatorNotes T1022	EG:23985
+T1023	sup 21923 21926	-/-
+#1023	AnnotatorNotes T1023	sup (null)
+T1024	NCBITaxon 21927 21931	mice
+#1024	AnnotatorNotes T1024	NCBITaxon:10088 (Mus)
+T1025	bold 21933 21935	a:
+#1025	AnnotatorNotes T1025	bold (null)
+T1026	bold 22062 22066	b-c:
+#1026	AnnotatorNotes T1026	bold (null)
+T1027	italic 22110 22116	insert
+#1027	AnnotatorNotes T1027	italic (null)
+T1028	GO_BP 22150 22160	Expression
+#1028	AnnotatorNotes T1028	GO:0010467 (gene expression)
+T1029	EntrezGene 22164 22170	KCNJ10
+#1029	AnnotatorNotes T1029	EG:16513
+T1030	PR 22164 22170	KCNJ10
+#1030	AnnotatorNotes T1030	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T1031	italic 22174 22181	Slc26a4
+#1031	AnnotatorNotes T1031	italic (null)
+T1032	PR 22174 22181	Slc26a4
+#1032	AnnotatorNotes T1032	PR:000015039 (pendrin)
+T1033	EntrezGene 22174 22181	Slc26a4
+#1033	AnnotatorNotes T1033	EG:23985
+T1034	sup 22181 22184	-/-
+#1034	AnnotatorNotes T1034	sup (null)
+T1035	NCBITaxon 22185 22189	mice
+#1035	AnnotatorNotes T1035	NCBITaxon:10088 (Mus)
+T1036	CL 22254 22259	cells
+#1036	AnnotatorNotes T1036	CL:0000000 (cell)
+T1037	GO_CC 22254 22259	cells
+#1037	AnnotatorNotes T1037	GO:0005623 (cell)
+T1038	SO 22690 22698	18S rRNA
+#1038	AnnotatorNotes T1038	SO:0000407 (rRNA_18S)
+T1039	EntrezGene 22690 22698	18S rRNA
+#1039	AnnotatorNotes T1039	EG:19791
+T1040	CHEBI 22694 22708	rRNA molecules
+#1040	AnnotatorNotes T1040	CHEBI:18111 (ribosomal RNA)
+T1041	italic 22735 22744	see above
+#1041	AnnotatorNotes T1041	italic (null)
+T1042	CL 22836 22841	cells
+#1042	AnnotatorNotes T1042	CL:0000000 (cell)
+T1043	GO_CC 22836 22841	cells
+#1043	AnnotatorNotes T1043	GO:0005623 (cell)
+T1044	CL 22966 22976	fibrocytes
+#1044	AnnotatorNotes T1044	CL:0000135 (fibrocyte)
+T1045	italic 22999 23006	Slc26a4
+#1045	AnnotatorNotes T1045	italic (null)
+T1046	EntrezGene 22999 23006	Slc26a4
+#1046	AnnotatorNotes T1046	EG:23985
+T1047	PR 22999 23006	Slc26a4
+#1047	AnnotatorNotes T1047	PR:000015039 (pendrin)
+T1048	sup 23006 23009	-/-
+#1048	AnnotatorNotes T1048	sup (null)
+T1049	NCBITaxon 23010 23014	mice
+#1049	AnnotatorNotes T1049	NCBITaxon:10088 (Mus)
+T1050	SO 23222 23230	18S rRNA
+#1050	AnnotatorNotes T1050	SO:0000407 (rRNA_18S)
+T1051	EntrezGene 23222 23230	18S rRNA
+#1051	AnnotatorNotes T1051	EG:19791
+T1052	CHEBI 23226 23240	rRNA molecules
+#1052	AnnotatorNotes T1052	CHEBI:18111 (ribosomal RNA)
+T1053	italic 23276 23285	see above
+#1053	AnnotatorNotes T1053	italic (null)
+T1054	GO_BP 23384 23396	pigmentation
+#1054	AnnotatorNotes T1054	GO:0043473 (pigmentation)
+T1055	GO_CC 23429 23444	tight junctions
+#1055	AnnotatorNotes T1055	GO:0005923 (tight junction)
+T1056	CL 23457 23462	cells
+#1056	AnnotatorNotes T1056	CL:0000000 (cell)
+T1057	GO_CC 23457 23462	cells
+#1057	AnnotatorNotes T1057	GO:0005623 (cell)
+T1058	GO_CC 23479 23494	Tight junctions
+#1058	AnnotatorNotes T1058	GO:0005923 (tight junction)
+T1059	GO_CC 23514 23521	F-actin
+#1059	AnnotatorNotes T1059	GO:0031941 (filamentous actin)
+T1060	GO_BP 23522 23532	expression
+#1060	AnnotatorNotes T1060	GO:0010467 (gene expression)
+T1061	CL 23543 23548	cells
+#1061	AnnotatorNotes T1061	CL:0000000 (cell)
+T1062	GO_CC 23543 23548	cells
+#1062	AnnotatorNotes T1062	GO:0005623 (cell)
+T1063	GO_BP 23561 23565	form
+#1063	AnnotatorNotes T1063	GO:0032502 (developmental process)
+T1064	italic 23648 23655	Slc26a4
+#1064	AnnotatorNotes T1064	italic (null)
+T1065	PR 23648 23655	Slc26a4
+#1065	AnnotatorNotes T1065	PR:000015039 (pendrin)
+T1066	EntrezGene 23648 23655	Slc26a4
+#1066	AnnotatorNotes T1066	EG:23985
+T1067	sup 23655 23658	+/+
+#1067	AnnotatorNotes T1067	sup (null)
+T1068	SO 23655 23656	+
+#1068	AnnotatorNotes T1068	SO:0000817 (wild_type)
+T1069	SO 23657 23658	+
+#1069	AnnotatorNotes T1069	SO:0000817 (wild_type)
+T1070	italic 23663 23670	Slc26a4
+#1070	AnnotatorNotes T1070	italic (null)
+T1071	PR 23663 23670	Slc26a4
+#1071	AnnotatorNotes T1071	PR:000015039 (pendrin)
+T1072	EntrezGene 23663 23670	Slc26a4
+#1072	AnnotatorNotes T1072	EG:23985
+T1073	sup 23670 23673	-/-
+#1073	AnnotatorNotes T1073	sup (null)
+T1074	NCBITaxon 23674 23678	mice
+#1074	AnnotatorNotes T1074	NCBITaxon:10088 (Mus)
+T1075	bold 23680 23682	a:
+#1075	AnnotatorNotes T1075	bold (null)
+T1076	GO_CC 23821 23846	surface of marginal cells
+#1076	AnnotatorNotes T1076	"surface of .. cells" GO:0009986 (cell surface)
+T1077	CL 23841 23846	cells
+#1077	AnnotatorNotes T1077	CL:0000000 (cell)
+T1078	GO_CC 23841 23846	cells
+#1078	AnnotatorNotes T1078	GO:0005623 (cell)
+T1079	italic 23933 23939	dashed
+#1079	AnnotatorNotes T1079	italic (null)
+T1080	bold 24487 24489	b:
+#1080	AnnotatorNotes T1080	bold (null)
+T1081	NCBITaxon 24513 24520	animals
+#1081	AnnotatorNotes T1081	NCBITaxon:33208 (Metazoa)
+T1082	CL 24585 24595	basal cell
+#1082	AnnotatorNotes T1082	CL:0000646 (basal cell)
+T1083	GO_CC 24591 24595	cell
+#1083	AnnotatorNotes T1083	GO:0005623 (cell)
+T1084	italic 24611 24618	Slc26a4
+#1084	AnnotatorNotes T1084	italic (null)
+T1085	EntrezGene 24611 24618	Slc26a4
+#1085	AnnotatorNotes T1085	EG:23985
+T1086	PR 24611 24618	Slc26a4
+#1086	AnnotatorNotes T1086	PR:000015039 (pendrin)
+T1087	sup 24618 24621	-/-
+#1087	AnnotatorNotes T1087	sup (null)
+T1088	NCBITaxon 24622 24626	mice
+#1088	AnnotatorNotes T1088	NCBITaxon:10088 (Mus)
+T1089	GO_CC 24628 24643	Tight junctions
+#1089	AnnotatorNotes T1089	GO:0005923 (tight junction)
+T1090	GO_CC 24663 24670	F actin
+#1090	AnnotatorNotes T1090	GO:0031941 (filamentous actin)
+T1091	CL 24733 24743	basal cell
+#1091	AnnotatorNotes T1091	CL:0000646 (basal cell)
+T1092	GO_CC 24739 24743	cell
+#1092	AnnotatorNotes T1092	GO:0005623 (cell)
+T1093	bold 24750 24753	a-f
+#1093	AnnotatorNotes T1093	bold (null)
+T1094	CL 24776 24780	cell
+#1094	AnnotatorNotes T1094	CL:0000000 (cell)
+T1095	GO_CC 24776 24780	cell
+#1095	AnnotatorNotes T1095	GO:0005623 (cell)
+T1096	bold 24787 24790	g-l
+#1096	AnnotatorNotes T1096	bold (null)
+T1097	bold 24868 24869	b
+#1097	AnnotatorNotes T1097	bold (null)
+T1098	bold 24874 24875	h
+#1098	AnnotatorNotes T1098	bold (null)
+T1099	GO_CC 24932 24939	F actin
+#1099	AnnotatorNotes T1099	GO:0031941 (filamentous actin)
+T1100	GO_CC 24977 24993	pigment granules
+#1100	AnnotatorNotes T1100	GO:0048770 (pigment granule)
+T1101	bold 24995 24996	d
+#1101	AnnotatorNotes T1101	bold (null)
+T1102	bold 24998 24999	j
+#1102	AnnotatorNotes T1102	bold (null)
+T1103	bold 25001 25002	f
+#1103	AnnotatorNotes T1103	bold (null)
+T1104	bold 25007 25008	l
+#1104	AnnotatorNotes T1104	bold (null)
+T1105	CL 25061 25065	cell
+#1105	AnnotatorNotes T1105	CL:0000000 (cell)
+T1106	GO_CC 25061 25065	cell
+#1106	AnnotatorNotes T1106	GO:0005623 (cell)
+T1107	bold 25080 25083	c-d
+#1107	AnnotatorNotes T1107	bold (null)
+T1108	bold 25088 25091	i-j
+#1108	AnnotatorNotes T1108	bold (null)
+T1109	CL 25100 25110	basal cell
+#1109	AnnotatorNotes T1109	CL:0000646 (basal cell)
+T1110	GO_CC 25106 25110	cell
+#1110	AnnotatorNotes T1110	GO:0005623 (cell)
+T1111	bold 25124 25127	e-f
+#1111	AnnotatorNotes T1111	bold (null)
+T1112	bold 25132 25135	k-l
+#1112	AnnotatorNotes T1112	bold (null)
+T1113	CL 25156 25160	cell
+#1113	AnnotatorNotes T1113	CL:0000000 (cell)
+T1114	GO_CC 25156 25160	cell
+#1114	AnnotatorNotes T1114	GO:0005623 (cell)
+T1115	bold 25162 25165	e-f
+#1115	AnnotatorNotes T1115	bold (null)
+T1116	CL 25175 25185	basal cell
+#1116	AnnotatorNotes T1116	CL:0000646 (basal cell)
+T1117	GO_CC 25181 25185	cell
+#1117	AnnotatorNotes T1117	GO:0005623 (cell)
+T1118	bold 25195 25198	i-f
+#1118	AnnotatorNotes T1118	bold (null)
+T1119	CL 25408 25412	cell
+#1119	AnnotatorNotes T1119	CL:0000000 (cell)
+T1120	GO_CC 25408 25412	cell
+#1120	AnnotatorNotes T1120	GO:0005623 (cell)
+T1121	bold 25422 25425	c-d
+#1121	AnnotatorNotes T1121	bold (null)
+T1122	CL 25430 25440	basal cell
+#1122	AnnotatorNotes T1122	CL:0000646 (basal cell)
+T1123	GO_CC 25436 25440	cell
+#1123	AnnotatorNotes T1123	GO:0005623 (cell)
+T1124	bold 25450 25453	k-l
+#1124	AnnotatorNotes T1124	bold (null)
+T1125	italic 25523 25527	star
+#1125	AnnotatorNotes T1125	italic (null)
+T1126	CL 25579 25589	basal cell
+#1126	AnnotatorNotes T1126	CL:0000646 (basal cell)
+T1127	GO_CC 25585 25589	cell
+#1127	AnnotatorNotes T1127	GO:0005623 (cell)
+T1128	italic 25602 25609	Slc26a4
+#1128	AnnotatorNotes T1128	italic (null)
+T1129	EntrezGene 25602 25609	Slc26a4
+#1129	AnnotatorNotes T1129	EG:23985
+T1130	PR 25602 25609	Slc26a4
+#1130	AnnotatorNotes T1130	PR:000015039 (pendrin)
+T1131	sup 25609 25612	+/+
+#1131	AnnotatorNotes T1131	sup (null)
+T1132	SO 25609 25610	+
+#1132	AnnotatorNotes T1132	SO:0000817 (wild_type)
+T1133	SO 25611 25612	+
+#1133	AnnotatorNotes T1133	SO:0000817 (wild_type)
+T1134	italic 25617 25624	Slc26a4
+#1134	AnnotatorNotes T1134	italic (null)
+T1135	PR 25617 25624	Slc26a4
+#1135	AnnotatorNotes T1135	PR:000015039 (pendrin)
+T1136	EntrezGene 25617 25624	Slc26a4
+#1136	AnnotatorNotes T1136	EG:23985
+T1137	sup 25624 25627	-/-
+#1137	AnnotatorNotes T1137	sup (null)
+T1138	NCBITaxon 25628 25632	mice
+#1138	AnnotatorNotes T1138	NCBITaxon:10088 (Mus)
+T1139	GO_CC 25634 25649	Tight junctions
+#1139	AnnotatorNotes T1139	GO:0005923 (tight junction)
+T1140	GO_CC 25669 25676	F actin
+#1140	AnnotatorNotes T1140	GO:0031941 (filamentous actin)
+T1141	GO_BP 25757 25769	pigmentation
+#1141	AnnotatorNotes T1141	GO:0043473 (pigmentation)
+T1142	bold 25771 25772	a
+#1142	AnnotatorNotes T1142	bold (null)
+T1143	bold 25774 25775	d
+#1143	AnnotatorNotes T1143	bold (null)
+T1144	bold 25780 25781	g
+#1144	AnnotatorNotes T1144	bold (null)
+T1145	CL 25809 25813	cell
+#1145	AnnotatorNotes T1145	CL:0000000 (cell)
+T1146	GO_CC 25809 25813	cell
+#1146	AnnotatorNotes T1146	GO:0005623 (cell)
+T1147	bold 25815 25816	b
+#1147	AnnotatorNotes T1147	bold (null)
+T1148	CL 25822 25832	basal cell
+#1148	AnnotatorNotes T1148	CL:0000646 (basal cell)
+T1149	GO_CC 25828 25832	cell
+#1149	AnnotatorNotes T1149	GO:0005623 (cell)
+T1150	bold 25834 25835	c
+#1150	AnnotatorNotes T1150	bold (null)
+T1151	italic 25849 25856	Slc26a4
+#1151	AnnotatorNotes T1151	italic (null)
+T1152	PR 25849 25856	Slc26a4
+#1152	AnnotatorNotes T1152	PR:000015039 (pendrin)
+T1153	EntrezGene 25849 25856	Slc26a4
+#1153	AnnotatorNotes T1153	EG:23985
+T1154	sup 25856 25859	+/+
+#1154	AnnotatorNotes T1154	sup (null)
+T1155	SO 25856 25857	+
+#1155	AnnotatorNotes T1155	SO:0000817 (wild_type)
+T1156	SO 25858 25859	+
+#1156	AnnotatorNotes T1156	SO:0000817 (wild_type)
+T1157	NCBITaxon 25860 25864	mice
+#1157	AnnotatorNotes T1157	NCBITaxon:10088 (Mus)
+T1158	GO_BP 25874 25886	pigmentation
+#1158	AnnotatorNotes T1158	GO:0043473 (pigmentation)
+T1159	italic 25890 25897	Slc26a4
+#1159	AnnotatorNotes T1159	italic (null)
+T1160	EntrezGene 25890 25897	Slc26a4
+#1160	AnnotatorNotes T1160	EG:23985
+T1161	PR 25890 25897	Slc26a4
+#1161	AnnotatorNotes T1161	PR:000015039 (pendrin)
+T1162	sup 25897 25900	+/+
+#1162	AnnotatorNotes T1162	sup (null)
+T1163	SO 25897 25898	+
+#1163	AnnotatorNotes T1163	SO:0000817 (wild_type)
+T1164	SO 25899 25900	+
+#1164	AnnotatorNotes T1164	SO:0000817 (wild_type)
+T1165	NCBITaxon 25901 25905	mice
+#1165	AnnotatorNotes T1165	NCBITaxon:10088 (Mus)
+T1166	GO_CC 25925 25932	F actin
+#1166	AnnotatorNotes T1166	GO:0031941 (filamentous actin)
+T1167	GO_BP 25933 25945	localization
+#1167	AnnotatorNotes T1167	GO:0051179 (localization)
+T1168	italic 25985 25992	Slc26a4
+#1168	AnnotatorNotes T1168	italic (null)
+T1169	EntrezGene 25985 25992	Slc26a4
+#1169	AnnotatorNotes T1169	EG:23985
+T1170	PR 25985 25992	Slc26a4
+#1170	AnnotatorNotes T1170	PR:000015039 (pendrin)
+T1171	sup 25992 25995	-/-
+#1171	AnnotatorNotes T1171	sup (null)
+T1172	NCBITaxon 25996 26000	mice
+#1172	AnnotatorNotes T1172	NCBITaxon:10088 (Mus)
+T1173	CL 26029 26039	basal cell
+#1173	AnnotatorNotes T1173	CL:0000646 (basal cell)
+T1174	GO_CC 26035 26039	cell
+#1174	AnnotatorNotes T1174	GO:0005623 (cell)
+T1175	bold 26046 26049	e-f
+#1175	AnnotatorNotes T1175	bold (null)
+T1176	CL 26072 26076	cell
+#1176	AnnotatorNotes T1176	CL:0000000 (cell)
+T1177	GO_CC 26072 26076	cell
+#1177	AnnotatorNotes T1177	GO:0005623 (cell)
+T1178	bold 26083 26086	h-i
+#1178	AnnotatorNotes T1178	bold (null)
+T1179	bold 26164 26165	d
+#1179	AnnotatorNotes T1179	bold (null)
+T1180	bold 26170 26171	g
+#1180	AnnotatorNotes T1180	bold (null)
+T1181	CL 26224 26228	cell
+#1181	AnnotatorNotes T1181	CL:0000000 (cell)
+T1182	GO_CC 26224 26228	cell
+#1182	AnnotatorNotes T1182	GO:0005623 (cell)
+T1183	bold 26243 26244	b
+#1183	AnnotatorNotes T1183	bold (null)
+T1184	bold 26245 26246	e
+#1184	AnnotatorNotes T1184	bold (null)
+T1185	bold 26251 26252	h
+#1185	AnnotatorNotes T1185	bold (null)
+T1186	CL 26261 26271	basal cell
+#1186	AnnotatorNotes T1186	CL:0000646 (basal cell)
+T1187	GO_CC 26267 26271	cell
+#1187	AnnotatorNotes T1187	GO:0005623 (cell)
+T1188	bold 26285 26286	c
+#1188	AnnotatorNotes T1188	bold (null)
+T1189	bold 26287 26288	f
+#1189	AnnotatorNotes T1189	bold (null)
+T1190	bold 26293 26294	i
+#1190	AnnotatorNotes T1190	bold (null)
+T1191	CL 26306 26316	basal cell
+#1191	AnnotatorNotes T1191	CL:0000646 (basal cell)
+T1192	GO_CC 26312 26316	cell
+#1192	AnnotatorNotes T1192	GO:0005623 (cell)
+T1193	bold 26318 26319	f
+#1193	AnnotatorNotes T1193	bold (null)
+T1194	CL 26338 26342	cell
+#1194	AnnotatorNotes T1194	CL:0000000 (cell)
+T1195	GO_CC 26338 26342	cell
+#1195	AnnotatorNotes T1195	GO:0005623 (cell)
+T1196	bold 26344 26345	h
+#1196	AnnotatorNotes T1196	bold (null)
+T1197	CL 26475 26479	cell
+#1197	AnnotatorNotes T1197	CL:0000000 (cell)
+T1198	GO_CC 26475 26479	cell
+#1198	AnnotatorNotes T1198	GO:0005623 (cell)
+T1199	bold 26489 26490	e
+#1199	AnnotatorNotes T1199	bold (null)
+T1200	CL 26495 26505	basal cell
+#1200	AnnotatorNotes T1200	CL:0000646 (basal cell)
+T1201	GO_CC 26501 26505	cell
+#1201	AnnotatorNotes T1201	GO:0005623 (cell)
+T1202	bold 26515 26516	i
+#1202	AnnotatorNotes T1202	bold (null)
+T1203	italic 26597 26602	stars
+#1203	AnnotatorNotes T1203	italic (null)
+T1204	EntrezGene 26619 26626	Pendrin
+#1204	AnnotatorNotes T1204	EG:23985
+T1205	PR 26619 26626	Pendrin
+#1205	AnnotatorNotes T1205	PR:000015039 (pendrin)
+T1206	GO_BP 26627 26637	expressing
+#1206	AnnotatorNotes T1206	GO:0010467 (gene expression)
+T1207	CL 26646 26662	epithelial cells
+#1207	AnnotatorNotes T1207	CL:0000066 (epithelial cell)
+T1208	GO_CC 26657 26662	cells
+#1208	AnnotatorNotes T1208	GO:0005623 (cell)
+T1209	CL 26724 26735	basal cells
+#1209	AnnotatorNotes T1209	CL:0000646 (basal cell)
+T1210	GO_CC 26730 26735	cells
+#1210	AnnotatorNotes T1210	GO:0005623 (cell)
+T1211	GO_CC 26765 26780	tight junctions
+#1211	AnnotatorNotes T1211	GO:0005923 (tight junction)
+T1212	GO_BP 26782 26786	form
+#1212	AnnotatorNotes T1212	GO:0022607 (cellular component assembly)
+T1213	GO_CC 26798 26813	tight junctions
+#1213	AnnotatorNotes T1213	GO:0005923 (tight junction)
+T1214	CL 26827 26843	epithelial cells
+#1214	AnnotatorNotes T1214	CL:0000066 (epithelial cell)
+T1215	GO_CC 26838 26843	cells
+#1215	AnnotatorNotes T1215	GO:0005623 (cell)
+T1216	GO_CC 26882 26890	junction
+#1216	AnnotatorNotes T1216	GO:0030054 (cell junction)
+T1217	italic 26894 26901	Slc26a4
+#1217	AnnotatorNotes T1217	italic (null)
+T1218	PR 26894 26901	Slc26a4
+#1218	AnnotatorNotes T1218	PR:000015039 (pendrin)
+T1219	EntrezGene 26894 26901	Slc26a4
+#1219	AnnotatorNotes T1219	EG:23985
+T1220	sup 26901 26904	-/-
+#1220	AnnotatorNotes T1220	sup (null)
+T1221	NCBITaxon 26905 26909	mice
+#1221	AnnotatorNotes T1221	NCBITaxon:10088 (Mus)
+T1222	GO_BP 27062 27072	expression
+#1222	AnnotatorNotes T1222	GO:0010467 (gene expression)
+T1223	EntrezGene 27076 27080	ZO-1
+#1223	AnnotatorNotes T1223	EG:21872
+T1224	PR 27076 27080	ZO-1
+#1224	AnnotatorNotes T1224	PR:000016364 (tight junction protein ZO-1)
+T1225	GO_CC 27088 27095	F-actin
+#1225	AnnotatorNotes T1225	GO:0031941 (filamentous actin)
+T1226	GO_CC 27118 27132	tight junction
+#1226	AnnotatorNotes T1226	GO:0005923 (tight junction)
+T1227	GO_CC 27133 27142	complexes
+#1227	AnnotatorNotes T1227	GO:0032991 (macromolecular complex)
+T1228	EntrezGene 27144 27148	ZO-1
+#1228	AnnotatorNotes T1228	EG:21872
+T1229	PR 27144 27148	ZO-1
+#1229	AnnotatorNotes T1229	PR:000016364 (tight junction protein ZO-1)
+T1230	GO_CC 27153 27160	F-actin
+#1230	AnnotatorNotes T1230	GO:0031941 (filamentous actin)
+T1231	GO_BP 27161 27171	expression
+#1231	AnnotatorNotes T1231	GO:0010467 (gene expression)
+T1232	CL 27203 27214	basal cells
+#1232	AnnotatorNotes T1232	CL:0000646 (basal cell)
+T1233	GO_CC 27209 27214	cells
+#1233	AnnotatorNotes T1233	GO:0005623 (cell)
+T1234	GO_CC 27228 27281	junction of basal cells with surface epithelial cells
+#1234	AnnotatorNotes T1234	"junction of .. cells with .. cells" GO:0005911 (intercellular junction)
+T1235	CL 27240 27251	basal cells
+#1235	AnnotatorNotes T1235	CL:0000646 (basal cell)
+T1236	GO_CC 27246 27251	cells
+#1236	AnnotatorNotes T1236	GO:0005623 (cell)
+T1237	CL 27265 27281	epithelial cells
+#1237	AnnotatorNotes T1237	CL:0000066 (epithelial cell)
+T1238	GO_CC 27276 27281	cells
+#1238	AnnotatorNotes T1238	GO:0005623 (cell)
+T1239	italic 27285 27292	Slc26a4
+#1239	AnnotatorNotes T1239	italic (null)
+T1240	PR 27285 27292	Slc26a4
+#1240	AnnotatorNotes T1240	PR:000015039 (pendrin)
+T1241	EntrezGene 27285 27292	Slc26a4
+#1241	AnnotatorNotes T1241	EG:23985
+T1242	sup 27292 27295	-/-
+#1242	AnnotatorNotes T1242	sup (null)
+T1243	NCBITaxon 27296 27300	mice
+#1243	AnnotatorNotes T1243	NCBITaxon:10088 (Mus)
+T1244	NCBITaxon 27324 27328	mice
+#1244	AnnotatorNotes T1244	NCBITaxon:10088 (Mus)
+T1245	CL 27477 27487	basal cell
+#1245	AnnotatorNotes T1245	CL:0000646 (basal cell)
+T1246	GO_CC 27483 27487	cell
+#1246	AnnotatorNotes T1246	GO:0005623 (cell)
+T1247	CHEBI 27551 27553	K+
+#1247	AnnotatorNotes T1247	CHEBI:29103 (potassium(1+))
+T1248	sup 27552 27553	+
+#1248	AnnotatorNotes T1248	sup (null)
+T1249	italic 27584 27591	Slc26a4
+#1249	AnnotatorNotes T1249	italic (null)
+T1250	EntrezGene 27584 27591	Slc26a4
+#1250	AnnotatorNotes T1250	EG:23985
+T1251	PR 27584 27591	Slc26a4
+#1251	AnnotatorNotes T1251	PR:000015039 (pendrin)
+T1252	sup 27591 27594	-/-
+#1252	AnnotatorNotes T1252	sup (null)
+T1253	NCBITaxon 27595 27599	mice
+#1253	AnnotatorNotes T1253	NCBITaxon:10088 (Mus)
+T1254	GO_BP 27643 27650	secrete
+#1254	AnnotatorNotes T1254	GO:0046903 (secretion)
+T1255	CHEBI 27651 27653	K+
+#1255	AnnotatorNotes T1255	CHEBI:29103 (potassium(1+))
+T1256	sup 27652 27653	+
+#1256	AnnotatorNotes T1256	sup (null)
+T1257	CHEBI 27714 27716	K+
+#1257	AnnotatorNotes T1257	CHEBI:29103 (potassium(1+))
+T1258	sup 27715 27716	+
+#1258	AnnotatorNotes T1258	sup (null)
+T1259	GO_BP 27717 27726	secretion
+#1259	AnnotatorNotes T1259	GO:0046903 (secretion)
+T1260	CHEBI 27763 27765	K+
+#1260	AnnotatorNotes T1260	CHEBI:29103 (potassium(1+))
+T1261	sup 27764 27765	+
+#1261	AnnotatorNotes T1261	sup (null)
+T1262	italic 27820 27827	Slc26a4
+#1262	AnnotatorNotes T1262	italic (null)
+T1263	EntrezGene 27820 27827	Slc26a4
+#1263	AnnotatorNotes T1263	EG:23985
+T1264	PR 27820 27827	Slc26a4
+#1264	AnnotatorNotes T1264	PR:000015039 (pendrin)
+T1265	sup 27827 27830	+/+
+#1265	AnnotatorNotes T1265	sup (null)
+T1266	SO 27827 27828	+
+#1266	AnnotatorNotes T1266	SO:0000817 (wild_type)
+T1267	SO 27829 27830	+
+#1267	AnnotatorNotes T1267	SO:0000817 (wild_type)
+T1268	NCBITaxon 27831 27835	mice
+#1268	AnnotatorNotes T1268	NCBITaxon:10088 (Mus)
+T1269	GO_BP 27865 27872	sensory
+#1269	AnnotatorNotes T1269	GO:0007600 (sensory perception)
+T1270	CL 27873 27883	hair cells
+#1270	AnnotatorNotes T1270	CL:0000855 (hair cell)
+T1271	GO_CC 27878 27883	cells
+#1271	AnnotatorNotes T1271	GO:0005623 (cell)
+T1272	CHEBI 27919 27921	K+
+#1272	AnnotatorNotes T1272	CHEBI:29103 (potassium(1+))
+T1273	sup 27920 27921	+
+#1273	AnnotatorNotes T1273	sup (null)
+T1274	italic 28010 28017	Slc26a4
+#1274	AnnotatorNotes T1274	italic (null)
+T1275	EntrezGene 28010 28017	Slc26a4
+#1275	AnnotatorNotes T1275	EG:23985
+T1276	PR 28010 28017	Slc26a4
+#1276	AnnotatorNotes T1276	PR:000015039 (pendrin)
+T1277	sup 28017 28020	-/-
+#1277	AnnotatorNotes T1277	sup (null)
+T1278	GO_BP 28021 28029	secretes
+#1278	AnnotatorNotes T1278	GO:0046903 (secretion)
+T1279	CHEBI 28030 28032	K+
+#1279	AnnotatorNotes T1279	CHEBI:29103 (potassium(1+))
+T1280	sup 28031 28032	+
+#1280	AnnotatorNotes T1280	sup (null)
+T1281	GO_CC 28132 28172	apical membrane of strial marginal cells
+#1281	AnnotatorNotes T1281	"apical membrane of .. cells" GO:0016324 (apical plasma membrane)
+T1282	GO_CC 28132 28138	apical
+#1282	AnnotatorNotes T1282	GO:0045177 (apical part of cell)
+T1283	CL 28167 28172	cells
+#1283	AnnotatorNotes T1283	CL:0000000 (cell)
+T1284	GO_CC 28167 28172	cells
+#1284	AnnotatorNotes T1284	GO:0005623 (cell)
+T1285	GO_BP 28192 28202	expression
+#1285	AnnotatorNotes T1285	GO:0010467 (gene expression)
+T1286	CHEBI 28210 28218	proteins
+#1286	AnnotatorNotes T1286	CHEBI:36080 (proteins)
+T1287	EntrezGene 28219 28224	KCNQ1
+#1287	AnnotatorNotes T1287	EG:16535
+T1288	PR 28219 28224	KCNQ1
+#1288	AnnotatorNotes T1288	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T1289	EntrezGene 28226 28231	KCNE1
+#1289	AnnotatorNotes T1289	EG:16509
+T1290	PR 28226 28231	KCNE1
+#1290	AnnotatorNotes T1290	PR:000009255 (potassium voltage-gated channel subfamily E member 1)
+T1291	EntrezGene 28236 28243	SLC12A2
+#1291	AnnotatorNotes T1291	EG:20496
+T1292	PR 28236 28243	SLC12A2
+#1292	AnnotatorNotes T1292	PR:000014925 (solute carrier family 12 member 2)
+T1293	CHEBI 28269 28271	K+
+#1293	AnnotatorNotes T1293	CHEBI:29103 (potassium(1+))
+T1294	sup 28270 28271	+
+#1294	AnnotatorNotes T1294	sup (null)
+T1295	GO_BP 28272 28281	secretion
+#1295	AnnotatorNotes T1295	GO:0046903 (secretion)
+T1296	EntrezGene 28301 28305	GJB2
+#1296	AnnotatorNotes T1296	EG:14619
+T1297	PR 28301 28305	GJB2
+#1297	AnnotatorNotes T1297	PR:000007998 (gap junction beta-2 protein)
+T1298	EntrezGene 28307 28311	Cx26
+#1298	AnnotatorNotes T1298	EG:14619
+T1299	PR 28307 28311	Cx26
+#1299	AnnotatorNotes T1299	PR:000007998 (gap junction beta-2 protein)
+T1300	CHEBI 28348 28350	K+
+#1300	AnnotatorNotes T1300	CHEBI:29103 (potassium(1+))
+T1301	sup 28349 28350	+
+#1301	AnnotatorNotes T1301	sup (null)
+T1302	CHEBI 28365 28367	K+
+#1302	AnnotatorNotes T1302	CHEBI:29103 (potassium(1+))
+T1303	sup 28366 28367	+
+#1303	AnnotatorNotes T1303	sup (null)
+T1304	GO_BP 28368 28377	secretion
+#1304	AnnotatorNotes T1304	GO:0046903 (secretion)
+T1305	sup 28408 28410	-5
+#1305	AnnotatorNotes T1305	sup (null)
+T1306	CHEBI 28432 28440	diuretic
+#1306	AnnotatorNotes T1306	CHEBI:35498 (diuretic)
+T1307	GO_MF 28459 28484	Na+/2Cl-/K+ cotransporter
+#1307	AnnotatorNotes T1307	GO:0008511 (sodium:potassium:chloride symporter activity)
+T1308	independent_continuant 28459 28484	Na+/2Cl-/K+ cotransporter
+#1308	AnnotatorNotes T1308	independent_continuant
+T1309	CHEBI 28459 28462	Na+
+#1309	AnnotatorNotes T1309	CHEBI:29101 (sodium(1+))
+T1310	sup 28461 28462	+
+#1310	AnnotatorNotes T1310	sup (null)
+T1311	sup 28466 28467	-
+#1311	AnnotatorNotes T1311	sup (null)
+T1312	CHEBI 28468 28470	K+
+#1312	AnnotatorNotes T1312	CHEBI:29103 (potassium(1+))
+T1313	sup 28469 28470	+
+#1313	AnnotatorNotes T1313	sup (null)
+T1314	PR 28485 28492	SLC12A2
+#1314	AnnotatorNotes T1314	PR:000014925 (solute carrier family 12 member 2)
+T1315	italic 28548 28555	Slc26a4
+#1315	AnnotatorNotes T1315	italic (null)
+T1316	PR 28548 28555	Slc26a4
+#1316	AnnotatorNotes T1316	PR:000015039 (pendrin)
+T1317	EntrezGene 28548 28555	Slc26a4
+#1317	AnnotatorNotes T1317	EG:23985
+T1318	sup 28555 28558	+/+
+#1318	AnnotatorNotes T1318	sup (null)
+T1319	SO 28555 28556	+
+#1319	AnnotatorNotes T1319	SO:0000817 (wild_type)
+T1320	SO 28557 28558	+
+#1320	AnnotatorNotes T1320	SO:0000817 (wild_type)
+T1321	italic 28563 28570	Slc26a4
+#1321	AnnotatorNotes T1321	italic (null)
+T1322	PR 28563 28570	Slc26a4
+#1322	AnnotatorNotes T1322	PR:000015039 (pendrin)
+T1323	EntrezGene 28563 28570	Slc26a4
+#1323	AnnotatorNotes T1323	EG:23985
+T1324	sup 28570 28573	-/-
+#1324	AnnotatorNotes T1324	sup (null)
+T1325	NCBITaxon 28574 28578	mice
+#1325	AnnotatorNotes T1325	NCBITaxon:10088 (Mus)
+T1326	italic 28646 28653	Slc26a4
+#1326	AnnotatorNotes T1326	italic (null)
+T1327	PR 28646 28653	Slc26a4
+#1327	AnnotatorNotes T1327	PR:000015039 (pendrin)
+T1328	EntrezGene 28646 28653	Slc26a4
+#1328	AnnotatorNotes T1328	EG:23985
+T1329	sup 28653 28656	-/-
+#1329	AnnotatorNotes T1329	sup (null)
+T1330	NCBITaxon 28657 28661	mice
+#1330	AnnotatorNotes T1330	NCBITaxon:10088 (Mus)
+T1331	sup 28675 28676	2
+#1331	AnnotatorNotes T1331	sup (null)
+T1332	sup 28703 28704	2
+#1332	AnnotatorNotes T1332	sup (null)
+T1333	EntrezGene 28714 28719	KCNQ1
+#1333	AnnotatorNotes T1333	EG:16535
+T1334	PR 28714 28719	KCNQ1
+#1334	AnnotatorNotes T1334	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T1335	EntrezGene 28724 28729	KCNE1
+#1335	AnnotatorNotes T1335	EG:16509
+T1336	PR 28724 28729	KCNE1
+#1336	AnnotatorNotes T1336	PR:000009255 (potassium voltage-gated channel subfamily E member 1)
+T1337	GO_BP 28747 28756	secretory
+#1337	AnnotatorNotes T1337	GO:0046903 (secretion)
+T1338	GO_MF 28757 28767	K+ channel
+#1338	AnnotatorNotes T1338	GO:0005267 (potassium channel activity)
+T1339	independent_continuant 28757 28767	K+ channel
+#1339	AnnotatorNotes T1339	independent_continuant
+T1340	CHEBI 28757 28759	K+
+#1340	AnnotatorNotes T1340	CHEBI:29103 (potassium(1+))
+T1341	sup 28758 28759	+
+#1341	AnnotatorNotes T1341	sup (null)
+T1342	GO_BP 28777 28786	localized
+#1342	AnnotatorNotes T1342	GO:0051179 (localization)
+T1343	GO_CC 28794 28834	apical membrane of strial marginal cells
+#1343	AnnotatorNotes T1343	"apical membrane of .. cells" GO:0016324 (apical plasma membrane)
+T1344	GO_CC 28794 28800	apical
+#1344	AnnotatorNotes T1344	GO:0045177 (apical part of cell)
+T1345	CL 28829 28834	cells
+#1345	AnnotatorNotes T1345	CL:0000000 (cell)
+T1346	GO_CC 28829 28834	cells
+#1346	AnnotatorNotes T1346	GO:0005623 (cell)
+T1347	GO_MF 28840 28865	Na+/2Cl-/K+ cotransporter
+#1347	AnnotatorNotes T1347	GO:0008511 (sodium:potassium:chloride symporter activity)
+T1348	independent_continuant 28840 28865	Na+/2Cl-/K+ cotransporter
+#1348	AnnotatorNotes T1348	independent_continuant
+T1349	CHEBI 28840 28843	Na+
+#1349	AnnotatorNotes T1349	CHEBI:29101 (sodium(1+))
+T1350	sup 28842 28843	+
+#1350	AnnotatorNotes T1350	sup (null)
+T1351	sup 28847 28848	-
+#1351	AnnotatorNotes T1351	sup (null)
+T1352	CHEBI 28849 28851	K+
+#1352	AnnotatorNotes T1352	CHEBI:29103 (potassium(1+))
+T1353	sup 28850 28851	+
+#1353	AnnotatorNotes T1353	sup (null)
+T1354	EntrezGene 28866 28873	SLC12A2
+#1354	AnnotatorNotes T1354	EG:20496
+T1355	PR 28866 28873	SLC12A2
+#1355	AnnotatorNotes T1355	PR:000014925 (solute carrier family 12 member 2)
+T1356	GO_BP 28884 28891	located
+#1356	AnnotatorNotes T1356	GO:0051179 (localization)
+T1357	GO_CC 28899 28944	basolateral membrane of strial marginal cells
+#1357	AnnotatorNotes T1357	"basolateral membrane of .. cells" GO:0016323 (basolateral plasma membrane)
+T1358	CL 28939 28944	cells
+#1358	AnnotatorNotes T1358	CL:0000000 (cell)
+T1359	GO_CC 28939 28944	cells
+#1359	AnnotatorNotes T1359	GO:0005623 (cell)
+T1360	GO_CC 28985 28997	gap junction
+#1360	AnnotatorNotes T1360	GO:0005921 (gap junction)
+T1361	CHEBI 28998 29005	protein
+#1361	AnnotatorNotes T1361	CHEBI:36080 (proteins)
+T1362	EntrezGene 29006 29010	GJB2
+#1362	AnnotatorNotes T1362	EG:14619
+T1363	PR 29006 29010	GJB2
+#1363	AnnotatorNotes T1363	PR:000007998 (gap junction beta-2 protein)
+T1364	italic 29043 29050	Slc26a4
+#1364	AnnotatorNotes T1364	italic (null)
+T1365	PR 29043 29050	Slc26a4
+#1365	AnnotatorNotes T1365	PR:000015039 (pendrin)
+T1366	EntrezGene 29043 29050	Slc26a4
+#1366	AnnotatorNotes T1366	EG:23985
+T1367	sup 29050 29053	+/+
+#1367	AnnotatorNotes T1367	sup (null)
+T1368	SO 29050 29051	+
+#1368	AnnotatorNotes T1368	SO:0000817 (wild_type)
+T1369	SO 29052 29053	+
+#1369	AnnotatorNotes T1369	SO:0000817 (wild_type)
+T1370	italic 29058 29065	Slc26a4
+#1370	AnnotatorNotes T1370	italic (null)
+T1371	EntrezGene 29058 29065	Slc26a4
+#1371	AnnotatorNotes T1371	EG:23985
+T1372	PR 29058 29065	Slc26a4
+#1372	AnnotatorNotes T1372	PR:000015039 (pendrin)
+T1373	sup 29065 29068	-/-
+#1373	AnnotatorNotes T1373	sup (null)
+T1374	NCBITaxon 29069 29073	mice
+#1374	AnnotatorNotes T1374	NCBITaxon:10088 (Mus)
+T1375	GO_BP 29087 29127	localization of KCNQ1 and KCNE1 proteins
+#1375	AnnotatorNotes T1375	"localization of .. proteins" GO:0008104 (protein localization)
+T1376	EntrezGene 29103 29108	KCNQ1
+#1376	AnnotatorNotes T1376	EG:16535
+T1377	PR 29103 29108	KCNQ1
+#1377	AnnotatorNotes T1377	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T1378	EntrezGene 29113 29118	KCNE1
+#1378	AnnotatorNotes T1378	EG:16509
+T1379	PR 29113 29118	KCNE1
+#1379	AnnotatorNotes T1379	PR:000009255 (potassium voltage-gated channel subfamily E member 1)
+T1380	CHEBI 29119 29127	proteins
+#1380	AnnotatorNotes T1380	CHEBI:36080 (proteins)
+T1381	CL 29149 29170	vestibular dark cells
+#1381	AnnotatorNotes T1381	CL:0000846 (vestibular dark cell)
+T1382	GO_CC 29165 29170	cells
+#1382	AnnotatorNotes T1382	GO:0005623 (cell)
+T1383	GO_BP 29182 29192	Expression
+#1383	AnnotatorNotes T1383	GO:0010467 (gene expression)
+T1384	EntrezGene 29196 29201	KCNQ1
+#1384	AnnotatorNotes T1384	EG:16535
+T1385	PR 29196 29201	KCNQ1
+#1385	AnnotatorNotes T1385	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T1386	CHEBI 29202 29209	protein
+#1386	AnnotatorNotes T1386	CHEBI:36080 (proteins)
+T1387	italic 29233 29240	Slc26a4
+#1387	AnnotatorNotes T1387	italic (null)
+T1388	PR 29233 29240	Slc26a4
+#1388	AnnotatorNotes T1388	PR:000015039 (pendrin)
+T1389	EntrezGene 29233 29240	Slc26a4
+#1389	AnnotatorNotes T1389	EG:23985
+T1390	sup 29240 29243	-/-
+#1390	AnnotatorNotes T1390	sup (null)
+T1391	NCBITaxon 29244 29248	mice
+#1391	AnnotatorNotes T1391	NCBITaxon:10088 (Mus)
+T1392	EntrezGene 29283 29288	KCNQ1
+#1392	AnnotatorNotes T1392	EG:16535
+T1393	PR 29283 29288	KCNQ1
+#1393	AnnotatorNotes T1393	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T1394	CHEBI 29289 29293	mRNA
+#1394	AnnotatorNotes T1394	CHEBI:33699 (messenger RNA)
+T1395	SO 29289 29293	mRNA
+#1395	AnnotatorNotes T1395	SO:0000234 (mRNA)
+T1396	GO_BP 29294 29304	expression
+#1396	AnnotatorNotes T1396	GO:0010467 (gene expression)
+T1397	CHEBI 29435 29437	K+
+#1397	AnnotatorNotes T1397	CHEBI:29103 (potassium(1+))
+T1398	sup 29436 29437	+
+#1398	AnnotatorNotes T1398	sup (null)
+T1399	GO_BP 29438 29472	secretion by strial marginal cells
+#1399	AnnotatorNotes T1399	"secretion by .. cells" GO:0032940 (secretion by cell)
+T1400	CL 29467 29472	cells
+#1400	AnnotatorNotes T1400	CL:0000000 (cell)
+T1401	GO_CC 29467 29472	cells
+#1401	AnnotatorNotes T1401	GO:0005623 (cell)
+T1402	GO_CC 29492 29504	gap junction
+#1402	AnnotatorNotes T1402	GO:0005921 (gap junction)
+T1403	CHEBI 29514 29516	K+
+#1403	AnnotatorNotes T1403	CHEBI:29103 (potassium(1+))
+T1404	sup 29515 29516	+
+#1404	AnnotatorNotes T1404	sup (null)
+T1405	GO_BP 29537 29557	Protein localization
+#1405	AnnotatorNotes T1405	GO:0008104 (protein localization)
+T1406	CHEBI 29537 29544	Protein
+#1406	AnnotatorNotes T1406	CHEBI:36080 (proteins)
+T1407	EntrezGene 29561 29566	KCNQ1
+#1407	AnnotatorNotes T1407	EG:16535
+T1408	PR 29561 29566	KCNQ1
+#1408	AnnotatorNotes T1408	PR:000000728 (voltage-gated potassium channel subunit KCNQ1)
+T1409	EntrezGene 29568 29573	KCNE1
+#1409	AnnotatorNotes T1409	EG:16509
+T1410	PR 29568 29573	KCNE1
+#1410	AnnotatorNotes T1410	PR:000009255 (potassium voltage-gated channel subfamily E member 1)
+T1411	EntrezGene 29575 29582	SLC12A2
+#1411	AnnotatorNotes T1411	EG:20496
+T1412	PR 29575 29582	SLC12A2
+#1412	AnnotatorNotes T1412	PR:000014925 (solute carrier family 12 member 2)
+T1413	EntrezGene 29587 29591	GJB2
+#1413	AnnotatorNotes T1413	EG:14619
+T1414	PR 29587 29591	GJB2
+#1414	AnnotatorNotes T1414	PR:000007998 (gap junction beta-2 protein)
+T1415	italic 29624 29631	Slc26a4
+#1415	AnnotatorNotes T1415	italic (null)
+T1416	PR 29624 29631	Slc26a4
+#1416	AnnotatorNotes T1416	PR:000015039 (pendrin)
+T1417	EntrezGene 29624 29631	Slc26a4
+#1417	AnnotatorNotes T1417	EG:23985
+T1418	sup 29631 29634	+/+
+#1418	AnnotatorNotes T1418	sup (null)
+T1419	SO 29631 29632	+
+#1419	AnnotatorNotes T1419	SO:0000817 (wild_type)
+T1420	SO 29633 29634	+
+#1420	AnnotatorNotes T1420	SO:0000817 (wild_type)
+T1421	italic 29639 29646	Slc26a4
+#1421	AnnotatorNotes T1421	italic (null)
+T1422	EntrezGene 29639 29646	Slc26a4
+#1422	AnnotatorNotes T1422	EG:23985
+T1423	PR 29639 29646	Slc26a4
+#1423	AnnotatorNotes T1423	PR:000015039 (pendrin)
+T1424	sup 29646 29649	-/-
+#1424	AnnotatorNotes T1424	sup (null)
+T1425	NCBITaxon 29650 29654	mice
+#1425	AnnotatorNotes T1425	NCBITaxon:10088 (Mus)
+T1426	bold 29656 29660	a-f:
+#1426	AnnotatorNotes T1426	bold (null)
+T1427	CL 29695 29700	cells
+#1427	AnnotatorNotes T1427	CL:0000000 (cell)
+T1428	GO_CC 29695 29700	cells
+#1428	AnnotatorNotes T1428	GO:0005623 (cell)
+T1429	CL 29728 29739	basal cells
+#1429	AnnotatorNotes T1429	CL:0000646 (basal cell)
+T1430	GO_CC 29734 29739	cells
+#1430	AnnotatorNotes T1430	GO:0005623 (cell)
+T1431	EntrezGene 29802 29809	pendrin
+#1431	AnnotatorNotes T1431	EG:23985
+T1432	PR 29802 29809	pendrin
+#1432	AnnotatorNotes T1432	PR:000015039 (pendrin)
+T1433	GO_BP 29810 29820	expression
+#1433	AnnotatorNotes T1433	GO:0010467 (gene expression)
+T1434	CHEBI 29895 29897	K+
+#1434	AnnotatorNotes T1434	CHEBI:29103 (potassium(1+))
+T1435	sup 29896 29897	+
+#1435	AnnotatorNotes T1435	sup (null)
+T1436	italic 29981 29988	Slc26a4
+#1436	AnnotatorNotes T1436	italic (null)
+T1437	PR 29981 29988	Slc26a4
+#1437	AnnotatorNotes T1437	PR:000015039 (pendrin)
+T1438	EntrezGene 29981 29988	Slc26a4
+#1438	AnnotatorNotes T1438	EG:23985
+T1439	sup 29988 29991	-/-
+#1439	AnnotatorNotes T1439	sup (null)
+T1440	NCBITaxon 29992 29996	mice
+#1440	AnnotatorNotes T1440	NCBITaxon:10088 (Mus)
+T1441	GO_BP 30049 30056	express
+#1441	AnnotatorNotes T1441	GO:0010467 (gene expression)
+T1442	EntrezGene 30057 30063	KCNJ10
+#1442	AnnotatorNotes T1442	EG:16513
+T1443	PR 30057 30063	KCNJ10
+#1443	AnnotatorNotes T1443	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T1444	CHEBI 30064 30071	protein
+#1444	AnnotatorNotes T1444	CHEBI:36080 (proteins)
+T1445	CL 30086 30091	cells
+#1445	AnnotatorNotes T1445	CL:0000000 (cell)
+T1446	GO_CC 30086 30091	cells
+#1446	AnnotatorNotes T1446	GO:0005623 (cell)
+T1447	CHEBI 30131 30134	CO2
+#1447	AnnotatorNotes T1447	CHEBI:16526 (carbon dioxide)
+T1448	sub 30133 30134	2
+#1448	AnnotatorNotes T1448	sub (null)
+T1449	CHEBI 30138 30144	HCO3 -
+#1449	AnnotatorNotes T1449	CHEBI:17544 (hydrogencarbonate)
+T1450	sub 30141 30142	3
+#1450	AnnotatorNotes T1450	sub (null)
+T1451	sup 30143 30144	-
+#1451	AnnotatorNotes T1451	sup (null)
+T1452	CHEBI 30164 30177	free radicals
+#1452	AnnotatorNotes T1452	CHEBI:26519 (radicals)
+T1453	CHEBI 30188 30191	CO2
+#1453	AnnotatorNotes T1453	CHEBI:16526 (carbon dioxide)
+T1454	sub 30190 30191	2
+#1454	AnnotatorNotes T1454	sub (null)
+T1455	CHEBI 30196 30209	free radicals
+#1455	AnnotatorNotes T1455	CHEBI:26519 (radicals)
+T1456	GO_BP 30214 30223	generated
+#1456	AnnotatorNotes T1456	GO:0009058 (biosynthetic process)
+T1457	GO_CC 30248 30260	mitochondria
+#1457	AnnotatorNotes T1457	GO:0005739 (mitochondrion)
+T1458	GO_BP 30268 30281	metabolically
+#1458	AnnotatorNotes T1458	GO:0008152 (metabolic process)
+T1459	CL 30312 30317	cells
+#1459	AnnotatorNotes T1459	CL:0000000 (cell)
+T1460	GO_CC 30312 30317	cells
+#1460	AnnotatorNotes T1460	GO:0005623 (cell)
+T1461	CL 30332 30337	cells
+#1461	AnnotatorNotes T1461	CL:0000000 (cell)
+T1462	GO_CC 30332 30337	cells
+#1462	AnnotatorNotes T1462	GO:0005623 (cell)
+T1463	GO_MF 30345 30363	carbonic anhydrase
+#1463	AnnotatorNotes T1463	GO:0004089 (carbonate dehydratase activity)
+T1464	independent_continuant 30345 30363	carbonic anhydrase
+#1464	AnnotatorNotes T1464	independent_continuant
+T1465	CHEBI 30345 30353	carbonic
+#1465	AnnotatorNotes T1465	CHEBI:27594 (carbon)
+T1466	CHEBI 30375 30378	CO2
+#1466	AnnotatorNotes T1466	CHEBI:16526 (carbon dioxide)
+T1467	sub 30377 30378	2
+#1467	AnnotatorNotes T1467	sub (null)
+T1468	CHEBI 30382 30388	HCO3 -
+#1468	AnnotatorNotes T1468	CHEBI:17544 (hydrogencarbonate)
+T1469	sub 30385 30386	3
+#1469	AnnotatorNotes T1469	sub (null)
+T1470	sup 30387 30388	-
+#1470	AnnotatorNotes T1470	sup (null)
+T1471	GO_MF 30401 30409	catalase
+#1471	AnnotatorNotes T1471	GO:0004096 (catalase activity)
+T1472	independent_continuant 30401 30409	catalase
+#1472	AnnotatorNotes T1472	independent_continuant
+T1473	PR 30401 30409	catalase
+#1473	AnnotatorNotes T1473	PR:000005061 (catalase)
+T1474	CHEBI 30422 30435	free radicals
+#1474	AnnotatorNotes T1474	CHEBI:26519 (radicals)
+T1475	CHEBI 30464 30476	free radical
+#1475	AnnotatorNotes T1475	CHEBI:26519 (radicals)
+T1476	CL 30498 30503	cells
+#1476	AnnotatorNotes T1476	CL:0000000 (cell)
+T1477	GO_CC 30498 30503	cells
+#1477	AnnotatorNotes T1477	GO:0005623 (cell)
+T1478	GO_BP 30504 30512	generate
+#1478	AnnotatorNotes T1478	GO:0009058 (biosynthetic process)
+T1479	CHEBI 30513 30524	glutathione
+#1479	AnnotatorNotes T1479	CHEBI:16856 (glutathione)
+T1480	CHEBI 30529 30544	melanin pigment
+#1480	AnnotatorNotes T1480	CHEBI:25179 (melanins)
+T1481	CHEBI 30537 30544	pigment
+#1481	AnnotatorNotes T1481	CHEBI:26130 (pigment)
+T1482	EntrezGene 30585 30592	pendrin
+#1482	AnnotatorNotes T1482	EG:23985
+T1483	PR 30585 30592	pendrin
+#1483	AnnotatorNotes T1483	PR:000015039 (pendrin)
+T1484	GO_BP 30604 30611	secrete
+#1484	AnnotatorNotes T1484	GO:0046903 (secretion)
+T1485	CHEBI 30612 30618	HCO3 -
+#1485	AnnotatorNotes T1485	CHEBI:17544 (hydrogencarbonate)
+T1486	sub 30615 30616	3
+#1486	AnnotatorNotes T1486	sub (null)
+T1487	sup 30617 30618	-
+#1487	AnnotatorNotes T1487	sup (null)
+T1488	CHEBI 30665 30671	HCO3 -
+#1488	AnnotatorNotes T1488	CHEBI:17544 (hydrogencarbonate)
+T1489	sub 30668 30669	3
+#1489	AnnotatorNotes T1489	sub (null)
+T1490	sup 30670 30671	-
+#1490	AnnotatorNotes T1490	sup (null)
+T1491	GO_CC 30726 30739	extracellular
+#1491	AnnotatorNotes T1491	GO:0005576 (extracellular region)
+T1492	CHEBI 30767 30779	free radical
+#1492	AnnotatorNotes T1492	CHEBI:26519 (radicals)
+T1493	CHEBI 30823 30831	cysteine
+#1493	AnnotatorNotes T1493	CHEBI:15356 (cysteine)
+T1494	GO_BP 30850 30890	production of the protective glutathione
+#1494	AnnotatorNotes T1494	"production of .. glutathione" GO:0006750 (glutathione biosynthetic process)
+T1495	CHEBI 30879 30890	glutathione
+#1495	AnnotatorNotes T1495	CHEBI:16856 (glutathione)
+T1496	CHEBI 30936 30948	free radical
+#1496	AnnotatorNotes T1496	CHEBI:26519 (radicals)
+T1497	NCBITaxon 31001 31005	mice
+#1497	AnnotatorNotes T1497	NCBITaxon:10088 (Mus)
+T1498	EntrezGene 31014 31021	pendrin
+#1498	AnnotatorNotes T1498	EG:23985
+T1499	PR 31014 31021	pendrin
+#1499	AnnotatorNotes T1499	PR:000015039 (pendrin)
+T1500	CHEBI 31116 31128	free radical
+#1500	AnnotatorNotes T1500	CHEBI:26519 (radicals)
+T1501	GO_CC 31186 31195	cytosolic
+#1501	AnnotatorNotes T1501	GO:0005829 (cytosol)
+T1502	CHEBI 31219 31231	free radical
+#1502	AnnotatorNotes T1502	CHEBI:26519 (radicals)
+T1503	EntrezGene 31263 31269	KCNJ10
+#1503	AnnotatorNotes T1503	EG:16513
+T1504	PR 31263 31269	KCNJ10
+#1504	AnnotatorNotes T1504	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T1505	CHEBI 31270 31277	protein
+#1505	AnnotatorNotes T1505	CHEBI:36080 (proteins)
+T1506	GO_BP 31278 31288	expression
+#1506	AnnotatorNotes T1506	GO:0010467 (gene expression)
+T1507	CL 31312 31317	cells
+#1507	AnnotatorNotes T1507	CL:0000000 (cell)
+T1508	GO_CC 31312 31317	cells
+#1508	AnnotatorNotes T1508	GO:0005623 (cell)
+T1509	GO_BP 31332 31342	expression
+#1509	AnnotatorNotes T1509	GO:0010467 (gene expression)
+T1510	independent_continuant 31352 31363	K+ channels
+#1510	AnnotatorNotes T1510	independent_continuant
+T1511	GO_MF 31352 31363	K+ channels
+#1511	AnnotatorNotes T1511	GO:0005267 (potassium channel activity)
+T1512	CHEBI 31352 31354	K+
+#1512	AnnotatorNotes T1512	CHEBI:29103 (potassium(1+))
+T1513	sup 31353 31354	+
+#1513	AnnotatorNotes T1513	sup (null)
+T1514	GO_BP 31385 31395	controlled
+#1514	AnnotatorNotes T1514	GO:0065007 (biological regulation)
+T1515	GO_CC 31403 31412	cytosolic
+#1515	AnnotatorNotes T1515	GO:0005829 (cytosol)
+T1516	CHEBI 31420 31433	free radicals
+#1516	AnnotatorNotes T1516	CHEBI:26519 (radicals)
+T1517	GO_BP 31452 31461	metabolic
+#1517	AnnotatorNotes T1517	GO:0008152 (metabolic process)
+T1518	CL 31475 31479	cell
+#1518	AnnotatorNotes T1518	CL:0000000 (cell)
+T1519	GO_CC 31475 31479	cell
+#1519	AnnotatorNotes T1519	GO:0005623 (cell)
+T1520	GO_BP 31486 31497	Suppression
+#1520	AnnotatorNotes T1520	GO:0048519 (negative regulation of biological process)
+T1521	EntrezGene 31505 31522	KCNJ10 K+ channel
+#1521	AnnotatorNotes T1521	EG:3766
+T1522	PR 31505 31522	KCNJ10 K+ channel
+#1522	AnnotatorNotes T1522	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T1523	GO_MF 31512 31522	K+ channel
+#1523	AnnotatorNotes T1523	GO:0005267 (potassium channel activity)
+T1524	independent_continuant 31512 31522	K+ channel
+#1524	AnnotatorNotes T1524	independent_continuant
+T1525	CHEBI 31512 31514	K+
+#1525	AnnotatorNotes T1525	CHEBI:29103 (potassium(1+))
+T1526	sup 31513 31514	+
+#1526	AnnotatorNotes T1526	sup (null)
+T1527	CL 31546 31551	cells
+#1527	AnnotatorNotes T1527	CL:0000000 (cell)
+T1528	GO_CC 31546 31551	cells
+#1528	AnnotatorNotes T1528	GO:0005623 (cell)
+T1529	italic 31666 31673	Slc26a4
+#1529	AnnotatorNotes T1529	italic (null)
+T1530	PR 31666 31673	Slc26a4
+#1530	AnnotatorNotes T1530	PR:000015039 (pendrin)
+T1531	EntrezGene 31666 31673	Slc26a4
+#1531	AnnotatorNotes T1531	EG:23985
+T1532	sup 31673 31676	-/-
+#1532	AnnotatorNotes T1532	sup (null)
+T1533	NCBITaxon 31677 31681	mice
+#1533	AnnotatorNotes T1533	NCBITaxon:10088 (Mus)
+T1534	EntrezGene 31761 31767	KCNJ10
+#1534	AnnotatorNotes T1534	EG:16513
+T1535	PR 31761 31767	KCNJ10
+#1535	AnnotatorNotes T1535	PR:000001979 (ATP-sensitive inward rectifier potassium channel 10)
+T1536	EntrezGene 31786 31793	pendrin
+#1536	AnnotatorNotes T1536	EG:23985
+T1537	PR 31786 31793	pendrin
+#1537	AnnotatorNotes T1537	PR:000015039 (pendrin)
+T1538	GO_BP 31794 31804	expression
+#1538	AnnotatorNotes T1538	GO:0010467 (gene expression)
+T1539	CHEBI 31826 31829	Cys
+#1539	AnnotatorNotes T1539	CHEBI:15356 (cysteine)
+T1540	CHEBI 31831 31839	cysteine
+#1540	AnnotatorNotes T1540	CHEBI:15356 (cysteine)
+T1541	CHEBI 31841 31844	Glu
+#1541	AnnotatorNotes T1541	CHEBI:29987 (glutamate(2-))
+T1542	CHEBI 31841 31844	Glu
+#1542	AnnotatorNotes T1542	CHEBI:14321 (glutamate(1-))
+T1543	CHEBI 31846 31855	glutamate
+#1543	AnnotatorNotes T1543	CHEBI:29987 (glutamate(2-))
+T1544	CHEBI 31846 31855	glutamate
+#1544	AnnotatorNotes T1544	CHEBI:14321 (glutamate(1-))
+T1545	CHEBI 31857 31860	Gly
+#1545	AnnotatorNotes T1545	CHEBI:15428 (glycine)
+T1546	CHEBI 31862 31869	glycine
+#1546	AnnotatorNotes T1546	CHEBI:15428 (glycine)
+T1547	independent_continuant 31871 31873	CA
+#1547	AnnotatorNotes T1547	independent_continuant
+T1548	GO_MF 31871 31873	CA
+#1548	AnnotatorNotes T1548	GO:0004089 (carbonate dehydratase activity)
+T1549	independent_continuant 31875 31893	carbonic anhydrase
+#1549	AnnotatorNotes T1549	independent_continuant
+T1550	GO_MF 31875 31893	carbonic anhydrase
+#1550	AnnotatorNotes T1550	GO:0004089 (carbonate dehydratase activity)
+T1551	CHEBI 31875 31883	carbonic
+#1551	AnnotatorNotes T1551	CHEBI:27594 (carbon)
+T1552	GO_MF 31895 31898	GST
+#1552	AnnotatorNotes T1552	GO:0004364 (glutathione transferase activity)
+T1553	independent_continuant 31895 31898	GST
+#1553	AnnotatorNotes T1553	independent_continuant
+T1554	PR 31895 31898	GST
+#1554	AnnotatorNotes T1554	PR:000022850 (glutathione S-transferase)
+T1555	GO_MF 31900 31925	glutathione-S-transferase
+#1555	AnnotatorNotes T1555	GO:0004364 (glutathione transferase activity)
+T1556	PR 31900 31925	glutathione-S-transferase
+#1556	AnnotatorNotes T1556	PR:000022850 (glutathione S-transferase)
+T1557	independent_continuant 31900 31925	glutathione-S-transferase
+#1557	AnnotatorNotes T1557	independent_continuant
+T1558	CHEBI 31900 31911	glutathione
+#1558	AnnotatorNotes T1558	CHEBI:16856 (glutathione)
+T1559	CHEBI 31912 31913	S
+#1559	AnnotatorNotes T1559	CHEBI:26833 (sulfur)
+T1560	CHEBI 31927 31930	GSH
+#1560	AnnotatorNotes T1560	CHEBI:16856 (glutathione)
+T1561	CHEBI 31932 31943	glutathione
+#1561	AnnotatorNotes T1561	CHEBI:16856 (glutathione)
+T1562	CHEBI 32078 32087	molecular
+#1562	AnnotatorNotes T1562	CHEBI:36357 (polyatomic entities)
+T1563	GO_MF 32298 32300	RT
+#1563	AnnotatorNotes T1563	GO:0003964 (RNA-directed DNA polymerase activity)
+T1564	independent_continuant 32298 32300	RT
+#1564	AnnotatorNotes T1564	independent_continuant
+T1565	GO_BP 32298 32300	RT
+#1565	AnnotatorNotes T1565	GO:0006410 (transcription, RNA-dependent)
+T1566	CHEBI 32449 32451	K+
+#1566	AnnotatorNotes T1566	CHEBI:29103 (potassium(1+))
+T1567	sup 32450 32451	+
+#1567	AnnotatorNotes T1567	sup (null)
+T1568	CL 32523 32528	cells
+#1568	AnnotatorNotes T1568	CL:0000000 (cell)
+T1569	GO_CC 32523 32528	cells
+#1569	AnnotatorNotes T1569	GO:0005623 (cell)
+T1570	NCBITaxon 32565 32569	mice
+#1570	AnnotatorNotes T1570	NCBITaxon:10088 (Mus)
+T1571	PR 32578 32585	pendrin
+#1571	AnnotatorNotes T1571	PR:000015039 (pendrin)
+T1572	GO_CC 32595 32603	antibody
+#1572	AnnotatorNotes T1572	GO:0019814 (immunoglobulin complex)
+T1573	CHEBI 33015 33024	Molecular
+#1573	AnnotatorNotes T1573	CHEBI:36357 (polyatomic entities)

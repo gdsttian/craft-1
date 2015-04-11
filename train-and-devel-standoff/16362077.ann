@@ -1,0 +1,4208 @@
+T1	EntrezGene 16 41	Sam68 RNA Binding Protein
+#1	AnnotatorNotes T1	EG:20218
+T2	PR 16 41	Sam68 RNA Binding Protein
+#2	AnnotatorNotes T2	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T3	GO_MF 22 33	RNA Binding
+#3	AnnotatorNotes T3	GO:0003723 (RNA binding)
+T4	SO 22 25	RNA
+#4	AnnotatorNotes T4	SO:0000356 (RNA)
+T5	CHEBI 34 41	Protein
+#5	AnnotatorNotes T5	CHEBI:36080 (proteins)
+T6	NCBITaxon 51 55	Mice
+#6	AnnotatorNotes T6	NCBITaxon:10088 (Mus)
+T7	GO_BP 126 133	mitosis
+#7	AnnotatorNotes T7	GO:0007067 (mitosis)
+T8	PR 145 150	Sam68
+#8	AnnotatorNotes T8	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T9	GO_MF 165 176	RNA binding
+#9	AnnotatorNotes T9	GO:0003723 (RNA binding)
+T10	SO 165 168	RNA
+#10	AnnotatorNotes T10	SO:0000356 (RNA)
+T11	CHEBI 177 184	protein
+#11	AnnotatorNotes T11	CHEBI:36080 (proteins)
+T12	GO_BP 208 216	regulate
+#12	AnnotatorNotes T12	GO:0065007 (biological regulation)
+T13	GO_BP 236 250	RNA metabolism
+#13	AnnotatorNotes T13	GO:0016070 (RNA metabolic process)
+T14	SO 236 239	RNA
+#14	AnnotatorNotes T14	SO:0000356 (RNA)
+T15	GO_BP 325 335	generation
+#15	AnnotatorNotes T15	GO:0000003 (reproduction)
+T16	EntrezGene 339 344	Sam68
+#16	AnnotatorNotes T16	EG:20218
+T17	PR 339 344	Sam68
+#17	AnnotatorNotes T17	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T18	NCBITaxon 350 354	mice
+#18	AnnotatorNotes T18	NCBITaxon:10088 (Mus)
+T19	GO_BP 369 382	recombination
+#19	AnnotatorNotes T19	GO:0006310 (DNA recombination)
+T20	GO_BP 384 388	Aged
+#20	AnnotatorNotes T20	GO:0007568 (aging)
+T21	EntrezGene 389 394	Sam68
+#21	AnnotatorNotes T21	EG:20218
+T22	PR 389 394	Sam68
+#22	AnnotatorNotes T22	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T23	sup 394 397	−/−
+#23	AnnotatorNotes T23	sup (null)
+T24	NCBITaxon 398 402	mice
+#24	AnnotatorNotes T24	NCBITaxon:10088 (Mus)
+T25	SO 466 475	wild-type
+#25	AnnotatorNotes T25	SO:0000817 (wild_type)
+T26	EntrezGene 591 596	Sam68
+#26	AnnotatorNotes T26	EG:20218
+T27	PR 591 596	Sam68
+#27	AnnotatorNotes T27	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T28	sup 596 599	−/−
+#28	AnnotatorNotes T28	sup (null)
+T29	NCBITaxon 600 604	mice
+#29	AnnotatorNotes T29	NCBITaxon:10088 (Mus)
+T30	SO 662 671	wild-type
+#30	AnnotatorNotes T30	SO:0000817 (wild_type)
+T31	EntrezGene 675 680	Sam68
+#31	AnnotatorNotes T31	EG:20218
+T32	PR 675 680	Sam68
+#32	AnnotatorNotes T32	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T33	sup 680 683	−/−
+#33	AnnotatorNotes T33	sup (null)
+T34	NCBITaxon 684 688	mice
+#34	AnnotatorNotes T34	NCBITaxon:10088 (Mus)
+T35	EntrezGene 690 695	Sam68
+#35	AnnotatorNotes T35	EG:20218
+T36	PR 690 695	Sam68
+#36	AnnotatorNotes T36	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T37	sup 695 698	−/−
+#37	AnnotatorNotes T37	sup (null)
+T38	CL 711 724	stromal cells
+#38	AnnotatorNotes T38	CL:0000499 (stromal cell)
+T39	GO_CC 719 724	cells
+#39	AnnotatorNotes T39	GO:0005623 (cell)
+T40	GO_BP 731 746	differentiation
+#40	AnnotatorNotes T40	GO:0030154 (cell differentiation)
+T41	GO_BP 765 783	osteogenic pathway
+#41	AnnotatorNotes T41	GO:0001503 (ossification)
+T42	EntrezGene 812 817	Sam68
+#42	AnnotatorNotes T42	EG:20218
+T43	PR 812 817	Sam68
+#43	AnnotatorNotes T43	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T44	SO 830 837	hairpin
+#44	AnnotatorNotes T44	SO:0000313 (stem_loop)
+T45	SO 838 841	RNA
+#45	AnnotatorNotes T45	SO:0000356 (RNA)
+T46	CL 907 912	cells
+#46	AnnotatorNotes T46	CL:0000000 (cell)
+T47	GO_CC 907 912	cells
+#47	AnnotatorNotes T47	GO:0005623 (cell)
+T48	GO_BP 941 951	expression
+#48	AnnotatorNotes T48	GO:0010467 (gene expression)
+T49	CL 966 976	osteoblast
+#49	AnnotatorNotes T49	CL:0000062 (osteoblast)
+T50	EntrezGene 984 995	osteocalcin
+#50	AnnotatorNotes T50	EG:12096
+T51	GO_BP 1001 1016	differentiation
+#51	AnnotatorNotes T51	GO:0030154 (cell differentiation)
+T52	GO_BP 1021 1028	induced
+#52	AnnotatorNotes T52	GO:0031128 (induction)
+T53	PR 1034 1062	bone morphogenetic protein-2
+#53	AnnotatorNotes T53	PR:000000164 (BMP2)
+T54	GO_BP 1039 1052	morphogenetic
+#54	AnnotatorNotes T54	GO:0009653 (anatomical structure morphogenesis)
+T55	CHEBI 1053 1060	protein
+#55	AnnotatorNotes T55	CHEBI:36080 (proteins)
+T56	NCBITaxon 1076 1081	mouse
+#56	AnnotatorNotes T56	NCBITaxon:10088 (Mus)
+T57	CL 1089 1100	fibroblasts
+#57	AnnotatorNotes T57	CL:0000057 (fibroblast)
+T58	GO_BP 1101 1110	generated
+#58	AnnotatorNotes T58	GO:0032502 (developmental process)
+T59	EntrezGene 1116 1121	Sam68
+#59	AnnotatorNotes T59	EG:20218
+T60	PR 1116 1121	Sam68
+#60	AnnotatorNotes T60	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T61	sup 1121 1124	+/+
+#61	AnnotatorNotes T61	sup (null)
+T62	SO 1121 1122	+
+#62	AnnotatorNotes T62	SO:0000817 (wild_type)
+T63	SO 1123 1124	+
+#63	AnnotatorNotes T63	SO:0000817 (wild_type)
+T64	EntrezGene 1129 1134	Sam68
+#64	AnnotatorNotes T64	EG:20218
+T65	PR 1129 1134	Sam68
+#65	AnnotatorNotes T65	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T66	sup 1134 1137	−/−
+#66	AnnotatorNotes T66	sup (null)
+T67	GO_BP 1155 1162	induced
+#67	AnnotatorNotes T67	GO:0031128 (induction)
+T68	GO_BP 1166 1179	differentiate
+#68	AnnotatorNotes T68	GO:0030154 (cell differentiation)
+T69	CL 1185 1195	adipocytes
+#69	AnnotatorNotes T69	CL:0000136 (fat cell)
+T70	EntrezGene 1248 1253	Sam68
+#70	AnnotatorNotes T70	EG:20218
+T71	PR 1248 1253	Sam68
+#71	AnnotatorNotes T71	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T72	sup 1253 1256	−/−
+#72	AnnotatorNotes T72	sup (null)
+T73	NCBITaxon 1257 1262	mouse
+#73	AnnotatorNotes T73	NCBITaxon:10088 (Mus)
+T74	CL 1270 1281	fibroblasts
+#74	AnnotatorNotes T74	CL:0000057 (fibroblast)
+T75	CL 1305 1314	adipocyte
+#75	AnnotatorNotes T75	CL:0000136 (fat cell)
+T76	GO_BP 1315 1330	differentiation
+#76	AnnotatorNotes T76	GO:0030154 (cell differentiation)
+T77	EntrezGene 1406 1411	Sam68
+#77	AnnotatorNotes T77	EG:20218
+T78	PR 1406 1411	Sam68
+#78	AnnotatorNotes T78	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T79	sup 1411 1414	−/−
+#79	AnnotatorNotes T79	sup (null)
+T80	NCBITaxon 1415 1419	mice
+#80	AnnotatorNotes T80	NCBITaxon:10088 (Mus)
+T81	CL 1435 1445	adipocytes
+#81	AnnotatorNotes T81	CL:0000136 (fat cell)
+T82	SO 1478 1487	wild-type
+#82	AnnotatorNotes T82	SO:0000817 (wild_type)
+T83	EntrezGene 1577 1582	Sam68
+#83	AnnotatorNotes T83	EG:20218
+T84	PR 1577 1582	Sam68
+#84	AnnotatorNotes T84	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T85	CL 1610 1619	adipocyte
+#85	AnnotatorNotes T85	CL:0000136 (fat cell)
+T86	GO_BP 1620 1635	differentiation
+#86	AnnotatorNotes T86	GO:0030154 (cell differentiation)
+T87	CL 1664 1674	osteoblast
+#87	AnnotatorNotes T87	CL:0000062 (osteoblast)
+T88	GO_BP 1675 1690	differentiation
+#88	AnnotatorNotes T88	GO:0030154 (cell differentiation)
+T89	EntrezGene 1717 1722	Sam68
+#89	AnnotatorNotes T89	EG:20218
+T90	PR 1717 1722	Sam68
+#90	AnnotatorNotes T90	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T91	CL 1756 1772	mesenchymal cell
+#91	AnnotatorNotes T91	CL:0000134 (mesenchymal cell)
+T92	GO_BP 1768 1788	cell differentiation
+#92	AnnotatorNotes T92	GO:0030154 (cell differentiation)
+T93	GO_CC 1768 1772	cell
+#93	AnnotatorNotes T93	GO:0005623 (cell)
+T94	GO_BP 1805 1815	metabolism
+#94	AnnotatorNotes T94	GO:0008152 (metabolic process)
+T95	GO_BP 1820 1824	aged
+#95	AnnotatorNotes T95	GO:0007568 (aging)
+T96	NCBITaxon 1825 1829	mice
+#96	AnnotatorNotes T96	NCBITaxon:10088 (Mus)
+T97	NCBITaxon 2087 2093	humans
+#97	AnnotatorNotes T97	NCBITaxon:9606 (Homo sapiens)
+T98	GO_BP 2199 2208	generated
+#98	AnnotatorNotes T98	GO:0000003 (reproduction)
+T99	NCBITaxon 2209 2213	mice
+#99	AnnotatorNotes T99	NCBITaxon:10088 (Mus)
+T100	EntrezGene 2232 2257	Sam68 RNA binding protein
+#100	AnnotatorNotes T100	EG:20218
+T101	PR 2232 2257	Sam68 RNA binding protein
+#101	AnnotatorNotes T101	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T102	GO_MF 2238 2249	RNA binding
+#102	AnnotatorNotes T102	GO:0003723 (RNA binding)
+T103	SO 2238 2241	RNA
+#103	AnnotatorNotes T103	SO:0000356 (RNA)
+T104	CHEBI 2250 2257	protein
+#104	AnnotatorNotes T104	CHEBI:36080 (proteins)
+T105	CHEBI 2261 2268	protein
+#105	AnnotatorNotes T105	CHEBI:36080 (proteins)
+T106	NCBITaxon 2306 2310	mice
+#106	AnnotatorNotes T106	NCBITaxon:10088 (Mus)
+T107	GO_BP 2311 2318	develop
+#107	AnnotatorNotes T107	GO:0032502 (developmental process)
+T108	GO_BP 2371 2376	aging
+#108	AnnotatorNotes T108	GO:0007568 (aging)
+T109	CL 2452 2462	adipocytes
+#109	AnnotatorNotes T109	CL:0000136 (fat cell)
+T110	CL 2519 2530	osteoblasts
+#110	AnnotatorNotes T110	CL:0000062 (osteoblast)
+T111	EntrezGene 2571 2576	Sam68
+#111	AnnotatorNotes T111	EG:20218
+T112	PR 2571 2576	Sam68
+#112	AnnotatorNotes T112	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T113	GO_BP 2577 2586	regulates
+#113	AnnotatorNotes T113	GO:0065007 (biological regulation)
+T114	GO_BP 2591 2606	differentiation
+#114	AnnotatorNotes T114	GO:0030154 (cell differentiation)
+T115	CL 2662 2673	osteoblasts
+#115	AnnotatorNotes T115	CL:0000062 (osteoblast)
+T116	GO_BP 2690 2699	generated
+#116	AnnotatorNotes T116	GO:0032502 (developmental process)
+T117	GO_BP 2703 2708	aging
+#117	AnnotatorNotes T117	GO:0007568 (aging)
+T118	EntrezGene 2798 2803	Sam68
+#118	AnnotatorNotes T118	EG:20218
+T119	PR 2798 2803	Sam68
+#119	AnnotatorNotes T119	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T120	CL 2838 2847	stem cell
+#120	AnnotatorNotes T120	CL:0000034 (stem cell)
+T121	GO_CC 2843 2847	cell
+#121	AnnotatorNotes T121	GO:0005623 (cell)
+T122	GO_BP 2872 2882	metabolism
+#122	AnnotatorNotes T122	GO:0008152 (metabolic process)
+T123	EntrezGene 2902 2907	Sam68
+#123	AnnotatorNotes T123	EG:10657
+T124	PR 2902 2907	Sam68
+#124	AnnotatorNotes T124	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T125	GO_BP 3023 3043	skeletal development
+#125	AnnotatorNotes T125	GO:0001501 (skeletal development)
+T126	GO_BP 3049 3066	anabolic activity
+#126	AnnotatorNotes T126	GO:0009058 (biosynthetic process)
+T127	CL 3070 3081	osteoblasts
+#127	AnnotatorNotes T127	CL:0000062 (osteoblast)
+T128	GO_BP 3106 3124	catabolic activity
+#128	AnnotatorNotes T128	GO:0009056 (catabolic process)
+T129	CL 3128 3139	osteoclasts
+#129	AnnotatorNotes T129	CL:0000092 (osteoclast)
+T130	CL 3266 3277	osteoblasts
+#130	AnnotatorNotes T130	CL:0000062 (osteoblast)
+T131	CL 3282 3293	osteoclasts
+#131	AnnotatorNotes T131	CL:0000092 (osteoclast)
+T132	GO_BP 3305 3315	remodeling
+#132	AnnotatorNotes T132	GO:0048771 (tissue remodeling)
+T133	GO_BP 3339 3344	aging
+#133	AnnotatorNotes T133	GO:0007568 (aging)
+T134	CL 3390 3400	osteoclast
+#134	AnnotatorNotes T134	CL:0000092 (osteoclast)
+T135	CL 3406 3416	osteoblast
+#135	AnnotatorNotes T135	CL:0000062 (osteoblast)
+T136	GO_BP 3514 3525	development
+#136	AnnotatorNotes T136	GO:0032502 (developmental process)
+T137	GO_BP 3542 3547	aging
+#137	AnnotatorNotes T137	GO:0007568 (aging)
+T138	GO_BP 3668 3714	response of bone cells to circulating hormones
+#138	AnnotatorNotes T138	"response of .. cells to .. hormones" GO:0032870 (cellular response to hormone stimulus)
+T139	CL 3685 3690	cells
+#139	AnnotatorNotes T139	CL:0000000 (cell)
+T140	GO_CC 3685 3690	cells
+#140	AnnotatorNotes T140	GO:0005623 (cell)
+T141	CHEBI 3706 3714	hormones
+#141	AnnotatorNotes T141	CHEBI:24621 (hormone)
+T142	GO_MF 3706 3714	hormones
+#142	AnnotatorNotes T142	GO:0005179 (hormone activity)
+T143	independent_continuant 3706 3714	hormones
+#143	AnnotatorNotes T143	independent_continuant
+T144	GO_MF 3741 3755	growth factors
+#144	AnnotatorNotes T144	GO:0008083 (growth factor activity)
+T145	independent_continuant 3741 3755	growth factors
+#145	AnnotatorNotes T145	independent_continuant
+T146	GO_BP 3741 3747	growth
+#146	AnnotatorNotes T146	GO:0040007 (growth)
+T147	SO 3773 3780	genetic
+#147	AnnotatorNotes T147	SO:0000704 (gene)
+T148	GO_BP 3847 3855	regulate
+#148	AnnotatorNotes T148	GO:0065007 (biological regulation)
+T149	GO_BP 3856 3872	bone development
+#149	AnnotatorNotes T149	GO:0001503 (ossification)
+T150	GO_BP 3964 3979	bone resorption
+#150	AnnotatorNotes T150	GO:0045453 (bone resorption)
+T151	PR 4213 4232	parathyroid hormone
+#151	AnnotatorNotes T151	PR:000013429 (parathyroid hormone)
+T152	CHEBI 4225 4232	hormone
+#152	AnnotatorNotes T152	CHEBI:24621 (hormone)
+T153	independent_continuant 4225 4232	hormone
+#153	AnnotatorNotes T153	independent_continuant
+T154	GO_MF 4225 4232	hormone
+#154	AnnotatorNotes T154	GO:0005179 (hormone activity)
+T155	CHEBI 4233 4242	vitamin D
+#155	AnnotatorNotes T155	CHEBI:27300 (vitamin D)
+T156	CHEBI 4265 4272	hormone
+#156	AnnotatorNotes T156	CHEBI:24621 (hormone)
+T157	independent_continuant 4265 4272	hormone
+#157	AnnotatorNotes T157	independent_continuant
+T158	GO_MF 4265 4272	hormone
+#158	AnnotatorNotes T158	GO:0005179 (hormone activity)
+T159	PR 4293 4299	leptin
+#159	AnnotatorNotes T159	PR:000009758 (leptin)
+T160	GO_BP 4380 4394	cell apoptosis
+#160	AnnotatorNotes T160	GO:0006915 (apoptosis)
+T161	CL 4380 4384	cell
+#161	AnnotatorNotes T161	CL:0000000 (cell)
+T162	GO_CC 4380 4384	cell
+#162	AnnotatorNotes T162	GO:0005623 (cell)
+T163	GO_BP 4473 4510	response of bone marrow stromal cells
+#163	AnnotatorNotes T163	"response of .. cells" GO:0051716 (cellular response to stimulus)
+T164	CL 4497 4510	stromal cells
+#164	AnnotatorNotes T164	CL:0000499 (stromal cell)
+T165	GO_CC 4505 4510	cells
+#165	AnnotatorNotes T165	GO:0005623 (cell)
+T166	GO_BP 4549 4564	differentiation
+#166	AnnotatorNotes T166	GO:0030154 (cell differentiation)
+T167	CL 4574 4583	adipocyte
+#167	AnnotatorNotes T167	CL:0000136 (fat cell)
+T168	CL 4608 4618	osteoblast
+#168	AnnotatorNotes T168	CL:0000062 (osteoblast)
+T169	GO_BP 4634 4639	Aging
+#169	AnnotatorNotes T169	GO:0007568 (aging)
+T170	GO_BP 4707 4717	generation
+#170	AnnotatorNotes T170	GO:0032502 (developmental process)
+T171	CL 4721 4731	adipocytes
+#171	AnnotatorNotes T171	CL:0000136 (fat cell)
+T172	CL 4748 4759	osteoblasts
+#172	AnnotatorNotes T172	CL:0000062 (osteoblast)
+T173	CL 4766 4777	Osteoblasts
+#173	AnnotatorNotes T173	CL:0000062 (osteoblast)
+T174	CL 4782 4792	adipocytes
+#174	AnnotatorNotes T174	CL:0000136 (fat cell)
+T175	CL 4819 4845	mesenchymal precursor cell
+#175	AnnotatorNotes T175	"mesenchymal .. cell" CL:0000134 (mesenchymal cell)
+T176	GO_CC 4841 4845	cell
+#176	AnnotatorNotes T176	GO:0005623 (cell)
+T177	GO_BP 4891 4898	control
+#177	AnnotatorNotes T177	GO:0065007 (biological regulation)
+T178	GO_BP 4941 4956	differentiation
+#178	AnnotatorNotes T178	GO:0030154 (cell differentiation)
+T179	GO_BP 5000 5026	transcriptional regulatory
+#179	AnnotatorNotes T179	GO:0045449 (regulation of transcription)
+T180	GO_BP 5000 5015	transcriptional
+#180	AnnotatorNotes T180	GO:0006350 (transcription)
+T181	CHEBI 5027 5035	proteins
+#181	AnnotatorNotes T181	CHEBI:36080 (proteins)
+T182	GO_BP 5062 5085	cell fate determination
+#182	AnnotatorNotes T182	GO:0001709 (cell fate determination)
+T183	CL 5062 5066	cell
+#183	AnnotatorNotes T183	CL:0000000 (cell)
+T184	GO_CC 5062 5066	cell
+#184	AnnotatorNotes T184	GO:0005623 (cell)
+T185	CL 5101 5118	mesenchymal cells
+#185	AnnotatorNotes T185	CL:0000134 (mesenchymal cell)
+T186	GO_CC 5113 5118	cells
+#186	AnnotatorNotes T186	GO:0005623 (cell)
+T187	PR 5130 5174	peroxisome proliferator–activated receptor γ
+#187	AnnotatorNotes T187	PR:000013058 (peroxisome proliferator-activated receptor gamma)
+T188	GO_CC 5130 5140	peroxisome
+#188	AnnotatorNotes T188	GO:0005777 (peroxisome)
+T189	GO_MF 5164 5172	receptor
+#189	AnnotatorNotes T189	GO:0004872 (receptor activity)
+T190	independent_continuant 5164 5172	receptor
+#190	AnnotatorNotes T190	independent_continuant
+T191	PR 5176 5181	PPARγ
+#191	AnnotatorNotes T191	PR:000013058 (peroxisome proliferator-activated receptor gamma)
+T192	PR 5187 5191	KLF5
+#192	AnnotatorNotes T192	PR:000009365 (krueppel-like factor 5)
+T193	GO_MF 5213 5224	RNA binding
+#193	AnnotatorNotes T193	GO:0003723 (RNA binding)
+T194	SO 5213 5216	RNA
+#194	AnnotatorNotes T194	SO:0000356 (RNA)
+T195	CHEBI 5225 5233	proteins
+#195	AnnotatorNotes T195	CHEBI:36080 (proteins)
+T196	GO_MF 5267 5278	RNA binding
+#196	AnnotatorNotes T196	GO:0003723 (RNA binding)
+T197	SO 5267 5270	RNA
+#197	AnnotatorNotes T197	SO:0000356 (RNA)
+T198	CHEBI 5279 5287	proteins
+#198	AnnotatorNotes T198	CHEBI:36080 (proteins)
+T199	SO 5307 5312	known
+#199	AnnotatorNotes T199	SO:0000906 (independently_known)
+T200	GO_BP 5327 5351	cellular differentiation
+#200	AnnotatorNotes T200	GO:0030154 (cell differentiation)
+T201	CL 5327 5335	cellular
+#201	AnnotatorNotes T201	CL:0000000 (cell)
+T202	GO_CC 5327 5335	cellular
+#202	AnnotatorNotes T202	GO:0005623 (cell)
+T203	GO_BP 5366 5376	expression
+#203	AnnotatorNotes T203	GO:0010467 (gene expression)
+T204	SO 5395 5401	domain
+#204	AnnotatorNotes T204	SO:0000417 (polypeptide_domain)
+T205	CHEBI 5402 5410	proteins
+#205	AnnotatorNotes T205	CHEBI:36080 (proteins)
+T206	EntrezGene 5420 5424	FMRP
+#206	AnnotatorNotes T206	EG:2332
+T207	PR 5420 5424	FMRP
+#207	AnnotatorNotes T207	PR:000003389 (fragile X mental retardation 1 protein)
+T208	GO_CC 5501 5502	X
+#208	AnnotatorNotes T208	GO:0000805 (X chromosome)
+T209	NCBITaxon 5530 5536	humans
+#209	AnnotatorNotes T209	NCBITaxon:9606 (Homo sapiens)
+T210	italic 5564 5578	quaking viable
+#210	AnnotatorNotes T210	italic (null)
+T211	EntrezGene 5564 5571	quaking
+#211	AnnotatorNotes T211	EG:19317
+T212	NCBITaxon 5579 5583	mice
+#212	AnnotatorNotes T212	NCBITaxon:10088 (Mus)
+T213	EntrezGene 5608 5635	QUAKING RNA binding protein
+#213	AnnotatorNotes T213	EG:19317
+T214	PR 5608 5635	QUAKING RNA binding protein
+#214	AnnotatorNotes T214	PR:000013564 (protein quaking)
+T215	GO_MF 5616 5627	RNA binding
+#215	AnnotatorNotes T215	GO:0003723 (RNA binding)
+T216	SO 5616 5619	RNA
+#216	AnnotatorNotes T216	SO:0000356 (RNA)
+T217	CHEBI 5628 5635	protein
+#217	AnnotatorNotes T217	CHEBI:36080 (proteins)
+T218	CL 5639 5655	oligodendrocytes
+#218	AnnotatorNotes T218	CL:0000128 (oligodendrocyte)
+T219	GO_BP 5660 5671	myelination
+#219	AnnotatorNotes T219	GO:0042552 (myelination)
+T220	GO_BP 5698 5708	expression
+#220	AnnotatorNotes T220	GO:0010467 (gene expression)
+T221	PR 5716 5719	QKI
+#221	AnnotatorNotes T221	PR:000013564 (protein quaking)
+T222	SO 5724 5732	isoforms
+#222	AnnotatorNotes T222	SO:0001060 (sequence_variant)
+T223	GO_BP 5752 5796	formation of glial cells rather than neurons
+#223	AnnotatorNotes T223	"formation of .. neurons" GO:0048666 (neuron development)
+T224	GO_BP 5752 5776	formation of glial cells
+#224	AnnotatorNotes T224	GO:0021782 (glial cell development)
+T225	CL 5765 5776	glial cells
+#225	AnnotatorNotes T225	CL:0000125 (glial cell)
+T226	GO_CC 5771 5776	cells
+#226	AnnotatorNotes T226	GO:0005623 (cell)
+T227	CL 5789 5796	neurons
+#227	AnnotatorNotes T227	CL:0000540 (neuron)
+T228	GO_BP 5847 5870	cell fate determination
+#228	AnnotatorNotes T228	GO:0001709 (cell fate determination)
+T229	CL 5847 5851	cell
+#229	AnnotatorNotes T229	CL:0000000 (cell)
+T230	GO_CC 5847 5851	cell
+#230	AnnotatorNotes T230	GO:0005623 (cell)
+T231	EntrezGene 5889 5894	GLD-1
+#231	AnnotatorNotes T231	EG:172532
+T232	PR 5889 5894	GLD-1
+#232	AnnotatorNotes T232	PR:000013564 (protein quaking)
+T233	CHEBI 5895 5902	protein
+#233	AnnotatorNotes T233	CHEBI:36080 (proteins)
+T234	italic 5906 5928	Caenorhabditis elegans
+#234	AnnotatorNotes T234	italic (null)
+T235	taxonomic_rank 5906 5928	Caenorhabditis elegans
+#235	AnnotatorNotes T235	taxonomic_rank (null)
+T236	NCBITaxon 5906 5928	Caenorhabditis elegans
+#236	AnnotatorNotes T236	NCBITaxon:6239 (Caenorhabditis elegans)
+T237	CL 5956 5966	stem cells
+#237	AnnotatorNotes T237	CL:0000034 (stem cell)
+T238	GO_CC 5961 5966	cells
+#238	AnnotatorNotes T238	GO:0005623 (cell)
+T239	SO 5999 6005	domain
+#239	AnnotatorNotes T239	SO:0000417 (polypeptide_domain)
+T240	CHEBI 6006 6013	protein
+#240	AnnotatorNotes T240	CHEBI:36080 (proteins)
+T241	EntrezGene 6014 6017	HOW
+#241	AnnotatorNotes T241	EG:42596
+T242	PR 6014 6017	HOW
+#242	AnnotatorNotes T242	PR:000013564 (protein quaking)
+T243	italic 6021 6031	Drosophila
+#243	AnnotatorNotes T243	italic (null)
+T244	NCBITaxon 6021 6031	Drosophila
+#244	AnnotatorNotes T244	NCBITaxon:7215 (Drosophila)
+T245	taxonomic_rank 6021 6031	Drosophila
+#245	AnnotatorNotes T245	taxonomic_rank (null)
+T246	GO_BP 6048 6063	differentiation
+#246	AnnotatorNotes T246	GO:0030154 (cell differentiation)
+T247	NCBITaxon 6079 6084	flies
+#247	AnnotatorNotes T247	NCBITaxon:7147 (Diptera)
+T248	GO_BP 6146 6153	mitosis
+#248	AnnotatorNotes T248	GO:0007067 (mitosis)
+T249	PR 6165 6170	Sam68
+#249	AnnotatorNotes T249	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T250	SO 6209 6215	domain
+#250	AnnotatorNotes T250	SO:0000417 (polypeptide_domain)
+T251	GO_MF 6216 6227	RNA binding
+#251	AnnotatorNotes T251	GO:0003723 (RNA binding)
+T252	SO 6216 6219	RNA
+#252	AnnotatorNotes T252	SO:0000356 (RNA)
+T253	CHEBI 6228 6236	proteins
+#253	AnnotatorNotes T253	CHEBI:36080 (proteins)
+T254	PR 6298 6303	Sam68
+#254	AnnotatorNotes T254	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T255	SO 6337 6343	domain
+#255	AnnotatorNotes T255	SO:0000417 (polypeptide_domain)
+T256	CHEBI 6356 6363	protein
+#256	AnnotatorNotes T256	CHEBI:36080 (proteins)
+T257	independent_continuant 6379 6386	kinases
+#257	AnnotatorNotes T257	independent_continuant
+T258	GO_MF 6379 6386	kinases
+#258	AnnotatorNotes T258	GO:0016301 (kinase activity)
+T259	SO 6401 6406	known
+#259	AnnotatorNotes T259	SO:0000906 (independently_known)
+T260	independent_continuant 6424 6431	kinases
+#260	AnnotatorNotes T260	independent_continuant
+T261	GO_MF 6424 6431	kinases
+#261	AnnotatorNotes T261	GO:0016301 (kinase activity)
+T262	PR 6451 6470	breast tumor kinase
+#262	AnnotatorNotes T262	PR:000013434 (tyrosine-protein kinase 6)
+T263	GO_MF 6464 6470	kinase
+#263	AnnotatorNotes T263	GO:0016301 (kinase activity)
+T264	independent_continuant 6464 6470	kinase
+#264	AnnotatorNotes T264	independent_continuant
+T265	PR 6477 6482	Sam68
+#265	AnnotatorNotes T265	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T266	GO_BP 6516 6543	export of unspliced HIV RNA
+#266	AnnotatorNotes T266	"export of .. RNA" GO:0006405 (RNA export from nucleus)
+T267	NCBITaxon 6536 6539	HIV
+#267	AnnotatorNotes T267	NCBITaxon:11709 (Human immunodeficiency virus 2)
+T268	NCBITaxon 6536 6539	HIV
+#268	AnnotatorNotes T268	NCBITaxon:12721 (Human immunodeficiency virus)
+T269	NCBITaxon 6536 6539	HIV
+#269	AnnotatorNotes T269	NCBITaxon:57667 (Simian-Human immunodeficiency virus)
+T270	SO 6540 6543	RNA
+#270	AnnotatorNotes T270	SO:0000356 (RNA)
+T271	GO_BP 6556 6564	regulate
+#271	AnnotatorNotes T271	GO:0065007 (biological regulation)
+T272	GO_BP 6565 6584	pre-mRNA processing
+#272	AnnotatorNotes T272	GO:0006397 (mRNA processing)
+T273	SO 6565 6573	pre-mRNA
+#273	AnnotatorNotes T273	SO:0000932 (pre_edited_mRNA)
+T274	CHEBI 6569 6573	mRNA
+#274	AnnotatorNotes T274	CHEBI:33699 (messenger RNA)
+T275	SO 6569 6573	mRNA
+#275	AnnotatorNotes T275	SO:0000234 (mRNA)
+T276	GO_BP 6627 6637	generation
+#276	AnnotatorNotes T276	GO:0000003 (reproduction)
+T277	EntrezGene 6641 6646	Sam68
+#277	AnnotatorNotes T277	EG:20218
+T278	PR 6641 6646	Sam68
+#278	AnnotatorNotes T278	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T279	sup 6646 6649	−/−
+#279	AnnotatorNotes T279	sup (null)
+T280	NCBITaxon 6650 6654	mice
+#280	AnnotatorNotes T280	NCBITaxon:10088 (Mus)
+T281	EntrezGene 6735 6740	Sam68
+#281	AnnotatorNotes T281	EG:20218
+T282	PR 6735 6740	Sam68
+#282	AnnotatorNotes T282	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T283	NCBITaxon 6788 6792	mice
+#283	AnnotatorNotes T283	NCBITaxon:10088 (Mus)
+T284	EntrezGene 6807 6812	Sam68
+#284	AnnotatorNotes T284	EG:20218
+T285	PR 6807 6812	Sam68
+#285	AnnotatorNotes T285	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T286	SO 6848 6857	wild-type
+#286	AnnotatorNotes T286	SO:0000817 (wild_type)
+T287	EntrezGene 6896 6901	Sam68
+#287	AnnotatorNotes T287	EG:20218
+T288	PR 6896 6901	Sam68
+#288	AnnotatorNotes T288	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T289	GO_BP 6902 6911	regulates
+#289	AnnotatorNotes T289	GO:0065007 (biological regulation)
+T290	GO_BP 6916 6960	differentiation of bone marrow stromal cells
+#290	AnnotatorNotes T290	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T291	CL 6947 6960	stromal cells
+#291	AnnotatorNotes T291	CL:0000499 (stromal cell)
+T292	GO_CC 6955 6960	cells
+#292	AnnotatorNotes T292	GO:0005623 (cell)
+T293	CL 6977 6982	cells
+#293	AnnotatorNotes T293	CL:0000000 (cell)
+T294	GO_CC 6977 6982	cells
+#294	AnnotatorNotes T294	GO:0005623 (cell)
+T295	EntrezGene 6997 7002	Sam68
+#295	AnnotatorNotes T295	EG:20218
+T296	PR 6997 7002	Sam68
+#296	AnnotatorNotes T296	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T297	sup 7002 7005	−/−
+#297	AnnotatorNotes T297	sup (null)
+T298	NCBITaxon 7006 7013	animals
+#298	AnnotatorNotes T298	NCBITaxon:33208 (Metazoa)
+T299	GO_BP 7018 7026	enhanced
+#299	AnnotatorNotes T299	GO:0048518 (positive regulation of biological process)
+T300	GO_BP 7027 7046	osteogenic activity
+#300	AnnotatorNotes T300	GO:0001503 (ossification)
+T301	SO 7107 7116	wild-type
+#301	AnnotatorNotes T301	SO:0000817 (wild_type)
+T302	EntrezGene 7143 7148	Sam68
+#302	AnnotatorNotes T302	EG:20218
+T303	PR 7143 7148	Sam68
+#303	AnnotatorNotes T303	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T304	sup 7148 7151	−/−
+#304	AnnotatorNotes T304	sup (null)
+T305	NCBITaxon 7152 7157	mouse
+#305	AnnotatorNotes T305	NCBITaxon:10088 (Mus)
+T306	CL 7165 7176	fibroblasts
+#306	AnnotatorNotes T306	CL:0000057 (fibroblast)
+T307	GO_BP 7219 7232	differentiate
+#307	AnnotatorNotes T307	GO:0030154 (cell differentiation)
+T308	CL 7238 7248	adipocytes
+#308	AnnotatorNotes T308	CL:0000136 (fat cell)
+T309	EntrezGene 7266 7271	Sam68
+#309	AnnotatorNotes T309	EG:20218
+T310	PR 7266 7271	Sam68
+#310	AnnotatorNotes T310	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T311	CL 7305 7321	mesenchymal cell
+#311	AnnotatorNotes T311	CL:0000134 (mesenchymal cell)
+T312	GO_BP 7317 7337	cell differentiation
+#312	AnnotatorNotes T312	GO:0030154 (cell differentiation)
+T313	GO_CC 7317 7321	cell
+#313	AnnotatorNotes T313	GO:0005623 (cell)
+T314	NCBITaxon 7377 7383	animal
+#314	AnnotatorNotes T314	NCBITaxon:33208 (Metazoa)
+T315	GO_BP 7404 7414	metabolism
+#315	AnnotatorNotes T315	GO:0008152 (metabolic process)
+T316	GO_BP 7416 7428	regeneration
+#316	AnnotatorNotes T316	GO:0031099 (regeneration)
+T317	GO_BP 7448 7453	aging
+#317	AnnotatorNotes T317	GO:0007568 (aging)
+T318	EntrezGene 7465 7470	Sam68
+#318	AnnotatorNotes T318	EG:20218
+T319	PR 7465 7470	Sam68
+#319	AnnotatorNotes T319	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T320	GO_BP 7474 7483	Expressed
+#320	AnnotatorNotes T320	GO:0010467 (gene expression)
+T321	GO_BP 7491 7501	Developing
+#321	AnnotatorNotes T321	GO:0032502 (developmental process)
+T322	NCBITaxon 7524 7528	Mice
+#322	AnnotatorNotes T322	NCBITaxon:10088 (Mus)
+T323	PR 7534 7539	Sam68
+#323	AnnotatorNotes T323	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T324	CHEBI 7540 7544	mRNA
+#324	AnnotatorNotes T324	CHEBI:33699 (messenger RNA)
+T325	SO 7540 7544	mRNA
+#325	AnnotatorNotes T325	SO:0000234 (mRNA)
+T326	GO_BP 7567 7576	expressed
+#326	AnnotatorNotes T326	GO:0010467 (gene expression)
+T327	CHEBI 7606 7613	protein
+#327	AnnotatorNotes T327	CHEBI:36080 (proteins)
+T328	GO_BP 7614 7624	expression
+#328	AnnotatorNotes T328	GO:0010467 (gene expression)
+T329	SO 7686 7695	wild-type
+#329	AnnotatorNotes T329	SO:0000817 (wild_type)
+T330	NCBITaxon 7722 7726	mice
+#330	AnnotatorNotes T330	NCBITaxon:10088 (Mus)
+T331	EntrezGene 7783 7788	Sam68
+#331	AnnotatorNotes T331	EG:20218
+T332	PR 7783 7788	Sam68
+#332	AnnotatorNotes T332	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T333	GO_CC 7789 7797	antibody
+#333	AnnotatorNotes T333	GO:0019814 (immunoglobulin complex)
+T334	GO_BP 7799 7805	raised
+#334	AnnotatorNotes T334	GO:0009058 (biosynthetic process)
+T335	NCBITaxon 7809 7816	rabbits
+#335	AnnotatorNotes T335	NCBITaxon:9986 (Oryctolagus cuniculus)
+T336	SO 7839 7846	peptide
+#336	AnnotatorNotes T336	SO:0001407 (peptidyl)
+T337	CHEBI 7867 7878	amino acids
+#337	AnnotatorNotes T337	CHEBI:33708 (amino-acid residue)
+T338	SO 7867 7878	amino acids
+#338	AnnotatorNotes T338	SO:0001237 (amino_acid)
+T339	CHEBI 7867 7872	amino
+#339	AnnotatorNotes T339	CHEBI:46882 (amino group)
+T340	CHEBI 7867 7872	amino
+#340	AnnotatorNotes T340	CHEBI:32952 (amines)
+T341	CHEBI 7873 7878	acids
+#341	AnnotatorNotes T341	CHEBI:37527 (acid)
+T342	EntrezGene 7897 7908	mouse Sam68
+#342	AnnotatorNotes T342	EG:20218
+T343	NCBITaxon 7897 7902	mouse
+#343	AnnotatorNotes T343	NCBITaxon:10088 (Mus)
+T344	PR 7903 7908	Sam68
+#344	AnnotatorNotes T344	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T345	CHEBI 7909 7916	protein
+#345	AnnotatorNotes T345	CHEBI:36080 (proteins)
+T346	EntrezGene 7923 7928	Sam68
+#346	AnnotatorNotes T346	EG:20218
+T347	PR 7923 7928	Sam68
+#347	AnnotatorNotes T347	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T348	GO_BP 7995 8005	developing
+#348	AnnotatorNotes T348	GO:0032502 (developmental process)
+T349	SO 8006 8015	wild-type
+#349	AnnotatorNotes T349	SO:0000817 (wild_type)
+T350	NCBITaxon 8016 8020	mice
+#350	AnnotatorNotes T350	NCBITaxon:10088 (Mus)
+T351	GO_CC 8085 8092	nucleus
+#351	AnnotatorNotes T351	GO:0005634 (nucleus)
+T352	CL 8096 8101	cells
+#352	AnnotatorNotes T352	CL:0000000 (cell)
+T353	GO_CC 8096 8101	cells
+#353	AnnotatorNotes T353	GO:0005623 (cell)
+T354	GO_BP 8109 8119	developing
+#354	AnnotatorNotes T354	GO:0032502 (developmental process)
+T355	CL 8181 8193	chondrocytes
+#355	AnnotatorNotes T355	CL:0000138 (chondrocyte)
+T356	GO_CC 8424 8431	Nuclear
+#356	AnnotatorNotes T356	GO:0005634 (nucleus)
+T357	GO_BP 8457 8470	proliferating
+#357	AnnotatorNotes T357	GO:0008283 (cell proliferation)
+T358	CL 8471 8483	chondrocytes
+#358	AnnotatorNotes T358	CL:0000138 (chondrocyte)
+T359	CL 8488 8513	hypertrophic chondrocytes
+#359	AnnotatorNotes T359	CL:0000743 (hypertrophic chondrocyte)
+T360	CL 8539 8550	osteoblasts
+#360	AnnotatorNotes T360	CL:0000062 (osteoblast)
+T361	CL 8581 8592	osteoclasts
+#361	AnnotatorNotes T361	CL:0000092 (osteoclast)
+T362	SO 8711 8718	peptide
+#362	AnnotatorNotes T362	SO:0001407 (peptidyl)
+T363	EntrezGene 8796 8801	Sam68
+#363	AnnotatorNotes T363	EG:20218
+T364	PR 8796 8801	Sam68
+#364	AnnotatorNotes T364	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T365	CHEBI 8802 8809	protein
+#365	AnnotatorNotes T365	CHEBI:36080 (proteins)
+T366	GO_BP 8825 8834	expressed
+#366	AnnotatorNotes T366	GO:0010467 (gene expression)
+T367	GO_BP 8842 8852	developing
+#367	AnnotatorNotes T367	GO:0032502 (developmental process)
+T368	NCBITaxon 8853 8858	mouse
+#368	AnnotatorNotes T368	NCBITaxon:10088 (Mus)
+T369	GO_BP 8894 8904	expression
+#369	AnnotatorNotes T369	GO:0010467 (gene expression)
+T370	EntrezGene 8929 8934	Sam68
+#370	AnnotatorNotes T370	EG:20218
+T371	PR 8929 8934	Sam68
+#371	AnnotatorNotes T371	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T372	NCBITaxon 8956 8961	Mouse
+#372	AnnotatorNotes T372	NCBITaxon:10088 (Mus)
+T373	GO_BP 8962 8973	Development
+#373	AnnotatorNotes T373	GO:0032502 (developmental process)
+T374	EntrezGene 9009 9014	Sam68
+#374	AnnotatorNotes T374	EG:20218
+T375	PR 9009 9014	Sam68
+#375	AnnotatorNotes T375	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T376	GO_BP 9019 9028	generated
+#376	AnnotatorNotes T376	GO:0000003 (reproduction)
+T377	EntrezGene 9029 9034	Sam68
+#377	AnnotatorNotes T377	EG:20218
+T378	PR 9029 9034	Sam68
+#378	AnnotatorNotes T378	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T379	NCBITaxon 9045 9049	mice
+#379	AnnotatorNotes T379	NCBITaxon:10088 (Mus)
+T380	SO 9076 9081	exons
+#380	AnnotatorNotes T380	SO:0000147 (exon)
+T381	italic 9097 9102	sam68
+#381	AnnotatorNotes T381	italic (null)
+T382	PR 9097 9102	sam68
+#382	AnnotatorNotes T382	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T383	EntrezGene 9097 9102	sam68
+#383	AnnotatorNotes T383	EG:20218
+T384	SO 9103 9107	gene
+#384	AnnotatorNotes T384	SO:0000704 (gene)
+T385	SO 9137 9143	region
+#385	AnnotatorNotes T385	SO:0000001 (region)
+T386	GO_MF 9159 9170	RNA binding
+#386	AnnotatorNotes T386	GO:0003723 (RNA binding)
+T387	SO 9159 9162	RNA
+#387	AnnotatorNotes T387	SO:0000356 (RNA)
+T388	SO 9171 9177	domain
+#388	AnnotatorNotes T388	SO:0000417 (polypeptide_domain)
+T389	SO 9221 9227	allele
+#389	AnnotatorNotes T389	SO:0001023 (allele)
+T390	SO 9293 9304	genomic DNA
+#390	AnnotatorNotes T390	SO:0000991 (genomic_DNA)
+T391	SO 9293 9300	genomic
+#391	AnnotatorNotes T391	SO:0001026 (genome)
+T392	EntrezGene 9325 9330	Sam68
+#392	AnnotatorNotes T392	EG:20218
+T393	PR 9325 9330	Sam68
+#393	AnnotatorNotes T393	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T394	SO 9331 9342	transcripts
+#394	AnnotatorNotes T394	SO:0000673 (transcript)
+T395	SO 9354 9359	exons
+#395	AnnotatorNotes T395	SO:0000147 (exon)
+T396	GO_MF 9395 9397	RT
+#396	AnnotatorNotes T396	GO:0003964 (RNA-directed DNA polymerase activity)
+T397	GO_BP 9395 9397	RT
+#397	AnnotatorNotes T397	GO:0006410 (transcription, RNA-dependent)
+T398	independent_continuant 9395 9397	RT
+#398	AnnotatorNotes T398	independent_continuant
+T399	EntrezGene 9420 9425	Sam68
+#399	AnnotatorNotes T399	EG:20218
+T400	PR 9420 9425	Sam68
+#400	AnnotatorNotes T400	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T401	sup 9425 9428	−/−
+#401	AnnotatorNotes T401	sup (null)
+T402	NCBITaxon 9429 9433	mice
+#402	AnnotatorNotes T402	NCBITaxon:10088 (Mus)
+T403	EntrezGene 9449 9454	Sam68
+#403	AnnotatorNotes T403	EG:20218
+T404	PR 9449 9454	Sam68
+#404	AnnotatorNotes T404	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T405	CHEBI 9455 9462	protein
+#405	AnnotatorNotes T405	CHEBI:36080 (proteins)
+T406	EntrezGene 9506 9511	Sam68
+#406	AnnotatorNotes T406	EG:20218
+T407	PR 9506 9511	Sam68
+#407	AnnotatorNotes T407	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T408	GO_CC 9527 9537	antibodies
+#408	AnnotatorNotes T408	GO:0019814 (immunoglobulin complex)
+T409	NCBITaxon 9556 9562	rabbit
+#409	AnnotatorNotes T409	NCBITaxon:9986 (Oryctolagus cuniculus)
+T410	EntrezGene 9577 9582	Sam68
+#410	AnnotatorNotes T410	EG:20218
+T411	PR 9577 9582	Sam68
+#411	AnnotatorNotes T411	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T412	SO 9604 9611	peptide
+#412	AnnotatorNotes T412	SO:0001407 (peptidyl)
+T413	NCBITaxon 9637 9643	rabbit
+#413	AnnotatorNotes T413	NCBITaxon:9986 (Oryctolagus cuniculus)
+T414	PR 9649 9654	Sam68
+#414	AnnotatorNotes T414	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T415	GO_CC 9655 9663	antibody
+#415	AnnotatorNotes T415	GO:0019814 (immunoglobulin complex)
+T416	GO_BP 9673 9679	raised
+#416	AnnotatorNotes T416	GO:0009058 (biosynthetic process)
+T417	SO 9692 9702	C-terminal
+#417	AnnotatorNotes T417	SO:0100015 (c_terminal_region)
+T418	CHEBI 9692 9693	C
+#418	AnnotatorNotes T418	CHEBI:18245 (carboxylato group)
+T419	CHEBI 9692 9693	C
+#419	AnnotatorNotes T419	CHEBI:46883 (carboxy group)
+T420	CHEBI 9706 9717	amino acids
+#420	AnnotatorNotes T420	CHEBI:33708 (amino-acid residue)
+T421	SO 9706 9717	amino acids
+#421	AnnotatorNotes T421	SO:0001237 (amino_acid)
+T422	CHEBI 9706 9711	amino
+#422	AnnotatorNotes T422	CHEBI:32952 (amines)
+T423	CHEBI 9706 9711	amino
+#423	AnnotatorNotes T423	CHEBI:46882 (amino group)
+T424	CHEBI 9712 9717	acids
+#424	AnnotatorNotes T424	CHEBI:37527 (acid)
+T425	PR 9721 9726	Sam68
+#425	AnnotatorNotes T425	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T426	GO_BP 9758 9768	generation
+#426	AnnotatorNotes T426	GO:0000003 (reproduction)
+T427	NCBITaxon 9774 9779	mouse
+#427	AnnotatorNotes T427	NCBITaxon:10088 (Mus)
+T428	EntrezGene 9793 9798	Sam68
+#428	AnnotatorNotes T428	EG:20218
+T429	PR 9793 9798	Sam68
+#429	AnnotatorNotes T429	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T430	SO 9804 9813	genotypes
+#430	AnnotatorNotes T430	SO:0001027 (genotype)
+T431	EntrezGene 9963 9968	Sam68
+#431	AnnotatorNotes T431	EG:20218
+T432	PR 9963 9968	Sam68
+#432	AnnotatorNotes T432	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T433	sup 9968 9971	−/−
+#433	AnnotatorNotes T433	sup (null)
+T434	GO_BP 9977 9981	died
+#434	AnnotatorNotes T434	GO:0016265 (death)
+T435	GO_BP 9985 9990	birth
+#435	AnnotatorNotes T435	GO:0007567 (parturition)
+T436	EntrezGene 10010 10015	Sam68
+#436	AnnotatorNotes T436	EG:20218
+T437	PR 10010 10015	Sam68
+#437	AnnotatorNotes T437	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T438	sup 10015 10018	+/-
+#438	AnnotatorNotes T438	sup (null)
+T439	SO 10015 10016	+
+#439	AnnotatorNotes T439	SO:0000817 (wild_type)
+T440	NCBITaxon 10019 10023	mice
+#440	AnnotatorNotes T440	NCBITaxon:10088 (Mus)
+T441	EntrezGene 10055 10060	Sam68
+#441	AnnotatorNotes T441	EG:20218
+T442	PR 10055 10060	Sam68
+#442	AnnotatorNotes T442	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T443	sup 10060 10063	−/−
+#443	AnnotatorNotes T443	sup (null)
+T444	PR 10155 10160	Sam68
+#444	AnnotatorNotes T444	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T445	CHEBI 10161 10165	mRNA
+#445	AnnotatorNotes T445	CHEBI:33699 (messenger RNA)
+T446	SO 10161 10165	mRNA
+#446	AnnotatorNotes T446	SO:0000234 (mRNA)
+T447	GO_BP 10176 10185	expressed
+#447	AnnotatorNotes T447	GO:0010467 (gene expression)
+T448	GO_BP 10190 10204	phosphorylated
+#448	AnnotatorNotes T448	GO:0016310 (phosphorylation)
+T449	GO_BP 10208 10215	mitosis
+#449	AnnotatorNotes T449	GO:0007067 (mitosis)
+T450	EntrezGene 10229 10234	Sam68
+#450	AnnotatorNotes T450	EG:20218
+T451	PR 10229 10234	Sam68
+#451	AnnotatorNotes T451	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T452	sup 10234 10237	−/−
+#452	AnnotatorNotes T452	sup (null)
+T453	NCBITaxon 10238 10242	mice
+#453	AnnotatorNotes T453	NCBITaxon:10088 (Mus)
+T454	GO_BP 10251 10258	develop
+#454	AnnotatorNotes T454	GO:0032502 (developmental process)
+T455	EntrezGene 10318 10323	Sam68
+#455	AnnotatorNotes T455	EG:20218
+T456	PR 10318 10323	Sam68
+#456	AnnotatorNotes T456	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T457	sup 10323 10326	−/−
+#457	AnnotatorNotes T457	sup (null)
+T458	NCBITaxon 10327 10331	mice
+#458	AnnotatorNotes T458	NCBITaxon:10088 (Mus)
+T459	GO_BP 10362 10370	breeding
+#459	AnnotatorNotes T459	GO:0000003 (reproduction)
+T460	EntrezGene 10458 10463	Sam68
+#460	AnnotatorNotes T460	EG:20218
+T461	PR 10458 10463	Sam68
+#461	AnnotatorNotes T461	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T462	NCBITaxon 10484 10488	Mice
+#462	AnnotatorNotes T462	NCBITaxon:10088 (Mus)
+T463	NCBITaxon 10526 10533	animals
+#463	AnnotatorNotes T463	NCBITaxon:33208 (Metazoa)
+T464	GO_BP 10557 10567	metabolism
+#464	AnnotatorNotes T464	GO:0008152 (metabolic process)
+T465	PR 10592 10597	Sam68
+#465	AnnotatorNotes T465	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T466	EntrezGene 10647 10652	Sam68
+#466	AnnotatorNotes T466	EG:20218
+T467	PR 10647 10652	Sam68
+#467	AnnotatorNotes T467	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T468	NCBITaxon 10653 10657	mice
+#468	AnnotatorNotes T468	NCBITaxon:10088 (Mus)
+T469	EntrezGene 10697 10702	Sam68
+#469	AnnotatorNotes T469	EG:20218
+T470	PR 10697 10702	Sam68
+#470	AnnotatorNotes T470	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T471	sup 10702 10705	+/+
+#471	AnnotatorNotes T471	sup (null)
+T472	SO 10702 10703	+
+#472	AnnotatorNotes T472	SO:0000817 (wild_type)
+T473	SO 10704 10705	+
+#473	AnnotatorNotes T473	SO:0000817 (wild_type)
+T474	EntrezGene 10710 10715	Sam68
+#474	AnnotatorNotes T474	EG:20218
+T475	PR 10710 10715	Sam68
+#475	AnnotatorNotes T475	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T476	sup 10715 10718	−/−
+#476	AnnotatorNotes T476	sup (null)
+T477	NCBITaxon 10719 10723	mice
+#477	AnnotatorNotes T477	NCBITaxon:10088 (Mus)
+T478	NCBITaxon 10929 10933	mice
+#478	AnnotatorNotes T478	NCBITaxon:10088 (Mus)
+T479	NCBITaxon 10965 10969	mice
+#479	AnnotatorNotes T479	NCBITaxon:10088 (Mus)
+T480	EntrezGene 11038 11043	Sam68
+#480	AnnotatorNotes T480	EG:20218
+T481	PR 11038 11043	Sam68
+#481	AnnotatorNotes T481	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T482	sup 11043 11046	−/−
+#482	AnnotatorNotes T482	sup (null)
+T483	NCBITaxon 11047 11051	mice
+#483	AnnotatorNotes T483	NCBITaxon:10088 (Mus)
+T484	EntrezGene 11070 11075	Sam68
+#484	AnnotatorNotes T484	EG:20218
+T485	PR 11070 11075	Sam68
+#485	AnnotatorNotes T485	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T486	sup 11075 11078	+/+
+#486	AnnotatorNotes T486	sup (null)
+T487	SO 11075 11076	+
+#487	AnnotatorNotes T487	SO:0000817 (wild_type)
+T488	SO 11077 11078	+
+#488	AnnotatorNotes T488	SO:0000817 (wild_type)
+T489	NCBITaxon 11079 11083	mice
+#489	AnnotatorNotes T489	NCBITaxon:10088 (Mus)
+T490	EntrezGene 11477 11482	Sam68
+#490	AnnotatorNotes T490	EG:20218
+T491	PR 11477 11482	Sam68
+#491	AnnotatorNotes T491	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T492	sup 11482 11485	+/+
+#492	AnnotatorNotes T492	sup (null)
+T493	SO 11482 11483	+
+#493	AnnotatorNotes T493	SO:0000817 (wild_type)
+T494	SO 11484 11485	+
+#494	AnnotatorNotes T494	SO:0000817 (wild_type)
+T495	NCBITaxon 11486 11490	mice
+#495	AnnotatorNotes T495	NCBITaxon:10088 (Mus)
+T496	NCBITaxon 11517 11521	mice
+#496	AnnotatorNotes T496	NCBITaxon:10088 (Mus)
+T497	SO 11532 11540	genotype
+#497	AnnotatorNotes T497	SO:0001027 (genotype)
+T498	EntrezGene 11558 11563	Sam68
+#498	AnnotatorNotes T498	EG:20218
+T499	PR 11558 11563	Sam68
+#499	AnnotatorNotes T499	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T500	sup 11563 11566	−/−
+#500	AnnotatorNotes T500	sup (null)
+T501	NCBITaxon 11567 11571	mice
+#501	AnnotatorNotes T501	NCBITaxon:10088 (Mus)
+T502	EntrezGene 11697 11702	Sam68
+#502	AnnotatorNotes T502	EG:20218
+T503	PR 11697 11702	Sam68
+#503	AnnotatorNotes T503	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T504	sup 11702 11705	+/+
+#504	AnnotatorNotes T504	sup (null)
+T505	SO 11702 11703	+
+#505	AnnotatorNotes T505	SO:0000817 (wild_type)
+T506	SO 11704 11705	+
+#506	AnnotatorNotes T506	SO:0000817 (wild_type)
+T507	NCBITaxon 11706 11710	mice
+#507	AnnotatorNotes T507	NCBITaxon:10088 (Mus)
+T508	EntrezGene 11726 11731	Sam68
+#508	AnnotatorNotes T508	EG:20218
+T509	PR 11726 11731	Sam68
+#509	AnnotatorNotes T509	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T510	sup 11731 11734	−/−
+#510	AnnotatorNotes T510	sup (null)
+T511	NCBITaxon 11735 11739	mice
+#511	AnnotatorNotes T511	NCBITaxon:10088 (Mus)
+T512	CHEBI 11776 11783	mineral
+#512	AnnotatorNotes T512	CHEBI:46662 (minerals)
+T513	NCBITaxon 11831 11836	mouse
+#513	AnnotatorNotes T513	NCBITaxon:10088 (Mus)
+T514	EntrezGene 11915 11920	Sam68
+#514	AnnotatorNotes T514	EG:20218
+T515	PR 11915 11920	Sam68
+#515	AnnotatorNotes T515	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T516	sup 11920 11923	+/+
+#516	AnnotatorNotes T516	sup (null)
+T517	SO 11920 11921	+
+#517	AnnotatorNotes T517	SO:0000817 (wild_type)
+T518	SO 11922 11923	+
+#518	AnnotatorNotes T518	SO:0000817 (wild_type)
+T519	EntrezGene 11928 11933	Sam68
+#519	AnnotatorNotes T519	EG:20218
+T520	PR 11928 11933	Sam68
+#520	AnnotatorNotes T520	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T521	sup 11933 11936	−/−
+#521	AnnotatorNotes T521	sup (null)
+T522	NCBITaxon 11937 11941	mice
+#522	AnnotatorNotes T522	NCBITaxon:10088 (Mus)
+T523	EntrezGene 12018 12023	Sam68
+#523	AnnotatorNotes T523	EG:20218
+T524	PR 12018 12023	Sam68
+#524	AnnotatorNotes T524	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T525	sup 12023 12026	−/−
+#525	AnnotatorNotes T525	sup (null)
+T526	NCBITaxon 12027 12031	mice
+#526	AnnotatorNotes T526	NCBITaxon:10088 (Mus)
+T527	EntrezGene 12122 12127	Sam68
+#527	AnnotatorNotes T527	EG:20218
+T528	PR 12122 12127	Sam68
+#528	AnnotatorNotes T528	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T529	sup 12127 12130	−/−
+#529	AnnotatorNotes T529	sup (null)
+T530	NCBITaxon 12131 12135	mice
+#530	AnnotatorNotes T530	NCBITaxon:10088 (Mus)
+T531	CHEBI 12142 12149	mineral
+#531	AnnotatorNotes T531	CHEBI:46662 (minerals)
+T532	SO 12202 12211	wild type
+#532	AnnotatorNotes T532	SO:0000817 (wild_type)
+T533	NCBITaxon 12212 12216	mice
+#533	AnnotatorNotes T533	NCBITaxon:10088 (Mus)
+T534	EntrezGene 12323 12328	Sam68
+#534	AnnotatorNotes T534	EG:20218
+T535	PR 12323 12328	Sam68
+#535	AnnotatorNotes T535	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T536	sup 12328 12331	−/−
+#536	AnnotatorNotes T536	sup (null)
+T537	EntrezGene 12366 12371	Sam68
+#537	AnnotatorNotes T537	EG:20218
+T538	PR 12366 12371	Sam68
+#538	AnnotatorNotes T538	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T539	sup 12371 12374	−/−
+#539	AnnotatorNotes T539	sup (null)
+T540	NCBITaxon 12375 12379	mice
+#540	AnnotatorNotes T540	NCBITaxon:10088 (Mus)
+T541	GO_BP 12684 12688	Aged
+#541	AnnotatorNotes T541	GO:0007568 (aging)
+T542	EntrezGene 12689 12694	Sam68
+#542	AnnotatorNotes T542	EG:20218
+T543	PR 12689 12694	Sam68
+#543	AnnotatorNotes T543	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T544	sup 12694 12697	−/−
+#544	AnnotatorNotes T544	sup (null)
+T545	NCBITaxon 12698 12702	Mice
+#545	AnnotatorNotes T545	NCBITaxon:10088 (Mus)
+T546	GO_BP 12791 12795	aged
+#546	AnnotatorNotes T546	GO:0007568 (aging)
+T547	NCBITaxon 12804 12808	mice
+#547	AnnotatorNotes T547	NCBITaxon:10088 (Mus)
+T548	NCBITaxon 12872 12878	humans
+#548	AnnotatorNotes T548	NCBITaxon:9606 (Homo sapiens)
+T549	NCBITaxon 12902 12912	individual
+#549	AnnotatorNotes T549	NCBITaxon:1 (root)
+T550	EntrezGene 13093 13098	Sam68
+#550	AnnotatorNotes T550	EG:20218
+T551	PR 13093 13098	Sam68
+#551	AnnotatorNotes T551	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T552	sup 13098 13101	+/+
+#552	AnnotatorNotes T552	sup (null)
+T553	SO 13098 13099	+
+#553	AnnotatorNotes T553	SO:0000817 (wild_type)
+T554	SO 13100 13101	+
+#554	AnnotatorNotes T554	SO:0000817 (wild_type)
+T555	NCBITaxon 13102 13106	mice
+#555	AnnotatorNotes T555	NCBITaxon:10088 (Mus)
+T556	NCBITaxon 13148 13152	mice
+#556	AnnotatorNotes T556	NCBITaxon:10088 (Mus)
+T557	SO 13161 13170	genotypes
+#557	AnnotatorNotes T557	SO:0001027 (genotype)
+T558	EntrezGene 13201 13206	Sam68
+#558	AnnotatorNotes T558	EG:20218
+T559	PR 13201 13206	Sam68
+#559	AnnotatorNotes T559	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T560	sup 13206 13209	−/−
+#560	AnnotatorNotes T560	sup (null)
+T561	NCBITaxon 13210 13214	mice
+#561	AnnotatorNotes T561	NCBITaxon:10088 (Mus)
+T562	italic 13281 13282	p
+#562	AnnotatorNotes T562	italic (null)
+T563	EntrezGene 13530 13535	Sam68
+#563	AnnotatorNotes T563	EG:20218
+T564	PR 13530 13535	Sam68
+#564	AnnotatorNotes T564	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T565	sup 13535 13538	+/+
+#565	AnnotatorNotes T565	sup (null)
+T566	SO 13535 13536	+
+#566	AnnotatorNotes T566	SO:0000817 (wild_type)
+T567	SO 13537 13538	+
+#567	AnnotatorNotes T567	SO:0000817 (wild_type)
+T568	NCBITaxon 13539 13543	mice
+#568	AnnotatorNotes T568	NCBITaxon:10088 (Mus)
+T569	GO_CC 13588 13594	spaces
+#569	AnnotatorNotes T569	GO:0005576 (extracellular region)
+T570	NCBITaxon 13733 13737	mice
+#570	AnnotatorNotes T570	NCBITaxon:10088 (Mus)
+T571	EntrezGene 13885 13890	Sam68
+#571	AnnotatorNotes T571	EG:20218
+T572	PR 13885 13890	Sam68
+#572	AnnotatorNotes T572	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T573	sup 13890 13893	+/+
+#573	AnnotatorNotes T573	sup (null)
+T574	SO 13890 13891	+
+#574	AnnotatorNotes T574	SO:0000817 (wild_type)
+T575	SO 13892 13893	+
+#575	AnnotatorNotes T575	SO:0000817 (wild_type)
+T576	NCBITaxon 13894 13898	mice
+#576	AnnotatorNotes T576	NCBITaxon:10088 (Mus)
+T577	NCBITaxon 13940 13944	mice
+#577	AnnotatorNotes T577	NCBITaxon:10088 (Mus)
+T578	GO_BP 13947 13962	Bone Remodeling
+#578	AnnotatorNotes T578	GO:0046849 (bone remodeling)
+T579	GO_BP 13979 13983	Aged
+#579	AnnotatorNotes T579	GO:0007568 (aging)
+T580	EntrezGene 13984 13989	Sam68
+#580	AnnotatorNotes T580	EG:20218
+T581	PR 13984 13989	Sam68
+#581	AnnotatorNotes T581	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T582	sup 13989 13992	−/−
+#582	AnnotatorNotes T582	sup (null)
+T583	NCBITaxon 13993 13997	Mice
+#583	AnnotatorNotes T583	NCBITaxon:10088 (Mus)
+T584	GO_BP 14077 14081	aged
+#584	AnnotatorNotes T584	GO:0007568 (aging)
+T585	EntrezGene 14082 14087	Sam68
+#585	AnnotatorNotes T585	EG:20218
+T586	PR 14082 14087	Sam68
+#586	AnnotatorNotes T586	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T587	sup 14087 14090	−/−
+#587	AnnotatorNotes T587	sup (null)
+T588	NCBITaxon 14091 14095	mice
+#588	AnnotatorNotes T588	NCBITaxon:10088 (Mus)
+T589	CL 14169 14179	osteoblast
+#589	AnnotatorNotes T589	CL:0000062 (osteoblast)
+T590	CL 14184 14194	osteoclast
+#590	AnnotatorNotes T590	CL:0000092 (osteoclast)
+T591	SO 14224 14230	enzyme
+#591	AnnotatorNotes T591	SO:0001185 (enzymatic)
+T592	independent_continuant 14258 14278	alkaline phosphatase
+#592	AnnotatorNotes T592	independent_continuant
+T593	GO_MF 14258 14278	alkaline phosphatase
+#593	AnnotatorNotes T593	GO:0004035 (alkaline phosphatase activity)
+T594	CHEBI 14258 14266	alkaline
+#594	AnnotatorNotes T594	CHEBI:36364 (alkaline earth salts)
+T595	CHEBI 14258 14266	alkaline
+#595	AnnotatorNotes T595	CHEBI:35479 (alkali metal salts)
+T596	independent_continuant 14280 14283	ALP
+#596	AnnotatorNotes T596	independent_continuant
+T597	GO_MF 14280 14283	ALP
+#597	AnnotatorNotes T597	GO:0004035 (alkaline phosphatase activity)
+T598	CL 14335 14346	osteoblasts
+#598	AnnotatorNotes T598	CL:0000062 (osteoblast)
+T599	EntrezGene 14351 14373	tartrate-resistant ALP
+#599	AnnotatorNotes T599	EG:11433
+T600	PR 14351 14373	tartrate-resistant ALP
+#600	AnnotatorNotes T600	PR:000001937 (tartrate-resistant acid phosphatase type 5)
+T601	CHEBI 14351 14359	tartrate
+#601	AnnotatorNotes T601	CHEBI:35397 (tartrate(1-))
+T602	CHEBI 14351 14359	tartrate
+#602	AnnotatorNotes T602	CHEBI:15193 (tartrate(2-))
+T603	GO_MF 14370 14373	ALP
+#603	AnnotatorNotes T603	GO:0004035 (alkaline phosphatase activity)
+T604	independent_continuant 14370 14373	ALP
+#604	AnnotatorNotes T604	independent_continuant
+T605	EntrezGene 14375 14410	tartrate-resistant acid phosphatase
+#605	AnnotatorNotes T605	EG:11433
+T606	PR 14375 14410	tartrate-resistant acid phosphatase
+#606	AnnotatorNotes T606	PR:000001937 (tartrate-resistant acid phosphatase type 5)
+T607	CHEBI 14375 14383	tartrate
+#607	AnnotatorNotes T607	CHEBI:15193 (tartrate(2-))
+T608	CHEBI 14375 14383	tartrate
+#608	AnnotatorNotes T608	CHEBI:35397 (tartrate(1-))
+T609	GO_MF 14394 14410	acid phosphatase
+#609	AnnotatorNotes T609	GO:0003993 (acid phosphatase activity)
+T610	independent_continuant 14394 14410	acid phosphatase
+#610	AnnotatorNotes T610	independent_continuant
+T611	CHEBI 14394 14398	acid
+#611	AnnotatorNotes T611	CHEBI:37527 (acid)
+T612	EntrezGene 14412 14416	TRAP
+#612	AnnotatorNotes T612	EG:11433
+T613	PR 14412 14416	TRAP
+#613	AnnotatorNotes T613	PR:000001937 (tartrate-resistant acid phosphatase type 5)
+T614	CL 14455 14466	osteoclasts
+#614	AnnotatorNotes T614	CL:0000092 (osteoclast)
+T615	EntrezGene 14503 14508	Sam68
+#615	AnnotatorNotes T615	EG:20218
+T616	PR 14503 14508	Sam68
+#616	AnnotatorNotes T616	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T617	sup 14508 14511	+/+
+#617	AnnotatorNotes T617	sup (null)
+T618	SO 14508 14509	+
+#618	AnnotatorNotes T618	SO:0000817 (wild_type)
+T619	SO 14510 14511	+
+#619	AnnotatorNotes T619	SO:0000817 (wild_type)
+T620	EntrezGene 14535 14540	Sam68
+#620	AnnotatorNotes T620	EG:20218
+T621	PR 14535 14540	Sam68
+#621	AnnotatorNotes T621	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T622	sup 14540 14543	−/−
+#622	AnnotatorNotes T622	sup (null)
+T623	NCBITaxon 14563 14567	mice
+#623	AnnotatorNotes T623	NCBITaxon:10088 (Mus)
+T624	GO_MF 14588 14591	ALP
+#624	AnnotatorNotes T624	GO:0004035 (alkaline phosphatase activity)
+T625	independent_continuant 14588 14591	ALP
+#625	AnnotatorNotes T625	independent_continuant
+T626	EntrezGene 14597 14601	TRAP
+#626	AnnotatorNotes T626	EG:11433
+T627	PR 14597 14601	TRAP
+#627	AnnotatorNotes T627	PR:000001937 (tartrate-resistant acid phosphatase type 5)
+T628	CL 14611 14616	cells
+#628	AnnotatorNotes T628	CL:0000000 (cell)
+T629	GO_CC 14611 14616	cells
+#629	AnnotatorNotes T629	GO:0005623 (cell)
+T630	EntrezGene 14650 14655	Sam68
+#630	AnnotatorNotes T630	EG:20218
+T631	PR 14650 14655	Sam68
+#631	AnnotatorNotes T631	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T632	sup 14655 14658	+/+
+#632	AnnotatorNotes T632	sup (null)
+T633	SO 14655 14656	+
+#633	AnnotatorNotes T633	SO:0000817 (wild_type)
+T634	SO 14657 14658	+
+#634	AnnotatorNotes T634	SO:0000817 (wild_type)
+T635	NCBITaxon 14659 14663	mice
+#635	AnnotatorNotes T635	NCBITaxon:10088 (Mus)
+T636	EntrezGene 14722 14727	Sam68
+#636	AnnotatorNotes T636	EG:20218
+T637	PR 14722 14727	Sam68
+#637	AnnotatorNotes T637	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T638	sup 14727 14730	−/−
+#638	AnnotatorNotes T638	sup (null)
+T639	NCBITaxon 14731 14735	mice
+#639	AnnotatorNotes T639	NCBITaxon:10088 (Mus)
+T640	CL 14778 14788	osteoblast
+#640	AnnotatorNotes T640	CL:0000062 (osteoblast)
+T641	CL 14793 14803	osteoclast
+#641	AnnotatorNotes T641	CL:0000092 (osteoclast)
+T642	EntrezGene 14833 14838	Sam68
+#642	AnnotatorNotes T642	EG:20218
+T643	PR 14833 14838	Sam68
+#643	AnnotatorNotes T643	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T644	sup 14838 14841	+/+
+#644	AnnotatorNotes T644	sup (null)
+T645	SO 14838 14839	+
+#645	AnnotatorNotes T645	SO:0000817 (wild_type)
+T646	SO 14840 14841	+
+#646	AnnotatorNotes T646	SO:0000817 (wild_type)
+T647	NCBITaxon 14842 14846	mice
+#647	AnnotatorNotes T647	NCBITaxon:10088 (Mus)
+T648	CL 14918 14928	osteoclast
+#648	AnnotatorNotes T648	CL:0000092 (osteoclast)
+T649	CL 14934 14944	osteoblast
+#649	AnnotatorNotes T649	CL:0000062 (osteoblast)
+T650	GO_BP 15145 15151	formed
+#650	AnnotatorNotes T650	GO:0032502 (developmental process)
+T651	GO_BP 15173 15191	mineral apposition
+#651	AnnotatorNotes T651	GO:0031214 (biomineral formation)
+T652	CHEBI 15173 15180	mineral
+#652	AnnotatorNotes T652	CHEBI:46662 (minerals)
+T653	EntrezGene 15250 15255	Sam68
+#653	AnnotatorNotes T653	EG:20218
+T654	PR 15250 15255	Sam68
+#654	AnnotatorNotes T654	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T655	sup 15255 15258	+/+
+#655	AnnotatorNotes T655	sup (null)
+T656	SO 15255 15256	+
+#656	AnnotatorNotes T656	SO:0000817 (wild_type)
+T657	SO 15257 15258	+
+#657	AnnotatorNotes T657	SO:0000817 (wild_type)
+T658	NCBITaxon 15259 15263	mice
+#658	AnnotatorNotes T658	NCBITaxon:10088 (Mus)
+T659	EntrezGene 15290 15295	Sam68
+#659	AnnotatorNotes T659	EG:20218
+T660	PR 15290 15295	Sam68
+#660	AnnotatorNotes T660	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T661	sup 15295 15298	+/+
+#661	AnnotatorNotes T661	sup (null)
+T662	SO 15295 15296	+
+#662	AnnotatorNotes T662	SO:0000817 (wild_type)
+T663	SO 15297 15298	+
+#663	AnnotatorNotes T663	SO:0000817 (wild_type)
+T664	NCBITaxon 15299 15303	mice
+#664	AnnotatorNotes T664	NCBITaxon:10088 (Mus)
+T665	CL 15413 15424	osteoblasts
+#665	AnnotatorNotes T665	CL:0000062 (osteoblast)
+T666	CL 15438 15449	osteoclasts
+#666	AnnotatorNotes T666	CL:0000092 (osteoclast)
+T667	EntrezGene 15548 15553	Sam68
+#667	AnnotatorNotes T667	EG:20218
+T668	PR 15548 15553	Sam68
+#668	AnnotatorNotes T668	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T669	sup 15553 15556	−/−
+#669	AnnotatorNotes T669	sup (null)
+T670	NCBITaxon 15557 15561	mice
+#670	AnnotatorNotes T670	NCBITaxon:10088 (Mus)
+T671	NCBITaxon 15652 15656	mice
+#671	AnnotatorNotes T671	NCBITaxon:10088 (Mus)
+T672	SO 15667 15675	genotype
+#672	AnnotatorNotes T672	SO:0001027 (genotype)
+T673	CL 15692 15697	cells
+#673	AnnotatorNotes T673	CL:0000000 (cell)
+T674	GO_CC 15692 15697	cells
+#674	AnnotatorNotes T674	GO:0005623 (cell)
+T675	CL 15822 15833	osteoblasts
+#675	AnnotatorNotes T675	CL:0000062 (osteoblast)
+T676	CL 15837 15848	osteoclasts
+#676	AnnotatorNotes T676	CL:0000092 (osteoclast)
+T677	NCBITaxon 15878 15882	mice
+#677	AnnotatorNotes T677	NCBITaxon:10088 (Mus)
+T678	CHEBI 15923 15924	C
+#678	AnnotatorNotes T678	CHEBI:46883 (carboxy group)
+T679	SO 15923 15924	C
+#679	AnnotatorNotes T679	SO:0100015 (c_terminal_region)
+T680	CHEBI 15923 15924	C
+#680	AnnotatorNotes T680	CHEBI:18245 (carboxylato group)
+T681	GO_MF 15986 15989	ALP
+#681	AnnotatorNotes T681	GO:0004035 (alkaline phosphatase activity)
+T682	independent_continuant 15986 15989	ALP
+#682	AnnotatorNotes T682	independent_continuant
+T683	EntrezGene 16077 16082	Sam68
+#683	AnnotatorNotes T683	EG:20218
+T684	PR 16077 16082	Sam68
+#684	AnnotatorNotes T684	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T685	sup 16082 16085	−/−
+#685	AnnotatorNotes T685	sup (null)
+T686	NCBITaxon 16086 16090	mice
+#686	AnnotatorNotes T686	NCBITaxon:10088 (Mus)
+T687	NCBITaxon 16172 16176	mice
+#687	AnnotatorNotes T687	NCBITaxon:10088 (Mus)
+T688	SO 16191 16199	genotype
+#688	AnnotatorNotes T688	SO:0001027 (genotype)
+T689	EntrezGene 16230 16243	interleukin-6
+#689	AnnotatorNotes T689	EG:16193
+T690	PR 16230 16243	interleukin-6
+#690	AnnotatorNotes T690	PR:000001393 (interleukin-6)
+T691	PR 16290 16296	leptin
+#691	AnnotatorNotes T691	PR:000009758 (leptin)
+T692	GO_BP 16300 16310	regulating
+#692	AnnotatorNotes T692	GO:0065007 (biological regulation)
+T693	EntrezGene 16337 16343	leptin
+#693	AnnotatorNotes T693	EG:16846
+T694	PR 16337 16343	leptin
+#694	AnnotatorNotes T694	PR:000009758 (leptin)
+T695	EntrezGene 16360 16365	Sam68
+#695	AnnotatorNotes T695	EG:20218
+T696	PR 16360 16365	Sam68
+#696	AnnotatorNotes T696	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T697	sup 16365 16368	+/+
+#697	AnnotatorNotes T697	sup (null)
+T698	SO 16365 16366	+
+#698	AnnotatorNotes T698	SO:0000817 (wild_type)
+T699	SO 16367 16368	+
+#699	AnnotatorNotes T699	SO:0000817 (wild_type)
+T700	EntrezGene 16373 16378	Sam68
+#700	AnnotatorNotes T700	EG:20218
+T701	PR 16373 16378	Sam68
+#701	AnnotatorNotes T701	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T702	sup 16378 16381	−/−
+#702	AnnotatorNotes T702	sup (null)
+T703	NCBITaxon 16382 16386	mice
+#703	AnnotatorNotes T703	NCBITaxon:10088 (Mus)
+T704	EntrezGene 16405 16410	Sam68
+#704	AnnotatorNotes T704	EG:20218
+T705	PR 16405 16410	Sam68
+#705	AnnotatorNotes T705	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T706	sup 16410 16413	−/−
+#706	AnnotatorNotes T706	sup (null)
+T707	NCBITaxon 16414 16418	mice
+#707	AnnotatorNotes T707	NCBITaxon:10088 (Mus)
+T708	EntrezGene 16469 16474	Sam68
+#708	AnnotatorNotes T708	EG:20218
+T709	PR 16469 16474	Sam68
+#709	AnnotatorNotes T709	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T710	sup 16474 16477	+/+
+#710	AnnotatorNotes T710	sup (null)
+T711	SO 16474 16475	+
+#711	AnnotatorNotes T711	SO:0000817 (wild_type)
+T712	SO 16476 16477	+
+#712	AnnotatorNotes T712	SO:0000817 (wild_type)
+T713	NCBITaxon 16478 16482	mice
+#713	AnnotatorNotes T713	NCBITaxon:10088 (Mus)
+T714	EntrezGene 16493 16498	Sam68
+#714	AnnotatorNotes T714	EG:20218
+T715	PR 16493 16498	Sam68
+#715	AnnotatorNotes T715	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T716	sup 16498 16501	−/−
+#716	AnnotatorNotes T716	sup (null)
+T717	NCBITaxon 16502 16506	mice
+#717	AnnotatorNotes T717	NCBITaxon:10088 (Mus)
+T718	EntrezGene 16604 16609	Sam68
+#718	AnnotatorNotes T718	EG:20218
+T719	PR 16604 16609	Sam68
+#719	AnnotatorNotes T719	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T720	sup 16609 16612	−/−
+#720	AnnotatorNotes T720	sup (null)
+T721	NCBITaxon 16613 16617	mice
+#721	AnnotatorNotes T721	NCBITaxon:10088 (Mus)
+T722	EntrezGene 16728 16734	leptin
+#722	AnnotatorNotes T722	EG:16846
+T723	PR 16728 16734	leptin
+#723	AnnotatorNotes T723	PR:000009758 (leptin)
+T724	CL 16744 16754	Osteoblast
+#724	AnnotatorNotes T724	CL:0000062 (osteoblast)
+T725	CL 16764 16774	Osteoclast
+#725	AnnotatorNotes T725	CL:0000092 (osteoclast)
+T726	EntrezGene 16799 16804	Sam68
+#726	AnnotatorNotes T726	EG:20218
+T727	PR 16799 16804	Sam68
+#727	AnnotatorNotes T727	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T728	sup 16804 16807	−/−
+#728	AnnotatorNotes T728	sup (null)
+T729	NCBITaxon 16808 16812	Mice
+#729	AnnotatorNotes T729	NCBITaxon:10088 (Mus)
+T730	GO_BP 16864 16874	remodeling
+#730	AnnotatorNotes T730	GO:0048771 (tissue remodeling)
+T731	CL 16913 16923	osteoblast
+#731	AnnotatorNotes T731	CL:0000062 (osteoblast)
+T732	CL 16927 16937	osteoclast
+#732	AnnotatorNotes T732	CL:0000092 (osteoclast)
+T733	EntrezGene 17049 17054	Sam68
+#733	AnnotatorNotes T733	EG:20218
+T734	PR 17049 17054	Sam68
+#734	AnnotatorNotes T734	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T735	sup 17054 17057	−/−
+#735	AnnotatorNotes T735	sup (null)
+T736	NCBITaxon 17058 17062	mice
+#736	AnnotatorNotes T736	NCBITaxon:10088 (Mus)
+T737	EntrezGene 17137 17142	Sam68
+#737	AnnotatorNotes T737	EG:20218
+T738	PR 17137 17142	Sam68
+#738	AnnotatorNotes T738	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T739	sup 17142 17145	−/−
+#739	AnnotatorNotes T739	sup (null)
+T740	CL 17146 17157	osteoblasts
+#740	AnnotatorNotes T740	CL:0000062 (osteoblast)
+T741	CL 17162 17173	osteoclasts
+#741	AnnotatorNotes T741	CL:0000092 (osteoclast)
+T742	CL 17226 17239	stromal cells
+#742	AnnotatorNotes T742	CL:0000499 (stromal cell)
+T743	GO_CC 17234 17239	cells
+#743	AnnotatorNotes T743	GO:0005623 (cell)
+T744	EntrezGene 17266 17271	Sam68
+#744	AnnotatorNotes T744	EG:20218
+T745	PR 17266 17271	Sam68
+#745	AnnotatorNotes T745	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T746	sup 17271 17274	−/−
+#746	AnnotatorNotes T746	sup (null)
+T747	NCBITaxon 17275 17279	mice
+#747	AnnotatorNotes T747	NCBITaxon:10088 (Mus)
+T748	CL 17310 17320	osteoblast
+#748	AnnotatorNotes T748	CL:0000062 (osteoblast)
+T749	GO_BP 17321 17336	differentiation
+#749	AnnotatorNotes T749	GO:0030154 (cell differentiation)
+T750	GO_MF 17383 17386	ALP
+#750	AnnotatorNotes T750	GO:0004035 (alkaline phosphatase activity)
+T751	independent_continuant 17383 17386	ALP
+#751	AnnotatorNotes T751	independent_continuant
+T752	GO_BP 17450 17461	mineralized
+#752	AnnotatorNotes T752	GO:0031214 (biomineral formation)
+T753	EntrezGene 17491 17496	Sam68
+#753	AnnotatorNotes T753	EG:20218
+T754	PR 17491 17496	Sam68
+#754	AnnotatorNotes T754	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T755	sup 17496 17499	+/+
+#755	AnnotatorNotes T755	sup (null)
+T756	SO 17496 17497	+
+#756	AnnotatorNotes T756	SO:0000817 (wild_type)
+T757	SO 17498 17499	+
+#757	AnnotatorNotes T757	SO:0000817 (wild_type)
+T758	NCBITaxon 17500 17504	mice
+#758	AnnotatorNotes T758	NCBITaxon:10088 (Mus)
+T759	CL 17537 17547	fibroblast
+#759	AnnotatorNotes T759	CL:0000057 (fibroblast)
+T760	GO_BP 17555 17562	forming
+#760	AnnotatorNotes T760	GO:0032502 (developmental process)
+T761	GO_MF 17625 17627	RT
+#761	AnnotatorNotes T761	GO:0003964 (RNA-directed DNA polymerase activity)
+T762	independent_continuant 17625 17627	RT
+#762	AnnotatorNotes T762	independent_continuant
+T763	GO_BP 17625 17627	RT
+#763	AnnotatorNotes T763	GO:0006410 (transcription, RNA-dependent)
+T764	CHEBI 17644 17653	molecular
+#764	AnnotatorNotes T764	CHEBI:23367 (molecular entity)
+T765	CL 17665 17675	osteoblast
+#765	AnnotatorNotes T765	CL:0000062 (osteoblast)
+T766	GO_BP 17676 17691	differentiation
+#766	AnnotatorNotes T766	GO:0030154 (cell differentiation)
+T767	SO 17745 17748	RNA
+#767	AnnotatorNotes T767	SO:0000356 (RNA)
+T768	EntrezGene 17754 17759	Sam68
+#768	AnnotatorNotes T768	EG:20218
+T769	PR 17754 17759	Sam68
+#769	AnnotatorNotes T769	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T770	sup 17759 17762	+/+
+#770	AnnotatorNotes T770	sup (null)
+T771	SO 17759 17760	+
+#771	AnnotatorNotes T771	SO:0000817 (wild_type)
+T772	SO 17761 17762	+
+#772	AnnotatorNotes T772	SO:0000817 (wild_type)
+T773	EntrezGene 17767 17772	Sam68
+#773	AnnotatorNotes T773	EG:20218
+T774	PR 17767 17772	Sam68
+#774	AnnotatorNotes T774	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T775	sup 17772 17775	−/−
+#775	AnnotatorNotes T775	sup (null)
+T776	NCBITaxon 17776 17780	mice
+#776	AnnotatorNotes T776	NCBITaxon:10088 (Mus)
+T777	GO_CC 17791 17806	type I collagen
+#777	AnnotatorNotes T777	GO:0005584 (collagen type I)
+T778	PR 17791 17806	type I collagen
+#778	AnnotatorNotes T778	PR:000003263 (collagen type I alpha chain)
+T779	GO_BP 17822 17834	up-regulated
+#779	AnnotatorNotes T779	GO:0048518 (positive regulation of biological process)
+T780	EntrezGene 17861 17866	Sam68
+#780	AnnotatorNotes T780	EG:20218
+T781	PR 17861 17866	Sam68
+#781	AnnotatorNotes T781	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T782	sup 17866 17869	−/−
+#782	AnnotatorNotes T782	sup (null)
+T783	NCBITaxon 17870 17874	mice
+#783	AnnotatorNotes T783	NCBITaxon:10088 (Mus)
+T784	CL 17906 17917	osteoclasts
+#784	AnnotatorNotes T784	CL:0000092 (osteoclast)
+T785	EntrezGene 17958 17963	Sam68
+#785	AnnotatorNotes T785	EG:20218
+T786	PR 17958 17963	Sam68
+#786	AnnotatorNotes T786	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T787	sup 17963 17966	+/+
+#787	AnnotatorNotes T787	sup (null)
+T788	SO 17963 17964	+
+#788	AnnotatorNotes T788	SO:0000817 (wild_type)
+T789	SO 17965 17966	+
+#789	AnnotatorNotes T789	SO:0000817 (wild_type)
+T790	EntrezGene 17971 17976	Sam68
+#790	AnnotatorNotes T790	EG:20218
+T791	PR 17971 17976	Sam68
+#791	AnnotatorNotes T791	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T792	sup 17976 17979	−/−
+#792	AnnotatorNotes T792	sup (null)
+T793	NCBITaxon 17980 17984	mice
+#793	AnnotatorNotes T793	NCBITaxon:10088 (Mus)
+T794	EntrezGene 18010 18014	TRAP
+#794	AnnotatorNotes T794	EG:11433
+T795	PR 18010 18014	TRAP
+#795	AnnotatorNotes T795	PR:000001937 (tartrate-resistant acid phosphatase type 5)
+T796	CHEBI 18123 18131	electron
+#796	AnnotatorNotes T796	CHEBI:10545 (electron)
+T797	CL 18188 18199	osteoclasts
+#797	AnnotatorNotes T797	CL:0000092 (osteoclast)
+T798	EntrezGene 18233 18238	Sam68
+#798	AnnotatorNotes T798	EG:20218
+T799	PR 18233 18238	Sam68
+#799	AnnotatorNotes T799	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T800	sup 18238 18241	−/−
+#800	AnnotatorNotes T800	sup (null)
+T801	NCBITaxon 18242 18246	mice
+#801	AnnotatorNotes T801	NCBITaxon:10088 (Mus)
+T802	EntrezGene 18263 18266	Src
+#802	AnnotatorNotes T802	EG:20779
+T803	NCBITaxon 18272 18276	mice
+#803	AnnotatorNotes T803	NCBITaxon:10088 (Mus)
+T804	EntrezGene 18299 18304	Sam68
+#804	AnnotatorNotes T804	EG:20218
+T805	PR 18299 18304	Sam68
+#805	AnnotatorNotes T805	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T806	CL 18314 18323	Adipocyte
+#806	AnnotatorNotes T806	CL:0000136 (fat cell)
+T807	GO_BP 18324 18339	Differentiation
+#807	AnnotatorNotes T807	GO:0030154 (cell differentiation)
+T808	GO_BP 18344 18352	Promotes
+#808	AnnotatorNotes T808	GO:0048518 (positive regulation of biological process)
+T809	CL 18353 18363	Osteoblast
+#809	AnnotatorNotes T809	CL:0000062 (osteoblast)
+T810	GO_BP 18364 18379	Differentiation
+#810	AnnotatorNotes T810	GO:0030154 (cell differentiation)
+T811	CL 18420 18433	stromal cells
+#811	AnnotatorNotes T811	CL:0000499 (stromal cell)
+T812	GO_CC 18428 18433	cells
+#812	AnnotatorNotes T812	GO:0005623 (cell)
+T813	CL 18452 18463	osteoblasts
+#813	AnnotatorNotes T813	CL:0000062 (osteoblast)
+T814	CL 18468 18478	adipocytes
+#814	AnnotatorNotes T814	CL:0000136 (fat cell)
+T815	GO_BP 18543 18558	differentiation
+#815	AnnotatorNotes T815	GO:0030154 (cell differentiation)
+T816	CL 18568 18577	adipocyte
+#816	AnnotatorNotes T816	CL:0000136 (fat cell)
+T817	EntrezGene 18615 18620	Sam68
+#817	AnnotatorNotes T817	EG:20218
+T818	PR 18615 18620	Sam68
+#818	AnnotatorNotes T818	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T819	CL 18653 18666	stromal cells
+#819	AnnotatorNotes T819	CL:0000499 (stromal cell)
+T820	GO_CC 18661 18666	cells
+#820	AnnotatorNotes T820	GO:0005623 (cell)
+T821	GO_BP 18670 18683	differentiate
+#821	AnnotatorNotes T821	GO:0030154 (cell differentiation)
+T822	GO_BP 18694 18734	osteogenic versus the adipogenic pathway
+#822	AnnotatorNotes T822	"osteogenic .. pathway" GO:0001503 (ossification)
+T823	EntrezGene 18763 18768	Sam68
+#823	AnnotatorNotes T823	EG:20218
+T824	PR 18763 18768	Sam68
+#824	AnnotatorNotes T824	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T825	GO_BP 18786 18794	regulate
+#825	AnnotatorNotes T825	GO:0065007 (biological regulation)
+T826	GO_BP 18848 18855	control
+#826	AnnotatorNotes T826	GO:0065007 (biological regulation)
+T827	PR 18874 18880	leptin
+#827	AnnotatorNotes T827	PR:000009758 (leptin)
+T828	GO_BP 18935 18954	negatively regulate
+#828	AnnotatorNotes T828	GO:0048519 (negative regulation of biological process)
+T829	EntrezGene 18992 18997	Sam68
+#829	AnnotatorNotes T829	EG:20218
+T830	PR 18992 18997	Sam68
+#830	AnnotatorNotes T830	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T831	GO_BP 19005 19044	regulation of adipocyte differentiation
+#831	AnnotatorNotes T831	"regulation of .. differentiation" GO:0045595 (regulation of cell differentiation)
+T832	CL 19019 19028	adipocyte
+#832	AnnotatorNotes T832	CL:0000136 (fat cell)
+T833	GO_BP 19029 19044	differentiation
+#833	AnnotatorNotes T833	GO:0030154 (cell differentiation)
+T834	EntrezGene 19089 19094	Sam68
+#834	AnnotatorNotes T834	EG:20218
+T835	PR 19089 19094	Sam68
+#835	AnnotatorNotes T835	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T836	sup 19094 19097	+/+
+#836	AnnotatorNotes T836	sup (null)
+T837	SO 19094 19095	+
+#837	AnnotatorNotes T837	SO:0000817 (wild_type)
+T838	SO 19096 19097	+
+#838	AnnotatorNotes T838	SO:0000817 (wild_type)
+T839	EntrezGene 19102 19107	Sam68
+#839	AnnotatorNotes T839	EG:20218
+T840	PR 19102 19107	Sam68
+#840	AnnotatorNotes T840	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T841	sup 19107 19110	−/−
+#841	AnnotatorNotes T841	sup (null)
+T842	EntrezGene 19132 19137	Sam68
+#842	AnnotatorNotes T842	EG:20218
+T843	PR 19132 19137	Sam68
+#843	AnnotatorNotes T843	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T844	sup 19137 19140	−/−
+#844	AnnotatorNotes T844	sup (null)
+T845	GO_BP 19151 19165	differentiated
+#845	AnnotatorNotes T845	GO:0030154 (cell differentiation)
+T846	CL 19171 19181	adipocytes
+#846	AnnotatorNotes T846	CL:0000136 (fat cell)
+T847	GO_BP 19241 19247	induce
+#847	AnnotatorNotes T847	GO:0031128 (induction)
+T848	CL 19262 19267	Cells
+#848	AnnotatorNotes T848	CL:0000000 (cell)
+T849	GO_CC 19262 19267	Cells
+#849	AnnotatorNotes T849	GO:0005623 (cell)
+T850	SO 19385 19394	wild-type
+#850	AnnotatorNotes T850	SO:0000817 (wild_type)
+T851	EntrezGene 19421 19426	Sam68
+#851	AnnotatorNotes T851	EG:20218
+T852	PR 19421 19426	Sam68
+#852	AnnotatorNotes T852	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T853	sup 19426 19429	−/−
+#853	AnnotatorNotes T853	sup (null)
+T854	EntrezGene 19484 19489	Sam68
+#854	AnnotatorNotes T854	EG:20218
+T855	PR 19484 19489	Sam68
+#855	AnnotatorNotes T855	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T856	CL 19493 19502	adipocyte
+#856	AnnotatorNotes T856	CL:0000136 (fat cell)
+T857	GO_BP 19503 19518	differentiation
+#857	AnnotatorNotes T857	GO:0030154 (cell differentiation)
+T858	GO_BP 19535 19545	expression
+#858	AnnotatorNotes T858	GO:0010467 (gene expression)
+T859	GO_MF 19553 19574	transcription factors
+#859	AnnotatorNotes T859	GO:0003700 (transcription factor activity)
+T860	independent_continuant 19553 19574	transcription factors
+#860	AnnotatorNotes T860	independent_continuant
+T861	GO_BP 19553 19566	transcription
+#861	AnnotatorNotes T861	GO:0006350 (transcription)
+T862	EntrezGene 19589 19594	PPARγ
+#862	AnnotatorNotes T862	EG:19016
+T863	PR 19589 19594	PPARγ
+#863	AnnotatorNotes T863	PR:000013058 (peroxisome proliferator-activated receptor gamma)
+T864	EntrezGene 19599 19603	KLF5
+#864	AnnotatorNotes T864	EG:12224
+T865	PR 19599 19603	KLF5
+#865	AnnotatorNotes T865	PR:000009365 (krueppel-like factor 5)
+T866	EntrezGene 19620 19625	Sam68
+#866	AnnotatorNotes T866	EG:20218
+T867	PR 19620 19625	Sam68
+#867	AnnotatorNotes T867	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T868	sup 19625 19628	−/−
+#868	AnnotatorNotes T868	sup (null)
+T869	GO_BP 19629 19643	differentiated
+#869	AnnotatorNotes T869	GO:0030154 (cell differentiation)
+T870	EntrezGene 19663 19668	Sam68
+#870	AnnotatorNotes T870	EG:20218
+T871	PR 19663 19668	Sam68
+#871	AnnotatorNotes T871	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T872	sup 19668 19671	+/+
+#872	AnnotatorNotes T872	sup (null)
+T873	SO 19668 19669	+
+#873	AnnotatorNotes T873	SO:0000817 (wild_type)
+T874	SO 19670 19671	+
+#874	AnnotatorNotes T874	SO:0000817 (wild_type)
+T875	EntrezGene 19734 19739	Sam68
+#875	AnnotatorNotes T875	EG:20218
+T876	PR 19734 19739	Sam68
+#876	AnnotatorNotes T876	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T877	EntrezGene 19814 19819	Sam68
+#877	AnnotatorNotes T877	EG:20218
+T878	PR 19814 19819	Sam68
+#878	AnnotatorNotes T878	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T879	sup 19819 19822	−/−
+#879	AnnotatorNotes T879	sup (null)
+T880	NCBITaxon 19823 19827	mice
+#880	AnnotatorNotes T880	NCBITaxon:10088 (Mus)
+T881	EntrezGene 19902 19907	Sam68
+#881	AnnotatorNotes T881	EG:20218
+T882	PR 19902 19907	Sam68
+#882	AnnotatorNotes T882	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T883	GO_BP 19908 19917	modulates
+#883	AnnotatorNotes T883	GO:0065007 (biological regulation)
+T884	GO_BP 19922 19958	differentiation of mesenchymal cells
+#884	AnnotatorNotes T884	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T885	CL 19941 19958	mesenchymal cells
+#885	AnnotatorNotes T885	CL:0000134 (mesenchymal cell)
+T886	GO_CC 19953 19958	cells
+#886	AnnotatorNotes T886	GO:0005623 (cell)
+T887	CL 20000 20004	cell
+#887	AnnotatorNotes T887	CL:0000000 (cell)
+T888	GO_CC 20000 20004	cell
+#888	AnnotatorNotes T888	GO:0005623 (cell)
+T889	CL 20085 20090	cells
+#889	AnnotatorNotes T889	CL:0000000 (cell)
+T890	GO_CC 20085 20090	cells
+#890	AnnotatorNotes T890	GO:0005623 (cell)
+T891	PR 20118 20123	BMP-2
+#891	AnnotatorNotes T891	PR:000000164 (BMP2)
+T892	GO_BP 20124 20131	induced
+#892	AnnotatorNotes T892	GO:0031128 (induction)
+T893	CL 20132 20142	osteoblast
+#893	AnnotatorNotes T893	CL:0000062 (osteoblast)
+T894	GO_BP 20143 20158	differentiation
+#894	AnnotatorNotes T894	GO:0030154 (cell differentiation)
+T895	GO_BP 20214 20254	expression of the osteocalcin (OCN) gene
+#895	AnnotatorNotes T895	"expression of .. gene" GO:0010467 (gene expression)
+T896	EntrezGene 20232 20243	osteocalcin
+#896	AnnotatorNotes T896	EG:12096
+T897	italic 20244 20249	(OCN)
+#897	AnnotatorNotes T897	italic (null)
+T898	EntrezGene 20245 20248	OCN
+#898	AnnotatorNotes T898	EG:12096
+T899	SO 20250 20254	gene
+#899	AnnotatorNotes T899	SO:0000704 (gene)
+T900	CL 20286 20291	cells
+#900	AnnotatorNotes T900	CL:0000000 (cell)
+T901	GO_CC 20286 20291	cells
+#901	AnnotatorNotes T901	GO:0005623 (cell)
+T902	GO_BP 20299 20310	transfected
+#902	AnnotatorNotes T902	GO:0009294 (DNA mediated transformation)
+T903	SO 20381 20388	hairpin
+#903	AnnotatorNotes T903	SO:0000313 (stem_loop)
+T904	EntrezGene 20397 20402	Sam68
+#904	AnnotatorNotes T904	EG:20218
+T905	PR 20397 20402	Sam68
+#905	AnnotatorNotes T905	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T906	CHEBI 20432 20441	puromycin
+#906	AnnotatorNotes T906	CHEBI:17939 (puromycin)
+T907	GO_BP 20447 20457	expression
+#907	AnnotatorNotes T907	GO:0010467 (gene expression)
+T908	EntrezGene 20461 20466	Sam68
+#908	AnnotatorNotes T908	EG:20218
+T909	PR 20461 20466	Sam68
+#909	AnnotatorNotes T909	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T910	EntrezGene 20542 20549	β-actin
+#910	AnnotatorNotes T910	EG:11461
+T911	PR 20542 20549	β-actin
+#911	AnnotatorNotes T911	PR:000003676 (actin, cytoplasmic 1)
+T912	CL 20584 20594	Osteoblast
+#912	AnnotatorNotes T912	CL:0000062 (osteoblast)
+T913	GO_BP 20595 20610	differentiation
+#913	AnnotatorNotes T913	GO:0030154 (cell differentiation)
+T914	GO_BP 20615 20622	induced
+#914	AnnotatorNotes T914	GO:0031128 (induction)
+T915	GO_BP 20635 20645	expressing
+#915	AnnotatorNotes T915	GO:0010467 (gene expression)
+T916	PR 20698 20703	BMP-2
+#916	AnnotatorNotes T916	PR:000000164 (BMP2)
+T917	GO_BP 20733 20743	expression
+#917	AnnotatorNotes T917	GO:0010467 (gene expression)
+T918	italic 20747 20750	OCN
+#918	AnnotatorNotes T918	italic (null)
+T919	EntrezGene 20747 20750	OCN
+#919	AnnotatorNotes T919	EG:12096
+T920	italic 20755 20762	β-actin
+#920	AnnotatorNotes T920	italic (null)
+T921	PR 20755 20762	β-actin
+#921	AnnotatorNotes T921	PR:000003676 (actin, cytoplasmic 1)
+T922	EntrezGene 20755 20762	β-actin
+#922	AnnotatorNotes T922	EG:11461
+T923	CHEBI 20763 20768	mRNAs
+#923	AnnotatorNotes T923	CHEBI:33699 (messenger RNA)
+T924	SO 20763 20768	mRNAs
+#924	AnnotatorNotes T924	SO:0000234 (mRNA)
+T925	GO_MF 20802 20804	RT
+#925	AnnotatorNotes T925	GO:0003964 (RNA-directed DNA polymerase activity)
+T926	GO_BP 20802 20804	RT
+#926	AnnotatorNotes T926	GO:0006410 (transcription, RNA-dependent)
+T927	independent_continuant 20802 20804	RT
+#927	AnnotatorNotes T927	independent_continuant
+T928	GO_BP 20825 20835	expressing
+#928	AnnotatorNotes T928	GO:0010467 (gene expression)
+T929	CL 20836 20841	cells
+#929	AnnotatorNotes T929	CL:0000000 (cell)
+T930	GO_CC 20836 20841	cells
+#930	AnnotatorNotes T930	GO:0005623 (cell)
+T931	CL 20870 20880	osteoblast
+#931	AnnotatorNotes T931	CL:0000062 (osteoblast)
+T932	CL 20913 20918	cells
+#932	AnnotatorNotes T932	CL:0000000 (cell)
+T933	GO_CC 20913 20918	cells
+#933	AnnotatorNotes T933	GO:0005623 (cell)
+T934	GO_BP 20939 20949	expression
+#934	AnnotatorNotes T934	GO:0010467 (gene expression)
+T935	italic 20953 20956	OCN
+#935	AnnotatorNotes T935	italic (null)
+T936	EntrezGene 20953 20956	OCN
+#936	AnnotatorNotes T936	EG:12096
+T937	GO_BP 20990 21033	enhancement of mineralized nodule formation
+#937	AnnotatorNotes T937	"enhancement of .. formation" GO:0051094 (positive regulation of developmental process)
+T938	GO_BP 21005 21016	mineralized
+#938	AnnotatorNotes T938	GO:0031214 (biomineral formation)
+T939	GO_BP 21024 21033	formation
+#939	AnnotatorNotes T939	GO:0032502 (developmental process)
+T940	EntrezGene 21037 21042	Sam68
+#940	AnnotatorNotes T940	EG:20218
+T941	PR 21037 21042	Sam68
+#941	AnnotatorNotes T941	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T942	sup 21042 21045	−/−
+#942	AnnotatorNotes T942	sup (null)
+T943	CL 21058 21071	stromal cells
+#943	AnnotatorNotes T943	CL:0000499 (stromal cell)
+T944	GO_CC 21066 21071	cells
+#944	AnnotatorNotes T944	GO:0005623 (cell)
+T945	SO 21118 21125	hairpin
+#945	AnnotatorNotes T945	SO:0000313 (stem_loop)
+T946	SO 21126 21129	RNA
+#946	AnnotatorNotes T946	SO:0000356 (RNA)
+T947	NCBITaxon 21210 21214	mice
+#947	AnnotatorNotes T947	NCBITaxon:10088 (Mus)
+T948	EntrezGene 21331 21336	Sam68
+#948	AnnotatorNotes T948	EG:20218
+T949	PR 21331 21336	Sam68
+#949	AnnotatorNotes T949	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T950	sup 21336 21339	+/+
+#950	AnnotatorNotes T950	sup (null)
+T951	SO 21336 21337	+
+#951	AnnotatorNotes T951	SO:0000817 (wild_type)
+T952	SO 21338 21339	+
+#952	AnnotatorNotes T952	SO:0000817 (wild_type)
+T953	EntrezGene 21344 21349	Sam68
+#953	AnnotatorNotes T953	EG:20218
+T954	PR 21344 21349	Sam68
+#954	AnnotatorNotes T954	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T955	sup 21349 21352	−/−
+#955	AnnotatorNotes T955	sup (null)
+T956	NCBITaxon 21353 21357	mice
+#956	AnnotatorNotes T956	NCBITaxon:10088 (Mus)
+T957	GO_BP 21408 21419	mineralized
+#957	AnnotatorNotes T957	GO:0031214 (biomineral formation)
+T958	CL 21457 21467	adipocytes
+#958	AnnotatorNotes T958	CL:0000136 (fat cell)
+T959	GO_BP 21543 21557	mineralization
+#959	AnnotatorNotes T959	GO:0031214 (biomineral formation)
+T960	EntrezGene 21595 21600	Sam68
+#960	AnnotatorNotes T960	EG:20218
+T961	PR 21595 21600	Sam68
+#961	AnnotatorNotes T961	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T962	sup 21600 21603	+/+
+#962	AnnotatorNotes T962	sup (null)
+T963	SO 21600 21601	+
+#963	AnnotatorNotes T963	SO:0000817 (wild_type)
+T964	SO 21602 21603	+
+#964	AnnotatorNotes T964	SO:0000817 (wild_type)
+T965	NCBITaxon 21604 21608	mice
+#965	AnnotatorNotes T965	NCBITaxon:10088 (Mus)
+T966	CHEBI 21768 21787	fluorochrome labels
+#966	AnnotatorNotes T966	CHEBI:39442 (fluorescent probe)
+T967	EntrezGene 21870 21875	Sam68
+#967	AnnotatorNotes T967	EG:20218
+T968	PR 21870 21875	Sam68
+#968	AnnotatorNotes T968	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T969	sup 21875 21878	−/−
+#969	AnnotatorNotes T969	sup (null)
+T970	NCBITaxon 21879 21883	mice
+#970	AnnotatorNotes T970	NCBITaxon:10088 (Mus)
+T971	NCBITaxon 21929 21933	mice
+#971	AnnotatorNotes T971	NCBITaxon:10088 (Mus)
+T972	SO 21944 21952	genotype
+#972	AnnotatorNotes T972	SO:0001027 (genotype)
+T973	EntrezGene 21982 21987	Sam68
+#973	AnnotatorNotes T973	EG:20218
+T974	PR 21982 21987	Sam68
+#974	AnnotatorNotes T974	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T975	GO_BP 21988 21997	regulates
+#975	AnnotatorNotes T975	GO:0065007 (biological regulation)
+T976	GO_BP 22002 22050	differentiation of bone marrow mesenchymal cells
+#976	AnnotatorNotes T976	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T977	CL 22033 22050	mesenchymal cells
+#977	AnnotatorNotes T977	CL:0000134 (mesenchymal cell)
+T978	GO_CC 22045 22050	cells
+#978	AnnotatorNotes T978	GO:0005623 (cell)
+T979	GO_BP 22054 22061	promote
+#979	AnnotatorNotes T979	GO:0048518 (positive regulation of biological process)
+T980	CL 22062 22071	adipocyte
+#980	AnnotatorNotes T980	CL:0000136 (fat cell)
+T981	GO_BP 22072 22087	differentiation
+#981	AnnotatorNotes T981	GO:0030154 (cell differentiation)
+T982	CL 22100 22110	osteoblast
+#982	AnnotatorNotes T982	CL:0000062 (osteoblast)
+T983	GO_BP 22111 22126	differentiation
+#983	AnnotatorNotes T983	GO:0030154 (cell differentiation)
+T984	GO_BP 22130 22135	aging
+#984	AnnotatorNotes T984	GO:0007568 (aging)
+T985	EntrezGene 22218 22223	Sam68
+#985	AnnotatorNotes T985	EG:20218
+T986	PR 22218 22223	Sam68
+#986	AnnotatorNotes T986	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T987	GO_BP 22230 22238	modulate
+#987	AnnotatorNotes T987	GO:0065007 (biological regulation)
+T988	CL 22251 22273	mesenchymal stem cells
+#988	AnnotatorNotes T988	"mesenchymal .. cells" CL:0000134 (mesenchymal cell)
+T989	CL 22263 22273	stem cells
+#989	AnnotatorNotes T989	CL:0000034 (stem cell)
+T990	GO_CC 22268 22273	cells
+#990	AnnotatorNotes T990	GO:0005623 (cell)
+T991	EntrezGene 22281 22286	Sam68
+#991	AnnotatorNotes T991	EG:20218
+T992	PR 22281 22286	Sam68
+#992	AnnotatorNotes T992	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T993	sup 22286 22289	−/−
+#993	AnnotatorNotes T993	sup (null)
+T994	NCBITaxon 22290 22294	mice
+#994	AnnotatorNotes T994	NCBITaxon:10088 (Mus)
+T995	GO_BP 22295 22304	developed
+#995	AnnotatorNotes T995	GO:0032502 (developmental process)
+T996	SO 22360 22369	wild-type
+#996	AnnotatorNotes T996	SO:0000817 (wild_type)
+T997	GO_BP 22383 22387	Aged
+#997	AnnotatorNotes T997	GO:0007568 (aging)
+T998	EntrezGene 22400 22405	Sam68
+#998	AnnotatorNotes T998	EG:20218
+T999	PR 22400 22405	Sam68
+#999	AnnotatorNotes T999	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1000	sup 22405 22408	−/−
+#1000	AnnotatorNotes T1000	sup (null)
+T1001	NCBITaxon 22409 22413	mice
+#1001	AnnotatorNotes T1001	NCBITaxon:10088 (Mus)
+T1002	EntrezGene 22465 22470	Sam68
+#1002	AnnotatorNotes T1002	EG:20218
+T1003	PR 22465 22470	Sam68
+#1003	AnnotatorNotes T1003	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1004	sup 22470 22473	+/+
+#1004	AnnotatorNotes T1004	sup (null)
+T1005	SO 22470 22471	+
+#1005	AnnotatorNotes T1005	SO:0000817 (wild_type)
+T1006	SO 22472 22473	+
+#1006	AnnotatorNotes T1006	SO:0000817 (wild_type)
+T1007	SO 22491 22500	wild-type
+#1007	AnnotatorNotes T1007	SO:0000817 (wild_type)
+T1008	NCBITaxon 22570 22577	mammals
+#1008	AnnotatorNotes T1008	NCBITaxon:40674 (Mammalia)
+T1009	EntrezGene 22589 22594	Sam68
+#1009	AnnotatorNotes T1009	EG:20218
+T1010	PR 22589 22594	Sam68
+#1010	AnnotatorNotes T1010	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1011	sup 22594 22597	−/−
+#1011	AnnotatorNotes T1011	sup (null)
+T1012	NCBITaxon 22598 22605	animals
+#1012	AnnotatorNotes T1012	NCBITaxon:33208 (Metazoa)
+T1013	GO_BP 22637 22642	aging
+#1013	AnnotatorNotes T1013	GO:0007568 (aging)
+T1014	GO_BP 22648 22689	differentiation of bone marrow stem cells
+#1014	AnnotatorNotes T1014	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T1015	CL 22679 22689	stem cells
+#1015	AnnotatorNotes T1015	CL:0000034 (stem cell)
+T1016	GO_CC 22684 22689	cells
+#1016	AnnotatorNotes T1016	GO:0005623 (cell)
+T1017	EntrezGene 22704 22709	Sam68
+#1017	AnnotatorNotes T1017	EG:20218
+T1018	PR 22704 22709	Sam68
+#1018	AnnotatorNotes T1018	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1019	sup 22709 22712	−/−
+#1019	AnnotatorNotes T1019	sup (null)
+T1020	NCBITaxon 22713 22717	mice
+#1020	AnnotatorNotes T1020	NCBITaxon:10088 (Mus)
+T1021	CL 22732 22775	mesenchymal multipotential progenitor cells
+#1021	AnnotatorNotes T1021	"mesenchymal .. cells" CL:0000134 (mesenchymal cell)
+T1022	CL 22744 22775	multipotential progenitor cells
+#1022	AnnotatorNotes T1022	CL:0000048 (multi fate stem cell)
+T1023	GO_CC 22770 22775	cells
+#1023	AnnotatorNotes T1023	GO:0005623 (cell)
+T1024	EntrezGene 22799 22804	Sam68
+#1024	AnnotatorNotes T1024	EG:20218
+T1025	PR 22799 22804	Sam68
+#1025	AnnotatorNotes T1025	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1026	CL 22841 22851	osteoblast
+#1026	AnnotatorNotes T1026	CL:0000062 (osteoblast)
+T1027	GO_BP 22852 22867	differentiation
+#1027	AnnotatorNotes T1027	GO:0030154 (cell differentiation)
+T1028	EntrezGene 22913 22918	Sam68
+#1028	AnnotatorNotes T1028	EG:20218
+T1029	PR 22913 22918	Sam68
+#1029	AnnotatorNotes T1029	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1030	GO_BP 22919 22927	enhances
+#1030	AnnotatorNotes T1030	GO:0048518 (positive regulation of biological process)
+T1031	CL 22928 22938	osteoblast
+#1031	AnnotatorNotes T1031	CL:0000062 (osteoblast)
+T1032	GO_BP 22939 22954	differentiation
+#1032	AnnotatorNotes T1032	GO:0030154 (cell differentiation)
+T1033	EntrezGene 23006 23011	Sam68
+#1033	AnnotatorNotes T1033	EG:20218
+T1034	PR 23006 23011	Sam68
+#1034	AnnotatorNotes T1034	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1035	sup 23011 23014	−/−
+#1035	AnnotatorNotes T1035	sup (null)
+T1036	NCBITaxon 23015 23022	animals
+#1036	AnnotatorNotes T1036	NCBITaxon:33208 (Metazoa)
+T1037	CL 23065 23074	adipocyte
+#1037	AnnotatorNotes T1037	CL:0000136 (fat cell)
+T1038	GO_BP 23075 23090	differentiation
+#1038	AnnotatorNotes T1038	GO:0030154 (cell differentiation)
+T1039	EntrezGene 23105 23110	Sam68
+#1039	AnnotatorNotes T1039	EG:20218
+T1040	PR 23105 23110	Sam68
+#1040	AnnotatorNotes T1040	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1041	sup 23110 23113	+/+
+#1041	AnnotatorNotes T1041	sup (null)
+T1042	SO 23110 23111	+
+#1042	AnnotatorNotes T1042	SO:0000817 (wild_type)
+T1043	SO 23112 23113	+
+#1043	AnnotatorNotes T1043	SO:0000817 (wild_type)
+T1044	EntrezGene 23171 23176	Sam68
+#1044	AnnotatorNotes T1044	EG:20218
+T1045	PR 23171 23176	Sam68
+#1045	AnnotatorNotes T1045	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1046	GO_BP 23183 23191	regulate
+#1046	AnnotatorNotes T1046	GO:0065007 (biological regulation)
+T1047	GO_BP 23227 23237	osteogenic
+#1047	AnnotatorNotes T1047	GO:0001503 (ossification)
+T1048	GO_BP 23238 23253	differentiation
+#1048	AnnotatorNotes T1048	GO:0030154 (cell differentiation)
+T1049	EntrezGene 23287 23292	Sam68
+#1049	AnnotatorNotes T1049	EG:20218
+T1050	PR 23287 23292	Sam68
+#1050	AnnotatorNotes T1050	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1051	CHEBI 23293 23300	protein
+#1051	AnnotatorNotes T1051	CHEBI:36080 (proteins)
+T1052	GO_BP 23301 23311	expression
+#1052	AnnotatorNotes T1052	GO:0010467 (gene expression)
+T1053	GO_BP 23340 23350	developing
+#1053	AnnotatorNotes T1053	GO:0032502 (developmental process)
+T1054	NCBITaxon 23351 23356	mouse
+#1054	AnnotatorNotes T1054	NCBITaxon:10088 (Mus)
+T1055	PR 23418 23423	Sam68
+#1055	AnnotatorNotes T1055	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1056	CHEBI 23424 23428	mRNA
+#1056	AnnotatorNotes T1056	CHEBI:33699 (messenger RNA)
+T1057	SO 23424 23428	mRNA
+#1057	AnnotatorNotes T1057	SO:0000234 (mRNA)
+T1058	GO_BP 23442 23451	expressed
+#1058	AnnotatorNotes T1058	GO:0010467 (gene expression)
+T1059	EntrezGene 23469 23474	Sam68
+#1059	AnnotatorNotes T1059	EG:20218
+T1060	PR 23469 23474	Sam68
+#1060	AnnotatorNotes T1060	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1061	GO_BP 23616 23626	expression
+#1061	AnnotatorNotes T1061	GO:0010467 (gene expression)
+T1062	PR 23686 23691	Sam68
+#1062	AnnotatorNotes T1062	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1063	CL 23695 23702	neurons
+#1063	AnnotatorNotes T1063	CL:0000540 (neuron)
+T1064	PR 23734 23748	intestinal SIK
+#1064	AnnotatorNotes T1064	PR:000013434 (tyrosine-protein kinase 6)
+T1065	PR 23749 23768	breast tumor kinase
+#1065	AnnotatorNotes T1065	PR:000013434 (tyrosine-protein kinase 6)
+T1066	GO_MF 23762 23768	kinase
+#1066	AnnotatorNotes T1066	GO:0016301 (kinase activity)
+T1067	independent_continuant 23762 23768	kinase
+#1067	AnnotatorNotes T1067	independent_continuant
+T1068	GO_BP 23779 23789	expression
+#1068	AnnotatorNotes T1068	GO:0010467 (gene expression)
+T1069	PR 23793 23798	Sam68
+#1069	AnnotatorNotes T1069	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1070	GO_BP 23818 23823	aging
+#1070	AnnotatorNotes T1070	GO:0007568 (aging)
+T1071	CL 23836 23849	stromal cells
+#1071	AnnotatorNotes T1071	CL:0000499 (stromal cell)
+T1072	GO_CC 23844 23849	cells
+#1072	AnnotatorNotes T1072	GO:0005623 (cell)
+T1073	GO_BP 23856 23868	senescencing
+#1073	AnnotatorNotes T1073	GO:0007569 (cell aging)
+T1074	CL 23875 23880	cells
+#1074	AnnotatorNotes T1074	CL:0000000 (cell)
+T1075	GO_CC 23875 23880	cells
+#1075	AnnotatorNotes T1075	GO:0005623 (cell)
+T1076	EntrezGene 23917 23922	Sam68
+#1076	AnnotatorNotes T1076	EG:20218
+T1077	PR 23917 23922	Sam68
+#1077	AnnotatorNotes T1077	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1078	CL 23926 23938	chondrocytes
+#1078	AnnotatorNotes T1078	CL:0000138 (chondrocyte)
+T1079	CL 23940 23951	osteoblasts
+#1079	AnnotatorNotes T1079	CL:0000062 (osteoblast)
+T1080	CL 23956 23967	osteoclasts
+#1080	AnnotatorNotes T1080	CL:0000092 (osteoclast)
+T1081	GO_BP 23971 23981	developing
+#1081	AnnotatorNotes T1081	GO:0032502 (developmental process)
+T1082	CHEBI 24034 24041	protein
+#1082	AnnotatorNotes T1082	CHEBI:36080 (proteins)
+T1083	GO_BP 24045 24065	skeletal development
+#1083	AnnotatorNotes T1083	GO:0001501 (skeletal development)
+T1084	EntrezGene 24072 24077	Sam68
+#1084	AnnotatorNotes T1084	EG:20218
+T1085	PR 24072 24077	Sam68
+#1085	AnnotatorNotes T1085	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1086	sup 24077 24080	−/−
+#1086	AnnotatorNotes T1086	sup (null)
+T1087	NCBITaxon 24081 24085	mice
+#1087	AnnotatorNotes T1087	NCBITaxon:10088 (Mus)
+T1088	GO_BP 24091 24100	generated
+#1088	AnnotatorNotes T1088	GO:0000003 (reproduction)
+T1089	SO 24164 24170	domain
+#1089	AnnotatorNotes T1089	SO:0000417 (polypeptide_domain)
+T1090	SO 24175 24182	deleted
+#1090	AnnotatorNotes T1090	SO:0000045 (delete)
+T1091	EntrezGene 24218 24223	Sam68
+#1091	AnnotatorNotes T1091	EG:20218
+T1092	PR 24218 24223	Sam68
+#1092	AnnotatorNotes T1092	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1093	sup 24223 24226	−/−
+#1093	AnnotatorNotes T1093	sup (null)
+T1094	NCBITaxon 24227 24231	mice
+#1094	AnnotatorNotes T1094	NCBITaxon:10088 (Mus)
+T1095	EntrezGene 24324 24329	Sam68
+#1095	AnnotatorNotes T1095	EG:20218
+T1096	PR 24324 24329	Sam68
+#1096	AnnotatorNotes T1096	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1097	GO_BP 24397 24408	development
+#1097	AnnotatorNotes T1097	GO:0032502 (developmental process)
+T1098	PR 24417 24422	SLM-1
+#1098	AnnotatorNotes T1098	PR:000009280 (KH domain-containing, RNA-binding, signal transduction-associated protein 2)
+T1099	PR 24427 24432	SLM-2
+#1099	AnnotatorNotes T1099	PR:000009281 (KH domain-containing, RNA-binding, signal transduction-associated protein 3)
+T1100	EntrezGene 24454 24459	Sam68
+#1100	AnnotatorNotes T1100	EG:20218
+T1101	PR 24454 24459	Sam68
+#1101	AnnotatorNotes T1101	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1102	GO_BP 24483 24504	embryonic development
+#1102	AnnotatorNotes T1102	GO:0009790 (embryonic development)
+T1103	EntrezGene 24533 24538	Sam68
+#1103	AnnotatorNotes T1103	EG:20218
+T1104	PR 24533 24538	Sam68
+#1104	AnnotatorNotes T1104	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1105	sup 24538 24541	−/−
+#1105	AnnotatorNotes T1105	sup (null)
+T1106	EntrezGene 24555 24560	Sam68
+#1106	AnnotatorNotes T1106	EG:20218
+T1107	PR 24555 24560	Sam68
+#1107	AnnotatorNotes T1107	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1108	sup 24560 24563	+/-
+#1108	AnnotatorNotes T1108	sup (null)
+T1109	SO 24560 24561	+
+#1109	AnnotatorNotes T1109	SO:0000817 (wild_type)
+T1110	EntrezGene 24591 24596	Sam68
+#1110	AnnotatorNotes T1110	EG:20218
+T1111	PR 24591 24596	Sam68
+#1111	AnnotatorNotes T1111	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1112	sup 24596 24599	+/-
+#1112	AnnotatorNotes T1112	sup (null)
+T1113	SO 24596 24597	+
+#1113	AnnotatorNotes T1113	SO:0000817 (wild_type)
+T1114	GO_BP 24661 24667	detect
+#1114	AnnotatorNotes T1114	GO:0007600 (sensory perception)
+T1115	EntrezGene 24717 24722	Sam68
+#1115	AnnotatorNotes T1115	EG:20218
+T1116	PR 24717 24722	Sam68
+#1116	AnnotatorNotes T1116	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1117	sup 24722 24725	−/−
+#1117	AnnotatorNotes T1117	sup (null)
+T1118	NCBITaxon 24726 24730	mice
+#1118	AnnotatorNotes T1118	NCBITaxon:10088 (Mus)
+T1119	EntrezGene 24787 24792	Sam68
+#1119	AnnotatorNotes T1119	EG:20218
+T1120	PR 24787 24792	Sam68
+#1120	AnnotatorNotes T1120	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1121	sup 24792 24795	−/−
+#1121	AnnotatorNotes T1121	sup (null)
+T1122	EntrezGene 24823 24828	Sam68
+#1122	AnnotatorNotes T1122	EG:20218
+T1123	PR 24823 24828	Sam68
+#1123	AnnotatorNotes T1123	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1124	sup 24828 24831	−/−
+#1124	AnnotatorNotes T1124	sup (null)
+T1125	EntrezGene 24944 24948	FosB
+#1125	AnnotatorNotes T1125	EG:14282
+T1126	PR 24944 24948	FosB
+#1126	AnnotatorNotes T1126	PR:000007598 (protein fosB)
+T1127	sup 24948 24951	−/−
+#1127	AnnotatorNotes T1127	sup (null)
+T1128	NCBITaxon 24952 24956	mice
+#1128	AnnotatorNotes T1128	NCBITaxon:10088 (Mus)
+T1129	GO_BP 25001 25006	aging
+#1129	AnnotatorNotes T1129	GO:0007568 (aging)
+T1130	EntrezGene 25007 25012	Sam68
+#1130	AnnotatorNotes T1130	EG:20218
+T1131	PR 25007 25012	Sam68
+#1131	AnnotatorNotes T1131	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1132	sup 25012 25015	−/−
+#1132	AnnotatorNotes T1132	sup (null)
+T1133	EntrezGene 25050 25056	leptin
+#1133	AnnotatorNotes T1133	EG:16846
+T1134	PR 25050 25056	leptin
+#1134	AnnotatorNotes T1134	PR:000009758 (leptin)
+T1135	GO_BP 25077 25081	aged
+#1135	AnnotatorNotes T1135	GO:0007568 (aging)
+T1136	EntrezGene 25082 25087	Sam68
+#1136	AnnotatorNotes T1136	EG:20218
+T1137	PR 25082 25087	Sam68
+#1137	AnnotatorNotes T1137	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1138	sup 25087 25090	−/−
+#1138	AnnotatorNotes T1138	sup (null)
+T1139	GO_BP 25104 25108	aged
+#1139	AnnotatorNotes T1139	GO:0007568 (aging)
+T1140	EntrezGene 25109 25114	Sam68
+#1140	AnnotatorNotes T1140	EG:20218
+T1141	PR 25109 25114	Sam68
+#1141	AnnotatorNotes T1141	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1142	sup 25114 25117	−/−
+#1142	AnnotatorNotes T1142	sup (null)
+T1143	GO_BP 25257 25262	aging
+#1143	AnnotatorNotes T1143	GO:0007568 (aging)
+T1144	EntrezGene 25338 25344	leptin
+#1144	AnnotatorNotes T1144	EG:16846
+T1145	PR 25338 25344	leptin
+#1145	AnnotatorNotes T1145	PR:000009758 (leptin)
+T1146	EntrezGene 25491 25496	Sam68
+#1146	AnnotatorNotes T1146	EG:20218
+T1147	PR 25491 25496	Sam68
+#1147	AnnotatorNotes T1147	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1148	sup 25496 25499	+/+
+#1148	AnnotatorNotes T1148	sup (null)
+T1149	SO 25496 25497	+
+#1149	AnnotatorNotes T1149	SO:0000817 (wild_type)
+T1150	SO 25498 25499	+
+#1150	AnnotatorNotes T1150	SO:0000817 (wild_type)
+T1151	EntrezGene 25504 25509	Sam68
+#1151	AnnotatorNotes T1151	EG:20218
+T1152	PR 25504 25509	Sam68
+#1152	AnnotatorNotes T1152	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1153	sup 25509 25512	−/−
+#1153	AnnotatorNotes T1153	sup (null)
+T1154	NCBITaxon 25513 25517	mice
+#1154	AnnotatorNotes T1154	NCBITaxon:10088 (Mus)
+T1155	GO_BP 25557 25561	aged
+#1155	AnnotatorNotes T1155	GO:0007568 (aging)
+T1156	EntrezGene 25562 25567	Sam68
+#1156	AnnotatorNotes T1156	EG:20218
+T1157	PR 25562 25567	Sam68
+#1157	AnnotatorNotes T1157	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1158	sup 25567 25570	−/−
+#1158	AnnotatorNotes T1158	sup (null)
+T1159	NCBITaxon 25571 25575	mice
+#1159	AnnotatorNotes T1159	NCBITaxon:10088 (Mus)
+T1160	CL 25674 25684	osteoblast
+#1160	AnnotatorNotes T1160	CL:0000062 (osteoblast)
+T1161	CL 25689 25699	osteoclast
+#1161	AnnotatorNotes T1161	CL:0000092 (osteoclast)
+T1162	EntrezGene 25737 25742	Sam68
+#1162	AnnotatorNotes T1162	EG:20218
+T1163	PR 25737 25742	Sam68
+#1163	AnnotatorNotes T1163	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1164	GO_BP 25743 25753	regulatory
+#1164	AnnotatorNotes T1164	GO:0065007 (biological regulation)
+T1165	CHEBI 25754 25761	protein
+#1165	AnnotatorNotes T1165	CHEBI:36080 (proteins)
+T1166	EntrezGene 25763 25766	Src
+#1166	AnnotatorNotes T1166	EG:20779
+T1167	EntrezGene 25838 25843	Sam68
+#1167	AnnotatorNotes T1167	EG:20218
+T1168	PR 25838 25843	Sam68
+#1168	AnnotatorNotes T1168	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1169	sup 25843 25846	−/−
+#1169	AnnotatorNotes T1169	sup (null)
+T1170	CL 25847 25858	osteoclasts
+#1170	AnnotatorNotes T1170	CL:0000092 (osteoclast)
+T1171	EntrezGene 25872 25891	Src tyrosine kinase
+#1171	AnnotatorNotes T1171	EG:20779
+T1172	GO_MF 25876 25891	tyrosine kinase
+#1172	AnnotatorNotes T1172	GO:0004713 (protein-tyrosine kinase activity)
+T1173	independent_continuant 25876 25891	tyrosine kinase
+#1173	AnnotatorNotes T1173	independent_continuant
+T1174	CHEBI 25876 25884	tyrosine
+#1174	AnnotatorNotes T1174	CHEBI:32789 (tyrosine residue)
+T1175	SO 25876 25884	tyrosine
+#1175	AnnotatorNotes T1175	SO:0001446 (tyrosine)
+T1176	GO_BP 25920 25935	bone remodeling
+#1176	AnnotatorNotes T1176	GO:0046849 (bone remodeling)
+T1177	EntrezGene 25941 25944	Src
+#1177	AnnotatorNotes T1177	EG:20779
+T1178	sup 25944 25947	−/−
+#1178	AnnotatorNotes T1178	sup (null)
+T1179	NCBITaxon 25948 25952	mice
+#1179	AnnotatorNotes T1179	NCBITaxon:10088 (Mus)
+T1180	GO_BP 25953 25957	died
+#1180	AnnotatorNotes T1180	GO:0016265 (death)
+T1181	CL 26057 26067	osteoclast
+#1181	AnnotatorNotes T1181	CL:0000092 (osteoclast)
+T1182	CL 26115 26126	osteoclasts
+#1182	AnnotatorNotes T1182	CL:0000092 (osteoclast)
+T1183	EntrezGene 26142 26147	Sam68
+#1183	AnnotatorNotes T1183	EG:20218
+T1184	PR 26142 26147	Sam68
+#1184	AnnotatorNotes T1184	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1185	sup 26147 26150	+/+
+#1185	AnnotatorNotes T1185	sup (null)
+T1186	SO 26147 26148	+
+#1186	AnnotatorNotes T1186	SO:0000817 (wild_type)
+T1187	SO 26149 26150	+
+#1187	AnnotatorNotes T1187	SO:0000817 (wild_type)
+T1188	EntrezGene 26155 26160	Sam68
+#1188	AnnotatorNotes T1188	EG:20218
+T1189	PR 26155 26160	Sam68
+#1189	AnnotatorNotes T1189	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1190	sup 26160 26163	−/−
+#1190	AnnotatorNotes T1190	sup (null)
+T1191	NCBITaxon 26164 26168	mice
+#1191	AnnotatorNotes T1191	NCBITaxon:10088 (Mus)
+T1192	GO_BP 26212 26222	resorptive
+#1192	AnnotatorNotes T1192	GO:0045453 (bone resorption)
+T1193	EntrezGene 26247 26252	Sam68
+#1193	AnnotatorNotes T1193	EG:20218
+T1194	PR 26247 26252	Sam68
+#1194	AnnotatorNotes T1194	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1195	sup 26252 26255	−/−
+#1195	AnnotatorNotes T1195	sup (null)
+T1196	CL 26256 26267	osteoclasts
+#1196	AnnotatorNotes T1196	CL:0000092 (osteoclast)
+T1197	EntrezGene 26290 26295	Sam68
+#1197	AnnotatorNotes T1197	EG:20218
+T1198	PR 26290 26295	Sam68
+#1198	AnnotatorNotes T1198	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1199	sup 26295 26298	+/+
+#1199	AnnotatorNotes T1199	sup (null)
+T1200	SO 26295 26296	+
+#1200	AnnotatorNotes T1200	SO:0000817 (wild_type)
+T1201	SO 26297 26298	+
+#1201	AnnotatorNotes T1201	SO:0000817 (wild_type)
+T1202	CL 26299 26310	osteoclasts
+#1202	AnnotatorNotes T1202	CL:0000092 (osteoclast)
+T1203	GO_BP 26407 26417	metabolism
+#1203	AnnotatorNotes T1203	GO:0008152 (metabolic process)
+T1204	EntrezGene 26434 26439	Sam68
+#1204	AnnotatorNotes T1204	EG:20218
+T1205	PR 26434 26439	Sam68
+#1205	AnnotatorNotes T1205	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1206	sup 26439 26442	−/−
+#1206	AnnotatorNotes T1206	sup (null)
+T1207	NCBITaxon 26443 26447	mice
+#1207	AnnotatorNotes T1207	NCBITaxon:10088 (Mus)
+T1208	EntrezGene 26506 26511	Sam68
+#1208	AnnotatorNotes T1208	EG:20218
+T1209	PR 26506 26511	Sam68
+#1209	AnnotatorNotes T1209	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1210	sup 26511 26514	−/−
+#1210	AnnotatorNotes T1210	sup (null)
+T1211	NCBITaxon 26515 26519	mice
+#1211	AnnotatorNotes T1211	NCBITaxon:10088 (Mus)
+T1212	GO_BP 26552 26567	bone resorption
+#1212	AnnotatorNotes T1212	GO:0045453 (bone resorption)
+T1213	SO 26582 26591	wild-type
+#1213	AnnotatorNotes T1213	SO:0000817 (wild_type)
+T1214	GO_BP 26640 26655	bone resorption
+#1214	AnnotatorNotes T1214	GO:0045453 (bone resorption)
+T1215	CL 26677 26687	osteoclast
+#1215	AnnotatorNotes T1215	CL:0000092 (osteoclast)
+T1216	EntrezGene 26776 26781	Sam68
+#1216	AnnotatorNotes T1216	EG:20218
+T1217	PR 26776 26781	Sam68
+#1217	AnnotatorNotes T1217	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1218	sup 26781 26784	−/−
+#1218	AnnotatorNotes T1218	sup (null)
+T1219	NCBITaxon 26785 26789	mice
+#1219	AnnotatorNotes T1219	NCBITaxon:10088 (Mus)
+T1220	EntrezGene 26883 26888	Sam68
+#1220	AnnotatorNotes T1220	EG:20218
+T1221	PR 26883 26888	Sam68
+#1221	AnnotatorNotes T1221	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1222	sup 26888 26891	−/−
+#1222	AnnotatorNotes T1222	sup (null)
+T1223	NCBITaxon 26892 26896	mice
+#1223	AnnotatorNotes T1223	NCBITaxon:10088 (Mus)
+T1224	CL 26897 26907	osteoclast
+#1224	AnnotatorNotes T1224	CL:0000092 (osteoclast)
+T1225	GO_BP 27040 27092	differentiation of primary bone marrow stromal cells
+#1225	AnnotatorNotes T1225	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T1226	CL 27079 27092	stromal cells
+#1226	AnnotatorNotes T1226	CL:0000499 (stromal cell)
+T1227	GO_CC 27087 27092	cells
+#1227	AnnotatorNotes T1227	GO:0005623 (cell)
+T1228	EntrezGene 27109 27114	Sam68
+#1228	AnnotatorNotes T1228	EG:20218
+T1229	PR 27109 27114	Sam68
+#1229	AnnotatorNotes T1229	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1230	sup 27114 27117	+/+
+#1230	AnnotatorNotes T1230	sup (null)
+T1231	SO 27114 27115	+
+#1231	AnnotatorNotes T1231	SO:0000817 (wild_type)
+T1232	SO 27116 27117	+
+#1232	AnnotatorNotes T1232	SO:0000817 (wild_type)
+T1233	EntrezGene 27122 27127	Sam68
+#1233	AnnotatorNotes T1233	EG:20218
+T1234	PR 27122 27127	Sam68
+#1234	AnnotatorNotes T1234	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1235	sup 27127 27130	−/−
+#1235	AnnotatorNotes T1235	sup (null)
+T1236	NCBITaxon 27131 27135	mice
+#1236	AnnotatorNotes T1236	NCBITaxon:10088 (Mus)
+T1237	CL 27146 27156	osteoblast
+#1237	AnnotatorNotes T1237	CL:0000062 (osteoblast)
+T1238	GO_BP 27177 27187	osteogenic
+#1238	AnnotatorNotes T1238	GO:0001503 (ossification)
+T1239	CL 27217 27222	cells
+#1239	AnnotatorNotes T1239	CL:0000000 (cell)
+T1240	GO_CC 27217 27222	cells
+#1240	AnnotatorNotes T1240	GO:0005623 (cell)
+T1241	EntrezGene 27240 27245	Sam68
+#1241	AnnotatorNotes T1241	EG:20218
+T1242	PR 27240 27245	Sam68
+#1242	AnnotatorNotes T1242	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1243	sup 27245 27248	−/−
+#1243	AnnotatorNotes T1243	sup (null)
+T1244	NCBITaxon 27249 27253	mice
+#1244	AnnotatorNotes T1244	NCBITaxon:10088 (Mus)
+T1245	CL 27351 27364	stromal cells
+#1245	AnnotatorNotes T1245	CL:0000499 (stromal cell)
+T1246	GO_CC 27359 27364	cells
+#1246	AnnotatorNotes T1246	GO:0005623 (cell)
+T1247	GO_BP 27370 27374	aged
+#1247	AnnotatorNotes T1247	GO:0007568 (aging)
+T1248	EntrezGene 27375 27380	Sam68
+#1248	AnnotatorNotes T1248	EG:20218
+T1249	PR 27375 27380	Sam68
+#1249	AnnotatorNotes T1249	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1250	sup 27380 27383	−/−
+#1250	AnnotatorNotes T1250	sup (null)
+T1251	NCBITaxon 27384 27388	mice
+#1251	AnnotatorNotes T1251	NCBITaxon:10088 (Mus)
+T1252	CL 27436 27479	mesenchymal multipotential progenitor cells
+#1252	AnnotatorNotes T1252	"mesenchymal .. cells" CL:0000134 (mesenchymal cell)
+T1253	CL 27448 27479	multipotential progenitor cells
+#1253	AnnotatorNotes T1253	CL:0000048 (multi fate stem cell)
+T1254	GO_CC 27474 27479	cells
+#1254	AnnotatorNotes T1254	GO:0005623 (cell)
+T1255	EntrezGene 27503 27508	Sam68
+#1255	AnnotatorNotes T1255	EG:20218
+T1256	PR 27503 27508	Sam68
+#1256	AnnotatorNotes T1256	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1257	GO_BP 27521 27535	differentiated
+#1257	AnnotatorNotes T1257	GO:0030154 (cell differentiation)
+T1258	CL 27541 27552	osteoblasts
+#1258	AnnotatorNotes T1258	CL:0000062 (osteoblast)
+T1259	PR 27558 27562	BMP2
+#1259	AnnotatorNotes T1259	PR:000000164 (BMP2)
+T1260	GO_BP 27582 27586	aged
+#1260	AnnotatorNotes T1260	GO:0007568 (aging)
+T1261	EntrezGene 27587 27592	Sam68
+#1261	AnnotatorNotes T1261	EG:20218
+T1262	PR 27587 27592	Sam68
+#1262	AnnotatorNotes T1262	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1263	sup 27592 27595	−/−
+#1263	AnnotatorNotes T1263	sup (null)
+T1264	NCBITaxon 27596 27600	mice
+#1264	AnnotatorNotes T1264	NCBITaxon:10088 (Mus)
+T1265	GO_BP 27608 27615	develop
+#1265	AnnotatorNotes T1265	GO:0032502 (developmental process)
+T1266	EntrezGene 27661 27666	Sam68
+#1266	AnnotatorNotes T1266	EG:20218
+T1267	PR 27661 27666	Sam68
+#1267	AnnotatorNotes T1267	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1268	sup 27667 27670	−/−
+#1268	AnnotatorNotes T1268	sup (null)
+T1269	NCBITaxon 27671 27675	mice
+#1269	AnnotatorNotes T1269	NCBITaxon:10088 (Mus)
+T1270	CL 27690 27699	adipocyte
+#1270	AnnotatorNotes T1270	CL:0000136 (fat cell)
+T1271	GO_BP 27700 27715	differentiation
+#1271	AnnotatorNotes T1271	GO:0030154 (cell differentiation)
+T1272	EntrezGene 27731 27736	Sam68
+#1272	AnnotatorNotes T1272	EG:20218
+T1273	PR 27731 27736	Sam68
+#1273	AnnotatorNotes T1273	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1274	GO_BP 27737 27746	regulates
+#1274	AnnotatorNotes T1274	GO:0065007 (biological regulation)
+T1275	CL 27752 27761	adipocyte
+#1275	AnnotatorNotes T1275	CL:0000136 (fat cell)
+T1276	CL 27766 27776	osteoblast
+#1276	AnnotatorNotes T1276	CL:0000062 (osteoblast)
+T1277	GO_BP 27777 27792	differentiation
+#1277	AnnotatorNotes T1277	GO:0030154 (cell differentiation)
+T1278	EntrezGene 27818 27823	Sam68
+#1278	AnnotatorNotes T1278	EG:20218
+T1279	PR 27818 27823	Sam68
+#1279	AnnotatorNotes T1279	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1280	GO_MF 27837 27848	RNA binding
+#1280	AnnotatorNotes T1280	GO:0003723 (RNA binding)
+T1281	SO 27837 27840	RNA
+#1281	AnnotatorNotes T1281	SO:0000356 (RNA)
+T1282	CHEBI 27849 27856	protein
+#1282	AnnotatorNotes T1282	CHEBI:36080 (proteins)
+T1283	GO_BP 27860 27868	regulate
+#1283	AnnotatorNotes T1283	GO:0065007 (biological regulation)
+T1284	CL 27869 27885	mesenchymal cell
+#1284	AnnotatorNotes T1284	CL:0000134 (mesenchymal cell)
+T1285	GO_BP 27881 27901	cell differentiation
+#1285	AnnotatorNotes T1285	GO:0030154 (cell differentiation)
+T1286	GO_CC 27881 27885	cell
+#1286	AnnotatorNotes T1286	GO:0005623 (cell)
+T1287	SO 27953 27956	RNA
+#1287	AnnotatorNotes T1287	SO:0000356 (RNA)
+T1288	GO_BP 27973 27982	regulates
+#1288	AnnotatorNotes T1288	GO:0065007 (biological regulation)
+T1289	CL 28018 28028	osteoblast
+#1289	AnnotatorNotes T1289	CL:0000062 (osteoblast)
+T1290	EntrezGene 28052 28055	Src
+#1290	AnnotatorNotes T1290	EG:20779
+T1291	sup 28055 28058	−/−
+#1291	AnnotatorNotes T1291	sup (null)
+T1292	NCBITaxon 28059 28063	mice
+#1292	AnnotatorNotes T1292	NCBITaxon:10088 (Mus)
+T1293	EntrezGene 28133 28138	Sam68
+#1293	AnnotatorNotes T1293	EG:20218
+T1294	PR 28133 28138	Sam68
+#1294	AnnotatorNotes T1294	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1295	sup 28138 28141	−/−
+#1295	AnnotatorNotes T1295	sup (null)
+T1296	NCBITaxon 28142 28146	mice
+#1296	AnnotatorNotes T1296	NCBITaxon:10088 (Mus)
+T1297	GO_BP 28172 28181	regulated
+#1297	AnnotatorNotes T1297	GO:0065007 (biological regulation)
+T1298	EntrezGene 28185 28188	Src
+#1298	AnnotatorNotes T1298	EG:20779
+T1299	PR 28212 28218	leptin
+#1299	AnnotatorNotes T1299	PR:000009758 (leptin)
+T1300	GO_BP 28219 28228	regulates
+#1300	AnnotatorNotes T1300	GO:0065007 (biological regulation)
+T1301	GO_BP 28229 28244	bone resorption
+#1301	AnnotatorNotes T1301	GO:0045453 (bone resorption)
+T1302	CL 28318 28329	osteoblasts
+#1302	AnnotatorNotes T1302	CL:0000062 (osteoblast)
+T1303	GO_BP 28374 28381	release
+#1303	AnnotatorNotes T1303	GO:0046903 (secretion)
+T1304	GO_MF 28385 28399	growth factors
+#1304	AnnotatorNotes T1304	GO:0008083 (growth factor activity)
+T1305	independent_continuant 28385 28399	growth factors
+#1305	AnnotatorNotes T1305	independent_continuant
+T1306	GO_BP 28385 28391	growth
+#1306	AnnotatorNotes T1306	GO:0040007 (growth)
+T1307	PR 28410 28415	RANKL
+#1307	AnnotatorNotes T1307	PR:000002107 (tumor necrosis factor ligand superfamily member 11)
+T1308	CL 28432 28443	osteoclasts
+#1308	AnnotatorNotes T1308	CL:0000092 (osteoclast)
+T1309	EntrezGene 28481 28487	leptin
+#1309	AnnotatorNotes T1309	EG:16846
+T1310	PR 28481 28487	leptin
+#1310	AnnotatorNotes T1310	PR:000009758 (leptin)
+T1311	GO_BP 28498 28502	aged
+#1311	AnnotatorNotes T1311	GO:0007568 (aging)
+T1312	EntrezGene 28503 28508	Sam68
+#1312	AnnotatorNotes T1312	EG:20218
+T1313	PR 28503 28508	Sam68
+#1313	AnnotatorNotes T1313	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1314	sup 28508 28511	−/−
+#1314	AnnotatorNotes T1314	sup (null)
+T1315	NCBITaxon 28512 28516	mice
+#1315	AnnotatorNotes T1315	NCBITaxon:10088 (Mus)
+T1316	NCBITaxon 28542 28546	mice
+#1316	AnnotatorNotes T1316	NCBITaxon:10088 (Mus)
+T1317	GO_BP 28591 28595	aged
+#1317	AnnotatorNotes T1317	GO:0007568 (aging)
+T1318	GO_BP 28643 28669	leptin-sympathetic pathway
+#1318	AnnotatorNotes T1318	GO:0033210 (leptin-mediated signaling pathway)
+T1319	EntrezGene 28643 28649	leptin
+#1319	AnnotatorNotes T1319	EG:16846
+T1320	PR 28643 28649	leptin
+#1320	AnnotatorNotes T1320	PR:000009758 (leptin)
+T1321	EntrezGene 28686 28691	Sam68
+#1321	AnnotatorNotes T1321	EG:20218
+T1322	PR 28686 28691	Sam68
+#1322	AnnotatorNotes T1322	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1323	sup 28691 28694	−/−
+#1323	AnnotatorNotes T1323	sup (null)
+T1324	NCBITaxon 28695 28699	mice
+#1324	AnnotatorNotes T1324	NCBITaxon:10088 (Mus)
+T1325	EntrezGene 28725 28731	leptin
+#1325	AnnotatorNotes T1325	EG:16846
+T1326	PR 28725 28731	leptin
+#1326	AnnotatorNotes T1326	PR:000009758 (leptin)
+T1327	EntrezGene 28784 28789	Sam68
+#1327	AnnotatorNotes T1327	EG:20218
+T1328	PR 28784 28789	Sam68
+#1328	AnnotatorNotes T1328	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1329	sup 28789 28792	−/−
+#1329	AnnotatorNotes T1329	sup (null)
+T1330	NCBITaxon 28793 28797	mice
+#1330	AnnotatorNotes T1330	NCBITaxon:10088 (Mus)
+T1331	EntrezGene 28827 28832	Sam68
+#1331	AnnotatorNotes T1331	EG:20218
+T1332	PR 28827 28832	Sam68
+#1332	AnnotatorNotes T1332	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1333	GO_BP 28840 28850	regulating
+#1333	AnnotatorNotes T1333	GO:0065007 (biological regulation)
+T1334	GO_BP 28856 28866	metabolism
+#1334	AnnotatorNotes T1334	GO:0008152 (metabolic process)
+T1335	EntrezGene 28911 28916	Sam68
+#1335	AnnotatorNotes T1335	EG:20218
+T1336	PR 28911 28916	Sam68
+#1336	AnnotatorNotes T1336	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1337	EntrezGene 28934 28940	leptin
+#1337	AnnotatorNotes T1337	EG:16846
+T1338	PR 28934 28940	leptin
+#1338	AnnotatorNotes T1338	PR:000009758 (leptin)
+T1339	GO_BP 28964 28979	bone resorption
+#1339	AnnotatorNotes T1339	GO:0045453 (bone resorption)
+T1340	EntrezGene 29038 29043	Sam68
+#1340	AnnotatorNotes T1340	EG:20218
+T1341	PR 29038 29043	Sam68
+#1341	AnnotatorNotes T1341	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1342	CL 29051 29061	osteoblast
+#1342	AnnotatorNotes T1342	CL:0000062 (osteoblast)
+T1343	CL 29075 29084	adipocyte
+#1343	AnnotatorNotes T1343	CL:0000136 (fat cell)
+T1344	GO_BP 29086 29101	differentiation
+#1344	AnnotatorNotes T1344	GO:0030154 (cell differentiation)
+T1345	EntrezGene 29158 29163	Sam68
+#1345	AnnotatorNotes T1345	EG:20218
+T1346	PR 29158 29163	Sam68
+#1346	AnnotatorNotes T1346	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1347	GO_BP 29172 29182	metabolism
+#1347	AnnotatorNotes T1347	GO:0008152 (metabolic process)
+T1348	CL 29199 29220	mesenchymal stem cell
+#1348	AnnotatorNotes T1348	"mesenchymal .. cell" CL:0000134 (mesenchymal cell)
+T1349	CL 29211 29220	stem cell
+#1349	AnnotatorNotes T1349	CL:0000034 (stem cell)
+T1350	GO_BP 29216 29236	cell differentiation
+#1350	AnnotatorNotes T1350	GO:0030154 (cell differentiation)
+T1351	GO_CC 29216 29220	cell
+#1351	AnnotatorNotes T1351	GO:0005623 (cell)
+T1352	EntrezGene 29269 29274	Sam68
+#1352	AnnotatorNotes T1352	EG:20218
+T1353	PR 29269 29274	Sam68
+#1353	AnnotatorNotes T1353	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1354	sup 29274 29277	−/−
+#1354	AnnotatorNotes T1354	sup (null)
+T1355	NCBITaxon 29278 29282	mice
+#1355	AnnotatorNotes T1355	NCBITaxon:10088 (Mus)
+T1356	CHEBI 29294 29304	inhibitors
+#1356	AnnotatorNotes T1356	CHEBI:35222 (inhibitor)
+T1357	EntrezGene 29308 29313	Sam68
+#1357	AnnotatorNotes T1357	EG:10657
+T1358	PR 29308 29313	Sam68
+#1358	AnnotatorNotes T1358	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1359	EntrezGene 29394 29399	Sam68
+#1359	AnnotatorNotes T1359	EG:10657
+T1360	PR 29394 29399	Sam68
+#1360	AnnotatorNotes T1360	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1361	GO_BP 29400 29410	expression
+#1361	AnnotatorNotes T1361	GO:0010467 (gene expression)
+T1362	SO 29437 29446	mutations
+#1362	AnnotatorNotes T1362	SO:0001059 (sequence_alteration)
+T1363	NCBITaxon 29450 29456	humans
+#1363	AnnotatorNotes T1363	NCBITaxon:9606 (Homo sapiens)
+T1364	CL 29496 29505	adipocyte
+#1364	AnnotatorNotes T1364	CL:0000136 (fat cell)
+T1365	GO_BP 29506 29518	accumulation
+#1365	AnnotatorNotes T1365	GO:0008283 (cell proliferation)
+T1366	NCBITaxon 29570 29576	animal
+#1366	AnnotatorNotes T1366	NCBITaxon:33208 (Metazoa)
+T1367	GO_BP 29592 29597	aging
+#1367	AnnotatorNotes T1367	GO:0007568 (aging)
+T1368	NCBITaxon 29791 29795	mice
+#1368	AnnotatorNotes T1368	NCBITaxon:10088 (Mus)
+T1369	GO_BP 29820 29828	pregnant
+#1369	AnnotatorNotes T1369	GO:0007565 (female pregnancy)
+T1370	EntrezGene 30142 30147	Sam68
+#1370	AnnotatorNotes T1370	EG:20218
+T1371	PR 30142 30147	Sam68
+#1371	AnnotatorNotes T1371	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1372	GO_CC 30148 30156	antibody
+#1372	AnnotatorNotes T1372	GO:0019814 (immunoglobulin complex)
+T1373	CHEBI 30193 30199	methyl
+#1373	AnnotatorNotes T1373	CHEBI:32875 (methyl group)
+T1374	NCBITaxon 30229 30233	mice
+#1374	AnnotatorNotes T1374	NCBITaxon:10088 (Mus)
+T1375	CHEBI 30317 30329	tetracycline
+#1375	AnnotatorNotes T1375	CHEBI:27902 (tetracycline)
+T1376	GO_BP 30377 30389	mineralizing
+#1376	AnnotatorNotes T1376	GO:0031214 (biomineral formation)
+T1377	EntrezGene 30788 30792	TRAP
+#1377	AnnotatorNotes T1377	EG:11433
+T1378	PR 30788 30792	TRAP
+#1378	AnnotatorNotes T1378	PR:000001937 (tartrate-resistant acid phosphatase type 5)
+T1379	independent_continuant 30797 30800	ALP
+#1379	AnnotatorNotes T1379	independent_continuant
+T1380	GO_MF 30797 30800	ALP
+#1380	AnnotatorNotes T1380	GO:0004035 (alkaline phosphatase activity)
+T1381	CHEBI 31227 31234	Mineral
+#1381	AnnotatorNotes T1381	CHEBI:46662 (minerals)
+T1382	GO_BP 31251 31261	Generation
+#1382	AnnotatorNotes T1382	GO:0000003 (reproduction)
+T1383	NCBITaxon 31265 31269	mice
+#1383	AnnotatorNotes T1383	NCBITaxon:10088 (Mus)
+T1384	italic 31302 31307	sam68
+#1384	AnnotatorNotes T1384	italic (null)
+T1385	EntrezGene 31302 31307	sam68
+#1385	AnnotatorNotes T1385	EG:20218
+T1386	PR 31302 31307	sam68
+#1386	AnnotatorNotes T1386	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1387	SO 31308 31312	gene
+#1387	AnnotatorNotes T1387	SO:0000704 (gene)
+T1388	SO 31333 31338	clone
+#1388	AnnotatorNotes T1388	SO:0000151 (clone)
+T1389	EntrezGene 31352 31357	Sam68
+#1389	AnnotatorNotes T1389	EG:20218
+T1390	PR 31352 31357	Sam68
+#1390	AnnotatorNotes T1390	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1391	SO 31358 31363	exons
+#1391	AnnotatorNotes T1391	SO:0000147 (exon)
+T1392	SO 31399 31406	genomic
+#1392	AnnotatorNotes T1392	SO:0001026 (genome)
+T1393	EntrezGene 31433 31438	Sam68
+#1393	AnnotatorNotes T1393	EG:20218
+T1394	PR 31433 31438	Sam68
+#1394	AnnotatorNotes T1394	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1395	SO 31439 31443	cDNA
+#1395	AnnotatorNotes T1395	SO:0000756 (cDNA)
+T1396	SO 31449 31454	probe
+#1396	AnnotatorNotes T1396	SO:0000051 (probe)
+T1397	GO_BP 31461 31469	digested
+#1397	AnnotatorNotes T1397	GO:0009056 (catabolic process)
+T1398	EntrezGene 31470 31475	Sam68
+#1398	AnnotatorNotes T1398	EG:20218
+T1399	PR 31470 31475	Sam68
+#1399	AnnotatorNotes T1399	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1400	SO 31476 31487	genomic DNA
+#1400	AnnotatorNotes T1400	SO:0000991 (genomic_DNA)
+T1401	SO 31476 31483	genomic
+#1401	AnnotatorNotes T1401	SO:0001026 (genome)
+T1402	SO 31488 31497	fragments
+#1402	AnnotatorNotes T1402	SO:0000731 (fragmentary)
+T1403	SO 31520 31524	exon
+#1403	AnnotatorNotes T1403	SO:0000147 (exon)
+T1404	SO 31531 31543	part of exon
+#1404	AnnotatorNotes T1404	SO:0000852 (exon_region)
+T1405	SO 31539 31543	exon
+#1405	AnnotatorNotes T1405	SO:0000147 (exon)
+T1406	SO 31565 31577	part of exon
+#1406	AnnotatorNotes T1406	SO:0000852 (exon_region)
+T1407	SO 31573 31577	exon
+#1407	AnnotatorNotes T1407	SO:0000147 (exon)
+T1408	SO 31584 31588	exon
+#1408	AnnotatorNotes T1408	SO:0000147 (exon)
+T1409	SO 31668 31671	DNA
+#1409	AnnotatorNotes T1409	SO:0000352 (DNA)
+T1410	SO 31672 31680	fragment
+#1410	AnnotatorNotes T1410	SO:0000731 (fragmentary)
+T1411	SO 31724 31740	oligonucleotides
+#1411	AnnotatorNotes T1411	SO:0000696 (oligo)
+T1412	CHEBI 31781 31782	C
+#1412	AnnotatorNotes T1412	CHEBI:30758 (cytosin-1-yl group)
+T1413	SO 31805 31811	primer
+#1413	AnnotatorNotes T1413	SO:0000112 (primer)
+T1414	GO_BP 31822 31830	digested
+#1414	AnnotatorNotes T1414	GO:0009056 (catabolic process)
+T1415	SO 31836 31839	DNA
+#1415	AnnotatorNotes T1415	SO:0000352 (DNA)
+T1416	SO 31840 31848	fragment
+#1416	AnnotatorNotes T1416	SO:0000731 (fragmentary)
+T1417	SO 31875 31879	site
+#1417	AnnotatorNotes T1417	SO:0000001 (region)
+T1418	SO 31973 31981	fragment
+#1418	AnnotatorNotes T1418	SO:0000731 (fragmentary)
+T1419	CHEBI 32070 32071	G
+#1419	AnnotatorNotes T1419	CHEBI:30755 (guanine group)
+T1420	SO 32164 32168	site
+#1420	AnnotatorNotes T1420	SO:0000001 (region)
+T1421	SO 32192 32198	vector
+#1421	AnnotatorNotes T1421	SO:0000440 (vector_replicon)
+T1422	EntrezGene 32204 32209	Sam68
+#1422	AnnotatorNotes T1422	EG:20218
+T1423	PR 32204 32209	Sam68
+#1423	AnnotatorNotes T1423	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1424	SO 32210 32218	replaces
+#1424	AnnotatorNotes T1424	SO:0000048 (substitute)
+T1425	SO 32219 32223	exon
+#1425	AnnotatorNotes T1425	SO:0000147 (exon)
+T1426	SO 32230 32242	part of exon
+#1426	AnnotatorNotes T1426	SO:0000852 (exon_region)
+T1427	SO 32238 32242	exon
+#1427	AnnotatorNotes T1427	SO:0000147 (exon)
+T1428	CHEBI 32252 32260	neomycin
+#1428	AnnotatorNotes T1428	CHEBI:44577 (neomycin)
+T1429	SO 32271 32284	gene cassette
+#1429	AnnotatorNotes T1429	SO:0005853 (gene_cassette)
+T1430	SO 32294 32298	site
+#1430	AnnotatorNotes T1430	SO:0000001 (region)
+T1431	SO 32303 32313	introduced
+#1431	AnnotatorNotes T1431	SO:0000046 (insert)
+T1432	SO 32340 32343	DNA
+#1432	AnnotatorNotes T1432	SO:0000352 (DNA)
+T1433	SO 32344 32352	fragment
+#1433	AnnotatorNotes T1433	SO:0000731 (fragmentary)
+T1434	SO 32383 32390	plasmid
+#1434	AnnotatorNotes T1434	SO:0000155 (plasmid)
+T1435	CL 32426 32441	stem (ES) cells
+#1435	AnnotatorNotes T1435	"stem .. cells" CL:0000034 (stem cell)
+T1436	GO_CC 32436 32441	cells
+#1436	AnnotatorNotes T1436	GO:0005623 (cell)
+T1437	EntrezGene 32539 32544	Sam68
+#1437	AnnotatorNotes T1437	EG:20218
+T1438	PR 32539 32544	Sam68
+#1438	AnnotatorNotes T1438	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1439	SO 32545 32551	mutant
+#1439	AnnotatorNotes T1439	SO:0001059 (sequence_alteration)
+T1440	SO 32552 32558	allele
+#1440	AnnotatorNotes T1440	SO:0001023 (allele)
+T1441	CL 32608 32613	cells
+#1441	AnnotatorNotes T1441	CL:0000000 (cell)
+T1442	GO_CC 32608 32613	cells
+#1442	AnnotatorNotes T1442	GO:0005623 (cell)
+T1443	NCBITaxon 32715 32722	animals
+#1443	AnnotatorNotes T1443	NCBITaxon:33208 (Metazoa)
+T1444	GO_BP 32765 32770	mated
+#1444	AnnotatorNotes T1444	GO:0007618 (mating)
+T1445	NCBITaxon 32783 32787	mice
+#1445	AnnotatorNotes T1445	NCBITaxon:10088 (Mus)
+T1446	NCBITaxon 32833 32837	mice
+#1446	AnnotatorNotes T1446	NCBITaxon:10088 (Mus)
+T1447	NCBITaxon 32881 32885	mice
+#1447	AnnotatorNotes T1447	NCBITaxon:10088 (Mus)
+T1448	NCBITaxon 32916 32920	mice
+#1448	AnnotatorNotes T1448	NCBITaxon:10088 (Mus)
+T1449	NCBITaxon 33022 33026	mice
+#1449	AnnotatorNotes T1449	NCBITaxon:10088 (Mus)
+T1450	NCBITaxon 33125 33130	mouse
+#1450	AnnotatorNotes T1450	NCBITaxon:10088 (Mus)
+T1451	NCBITaxon 33247 33253	Animal
+#1451	AnnotatorNotes T1451	NCBITaxon:33208 (Metazoa)
+T1452	SO 33260 33271	Genomic DNA
+#1452	AnnotatorNotes T1452	SO:0000991 (genomic_DNA)
+T1453	SO 33260 33267	Genomic
+#1453	AnnotatorNotes T1453	SO:0001026 (genome)
+T1454	SO 33342 33349	genomic
+#1454	AnnotatorNotes T1454	SO:0001026 (genome)
+T1455	SO 33368 33371	DNA
+#1455	AnnotatorNotes T1455	SO:0000352 (DNA)
+T1456	SO 33372 33380	fragment
+#1456	AnnotatorNotes T1456	SO:0000731 (fragmentary)
+T1457	SO 33397 33402	probe
+#1457	AnnotatorNotes T1457	SO:0000051 (probe)
+T1458	SO 33475 33491	oligonucleotides
+#1458	AnnotatorNotes T1458	SO:0000696 (oligo)
+T1459	CHEBI 33520 33521	T
+#1459	AnnotatorNotes T1459	CHEBI:30757 (thymin-1-yl group)
+T1460	SO 33570 33579	wild-type
+#1460	AnnotatorNotes T1460	SO:0000817 (wild_type)
+T1461	italic 33580 33585	sam68
+#1461	AnnotatorNotes T1461	italic (null)
+T1462	PR 33580 33585	sam68
+#1462	AnnotatorNotes T1462	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1463	EntrezGene 33580 33585	sam68
+#1463	AnnotatorNotes T1463	EG:20218
+T1464	SO 33586 33592	allele
+#1464	AnnotatorNotes T1464	SO:0001023 (allele)
+T1465	SO 33611 33618	genomic
+#1465	AnnotatorNotes T1465	SO:0001026 (genome)
+T1466	SO 33643 33659	oligonucleotides
+#1466	AnnotatorNotes T1466	SO:0000696 (oligo)
+T1467	italic 33744 33749	sam68
+#1467	AnnotatorNotes T1467	italic (null)
+T1468	EntrezGene 33744 33749	sam68
+#1468	AnnotatorNotes T1468	EG:20218
+T1469	PR 33744 33749	sam68
+#1469	AnnotatorNotes T1469	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1470	SO 33759 33765	allele
+#1470	AnnotatorNotes T1470	SO:0001023 (allele)
+T1471	SO 33784 33791	genomic
+#1471	AnnotatorNotes T1471	SO:0001026 (genome)
+T1472	SO 33816 33832	oligonucleotides
+#1472	AnnotatorNotes T1472	SO:0000696 (oligo)
+T1473	EntrezGene 33945 33950	Sam68
+#1473	AnnotatorNotes T1473	EG:20218
+T1474	PR 33945 33950	Sam68
+#1474	AnnotatorNotes T1474	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1475	sup 33950 33953	+/+
+#1475	AnnotatorNotes T1475	sup (null)
+T1476	SO 33950 33951	+
+#1476	AnnotatorNotes T1476	SO:0000817 (wild_type)
+T1477	SO 33952 33953	+
+#1477	AnnotatorNotes T1477	SO:0000817 (wild_type)
+T1478	EntrezGene 33958 33963	Sam68
+#1478	AnnotatorNotes T1478	EG:20218
+T1479	PR 33958 33963	Sam68
+#1479	AnnotatorNotes T1479	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1480	sup 33963 33966	−/−
+#1480	AnnotatorNotes T1480	sup (null)
+T1481	NCBITaxon 33967 33971	mice
+#1481	AnnotatorNotes T1481	NCBITaxon:10088 (Mus)
+T1482	NCBITaxon 34062 34066	Mice
+#1482	AnnotatorNotes T1482	NCBITaxon:10088 (Mus)
+T1483	GO_BP 34087 34093	lethal
+#1483	AnnotatorNotes T1483	GO:0016265 (death)
+T1484	CHEBI 34102 34112	anesthetic
+#1484	AnnotatorNotes T1484	CHEBI:38867 (anaesthetic)
+T1485	NCBITaxon 34437 34441	mice
+#1485	AnnotatorNotes T1485	NCBITaxon:10088 (Mus)
+T1486	GO_MF 35052 35055	ALP
+#1486	AnnotatorNotes T1486	GO:0004035 (alkaline phosphatase activity)
+T1487	independent_continuant 35052 35055	ALP
+#1487	AnnotatorNotes T1487	independent_continuant
+T1488	sub 35063 35064	4
+#1488	AnnotatorNotes T1488	sub (null)
+T1489	NCBITaxon 35092 35098	Rodent
+#1489	AnnotatorNotes T1489	NCBITaxon:9989 (Rodentia)
+T1490	CHEBI 35294 35307	17β estradiol
+#1490	AnnotatorNotes T1490	CHEBI:16469 (17beta-estradiol)
+T1491	EntrezGene 35351 35357	leptin
+#1491	AnnotatorNotes T1491	EG:16846
+T1492	PR 35351 35357	leptin
+#1492	AnnotatorNotes T1492	PR:000009758 (leptin)
+T1493	EntrezGene 35418 35431	interleukin-6
+#1493	AnnotatorNotes T1493	EG:16193
+T1494	PR 35418 35431	interleukin-6
+#1494	AnnotatorNotes T1494	PR:000001393 (interleukin-6)
+T1495	CL 35472 35482	osteoblast
+#1495	AnnotatorNotes T1495	CL:0000062 (osteoblast)
+T1496	CL 35487 35497	osteoclast
+#1496	AnnotatorNotes T1496	CL:0000092 (osteoclast)
+T1497	EntrezGene 35582 35587	Sam68
+#1497	AnnotatorNotes T1497	EG:20218
+T1498	PR 35582 35587	Sam68
+#1498	AnnotatorNotes T1498	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1499	sup 35587 35590	+/+
+#1499	AnnotatorNotes T1499	sup (null)
+T1500	SO 35587 35588	+
+#1500	AnnotatorNotes T1500	SO:0000817 (wild_type)
+T1501	SO 35589 35590	+
+#1501	AnnotatorNotes T1501	SO:0000817 (wild_type)
+T1502	EntrezGene 35595 35600	Sam68
+#1502	AnnotatorNotes T1502	EG:20218
+T1503	PR 35595 35600	Sam68
+#1503	AnnotatorNotes T1503	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1504	sup 35600 35603	−/−
+#1504	AnnotatorNotes T1504	sup (null)
+T1505	NCBITaxon 35604 35608	mice
+#1505	AnnotatorNotes T1505	NCBITaxon:10088 (Mus)
+T1506	CL 35619 35632	stromal cells
+#1506	AnnotatorNotes T1506	CL:0000499 (stromal cell)
+T1507	GO_CC 35627 35632	cells
+#1507	AnnotatorNotes T1507	GO:0005623 (cell)
+T1508	GO_BP 35657 35672	differentiation
+#1508	AnnotatorNotes T1508	GO:0030154 (cell differentiation)
+T1509	independent_continuant 35750 35753	ALP
+#1509	AnnotatorNotes T1509	independent_continuant
+T1510	GO_MF 35750 35753	ALP
+#1510	AnnotatorNotes T1510	GO:0004035 (alkaline phosphatase activity)
+T1511	GO_BP 35798 35809	mineralized
+#1511	AnnotatorNotes T1511	GO:0031214 (biomineral formation)
+T1512	SO 35825 35828	RNA
+#1512	AnnotatorNotes T1512	SO:0000356 (RNA)
+T1513	GO_MF 35870 35872	RT
+#1513	AnnotatorNotes T1513	GO:0003964 (RNA-directed DNA polymerase activity)
+T1514	GO_BP 35870 35872	RT
+#1514	AnnotatorNotes T1514	GO:0006410 (transcription, RNA-dependent)
+T1515	independent_continuant 35870 35872	RT
+#1515	AnnotatorNotes T1515	independent_continuant
+T1516	CL 35889 35899	osteoblast
+#1516	AnnotatorNotes T1516	CL:0000062 (osteoblast)
+T1517	GO_BP 35908 35923	gene expression
+#1517	AnnotatorNotes T1517	GO:0010467 (gene expression)
+T1518	SO 35908 35912	gene
+#1518	AnnotatorNotes T1518	SO:0000704 (gene)
+T1519	CL 35965 35976	Osteoclasts
+#1519	AnnotatorNotes T1519	CL:0000092 (osteoclast)
+T1520	EntrezGene 36031 36036	Sam68
+#1520	AnnotatorNotes T1520	EG:20218
+T1521	PR 36031 36036	Sam68
+#1521	AnnotatorNotes T1521	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1522	sup 36036 36039	+/+
+#1522	AnnotatorNotes T1522	sup (null)
+T1523	SO 36036 36037	+
+#1523	AnnotatorNotes T1523	SO:0000817 (wild_type)
+T1524	SO 36038 36039	+
+#1524	AnnotatorNotes T1524	SO:0000817 (wild_type)
+T1525	EntrezGene 36044 36049	Sam68
+#1525	AnnotatorNotes T1525	EG:20218
+T1526	PR 36044 36049	Sam68
+#1526	AnnotatorNotes T1526	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1527	sup 36049 36052	−/−
+#1527	AnnotatorNotes T1527	sup (null)
+T1528	NCBITaxon 36053 36057	mice
+#1528	AnnotatorNotes T1528	NCBITaxon:10088 (Mus)
+T1529	CL 36120 36125	cells
+#1529	AnnotatorNotes T1529	CL:0000000 (cell)
+T1530	GO_CC 36120 36125	cells
+#1530	AnnotatorNotes T1530	GO:0005623 (cell)
+T1531	CL 36222 36226	cell
+#1531	AnnotatorNotes T1531	CL:0000000 (cell)
+T1532	GO_CC 36222 36226	cell
+#1532	AnnotatorNotes T1532	GO:0005623 (cell)
+T1533	EntrezGene 36329 36333	TRAP
+#1533	AnnotatorNotes T1533	EG:11433
+T1534	PR 36329 36333	TRAP
+#1534	AnnotatorNotes T1534	PR:000001937 (tartrate-resistant acid phosphatase type 5)
+T1535	CL 36407 36412	cells
+#1535	AnnotatorNotes T1535	CL:0000000 (cell)
+T1536	GO_CC 36407 36412	cells
+#1536	AnnotatorNotes T1536	GO:0005623 (cell)
+T1537	CHEBI 36422 36440	ammonium hydroxide
+#1537	AnnotatorNotes T1537	CHEBI:18219 (ammonium hydroxide)
+T1538	CHEBI 36422 36430	ammonium
+#1538	AnnotatorNotes T1538	CHEBI:28938 (ammonium)
+T1539	CHEBI 36431 36440	hydroxide
+#1539	AnnotatorNotes T1539	CHEBI:16234 (hydroxide)
+T1540	CHEBI 36484 36486	Au
+#1540	AnnotatorNotes T1540	CHEBI:29287 (gold)
+T1541	CHEBI 36487 36489	Pd
+#1541	AnnotatorNotes T1541	CHEBI:33363 (palladium)
+T1542	CHEBI 36520 36528	electron
+#1542	AnnotatorNotes T1542	CHEBI:10545 (electron)
+T1543	CHEBI 36548 36556	Electron
+#1543	AnnotatorNotes T1543	CHEBI:10545 (electron)
+T1544	italic 36874 36875	t
+#1544	AnnotatorNotes T1544	italic (null)
+T1545	NCBITaxon 36898 36903	mouse
+#1545	AnnotatorNotes T1545	NCBITaxon:10088 (Mus)
+T1546	CL 36914 36924	fibroblast
+#1546	AnnotatorNotes T1546	CL:0000057 (fibroblast)
+T1547	GO_BP 36929 36938	induction
+#1547	AnnotatorNotes T1547	GO:0031128 (induction)
+T1548	CL 36942 36951	adipocyte
+#1548	AnnotatorNotes T1548	CL:0000136 (fat cell)
+T1549	GO_BP 36952 36967	differentiation
+#1549	AnnotatorNotes T1549	GO:0030154 (cell differentiation)
+T1550	GO_BP 37084 37093	induction
+#1550	AnnotatorNotes T1550	GO:0031128 (induction)
+T1551	CL 37097 37106	adipocyte
+#1551	AnnotatorNotes T1551	CL:0000136 (fat cell)
+T1552	GO_BP 37107 37122	differentiation
+#1552	AnnotatorNotes T1552	GO:0030154 (cell differentiation)
+T1553	CL 37200 37205	cells
+#1553	AnnotatorNotes T1553	CL:0000000 (cell)
+T1554	GO_CC 37200 37205	cells
+#1554	AnnotatorNotes T1554	GO:0005623 (cell)
+T1555	SO 37254 37257	RNA
+#1555	AnnotatorNotes T1555	SO:0000356 (RNA)
+T1556	GO_MF 37274 37276	RT
+#1556	AnnotatorNotes T1556	GO:0003964 (RNA-directed DNA polymerase activity)
+T1557	GO_BP 37274 37276	RT
+#1557	AnnotatorNotes T1557	GO:0006410 (transcription, RNA-dependent)
+T1558	independent_continuant 37274 37276	RT
+#1558	AnnotatorNotes T1558	independent_continuant
+T1559	EntrezGene 37307 37312	Sam68
+#1559	AnnotatorNotes T1559	EG:20218
+T1560	PR 37307 37312	Sam68
+#1560	AnnotatorNotes T1560	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1561	sup 37312 37315	−/−
+#1561	AnnotatorNotes T1561	sup (null)
+T1562	CL 37329 37337	cellular
+#1562	AnnotatorNotes T1562	CL:0000000 (cell)
+T1563	GO_CC 37329 37337	cellular
+#1563	AnnotatorNotes T1563	GO:0005623 (cell)
+T1564	SO 37338 37341	RNA
+#1564	AnnotatorNotes T1564	SO:0000356 (RNA)
+T1565	CHEBI 37365 37372	reagent
+#1565	AnnotatorNotes T1565	CHEBI:33893 (reagent)
+T1566	SO 37471 37474	RNA
+#1566	AnnotatorNotes T1566	SO:0000356 (RNA)
+T1567	GO_BP 37486 37505	reverse-transcribed
+#1567	AnnotatorNotes T1567	GO:0006410 (transcription, RNA-dependent)
+T1568	SO 37511 37515	cDNA
+#1568	AnnotatorNotes T1568	SO:0000756 (cDNA)
+T1569	independent_continuant 37547 37549	RT
+#1569	AnnotatorNotes T1569	independent_continuant
+T1570	GO_BP 37547 37549	RT
+#1570	AnnotatorNotes T1570	GO:0006410 (transcription, RNA-dependent)
+T1571	GO_MF 37547 37549	RT
+#1571	AnnotatorNotes T1571	GO:0003964 (RNA-directed DNA polymerase activity)
+T1572	GO_BP 37576 37591	transcriptional
+#1572	AnnotatorNotes T1572	GO:0006350 (transcription)
+T1573	GO_MF 37601 37606	GAPDH
+#1573	AnnotatorNotes T1573	GO:0004365 (glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) activity)
+T1574	independent_continuant 37601 37606	GAPDH
+#1574	AnnotatorNotes T1574	independent_continuant
+T1575	EntrezGene 37601 37606	GAPDH
+#1575	AnnotatorNotes T1575	EG:14433
+T1576	PR 37601 37606	GAPDH
+#1576	AnnotatorNotes T1576	PR:000007840 (glyceraldehyde-3-phosphate dehydrogenase)
+T1577	SO 37632 37639	primers
+#1577	AnnotatorNotes T1577	SO:0000112 (primer)
+T1578	GO_BP 37673 37688	differentiation
+#1578	AnnotatorNotes T1578	GO:0030154 (cell differentiation)
+T1579	EntrezGene 37690 37694	KLF5
+#1579	AnnotatorNotes T1579	EG:12224
+T1580	PR 37690 37694	KLF5
+#1580	AnnotatorNotes T1580	PR:000009365 (krueppel-like factor 5)
+T1581	CHEBI 37723 37724	C
+#1581	AnnotatorNotes T1581	CHEBI:30758 (cytosin-1-yl group)
+T1582	EntrezGene 37759 37764	PPARγ
+#1582	AnnotatorNotes T1582	EG:19016
+T1583	PR 37759 37764	PPARγ
+#1583	AnnotatorNotes T1583	PR:000013058 (peroxisome proliferator-activated receptor gamma)
+T1584	CHEBI 37797 37798	C
+#1584	AnnotatorNotes T1584	CHEBI:30758 (cytosin-1-yl group)
+T1585	EntrezGene 37842 37849	β-Actin
+#1585	AnnotatorNotes T1585	EG:11461
+T1586	PR 37842 37849	β-Actin
+#1586	AnnotatorNotes T1586	PR:000003676 (actin, cytoplasmic 1)
+T1587	EntrezGene 37924 37929	Sam68
+#1587	AnnotatorNotes T1587	EG:20218
+T1588	PR 37924 37929	Sam68
+#1588	AnnotatorNotes T1588	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1589	CHEBI 37963 37964	A
+#1589	AnnotatorNotes T1589	CHEBI:30756 (adenine group)
+T1590	CHEBI 38003 38004	A
+#1590	AnnotatorNotes T1590	CHEBI:30756 (adenine group)
+T1591	EntrezGene 38010 38015	Sam68
+#1591	AnnotatorNotes T1591	EG:20218
+T1592	PR 38010 38015	Sam68
+#1592	AnnotatorNotes T1592	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1593	GO_BP 38016 38031	down-regulation
+#1593	AnnotatorNotes T1593	GO:0048519 (negative regulation of biological process)
+T1594	GO_BP 38051 38059	generate
+#1594	AnnotatorNotes T1594	GO:0009058 (biosynthetic process)
+T1595	SO 38073 38077	base
+#1595	AnnotatorNotes T1595	SO:0001236 (base)
+T1596	SO 38078 38084	duplex
+#1596	AnnotatorNotes T1596	SO:0000985 (double)
+T1597	CHEBI 38085 38100	DNA nucleotides
+#1597	AnnotatorNotes T1597	CHEBI:19260 (2'-deoxyribonucleotides)
+T1598	SO 38085 38088	DNA
+#1598	AnnotatorNotes T1598	SO:0000352 (DNA)
+T1599	SO 38089 38100	nucleotides
+#1599	AnnotatorNotes T1599	SO:0001236 (base)
+T1600	SO 38138 38146	fragment
+#1600	AnnotatorNotes T1600	SO:0000731 (fragmentary)
+T1601	CHEBI 38160 38173	base residues
+#1601	AnnotatorNotes T1601	CHEBI:33791 (canonical nucleoside residues)
+T1602	SO 38160 38173	base residues
+#1602	AnnotatorNotes T1602	SO:0001236 (base)
+T1603	EntrezGene 38186 38197	mouse Sam68
+#1603	AnnotatorNotes T1603	EG:20218
+T1604	NCBITaxon 38186 38191	mouse
+#1604	AnnotatorNotes T1604	NCBITaxon:10088 (Mus)
+T1605	PR 38192 38197	Sam68
+#1605	AnnotatorNotes T1605	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1606	bold 38207 38226	AAGATGACGAGGAGAATTA
+#1606	AnnotatorNotes T1606	bold (null)
+T1607	bold 38236 38255	TAATTCTCCTCGTCATCTT
+#1607	AnnotatorNotes T1607	bold (null)
+T1608	SO 38274 38282	fragment
+#1608	AnnotatorNotes T1608	SO:0000731 (fragmentary)
+T1609	GO_BP 38363 38376	Transfections
+#1609	AnnotatorNotes T1609	GO:0009294 (DNA mediated transformation)
+T1610	SO 38442 38445	DNA
+#1610	AnnotatorNotes T1610	SO:0000352 (DNA)
+T1611	SO 38446 38454	fragment
+#1611	AnnotatorNotes T1611	SO:0000731 (fragmentary)
+T1612	SO 38464 38470	vector
+#1612	AnnotatorNotes T1612	SO:0000440 (vector_replicon)
+T1613	GO_BP 38486 38498	transfection
+#1613	AnnotatorNotes T1613	GO:0009294 (DNA mediated transformation)
+T1614	CHEBI 38540 38549	puromycin
+#1614	AnnotatorNotes T1614	CHEBI:17939 (puromycin)
+T1615	EntrezGene 38605 38610	Sam68
+#1615	AnnotatorNotes T1615	EG:20218
+T1616	PR 38605 38610	Sam68
+#1616	AnnotatorNotes T1616	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1617	GO_CC 38617 38625	antibody
+#1617	AnnotatorNotes T1617	GO:0019814 (immunoglobulin complex)
+T1618	GO_BP 38628 38638	Osteogenic
+#1618	AnnotatorNotes T1618	GO:0001503 (ossification)
+T1619	GO_BP 38639 38654	differentiation
+#1619	AnnotatorNotes T1619	GO:0030154 (cell differentiation)
+T1620	CL 38677 38682	cells
+#1620	AnnotatorNotes T1620	CL:0000000 (cell)
+T1621	GO_CC 38677 38682	cells
+#1621	AnnotatorNotes T1621	GO:0005623 (cell)
+T1622	GO_BP 38689 38699	osteogenic
+#1622	AnnotatorNotes T1622	GO:0001503 (ossification)
+T1623	GO_BP 38700 38715	differentiation
+#1623	AnnotatorNotes T1623	GO:0030154 (cell differentiation)
+T1624	CL 38734 38739	cells
+#1624	AnnotatorNotes T1624	CL:0000000 (cell)
+T1625	GO_CC 38734 38739	cells
+#1625	AnnotatorNotes T1625	GO:0005623 (cell)
+T1626	sup 38800 38801	4
+#1626	AnnotatorNotes T1626	sup (null)
+T1627	CL 38802 38807	cells
+#1627	AnnotatorNotes T1627	CL:0000000 (cell)
+T1628	GO_CC 38802 38807	cells
+#1628	AnnotatorNotes T1628	GO:0005623 (cell)
+T1629	sup 38810 38811	2
+#1629	AnnotatorNotes T1629	sup (null)
+T1630	PR 38904 38909	BMP-2
+#1630	AnnotatorNotes T1630	PR:000000164 (BMP2)
+T1631	CL 38961 38969	cellular
+#1631	AnnotatorNotes T1631	CL:0000000 (cell)
+T1632	GO_CC 38961 38969	cellular
+#1632	AnnotatorNotes T1632	GO:0005623 (cell)
+T1633	SO 38970 38973	RNA
+#1633	AnnotatorNotes T1633	SO:0000356 (RNA)
+T1634	EntrezGene 39011 39022	osteocalcin
+#1634	AnnotatorNotes T1634	EG:12096
+T1635	EntrezGene 39024 39031	β-actin
+#1635	AnnotatorNotes T1635	EG:11461
+T1636	PR 39024 39031	β-actin
+#1636	AnnotatorNotes T1636	PR:000003676 (actin, cytoplasmic 1)
+T1637	GO_MF 39037 39042	GAPDH
+#1637	AnnotatorNotes T1637	GO:0008943 (glyceraldehyde-3-phosphate dehydrogenase activity)
+T1638	independent_continuant 39037 39042	GAPDH
+#1638	AnnotatorNotes T1638	independent_continuant
+T1639	PR 39037 39042	GAPDH
+#1639	AnnotatorNotes T1639	PR:000007840 (glyceraldehyde-3-phosphate dehydrogenase)
+T1640	EntrezGene 39037 39042	GAPDH
+#1640	AnnotatorNotes T1640	EG:14433
+T1641	GO_BP 39043 39058	gene expression
+#1641	AnnotatorNotes T1641	GO:0010467 (gene expression)
+T1642	SO 39043 39047	gene
+#1642	AnnotatorNotes T1642	SO:0000704 (gene)
+T1643	PR 39084 39089	BMP-2
+#1643	AnnotatorNotes T1643	PR:000000164 (BMP2)
+T1644	GO_MF 39118 39120	RT
+#1644	AnnotatorNotes T1644	GO:0003964 (RNA-directed DNA polymerase activity)
+T1645	GO_BP 39118 39120	RT
+#1645	AnnotatorNotes T1645	GO:0006410 (transcription, RNA-dependent)
+T1646	independent_continuant 39118 39120	RT
+#1646	AnnotatorNotes T1646	independent_continuant
+T1647	GO_BP 39163 39175	Localization
+#1647	AnnotatorNotes T1647	GO:0051179 (localization)
+T1648	EntrezGene 39179 39184	Sam68
+#1648	AnnotatorNotes T1648	EG:20218
+T1649	PR 39179 39184	Sam68
+#1649	AnnotatorNotes T1649	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1650	NCBITaxon 39196 39201	Mouse
+#1650	AnnotatorNotes T1650	NCBITaxon:10088 (Mus)
+T1651	CL 39202 39213	Osteoblasts
+#1651	AnnotatorNotes T1651	CL:0000062 (osteoblast)
+T1652	CL 39218 39229	Osteoclasts
+#1652	AnnotatorNotes T1652	CL:0000092 (osteoclast)
+T1653	GO_BP 39295 39310	Gene Expression
+#1653	AnnotatorNotes T1653	GO:0010467 (gene expression)
+T1654	SO 39295 39299	Gene
+#1654	AnnotatorNotes T1654	SO:0000704 (gene)
+T1655	CL 39331 39344	Stromal Cells
+#1655	AnnotatorNotes T1655	CL:0000499 (stromal cell)
+T1656	GO_CC 39339 39344	Cells
+#1656	AnnotatorNotes T1656	GO:0005623 (cell)
+T1657	EntrezGene 39387 39392	Sam68
+#1657	AnnotatorNotes T1657	EG:20218
+T1658	PR 39387 39392	Sam68
+#1658	AnnotatorNotes T1658	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1659	sup 39392 39395	+/+
+#1659	AnnotatorNotes T1659	sup (null)
+T1660	SO 39392 39393	+
+#1660	AnnotatorNotes T1660	SO:0000817 (wild_type)
+T1661	SO 39394 39395	+
+#1661	AnnotatorNotes T1661	SO:0000817 (wild_type)
+T1662	EntrezGene 39400 39405	Sam68
+#1662	AnnotatorNotes T1662	EG:20218
+T1663	PR 39400 39405	Sam68
+#1663	AnnotatorNotes T1663	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1664	sup 39405 39408	−/−
+#1664	AnnotatorNotes T1664	sup (null)
+T1665	NCBITaxon 39409 39413	Mice
+#1665	AnnotatorNotes T1665	NCBITaxon:10088 (Mus)
+T1666	NCBITaxon 39541 39545	Mice
+#1666	AnnotatorNotes T1666	NCBITaxon:10088 (Mus)
+T1667	SO 39725 39735	Transgenic
+#1667	AnnotatorNotes T1667	SO:0000902 (transgene)
+T1668	GO_MF 40127 40130	ALP
+#1668	AnnotatorNotes T1668	GO:0004035 (alkaline phosphatase activity)
+T1669	independent_continuant 40127 40130	ALP
+#1669	AnnotatorNotes T1669	independent_continuant
+T1670	GO_MF 40133 40153	alkaline phosphatase
+#1670	AnnotatorNotes T1670	GO:0004035 (alkaline phosphatase activity)
+T1671	independent_continuant 40133 40153	alkaline phosphatase
+#1671	AnnotatorNotes T1671	independent_continuant
+T1672	CHEBI 40133 40141	alkaline
+#1672	AnnotatorNotes T1672	CHEBI:36364 (alkaline earth salts)
+T1673	CHEBI 40133 40141	alkaline
+#1673	AnnotatorNotes T1673	CHEBI:35479 (alkali metal salts)
+T1674	CHEBI 40166 40173	mineral
+#1674	AnnotatorNotes T1674	CHEBI:46662 (minerals)
+T1675	CHEBI 40194 40201	mineral
+#1675	AnnotatorNotes T1675	CHEBI:46662 (minerals)
+T1676	PR 40211 40216	BMP-2
+#1676	AnnotatorNotes T1676	PR:000000164 (BMP2)
+T1677	PR 40219 40247	bone morphogenetic protein-2
+#1677	AnnotatorNotes T1677	PR:000000164 (BMP2)
+T1678	GO_BP 40224 40237	morphogenetic
+#1678	AnnotatorNotes T1678	GO:0009653 (anatomical structure morphogenesis)
+T1679	CHEBI 40238 40245	protein
+#1679	AnnotatorNotes T1679	CHEBI:36080 (proteins)
+T1680	CHEBI 40281 40282	C
+#1680	AnnotatorNotes T1680	CHEBI:46883 (carboxy group)
+T1681	CHEBI 40281 40282	C
+#1681	AnnotatorNotes T1681	CHEBI:18245 (carboxylato group)
+T1682	SO 40281 40282	C
+#1682	AnnotatorNotes T1682	SO:0100015 (c_terminal_region)
+T1683	NCBITaxon 40302 40307	mouse
+#1683	AnnotatorNotes T1683	NCBITaxon:10088 (Mus)
+T1684	CL 40315 40325	fibroblast
+#1684	AnnotatorNotes T1684	CL:0000057 (fibroblast)
+T1685	EntrezGene 40327 40332	PPARγ
+#1685	AnnotatorNotes T1685	EG:19016
+T1686	PR 40327 40332	PPARγ
+#1686	AnnotatorNotes T1686	PR:000013058 (peroxisome proliferator-activated receptor gamma)
+T1687	EntrezGene 40335 40379	peroxisome proliferator–activated receptor γ
+#1687	AnnotatorNotes T1687	EG:19016
+T1688	PR 40335 40379	peroxisome proliferator–activated receptor γ
+#1688	AnnotatorNotes T1688	PR:000013058 (peroxisome proliferator-activated receptor gamma)
+T1689	GO_CC 40335 40345	peroxisome
+#1689	AnnotatorNotes T1689	GO:0005777 (peroxisome)
+T1690	GO_MF 40369 40377	receptor
+#1690	AnnotatorNotes T1690	GO:0004872 (receptor activity)
+T1691	independent_continuant 40369 40377	receptor
+#1691	AnnotatorNotes T1691	independent_continuant
+T1692	SO 40395 40402	hairpin
+#1692	AnnotatorNotes T1692	SO:0000313 (stem_loop)
+T1693	SO 40403 40406	RNA
+#1693	AnnotatorNotes T1693	SO:0000356 (RNA)
+T1694	EntrezGene 40408 40412	TRAP
+#1694	AnnotatorNotes T1694	EG:11433
+T1695	PR 40408 40412	TRAP
+#1695	AnnotatorNotes T1695	PR:000001937 (tartrate-resistant acid phosphatase type 5)
+T1696	EntrezGene 40415 40450	tartrate-resistant acid phosphatase
+#1696	AnnotatorNotes T1696	EG:11433
+T1697	PR 40415 40450	tartrate-resistant acid phosphatase
+#1697	AnnotatorNotes T1697	PR:000001937 (tartrate-resistant acid phosphatase type 5)
+T1698	CHEBI 40415 40423	tartrate
+#1698	AnnotatorNotes T1698	CHEBI:35397 (tartrate(1-))
+T1699	CHEBI 40415 40423	tartrate
+#1699	AnnotatorNotes T1699	CHEBI:15193 (tartrate(2-))
+T1700	GO_MF 40434 40450	acid phosphatase
+#1700	AnnotatorNotes T1700	GO:0003993 (acid phosphatase activity)
+T1701	independent_continuant 40434 40450	acid phosphatase
+#1701	AnnotatorNotes T1701	independent_continuant
+T1702	CHEBI 40434 40438	acid
+#1702	AnnotatorNotes T1702	CHEBI:37527 (acid)
+T1703	GO_BP 40502 40514	Localization
+#1703	AnnotatorNotes T1703	GO:0051179 (localization)
+T1704	EntrezGene 40518 40523	Sam68
+#1704	AnnotatorNotes T1704	EG:20218
+T1705	PR 40518 40523	Sam68
+#1705	AnnotatorNotes T1705	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1706	NCBITaxon 40537 40541	Mice
+#1706	AnnotatorNotes T1706	NCBITaxon:10088 (Mus)
+T1707	NCBITaxon 40557 40561	mice
+#1707	AnnotatorNotes T1707	NCBITaxon:10088 (Mus)
+T1708	GO_BP 40580 40588	pregnant
+#1708	AnnotatorNotes T1708	GO:0007565 (female pregnancy)
+T1709	EntrezGene 40724 40729	Sam68
+#1709	AnnotatorNotes T1709	EG:20218
+T1710	PR 40724 40729	Sam68
+#1710	AnnotatorNotes T1710	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1711	GO_CC 40730 40738	antibody
+#1711	AnnotatorNotes T1711	GO:0019814 (immunoglobulin complex)
+T1712	CHEBI 40763 40769	methyl
+#1712	AnnotatorNotes T1712	CHEBI:32875 (methyl group)
+T1713	EntrezGene 40950 40955	Sam68
+#1713	AnnotatorNotes T1713	EG:20218
+T1714	PR 40950 40955	Sam68
+#1714	AnnotatorNotes T1714	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1715	GO_CC 40956 40964	antibody
+#1715	AnnotatorNotes T1715	GO:0019814 (immunoglobulin complex)
+T1716	EntrezGene 41039 41044	Sam68
+#1716	AnnotatorNotes T1716	EG:20218
+T1717	PR 41039 41044	Sam68
+#1717	AnnotatorNotes T1717	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1718	CL 41074 41086	chondrocytes
+#1718	AnnotatorNotes T1718	CL:0000138 (chondrocyte)
+T1719	GO_BP 41124 41134	developing
+#1719	AnnotatorNotes T1719	GO:0032502 (developmental process)
+T1720	CL 41226 41237	osteoblasts
+#1720	AnnotatorNotes T1720	CL:0000062 (osteoblast)
+T1721	GO_CC 41336 41344	antibody
+#1721	AnnotatorNotes T1721	GO:0019814 (immunoglobulin complex)
+T1722	SO 41377 41384	peptide
+#1722	AnnotatorNotes T1722	SO:0001407 (peptidyl)
+T1723	EntrezGene 41407 41412	Sam68
+#1723	AnnotatorNotes T1723	EG:20218
+T1724	PR 41407 41412	Sam68
+#1724	AnnotatorNotes T1724	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1725	GO_BP 41417 41426	localized
+#1725	AnnotatorNotes T1725	GO:0051179 (localization)
+T1726	GO_CC 41444 41451	nucleus
+#1726	AnnotatorNotes T1726	GO:0005634 (nucleus)
+T1727	CL 41455 41460	cells
+#1727	AnnotatorNotes T1727	CL:0000000 (cell)
+T1728	GO_CC 41455 41460	cells
+#1728	AnnotatorNotes T1728	GO:0005623 (cell)
+T1729	GO_CC 41524 41533	cytoplasm
+#1729	AnnotatorNotes T1729	GO:0005737 (cytoplasm)
+T1730	GO_BP 41685 41695	Generation
+#1730	AnnotatorNotes T1730	GO:0000003 (reproduction)
+T1731	EntrezGene 41699 41704	Sam68
+#1731	AnnotatorNotes T1731	EG:20218
+T1732	PR 41699 41704	Sam68
+#1732	AnnotatorNotes T1732	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1733	NCBITaxon 41715 41719	Mice
+#1733	AnnotatorNotes T1733	NCBITaxon:10088 (Mus)
+T1734	SO 41729 41736	genomic
+#1734	AnnotatorNotes T1734	SO:0001026 (genome)
+T1735	SO 41758 41767	wild-type
+#1735	AnnotatorNotes T1735	SO:0000817 (wild_type)
+T1736	italic 41781 41786	sam68
+#1736	AnnotatorNotes T1736	italic (null)
+T1737	PR 41781 41786	sam68
+#1737	AnnotatorNotes T1737	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1738	EntrezGene 41781 41786	sam68
+#1738	AnnotatorNotes T1738	EG:20218
+T1739	SO 41787 41794	alleles
+#1739	AnnotatorNotes T1739	SO:0001023 (allele)
+T1740	GO_BP 41812 41825	recombination
+#1740	AnnotatorNotes T1740	GO:0006310 (DNA recombination)
+T1741	SO 41844 41852	location
+#1741	AnnotatorNotes T1741	SO:0000001 (region)
+T1742	SO 41860 41863	DNA
+#1742	AnnotatorNotes T1742	SO:0000352 (DNA)
+T1743	SO 41864 41872	fragment
+#1743	AnnotatorNotes T1743	SO:0000731 (fragmentary)
+T1744	SO 41883 41888	probe
+#1744	AnnotatorNotes T1744	SO:0000051 (probe)
+T1745	SO 41968 41977	fragments
+#1745	AnnotatorNotes T1745	SO:0000731 (fragmentary)
+T1746	SO 41991 42000	wild-type
+#1746	AnnotatorNotes T1746	SO:0000817 (wild_type)
+T1747	italic 42014 42019	sam68
+#1747	AnnotatorNotes T1747	italic (null)
+T1748	PR 42014 42019	sam68
+#1748	AnnotatorNotes T1748	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1749	EntrezGene 42014 42019	sam68
+#1749	AnnotatorNotes T1749	EG:20218
+T1750	SO 42020 42027	alleles
+#1750	AnnotatorNotes T1750	SO:0001023 (allele)
+T1751	SO 42042 42048	allele
+#1751	AnnotatorNotes T1751	SO:0001023 (allele)
+T1752	SO 42049 42057	replaces
+#1752	AnnotatorNotes T1752	SO:0000048 (substitute)
+T1753	SO 42058 42062	exon
+#1753	AnnotatorNotes T1753	SO:0000147 (exon)
+T1754	SO 42069 42081	part of exon
+#1754	AnnotatorNotes T1754	SO:0000852 (exon_region)
+T1755	SO 42077 42081	exon
+#1755	AnnotatorNotes T1755	SO:0000147 (exon)
+T1756	italic 42087 42092	sam68
+#1756	AnnotatorNotes T1756	italic (null)
+T1757	PR 42087 42092	sam68
+#1757	AnnotatorNotes T1757	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1758	EntrezGene 42087 42092	sam68
+#1758	AnnotatorNotes T1758	EG:20218
+T1759	GO_MF 42100 42103	PGK
+#1759	AnnotatorNotes T1759	GO:0050191 (phosphoglycerate kinase (GTP) activity)
+T1760	independent_continuant 42100 42103	PGK
+#1760	AnnotatorNotes T1760	independent_continuant
+T1761	GO_MF 42100 42103	PGK
+#1761	AnnotatorNotes T1761	GO:0004618 (phosphoglycerate kinase activity)
+T1762	SO 42113 42121	cassette
+#1762	AnnotatorNotes T1762	SO:0005853 (gene_cassette)
+T1763	SO 42154 42165	genomic DNA
+#1763	AnnotatorNotes T1763	SO:0000991 (genomic_DNA)
+T1764	SO 42154 42161	genomic
+#1764	AnnotatorNotes T1764	SO:0001026 (genome)
+T1765	SO 42171 42180	wild-type
+#1765	AnnotatorNotes T1765	SO:0000817 (wild_type)
+T1766	SO 42182 42183	+
+#1766	AnnotatorNotes T1766	SO:0000817 (wild_type)
+T1767	SO 42184 42185	+
+#1767	AnnotatorNotes T1767	SO:0000817 (wild_type)
+T1768	SO 42202 42203	+
+#1768	AnnotatorNotes T1768	SO:0000817 (wild_type)
+T1769	NCBITaxon 42229 42233	mice
+#1769	AnnotatorNotes T1769	NCBITaxon:10088 (Mus)
+T1770	SO 42235 42238	DNA
+#1770	AnnotatorNotes T1770	SO:0000352 (DNA)
+T1771	SO 42239 42248	fragments
+#1771	AnnotatorNotes T1771	SO:0000731 (fragmentary)
+T1772	SO 42266 42275	wild-type
+#1772	AnnotatorNotes T1772	SO:0000817 (wild_type)
+T1773	SO 42311 42318	alleles
+#1773	AnnotatorNotes T1773	SO:0001023 (allele)
+T1774	EntrezGene 42366 42371	Sam68
+#1774	AnnotatorNotes T1774	EG:20218
+T1775	PR 42366 42371	Sam68
+#1775	AnnotatorNotes T1775	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1776	GO_BP 42372 42382	expression
+#1776	AnnotatorNotes T1776	GO:0010467 (gene expression)
+T1777	CHEBI 42384 42391	Protein
+#1777	AnnotatorNotes T1777	CHEBI:36080 (proteins)
+T1778	SO 42406 42415	wild-type
+#1778	AnnotatorNotes T1778	SO:0000817 (wild_type)
+T1779	CL 42446 42451	cells
+#1779	AnnotatorNotes T1779	CL:0000000 (cell)
+T1780	GO_CC 42446 42451	cells
+#1780	AnnotatorNotes T1780	GO:0005623 (cell)
+T1781	NCBITaxon 42498 42504	rabbit
+#1781	AnnotatorNotes T1781	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1782	EntrezGene 42517 42522	Sam68
+#1782	AnnotatorNotes T1782	EG:20218
+T1783	PR 42517 42522	Sam68
+#1783	AnnotatorNotes T1783	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1784	GO_CC 42527 42535	antibody
+#1784	AnnotatorNotes T1784	GO:0019814 (immunoglobulin complex)
+T1785	SO 42541 42548	peptide
+#1785	AnnotatorNotes T1785	SO:0001407 (peptidyl)
+T1786	GO_CC 42549 42557	antibody
+#1786	AnnotatorNotes T1786	GO:0019814 (immunoglobulin complex)
+T1787	SO 42595 42602	peptide
+#1787	AnnotatorNotes T1787	SO:0001407 (peptidyl)
+T1788	CHEBI 42620 42631	amino acids
+#1788	AnnotatorNotes T1788	CHEBI:33708 (amino-acid residue)
+T1789	SO 42620 42631	amino acids
+#1789	AnnotatorNotes T1789	SO:0001237 (amino_acid)
+T1790	CHEBI 42620 42625	amino
+#1790	AnnotatorNotes T1790	CHEBI:32952 (amines)
+T1791	CHEBI 42620 42625	amino
+#1791	AnnotatorNotes T1791	CHEBI:46882 (amino group)
+T1792	CHEBI 42626 42631	acids
+#1792	AnnotatorNotes T1792	CHEBI:37527 (acid)
+T1793	EntrezGene 42643 42654	mouse Sam68
+#1793	AnnotatorNotes T1793	EG:20218
+T1794	NCBITaxon 42643 42648	mouse
+#1794	AnnotatorNotes T1794	NCBITaxon:10088 (Mus)
+T1795	PR 42649 42654	Sam68
+#1795	AnnotatorNotes T1795	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1796	PR 42661 42666	Sam68
+#1796	AnnotatorNotes T1796	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1797	GO_CC 42673 42681	antibody
+#1797	AnnotatorNotes T1797	GO:0019814 (immunoglobulin complex)
+T1798	SO 42702 42712	C-terminal
+#1798	AnnotatorNotes T1798	SO:0100015 (c_terminal_region)
+T1799	CHEBI 42702 42703	C
+#1799	AnnotatorNotes T1799	CHEBI:46883 (carboxy group)
+T1800	CHEBI 42702 42703	C
+#1800	AnnotatorNotes T1800	CHEBI:18245 (carboxylato group)
+T1801	CHEBI 42716 42727	amino acids
+#1801	AnnotatorNotes T1801	CHEBI:33708 (amino-acid residue)
+T1802	SO 42716 42727	amino acids
+#1802	AnnotatorNotes T1802	SO:0001237 (amino_acid)
+T1803	CHEBI 42716 42721	amino
+#1803	AnnotatorNotes T1803	CHEBI:32952 (amines)
+T1804	CHEBI 42716 42721	amino
+#1804	AnnotatorNotes T1804	CHEBI:46882 (amino group)
+T1805	CHEBI 42722 42727	acids
+#1805	AnnotatorNotes T1805	CHEBI:37527 (acid)
+T1806	PR 42731 42736	Sam68
+#1806	AnnotatorNotes T1806	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1807	GO_CC 42753 42763	antibodies
+#1807	AnnotatorNotes T1807	GO:0019814 (immunoglobulin complex)
+T1808	CHEBI 42805 42814	molecular
+#1808	AnnotatorNotes T1808	CHEBI:23367 (molecular entity)
+T1809	EntrezGene 42920 42925	Sam68
+#1809	AnnotatorNotes T1809	EG:20218
+T1810	PR 42920 42925	Sam68
+#1810	AnnotatorNotes T1810	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1811	sup 42925 42928	+/+
+#1811	AnnotatorNotes T1811	sup (null)
+T1812	SO 42925 42926	+
+#1812	AnnotatorNotes T1812	SO:0000817 (wild_type)
+T1813	SO 42927 42928	+
+#1813	AnnotatorNotes T1813	SO:0000817 (wild_type)
+T1814	EntrezGene 42933 42938	Sam68
+#1814	AnnotatorNotes T1814	EG:20218
+T1815	PR 42933 42938	Sam68
+#1815	AnnotatorNotes T1815	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1816	sup 42938 42941	−/−
+#1816	AnnotatorNotes T1816	sup (null)
+T1817	NCBITaxon 42942 42946	Mice
+#1817	AnnotatorNotes T1817	NCBITaxon:10088 (Mus)
+T1818	NCBITaxon 42952 42956	Mice
+#1818	AnnotatorNotes T1818	NCBITaxon:10088 (Mus)
+T1819	GO_BP 42970 42976	lethal
+#1819	AnnotatorNotes T1819	GO:0016265 (death)
+T1820	CHEBI 42985 42995	anesthetic
+#1820	AnnotatorNotes T1820	CHEBI:38867 (anaesthetic)
+T1821	EntrezGene 43187 43192	Sam68
+#1821	AnnotatorNotes T1821	EG:20218
+T1822	PR 43187 43192	Sam68
+#1822	AnnotatorNotes T1822	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1823	sup 43192 43195	+/+
+#1823	AnnotatorNotes T1823	sup (null)
+T1824	SO 43192 43193	+
+#1824	AnnotatorNotes T1824	SO:0000817 (wild_type)
+T1825	SO 43194 43195	+
+#1825	AnnotatorNotes T1825	SO:0000817 (wild_type)
+T1826	SO 43197 43198	+
+#1826	AnnotatorNotes T1826	SO:0000817 (wild_type)
+T1827	SO 43199 43200	+
+#1827	AnnotatorNotes T1827	SO:0000817 (wild_type)
+T1828	EntrezGene 43206 43211	Sam68
+#1828	AnnotatorNotes T1828	EG:20218
+T1829	PR 43206 43211	Sam68
+#1829	AnnotatorNotes T1829	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1830	sup 43211 43214	−/−
+#1830	AnnotatorNotes T1830	sup (null)
+T1831	NCBITaxon 43221 43225	mice
+#1831	AnnotatorNotes T1831	NCBITaxon:10088 (Mus)
+T1832	SO 43391 43392	+
+#1832	AnnotatorNotes T1832	SO:0000817 (wild_type)
+T1833	SO 43393 43394	+
+#1833	AnnotatorNotes T1833	SO:0000817 (wild_type)
+T1834	NCBITaxon 43395 43399	mice
+#1834	AnnotatorNotes T1834	NCBITaxon:10088 (Mus)
+T1835	NCBITaxon 43412 43416	mice
+#1835	AnnotatorNotes T1835	NCBITaxon:10088 (Mus)
+T1836	EntrezGene 43754 43759	Sam68
+#1836	AnnotatorNotes T1836	EG:20218
+T1837	PR 43754 43759	Sam68
+#1837	AnnotatorNotes T1837	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1838	sup 43759 43762	+/+
+#1838	AnnotatorNotes T1838	sup (null)
+T1839	SO 43759 43760	+
+#1839	AnnotatorNotes T1839	SO:0000817 (wild_type)
+T1840	SO 43761 43762	+
+#1840	AnnotatorNotes T1840	SO:0000817 (wild_type)
+T1841	SO 43764 43765	+
+#1841	AnnotatorNotes T1841	SO:0000817 (wild_type)
+T1842	SO 43766 43767	+
+#1842	AnnotatorNotes T1842	SO:0000817 (wild_type)
+T1843	EntrezGene 43773 43778	Sam68
+#1843	AnnotatorNotes T1843	EG:20218
+T1844	PR 43773 43778	Sam68
+#1844	AnnotatorNotes T1844	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1845	sup 43778 43781	−/−
+#1845	AnnotatorNotes T1845	sup (null)
+T1846	NCBITaxon 43788 43792	mice
+#1846	AnnotatorNotes T1846	NCBITaxon:10088 (Mus)
+T1847	SO 43943 43944	+
+#1847	AnnotatorNotes T1847	SO:0000817 (wild_type)
+T1848	SO 43945 43946	+
+#1848	AnnotatorNotes T1848	SO:0000817 (wild_type)
+T1849	NCBITaxon 43947 43951	mice
+#1849	AnnotatorNotes T1849	NCBITaxon:10088 (Mus)
+T1850	bold 43982 43983	.
+#1850	AnnotatorNotes T1850	bold (null)
+T1851	NCBITaxon 44042 44049	animals
+#1851	AnnotatorNotes T1851	NCBITaxon:33208 (Metazoa)
+T1852	NCBITaxon 44289 44293	mice
+#1852	AnnotatorNotes T1852	NCBITaxon:10088 (Mus)
+T1853	italic 44439 44440	p
+#1853	AnnotatorNotes T1853	italic (null)
+T1854	EntrezGene 44469 44474	Sam68
+#1854	AnnotatorNotes T1854	EG:20218
+T1855	PR 44469 44474	Sam68
+#1855	AnnotatorNotes T1855	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1856	sup 44474 44477	+/+
+#1856	AnnotatorNotes T1856	sup (null)
+T1857	SO 44474 44475	+
+#1857	AnnotatorNotes T1857	SO:0000817 (wild_type)
+T1858	SO 44476 44477	+
+#1858	AnnotatorNotes T1858	SO:0000817 (wild_type)
+T1859	NCBITaxon 44478 44482	mice
+#1859	AnnotatorNotes T1859	NCBITaxon:10088 (Mus)
+T1860	EntrezGene 44514 44519	Sam68
+#1860	AnnotatorNotes T1860	EG:20218
+T1861	PR 44514 44519	Sam68
+#1861	AnnotatorNotes T1861	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1862	sup 44519 44522	+/+
+#1862	AnnotatorNotes T1862	sup (null)
+T1863	SO 44519 44520	+
+#1863	AnnotatorNotes T1863	SO:0000817 (wild_type)
+T1864	SO 44521 44522	+
+#1864	AnnotatorNotes T1864	SO:0000817 (wild_type)
+T1865	NCBITaxon 44523 44527	mice
+#1865	AnnotatorNotes T1865	NCBITaxon:10088 (Mus)
+T1866	EntrezGene 44572 44577	Sam68
+#1866	AnnotatorNotes T1866	EG:20218
+T1867	PR 44572 44577	Sam68
+#1867	AnnotatorNotes T1867	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1868	sup 44577 44580	−/−
+#1868	AnnotatorNotes T1868	sup (null)
+T1869	NCBITaxon 44581 44585	mice
+#1869	AnnotatorNotes T1869	NCBITaxon:10088 (Mus)
+T1870	EntrezGene 44617 44622	Sam68
+#1870	AnnotatorNotes T1870	EG:20218
+T1871	PR 44617 44622	Sam68
+#1871	AnnotatorNotes T1871	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1872	sup 44622 44625	−/−
+#1872	AnnotatorNotes T1872	sup (null)
+T1873	NCBITaxon 44626 44630	mice
+#1873	AnnotatorNotes T1873	NCBITaxon:10088 (Mus)
+T1874	EntrezGene 44768 44773	Sam68
+#1874	AnnotatorNotes T1874	EG:20218
+T1875	PR 44768 44773	Sam68
+#1875	AnnotatorNotes T1875	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1876	sup 44773 44776	+/+
+#1876	AnnotatorNotes T1876	sup (null)
+T1877	SO 44773 44774	+
+#1877	AnnotatorNotes T1877	SO:0000817 (wild_type)
+T1878	SO 44775 44776	+
+#1878	AnnotatorNotes T1878	SO:0000817 (wild_type)
+T1879	EntrezGene 44804 44809	Sam68
+#1879	AnnotatorNotes T1879	EG:20218
+T1880	PR 44804 44809	Sam68
+#1880	AnnotatorNotes T1880	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1881	sup 44809 44812	+/+
+#1881	AnnotatorNotes T1881	sup (null)
+T1882	SO 44809 44810	+
+#1882	AnnotatorNotes T1882	SO:0000817 (wild_type)
+T1883	SO 44811 44812	+
+#1883	AnnotatorNotes T1883	SO:0000817 (wild_type)
+T1884	EntrezGene 44843 44848	Sam68
+#1884	AnnotatorNotes T1884	EG:20218
+T1885	PR 44843 44848	Sam68
+#1885	AnnotatorNotes T1885	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1886	sup 44848 44851	+/+
+#1886	AnnotatorNotes T1886	sup (null)
+T1887	SO 44848 44849	+
+#1887	AnnotatorNotes T1887	SO:0000817 (wild_type)
+T1888	SO 44850 44851	+
+#1888	AnnotatorNotes T1888	SO:0000817 (wild_type)
+T1889	EntrezGene 44877 44882	Sam68
+#1889	AnnotatorNotes T1889	EG:20218
+T1890	PR 44877 44882	Sam68
+#1890	AnnotatorNotes T1890	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1891	sup 44882 44885	−/−
+#1891	AnnotatorNotes T1891	sup (null)
+T1892	EntrezGene 44915 44920	Sam68
+#1892	AnnotatorNotes T1892	EG:20218
+T1893	PR 44915 44920	Sam68
+#1893	AnnotatorNotes T1893	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1894	sup 44920 44923	−/−
+#1894	AnnotatorNotes T1894	sup (null)
+T1895	italic 44946 44947	p
+#1895	AnnotatorNotes T1895	italic (null)
+T1896	EntrezGene 45014 45019	Sam68
+#1896	AnnotatorNotes T1896	EG:20218
+T1897	PR 45014 45019	Sam68
+#1897	AnnotatorNotes T1897	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1898	bold 45019 45022	+/+
+#1898	AnnotatorNotes T1898	bold (null)
+T1899	sup 45019 45022	+/+
+#1899	AnnotatorNotes T1899	sup (null)
+T1900	SO 45019 45020	+
+#1900	AnnotatorNotes T1900	SO:0000817 (wild_type)
+T1901	SO 45021 45022	+
+#1901	AnnotatorNotes T1901	SO:0000817 (wild_type)
+T1902	EntrezGene 45027 45032	Sam68
+#1902	AnnotatorNotes T1902	EG:20218
+T1903	PR 45027 45032	Sam68
+#1903	AnnotatorNotes T1903	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1904	sup 45032 45035	−/−
+#1904	AnnotatorNotes T1904	sup (null)
+T1905	NCBITaxon 45036 45040	Mice
+#1905	AnnotatorNotes T1905	NCBITaxon:10088 (Mus)
+T1906	independent_continuant 45130 45133	ALP
+#1906	AnnotatorNotes T1906	independent_continuant
+T1907	GO_MF 45130 45133	ALP
+#1907	AnnotatorNotes T1907	GO:0004035 (alkaline phosphatase activity)
+T1908	CL 45166 45177	osteoblasts
+#1908	AnnotatorNotes T1908	CL:0000062 (osteoblast)
+T1909	EntrezGene 45185 45189	TRAP
+#1909	AnnotatorNotes T1909	EG:11433
+T1910	PR 45185 45189	TRAP
+#1910	AnnotatorNotes T1910	PR:000001937 (tartrate-resistant acid phosphatase type 5)
+T1911	CL 45222 45233	osteoclasts
+#1911	AnnotatorNotes T1911	CL:0000092 (osteoclast)
+T1912	EntrezGene 45281 45286	Sam68
+#1912	AnnotatorNotes T1912	EG:20218
+T1913	PR 45281 45286	Sam68
+#1913	AnnotatorNotes T1913	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1914	sup 45286 45289	+/+
+#1914	AnnotatorNotes T1914	sup (null)
+T1915	SO 45286 45287	+
+#1915	AnnotatorNotes T1915	SO:0000817 (wild_type)
+T1916	SO 45288 45289	+
+#1916	AnnotatorNotes T1916	SO:0000817 (wild_type)
+T1917	EntrezGene 45313 45318	Sam68
+#1917	AnnotatorNotes T1917	EG:20218
+T1918	PR 45313 45318	Sam68
+#1918	AnnotatorNotes T1918	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1919	sup 45318 45321	−/−
+#1919	AnnotatorNotes T1919	sup (null)
+T1920	EntrezGene 45350 45355	Sam68
+#1920	AnnotatorNotes T1920	EG:20218
+T1921	PR 45350 45355	Sam68
+#1921	AnnotatorNotes T1921	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1922	sup 45355 45358	−/−
+#1922	AnnotatorNotes T1922	sup (null)
+T1923	NCBITaxon 45369 45373	mice
+#1923	AnnotatorNotes T1923	NCBITaxon:10088 (Mus)
+T1924	EntrezGene 45401 45406	Sam68
+#1924	AnnotatorNotes T1924	EG:20218
+T1925	PR 45401 45406	Sam68
+#1925	AnnotatorNotes T1925	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1926	sup 45406 45409	+/+
+#1926	AnnotatorNotes T1926	sup (null)
+T1927	SO 45406 45407	+
+#1927	AnnotatorNotes T1927	SO:0000817 (wild_type)
+T1928	SO 45408 45409	+
+#1928	AnnotatorNotes T1928	SO:0000817 (wild_type)
+T1929	NCBITaxon 45410 45414	mice
+#1929	AnnotatorNotes T1929	NCBITaxon:10088 (Mus)
+T1930	NCBITaxon 45580 45587	animals
+#1930	AnnotatorNotes T1930	NCBITaxon:33208 (Metazoa)
+T1931	EntrezGene 45620 45625	Sam68
+#1931	AnnotatorNotes T1931	EG:20218
+T1932	PR 45620 45625	Sam68
+#1932	AnnotatorNotes T1932	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1933	sup 45625 45628	+/+
+#1933	AnnotatorNotes T1933	sup (null)
+T1934	SO 45625 45626	+
+#1934	AnnotatorNotes T1934	SO:0000817 (wild_type)
+T1935	SO 45627 45628	+
+#1935	AnnotatorNotes T1935	SO:0000817 (wild_type)
+T1936	EntrezGene 45633 45638	Sam68
+#1936	AnnotatorNotes T1936	EG:20218
+T1937	PR 45633 45638	Sam68
+#1937	AnnotatorNotes T1937	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1938	sup 45638 45641	−/−
+#1938	AnnotatorNotes T1938	sup (null)
+T1939	CL 45642 45653	Osteoblasts
+#1939	AnnotatorNotes T1939	CL:0000062 (osteoblast)
+T1940	CL 45678 45691	stromal cells
+#1940	AnnotatorNotes T1940	CL:0000499 (stromal cell)
+T1941	GO_CC 45686 45691	cells
+#1941	AnnotatorNotes T1941	GO:0005623 (cell)
+T1942	NCBITaxon 45738 45742	mice
+#1942	AnnotatorNotes T1942	NCBITaxon:10088 (Mus)
+T1943	GO_BP 45780 45787	promote
+#1943	AnnotatorNotes T1943	GO:0048518 (positive regulation of biological process)
+T1944	CL 45788 45798	osteoblast
+#1944	AnnotatorNotes T1944	CL:0000062 (osteoblast)
+T1945	GO_BP 45799 45814	differentiation
+#1945	AnnotatorNotes T1945	GO:0030154 (cell differentiation)
+T1946	independent_continuant 45907 45910	ALP
+#1946	AnnotatorNotes T1946	independent_continuant
+T1947	GO_MF 45907 45910	ALP
+#1947	AnnotatorNotes T1947	GO:0004035 (alkaline phosphatase activity)
+T1948	CHEBI 45929 45943	silver nitrate
+#1948	AnnotatorNotes T1948	CHEBI:32130 (silver(1+) nitrate)
+T1949	CHEBI 45929 45935	silver
+#1949	AnnotatorNotes T1949	CHEBI:30512 (silver)
+T1950	CHEBI 45936 45943	nitrate
+#1950	AnnotatorNotes T1950	CHEBI:17632 (nitrate)
+T1951	GO_BP 45966 45977	mineralized
+#1951	AnnotatorNotes T1951	GO:0031214 (biomineral formation)
+T1952	EntrezGene 45987 45992	Sam68
+#1952	AnnotatorNotes T1952	EG:20218
+T1953	PR 45987 45992	Sam68
+#1953	AnnotatorNotes T1953	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1954	sup 45992 45995	−/−
+#1954	AnnotatorNotes T1954	sup (null)
+T1955	GO_MF 46032 46035	ALP
+#1955	AnnotatorNotes T1955	GO:0004035 (alkaline phosphatase activity)
+T1956	independent_continuant 46032 46035	ALP
+#1956	AnnotatorNotes T1956	independent_continuant
+T1957	GO_BP 46070 46078	produced
+#1957	AnnotatorNotes T1957	GO:0032502 (developmental process)
+T1958	GO_BP 46098 46109	mineralized
+#1958	AnnotatorNotes T1958	GO:0031214 (biomineral formation)
+T1959	italic 46153 46154	p
+#1959	AnnotatorNotes T1959	italic (null)
+T1960	CL 46176 46187	osteoclasts
+#1960	AnnotatorNotes T1960	CL:0000092 (osteoclast)
+T1961	NCBITaxon 46242 46246	mice
+#1961	AnnotatorNotes T1961	NCBITaxon:10088 (Mus)
+T1962	CL 46346 46357	Osteoclasts
+#1962	AnnotatorNotes T1962	CL:0000092 (osteoclast)
+T1963	CL 46377 46382	cells
+#1963	AnnotatorNotes T1963	CL:0000000 (cell)
+T1964	GO_CC 46377 46382	cells
+#1964	AnnotatorNotes T1964	GO:0005623 (cell)
+T1965	GO_CC 46402 46408	nuclei
+#1965	AnnotatorNotes T1965	GO:0005634 (nucleus)
+T1966	EntrezGene 46435 46439	TRAP
+#1966	AnnotatorNotes T1966	EG:11433
+T1967	PR 46435 46439	TRAP
+#1967	AnnotatorNotes T1967	PR:000001937 (tartrate-resistant acid phosphatase type 5)
+T1968	EntrezGene 46604 46608	TRAP
+#1968	AnnotatorNotes T1968	EG:11433
+T1969	PR 46604 46608	TRAP
+#1969	AnnotatorNotes T1969	PR:000001937 (tartrate-resistant acid phosphatase type 5)
+T1970	CL 46618 46623	cells
+#1970	AnnotatorNotes T1970	CL:0000000 (cell)
+T1971	GO_CC 46618 46623	cells
+#1971	AnnotatorNotes T1971	GO:0005623 (cell)
+T1972	GO_BP 46636 46646	resorptive
+#1972	AnnotatorNotes T1972	GO:0045453 (bone resorption)
+T1973	EntrezGene 46701 46706	Sam68
+#1973	AnnotatorNotes T1973	EG:20218
+T1974	PR 46701 46706	Sam68
+#1974	AnnotatorNotes T1974	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1975	sup 46706 46709	−/−
+#1975	AnnotatorNotes T1975	sup (null)
+T1976	NCBITaxon 46710 46715	Mouse
+#1976	AnnotatorNotes T1976	NCBITaxon:10088 (Mus)
+T1977	NCBITaxon 46763 46768	mouse
+#1977	AnnotatorNotes T1977	NCBITaxon:10088 (Mus)
+T1978	EntrezGene 46826 46831	Sam68
+#1978	AnnotatorNotes T1978	EG:20218
+T1979	PR 46826 46831	Sam68
+#1979	AnnotatorNotes T1979	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1980	sup 46831 46834	+/+
+#1980	AnnotatorNotes T1980	sup (null)
+T1981	SO 46831 46832	+
+#1981	AnnotatorNotes T1981	SO:0000817 (wild_type)
+T1982	SO 46833 46834	+
+#1982	AnnotatorNotes T1982	SO:0000817 (wild_type)
+T1983	EntrezGene 46839 46844	Sam68
+#1983	AnnotatorNotes T1983	EG:20218
+T1984	PR 46839 46844	Sam68
+#1984	AnnotatorNotes T1984	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T1985	sup 46844 46847	−/−
+#1985	AnnotatorNotes T1985	sup (null)
+T1986	CL 46899 46908	Adipocyte
+#1986	AnnotatorNotes T1986	CL:0000136 (fat cell)
+T1987	GO_BP 46909 46924	differentiation
+#1987	AnnotatorNotes T1987	GO:0030154 (cell differentiation)
+T1988	CL 47135 47145	adipocytes
+#1988	AnnotatorNotes T1988	CL:0000136 (fat cell)
+T1989	CL 47174 47178	cell
+#1989	AnnotatorNotes T1989	CL:0000000 (cell)
+T1990	GO_CC 47174 47178	cell
+#1990	AnnotatorNotes T1990	GO:0005623 (cell)
+T1991	GO_MF 47232 47234	RT
+#1991	AnnotatorNotes T1991	GO:0003964 (RNA-directed DNA polymerase activity)
+T1992	GO_BP 47232 47234	RT
+#1992	AnnotatorNotes T1992	GO:0006410 (transcription, RNA-dependent)
+T1993	independent_continuant 47232 47234	RT
+#1993	AnnotatorNotes T1993	independent_continuant
+T1994	CL 47264 47272	cellular
+#1994	AnnotatorNotes T1994	CL:0000000 (cell)
+T1995	GO_CC 47264 47272	cellular
+#1995	AnnotatorNotes T1995	GO:0005623 (cell)
+T1996	SO 47273 47276	RNA
+#1996	AnnotatorNotes T1996	SO:0000356 (RNA)
+T1997	GO_BP 47292 47307	differentiation
+#1997	AnnotatorNotes T1997	GO:0030154 (cell differentiation)
+T1998	SO 47352 47355	DNA
+#1998	AnnotatorNotes T1998	SO:0000352 (DNA)
+T1999	SO 47356 47365	fragments
+#1999	AnnotatorNotes T1999	SO:0000731 (fragmentary)
+T2000	CHEBI 47385 47392	agarose
+#2000	AnnotatorNotes T2000	CHEBI:2511 (agarose)
+T2001	CHEBI 47411 47427	ethidium bromide
+#2001	AnnotatorNotes T2001	CHEBI:4883 (ethidium bromide)
+T2002	CHEBI 47411 47419	ethidium
+#2002	AnnotatorNotes T2002	CHEBI:42478 (ethidium)
+T2003	CHEBI 47420 47427	bromide
+#2003	AnnotatorNotes T2003	CHEBI:15858 (bromide)
+T2004	GO_BP 47433 47443	expression
+#2004	AnnotatorNotes T2004	GO:0010467 (gene expression)
+T2005	EntrezGene 47466 47472	C/EBPβ
+#2005	AnnotatorNotes T2005	EG:12608
+T2006	PR 47466 47472	C/EBPβ
+#2006	AnnotatorNotes T2006	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T2007	EntrezGene 47474 47480	C/EBPδ
+#2007	AnnotatorNotes T2007	EG:12609
+T2008	PR 47474 47480	C/EBPδ
+#2008	AnnotatorNotes T2008	PR:000005309 (CCAAT/enhancer-binding protein delta)
+T2009	EntrezGene 47482 47487	PPARα
+#2009	AnnotatorNotes T2009	EG:19016
+T2010	PR 47482 47487	PPARα
+#2010	AnnotatorNotes T2010	PR:000013056 (peroxisome proliferator-activated receptor alpha)
+T2011	EntrezGene 47493 47497	KLF5
+#2011	AnnotatorNotes T2011	EG:12224
+T2012	PR 47493 47497	KLF5
+#2012	AnnotatorNotes T2012	PR:000009365 (krueppel-like factor 5)
+T2013	GO_BP 47526 47536	expression
+#2013	AnnotatorNotes T2013	GO:0010467 (gene expression)
+T2014	EntrezGene 47559 47564	Sam68
+#2014	AnnotatorNotes T2014	EG:20218
+T2015	PR 47559 47564	Sam68
+#2015	AnnotatorNotes T2015	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T2016	EntrezGene 47566 47573	β-actin
+#2016	AnnotatorNotes T2016	EG:11461
+T2017	PR 47566 47573	β-actin
+#2017	AnnotatorNotes T2017	PR:000003676 (actin, cytoplasmic 1)
+T2018	GO_MF 47579 47584	GAPDH
+#2018	AnnotatorNotes T2018	GO:0008943 (glyceraldehyde-3-phosphate dehydrogenase activity)
+T2019	EntrezGene 47579 47584	GAPDH
+#2019	AnnotatorNotes T2019	EG:14433
+T2020	PR 47579 47584	GAPDH
+#2020	AnnotatorNotes T2020	PR:000007840 (glyceraldehyde-3-phosphate dehydrogenase)
+T2021	independent_continuant 47579 47584	GAPDH
+#2021	AnnotatorNotes T2021	independent_continuant
+T2022	GO_BP 47597 47605	Enhanced
+#2022	AnnotatorNotes T2022	GO:0048518 (positive regulation of biological process)
+T2023	GO_BP 47606 47616	Osteogenic
+#2023	AnnotatorNotes T2023	GO:0001503 (ossification)
+T2024	GO_BP 47617 47632	Differentiation
+#2024	AnnotatorNotes T2024	GO:0030154 (cell differentiation)
+T2025	CL 47660 47664	Cell
+#2025	AnnotatorNotes T2025	CL:0000000 (cell)
+T2026	GO_CC 47660 47664	Cell
+#2026	AnnotatorNotes T2026	GO:0005623 (cell)
+T2027	EntrezGene 47693 47698	Sam68
+#2027	AnnotatorNotes T2027	EG:20218
+T2028	PR 47693 47698	Sam68
+#2028	AnnotatorNotes T2028	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T2029	CL 47714 47719	cells
+#2029	AnnotatorNotes T2029	CL:0000000 (cell)
+T2030	GO_CC 47714 47719	cells
+#2030	AnnotatorNotes T2030	GO:0005623 (cell)
+T2031	GO_BP 47720 47731	transfected
+#2031	AnnotatorNotes T2031	GO:0009294 (DNA mediated transformation)
+T2032	SO 47746 47752	vector
+#2032	AnnotatorNotes T2032	SO:0000440 (vector_replicon)
+T2033	SO 47773 47779	vector
+#2033	AnnotatorNotes T2033	SO:0000440 (vector_replicon)
+T2034	EntrezGene 47801 47806	Sam68
+#2034	AnnotatorNotes T2034	EG:20218
+T2035	PR 47801 47806	Sam68
+#2035	AnnotatorNotes T2035	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T2036	CHEBI 47833 47842	puromycin
+#2036	AnnotatorNotes T2036	CHEBI:17939 (puromycin)
+T2037	EntrezGene 47882 47887	Sam68
+#2037	AnnotatorNotes T2037	EG:20218
+T2038	PR 47882 47887	Sam68
+#2038	AnnotatorNotes T2038	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T2039	EntrezGene 47922 47927	Sam68
+#2039	AnnotatorNotes T2039	EG:20218
+T2040	PR 47922 47927	Sam68
+#2040	AnnotatorNotes T2040	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T2041	CHEBI 47928 47935	protein
+#2041	AnnotatorNotes T2041	CHEBI:36080 (proteins)
+T2042	EntrezGene 47977 47982	Sam68
+#2042	AnnotatorNotes T2042	EG:20218
+T2043	PR 47977 47982	Sam68
+#2043	AnnotatorNotes T2043	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T2044	GO_CC 47989 47997	antibody
+#2044	AnnotatorNotes T2044	GO:0019814 (immunoglobulin complex)
+T2045	PR 48007 48014	β-actin
+#2045	AnnotatorNotes T2045	PR:000003676 (actin, cytoplasmic 1)
+T2046	GO_CC 48015 48025	antibodies
+#2046	AnnotatorNotes T2046	GO:0019814 (immunoglobulin complex)
+T2047	GO_BP 48052 48062	Osteogenic
+#2047	AnnotatorNotes T2047	GO:0001503 (ossification)
+T2048	GO_BP 48063 48078	differentiation
+#2048	AnnotatorNotes T2048	GO:0030154 (cell differentiation)
+T2049	PR 48130 48135	BMP-2
+#2049	AnnotatorNotes T2049	PR:000000164 (BMP2)
+T2050	GO_BP 48184 48194	osteogenic
+#2050	AnnotatorNotes T2050	GO:0001503 (ossification)
+T2051	GO_BP 48195 48225	differentiation in these cells
+#2051	AnnotatorNotes T2051	"differentiation in .. cells" GO:0030154 (cell differentiation)
+T2052	CL 48220 48225	cells
+#2052	AnnotatorNotes T2052	CL:0000000 (cell)
+T2053	GO_CC 48220 48225	cells
+#2053	AnnotatorNotes T2053	GO:0005623 (cell)
+T2054	GO_BP 48227 48237	expression
+#2054	AnnotatorNotes T2054	GO:0010467 (gene expression)
+T2055	CL 48246 48256	osteoblast
+#2055	AnnotatorNotes T2055	CL:0000062 (osteoblast)
+T2056	EntrezGene 48265 48276	osteocalcin
+#2056	AnnotatorNotes T2056	EG:12096
+T2057	EntrezGene 48278 48281	OCN
+#2057	AnnotatorNotes T2057	EG:12096
+T2058	GO_MF 48300 48302	RT
+#2058	AnnotatorNotes T2058	GO:0003964 (RNA-directed DNA polymerase activity)
+T2059	GO_BP 48300 48302	RT
+#2059	AnnotatorNotes T2059	GO:0006410 (transcription, RNA-dependent)
+T2060	independent_continuant 48300 48302	RT
+#2060	AnnotatorNotes T2060	independent_continuant
+T2061	EntrezGene 48325 48332	β-actin
+#2061	AnnotatorNotes T2061	EG:11461
+T2062	PR 48325 48332	β-actin
+#2062	AnnotatorNotes T2062	PR:000003676 (actin, cytoplasmic 1)
+T2063	GO_MF 48337 48342	GAPDH
+#2063	AnnotatorNotes T2063	GO:0008943 (glyceraldehyde-3-phosphate dehydrogenase activity)
+T2064	PR 48337 48342	GAPDH
+#2064	AnnotatorNotes T2064	PR:000007840 (glyceraldehyde-3-phosphate dehydrogenase)
+T2065	EntrezGene 48337 48342	GAPDH
+#2065	AnnotatorNotes T2065	EG:14433
+T2066	independent_continuant 48337 48342	GAPDH
+#2066	AnnotatorNotes T2066	independent_continuant
+T2067	SO 48357 48360	DNA
+#2067	AnnotatorNotes T2067	SO:0000352 (DNA)
+T2068	SO 48361 48370	fragments
+#2068	AnnotatorNotes T2068	SO:0000731 (fragmentary)
+T2069	CHEBI 48390 48397	agarose
+#2069	AnnotatorNotes T2069	CHEBI:2511 (agarose)
+T2070	CHEBI 48415 48431	ethidium bromide
+#2070	AnnotatorNotes T2070	CHEBI:4883 (ethidium bromide)
+T2071	CHEBI 48415 48423	ethidium
+#2071	AnnotatorNotes T2071	CHEBI:42478 (ethidium)
+T2072	CHEBI 48424 48431	bromide
+#2072	AnnotatorNotes T2072	CHEBI:15858 (bromide)
+T2073	EntrezGene 48448 48453	Sam68
+#2073	AnnotatorNotes T2073	EG:20218
+T2074	PR 48448 48453	Sam68
+#2074	AnnotatorNotes T2074	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T2075	sup 48453 48456	−/−
+#2075	AnnotatorNotes T2075	sup (null)
+T2076	NCBITaxon 48457 48461	Mice
+#2076	AnnotatorNotes T2076	NCBITaxon:10088 (Mus)
+T2077	GO_BP 48485 48517	Development of Fatty Bone Marrow
+#2077	AnnotatorNotes T2077	"Development of .. Bone Marrow" GO:0048539 (bone marrow development)
+T2078	GO_BP 48681 48692	mineralized
+#2078	AnnotatorNotes T2078	GO:0031214 (biomineral formation)
+T2079	CL 48719 48729	adipocytes
+#2079	AnnotatorNotes T2079	CL:0000136 (fat cell)
+T2080	GO_BP 48750 48764	mineralization
+#2080	AnnotatorNotes T2080	GO:0031214 (biomineral formation)
+T2081	EntrezGene 48812 48817	Sam68
+#2081	AnnotatorNotes T2081	EG:20218
+T2082	PR 48812 48817	Sam68
+#2082	AnnotatorNotes T2082	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T2083	sup 48817 48820	+/+
+#2083	AnnotatorNotes T2083	sup (null)
+T2084	SO 48817 48818	+
+#2084	AnnotatorNotes T2084	SO:0000817 (wild_type)
+T2085	SO 48819 48820	+
+#2085	AnnotatorNotes T2085	SO:0000817 (wild_type)
+T2086	CL 48898 48908	adipocytes
+#2086	AnnotatorNotes T2086	CL:0000136 (fat cell)
+T2087	CHEBI 48968 48987	fluorochrome labels
+#2087	AnnotatorNotes T2087	CHEBI:39442 (fluorescent probe)
+T2088	NCBITaxon 49098 49105	animals
+#2088	AnnotatorNotes T2088	NCBITaxon:33208 (Metazoa)
+T2089	EntrezGene 49128 49133	Sam68
+#2089	AnnotatorNotes T2089	EG:20218
+T2090	PR 49128 49133	Sam68
+#2090	AnnotatorNotes T2090	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T2091	GO_BP 49147 49155	Breeding
+#2091	AnnotatorNotes T2091	GO:0007618 (mating)
+T2092	CHEBI 49186 49193	Mineral
+#2092	AnnotatorNotes T2092	CHEBI:46662 (minerals)
+T2093	NCBITaxon 49232 49236	Mice
+#2093	AnnotatorNotes T2093	NCBITaxon:10088 (Mus)
+T2094	NCBITaxon 49313 49317	Mice
+#2094	AnnotatorNotes T2094	NCBITaxon:10088 (Mus)
+T2095	bold 49330 49350	Competing interests.
+#2095	AnnotatorNotes T2095	bold (null)
+T2096	bold 49413 49434	Author contributions.
+#2096	AnnotatorNotes T2096	bold (null)
+T2097	GO_BP 49606 49615	generated
+#2097	AnnotatorNotes T2097	GO:0000003 (reproduction)
+T2098	NCBITaxon 49620 49624	mice
+#2098	AnnotatorNotes T2098	NCBITaxon:10088 (Mus)
+T2099	EntrezGene 49882 49907	Sam68 RNA binding protein
+#2099	AnnotatorNotes T2099	EG:20218
+T2100	PR 49882 49907	Sam68 RNA binding protein
+#2100	AnnotatorNotes T2100	PR:000009279 (KH domain-containing, RNA-binding, signal transduction-associated protein 1)
+T2101	GO_MF 49888 49899	RNA binding
+#2101	AnnotatorNotes T2101	GO:0003723 (RNA binding)
+T2102	SO 49888 49891	RNA
+#2102	AnnotatorNotes T2102	SO:0000356 (RNA)
+T2103	CHEBI 49900 49907	protein
+#2103	AnnotatorNotes T2103	CHEBI:36080 (proteins)
+T2104	NCBITaxon 49917 49921	mice
+#2104	AnnotatorNotes T2104	NCBITaxon:10088 (Mus)

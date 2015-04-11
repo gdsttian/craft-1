@@ -1,0 +1,3056 @@
+T1	EntrezGene 0 35	Medium-Chain Acyl-CoA Dehydrogenase
+#1	AnnotatorNotes T1	EG:11364
+T2	PR 0 35	Medium-Chain Acyl-CoA Dehydrogenase
+#2	AnnotatorNotes T2	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T3	GO_MF 13 35	Acyl-CoA Dehydrogenase
+#3	AnnotatorNotes T3	GO:0003995 (acyl-CoA dehydrogenase activity)
+T4	independent_continuant 13 35	Acyl-CoA Dehydrogenase
+#4	AnnotatorNotes T4	independent_continuant
+T5	CHEBI 13 21	Acyl-CoA
+#5	AnnotatorNotes T5	CHEBI:17984 (acyl-CoAs)
+T6	CHEBI 13 17	Acyl
+#6	AnnotatorNotes T6	CHEBI:22221 (acyl groups)
+T7	CHEBI 18 21	CoA
+#7	AnnotatorNotes T7	CHEBI:15346 (coenzyme A)
+T8	SO 50 54	Gene
+#8	AnnotatorNotes T8	SO:0000704 (gene)
+T9	NCBITaxon 64 68	Mice
+#9	AnnotatorNotes T9	NCBITaxon:10088 (Mus)
+T10	EntrezGene 81 116	Medium-chain acyl-CoA dehydrogenase
+#10	AnnotatorNotes T10	EG:34
+T11	PR 81 116	Medium-chain acyl-CoA dehydrogenase
+#11	AnnotatorNotes T11	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T12	GO_MF 94 116	acyl-CoA dehydrogenase
+#12	AnnotatorNotes T12	GO:0003995 (acyl-CoA dehydrogenase activity)
+T13	independent_continuant 94 116	acyl-CoA dehydrogenase
+#13	AnnotatorNotes T13	independent_continuant
+T14	CHEBI 94 102	acyl-CoA
+#14	AnnotatorNotes T14	CHEBI:17984 (acyl-CoAs)
+T15	CHEBI 94 98	acyl
+#15	AnnotatorNotes T15	CHEBI:22221 (acyl groups)
+T16	CHEBI 99 102	CoA
+#16	AnnotatorNotes T16	CHEBI:15346 (coenzyme A)
+T17	EntrezGene 118 122	MCAD
+#17	AnnotatorNotes T17	EG:34
+T18	PR 118 122	MCAD
+#18	AnnotatorNotes T18	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T19	GO_CC 176 189	mitochondrial
+#19	AnnotatorNotes T19	GO:0005739 (mitochondrion)
+T20	GO_BP 190 212	fatty acid β-oxidation
+#20	AnnotatorNotes T20	GO:0006635 (fatty acid beta-oxidation)
+T21	CHEBI 190 200	fatty acid
+#21	AnnotatorNotes T21	CHEBI:35366 (fatty acids)
+T22	NCBITaxon 216 222	humans
+#22	AnnotatorNotes T22	NCBITaxon:9606 (Homo sapiens)
+T23	GO_BP 282 291	developed
+#23	AnnotatorNotes T23	GO:0000003 (reproduction)
+T24	NCBITaxon 294 299	mouse
+#24	AnnotatorNotes T24	NCBITaxon:10088 (Mus)
+T25	EntrezGene 310 314	MCAD
+#25	AnnotatorNotes T25	EG:34
+T26	PR 310 314	MCAD
+#26	AnnotatorNotes T26	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T27	EntrezGene 327 331	MCAD
+#27	AnnotatorNotes T27	EG:11364
+T28	PR 327 331	MCAD
+#28	AnnotatorNotes T28	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T29	sup 331 334	−/−
+#29	AnnotatorNotes T29	sup (null)
+T30	SO 339 343	gene
+#30	AnnotatorNotes T30	SO:0000704 (gene)
+T31	CL 367 382	stem (ES) cells
+#31	AnnotatorNotes T31	"stem .. cells" CL:0000034 (stem cell)
+T32	GO_CC 377 382	cells
+#32	AnnotatorNotes T32	GO:0005623 (cell)
+T33	EntrezGene 388 392	MCAD
+#33	AnnotatorNotes T33	EG:11364
+T34	PR 388 392	MCAD
+#34	AnnotatorNotes T34	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T35	sup 392 395	−/−
+#35	AnnotatorNotes T35	sup (null)
+T36	NCBITaxon 396 400	mice
+#36	AnnotatorNotes T36	NCBITaxon:10088 (Mus)
+T37	GO_BP 401 410	developed
+#37	AnnotatorNotes T37	GO:0032502 (developmental process)
+T38	EntrezGene 550 554	MCAD
+#38	AnnotatorNotes T38	EG:11364
+T39	PR 550 554	MCAD
+#39	AnnotatorNotes T39	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T40	sup 554 557	−/−
+#40	AnnotatorNotes T40	sup (null)
+T41	NCBITaxon 558 562	mice
+#41	AnnotatorNotes T41	NCBITaxon:10088 (Mus)
+T42	EntrezGene 589 599	human MCAD
+#42	AnnotatorNotes T42	EG:34
+T43	NCBITaxon 589 594	human
+#43	AnnotatorNotes T43	NCBITaxon:9606 (Homo sapiens)
+T44	PR 595 599	MCAD
+#44	AnnotatorNotes T44	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T45	EntrezGene 654 658	MCAD
+#45	AnnotatorNotes T45	EG:11364
+T46	PR 654 658	MCAD
+#46	AnnotatorNotes T46	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T47	sup 658 661	−/−
+#47	AnnotatorNotes T47	sup (null)
+T48	EntrezGene 744 748	MCAD
+#48	AnnotatorNotes T48	EG:34
+T49	PR 744 748	MCAD
+#49	AnnotatorNotes T49	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T50	EntrezGene 773 777	MCAD
+#50	AnnotatorNotes T50	EG:11364
+T51	PR 773 777	MCAD
+#51	AnnotatorNotes T51	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T52	NCBITaxon 788 793	mouse
+#52	AnnotatorNotes T52	NCBITaxon:10088 (Mus)
+T53	EntrezGene 826 836	human MCAD
+#53	AnnotatorNotes T53	EG:34
+T54	NCBITaxon 826 831	human
+#54	AnnotatorNotes T54	NCBITaxon:9606 (Homo sapiens)
+T55	PR 832 836	MCAD
+#55	AnnotatorNotes T55	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T56	GO_BP 909 929	fatty acid oxidation
+#56	AnnotatorNotes T56	GO:0019395 (fatty acid oxidation)
+T57	CHEBI 909 919	fatty acid
+#57	AnnotatorNotes T57	CHEBI:35366 (fatty acids)
+T58	NCBITaxon 950 955	human
+#58	AnnotatorNotes T58	NCBITaxon:9606 (Homo sapiens)
+T59	GO_BP 975 995	fatty acid oxidation
+#59	AnnotatorNotes T59	GO:0019395 (fatty acid oxidation)
+T60	CHEBI 975 985	fatty acid
+#60	AnnotatorNotes T60	CHEBI:35366 (fatty acids)
+T61	EntrezGene 1010 1045	Medium-chain acyl-CoA dehydrogenase
+#61	AnnotatorNotes T61	EG:34
+T62	PR 1010 1045	Medium-chain acyl-CoA dehydrogenase
+#62	AnnotatorNotes T62	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T63	GO_MF 1023 1045	acyl-CoA dehydrogenase
+#63	AnnotatorNotes T63	GO:0003995 (acyl-CoA dehydrogenase activity)
+T64	independent_continuant 1023 1045	acyl-CoA dehydrogenase
+#64	AnnotatorNotes T64	independent_continuant
+T65	CHEBI 1023 1031	acyl-CoA
+#65	AnnotatorNotes T65	CHEBI:17984 (acyl-CoAs)
+T66	CHEBI 1023 1027	acyl
+#66	AnnotatorNotes T66	CHEBI:22221 (acyl groups)
+T67	CHEBI 1028 1031	CoA
+#67	AnnotatorNotes T67	CHEBI:15346 (coenzyme A)
+T68	EntrezGene 1047 1051	MCAD
+#68	AnnotatorNotes T68	EG:34
+T69	PR 1047 1051	MCAD
+#69	AnnotatorNotes T69	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T70	GO_BP 1113 1123	metabolism
+#70	AnnotatorNotes T70	GO:0008152 (metabolic process)
+T71	GO_BP 1140 1160	fatty acid oxidation
+#71	AnnotatorNotes T71	GO:0019395 (fatty acid oxidation)
+T72	CHEBI 1140 1150	fatty acid
+#72	AnnotatorNotes T72	CHEBI:35366 (fatty acids)
+T73	GO_BP 1194 1199	fatal
+#73	AnnotatorNotes T73	GO:0016265 (death)
+T74	GO_BP 1293 1302	Metabolic
+#74	AnnotatorNotes T74	GO:0008152 (metabolic process)
+T75	CHEBI 1340 1347	glucose
+#75	AnnotatorNotes T75	CHEBI:17234 (glucose)
+T76	GO_BP 1367 1377	generation
+#76	AnnotatorNotes T76	GO:0009058 (biosynthetic process)
+T77	CHEBI 1381 1386	toxic
+#77	AnnotatorNotes T77	CHEBI:27026 (toxin)
+T78	CHEBI 1387 1398	by-products
+#78	AnnotatorNotes T78	CHEBI:26619 (secondary metabolite)
+T79	GO_BP 1442 1447	death
+#79	AnnotatorNotes T79	GO:0016265 (death)
+T80	SO 1474 1478	gene
+#80	AnnotatorNotes T80	SO:0000704 (gene)
+T81	NCBITaxon 1492 1497	mouse
+#81	AnnotatorNotes T81	NCBITaxon:10088 (Mus)
+T82	CL 1508 1518	stem cells
+#82	AnnotatorNotes T82	CL:0000034 (stem cell)
+T83	GO_CC 1513 1518	cells
+#83	AnnotatorNotes T83	GO:0005623 (cell)
+T84	GO_BP 1537 1546	developed
+#84	AnnotatorNotes T84	GO:0000003 (reproduction)
+T85	NCBITaxon 1549 1554	mouse
+#85	AnnotatorNotes T85	NCBITaxon:10088 (Mus)
+T86	SO 1575 1581	enzyme
+#86	AnnotatorNotes T86	SO:0001185 (enzymatic)
+T87	NCBITaxon 1599 1604	mouse
+#87	AnnotatorNotes T87	NCBITaxon:10088 (Mus)
+T88	EntrezGene 1614 1618	MCAD
+#88	AnnotatorNotes T88	EG:34
+T89	PR 1614 1618	MCAD
+#89	AnnotatorNotes T89	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T90	EntrezGene 1712 1716	MCAD
+#90	AnnotatorNotes T90	EG:11364
+T91	PR 1712 1716	MCAD
+#91	AnnotatorNotes T91	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T92	NCBITaxon 1727 1732	mouse
+#92	AnnotatorNotes T92	NCBITaxon:10088 (Mus)
+T93	GO_BP 1768 1772	loss
+#93	AnnotatorNotes T93	GO:0016265 (death)
+T94	NCBITaxon 1915 1920	human
+#94	AnnotatorNotes T94	NCBITaxon:9606 (Homo sapiens)
+T95	EntrezGene 1946 1950	MCAD
+#95	AnnotatorNotes T95	EG:11364
+T96	PR 1946 1950	MCAD
+#96	AnnotatorNotes T96	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T97	NCBITaxon 1961 1966	mouse
+#97	AnnotatorNotes T97	NCBITaxon:10088 (Mus)
+T98	GO_CC 2114 2127	Mitochondrial
+#98	AnnotatorNotes T98	GO:0005739 (mitochondrion)
+T99	GO_BP 2128 2154	β-oxidation of fatty acids
+#99	AnnotatorNotes T99	GO:0006635 (fatty acid beta-oxidation)
+T100	CHEBI 2143 2154	fatty acids
+#100	AnnotatorNotes T100	CHEBI:35366 (fatty acids)
+T101	GO_BP 2210 2230	Fatty acid oxidation
+#101	AnnotatorNotes T101	GO:0019395 (fatty acid oxidation)
+T102	CHEBI 2210 2220	Fatty acid
+#102	AnnotatorNotes T102	CHEBI:35366 (fatty acids)
+T103	GO_CC 2241 2253	mitochondria
+#103	AnnotatorNotes T103	GO:0005739 (mitochondrion)
+T104	GO_MF 2346 2369	acyl-CoA dehydrogenases
+#104	AnnotatorNotes T104	GO:0003995 (acyl-CoA dehydrogenase activity)
+T105	independent_continuant 2346 2369	acyl-CoA dehydrogenases
+#105	AnnotatorNotes T105	independent_continuant
+T106	CHEBI 2346 2354	acyl-CoA
+#106	AnnotatorNotes T106	CHEBI:17984 (acyl-CoAs)
+T107	CHEBI 2346 2350	acyl
+#107	AnnotatorNotes T107	CHEBI:22221 (acyl groups)
+T108	CHEBI 2351 2354	CoA
+#108	AnnotatorNotes T108	CHEBI:15346 (coenzyme A)
+T109	PR 2400 2435	Medium-chain acyl-CoA dehydrogenase
+#109	AnnotatorNotes T109	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T110	GO_MF 2413 2435	acyl-CoA dehydrogenase
+#110	AnnotatorNotes T110	GO:0003995 (acyl-CoA dehydrogenase activity)
+T111	independent_continuant 2413 2435	acyl-CoA dehydrogenase
+#111	AnnotatorNotes T111	independent_continuant
+T112	CHEBI 2413 2421	acyl-CoA
+#112	AnnotatorNotes T112	CHEBI:17984 (acyl-CoAs)
+T113	CHEBI 2413 2417	acyl
+#113	AnnotatorNotes T113	CHEBI:22221 (acyl groups)
+T114	CHEBI 2418 2421	CoA
+#114	AnnotatorNotes T114	CHEBI:15346 (coenzyme A)
+T115	PR 2437 2441	MCAD
+#115	AnnotatorNotes T115	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T116	NCBITaxon 2448 2453	mouse
+#116	AnnotatorNotes T116	NCBITaxon:10088 (Mus)
+T117	SO 2454 2458	gene
+#117	AnnotatorNotes T117	SO:0000704 (gene)
+T118	italic 2462 2468	Acadm,
+#118	AnnotatorNotes T118	italic (null)
+T119	EntrezGene 2462 2467	Acadm
+#119	AnnotatorNotes T119	EG:11364
+T120	PR 2462 2467	Acadm
+#120	AnnotatorNotes T120	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T121	CHEBI 2481 2488	protein
+#121	AnnotatorNotes T121	CHEBI:36080 (proteins)
+T122	EntrezGene 2492 2496	MCAD
+#122	AnnotatorNotes T122	EG:11364
+T123	PR 2492 2496	MCAD
+#123	AnnotatorNotes T123	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T124	sub 2588 2589	6
+#124	AnnotatorNotes T124	sub (null)
+T125	sub 2591 2593	12
+#125	AnnotatorNotes T125	sub (null)
+T126	CHEBI 2595 2605	fatty acid
+#126	AnnotatorNotes T126	CHEBI:35366 (fatty acids)
+T127	CHEBI 2606 2616	thioesters
+#127	AnnotatorNotes T127	CHEBI:26959 (thiocarboxylic esters)
+T128	italic 2622 2627	Acadm
+#128	AnnotatorNotes T128	italic (null)
+T129	PR 2622 2627	Acadm
+#129	AnnotatorNotes T129	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T130	GO_BP 2631 2642	transcribed
+#130	AnnotatorNotes T130	GO:0006350 (transcription)
+T131	GO_CC 2650 2657	nucleus
+#131	AnnotatorNotes T131	GO:0005634 (nucleus)
+T132	GO_BP 2659 2669	translated
+#132	AnnotatorNotes T132	GO:0006412 (translation)
+T133	GO_CC 2677 2684	cytosol
+#133	AnnotatorNotes T133	GO:0005829 (cytosol)
+T134	GO_BP 2690 2702	translocated
+#134	AnnotatorNotes T134	GO:0006810 (transport)
+T135	GO_CC 2712 2732	mitochondrial matrix
+#135	AnnotatorNotes T135	GO:0005759 (mitochondrial matrix)
+T136	GO_CC 2712 2725	mitochondrial
+#136	AnnotatorNotes T136	GO:0005739 (mitochondrion)
+T137	GO_CC 2756 2776	mitochondrial matrix
+#137	AnnotatorNotes T137	GO:0005759 (mitochondrial matrix)
+T138	GO_CC 2756 2769	mitochondrial
+#138	AnnotatorNotes T138	GO:0005739 (mitochondrion)
+T139	PR 2782 2786	MCAD
+#139	AnnotatorNotes T139	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T140	GO_BP 2800 2809	assembled
+#140	AnnotatorNotes T140	GO:0022607 (cellular component assembly)
+T141	SO 2837 2846	enzymatic
+#141	AnnotatorNotes T141	SO:0001185 (enzymatic)
+T142	EntrezGene 2862 2866	MCAD
+#142	AnnotatorNotes T142	EG:34
+T143	PR 2862 2866	MCAD
+#143	AnnotatorNotes T143	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T144	GO_BP 2902 2922	fatty acid oxidation
+#144	AnnotatorNotes T144	GO:0019395 (fatty acid oxidation)
+T145	CHEBI 2902 2912	fatty acid
+#145	AnnotatorNotes T145	CHEBI:35366 (fatty acids)
+T146	EntrezGene 2934 2938	MCAD
+#146	AnnotatorNotes T146	EG:34
+T147	PR 2934 2938	MCAD
+#147	AnnotatorNotes T147	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T148	NCBITaxon 2960 2966	humans
+#148	AnnotatorNotes T148	NCBITaxon:9606 (Homo sapiens)
+T149	GO_CC 2973 2982	autosomal
+#149	AnnotatorNotes T149	GO:0030849 (autosome)
+T150	EntrezGene 3003 3007	MCAD
+#150	AnnotatorNotes T150	EG:34
+T151	PR 3003 3007	MCAD
+#151	AnnotatorNotes T151	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T152	EntrezGene 3289 3293	MCAD
+#152	AnnotatorNotes T152	EG:34
+T153	PR 3289 3293	MCAD
+#153	AnnotatorNotes T153	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T154	GO_BP 3610 3613	die
+#154	AnnotatorNotes T154	GO:0016265 (death)
+T155	GO_BP 3694 3703	metabolic
+#155	AnnotatorNotes T155	GO:0008152 (metabolic process)
+T156	EntrezGene 3720 3724	MCAD
+#156	AnnotatorNotes T156	EG:34
+T157	PR 3720 3724	MCAD
+#157	AnnotatorNotes T157	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T158	NCBITaxon 3821 3827	animal
+#158	AnnotatorNotes T158	NCBITaxon:33208 (Metazoa)
+T159	EntrezGene 3838 3842	MCAD
+#159	AnnotatorNotes T159	EG:34
+T160	PR 3838 3842	MCAD
+#160	AnnotatorNotes T160	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T161	EntrezGene 3908 3912	MCAD
+#161	AnnotatorNotes T161	EG:34
+T162	PR 3908 3912	MCAD
+#162	AnnotatorNotes T162	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T163	NCBITaxon 3970 3975	human
+#163	AnnotatorNotes T163	NCBITaxon:9606 (Homo sapiens)
+T164	GO_BP 4050 4059	developed
+#164	AnnotatorNotes T164	GO:0000003 (reproduction)
+T165	NCBITaxon 4062 4067	mouse
+#165	AnnotatorNotes T165	NCBITaxon:10088 (Mus)
+T166	EntrezGene 4077 4081	MCAD
+#166	AnnotatorNotes T166	EG:34
+T167	PR 4077 4081	MCAD
+#167	AnnotatorNotes T167	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T168	SO 4096 4100	gene
+#168	AnnotatorNotes T168	SO:0000704 (gene)
+T169	CL 4124 4139	stem (ES) cells
+#169	AnnotatorNotes T169	"stem .. cells" CL:0000034 (stem cell)
+T170	GO_CC 4134 4139	cells
+#170	AnnotatorNotes T170	GO:0005623 (cell)
+T171	SO 4167 4173	mutant
+#171	AnnotatorNotes T171	SO:0001059 (sequence_alteration)
+T172	NCBITaxon 4174 4178	mice
+#172	AnnotatorNotes T172	NCBITaxon:10088 (Mus)
+T173	EntrezGene 4245 4255	human MCAD
+#173	AnnotatorNotes T173	EG:34
+T174	NCBITaxon 4245 4250	human
+#174	AnnotatorNotes T174	NCBITaxon:9606 (Homo sapiens)
+T175	PR 4251 4255	MCAD
+#175	AnnotatorNotes T175	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T176	SO 4323 4327	Gene
+#176	AnnotatorNotes T176	SO:0000704 (gene)
+T177	GO_BP 4342 4352	Generation
+#177	AnnotatorNotes T177	GO:0000003 (reproduction)
+T178	EntrezGene 4356 4360	MCAD
+#178	AnnotatorNotes T178	EG:11364
+T179	PR 4356 4360	MCAD
+#179	AnnotatorNotes T179	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T180	NCBITaxon 4371 4375	Mice
+#180	AnnotatorNotes T180	NCBITaxon:10088 (Mus)
+T181	EntrezGene 4377 4381	MCAD
+#181	AnnotatorNotes T181	EG:11364
+T182	PR 4377 4381	MCAD
+#182	AnnotatorNotes T182	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T183	SO 4382 4391	insertion
+#183	AnnotatorNotes T183	SO:0000046 (insert)
+T184	SO 4392 4398	vector
+#184	AnnotatorNotes T184	SO:0000440 (vector_replicon)
+T185	EntrezGene 4400 4404	MCAD
+#185	AnnotatorNotes T185	EG:11364
+T186	PR 4400 4404	MCAD
+#186	AnnotatorNotes T186	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T187	GO_BP 4434 4444	gap repair
+#187	AnnotatorNotes T187	GO:0006287 (base-excision repair, gap-filling)
+T188	SO 4459 4466	deleted
+#188	AnnotatorNotes T188	SO:0000045 (delete)
+T189	SO 4467 4473	region
+#189	AnnotatorNotes T189	SO:0000001 (region)
+T190	GO_BP 4490 4503	recombination
+#190	AnnotatorNotes T190	GO:0006310 (DNA recombination)
+T191	CL 4531 4536	cells
+#191	AnnotatorNotes T191	CL:0000000 (cell)
+T192	GO_CC 4531 4536	cells
+#192	AnnotatorNotes T192	GO:0005623 (cell)
+T193	EntrezGene 4569 4573	MCAD
+#193	AnnotatorNotes T193	EG:11364
+T194	PR 4569 4573	MCAD
+#194	AnnotatorNotes T194	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T195	SO 4574 4579	locus
+#195	AnnotatorNotes T195	SO:0000001 (region)
+T196	SO 4594 4605	duplication
+#196	AnnotatorNotes T196	SO:1000035 (nucleotide_duplication)
+T197	SO 4609 4614	exons
+#197	AnnotatorNotes T197	SO:0000147 (exon)
+T198	SO 4632 4643	integration
+#198	AnnotatorNotes T198	SO:0000046 (insert)
+T199	SO 4656 4681	plasmid and Neo sequences
+#199	AnnotatorNotes T199	"plasmid .. sequences" SO:0000155 (plasmid)
+T200	GO_MF 4668 4671	Neo
+#200	AnnotatorNotes T200	GO:0008910 (kanamycin kinase activity)
+T201	independent_continuant 4668 4671	Neo
+#201	AnnotatorNotes T201	independent_continuant
+T202	SO 4699 4708	insertion
+#202	AnnotatorNotes T202	SO:0000046 (insert)
+T203	SO 4709 4715	vector
+#203	AnnotatorNotes T203	SO:0000440 (vector_replicon)
+T204	SO 4742 4746	exon
+#204	AnnotatorNotes T204	SO:0000147 (exon)
+T205	EntrezGene 4767 4771	MCAD
+#205	AnnotatorNotes T205	EG:11364
+T206	PR 4767 4771	MCAD
+#206	AnnotatorNotes T206	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T207	SO 4772 4777	locus
+#207	AnnotatorNotes T207	SO:0000001 (region)
+T208	GO_BP 4779 4790	Translation
+#208	AnnotatorNotes T208	GO:0006412 (translation)
+T209	SO 4809 4813	exon
+#209	AnnotatorNotes T209	SO:0000147 (exon)
+T210	SO 4816 4822	region
+#210	AnnotatorNotes T210	SO:0000001 (region)
+T211	GO_BP 4838 4847	formation
+#211	AnnotatorNotes T211	GO:0009058 (biosynthetic process)
+T212	SO 4861 4872	stop codons
+#212	AnnotatorNotes T212	SO:0000319 (stop_codon)
+T213	GO_BP 4861 4865	stop
+#213	AnnotatorNotes T213	GO:0006353 (transcription termination)
+T214	GO_BP 4861 4865	stop
+#214	AnnotatorNotes T214	GO:0006415 (translational termination)
+T215	EntrezGene 4904 4908	MCAD
+#215	AnnotatorNotes T215	EG:11364
+T216	PR 4904 4908	MCAD
+#216	AnnotatorNotes T216	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T217	SO 4952 4962	stop codon
+#217	AnnotatorNotes T217	SO:0000319 (stop_codon)
+T218	GO_BP 4952 4956	stop
+#218	AnnotatorNotes T218	GO:0006415 (translational termination)
+T219	GO_BP 4952 4956	stop
+#219	AnnotatorNotes T219	GO:0006353 (transcription termination)
+T220	GO_BP 4963 4969	arises
+#220	AnnotatorNotes T220	GO:0009058 (biosynthetic process)
+T221	GO_BP 4976 4987	translation
+#221	AnnotatorNotes T221	GO:0006412 (translation)
+T222	CHEBI 5002 5013	amino acids
+#222	AnnotatorNotes T222	CHEBI:33708 (amino-acid residue)
+T223	SO 5002 5013	amino acids
+#223	AnnotatorNotes T223	SO:0001237 (amino_acid)
+T224	CHEBI 5002 5007	amino
+#224	AnnotatorNotes T224	CHEBI:46882 (amino group)
+T225	CHEBI 5002 5007	amino
+#225	AnnotatorNotes T225	CHEBI:32952 (amines)
+T226	CHEBI 5008 5013	acids
+#226	AnnotatorNotes T226	CHEBI:37527 (acid)
+T227	SO 5034 5038	exon
+#227	AnnotatorNotes T227	SO:0000147 (exon)
+T228	EntrezGene 5056 5060	MCAD
+#228	AnnotatorNotes T228	EG:11364
+T229	PR 5056 5060	MCAD
+#229	AnnotatorNotes T229	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T230	SO 5084 5101	C-terminal domain
+#230	AnnotatorNotes T230	SO:0100015 (c_terminal_region)
+T231	CHEBI 5084 5085	C
+#231	AnnotatorNotes T231	CHEBI:18245 (carboxylato group)
+T232	CHEBI 5084 5085	C
+#232	AnnotatorNotes T232	CHEBI:46883 (carboxy group)
+T233	SO 5095 5101	domain
+#233	AnnotatorNotes T233	SO:0000417 (polypeptide_domain)
+T234	SO 5102 5111	α-helixes
+#234	AnnotatorNotes T234	SO:0001117 (alpha_helix)
+T235	GO_BP 5169 5177	generate
+#235	AnnotatorNotes T235	GO:0022607 (cellular component assembly)
+T236	EntrezGene 5193 5197	MCAD
+#236	AnnotatorNotes T236	EG:11364
+T237	PR 5193 5197	MCAD
+#237	AnnotatorNotes T237	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T238	EntrezGene 5254 5265	Mouse Acadm
+#238	AnnotatorNotes T238	EG:11364
+T239	NCBITaxon 5254 5259	Mouse
+#239	AnnotatorNotes T239	NCBITaxon:10088 (Mus)
+T240	italic 5260 5265	Acadm
+#240	AnnotatorNotes T240	italic (null)
+T241	PR 5260 5265	Acadm
+#241	AnnotatorNotes T241	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T242	SO 5266 5270	Gene
+#242	AnnotatorNotes T242	SO:0000704 (gene)
+T243	EntrezGene 5280 5284	MCAD
+#243	AnnotatorNotes T243	EG:11364
+T244	PR 5280 5284	MCAD
+#244	AnnotatorNotes T244	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T245	SO 5289 5298	insertion
+#245	AnnotatorNotes T245	SO:0000046 (insert)
+T246	SO 5309 5315	vector
+#246	AnnotatorNotes T246	SO:0000440 (vector_replicon)
+T247	SO 5323 5330	deleted
+#247	AnnotatorNotes T247	SO:0000045 (delete)
+T248	SO 5338 5344	region
+#248	AnnotatorNotes T248	SO:0000001 (region)
+T249	SO 5358 5362	exon
+#249	AnnotatorNotes T249	SO:0000147 (exon)
+T250	SO 5370 5388	flanking sequences
+#250	AnnotatorNotes T250	SO:0000239 (flanking_region)
+T251	EntrezGene 5390 5394	MCAD
+#251	AnnotatorNotes T251	EG:11364
+T252	PR 5390 5394	MCAD
+#252	AnnotatorNotes T252	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T253	GO_BP 5409 5419	gap repair
+#253	AnnotatorNotes T253	GO:0006287 (base-excision repair, gap-filling)
+T254	GO_BP 5436 5449	recombination
+#254	AnnotatorNotes T254	GO:0006310 (DNA recombination)
+T255	italic 5468 5473	Acadm
+#255	AnnotatorNotes T255	italic (null)
+T256	EntrezGene 5468 5473	Acadm
+#256	AnnotatorNotes T256	EG:11364
+T257	PR 5468 5473	Acadm
+#257	AnnotatorNotes T257	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T258	SO 5474 5479	locus
+#258	AnnotatorNotes T258	SO:0000001 (region)
+T259	SO 5495 5506	duplication
+#259	AnnotatorNotes T259	SO:1000035 (nucleotide_duplication)
+T260	SO 5510 5515	exons
+#260	AnnotatorNotes T260	SO:0000147 (exon)
+T261	SO 5546 5552	allele
+#261	AnnotatorNotes T261	SO:0001023 (allele)
+T262	GO_BP 5591 5599	digested
+#262	AnnotatorNotes T262	GO:0009056 (catabolic process)
+T263	SO 5600 5611	genomic DNA
+#263	AnnotatorNotes T263	SO:0000991 (genomic_DNA)
+T264	SO 5600 5607	genomic
+#264	AnnotatorNotes T264	SO:0001026 (genome)
+T265	CL 5620 5625	cells
+#265	AnnotatorNotes T265	CL:0000000 (cell)
+T266	GO_CC 5620 5625	cells
+#266	AnnotatorNotes T266	GO:0005623 (cell)
+T267	SO 5643 5648	Probe
+#267	AnnotatorNotes T267	SO:0000051 (probe)
+T268	SO 5654 5657	DNA
+#268	AnnotatorNotes T268	SO:0000352 (DNA)
+T269	SO 5658 5666	fragment
+#269	AnnotatorNotes T269	SO:0000731 (fragmentary)
+T270	SO 5683 5698	portion of exon
+#270	AnnotatorNotes T270	SO:0000852 (exon_region)
+T271	SO 5694 5698	exon
+#271	AnnotatorNotes T271	SO:0000147 (exon)
+T272	SO 5739 5745	vector
+#272	AnnotatorNotes T272	SO:0000440 (vector_replicon)
+T273	GO_MF 5747 5757	hybridizes
+#273	AnnotatorNotes T273	GO:0000739 (DNA strand annealing activity)
+T274	GO_MF 5747 5757	hybridizes
+#274	AnnotatorNotes T274	GO:0033592 (RNA strand annealing activity)
+T275	SO 5782 5790	fragment
+#275	AnnotatorNotes T275	SO:0000731 (fragmentary)
+T276	GO_BP 5812 5825	recombination
+#276	AnnotatorNotes T276	GO:0006310 (DNA recombination)
+T277	SO 5840 5848	fragment
+#277	AnnotatorNotes T277	SO:0000731 (fragmentary)
+T278	SO 5870 5879	wild-type
+#278	AnnotatorNotes T278	SO:0000817 (wild_type)
+T279	CL 5883 5887	cell
+#279	AnnotatorNotes T279	CL:0000000 (cell)
+T280	GO_CC 5883 5887	cell
+#280	AnnotatorNotes T280	GO:0005623 (cell)
+T281	CL 5933 5937	cell
+#281	AnnotatorNotes T281	CL:0000000 (cell)
+T282	GO_CC 5933 5937	cell
+#282	AnnotatorNotes T282	GO:0005623 (cell)
+T283	CL 5949 5953	cell
+#283	AnnotatorNotes T283	CL:0000000 (cell)
+T284	GO_CC 5949 5953	cell
+#284	AnnotatorNotes T284	GO:0005623 (cell)
+T285	SO 6071 6075	exon
+#285	AnnotatorNotes T285	SO:0000147 (exon)
+T286	SO 6079 6084	probe
+#286	AnnotatorNotes T286	SO:0000051 (probe)
+T287	SO 6086 6091	probe
+#287	AnnotatorNotes T287	SO:0000051 (probe)
+T288	SO 6125 6131	vector
+#288	AnnotatorNotes T288	SO:0000440 (vector_replicon)
+T289	GO_MF 6133 6143	hybridized
+#289	AnnotatorNotes T289	GO:0000739 (DNA strand annealing activity)
+T290	GO_MF 6133 6143	hybridized
+#290	AnnotatorNotes T290	GO:0033592 (RNA strand annealing activity)
+T291	SO 6224 6233	insertion
+#291	AnnotatorNotes T291	SO:0000046 (insert)
+T292	SO 6241 6247	vector
+#292	AnnotatorNotes T292	SO:0000440 (vector_replicon)
+T293	italic 6255 6260	Acadm
+#293	AnnotatorNotes T293	italic (null)
+T294	EntrezGene 6255 6260	Acadm
+#294	AnnotatorNotes T294	EG:11364
+T295	PR 6255 6260	Acadm
+#295	AnnotatorNotes T295	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T296	SO 6261 6266	locus
+#296	AnnotatorNotes T296	SO:0000001 (region)
+T297	CL 6302 6306	cell
+#297	AnnotatorNotes T297	CL:0000000 (cell)
+T298	GO_CC 6302 6306	cell
+#298	AnnotatorNotes T298	GO:0005623 (cell)
+T299	GO_BP 6370 6378	generate
+#299	AnnotatorNotes T299	GO:0000003 (reproduction)
+T300	NCBITaxon 6388 6392	mice
+#300	AnnotatorNotes T300	NCBITaxon:10088 (Mus)
+T301	NCBITaxon 6403 6407	mice
+#301	AnnotatorNotes T301	NCBITaxon:10088 (Mus)
+T302	NCBITaxon 6453 6457	mice
+#302	AnnotatorNotes T302	NCBITaxon:10088 (Mus)
+T303	GO_BP 6461 6468	produce
+#303	AnnotatorNotes T303	GO:0000003 (reproduction)
+T304	EntrezGene 6469 6473	MCAD
+#304	AnnotatorNotes T304	EG:11364
+T305	PR 6469 6473	MCAD
+#305	AnnotatorNotes T305	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T306	sup 6473 6476	+/−
+#306	AnnotatorNotes T306	sup (null)
+T307	SO 6473 6474	+
+#307	AnnotatorNotes T307	SO:0000817 (wild_type)
+T308	EntrezGene 6492 6496	MCAD
+#308	AnnotatorNotes T308	EG:11364
+T309	PR 6492 6496	MCAD
+#309	AnnotatorNotes T309	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T310	sup 6496 6499	−/−
+#310	AnnotatorNotes T310	sup (null)
+T311	NCBITaxon 6500 6504	mice
+#311	AnnotatorNotes T311	NCBITaxon:10088 (Mus)
+T312	SO 6718 6725	mutants
+#312	AnnotatorNotes T312	SO:0001059 (sequence_alteration)
+T313	independent_continuant 6718 6725	mutants
+#313	AnnotatorNotes T313	independent_continuant
+T314	SO 6745 6753	mutation
+#314	AnnotatorNotes T314	SO:0001059 (sequence_alteration)
+T315	SO 6768 6774	mutant
+#315	AnnotatorNotes T315	SO:0001059 (sequence_alteration)
+T316	NCBITaxon 6834 6838	mice
+#316	AnnotatorNotes T316	NCBITaxon:10088 (Mus)
+T317	SO 6861 6871	wild-types
+#317	AnnotatorNotes T317	SO:0000817 (wild_type)
+T318	independent_continuant 6861 6871	wild-types
+#318	AnnotatorNotes T318	independent_continuant
+T319	italic 6898 6903	Acadm
+#319	AnnotatorNotes T319	italic (null)
+T320	PR 6898 6903	Acadm
+#320	AnnotatorNotes T320	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T321	EntrezGene 6898 6903	Acadm
+#321	AnnotatorNotes T321	EG:11364
+T322	SO 6904 6912	mutation
+#322	AnnotatorNotes T322	SO:0001059 (sequence_alteration)
+T323	GO_BP 6985 6990	death
+#323	AnnotatorNotes T323	GO:0016265 (death)
+T324	CHEBI 7007 7016	molecular
+#324	AnnotatorNotes T324	CHEBI:23367 (molecular entity)
+T325	SO 7043 7049	allele
+#325	AnnotatorNotes T325	SO:0001023 (allele)
+T326	SO 7117 7126	genotypes
+#326	AnnotatorNotes T326	SO:0001027 (genotype)
+T327	SO 7192 7198	allele
+#327	AnnotatorNotes T327	SO:0001023 (allele)
+T328	NCBITaxon 7230 7235	mouse
+#328	AnnotatorNotes T328	NCBITaxon:10088 (Mus)
+T329	EntrezGene 7240 7244	MCAD
+#329	AnnotatorNotes T329	EG:11364
+T330	PR 7240 7244	MCAD
+#330	AnnotatorNotes T330	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T331	sup 7244 7247	−/−
+#331	AnnotatorNotes T331	sup (null)
+T332	EntrezGene 7251 7255	MCAD
+#332	AnnotatorNotes T332	EG:11364
+T333	PR 7251 7255	MCAD
+#333	AnnotatorNotes T333	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T334	sup 7255 7258	+/−
+#334	AnnotatorNotes T334	sup (null)
+T335	SO 7255 7256	+
+#335	AnnotatorNotes T335	SO:0000817 (wild_type)
+T336	SO 7310 7321	genomic DNA
+#336	AnnotatorNotes T336	SO:0000991 (genomic_DNA)
+T337	SO 7310 7317	genomic
+#337	AnnotatorNotes T337	SO:0001026 (genome)
+T338	EntrezGene 7334 7338	MCAD
+#338	AnnotatorNotes T338	EG:11364
+T339	PR 7334 7338	MCAD
+#339	AnnotatorNotes T339	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T340	sup 7338 7341	−/−
+#340	AnnotatorNotes T340	sup (null)
+T341	NCBITaxon 7342 7346	mice
+#341	AnnotatorNotes T341	NCBITaxon:10088 (Mus)
+T342	EntrezGene 7432 7436	MCAD
+#342	AnnotatorNotes T342	EG:11364
+T343	PR 7432 7436	MCAD
+#343	AnnotatorNotes T343	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T344	sup 7436 7439	−/−
+#344	AnnotatorNotes T344	sup (null)
+T345	EntrezGene 7444 7448	MCAD
+#345	AnnotatorNotes T345	EG:11364
+T346	PR 7444 7448	MCAD
+#346	AnnotatorNotes T346	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T347	sup 7448 7451	+/+
+#347	AnnotatorNotes T347	sup (null)
+T348	SO 7448 7449	+
+#348	AnnotatorNotes T348	SO:0000817 (wild_type)
+T349	SO 7450 7451	+
+#349	AnnotatorNotes T349	SO:0000817 (wild_type)
+T350	NCBITaxon 7452 7456	mice
+#350	AnnotatorNotes T350	NCBITaxon:10088 (Mus)
+T351	SO 7478 7481	RNA
+#351	AnnotatorNotes T351	SO:0000356 (RNA)
+T352	GO_MF 7492 7494	RT
+#352	AnnotatorNotes T352	GO:0003964 (RNA-directed DNA polymerase activity)
+T353	independent_continuant 7492 7494	RT
+#353	AnnotatorNotes T353	independent_continuant
+T354	GO_BP 7492 7494	RT
+#354	AnnotatorNotes T354	GO:0006410 (transcription, RNA-dependent)
+T355	SO 7518 7522	exon
+#355	AnnotatorNotes T355	SO:0000147 (exon)
+T356	SO 7548 7551	RNA
+#356	AnnotatorNotes T356	SO:0000356 (RNA)
+T357	SO 7566 7574	expected
+#357	AnnotatorNotes T357	SO:0000732 (predicted)
+T358	SO 7579 7588	base pair
+#358	AnnotatorNotes T358	SO:0000028 (base_pair)
+T359	SO 7579 7583	base
+#359	AnnotatorNotes T359	SO:0001236 (base)
+T360	SO 7590 7592	bp
+#360	AnnotatorNotes T360	SO:0000028 (base_pair)
+T361	SO 7594 7602	fragment
+#361	AnnotatorNotes T361	SO:0000731 (fragmentary)
+T362	EntrezGene 7606 7610	MCAD
+#362	AnnotatorNotes T362	EG:11364
+T363	PR 7606 7610	MCAD
+#363	AnnotatorNotes T363	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T364	sup 7610 7613	+/+
+#364	AnnotatorNotes T364	sup (null)
+T365	SO 7610 7611	+
+#365	AnnotatorNotes T365	SO:0000817 (wild_type)
+T366	SO 7612 7613	+
+#366	AnnotatorNotes T366	SO:0000817 (wild_type)
+T367	EntrezGene 7618 7622	MCAD
+#367	AnnotatorNotes T367	EG:11364
+T368	PR 7618 7622	MCAD
+#368	AnnotatorNotes T368	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T369	sup 7622 7625	+/−
+#369	AnnotatorNotes T369	sup (null)
+T370	SO 7622 7623	+
+#370	AnnotatorNotes T370	SO:0000817 (wild_type)
+T371	NCBITaxon 7626 7630	mice
+#371	AnnotatorNotes T371	NCBITaxon:10088 (Mus)
+T372	SO 7645 7653	fragment
+#372	AnnotatorNotes T372	SO:0000731 (fragmentary)
+T373	EntrezGene 7657 7661	MCAD
+#373	AnnotatorNotes T373	EG:11364
+T374	PR 7657 7661	MCAD
+#374	AnnotatorNotes T374	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T375	sup 7661 7664	−/−
+#375	AnnotatorNotes T375	sup (null)
+T376	NCBITaxon 7665 7669	mice
+#376	AnnotatorNotes T376	NCBITaxon:10088 (Mus)
+T377	SO 7688 7696	Sequence
+#377	AnnotatorNotes T377	SO:0000001 (region)
+T378	SO 7720 7728	fragment
+#378	AnnotatorNotes T378	SO:0000731 (fragmentary)
+T379	SO 7757 7765	fragment
+#379	AnnotatorNotes T379	SO:0000731 (fragmentary)
+T380	SO 7779 7783	exon
+#380	AnnotatorNotes T380	SO:0000147 (exon)
+T381	SO 7789 7793	exon
+#381	AnnotatorNotes T381	SO:0000147 (exon)
+T382	SO 7806 7808	bp
+#382	AnnotatorNotes T382	SO:0000028 (base_pair)
+T383	SO 7817 7833	plasmid sequence
+#383	AnnotatorNotes T383	SO:0000155 (plasmid)
+T384	SO 7846 7851	exons
+#384	AnnotatorNotes T384	SO:0000147 (exon)
+T385	SO 7870 7887	plasmid sequences
+#385	AnnotatorNotes T385	SO:0000155 (plasmid)
+T386	SO 7914 7922	sequence
+#386	AnnotatorNotes T386	SO:0000001 (region)
+T387	SO 7929 7936	deleted
+#387	AnnotatorNotes T387	SO:0000045 (delete)
+T388	GO_BP 7947 7954	spliced
+#388	AnnotatorNotes T388	GO:0008380 (RNA splicing)
+T389	CHEBI 7955 7959	mRNA
+#389	AnnotatorNotes T389	CHEBI:33699 (messenger RNA)
+T390	SO 7955 7959	mRNA
+#390	AnnotatorNotes T390	SO:0000234 (mRNA)
+T391	italic 7994 7999	Acadm
+#391	AnnotatorNotes T391	italic (null)
+T392	EntrezGene 7994 7999	Acadm
+#392	AnnotatorNotes T392	EG:11364
+T393	PR 7994 7999	Acadm
+#393	AnnotatorNotes T393	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T394	GO_BP 8013 8022	expressed
+#394	AnnotatorNotes T394	GO:0010467 (gene expression)
+T395	EntrezGene 8052 8056	MCAD
+#395	AnnotatorNotes T395	EG:11364
+T396	PR 8052 8056	MCAD
+#396	AnnotatorNotes T396	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T397	sup 8056 8059	+/+
+#397	AnnotatorNotes T397	sup (null)
+T398	SO 8056 8057	+
+#398	AnnotatorNotes T398	SO:0000817 (wild_type)
+T399	SO 8058 8059	+
+#399	AnnotatorNotes T399	SO:0000817 (wild_type)
+T400	NCBITaxon 8060 8064	mice
+#400	AnnotatorNotes T400	NCBITaxon:10088 (Mus)
+T401	GO_BP 8086 8096	expression
+#401	AnnotatorNotes T401	GO:0010467 (gene expression)
+T402	GO_BP 8176 8186	expression
+#402	AnnotatorNotes T402	GO:0010467 (gene expression)
+T403	GO_MF 8259 8261	RT
+#403	AnnotatorNotes T403	GO:0003964 (RNA-directed DNA polymerase activity)
+T404	GO_BP 8259 8261	RT
+#404	AnnotatorNotes T404	GO:0006410 (transcription, RNA-dependent)
+T405	independent_continuant 8259 8261	RT
+#405	AnnotatorNotes T405	independent_continuant
+T406	SO 8291 8315	spliced Acadm transcript
+#406	AnnotatorNotes T406	"spliced .. transcript" SO:1001187 (alternatively_spliced_transcript)
+T407	GO_BP 8291 8298	spliced
+#407	AnnotatorNotes T407	GO:0008380 (RNA splicing)
+T408	italic 8299 8304	Acadm
+#408	AnnotatorNotes T408	italic (null)
+T409	EntrezGene 8299 8304	Acadm
+#409	AnnotatorNotes T409	EG:11364
+T410	PR 8299 8304	Acadm
+#410	AnnotatorNotes T410	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T411	italic 8320 8325	Acadm
+#411	AnnotatorNotes T411	italic (null)
+T412	PR 8320 8325	Acadm
+#412	AnnotatorNotes T412	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T413	EntrezGene 8320 8325	Acadm
+#413	AnnotatorNotes T413	EG:11364
+T414	SO 8326 8337	transcripts
+#414	AnnotatorNotes T414	SO:0000673 (transcript)
+T415	EntrezGene 8383 8387	MCAD
+#415	AnnotatorNotes T415	EG:11364
+T416	PR 8383 8387	MCAD
+#416	AnnotatorNotes T416	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T417	sup 8387 8390	−/−
+#417	AnnotatorNotes T417	sup (null)
+T418	NCBITaxon 8391 8395	mice
+#418	AnnotatorNotes T418	NCBITaxon:10088 (Mus)
+T419	SO 8437 8443	mutant
+#419	AnnotatorNotes T419	SO:0001059 (sequence_alteration)
+T420	SO 8444 8447	RNA
+#420	AnnotatorNotes T420	SO:0000356 (RNA)
+T421	GO_BP 8464 8472	degraded
+#421	AnnotatorNotes T421	GO:0009056 (catabolic process)
+T422	GO_BP 8510 8537	nonsense mediated RNA decay
+#422	AnnotatorNotes T422	GO:0000184 (mRNA catabolic process, nonsense-mediated decay)
+T423	SO 8528 8531	RNA
+#423	AnnotatorNotes T423	SO:0000356 (RNA)
+T424	EntrezGene 8578 8582	MCAD
+#424	AnnotatorNotes T424	EG:11364
+T425	PR 8578 8582	MCAD
+#425	AnnotatorNotes T425	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T426	sup 8582 8585	−/−
+#426	AnnotatorNotes T426	sup (null)
+T427	italic 8587 8588	n
+#427	AnnotatorNotes T427	italic (null)
+T428	EntrezGene 8598 8602	MCAD
+#428	AnnotatorNotes T428	EG:11364
+T429	PR 8598 8602	MCAD
+#429	AnnotatorNotes T429	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T430	sup 8602 8605	+/+
+#430	AnnotatorNotes T430	sup (null)
+T431	SO 8602 8603	+
+#431	AnnotatorNotes T431	SO:0000817 (wild_type)
+T432	SO 8604 8605	+
+#432	AnnotatorNotes T432	SO:0000817 (wild_type)
+T433	italic 8607 8608	n
+#433	AnnotatorNotes T433	italic (null)
+T434	NCBITaxon 8614 8618	Mice
+#434	AnnotatorNotes T434	NCBITaxon:10088 (Mus)
+T435	italic 8620 8625	Acadm
+#435	AnnotatorNotes T435	italic (null)
+T436	PR 8620 8625	Acadm
+#436	AnnotatorNotes T436	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T437	EntrezGene 8620 8625	Acadm
+#437	AnnotatorNotes T437	EG:11364
+T438	SO 8626 8633	message
+#438	AnnotatorNotes T438	SO:0000673 (transcript)
+T439	EntrezGene 8758 8762	MCAD
+#439	AnnotatorNotes T439	EG:11364
+T440	PR 8758 8762	MCAD
+#440	AnnotatorNotes T440	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T441	sup 8762 8765	+/+
+#441	AnnotatorNotes T441	sup (null)
+T442	SO 8762 8763	+
+#442	AnnotatorNotes T442	SO:0000817 (wild_type)
+T443	SO 8764 8765	+
+#443	AnnotatorNotes T443	SO:0000817 (wild_type)
+T444	NCBITaxon 8766 8770	mice
+#444	AnnotatorNotes T444	NCBITaxon:10088 (Mus)
+T445	GO_BP 8784 8794	expression
+#445	AnnotatorNotes T445	GO:0010467 (gene expression)
+T446	EntrezGene 8854 8858	MCAD
+#446	AnnotatorNotes T446	EG:11364
+T447	PR 8854 8858	MCAD
+#447	AnnotatorNotes T447	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T448	sup 8858 8861	−/−
+#448	AnnotatorNotes T448	sup (null)
+T449	NCBITaxon 8862 8866	mice
+#449	AnnotatorNotes T449	NCBITaxon:10088 (Mus)
+T450	SO 8885 8892	message
+#450	AnnotatorNotes T450	SO:0000673 (transcript)
+T451	SO 8925 8931	Enzyme
+#451	AnnotatorNotes T451	SO:0001185 (enzymatic)
+T452	PR 8993 8997	MCAD
+#452	AnnotatorNotes T452	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T453	EntrezGene 9036 9040	MCAD
+#453	AnnotatorNotes T453	EG:11364
+T454	PR 9036 9040	MCAD
+#454	AnnotatorNotes T454	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T455	EntrezGene 9064 9068	MCAD
+#455	AnnotatorNotes T455	EG:11364
+T456	PR 9064 9068	MCAD
+#456	AnnotatorNotes T456	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T457	sup 9068 9071	+/+
+#457	AnnotatorNotes T457	sup (null)
+T458	SO 9068 9069	+
+#458	AnnotatorNotes T458	SO:0000817 (wild_type)
+T459	SO 9070 9071	+
+#459	AnnotatorNotes T459	SO:0000817 (wild_type)
+T460	NCBITaxon 9072 9076	mice
+#460	AnnotatorNotes T460	NCBITaxon:10088 (Mus)
+T461	EntrezGene 9089 9093	MCAD
+#461	AnnotatorNotes T461	EG:11364
+T462	PR 9089 9093	MCAD
+#462	AnnotatorNotes T462	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T463	sup 9093 9096	−/−
+#463	AnnotatorNotes T463	sup (null)
+T464	NCBITaxon 9097 9101	mice
+#464	AnnotatorNotes T464	NCBITaxon:10088 (Mus)
+T465	GO_MF 9142 9176	short-chain acyl-CoA dehydrogenase
+#465	AnnotatorNotes T465	GO:0004085 (butyryl-CoA dehydrogenase activity)
+T466	PR 9142 9176	short-chain acyl-CoA dehydrogenase
+#466	AnnotatorNotes T466	PR:000003602 (short-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T467	independent_continuant 9142 9176	short-chain acyl-CoA dehydrogenase
+#467	AnnotatorNotes T467	independent_continuant
+T468	CHEBI 9154 9162	acyl-CoA
+#468	AnnotatorNotes T468	CHEBI:17984 (acyl-CoAs)
+T469	CHEBI 9154 9158	acyl
+#469	AnnotatorNotes T469	CHEBI:22221 (acyl groups)
+T470	CHEBI 9159 9162	CoA
+#470	AnnotatorNotes T470	CHEBI:15346 (coenzyme A)
+T471	GO_MF 9178 9182	SCAD
+#471	AnnotatorNotes T471	GO:0004085 (butyryl-CoA dehydrogenase activity)
+T472	independent_continuant 9178 9182	SCAD
+#472	AnnotatorNotes T472	independent_continuant
+T473	PR 9178 9182	SCAD
+#473	AnnotatorNotes T473	PR:000003602 (short-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T474	GO_BP 9230 9240	expression
+#474	AnnotatorNotes T474	GO:0010467 (gene expression)
+T475	independent_continuant 9244 9248	SCAD
+#475	AnnotatorNotes T475	independent_continuant
+T476	PR 9244 9248	SCAD
+#476	AnnotatorNotes T476	PR:000003602 (short-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T477	GO_MF 9244 9248	SCAD
+#477	AnnotatorNotes T477	GO:0004085 (butyryl-CoA dehydrogenase activity)
+T478	EntrezGene 9244 9248	SCAD
+#478	AnnotatorNotes T478	EG:11409
+T479	CHEBI 9249 9256	protein
+#479	AnnotatorNotes T479	CHEBI:36080 (proteins)
+T480	EntrezGene 9265 9269	MCAD
+#480	AnnotatorNotes T480	EG:11364
+T481	PR 9265 9269	MCAD
+#481	AnnotatorNotes T481	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T482	sup 9269 9272	+/+
+#482	AnnotatorNotes T482	sup (null)
+T483	SO 9269 9270	+
+#483	AnnotatorNotes T483	SO:0000817 (wild_type)
+T484	SO 9271 9272	+
+#484	AnnotatorNotes T484	SO:0000817 (wild_type)
+T485	EntrezGene 9277 9281	MCAD
+#485	AnnotatorNotes T485	EG:11364
+T486	PR 9277 9281	MCAD
+#486	AnnotatorNotes T486	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T487	sup 9281 9284	−/−
+#487	AnnotatorNotes T487	sup (null)
+T488	NCBITaxon 9285 9289	mice
+#488	AnnotatorNotes T488	NCBITaxon:10088 (Mus)
+T489	EntrezGene 9351 9355	MCAD
+#489	AnnotatorNotes T489	EG:11364
+T490	PR 9351 9355	MCAD
+#490	AnnotatorNotes T490	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T491	sup 9355 9358	+/+
+#491	AnnotatorNotes T491	sup (null)
+T492	SO 9355 9356	+
+#492	AnnotatorNotes T492	SO:0000817 (wild_type)
+T493	SO 9357 9358	+
+#493	AnnotatorNotes T493	SO:0000817 (wild_type)
+T494	EntrezGene 9363 9367	MCAD
+#494	AnnotatorNotes T494	EG:11364
+T495	PR 9363 9367	MCAD
+#495	AnnotatorNotes T495	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T496	sup 9367 9370	−/−
+#496	AnnotatorNotes T496	sup (null)
+T497	NCBITaxon 9371 9375	Mice
+#497	AnnotatorNotes T497	NCBITaxon:10088 (Mus)
+T498	PR 9405 9409	MCAD
+#498	AnnotatorNotes T498	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T499	GO_CC 9410 9418	antibody
+#499	AnnotatorNotes T499	GO:0019814 (immunoglobulin complex)
+T500	independent_continuant 9427 9431	SCAD
+#500	AnnotatorNotes T500	independent_continuant
+T501	PR 9427 9431	SCAD
+#501	AnnotatorNotes T501	PR:000003602 (short-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T502	GO_MF 9427 9431	SCAD
+#502	AnnotatorNotes T502	GO:0004085 (butyryl-CoA dehydrogenase activity)
+T503	GO_CC 9432 9440	antibody
+#503	AnnotatorNotes T503	GO:0019814 (immunoglobulin complex)
+T504	EntrezGene 9453 9457	MCAD
+#504	AnnotatorNotes T504	EG:11364
+T505	PR 9453 9457	MCAD
+#505	AnnotatorNotes T505	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T506	sup 9457 9460	−/−
+#506	AnnotatorNotes T506	sup (null)
+T507	NCBITaxon 9461 9465	mice
+#507	AnnotatorNotes T507	NCBITaxon:10088 (Mus)
+T508	EntrezGene 9484 9488	MCAD
+#508	AnnotatorNotes T508	EG:11364
+T509	PR 9484 9488	MCAD
+#509	AnnotatorNotes T509	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T510	CHEBI 9489 9496	protein
+#510	AnnotatorNotes T510	CHEBI:36080 (proteins)
+T511	EntrezGene 9498 9502	MCAD
+#511	AnnotatorNotes T511	EG:11364
+T512	PR 9498 9502	MCAD
+#512	AnnotatorNotes T512	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T513	CHEBI 9503 9510	protein
+#513	AnnotatorNotes T513	CHEBI:36080 (proteins)
+T514	EntrezGene 9540 9544	MCAD
+#514	AnnotatorNotes T514	EG:11364
+T515	PR 9540 9544	MCAD
+#515	AnnotatorNotes T515	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T516	CHEBI 9545 9552	protein
+#516	AnnotatorNotes T516	CHEBI:36080 (proteins)
+T517	independent_continuant 9643 9647	SCAD
+#517	AnnotatorNotes T517	independent_continuant
+T518	PR 9643 9647	SCAD
+#518	AnnotatorNotes T518	PR:000003602 (short-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T519	GO_MF 9643 9647	SCAD
+#519	AnnotatorNotes T519	GO:0004085 (butyryl-CoA dehydrogenase activity)
+T520	GO_CC 9648 9656	antibody
+#520	AnnotatorNotes T520	GO:0019814 (immunoglobulin complex)
+T521	independent_continuant 9671 9675	SCAD
+#521	AnnotatorNotes T521	independent_continuant
+T522	GO_MF 9671 9675	SCAD
+#522	AnnotatorNotes T522	GO:0004085 (butyryl-CoA dehydrogenase activity)
+T523	PR 9671 9675	SCAD
+#523	AnnotatorNotes T523	PR:000003602 (short-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T524	EntrezGene 9671 9675	SCAD
+#524	AnnotatorNotes T524	EG:11409
+T525	CHEBI 9676 9683	protein
+#525	AnnotatorNotes T525	CHEBI:36080 (proteins)
+T526	EntrezGene 9704 9708	MCAD
+#526	AnnotatorNotes T526	EG:11364
+T527	PR 9704 9708	MCAD
+#527	AnnotatorNotes T527	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T528	sup 9708 9711	+/+
+#528	AnnotatorNotes T528	sup (null)
+T529	SO 9708 9709	+
+#529	AnnotatorNotes T529	SO:0000817 (wild_type)
+T530	SO 9710 9711	+
+#530	AnnotatorNotes T530	SO:0000817 (wild_type)
+T531	EntrezGene 9716 9720	MCAD
+#531	AnnotatorNotes T531	EG:11364
+T532	PR 9716 9720	MCAD
+#532	AnnotatorNotes T532	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T533	sup 9720 9723	−/−
+#533	AnnotatorNotes T533	sup (null)
+T534	NCBITaxon 9724 9728	mice
+#534	AnnotatorNotes T534	NCBITaxon:10088 (Mus)
+T535	EntrezGene 9733 9737	MCAD
+#535	AnnotatorNotes T535	EG:11364
+T536	PR 9733 9737	MCAD
+#536	AnnotatorNotes T536	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T537	CHEBI 9755 9762	protein
+#537	AnnotatorNotes T537	CHEBI:36080 (proteins)
+T538	independent_continuant 9783 9787	SCAD
+#538	AnnotatorNotes T538	independent_continuant
+T539	GO_MF 9783 9787	SCAD
+#539	AnnotatorNotes T539	GO:0004085 (butyryl-CoA dehydrogenase activity)
+T540	PR 9783 9787	SCAD
+#540	AnnotatorNotes T540	PR:000003602 (short-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T541	GO_CC 9788 9798	antibodies
+#541	AnnotatorNotes T541	GO:0019814 (immunoglobulin complex)
+T542	PR 9800 9804	MCAD
+#542	AnnotatorNotes T542	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T543	CHEBI 9816 9825	molecular
+#543	AnnotatorNotes T543	CHEBI:23367 (molecular entity)
+T544	SO 9845 9851	Enzyme
+#544	AnnotatorNotes T544	SO:0001185 (enzymatic)
+T545	NCBITaxon 9877 9882	mouse
+#545	AnnotatorNotes T545	NCBITaxon:10088 (Mus)
+T546	GO_CC 9911 9942	electron transport flavoprotein
+#546	AnnotatorNotes T546	GO:0045251 (electron transfer flavoprotein complex)
+T547	GO_BP 9911 9929	electron transport
+#547	AnnotatorNotes T547	GO:0006118 (electron transport)
+T548	CHEBI 9911 9919	electron
+#548	AnnotatorNotes T548	CHEBI:10545 (electron)
+T549	CHEBI 9930 9942	flavoprotein
+#549	AnnotatorNotes T549	CHEBI:5086 (flavoproteins)
+T550	GO_CC 9944 9947	ETF
+#550	AnnotatorNotes T550	GO:0045251 (electron transfer flavoprotein complex)
+T551	CHEBI 9970 9982	octanoyl-CoA
+#551	AnnotatorNotes T551	CHEBI:15533 (octanoyl-CoA)
+T552	CHEBI 9970 9978	octanoyl
+#552	AnnotatorNotes T552	CHEBI:25650 (octanoyl group)
+T553	CHEBI 9979 9982	CoA
+#553	AnnotatorNotes T553	CHEBI:15346 (coenzyme A)
+T554	sub 9985 9988	8:0
+#554	AnnotatorNotes T554	sub (null)
+T555	CHEBI 9994 10007	palmitoyl-CoA
+#555	AnnotatorNotes T555	CHEBI:15525 (palmitoyl-CoA)
+T556	CHEBI 9994 10003	palmitoyl
+#556	AnnotatorNotes T556	CHEBI:45021 (palmitoyl group)
+T557	CHEBI 10004 10007	CoA
+#557	AnnotatorNotes T557	CHEBI:15346 (coenzyme A)
+T558	sub 10010 10014	16:0
+#558	AnnotatorNotes T558	sub (null)
+T559	EntrezGene 10031 10035	MCAD
+#559	AnnotatorNotes T559	EG:11364
+T560	PR 10031 10035	MCAD
+#560	AnnotatorNotes T560	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T561	sup 10035 10038	−/−
+#561	AnnotatorNotes T561	sup (null)
+T562	NCBITaxon 10039 10043	mice
+#562	AnnotatorNotes T562	NCBITaxon:10088 (Mus)
+T563	CHEBI 10100 10112	octanoyl-CoA
+#563	AnnotatorNotes T563	CHEBI:15533 (octanoyl-CoA)
+T564	CHEBI 10100 10108	octanoyl
+#564	AnnotatorNotes T564	CHEBI:25650 (octanoyl group)
+T565	CHEBI 10109 10112	CoA
+#565	AnnotatorNotes T565	CHEBI:15346 (coenzyme A)
+T566	CHEBI 10155 10168	palmitoyl-CoA
+#566	AnnotatorNotes T566	CHEBI:15525 (palmitoyl-CoA)
+T567	CHEBI 10155 10164	palmitoyl
+#567	AnnotatorNotes T567	CHEBI:45021 (palmitoyl group)
+T568	CHEBI 10165 10168	CoA
+#568	AnnotatorNotes T568	CHEBI:15346 (coenzyme A)
+T569	EntrezGene 10181 10185	MCAD
+#569	AnnotatorNotes T569	EG:11364
+T570	PR 10181 10185	MCAD
+#570	AnnotatorNotes T570	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T571	sup 10185 10188	+/+
+#571	AnnotatorNotes T571	sup (null)
+T572	SO 10185 10186	+
+#572	AnnotatorNotes T572	SO:0000817 (wild_type)
+T573	SO 10187 10188	+
+#573	AnnotatorNotes T573	SO:0000817 (wild_type)
+T574	NCBITaxon 10189 10193	mice
+#574	AnnotatorNotes T574	NCBITaxon:10088 (Mus)
+T575	CHEBI 10242 10254	octanoyl-CoA
+#575	AnnotatorNotes T575	CHEBI:15533 (octanoyl-CoA)
+T576	CHEBI 10242 10250	octanoyl
+#576	AnnotatorNotes T576	CHEBI:25650 (octanoyl group)
+T577	CHEBI 10251 10254	CoA
+#577	AnnotatorNotes T577	CHEBI:15346 (coenzyme A)
+T578	CHEBI 10259 10272	palmitoyl-CoA
+#578	AnnotatorNotes T578	CHEBI:15525 (palmitoyl-CoA)
+T579	CHEBI 10259 10268	palmitoyl
+#579	AnnotatorNotes T579	CHEBI:45021 (palmitoyl group)
+T580	CHEBI 10269 10272	CoA
+#580	AnnotatorNotes T580	CHEBI:15346 (coenzyme A)
+T581	EntrezGene 10333 10337	MCAD
+#581	AnnotatorNotes T581	EG:11364
+T582	PR 10333 10337	MCAD
+#582	AnnotatorNotes T582	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T583	sup 10337 10340	−/−
+#583	AnnotatorNotes T583	sup (null)
+T584	NCBITaxon 10341 10345	mice
+#584	AnnotatorNotes T584	NCBITaxon:10088 (Mus)
+T585	EntrezGene 10361 10365	MCAD
+#585	AnnotatorNotes T585	EG:11364
+T586	PR 10361 10365	MCAD
+#586	AnnotatorNotes T586	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T587	sup 10365 10368	+/+
+#587	AnnotatorNotes T587	sup (null)
+T588	SO 10365 10366	+
+#588	AnnotatorNotes T588	SO:0000817 (wild_type)
+T589	SO 10367 10368	+
+#589	AnnotatorNotes T589	SO:0000817 (wild_type)
+T590	EntrezGene 10408 10412	MCAD
+#590	AnnotatorNotes T590	EG:11364
+T591	PR 10408 10412	MCAD
+#591	AnnotatorNotes T591	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T592	NCBITaxon 10423 10427	Mice
+#592	AnnotatorNotes T592	NCBITaxon:10088 (Mus)
+T593	sup 10458 10459	a
+#593	AnnotatorNotes T593	sup (null)
+T594	sup 10463 10466	+/+
+#594	AnnotatorNotes T594	sup (null)
+T595	SO 10463 10464	+
+#595	AnnotatorNotes T595	SO:0000817 (wild_type)
+T596	SO 10465 10466	+
+#596	AnnotatorNotes T596	SO:0000817 (wild_type)
+T597	italic 10467 10468	n
+#597	AnnotatorNotes T597	italic (null)
+T598	EntrezGene 10477 10481	MCAD
+#598	AnnotatorNotes T598	EG:11364
+T599	PR 10477 10481	MCAD
+#599	AnnotatorNotes T599	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T600	sup 10481 10484	−/−
+#600	AnnotatorNotes T600	sup (null)
+T601	italic 10485 10486	n
+#601	AnnotatorNotes T601	italic (null)
+T602	sup 10493 10494	b
+#602	AnnotatorNotes T602	sup (null)
+T603	sup 10498 10501	+/+
+#603	AnnotatorNotes T603	sup (null)
+T604	SO 10498 10499	+
+#604	AnnotatorNotes T604	SO:0000817 (wild_type)
+T605	SO 10500 10501	+
+#605	AnnotatorNotes T605	SO:0000817 (wild_type)
+T606	italic 10502 10503	n
+#606	AnnotatorNotes T606	italic (null)
+T607	EntrezGene 10520 10524	MCAD
+#607	AnnotatorNotes T607	EG:11364
+T608	PR 10520 10524	MCAD
+#608	AnnotatorNotes T608	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T609	sup 10524 10527	−/−
+#609	AnnotatorNotes T609	sup (null)
+T610	italic 10528 10529	n
+#610	AnnotatorNotes T610	italic (null)
+T611	sup 10545 10546	c
+#611	AnnotatorNotes T611	sup (null)
+T612	sup 10550 10553	+/+
+#612	AnnotatorNotes T612	sup (null)
+T613	SO 10550 10551	+
+#613	AnnotatorNotes T613	SO:0000817 (wild_type)
+T614	SO 10552 10553	+
+#614	AnnotatorNotes T614	SO:0000817 (wild_type)
+T615	italic 10554 10555	n
+#615	AnnotatorNotes T615	italic (null)
+T616	EntrezGene 10564 10568	MCAD
+#616	AnnotatorNotes T616	EG:11364
+T617	PR 10564 10568	MCAD
+#617	AnnotatorNotes T617	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T618	sup 10568 10571	−/−
+#618	AnnotatorNotes T618	sup (null)
+T619	italic 10572 10573	n
+#619	AnnotatorNotes T619	italic (null)
+T620	sup 10580 10581	d
+#620	AnnotatorNotes T620	sup (null)
+T621	sup 10585 10588	+/+
+#621	AnnotatorNotes T621	sup (null)
+T622	SO 10585 10586	+
+#622	AnnotatorNotes T622	SO:0000817 (wild_type)
+T623	SO 10587 10588	+
+#623	AnnotatorNotes T623	SO:0000817 (wild_type)
+T624	italic 10589 10590	n
+#624	AnnotatorNotes T624	italic (null)
+T625	EntrezGene 10599 10603	MCAD
+#625	AnnotatorNotes T625	EG:11364
+T626	PR 10599 10603	MCAD
+#626	AnnotatorNotes T626	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T627	sup 10603 10606	−/−
+#627	AnnotatorNotes T627	sup (null)
+T628	italic 10607 10608	n
+#628	AnnotatorNotes T628	italic (null)
+T629	sup 10615 10616	e
+#629	AnnotatorNotes T629	sup (null)
+T630	GO_BP 10682 10688	Deaths
+#630	AnnotatorNotes T630	GO:0016265 (death)
+T631	EntrezGene 10734 10738	MCAD
+#631	AnnotatorNotes T631	EG:11364
+T632	PR 10734 10738	MCAD
+#632	AnnotatorNotes T632	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T633	sup 10738 10741	−/−
+#633	AnnotatorNotes T633	sup (null)
+T634	GO_BP 10784 10788	born
+#634	AnnotatorNotes T634	GO:0007567 (parturition)
+T635	EntrezGene 10794 10798	MCAD
+#635	AnnotatorNotes T635	EG:11364
+T636	PR 10794 10798	MCAD
+#636	AnnotatorNotes T636	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T637	sup 10798 10801	+/+
+#637	AnnotatorNotes T637	sup (null)
+T638	SO 10798 10799	+
+#638	AnnotatorNotes T638	SO:0000817 (wild_type)
+T639	SO 10800 10801	+
+#639	AnnotatorNotes T639	SO:0000817 (wild_type)
+T640	EntrezGene 10806 10810	MCAD
+#640	AnnotatorNotes T640	EG:11364
+T641	PR 10806 10810	MCAD
+#641	AnnotatorNotes T641	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T642	sup 10810 10813	−/−
+#642	AnnotatorNotes T642	sup (null)
+T643	NCBITaxon 10814 10818	mice
+#643	AnnotatorNotes T643	NCBITaxon:10088 (Mus)
+T644	EntrezGene 10832 10836	MCAD
+#644	AnnotatorNotes T644	EG:11364
+T645	PR 10832 10836	MCAD
+#645	AnnotatorNotes T645	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T646	sup 10836 10839	−/−
+#646	AnnotatorNotes T646	sup (null)
+T647	NCBITaxon 10840 10844	mice
+#647	AnnotatorNotes T647	NCBITaxon:10088 (Mus)
+T648	EntrezGene 10887 10891	MCAD
+#648	AnnotatorNotes T648	EG:11364
+T649	PR 10887 10891	MCAD
+#649	AnnotatorNotes T649	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T650	sup 10891 10894	+/+
+#650	AnnotatorNotes T650	sup (null)
+T651	SO 10891 10892	+
+#651	AnnotatorNotes T651	SO:0000817 (wild_type)
+T652	SO 10893 10894	+
+#652	AnnotatorNotes T652	SO:0000817 (wild_type)
+T653	NCBITaxon 10895 10899	mice
+#653	AnnotatorNotes T653	NCBITaxon:10088 (Mus)
+T654	GO_BP 10937 10941	loss
+#654	AnnotatorNotes T654	GO:0016265 (death)
+T655	EntrezGene 10968 10972	MCAD
+#655	AnnotatorNotes T655	EG:11364
+T656	PR 10968 10972	MCAD
+#656	AnnotatorNotes T656	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T657	sup 10972 10975	−/−
+#657	AnnotatorNotes T657	sup (null)
+T658	EntrezGene 11016 11020	MCAD
+#658	AnnotatorNotes T658	EG:11364
+T659	PR 11016 11020	MCAD
+#659	AnnotatorNotes T659	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T660	sup 11020 11023	+/+
+#660	AnnotatorNotes T660	sup (null)
+T661	SO 11020 11021	+
+#661	AnnotatorNotes T661	SO:0000817 (wild_type)
+T662	SO 11022 11023	+
+#662	AnnotatorNotes T662	SO:0000817 (wild_type)
+T663	EntrezGene 11097 11101	MCAD
+#663	AnnotatorNotes T663	EG:11364
+T664	PR 11097 11101	MCAD
+#664	AnnotatorNotes T664	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T665	sup 11101 11104	+/+
+#665	AnnotatorNotes T665	sup (null)
+T666	SO 11101 11102	+
+#666	AnnotatorNotes T666	SO:0000817 (wild_type)
+T667	SO 11103 11104	+
+#667	AnnotatorNotes T667	SO:0000817 (wild_type)
+T668	EntrezGene 11154 11158	MCAD
+#668	AnnotatorNotes T668	EG:11364
+T669	PR 11154 11158	MCAD
+#669	AnnotatorNotes T669	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T670	sup 11158 11161	−/−
+#670	AnnotatorNotes T670	sup (null)
+T671	SO 11162 11169	mutants
+#671	AnnotatorNotes T671	SO:0001059 (sequence_alteration)
+T672	independent_continuant 11162 11169	mutants
+#672	AnnotatorNotes T672	independent_continuant
+T673	EntrezGene 11179 11183	MCAD
+#673	AnnotatorNotes T673	EG:11364
+T674	PR 11179 11183	MCAD
+#674	AnnotatorNotes T674	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T675	sup 11183 11186	+/−
+#675	AnnotatorNotes T675	sup (null)
+T676	SO 11183 11184	+
+#676	AnnotatorNotes T676	SO:0000817 (wild_type)
+T677	CHEBI 11208 11217	molecular
+#677	AnnotatorNotes T677	CHEBI:23367 (molecular entity)
+T678	SO 11238 11256	insertion mutation
+#678	AnnotatorNotes T678	SO:0000667 (insertion)
+T679	EntrezGene 11280 11284	MCAD
+#679	AnnotatorNotes T679	EG:11364
+T680	PR 11280 11284	MCAD
+#680	AnnotatorNotes T680	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T681	sup 11284 11287	+/+
+#681	AnnotatorNotes T681	sup (null)
+T682	SO 11284 11285	+
+#682	AnnotatorNotes T682	SO:0000817 (wild_type)
+T683	SO 11286 11287	+
+#683	AnnotatorNotes T683	SO:0000817 (wild_type)
+T684	EntrezGene 11290 11294	MCAD
+#684	AnnotatorNotes T684	EG:11364
+T685	PR 11290 11294	MCAD
+#685	AnnotatorNotes T685	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T686	sup 11294 11297	+/+
+#686	AnnotatorNotes T686	sup (null)
+T687	SO 11294 11295	+
+#687	AnnotatorNotes T687	SO:0000817 (wild_type)
+T688	SO 11296 11297	+
+#688	AnnotatorNotes T688	SO:0000817 (wild_type)
+T689	GO_BP 11298 11305	matings
+#689	AnnotatorNotes T689	GO:0007618 (mating)
+T690	EntrezGene 11311 11315	MCAD
+#690	AnnotatorNotes T690	EG:11364
+T691	PR 11311 11315	MCAD
+#691	AnnotatorNotes T691	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T692	sup 11315 11318	−/−
+#692	AnnotatorNotes T692	sup (null)
+T693	EntrezGene 11321 11325	MCAD
+#693	AnnotatorNotes T693	EG:11364
+T694	PR 11321 11325	MCAD
+#694	AnnotatorNotes T694	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T695	sup 11325 11328	−/−
+#695	AnnotatorNotes T695	sup (null)
+T696	GO_BP 11329 11336	matings
+#696	AnnotatorNotes T696	GO:0007618 (mating)
+T697	GO_BP 11403 11410	matings
+#697	AnnotatorNotes T697	GO:0007618 (mating)
+T698	EntrezGene 11496 11500	MCAD
+#698	AnnotatorNotes T698	EG:11364
+T699	PR 11496 11500	MCAD
+#699	AnnotatorNotes T699	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T700	NCBITaxon 11511 11515	mice
+#700	AnnotatorNotes T700	NCBITaxon:10088 (Mus)
+T701	EntrezGene 11562 11566	MCAD
+#701	AnnotatorNotes T701	EG:11364
+T702	PR 11562 11566	MCAD
+#702	AnnotatorNotes T702	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T703	sup 11566 11569	−/−
+#703	AnnotatorNotes T703	sup (null)
+T704	NCBITaxon 11570 11574	mice
+#704	AnnotatorNotes T704	NCBITaxon:10088 (Mus)
+T705	CHEBI 11597 11604	glucose
+#705	AnnotatorNotes T705	CHEBI:17234 (glucose)
+T706	CHEBI 11629 11639	fatty acid
+#706	AnnotatorNotes T706	CHEBI:35366 (fatty acids)
+T707	EntrezGene 11703 11707	MCAD
+#707	AnnotatorNotes T707	EG:11364
+T708	PR 11703 11707	MCAD
+#708	AnnotatorNotes T708	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T709	sup 11707 11710	+/+
+#709	AnnotatorNotes T709	sup (null)
+T710	SO 11707 11708	+
+#710	AnnotatorNotes T710	SO:0000817 (wild_type)
+T711	SO 11709 11710	+
+#711	AnnotatorNotes T711	SO:0000817 (wild_type)
+T712	NCBITaxon 11711 11715	mice
+#712	AnnotatorNotes T712	NCBITaxon:10088 (Mus)
+T713	NCBITaxon 11769 11773	mice
+#713	AnnotatorNotes T713	NCBITaxon:10088 (Mus)
+T714	EntrezGene 11848 11852	MCAD
+#714	AnnotatorNotes T714	EG:11364
+T715	PR 11848 11852	MCAD
+#715	AnnotatorNotes T715	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T716	sup 11852 11855	−/−
+#716	AnnotatorNotes T716	sup (null)
+T717	NCBITaxon 11856 11860	mice
+#717	AnnotatorNotes T717	NCBITaxon:10088 (Mus)
+T718	GO_BP 11965 11975	fatalities
+#718	AnnotatorNotes T718	GO:0016265 (death)
+T719	EntrezGene 12044 12048	MCAD
+#719	AnnotatorNotes T719	EG:11364
+T720	PR 12044 12048	MCAD
+#720	AnnotatorNotes T720	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T721	sup 12048 12051	−/−
+#721	AnnotatorNotes T721	sup (null)
+T722	NCBITaxon 12052 12056	mice
+#722	AnnotatorNotes T722	NCBITaxon:10088 (Mus)
+T723	italic 12058 12059	n
+#723	AnnotatorNotes T723	italic (null)
+T724	EntrezGene 12104 12108	MCAD
+#724	AnnotatorNotes T724	EG:11364
+T725	PR 12104 12108	MCAD
+#725	AnnotatorNotes T725	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T726	sup 12108 12111	+/+
+#726	AnnotatorNotes T726	sup (null)
+T727	SO 12108 12109	+
+#727	AnnotatorNotes T727	SO:0000817 (wild_type)
+T728	SO 12110 12111	+
+#728	AnnotatorNotes T728	SO:0000817 (wild_type)
+T729	NCBITaxon 12112 12116	mice
+#729	AnnotatorNotes T729	NCBITaxon:10088 (Mus)
+T730	italic 12118 12119	n
+#730	AnnotatorNotes T730	italic (null)
+T731	EntrezGene 12222 12226	MCAD
+#731	AnnotatorNotes T731	EG:11364
+T732	PR 12222 12226	MCAD
+#732	AnnotatorNotes T732	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T733	sup 12226 12229	−/−
+#733	AnnotatorNotes T733	sup (null)
+T734	NCBITaxon 12230 12234	mice
+#734	AnnotatorNotes T734	NCBITaxon:10088 (Mus)
+T735	EntrezGene 12284 12288	MCAD
+#735	AnnotatorNotes T735	EG:11364
+T736	PR 12284 12288	MCAD
+#736	AnnotatorNotes T736	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T737	sup 12288 12291	−/−
+#737	AnnotatorNotes T737	sup (null)
+T738	NCBITaxon 12292 12296	mice
+#738	AnnotatorNotes T738	NCBITaxon:10088 (Mus)
+T739	EntrezGene 12337 12341	MCAD
+#739	AnnotatorNotes T739	EG:11364
+T740	PR 12337 12341	MCAD
+#740	AnnotatorNotes T740	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T741	sup 12341 12344	+/+
+#741	AnnotatorNotes T741	sup (null)
+T742	SO 12341 12342	+
+#742	AnnotatorNotes T742	SO:0000817 (wild_type)
+T743	SO 12343 12344	+
+#743	AnnotatorNotes T743	SO:0000817 (wild_type)
+T744	NCBITaxon 12345 12349	mice
+#744	AnnotatorNotes T744	NCBITaxon:10088 (Mus)
+T745	CHEBI 12443 12447	Acid
+#745	AnnotatorNotes T745	CHEBI:37527 (acid)
+T746	CHEBI 12452 12465	Acylcarnitine
+#746	AnnotatorNotes T746	CHEBI:17387 (O-acylcarnitines)
+T747	CHEBI 12490 12494	acid
+#747	AnnotatorNotes T747	CHEBI:37527 (acid)
+T748	EntrezGene 12518 12522	MCAD
+#748	AnnotatorNotes T748	EG:11364
+T749	PR 12518 12522	MCAD
+#749	AnnotatorNotes T749	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T750	sup 12522 12525	−/−
+#750	AnnotatorNotes T750	sup (null)
+T751	NCBITaxon 12526 12530	mice
+#751	AnnotatorNotes T751	NCBITaxon:10088 (Mus)
+T752	CHEBI 12552 12556	acid
+#752	AnnotatorNotes T752	CHEBI:37527 (acid)
+T753	EntrezGene 12576 12580	MCAD
+#753	AnnotatorNotes T753	EG:34
+T754	PR 12576 12580	MCAD
+#754	AnnotatorNotes T754	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T755	NCBITaxon 12591 12596	human
+#755	AnnotatorNotes T755	NCBITaxon:9606 (Homo sapiens)
+T756	EntrezGene 12643 12647	MCAD
+#756	AnnotatorNotes T756	EG:11364
+T757	PR 12643 12647	MCAD
+#757	AnnotatorNotes T757	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T758	sup 12647 12650	−/−
+#758	AnnotatorNotes T758	sup (null)
+T759	NCBITaxon 12651 12655	mice
+#759	AnnotatorNotes T759	NCBITaxon:10088 (Mus)
+T760	CHEBI 12707 12741	adipic, suberic, and sebacic acids
+#760	AnnotatorNotes T760	"adipic .. acids" CHEBI:30832 (adipic acid)
+T761	CHEBI 12715 12741	suberic, and sebacic acids
+#761	AnnotatorNotes T761	"suberic .. acids" CHEBI:9300 (suberic acid)
+T762	CHEBI 12728 12741	sebacic acids
+#762	AnnotatorNotes T762	CHEBI:41865 (sebacic acid)
+T763	EntrezGene 12777 12781	MCAD
+#763	AnnotatorNotes T763	EG:11364
+T764	PR 12777 12781	MCAD
+#764	AnnotatorNotes T764	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T765	sup 12781 12784	+/+
+#765	AnnotatorNotes T765	sup (null)
+T766	SO 12781 12782	+
+#766	AnnotatorNotes T766	SO:0000817 (wild_type)
+T767	SO 12783 12784	+
+#767	AnnotatorNotes T767	SO:0000817 (wild_type)
+T768	CHEBI 12859 12864	acids
+#768	AnnotatorNotes T768	CHEBI:37527 (acid)
+T769	CHEBI 12876 12887	Adipic acid
+#769	AnnotatorNotes T769	CHEBI:30832 (adipic acid)
+T770	EntrezGene 12907 12911	MCAD
+#770	AnnotatorNotes T770	EG:11364
+T771	PR 12907 12911	MCAD
+#771	AnnotatorNotes T771	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T772	CHEBI 12942 12958	β-hydroxybutyric
+#772	AnnotatorNotes T772	CHEBI:20067 (3-hydroxybutanoic acid)
+T773	CHEBI 12963 12974	acetoacetic
+#773	AnnotatorNotes T773	CHEBI:15344 (acetoacetic acid)
+T774	EntrezGene 13035 13039	MCAD
+#774	AnnotatorNotes T774	EG:11364
+T775	PR 13035 13039	MCAD
+#775	AnnotatorNotes T775	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T776	SO 13040 13049	genotypes
+#776	AnnotatorNotes T776	SO:0001027 (genotype)
+T777	EntrezGene 13083 13087	MCAD
+#777	AnnotatorNotes T777	EG:11364
+T778	PR 13083 13087	MCAD
+#778	AnnotatorNotes T778	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T779	sup 13087 13090	+/+
+#779	AnnotatorNotes T779	sup (null)
+T780	SO 13087 13088	+
+#780	AnnotatorNotes T780	SO:0000817 (wild_type)
+T781	SO 13089 13090	+
+#781	AnnotatorNotes T781	SO:0000817 (wild_type)
+T782	EntrezGene 13095 13099	MCAD
+#782	AnnotatorNotes T782	EG:11364
+T783	PR 13095 13099	MCAD
+#783	AnnotatorNotes T783	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T784	sup 13099 13102	−/−
+#784	AnnotatorNotes T784	sup (null)
+T785	NCBITaxon 13103 13107	mice
+#785	AnnotatorNotes T785	NCBITaxon:10088 (Mus)
+T786	EntrezGene 13192 13196	MCAD
+#786	AnnotatorNotes T786	EG:11364
+T787	PR 13192 13196	MCAD
+#787	AnnotatorNotes T787	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T788	sup 13196 13199	+/+
+#788	AnnotatorNotes T788	sup (null)
+T789	SO 13196 13197	+
+#789	AnnotatorNotes T789	SO:0000817 (wild_type)
+T790	SO 13198 13199	+
+#790	AnnotatorNotes T790	SO:0000817 (wild_type)
+T791	EntrezGene 13204 13208	MCAD
+#791	AnnotatorNotes T791	EG:11364
+T792	PR 13204 13208	MCAD
+#792	AnnotatorNotes T792	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T793	sup 13208 13211	−/−
+#793	AnnotatorNotes T793	sup (null)
+T794	NCBITaxon 13212 13216	mice
+#794	AnnotatorNotes T794	NCBITaxon:10088 (Mus)
+T795	EntrezGene 13222 13226	MCAD
+#795	AnnotatorNotes T795	EG:11364
+T796	PR 13222 13226	MCAD
+#796	AnnotatorNotes T796	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T797	sup 13226 13229	−/−
+#797	AnnotatorNotes T797	sup (null)
+T798	NCBITaxon 13230 13234	mice
+#798	AnnotatorNotes T798	NCBITaxon:10088 (Mus)
+T799	CHEBI 13306 13319	acylcarnitine
+#799	AnnotatorNotes T799	CHEBI:17387 (O-acylcarnitines)
+T800	CHEBI 13346 13359	acylcarnitine
+#800	AnnotatorNotes T800	CHEBI:17387 (O-acylcarnitines)
+T801	CHEBI 13388 13401	acylcarnitine
+#801	AnnotatorNotes T801	CHEBI:17387 (O-acylcarnitines)
+T802	CHEBI 13448 13461	acylcarnitine
+#802	AnnotatorNotes T802	CHEBI:17387 (O-acylcarnitines)
+T803	EntrezGene 13478 13482	MCAD
+#803	AnnotatorNotes T803	EG:11364
+T804	PR 13478 13482	MCAD
+#804	AnnotatorNotes T804	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T805	sup 13482 13485	−/−
+#805	AnnotatorNotes T805	sup (null)
+T806	NCBITaxon 13486 13490	mice
+#806	AnnotatorNotes T806	NCBITaxon:10088 (Mus)
+T807	EntrezGene 13519 13529	human MCAD
+#807	AnnotatorNotes T807	EG:34
+T808	NCBITaxon 13519 13524	human
+#808	AnnotatorNotes T808	NCBITaxon:9606 (Homo sapiens)
+T809	PR 13525 13529	MCAD
+#809	AnnotatorNotes T809	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T810	NCBITaxon 13562 13567	Human
+#810	AnnotatorNotes T810	NCBITaxon:9606 (Homo sapiens)
+T811	sub 13610 13611	6
+#811	AnnotatorNotes T811	sub (null)
+T812	sub 13614 13615	8
+#812	AnnotatorNotes T812	sub (null)
+T813	sub 13622 13626	10:1
+#813	AnnotatorNotes T813	sub (null)
+T814	CHEBI 13627 13641	acylcarnitines
+#814	AnnotatorNotes T814	CHEBI:17387 (O-acylcarnitines)
+T815	SO 13654 13660	mutant
+#815	AnnotatorNotes T815	SO:0001059 (sequence_alteration)
+T816	NCBITaxon 13661 13665	mice
+#816	AnnotatorNotes T816	NCBITaxon:10088 (Mus)
+T817	sub 13702 13703	8
+#817	AnnotatorNotes T817	sub (null)
+T818	CHEBI 13704 13717	acylcarnitine
+#818	AnnotatorNotes T818	CHEBI:17387 (O-acylcarnitines)
+T819	NCBITaxon 13721 13727	humans
+#819	AnnotatorNotes T819	NCBITaxon:9606 (Homo sapiens)
+T820	NCBITaxon 13744 13749	mouse
+#820	AnnotatorNotes T820	NCBITaxon:10088 (Mus)
+T821	sub 13758 13762	10:1
+#821	AnnotatorNotes T821	sub (null)
+T822	CHEBI 13763 13776	acylcarnitine
+#822	AnnotatorNotes T822	CHEBI:17387 (O-acylcarnitines)
+T823	CHEBI 13789 13802	Acylcarnitine
+#823	AnnotatorNotes T823	CHEBI:17387 (O-acylcarnitines)
+T824	CHEBI 13823 13836	acylcarnitine
+#824	AnnotatorNotes T824	CHEBI:17387 (O-acylcarnitines)
+T825	EntrezGene 13849 13853	MCAD
+#825	AnnotatorNotes T825	EG:11364
+T826	PR 13849 13853	MCAD
+#826	AnnotatorNotes T826	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T827	sup 13853 13856	+/+
+#827	AnnotatorNotes T827	sup (null)
+T828	SO 13853 13854	+
+#828	AnnotatorNotes T828	SO:0000817 (wild_type)
+T829	SO 13855 13856	+
+#829	AnnotatorNotes T829	SO:0000817 (wild_type)
+T830	italic 13858 13859	n
+#830	AnnotatorNotes T830	italic (null)
+T831	EntrezGene 13869 13873	MCAD
+#831	AnnotatorNotes T831	EG:11364
+T832	PR 13869 13873	MCAD
+#832	AnnotatorNotes T832	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T833	sup 13873 13876	−/−
+#833	AnnotatorNotes T833	sup (null)
+T834	NCBITaxon 13877 13881	mice
+#834	AnnotatorNotes T834	NCBITaxon:10088 (Mus)
+T835	italic 13883 13884	n
+#835	AnnotatorNotes T835	italic (null)
+T836	CHEBI 13927 13940	acylcarnitine
+#836	AnnotatorNotes T836	CHEBI:17387 (O-acylcarnitines)
+T837	EntrezGene 13965 13969	MCAD
+#837	AnnotatorNotes T837	EG:11364
+T838	PR 13965 13969	MCAD
+#838	AnnotatorNotes T838	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T839	sup 13969 13972	−/−
+#839	AnnotatorNotes T839	sup (null)
+T840	NCBITaxon 13973 13977	mice
+#840	AnnotatorNotes T840	NCBITaxon:10088 (Mus)
+T841	italic 14054 14055	p
+#841	AnnotatorNotes T841	italic (null)
+T842	italic 14080 14081	p
+#842	AnnotatorNotes T842	italic (null)
+T843	CHEBI 14136 14150	acylcarnitines
+#843	AnnotatorNotes T843	CHEBI:17387 (O-acylcarnitines)
+T844	NCBITaxon 14163 14167	mice
+#844	AnnotatorNotes T844	NCBITaxon:10088 (Mus)
+T845	italic 14249 14250	p
+#845	AnnotatorNotes T845	italic (null)
+T846	CHEBI 14270 14283	acylcarnitine
+#846	AnnotatorNotes T846	CHEBI:17387 (O-acylcarnitines)
+T847	EntrezGene 14298 14302	MCAD
+#847	AnnotatorNotes T847	EG:11364
+T848	PR 14298 14302	MCAD
+#848	AnnotatorNotes T848	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T849	sup 14302 14305	−/−
+#849	AnnotatorNotes T849	sup (null)
+T850	NCBITaxon 14306 14311	mouse
+#850	AnnotatorNotes T850	NCBITaxon:10088 (Mus)
+T851	NCBITaxon 14326 14331	human
+#851	AnnotatorNotes T851	NCBITaxon:9606 (Homo sapiens)
+T852	EntrezGene 14345 14349	MCAD
+#852	AnnotatorNotes T852	EG:34
+T853	PR 14345 14349	MCAD
+#853	AnnotatorNotes T853	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T854	SO 14481 14487	mutant
+#854	AnnotatorNotes T854	SO:0001059 (sequence_alteration)
+T855	EntrezGene 14492 14496	MCAD
+#855	AnnotatorNotes T855	EG:11364
+T856	PR 14492 14496	MCAD
+#856	AnnotatorNotes T856	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T857	sup 14496 14499	+/+
+#857	AnnotatorNotes T857	sup (null)
+T858	SO 14496 14497	+
+#858	AnnotatorNotes T858	SO:0000817 (wild_type)
+T859	SO 14498 14499	+
+#859	AnnotatorNotes T859	SO:0000817 (wild_type)
+T860	NCBITaxon 14508 14512	mice
+#860	AnnotatorNotes T860	NCBITaxon:10088 (Mus)
+T861	EntrezGene 14618 14622	MCAD
+#861	AnnotatorNotes T861	EG:11364
+T862	PR 14618 14622	MCAD
+#862	AnnotatorNotes T862	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T863	sup 14622 14625	−/−
+#863	AnnotatorNotes T863	sup (null)
+T864	NCBITaxon 14626 14630	mice
+#864	AnnotatorNotes T864	NCBITaxon:10088 (Mus)
+T865	EntrezGene 14639 14643	MCAD
+#865	AnnotatorNotes T865	EG:11364
+T866	PR 14639 14643	MCAD
+#866	AnnotatorNotes T866	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T867	sup 14643 14646	+/+
+#867	AnnotatorNotes T867	sup (null)
+T868	SO 14643 14644	+
+#868	AnnotatorNotes T868	SO:0000817 (wild_type)
+T869	SO 14645 14646	+
+#869	AnnotatorNotes T869	SO:0000817 (wild_type)
+T870	NCBITaxon 14647 14651	mice
+#870	AnnotatorNotes T870	NCBITaxon:10088 (Mus)
+T871	EntrezGene 14727 14731	MCAD
+#871	AnnotatorNotes T871	EG:11364
+T872	PR 14727 14731	MCAD
+#872	AnnotatorNotes T872	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T873	sup 14731 14734	+/+
+#873	AnnotatorNotes T873	sup (null)
+T874	SO 14731 14732	+
+#874	AnnotatorNotes T874	SO:0000817 (wild_type)
+T875	SO 14733 14734	+
+#875	AnnotatorNotes T875	SO:0000817 (wild_type)
+T876	EntrezGene 14739 14743	MCAD
+#876	AnnotatorNotes T876	EG:11364
+T877	PR 14739 14743	MCAD
+#877	AnnotatorNotes T877	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T878	sup 14743 14746	−/−
+#878	AnnotatorNotes T878	sup (null)
+T879	NCBITaxon 14747 14751	mice
+#879	AnnotatorNotes T879	NCBITaxon:10088 (Mus)
+T880	EntrezGene 14848 14852	MCAD
+#880	AnnotatorNotes T880	EG:11364
+T881	PR 14848 14852	MCAD
+#881	AnnotatorNotes T881	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T882	sup 14852 14855	−/−
+#882	AnnotatorNotes T882	sup (null)
+T883	NCBITaxon 14856 14860	mice
+#883	AnnotatorNotes T883	NCBITaxon:10088 (Mus)
+T884	EntrezGene 14964 14968	MCAD
+#884	AnnotatorNotes T884	EG:11364
+T885	PR 14964 14968	MCAD
+#885	AnnotatorNotes T885	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T886	sup 14968 14971	−/−
+#886	AnnotatorNotes T886	sup (null)
+T887	NCBITaxon 14972 14976	mice
+#887	AnnotatorNotes T887	NCBITaxon:10088 (Mus)
+T888	EntrezGene 15007 15011	MCAD
+#888	AnnotatorNotes T888	EG:11364
+T889	PR 15007 15011	MCAD
+#889	AnnotatorNotes T889	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T890	sup 15011 15014	+/+
+#890	AnnotatorNotes T890	sup (null)
+T891	SO 15011 15012	+
+#891	AnnotatorNotes T891	SO:0000817 (wild_type)
+T892	SO 15013 15014	+
+#892	AnnotatorNotes T892	SO:0000817 (wild_type)
+T893	EntrezGene 15019 15023	MCAD
+#893	AnnotatorNotes T893	EG:11364
+T894	PR 15019 15023	MCAD
+#894	AnnotatorNotes T894	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T895	sup 15023 15026	−/−
+#895	AnnotatorNotes T895	sup (null)
+T896	NCBITaxon 15027 15031	Mice
+#896	AnnotatorNotes T896	NCBITaxon:10088 (Mus)
+T897	EntrezGene 15037 15041	MCAD
+#897	AnnotatorNotes T897	EG:11364
+T898	PR 15037 15041	MCAD
+#898	AnnotatorNotes T898	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T899	sup 15041 15044	+/+
+#899	AnnotatorNotes T899	sup (null)
+T900	SO 15041 15042	+
+#900	AnnotatorNotes T900	SO:0000817 (wild_type)
+T901	SO 15043 15044	+
+#901	AnnotatorNotes T901	SO:0000817 (wild_type)
+T902	NCBITaxon 15045 15049	mice
+#902	AnnotatorNotes T902	NCBITaxon:10088 (Mus)
+T903	EntrezGene 15170 15174	MCAD
+#903	AnnotatorNotes T903	EG:11364
+T904	PR 15170 15174	MCAD
+#904	AnnotatorNotes T904	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T905	sup 15174 15177	−/−
+#905	AnnotatorNotes T905	sup (null)
+T906	NCBITaxon 15178 15183	mouse
+#906	AnnotatorNotes T906	NCBITaxon:10088 (Mus)
+T907	EntrezGene 15323 15327	MCAD
+#907	AnnotatorNotes T907	EG:11364
+T908	PR 15323 15327	MCAD
+#908	AnnotatorNotes T908	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T909	sup 15327 15330	−/−
+#909	AnnotatorNotes T909	sup (null)
+T910	NCBITaxon 15331 15335	mice
+#910	AnnotatorNotes T910	NCBITaxon:10088 (Mus)
+T911	CL 15402 15409	myocyte
+#911	AnnotatorNotes T911	CL:0000187 (muscle cell)
+T912	EntrezGene 15439 15443	MCAD
+#912	AnnotatorNotes T912	EG:11364
+T913	PR 15439 15443	MCAD
+#913	AnnotatorNotes T913	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T914	sup 15443 15446	−/−
+#914	AnnotatorNotes T914	sup (null)
+T915	NCBITaxon 15447 15451	mice
+#915	AnnotatorNotes T915	NCBITaxon:10088 (Mus)
+T916	EntrezGene 15473 15477	MCAD
+#916	AnnotatorNotes T916	EG:11364
+T917	PR 15473 15477	MCAD
+#917	AnnotatorNotes T917	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T918	sup 15477 15480	−/−
+#918	AnnotatorNotes T918	sup (null)
+T919	NCBITaxon 15481 15486	mouse
+#919	AnnotatorNotes T919	NCBITaxon:10088 (Mus)
+T920	CL 15545 15552	myocyte
+#920	AnnotatorNotes T920	CL:0000187 (muscle cell)
+T921	CL 15623 15631	myocytes
+#921	AnnotatorNotes T921	CL:0000187 (muscle cell)
+T922	GO_CC 15690 15700	sarcoplasm
+#922	AnnotatorNotes T922	GO:0016528 (sarcoplasm)
+T923	GO_CC 15717 15727	myofibrils
+#923	AnnotatorNotes T923	GO:0030016 (myofibril)
+T924	GO_CC 15772 15778	Nuclei
+#924	AnnotatorNotes T924	GO:0005634 (nucleus)
+T925	CL 15791 15799	myocytes
+#925	AnnotatorNotes T925	CL:0000187 (muscle cell)
+T926	GO_CC 15822 15831	vesicular
+#926	AnnotatorNotes T926	GO:0031982 (vesicle)
+T927	GO_CC 15850 15858	nucleoli
+#927	AnnotatorNotes T927	GO:0005730 (nucleolus)
+T928	CL 15915 15923	myocytes
+#928	AnnotatorNotes T928	CL:0000187 (muscle cell)
+T929	CHEBI 16131 16138	pigment
+#929	AnnotatorNotes T929	CHEBI:26130 (pigment)
+T930	italic 16276 16281	Acadm
+#930	AnnotatorNotes T930	italic (null)
+T931	EntrezGene 16276 16281	Acadm
+#931	AnnotatorNotes T931	EG:11364
+T932	PR 16276 16281	Acadm
+#932	AnnotatorNotes T932	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T933	GO_BP 16282 16290	produced
+#933	AnnotatorNotes T933	GO:0000003 (reproduction)
+T934	NCBITaxon 16293 16298	mouse
+#934	AnnotatorNotes T934	NCBITaxon:10088 (Mus)
+T935	EntrezGene 16309 16313	MCAD
+#935	AnnotatorNotes T935	EG:34
+T936	PR 16309 16313	MCAD
+#936	AnnotatorNotes T936	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T937	NCBITaxon 16411 16416	human
+#937	AnnotatorNotes T937	NCBITaxon:9606 (Homo sapiens)
+T938	EntrezGene 16427 16431	MCAD
+#938	AnnotatorNotes T938	EG:34
+T939	PR 16427 16431	MCAD
+#939	AnnotatorNotes T939	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T940	CHEBI 16482 16493	metabolites
+#940	AnnotatorNotes T940	CHEBI:25212 (metabolite)
+T941	SO 16534 16540	enzyme
+#941	AnnotatorNotes T941	SO:0001185 (enzymatic)
+T942	EntrezGene 16554 16558	MCAD
+#942	AnnotatorNotes T942	EG:34
+T943	PR 16554 16558	MCAD
+#943	AnnotatorNotes T943	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T944	EntrezGene 16659 16663	MCAD
+#944	AnnotatorNotes T944	EG:11364
+T945	PR 16659 16663	MCAD
+#945	AnnotatorNotes T945	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T946	sup 16663 16666	−/−
+#946	AnnotatorNotes T946	sup (null)
+T947	NCBITaxon 16667 16671	mice
+#947	AnnotatorNotes T947	NCBITaxon:10088 (Mus)
+T948	CHEBI 16673 16686	Acylcarnitine
+#948	AnnotatorNotes T948	CHEBI:17387 (O-acylcarnitines)
+T949	EntrezGene 16716 16726	mouse MCAD
+#949	AnnotatorNotes T949	EG:11364
+T950	NCBITaxon 16716 16721	mouse
+#950	AnnotatorNotes T950	NCBITaxon:10088 (Mus)
+T951	PR 16722 16726	MCAD
+#951	AnnotatorNotes T951	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T952	EntrezGene 16782 16799	human MCAD enzyme
+#952	AnnotatorNotes T952	EG:34
+T953	NCBITaxon 16782 16787	human
+#953	AnnotatorNotes T953	NCBITaxon:9606 (Homo sapiens)
+T954	PR 16788 16799	MCAD enzyme
+#954	AnnotatorNotes T954	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T955	SO 16793 16799	enzyme
+#955	AnnotatorNotes T955	SO:0001185 (enzymatic)
+T956	GO_MF 16843 16881	very long-chain acyl-CoA dehydrogenase
+#956	AnnotatorNotes T956	GO:0017099 (very-long-chain-acyl-CoA dehydrogenase activity)
+T957	PR 16843 16881	very long-chain acyl-CoA dehydrogenase
+#957	AnnotatorNotes T957	PR:000003604 (very long-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T958	independent_continuant 16843 16881	very long-chain acyl-CoA dehydrogenase
+#958	AnnotatorNotes T958	independent_continuant
+T959	EntrezGene 16843 16881	very long-chain acyl-CoA dehydrogenase
+#959	AnnotatorNotes T959	EG:11370
+T960	CHEBI 16848 16867	long-chain acyl-CoA
+#960	AnnotatorNotes T960	CHEBI:33184 (long-chain acyl-CoAs)
+T961	CHEBI 16859 16863	acyl
+#961	AnnotatorNotes T961	CHEBI:22221 (acyl groups)
+T962	GO_MF 16883 16888	VLCAD
+#962	AnnotatorNotes T962	GO:0017099 (very-long-chain-acyl-CoA dehydrogenase activity)
+T963	EntrezGene 16883 16888	VLCAD
+#963	AnnotatorNotes T963	EG:11370
+T964	PR 16883 16888	VLCAD
+#964	AnnotatorNotes T964	PR:000003604 (very long-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T965	independent_continuant 16883 16888	VLCAD
+#965	AnnotatorNotes T965	independent_continuant
+T966	EntrezGene 16896 16907	mouse VLCAD
+#966	AnnotatorNotes T966	EG:11370
+T967	NCBITaxon 16896 16901	mouse
+#967	AnnotatorNotes T967	NCBITaxon:10088 (Mus)
+T968	GO_MF 16902 16907	VLCAD
+#968	AnnotatorNotes T968	GO:0017099 (very-long-chain-acyl-CoA dehydrogenase activity)
+T969	PR 16902 16907	VLCAD
+#969	AnnotatorNotes T969	PR:000003604 (very long-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T970	independent_continuant 16902 16907	VLCAD
+#970	AnnotatorNotes T970	independent_continuant
+T971	sub 16931 16933	16
+#971	AnnotatorNotes T971	sub (null)
+T972	CHEBI 16934 16938	acyl
+#972	AnnotatorNotes T972	CHEBI:22221 (acyl groups)
+T973	EntrezGene 16965 16976	human VLCAD
+#973	AnnotatorNotes T973	EG:37
+T974	NCBITaxon 16965 16970	human
+#974	AnnotatorNotes T974	NCBITaxon:9606 (Homo sapiens)
+T975	independent_continuant 16971 16976	VLCAD
+#975	AnnotatorNotes T975	independent_continuant
+T976	PR 16971 16976	VLCAD
+#976	AnnotatorNotes T976	PR:000003604 (very long-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T977	GO_MF 16971 16976	VLCAD
+#977	AnnotatorNotes T977	GO:0017099 (very-long-chain-acyl-CoA dehydrogenase activity)
+T978	SO 16991 17000	enzymatic
+#978	AnnotatorNotes T978	SO:0001185 (enzymatic)
+T979	sub 17018 17020	14
+#979	AnnotatorNotes T979	sub (null)
+T980	CHEBI 17021 17025	acyl
+#980	AnnotatorNotes T980	CHEBI:22221 (acyl groups)
+T981	GO_CC 17044 17047	ETF
+#981	AnnotatorNotes T981	GO:0045251 (electron transfer flavoprotein complex)
+T982	EntrezGene 17121 17125	MCAD
+#982	AnnotatorNotes T982	EG:11364
+T983	PR 17121 17125	MCAD
+#983	AnnotatorNotes T983	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T984	sup 17125 17128	−/−
+#984	AnnotatorNotes T984	sup (null)
+T985	NCBITaxon 17129 17133	mice
+#985	AnnotatorNotes T985	NCBITaxon:10088 (Mus)
+T986	SO 17141 17150	enzymatic
+#986	AnnotatorNotes T986	SO:0001185 (enzymatic)
+T987	EntrezGene 17158 17162	MCAD
+#987	AnnotatorNotes T987	EG:11364
+T988	PR 17158 17162	MCAD
+#988	AnnotatorNotes T988	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T989	sup 17162 17165	−/−
+#989	AnnotatorNotes T989	sup (null)
+T990	NCBITaxon 17166 17170	mice
+#990	AnnotatorNotes T990	NCBITaxon:10088 (Mus)
+T991	sub 17225 17226	8
+#991	AnnotatorNotes T991	sub (null)
+T992	CHEBI 17227 17230	CoA
+#992	AnnotatorNotes T992	CHEBI:15346 (coenzyme A)
+T993	NCBITaxon 17250 17255	human
+#993	AnnotatorNotes T993	NCBITaxon:9606 (Homo sapiens)
+T994	EntrezGene 17271 17275	MCAD
+#994	AnnotatorNotes T994	EG:34
+T995	PR 17271 17275	MCAD
+#995	AnnotatorNotes T995	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T996	sub 17315 17316	8
+#996	AnnotatorNotes T996	sub (null)
+T997	CHEBI 17317 17320	CoA
+#997	AnnotatorNotes T997	CHEBI:15346 (coenzyme A)
+T998	CHEBI 17345 17358	palmitoyl-CoA
+#998	AnnotatorNotes T998	CHEBI:15525 (palmitoyl-CoA)
+T999	CHEBI 17345 17354	palmitoyl
+#999	AnnotatorNotes T999	CHEBI:45021 (palmitoyl group)
+T1000	CHEBI 17355 17358	CoA
+#1000	AnnotatorNotes T1000	CHEBI:15346 (coenzyme A)
+T1001	sub 17361 17365	16:0
+#1001	AnnotatorNotes T1001	sub (null)
+T1002	EntrezGene 17397 17401	MCAD
+#1002	AnnotatorNotes T1002	EG:11364
+T1003	PR 17397 17401	MCAD
+#1003	AnnotatorNotes T1003	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1004	EntrezGene 17422 17426	MCAD
+#1004	AnnotatorNotes T1004	EG:11364
+T1005	PR 17422 17426	MCAD
+#1005	AnnotatorNotes T1005	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1006	sup 17426 17429	−/−
+#1006	AnnotatorNotes T1006	sup (null)
+T1007	NCBITaxon 17430 17434	mice
+#1007	AnnotatorNotes T1007	NCBITaxon:10088 (Mus)
+T1008	independent_continuant 17566 17589	acyl-CoA dehydrogenases
+#1008	AnnotatorNotes T1008	independent_continuant
+T1009	GO_MF 17566 17589	acyl-CoA dehydrogenases
+#1009	AnnotatorNotes T1009	GO:0003995 (acyl-CoA dehydrogenase activity)
+T1010	CHEBI 17566 17574	acyl-CoA
+#1010	AnnotatorNotes T1010	CHEBI:17984 (acyl-CoAs)
+T1011	CHEBI 17566 17570	acyl
+#1011	AnnotatorNotes T1011	CHEBI:22221 (acyl groups)
+T1012	CHEBI 17571 17574	CoA
+#1012	AnnotatorNotes T1012	CHEBI:15346 (coenzyme A)
+T1013	EntrezGene 17631 17635	MCAD
+#1013	AnnotatorNotes T1013	EG:11364
+T1014	PR 17631 17635	MCAD
+#1014	AnnotatorNotes T1014	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1015	sup 17635 17638	−/−
+#1015	AnnotatorNotes T1015	sup (null)
+T1016	NCBITaxon 17639 17643	mice
+#1016	AnnotatorNotes T1016	NCBITaxon:10088 (Mus)
+T1017	EntrezGene 17753 17757	MCAD
+#1017	AnnotatorNotes T1017	EG:34
+T1018	PR 17753 17757	MCAD
+#1018	AnnotatorNotes T1018	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1019	EntrezGene 17778 17782	MCAD
+#1019	AnnotatorNotes T1019	EG:11364
+T1020	PR 17778 17782	MCAD
+#1020	AnnotatorNotes T1020	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1021	sup 17782 17785	−/−
+#1021	AnnotatorNotes T1021	sup (null)
+T1022	NCBITaxon 17786 17790	mice
+#1022	AnnotatorNotes T1022	NCBITaxon:10088 (Mus)
+T1023	EntrezGene 17862 17866	MCAD
+#1023	AnnotatorNotes T1023	EG:11364
+T1024	PR 17862 17866	MCAD
+#1024	AnnotatorNotes T1024	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1025	sup 17866 17869	−/−
+#1025	AnnotatorNotes T1025	sup (null)
+T1026	GO_BP 17875 17880	dying
+#1026	AnnotatorNotes T1026	GO:0016265 (death)
+T1027	NCBITaxon 17914 17919	Human
+#1027	AnnotatorNotes T1027	NCBITaxon:9606 (Homo sapiens)
+T1028	EntrezGene 18107 18111	MCAD
+#1028	AnnotatorNotes T1028	EG:11364
+T1029	PR 18107 18111	MCAD
+#1029	AnnotatorNotes T1029	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1030	sup 18111 18114	−/−
+#1030	AnnotatorNotes T1030	sup (null)
+T1031	GO_BP 18229 18237	ingested
+#1031	AnnotatorNotes T1031	GO:0007631 (feeding behavior)
+T1032	EntrezGene 18284 18288	MCAD
+#1032	AnnotatorNotes T1032	EG:11364
+T1033	PR 18284 18288	MCAD
+#1033	AnnotatorNotes T1033	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1034	sup 18288 18291	−/−
+#1034	AnnotatorNotes T1034	sup (null)
+T1035	NCBITaxon 18292 18296	mice
+#1035	AnnotatorNotes T1035	NCBITaxon:10088 (Mus)
+T1036	EntrezGene 18387 18391	MCAD
+#1036	AnnotatorNotes T1036	EG:11364
+T1037	PR 18387 18391	MCAD
+#1037	AnnotatorNotes T1037	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1038	sup 18391 18394	−/−
+#1038	AnnotatorNotes T1038	sup (null)
+T1039	NCBITaxon 18395 18399	mice
+#1039	AnnotatorNotes T1039	NCBITaxon:10088 (Mus)
+T1040	GO_BP 18485 18498	thermogenesis
+#1040	AnnotatorNotes T1040	GO:0002024 (diet induced thermogenesis)
+T1041	GO_BP 18512 18521	expresses
+#1041	AnnotatorNotes T1041	GO:0010467 (gene expression)
+T1042	italic 18537 18542	Acadm
+#1042	AnnotatorNotes T1042	italic (null)
+T1043	PR 18537 18542	Acadm
+#1043	AnnotatorNotes T1043	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1044	EntrezGene 18537 18542	Acadm
+#1044	AnnotatorNotes T1044	EG:11364
+T1045	CHEBI 18543 18547	mRNA
+#1045	AnnotatorNotes T1045	CHEBI:33699 (messenger RNA)
+T1046	SO 18543 18547	mRNA
+#1046	AnnotatorNotes T1046	SO:0000234 (mRNA)
+T1047	EntrezGene 18621 18625	MCAD
+#1047	AnnotatorNotes T1047	EG:11364
+T1048	PR 18621 18625	MCAD
+#1048	AnnotatorNotes T1048	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1049	sup 18625 18628	−/−
+#1049	AnnotatorNotes T1049	sup (null)
+T1050	NCBITaxon 18629 18633	mice
+#1050	AnnotatorNotes T1050	NCBITaxon:10088 (Mus)
+T1051	EntrezGene 18694 18704	human MCAD
+#1051	AnnotatorNotes T1051	EG:34
+T1052	NCBITaxon 18694 18699	human
+#1052	AnnotatorNotes T1052	NCBITaxon:9606 (Homo sapiens)
+T1053	PR 18700 18704	MCAD
+#1053	AnnotatorNotes T1053	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1054	EntrezGene 18763 18767	MCAD
+#1054	AnnotatorNotes T1054	EG:11364
+T1055	PR 18763 18767	MCAD
+#1055	AnnotatorNotes T1055	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1056	sup 18767 18770	−/−
+#1056	AnnotatorNotes T1056	sup (null)
+T1057	NCBITaxon 18771 18775	mice
+#1057	AnnotatorNotes T1057	NCBITaxon:10088 (Mus)
+T1058	CL 18873 18880	myocyte
+#1058	AnnotatorNotes T1058	CL:0000187 (muscle cell)
+T1059	EntrezGene 18919 18923	MCAD
+#1059	AnnotatorNotes T1059	EG:11364
+T1060	PR 18919 18923	MCAD
+#1060	AnnotatorNotes T1060	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1061	sup 18923 18926	−/−
+#1061	AnnotatorNotes T1061	sup (null)
+T1062	NCBITaxon 18927 18931	mice
+#1062	AnnotatorNotes T1062	NCBITaxon:10088 (Mus)
+T1063	EntrezGene 18957 18967	human MCAD
+#1063	AnnotatorNotes T1063	EG:34
+T1064	NCBITaxon 18957 18962	human
+#1064	AnnotatorNotes T1064	NCBITaxon:9606 (Homo sapiens)
+T1065	PR 18963 18967	MCAD
+#1065	AnnotatorNotes T1065	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1066	EntrezGene 19045 19049	MCAD
+#1066	AnnotatorNotes T1066	EG:34
+T1067	PR 19045 19049	MCAD
+#1067	AnnotatorNotes T1067	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1068	GO_MF 19130 19135	VLCAD
+#1068	AnnotatorNotes T1068	GO:0017099 (very-long-chain-acyl-CoA dehydrogenase activity)
+T1069	PR 19130 19135	VLCAD
+#1069	AnnotatorNotes T1069	PR:000003604 (very long-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1070	independent_continuant 19130 19135	VLCAD
+#1070	AnnotatorNotes T1070	independent_continuant
+T1071	GO_BP 19175 19200	long chain fat metabolism
+#1071	AnnotatorNotes T1071	GO:0001676 (long-chain fatty acid metabolic process)
+T1072	CHEBI 19175 19189	long chain fat
+#1072	AnnotatorNotes T1072	CHEBI:15904 (long-chain fatty acids)
+T1073	EntrezGene 19216 19228	CPT-1 and -2
+#1073	AnnotatorNotes T1073	"CPT .. -2" EG:1376
+T1074	PR 19216 19228	CPT-1 and -2
+#1074	AnnotatorNotes T1074	"CPT .. -2" PR:000005838 (carnitine O-palmitoyltransferase 2, mitochondrial)
+T1075	PR 19216 19221	CPT-1
+#1075	AnnotatorNotes T1075	PR:000005835 (carnitine O-palmitoyltransferase 1, liver isoform)
+T1076	GO_MF 19216 19219	CPT
+#1076	AnnotatorNotes T1076	GO:0004095 (carnitine O-palmitoyltransferase activity)
+T1077	independent_continuant 19216 19219	CPT
+#1077	AnnotatorNotes T1077	independent_continuant
+T1078	NCBITaxon 19305 19310	mouse
+#1078	AnnotatorNotes T1078	NCBITaxon:10088 (Mus)
+T1079	EntrezGene 19369 19379	mouse MCAD
+#1079	AnnotatorNotes T1079	EG:11364
+T1080	NCBITaxon 19369 19374	mouse
+#1080	AnnotatorNotes T1080	NCBITaxon:10088 (Mus)
+T1081	PR 19375 19379	MCAD
+#1081	AnnotatorNotes T1081	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1082	NCBITaxon 19433 19437	mice
+#1082	AnnotatorNotes T1082	NCBITaxon:10088 (Mus)
+T1083	EntrezGene 19530 19534	MCAD
+#1083	AnnotatorNotes T1083	EG:34
+T1084	PR 19530 19534	MCAD
+#1084	AnnotatorNotes T1084	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1085	NCBITaxon 19549 19555	humans
+#1085	AnnotatorNotes T1085	NCBITaxon:9606 (Homo sapiens)
+T1086	NCBITaxon 19616 19621	mouse
+#1086	AnnotatorNotes T1086	NCBITaxon:10088 (Mus)
+T1087	GO_MF 19633 19655	acyl-CoA dehydrogenase
+#1087	AnnotatorNotes T1087	GO:0003995 (acyl-CoA dehydrogenase activity)
+T1088	independent_continuant 19633 19655	acyl-CoA dehydrogenase
+#1088	AnnotatorNotes T1088	independent_continuant
+T1089	CHEBI 19633 19641	acyl-CoA
+#1089	AnnotatorNotes T1089	CHEBI:17984 (acyl-CoAs)
+T1090	CHEBI 19633 19637	acyl
+#1090	AnnotatorNotes T1090	CHEBI:22221 (acyl groups)
+T1091	CHEBI 19638 19641	CoA
+#1091	AnnotatorNotes T1091	CHEBI:15346 (coenzyme A)
+T1092	EntrezGene 19695 19699	MCAD
+#1092	AnnotatorNotes T1092	EG:11364
+T1093	PR 19695 19699	MCAD
+#1093	AnnotatorNotes T1093	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1094	sup 19699 19702	−/−
+#1094	AnnotatorNotes T1094	sup (null)
+T1095	NCBITaxon 19703 19707	mice
+#1095	AnnotatorNotes T1095	NCBITaxon:10088 (Mus)
+T1096	GO_MF 19742 19746	LCAD
+#1096	AnnotatorNotes T1096	GO:0004466 (long-chain-acyl-CoA dehydrogenase activity)
+T1097	independent_continuant 19742 19746	LCAD
+#1097	AnnotatorNotes T1097	independent_continuant
+T1098	PR 19742 19746	LCAD
+#1098	AnnotatorNotes T1098	PR:000003600 (long-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1099	EntrezGene 19742 19746	LCAD
+#1099	AnnotatorNotes T1099	EG:11363
+T1100	sup 19746 19749	−/−
+#1100	AnnotatorNotes T1100	sup (null)
+T1101	NCBITaxon 19750 19754	mice
+#1101	AnnotatorNotes T1101	NCBITaxon:10088 (Mus)
+T1102	GO_MF 19785 19790	VLCAD
+#1102	AnnotatorNotes T1102	GO:0017099 (very-long-chain-acyl-CoA dehydrogenase activity)
+T1103	EntrezGene 19785 19790	VLCAD
+#1103	AnnotatorNotes T1103	EG:11370
+T1104	PR 19785 19790	VLCAD
+#1104	AnnotatorNotes T1104	PR:000003604 (very long-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1105	independent_continuant 19785 19790	VLCAD
+#1105	AnnotatorNotes T1105	independent_continuant
+T1106	sup 19790 19793	−/−
+#1106	AnnotatorNotes T1106	sup (null)
+T1107	GO_MF 19797 19801	SCAD
+#1107	AnnotatorNotes T1107	GO:0004085 (butyryl-CoA dehydrogenase activity)
+T1108	PR 19797 19801	SCAD
+#1108	AnnotatorNotes T1108	PR:000003602 (short-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1109	EntrezGene 19797 19801	SCAD
+#1109	AnnotatorNotes T1109	EG:11409
+T1110	independent_continuant 19797 19801	SCAD
+#1110	AnnotatorNotes T1110	independent_continuant
+T1111	sup 19801 19804	−/−
+#1111	AnnotatorNotes T1111	sup (null)
+T1112	NCBITaxon 19805 19810	mouse
+#1112	AnnotatorNotes T1112	NCBITaxon:10088 (Mus)
+T1113	SO 19843 19850	mutants
+#1113	AnnotatorNotes T1113	SO:0001059 (sequence_alteration)
+T1114	independent_continuant 19843 19850	mutants
+#1114	AnnotatorNotes T1114	independent_continuant
+T1115	independent_continuant 19945 19949	LCAD
+#1115	AnnotatorNotes T1115	independent_continuant
+T1116	PR 19945 19949	LCAD
+#1116	AnnotatorNotes T1116	PR:000003600 (long-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1117	GO_MF 19945 19949	LCAD
+#1117	AnnotatorNotes T1117	GO:0004466 (long-chain-acyl-CoA dehydrogenase activity)
+T1118	EntrezGene 19945 19949	LCAD
+#1118	AnnotatorNotes T1118	EG:11363
+T1119	sup 19949 19952	−/−
+#1119	AnnotatorNotes T1119	sup (null)
+T1120	NCBITaxon 19953 19957	mice
+#1120	AnnotatorNotes T1120	NCBITaxon:10088 (Mus)
+T1121	GO_BP 19980 19986	deaths
+#1121	AnnotatorNotes T1121	GO:0016265 (death)
+T1122	GO_BP 19991 20002	gestational
+#1122	AnnotatorNotes T1122	GO:0007565 (female pregnancy)
+T1123	EntrezGene 20082 20086	MCAD
+#1123	AnnotatorNotes T1123	EG:11364
+T1124	PR 20082 20086	MCAD
+#1124	AnnotatorNotes T1124	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1125	sup 20086 20089	−/−
+#1125	AnnotatorNotes T1125	sup (null)
+T1126	NCBITaxon 20090 20094	mice
+#1126	AnnotatorNotes T1126	NCBITaxon:10088 (Mus)
+T1127	NCBITaxon 20127 20132	mouse
+#1127	AnnotatorNotes T1127	NCBITaxon:10088 (Mus)
+T1128	independent_continuant 20234 20239	VLCAD
+#1128	AnnotatorNotes T1128	independent_continuant
+T1129	EntrezGene 20234 20239	VLCAD
+#1129	AnnotatorNotes T1129	EG:11370
+T1130	PR 20234 20239	VLCAD
+#1130	AnnotatorNotes T1130	PR:000003604 (very long-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1131	GO_MF 20234 20239	VLCAD
+#1131	AnnotatorNotes T1131	GO:0017099 (very-long-chain-acyl-CoA dehydrogenase activity)
+T1132	sup 20239 20242	−/−
+#1132	AnnotatorNotes T1132	sup (null)
+T1133	GO_MF 20247 20251	SCAD
+#1133	AnnotatorNotes T1133	GO:0004085 (butyryl-CoA dehydrogenase activity)
+T1134	PR 20247 20251	SCAD
+#1134	AnnotatorNotes T1134	PR:000003602 (short-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1135	EntrezGene 20247 20251	SCAD
+#1135	AnnotatorNotes T1135	EG:11409
+T1136	independent_continuant 20247 20251	SCAD
+#1136	AnnotatorNotes T1136	independent_continuant
+T1137	sup 20251 20254	−/−
+#1137	AnnotatorNotes T1137	sup (null)
+T1138	NCBITaxon 20255 20259	mice
+#1138	AnnotatorNotes T1138	NCBITaxon:10088 (Mus)
+T1139	NCBITaxon 20287 20294	animals
+#1139	AnnotatorNotes T1139	NCBITaxon:33208 (Metazoa)
+T1140	EntrezGene 20330 20334	MCAD
+#1140	AnnotatorNotes T1140	EG:11364
+T1141	PR 20330 20334	MCAD
+#1141	AnnotatorNotes T1141	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1142	NCBITaxon 20345 20350	mouse
+#1142	AnnotatorNotes T1142	NCBITaxon:10088 (Mus)
+T1143	GO_CC 20396 20409	mitochondrial
+#1143	AnnotatorNotes T1143	GO:0005739 (mitochondrion)
+T1144	GO_BP 20410 20421	β-oxidation
+#1144	AnnotatorNotes T1144	GO:0006635 (fatty acid beta-oxidation)
+T1145	CHEBI 20499 20510	fatty acids
+#1145	AnnotatorNotes T1145	CHEBI:35366 (fatty acids)
+T1146	GO_BP 20563 20575	Construction
+#1146	AnnotatorNotes T1146	GO:0009058 (biosynthetic process)
+T1147	EntrezGene 20579 20583	MCAD
+#1147	AnnotatorNotes T1147	EG:11364
+T1148	PR 20579 20583	MCAD
+#1148	AnnotatorNotes T1148	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1149	SO 20594 20600	vector
+#1149	AnnotatorNotes T1149	SO:0000440 (vector_replicon)
+T1150	CHEBI 20605 20613	neomycin
+#1150	AnnotatorNotes T1150	CHEBI:44577 (neomycin)
+T1151	SO 20625 20638	gene cassette
+#1151	AnnotatorNotes T1151	SO:0005853 (gene_cassette)
+T1152	SO 20672 20676	site
+#1152	AnnotatorNotes T1152	SO:0000001 (region)
+T1153	SO 20697 20704	plasmid
+#1153	AnnotatorNotes T1153	SO:0000155 (plasmid)
+T1154	GO_BP 20709 20717	digested
+#1154	AnnotatorNotes T1154	GO:0009056 (catabolic process)
+T1155	SO 20771 20777	enzyme
+#1155	AnnotatorNotes T1155	SO:0001185 (enzymatic)
+T1156	GO_BP 20790 20798	ligation
+#1156	AnnotatorNotes T1156	GO:0006266 (DNA ligation)
+T1157	SO 20836 20842	vector
+#1157	AnnotatorNotes T1157	SO:0000440 (vector_replicon)
+T1158	SO 20867 20871	site
+#1158	AnnotatorNotes T1158	SO:0000001 (region)
+T1159	SO 20913 20920	plasmid
+#1159	AnnotatorNotes T1159	SO:0000155 (plasmid)
+T1160	italic 20936 20941	Acadm
+#1160	AnnotatorNotes T1160	italic (null)
+T1161	EntrezGene 20936 20941	Acadm
+#1161	AnnotatorNotes T1161	EG:11364
+T1162	PR 20936 20941	Acadm
+#1162	AnnotatorNotes T1162	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1163	SO 20942 20949	genomic
+#1163	AnnotatorNotes T1163	SO:0001026 (genome)
+T1164	SO 20950 20958	fragment
+#1164	AnnotatorNotes T1164	SO:0000731 (fragmentary)
+T1165	SO 20968 20973	exons
+#1165	AnnotatorNotes T1165	SO:0000147 (exon)
+T1166	SO 20991 21016	flanking intron sequences
+#1166	AnnotatorNotes T1166	"flanking .. sequences" SO:0000239 (flanking_region)
+T1167	SO 21000 21016	intron sequences
+#1167	AnnotatorNotes T1167	SO:0000188 (intron)
+T1168	NCBITaxon 21064 21069	mouse
+#1168	AnnotatorNotes T1168	NCBITaxon:10088 (Mus)
+T1169	SO 21070 21077	genomic
+#1169	AnnotatorNotes T1169	SO:0001026 (genome)
+T1170	SO 21143 21148	sites
+#1170	AnnotatorNotes T1170	SO:0000001 (region)
+T1171	SO 21169 21175	vector
+#1171	AnnotatorNotes T1171	SO:0000440 (vector_replicon)
+T1172	GO_BP 21180 21188	digested
+#1172	AnnotatorNotes T1172	GO:0009056 (catabolic process)
+T1173	SO 21213 21219	remove
+#1173	AnnotatorNotes T1173	SO:0000045 (delete)
+T1174	SO 21241 21248	genomic
+#1174	AnnotatorNotes T1174	SO:0001026 (genome)
+T1175	SO 21249 21257	fragment
+#1175	AnnotatorNotes T1175	SO:0000731 (fragmentary)
+T1176	SO 21269 21273	exon
+#1176	AnnotatorNotes T1176	SO:0000147 (exon)
+T1177	SO 21281 21306	flanking intron sequences
+#1177	AnnotatorNotes T1177	"flanking .. sequences" SO:0000239 (flanking_region)
+T1178	SO 21290 21306	intron sequences
+#1178	AnnotatorNotes T1178	SO:0000188 (intron)
+T1179	GO_BP 21312 21320	digested
+#1179	AnnotatorNotes T1179	GO:0009056 (catabolic process)
+T1180	SO 21321 21327	vector
+#1180	AnnotatorNotes T1180	SO:0000440 (vector_replicon)
+T1181	SO 21360 21367	genomic
+#1181	AnnotatorNotes T1181	SO:0001026 (genome)
+T1182	SO 21368 21376	fragment
+#1182	AnnotatorNotes T1182	SO:0000731 (fragmentary)
+T1183	GO_BP 21433 21441	ligation
+#1183	AnnotatorNotes T1183	GO:0006266 (DNA ligation)
+T1184	SO 21454 21470	oligonucleotides
+#1184	AnnotatorNotes T1184	SO:0000696 (oligo)
+T1185	SO 21551 21557	vector
+#1185	AnnotatorNotes T1185	SO:0000440 (vector_replicon)
+T1186	GO_BP 21578 21586	ligation
+#1186	AnnotatorNotes T1186	GO:0006266 (DNA ligation)
+T1187	SO 21657 21661	site
+#1187	AnnotatorNotes T1187	SO:0000001 (region)
+T1188	SO 21679 21683	exon
+#1188	AnnotatorNotes T1188	SO:0000147 (exon)
+T1189	SO 21687 21693	region
+#1189	AnnotatorNotes T1189	SO:0000001 (region)
+T1190	SO 21698 21705	deleted
+#1190	AnnotatorNotes T1190	SO:0000045 (delete)
+T1191	GO_BP 21708 21718	Generation
+#1191	AnnotatorNotes T1191	GO:0000003 (reproduction)
+T1192	EntrezGene 21722 21726	MCAD
+#1192	AnnotatorNotes T1192	EG:11364
+T1193	PR 21722 21726	MCAD
+#1193	AnnotatorNotes T1193	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1194	NCBITaxon 21737 21741	mice
+#1194	AnnotatorNotes T1194	NCBITaxon:10088 (Mus)
+T1195	italic 21748 21753	Acadm
+#1195	AnnotatorNotes T1195	italic (null)
+T1196	PR 21748 21753	Acadm
+#1196	AnnotatorNotes T1196	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1197	EntrezGene 21748 21753	Acadm
+#1197	AnnotatorNotes T1197	EG:11364
+T1198	SO 21754 21763	insertion
+#1198	AnnotatorNotes T1198	SO:0000046 (insert)
+T1199	SO 21764 21770	vector
+#1199	AnnotatorNotes T1199	SO:0000440 (vector_replicon)
+T1200	GO_BP 21794 21803	digestion
+#1200	AnnotatorNotes T1200	GO:0009056 (catabolic process)
+T1201	SO 21809 21813	site
+#1201	AnnotatorNotes T1201	SO:0000001 (region)
+T1202	SO 21828 21835	genomic
+#1202	AnnotatorNotes T1202	SO:0001026 (genome)
+T1203	SO 21836 21844	fragment
+#1203	AnnotatorNotes T1203	SO:0000731 (fragmentary)
+T1204	SO 21845 21853	deletion
+#1204	AnnotatorNotes T1204	SO:0000045 (delete)
+T1205	CL 21888 21893	cells
+#1205	AnnotatorNotes T1205	CL:0000000 (cell)
+T1206	GO_CC 21888 21893	cells
+#1206	AnnotatorNotes T1206	GO:0005623 (cell)
+T1207	NCBITaxon 21941 21945	mice
+#1207	AnnotatorNotes T1207	NCBITaxon:10088 (Mus)
+T1208	italic 21966 21971	Acadm
+#1208	AnnotatorNotes T1208	italic (null)
+T1209	PR 21966 21971	Acadm
+#1209	AnnotatorNotes T1209	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1210	EntrezGene 21966 21971	Acadm
+#1210	AnnotatorNotes T1210	EG:11364
+T1211	SO 21972 21981	insertion
+#1211	AnnotatorNotes T1211	SO:0000046 (insert)
+T1212	SO 21982 21988	vector
+#1212	AnnotatorNotes T1212	SO:0000440 (vector_replicon)
+T1213	GO_BP 22013 22023	gap repair
+#1213	AnnotatorNotes T1213	GO:0006287 (base-excision repair, gap-filling)
+T1214	SO 22038 22046	deletion
+#1214	AnnotatorNotes T1214	SO:0000159 (deletion)
+T1215	GO_BP 22052 22117	double stranded–break repair [26] during homologous recombination
+#1215	AnnotatorNotes T1215	"double stranded–break repair .. during homologous recombination" GO:0000724 (double-strand break repair via homologous recombination)
+T1216	SO 22052 22067	double stranded
+#1216	AnnotatorNotes T1216	SO:0000985 (double)
+T1217	SO 22059 22067	stranded
+#1217	AnnotatorNotes T1217	SO:0000001 (region)
+T1218	GO_BP 22178 22191	recombination
+#1218	AnnotatorNotes T1218	GO:0006310 (DNA recombination)
+T1219	SO 22193 22204	Genomic DNA
+#1219	AnnotatorNotes T1219	SO:0000991 (genomic_DNA)
+T1220	SO 22193 22200	Genomic
+#1220	AnnotatorNotes T1220	SO:0001026 (genome)
+T1221	GO_BP 22241 22249	digested
+#1221	AnnotatorNotes T1221	GO:0009056 (catabolic process)
+T1222	SO 22311 22313	bp
+#1222	AnnotatorNotes T1222	SO:0000028 (base_pair)
+T1223	SO 22314 22319	probe
+#1223	AnnotatorNotes T1223	SO:0000051 (probe)
+T1224	SO 22321 22326	probe
+#1224	AnnotatorNotes T1224	SO:0000051 (probe)
+T1225	GO_BP 22330 22339	generated
+#1225	AnnotatorNotes T1225	GO:0009058 (biosynthetic process)
+T1226	italic 22352 22357	Acadm
+#1226	AnnotatorNotes T1226	italic (null)
+T1227	PR 22352 22357	Acadm
+#1227	AnnotatorNotes T1227	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1228	EntrezGene 22352 22357	Acadm
+#1228	AnnotatorNotes T1228	EG:11364
+T1229	SO 22358 22362	exon
+#1229	AnnotatorNotes T1229	SO:0000147 (exon)
+T1230	SO 22369 22375	intron
+#1230	AnnotatorNotes T1230	SO:0000188 (intron)
+T1231	SO 22385 22388	DNA
+#1231	AnnotatorNotes T1231	SO:0000352 (DNA)
+T1232	SO 22389 22397	fragment
+#1232	AnnotatorNotes T1232	SO:0000731 (fragmentary)
+T1233	italic 22420 22425	Acadm
+#1233	AnnotatorNotes T1233	italic (null)
+T1234	PR 22420 22425	Acadm
+#1234	AnnotatorNotes T1234	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1235	EntrezGene 22420 22425	Acadm
+#1235	AnnotatorNotes T1235	EG:11364
+T1236	SO 22426 22435	insertion
+#1236	AnnotatorNotes T1236	SO:0000046 (insert)
+T1237	SO 22436 22442	vector
+#1237	AnnotatorNotes T1237	SO:0000440 (vector_replicon)
+T1238	GO_MF 22463 22472	hybridize
+#1238	AnnotatorNotes T1238	GO:0000739 (DNA strand annealing activity)
+T1239	GO_MF 22463 22472	hybridize
+#1239	AnnotatorNotes T1239	GO:0033592 (RNA strand annealing activity)
+T1240	SO 22486 22497	genomic DNA
+#1240	AnnotatorNotes T1240	SO:0000991 (genomic_DNA)
+T1241	SO 22486 22493	genomic
+#1241	AnnotatorNotes T1241	SO:0001026 (genome)
+T1242	SO 22498 22506	fragment
+#1242	AnnotatorNotes T1242	SO:0000731 (fragmentary)
+T1243	GO_BP 22523 22536	recombination
+#1243	AnnotatorNotes T1243	GO:0006310 (DNA recombination)
+T1244	CL 22560 22564	cell
+#1244	AnnotatorNotes T1244	CL:0000000 (cell)
+T1245	GO_CC 22560 22564	cell
+#1245	AnnotatorNotes T1245	GO:0005623 (cell)
+T1246	GO_BP 22614 22622	generate
+#1246	AnnotatorNotes T1246	GO:0000003 (reproduction)
+T1247	NCBITaxon 22632 22636	mice
+#1247	AnnotatorNotes T1247	NCBITaxon:10088 (Mus)
+T1248	NCBITaxon 22647 22651	mice
+#1248	AnnotatorNotes T1248	NCBITaxon:10088 (Mus)
+T1249	NCBITaxon 22698 22702	mice
+#1249	AnnotatorNotes T1249	NCBITaxon:10088 (Mus)
+T1250	GO_BP 22706 22713	produce
+#1250	AnnotatorNotes T1250	GO:0000003 (reproduction)
+T1251	SO 22714 22718	gene
+#1251	AnnotatorNotes T1251	SO:0000704 (gene)
+T1252	NCBITaxon 22728 22732	mice
+#1252	AnnotatorNotes T1252	NCBITaxon:10088 (Mus)
+T1253	italic 22733 22746	AcadmtmUab1/+
+#1253	AnnotatorNotes T1253	italic (null)
+T1254	sup 22738 22746	tmUab1/+
+#1254	AnnotatorNotes T1254	sup (null)
+T1255	SO 22745 22746	+
+#1255	AnnotatorNotes T1255	SO:0000817 (wild_type)
+T1256	EntrezGene 22748 22752	MCAD
+#1256	AnnotatorNotes T1256	EG:11364
+T1257	PR 22748 22752	MCAD
+#1257	AnnotatorNotes T1257	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1258	sup 22752 22755	+/−
+#1258	AnnotatorNotes T1258	sup (null)
+T1259	SO 22752 22753	+
+#1259	AnnotatorNotes T1259	SO:0000817 (wild_type)
+T1260	italic 22772 22790	AcadmtmUab1/tm1Uab
+#1260	AnnotatorNotes T1260	italic (null)
+T1261	sup 22777 22790	tmUab1/tm1Uab
+#1261	AnnotatorNotes T1261	sup (null)
+T1262	EntrezGene 22791 22795	MCAD
+#1262	AnnotatorNotes T1262	EG:11364
+T1263	PR 22791 22795	MCAD
+#1263	AnnotatorNotes T1263	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1264	sup 22795 22798	−/−
+#1264	AnnotatorNotes T1264	sup (null)
+T1265	NCBITaxon 22808 22812	mice
+#1265	AnnotatorNotes T1265	NCBITaxon:10088 (Mus)
+T1266	NCBITaxon 22814 22818	Mice
+#1266	AnnotatorNotes T1266	NCBITaxon:10088 (Mus)
+T1267	NCBITaxon 22837 22842	mouse
+#1267	AnnotatorNotes T1267	NCBITaxon:10088 (Mus)
+T1268	NCBITaxon 22899 22906	viruses
+#1268	AnnotatorNotes T1268	NCBITaxon:10239 (Viruses)
+T1269	NCBITaxon 22916 22925	bacterial
+#1269	AnnotatorNotes T1269	NCBITaxon:2 (Bacteria)
+T1270	SO 23044 23047	RNA
+#1270	AnnotatorNotes T1270	SO:0000356 (RNA)
+T1271	SO 23065 23068	RNA
+#1271	AnnotatorNotes T1271	SO:0000356 (RNA)
+T1272	EntrezGene 23111 23115	MCAD
+#1272	AnnotatorNotes T1272	EG:11364
+T1273	PR 23111 23115	MCAD
+#1273	AnnotatorNotes T1273	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1274	sup 23115 23118	+/+
+#1274	AnnotatorNotes T1274	sup (null)
+T1275	SO 23115 23116	+
+#1275	AnnotatorNotes T1275	SO:0000817 (wild_type)
+T1276	SO 23117 23118	+
+#1276	AnnotatorNotes T1276	SO:0000817 (wild_type)
+T1277	EntrezGene 23120 23124	MCAD
+#1277	AnnotatorNotes T1277	EG:11364
+T1278	PR 23120 23124	MCAD
+#1278	AnnotatorNotes T1278	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1279	sup 23124 23127	+/−
+#1279	AnnotatorNotes T1279	sup (null)
+T1280	SO 23124 23125	+
+#1280	AnnotatorNotes T1280	SO:0000817 (wild_type)
+T1281	EntrezGene 23133 23137	MCAD
+#1281	AnnotatorNotes T1281	EG:11364
+T1282	PR 23133 23137	MCAD
+#1282	AnnotatorNotes T1282	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1283	sup 23137 23140	−/−
+#1283	AnnotatorNotes T1283	sup (null)
+T1284	NCBITaxon 23141 23145	mice
+#1284	AnnotatorNotes T1284	NCBITaxon:10088 (Mus)
+T1285	CHEBI 23175 23186	guanidinium
+#1285	AnnotatorNotes T1285	CHEBI:30087 (guanidinium)
+T1286	CHEBI 23187 23198	thiocyanate
+#1286	AnnotatorNotes T1286	CHEBI:18022 (thiocyanate)
+T1287	CHEBI 23187 23198	thiocyanate
+#1287	AnnotatorNotes T1287	CHEBI:26955 (thiocyanates)
+T1288	GO_BP 23212 23233	Reverse transcription
+#1288	AnnotatorNotes T1288	GO:0006410 (transcription, RNA-dependent)
+T1289	SO 23254 23260	random
+#1289	AnnotatorNotes T1289	SO:0000449 (random_sequence)
+T1290	SO 23261 23277	oligonucleotides
+#1290	AnnotatorNotes T1290	SO:0000696 (oligo)
+T1291	SO 23404 23420	oligonucleotides
+#1291	AnnotatorNotes T1291	SO:0000696 (oligo)
+T1292	SO 23433 23437	exon
+#1292	AnnotatorNotes T1292	SO:0000147 (exon)
+T1293	SO 23444 23448	exon
+#1293	AnnotatorNotes T1293	SO:0000147 (exon)
+T1294	italic 23455 23460	Acadm
+#1294	AnnotatorNotes T1294	italic (null)
+T1295	PR 23455 23460	Acadm
+#1295	AnnotatorNotes T1295	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1296	EntrezGene 23455 23460	Acadm
+#1296	AnnotatorNotes T1296	EG:11364
+T1297	SO 23520 23529	fragments
+#1297	AnnotatorNotes T1297	SO:0000731 (fragmentary)
+T1298	SO 23592 23598	vector
+#1298	AnnotatorNotes T1298	SO:0000440 (vector_replicon)
+T1299	italic 23682 23687	Acadm
+#1299	AnnotatorNotes T1299	italic (null)
+T1300	PR 23682 23687	Acadm
+#1300	AnnotatorNotes T1300	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1301	EntrezGene 23682 23687	Acadm
+#1301	AnnotatorNotes T1301	EG:11364
+T1302	CHEBI 23688 23692	mRNA
+#1302	AnnotatorNotes T1302	CHEBI:33699 (messenger RNA)
+T1303	SO 23688 23692	mRNA
+#1303	AnnotatorNotes T1303	SO:0000234 (mRNA)
+T1304	GO_BP 23693 23702	expressed
+#1304	AnnotatorNotes T1304	GO:0010467 (gene expression)
+T1305	EntrezGene 23712 23716	MCAD
+#1305	AnnotatorNotes T1305	EG:11364
+T1306	PR 23712 23716	MCAD
+#1306	AnnotatorNotes T1306	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1307	sup 23716 23719	−/−
+#1307	AnnotatorNotes T1307	sup (null)
+T1308	NCBITaxon 23720 23724	mice
+#1308	AnnotatorNotes T1308	NCBITaxon:10088 (Mus)
+T1309	SO 23770 23773	RNA
+#1309	AnnotatorNotes T1309	SO:0000356 (RNA)
+T1310	EntrezGene 23883 23887	MCAD
+#1310	AnnotatorNotes T1310	EG:11364
+T1311	PR 23883 23887	MCAD
+#1311	AnnotatorNotes T1311	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1312	sup 23887 23890	+/+
+#1312	AnnotatorNotes T1312	sup (null)
+T1313	SO 23887 23888	+
+#1313	AnnotatorNotes T1313	SO:0000817 (wild_type)
+T1314	SO 23889 23890	+
+#1314	AnnotatorNotes T1314	SO:0000817 (wild_type)
+T1315	EntrezGene 23895 23899	MCAD
+#1315	AnnotatorNotes T1315	EG:11364
+T1316	PR 23895 23899	MCAD
+#1316	AnnotatorNotes T1316	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1317	sup 23899 23902	−/−
+#1317	AnnotatorNotes T1317	sup (null)
+T1318	NCBITaxon 23903 23907	mice
+#1318	AnnotatorNotes T1318	NCBITaxon:10088 (Mus)
+T1319	SO 23928 23931	RNA
+#1319	AnnotatorNotes T1319	SO:0000356 (RNA)
+T1320	SO 24053 24056	RNA
+#1320	AnnotatorNotes T1320	SO:0000356 (RNA)
+T1321	CHEBI 24097 24104	agarose
+#1321	AnnotatorNotes T1321	CHEBI:2511 (agarose)
+T1322	CHEBI 24105 24117	formaldehyde
+#1322	AnnotatorNotes T1322	CHEBI:16842 (formaldehyde)
+T1323	GO_MF 24257 24267	hybridized
+#1323	AnnotatorNotes T1323	GO:0000739 (DNA strand annealing activity)
+T1324	GO_MF 24257 24267	hybridized
+#1324	AnnotatorNotes T1324	GO:0033592 (RNA strand annealing activity)
+T1325	CHEBI 24273 24276	32P
+#1325	AnnotatorNotes T1325	CHEBI:37972 (phosphorus-32)
+T1326	sup 24273 24275	32
+#1326	AnnotatorNotes T1326	sup (null)
+T1327	CHEBI 24277 24289	radiolabeled
+#1327	AnnotatorNotes T1327	CHEBI:35211 (radioactive label)
+T1328	EntrezGene 24302 24313	mouse Acadm
+#1328	AnnotatorNotes T1328	EG:11364
+T1329	NCBITaxon 24302 24307	mouse
+#1329	AnnotatorNotes T1329	NCBITaxon:10088 (Mus)
+T1330	italic 24308 24313	Acadm
+#1330	AnnotatorNotes T1330	italic (null)
+T1331	PR 24308 24313	Acadm
+#1331	AnnotatorNotes T1331	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1332	SO 24314 24318	cDNA
+#1332	AnnotatorNotes T1332	SO:0000756 (cDNA)
+T1333	SO 24319 24324	probe
+#1333	AnnotatorNotes T1333	SO:0000051 (probe)
+T1334	GO_MF 24357 24371	Hybridizations
+#1334	AnnotatorNotes T1334	GO:0000739 (DNA strand annealing activity)
+T1335	GO_MF 24357 24371	Hybridizations
+#1335	AnnotatorNotes T1335	GO:0033592 (RNA strand annealing activity)
+T1336	CHEBI 24443 24452	formamide
+#1336	AnnotatorNotes T1336	CHEBI:16397 (formamide)
+T1337	CHEBI 24458 24473	dextran sulfate
+#1337	AnnotatorNotes T1337	CHEBI:34674 (dextran sulfate)
+T1338	CHEBI 24466 24473	sulfate
+#1338	AnnotatorNotes T1338	CHEBI:45536 (sulfonato group)
+T1339	CHEBI 24489 24496	reagent
+#1339	AnnotatorNotes T1339	CHEBI:33893 (reagent)
+T1340	CHEBI 24501 24504	SDS
+#1340	AnnotatorNotes T1340	CHEBI:8984 (sodium dodecyl sulfate)
+T1341	CL 24517 24522	sperm
+#1341	AnnotatorNotes T1341	CL:0000019 (sperm)
+T1342	SO 24523 24526	DNA
+#1342	AnnotatorNotes T1342	SO:0000352 (DNA)
+T1343	GO_MF 24542 24552	hybridized
+#1343	AnnotatorNotes T1343	GO:0000739 (DNA strand annealing activity)
+T1344	GO_MF 24542 24552	hybridized
+#1344	AnnotatorNotes T1344	GO:0033592 (RNA strand annealing activity)
+T1345	CHEBI 24597 24600	SDS
+#1345	AnnotatorNotes T1345	CHEBI:8984 (sodium dodecyl sulfate)
+T1346	CHEBI 24631 24634	SDS
+#1346	AnnotatorNotes T1346	CHEBI:8984 (sodium dodecyl sulfate)
+T1347	CHEBI 24802 24809	agarose
+#1347	AnnotatorNotes T1347	CHEBI:2511 (agarose)
+T1348	CHEBI 24810 24822	formaldehyde
+#1348	AnnotatorNotes T1348	CHEBI:16842 (formaldehyde)
+T1349	CHEBI 24844 24860	ethidium bromide
+#1349	AnnotatorNotes T1349	CHEBI:4883 (ethidium bromide)
+T1350	CHEBI 24844 24852	ethidium
+#1350	AnnotatorNotes T1350	CHEBI:42478 (ethidium)
+T1351	CHEBI 24853 24860	bromide
+#1351	AnnotatorNotes T1351	CHEBI:15858 (bromide)
+T1352	SO 24877 24880	RNA
+#1352	AnnotatorNotes T1352	SO:0000356 (RNA)
+T1353	EntrezGene 24914 24918	MCAD
+#1353	AnnotatorNotes T1353	EG:11364
+T1354	PR 24914 24918	MCAD
+#1354	AnnotatorNotes T1354	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1355	CHEBI 24919 24926	protein
+#1355	AnnotatorNotes T1355	CHEBI:36080 (proteins)
+T1356	EntrezGene 24957 24961	MCAD
+#1356	AnnotatorNotes T1356	EG:11364
+T1357	PR 24957 24961	MCAD
+#1357	AnnotatorNotes T1357	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1358	CHEBI 24962 24969	protein
+#1358	AnnotatorNotes T1358	CHEBI:36080 (proteins)
+T1359	NCBITaxon 24973 24978	mouse
+#1359	AnnotatorNotes T1359	NCBITaxon:10088 (Mus)
+T1360	EntrezGene 25017 25021	MCAD
+#1360	AnnotatorNotes T1360	EG:11364
+T1361	PR 25017 25021	MCAD
+#1361	AnnotatorNotes T1361	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1362	sup 25021 25024	+/+
+#1362	AnnotatorNotes T1362	sup (null)
+T1363	SO 25021 25022	+
+#1363	AnnotatorNotes T1363	SO:0000817 (wild_type)
+T1364	SO 25023 25024	+
+#1364	AnnotatorNotes T1364	SO:0000817 (wild_type)
+T1365	italic 25026 25027	n
+#1365	AnnotatorNotes T1365	italic (null)
+T1366	EntrezGene 25037 25041	MCAD
+#1366	AnnotatorNotes T1366	EG:11364
+T1367	PR 25037 25041	MCAD
+#1367	AnnotatorNotes T1367	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1368	sup 25041 25044	−/−
+#1368	AnnotatorNotes T1368	sup (null)
+T1369	italic 25046 25047	n
+#1369	AnnotatorNotes T1369	italic (null)
+T1370	NCBITaxon 25053 25057	mice
+#1370	AnnotatorNotes T1370	NCBITaxon:10088 (Mus)
+T1371	CHEBI 25092 25100	nitrogen
+#1371	AnnotatorNotes T1371	CHEBI:17997 (dinitrogen)
+T1372	GO_BP 25164 25169	lysed
+#1372	AnnotatorNotes T1372	GO:0019835 (cytolysis)
+T1373	CHEBI 25216 25235	sodium deoxycholate
+#1373	AnnotatorNotes T1373	CHEBI:9177 (sodium deoxycholate)
+T1374	CHEBI 25216 25222	sodium
+#1374	AnnotatorNotes T1374	CHEBI:26708 (sodium)
+T1375	CHEBI 25223 25235	deoxycholate
+#1375	AnnotatorNotes T1375	CHEBI:23614 (deoxycholate)
+T1376	CHEBI 25244 25247	SDS
+#1376	AnnotatorNotes T1376	CHEBI:8984 (sodium dodecyl sulfate)
+T1377	CHEBI 25258 25266	glycerol
+#1377	AnnotatorNotes T1377	CHEBI:17754 (glycerol)
+T1378	CHEBI 25280 25298	Protease Inhibitor
+#1378	AnnotatorNotes T1378	CHEBI:37670 (protease inhibitor)
+T1379	independent_continuant 25280 25298	Protease Inhibitor
+#1379	AnnotatorNotes T1379	independent_continuant
+T1380	GO_MF 25280 25298	Protease Inhibitor
+#1380	AnnotatorNotes T1380	GO:0030414 (protease inhibitor activity)
+T1381	GO_MF 25280 25288	Protease
+#1381	AnnotatorNotes T1381	GO:0008233 (peptidase activity)
+T1382	independent_continuant 25280 25288	Protease
+#1382	AnnotatorNotes T1382	independent_continuant
+T1383	CHEBI 25379 25407	phenylmethylsulfonylfluoride
+#1383	AnnotatorNotes T1383	CHEBI:8102 (phenylmethanesulfonyl fluoride)
+T1384	CHEBI 25421 25441	sodium orthovanadate
+#1384	AnnotatorNotes T1384	CHEBI:35607 (trisodium vanadate)
+T1385	CHEBI 25421 25427	sodium
+#1385	AnnotatorNotes T1385	CHEBI:26708 (sodium)
+T1386	CHEBI 25428 25441	orthovanadate
+#1386	AnnotatorNotes T1386	CHEBI:46442 (vanadate(3-))
+T1387	CHEBI 25483 25490	protein
+#1387	AnnotatorNotes T1387	CHEBI:36080 (proteins)
+T1388	CHEBI 25545 25552	Protein
+#1388	AnnotatorNotes T1388	CHEBI:36080 (proteins)
+T1389	GO_BP 25566 25575	denatured
+#1389	AnnotatorNotes T1389	GO:0030164 (protein denaturation)
+T1390	CHEBI 25593 25596	SDS
+#1390	AnnotatorNotes T1390	CHEBI:8984 (sodium dodecyl sulfate)
+T1391	CHEBI 25769 25778	phosphate
+#1391	AnnotatorNotes T1391	CHEBI:26020 (phosphates)
+T1392	CHEBI 25769 25778	phosphate
+#1392	AnnotatorNotes T1392	CHEBI:35780 (phosphate ions)
+T1393	CHEBI 25779 25787	buffered
+#1393	AnnotatorNotes T1393	CHEBI:35225 (buffer)
+T1394	PR 25895 25899	MCAD
+#1394	AnnotatorNotes T1394	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1395	GO_CC 25900 25908	antibody
+#1395	AnnotatorNotes T1395	GO:0019814 (immunoglobulin complex)
+T1396	NCBITaxon 25939 25944	mouse
+#1396	AnnotatorNotes T1396	NCBITaxon:10088 (Mus)
+T1397	GO_BP 25953 25963	conjugated
+#1397	AnnotatorNotes T1397	GO:0043412 (biopolymer modification)
+T1398	GO_CC 25974 25982	antibody
+#1398	AnnotatorNotes T1398	GO:0019814 (immunoglobulin complex)
+T1399	SO 26161 26167	enzyme
+#1399	AnnotatorNotes T1399	SO:0001185 (enzymatic)
+T1400	EntrezGene 26200 26204	MCAD
+#1400	AnnotatorNotes T1400	EG:11364
+T1401	PR 26200 26204	MCAD
+#1401	AnnotatorNotes T1401	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1402	NCBITaxon 26217 26221	mice
+#1402	AnnotatorNotes T1402	NCBITaxon:10088 (Mus)
+T1403	EntrezGene 26260 26264	MCAD
+#1403	AnnotatorNotes T1403	EG:11364
+T1404	PR 26260 26264	MCAD
+#1404	AnnotatorNotes T1404	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1405	sup 26264 26267	+/+
+#1405	AnnotatorNotes T1405	sup (null)
+T1406	SO 26264 26265	+
+#1406	AnnotatorNotes T1406	SO:0000817 (wild_type)
+T1407	SO 26266 26267	+
+#1407	AnnotatorNotes T1407	SO:0000817 (wild_type)
+T1408	italic 26269 26270	n
+#1408	AnnotatorNotes T1408	italic (null)
+T1409	EntrezGene 26280 26284	MCAD
+#1409	AnnotatorNotes T1409	EG:11364
+T1410	PR 26280 26284	MCAD
+#1410	AnnotatorNotes T1410	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1411	sup 26284 26287	−/−
+#1411	AnnotatorNotes T1411	sup (null)
+T1412	NCBITaxon 26288 26292	mice
+#1412	AnnotatorNotes T1412	NCBITaxon:10088 (Mus)
+T1413	italic 26294 26295	n
+#1413	AnnotatorNotes T1413	italic (null)
+T1414	GO_CC 26346 26349	ETF
+#1414	AnnotatorNotes T1414	GO:0045251 (electron transfer flavoprotein complex)
+T1415	CHEBI 26399 26411	octanoyl-CoA
+#1415	AnnotatorNotes T1415	CHEBI:15533 (octanoyl-CoA)
+T1416	CHEBI 26399 26407	octanoyl
+#1416	AnnotatorNotes T1416	CHEBI:25650 (octanoyl group)
+T1417	CHEBI 26408 26411	CoA
+#1417	AnnotatorNotes T1417	CHEBI:15346 (coenzyme A)
+T1418	sub 26414 26415	8
+#1418	AnnotatorNotes T1418	sub (null)
+T1419	CHEBI 26421 26434	palmitoyl-CoA
+#1419	AnnotatorNotes T1419	CHEBI:15525 (palmitoyl-CoA)
+T1420	CHEBI 26421 26430	palmitoyl
+#1420	AnnotatorNotes T1420	CHEBI:45021 (palmitoyl group)
+T1421	CHEBI 26431 26434	CoA
+#1421	AnnotatorNotes T1421	CHEBI:15346 (coenzyme A)
+T1422	sub 26437 26439	16
+#1422	AnnotatorNotes T1422	sub (null)
+T1423	EntrezGene 26527 26531	MCAD
+#1423	AnnotatorNotes T1423	EG:11364
+T1424	PR 26527 26531	MCAD
+#1424	AnnotatorNotes T1424	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1425	sup 26531 26534	+/+
+#1425	AnnotatorNotes T1425	sup (null)
+T1426	SO 26531 26532	+
+#1426	AnnotatorNotes T1426	SO:0000817 (wild_type)
+T1427	SO 26533 26534	+
+#1427	AnnotatorNotes T1427	SO:0000817 (wild_type)
+T1428	EntrezGene 26539 26543	MCAD
+#1428	AnnotatorNotes T1428	EG:11364
+T1429	PR 26539 26543	MCAD
+#1429	AnnotatorNotes T1429	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1430	sup 26543 26546	−/−
+#1430	AnnotatorNotes T1430	sup (null)
+T1431	NCBITaxon 26547 26551	mice
+#1431	AnnotatorNotes T1431	NCBITaxon:10088 (Mus)
+T1432	CHEBI 26617 26624	glucose
+#1432	AnnotatorNotes T1432	CHEBI:17234 (glucose)
+T1433	CHEBI 26631 26641	fatty acid
+#1433	AnnotatorNotes T1433	CHEBI:35366 (fatty acids)
+T1434	CHEBI 26651 26655	acid
+#1434	AnnotatorNotes T1434	CHEBI:37527 (acid)
+T1435	CHEBI 26661 26670	carnitine
+#1435	AnnotatorNotes T1435	CHEBI:17126 (carnitine)
+T1436	CHEBI 26703 26710	Glucose
+#1436	AnnotatorNotes T1436	CHEBI:17234 (glucose)
+T1437	CHEBI 26884 26895	fatty acids
+#1437	AnnotatorNotes T1437	CHEBI:35366 (fatty acids)
+T1438	SO 26923 26932	enzymatic
+#1438	AnnotatorNotes T1438	SO:0001185 (enzymatic)
+T1439	CHEBI 26964 26972	reagents
+#1439	AnnotatorNotes T1439	CHEBI:33893 (reagent)
+T1440	CHEBI 27187 27191	acid
+#1440	AnnotatorNotes T1440	CHEBI:37527 (acid)
+T1441	CHEBI 27299 27310	tetracosane
+#1441	AnnotatorNotes T1441	CHEBI:32936 (tetracosane)
+T1442	sub 27313 27315	24
+#1442	AnnotatorNotes T1442	sub (null)
+T1443	CHEBI 27495 27508	Acylcarnitine
+#1443	AnnotatorNotes T1443	CHEBI:17387 (O-acylcarnitines)
+T1444	NCBITaxon 27629 27633	mice
+#1444	AnnotatorNotes T1444	NCBITaxon:10088 (Mus)
+T1445	EntrezGene 27722 27726	MCAD
+#1445	AnnotatorNotes T1445	EG:11364
+T1446	PR 27722 27726	MCAD
+#1446	AnnotatorNotes T1446	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1447	sup 27726 27729	−/−
+#1447	AnnotatorNotes T1447	sup (null)
+T1448	NCBITaxon 27730 27735	mouse
+#1448	AnnotatorNotes T1448	NCBITaxon:10088 (Mus)
+T1449	EntrezGene 27771 27775	MCAD
+#1449	AnnotatorNotes T1449	EG:11364
+T1450	PR 27771 27775	MCAD
+#1450	AnnotatorNotes T1450	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1451	sup 27775 27778	+/+
+#1451	AnnotatorNotes T1451	sup (null)
+T1452	SO 27775 27776	+
+#1452	AnnotatorNotes T1452	SO:0000817 (wild_type)
+T1453	SO 27777 27778	+
+#1453	AnnotatorNotes T1453	SO:0000817 (wild_type)
+T1454	NCBITaxon 27779 27784	mouse
+#1454	AnnotatorNotes T1454	NCBITaxon:10088 (Mus)
+T1455	EntrezGene 27819 27823	MCAD
+#1455	AnnotatorNotes T1455	EG:11364
+T1456	PR 27819 27823	MCAD
+#1456	AnnotatorNotes T1456	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1457	sup 27823 27826	−/−
+#1457	AnnotatorNotes T1457	sup (null)
+T1458	NCBITaxon 27827 27831	mice
+#1458	AnnotatorNotes T1458	NCBITaxon:10088 (Mus)
+T1459	EntrezGene 27870 27874	MCAD
+#1459	AnnotatorNotes T1459	EG:11364
+T1460	PR 27870 27874	MCAD
+#1460	AnnotatorNotes T1460	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1461	sup 27874 27877	+/+
+#1461	AnnotatorNotes T1461	sup (null)
+T1462	SO 27874 27875	+
+#1462	AnnotatorNotes T1462	SO:0000817 (wild_type)
+T1463	SO 27876 27877	+
+#1463	AnnotatorNotes T1463	SO:0000817 (wild_type)
+T1464	NCBITaxon 27878 27882	mice
+#1464	AnnotatorNotes T1464	NCBITaxon:10088 (Mus)
+T1465	SO 28277 28285	genotype
+#1465	AnnotatorNotes T1465	SO:0001027 (genotype)
+T1466	NCBITaxon 28300 28304	mice
+#1466	AnnotatorNotes T1466	NCBITaxon:10088 (Mus)
+T1467	italic 28536 28537	t
+#1467	AnnotatorNotes T1467	italic (null)
+T1468	italic 28546 28547	p
+#1468	AnnotatorNotes T1468	italic (null)
+T1469	NCBITaxon 28697 28702	mouse
+#1469	AnnotatorNotes T1469	NCBITaxon:10088 (Mus)
+T1470	SO 28703 28707	gene
+#1470	AnnotatorNotes T1470	SO:0000704 (gene)
+T1471	italic 28708 28713	Acadm
+#1471	AnnotatorNotes T1471	italic (null)
+T1472	EntrezGene 28708 28713	Acadm
+#1472	AnnotatorNotes T1472	EG:11364
+T1473	PR 28708 28713	Acadm
+#1473	AnnotatorNotes T1473	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1474	SO 28899 28914	Oligonucleotide
+#1474	AnnotatorNotes T1474	SO:0000696 (oligo)
+T1475	SO 28919 28929	Transgenic
+#1475	AnnotatorNotes T1475	SO:0000902 (transgene)
+T1476	NCBITaxon 28930 28936	Animal
+#1476	AnnotatorNotes T1476	NCBITaxon:33208 (Metazoa)
+T1477	SO 29025 29029	Gene
+#1477	AnnotatorNotes T1477	SO:0000704 (gene)
+T1478	SO 29287 29289	bp
+#1478	AnnotatorNotes T1478	SO:0000028 (base_pair)
+T1479	SO 29292 29301	base pair
+#1479	AnnotatorNotes T1479	SO:0000028 (base_pair)
+T1480	SO 29292 29296	base
+#1480	AnnotatorNotes T1480	SO:0001236 (base)
+T1481	GO_CC 29324 29327	ETF
+#1481	AnnotatorNotes T1481	GO:0045251 (electron transfer flavoprotein complex)
+T1482	GO_CC 29330 29361	electron transport flavoprotein
+#1482	AnnotatorNotes T1482	GO:0045251 (electron transfer flavoprotein complex)
+T1483	GO_BP 29330 29348	electron transport
+#1483	AnnotatorNotes T1483	GO:0006118 (electron transport)
+T1484	CHEBI 29330 29338	electron
+#1484	AnnotatorNotes T1484	CHEBI:10545 (electron)
+T1485	CHEBI 29349 29361	flavoprotein
+#1485	AnnotatorNotes T1485	CHEBI:5086 (flavoproteins)
+T1486	EntrezGene 29363 29367	MCAD
+#1486	AnnotatorNotes T1486	EG:11364
+T1487	PR 29363 29367	MCAD
+#1487	AnnotatorNotes T1487	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1488	EntrezGene 29370 29405	medium-chain acyl-CoA dehydrogenase
+#1488	AnnotatorNotes T1488	EG:11364
+T1489	PR 29370 29405	medium-chain acyl-CoA dehydrogenase
+#1489	AnnotatorNotes T1489	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1490	GO_MF 29383 29405	acyl-CoA dehydrogenase
+#1490	AnnotatorNotes T1490	GO:0003995 (acyl-CoA dehydrogenase activity)
+T1491	independent_continuant 29383 29405	acyl-CoA dehydrogenase
+#1491	AnnotatorNotes T1491	independent_continuant
+T1492	CHEBI 29383 29391	acyl-CoA
+#1492	AnnotatorNotes T1492	CHEBI:17984 (acyl-CoAs)
+T1493	CHEBI 29383 29387	acyl
+#1493	AnnotatorNotes T1493	CHEBI:22221 (acyl groups)
+T1494	CHEBI 29388 29391	CoA
+#1494	AnnotatorNotes T1494	CHEBI:15346 (coenzyme A)
+T1495	GO_MF 29407 29411	SCAD
+#1495	AnnotatorNotes T1495	GO:0004085 (butyryl-CoA dehydrogenase activity)
+T1496	independent_continuant 29407 29411	SCAD
+#1496	AnnotatorNotes T1496	independent_continuant
+T1497	EntrezGene 29407 29411	SCAD
+#1497	AnnotatorNotes T1497	EG:11409
+T1498	PR 29407 29411	SCAD
+#1498	AnnotatorNotes T1498	PR:000003602 (short-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1499	GO_MF 29414 29448	short-chain acyl-CoA dehydrogenase
+#1499	AnnotatorNotes T1499	GO:0004085 (butyryl-CoA dehydrogenase activity)
+T1500	EntrezGene 29414 29448	short-chain acyl-CoA dehydrogenase
+#1500	AnnotatorNotes T1500	EG:11409
+T1501	independent_continuant 29414 29448	short-chain acyl-CoA dehydrogenase
+#1501	AnnotatorNotes T1501	independent_continuant
+T1502	PR 29414 29448	short-chain acyl-CoA dehydrogenase
+#1502	AnnotatorNotes T1502	PR:000003602 (short-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1503	CHEBI 29426 29434	acyl-CoA
+#1503	AnnotatorNotes T1503	CHEBI:17984 (acyl-CoAs)
+T1504	CHEBI 29426 29430	acyl
+#1504	AnnotatorNotes T1504	CHEBI:22221 (acyl groups)
+T1505	CHEBI 29431 29434	CoA
+#1505	AnnotatorNotes T1505	CHEBI:15346 (coenzyme A)
+T1506	GO_MF 29475 29480	VLCAD
+#1506	AnnotatorNotes T1506	GO:0017099 (very-long-chain-acyl-CoA dehydrogenase activity)
+T1507	independent_continuant 29475 29480	VLCAD
+#1507	AnnotatorNotes T1507	independent_continuant
+T1508	EntrezGene 29475 29480	VLCAD
+#1508	AnnotatorNotes T1508	EG:11370
+T1509	PR 29475 29480	VLCAD
+#1509	AnnotatorNotes T1509	PR:000003604 (very long-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1510	independent_continuant 29483 29521	very long-chain acyl-CoA dehydrogenase
+#1510	AnnotatorNotes T1510	independent_continuant
+T1511	EntrezGene 29483 29521	very long-chain acyl-CoA dehydrogenase
+#1511	AnnotatorNotes T1511	EG:11370
+T1512	GO_MF 29483 29521	very long-chain acyl-CoA dehydrogenase
+#1512	AnnotatorNotes T1512	GO:0017099 (very-long-chain-acyl-CoA dehydrogenase activity)
+T1513	PR 29483 29521	very long-chain acyl-CoA dehydrogenase
+#1513	AnnotatorNotes T1513	PR:000003604 (very long-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1514	CHEBI 29488 29507	long-chain acyl-CoA
+#1514	AnnotatorNotes T1514	CHEBI:33184 (long-chain acyl-CoAs)
+T1515	CHEBI 29499 29503	acyl
+#1515	AnnotatorNotes T1515	CHEBI:22221 (acyl groups)
+T1516	CHEBI 29504 29507	CoA
+#1516	AnnotatorNotes T1516	CHEBI:15346 (coenzyme A)
+T1517	bold 29534 29554	Competing interests.
+#1517	AnnotatorNotes T1517	bold (null)
+T1518	bold 29617 29638	Author contributions.
+#1518	AnnotatorNotes T1518	bold (null)
+T1519	CHEBI 29848 29856	reagents
+#1519	AnnotatorNotes T1519	CHEBI:33893 (reagent)
+T1520	EntrezGene 30011 30046	Medium-chain acyl-CoA dehydrogenase
+#1520	AnnotatorNotes T1520	EG:11364
+T1521	PR 30011 30046	Medium-chain acyl-CoA dehydrogenase
+#1521	AnnotatorNotes T1521	PR:000003601 (medium-chain specific acyl-CoA dehydrogenase, mitochondrial)
+T1522	GO_MF 30024 30046	acyl-CoA dehydrogenase
+#1522	AnnotatorNotes T1522	GO:0003995 (acyl-CoA dehydrogenase activity)
+T1523	independent_continuant 30024 30046	acyl-CoA dehydrogenase
+#1523	AnnotatorNotes T1523	independent_continuant
+T1524	CHEBI 30024 30032	acyl-CoA
+#1524	AnnotatorNotes T1524	CHEBI:17984 (acyl-CoAs)
+T1525	CHEBI 30024 30028	acyl
+#1525	AnnotatorNotes T1525	CHEBI:22221 (acyl groups)
+T1526	CHEBI 30029 30032	CoA
+#1526	AnnotatorNotes T1526	CHEBI:15346 (coenzyme A)
+T1527	SO 30061 30065	gene
+#1527	AnnotatorNotes T1527	SO:0000704 (gene)
+T1528	NCBITaxon 30075 30079	mice
+#1528	AnnotatorNotes T1528	NCBITaxon:10088 (Mus)

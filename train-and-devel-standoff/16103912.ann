@@ -1,0 +1,2094 @@
+T1	italic 0 4	Fog2
+#1	AnnotatorNotes T1	italic (null)
+T2	EntrezGene 0 4	Fog2
+#2	AnnotatorNotes T2	EG:22762
+T3	PR 0 4	Fog2
+#3	AnnotatorNotes T3	PR:000017653 (zinc finger protein ZFPM2)
+T4	GO_BP 42 58	Lung Development
+#4	AnnotatorNotes T4	GO:0030324 (lung development)
+T5	NCBITaxon 62 66	Mice
+#5	AnnotatorNotes T5	NCBITaxon:10088 (Mus)
+T6	NCBITaxon 71 77	Humans
+#6	AnnotatorNotes T6	NCBITaxon:9606 (Homo sapiens)
+T7	CHEBI 246 255	molecular
+#7	AnnotatorNotes T7	CHEBI:23367 (molecular entity)
+T8	GO_BP 271 284	developmental
+#8	AnnotatorNotes T8	GO:0032502 (developmental process)
+T9	NCBITaxon 352 356	mice
+#9	AnnotatorNotes T9	NCBITaxon:10088 (Mus)
+T10	CHEBI 370 391	N-ethyl-N-nitrosourea
+#10	AnnotatorNotes T10	CHEBI:23995 (ethyl nitrosourea)
+T11	CHEBI 370 371	N
+#11	AnnotatorNotes T11	CHEBI:25555 (nitrogen)
+T12	CHEBI 372 377	ethyl
+#12	AnnotatorNotes T12	CHEBI:37807 (ethyl group)
+T13	CHEBI 378 379	N
+#13	AnnotatorNotes T13	CHEBI:25555 (nitrogen)
+T14	SO 409 417	mutation
+#14	AnnotatorNotes T14	SO:0001059 (sequence_alteration)
+T15	GO_BP 478 489	development
+#15	AnnotatorNotes T15	GO:0032502 (developmental process)
+T16	italic 491 503	Fog2 (Zfpm2)
+#16	AnnotatorNotes T16	italic (null)
+T17	EntrezGene 491 495	Fog2
+#17	AnnotatorNotes T17	EG:22762
+T18	PR 491 495	Fog2
+#18	AnnotatorNotes T18	PR:000017653 (zinc finger protein ZFPM2)
+T19	EntrezGene 497 502	Zfpm2
+#19	AnnotatorNotes T19	EG:22762
+T20	PR 497 502	Zfpm2
+#20	AnnotatorNotes T20	PR:000017653 (zinc finger protein ZFPM2)
+T21	GO_BP 520 531	recombinant
+#21	AnnotatorNotes T21	GO:0006310 (DNA recombination)
+T22	SO 532 540	interval
+#22	AnnotatorNotes T22	SO:0000001 (region)
+T23	CHEBI 554 575	N-ethyl-N-nitrosourea
+#23	AnnotatorNotes T23	CHEBI:23995 (ethyl nitrosourea)
+T24	CHEBI 554 555	N
+#24	AnnotatorNotes T24	CHEBI:25555 (nitrogen)
+T25	CHEBI 556 561	ethyl
+#25	AnnotatorNotes T25	CHEBI:37807 (ethyl group)
+T26	CHEBI 562 563	N
+#26	AnnotatorNotes T26	CHEBI:25555 (nitrogen)
+T27	SO 584 592	mutation
+#27	AnnotatorNotes T27	SO:0001059 (sequence_alteration)
+T28	SO 598 601	DNA
+#28	AnnotatorNotes T28	SO:0000352 (DNA)
+T29	italic 616 620	Fog2
+#29	AnnotatorNotes T29	italic (null)
+T30	EntrezGene 616 620	Fog2
+#30	AnnotatorNotes T30	EG:22762
+T31	PR 616 620	Fog2
+#31	AnnotatorNotes T31	PR:000017653 (zinc finger protein ZFPM2)
+T32	SO 634 642	mutation
+#32	AnnotatorNotes T32	SO:0001059 (sequence_alteration)
+T33	SO 648 665	splice donor site
+#33	AnnotatorNotes T33	SO:0000163 (five_prime_cis_splice_site)
+T34	GO_BP 648 654	splice
+#34	AnnotatorNotes T34	GO:0008380 (RNA splicing)
+T35	GO_BP 671 680	generates
+#35	AnnotatorNotes T35	GO:0009058 (biosynthetic process)
+T36	SO 693 703	transcript
+#36	AnnotatorNotes T36	SO:0000673 (transcript)
+T37	CHEBI 725 732	protein
+#37	AnnotatorNotes T37	CHEBI:36080 (proteins)
+T38	NCBITaxon 734 739	Human
+#38	AnnotatorNotes T38	NCBITaxon:9606 (Homo sapiens)
+T39	SO 824 833	mutations
+#39	AnnotatorNotes T39	SO:0001059 (sequence_alteration)
+T40	italic 837 841	FOG2
+#40	AnnotatorNotes T40	italic (null)
+T41	PR 837 841	FOG2
+#41	AnnotatorNotes T41	PR:000017653 (zinc finger protein ZFPM2)
+T42	EntrezGene 837 841	FOG2
+#42	AnnotatorNotes T42	EG:23414
+T43	SO 843 851	Sequence
+#43	AnnotatorNotes T43	SO:0000001 (region)
+T44	SO 872 879	de novo
+#44	AnnotatorNotes T44	SO:0000782 (natural)
+T45	SO 880 888	mutation
+#45	AnnotatorNotes T45	SO:0001059 (sequence_alteration)
+T46	SO 914 924	stop codon
+#46	AnnotatorNotes T46	SO:0000319 (stop_codon)
+T47	GO_BP 914 918	stop
+#47	AnnotatorNotes T47	GO:0006353 (transcription termination)
+T48	GO_BP 914 918	stop
+#48	AnnotatorNotes T48	GO:0006415 (translational termination)
+T49	GO_BP 940 944	died
+#49	AnnotatorNotes T49	GO:0016265 (death)
+T50	GO_BP 1039 1051	muscularized
+#50	AnnotatorNotes T50	GO:0007517 (muscle development)
+T51	italic 1123 1127	Fog2
+#51	AnnotatorNotes T51	italic (null)
+T52	PR 1123 1127	Fog2
+#52	AnnotatorNotes T52	PR:000017653 (zinc finger protein ZFPM2)
+T53	EntrezGene 1123 1127	Fog2
+#53	AnnotatorNotes T53	EG:22762
+T54	GO_BP 1165 1181	lung development
+#54	AnnotatorNotes T54	GO:0030324 (lung development)
+T55	italic 1232 1236	FOG2
+#55	AnnotatorNotes T55	italic (null)
+T56	PR 1232 1236	FOG2
+#56	AnnotatorNotes T56	PR:000017653 (zinc finger protein ZFPM2)
+T57	EntrezGene 1232 1236	FOG2
+#57	AnnotatorNotes T57	EG:23414
+T58	SO 1250 1254	gene
+#58	AnnotatorNotes T58	SO:0000704 (gene)
+T59	NCBITaxon 1302 1307	human
+#59	AnnotatorNotes T59	NCBITaxon:9606 (Homo sapiens)
+T60	GO_BP 1364 1385	pulmonary development
+#60	AnnotatorNotes T60	GO:0030324 (lung development)
+T61	GO_BP 1484 1507	pulmonary developmental
+#61	AnnotatorNotes T61	GO:0030324 (lung development)
+T62	GO_BP 1536 1541	Birth
+#62	AnnotatorNotes T62	GO:0007567 (parturition)
+T63	SO 1606 1613	genetic
+#63	AnnotatorNotes T63	SO:0000704 (gene)
+T64	GO_BP 1717 1721	born
+#64	AnnotatorNotes T64	GO:0007567 (parturition)
+T65	GO_BP 1781 1784	die
+#65	AnnotatorNotes T65	GO:0016265 (death)
+T66	SO 1977 1984	genetic
+#66	AnnotatorNotes T66	SO:0000704 (gene)
+T67	GO_BP 2014 2042	development of both the lung
+#67	AnnotatorNotes T67	"development of .. lung" GO:0030324 (lung development)
+T68	NCBITaxon 2099 2103	mice
+#68	AnnotatorNotes T68	NCBITaxon:10088 (Mus)
+T69	CHEBI 2113 2123	chemically
+#69	AnnotatorNotes T69	CHEBI:23367 (molecular entity)
+T70	SO 2132 2139	genetic
+#70	AnnotatorNotes T70	SO:0000704 (gene)
+T71	SO 2140 2149	mutations
+#71	AnnotatorNotes T71	SO:0001059 (sequence_alteration)
+T72	SO 2176 2184	mutation
+#72	AnnotatorNotes T72	SO:0001059 (sequence_alteration)
+T73	SO 2192 2196	gene
+#73	AnnotatorNotes T73	SO:0000704 (gene)
+T74	italic 2197 2201	Fog2
+#74	AnnotatorNotes T74	italic (null)
+T75	PR 2197 2201	Fog2
+#75	AnnotatorNotes T75	PR:000017653 (zinc finger protein ZFPM2)
+T76	EntrezGene 2197 2201	Fog2
+#76	AnnotatorNotes T76	EG:22762
+T77	italic 2202 2221	(Friend of gata 2),
+#77	AnnotatorNotes T77	italic (null)
+T78	EntrezGene 2203 2219	Friend of gata 2
+#78	AnnotatorNotes T78	EG:22762
+T79	PR 2203 2219	Friend of gata 2
+#79	AnnotatorNotes T79	PR:000017653 (zinc finger protein ZFPM2)
+T80	GO_BP 2248 2259	development
+#80	AnnotatorNotes T80	GO:0032502 (developmental process)
+T81	GO_BP 2302 2315	developmental
+#81	AnnotatorNotes T81	GO:0032502 (developmental process)
+T82	NCBITaxon 2491 2496	human
+#82	AnnotatorNotes T82	NCBITaxon:9606 (Homo sapiens)
+T83	SO 2517 2525	mutation
+#83	AnnotatorNotes T83	SO:0001059 (sequence_alteration)
+T84	NCBITaxon 2533 2538	human
+#84	AnnotatorNotes T84	NCBITaxon:9606 (Homo sapiens)
+T85	SO 2539 2543	gene
+#85	AnnotatorNotes T85	SO:0000704 (gene)
+T86	italic 2544 2548	FOG2
+#86	AnnotatorNotes T86	italic (null)
+T87	EntrezGene 2544 2548	FOG2
+#87	AnnotatorNotes T87	EG:23414
+T88	PR 2544 2548	FOG2
+#88	AnnotatorNotes T88	PR:000017653 (zinc finger protein ZFPM2)
+T89	GO_BP 2553 2557	died
+#89	AnnotatorNotes T89	GO:0016265 (death)
+T90	italic 2692 2696	Fog2
+#90	AnnotatorNotes T90	italic (null)
+T91	PR 2692 2696	Fog2
+#91	AnnotatorNotes T91	PR:000017653 (zinc finger protein ZFPM2)
+T92	EntrezGene 2692 2696	Fog2
+#92	AnnotatorNotes T92	EG:22762
+T93	GO_BP 2733 2749	lung development
+#93	AnnotatorNotes T93	GO:0030324 (lung development)
+T94	NCBITaxon 2753 2757	mice
+#94	AnnotatorNotes T94	NCBITaxon:10088 (Mus)
+T95	NCBITaxon 2765 2771	humans
+#95	AnnotatorNotes T95	NCBITaxon:9606 (Homo sapiens)
+T96	GO_BP 2907 2920	developmental
+#96	AnnotatorNotes T96	GO:0032502 (developmental process)
+T97	GO_BP 3053 3058	birth
+#97	AnnotatorNotes T97	GO:0007567 (parturition)
+T98	GO_BP 3191 3197	births
+#98	AnnotatorNotes T98	GO:0007567 (parturition)
+T99	GO_BP 3285 3290	birth
+#99	AnnotatorNotes T99	GO:0007567 (parturition)
+T100	GO_BP 3332 3347	muscularization
+#100	AnnotatorNotes T100	GO:0007517 (muscle development)
+T101	GO_BP 3688 3701	developmental
+#101	AnnotatorNotes T101	GO:0032502 (developmental process)
+T102	GO_BP 4081 4087	deaths
+#102	AnnotatorNotes T102	GO:0016265 (death)
+T103	GO_BP 4097 4102	birth
+#103	AnnotatorNotes T103	GO:0007567 (parturition)
+T104	GO_BP 4221 4226	birth
+#104	AnnotatorNotes T104	GO:0007567 (parturition)
+T105	GO_BP 4328 4337	producing
+#105	AnnotatorNotes T105	GO:0032502 (developmental process)
+T106	GO_BP 4680 4689	cognitive
+#106	AnnotatorNotes T106	GO:0050890 (cognition)
+T107	GO_BP 4694 4704	neuromotor
+#107	AnnotatorNotes T107	GO:0050905 (neuromuscular process)
+T108	GO_BP 4719 4726	hearing
+#108	AnnotatorNotes T108	GO:0007605 (sensory perception of sound)
+T109	GO_BP 4824 4837	developmental
+#109	AnnotatorNotes T109	GO:0032502 (developmental process)
+T110	SO 4898 4907	mutations
+#110	AnnotatorNotes T110	SO:0001059 (sequence_alteration)
+T111	NCBITaxon 4999 5005	humans
+#111	AnnotatorNotes T111	NCBITaxon:9606 (Homo sapiens)
+T112	SO 5158 5165	genetic
+#112	AnnotatorNotes T112	SO:0000704 (gene)
+T113	SO 5236 5245	mutations
+#113	AnnotatorNotes T113	SO:0001059 (sequence_alteration)
+T114	CHEBI 5270 5279	molecular
+#114	AnnotatorNotes T114	CHEBI:23367 (molecular entity)
+T115	GO_BP 5280 5302	developmental pathways
+#115	AnnotatorNotes T115	GO:0032502 (developmental process)
+T116	GO_BP 5330 5341	development
+#116	AnnotatorNotes T116	GO:0032502 (developmental process)
+T117	GO_CC 5400 5411	chromosomal
+#117	AnnotatorNotes T117	GO:0005694 (chromosome)
+T118	SO 5400 5411	chromosomal
+#118	AnnotatorNotes T118	SO:0000340 (chromosome)
+T119	GO_BP 5495 5501	lethal
+#119	AnnotatorNotes T119	GO:0016265 (death)
+T120	GO_BP 5502 5515	developmental
+#120	AnnotatorNotes T120	GO:0032502 (developmental process)
+T121	NCBITaxon 5533 5539	humans
+#121	AnnotatorNotes T121	NCBITaxon:9606 (Homo sapiens)
+T122	GO_BP 5577 5584	develop
+#122	AnnotatorNotes T122	GO:0000003 (reproduction)
+T123	NCBITaxon 5585 5591	animal
+#123	AnnotatorNotes T123	NCBITaxon:33208 (Metazoa)
+T124	NCBITaxon 5602 5607	human
+#124	AnnotatorNotes T124	NCBITaxon:9606 (Homo sapiens)
+T125	GO_BP 5608 5613	birth
+#125	AnnotatorNotes T125	GO:0007567 (parturition)
+T126	SO 5639 5646	genetic
+#126	AnnotatorNotes T126	SO:0000704 (gene)
+T127	NCBITaxon 5670 5676	animal
+#127	AnnotatorNotes T127	NCBITaxon:33208 (Metazoa)
+T128	NCBITaxon 5712 5717	human
+#128	AnnotatorNotes T128	NCBITaxon:9606 (Homo sapiens)
+T129	NCBITaxon 5744 5748	mice
+#129	AnnotatorNotes T129	NCBITaxon:10088 (Mus)
+T130	CHEBI 5766 5782	chemical mutagen
+#130	AnnotatorNotes T130	CHEBI:25435 (mutagen)
+T131	CHEBI 5766 5774	chemical
+#131	AnnotatorNotes T131	CHEBI:36357 (polyatomic entities)
+T132	CHEBI 5783 5804	N-ethyl-N-nitrosourea
+#132	AnnotatorNotes T132	CHEBI:23995 (ethyl nitrosourea)
+T133	CHEBI 5783 5784	N
+#133	AnnotatorNotes T133	CHEBI:25555 (nitrogen)
+T134	CHEBI 5785 5790	ethyl
+#134	AnnotatorNotes T134	CHEBI:37807 (ethyl group)
+T135	CHEBI 5791 5792	N
+#135	AnnotatorNotes T135	CHEBI:25555 (nitrogen)
+T136	CHEBI 5806 5809	ENU
+#136	AnnotatorNotes T136	CHEBI:23995 (ethyl nitrosourea)
+T137	GO_BP 5826 5839	developmental
+#137	AnnotatorNotes T137	GO:0032502 (developmental process)
+T138	NCBITaxon 5933 5937	mice
+#138	AnnotatorNotes T138	NCBITaxon:10088 (Mus)
+T139	SO 5959 5967	mutation
+#139	AnnotatorNotes T139	SO:0001059 (sequence_alteration)
+T140	GO_BP 6044 6063	cardiac development
+#140	AnnotatorNotes T140	GO:0007507 (heart development)
+T141	SO 6065 6075	Positional
+#141	AnnotatorNotes T141	SO:0000001 (region)
+T142	italic 6104 6116	Fog2 (Zfpm2)
+#142	AnnotatorNotes T142	italic (null)
+T143	EntrezGene 6104 6108	Fog2
+#143	AnnotatorNotes T143	EG:22762
+T144	PR 6104 6108	Fog2
+#144	AnnotatorNotes T144	PR:000017653 (zinc finger protein ZFPM2)
+T145	EntrezGene 6110 6115	Zfpm2
+#145	AnnotatorNotes T145	EG:22762
+T146	PR 6110 6115	Zfpm2
+#146	AnnotatorNotes T146	PR:000017653 (zinc finger protein ZFPM2)
+T147	SO 6144 6147	DNA
+#147	AnnotatorNotes T147	SO:0000352 (DNA)
+T148	SO 6170 6178	mutation
+#148	AnnotatorNotes T148	SO:0001059 (sequence_alteration)
+T149	SO 6184 6201	splice donor site
+#149	AnnotatorNotes T149	SO:0000163 (five_prime_cis_splice_site)
+T150	GO_BP 6184 6190	splice
+#150	AnnotatorNotes T150	GO:0008380 (RNA splicing)
+T151	GO_BP 6207 6216	generates
+#151	AnnotatorNotes T151	GO:0009058 (biosynthetic process)
+T152	SO 6229 6239	transcript
+#152	AnnotatorNotes T152	SO:0000673 (transcript)
+T153	CHEBI 6261 6268	protein
+#153	AnnotatorNotes T153	CHEBI:36080 (proteins)
+T154	SO 6312 6323	orthologous
+#154	AnnotatorNotes T154	SO:0000858 (orthologous)
+T155	SO 6324 6328	gene
+#155	AnnotatorNotes T155	SO:0000704 (gene)
+T156	NCBITaxon 6332 6338	humans
+#156	AnnotatorNotes T156	NCBITaxon:9606 (Homo sapiens)
+T157	GO_BP 6352 6365	developmental
+#157	AnnotatorNotes T157	GO:0032502 (developmental process)
+T158	SO 6406 6413	de novo
+#158	AnnotatorNotes T158	SO:0000782 (natural)
+T159	SO 6423 6431	mutation
+#159	AnnotatorNotes T159	SO:0001059 (sequence_alteration)
+T160	italic 6435 6439	FOG2
+#160	AnnotatorNotes T160	italic (null)
+T161	EntrezGene 6435 6439	FOG2
+#161	AnnotatorNotes T161	EG:23414
+T162	PR 6435 6439	FOG2
+#162	AnnotatorNotes T162	PR:000017653 (zinc finger protein ZFPM2)
+T163	GO_BP 6457 6461	died
+#163	AnnotatorNotes T163	GO:0016265 (death)
+T164	GO_BP 6465 6470	birth
+#164	AnnotatorNotes T164	GO:0007567 (parturition)
+T165	SO 6559 6567	mutation
+#165	AnnotatorNotes T165	SO:0001059 (sequence_alteration)
+T166	NCBITaxon 6609 6614	human
+#166	AnnotatorNotes T166	NCBITaxon:9606 (Homo sapiens)
+T167	italic 6788 6799	little lung
+#167	AnnotatorNotes T167	italic (null)
+T168	SO 6800 6808	Mutation
+#168	AnnotatorNotes T168	SO:0001059 (sequence_alteration)
+T169	italic 6812 6816	Fog2
+#169	AnnotatorNotes T169	italic (null)
+T170	PR 6812 6816	Fog2
+#170	AnnotatorNotes T170	PR:000017653 (zinc finger protein ZFPM2)
+T171	EntrezGene 6812 6816	Fog2
+#171	AnnotatorNotes T171	EG:22762
+T172	CHEBI 6858 6861	ENU
+#172	AnnotatorNotes T172	CHEBI:23995 (ethyl nitrosourea)
+T173	NCBITaxon 6874 6878	mice
+#173	AnnotatorNotes T173	NCBITaxon:10088 (Mus)
+T174	GO_BP 6922 6935	developmental
+#174	AnnotatorNotes T174	GO:0032502 (developmental process)
+T175	NCBITaxon 6965 6969	mice
+#175	AnnotatorNotes T175	NCBITaxon:10088 (Mus)
+T176	SO 7090 7098	mutation
+#176	AnnotatorNotes T176	SO:0001059 (sequence_alteration)
+T177	italic 7116 7127	little lung
+#177	AnnotatorNotes T177	italic (null)
+T178	italic 7128 7134	(lil),
+#178	AnnotatorNotes T178	italic (null)
+T179	GO_CC 7149 7159	Chromosome
+#179	AnnotatorNotes T179	GO:0005694 (chromosome)
+T180	SO 7149 7159	Chromosome
+#180	AnnotatorNotes T180	SO:0000340 (chromosome)
+T181	SO 7190 7198	interval
+#181	AnnotatorNotes T181	SO:0000001 (region)
+T182	SO 7199 7208	haplotype
+#182	AnnotatorNotes T182	SO:0001024 (haplotype)
+T183	italic 7365 7369	lil/
+#183	AnnotatorNotes T183	italic (null)
+T184	NCBITaxon 7371 7375	mice
+#184	AnnotatorNotes T184	NCBITaxon:10088 (Mus)
+T185	SO 7381 7389	interval
+#185	AnnotatorNotes T185	SO:0000001 (region)
+T186	SO 7405 7413	mutation
+#186	AnnotatorNotes T186	SO:0001059 (sequence_alteration)
+T187	italic 7453 7462	D15Mit220
+#187	AnnotatorNotes T187	italic (null)
+T188	italic 7467 7476	D15Mit154
+#188	AnnotatorNotes T188	italic (null)
+T189	SO 7533 7541	interval
+#189	AnnotatorNotes T189	SO:0000001 (region)
+T190	italic 7664 7672	D15Mit85
+#190	AnnotatorNotes T190	italic (null)
+T191	italic 7693 7700	D15Mit5
+#191	AnnotatorNotes T191	italic (null)
+T192	italic 7738 7741	lil
+#192	AnnotatorNotes T192	italic (null)
+T193	SO 7883 7889	mutant
+#193	AnnotatorNotes T193	SO:0001059 (sequence_alteration)
+T194	NCBITaxon 7890 7894	mice
+#194	AnnotatorNotes T194	NCBITaxon:10088 (Mus)
+T195	GO_BP 7912 7917	birth
+#195	AnnotatorNotes T195	GO:0007567 (parturition)
+T196	SO 7943 7952	wild-type
+#196	AnnotatorNotes T196	SO:0000817 (wild_type)
+T197	SO 7957 7963	mutant
+#197	AnnotatorNotes T197	SO:0001059 (sequence_alteration)
+T198	NCBITaxon 7964 7968	mice
+#198	AnnotatorNotes T198	NCBITaxon:10088 (Mus)
+T199	GO_BP 7975 7979	dead
+#199	AnnotatorNotes T199	GO:0016265 (death)
+T200	SO 8091 8097	mutant
+#200	AnnotatorNotes T200	SO:0001059 (sequence_alteration)
+T201	NCBITaxon 8098 8102	mice
+#201	AnnotatorNotes T201	NCBITaxon:10088 (Mus)
+T202	SO 8116 8122	mutant
+#202	AnnotatorNotes T202	SO:0001059 (sequence_alteration)
+T203	SO 8170 8179	wild-type
+#203	AnnotatorNotes T203	SO:0000817 (wild_type)
+T204	italic 8211 8212	p
+#204	AnnotatorNotes T204	italic (null)
+T205	SO 8238 8244	mutant
+#205	AnnotatorNotes T205	SO:0001059 (sequence_alteration)
+T206	NCBITaxon 8245 8249	mice
+#206	AnnotatorNotes T206	NCBITaxon:10088 (Mus)
+T207	SO 8387 8393	mutant
+#207	AnnotatorNotes T207	SO:0001059 (sequence_alteration)
+T208	italic 8394 8397	lil
+#208	AnnotatorNotes T208	italic (null)
+T209	NCBITaxon 8398 8402	mice
+#209	AnnotatorNotes T209	NCBITaxon:10088 (Mus)
+T210	GO_BP 8420 8435	muscularization
+#210	AnnotatorNotes T210	GO:0007517 (muscle development)
+T211	GO_BP 8520 8532	distribution
+#211	AnnotatorNotes T211	GO:0051179 (localization)
+T212	SO 8718 8724	mutant
+#212	AnnotatorNotes T212	SO:0001059 (sequence_alteration)
+T213	italic 8885 8888	lil
+#213	AnnotatorNotes T213	italic (null)
+T214	SO 8889 8895	mutant
+#214	AnnotatorNotes T214	SO:0001059 (sequence_alteration)
+T215	NCBITaxon 8896 8900	mice
+#215	AnnotatorNotes T215	NCBITaxon:10088 (Mus)
+T216	GO_BP 8918 8923	birth
+#216	AnnotatorNotes T216	GO:0007567 (parturition)
+T217	SO 9004 9012	mutation
+#217	AnnotatorNotes T217	SO:0001059 (sequence_alteration)
+T218	GO_BP 9135 9141	demise
+#218	AnnotatorNotes T218	GO:0016265 (death)
+T219	GO_BP 9275 9281	demise
+#219	AnnotatorNotes T219	GO:0016265 (death)
+T220	GO_BP 9293 9299	growth
+#220	AnnotatorNotes T220	GO:0040007 (growth)
+T221	italic 9344 9347	lil
+#221	AnnotatorNotes T221	italic (null)
+T222	GO_BP 9391 9397	demise
+#222	AnnotatorNotes T222	GO:0016265 (death)
+T223	SO 9476 9484	mutation
+#223	AnnotatorNotes T223	SO:0001059 (sequence_alteration)
+T224	SO 9550 9556	mutant
+#224	AnnotatorNotes T224	SO:0001059 (sequence_alteration)
+T225	GO_BP 9569 9573	died
+#225	AnnotatorNotes T225	GO:0016265 (death)
+T226	SO 9609 9615	mutant
+#226	AnnotatorNotes T226	SO:0001059 (sequence_alteration)
+T227	SO 9636 9642	mutant
+#227	AnnotatorNotes T227	SO:0001059 (sequence_alteration)
+T228	GO_BP 9674 9678	died
+#228	AnnotatorNotes T228	GO:0016265 (death)
+T229	SO 9739 9747	mutation
+#229	AnnotatorNotes T229	SO:0001059 (sequence_alteration)
+T230	GO_BP 9800 9815	muscularization
+#230	AnnotatorNotes T230	GO:0007517 (muscle development)
+T231	SO 9836 9842	mutant
+#231	AnnotatorNotes T231	SO:0001059 (sequence_alteration)
+T232	NCBITaxon 9843 9847	mice
+#232	AnnotatorNotes T232	NCBITaxon:10088 (Mus)
+T233	italic 9858 9859	n
+#233	AnnotatorNotes T233	italic (null)
+T234	SO 9912 9919	mutants
+#234	AnnotatorNotes T234	SO:0001059 (sequence_alteration)
+T235	independent_continuant 9912 9919	mutants
+#235	AnnotatorNotes T235	independent_continuant
+T236	GO_BP 9967 9972	birth
+#236	AnnotatorNotes T236	GO:0007567 (parturition)
+T237	italic 9974 9975	n
+#237	AnnotatorNotes T237	italic (null)
+T238	italic 10048 10051	lil
+#238	AnnotatorNotes T238	italic (null)
+T239	SO 10052 10058	mutant
+#239	AnnotatorNotes T239	SO:0001059 (sequence_alteration)
+T240	NCBITaxon 10059 10063	mice
+#240	AnnotatorNotes T240	NCBITaxon:10088 (Mus)
+T241	GO_BP 10081 10094	developmental
+#241	AnnotatorNotes T241	GO:0032502 (developmental process)
+T242	GO_BP 10138 10147	developed
+#242	AnnotatorNotes T242	GO:0032502 (developmental process)
+T243	GO_BP 10273 10282	developed
+#243	AnnotatorNotes T243	GO:0032502 (developmental process)
+T244	SO 10366 10372	mutant
+#244	AnnotatorNotes T244	SO:0001059 (sequence_alteration)
+T245	NCBITaxon 10373 10377	mice
+#245	AnnotatorNotes T245	NCBITaxon:10088 (Mus)
+T246	GO_BP 10395 10400	birth
+#246	AnnotatorNotes T246	GO:0007567 (parturition)
+T247	SO 10576 10583	mutants
+#247	AnnotatorNotes T247	SO:0001059 (sequence_alteration)
+T248	independent_continuant 10576 10583	mutants
+#248	AnnotatorNotes T248	independent_continuant
+T249	italic 10632 10633	n
+#249	AnnotatorNotes T249	italic (null)
+T250	GO_BP 10653 10672	cardiac development
+#250	AnnotatorNotes T250	GO:0007507 (heart development)
+T251	SO 10699 10705	region
+#251	AnnotatorNotes T251	SO:0000001 (region)
+T252	italic 10714 10722	D15Mit85
+#252	AnnotatorNotes T252	italic (null)
+T253	italic 10727 10734	D15Mit5
+#253	AnnotatorNotes T253	italic (null)
+T254	SO 10738 10750	DNA sequence
+#254	AnnotatorNotes T254	SO:0000352 (DNA)
+T255	SO 10776 10791	predicted genes
+#255	AnnotatorNotes T255	SO:0000996 (predicted_gene)
+T256	SO 10776 10785	predicted
+#256	AnnotatorNotes T256	SO:0000732 (predicted)
+T257	SO 10801 10806	known
+#257	AnnotatorNotes T257	SO:0000906 (independently_known)
+T258	SO 10807 10812	genes
+#258	AnnotatorNotes T258	SO:0000704 (gene)
+T259	italic 10824 10828	Fog2
+#259	AnnotatorNotes T259	italic (null)
+T260	EntrezGene 10824 10828	Fog2
+#260	AnnotatorNotes T260	EG:22762
+T261	PR 10824 10828	Fog2
+#261	AnnotatorNotes T261	PR:000017653 (zinc finger protein ZFPM2)
+T262	SO 10839 10848	mutations
+#262	AnnotatorNotes T262	SO:0001059 (sequence_alteration)
+T263	SO 10839 10848	mutations
+#263	AnnotatorNotes T263	SO:0000041 (sequence_operation)
+T264	italic 10852 10856	Fog2
+#264	AnnotatorNotes T264	italic (null)
+T265	EntrezGene 10852 10856	Fog2
+#265	AnnotatorNotes T265	EG:22762
+T266	PR 10852 10856	Fog2
+#266	AnnotatorNotes T266	PR:000017653 (zinc finger protein ZFPM2)
+T267	italic 10923 10926	lil
+#267	AnnotatorNotes T267	italic (null)
+T268	SO 10927 10933	mutant
+#268	AnnotatorNotes T268	SO:0001059 (sequence_alteration)
+T269	NCBITaxon 10934 10938	mice
+#269	AnnotatorNotes T269	NCBITaxon:10088 (Mus)
+T270	GO_MF 11040 11042	RT
+#270	AnnotatorNotes T270	GO:0003964 (RNA-directed DNA polymerase activity)
+T271	GO_BP 11040 11042	RT
+#271	AnnotatorNotes T271	GO:0006410 (transcription, RNA-dependent)
+T272	independent_continuant 11040 11042	RT
+#272	AnnotatorNotes T272	independent_continuant
+T273	SO 11077 11084	portion
+#273	AnnotatorNotes T273	SO:0000001 (region)
+T274	italic 11088 11092	Fog2
+#274	AnnotatorNotes T274	italic (null)
+T275	PR 11088 11092	Fog2
+#275	AnnotatorNotes T275	PR:000017653 (zinc finger protein ZFPM2)
+T276	EntrezGene 11088 11092	Fog2
+#276	AnnotatorNotes T276	EG:22762
+T277	SO 11109 11120	transcripts
+#277	AnnotatorNotes T277	SO:0000673 (transcript)
+T278	italic 11128 11131	lil
+#278	AnnotatorNotes T278	italic (null)
+T279	SO 11132 11138	mutant
+#279	AnnotatorNotes T279	SO:0001059 (sequence_alteration)
+T280	independent_continuant 11132 11138	mutant
+#280	AnnotatorNotes T280	independent_continuant
+T281	SO 11151 11160	wild-type
+#281	AnnotatorNotes T281	SO:0000817 (wild_type)
+T282	SO 11200 11206	mutant
+#282	AnnotatorNotes T282	SO:0001059 (sequence_alteration)
+T283	SO 11207 11217	transcript
+#283	AnnotatorNotes T283	SO:0000673 (transcript)
+T284	SO 11229 11269	point mutation (from thymine to cytosine
+#284	AnnotatorNotes T284	"point mutation .. from thymine to cytosine" SO:1000013 (T_to_C_transition)
+T285	CHEBI 11250 11257	thymine
+#285	AnnotatorNotes T285	CHEBI:30757 (thymin-1-yl group)
+T286	CHEBI 11261 11269	cytosine
+#286	AnnotatorNotes T286	CHEBI:30758 (cytosin-1-yl group)
+T287	SO 11273 11275	bp
+#287	AnnotatorNotes T287	SO:0000028 (base_pair)
+T288	SO 11282 11290	position
+#288	AnnotatorNotes T288	SO:0000001 (region)
+T289	SO 11312 11329	splice donor site
+#289	AnnotatorNotes T289	SO:0000163 (five_prime_cis_splice_site)
+T290	GO_BP 11312 11318	splice
+#290	AnnotatorNotes T290	GO:0008380 (RNA splicing)
+T291	SO 11354 11358	exon
+#291	AnnotatorNotes T291	SO:0000147 (exon)
+T292	SO 11365 11373	mutation
+#292	AnnotatorNotes T292	SO:0001059 (sequence_alteration)
+T293	GO_BP 11383 11391	splicing
+#293	AnnotatorNotes T293	GO:0008380 (RNA splicing)
+T294	SO 11419 11428	insertion
+#294	AnnotatorNotes T294	SO:0000046 (insert)
+T295	SO 11435 11437	bp
+#295	AnnotatorNotes T295	SO:0000028 (base_pair)
+T296	SO 11441 11458	intronic sequence
+#296	AnnotatorNotes T296	SO:0000188 (intron)
+T297	SO 11468 11474	mutant
+#297	AnnotatorNotes T297	SO:0001059 (sequence_alteration)
+T298	SO 11475 11485	transcript
+#298	AnnotatorNotes T298	SO:0000673 (transcript)
+T299	SO 11504 11514	stop codon
+#299	AnnotatorNotes T299	SO:0000319 (stop_codon)
+T300	GO_BP 11504 11508	stop
+#300	AnnotatorNotes T300	GO:0006353 (transcription termination)
+T301	GO_BP 11504 11508	stop
+#301	AnnotatorNotes T301	GO:0006415 (translational termination)
+T302	GO_BP 11520 11529	generates
+#302	AnnotatorNotes T302	GO:0009058 (biosynthetic process)
+T303	CHEBI 11551 11566	protein product
+#303	AnnotatorNotes T303	CHEBI:36080 (proteins)
+T304	italic 11593 11596	lil
+#304	AnnotatorNotes T304	italic (null)
+T305	SO 11597 11603	mutant
+#305	AnnotatorNotes T305	SO:0001059 (sequence_alteration)
+T306	NCBITaxon 11604 11608	mice
+#306	AnnotatorNotes T306	NCBITaxon:10088 (Mus)
+T307	italic 11629 11633	Fog2
+#307	AnnotatorNotes T307	italic (null)
+T308	EntrezGene 11629 11633	Fog2
+#308	AnnotatorNotes T308	EG:22762
+T309	PR 11629 11633	Fog2
+#309	AnnotatorNotes T309	PR:000017653 (zinc finger protein ZFPM2)
+T310	sup 11633 11636	+/−
+#310	AnnotatorNotes T310	sup (null)
+T311	SO 11643 11649	allele
+#311	AnnotatorNotes T311	SO:0001023 (allele)
+T312	SO 11651 11657	mutant
+#312	AnnotatorNotes T312	SO:0001059 (sequence_alteration)
+T313	independent_continuant 11651 11657	mutant
+#313	AnnotatorNotes T313	independent_continuant
+T314	GO_BP 11658 11667	generated
+#314	AnnotatorNotes T314	GO:0000003 (reproduction)
+T315	SO 11671 11675	gene
+#315	AnnotatorNotes T315	SO:0000704 (gene)
+T316	NCBITaxon 11712 11716	mice
+#316	AnnotatorNotes T316	NCBITaxon:10088 (Mus)
+T317	GO_BP 11734 11740	lethal
+#317	AnnotatorNotes T317	GO:0016265 (death)
+T318	italic 11791 11794	lil
+#318	AnnotatorNotes T318	italic (null)
+T319	SO 11800 11808	mutation
+#319	AnnotatorNotes T319	SO:0001059 (sequence_alteration)
+T320	italic 11812 11816	Fog2
+#320	AnnotatorNotes T320	italic (null)
+T321	EntrezGene 11812 11816	Fog2
+#321	AnnotatorNotes T321	EG:22762
+T322	PR 11812 11816	Fog2
+#322	AnnotatorNotes T322	PR:000017653 (zinc finger protein ZFPM2)
+T323	italic 11844 11847	lil
+#323	AnnotatorNotes T323	italic (null)
+T324	NCBITaxon 11848 11852	mice
+#324	AnnotatorNotes T324	NCBITaxon:10088 (Mus)
+T325	italic 11885 11889	Fog2
+#325	AnnotatorNotes T325	italic (null)
+T326	EntrezGene 11885 11889	Fog2
+#326	AnnotatorNotes T326	EG:22762
+T327	PR 11885 11889	Fog2
+#327	AnnotatorNotes T327	PR:000017653 (zinc finger protein ZFPM2)
+T328	SO 11895 11901	mutant
+#328	AnnotatorNotes T328	SO:0001059 (sequence_alteration)
+T329	independent_continuant 11895 11901	mutant
+#329	AnnotatorNotes T329	independent_continuant
+T330	GO_BP 11924 11934	generation
+#330	AnnotatorNotes T330	GO:0009058 (biosynthetic process)
+T331	SO 11960 11970	transcript
+#331	AnnotatorNotes T331	SO:0000673 (transcript)
+T332	SO 11999 12010	splice site
+#332	AnnotatorNotes T332	SO:0000162 (splice_site)
+T333	GO_BP 11999 12005	splice
+#333	AnnotatorNotes T333	GO:0008380 (RNA splicing)
+T334	SO 12011 12019	mutation
+#334	AnnotatorNotes T334	SO:0001059 (sequence_alteration)
+T335	GO_BP 12022 12052	Lung and Diaphragm Development
+#335	AnnotatorNotes T335	"Lung .. Development" GO:0030324 (lung development)
+T336	italic 12060 12064	Fog2
+#336	AnnotatorNotes T336	italic (null)
+T337	EntrezGene 12060 12064	Fog2
+#337	AnnotatorNotes T337	EG:22762
+T338	PR 12060 12064	Fog2
+#338	AnnotatorNotes T338	PR:000017653 (zinc finger protein ZFPM2)
+T339	SO 12065 12071	Mutant
+#339	AnnotatorNotes T339	SO:0001059 (sequence_alteration)
+T340	NCBITaxon 12072 12077	Mouse
+#340	AnnotatorNotes T340	NCBITaxon:10088 (Mus)
+T341	italic 12130 12134	Fog2
+#341	AnnotatorNotes T341	italic (null)
+T342	EntrezGene 12130 12134	Fog2
+#342	AnnotatorNotes T342	EG:22762
+T343	PR 12130 12134	Fog2
+#343	AnnotatorNotes T343	PR:000017653 (zinc finger protein ZFPM2)
+T344	GO_BP 12138 12177	pulmonary and diaphragmatic development
+#344	AnnotatorNotes T344	"pulmonary .. development" GO:0030324 (lung development)
+T345	GO_BP 12389 12400	development
+#345	AnnotatorNotes T345	GO:0032502 (developmental process)
+T346	italic 12553 12557	Fog2
+#346	AnnotatorNotes T346	italic (null)
+T347	PR 12553 12557	Fog2
+#347	AnnotatorNotes T347	PR:000017653 (zinc finger protein ZFPM2)
+T348	EntrezGene 12553 12557	Fog2
+#348	AnnotatorNotes T348	EG:22762
+T349	GO_BP 12561 12570	expressed
+#349	AnnotatorNotes T349	GO:0010467 (gene expression)
+T350	GO_BP 12630 12653	branching morphogenesis
+#350	AnnotatorNotes T350	GO:0001763 (morphogenesis of a branching structure)
+T351	GO_BP 12667 12677	expression
+#351	AnnotatorNotes T351	GO:0010467 (gene expression)
+T352	GO_BP 12867 12882	muscularization
+#352	AnnotatorNotes T352	GO:0007517 (muscle development)
+T353	italic 13036 13040	Fog2
+#353	AnnotatorNotes T353	italic (null)
+T354	PR 13036 13040	Fog2
+#354	AnnotatorNotes T354	PR:000017653 (zinc finger protein ZFPM2)
+T355	EntrezGene 13036 13040	Fog2
+#355	AnnotatorNotes T355	EG:22762
+T356	sup 13040 13043	−/−
+#356	AnnotatorNotes T356	sup (null)
+T357	NCBITaxon 13044 13048	mice
+#357	AnnotatorNotes T357	NCBITaxon:10088 (Mus)
+T358	GO_BP 13113 13119	motion
+#358	AnnotatorNotes T358	GO:0050879 (multicellular organismal movement)
+T359	italic 13121 13125	Fog2
+#359	AnnotatorNotes T359	italic (null)
+T360	PR 13121 13125	Fog2
+#360	AnnotatorNotes T360	PR:000017653 (zinc finger protein ZFPM2)
+T361	EntrezGene 13121 13125	Fog2
+#361	AnnotatorNotes T361	EG:22762
+T362	sup 13125 13128	−/−
+#362	AnnotatorNotes T362	sup (null)
+T363	NCBITaxon 13129 13133	mice
+#363	AnnotatorNotes T363	NCBITaxon:10088 (Mus)
+T364	italic 13226 13229	lil
+#364	AnnotatorNotes T364	italic (null)
+T365	SO 13242 13250	mutation
+#365	AnnotatorNotes T365	SO:0001059 (sequence_alteration)
+T366	italic 13280 13284	Fog2
+#366	AnnotatorNotes T366	italic (null)
+T367	PR 13280 13284	Fog2
+#367	AnnotatorNotes T367	PR:000017653 (zinc finger protein ZFPM2)
+T368	EntrezGene 13280 13284	Fog2
+#368	AnnotatorNotes T368	EG:22762
+T369	sup 13284 13287	−/−
+#369	AnnotatorNotes T369	sup (null)
+T370	GO_BP 13332 13343	development
+#370	AnnotatorNotes T370	GO:0032502 (developmental process)
+T371	italic 13379 13384	Fog2−
+#371	AnnotatorNotes T371	italic (null)
+T372	EntrezGene 13379 13383	Fog2
+#372	AnnotatorNotes T372	EG:22762
+T373	PR 13379 13383	Fog2
+#373	AnnotatorNotes T373	PR:000017653 (zinc finger protein ZFPM2)
+T374	sup 13383 13384	−
+#374	AnnotatorNotes T374	sup (null)
+T375	sup 13384 13386	/−
+#375	AnnotatorNotes T375	sup (null)
+T376	GO_BP 13426 13437	development
+#376	AnnotatorNotes T376	GO:0032502 (developmental process)
+T377	SO 13479 13485	mutant
+#377	AnnotatorNotes T377	SO:0001059 (sequence_alteration)
+T378	italic 13636 13640	Fog2
+#378	AnnotatorNotes T378	italic (null)
+T379	PR 13636 13640	Fog2
+#379	AnnotatorNotes T379	PR:000017653 (zinc finger protein ZFPM2)
+T380	EntrezGene 13636 13640	Fog2
+#380	AnnotatorNotes T380	EG:22762
+T381	SO 13641 13647	mutant
+#381	AnnotatorNotes T381	SO:0001059 (sequence_alteration)
+T382	NCBITaxon 13648 13652	mice
+#382	AnnotatorNotes T382	NCBITaxon:10088 (Mus)
+T383	GO_BP 13675 13684	Branching
+#383	AnnotatorNotes T383	GO:0001763 (morphogenesis of a branching structure)
+T384	SO 13751 13758	mutants
+#384	AnnotatorNotes T384	SO:0001059 (sequence_alteration)
+T385	independent_continuant 13751 13758	mutants
+#385	AnnotatorNotes T385	independent_continuant
+T386	GO_BP 13759 13768	developed
+#386	AnnotatorNotes T386	GO:0000003 (reproduction)
+T387	GO_BP 13782 13791	branching
+#387	AnnotatorNotes T387	GO:0001763 (morphogenesis of a branching structure)
+T388	italic 13860 13864	Fog2
+#388	AnnotatorNotes T388	italic (null)
+T389	PR 13860 13864	Fog2
+#389	AnnotatorNotes T389	PR:000017653 (zinc finger protein ZFPM2)
+T390	EntrezGene 13860 13864	Fog2
+#390	AnnotatorNotes T390	EG:22762
+T391	italic 13935 13939	Fog2
+#391	AnnotatorNotes T391	italic (null)
+T392	PR 13935 13939	Fog2
+#392	AnnotatorNotes T392	PR:000017653 (zinc finger protein ZFPM2)
+T393	EntrezGene 13935 13939	Fog2
+#393	AnnotatorNotes T393	EG:22762
+T394	GO_BP 13940 13950	expression
+#394	AnnotatorNotes T394	GO:0010467 (gene expression)
+T395	GO_BP 14016 14029	establishment
+#395	AnnotatorNotes T395	GO:0032502 (developmental process)
+T396	italic 14051 14055	Fog2
+#396	AnnotatorNotes T396	italic (null)
+T397	PR 14051 14055	Fog2
+#397	AnnotatorNotes T397	PR:000017653 (zinc finger protein ZFPM2)
+T398	EntrezGene 14051 14055	Fog2
+#398	AnnotatorNotes T398	EG:22762
+T399	GO_BP 14056 14066	expression
+#399	AnnotatorNotes T399	GO:0010467 (gene expression)
+T400	GO_BP 14114 14124	Expression
+#400	AnnotatorNotes T400	GO:0010467 (gene expression)
+T401	NCBITaxon 14142 14146	mice
+#401	AnnotatorNotes T401	NCBITaxon:10088 (Mus)
+T402	italic 14158 14162	lacZ
+#402	AnnotatorNotes T402	italic (null)
+T403	SO 14163 14167	gene
+#403	AnnotatorNotes T403	SO:0000704 (gene)
+T404	SO 14168 14180	incorporated
+#404	AnnotatorNotes T404	SO:0000046 (insert)
+T405	italic 14190 14194	Fog2
+#405	AnnotatorNotes T405	italic (null)
+T406	PR 14190 14194	Fog2
+#406	AnnotatorNotes T406	PR:000017653 (zinc finger protein ZFPM2)
+T407	EntrezGene 14190 14194	Fog2
+#407	AnnotatorNotes T407	EG:22762
+T408	SO 14195 14200	locus
+#408	AnnotatorNotes T408	SO:0000001 (region)
+T409	NCBITaxon 14242 14246	mice
+#409	AnnotatorNotes T409	NCBITaxon:10088 (Mus)
+T410	GO_BP 14294 14305	enhancement
+#410	AnnotatorNotes T410	GO:0048518 (positive regulation of biological process)
+T411	italic 14309 14313	Fog2
+#411	AnnotatorNotes T411	italic (null)
+T412	PR 14309 14313	Fog2
+#412	AnnotatorNotes T412	PR:000017653 (zinc finger protein ZFPM2)
+T413	EntrezGene 14309 14313	Fog2
+#413	AnnotatorNotes T413	EG:22762
+T414	GO_BP 14314 14324	expression
+#414	AnnotatorNotes T414	GO:0010467 (gene expression)
+T415	GO_BP 14436 14443	develop
+#415	AnnotatorNotes T415	GO:0032502 (developmental process)
+T416	italic 14456 14460	Fog2
+#416	AnnotatorNotes T416	italic (null)
+T417	PR 14456 14460	Fog2
+#417	AnnotatorNotes T417	PR:000017653 (zinc finger protein ZFPM2)
+T418	EntrezGene 14456 14460	Fog2
+#418	AnnotatorNotes T418	EG:22762
+T419	SO 14461 14467	mutant
+#419	AnnotatorNotes T419	SO:0001059 (sequence_alteration)
+T420	NCBITaxon 14468 14472	mice
+#420	AnnotatorNotes T420	NCBITaxon:10088 (Mus)
+T421	GO_BP 14495 14505	expression
+#421	AnnotatorNotes T421	GO:0010467 (gene expression)
+T422	GO_MF 14583 14596	hybridization
+#422	AnnotatorNotes T422	GO:0000739 (DNA strand annealing activity)
+T423	GO_MF 14583 14596	hybridization
+#423	AnnotatorNotes T423	GO:0033592 (RNA strand annealing activity)
+T424	italic 14634 14642	Fog2 lil
+#424	AnnotatorNotes T424	italic (null)
+T425	EntrezGene 14634 14638	Fog2
+#425	AnnotatorNotes T425	EG:22762
+T426	PR 14634 14638	Fog2
+#426	AnnotatorNotes T426	PR:000017653 (zinc finger protein ZFPM2)
+T427	NCBITaxon 14643 14647	mice
+#427	AnnotatorNotes T427	NCBITaxon:10088 (Mus)
+T428	GO_BP 14698 14708	patterning
+#428	AnnotatorNotes T428	GO:0007389 (pattern specification process)
+T429	GO_BP 14784 14793	migratory
+#429	AnnotatorNotes T429	GO:0016477 (cell migration)
+T430	CL 14808 14830	muscle precursor cells
+#430	AnnotatorNotes T430	CL:0000680 (muscle precursor cell)
+T431	GO_CC 14825 14830	cells
+#431	AnnotatorNotes T431	GO:0005623 (cell)
+T432	NCBITaxon 14861 14865	Mice
+#432	AnnotatorNotes T432	NCBITaxon:10088 (Mus)
+T433	SO 14882 14887	genes
+#433	AnnotatorNotes T433	SO:0000704 (gene)
+T434	GO_BP 14918 14925	control
+#434	AnnotatorNotes T434	GO:0065007 (biological regulation)
+T435	italic 14991 15030	Hepatocyte growth factor/Scatter factor
+#435	AnnotatorNotes T435	italic (null)
+T436	EntrezGene 14991 15015	Hepatocyte growth factor
+#436	AnnotatorNotes T436	EG:15234
+T437	PR 14991 15015	Hepatocyte growth factor
+#437	AnnotatorNotes T437	PR:000008534 (hepatocyte growth factor)
+T438	CL 14991 15001	Hepatocyte
+#438	AnnotatorNotes T438	CL:0000182 (hepatocyte)
+T439	GO_MF 15002 15015	growth factor
+#439	AnnotatorNotes T439	GO:0008083 (growth factor activity)
+T440	independent_continuant 15002 15015	growth factor
+#440	AnnotatorNotes T440	independent_continuant
+T441	GO_BP 15002 15008	growth
+#441	AnnotatorNotes T441	GO:0040007 (growth)
+T442	EntrezGene 15016 15030	Scatter factor
+#442	AnnotatorNotes T442	EG:15234
+T443	PR 15016 15030	Scatter factor
+#443	AnnotatorNotes T443	PR:000008534 (hepatocyte growth factor)
+T444	italic 15031 15036	(HGF)
+#444	AnnotatorNotes T444	italic (null)
+T445	EntrezGene 15032 15035	HGF
+#445	AnnotatorNotes T445	EG:15234
+T446	PR 15032 15035	HGF
+#446	AnnotatorNotes T446	PR:000008534 (hepatocyte growth factor)
+T447	CL 15096 15113	muscle precursors
+#447	AnnotatorNotes T447	CL:0000680 (muscle precursor cell)
+T448	italic 15166 15169	HGF
+#448	AnnotatorNotes T448	italic (null)
+T449	PR 15166 15169	HGF
+#449	AnnotatorNotes T449	PR:000008534 (hepatocyte growth factor)
+T450	GO_BP 15173 15182	expressed
+#450	AnnotatorNotes T450	GO:0010467 (gene expression)
+T451	NCBITaxon 15221 15225	mice
+#451	AnnotatorNotes T451	NCBITaxon:10088 (Mus)
+T452	GO_MF 15246 15258	HGF receptor
+#452	AnnotatorNotes T452	GO:0005008 (hepatocyte growth factor receptor activity)
+T453	PR 15246 15258	HGF receptor
+#453	AnnotatorNotes T453	PR:000010335 (hepatocyte growth factor receptor)
+T454	independent_continuant 15246 15258	HGF receptor
+#454	AnnotatorNotes T454	independent_continuant
+T455	italic 15246 15249	HGF
+#455	AnnotatorNotes T455	italic (null)
+T456	PR 15246 15249	HGF
+#456	AnnotatorNotes T456	PR:000008534 (hepatocyte growth factor)
+T457	EntrezGene 15246 15249	HGF
+#457	AnnotatorNotes T457	EG:15234
+T458	italic 15259 15264	c-Met
+#458	AnnotatorNotes T458	italic (null)
+T459	PR 15259 15264	c-Met
+#459	AnnotatorNotes T459	PR:000010335 (hepatocyte growth factor receptor)
+T460	EntrezGene 15259 15264	c-Met
+#460	AnnotatorNotes T460	EG:17295
+T461	GO_BP 15273 15277	form
+#461	AnnotatorNotes T461	GO:0032502 (developmental process)
+T462	GO_BP 15278 15290	muscularized
+#462	AnnotatorNotes T462	GO:0007517 (muscle development)
+T463	italic 15366 15370	Fog2
+#463	AnnotatorNotes T463	italic (null)
+T464	EntrezGene 15366 15370	Fog2
+#464	AnnotatorNotes T464	EG:22762
+T465	PR 15366 15370	Fog2
+#465	AnnotatorNotes T465	PR:000017653 (zinc finger protein ZFPM2)
+T466	GO_BP 15374 15383	expressed
+#466	AnnotatorNotes T466	GO:0010467 (gene expression)
+T467	GO_BP 15460 15472	muscularized
+#467	AnnotatorNotes T467	GO:0007517 (muscle development)
+T468	italic 15507 15511	Pax3
+#468	AnnotatorNotes T468	italic (null)
+T469	EntrezGene 15507 15511	Pax3
+#469	AnnotatorNotes T469	EG:18505
+T470	PR 15507 15511	Pax3
+#470	AnnotatorNotes T470	PR:000012316 (paired box protein Pax-3)
+T471	italic 15516 15521	MyoD,
+#471	AnnotatorNotes T471	italic (null)
+T472	EntrezGene 15516 15520	MyoD
+#472	AnnotatorNotes T472	EG:17927
+T473	PR 15516 15520	MyoD
+#473	AnnotatorNotes T473	PR:000010875 (myoblast determination protein 1)
+T474	GO_MF 15522 15543	transcription factors
+#474	AnnotatorNotes T474	GO:0003700 (transcription factor activity)
+T475	independent_continuant 15522 15543	transcription factors
+#475	AnnotatorNotes T475	independent_continuant
+T476	GO_BP 15522 15535	transcription
+#476	AnnotatorNotes T476	GO:0006350 (transcription)
+T477	GO_BP 15569 15578	migration
+#477	AnnotatorNotes T477	GO:0016477 (cell migration)
+T478	GO_BP 15583 15619	determination of myogenic precursors
+#478	AnnotatorNotes T478	GO:0007521 (muscle cell fate determination)
+T479	CL 15600 15619	myogenic precursors
+#479	AnnotatorNotes T479	CL:0000680 (muscle precursor cell)
+T480	GO_BP 15600 15608	myogenic
+#480	AnnotatorNotes T480	GO:0007517 (muscle development)
+T481	italic 15650 15658	Fog2 lil
+#481	AnnotatorNotes T481	italic (null)
+T482	EntrezGene 15650 15654	Fog2
+#482	AnnotatorNotes T482	EG:22762
+T483	PR 15650 15654	Fog2
+#483	AnnotatorNotes T483	PR:000017653 (zinc finger protein ZFPM2)
+T484	NCBITaxon 15659 15663	mice
+#484	AnnotatorNotes T484	NCBITaxon:10088 (Mus)
+T485	GO_BP 15699 15709	expression
+#485	AnnotatorNotes T485	GO:0010467 (gene expression)
+T486	GO_BP 15741 15751	expression
+#486	AnnotatorNotes T486	GO:0010467 (gene expression)
+T487	italic 15755 15758	HGF
+#487	AnnotatorNotes T487	italic (null)
+T488	EntrezGene 15755 15758	HGF
+#488	AnnotatorNotes T488	EG:15234
+T489	PR 15755 15758	HGF
+#489	AnnotatorNotes T489	PR:000008534 (hepatocyte growth factor)
+T490	italic 15849 15853	Fog2
+#490	AnnotatorNotes T490	italic (null)
+T491	EntrezGene 15849 15853	Fog2
+#491	AnnotatorNotes T491	EG:22762
+T492	PR 15849 15853	Fog2
+#492	AnnotatorNotes T492	PR:000017653 (zinc finger protein ZFPM2)
+T493	SO 15854 15860	mutant
+#493	AnnotatorNotes T493	SO:0001059 (sequence_alteration)
+T494	NCBITaxon 15861 15865	mice
+#494	AnnotatorNotes T494	NCBITaxon:10088 (Mus)
+T495	italic 15898 15902	Fog2
+#495	AnnotatorNotes T495	italic (null)
+T496	PR 15898 15902	Fog2
+#496	AnnotatorNotes T496	PR:000017653 (zinc finger protein ZFPM2)
+T497	EntrezGene 15898 15902	Fog2
+#497	AnnotatorNotes T497	EG:22762
+T498	italic 15968 15971	HGF
+#498	AnnotatorNotes T498	italic (null)
+T499	EntrezGene 15968 15971	HGF
+#499	AnnotatorNotes T499	EG:15234
+T500	PR 15968 15971	HGF
+#500	AnnotatorNotes T500	PR:000008534 (hepatocyte growth factor)
+T501	GO_BP 15979 15989	developing
+#501	AnnotatorNotes T501	GO:0032502 (developmental process)
+T502	italic 16022 16025	HGF
+#502	AnnotatorNotes T502	italic (null)
+T503	EntrezGene 16022 16025	HGF
+#503	AnnotatorNotes T503	EG:15234
+T504	PR 16022 16025	HGF
+#504	AnnotatorNotes T504	PR:000008534 (hepatocyte growth factor)
+T505	CL 16055 16076	muscle precursor cell
+#505	AnnotatorNotes T505	CL:0000680 (muscle precursor cell)
+T506	GO_BP 16072 16086	cell migration
+#506	AnnotatorNotes T506	GO:0016477 (cell migration)
+T507	GO_CC 16072 16076	cell
+#507	AnnotatorNotes T507	GO:0005623 (cell)
+T508	NCBITaxon 16166 16170	mice
+#508	AnnotatorNotes T508	NCBITaxon:10088 (Mus)
+T509	italic 16173 16177	FOG2
+#509	AnnotatorNotes T509	italic (null)
+T510	EntrezGene 16173 16177	FOG2
+#510	AnnotatorNotes T510	EG:23414
+T511	PR 16173 16177	FOG2
+#511	AnnotatorNotes T511	PR:000017653 (zinc finger protein ZFPM2)
+T512	SO 16178 16186	Mutation
+#512	AnnotatorNotes T512	SO:0001059 (sequence_alteration)
+T513	italic 16239 16243	FOG2
+#513	AnnotatorNotes T513	italic (null)
+T514	EntrezGene 16239 16243	FOG2
+#514	AnnotatorNotes T514	EG:23414
+T515	PR 16239 16243	FOG2
+#515	AnnotatorNotes T515	PR:000017653 (zinc finger protein ZFPM2)
+T516	SO 16244 16252	sequence
+#516	AnnotatorNotes T516	SO:0000001 (region)
+T517	GO_BP 16308 16316	deceased
+#517	AnnotatorNotes T517	GO:0016265 (death)
+T518	GO_BP 16656 16671	muscularization
+#518	AnnotatorNotes T518	GO:0007517 (muscle development)
+T519	italic 17066 17070	FOG2
+#519	AnnotatorNotes T519	italic (null)
+T520	PR 17066 17070	FOG2
+#520	AnnotatorNotes T520	PR:000017653 (zinc finger protein ZFPM2)
+T521	EntrezGene 17066 17070	FOG2
+#521	AnnotatorNotes T521	EG:23414
+T522	SO 17071 17086	sequence change
+#522	AnnotatorNotes T522	SO:0001059 (sequence_alteration)
+T523	SO 17071 17079	sequence
+#523	AnnotatorNotes T523	SO:0000001 (region)
+T524	GO_BP 17178 17183	birth
+#524	AnnotatorNotes T524	GO:0007567 (parturition)
+T525	GO_BP 17188 17192	died
+#525	AnnotatorNotes T525	GO:0016265 (death)
+T526	GO_BP 17864 17876	muscularized
+#526	AnnotatorNotes T526	GO:0007517 (muscle development)
+T527	GO_BP 17967 17975	creating
+#527	AnnotatorNotes T527	GO:0032502 (developmental process)
+T528	GO_BP 18067 18079	muscularized
+#528	AnnotatorNotes T528	GO:0007517 (muscle development)
+T529	SO 18246 18254	Sequence
+#529	AnnotatorNotes T529	SO:0000001 (region)
+T530	CHEBI 18275 18283	cytosine
+#530	AnnotatorNotes T530	CHEBI:30758 (cytosin-1-yl group)
+T531	CHEBI 18287 18294	thymine
+#531	AnnotatorNotes T531	CHEBI:30757 (thymin-1-yl group)
+T532	SO 18308 18314	change
+#532	AnnotatorNotes T532	SO:0001059 (sequence_alteration)
+T533	SO 18318 18322	exon
+#533	AnnotatorNotes T533	SO:0000147 (exon)
+T534	SO 18330 18337	changes
+#534	AnnotatorNotes T534	SO:0000041 (sequence_operation)
+T535	CHEBI 18348 18358	amino acid
+#535	AnnotatorNotes T535	CHEBI:33708 (amino-acid residue)
+T536	SO 18348 18358	amino acid
+#536	AnnotatorNotes T536	SO:0001237 (amino_acid)
+T537	CHEBI 18348 18353	amino
+#537	AnnotatorNotes T537	CHEBI:32952 (amines)
+T538	CHEBI 18348 18353	amino
+#538	AnnotatorNotes T538	CHEBI:46882 (amino group)
+T539	CHEBI 18354 18358	acid
+#539	AnnotatorNotes T539	CHEBI:37527 (acid)
+T540	CHEBI 18364 18372	arginine
+#540	AnnotatorNotes T540	CHEBI:32700 (arginine residue)
+T541	SO 18364 18372	arginine
+#541	AnnotatorNotes T541	SO:0001451 (argenine)
+T542	SO 18378 18388	stop codon
+#542	AnnotatorNotes T542	SO:0000319 (stop_codon)
+T543	GO_BP 18378 18382	stop
+#543	AnnotatorNotes T543	GO:0006353 (transcription termination)
+T544	GO_BP 18378 18382	stop
+#544	AnnotatorNotes T544	GO:0006415 (translational termination)
+T545	SO 18395 18403	mutation
+#545	AnnotatorNotes T545	SO:0001059 (sequence_alteration)
+T546	GO_BP 18404 18412	produces
+#546	AnnotatorNotes T546	GO:0009058 (biosynthetic process)
+T547	SO 18434 18441	peptide
+#547	AnnotatorNotes T547	SO:0001407 (peptidyl)
+T548	CHEBI 18464 18468	zinc
+#548	AnnotatorNotes T548	CHEBI:27363 (zinc)
+T549	SO 18476 18483	domains
+#549	AnnotatorNotes T549	SO:0000417 (polypeptide_domain)
+T550	SO 18501 18505	base
+#550	AnnotatorNotes T550	SO:0001236 (base)
+T551	SO 18506 18512	change
+#551	AnnotatorNotes T551	SO:0001059 (sequence_alteration)
+T552	SO 18548 18551	DNA
+#552	AnnotatorNotes T552	SO:0000352 (DNA)
+T553	SO 18610 18618	mutation
+#553	AnnotatorNotes T553	SO:0001059 (sequence_alteration)
+T554	GO_BP 18638 18651	developmental
+#554	AnnotatorNotes T554	GO:0032502 (developmental process)
+T555	SO 18718 18726	sequence
+#555	AnnotatorNotes T555	SO:0000001 (region)
+T556	SO 18782 18790	mutation
+#556	AnnotatorNotes T556	SO:0001059 (sequence_alteration)
+T557	SO 18823 18830	de novo
+#557	AnnotatorNotes T557	SO:0000782 (natural)
+T558	SO 18831 18839	mutation
+#558	AnnotatorNotes T558	SO:0001059 (sequence_alteration)
+T559	italic 18843 18847	FOG2
+#559	AnnotatorNotes T559	italic (null)
+T560	PR 18843 18847	FOG2
+#560	AnnotatorNotes T560	PR:000017653 (zinc finger protein ZFPM2)
+T561	EntrezGene 18843 18847	FOG2
+#561	AnnotatorNotes T561	EG:23414
+T562	GO_BP 19096 19111	muscularization
+#562	AnnotatorNotes T562	GO:0007517 (muscle development)
+T563	GO_BP 19411 19426	muscularization
+#563	AnnotatorNotes T563	GO:0007517 (muscle development)
+T564	GO_BP 19555 19570	muscularization
+#564	AnnotatorNotes T564	GO:0007517 (muscle development)
+T565	GO_CC 20052 20062	chromosome
+#565	AnnotatorNotes T565	GO:0005694 (chromosome)
+T566	SO 20052 20062	chromosome
+#566	AnnotatorNotes T566	SO:0000340 (chromosome)
+T567	EntrezGene 20157 20167	Human FOG2
+#567	AnnotatorNotes T567	EG:23414
+T568	NCBITaxon 20157 20162	Human
+#568	AnnotatorNotes T568	NCBITaxon:9606 (Homo sapiens)
+T569	italic 20163 20167	FOG2
+#569	AnnotatorNotes T569	italic (null)
+T570	PR 20163 20167	FOG2
+#570	AnnotatorNotes T570	PR:000017653 (zinc finger protein ZFPM2)
+T571	GO_CC 20176 20186	Chromosome
+#571	AnnotatorNotes T571	GO:0005694 (chromosome)
+T572	SO 20176 20186	Chromosome
+#572	AnnotatorNotes T572	SO:0000340 (chromosome)
+T573	SO 20287 20292	locus
+#573	AnnotatorNotes T573	SO:0000001 (region)
+T574	SO 20396 20410	translocations
+#574	AnnotatorNotes T574	SO:0000199 (translocation)
+T575	italic 20426 20430	FOG2
+#575	AnnotatorNotes T575	italic (null)
+T576	EntrezGene 20426 20430	FOG2
+#576	AnnotatorNotes T576	EG:23414
+T577	PR 20426 20430	FOG2
+#577	AnnotatorNotes T577	PR:000017653 (zinc finger protein ZFPM2)
+T578	SO 20431 20436	locus
+#578	AnnotatorNotes T578	SO:0000001 (region)
+T579	SO 20478 20487	deletions
+#579	AnnotatorNotes T579	SO:0000159 (deletion)
+T580	italic 20516 20520	FOG2
+#580	AnnotatorNotes T580	italic (null)
+T581	EntrezGene 20516 20520	FOG2
+#581	AnnotatorNotes T581	EG:23414
+T582	PR 20516 20520	FOG2
+#582	AnnotatorNotes T582	PR:000017653 (zinc finger protein ZFPM2)
+T583	SO 20521 20526	locus
+#583	AnnotatorNotes T583	SO:0000001 (region)
+T584	GO_BP 20532 20536	died
+#584	AnnotatorNotes T584	GO:0016265 (death)
+T585	SO 20616 20620	gene
+#585	AnnotatorNotes T585	SO:0000704 (gene)
+T586	GO_CC 20628 20639	chromosomal
+#586	AnnotatorNotes T586	GO:0005694 (chromosome)
+T587	SO 20628 20639	chromosomal
+#587	AnnotatorNotes T587	SO:0000340 (chromosome)
+T588	SO 20657 20665	deletion
+#588	AnnotatorNotes T588	SO:0000045 (delete)
+T589	SO 20702 20710	mutation
+#589	AnnotatorNotes T589	SO:0001059 (sequence_alteration)
+T590	italic 20772 20776	FOG2
+#590	AnnotatorNotes T590	italic (null)
+T591	EntrezGene 20772 20776	FOG2
+#591	AnnotatorNotes T591	EG:23414
+T592	PR 20772 20776	FOG2
+#592	AnnotatorNotes T592	PR:000017653 (zinc finger protein ZFPM2)
+T593	SO 20777 20785	mutation
+#593	AnnotatorNotes T593	SO:0001059 (sequence_alteration)
+T594	SO 20799 20806	de novo
+#594	AnnotatorNotes T594	SO:0000782 (natural)
+T595	NCBITaxon 20889 20894	mouse
+#595	AnnotatorNotes T595	NCBITaxon:10088 (Mus)
+T596	NCBITaxon 20899 20904	human
+#596	AnnotatorNotes T596	NCBITaxon:9606 (Homo sapiens)
+T597	SO 20927 20935	mutation
+#597	AnnotatorNotes T597	SO:0001059 (sequence_alteration)
+T598	italic 20939 20943	FOG2
+#598	AnnotatorNotes T598	italic (null)
+T599	PR 20939 20943	FOG2
+#599	AnnotatorNotes T599	PR:000017653 (zinc finger protein ZFPM2)
+T600	EntrezGene 20939 20943	FOG2
+#600	AnnotatorNotes T600	EG:23414
+T601	NCBITaxon 20977 20982	human
+#601	AnnotatorNotes T601	NCBITaxon:9606 (Homo sapiens)
+T602	GO_BP 20983 20996	developmental
+#602	AnnotatorNotes T602	GO:0032502 (developmental process)
+T603	NCBITaxon 21068 21072	mice
+#603	AnnotatorNotes T603	NCBITaxon:10088 (Mus)
+T604	SO 21097 21105	mutation
+#604	AnnotatorNotes T604	SO:0001059 (sequence_alteration)
+T605	italic 21109 21113	Fog2
+#605	AnnotatorNotes T605	italic (null)
+T606	EntrezGene 21109 21113	Fog2
+#606	AnnotatorNotes T606	EG:22762
+T607	PR 21109 21113	Fog2
+#607	AnnotatorNotes T607	PR:000017653 (zinc finger protein ZFPM2)
+T608	SO 21212 21216	gene
+#608	AnnotatorNotes T608	SO:0000704 (gene)
+T609	GO_BP 21222 21235	developmental
+#609	AnnotatorNotes T609	GO:0032502 (developmental process)
+T610	NCBITaxon 21277 21283	humans
+#610	AnnotatorNotes T610	NCBITaxon:9606 (Homo sapiens)
+T611	NCBITaxon 21289 21293	mice
+#611	AnnotatorNotes T611	NCBITaxon:10088 (Mus)
+T612	italic 21323 21327	Fog2
+#612	AnnotatorNotes T612	italic (null)
+T613	EntrezGene 21323 21327	Fog2
+#613	AnnotatorNotes T613	EG:22762
+T614	PR 21323 21327	Fog2
+#614	AnnotatorNotes T614	PR:000017653 (zinc finger protein ZFPM2)
+T615	CL 21450 21467	Muscle precursors
+#615	AnnotatorNotes T615	CL:0000680 (muscle precursor cell)
+T616	GO_BP 21503 21510	migrate
+#616	AnnotatorNotes T616	GO:0016477 (cell migration)
+T617	GO_BP 21571 21580	migration
+#617	AnnotatorNotes T617	GO:0016477 (cell migration)
+T618	CL 21776 21793	Muscle precursors
+#618	AnnotatorNotes T618	CL:0000680 (muscle precursor cell)
+T619	GO_BP 21827 21838	proliferate
+#619	AnnotatorNotes T619	GO:0008283 (cell proliferation)
+T620	GO_BP 21840 21853	differentiate
+#620	AnnotatorNotes T620	GO:0030154 (cell differentiation)
+T621	GO_BP 21864 21871	migrate
+#621	AnnotatorNotes T621	GO:0016477 (cell migration)
+T622	GO_BP 21946 21956	developing
+#622	AnnotatorNotes T622	GO:0032502 (developmental process)
+T623	GO_BP 21990 21999	formation
+#623	AnnotatorNotes T623	GO:0032502 (developmental process)
+T624	GO_BP 22037 22046	formation
+#624	AnnotatorNotes T624	GO:0032502 (developmental process)
+T625	italic 22093 22097	Fog2
+#625	AnnotatorNotes T625	italic (null)
+T626	EntrezGene 22093 22097	Fog2
+#626	AnnotatorNotes T626	EG:22762
+T627	PR 22093 22097	Fog2
+#627	AnnotatorNotes T627	PR:000017653 (zinc finger protein ZFPM2)
+T628	SO 22098 22104	mutant
+#628	AnnotatorNotes T628	SO:0001059 (sequence_alteration)
+T629	independent_continuant 22098 22104	mutant
+#629	AnnotatorNotes T629	independent_continuant
+T630	italic 22138 22141	HGF
+#630	AnnotatorNotes T630	italic (null)
+T631	PR 22138 22141	HGF
+#631	AnnotatorNotes T631	PR:000008534 (hepatocyte growth factor)
+T632	EntrezGene 22138 22141	HGF
+#632	AnnotatorNotes T632	EG:15234
+T633	GO_BP 22142 22152	expression
+#633	AnnotatorNotes T633	GO:0010467 (gene expression)
+T634	CL 22181 22203	muscle precursor cells
+#634	AnnotatorNotes T634	CL:0000680 (muscle precursor cell)
+T635	GO_CC 22198 22203	cells
+#635	AnnotatorNotes T635	GO:0005623 (cell)
+T636	GO_BP 22204 22211	migrate
+#636	AnnotatorNotes T636	GO:0016477 (cell migration)
+T637	GO_BP 22221 22231	developing
+#637	AnnotatorNotes T637	GO:0032502 (developmental process)
+T638	GO_BP 22287 22296	patterned
+#638	AnnotatorNotes T638	GO:0007389 (pattern specification process)
+T639	GO_BP 22309 22317	develops
+#639	AnnotatorNotes T639	GO:0032502 (developmental process)
+T640	italic 22325 22329	Fog2
+#640	AnnotatorNotes T640	italic (null)
+T641	PR 22325 22329	Fog2
+#641	AnnotatorNotes T641	PR:000017653 (zinc finger protein ZFPM2)
+T642	EntrezGene 22325 22329	Fog2
+#642	AnnotatorNotes T642	EG:22762
+T643	SO 22330 22336	mutant
+#643	AnnotatorNotes T643	SO:0001059 (sequence_alteration)
+T644	italic 22357 22361	Pax3
+#644	AnnotatorNotes T644	italic (null)
+T645	EntrezGene 22357 22361	Pax3
+#645	AnnotatorNotes T645	EG:18505
+T646	PR 22357 22361	Pax3
+#646	AnnotatorNotes T646	PR:000012316 (paired box protein Pax-3)
+T647	italic 22366 22370	MyoD
+#647	AnnotatorNotes T647	italic (null)
+T648	EntrezGene 22366 22370	MyoD
+#648	AnnotatorNotes T648	EG:17927
+T649	PR 22366 22370	MyoD
+#649	AnnotatorNotes T649	PR:000010875 (myoblast determination protein 1)
+T650	GO_BP 22371 22381	expression
+#650	AnnotatorNotes T650	GO:0010467 (gene expression)
+T651	GO_MF 22429 22450	transcription factors
+#651	AnnotatorNotes T651	GO:0003700 (transcription factor activity)
+T652	independent_continuant 22429 22450	transcription factors
+#652	AnnotatorNotes T652	independent_continuant
+T653	GO_BP 22429 22442	transcription
+#653	AnnotatorNotes T653	GO:0006350 (transcription)
+T654	CL 22467 22488	muscle precursor cell
+#654	AnnotatorNotes T654	CL:0000680 (muscle precursor cell)
+T655	GO_BP 22484 22518	cell migration and differentiation
+#655	AnnotatorNotes T655	"cell .. differentiation" GO:0030154 (cell differentiation)
+T656	GO_BP 22484 22498	cell migration
+#656	AnnotatorNotes T656	GO:0016477 (cell migration)
+T657	GO_CC 22484 22488	cell
+#657	AnnotatorNotes T657	GO:0005623 (cell)
+T658	CL 22586 22607	muscle precursor cell
+#658	AnnotatorNotes T658	CL:0000680 (muscle precursor cell)
+T659	GO_BP 22603 22617	cell migration
+#659	AnnotatorNotes T659	GO:0016477 (cell migration)
+T660	GO_CC 22603 22607	cell
+#660	AnnotatorNotes T660	GO:0005623 (cell)
+T661	italic 22664 22668	Fog2
+#661	AnnotatorNotes T661	italic (null)
+T662	PR 22664 22668	Fog2
+#662	AnnotatorNotes T662	PR:000017653 (zinc finger protein ZFPM2)
+T663	italic 22698 22702	Gata
+#663	AnnotatorNotes T663	italic (null)
+T664	italic 22712 22722	Gatas 1–6,
+#664	AnnotatorNotes T664	italic (null)
+T665	PR 22712 22721	Gatas 1–6
+#665	AnnotatorNotes T665	"Gatas .. 6" PR:000007861 (transcription factor GATA-6)
+T666	PR 22712 22719	Gatas 1
+#666	AnnotatorNotes T666	PR:000007857 (erythroid transcription factor)
+T667	GO_MF 22740 22761	transcription factors
+#667	AnnotatorNotes T667	GO:0003700 (transcription factor activity)
+T668	independent_continuant 22740 22761	transcription factors
+#668	AnnotatorNotes T668	independent_continuant
+T669	GO_BP 22740 22753	transcription
+#669	AnnotatorNotes T669	GO:0006350 (transcription)
+T670	italic 22770 22778	CoupTFII
+#670	AnnotatorNotes T670	italic (null)
+T671	PR 22770 22778	CoupTFII
+#671	AnnotatorNotes T671	PR:000011405 (COUP transcription factor 2)
+T672	italic 22807 22811	Fog2
+#672	AnnotatorNotes T672	italic (null)
+T673	PR 22807 22811	Fog2
+#673	AnnotatorNotes T673	PR:000017653 (zinc finger protein ZFPM2)
+T674	italic 22812 22817	Gata4
+#674	AnnotatorNotes T674	italic (null)
+T675	PR 22812 22817	Gata4
+#675	AnnotatorNotes T675	PR:000007859 (transcription factor GATA-4)
+T676	GO_BP 22853 22884	cardiac and gonadal development
+#676	AnnotatorNotes T676	"cardiac .. development" GO:0007507 (heart development)
+T677	GO_BP 22865 22884	gonadal development
+#677	AnnotatorNotes T677	GO:0008406 (gonad development)
+T678	GO_BP 23205 23218	developmental
+#678	AnnotatorNotes T678	GO:0032502 (developmental process)
+T679	GO_BP 23407 23414	created
+#679	AnnotatorNotes T679	GO:0032502 (developmental process)
+T680	NCBITaxon 23430 23434	lamb
+#680	AnnotatorNotes T680	NCBITaxon:9940 (Ovis aries)
+T681	GO_BP 23482 23505	pulmonary developmental
+#681	AnnotatorNotes T681	GO:0030324 (lung development)
+T682	GO_BP 23881 23894	developmental
+#682	AnnotatorNotes T682	GO:0032502 (developmental process)
+T683	NCBITaxon 23935 23939	mice
+#683	AnnotatorNotes T683	NCBITaxon:10088 (Mus)
+T684	SO 23949 23958	mutations
+#684	AnnotatorNotes T684	SO:0001059 (sequence_alteration)
+T685	italic 23962 23966	Fog2
+#685	AnnotatorNotes T685	italic (null)
+T686	PR 23962 23966	Fog2
+#686	AnnotatorNotes T686	PR:000017653 (zinc finger protein ZFPM2)
+T687	EntrezGene 23962 23966	Fog2
+#687	AnnotatorNotes T687	EG:22762
+T688	GO_BP 24008 24024	lung development
+#688	AnnotatorNotes T688	GO:0030324 (lung development)
+T689	italic 24171 24175	Fog2
+#689	AnnotatorNotes T689	italic (null)
+T690	PR 24171 24175	Fog2
+#690	AnnotatorNotes T690	PR:000017653 (zinc finger protein ZFPM2)
+T691	EntrezGene 24171 24175	Fog2
+#691	AnnotatorNotes T691	EG:22762
+T692	GO_BP 24176 24186	expression
+#692	AnnotatorNotes T692	GO:0010467 (gene expression)
+T693	italic 24229 24233	Fog2
+#693	AnnotatorNotes T693	italic (null)
+T694	EntrezGene 24229 24233	Fog2
+#694	AnnotatorNotes T694	EG:22762
+T695	PR 24229 24233	Fog2
+#695	AnnotatorNotes T695	PR:000017653 (zinc finger protein ZFPM2)
+T696	GO_BP 24234 24244	expression
+#696	AnnotatorNotes T696	GO:0010467 (gene expression)
+T697	GO_BP 24314 24325	established
+#697	AnnotatorNotes T697	GO:0032502 (developmental process)
+T698	GO_BP 24354 24363	expressed
+#698	AnnotatorNotes T698	GO:0010467 (gene expression)
+T699	GO_BP 24450 24454	form
+#699	AnnotatorNotes T699	GO:0032502 (developmental process)
+T700	italic 24547 24551	Fog2
+#700	AnnotatorNotes T700	italic (null)
+T701	PR 24547 24551	Fog2
+#701	AnnotatorNotes T701	PR:000017653 (zinc finger protein ZFPM2)
+T702	EntrezGene 24547 24551	Fog2
+#702	AnnotatorNotes T702	EG:22762
+T703	GO_BP 24567 24577	patterning
+#703	AnnotatorNotes T703	GO:0007389 (pattern specification process)
+T704	GO_BP 24586 24599	establishment
+#704	AnnotatorNotes T704	GO:0032502 (developmental process)
+T705	italic 24649 24653	Fog2
+#705	AnnotatorNotes T705	italic (null)
+T706	PR 24649 24653	Fog2
+#706	AnnotatorNotes T706	PR:000017653 (zinc finger protein ZFPM2)
+T707	EntrezGene 24649 24653	Fog2
+#707	AnnotatorNotes T707	EG:22762
+T708	GO_BP 24674 24683	branching
+#708	AnnotatorNotes T708	GO:0001763 (morphogenesis of a branching structure)
+T709	italic 24695 24699	Fog2
+#709	AnnotatorNotes T709	italic (null)
+T710	EntrezGene 24695 24699	Fog2
+#710	AnnotatorNotes T710	EG:22762
+T711	PR 24695 24699	Fog2
+#711	AnnotatorNotes T711	PR:000017653 (zinc finger protein ZFPM2)
+T712	GO_BP 24730 24743	developmental
+#712	AnnotatorNotes T712	GO:0032502 (developmental process)
+T713	italic 24797 24801	Fog2
+#713	AnnotatorNotes T713	italic (null)
+T714	PR 24797 24801	Fog2
+#714	AnnotatorNotes T714	PR:000017653 (zinc finger protein ZFPM2)
+T715	EntrezGene 24797 24801	Fog2
+#715	AnnotatorNotes T715	EG:22762
+T716	GO_BP 24811 24818	develop
+#716	AnnotatorNotes T716	GO:0032502 (developmental process)
+T717	GO_BP 24832 24841	branching
+#717	AnnotatorNotes T717	GO:0001763 (morphogenesis of a branching structure)
+T718	SO 24913 24922	wild-type
+#718	AnnotatorNotes T718	SO:0000817 (wild_type)
+T719	SO 24983 24991	mutation
+#719	AnnotatorNotes T719	SO:0001059 (sequence_alteration)
+T720	italic 24995 24999	Fog2
+#720	AnnotatorNotes T720	italic (null)
+T721	EntrezGene 24995 24999	Fog2
+#721	AnnotatorNotes T721	EG:22762
+T722	PR 24995 24999	Fog2
+#722	AnnotatorNotes T722	PR:000017653 (zinc finger protein ZFPM2)
+T723	NCBITaxon 25007 25012	mouse
+#723	AnnotatorNotes T723	NCBITaxon:10088 (Mus)
+T724	GO_BP 25060 25075	muscularization
+#724	AnnotatorNotes T724	GO:0007517 (muscle development)
+T725	SO 25144 25152	mutation
+#725	AnnotatorNotes T725	SO:0001059 (sequence_alteration)
+T726	SO 25161 25165	gene
+#726	AnnotatorNotes T726	SO:0000704 (gene)
+T727	GO_BP 25187 25193	lethal
+#727	AnnotatorNotes T727	GO:0016265 (death)
+T728	GO_BP 25204 25234	lung and diaphragm development
+#728	AnnotatorNotes T728	"lung .. development" GO:0030324 (lung development)
+T729	italic 25297 25301	Fog2
+#729	AnnotatorNotes T729	italic (null)
+T730	PR 25297 25301	Fog2
+#730	AnnotatorNotes T730	PR:000017653 (zinc finger protein ZFPM2)
+T731	GO_BP 25318 25328	generation
+#731	AnnotatorNotes T731	GO:0000003 (reproduction)
+T732	italic 25334 25338	Fog2
+#732	AnnotatorNotes T732	italic (null)
+T733	EntrezGene 25334 25338	Fog2
+#733	AnnotatorNotes T733	EG:22762
+T734	PR 25334 25338	Fog2
+#734	AnnotatorNotes T734	PR:000017653 (zinc finger protein ZFPM2)
+T735	NCBITaxon 25349 25354	mouse
+#735	AnnotatorNotes T735	NCBITaxon:10088 (Mus)
+T736	GO_BP 25382 25398	lung development
+#736	AnnotatorNotes T736	GO:0030324 (lung development)
+T737	CHEBI 25576 25585	molecular
+#737	AnnotatorNotes T737	CHEBI:23367 (molecular entity)
+T738	NCBITaxon 25618 25623	human
+#738	AnnotatorNotes T738	NCBITaxon:9606 (Homo sapiens)
+T739	NCBITaxon 25818 25824	Animal
+#739	AnnotatorNotes T739	NCBITaxon:33208 (Metazoa)
+T740	NCBITaxon 25860 25866	Animal
+#740	AnnotatorNotes T740	NCBITaxon:33208 (Metazoa)
+T741	SO 25929 25936	Genetic
+#741	AnnotatorNotes T741	SO:0000704 (gene)
+T742	NCBITaxon 25952 25957	mouse
+#742	AnnotatorNotes T742	NCBITaxon:10088 (Mus)
+T743	SO 25958 25966	mutation
+#743	AnnotatorNotes T743	SO:0001059 (sequence_alteration)
+T744	italic 25967 25971	lil.
+#744	AnnotatorNotes T744	italic (null)
+T745	italic 25977 25980	lil
+#745	AnnotatorNotes T745	italic (null)
+T746	SO 25981 25989	mutation
+#746	AnnotatorNotes T746	SO:0001059 (sequence_alteration)
+T747	SO 26030 26039	Wild-type
+#747	AnnotatorNotes T747	SO:0000817 (wild_type)
+T748	NCBITaxon 26059 26063	mice
+#748	AnnotatorNotes T748	NCBITaxon:10088 (Mus)
+T749	SO 26073 26080	genetic
+#749	AnnotatorNotes T749	SO:0000704 (gene)
+T750	NCBITaxon 26167 26171	Mice
+#750	AnnotatorNotes T750	NCBITaxon:10088 (Mus)
+T751	SO 26188 26196	mutation
+#751	AnnotatorNotes T751	SO:0001059 (sequence_alteration)
+T752	italic 26200 26204	Fog2
+#752	AnnotatorNotes T752	italic (null)
+T753	EntrezGene 26200 26204	Fog2
+#753	AnnotatorNotes T753	EG:22762
+T754	PR 26200 26204	Fog2
+#754	AnnotatorNotes T754	PR:000017653 (zinc finger protein ZFPM2)
+T755	SO 26218 26222	gene
+#755	AnnotatorNotes T755	SO:0000704 (gene)
+T756	GO_BP 26283 26296	Developmental
+#756	AnnotatorNotes T756	GO:0032502 (developmental process)
+T757	NCBITaxon 26309 26313	mice
+#757	AnnotatorNotes T757	NCBITaxon:10088 (Mus)
+T758	GO_BP 26322 26333	pregnancies
+#758	AnnotatorNotes T758	GO:0007565 (female pregnancy)
+T759	CHEBI 26860 26869	polyester
+#759	AnnotatorNotes T759	CHEBI:26178 (polyesters)
+T760	CHEBI 26952 26960	nutrient
+#760	AnnotatorNotes T760	CHEBI:33284 (nutrient)
+T761	NCBITaxon 27060 27066	bovine
+#761	AnnotatorNotes T761	NCBITaxon:27592 (Bovinae)
+T762	CHEBI 27084 27095	L-glutamine
+#762	AnnotatorNotes T762	CHEBI:18050 (L-glutamine)
+T763	CHEBI 27110 27120	penicillin
+#763	AnnotatorNotes T763	CHEBI:17334 (penicillins)
+T764	CHEBI 27133 27145	streptomycin
+#764	AnnotatorNotes T764	CHEBI:17076 (streptomycin)
+T765	CHEBI 27230 27233	CO2
+#765	AnnotatorNotes T765	CHEBI:16526 (carbon dioxide)
+T766	sub 27232 27233	2
+#766	AnnotatorNotes T766	sub (null)
+T767	SO 27386 27396	Transgenic
+#767	AnnotatorNotes T767	SO:0000902 (transgene)
+T768	NCBITaxon 27397 27401	mice
+#768	AnnotatorNotes T768	NCBITaxon:10088 (Mus)
+T769	italic 27415 27419	lacZ
+#769	AnnotatorNotes T769	italic (null)
+T770	SO 27420 27424	gene
+#770	AnnotatorNotes T770	SO:0000704 (gene)
+T771	GO_BP 27425 27431	driven
+#771	AnnotatorNotes T771	GO:0048518 (positive regulation of biological process)
+T772	italic 27439 27443	Fog2
+#772	AnnotatorNotes T772	italic (null)
+T773	PR 27439 27443	Fog2
+#773	AnnotatorNotes T773	PR:000017653 (zinc finger protein ZFPM2)
+T774	EntrezGene 27439 27443	Fog2
+#774	AnnotatorNotes T774	EG:22762
+T775	SO 27444 27452	promoter
+#775	AnnotatorNotes T775	SO:0000167 (promoter)
+T776	GO_BP 27463 27472	developed
+#776	AnnotatorNotes T776	GO:0000003 (reproduction)
+T777	NCBITaxon 27498 27505	animals
+#777	AnnotatorNotes T777	NCBITaxon:33208 (Metazoa)
+T778	italic 27511 27515	lacZ
+#778	AnnotatorNotes T778	italic (null)
+T779	SO 27516 27520	gene
+#779	AnnotatorNotes T779	SO:0000704 (gene)
+T780	SO 27524 27536	incorporated
+#780	AnnotatorNotes T780	SO:0000046 (insert)
+T781	italic 27561 27565	Fog2
+#781	AnnotatorNotes T781	italic (null)
+T782	PR 27561 27565	Fog2
+#782	AnnotatorNotes T782	PR:000017653 (zinc finger protein ZFPM2)
+T783	EntrezGene 27561 27565	Fog2
+#783	AnnotatorNotes T783	EG:22762
+T784	SO 27566 27571	locus
+#784	AnnotatorNotes T784	SO:0000001 (region)
+T785	GO_MF 27581 27596	β-galactosidase
+#785	AnnotatorNotes T785	GO:0004565 (beta-galactosidase activity)
+T786	independent_continuant 27581 27596	β-galactosidase
+#786	AnnotatorNotes T786	independent_continuant
+T787	GO_BP 27597 27607	expression
+#787	AnnotatorNotes T787	GO:0010467 (gene expression)
+T788	SO 27613 27619	fusion
+#788	AnnotatorNotes T788	SO:0000806 (fusion)
+T789	CHEBI 27620 27627	protein
+#789	AnnotatorNotes T789	CHEBI:36080 (proteins)
+T790	SO 27631 27636	frame
+#790	AnnotatorNotes T790	SO:0000717 (reading_frame)
+T791	CHEBI 27656 27667	amino acids
+#791	AnnotatorNotes T791	CHEBI:33708 (amino-acid residue)
+T792	SO 27656 27667	amino acids
+#792	AnnotatorNotes T792	SO:0001237 (amino_acid)
+T793	CHEBI 27656 27661	amino
+#793	AnnotatorNotes T793	CHEBI:32952 (amines)
+T794	CHEBI 27656 27661	amino
+#794	AnnotatorNotes T794	CHEBI:46882 (amino group)
+T795	CHEBI 27662 27667	acids
+#795	AnnotatorNotes T795	CHEBI:37527 (acid)
+T796	EntrezGene 27675 27679	FOG2
+#796	AnnotatorNotes T796	EG:22762
+T797	PR 27675 27679	FOG2
+#797	AnnotatorNotes T797	PR:000017653 (zinc finger protein ZFPM2)
+T798	CHEBI 27680 27687	protein
+#798	AnnotatorNotes T798	CHEBI:36080 (proteins)
+T799	italic 27693 27702	Fog2-lacZ
+#799	AnnotatorNotes T799	italic (null)
+T800	EntrezGene 27693 27697	Fog2
+#800	AnnotatorNotes T800	EG:22762
+T801	PR 27693 27697	Fog2
+#801	AnnotatorNotes T801	PR:000017653 (zinc finger protein ZFPM2)
+T802	SO 27728 27732	ires
+#802	AnnotatorNotes T802	SO:0000243 (internal_ribosome_entry_site)
+T803	SO 27738 27746	cassette
+#803	AnnotatorNotes T803	SO:0005853 (gene_cassette)
+T804	GO_BP 27753 27760	creates
+#804	AnnotatorNotes T804	GO:0009058 (biosynthetic process)
+T805	SO 27768 27774	allele
+#805	AnnotatorNotes T805	SO:0001023 (allele)
+T806	italic 27778 27782	Fog2
+#806	AnnotatorNotes T806	italic (null)
+T807	EntrezGene 27778 27782	Fog2
+#807	AnnotatorNotes T807	EG:22762
+T808	PR 27778 27782	Fog2
+#808	AnnotatorNotes T808	PR:000017653 (zinc finger protein ZFPM2)
+T809	SO 27783 27787	gene
+#809	AnnotatorNotes T809	SO:0000704 (gene)
+T810	italic 27793 27802	Fog2-LacZ
+#810	AnnotatorNotes T810	italic (null)
+T811	EntrezGene 27793 27797	Fog2
+#811	AnnotatorNotes T811	EG:22762
+T812	PR 27793 27797	Fog2
+#812	AnnotatorNotes T812	PR:000017653 (zinc finger protein ZFPM2)
+T813	SO 27808 27817	construct
+#813	AnnotatorNotes T813	SO:0001037 (mobile_genetic_element)
+T814	CL 27878 27883	cells
+#814	AnnotatorNotes T814	CL:0000000 (cell)
+T815	GO_CC 27878 27883	cells
+#815	AnnotatorNotes T815	GO:0005623 (cell)
+T816	italic 27997 28006	Fog2-lacZ
+#816	AnnotatorNotes T816	italic (null)
+T817	EntrezGene 27997 28001	Fog2
+#817	AnnotatorNotes T817	EG:22762
+T818	PR 27997 28001	Fog2
+#818	AnnotatorNotes T818	PR:000017653 (zinc finger protein ZFPM2)
+T819	NCBITaxon 28012 28019	animals
+#819	AnnotatorNotes T819	NCBITaxon:33208 (Metazoa)
+T820	italic 28074 28078	lacZ
+#820	AnnotatorNotes T820	italic (null)
+T821	GO_BP 28079 28089	Expression
+#821	AnnotatorNotes T821	GO:0010467 (gene expression)
+T822	independent_continuant 28154 28169	β-galactosidase
+#822	AnnotatorNotes T822	independent_continuant
+T823	GO_MF 28154 28169	β-galactosidase
+#823	AnnotatorNotes T823	GO:0015925 (galactosidase activity)
+T824	GO_MF 28218 28220	RT
+#824	AnnotatorNotes T824	GO:0003964 (RNA-directed DNA polymerase activity)
+T825	GO_BP 28218 28220	RT
+#825	AnnotatorNotes T825	GO:0006410 (transcription, RNA-dependent)
+T826	independent_continuant 28218 28220	RT
+#826	AnnotatorNotes T826	independent_continuant
+T827	SO 28229 28237	sequence
+#827	AnnotatorNotes T827	SO:0000001 (region)
+T828	NCBITaxon 28254 28259	mouse
+#828	AnnotatorNotes T828	NCBITaxon:10088 (Mus)
+T829	SO 28262 28265	RNA
+#829	AnnotatorNotes T829	SO:0000356 (RNA)
+T830	independent_continuant 28335 28337	RT
+#830	AnnotatorNotes T830	independent_continuant
+T831	GO_BP 28335 28337	RT
+#831	AnnotatorNotes T831	GO:0006410 (transcription, RNA-dependent)
+T832	GO_MF 28335 28337	RT
+#832	AnnotatorNotes T832	GO:0003964 (RNA-directed DNA polymerase activity)
+T833	SO 28366 28372	primer
+#833	AnnotatorNotes T833	SO:0000112 (primer)
+T834	SO 28378 28386	designed
+#834	AnnotatorNotes T834	SO:0000546 (designed_sequence)
+T835	italic 28400 28404	Fog2
+#835	AnnotatorNotes T835	italic (null)
+T836	EntrezGene 28400 28404	Fog2
+#836	AnnotatorNotes T836	EG:22762
+T837	PR 28400 28404	Fog2
+#837	AnnotatorNotes T837	PR:000017653 (zinc finger protein ZFPM2)
+T838	SO 28405 28409	gene
+#838	AnnotatorNotes T838	SO:0000704 (gene)
+T839	independent_continuant 28411 28413	RT
+#839	AnnotatorNotes T839	independent_continuant
+T840	GO_BP 28411 28413	RT
+#840	AnnotatorNotes T840	GO:0006410 (transcription, RNA-dependent)
+T841	GO_MF 28411 28413	RT
+#841	AnnotatorNotes T841	GO:0003964 (RNA-directed DNA polymerase activity)
+T842	CHEBI 28436 28448	radiolabeled
+#842	AnnotatorNotes T842	CHEBI:35211 (radioactive label)
+T843	SO 28449 28456	primers
+#843	AnnotatorNotes T843	SO:0000112 (primer)
+T844	GO_BP 28482 28489	spliced
+#844	AnnotatorNotes T844	GO:0008380 (RNA splicing)
+T845	SO 28490 28508	region of the gene
+#845	AnnotatorNotes T845	"region of .. gene" SO:0000842 (gene_component_region)
+T846	SO 28504 28508	gene
+#846	AnnotatorNotes T846	SO:0000704 (gene)
+T847	SO 28529 28536	product
+#847	AnnotatorNotes T847	SO:0000006 (PCR_product)
+T848	GO_BP 28550 28560	denaturing
+#848	AnnotatorNotes T848	GO:0032508 (DNA duplex unwinding)
+T849	independent_continuant 28614 28616	RT
+#849	AnnotatorNotes T849	independent_continuant
+T850	GO_MF 28614 28616	RT
+#850	AnnotatorNotes T850	GO:0003964 (RNA-directed DNA polymerase activity)
+T851	GO_BP 28614 28616	RT
+#851	AnnotatorNotes T851	GO:0006410 (transcription, RNA-dependent)
+T852	SO 28617 28628	PCR product
+#852	AnnotatorNotes T852	SO:0000006 (PCR_product)
+T853	SO 28652 28658	vector
+#853	AnnotatorNotes T853	SO:0000440 (vector_replicon)
+T854	SO 28755 28759	gene
+#854	AnnotatorNotes T854	SO:0000704 (gene)
+T855	SO 28769 28776	primers
+#855	AnnotatorNotes T855	SO:0000112 (primer)
+T856	SO 28778 28786	Sequence
+#856	AnnotatorNotes T856	SO:0000001 (region)
+T857	SO 28827 28831	Gene
+#857	AnnotatorNotes T857	SO:0000704 (gene)
+T858	GO_MF 28885 28898	hybridization
+#858	AnnotatorNotes T858	GO:0000739 (DNA strand annealing activity)
+T859	GO_MF 28885 28898	hybridization
+#859	AnnotatorNotes T859	GO:0033592 (RNA strand annealing activity)
+T860	GO_MF 29002 29015	hybridization
+#860	AnnotatorNotes T860	GO:0000739 (DNA strand annealing activity)
+T861	GO_MF 29002 29015	hybridization
+#861	AnnotatorNotes T861	GO:0033592 (RNA strand annealing activity)
+T862	SO 29035 29041	Probes
+#862	AnnotatorNotes T862	SO:0000051 (probe)
+T863	CHEBI 29055 29058	35S
+#863	AnnotatorNotes T863	CHEBI:37983 (sulfur-35)
+T864	GO_BP 29064 29072	prepared
+#864	AnnotatorNotes T864	GO:0009058 (biosynthetic process)
+T865	GO_BP 29084 29097	transcription
+#865	AnnotatorNotes T865	GO:0006350 (transcription)
+T866	SO 29112 29119	plasmid
+#866	AnnotatorNotes T866	SO:0000155 (plasmid)
+T867	GO_MF 29134 29144	hybridized
+#867	AnnotatorNotes T867	GO:0000739 (DNA strand annealing activity)
+T868	GO_MF 29134 29144	hybridized
+#868	AnnotatorNotes T868	GO:0033592 (RNA strand annealing activity)
+T869	GO_CC 29165 29171	Nuclei
+#869	AnnotatorNotes T869	GO:0005634 (nucleus)
+T870	NCBITaxon 29279 29284	Human
+#870	AnnotatorNotes T870	NCBITaxon:9606 (Homo sapiens)
+T871	SO 29285 29312	DNA extraction and sequence
+#871	AnnotatorNotes T871	"DNA .. sequence" SO:0000352 (DNA)
+T872	SO 29324 29327	DNA
+#872	AnnotatorNotes T872	SO:0000352 (DNA)
+T873	CHEBI 29365 29371	phenol
+#873	AnnotatorNotes T873	CHEBI:15882 (phenol)
+T874	CHEBI 29372 29382	chloroform
+#874	AnnotatorNotes T874	CHEBI:35255 (chloroform)
+T875	SO 29451 29458	Primers
+#875	AnnotatorNotes T875	SO:0000112 (primer)
+T876	italic 29484 29488	FOG2
+#876	AnnotatorNotes T876	italic (null)
+T877	PR 29484 29488	FOG2
+#877	AnnotatorNotes T877	PR:000017653 (zinc finger protein ZFPM2)
+T878	EntrezGene 29484 29488	FOG2
+#878	AnnotatorNotes T878	EG:23414
+T879	SO 29489 29501	coding exons
+#879	AnnotatorNotes T879	SO:0000195 (coding_exon)
+T880	SO 29510 29512	bp
+#880	AnnotatorNotes T880	SO:0000028 (base_pair)
+T881	SO 29516 29557	flanking upstream and downstream sequence
+#881	AnnotatorNotes T881	"flanking upstream .. sequence" SO:0001416 (five_prime_flanking_region)
+T882	SO 29516 29557	flanking upstream and downstream sequence
+#882	AnnotatorNotes T882	"flanking .. downstream sequence" SO:0001417 (three_prime_flanking_region)
+T883	SO 29628 29644	Primer sequences
+#883	AnnotatorNotes T883	SO:0000112 (primer)
+T884	SO 29674 29682	Sequence
+#884	AnnotatorNotes T884	SO:0000001 (region)
+T885	SO 29722 29726	Gene
+#885	AnnotatorNotes T885	SO:0000704 (gene)
+T886	SO 29736 29739	DNA
+#886	AnnotatorNotes T886	SO:0000352 (DNA)
+T887	SO 29903 29906	DNA
+#887	AnnotatorNotes T887	SO:0000352 (DNA)
+T888	SO 30043 30046	SNP
+#888	AnnotatorNotes T888	SO:0000694 (SNP)
+T889	SO 30226 30233	Primers
+#889	AnnotatorNotes T889	SO:0000112 (primer)
+T890	GO_MF 30238 30240	RT
+#890	AnnotatorNotes T890	GO:0003964 (RNA-directed DNA polymerase activity)
+T891	GO_BP 30238 30240	RT
+#891	AnnotatorNotes T891	GO:0006410 (transcription, RNA-dependent)
+T892	independent_continuant 30238 30240	RT
+#892	AnnotatorNotes T892	independent_continuant
+T893	NCBITaxon 30246 30251	Mouse
+#893	AnnotatorNotes T893	NCBITaxon:10088 (Mus)
+T894	SO 30280 30290	Transcript
+#894	AnnotatorNotes T894	SO:0000673 (transcript)
+T895	italic 30294 30298	Fog2
+#895	AnnotatorNotes T895	italic (null)
+T896	EntrezGene 30294 30298	Fog2
+#896	AnnotatorNotes T896	EG:22762
+T897	PR 30294 30298	Fog2
+#897	AnnotatorNotes T897	PR:000017653 (zinc finger protein ZFPM2)
+T898	SO 30299 30305	Mutant
+#898	AnnotatorNotes T898	SO:0001059 (sequence_alteration)
+T899	italic 30306 30311	(lil)
+#899	AnnotatorNotes T899	italic (null)
+T900	NCBITaxon 30312 30316	Mice
+#900	AnnotatorNotes T900	NCBITaxon:10088 (Mus)
+T901	NCBITaxon 30379 30384	Human
+#901	AnnotatorNotes T901	NCBITaxon:9606 (Homo sapiens)
+T902	SO 30385 30392	Primers
+#902	AnnotatorNotes T902	SO:0000112 (primer)
+T903	italic 30414 30418	FOG2
+#903	AnnotatorNotes T903	italic (null)
+T904	PR 30414 30418	FOG2
+#904	AnnotatorNotes T904	PR:000017653 (zinc finger protein ZFPM2)
+T905	EntrezGene 30414 30418	FOG2
+#905	AnnotatorNotes T905	EG:23414
+T906	SO 30419 30434	Coding Sequence
+#906	AnnotatorNotes T906	SO:0000316 (CDS)
+T907	SO 30440 30451	Genomic DNA
+#907	AnnotatorNotes T907	SO:0000991 (genomic_DNA)
+T908	SO 30440 30447	Genomic
+#908	AnnotatorNotes T908	SO:0001026 (genome)
+T909	GO_BP 30649 30662	developmental
+#909	AnnotatorNotes T909	GO:0032502 (developmental process)
+T910	NCBITaxon 30758 30763	Human
+#910	AnnotatorNotes T910	NCBITaxon:9606 (Homo sapiens)
+T911	GO_BP 30764 30775	Development
+#911	AnnotatorNotes T911	GO:0032502 (developmental process)
+T912	italic 30976 30980	Fog2
+#912	AnnotatorNotes T912	italic (null)
+T913	PR 30976 30980	Fog2
+#913	AnnotatorNotes T913	PR:000017653 (zinc finger protein ZFPM2)
+T914	EntrezGene 30976 30980	Fog2
+#914	AnnotatorNotes T914	EG:22762
+T915	sup 30980 30983	−/−
+#915	AnnotatorNotes T915	sup (null)
+T916	NCBITaxon 30984 30988	mice
+#916	AnnotatorNotes T916	NCBITaxon:10088 (Mus)
+T917	SO 31093 31096	DNA
+#917	AnnotatorNotes T917	SO:0000352 (DNA)
+T918	CHEBI 31197 31200	ENU
+#918	AnnotatorNotes T918	CHEBI:23995 (ethyl nitrosourea)
+T919	CHEBI 31203 31224	N-ethyl-N-nitrosourea
+#919	AnnotatorNotes T919	CHEBI:23995 (ethyl nitrosourea)
+T920	CHEBI 31203 31204	N
+#920	AnnotatorNotes T920	CHEBI:25555 (nitrogen)
+T921	CHEBI 31205 31210	ethyl
+#921	AnnotatorNotes T921	CHEBI:37807 (ethyl group)
+T922	CHEBI 31211 31212	N
+#922	AnnotatorNotes T922	CHEBI:25555 (nitrogen)
+T923	EntrezGene 31226 31229	HGF
+#923	AnnotatorNotes T923	EG:15234
+T924	PR 31226 31229	HGF
+#924	AnnotatorNotes T924	PR:000008534 (hepatocyte growth factor)
+T925	EntrezGene 31232 31256	Hepatocyte growth factor
+#925	AnnotatorNotes T925	EG:15234
+T926	PR 31232 31256	Hepatocyte growth factor
+#926	AnnotatorNotes T926	PR:000008534 (hepatocyte growth factor)
+T927	CL 31232 31242	Hepatocyte
+#927	AnnotatorNotes T927	CL:0000182 (hepatocyte)
+T928	GO_MF 31243 31256	growth factor
+#928	AnnotatorNotes T928	GO:0008083 (growth factor activity)
+T929	independent_continuant 31243 31256	growth factor
+#929	AnnotatorNotes T929	independent_continuant
+T930	GO_BP 31243 31249	growth
+#930	AnnotatorNotes T930	GO:0040007 (growth)
+T931	EntrezGene 31257 31271	Scatter factor
+#931	AnnotatorNotes T931	EG:15234
+T932	PR 31257 31271	Scatter factor
+#932	AnnotatorNotes T932	PR:000008534 (hepatocyte growth factor)
+T933	GO_BP 31349 31388	Pulmonary and Diaphragmatic Development
+#933	AnnotatorNotes T933	"Pulmonary .. Development" GO:0030324 (lung development)
+T934	italic 31396 31399	lil
+#934	AnnotatorNotes T934	italic (null)
+T935	NCBITaxon 31400 31405	Mouse
+#935	AnnotatorNotes T935	NCBITaxon:10088 (Mus)
+T936	SO 31415 31421	mutant
+#936	AnnotatorNotes T936	SO:0001059 (sequence_alteration)
+T937	GO_BP 31457 31468	development
+#937	AnnotatorNotes T937	GO:0032502 (developmental process)
+T938	GO_BP 31641 31656	muscularization
+#938	AnnotatorNotes T938	GO:0007517 (muscle development)
+T939	SO 31721 31727	mutant
+#939	AnnotatorNotes T939	SO:0001059 (sequence_alteration)
+T940	italic 31759 31762	lil
+#940	AnnotatorNotes T940	italic (null)
+T941	CHEBI 31803 31806	ENU
+#941	AnnotatorNotes T941	CHEBI:23995 (ethyl nitrosourea)
+T942	italic 31815 31818	lil
+#942	AnnotatorNotes T942	italic (null)
+T943	SO 31819 31827	Mutation
+#943	AnnotatorNotes T943	SO:0001059 (sequence_alteration)
+T944	italic 31831 31835	Fog2
+#944	AnnotatorNotes T944	italic (null)
+T945	PR 31831 31835	Fog2
+#945	AnnotatorNotes T945	PR:000017653 (zinc finger protein ZFPM2)
+T946	EntrezGene 31831 31835	Fog2
+#946	AnnotatorNotes T946	EG:22762
+T947	SO 31841 31852	Splice Site
+#947	AnnotatorNotes T947	SO:0000162 (splice_site)
+T948	GO_BP 31841 31847	Splice
+#948	AnnotatorNotes T948	GO:0008380 (RNA splicing)
+T949	SO 31853 31861	Mutation
+#949	AnnotatorNotes T949	SO:0001059 (sequence_alteration)
+T950	GO_MF 31867 31869	RT
+#950	AnnotatorNotes T950	GO:0003964 (RNA-directed DNA polymerase activity)
+T951	GO_BP 31867 31869	RT
+#951	AnnotatorNotes T951	GO:0006410 (transcription, RNA-dependent)
+T952	independent_continuant 31867 31869	RT
+#952	AnnotatorNotes T952	independent_continuant
+T953	SO 31896 31906	transcript
+#953	AnnotatorNotes T953	SO:0000673 (transcript)
+T954	NCBITaxon 31910 31914	mice
+#954	AnnotatorNotes T954	NCBITaxon:10088 (Mus)
+T955	italic 31924 31927	lil
+#955	AnnotatorNotes T955	italic (null)
+T956	italic 31959 31962	lil
+#956	AnnotatorNotes T956	italic (null)
+T957	NCBITaxon 31963 31968	mouse
+#957	AnnotatorNotes T957	NCBITaxon:10088 (Mus)
+T958	NCBITaxon 32003 32008	mouse
+#958	AnnotatorNotes T958	NCBITaxon:10088 (Mus)
+T959	italic 32026 32030	Fog2
+#959	AnnotatorNotes T959	italic (null)
+T960	PR 32026 32030	Fog2
+#960	AnnotatorNotes T960	PR:000017653 (zinc finger protein ZFPM2)
+T961	EntrezGene 32026 32030	Fog2
+#961	AnnotatorNotes T961	EG:22762
+T962	SO 32042 32053	splice site
+#962	AnnotatorNotes T962	SO:0000162 (splice_site)
+T963	GO_BP 32042 32048	splice
+#963	AnnotatorNotes T963	GO:0008380 (RNA splicing)
+T964	SO 32054 32062	mutation
+#964	AnnotatorNotes T964	SO:0001059 (sequence_alteration)
+T965	SO 32079 32088	insertion
+#965	AnnotatorNotes T965	SO:0000046 (insert)
+T966	SO 32095 32097	bp
+#966	AnnotatorNotes T966	SO:0000028 (base_pair)
+T967	SO 32101 32118	intronic sequence
+#967	AnnotatorNotes T967	SO:0000188 (intron)
+T968	SO 32126 32132	mutant
+#968	AnnotatorNotes T968	SO:0001059 (sequence_alteration)
+T969	NCBITaxon 32133 32138	mouse
+#969	AnnotatorNotes T969	NCBITaxon:10088 (Mus)
+T970	SO 32168 32178	stop codon
+#970	AnnotatorNotes T970	SO:0000319 (stop_codon)
+T971	GO_BP 32168 32172	stop
+#971	AnnotatorNotes T971	GO:0006353 (transcription termination)
+T972	GO_BP 32168 32172	stop
+#972	AnnotatorNotes T972	GO:0006415 (translational termination)
+T973	CHEBI 32188 32192	zinc
+#973	AnnotatorNotes T973	CHEBI:27363 (zinc)
+T974	GO_BP 32200 32213	transcription
+#974	AnnotatorNotes T974	GO:0006350 (transcription)
+T975	italic 32226 32230	Fog2
+#975	AnnotatorNotes T975	italic (null)
+T976	EntrezGene 32226 32230	Fog2
+#976	AnnotatorNotes T976	EG:22762
+T977	PR 32226 32230	Fog2
+#977	AnnotatorNotes T977	PR:000017653 (zinc finger protein ZFPM2)
+T978	GO_BP 32234 32243	Expressed
+#978	AnnotatorNotes T978	GO:0010467 (gene expression)
+T979	GO_BP 32251 32261	Developing
+#979	AnnotatorNotes T979	GO:0032502 (developmental process)
+T980	italic 32282 32286	Fog2
+#980	AnnotatorNotes T980	italic (null)
+T981	EntrezGene 32282 32286	Fog2
+#981	AnnotatorNotes T981	EG:22762
+T982	PR 32282 32286	Fog2
+#982	AnnotatorNotes T982	PR:000017653 (zinc finger protein ZFPM2)
+T983	GO_BP 32290 32299	expressed
+#983	AnnotatorNotes T983	GO:0010467 (gene expression)
+T984	italic 32455 32459	Fog2
+#984	AnnotatorNotes T984	italic (null)
+T985	PR 32455 32459	Fog2
+#985	AnnotatorNotes T985	PR:000017653 (zinc finger protein ZFPM2)
+T986	EntrezGene 32455 32459	Fog2
+#986	AnnotatorNotes T986	EG:22762
+T987	GO_BP 32463 32472	expressed
+#987	AnnotatorNotes T987	GO:0010467 (gene expression)
+T988	GO_BP 32490 32500	developing
+#988	AnnotatorNotes T988	GO:0032502 (developmental process)
+T989	GO_BP 32553 32568	muscularization
+#989	AnnotatorNotes T989	GO:0007517 (muscle development)
+T990	italic 32593 32597	Fog2
+#990	AnnotatorNotes T990	italic (null)
+T991	EntrezGene 32593 32597	Fog2
+#991	AnnotatorNotes T991	EG:22762
+T992	PR 32593 32597	Fog2
+#992	AnnotatorNotes T992	PR:000017653 (zinc finger protein ZFPM2)
+T993	GO_BP 32623 32639	Lung Development
+#993	AnnotatorNotes T993	GO:0030324 (lung development)
+T994	italic 32641 32645	Fog2
+#994	AnnotatorNotes T994	italic (null)
+T995	PR 32641 32645	Fog2
+#995	AnnotatorNotes T995	PR:000017653 (zinc finger protein ZFPM2)
+T996	EntrezGene 32641 32645	Fog2
+#996	AnnotatorNotes T996	EG:22762
+T997	GO_BP 32688 32703	muscularization
+#997	AnnotatorNotes T997	GO:0007517 (muscle development)
+T998	GO_BP 32708 32713	grown
+#998	AnnotatorNotes T998	GO:0040007 (growth)
+T999	GO_BP 32746 32757	development
+#999	AnnotatorNotes T999	GO:0032502 (developmental process)
+T1000	italic 32842 32846	Fog2
+#1000	AnnotatorNotes T1000	italic (null)
+T1001	PR 32842 32846	Fog2
+#1001	AnnotatorNotes T1001	PR:000017653 (zinc finger protein ZFPM2)
+T1002	EntrezGene 32842 32846	Fog2
+#1002	AnnotatorNotes T1002	EG:22762
+T1003	GO_BP 32847 32857	Expression
+#1003	AnnotatorNotes T1003	GO:0010467 (gene expression)
+T1004	SO 32875 32881	Mutant
+#1004	AnnotatorNotes T1004	SO:0001059 (sequence_alteration)
+T1005	SO 32906 32912	mutant
+#1005	AnnotatorNotes T1005	SO:0001059 (sequence_alteration)
+T1006	italic 32920 32924	Fog2
+#1006	AnnotatorNotes T1006	italic (null)
+T1007	EntrezGene 32920 32924	Fog2
+#1007	AnnotatorNotes T1007	EG:22762
+T1008	PR 32920 32924	Fog2
+#1008	AnnotatorNotes T1008	PR:000017653 (zinc finger protein ZFPM2)
+T1009	GO_BP 32940 32949	expressed
+#1009	AnnotatorNotes T1009	GO:0010467 (gene expression)
+T1010	GO_BP 33070 33080	expression
+#1010	AnnotatorNotes T1010	GO:0010467 (gene expression)
+T1011	italic 33118 33121	HGF
+#1011	AnnotatorNotes T1011	italic (null)
+T1012	EntrezGene 33118 33121	HGF
+#1012	AnnotatorNotes T1012	EG:15234
+T1013	PR 33118 33121	HGF
+#1013	AnnotatorNotes T1013	PR:000008534 (hepatocyte growth factor)
+T1014	italic 33148 33152	Fog2
+#1014	AnnotatorNotes T1014	italic (null)
+T1015	EntrezGene 33148 33152	Fog2
+#1015	AnnotatorNotes T1015	EG:22762
+T1016	PR 33148 33152	Fog2
+#1016	AnnotatorNotes T1016	PR:000017653 (zinc finger protein ZFPM2)
+T1017	NCBITaxon 33158 33162	Mice
+#1017	AnnotatorNotes T1017	NCBITaxon:10088 (Mus)
+T1018	GO_MF 33172 33185	hybridization
+#1018	AnnotatorNotes T1018	GO:0000739 (DNA strand annealing activity)
+T1019	GO_MF 33172 33185	hybridization
+#1019	AnnotatorNotes T1019	GO:0033592 (RNA strand annealing activity)
+T1020	italic 33189 33192	HGF
+#1020	AnnotatorNotes T1020	italic (null)
+T1021	PR 33189 33192	HGF
+#1021	AnnotatorNotes T1021	PR:000008534 (hepatocyte growth factor)
+T1022	EntrezGene 33189 33192	HGF
+#1022	AnnotatorNotes T1022	EG:15234
+T1023	SO 33202 33211	wild-type
+#1023	AnnotatorNotes T1023	SO:0000817 (wild_type)
+T1024	italic 33220 33224	Fog2
+#1024	AnnotatorNotes T1024	italic (null)
+T1025	EntrezGene 33220 33224	Fog2
+#1025	AnnotatorNotes T1025	EG:22762
+T1026	PR 33220 33224	Fog2
+#1026	AnnotatorNotes T1026	PR:000017653 (zinc finger protein ZFPM2)
+T1027	sup 33224 33227	−/−
+#1027	AnnotatorNotes T1027	sup (null)
+T1028	GO_BP 33263 33273	expression
+#1028	AnnotatorNotes T1028	GO:0010467 (gene expression)
+T1029	italic 33366 33370	FOG2
+#1029	AnnotatorNotes T1029	italic (null)
+T1030	EntrezGene 33366 33370	FOG2
+#1030	AnnotatorNotes T1030	EG:23414
+T1031	PR 33366 33370	FOG2
+#1031	AnnotatorNotes T1031	PR:000017653 (zinc finger protein ZFPM2)
+T1032	SO 33371 33379	Mutation
+#1032	AnnotatorNotes T1032	SO:0001059 (sequence_alteration)
+T1033	SO 33454 33461	de novo
+#1033	AnnotatorNotes T1033	SO:0000782 (natural)
+T1034	SO 33484 33492	mutation
+#1034	AnnotatorNotes T1034	SO:0001059 (sequence_alteration)
+T1035	GO_BP 33510 33514	died
+#1035	AnnotatorNotes T1035	GO:0016265 (death)
+T1036	GO_BP 33518 33523	birth
+#1036	AnnotatorNotes T1036	GO:0007567 (parturition)
+T1037	SO 33658 33666	mutation
+#1037	AnnotatorNotes T1037	SO:0001059 (sequence_alteration)
+T1038	CHEBI 33698 33702	zinc
+#1038	AnnotatorNotes T1038	CHEBI:27363 (zinc)
+T1039	SO 33710 33717	domains
+#1039	AnnotatorNotes T1039	SO:0000417 (polypeptide_domain)
+T1040	bold 33731 33751	Competing interests.
+#1040	AnnotatorNotes T1040	bold (null)
+T1041	bold 33814 33835	Author contributions.
+#1041	AnnotatorNotes T1041	bold (null)
+T1042	CHEBI 34070 34078	reagents
+#1042	AnnotatorNotes T1042	CHEBI:33893 (reagent)
+T1043	EntrezGene 34216 34220	Fog2
+#1043	AnnotatorNotes T1043	EG:22762
+T1044	PR 34216 34220	Fog2
+#1044	AnnotatorNotes T1044	PR:000017653 (zinc finger protein ZFPM2)
+T1045	GO_BP 34258 34274	lung development
+#1045	AnnotatorNotes T1045	GO:0030324 (lung development)
+T1046	NCBITaxon 34278 34282	mice
+#1046	AnnotatorNotes T1046	NCBITaxon:10088 (Mus)
+T1047	NCBITaxon 34287 34293	humans
+#1047	AnnotatorNotes T1047	NCBITaxon:9606 (Homo sapiens)

@@ -1,0 +1,1260 @@
+T1	SO 24 35	genetically
+#1	AnnotatorNotes T1	SO:0000704 (gene)
+T2	NCBITaxon 45 49	mice
+#2	AnnotatorNotes T2	NCBITaxon:10088 (Mus)
+T3	SO 124 131	genetic
+#3	AnnotatorNotes T3	SO:0000704 (gene)
+T4	NCBITaxon 180 184	mice
+#4	AnnotatorNotes T4	NCBITaxon:10088 (Mus)
+T5	NCBITaxon 195 202	mammals
+#5	AnnotatorNotes T5	NCBITaxon:40674 (Mammalia)
+T6	SO 259 270	genetically
+#6	AnnotatorNotes T6	SO:0000704 (gene)
+T7	NCBITaxon 280 285	mouse
+#7	AnnotatorNotes T7	NCBITaxon:10088 (Mus)
+T8	SO 445 449	gene
+#8	AnnotatorNotes T8	SO:0000704 (gene)
+T9	SO 450 459	mutations
+#9	AnnotatorNotes T9	SO:0001059 (sequence_alteration)
+T10	NCBITaxon 503 508	mouse
+#10	AnnotatorNotes T10	NCBITaxon:10088 (Mus)
+T11	GO_BP 612 617	aging
+#11	AnnotatorNotes T11	GO:0007568 (aging)
+T12	GO_BP 692 706	diurnal rhythm
+#12	AnnotatorNotes T12	GO:0007623 (circadian rhythm)
+T13	SO 793 799	allele
+#13	AnnotatorNotes T13	SO:0001023 (allele)
+T14	EntrezGene 807 828	carbonic anhydrase II
+#14	AnnotatorNotes T14	EG:12349
+T15	PR 807 828	carbonic anhydrase II
+#15	AnnotatorNotes T15	PR:000004918 (carbonic anhydrase 2)
+T16	independent_continuant 807 825	carbonic anhydrase
+#16	AnnotatorNotes T16	independent_continuant
+T17	GO_MF 807 825	carbonic anhydrase
+#17	AnnotatorNotes T17	GO:0004089 (carbonate dehydratase activity)
+T18	CHEBI 807 815	carbonic
+#18	AnnotatorNotes T18	CHEBI:27594 (carbon)
+T19	SO 829 833	gene
+#19	AnnotatorNotes T19	SO:0000704 (gene)
+T20	italic 835 839	Car2
+#20	AnnotatorNotes T20	italic (null)
+T21	sup 839 840	n
+#21	AnnotatorNotes T21	sup (null)
+T22	italic 839 840	n
+#22	AnnotatorNotes T22	italic (null)
+T23	SO 886 894	mutation
+#23	AnnotatorNotes T23	SO:0001059 (sequence_alteration)
+T24	EntrezGene 902 917	leptin receptor
+#24	AnnotatorNotes T24	EG:16847
+T25	PR 902 917	leptin receptor
+#25	AnnotatorNotes T25	PR:000001875 (leptin receptor)
+T26	EntrezGene 902 908	leptin
+#26	AnnotatorNotes T26	EG:16846
+T27	PR 902 908	leptin
+#27	AnnotatorNotes T27	PR:000009758 (leptin)
+T28	GO_MF 909 917	receptor
+#28	AnnotatorNotes T28	GO:0004872 (receptor activity)
+T29	independent_continuant 909 917	receptor
+#29	AnnotatorNotes T29	independent_continuant
+T30	SO 918 922	gene
+#30	AnnotatorNotes T30	SO:0000704 (gene)
+T31	italic 924 928	Lepr
+#31	AnnotatorNotes T31	italic (null)
+T32	sup 928 930	db
+#32	AnnotatorNotes T32	sup (null)
+T33	italic 928 930	db
+#33	AnnotatorNotes T33	italic (null)
+T34	NCBITaxon 1007 1011	mice
+#34	AnnotatorNotes T34	NCBITaxon:10088 (Mus)
+T35	EntrezGene 1029 1039	tyrosinase
+#35	AnnotatorNotes T35	EG:22173
+T36	PR 1029 1039	tyrosinase
+#36	AnnotatorNotes T36	PR:000016877 (tyrosinase)
+T37	SO 1040 1048	mutation
+#37	AnnotatorNotes T37	SO:0001059 (sequence_alteration)
+T38	italic 1050 1053	Tyr
+#38	AnnotatorNotes T38	italic (null)
+T39	sup 1053 1057	c-2J
+#39	AnnotatorNotes T39	sup (null)
+T40	italic 1053 1054	c
+#40	AnnotatorNotes T40	italic (null)
+T41	italic 1056 1057	J
+#41	AnnotatorNotes T41	italic (null)
+T42	CHEBI 1087 1096	pigmented
+#42	AnnotatorNotes T42	CHEBI:26130 (pigment)
+T43	SO 1125 1136	Genetically
+#43	AnnotatorNotes T43	SO:0000704 (gene)
+T44	NCBITaxon 1146 1151	mouse
+#44	AnnotatorNotes T44	NCBITaxon:10088 (Mus)
+T45	SO 1271 1278	genetic
+#45	AnnotatorNotes T45	SO:0000704 (gene)
+T46	GO_BP 1340 1350	regulation
+#46	AnnotatorNotes T46	GO:0065007 (biological regulation)
+T47	NCBITaxon 1414 1419	mouse
+#47	AnnotatorNotes T47	NCBITaxon:10088 (Mus)
+T48	NCBITaxon 1444 1450	humans
+#48	AnnotatorNotes T48	NCBITaxon:9606 (Homo sapiens)
+T49	taxonomic_rank 1461 1468	species
+#49	AnnotatorNotes T49	species (null)
+T50	SO 1470 1479	Mutations
+#50	AnnotatorNotes T50	SO:0001059 (sequence_alteration)
+T51	SO 1513 1518	genes
+#51	AnnotatorNotes T51	SO:0000704 (gene)
+T52	italic 1520 1524	Lepr
+#52	AnnotatorNotes T52	italic (null)
+T53	EntrezGene 1520 1524	Lepr
+#53	AnnotatorNotes T53	EG:16847
+T54	PR 1520 1524	Lepr
+#54	AnnotatorNotes T54	PR:000001875 (leptin receptor)
+T55	italic 1529 1532	Tyr
+#55	AnnotatorNotes T55	italic (null)
+T56	EntrezGene 1529 1532	Tyr
+#56	AnnotatorNotes T56	EG:22173
+T57	PR 1529 1532	Tyr
+#57	AnnotatorNotes T57	PR:000016877 (tyrosinase)
+T58	NCBITaxon 1590 1594	mice
+#58	AnnotatorNotes T58	NCBITaxon:10088 (Mus)
+T59	GO_BP 1673 1683	regulation
+#59	AnnotatorNotes T59	GO:0065007 (biological regulation)
+T60	CHEBI 1802 1811	molecular
+#60	AnnotatorNotes T60	CHEBI:36357 (polyatomic entities)
+T61	CL 1861 1882	retinal ganglion cell
+#61	AnnotatorNotes T61	CL:0000740 (retinal ganglion cell)
+T62	GO_BP 1878 1888	cell death
+#62	AnnotatorNotes T62	GO:0008219 (cell death)
+T63	GO_CC 1878 1882	cell
+#63	AnnotatorNotes T63	GO:0005623 (cell)
+T64	SO 2055 2062	genetic
+#64	AnnotatorNotes T64	SO:0000704 (gene)
+T65	SO 2132 2151	chromosomal regions
+#65	AnnotatorNotes T65	SO:0000830 (chromosome_part)
+T66	GO_CC 2132 2143	chromosomal
+#66	AnnotatorNotes T66	GO:0005694 (chromosome)
+T67	SO 2132 2143	chromosomal
+#67	AnnotatorNotes T67	SO:0000340 (chromosome)
+T68	SO 2156 2161	genes
+#68	AnnotatorNotes T68	SO:0000704 (gene)
+T69	SO 2215 2219	loci
+#69	AnnotatorNotes T69	SO:0000001 (region)
+T70	NCBITaxon 2241 2252	individuals
+#70	AnnotatorNotes T70	NCBITaxon:1 (root)
+T71	SO 2317 2322	genes
+#71	AnnotatorNotes T71	SO:0000704 (gene)
+T72	NCBITaxon 2402 2408	animal
+#72	AnnotatorNotes T72	NCBITaxon:33208 (Metazoa)
+T73	NCBITaxon 2540 2549	mammalian
+#73	AnnotatorNotes T73	NCBITaxon:40674 (Mammalia)
+T74	NCBITaxon 2587 2592	mouse
+#74	AnnotatorNotes T74	NCBITaxon:10088 (Mus)
+T75	NCBITaxon 2603 2607	mice
+#75	AnnotatorNotes T75	NCBITaxon:10088 (Mus)
+T76	SO 2712 2717	genes
+#76	AnnotatorNotes T76	SO:0000704 (gene)
+T77	NCBITaxon 2756 2761	human
+#77	AnnotatorNotes T77	NCBITaxon:9606 (Homo sapiens)
+T78	SO 2762 2768	genome
+#78	AnnotatorNotes T78	SO:0001026 (genome)
+T79	NCBITaxon 2809 2814	mouse
+#79	AnnotatorNotes T79	NCBITaxon:10088 (Mus)
+T80	NCBITaxon 2860 2864	Mice
+#80	AnnotatorNotes T80	NCBITaxon:10088 (Mus)
+T81	SO 2920 2925	genes
+#81	AnnotatorNotes T81	SO:0000704 (gene)
+T82	NCBITaxon 3098 3103	mouse
+#82	AnnotatorNotes T82	NCBITaxon:10088 (Mus)
+T83	NCBITaxon 3134 3138	mice
+#83	AnnotatorNotes T83	NCBITaxon:10088 (Mus)
+T84	NCBITaxon 3219 3223	mice
+#84	AnnotatorNotes T84	NCBITaxon:10088 (Mus)
+T85	NCBITaxon 3274 3279	mouse
+#85	AnnotatorNotes T85	NCBITaxon:10088 (Mus)
+T86	NCBITaxon 3628 3633	mouse
+#86	AnnotatorNotes T86	NCBITaxon:10088 (Mus)
+T87	NCBITaxon 3915 3920	mouse
+#87	AnnotatorNotes T87	NCBITaxon:10088 (Mus)
+T88	bold 4290 4365	An almost two-fold range of IOP between genetically distinct mouse strains.
+#88	AnnotatorNotes T88	bold (null)
+T89	SO 4330 4341	genetically
+#89	AnnotatorNotes T89	SO:0000704 (gene)
+T90	NCBITaxon 4351 4356	mouse
+#90	AnnotatorNotes T90	NCBITaxon:10088 (Mus)
+T91	NCBITaxon 4420 4424	mice
+#91	AnnotatorNotes T91	NCBITaxon:10088 (Mus)
+T92	NCBITaxon 4499 4503	mice
+#92	AnnotatorNotes T92	NCBITaxon:10088 (Mus)
+T93	NCBITaxon 4506 4510	Mice
+#93	AnnotatorNotes T93	NCBITaxon:10088 (Mus)
+T94	NCBITaxon 4671 4675	mice
+#94	AnnotatorNotes T94	NCBITaxon:10088 (Mus)
+T95	NCBITaxon 4728 4732	mice
+#95	AnnotatorNotes T95	NCBITaxon:10088 (Mus)
+T96	italic 4795 4798	Btk
+#96	AnnotatorNotes T96	italic (null)
+T97	sup 4798 4801	xid
+#97	AnnotatorNotes T97	sup (null)
+T98	italic 4798 4801	xid
+#98	AnnotatorNotes T98	italic (null)
+T99	NCBITaxon 5175 5179	mice
+#99	AnnotatorNotes T99	NCBITaxon:10088 (Mus)
+T100	NCBITaxon 5217 5221	mice
+#100	AnnotatorNotes T100	NCBITaxon:10088 (Mus)
+T101	NCBITaxon 5285 5291	humans
+#101	AnnotatorNotes T101	NCBITaxon:9606 (Homo sapiens)
+T102	NCBITaxon 5324 5328	mice
+#102	AnnotatorNotes T102	NCBITaxon:10088 (Mus)
+T103	bold 5453 5513	Normal iridocorneal angles in strains with high and low IOP.
+#103	AnnotatorNotes T103	bold (null)
+T104	bold 5684 5685	A
+#104	AnnotatorNotes T104	bold (null)
+T105	bold 5707 5708	B
+#105	AnnotatorNotes T105	bold (null)
+T106	CHEBI 5742 5749	Pigment
+#106	AnnotatorNotes T106	CHEBI:26130 (pigment)
+T107	CL 5757 5768	macrophages
+#107	AnnotatorNotes T107	CL:0000235 (macrophage)
+T108	NCBITaxon 5783 5788	human
+#108	AnnotatorNotes T108	NCBITaxon:9606 (Homo sapiens)
+T109	CL 5795 5800	cells
+#109	AnnotatorNotes T109	CL:0000000 (cell)
+T110	GO_CC 5795 5800	cells
+#110	AnnotatorNotes T110	GO:0005623 (cell)
+T111	NCBITaxon 5844 5848	mice
+#111	AnnotatorNotes T111	NCBITaxon:10088 (Mus)
+T112	CL 5939 5944	cells
+#112	AnnotatorNotes T112	CL:0000000 (cell)
+T113	GO_CC 5939 5944	cells
+#113	AnnotatorNotes T113	GO:0005623 (cell)
+T114	GO_BP 6094 6100	passes
+#114	AnnotatorNotes T114	GO:0051234 (establishment of localization)
+T115	NCBITaxon 6387 6391	mice
+#115	AnnotatorNotes T115	NCBITaxon:10088 (Mus)
+T116	NCBITaxon 6470 6474	mice
+#116	AnnotatorNotes T116	NCBITaxon:10088 (Mus)
+T117	italic 6919 6924	Pde6b
+#117	AnnotatorNotes T117	italic (null)
+T118	sup 6924 6927	rd1
+#118	AnnotatorNotes T118	sup (null)
+T119	italic 6924 6926	rd
+#119	AnnotatorNotes T119	italic (null)
+T120	SO 7330 7337	genetic
+#120	AnnotatorNotes T120	SO:0000704 (gene)
+T121	NCBITaxon 7580 7584	mice
+#121	AnnotatorNotes T121	NCBITaxon:10088 (Mus)
+T122	bold 7826 7894	The IOPs of different strains are stable and reproducible over time.
+#122	AnnotatorNotes T122	bold (null)
+T123	NCBITaxon 8288 8292	mice
+#123	AnnotatorNotes T123	NCBITaxon:10088 (Mus)
+T124	NCBITaxon 8590 8594	mice
+#124	AnnotatorNotes T124	NCBITaxon:10088 (Mus)
+T125	italic 8715 8718	Btk
+#125	AnnotatorNotes T125	italic (null)
+T126	sup 8718 8721	xid
+#126	AnnotatorNotes T126	sup (null)
+T127	italic 8718 8721	xid
+#127	AnnotatorNotes T127	italic (null)
+T128	NCBITaxon 8885 8889	mice
+#128	AnnotatorNotes T128	NCBITaxon:10088 (Mus)
+T129	NCBITaxon 9151 9158	animals
+#129	AnnotatorNotes T129	NCBITaxon:33208 (Metazoa)
+T130	NCBITaxon 9199 9204	mouse
+#130	AnnotatorNotes T130	NCBITaxon:10088 (Mus)
+T131	NCBITaxon 9436 9440	mice
+#131	AnnotatorNotes T131	NCBITaxon:10088 (Mus)
+T132	NCBITaxon 10175 10179	mice
+#132	AnnotatorNotes T132	NCBITaxon:10088 (Mus)
+T133	NCBITaxon 10222 10226	mice
+#133	AnnotatorNotes T133	NCBITaxon:10088 (Mus)
+T134	NCBITaxon 10336 10340	mice
+#134	AnnotatorNotes T134	NCBITaxon:10088 (Mus)
+T135	NCBITaxon 10561 10565	mice
+#135	AnnotatorNotes T135	NCBITaxon:10088 (Mus)
+T136	bold 10704 10736	IOP changes with increasing Age.
+#136	AnnotatorNotes T136	bold (null)
+T137	NCBITaxon 11003 11007	mice
+#137	AnnotatorNotes T137	NCBITaxon:10088 (Mus)
+T138	NCBITaxon 11089 11093	mice
+#138	AnnotatorNotes T138	NCBITaxon:10088 (Mus)
+T139	NCBITaxon 11358 11362	mice
+#139	AnnotatorNotes T139	NCBITaxon:10088 (Mus)
+T140	NCBITaxon 11514 11518	mice
+#140	AnnotatorNotes T140	NCBITaxon:10088 (Mus)
+T141	NCBITaxon 12651 12655	mice
+#141	AnnotatorNotes T141	NCBITaxon:10088 (Mus)
+T142	CHEBI 12861 12871	anesthetic
+#142	AnnotatorNotes T142	CHEBI:38867 (anaesthetic)
+T143	NCBITaxon 13160 13165	mouse
+#143	AnnotatorNotes T143	NCBITaxon:10088 (Mus)
+T144	SO 13282 13293	genetically
+#144	AnnotatorNotes T144	SO:0000704 (gene)
+T145	NCBITaxon 13307 13311	mice
+#145	AnnotatorNotes T145	NCBITaxon:10088 (Mus)
+T146	NCBITaxon 13778 13782	mice
+#146	AnnotatorNotes T146	NCBITaxon:10088 (Mus)
+T147	NCBITaxon 14194 14198	mice
+#147	AnnotatorNotes T147	NCBITaxon:10088 (Mus)
+T148	GO_BP 14342 14359	diurnal variation
+#148	AnnotatorNotes T148	GO:0007623 (circadian rhythm)
+T149	bold 14617 14685	No effect of 1X anesthetic dose within 12 minutes of administration.
+#149	AnnotatorNotes T149	bold (null)
+T150	CHEBI 14633 14643	anesthetic
+#150	AnnotatorNotes T150	CHEBI:38867 (anaesthetic)
+T151	bold 14686 14687	A
+#151	AnnotatorNotes T151	bold (null)
+T152	NCBITaxon 14724 14728	mice
+#152	AnnotatorNotes T152	NCBITaxon:10088 (Mus)
+T153	CHEBI 14790 14800	anesthetic
+#153	AnnotatorNotes T153	CHEBI:38867 (anaesthetic)
+T154	NCBITaxon 15054 15058	mice
+#154	AnnotatorNotes T154	NCBITaxon:10088 (Mus)
+T155	bold 15095 15099	B-D.
+#155	AnnotatorNotes T155	bold (null)
+T156	CHEBI 15175 15185	anesthetic
+#156	AnnotatorNotes T156	CHEBI:38867 (anaesthetic)
+T157	NCBITaxon 15231 15236	mouse
+#157	AnnotatorNotes T157	NCBITaxon:10088 (Mus)
+T158	NCBITaxon 15459 15463	mice
+#158	AnnotatorNotes T158	NCBITaxon:10088 (Mus)
+T159	bold 15476 15554	IOP is increased during the dark compared to light periods in several strains.
+#159	AnnotatorNotes T159	bold (null)
+T160	NCBITaxon 15696 15700	mice
+#160	AnnotatorNotes T160	NCBITaxon:10088 (Mus)
+T161	NCBITaxon 15788 15792	mice
+#161	AnnotatorNotes T161	NCBITaxon:10088 (Mus)
+T162	NCBITaxon 15918 15922	mice
+#162	AnnotatorNotes T162	NCBITaxon:10088 (Mus)
+T163	NCBITaxon 16235 16239	mice
+#163	AnnotatorNotes T163	NCBITaxon:10088 (Mus)
+T164	sup 16276 16277	2
+#164	AnnotatorNotes T164	sup (null)
+T165	bold 16307 16353	No correlation between blood pressure and IOP.
+#165	AnnotatorNotes T165	bold (null)
+T166	sup 16482 16483	2
+#166	AnnotatorNotes T166	sup (null)
+T167	NCBITaxon 16496 16500	mice
+#167	AnnotatorNotes T167	NCBITaxon:10088 (Mus)
+T168	NCBITaxon 16642 16646	mice
+#168	AnnotatorNotes T168	NCBITaxon:10088 (Mus)
+T169	sup 16662 16663	2
+#169	AnnotatorNotes T169	sup (null)
+T170	italic 16742 16746	Myoc
+#170	AnnotatorNotes T170	italic (null)
+T171	EntrezGene 16742 16746	Myoc
+#171	AnnotatorNotes T171	EG:17926
+T172	PR 16742 16746	Myoc
+#172	AnnotatorNotes T172	PR:000010873 (myocilin)
+T173	SO 16747 16754	alleles
+#173	AnnotatorNotes T173	SO:0001023 (allele)
+T174	SO 16799 16808	Mutations
+#174	AnnotatorNotes T174	SO:0001059 (sequence_alteration)
+T175	EntrezGene 16816 16824	myocilin
+#175	AnnotatorNotes T175	EG:4653
+T176	PR 16816 16824	myocilin
+#176	AnnotatorNotes T176	PR:000010873 (myocilin)
+T177	SO 16825 16829	gene
+#177	AnnotatorNotes T177	SO:0000704 (gene)
+T178	italic 16831 16835	MYOC
+#178	AnnotatorNotes T178	italic (null)
+T179	EntrezGene 16831 16835	MYOC
+#179	AnnotatorNotes T179	EG:4653
+T180	PR 16831 16835	MYOC
+#180	AnnotatorNotes T180	PR:000010873 (myocilin)
+T181	NCBITaxon 16843 16848	human
+#181	AnnotatorNotes T181	NCBITaxon:9606 (Homo sapiens)
+T182	SO 16875 16882	allelic
+#182	AnnotatorNotes T182	SO:0001023 (allele)
+T183	EntrezGene 16900 16910	mouse Myoc
+#183	AnnotatorNotes T183	EG:17926
+T184	NCBITaxon 16900 16905	mouse
+#184	AnnotatorNotes T184	NCBITaxon:10088 (Mus)
+T185	italic 16906 16910	Myoc
+#185	AnnotatorNotes T185	italic (null)
+T186	PR 16906 16910	Myoc
+#186	AnnotatorNotes T186	PR:000010873 (myocilin)
+T187	SO 16911 16915	gene
+#187	AnnotatorNotes T187	SO:0000704 (gene)
+T188	NCBITaxon 16939 16944	mouse
+#188	AnnotatorNotes T188	NCBITaxon:10088 (Mus)
+T189	SO 16970 16974	gene
+#189	AnnotatorNotes T189	SO:0000704 (gene)
+T190	SO 17028 17035	alleles
+#190	AnnotatorNotes T190	SO:0001023 (allele)
+T191	SO 17066 17073	alleles
+#191	AnnotatorNotes T191	SO:0001023 (allele)
+T192	SO 17083 17103	nucleotide insertion
+#192	AnnotatorNotes T192	SO:1000034 (nucleotide_insertion)
+T193	CHEBI 17083 17093	nucleotide
+#193	AnnotatorNotes T193	CHEBI:25613 (nucleotidyl groups)
+T194	SO 17083 17093	nucleotide
+#194	AnnotatorNotes T194	SO:0000348 (nucleic_acid)
+T195	SO 17111 17119	promoter
+#195	AnnotatorNotes T195	SO:0000167 (promoter)
+T196	SO 17120 17126	region
+#196	AnnotatorNotes T196	SO:0000001 (region)
+T197	SO 17212 17220	sequence
+#197	AnnotatorNotes T197	SO:0000001 (region)
+T198	SO 17239 17248	insertion
+#198	AnnotatorNotes T198	SO:0000667 (insertion)
+T199	SO 17249 17255	allele
+#199	AnnotatorNotes T199	SO:0001023 (allele)
+T200	SO 17267 17273	allele
+#200	AnnotatorNotes T200	SO:0001023 (allele)
+T201	SO 17305 17313	sequence
+#201	AnnotatorNotes T201	SO:0000001 (region)
+T202	SO 17324 17333	insertion
+#202	AnnotatorNotes T202	SO:0000667 (insertion)
+T203	SO 17334 17340	allele
+#203	AnnotatorNotes T203	SO:0001023 (allele)
+T204	SO 17372 17384	substitution
+#204	AnnotatorNotes T204	SO:1000002 (substitution)
+T205	SO 17386 17392	A to G
+#205	AnnotatorNotes T205	SO:1000015 (A_to_G_transition)
+T206	CHEBI 17386 17387	A
+#206	AnnotatorNotes T206	CHEBI:30756 (adenine group)
+T207	CHEBI 17391 17392	G
+#207	AnnotatorNotes T207	CHEBI:30755 (guanine group)
+T208	SO 17408 17412	exon
+#208	AnnotatorNotes T208	SO:0000147 (exon)
+T209	SO 17433 17452	single base changes
+#209	AnnotatorNotes T209	SO:1000008 (point_mutation)
+T210	SO 17440 17444	base
+#210	AnnotatorNotes T210	SO:0001236 (base)
+T211	SO 17460 17468	promoter
+#211	AnnotatorNotes T211	SO:0000167 (promoter)
+T212	SO 17469 17475	region
+#212	AnnotatorNotes T212	SO:0000001 (region)
+T213	SO 17514 17520	allele
+#213	AnnotatorNotes T213	SO:0001023 (allele)
+T214	bold 17621 17660	Myoc alleles do not associate with IOP.
+#214	AnnotatorNotes T214	bold (null)
+T215	italic 17621 17625	Myoc
+#215	AnnotatorNotes T215	italic (null)
+T216	PR 17621 17625	Myoc
+#216	AnnotatorNotes T216	PR:000010873 (myocilin)
+T217	EntrezGene 17621 17625	Myoc
+#217	AnnotatorNotes T217	EG:17926
+T218	SO 17626 17633	alleles
+#218	AnnotatorNotes T218	SO:0001023 (allele)
+T219	SO 17688 17695	alleles
+#219	AnnotatorNotes T219	SO:0001023 (allele)
+T220	italic 17699 17703	Myoc
+#220	AnnotatorNotes T220	italic (null)
+T221	EntrezGene 17699 17703	Myoc
+#221	AnnotatorNotes T221	EG:17926
+T222	PR 17699 17703	Myoc
+#222	AnnotatorNotes T222	PR:000010873 (myocilin)
+T223	NCBITaxon 17713 17718	mouse
+#223	AnnotatorNotes T223	NCBITaxon:10088 (Mus)
+T224	NCBITaxon 17739 17744	Mouse
+#224	AnnotatorNotes T224	NCBITaxon:10088 (Mus)
+T225	SO 17771 17777	allele
+#225	AnnotatorNotes T225	SO:0001023 (allele)
+T226	SO 17790 17792	bp
+#226	AnnotatorNotes T226	SO:0000028 (base_pair)
+T227	SO 17793 17802	insertion
+#227	AnnotatorNotes T227	SO:0000667 (insertion)
+T228	SO 17810 17818	promoter
+#228	AnnotatorNotes T228	SO:0000167 (promoter)
+T229	SO 17819 17825	region
+#229	AnnotatorNotes T229	SO:0000001 (region)
+T230	SO 17880 17886	allele
+#230	AnnotatorNotes T230	SO:0001023 (allele)
+T231	SO 17900 17909	insertion
+#231	AnnotatorNotes T231	SO:0000667 (insertion)
+T232	SO 17975 17982	Genetic
+#232	AnnotatorNotes T232	SO:0000704 (gene)
+T233	SO 17983 17994	alterations
+#233	AnnotatorNotes T233	SO:0001059 (sequence_alteration)
+T234	GO_CC 18004 18016	Y Chromosome
+#234	AnnotatorNotes T234	GO:0000806 (Y chromosome)
+T235	SO 18006 18016	Chromosome
+#235	AnnotatorNotes T235	SO:0000340 (chromosome)
+T236	GO_CC 18022 18034	Y chromosome
+#236	AnnotatorNotes T236	GO:0000806 (Y chromosome)
+T237	SO 18024 18034	chromosome
+#237	AnnotatorNotes T237	SO:0000340 (chromosome)
+T238	NCBITaxon 18104 18108	rats
+#238	AnnotatorNotes T238	NCBITaxon:10114 (Rattus)
+T239	GO_CC 18133 18145	Y chromosome
+#239	AnnotatorNotes T239	GO:0000806 (Y chromosome)
+T240	SO 18135 18145	chromosome
+#240	AnnotatorNotes T240	SO:0000340 (chromosome)
+T241	GO_CC 18292 18304	Y chromosome
+#241	AnnotatorNotes T241	GO:0000806 (Y chromosome)
+T242	SO 18294 18304	chromosome
+#242	AnnotatorNotes T242	SO:0000340 (chromosome)
+T243	NCBITaxon 18399 18403	mice
+#243	AnnotatorNotes T243	NCBITaxon:10088 (Mus)
+T244	bold 18436 18467	Effects of genetic alterations.
+#244	AnnotatorNotes T244	bold (null)
+T245	SO 18447 18454	genetic
+#245	AnnotatorNotes T245	SO:0000704 (gene)
+T246	SO 18455 18466	alterations
+#246	AnnotatorNotes T246	SO:0001059 (sequence_alteration)
+T247	GO_CC 18611 18623	Y chromosome
+#247	AnnotatorNotes T247	GO:0000806 (Y chromosome)
+T248	SO 18613 18623	chromosome
+#248	AnnotatorNotes T248	SO:0000340 (chromosome)
+T249	GO_CC 18625 18630	Y Chr
+#249	AnnotatorNotes T249	GO:0000806 (Y chromosome)
+T250	SO 18627 18630	Chr
+#250	AnnotatorNotes T250	SO:0000340 (chromosome)
+T251	GO_CC 18641 18646	Y Chr
+#251	AnnotatorNotes T251	GO:0000806 (Y chromosome)
+T252	SO 18643 18646	Chr
+#252	AnnotatorNotes T252	SO:0000340 (chromosome)
+T253	italic 18785 18786	+
+#253	AnnotatorNotes T253	italic (null)
+T254	SO 18791 18797	mutant
+#254	AnnotatorNotes T254	SO:0001059 (sequence_alteration)
+T255	italic 18799 18800	n
+#255	AnnotatorNotes T255	italic (null)
+T256	SO 18799 18800	n
+#256	AnnotatorNotes T256	SO:0001059 (sequence_alteration)
+T257	SO 18802 18809	alleles
+#257	AnnotatorNotes T257	SO:0001023 (allele)
+T258	italic 18813 18817	Car2
+#258	AnnotatorNotes T258	italic (null)
+T259	EntrezGene 18813 18817	Car2
+#259	AnnotatorNotes T259	EG:12349
+T260	PR 18813 18817	Car2
+#260	AnnotatorNotes T260	PR:000004918 (carbonic anhydrase 2)
+T261	italic 18914 18918	Lepr
+#261	AnnotatorNotes T261	italic (null)
+T262	PR 18914 18918	Lepr
+#262	AnnotatorNotes T262	PR:000001875 (leptin receptor)
+T263	EntrezGene 18914 18918	Lepr
+#263	AnnotatorNotes T263	EG:16847
+T264	SO 18948 18956	mutation
+#264	AnnotatorNotes T264	SO:0001059 (sequence_alteration)
+T265	italic 18958 18960	db
+#265	AnnotatorNotes T265	italic (null)
+T266	italic 19202 19204	db
+#266	AnnotatorNotes T266	italic (null)
+T267	italic 19206 19208	db
+#267	AnnotatorNotes T267	italic (null)
+T268	SO 19387 19395	genotype
+#268	AnnotatorNotes T268	SO:0001027 (genotype)
+T269	italic 19408 19413	db/db
+#269	AnnotatorNotes T269	italic (null)
+T270	italic 19432 19436	db/+
+#270	AnnotatorNotes T270	italic (null)
+T271	SO 19435 19436	+
+#271	AnnotatorNotes T271	SO:0000817 (wild_type)
+T272	EntrezGene 19521 19525	Car2
+#272	AnnotatorNotes T272	EG:12349
+T273	PR 19521 19525	Car2
+#273	AnnotatorNotes T273	PR:000004918 (carbonic anhydrase 2)
+T274	EntrezGene 19552 19573	carbonic anhydrase II
+#274	AnnotatorNotes T274	EG:12349
+T275	PR 19552 19573	carbonic anhydrase II
+#275	AnnotatorNotes T275	PR:000004918 (carbonic anhydrase 2)
+T276	GO_MF 19552 19570	carbonic anhydrase
+#276	AnnotatorNotes T276	GO:0004089 (carbonate dehydratase activity)
+T277	independent_continuant 19552 19570	carbonic anhydrase
+#277	AnnotatorNotes T277	independent_continuant
+T278	CHEBI 19552 19560	carbonic
+#278	AnnotatorNotes T278	CHEBI:27594 (carbon)
+T279	NCBITaxon 19610 19614	mice
+#279	AnnotatorNotes T279	NCBITaxon:10088 (Mus)
+T280	SO 19644 19655	genetically
+#280	AnnotatorNotes T280	SO:0000704 (gene)
+T281	SO 19683 19689	mutant
+#281	AnnotatorNotes T281	SO:0001059 (sequence_alteration)
+T282	SO 19690 19697	alleles
+#282	AnnotatorNotes T282	SO:0001023 (allele)
+T283	italic 19705 19709	Car2
+#283	AnnotatorNotes T283	italic (null)
+T284	EntrezGene 19705 19709	Car2
+#284	AnnotatorNotes T284	EG:12349
+T285	PR 19705 19709	Car2
+#285	AnnotatorNotes T285	PR:000004918 (carbonic anhydrase 2)
+T286	SO 19710 19714	gene
+#286	AnnotatorNotes T286	SO:0000704 (gene)
+T287	SO 19774 19780	mutant
+#287	AnnotatorNotes T287	SO:0001059 (sequence_alteration)
+T288	NCBITaxon 19781 19785	mice
+#288	AnnotatorNotes T288	NCBITaxon:10088 (Mus)
+T289	EntrezGene 19808 19812	Lepr
+#289	AnnotatorNotes T289	EG:16847
+T290	PR 19808 19812	Lepr
+#290	AnnotatorNotes T290	PR:000001875 (leptin receptor)
+T291	SO 19825 19832	genetic
+#291	AnnotatorNotes T291	SO:0000704 (gene)
+T292	NCBITaxon 19906 19910	mice
+#292	AnnotatorNotes T292	NCBITaxon:10088 (Mus)
+T293	SO 19921 19932	genetically
+#293	AnnotatorNotes T293	SO:0000704 (gene)
+T294	EntrezGene 19990 20005	leptin receptor
+#294	AnnotatorNotes T294	EG:16847
+T295	PR 19990 20005	leptin receptor
+#295	AnnotatorNotes T295	PR:000001875 (leptin receptor)
+T296	EntrezGene 19990 19996	leptin
+#296	AnnotatorNotes T296	EG:16846
+T297	PR 19990 19996	leptin
+#297	AnnotatorNotes T297	PR:000009758 (leptin)
+T298	GO_MF 19997 20005	receptor
+#298	AnnotatorNotes T298	GO:0004872 (receptor activity)
+T299	independent_continuant 19997 20005	receptor
+#299	AnnotatorNotes T299	independent_continuant
+T300	SO 20006 20014	mutation
+#300	AnnotatorNotes T300	SO:0001059 (sequence_alteration)
+T301	italic 20016 20018	db
+#301	AnnotatorNotes T301	italic (null)
+T302	SO 20200 20207	mutants
+#302	AnnotatorNotes T302	SO:0001059 (sequence_alteration)
+T303	independent_continuant 20200 20207	mutants
+#303	AnnotatorNotes T303	independent_continuant
+T304	EntrezGene 20316 20319	Tyr
+#304	AnnotatorNotes T304	EG:22173
+T305	PR 20316 20319	Tyr
+#305	AnnotatorNotes T305	PR:000016877 (tyrosinase)
+T306	NCBITaxon 20373 20377	mice
+#306	AnnotatorNotes T306	NCBITaxon:10088 (Mus)
+T307	CHEBI 20395 20404	pigmented
+#307	AnnotatorNotes T307	CHEBI:26130 (pigment)
+T308	NCBITaxon 20427 20431	mice
+#308	AnnotatorNotes T308	NCBITaxon:10088 (Mus)
+T309	SO 20469 20475	mutant
+#309	AnnotatorNotes T309	SO:0001059 (sequence_alteration)
+T310	SO 20476 20482	allele
+#310	AnnotatorNotes T310	SO:0001023 (allele)
+T311	EntrezGene 20486 20496	tyrosinase
+#311	AnnotatorNotes T311	EG:22173
+T312	PR 20486 20496	tyrosinase
+#312	AnnotatorNotes T312	PR:000016877 (tyrosinase)
+T313	italic 20498 20501	Tyr
+#313	AnnotatorNotes T313	italic (null)
+T314	sup 20501 20505	c-2J
+#314	AnnotatorNotes T314	sup (null)
+T315	italic 20501 20502	c
+#315	AnnotatorNotes T315	italic (null)
+T316	italic 20504 20505	J
+#316	AnnotatorNotes T316	italic (null)
+T317	GO_BP 20512 20517	arose
+#317	AnnotatorNotes T317	GO:0009058 (biosynthetic process)
+T318	CHEBI 20535 20544	pigmented
+#318	AnnotatorNotes T318	CHEBI:26130 (pigment)
+T319	NCBITaxon 20575 20579	mice
+#319	AnnotatorNotes T319	NCBITaxon:10088 (Mus)
+T320	italic 20598 20601	Tyr
+#320	AnnotatorNotes T320	italic (null)
+T321	sup 20601 20605	c-2J
+#321	AnnotatorNotes T321	sup (null)
+T322	italic 20601 20602	c
+#322	AnnotatorNotes T322	italic (null)
+T323	italic 20604 20605	J
+#323	AnnotatorNotes T323	italic (null)
+T324	SO 20662 20671	wild type
+#324	AnnotatorNotes T324	SO:0000817 (wild_type)
+T325	CHEBI 20673 20682	pigmented
+#325	AnnotatorNotes T325	CHEBI:26130 (pigment)
+T326	NCBITaxon 20683 20687	mice
+#326	AnnotatorNotes T326	NCBITaxon:10088 (Mus)
+T327	NCBITaxon 20764 20768	mice
+#327	AnnotatorNotes T327	NCBITaxon:10088 (Mus)
+T328	CHEBI 20854 20863	pigmented
+#328	AnnotatorNotes T328	CHEBI:26130 (pigment)
+T329	NCBITaxon 20867 20871	mice
+#329	AnnotatorNotes T329	NCBITaxon:10088 (Mus)
+T330	NCBITaxon 20910 20914	mice
+#330	AnnotatorNotes T330	NCBITaxon:10088 (Mus)
+T331	bold 21036 21101	Tyr mutation results in increased IOP and altered diurnal changes
+#331	AnnotatorNotes T331	bold (null)
+T332	EntrezGene 21036 21039	Tyr
+#332	AnnotatorNotes T332	EG:22173
+T333	PR 21036 21039	Tyr
+#333	AnnotatorNotes T333	PR:000016877 (tyrosinase)
+T334	SO 21040 21048	mutation
+#334	AnnotatorNotes T334	SO:0000041 (sequence_operation)
+T335	GO_BP 21086 21101	diurnal changes
+#335	AnnotatorNotes T335	GO:0007623 (circadian rhythm)
+T336	bold 21102 21104	A.
+#336	AnnotatorNotes T336	bold (null)
+T337	NCBITaxon 21135 21139	mice
+#337	AnnotatorNotes T337	NCBITaxon:10088 (Mus)
+T338	italic 21180 21183	Tyr
+#338	AnnotatorNotes T338	italic (null)
+T339	sup 21183 21187	c-2J
+#339	AnnotatorNotes T339	sup (null)
+T340	italic 21183 21187	c-2J
+#340	AnnotatorNotes T340	italic (null)
+T341	SO 21188 21196	mutation
+#341	AnnotatorNotes T341	SO:0001059 (sequence_alteration)
+T342	NCBITaxon 21304 21308	mice
+#342	AnnotatorNotes T342	NCBITaxon:10088 (Mus)
+T343	bold 21310 21312	B.
+#343	AnnotatorNotes T343	bold (null)
+T344	italic 21371 21374	Tyr
+#344	AnnotatorNotes T344	italic (null)
+T345	sup 21374 21378	c-2J
+#345	AnnotatorNotes T345	sup (null)
+T346	italic 21374 21378	c-2J
+#346	AnnotatorNotes T346	italic (null)
+T347	NCBITaxon 21406 21410	mice
+#347	AnnotatorNotes T347	NCBITaxon:10088 (Mus)
+T348	SO 21462 21463	+
+#348	AnnotatorNotes T348	SO:0000817 (wild_type)
+T349	SO 21464 21465	+
+#349	AnnotatorNotes T349	SO:0000817 (wild_type)
+T350	SO 21493 21494	+
+#350	AnnotatorNotes T350	SO:0000817 (wild_type)
+T351	SO 21495 21496	+
+#351	AnnotatorNotes T351	SO:0000817 (wild_type)
+T352	SO 21527 21528	+
+#352	AnnotatorNotes T352	SO:0000817 (wild_type)
+T353	SO 21529 21530	+
+#353	AnnotatorNotes T353	SO:0000817 (wild_type)
+T354	NCBITaxon 21558 21562	mice
+#354	AnnotatorNotes T354	NCBITaxon:10088 (Mus)
+T355	SO 21571 21579	genotype
+#355	AnnotatorNotes T355	SO:0001027 (genotype)
+T356	SO 21704 21711	genetic
+#356	AnnotatorNotes T356	SO:0000704 (gene)
+T357	SO 21752 21763	genetically
+#357	AnnotatorNotes T357	SO:0000704 (gene)
+T358	NCBITaxon 21774 21779	mouse
+#358	AnnotatorNotes T358	NCBITaxon:10088 (Mus)
+T359	SO 21965 21972	genetic
+#359	AnnotatorNotes T359	SO:0000704 (gene)
+T360	SO 21996 22001	genes
+#360	AnnotatorNotes T360	SO:0000704 (gene)
+T361	NCBITaxon 22103 22107	mice
+#361	AnnotatorNotes T361	NCBITaxon:10088 (Mus)
+T362	NCBITaxon 22172 22176	mice
+#362	AnnotatorNotes T362	NCBITaxon:10088 (Mus)
+T363	SO 22181 22205	quantitative trait locus
+#363	AnnotatorNotes T363	SO:0000771 (QTL)
+T364	SO 22207 22210	QTL
+#364	AnnotatorNotes T364	SO:0000771 (QTL)
+T365	SO 22266 22285	chromosomal regions
+#365	AnnotatorNotes T365	SO:0000830 (chromosome_part)
+T366	GO_CC 22266 22277	chromosomal
+#366	AnnotatorNotes T366	GO:0005694 (chromosome)
+T367	SO 22266 22277	chromosomal
+#367	AnnotatorNotes T367	SO:0000340 (chromosome)
+T368	SO 22478 22489	mutagenesis
+#368	AnnotatorNotes T368	SO:0000041 (sequence_operation)
+T369	SO 22575 22580	genes
+#369	AnnotatorNotes T369	SO:0000704 (gene)
+T370	CHEBI 22842 22859	anesthetic agents
+#370	AnnotatorNotes T370	CHEBI:38867 (anaesthetic)
+T371	taxonomic_rank 23045 23052	species
+#371	AnnotatorNotes T371	species (null)
+T372	NCBITaxon 23205 23209	mice
+#372	AnnotatorNotes T372	NCBITaxon:10088 (Mus)
+T373	SO 23390 23401	genetically
+#373	AnnotatorNotes T373	SO:0000704 (gene)
+T374	CHEBI 23787 23797	anesthetic
+#374	AnnotatorNotes T374	CHEBI:38867 (anaesthetic)
+T375	NCBITaxon 23847 23850	rat
+#375	AnnotatorNotes T375	NCBITaxon:10114 (Rattus)
+T376	GO_BP 23917 23927	depression
+#376	AnnotatorNotes T376	GO:0048519 (negative regulation of biological process)
+T377	NCBITaxon 23997 24001	rats
+#377	AnnotatorNotes T377	NCBITaxon:10114 (Rattus)
+T378	NCBITaxon 24329 24332	rat
+#378	AnnotatorNotes T378	NCBITaxon:10114 (Rattus)
+T379	NCBITaxon 24832 24835	rat
+#379	AnnotatorNotes T379	NCBITaxon:10114 (Rattus)
+T380	NCBITaxon 24921 24924	rat
+#380	AnnotatorNotes T380	NCBITaxon:10114 (Rattus)
+T381	NCBITaxon 24929 24934	mouse
+#381	AnnotatorNotes T381	NCBITaxon:10088 (Mus)
+T382	NCBITaxon 25095 25099	rats
+#382	AnnotatorNotes T382	NCBITaxon:10114 (Rattus)
+T383	NCBITaxon 25123 25127	mice
+#383	AnnotatorNotes T383	NCBITaxon:10088 (Mus)
+T384	taxonomic_rank 25246 25253	species
+#384	AnnotatorNotes T384	species (null)
+T385	NCBITaxon 25371 25374	rat
+#385	AnnotatorNotes T385	NCBITaxon:10114 (Rattus)
+T386	NCBITaxon 25379 25384	mouse
+#386	AnnotatorNotes T386	NCBITaxon:10088 (Mus)
+T387	NCBITaxon 25401 25405	mice
+#387	AnnotatorNotes T387	NCBITaxon:10088 (Mus)
+T388	GO_BP 25770 25785	drug metabolism
+#388	AnnotatorNotes T388	GO:0017144 (drug metabolic process)
+T389	CHEBI 25770 25774	drug
+#389	AnnotatorNotes T389	CHEBI:23888 (drug)
+T390	NCBITaxon 25818 25822	rats
+#390	AnnotatorNotes T390	NCBITaxon:10114 (Rattus)
+T391	NCBITaxon 25942 25946	mice
+#391	AnnotatorNotes T391	NCBITaxon:10088 (Mus)
+T392	CHEBI 25950 25958	terpenes
+#392	AnnotatorNotes T392	CHEBI:35186 (terpenes)
+T393	CHEBI 25960 25967	Terpene
+#393	AnnotatorNotes T393	CHEBI:35186 (terpenes)
+T394	CHEBI 26012 26020	terpenes
+#394	AnnotatorNotes T394	CHEBI:35186 (terpenes)
+T395	CHEBI 26045 26049	drug
+#395	AnnotatorNotes T395	CHEBI:23888 (drug)
+T396	CHEBI 26089 26106	anesthetic agents
+#396	AnnotatorNotes T396	CHEBI:38867 (anaesthetic)
+T397	NCBITaxon 26115 26119	rats
+#397	AnnotatorNotes T397	NCBITaxon:10114 (Rattus)
+T398	NCBITaxon 26124 26128	mice
+#398	AnnotatorNotes T398	NCBITaxon:10088 (Mus)
+T399	GO_BP 26319 26329	blood flow
+#399	AnnotatorNotes T399	GO:0008015 (blood circulation)
+T400	SO 26652 26663	genetically
+#400	AnnotatorNotes T400	SO:0000704 (gene)
+T401	NCBITaxon 26676 26681	mouse
+#401	AnnotatorNotes T401	NCBITaxon:10088 (Mus)
+T402	NCBITaxon 26784 26788	mice
+#402	AnnotatorNotes T402	NCBITaxon:10088 (Mus)
+T403	NCBITaxon 26804 26808	mice
+#403	AnnotatorNotes T403	NCBITaxon:10088 (Mus)
+T404	NCBITaxon 26912 26916	mice
+#404	AnnotatorNotes T404	NCBITaxon:10088 (Mus)
+T405	NCBITaxon 26976 26980	mice
+#405	AnnotatorNotes T405	NCBITaxon:10088 (Mus)
+T406	NCBITaxon 27053 27057	mice
+#406	AnnotatorNotes T406	NCBITaxon:10088 (Mus)
+T407	NCBITaxon 27103 27107	mice
+#407	AnnotatorNotes T407	NCBITaxon:10088 (Mus)
+T408	NCBITaxon 27234 27239	human
+#408	AnnotatorNotes T408	NCBITaxon:9606 (Homo sapiens)
+T409	NCBITaxon 27291 27295	mice
+#409	AnnotatorNotes T409	NCBITaxon:10088 (Mus)
+T410	NCBITaxon 27396 27401	mouse
+#410	AnnotatorNotes T410	NCBITaxon:10088 (Mus)
+T411	NCBITaxon 27839 27844	human
+#411	AnnotatorNotes T411	NCBITaxon:9606 (Homo sapiens)
+T412	NCBITaxon 28143 28147	mice
+#412	AnnotatorNotes T412	NCBITaxon:10088 (Mus)
+T413	NCBITaxon 28274 28279	human
+#413	AnnotatorNotes T413	NCBITaxon:9606 (Homo sapiens)
+T414	NCBITaxon 28454 28458	mice
+#414	AnnotatorNotes T414	NCBITaxon:10088 (Mus)
+T415	NCBITaxon 28472 28477	mouse
+#415	AnnotatorNotes T415	NCBITaxon:10088 (Mus)
+T416	NCBITaxon 28736 28741	mouse
+#416	AnnotatorNotes T416	NCBITaxon:10088 (Mus)
+T417	SO 29077 29084	genetic
+#417	AnnotatorNotes T417	SO:0000704 (gene)
+T418	NCBITaxon 29168 29172	mice
+#418	AnnotatorNotes T418	NCBITaxon:10088 (Mus)
+T419	SO 29183 29194	genetically
+#419	AnnotatorNotes T419	SO:0000704 (gene)
+T420	EntrezGene 29265 29280	leptin receptor
+#420	AnnotatorNotes T420	EG:16847
+T421	PR 29265 29280	leptin receptor
+#421	AnnotatorNotes T421	PR:000001875 (leptin receptor)
+T422	EntrezGene 29265 29271	leptin
+#422	AnnotatorNotes T422	EG:16846
+T423	PR 29265 29271	leptin
+#423	AnnotatorNotes T423	PR:000009758 (leptin)
+T424	GO_MF 29272 29280	receptor
+#424	AnnotatorNotes T424	GO:0004872 (receptor activity)
+T425	independent_continuant 29272 29280	receptor
+#425	AnnotatorNotes T425	independent_continuant
+T426	SO 29281 29289	mutation
+#426	AnnotatorNotes T426	SO:0001059 (sequence_alteration)
+T427	italic 29291 29293	db
+#427	AnnotatorNotes T427	italic (null)
+T428	NCBITaxon 29365 29369	mice
+#428	AnnotatorNotes T428	NCBITaxon:10088 (Mus)
+T429	NCBITaxon 29643 29647	mice
+#429	AnnotatorNotes T429	NCBITaxon:10088 (Mus)
+T430	GO_BP 29771 29788	Diurnal variation
+#430	AnnotatorNotes T430	GO:0007623 (circadian rhythm)
+T431	NCBITaxon 29809 29815	humans
+#431	AnnotatorNotes T431	NCBITaxon:9606 (Homo sapiens)
+T432	NCBITaxon 29831 29838	animals
+#432	AnnotatorNotes T432	NCBITaxon:33208 (Metazoa)
+T433	CHEBI 29849 29858	molecular
+#433	AnnotatorNotes T433	CHEBI:36357 (polyatomic entities)
+T434	GO_BP 29885 29899	diurnal rhythm
+#434	AnnotatorNotes T434	GO:0007623 (circadian rhythm)
+T435	GO_BP 29944 29954	production
+#435	AnnotatorNotes T435	GO:0032502 (developmental process)
+T436	NCBITaxon 30013 30020	rabbits
+#436	AnnotatorNotes T436	NCBITaxon:9986 (Oryctolagus cuniculus)
+T437	NCBITaxon 30025 30031	humans
+#437	AnnotatorNotes T437	NCBITaxon:9606 (Homo sapiens)
+T438	NCBITaxon 30236 30240	mice
+#438	AnnotatorNotes T438	NCBITaxon:10088 (Mus)
+T439	NCBITaxon 30429 30433	rats
+#439	AnnotatorNotes T439	NCBITaxon:10114 (Rattus)
+T440	NCBITaxon 30444 30448	rats
+#440	AnnotatorNotes T440	NCBITaxon:10114 (Rattus)
+T441	NCBITaxon 30453 30460	rabbits
+#441	AnnotatorNotes T441	NCBITaxon:9986 (Oryctolagus cuniculus)
+T442	NCBITaxon 30585 30589	mice
+#442	AnnotatorNotes T442	NCBITaxon:10088 (Mus)
+T443	CL 30862 30889	rod and cone photoreceptors
+#443	AnnotatorNotes T443	"rod .. photoreceptors" CL:0000604 (retinal rod cell)
+T444	CL 30870 30889	cone photoreceptors
+#444	AnnotatorNotes T444	CL:0000573 (retinal cone cell)
+T445	CL 30902 30907	cells
+#445	AnnotatorNotes T445	CL:0000000 (cell)
+T446	GO_CC 30902 30907	cells
+#446	AnnotatorNotes T446	GO:0005623 (cell)
+T447	NCBITaxon 30928 30932	mice
+#447	AnnotatorNotes T447	NCBITaxon:10088 (Mus)
+T448	italic 30961 30966	Pde6b
+#448	AnnotatorNotes T448	italic (null)
+T449	sup 30966 30969	rd1
+#449	AnnotatorNotes T449	sup (null)
+T450	italic 30966 30968	rd
+#450	AnnotatorNotes T450	italic (null)
+T451	SO 30970 30978	mutation
+#451	AnnotatorNotes T451	SO:0001059 (sequence_alteration)
+T452	GO_BP 31012 31032	circadian regulation
+#452	AnnotatorNotes T452	GO:0042752 (regulation of circadian rhythm)
+T453	NCBITaxon 31086 31090	mice
+#453	AnnotatorNotes T453	NCBITaxon:10088 (Mus)
+T454	CL 31099 31103	rods
+#454	AnnotatorNotes T454	CL:0000604 (retinal rod cell)
+T455	CL 31108 31113	cones
+#455	AnnotatorNotes T455	CL:0000573 (retinal cone cell)
+T456	GO_BP 31323 31337	diurnal rhythm
+#456	AnnotatorNotes T456	GO:0007623 (circadian rhythm)
+T457	NCBITaxon 31365 31369	mice
+#457	AnnotatorNotes T457	NCBITaxon:10088 (Mus)
+T458	NCBITaxon 31473 31478	mouse
+#458	AnnotatorNotes T458	NCBITaxon:10088 (Mus)
+T459	CHEBI 31521 31530	molecular
+#459	AnnotatorNotes T459	CHEBI:36357 (polyatomic entities)
+T460	GO_BP 31542 31553	controlling
+#460	AnnotatorNotes T460	GO:0065007 (biological regulation)
+T461	GO_BP 31554 31569	diurnal rhythms
+#461	AnnotatorNotes T461	GO:0007623 (circadian rhythm)
+T462	italic 31616 31620	Car2
+#462	AnnotatorNotes T462	italic (null)
+T463	PR 31616 31620	Car2
+#463	AnnotatorNotes T463	PR:000004918 (carbonic anhydrase 2)
+T464	EntrezGene 31616 31620	Car2
+#464	AnnotatorNotes T464	EG:12349
+T465	CHEBI 31652 31663	Bicarbonate
+#465	AnnotatorNotes T465	CHEBI:17544 (hydrogencarbonate)
+T466	GO_BP 31664 31673	formation
+#466	AnnotatorNotes T466	GO:0009058 (biosynthetic process)
+T467	GO_BP 31705 31714	secretion
+#467	AnnotatorNotes T467	GO:0046903 (secretion)
+T468	independent_continuant 31746 31764	carbonic anhydrase
+#468	AnnotatorNotes T468	independent_continuant
+T469	GO_MF 31746 31764	carbonic anhydrase
+#469	AnnotatorNotes T469	GO:0004089 (carbonate dehydratase activity)
+T470	CHEBI 31746 31754	carbonic
+#470	AnnotatorNotes T470	CHEBI:27594 (carbon)
+T471	independent_continuant 31766 31768	CA
+#471	AnnotatorNotes T471	independent_continuant
+T472	GO_MF 31766 31768	CA
+#472	AnnotatorNotes T472	GO:0004089 (carbonate dehydratase activity)
+T473	GO_BP 31787 31796	secretion
+#473	AnnotatorNotes T473	GO:0046903 (secretion)
+T474	SO 31817 31822	forms
+#474	AnnotatorNotes T474	SO:0001060 (sequence_variant)
+T475	independent_continuant 31826 31828	CA
+#475	AnnotatorNotes T475	independent_continuant
+T476	GO_MF 31826 31828	CA
+#476	AnnotatorNotes T476	GO:0004089 (carbonate dehydratase activity)
+T477	PR 31837 31841	CAII
+#477	AnnotatorNotes T477	PR:000004918 (carbonic anhydrase 2)
+T478	SO 31842 31849	isoform
+#478	AnnotatorNotes T478	SO:0001060 (sequence_variant)
+T479	SO 31951 31958	genetic
+#479	AnnotatorNotes T479	SO:0000704 (gene)
+T480	EntrezGene 31973 31977	CAII
+#480	AnnotatorNotes T480	EG:12349
+T481	PR 31973 31977	CAII
+#481	AnnotatorNotes T481	PR:000004918 (carbonic anhydrase 2)
+T482	NCBITaxon 31981 31985	mice
+#482	AnnotatorNotes T482	NCBITaxon:10088 (Mus)
+T483	SO 32003 32011	mutation
+#483	AnnotatorNotes T483	SO:0001059 (sequence_alteration)
+T484	italic 32019 32023	Car2
+#484	AnnotatorNotes T484	italic (null)
+T485	EntrezGene 32019 32023	Car2
+#485	AnnotatorNotes T485	EG:12349
+T486	PR 32019 32023	Car2
+#486	AnnotatorNotes T486	PR:000004918 (carbonic anhydrase 2)
+T487	SO 32024 32028	gene
+#487	AnnotatorNotes T487	SO:0000704 (gene)
+T488	PR 32049 32053	CAIV
+#488	AnnotatorNotes T488	PR:000004920 (carbonic anhydrase 4)
+T489	EntrezGene 32175 32179	CAIV
+#489	AnnotatorNotes T489	EG:12351
+T490	PR 32175 32179	CAIV
+#490	AnnotatorNotes T490	PR:000004920 (carbonic anhydrase 4)
+T491	EntrezGene 32192 32196	CAII
+#491	AnnotatorNotes T491	EG:12349
+T492	PR 32192 32196	CAII
+#492	AnnotatorNotes T492	PR:000004918 (carbonic anhydrase 2)
+T493	GO_BP 32214 32223	secretion
+#493	AnnotatorNotes T493	GO:0046903 (secretion)
+T494	EntrezGene 32250 32254	CAII
+#494	AnnotatorNotes T494	EG:12349
+T495	PR 32250 32254	CAII
+#495	AnnotatorNotes T495	PR:000004918 (carbonic anhydrase 2)
+T496	GO_BP 32298 32307	secretion
+#496	AnnotatorNotes T496	GO:0046903 (secretion)
+T497	EntrezGene 32328 32338	mouse CAIV
+#497	AnnotatorNotes T497	EG:12351
+T498	NCBITaxon 32328 32333	mouse
+#498	AnnotatorNotes T498	NCBITaxon:10088 (Mus)
+T499	PR 32334 32338	CAIV
+#499	AnnotatorNotes T499	PR:000004920 (carbonic anhydrase 4)
+T500	EntrezGene 32377 32381	CAII
+#500	AnnotatorNotes T500	EG:12349
+T501	PR 32377 32381	CAII
+#501	AnnotatorNotes T501	PR:000004918 (carbonic anhydrase 2)
+T502	italic 32403 32407	Car2
+#502	AnnotatorNotes T502	italic (null)
+T503	PR 32403 32407	Car2
+#503	AnnotatorNotes T503	PR:000004918 (carbonic anhydrase 2)
+T504	EntrezGene 32403 32407	Car2
+#504	AnnotatorNotes T504	EG:12349
+T505	SO 32408 32414	mutant
+#505	AnnotatorNotes T505	SO:0001059 (sequence_alteration)
+T506	NCBITaxon 32415 32419	mice
+#506	AnnotatorNotes T506	NCBITaxon:10088 (Mus)
+T507	SO 32451 32458	enzymes
+#507	AnnotatorNotes T507	SO:0001185 (enzymatic)
+T508	GO_MF 32493 32495	CA
+#508	AnnotatorNotes T508	GO:0004089 (carbonate dehydratase activity)
+T509	independent_continuant 32493 32495	CA
+#509	AnnotatorNotes T509	independent_continuant
+T510	GO_BP 32545 32554	secretion
+#510	AnnotatorNotes T510	GO:0046903 (secretion)
+T511	EntrezGene 32565 32575	Tyrosinase
+#511	AnnotatorNotes T511	EG:22173
+T512	PR 32565 32575	Tyrosinase
+#512	AnnotatorNotes T512	PR:000016877 (tyrosinase)
+T513	PR 32613 32623	Tyrosinase
+#513	AnnotatorNotes T513	PR:000016877 (tyrosinase)
+T514	SO 32637 32643	enzyme
+#514	AnnotatorNotes T514	SO:0001185 (enzymatic)
+T515	GO_BP 32651 32677	pigment production pathway
+#515	AnnotatorNotes T515	GO:0046148 (pigment biosynthetic process)
+T516	CHEBI 32651 32658	pigment
+#516	AnnotatorNotes T516	CHEBI:26130 (pigment)
+T517	PR 32679 32689	Tyrosinase
+#517	AnnotatorNotes T517	PR:000016877 (tyrosinase)
+T518	GO_CC 32829 32834	axons
+#518	AnnotatorNotes T518	GO:0030424 (axon)
+T519	NCBITaxon 32947 32956	mammalian
+#519	AnnotatorNotes T519	NCBITaxon:40674 (Mammalia)
+T520	NCBITaxon 32993 32997	mice
+#520	AnnotatorNotes T520	NCBITaxon:10088 (Mus)
+T521	EntrezGene 33006 33016	tyrosinase
+#521	AnnotatorNotes T521	EG:22173
+T522	PR 33006 33016	tyrosinase
+#522	AnnotatorNotes T522	PR:000016877 (tyrosinase)
+T523	SO 33048 33059	genetically
+#523	AnnotatorNotes T523	SO:0000704 (gene)
+T524	CHEBI 33070 33079	pigmented
+#524	AnnotatorNotes T524	CHEBI:26130 (pigment)
+T525	NCBITaxon 33083 33087	mice
+#525	AnnotatorNotes T525	NCBITaxon:10088 (Mus)
+T526	CHEBI 33185 33194	pigmented
+#526	AnnotatorNotes T526	CHEBI:26130 (pigment)
+T527	NCBITaxon 33217 33221	mice
+#527	AnnotatorNotes T527	NCBITaxon:10088 (Mus)
+T528	GO_BP 33253 33268	diurnal pattern
+#528	AnnotatorNotes T528	GO:0007623 (circadian rhythm)
+T529	NCBITaxon 33316 33320	mice
+#529	AnnotatorNotes T529	NCBITaxon:10088 (Mus)
+T530	EntrezGene 33362 33372	tyrosinase
+#530	AnnotatorNotes T530	EG:22173
+T531	SO 33394 33403	mutations
+#531	AnnotatorNotes T531	SO:0001059 (sequence_alteration)
+T532	GO_BP 33417 33432	diurnal rhythms
+#532	AnnotatorNotes T532	GO:0007623 (circadian rhythm)
+T533	CHEBI 33445 33454	pigmented
+#533	AnnotatorNotes T533	CHEBI:26130 (pigment)
+T534	NCBITaxon 33455 33459	mice
+#534	AnnotatorNotes T534	NCBITaxon:10088 (Mus)
+T535	GO_BP 33523 33537	diurnal rhythm
+#535	AnnotatorNotes T535	GO:0007623 (circadian rhythm)
+T536	SO 33591 33598	genetic
+#536	AnnotatorNotes T536	SO:0000704 (gene)
+T537	GO_BP 33700 33715	Diurnal rhythms
+#537	AnnotatorNotes T537	GO:0007623 (circadian rhythm)
+T538	GO_BP 33739 33754	visual pathways
+#538	AnnotatorNotes T538	GO:0007601 (visual perception)
+T539	GO_BP 33762 33769	respond
+#539	AnnotatorNotes T539	GO:0050896 (response to stimulus)
+T540	NCBITaxon 33799 33803	rats
+#540	AnnotatorNotes T540	NCBITaxon:10114 (Rattus)
+T541	GO_BP 33843 33862	diurnal fluctuation
+#541	AnnotatorNotes T541	GO:0007623 (circadian rhythm)
+T542	GO_BP 33968 33982	diurnal rhythm
+#542	AnnotatorNotes T542	GO:0007623 (circadian rhythm)
+T543	NCBITaxon 34007 34011	mice
+#543	AnnotatorNotes T543	NCBITaxon:10088 (Mus)
+T544	NCBITaxon 34161 34166	mouse
+#544	AnnotatorNotes T544	NCBITaxon:10088 (Mus)
+T545	GO_BP 34181 34195	diurnal rhythm
+#545	AnnotatorNotes T545	GO:0007623 (circadian rhythm)
+T546	NCBITaxon 34309 34315	humans
+#546	AnnotatorNotes T546	NCBITaxon:9606 (Homo sapiens)
+T547	SO 34317 34328	Genetically
+#547	AnnotatorNotes T547	SO:0000704 (gene)
+T548	NCBITaxon 34338 34342	mice
+#548	AnnotatorNotes T548	NCBITaxon:10088 (Mus)
+T549	SO 34510 34517	genetic
+#549	AnnotatorNotes T549	SO:0000704 (gene)
+T550	NCBITaxon 34554 34558	Mice
+#550	AnnotatorNotes T550	NCBITaxon:10088 (Mus)
+T551	CHEBI 34612 34621	molecular
+#551	AnnotatorNotes T551	CHEBI:36357 (polyatomic entities)
+T552	NCBITaxon 34672 34678	Animal
+#552	AnnotatorNotes T552	NCBITaxon:33208 (Metazoa)
+T553	NCBITaxon 34770 34777	animals
+#553	AnnotatorNotes T553	NCBITaxon:33208 (Metazoa)
+T554	GO_BP 34796 34802	vision
+#554	AnnotatorNotes T554	GO:0007601 (visual perception)
+T555	NCBITaxon 34817 34821	mice
+#555	AnnotatorNotes T555	NCBITaxon:10088 (Mus)
+T556	GO_BP 34827 34831	bred
+#556	AnnotatorNotes T556	GO:0000003 (reproduction)
+T557	NCBITaxon 34874 34878	Mice
+#557	AnnotatorNotes T557	NCBITaxon:10088 (Mus)
+T558	NCBITaxon 34992 34996	mice
+#558	AnnotatorNotes T558	NCBITaxon:10088 (Mus)
+T559	GO_BP 35002 35005	fed
+#559	AnnotatorNotes T559	GO:0007631 (feeding behavior)
+T560	CHEBI 35022 35026	chow
+#560	AnnotatorNotes T560	CHEBI:33290 (food)
+T561	italic 35027 35037	ad libitum
+#561	AnnotatorNotes T561	italic (null)
+T562	CHEBI 35049 35054	water
+#562	AnnotatorNotes T562	CHEBI:15377 (water)
+T563	NCBITaxon 35090 35094	mice
+#563	AnnotatorNotes T563	NCBITaxon:10088 (Mus)
+T564	NCBITaxon 35242 35246	mice
+#564	AnnotatorNotes T564	NCBITaxon:10088 (Mus)
+T565	GO_BP 35254 35259	aging
+#565	AnnotatorNotes T565	GO:0007568 (aging)
+T566	GO_BP 35276 35279	fed
+#566	AnnotatorNotes T566	GO:0007631 (feeding behavior)
+T567	CHEBI 35295 35299	chow
+#567	AnnotatorNotes T567	CHEBI:33290 (food)
+T568	NCBITaxon 35348 35352	mice
+#568	AnnotatorNotes T568	NCBITaxon:10088 (Mus)
+T569	NCBITaxon 35432 35436	mice
+#569	AnnotatorNotes T569	NCBITaxon:10088 (Mus)
+T570	NCBITaxon 35560 35564	mice
+#570	AnnotatorNotes T570	NCBITaxon:10088 (Mus)
+T571	NCBITaxon 35900 35904	mice
+#571	AnnotatorNotes T571	NCBITaxon:10088 (Mus)
+T572	NCBITaxon 36115 36119	mice
+#572	AnnotatorNotes T572	NCBITaxon:10088 (Mus)
+T573	NCBITaxon 36244 36251	animals
+#573	AnnotatorNotes T573	NCBITaxon:33208 (Metazoa)
+T574	NCBITaxon 36288 36292	mice
+#574	AnnotatorNotes T574	NCBITaxon:10088 (Mus)
+T575	SO 36473 36482	genotypes
+#575	AnnotatorNotes T575	SO:0001027 (genotype)
+T576	NCBITaxon 36490 36497	animals
+#576	AnnotatorNotes T576	NCBITaxon:33208 (Metazoa)
+T577	GO_BP 36584 36589	aging
+#577	AnnotatorNotes T577	GO:0007568 (aging)
+T578	NCBITaxon 36717 36721	mice
+#578	AnnotatorNotes T578	NCBITaxon:10088 (Mus)
+T579	NCBITaxon 36908 36912	mice
+#579	AnnotatorNotes T579	NCBITaxon:10088 (Mus)
+T580	NCBITaxon 36972 36977	mouse
+#580	AnnotatorNotes T580	NCBITaxon:10088 (Mus)
+T581	CHEBI 37024 37041	anesthetic agents
+#581	AnnotatorNotes T581	CHEBI:38867 (anaesthetic)
+T582	NCBITaxon 37127 37132	mouse
+#582	AnnotatorNotes T582	NCBITaxon:10088 (Mus)
+T583	NCBITaxon 37529 37533	mice
+#583	AnnotatorNotes T583	NCBITaxon:10088 (Mus)
+T584	NCBITaxon 37603 37608	mouse
+#584	AnnotatorNotes T584	NCBITaxon:10088 (Mus)
+T585	NCBITaxon 37673 37677	mice
+#585	AnnotatorNotes T585	NCBITaxon:10088 (Mus)
+T586	NCBITaxon 37824 37828	mice
+#586	AnnotatorNotes T586	NCBITaxon:10088 (Mus)
+T587	NCBITaxon 38024 38028	mice
+#587	AnnotatorNotes T587	NCBITaxon:10088 (Mus)
+T588	NCBITaxon 38122 38126	mice
+#588	AnnotatorNotes T588	NCBITaxon:10088 (Mus)
+T589	NCBITaxon 38254 38258	mice
+#589	AnnotatorNotes T589	NCBITaxon:10088 (Mus)
+T590	CHEBI 38325 38329	acid
+#590	AnnotatorNotes T590	CHEBI:37527 (acid)
+T591	CHEBI 38330 38337	alcohol
+#591	AnnotatorNotes T591	CHEBI:30879 (alcohols)
+T592	CHEBI 38469 38477	buffered
+#592	AnnotatorNotes T592	CHEBI:35225 (buffer)
+T593	CHEBI 38489 38498	phosphate
+#593	AnnotatorNotes T593	CHEBI:26020 (phosphates)
+T594	CHEBI 38489 38498	phosphate
+#594	AnnotatorNotes T594	CHEBI:35780 (phosphate ions)
+T595	NCBITaxon 38609 38613	mice
+#595	AnnotatorNotes T595	NCBITaxon:10088 (Mus)
+T596	italic 38889 38893	Myoc
+#596	AnnotatorNotes T596	italic (null)
+T597	PR 38889 38893	Myoc
+#597	AnnotatorNotes T597	PR:000010873 (myocilin)
+T598	EntrezGene 38889 38893	Myoc
+#598	AnnotatorNotes T598	EG:17926
+T599	SO 38895 38900	Exons
+#599	AnnotatorNotes T599	SO:0000147 (exon)
+T600	SO 38918 38926	promoter
+#600	AnnotatorNotes T600	SO:0000167 (promoter)
+T601	EntrezGene 38934 38944	mouse Myoc
+#601	AnnotatorNotes T601	EG:17926
+T602	NCBITaxon 38934 38939	mouse
+#602	AnnotatorNotes T602	NCBITaxon:10088 (Mus)
+T603	italic 38940 38944	Myoc
+#603	AnnotatorNotes T603	italic (null)
+T604	PR 38940 38944	Myoc
+#604	AnnotatorNotes T604	PR:000010873 (myocilin)
+T605	SO 38945 38949	gene
+#605	AnnotatorNotes T605	SO:0000704 (gene)
+T606	NCBITaxon 38970 38975	mouse
+#606	AnnotatorNotes T606	NCBITaxon:10088 (Mus)
+T607	SO 38976 38987	genomic DNA
+#607	AnnotatorNotes T607	SO:0000991 (genomic_DNA)
+T608	SO 38976 38983	genomic
+#608	AnnotatorNotes T608	SO:0001026 (genome)
+T609	SO 39024 39031	primers
+#609	AnnotatorNotes T609	SO:0000112 (primer)
+T610	SO 39034 39038	Exon
+#610	AnnotatorNotes T610	SO:0000147 (exon)
+T611	SO 39169 39173	Exon
+#611	AnnotatorNotes T611	SO:0000147 (exon)
+T612	SO 39241 39245	Exon
+#612	AnnotatorNotes T612	SO:0000147 (exon)
+T613	SO 39377 39385	Promoter
+#613	AnnotatorNotes T613	SO:0000167 (promoter)
+T614	SO 39686 39698	PCR products
+#614	AnnotatorNotes T614	SO:0000006 (PCR_product)
+T615	GO_CC 39803 39813	chromosome
+#615	AnnotatorNotes T615	GO:0005694 (chromosome)
+T616	SO 39803 39813	chromosome
+#616	AnnotatorNotes T616	SO:0000340 (chromosome)
+T617	GO_CC 39815 39818	Chr
+#617	AnnotatorNotes T617	GO:0005694 (chromosome)
+T618	SO 39815 39818	Chr
+#618	AnnotatorNotes T618	SO:0000340 (chromosome)
+T619	independent_continuant 39854 39872	carbonic anhydrase
+#619	AnnotatorNotes T619	independent_continuant
+T620	GO_MF 39854 39872	carbonic anhydrase
+#620	AnnotatorNotes T620	GO:0004089 (carbonate dehydratase activity)
+T621	CHEBI 39854 39862	carbonic
+#621	AnnotatorNotes T621	CHEBI:27594 (carbon)
+T622	independent_continuant 39874 39876	CA
+#622	AnnotatorNotes T622	independent_continuant
+T623	GO_MF 39874 39876	CA
+#623	AnnotatorNotes T623	GO:0004089 (carbonate dehydratase activity)
+T624	italic 40051 40055	Car2
+#624	AnnotatorNotes T624	italic (null)
+T625	PR 40051 40055	Car2
+#625	AnnotatorNotes T625	PR:000004918 (carbonic anhydrase 2)
+T626	EntrezGene 40051 40055	Car2
+#626	AnnotatorNotes T626	EG:12349
+T627	NCBITaxon 40056 40060	mice
+#627	AnnotatorNotes T627	NCBITaxon:10088 (Mus)
+T628	italic 40108 40112	Myoc
+#628	AnnotatorNotes T628	italic (null)
+T629	EntrezGene 40108 40112	Myoc
+#629	AnnotatorNotes T629	EG:17926
+T630	SO 40113 40120	alleles
+#630	AnnotatorNotes T630	SO:0001023 (allele)
