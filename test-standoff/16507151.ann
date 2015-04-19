@@ -1,0 +1,1006 @@
+T1	GO_CC 18 26	collagen
+#1	AnnotatorNotes T1	GO:0005581 (collagen)
+T2	PR 18 26	collagen
+#2	AnnotatorNotes T2	PR:000003262 (collagen alpha chain)
+T3	SO 45 49	loci
+#3	AnnotatorNotes T3	SO:0000001 (region)
+T4	GO_BP 53 57	aged
+#4	AnnotatorNotes T4	GO:0007568 (aging)
+T5	NCBITaxon 77 81	mice
+#5	AnnotatorNotes T5	NCBITaxon:10088 (Mus)
+T6	GO_CC 93 101	Collagen
+#6	AnnotatorNotes T6	GO:0005581 (collagen)
+T7	PR 93 101	Collagen
+#7	AnnotatorNotes T7	PR:000003262 (collagen alpha chain)
+T8	NCBITaxon 123 127	mice
+#8	AnnotatorNotes T8	NCBITaxon:10088 (Mus)
+T9	GO_CC 247 255	collagen
+#9	AnnotatorNotes T9	GO:0005581 (collagen)
+T10	PR 247 255	collagen
+#10	AnnotatorNotes T10	PR:000003262 (collagen alpha chain)
+T11	GO_BP 365 376	controlling
+#11	AnnotatorNotes T11	GO:0065007 (biological regulation)
+T12	SO 377 382	genes
+#12	AnnotatorNotes T12	SO:0000704 (gene)
+T13	GO_BP 434 438	aged
+#13	AnnotatorNotes T13	GO:0007568 (aging)
+T14	SO 490 497	genetic
+#14	AnnotatorNotes T14	SO:0000704 (gene)
+T15	SO 498 505	regions
+#15	AnnotatorNotes T15	SO:0000001 (region)
+T16	GO_CC 519 527	collagen
+#16	AnnotatorNotes T16	GO:0005581 (collagen)
+T17	PR 519 527	collagen
+#17	AnnotatorNotes T17	PR:000003262 (collagen alpha chain)
+T18	GO_BP 558 562	aged
+#18	AnnotatorNotes T18	GO:0007568 (aging)
+T19	NCBITaxon 570 574	mice
+#19	AnnotatorNotes T19	NCBITaxon:10088 (Mus)
+T20	sup 614 615	q
+#20	AnnotatorNotes T20	sup (null)
+T21	SO 616 625	haplotype
+#21	AnnotatorNotes T21	SO:0001024 (haplotype)
+T22	NCBITaxon 632 636	mice
+#22	AnnotatorNotes T22	NCBITaxon:10088 (Mus)
+T23	GO_BP 672 684	reproductive
+#23	AnnotatorNotes T23	GO:0000003 (reproduction)
+T24	NCBITaxon 802 806	mice
+#24	AnnotatorNotes T24	NCBITaxon:10088 (Mus)
+T25	SO 828 834	genome
+#25	AnnotatorNotes T25	SO:0001026 (genome)
+T26	SO 859 881	microsatellite markers
+#26	AnnotatorNotes T26	SO:0000289 (microsatellite)
+T27	SO 912 936	quantitative trait locus
+#27	AnnotatorNotes T27	SO:0000771 (QTL)
+T28	GO_CC 1001 1011	chromosome
+#28	AnnotatorNotes T28	GO:0005694 (chromosome)
+T29	SO 1001 1011	chromosome
+#29	AnnotatorNotes T29	SO:0000340 (chromosome)
+T30	italic 1024 1029	Cia40
+#30	AnnotatorNotes T30	italic (null)
+T31	EntrezGene 1024 1029	Cia40
+#31	AnnotatorNotes T31	EG:100035176
+T32	SO 1057 1062	locus
+#32	AnnotatorNotes T32	SO:0000001 (region)
+T33	GO_BP 1063 1074	controlling
+#33	AnnotatorNotes T33	GO:0065007 (biological regulation)
+T34	GO_BP 1075 1084	pregnancy
+#34	AnnotatorNotes T34	GO:0007565 (female pregnancy)
+T35	SO 1109 1133	quantitative trait locus
+#35	AnnotatorNotes T35	SO:0000771 (QTL)
+T36	GO_CC 1236 1246	chromosome
+#36	AnnotatorNotes T36	GO:0005694 (chromosome)
+T37	SO 1236 1246	chromosome
+#37	AnnotatorNotes T37	SO:0000340 (chromosome)
+T38	SO 1286 1310	quantitative trait locus
+#38	AnnotatorNotes T38	SO:0000771 (QTL)
+T39	GO_CC 1327 1343	collagen type II
+#39	AnnotatorNotes T39	GO:0005585 (collagen type II)
+T40	PR 1327 1343	collagen type II
+#40	AnnotatorNotes T40	PR:000003266 (collagen type II alpha chain)
+T41	EntrezGene 1327 1343	collagen type II
+#41	AnnotatorNotes T41	EG:25412
+T42	GO_CC 1344 1352	antibody
+#42	AnnotatorNotes T42	GO:0019814 (immunoglobulin complex)
+T43	GO_CC 1378 1388	chromosome
+#43	AnnotatorNotes T43	GO:0005694 (chromosome)
+T44	SO 1378 1388	chromosome
+#44	AnnotatorNotes T44	SO:0000340 (chromosome)
+T45	SO 1427 1431	gene
+#45	AnnotatorNotes T45	SO:0000704 (gene)
+T46	SO 1432 1436	loci
+#46	AnnotatorNotes T46	SO:0000001 (region)
+T47	GO_BP 1437 1444	control
+#47	AnnotatorNotes T47	GO:0065007 (biological regulation)
+T48	GO_BP 1458 1462	aged
+#48	AnnotatorNotes T48	GO:0007568 (aging)
+T49	SO 1515 1519	loci
+#49	AnnotatorNotes T49	SO:0000001 (region)
+T50	GO_BP 1535 1544	pregnancy
+#50	AnnotatorNotes T50	GO:0007565 (female pregnancy)
+T51	NCBITaxon 1623 1626	man
+#51	AnnotatorNotes T51	NCBITaxon:9606 (Homo sapiens)
+T52	GO_CC 1631 1639	collagen
+#52	AnnotatorNotes T52	GO:0005581 (collagen)
+T53	PR 1631 1639	collagen
+#53	AnnotatorNotes T53	PR:000003262 (collagen alpha chain)
+T54	NCBITaxon 1667 1671	mice
+#54	AnnotatorNotes T54	NCBITaxon:10088 (Mus)
+T55	GO_BP 1798 1810	reproductive
+#55	AnnotatorNotes T55	GO:0000003 (reproduction)
+T56	GO_BP 1998 2007	pregnancy
+#56	AnnotatorNotes T56	GO:0007565 (female pregnancy)
+T57	GO_BP 2135 2144	pregnancy
+#57	AnnotatorNotes T57	GO:0007565 (female pregnancy)
+T58	GO_BP 2290 2299	pregnancy
+#58	AnnotatorNotes T58	GO:0007565 (female pregnancy)
+T59	NCBITaxon 2384 2390	animal
+#59	AnnotatorNotes T59	NCBITaxon:33208 (Metazoa)
+T60	SO 2441 2446	genes
+#60	AnnotatorNotes T60	SO:0000704 (gene)
+T61	NCBITaxon 2467 2472	human
+#61	AnnotatorNotes T61	NCBITaxon:9606 (Homo sapiens)
+T62	NCBITaxon 2490 2494	mice
+#62	AnnotatorNotes T62	NCBITaxon:10088 (Mus)
+T63	NCBITaxon 2559 2564	human
+#63	AnnotatorNotes T63	NCBITaxon:9606 (Homo sapiens)
+T64	SO 2629 2634	genes
+#64	AnnotatorNotes T64	SO:0000704 (gene)
+T65	NCBITaxon 2857 2861	mice
+#65	AnnotatorNotes T65	NCBITaxon:10088 (Mus)
+T66	SO 2982 2989	genetic
+#66	AnnotatorNotes T66	SO:0000704 (gene)
+T67	GO_MF 2991 2999	hormonal
+#67	AnnotatorNotes T67	GO:0005179 (hormone activity)
+T68	independent_continuant 2991 2999	hormonal
+#68	AnnotatorNotes T68	independent_continuant
+T69	GO_BP 3004 3014	behavioral
+#69	AnnotatorNotes T69	GO:0007610 (behavior)
+T70	NCBITaxon 3112 3118	animal
+#70	AnnotatorNotes T70	NCBITaxon:33208 (Metazoa)
+T71	GO_BP 3133 3142	Pregnancy
+#71	AnnotatorNotes T71	GO:0007565 (female pregnancy)
+T72	NCBITaxon 3146 3150	mice
+#72	AnnotatorNotes T72	NCBITaxon:10088 (Mus)
+T73	GO_BP 3157 3166	pregnancy
+#73	AnnotatorNotes T73	GO:0007565 (female pregnancy)
+T74	GO_BP 3278 3287	Pregnancy
+#74	AnnotatorNotes T74	GO:0007565 (female pregnancy)
+T75	NCBITaxon 3316 3320	mice
+#75	AnnotatorNotes T75	NCBITaxon:10088 (Mus)
+T76	EntrezGene 3501 3510	prolactin
+#76	AnnotatorNotes T76	EG:19109
+T77	PR 3501 3510	prolactin
+#77	AnnotatorNotes T77	PR:000013246 (prolactin)
+T78	GO_BP 3543 3552	pregnancy
+#78	AnnotatorNotes T78	GO:0007565 (female pregnancy)
+T79	NCBITaxon 3820 3826	animal
+#79	AnnotatorNotes T79	NCBITaxon:33208 (Metazoa)
+T80	NCBITaxon 3881 3885	mice
+#80	AnnotatorNotes T80	NCBITaxon:10088 (Mus)
+T81	GO_BP 3918 3930	reproductive
+#81	AnnotatorNotes T81	GO:0000003 (reproduction)
+T82	NCBITaxon 4068 4072	mice
+#82	AnnotatorNotes T82	NCBITaxon:10088 (Mus)
+T83	SO 4176 4183	genetic
+#83	AnnotatorNotes T83	SO:0000704 (gene)
+T84	GO_BP 4184 4191	control
+#84	AnnotatorNotes T84	GO:0065007 (biological regulation)
+T85	GO_BP 4202 4206	aged
+#85	AnnotatorNotes T85	GO:0007568 (aging)
+T86	NCBITaxon 4267 4271	Mice
+#86	AnnotatorNotes T86	NCBITaxon:10088 (Mus)
+T87	NCBITaxon 4286 4290	mice
+#87	AnnotatorNotes T87	NCBITaxon:10088 (Mus)
+T88	NCBITaxon 4388 4392	mice
+#88	AnnotatorNotes T88	NCBITaxon:10088 (Mus)
+T89	NCBITaxon 4523 4527	mice
+#89	AnnotatorNotes T89	NCBITaxon:10088 (Mus)
+T90	GO_BP 4533 4537	bred
+#90	AnnotatorNotes T90	GO:0000003 (reproduction)
+T91	NCBITaxon 4588 4594	animal
+#91	AnnotatorNotes T91	NCBITaxon:33208 (Metazoa)
+T92	NCBITaxon 4615 4621	animal
+#92	AnnotatorNotes T92	NCBITaxon:33208 (Metazoa)
+T93	NCBITaxon 4689 4696	animals
+#93	AnnotatorNotes T93	NCBITaxon:33208 (Metazoa)
+T94	GO_BP 4702 4705	fed
+#94	AnnotatorNotes T94	GO:0007631 (feeding behavior)
+T95	italic 4706 4716	ad libitum
+#95	AnnotatorNotes T95	italic (null)
+T96	NCBITaxon 4731 4737	rodent
+#96	AnnotatorNotes T96	NCBITaxon:9989 (Rodentia)
+T97	CHEBI 4738 4742	chow
+#97	AnnotatorNotes T97	CHEBI:33290 (food)
+T98	GO_BP 4768 4776	breeding
+#98	AnnotatorNotes T98	GO:0007618 (mating)
+T99	CHEBI 4777 4781	food
+#99	AnnotatorNotes T99	CHEBI:33290 (food)
+T100	NCBITaxon 4786 4790	rats
+#100	AnnotatorNotes T100	NCBITaxon:10114 (Rattus)
+T101	NCBITaxon 4795 4799	mice
+#101	AnnotatorNotes T101	NCBITaxon:10088 (Mus)
+T102	CHEBI 4837 4842	water
+#102	AnnotatorNotes T102	CHEBI:15377 (water)
+T103	NCBITaxon 4897 4901	mice
+#103	AnnotatorNotes T103	NCBITaxon:10088 (Mus)
+T104	NCBITaxon 5017 5023	Animal
+#104	AnnotatorNotes T104	NCBITaxon:33208 (Metazoa)
+T105	GO_BP 5126 5138	reproduction
+#105	AnnotatorNotes T105	GO:0000003 (reproduction)
+T106	NCBITaxon 5199 5203	mice
+#106	AnnotatorNotes T106	NCBITaxon:10088 (Mus)
+T107	NCBITaxon 5290 5294	mice
+#107	AnnotatorNotes T107	NCBITaxon:10088 (Mus)
+T108	GO_BP 5319 5331	reproductive
+#108	AnnotatorNotes T108	GO:0000003 (reproduction)
+T109	NCBITaxon 5349 5355	animal
+#109	AnnotatorNotes T109	NCBITaxon:33208 (Metazoa)
+T110	GO_BP 5365 5371	mating
+#110	AnnotatorNotes T110	GO:0007618 (mating)
+T111	NCBITaxon 5405 5409	mice
+#111	AnnotatorNotes T111	NCBITaxon:10088 (Mus)
+T112	GO_BP 5426 5430	mate
+#112	AnnotatorNotes T112	GO:0007618 (mating)
+T113	GO_BP 5469 5475	mating
+#113	AnnotatorNotes T113	GO:0007618 (mating)
+T114	GO_CC 5488 5491	MHC
+#114	AnnotatorNotes T114	GO:0042611 (MHC protein complex)
+T115	GO_CC 5493 5525	major histocompatibility complex
+#115	AnnotatorNotes T115	GO:0042611 (MHC protein complex)
+T116	GO_BP 5542 5546	mate
+#116	AnnotatorNotes T116	GO:0007618 (mating)
+T117	GO_BP 5581 5587	mating
+#117	AnnotatorNotes T117	GO:0007618 (mating)
+T118	GO_CC 5600 5603	MHC
+#118	AnnotatorNotes T118	GO:0042611 (MHC protein complex)
+T119	GO_BP 5626 5637	pregnancies
+#119	AnnotatorNotes T119	GO:0007565 (female pregnancy)
+T120	NCBITaxon 5668 5672	mice
+#120	AnnotatorNotes T120	NCBITaxon:10088 (Mus)
+T121	NCBITaxon 5727 5731	mice
+#121	AnnotatorNotes T121	NCBITaxon:10088 (Mus)
+T122	EntrezGene 5798 5818	rat collagen type II
+#122	AnnotatorNotes T122	EG:25412
+T123	NCBITaxon 5798 5801	rat
+#123	AnnotatorNotes T123	NCBITaxon:10114 (Rattus)
+T124	GO_CC 5802 5818	collagen type II
+#124	AnnotatorNotes T124	GO:0005585 (collagen type II)
+T125	PR 5802 5818	collagen type II
+#125	AnnotatorNotes T125	PR:000003266 (collagen type II alpha chain)
+T126	GO_CC 5820 5823	CII
+#126	AnnotatorNotes T126	GO:0005585 (collagen type II)
+T127	EntrezGene 5820 5823	CII
+#127	AnnotatorNotes T127	EG:25412
+T128	PR 5820 5823	CII
+#128	AnnotatorNotes T128	PR:000003266 (collagen type II alpha chain)
+T129	CHEBI 5845 5856	acetic acid
+#129	AnnotatorNotes T129	CHEBI:15366 (acetic acid)
+T130	GO_CC 5993 5996	CII
+#130	AnnotatorNotes T130	GO:0005585 (collagen type II)
+T131	EntrezGene 5993 5996	CII
+#131	AnnotatorNotes T131	EG:25412
+T132	PR 5993 5996	CII
+#132	AnnotatorNotes T132	PR:000003266 (collagen type II alpha chain)
+T133	CHEBI 6017 6028	acetic acid
+#133	AnnotatorNotes T133	CHEBI:15366 (acetic acid)
+T134	NCBITaxon 6218 6225	Animals
+#134	AnnotatorNotes T134	NCBITaxon:33208 (Metazoa)
+T135	NCBITaxon 6365 6370	mouse
+#135	AnnotatorNotes T135	NCBITaxon:10088 (Mus)
+T136	GO_BP 6483 6495	inflammation
+#136	AnnotatorNotes T136	GO:0006954 (inflammatory response)
+T137	GO_BP 6531 6543	inflammation
+#137	AnnotatorNotes T137	GO:0006954 (inflammatory response)
+T138	NCBITaxon 6871 6878	animals
+#138	AnnotatorNotes T138	NCBITaxon:33208 (Metazoa)
+T139	SO 6881 6895	Microsatellite
+#139	AnnotatorNotes T139	SO:0000289 (microsatellite)
+T140	SO 7001 7004	DNA
+#140	AnnotatorNotes T140	SO:0000352 (DNA)
+T141	SO 7097 7100	DNA
+#141	AnnotatorNotes T141	SO:0000352 (DNA)
+T142	NCBITaxon 7124 7129	mouse
+#142	AnnotatorNotes T142	NCBITaxon:10088 (Mus)
+T143	CHEBI 7130 7150	fluorescence-labeled
+#143	AnnotatorNotes T143	CHEBI:39442 (fluorescent probe)
+T144	SO 7151 7173	microsatellite markers
+#144	AnnotatorNotes T144	SO:0000289 (microsatellite)
+T145	SO 7254 7260	genome
+#145	AnnotatorNotes T145	SO:0001026 (genome)
+T146	NCBITaxon 7294 7298	mice
+#146	AnnotatorNotes T146	NCBITaxon:10088 (Mus)
+T147	GO_CC 7340 7351	chromosomes
+#147	AnnotatorNotes T147	GO:0005694 (chromosome)
+T148	SO 7340 7351	chromosomes
+#148	AnnotatorNotes T148	SO:0000340 (chromosome)
+T149	GO_CC 7367 7379	Y chromosome
+#149	AnnotatorNotes T149	GO:0000806 (Y chromosome)
+T150	SO 7369 7379	chromosome
+#150	AnnotatorNotes T150	SO:0000340 (chromosome)
+T151	SO 7507 7510	DNA
+#151	AnnotatorNotes T151	SO:0000352 (DNA)
+T152	CHEBI 7518 7521	KCl
+#152	AnnotatorNotes T152	CHEBI:32588 (potassium chloride)
+T153	CHEBI 7529 7533	Tris
+#153	AnnotatorNotes T153	CHEBI:9754 (tris)
+T154	CHEBI 7534 7537	HCl
+#154	AnnotatorNotes T154	CHEBI:17883 (hydrogen chloride)
+T155	CHEBI 7534 7537	HCl
+#155	AnnotatorNotes T155	CHEBI:36807 (hydrochlorides)
+T156	CHEBI 7546 7549	NH4
+#156	AnnotatorNotes T156	CHEBI:28938 (ammonium)
+T157	sub 7548 7549	4
+#157	AnnotatorNotes T157	sub (null)
+T158	sub 7550 7551	2
+#158	AnnotatorNotes T158	sub (null)
+T159	sub 7553 7554	4
+#159	AnnotatorNotes T159	sub (null)
+T160	CHEBI 7561 7566	MgCl2
+#160	AnnotatorNotes T160	CHEBI:6636 (magnesium dichloride)
+T161	sub 7565 7566	2
+#161	AnnotatorNotes T161	sub (null)
+T162	SO 7660 7666	primer
+#162	AnnotatorNotes T162	SO:0000112 (primer)
+T163	CHEBI 7673 7678	dNTPs
+#163	AnnotatorNotes T163	CHEBI:16516 (2'-deoxyribonucleoside triphosphates)
+T164	CHEBI 7673 7678	dNTPs
+#164	AnnotatorNotes T164	CHEBI:16381 (2'-deoxyribonucleoside 5'-triphosphates)
+T165	italic 7736 7739	Taq
+#165	AnnotatorNotes T165	italic (null)
+T166	NCBITaxon 7736 7739	Taq
+#166	AnnotatorNotes T166	NCBITaxon:271 (Thermus aquaticus)
+T167	taxonomic_rank 7736 7739	Taq
+#167	AnnotatorNotes T167	taxonomic_rank (null)
+T168	SO 7740 7743	DNA
+#168	AnnotatorNotes T168	SO:0000352 (DNA)
+T169	SO 7829 7832	DNA
+#169	AnnotatorNotes T169	SO:0000352 (DNA)
+T170	GO_BP 7834 7846	denaturation
+#170	AnnotatorNotes T170	GO:0032508 (DNA duplex unwinding)
+T171	GO_MF 7870 7879	annealing
+#171	AnnotatorNotes T171	GO:0033592 (RNA strand annealing activity)
+T172	GO_MF 7870 7879	annealing
+#172	AnnotatorNotes T172	GO:0000739 (DNA strand annealing activity)
+T173	GO_BP 7904 7918	polymerization
+#173	AnnotatorNotes T173	GO:0022616 (DNA strand elongation)
+T174	GO_BP 8030 8039	extension
+#174	AnnotatorNotes T174	GO:0006354 (RNA elongation)
+T175	GO_BP 8030 8039	extension
+#175	AnnotatorNotes T175	GO:0022616 (DNA strand elongation)
+T176	SO 8071 8083	PCR products
+#176	AnnotatorNotes T176	SO:0000006 (PCR_product)
+T177	SO 8237 8244	Genetic
+#177	AnnotatorNotes T177	SO:0000704 (gene)
+T178	SO 8293 8296	Map
+#178	AnnotatorNotes T178	SO:0001248 (assembly)
+T179	NCBITaxon 8416 8421	mouse
+#179	AnnotatorNotes T179	NCBITaxon:10088 (Mus)
+T180	SO 8422 8428	genome
+#180	AnnotatorNotes T180	SO:0001026 (genome)
+T181	SO 8481 8484	map
+#181	AnnotatorNotes T181	SO:0001248 (assembly)
+T182	italic 8590 8591	P
+#182	AnnotatorNotes T182	italic (null)
+T183	italic 8760 8761	P
+#183	AnnotatorNotes T183	italic (null)
+T184	italic 8887 8888	P
+#184	AnnotatorNotes T184	italic (null)
+T185	SO 8898 8906	Interval
+#185	AnnotatorNotes T185	SO:0000001 (region)
+T186	SO 9025 9031	Enzyme
+#186	AnnotatorNotes T186	SO:0001185 (enzymatic)
+T187	NCBITaxon 9077 9081	mice
+#187	AnnotatorNotes T187	NCBITaxon:10088 (Mus)
+T188	GO_CC 9148 9151	CII
+#188	AnnotatorNotes T188	GO:0005585 (collagen type II)
+T189	EntrezGene 9148 9151	CII
+#189	AnnotatorNotes T189	EG:25412
+T190	PR 9148 9151	CII
+#190	AnnotatorNotes T190	PR:000003266 (collagen type II alpha chain)
+T191	GO_CC 9152 9160	antibody
+#191	AnnotatorNotes T191	GO:0019814 (immunoglobulin complex)
+T192	GO_CC 9236 9239	CII
+#192	AnnotatorNotes T192	GO:0005585 (collagen type II)
+T193	EntrezGene 9236 9239	CII
+#193	AnnotatorNotes T193	EG:25412
+T194	PR 9236 9239	CII
+#194	AnnotatorNotes T194	PR:000003266 (collagen type II alpha chain)
+T195	EntrezGene 9305 9325	Bovine serum albumin
+#195	AnnotatorNotes T195	EG:280717
+T196	NCBITaxon 9305 9311	Bovine
+#196	AnnotatorNotes T196	NCBITaxon:27592 (Bovinae)
+T197	PR 9312 9325	serum albumin
+#197	AnnotatorNotes T197	PR:000003918 (serum albumin)
+T198	NCBITaxon 9445 9450	mouse
+#198	AnnotatorNotes T198	NCBITaxon:10088 (Mus)
+T199	GO_CC 9456 9459	CII
+#199	AnnotatorNotes T199	GO:0005585 (collagen type II)
+T200	EntrezGene 9456 9459	CII
+#200	AnnotatorNotes T200	EG:25412
+T201	PR 9456 9459	CII
+#201	AnnotatorNotes T201	PR:000003266 (collagen type II alpha chain)
+T202	GO_CC 9460 9470	antibodies
+#202	AnnotatorNotes T202	GO:0019814 (immunoglobulin complex)
+T203	GO_CC 9547 9550	CII
+#203	AnnotatorNotes T203	GO:0005585 (collagen type II)
+T204	PR 9547 9550	CII
+#204	AnnotatorNotes T204	PR:000003266 (collagen type II alpha chain)
+T205	EntrezGene 9547 9550	CII
+#205	AnnotatorNotes T205	EG:25412
+T206	GO_CC 9560 9563	IgG
+#206	AnnotatorNotes T206	GO:0019814 (immunoglobulin complex)
+T207	GO_MF 9591 9601	peroxidase
+#207	AnnotatorNotes T207	GO:0004601 (peroxidase activity)
+T208	independent_continuant 9591 9601	peroxidase
+#208	AnnotatorNotes T208	independent_continuant
+T209	GO_BP 9602 9612	conjugated
+#209	AnnotatorNotes T209	GO:0043412 (biopolymer modification)
+T210	NCBITaxon 9613 9617	goat
+#210	AnnotatorNotes T210	NCBITaxon:9925 (Capra hircus)
+T211	GO_CC 9628 9631	IgG
+#211	AnnotatorNotes T211	GO:0019814 (immunoglobulin complex)
+T212	italic 9758 9759	U
+#212	AnnotatorNotes T212	italic (null)
+T213	italic 9787 9788	t
+#213	AnnotatorNotes T213	italic (null)
+T214	NCBITaxon 9818 9822	mice
+#214	AnnotatorNotes T214	NCBITaxon:10088 (Mus)
+T215	NCBITaxon 9958 9962	mice
+#215	AnnotatorNotes T215	NCBITaxon:10088 (Mus)
+T216	NCBITaxon 10144 10148	mice
+#216	AnnotatorNotes T216	NCBITaxon:10088 (Mus)
+T217	NCBITaxon 10217 10221	mice
+#217	AnnotatorNotes T217	NCBITaxon:10088 (Mus)
+T218	GO_CC 10354 10357	CII
+#218	AnnotatorNotes T218	GO:0005585 (collagen type II)
+T219	PR 10354 10357	CII
+#219	AnnotatorNotes T219	PR:000003266 (collagen type II alpha chain)
+T220	EntrezGene 10354 10357	CII
+#220	AnnotatorNotes T220	EG:25412
+T221	NCBITaxon 10487 10491	mice
+#221	AnnotatorNotes T221	NCBITaxon:10088 (Mus)
+T222	GO_BP 10508 10517	Pregnancy
+#222	AnnotatorNotes T222	GO:0007565 (female pregnancy)
+T223	NCBITaxon 10595 10599	mice
+#223	AnnotatorNotes T223	NCBITaxon:10088 (Mus)
+T224	SO 10609 10616	genetic
+#224	AnnotatorNotes T224	SO:0000704 (gene)
+T225	NCBITaxon 10741 10745	mice
+#225	AnnotatorNotes T225	NCBITaxon:10088 (Mus)
+T226	GO_BP 10828 10839	pregnancies
+#226	AnnotatorNotes T226	GO:0007565 (female pregnancy)
+T227	GO_CC 10888 10891	CII
+#227	AnnotatorNotes T227	GO:0005585 (collagen type II)
+T228	PR 10888 10891	CII
+#228	AnnotatorNotes T228	PR:000003266 (collagen type II alpha chain)
+T229	EntrezGene 10888 10891	CII
+#229	AnnotatorNotes T229	EG:25412
+T230	GO_BP 10998 11009	pregnancies
+#230	AnnotatorNotes T230	GO:0007565 (female pregnancy)
+T231	NCBITaxon 11128 11132	mice
+#231	AnnotatorNotes T231	NCBITaxon:10088 (Mus)
+T232	NCBITaxon 11147 11151	mice
+#232	AnnotatorNotes T232	NCBITaxon:10088 (Mus)
+T233	GO_BP 11182 11193	pregnancies
+#233	AnnotatorNotes T233	GO:0007565 (female pregnancy)
+T234	NCBITaxon 11242 11246	mice
+#234	AnnotatorNotes T234	NCBITaxon:10088 (Mus)
+T235	GO_BP 11277 11286	pregnancy
+#235	AnnotatorNotes T235	GO:0007565 (female pregnancy)
+T236	NCBITaxon 11362 11366	mice
+#236	AnnotatorNotes T236	NCBITaxon:10088 (Mus)
+T237	GO_BP 11387 11395	pregnant
+#237	AnnotatorNotes T237	GO:0007565 (female pregnancy)
+T238	GO_CC 11401 11404	MHC
+#238	AnnotatorNotes T238	GO:0042611 (MHC protein complex)
+T239	NCBITaxon 11444 11448	mice
+#239	AnnotatorNotes T239	NCBITaxon:10088 (Mus)
+T240	GO_BP 11469 11477	pregnant
+#240	AnnotatorNotes T240	GO:0007565 (female pregnancy)
+T241	GO_CC 11483 11486	MHC
+#241	AnnotatorNotes T241	GO:0042611 (MHC protein complex)
+T242	SO 11515 11519	loci
+#242	AnnotatorNotes T242	SO:0000001 (region)
+T243	NCBITaxon 11565 11569	mice
+#243	AnnotatorNotes T243	NCBITaxon:10088 (Mus)
+T244	SO 11575 11582	genetic
+#244	AnnotatorNotes T244	SO:0000704 (gene)
+T245	SO 11625 11649	quantitative trait locus
+#245	AnnotatorNotes T245	SO:0000771 (QTL)
+T246	SO 11651 11654	QTL
+#246	AnnotatorNotes T246	SO:0000771 (QTL)
+T247	GO_CC 11679 11689	chromosome
+#247	AnnotatorNotes T247	GO:0005694 (chromosome)
+T248	SO 11679 11689	chromosome
+#248	AnnotatorNotes T248	SO:0000340 (chromosome)
+T249	SO 11722 11727	locus
+#249	AnnotatorNotes T249	SO:0000001 (region)
+T250	italic 11737 11742	Cia40
+#250	AnnotatorNotes T250	italic (null)
+T251	EntrezGene 11737 11742	Cia40
+#251	AnnotatorNotes T251	EG:100035176
+T252	SO 11921 11924	QTL
+#252	AnnotatorNotes T252	SO:0000771 (QTL)
+T253	GO_CC 12012 12022	chromosome
+#253	AnnotatorNotes T253	GO:0005694 (chromosome)
+T254	SO 12012 12022	chromosome
+#254	AnnotatorNotes T254	SO:0000340 (chromosome)
+T255	SO 12059 12062	QTL
+#255	AnnotatorNotes T255	SO:0000771 (QTL)
+T256	GO_CC 12082 12085	CII
+#256	AnnotatorNotes T256	GO:0005585 (collagen type II)
+T257	PR 12082 12085	CII
+#257	AnnotatorNotes T257	PR:000003266 (collagen type II alpha chain)
+T258	EntrezGene 12082 12085	CII
+#258	AnnotatorNotes T258	EG:25412
+T259	GO_CC 12086 12094	antibody
+#259	AnnotatorNotes T259	GO:0019814 (immunoglobulin complex)
+T260	GO_CC 12119 12129	chromosome
+#260	AnnotatorNotes T260	GO:0005694 (chromosome)
+T261	SO 12119 12129	chromosome
+#261	AnnotatorNotes T261	SO:0000340 (chromosome)
+T262	GO_CC 12201 12204	MHC
+#262	AnnotatorNotes T262	GO:0042611 (MHC protein complex)
+T263	SO 12205 12211	region
+#263	AnnotatorNotes T263	SO:0000001 (region)
+T264	NCBITaxon 12233 12237	mice
+#264	AnnotatorNotes T264	NCBITaxon:10088 (Mus)
+T265	NCBITaxon 12283 12288	mouse
+#265	AnnotatorNotes T265	NCBITaxon:10088 (Mus)
+T266	NCBITaxon 12314 12319	mouse
+#266	AnnotatorNotes T266	NCBITaxon:10088 (Mus)
+T267	sup 12330 12331	q
+#267	AnnotatorNotes T267	sup (null)
+T268	SO 12332 12341	haplotype
+#268	AnnotatorNotes T268	SO:0001024 (haplotype)
+T269	NCBITaxon 12376 12381	mouse
+#269	AnnotatorNotes T269	NCBITaxon:10088 (Mus)
+T270	GO_BP 12429 12437	breeding
+#270	AnnotatorNotes T270	GO:0000003 (reproduction)
+T271	NCBITaxon 12454 12458	mice
+#271	AnnotatorNotes T271	NCBITaxon:10088 (Mus)
+T272	SO 12537 12544	genetic
+#272	AnnotatorNotes T272	SO:0000704 (gene)
+T273	GO_BP 12554 12566	reproduction
+#273	AnnotatorNotes T273	GO:0000003 (reproduction)
+T274	SO 12589 12593	loci
+#274	AnnotatorNotes T274	SO:0000001 (region)
+T275	GO_BP 12610 12618	breeding
+#275	AnnotatorNotes T275	GO:0000003 (reproduction)
+T276	EntrezGene 12844 12863	MHC class II A beta
+#276	AnnotatorNotes T276	EG:14961
+T277	PR 12844 12863	MHC class II A beta
+#277	AnnotatorNotes T277	PR:000001821 (MHC class II histocompatibility antigen beta chain)
+T278	GO_CC 12844 12856	MHC class II
+#278	AnnotatorNotes T278	GO:0042613 (MHC class II protein complex)
+T279	SO 12864 12869	genes
+#279	AnnotatorNotes T279	SO:0000704 (gene)
+T280	GO_BP 12916 12928	inflammatory
+#280	AnnotatorNotes T280	GO:0006954 (inflammatory response)
+T281	NCBITaxon 12940 12944	mice
+#281	AnnotatorNotes T281	NCBITaxon:10088 (Mus)
+T282	SO 13019 13026	genetic
+#282	AnnotatorNotes T282	SO:0000704 (gene)
+T283	GO_BP 13027 13034	control
+#283	AnnotatorNotes T283	GO:0065007 (biological regulation)
+T284	GO_BP 13051 13055	aged
+#284	AnnotatorNotes T284	GO:0007568 (aging)
+T285	NCBITaxon 13099 13104	human
+#285	AnnotatorNotes T285	NCBITaxon:9606 (Homo sapiens)
+T286	NCBITaxon 13197 13201	mice
+#286	AnnotatorNotes T286	NCBITaxon:10088 (Mus)
+T287	GO_BP 13220 13232	reproductive
+#287	AnnotatorNotes T287	GO:0000003 (reproduction)
+T288	SO 13425 13429	loci
+#288	AnnotatorNotes T288	SO:0000001 (region)
+T289	NCBITaxon 13433 13437	mice
+#289	AnnotatorNotes T289	NCBITaxon:10088 (Mus)
+T290	NCBITaxon 13470 13474	mice
+#290	AnnotatorNotes T290	NCBITaxon:10088 (Mus)
+T291	NCBITaxon 13526 13530	mice
+#291	AnnotatorNotes T291	NCBITaxon:10088 (Mus)
+T292	SO 13703 13707	loci
+#292	AnnotatorNotes T292	SO:0000001 (region)
+T293	SO 13760 13771	polymorphic
+#293	AnnotatorNotes T293	SO:0001025 (polymorphic_sequence_variant)
+T294	SO 13760 13771	polymorphic
+#294	AnnotatorNotes T294	SO:0000694 (SNP)
+T295	SO 13772 13777	genes
+#295	AnnotatorNotes T295	SO:0000704 (gene)
+T296	GO_BP 14094 14103	pregnancy
+#296	AnnotatorNotes T296	GO:0007565 (female pregnancy)
+T297	GO_BP 14242 14251	pregnancy
+#297	AnnotatorNotes T297	GO:0007565 (female pregnancy)
+T298	NCBITaxon 14361 14365	mice
+#298	AnnotatorNotes T298	NCBITaxon:10088 (Mus)
+T299	NCBITaxon 14370 14376	humans
+#299	AnnotatorNotes T299	NCBITaxon:9606 (Homo sapiens)
+T300	GO_BP 14418 14426	delivery
+#300	AnnotatorNotes T300	GO:0007567 (parturition)
+T301	SO 14485 14489	loci
+#301	AnnotatorNotes T301	SO:0000001 (region)
+T302	GO_CC 14587 14598	chromosomes
+#302	AnnotatorNotes T302	GO:0005694 (chromosome)
+T303	SO 14587 14598	chromosomes
+#303	AnnotatorNotes T303	SO:0000340 (chromosome)
+T304	GO_CC 14638 14641	CII
+#304	AnnotatorNotes T304	GO:0005585 (collagen type II)
+T305	EntrezGene 14638 14641	CII
+#305	AnnotatorNotes T305	EG:25412
+T306	PR 14638 14641	CII
+#306	AnnotatorNotes T306	PR:000003266 (collagen type II alpha chain)
+T307	GO_CC 14650 14660	chromosome
+#307	AnnotatorNotes T307	GO:0005694 (chromosome)
+T308	SO 14650 14660	chromosome
+#308	AnnotatorNotes T308	SO:0000340 (chromosome)
+T309	SO 14681 14685	loci
+#309	AnnotatorNotes T309	SO:0000001 (region)
+T310	GO_CC 14721 14731	chromosome
+#310	AnnotatorNotes T310	GO:0005694 (chromosome)
+T311	SO 14721 14731	chromosome
+#311	AnnotatorNotes T311	SO:0000340 (chromosome)
+T312	italic 14735 14740	Cia15
+#312	AnnotatorNotes T312	italic (null)
+T313	EntrezGene 14735 14740	Cia15
+#313	AnnotatorNotes T313	EG:493045
+T314	italic 14755 14760	Cia20
+#314	AnnotatorNotes T314	italic (null)
+T315	EntrezGene 14755 14760	Cia20
+#315	AnnotatorNotes T315	EG:493046
+T316	italic 14779 14783	Cia9
+#316	AnnotatorNotes T316	italic (null)
+T317	EntrezGene 14779 14783	Cia9
+#317	AnnotatorNotes T317	EG:114651
+T318	SO 14822 14826	loci
+#318	AnnotatorNotes T318	SO:0000001 (region)
+T319	SO 14854 14859	locus
+#319	AnnotatorNotes T319	SO:0000001 (region)
+T320	GO_CC 14869 14879	chromosome
+#320	AnnotatorNotes T320	GO:0005694 (chromosome)
+T321	SO 14869 14879	chromosome
+#321	AnnotatorNotes T321	SO:0000340 (chromosome)
+T322	italic 14925 14930	Cia40
+#322	AnnotatorNotes T322	italic (null)
+T323	EntrezGene 14925 14930	Cia40
+#323	AnnotatorNotes T323	EG:100035176
+T324	SO 14931 14936	locus
+#324	AnnotatorNotes T324	SO:0000001 (region)
+T325	italic 14950 14955	Ctla4
+#325	AnnotatorNotes T325	italic (null)
+T326	PR 14950 14955	Ctla4
+#326	AnnotatorNotes T326	PR:000001852 (cytotoxic T-lymphocyte protein 4)
+T327	EntrezGene 14950 14955	Ctla4
+#327	AnnotatorNotes T327	EG:12477
+T328	EntrezGene 14957 14962	CD152
+#328	AnnotatorNotes T328	EG:12477
+T329	PR 14957 14962	CD152
+#329	AnnotatorNotes T329	PR:000001852 (cytotoxic T-lymphocyte protein 4)
+T330	SO 14964 14968	gene
+#330	AnnotatorNotes T330	SO:0000704 (gene)
+T331	SO 15203 15208	locus
+#331	AnnotatorNotes T331	SO:0000001 (region)
+T332	SO 15230 15242	polymorphism
+#332	AnnotatorNotes T332	SO:0001025 (polymorphic_sequence_variant)
+T333	SO 15230 15242	polymorphism
+#333	AnnotatorNotes T333	SO:0000694 (SNP)
+T334	italic 15254 15259	Cia40
+#334	AnnotatorNotes T334	italic (null)
+T335	EntrezGene 15254 15259	Cia40
+#335	AnnotatorNotes T335	EG:100035176
+T336	SO 15277 15282	genes
+#336	AnnotatorNotes T336	SO:0000704 (gene)
+T337	SO 15374 15379	locus
+#337	AnnotatorNotes T337	SO:0000001 (region)
+T338	italic 15381 15386	Cia28
+#338	AnnotatorNotes T338	italic (null)
+T339	EntrezGene 15381 15386	Cia28
+#339	AnnotatorNotes T339	EG:100035559
+T340	GO_CC 15409 15412	CII
+#340	AnnotatorNotes T340	GO:0005585 (collagen type II)
+T341	PR 15409 15412	CII
+#341	AnnotatorNotes T341	PR:000003266 (collagen type II alpha chain)
+T342	GO_BP 15413 15432	antibody production
+#342	AnnotatorNotes T342	GO:0002378 (immunoglobulin biosynthetic process)
+T343	GO_BP 15413 15432	antibody production
+#343	AnnotatorNotes T343	GO:0002377 (immunoglobulin production)
+T344	GO_CC 15413 15421	antibody
+#344	AnnotatorNotes T344	GO:0019814 (immunoglobulin complex)
+T345	GO_CC 15445 15455	chromosome
+#345	AnnotatorNotes T345	GO:0005694 (chromosome)
+T346	SO 15445 15455	chromosome
+#346	AnnotatorNotes T346	SO:0000340 (chromosome)
+T347	SO 15500 15508	position
+#347	AnnotatorNotes T347	SO:0000001 (region)
+T348	SO 15612 15615	QTL
+#348	AnnotatorNotes T348	SO:0000771 (QTL)
+T349	GO_CC 15638 15648	chromosome
+#349	AnnotatorNotes T349	GO:0005694 (chromosome)
+T350	SO 15638 15648	chromosome
+#350	AnnotatorNotes T350	SO:0000340 (chromosome)
+T351	italic 15667 15672	Cia28
+#351	AnnotatorNotes T351	italic (null)
+T352	EntrezGene 15667 15672	Cia28
+#352	AnnotatorNotes T352	EG:100035559
+T353	SO 15698 15703	locus
+#353	AnnotatorNotes T353	SO:0000001 (region)
+T354	GO_CC 15729 15739	chromosome
+#354	AnnotatorNotes T354	GO:0005694 (chromosome)
+T355	SO 15729 15739	chromosome
+#355	AnnotatorNotes T355	SO:0000340 (chromosome)
+T356	SO 15788 15793	locus
+#356	AnnotatorNotes T356	SO:0000001 (region)
+T357	GO_CC 15808 15818	chromosome
+#357	AnnotatorNotes T357	GO:0005694 (chromosome)
+T358	SO 15808 15818	chromosome
+#358	AnnotatorNotes T358	SO:0000340 (chromosome)
+T359	italic 15834 15839	Cia28
+#359	AnnotatorNotes T359	italic (null)
+T360	EntrezGene 15834 15839	Cia28
+#360	AnnotatorNotes T360	EG:100035559
+T361	SO 15896 15899	QTL
+#361	AnnotatorNotes T361	SO:0000771 (QTL)
+T362	GO_CC 15942 15952	chromosome
+#362	AnnotatorNotes T362	GO:0005694 (chromosome)
+T363	SO 15942 15952	chromosome
+#363	AnnotatorNotes T363	SO:0000340 (chromosome)
+T364	italic 15965 15970	Cia40
+#364	AnnotatorNotes T364	italic (null)
+T365	EntrezGene 15965 15970	Cia40
+#365	AnnotatorNotes T365	EG:100035176
+T366	SO 15986 15991	genes
+#366	AnnotatorNotes T366	SO:0000704 (gene)
+T367	SO 16027 16033	region
+#367	AnnotatorNotes T367	SO:0000001 (region)
+T368	SO 16051 16069	part of chromosome
+#368	AnnotatorNotes T368	SO:0000830 (chromosome_part)
+T369	GO_CC 16059 16069	chromosome
+#369	AnnotatorNotes T369	GO:0005694 (chromosome)
+T370	SO 16059 16069	chromosome
+#370	AnnotatorNotes T370	SO:0000340 (chromosome)
+T371	GO_BP 16105 16117	inflammation
+#371	AnnotatorNotes T371	GO:0006954 (inflammatory response)
+T372	SO 16118 16122	loci
+#372	AnnotatorNotes T372	SO:0000001 (region)
+T373	italic 16132 16137	Eae22
+#373	AnnotatorNotes T373	italic (null)
+T374	EntrezGene 16132 16137	Eae22
+#374	AnnotatorNotes T374	EG:114234
+T375	italic 16139 16144	Eae6b
+#375	AnnotatorNotes T375	italic (null)
+T376	EntrezGene 16139 16144	Eae6b
+#376	AnnotatorNotes T376	EG:112393
+T377	italic 16146 16151	Eae23
+#377	AnnotatorNotes T377	italic (null)
+T378	EntrezGene 16146 16151	Eae23
+#378	AnnotatorNotes T378	EG:114235
+T379	italic 16156 16160	Eae7
+#379	AnnotatorNotes T379	italic (null)
+T380	EntrezGene 16156 16160	Eae7
+#380	AnnotatorNotes T380	EG:112388
+T381	SO 16174 16177	QTL
+#381	AnnotatorNotes T381	SO:0000771 (QTL)
+T382	CHEBI 16182 16194	proteoglycan
+#382	AnnotatorNotes T382	CHEBI:37396 (proteoglycans)
+T383	GO_CC 16283 16293	chromosome
+#383	AnnotatorNotes T383	GO:0005694 (chromosome)
+T384	SO 16283 16293	chromosome
+#384	AnnotatorNotes T384	SO:0000340 (chromosome)
+T385	SO 16312 16317	locus
+#385	AnnotatorNotes T385	SO:0000001 (region)
+T386	italic 16319 16325	Pgia28
+#386	AnnotatorNotes T386	italic (null)
+T387	EntrezGene 16319 16325	Pgia28
+#387	AnnotatorNotes T387	EG:100034860
+T388	italic 16361 16366	Cia40
+#388	AnnotatorNotes T388	italic (null)
+T389	EntrezGene 16361 16366	Cia40
+#389	AnnotatorNotes T389	EG:100035176
+T390	NCBITaxon 16398 16403	mouse
+#390	AnnotatorNotes T390	NCBITaxon:10088 (Mus)
+T391	GO_CC 16404 16414	chromosome
+#391	AnnotatorNotes T391	GO:0005694 (chromosome)
+T392	SO 16404 16414	chromosome
+#392	AnnotatorNotes T392	SO:0000340 (chromosome)
+T393	SO 16435 16440	genes
+#393	AnnotatorNotes T393	SO:0000704 (gene)
+T394	SO 16457 16466	conserved
+#394	AnnotatorNotes T394	SO:0000856 (conserved)
+T395	NCBITaxon 16472 16477	human
+#395	AnnotatorNotes T395	NCBITaxon:9606 (Homo sapiens)
+T396	GO_CC 16478 16488	chromosome
+#396	AnnotatorNotes T396	GO:0005694 (chromosome)
+T397	SO 16478 16488	chromosome
+#397	AnnotatorNotes T397	SO:0000340 (chromosome)
+T398	NCBITaxon 16506 16511	human
+#398	AnnotatorNotes T398	NCBITaxon:9606 (Homo sapiens)
+T399	SO 16550 16556	region
+#399	AnnotatorNotes T399	SO:0000001 (region)
+T400	SO 16583 16588	locus
+#400	AnnotatorNotes T400	SO:0000001 (region)
+T401	italic 16592 16596	Cia5
+#401	AnnotatorNotes T401	italic (null)
+T402	EntrezGene 16592 16596	Cia5
+#402	AnnotatorNotes T402	EG:326441
+T403	SO 16604 16611	homolog
+#403	AnnotatorNotes T403	SO:0000853 (homologous_region)
+T404	NCBITaxon 16612 16615	rat
+#404	AnnotatorNotes T404	NCBITaxon:10114 (Rattus)
+T405	GO_CC 16616 16626	chromosome
+#405	AnnotatorNotes T405	GO:0005694 (chromosome)
+T406	SO 16616 16626	chromosome
+#406	AnnotatorNotes T406	SO:0000340 (chromosome)
+T407	GO_BP 16637 16646	regulates
+#407	AnnotatorNotes T407	GO:0065007 (biological regulation)
+T408	SO 16796 16799	QTL
+#408	AnnotatorNotes T408	SO:0000771 (QTL)
+T409	italic 16808 16814	Pregq2
+#409	AnnotatorNotes T409	italic (null)
+T410	EntrezGene 16808 16814	Pregq2
+#410	AnnotatorNotes T410	EG:100035680
+T411	GO_BP 16830 16839	pregnancy
+#411	AnnotatorNotes T411	GO:0007565 (female pregnancy)
+T412	SO 16868 16874	region
+#412	AnnotatorNotes T412	SO:0000001 (region)
+T413	italic 16878 16883	Cia40
+#413	AnnotatorNotes T413	italic (null)
+T414	EntrezGene 16878 16883	Cia40
+#414	AnnotatorNotes T414	EG:100035176
+T415	GO_CC 16905 16915	chromosome
+#415	AnnotatorNotes T415	GO:0005694 (chromosome)
+T416	SO 16905 16915	chromosome
+#416	AnnotatorNotes T416	SO:0000340 (chromosome)
+T417	SO 17050 17056	region
+#417	AnnotatorNotes T417	SO:0000001 (region)
+T418	SO 17066 17071	genes
+#418	AnnotatorNotes T418	SO:0000704 (gene)
+T419	NCBITaxon 17115 17119	mice
+#419	AnnotatorNotes T419	NCBITaxon:10088 (Mus)
+T420	GO_BP 17158 17168	deliveries
+#420	AnnotatorNotes T420	GO:0007567 (parturition)
+T421	NCBITaxon 17179 17183	mice
+#421	AnnotatorNotes T421	NCBITaxon:10088 (Mus)
+T422	GO_BP 17190 17199	pregnancy
+#422	AnnotatorNotes T422	GO:0007565 (female pregnancy)
+T423	NCBITaxon 17209 17213	mice
+#423	AnnotatorNotes T423	NCBITaxon:10088 (Mus)
+T424	GO_BP 17239 17250	pregnancies
+#424	AnnotatorNotes T424	GO:0007565 (female pregnancy)
+T425	GO_BP 17312 17321	pregnancy
+#425	AnnotatorNotes T425	GO:0007565 (female pregnancy)
+T426	GO_BP 17368 17380	inflammatory
+#426	AnnotatorNotes T426	GO:0006954 (inflammatory response)
+T427	SO 17420 17427	gene(s)
+#427	AnnotatorNotes T427	SO:0000704 (gene)
+T428	SO 17615 17619	loci
+#428	AnnotatorNotes T428	SO:0000001 (region)
+T429	GO_CC 17666 17676	chromosome
+#429	AnnotatorNotes T429	GO:0005694 (chromosome)
+T430	SO 17666 17676	chromosome
+#430	AnnotatorNotes T430	SO:0000340 (chromosome)
+T431	italic 17681 17686	Cia40
+#431	AnnotatorNotes T431	italic (null)
+T432	EntrezGene 17681 17686	Cia40
+#432	AnnotatorNotes T432	EG:100035176
+T433	GO_CC 17695 17705	chromosome
+#433	AnnotatorNotes T433	GO:0005694 (chromosome)
+T434	SO 17695 17705	chromosome
+#434	AnnotatorNotes T434	SO:0000340 (chromosome)
+T435	GO_CC 17724 17734	chromosome
+#435	AnnotatorNotes T435	GO:0005694 (chromosome)
+T436	SO 17724 17734	chromosome
+#436	AnnotatorNotes T436	SO:0000340 (chromosome)
+T437	SO 17740 17745	locus
+#437	AnnotatorNotes T437	SO:0000001 (region)
+T438	GO_CC 17767 17770	CII
+#438	AnnotatorNotes T438	GO:0005585 (collagen type II)
+T439	PR 17767 17770	CII
+#439	AnnotatorNotes T439	PR:000003266 (collagen type II alpha chain)
+T440	EntrezGene 17767 17770	CII
+#440	AnnotatorNotes T440	EG:25412
+T441	italic 17831 17836	Cia28
+#441	AnnotatorNotes T441	italic (null)
+T442	EntrezGene 17831 17836	Cia28
+#442	AnnotatorNotes T442	EG:100035559
+T443	GO_CC 17865 17873	collagen
+#443	AnnotatorNotes T443	GO:0005581 (collagen)
+T444	PR 17865 17873	collagen
+#444	AnnotatorNotes T444	PR:000003262 (collagen alpha chain)
+T445	GO_CC 17893 17896	CII
+#445	AnnotatorNotes T445	GO:0005585 (collagen type II)
+T446	PR 17893 17896	CII
+#446	AnnotatorNotes T446	PR:000003266 (collagen type II alpha chain)
+T447	EntrezGene 17893 17896	CII
+#447	AnnotatorNotes T447	EG:25412
+T448	GO_CC 17899 17915	collagen type II
+#448	AnnotatorNotes T448	GO:0005585 (collagen type II)
+T449	PR 17899 17915	collagen type II
+#449	AnnotatorNotes T449	PR:000003266 (collagen type II alpha chain)
+T450	EntrezGene 17899 17915	collagen type II
+#450	AnnotatorNotes T450	EG:25412
+T451	GO_CC 17946 17949	MHC
+#451	AnnotatorNotes T451	GO:0042611 (MHC protein complex)
+T452	GO_CC 17952 17984	major histocompatibility complex
+#452	AnnotatorNotes T452	GO:0042611 (MHC protein complex)
+T453	SO 18019 18022	QTL
+#453	AnnotatorNotes T453	SO:0000771 (QTL)
+T454	SO 18025 18049	quantitative trait locus
+#454	AnnotatorNotes T454	SO:0000771 (QTL)
+T455	NCBITaxon 18758 18762	mice
+#455	AnnotatorNotes T455	NCBITaxon:10088 (Mus)
+T456	SO 18775 18796	Chromosomal locations
+#456	AnnotatorNotes T456	SO:0000830 (chromosome_part)
+T457	GO_CC 18775 18786	Chromosomal
+#457	AnnotatorNotes T457	GO:0005694 (chromosome)
+T458	SO 18775 18786	Chromosomal
+#458	AnnotatorNotes T458	SO:0000340 (chromosome)
+T459	SO 18804 18827	quantitative trait loci
+#459	AnnotatorNotes T459	SO:0000771 (QTL)
+T460	SO 18829 18832	QTL
+#460	AnnotatorNotes T460	SO:0000771 (QTL)
+T461	GO_CC 18838 18846	collagen
+#461	AnnotatorNotes T461	GO:0005581 (collagen)
+T462	PR 18838 18846	collagen
+#462	AnnotatorNotes T462	PR:000003262 (collagen alpha chain)
+T463	GO_CC 18878 18889	chromosomes
+#463	AnnotatorNotes T463	GO:0005694 (chromosome)
+T464	SO 18878 18889	chromosomes
+#464	AnnotatorNotes T464	SO:0000340 (chromosome)
+T465	SO 18900 18903	QTL
+#465	AnnotatorNotes T465	SO:0000771 (QTL)
+T466	GO_CC 18908 18924	collagen type II
+#466	AnnotatorNotes T466	GO:0005585 (collagen type II)
+T467	EntrezGene 18908 18924	collagen type II
+#467	AnnotatorNotes T467	EG:25412
+T468	PR 18908 18924	collagen type II
+#468	AnnotatorNotes T468	PR:000003266 (collagen type II alpha chain)
+T469	GO_CC 18926 18929	CII
+#469	AnnotatorNotes T469	GO:0005585 (collagen type II)
+T470	EntrezGene 18926 18929	CII
+#470	AnnotatorNotes T470	EG:25412
+T471	PR 18926 18929	CII
+#471	AnnotatorNotes T471	PR:000003266 (collagen type II alpha chain)
+T472	GO_CC 18931 18939	antibody
+#472	AnnotatorNotes T472	GO:0019814 (immunoglobulin complex)
+T473	GO_CC 18966 18976	chromosome
+#473	AnnotatorNotes T473	GO:0005694 (chromosome)
+T474	SO 18966 18976	chromosome
+#474	AnnotatorNotes T474	SO:0000340 (chromosome)
+T475	italic 19010 19011	P
+#475	AnnotatorNotes T475	italic (null)
+T476	italic 19055 19056	n
+#476	AnnotatorNotes T476	italic (null)
+T477	italic 19100 19101	P
+#477	AnnotatorNotes T477	italic (null)
+T478	italic 19145 19146	n
+#478	AnnotatorNotes T478	italic (null)
+T479	GO_CC 19198 19214	collagen type II
+#479	AnnotatorNotes T479	GO:0005585 (collagen type II)
+T480	EntrezGene 19198 19214	collagen type II
+#480	AnnotatorNotes T480	EG:25412
+T481	PR 19198 19214	collagen type II
+#481	AnnotatorNotes T481	PR:000003266 (collagen type II alpha chain)
+T482	GO_CC 19221 19224	CII
+#482	AnnotatorNotes T482	GO:0005585 (collagen type II)
+T483	EntrezGene 19221 19224	CII
+#483	AnnotatorNotes T483	EG:25412
+T484	PR 19221 19224	CII
+#484	AnnotatorNotes T484	PR:000003266 (collagen type II alpha chain)
+T485	NCBITaxon 19267 19271	mice
+#485	AnnotatorNotes T485	NCBITaxon:10088 (Mus)
+T486	sup 19294 19295	a
+#486	AnnotatorNotes T486	sup (null)
+T487	NCBITaxon 19362 19366	mice
+#487	AnnotatorNotes T487	NCBITaxon:10088 (Mus)
+T488	sup 19432 19433	b
+#488	AnnotatorNotes T488	sup (null)
+T489	NCBITaxon 19495 19499	mice
+#489	AnnotatorNotes T489	NCBITaxon:10088 (Mus)
+T490	sup 19526 19527	c
+#490	AnnotatorNotes T490	sup (null)
+T491	NCBITaxon 19562 19566	mice
+#491	AnnotatorNotes T491	NCBITaxon:10088 (Mus)
+T492	italic 19568 19569	P
+#492	AnnotatorNotes T492	italic (null)
+T493	italic 19599 19600	t
+#493	AnnotatorNotes T493	italic (null)
+T494	NCBITaxon 19687 19691	mice
+#494	AnnotatorNotes T494	NCBITaxon:10088 (Mus)
+T495	sup 19693 19694	a
+#495	AnnotatorNotes T495	sup (null)
+T496	NCBITaxon 19761 19765	mice
+#496	AnnotatorNotes T496	NCBITaxon:10088 (Mus)
+T497	sup 19820 19821	b
+#497	AnnotatorNotes T497	sup (null)
+T498	NCBITaxon 19885 19889	mice
+#498	AnnotatorNotes T498	NCBITaxon:10088 (Mus)
+T499	SO 19952 19961	genotypes
+#499	AnnotatorNotes T499	SO:0001027 (genotype)
+T500	NCBITaxon 19997 20001	mice
+#500	AnnotatorNotes T500	NCBITaxon:10088 (Mus)
+T501	SO 20015 20019	loci
+#501	AnnotatorNotes T501	SO:0000001 (region)
+T502	GO_CC 20053 20061	collagen
+#502	AnnotatorNotes T502	GO:0005581 (collagen)
+T503	PR 20053 20061	collagen
+#503	AnnotatorNotes T503	PR:000003262 (collagen alpha chain)

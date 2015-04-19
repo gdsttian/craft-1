@@ -1,0 +1,3182 @@
+T1	EntrezGene 20 45	Huntington's disease gene
+#1	AnnotatorNotes T1	EG:15194
+T2	SO 41 45	gene
+#2	AnnotatorNotes T2	SO:0000704 (gene)
+T3	italic 47 50	Hdh
+#3	AnnotatorNotes T3	italic (null)
+T4	EntrezGene 47 50	Hdh
+#4	AnnotatorNotes T4	EG:15194
+T5	PR 47 50	Hdh
+#5	AnnotatorNotes T5	PR:000008840 (huntingtin)
+T6	GO_BP 76 85	formation
+#6	AnnotatorNotes T6	GO:0032502 (developmental process)
+T7	GO_BP 96 126	patterning of the mouse embryo
+#7	AnnotatorNotes T7	"patterning of .. embryo" GO:0009880 (embryonic pattern specification)
+T8	NCBITaxon 114 119	mouse
+#8	AnnotatorNotes T8	NCBITaxon:10088 (Mus)
+T9	PR 150 160	Huntingtin
+#9	AnnotatorNotes T9	PR:000008840 (huntingtin)
+T10	italic 166 168	HD
+#10	AnnotatorNotes T10	italic (null)
+T11	PR 166 168	HD
+#11	AnnotatorNotes T11	PR:000008840 (huntingtin)
+T12	SO 169 173	gene
+#12	AnnotatorNotes T12	SO:0000704 (gene)
+T13	CHEBI 182 189	protein
+#13	AnnotatorNotes T13	CHEBI:36080 (proteins)
+T14	SO 190 197	mutated
+#14	AnnotatorNotes T14	SO:0000041 (sequence_operation)
+T15	GO_BP 299 311	gastrulation
+#15	AnnotatorNotes T15	GO:0007369 (gastrulation)
+T16	GO_BP 356 391	patterning of the developing embryo
+#16	AnnotatorNotes T16	"patterning of .. embryo" GO:0009880 (embryonic pattern specification)
+T17	GO_BP 374 384	developing
+#17	AnnotatorNotes T17	GO:0032502 (developmental process)
+T18	italic 447 454	in situ
+#18	AnnotatorNotes T18	italic (null)
+T19	GO_MF 455 468	hybridization
+#19	AnnotatorNotes T19	GO:0000739 (DNA strand annealing activity)
+T20	GO_MF 455 468	hybridization
+#20	AnnotatorNotes T20	GO:0033592 (RNA strand annealing activity)
+T21	GO_BP 480 518	embryonic patterning and morphogenesis
+#21	AnnotatorNotes T21	"embryonic .. morphogenesis" GO:0048598 (embryonic morphogenesis)
+T22	GO_BP 480 500	embryonic patterning
+#22	AnnotatorNotes T22	GO:0009880 (embryonic pattern specification)
+T23	italic 533 536	Hdh
+#23	AnnotatorNotes T23	italic (null)
+T24	sup 536 541	ex4/5
+#24	AnnotatorNotes T24	sup (null)
+T25	italic 536 538	ex
+#25	AnnotatorNotes T25	italic (null)
+T26	EntrezGene 542 552	huntingtin
+#26	AnnotatorNotes T26	EG:15194
+T27	PR 542 552	huntingtin
+#27	AnnotatorNotes T27	PR:000008840 (huntingtin)
+T28	EntrezGene 600 610	huntingtin
+#28	AnnotatorNotes T28	EG:15194
+T29	PR 600 610	huntingtin
+#29	AnnotatorNotes T29	PR:000008840 (huntingtin)
+T30	GO_BP 612 641	expression of nutritive genes
+#30	AnnotatorNotes T30	"expression of .. genes" GO:0010467 (gene expression)
+T31	SO 636 641	genes
+#31	AnnotatorNotes T31	SO:0000704 (gene)
+T32	GO_BP 710 720	patterning
+#32	AnnotatorNotes T32	GO:0007389 (pattern specification process)
+T33	GO_BP 812 822	production
+#33	AnnotatorNotes T33	GO:0032502 (developmental process)
+T34	italic 863 868	Wnt3a
+#34	AnnotatorNotes T34	italic (null)
+T35	PR 863 868	Wnt3a
+#35	AnnotatorNotes T35	PR:000017443 (protein Wnt-3a)
+T36	EntrezGene 863 868	Wnt3a
+#36	AnnotatorNotes T36	EG:22416
+T37	italic 870 874	Tbx6
+#37	AnnotatorNotes T37	italic (null)
+T38	PR 870 874	Tbx6
+#38	AnnotatorNotes T38	PR:000016154 (T-box transcription factor TBX6)
+T39	EntrezGene 870 874	Tbx6
+#39	AnnotatorNotes T39	EG:21389
+T40	italic 879 883	Dll1
+#40	AnnotatorNotes T40	italic (null)
+T41	PR 879 883	Dll1
+#41	AnnotatorNotes T41	PR:000006523 (delta-like protein 1)
+T42	EntrezGene 879 883	Dll1
+#42	AnnotatorNotes T42	EG:13388
+T43	GO_BP 884 894	expression
+#43	AnnotatorNotes T43	GO:0010467 (gene expression)
+T44	italic 943 947	Otx2
+#44	AnnotatorNotes T44	italic (null)
+T45	EntrezGene 943 947	Otx2
+#45	AnnotatorNotes T45	EG:18424
+T46	PR 943 947	Otx2
+#46	AnnotatorNotes T46	PR:000012086 (homeobox protein OTX2)
+T47	GO_BP 948 958	expression
+#47	AnnotatorNotes T47	GO:0010467 (gene expression)
+T48	GO_BP 1006 1017	development
+#48	AnnotatorNotes T48	GO:0032502 (developmental process)
+T49	SO 1032 1037	genes
+#49	AnnotatorNotes T49	SO:0000704 (gene)
+T50	GO_BP 1056 1065	expressed
+#50	AnnotatorNotes T50	GO:0010467 (gene expression)
+T51	GO_BP 1140 1150	expression
+#51	AnnotatorNotes T51	GO:0010467 (gene expression)
+T52	italic 1154 1159	Nodal
+#52	AnnotatorNotes T52	italic (null)
+T53	PR 1154 1159	Nodal
+#53	AnnotatorNotes T53	PR:000000105 (nodal protein)
+T54	EntrezGene 1154 1159	Nodal
+#54	AnnotatorNotes T54	EG:18119
+T55	italic 1161 1165	Fgf8
+#55	AnnotatorNotes T55	italic (null)
+T56	PR 1161 1165	Fgf8
+#56	AnnotatorNotes T56	PR:000007499 (fibroblast growth factor 8)
+T57	EntrezGene 1161 1165	Fgf8
+#57	AnnotatorNotes T57	EG:14179
+T58	italic 1170 1173	Gsc
+#58	AnnotatorNotes T58	italic (null)
+T59	PR 1170 1173	Gsc
+#59	AnnotatorNotes T59	PR:000008278 (homeobox protein goosecoid)
+T60	EntrezGene 1170 1173	Gsc
+#60	AnnotatorNotes T60	EG:14836
+T61	italic 1194 1195	T
+#61	AnnotatorNotes T61	italic (null)
+T62	PR 1194 1195	T
+#62	AnnotatorNotes T62	PR:000016001 (brachyury protein)
+T63	EntrezGene 1194 1195	T
+#63	AnnotatorNotes T63	EG:20997
+T64	italic 1197 1206	Brachyury
+#64	AnnotatorNotes T64	italic (null)
+T65	PR 1197 1206	Brachyury
+#65	AnnotatorNotes T65	PR:000016001 (brachyury protein)
+T66	EntrezGene 1197 1206	Brachyury
+#66	AnnotatorNotes T66	EG:20997
+T67	italic 1212 1216	Evx1
+#67	AnnotatorNotes T67	italic (null)
+T68	PR 1212 1216	Evx1
+#68	AnnotatorNotes T68	PR:000007241 (homeobox even-skipped protein 1)
+T69	EntrezGene 1212 1216	Evx1
+#69	AnnotatorNotes T69	EG:14028
+T70	GO_BP 1359 1370	established
+#70	AnnotatorNotes T70	GO:0032502 (developmental process)
+T71	GO_BP 1398 1403	forms
+#71	AnnotatorNotes T71	GO:0032502 (developmental process)
+T72	GO_BP 1415 1425	expression
+#72	AnnotatorNotes T72	GO:0010467 (gene expression)
+T73	GO_BP 1500 1509	specified
+#73	AnnotatorNotes T73	GO:0007389 (pattern specification process)
+T74	EntrezGene 1524 1534	Huntingtin
+#74	AnnotatorNotes T74	EG:15194
+T75	PR 1524 1534	Huntingtin
+#75	AnnotatorNotes T75	PR:000008840 (huntingtin)
+T76	GO_BP 1561 1585	patterning of the embryo
+#76	AnnotatorNotes T76	"patterning of .. embryo" GO:0009880 (embryonic pattern specification)
+T77	GO_BP 1590 1599	formation
+#77	AnnotatorNotes T77	GO:0032502 (developmental process)
+T78	GO_BP 1656 1671	down-regulation
+#78	AnnotatorNotes T78	GO:0048519 (negative regulation of biological process)
+T79	GO_MF 1695 1726	growth and transcription factor
+#79	AnnotatorNotes T79	"growth .. factor" GO:0008083 (growth factor activity)
+T80	independent_continuant 1695 1726	growth and transcription factor
+#80	AnnotatorNotes T80	"growth .. factor" independent_continuant
+T81	GO_BP 1695 1701	growth
+#81	AnnotatorNotes T81	GO:0040007 (growth)
+T82	GO_MF 1706 1726	transcription factor
+#82	AnnotatorNotes T82	GO:0003700 (transcription factor activity)
+T83	independent_continuant 1706 1726	transcription factor
+#83	AnnotatorNotes T83	independent_continuant
+T84	GO_BP 1706 1719	transcription
+#84	AnnotatorNotes T84	GO:0006350 (transcription)
+T85	SO 1727 1732	genes
+#85	AnnotatorNotes T85	SO:0000704 (gene)
+T86	GO_BP 1811 1844	cellular and molecular activities
+#86	AnnotatorNotes T86	"cellular .. activities" GO:0009987 (cellular process)
+T87	CL 1811 1819	cellular
+#87	AnnotatorNotes T87	CL:0000000 (cell)
+T88	GO_CC 1811 1819	cellular
+#88	AnnotatorNotes T88	GO:0005623 (cell)
+T89	CHEBI 1824 1833	molecular
+#89	AnnotatorNotes T89	CHEBI:23367 (molecular entity)
+T90	EntrezGene 1848 1858	huntingtin
+#90	AnnotatorNotes T90	EG:15194
+T91	PR 1848 1858	huntingtin
+#91	AnnotatorNotes T91	PR:000008840 (huntingtin)
+T92	GO_BP 1894 1900	govern
+#92	AnnotatorNotes T92	GO:0065007 (biological regulation)
+T93	GO_BP 1924 1935	development
+#93	AnnotatorNotes T93	GO:0032502 (developmental process)
+T94	EntrezGene 2059 2069	huntingtin
+#94	AnnotatorNotes T94	EG:3064
+T95	PR 2059 2069	huntingtin
+#95	AnnotatorNotes T95	PR:000008840 (huntingtin)
+T96	CL 2093 2100	neurons
+#96	AnnotatorNotes T96	CL:0000540 (neuron)
+T97	SO 2240 2247	repeats
+#97	AnnotatorNotes T97	SO:0000726 (repeat_unit)
+T98	SO 2240 2247	repeats
+#98	AnnotatorNotes T98	SO:0000657 (repeat_region)
+T99	italic 2255 2257	HD
+#99	AnnotatorNotes T99	italic (null)
+T100	EntrezGene 2255 2257	HD
+#100	AnnotatorNotes T100	EG:3064
+T101	PR 2255 2257	HD
+#101	AnnotatorNotes T101	PR:000008840 (huntingtin)
+T102	SO 2258 2263	locus
+#102	AnnotatorNotes T102	SO:0000001 (region)
+T103	SO 2292 2297	tract
+#103	AnnotatorNotes T103	SO:0000001 (region)
+T104	SO 2319 2325	domain
+#104	AnnotatorNotes T104	SO:0000417 (polypeptide_domain)
+T105	CHEBI 2326 2333	protein
+#105	AnnotatorNotes T105	CHEBI:36080 (proteins)
+T106	EntrezGene 2341 2351	huntingtin
+#106	AnnotatorNotes T106	EG:3064
+T107	PR 2341 2351	huntingtin
+#107	AnnotatorNotes T107	PR:000008840 (huntingtin)
+T108	CHEBI 2361 2370	molecular
+#108	AnnotatorNotes T108	CHEBI:23367 (molecular entity)
+T109	SO 2398 2406	property
+#109	AnnotatorNotes T109	SO:0000110 (sequence_feature)
+T110	EntrezGene 2428 2438	huntingtin
+#110	AnnotatorNotes T110	EG:3064
+T111	PR 2428 2438	huntingtin
+#111	AnnotatorNotes T111	PR:000008840 (huntingtin)
+T112	CL 2509 2516	neurons
+#112	AnnotatorNotes T112	CL:0000540 (neuron)
+T113	CHEBI 2584 2592	proteins
+#113	AnnotatorNotes T113	CHEBI:36080 (proteins)
+T114	CL 2614 2622	neuronal
+#114	AnnotatorNotes T114	CL:0000540 (neuron)
+T115	CL 2623 2627	cell
+#115	AnnotatorNotes T115	CL:0000000 (cell)
+T116	GO_CC 2623 2627	cell
+#116	AnnotatorNotes T116	GO:0005623 (cell)
+T117	CL 2753 2757	cell
+#117	AnnotatorNotes T117	CL:0000000 (cell)
+T118	GO_CC 2753 2757	cell
+#118	AnnotatorNotes T118	GO:0005623 (cell)
+T119	EntrezGene 2819 2829	huntingtin
+#119	AnnotatorNotes T119	EG:3064
+T120	PR 2819 2829	huntingtin
+#120	AnnotatorNotes T120	PR:000008840 (huntingtin)
+T121	EntrezGene 2867 2877	huntingtin
+#121	AnnotatorNotes T121	EG:3064
+T122	PR 2867 2877	huntingtin
+#122	AnnotatorNotes T122	PR:000008840 (huntingtin)
+T123	GO_BP 2903 2911	location
+#123	AnnotatorNotes T123	GO:0051179 (localization)
+T124	PR 2932 2942	Huntingtin
+#124	AnnotatorNotes T124	PR:000008840 (huntingtin)
+T125	SO 2997 3003	domain
+#125	AnnotatorNotes T125	SO:0000417 (polypeptide_domain)
+T126	GO_MF 3004 3012	scaffold
+#126	AnnotatorNotes T126	GO:0032947 (protein complex scaffold)
+T127	independent_continuant 3004 3012	scaffold
+#127	AnnotatorNotes T127	independent_continuant
+T128	GO_BP 3037 3110	assembly and possibly the subcellular location of large protein complexes
+#128	AnnotatorNotes T128	"assembly .. of .. protein complexes" GO:0006461 (protein complex assembly)
+T129	GO_BP 3063 3083	subcellular location
+#129	AnnotatorNotes T129	GO:0051641 (cellular localization)
+T130	GO_BP 3075 3110	location of large protein complexes
+#130	AnnotatorNotes T130	"location of .. protein complexes" GO:0031503 (protein complex localization)
+T131	GO_CC 3093 3110	protein complexes
+#131	AnnotatorNotes T131	GO:0043234 (protein complex)
+T132	CHEBI 3093 3100	protein
+#132	AnnotatorNotes T132	CHEBI:36080 (proteins)
+T133	PR 3118 3128	Huntingtin
+#133	AnnotatorNotes T133	PR:000008840 (huntingtin)
+T134	GO_CC 3155 3166	cytoplasmic
+#134	AnnotatorNotes T134	GO:0005737 (cytoplasm)
+T135	GO_CC 3171 3178	nuclear
+#135	AnnotatorNotes T135	GO:0005634 (nucleus)
+T136	GO_MF 3179 3194	protein binding
+#136	AnnotatorNotes T136	GO:0005515 (protein binding)
+T137	CHEBI 3179 3186	protein
+#137	AnnotatorNotes T137	CHEBI:36080 (proteins)
+T138	PR 3226 3236	huntingtin
+#138	AnnotatorNotes T138	PR:000008840 (huntingtin)
+T139	GO_BP 3269 3287	cellular processes
+#139	AnnotatorNotes T139	GO:0009987 (cellular process)
+T140	CL 3269 3277	cellular
+#140	AnnotatorNotes T140	CL:0000000 (cell)
+T141	GO_CC 3269 3277	cellular
+#141	AnnotatorNotes T141	GO:0005623 (cell)
+T142	GO_BP 3304 3315	trafficking
+#142	AnnotatorNotes T142	GO:0006810 (transport)
+T143	GO_MF 3319 3332	growth factor
+#143	AnnotatorNotes T143	GO:0008083 (growth factor activity)
+T144	independent_continuant 3319 3332	growth factor
+#144	AnnotatorNotes T144	independent_continuant
+T145	GO_BP 3319 3325	growth
+#145	AnnotatorNotes T145	GO:0040007 (growth)
+T146	GO_CC 3333 3342	complexes
+#146	AnnotatorNotes T146	GO:0032991 (macromolecular complex)
+T147	SO 3346 3350	gene
+#147	AnnotatorNotes T147	SO:0000704 (gene)
+T148	GO_BP 3351 3364	transcription
+#148	AnnotatorNotes T148	GO:0006350 (transcription)
+T149	EntrezGene 3432 3442	huntingtin
+#149	AnnotatorNotes T149	EG:3064
+T150	PR 3432 3442	huntingtin
+#150	AnnotatorNotes T150	PR:000008840 (huntingtin)
+T151	SO 3516 3524	mutation
+#151	AnnotatorNotes T151	SO:0001059 (sequence_alteration)
+T152	EntrezGene 3546 3556	huntingtin
+#152	AnnotatorNotes T152	EG:3064
+T153	PR 3546 3556	huntingtin
+#153	AnnotatorNotes T153	PR:000008840 (huntingtin)
+T154	CHEBI 3567 3576	molecular
+#154	AnnotatorNotes T154	CHEBI:23367 (molecular entity)
+T155	GO_BP 3581 3600	cellular activities
+#155	AnnotatorNotes T155	GO:0009987 (cellular process)
+T156	CL 3581 3589	cellular
+#156	AnnotatorNotes T156	CL:0000000 (cell)
+T157	GO_CC 3581 3589	cellular
+#157	AnnotatorNotes T157	GO:0005623 (cell)
+T158	EntrezGene 3672 3682	huntingtin
+#158	AnnotatorNotes T158	EG:3064
+T159	PR 3672 3682	huntingtin
+#159	AnnotatorNotes T159	PR:000008840 (huntingtin)
+T160	EntrezGene 3733 3743	huntingtin
+#160	AnnotatorNotes T160	EG:15194
+T161	PR 3733 3743	huntingtin
+#161	AnnotatorNotes T161	PR:000008840 (huntingtin)
+T162	NCBITaxon 3762 3767	mouse
+#162	AnnotatorNotes T162	NCBITaxon:10088 (Mus)
+T163	EntrezGene 3789 3802	mouse HD gene
+#163	AnnotatorNotes T163	EG:15194
+T164	NCBITaxon 3789 3794	mouse
+#164	AnnotatorNotes T164	NCBITaxon:10088 (Mus)
+T165	PR 3795 3797	HD
+#165	AnnotatorNotes T165	PR:000008840 (huntingtin)
+T166	SO 3798 3802	gene
+#166	AnnotatorNotes T166	SO:0000704 (gene)
+T167	italic 3804 3807	Hdh
+#167	AnnotatorNotes T167	italic (null)
+T168	EntrezGene 3804 3807	Hdh
+#168	AnnotatorNotes T168	EG:15194
+T169	PR 3804 3807	Hdh
+#169	AnnotatorNotes T169	PR:000008840 (huntingtin)
+T170	EntrezGene 3824 3834	huntingtin
+#170	AnnotatorNotes T170	EG:15194
+T171	PR 3824 3834	huntingtin
+#171	AnnotatorNotes T171	PR:000008840 (huntingtin)
+T172	CL 3855 3859	cell
+#172	AnnotatorNotes T172	CL:0000000 (cell)
+T173	GO_CC 3855 3859	cell
+#173	AnnotatorNotes T173	GO:0005623 (cell)
+T174	NCBITaxon 3903 3908	mouse
+#174	AnnotatorNotes T174	NCBITaxon:10088 (Mus)
+T175	CL 3919 3929	stem cells
+#175	AnnotatorNotes T175	CL:0000034 (stem cell)
+T176	GO_CC 3924 3929	cells
+#176	AnnotatorNotes T176	GO:0005623 (cell)
+T177	CL 3934 3941	neurons
+#177	AnnotatorNotes T177	CL:0000540 (neuron)
+T178	EntrezGene 3952 3962	huntingtin
+#178	AnnotatorNotes T178	EG:15194
+T179	PR 3952 3962	huntingtin
+#179	AnnotatorNotes T179	PR:000008840 (huntingtin)
+T180	EntrezGene 3981 3991	huntingtin
+#180	AnnotatorNotes T180	EG:15194
+T181	PR 3981 3991	huntingtin
+#181	AnnotatorNotes T181	PR:000008840 (huntingtin)
+T182	NCBITaxon 4022 4030	organism
+#182	AnnotatorNotes T182	NCBITaxon:1 (root)
+T183	NCBITaxon 4042 4051	mammalian
+#183	AnnotatorNotes T183	NCBITaxon:40674 (Mammalia)
+T184	GO_BP 4052 4073	embryonic development
+#184	AnnotatorNotes T184	GO:0009790 (embryonic development)
+T185	EntrezGene 4103 4113	huntingtin
+#185	AnnotatorNotes T185	EG:15194
+T186	PR 4103 4113	huntingtin
+#186	AnnotatorNotes T186	PR:000008840 (huntingtin)
+T187	GO_BP 4125 4138	developmental
+#187	AnnotatorNotes T187	GO:0032502 (developmental process)
+T188	GO_BP 4153 4165	gastrulation
+#188	AnnotatorNotes T188	GO:0007369 (gastrulation)
+T189	EntrezGene 4193 4203	huntingtin
+#189	AnnotatorNotes T189	EG:15194
+T190	PR 4193 4203	huntingtin
+#190	AnnotatorNotes T190	PR:000008840 (huntingtin)
+T191	GO_BP 4231 4243	neurogenesis
+#191	AnnotatorNotes T191	GO:0022008 (neurogenesis)
+T192	EntrezGene 4287 4297	huntingtin
+#192	AnnotatorNotes T192	EG:15194
+T193	PR 4287 4297	huntingtin
+#193	AnnotatorNotes T193	PR:000008840 (huntingtin)
+T194	italic 4308 4311	Hdh
+#194	AnnotatorNotes T194	italic (null)
+T195	sup 4311 4316	ex4/5
+#195	AnnotatorNotes T195	sup (null)
+T196	italic 4311 4313	ex
+#196	AnnotatorNotes T196	italic (null)
+T197	italic 4317 4320	Hdh
+#197	AnnotatorNotes T197	italic (null)
+T198	sup 4320 4325	ex4/5
+#198	AnnotatorNotes T198	sup (null)
+T199	italic 4320 4322	ex
+#199	AnnotatorNotes T199	italic (null)
+T200	EntrezGene 4378 4391	mouse HD gene
+#200	AnnotatorNotes T200	EG:15194
+T201	NCBITaxon 4378 4383	mouse
+#201	AnnotatorNotes T201	NCBITaxon:10088 (Mus)
+T202	italic 4384 4386	HD
+#202	AnnotatorNotes T202	italic (null)
+T203	PR 4384 4386	HD
+#203	AnnotatorNotes T203	PR:000008840 (huntingtin)
+T204	SO 4387 4391	gene
+#204	AnnotatorNotes T204	SO:0000704 (gene)
+T205	GO_BP 4416 4427	development
+#205	AnnotatorNotes T205	GO:0032502 (developmental process)
+T206	SO 4449 4455	mutant
+#206	AnnotatorNotes T206	SO:0001059 (sequence_alteration)
+T207	SO 4563 4570	Mutants
+#207	AnnotatorNotes T207	SO:0001059 (sequence_alteration)
+T208	independent_continuant 4563 4570	Mutants
+#208	AnnotatorNotes T208	independent_continuant
+T209	GO_BP 4623 4633	expression
+#209	AnnotatorNotes T209	GO:0010467 (gene expression)
+T210	EntrezGene 4637 4647	huntingtin
+#210	AnnotatorNotes T210	EG:15194
+T211	PR 4637 4647	huntingtin
+#211	AnnotatorNotes T211	PR:000008840 (huntingtin)
+T212	GO_BP 4704 4716	gastrulation
+#212	AnnotatorNotes T212	GO:0007369 (gastrulation)
+T213	EntrezGene 4744 4754	huntingtin
+#213	AnnotatorNotes T213	EG:15194
+T214	PR 4744 4754	huntingtin
+#214	AnnotatorNotes T214	PR:000008840 (huntingtin)
+T215	CL 4775 4780	cells
+#215	AnnotatorNotes T215	CL:0000000 (cell)
+T216	GO_CC 4775 4780	cells
+#216	AnnotatorNotes T216	GO:0005623 (cell)
+T217	CL 4825 4829	cell
+#217	AnnotatorNotes T217	CL:0000000 (cell)
+T218	GO_CC 4825 4829	cell
+#218	AnnotatorNotes T218	GO:0005623 (cell)
+T219	CHEBI 4924 4933	nutrients
+#219	AnnotatorNotes T219	CHEBI:33284 (nutrient)
+T220	GO_BP 4951 4957	direct
+#220	AnnotatorNotes T220	GO:0065007 (biological regulation)
+T221	GO_BP 4958 5031	anterior/posterior axis formation and patterning in the developing embryo
+#221	AnnotatorNotes T221	"anterior/posterior axis formation .. in .. embryo" GO:0008595 (determination of anterior/posterior axis, embryo)
+T222	GO_BP 4996 5031	patterning in the developing embryo
+#222	AnnotatorNotes T222	"patterning in .. embryo" GO:0009880 (embryonic pattern specification)
+T223	GO_BP 5014 5024	developing
+#223	AnnotatorNotes T223	GO:0032502 (developmental process)
+T224	EntrezGene 5064 5074	huntingtin
+#224	AnnotatorNotes T224	EG:15194
+T225	PR 5064 5074	huntingtin
+#225	AnnotatorNotes T225	PR:000008840 (huntingtin)
+T226	EntrezGene 5205 5215	huntingtin
+#226	AnnotatorNotes T226	EG:15194
+T227	PR 5205 5215	huntingtin
+#227	AnnotatorNotes T227	PR:000008840 (huntingtin)
+T228	GO_BP 5326 5340	iron transport
+#228	AnnotatorNotes T228	GO:0006826 (iron ion transport)
+T229	CHEBI 5326 5330	iron
+#229	AnnotatorNotes T229	CHEBI:18248 (iron)
+T230	SO 5356 5363	mutants
+#230	AnnotatorNotes T230	SO:0001059 (sequence_alteration)
+T231	independent_continuant 5356 5363	mutants
+#231	AnnotatorNotes T231	independent_continuant
+T232	CHEBI 5374 5378	iron
+#232	AnnotatorNotes T232	CHEBI:18248 (iron)
+T233	GO_BP 5410 5421	endocytosis
+#233	AnnotatorNotes T233	GO:0006897 (endocytosis)
+T234	EntrezGene 5441 5451	huntingtin
+#234	AnnotatorNotes T234	EG:15194
+T235	PR 5441 5451	huntingtin
+#235	AnnotatorNotes T235	PR:000008840 (huntingtin)
+T236	CL 5483 5493	stem cells
+#236	AnnotatorNotes T236	CL:0000034 (stem cell)
+T237	GO_CC 5488 5493	cells
+#237	AnnotatorNotes T237	GO:0005623 (cell)
+T238	EntrezGene 5523 5533	huntingtin
+#238	AnnotatorNotes T238	EG:15194
+T239	PR 5523 5533	huntingtin
+#239	AnnotatorNotes T239	PR:000008840 (huntingtin)
+T240	GO_BP 5534 5542	shuttles
+#240	AnnotatorNotes T240	GO:0006810 (transport)
+T241	GO_CC 5555 5562	nucleus
+#241	AnnotatorNotes T241	GO:0005634 (nucleus)
+T242	GO_CC 5596 5603	nuclear
+#242	AnnotatorNotes T242	GO:0005634 (nucleus)
+T243	GO_BP 5604 5616	localization
+#243	AnnotatorNotes T243	GO:0051179 (localization)
+T244	GO_MF 5624 5644	transcription factor
+#244	AnnotatorNotes T244	GO:0003700 (transcription factor activity)
+T245	independent_continuant 5624 5644	transcription factor
+#245	AnnotatorNotes T245	independent_continuant
+T246	GO_BP 5624 5637	transcription
+#246	AnnotatorNotes T246	GO:0006350 (transcription)
+T247	EntrezGene 5671 5681	huntingtin
+#247	AnnotatorNotes T247	EG:15194
+T248	PR 5671 5681	huntingtin
+#248	AnnotatorNotes T248	PR:000008840 (huntingtin)
+T249	GO_BP 5701 5714	transcription
+#249	AnnotatorNotes T249	GO:0006350 (transcription)
+T250	GO_BP 5755 5762	pattern
+#250	AnnotatorNotes T250	GO:0007389 (pattern specification process)
+T251	GO_BP 5843 5862	expression of genes
+#251	AnnotatorNotes T251	GO:0010467 (gene expression)
+T252	SO 5857 5862	genes
+#252	AnnotatorNotes T252	SO:0000704 (gene)
+T253	GO_BP 5885 5923	embryonic patterning and morphogenesis
+#253	AnnotatorNotes T253	"embryonic .. morphogenesis" GO:0048598 (embryonic morphogenesis)
+T254	GO_BP 5885 5905	embryonic patterning
+#254	AnnotatorNotes T254	GO:0009880 (embryonic pattern specification)
+T255	italic 5927 5930	Hdh
+#255	AnnotatorNotes T255	italic (null)
+T256	sup 5930 5935	ex4/5
+#256	AnnotatorNotes T256	sup (null)
+T257	italic 5930 5932	ex
+#257	AnnotatorNotes T257	italic (null)
+T258	italic 5936 5939	Hdh
+#258	AnnotatorNotes T258	italic (null)
+T259	sup 5939 5944	ex4/5
+#259	AnnotatorNotes T259	sup (null)
+T260	italic 5939 5941	ex
+#260	AnnotatorNotes T260	italic (null)
+T261	EntrezGene 5945 5955	huntingtin
+#261	AnnotatorNotes T261	EG:15194
+T262	PR 5945 5955	huntingtin
+#262	AnnotatorNotes T262	PR:000008840 (huntingtin)
+T263	EntrezGene 6038 6048	huntingtin
+#263	AnnotatorNotes T263	EG:15194
+T264	PR 6038 6048	huntingtin
+#264	AnnotatorNotes T264	PR:000008840 (huntingtin)
+T265	GO_BP 6081 6091	patterning
+#265	AnnotatorNotes T265	GO:0007389 (pattern specification process)
+T266	GO_BP 6135 6145	expression
+#266	AnnotatorNotes T266	GO:0010467 (gene expression)
+T267	GO_MF 6161 6193	growth and transcription factors
+#267	AnnotatorNotes T267	"growth .. factors" GO:0008083 (growth factor activity)
+T268	independent_continuant 6161 6193	growth and transcription factors
+#268	AnnotatorNotes T268	"growth .. factors" independent_continuant
+T269	GO_BP 6161 6167	growth
+#269	AnnotatorNotes T269	GO:0040007 (growth)
+T270	GO_MF 6172 6193	transcription factors
+#270	AnnotatorNotes T270	GO:0003700 (transcription factor activity)
+T271	independent_continuant 6172 6193	transcription factors
+#271	AnnotatorNotes T271	independent_continuant
+T272	GO_BP 6172 6185	transcription
+#272	AnnotatorNotes T272	GO:0006350 (transcription)
+T273	EntrezGene 6205 6215	Huntingtin
+#273	AnnotatorNotes T273	EG:15194
+T274	PR 6205 6215	Huntingtin
+#274	AnnotatorNotes T274	PR:000008840 (huntingtin)
+T275	GO_BP 6274 6302	paraxial mesoderm production
+#275	AnnotatorNotes T275	GO:0048339 (paraxial mesoderm development)
+T276	CHEBI 6340 6349	nutrients
+#276	AnnotatorNotes T276	CHEBI:33284 (nutrient)
+T277	GO_BP 6357 6367	developing
+#277	AnnotatorNotes T277	GO:0032502 (developmental process)
+T278	EntrezGene 6407 6417	huntingtin
+#278	AnnotatorNotes T278	EG:15194
+T279	PR 6407 6417	huntingtin
+#279	AnnotatorNotes T279	PR:000008840 (huntingtin)
+T280	GO_MF 6469 6471	RT
+#280	AnnotatorNotes T280	GO:0003964 (RNA-directed DNA polymerase activity)
+T281	GO_BP 6469 6471	RT
+#281	AnnotatorNotes T281	GO:0006410 (transcription, RNA-dependent)
+T282	independent_continuant 6469 6471	RT
+#282	AnnotatorNotes T282	independent_continuant
+T283	GO_BP 6500 6542	expression of a panel of 'nutritive' genes
+#283	AnnotatorNotes T283	"expression of .. genes" GO:0010467 (gene expression)
+T284	SO 6537 6542	genes
+#284	AnnotatorNotes T284	SO:0000704 (gene)
+T285	SO 6551 6560	wild-type
+#285	AnnotatorNotes T285	SO:0000817 (wild_type)
+T286	italic 6565 6568	Hdh
+#286	AnnotatorNotes T286	italic (null)
+T287	sup 6568 6573	ex4/5
+#287	AnnotatorNotes T287	sup (null)
+T288	italic 6568 6570	ex
+#288	AnnotatorNotes T288	italic (null)
+T289	italic 6574 6577	Hdh
+#289	AnnotatorNotes T289	italic (null)
+T290	sup 6577 6582	ex4/5
+#290	AnnotatorNotes T290	sup (null)
+T291	italic 6577 6579	ex
+#291	AnnotatorNotes T291	italic (null)
+T292	EntrezGene 6583 6593	huntingtin
+#292	AnnotatorNotes T292	EG:15194
+T293	PR 6583 6593	huntingtin
+#293	AnnotatorNotes T293	PR:000008840 (huntingtin)
+T294	GO_BP 6694 6725	expression of "nutritive" genes
+#294	AnnotatorNotes T294	"expression of .. genes" GO:0010467 (gene expression)
+T295	SO 6720 6725	genes
+#295	AnnotatorNotes T295	SO:0000704 (gene)
+T296	italic 6727 6731	Hnf4
+#296	AnnotatorNotes T296	italic (null)
+T297	PR 6727 6731	Hnf4
+#297	AnnotatorNotes T297	PR:000008654 (hepatocyte nuclear factor 4-alpha)
+T298	EntrezGene 6727 6731	Hnf4
+#298	AnnotatorNotes T298	EG:15378
+T299	italic 6733 6736	Afp
+#299	AnnotatorNotes T299	italic (null)
+T300	EntrezGene 6733 6736	Afp
+#300	AnnotatorNotes T300	EG:11576
+T301	PR 6733 6736	Afp
+#301	AnnotatorNotes T301	PR:000003809 (alpha-fetoprotein)
+T302	italic 6738 6741	Tfn
+#302	AnnotatorNotes T302	italic (null)
+T303	PR 6738 6741	Tfn
+#303	AnnotatorNotes T303	PR:000016261 (serotransferrin)
+T304	EntrezGene 6738 6741	Tfn
+#304	AnnotatorNotes T304	EG:22041
+T305	italic 6743 6748	ApoAI
+#305	AnnotatorNotes T305	italic (null)
+T306	PR 6743 6748	ApoAI
+#306	AnnotatorNotes T306	PR:000004140 (apolipoprotein A-I)
+T307	EntrezGene 6743 6748	ApoAI
+#307	AnnotatorNotes T307	EG:11806
+T308	italic 6750 6757	Apo-AIV
+#308	AnnotatorNotes T308	italic (null)
+T309	PR 6750 6757	Apo-AIV
+#309	AnnotatorNotes T309	PR:000004143 (apolipoprotein A-IV)
+T310	EntrezGene 6750 6757	Apo-AIV
+#310	AnnotatorNotes T310	EG:11808
+T311	italic 6763 6767	ApoB
+#311	AnnotatorNotes T311	italic (null)
+T312	EntrezGene 6763 6767	ApoB
+#312	AnnotatorNotes T312	EG:238055
+T313	PR 6763 6767	ApoB
+#313	AnnotatorNotes T313	PR:000004145 (apolipoprotein B-100)
+T314	SO 6772 6777	genes
+#314	AnnotatorNotes T314	SO:0000704 (gene)
+T315	GO_BP 6799 6812	hematopoiesis
+#315	AnnotatorNotes T315	GO:0030097 (hemopoiesis)
+T316	GO_BP 6816 6830	vasculogenesis
+#316	AnnotatorNotes T316	GO:0001570 (vasculogenesis)
+T317	italic 6832 6835	Ttr
+#317	AnnotatorNotes T317	italic (null)
+T318	PR 6832 6835	Ttr
+#318	AnnotatorNotes T318	PR:000016801 (transthyretin)
+T319	EntrezGene 6832 6835	Ttr
+#319	AnnotatorNotes T319	EG:22139
+T320	italic 6837 6840	Rbp
+#320	AnnotatorNotes T320	italic (null)
+T321	EntrezGene 6837 6840	Rbp
+#321	AnnotatorNotes T321	EG:19664
+T322	italic 6842 6846	Flt1
+#322	AnnotatorNotes T322	italic (null)
+T323	EntrezGene 6842 6846	Flt1
+#323	AnnotatorNotes T323	EG:14254
+T324	PR 6842 6846	Flt1
+#324	AnnotatorNotes T324	PR:000007563 (vascular endothelial growth factor receptor 1)
+T325	italic 6848 6852	Flk1
+#325	AnnotatorNotes T325	italic (null)
+T326	PR 6848 6852	Flk1
+#326	AnnotatorNotes T326	PR:000002112 (vascular endothelial growth factor receptor 2)
+T327	EntrezGene 6848 6852	Flk1
+#327	AnnotatorNotes T327	EG:16542
+T328	italic 6854 6858	Tal1
+#328	AnnotatorNotes T328	italic (null)
+T329	EntrezGene 6854 6858	Tal1
+#329	AnnotatorNotes T329	EG:21349
+T330	PR 6854 6858	Tal1
+#330	AnnotatorNotes T330	PR:000016043 (T-cell acute lymphocytic leukemia protein 1)
+T331	italic 6860 6865	Rbtn2
+#331	AnnotatorNotes T331	italic (null)
+T332	EntrezGene 6860 6865	Rbtn2
+#332	AnnotatorNotes T332	EG:16909
+T333	PR 6860 6865	Rbtn2
+#333	AnnotatorNotes T333	PR:000009863 (rhombotin-2)
+T334	italic 6867 6872	GATA1
+#334	AnnotatorNotes T334	italic (null)
+T335	EntrezGene 6867 6872	GATA1
+#335	AnnotatorNotes T335	EG:14460
+T336	PR 6867 6872	GATA1
+#336	AnnotatorNotes T336	PR:000007857 (erythroid transcription factor)
+T337	EntrezGene 6908 6918	huntingtin
+#337	AnnotatorNotes T337	EG:15194
+T338	PR 6908 6918	huntingtin
+#338	AnnotatorNotes T338	PR:000008840 (huntingtin)
+T339	GO_BP 6951 6970	expression of genes
+#339	AnnotatorNotes T339	GO:0010467 (gene expression)
+T340	SO 6965 6970	genes
+#340	AnnotatorNotes T340	SO:0000704 (gene)
+T341	EntrezGene 7054 7064	huntingtin
+#341	AnnotatorNotes T341	EG:15194
+T342	PR 7054 7064	huntingtin
+#342	AnnotatorNotes T342	PR:000008840 (huntingtin)
+T343	GO_BP 7067 7080	developmental
+#343	AnnotatorNotes T343	GO:0032502 (developmental process)
+T344	GO_BP 7114 7133	expression of genes
+#344	AnnotatorNotes T344	GO:0010467 (gene expression)
+T345	SO 7128 7133	genes
+#345	AnnotatorNotes T345	SO:0000704 (gene)
+T346	GO_BP 7140 7147	pattern
+#346	AnnotatorNotes T346	GO:0007389 (pattern specification process)
+T347	GO_BP 7173 7184	morphogenic
+#347	AnnotatorNotes T347	GO:0009653 (anatomical structure morphogenesis)
+T348	SO 7198 7207	wild-type
+#348	AnnotatorNotes T348	SO:0000817 (wild_type)
+T349	italic 7212 7215	Hdh
+#349	AnnotatorNotes T349	italic (null)
+T350	sup 7215 7220	ex4/5
+#350	AnnotatorNotes T350	sup (null)
+T351	italic 7215 7217	ex
+#351	AnnotatorNotes T351	italic (null)
+T352	italic 7221 7224	Hdh
+#352	AnnotatorNotes T352	italic (null)
+T353	sup 7224 7229	ex4/5
+#353	AnnotatorNotes T353	sup (null)
+T354	italic 7224 7226	ex
+#354	AnnotatorNotes T354	italic (null)
+T355	italic 7265 7272	in situ
+#355	AnnotatorNotes T355	italic (null)
+T356	GO_MF 7273 7286	hybridization
+#356	AnnotatorNotes T356	GO:0000739 (DNA strand annealing activity)
+T357	GO_MF 7273 7286	hybridization
+#357	AnnotatorNotes T357	GO:0033592 (RNA strand annealing activity)
+T358	italic 7361 7364	Hdh
+#358	AnnotatorNotes T358	italic (null)
+T359	sup 7364 7369	ex4/5
+#359	AnnotatorNotes T359	sup (null)
+T360	italic 7364 7366	ex
+#360	AnnotatorNotes T360	italic (null)
+T361	italic 7370 7373	Hdh
+#361	AnnotatorNotes T361	italic (null)
+T362	sup 7373 7378	ex4/5
+#362	AnnotatorNotes T362	sup (null)
+T363	italic 7373 7375	ex
+#363	AnnotatorNotes T363	italic (null)
+T364	italic 7528 7535	in situ
+#364	AnnotatorNotes T364	italic (null)
+T365	GO_MF 7536 7549	hybridization
+#365	AnnotatorNotes T365	GO:0000739 (DNA strand annealing activity)
+T366	GO_MF 7536 7549	hybridization
+#366	AnnotatorNotes T366	GO:0033592 (RNA strand annealing activity)
+T367	GO_BP 7631 7637	formed
+#367	AnnotatorNotes T367	GO:0032502 (developmental process)
+T368	EntrezGene 7641 7651	huntingtin
+#368	AnnotatorNotes T368	EG:15194
+T369	PR 7641 7651	huntingtin
+#369	AnnotatorNotes T369	PR:000008840 (huntingtin)
+T370	italic 7672 7676	Otx2
+#370	AnnotatorNotes T370	italic (null)
+T371	PR 7672 7676	Otx2
+#371	AnnotatorNotes T371	PR:000012086 (homeobox protein OTX2)
+T372	EntrezGene 7672 7676	Otx2
+#372	AnnotatorNotes T372	EG:18424
+T373	GO_BP 7687 7696	expressed
+#373	AnnotatorNotes T373	GO:0010467 (gene expression)
+T374	GO_BP 7767 7776	expressed
+#374	AnnotatorNotes T374	GO:0010467 (gene expression)
+T375	SO 7780 7786	mutant
+#375	AnnotatorNotes T375	SO:0001059 (sequence_alteration)
+T376	GO_BP 7828 7838	expression
+#376	AnnotatorNotes T376	GO:0010467 (gene expression)
+T377	italic 7874 7879	Hesx1
+#377	AnnotatorNotes T377	italic (null)
+T378	PR 7874 7879	Hesx1
+#378	AnnotatorNotes T378	PR:000008523 (homeobox expressed in ES cells 1)
+T379	EntrezGene 7874 7879	Hesx1
+#379	AnnotatorNotes T379	EG:15209
+T380	GO_BP 7880 7890	expression
+#380	AnnotatorNotes T380	GO:0010467 (gene expression)
+T381	SO 7912 7918	mutant
+#381	AnnotatorNotes T381	SO:0001059 (sequence_alteration)
+T382	GO_BP 7933 7943	expression
+#382	AnnotatorNotes T382	GO:0010467 (gene expression)
+T383	GO_BP 7944 7953	localized
+#383	AnnotatorNotes T383	GO:0051179 (localization)
+T384	GO_BP 8015 8025	expression
+#384	AnnotatorNotes T384	GO:0010467 (gene expression)
+T385	GO_BP 8090 8158	specification and movement of anterior visceral endoderm (AVE) cells
+#385	AnnotatorNotes T385	"specification .. of .. endoderm .. cells" GO:0001714 (endodermal cell fate specification)
+T386	GO_BP 8108 8158	movement of anterior visceral endoderm (AVE) cells
+#386	AnnotatorNotes T386	"movement of .. cells" GO:0006928 (cell motility)
+T387	CL 8138 8158	endoderm (AVE) cells
+#387	AnnotatorNotes T387	"endoderm .. cells" CL:0000223 (endodermal cell)
+T388	GO_CC 8153 8158	cells
+#388	AnnotatorNotes T388	GO:0005623 (cell)
+T389	GO_BP 8213 8220	induced
+#389	AnnotatorNotes T389	GO:0031128 (induction)
+T390	SO 8228 8234	mutant
+#390	AnnotatorNotes T390	SO:0001059 (sequence_alteration)
+T391	bold 8255 8351	AVE displacement and anterior neurectoderm induction occur normally in the absence of huntingtin
+#391	AnnotatorNotes T391	bold (null)
+T392	GO_BP 8298 8307	induction
+#392	AnnotatorNotes T392	GO:0031128 (induction)
+T393	EntrezGene 8341 8351	huntingtin
+#393	AnnotatorNotes T393	EG:15194
+T394	PR 8341 8351	huntingtin
+#394	AnnotatorNotes T394	PR:000008840 (huntingtin)
+T395	GO_MF 8373 8386	hybridization
+#395	AnnotatorNotes T395	GO:0000739 (DNA strand annealing activity)
+T396	GO_MF 8373 8386	hybridization
+#396	AnnotatorNotes T396	GO:0033592 (RNA strand annealing activity)
+T397	italic 8399 8403	Otx2
+#397	AnnotatorNotes T397	italic (null)
+T398	EntrezGene 8399 8403	Otx2
+#398	AnnotatorNotes T398	EG:18424
+T399	PR 8399 8403	Otx2
+#399	AnnotatorNotes T399	PR:000012086 (homeobox protein OTX2)
+T400	italic 8414 8418	Hesx
+#400	AnnotatorNotes T400	italic (null)
+T401	EntrezGene 8414 8418	Hesx
+#401	AnnotatorNotes T401	EG:15209
+T402	PR 8414 8418	Hesx
+#402	AnnotatorNotes T402	PR:000008523 (homeobox expressed in ES cells 1)
+T403	SO 8452 8458	mutant
+#403	AnnotatorNotes T403	SO:0001059 (sequence_alteration)
+T404	GO_BP 8539 8546	develop
+#404	AnnotatorNotes T404	GO:0032502 (developmental process)
+T405	EntrezGene 8559 8569	huntingtin
+#405	AnnotatorNotes T405	EG:15194
+T406	PR 8559 8569	huntingtin
+#406	AnnotatorNotes T406	PR:000008840 (huntingtin)
+T407	GO_BP 8616 8626	expression
+#407	AnnotatorNotes T407	GO:0010467 (gene expression)
+T408	GO_BP 8659 8669	expression
+#408	AnnotatorNotes T408	GO:0010467 (gene expression)
+T409	italic 8673 8677	Hesx
+#409	AnnotatorNotes T409	italic (null)
+T410	EntrezGene 8673 8677	Hesx
+#410	AnnotatorNotes T410	EG:15209
+T411	PR 8673 8677	Hesx
+#411	AnnotatorNotes T411	PR:000008523 (homeobox expressed in ES cells 1)
+T412	SO 8681 8687	mutant
+#412	AnnotatorNotes T412	SO:0001059 (sequence_alteration)
+T413	GO_BP 8725 8748	transcriptional control
+#413	AnnotatorNotes T413	GO:0045449 (regulation of transcription)
+T414	GO_BP 8725 8740	transcriptional
+#414	AnnotatorNotes T414	GO:0006350 (transcription)
+T415	italic 8764 8769	Hnf3β
+#415	AnnotatorNotes T415	italic (null)
+T416	PR 8764 8769	Hnf3β
+#416	AnnotatorNotes T416	PR:000007603 (hepatocyte nuclear factor 3-beta)
+T417	EntrezGene 8764 8769	Hnf3β
+#417	AnnotatorNotes T417	EG:15376
+T418	GO_BP 8770 8780	expression
+#418	AnnotatorNotes T418	GO:0010467 (gene expression)
+T419	SO 8893 8899	mutant
+#419	AnnotatorNotes T419	SO:0001059 (sequence_alteration)
+T420	GO_BP 8982 8991	induction
+#420	AnnotatorNotes T420	GO:0031128 (induction)
+T421	GO_BP 8996 9008	localization
+#421	AnnotatorNotes T421	GO:0051179 (localization)
+T422	italic 9012 9015	Hdh
+#422	AnnotatorNotes T422	italic (null)
+T423	sup 9015 9020	ex4/5
+#423	AnnotatorNotes T423	sup (null)
+T424	italic 9015 9017	ex
+#424	AnnotatorNotes T424	italic (null)
+T425	italic 9021 9024	Hdh
+#425	AnnotatorNotes T425	italic (null)
+T426	sup 9024 9029	ex4/5
+#426	AnnotatorNotes T426	sup (null)
+T427	italic 9024 9026	ex
+#427	AnnotatorNotes T427	italic (null)
+T428	GO_BP 9227 9245	endoderm formation
+#428	AnnotatorNotes T428	GO:0007492 (endoderm development)
+T429	GO_BP 9251 9261	expression
+#429	AnnotatorNotes T429	GO:0010467 (gene expression)
+T430	italic 9265 9270	Hnf3β
+#430	AnnotatorNotes T430	italic (null)
+T431	PR 9265 9270	Hnf3β
+#431	AnnotatorNotes T431	PR:000007603 (hepatocyte nuclear factor 3-beta)
+T432	EntrezGene 9265 9270	Hnf3β
+#432	AnnotatorNotes T432	EG:15376
+T433	italic 9272 9277	FoxA2
+#433	AnnotatorNotes T433	italic (null)
+T434	PR 9272 9277	FoxA2
+#434	AnnotatorNotes T434	PR:000007603 (hepatocyte nuclear factor 3-beta)
+T435	EntrezGene 9272 9277	FoxA2
+#435	AnnotatorNotes T435	EG:15376
+T436	SO 9282 9288	mutant
+#436	AnnotatorNotes T436	SO:0001059 (sequence_alteration)
+T437	SO 9293 9302	wild-type
+#437	AnnotatorNotes T437	SO:0000817 (wild_type)
+T438	SO 9328 9337	wild-type
+#438	AnnotatorNotes T438	SO:0000817 (wild_type)
+T439	italic 9347 9352	Hnf3β
+#439	AnnotatorNotes T439	italic (null)
+T440	PR 9347 9352	Hnf3β
+#440	AnnotatorNotes T440	PR:000007603 (hepatocyte nuclear factor 3-beta)
+T441	EntrezGene 9347 9352	Hnf3β
+#441	AnnotatorNotes T441	EG:15376
+T442	GO_BP 9353 9363	expression
+#442	AnnotatorNotes T442	GO:0010467 (gene expression)
+T443	SO 9438 9444	Mutant
+#443	AnnotatorNotes T443	SO:0001059 (sequence_alteration)
+T444	italic 9461 9466	Hnf3β
+#444	AnnotatorNotes T444	italic (null)
+T445	PR 9461 9466	Hnf3β
+#445	AnnotatorNotes T445	PR:000007603 (hepatocyte nuclear factor 3-beta)
+T446	EntrezGene 9461 9466	Hnf3β
+#446	AnnotatorNotes T446	EG:15376
+T447	SO 9620 9626	mutant
+#447	AnnotatorNotes T447	SO:0001059 (sequence_alteration)
+T448	italic 9660 9665	Hnf3β
+#448	AnnotatorNotes T448	italic (null)
+T449	PR 9660 9665	Hnf3β
+#449	AnnotatorNotes T449	PR:000007603 (hepatocyte nuclear factor 3-beta)
+T450	EntrezGene 9660 9665	Hnf3β
+#450	AnnotatorNotes T450	EG:15376
+T451	GO_BP 9666 9676	expression
+#451	AnnotatorNotes T451	GO:0010467 (gene expression)
+T452	EntrezGene 9689 9699	huntingtin
+#452	AnnotatorNotes T452	EG:15194
+T453	PR 9689 9699	huntingtin
+#453	AnnotatorNotes T453	PR:000008840 (huntingtin)
+T454	italic 9735 9740	Hnf3β
+#454	AnnotatorNotes T454	italic (null)
+T455	PR 9735 9740	Hnf3β
+#455	AnnotatorNotes T455	PR:000007603 (hepatocyte nuclear factor 3-beta)
+T456	EntrezGene 9735 9740	Hnf3β
+#456	AnnotatorNotes T456	EG:15376
+T457	GO_BP 9741 9751	regulation
+#457	AnnotatorNotes T457	GO:0065007 (biological regulation)
+T458	GO_BP 9958 9967	formation
+#458	AnnotatorNotes T458	GO:0032502 (developmental process)
+T459	EntrezGene 9987 9997	huntingtin
+#459	AnnotatorNotes T459	EG:15194
+T460	PR 9987 9997	huntingtin
+#460	AnnotatorNotes T460	PR:000008840 (huntingtin)
+T461	GO_BP 10062 10080	mesoderm formation
+#461	AnnotatorNotes T461	GO:0007498 (mesoderm development)
+T462	SO 10084 10090	mutant
+#462	AnnotatorNotes T462	SO:0001059 (sequence_alteration)
+T463	GO_BP 10112 10121	specified
+#463	AnnotatorNotes T463	GO:0007389 (pattern specification process)
+T464	SO 10129 10135	mutant
+#464	AnnotatorNotes T464	SO:0001059 (sequence_alteration)
+T465	GO_BP 10162 10172	expression
+#465	AnnotatorNotes T465	GO:0010467 (gene expression)
+T466	italic 10176 10177	T
+#466	AnnotatorNotes T466	italic (null)
+T467	PR 10176 10177	T
+#467	AnnotatorNotes T467	PR:000016001 (brachyury protein)
+T468	EntrezGene 10176 10177	T
+#468	AnnotatorNotes T468	EG:20997
+T469	italic 10179 10188	Brachyury
+#469	AnnotatorNotes T469	italic (null)
+T470	PR 10179 10188	Brachyury
+#470	AnnotatorNotes T470	PR:000016001 (brachyury protein)
+T471	EntrezGene 10179 10188	Brachyury
+#471	AnnotatorNotes T471	EG:20997
+T472	italic 10194 10198	Evx1
+#472	AnnotatorNotes T472	italic (null)
+T473	PR 10194 10198	Evx1
+#473	AnnotatorNotes T473	PR:000007241 (homeobox even-skipped protein 1)
+T474	EntrezGene 10194 10198	Evx1
+#474	AnnotatorNotes T474	EG:14028
+T475	GO_BP 10267 10277	patterning
+#475	AnnotatorNotes T475	GO:0007389 (pattern specification process)
+T476	italic 10317 10318	T
+#476	AnnotatorNotes T476	italic (null)
+T477	EntrezGene 10317 10318	T
+#477	AnnotatorNotes T477	EG:20997
+T478	PR 10317 10318	T
+#478	AnnotatorNotes T478	PR:000016001 (brachyury protein)
+T479	GO_BP 10329 10338	expressed
+#479	AnnotatorNotes T479	GO:0010467 (gene expression)
+T480	italic 10475 10478	Hdh
+#480	AnnotatorNotes T480	italic (null)
+T481	sup 10478 10483	ex4/5
+#481	AnnotatorNotes T481	sup (null)
+T482	italic 10478 10480	ex
+#482	AnnotatorNotes T482	italic (null)
+T483	italic 10484 10487	Hdh
+#483	AnnotatorNotes T483	italic (null)
+T484	sup 10487 10492	ex4/5
+#484	AnnotatorNotes T484	sup (null)
+T485	italic 10487 10489	ex
+#485	AnnotatorNotes T485	italic (null)
+T486	CL 10555 10560	cells
+#486	AnnotatorNotes T486	CL:0000000 (cell)
+T487	GO_CC 10555 10560	cells
+#487	AnnotatorNotes T487	GO:0005623 (cell)
+T488	italic 10574 10575	T
+#488	AnnotatorNotes T488	italic (null)
+T489	PR 10574 10575	T
+#489	AnnotatorNotes T489	PR:000016001 (brachyury protein)
+T490	EntrezGene 10574 10575	T
+#490	AnnotatorNotes T490	EG:20997
+T491	GO_BP 10576 10586	expression
+#491	AnnotatorNotes T491	GO:0010467 (gene expression)
+T492	CL 10653 10658	cells
+#492	AnnotatorNotes T492	CL:0000000 (cell)
+T493	GO_CC 10653 10658	cells
+#493	AnnotatorNotes T493	GO:0005623 (cell)
+T494	italic 10708 10709	T
+#494	AnnotatorNotes T494	italic (null)
+T495	PR 10708 10709	T
+#495	AnnotatorNotes T495	PR:000016001 (brachyury protein)
+T496	EntrezGene 10708 10709	T
+#496	AnnotatorNotes T496	EG:20997
+T497	GO_BP 10730 10739	expressed
+#497	AnnotatorNotes T497	GO:0010467 (gene expression)
+T498	SO 10743 10749	mutant
+#498	AnnotatorNotes T498	SO:0001059 (sequence_alteration)
+T499	italic 10855 10859	Evx1
+#499	AnnotatorNotes T499	italic (null)
+T500	EntrezGene 10855 10859	Evx1
+#500	AnnotatorNotes T500	EG:14028
+T501	PR 10855 10859	Evx1
+#501	AnnotatorNotes T501	PR:000007241 (homeobox even-skipped protein 1)
+T502	GO_BP 10870 10879	expressed
+#502	AnnotatorNotes T502	GO:0010467 (gene expression)
+T503	CL 10949 10954	cells
+#503	AnnotatorNotes T503	CL:0000000 (cell)
+T504	GO_CC 10949 10954	cells
+#504	AnnotatorNotes T504	GO:0005623 (cell)
+T505	GO_BP 10964 10973	expressed
+#505	AnnotatorNotes T505	GO:0010467 (gene expression)
+T506	GO_BP 11030 11039	expressed
+#506	AnnotatorNotes T506	GO:0010467 (gene expression)
+T507	GO_BP 11192 11199	express
+#507	AnnotatorNotes T507	GO:0010467 (gene expression)
+T508	italic 11200 11201	T
+#508	AnnotatorNotes T508	italic (null)
+T509	PR 11200 11201	T
+#509	AnnotatorNotes T509	PR:000016001 (brachyury protein)
+T510	italic 11205 11209	Evx1
+#510	AnnotatorNotes T510	italic (null)
+T511	PR 11205 11209	Evx1
+#511	AnnotatorNotes T511	PR:000007241 (homeobox even-skipped protein 1)
+T512	SO 11213 11222	wild-type
+#512	AnnotatorNotes T512	SO:0000817 (wild_type)
+T513	GO_BP 11266 11276	expression
+#513	AnnotatorNotes T513	GO:0010467 (gene expression)
+T514	italic 11280 11281	T
+#514	AnnotatorNotes T514	italic (null)
+T515	PR 11280 11281	T
+#515	AnnotatorNotes T515	PR:000016001 (brachyury protein)
+T516	EntrezGene 11280 11281	T
+#516	AnnotatorNotes T516	EG:20997
+T517	italic 11286 11290	Evx1
+#517	AnnotatorNotes T517	italic (null)
+T518	EntrezGene 11286 11290	Evx1
+#518	AnnotatorNotes T518	EG:14028
+T519	PR 11286 11290	Evx1
+#519	AnnotatorNotes T519	PR:000007241 (homeobox even-skipped protein 1)
+T520	SO 11432 11438	mutant
+#520	AnnotatorNotes T520	SO:0001059 (sequence_alteration)
+T521	bold 11459 11546	Huntingtin is required for formation of anterior primitive streak and paraxial mesoderm
+#521	AnnotatorNotes T521	bold (null)
+T522	EntrezGene 11459 11469	Huntingtin
+#522	AnnotatorNotes T522	EG:15194
+T523	PR 11459 11469	Huntingtin
+#523	AnnotatorNotes T523	PR:000008840 (huntingtin)
+T524	GO_BP 11486 11546	formation of anterior primitive streak and paraxial mesoderm
+#524	AnnotatorNotes T524	"formation of .. paraxial mesoderm" GO:0048339 (paraxial mesoderm development)
+T525	italic 11572 11578	insitu
+#525	AnnotatorNotes T525	italic (null)
+T526	GO_MF 11579 11593	hybridizations
+#526	AnnotatorNotes T526	GO:0000739 (DNA strand annealing activity)
+T527	GO_MF 11579 11593	hybridizations
+#527	AnnotatorNotes T527	GO:0033592 (RNA strand annealing activity)
+T528	italic 11616 11617	T
+#528	AnnotatorNotes T528	italic (null)
+T529	PR 11616 11617	T
+#529	AnnotatorNotes T529	PR:000016001 (brachyury protein)
+T530	EntrezGene 11616 11617	T
+#530	AnnotatorNotes T530	EG:20997
+T531	italic 11619 11628	Brachyury
+#531	AnnotatorNotes T531	italic (null)
+T532	EntrezGene 11619 11628	Brachyury
+#532	AnnotatorNotes T532	EG:20997
+T533	PR 11619 11628	Brachyury
+#533	AnnotatorNotes T533	PR:000016001 (brachyury protein)
+T534	GO_BP 11639 11648	expressed
+#534	AnnotatorNotes T534	GO:0010467 (gene expression)
+T535	italic 11699 11703	Evx1
+#535	AnnotatorNotes T535	italic (null)
+T536	EntrezGene 11699 11703	Evx1
+#536	AnnotatorNotes T536	EG:14028
+T537	PR 11699 11703	Evx1
+#537	AnnotatorNotes T537	PR:000007241 (homeobox even-skipped protein 1)
+T538	GO_BP 11713 11722	expressed
+#538	AnnotatorNotes T538	GO:0010467 (gene expression)
+T539	SO 11785 11794	wild-type
+#539	AnnotatorNotes T539	SO:0000817 (wild_type)
+T540	SO 11816 11822	mutant
+#540	AnnotatorNotes T540	SO:0001059 (sequence_alteration)
+T541	italic 11837 11838	T
+#541	AnnotatorNotes T541	italic (null)
+T542	EntrezGene 11837 11838	T
+#542	AnnotatorNotes T542	EG:20997
+T543	PR 11837 11838	T
+#543	AnnotatorNotes T543	PR:000016001 (brachyury protein)
+T544	italic 11850 11854	Evx1
+#544	AnnotatorNotes T544	italic (null)
+T545	PR 11850 11854	Evx1
+#545	AnnotatorNotes T545	PR:000007241 (homeobox even-skipped protein 1)
+T546	EntrezGene 11850 11854	Evx1
+#546	AnnotatorNotes T546	EG:14028
+T547	GO_BP 11875 11884	expressed
+#547	AnnotatorNotes T547	GO:0010467 (gene expression)
+T548	italic 11915 11920	Wnt3A
+#548	AnnotatorNotes T548	italic (null)
+T549	PR 11915 11920	Wnt3A
+#549	AnnotatorNotes T549	PR:000017443 (protein Wnt-3a)
+T550	EntrezGene 11915 11920	Wnt3A
+#550	AnnotatorNotes T550	EG:22416
+T551	GO_BP 11921 11931	expression
+#551	AnnotatorNotes T551	GO:0010467 (gene expression)
+T552	SO 11946 11952	mutant
+#552	AnnotatorNotes T552	SO:0001059 (sequence_alteration)
+T553	GO_BP 11979 11991	localization
+#553	AnnotatorNotes T553	GO:0051179 (localization)
+T554	GO_BP 11999 12009	expression
+#554	AnnotatorNotes T554	GO:0010467 (gene expression)
+T555	SO 12051 12060	wild-type
+#555	AnnotatorNotes T555	SO:0000817 (wild_type)
+T556	italic 12112 12116	Tbx6
+#556	AnnotatorNotes T556	italic (null)
+T557	PR 12112 12116	Tbx6
+#557	AnnotatorNotes T557	PR:000016154 (T-box transcription factor TBX6)
+T558	EntrezGene 12112 12116	Tbx6
+#558	AnnotatorNotes T558	EG:21389
+T559	italic 12127 12131	Dll1
+#559	AnnotatorNotes T559	italic (null)
+T560	PR 12127 12131	Dll1
+#560	AnnotatorNotes T560	PR:000006523 (delta-like protein 1)
+T561	EntrezGene 12127 12131	Dll1
+#561	AnnotatorNotes T561	EG:13388
+T562	SO 12181 12187	mutant
+#562	AnnotatorNotes T562	SO:0001059 (sequence_alteration)
+T563	GO_BP 12223 12251	paraxial mesoderm production
+#563	AnnotatorNotes T563	GO:0048339 (paraxial mesoderm development)
+T564	EntrezGene 12270 12280	huntingtin
+#564	AnnotatorNotes T564	EG:15194
+T565	PR 12270 12280	huntingtin
+#565	AnnotatorNotes T565	PR:000008840 (huntingtin)
+T566	SO 12639 12645	mutant
+#566	AnnotatorNotes T566	SO:0001059 (sequence_alteration)
+T567	CL 12687 12692	cells
+#567	AnnotatorNotes T567	CL:0000000 (cell)
+T568	GO_CC 12687 12692	cells
+#568	AnnotatorNotes T568	GO:0005623 (cell)
+T569	GO_BP 12770 12779	generates
+#569	AnnotatorNotes T569	GO:0032502 (developmental process)
+T570	GO_BP 12821 12848	paraxial mesoderm formation
+#570	AnnotatorNotes T570	GO:0048339 (paraxial mesoderm development)
+T571	SO 12852 12861	wild-type
+#571	AnnotatorNotes T571	SO:0000817 (wild_type)
+T572	SO 12866 12872	mutant
+#572	AnnotatorNotes T572	SO:0001059 (sequence_alteration)
+T573	GO_BP 12913 12923	patterning
+#573	AnnotatorNotes T573	GO:0007389 (pattern specification process)
+T574	italic 12944 12949	Wnt3A
+#574	AnnotatorNotes T574	italic (null)
+T575	PR 12944 12949	Wnt3A
+#575	AnnotatorNotes T575	PR:000017443 (protein Wnt-3a)
+T576	EntrezGene 12944 12949	Wnt3A
+#576	AnnotatorNotes T576	EG:22416
+T577	GO_BP 12953 12962	expressed
+#577	AnnotatorNotes T577	GO:0010467 (gene expression)
+T578	CL 12990 12995	cells
+#578	AnnotatorNotes T578	CL:0000000 (cell)
+T579	GO_CC 12990 12995	cells
+#579	AnnotatorNotes T579	GO:0005623 (cell)
+T580	GO_BP 12996 13001	fated
+#580	AnnotatorNotes T580	GO:0045165 (cell fate commitment)
+T581	GO_BP 12996 13001	fated
+#581	AnnotatorNotes T581	GO:0001708 (cell fate specification)
+T582	GO_BP 12996 13001	fated
+#582	AnnotatorNotes T582	GO:0001709 (cell fate determination)
+T583	EntrezGene 13034 13044	huntingtin
+#583	AnnotatorNotes T583	EG:15194
+T584	PR 13034 13044	huntingtin
+#584	AnnotatorNotes T584	PR:000008840 (huntingtin)
+T585	SO 13055 13062	mutants
+#585	AnnotatorNotes T585	SO:0001059 (sequence_alteration)
+T586	independent_continuant 13055 13062	mutants
+#586	AnnotatorNotes T586	independent_continuant
+T587	italic 13064 13069	Wnt3a
+#587	AnnotatorNotes T587	italic (null)
+T588	PR 13064 13069	Wnt3a
+#588	AnnotatorNotes T588	PR:000017443 (protein Wnt-3a)
+T589	EntrezGene 13064 13069	Wnt3a
+#589	AnnotatorNotes T589	EG:22416
+T590	GO_BP 13156 13167	development
+#590	AnnotatorNotes T590	GO:0032502 (developmental process)
+T591	GO_BP 13229 13239	expression
+#591	AnnotatorNotes T591	GO:0010467 (gene expression)
+T592	italic 13243 13248	Wnt3a
+#592	AnnotatorNotes T592	italic (null)
+T593	PR 13243 13248	Wnt3a
+#593	AnnotatorNotes T593	PR:000017443 (protein Wnt-3a)
+T594	EntrezGene 13243 13248	Wnt3a
+#594	AnnotatorNotes T594	EG:22416
+T595	italic 13274 13277	Hdh
+#595	AnnotatorNotes T595	italic (null)
+T596	sup 13277 13282	ex4/5
+#596	AnnotatorNotes T596	sup (null)
+T597	italic 13277 13279	ex
+#597	AnnotatorNotes T597	italic (null)
+T598	italic 13283 13286	Hdh
+#598	AnnotatorNotes T598	italic (null)
+T599	sup 13286 13291	ex4/5
+#599	AnnotatorNotes T599	sup (null)
+T600	italic 13286 13288	ex
+#600	AnnotatorNotes T600	italic (null)
+T601	GO_BP 13324 13353	paraxial mesoderm development
+#601	AnnotatorNotes T601	GO:0048339 (paraxial mesoderm development)
+T602	GO_BP 13373 13383	expression
+#602	AnnotatorNotes T602	GO:0010467 (gene expression)
+T603	italic 13387 13391	Tbx6
+#603	AnnotatorNotes T603	italic (null)
+T604	PR 13387 13391	Tbx6
+#604	AnnotatorNotes T604	PR:000016154 (T-box transcription factor TBX6)
+T605	EntrezGene 13387 13391	Tbx6
+#605	AnnotatorNotes T605	EG:21389
+T606	SO 13443 13449	mutant
+#606	AnnotatorNotes T606	SO:0001059 (sequence_alteration)
+T607	SO 13516 13522	mutant
+#607	AnnotatorNotes T607	SO:0001059 (sequence_alteration)
+T608	GO_BP 13544 13554	expression
+#608	AnnotatorNotes T608	GO:0010467 (gene expression)
+T609	italic 13558 13562	Dll1
+#609	AnnotatorNotes T609	italic (null)
+T610	EntrezGene 13558 13562	Dll1
+#610	AnnotatorNotes T610	EG:13388
+T611	PR 13558 13562	Dll1
+#611	AnnotatorNotes T611	PR:000006523 (delta-like protein 1)
+T612	CL 13621 13626	cells
+#612	AnnotatorNotes T612	CL:0000000 (cell)
+T613	GO_CC 13621 13626	cells
+#613	AnnotatorNotes T613	GO:0005623 (cell)
+T614	GO_BP 13768 13777	formation
+#614	AnnotatorNotes T614	GO:0032502 (developmental process)
+T615	GO_BP 13812 13849	axial and paraxial mesoderm formation
+#615	AnnotatorNotes T615	"axial .. mesoderm formation" GO:0048318 (axial mesoderm development)
+T616	GO_BP 13822 13849	paraxial mesoderm formation
+#616	AnnotatorNotes T616	GO:0048339 (paraxial mesoderm development)
+T617	GO_BP 13863 13881	neural development
+#617	AnnotatorNotes T617	GO:0007399 (nervous system development)
+T618	GO_MF 13917 13930	growth factor
+#618	AnnotatorNotes T618	GO:0008083 (growth factor activity)
+T619	independent_continuant 13917 13930	growth factor
+#619	AnnotatorNotes T619	independent_continuant
+T620	GO_BP 13917 13923	growth
+#620	AnnotatorNotes T620	GO:0040007 (growth)
+T621	GO_BP 13931 13941	expression
+#621	AnnotatorNotes T621	GO:0010467 (gene expression)
+T622	EntrezGene 13960 13970	huntingtin
+#622	AnnotatorNotes T622	EG:15194
+T623	PR 13960 13970	huntingtin
+#623	AnnotatorNotes T623	PR:000008840 (huntingtin)
+T624	GO_BP 13998 14008	patterning
+#624	AnnotatorNotes T624	GO:0007389 (pattern specification process)
+T625	GO_BP 14036 14045	signaling
+#625	AnnotatorNotes T625	GO:0007165 (signal transduction)
+T626	CHEBI 14046 14055	molecules
+#626	AnnotatorNotes T626	CHEBI:23367 (molecular entity)
+T627	GO_BP 14084 14094	patterning
+#627	AnnotatorNotes T627	GO:0007389 (pattern specification process)
+T628	italic 14096 14101	Nodal
+#628	AnnotatorNotes T628	italic (null)
+T629	PR 14096 14101	Nodal
+#629	AnnotatorNotes T629	PR:000000105 (nodal protein)
+T630	italic 14119 14123	Tgfβ
+#630	AnnotatorNotes T630	italic (null)
+T631	PR 14119 14123	Tgfβ
+#631	AnnotatorNotes T631	PR:000000046 (TGF-beta)
+T632	GO_BP 14134 14142	secreted
+#632	AnnotatorNotes T632	GO:0046903 (secretion)
+T633	CHEBI 14143 14152	molecules
+#633	AnnotatorNotes T633	CHEBI:23367 (molecular entity)
+T634	GO_BP 14173 14182	formation
+#634	AnnotatorNotes T634	GO:0032502 (developmental process)
+T635	GO_BP 14227 14236	induction
+#635	AnnotatorNotes T635	GO:0031128 (induction)
+T636	italic 14257 14262	Nodal
+#636	AnnotatorNotes T636	italic (null)
+T637	PR 14257 14262	Nodal
+#637	AnnotatorNotes T637	PR:000000105 (nodal protein)
+T638	EntrezGene 14257 14262	Nodal
+#638	AnnotatorNotes T638	EG:18119
+T639	GO_BP 14275 14284	expressed
+#639	AnnotatorNotes T639	GO:0010467 (gene expression)
+T640	GO_BP 14355 14367	implantation
+#640	AnnotatorNotes T640	GO:0007566 (embryo implantation)
+T641	GO_BP 14509 14519	expression
+#641	AnnotatorNotes T641	GO:0010467 (gene expression)
+T642	italic 14558 14563	Nodal
+#642	AnnotatorNotes T642	italic (null)
+T643	EntrezGene 14558 14563	Nodal
+#643	AnnotatorNotes T643	EG:18119
+T644	PR 14558 14563	Nodal
+#644	AnnotatorNotes T644	PR:000000105 (nodal protein)
+T645	GO_BP 14564 14574	expression
+#645	AnnotatorNotes T645	GO:0010467 (gene expression)
+T646	italic 14602 14607	Nodal
+#646	AnnotatorNotes T646	italic (null)
+T647	PR 14602 14607	Nodal
+#647	AnnotatorNotes T647	PR:000000105 (nodal protein)
+T648	EntrezGene 14602 14607	Nodal
+#648	AnnotatorNotes T648	EG:18119
+T649	GO_BP 14608 14618	expression
+#649	AnnotatorNotes T649	GO:0010467 (gene expression)
+T650	italic 14635 14638	Hdh
+#650	AnnotatorNotes T650	italic (null)
+T651	sup 14638 14643	ex4/5
+#651	AnnotatorNotes T651	sup (null)
+T652	italic 14638 14640	ex
+#652	AnnotatorNotes T652	italic (null)
+T653	italic 14644 14647	Hdh
+#653	AnnotatorNotes T653	italic (null)
+T654	sup 14647 14652	ex4/5
+#654	AnnotatorNotes T654	sup (null)
+T655	italic 14647 14649	ex
+#655	AnnotatorNotes T655	italic (null)
+T656	italic 14682 14691	Ndl lac Z
+#656	AnnotatorNotes T656	italic (null)
+T657	EntrezGene 14682 14685	Ndl
+#657	AnnotatorNotes T657	EG:18119
+T658	PR 14682 14685	Ndl
+#658	AnnotatorNotes T658	PR:000000105 (nodal protein)
+T659	SO 14692 14698	allele
+#659	AnnotatorNotes T659	SO:0001023 (allele)
+T660	EntrezGene 14738 14743	nodal
+#660	AnnotatorNotes T660	EG:18119
+T661	PR 14738 14743	nodal
+#661	AnnotatorNotes T661	PR:000000105 (nodal protein)
+T662	italic 14763 14766	Hdh
+#662	AnnotatorNotes T662	italic (null)
+T663	sup 14766 14771	ex4/5
+#663	AnnotatorNotes T663	sup (null)
+T664	italic 14766 14768	ex
+#664	AnnotatorNotes T664	italic (null)
+T665	italic 14772 14775	Hdh
+#665	AnnotatorNotes T665	italic (null)
+T666	sup 14775 14780	ex4/5
+#666	AnnotatorNotes T666	sup (null)
+T667	italic 14775 14777	ex
+#667	AnnotatorNotes T667	italic (null)
+T668	italic 14823 14826	Hdh
+#668	AnnotatorNotes T668	italic (null)
+T669	sup 14826 14831	ex4/5
+#669	AnnotatorNotes T669	sup (null)
+T670	italic 14826 14828	ex
+#670	AnnotatorNotes T670	italic (null)
+T671	italic 14832 14835	Hdh
+#671	AnnotatorNotes T671	italic (null)
+T672	sup 14835 14840	ex4/5
+#672	AnnotatorNotes T672	sup (null)
+T673	italic 14835 14837	ex
+#673	AnnotatorNotes T673	italic (null)
+T674	italic 14841 14848	Ndllacz
+#674	AnnotatorNotes T674	italic (null)
+T675	italic 14849 14852	Ndl
+#675	AnnotatorNotes T675	italic (null)
+T676	PR 14849 14852	Ndl
+#676	AnnotatorNotes T676	PR:000000105 (nodal protein)
+T677	EntrezGene 14849 14852	Ndl
+#677	AnnotatorNotes T677	EG:18119
+T678	italic 14876 14879	Hdh
+#678	AnnotatorNotes T678	italic (null)
+T679	sup 14879 14884	ex4/5
+#679	AnnotatorNotes T679	sup (null)
+T680	italic 14879 14881	ex
+#680	AnnotatorNotes T680	italic (null)
+T681	italic 14885 14888	Hdh
+#681	AnnotatorNotes T681	italic (null)
+T682	sup 14888 14893	ex4/5
+#682	AnnotatorNotes T682	sup (null)
+T683	italic 14888 14890	ex
+#683	AnnotatorNotes T683	italic (null)
+T684	SO 14935 14944	wild-type
+#684	AnnotatorNotes T684	SO:0000817 (wild_type)
+T685	italic 14989 14999	Nodal.LacZ
+#685	AnnotatorNotes T685	italic (null)
+T686	EntrezGene 14989 14994	Nodal
+#686	AnnotatorNotes T686	EG:18119
+T687	PR 14989 14994	Nodal
+#687	AnnotatorNotes T687	PR:000000105 (nodal protein)
+T688	GO_BP 15000 15010	expression
+#688	AnnotatorNotes T688	GO:0010467 (gene expression)
+T689	italic 15024 15027	Hdh
+#689	AnnotatorNotes T689	italic (null)
+T690	sup 15027 15032	ex4/5
+#690	AnnotatorNotes T690	sup (null)
+T691	italic 15027 15029	ex
+#691	AnnotatorNotes T691	italic (null)
+T692	italic 15033 15036	Hdh
+#692	AnnotatorNotes T692	italic (null)
+T693	sup 15036 15041	ex4/5
+#693	AnnotatorNotes T693	sup (null)
+T694	italic 15036 15038	ex
+#694	AnnotatorNotes T694	italic (null)
+T695	italic 15042 15049	Ndllacz
+#695	AnnotatorNotes T695	italic (null)
+T696	italic 15050 15053	Ndl
+#696	AnnotatorNotes T696	italic (null)
+T697	EntrezGene 15050 15053	Ndl
+#697	AnnotatorNotes T697	EG:18119
+T698	PR 15050 15053	Ndl
+#698	AnnotatorNotes T698	PR:000000105 (nodal protein)
+T699	GO_BP 15063 15070	express
+#699	AnnotatorNotes T699	GO:0010467 (gene expression)
+T700	italic 15071 15081	Nodal.LacZ
+#700	AnnotatorNotes T700	italic (null)
+T701	EntrezGene 15071 15076	Nodal
+#701	AnnotatorNotes T701	EG:18119
+T702	PR 15071 15076	Nodal
+#702	AnnotatorNotes T702	PR:000000105 (nodal protein)
+T703	EntrezGene 15237 15242	nodal
+#703	AnnotatorNotes T703	EG:18119
+T704	PR 15237 15242	nodal
+#704	AnnotatorNotes T704	PR:000000105 (nodal protein)
+T705	GO_BP 15282 15286	form
+#705	AnnotatorNotes T705	GO:0032502 (developmental process)
+T706	GO_BP 15290 15299	organized
+#706	AnnotatorNotes T706	GO:0048532 (organization of an anatomical structure)
+T707	bold 15327 15407	Impaired regional restriction of gene expression in huntingtin deficient embryos
+#707	AnnotatorNotes T707	bold (null)
+T708	GO_BP 15360 15375	gene expression
+#708	AnnotatorNotes T708	GO:0010467 (gene expression)
+T709	SO 15360 15364	gene
+#709	AnnotatorNotes T709	SO:0000704 (gene)
+T710	EntrezGene 15379 15389	huntingtin
+#710	AnnotatorNotes T710	EG:15194
+T711	PR 15379 15389	huntingtin
+#711	AnnotatorNotes T711	PR:000008840 (huntingtin)
+T712	EntrezGene 15427 15432	Nodal
+#712	AnnotatorNotes T712	EG:18119
+T713	PR 15427 15432	Nodal
+#713	AnnotatorNotes T713	PR:000000105 (nodal protein)
+T714	SO 15533 15539	mutant
+#714	AnnotatorNotes T714	SO:0001059 (sequence_alteration)
+T715	GO_BP 15565 15575	expression
+#715	AnnotatorNotes T715	GO:0010467 (gene expression)
+T716	GO_BP 15619 15629	expression
+#716	AnnotatorNotes T716	GO:0010467 (gene expression)
+T717	italic 15633 15638	Nodal
+#717	AnnotatorNotes T717	italic (null)
+T718	PR 15633 15638	Nodal
+#718	AnnotatorNotes T718	PR:000000105 (nodal protein)
+T719	EntrezGene 15633 15638	Nodal
+#719	AnnotatorNotes T719	EG:18119
+T720	SO 15672 15678	mutant
+#720	AnnotatorNotes T720	SO:0001059 (sequence_alteration)
+T721	EntrezGene 15759 15769	huntingtin
+#721	AnnotatorNotes T721	EG:15194
+T722	PR 15759 15769	huntingtin
+#722	AnnotatorNotes T722	PR:000008840 (huntingtin)
+T723	GO_MF 15795 15808	hybridization
+#723	AnnotatorNotes T723	GO:0000739 (DNA strand annealing activity)
+T724	GO_MF 15795 15808	hybridization
+#724	AnnotatorNotes T724	GO:0033592 (RNA strand annealing activity)
+T725	italic 15842 15846	Fgf8
+#725	AnnotatorNotes T725	italic (null)
+T726	PR 15842 15846	Fgf8
+#726	AnnotatorNotes T726	PR:000007499 (fibroblast growth factor 8)
+T727	EntrezGene 15842 15846	Fgf8
+#727	AnnotatorNotes T727	EG:14179
+T728	GO_BP 15889 15902	downregulated
+#728	AnnotatorNotes T728	GO:0048519 (negative regulation of biological process)
+T729	CL 15906 15911	cells
+#729	AnnotatorNotes T729	CL:0000000 (cell)
+T730	GO_CC 15906 15911	cells
+#730	AnnotatorNotes T730	GO:0005623 (cell)
+T731	GO_BP 15912 15921	migrating
+#731	AnnotatorNotes T731	GO:0016477 (cell migration)
+T732	italic 15978 15982	Fgf8
+#732	AnnotatorNotes T732	italic (null)
+T733	PR 15978 15982	Fgf8
+#733	AnnotatorNotes T733	PR:000007499 (fibroblast growth factor 8)
+T734	EntrezGene 15978 15982	Fgf8
+#734	AnnotatorNotes T734	EG:14179
+T735	GO_BP 15998 16007	expressed
+#735	AnnotatorNotes T735	GO:0010467 (gene expression)
+T736	SO 16011 16017	mutant
+#736	AnnotatorNotes T736	SO:0001059 (sequence_alteration)
+T737	GO_BP 16043 16053	expression
+#737	AnnotatorNotes T737	GO:0010467 (gene expression)
+T738	italic 16057 16060	Gsc
+#738	AnnotatorNotes T738	italic (null)
+T739	PR 16057 16060	Gsc
+#739	AnnotatorNotes T739	PR:000008278 (homeobox protein goosecoid)
+T740	EntrezGene 16057 16060	Gsc
+#740	AnnotatorNotes T740	EG:14836
+T741	CL 16176 16180	cell
+#741	AnnotatorNotes T741	CL:0000000 (cell)
+T742	GO_CC 16176 16180	cell
+#742	AnnotatorNotes T742	GO:0005623 (cell)
+T743	SO 16234 16240	mutant
+#743	AnnotatorNotes T743	SO:0001059 (sequence_alteration)
+T744	GO_BP 16274 16284	expression
+#744	AnnotatorNotes T744	GO:0010467 (gene expression)
+T745	italic 16288 16291	Gsc
+#745	AnnotatorNotes T745	italic (null)
+T746	EntrezGene 16288 16291	Gsc
+#746	AnnotatorNotes T746	EG:14836
+T747	PR 16288 16291	Gsc
+#747	AnnotatorNotes T747	PR:000008278 (homeobox protein goosecoid)
+T748	SO 16314 16320	mutant
+#748	AnnotatorNotes T748	SO:0001059 (sequence_alteration)
+T749	GO_BP 16345 16359	down-regulated
+#749	AnnotatorNotes T749	GO:0048519 (negative regulation of biological process)
+T750	italic 16515 16519	Fgf8
+#750	AnnotatorNotes T750	italic (null)
+T751	PR 16515 16519	Fgf8
+#751	AnnotatorNotes T751	PR:000007499 (fibroblast growth factor 8)
+T752	EntrezGene 16515 16519	Fgf8
+#752	AnnotatorNotes T752	EG:14179
+T753	GO_BP 16520 16529	signaling
+#753	AnnotatorNotes T753	GO:0007165 (signal transduction)
+T754	GO_BP 16559 16571	gastrulation
+#754	AnnotatorNotes T754	GO:0007369 (gastrulation)
+T755	NCBITaxon 16579 16584	mouse
+#755	AnnotatorNotes T755	NCBITaxon:10088 (Mus)
+T756	italic 16593 16597	Fgf8
+#756	AnnotatorNotes T756	italic (null)
+T757	PR 16593 16597	Fgf8
+#757	AnnotatorNotes T757	PR:000007499 (fibroblast growth factor 8)
+T758	GO_BP 16614 16628	cell migration
+#758	AnnotatorNotes T758	GO:0016477 (cell migration)
+T759	CL 16614 16618	cell
+#759	AnnotatorNotes T759	CL:0000000 (cell)
+T760	GO_CC 16614 16618	cell
+#760	AnnotatorNotes T760	GO:0005623 (cell)
+T761	GO_BP 16666 16675	Expressed
+#761	AnnotatorNotes T761	GO:0010467 (gene expression)
+T762	GO_BP 16697 16706	formation
+#762	AnnotatorNotes T762	GO:0032502 (developmental process)
+T763	italic 16756 16760	Fgf8
+#763	AnnotatorNotes T763	italic (null)
+T764	PR 16756 16760	Fgf8
+#764	AnnotatorNotes T764	PR:000007499 (fibroblast growth factor 8)
+T765	EntrezGene 16756 16760	Fgf8
+#765	AnnotatorNotes T765	EG:14179
+T766	GO_BP 16854 16867	downregulated
+#766	AnnotatorNotes T766	GO:0048519 (negative regulation of biological process)
+T767	CL 16871 16876	cells
+#767	AnnotatorNotes T767	CL:0000000 (cell)
+T768	GO_CC 16871 16876	cells
+#768	AnnotatorNotes T768	GO:0005623 (cell)
+T769	italic 16928 16931	Hdh
+#769	AnnotatorNotes T769	italic (null)
+T770	sup 16931 16936	ex4/5
+#770	AnnotatorNotes T770	sup (null)
+T771	italic 16931 16933	ex
+#771	AnnotatorNotes T771	italic (null)
+T772	italic 16937 16940	Hdh
+#772	AnnotatorNotes T772	italic (null)
+T773	sup 16940 16945	ex4/5
+#773	AnnotatorNotes T773	sup (null)
+T774	italic 16940 16942	ex
+#774	AnnotatorNotes T774	italic (null)
+T775	italic 16955 16959	Fgf8
+#775	AnnotatorNotes T775	italic (null)
+T776	EntrezGene 16955 16959	Fgf8
+#776	AnnotatorNotes T776	EG:14179
+T777	PR 16955 16959	Fgf8
+#777	AnnotatorNotes T777	PR:000007499 (fibroblast growth factor 8)
+T778	GO_BP 16960 16970	expression
+#778	AnnotatorNotes T778	GO:0010467 (gene expression)
+T779	GO_BP 16983 16992	expressed
+#779	AnnotatorNotes T779	GO:0010467 (gene expression)
+T780	GO_BP 17154 17161	migrate
+#780	AnnotatorNotes T780	GO:0016477 (cell migration)
+T781	GO_BP 17207 17217	expression
+#781	AnnotatorNotes T781	GO:0010467 (gene expression)
+T782	italic 17237 17241	Otx2
+#782	AnnotatorNotes T782	italic (null)
+T783	EntrezGene 17237 17241	Otx2
+#783	AnnotatorNotes T783	EG:18424
+T784	PR 17237 17241	Otx2
+#784	AnnotatorNotes T784	PR:000012086 (homeobox protein OTX2)
+T785	italic 17243 17248	Hnf3β
+#785	AnnotatorNotes T785	italic (null)
+T786	PR 17243 17248	Hnf3β
+#786	AnnotatorNotes T786	PR:000007603 (hepatocyte nuclear factor 3-beta)
+T787	EntrezGene 17243 17248	Hnf3β
+#787	AnnotatorNotes T787	EG:15376
+T788	italic 17253 17258	Hesx1
+#788	AnnotatorNotes T788	italic (null)
+T789	PR 17253 17258	Hesx1
+#789	AnnotatorNotes T789	PR:000008523 (homeobox expressed in ES cells 1)
+T790	EntrezGene 17253 17258	Hesx1
+#790	AnnotatorNotes T790	EG:15209
+T791	SO 17291 17297	mutant
+#791	AnnotatorNotes T791	SO:0001059 (sequence_alteration)
+T792	GO_BP 17321 17330	migration
+#792	AnnotatorNotes T792	GO:0016477 (cell migration)
+T793	italic 17374 17378	Fgf8
+#793	AnnotatorNotes T793	italic (null)
+T794	PR 17374 17378	Fgf8
+#794	AnnotatorNotes T794	PR:000007499 (fibroblast growth factor 8)
+T795	EntrezGene 17374 17378	Fgf8
+#795	AnnotatorNotes T795	EG:14179
+T796	GO_BP 17379 17389	repression
+#796	AnnotatorNotes T796	GO:0048519 (negative regulation of biological process)
+T797	SO 17393 17399	mutant
+#797	AnnotatorNotes T797	SO:0001059 (sequence_alteration)
+T798	italic 17411 17414	Hdh
+#798	AnnotatorNotes T798	italic (null)
+T799	sup 17414 17419	ex4/5
+#799	AnnotatorNotes T799	sup (null)
+T800	italic 17414 17416	ex
+#800	AnnotatorNotes T800	italic (null)
+T801	italic 17420 17423	Hdh
+#801	AnnotatorNotes T801	italic (null)
+T802	sup 17423 17428	ex4/5
+#802	AnnotatorNotes T802	sup (null)
+T803	italic 17423 17425	ex
+#803	AnnotatorNotes T803	italic (null)
+T804	GO_BP 17463 17473	expression
+#804	AnnotatorNotes T804	GO:0010467 (gene expression)
+T805	italic 17477 17486	goosecoid
+#805	AnnotatorNotes T805	italic (null)
+T806	PR 17477 17486	goosecoid
+#806	AnnotatorNotes T806	PR:000008278 (homeobox protein goosecoid)
+T807	EntrezGene 17477 17486	goosecoid
+#807	AnnotatorNotes T807	EG:14836
+T808	italic 17488 17491	Gsc
+#808	AnnotatorNotes T808	italic (null)
+T809	PR 17488 17491	Gsc
+#809	AnnotatorNotes T809	PR:000008278 (homeobox protein goosecoid)
+T810	EntrezGene 17488 17491	Gsc
+#810	AnnotatorNotes T810	EG:14836
+T811	italic 17504 17507	Gsc
+#811	AnnotatorNotes T811	italic (null)
+T812	PR 17504 17507	Gsc
+#812	AnnotatorNotes T812	PR:000008278 (homeobox protein goosecoid)
+T813	GO_BP 17521 17530	expressed
+#813	AnnotatorNotes T813	GO:0010467 (gene expression)
+T814	GO_BP 17619 17623	form
+#814	AnnotatorNotes T814	GO:0032502 (developmental process)
+T815	GO_BP 17633 17645	gastrulation
+#815	AnnotatorNotes T815	GO:0007369 (gastrulation)
+T816	GO_BP 17671 17676	forms
+#816	AnnotatorNotes T816	GO:0032502 (developmental process)
+T817	italic 17690 17693	Gsc
+#817	AnnotatorNotes T817	italic (null)
+T818	EntrezGene 17690 17693	Gsc
+#818	AnnotatorNotes T818	EG:14836
+T819	PR 17690 17693	Gsc
+#819	AnnotatorNotes T819	PR:000008278 (homeobox protein goosecoid)
+T820	GO_BP 17697 17706	expressed
+#820	AnnotatorNotes T820	GO:0010467 (gene expression)
+T821	SO 17835 17841	mutant
+#821	AnnotatorNotes T821	SO:0001059 (sequence_alteration)
+T822	italic 17842 17845	Hdh
+#822	AnnotatorNotes T822	italic (null)
+T823	sup 17845 17850	ex4/5
+#823	AnnotatorNotes T823	sup (null)
+T824	italic 17845 17847	ex
+#824	AnnotatorNotes T824	italic (null)
+T825	italic 17851 17854	Hdh
+#825	AnnotatorNotes T825	italic (null)
+T826	sup 17854 17859	ex4/5
+#826	AnnotatorNotes T826	sup (null)
+T827	italic 17854 17856	ex
+#827	AnnotatorNotes T827	italic (null)
+T828	italic 17884 17887	Gsc
+#828	AnnotatorNotes T828	italic (null)
+T829	PR 17884 17887	Gsc
+#829	AnnotatorNotes T829	PR:000008278 (homeobox protein goosecoid)
+T830	EntrezGene 17884 17887	Gsc
+#830	AnnotatorNotes T830	EG:14836
+T831	GO_BP 17888 17898	expression
+#831	AnnotatorNotes T831	GO:0010467 (gene expression)
+T832	CL 17982 17987	cells
+#832	AnnotatorNotes T832	CL:0000000 (cell)
+T833	GO_CC 17982 17987	cells
+#833	AnnotatorNotes T833	GO:0005623 (cell)
+T834	italic 18086 18091	Hnf3β
+#834	AnnotatorNotes T834	italic (null)
+T835	PR 18086 18091	Hnf3β
+#835	AnnotatorNotes T835	PR:000007603 (hepatocyte nuclear factor 3-beta)
+T836	EntrezGene 18086 18091	Hnf3β
+#836	AnnotatorNotes T836	EG:15376
+T837	GO_BP 18092 18102	regulation
+#837	AnnotatorNotes T837	GO:0065007 (biological regulation)
+T838	italic 18104 18107	Gsc
+#838	AnnotatorNotes T838	italic (null)
+T839	PR 18104 18107	Gsc
+#839	AnnotatorNotes T839	PR:000008278 (homeobox protein goosecoid)
+T840	EntrezGene 18104 18107	Gsc
+#840	AnnotatorNotes T840	EG:14836
+T841	SO 18145 18151	mutant
+#841	AnnotatorNotes T841	SO:0001059 (sequence_alteration)
+T842	EntrezGene 18198 18208	huntingtin
+#842	AnnotatorNotes T842	EG:15194
+T843	PR 18198 18208	huntingtin
+#843	AnnotatorNotes T843	PR:000008840 (huntingtin)
+T844	independent_continuant 18255 18275	transcription factor
+#844	AnnotatorNotes T844	independent_continuant
+T845	GO_MF 18255 18275	transcription factor
+#845	AnnotatorNotes T845	GO:0003700 (transcription factor activity)
+T846	GO_BP 18255 18268	transcription
+#846	AnnotatorNotes T846	GO:0006350 (transcription)
+T847	EntrezGene 18278 18288	Huntingtin
+#847	AnnotatorNotes T847	EG:15194
+T848	PR 18278 18288	Huntingtin
+#848	AnnotatorNotes T848	PR:000008840 (huntingtin)
+T849	GO_BP 18309 18319	expression
+#849	AnnotatorNotes T849	GO:0010467 (gene expression)
+T850	GO_BP 18338 18347	signaling
+#850	AnnotatorNotes T850	GO:0007165 (signal transduction)
+T851	CHEBI 18348 18357	molecules
+#851	AnnotatorNotes T851	CHEBI:23367 (molecular entity)
+T852	EntrezGene 18409 18419	huntingtin
+#852	AnnotatorNotes T852	EG:15194
+T853	PR 18409 18419	huntingtin
+#853	AnnotatorNotes T853	PR:000008840 (huntingtin)
+T854	GO_BP 18477 18488	development
+#854	AnnotatorNotes T854	GO:0032502 (developmental process)
+T855	GO_BP 18555 18564	induction
+#855	AnnotatorNotes T855	GO:0031128 (induction)
+T856	GO_BP 18594 18604	patterning
+#856	AnnotatorNotes T856	GO:0007389 (pattern specification process)
+T857	GO_BP 18660 18671	development
+#857	AnnotatorNotes T857	GO:0032502 (developmental process)
+T858	EntrezGene 18675 18685	huntingtin
+#858	AnnotatorNotes T858	EG:15194
+T859	PR 18675 18685	huntingtin
+#859	AnnotatorNotes T859	PR:000008840 (huntingtin)
+T860	italic 18705 18709	Hnf4
+#860	AnnotatorNotes T860	italic (null)
+T861	PR 18705 18709	Hnf4
+#861	AnnotatorNotes T861	PR:000008654 (hepatocyte nuclear factor 4-alpha)
+T862	GO_MF 18715 18735	transcription factor
+#862	AnnotatorNotes T862	GO:0003700 (transcription factor activity)
+T863	independent_continuant 18715 18735	transcription factor
+#863	AnnotatorNotes T863	independent_continuant
+T864	GO_BP 18715 18728	transcription
+#864	AnnotatorNotes T864	GO:0006350 (transcription)
+T865	GO_BP 18736 18745	expressed
+#865	AnnotatorNotes T865	GO:0010467 (gene expression)
+T866	GO_BP 18856 18864	secreted
+#866	AnnotatorNotes T866	GO:0046903 (secretion)
+T867	PR 18881 18897	alphafetoprotein
+#867	AnnotatorNotes T867	PR:000003809 (alpha-fetoprotein)
+T868	CHEBI 18899 18914	apolipoproteins
+#868	AnnotatorNotes T868	CHEBI:39015 (apolipoproteins)
+T869	PR 18920 18931	transferrin
+#869	AnnotatorNotes T869	PR:000016261 (serotransferrin)
+T870	italic 18949 18953	Hnf4
+#870	AnnotatorNotes T870	italic (null)
+T871	PR 18949 18953	Hnf4
+#871	AnnotatorNotes T871	PR:000008654 (hepatocyte nuclear factor 4-alpha)
+T872	GO_BP 18974 18986	gastrulation
+#872	AnnotatorNotes T872	GO:0007369 (gastrulation)
+T873	italic 19005 19009	Hnf4
+#873	AnnotatorNotes T873	italic (null)
+T874	PR 19005 19009	Hnf4
+#874	AnnotatorNotes T874	PR:000008654 (hepatocyte nuclear factor 4-alpha)
+T875	EntrezGene 19005 19009	Hnf4
+#875	AnnotatorNotes T875	EG:15378
+T876	GO_BP 19013 19022	expressed
+#876	AnnotatorNotes T876	GO:0010467 (gene expression)
+T877	CL 19048 19062	endoderm cells
+#877	AnnotatorNotes T877	CL:0000223 (endodermal cell)
+T878	GO_CC 19057 19062	cells
+#878	AnnotatorNotes T878	GO:0005623 (cell)
+T879	italic 19123 19126	Hdh
+#879	AnnotatorNotes T879	italic (null)
+T880	sup 19126 19131	ex4/5
+#880	AnnotatorNotes T880	sup (null)
+T881	italic 19126 19128	ex
+#881	AnnotatorNotes T881	italic (null)
+T882	italic 19132 19135	Hdh
+#882	AnnotatorNotes T882	italic (null)
+T883	sup 19135 19140	ex4/5
+#883	AnnotatorNotes T883	sup (null)
+T884	italic 19135 19137	ex
+#884	AnnotatorNotes T884	italic (null)
+T885	GO_BP 19205 19220	differentiation
+#885	AnnotatorNotes T885	GO:0030154 (cell differentiation)
+T886	italic 19222 19226	Hnf4
+#886	AnnotatorNotes T886	italic (null)
+T887	PR 19222 19226	Hnf4
+#887	AnnotatorNotes T887	PR:000008654 (hepatocyte nuclear factor 4-alpha)
+T888	EntrezGene 19222 19226	Hnf4
+#888	AnnotatorNotes T888	EG:15378
+T889	GO_BP 19227 19237	expression
+#889	AnnotatorNotes T889	GO:0010467 (gene expression)
+T890	SO 19289 19295	mutant
+#890	AnnotatorNotes T890	SO:0001059 (sequence_alteration)
+T891	SO 19316 19325	wild-type
+#891	AnnotatorNotes T891	SO:0000817 (wild_type)
+T892	italic 19356 19359	Pem
+#892	AnnotatorNotes T892	italic (null)
+T893	EntrezGene 19356 19359	Pem
+#893	AnnotatorNotes T893	EG:18617
+T894	PR 19356 19359	Pem
+#894	AnnotatorNotes T894	PR:000014397 (homeobox protein Rhox5)
+T895	independent_continuant 19363 19383	transcription factor
+#895	AnnotatorNotes T895	independent_continuant
+T896	GO_MF 19363 19383	transcription factor
+#896	AnnotatorNotes T896	GO:0003700 (transcription factor activity)
+T897	GO_BP 19363 19376	transcription
+#897	AnnotatorNotes T897	GO:0006350 (transcription)
+T898	GO_BP 19384 19393	expressed
+#898	AnnotatorNotes T898	GO:0010467 (gene expression)
+T899	SO 19450 19459	wild-type
+#899	AnnotatorNotes T899	SO:0000817 (wild_type)
+T900	GO_BP 19485 19494	expressed
+#900	AnnotatorNotes T900	GO:0010467 (gene expression)
+T901	SO 19519 19525	mutant
+#901	AnnotatorNotes T901	SO:0001059 (sequence_alteration)
+T902	italic 19560 19563	Pem
+#902	AnnotatorNotes T902	italic (null)
+T903	PR 19560 19563	Pem
+#903	AnnotatorNotes T903	PR:000014397 (homeobox protein Rhox5)
+T904	EntrezGene 19560 19563	Pem
+#904	AnnotatorNotes T904	EG:18617
+T905	GO_BP 19564 19574	expressing
+#905	AnnotatorNotes T905	GO:0010467 (gene expression)
+T906	SO 19624 19630	mutant
+#906	AnnotatorNotes T906	SO:0001059 (sequence_alteration)
+T907	GO_BP 19659 19667	location
+#907	AnnotatorNotes T907	GO:0051179 (localization)
+T908	GO_BP 19691 19706	differentiation
+#908	AnnotatorNotes T908	GO:0030154 (cell differentiation)
+T909	bold 19719 19794	Normal expression of extraembryonic markers in huntingtin deficient embryos
+#909	AnnotatorNotes T909	bold (null)
+T910	GO_BP 19726 19736	expression
+#910	AnnotatorNotes T910	GO:0010467 (gene expression)
+T911	EntrezGene 19766 19776	huntingtin
+#911	AnnotatorNotes T911	EG:15194
+T912	PR 19766 19776	huntingtin
+#912	AnnotatorNotes T912	PR:000008840 (huntingtin)
+T913	GO_MF 19816 19829	hybridization
+#913	AnnotatorNotes T913	GO:0000739 (DNA strand annealing activity)
+T914	GO_MF 19816 19829	hybridization
+#914	AnnotatorNotes T914	GO:0033592 (RNA strand annealing activity)
+T915	GO_BP 19911 19921	expression
+#915	AnnotatorNotes T915	GO:0010467 (gene expression)
+T916	EntrezGene 19940 19950	huntingtin
+#916	AnnotatorNotes T916	EG:15194
+T917	PR 19940 19950	huntingtin
+#917	AnnotatorNotes T917	PR:000008840 (huntingtin)
+T918	italic 19952 19956	Hnf4
+#918	AnnotatorNotes T918	italic (null)
+T919	PR 19952 19956	Hnf4
+#919	AnnotatorNotes T919	PR:000008654 (hepatocyte nuclear factor 4-alpha)
+T920	EntrezGene 19952 19956	Hnf4
+#920	AnnotatorNotes T920	EG:15378
+T921	GO_BP 19958 19967	expressed
+#921	AnnotatorNotes T921	GO:0010467 (gene expression)
+T922	SO 20058 20064	mutant
+#922	AnnotatorNotes T922	SO:0001059 (sequence_alteration)
+T923	GO_BP 20133 20143	expression
+#923	AnnotatorNotes T923	GO:0010467 (gene expression)
+T924	italic 20147 20150	Pem
+#924	AnnotatorNotes T924	italic (null)
+T925	EntrezGene 20147 20150	Pem
+#925	AnnotatorNotes T925	EG:18617
+T926	PR 20147 20150	Pem
+#926	AnnotatorNotes T926	PR:000014397 (homeobox protein Rhox5)
+T927	SO 20151 20162	transcripts
+#927	AnnotatorNotes T927	SO:0000673 (transcript)
+T928	SO 20180 20186	mutant
+#928	AnnotatorNotes T928	SO:0001059 (sequence_alteration)
+T929	italic 20239 20242	Pem
+#929	AnnotatorNotes T929	italic (null)
+T930	PR 20239 20242	Pem
+#930	AnnotatorNotes T930	PR:000014397 (homeobox protein Rhox5)
+T931	EntrezGene 20239 20242	Pem
+#931	AnnotatorNotes T931	EG:18617
+T932	GO_BP 20246 20255	expressed
+#932	AnnotatorNotes T932	GO:0010467 (gene expression)
+T933	SO 20336 20342	mutant
+#933	AnnotatorNotes T933	SO:0001059 (sequence_alteration)
+T934	GO_BP 20352 20362	Expression
+#934	AnnotatorNotes T934	GO:0010467 (gene expression)
+T935	GO_BP 20381 20390	signaling
+#935	AnnotatorNotes T935	GO:0007165 (signal transduction)
+T936	CHEBI 20391 20400	molecules
+#936	AnnotatorNotes T936	CHEBI:23367 (molecular entity)
+T937	EntrezGene 20430 20440	huntingtin
+#937	AnnotatorNotes T937	EG:15194
+T938	PR 20430 20440	huntingtin
+#938	AnnotatorNotes T938	PR:000008840 (huntingtin)
+T939	GO_BP 20462 20472	expression
+#939	AnnotatorNotes T939	GO:0010467 (gene expression)
+T940	italic 20476 20480	Bmp4
+#940	AnnotatorNotes T940	italic (null)
+T941	EntrezGene 20476 20480	Bmp4
+#941	AnnotatorNotes T941	EG:12159
+T942	PR 20476 20480	Bmp4
+#942	AnnotatorNotes T942	PR:000000165 (BMP4)
+T943	italic 20523 20529	Lefty1
+#943	AnnotatorNotes T943	italic (null)
+T944	EntrezGene 20523 20529	Lefty1
+#944	AnnotatorNotes T944	EG:13590
+T945	PR 20523 20529	Lefty1
+#945	AnnotatorNotes T945	PR:000000287 (lefty 1)
+T946	italic 20534 20538	Dkk1
+#946	AnnotatorNotes T946	italic (null)
+T947	PR 20534 20538	Dkk1
+#947	AnnotatorNotes T947	PR:000006499 (dickkopf-related protein 1)
+T948	EntrezGene 20534 20538	Dkk1
+#948	AnnotatorNotes T948	EG:13380
+T949	SO 20559 20565	mutant
+#949	AnnotatorNotes T949	SO:0001059 (sequence_alteration)
+T950	italic 20575 20579	Bmp4
+#950	AnnotatorNotes T950	italic (null)
+T951	EntrezGene 20575 20579	Bmp4
+#951	AnnotatorNotes T951	EG:12159
+T952	PR 20575 20579	Bmp4
+#952	AnnotatorNotes T952	PR:000000165 (BMP4)
+T953	GO_BP 20587 20596	localized
+#953	AnnotatorNotes T953	GO:0051179 (localization)
+T954	SO 20647 20653	mutant
+#954	AnnotatorNotes T954	SO:0001059 (sequence_alteration)
+T955	CL 20692 20718	Primitive germ cells (PCGs
+#955	AnnotatorNotes T955	"Primitive germ cells .. PCGs" CL:0000670 (primordial germ cell)
+T956	GO_CC 20707 20712	cells
+#956	AnnotatorNotes T956	GO:0005623 (cell)
+T957	GO_BP 20724 20731	induced
+#957	AnnotatorNotes T957	GO:0031128 (induction)
+T958	SO 20749 20758	wild-type
+#958	AnnotatorNotes T958	SO:0000817 (wild_type)
+T959	SO 20767 20773	mutant
+#959	AnnotatorNotes T959	SO:0001059 (sequence_alteration)
+T960	EntrezGene 20802 20806	Bmp4
+#960	AnnotatorNotes T960	EG:12159
+T961	PR 20802 20806	Bmp4
+#961	AnnotatorNotes T961	PR:000000165 (BMP4)
+T962	GO_BP 20807 20816	signaling
+#962	AnnotatorNotes T962	GO:0007165 (signal transduction)
+T963	italic 20877 20883	Lefty1
+#963	AnnotatorNotes T963	italic (null)
+T964	EntrezGene 20877 20883	Lefty1
+#964	AnnotatorNotes T964	EG:13590
+T965	PR 20877 20883	Lefty1
+#965	AnnotatorNotes T965	PR:000000287 (lefty 1)
+T966	GO_BP 20884 20894	expression
+#966	AnnotatorNotes T966	GO:0010467 (gene expression)
+T967	SO 20919 20925	mutant
+#967	AnnotatorNotes T967	SO:0001059 (sequence_alteration)
+T968	SO 20950 20959	wild-type
+#968	AnnotatorNotes T968	SO:0000817 (wild_type)
+T969	GO_BP 20999 21009	expression
+#969	AnnotatorNotes T969	GO:0010467 (gene expression)
+T970	italic 21013 21017	Dkk1
+#970	AnnotatorNotes T970	italic (null)
+T971	EntrezGene 21013 21017	Dkk1
+#971	AnnotatorNotes T971	EG:13380
+T972	PR 21013 21017	Dkk1
+#972	AnnotatorNotes T972	PR:000006499 (dickkopf-related protein 1)
+T973	SO 21032 21038	mutant
+#973	AnnotatorNotes T973	SO:0001059 (sequence_alteration)
+T974	SO 21063 21072	wild-type
+#974	AnnotatorNotes T974	SO:0000817 (wild_type)
+T975	independent_continuant 21063 21072	wild-type
+#975	AnnotatorNotes T975	independent_continuant
+T976	GO_BP 21073 21083	expression
+#976	AnnotatorNotes T976	GO:0010467 (gene expression)
+T977	GO_BP 21116 21125	formation
+#977	AnnotatorNotes T977	GO:0032502 (developmental process)
+T978	GO_BP 21146 21150	form
+#978	AnnotatorNotes T978	GO:0032502 (developmental process)
+T979	SO 21154 21160	mutant
+#979	AnnotatorNotes T979	SO:0001059 (sequence_alteration)
+T980	CHEBI 21192 21200	nutrient
+#980	AnnotatorNotes T980	CHEBI:33284 (nutrient)
+T981	SO 21226 21235	Wild-type
+#981	AnnotatorNotes T981	SO:0000817 (wild_type)
+T982	NCBITaxon 21271 21274	rat
+#982	AnnotatorNotes T982	NCBITaxon:10114 (Rattus)
+T983	GO_BP 21282 21289	develop
+#983	AnnotatorNotes T983	GO:0032502 (developmental process)
+T984	EntrezGene 21387 21397	huntingtin
+#984	AnnotatorNotes T984	EG:15194
+T985	PR 21387 21397	huntingtin
+#985	AnnotatorNotes T985	PR:000008840 (huntingtin)
+T986	GO_BP 21455 21459	form
+#986	AnnotatorNotes T986	GO:0032502 (developmental process)
+T987	GO_BP 21789 21798	formation
+#987	AnnotatorNotes T987	GO:0032502 (developmental process)
+T988	GO_BP 21803 21813	patterning
+#988	AnnotatorNotes T988	GO:0007389 (pattern specification process)
+T989	EntrezGene 21836 21840	Bmp4
+#989	AnnotatorNotes T989	EG:12159
+T990	PR 21836 21840	Bmp4
+#990	AnnotatorNotes T990	PR:000000165 (BMP4)
+T991	GO_BP 21846 21855	signaling
+#991	AnnotatorNotes T991	GO:0007165 (signal transduction)
+T992	CHEBI 21856 21864	molecule
+#992	AnnotatorNotes T992	CHEBI:23367 (molecular entity)
+T993	GO_BP 21879 21888	expressed
+#993	AnnotatorNotes T993	GO:0010467 (gene expression)
+T994	GO_BP 21958 21967	localized
+#994	AnnotatorNotes T994	GO:0051179 (localization)
+T995	GO_BP 22063 22073	regulating
+#995	AnnotatorNotes T995	GO:0065007 (biological regulation)
+T996	GO_BP 22078 22087	formation
+#996	AnnotatorNotes T996	GO:0032502 (developmental process)
+T997	PR 22122 22126	Bmp4
+#997	AnnotatorNotes T997	PR:000000165 (BMP4)
+T998	GO_BP 22143 22153	patterning
+#998	AnnotatorNotes T998	GO:0007389 (pattern specification process)
+T999	EntrezGene 22221 22231	huntingtin
+#999	AnnotatorNotes T999	EG:15194
+T1000	PR 22221 22231	huntingtin
+#1000	AnnotatorNotes T1000	PR:000008840 (huntingtin)
+T1001	italic 22233 22237	Bmp4
+#1001	AnnotatorNotes T1001	italic (null)
+T1002	PR 22233 22237	Bmp4
+#1002	AnnotatorNotes T1002	PR:000000165 (BMP4)
+T1003	EntrezGene 22233 22237	Bmp4
+#1003	AnnotatorNotes T1003	EG:12159
+T1004	GO_BP 22238 22248	expression
+#1004	AnnotatorNotes T1004	GO:0010467 (gene expression)
+T1005	italic 22279 22282	Hdh
+#1005	AnnotatorNotes T1005	italic (null)
+T1006	sup 22282 22287	ex4/5
+#1006	AnnotatorNotes T1006	sup (null)
+T1007	italic 22282 22284	ex
+#1007	AnnotatorNotes T1007	italic (null)
+T1008	italic 22288 22291	Hdh
+#1008	AnnotatorNotes T1008	italic (null)
+T1009	sup 22291 22296	ex4/5
+#1009	AnnotatorNotes T1009	sup (null)
+T1010	italic 22291 22293	ex
+#1010	AnnotatorNotes T1010	italic (null)
+T1011	GO_BP 22333 22342	expressed
+#1011	AnnotatorNotes T1011	GO:0010467 (gene expression)
+T1012	italic 22430 22434	Bmp4
+#1012	AnnotatorNotes T1012	italic (null)
+T1013	EntrezGene 22430 22434	Bmp4
+#1013	AnnotatorNotes T1013	EG:12159
+T1014	PR 22430 22434	Bmp4
+#1014	AnnotatorNotes T1014	PR:000000165 (BMP4)
+T1015	GO_BP 22435 22445	expression
+#1015	AnnotatorNotes T1015	GO:0010467 (gene expression)
+T1016	SO 22527 22536	wild-type
+#1016	AnnotatorNotes T1016	SO:0000817 (wild_type)
+T1017	EntrezGene 22555 22559	Bmp4
+#1017	AnnotatorNotes T1017	EG:12159
+T1018	PR 22555 22559	Bmp4
+#1018	AnnotatorNotes T1018	PR:000000165 (BMP4)
+T1019	GO_BP 22560 22569	signaling
+#1019	AnnotatorNotes T1019	GO:0007165 (signal transduction)
+T1020	CL 22617 22638	primordial germ cells
+#1020	AnnotatorNotes T1020	CL:0000670 (primordial germ cell)
+T1021	GO_CC 22633 22638	cells
+#1021	AnnotatorNotes T1021	GO:0005623 (cell)
+T1022	CL 22640 22644	PGCs
+#1022	AnnotatorNotes T1022	CL:0000670 (primordial germ cell)
+T1023	PR 22661 22665	Bmp4
+#1023	AnnotatorNotes T1023	PR:000000165 (BMP4)
+T1024	GO_BP 22676 22685	induction
+#1024	AnnotatorNotes T1024	GO:0031128 (induction)
+T1025	CL 22692 22696	PGCs
+#1025	AnnotatorNotes T1025	CL:0000670 (primordial germ cell)
+T1026	SO 22829 22835	mutant
+#1026	AnnotatorNotes T1026	SO:0001059 (sequence_alteration)
+T1027	SO 22840 22849	wild-type
+#1027	AnnotatorNotes T1027	SO:0000817 (wild_type)
+T1028	independent_continuant 22862 22882	alkaline phosphatase
+#1028	AnnotatorNotes T1028	independent_continuant
+T1029	GO_MF 22862 22882	alkaline phosphatase
+#1029	AnnotatorNotes T1029	GO:0004035 (alkaline phosphatase activity)
+T1030	CHEBI 22862 22870	alkaline
+#1030	AnnotatorNotes T1030	CHEBI:36364 (alkaline earth salts)
+T1031	CHEBI 22862 22870	alkaline
+#1031	AnnotatorNotes T1031	CHEBI:35479 (alkali metal salts)
+T1032	CL 22905 22909	PCGs
+#1032	AnnotatorNotes T1032	CL:0000670 (primordial germ cell)
+T1033	GO_BP 22910 22914	form
+#1033	AnnotatorNotes T1033	GO:0032502 (developmental process)
+T1034	italic 22918 22921	Hdh
+#1034	AnnotatorNotes T1034	italic (null)
+T1035	sup 22921 22926	ex4/5
+#1035	AnnotatorNotes T1035	sup (null)
+T1036	italic 22921 22923	ex
+#1036	AnnotatorNotes T1036	italic (null)
+T1037	italic 22927 22930	Hdh
+#1037	AnnotatorNotes T1037	italic (null)
+T1038	sup 22930 22935	ex4/5
+#1038	AnnotatorNotes T1038	sup (null)
+T1039	italic 22930 22932	ex
+#1039	AnnotatorNotes T1039	italic (null)
+T1040	EntrezGene 22961 22965	Bmp4
+#1040	AnnotatorNotes T1040	EG:12159
+T1041	PR 22961 22965	Bmp4
+#1041	AnnotatorNotes T1041	PR:000000165 (BMP4)
+T1042	GO_BP 22966 22975	signaling
+#1042	AnnotatorNotes T1042	GO:0007165 (signal transduction)
+T1043	EntrezGene 23008 23018	huntingtin
+#1043	AnnotatorNotes T1043	EG:15194
+T1044	PR 23008 23018	huntingtin
+#1044	AnnotatorNotes T1044	PR:000008840 (huntingtin)
+T1045	GO_BP 23142 23152	patterning
+#1045	AnnotatorNotes T1045	GO:0007389 (pattern specification process)
+T1046	PR 23162 23167	nodal
+#1046	AnnotatorNotes T1046	PR:000000105 (nodal protein)
+T1047	italic 23181 23185	Dkk1
+#1047	AnnotatorNotes T1047	italic (null)
+T1048	PR 23181 23185	Dkk1
+#1048	AnnotatorNotes T1048	PR:000006499 (dickkopf-related protein 1)
+T1049	italic 23187 23193	mdkk-1
+#1049	AnnotatorNotes T1049	italic (null)
+T1050	PR 23187 23193	mdkk-1
+#1050	AnnotatorNotes T1050	PR:000006499 (dickkopf-related protein 1)
+T1051	italic 23199 23205	Lefty1
+#1051	AnnotatorNotes T1051	italic (null)
+T1052	PR 23199 23205	Lefty1
+#1052	AnnotatorNotes T1052	PR:000000287 (lefty 1)
+T1053	GO_BP 23224 23233	expressed
+#1053	AnnotatorNotes T1053	GO:0010467 (gene expression)
+T1054	GO_BP 23279 23318	posteriorization of the anterior embryo
+#1054	AnnotatorNotes T1054	"posteriorization of .. embryo" GO:0007388 (posterior compartment specification)
+T1055	PR 23334 23339	Nodal
+#1055	AnnotatorNotes T1055	PR:000000105 (nodal protein)
+T1056	GO_BP 23344 23357	Wnt signaling
+#1056	AnnotatorNotes T1056	GO:0016055 (Wnt receptor signaling pathway)
+T1057	italic 23370 23373	Hdh
+#1057	AnnotatorNotes T1057	italic (null)
+T1058	sup 23373 23378	ex4/5
+#1058	AnnotatorNotes T1058	sup (null)
+T1059	italic 23373 23375	ex
+#1059	AnnotatorNotes T1059	italic (null)
+T1060	italic 23379 23382	Hdh
+#1060	AnnotatorNotes T1060	italic (null)
+T1061	sup 23382 23387	ex4/5
+#1061	AnnotatorNotes T1061	sup (null)
+T1062	italic 23382 23384	ex
+#1062	AnnotatorNotes T1062	italic (null)
+T1063	italic 23402 23406	Dkk1
+#1063	AnnotatorNotes T1063	italic (null)
+T1064	EntrezGene 23402 23406	Dkk1
+#1064	AnnotatorNotes T1064	EG:13380
+T1065	PR 23402 23406	Dkk1
+#1065	AnnotatorNotes T1065	PR:000006499 (dickkopf-related protein 1)
+T1066	italic 23423 23429	Lefty1
+#1066	AnnotatorNotes T1066	italic (null)
+T1067	EntrezGene 23423 23429	Lefty1
+#1067	AnnotatorNotes T1067	EG:13590
+T1068	PR 23423 23429	Lefty1
+#1068	AnnotatorNotes T1068	PR:000000287 (lefty 1)
+T1069	GO_BP 23446 23455	expressed
+#1069	AnnotatorNotes T1069	GO:0010467 (gene expression)
+T1070	SO 23493 23502	wild-type
+#1070	AnnotatorNotes T1070	SO:0000817 (wild_type)
+T1071	italic 23521 23526	Dkk-1
+#1071	AnnotatorNotes T1071	italic (null)
+T1072	PR 23521 23526	Dkk-1
+#1072	AnnotatorNotes T1072	PR:000006499 (dickkopf-related protein 1)
+T1073	EntrezGene 23521 23526	Dkk-1
+#1073	AnnotatorNotes T1073	EG:13380
+T1074	italic 23569 23572	Hdh
+#1074	AnnotatorNotes T1074	italic (null)
+T1075	sup 23572 23577	ex4/5
+#1075	AnnotatorNotes T1075	sup (null)
+T1076	italic 23572 23574	ex
+#1076	AnnotatorNotes T1076	italic (null)
+T1077	italic 23578 23581	Hdh
+#1077	AnnotatorNotes T1077	italic (null)
+T1078	sup 23581 23586	ex4/5
+#1078	AnnotatorNotes T1078	sup (null)
+T1079	italic 23581 23583	ex
+#1079	AnnotatorNotes T1079	italic (null)
+T1080	italic 23620 23625	Dkk-1
+#1080	AnnotatorNotes T1080	italic (null)
+T1081	EntrezGene 23620 23625	Dkk-1
+#1081	AnnotatorNotes T1081	EG:13380
+T1082	PR 23620 23625	Dkk-1
+#1082	AnnotatorNotes T1082	PR:000006499 (dickkopf-related protein 1)
+T1083	GO_BP 23626 23636	expression
+#1083	AnnotatorNotes T1083	GO:0010467 (gene expression)
+T1084	GO_BP 23709 23719	expression
+#1084	AnnotatorNotes T1084	GO:0010467 (gene expression)
+T1085	GO_BP 23762 23772	expression
+#1085	AnnotatorNotes T1085	GO:0010467 (gene expression)
+T1086	italic 23776 23781	Nodal
+#1086	AnnotatorNotes T1086	italic (null)
+T1087	PR 23776 23781	Nodal
+#1087	AnnotatorNotes T1087	PR:000000105 (nodal protein)
+T1088	EntrezGene 23776 23781	Nodal
+#1088	AnnotatorNotes T1088	EG:18119
+T1089	italic 23812 23817	Wnt3a
+#1089	AnnotatorNotes T1089	italic (null)
+T1090	EntrezGene 23812 23817	Wnt3a
+#1090	AnnotatorNotes T1090	EG:22416
+T1091	PR 23812 23817	Wnt3a
+#1091	AnnotatorNotes T1091	PR:000017443 (protein Wnt-3a)
+T1092	GO_BP 23818 23828	expression
+#1092	AnnotatorNotes T1092	GO:0010467 (gene expression)
+T1093	SO 23842 23848	mutant
+#1093	AnnotatorNotes T1093	SO:0001059 (sequence_alteration)
+T1094	GO_BP 23902 23912	expression
+#1094	AnnotatorNotes T1094	GO:0010467 (gene expression)
+T1095	italic 23924 23930	Lefty1
+#1095	AnnotatorNotes T1095	italic (null)
+T1096	EntrezGene 23924 23930	Lefty1
+#1096	AnnotatorNotes T1096	EG:13590
+T1097	PR 23924 23930	Lefty1
+#1097	AnnotatorNotes T1097	PR:000000287 (lefty 1)
+T1098	italic 23934 23938	Dkk1
+#1098	AnnotatorNotes T1098	italic (null)
+T1099	EntrezGene 23934 23938	Dkk1
+#1099	AnnotatorNotes T1099	EG:13380
+T1100	PR 23934 23938	Dkk1
+#1100	AnnotatorNotes T1100	PR:000006499 (dickkopf-related protein 1)
+T1101	GO_BP 23960 23969	formation
+#1101	AnnotatorNotes T1101	GO:0032502 (developmental process)
+T1102	GO_BP 23988 23997	induction
+#1102	AnnotatorNotes T1102	GO:0031128 (induction)
+T1103	GO_BP 24017 24021	form
+#1103	AnnotatorNotes T1103	GO:0032502 (developmental process)
+T1104	italic 24025 24028	Hdh
+#1104	AnnotatorNotes T1104	italic (null)
+T1105	sup 24028 24033	ex4/5
+#1105	AnnotatorNotes T1105	sup (null)
+T1106	italic 24028 24030	ex
+#1106	AnnotatorNotes T1106	italic (null)
+T1107	italic 24034 24037	Hdh
+#1107	AnnotatorNotes T1107	italic (null)
+T1108	sup 24037 24042	ex4/5
+#1108	AnnotatorNotes T1108	sup (null)
+T1109	italic 24037 24039	ex
+#1109	AnnotatorNotes T1109	italic (null)
+T1110	SO 24084 24090	mutant
+#1110	AnnotatorNotes T1110	SO:0001059 (sequence_alteration)
+T1111	GO_BP 24125 24132	forming
+#1111	AnnotatorNotes T1111	GO:0032502 (developmental process)
+T1112	italic 24225 24233	in vitro
+#1112	AnnotatorNotes T1112	italic (null)
+T1113	SO 24248 24257	Wild-type
+#1113	AnnotatorNotes T1113	SO:0000817 (wild_type)
+T1114	GO_BP 24279 24286	develop
+#1114	AnnotatorNotes T1114	GO:0032502 (developmental process)
+T1115	SO 24344 24350	mutant
+#1115	AnnotatorNotes T1115	SO:0001059 (sequence_alteration)
+T1116	GO_BP 24377 24384	develop
+#1116	AnnotatorNotes T1116	GO:0032502 (developmental process)
+T1117	EntrezGene 24521 24531	huntingtin
+#1117	AnnotatorNotes T1117	EG:15194
+T1118	PR 24521 24531	huntingtin
+#1118	AnnotatorNotes T1118	PR:000008840 (huntingtin)
+T1119	GO_BP 24563 24576	organogenesis
+#1119	AnnotatorNotes T1119	GO:0048513 (organ development)
+T1120	CHEBI 24623 24631	nutrient
+#1120	AnnotatorNotes T1120	CHEBI:33284 (nutrient)
+T1121	EntrezGene 24721 24731	huntingtin
+#1121	AnnotatorNotes T1121	EG:15194
+T1122	PR 24721 24731	huntingtin
+#1122	AnnotatorNotes T1122	PR:000008840 (huntingtin)
+T1123	EntrezGene 24769 24779	huntingtin
+#1123	AnnotatorNotes T1123	EG:15194
+T1124	PR 24769 24779	huntingtin
+#1124	AnnotatorNotes T1124	PR:000008840 (huntingtin)
+T1125	CHEBI 24792 24801	molecular
+#1125	AnnotatorNotes T1125	CHEBI:23367 (molecular entity)
+T1126	GO_BP 24806 24825	cellular activities
+#1126	AnnotatorNotes T1126	GO:0009987 (cellular process)
+T1127	CL 24806 24814	cellular
+#1127	AnnotatorNotes T1127	CL:0000000 (cell)
+T1128	GO_CC 24806 24814	cellular
+#1128	AnnotatorNotes T1128	GO:0005623 (cell)
+T1129	SO 24910 24918	mutation
+#1129	AnnotatorNotes T1129	SO:0001059 (sequence_alteration)
+T1130	EntrezGene 24922 24932	huntingtin
+#1130	AnnotatorNotes T1130	EG:15194
+T1131	PR 24922 24932	huntingtin
+#1131	AnnotatorNotes T1131	PR:000008840 (huntingtin)
+T1132	EntrezGene 24988 24998	huntingtin
+#1132	AnnotatorNotes T1132	EG:15194
+T1133	PR 24988 24998	huntingtin
+#1133	AnnotatorNotes T1133	PR:000008840 (huntingtin)
+T1134	GO_BP 25051 25063	gastrulation
+#1134	AnnotatorNotes T1134	GO:0007369 (gastrulation)
+T1135	GO_BP 25121 25136	gene expression
+#1135	AnnotatorNotes T1135	GO:0010467 (gene expression)
+T1136	SO 25121 25125	gene
+#1136	AnnotatorNotes T1136	SO:0000704 (gene)
+T1137	italic 25140 25143	Hdh
+#1137	AnnotatorNotes T1137	italic (null)
+T1138	sup 25143 25148	ex4/5
+#1138	AnnotatorNotes T1138	sup (null)
+T1139	italic 25143 25145	ex
+#1139	AnnotatorNotes T1139	italic (null)
+T1140	italic 25149 25152	Hdh
+#1140	AnnotatorNotes T1140	italic (null)
+T1141	sup 25152 25157	ex4/5
+#1141	AnnotatorNotes T1141	sup (null)
+T1142	italic 25152 25154	ex
+#1142	AnnotatorNotes T1142	italic (null)
+T1143	EntrezGene 25200 25210	huntingtin
+#1143	AnnotatorNotes T1143	EG:15194
+T1144	PR 25200 25210	huntingtin
+#1144	AnnotatorNotes T1144	PR:000008840 (huntingtin)
+T1145	GO_BP 25250 25259	formation
+#1145	AnnotatorNotes T1145	GO:0032502 (developmental process)
+T1146	GO_BP 25279 25310	production of paraxial mesoderm
+#1146	AnnotatorNotes T1146	GO:0048339 (paraxial mesoderm development)
+T1147	EntrezGene 25352 25362	huntingtin
+#1147	AnnotatorNotes T1147	EG:15194
+T1148	PR 25352 25362	huntingtin
+#1148	AnnotatorNotes T1148	PR:000008840 (huntingtin)
+T1149	GO_BP 25422 25431	expressed
+#1149	AnnotatorNotes T1149	GO:0010467 (gene expression)
+T1150	SO 25432 25437	genes
+#1150	AnnotatorNotes T1150	SO:0000704 (gene)
+T1151	EntrezGene 25468 25478	huntingtin
+#1151	AnnotatorNotes T1151	EG:15194
+T1152	PR 25468 25478	huntingtin
+#1152	AnnotatorNotes T1152	PR:000008840 (huntingtin)
+T1153	CHEBI 25489 25498	molecular
+#1153	AnnotatorNotes T1153	CHEBI:23367 (molecular entity)
+T1154	GO_BP 25525 25540	down-regulation
+#1154	AnnotatorNotes T1154	GO:0048519 (negative regulation of biological process)
+T1155	GO_BP 25568 25577	expressed
+#1155	AnnotatorNotes T1155	GO:0010467 (gene expression)
+T1156	SO 25578 25583	genes
+#1156	AnnotatorNotes T1156	SO:0000704 (gene)
+T1157	GO_BP 25611 25621	expression
+#1157	AnnotatorNotes T1157	GO:0010467 (gene expression)
+T1158	GO_BP 25666 25699	anterior/posterior axis formation
+#1158	AnnotatorNotes T1158	GO:0009948 (anterior/posterior axis specification)
+T1159	GO_BP 25721 25730	formation
+#1159	AnnotatorNotes T1159	GO:0032502 (developmental process)
+T1160	GO_BP 25833 25844	development
+#1160	AnnotatorNotes T1160	GO:0032502 (developmental process)
+T1161	italic 25881 25886	Wnt3a
+#1161	AnnotatorNotes T1161	italic (null)
+T1162	PR 25881 25886	Wnt3a
+#1162	AnnotatorNotes T1162	PR:000017443 (protein Wnt-3a)
+T1163	EntrezGene 25881 25886	Wnt3a
+#1163	AnnotatorNotes T1163	EG:22416
+T1164	CL 25891 25912	primordial germ cells
+#1164	AnnotatorNotes T1164	CL:0000670 (primordial germ cell)
+T1165	GO_CC 25907 25912	cells
+#1165	AnnotatorNotes T1165	GO:0005623 (cell)
+T1166	SO 25946 25955	wild-type
+#1166	AnnotatorNotes T1166	SO:0000817 (wild_type)
+T1167	GO_BP 26009 26019	expression
+#1167	AnnotatorNotes T1167	GO:0010467 (gene expression)
+T1168	italic 26023 26024	T
+#1168	AnnotatorNotes T1168	italic (null)
+T1169	PR 26023 26024	T
+#1169	AnnotatorNotes T1169	PR:000016001 (brachyury protein)
+T1170	EntrezGene 26023 26024	T
+#1170	AnnotatorNotes T1170	EG:20997
+T1171	italic 26029 26033	Evx1
+#1171	AnnotatorNotes T1171	italic (null)
+T1172	PR 26029 26033	Evx1
+#1172	AnnotatorNotes T1172	PR:000007241 (homeobox even-skipped protein 1)
+T1173	EntrezGene 26029 26033	Evx1
+#1173	AnnotatorNotes T1173	EG:14028
+T1174	SO 26068 26074	mutant
+#1174	AnnotatorNotes T1174	SO:0001059 (sequence_alteration)
+T1175	SO 26103 26112	wild-type
+#1175	AnnotatorNotes T1175	SO:0000817 (wild_type)
+T1176	EntrezGene 26177 26187	huntingtin
+#1176	AnnotatorNotes T1176	EG:15194
+T1177	PR 26177 26187	huntingtin
+#1177	AnnotatorNotes T1177	PR:000008840 (huntingtin)
+T1178	GO_BP 26211 26220	migration
+#1178	AnnotatorNotes T1178	GO:0016477 (cell migration)
+T1179	GO_BP 26314 26329	down-regulation
+#1179	AnnotatorNotes T1179	GO:0048519 (negative regulation of biological process)
+T1180	SO 26339 26344	genes
+#1180	AnnotatorNotes T1180	SO:0000704 (gene)
+T1181	EntrezGene 26406 26416	huntingtin
+#1181	AnnotatorNotes T1181	EG:15194
+T1182	PR 26406 26416	huntingtin
+#1182	AnnotatorNotes T1182	PR:000008840 (huntingtin)
+T1183	GO_BP 26460 26470	expression
+#1183	AnnotatorNotes T1183	GO:0010467 (gene expression)
+T1184	italic 26474 26478	Fgf8
+#1184	AnnotatorNotes T1184	italic (null)
+T1185	PR 26474 26478	Fgf8
+#1185	AnnotatorNotes T1185	PR:000007499 (fibroblast growth factor 8)
+T1186	EntrezGene 26474 26478	Fgf8
+#1186	AnnotatorNotes T1186	EG:14179
+T1187	italic 26480 26485	Nodal
+#1187	AnnotatorNotes T1187	italic (null)
+T1188	PR 26480 26485	Nodal
+#1188	AnnotatorNotes T1188	PR:000000105 (nodal protein)
+T1189	EntrezGene 26480 26485	Nodal
+#1189	AnnotatorNotes T1189	EG:18119
+T1190	italic 26490 26493	Gsc
+#1190	AnnotatorNotes T1190	italic (null)
+T1191	EntrezGene 26490 26493	Gsc
+#1191	AnnotatorNotes T1191	EG:14836
+T1192	PR 26490 26493	Gsc
+#1192	AnnotatorNotes T1192	PR:000008278 (homeobox protein goosecoid)
+T1193	EntrezGene 26501 26511	huntingtin
+#1193	AnnotatorNotes T1193	EG:15194
+T1194	PR 26501 26511	huntingtin
+#1194	AnnotatorNotes T1194	PR:000008840 (huntingtin)
+T1195	GO_BP 26542 26568	transcriptional regulation
+#1195	AnnotatorNotes T1195	GO:0045449 (regulation of transcription)
+T1196	GO_BP 26542 26557	transcriptional
+#1196	AnnotatorNotes T1196	GO:0006350 (transcription)
+T1197	CHEBI 26573 26577	mRNA
+#1197	AnnotatorNotes T1197	CHEBI:33699 (messenger RNA)
+T1198	SO 26573 26577	mRNA
+#1198	AnnotatorNotes T1198	SO:0000234 (mRNA)
+T1199	SO 26597 26602	genes
+#1199	AnnotatorNotes T1199	SO:0000704 (gene)
+T1200	GO_BP 26669 26677	regulate
+#1200	AnnotatorNotes T1200	GO:0065007 (biological regulation)
+T1201	GO_BP 26682 26707	expression of these genes
+#1201	AnnotatorNotes T1201	"expression of .. genes" GO:0010467 (gene expression)
+T1202	SO 26702 26707	genes
+#1202	AnnotatorNotes T1202	SO:0000704 (gene)
+T1203	EntrezGene 26730 26740	huntingtin
+#1203	AnnotatorNotes T1203	EG:15194
+T1204	PR 26730 26740	huntingtin
+#1204	AnnotatorNotes T1204	PR:000008840 (huntingtin)
+T1205	GO_BP 26881 26896	gene expression
+#1205	AnnotatorNotes T1205	GO:0010467 (gene expression)
+T1206	SO 26881 26885	gene
+#1206	AnnotatorNotes T1206	SO:0000704 (gene)
+T1207	italic 26937 26940	Hdh
+#1207	AnnotatorNotes T1207	italic (null)
+T1208	sup 26940 26945	ex4/5
+#1208	AnnotatorNotes T1208	sup (null)
+T1209	italic 26940 26942	ex
+#1209	AnnotatorNotes T1209	italic (null)
+T1210	italic 26946 26949	Hdh
+#1210	AnnotatorNotes T1210	italic (null)
+T1211	sup 26949 26954	ex4/5
+#1211	AnnotatorNotes T1211	sup (null)
+T1212	italic 26949 26951	ex
+#1212	AnnotatorNotes T1212	italic (null)
+T1213	GO_BP 26979 26990	development
+#1213	AnnotatorNotes T1213	GO:0032502 (developmental process)
+T1214	italic 26994 26997	Hdh
+#1214	AnnotatorNotes T1214	italic (null)
+T1215	sup 26997 27002	ex4/5
+#1215	AnnotatorNotes T1215	sup (null)
+T1216	italic 26997 26999	ex
+#1216	AnnotatorNotes T1216	italic (null)
+T1217	italic 27003 27006	Hdh
+#1217	AnnotatorNotes T1217	italic (null)
+T1218	sup 27006 27011	ex4/5
+#1218	AnnotatorNotes T1218	sup (null)
+T1219	italic 27006 27008	ex
+#1219	AnnotatorNotes T1219	italic (null)
+T1220	GO_BP 27062 27072	expression
+#1220	AnnotatorNotes T1220	GO:0010467 (gene expression)
+T1221	italic 27076 27080	Hnf4
+#1221	AnnotatorNotes T1221	italic (null)
+T1222	PR 27076 27080	Hnf4
+#1222	AnnotatorNotes T1222	PR:000008654 (hepatocyte nuclear factor 4-alpha)
+T1223	EntrezGene 27076 27080	Hnf4
+#1223	AnnotatorNotes T1223	EG:15378
+T1224	italic 27111 27114	Pem
+#1224	AnnotatorNotes T1224	italic (null)
+T1225	PR 27111 27114	Pem
+#1225	AnnotatorNotes T1225	PR:000014397 (homeobox protein Rhox5)
+T1226	EntrezGene 27111 27114	Pem
+#1226	AnnotatorNotes T1226	EG:18617
+T1227	GO_BP 27156 27166	expression
+#1227	AnnotatorNotes T1227	GO:0010467 (gene expression)
+T1228	SO 27176 27181	known
+#1228	AnnotatorNotes T1228	SO:0000906 (independently_known)
+T1229	italic 27199 27203	Bmp4
+#1229	AnnotatorNotes T1229	italic (null)
+T1230	PR 27199 27203	Bmp4
+#1230	AnnotatorNotes T1230	PR:000000165 (BMP4)
+T1231	EntrezGene 27199 27203	Bmp4
+#1231	AnnotatorNotes T1231	EG:12159
+T1232	italic 27242 27246	Dkk1
+#1232	AnnotatorNotes T1232	italic (null)
+T1233	PR 27242 27246	Dkk1
+#1233	AnnotatorNotes T1233	PR:000006499 (dickkopf-related protein 1)
+T1234	EntrezGene 27242 27246	Dkk1
+#1234	AnnotatorNotes T1234	EG:13380
+T1235	italic 27251 27257	Lefty1
+#1235	AnnotatorNotes T1235	italic (null)
+T1236	PR 27251 27257	Lefty1
+#1236	AnnotatorNotes T1236	PR:000000287 (lefty 1)
+T1237	EntrezGene 27251 27257	Lefty1
+#1237	AnnotatorNotes T1237	EG:13590
+T1238	italic 27325 27330	Dkk-1
+#1238	AnnotatorNotes T1238	italic (null)
+T1239	EntrezGene 27325 27330	Dkk-1
+#1239	AnnotatorNotes T1239	EG:13380
+T1240	PR 27325 27330	Dkk-1
+#1240	AnnotatorNotes T1240	PR:000006499 (dickkopf-related protein 1)
+T1241	GO_BP 27331 27341	expression
+#1241	AnnotatorNotes T1241	GO:0010467 (gene expression)
+T1242	italic 27345 27348	Hdh
+#1242	AnnotatorNotes T1242	italic (null)
+T1243	sup 27348 27353	ex4/5
+#1243	AnnotatorNotes T1243	sup (null)
+T1244	italic 27348 27350	ex
+#1244	AnnotatorNotes T1244	italic (null)
+T1245	italic 27354 27357	Hdh
+#1245	AnnotatorNotes T1245	italic (null)
+T1246	sup 27357 27362	ex4/5
+#1246	AnnotatorNotes T1246	sup (null)
+T1247	italic 27357 27359	ex
+#1247	AnnotatorNotes T1247	italic (null)
+T1248	GO_BP 27412 27425	Wnt signaling
+#1248	AnnotatorNotes T1248	GO:0016055 (Wnt receptor signaling pathway)
+T1249	EntrezGene 27465 27469	Bmp4
+#1249	AnnotatorNotes T1249	EG:12159
+T1250	PR 27465 27469	Bmp4
+#1250	AnnotatorNotes T1250	PR:000000165 (BMP4)
+T1251	GO_BP 27470 27479	signaling
+#1251	AnnotatorNotes T1251	GO:0007165 (signal transduction)
+T1252	EntrezGene 27514 27524	huntingtin
+#1252	AnnotatorNotes T1252	EG:15194
+T1253	PR 27514 27524	huntingtin
+#1253	AnnotatorNotes T1253	PR:000008840 (huntingtin)
+T1254	GO_BP 27533 27542	induction
+#1254	AnnotatorNotes T1254	GO:0031128 (induction)
+T1255	CL 27546 27550	PCGs
+#1255	AnnotatorNotes T1255	CL:0000670 (primordial germ cell)
+T1256	SO 27554 27560	mutant
+#1256	AnnotatorNotes T1256	SO:0001059 (sequence_alteration)
+T1257	GO_BP 27596 27605	transport
+#1257	AnnotatorNotes T1257	GO:0006810 (transport)
+T1258	GO_BP 27610 27619	secretion
+#1258	AnnotatorNotes T1258	GO:0046903 (secretion)
+T1259	italic 27672 27677	Nodal
+#1259	AnnotatorNotes T1259	italic (null)
+T1260	PR 27672 27677	Nodal
+#1260	AnnotatorNotes T1260	PR:000000105 (nodal protein)
+T1261	EntrezGene 27672 27677	Nodal
+#1261	AnnotatorNotes T1261	EG:18119
+T1262	italic 27679 27683	Fgf8
+#1262	AnnotatorNotes T1262	italic (null)
+T1263	EntrezGene 27679 27683	Fgf8
+#1263	AnnotatorNotes T1263	EG:14179
+T1264	PR 27679 27683	Fgf8
+#1264	AnnotatorNotes T1264	PR:000007499 (fibroblast growth factor 8)
+T1265	italic 27688 27691	Gsc
+#1265	AnnotatorNotes T1265	italic (null)
+T1266	PR 27688 27691	Gsc
+#1266	AnnotatorNotes T1266	PR:000008278 (homeobox protein goosecoid)
+T1267	EntrezGene 27688 27691	Gsc
+#1267	AnnotatorNotes T1267	EG:14836
+T1268	GO_BP 27696 27705	expressed
+#1268	AnnotatorNotes T1268	GO:0010467 (gene expression)
+T1269	italic 27746 27749	Hdh
+#1269	AnnotatorNotes T1269	italic (null)
+T1270	sup 27749 27754	ex4/5
+#1270	AnnotatorNotes T1270	sup (null)
+T1271	italic 27749 27751	ex
+#1271	AnnotatorNotes T1271	italic (null)
+T1272	italic 27755 27758	Hdh
+#1272	AnnotatorNotes T1272	italic (null)
+T1273	sup 27758 27763	ex4/5
+#1273	AnnotatorNotes T1273	sup (null)
+T1274	italic 27758 27760	ex
+#1274	AnnotatorNotes T1274	italic (null)
+T1275	PR 27778 27783	Nodal
+#1275	AnnotatorNotes T1275	PR:000000105 (nodal protein)
+T1276	PR 27788 27792	Fgf8
+#1276	AnnotatorNotes T1276	PR:000007499 (fibroblast growth factor 8)
+T1277	GO_MF 27804 27818	growth factors
+#1277	AnnotatorNotes T1277	GO:0008083 (growth factor activity)
+T1278	independent_continuant 27804 27818	growth factors
+#1278	AnnotatorNotes T1278	independent_continuant
+T1279	GO_BP 27804 27810	growth
+#1279	AnnotatorNotes T1279	GO:0040007 (growth)
+T1280	GO_BP 27839 27850	development
+#1280	AnnotatorNotes T1280	GO:0032502 (developmental process)
+T1281	GO_BP 27880 27889	regulated
+#1281	AnnotatorNotes T1281	GO:0065007 (biological regulation)
+T1282	GO_BP 27897 27909	gastrulation
+#1282	AnnotatorNotes T1282	GO:0007369 (gastrulation)
+T1283	EntrezGene 27978 27987	goosecoid
+#1283	AnnotatorNotes T1283	EG:14836
+T1284	PR 27978 27987	goosecoid
+#1284	AnnotatorNotes T1284	PR:000008278 (homeobox protein goosecoid)
+T1285	italic 28038 28041	Hdh
+#1285	AnnotatorNotes T1285	italic (null)
+T1286	sup 28041 28046	ex4/5
+#1286	AnnotatorNotes T1286	sup (null)
+T1287	italic 28041 28043	ex
+#1287	AnnotatorNotes T1287	italic (null)
+T1288	italic 28047 28050	Hdh
+#1288	AnnotatorNotes T1288	italic (null)
+T1289	sup 28050 28055	ex4/5
+#1289	AnnotatorNotes T1289	sup (null)
+T1290	italic 28050 28052	ex
+#1290	AnnotatorNotes T1290	italic (null)
+T1291	SO 28056 28062	mutant
+#1291	AnnotatorNotes T1291	SO:0001059 (sequence_alteration)
+T1292	independent_continuant 28056 28062	mutant
+#1292	AnnotatorNotes T1292	independent_continuant
+T1293	EntrezGene 28200 28210	huntingtin
+#1293	AnnotatorNotes T1293	EG:15194
+T1294	PR 28200 28210	huntingtin
+#1294	AnnotatorNotes T1294	PR:000008840 (huntingtin)
+T1295	CL 28223 28243	extraembryonic cells
+#1295	AnnotatorNotes T1295	CL:0000349 (extraembryonic cell)
+T1296	GO_CC 28238 28243	cells
+#1296	AnnotatorNotes T1296	GO:0005623 (cell)
+T1297	SO 28247 28253	mutant
+#1297	AnnotatorNotes T1297	SO:0001059 (sequence_alteration)
+T1298	EntrezGene 28264 28274	Huntingtin
+#1298	AnnotatorNotes T1298	EG:15194
+T1299	PR 28264 28274	Huntingtin
+#1299	AnnotatorNotes T1299	PR:000008840 (huntingtin)
+T1300	GO_BP 28306 28310	form
+#1300	AnnotatorNotes T1300	GO:0032502 (developmental process)
+T1301	GO_BP 28337 28350	organogenesis
+#1301	AnnotatorNotes T1301	GO:0048513 (organ development)
+T1302	CHEBI 28376 28384	nutrient
+#1302	AnnotatorNotes T1302	CHEBI:33284 (nutrient)
+T1303	GO_BP 28421 28430	formation
+#1303	AnnotatorNotes T1303	GO:0032502 (developmental process)
+T1304	GO_BP 28495 28501	induce
+#1304	AnnotatorNotes T1304	GO:0031128 (induction)
+T1305	GO_BP 28531 28535	form
+#1305	AnnotatorNotes T1305	GO:0032502 (developmental process)
+T1306	SO 28551 28557	mutant
+#1306	AnnotatorNotes T1306	SO:0001059 (sequence_alteration)
+T1307	GO_BP 28566 28573	express
+#1307	AnnotatorNotes T1307	GO:0010467 (gene expression)
+T1308	italic 28590 28594	Otx2
+#1308	AnnotatorNotes T1308	italic (null)
+T1309	PR 28590 28594	Otx2
+#1309	AnnotatorNotes T1309	PR:000012086 (homeobox protein OTX2)
+T1310	EntrezGene 28590 28594	Otx2
+#1310	AnnotatorNotes T1310	EG:18424
+T1311	italic 28596 28600	Ddk1
+#1311	AnnotatorNotes T1311	italic (null)
+T1312	PR 28596 28600	Ddk1
+#1312	AnnotatorNotes T1312	PR:000006499 (dickkopf-related protein 1)
+T1313	EntrezGene 28596 28600	Ddk1
+#1313	AnnotatorNotes T1313	EG:13380
+T1314	italic 28602 28608	Lefty1
+#1314	AnnotatorNotes T1314	italic (null)
+T1315	PR 28602 28608	Lefty1
+#1315	AnnotatorNotes T1315	PR:000000287 (lefty 1)
+T1316	EntrezGene 28602 28608	Lefty1
+#1316	AnnotatorNotes T1316	EG:13590
+T1317	italic 28613 28618	Hesx1
+#1317	AnnotatorNotes T1317	italic (null)
+T1318	PR 28613 28618	Hesx1
+#1318	AnnotatorNotes T1318	PR:000008523 (homeobox expressed in ES cells 1)
+T1319	EntrezGene 28613 28618	Hesx1
+#1319	AnnotatorNotes T1319	EG:15209
+T1320	GO_BP 28644 28653	formation
+#1320	AnnotatorNotes T1320	GO:0032502 (developmental process)
+T1321	GO_BP 28681 28690	induction
+#1321	AnnotatorNotes T1321	GO:0031128 (induction)
+T1322	GO_BP 28715 28719	form
+#1322	AnnotatorNotes T1322	GO:0032502 (developmental process)
+T1323	EntrezGene 28730 28740	huntingtin
+#1323	AnnotatorNotes T1323	EG:15194
+T1324	PR 28730 28740	huntingtin
+#1324	AnnotatorNotes T1324	PR:000008840 (huntingtin)
+T1325	italic 28857 28860	Hdh
+#1325	AnnotatorNotes T1325	italic (null)
+T1326	sup 28860 28865	ex4/5
+#1326	AnnotatorNotes T1326	sup (null)
+T1327	italic 28860 28862	ex
+#1327	AnnotatorNotes T1327	italic (null)
+T1328	italic 28866 28869	Hdh
+#1328	AnnotatorNotes T1328	italic (null)
+T1329	sup 28869 28874	ex4/5
+#1329	AnnotatorNotes T1329	sup (null)
+T1330	italic 28869 28871	ex
+#1330	AnnotatorNotes T1330	italic (null)
+T1331	GO_BP 28969 28980	development
+#1331	AnnotatorNotes T1331	GO:0032502 (developmental process)
+T1332	EntrezGene 29098 29108	huntingtin
+#1332	AnnotatorNotes T1332	EG:15194
+T1333	PR 29098 29108	huntingtin
+#1333	AnnotatorNotes T1333	PR:000008840 (huntingtin)
+T1334	GO_BP 29154 29169	CNS development
+#1334	AnnotatorNotes T1334	GO:0007417 (central nervous system development)
+T1335	EntrezGene 29250 29260	huntingtin
+#1335	AnnotatorNotes T1335	EG:15194
+T1336	PR 29250 29260	huntingtin
+#1336	AnnotatorNotes T1336	PR:000008840 (huntingtin)
+T1337	italic 29281 29284	Hdh
+#1337	AnnotatorNotes T1337	italic (null)
+T1338	PR 29281 29284	Hdh
+#1338	AnnotatorNotes T1338	PR:000008840 (huntingtin)
+T1339	EntrezGene 29281 29284	Hdh
+#1339	AnnotatorNotes T1339	EG:15194
+T1340	SO 29285 29291	allele
+#1340	AnnotatorNotes T1340	SO:0001023 (allele)
+T1341	GO_BP 29326 29347	embryonic development
+#1341	AnnotatorNotes T1341	GO:0009790 (embryonic development)
+T1342	italic 29389 29392	Hdh
+#1342	AnnotatorNotes T1342	italic (null)
+T1343	PR 29389 29392	Hdh
+#1343	AnnotatorNotes T1343	PR:000008840 (huntingtin)
+T1344	EntrezGene 29389 29392	Hdh
+#1344	AnnotatorNotes T1344	EG:15194
+T1345	SO 29515 29519	gene
+#1345	AnnotatorNotes T1345	SO:0000704 (gene)
+T1346	italic 29527 29530	Eed
+#1346	AnnotatorNotes T1346	italic (null)
+T1347	PR 29527 29530	Eed
+#1347	AnnotatorNotes T1347	PR:000006902 (polycomb protein EED)
+T1348	GO_BP 29532 29562	embryonic ectoderm development
+#1348	AnnotatorNotes T1348	"embryonic .. development" GO:0009790 (embryonic development)
+T1349	PR 29532 29562	embryonic ectoderm development
+#1349	AnnotatorNotes T1349	PR:000006902 (polycomb protein EED)
+T1350	underline 29532 29533	e
+#1350	AnnotatorNotes T1350	underline (null)
+T1351	GO_BP 29542 29562	ectoderm development
+#1351	AnnotatorNotes T1351	GO:0007398 (ectoderm development)
+T1352	underline 29542 29543	e
+#1352	AnnotatorNotes T1352	underline (null)
+T1353	underline 29551 29552	d
+#1353	AnnotatorNotes T1353	underline (null)
+T1354	EntrezGene 29604 29614	huntingtin
+#1354	AnnotatorNotes T1354	EG:15194
+T1355	PR 29604 29614	huntingtin
+#1355	AnnotatorNotes T1355	PR:000008840 (huntingtin)
+T1356	PR 29622 29625	eed
+#1356	AnnotatorNotes T1356	PR:000006902 (polycomb protein EED)
+T1357	CHEBI 29626 29633	protein
+#1357	AnnotatorNotes T1357	CHEBI:36080 (proteins)
+T1358	GO_BP 29659 29670	development
+#1358	AnnotatorNotes T1358	GO:0032502 (developmental process)
+T1359	GO_BP 29689 29698	formation
+#1359	AnnotatorNotes T1359	GO:0032502 (developmental process)
+T1360	italic 29708 29709	T
+#1360	AnnotatorNotes T1360	italic (null)
+T1361	PR 29708 29709	T
+#1361	AnnotatorNotes T1361	PR:000016001 (brachyury protein)
+T1362	EntrezGene 29708 29709	T
+#1362	AnnotatorNotes T1362	EG:20997
+T1363	italic 29711 29715	Evx1
+#1363	AnnotatorNotes T1363	italic (null)
+T1364	PR 29711 29715	Evx1
+#1364	AnnotatorNotes T1364	PR:000007241 (homeobox even-skipped protein 1)
+T1365	EntrezGene 29711 29715	Evx1
+#1365	AnnotatorNotes T1365	EG:14028
+T1366	italic 29720 29725	Nodal
+#1366	AnnotatorNotes T1366	italic (null)
+T1367	PR 29720 29725	Nodal
+#1367	AnnotatorNotes T1367	PR:000000105 (nodal protein)
+T1368	EntrezGene 29720 29725	Nodal
+#1368	AnnotatorNotes T1368	EG:18119
+T1369	GO_BP 29726 29736	expression
+#1369	AnnotatorNotes T1369	GO:0010467 (gene expression)
+T1370	GO_BP 29781 29800	mesoderm production
+#1370	AnnotatorNotes T1370	GO:0007498 (mesoderm development)
+T1371	PR 29822 29825	Eed
+#1371	AnnotatorNotes T1371	PR:000006902 (polycomb protein EED)
+T1372	CHEBI 29826 29833	protein
+#1372	AnnotatorNotes T1372	CHEBI:36080 (proteins)
+T1373	GO_BP 29874 29885	development
+#1373	AnnotatorNotes T1373	GO:0032502 (developmental process)
+T1374	GO_BP 29912 29921	imprinted
+#1374	AnnotatorNotes T1374	GO:0006349 (genetic imprinting)
+T1375	GO_BP 29922 29936	X-inactivation
+#1375	AnnotatorNotes T1375	GO:0009048 (dosage compensation, by inactivation of X chromosome)
+T1376	GO_CC 29922 29923	X
+#1376	AnnotatorNotes T1376	GO:0000805 (X chromosome)
+T1377	GO_BP 29941 29959	genomic imprinting
+#1377	AnnotatorNotes T1377	GO:0006349 (genetic imprinting)
+T1378	SO 29941 29948	genomic
+#1378	AnnotatorNotes T1378	SO:0001026 (genome)
+T1379	EntrezGene 30027 30037	huntingtin
+#1379	AnnotatorNotes T1379	EG:15194
+T1380	PR 30027 30037	huntingtin
+#1380	AnnotatorNotes T1380	PR:000008840 (huntingtin)
+T1381	EntrezGene 30134 30144	huntingtin
+#1381	AnnotatorNotes T1381	EG:3064
+T1382	PR 30134 30144	huntingtin
+#1382	AnnotatorNotes T1382	PR:000008840 (huntingtin)
+T1383	CHEBI 30155 30164	molecular
+#1383	AnnotatorNotes T1383	CHEBI:23367 (molecular entity)
+T1384	SO 30223 30229	domain
+#1384	AnnotatorNotes T1384	SO:0000417 (polypeptide_domain)
+T1385	CHEBI 30230 30237	protein
+#1385	AnnotatorNotes T1385	CHEBI:36080 (proteins)
+T1386	SO 30271 30279	property
+#1386	AnnotatorNotes T1386	SO:0000110 (sequence_feature)
+T1387	SO 30361 30368	genetic
+#1387	AnnotatorNotes T1387	SO:0000704 (gene)
+T1388	italic 30379 30381	HD
+#1388	AnnotatorNotes T1388	italic (null)
+T1389	PR 30379 30381	HD
+#1389	AnnotatorNotes T1389	PR:000008840 (huntingtin)
+T1390	NCBITaxon 30395 30399	mice
+#1390	AnnotatorNotes T1390	NCBITaxon:10088 (Mus)
+T1391	SO 30414 30422	mutation
+#1391	AnnotatorNotes T1391	SO:0001059 (sequence_alteration)
+T1392	CL 30468 30475	neurons
+#1392	AnnotatorNotes T1392	CL:0000540 (neuron)
+T1393	EntrezGene 30511 30521	huntingtin
+#1393	AnnotatorNotes T1393	EG:3064
+T1394	PR 30511 30521	huntingtin
+#1394	AnnotatorNotes T1394	PR:000008840 (huntingtin)
+T1395	GO_BP 30548 30569	embryonic development
+#1395	AnnotatorNotes T1395	GO:0009790 (embryonic development)
+T1396	GO_BP 30610 30614	make
+#1396	AnnotatorNotes T1396	GO:0009058 (biosynthetic process)
+T1397	SO 30618 30627	wild-type
+#1397	AnnotatorNotes T1397	SO:0000817 (wild_type)
+T1398	EntrezGene 30628 30638	huntingtin
+#1398	AnnotatorNotes T1398	EG:3064
+T1399	PR 30628 30638	huntingtin
+#1399	AnnotatorNotes T1399	PR:000008840 (huntingtin)
+T1400	NCBITaxon 30652 30657	mouse
+#1400	AnnotatorNotes T1400	NCBITaxon:10088 (Mus)
+T1401	SO 30668 30674	mutant
+#1401	AnnotatorNotes T1401	SO:0001059 (sequence_alteration)
+T1402	italic 30675 30678	Hdh
+#1402	AnnotatorNotes T1402	italic (null)
+T1403	PR 30675 30678	Hdh
+#1403	AnnotatorNotes T1403	PR:000008840 (huntingtin)
+T1404	EntrezGene 30675 30678	Hdh
+#1404	AnnotatorNotes T1404	EG:15194
+T1405	SO 30679 30685	allele
+#1405	AnnotatorNotes T1405	SO:0001023 (allele)
+T1406	SO 30697 30703	mutant
+#1406	AnnotatorNotes T1406	SO:0001059 (sequence_alteration)
+T1407	EntrezGene 30704 30714	huntingtin
+#1407	AnnotatorNotes T1407	EG:15194
+T1408	PR 30704 30714	huntingtin
+#1408	AnnotatorNotes T1408	PR:000008840 (huntingtin)
+T1409	EntrezGene 30732 30742	huntingtin
+#1409	AnnotatorNotes T1409	EG:15194
+T1410	PR 30732 30742	huntingtin
+#1410	AnnotatorNotes T1410	PR:000008840 (huntingtin)
+T1411	EntrezGene 30865 30875	huntingtin
+#1411	AnnotatorNotes T1411	EG:3064
+T1412	PR 30865 30875	huntingtin
+#1412	AnnotatorNotes T1412	PR:000008840 (huntingtin)
+T1413	CL 30915 30919	cell
+#1413	AnnotatorNotes T1413	CL:0000000 (cell)
+T1414	GO_CC 30915 30919	cell
+#1414	AnnotatorNotes T1414	GO:0005623 (cell)
+T1415	SO 30953 30959	mutant
+#1415	AnnotatorNotes T1415	SO:0001059 (sequence_alteration)
+T1416	SO 30960 30967	version
+#1416	AnnotatorNotes T1416	SO:0001060 (sequence_variant)
+T1417	EntrezGene 30971 30981	huntingtin
+#1417	AnnotatorNotes T1417	EG:3064
+T1418	PR 30971 30981	huntingtin
+#1418	AnnotatorNotes T1418	PR:000008840 (huntingtin)
+T1419	EntrezGene 31006 31016	huntingtin
+#1419	AnnotatorNotes T1419	EG:3064
+T1420	PR 31006 31016	huntingtin
+#1420	AnnotatorNotes T1420	PR:000008840 (huntingtin)
+T1421	SO 31041 31045	gene
+#1421	AnnotatorNotes T1421	SO:0000704 (gene)
+T1422	GO_BP 31046 31059	transcription
+#1422	AnnotatorNotes T1422	GO:0006350 (transcription)
+T1423	PR 31077 31081	NRSF
+#1423	AnnotatorNotes T1423	PR:000013894 (RE1-silencing transcription factor)
+T1424	PR 31082 31086	REST
+#1424	AnnotatorNotes T1424	PR:000013894 (RE1-silencing transcription factor)
+T1425	PR 31096 31100	BDNF
+#1425	AnnotatorNotes T1425	PR:000004716 (brain-derived neurotrophic factor)
+T1426	GO_BP 31101 31111	expression
+#1426	AnnotatorNotes T1426	GO:0010467 (gene expression)
+T1427	EntrezGene 31140 31150	huntingtin
+#1427	AnnotatorNotes T1427	EG:15194
+T1428	PR 31140 31150	huntingtin
+#1428	AnnotatorNotes T1428	PR:000008840 (huntingtin)
+T1429	GO_BP 31199 31209	regulation
+#1429	AnnotatorNotes T1429	GO:0065007 (biological regulation)
+T1430	SO 31213 31218	genes
+#1430	AnnotatorNotes T1430	SO:0000704 (gene)
+T1431	GO_BP 31232 31242	expression
+#1431	AnnotatorNotes T1431	GO:0010467 (gene expression)
+T1432	italic 31252 31259	in vivo
+#1432	AnnotatorNotes T1432	italic (null)
+T1433	CL 31307 31315	cellular
+#1433	AnnotatorNotes T1433	CL:0000000 (cell)
+T1434	GO_CC 31307 31315	cellular
+#1434	AnnotatorNotes T1434	GO:0005623 (cell)
+T1435	EntrezGene 31348 31358	huntingtin
+#1435	AnnotatorNotes T1435	EG:15194
+T1436	PR 31348 31358	huntingtin
+#1436	AnnotatorNotes T1436	PR:000008840 (huntingtin)
+T1437	SO 31368 31372	gene
+#1437	AnnotatorNotes T1437	SO:0000704 (gene)
+T1438	GO_BP 31373 31383	regulation
+#1438	AnnotatorNotes T1438	GO:0065007 (biological regulation)
+T1439	EntrezGene 31425 31435	huntingtin
+#1439	AnnotatorNotes T1439	EG:15194
+T1440	PR 31425 31435	huntingtin
+#1440	AnnotatorNotes T1440	PR:000008840 (huntingtin)
+T1441	GO_BP 31459 31469	patterning
+#1441	AnnotatorNotes T1441	GO:0007389 (pattern specification process)
+T1442	GO_BP 31499 31512	embryogenesis
+#1442	AnnotatorNotes T1442	GO:0009790 (embryonic development)
+T1443	GO_BP 31550 31559	formation
+#1443	AnnotatorNotes T1443	GO:0032502 (developmental process)
+T1444	GO_BP 31591 31632	paraxial mesoderm and head fold formation
+#1444	AnnotatorNotes T1444	"paraxial mesoderm .. formation" GO:0048339 (paraxial mesoderm development)
+T1445	GO_BP 31687 31696	expressed
+#1445	AnnotatorNotes T1445	GO:0010467 (gene expression)
+T1446	independent_continuant 31697 31728	growth and transcription factor
+#1446	AnnotatorNotes T1446	"growth .. factor" independent_continuant
+T1447	GO_MF 31697 31728	growth and transcription factor
+#1447	AnnotatorNotes T1447	"growth .. factor" GO:0008083 (growth factor activity)
+T1448	GO_BP 31697 31703	growth
+#1448	AnnotatorNotes T1448	GO:0040007 (growth)
+T1449	independent_continuant 31708 31728	transcription factor
+#1449	AnnotatorNotes T1449	independent_continuant
+T1450	GO_MF 31708 31728	transcription factor
+#1450	AnnotatorNotes T1450	GO:0003700 (transcription factor activity)
+T1451	GO_BP 31708 31721	transcription
+#1451	AnnotatorNotes T1451	GO:0006350 (transcription)
+T1452	SO 31729 31734	genes
+#1452	AnnotatorNotes T1452	SO:0000704 (gene)
+T1453	CHEBI 31753 31762	molecular
+#1453	AnnotatorNotes T1453	CHEBI:23367 (molecular entity)
+T1454	EntrezGene 31789 31799	huntingtin
+#1454	AnnotatorNotes T1454	EG:15194
+T1455	PR 31789 31799	huntingtin
+#1455	AnnotatorNotes T1455	PR:000008840 (huntingtin)
+T1456	GO_BP 31862 31879	cellular pathways
+#1456	AnnotatorNotes T1456	GO:0009987 (cellular process)
+T1457	CL 31862 31870	cellular
+#1457	AnnotatorNotes T1457	CL:0000000 (cell)
+T1458	GO_CC 31862 31870	cellular
+#1458	AnnotatorNotes T1458	GO:0005623 (cell)
+T1459	EntrezGene 31902 31912	huntingtin
+#1459	AnnotatorNotes T1459	EG:15194
+T1460	PR 31902 31912	huntingtin
+#1460	AnnotatorNotes T1460	PR:000008840 (huntingtin)
+T1461	GO_BP 32071 32081	developing
+#1461	AnnotatorNotes T1461	GO:0032502 (developmental process)
+T1462	SO 32151 32156	tract
+#1462	AnnotatorNotes T1462	SO:0000001 (region)
+T1463	EntrezGene 32160 32170	huntingtin
+#1463	AnnotatorNotes T1463	EG:15194
+T1464	PR 32160 32170	huntingtin
+#1464	AnnotatorNotes T1464	PR:000008840 (huntingtin)
+T1465	NCBITaxon 32229 32233	Mice
+#1465	AnnotatorNotes T1465	NCBITaxon:10088 (Mus)
+T1466	italic 32254 32257	Hdh
+#1466	AnnotatorNotes T1466	italic (null)
+T1467	sup 32257 32262	ex4/5
+#1467	AnnotatorNotes T1467	sup (null)
+T1468	italic 32257 32259	ex
+#1468	AnnotatorNotes T1468	italic (null)
+T1469	NCBITaxon 32263 32267	mice
+#1469	AnnotatorNotes T1469	NCBITaxon:10088 (Mus)
+T1470	italic 32279 32285	pGKneo
+#1470	AnnotatorNotes T1470	italic (null)
+T1471	SO 32286 32295	insertion
+#1471	AnnotatorNotes T1471	SO:0000046 (insert)
+T1472	SO 32296 32307	replacement
+#1472	AnnotatorNotes T1472	SO:0000048 (substitute)
+T1473	SO 32321 32329	mutation
+#1473	AnnotatorNotes T1473	SO:0001059 (sequence_alteration)
+T1474	EntrezGene 32337 32360	mouse HD gene homologue
+#1474	AnnotatorNotes T1474	EG:15194
+T1475	NCBITaxon 32337 32342	mouse
+#1475	AnnotatorNotes T1475	NCBITaxon:10088 (Mus)
+T1476	EntrezGene 32343 32350	HD gene
+#1476	AnnotatorNotes T1476	EG:3064
+T1477	italic 32343 32345	HD
+#1477	AnnotatorNotes T1477	italic (null)
+T1478	PR 32343 32345	HD
+#1478	AnnotatorNotes T1478	PR:000008840 (huntingtin)
+T1479	SO 32346 32350	gene
+#1479	AnnotatorNotes T1479	SO:0000704 (gene)
+T1480	SO 32351 32360	homologue
+#1480	AnnotatorNotes T1480	SO:0000853 (homologous_region)
+T1481	NCBITaxon 32508 32514	Animal
+#1481	AnnotatorNotes T1481	NCBITaxon:33208 (Metazoa)
+T1482	SO 32525 32531	Mutant
+#1482	AnnotatorNotes T1482	SO:0001059 (sequence_alteration)
+T1483	italic 32532 32535	Hdh
+#1483	AnnotatorNotes T1483	italic (null)
+T1484	sup 32535 32540	ex4/5
+#1484	AnnotatorNotes T1484	sup (null)
+T1485	italic 32535 32537	ex
+#1485	AnnotatorNotes T1485	italic (null)
+T1486	italic 32541 32544	Hdh
+#1486	AnnotatorNotes T1486	italic (null)
+T1487	sup 32544 32549	ex4/5
+#1487	AnnotatorNotes T1487	sup (null)
+T1488	italic 32544 32546	ex
+#1488	AnnotatorNotes T1488	italic (null)
+T1489	GO_BP 32596 32607	pregnancies
+#1489	AnnotatorNotes T1489	GO:0007565 (female pregnancy)
+T1490	GO_BP 32613 32619	mating
+#1490	AnnotatorNotes T1490	GO:0007618 (mating)
+T1491	italic 32623 32626	Hdh
+#1491	AnnotatorNotes T1491	italic (null)
+T1492	sup 32626 32631	ex4/5
+#1492	AnnotatorNotes T1492	sup (null)
+T1493	italic 32626 32628	ex
+#1493	AnnotatorNotes T1493	italic (null)
+T1494	italic 32632 32635	Hdh
+#1494	AnnotatorNotes T1494	italic (null)
+T1495	PR 32632 32635	Hdh
+#1495	AnnotatorNotes T1495	PR:000008840 (huntingtin)
+T1496	sup 32635 32636	+
+#1496	AnnotatorNotes T1496	sup (null)
+T1497	SO 32818 32824	mutant
+#1497	AnnotatorNotes T1497	SO:0001059 (sequence_alteration)
+T1498	EntrezGene 32847 32852	Nodal
+#1498	AnnotatorNotes T1498	EG:18119
+T1499	PR 32847 32852	Nodal
+#1499	AnnotatorNotes T1499	PR:000000105 (nodal protein)
+T1500	GO_BP 32853 32863	expression
+#1500	AnnotatorNotes T1500	GO:0010467 (gene expression)
+T1501	GO_BP 32895 32902	matings
+#1501	AnnotatorNotes T1501	GO:0007618 (mating)
+T1502	italic 32906 32909	Hdh
+#1502	AnnotatorNotes T1502	italic (null)
+T1503	sup 32909 32914	ex4/5
+#1503	AnnotatorNotes T1503	sup (null)
+T1504	italic 32909 32911	ex
+#1504	AnnotatorNotes T1504	italic (null)
+T1505	italic 32915 32918	Hdh
+#1505	AnnotatorNotes T1505	italic (null)
+T1506	PR 32915 32918	Hdh
+#1506	AnnotatorNotes T1506	PR:000008840 (huntingtin)
+T1507	EntrezGene 32915 32918	Hdh
+#1507	AnnotatorNotes T1507	EG:15194
+T1508	sup 32918 32919	+
+#1508	AnnotatorNotes T1508	sup (null)
+T1509	italic 32921 32925	Ndll
+#1509	AnnotatorNotes T1509	italic (null)
+T1510	sup 32925 32928	acZ
+#1510	AnnotatorNotes T1510	sup (null)
+T1511	italic 32925 32928	acZ
+#1511	AnnotatorNotes T1511	italic (null)
+T1512	italic 32929 32932	Ndl
+#1512	AnnotatorNotes T1512	italic (null)
+T1513	EntrezGene 32929 32932	Ndl
+#1513	AnnotatorNotes T1513	EG:18119
+T1514	PR 32929 32932	Ndl
+#1514	AnnotatorNotes T1514	PR:000000105 (nodal protein)
+T1515	sup 32932 32933	+
+#1515	AnnotatorNotes T1515	sup (null)
+T1516	italic 33027 33034	in situ
+#1516	AnnotatorNotes T1516	italic (null)
+T1517	GO_MF 33035 33048	hybridization
+#1517	AnnotatorNotes T1517	GO:0000739 (DNA strand annealing activity)
+T1518	GO_MF 33035 33048	hybridization
+#1518	AnnotatorNotes T1518	GO:0033592 (RNA strand annealing activity)
+T1519	GO_MF 33053 33058	β-gal
+#1519	AnnotatorNotes T1519	GO:0004565 (beta-galactosidase activity)
+T1520	independent_continuant 33053 33058	β-gal
+#1520	AnnotatorNotes T1520	independent_continuant
+T1521	SO 33260 33263	RNA
+#1521	AnnotatorNotes T1521	SO:0000356 (RNA)
+T1522	italic 33264 33271	in situ
+#1522	AnnotatorNotes T1522	italic (null)
+T1523	GO_MF 33272 33286	hybridizations
+#1523	AnnotatorNotes T1523	GO:0000739 (DNA strand annealing activity)
+T1524	GO_MF 33272 33286	hybridizations
+#1524	AnnotatorNotes T1524	GO:0033592 (RNA strand annealing activity)
+T1525	EntrezGene 33332 33337	Nodal
+#1525	AnnotatorNotes T1525	EG:18119
+T1526	PR 33332 33337	Nodal
+#1526	AnnotatorNotes T1526	PR:000000105 (nodal protein)
+T1527	GO_BP 33343 33353	expression
+#1527	AnnotatorNotes T1527	GO:0010467 (gene expression)
+T1528	GO_MF 33370 33385	β-galactosidase
+#1528	AnnotatorNotes T1528	GO:0004565 (beta-galactosidase activity)
+T1529	independent_continuant 33370 33385	β-galactosidase
+#1529	AnnotatorNotes T1529	independent_continuant
+T1530	CHEBI 33487 33495	glycerol
+#1530	AnnotatorNotes T1530	CHEBI:17754 (glycerol)
+T1531	EntrezGene 33528 33538	huntingtin
+#1531	AnnotatorNotes T1531	EG:15194
+T1532	PR 33528 33538	huntingtin
+#1532	AnnotatorNotes T1532	PR:000008840 (huntingtin)
+T1533	SO 33716 33722	mutant
+#1533	AnnotatorNotes T1533	SO:0001059 (sequence_alteration)
+T1534	independent_continuant 33716 33722	mutant
+#1534	AnnotatorNotes T1534	independent_continuant
+T1535	GO_MF 33748 33768	Alkaline phosphatase
+#1535	AnnotatorNotes T1535	GO:0004035 (alkaline phosphatase activity)
+T1536	independent_continuant 33748 33768	Alkaline phosphatase
+#1536	AnnotatorNotes T1536	independent_continuant
+T1537	CHEBI 33748 33756	Alkaline
+#1537	AnnotatorNotes T1537	CHEBI:35479 (alkali metal salts)
+T1538	CHEBI 33748 33756	Alkaline
+#1538	AnnotatorNotes T1538	CHEBI:36364 (alkaline earth salts)
+T1539	CL 33781 33802	Primordial Germ Cells
+#1539	AnnotatorNotes T1539	CL:0000670 (primordial germ cell)
+T1540	GO_CC 33797 33802	Cells
+#1540	AnnotatorNotes T1540	GO:0005623 (cell)
+T1541	CL 33804 33808	PCGs
+#1541	AnnotatorNotes T1541	CL:0000670 (primordial germ cell)
+T1542	CHEBI 33963 33967	Tris
+#1542	AnnotatorNotes T1542	CHEBI:9754 (tris)
+T1543	CHEBI 33968 33975	Maleate
+#1543	AnnotatorNotes T1543	CHEBI:37156 (maleate(1-))
+T1544	CHEBI 33968 33975	Maleate
+#1544	AnnotatorNotes T1544	CHEBI:30780 (maleate(2-))
+T1545	CHEBI 33990 33994	Tris
+#1545	AnnotatorNotes T1545	CHEBI:9754 (tris)
+T1546	CHEBI 33995 34002	Maleate
+#1546	AnnotatorNotes T1546	CHEBI:30780 (maleate(2-))
+T1547	CHEBI 33995 34002	Maleate
+#1547	AnnotatorNotes T1547	CHEBI:37156 (maleate(1-))
+T1548	CHEBI 34021 34026	MgCl2
+#1548	AnnotatorNotes T1548	CHEBI:6636 (magnesium dichloride)
+T1549	sub 34025 34026	2
+#1549	AnnotatorNotes T1549	sub (null)
+T1550	independent_continuant 34063 34083	alkaline phosphatase
+#1550	AnnotatorNotes T1550	independent_continuant
+T1551	GO_MF 34063 34083	alkaline phosphatase
+#1551	AnnotatorNotes T1551	GO:0004035 (alkaline phosphatase activity)
+T1552	CHEBI 34063 34071	alkaline
+#1552	AnnotatorNotes T1552	CHEBI:35479 (alkali metal salts)
+T1553	CHEBI 34063 34071	alkaline
+#1553	AnnotatorNotes T1553	CHEBI:36364 (alkaline earth salts)
+T1554	CHEBI 34109 34113	Tris
+#1554	AnnotatorNotes T1554	CHEBI:9754 (tris)
+T1555	CHEBI 34114 34121	Maleate
+#1555	AnnotatorNotes T1555	CHEBI:37156 (maleate(1-))
+T1556	CHEBI 34114 34121	Maleate
+#1556	AnnotatorNotes T1556	CHEBI:30780 (maleate(2-))
+T1557	CHEBI 34140 34145	MgCl2
+#1557	AnnotatorNotes T1557	CHEBI:6636 (magnesium dichloride)
+T1558	sub 34144 34145	2
+#1558	AnnotatorNotes T1558	sub (null)
+T1559	CHEBI 34163 34171	naphthyl
+#1559	AnnotatorNotes T1559	CHEBI:16482 (naphthalene)
+T1560	CHEBI 34172 34181	phosphate
+#1560	AnnotatorNotes T1560	CHEBI:26020 (phosphates)
+T1561	CHEBI 34172 34181	phosphate
+#1561	AnnotatorNotes T1561	CHEBI:32958 (phosphate group)
+T1562	NCBITaxon 34422 34425	rat
+#1562	AnnotatorNotes T1562	NCBITaxon:10114 (Rattus)
+T1563	CHEBI 34505 34508	CO2
+#1563	AnnotatorNotes T1563	CHEBI:16526 (carbon dioxide)
+T1564	sub 34507 34508	2
+#1564	AnnotatorNotes T1564	sub (null)
+T1565	italic 34620 34622	HD
+#1565	AnnotatorNotes T1565	italic (null)
+T1566	PR 34620 34622	HD
+#1566	AnnotatorNotes T1566	PR:000008840 (huntingtin)
+T1567	EntrezGene 34620 34622	HD
+#1567	AnnotatorNotes T1567	EG:3064
+T1568	EntrezGene 34624 34649	Huntington's disease gene
+#1568	AnnotatorNotes T1568	EG:3064
+T1569	PR 34624 34644	Huntington's disease
+#1569	AnnotatorNotes T1569	PR:000008840 (huntingtin)
+T1570	SO 34645 34649	gene
+#1570	AnnotatorNotes T1570	SO:0000704 (gene)
+T1571	italic 34677 34680	Hdh
+#1571	AnnotatorNotes T1571	italic (null)
+T1572	PR 34677 34680	Hdh
+#1572	AnnotatorNotes T1572	PR:000008840 (huntingtin)
+T1573	EntrezGene 34677 34680	Hdh
+#1573	AnnotatorNotes T1573	EG:15194
+T1574	EntrezGene 34682 34705	mouse HD gene homologue
+#1574	AnnotatorNotes T1574	EG:15194
+T1575	NCBITaxon 34682 34687	mouse
+#1575	AnnotatorNotes T1575	NCBITaxon:10088 (Mus)
+T1576	EntrezGene 34688 34695	HD gene
+#1576	AnnotatorNotes T1576	EG:3064
+T1577	italic 34688 34690	HD
+#1577	AnnotatorNotes T1577	italic (null)
+T1578	PR 34688 34690	HD
+#1578	AnnotatorNotes T1578	PR:000008840 (huntingtin)
+T1579	SO 34691 34695	gene
+#1579	AnnotatorNotes T1579	SO:0000704 (gene)
+T1580	SO 34696 34705	homologue
+#1580	AnnotatorNotes T1580	SO:0000853 (homologous_region)
+T1581	CL 34707 34711	PCGs
+#1581	AnnotatorNotes T1581	CL:0000670 (primordial germ cell)
+T1582	CL 34713 34734	primordial germ cells
+#1582	AnnotatorNotes T1582	CL:0000670 (primordial germ cell)
+T1583	GO_CC 34729 34734	cells
+#1583	AnnotatorNotes T1583	GO:0005623 (cell)
+T1584	italic 34807 34814	in situ
+#1584	AnnotatorNotes T1584	italic (null)
+T1585	GO_MF 34815 34828	hybridization
+#1585	AnnotatorNotes T1585	GO:0000739 (DNA strand annealing activity)
+T1586	GO_MF 34815 34828	hybridization
+#1586	AnnotatorNotes T1586	GO:0033592 (RNA strand annealing activity)
+T1587	SO 35255 35261	clones
+#1587	AnnotatorNotes T1587	SO:0000151 (clone)
+T1588	GO_CC 35266 35274	antibody
+#1588	AnnotatorNotes T1588	GO:0019814 (immunoglobulin complex)
+T1589	CHEBI 35275 35283	reagents
+#1589	AnnotatorNotes T1589	CHEBI:33893 (reagent)
+T1590	NCBITaxon 35317 35321	mice
+#1590	AnnotatorNotes T1590	NCBITaxon:10088 (Mus)
+T1591	NCBITaxon 35506 35512	animal
+#1591	AnnotatorNotes T1591	NCBITaxon:33208 (Metazoa)

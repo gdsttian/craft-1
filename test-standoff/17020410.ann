@@ -1,0 +1,2974 @@
+T1	GO_BP 56 62	Lethal
+#1	AnnotatorNotes T1	GO:0016265 (death)
+T2	italic 63 66	Xpd
+#2	AnnotatorNotes T2	italic (null)
+T3	PR 63 66	Xpd
+#3	AnnotatorNotes T3	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T4	EntrezGene 63 66	Xpd
+#4	AnnotatorNotes T4	EG:13871
+T5	SO 67 74	Alleles
+#5	AnnotatorNotes T5	SO:0001023 (allele)
+T6	SO 153 159	mutant
+#6	AnnotatorNotes T6	SO:0001059 (sequence_alteration)
+T7	SO 160 167	alleles
+#7	AnnotatorNotes T7	SO:0001023 (allele)
+T8	SO 180 184	gene
+#8	AnnotatorNotes T8	SO:0000704 (gene)
+T9	NCBITaxon 199 204	human
+#9	AnnotatorNotes T9	NCBITaxon:9606 (Homo sapiens)
+T10	SO 429 436	genetic
+#10	AnnotatorNotes T10	SO:0000704 (gene)
+T11	SO 499 506	alleles
+#11	AnnotatorNotes T11	SO:0001023 (allele)
+T12	italic 565 568	XPD
+#12	AnnotatorNotes T12	italic (null)
+T13	EntrezGene 565 568	XPD
+#13	AnnotatorNotes T13	EG:2068
+T14	PR 565 568	XPD
+#14	AnnotatorNotes T14	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T15	NCBITaxon 614 619	mouse
+#15	AnnotatorNotes T15	NCBITaxon:10088 (Mus)
+T16	SO 628 639	Alterations
+#16	AnnotatorNotes T16	SO:0001059 (sequence_alteration)
+T17	independent_continuant 658 666	helicase
+#17	AnnotatorNotes T17	independent_continuant
+T18	GO_MF 658 666	helicase
+#18	AnnotatorNotes T18	GO:0004386 (helicase activity)
+T19	GO_BP 691 701	DNA repair
+#19	AnnotatorNotes T19	GO:0006281 (DNA repair)
+T20	SO 691 694	DNA
+#20	AnnotatorNotes T20	SO:0000352 (DNA)
+T21	GO_BP 712 725	transcription
+#21	AnnotatorNotes T21	GO:0006350 (transcription)
+T22	NCBITaxon 899 909	organismal
+#22	AnnotatorNotes T22	NCBITaxon:1 (root)
+T23	italic 962 965	Xpd
+#23	AnnotatorNotes T23	italic (null)
+T24	EntrezGene 962 965	Xpd
+#24	AnnotatorNotes T24	EG:13871
+T25	PR 962 965	Xpd
+#25	AnnotatorNotes T25	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T26	SO 966 973	alleles
+#26	AnnotatorNotes T26	SO:0001023 (allele)
+T27	GO_BP 1030 1036	lethal
+#27	AnnotatorNotes T27	GO:0016265 (death)
+T28	italic 1037 1040	Xpd
+#28	AnnotatorNotes T28	italic (null)
+T29	PR 1037 1040	Xpd
+#29	AnnotatorNotes T29	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T30	EntrezGene 1037 1040	Xpd
+#30	AnnotatorNotes T30	EG:13871
+T31	SO 1041 1048	alleles
+#31	AnnotatorNotes T31	SO:0001023 (allele)
+T32	GO_BP 1120 1133	transcription
+#32	AnnotatorNotes T32	GO:0006350 (transcription)
+T33	SO 1186 1192	allele
+#33	AnnotatorNotes T33	SO:0001023 (allele)
+T34	GO_BP 1212 1225	developmental
+#34	AnnotatorNotes T34	GO:0032502 (developmental process)
+T35	italic 1268 1271	Xpd
+#35	AnnotatorNotes T35	italic (null)
+T36	PR 1268 1271	Xpd
+#36	AnnotatorNotes T36	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T37	EntrezGene 1268 1271	Xpd
+#37	AnnotatorNotes T37	EG:13871
+T38	SO 1272 1278	allele
+#38	AnnotatorNotes T38	SO:0001023 (allele)
+T39	SO 1381 1385	loci
+#39	AnnotatorNotes T39	SO:0000001 (region)
+T40	NCBITaxon 1389 1396	mammals
+#40	AnnotatorNotes T40	NCBITaxon:40674 (Mammalia)
+T41	SO 1461 1468	alleles
+#41	AnnotatorNotes T41	SO:0001023 (allele)
+T42	italic 1472 1475	XPD
+#42	AnnotatorNotes T42	italic (null)
+T43	EntrezGene 1472 1475	XPD
+#43	AnnotatorNotes T43	EG:2068
+T44	PR 1472 1475	XPD
+#44	AnnotatorNotes T44	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T45	SO 1543 1550	alleles
+#45	AnnotatorNotes T45	SO:0001023 (allele)
+T46	NCBITaxon 1615 1622	mammals
+#46	AnnotatorNotes T46	NCBITaxon:40674 (Mammalia)
+T47	SO 1716 1723	mutated
+#47	AnnotatorNotes T47	SO:0000041 (sequence_operation)
+T48	SO 1724 1731	alleles
+#48	AnnotatorNotes T48	SO:0001023 (allele)
+T49	NCBITaxon 1827 1836	organisms
+#49	AnnotatorNotes T49	NCBITaxon:1 (root)
+T50	NCBITaxon 1899 1904	human
+#50	AnnotatorNotes T50	NCBITaxon:9606 (Homo sapiens)
+T51	SO 1999 2003	loci
+#51	AnnotatorNotes T51	SO:0000001 (region)
+T52	CL 2034 2038	cell
+#52	AnnotatorNotes T52	CL:0000000 (cell)
+T53	GO_CC 2034 2038	cell
+#53	AnnotatorNotes T53	GO:0005623 (cell)
+T54	GO_BP 2069 2078	metabolic
+#54	AnnotatorNotes T54	GO:0008152 (metabolic process)
+T55	SO 2105 2112	enzymes
+#55	AnnotatorNotes T55	SO:0001185 (enzymatic)
+T56	independent_continuant 2123 2147	propinyl-CoA carboxylase
+#56	AnnotatorNotes T56	independent_continuant
+T57	GO_MF 2123 2147	propinyl-CoA carboxylase
+#57	AnnotatorNotes T57	GO:0004658 (propionyl-CoA carboxylase activity)
+T58	CHEBI 2123 2135	propinyl-CoA
+#58	AnnotatorNotes T58	CHEBI:15539 (propionyl-CoA)
+T59	CHEBI 2123 2131	propinyl
+#59	AnnotatorNotes T59	CHEBI:26294 (propionyl group)
+T60	CHEBI 2132 2135	CoA
+#60	AnnotatorNotes T60	CHEBI:15346 (coenzyme A)
+T61	GO_MF 2153 2176	argininosuccinate lyase
+#61	AnnotatorNotes T61	GO:0004056 (argininosuccinate lyase activity)
+T62	independent_continuant 2153 2176	argininosuccinate lyase
+#62	AnnotatorNotes T62	independent_continuant
+T63	PR 2153 2176	argininosuccinate lyase
+#63	AnnotatorNotes T63	PR:000004373 (argininosuccinate lyase)
+T64	independent_continuant 2182 2223	galactose-1-phosphate uridylyltransferase
+#64	AnnotatorNotes T64	independent_continuant
+T65	PR 2182 2223	galactose-1-phosphate uridylyltransferase
+#65	AnnotatorNotes T65	PR:000007834 (galactose-1-phosphate uridylyltransferase)
+T66	GO_MF 2182 2223	galactose-1-phosphate uridylyltransferase
+#66	AnnotatorNotes T66	GO:0017103 (UTP:galactose-1-phosphate uridylyltransferase activity)
+T67	CHEBI 2182 2203	galactose-1-phosphate
+#67	AnnotatorNotes T67	CHEBI:37480 (D-galactose 1-phosphate)
+T68	CHEBI 2182 2191	galactose
+#68	AnnotatorNotes T68	CHEBI:28260 (galactose)
+T69	CHEBI 2194 2203	phosphate
+#69	AnnotatorNotes T69	CHEBI:32958 (phosphate group)
+T70	GO_MF 2233 2257	methylmalonyl CoA mutase
+#70	AnnotatorNotes T70	GO:0004494 (methylmalonyl-CoA mutase activity)
+T71	PR 2233 2257	methylmalonyl CoA mutase
+#71	AnnotatorNotes T71	PR:000010782 (methylmalonyl-CoA mutase, mitochondrial)
+T72	independent_continuant 2233 2257	methylmalonyl CoA mutase
+#72	AnnotatorNotes T72	independent_continuant
+T73	CHEBI 2233 2250	methylmalonyl CoA
+#73	AnnotatorNotes T73	CHEBI:16625 (methylmalonyl-CoA)
+T74	NCBITaxon 2291 2302	individuals
+#74	AnnotatorNotes T74	NCBITaxon:1 (root)
+T75	SO 2326 2332	mutant
+#75	AnnotatorNotes T75	SO:0001059 (sequence_alteration)
+T76	SO 2333 2340	alleles
+#76	AnnotatorNotes T76	SO:0001023 (allele)
+T77	SO 2353 2357	gene
+#77	AnnotatorNotes T77	SO:0000704 (gene)
+T78	SO 2389 2398	wild-type
+#78	AnnotatorNotes T78	SO:0000817 (wild_type)
+T79	SO 2400 2402	wt
+#79	AnnotatorNotes T79	SO:0000817 (wild_type)
+T80	SO 2405 2411	allele
+#80	AnnotatorNotes T80	SO:0001023 (allele)
+T81	SO 2413 2420	genetic
+#81	AnnotatorNotes T81	SO:0000704 (gene)
+T82	SO 2452 2459	alleles
+#82	AnnotatorNotes T82	SO:0001023 (allele)
+T83	NCBITaxon 2803 2808	human
+#83	AnnotatorNotes T83	NCBITaxon:9606 (Homo sapiens)
+T84	SO 2904 2911	genetic
+#84	AnnotatorNotes T84	SO:0000704 (gene)
+T85	italic 2925 2928	XPD
+#85	AnnotatorNotes T85	italic (null)
+T86	EntrezGene 2925 2928	XPD
+#86	AnnotatorNotes T86	EG:2068
+T87	PR 2925 2928	XPD
+#87	AnnotatorNotes T87	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T88	independent_continuant 2952 2960	helicase
+#88	AnnotatorNotes T88	independent_continuant
+T89	GO_MF 2952 2960	helicase
+#89	AnnotatorNotes T89	GO:0004386 (helicase activity)
+T90	GO_CC 2975 3016	basal transcription/DNA repair factor IIH
+#90	AnnotatorNotes T90	GO:0005675 (holo TFIIH complex)
+T91	independent_continuant 2981 3012	transcription/DNA repair factor
+#91	AnnotatorNotes T91	"transcription .. factor" independent_continuant
+T92	GO_MF 2981 3012	transcription/DNA repair factor
+#92	AnnotatorNotes T92	"transcription .. factor" GO:0003700 (transcription factor activity)
+T93	GO_BP 2981 2994	transcription
+#93	AnnotatorNotes T93	GO:0006350 (transcription)
+T94	GO_BP 2995 3005	DNA repair
+#94	AnnotatorNotes T94	GO:0006281 (DNA repair)
+T95	SO 2995 2998	DNA
+#95	AnnotatorNotes T95	SO:0000352 (DNA)
+T96	GO_CC 3018 3023	TFIIH
+#96	AnnotatorNotes T96	GO:0005675 (holo TFIIH complex)
+T97	GO_CC 3057 3064	complex
+#97	AnnotatorNotes T97	GO:0032991 (macromolecular complex)
+T98	GO_BP 3123 3147	transcription initiation
+#98	AnnotatorNotes T98	GO:0006352 (transcription initiation)
+T99	GO_BP 3123 3136	transcription
+#99	AnnotatorNotes T99	GO:0006350 (transcription)
+T100	GO_BP 3152 3169	DNA damage repair
+#100	AnnotatorNotes T100	GO:0006281 (DNA repair)
+T101	SO 3152 3155	DNA
+#101	AnnotatorNotes T101	SO:0000352 (DNA)
+T102	GO_BP 3178 3218	nucleotide excision repair (NER) pathway
+#102	AnnotatorNotes T102	"nucleotide excision repair .. pathway" GO:0006289 (nucleotide-excision repair)
+T103	GO_BP 3178 3197	nucleotide excision
+#103	AnnotatorNotes T103	GO:0000718 (nucleotide-excision repair, DNA damage removal)
+T104	CHEBI 3178 3188	nucleotide
+#104	AnnotatorNotes T104	CHEBI:25613 (nucleotidyl groups)
+T105	SO 3178 3188	nucleotide
+#105	AnnotatorNotes T105	SO:0001236 (base)
+T106	SO 3189 3197	excision
+#106	AnnotatorNotes T106	SO:0000045 (delete)
+T107	GO_BP 3206 3218	NER) pathway
+#107	AnnotatorNotes T107	"NER .. pathway" GO:0006289 (nucleotide-excision repair)
+T108	SO 3226 3237	Alterations
+#108	AnnotatorNotes T108	SO:0001059 (sequence_alteration)
+T109	EntrezGene 3241 3244	XPD
+#109	AnnotatorNotes T109	EG:2068
+T110	PR 3241 3244	XPD
+#110	AnnotatorNotes T110	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T111	GO_CC 3268 3273	TFIIH
+#111	AnnotatorNotes T111	GO:0005675 (holo TFIIH complex)
+T112	GO_BP 3484 3496	pigmentation
+#112	AnnotatorNotes T112	GO:0043473 (pigmentation)
+T113	GO_BP 3603 3609	growth
+#113	AnnotatorNotes T113	GO:0040007 (growth)
+T114	GO_BP 3763 3769	growth
+#114	AnnotatorNotes T114	GO:0040007 (growth)
+T115	CHEBI 3941 3948	sulphur
+#115	AnnotatorNotes T115	CHEBI:26833 (sulfur)
+T116	GO_BP 4028 4041	transcription
+#116	AnnotatorNotes T116	GO:0006350 (transcription)
+T117	CL 4061 4065	cell
+#117	AnnotatorNotes T117	CL:0000000 (cell)
+T118	GO_CC 4061 4065	cell
+#118	AnnotatorNotes T118	GO:0005623 (cell)
+T119	GO_BP 4155 4173	neurodevelopmental
+#119	AnnotatorNotes T119	GO:0007399 (nervous system development)
+T120	italic 4253 4256	XPD
+#120	AnnotatorNotes T120	italic (null)
+T121	EntrezGene 4253 4256	XPD
+#121	AnnotatorNotes T121	EG:2068
+T122	PR 4253 4256	XPD
+#122	AnnotatorNotes T122	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T123	SO 4257 4266	mutations
+#123	AnnotatorNotes T123	SO:0001059 (sequence_alteration)
+T124	sup 4328 4333	R722W
+#124	AnnotatorNotes T124	sup (null)
+T125	sup 4350 4355	R683W
+#125	AnnotatorNotes T125	sup (null)
+T126	SO 4430 4437	Alleles
+#126	AnnotatorNotes T126	SO:0001023 (allele)
+T127	SO 4512 4519	alleles
+#127	AnnotatorNotes T127	SO:0001023 (allele)
+T128	SO 4543 4550	alleles
+#128	AnnotatorNotes T128	SO:0001023 (allele)
+T129	NCBITaxon 4590 4621	Schizosaccharomyces pombe yeast
+#129	AnnotatorNotes T129	NCBITaxon:4896 (Schizosaccharomyces pombe)
+T130	taxonomic_rank 4590 4615	Schizosaccharomyces pombe
+#130	AnnotatorNotes T130	taxonomic_rank (null)
+T131	SO 4641 4649	mutation
+#131	AnnotatorNotes T131	SO:0001059 (sequence_alteration)
+T132	italic 4657 4660	XPD
+#132	AnnotatorNotes T132	italic (null)
+T133	PR 4657 4660	XPD
+#133	AnnotatorNotes T133	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T134	EntrezGene 4657 4660	XPD
+#134	AnnotatorNotes T134	EG:2068
+T135	SO 4661 4670	homologue
+#135	AnnotatorNotes T135	SO:0000853 (homologous_region)
+T136	italic 4671 4676	rad15
+#136	AnnotatorNotes T136	italic (null)
+T137	PR 4671 4676	rad15
+#137	AnnotatorNotes T137	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T138	EntrezGene 4671 4676	rad15
+#138	AnnotatorNotes T138	EG:2542203
+T139	SO 4772 4779	alleles
+#139	AnnotatorNotes T139	SO:0001023 (allele)
+T140	italic 4874 4877	XPD
+#140	AnnotatorNotes T140	italic (null)
+T141	EntrezGene 4874 4877	XPD
+#141	AnnotatorNotes T141	EG:2068
+T142	PR 4874 4877	XPD
+#142	AnnotatorNotes T142	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T143	GO_BP 5184 5193	generated
+#143	AnnotatorNotes T143	GO:0000003 (reproduction)
+T144	NCBITaxon 5200 5205	mouse
+#144	AnnotatorNotes T144	NCBITaxon:10088 (Mus)
+T145	sup 5216 5221	R722W
+#145	AnnotatorNotes T145	sup (null)
+T146	NCBITaxon 5244 5249	human
+#146	AnnotatorNotes T146	NCBITaxon:9606 (Homo sapiens)
+T147	GO_BP 5287 5297	generation
+#147	AnnotatorNotes T147	GO:0009058 (biosynthetic process)
+T148	SO 5312 5318	mutant
+#148	AnnotatorNotes T148	SO:0001059 (sequence_alteration)
+T149	italic 5319 5322	Xpd
+#149	AnnotatorNotes T149	italic (null)
+T150	EntrezGene 5319 5322	Xpd
+#150	AnnotatorNotes T150	EG:13871
+T151	PR 5319 5322	Xpd
+#151	AnnotatorNotes T151	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T152	SO 5323 5330	alleles
+#152	AnnotatorNotes T152	SO:0001023 (allele)
+T153	GO_BP 5438 5444	ageing
+#153	AnnotatorNotes T153	GO:0007568 (aging)
+T154	CL 5466 5474	cellular
+#154	AnnotatorNotes T154	CL:0000000 (cell)
+T155	GO_CC 5466 5474	cellular
+#155	AnnotatorNotes T155	GO:0005623 (cell)
+T156	GO_BP 5475 5485	DNA repair
+#156	AnnotatorNotes T156	GO:0006281 (DNA repair)
+T157	SO 5475 5478	DNA
+#157	AnnotatorNotes T157	SO:0000352 (DNA)
+T158	GO_BP 5569 5579	Generation
+#158	AnnotatorNotes T158	GO:0000003 (reproduction)
+T159	italic 5583 5586	Xpd
+#159	AnnotatorNotes T159	italic (null)
+T160	EntrezGene 5583 5586	Xpd
+#160	AnnotatorNotes T160	EG:13871
+T161	PR 5583 5586	Xpd
+#161	AnnotatorNotes T161	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T162	GO_BP 5614 5623	generated
+#162	AnnotatorNotes T162	GO:0009058 (biosynthetic process)
+T163	italic 5627 5630	Xpd
+#163	AnnotatorNotes T163	italic (null)
+T164	PR 5627 5630	Xpd
+#164	AnnotatorNotes T164	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T165	EntrezGene 5627 5630	Xpd
+#165	AnnotatorNotes T165	EG:13871
+T166	SO 5640 5646	allele
+#166	AnnotatorNotes T166	SO:0001023 (allele)
+T167	SO 5654 5668	point mutation
+#167	AnnotatorNotes T167	SO:1000008 (point_mutation)
+T168	CHEBI 5687 5697	amino acid
+#168	AnnotatorNotes T168	CHEBI:33708 (amino-acid residue)
+T169	SO 5687 5697	amino acid
+#169	AnnotatorNotes T169	SO:0001237 (amino_acid)
+T170	CHEBI 5687 5692	amino
+#170	AnnotatorNotes T170	CHEBI:32952 (amines)
+T171	CHEBI 5687 5692	amino
+#171	AnnotatorNotes T171	CHEBI:46882 (amino group)
+T172	CHEBI 5693 5697	acid
+#172	AnnotatorNotes T172	CHEBI:37527 (acid)
+T173	SO 5698 5704	change
+#173	AnnotatorNotes T173	SO:0001059 (sequence_alteration)
+T174	sup 5709 5714	G602D
+#174	AnnotatorNotes T174	sup (null)
+T175	CHEBI 5764 5768	mRNA
+#175	AnnotatorNotes T175	CHEBI:33699 (messenger RNA)
+T176	SO 5764 5768	mRNA
+#176	AnnotatorNotes T176	SO:0000234 (mRNA)
+T177	GO_BP 5769 5779	expression
+#177	AnnotatorNotes T177	GO:0010467 (gene expression)
+T178	SO 5798 5804	allele
+#178	AnnotatorNotes T178	SO:0001023 (allele)
+T179	CL 5836 5846	stem cells
+#179	AnnotatorNotes T179	CL:0000034 (stem cell)
+T180	GO_CC 5841 5846	cells
+#180	AnnotatorNotes T180	GO:0005623 (cell)
+T181	GO_BP 5850 5852	RT
+#181	AnnotatorNotes T181	GO:0006410 (transcription, RNA-dependent)
+T182	GO_MF 5850 5852	RT
+#182	AnnotatorNotes T182	GO:0003964 (RNA-directed DNA polymerase activity)
+T183	independent_continuant 5850 5852	RT
+#183	AnnotatorNotes T183	independent_continuant
+T184	GO_BP 5879 5889	expression
+#184	AnnotatorNotes T184	GO:0010467 (gene expression)
+T185	SO 5935 5937	wt
+#185	AnnotatorNotes T185	SO:0000817 (wild_type)
+T186	CHEBI 5938 5953	mRNA transcript
+#186	AnnotatorNotes T186	CHEBI:33699 (messenger RNA)
+T187	SO 5938 5953	mRNA transcript
+#187	AnnotatorNotes T187	SO:0000234 (mRNA)
+T188	SO 5999 6002	RNA
+#188	AnnotatorNotes T188	SO:0000356 (RNA)
+T189	NCBITaxon 6035 6042	animals
+#189	AnnotatorNotes T189	NCBITaxon:33208 (Metazoa)
+T190	SO 6100 6106	mutant
+#190	AnnotatorNotes T190	SO:0001059 (sequence_alteration)
+T191	EntrezGene 6107 6110	XPD
+#191	AnnotatorNotes T191	EG:2068
+T192	PR 6107 6110	XPD
+#192	AnnotatorNotes T192	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T193	CHEBI 6111 6118	protein
+#193	AnnotatorNotes T193	CHEBI:36080 (proteins)
+T194	sup 6123 6128	G602D
+#194	AnnotatorNotes T194	sup (null)
+T195	GO_BP 6130 6139	expressed
+#195	AnnotatorNotes T195	GO:0010467 (gene expression)
+T196	SO 6154 6160	allele
+#196	AnnotatorNotes T196	SO:0001023 (allele)
+T197	SO 6180 6188	mutation
+#197	AnnotatorNotes T197	SO:0001059 (sequence_alteration)
+T198	SO 6260 6266	mutant
+#198	AnnotatorNotes T198	SO:0001059 (sequence_alteration)
+T199	NCBITaxon 6267 6271	mice
+#199	AnnotatorNotes T199	NCBITaxon:10088 (Mus)
+T200	GO_BP 6312 6318	births
+#200	AnnotatorNotes T200	GO:0007567 (parturition)
+T201	SO 6408 6414	mutant
+#201	AnnotatorNotes T201	SO:0001059 (sequence_alteration)
+T202	SO 6415 6421	allele
+#202	AnnotatorNotes T202	SO:0001023 (allele)
+T203	GO_BP 6456 6462	lethal
+#203	AnnotatorNotes T203	GO:0016265 (death)
+T204	SO 6505 6511	allele
+#204	AnnotatorNotes T204	SO:0001023 (allele)
+T205	GO_BP 6547 6557	expression
+#205	AnnotatorNotes T205	GO:0010467 (gene expression)
+T206	CHEBI 6576 6583	protein
+#206	AnnotatorNotes T206	CHEBI:36080 (proteins)
+T207	SO 6599 6603	gene
+#207	AnnotatorNotes T207	SO:0000704 (gene)
+T208	SO 6645 6653	mutation
+#208	AnnotatorNotes T208	SO:0001059 (sequence_alteration)
+T209	italic 6662 6665	Xpd
+#209	AnnotatorNotes T209	italic (null)
+T210	PR 6662 6665	Xpd
+#210	AnnotatorNotes T210	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T211	italic 6675 6681	(XpdKO
+#211	AnnotatorNotes T211	italic (null)
+T212	sup 6679 6681	KO
+#212	AnnotatorNotes T212	sup (null)
+T213	sup 6681 6684	/KO
+#213	AnnotatorNotes T213	sup (null)
+T214	italic 6682 6684	KO
+#214	AnnotatorNotes T214	italic (null)
+T215	italic 6684 6685	)
+#215	AnnotatorNotes T215	italic (null)
+T216	GO_BP 6752 6765	embryogenesis
+#216	AnnotatorNotes T216	GO:0009790 (embryonic development)
+T217	italic 6830 6833	Xpd
+#217	AnnotatorNotes T217	italic (null)
+T218	PR 6830 6833	Xpd
+#218	AnnotatorNotes T218	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T219	EntrezGene 6830 6833	Xpd
+#219	AnnotatorNotes T219	EG:13871
+T220	SO 6834 6842	mutation
+#220	AnnotatorNotes T220	SO:0001059 (sequence_alteration)
+T221	sup 6855 6860	R683W
+#221	AnnotatorNotes T221	sup (null)
+T222	NCBITaxon 6917 6923	humans
+#222	AnnotatorNotes T222	NCBITaxon:9606 (Homo sapiens)
+T223	GO_BP 6958 6964	lethal
+#223	AnnotatorNotes T223	GO:0016265 (death)
+T224	SO 7008 7014	allele
+#224	AnnotatorNotes T224	SO:0001023 (allele)
+T225	SO 7122 7128	native
+#225	AnnotatorNotes T225	SO:0000782 (natural)
+T226	SO 7129 7134	3′UTR
+#226	AnnotatorNotes T226	SO:0000205 (three_prime_UTR)
+T227	SO 7139 7146	removal
+#227	AnnotatorNotes T227	SO:0000045 (delete)
+T228	italic 7154 7157	neo
+#228	AnnotatorNotes T228	italic (null)
+T229	GO_MF 7154 7157	neo
+#229	AnnotatorNotes T229	GO:0008910 (kanamycin kinase activity)
+T230	independent_continuant 7154 7157	neo
+#230	AnnotatorNotes T230	independent_continuant
+T231	SO 7158 7162	gene
+#231	AnnotatorNotes T231	SO:0000704 (gene)
+T232	italic 7192 7199	XpdXPCS
+#232	AnnotatorNotes T232	italic (null)
+T233	sup 7195 7199	XPCS
+#233	AnnotatorNotes T233	sup (null)
+T234	CHEBI 7200 7204	mRNA
+#234	AnnotatorNotes T234	CHEBI:33699 (messenger RNA)
+T235	SO 7200 7204	mRNA
+#235	AnnotatorNotes T235	SO:0000234 (mRNA)
+T236	italic 7234 7246	XpdXPCS/XPCS
+#236	AnnotatorNotes T236	italic (null)
+T237	sup 7237 7246	XPCS/XPCS
+#237	AnnotatorNotes T237	sup (null)
+T238	sup 7251 7262	G602D/G602D
+#238	AnnotatorNotes T238	sup (null)
+T239	NCBITaxon 7264 7271	animals
+#239	AnnotatorNotes T239	NCBITaxon:33208 (Metazoa)
+T240	EntrezGene 7306 7315	Mouse Xpd
+#240	AnnotatorNotes T240	EG:13871
+T241	NCBITaxon 7306 7311	Mouse
+#241	AnnotatorNotes T241	NCBITaxon:10088 (Mus)
+T242	italic 7312 7315	Xpd
+#242	AnnotatorNotes T242	italic (null)
+T243	PR 7312 7315	Xpd
+#243	AnnotatorNotes T243	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T244	SO 7316 7320	Gene
+#244	AnnotatorNotes T244	SO:0000704 (gene)
+T245	SO 7358 7365	genomic
+#245	AnnotatorNotes T245	SO:0001026 (genome)
+T246	SO 7380 7387	partial
+#246	AnnotatorNotes T246	SO:0000731 (fragmentary)
+T247	SO 7388 7403	restriction map
+#247	AnnotatorNotes T247	SO:0001250 (fingerprint_map)
+T248	SO 7411 7413	wt
+#248	AnnotatorNotes T248	SO:0000817 (wild_type)
+T249	EntrezGene 7427 7436	mouse Xpd
+#249	AnnotatorNotes T249	EG:13871
+T250	NCBITaxon 7427 7432	mouse
+#250	AnnotatorNotes T250	NCBITaxon:10088 (Mus)
+T251	italic 7433 7436	Xpd
+#251	AnnotatorNotes T251	italic (null)
+T252	PR 7433 7436	Xpd
+#252	AnnotatorNotes T252	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T253	SO 7437 7441	loci
+#253	AnnotatorNotes T253	SO:0000001 (region)
+T254	SO 7451 7453	wt
+#254	AnnotatorNotes T254	SO:0000817 (wild_type)
+T255	italic 7454 7457	Xpd
+#255	AnnotatorNotes T255	italic (null)
+T256	EntrezGene 7454 7457	Xpd
+#256	AnnotatorNotes T256	EG:13871
+T257	PR 7454 7457	Xpd
+#257	AnnotatorNotes T257	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T258	SO 7458 7464	allele
+#258	AnnotatorNotes T258	SO:0001023 (allele)
+T259	SO 7489 7512	coding regions of exons
+#259	AnnotatorNotes T259	SO:0001215 (coding_region_of_exon)
+T260	SO 7489 7503	coding regions
+#260	AnnotatorNotes T260	SO:0000851 (CDS_region)
+T261	SO 7507 7512	exons
+#261	AnnotatorNotes T261	SO:0000147 (exon)
+T262	SO 7531 7536	3′UTR
+#262	AnnotatorNotes T262	SO:0000205 (three_prime_UTR)
+T263	SO 7586 7610	translational stop codon
+#263	AnnotatorNotes T263	SO:0000319 (stop_codon)
+T264	GO_BP 7586 7604	translational stop
+#264	AnnotatorNotes T264	GO:0006415 (translational termination)
+T265	GO_BP 7586 7599	translational
+#265	AnnotatorNotes T265	GO:0006412 (translation)
+T266	SO 7612 7617	PolyA
+#266	AnnotatorNotes T266	SO:0000551 (polyA_signal_sequence)
+T267	SO 7632 7654	polyadenylation signal
+#267	AnnotatorNotes T267	SO:0000551 (polyA_signal_sequence)
+T268	GO_BP 7632 7647	polyadenylation
+#268	AnnotatorNotes T268	GO:0043631 (RNA polyadenylation)
+T269	italic 7664 7670	XpdTTD
+#269	AnnotatorNotes T269	italic (null)
+T270	sup 7667 7670	TTD
+#270	AnnotatorNotes T270	sup (null)
+T271	SO 7680 7686	allele
+#271	AnnotatorNotes T271	SO:0001023 (allele)
+T272	SO 7696 7705	base pair
+#272	AnnotatorNotes T272	SO:0000028 (base_pair)
+T273	SO 7696 7700	base
+#273	AnnotatorNotes T273	SO:0001236 (base)
+T274	SO 7707 7709	bp
+#274	AnnotatorNotes T274	SO:0000028 (base_pair)
+T275	EntrezGene 7711 7720	human XPD
+#275	AnnotatorNotes T275	EG:2068
+T276	NCBITaxon 7711 7716	human
+#276	AnnotatorNotes T276	NCBITaxon:9606 (Homo sapiens)
+T277	italic 7717 7720	XPD
+#277	AnnotatorNotes T277	italic (null)
+T278	PR 7717 7720	XPD
+#278	AnnotatorNotes T278	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T279	SO 7721 7725	cDNA
+#279	AnnotatorNotes T279	SO:0000756 (cDNA)
+T280	SO 7726 7734	fragment
+#280	AnnotatorNotes T280	SO:0000731 (fragmentary)
+T281	SO 7744 7748	exon
+#281	AnnotatorNotes T281	SO:0000147 (exon)
+T282	SO 7808 7816	mutation
+#282	AnnotatorNotes T282	SO:0001059 (sequence_alteration)
+T283	NCBITaxon 7848 7855	Chicken
+#283	AnnotatorNotes T283	NCBITaxon:9031 (Gallus gallus)
+T284	PR 7856 7864	β-globin
+#284	AnnotatorNotes T284	PR:000008457 (hemoglobin subunit beta)
+T285	SO 7865 7870	exons
+#285	AnnotatorNotes T285	SO:0000147 (exon)
+T286	SO 7893 7898	3′UTR
+#286	AnnotatorNotes T286	SO:0000205 (three_prime_UTR)
+T287	PR 7978 7986	β-globin
+#287	AnnotatorNotes T287	PR:000008457 (hemoglobin subunit beta)
+T288	SO 7987 8009	polyadenylation signal
+#288	AnnotatorNotes T288	SO:0000551 (polyA_signal_sequence)
+T289	GO_BP 7987 8002	polyadenylation
+#289	AnnotatorNotes T289	GO:0043631 (RNA polyadenylation)
+T290	SO 8011 8017	PolyA*
+#290	AnnotatorNotes T290	SO:0000551 (polyA_signal_sequence)
+T291	italic 8028 8034	Xpd†XP
+#291	AnnotatorNotes T291	italic (null)
+T292	EntrezGene 8028 8031	Xpd
+#292	AnnotatorNotes T292	EG:13871
+T293	PR 8028 8031	Xpd
+#293	AnnotatorNotes T293	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T294	sup 8031 8034	†XP
+#294	AnnotatorNotes T294	sup (null)
+T295	italic 8039 8047	Xpd†XPCS
+#295	AnnotatorNotes T295	italic (null)
+T296	EntrezGene 8039 8042	Xpd
+#296	AnnotatorNotes T296	EG:13871
+T297	PR 8039 8042	Xpd
+#297	AnnotatorNotes T297	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T298	sup 8042 8047	†XPCS
+#298	AnnotatorNotes T298	sup (null)
+T299	SO 8057 8064	alleles
+#299	AnnotatorNotes T299	SO:0001023 (allele)
+T300	SO 8137 8146	mutations
+#300	AnnotatorNotes T300	SO:0001059 (sequence_alteration)
+T301	SO 8150 8155	exons
+#301	AnnotatorNotes T301	SO:0000147 (exon)
+T302	SO 8195 8200	probe
+#302	AnnotatorNotes T302	SO:0000051 (probe)
+T303	SO 8231 8240	construct
+#303	AnnotatorNotes T303	SO:0001037 (mobile_genetic_element)
+T304	SO 8274 8291	Restriction sites
+#304	AnnotatorNotes T304	SO:0000061 (restriction_enzyme_binding_site)
+T305	EntrezGene 8322 8323	H
+#305	AnnotatorNotes T305	EG:950303
+T306	EntrezGene 8325 8332	HindIII
+#306	AnnotatorNotes T306	EG:950303
+T307	GO_BP 8391 8399	digested
+#307	AnnotatorNotes T307	GO:0009056 (catabolic process)
+T308	SO 8400 8411	genomic DNA
+#308	AnnotatorNotes T308	SO:0000991 (genomic_DNA)
+T309	SO 8400 8407	genomic
+#309	AnnotatorNotes T309	SO:0001026 (genome)
+T310	SO 8417 8419	wt
+#310	AnnotatorNotes T310	SO:0000817 (wild_type)
+T311	italic 8421 8433	Xpd†XPCS/wt,
+#311	AnnotatorNotes T311	italic (null)
+T312	EntrezGene 8421 8424	Xpd
+#312	AnnotatorNotes T312	EG:13871
+T313	PR 8421 8424	Xpd
+#313	AnnotatorNotes T313	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T314	sup 8424 8432	†XPCS/wt
+#314	AnnotatorNotes T314	sup (null)
+T315	SO 8430 8432	wt
+#315	AnnotatorNotes T315	SO:0000817 (wild_type)
+T316	italic 8438 8447	Xpd†XP/wt
+#316	AnnotatorNotes T316	italic (null)
+T317	EntrezGene 8438 8441	Xpd
+#317	AnnotatorNotes T317	EG:13871
+T318	PR 8438 8441	Xpd
+#318	AnnotatorNotes T318	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T319	sup 8441 8447	†XP/wt
+#319	AnnotatorNotes T319	sup (null)
+T320	SO 8445 8447	wt
+#320	AnnotatorNotes T320	SO:0000817 (wild_type)
+T321	GO_BP 8448 8459	recombinant
+#321	AnnotatorNotes T321	GO:0006310 (DNA recombination)
+T322	CL 8470 8479	stem cell
+#322	AnnotatorNotes T322	CL:0000034 (stem cell)
+T323	GO_CC 8475 8479	cell
+#323	AnnotatorNotes T323	GO:0005623 (cell)
+T324	GO_MF 8487 8497	hybridised
+#324	AnnotatorNotes T324	GO:0033592 (RNA strand annealing activity)
+T325	GO_MF 8487 8497	hybridised
+#325	AnnotatorNotes T325	GO:0000739 (DNA strand annealing activity)
+T326	SO 8510 8515	probe
+#326	AnnotatorNotes T326	SO:0000051 (probe)
+T327	SO 8537 8539	wt
+#327	AnnotatorNotes T327	SO:0000817 (wild_type)
+T328	SO 8540 8546	allele
+#328	AnnotatorNotes T328	SO:0001023 (allele)
+T329	GO_BP 8547 8553	yields
+#329	AnnotatorNotes T329	GO:0009058 (biosynthetic process)
+T330	SO 8574 8582	fragment
+#330	AnnotatorNotes T330	SO:0000731 (fragmentary)
+T331	italic 8606 8612	Xpd†XP
+#331	AnnotatorNotes T331	italic (null)
+T332	EntrezGene 8606 8609	Xpd
+#332	AnnotatorNotes T332	EG:13871
+T333	PR 8606 8609	Xpd
+#333	AnnotatorNotes T333	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T334	sup 8609 8612	†XP
+#334	AnnotatorNotes T334	sup (null)
+T335	italic 8617 8625	Xpd†XPCS
+#335	AnnotatorNotes T335	italic (null)
+T336	EntrezGene 8617 8620	Xpd
+#336	AnnotatorNotes T336	EG:13871
+T337	PR 8617 8620	Xpd
+#337	AnnotatorNotes T337	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T338	sup 8620 8625	†XPCS
+#338	AnnotatorNotes T338	sup (null)
+T339	SO 8626 8633	alleles
+#339	AnnotatorNotes T339	SO:0001023 (allele)
+T340	GO_BP 8634 8639	yield
+#340	AnnotatorNotes T340	GO:0009058 (biosynthetic process)
+T341	SO 8649 8657	fragment
+#341	AnnotatorNotes T341	SO:0000731 (fragmentary)
+T342	SO 8678 8680	wt
+#342	AnnotatorNotes T342	SO:0000817 (wild_type)
+T343	SO 8694 8701	alleles
+#343	AnnotatorNotes T343	SO:0001023 (allele)
+T344	SO 8715 8722	primers
+#344	AnnotatorNotes T344	SO:0000112 (primer)
+T345	GO_BP 8758 8764	yields
+#345	AnnotatorNotes T345	GO:0009058 (biosynthetic process)
+T346	SO 8765 8774	fragments
+#346	AnnotatorNotes T346	SO:0000731 (fragmentary)
+T347	SO 8782 8784	bp
+#347	AnnotatorNotes T347	SO:0000028 (base_pair)
+T348	SO 8793 8795	bp
+#348	AnnotatorNotes T348	SO:0000028 (base_pair)
+T349	GO_BP 8816 8818	RT
+#349	AnnotatorNotes T349	GO:0006410 (transcription, RNA-dependent)
+T350	independent_continuant 8816 8818	RT
+#350	AnnotatorNotes T350	independent_continuant
+T351	GO_MF 8816 8818	RT
+#351	AnnotatorNotes T351	GO:0003964 (RNA-directed DNA polymerase activity)
+T352	CHEBI 8836 8840	mRNA
+#352	AnnotatorNotes T352	CHEBI:33699 (messenger RNA)
+T353	SO 8836 8840	mRNA
+#353	AnnotatorNotes T353	SO:0000234 (mRNA)
+T354	GO_BP 8841 8851	expression
+#354	AnnotatorNotes T354	GO:0010467 (gene expression)
+T355	italic 8882 8885	†XP
+#355	AnnotatorNotes T355	italic (null)
+T356	italic 8890 8895	†XPCS
+#356	AnnotatorNotes T356	italic (null)
+T357	SO 8896 8903	alleles
+#357	AnnotatorNotes T357	SO:0001023 (allele)
+T358	CL 8917 8926	stem cell
+#358	AnnotatorNotes T358	CL:0000034 (stem cell)
+T359	GO_CC 8922 8926	cell
+#359	AnnotatorNotes T359	GO:0005623 (cell)
+T360	SO 8940 8947	primers
+#360	AnnotatorNotes T360	SO:0000112 (primer)
+T361	GO_MF 8952 8963	hybridising
+#361	AnnotatorNotes T361	GO:0000739 (DNA strand annealing activity)
+T362	GO_MF 8952 8963	hybridising
+#362	AnnotatorNotes T362	GO:0033592 (RNA strand annealing activity)
+T363	SO 8986 8995	construct
+#363	AnnotatorNotes T363	SO:0001037 (mobile_genetic_element)
+T364	SO 9043 9045	bp
+#364	AnnotatorNotes T364	SO:0000028 (base_pair)
+T365	SO 9046 9054	fragment
+#365	AnnotatorNotes T365	SO:0000731 (fragmentary)
+T366	SO 9093 9096	RNA
+#366	AnnotatorNotes T366	SO:0000356 (RNA)
+T367	SO 9132 9134	wt
+#367	AnnotatorNotes T367	SO:0000817 (wild_type)
+T368	italic 9139 9150	XpdTTD/TTD,
+#368	AnnotatorNotes T368	italic (null)
+T369	sup 9142 9149	TTD/TTD
+#369	AnnotatorNotes T369	sup (null)
+T370	italic 9164 9175	Xpd†XPCS/wt
+#370	AnnotatorNotes T370	italic (null)
+T371	EntrezGene 9164 9167	Xpd
+#371	AnnotatorNotes T371	EG:13871
+T372	PR 9164 9167	Xpd
+#372	AnnotatorNotes T372	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T373	sup 9167 9175	†XPCS/wt
+#373	AnnotatorNotes T373	sup (null)
+T374	SO 9173 9175	wt
+#374	AnnotatorNotes T374	SO:0000817 (wild_type)
+T375	italic 9180 9190	XpdTTD/wt,
+#375	AnnotatorNotes T375	italic (null)
+T376	sup 9183 9189	TTD/wt
+#376	AnnotatorNotes T376	sup (null)
+T377	SO 9187 9189	wt
+#377	AnnotatorNotes T377	SO:0000817 (wild_type)
+T378	italic 9217 9229	Xpd†XPCS/TTD
+#378	AnnotatorNotes T378	italic (null)
+T379	EntrezGene 9217 9220	Xpd
+#379	AnnotatorNotes T379	EG:13871
+T380	PR 9217 9220	Xpd
+#380	AnnotatorNotes T380	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T381	sup 9220 9229	†XPCS/TTD
+#381	AnnotatorNotes T381	sup (null)
+T382	NCBITaxon 9230 9234	mice
+#382	AnnotatorNotes T382	NCBITaxon:10088 (Mus)
+T383	GO_MF 9249 9262	Hybridisation
+#383	AnnotatorNotes T383	GO:0000739 (DNA strand annealing activity)
+T384	GO_MF 9249 9262	Hybridisation
+#384	AnnotatorNotes T384	GO:0033592 (RNA strand annealing activity)
+T385	EntrezGene 9277 9286	mouse Xpd
+#385	AnnotatorNotes T385	EG:13871
+T386	NCBITaxon 9277 9282	mouse
+#386	AnnotatorNotes T386	NCBITaxon:10088 (Mus)
+T387	italic 9283 9286	Xpd
+#387	AnnotatorNotes T387	italic (null)
+T388	PR 9283 9286	Xpd
+#388	AnnotatorNotes T388	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T389	SO 9287 9291	cDNA
+#389	AnnotatorNotes T389	SO:0000756 (cDNA)
+T390	SO 9292 9297	probe
+#390	AnnotatorNotes T390	SO:0000051 (probe)
+T391	CHEBI 9306 9311	mRNAs
+#391	AnnotatorNotes T391	CHEBI:33699 (messenger RNA)
+T392	SO 9306 9311	mRNAs
+#392	AnnotatorNotes T392	SO:0000234 (mRNA)
+T393	SO 9339 9341	wt
+#393	AnnotatorNotes T393	SO:0000817 (wild_type)
+T394	italic 9343 9352	Xpd†XPCS,
+#394	AnnotatorNotes T394	italic (null)
+T395	EntrezGene 9343 9346	Xpd
+#395	AnnotatorNotes T395	EG:13871
+T396	PR 9343 9346	Xpd
+#396	AnnotatorNotes T396	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T397	sup 9346 9351	†XPCS
+#397	AnnotatorNotes T397	sup (null)
+T398	italic 9357 9363	XpdTTD
+#398	AnnotatorNotes T398	italic (null)
+T399	sup 9360 9363	TTD
+#399	AnnotatorNotes T399	sup (null)
+T400	SO 9364 9371	alleles
+#400	AnnotatorNotes T400	SO:0001023 (allele)
+T401	CHEBI 9390 9406	ethidium bromide
+#401	AnnotatorNotes T401	CHEBI:4883 (ethidium bromide)
+T402	CHEBI 9390 9398	ethidium
+#402	AnnotatorNotes T402	CHEBI:42478 (ethidium)
+T403	CHEBI 9399 9406	bromide
+#403	AnnotatorNotes T403	CHEBI:15858 (bromide)
+T404	CHEBI 9408 9412	EtBr
+#404	AnnotatorNotes T404	CHEBI:4883 (ethidium bromide)
+T405	SO 9454 9457	RNA
+#405	AnnotatorNotes T405	SO:0000356 (RNA)
+T406	italic 9504 9515	Xpd†XP/†XP,
+#406	AnnotatorNotes T406	italic (null)
+T407	EntrezGene 9504 9507	Xpd
+#407	AnnotatorNotes T407	EG:13871
+T408	PR 9504 9507	Xpd
+#408	AnnotatorNotes T408	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T409	sup 9507 9515	†XP/†XP,
+#409	AnnotatorNotes T409	sup (null)
+T410	italic 9516 9531	Xpd†XPCS/†XPCS,
+#410	AnnotatorNotes T410	italic (null)
+T411	EntrezGene 9516 9519	Xpd
+#411	AnnotatorNotes T411	EG:13871
+T412	PR 9516 9519	Xpd
+#412	AnnotatorNotes T412	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T413	sup 9519 9530	†XPCS/†XPCS
+#413	AnnotatorNotes T413	sup (null)
+T414	italic 9558 9570	Xpd†XP/†XPCS
+#414	AnnotatorNotes T414	italic (null)
+T415	EntrezGene 9558 9561	Xpd
+#415	AnnotatorNotes T415	EG:13871
+T416	PR 9558 9561	Xpd
+#416	AnnotatorNotes T416	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T417	sup 9561 9570	†XP/†XPCS
+#417	AnnotatorNotes T417	sup (null)
+T418	SO 9601 9607	Allele
+#418	AnnotatorNotes T418	SO:0001023 (allele)
+T419	GO_BP 9622 9635	Developmental
+#419	AnnotatorNotes T419	GO:0032502 (developmental process)
+T420	GO_BP 9713 9719	lethal
+#420	AnnotatorNotes T420	GO:0016265 (death)
+T421	SO 9727 9733	allele
+#421	AnnotatorNotes T421	SO:0001023 (allele)
+T422	NCBITaxon 9764 9774	organismal
+#422	AnnotatorNotes T422	NCBITaxon:1 (root)
+T423	italic 9801 9809	Xpd†XPCS
+#423	AnnotatorNotes T423	italic (null)
+T424	EntrezGene 9801 9804	Xpd
+#424	AnnotatorNotes T424	EG:13871
+T425	PR 9801 9804	Xpd
+#425	AnnotatorNotes T425	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T426	sup 9804 9809	†XPCS
+#426	AnnotatorNotes T426	sup (null)
+T427	SO 9810 9816	allele
+#427	AnnotatorNotes T427	SO:0001023 (allele)
+T428	italic 9831 9837	XpdTTD
+#428	AnnotatorNotes T428	italic (null)
+T429	sup 9834 9837	TTD
+#429	AnnotatorNotes T429	sup (null)
+T430	SO 9838 9844	allele
+#430	AnnotatorNotes T430	SO:0001023 (allele)
+T431	NCBITaxon 9888 9895	animals
+#431	AnnotatorNotes T431	NCBITaxon:33208 (Metazoa)
+T432	NCBITaxon 9923 9927	mice
+#432	AnnotatorNotes T432	NCBITaxon:10088 (Mus)
+T433	italic 9946 9949	Xpd
+#433	AnnotatorNotes T433	italic (null)
+T434	PR 9946 9949	Xpd
+#434	AnnotatorNotes T434	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T435	EntrezGene 9946 9949	Xpd
+#435	AnnotatorNotes T435	EG:13871
+T436	SO 9959 9965	allele
+#436	AnnotatorNotes T436	SO:0001023 (allele)
+T437	italic 9966 9978	(XpdTTD/KO),
+#437	AnnotatorNotes T437	italic (null)
+T438	sup 9970 9976	TTD/KO
+#438	AnnotatorNotes T438	sup (null)
+T439	italic 10001 10013	XpdTTD/†XPCS
+#439	AnnotatorNotes T439	italic (null)
+T440	sup 10004 10013	TTD/†XPCS
+#440	AnnotatorNotes T440	sup (null)
+T441	NCBITaxon 10014 10018	mice
+#441	AnnotatorNotes T441	NCBITaxon:10088 (Mus)
+T442	GO_BP 10024 10028	born
+#442	AnnotatorNotes T442	GO:0007567 (parturition)
+T443	GO_BP 10068 10078	Expression
+#443	AnnotatorNotes T443	GO:0010467 (gene expression)
+T444	italic 10088 10096	Xpd†XPCS
+#444	AnnotatorNotes T444	italic (null)
+T445	EntrezGene 10088 10091	Xpd
+#445	AnnotatorNotes T445	EG:13871
+T446	PR 10088 10091	Xpd
+#446	AnnotatorNotes T446	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T447	sup 10091 10096	†XPCS
+#447	AnnotatorNotes T447	sup (null)
+T448	SO 10097 10103	allele
+#448	AnnotatorNotes T448	SO:0001023 (allele)
+T449	NCBITaxon 10160 10167	animals
+#449	AnnotatorNotes T449	NCBITaxon:33208 (Metazoa)
+T450	GO_BP 10177 10187	expression
+#450	AnnotatorNotes T450	GO:0010467 (gene expression)
+T451	italic 10197 10203	XpdTTD
+#451	AnnotatorNotes T451	italic (null)
+T452	sup 10200 10203	TTD
+#452	AnnotatorNotes T452	sup (null)
+T453	SO 10204 10210	allele
+#453	AnnotatorNotes T453	SO:0001023 (allele)
+T454	SO 10237 10239	wt
+#454	AnnotatorNotes T454	SO:0000817 (wild_type)
+T455	independent_continuant 10237 10239	wt
+#455	AnnotatorNotes T455	independent_continuant
+T456	GO_CC 10295 10305	antibodies
+#456	AnnotatorNotes T456	GO:0019814 (immunoglobulin complex)
+T457	SO 10355 10367	mutant forms
+#457	AnnotatorNotes T457	SO:0001060 (sequence_variant)
+T458	EntrezGene 10371 10374	XPD
+#458	AnnotatorNotes T458	EG:13871
+T459	PR 10371 10374	XPD
+#459	AnnotatorNotes T459	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T460	CHEBI 10400 10410	amino acid
+#460	AnnotatorNotes T460	CHEBI:33708 (amino-acid residue)
+T461	SO 10400 10410	amino acid
+#461	AnnotatorNotes T461	SO:0001237 (amino_acid)
+T462	CHEBI 10400 10405	amino
+#462	AnnotatorNotes T462	CHEBI:46882 (amino group)
+T463	CHEBI 10400 10405	amino
+#463	AnnotatorNotes T463	CHEBI:32952 (amines)
+T464	CHEBI 10406 10410	acid
+#464	AnnotatorNotes T464	CHEBI:37527 (acid)
+T465	SO 10411 10424	substitutions
+#465	AnnotatorNotes T465	SO:1000002 (substitution)
+T466	EntrezGene 10477 10480	XPD
+#466	AnnotatorNotes T466	EG:13871
+T467	PR 10477 10480	XPD
+#467	AnnotatorNotes T467	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T468	CHEBI 10481 10488	protein
+#468	AnnotatorNotes T468	CHEBI:36080 (proteins)
+T469	SO 10508 10515	alleles
+#469	AnnotatorNotes T469	SO:0001023 (allele)
+T470	CHEBI 10544 10548	mRNA
+#470	AnnotatorNotes T470	CHEBI:33699 (messenger RNA)
+T471	SO 10544 10548	mRNA
+#471	AnnotatorNotes T471	SO:0000234 (mRNA)
+T472	GO_BP 10549 10559	expression
+#472	AnnotatorNotes T472	GO:0010467 (gene expression)
+T473	GO_BP 10576 10582	lethal
+#473	AnnotatorNotes T473	GO:0016265 (death)
+T474	italic 10583 10591	Xpd†XPCS
+#474	AnnotatorNotes T474	italic (null)
+T475	EntrezGene 10583 10586	Xpd
+#475	AnnotatorNotes T475	EG:13871
+T476	PR 10583 10586	Xpd
+#476	AnnotatorNotes T476	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T477	sup 10586 10591	†XPCS
+#477	AnnotatorNotes T477	sup (null)
+T478	SO 10592 10598	allele
+#478	AnnotatorNotes T478	SO:0001023 (allele)
+T479	italic 10620 10626	XpdTTD
+#479	AnnotatorNotes T479	italic (null)
+T480	sup 10623 10626	TTD
+#480	AnnotatorNotes T480	sup (null)
+T481	italic 10680 10692	XpdTTD/†XPCS
+#481	AnnotatorNotes T481	italic (null)
+T482	sup 10683 10692	TTD/†XPCS
+#482	AnnotatorNotes T482	sup (null)
+T483	NCBITaxon 10693 10700	animals
+#483	AnnotatorNotes T483	NCBITaxon:33208 (Metazoa)
+T484	NCBITaxon 10804 10808	mice
+#484	AnnotatorNotes T484	NCBITaxon:10088 (Mus)
+T485	italic 10847 10857	XpdTTD/TTD
+#485	AnnotatorNotes T485	italic (null)
+T486	sup 10850 10857	TTD/TTD
+#486	AnnotatorNotes T486	sup (null)
+T487	italic 10863 10872	XpdTTD/KO
+#487	AnnotatorNotes T487	italic (null)
+T488	sup 10866 10872	TTD/KO
+#488	AnnotatorNotes T488	sup (null)
+T489	NCBITaxon 10874 10878	mice
+#489	AnnotatorNotes T489	NCBITaxon:10088 (Mus)
+T490	GO_BP 10926 10936	hair cycle
+#490	AnnotatorNotes T490	GO:0042633 (hair cycle)
+T491	italic 11031 11043	XpdTTD/†XPCS
+#491	AnnotatorNotes T491	italic (null)
+T492	sup 11034 11043	TTD/†XPCS
+#492	AnnotatorNotes T492	sup (null)
+T493	NCBITaxon 11044 11048	mice
+#493	AnnotatorNotes T493	NCBITaxon:10088 (Mus)
+T494	GO_BP 11096 11106	hair cycle
+#494	AnnotatorNotes T494	GO:0042633 (hair cycle)
+T495	CHEBI 11158 11166	electron
+#495	AnnotatorNotes T495	CHEBI:10545 (electron)
+T496	italic 11190 11202	XpdTTD/†XPCS
+#496	AnnotatorNotes T496	italic (null)
+T497	sup 11193 11202	TTD/†XPCS
+#497	AnnotatorNotes T497	sup (null)
+T498	CHEBI 11343 11353	Amino acid
+#498	AnnotatorNotes T498	CHEBI:33708 (amino-acid residue)
+T499	SO 11343 11353	Amino acid
+#499	AnnotatorNotes T499	SO:0001237 (amino_acid)
+T500	CHEBI 11343 11348	Amino
+#500	AnnotatorNotes T500	CHEBI:46882 (amino group)
+T501	CHEBI 11343 11348	Amino
+#501	AnnotatorNotes T501	CHEBI:32952 (amines)
+T502	CHEBI 11349 11353	acid
+#502	AnnotatorNotes T502	CHEBI:37527 (acid)
+T503	CHEBI 11378 11386	cysteine
+#503	AnnotatorNotes T503	CHEBI:32460 (cysteine residue)
+T504	SO 11378 11386	cysteine
+#504	AnnotatorNotes T504	SO:0001447 (cysteine)
+T505	italic 11413 11425	XpdTTD/†XPCS
+#505	AnnotatorNotes T505	italic (null)
+T506	sup 11416 11425	TTD/†XPCS
+#506	AnnotatorNotes T506	sup (null)
+T507	NCBITaxon 11426 11430	mice
+#507	AnnotatorNotes T507	NCBITaxon:10088 (Mus)
+T508	italic 11465 11475	XpdTTD/TTD
+#508	AnnotatorNotes T508	italic (null)
+T509	sup 11468 11475	TTD/TTD
+#509	AnnotatorNotes T509	sup (null)
+T510	NCBITaxon 11476 11483	animals
+#510	AnnotatorNotes T510	NCBITaxon:33208 (Metazoa)
+T511	independent_continuant 11508 11510	wt
+#511	AnnotatorNotes T511	independent_continuant
+T512	SO 11508 11510	wt
+#512	AnnotatorNotes T512	SO:0000817 (wild_type)
+T513	italic 11546 11557	(XpdTTD/KO)
+#513	AnnotatorNotes T513	italic (null)
+T514	sup 11550 11556	TTD/KO
+#514	AnnotatorNotes T514	sup (null)
+T515	italic 11656 11666	XpdTTD/TTD
+#515	AnnotatorNotes T515	italic (null)
+T516	sup 11659 11666	TTD/TTD
+#516	AnnotatorNotes T516	sup (null)
+T517	NCBITaxon 11667 11671	mice
+#517	AnnotatorNotes T517	NCBITaxon:10088 (Mus)
+T518	GO_BP 11733 11746	Developmental
+#518	AnnotatorNotes T518	GO:0032502 (developmental process)
+T519	italic 11783 11795	XpdTTD/†XPCS
+#519	AnnotatorNotes T519	italic (null)
+T520	sup 11786 11795	TTD/†XPCS
+#520	AnnotatorNotes T520	sup (null)
+T521	NCBITaxon 11796 11800	Mice
+#521	AnnotatorNotes T521	NCBITaxon:10088 (Mus)
+T522	italic 11841 11852	XpdTTD/TTD,
+#522	AnnotatorNotes T522	italic (null)
+T523	sup 11844 11851	TTD/TTD
+#523	AnnotatorNotes T523	sup (null)
+T524	italic 11875 11888	XpdTTD/†XPCS,
+#524	AnnotatorNotes T524	italic (null)
+T525	sup 11878 11887	TTD/†XPCS
+#525	AnnotatorNotes T525	sup (null)
+T526	SO 11893 11895	wt
+#526	AnnotatorNotes T526	SO:0000817 (wild_type)
+T527	NCBITaxon 11896 11900	mice
+#527	AnnotatorNotes T527	NCBITaxon:10088 (Mus)
+T528	italic 11985 12010	XpdTTD/TTD, XpdTTD/†XPCS,
+#528	AnnotatorNotes T528	italic (null)
+T529	sup 11988 11995	TTD/TTD
+#529	AnnotatorNotes T529	sup (null)
+T530	sup 12000 12009	TTD/†XPCS
+#530	AnnotatorNotes T530	sup (null)
+T531	SO 12015 12017	wt
+#531	AnnotatorNotes T531	SO:0000817 (wild_type)
+T532	NCBITaxon 12018 12022	mice
+#532	AnnotatorNotes T532	NCBITaxon:10088 (Mus)
+T533	italic 12254 12266	XpdTTD/†XPCS
+#533	AnnotatorNotes T533	italic (null)
+T534	sup 12257 12266	TTD/†XPCS
+#534	AnnotatorNotes T534	sup (null)
+T535	SO 12271 12273	wt
+#535	AnnotatorNotes T535	SO:0000817 (wild_type)
+T536	NCBITaxon 12274 12278	mice
+#536	AnnotatorNotes T536	NCBITaxon:10088 (Mus)
+T537	CHEBI 12305 12313	Cysteine
+#537	AnnotatorNotes T537	CHEBI:32460 (cysteine residue)
+T538	SO 12305 12313	Cysteine
+#538	AnnotatorNotes T538	SO:0001447 (cysteine)
+T539	SO 12335 12337	wt
+#539	AnnotatorNotes T539	SO:0000817 (wild_type)
+T540	italic 12339 12350	XpdTTD/TTD,
+#540	AnnotatorNotes T540	italic (null)
+T541	sup 12342 12349	TTD/TTD
+#541	AnnotatorNotes T541	sup (null)
+T542	italic 12355 12367	XpdTTD/†XPCS
+#542	AnnotatorNotes T542	italic (null)
+T543	sup 12358 12367	TTD/†XPCS
+#543	AnnotatorNotes T543	sup (null)
+T544	NCBITaxon 12368 12372	mice
+#544	AnnotatorNotes T544	NCBITaxon:10088 (Mus)
+T545	italic 12378 12379	p
+#545	AnnotatorNotes T545	italic (null)
+T546	SO 12428 12435	mutants
+#546	AnnotatorNotes T546	SO:0001059 (sequence_alteration)
+T547	independent_continuant 12428 12435	mutants
+#547	AnnotatorNotes T547	independent_continuant
+T548	independent_continuant 12440 12442	wt
+#548	AnnotatorNotes T548	independent_continuant
+T549	SO 12440 12442	wt
+#549	AnnotatorNotes T549	SO:0000817 (wild_type)
+T550	italic 12463 12473	XpdTTD/TTD
+#550	AnnotatorNotes T550	italic (null)
+T551	sup 12466 12473	TTD/TTD
+#551	AnnotatorNotes T551	sup (null)
+T552	italic 12478 12490	XpdTTD/†XPCS
+#552	AnnotatorNotes T552	italic (null)
+T553	sup 12481 12490	TTD/†XPCS
+#553	AnnotatorNotes T553	sup (null)
+T554	NCBITaxon 12491 12495	mice
+#554	AnnotatorNotes T554	NCBITaxon:10088 (Mus)
+T555	italic 12588 12598	XpdTTD/TTD
+#555	AnnotatorNotes T555	italic (null)
+T556	sup 12591 12598	TTD/TTD
+#556	AnnotatorNotes T556	sup (null)
+T557	italic 12603 12615	XpdTTD/†XPCS
+#557	AnnotatorNotes T557	italic (null)
+T558	sup 12606 12615	TTD/†XPCS
+#558	AnnotatorNotes T558	sup (null)
+T559	NCBITaxon 12616 12620	mice
+#559	AnnotatorNotes T559	NCBITaxon:10088 (Mus)
+T560	italic 12626 12627	p
+#560	AnnotatorNotes T560	italic (null)
+T561	SO 12691 12693	wt
+#561	AnnotatorNotes T561	SO:0000817 (wild_type)
+T562	independent_continuant 12691 12693	wt
+#562	AnnotatorNotes T562	independent_continuant
+T563	GO_BP 12741 12751	developing
+#563	AnnotatorNotes T563	GO:0032502 (developmental process)
+T564	italic 12752 12762	XpdTTD/TTD
+#564	AnnotatorNotes T564	italic (null)
+T565	sup 12755 12762	TTD/TTD
+#565	AnnotatorNotes T565	sup (null)
+T566	italic 12767 12779	XpdTTD/†XPCS
+#566	AnnotatorNotes T566	italic (null)
+T567	sup 12770 12779	TTD/†XPCS
+#567	AnnotatorNotes T567	sup (null)
+T568	NCBITaxon 12780 12784	mice
+#568	AnnotatorNotes T568	NCBITaxon:10088 (Mus)
+T569	SO 12860 12862	wt
+#569	AnnotatorNotes T569	SO:0000817 (wild_type)
+T570	GO_CC 13038 13047	nucleated
+#570	AnnotatorNotes T570	GO:0005634 (nucleus)
+T571	CL 13048 13053	cells
+#571	AnnotatorNotes T571	CL:0000000 (cell)
+T572	GO_CC 13048 13053	cells
+#572	AnnotatorNotes T572	GO:0005623 (cell)
+T573	italic 13248 13260	XpdTTD/†XPCS
+#573	AnnotatorNotes T573	italic (null)
+T574	sup 13251 13260	TTD/†XPCS
+#574	AnnotatorNotes T574	sup (null)
+T575	NCBITaxon 13261 13265	mice
+#575	AnnotatorNotes T575	NCBITaxon:10088 (Mus)
+T576	GO_BP 13370 13383	developmental
+#576	AnnotatorNotes T576	GO:0032502 (developmental process)
+T577	italic 13431 13441	XpdTTD/TTD
+#577	AnnotatorNotes T577	italic (null)
+T578	sup 13434 13441	TTD/TTD
+#578	AnnotatorNotes T578	sup (null)
+T579	NCBITaxon 13442 13446	mice
+#579	AnnotatorNotes T579	NCBITaxon:10088 (Mus)
+T580	italic 13505 13517	XpdTTD/†XPCS
+#580	AnnotatorNotes T580	italic (null)
+T581	sup 13508 13517	TTD/†XPCS
+#581	AnnotatorNotes T581	sup (null)
+T582	NCBITaxon 13518 13522	mice
+#582	AnnotatorNotes T582	NCBITaxon:10088 (Mus)
+T583	NCBITaxon 13580 13584	Mice
+#583	AnnotatorNotes T583	NCBITaxon:10088 (Mus)
+T584	GO_BP 13599 13605	Lethal
+#584	AnnotatorNotes T584	GO:0016265 (death)
+T585	italic 13606 13609	Xpd
+#585	AnnotatorNotes T585	italic (null)
+T586	EntrezGene 13606 13609	Xpd
+#586	AnnotatorNotes T586	EG:13871
+T587	PR 13606 13609	Xpd
+#587	AnnotatorNotes T587	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T588	SO 13610 13617	Alleles
+#588	AnnotatorNotes T588	SO:0001023 (allele)
+T589	NCBITaxon 13694 13699	mouse
+#589	AnnotatorNotes T589	NCBITaxon:10088 (Mus)
+T590	GO_BP 13785 13791	ageing
+#590	AnnotatorNotes T590	GO:0007568 (aging)
+T591	NCBITaxon 13836 13840	mice
+#591	AnnotatorNotes T591	NCBITaxon:10088 (Mus)
+T592	italic 13861 13871	XpdTTD/TTD
+#592	AnnotatorNotes T592	italic (null)
+T593	sup 13864 13871	TTD/TTD
+#593	AnnotatorNotes T593	sup (null)
+T594	NCBITaxon 13872 13879	animals
+#594	AnnotatorNotes T594	NCBITaxon:33208 (Metazoa)
+T595	CHEBI 13898 13905	mineral
+#595	AnnotatorNotes T595	CHEBI:46662 (minerals)
+T596	italic 14035 14047	XpdTTD/†XPCS
+#596	AnnotatorNotes T596	italic (null)
+T597	sup 14038 14047	TTD/†XPCS
+#597	AnnotatorNotes T597	sup (null)
+T598	NCBITaxon 14048 14052	mice
+#598	AnnotatorNotes T598	NCBITaxon:10088 (Mus)
+T599	SO 14072 14074	wt
+#599	AnnotatorNotes T599	SO:0000817 (wild_type)
+T600	independent_continuant 14072 14074	wt
+#600	AnnotatorNotes T600	independent_continuant
+T601	italic 14137 14147	XpdTTD/TTD
+#601	AnnotatorNotes T601	italic (null)
+T602	sup 14140 14147	TTD/TTD
+#602	AnnotatorNotes T602	sup (null)
+T603	NCBITaxon 14148 14152	mice
+#603	AnnotatorNotes T603	NCBITaxon:10088 (Mus)
+T604	SO 14185 14187	wt
+#604	AnnotatorNotes T604	SO:0000817 (wild_type)
+T605	NCBITaxon 14188 14195	animals
+#605	AnnotatorNotes T605	NCBITaxon:33208 (Metazoa)
+T606	italic 14249 14261	XpdTTD/†XPCS
+#606	AnnotatorNotes T606	italic (null)
+T607	sup 14252 14261	TTD/†XPCS
+#607	AnnotatorNotes T607	sup (null)
+T608	NCBITaxon 14262 14266	mice
+#608	AnnotatorNotes T608	NCBITaxon:10088 (Mus)
+T609	italic 14462 14474	XpdTTD/†XPCS
+#609	AnnotatorNotes T609	italic (null)
+T610	sup 14465 14474	TTD/†XPCS
+#610	AnnotatorNotes T610	sup (null)
+T611	NCBITaxon 14475 14479	mice
+#611	AnnotatorNotes T611	NCBITaxon:10088 (Mus)
+T612	italic 14574 14584	XpdTTD/TTD
+#612	AnnotatorNotes T612	italic (null)
+T613	sup 14577 14584	TTD/TTD
+#613	AnnotatorNotes T613	sup (null)
+T614	NCBITaxon 14585 14589	mice
+#614	AnnotatorNotes T614	NCBITaxon:10088 (Mus)
+T615	italic 14691 14704	Xpd TTD/†XPCS
+#615	AnnotatorNotes T615	italic (null)
+T616	PR 14691 14694	Xpd
+#616	AnnotatorNotes T616	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T617	sup 14694 14704	 TTD/†XPCS
+#617	AnnotatorNotes T617	sup (null)
+T618	NCBITaxon 14705 14709	Mice
+#618	AnnotatorNotes T618	NCBITaxon:10088 (Mus)
+T619	SO 14740 14742	wt
+#619	AnnotatorNotes T619	SO:0000817 (wild_type)
+T620	italic 14766 14779	XpdTTD/†XPCS,
+#620	AnnotatorNotes T620	italic (null)
+T621	sup 14769 14778	TTD/†XPCS
+#621	AnnotatorNotes T621	sup (null)
+T622	italic 14795 14805	XpdTTD/TTD
+#622	AnnotatorNotes T622	italic (null)
+T623	sup 14798 14805	TTD/TTD
+#623	AnnotatorNotes T623	sup (null)
+T624	NCBITaxon 14806 14810	mice
+#624	AnnotatorNotes T624	NCBITaxon:10088 (Mus)
+T625	italic 14872 14882	XpdTTD/TTD
+#625	AnnotatorNotes T625	italic (null)
+T626	sup 14875 14882	TTD/TTD
+#626	AnnotatorNotes T626	sup (null)
+T627	NCBITaxon 14883 14888	mouse
+#627	AnnotatorNotes T627	NCBITaxon:10088 (Mus)
+T628	SO 14926 14928	wt
+#628	AnnotatorNotes T628	SO:0000817 (wild_type)
+T629	italic 14933 14945	XpdTTD/†XPCS
+#629	AnnotatorNotes T629	italic (null)
+T630	sup 14936 14945	TTD/†XPCS
+#630	AnnotatorNotes T630	sup (null)
+T631	NCBITaxon 14946 14950	mice
+#631	AnnotatorNotes T631	NCBITaxon:10088 (Mus)
+T632	SO 14987 14989	wt
+#632	AnnotatorNotes T632	SO:0000817 (wild_type)
+T633	italic 14991 15004	XpdTTD/†XPCS,
+#633	AnnotatorNotes T633	italic (null)
+T634	sup 14994 15003	TTD/†XPCS
+#634	AnnotatorNotes T634	sup (null)
+T635	italic 15009 15019	XpdTTD/TTD
+#635	AnnotatorNotes T635	italic (null)
+T636	sup 15012 15019	TTD/TTD
+#636	AnnotatorNotes T636	sup (null)
+T637	NCBITaxon 15020 15024	mice
+#637	AnnotatorNotes T637	NCBITaxon:10088 (Mus)
+T638	GO_BP 15026 15032	Ageing
+#638	AnnotatorNotes T638	GO:0007568 (aging)
+T639	italic 15033 15043	XpdTTD/TTD
+#639	AnnotatorNotes T639	italic (null)
+T640	sup 15036 15043	TTD/TTD
+#640	AnnotatorNotes T640	sup (null)
+T641	NCBITaxon 15044 15048	mice
+#641	AnnotatorNotes T641	NCBITaxon:10088 (Mus)
+T642	CHEBI 15121 15128	mineral
+#642	AnnotatorNotes T642	CHEBI:46662 (minerals)
+T643	italic 15278 15293	XpdTTD / † XPCS
+#643	AnnotatorNotes T643	italic (null)
+T644	sup 15281 15293	TTD / † XPCS
+#644	AnnotatorNotes T644	sup (null)
+T645	NCBITaxon 15294 15299	mouse
+#645	AnnotatorNotes T645	NCBITaxon:10088 (Mus)
+T646	CHEBI 15338 15345	mineral
+#646	AnnotatorNotes T646	CHEBI:46662 (minerals)
+T647	SO 15392 15394	wt
+#647	AnnotatorNotes T647	SO:0000817 (wild_type)
+T648	italic 15396 15397	n
+#648	AnnotatorNotes T648	italic (null)
+T649	italic 15404 15416	XpdTTD/†XPCS
+#649	AnnotatorNotes T649	italic (null)
+T650	sup 15407 15416	TTD/†XPCS
+#650	AnnotatorNotes T650	sup (null)
+T651	italic 15418 15419	n
+#651	AnnotatorNotes T651	italic (null)
+T652	italic 15430 15440	XpdTTD/TTD
+#652	AnnotatorNotes T652	italic (null)
+T653	sup 15433 15440	TTD/TTD
+#653	AnnotatorNotes T653	sup (null)
+T654	italic 15442 15443	n
+#654	AnnotatorNotes T654	italic (null)
+T655	NCBITaxon 15449 15453	mice
+#655	AnnotatorNotes T655	NCBITaxon:10088 (Mus)
+T656	italic 15459 15460	p
+#656	AnnotatorNotes T656	italic (null)
+T657	italic 15524 15534	XpdTTD/TTD
+#657	AnnotatorNotes T657	italic (null)
+T658	sup 15527 15534	TTD/TTD
+#658	AnnotatorNotes T658	sup (null)
+T659	italic 15657 15667	XpdTTD/TTD
+#659	AnnotatorNotes T659	italic (null)
+T660	sup 15660 15667	TTD/TTD
+#660	AnnotatorNotes T660	sup (null)
+T661	NCBITaxon 15668 15672	mice
+#661	AnnotatorNotes T661	NCBITaxon:10088 (Mus)
+T662	italic 15709 15723	XpdTTD / †XPCS
+#662	AnnotatorNotes T662	italic (null)
+T663	sup 15712 15723	TTD / †XPCS
+#663	AnnotatorNotes T663	sup (null)
+T664	NCBITaxon 15724 15728	mice
+#664	AnnotatorNotes T664	NCBITaxon:10088 (Mus)
+T665	SO 15762 15764	wt
+#665	AnnotatorNotes T665	SO:0000817 (wild_type)
+T666	italic 15769 15779	XpdTTD/TTD
+#666	AnnotatorNotes T666	italic (null)
+T667	sup 15772 15779	TTD/TTD
+#667	AnnotatorNotes T667	sup (null)
+T668	SO 15796 15798	wt
+#668	AnnotatorNotes T668	SO:0000817 (wild_type)
+T669	italic 15803 15815	XpdTTD/†XPCS
+#669	AnnotatorNotes T669	italic (null)
+T670	sup 15806 15815	TTD/†XPCS
+#670	AnnotatorNotes T670	sup (null)
+T671	NCBITaxon 15816 15820	mice
+#671	AnnotatorNotes T671	NCBITaxon:10088 (Mus)
+T672	italic 15931 15934	Xpd
+#672	AnnotatorNotes T672	italic (null)
+T673	PR 15931 15934	Xpd
+#673	AnnotatorNotes T673	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T674	EntrezGene 15931 15934	Xpd
+#674	AnnotatorNotes T674	EG:13871
+T675	NCBITaxon 15956 15960	Mice
+#675	AnnotatorNotes T675	NCBITaxon:10088 (Mus)
+T676	CL 15965 15970	Cells
+#676	AnnotatorNotes T676	CL:0000000 (cell)
+T677	GO_CC 15965 15970	Cells
+#677	AnnotatorNotes T677	GO:0005623 (cell)
+T678	GO_BP 16008 16014	lethal
+#678	AnnotatorNotes T678	GO:0016265 (death)
+T679	italic 16015 16023	Xpd†XPCS
+#679	AnnotatorNotes T679	italic (null)
+T680	EntrezGene 16015 16018	Xpd
+#680	AnnotatorNotes T680	EG:13871
+T681	PR 16015 16018	Xpd
+#681	AnnotatorNotes T681	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T682	sup 16018 16023	†XPCS
+#682	AnnotatorNotes T682	sup (null)
+T683	SO 16024 16030	allele
+#683	AnnotatorNotes T683	SO:0001023 (allele)
+T684	italic 16100 16106	XpdTTD
+#684	AnnotatorNotes T684	italic (null)
+T685	sup 16103 16106	TTD
+#685	AnnotatorNotes T685	sup (null)
+T686	SO 16107 16113	allele
+#686	AnnotatorNotes T686	SO:0001023 (allele)
+T687	GO_BP 16118 16127	generated
+#687	AnnotatorNotes T687	GO:0000003 (reproduction)
+T688	italic 16150 16160	XpdTTD/†XP
+#688	AnnotatorNotes T688	italic (null)
+T689	sup 16153 16160	TTD/†XP
+#689	AnnotatorNotes T689	sup (null)
+T690	NCBITaxon 16161 16165	mice
+#690	AnnotatorNotes T690	NCBITaxon:10088 (Mus)
+T691	NCBITaxon 16209 16216	animals
+#691	AnnotatorNotes T691	NCBITaxon:33208 (Metazoa)
+T692	italic 16233 16242	Xpd †XPCS
+#692	AnnotatorNotes T692	italic (null)
+T693	EntrezGene 16233 16236	Xpd
+#693	AnnotatorNotes T693	EG:13871
+T694	PR 16233 16236	Xpd
+#694	AnnotatorNotes T694	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T695	sup 16236 16242	 †XPCS
+#695	AnnotatorNotes T695	sup (null)
+T696	SO 16243 16249	allele
+#696	AnnotatorNotes T696	SO:0001023 (allele)
+T697	GO_BP 16266 16272	lethal
+#697	AnnotatorNotes T697	GO:0016265 (death)
+T698	italic 16273 16280	Xpd †XP
+#698	AnnotatorNotes T698	italic (null)
+T699	EntrezGene 16273 16276	Xpd
+#699	AnnotatorNotes T699	EG:13871
+T700	PR 16273 16276	Xpd
+#700	AnnotatorNotes T700	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T701	sup 16276 16280	 †XP
+#701	AnnotatorNotes T701	sup (null)
+T702	SO 16281 16287	allele
+#702	AnnotatorNotes T702	SO:0001023 (allele)
+T703	CHEBI 16402 16410	cysteine
+#703	AnnotatorNotes T703	CHEBI:32460 (cysteine residue)
+T704	SO 16402 16410	cysteine
+#704	AnnotatorNotes T704	SO:0001447 (cysteine)
+T705	CHEBI 16420 16428	cysteine
+#705	AnnotatorNotes T705	CHEBI:32460 (cysteine residue)
+T706	SO 16420 16428	cysteine
+#706	AnnotatorNotes T706	SO:0001447 (cysteine)
+T707	SO 16472 16474	wt
+#707	AnnotatorNotes T707	SO:0000817 (wild_type)
+T708	independent_continuant 16472 16474	wt
+#708	AnnotatorNotes T708	independent_continuant
+T709	italic 16477 16478	p
+#709	AnnotatorNotes T709	italic (null)
+T710	GO_BP 16499 16505	ageing
+#710	AnnotatorNotes T710	GO:0007568 (aging)
+T711	SO 16581 16583	wt
+#711	AnnotatorNotes T711	SO:0000817 (wild_type)
+T712	independent_continuant 16581 16583	wt
+#712	AnnotatorNotes T712	independent_continuant
+T713	SO 16611 16613	wt
+#713	AnnotatorNotes T713	SO:0000817 (wild_type)
+T714	independent_continuant 16611 16613	wt
+#714	AnnotatorNotes T714	independent_continuant
+T715	SO 16721 16728	alleles
+#715	AnnotatorNotes T715	SO:0001023 (allele)
+T716	CHEBI 16874 16883	Molecular
+#716	AnnotatorNotes T716	CHEBI:23367 (molecular entity)
+T717	CL 16944 16952	cellular
+#717	AnnotatorNotes T717	CL:0000000 (cell)
+T718	GO_CC 16944 16952	cellular
+#718	AnnotatorNotes T718	GO:0005623 (cell)
+T719	SO 16982 16985	DNA
+#719	AnnotatorNotes T719	SO:0000352 (DNA)
+T720	GO_BP 16986 16995	synthesis
+#720	AnnotatorNotes T720	GO:0009058 (biosynthetic process)
+T721	GO_BP 17039 17052	RNA synthesis
+#721	AnnotatorNotes T721	GO:0032774 (RNA biosynthetic process)
+T722	SO 17039 17042	RNA
+#722	AnnotatorNotes T722	SO:0000356 (RNA)
+T723	GO_BP 17121 17124	NER
+#723	AnnotatorNotes T723	GO:0006289 (nucleotide-excision repair)
+T724	SO 17145 17151	genome
+#724	AnnotatorNotes T724	SO:0001026 (genome)
+T725	GO_BP 17152 17155	NER
+#725	AnnotatorNotes T725	GO:0006289 (nucleotide-excision repair)
+T726	GO_BP 17160 17185	transcription-coupled NER
+#726	AnnotatorNotes T726	GO:0006283 (transcription-coupled nucleotide-excision repair)
+T727	GO_BP 17160 17173	transcription
+#727	AnnotatorNotes T727	GO:0006350 (transcription)
+T728	GO_BP 17197 17200	NER
+#728	AnnotatorNotes T728	GO:0006289 (nucleotide-excision repair)
+T729	GO_BP 17248 17262	response to UV
+#729	AnnotatorNotes T729	GO:0009411 (response to UV)
+T730	italic 17411 17421	XpdTTD/TTD
+#730	AnnotatorNotes T730	italic (null)
+T731	sup 17414 17421	TTD/TTD
+#731	AnnotatorNotes T731	sup (null)
+T732	italic 17426 17435	XpdTTD/KO
+#732	AnnotatorNotes T732	italic (null)
+T733	sup 17429 17435	TTD/KO
+#733	AnnotatorNotes T733	sup (null)
+T734	NCBITaxon 17436 17443	animals
+#734	AnnotatorNotes T734	NCBITaxon:33208 (Metazoa)
+T735	italic 17468 17474	XpdTTD
+#735	AnnotatorNotes T735	italic (null)
+T736	sup 17471 17474	TTD
+#736	AnnotatorNotes T736	sup (null)
+T737	CL 17556 17564	cellular
+#737	AnnotatorNotes T737	CL:0000000 (cell)
+T738	GO_CC 17556 17564	cellular
+#738	AnnotatorNotes T738	GO:0005623 (cell)
+T739	CL 17591 17602	fibroblasts
+#739	AnnotatorNotes T739	CL:0000057 (fibroblast)
+T740	NCBITaxon 17678 17686	organism
+#740	AnnotatorNotes T740	NCBITaxon:1 (root)
+T741	italic 17688 17697	XpdTTD/KO
+#741	AnnotatorNotes T741	italic (null)
+T742	sup 17691 17697	TTD/KO
+#742	AnnotatorNotes T742	sup (null)
+T743	CL 17709 17714	cells
+#743	AnnotatorNotes T743	CL:0000000 (cell)
+T744	GO_CC 17709 17714	cells
+#744	AnnotatorNotes T744	GO:0005623 (cell)
+T745	GO_BP 17770 17809	activity of compound heterozygous cells
+#745	AnnotatorNotes T745	"activity of .. cells" GO:0009987 (cellular process)
+T746	CL 17804 17809	cells
+#746	AnnotatorNotes T746	CL:0000000 (cell)
+T747	GO_CC 17804 17809	cells
+#747	AnnotatorNotes T747	GO:0005623 (cell)
+T748	italic 17823 17832	XpdTTD/KO
+#748	AnnotatorNotes T748	italic (null)
+T749	sup 17826 17832	TTD/KO
+#749	AnnotatorNotes T749	sup (null)
+T750	CL 17844 17849	cells
+#750	AnnotatorNotes T750	CL:0000000 (cell)
+T751	GO_CC 17844 17849	cells
+#751	AnnotatorNotes T751	GO:0005623 (cell)
+T752	GO_BP 17894 17900	lethal
+#752	AnnotatorNotes T752	GO:0016265 (death)
+T753	italic 17901 17909	Xpd†XPCS
+#753	AnnotatorNotes T753	italic (null)
+T754	EntrezGene 17901 17904	Xpd
+#754	AnnotatorNotes T754	EG:13871
+T755	PR 17901 17904	Xpd
+#755	AnnotatorNotes T755	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T756	sup 17904 17909	†XPCS
+#756	AnnotatorNotes T756	sup (null)
+T757	SO 17910 17916	allele
+#757	AnnotatorNotes T757	SO:0001023 (allele)
+T758	italic 17920 17932	XpdTTD/†XPCS
+#758	AnnotatorNotes T758	italic (null)
+T759	sup 17923 17932	TTD/†XPCS
+#759	AnnotatorNotes T759	sup (null)
+T760	CL 17955 17960	cells
+#760	AnnotatorNotes T760	CL:0000000 (cell)
+T761	GO_CC 17955 17960	cells
+#761	AnnotatorNotes T761	GO:0005623 (cell)
+T762	italic 17991 17997	Xpd†XP
+#762	AnnotatorNotes T762	italic (null)
+T763	EntrezGene 17991 17994	Xpd
+#763	AnnotatorNotes T763	EG:13871
+T764	PR 17991 17994	Xpd
+#764	AnnotatorNotes T764	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T765	sup 17994 17997	†XP
+#765	AnnotatorNotes T765	sup (null)
+T766	SO 17998 18004	allele
+#766	AnnotatorNotes T766	SO:0001023 (allele)
+T767	CL 18043 18051	cellular
+#767	AnnotatorNotes T767	CL:0000000 (cell)
+T768	GO_CC 18043 18051	cellular
+#768	AnnotatorNotes T768	GO:0005623 (cell)
+T769	italic 18130 18138	Xpd†XPCS
+#769	AnnotatorNotes T769	italic (null)
+T770	EntrezGene 18130 18133	Xpd
+#770	AnnotatorNotes T770	EG:13871
+T771	PR 18130 18133	Xpd
+#771	AnnotatorNotes T771	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T772	sup 18133 18138	†XPCS
+#772	AnnotatorNotes T772	sup (null)
+T773	italic 18142 18148	Xpd†XP
+#773	AnnotatorNotes T773	italic (null)
+T774	EntrezGene 18142 18145	Xpd
+#774	AnnotatorNotes T774	EG:13871
+T775	PR 18142 18145	Xpd
+#775	AnnotatorNotes T775	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T776	sup 18145 18148	†XP
+#776	AnnotatorNotes T776	sup (null)
+T777	SO 18149 18156	alleles
+#777	AnnotatorNotes T777	SO:0001023 (allele)
+T778	italic 18178 18183	XPDXP
+#778	AnnotatorNotes T778	italic (null)
+T779	sup 18181 18183	XP
+#779	AnnotatorNotes T779	sup (null)
+T780	sup 18188 18193	R683W
+#780	AnnotatorNotes T780	sup (null)
+T781	italic 18210 18217	XPDXPCS
+#781	AnnotatorNotes T781	italic (null)
+T782	sup 18213 18217	XPCS
+#782	AnnotatorNotes T782	sup (null)
+T783	sup 18222 18227	G602D
+#783	AnnotatorNotes T783	sup (null)
+T784	NCBITaxon 18229 18234	human
+#784	AnnotatorNotes T784	NCBITaxon:9606 (Homo sapiens)
+T785	CL 18235 18240	cells
+#785	AnnotatorNotes T785	CL:0000000 (cell)
+T786	GO_CC 18235 18240	cells
+#786	AnnotatorNotes T786	GO:0005623 (cell)
+T787	CL 18296 18301	cells
+#787	AnnotatorNotes T787	CL:0000000 (cell)
+T788	GO_CC 18296 18301	cells
+#788	AnnotatorNotes T788	GO:0005623 (cell)
+T789	italic 18327 18339	XpdXPCS/XPCS
+#789	AnnotatorNotes T789	italic (null)
+T790	sup 18330 18339	XPCS/XPCS
+#790	AnnotatorNotes T790	sup (null)
+T791	sup 18344 18355	G602D/G602D
+#791	AnnotatorNotes T791	sup (null)
+T792	NCBITaxon 18357 18362	mouse
+#792	AnnotatorNotes T792	NCBITaxon:10088 (Mus)
+T793	italic 18422 18434	XpdTTD/†XPCS
+#793	AnnotatorNotes T793	italic (null)
+T794	sup 18425 18434	TTD/†XPCS
+#794	AnnotatorNotes T794	sup (null)
+T795	italic 18440 18450	XpdTTD/†XP
+#795	AnnotatorNotes T795	italic (null)
+T796	sup 18443 18450	TTD/†XP
+#796	AnnotatorNotes T796	sup (null)
+T797	CL 18452 18457	cells
+#797	AnnotatorNotes T797	CL:0000000 (cell)
+T798	GO_CC 18452 18457	cells
+#798	AnnotatorNotes T798	GO:0005623 (cell)
+T799	SO 18514 18520	mutant
+#799	AnnotatorNotes T799	SO:0001059 (sequence_alteration)
+T800	SO 18521 18527	allele
+#800	AnnotatorNotes T800	SO:0001023 (allele)
+T801	GO_BP 18611 18614	NER
+#801	AnnotatorNotes T801	GO:0006289 (nucleotide-excision repair)
+T802	italic 18639 18648	XpdTTD/KO
+#802	AnnotatorNotes T802	italic (null)
+T803	sup 18642 18648	TTD/KO
+#803	AnnotatorNotes T803	sup (null)
+T804	CL 18649 18654	cells
+#804	AnnotatorNotes T804	CL:0000000 (cell)
+T805	GO_CC 18649 18654	cells
+#805	AnnotatorNotes T805	GO:0005623 (cell)
+T806	italic 18672 18682	XpdTTD/†XP
+#806	AnnotatorNotes T806	italic (null)
+T807	sup 18675 18682	TTD/†XP
+#807	AnnotatorNotes T807	sup (null)
+T808	CL 18683 18688	cells
+#808	AnnotatorNotes T808	CL:0000000 (cell)
+T809	GO_CC 18683 18688	cells
+#809	AnnotatorNotes T809	GO:0005623 (cell)
+T810	SO 18740 18746	mutant
+#810	AnnotatorNotes T810	SO:0001059 (sequence_alteration)
+T811	GO_CC 18747 18752	TFIIH
+#811	AnnotatorNotes T811	GO:0005675 (holo TFIIH complex)
+T812	SO 18776 18787	alterations
+#812	AnnotatorNotes T812	SO:0001059 (sequence_alteration)
+T813	sup 18812 18817	R722W
+#813	AnnotatorNotes T813	sup (null)
+T814	sup 18829 18834	G602D
+#814	AnnotatorNotes T814	sup (null)
+T815	sup 18847 18852	R683W
+#815	AnnotatorNotes T815	sup (null)
+T816	GO_BP 18890 18902	NER reaction
+#816	AnnotatorNotes T816	GO:0006289 (nucleotide-excision repair)
+T817	SO 18932 18938	mutant
+#817	AnnotatorNotes T817	SO:0001059 (sequence_alteration)
+T818	GO_CC 18939 18954	TFIIH complexes
+#818	AnnotatorNotes T818	GO:0005675 (holo TFIIH complex)
+T819	CL 19065 19070	cells
+#819	AnnotatorNotes T819	CL:0000000 (cell)
+T820	GO_CC 19065 19070	cells
+#820	AnnotatorNotes T820	GO:0005623 (cell)
+T821	GO_BP 19133 19139	repair
+#821	AnnotatorNotes T821	GO:0006281 (DNA repair)
+T822	NCBITaxon 19188 19194	animal
+#822	AnnotatorNotes T822	NCBITaxon:33208 (Metazoa)
+T823	GO_CC 19214 19219	TFIIH
+#823	AnnotatorNotes T823	GO:0005675 (holo TFIIH complex)
+T824	EntrezGene 19248 19251	XPD
+#824	AnnotatorNotes T824	EG:13871
+T825	PR 19248 19251	XPD
+#825	AnnotatorNotes T825	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T826	CL 19287 19295	Cellular
+#826	AnnotatorNotes T826	CL:0000000 (cell)
+T827	GO_CC 19287 19295	Cellular
+#827	AnnotatorNotes T827	GO:0005623 (cell)
+T828	italic 19348 19357	XpdTTD/KO
+#828	AnnotatorNotes T828	italic (null)
+T829	sup 19351 19357	TTD/KO
+#829	AnnotatorNotes T829	sup (null)
+T830	italic 19370 19378	Xpd†XPCS
+#830	AnnotatorNotes T830	italic (null)
+T831	EntrezGene 19370 19373	Xpd
+#831	AnnotatorNotes T831	EG:13871
+T832	PR 19370 19373	Xpd
+#832	AnnotatorNotes T832	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T833	sup 19373 19378	†XPCS
+#833	AnnotatorNotes T833	sup (null)
+T834	italic 19383 19389	Xpd†XP
+#834	AnnotatorNotes T834	italic (null)
+T835	EntrezGene 19383 19386	Xpd
+#835	AnnotatorNotes T835	EG:13871
+T836	PR 19383 19386	Xpd
+#836	AnnotatorNotes T836	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T837	sup 19386 19389	†XP
+#837	AnnotatorNotes T837	sup (null)
+T838	SO 19390 19397	alleles
+#838	AnnotatorNotes T838	SO:0001023 (allele)
+T839	italic 19479 19491	XpdXPCS/XPCS
+#839	AnnotatorNotes T839	italic (null)
+T840	sup 19482 19491	XPCS/XPCS
+#840	AnnotatorNotes T840	sup (null)
+T841	CL 19492 19497	cells
+#841	AnnotatorNotes T841	CL:0000000 (cell)
+T842	GO_CC 19492 19497	cells
+#842	AnnotatorNotes T842	GO:0005623 (cell)
+T843	GO_BP 19527 19536	expressed
+#843	AnnotatorNotes T843	GO:0010467 (gene expression)
+T844	SO 19544 19550	allele
+#844	AnnotatorNotes T844	SO:0001023 (allele)
+T845	italic 19551 19560	(XpdXPCS)
+#845	AnnotatorNotes T845	italic (null)
+T846	sup 19555 19559	XPCS
+#846	AnnotatorNotes T846	sup (null)
+T847	CL 19665 19669	cell
+#847	AnnotatorNotes T847	CL:0000000 (cell)
+T848	GO_CC 19665 19669	cell
+#848	AnnotatorNotes T848	GO:0005623 (cell)
+T849	SO 19680 19688	genotype
+#849	AnnotatorNotes T849	SO:0001027 (genotype)
+T850	SO 19801 19807	genome
+#850	AnnotatorNotes T850	SO:0001026 (genome)
+T851	GO_BP 19808 19814	repair
+#851	AnnotatorNotes T851	GO:0006281 (DNA repair)
+T852	italic 19839 19840	n
+#852	AnnotatorNotes T852	italic (null)
+T853	italic 19846 19861	(XpdTTD/TTD), n
+#853	AnnotatorNotes T853	italic (null)
+T854	sup 19850 19857	TTD/TTD
+#854	AnnotatorNotes T854	sup (null)
+T855	italic 19866 19880	(XpdTTD/KO), n
+#855	AnnotatorNotes T855	italic (null)
+T856	sup 19870 19876	TTD/KO
+#856	AnnotatorNotes T856	sup (null)
+T857	italic 19885 19898	(XpdTTD/†XPCS
+#857	AnnotatorNotes T857	italic (null)
+T858	sup 19889 19898	TTD/†XPCS
+#858	AnnotatorNotes T858	sup (null)
+T859	italic 19898 19899	)
+#859	AnnotatorNotes T859	italic (null)
+T860	italic 19901 19902	n
+#860	AnnotatorNotes T860	italic (null)
+T861	italic 19907 19918	(XpdTTD/†XP
+#861	AnnotatorNotes T861	italic (null)
+T862	sup 19911 19918	TTD/†XP
+#862	AnnotatorNotes T862	sup (null)
+T863	italic 19918 19920	);
+#863	AnnotatorNotes T863	italic (null)
+T864	CL 19925 19929	cell
+#864	AnnotatorNotes T864	CL:0000000 (cell)
+T865	GO_CC 19925 19929	cell
+#865	AnnotatorNotes T865	GO:0005623 (cell)
+T866	SO 19940 19948	genotype
+#866	AnnotatorNotes T866	SO:0001027 (genotype)
+T867	italic 20034 20045	XpdTTD/TTD;
+#867	AnnotatorNotes T867	italic (null)
+T868	sup 20037 20044	TTD/TTD
+#868	AnnotatorNotes T868	sup (null)
+T869	italic 20092 20101	XpdTTD/KO
+#869	AnnotatorNotes T869	italic (null)
+T870	sup 20095 20101	TTD/KO
+#870	AnnotatorNotes T870	sup (null)
+T871	GO_BP 20129 20157	transcription-coupled repair
+#871	AnnotatorNotes T871	GO:0006283 (transcription-coupled nucleotide-excision repair)
+T872	GO_BP 20129 20142	transcription
+#872	AnnotatorNotes T872	GO:0006350 (transcription)
+T873	italic 20204 20205	n
+#873	AnnotatorNotes T873	italic (null)
+T874	italic 20210 20225	(XpdTTD/TTD), n
+#874	AnnotatorNotes T874	italic (null)
+T875	sup 20214 20221	TTD/TTD
+#875	AnnotatorNotes T875	sup (null)
+T876	italic 20230 20244	(XpdTTD/KO), n
+#876	AnnotatorNotes T876	italic (null)
+T877	sup 20234 20240	TTD/KO
+#877	AnnotatorNotes T877	sup (null)
+T878	italic 20249 20262	(XpdTTD/†XPCS
+#878	AnnotatorNotes T878	italic (null)
+T879	sup 20253 20262	TTD/†XPCS
+#879	AnnotatorNotes T879	sup (null)
+T880	italic 20262 20263	)
+#880	AnnotatorNotes T880	italic (null)
+T881	italic 20271 20282	(XpdTTD/†XP
+#881	AnnotatorNotes T881	italic (null)
+T882	sup 20275 20282	TTD/†XP
+#882	AnnotatorNotes T882	sup (null)
+T883	italic 20282 20283	)
+#883	AnnotatorNotes T883	italic (null)
+T884	CL 20289 20293	cell
+#884	AnnotatorNotes T884	CL:0000000 (cell)
+T885	GO_CC 20289 20293	cell
+#885	AnnotatorNotes T885	GO:0005623 (cell)
+T886	SO 20304 20312	genotype
+#886	AnnotatorNotes T886	SO:0001027 (genotype)
+T887	GO_BP 20352 20378	Incision/excision activity
+#887	AnnotatorNotes T887	"Incision .. activity" GO:0033683 (nucleotide-excision repair, DNA incision)
+T888	GO_BP 20361 20378	excision activity
+#888	AnnotatorNotes T888	GO:0000718 (nucleotide-excision repair, DNA damage removal)
+T889	SO 20361 20369	excision
+#889	AnnotatorNotes T889	SO:0000045 (delete)
+T890	SO 20398 20405	altered
+#890	AnnotatorNotes T890	SO:0000041 (sequence_operation)
+T891	GO_CC 20406 20421	TFIIH complexes
+#891	AnnotatorNotes T891	GO:0005675 (holo TFIIH complex)
+T892	GO_BP 20441 20453	NER reaction
+#892	AnnotatorNotes T892	GO:0006289 (nucleotide-excision repair)
+T893	GO_BP 20503 20514	recombinant
+#893	AnnotatorNotes T893	GO:0006310 (DNA recombination)
+T894	GO_CC 20515 20521	TFIIHs
+#894	AnnotatorNotes T894	GO:0005675 (holo TFIIH complex)
+T895	PR 20534 20537	XPD
+#895	AnnotatorNotes T895	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T896	PR 20539 20542	XPB
+#896	AnnotatorNotes T896	PR:000007165 (TFIIH basal transcription factor complex helicase XPB subunit)
+T897	PR 20544 20547	p62
+#897	AnnotatorNotes T897	PR:000008317 (general transcription factor IIH subunit 1)
+T898	PR 20549 20552	p52
+#898	AnnotatorNotes T898	PR:000008320 (general transcription factor IIH subunit 4)
+T899	SO 20554 20557	His
+#899	AnnotatorNotes T899	SO:0001452 (histidine)
+T900	PR 20558 20561	p44
+#900	AnnotatorNotes T900	PR:000008318 (general transcription factor IIH subunit 2)
+T901	PR 20568 20571	p34
+#901	AnnotatorNotes T901	PR:000008319 (general transcription factor IIH subunit 3)
+T902	PR 20573 20577	cdk7
+#902	AnnotatorNotes T902	PR:000005265 (cell division protein kinase 7)
+T903	PR 20579 20587	cyclin H
+#903	AnnotatorNotes T903	PR:000005130 (cyclin-H)
+T904	PR 20589 20593	Mat1
+#904	AnnotatorNotes T904	PR:000010496 (CDK-activating kinase assembly factor MAT1)
+T905	PR 20599 20601	p8
+#905	AnnotatorNotes T905	PR:000008321 (general transcription factor IIH subunit 5)
+T906	GO_BP 20619 20630	recombinant
+#906	AnnotatorNotes T906	GO:0006310 (DNA recombination)
+T907	PR 20631 20634	XPG
+#907	AnnotatorNotes T907	PR:000007167 (DNA repair protein complementing XP-G cells)
+T908	PR 20636 20639	XPF
+#908	AnnotatorNotes T908	PR:000007166 (DNA repair endonuclease XPF)
+T909	PR 20640 20645	ERCC1
+#909	AnnotatorNotes T909	PR:000007163 (DNA excision repair protein ERCC-1)
+T910	PR 20647 20650	XPC
+#910	AnnotatorNotes T910	PR:000017494 (DNA repair protein complementing XP-C cells)
+T911	PR 20651 20657	hHR23B
+#911	AnnotatorNotes T911	PR:000013670 (UV excision repair protein RAD23 B)
+T912	CHEBI 20670 20683	radiolabelled
+#912	AnnotatorNotes T912	CHEBI:35211 (radioactive label)
+T913	SO 20684 20693	synthetic
+#913	AnnotatorNotes T913	SO:0000351 (synthetic_sequence)
+T914	GO_BP 20694 20697	NER
+#914	AnnotatorNotes T914	GO:0006289 (nucleotide-excision repair)
+T915	GO_BP 20713 20721	excision
+#915	AnnotatorNotes T915	GO:0000718 (nucleotide-excision repair, DNA damage removal)
+T916	SO 20713 20721	excision
+#916	AnnotatorNotes T916	SO:0000045 (delete)
+T917	CHEBI 20738 20749	nucleotides
+#917	AnnotatorNotes T917	CHEBI:25613 (nucleotidyl groups)
+T918	SO 20738 20749	nucleotides
+#918	AnnotatorNotes T918	SO:0001236 (base)
+T919	CHEBI 20780 20790	nucleotide
+#919	AnnotatorNotes T919	CHEBI:25613 (nucleotidyl groups)
+T920	SO 20780 20790	nucleotide
+#920	AnnotatorNotes T920	SO:0001236 (base)
+T921	GO_BP 20807 20817	denaturing
+#921	AnnotatorNotes T921	GO:0032508 (DNA duplex unwinding)
+T922	GO_CC 20917 20930	TFIIH complex
+#922	AnnotatorNotes T922	GO:0005675 (holo TFIIH complex)
+T923	SO 20959 20961	wt
+#923	AnnotatorNotes T923	SO:0000817 (wild_type)
+T924	italic 21008 21011	Xpd
+#924	AnnotatorNotes T924	italic (null)
+T925	EntrezGene 21008 21011	Xpd
+#925	AnnotatorNotes T925	EG:13871
+T926	PR 21008 21011	Xpd
+#926	AnnotatorNotes T926	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T927	GO_CC 21040 21045	TFIIH
+#927	AnnotatorNotes T927	GO:0005675 (holo TFIIH complex)
+T928	italic 21060 21071	XpdTTD/TTD,
+#928	AnnotatorNotes T928	italic (null)
+T929	sup 21063 21070	TTD/TTD
+#929	AnnotatorNotes T929	sup (null)
+T930	italic 21083 21093	XpdTTD/KO,
+#930	AnnotatorNotes T930	italic (null)
+T931	sup 21086 21092	TTD/KO
+#931	AnnotatorNotes T931	sup (null)
+T932	italic 21120 21132	XpdTTD/†XPCS
+#932	AnnotatorNotes T932	italic (null)
+T933	sup 21123 21132	TTD/†XPCS
+#933	AnnotatorNotes T933	sup (null)
+T934	italic 21137 21147	XpdTTD/†XP
+#934	AnnotatorNotes T934	italic (null)
+T935	sup 21140 21147	TTD/†XP
+#935	AnnotatorNotes T935	sup (null)
+T936	CL 21148 21153	cells
+#936	AnnotatorNotes T936	CL:0000000 (cell)
+T937	GO_CC 21148 21153	cells
+#937	AnnotatorNotes T937	GO:0005623 (cell)
+T938	EntrezGene 21195 21215	p62 subunit of TFIIH
+#938	AnnotatorNotes T938	EG:14884
+T939	PR 21195 21215	p62 subunit of TFIIH
+#939	AnnotatorNotes T939	PR:000008317 (general transcription factor IIH subunit 1)
+T940	GO_CC 21210 21215	TFIIH
+#940	AnnotatorNotes T940	GO:0005675 (holo TFIIH complex)
+T941	CL 21301 21305	cell
+#941	AnnotatorNotes T941	CL:0000000 (cell)
+T942	GO_CC 21301 21305	cell
+#942	AnnotatorNotes T942	GO:0005623 (cell)
+T943	SO 21337 21339	wt
+#943	AnnotatorNotes T943	SO:0000817 (wild_type)
+T944	CL 21340 21345	cells
+#944	AnnotatorNotes T944	CL:0000000 (cell)
+T945	GO_CC 21340 21345	cells
+#945	AnnotatorNotes T945	GO:0005623 (cell)
+T946	italic 21376 21386	XpdTTD/TTD
+#946	AnnotatorNotes T946	italic (null)
+T947	sup 21379 21386	TTD/TTD
+#947	AnnotatorNotes T947	sup (null)
+T948	CL 21387 21392	cells
+#948	AnnotatorNotes T948	CL:0000000 (cell)
+T949	GO_CC 21387 21392	cells
+#949	AnnotatorNotes T949	GO:0005623 (cell)
+T950	italic 21421 21430	XpdTTD/KO
+#950	AnnotatorNotes T950	italic (null)
+T951	sup 21424 21430	TTD/KO
+#951	AnnotatorNotes T951	sup (null)
+T952	CL 21431 21436	cells
+#952	AnnotatorNotes T952	CL:0000000 (cell)
+T953	GO_CC 21431 21436	cells
+#953	AnnotatorNotes T953	GO:0005623 (cell)
+T954	SO 21461 21463	wt
+#954	AnnotatorNotes T954	SO:0000817 (wild_type)
+T955	CL 21464 21469	cells
+#955	AnnotatorNotes T955	CL:0000000 (cell)
+T956	GO_CC 21464 21469	cells
+#956	AnnotatorNotes T956	GO:0005623 (cell)
+T957	italic 21506 21518	XpdTTD/†XPCS
+#957	AnnotatorNotes T957	italic (null)
+T958	sup 21509 21518	TTD/†XPCS
+#958	AnnotatorNotes T958	sup (null)
+T959	CL 21519 21524	cells
+#959	AnnotatorNotes T959	CL:0000000 (cell)
+T960	GO_CC 21519 21524	cells
+#960	AnnotatorNotes T960	GO:0005623 (cell)
+T961	SO 21554 21556	wt
+#961	AnnotatorNotes T961	SO:0000817 (wild_type)
+T962	CL 21557 21562	cells
+#962	AnnotatorNotes T962	CL:0000000 (cell)
+T963	GO_CC 21557 21562	cells
+#963	AnnotatorNotes T963	GO:0005623 (cell)
+T964	italic 21599 21609	XpdTTD/†XP
+#964	AnnotatorNotes T964	italic (null)
+T965	sup 21602 21609	TTD/†XP
+#965	AnnotatorNotes T965	sup (null)
+T966	CL 21610 21615	cells
+#966	AnnotatorNotes T966	CL:0000000 (cell)
+T967	GO_CC 21610 21615	cells
+#967	AnnotatorNotes T967	GO:0005623 (cell)
+T968	GO_CC 21700 21706	nuclei
+#968	AnnotatorNotes T968	GO:0005634 (nucleus)
+T969	CL 21711 21715	cell
+#969	AnnotatorNotes T969	CL:0000000 (cell)
+T970	GO_CC 21711 21715	cell
+#970	AnnotatorNotes T970	GO:0005623 (cell)
+T971	SO 21745 21753	genotype
+#971	AnnotatorNotes T971	SO:0001027 (genotype)
+T972	CL 21773 21778	cells
+#972	AnnotatorNotes T972	CL:0000000 (cell)
+T973	GO_CC 21773 21778	cells
+#973	AnnotatorNotes T973	GO:0005623 (cell)
+T974	SO 21850 21852	wt
+#974	AnnotatorNotes T974	SO:0000817 (wild_type)
+T975	independent_continuant 21850 21852	wt
+#975	AnnotatorNotes T975	independent_continuant
+T976	italic 21870 21871	p
+#976	AnnotatorNotes T976	italic (null)
+T977	SO 21927 21929	wt
+#977	AnnotatorNotes T977	SO:0000817 (wild_type)
+T978	CL 21948 21952	cell
+#978	AnnotatorNotes T978	CL:0000000 (cell)
+T979	GO_CC 21948 21952	cell
+#979	AnnotatorNotes T979	GO:0005623 (cell)
+T980	italic 22048 22056	Xpd†XPCS
+#980	AnnotatorNotes T980	italic (null)
+T981	EntrezGene 22048 22051	Xpd
+#981	AnnotatorNotes T981	EG:13871
+T982	PR 22048 22051	Xpd
+#982	AnnotatorNotes T982	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T983	sup 22051 22056	†XPCS
+#983	AnnotatorNotes T983	sup (null)
+T984	italic 22061 22067	Xpd†XP
+#984	AnnotatorNotes T984	italic (null)
+T985	EntrezGene 22061 22064	Xpd
+#985	AnnotatorNotes T985	EG:13871
+T986	PR 22061 22064	Xpd
+#986	AnnotatorNotes T986	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T987	sup 22064 22067	†XP
+#987	AnnotatorNotes T987	sup (null)
+T988	SO 22068 22075	alleles
+#988	AnnotatorNotes T988	SO:0001023 (allele)
+T989	CHEBI 22095 22099	mRNA
+#989	AnnotatorNotes T989	CHEBI:33699 (messenger RNA)
+T990	SO 22095 22099	mRNA
+#990	AnnotatorNotes T990	SO:0000234 (mRNA)
+T991	GO_CC 22155 22160	TFIIH
+#991	AnnotatorNotes T991	GO:0005675 (holo TFIIH complex)
+T992	italic 22193 22206	XpdTTD/ †XPCS
+#992	AnnotatorNotes T992	italic (null)
+T993	sup 22196 22206	TTD/ †XPCS
+#993	AnnotatorNotes T993	sup (null)
+T994	italic 22211 22222	XpdTTD/ †XP
+#994	AnnotatorNotes T994	italic (null)
+T995	sup 22214 22222	TTD/ †XP
+#995	AnnotatorNotes T995	sup (null)
+T996	CL 22223 22228	cells
+#996	AnnotatorNotes T996	CL:0000000 (cell)
+T997	GO_CC 22223 22228	cells
+#997	AnnotatorNotes T997	GO:0005623 (cell)
+T998	GO_CC 22333 22338	TFIIH
+#998	AnnotatorNotes T998	GO:0005675 (holo TFIIH complex)
+T999	CL 22357 22368	fibroblasts
+#999	AnnotatorNotes T999	CL:0000057 (fibroblast)
+T1000	SO 22406 22408	wt
+#1000	AnnotatorNotes T1000	SO:0000817 (wild_type)
+T1001	CHEBI 22478 22482	mRNA
+#1001	AnnotatorNotes T1001	CHEBI:33699 (messenger RNA)
+T1002	SO 22478 22482	mRNA
+#1002	AnnotatorNotes T1002	SO:0000234 (mRNA)
+T1003	italic 22492 22498	XpdTTD
+#1003	AnnotatorNotes T1003	italic (null)
+T1004	sup 22495 22498	TTD
+#1004	AnnotatorNotes T1004	sup (null)
+T1005	SO 22499 22505	allele
+#1005	AnnotatorNotes T1005	SO:0001023 (allele)
+T1006	SO 22522 22524	wt
+#1006	AnnotatorNotes T1006	SO:0000817 (wild_type)
+T1007	SO 22525 22531	allele
+#1007	AnnotatorNotes T1007	SO:0001023 (allele)
+T1008	GO_CC 22545 22550	TFIIH
+#1008	AnnotatorNotes T1008	GO:0005675 (holo TFIIH complex)
+T1009	CHEBI 22551 22558	protein
+#1009	AnnotatorNotes T1009	CHEBI:36080 (proteins)
+T1010	NCBITaxon 22597 22602	mouse
+#1010	AnnotatorNotes T1010	NCBITaxon:10088 (Mus)
+T1011	italic 22603 22613	XpdTTD/TTD
+#1011	AnnotatorNotes T1011	italic (null)
+T1012	sup 22606 22613	TTD/TTD
+#1012	AnnotatorNotes T1012	sup (null)
+T1013	CL 22614 22625	fibroblasts
+#1013	AnnotatorNotes T1013	CL:0000057 (fibroblast)
+T1014	NCBITaxon 22681 22686	human
+#1014	AnnotatorNotes T1014	NCBITaxon:9606 (Homo sapiens)
+T1015	SO 22729 22733	gene
+#1015	AnnotatorNotes T1015	SO:0000704 (gene)
+T1016	independent_continuant 22782 22784	wt
+#1016	AnnotatorNotes T1016	independent_continuant
+T1017	SO 22782 22784	wt
+#1017	AnnotatorNotes T1017	SO:0000817 (wild_type)
+T1018	italic 22818 22827	XpdTTD/KO
+#1018	AnnotatorNotes T1018	italic (null)
+T1019	sup 22821 22827	TTD/KO
+#1019	AnnotatorNotes T1019	sup (null)
+T1020	CL 22828 22833	cells
+#1020	AnnotatorNotes T1020	CL:0000000 (cell)
+T1021	GO_CC 22828 22833	cells
+#1021	AnnotatorNotes T1021	GO:0005623 (cell)
+T1022	CHEBI 22855 22859	mRNA
+#1022	AnnotatorNotes T1022	CHEBI:33699 (messenger RNA)
+T1023	SO 22855 22859	mRNA
+#1023	AnnotatorNotes T1023	SO:0000234 (mRNA)
+T1024	GO_BP 22860 22870	expression
+#1024	AnnotatorNotes T1024	GO:0010467 (gene expression)
+T1025	italic 22891 22899	Xpd†XPCS
+#1025	AnnotatorNotes T1025	italic (null)
+T1026	EntrezGene 22891 22894	Xpd
+#1026	AnnotatorNotes T1026	EG:13871
+T1027	PR 22891 22894	Xpd
+#1027	AnnotatorNotes T1027	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1028	sup 22894 22899	†XPCS
+#1028	AnnotatorNotes T1028	sup (null)
+T1029	italic 22908 22914	Xpd†XP
+#1029	AnnotatorNotes T1029	italic (null)
+T1030	EntrezGene 22908 22911	Xpd
+#1030	AnnotatorNotes T1030	EG:13871
+T1031	PR 22908 22911	Xpd
+#1031	AnnotatorNotes T1031	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1032	sup 22911 22914	†XP
+#1032	AnnotatorNotes T1032	sup (null)
+T1033	SO 22915 22921	allele
+#1033	AnnotatorNotes T1033	SO:0001023 (allele)
+T1034	GO_CC 22942 22947	TFIIH
+#1034	AnnotatorNotes T1034	GO:0005675 (holo TFIIH complex)
+T1035	independent_continuant 22961 22963	wt
+#1035	AnnotatorNotes T1035	independent_continuant
+T1036	SO 22961 22963	wt
+#1036	AnnotatorNotes T1036	SO:0000817 (wild_type)
+T1037	italic 22974 22980	XpdTTD
+#1037	AnnotatorNotes T1037	italic (null)
+T1038	sup 22977 22980	TTD
+#1038	AnnotatorNotes T1038	sup (null)
+T1039	CL 23003 23008	cells
+#1039	AnnotatorNotes T1039	CL:0000000 (cell)
+T1040	GO_CC 23003 23008	cells
+#1040	AnnotatorNotes T1040	GO:0005623 (cell)
+T1041	CL 23094 23099	cells
+#1041	AnnotatorNotes T1041	CL:0000000 (cell)
+T1042	GO_CC 23094 23099	cells
+#1042	AnnotatorNotes T1042	GO:0005623 (cell)
+T1043	GO_CC 23204 23209	TFIIH
+#1043	AnnotatorNotes T1043	GO:0005675 (holo TFIIH complex)
+T1044	CHEBI 23338 23342	mRNA
+#1044	AnnotatorNotes T1044	CHEBI:33699 (messenger RNA)
+T1045	SO 23338 23342	mRNA
+#1045	AnnotatorNotes T1045	SO:0000234 (mRNA)
+T1046	GO_BP 23343 23353	expression
+#1046	AnnotatorNotes T1046	GO:0010467 (gene expression)
+T1047	CHEBI 23392 23399	protein
+#1047	AnnotatorNotes T1047	CHEBI:36080 (proteins)
+T1048	sup 23404 23409	G602D
+#1048	AnnotatorNotes T1048	sup (null)
+T1049	italic 23465 23478	XpdTTD/ †XPCS
+#1049	AnnotatorNotes T1049	italic (null)
+T1050	sup 23468 23478	TTD/ †XPCS
+#1050	AnnotatorNotes T1050	sup (null)
+T1051	NCBITaxon 23479 23486	animals
+#1051	AnnotatorNotes T1051	NCBITaxon:33208 (Metazoa)
+T1052	italic 23552 23560	Xpd†XPCS
+#1052	AnnotatorNotes T1052	italic (null)
+T1053	EntrezGene 23552 23555	Xpd
+#1053	AnnotatorNotes T1053	EG:13871
+T1054	PR 23552 23555	Xpd
+#1054	AnnotatorNotes T1054	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1055	sup 23555 23560	†XPCS
+#1055	AnnotatorNotes T1055	sup (null)
+T1056	GO_BP 23561 23571	expression
+#1056	AnnotatorNotes T1056	GO:0010467 (gene expression)
+T1057	italic 23581 23592	XpdTTD/XPCS
+#1057	AnnotatorNotes T1057	italic (null)
+T1058	sup 23584 23592	TTD/XPCS
+#1058	AnnotatorNotes T1058	sup (null)
+T1059	NCBITaxon 23593 23600	animals
+#1059	AnnotatorNotes T1059	NCBITaxon:33208 (Metazoa)
+T1060	SO 23605 23607	wt
+#1060	AnnotatorNotes T1060	SO:0000817 (wild_type)
+T1061	GO_BP 23638 23648	expression
+#1061	AnnotatorNotes T1061	GO:0010467 (gene expression)
+T1062	italic 23672 23679	XpdXPCS
+#1062	AnnotatorNotes T1062	italic (null)
+T1063	sup 23675 23679	XPCS
+#1063	AnnotatorNotes T1063	sup (null)
+T1064	SO 23680 23686	allele
+#1064	AnnotatorNotes T1064	SO:0001023 (allele)
+T1065	GO_BP 23738 23748	expression
+#1065	AnnotatorNotes T1065	GO:0010467 (gene expression)
+T1066	SO 23771 23777	mutant
+#1066	AnnotatorNotes T1066	SO:0001059 (sequence_alteration)
+T1067	SO 23778 23785	alleles
+#1067	AnnotatorNotes T1067	SO:0001023 (allele)
+T1068	italic 23899 23902	Xpd
+#1068	AnnotatorNotes T1068	italic (null)
+T1069	EntrezGene 23899 23902	Xpd
+#1069	AnnotatorNotes T1069	EG:13871
+T1070	PR 23899 23902	Xpd
+#1070	AnnotatorNotes T1070	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1071	SO 23903 23910	alleles
+#1071	AnnotatorNotes T1071	SO:0001023 (allele)
+T1072	GO_CC 23952 23957	TFIIH
+#1072	AnnotatorNotes T1072	GO:0005675 (holo TFIIH complex)
+T1073	NCBITaxon 23970 23974	mice
+#1073	AnnotatorNotes T1073	NCBITaxon:10088 (Mus)
+T1074	CL 23979 23984	cells
+#1074	AnnotatorNotes T1074	CL:0000000 (cell)
+T1075	GO_CC 23979 23984	cells
+#1075	AnnotatorNotes T1075	GO:0005623 (cell)
+T1076	SO 24195 24201	mutant
+#1076	AnnotatorNotes T1076	SO:0001059 (sequence_alteration)
+T1077	SO 24202 24209	alleles
+#1077	AnnotatorNotes T1077	SO:0001023 (allele)
+T1078	SO 24365 24372	genetic
+#1078	AnnotatorNotes T1078	SO:0000704 (gene)
+T1079	SO 24395 24406	genetically
+#1079	AnnotatorNotes T1079	SO:0000704 (gene)
+T1080	NCBITaxon 24415 24424	mammalian
+#1080	AnnotatorNotes T1080	NCBITaxon:40674 (Mammalia)
+T1081	SO 24569 24576	mutated
+#1081	AnnotatorNotes T1081	SO:0000041 (sequence_operation)
+T1082	italic 24577 24580	Xpd
+#1082	AnnotatorNotes T1082	italic (null)
+T1083	PR 24577 24580	Xpd
+#1083	AnnotatorNotes T1083	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1084	EntrezGene 24577 24580	Xpd
+#1084	AnnotatorNotes T1084	EG:13871
+T1085	SO 24581 24588	alleles
+#1085	AnnotatorNotes T1085	SO:0001023 (allele)
+T1086	SO 24669 24675	allele
+#1086	AnnotatorNotes T1086	SO:0001023 (allele)
+T1087	SO 24736 24738	wt
+#1087	AnnotatorNotes T1087	SO:0000817 (wild_type)
+T1088	independent_continuant 24736 24738	wt
+#1088	AnnotatorNotes T1088	independent_continuant
+T1089	NCBITaxon 24814 24819	human
+#1089	AnnotatorNotes T1089	NCBITaxon:9606 (Homo sapiens)
+T1090	italic 24853 24856	Xpd
+#1090	AnnotatorNotes T1090	italic (null)
+T1091	EntrezGene 24853 24856	Xpd
+#1091	AnnotatorNotes T1091	EG:13871
+T1092	PR 24853 24856	Xpd
+#1092	AnnotatorNotes T1092	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1093	SO 24857 24864	alleles
+#1093	AnnotatorNotes T1093	SO:0001023 (allele)
+T1094	independent_continuant 24887 24889	wt
+#1094	AnnotatorNotes T1094	independent_continuant
+T1095	SO 24887 24889	wt
+#1095	AnnotatorNotes T1095	SO:0000817 (wild_type)
+T1096	SO 24975 24982	alleles
+#1096	AnnotatorNotes T1096	SO:0001023 (allele)
+T1097	SO 25035 25042	alleles
+#1097	AnnotatorNotes T1097	SO:0001023 (allele)
+T1098	CHEBI 25106 25114	proteins
+#1098	AnnotatorNotes T1098	CHEBI:36080 (proteins)
+T1099	NCBITaxon 25222 25231	organisms
+#1099	AnnotatorNotes T1099	NCBITaxon:1 (root)
+T1100	NCBITaxon 25242 25248	humans
+#1100	AnnotatorNotes T1100	NCBITaxon:9606 (Homo sapiens)
+T1101	NCBITaxon 25303 25309	animal
+#1101	AnnotatorNotes T1101	NCBITaxon:33208 (Metazoa)
+T1102	italic 25315 25318	Xpd
+#1102	AnnotatorNotes T1102	italic (null)
+T1103	EntrezGene 25315 25318	Xpd
+#1103	AnnotatorNotes T1103	EG:13871
+T1104	PR 25315 25318	Xpd
+#1104	AnnotatorNotes T1104	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1105	SO 25319 25326	allelic
+#1105	AnnotatorNotes T1105	SO:0001023 (allele)
+T1106	italic 25357 25358	A
+#1106	AnnotatorNotes T1106	italic (null)
+T1107	sub 25358 25366	dominant
+#1107	AnnotatorNotes T1107	sub (null)
+T1108	italic 25366 25368	|a
+#1108	AnnotatorNotes T1108	italic (null)
+T1109	sub 25368 25377	recessive
+#1109	AnnotatorNotes T1109	sub (null)
+T1110	italic 25381 25382	A
+#1110	AnnotatorNotes T1110	italic (null)
+T1111	sub 25382 25391	recessive
+#1111	AnnotatorNotes T1111	sub (null)
+T1112	italic 25391 25393	|a
+#1112	AnnotatorNotes T1112	italic (null)
+T1113	sub 25393 25401	dominant
+#1113	AnnotatorNotes T1113	sub (null)
+T1114	SO 25594 25600	mutant
+#1114	AnnotatorNotes T1114	SO:0001059 (sequence_alteration)
+T1115	SO 25601 25608	alleles
+#1115	AnnotatorNotes T1115	SO:0001023 (allele)
+T1116	SO 25640 25642	wt
+#1116	AnnotatorNotes T1116	SO:0000817 (wild_type)
+T1117	independent_continuant 25640 25642	wt
+#1117	AnnotatorNotes T1117	independent_continuant
+T1118	italic 25798 25801	Xpd
+#1118	AnnotatorNotes T1118	italic (null)
+T1119	PR 25798 25801	Xpd
+#1119	AnnotatorNotes T1119	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1120	EntrezGene 25798 25801	Xpd
+#1120	AnnotatorNotes T1120	EG:13871
+T1121	GO_CC 25875 25880	TFIIH
+#1121	AnnotatorNotes T1121	GO:0005675 (holo TFIIH complex)
+T1122	GO_BP 25884 25897	Transcription
+#1122	AnnotatorNotes T1122	GO:0006350 (transcription)
+T1123	GO_BP 25902 25908	Repair
+#1123	AnnotatorNotes T1123	GO:0006281 (DNA repair)
+T1124	EntrezGene 25924 25927	XPD
+#1124	AnnotatorNotes T1124	EG:13871
+T1125	PR 25924 25927	XPD
+#1125	AnnotatorNotes T1125	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1126	italic 25990 25996	XpdTTD
+#1126	AnnotatorNotes T1126	italic (null)
+T1127	sup 25993 25996	TTD
+#1127	AnnotatorNotes T1127	sup (null)
+T1128	GO_BP 26015 26021	lethal
+#1128	AnnotatorNotes T1128	GO:0016265 (death)
+T1129	italic 26022 26030	Xpd†XPCS
+#1129	AnnotatorNotes T1129	italic (null)
+T1130	EntrezGene 26022 26025	Xpd
+#1130	AnnotatorNotes T1130	EG:13871
+T1131	PR 26022 26025	Xpd
+#1131	AnnotatorNotes T1131	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1132	sup 26025 26030	†XPCS
+#1132	AnnotatorNotes T1132	sup (null)
+T1133	italic 26035 26041	Xpd†XP
+#1133	AnnotatorNotes T1133	italic (null)
+T1134	EntrezGene 26035 26038	Xpd
+#1134	AnnotatorNotes T1134	EG:13871
+T1135	PR 26035 26038	Xpd
+#1135	AnnotatorNotes T1135	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1136	sup 26038 26041	†XP
+#1136	AnnotatorNotes T1136	sup (null)
+T1137	SO 26042 26049	alleles
+#1137	AnnotatorNotes T1137	SO:0001023 (allele)
+T1138	GO_BP 26069 26082	transcription
+#1138	AnnotatorNotes T1138	GO:0006350 (transcription)
+T1139	NCBITaxon 26119 26127	organism
+#1139	AnnotatorNotes T1139	NCBITaxon:1 (root)
+T1140	GO_BP 26185 26236	differentiation of enucleating skin and blood cells
+#1140	AnnotatorNotes T1140	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T1141	CL 26204 26236	enucleating skin and blood cells
+#1141	AnnotatorNotes T1141	"enucleating .. cells" CL:0000225 (anucleate cell)
+T1142	GO_BP 26204 26215	enucleating
+#1142	AnnotatorNotes T1142	GO:0043131 (enucleation)
+T1143	CL 26225 26236	blood cells
+#1143	AnnotatorNotes T1143	CL:0000081 (blood cell)
+T1144	GO_CC 26231 26236	cells
+#1144	AnnotatorNotes T1144	GO:0005623 (cell)
+T1145	italic 26297 26313	XpdKO, Xpd†XPCS,
+#1145	AnnotatorNotes T1145	italic (null)
+T1146	sup 26300 26302	KO
+#1146	AnnotatorNotes T1146	sup (null)
+T1147	EntrezGene 26304 26307	Xpd
+#1147	AnnotatorNotes T1147	EG:13871
+T1148	PR 26304 26307	Xpd
+#1148	AnnotatorNotes T1148	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1149	sup 26307 26312	†XPCS
+#1149	AnnotatorNotes T1149	sup (null)
+T1150	italic 26318 26324	Xpd†XP
+#1150	AnnotatorNotes T1150	italic (null)
+T1151	EntrezGene 26318 26321	Xpd
+#1151	AnnotatorNotes T1151	EG:13871
+T1152	PR 26318 26321	Xpd
+#1152	AnnotatorNotes T1152	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1153	sup 26321 26324	†XP
+#1153	AnnotatorNotes T1153	sup (null)
+T1154	SO 26325 26332	alleles
+#1154	AnnotatorNotes T1154	SO:0001023 (allele)
+T1155	GO_BP 26372 26385	transcription
+#1155	AnnotatorNotes T1155	GO:0006350 (transcription)
+T1156	italic 26421 26434	XpdTTD/ †XPCS
+#1156	AnnotatorNotes T1156	italic (null)
+T1157	sup 26424 26434	TTD/ †XPCS
+#1157	AnnotatorNotes T1157	sup (null)
+T1158	italic 26439 26450	XpdTTD/ †XP
+#1158	AnnotatorNotes T1158	italic (null)
+T1159	sup 26442 26450	TTD/ †XP
+#1159	AnnotatorNotes T1159	sup (null)
+T1160	NCBITaxon 26473 26477	mice
+#1160	AnnotatorNotes T1160	NCBITaxon:10088 (Mus)
+T1161	italic 26524 26530	XpdTTD
+#1161	AnnotatorNotes T1161	italic (null)
+T1162	sup 26527 26530	TTD
+#1162	AnnotatorNotes T1162	sup (null)
+T1163	SO 26531 26537	allele
+#1163	AnnotatorNotes T1163	SO:0001023 (allele)
+T1164	italic 26593 26602	XpdTTD/KO
+#1164	AnnotatorNotes T1164	italic (null)
+T1165	sup 26596 26602	TTD/KO
+#1165	AnnotatorNotes T1165	sup (null)
+T1166	NCBITaxon 26614 26618	mice
+#1166	AnnotatorNotes T1166	NCBITaxon:10088 (Mus)
+T1167	italic 26624 26630	XpdTTD
+#1167	AnnotatorNotes T1167	italic (null)
+T1168	sup 26627 26630	TTD
+#1168	AnnotatorNotes T1168	sup (null)
+T1169	SO 26631 26637	allele
+#1169	AnnotatorNotes T1169	SO:0001023 (allele)
+T1170	SO 26659 26661	wt
+#1170	AnnotatorNotes T1170	SO:0000817 (wild_type)
+T1171	GO_BP 26706 26712	lethal
+#1171	AnnotatorNotes T1171	GO:0016265 (death)
+T1172	SO 26713 26720	alleles
+#1172	AnnotatorNotes T1172	SO:0001023 (allele)
+T1173	italic 26721 26738	(XpdKO, Xpd†XPCS,
+#1173	AnnotatorNotes T1173	italic (null)
+T1174	sup 26725 26727	KO
+#1174	AnnotatorNotes T1174	sup (null)
+T1175	EntrezGene 26729 26732	Xpd
+#1175	AnnotatorNotes T1175	EG:13871
+T1176	PR 26729 26732	Xpd
+#1176	AnnotatorNotes T1176	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1177	sup 26732 26737	†XPCS
+#1177	AnnotatorNotes T1177	sup (null)
+T1178	italic 26743 26750	Xpd†XP)
+#1178	AnnotatorNotes T1178	italic (null)
+T1179	EntrezGene 26743 26746	Xpd
+#1179	AnnotatorNotes T1179	EG:13871
+T1180	PR 26743 26746	Xpd
+#1180	AnnotatorNotes T1180	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1181	sup 26746 26749	†XP
+#1181	AnnotatorNotes T1181	sup (null)
+T1182	GO_BP 26915 26930	transcriptional
+#1182	AnnotatorNotes T1182	GO:0006350 (transcription)
+T1183	GO_CC 26977 26982	TFIIH
+#1183	AnnotatorNotes T1183	GO:0005675 (holo TFIIH complex)
+T1184	GO_BP 27003 27055	differentiation of skin, hair-shaft, and blood cells
+#1184	AnnotatorNotes T1184	"differentiation of .. cells" GO:0030154 (cell differentiation)
+T1185	CL 27044 27055	blood cells
+#1185	AnnotatorNotes T1185	CL:0000081 (blood cell)
+T1186	GO_CC 27050 27055	cells
+#1186	AnnotatorNotes T1186	GO:0005623 (cell)
+T1187	NCBITaxon 27090 27094	mice
+#1187	AnnotatorNotes T1187	NCBITaxon:10088 (Mus)
+T1188	GO_BP 27112 27118	lethal
+#1188	AnnotatorNotes T1188	GO:0016265 (death)
+T1189	italic 27119 27127	Xpd†XPCS
+#1189	AnnotatorNotes T1189	italic (null)
+T1190	EntrezGene 27119 27122	Xpd
+#1190	AnnotatorNotes T1190	EG:13871
+T1191	PR 27119 27122	Xpd
+#1191	AnnotatorNotes T1191	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1192	sup 27122 27127	†XPCS
+#1192	AnnotatorNotes T1192	sup (null)
+T1193	italic 27132 27138	Xpd†XP
+#1193	AnnotatorNotes T1193	italic (null)
+T1194	EntrezGene 27132 27135	Xpd
+#1194	AnnotatorNotes T1194	EG:13871
+T1195	PR 27132 27135	Xpd
+#1195	AnnotatorNotes T1195	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1196	sup 27135 27138	†XP
+#1196	AnnotatorNotes T1196	sup (null)
+T1197	SO 27139 27146	alleles
+#1197	AnnotatorNotes T1197	SO:0001023 (allele)
+T1198	italic 27170 27176	XpdTTD
+#1198	AnnotatorNotes T1198	italic (null)
+T1199	sup 27173 27176	TTD
+#1199	AnnotatorNotes T1199	sup (null)
+T1200	italic 27262 27268	XpdTTD
+#1200	AnnotatorNotes T1200	italic (null)
+T1201	sup 27265 27268	TTD
+#1201	AnnotatorNotes T1201	sup (null)
+T1202	SO 27269 27275	allele
+#1202	AnnotatorNotes T1202	SO:0001023 (allele)
+T1203	GO_BP 27392 27407	differentiation
+#1203	AnnotatorNotes T1203	GO:0030154 (cell differentiation)
+T1204	GO_BP 27497 27512	transcriptional
+#1204	AnnotatorNotes T1204	GO:0006350 (transcription)
+T1205	GO_BP 27540 27561	embryonic development
+#1205	AnnotatorNotes T1205	GO:0009790 (embryonic development)
+T1206	italic 27563 27569	XpdTTD
+#1206	AnnotatorNotes T1206	italic (null)
+T1207	sup 27566 27569	TTD
+#1207	AnnotatorNotes T1207	sup (null)
+T1208	italic 27591 27599	Xpd†XPCS
+#1208	AnnotatorNotes T1208	italic (null)
+T1209	EntrezGene 27591 27594	Xpd
+#1209	AnnotatorNotes T1209	EG:13871
+T1210	PR 27591 27594	Xpd
+#1210	AnnotatorNotes T1210	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1211	sup 27594 27599	†XPCS
+#1211	AnnotatorNotes T1211	sup (null)
+T1212	italic 27604 27610	Xpd†XP
+#1212	AnnotatorNotes T1212	italic (null)
+T1213	EntrezGene 27604 27607	Xpd
+#1213	AnnotatorNotes T1213	EG:13871
+T1214	PR 27604 27607	Xpd
+#1214	AnnotatorNotes T1214	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1215	sup 27607 27610	†XP
+#1215	AnnotatorNotes T1215	sup (null)
+T1216	SO 27611 27618	alleles
+#1216	AnnotatorNotes T1216	SO:0001023 (allele)
+T1217	GO_BP 27641 27689	ontogenesis of skin, hair-shaft, and blood cells
+#1217	AnnotatorNotes T1217	"ontogenesis of .. cells" GO:0048468 (cell development)
+T1218	GO_BP 27641 27672	ontogenesis of skin, hair-shaft
+#1218	AnnotatorNotes T1218	"ontogenesis of .. hair-shaft" GO:0001942 (hair follicle development)
+T1219	GO_BP 27641 27660	ontogenesis of skin
+#1219	AnnotatorNotes T1219	GO:0043588 (skin development)
+T1220	CL 27678 27689	blood cells
+#1220	AnnotatorNotes T1220	CL:0000081 (blood cell)
+T1221	GO_CC 27684 27689	cells
+#1221	AnnotatorNotes T1221	GO:0005623 (cell)
+T1222	GO_BP 27738 27744	repair
+#1222	AnnotatorNotes T1222	GO:0006281 (DNA repair)
+T1223	italic 27769 27777	Xpd†XPCS
+#1223	AnnotatorNotes T1223	italic (null)
+T1224	EntrezGene 27769 27772	Xpd
+#1224	AnnotatorNotes T1224	EG:13871
+T1225	PR 27769 27772	Xpd
+#1225	AnnotatorNotes T1225	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1226	sup 27772 27777	†XPCS
+#1226	AnnotatorNotes T1226	sup (null)
+T1227	SO 27778 27784	allele
+#1227	AnnotatorNotes T1227	SO:0001023 (allele)
+T1228	italic 27836 27842	XpdTTD
+#1228	AnnotatorNotes T1228	italic (null)
+T1229	sup 27839 27842	TTD
+#1229	AnnotatorNotes T1229	sup (null)
+T1230	SO 27843 27849	allele
+#1230	AnnotatorNotes T1230	SO:0001023 (allele)
+T1231	italic 27857 27864	XpdXPCS
+#1231	AnnotatorNotes T1231	italic (null)
+T1232	sup 27860 27864	XPCS
+#1232	AnnotatorNotes T1232	sup (null)
+T1233	SO 27865 27872	alleles
+#1233	AnnotatorNotes T1233	SO:0001023 (allele)
+T1234	GO_BP 27888 27898	expression
+#1234	AnnotatorNotes T1234	GO:0010467 (gene expression)
+T1235	CL 28001 28009	cellular
+#1235	AnnotatorNotes T1235	CL:0000000 (cell)
+T1236	GO_CC 28001 28009	cellular
+#1236	AnnotatorNotes T1236	GO:0005623 (cell)
+T1237	italic 28064 28077	XpdTTD/ †XPCS
+#1237	AnnotatorNotes T1237	italic (null)
+T1238	sup 28067 28077	TTD/ †XPCS
+#1238	AnnotatorNotes T1238	sup (null)
+T1239	GO_BP 28117 28132	repair activity
+#1239	AnnotatorNotes T1239	GO:0006281 (DNA repair)
+T1240	EntrezGene 28216 28219	XPD
+#1240	AnnotatorNotes T1240	EG:13871
+T1241	PR 28216 28219	XPD
+#1241	AnnotatorNotes T1241	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1242	EntrezGene 28300 28303	XPD
+#1242	AnnotatorNotes T1242	EG:13871
+T1243	PR 28300 28303	XPD
+#1243	AnnotatorNotes T1243	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1244	CHEBI 28380 28388	proteins
+#1244	AnnotatorNotes T1244	CHEBI:36080 (proteins)
+T1245	SO 28414 28421	domains
+#1245	AnnotatorNotes T1245	SO:0000417 (polypeptide_domain)
+T1246	SO 28498 28507	mutations
+#1246	AnnotatorNotes T1246	SO:0001059 (sequence_alteration)
+T1247	PR 28512 28515	XPD
+#1247	AnnotatorNotes T1247	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1248	SO 28527 28534	domains
+#1248	AnnotatorNotes T1248	SO:0000417 (polypeptide_domain)
+T1249	PR 28581 28584	XPD
+#1249	AnnotatorNotes T1249	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1250	GO_CC 28618 28623	TFIIH
+#1250	AnnotatorNotes T1250	GO:0005675 (holo TFIIH complex)
+T1251	CL 28675 28679	cell
+#1251	AnnotatorNotes T1251	CL:0000000 (cell)
+T1252	GO_CC 28675 28679	cell
+#1252	AnnotatorNotes T1252	GO:0005623 (cell)
+T1253	GO_CC 28725 28730	TFIIH
+#1253	AnnotatorNotes T1253	GO:0005675 (holo TFIIH complex)
+T1254	PR 28743 28746	XPD
+#1254	AnnotatorNotes T1254	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1255	PR 28751 28754	XPB
+#1255	AnnotatorNotes T1255	PR:000007165 (TFIIH basal transcription factor complex helicase XPB subunit)
+T1256	GO_BP 28770 28782	NER activity
+#1256	AnnotatorNotes T1256	GO:0006289 (nucleotide-excision repair)
+T1257	GO_CC 28816 28821	TFIIH
+#1257	AnnotatorNotes T1257	GO:0005675 (holo TFIIH complex)
+T1258	GO_BP 28897 28909	NER reaction
+#1258	AnnotatorNotes T1258	GO:0006289 (nucleotide-excision repair)
+T1259	PR 28924 28927	XPD
+#1259	AnnotatorNotes T1259	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1260	GO_MF 28954 28959	bound
+#1260	AnnotatorNotes T1260	GO:0005488 (binding)
+T1261	GO_CC 28972 28977	TFIIH
+#1261	AnnotatorNotes T1261	GO:0005675 (holo TFIIH complex)
+T1262	CHEBI 29005 29014	molecular
+#1262	AnnotatorNotes T1262	CHEBI:23367 (molecular entity)
+T1263	EntrezGene 29084 29087	XPD
+#1263	AnnotatorNotes T1263	EG:13871
+T1264	PR 29084 29087	XPD
+#1264	AnnotatorNotes T1264	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1265	CHEBI 29088 29097	molecules
+#1265	AnnotatorNotes T1265	CHEBI:23367 (molecular entity)
+T1266	GO_CC 29109 29122	TFIIH complex
+#1266	AnnotatorNotes T1266	GO:0005675 (holo TFIIH complex)
+T1267	GO_CC 29138 29153	TFIIH complexes
+#1267	AnnotatorNotes T1267	GO:0005675 (holo TFIIH complex)
+T1268	EntrezGene 29175 29178	XPD
+#1268	AnnotatorNotes T1268	EG:13871
+T1269	PR 29175 29178	XPD
+#1269	AnnotatorNotes T1269	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1270	CHEBI 29179 29188	molecules
+#1270	AnnotatorNotes T1270	CHEBI:23367 (molecular entity)
+T1271	SO 29196 29200	site
+#1271	AnnotatorNotes T1271	SO:0000001 (region)
+T1272	SO 29204 29207	DNA
+#1272	AnnotatorNotes T1272	SO:0000352 (DNA)
+T1273	SO 29247 29253	genome
+#1273	AnnotatorNotes T1273	SO:0001026 (genome)
+T1274	GO_BP 29265 29339	transcription-coupled repair of either UV-induced or endogenous DNA damage
+#1274	AnnotatorNotes T1274	"transcription-coupled repair of .. DNA damage" GO:0006283 (transcription-coupled nucleotide-excision repair)
+T1275	GO_BP 29265 29278	transcription
+#1275	AnnotatorNotes T1275	GO:0006350 (transcription)
+T1276	SO 29329 29332	DNA
+#1276	AnnotatorNotes T1276	SO:0000352 (DNA)
+T1277	EntrezGene 29367 29370	XPD
+#1277	AnnotatorNotes T1277	EG:2068
+T1278	PR 29367 29370	XPD
+#1278	AnnotatorNotes T1278	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1279	CHEBI 29392 29400	proteins
+#1279	AnnotatorNotes T1279	CHEBI:36080 (proteins)
+T1280	SO 29432 29439	alleles
+#1280	AnnotatorNotes T1280	SO:0001023 (allele)
+T1281	GO_BP 29494 29507	transcription
+#1281	AnnotatorNotes T1281	GO:0006350 (transcription)
+T1282	SO 29555 29562	alleles
+#1282	AnnotatorNotes T1282	SO:0001023 (allele)
+T1283	NCBITaxon 29601 29609	S. pombe
+#1283	AnnotatorNotes T1283	NCBITaxon:4896 (Schizosaccharomyces pombe)
+T1284	taxonomic_rank 29601 29609	S. pombe
+#1284	AnnotatorNotes T1284	taxonomic_rank (null)
+T1285	SO 29622 29630	mutation
+#1285	AnnotatorNotes T1285	SO:0001059 (sequence_alteration)
+T1286	italic 29638 29641	XPD
+#1286	AnnotatorNotes T1286	italic (null)
+T1287	EntrezGene 29638 29641	XPD
+#1287	AnnotatorNotes T1287	EG:2068
+T1288	PR 29638 29641	XPD
+#1288	AnnotatorNotes T1288	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1289	SO 29642 29651	homologue
+#1289	AnnotatorNotes T1289	SO:0000853 (homologous_region)
+T1290	italic 29652 29657	rad15
+#1290	AnnotatorNotes T1290	italic (null)
+T1291	EntrezGene 29652 29657	rad15
+#1291	AnnotatorNotes T1291	EG:2542203
+T1292	PR 29652 29657	rad15
+#1292	AnnotatorNotes T1292	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1293	SO 29708 29715	alleles
+#1293	AnnotatorNotes T1293	SO:0001023 (allele)
+T1294	GO_BP 29763 29776	transcription
+#1294	AnnotatorNotes T1294	GO:0006350 (transcription)
+T1295	NCBITaxon 29860 29866	humans
+#1295	AnnotatorNotes T1295	NCBITaxon:9606 (Homo sapiens)
+T1296	NCBITaxon 29882 29887	mouse
+#1296	AnnotatorNotes T1296	NCBITaxon:10088 (Mus)
+T1297	EntrezGene 30080 30083	XPD
+#1297	AnnotatorNotes T1297	EG:2068
+T1298	PR 30080 30083	XPD
+#1298	AnnotatorNotes T1298	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1299	italic 30136 30143	XPDXPCS
+#1299	AnnotatorNotes T1299	italic (null)
+T1300	sup 30139 30143	XPCS
+#1300	AnnotatorNotes T1300	sup (null)
+T1301	sup 30169 30173	G47R
+#1301	AnnotatorNotes T1301	sup (null)
+T1302	sup 30181 30186	R666W
+#1302	AnnotatorNotes T1302	sup (null)
+T1303	SO 30196 30203	alleles
+#1303	AnnotatorNotes T1303	SO:0001023 (allele)
+T1304	GO_BP 30208 30212	died
+#1304	AnnotatorNotes T1304	GO:0016265 (death)
+T1305	italic 30273 30280	XPDXPCS
+#1305	AnnotatorNotes T1305	italic (null)
+T1306	sup 30276 30280	XPCS
+#1306	AnnotatorNotes T1306	sup (null)
+T1307	sup 30311 30315	G47R
+#1307	AnnotatorNotes T1307	sup (null)
+T1308	sup 30323 30328	R666W
+#1308	AnnotatorNotes T1308	sup (null)
+T1309	SO 30338 30345	alleles
+#1309	AnnotatorNotes T1309	SO:0001023 (allele)
+T1310	sup 30382 30398	L461V+del716−730
+#1310	AnnotatorNotes T1310	sup (null)
+T1311	italic 30664 30676	XpdTTD/†XPCS
+#1311	AnnotatorNotes T1311	italic (null)
+T1312	sup 30667 30676	TTD/†XPCS
+#1312	AnnotatorNotes T1312	sup (null)
+T1313	italic 30681 30691	XpdTTD/†XP
+#1313	AnnotatorNotes T1313	italic (null)
+T1314	sup 30684 30691	TTD/†XP
+#1314	AnnotatorNotes T1314	sup (null)
+T1315	NCBITaxon 30692 30696	mice
+#1315	AnnotatorNotes T1315	NCBITaxon:10088 (Mus)
+T1316	CHEBI 30777 30785	cysteine
+#1316	AnnotatorNotes T1316	CHEBI:32460 (cysteine residue)
+T1317	SO 30777 30785	cysteine
+#1317	AnnotatorNotes T1317	SO:0001447 (cysteine)
+T1318	SO 30854 30862	mutation
+#1318	AnnotatorNotes T1318	SO:0001059 (sequence_alteration)
+T1319	SO 30870 30876	allele
+#1319	AnnotatorNotes T1319	SO:0001023 (allele)
+T1320	SO 30889 30903	point mutation
+#1320	AnnotatorNotes T1320	SO:1000008 (point_mutation)
+T1321	sup 30916 30921	L485P
+#1321	AnnotatorNotes T1321	sup (null)
+T1322	sup 30952 30957	L485P
+#1322	AnnotatorNotes T1322	sup (null)
+T1323	SO 30967 30973	allele
+#1323	AnnotatorNotes T1323	SO:0001023 (allele)
+T1324	italic 31019 31033	S. pombe rad15
+#1324	AnnotatorNotes T1324	italic (null)
+T1325	EntrezGene 31019 31033	S. pombe rad15
+#1325	AnnotatorNotes T1325	EG:2542203
+T1326	NCBITaxon 31019 31027	S. pombe
+#1326	AnnotatorNotes T1326	NCBITaxon:4896 (Schizosaccharomyces pombe)
+T1327	taxonomic_rank 31019 31027	S. pombe
+#1327	AnnotatorNotes T1327	taxonomic_rank (null)
+T1328	PR 31028 31033	rad15
+#1328	AnnotatorNotes T1328	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1329	SO 31034 31042	deletion
+#1329	AnnotatorNotes T1329	SO:0000159 (deletion)
+T1330	SO 31086 31092	allele
+#1330	AnnotatorNotes T1330	SO:0001023 (allele)
+T1331	SO 31215 31222	alleles
+#1331	AnnotatorNotes T1331	SO:0001023 (allele)
+T1332	EntrezGene 31404 31407	XPD
+#1332	AnnotatorNotes T1332	EG:2068
+T1333	PR 31404 31407	XPD
+#1333	AnnotatorNotes T1333	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1334	SO 31516 31522	allele
+#1334	AnnotatorNotes T1334	SO:0001023 (allele)
+T1335	SO 31555 31561	allele
+#1335	AnnotatorNotes T1335	SO:0001023 (allele)
+T1336	SO 31657 31661	site
+#1336	AnnotatorNotes T1336	SO:0000001 (region)
+T1337	italic 31669 31672	XPD
+#1337	AnnotatorNotes T1337	italic (null)
+T1338	PR 31669 31672	XPD
+#1338	AnnotatorNotes T1338	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1339	EntrezGene 31669 31672	XPD
+#1339	AnnotatorNotes T1339	EG:2068
+T1340	SO 31673 31681	mutation
+#1340	AnnotatorNotes T1340	SO:0001059 (sequence_alteration)
+T1341	SO 31785 31792	alleles
+#1341	AnnotatorNotes T1341	SO:0001023 (allele)
+T1342	SO 31902 31908	allele
+#1342	AnnotatorNotes T1342	SO:0001023 (allele)
+T1343	SO 32055 32061	allele
+#1343	AnnotatorNotes T1343	SO:0001023 (allele)
+T1344	CHEBI 32095 32102	protein
+#1344	AnnotatorNotes T1344	CHEBI:36080 (proteins)
+T1345	GO_MF 32116 32124	helicase
+#1345	AnnotatorNotes T1345	GO:0004386 (helicase activity)
+T1346	independent_continuant 32116 32124	helicase
+#1346	AnnotatorNotes T1346	independent_continuant
+T1347	SO 32125 32132	domains
+#1347	AnnotatorNotes T1347	SO:0000417 (polypeptide_domain)
+T1348	SO 32167 32174	Alleles
+#1348	AnnotatorNotes T1348	SO:0001023 (allele)
+T1349	NCBITaxon 32209 32216	Mammals
+#1349	AnnotatorNotes T1349	NCBITaxon:40674 (Mammalia)
+T1350	NCBITaxon 32221 32227	humans
+#1350	AnnotatorNotes T1350	NCBITaxon:9606 (Homo sapiens)
+T1351	SO 32388 32394	mutant
+#1351	AnnotatorNotes T1351	SO:0001059 (sequence_alteration)
+T1352	SO 32395 32402	alleles
+#1352	AnnotatorNotes T1352	SO:0001023 (allele)
+T1353	CL 32425 32430	cells
+#1353	AnnotatorNotes T1353	CL:0000000 (cell)
+T1354	GO_CC 32425 32430	cells
+#1354	AnnotatorNotes T1354	GO:0005623 (cell)
+T1355	NCBITaxon 32720 32727	animals
+#1355	AnnotatorNotes T1355	NCBITaxon:33208 (Metazoa)
+T1356	NCBITaxon 32774 32779	human
+#1356	AnnotatorNotes T1356	NCBITaxon:9606 (Homo sapiens)
+T1357	SO 32821 32828	alleles
+#1357	AnnotatorNotes T1357	SO:0001023 (allele)
+T1358	italic 32852 32856	CTRF
+#1358	AnnotatorNotes T1358	italic (null)
+T1359	PR 32852 32856	CTRF
+#1359	AnnotatorNotes T1359	PR:000001044 (cystic fibrosis transmembrane conductance regulator (cftr))
+T1360	EntrezGene 32852 32856	CTRF
+#1360	AnnotatorNotes T1360	EG:1080
+T1361	SO 32857 32861	gene
+#1361	AnnotatorNotes T1361	SO:0000704 (gene)
+T1362	GO_CC 32887 32896	autosomal
+#1362	AnnotatorNotes T1362	GO:0030849 (autosome)
+T1363	SO 32990 32997	allelic
+#1363	AnnotatorNotes T1363	SO:0001023 (allele)
+T1364	SO 33036 33043	allelic
+#1364	AnnotatorNotes T1364	SO:0001023 (allele)
+T1365	SO 33080 33089	mutations
+#1365	AnnotatorNotes T1365	SO:0001059 (sequence_alteration)
+T1366	SO 33094 33125	single nucleotide polymorphisms
+#1366	AnnotatorNotes T1366	SO:0000694 (SNP)
+T1367	CHEBI 33101 33111	nucleotide
+#1367	AnnotatorNotes T1367	CHEBI:25613 (nucleotidyl groups)
+T1368	SO 33101 33111	nucleotide
+#1368	AnnotatorNotes T1368	SO:0001236 (base)
+T1369	SO 33126 33132	genome
+#1369	AnnotatorNotes T1369	SO:0001026 (genome)
+T1370	SO 33263 33271	genotype
+#1370	AnnotatorNotes T1370	SO:0001027 (genotype)
+T1371	GO_CC 33301 33310	autosomal
+#1371	AnnotatorNotes T1371	GO:0030849 (autosome)
+T1372	NCBITaxon 33363 33370	mammals
+#1372	AnnotatorNotes T1372	NCBITaxon:40674 (Mammalia)
+T1373	SO 33426 33435	mutations
+#1373	AnnotatorNotes T1373	SO:0001059 (sequence_alteration)
+T1374	SO 33500 33506	allele
+#1374	AnnotatorNotes T1374	SO:0001023 (allele)
+T1375	SO 33537 33547	alteration
+#1375	AnnotatorNotes T1375	SO:0001059 (sequence_alteration)
+T1376	SO 33614 33621	alleles
+#1376	AnnotatorNotes T1376	SO:0001023 (allele)
+T1377	GO_BP 33682 33692	expression
+#1377	AnnotatorNotes T1377	GO:0010467 (gene expression)
+T1378	SO 33797 33803	mutant
+#1378	AnnotatorNotes T1378	SO:0001059 (sequence_alteration)
+T1379	NCBITaxon 33804 33808	mice
+#1379	AnnotatorNotes T1379	NCBITaxon:10088 (Mus)
+T1380	GO_BP 33811 33821	Generation
+#1380	AnnotatorNotes T1380	GO:0000003 (reproduction)
+T1381	italic 33825 33831	XpdTTD
+#1381	AnnotatorNotes T1381	italic (null)
+T1382	sup 33828 33831	TTD
+#1382	AnnotatorNotes T1382	sup (null)
+T1383	sup 33836 33841	R722W
+#1383	AnnotatorNotes T1383	sup (null)
+T1384	italic 33847 33856	XpdTTD/KO
+#1384	AnnotatorNotes T1384	italic (null)
+T1385	sup 33850 33856	TTD/KO
+#1385	AnnotatorNotes T1385	sup (null)
+T1386	NCBITaxon 33857 33861	mice
+#1386	AnnotatorNotes T1386	NCBITaxon:10088 (Mus)
+T1387	GO_BP 33931 33941	generation
+#1387	AnnotatorNotes T1387	GO:0009058 (biosynthetic process)
+T1388	SO 33955 33965	constructs
+#1388	AnnotatorNotes T1388	SO:0001037 (mobile_genetic_element)
+T1389	italic 33970 33978	Xpd†XPCS
+#1389	AnnotatorNotes T1389	italic (null)
+T1390	EntrezGene 33970 33973	Xpd
+#1390	AnnotatorNotes T1390	EG:13871
+T1391	PR 33970 33973	Xpd
+#1391	AnnotatorNotes T1391	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1392	sup 33973 33978	†XPCS
+#1392	AnnotatorNotes T1392	sup (null)
+T1393	italic 33983 33990	Xpd †XP
+#1393	AnnotatorNotes T1393	italic (null)
+T1394	EntrezGene 33983 33986	Xpd
+#1394	AnnotatorNotes T1394	EG:13871
+T1395	PR 33983 33986	Xpd
+#1395	AnnotatorNotes T1395	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T1396	sup 33986 33990	 †XP
+#1396	AnnotatorNotes T1396	sup (null)
+T1397	SO 33991 33998	alleles
+#1397	AnnotatorNotes T1397	SO:0001023 (allele)
+T1398	SO 34008 34017	mutations
+#1398	AnnotatorNotes T1398	SO:0001059 (sequence_alteration)
+T1399	SO 34047 34058	alterations
+#1399	AnnotatorNotes T1399	SO:0001059 (sequence_alteration)
+T1400	NCBITaxon 34099 34103	mice
+#1400	AnnotatorNotes T1400	NCBITaxon:10088 (Mus)
+T1401	NCBITaxon 34108 34113	mouse
+#1401	AnnotatorNotes T1401	NCBITaxon:10088 (Mus)
+T1402	CL 34124 34135	fibroblasts
+#1402	AnnotatorNotes T1402	CL:0000057 (fibroblast)
+T1403	GO_BP 34141 34150	generated
+#1403	AnnotatorNotes T1403	GO:0032502 (developmental process)
+T1404	GO_BP 34141 34150	generated
+#1404	AnnotatorNotes T1404	GO:0000003 (reproduction)
+T1405	CHEBI 34265 34275	Amino acid
+#1405	AnnotatorNotes T1405	CHEBI:33708 (amino-acid residue)
+T1406	SO 34265 34275	Amino acid
+#1406	AnnotatorNotes T1406	SO:0001237 (amino_acid)
+T1407	CHEBI 34265 34270	Amino
+#1407	AnnotatorNotes T1407	CHEBI:32952 (amines)
+T1408	CHEBI 34265 34270	Amino
+#1408	AnnotatorNotes T1408	CHEBI:46882 (amino group)
+T1409	CHEBI 34271 34275	acid
+#1409	AnnotatorNotes T1409	CHEBI:37527 (acid)
+T1410	NCBITaxon 34354 34360	Animal
+#1410	AnnotatorNotes T1410	NCBITaxon:33208 (Metazoa)
+T1411	CHEBI 34460 34467	mineral
+#1411	AnnotatorNotes T1411	CHEBI:46662 (minerals)
+T1412	NCBITaxon 34513 34517	Mice
+#1412	AnnotatorNotes T1412	NCBITaxon:10088 (Mus)
+T1413	NCBITaxon 34630 34634	mice
+#1413	AnnotatorNotes T1413	NCBITaxon:10088 (Mus)
+T1414	SO 34690 34697	genetic
+#1414	AnnotatorNotes T1414	SO:0000704 (gene)
+T1415	NCBITaxon 34716 34725	organisms
+#1415	AnnotatorNotes T1415	NCBITaxon:1 (root)
+T1416	NCBITaxon 34734 34740	animal
+#1416	AnnotatorNotes T1416	NCBITaxon:33208 (Metazoa)
+T1417	GO_CC 34868 34873	TFIIH
+#1417	AnnotatorNotes T1417	GO:0005675 (holo TFIIH complex)
+T1418	GO_BP 34874 34900	incision/excision activity
+#1418	AnnotatorNotes T1418	"incision .. activity" GO:0033683 (nucleotide-excision repair, DNA incision)
+T1419	GO_BP 34883 34900	excision activity
+#1419	AnnotatorNotes T1419	GO:0000718 (nucleotide-excision repair, DNA damage removal)
+T1420	SO 34883 34891	excision
+#1420	AnnotatorNotes T1420	SO:0000045 (delete)
+T1421	SO 35067 35069	wt
+#1421	AnnotatorNotes T1421	SO:0000817 (wild_type)
+T1422	italic 35077 35088	XpdTTD/TTD,
+#1422	AnnotatorNotes T1422	italic (null)
+T1423	sup 35080 35087	TTD/TTD
+#1423	AnnotatorNotes T1423	sup (null)
+T1424	italic 35093 35105	XpdTTD/XPCS,
+#1424	AnnotatorNotes T1424	italic (null)
+T1425	sup 35096 35104	TTD/XPCS
+#1425	AnnotatorNotes T1425	sup (null)
+T1426	italic 35114 35123	XpdTTD/XP
+#1426	AnnotatorNotes T1426	italic (null)
+T1427	sup 35117 35123	TTD/XP
+#1427	AnnotatorNotes T1427	sup (null)
+T1428	CL 35124 35128	cell
+#1428	AnnotatorNotes T1428	CL:0000000 (cell)
+T1429	GO_CC 35124 35128	cell
+#1429	AnnotatorNotes T1429	GO:0005623 (cell)
+T1430	italic 35199 35209	XpdTTD/TTD
+#1430	AnnotatorNotes T1430	italic (null)
+T1431	sup 35202 35209	TTD/TTD
+#1431	AnnotatorNotes T1431	sup (null)
+T1432	CL 35210 35215	cells
+#1432	AnnotatorNotes T1432	CL:0000000 (cell)
+T1433	GO_CC 35210 35215	cells
+#1433	AnnotatorNotes T1433	GO:0005623 (cell)
+T1434	CL 35372 35376	cell
+#1434	AnnotatorNotes T1434	CL:0000000 (cell)
+T1435	GO_CC 35372 35376	cell
+#1435	AnnotatorNotes T1435	GO:0005623 (cell)
+T1436	GO_BP 35405 35431	incision/excision activity
+#1436	AnnotatorNotes T1436	"incision .. activity" GO:0033683 (nucleotide-excision repair, DNA incision)
+T1437	GO_BP 35414 35431	excision activity
+#1437	AnnotatorNotes T1437	GO:0000718 (nucleotide-excision repair, DNA damage removal)
+T1438	SO 35414 35422	excision
+#1438	AnnotatorNotes T1438	SO:0000045 (delete)
+T1439	GO_BP 35439 35450	recombinant
+#1439	AnnotatorNotes T1439	GO:0006310 (DNA recombination)
+T1440	GO_CC 35451 35456	TFIIH
+#1440	AnnotatorNotes T1440	GO:0005675 (holo TFIIH complex)
+T1441	EntrezGene 35618 35642	p62 subunit of the TFIIH
+#1441	AnnotatorNotes T1441	"p62 subunit of .. TFIIH" EG:14884
+T1442	PR 35618 35642	p62 subunit of the TFIIH
+#1442	AnnotatorNotes T1442	"p62 subunit of .. TFIIH" PR:000008317 (general transcription factor IIH subunit 1)
+T1443	GO_CC 35637 35642	TFIIH
+#1443	AnnotatorNotes T1443	GO:0005675 (holo TFIIH complex)
+T1444	NCBITaxon 35703 35708	mouse
+#1444	AnnotatorNotes T1444	NCBITaxon:10088 (Mus)
+T1445	CL 35719 35730	fibroblasts
+#1445	AnnotatorNotes T1445	CL:0000057 (fibroblast)
+T1446	CL 35760 35764	cell
+#1446	AnnotatorNotes T1446	CL:0000000 (cell)
+T1447	GO_CC 35760 35764	cell
+#1447	AnnotatorNotes T1447	GO:0005623 (cell)
+T1448	SO 35775 35783	genotype
+#1448	AnnotatorNotes T1448	SO:0001027 (genotype)
+T1449	italic 35800 35810	XpdTTD/†XP
+#1449	AnnotatorNotes T1449	italic (null)
+T1450	sup 35803 35810	TTD/†XP
+#1450	AnnotatorNotes T1450	sup (null)
+T1451	CL 35811 35816	cells
+#1451	AnnotatorNotes T1451	CL:0000000 (cell)
+T1452	GO_CC 35811 35816	cells
+#1452	AnnotatorNotes T1452	GO:0005623 (cell)
+T1453	CL 35836 35840	cell
+#1453	AnnotatorNotes T1453	CL:0000000 (cell)
+T1454	GO_CC 35836 35840	cell
+#1454	AnnotatorNotes T1454	GO:0005623 (cell)
+T1455	SO 35935 35943	genotype
+#1455	AnnotatorNotes T1455	SO:0001027 (genotype)
+T1456	bold 36161 36182	Author contributions.
+#1456	AnnotatorNotes T1456	bold (null)
+T1457	CHEBI 36439 36447	reagents
+#1457	AnnotatorNotes T1457	CHEBI:33893 (reagent)
+T1458	bold 36511 36519	Funding.
+#1458	AnnotatorNotes T1458	bold (null)
+T1459	SO 37002 37004	bp
+#1459	AnnotatorNotes T1459	SO:0000028 (base_pair)
+T1460	SO 37007 37016	base pair
+#1460	AnnotatorNotes T1460	SO:0000028 (base_pair)
+T1461	SO 37007 37011	base
+#1461	AnnotatorNotes T1461	SO:0001236 (base)
+T1462	GO_BP 37093 37096	NER
+#1462	AnnotatorNotes T1462	GO:0006289 (nucleotide-excision repair)
+T1463	GO_BP 37099 37125	nucleotide excision repair
+#1463	AnnotatorNotes T1463	GO:0006289 (nucleotide-excision repair)
+T1464	GO_BP 37099 37118	nucleotide excision
+#1464	AnnotatorNotes T1464	GO:0000718 (nucleotide-excision repair, DNA damage removal)
+T1465	CHEBI 37099 37109	nucleotide
+#1465	AnnotatorNotes T1465	CHEBI:25613 (nucleotidyl groups)
+T1466	SO 37099 37109	nucleotide
+#1466	AnnotatorNotes T1466	SO:0001236 (base)
+T1467	SO 37110 37118	excision
+#1467	AnnotatorNotes T1467	SO:0000045 (delete)
+T1468	GO_CC 37161 37166	TFIIH
+#1468	AnnotatorNotes T1468	GO:0005675 (holo TFIIH complex)
+T1469	GO_CC 37169 37210	basal transcription/DNA repair factor IIH
+#1469	AnnotatorNotes T1469	GO:0005675 (holo TFIIH complex)
+T1470	GO_MF 37175 37206	transcription/DNA repair factor
+#1470	AnnotatorNotes T1470	"transcription .. factor" GO:0003700 (transcription factor activity)
+T1471	independent_continuant 37175 37206	transcription/DNA repair factor
+#1471	AnnotatorNotes T1471	"transcription .. factor" independent_continuant
+T1472	GO_BP 37175 37188	transcription
+#1472	AnnotatorNotes T1472	GO:0006350 (transcription)
+T1473	GO_BP 37189 37199	DNA repair
+#1473	AnnotatorNotes T1473	GO:0006281 (DNA repair)
+T1474	SO 37189 37192	DNA
+#1474	AnnotatorNotes T1474	SO:0000352 (DNA)
+T1475	GO_BP 37260 37273	RNA synthesis
+#1475	AnnotatorNotes T1475	GO:0032774 (RNA biosynthetic process)
+T1476	SO 37260 37263	RNA
+#1476	AnnotatorNotes T1476	SO:0000356 (RNA)
+T1477	SO 37326 37329	DNA
+#1477	AnnotatorNotes T1477	SO:0000352 (DNA)
+T1478	GO_BP 37330 37339	synthesis
+#1478	AnnotatorNotes T1478	GO:0009058 (biosynthetic process)
+T1479	SO 37371 37373	wt
+#1479	AnnotatorNotes T1479	SO:0000817 (wild_type)
+T1480	SO 37376 37385	wild-type
+#1480	AnnotatorNotes T1480	SO:0000817 (wild_type)
+T1481	bold 37555 37575	Competing interests.
+#1481	AnnotatorNotes T1481	bold (null)
+T1482	sup 37638 37640	¤a
+#1482	AnnotatorNotes T1482	sup (null)
+T1483	sup 37729 37731	¤b
+#1483	AnnotatorNotes T1483	sup (null)
+T1484	CHEBI 37763 37772	Molecular
+#1484	AnnotatorNotes T1484	CHEBI:23367 (molecular entity)
+T1485	CL 37777 37781	Cell
+#1485	AnnotatorNotes T1485	CL:0000000 (cell)
+T1486	GO_CC 37777 37781	Cell
+#1486	AnnotatorNotes T1486	GO:0005623 (cell)
+T1487	sup 37874 37876	¤c
+#1487	AnnotatorNotes T1487	sup (null)

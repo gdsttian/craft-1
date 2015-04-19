@@ -1,0 +1,3672 @@
+T1	NCBITaxon 22 26	Mice
+#1	AnnotatorNotes T1	NCBITaxon:10088 (Mus)
+T2	SO 34 42	Mutation
+#2	AnnotatorNotes T2	SO:0001059 (sequence_alteration)
+T3	EntrezGene 46 57	Aquaporin-2
+#3	AnnotatorNotes T3	EG:11827
+T4	PR 46 57	Aquaporin-2
+#4	AnnotatorNotes T4	PR:000004182 (aquaporin-2)
+T5	GO_BP 194 202	response
+#5	AnnotatorNotes T5	GO:0050896 (response to stimulus)
+T6	EntrezGene 206 217	vasopressin
+#6	AnnotatorNotes T6	EG:551
+T7	NCBITaxon 219 224	Human
+#7	AnnotatorNotes T7	NCBITaxon:9606 (Homo sapiens)
+T8	SO 296 305	mutations
+#8	AnnotatorNotes T8	SO:0001059 (sequence_alteration)
+T9	italic 313 343	vasopressin receptor 2 (Avpr2)
+#9	AnnotatorNotes T9	italic (null)
+T10	EntrezGene 313 335	vasopressin receptor 2
+#10	AnnotatorNotes T10	EG:554
+T11	PR 313 335	vasopressin receptor 2
+#11	AnnotatorNotes T11	PR:000001683 (vasopressin receptor 2)
+T12	GO_MF 313 333	vasopressin receptor
+#12	AnnotatorNotes T12	GO:0005000 (vasopressin receptor activity)
+T13	independent_continuant 313 333	vasopressin receptor
+#13	AnnotatorNotes T13	independent_continuant
+T14	EntrezGene 313 324	vasopressin
+#14	AnnotatorNotes T14	EG:551
+T15	EntrezGene 337 342	Avpr2
+#15	AnnotatorNotes T15	EG:554
+T16	PR 337 342	Avpr2
+#16	AnnotatorNotes T16	PR:000001683 (vasopressin receptor 2)
+T17	SO 344 348	gene
+#17	AnnotatorNotes T17	SO:0000704 (gene)
+T18	EntrezGene 356 367	vasopressin
+#18	AnnotatorNotes T18	EG:551
+T19	GO_MF 378 391	water channel
+#19	AnnotatorNotes T19	GO:0015250 (water channel activity)
+T20	independent_continuant 378 391	water channel
+#20	AnnotatorNotes T20	independent_continuant
+T21	CHEBI 378 383	water
+#21	AnnotatorNotes T21	CHEBI:15377 (water)
+T22	italic 392 410	aquaporin-2 (Aqp2)
+#22	AnnotatorNotes T22	italic (null)
+T23	EntrezGene 392 403	aquaporin-2
+#23	AnnotatorNotes T23	EG:359
+T24	PR 392 403	aquaporin-2
+#24	AnnotatorNotes T24	PR:000004182 (aquaporin-2)
+T25	EntrezGene 405 409	Aqp2
+#25	AnnotatorNotes T25	EG:359
+T26	PR 405 409	Aqp2
+#26	AnnotatorNotes T26	PR:000004182 (aquaporin-2)
+T27	SO 411 415	gene
+#27	AnnotatorNotes T27	SO:0000704 (gene)
+T28	NCBITaxon 494 500	animal
+#28	AnnotatorNotes T28	NCBITaxon:33208 (Metazoa)
+T29	SO 524 531	genetic
+#29	AnnotatorNotes T29	SO:0000704 (gene)
+T30	CHEBI 545 561	ethylnitrosourea
+#30	AnnotatorNotes T30	CHEBI:23995 (ethyl nitrosourea)
+T31	NCBITaxon 574 578	mice
+#31	AnnotatorNotes T31	NCBITaxon:10088 (Mus)
+T32	NCBITaxon 635 640	mouse
+#32	AnnotatorNotes T32	NCBITaxon:10088 (Mus)
+T33	SO 669 677	mutation
+#33	AnnotatorNotes T33	SO:0001059 (sequence_alteration)
+T34	italic 685 689	Aqp2
+#34	AnnotatorNotes T34	italic (null)
+T35	PR 685 689	Aqp2
+#35	AnnotatorNotes T35	PR:000004182 (aquaporin-2)
+T36	EntrezGene 685 689	Aqp2
+#36	AnnotatorNotes T36	EG:11827
+T37	SO 690 694	gene
+#37	AnnotatorNotes T37	SO:0000704 (gene)
+T38	NCBITaxon 724 730	murine
+#38	AnnotatorNotes T38	NCBITaxon:39107 (Murinae)
+T39	NCBITaxon 750 754	mice
+#39	AnnotatorNotes T39	NCBITaxon:10088 (Mus)
+T40	NCBITaxon 810 815	human
+#40	AnnotatorNotes T40	NCBITaxon:9606 (Homo sapiens)
+T41	CL 868 872	cell
+#41	AnnotatorNotes T41	CL:0000000 (cell)
+T42	GO_CC 868 872	cell
+#42	AnnotatorNotes T42	GO:0005623 (cell)
+T43	italic 897 901	Aqp2
+#43	AnnotatorNotes T43	italic (null)
+T44	PR 897 901	Aqp2
+#44	AnnotatorNotes T44	PR:000004182 (aquaporin-2)
+T45	EntrezGene 897 901	Aqp2
+#45	AnnotatorNotes T45	EG:359
+T46	SO 902 911	mutations
+#46	AnnotatorNotes T46	SO:0001059 (sequence_alteration)
+T47	GO_BP 931 942	trafficking
+#47	AnnotatorNotes T47	GO:0006810 (transport)
+T48	SO 950 956	mutant
+#48	AnnotatorNotes T48	SO:0001059 (sequence_alteration)
+T49	GO_MF 957 967	water pore
+#49	AnnotatorNotes T49	GO:0015250 (water channel activity)
+T50	independent_continuant 957 967	water pore
+#50	AnnotatorNotes T50	independent_continuant
+T51	CHEBI 957 962	water
+#51	AnnotatorNotes T51	CHEBI:15377 (water)
+T52	NCBITaxon 981 988	animals
+#52	AnnotatorNotes T52	NCBITaxon:33208 (Metazoa)
+T53	EntrezGene 1042 1046	AQP2
+#53	AnnotatorNotes T53	EG:11827
+T54	PR 1042 1046	AQP2
+#54	AnnotatorNotes T54	PR:000004182 (aquaporin-2)
+T55	GO_BP 1047 1060	translocation
+#55	AnnotatorNotes T55	GO:0006810 (transport)
+T56	CHEBI 1068 1077	molecular
+#56	AnnotatorNotes T56	CHEBI:23367 (molecular entity)
+T57	NCBITaxon 1133 1141	organism
+#57	AnnotatorNotes T57	NCBITaxon:1 (root)
+T58	CL 1171 1175	cell
+#58	AnnotatorNotes T58	CL:0000000 (cell)
+T59	GO_CC 1171 1175	cell
+#59	AnnotatorNotes T59	GO:0005623 (cell)
+T60	SO 1198 1205	mutated
+#60	AnnotatorNotes T60	SO:0000041 (sequence_operation)
+T61	CHEBI 1206 1213	protein
+#61	AnnotatorNotes T61	CHEBI:36080 (proteins)
+T62	EntrezGene 1215 1219	AQP2
+#62	AnnotatorNotes T62	EG:11827
+T63	PR 1215 1219	AQP2
+#63	AnnotatorNotes T63	PR:000004182 (aquaporin-2)
+T64	GO_BP 1230 1238	retained
+#64	AnnotatorNotes T64	GO:0051235 (maintenance of localization)
+T65	GO_CC 1246 1267	endoplasmic reticulum
+#65	AnnotatorNotes T65	GO:0005783 (endoplasmic reticulum)
+T66	GO_BP 1291 1303	localization
+#66	AnnotatorNotes T66	GO:0051179 (localization)
+T67	SO 1322 1331	wild-type
+#67	AnnotatorNotes T67	SO:0000817 (wild_type)
+T68	CHEBI 1332 1339	protein
+#68	AnnotatorNotes T68	CHEBI:36080 (proteins)
+T69	NCBITaxon 1352 1357	mouse
+#69	AnnotatorNotes T69	NCBITaxon:10088 (Mus)
+T70	SO 1445 1449	gene
+#70	AnnotatorNotes T70	SO:0000704 (gene)
+T71	GO_BP 1552 1561	urination
+#71	AnnotatorNotes T71	GO:0060073 (micturition)
+T72	GO_BP 1601 1607	senses
+#72	AnnotatorNotes T72	GO:0007600 (sensory perception)
+T73	CHEBI 1625 1630	water
+#73	AnnotatorNotes T73	CHEBI:15377 (water)
+T74	GO_BP 1646 1653	signals
+#74	AnnotatorNotes T74	GO:0007165 (signal transduction)
+T75	CHEBI 1680 1685	water
+#75	AnnotatorNotes T75	CHEBI:15377 (water)
+T76	GO_BP 1715 1724	signaling
+#76	AnnotatorNotes T76	GO:0007165 (signal transduction)
+T77	CHEBI 1725 1733	molecule
+#77	AnnotatorNotes T77	CHEBI:23367 (molecular entity)
+T78	GO_BP 1734 1742	secreted
+#78	AnnotatorNotes T78	GO:0046903 (secretion)
+T79	EntrezGene 1766 1786	arginine vasopressin
+#79	AnnotatorNotes T79	EG:551
+T80	CHEBI 1766 1774	arginine
+#80	AnnotatorNotes T80	CHEBI:32700 (arginine residue)
+T81	SO 1766 1774	arginine
+#81	AnnotatorNotes T81	SO:0001451 (argenine)
+T82	EntrezGene 1788 1791	AVP
+#82	AnnotatorNotes T82	EG:551
+T83	GO_MF 1800 1805	binds
+#83	AnnotatorNotes T83	GO:0005488 (binding)
+T84	CHEBI 1820 1827	protein
+#84	AnnotatorNotes T84	CHEBI:36080 (proteins)
+T85	GO_CC 1835 1858	surface of kidney cells
+#85	AnnotatorNotes T85	"surface of .. cells" GO:0009986 (cell surface)
+T86	CL 1853 1858	cells
+#86	AnnotatorNotes T86	CL:0000000 (cell)
+T87	GO_CC 1853 1858	cells
+#87	AnnotatorNotes T87	GO:0005623 (cell)
+T88	EntrezGene 1860 1872	AVP receptor
+#88	AnnotatorNotes T88	EG:554
+T89	PR 1860 1872	AVP receptor
+#89	AnnotatorNotes T89	PR:000001683 (vasopressin receptor 2)
+T90	EntrezGene 1860 1863	AVP
+#90	AnnotatorNotes T90	EG:551
+T91	GO_MF 1864 1872	receptor
+#91	AnnotatorNotes T91	GO:0004872 (receptor activity)
+T92	independent_continuant 1864 1872	receptor
+#92	AnnotatorNotes T92	independent_continuant
+T93	EntrezGene 1874 1879	AVPR2
+#93	AnnotatorNotes T93	EG:554
+T94	PR 1874 1879	AVPR2
+#94	AnnotatorNotes T94	PR:000001683 (vasopressin receptor 2)
+T95	EntrezGene 1882 1885	AVP
+#95	AnnotatorNotes T95	EG:551
+T96	GO_MF 1886 1909	binding to its receptor
+#96	AnnotatorNotes T96	"binding to .. receptor" GO:0005102 (receptor binding)
+T97	GO_MF 1901 1909	receptor
+#97	AnnotatorNotes T97	GO:0004872 (receptor activity)
+T98	independent_continuant 1901 1909	receptor
+#98	AnnotatorNotes T98	independent_continuant
+T99	CL 1920 1925	cells
+#99	AnnotatorNotes T99	CL:0000000 (cell)
+T100	GO_CC 1920 1925	cells
+#100	AnnotatorNotes T100	GO:0005623 (cell)
+T101	CHEBI 2010 2017	protein
+#101	AnnotatorNotes T101	CHEBI:36080 (proteins)
+T102	EntrezGene 2019 2030	aquaporin 2
+#102	AnnotatorNotes T102	EG:359
+T103	PR 2019 2030	aquaporin 2
+#103	AnnotatorNotes T103	PR:000004182 (aquaporin-2)
+T104	EntrezGene 2032 2036	AQP2
+#104	AnnotatorNotes T104	EG:359
+T105	PR 2032 2036	AQP2
+#105	AnnotatorNotes T105	PR:000004182 (aquaporin-2)
+T106	GO_CC 2054 2080	surface of the kidney cell
+#106	AnnotatorNotes T106	"surface of .. cell" GO:0009986 (cell surface)
+T107	CL 2076 2080	cell
+#107	AnnotatorNotes T107	CL:0000000 (cell)
+T108	GO_CC 2076 2080	cell
+#108	AnnotatorNotes T108	GO:0005623 (cell)
+T109	EntrezGene 2104 2108	AQP2
+#109	AnnotatorNotes T109	EG:359
+T110	PR 2104 2108	AQP2
+#110	AnnotatorNotes T110	PR:000004182 (aquaporin-2)
+T111	CHEBI 2137 2142	water
+#111	AnnotatorNotes T111	CHEBI:15377 (water)
+T112	GO_CC 2160 2165	space
+#112	AnnotatorNotes T112	GO:0005576 (extracellular region)
+T113	CL 2175 2179	cell
+#113	AnnotatorNotes T113	CL:0000000 (cell)
+T114	GO_CC 2175 2179	cell
+#114	AnnotatorNotes T114	GO:0005623 (cell)
+T115	CHEBI 2225 2230	water
+#115	AnnotatorNotes T115	CHEBI:15377 (water)
+T116	SO 2260 2269	mutations
+#116	AnnotatorNotes T116	SO:0001059 (sequence_alteration)
+T117	GO_MF 2284 2297	water channel
+#117	AnnotatorNotes T117	GO:0015250 (water channel activity)
+T118	independent_continuant 2284 2297	water channel
+#118	AnnotatorNotes T118	independent_continuant
+T119	CHEBI 2284 2289	water
+#119	AnnotatorNotes T119	CHEBI:15377 (water)
+T120	EntrezGene 2299 2303	AQP2
+#120	AnnotatorNotes T120	EG:359
+T121	PR 2299 2303	AQP2
+#121	AnnotatorNotes T121	PR:000004182 (aquaporin-2)
+T122	GO_MF 2315 2323	receptor
+#122	AnnotatorNotes T122	GO:0004872 (receptor activity)
+T123	independent_continuant 2315 2323	receptor
+#123	AnnotatorNotes T123	independent_continuant
+T124	EntrezGene 2325 2330	AVPR2
+#124	AnnotatorNotes T124	EG:554
+T125	PR 2325 2330	AVPR2
+#125	AnnotatorNotes T125	PR:000001683 (vasopressin receptor 2)
+T126	SO 2344 2353	mutations
+#126	AnnotatorNotes T126	SO:0001059 (sequence_alteration)
+T127	NCBITaxon 2409 2416	animals
+#127	AnnotatorNotes T127	NCBITaxon:33208 (Metazoa)
+T128	NCBITaxon 2479 2484	mouse
+#128	AnnotatorNotes T128	NCBITaxon:10088 (Mus)
+T129	SO 2547 2555	mutation
+#129	AnnotatorNotes T129	SO:0000041 (sequence_operation)
+T130	SO 2563 2568	genes
+#130	AnnotatorNotes T130	SO:0000704 (gene)
+T131	SO 2615 2622	altered
+#131	AnnotatorNotes T131	SO:0000041 (sequence_operation)
+T132	NCBITaxon 2630 2635	mouse
+#132	AnnotatorNotes T132	NCBITaxon:10088 (Mus)
+T133	SO 2657 2664	genetic
+#133	AnnotatorNotes T133	SO:0000704 (gene)
+T134	SO 2683 2690	genetic
+#134	AnnotatorNotes T134	SO:0000704 (gene)
+T135	GO_BP 2724 2731	produce
+#135	AnnotatorNotes T135	GO:0000003 (reproduction)
+T136	NCBITaxon 2741 2746	mouse
+#136	AnnotatorNotes T136	NCBITaxon:10088 (Mus)
+T137	SO 2793 2800	genetic
+#137	AnnotatorNotes T137	SO:0000704 (gene)
+T138	SO 2819 2824	genes
+#138	AnnotatorNotes T138	SO:0000704 (gene)
+T139	SO 2829 2836	mutated
+#139	AnnotatorNotes T139	SO:0000041 (sequence_operation)
+T140	NCBITaxon 2851 2858	animals
+#140	AnnotatorNotes T140	NCBITaxon:33208 (Metazoa)
+T141	SO 3003 3007	gene
+#141	AnnotatorNotes T141	SO:0000704 (gene)
+T142	GO_BP 3149 3158	urination
+#142	AnnotatorNotes T142	GO:0060073 (micturition)
+T143	GO_BP 3186 3224	production of the antidiuretic hormone
+#143	AnnotatorNotes T143	"production of .. hormone" GO:0042446 (hormone biosynthetic process)
+T144	GO_BP 3204 3216	antidiuretic
+#144	AnnotatorNotes T144	GO:0003077 (negative regulation of diuresis)
+T145	CHEBI 3217 3224	hormone
+#145	AnnotatorNotes T145	CHEBI:24621 (hormone)
+T146	GO_MF 3217 3224	hormone
+#146	AnnotatorNotes T146	GO:0005179 (hormone activity)
+T147	independent_continuant 3217 3224	hormone
+#147	AnnotatorNotes T147	independent_continuant
+T148	EntrezGene 3225 3245	arginine vasopressin
+#148	AnnotatorNotes T148	EG:551
+T149	CHEBI 3225 3233	arginine
+#149	AnnotatorNotes T149	CHEBI:32700 (arginine residue)
+T150	SO 3225 3233	arginine
+#150	AnnotatorNotes T150	SO:0001451 (argenine)
+T151	EntrezGene 3247 3250	AVP
+#151	AnnotatorNotes T151	EG:551
+T152	GO_CC 3288 3289	X
+#152	AnnotatorNotes T152	GO:0000805 (X chromosome)
+T153	SO 3317 3325	mutation
+#153	AnnotatorNotes T153	SO:0000041 (sequence_operation)
+T154	italic 3333 3338	Avpr2
+#154	AnnotatorNotes T154	italic (null)
+T155	PR 3333 3338	Avpr2
+#155	AnnotatorNotes T155	PR:000001683 (vasopressin receptor 2)
+T156	EntrezGene 3333 3338	Avpr2
+#156	AnnotatorNotes T156	EG:554
+T157	SO 3339 3343	gene
+#157	AnnotatorNotes T157	SO:0000704 (gene)
+T158	GO_CC 3352 3361	autosomal
+#158	AnnotatorNotes T158	GO:0030849 (autosome)
+T159	SO 3369 3377	mutation
+#159	AnnotatorNotes T159	SO:0000041 (sequence_operation)
+T160	italic 3385 3389	Aqp2
+#160	AnnotatorNotes T160	italic (null)
+T161	EntrezGene 3385 3389	Aqp2
+#161	AnnotatorNotes T161	EG:359
+T162	PR 3385 3389	Aqp2
+#162	AnnotatorNotes T162	PR:000004182 (aquaporin-2)
+T163	SO 3390 3394	gene
+#163	AnnotatorNotes T163	SO:0000704 (gene)
+T164	PR 3400 3411	Aquaporin-2
+#164	AnnotatorNotes T164	PR:000004182 (aquaporin-2)
+T165	PR 3413 3417	AQP2
+#165	AnnotatorNotes T165	PR:000004182 (aquaporin-2)
+T166	GO_BP 3424 3436	pore-forming
+#166	AnnotatorNotes T166	GO:0046931 (pore complex biogenesis)
+T167	GO_MF 3424 3428	pore
+#167	AnnotatorNotes T167	GO:0015267 (channel activity)
+T168	independent_continuant 3424 3428	pore
+#168	AnnotatorNotes T168	independent_continuant
+T169	CHEBI 3437 3444	protein
+#169	AnnotatorNotes T169	CHEBI:36080 (proteins)
+T170	GO_MF 3470 3484	water channels
+#170	AnnotatorNotes T170	GO:0015250 (water channel activity)
+T171	independent_continuant 3470 3484	water channels
+#171	AnnotatorNotes T171	independent_continuant
+T172	CHEBI 3470 3475	water
+#172	AnnotatorNotes T172	CHEBI:15377 (water)
+T173	GO_BP 3500 3509	expressed
+#173	AnnotatorNotes T173	GO:0010467 (gene expression)
+T174	CL 3539 3544	cells
+#174	AnnotatorNotes T174	CL:0000000 (cell)
+T175	GO_CC 3539 3544	cells
+#175	AnnotatorNotes T175	GO:0005623 (cell)
+T176	CHEBI 3580 3588	proteins
+#176	AnnotatorNotes T176	CHEBI:36080 (proteins)
+T177	GO_BP 3600 3607	passage
+#177	AnnotatorNotes T177	GO:0051234 (establishment of localization)
+T178	CHEBI 3611 3616	water
+#178	AnnotatorNotes T178	CHEBI:15377 (water)
+T179	GO_CC 3629 3644	plasma membrane
+#179	AnnotatorNotes T179	GO:0005886 (plasma membrane)
+T180	GO_CC 3646 3648	PM
+#180	AnnotatorNotes T180	GO:0005886 (plasma membrane)
+T181	CL 3653 3658	cells
+#181	AnnotatorNotes T181	CL:0000000 (cell)
+T182	GO_CC 3653 3658	cells
+#182	AnnotatorNotes T182	GO:0005623 (cell)
+T183	CHEBI 3728 3733	water
+#183	AnnotatorNotes T183	CHEBI:15377 (water)
+T184	GO_BP 3848 3859	tetramerize
+#184	AnnotatorNotes T184	GO:0051262 (protein tetramerization)
+T185	GO_CC 3892 3907	plasma membrane
+#185	AnnotatorNotes T185	GO:0005886 (plasma membrane)
+T186	CHEBI 3933 3941	proteins
+#186	AnnotatorNotes T186	CHEBI:36080 (proteins)
+T187	GO_BP 3969 3977	targeted
+#187	AnnotatorNotes T187	GO:0006605 (protein targeting)
+T188	GO_CC 3990 4007	regions of the PM
+#188	AnnotatorNotes T188	"regions of .. PM" GO:0044459 (plasma membrane part)
+T189	GO_CC 4005 4007	PM
+#189	AnnotatorNotes T189	GO:0005886 (plasma membrane)
+T190	PR 4022 4026	AQP2
+#190	AnnotatorNotes T190	PR:000004182 (aquaporin-2)
+T191	GO_BP 4030 4036	routed
+#191	AnnotatorNotes T191	GO:0006810 (transport)
+T192	GO_CC 4044 4068	apical membrane of cells
+#192	AnnotatorNotes T192	GO:0016324 (apical plasma membrane)
+T193	GO_CC 4044 4050	apical
+#193	AnnotatorNotes T193	GO:0045177 (apical part of cell)
+T194	CL 4063 4068	cells
+#194	AnnotatorNotes T194	CL:0000000 (cell)
+T195	GO_CC 4063 4068	cells
+#195	AnnotatorNotes T195	GO:0005623 (cell)
+T196	PR 4128 4132	AQP3
+#196	AnnotatorNotes T196	PR:000004183 (aquaporin-3)
+T197	PR 4212 4216	AQP2
+#197	AnnotatorNotes T197	PR:000004182 (aquaporin-2)
+T198	GO_CC 4257 4272	plasma membrane
+#198	AnnotatorNotes T198	GO:0005886 (plasma membrane)
+T199	CHEBI 4302 4309	protein
+#199	AnnotatorNotes T199	CHEBI:36080 (proteins)
+T200	GO_BP 4310 4317	resides
+#200	AnnotatorNotes T200	GO:0051179 (localization)
+T201	GO_CC 4331 4344	intracellular
+#201	AnnotatorNotes T201	GO:0005622 (intracellular)
+T202	GO_CC 4345 4353	vesicles
+#202	AnnotatorNotes T202	GO:0031982 (vesicle)
+T203	GO_BP 4391 4406	water retention
+#203	AnnotatorNotes T203	GO:0003092 (renal water retention)
+T204	CHEBI 4391 4396	water
+#204	AnnotatorNotes T204	CHEBI:15377 (water)
+T205	PR 4407 4411	AQP2
+#205	AnnotatorNotes T205	PR:000004182 (aquaporin-2)
+T206	GO_BP 4412 4424	translocates
+#206	AnnotatorNotes T206	GO:0006810 (transport)
+T207	GO_CC 4432 4447	apical membrane
+#207	AnnotatorNotes T207	GO:0016324 (apical plasma membrane)
+T208	GO_CC 4432 4438	apical
+#208	AnnotatorNotes T208	GO:0045177 (apical part of cell)
+T209	CHEBI 4460 4465	water
+#209	AnnotatorNotes T209	CHEBI:15377 (water)
+T210	GO_MF 4517 4522	binds
+#210	AnnotatorNotes T210	GO:0005488 (binding)
+T211	GO_MF 4527 4535	receptor
+#211	AnnotatorNotes T211	GO:0004872 (receptor activity)
+T212	independent_continuant 4527 4535	receptor
+#212	AnnotatorNotes T212	independent_continuant
+T213	PR 4537 4542	AVPR2
+#213	AnnotatorNotes T213	PR:000001683 (vasopressin receptor 2)
+T214	CL 4591 4596	cells
+#214	AnnotatorNotes T214	CL:0000000 (cell)
+T215	GO_CC 4591 4596	cells
+#215	AnnotatorNotes T215	GO:0005623 (cell)
+T216	GO_CC 4619 4632	intracellular
+#216	AnnotatorNotes T216	GO:0005622 (intracellular)
+T217	CHEBI 4633 4637	cAMP
+#217	AnnotatorNotes T217	CHEBI:17489 (3',5'-cyclic AMP)
+T218	GO_BP 4663 4696	phosphorylation of AQP2 at serine
+#218	AnnotatorNotes T218	"phosphorylation .. at serine" GO:0018105 (peptidyl-serine phosphorylation)
+T219	PR 4682 4686	AQP2
+#219	AnnotatorNotes T219	PR:000004182 (aquaporin-2)
+T220	CHEBI 4690 4696	serine
+#220	AnnotatorNotes T220	CHEBI:32848 (serine residue)
+T221	SO 4690 4696	serine
+#221	AnnotatorNotes T221	SO:0001444 (serine)
+T222	independent_continuant 4704 4733	cAMP-dependent protein kinase
+#222	AnnotatorNotes T222	independent_continuant
+T223	GO_MF 4704 4733	cAMP-dependent protein kinase
+#223	AnnotatorNotes T223	GO:0004691 (cAMP-dependent protein kinase activity)
+T224	CHEBI 4704 4708	cAMP
+#224	AnnotatorNotes T224	CHEBI:17489 (3',5'-cyclic AMP)
+T225	CHEBI 4719 4726	protein
+#225	AnnotatorNotes T225	CHEBI:36080 (proteins)
+T226	GO_CC 4768 4783	plasma membrane
+#226	AnnotatorNotes T226	GO:0005886 (plasma membrane)
+T227	EntrezGene 4804 4808	AQP2
+#227	AnnotatorNotes T227	EG:359
+T228	PR 4804 4808	AQP2
+#228	AnnotatorNotes T228	PR:000004182 (aquaporin-2)
+T229	italic 4879 4883	Aqp2
+#229	AnnotatorNotes T229	italic (null)
+T230	PR 4879 4883	Aqp2
+#230	AnnotatorNotes T230	PR:000004182 (aquaporin-2)
+T231	EntrezGene 4879 4883	Aqp2
+#231	AnnotatorNotes T231	EG:359
+T232	SO 4884 4893	mutations
+#232	AnnotatorNotes T232	SO:0001059 (sequence_alteration)
+T233	NCBITaxon 4921 4927	humans
+#233	AnnotatorNotes T233	NCBITaxon:9606 (Homo sapiens)
+T234	italic 4946 4950	Aqp2
+#234	AnnotatorNotes T234	italic (null)
+T235	EntrezGene 4946 4950	Aqp2
+#235	AnnotatorNotes T235	EG:359
+T236	PR 4946 4950	Aqp2
+#236	AnnotatorNotes T236	PR:000004182 (aquaporin-2)
+T237	SO 4951 4960	mutations
+#237	AnnotatorNotes T237	SO:0001059 (sequence_alteration)
+T238	GO_BP 4986 4993	produce
+#238	AnnotatorNotes T238	GO:0009058 (biosynthetic process)
+T239	GO_BP 5008 5017	localized
+#239	AnnotatorNotes T239	GO:0051179 (localization)
+T240	independent_continuant 5052 5062	water pore
+#240	AnnotatorNotes T240	independent_continuant
+T241	GO_MF 5052 5062	water pore
+#241	AnnotatorNotes T241	GO:0015250 (water channel activity)
+T242	CHEBI 5052 5057	water
+#242	AnnotatorNotes T242	CHEBI:15377 (water)
+T243	GO_BP 5068 5076	responds
+#243	AnnotatorNotes T243	GO:0050896 (response to stimulus)
+T244	CHEBI 5106 5110	cAMP
+#244	AnnotatorNotes T244	CHEBI:17489 (3',5'-cyclic AMP)
+T245	SO 5141 5150	mutations
+#245	AnnotatorNotes T245	SO:0001059 (sequence_alteration)
+T246	SO 5202 5208	mutant
+#246	AnnotatorNotes T246	SO:0001059 (sequence_alteration)
+T247	SO 5217 5226	wild-type
+#247	AnnotatorNotes T247	SO:0000817 (wild_type)
+T248	CHEBI 5227 5234	protein
+#248	AnnotatorNotes T248	CHEBI:36080 (proteins)
+T249	GO_CC 5242 5262	basolateral membrane
+#249	AnnotatorNotes T249	GO:0016323 (basolateral plasma membrane)
+T250	NCBITaxon 5280 5285	mouse
+#250	AnnotatorNotes T250	NCBITaxon:10088 (Mus)
+T251	GO_BP 5325 5334	generated
+#251	AnnotatorNotes T251	GO:0000003 (reproduction)
+T252	NCBITaxon 5374 5379	human
+#252	AnnotatorNotes T252	NCBITaxon:9606 (Homo sapiens)
+T253	NCBITaxon 5385 5389	mice
+#253	AnnotatorNotes T253	NCBITaxon:10088 (Mus)
+T254	GO_BP 5400 5409	generated
+#254	AnnotatorNotes T254	GO:0000003 (reproduction)
+T255	SO 5415 5424	mutations
+#255	AnnotatorNotes T255	SO:0001059 (sequence_alteration)
+T256	italic 5428 5432	Aqp2
+#256	AnnotatorNotes T256	italic (null)
+T257	PR 5428 5432	Aqp2
+#257	AnnotatorNotes T257	PR:000004182 (aquaporin-2)
+T258	EntrezGene 5428 5432	Aqp2
+#258	AnnotatorNotes T258	EG:11827
+T259	italic 5437 5442	Avpr2
+#259	AnnotatorNotes T259	italic (null)
+T260	PR 5437 5442	Avpr2
+#260	AnnotatorNotes T260	PR:000001683 (vasopressin receptor 2)
+T261	EntrezGene 5437 5442	Avpr2
+#261	AnnotatorNotes T261	EG:12000
+T262	GO_BP 5472 5479	created
+#262	AnnotatorNotes T262	GO:0000003 (reproduction)
+T263	NCBITaxon 5482 5487	mouse
+#263	AnnotatorNotes T263	NCBITaxon:10088 (Mus)
+T264	SO 5510 5518	mutation
+#264	AnnotatorNotes T264	SO:0001059 (sequence_alteration)
+T265	italic 5526 5530	Aqp2
+#265	AnnotatorNotes T265	italic (null)
+T266	EntrezGene 5526 5530	Aqp2
+#266	AnnotatorNotes T266	EG:11827
+T267	PR 5526 5530	Aqp2
+#267	AnnotatorNotes T267	PR:000004182 (aquaporin-2)
+T268	SO 5531 5535	gene
+#268	AnnotatorNotes T268	SO:0000704 (gene)
+T269	SO 5562 5568	mutant
+#269	AnnotatorNotes T269	SO:0001059 (sequence_alteration)
+T270	NCBITaxon 5569 5573	mice
+#270	AnnotatorNotes T270	NCBITaxon:10088 (Mus)
+T271	GO_BP 5574 5578	died
+#271	AnnotatorNotes T271	GO:0016265 (death)
+T272	GO_BP 5596 5601	birth
+#272	AnnotatorNotes T272	GO:0007567 (parturition)
+T273	EntrezGene 5618 5623	AVPR2
+#273	AnnotatorNotes T273	EG:12000
+T274	PR 5618 5623	AVPR2
+#274	AnnotatorNotes T274	PR:000001683 (vasopressin receptor 2)
+T275	GO_BP 5649 5652	die
+#275	AnnotatorNotes T275	GO:0016265 (death)
+T276	GO_BP 5681 5686	birth
+#276	AnnotatorNotes T276	GO:0007567 (parturition)
+T277	NCBITaxon 5727 5732	mouse
+#277	AnnotatorNotes T277	NCBITaxon:10088 (Mus)
+T278	NCBITaxon 5759 5767	organism
+#278	AnnotatorNotes T278	NCBITaxon:1 (root)
+T279	GO_BP 5783 5800	water homeostasis
+#279	AnnotatorNotes T279	GO:0030104 (water homeostasis)
+T280	CHEBI 5783 5788	water
+#280	AnnotatorNotes T280	CHEBI:15377 (water)
+T281	SO 5856 5863	genetic
+#281	AnnotatorNotes T281	SO:0000704 (gene)
+T282	NCBITaxon 5874 5879	mouse
+#282	AnnotatorNotes T282	NCBITaxon:10088 (Mus)
+T283	italic 5888 5892	Aqp2
+#283	AnnotatorNotes T283	italic (null)
+T284	PR 5888 5892	Aqp2
+#284	AnnotatorNotes T284	PR:000004182 (aquaporin-2)
+T285	EntrezGene 5888 5892	Aqp2
+#285	AnnotatorNotes T285	EG:11827
+T286	SO 5893 5901	mutation
+#286	AnnotatorNotes T286	SO:0001059 (sequence_alteration)
+T287	NCBITaxon 5969 5975	murine
+#287	AnnotatorNotes T287	NCBITaxon:39107 (Murinae)
+T288	SO 6039 6047	mutation
+#288	AnnotatorNotes T288	SO:0001059 (sequence_alteration)
+T289	italic 6055 6059	Aqp2
+#289	AnnotatorNotes T289	italic (null)
+T290	PR 6055 6059	Aqp2
+#290	AnnotatorNotes T290	PR:000004182 (aquaporin-2)
+T291	EntrezGene 6055 6059	Aqp2
+#291	AnnotatorNotes T291	EG:11827
+T292	SO 6060 6064	gene
+#292	AnnotatorNotes T292	SO:0000704 (gene)
+T293	SO 6071 6077	allele
+#293	AnnotatorNotes T293	SO:0001023 (allele)
+T294	italic 6081 6085	Aqp2
+#294	AnnotatorNotes T294	italic (null)
+T295	EntrezGene 6081 6085	Aqp2
+#295	AnnotatorNotes T295	EG:11827
+T296	PR 6081 6085	Aqp2
+#296	AnnotatorNotes T296	PR:000004182 (aquaporin-2)
+T297	NCBITaxon 6115 6120	mouse
+#297	AnnotatorNotes T297	NCBITaxon:10088 (Mus)
+T298	CHEBI 6174 6183	Molecular
+#298	AnnotatorNotes T298	CHEBI:23367 (molecular entity)
+T299	SO 6208 6214	mutant
+#299	AnnotatorNotes T299	SO:0001059 (sequence_alteration)
+T300	EntrezGene 6215 6219	AQP2
+#300	AnnotatorNotes T300	EG:11827
+T301	PR 6215 6219	AQP2
+#301	AnnotatorNotes T301	PR:000004182 (aquaporin-2)
+T302	GO_BP 6239 6263	subcellular localization
+#302	AnnotatorNotes T302	GO:0051641 (cellular localization)
+T303	GO_BP 6251 6294	localization in renal collecting-duct cells
+#303	AnnotatorNotes T303	"localization in .. cells" GO:0051641 (cellular localization)
+T304	CL 6289 6294	cells
+#304	AnnotatorNotes T304	CL:0000000 (cell)
+T305	GO_CC 6289 6294	cells
+#305	AnnotatorNotes T305	GO:0005623 (cell)
+T306	GO_BP 6317 6330	translocation
+#306	AnnotatorNotes T306	GO:0006810 (transport)
+T307	CHEBI 6359 6366	agonist
+#307	AnnotatorNotes T307	CHEBI:48705 (agonist)
+T308	GO_MF 6359 6366	agonist
+#308	AnnotatorNotes T308	GO:0048018 (receptor agonist activity)
+T309	independent_continuant 6359 6366	agonist
+#309	AnnotatorNotes T309	independent_continuant
+T310	NCBITaxon 6414 6420	canine
+#310	AnnotatorNotes T310	NCBITaxon:9608 (Canidae)
+T311	CL 6435 6439	cell
+#311	AnnotatorNotes T311	CL:0000000 (cell)
+T312	GO_CC 6435 6439	cell
+#312	AnnotatorNotes T312	GO:0005623 (cell)
+T313	GO_CC 6461 6482	endoplasmic reticulum
+#313	AnnotatorNotes T313	GO:0005783 (endoplasmic reticulum)
+T314	SO 6499 6505	mutant
+#314	AnnotatorNotes T314	SO:0001059 (sequence_alteration)
+T315	CHEBI 6506 6513	protein
+#315	AnnotatorNotes T315	CHEBI:36080 (proteins)
+T316	GO_BP 6542 6555	translocation
+#316	AnnotatorNotes T316	GO:0006810 (transport)
+T317	GO_CC 6592 6601	autosomal
+#317	AnnotatorNotes T317	GO:0030849 (autosome)
+T318	EntrezGene 6645 6649	AQP2
+#318	AnnotatorNotes T318	EG:11827
+T319	PR 6645 6649	AQP2
+#319	AnnotatorNotes T319	PR:000004182 (aquaporin-2)
+T320	GO_BP 6650 6657	routing
+#320	AnnotatorNotes T320	GO:0006810 (transport)
+T321	NCBITaxon 6672 6678	mammal
+#321	AnnotatorNotes T321	NCBITaxon:40674 (Mammalia)
+T322	SO 6703 6710	genetic
+#322	AnnotatorNotes T322	SO:0000704 (gene)
+T323	CHEBI 6728 6744	ethylnitrosourea
+#323	AnnotatorNotes T323	CHEBI:23995 (ethyl nitrosourea)
+T324	CHEBI 6746 6749	ENU
+#324	AnnotatorNotes T324	CHEBI:23995 (ethyl nitrosourea)
+T325	SO 6761 6770	mutations
+#325	AnnotatorNotes T325	SO:0001059 (sequence_alteration)
+T326	NCBITaxon 6784 6790	animal
+#326	AnnotatorNotes T326	NCBITaxon:33208 (Metazoa)
+T327	GO_BP 6850 6860	metabolism
+#327	AnnotatorNotes T327	GO:0008152 (metabolic process)
+T328	NCBITaxon 6891 6895	mice
+#328	AnnotatorNotes T328	NCBITaxon:10088 (Mus)
+T329	GO_BP 6901 6909	urinated
+#329	AnnotatorNotes T329	GO:0060073 (micturition)
+T330	GO_BP 6914 6919	drank
+#330	AnnotatorNotes T330	GO:0042756 (drinking behavior)
+T331	CHEBI 6977 6984	glucose
+#331	AnnotatorNotes T331	CHEBI:17234 (glucose)
+T332	CHEBI 7021 7028	glucose
+#332	AnnotatorNotes T332	CHEBI:17234 (glucose)
+T333	NCBITaxon 7135 7139	mice
+#333	AnnotatorNotes T333	NCBITaxon:10088 (Mus)
+T334	GO_CC 7167 7176	autosomal
+#334	AnnotatorNotes T334	GO:0030849 (autosome)
+T335	italic 7202 7206	Aqp2
+#335	AnnotatorNotes T335	italic (null)
+T336	EntrezGene 7202 7206	Aqp2
+#336	AnnotatorNotes T336	EG:11827
+T337	PR 7202 7206	Aqp2
+#337	AnnotatorNotes T337	PR:000004182 (aquaporin-2)
+T338	SO 7219 7223	gene
+#338	AnnotatorNotes T338	SO:0000704 (gene)
+T339	italic 7239 7243	Aqp2
+#339	AnnotatorNotes T339	italic (null)
+T340	PR 7239 7243	Aqp2
+#340	AnnotatorNotes T340	PR:000004182 (aquaporin-2)
+T341	EntrezGene 7239 7243	Aqp2
+#341	AnnotatorNotes T341	EG:11827
+T342	SO 7244 7257	coding region
+#342	AnnotatorNotes T342	SO:0000316 (CDS)
+T343	NCBITaxon 7270 7274	mice
+#343	AnnotatorNotes T343	NCBITaxon:10088 (Mus)
+T344	SO 7288 7328	thymine to guanine (T to G) transversion
+#344	AnnotatorNotes T344	"thymine to guanine .. transversion" SO:1000022 (T_to_G_transversion)
+T345	CHEBI 7288 7295	thymine
+#345	AnnotatorNotes T345	CHEBI:30757 (thymin-1-yl group)
+T346	CHEBI 7299 7306	guanine
+#346	AnnotatorNotes T346	CHEBI:30755 (guanine group)
+T347	SO 7308 7328	T to G) transversion
+#347	AnnotatorNotes T347	"T to G .. transversion" SO:1000022 (T_to_G_transversion)
+T348	CHEBI 7308 7309	T
+#348	AnnotatorNotes T348	CHEBI:30757 (thymin-1-yl group)
+T349	CHEBI 7313 7314	G
+#349	AnnotatorNotes T349	CHEBI:30755 (guanine group)
+T350	CHEBI 7374 7380	valine
+#350	AnnotatorNotes T350	CHEBI:32861 (valine residue)
+T351	SO 7374 7380	valine
+#351	AnnotatorNotes T351	SO:0001436 (valine)
+T352	CHEBI 7385 7398	phenylalanine
+#352	AnnotatorNotes T352	CHEBI:32503 (phenylalanine residue)
+T353	SO 7385 7398	phenylalanine
+#353	AnnotatorNotes T353	SO:0001441 (phenylalanine)
+T354	SO 7399 7411	substitution
+#354	AnnotatorNotes T354	SO:1000002 (substitution)
+T355	CHEBI 7415 7425	amino acid
+#355	AnnotatorNotes T355	CHEBI:33708 (amino-acid residue)
+T356	SO 7415 7425	amino acid
+#356	AnnotatorNotes T356	SO:0001237 (amino_acid)
+T357	CHEBI 7415 7420	amino
+#357	AnnotatorNotes T357	CHEBI:46882 (amino group)
+T358	CHEBI 7415 7420	amino
+#358	AnnotatorNotes T358	CHEBI:32952 (amines)
+T359	CHEBI 7421 7425	acid
+#359	AnnotatorNotes T359	CHEBI:37527 (acid)
+T360	CHEBI 7437 7444	protein
+#360	AnnotatorNotes T360	CHEBI:36080 (proteins)
+T361	PR 7455 7459	AQP2
+#361	AnnotatorNotes T361	PR:000004182 (aquaporin-2)
+T362	GO_CC 7469 7482	transmembrane
+#362	AnnotatorNotes T362	GO:0016021 (integral to membrane)
+T363	GO_MF 7483 7496	water channel
+#363	AnnotatorNotes T363	GO:0015250 (water channel activity)
+T364	independent_continuant 7483 7496	water channel
+#364	AnnotatorNotes T364	independent_continuant
+T365	CHEBI 7483 7488	water
+#365	AnnotatorNotes T365	CHEBI:15377 (water)
+T366	GO_CC 7521 7534	extracellular
+#366	AnnotatorNotes T366	GO:0005576 (extracellular region)
+T367	GO_CC 7553 7561	membrane
+#367	AnnotatorNotes T367	GO:0016020 (membrane)
+T368	SO 7571 7577	domain
+#368	AnnotatorNotes T368	SO:0000417 (polypeptide_domain)
+T369	SO 7581 7587	region
+#369	AnnotatorNotes T369	SO:0000001 (region)
+T370	CHEBI 7608 7619	amino acids
+#370	AnnotatorNotes T370	CHEBI:33708 (amino-acid residue)
+T371	SO 7608 7619	amino acids
+#371	AnnotatorNotes T371	SO:0001237 (amino_acid)
+T372	CHEBI 7608 7613	amino
+#372	AnnotatorNotes T372	CHEBI:46882 (amino group)
+T373	CHEBI 7608 7613	amino
+#373	AnnotatorNotes T373	CHEBI:32952 (amines)
+T374	CHEBI 7614 7619	acids
+#374	AnnotatorNotes T374	CHEBI:37527 (acid)
+T375	GO_CC 7640 7648	membrane
+#375	AnnotatorNotes T375	GO:0016020 (membrane)
+T376	SO 7658 7665	domains
+#376	AnnotatorNotes T376	SO:0000417 (polypeptide_domain)
+T377	SO 7670 7679	conserved
+#377	AnnotatorNotes T377	SO:0000856 (conserved)
+T378	NCBITaxon 7686 7696	vertebrate
+#378	AnnotatorNotes T378	NCBITaxon:7742 (Vertebrata)
+T379	taxonomic_rank 7697 7704	species
+#379	AnnotatorNotes T379	species (null)
+T380	CHEBI 7710 7723	phenylalanine
+#380	AnnotatorNotes T380	CHEBI:32503 (phenylalanine residue)
+T381	SO 7710 7723	phenylalanine
+#381	AnnotatorNotes T381	SO:0001441 (phenylalanine)
+T382	SO 7727 7735	position
+#382	AnnotatorNotes T382	SO:0000001 (region)
+T383	SO 7761 7770	conserved
+#383	AnnotatorNotes T383	SO:0000856 (conserved)
+T384	NCBITaxon 7799 7809	vertebrate
+#384	AnnotatorNotes T384	NCBITaxon:7742 (Vertebrata)
+T385	PR 7810 7814	AQP2
+#385	AnnotatorNotes T385	PR:000004182 (aquaporin-2)
+T386	CHEBI 7815 7823	proteins
+#386	AnnotatorNotes T386	CHEBI:36080 (proteins)
+T387	italic 7872 7887	Aqp2F204V/F204V
+#387	AnnotatorNotes T387	italic (null)
+T388	sup 7876 7887	F204V/F204V
+#388	AnnotatorNotes T388	sup (null)
+T389	NCBITaxon 7888 7892	mice
+#389	AnnotatorNotes T389	NCBITaxon:10088 (Mus)
+T390	SO 8056 8065	wild-type
+#390	AnnotatorNotes T390	SO:0000817 (wild_type)
+T391	CHEBI 8092 8097	water
+#391	AnnotatorNotes T391	CHEBI:15377 (water)
+T392	CHEBI 8169 8174	water
+#392	AnnotatorNotes T392	CHEBI:15377 (water)
+T393	SO 8191 8197	mutant
+#393	AnnotatorNotes T393	SO:0001059 (sequence_alteration)
+T394	NCBITaxon 8198 8202	mice
+#394	AnnotatorNotes T394	NCBITaxon:10088 (Mus)
+T395	CHEBI 8236 8241	water
+#395	AnnotatorNotes T395	CHEBI:15377 (water)
+T396	SO 8295 8304	wild-type
+#396	AnnotatorNotes T396	SO:0000817 (wild_type)
+T397	GO_BP 8343 8357	urinary output
+#397	AnnotatorNotes T397	GO:0060073 (micturition)
+T398	CHEBI 8362 8367	water
+#398	AnnotatorNotes T398	CHEBI:15377 (water)
+T399	SO 8434 8442	mutation
+#399	AnnotatorNotes T399	SO:0001059 (sequence_alteration)
+T400	NCBITaxon 8453 8460	animals
+#400	AnnotatorNotes T400	NCBITaxon:33208 (Metazoa)
+T401	SO 8572 8581	wild-type
+#401	AnnotatorNotes T401	SO:0000817 (wild_type)
+T402	italic 8611 8626	Aqp2F204V/F204V
+#402	AnnotatorNotes T402	italic (null)
+T403	sup 8615 8626	F204V/F204V
+#403	AnnotatorNotes T403	sup (null)
+T404	NCBITaxon 8627 8631	mice
+#404	AnnotatorNotes T404	NCBITaxon:10088 (Mus)
+T405	SO 8700 8706	mutant
+#405	AnnotatorNotes T405	SO:0001059 (sequence_alteration)
+T406	NCBITaxon 8707 8711	mice
+#406	AnnotatorNotes T406	NCBITaxon:10088 (Mus)
+T407	SO 8763 8772	wild-type
+#407	AnnotatorNotes T407	SO:0000817 (wild_type)
+T408	NCBITaxon 8773 8777	mice
+#408	AnnotatorNotes T408	NCBITaxon:10088 (Mus)
+T409	italic 8779 8780	p
+#409	AnnotatorNotes T409	italic (null)
+T410	GO_BP 8834 8841	control
+#410	AnnotatorNotes T410	GO:0065007 (biological regulation)
+T411	GO_BP 8873 8881	response
+#411	AnnotatorNotes T411	GO:0050896 (response to stimulus)
+T412	GO_BP 8920 8928	secretes
+#412	AnnotatorNotes T412	GO:0046903 (secretion)
+T413	SO 8938 8947	synthetic
+#413	AnnotatorNotes T413	SO:0000351 (synthetic_sequence)
+T414	CHEBI 8972 8982	D-arginine
+#414	AnnotatorNotes T414	CHEBI:29953 (D-arginine residue)
+T415	SO 8974 8982	arginine
+#415	AnnotatorNotes T415	SO:0001451 (argenine)
+T416	CHEBI 9042 9049	agonist
+#416	AnnotatorNotes T416	CHEBI:48705 (agonist)
+T417	GO_MF 9042 9049	agonist
+#417	AnnotatorNotes T417	GO:0048018 (receptor agonist activity)
+T418	independent_continuant 9042 9049	agonist
+#418	AnnotatorNotes T418	independent_continuant
+T419	PR 9053 9058	AVPR2
+#419	AnnotatorNotes T419	PR:000001683 (vasopressin receptor 2)
+T420	SO 9081 9090	wild-type
+#420	AnnotatorNotes T420	SO:0000817 (wild_type)
+T421	NCBITaxon 9091 9095	mice
+#421	AnnotatorNotes T421	NCBITaxon:10088 (Mus)
+T422	SO 9228 9234	mutant
+#422	AnnotatorNotes T422	SO:0001059 (sequence_alteration)
+T423	NCBITaxon 9235 9239	mice
+#423	AnnotatorNotes T423	NCBITaxon:10088 (Mus)
+T424	NCBITaxon 9361 9368	animals
+#424	AnnotatorNotes T424	NCBITaxon:33208 (Metazoa)
+T425	GO_BP 9457 9465	response
+#425	AnnotatorNotes T425	GO:0050896 (response to stimulus)
+T426	GO_BP 9488 9496	response
+#426	AnnotatorNotes T426	GO:0050896 (response to stimulus)
+T427	SO 9546 9552	mutant
+#427	AnnotatorNotes T427	SO:0001059 (sequence_alteration)
+T428	EntrezGene 9553 9565	AQP2 channel
+#428	AnnotatorNotes T428	EG:11827
+T429	PR 9553 9565	AQP2 channel
+#429	AnnotatorNotes T429	PR:000004182 (aquaporin-2)
+T430	independent_continuant 9558 9565	channel
+#430	AnnotatorNotes T430	independent_continuant
+T431	GO_MF 9558 9565	channel
+#431	AnnotatorNotes T431	GO:0015267 (channel activity)
+T432	NCBITaxon 9617 9627	individual
+#432	AnnotatorNotes T432	NCBITaxon:1 (root)
+T433	NCBITaxon 9663 9668	mouse
+#433	AnnotatorNotes T433	NCBITaxon:10088 (Mus)
+T434	GO_BP 9698 9705	matings
+#434	AnnotatorNotes T434	GO:0007618 (mating)
+T435	GO_BP 9706 9713	yielded
+#435	AnnotatorNotes T435	GO:0000003 (reproduction)
+T436	NCBITaxon 9718 9725	animals
+#436	AnnotatorNotes T436	NCBITaxon:33208 (Metazoa)
+T437	SO 9794 9803	wild type
+#437	AnnotatorNotes T437	SO:0000817 (wild_type)
+T438	independent_continuant 9794 9803	wild type
+#438	AnnotatorNotes T438	independent_continuant
+T439	SO 9823 9829	mutant
+#439	AnnotatorNotes T439	SO:0001059 (sequence_alteration)
+T440	independent_continuant 9823 9829	mutant
+#440	AnnotatorNotes T440	independent_continuant
+T441	SO 9924 9932	mutation
+#441	AnnotatorNotes T441	SO:0001059 (sequence_alteration)
+T442	CHEBI 9980 9985	water
+#442	AnnotatorNotes T442	CHEBI:15377 (water)
+T443	SO 10026 10032	mutant
+#443	AnnotatorNotes T443	SO:0001059 (sequence_alteration)
+T444	NCBITaxon 10033 10037	mice
+#444	AnnotatorNotes T444	NCBITaxon:10088 (Mus)
+T445	NCBITaxon 10096 10103	animals
+#445	AnnotatorNotes T445	NCBITaxon:33208 (Metazoa)
+T446	SO 10153 10159	mutant
+#446	AnnotatorNotes T446	SO:0001059 (sequence_alteration)
+T447	NCBITaxon 10160 10164	mice
+#447	AnnotatorNotes T447	NCBITaxon:10088 (Mus)
+T448	NCBITaxon 10205 10211	animal
+#448	AnnotatorNotes T448	NCBITaxon:33208 (Metazoa)
+T449	NCBITaxon 10258 10265	animals
+#449	AnnotatorNotes T449	NCBITaxon:33208 (Metazoa)
+T450	italic 10282 10297	Aqp2F204V/F204V
+#450	AnnotatorNotes T450	italic (null)
+T451	sup 10286 10297	F204V/F204V
+#451	AnnotatorNotes T451	sup (null)
+T452	NCBITaxon 10298 10302	mice
+#452	AnnotatorNotes T452	NCBITaxon:10088 (Mus)
+T453	italic 10470 10485	Aqp2F204V/F204V
+#453	AnnotatorNotes T453	italic (null)
+T454	sup 10474 10485	F204V/F204V
+#454	AnnotatorNotes T454	sup (null)
+T455	NCBITaxon 10486 10490	mice
+#455	AnnotatorNotes T455	NCBITaxon:10088 (Mus)
+T456	NCBITaxon 10550 10554	mice
+#456	AnnotatorNotes T456	NCBITaxon:10088 (Mus)
+T457	italic 10639 10648	Aqp1/Aqp3
+#457	AnnotatorNotes T457	italic (null)
+T458	EntrezGene 10639 10643	Aqp1
+#458	AnnotatorNotes T458	EG:11826
+T459	PR 10639 10643	Aqp1
+#459	AnnotatorNotes T459	PR:000004177 (aquaporin-1)
+T460	EntrezGene 10644 10648	Aqp3
+#460	AnnotatorNotes T460	EG:11828
+T461	PR 10644 10648	Aqp3
+#461	AnnotatorNotes T461	PR:000004183 (aquaporin-3)
+T462	NCBITaxon 10659 10663	mice
+#462	AnnotatorNotes T462	NCBITaxon:10088 (Mus)
+T463	italic 10705 10720	Aqp2F204V/F204V
+#463	AnnotatorNotes T463	italic (null)
+T464	sup 10709 10720	F204V/F204V
+#464	AnnotatorNotes T464	sup (null)
+T465	NCBITaxon 10721 10725	mice
+#465	AnnotatorNotes T465	NCBITaxon:10088 (Mus)
+T466	italic 10771 10786	Aqp2F204V/F204V
+#466	AnnotatorNotes T466	italic (null)
+T467	sup 10775 10786	F204V/F204V
+#467	AnnotatorNotes T467	sup (null)
+T468	NCBITaxon 10787 10791	mice
+#468	AnnotatorNotes T468	NCBITaxon:10088 (Mus)
+T469	SO 11346 11361	different forms
+#469	AnnotatorNotes T469	SO:0001060 (sequence_variant)
+T470	EntrezGene 11365 11369	AQP2
+#470	AnnotatorNotes T470	EG:11827
+T471	PR 11365 11369	AQP2
+#471	AnnotatorNotes T471	PR:000004182 (aquaporin-2)
+T472	GO_BP 11409 11422	glycosylation
+#472	AnnotatorNotes T472	GO:0043413 (biopolymer glycosylation)
+T473	CHEBI 11492 11499	protein
+#473	AnnotatorNotes T473	CHEBI:36080 (proteins)
+T474	GO_BP 11540 11552	glycosylated
+#474	AnnotatorNotes T474	GO:0043413 (biopolymer glycosylation)
+T475	CHEBI 11553 11560	protein
+#475	AnnotatorNotes T475	CHEBI:36080 (proteins)
+T476	SO 11614 11626	intermediate
+#476	AnnotatorNotes T476	SO:0000933 (intermediate)
+T477	SO 11627 11631	form
+#477	AnnotatorNotes T477	SO:0001060 (sequence_variant)
+T478	CHEBI 11666 11673	mannose
+#478	AnnotatorNotes T478	CHEBI:25170 (mannosyl group)
+T479	GO_BP 11674 11687	glycosylation
+#479	AnnotatorNotes T479	GO:0043413 (biopolymer glycosylation)
+T480	EntrezGene 11691 11695	AQP2
+#480	AnnotatorNotes T480	EG:11827
+T481	PR 11691 11695	AQP2
+#481	AnnotatorNotes T481	PR:000004182 (aquaporin-2)
+T482	SO 11789 11798	wild-type
+#482	AnnotatorNotes T482	SO:0000817 (wild_type)
+T483	NCBITaxon 11799 11806	animals
+#483	AnnotatorNotes T483	NCBITaxon:33208 (Metazoa)
+T484	EntrezGene 11808 11812	AQP2
+#484	AnnotatorNotes T484	EG:11827
+T485	PR 11808 11812	AQP2
+#485	AnnotatorNotes T485	PR:000004182 (aquaporin-2)
+T486	SO 11818 11824	mutant
+#486	AnnotatorNotes T486	SO:0001059 (sequence_alteration)
+T487	NCBITaxon 11825 11832	animals
+#487	AnnotatorNotes T487	NCBITaxon:33208 (Metazoa)
+T488	CHEBI 11862 11871	molecular
+#488	AnnotatorNotes T488	CHEBI:23367 (molecular entity)
+T489	SO 11888 11892	form
+#489	AnnotatorNotes T489	SO:0001060 (sequence_variant)
+T490	CHEBI 11908 11917	molecular
+#490	AnnotatorNotes T490	CHEBI:23367 (molecular entity)
+T491	SO 11925 11929	form
+#491	AnnotatorNotes T491	SO:0001060 (sequence_variant)
+T492	SO 11951 11963	intermediate
+#492	AnnotatorNotes T492	SO:0000933 (intermediate)
+T493	CHEBI 11964 11973	molecular
+#493	AnnotatorNotes T493	CHEBI:23367 (molecular entity)
+T494	SO 11981 11985	form
+#494	AnnotatorNotes T494	SO:0001060 (sequence_variant)
+T495	NCBITaxon 12012 12019	animals
+#495	AnnotatorNotes T495	NCBITaxon:33208 (Metazoa)
+T496	SO 12061 12066	forms
+#496	AnnotatorNotes T496	SO:0001060 (sequence_variant)
+T497	GO_BP 12088 12100	glycosylated
+#497	AnnotatorNotes T497	GO:0043413 (biopolymer glycosylation)
+T498	SO 12101 12106	forms
+#498	AnnotatorNotes T498	SO:0001060 (sequence_variant)
+T499	GO_BP 12123 12132	digestion
+#499	AnnotatorNotes T499	GO:0009056 (catabolic process)
+T500	PR 12138 12155	endoglycosidase H
+#500	AnnotatorNotes T500	PR:000007078 (cytosolic endo-beta-N-acetylglucosaminidase)
+T501	CHEBI 12184 12191	mannose
+#501	AnnotatorNotes T501	CHEBI:25170 (mannosyl group)
+T502	CHEBI 12219 12226	protein
+#502	AnnotatorNotes T502	CHEBI:36080 (proteins)
+T503	EntrezGene 12261 12265	AQP2
+#503	AnnotatorNotes T503	EG:11827
+T504	PR 12261 12265	AQP2
+#504	AnnotatorNotes T504	PR:000004182 (aquaporin-2)
+T505	SO 12282 12291	wild-type
+#505	AnnotatorNotes T505	SO:0000817 (wild_type)
+T506	SO 12311 12317	mutant
+#506	AnnotatorNotes T506	SO:0001059 (sequence_alteration)
+T507	NCBITaxon 12318 12325	animals
+#507	AnnotatorNotes T507	NCBITaxon:33208 (Metazoa)
+T508	SO 12352 12364	intermediate
+#508	AnnotatorNotes T508	SO:0000933 (intermediate)
+T509	CHEBI 12365 12374	molecular
+#509	AnnotatorNotes T509	CHEBI:23367 (molecular entity)
+T510	SO 12382 12386	form
+#510	AnnotatorNotes T510	SO:0001060 (sequence_variant)
+T511	GO_BP 12428 12440	glycosylated
+#511	AnnotatorNotes T511	GO:0043413 (biopolymer glycosylation)
+T512	CHEBI 12441 12449	proteins
+#512	AnnotatorNotes T512	CHEBI:36080 (proteins)
+T513	italic 12465 12480	Aqp2F204V/F204V
+#513	AnnotatorNotes T513	italic (null)
+T514	sup 12469 12480	F204V/F204V
+#514	AnnotatorNotes T514	sup (null)
+T515	NCBITaxon 12481 12485	mice
+#515	AnnotatorNotes T515	NCBITaxon:10088 (Mus)
+T516	italic 12532 12547	Aqp2T126M/T126M
+#516	AnnotatorNotes T516	italic (null)
+T517	sup 12536 12547	T126M/T126M
+#517	AnnotatorNotes T517	sup (null)
+T518	NCBITaxon 12548 12552	mice
+#518	AnnotatorNotes T518	NCBITaxon:10088 (Mus)
+T519	GO_BP 12590 12598	response
+#519	AnnotatorNotes T519	GO:0050896 (response to stimulus)
+T520	NCBITaxon 12613 12619	humans
+#520	AnnotatorNotes T520	NCBITaxon:9606 (Homo sapiens)
+T521	SO 12631 12638	alleles
+#521	AnnotatorNotes T521	SO:0001023 (allele)
+T522	italic 12642 12646	Aqp2
+#522	AnnotatorNotes T522	italic (null)
+T523	PR 12642 12646	Aqp2
+#523	AnnotatorNotes T523	PR:000004182 (aquaporin-2)
+T524	EntrezGene 12642 12646	Aqp2
+#524	AnnotatorNotes T524	EG:359
+T525	GO_BP 12704 12715	translocate
+#525	AnnotatorNotes T525	GO:0006810 (transport)
+T526	GO_CC 12723 12729	apical
+#526	AnnotatorNotes T526	GO:0045177 (apical part of cell)
+T527	GO_CC 12730 12742	cell surface
+#527	AnnotatorNotes T527	GO:0009986 (cell surface)
+T528	CL 12730 12734	cell
+#528	AnnotatorNotes T528	CL:0000000 (cell)
+T529	GO_CC 12730 12734	cell
+#529	AnnotatorNotes T529	GO:0005623 (cell)
+T530	GO_BP 12746 12754	response
+#530	AnnotatorNotes T530	GO:0050896 (response to stimulus)
+T531	EntrezGene 12758 12761	AVP
+#531	AnnotatorNotes T531	EG:551
+T532	SO 12822 12828	mutant
+#532	AnnotatorNotes T532	SO:0001059 (sequence_alteration)
+T533	italic 12829 12833	Aqp2
+#533	AnnotatorNotes T533	italic (null)
+T534	EntrezGene 12829 12833	Aqp2
+#534	AnnotatorNotes T534	EG:359
+T535	PR 12829 12833	Aqp2
+#535	AnnotatorNotes T535	PR:000004182 (aquaporin-2)
+T536	SO 12834 12839	cDNAs
+#536	AnnotatorNotes T536	SO:0000756 (cDNA)
+T537	NCBITaxon 12857 12862	human
+#537	AnnotatorNotes T537	NCBITaxon:9606 (Homo sapiens)
+T538	SO 12871 12880	mutations
+#538	AnnotatorNotes T538	SO:0001059 (sequence_alteration)
+T539	GO_BP 12885 12896	transfected
+#539	AnnotatorNotes T539	GO:0009294 (DNA mediated transformation)
+T540	CL 12909 12913	cell
+#540	AnnotatorNotes T540	CL:0000000 (cell)
+T541	GO_CC 12909 12913	cell
+#541	AnnotatorNotes T541	GO:0005623 (cell)
+T542	SO 12948 12955	alleles
+#542	AnnotatorNotes T542	SO:0001023 (allele)
+T543	GO_BP 13003 13011	localize
+#543	AnnotatorNotes T543	GO:0051179 (localization)
+T544	EntrezGene 13015 13018	AVP
+#544	AnnotatorNotes T544	EG:551
+T545	GO_BP 13019 13029	responsive
+#545	AnnotatorNotes T545	GO:0050896 (response to stimulus)
+T546	GO_CC 13030 13038	vesicles
+#546	AnnotatorNotes T546	GO:0031982 (vesicle)
+T547	GO_CC 13072 13093	endoplasmic reticulum
+#547	AnnotatorNotes T547	GO:0005783 (endoplasmic reticulum)
+T548	GO_CC 13095 13097	ER
+#548	AnnotatorNotes T548	GO:0005783 (endoplasmic reticulum)
+T549	NCBITaxon 13104 13109	mouse
+#549	AnnotatorNotes T549	NCBITaxon:10088 (Mus)
+T550	NCBITaxon 13189 13195	animal
+#550	AnnotatorNotes T550	NCBITaxon:33208 (Metazoa)
+T551	EntrezGene 13250 13254	AQP2
+#551	AnnotatorNotes T551	EG:11827
+T552	PR 13250 13254	AQP2
+#552	AnnotatorNotes T552	PR:000004182 (aquaporin-2)
+T553	GO_BP 13278 13287	localized
+#553	AnnotatorNotes T553	GO:0051179 (localization)
+T554	GO_CC 13305 13336	region of collecting duct cells
+#554	AnnotatorNotes T554	"region of .. cells" GO:0044464 (cell part)
+T555	CL 13331 13336	cells
+#555	AnnotatorNotes T555	CL:0000000 (cell)
+T556	GO_CC 13331 13336	cells
+#556	AnnotatorNotes T556	GO:0005623 (cell)
+T557	SO 13351 13360	wild-type
+#557	AnnotatorNotes T557	SO:0000817 (wild_type)
+T558	NCBITaxon 13361 13365	mice
+#558	AnnotatorNotes T558	NCBITaxon:10088 (Mus)
+T559	GO_BP 13372 13383	stimulation
+#559	AnnotatorNotes T559	GO:0001775 (cell activation)
+T560	EntrezGene 13396 13400	AQP2
+#560	AnnotatorNotes T560	EG:11827
+T561	PR 13396 13400	AQP2
+#561	AnnotatorNotes T561	PR:000004182 (aquaporin-2)
+T562	GO_BP 13401 13413	translocated
+#562	AnnotatorNotes T562	GO:0006810 (transport)
+T563	GO_CC 13429 13441	cell surface
+#563	AnnotatorNotes T563	GO:0009986 (cell surface)
+T564	CL 13429 13433	cell
+#564	AnnotatorNotes T564	CL:0000000 (cell)
+T565	GO_CC 13429 13433	cell
+#565	AnnotatorNotes T565	GO:0005623 (cell)
+T566	SO 13489 13495	mutant
+#566	AnnotatorNotes T566	SO:0001059 (sequence_alteration)
+T567	NCBITaxon 13496 13503	animals
+#567	AnnotatorNotes T567	NCBITaxon:33208 (Metazoa)
+T568	EntrezGene 13514 13518	AQP2
+#568	AnnotatorNotes T568	EG:11827
+T569	PR 13514 13518	AQP2
+#569	AnnotatorNotes T569	PR:000004182 (aquaporin-2)
+T570	GO_BP 13523 13534	distributed
+#570	AnnotatorNotes T570	GO:0051179 (localization)
+T571	CL 13559 13563	cell
+#571	AnnotatorNotes T571	CL:0000000 (cell)
+T572	GO_CC 13559 13563	cell
+#572	AnnotatorNotes T572	GO:0005623 (cell)
+T573	EntrezGene 13613 13617	AQP3
+#573	AnnotatorNotes T573	EG:11828
+T574	PR 13613 13617	AQP3
+#574	AnnotatorNotes T574	PR:000004183 (aquaporin-3)
+T575	GO_BP 13640 13649	localized
+#575	AnnotatorNotes T575	GO:0051179 (localization)
+T576	GO_CC 13669 13676	surface
+#576	AnnotatorNotes T576	GO:0009986 (cell surface)
+T577	GO_BP 13707 13718	stimulation
+#577	AnnotatorNotes T577	GO:0001775 (cell activation)
+T578	EntrezGene 13720 13724	AQP2
+#578	AnnotatorNotes T578	EG:11827
+T579	PR 13720 13724	AQP2
+#579	AnnotatorNotes T579	PR:000004182 (aquaporin-2)
+T580	GO_BP 13741 13752	translocate
+#580	AnnotatorNotes T580	GO:0006810 (transport)
+T581	GO_CC 13760 13772	cell surface
+#581	AnnotatorNotes T581	GO:0009986 (cell surface)
+T582	CL 13760 13764	cell
+#582	AnnotatorNotes T582	CL:0000000 (cell)
+T583	GO_CC 13760 13764	cell
+#583	AnnotatorNotes T583	GO:0005623 (cell)
+T584	NCBITaxon 13885 13889	mice
+#584	AnnotatorNotes T584	NCBITaxon:10088 (Mus)
+T585	SO 13906 13915	wild-type
+#585	AnnotatorNotes T585	SO:0000817 (wild_type)
+T586	independent_continuant 13906 13915	wild-type
+#586	AnnotatorNotes T586	independent_continuant
+T587	SO 13919 13925	mutant
+#587	AnnotatorNotes T587	SO:0001059 (sequence_alteration)
+T588	independent_continuant 13919 13925	mutant
+#588	AnnotatorNotes T588	independent_continuant
+T589	GO_BP 14027 14040	translocation
+#589	AnnotatorNotes T589	GO:0006810 (transport)
+T590	EntrezGene 14044 14048	AQP2
+#590	AnnotatorNotes T590	EG:11827
+T591	PR 14044 14048	AQP2
+#591	AnnotatorNotes T591	PR:000004182 (aquaporin-2)
+T592	GO_BP 14069 14081	transfection
+#592	AnnotatorNotes T592	GO:0009294 (DNA mediated transformation)
+T593	CL 14090 14095	cells
+#593	AnnotatorNotes T593	CL:0000000 (cell)
+T594	GO_CC 14090 14095	cells
+#594	AnnotatorNotes T594	GO:0005623 (cell)
+T595	CL 14104 14108	cell
+#595	AnnotatorNotes T595	CL:0000000 (cell)
+T596	GO_CC 14104 14108	cell
+#596	AnnotatorNotes T596	GO:0005623 (cell)
+T597	GO_BP 14115 14125	expressing
+#597	AnnotatorNotes T597	GO:0010467 (gene expression)
+T598	EntrezGene 14126 14155	mouse wild-type AQP2 and AQP2
+#598	AnnotatorNotes T598	"mouse .. AQP2" EG:11827
+T599	EntrezGene 14126 14146	mouse wild-type AQP2
+#599	AnnotatorNotes T599	"mouse .. AQP2" EG:11827
+T600	NCBITaxon 14126 14131	mouse
+#600	AnnotatorNotes T600	NCBITaxon:10088 (Mus)
+T601	SO 14132 14141	wild-type
+#601	AnnotatorNotes T601	SO:0000817 (wild_type)
+T602	PR 14142 14146	AQP2
+#602	AnnotatorNotes T602	PR:000004182 (aquaporin-2)
+T603	PR 14151 14155	AQP2
+#603	AnnotatorNotes T603	PR:000004182 (aquaporin-2)
+T604	GO_BP 14167 14178	established
+#604	AnnotatorNotes T604	GO:0032502 (developmental process)
+T605	CHEBI 14195 14202	protein
+#605	AnnotatorNotes T605	CHEBI:36080 (proteins)
+T606	CL 14224 14228	cell
+#606	AnnotatorNotes T606	CL:0000000 (cell)
+T607	GO_CC 14224 14228	cell
+#607	AnnotatorNotes T607	GO:0005623 (cell)
+T608	CL 14252 14257	cells
+#608	AnnotatorNotes T608	CL:0000000 (cell)
+T609	GO_CC 14252 14257	cells
+#609	AnnotatorNotes T609	GO:0005623 (cell)
+T610	GO_BP 14275 14288	glycosylation
+#610	AnnotatorNotes T610	GO:0043413 (biopolymer glycosylation)
+T611	SO 14304 14310	mutant
+#611	AnnotatorNotes T611	SO:0001059 (sequence_alteration)
+T612	NCBITaxon 14311 14315	mice
+#612	AnnotatorNotes T612	NCBITaxon:10088 (Mus)
+T613	SO 14340 14349	wild-type
+#613	AnnotatorNotes T613	SO:0000817 (wild_type)
+T614	CHEBI 14350 14357	protein
+#614	AnnotatorNotes T614	CHEBI:36080 (proteins)
+T615	SO 14385 14400	different forms
+#615	AnnotatorNotes T615	SO:0001060 (sequence_variant)
+T616	CL 14402 14407	Cells
+#616	AnnotatorNotes T616	CL:0000000 (cell)
+T617	GO_CC 14402 14407	Cells
+#617	AnnotatorNotes T617	GO:0005623 (cell)
+T618	GO_BP 14408 14418	expressing
+#618	AnnotatorNotes T618	GO:0010467 (gene expression)
+T619	EntrezGene 14419 14423	AQP2
+#619	AnnotatorNotes T619	EG:11827
+T620	PR 14419 14423	AQP2
+#620	AnnotatorNotes T620	PR:000004182 (aquaporin-2)
+T621	SO 14451 14455	form
+#621	AnnotatorNotes T621	SO:0001060 (sequence_variant)
+T622	GO_BP 14486 14498	glycosylated
+#622	AnnotatorNotes T622	GO:0043413 (biopolymer glycosylation)
+T623	SO 14506 14510	form
+#623	AnnotatorNotes T623	SO:0001060 (sequence_variant)
+T624	GO_BP 14516 14527	transfected
+#624	AnnotatorNotes T624	GO:0009294 (DNA mediated transformation)
+T625	CL 14547 14552	cells
+#625	AnnotatorNotes T625	CL:0000000 (cell)
+T626	GO_CC 14547 14552	cells
+#626	AnnotatorNotes T626	GO:0005623 (cell)
+T627	SO 14554 14563	wild-type
+#627	AnnotatorNotes T627	SO:0000817 (wild_type)
+T628	EntrezGene 14564 14568	AQP2
+#628	AnnotatorNotes T628	EG:11827
+T629	PR 14564 14568	AQP2
+#629	AnnotatorNotes T629	PR:000004182 (aquaporin-2)
+T630	GO_BP 14616 14627	distributed
+#630	AnnotatorNotes T630	GO:0051179 (localization)
+T631	GO_CC 14719 14728	vesicular
+#631	AnnotatorNotes T631	GO:0031982 (vesicle)
+T632	GO_BP 14729 14749	compartmentalization
+#632	AnnotatorNotes T632	GO:0051179 (localization)
+T633	EntrezGene 14751 14755	AQP2
+#633	AnnotatorNotes T633	EG:11827
+T634	PR 14751 14755	AQP2
+#634	AnnotatorNotes T634	PR:000004182 (aquaporin-2)
+T635	GO_CC 14809 14820	perinuclear
+#635	AnnotatorNotes T635	GO:0048471 (perinuclear region of cytoplasm)
+T636	GO_BP 14861 14872	stimulation
+#636	AnnotatorNotes T636	GO:0001775 (cell activation)
+T637	independent_continuant 14891 14920	cAMP-dependent protein kinase
+#637	AnnotatorNotes T637	independent_continuant
+T638	GO_MF 14891 14920	cAMP-dependent protein kinase
+#638	AnnotatorNotes T638	GO:0004691 (cAMP-dependent protein kinase activity)
+T639	CHEBI 14891 14895	cAMP
+#639	AnnotatorNotes T639	CHEBI:17489 (3',5'-cyclic AMP)
+T640	GO_MF 14906 14930	protein kinase activator
+#640	AnnotatorNotes T640	GO:0030295 (protein kinase activator activity)
+T641	independent_continuant 14906 14930	protein kinase activator
+#641	AnnotatorNotes T641	independent_continuant
+T642	CHEBI 14906 14913	protein
+#642	AnnotatorNotes T642	CHEBI:36080 (proteins)
+T643	SO 14932 14941	wild-type
+#643	AnnotatorNotes T643	SO:0000817 (wild_type)
+T644	EntrezGene 14942 14946	AQP2
+#644	AnnotatorNotes T644	EG:11827
+T645	PR 14942 14946	AQP2
+#645	AnnotatorNotes T645	PR:000004182 (aquaporin-2)
+T646	GO_BP 14947 14959	translocated
+#646	AnnotatorNotes T646	GO:0006810 (transport)
+T647	GO_CC 14967 14973	apical
+#647	AnnotatorNotes T647	GO:0045177 (apical part of cell)
+T648	GO_CC 14974 15005	surface of polarized MDCK cells
+#648	AnnotatorNotes T648	"surface of .. cells" GO:0009986 (cell surface)
+T649	GO_BP 14985 14994	polarized
+#649	AnnotatorNotes T649	GO:0030010 (establishment of cell polarity)
+T650	CL 15000 15005	cells
+#650	AnnotatorNotes T650	CL:0000000 (cell)
+T651	GO_CC 15000 15005	cells
+#651	AnnotatorNotes T651	GO:0005623 (cell)
+T652	GO_CC 15056 15067	perinuclear
+#652	AnnotatorNotes T652	GO:0048471 (perinuclear region of cytoplasm)
+T653	GO_BP 15068 15080	distribution
+#653	AnnotatorNotes T653	GO:0051179 (localization)
+T654	EntrezGene 15084 15088	AQP2
+#654	AnnotatorNotes T654	EG:11827
+T655	PR 15084 15088	AQP2
+#655	AnnotatorNotes T655	PR:000004182 (aquaporin-2)
+T656	GO_BP 15122 15134	distribution
+#656	AnnotatorNotes T656	GO:0051179 (localization)
+T657	GO_CC 15211 15222	perinuclear
+#657	AnnotatorNotes T657	GO:0048471 (perinuclear region of cytoplasm)
+T658	GO_BP 15223 15235	distribution
+#658	AnnotatorNotes T658	GO:0051179 (localization)
+T659	EntrezGene 15239 15243	AQP2
+#659	AnnotatorNotes T659	EG:11827
+T660	PR 15239 15243	AQP2
+#660	AnnotatorNotes T660	PR:000004182 (aquaporin-2)
+T661	GO_CC 15272 15274	ER
+#661	AnnotatorNotes T661	GO:0005783 (endoplasmic reticulum)
+T662	GO_BP 15275 15295	compartmentalization
+#662	AnnotatorNotes T662	GO:0051179 (localization)
+T663	EntrezGene 15319 15323	AQP2
+#663	AnnotatorNotes T663	EG:11827
+T664	PR 15319 15323	AQP2
+#664	AnnotatorNotes T664	PR:000004182 (aquaporin-2)
+T665	GO_BP 15330 15339	localizes
+#665	AnnotatorNotes T665	GO:0051179 (localization)
+T666	GO_CC 15347 15349	ER
+#666	AnnotatorNotes T666	GO:0005783 (endoplasmic reticulum)
+T667	CL 15365 15370	cells
+#667	AnnotatorNotes T667	CL:0000000 (cell)
+T668	GO_CC 15365 15370	cells
+#668	AnnotatorNotes T668	GO:0005623 (cell)
+T669	GO_BP 15371 15382	transfected
+#669	AnnotatorNotes T669	GO:0009294 (DNA mediated transformation)
+T670	italic 15388 15397	Aqp2F204V
+#670	AnnotatorNotes T670	italic (null)
+T671	sup 15392 15397	F204V
+#671	AnnotatorNotes T671	sup (null)
+T672	SO 15399 15403	cDNA
+#672	AnnotatorNotes T672	SO:0000756 (cDNA)
+T673	EntrezGene 15409 15413	AQP2
+#673	AnnotatorNotes T673	EG:11827
+T674	PR 15409 15413	AQP2
+#674	AnnotatorNotes T674	PR:000004182 (aquaporin-2)
+T675	GO_CC 15421 15423	ER
+#675	AnnotatorNotes T675	GO:0005783 (endoplasmic reticulum)
+T676	EntrezGene 15432 15440	calnexin
+#676	AnnotatorNotes T676	EG:403908
+T677	PR 15432 15440	calnexin
+#677	AnnotatorNotes T677	PR:000005005 (calnexin)
+T678	EntrezGene 15472 15480	calnexin
+#678	AnnotatorNotes T678	EG:403908
+T679	PR 15472 15480	calnexin
+#679	AnnotatorNotes T679	PR:000005005 (calnexin)
+T680	EntrezGene 15486 15490	AQP2
+#680	AnnotatorNotes T680	EG:11827
+T681	PR 15486 15490	AQP2
+#681	AnnotatorNotes T681	PR:000004182 (aquaporin-2)
+T682	EntrezGene 15551 15555	AQP2
+#682	AnnotatorNotes T682	EG:11827
+T683	PR 15551 15555	AQP2
+#683	AnnotatorNotes T683	PR:000004182 (aquaporin-2)
+T684	CHEBI 15562 15569	protein
+#684	AnnotatorNotes T684	CHEBI:36080 (proteins)
+T685	EntrezGene 15587 15595	calnexin
+#685	AnnotatorNotes T685	EG:403908
+T686	PR 15587 15595	calnexin
+#686	AnnotatorNotes T686	PR:000005005 (calnexin)
+T687	GO_CC 15648 15650	ER
+#687	AnnotatorNotes T687	GO:0005783 (endoplasmic reticulum)
+T688	EntrezGene 15665 15669	AQP2
+#688	AnnotatorNotes T688	EG:11827
+T689	PR 15665 15669	AQP2
+#689	AnnotatorNotes T689	PR:000004182 (aquaporin-2)
+T690	GO_CC 15719 15721	ER
+#690	AnnotatorNotes T690	GO:0005783 (endoplasmic reticulum)
+T691	GO_CC 15729 15731	ER
+#691	AnnotatorNotes T691	GO:0005783 (endoplasmic reticulum)
+T692	GO_BP 15800 15812	glycosylated
+#692	AnnotatorNotes T692	GO:0043413 (biopolymer glycosylation)
+T693	EntrezGene 15814 15818	AQP2
+#693	AnnotatorNotes T693	EG:11827
+T694	PR 15814 15818	AQP2
+#694	AnnotatorNotes T694	PR:000004182 (aquaporin-2)
+T695	SO 15828 15834	mutant
+#695	AnnotatorNotes T695	SO:0001059 (sequence_alteration)
+T696	NCBITaxon 15861 15868	Animals
+#696	AnnotatorNotes T696	NCBITaxon:33208 (Metazoa)
+T697	italic 15890 15899	Aqp2F204V
+#697	AnnotatorNotes T697	italic (null)
+T698	sup 15894 15899	F204V
+#698	AnnotatorNotes T698	sup (null)
+T699	SO 15900 15908	mutation
+#699	AnnotatorNotes T699	SO:0001059 (sequence_alteration)
+T700	SO 16041 16047	allele
+#700	AnnotatorNotes T700	SO:0001023 (allele)
+T701	PR 16049 16053	AQP2
+#701	AnnotatorNotes T701	PR:000004182 (aquaporin-2)
+T702	SO 16084 16093	wild-type
+#702	AnnotatorNotes T702	SO:0000817 (wild_type)
+T703	CHEBI 16094 16101	protein
+#703	AnnotatorNotes T703	CHEBI:36080 (proteins)
+T704	CL 16105 16112	oocytes
+#704	AnnotatorNotes T704	CL:0000023 (oocyte)
+T705	GO_BP 16131 16147	homo-oligomerize
+#705	AnnotatorNotes T705	GO:0051260 (protein homooligomerization)
+T706	CL 16156 16161	cells
+#706	AnnotatorNotes T706	CL:0000000 (cell)
+T707	GO_CC 16156 16161	cells
+#707	AnnotatorNotes T707	GO:0005623 (cell)
+T708	NCBITaxon 16205 16212	animals
+#708	AnnotatorNotes T708	NCBITaxon:33208 (Metazoa)
+T709	EntrezGene 16262 16266	AQP2
+#709	AnnotatorNotes T709	EG:11827
+T710	PR 16262 16266	AQP2
+#710	AnnotatorNotes T710	PR:000004182 (aquaporin-2)
+T711	CHEBI 16267 16274	protein
+#711	AnnotatorNotes T711	CHEBI:36080 (proteins)
+T712	italic 16351 16362	Aqp2F204V/+
+#712	AnnotatorNotes T712	italic (null)
+T713	sup 16355 16362	F204V/+
+#713	AnnotatorNotes T713	sup (null)
+T714	SO 16361 16362	+
+#714	AnnotatorNotes T714	SO:0000817 (wild_type)
+T715	NCBITaxon 16363 16367	mice
+#715	AnnotatorNotes T715	NCBITaxon:10088 (Mus)
+T716	SO 16409 16418	wild type
+#716	AnnotatorNotes T716	SO:0000817 (wild_type)
+T717	independent_continuant 16409 16418	wild type
+#717	AnnotatorNotes T717	independent_continuant
+T718	EntrezGene 16432 16436	AQP2
+#718	AnnotatorNotes T718	EG:11827
+T719	PR 16432 16436	AQP2
+#719	AnnotatorNotes T719	PR:000004182 (aquaporin-2)
+T720	GO_BP 16437 16449	translocated
+#720	AnnotatorNotes T720	GO:0006810 (transport)
+T721	GO_CC 16468 16474	apical
+#721	AnnotatorNotes T721	GO:0045177 (apical part of cell)
+T722	GO_CC 16475 16487	cell surface
+#722	AnnotatorNotes T722	GO:0009986 (cell surface)
+T723	CL 16475 16479	cell
+#723	AnnotatorNotes T723	CL:0000000 (cell)
+T724	GO_CC 16475 16479	cell
+#724	AnnotatorNotes T724	GO:0005623 (cell)
+T725	GO_BP 16499 16510	stimulation
+#725	AnnotatorNotes T725	GO:0001775 (cell activation)
+T726	SO 16517 16526	wild-type
+#726	AnnotatorNotes T726	SO:0000817 (wild_type)
+T727	independent_continuant 16517 16526	wild-type
+#727	AnnotatorNotes T727	independent_continuant
+T728	SO 16602 16608	mutant
+#728	AnnotatorNotes T728	SO:0001059 (sequence_alteration)
+T729	CHEBI 16609 16616	protein
+#729	AnnotatorNotes T729	CHEBI:36080 (proteins)
+T730	SO 16702 16711	wild-type
+#730	AnnotatorNotes T730	SO:0000817 (wild_type)
+T731	CHEBI 16712 16719	protein
+#731	AnnotatorNotes T731	CHEBI:36080 (proteins)
+T732	GO_BP 16734 16768	localization of the mutant protein
+#732	AnnotatorNotes T732	"localization of .. protein" GO:0008104 (protein localization)
+T733	SO 16754 16760	mutant
+#733	AnnotatorNotes T733	SO:0001059 (sequence_alteration)
+T734	CHEBI 16761 16768	protein
+#734	AnnotatorNotes T734	CHEBI:36080 (proteins)
+T735	GO_BP 16843 16852	transport
+#735	AnnotatorNotes T735	GO:0006810 (transport)
+T736	PR 16884 16888	AQP2
+#736	AnnotatorNotes T736	PR:000004182 (aquaporin-2)
+T737	GO_CC 16896 16908	cell surface
+#737	AnnotatorNotes T737	GO:0009986 (cell surface)
+T738	CL 16896 16900	cell
+#738	AnnotatorNotes T738	CL:0000000 (cell)
+T739	GO_CC 16896 16900	cell
+#739	AnnotatorNotes T739	GO:0005623 (cell)
+T740	GO_BP 16912 16924	glycosylated
+#740	AnnotatorNotes T740	GO:0043413 (biopolymer glycosylation)
+T741	SO 16968 16977	wild-type
+#741	AnnotatorNotes T741	SO:0000817 (wild_type)
+T742	EntrezGene 16978 16982	AQP2
+#742	AnnotatorNotes T742	EG:359
+T743	PR 16978 16982	AQP2
+#743	AnnotatorNotes T743	PR:000004182 (aquaporin-2)
+T744	CHEBI 16983 16990	protein
+#744	AnnotatorNotes T744	CHEBI:36080 (proteins)
+T745	GO_BP 17004 17017	translocation
+#745	AnnotatorNotes T745	GO:0006810 (transport)
+T746	SO 17028 17034	mutant
+#746	AnnotatorNotes T746	SO:0001059 (sequence_alteration)
+T747	CHEBI 17035 17042	protein
+#747	AnnotatorNotes T747	CHEBI:36080 (proteins)
+T748	EntrezGene 17044 17048	AQP2
+#748	AnnotatorNotes T748	EG:359
+T749	PR 17044 17048	AQP2
+#749	AnnotatorNotes T749	PR:000004182 (aquaporin-2)
+T750	CL 17093 17098	cells
+#750	AnnotatorNotes T750	CL:0000000 (cell)
+T751	GO_CC 17093 17098	cells
+#751	AnnotatorNotes T751	GO:0005623 (cell)
+T752	italic 17135 17146	Aqp2F204V/+
+#752	AnnotatorNotes T752	italic (null)
+T753	sup 17139 17146	F204V/+
+#753	AnnotatorNotes T753	sup (null)
+T754	SO 17145 17146	+
+#754	AnnotatorNotes T754	SO:0000817 (wild_type)
+T755	NCBITaxon 17147 17151	mice
+#755	AnnotatorNotes T755	NCBITaxon:10088 (Mus)
+T756	SO 17157 17166	wild type
+#756	AnnotatorNotes T756	SO:0000817 (wild_type)
+T757	independent_continuant 17157 17166	wild type
+#757	AnnotatorNotes T757	independent_continuant
+T758	SO 17182 17188	mutant
+#758	AnnotatorNotes T758	SO:0001059 (sequence_alteration)
+T759	CHEBI 17189 17196	protein
+#759	AnnotatorNotes T759	CHEBI:36080 (proteins)
+T760	GO_BP 17217 17241	subcellular distribution
+#760	AnnotatorNotes T760	GO:0051641 (cellular localization)
+T761	GO_BP 17229 17257	distribution of AQP2 protein
+#761	AnnotatorNotes T761	"distribution of .. protein" GO:0008104 (protein localization)
+T762	EntrezGene 17245 17249	AQP2
+#762	AnnotatorNotes T762	EG:11827
+T763	PR 17245 17249	AQP2
+#763	AnnotatorNotes T763	PR:000004182 (aquaporin-2)
+T764	CHEBI 17250 17257	protein
+#764	AnnotatorNotes T764	CHEBI:36080 (proteins)
+T765	SO 17321 17327	mutant
+#765	AnnotatorNotes T765	SO:0001059 (sequence_alteration)
+T766	SO 17332 17341	wild-type
+#766	AnnotatorNotes T766	SO:0000817 (wild_type)
+T767	CHEBI 17342 17350	proteins
+#767	AnnotatorNotes T767	CHEBI:36080 (proteins)
+T768	GO_BP 17354 17365	transfected
+#768	AnnotatorNotes T768	GO:0009294 (DNA mediated transformation)
+T769	CL 17371 17376	cells
+#769	AnnotatorNotes T769	CL:0000000 (cell)
+T770	GO_CC 17371 17376	cells
+#770	AnnotatorNotes T770	GO:0005623 (cell)
+T771	CL 17395 17400	cells
+#771	AnnotatorNotes T771	CL:0000000 (cell)
+T772	GO_CC 17395 17400	cells
+#772	AnnotatorNotes T772	GO:0005623 (cell)
+T773	GO_BP 17408 17418	expressing
+#773	AnnotatorNotes T773	GO:0010467 (gene expression)
+T774	SO 17419 17428	wild-type
+#774	AnnotatorNotes T774	SO:0000817 (wild_type)
+T775	EntrezGene 17429 17433	AQP2
+#775	AnnotatorNotes T775	EG:11827
+T776	PR 17429 17433	AQP2
+#776	AnnotatorNotes T776	PR:000004182 (aquaporin-2)
+T777	GO_BP 17451 17462	transfected
+#777	AnnotatorNotes T777	GO:0009294 (DNA mediated transformation)
+T778	GO_BP 17472 17482	expression
+#778	AnnotatorNotes T778	GO:0010467 (gene expression)
+T779	SO 17483 17493	constructs
+#779	AnnotatorNotes T779	SO:0001037 (mobile_genetic_element)
+T780	SO 17514 17523	wild-type
+#780	AnnotatorNotes T780	SO:0000817 (wild_type)
+T781	EntrezGene 17524 17528	AQP2
+#781	AnnotatorNotes T781	EG:11827
+T782	PR 17524 17528	AQP2
+#782	AnnotatorNotes T782	PR:000004182 (aquaporin-2)
+T783	EntrezGene 17530 17534	AQP2
+#783	AnnotatorNotes T783	EG:11827
+T784	PR 17530 17534	AQP2
+#784	AnnotatorNotes T784	PR:000004182 (aquaporin-2)
+T785	GO_CC 17556 17566	Antibodies
+#785	AnnotatorNotes T785	GO:0019814 (immunoglobulin complex)
+T786	SO 17600 17609	wild-type
+#786	AnnotatorNotes T786	SO:0000817 (wild_type)
+T787	EntrezGene 17610 17614	AQP2
+#787	AnnotatorNotes T787	EG:11827
+T788	PR 17610 17614	AQP2
+#788	AnnotatorNotes T788	PR:000004182 (aquaporin-2)
+T789	EntrezGene 17620 17624	AQP2
+#789	AnnotatorNotes T789	EG:11827
+T790	PR 17620 17624	AQP2
+#790	AnnotatorNotes T790	PR:000004182 (aquaporin-2)
+T791	EntrezGene 17632 17636	AQP2
+#791	AnnotatorNotes T791	EG:11827
+T792	PR 17632 17636	AQP2
+#792	AnnotatorNotes T792	PR:000004182 (aquaporin-2)
+T793	GO_BP 17663 17674	transfected
+#793	AnnotatorNotes T793	GO:0009294 (DNA mediated transformation)
+T794	GO_BP 17719 17730	transfected
+#794	AnnotatorNotes T794	GO:0009294 (DNA mediated transformation)
+T795	CL 17741 17746	cells
+#795	AnnotatorNotes T795	CL:0000000 (cell)
+T796	GO_CC 17741 17746	cells
+#796	AnnotatorNotes T796	GO:0005623 (cell)
+T797	GO_BP 17754 17764	expressing
+#797	AnnotatorNotes T797	GO:0010467 (gene expression)
+T798	SO 17765 17774	wild-type
+#798	AnnotatorNotes T798	SO:0000817 (wild_type)
+T799	EntrezGene 17775 17779	AQP2
+#799	AnnotatorNotes T799	EG:11827
+T800	PR 17775 17779	AQP2
+#800	AnnotatorNotes T800	PR:000004182 (aquaporin-2)
+T801	GO_CC 17828 17837	membranes
+#801	AnnotatorNotes T801	GO:0016020 (membrane)
+T802	SO 17850 17859	wild-type
+#802	AnnotatorNotes T802	SO:0000817 (wild_type)
+T803	EntrezGene 17860 17864	AQP2
+#803	AnnotatorNotes T803	EG:11827
+T804	PR 17860 17864	AQP2
+#804	AnnotatorNotes T804	PR:000004182 (aquaporin-2)
+T805	GO_BP 17881 17890	expressed
+#805	AnnotatorNotes T805	GO:0010467 (gene expression)
+T806	SO 17940 17949	wild-type
+#806	AnnotatorNotes T806	SO:0000817 (wild_type)
+T807	SO 17954 17960	mutant
+#807	AnnotatorNotes T807	SO:0001059 (sequence_alteration)
+T808	CHEBI 17961 17969	proteins
+#808	AnnotatorNotes T808	CHEBI:36080 (proteins)
+T809	CL 18000 18004	cell
+#809	AnnotatorNotes T809	CL:0000000 (cell)
+T810	GO_CC 18000 18004	cell
+#810	AnnotatorNotes T810	GO:0005623 (cell)
+T811	GO_BP 18051 18081	localization of mutant protein
+#811	AnnotatorNotes T811	"localization of .. protein" GO:0008104 (protein localization)
+T812	SO 18067 18073	mutant
+#812	AnnotatorNotes T812	SO:0001059 (sequence_alteration)
+T813	CHEBI 18074 18081	protein
+#813	AnnotatorNotes T813	CHEBI:36080 (proteins)
+T814	CL 18121 18126	cells
+#814	AnnotatorNotes T814	CL:0000000 (cell)
+T815	GO_CC 18121 18126	cells
+#815	AnnotatorNotes T815	GO:0005623 (cell)
+T816	GO_BP 18134 18145	transfected
+#816	AnnotatorNotes T816	GO:0009294 (DNA mediated transformation)
+T817	SO 18151 18160	wild-type
+#817	AnnotatorNotes T817	SO:0000817 (wild_type)
+T818	EntrezGene 18161 18165	AQP2
+#818	AnnotatorNotes T818	EG:11827
+T819	PR 18161 18165	AQP2
+#819	AnnotatorNotes T819	PR:000004182 (aquaporin-2)
+T820	GO_BP 18166 18176	expressing
+#820	AnnotatorNotes T820	GO:0010467 (gene expression)
+T821	SO 18177 18183	vector
+#821	AnnotatorNotes T821	SO:0000440 (vector_replicon)
+T822	SO 18198 18204	vector
+#822	AnnotatorNotes T822	SO:0000440 (vector_replicon)
+T823	GO_BP 18238 18249	transfected
+#823	AnnotatorNotes T823	GO:0009294 (DNA mediated transformation)
+T824	EntrezGene 18250 18254	AQP2
+#824	AnnotatorNotes T824	EG:11827
+T825	PR 18250 18254	AQP2
+#825	AnnotatorNotes T825	PR:000004182 (aquaporin-2)
+T826	EntrezGene 18262 18266	AQP2
+#826	AnnotatorNotes T826	EG:11827
+T827	PR 18262 18266	AQP2
+#827	AnnotatorNotes T827	PR:000004182 (aquaporin-2)
+T828	GO_BP 18277 18287	expression
+#828	AnnotatorNotes T828	GO:0010467 (gene expression)
+T829	SO 18288 18298	constructs
+#829	AnnotatorNotes T829	SO:0001037 (mobile_genetic_element)
+T830	EntrezGene 18300 18304	AQP2
+#830	AnnotatorNotes T830	EG:11827
+T831	PR 18300 18304	AQP2
+#831	AnnotatorNotes T831	PR:000004182 (aquaporin-2)
+T832	GO_BP 18309 18318	localized
+#832	AnnotatorNotes T832	GO:0051179 (localization)
+T833	GO_CC 18326 18332	apical
+#833	AnnotatorNotes T833	GO:0045177 (apical part of cell)
+T834	GO_CC 18333 18340	surface
+#834	AnnotatorNotes T834	GO:0009986 (cell surface)
+T835	GO_BP 18356 18367	stimulation
+#835	AnnotatorNotes T835	GO:0001775 (cell activation)
+T836	GO_BP 18395 18406	transfected
+#836	AnnotatorNotes T836	GO:0009294 (DNA mediated transformation)
+T837	SO 18412 18418	vector
+#837	AnnotatorNotes T837	SO:0000440 (vector_replicon)
+T838	CL 18424 18429	cells
+#838	AnnotatorNotes T838	CL:0000000 (cell)
+T839	GO_CC 18424 18429	cells
+#839	AnnotatorNotes T839	GO:0005623 (cell)
+T840	SO 18469 18478	wild-type
+#840	AnnotatorNotes T840	SO:0000817 (wild_type)
+T841	EntrezGene 18479 18483	AQP2
+#841	AnnotatorNotes T841	EG:11827
+T842	PR 18479 18483	AQP2
+#842	AnnotatorNotes T842	PR:000004182 (aquaporin-2)
+T843	CL 18484 18489	cells
+#843	AnnotatorNotes T843	CL:0000000 (cell)
+T844	GO_CC 18484 18489	cells
+#844	AnnotatorNotes T844	GO:0005623 (cell)
+T845	EntrezGene 18516 18520	AQP2
+#845	AnnotatorNotes T845	EG:11827
+T846	PR 18516 18520	AQP2
+#846	AnnotatorNotes T846	PR:000004182 (aquaporin-2)
+T847	GO_BP 18537 18546	expressed
+#847	AnnotatorNotes T847	GO:0010467 (gene expression)
+T848	GO_BP 18560 18572	transfection
+#848	AnnotatorNotes T848	GO:0009294 (DNA mediated transformation)
+T849	SO 18578 18584	vector
+#849	AnnotatorNotes T849	SO:0000440 (vector_replicon)
+T850	CL 18590 18595	cells
+#850	AnnotatorNotes T850	CL:0000000 (cell)
+T851	GO_CC 18590 18595	cells
+#851	AnnotatorNotes T851	GO:0005623 (cell)
+T852	GO_CC 18614 18625	cytoplasmic
+#852	AnnotatorNotes T852	GO:0005737 (cytoplasm)
+T853	GO_BP 18626 18638	distribution
+#853	AnnotatorNotes T853	GO:0051179 (localization)
+T854	GO_BP 18677 18686	expressed
+#854	AnnotatorNotes T854	GO:0010467 (gene expression)
+T855	SO 18690 18699	wild-type
+#855	AnnotatorNotes T855	SO:0000817 (wild_type)
+T856	EntrezGene 18700 18704	AQP2
+#856	AnnotatorNotes T856	EG:11827
+T857	PR 18700 18704	AQP2
+#857	AnnotatorNotes T857	PR:000004182 (aquaporin-2)
+T858	CL 18705 18710	cells
+#858	AnnotatorNotes T858	CL:0000000 (cell)
+T859	GO_CC 18705 18710	cells
+#859	AnnotatorNotes T859	GO:0005623 (cell)
+T860	EntrezGene 18721 18725	AQP2
+#860	AnnotatorNotes T860	EG:11827
+T861	PR 18721 18725	AQP2
+#861	AnnotatorNotes T861	PR:000004182 (aquaporin-2)
+T862	GO_BP 18736 18745	localized
+#862	AnnotatorNotes T862	GO:0051179 (localization)
+T863	GO_CC 18753 18759	apical
+#863	AnnotatorNotes T863	GO:0045177 (apical part of cell)
+T864	GO_CC 18760 18767	surface
+#864	AnnotatorNotes T864	GO:0009986 (cell surface)
+T865	CL 18876 18881	cells
+#865	AnnotatorNotes T865	CL:0000000 (cell)
+T866	GO_CC 18876 18881	cells
+#866	AnnotatorNotes T866	GO:0005623 (cell)
+T867	GO_BP 18896 18908	transfection
+#867	AnnotatorNotes T867	GO:0009294 (DNA mediated transformation)
+T868	CL 18940 18944	cell
+#868	AnnotatorNotes T868	CL:0000000 (cell)
+T869	GO_CC 18940 18944	cell
+#869	AnnotatorNotes T869	GO:0005623 (cell)
+T870	GO_BP 18960 18972	localization
+#870	AnnotatorNotes T870	GO:0051179 (localization)
+T871	GO_BP 18987 18997	expressing
+#871	AnnotatorNotes T871	GO:0010467 (gene expression)
+T872	SO 18998 19007	wild-type
+#872	AnnotatorNotes T872	SO:0000817 (wild_type)
+T873	EntrezGene 19008 19012	AQP2
+#873	AnnotatorNotes T873	EG:11827
+T874	PR 19008 19012	AQP2
+#874	AnnotatorNotes T874	PR:000004182 (aquaporin-2)
+T875	GO_CC 19023 19029	apical
+#875	AnnotatorNotes T875	GO:0045177 (apical part of cell)
+T876	GO_BP 19045 19056	stimulation
+#876	AnnotatorNotes T876	GO:0001775 (cell activation)
+T877	GO_BP 19076 19086	expression
+#877	AnnotatorNotes T877	GO:0010467 (gene expression)
+T878	SO 19106 19115	wild-type
+#878	AnnotatorNotes T878	SO:0000817 (wild_type)
+T879	EntrezGene 19116 19120	AQP2
+#879	AnnotatorNotes T879	EG:11827
+T880	PR 19116 19120	AQP2
+#880	AnnotatorNotes T880	PR:000004182 (aquaporin-2)
+T881	EntrezGene 19139 19143	AQP2
+#881	AnnotatorNotes T881	EG:11827
+T882	PR 19139 19143	AQP2
+#882	AnnotatorNotes T882	PR:000004182 (aquaporin-2)
+T883	CL 19158 19162	cell
+#883	AnnotatorNotes T883	CL:0000000 (cell)
+T884	GO_CC 19158 19162	cell
+#884	AnnotatorNotes T884	GO:0005623 (cell)
+T885	GO_BP 19169 19181	localization
+#885	AnnotatorNotes T885	GO:0051179 (localization)
+T886	SO 19185 19194	wild-type
+#886	AnnotatorNotes T886	SO:0000817 (wild_type)
+T887	EntrezGene 19195 19199	AQP2
+#887	AnnotatorNotes T887	EG:11827
+T888	PR 19195 19199	AQP2
+#888	AnnotatorNotes T888	PR:000004182 (aquaporin-2)
+T889	EntrezGene 19227 19231	AQP2
+#889	AnnotatorNotes T889	EG:11827
+T890	PR 19227 19231	AQP2
+#890	AnnotatorNotes T890	PR:000004182 (aquaporin-2)
+T891	GO_CC 19253 19259	apical
+#891	AnnotatorNotes T891	GO:0045177 (apical part of cell)
+T892	GO_BP 19275 19286	stimulation
+#892	AnnotatorNotes T892	GO:0001775 (cell activation)
+T893	CL 19322 19326	cell
+#893	AnnotatorNotes T893	CL:0000000 (cell)
+T894	GO_CC 19322 19326	cell
+#894	AnnotatorNotes T894	GO:0005623 (cell)
+T895	EntrezGene 19334 19338	AQP2
+#895	AnnotatorNotes T895	EG:11827
+T896	PR 19334 19338	AQP2
+#896	AnnotatorNotes T896	PR:000004182 (aquaporin-2)
+T897	GO_BP 19360 19369	localized
+#897	AnnotatorNotes T897	GO:0051179 (localization)
+T898	GO_CC 19377 19383	apical
+#898	AnnotatorNotes T898	GO:0045177 (apical part of cell)
+T899	GO_CC 19384 19391	surface
+#899	AnnotatorNotes T899	GO:0009986 (cell surface)
+T900	GO_BP 19408 19420	localization
+#900	AnnotatorNotes T900	GO:0051179 (localization)
+T901	EntrezGene 19424 19428	AQP2
+#901	AnnotatorNotes T901	EG:11827
+T902	PR 19424 19428	AQP2
+#902	AnnotatorNotes T902	PR:000004182 (aquaporin-2)
+T903	GO_CC 19456 19462	apical
+#903	AnnotatorNotes T903	GO:0045177 (apical part of cell)
+T904	SO 19468 19477	wild-type
+#904	AnnotatorNotes T904	SO:0000817 (wild_type)
+T905	EntrezGene 19478 19482	AQP2
+#905	AnnotatorNotes T905	EG:11827
+T906	PR 19478 19482	AQP2
+#906	AnnotatorNotes T906	PR:000004182 (aquaporin-2)
+T907	GO_BP 19492 19501	expressed
+#907	AnnotatorNotes T907	GO:0010467 (gene expression)
+T908	GO_BP 19547 19558	transfected
+#908	AnnotatorNotes T908	GO:0009294 (DNA mediated transformation)
+T909	CL 19568 19572	cell
+#909	AnnotatorNotes T909	CL:0000000 (cell)
+T910	GO_CC 19568 19572	cell
+#910	AnnotatorNotes T910	GO:0005623 (cell)
+T911	SO 19580 19589	wild-type
+#911	AnnotatorNotes T911	SO:0000817 (wild_type)
+T912	EntrezGene 19590 19594	AQP2
+#912	AnnotatorNotes T912	EG:11827
+T913	PR 19590 19594	AQP2
+#913	AnnotatorNotes T913	PR:000004182 (aquaporin-2)
+T914	SO 19598 19604	vector
+#914	AnnotatorNotes T914	SO:0000440 (vector_replicon)
+T915	GO_BP 19622 19634	biotinylated
+#915	AnnotatorNotes T915	GO:0009305 (protein amino acid biotinylation)
+T916	GO_CC 19635 19642	surface
+#916	AnnotatorNotes T916	GO:0009986 (cell surface)
+T917	CHEBI 19643 19651	proteins
+#917	AnnotatorNotes T917	CHEBI:36080 (proteins)
+T918	GO_BP 19668 19679	stimulation
+#918	AnnotatorNotes T918	GO:0001775 (cell activation)
+T919	GO_BP 19702 19714	biotinylated
+#919	AnnotatorNotes T919	GO:0009305 (protein amino acid biotinylation)
+T920	CHEBI 19715 19723	proteins
+#920	AnnotatorNotes T920	CHEBI:36080 (proteins)
+T921	EntrezGene 19737 19741	AQP2
+#921	AnnotatorNotes T921	EG:11827
+T922	PR 19737 19741	AQP2
+#922	AnnotatorNotes T922	PR:000004182 (aquaporin-2)
+T923	GO_BP 19755 19764	expressed
+#923	AnnotatorNotes T923	GO:0010467 (gene expression)
+T924	CL 19795 19799	cell
+#924	AnnotatorNotes T924	CL:0000000 (cell)
+T925	GO_CC 19795 19799	cell
+#925	AnnotatorNotes T925	GO:0005623 (cell)
+T926	CL 19824 19829	cells
+#926	AnnotatorNotes T926	CL:0000000 (cell)
+T927	GO_CC 19824 19829	cells
+#927	AnnotatorNotes T927	GO:0005623 (cell)
+T928	GO_BP 19839 19851	biotinylated
+#928	AnnotatorNotes T928	GO:0009305 (protein amino acid biotinylation)
+T929	SO 19862 19871	wild-type
+#929	AnnotatorNotes T929	SO:0000817 (wild_type)
+T930	EntrezGene 19872 19876	AQP2
+#930	AnnotatorNotes T930	EG:11827
+T931	PR 19872 19876	AQP2
+#931	AnnotatorNotes T931	PR:000004182 (aquaporin-2)
+T932	GO_BP 19885 19894	expressed
+#932	AnnotatorNotes T932	GO:0010467 (gene expression)
+T933	GO_CC 19907 19914	surface
+#933	AnnotatorNotes T933	GO:0009986 (cell surface)
+T934	GO_BP 19915 19927	biotinylated
+#934	AnnotatorNotes T934	GO:0009305 (protein amino acid biotinylation)
+T935	GO_CC 19941 19953	cell surface
+#935	AnnotatorNotes T935	GO:0009986 (cell surface)
+T936	CL 19941 19945	cell
+#936	AnnotatorNotes T936	CL:0000000 (cell)
+T937	GO_CC 19941 19945	cell
+#937	AnnotatorNotes T937	GO:0005623 (cell)
+T938	CHEBI 19954 19962	proteins
+#938	AnnotatorNotes T938	CHEBI:36080 (proteins)
+T939	CHEBI 19981 19987	biotin
+#939	AnnotatorNotes T939	CHEBI:15956 (biotin)
+T940	EntrezGene 20017 20021	AQP2
+#940	AnnotatorNotes T940	EG:11827
+T941	PR 20017 20021	AQP2
+#941	AnnotatorNotes T941	PR:000004182 (aquaporin-2)
+T942	GO_BP 20031 20042	transported
+#942	AnnotatorNotes T942	GO:0006810 (transport)
+T943	GO_CC 20050 20062	cell surface
+#943	AnnotatorNotes T943	GO:0009986 (cell surface)
+T944	CL 20050 20054	cell
+#944	AnnotatorNotes T944	CL:0000000 (cell)
+T945	GO_CC 20050 20054	cell
+#945	AnnotatorNotes T945	GO:0005623 (cell)
+T946	SO 20068 20077	wild-type
+#946	AnnotatorNotes T946	SO:0000817 (wild_type)
+T947	EntrezGene 20078 20082	AQP2
+#947	AnnotatorNotes T947	EG:11827
+T948	PR 20078 20082	AQP2
+#948	AnnotatorNotes T948	PR:000004182 (aquaporin-2)
+T949	italic 20128 20142	Aqp2F204/F204V
+#949	AnnotatorNotes T949	italic (null)
+T950	sup 20132 20142	F204/F204V
+#950	AnnotatorNotes T950	sup (null)
+T951	NCBITaxon 20143 20147	mice
+#951	AnnotatorNotes T951	NCBITaxon:10088 (Mus)
+T952	GO_BP 20163 20167	grow
+#952	AnnotatorNotes T952	GO:0040007 (growth)
+T953	GO_BP 20172 20181	reproduce
+#953	AnnotatorNotes T953	GO:0000003 (reproduction)
+T954	GO_BP 20290 20302	urine output
+#954	AnnotatorNotes T954	GO:0060073 (micturition)
+T955	CHEBI 20307 20312	water
+#955	AnnotatorNotes T955	CHEBI:15377 (water)
+T956	GO_BP 20313 20319	intake
+#956	AnnotatorNotes T956	GO:0007631 (feeding behavior)
+T957	NCBITaxon 20348 20353	mouse
+#957	AnnotatorNotes T957	NCBITaxon:10088 (Mus)
+T958	NCBITaxon 20394 20400	humans
+#958	AnnotatorNotes T958	NCBITaxon:9606 (Homo sapiens)
+T959	SO 20419 20428	mutations
+#959	AnnotatorNotes T959	SO:0001059 (sequence_alteration)
+T960	italic 20432 20437	Avpr2
+#960	AnnotatorNotes T960	italic (null)
+T961	PR 20432 20437	Avpr2
+#961	AnnotatorNotes T961	PR:000001683 (vasopressin receptor 2)
+T962	EntrezGene 20432 20437	Avpr2
+#962	AnnotatorNotes T962	EG:554
+T963	italic 20441 20445	Aqp2
+#963	AnnotatorNotes T963	italic (null)
+T964	PR 20441 20445	Aqp2
+#964	AnnotatorNotes T964	PR:000004182 (aquaporin-2)
+T965	EntrezGene 20441 20445	Aqp2
+#965	AnnotatorNotes T965	EG:359
+T966	GO_CC 20463 20464	X
+#966	AnnotatorNotes T966	GO:0000805 (X chromosome)
+T967	EntrezGene 20472 20490	Avpr2 gene in mice
+#967	AnnotatorNotes T967	"Avpr2 .. in mice" EG:12000
+T968	italic 20472 20477	Avpr2
+#968	AnnotatorNotes T968	italic (null)
+T969	PR 20472 20477	Avpr2
+#969	AnnotatorNotes T969	PR:000001683 (vasopressin receptor 2)
+T970	SO 20478 20482	gene
+#970	AnnotatorNotes T970	SO:0000704 (gene)
+T971	NCBITaxon 20486 20490	mice
+#971	AnnotatorNotes T971	NCBITaxon:10088 (Mus)
+T972	NCBITaxon 20610 20614	mice
+#972	AnnotatorNotes T972	NCBITaxon:10088 (Mus)
+T973	GO_BP 20615 20619	died
+#973	AnnotatorNotes T973	GO:0016265 (death)
+T974	GO_BP 20635 20640	birth
+#974	AnnotatorNotes T974	GO:0007567 (parturition)
+T975	GO_BP 20713 20727	urinary output
+#975	AnnotatorNotes T975	GO:0060073 (micturition)
+T976	CHEBI 20732 20737	water
+#976	AnnotatorNotes T976	CHEBI:15377 (water)
+T977	GO_BP 20738 20744	intake
+#977	AnnotatorNotes T977	GO:0007631 (feeding behavior)
+T978	EntrezGene 20793 20803	mouse Aqp2
+#978	AnnotatorNotes T978	EG:11827
+T979	NCBITaxon 20793 20798	mouse
+#979	AnnotatorNotes T979	NCBITaxon:10088 (Mus)
+T980	italic 20799 20803	Aqp2
+#980	AnnotatorNotes T980	italic (null)
+T981	PR 20799 20803	Aqp2
+#981	AnnotatorNotes T981	PR:000004182 (aquaporin-2)
+T982	SO 20804 20808	gene
+#982	AnnotatorNotes T982	SO:0000704 (gene)
+T983	NCBITaxon 20848 20853	human
+#983	AnnotatorNotes T983	NCBITaxon:9606 (Homo sapiens)
+T984	SO 20870 20878	mutation
+#984	AnnotatorNotes T984	SO:0001059 (sequence_alteration)
+T985	NCBITaxon 20923 20927	mice
+#985	AnnotatorNotes T985	NCBITaxon:10088 (Mus)
+T986	GO_BP 20998 21003	death
+#986	AnnotatorNotes T986	GO:0016265 (death)
+T987	GO_BP 21019 21024	birth
+#987	AnnotatorNotes T987	GO:0007567 (parturition)
+T988	PR 21037 21041	AQP2
+#988	AnnotatorNotes T988	PR:000004182 (aquaporin-2)
+T989	GO_BP 21053 21061	localize
+#989	AnnotatorNotes T989	GO:0051179 (localization)
+T990	CL 21095 21100	cells
+#990	AnnotatorNotes T990	CL:0000000 (cell)
+T991	GO_CC 21095 21100	cells
+#991	AnnotatorNotes T991	GO:0005623 (cell)
+T992	CHEBI 21186 21195	molecular
+#992	AnnotatorNotes T992	CHEBI:23367 (molecular entity)
+T993	NCBITaxon 21221 21225	mice
+#993	AnnotatorNotes T993	NCBITaxon:10088 (Mus)
+T994	italic 21266 21270	Aqp2
+#994	AnnotatorNotes T994	italic (null)
+T995	PR 21266 21270	Aqp2
+#995	AnnotatorNotes T995	PR:000004182 (aquaporin-2)
+T996	EntrezGene 21266 21270	Aqp2
+#996	AnnotatorNotes T996	EG:11827
+T997	SO 21287 21291	gene
+#997	AnnotatorNotes T997	SO:0000704 (gene)
+T998	NCBITaxon 21316 21320	mice
+#998	AnnotatorNotes T998	NCBITaxon:10088 (Mus)
+T999	EntrezGene 21347 21351	AQP2
+#999	AnnotatorNotes T999	EG:11827
+T1000	PR 21347 21351	AQP2
+#1000	AnnotatorNotes T1000	PR:000004182 (aquaporin-2)
+T1001	GO_BP 21382 21400	water transporting
+#1001	AnnotatorNotes T1001	GO:0006833 (water transport)
+T1002	CHEBI 21382 21387	water
+#1002	AnnotatorNotes T1002	CHEBI:15377 (water)
+T1003	EntrezGene 21427 21430	AVP
+#1003	AnnotatorNotes T1003	EG:11998
+T1004	CHEBI 21456 21461	water
+#1004	AnnotatorNotes T1004	CHEBI:15377 (water)
+T1005	EntrezGene 21497 21501	AQP2
+#1005	AnnotatorNotes T1005	EG:11827
+T1006	PR 21497 21501	AQP2
+#1006	AnnotatorNotes T1006	PR:000004182 (aquaporin-2)
+T1007	SO 21522 21528	mutant
+#1007	AnnotatorNotes T1007	SO:0001059 (sequence_alteration)
+T1008	NCBITaxon 21529 21536	animals
+#1008	AnnotatorNotes T1008	NCBITaxon:33208 (Metazoa)
+T1009	GO_BP 21553 21561	response
+#1009	AnnotatorNotes T1009	GO:0050896 (response to stimulus)
+T1010	EntrezGene 21670 21674	AQP2
+#1010	AnnotatorNotes T1010	EG:11827
+T1011	PR 21670 21674	AQP2
+#1011	AnnotatorNotes T1011	PR:000004182 (aquaporin-2)
+T1012	GO_BP 21702 21711	transport
+#1012	AnnotatorNotes T1012	GO:0006810 (transport)
+T1013	CHEBI 21712 21717	water
+#1013	AnnotatorNotes T1013	CHEBI:15377 (water)
+T1014	GO_BP 21739 21747	localize
+#1014	AnnotatorNotes T1014	GO:0051179 (localization)
+T1015	GO_CC 21755 21761	apical
+#1015	AnnotatorNotes T1015	GO:0045177 (apical part of cell)
+T1016	GO_CC 21762 21774	cell surface
+#1016	AnnotatorNotes T1016	GO:0009986 (cell surface)
+T1017	CL 21762 21766	cell
+#1017	AnnotatorNotes T1017	CL:0000000 (cell)
+T1018	GO_CC 21762 21766	cell
+#1018	AnnotatorNotes T1018	GO:0005623 (cell)
+T1019	EntrezGene 21824 21828	AQP2
+#1019	AnnotatorNotes T1019	EG:11827
+T1020	PR 21824 21828	AQP2
+#1020	AnnotatorNotes T1020	PR:000004182 (aquaporin-2)
+T1021	SO 21886 21892	mutant
+#1021	AnnotatorNotes T1021	SO:0001059 (sequence_alteration)
+T1022	CHEBI 21893 21900	protein
+#1022	AnnotatorNotes T1022	CHEBI:36080 (proteins)
+T1023	GO_CC 21919 21931	cell surface
+#1023	AnnotatorNotes T1023	GO:0009986 (cell surface)
+T1024	CL 21919 21923	cell
+#1024	AnnotatorNotes T1024	CL:0000000 (cell)
+T1025	GO_CC 21919 21923	cell
+#1025	AnnotatorNotes T1025	GO:0005623 (cell)
+T1026	GO_CC 21937 21944	surface
+#1026	AnnotatorNotes T1026	GO:0009986 (cell surface)
+T1027	GO_BP 21945 21958	biotinylation
+#1027	AnnotatorNotes T1027	GO:0009305 (protein amino acid biotinylation)
+T1028	SO 21999 22005	mutant
+#1028	AnnotatorNotes T1028	SO:0001059 (sequence_alteration)
+T1029	CHEBI 22006 22013	protein
+#1029	AnnotatorNotes T1029	CHEBI:36080 (proteins)
+T1030	GO_CC 22026 22033	surface
+#1030	AnnotatorNotes T1030	GO:0009986 (cell surface)
+T1031	CHEBI 22125 22132	protein
+#1031	AnnotatorNotes T1031	CHEBI:36080 (proteins)
+T1032	SO 22211 22217	mutant
+#1032	AnnotatorNotes T1032	SO:0001059 (sequence_alteration)
+T1033	CHEBI 22218 22225	protein
+#1033	AnnotatorNotes T1033	CHEBI:36080 (proteins)
+T1034	GO_CC 22251 22253	ER
+#1034	AnnotatorNotes T1034	GO:0005783 (endoplasmic reticulum)
+T1035	SO 22265 22272	species
+#1035	AnnotatorNotes T1035	SO:0001060 (sequence_variant)
+T1036	SO 22300 22309	wild-type
+#1036	AnnotatorNotes T1036	SO:0000817 (wild_type)
+T1037	independent_continuant 22300 22309	wild-type
+#1037	AnnotatorNotes T1037	independent_continuant
+T1038	SO 22311 22317	mutant
+#1038	AnnotatorNotes T1038	SO:0001059 (sequence_alteration)
+T1039	CHEBI 22318 22325	protein
+#1039	AnnotatorNotes T1039	CHEBI:36080 (proteins)
+T1040	CHEBI 22350 22357	mannose
+#1040	AnnotatorNotes T1040	CHEBI:25170 (mannosyl group)
+T1041	GO_BP 22364 22376	glycosylated
+#1041	AnnotatorNotes T1041	GO:0043413 (biopolymer glycosylation)
+T1042	SO 22377 22381	form
+#1042	AnnotatorNotes T1042	SO:0001060 (sequence_variant)
+T1043	GO_BP 22445 22457	glycosylated
+#1043	AnnotatorNotes T1043	GO:0043413 (biopolymer glycosylation)
+T1044	SO 22470 22475	forms
+#1044	AnnotatorNotes T1044	SO:0001060 (sequence_variant)
+T1045	CHEBI 22528 22535	protein
+#1045	AnnotatorNotes T1045	CHEBI:36080 (proteins)
+T1046	SO 22574 22580	mutant
+#1046	AnnotatorNotes T1046	SO:0001059 (sequence_alteration)
+T1047	CHEBI 22581 22588	protein
+#1047	AnnotatorNotes T1047	CHEBI:36080 (proteins)
+T1048	GO_BP 22592 22603	transported
+#1048	AnnotatorNotes T1048	GO:0006810 (transport)
+T1049	GO_CC 22615 22617	ER
+#1049	AnnotatorNotes T1049	GO:0005783 (endoplasmic reticulum)
+T1050	EntrezGene 22674 22678	AQP2
+#1050	AnnotatorNotes T1050	EG:11827
+T1051	PR 22674 22678	AQP2
+#1051	AnnotatorNotes T1051	PR:000004182 (aquaporin-2)
+T1052	GO_CC 22694 22696	ER
+#1052	AnnotatorNotes T1052	GO:0005783 (endoplasmic reticulum)
+T1053	CHEBI 22697 22704	protein
+#1053	AnnotatorNotes T1053	CHEBI:36080 (proteins)
+T1054	EntrezGene 22705 22713	calnexin
+#1054	AnnotatorNotes T1054	EG:403908
+T1055	PR 22705 22713	calnexin
+#1055	AnnotatorNotes T1055	PR:000005005 (calnexin)
+T1056	GO_BP 22717 22728	transfected
+#1056	AnnotatorNotes T1056	GO:0009294 (DNA mediated transformation)
+T1057	CL 22734 22739	cells
+#1057	AnnotatorNotes T1057	CL:0000000 (cell)
+T1058	GO_CC 22734 22739	cells
+#1058	AnnotatorNotes T1058	GO:0005623 (cell)
+T1059	SO 22770 22776	mutant
+#1059	AnnotatorNotes T1059	SO:0001059 (sequence_alteration)
+T1060	CHEBI 22777 22784	protein
+#1060	AnnotatorNotes T1060	CHEBI:36080 (proteins)
+T1061	GO_CC 22803 22805	ER
+#1061	AnnotatorNotes T1061	GO:0005783 (endoplasmic reticulum)
+T1062	GO_CC 22837 22839	ER
+#1062	AnnotatorNotes T1062	GO:0005783 (endoplasmic reticulum)
+T1063	GO_BP 22852 22860	response
+#1063	AnnotatorNotes T1063	GO:0050896 (response to stimulus)
+T1064	GO_BP 22902 22914	glycosylated
+#1064	AnnotatorNotes T1064	GO:0043413 (biopolymer glycosylation)
+T1065	CHEBI 22915 22922	protein
+#1065	AnnotatorNotes T1065	CHEBI:36080 (proteins)
+T1066	SO 22926 22932	mutant
+#1066	AnnotatorNotes T1066	SO:0001059 (sequence_alteration)
+T1067	NCBITaxon 22933 22940	animals
+#1067	AnnotatorNotes T1067	NCBITaxon:33208 (Metazoa)
+T1068	GO_BP 22950 22991	transport of a fraction of mutant protein
+#1068	AnnotatorNotes T1068	"transport of .. protein" GO:0015031 (protein transport)
+T1069	SO 22977 22983	mutant
+#1069	AnnotatorNotes T1069	SO:0001059 (sequence_alteration)
+T1070	CHEBI 22984 22991	protein
+#1070	AnnotatorNotes T1070	CHEBI:36080 (proteins)
+T1071	GO_CC 23003 23005	ER
+#1071	AnnotatorNotes T1071	GO:0005783 (endoplasmic reticulum)
+T1072	CL 23014 23019	cells
+#1072	AnnotatorNotes T1072	CL:0000000 (cell)
+T1073	GO_CC 23014 23019	cells
+#1073	AnnotatorNotes T1073	GO:0005623 (cell)
+T1074	EntrezGene 23060 23064	AQP2
+#1074	AnnotatorNotes T1074	EG:11827
+T1075	PR 23060 23064	AQP2
+#1075	AnnotatorNotes T1075	PR:000004182 (aquaporin-2)
+T1076	GO_BP 23130 23148	water transporting
+#1076	AnnotatorNotes T1076	GO:0006833 (water transport)
+T1077	CHEBI 23130 23135	water
+#1077	AnnotatorNotes T1077	CHEBI:15377 (water)
+T1078	GO_BP 23228 23234	growth
+#1078	AnnotatorNotes T1078	GO:0040007 (growth)
+T1079	SO 23238 23244	mutant
+#1079	AnnotatorNotes T1079	SO:0001059 (sequence_alteration)
+T1080	NCBITaxon 23245 23252	animals
+#1080	AnnotatorNotes T1080	NCBITaxon:33208 (Metazoa)
+T1081	GO_CC 23289 23291	ER
+#1081	AnnotatorNotes T1081	GO:0005783 (endoplasmic reticulum)
+T1082	EntrezGene 23308 23312	AQP2
+#1082	AnnotatorNotes T1082	EG:11827
+T1083	PR 23308 23312	AQP2
+#1083	AnnotatorNotes T1083	PR:000004182 (aquaporin-2)
+T1084	CHEBI 23350 23357	mannose
+#1084	AnnotatorNotes T1084	CHEBI:25170 (mannosyl group)
+T1085	GO_BP 23358 23370	glycosylated
+#1085	AnnotatorNotes T1085	GO:0043413 (biopolymer glycosylation)
+T1086	SO 23371 23375	form
+#1086	AnnotatorNotes T1086	SO:0001060 (sequence_variant)
+T1087	CHEBI 23386 23393	mannose
+#1087	AnnotatorNotes T1087	CHEBI:25170 (mannosyl group)
+T1088	CHEBI 23399 23414	oligosaccharide
+#1088	AnnotatorNotes T1088	CHEBI:25679 (oligosaccharides)
+T1089	GO_CC 23431 23433	ER
+#1089	AnnotatorNotes T1089	GO:0005783 (endoplasmic reticulum)
+T1090	GO_BP 23447 23455	modified
+#1090	AnnotatorNotes T1090	GO:0043412 (biopolymer modification)
+T1091	SO 23447 23455	modified
+#1091	AnnotatorNotes T1091	SO:0000041 (sequence_operation)
+T1092	GO_CC 23478 23493	Golgi apparatus
+#1092	AnnotatorNotes T1092	GO:0005794 (Golgi apparatus)
+T1093	CHEBI 23525 23532	mannose
+#1093	AnnotatorNotes T1093	CHEBI:25170 (mannosyl group)
+T1094	GO_BP 23533 23545	glycosylated
+#1094	AnnotatorNotes T1094	GO:0043413 (biopolymer glycosylation)
+T1095	SO 23546 23550	form
+#1095	AnnotatorNotes T1095	SO:0001060 (sequence_variant)
+T1096	EntrezGene 23554 23558	AQP2
+#1096	AnnotatorNotes T1096	EG:11827
+T1097	PR 23554 23558	AQP2
+#1097	AnnotatorNotes T1097	PR:000004182 (aquaporin-2)
+T1098	GO_CC 23614 23616	ER
+#1098	AnnotatorNotes T1098	GO:0005783 (endoplasmic reticulum)
+T1099	GO_MF 23633 23659	oligosaccharyl transferase
+#1099	AnnotatorNotes T1099	GO:0004576 (oligosaccharyl transferase activity)
+T1100	independent_continuant 23633 23659	oligosaccharyl transferase
+#1100	AnnotatorNotes T1100	independent_continuant
+T1101	CHEBI 23633 23647	oligosaccharyl
+#1101	AnnotatorNotes T1101	CHEBI:25679 (oligosaccharides)
+T1102	GO_BP 23677 23689	localization
+#1102	AnnotatorNotes T1102	GO:0051179 (localization)
+T1103	EntrezGene 23693 23697	AQP2
+#1103	AnnotatorNotes T1103	EG:11827
+T1104	PR 23693 23697	AQP2
+#1104	AnnotatorNotes T1104	PR:000004182 (aquaporin-2)
+T1105	SO 23735 23741	mutant
+#1105	AnnotatorNotes T1105	SO:0001059 (sequence_alteration)
+T1106	NCBITaxon 23742 23746	mice
+#1106	AnnotatorNotes T1106	NCBITaxon:10088 (Mus)
+T1107	NCBITaxon 23797 23801	mice
+#1107	AnnotatorNotes T1107	NCBITaxon:10088 (Mus)
+T1108	NCBITaxon 23862 23866	mice
+#1108	AnnotatorNotes T1108	NCBITaxon:10088 (Mus)
+T1109	SO 23937 23946	wild type
+#1109	AnnotatorNotes T1109	SO:0000817 (wild_type)
+T1110	independent_continuant 23937 23946	wild type
+#1110	AnnotatorNotes T1110	independent_continuant
+T1111	SO 24033 24042	wild-type
+#1111	AnnotatorNotes T1111	SO:0000817 (wild_type)
+T1112	CHEBI 24043 24050	protein
+#1112	AnnotatorNotes T1112	CHEBI:36080 (proteins)
+T1113	GO_CC 24123 24125	ER
+#1113	AnnotatorNotes T1113	GO:0005783 (endoplasmic reticulum)
+T1114	GO_BP 24126 24134	retained
+#1114	AnnotatorNotes T1114	GO:0051235 (maintenance of localization)
+T1115	SO 24135 24141	mutant
+#1115	AnnotatorNotes T1115	SO:0001059 (sequence_alteration)
+T1116	CHEBI 24142 24149	protein
+#1116	AnnotatorNotes T1116	CHEBI:36080 (proteins)
+T1117	italic 24180 24191	Aqp2F204V/+
+#1117	AnnotatorNotes T1117	italic (null)
+T1118	sup 24184 24191	F204V/+
+#1118	AnnotatorNotes T1118	sup (null)
+T1119	SO 24190 24191	+
+#1119	AnnotatorNotes T1119	SO:0000817 (wild_type)
+T1120	NCBITaxon 24192 24199	animals
+#1120	AnnotatorNotes T1120	NCBITaxon:33208 (Metazoa)
+T1121	SO 24218 24224	mutant
+#1121	AnnotatorNotes T1121	SO:0001059 (sequence_alteration)
+T1122	CHEBI 24225 24232	protein
+#1122	AnnotatorNotes T1122	CHEBI:36080 (proteins)
+T1123	SO 24257 24266	wild-type
+#1123	AnnotatorNotes T1123	SO:0000817 (wild_type)
+T1124	CHEBI 24267 24274	protein
+#1124	AnnotatorNotes T1124	CHEBI:36080 (proteins)
+T1125	SO 24343 24349	allele
+#1125	AnnotatorNotes T1125	SO:0001023 (allele)
+T1126	italic 24353 24358	Aqp2,
+#1126	AnnotatorNotes T1126	italic (null)
+T1127	EntrezGene 24353 24357	Aqp2
+#1127	AnnotatorNotes T1127	EG:359
+T1128	PR 24353 24357	Aqp2
+#1128	AnnotatorNotes T1128	PR:000004182 (aquaporin-2)
+T1129	GO_BP 24384 24395	translocate
+#1129	AnnotatorNotes T1129	GO:0006810 (transport)
+T1130	GO_BP 24401 24410	expressed
+#1130	AnnotatorNotes T1130	GO:0010467 (gene expression)
+T1131	CL 24429 24434	cells
+#1131	AnnotatorNotes T1131	CL:0000000 (cell)
+T1132	GO_CC 24429 24434	cells
+#1132	AnnotatorNotes T1132	GO:0005623 (cell)
+T1133	SO 24464 24473	wild-type
+#1133	AnnotatorNotes T1133	SO:0000817 (wild_type)
+T1134	CHEBI 24474 24481	protein
+#1134	AnnotatorNotes T1134	CHEBI:36080 (proteins)
+T1135	GO_BP 24486 24495	localizes
+#1135	AnnotatorNotes T1135	GO:0051179 (localization)
+T1136	italic 24553 24564	Aqp2F204V/+
+#1136	AnnotatorNotes T1136	italic (null)
+T1137	sup 24557 24564	F204V/+
+#1137	AnnotatorNotes T1137	sup (null)
+T1138	SO 24563 24564	+
+#1138	AnnotatorNotes T1138	SO:0000817 (wild_type)
+T1139	NCBITaxon 24565 24569	mice
+#1139	AnnotatorNotes T1139	NCBITaxon:10088 (Mus)
+T1140	EntrezGene 24591 24595	AQP2
+#1140	AnnotatorNotes T1140	EG:11827
+T1141	PR 24591 24595	AQP2
+#1141	AnnotatorNotes T1141	PR:000004182 (aquaporin-2)
+T1142	SO 24620 24629	wild-type
+#1142	AnnotatorNotes T1142	SO:0000817 (wild_type)
+T1143	EntrezGene 24630 24634	AQP2
+#1143	AnnotatorNotes T1143	EG:11827
+T1144	PR 24630 24634	AQP2
+#1144	AnnotatorNotes T1144	PR:000004182 (aquaporin-2)
+T1145	SO 24674 24683	wild-type
+#1145	AnnotatorNotes T1145	SO:0000817 (wild_type)
+T1146	CHEBI 24684 24691	protein
+#1146	AnnotatorNotes T1146	CHEBI:36080 (proteins)
+T1147	EntrezGene 24693 24697	AQP2
+#1147	AnnotatorNotes T1147	EG:11827
+T1148	PR 24693 24697	AQP2
+#1148	AnnotatorNotes T1148	PR:000004182 (aquaporin-2)
+T1149	GO_CC 24718 24730	cell surface
+#1149	AnnotatorNotes T1149	GO:0009986 (cell surface)
+T1150	CL 24718 24722	cell
+#1150	AnnotatorNotes T1150	CL:0000000 (cell)
+T1151	GO_CC 24718 24722	cell
+#1151	AnnotatorNotes T1151	GO:0005623 (cell)
+T1152	SO 24821 24827	allele
+#1152	AnnotatorNotes T1152	SO:0001023 (allele)
+T1153	EntrezGene 24838 24842	AQP2
+#1153	AnnotatorNotes T1153	EG:359
+T1154	PR 24838 24842	AQP2
+#1154	AnnotatorNotes T1154	PR:000004182 (aquaporin-2)
+T1155	SO 24880 24889	wild-type
+#1155	AnnotatorNotes T1155	SO:0000817 (wild_type)
+T1156	EntrezGene 24890 24894	AQP2
+#1156	AnnotatorNotes T1156	EG:359
+T1157	PR 24890 24894	AQP2
+#1157	AnnotatorNotes T1157	PR:000004182 (aquaporin-2)
+T1158	EntrezGene 24918 24922	AQP2
+#1158	AnnotatorNotes T1158	EG:11827
+T1159	PR 24918 24922	AQP2
+#1159	AnnotatorNotes T1159	PR:000004182 (aquaporin-2)
+T1160	SO 24952 24961	wild-type
+#1160	AnnotatorNotes T1160	SO:0000817 (wild_type)
+T1161	CHEBI 24962 24969	protein
+#1161	AnnotatorNotes T1161	CHEBI:36080 (proteins)
+T1162	SO 25037 25043	allele
+#1162	AnnotatorNotes T1162	SO:0001023 (allele)
+T1163	italic 25114 25129	Aqp2F204V/F204V
+#1163	AnnotatorNotes T1163	italic (null)
+T1164	sup 25118 25129	F204V/F204V
+#1164	AnnotatorNotes T1164	sup (null)
+T1165	NCBITaxon 25130 25134	mice
+#1165	AnnotatorNotes T1165	NCBITaxon:10088 (Mus)
+T1166	SO 25150 25156	mutant
+#1166	AnnotatorNotes T1166	SO:0001060 (sequence_variant)
+T1167	GO_BP 25157 25167	expressing
+#1167	AnnotatorNotes T1167	GO:0010467 (gene expression)
+T1168	CL 25184 25189	cells
+#1168	AnnotatorNotes T1168	CL:0000000 (cell)
+T1169	GO_CC 25184 25189	cells
+#1169	AnnotatorNotes T1169	GO:0005623 (cell)
+T1170	CHEBI 25206 25211	water
+#1170	AnnotatorNotes T1170	CHEBI:15377 (water)
+T1171	GO_CC 25262 25284	apical plasma membrane
+#1171	AnnotatorNotes T1171	GO:0016324 (apical plasma membrane)
+T1172	GO_CC 25262 25268	apical
+#1172	AnnotatorNotes T1172	GO:0045177 (apical part of cell)
+T1173	GO_BP 25288 25296	response
+#1173	AnnotatorNotes T1173	GO:0050896 (response to stimulus)
+T1174	italic 25418 25422	Aqp2
+#1174	AnnotatorNotes T1174	italic (null)
+T1175	PR 25418 25422	Aqp2
+#1175	AnnotatorNotes T1175	PR:000004182 (aquaporin-2)
+T1176	EntrezGene 25418 25422	Aqp2
+#1176	AnnotatorNotes T1176	EG:359
+T1177	SO 25423 25432	mutations
+#1177	AnnotatorNotes T1177	SO:0001059 (sequence_alteration)
+T1178	GO_BP 25434 25446	Transfection
+#1178	AnnotatorNotes T1178	GO:0009294 (DNA mediated transformation)
+T1179	CL 25457 25462	cells
+#1179	AnnotatorNotes T1179	CL:0000000 (cell)
+T1180	GO_CC 25457 25462	cells
+#1180	AnnotatorNotes T1180	GO:0005623 (cell)
+T1181	italic 25481 25485	Aqp2
+#1181	AnnotatorNotes T1181	italic (null)
+T1182	PR 25481 25485	Aqp2
+#1182	AnnotatorNotes T1182	PR:000004182 (aquaporin-2)
+T1183	EntrezGene 25481 25485	Aqp2
+#1183	AnnotatorNotes T1183	EG:359
+T1184	SO 25486 25495	mutations
+#1184	AnnotatorNotes T1184	SO:0001059 (sequence_alteration)
+T1185	NCBITaxon 25523 25528	human
+#1185	AnnotatorNotes T1185	NCBITaxon:9606 (Homo sapiens)
+T1186	SO 25529 25536	alleles
+#1186	AnnotatorNotes T1186	SO:0001023 (allele)
+T1187	GO_BP 25552 25576	subcellular localization
+#1187	AnnotatorNotes T1187	GO:0051641 (cellular localization)
+T1188	GO_BP 25617 25628	translocate
+#1188	AnnotatorNotes T1188	GO:0006810 (transport)
+T1189	GO_CC 25636 25651	plasma membrane
+#1189	AnnotatorNotes T1189	GO:0005886 (plasma membrane)
+T1190	GO_BP 25671 25680	retention
+#1190	AnnotatorNotes T1190	GO:0051235 (maintenance of localization)
+T1191	GO_CC 25688 25690	ER
+#1191	AnnotatorNotes T1191	GO:0005783 (endoplasmic reticulum)
+T1192	GO_BP 25707 25718	translocate
+#1192	AnnotatorNotes T1192	GO:0006810 (transport)
+T1193	GO_BP 25722 25730	response
+#1193	AnnotatorNotes T1193	GO:0050896 (response to stimulus)
+T1194	GO_CC 25775 25784	autosomal
+#1194	AnnotatorNotes T1194	GO:0030849 (autosome)
+T1195	GO_BP 25848 25857	establish
+#1195	AnnotatorNotes T1195	GO:0000003 (reproduction)
+T1196	NCBITaxon 25877 25882	human
+#1196	AnnotatorNotes T1196	NCBITaxon:9606 (Homo sapiens)
+T1197	NCBITaxon 25893 25898	mouse
+#1197	AnnotatorNotes T1197	NCBITaxon:10088 (Mus)
+T1198	italic 25924 25928	Aqp2
+#1198	AnnotatorNotes T1198	italic (null)
+T1199	EntrezGene 25924 25928	Aqp2
+#1199	AnnotatorNotes T1199	EG:11827
+T1200	PR 25924 25928	Aqp2
+#1200	AnnotatorNotes T1200	PR:000004182 (aquaporin-2)
+T1201	SO 25929 25935	allele
+#1201	AnnotatorNotes T1201	SO:0001023 (allele)
+T1202	SO 26010 26014	gene
+#1202	AnnotatorNotes T1202	SO:0000704 (gene)
+T1203	GO_BP 26033 26040	promote
+#1203	AnnotatorNotes T1203	GO:0048518 (positive regulation of biological process)
+T1204	GO_BP 26048 26072	subcellular localization
+#1204	AnnotatorNotes T1204	GO:0051641 (cellular localization)
+T1205	GO_BP 26098 26108	Generation
+#1205	AnnotatorNotes T1205	GO:0000003 (reproduction)
+T1206	NCBITaxon 26116 26120	mice
+#1206	AnnotatorNotes T1206	NCBITaxon:10088 (Mus)
+T1207	CHEBI 26135 26138	ENU
+#1207	AnnotatorNotes T1207	CHEBI:23995 (ethyl nitrosourea)
+T1208	NCBITaxon 26159 26163	mice
+#1208	AnnotatorNotes T1208	NCBITaxon:10088 (Mus)
+T1209	GO_BP 26169 26178	generated
+#1209	AnnotatorNotes T1209	GO:0000003 (reproduction)
+T1210	NCBITaxon 26198 26202	Mice
+#1210	AnnotatorNotes T1210	NCBITaxon:10088 (Mus)
+T1211	NCBITaxon 26244 26251	animals
+#1211	AnnotatorNotes T1211	NCBITaxon:33208 (Metazoa)
+T1212	NCBITaxon 26359 26365	animal
+#1212	AnnotatorNotes T1212	NCBITaxon:33208 (Metazoa)
+T1213	NCBITaxon 26519 26525	Animal
+#1213	AnnotatorNotes T1213	NCBITaxon:33208 (Metazoa)
+T1214	SO 26551 26561	Constructs
+#1214	AnnotatorNotes T1214	SO:0001037 (mobile_genetic_element)
+T1215	SO 26577 26592	coding sequence
+#1215	AnnotatorNotes T1215	SO:0000316 (CDS)
+T1216	EntrezGene 26596 26606	mouse AQP2
+#1216	AnnotatorNotes T1216	EG:11827
+T1217	NCBITaxon 26596 26601	mouse
+#1217	AnnotatorNotes T1217	NCBITaxon:10088 (Mus)
+T1218	PR 26602 26606	AQP2
+#1218	AnnotatorNotes T1218	PR:000004182 (aquaporin-2)
+T1219	SO 26621 26626	clone
+#1219	AnnotatorNotes T1219	SO:0000151 (clone)
+T1220	GO_BP 26631 26639	digested
+#1220	AnnotatorNotes T1220	GO:0009056 (catabolic process)
+T1221	SO 26661 26668	plasmid
+#1221	AnnotatorNotes T1221	SO:0000155 (plasmid)
+T1222	GO_BP 26693 26700	ligated
+#1222	AnnotatorNotes T1222	GO:0006266 (DNA ligation)
+T1223	SO 26776 26784	mutation
+#1223	AnnotatorNotes T1223	SO:0001059 (sequence_alteration)
+T1224	SO 26803 26807	site
+#1224	AnnotatorNotes T1224	SO:0000001 (region)
+T1225	SO 26817 26828	mutagenesis
+#1225	AnnotatorNotes T1225	SO:0000041 (sequence_operation)
+T1226	SO 26896 26911	oligonucleotide
+#1226	AnnotatorNotes T1226	SO:0000696 (oligo)
+T1227	underline 26930 26931	G
+#1227	AnnotatorNotes T1227	underline (null)
+T1228	SO 26955 26964	antisense
+#1228	AnnotatorNotes T1228	SO:0000077 (antisense)
+T1229	SO 26965 26980	oligonucleotide
+#1229	AnnotatorNotes T1229	SO:0000696 (oligo)
+T1230	underline 26999 27000	C
+#1230	AnnotatorNotes T1230	underline (null)
+T1231	GO_BP 27023 27031	generate
+#1231	AnnotatorNotes T1231	GO:0009058 (biosynthetic process)
+T1232	EntrezGene 27047 27051	AQP2
+#1232	AnnotatorNotes T1232	EG:11827
+T1233	PR 27047 27051	AQP2
+#1233	AnnotatorNotes T1233	PR:000004182 (aquaporin-2)
+T1234	EntrezGene 27069 27073	AQP2
+#1234	AnnotatorNotes T1234	EG:11827
+T1235	PR 27069 27073	AQP2
+#1235	AnnotatorNotes T1235	PR:000004182 (aquaporin-2)
+T1236	SO 27074 27083	construct
+#1236	AnnotatorNotes T1236	SO:0001037 (mobile_genetic_element)
+T1237	SO 27120 27127	primers
+#1237	AnnotatorNotes T1237	SO:0000112 (primer)
+T1238	SO 27178 27184	remove
+#1238	AnnotatorNotes T1238	SO:0000045 (delete)
+T1239	SO 27189 27199	stop codon
+#1239	AnnotatorNotes T1239	SO:0000319 (stop_codon)
+T1240	GO_BP 27189 27193	stop
+#1240	AnnotatorNotes T1240	GO:0006353 (transcription termination)
+T1241	GO_BP 27189 27193	stop
+#1241	AnnotatorNotes T1241	GO:0006415 (translational termination)
+T1242	EntrezGene 27203 27207	AQP2
+#1242	AnnotatorNotes T1242	EG:11827
+T1243	PR 27203 27207	AQP2
+#1243	AnnotatorNotes T1243	PR:000004182 (aquaporin-2)
+T1244	SO 27213 27220	product
+#1244	AnnotatorNotes T1244	SO:0000006 (PCR_product)
+T1245	GO_BP 27225 27233	digested
+#1245	AnnotatorNotes T1245	GO:0009056 (catabolic process)
+T1246	GO_BP 27258 27265	ligated
+#1246	AnnotatorNotes T1246	GO:0006266 (DNA ligation)
+T1247	SO 27346 27354	mutation
+#1247	AnnotatorNotes T1247	SO:0001059 (sequence_alteration)
+T1248	CHEBI 27385 27394	mutagenic
+#1248	AnnotatorNotes T1248	CHEBI:25435 (mutagen)
+T1249	SO 27395 27411	oligonucleotides
+#1249	AnnotatorNotes T1249	SO:0000696 (oligo)
+T1250	CL 27414 27418	Cell
+#1250	AnnotatorNotes T1250	CL:0000000 (cell)
+T1251	GO_CC 27414 27418	Cell
+#1251	AnnotatorNotes T1251	GO:0005623 (cell)
+T1252	GO_BP 27431 27441	generation
+#1252	AnnotatorNotes T1252	GO:0032502 (developmental process)
+T1253	CL 27452 27456	cell
+#1253	AnnotatorNotes T1253	CL:0000000 (cell)
+T1254	GO_CC 27452 27456	cell
+#1254	AnnotatorNotes T1254	GO:0005623 (cell)
+T1255	CL 27470 27475	cells
+#1255	AnnotatorNotes T1255	CL:0000000 (cell)
+T1256	GO_CC 27470 27475	cells
+#1256	AnnotatorNotes T1256	GO:0005623 (cell)
+T1257	CHEBI 27655 27665	penicillin
+#1257	AnnotatorNotes T1257	CHEBI:17334 (penicillins)
+T1258	CHEBI 27684 27696	streptomycin
+#1258	AnnotatorNotes T1258	CHEBI:17076 (streptomycin)
+T1259	sub 27714 27715	2
+#1259	AnnotatorNotes T1259	sub (null)
+T1260	GO_BP 27720 27728	generate
+#1260	AnnotatorNotes T1260	GO:0032502 (developmental process)
+T1261	CL 27741 27745	cell
+#1261	AnnotatorNotes T1261	CL:0000000 (cell)
+T1262	GO_CC 27741 27745	cell
+#1262	AnnotatorNotes T1262	GO:0005623 (cell)
+T1263	CL 27753 27758	cells
+#1263	AnnotatorNotes T1263	CL:0000000 (cell)
+T1264	GO_CC 27753 27758	cells
+#1264	AnnotatorNotes T1264	GO:0005623 (cell)
+T1265	GO_BP 27764 27775	transfected
+#1265	AnnotatorNotes T1265	GO:0009294 (DNA mediated transformation)
+T1266	GO_BP 27831 27841	expression
+#1266	AnnotatorNotes T1266	GO:0010467 (gene expression)
+T1267	SO 27842 27852	constructs
+#1267	AnnotatorNotes T1267	SO:0001037 (mobile_genetic_element)
+T1268	SO 27865 27874	wild-type
+#1268	AnnotatorNotes T1268	SO:0000817 (wild_type)
+T1269	EntrezGene 27875 27879	AQP2
+#1269	AnnotatorNotes T1269	EG:11827
+T1270	PR 27875 27879	AQP2
+#1270	AnnotatorNotes T1270	PR:000004182 (aquaporin-2)
+T1271	EntrezGene 27881 27885	AQP2
+#1271	AnnotatorNotes T1271	EG:11827
+T1272	PR 27881 27885	AQP2
+#1272	AnnotatorNotes T1272	PR:000004182 (aquaporin-2)
+T1273	SO 27899 27905	insert
+#1273	AnnotatorNotes T1273	SO:0000667 (insertion)
+T1274	GO_BP 27982 27990	expanded
+#1274	AnnotatorNotes T1274	GO:0008283 (cell proliferation)
+T1275	CHEBI 28046 28056	antibiotic
+#1275	AnnotatorNotes T1275	CHEBI:22582 (antibiotic)
+T1276	GO_BP 28107 28120	transfections
+#1276	AnnotatorNotes T1276	GO:0009294 (DNA mediated transformation)
+T1277	CL 28161 28166	cells
+#1277	AnnotatorNotes T1277	CL:0000000 (cell)
+T1278	GO_CC 28161 28166	cells
+#1278	AnnotatorNotes T1278	GO:0005623 (cell)
+T1279	italic 28219 28223	Aqp2
+#1279	AnnotatorNotes T1279	italic (null)
+T1280	PR 28219 28223	Aqp2
+#1280	AnnotatorNotes T1280	PR:000004182 (aquaporin-2)
+T1281	EntrezGene 28219 28223	Aqp2
+#1281	AnnotatorNotes T1281	EG:11827
+T1282	NCBITaxon 28242 28246	mice
+#1282	AnnotatorNotes T1282	NCBITaxon:10088 (Mus)
+T1283	SO 28253 28258	exons
+#1283	AnnotatorNotes T1283	SO:0000147 (exon)
+T1284	italic 28262 28266	Aqp2
+#1284	AnnotatorNotes T1284	italic (null)
+T1285	PR 28262 28266	Aqp2
+#1285	AnnotatorNotes T1285	PR:000004182 (aquaporin-2)
+T1286	EntrezGene 28262 28266	Aqp2
+#1286	AnnotatorNotes T1286	EG:11827
+T1287	NCBITaxon 28287 28292	mouse
+#1287	AnnotatorNotes T1287	NCBITaxon:10088 (Mus)
+T1288	SO 28293 28304	genomic DNA
+#1288	AnnotatorNotes T1288	SO:0000991 (genomic_DNA)
+T1289	SO 28293 28300	genomic
+#1289	AnnotatorNotes T1289	SO:0001026 (genome)
+T1290	SO 28336 28340	exon
+#1290	AnnotatorNotes T1290	SO:0000147 (exon)
+T1291	SO 28367 28374	primers
+#1291	AnnotatorNotes T1291	SO:0000112 (primer)
+T1292	GO_BP 28462 28474	urine output
+#1292	AnnotatorNotes T1292	GO:0060073 (micturition)
+T1293	NCBITaxon 28516 28520	mice
+#1293	AnnotatorNotes T1293	NCBITaxon:10088 (Mus)
+T1294	GO_BP 28532 28541	Metabolic
+#1294	AnnotatorNotes T1294	GO:0008152 (metabolic process)
+T1295	NCBITaxon 28867 28871	Mice
+#1295	AnnotatorNotes T1295	NCBITaxon:10088 (Mus)
+T1296	GO_CC 29038 29046	membrane
+#1296	AnnotatorNotes T1296	GO:0016020 (membrane)
+T1297	NCBITaxon 29067 29072	mouse
+#1297	AnnotatorNotes T1297	NCBITaxon:10088 (Mus)
+T1298	CHEBI 29107 29111	Tris
+#1298	AnnotatorNotes T1298	CHEBI:9754 (tris)
+T1299	CHEBI 29129 29136	sucrose
+#1299	AnnotatorNotes T1299	CHEBI:17992 (sucrose)
+T1300	CHEBI 29147 29151	EDTA
+#1300	AnnotatorNotes T1300	CHEBI:30378 (ethylenediaminetetraacetate)
+T1301	CHEBI 29147 29151	EDTA
+#1301	AnnotatorNotes T1301	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T1302	CHEBI 29163 29182	protease inhibitors
+#1302	AnnotatorNotes T1302	CHEBI:37670 (protease inhibitor)
+T1303	GO_MF 29163 29182	protease inhibitors
+#1303	AnnotatorNotes T1303	GO:0030414 (protease inhibitor activity)
+T1304	independent_continuant 29163 29182	protease inhibitors
+#1304	AnnotatorNotes T1304	independent_continuant
+T1305	GO_MF 29163 29171	protease
+#1305	AnnotatorNotes T1305	GO:0008233 (peptidase activity)
+T1306	independent_continuant 29163 29171	protease
+#1306	AnnotatorNotes T1306	independent_continuant
+T1307	italic 29282 29283	g
+#1307	AnnotatorNotes T1307	italic (null)
+T1308	italic 29363 29364	g
+#1308	AnnotatorNotes T1308	italic (null)
+T1309	GO_CC 29391 29400	membranes
+#1309	AnnotatorNotes T1309	GO:0016020 (membrane)
+T1310	CHEBI 29442 29449	protein
+#1310	AnnotatorNotes T1310	CHEBI:36080 (proteins)
+T1311	GO_CC 29523 29541	membrane fractions
+#1311	AnnotatorNotes T1311	GO:0005624 (membrane fraction)
+T1312	GO_CC 29523 29531	membrane
+#1312	AnnotatorNotes T1312	GO:0016020 (membrane)
+T1313	CHEBI 29573 29576	SDS
+#1313	AnnotatorNotes T1313	CHEBI:8984 (sodium dodecyl sulfate)
+T1314	CHEBI 29686 29690	Tris
+#1314	AnnotatorNotes T1314	CHEBI:9754 (tris)
+T1315	CHEBI 29691 29699	buffered
+#1315	AnnotatorNotes T1315	CHEBI:35225 (buffer)
+T1316	PR 29786 29790	AQP2
+#1316	AnnotatorNotes T1316	PR:000004182 (aquaporin-2)
+T1317	GO_CC 29802 29810	antibody
+#1317	AnnotatorNotes T1317	GO:0019814 (immunoglobulin complex)
+T1318	GO_BP 29942 29952	conjugated
+#1318	AnnotatorNotes T1318	GO:0043412 (biopolymer modification)
+T1319	NCBITaxon 29953 29959	donkey
+#1319	AnnotatorNotes T1319	NCBITaxon:9793 (Equus asinus)
+T1320	NCBITaxon 29965 29969	goat
+#1320	AnnotatorNotes T1320	NCBITaxon:9925 (Capra hircus)
+T1321	GO_CC 29970 29978	antibody
+#1321	AnnotatorNotes T1321	GO:0019814 (immunoglobulin complex)
+T1322	CHEBI 30054 30061	reagent
+#1322	AnnotatorNotes T1322	CHEBI:33893 (reagent)
+T1323	GO_BP 30136 30145	digestion
+#1323	AnnotatorNotes T1323	GO:0009056 (catabolic process)
+T1324	GO_CC 30155 30164	membranes
+#1324	AnnotatorNotes T1324	GO:0016020 (membrane)
+T1325	CHEBI 30197 30213	sodium phosphate
+#1325	AnnotatorNotes T1325	CHEBI:37586 (sodium phosphates)
+T1326	CHEBI 30197 30203	sodium
+#1326	AnnotatorNotes T1326	CHEBI:26708 (sodium)
+T1327	CHEBI 30204 30213	phosphate
+#1327	AnnotatorNotes T1327	CHEBI:35780 (phosphate ions)
+T1328	CHEBI 30229 30232	SDS
+#1328	AnnotatorNotes T1328	CHEBI:8984 (sodium dodecyl sulfate)
+T1329	CHEBI 30244 30261	β-mercaptoethanol
+#1329	AnnotatorNotes T1329	CHEBI:41218 (mercaptoethanol)
+T1330	PR 30304 30321	Endoglycosidase H
+#1330	AnnotatorNotes T1330	PR:000007078 (cytosolic endo-beta-N-acetylglucosaminidase)
+T1331	GO_BP 30541 30554	biotinylation
+#1331	AnnotatorNotes T1331	GO:0009305 (protein amino acid biotinylation)
+T1332	CL 30563 30568	cells
+#1332	AnnotatorNotes T1332	CL:0000000 (cell)
+T1333	GO_CC 30563 30568	cells
+#1333	AnnotatorNotes T1333	GO:0005623 (cell)
+T1334	CL 30576 30581	cells
+#1334	AnnotatorNotes T1334	CL:0000000 (cell)
+T1335	GO_CC 30576 30581	cells
+#1335	AnnotatorNotes T1335	GO:0005623 (cell)
+T1336	GO_BP 30589 30599	expressing
+#1336	AnnotatorNotes T1336	GO:0010467 (gene expression)
+T1337	SO 30600 30609	wild-type
+#1337	AnnotatorNotes T1337	SO:0000817 (wild_type)
+T1338	EntrezGene 30610 30614	AQP2
+#1338	AnnotatorNotes T1338	EG:11827
+T1339	PR 30610 30614	AQP2
+#1339	AnnotatorNotes T1339	PR:000004182 (aquaporin-2)
+T1340	GO_BP 30616 30621	grown
+#1340	AnnotatorNotes T1340	GO:0040007 (growth)
+T1341	GO_BP 30644 30655	transfected
+#1341	AnnotatorNotes T1341	GO:0009294 (DNA mediated transformation)
+T1342	SO 30667 30676	wild-type
+#1342	AnnotatorNotes T1342	SO:0000817 (wild_type)
+T1343	EntrezGene 30677 30681	AQP2
+#1343	AnnotatorNotes T1343	EG:11827
+T1344	PR 30677 30681	AQP2
+#1344	AnnotatorNotes T1344	PR:000004182 (aquaporin-2)
+T1345	EntrezGene 30689 30693	AQP2
+#1345	AnnotatorNotes T1345	EG:11827
+T1346	PR 30689 30693	AQP2
+#1346	AnnotatorNotes T1346	PR:000004182 (aquaporin-2)
+T1347	SO 30704 30710	vector
+#1347	AnnotatorNotes T1347	SO:0000440 (vector_replicon)
+T1348	CL 30722 30727	cells
+#1348	AnnotatorNotes T1348	CL:0000000 (cell)
+T1349	GO_CC 30722 30727	cells
+#1349	AnnotatorNotes T1349	GO:0005623 (cell)
+T1350	CHEBI 30754 30758	Tris
+#1350	AnnotatorNotes T1350	CHEBI:9754 (tris)
+T1351	CHEBI 30774 30778	EDTA
+#1351	AnnotatorNotes T1351	CHEBI:30378 (ethylenediaminetetraacetate)
+T1352	CHEBI 30774 30778	EDTA
+#1352	AnnotatorNotes T1352	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T1353	CHEBI 30791 30798	sucrose
+#1353	AnnotatorNotes T1353	CHEBI:17992 (sucrose)
+T1354	italic 30864 30865	g
+#1354	AnnotatorNotes T1354	italic (null)
+T1355	GO_CC 30887 30896	membranes
+#1355	AnnotatorNotes T1355	GO:0016020 (membrane)
+T1356	CHEBI 30951 30970	sodium deoxycholate
+#1356	AnnotatorNotes T1356	CHEBI:9177 (sodium deoxycholate)
+T1357	CHEBI 30951 30957	sodium
+#1357	AnnotatorNotes T1357	CHEBI:26708 (sodium)
+T1358	CHEBI 30958 30970	deoxycholate
+#1358	AnnotatorNotes T1358	CHEBI:23614 (deoxycholate)
+T1359	GO_CC 31022 31031	membranes
+#1359	AnnotatorNotes T1359	GO:0016020 (membrane)
+T1360	GO_CC 31082 31099	membrane fraction
+#1360	AnnotatorNotes T1360	GO:0005624 (membrane fraction)
+T1361	GO_CC 31082 31090	membrane
+#1361	AnnotatorNotes T1361	GO:0016020 (membrane)
+T1362	GO_CC 31115 31124	membranes
+#1362	AnnotatorNotes T1362	GO:0016020 (membrane)
+T1363	CHEBI 31247 31254	protein
+#1363	AnnotatorNotes T1363	CHEBI:36080 (proteins)
+T1364	CHEBI 31319 31327	proteins
+#1364	AnnotatorNotes T1364	CHEBI:36080 (proteins)
+T1365	GO_CC 31420 31449	membrane and the IP fractions
+#1365	AnnotatorNotes T1365	"membrane .. fractions" GO:0005624 (membrane fraction)
+T1366	GO_CC 31420 31428	membrane
+#1366	AnnotatorNotes T1366	GO:0016020 (membrane)
+T1367	GO_CC 31486 31498	Cell surface
+#1367	AnnotatorNotes T1367	GO:0009986 (cell surface)
+T1368	CL 31486 31490	Cell
+#1368	AnnotatorNotes T1368	CL:0000000 (cell)
+T1369	GO_CC 31486 31490	Cell
+#1369	AnnotatorNotes T1369	GO:0005623 (cell)
+T1370	GO_BP 31499 31512	biotinylation
+#1370	AnnotatorNotes T1370	GO:0009305 (protein amino acid biotinylation)
+T1371	EntrezGene 31563 31567	AQP2
+#1371	AnnotatorNotes T1371	EG:11827
+T1372	PR 31563 31567	AQP2
+#1372	AnnotatorNotes T1372	PR:000004182 (aquaporin-2)
+T1373	GO_BP 31579 31590	transfected
+#1373	AnnotatorNotes T1373	GO:0009294 (DNA mediated transformation)
+T1374	CL 31601 31606	cells
+#1374	AnnotatorNotes T1374	CL:0000000 (cell)
+T1375	GO_CC 31601 31606	cells
+#1375	AnnotatorNotes T1375	GO:0005623 (cell)
+T1376	GO_BP 31614 31624	expressing
+#1376	AnnotatorNotes T1376	GO:0010467 (gene expression)
+T1377	SO 31625 31634	wild-type
+#1377	AnnotatorNotes T1377	SO:0000817 (wild_type)
+T1378	EntrezGene 31635 31639	AQP2
+#1378	AnnotatorNotes T1378	EG:11827
+T1379	PR 31635 31639	AQP2
+#1379	AnnotatorNotes T1379	PR:000004182 (aquaporin-2)
+T1380	CL 31644 31649	cells
+#1380	AnnotatorNotes T1380	CL:0000000 (cell)
+T1381	GO_CC 31644 31649	cells
+#1381	AnnotatorNotes T1381	GO:0005623 (cell)
+T1382	SO 31667 31673	vector
+#1382	AnnotatorNotes T1382	SO:0000440 (vector_replicon)
+T1383	GO_BP 31704 31716	transfection
+#1383	AnnotatorNotes T1383	GO:0009294 (DNA mediated transformation)
+T1384	CL 31718 31723	cells
+#1384	AnnotatorNotes T1384	CL:0000000 (cell)
+T1385	GO_CC 31718 31723	cells
+#1385	AnnotatorNotes T1385	GO:0005623 (cell)
+T1386	GO_BP 31729 31739	stimulated
+#1386	AnnotatorNotes T1386	GO:0001775 (cell activation)
+T1387	sup 31805 31806	6
+#1387	AnnotatorNotes T1387	sup (null)
+T1388	CL 31807 31812	cells
+#1388	AnnotatorNotes T1388	CL:0000000 (cell)
+T1389	GO_CC 31807 31812	cells
+#1389	AnnotatorNotes T1389	GO:0005623 (cell)
+T1390	sub 31854 31855	4
+#1390	AnnotatorNotes T1390	sub (null)
+T1391	CHEBI 31856 31862	biotin
+#1391	AnnotatorNotes T1391	CHEBI:22885 (biotinyl group)
+T1392	CL 31918 31923	Cells
+#1392	AnnotatorNotes T1392	CL:0000000 (cell)
+T1393	GO_CC 31918 31923	Cells
+#1393	AnnotatorNotes T1393	GO:0005623 (cell)
+T1394	CHEBI 31950 31954	Tris
+#1394	AnnotatorNotes T1394	CHEBI:9754 (tris)
+T1395	GO_CC 31998 32007	membranes
+#1395	AnnotatorNotes T1395	GO:0016020 (membrane)
+T1396	GO_CC 32070 32079	membranes
+#1396	AnnotatorNotes T1396	GO:0016020 (membrane)
+T1397	CHEBI 32199 32207	proteins
+#1397	AnnotatorNotes T1397	CHEBI:36080 (proteins)
+T1398	CL 32280 32285	cells
+#1398	AnnotatorNotes T1398	CL:0000000 (cell)
+T1399	GO_CC 32280 32285	cells
+#1399	AnnotatorNotes T1399	GO:0005623 (cell)
+T1400	GO_BP 32294 32306	biotinylated
+#1400	AnnotatorNotes T1400	GO:0009305 (protein amino acid biotinylation)
+T1401	GO_CC 32349 32357	antibody
+#1401	AnnotatorNotes T1401	GO:0019814 (immunoglobulin complex)
+T1402	PR 32361 32365	AQP2
+#1402	AnnotatorNotes T1402	PR:000004182 (aquaporin-2)
+T1403	NCBITaxon 32404 32409	mouse
+#1403	AnnotatorNotes T1403	NCBITaxon:10088 (Mus)
+T1404	CHEBI 32436 32445	phosphate
+#1404	AnnotatorNotes T1404	CHEBI:26020 (phosphates)
+T1405	CHEBI 32436 32445	phosphate
+#1405	AnnotatorNotes T1405	CHEBI:35780 (phosphate ions)
+T1406	CHEBI 32446 32454	buffered
+#1406	AnnotatorNotes T1406	CHEBI:35225 (buffer)
+T1407	CHEBI 32582 32588	sodium
+#1407	AnnotatorNotes T1407	CHEBI:26708 (sodium)
+T1408	CHEBI 32589 32596	citrate
+#1408	AnnotatorNotes T1408	CHEBI:35804 (citrate(1-))
+T1409	CHEBI 32589 32596	citrate
+#1409	AnnotatorNotes T1409	CHEBI:35808 (citrate(2-))
+T1410	CHEBI 32589 32596	citrate
+#1410	AnnotatorNotes T1410	CHEBI:16947 (citrate(3-))
+T1411	EntrezGene 32670 32674	AQP3
+#1411	AnnotatorNotes T1411	EG:11828
+T1412	PR 32670 32674	AQP3
+#1412	AnnotatorNotes T1412	PR:000004183 (aquaporin-3)
+T1413	EntrezGene 32688 32692	AQP2
+#1413	AnnotatorNotes T1413	EG:11827
+T1414	PR 32688 32692	AQP2
+#1414	AnnotatorNotes T1414	PR:000004182 (aquaporin-2)
+T1415	NCBITaxon 32724 32730	donkey
+#1415	AnnotatorNotes T1415	NCBITaxon:9793 (Equus asinus)
+T1416	NCBITaxon 32749 32753	goat
+#1416	AnnotatorNotes T1416	NCBITaxon:9925 (Capra hircus)
+T1417	PR 32759 32763	AQP3
+#1417	AnnotatorNotes T1417	PR:000004183 (aquaporin-3)
+T1418	GO_CC 32764 32772	antibody
+#1418	AnnotatorNotes T1418	GO:0019814 (immunoglobulin complex)
+T1419	GO_BP 32880 32890	conjugated
+#1419	AnnotatorNotes T1419	GO:0043412 (biopolymer modification)
+T1420	NCBITaxon 32891 32897	donkey
+#1420	AnnotatorNotes T1420	NCBITaxon:9793 (Equus asinus)
+T1421	NCBITaxon 32903 32907	goat
+#1421	AnnotatorNotes T1421	NCBITaxon:9925 (Capra hircus)
+T1422	GO_CC 32908 32916	antibody
+#1422	AnnotatorNotes T1422	GO:0019814 (immunoglobulin complex)
+T1423	CHEBI 32918 32927	Molecular
+#1423	AnnotatorNotes T1423	CHEBI:23367 (molecular entity)
+T1424	NCBITaxon 33011 33018	chicken
+#1424	AnnotatorNotes T1424	NCBITaxon:9031 (Gallus gallus)
+T1425	NCBITaxon 33043 33049	rabbit
+#1425	AnnotatorNotes T1425	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1426	PR 33055 33059	AQP2
+#1426	AnnotatorNotes T1426	PR:000004182 (aquaporin-2)
+T1427	GO_CC 33060 33068	antibody
+#1427	AnnotatorNotes T1427	GO:0019814 (immunoglobulin complex)
+T1428	GO_BP 33167 33177	conjugated
+#1428	AnnotatorNotes T1428	GO:0043412 (biopolymer modification)
+T1429	NCBITaxon 33178 33185	chicken
+#1429	AnnotatorNotes T1429	NCBITaxon:9031 (Gallus gallus)
+T1430	NCBITaxon 33191 33197	rabbit
+#1430	AnnotatorNotes T1430	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1431	GO_CC 33198 33206	antibody
+#1431	AnnotatorNotes T1431	GO:0019814 (immunoglobulin complex)
+T1432	CHEBI 33215 33224	Molecular
+#1432	AnnotatorNotes T1432	CHEBI:23367 (molecular entity)
+T1433	CL 33380 33385	cells
+#1433	AnnotatorNotes T1433	CL:0000000 (cell)
+T1434	GO_CC 33380 33385	cells
+#1434	AnnotatorNotes T1434	GO:0005623 (cell)
+T1435	CL 33400 33404	cell
+#1435	AnnotatorNotes T1435	CL:0000000 (cell)
+T1436	GO_CC 33400 33404	cell
+#1436	AnnotatorNotes T1436	GO:0005623 (cell)
+T1437	GO_BP 33411 33421	expressing
+#1437	AnnotatorNotes T1437	GO:0010467 (gene expression)
+T1438	SO 33422 33428	vector
+#1438	AnnotatorNotes T1438	SO:0000440 (vector_replicon)
+T1439	SO 33436 33445	wild-type
+#1439	AnnotatorNotes T1439	SO:0000817 (wild_type)
+T1440	EntrezGene 33446 33450	AQP2
+#1440	AnnotatorNotes T1440	EG:11827
+T1441	PR 33446 33450	AQP2
+#1441	AnnotatorNotes T1441	PR:000004182 (aquaporin-2)
+T1442	EntrezGene 33455 33459	AQP2
+#1442	AnnotatorNotes T1442	EG:11827
+T1443	PR 33455 33459	AQP2
+#1443	AnnotatorNotes T1443	PR:000004182 (aquaporin-2)
+T1444	GO_BP 33497 33507	expressing
+#1444	AnnotatorNotes T1444	GO:0010467 (gene expression)
+T1445	SO 33514 33523	construct
+#1445	AnnotatorNotes T1445	SO:0001037 (mobile_genetic_element)
+T1446	GO_BP 33530 33535	grown
+#1446	AnnotatorNotes T1446	GO:0040007 (growth)
+T1447	PR 33539 33550	fibronectin
+#1447	AnnotatorNotes T1447	PR:000007581 (fibronectin)
+T1448	GO_CC 33575 33590	tight junctions
+#1448	AnnotatorNotes T1448	GO:0005923 (tight junction)
+T1449	GO_BP 33591 33597	formed
+#1449	AnnotatorNotes T1449	GO:0022607 (cellular component assembly)
+T1450	CL 33599 33604	Cells
+#1450	AnnotatorNotes T1450	CL:0000000 (cell)
+T1451	GO_CC 33599 33604	Cells
+#1451	AnnotatorNotes T1451	GO:0005623 (cell)
+T1452	CHEBI 33676 33684	methanol
+#1452	AnnotatorNotes T1452	CHEBI:17790 (methanol)
+T1453	CL 33710 33715	cells
+#1453	AnnotatorNotes T1453	CL:0000000 (cell)
+T1454	GO_CC 33710 33715	cells
+#1454	AnnotatorNotes T1454	GO:0005623 (cell)
+T1455	EntrezGene 33806 33810	AQP2
+#1455	AnnotatorNotes T1455	EG:11827
+T1456	PR 33806 33810	AQP2
+#1456	AnnotatorNotes T1456	PR:000004182 (aquaporin-2)
+T1457	GO_CC 33815 33824	organelle
+#1457	AnnotatorNotes T1457	GO:0043226 (organelle)
+T1458	GO_CC 33848 33850	PM
+#1458	AnnotatorNotes T1458	GO:0005886 (plasma membrane)
+T1459	GO_CC 33858 33860	ER
+#1459	AnnotatorNotes T1459	GO:0005783 (endoplasmic reticulum)
+T1460	EntrezGene 33862 33866	AQP2
+#1460	AnnotatorNotes T1460	EG:11827
+T1461	PR 33862 33866	AQP2
+#1461	AnnotatorNotes T1461	PR:000004182 (aquaporin-2)
+T1462	NCBITaxon 33886 33890	goat
+#1462	AnnotatorNotes T1462	NCBITaxon:9925 (Capra hircus)
+T1463	PR 33896 33900	AQP2
+#1463	AnnotatorNotes T1463	PR:000004182 (aquaporin-2)
+T1464	GO_BP 33984 33994	conjugated
+#1464	AnnotatorNotes T1464	GO:0043412 (biopolymer modification)
+T1465	NCBITaxon 33995 34001	donkey
+#1465	AnnotatorNotes T1465	NCBITaxon:9793 (Equus asinus)
+T1466	NCBITaxon 34007 34011	goat
+#1466	AnnotatorNotes T1466	NCBITaxon:9925 (Capra hircus)
+T1467	GO_CC 34022 34030	antibody
+#1467	AnnotatorNotes T1467	GO:0019814 (immunoglobulin complex)
+T1468	GO_CC 34036 34038	PM
+#1468	AnnotatorNotes T1468	GO:0005886 (plasma membrane)
+T1469	GO_CC 34043 34045	ER
+#1469	AnnotatorNotes T1469	GO:0005783 (endoplasmic reticulum)
+T1470	NCBITaxon 34064 34069	mouse
+#1470	AnnotatorNotes T1470	NCBITaxon:10088 (Mus)
+T1471	GO_MF 34075 34088	Na+/K+-ATPase
+#1471	AnnotatorNotes T1471	GO:0005391 (sodium:potassium-exchanging ATPase activity)
+T1472	independent_continuant 34075 34088	Na+/K+-ATPase
+#1472	AnnotatorNotes T1472	independent_continuant
+T1473	CHEBI 34075 34078	Na+
+#1473	AnnotatorNotes T1473	CHEBI:29101 (sodium(1+))
+T1474	sup 34077 34078	+
+#1474	AnnotatorNotes T1474	sup (null)
+T1475	CHEBI 34079 34081	K+
+#1475	AnnotatorNotes T1475	CHEBI:29103 (potassium(1+))
+T1476	sup 34080 34081	+
+#1476	AnnotatorNotes T1476	sup (null)
+T1477	NCBITaxon 34141 34147	rabbit
+#1477	AnnotatorNotes T1477	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1478	PR 34153 34161	calnexin
+#1478	AnnotatorNotes T1478	PR:000005005 (calnexin)
+T1479	GO_CC 34224 34234	antibodies
+#1479	AnnotatorNotes T1479	GO:0019814 (immunoglobulin complex)
+T1480	GO_CC 34253 34263	antibodies
+#1480	AnnotatorNotes T1480	GO:0019814 (immunoglobulin complex)
+T1481	GO_BP 34269 34279	conjugated
+#1481	AnnotatorNotes T1481	GO:0043412 (biopolymer modification)
+T1482	NCBITaxon 34280 34284	goat
+#1482	AnnotatorNotes T1482	NCBITaxon:9925 (Capra hircus)
+T1483	NCBITaxon 34290 34295	mouse
+#1483	AnnotatorNotes T1483	NCBITaxon:10088 (Mus)
+T1484	GO_BP 34387 34397	conjugated
+#1484	AnnotatorNotes T1484	GO:0043412 (biopolymer modification)
+T1485	NCBITaxon 34398 34405	chicken
+#1485	AnnotatorNotes T1485	NCBITaxon:9031 (Gallus gallus)
+T1486	NCBITaxon 34411 34417	rabbit
+#1486	AnnotatorNotes T1486	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1487	CL 34440 34445	Cells
+#1487	AnnotatorNotes T1487	CL:0000000 (cell)
+T1488	GO_CC 34440 34445	Cells
+#1488	AnnotatorNotes T1488	GO:0005623 (cell)
+T1489	EntrezGene 34567 34571	AQP2
+#1489	AnnotatorNotes T1489	EG:11827
+T1490	PR 34567 34571	AQP2
+#1490	AnnotatorNotes T1490	PR:000004182 (aquaporin-2)
+T1491	GO_CC 34593 34601	antibody
+#1491	AnnotatorNotes T1491	GO:0019814 (immunoglobulin complex)
+T1492	EntrezGene 34674 34678	AQP2
+#1492	AnnotatorNotes T1492	EG:11827
+T1493	PR 34674 34678	AQP2
+#1493	AnnotatorNotes T1493	PR:000004182 (aquaporin-2)
+T1494	SO 34721 34727	fusion
+#1494	AnnotatorNotes T1494	SO:0000806 (fusion)
+T1495	CHEBI 34728 34736	proteins
+#1495	AnnotatorNotes T1495	CHEBI:36080 (proteins)
+T1496	italic 35281 35285	Aqp2
+#1496	AnnotatorNotes T1496	italic (null)
+T1497	PR 35281 35285	Aqp2
+#1497	AnnotatorNotes T1497	PR:000004182 (aquaporin-2)
+T1498	EntrezGene 35281 35285	Aqp2
+#1498	AnnotatorNotes T1498	EG:11827
+T1499	EntrezGene 35354 35358	AQP2
+#1499	AnnotatorNotes T1499	EG:11827
+T1500	PR 35354 35358	AQP2
+#1500	AnnotatorNotes T1500	PR:000004182 (aquaporin-2)
+T1501	GO_BP 35455 35463	breeding
+#1501	AnnotatorNotes T1501	GO:0000003 (reproduction)
+T1502	GO_BP 35455 35463	breeding
+#1502	AnnotatorNotes T1502	GO:0007618 (mating)
+T1503	NCBITaxon 35476 35480	mice
+#1503	AnnotatorNotes T1503	NCBITaxon:10088 (Mus)
+T1504	NCBITaxon 35537 35541	mice
+#1504	AnnotatorNotes T1504	NCBITaxon:10088 (Mus)
+T1505	PR 35571 35588	endoglycosidase H
+#1505	AnnotatorNotes T1505	PR:000007078 (cytosolic endo-beta-N-acetylglucosaminidase)
+T1506	EntrezGene 35744 35749	AVPR2
+#1506	AnnotatorNotes T1506	EG:12000
+T1507	PR 35744 35749	AVPR2
+#1507	AnnotatorNotes T1507	PR:000001683 (vasopressin receptor 2)
+T1508	EntrezGene 35752 35771	AVP type 2 receptor
+#1508	AnnotatorNotes T1508	EG:12000
+T1509	PR 35752 35771	AVP type 2 receptor
+#1509	AnnotatorNotes T1509	PR:000001683 (vasopressin receptor 2)
+T1510	EntrezGene 35752 35755	AVP
+#1510	AnnotatorNotes T1510	EG:24221
+T1511	GO_MF 35763 35771	receptor
+#1511	AnnotatorNotes T1511	GO:0004872 (receptor activity)
+T1512	independent_continuant 35763 35771	receptor
+#1512	AnnotatorNotes T1512	independent_continuant
+T1513	EntrezGene 35773 35776	AVP
+#1513	AnnotatorNotes T1513	EG:11998
+T1514	EntrezGene 35779 35799	arginine vasopressin
+#1514	AnnotatorNotes T1514	EG:11998
+T1515	CHEBI 35779 35787	arginine
+#1515	AnnotatorNotes T1515	CHEBI:32700 (arginine residue)
+T1516	SO 35779 35787	arginine
+#1516	AnnotatorNotes T1516	SO:0001451 (argenine)
+T1517	CHEBI 35821 35831	D-arginine
+#1517	AnnotatorNotes T1517	CHEBI:29953 (D-arginine residue)
+T1518	SO 35823 35831	arginine
+#1518	AnnotatorNotes T1518	SO:0001451 (argenine)
+T1519	GO_CC 35845 35847	ER
+#1519	AnnotatorNotes T1519	GO:0005783 (endoplasmic reticulum)
+T1520	GO_CC 35850 35871	endoplasmic reticulum
+#1520	AnnotatorNotes T1520	GO:0005783 (endoplasmic reticulum)
+T1521	NCBITaxon 35892 35898	canine
+#1521	AnnotatorNotes T1521	NCBITaxon:9608 (Canidae)
+T1522	GO_CC 35945 35947	PM
+#1522	AnnotatorNotes T1522	GO:0005886 (plasma membrane)
+T1523	GO_CC 35950 35965	plasma membrane
+#1523	AnnotatorNotes T1523	GO:0005886 (plasma membrane)
+T1524	italic 35998 36002	Aqp2
+#1524	AnnotatorNotes T1524	italic (null)
+T1525	PR 35998 36002	Aqp2
+#1525	AnnotatorNotes T1525	PR:000004182 (aquaporin-2)
+T1526	EntrezGene 35998 36002	Aqp2
+#1526	AnnotatorNotes T1526	EG:11827
+T1527	SO 36003 36011	Sequence
+#1527	AnnotatorNotes T1527	SO:0000001 (region)
+T1528	SO 36029 36035	Mutant
+#1528	AnnotatorNotes T1528	SO:0001059 (sequence_alteration)
+T1529	NCBITaxon 36036 36040	Mice
+#1529	AnnotatorNotes T1529	NCBITaxon:10088 (Mus)
+T1530	italic 36072 36076	Aqp2
+#1530	AnnotatorNotes T1530	italic (null)
+T1531	PR 36072 36076	Aqp2
+#1531	AnnotatorNotes T1531	PR:000004182 (aquaporin-2)
+T1532	EntrezGene 36072 36076	Aqp2
+#1532	AnnotatorNotes T1532	EG:11827
+T1533	SO 36083 36091	mutation
+#1533	AnnotatorNotes T1533	SO:0001059 (sequence_alteration)
+T1534	SO 36083 36091	mutation
+#1534	AnnotatorNotes T1534	SO:0000041 (sequence_operation)
+T1535	SO 36111 36118	mutated
+#1535	AnnotatorNotes T1535	SO:0000041 (sequence_operation)
+T1536	SO 36119 36124	codon
+#1536	AnnotatorNotes T1536	SO:0000360 (codon)
+T1537	CHEBI 36131 36134	Phe
+#1537	AnnotatorNotes T1537	CHEBI:32503 (phenylalanine residue)
+T1538	SO 36131 36134	Phe
+#1538	AnnotatorNotes T1538	SO:0001441 (phenylalanine)
+T1539	CHEBI 36144 36147	Val
+#1539	AnnotatorNotes T1539	CHEBI:32861 (valine residue)
+T1540	SO 36144 36147	Val
+#1540	AnnotatorNotes T1540	SO:0001436 (valine)
+T1541	SO 36152 36160	position
+#1541	AnnotatorNotes T1541	SO:0000001 (region)
+T1542	SO 36167 36169	WT
+#1542	AnnotatorNotes T1542	SO:0000817 (wild_type)
+T1543	independent_continuant 36167 36169	WT
+#1543	AnnotatorNotes T1543	independent_continuant
+T1544	SO 36171 36180	wild type
+#1544	AnnotatorNotes T1544	SO:0000817 (wild_type)
+T1545	independent_continuant 36171 36180	wild type
+#1545	AnnotatorNotes T1545	independent_continuant
+T1546	SO 36182 36185	Mut
+#1546	AnnotatorNotes T1546	SO:0001059 (sequence_alteration)
+T1547	independent_continuant 36182 36185	Mut
+#1547	AnnotatorNotes T1547	independent_continuant
+T1548	SO 36187 36193	mutant
+#1548	AnnotatorNotes T1548	SO:0001059 (sequence_alteration)
+T1549	independent_continuant 36187 36193	mutant
+#1549	AnnotatorNotes T1549	independent_continuant
+T1550	CHEBI 36200 36210	Amino acid
+#1550	AnnotatorNotes T1550	CHEBI:33708 (amino-acid residue)
+T1551	SO 36200 36210	Amino acid
+#1551	AnnotatorNotes T1551	SO:0001237 (amino_acid)
+T1552	CHEBI 36200 36205	Amino
+#1552	AnnotatorNotes T1552	CHEBI:46882 (amino group)
+T1553	CHEBI 36200 36205	Amino
+#1553	AnnotatorNotes T1553	CHEBI:32952 (amines)
+T1554	CHEBI 36206 36210	acid
+#1554	AnnotatorNotes T1554	CHEBI:32952 (amines)
+T1555	SO 36211 36223	conservation
+#1555	AnnotatorNotes T1555	SO:0000856 (conserved)
+T1556	EntrezGene 36227 36237	mouse AQP2
+#1556	AnnotatorNotes T1556	EG:11827
+T1557	NCBITaxon 36227 36232	mouse
+#1557	AnnotatorNotes T1557	NCBITaxon:10088 (Mus)
+T1558	PR 36233 36237	AQP2
+#1558	AnnotatorNotes T1558	PR:000004182 (aquaporin-2)
+T1559	CHEBI 36239 36247	residues
+#1559	AnnotatorNotes T1559	CHEBI:33708 (amino-acid residue)
+T1560	SO 36239 36247	residues
+#1560	AnnotatorNotes T1560	SO:0001237 (amino_acid)
+T1561	CHEBI 36268 36275	residue
+#1561	AnnotatorNotes T1561	CHEBI:33708 (amino-acid residue)
+T1562	SO 36268 36275	residue
+#1562	AnnotatorNotes T1562	SO:0001237 (amino_acid)
+T1563	CHEBI 36286 36299	phenylalanine
+#1563	AnnotatorNotes T1563	CHEBI:32503 (phenylalanine residue)
+T1564	SO 36286 36299	phenylalanine
+#1564	AnnotatorNotes T1564	SO:0001441 (phenylalanine)
+T1565	SO 36303 36311	position
+#1565	AnnotatorNotes T1565	SO:0000001 (region)
+T1566	EntrezGene 36318 36323	hAQP2
+#1566	AnnotatorNotes T1566	EG:359
+T1567	EntrezGene 36325 36335	human AQP2
+#1567	AnnotatorNotes T1567	EG:359
+T1568	NCBITaxon 36325 36330	human
+#1568	AnnotatorNotes T1568	NCBITaxon:9606 (Homo sapiens)
+T1569	PR 36331 36335	AQP2
+#1569	AnnotatorNotes T1569	PR:000004182 (aquaporin-2)
+T1570	EntrezGene 36337 36342	mAQP1
+#1570	AnnotatorNotes T1570	EG:11826
+T1571	EntrezGene 36344 36354	mouse AQP1
+#1571	AnnotatorNotes T1571	EG:11826
+T1572	NCBITaxon 36344 36349	mouse
+#1572	AnnotatorNotes T1572	NCBITaxon:10088 (Mus)
+T1573	PR 36350 36354	AQP1
+#1573	AnnotatorNotes T1573	PR:000004177 (aquaporin-1)
+T1574	EntrezGene 36356 36361	mAQP2
+#1574	AnnotatorNotes T1574	EG:11827
+T1575	EntrezGene 36363 36373	mouse AQP2
+#1575	AnnotatorNotes T1575	EG:11827
+T1576	NCBITaxon 36363 36368	mouse
+#1576	AnnotatorNotes T1576	NCBITaxon:10088 (Mus)
+T1577	PR 36369 36373	AQP2
+#1577	AnnotatorNotes T1577	PR:000004182 (aquaporin-2)
+T1578	EntrezGene 36375 36380	rAQP2
+#1578	AnnotatorNotes T1578	EG:25386
+T1579	EntrezGene 36382 36390	rat AQP2
+#1579	AnnotatorNotes T1579	EG:25386
+T1580	NCBITaxon 36382 36385	rat
+#1580	AnnotatorNotes T1580	NCBITaxon:10114 (Rattus)
+T1581	PR 36386 36390	AQP2
+#1581	AnnotatorNotes T1581	PR:000004182 (aquaporin-2)
+T1582	EntrezGene 36392 36397	xAQP2
+#1582	AnnotatorNotes T1582	EG:378655
+T1583	EntrezGene 36399 36411	Xenopus AQP2
+#1583	AnnotatorNotes T1583	EG:378655
+T1584	italic 36399 36406	Xenopus
+#1584	AnnotatorNotes T1584	italic (null)
+T1585	NCBITaxon 36399 36406	Xenopus
+#1585	AnnotatorNotes T1585	NCBITaxon:8353 (Xenopus)
+T1586	taxonomic_rank 36399 36406	Xenopus
+#1586	AnnotatorNotes T1586	taxonomic_rank (null)
+T1587	PR 36407 36411	AQP2
+#1587	AnnotatorNotes T1587	PR:000004182 (aquaporin-2)
+T1588	CHEBI 36444 36449	water
+#1588	AnnotatorNotes T1588	CHEBI:15377 (water)
+T1589	GO_BP 36450 36461	consumption
+#1589	AnnotatorNotes T1589	GO:0007631 (feeding behavior)
+T1590	NCBITaxon 36476 36480	mice
+#1590	AnnotatorNotes T1590	NCBITaxon:10088 (Mus)
+T1591	SO 36529 36535	Mutant
+#1591	AnnotatorNotes T1591	SO:0001059 (sequence_alteration)
+T1592	NCBITaxon 36536 36540	mice
+#1592	AnnotatorNotes T1592	NCBITaxon:10088 (Mus)
+T1593	SO 36618 36627	wild-type
+#1593	AnnotatorNotes T1593	SO:0000817 (wild_type)
+T1594	NCBITaxon 36678 36682	mice
+#1594	AnnotatorNotes T1594	NCBITaxon:10088 (Mus)
+T1595	italic 36735 36739	Aqp2
+#1595	AnnotatorNotes T1595	italic (null)
+T1596	PR 36735 36739	Aqp2
+#1596	AnnotatorNotes T1596	PR:000004182 (aquaporin-2)
+T1597	EntrezGene 36735 36739	Aqp2
+#1597	AnnotatorNotes T1597	EG:11827
+T1598	SO 36740 36746	mutant
+#1598	AnnotatorNotes T1598	SO:0001059 (sequence_alteration)
+T1599	independent_continuant 36740 36746	mutant
+#1599	AnnotatorNotes T1599	independent_continuant
+T1600	SO 36853 36862	Wild type
+#1600	AnnotatorNotes T1600	SO:0000817 (wild_type)
+T1601	independent_continuant 36853 36862	Wild type
+#1601	AnnotatorNotes T1601	independent_continuant
+T1602	SO 36864 36866	WT
+#1602	AnnotatorNotes T1602	SO:0000817 (wild_type)
+T1603	independent_continuant 36864 36866	WT
+#1603	AnnotatorNotes T1603	independent_continuant
+T1604	italic 36868 36869	n
+#1604	AnnotatorNotes T1604	italic (null)
+T1605	italic 36896 36897	n
+#1605	AnnotatorNotes T1605	italic (null)
+T1606	SO 36905 36911	mutant
+#1606	AnnotatorNotes T1606	SO:0001059 (sequence_alteration)
+T1607	independent_continuant 36905 36911	mutant
+#1607	AnnotatorNotes T1607	independent_continuant
+T1608	SO 36913 36916	Mut
+#1608	AnnotatorNotes T1608	SO:0001059 (sequence_alteration)
+T1609	independent_continuant 36913 36916	Mut
+#1609	AnnotatorNotes T1609	independent_continuant
+T1610	italic 36918 36919	n
+#1610	AnnotatorNotes T1610	italic (null)
+T1611	italic 36982 36983	p
+#1611	AnnotatorNotes T1611	italic (null)
+T1612	italic 36995 36996	p
+#1612	AnnotatorNotes T1612	italic (null)
+T1613	NCBITaxon 37042 37047	Mouse
+#1613	AnnotatorNotes T1613	NCBITaxon:10088 (Mus)
+T1614	NCBITaxon 37090 37095	mouse
+#1614	AnnotatorNotes T1614	NCBITaxon:10088 (Mus)
+T1615	SO 37370 37376	mutant
+#1615	AnnotatorNotes T1615	SO:0001059 (sequence_alteration)
+T1616	NCBITaxon 37377 37382	mouse
+#1616	AnnotatorNotes T1616	NCBITaxon:10088 (Mus)
+T1617	SO 37539 37545	mutant
+#1617	AnnotatorNotes T1617	SO:0001059 (sequence_alteration)
+T1618	NCBITaxon 37546 37551	mouse
+#1618	AnnotatorNotes T1618	NCBITaxon:10088 (Mus)
+T1619	SO 37699 37705	mutant
+#1619	AnnotatorNotes T1619	SO:0001059 (sequence_alteration)
+T1620	NCBITaxon 37706 37711	mouse
+#1620	AnnotatorNotes T1620	NCBITaxon:10088 (Mus)
+T1621	SO 37717 37723	mutant
+#1621	AnnotatorNotes T1621	SO:0001059 (sequence_alteration)
+T1622	EntrezGene 37888 37892	AQP2
+#1622	AnnotatorNotes T1622	EG:11827
+T1623	PR 37888 37892	AQP2
+#1623	AnnotatorNotes T1623	PR:000004182 (aquaporin-2)
+T1624	NCBITaxon 37898 37903	Mouse
+#1624	AnnotatorNotes T1624	NCBITaxon:10088 (Mus)
+T1625	GO_CC 37955 37964	membranes
+#1625	AnnotatorNotes T1625	GO:0016020 (membrane)
+T1626	NCBITaxon 37981 37985	mice
+#1626	AnnotatorNotes T1626	NCBITaxon:10088 (Mus)
+T1627	SO 37990 38002	intermediate
+#1627	AnnotatorNotes T1627	SO:0000933 (intermediate)
+T1628	SO 38003 38007	form
+#1628	AnnotatorNotes T1628	SO:0001060 (sequence_variant)
+T1629	EntrezGene 38011 38015	AQP2
+#1629	AnnotatorNotes T1629	EG:11827
+T1630	PR 38011 38015	AQP2
+#1630	AnnotatorNotes T1630	PR:000004182 (aquaporin-2)
+T1631	GO_CC 38051 38060	membranes
+#1631	AnnotatorNotes T1631	GO:0016020 (membrane)
+T1632	SO 38068 38074	mutant
+#1632	AnnotatorNotes T1632	SO:0001059 (sequence_alteration)
+T1633	NCBITaxon 38075 38080	mouse
+#1633	AnnotatorNotes T1633	NCBITaxon:10088 (Mus)
+T1634	SO 38082 38085	Mut
+#1634	AnnotatorNotes T1634	SO:0001059 (sequence_alteration)
+T1635	independent_continuant 38082 38085	Mut
+#1635	AnnotatorNotes T1635	independent_continuant
+T1636	NCBITaxon 38119 38124	mouse
+#1636	AnnotatorNotes T1636	NCBITaxon:10088 (Mus)
+T1637	GO_CC 38150 38159	membranes
+#1637	AnnotatorNotes T1637	GO:0016020 (membrane)
+T1638	PR 38178 38195	endoglycosidase H
+#1638	AnnotatorNotes T1638	PR:000007078 (cytosolic endo-beta-N-acetylglucosaminidase)
+T1639	PR 38207 38213	Endo H
+#1639	AnnotatorNotes T1639	PR:000007078 (cytosolic endo-beta-N-acetylglucosaminidase)
+T1640	CHEBI 38247 38254	mannose
+#1640	AnnotatorNotes T1640	CHEBI:25170 (mannosyl group)
+T1641	CHEBI 38258 38260	m.
+#1641	AnnotatorNotes T1641	CHEBI:25170 (mannosyl group)
+T1642	GO_BP 38262 38274	glycosylated
+#1642	AnnotatorNotes T1642	GO:0043413 (biopolymer glycosylation)
+T1643	CHEBI 38275 38283	proteins
+#1643	AnnotatorNotes T1643	CHEBI:36080 (proteins)
+T1644	GO_CC 38309 38311	ER
+#1644	AnnotatorNotes T1644	GO:0005783 (endoplasmic reticulum)
+T1645	PR 38329 38346	endoglycosidase H
+#1645	AnnotatorNotes T1645	PR:000007078 (cytosolic endo-beta-N-acetylglucosaminidase)
+T1646	GO_BP 38347 38356	digestion
+#1646	AnnotatorNotes T1646	GO:0009056 (catabolic process)
+T1647	EntrezGene 38369 38373	AQP2
+#1647	AnnotatorNotes T1647	EG:11827
+T1648	PR 38369 38373	AQP2
+#1648	AnnotatorNotes T1648	PR:000004182 (aquaporin-2)
+T1649	GO_BP 38374 38398	Subcellular Localization
+#1649	AnnotatorNotes T1649	GO:0051641 (cellular localization)
+T1650	GO_BP 38403 38416	Translocation
+#1650	AnnotatorNotes T1650	GO:0006810 (transport)
+T1651	NCBITaxon 38420 38425	Mouse
+#1651	AnnotatorNotes T1651	NCBITaxon:10088 (Mus)
+T1652	CL 38459 38463	Cell
+#1652	AnnotatorNotes T1652	CL:0000000 (cell)
+T1653	GO_CC 38459 38463	Cell
+#1653	AnnotatorNotes T1653	GO:0005623 (cell)
+T1654	EntrezGene 38543 38547	AQP2
+#1654	AnnotatorNotes T1654	EG:11827
+T1655	PR 38543 38547	AQP2
+#1655	AnnotatorNotes T1655	PR:000004182 (aquaporin-2)
+T1656	SO 38554 38560	mutant
+#1656	AnnotatorNotes T1656	SO:0001059 (sequence_alteration)
+T1657	SO 38562 38565	Mut
+#1657	AnnotatorNotes T1657	SO:0001059 (sequence_alteration)
+T1658	NCBITaxon 38567 38572	mouse
+#1658	AnnotatorNotes T1658	NCBITaxon:10088 (Mus)
+T1659	SO 38596 38605	wild-type
+#1659	AnnotatorNotes T1659	SO:0000817 (wild_type)
+T1660	SO 38607 38609	WT
+#1660	AnnotatorNotes T1660	SO:0000817 (wild_type)
+T1661	NCBITaxon 38623 38627	Mice
+#1661	AnnotatorNotes T1661	NCBITaxon:10088 (Mus)
+T1662	EntrezGene 38771 38775	AQP2
+#1662	AnnotatorNotes T1662	EG:11827
+T1663	PR 38771 38775	AQP2
+#1663	AnnotatorNotes T1663	PR:000004182 (aquaporin-2)
+T1664	EntrezGene 38809 38813	AQP3
+#1664	AnnotatorNotes T1664	EG:11828
+T1665	PR 38809 38813	AQP3
+#1665	AnnotatorNotes T1665	PR:000004183 (aquaporin-3)
+T1666	GO_CC 38853 38874	area of the cytoplasm
+#1666	AnnotatorNotes T1666	"area of .. cytoplasm" GO:0044444 (cytoplasmic part)
+T1667	GO_CC 38865 38874	cytoplasm
+#1667	AnnotatorNotes T1667	GO:0005737 (cytoplasm)
+T1668	SO 38907 38913	mutant
+#1668	AnnotatorNotes T1668	SO:0001059 (sequence_alteration)
+T1669	EntrezGene 38914 38918	AQP2
+#1669	AnnotatorNotes T1669	EG:11827
+T1670	PR 38914 38918	AQP2
+#1670	AnnotatorNotes T1670	PR:000004182 (aquaporin-2)
+T1671	GO_BP 38935 38944	localized
+#1671	AnnotatorNotes T1671	GO:0051179 (localization)
+T1672	GO_BP 38987 38994	respond
+#1672	AnnotatorNotes T1672	GO:0050896 (response to stimulus)
+T1673	CL 39015 39019	cell
+#1673	AnnotatorNotes T1673	CL:0000000 (cell)
+T1674	GO_CC 39015 39019	cell
+#1674	AnnotatorNotes T1674	GO:0005623 (cell)
+T1675	GO_BP 39034 39045	transfected
+#1675	AnnotatorNotes T1675	GO:0009294 (DNA mediated transformation)
+T1676	SO 39051 39061	constructs
+#1676	AnnotatorNotes T1676	SO:0001037 (mobile_genetic_element)
+T1677	EntrezGene 39071 39087	mouse WT or AQP2
+#1677	AnnotatorNotes T1677	"mouse .. AQP2" EG:11827
+T1678	NCBITaxon 39071 39076	mouse
+#1678	AnnotatorNotes T1678	NCBITaxon:10088 (Mus)
+T1679	SO 39077 39079	WT
+#1679	AnnotatorNotes T1679	SO:0000817 (wild_type)
+T1680	PR 39083 39087	AQP2
+#1680	AnnotatorNotes T1680	PR:000004182 (aquaporin-2)
+T1681	CL 39166 39171	cells
+#1681	AnnotatorNotes T1681	CL:0000000 (cell)
+T1682	GO_CC 39166 39171	cells
+#1682	AnnotatorNotes T1682	GO:0005623 (cell)
+T1683	EntrezGene 39237 39241	AQP2
+#1683	AnnotatorNotes T1683	EG:11827
+T1684	PR 39237 39241	AQP2
+#1684	AnnotatorNotes T1684	PR:000004182 (aquaporin-2)
+T1685	GO_MF 39288 39301	Na+/K+-ATPase
+#1685	AnnotatorNotes T1685	GO:0005391 (sodium:potassium-exchanging ATPase activity)
+T1686	independent_continuant 39288 39301	Na+/K+-ATPase
+#1686	AnnotatorNotes T1686	independent_continuant
+T1687	CHEBI 39288 39291	Na+
+#1687	AnnotatorNotes T1687	CHEBI:29101 (sodium(1+))
+T1688	sup 39290 39291	+
+#1688	AnnotatorNotes T1688	sup (null)
+T1689	CHEBI 39292 39294	K+
+#1689	AnnotatorNotes T1689	CHEBI:29103 (potassium(1+))
+T1690	sup 39293 39294	+
+#1690	AnnotatorNotes T1690	sup (null)
+T1691	GO_CC 39333 39340	nuclear
+#1691	AnnotatorNotes T1691	GO:0005634 (nucleus)
+T1692	SO 39442 39448	Mutant
+#1692	AnnotatorNotes T1692	SO:0001059 (sequence_alteration)
+T1693	EntrezGene 39449 39453	AQP2
+#1693	AnnotatorNotes T1693	EG:11827
+T1694	PR 39449 39453	AQP2
+#1694	AnnotatorNotes T1694	PR:000004182 (aquaporin-2)
+T1695	GO_BP 39463 39471	localize
+#1695	AnnotatorNotes T1695	GO:0051179 (localization)
+T1696	GO_CC 39479 39491	cell surface
+#1696	AnnotatorNotes T1696	GO:0009986 (cell surface)
+T1697	CL 39479 39483	cell
+#1697	AnnotatorNotes T1697	CL:0000000 (cell)
+T1698	GO_CC 39479 39483	cell
+#1698	AnnotatorNotes T1698	GO:0005623 (cell)
+T1699	GO_BP 39507 39518	stimulation
+#1699	AnnotatorNotes T1699	GO:0001775 (cell activation)
+T1700	GO_CC 39532 39543	perinuclear
+#1700	AnnotatorNotes T1700	GO:0048471 (perinuclear region of cytoplasm)
+T1701	GO_CC 39575 39577	ER
+#1701	AnnotatorNotes T1701	GO:0005783 (endoplasmic reticulum)
+T1702	GO_BP 39578 39590	localization
+#1702	AnnotatorNotes T1702	GO:0051179 (localization)
+T1703	SO 39594 39600	mutant
+#1703	AnnotatorNotes T1703	SO:0001059 (sequence_alteration)
+T1704	EntrezGene 39601 39605	AQP2
+#1704	AnnotatorNotes T1704	EG:11827
+T1705	PR 39601 39605	AQP2
+#1705	AnnotatorNotes T1705	PR:000004182 (aquaporin-2)
+T1706	CL 39621 39625	cell
+#1706	AnnotatorNotes T1706	CL:0000000 (cell)
+T1707	GO_CC 39621 39625	cell
+#1707	AnnotatorNotes T1707	GO:0005623 (cell)
+T1708	GO_BP 39631 39641	expressing
+#1708	AnnotatorNotes T1708	GO:0010467 (gene expression)
+T1709	EntrezGene 39642 39646	AQP2
+#1709	AnnotatorNotes T1709	EG:11827
+T1710	PR 39642 39646	AQP2
+#1710	AnnotatorNotes T1710	PR:000004182 (aquaporin-2)
+T1711	GO_BP 39657 39662	grown
+#1711	AnnotatorNotes T1711	GO:0040007 (growth)
+T1712	PR 39666 39677	fibronectin
+#1712	AnnotatorNotes T1712	PR:000007581 (fibronectin)
+T1713	GO_CC 39702 39717	tight junctions
+#1713	AnnotatorNotes T1713	GO:0005923 (tight junction)
+T1714	GO_BP 39718 39724	formed
+#1714	AnnotatorNotes T1714	GO:0022607 (cellular component assembly)
+T1715	CL 39745 39750	cells
+#1715	AnnotatorNotes T1715	CL:0000000 (cell)
+T1716	GO_CC 39745 39750	cells
+#1716	AnnotatorNotes T1716	GO:0005623 (cell)
+T1717	CL 39798 39803	Cells
+#1717	AnnotatorNotes T1717	CL:0000000 (cell)
+T1718	GO_CC 39798 39803	Cells
+#1718	AnnotatorNotes T1718	GO:0005623 (cell)
+T1719	EntrezGene 39866 39870	AQP2
+#1719	AnnotatorNotes T1719	EG:11827
+T1720	PR 39866 39870	AQP2
+#1720	AnnotatorNotes T1720	PR:000004182 (aquaporin-2)
+T1721	EntrezGene 39883 39891	calnexin
+#1721	AnnotatorNotes T1721	EG:403908
+T1722	PR 39883 39891	calnexin
+#1722	AnnotatorNotes T1722	PR:000005005 (calnexin)
+T1723	GO_CC 39902 39904	ER
+#1723	AnnotatorNotes T1723	GO:0005783 (endoplasmic reticulum)
+T1724	EntrezGene 39941 39945	AQP2
+#1724	AnnotatorNotes T1724	EG:11827
+T1725	PR 39941 39945	AQP2
+#1725	AnnotatorNotes T1725	PR:000004182 (aquaporin-2)
+T1726	GO_CC 39973 39994	endoplasmic reticulum
+#1726	AnnotatorNotes T1726	GO:0005783 (endoplasmic reticulum)
+T1727	EntrezGene 40041 40045	AQP2
+#1727	AnnotatorNotes T1727	EG:11827
+T1728	PR 40041 40045	AQP2
+#1728	AnnotatorNotes T1728	PR:000004182 (aquaporin-2)
+T1729	NCBITaxon 40075 40080	Mouse
+#1729	AnnotatorNotes T1729	NCBITaxon:10088 (Mus)
+T1730	CL 40124 40129	Cells
+#1730	AnnotatorNotes T1730	CL:0000000 (cell)
+T1731	GO_CC 40124 40129	Cells
+#1731	AnnotatorNotes T1731	GO:0005623 (cell)
+T1732	NCBITaxon 40151 40158	animals
+#1732	AnnotatorNotes T1732	NCBITaxon:33208 (Metazoa)
+T1733	EntrezGene 40160 40164	AQP2
+#1733	AnnotatorNotes T1733	EG:11827
+T1734	PR 40160 40164	AQP2
+#1734	AnnotatorNotes T1734	PR:000004182 (aquaporin-2)
+T1735	GO_BP 40165 40174	localizes
+#1735	AnnotatorNotes T1735	GO:0051179 (localization)
+T1736	GO_BP 40179 40187	responds
+#1736	AnnotatorNotes T1736	GO:0050896 (response to stimulus)
+T1737	italic 40271 40282	Aqp2F204V/+
+#1737	AnnotatorNotes T1737	italic (null)
+T1738	sup 40275 40282	F204V/+
+#1738	AnnotatorNotes T1738	sup (null)
+T1739	SO 40281 40282	+
+#1739	AnnotatorNotes T1739	SO:0000817 (wild_type)
+T1740	NCBITaxon 40283 40288	mouse
+#1740	AnnotatorNotes T1740	NCBITaxon:10088 (Mus)
+T1741	EntrezGene 40370 40374	AQP2
+#1741	AnnotatorNotes T1741	EG:11827
+T1742	PR 40370 40374	AQP2
+#1742	AnnotatorNotes T1742	PR:000004182 (aquaporin-2)
+T1743	EntrezGene 40408 40412	AQP3
+#1743	AnnotatorNotes T1743	EG:11828
+T1744	PR 40408 40412	AQP3
+#1744	AnnotatorNotes T1744	PR:000004183 (aquaporin-3)
+T1745	SO 40427 40433	Mutant
+#1745	AnnotatorNotes T1745	SO:0001059 (sequence_alteration)
+T1746	SO 40438 40447	wild-type
+#1746	AnnotatorNotes T1746	SO:0000817 (wild_type)
+T1747	EntrezGene 40448 40452	AQP2
+#1747	AnnotatorNotes T1747	EG:11827
+T1748	PR 40448 40452	AQP2
+#1748	AnnotatorNotes T1748	PR:000004182 (aquaporin-2)
+T1749	CL 40479 40484	cells
+#1749	AnnotatorNotes T1749	CL:0000000 (cell)
+T1750	GO_CC 40479 40484	cells
+#1750	AnnotatorNotes T1750	GO:0005623 (cell)
+T1751	GO_BP 40492 40502	expressing
+#1751	AnnotatorNotes T1751	GO:0010467 (gene expression)
+T1752	SO 40503 40512	wild-type
+#1752	AnnotatorNotes T1752	SO:0000817 (wild_type)
+T1753	EntrezGene 40513 40517	AQP2
+#1753	AnnotatorNotes T1753	EG:11827
+T1754	PR 40513 40517	AQP2
+#1754	AnnotatorNotes T1754	PR:000004182 (aquaporin-2)
+T1755	GO_BP 40535 40546	transfected
+#1755	AnnotatorNotes T1755	GO:0009294 (DNA mediated transformation)
+T1756	SO 40563 40572	wild-type
+#1756	AnnotatorNotes T1756	SO:0000817 (wild_type)
+T1757	EntrezGene 40573 40577	AQP2
+#1757	AnnotatorNotes T1757	EG:11827
+T1758	PR 40573 40577	AQP2
+#1758	AnnotatorNotes T1758	PR:000004182 (aquaporin-2)
+T1759	EntrezGene 40579 40583	AQP2
+#1759	AnnotatorNotes T1759	EG:11827
+T1760	PR 40579 40583	AQP2
+#1760	AnnotatorNotes T1760	PR:000004182 (aquaporin-2)
+T1761	GO_CC 40617 40626	membranes
+#1761	AnnotatorNotes T1761	GO:0016020 (membrane)
+T1762	GO_CC 40662 40670	antibody
+#1762	AnnotatorNotes T1762	GO:0019814 (immunoglobulin complex)
+T1763	GO_CC 40678 40687	membranes
+#1763	AnnotatorNotes T1763	GO:0016020 (membrane)
+T1764	GO_CC 40750 40758	antibody
+#1764	AnnotatorNotes T1764	GO:0019814 (immunoglobulin complex)
+T1765	PR 40767 40771	AQP2
+#1765	AnnotatorNotes T1765	PR:000004182 (aquaporin-2)
+T1766	PR 40783 40787	AQP2
+#1766	AnnotatorNotes T1766	PR:000004182 (aquaporin-2)
+T1767	SO 40818 40827	Wild-type
+#1767	AnnotatorNotes T1767	SO:0000817 (wild_type)
+T1768	EntrezGene 40828 40832	AQP2
+#1768	AnnotatorNotes T1768	EG:11827
+T1769	PR 40828 40832	AQP2
+#1769	AnnotatorNotes T1769	PR:000004182 (aquaporin-2)
+T1770	GO_BP 40845 40857	localization
+#1770	AnnotatorNotes T1770	GO:0051179 (localization)
+T1771	SO 40868 40874	mutant
+#1771	AnnotatorNotes T1771	SO:0001059 (sequence_alteration)
+T1772	EntrezGene 40875 40879	AQP2
+#1772	AnnotatorNotes T1772	EG:11827
+T1773	PR 40875 40879	AQP2
+#1773	AnnotatorNotes T1773	PR:000004182 (aquaporin-2)
+T1774	SO 40903 40912	wild-type
+#1774	AnnotatorNotes T1774	SO:0000817 (wild_type)
+T1775	EntrezGene 40913 40917	AQP2
+#1775	AnnotatorNotes T1775	EG:11827
+T1776	PR 40913 40917	AQP2
+#1776	AnnotatorNotes T1776	PR:000004182 (aquaporin-2)
+T1777	SO 40919 40921	WT
+#1777	AnnotatorNotes T1777	SO:0000817 (wild_type)
+T1778	EntrezGene 40958 40962	AQP2
+#1778	AnnotatorNotes T1778	EG:11827
+T1779	PR 40958 40962	AQP2
+#1779	AnnotatorNotes T1779	PR:000004182 (aquaporin-2)
+T1780	GO_BP 41005 41014	expressed
+#1780	AnnotatorNotes T1780	GO:0010467 (gene expression)
+T1781	GO_BP 41018 41027	polarized
+#1781	AnnotatorNotes T1781	GO:0030010 (establishment of cell polarity)
+T1782	CL 41040 41044	cell
+#1782	AnnotatorNotes T1782	CL:0000000 (cell)
+T1783	GO_CC 41040 41044	cell
+#1783	AnnotatorNotes T1783	GO:0005623 (cell)
+T1784	GO_BP 41051 41061	expressing
+#1784	AnnotatorNotes T1784	GO:0010467 (gene expression)
+T1785	SO 41062 41068	vector
+#1785	AnnotatorNotes T1785	SO:0000440 (vector_replicon)
+T1786	SO 41076 41082	vector
+#1786	AnnotatorNotes T1786	SO:0000440 (vector_replicon)
+T1787	EntrezGene 41110 41114	AQP2
+#1787	AnnotatorNotes T1787	EG:11827
+T1788	PR 41110 41114	AQP2
+#1788	AnnotatorNotes T1788	PR:000004182 (aquaporin-2)
+T1789	SO 41115 41117	WT
+#1789	AnnotatorNotes T1789	SO:0000817 (wild_type)
+T1790	CL 41144 41149	Cells
+#1790	AnnotatorNotes T1790	CL:0000000 (cell)
+T1791	GO_CC 41144 41149	Cells
+#1791	AnnotatorNotes T1791	GO:0005623 (cell)
+T1792	GO_BP 41155 41165	stimulated
+#1792	AnnotatorNotes T1792	GO:0001775 (cell activation)
+T1793	SO 41263 41269	Mutant
+#1793	AnnotatorNotes T1793	SO:0001059 (sequence_alteration)
+T1794	EntrezGene 41270 41274	AQP2
+#1794	AnnotatorNotes T1794	EG:11827
+T1795	PR 41270 41274	AQP2
+#1795	AnnotatorNotes T1795	PR:000004182 (aquaporin-2)
+T1796	GO_CC 41293 41305	cell surface
+#1796	AnnotatorNotes T1796	GO:0009986 (cell surface)
+T1797	CL 41293 41297	cell
+#1797	AnnotatorNotes T1797	CL:0000000 (cell)
+T1798	GO_CC 41293 41297	cell
+#1798	AnnotatorNotes T1798	GO:0005623 (cell)
+T1799	CL 41309 41314	cells
+#1799	AnnotatorNotes T1799	CL:0000000 (cell)
+T1800	GO_CC 41309 41314	cells
+#1800	AnnotatorNotes T1800	GO:0005623 (cell)
+T1801	SO 41328 41337	wild-type
+#1801	AnnotatorNotes T1801	SO:0000817 (wild_type)
+T1802	EntrezGene 41338 41342	AQP2
+#1802	AnnotatorNotes T1802	EG:11827
+T1803	PR 41338 41342	AQP2
+#1803	AnnotatorNotes T1803	PR:000004182 (aquaporin-2)
+T1804	EntrezGene 41344 41348	AQP2
+#1804	AnnotatorNotes T1804	EG:11827
+T1805	PR 41344 41348	AQP2
+#1805	AnnotatorNotes T1805	PR:000004182 (aquaporin-2)
+T1806	SO 41349 41351	WT
+#1806	AnnotatorNotes T1806	SO:0000817 (wild_type)
+T1807	EntrezGene 41367 41371	AQP2
+#1807	AnnotatorNotes T1807	EG:11827
+T1808	PR 41367 41371	AQP2
+#1808	AnnotatorNotes T1808	PR:000004182 (aquaporin-2)
+T1809	GO_BP 41382 41391	expressed
+#1809	AnnotatorNotes T1809	GO:0010467 (gene expression)
+T1810	CL 41400 41405	cells
+#1810	AnnotatorNotes T1810	CL:0000000 (cell)
+T1811	GO_CC 41400 41405	cells
+#1811	AnnotatorNotes T1811	GO:0005623 (cell)
+T1812	GO_BP 41406 41416	expressing
+#1812	AnnotatorNotes T1812	GO:0010467 (gene expression)
+T1813	SO 41417 41426	wild-type
+#1813	AnnotatorNotes T1813	SO:0000817 (wild_type)
+T1814	EntrezGene 41427 41431	AQP2
+#1814	AnnotatorNotes T1814	EG:11827
+T1815	PR 41427 41431	AQP2
+#1815	AnnotatorNotes T1815	PR:000004182 (aquaporin-2)
+T1816	SO 41435 41441	vector
+#1816	AnnotatorNotes T1816	SO:0000440 (vector_replicon)
+T1817	CL 41449 41454	Cells
+#1817	AnnotatorNotes T1817	CL:0000000 (cell)
+T1818	GO_CC 41449 41454	Cells
+#1818	AnnotatorNotes T1818	GO:0005623 (cell)
+T1819	GO_BP 41460 41470	stimulated
+#1819	AnnotatorNotes T1819	GO:0001775 (cell activation)
+T1820	GO_CC 41491 41503	cell surface
+#1820	AnnotatorNotes T1820	GO:0009986 (cell surface)
+T1821	CL 41491 41495	cell
+#1821	AnnotatorNotes T1821	CL:0000000 (cell)
+T1822	GO_CC 41491 41495	cell
+#1822	AnnotatorNotes T1822	GO:0005623 (cell)
+T1823	GO_BP 41504 41516	biotinylated
+#1823	AnnotatorNotes T1823	GO:0009305 (protein amino acid biotinylation)
+T1824	CHEBI 41517 41525	proteins
+#1824	AnnotatorNotes T1824	CHEBI:36080 (proteins)
+T1825	SO 41578 41587	wild-type
+#1825	AnnotatorNotes T1825	SO:0000817 (wild_type)
+T1826	EntrezGene 41588 41592	AQP2
+#1826	AnnotatorNotes T1826	EG:11827
+T1827	PR 41588 41592	AQP2
+#1827	AnnotatorNotes T1827	PR:000004182 (aquaporin-2)
+T1828	EntrezGene 41605 41609	AQP2
+#1828	AnnotatorNotes T1828	EG:11827
+T1829	PR 41605 41609	AQP2
+#1829	AnnotatorNotes T1829	PR:000004182 (aquaporin-2)
+T1830	bold 41657 41677	Competing interests.
+#1830	AnnotatorNotes T1830	bold (null)
+T1831	bold 41740 41761	Author contributions.
+#1831	AnnotatorNotes T1831	bold (null)
+T1832	CHEBI 41904 41912	reagents
+#1832	AnnotatorNotes T1832	CHEBI:33893 (reagent)
+T1833	NCBITaxon 42050 42054	mice
+#1833	AnnotatorNotes T1833	NCBITaxon:10088 (Mus)
+T1834	SO 42062 42070	mutation
+#1834	AnnotatorNotes T1834	SO:0001059 (sequence_alteration)
+T1835	EntrezGene 42074 42085	aquaporin-2
+#1835	AnnotatorNotes T1835	EG:11827
+T1836	PR 42074 42085	aquaporin-2
+#1836	AnnotatorNotes T1836	PR:000004182 (aquaporin-2)

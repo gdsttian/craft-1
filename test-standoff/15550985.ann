@@ -1,0 +1,2804 @@
+T1	GO_BP 2 17	Chemoattractant
+#1	AnnotatorNotes T1	GO:0050918 (positive chemotaxis)
+T2	EntrezGene 27 31	NT-3
+#2	AnnotatorNotes T2	EG:18205
+T3	PR 27 31	NT-3
+#3	AnnotatorNotes T3	PR:000011459 (neurotrophin-3)
+T4	GO_BP 35 49	Proprioceptive
+#4	AnnotatorNotes T4	GO:0019230 (proprioception)
+T5	GO_BP 50 63	Axon Guidance
+#5	AnnotatorNotes T5	GO:0007411 (axon guidance)
+T6	GO_CC 50 54	Axon
+#6	AnnotatorNotes T6	GO:0030424 (axon)
+T7	PR 75 89	Neurotrophin-3
+#7	AnnotatorNotes T7	PR:000011459 (neurotrophin-3)
+T8	PR 91 95	NT-3
+#8	AnnotatorNotes T8	PR:000011459 (neurotrophin-3)
+T9	GO_BP 113 127	proprioceptive
+#9	AnnotatorNotes T9	GO:0019230 (proprioception)
+T10	CL 128 134	neuron
+#10	AnnotatorNotes T10	CL:0000540 (neuron)
+T11	SO 145 153	Deletion
+#11	AnnotatorNotes T11	SO:0000045 (delete)
+T12	GO_BP 161 173	proapoptotic
+#12	AnnotatorNotes T12	GO:0043065 (positive regulation of apoptosis)
+T13	SO 174 178	gene
+#13	AnnotatorNotes T13	SO:0000704 (gene)
+T14	italic 179 182	Bax
+#14	AnnotatorNotes T14	italic (null)
+T15	PR 179 182	Bax
+#15	AnnotatorNotes T15	PR:000002193 (apoptosis regulator BAX)
+T16	EntrezGene 179 182	Bax
+#16	AnnotatorNotes T16	EG:12028
+T17	italic 186 190	NT-3
+#17	AnnotatorNotes T17	italic (null)
+T18	PR 186 190	NT-3
+#18	AnnotatorNotes T18	PR:000011459 (neurotrophin-3)
+T19	EntrezGene 186 190	NT-3
+#19	AnnotatorNotes T19	EG:18205
+T20	NCBITaxon 200 204	mice
+#20	AnnotatorNotes T20	NCBITaxon:10088 (Mus)
+T21	CL 219 226	neurons
+#21	AnnotatorNotes T21	CL:0000540 (neuron)
+T22	GO_CC 263 267	axon
+#22	AnnotatorNotes T22	GO:0030424 (axon)
+T23	GO_BP 268 274	growth
+#23	AnnotatorNotes T23	GO:0040007 (growth)
+T24	EntrezGene 293 297	NT-3
+#24	AnnotatorNotes T24	EG:18205
+T25	PR 293 297	NT-3
+#25	AnnotatorNotes T25	PR:000011459 (neurotrophin-3)
+T26	GO_BP 298 307	signaling
+#26	AnnotatorNotes T26	GO:0007165 (signal transduction)
+T27	EntrezGene 309 313	TrkC
+#27	AnnotatorNotes T27	EG:18213
+T28	PR 309 313	TrkC
+#28	AnnotatorNotes T28	PR:000011471 (NT-3 growth factor receptor)
+T29	GO_CC 346 351	axons
+#29	AnnotatorNotes T29	GO:0030424 (axon)
+T30	EntrezGene 524 528	TrkC
+#30	AnnotatorNotes T30	EG:18213
+T31	PR 524 528	TrkC
+#31	AnnotatorNotes T31	PR:000011471 (NT-3 growth factor receptor)
+T32	GO_CC 538 543	axons
+#32	AnnotatorNotes T32	GO:0030424 (axon)
+T33	GO_BP 590 604	proprioceptive
+#33	AnnotatorNotes T33	GO:0019230 (proprioception)
+T34	GO_CC 605 610	axons
+#34	AnnotatorNotes T34	GO:0030424 (axon)
+T35	GO_BP 611 617	branch
+#35	AnnotatorNotes T35	GO:0001763 (morphogenesis of a branching structure)
+T36	GO_BP 707 722	chemoattractant
+#36	AnnotatorNotes T36	GO:0050918 (positive chemotaxis)
+T37	PR 734 738	NT-3
+#37	AnnotatorNotes T37	PR:000011459 (neurotrophin-3)
+T38	GO_CC 763 768	axons
+#38	AnnotatorNotes T38	GO:0030424 (axon)
+T39	EntrezGene 808 812	NT-3
+#39	AnnotatorNotes T39	EG:18205
+T40	PR 808 812	NT-3
+#40	AnnotatorNotes T40	PR:000011459 (neurotrophin-3)
+T41	GO_BP 838 851	axon guidance
+#41	AnnotatorNotes T41	GO:0007411 (axon guidance)
+T42	GO_CC 838 842	axon
+#42	AnnotatorNotes T42	GO:0030424 (axon)
+T43	CHEBI 852 860	molecule
+#43	AnnotatorNotes T43	CHEBI:36357 (polyatomic entities)
+T44	GO_BP 872 879	sensory
+#44	AnnotatorNotes T44	GO:0007600 (sensory perception)
+T45	PR 944 958	Neurotrophin-3
+#45	AnnotatorNotes T45	PR:000011459 (neurotrophin-3)
+T46	PR 960 964	NT-3
+#46	AnnotatorNotes T46	PR:000011459 (neurotrophin-3)
+T47	GO_BP 995 1006	development
+#47	AnnotatorNotes T47	GO:0032502 (developmental process)
+T48	GO_BP 1010 1024	proprioceptive
+#48	AnnotatorNotes T48	GO:0019230 (proprioception)
+T49	CL 1035 1048	motor neurons
+#49	AnnotatorNotes T49	CL:0000100 (motor neuron)
+T50	GO_BP 1035 1040	motor
+#50	AnnotatorNotes T50	GO:0050879 (multicellular organismal movement)
+T51	NCBITaxon 1090 1094	Mice
+#51	AnnotatorNotes T51	NCBITaxon:10088 (Mus)
+T52	EntrezGene 1108 1112	NT-3
+#52	AnnotatorNotes T52	EG:18205
+T53	PR 1108 1112	NT-3
+#53	AnnotatorNotes T53	PR:000011459 (neurotrophin-3)
+T54	GO_MF 1118 1142	tyrosine kinase receptor
+#54	AnnotatorNotes T54	GO:0019199 (transmembrane receptor protein kinase activity)
+T55	PR 1118 1142	tyrosine kinase receptor
+#55	AnnotatorNotes T55	PR:000021997 (TRK receptor)
+T56	independent_continuant 1118 1142	tyrosine kinase receptor
+#56	AnnotatorNotes T56	independent_continuant
+T57	CHEBI 1118 1126	tyrosine
+#57	AnnotatorNotes T57	CHEBI:32789 (tyrosine residue)
+T58	SO 1118 1126	tyrosine
+#58	AnnotatorNotes T58	SO:0001446 (tyrosine)
+T59	EntrezGene 1144 1148	TrkC
+#59	AnnotatorNotes T59	EG:18213
+T60	PR 1144 1148	TrkC
+#60	AnnotatorNotes T60	PR:000011471 (NT-3 growth factor receptor)
+T61	EntrezGene 1156 1160	TrkC
+#61	AnnotatorNotes T61	EG:18213
+T62	PR 1156 1160	TrkC
+#62	AnnotatorNotes T62	PR:000011471 (NT-3 growth factor receptor)
+T63	CL 1170 1176	neuron
+#63	AnnotatorNotes T63	CL:0000540 (neuron)
+T64	GO_MF 1186 1206	transcription factor
+#64	AnnotatorNotes T64	GO:0003700 (transcription factor activity)
+T65	independent_continuant 1186 1206	transcription factor
+#65	AnnotatorNotes T65	independent_continuant
+T66	GO_BP 1186 1199	transcription
+#66	AnnotatorNotes T66	GO:0006350 (transcription)
+T67	EntrezGene 1207 1212	Runx3
+#67	AnnotatorNotes T67	EG:12399
+T68	PR 1207 1212	Runx3
+#68	AnnotatorNotes T68	PR:000014365 (runt-related transcription factor 3)
+T69	GO_BP 1295 1309	proprioceptive
+#69	AnnotatorNotes T69	GO:0019230 (proprioception)
+T70	CL 1310 1317	neurons
+#70	AnnotatorNotes T70	CL:0000540 (neuron)
+T71	GO_CC 1357 1362	axons
+#71	AnnotatorNotes T71	GO:0030424 (axon)
+T72	PR 1509 1513	NT-3
+#72	AnnotatorNotes T72	PR:000011459 (neurotrophin-3)
+T73	GO_BP 1517 1526	expressed
+#73	AnnotatorNotes T73	GO:0010467 (gene expression)
+T74	GO_BP 1562 1572	developing
+#74	AnnotatorNotes T74	GO:0032502 (developmental process)
+T75	GO_BP 1641 1652	development
+#75	AnnotatorNotes T75	GO:0032502 (developmental process)
+T76	GO_BP 1724 1731	sensory
+#76	AnnotatorNotes T76	GO:0007600 (sensory perception)
+T77	GO_CC 1732 1737	axons
+#77	AnnotatorNotes T77	GO:0030424 (axon)
+T78	GO_BP 1746 1756	developing
+#78	AnnotatorNotes T78	GO:0032502 (developmental process)
+T79	GO_BP 1772 1778	induce
+#79	AnnotatorNotes T79	GO:0031128 (induction)
+T80	GO_BP 1794 1809	differentiation
+#80	AnnotatorNotes T80	GO:0030154 (cell differentiation)
+T81	GO_BP 1811 1818	forming
+#81	AnnotatorNotes T81	GO:0032502 (developmental process)
+T82	GO_CC 1836 1849	nerve endings
+#82	AnnotatorNotes T82	GO:0043679 (nerve terminal)
+T83	NCBITaxon 1870 1877	chicken
+#83	AnnotatorNotes T83	NCBITaxon:9031 (Gallus gallus)
+T84	PR 1909 1913	NT-3
+#84	AnnotatorNotes T84	PR:000011459 (neurotrophin-3)
+T85	GO_CC 1914 1922	antibody
+#85	AnnotatorNotes T85	GO:0019814 (immunoglobulin complex)
+T86	GO_BP 1957 1968	elimination
+#86	AnnotatorNotes T86	GO:0012501 (programmed cell death)
+T87	EntrezGene 1972 1976	TrkC
+#87	AnnotatorNotes T87	EG:396081
+T88	PR 1972 1976	TrkC
+#88	AnnotatorNotes T88	PR:000011471 (NT-3 growth factor receptor)
+T89	CL 1986 1993	neurons
+#89	AnnotatorNotes T89	CL:0000540 (neuron)
+T90	CL 2023 2036	motor neurons
+#90	AnnotatorNotes T90	CL:0000100 (motor neuron)
+T91	GO_BP 2023 2028	motor
+#91	AnnotatorNotes T91	GO:0050879 (multicellular organismal movement)
+T92	PR 2068 2072	NT-3
+#92	AnnotatorNotes T92	PR:000011459 (neurotrophin-3)
+T93	GO_BP 2120 2127	sensory
+#93	AnnotatorNotes T93	GO:0007600 (sensory perception)
+T94	GO_BP 2179 2190	development
+#94	AnnotatorNotes T94	GO:0032502 (developmental process)
+T95	GO_BP 2221 2234	establishment
+#95	AnnotatorNotes T95	GO:0032502 (developmental process)
+T96	GO_BP 2255 2261	reflex
+#96	AnnotatorNotes T96	GO:0060004 (reflex)
+T97	EntrezGene 2297 2301	NT-3
+#97	AnnotatorNotes T97	EG:18205
+T98	PR 2297 2301	NT-3
+#98	AnnotatorNotes T98	PR:000011459 (neurotrophin-3)
+T99	independent_continuant 2312 2327	chemoattractant
+#99	AnnotatorNotes T99	independent_continuant
+T100	GO_MF 2312 2327	chemoattractant
+#100	AnnotatorNotes T100	GO:0042056 (chemoattractant activity)
+T101	GO_BP 2332 2339	sensory
+#101	AnnotatorNotes T101	GO:0007600 (sensory perception)
+T102	GO_CC 2340 2345	axons
+#102	AnnotatorNotes T102	GO:0030424 (axon)
+T103	GO_BP 2378 2405	target-directed pathfinding
+#103	AnnotatorNotes T103	GO:0007411 (axon guidance)
+T104	EntrezGene 2417 2421	TrkC
+#104	AnnotatorNotes T104	EG:18213
+T105	PR 2417 2421	TrkC
+#105	AnnotatorNotes T105	PR:000011471 (NT-3 growth factor receptor)
+T106	CL 2435 2442	Neurons
+#106	AnnotatorNotes T106	CL:0000540 (neuron)
+T107	italic 2458 2466	Bax/NT-3
+#107	AnnotatorNotes T107	italic (null)
+T108	EntrezGene 2458 2461	Bax
+#108	AnnotatorNotes T108	EG:12028
+T109	PR 2458 2461	Bax
+#109	AnnotatorNotes T109	PR:000002193 (apoptosis regulator BAX)
+T110	EntrezGene 2462 2466	NT-3
+#110	AnnotatorNotes T110	EG:18205
+T111	PR 2462 2466	NT-3
+#111	AnnotatorNotes T111	PR:000011459 (neurotrophin-3)
+T112	NCBITaxon 2483 2487	Mice
+#112	AnnotatorNotes T112	NCBITaxon:10088 (Mus)
+T113	NCBITaxon 2489 2493	Mice
+#113	AnnotatorNotes T113	NCBITaxon:10088 (Mus)
+T114	GO_BP 2502 2514	proapoptotic
+#114	AnnotatorNotes T114	GO:0043065 (positive regulation of apoptosis)
+T115	CHEBI 2515 2522	protein
+#115	AnnotatorNotes T115	CHEBI:36080 (proteins)
+T116	EntrezGene 2523 2526	Bax
+#116	AnnotatorNotes T116	EG:12028
+T117	PR 2523 2526	Bax
+#117	AnnotatorNotes T117	PR:000002193 (apoptosis regulator BAX)
+T118	PR 2572 2585	neurotrophins
+#118	AnnotatorNotes T118	PR:000021998 (neurotrophin)
+T119	PR 2606 2609	Bax
+#119	AnnotatorNotes T119	PR:000002193 (apoptosis regulator BAX)
+T120	CL 2620 2635	sensory neurons
+#120	AnnotatorNotes T120	CL:0000101 (sensory neuron)
+T121	GO_BP 2620 2627	sensory
+#121	AnnotatorNotes T121	GO:0007600 (sensory perception)
+T122	PR 2654 2667	neurotrophins
+#122	AnnotatorNotes T122	PR:000021998 (neurotrophin)
+T123	GO_CC 2754 2760	axonal
+#123	AnnotatorNotes T123	GO:0030424 (axon)
+T124	GO_BP 2773 2777	bred
+#124	AnnotatorNotes T124	GO:0007618 (mating)
+T125	italic 2778 2782	NT-3
+#125	AnnotatorNotes T125	italic (null)
+T126	EntrezGene 2778 2782	NT-3
+#126	AnnotatorNotes T126	EG:18205
+T127	PR 2778 2782	NT-3
+#127	AnnotatorNotes T127	PR:000011459 (neurotrophin-3)
+T128	italic 2800 2803	Bax
+#128	AnnotatorNotes T128	italic (null)
+T129	PR 2800 2803	Bax
+#129	AnnotatorNotes T129	PR:000002193 (apoptosis regulator BAX)
+T130	EntrezGene 2800 2803	Bax
+#130	AnnotatorNotes T130	EG:12028
+T131	NCBITaxon 2818 2822	mice
+#131	AnnotatorNotes T131	NCBITaxon:10088 (Mus)
+T132	NCBITaxon 2833 2837	mice
+#132	AnnotatorNotes T132	NCBITaxon:10088 (Mus)
+T133	italic 2861 2865	NT-3
+#133	AnnotatorNotes T133	italic (null)
+T134	PR 2861 2865	NT-3
+#134	AnnotatorNotes T134	PR:000011459 (neurotrophin-3)
+T135	EntrezGene 2861 2865	NT-3
+#135	AnnotatorNotes T135	EG:18205
+T136	italic 2870 2873	Bax
+#136	AnnotatorNotes T136	italic (null)
+T137	PR 2870 2873	Bax
+#137	AnnotatorNotes T137	PR:000002193 (apoptosis regulator BAX)
+T138	EntrezGene 2870 2873	Bax
+#138	AnnotatorNotes T138	EG:12028
+T139	SO 2874 2879	genes
+#139	AnnotatorNotes T139	SO:0000704 (gene)
+T140	GO_BP 2894 2908	proprioceptive
+#140	AnnotatorNotes T140	GO:0019230 (proprioception)
+T141	GO_CC 2909 2915	axonal
+#141	AnnotatorNotes T141	GO:0030424 (axon)
+T142	GO_CC 2916 2927	projections
+#142	AnnotatorNotes T142	GO:0042995 (cell projection)
+T143	italic 2933 2937	NT-3
+#143	AnnotatorNotes T143	italic (null)
+T144	PR 2933 2937	NT-3
+#144	AnnotatorNotes T144	PR:000011459 (neurotrophin-3)
+T145	EntrezGene 2933 2937	NT-3
+#145	AnnotatorNotes T145	EG:18205
+T146	GO_BP 2953 2957	died
+#146	AnnotatorNotes T146	GO:0016265 (death)
+T147	GO_BP 2976 2981	birth
+#147	AnnotatorNotes T147	GO:0007567 (parturition)
+T148	EntrezGene 3021 3025	TrkA
+#148	AnnotatorNotes T148	EG:18211
+T149	PR 3021 3025	TrkA
+#149	AnnotatorNotes T149	PR:000011469 (high affinity nerve growth factor receptor)
+T150	EntrezGene 3026 3030	TrkC
+#150	AnnotatorNotes T150	EG:18213
+T151	PR 3026 3030	TrkC
+#151	AnnotatorNotes T151	PR:000011471 (NT-3 growth factor receptor)
+T152	CHEBI 3107 3115	proteins
+#152	AnnotatorNotes T152	CHEBI:36080 (proteins)
+T153	EntrezGene 3136 3140	TrkC
+#153	AnnotatorNotes T153	EG:18213
+T154	PR 3136 3140	TrkC
+#154	AnnotatorNotes T154	PR:000011471 (NT-3 growth factor receptor)
+T155	CL 3150 3155	cells
+#155	AnnotatorNotes T155	CL:0000000 (cell)
+T156	GO_CC 3150 3155	cells
+#156	AnnotatorNotes T156	GO:0005623 (cell)
+T157	italic 3206 3210	NT-3
+#157	AnnotatorNotes T157	italic (null)
+T158	PR 3206 3210	NT-3
+#158	AnnotatorNotes T158	PR:000011459 (neurotrophin-3)
+T159	EntrezGene 3206 3210	NT-3
+#159	AnnotatorNotes T159	EG:18205
+T160	CL 3259 3264	cells
+#160	AnnotatorNotes T160	CL:0000000 (cell)
+T161	GO_CC 3259 3264	cells
+#161	AnnotatorNotes T161	GO:0005623 (cell)
+T162	GO_BP 3265 3275	expressing
+#162	AnnotatorNotes T162	GO:0010467 (gene expression)
+T163	EntrezGene 3283 3287	TrkA
+#163	AnnotatorNotes T163	EG:18211
+T164	PR 3283 3287	TrkA
+#164	AnnotatorNotes T164	PR:000011469 (high affinity nerve growth factor receptor)
+T165	EntrezGene 3291 3295	TrkC
+#165	AnnotatorNotes T165	EG:18213
+T166	PR 3291 3295	TrkC
+#166	AnnotatorNotes T166	PR:000011471 (NT-3 growth factor receptor)
+T167	SO 3336 3345	wild-type
+#167	AnnotatorNotes T167	SO:0000817 (wild_type)
+T168	SO 3347 3349	WT
+#168	AnnotatorNotes T168	SO:0000817 (wild_type)
+T169	italic 3354 3357	Bax
+#169	AnnotatorNotes T169	italic (null)
+T170	PR 3354 3357	Bax
+#170	AnnotatorNotes T170	PR:000002193 (apoptosis regulator BAX)
+T171	EntrezGene 3354 3357	Bax
+#171	AnnotatorNotes T171	EG:12028
+T172	NCBITaxon 3361 3368	animals
+#172	AnnotatorNotes T172	NCBITaxon:33208 (Metazoa)
+T173	CL 3414 3419	cells
+#173	AnnotatorNotes T173	CL:0000000 (cell)
+T174	GO_CC 3414 3419	cells
+#174	AnnotatorNotes T174	GO:0005623 (cell)
+T175	GO_BP 3420 3429	expressed
+#175	AnnotatorNotes T175	GO:0010467 (gene expression)
+T176	EntrezGene 3430 3434	TrkC
+#176	AnnotatorNotes T176	EG:18213
+T177	PR 3430 3434	TrkC
+#177	AnnotatorNotes T177	PR:000011471 (NT-3 growth factor receptor)
+T178	italic 3443 3447	NT-3
+#178	AnnotatorNotes T178	italic (null)
+T179	EntrezGene 3443 3447	NT-3
+#179	AnnotatorNotes T179	EG:18205
+T180	PR 3443 3447	NT-3
+#180	AnnotatorNotes T180	PR:000011459 (neurotrophin-3)
+T181	NCBITaxon 3451 3458	animals
+#181	AnnotatorNotes T181	NCBITaxon:33208 (Metazoa)
+T182	italic 3466 3469	Bax
+#182	AnnotatorNotes T182	italic (null)
+T183	PR 3466 3469	Bax
+#183	AnnotatorNotes T183	PR:000002193 (apoptosis regulator BAX)
+T184	EntrezGene 3466 3469	Bax
+#184	AnnotatorNotes T184	EG:12028
+T185	sup 3469 3472	+/+
+#185	AnnotatorNotes T185	sup (null)
+T186	SO 3469 3470	+
+#186	AnnotatorNotes T186	SO:0000817 (wild_type)
+T187	SO 3471 3472	+
+#187	AnnotatorNotes T187	SO:0000817 (wild_type)
+T188	SO 3473 3480	genetic
+#188	AnnotatorNotes T188	SO:0000704 (gene)
+T189	CL 3502 3507	cells
+#189	AnnotatorNotes T189	CL:0000000 (cell)
+T190	GO_CC 3502 3507	cells
+#190	AnnotatorNotes T190	GO:0005623 (cell)
+T191	GO_BP 3511 3520	expressed
+#191	AnnotatorNotes T191	GO:0010467 (gene expression)
+T192	EntrezGene 3521 3525	TrkA
+#192	AnnotatorNotes T192	EG:18211
+T193	PR 3521 3525	TrkA
+#193	AnnotatorNotes T193	PR:000011469 (high affinity nerve growth factor receptor)
+T194	EntrezGene 3530 3534	TrkC
+#194	AnnotatorNotes T194	EG:18213
+T195	PR 3530 3534	TrkC
+#195	AnnotatorNotes T195	PR:000011471 (NT-3 growth factor receptor)
+T196	SO 3554 3562	genotype
+#196	AnnotatorNotes T196	SO:0001027 (genotype)
+T197	EntrezGene 3635 3639	TrkA
+#197	AnnotatorNotes T197	EG:18211
+T198	PR 3635 3639	TrkA
+#198	AnnotatorNotes T198	PR:000011469 (high affinity nerve growth factor receptor)
+T199	EntrezGene 3644 3648	TrkC
+#199	AnnotatorNotes T199	EG:18213
+T200	PR 3644 3648	TrkC
+#200	AnnotatorNotes T200	PR:000011471 (NT-3 growth factor receptor)
+T201	CL 3664 3669	cells
+#201	AnnotatorNotes T201	CL:0000000 (cell)
+T202	GO_CC 3664 3669	cells
+#202	AnnotatorNotes T202	GO:0005623 (cell)
+T203	NCBITaxon 3698 3705	animals
+#203	AnnotatorNotes T203	NCBITaxon:33208 (Metazoa)
+T204	SO 3719 3728	genotypes
+#204	AnnotatorNotes T204	SO:0001027 (genotype)
+T205	EntrezGene 3751 3754	Bax
+#205	AnnotatorNotes T205	EG:12028
+T206	PR 3751 3754	Bax
+#206	AnnotatorNotes T206	PR:000002193 (apoptosis regulator BAX)
+T207	EntrezGene 3755 3759	NT-3
+#207	AnnotatorNotes T207	EG:18205
+T208	PR 3755 3759	NT-3
+#208	AnnotatorNotes T208	PR:000011459 (neurotrophin-3)
+T209	EntrezGene 3781 3785	TrkA
+#209	AnnotatorNotes T209	EG:18211
+T210	PR 3781 3785	TrkA
+#210	AnnotatorNotes T210	PR:000011469 (high affinity nerve growth factor receptor)
+T211	EntrezGene 3786 3790	TrkC
+#211	AnnotatorNotes T211	EG:18213
+T212	PR 3786 3790	TrkC
+#212	AnnotatorNotes T212	PR:000011471 (NT-3 growth factor receptor)
+T213	EntrezGene 3818 3821	Bax
+#213	AnnotatorNotes T213	EG:12028
+T214	PR 3818 3821	Bax
+#214	AnnotatorNotes T214	PR:000002193 (apoptosis regulator BAX)
+T215	EntrezGene 3858 3862	NT-3
+#215	AnnotatorNotes T215	EG:18205
+T216	PR 3858 3862	NT-3
+#216	AnnotatorNotes T216	PR:000011459 (neurotrophin-3)
+T217	EntrezGene 3886 3890	TrkC
+#217	AnnotatorNotes T217	EG:18213
+T218	PR 3886 3890	TrkC
+#218	AnnotatorNotes T218	PR:000011471 (NT-3 growth factor receptor)
+T219	CL 3900 3907	neurons
+#219	AnnotatorNotes T219	CL:0000540 (neuron)
+T220	italic 3919 3922	Bax
+#220	AnnotatorNotes T220	italic (null)
+T221	EntrezGene 3919 3922	Bax
+#221	AnnotatorNotes T221	EG:12028
+T222	PR 3919 3922	Bax
+#222	AnnotatorNotes T222	PR:000002193 (apoptosis regulator BAX)
+T223	SO 3923 3931	deletion
+#223	AnnotatorNotes T223	SO:0000045 (delete)
+T224	GO_BP 3952 3965	differentiate
+#224	AnnotatorNotes T224	GO:0030154 (cell differentiation)
+T225	GO_BP 4004 4014	expression
+#225	AnnotatorNotes T225	GO:0010467 (gene expression)
+T226	GO_BP 4022 4036	proprioceptive
+#226	AnnotatorNotes T226	GO:0019230 (proprioception)
+T227	CHEBI 4037 4046	molecular
+#227	AnnotatorNotes T227	CHEBI:36357 (polyatomic entities)
+T228	EntrezGene 4054 4065	Parvalbumin
+#228	AnnotatorNotes T228	EG:19293
+T229	PR 4054 4065	Parvalbumin
+#229	AnnotatorNotes T229	PR:000013502 (parvalbumin alpha)
+T230	EntrezGene 4067 4069	PV
+#230	AnnotatorNotes T230	EG:19293
+T231	PR 4067 4069	PV
+#231	AnnotatorNotes T231	PR:000013502 (parvalbumin alpha)
+T232	EntrezGene 4085 4089	NT-3
+#232	AnnotatorNotes T232	EG:18205
+T233	PR 4085 4089	NT-3
+#233	AnnotatorNotes T233	PR:000011459 (neurotrophin-3)
+T234	CL 4129 4142	Motor Neurons
+#234	AnnotatorNotes T234	CL:0000100 (motor neuron)
+T235	GO_BP 4129 4134	Motor
+#235	AnnotatorNotes T235	GO:0050879 (multicellular organismal movement)
+T236	EntrezGene 4144 4148	TrkA
+#236	AnnotatorNotes T236	EG:18211
+T237	PR 4144 4148	TrkA
+#237	AnnotatorNotes T237	PR:000011469 (high affinity nerve growth factor receptor)
+T238	EntrezGene 4149 4153	TrkC
+#238	AnnotatorNotes T238	EG:18213
+T239	PR 4149 4153	TrkC
+#239	AnnotatorNotes T239	PR:000011471 (NT-3 growth factor receptor)
+T240	EntrezGene 4227 4231	TrkA
+#240	AnnotatorNotes T240	EG:18211
+T241	PR 4227 4231	TrkA
+#241	AnnotatorNotes T241	PR:000011469 (high affinity nerve growth factor receptor)
+T242	EntrezGene 4323 4327	TrkC
+#242	AnnotatorNotes T242	EG:18213
+T243	PR 4323 4327	TrkC
+#243	AnnotatorNotes T243	PR:000011471 (NT-3 growth factor receptor)
+T244	SO 4416 4418	WT
+#244	AnnotatorNotes T244	SO:0000817 (wild_type)
+T245	italic 4447 4450	Bax
+#245	AnnotatorNotes T245	italic (null)
+T246	PR 4447 4450	Bax
+#246	AnnotatorNotes T246	PR:000002193 (apoptosis regulator BAX)
+T247	EntrezGene 4447 4450	Bax
+#247	AnnotatorNotes T247	EG:12028
+T248	EntrezGene 4487 4491	TrkC
+#248	AnnotatorNotes T248	EG:18213
+T249	PR 4487 4491	TrkC
+#249	AnnotatorNotes T249	PR:000011471 (NT-3 growth factor receptor)
+T250	GO_BP 4492 4502	expression
+#250	AnnotatorNotes T250	GO:0010467 (gene expression)
+T251	italic 4506 4510	NT-3
+#251	AnnotatorNotes T251	italic (null)
+T252	EntrezGene 4506 4510	NT-3
+#252	AnnotatorNotes T252	EG:18205
+T253	PR 4506 4510	NT-3
+#253	AnnotatorNotes T253	PR:000011459 (neurotrophin-3)
+T254	GO_BP 4558 4572	proprioceptive
+#254	AnnotatorNotes T254	GO:0019230 (proprioception)
+T255	EntrezGene 4607 4611	TrkC
+#255	AnnotatorNotes T255	EG:18213
+T256	PR 4607 4611	TrkC
+#256	AnnotatorNotes T256	PR:000011471 (NT-3 growth factor receptor)
+T257	SO 4718 4720	WT
+#257	AnnotatorNotes T257	SO:0000817 (wild_type)
+T258	independent_continuant 4718 4720	WT
+#258	AnnotatorNotes T258	independent_continuant
+T259	italic 4724 4727	Bax
+#259	AnnotatorNotes T259	italic (null)
+T260	PR 4724 4727	Bax
+#260	AnnotatorNotes T260	PR:000002193 (apoptosis regulator BAX)
+T261	EntrezGene 4724 4727	Bax
+#261	AnnotatorNotes T261	EG:12028
+T262	EntrezGene 4777 4781	TrkC
+#262	AnnotatorNotes T262	EG:18213
+T263	PR 4777 4781	TrkC
+#263	AnnotatorNotes T263	PR:000011471 (NT-3 growth factor receptor)
+T264	GO_CC 4889 4900	projections
+#264	AnnotatorNotes T264	GO:0042995 (cell projection)
+T265	GO_CC 4908 4913	axons
+#265	AnnotatorNotes T265	GO:0030424 (axon)
+T266	SO 4955 4957	WT
+#266	AnnotatorNotes T266	SO:0000817 (wild_type)
+T267	italic 4962 4965	Bax
+#267	AnnotatorNotes T267	italic (null)
+T268	PR 4962 4965	Bax
+#268	AnnotatorNotes T268	PR:000002193 (apoptosis regulator BAX)
+T269	EntrezGene 4962 4965	Bax
+#269	AnnotatorNotes T269	EG:12028
+T270	GO_BP 4975 4989	proprioceptive
+#270	AnnotatorNotes T270	GO:0019230 (proprioception)
+T271	CL 5121 5134	motor neurons
+#271	AnnotatorNotes T271	CL:0000100 (motor neuron)
+T272	GO_BP 5121 5126	motor
+#272	AnnotatorNotes T272	GO:0050879 (multicellular organismal movement)
+T273	GO_BP 5150 5155	motor
+#273	AnnotatorNotes T273	GO:0050879 (multicellular organismal movement)
+T274	GO_BP 5175 5183	branched
+#274	AnnotatorNotes T274	GO:0001763 (morphogenesis of a branching structure)
+T275	italic 5263 5267	NT-3
+#275	AnnotatorNotes T275	italic (null)
+T276	EntrezGene 5263 5267	NT-3
+#276	AnnotatorNotes T276	EG:18205
+T277	PR 5263 5267	NT-3
+#277	AnnotatorNotes T277	PR:000011459 (neurotrophin-3)
+T278	GO_BP 5344 5358	proprioceptive
+#278	AnnotatorNotes T278	GO:0019230 (proprioception)
+T279	GO_BP 5433 5447	proprioceptive
+#279	AnnotatorNotes T279	GO:0019230 (proprioception)
+T280	SO 5509 5511	WT
+#280	AnnotatorNotes T280	SO:0000817 (wild_type)
+T281	GO_BP 5614 5619	motor
+#281	AnnotatorNotes T281	GO:0050879 (multicellular organismal movement)
+T282	EntrezGene 5815 5819	NT-3
+#282	AnnotatorNotes T282	EG:18205
+T283	PR 5815 5819	NT-3
+#283	AnnotatorNotes T283	PR:000011459 (neurotrophin-3)
+T284	CL 5837 5849	motor neuron
+#284	AnnotatorNotes T284	CL:0000100 (motor neuron)
+T285	GO_BP 5837 5842	motor
+#285	AnnotatorNotes T285	GO:0050879 (multicellular organismal movement)
+T286	SO 6039 6048	genotypes
+#286	AnnotatorNotes T286	SO:0001027 (genotype)
+T287	PR 6102 6121	nerve growth factor
+#287	AnnotatorNotes T287	PR:000011194 (beta-nerve growth factor)
+T288	GO_MF 6108 6121	growth factor
+#288	AnnotatorNotes T288	GO:0008083 (growth factor activity)
+T289	independent_continuant 6108 6121	growth factor
+#289	AnnotatorNotes T289	independent_continuant
+T290	GO_BP 6108 6114	growth
+#290	AnnotatorNotes T290	GO:0040007 (growth)
+T291	GO_BP 6132 6143	nociceptive
+#291	AnnotatorNotes T291	GO:0019233 (sensory perception of pain)
+T292	GO_CC 6144 6149	axons
+#292	AnnotatorNotes T292	GO:0030424 (axon)
+T293	SO 6154 6156	WT
+#293	AnnotatorNotes T293	SO:0000817 (wild_type)
+T294	italic 6161 6164	Bax
+#294	AnnotatorNotes T294	italic (null)
+T295	PR 6161 6164	Bax
+#295	AnnotatorNotes T295	PR:000002193 (apoptosis regulator BAX)
+T296	EntrezGene 6161 6164	Bax
+#296	AnnotatorNotes T296	EG:12028
+T297	GO_BP 6177 6191	proprioceptive
+#297	AnnotatorNotes T297	GO:0019230 (proprioception)
+T298	CL 6229 6242	motor neurons
+#298	AnnotatorNotes T298	CL:0000100 (motor neuron)
+T299	GO_BP 6229 6234	motor
+#299	AnnotatorNotes T299	GO:0050879 (multicellular organismal movement)
+T300	italic 6296 6300	NT-3
+#300	AnnotatorNotes T300	italic (null)
+T301	EntrezGene 6296 6300	NT-3
+#301	AnnotatorNotes T301	EG:18205
+T302	PR 6296 6300	NT-3
+#302	AnnotatorNotes T302	PR:000011459 (neurotrophin-3)
+T303	italic 6359 6367	Bax/NT-3
+#303	AnnotatorNotes T303	italic (null)
+T304	EntrezGene 6359 6362	Bax
+#304	AnnotatorNotes T304	EG:12028
+T305	PR 6359 6362	Bax
+#305	AnnotatorNotes T305	PR:000002193 (apoptosis regulator BAX)
+T306	EntrezGene 6363 6367	NT-3
+#306	AnnotatorNotes T306	EG:18205
+T307	PR 6363 6367	NT-3
+#307	AnnotatorNotes T307	PR:000011459 (neurotrophin-3)
+T308	GO_BP 6591 6605	proprioceptive
+#308	AnnotatorNotes T308	GO:0019230 (proprioception)
+T309	EntrezGene 6645 6648	Bax
+#309	AnnotatorNotes T309	EG:12028
+T310	PR 6645 6648	Bax
+#310	AnnotatorNotes T310	PR:000002193 (apoptosis regulator BAX)
+T311	EntrezGene 6649 6653	NT-3
+#311	AnnotatorNotes T311	EG:18205
+T312	PR 6649 6653	NT-3
+#312	AnnotatorNotes T312	PR:000011459 (neurotrophin-3)
+T313	GO_BP 6686 6699	developmental
+#313	AnnotatorNotes T313	GO:0032502 (developmental process)
+T314	GO_BP 6728 6735	sensory
+#314	AnnotatorNotes T314	GO:0007600 (sensory perception)
+T315	GO_CC 6736 6741	axons
+#315	AnnotatorNotes T315	GO:0030424 (axon)
+T316	CL 6754 6766	motor neuron
+#316	AnnotatorNotes T316	CL:0000100 (motor neuron)
+T317	GO_BP 6754 6759	motor
+#317	AnnotatorNotes T317	GO:0050879 (multicellular organismal movement)
+T318	GO_CC 6767 6776	dendrites
+#318	AnnotatorNotes T318	GO:0030425 (dendrite)
+T319	GO_BP 6822 6828	reflex
+#319	AnnotatorNotes T319	GO:0060004 (reflex)
+T320	GO_BP 6848 6859	established
+#320	AnnotatorNotes T320	GO:0032502 (developmental process)
+T321	GO_BP 6901 6908	sensory
+#321	AnnotatorNotes T321	GO:0007600 (sensory perception)
+T322	GO_CC 6909 6914	axons
+#322	AnnotatorNotes T322	GO:0030424 (axon)
+T323	CL 6919 6932	motor neurons
+#323	AnnotatorNotes T323	CL:0000100 (motor neuron)
+T324	GO_BP 6919 6924	motor
+#324	AnnotatorNotes T324	GO:0050879 (multicellular organismal movement)
+T325	EntrezGene 6951 6955	NT-3
+#325	AnnotatorNotes T325	EG:18205
+T326	PR 6951 6955	NT-3
+#326	AnnotatorNotes T326	PR:000011459 (neurotrophin-3)
+T327	EntrezGene 6983 6987	NT-3
+#327	AnnotatorNotes T327	EG:18205
+T328	PR 6983 6987	NT-3
+#328	AnnotatorNotes T328	PR:000011459 (neurotrophin-3)
+T329	GO_BP 6999 7013	axon targeting
+#329	AnnotatorNotes T329	GO:0007411 (axon guidance)
+T330	GO_CC 6999 7003	axon
+#330	AnnotatorNotes T330	GO:0030424 (axon)
+T331	GO_BP 7039 7046	sensory
+#331	AnnotatorNotes T331	GO:0007600 (sensory perception)
+T332	GO_CC 7047 7051	axon
+#332	AnnotatorNotes T332	GO:0030424 (axon)
+T333	EntrezGene 7066 7070	NT-3
+#333	AnnotatorNotes T333	EG:18205
+T334	PR 7066 7070	NT-3
+#334	AnnotatorNotes T334	PR:000011459 (neurotrophin-3)
+T335	NCBITaxon 7172 7179	animals
+#335	AnnotatorNotes T335	NCBITaxon:33208 (Metazoa)
+T336	GO_BP 7205 7216	development
+#336	AnnotatorNotes T336	GO:0032502 (developmental process)
+T337	SO 7295 7297	WT
+#337	AnnotatorNotes T337	SO:0000817 (wild_type)
+T338	italic 7302 7305	Bax
+#338	AnnotatorNotes T338	italic (null)
+T339	PR 7302 7305	Bax
+#339	AnnotatorNotes T339	PR:000002193 (apoptosis regulator BAX)
+T340	EntrezGene 7302 7305	Bax
+#340	AnnotatorNotes T340	EG:12028
+T341	NCBITaxon 7309 7316	animals
+#341	AnnotatorNotes T341	NCBITaxon:33208 (Metazoa)
+T342	GO_BP 7372 7386	Proprioceptive
+#342	AnnotatorNotes T342	GO:0019230 (proprioception)
+T343	PR 7407 7422	neurofilament-M
+#343	AnnotatorNotes T343	PR:000011120 (neurofilament medium polypeptide)
+T344	PR 7424 7428	NF-M
+#344	AnnotatorNotes T344	PR:000011120 (neurofilament medium polypeptide)
+T345	GO_CC 7430 7438	antibody
+#345	AnnotatorNotes T345	GO:0019814 (immunoglobulin complex)
+T346	GO_BP 7439 7445	formed
+#346	AnnotatorNotes T346	GO:0032502 (developmental process)
+T347	GO_CC 7525 7533	antibody
+#347	AnnotatorNotes T347	GO:0019814 (immunoglobulin complex)
+T348	GO_BP 7553 7566	developmental
+#348	AnnotatorNotes T348	GO:0032502 (developmental process)
+T349	GO_CC 7567 7573	myosin
+#349	AnnotatorNotes T349	GO:0016459 (myosin complex)
+T350	SO 7580 7585	chain
+#350	AnnotatorNotes T350	SO:0000001 (region)
+T351	CHEBI 7586 7593	protein
+#351	AnnotatorNotes T351	CHEBI:36080 (proteins)
+T352	italic 7670 7674	NT-3
+#352	AnnotatorNotes T352	italic (null)
+T353	PR 7670 7674	NT-3
+#353	AnnotatorNotes T353	PR:000011459 (neurotrophin-3)
+T354	EntrezGene 7670 7674	NT-3
+#354	AnnotatorNotes T354	EG:18205
+T355	NCBITaxon 7678 7685	animals
+#355	AnnotatorNotes T355	NCBITaxon:33208 (Metazoa)
+T356	italic 7728 7731	Bax
+#356	AnnotatorNotes T356	italic (null)
+T357	EntrezGene 7728 7731	Bax
+#357	AnnotatorNotes T357	EG:12028
+T358	PR 7728 7731	Bax
+#358	AnnotatorNotes T358	PR:000002193 (apoptosis regulator BAX)
+T359	NCBITaxon 7735 7742	animals
+#359	AnnotatorNotes T359	NCBITaxon:33208 (Metazoa)
+T360	SO 7766 7768	WT
+#360	AnnotatorNotes T360	SO:0000817 (wild_type)
+T361	independent_continuant 7766 7768	WT
+#361	AnnotatorNotes T361	independent_continuant
+T362	NCBITaxon 7811 7818	animals
+#362	AnnotatorNotes T362	NCBITaxon:33208 (Metazoa)
+T363	GO_BP 7824 7834	expressing
+#363	AnnotatorNotes T363	GO:0010467 (gene expression)
+T364	PR 7835 7839	NT-3
+#364	AnnotatorNotes T364	PR:000011459 (neurotrophin-3)
+T365	EntrezGene 7885 7889	NT-3
+#365	AnnotatorNotes T365	EG:18205
+T366	PR 7885 7889	NT-3
+#366	AnnotatorNotes T366	PR:000011459 (neurotrophin-3)
+T367	CL 7900 7905	cells
+#367	AnnotatorNotes T367	CL:0000000 (cell)
+T368	GO_CC 7900 7905	cells
+#368	AnnotatorNotes T368	GO:0005623 (cell)
+T369	PR 8039 8043	TrkC
+#369	AnnotatorNotes T369	PR:000011471 (NT-3 growth factor receptor)
+T370	GO_CC 8044 8052	antibody
+#370	AnnotatorNotes T370	GO:0019814 (immunoglobulin complex)
+T371	SO 8056 8058	WT
+#371	AnnotatorNotes T371	SO:0000817 (wild_type)
+T372	italic 8063 8066	Bax
+#372	AnnotatorNotes T372	italic (null)
+T373	PR 8063 8066	Bax
+#373	AnnotatorNotes T373	PR:000002193 (apoptosis regulator BAX)
+T374	EntrezGene 8063 8066	Bax
+#374	AnnotatorNotes T374	EG:12028
+T375	NCBITaxon 8070 8077	animals
+#375	AnnotatorNotes T375	NCBITaxon:33208 (Metazoa)
+T376	italic 8090 8094	NT-3
+#376	AnnotatorNotes T376	italic (null)
+T377	PR 8090 8094	NT-3
+#377	AnnotatorNotes T377	PR:000011459 (neurotrophin-3)
+T378	EntrezGene 8090 8094	NT-3
+#378	AnnotatorNotes T378	EG:18205
+T379	italic 8130 8134	NT-3
+#379	AnnotatorNotes T379	italic (null)
+T380	PR 8130 8134	NT-3
+#380	AnnotatorNotes T380	PR:000011459 (neurotrophin-3)
+T381	EntrezGene 8130 8134	NT-3
+#381	AnnotatorNotes T381	EG:18205
+T382	NCBITaxon 8149 8156	animals
+#382	AnnotatorNotes T382	NCBITaxon:33208 (Metazoa)
+T383	EntrezGene 8158 8162	NF-M
+#383	AnnotatorNotes T383	EG:18040
+T384	PR 8158 8162	NF-M
+#384	AnnotatorNotes T384	PR:000011120 (neurofilament medium polypeptide)
+T385	NCBITaxon 8234 8241	animals
+#385	AnnotatorNotes T385	NCBITaxon:33208 (Metazoa)
+T386	EntrezGene 8306 8310	TrkC
+#386	AnnotatorNotes T386	EG:18213
+T387	PR 8306 8310	TrkC
+#387	AnnotatorNotes T387	PR:000011471 (NT-3 growth factor receptor)
+T388	EntrezGene 8365 8369	NF-M
+#388	AnnotatorNotes T388	EG:18040
+T389	PR 8365 8369	NF-M
+#389	AnnotatorNotes T389	PR:000011120 (neurofilament medium polypeptide)
+T390	GO_BP 8399 8404	motor
+#390	AnnotatorNotes T390	GO:0050879 (multicellular organismal movement)
+T391	GO_CC 8405 8410	axons
+#391	AnnotatorNotes T391	GO:0030424 (axon)
+T392	GO_BP 8482 8497	differentiation
+#392	AnnotatorNotes T392	GO:0030154 (cell differentiation)
+T393	GO_BP 8501 8515	proprioceptive
+#393	AnnotatorNotes T393	GO:0019230 (proprioception)
+T394	GO_CC 8516 8521	axons
+#394	AnnotatorNotes T394	GO:0030424 (axon)
+T395	GO_BP 8539 8549	maturation
+#395	AnnotatorNotes T395	GO:0021700 (developmental maturation)
+T396	EntrezGene 8584 8588	NT-3
+#396	AnnotatorNotes T396	EG:18205
+T397	PR 8584 8588	NT-3
+#397	AnnotatorNotes T397	PR:000011459 (neurotrophin-3)
+T398	GO_BP 8654 8680	muscle spindle development
+#398	AnnotatorNotes T398	"muscle .. development" GO:0007517 (muscle development)
+T399	EntrezGene 8705 8709	NF-M
+#399	AnnotatorNotes T399	EG:18040
+T400	PR 8705 8709	NF-M
+#400	AnnotatorNotes T400	PR:000011120 (neurofilament medium polypeptide)
+T401	SO 8841 8850	genotypes
+#401	AnnotatorNotes T401	SO:0001027 (genotype)
+T402	GO_BP 8889 8899	developing
+#402	AnnotatorNotes T402	GO:0032502 (developmental process)
+T403	SO 8939 8941	WT
+#403	AnnotatorNotes T403	SO:0000817 (wild_type)
+T404	independent_continuant 8939 8941	WT
+#404	AnnotatorNotes T404	independent_continuant
+T405	italic 8946 8949	Bax
+#405	AnnotatorNotes T405	italic (null)
+T406	EntrezGene 8946 8949	Bax
+#406	AnnotatorNotes T406	EG:12028
+T407	PR 8946 8949	Bax
+#407	AnnotatorNotes T407	PR:000002193 (apoptosis regulator BAX)
+T408	italic 8966 8970	NT-3
+#408	AnnotatorNotes T408	italic (null)
+T409	PR 8966 8970	NT-3
+#409	AnnotatorNotes T409	PR:000011459 (neurotrophin-3)
+T410	EntrezGene 8966 8970	NT-3
+#410	AnnotatorNotes T410	EG:18205
+T411	EntrezGene 8995 8998	Bax
+#411	AnnotatorNotes T411	EG:12028
+T412	PR 8995 8998	Bax
+#412	AnnotatorNotes T412	PR:000002193 (apoptosis regulator BAX)
+T413	EntrezGene 8999 9003	NT-3
+#413	AnnotatorNotes T413	EG:18205
+T414	PR 8999 9003	NT-3
+#414	AnnotatorNotes T414	PR:000011459 (neurotrophin-3)
+T415	SO 9295 9297	WT
+#415	AnnotatorNotes T415	SO:0000817 (wild_type)
+T416	EntrezGene 9302 9305	Bax
+#416	AnnotatorNotes T416	EG:12028
+T417	PR 9302 9305	Bax
+#417	AnnotatorNotes T417	PR:000002193 (apoptosis regulator BAX)
+T418	italic 9343 9347	NT-3
+#418	AnnotatorNotes T418	italic (null)
+T419	EntrezGene 9343 9347	NT-3
+#419	AnnotatorNotes T419	EG:18205
+T420	PR 9343 9347	NT-3
+#420	AnnotatorNotes T420	PR:000011459 (neurotrophin-3)
+T421	NCBITaxon 9361 9368	animals
+#421	AnnotatorNotes T421	NCBITaxon:33208 (Metazoa)
+T422	GO_BP 9451 9457	formed
+#422	AnnotatorNotes T422	GO:0032502 (developmental process)
+T423	EntrezGene 9531 9535	TrkA
+#423	AnnotatorNotes T423	EG:18211
+T424	PR 9531 9535	TrkA
+#424	AnnotatorNotes T424	PR:000011469 (high affinity nerve growth factor receptor)
+T425	EntrezGene 9536 9540	TrkC
+#425	AnnotatorNotes T425	EG:18213
+T426	PR 9536 9540	TrkC
+#426	AnnotatorNotes T426	PR:000011471 (NT-3 growth factor receptor)
+T427	GO_BP 9541 9551	expression
+#427	AnnotatorNotes T427	GO:0010467 (gene expression)
+T428	GO_BP 9593 9600	sensory
+#428	AnnotatorNotes T428	GO:0007600 (sensory perception)
+T429	italic 9677 9681	NT-3
+#429	AnnotatorNotes T429	italic (null)
+T430	PR 9677 9681	NT-3
+#430	AnnotatorNotes T430	PR:000011459 (neurotrophin-3)
+T431	EntrezGene 9677 9681	NT-3
+#431	AnnotatorNotes T431	EG:18205
+T432	EntrezGene 9687 9691	TrkA
+#432	AnnotatorNotes T432	EG:18211
+T433	PR 9687 9691	TrkA
+#433	AnnotatorNotes T433	PR:000011469 (high affinity nerve growth factor receptor)
+T434	GO_CC 9701 9706	axons
+#434	AnnotatorNotes T434	GO:0030424 (axon)
+T435	EntrezGene 9759 9763	TrkC
+#435	AnnotatorNotes T435	EG:18213
+T436	PR 9759 9763	TrkC
+#436	AnnotatorNotes T436	PR:000011471 (NT-3 growth factor receptor)
+T437	GO_CC 9773 9778	axons
+#437	AnnotatorNotes T437	GO:0030424 (axon)
+T438	EntrezGene 9793 9797	TrkA
+#438	AnnotatorNotes T438	EG:18211
+T439	PR 9793 9797	TrkA
+#439	AnnotatorNotes T439	PR:000011469 (high affinity nerve growth factor receptor)
+T440	EntrezGene 9803 9807	TrkC
+#440	AnnotatorNotes T440	EG:18213
+T441	PR 9803 9807	TrkC
+#441	AnnotatorNotes T441	PR:000011471 (NT-3 growth factor receptor)
+T442	GO_CC 9816 9821	axons
+#442	AnnotatorNotes T442	GO:0030424 (axon)
+T443	SO 9842 9844	WT
+#443	AnnotatorNotes T443	SO:0000817 (wild_type)
+T444	italic 9846 9849	Bax
+#444	AnnotatorNotes T444	italic (null)
+T445	PR 9846 9849	Bax
+#445	AnnotatorNotes T445	PR:000002193 (apoptosis regulator BAX)
+T446	EntrezGene 9846 9849	Bax
+#446	AnnotatorNotes T446	EG:12028
+T447	NCBITaxon 9868 9875	animals
+#447	AnnotatorNotes T447	NCBITaxon:33208 (Metazoa)
+T448	GO_BP 9925 9939	proprioceptive
+#448	AnnotatorNotes T448	GO:0019230 (proprioception)
+T449	GO_CC 9940 9945	axons
+#449	AnnotatorNotes T449	GO:0030424 (axon)
+T450	EntrezGene 10064 10068	NT-3
+#450	AnnotatorNotes T450	EG:18205
+T451	PR 10064 10068	NT-3
+#451	AnnotatorNotes T451	PR:000011459 (neurotrophin-3)
+T452	PR 10071 10075	NT-3
+#452	AnnotatorNotes T452	PR:000011459 (neurotrophin-3)
+T453	independent_continuant 10081 10096	Chemoattractant
+#453	AnnotatorNotes T453	independent_continuant
+T454	GO_MF 10081 10096	Chemoattractant
+#454	AnnotatorNotes T454	GO:0042056 (chemoattractant activity)
+T455	GO_CC 10105 10110	Axons
+#455	AnnotatorNotes T455	GO:0030424 (axon)
+T456	PR 10149 10153	NT-3
+#456	AnnotatorNotes T456	PR:000011459 (neurotrophin-3)
+T457	independent_continuant 10164 10179	chemoattractant
+#457	AnnotatorNotes T457	independent_continuant
+T458	GO_MF 10164 10179	chemoattractant
+#458	AnnotatorNotes T458	GO:0042056 (chemoattractant activity)
+T459	GO_BP 10184 10191	sensory
+#459	AnnotatorNotes T459	GO:0007600 (sensory perception)
+T460	GO_CC 10192 10197	axons
+#460	AnnotatorNotes T460	GO:0030424 (axon)
+T461	GO_BP 10241 10255	Proprioceptive
+#461	AnnotatorNotes T461	GO:0019230 (proprioception)
+T462	GO_CC 10256 10261	axons
+#462	AnnotatorNotes T462	GO:0030424 (axon)
+T463	NCBITaxon 10265 10269	mice
+#463	AnnotatorNotes T463	NCBITaxon:10088 (Mus)
+T464	GO_BP 10315 10322	advance
+#464	AnnotatorNotes T464	GO:0032502 (developmental process)
+T465	CL 10378 10391	motor neurons
+#465	AnnotatorNotes T465	CL:0000100 (motor neuron)
+T466	GO_BP 10378 10383	motor
+#466	AnnotatorNotes T466	GO:0050879 (multicellular organismal movement)
+T467	GO_CC 10439 10447	collagen
+#467	AnnotatorNotes T467	GO:0005581 (collagen)
+T468	PR 10439 10447	collagen
+#468	AnnotatorNotes T468	PR:000003262 (collagen alpha chain)
+T469	SO 10461 10463	WT
+#469	AnnotatorNotes T469	SO:0000817 (wild_type)
+T470	PR 10482 10486	NT-3
+#470	AnnotatorNotes T470	PR:000011459 (neurotrophin-3)
+T471	italic 10511 10512	n
+#471	AnnotatorNotes T471	italic (null)
+T472	EntrezGene 10555 10575	bovine serum albumin
+#472	AnnotatorNotes T472	EG:280717
+T473	NCBITaxon 10555 10561	bovine
+#473	AnnotatorNotes T473	NCBITaxon:27592 (Bovinae)
+T474	PR 10562 10575	serum albumin
+#474	AnnotatorNotes T474	PR:000003918 (serum albumin)
+T475	EntrezGene 10577 10580	BSA
+#475	AnnotatorNotes T475	EG:280717
+T476	CHEBI 10586 10595	phosphate
+#476	AnnotatorNotes T476	CHEBI:26020 (phosphates)
+T477	CHEBI 10586 10595	phosphate
+#477	AnnotatorNotes T477	CHEBI:35780 (phosphate ions)
+T478	italic 10630 10631	n
+#478	AnnotatorNotes T478	italic (null)
+T479	GO_CC 10643 10648	axons
+#479	AnnotatorNotes T479	GO:0030424 (axon)
+T480	GO_BP 10655 10664	extending
+#480	AnnotatorNotes T480	GO:0048675 (axon extension)
+T481	GO_BP 10677 10686	localized
+#481	AnnotatorNotes T481	GO:0051179 (localization)
+T482	PR 10687 10691	NT-3
+#482	AnnotatorNotes T482	PR:000011459 (neurotrophin-3)
+T483	GO_BP 10763 10778	chemoattraction
+#483	AnnotatorNotes T483	GO:0050918 (positive chemotaxis)
+T484	EntrezGene 10842 10845	BSA
+#484	AnnotatorNotes T484	EG:280717
+T485	GO_BP 10892 10902	attraction
+#485	AnnotatorNotes T485	GO:0050918 (positive chemotaxis)
+T486	PR 10938 10942	NT-3
+#486	AnnotatorNotes T486	PR:000011459 (neurotrophin-3)
+T487	EntrezGene 10951 10954	Bax
+#487	AnnotatorNotes T487	EG:12028
+T488	PR 10951 10954	Bax
+#488	AnnotatorNotes T488	PR:000002193 (apoptosis regulator BAX)
+T489	GO_BP 10987 11002	chemoattraction
+#489	AnnotatorNotes T489	GO:0050918 (positive chemotaxis)
+T490	italic 11015 11018	n =
+#490	AnnotatorNotes T490	italic (null)
+T491	PR 11024 11028	NT-3
+#491	AnnotatorNotes T491	PR:000011459 (neurotrophin-3)
+T492	EntrezGene 11052 11056	TrkC
+#492	AnnotatorNotes T492	EG:18213
+T493	PR 11052 11056	TrkC
+#493	AnnotatorNotes T493	PR:000011471 (NT-3 growth factor receptor)
+T494	EntrezGene 11065 11071	p75NTR
+#494	AnnotatorNotes T494	EG:18053
+T495	PR 11065 11071	p75NTR
+#495	AnnotatorNotes T495	PR:000001405 (tumor necrosis factor receptor superfamily member 16)
+T496	sup 11068 11071	NTR
+#496	AnnotatorNotes T496	sup (null)
+T497	italic 11143 11149	p75NTR
+#497	AnnotatorNotes T497	italic (null)
+T498	PR 11143 11149	p75NTR
+#498	AnnotatorNotes T498	PR:000001405 (tumor necrosis factor receptor superfamily member 16)
+T499	EntrezGene 11143 11149	p75NTR
+#499	AnnotatorNotes T499	EG:18053
+T500	sup 11146 11149	NTR
+#500	AnnotatorNotes T500	sup (null)
+T501	NCBITaxon 11153 11157	mice
+#501	AnnotatorNotes T501	NCBITaxon:10088 (Mus)
+T502	italic 11159 11162	n =
+#502	AnnotatorNotes T502	italic (null)
+T503	GO_CC 11168 11173	Axons
+#503	AnnotatorNotes T503	GO:0030424 (axon)
+T504	GO_BP 11210 11225	chemoattraction
+#504	AnnotatorNotes T504	GO:0050918 (positive chemotaxis)
+T505	PR 11238 11242	NT-3
+#505	AnnotatorNotes T505	PR:000011459 (neurotrophin-3)
+T506	PR 11290 11304	TrkC receptors
+#506	AnnotatorNotes T506	PR:000011471 (NT-3 growth factor receptor)
+T507	independent_continuant 11295 11304	receptors
+#507	AnnotatorNotes T507	independent_continuant
+T508	GO_MF 11295 11304	receptors
+#508	AnnotatorNotes T508	GO:0004872 (receptor activity)
+T509	GO_BP 11305 11315	conjugated
+#509	AnnotatorNotes T509	GO:0043412 (biopolymer modification)
+T510	SO 11332 11339	regions
+#510	AnnotatorNotes T510	SO:0000001 (region)
+T511	PR 11341 11345	TrkC
+#511	AnnotatorNotes T511	PR:000011471 (NT-3 growth factor receptor)
+T512	italic 11371 11374	n =
+#512	AnnotatorNotes T512	italic (null)
+T513	PR 11397 11401	NT-3
+#513	AnnotatorNotes T513	PR:000011459 (neurotrophin-3)
+T514	GO_CC 11411 11419	collagen
+#514	AnnotatorNotes T514	GO:0005581 (collagen)
+T515	PR 11411 11419	collagen
+#515	AnnotatorNotes T515	PR:000003262 (collagen alpha chain)
+T516	PR 11457 11461	TrkC
+#516	AnnotatorNotes T516	PR:000011471 (NT-3 growth factor receptor)
+T517	GO_BP 11469 11484	chemoattraction
+#517	AnnotatorNotes T517	GO:0050918 (positive chemotaxis)
+T518	PR 11562 11566	NT-3
+#518	AnnotatorNotes T518	PR:000011459 (neurotrophin-3)
+T519	SO 11658 11660	WT
+#519	AnnotatorNotes T519	SO:0000817 (wild_type)
+T520	italic 11733 11736	n =
+#520	AnnotatorNotes T520	italic (null)
+T521	GO_BP 11784 11790	growth
+#521	AnnotatorNotes T521	GO:0040007 (growth)
+T522	GO_CC 11873 11878	axons
+#522	AnnotatorNotes T522	GO:0030424 (axon)
+T523	GO_BP 11897 11903	growth
+#523	AnnotatorNotes T523	GO:0040007 (growth)
+T524	PR 11983 11987	NT-3
+#524	AnnotatorNotes T524	PR:000011459 (neurotrophin-3)
+T525	PR 12062 12066	NT-3
+#525	AnnotatorNotes T525	PR:000011459 (neurotrophin-3)
+T526	italic 12075 12078	n =
+#526	AnnotatorNotes T526	italic (null)
+T527	italic 12134 12137	n =
+#527	AnnotatorNotes T527	italic (null)
+T528	GO_BP 12245 12252	growing
+#528	AnnotatorNotes T528	GO:0040007 (growth)
+T529	PR 12265 12269	NT-3
+#529	AnnotatorNotes T529	PR:000011459 (neurotrophin-3)
+T530	GO_BP 12315 12322	forming
+#530	AnnotatorNotes T530	GO:0032502 (developmental process)
+T531	GO_BP 12404 12412	directed
+#531	AnnotatorNotes T531	GO:0065007 (biological regulation)
+T532	GO_CC 12531 12536	axons
+#532	AnnotatorNotes T532	GO:0030424 (axon)
+T533	GO_CC 12600 12605	Axons
+#533	AnnotatorNotes T533	GO:0030424 (axon)
+T534	GO_BP 12669 12673	grow
+#534	AnnotatorNotes T534	GO:0040007 (growth)
+T535	GO_BP 12716 12725	localized
+#535	AnnotatorNotes T535	GO:0051179 (localization)
+T536	PR 12726 12730	NT-3
+#536	AnnotatorNotes T536	PR:000011459 (neurotrophin-3)
+T537	GO_CC 12747 12751	axon
+#537	AnnotatorNotes T537	GO:0030424 (axon)
+T538	GO_BP 12752 12758	growth
+#538	AnnotatorNotes T538	GO:0040007 (growth)
+T539	PR 12771 12775	NT-3
+#539	AnnotatorNotes T539	PR:000011459 (neurotrophin-3)
+T540	PR 12886 12890	NT-3
+#540	AnnotatorNotes T540	PR:000011459 (neurotrophin-3)
+T541	independent_continuant 12927 12942	chemoattractant
+#541	AnnotatorNotes T541	independent_continuant
+T542	GO_MF 12927 12942	chemoattractant
+#542	AnnotatorNotes T542	GO:0042056 (chemoattractant activity)
+T543	GO_CC 12951 12956	axons
+#543	AnnotatorNotes T543	GO:0030424 (axon)
+T544	PR 13010 13014	NT-3
+#544	AnnotatorNotes T544	PR:000011459 (neurotrophin-3)
+T545	GO_BP 13020 13035	chemoattractant
+#545	AnnotatorNotes T545	GO:0050918 (positive chemotaxis)
+T546	GO_BP 13046 13053	sensory
+#546	AnnotatorNotes T546	GO:0007600 (sensory perception)
+T547	GO_BP 13058 13063	motor
+#547	AnnotatorNotes T547	GO:0050879 (multicellular organismal movement)
+T548	GO_CC 13064 13069	axons
+#548	AnnotatorNotes T548	GO:0030424 (axon)
+T549	GO_BP 13088 13110	chemoattractant action
+#549	AnnotatorNotes T549	GO:0050918 (positive chemotaxis)
+T550	NCBITaxon 13128 13133	mouse
+#550	AnnotatorNotes T550	NCBITaxon:10088 (Mus)
+T551	CL 13175 13182	neurons
+#551	AnnotatorNotes T551	CL:0000540 (neuron)
+T552	EntrezGene 13230 13234	NT-3
+#552	AnnotatorNotes T552	EG:18205
+T553	PR 13230 13234	NT-3
+#553	AnnotatorNotes T553	PR:000011459 (neurotrophin-3)
+T554	EntrezGene 13239 13272	brain-derived neurotrophic factor
+#554	AnnotatorNotes T554	EG:12064
+T555	PR 13239 13272	brain-derived neurotrophic factor
+#555	AnnotatorNotes T555	PR:000004716 (brain-derived neurotrophic factor)
+T556	GO_BP 13253 13265	neurotrophic
+#556	AnnotatorNotes T556	GO:0048666 (neuron development)
+T557	EntrezGene 13274 13278	BDNF
+#557	AnnotatorNotes T557	EG:12064
+T558	PR 13274 13278	BDNF
+#558	AnnotatorNotes T558	PR:000004716 (brain-derived neurotrophic factor)
+T559	GO_BP 13347 13357	developing
+#559	AnnotatorNotes T559	GO:0032502 (developmental process)
+T560	GO_BP 13358 13365	sensory
+#560	AnnotatorNotes T560	GO:0007600 (sensory perception)
+T561	GO_BP 13370 13375	motor
+#561	AnnotatorNotes T561	GO:0050879 (multicellular organismal movement)
+T562	GO_CC 13376 13381	axons
+#562	AnnotatorNotes T562	GO:0030424 (axon)
+T563	GO_BP 13420 13424	grow
+#563	AnnotatorNotes T563	GO:0040007 (growth)
+T564	PR 13433 13445	neurotrophin
+#564	AnnotatorNotes T564	PR:000021998 (neurotrophin)
+T565	PR 13537 13549	neurotrophin
+#565	AnnotatorNotes T565	PR:000021998 (neurotrophin)
+T566	GO_CC 13568 13578	antibodies
+#566	AnnotatorNotes T566	GO:0019814 (immunoglobulin complex)
+T567	GO_BP 13599 13606	sensory
+#567	AnnotatorNotes T567	GO:0007600 (sensory perception)
+T568	GO_BP 13611 13616	motor
+#568	AnnotatorNotes T568	GO:0050879 (multicellular organismal movement)
+T569	GO_CC 13617 13621	axon
+#569	AnnotatorNotes T569	GO:0030424 (axon)
+T570	GO_BP 13622 13628	growth
+#570	AnnotatorNotes T570	GO:0040007 (growth)
+T571	SO 13650 13660	transgenic
+#571	AnnotatorNotes T571	SO:0000902 (transgene)
+T572	NCBITaxon 13661 13665	mice
+#572	AnnotatorNotes T572	NCBITaxon:10088 (Mus)
+T573	GO_BP 13678 13685	express
+#573	AnnotatorNotes T573	GO:0010467 (gene expression)
+T574	PR 13686 13690	NT-3
+#574	AnnotatorNotes T574	PR:000011459 (neurotrophin-3)
+T575	italic 13701 13707	nestin
+#575	AnnotatorNotes T575	italic (null)
+T576	PR 13701 13707	nestin
+#576	AnnotatorNotes T576	PR:000011141 (nestin)
+T577	SO 13708 13716	promoter
+#577	AnnotatorNotes T577	SO:0000167 (promoter)
+T578	GO_BP 13766 13780	proprioceptive
+#578	AnnotatorNotes T578	GO:0019230 (proprioception)
+T579	GO_BP 13807 13815	directed
+#579	AnnotatorNotes T579	GO:0065007 (biological regulation)
+T580	PR 13864 13868	NT-3
+#580	AnnotatorNotes T580	PR:000011459 (neurotrophin-3)
+T581	GO_BP 13869 13879	expression
+#581	AnnotatorNotes T581	GO:0010467 (gene expression)
+T582	PR 13973 13977	NT-3
+#582	AnnotatorNotes T582	PR:000011459 (neurotrophin-3)
+T583	GO_BP 13989 14004	chemoattractant
+#583	AnnotatorNotes T583	GO:0050918 (positive chemotaxis)
+T584	GO_BP 14053 14067	proprioceptive
+#584	AnnotatorNotes T584	GO:0019230 (proprioception)
+T585	GO_BP 14115 14129	proprioceptive
+#585	AnnotatorNotes T585	GO:0019230 (proprioception)
+T586	NCBITaxon 14155 14162	chicken
+#586	AnnotatorNotes T586	NCBITaxon:9031 (Gallus gallus)
+T587	PR 14210 14214	NT-3
+#587	AnnotatorNotes T587	PR:000011459 (neurotrophin-3)
+T588	GO_CC 14215 14223	antibody
+#588	AnnotatorNotes T588	GO:0019814 (immunoglobulin complex)
+T589	GO_CC 14359 14367	antibody
+#589	AnnotatorNotes T589	GO:0019814 (immunoglobulin complex)
+T590	EntrezGene 14384 14388	NT-3
+#590	AnnotatorNotes T590	EG:428099
+T591	PR 14384 14388	NT-3
+#591	AnnotatorNotes T591	PR:000011459 (neurotrophin-3)
+T592	CL 14399 14403	cell
+#592	AnnotatorNotes T592	CL:0000000 (cell)
+T593	GO_CC 14399 14403	cell
+#593	AnnotatorNotes T593	GO:0005623 (cell)
+T594	GO_BP 14563 14570	sensory
+#594	AnnotatorNotes T594	GO:0007600 (sensory perception)
+T595	GO_CC 14571 14576	axons
+#595	AnnotatorNotes T595	GO:0030424 (axon)
+T596	EntrezGene 14623 14627	NT-3
+#596	AnnotatorNotes T596	EG:18205
+T597	PR 14623 14627	NT-3
+#597	AnnotatorNotes T597	PR:000011459 (neurotrophin-3)
+T598	GO_BP 14637 14647	expression
+#598	AnnotatorNotes T598	GO:0010467 (gene expression)
+T599	PR 14651 14655	NT-3
+#599	AnnotatorNotes T599	PR:000011459 (neurotrophin-3)
+T600	GO_BP 14671 14680	targeting
+#600	AnnotatorNotes T600	GO:0007411 (axon guidance)
+T601	PR 14714 14726	neurotrophin
+#601	AnnotatorNotes T601	PR:000021998 (neurotrophin)
+T602	PR 14735 14739	BDNF
+#602	AnnotatorNotes T602	PR:000004716 (brain-derived neurotrophic factor)
+T603	independent_continuant 14772 14787	chemoattractant
+#603	AnnotatorNotes T603	independent_continuant
+T604	GO_MF 14772 14787	chemoattractant
+#604	AnnotatorNotes T604	GO:0042056 (chemoattractant activity)
+T605	GO_BP 14792 14799	sensory
+#605	AnnotatorNotes T605	GO:0007600 (sensory perception)
+T606	GO_CC 14800 14805	axons
+#606	AnnotatorNotes T606	GO:0030424 (axon)
+T607	SO 14853 14857	gene
+#607	AnnotatorNotes T607	SO:0000704 (gene)
+T608	PR 14888 14892	BDNF
+#608	AnnotatorNotes T608	PR:000004716 (brain-derived neurotrophic factor)
+T609	GO_BP 14893 14903	expression
+#609	AnnotatorNotes T609	GO:0010467 (gene expression)
+T610	GO_BP 14908 14914	driven
+#610	AnnotatorNotes T610	GO:0048518 (positive regulation of biological process)
+T611	PR 14922 14926	NT-3
+#611	AnnotatorNotes T611	PR:000011459 (neurotrophin-3)
+T612	SO 14927 14935	promoter
+#612	AnnotatorNotes T612	SO:0000167 (promoter)
+T613	GO_CC 14948 14953	axons
+#613	AnnotatorNotes T613	GO:0030424 (axon)
+T614	PR 14990 14994	BDNF
+#614	AnnotatorNotes T614	PR:000004716 (brain-derived neurotrophic factor)
+T615	GO_BP 15024 15033	expressed
+#615	AnnotatorNotes T615	GO:0010467 (gene expression)
+T616	PR 15034 15038	NT-3
+#616	AnnotatorNotes T616	PR:000011459 (neurotrophin-3)
+T617	GO_CC 15072 15077	axons
+#617	AnnotatorNotes T617	GO:0030424 (axon)
+T618	PR 15087 15091	NT-3
+#618	AnnotatorNotes T618	PR:000011459 (neurotrophin-3)
+T619	NCBITaxon 15125 15135	adenovirus
+#619	AnnotatorNotes T619	NCBITaxon:10508 (Adenoviridae)
+T620	GO_BP 15145 15155	expression
+#620	AnnotatorNotes T620	GO:0010467 (gene expression)
+T621	GO_BP 15156 15162	induce
+#621	AnnotatorNotes T621	GO:0031128 (induction)
+T622	GO_BP 15163 15170	sensory
+#622	AnnotatorNotes T622	GO:0007600 (sensory perception)
+T623	GO_CC 15171 15175	axon
+#623	AnnotatorNotes T623	GO:0030424 (axon)
+T624	GO_BP 15176 15182	growth
+#624	AnnotatorNotes T624	GO:0040007 (growth)
+T625	GO_BP 15190 15202	regeneration
+#625	AnnotatorNotes T625	GO:0031099 (regeneration)
+T626	GO_BP 15289 15295	induce
+#626	AnnotatorNotes T626	GO:0031128 (induction)
+T627	GO_CC 15296 15302	axonal
+#627	AnnotatorNotes T627	GO:0030424 (axon)
+T628	GO_CC 15331 15336	axons
+#628	AnnotatorNotes T628	GO:0030424 (axon)
+T629	GO_CC 15406 15411	axons
+#629	AnnotatorNotes T629	GO:0030424 (axon)
+T630	PR 15463 15467	NT-3
+#630	AnnotatorNotes T630	PR:000011459 (neurotrophin-3)
+T631	EntrezGene 15610 15614	NT-3
+#631	AnnotatorNotes T631	EG:18205
+T632	PR 15610 15614	NT-3
+#632	AnnotatorNotes T632	PR:000011459 (neurotrophin-3)
+T633	independent_continuant 15625 15640	chemoattractant
+#633	AnnotatorNotes T633	independent_continuant
+T634	GO_MF 15625 15640	chemoattractant
+#634	AnnotatorNotes T634	GO:0042056 (chemoattractant activity)
+T635	GO_BP 15645 15652	sensory
+#635	AnnotatorNotes T635	GO:0007600 (sensory perception)
+T636	CL 15684 15696	motor neuron
+#636	AnnotatorNotes T636	CL:0000100 (motor neuron)
+T637	GO_BP 15684 15689	motor
+#637	AnnotatorNotes T637	GO:0050879 (multicellular organismal movement)
+T638	italic 15724 15728	NT-3
+#638	AnnotatorNotes T638	italic (null)
+T639	PR 15724 15728	NT-3
+#639	AnnotatorNotes T639	PR:000011459 (neurotrophin-3)
+T640	NCBITaxon 15732 15739	animals
+#640	AnnotatorNotes T640	NCBITaxon:33208 (Metazoa)
+T641	GO_BP 15748 15758	expressing
+#641	AnnotatorNotes T641	GO:0010467 (gene expression)
+T642	PR 15759 15763	NT-3
+#642	AnnotatorNotes T642	PR:000011459 (neurotrophin-3)
+T643	EntrezGene 15842 15846	NT-3
+#643	AnnotatorNotes T643	EG:18205
+T644	PR 15842 15846	NT-3
+#644	AnnotatorNotes T644	PR:000011459 (neurotrophin-3)
+T645	GO_BP 15880 15894	proprioceptive
+#645	AnnotatorNotes T645	GO:0019230 (proprioception)
+T646	CL 15895 15902	neurons
+#646	AnnotatorNotes T646	CL:0000540 (neuron)
+T647	italic 15906 15910	NT-3
+#647	AnnotatorNotes T647	italic (null)
+T648	PR 15906 15910	NT-3
+#648	AnnotatorNotes T648	PR:000011459 (neurotrophin-3)
+T649	EntrezGene 15906 15910	NT-3
+#649	AnnotatorNotes T649	EG:18205
+T650	NCBITaxon 15914 15921	animals
+#650	AnnotatorNotes T650	NCBITaxon:33208 (Metazoa)
+T651	GO_BP 15933 15951	axonal pathfinding
+#651	AnnotatorNotes T651	GO:0007411 (axon guidance)
+T652	GO_CC 15933 15939	axonal
+#652	AnnotatorNotes T652	GO:0030424 (axon)
+T653	EntrezGene 16003 16007	NT-3
+#653	AnnotatorNotes T653	EG:18205
+T654	PR 16003 16007	NT-3
+#654	AnnotatorNotes T654	PR:000011459 (neurotrophin-3)
+T655	NCBITaxon 16057 16064	animals
+#655	AnnotatorNotes T655	NCBITaxon:33208 (Metazoa)
+T656	CL 16103 16116	motor neurons
+#656	AnnotatorNotes T656	CL:0000100 (motor neuron)
+T657	GO_BP 16103 16108	motor
+#657	AnnotatorNotes T657	GO:0050879 (multicellular organismal movement)
+T658	GO_BP 16134 16143	transport
+#658	AnnotatorNotes T658	GO:0006810 (transport)
+T659	PR 16144 16148	NT-3
+#659	AnnotatorNotes T659	PR:000011459 (neurotrophin-3)
+T660	EntrezGene 16233 16237	NT-3
+#660	AnnotatorNotes T660	EG:18205
+T661	PR 16233 16237	NT-3
+#661	AnnotatorNotes T661	PR:000011459 (neurotrophin-3)
+T662	NCBITaxon 16279 16283	mice
+#662	AnnotatorNotes T662	NCBITaxon:10088 (Mus)
+T663	italic 16368 16376	Bax/NT-3
+#663	AnnotatorNotes T663	italic (null)
+T664	EntrezGene 16368 16371	Bax
+#664	AnnotatorNotes T664	EG:12028
+T665	PR 16368 16371	Bax
+#665	AnnotatorNotes T665	PR:000002193 (apoptosis regulator BAX)
+T666	EntrezGene 16372 16376	NT-3
+#666	AnnotatorNotes T666	EG:18205
+T667	PR 16372 16376	NT-3
+#667	AnnotatorNotes T667	PR:000011459 (neurotrophin-3)
+T668	NCBITaxon 16387 16391	mice
+#668	AnnotatorNotes T668	NCBITaxon:10088 (Mus)
+T669	GO_BP 16397 16401	bred
+#669	AnnotatorNotes T669	GO:0000003 (reproduction)
+T670	GO_BP 16468 16482	proprioceptive
+#670	AnnotatorNotes T670	GO:0019230 (proprioception)
+T671	GO_BP 16556 16570	proprioceptive
+#671	AnnotatorNotes T671	GO:0019230 (proprioception)
+T672	EntrezGene 16684 16686	PV
+#672	AnnotatorNotes T672	EG:19293
+T673	PR 16684 16686	PV
+#673	AnnotatorNotes T673	PR:000013502 (parvalbumin alpha)
+T674	EntrezGene 16759 16761	PV
+#674	AnnotatorNotes T674	EG:19293
+T675	PR 16759 16761	PV
+#675	AnnotatorNotes T675	PR:000013502 (parvalbumin alpha)
+T676	italic 16798 16806	Bax/NT-3
+#676	AnnotatorNotes T676	italic (null)
+T677	EntrezGene 16798 16801	Bax
+#677	AnnotatorNotes T677	EG:12028
+T678	PR 16798 16801	Bax
+#678	AnnotatorNotes T678	PR:000002193 (apoptosis regulator BAX)
+T679	EntrezGene 16802 16806	NT-3
+#679	AnnotatorNotes T679	EG:18205
+T680	PR 16802 16806	NT-3
+#680	AnnotatorNotes T680	PR:000011459 (neurotrophin-3)
+T681	PR 16851 16864	neurotrophins
+#681	AnnotatorNotes T681	PR:000021998 (neurotrophin)
+T682	CHEBI 16888 16897	molecular
+#682	AnnotatorNotes T682	CHEBI:36357 (polyatomic entities)
+T683	GO_BP 16910 16924	proprioceptive
+#683	AnnotatorNotes T683	GO:0019230 (proprioception)
+T684	GO_CC 16925 16930	axons
+#684	AnnotatorNotes T684	GO:0030424 (axon)
+T685	EntrezGene 16939 16941	PV
+#685	AnnotatorNotes T685	EG:19293
+T686	PR 16939 16941	PV
+#686	AnnotatorNotes T686	PR:000013502 (parvalbumin alpha)
+T687	EntrezGene 16945 16976	calcitonin gene-related peptide
+#687	AnnotatorNotes T687	EG:12310
+T688	SO 16956 16960	gene
+#688	AnnotatorNotes T688	SO:0000704 (gene)
+T689	SO 16969 16976	peptide
+#689	AnnotatorNotes T689	SO:0001407 (peptidyl)
+T690	EntrezGene 16981 17000	nerve growth factor
+#690	AnnotatorNotes T690	EG:18049
+T691	PR 16981 17000	nerve growth factor
+#691	AnnotatorNotes T691	PR:000011194 (beta-nerve growth factor)
+T692	GO_MF 16987 17000	growth factor
+#692	AnnotatorNotes T692	GO:0008083 (growth factor activity)
+T693	independent_continuant 16987 17000	growth factor
+#693	AnnotatorNotes T693	independent_continuant
+T694	GO_BP 16987 16993	growth
+#694	AnnotatorNotes T694	GO:0040007 (growth)
+T695	GO_BP 17001 17011	responsive
+#695	AnnotatorNotes T695	GO:0050896 (response to stimulus)
+T696	GO_CC 17012 17017	axons
+#696	AnnotatorNotes T696	GO:0030424 (axon)
+T697	EntrezGene 17083 17085	PV
+#697	AnnotatorNotes T697	EG:19293
+T698	PR 17083 17085	PV
+#698	AnnotatorNotes T698	PR:000013502 (parvalbumin alpha)
+T699	italic 17104 17112	Bax/NT-3
+#699	AnnotatorNotes T699	italic (null)
+T700	EntrezGene 17104 17107	Bax
+#700	AnnotatorNotes T700	EG:12028
+T701	PR 17104 17107	Bax
+#701	AnnotatorNotes T701	PR:000002193 (apoptosis regulator BAX)
+T702	EntrezGene 17108 17112	NT-3
+#702	AnnotatorNotes T702	EG:18205
+T703	PR 17108 17112	NT-3
+#703	AnnotatorNotes T703	PR:000011459 (neurotrophin-3)
+T704	GO_BP 17152 17166	proprioceptive
+#704	AnnotatorNotes T704	GO:0019230 (proprioception)
+T705	GO_CC 17167 17172	axons
+#705	AnnotatorNotes T705	GO:0030424 (axon)
+T706	GO_BP 17289 17299	expressing
+#706	AnnotatorNotes T706	GO:0010467 (gene expression)
+T707	EntrezGene 17300 17304	TrkC
+#707	AnnotatorNotes T707	EG:29613
+T708	PR 17300 17304	TrkC
+#708	AnnotatorNotes T708	PR:000011471 (NT-3 growth factor receptor)
+T709	SO 17305 17308	RNA
+#709	AnnotatorNotes T709	SO:0000356 (RNA)
+T710	NCBITaxon 17322 17325	rat
+#710	AnnotatorNotes T710	NCBITaxon:10114 (Rattus)
+T711	PR 17460 17464	TrkC
+#711	AnnotatorNotes T711	PR:000011471 (NT-3 growth factor receptor)
+T712	CHEBI 17465 17472	protein
+#712	AnnotatorNotes T712	CHEBI:36080 (proteins)
+T713	GO_BP 17481 17485	made
+#713	AnnotatorNotes T713	GO:0009058 (biosynthetic process)
+T714	GO_BP 17536 17547	development
+#714	AnnotatorNotes T714	GO:0032502 (developmental process)
+T715	independent_continuant 17553 17561	receptor
+#715	AnnotatorNotes T715	independent_continuant
+T716	GO_MF 17553 17561	receptor
+#716	AnnotatorNotes T716	GO:0004872 (receptor activity)
+T717	GO_BP 17565 17574	expressed
+#717	AnnotatorNotes T717	GO:0010467 (gene expression)
+T718	GO_CC 17588 17593	axons
+#718	AnnotatorNotes T718	GO:0030424 (axon)
+T719	GO_BP 17644 17658	proprioceptive
+#719	AnnotatorNotes T719	GO:0019230 (proprioception)
+T720	CL 17659 17666	neurons
+#720	AnnotatorNotes T720	CL:0000540 (neuron)
+T721	GO_BP 17671 17681	eliminated
+#721	AnnotatorNotes T721	GO:0012501 (programmed cell death)
+T722	EntrezGene 17685 17689	NT-3
+#722	AnnotatorNotes T722	EG:18205
+T723	PR 17685 17689	NT-3
+#723	AnnotatorNotes T723	PR:000011459 (neurotrophin-3)
+T724	EntrezGene 17693 17697	TrkC
+#724	AnnotatorNotes T724	EG:18213
+T725	PR 17693 17697	TrkC
+#725	AnnotatorNotes T725	PR:000011471 (NT-3 growth factor receptor)
+T726	NCBITaxon 17703 17707	mice
+#726	AnnotatorNotes T726	NCBITaxon:10088 (Mus)
+T727	EntrezGene 17723 17727	TrkC
+#727	AnnotatorNotes T727	EG:18213
+T728	PR 17723 17727	TrkC
+#728	AnnotatorNotes T728	PR:000011471 (NT-3 growth factor receptor)
+T729	GO_BP 17775 17789	proprioceptive
+#729	AnnotatorNotes T729	GO:0019230 (proprioception)
+T730	GO_CC 17790 17795	axons
+#730	AnnotatorNotes T730	GO:0030424 (axon)
+T731	EntrezGene 17884 17888	NT-3
+#731	AnnotatorNotes T731	EG:18205
+T732	PR 17884 17888	NT-3
+#732	AnnotatorNotes T732	PR:000011459 (neurotrophin-3)
+T733	GO_BP 17937 17952	differentiation
+#733	AnnotatorNotes T733	GO:0030154 (cell differentiation)
+T734	GO_BP 17960 17974	proprioceptive
+#734	AnnotatorNotes T734	GO:0019230 (proprioception)
+T735	GO_CC 17975 17980	axons
+#735	AnnotatorNotes T735	GO:0030424 (axon)
+T736	GO_CC 18036 18041	axons
+#736	AnnotatorNotes T736	GO:0030424 (axon)
+T737	GO_BP 18116 18130	proprioceptive
+#737	AnnotatorNotes T737	GO:0019230 (proprioception)
+T738	GO_CC 18131 18136	axons
+#738	AnnotatorNotes T738	GO:0030424 (axon)
+T739	italic 18226 18234	Bax/NT-3
+#739	AnnotatorNotes T739	italic (null)
+T740	EntrezGene 18226 18229	Bax
+#740	AnnotatorNotes T740	EG:12028
+T741	PR 18226 18229	Bax
+#741	AnnotatorNotes T741	PR:000002193 (apoptosis regulator BAX)
+T742	EntrezGene 18230 18234	NT-3
+#742	AnnotatorNotes T742	EG:18205
+T743	PR 18230 18234	NT-3
+#743	AnnotatorNotes T743	PR:000011459 (neurotrophin-3)
+T744	GO_CC 18325 18330	axons
+#744	AnnotatorNotes T744	GO:0030424 (axon)
+T745	italic 18408 18411	n =
+#745	AnnotatorNotes T745	italic (null)
+T746	GO_CC 18450 18455	axons
+#746	AnnotatorNotes T746	GO:0030424 (axon)
+T747	GO_CC 18469 18485	terminal boutons
+#747	AnnotatorNotes T747	GO:0043195 (terminal button)
+T748	italic 18549 18552	n =
+#748	AnnotatorNotes T748	italic (null)
+T749	GO_CC 18588 18593	axons
+#749	AnnotatorNotes T749	GO:0030424 (axon)
+T750	GO_CC 18671 18687	terminal boutons
+#750	AnnotatorNotes T750	GO:0043195 (terminal button)
+T751	GO_MF 18794 18815	transcription factors
+#751	AnnotatorNotes T751	GO:0003700 (transcription factor activity)
+T752	independent_continuant 18794 18815	transcription factors
+#752	AnnotatorNotes T752	independent_continuant
+T753	GO_BP 18794 18807	transcription
+#753	AnnotatorNotes T753	GO:0006350 (transcription)
+T754	PR 18817 18821	Er81
+#754	AnnotatorNotes T754	PR:000007223 (ETS translocation variant 1)
+T755	PR 18826 18830	Pea3
+#755	AnnotatorNotes T755	PR:000007227 (ETS translocation variant 4)
+T756	GO_BP 18836 18845	expressed
+#756	AnnotatorNotes T756	GO:0010467 (gene expression)
+T757	CL 18853 18860	neurons
+#757	AnnotatorNotes T757	CL:0000540 (neuron)
+T758	CL 18872 18885	motor neurons
+#758	AnnotatorNotes T758	CL:0000100 (motor neuron)
+T759	GO_BP 18872 18877	motor
+#759	AnnotatorNotes T759	GO:0050879 (multicellular organismal movement)
+T760	italic 18956 18960	Er81
+#760	AnnotatorNotes T760	italic (null)
+T761	EntrezGene 18956 18960	Er81
+#761	AnnotatorNotes T761	EG:14009
+T762	PR 18956 18960	Er81
+#762	AnnotatorNotes T762	PR:000007223 (ETS translocation variant 1)
+T763	NCBITaxon 18964 18968	mice
+#763	AnnotatorNotes T763	NCBITaxon:10088 (Mus)
+T764	GO_CC 18978 18989	projections
+#764	AnnotatorNotes T764	GO:0042995 (cell projection)
+T765	GO_BP 18993 19007	proprioceptive
+#765	AnnotatorNotes T765	GO:0019230 (proprioception)
+T766	GO_CC 19008 19013	axons
+#766	AnnotatorNotes T766	GO:0030424 (axon)
+T767	GO_CC 19047 19052	axons
+#767	AnnotatorNotes T767	GO:0030424 (axon)
+T768	italic 19149 19157	Bax/NT-3
+#768	AnnotatorNotes T768	italic (null)
+T769	EntrezGene 19149 19152	Bax
+#769	AnnotatorNotes T769	EG:12028
+T770	PR 19149 19152	Bax
+#770	AnnotatorNotes T770	PR:000002193 (apoptosis regulator BAX)
+T771	EntrezGene 19153 19157	NT-3
+#771	AnnotatorNotes T771	EG:18205
+T772	PR 19153 19157	NT-3
+#772	AnnotatorNotes T772	PR:000011459 (neurotrophin-3)
+T773	NCBITaxon 19168 19172	mice
+#773	AnnotatorNotes T773	NCBITaxon:10088 (Mus)
+T774	italic 19201 19205	Er81
+#774	AnnotatorNotes T774	italic (null)
+T775	EntrezGene 19201 19205	Er81
+#775	AnnotatorNotes T775	EG:14009
+T776	PR 19201 19205	Er81
+#776	AnnotatorNotes T776	PR:000007223 (ETS translocation variant 1)
+T777	NCBITaxon 19209 19213	mice
+#777	AnnotatorNotes T777	NCBITaxon:10088 (Mus)
+T778	PR 19242 19246	NT-3
+#778	AnnotatorNotes T778	PR:000011459 (neurotrophin-3)
+T779	PR 19255 19259	Er81
+#779	AnnotatorNotes T779	PR:000007223 (ETS translocation variant 1)
+T780	GO_BP 19260 19270	expression
+#780	AnnotatorNotes T780	GO:0010467 (gene expression)
+T781	EntrezGene 19329 19333	Er81
+#781	AnnotatorNotes T781	EG:14009
+T782	PR 19329 19333	Er81
+#782	AnnotatorNotes T782	PR:000007223 (ETS translocation variant 1)
+T783	CHEBI 19334 19338	mRNA
+#783	AnnotatorNotes T783	CHEBI:33699 (messenger RNA)
+T784	SO 19334 19338	mRNA
+#784	AnnotatorNotes T784	SO:0000234 (mRNA)
+T785	GO_BP 19339 19349	expression
+#785	AnnotatorNotes T785	GO:0010467 (gene expression)
+T786	italic 19392 19396	NT-3
+#786	AnnotatorNotes T786	italic (null)
+T787	PR 19392 19396	NT-3
+#787	AnnotatorNotes T787	PR:000011459 (neurotrophin-3)
+T788	EntrezGene 19392 19396	NT-3
+#788	AnnotatorNotes T788	EG:18205
+T789	italic 19404 19412	Bax/NT-3
+#789	AnnotatorNotes T789	italic (null)
+T790	EntrezGene 19404 19407	Bax
+#790	AnnotatorNotes T790	EG:12028
+T791	PR 19404 19407	Bax
+#791	AnnotatorNotes T791	PR:000002193 (apoptosis regulator BAX)
+T792	EntrezGene 19408 19412	NT-3
+#792	AnnotatorNotes T792	EG:18205
+T793	PR 19408 19412	NT-3
+#793	AnnotatorNotes T793	PR:000011459 (neurotrophin-3)
+T794	NCBITaxon 19423 19427	mice
+#794	AnnotatorNotes T794	NCBITaxon:10088 (Mus)
+T795	CHEBI 19478 19485	protein
+#795	AnnotatorNotes T795	CHEBI:36080 (proteins)
+T796	GO_BP 19486 19496	expression
+#796	AnnotatorNotes T796	GO:0010467 (gene expression)
+T797	NCBITaxon 19514 19518	mice
+#797	AnnotatorNotes T797	NCBITaxon:10088 (Mus)
+T798	CL 19586 19591	cells
+#798	AnnotatorNotes T798	CL:0000000 (cell)
+T799	GO_CC 19586 19591	cells
+#799	AnnotatorNotes T799	GO:0005623 (cell)
+T800	GO_BP 19592 19599	express
+#800	AnnotatorNotes T800	GO:0010467 (gene expression)
+T801	GO_MF 19604 19624	transcription factor
+#801	AnnotatorNotes T801	GO:0003700 (transcription factor activity)
+T802	independent_continuant 19604 19624	transcription factor
+#802	AnnotatorNotes T802	independent_continuant
+T803	GO_BP 19604 19617	transcription
+#803	AnnotatorNotes T803	GO:0006350 (transcription)
+T804	EntrezGene 19625 19629	Er81
+#804	AnnotatorNotes T804	EG:14009
+T805	PR 19625 19629	Er81
+#805	AnnotatorNotes T805	PR:000007223 (ETS translocation variant 1)
+T806	GO_CC 19645 19650	axons
+#806	AnnotatorNotes T806	GO:0030424 (axon)
+T807	GO_BP 19651 19655	grow
+#807	AnnotatorNotes T807	GO:0040007 (growth)
+T808	italic 19709 19717	Bax/NT-3
+#808	AnnotatorNotes T808	italic (null)
+T809	EntrezGene 19709 19712	Bax
+#809	AnnotatorNotes T809	EG:12028
+T810	PR 19709 19712	Bax
+#810	AnnotatorNotes T810	PR:000002193 (apoptosis regulator BAX)
+T811	EntrezGene 19713 19717	NT-3
+#811	AnnotatorNotes T811	EG:18205
+T812	PR 19713 19717	NT-3
+#812	AnnotatorNotes T812	PR:000011459 (neurotrophin-3)
+T813	NCBITaxon 19728 19732	mice
+#813	AnnotatorNotes T813	NCBITaxon:10088 (Mus)
+T814	italic 19757 19761	Er81
+#814	AnnotatorNotes T814	italic (null)
+T815	PR 19757 19761	Er81
+#815	AnnotatorNotes T815	PR:000007223 (ETS translocation variant 1)
+T816	EntrezGene 19757 19761	Er81
+#816	AnnotatorNotes T816	EG:14009
+T817	NCBITaxon 19765 19769	mice
+#817	AnnotatorNotes T817	NCBITaxon:10088 (Mus)
+T818	GO_BP 19798 19812	proprioceptive
+#818	AnnotatorNotes T818	GO:0019230 (proprioception)
+T819	GO_CC 19813 19818	axons
+#819	AnnotatorNotes T819	GO:0030424 (axon)
+T820	GO_CC 19896 19901	axons
+#820	AnnotatorNotes T820	GO:0030424 (axon)
+T821	GO_BP 19954 19960	target
+#821	AnnotatorNotes T821	GO:0007411 (axon guidance)
+T822	CL 19977 19990	motor neurons
+#822	AnnotatorNotes T822	CL:0000100 (motor neuron)
+T823	GO_BP 19977 19982	motor
+#823	AnnotatorNotes T823	GO:0050879 (multicellular organismal movement)
+T824	sup 20070 20073	DTA
+#824	AnnotatorNotes T824	sup (null)
+T825	NCBITaxon 20074 20078	mice
+#825	AnnotatorNotes T825	NCBITaxon:10088 (Mus)
+T826	CL 20120 20133	motor neurons
+#826	AnnotatorNotes T826	CL:0000100 (motor neuron)
+T827	GO_BP 20120 20125	motor
+#827	AnnotatorNotes T827	GO:0050879 (multicellular organismal movement)
+T828	NCBITaxon 20164 20168	mice
+#828	AnnotatorNotes T828	NCBITaxon:10088 (Mus)
+T829	EntrezGene 20169 20171	PV
+#829	AnnotatorNotes T829	EG:19293
+T830	PR 20169 20171	PV
+#830	AnnotatorNotes T830	PR:000013502 (parvalbumin alpha)
+T831	GO_CC 20193 20198	axons
+#831	AnnotatorNotes T831	GO:0030424 (axon)
+T832	CL 20251 20264	motor neurons
+#832	AnnotatorNotes T832	CL:0000100 (motor neuron)
+T833	GO_BP 20251 20256	motor
+#833	AnnotatorNotes T833	GO:0050879 (multicellular organismal movement)
+T834	NCBITaxon 20285 20289	mice
+#834	AnnotatorNotes T834	NCBITaxon:10088 (Mus)
+T835	EntrezGene 20291 20295	NT-3
+#835	AnnotatorNotes T835	EG:18205
+T836	PR 20291 20295	NT-3
+#836	AnnotatorNotes T836	PR:000011459 (neurotrophin-3)
+T837	GO_BP 20296 20304	secreted
+#837	AnnotatorNotes T837	GO:0046903 (secretion)
+T838	GO_BP 20339 20353	proprioceptive
+#838	AnnotatorNotes T838	GO:0019230 (proprioception)
+T839	GO_CC 20354 20359	axons
+#839	AnnotatorNotes T839	GO:0030424 (axon)
+T840	GO_BP 20381 20386	motor
+#840	AnnotatorNotes T840	GO:0050879 (multicellular organismal movement)
+T841	EntrezGene 20439 20443	NT-3
+#841	AnnotatorNotes T841	EG:18205
+T842	PR 20439 20443	NT-3
+#842	AnnotatorNotes T842	PR:000011459 (neurotrophin-3)
+T843	CHEBI 20444 20448	mRNA
+#843	AnnotatorNotes T843	CHEBI:33699 (messenger RNA)
+T844	SO 20444 20448	mRNA
+#844	AnnotatorNotes T844	SO:0000234 (mRNA)
+T845	CHEBI 20452 20459	protein
+#845	AnnotatorNotes T845	CHEBI:36080 (proteins)
+T846	GO_BP 20460 20469	expressed
+#846	AnnotatorNotes T846	GO:0010467 (gene expression)
+T847	CL 20517 20530	motor neurons
+#847	AnnotatorNotes T847	CL:0000100 (motor neuron)
+T848	GO_BP 20517 20522	motor
+#848	AnnotatorNotes T848	GO:0050879 (multicellular organismal movement)
+T849	sup 20589 20592	DTA
+#849	AnnotatorNotes T849	sup (null)
+T850	NCBITaxon 20593 20597	mice
+#850	AnnotatorNotes T850	NCBITaxon:10088 (Mus)
+T851	EntrezGene 20599 20603	NT-3
+#851	AnnotatorNotes T851	EG:18205
+T852	PR 20599 20603	NT-3
+#852	AnnotatorNotes T852	PR:000011459 (neurotrophin-3)
+T853	GO_BP 20604 20614	expression
+#853	AnnotatorNotes T853	GO:0010467 (gene expression)
+T854	NCBITaxon 20713 20717	mice
+#854	AnnotatorNotes T854	NCBITaxon:10088 (Mus)
+T855	EntrezGene 20727 20731	NT-3
+#855	AnnotatorNotes T855	EG:18205
+T856	PR 20727 20731	NT-3
+#856	AnnotatorNotes T856	PR:000011459 (neurotrophin-3)
+T857	CHEBI 20732 20736	mRNA
+#857	AnnotatorNotes T857	CHEBI:33699 (messenger RNA)
+T858	SO 20732 20736	mRNA
+#858	AnnotatorNotes T858	SO:0000234 (mRNA)
+T859	CHEBI 20813 20817	mRNA
+#859	AnnotatorNotes T859	CHEBI:33699 (messenger RNA)
+T860	SO 20813 20817	mRNA
+#860	AnnotatorNotes T860	SO:0000234 (mRNA)
+T861	CHEBI 20822 20829	protein
+#861	AnnotatorNotes T861	CHEBI:36080 (proteins)
+T862	GO_BP 20834 20843	expressed
+#862	AnnotatorNotes T862	GO:0010467 (gene expression)
+T863	CL 20854 20867	motor neurons
+#863	AnnotatorNotes T863	CL:0000100 (motor neuron)
+T864	GO_BP 20854 20859	motor
+#864	AnnotatorNotes T864	GO:0050879 (multicellular organismal movement)
+T865	CL 20901 20914	motor neurons
+#865	AnnotatorNotes T865	CL:0000100 (motor neuron)
+T866	GO_BP 20901 20906	motor
+#866	AnnotatorNotes T866	GO:0050879 (multicellular organismal movement)
+T867	GO_BP 20915 20922	express
+#867	AnnotatorNotes T867	GO:0010467 (gene expression)
+T868	PR 20938 20942	NT-3
+#868	AnnotatorNotes T868	PR:000011459 (neurotrophin-3)
+T869	CL 20950 20955	cells
+#869	AnnotatorNotes T869	CL:0000000 (cell)
+T870	GO_CC 20950 20955	cells
+#870	AnnotatorNotes T870	GO:0005623 (cell)
+T871	CL 20967 20971	glia
+#871	AnnotatorNotes T871	CL:0000125 (glial cell)
+T872	GO_BP 20978 20985	express
+#872	AnnotatorNotes T872	GO:0010467 (gene expression)
+T873	SO 21093 21103	transgenic
+#873	AnnotatorNotes T873	SO:0000902 (transgene)
+T874	NCBITaxon 21104 21108	mice
+#874	AnnotatorNotes T874	NCBITaxon:10088 (Mus)
+T875	PR 21114 21118	NT-3
+#875	AnnotatorNotes T875	PR:000011459 (neurotrophin-3)
+T876	GO_BP 21124 21134	expression
+#876	AnnotatorNotes T876	GO:0010467 (gene expression)
+T877	PR 21218 21222	NT-3
+#877	AnnotatorNotes T877	PR:000011459 (neurotrophin-3)
+T878	GO_BP 21226 21241	chemoattractant
+#878	AnnotatorNotes T878	GO:0050918 (positive chemotaxis)
+T879	GO_BP 21242 21255	axon guidance
+#879	AnnotatorNotes T879	GO:0007411 (axon guidance)
+T880	GO_CC 21242 21246	axon
+#880	AnnotatorNotes T880	GO:0030424 (axon)
+T881	GO_BP 21259 21273	proprioceptive
+#881	AnnotatorNotes T881	GO:0019230 (proprioception)
+T882	GO_CC 21274 21279	axons
+#882	AnnotatorNotes T882	GO:0030424 (axon)
+T883	GO_BP 21345 21360	chemoattraction
+#883	AnnotatorNotes T883	GO:0050918 (positive chemotaxis)
+T884	CL 21368 21375	neurons
+#884	AnnotatorNotes T884	CL:0000540 (neuron)
+T885	GO_BP 21379 21388	localized
+#885	AnnotatorNotes T885	GO:0051179 (localization)
+T886	PR 21400 21404	NT-3
+#886	AnnotatorNotes T886	PR:000011459 (neurotrophin-3)
+T887	GO_BP 21411 21419	response
+#887	AnnotatorNotes T887	GO:0050896 (response to stimulus)
+T888	SO 21431 21433	WT
+#888	AnnotatorNotes T888	SO:0000817 (wild_type)
+T889	EntrezGene 21435 21438	Bax
+#889	AnnotatorNotes T889	EG:12028
+T890	PR 21435 21438	Bax
+#890	AnnotatorNotes T890	PR:000002193 (apoptosis regulator BAX)
+T891	EntrezGene 21451 21454	p75
+#891	AnnotatorNotes T891	EG:18053
+T892	PR 21451 21454	p75
+#892	AnnotatorNotes T892	PR:000001405 (tumor necrosis factor receptor superfamily member 16)
+T893	PR 21506 21519	neurotrophins
+#893	AnnotatorNotes T893	PR:000021998 (neurotrophin)
+T894	GO_BP 21538 21551	axon guidance
+#894	AnnotatorNotes T894	GO:0007411 (axon guidance)
+T895	GO_CC 21538 21542	axon
+#895	AnnotatorNotes T895	GO:0030424 (axon)
+T896	CHEBI 21552 21561	molecules
+#896	AnnotatorNotes T896	CHEBI:36357 (polyatomic entities)
+T897	GO_BP 21586 21593	sensory
+#897	AnnotatorNotes T897	GO:0007600 (sensory perception)
+T898	GO_CC 21594 21598	axon
+#898	AnnotatorNotes T898	GO:0030424 (axon)
+T899	GO_BP 21599 21607	response
+#899	AnnotatorNotes T899	GO:0050896 (response to stimulus)
+T900	PR 21611 21615	NT-3
+#900	AnnotatorNotes T900	PR:000011459 (neurotrophin-3)
+T901	PR 21698 21702	NT-3
+#901	AnnotatorNotes T901	PR:000011459 (neurotrophin-3)
+T902	GO_BP 21717 21727	attracting
+#902	AnnotatorNotes T902	GO:0050918 (positive chemotaxis)
+T903	GO_CC 21728 21733	axons
+#903	AnnotatorNotes T903	GO:0030424 (axon)
+T904	GO_CC 21767 21775	collagen
+#904	AnnotatorNotes T904	GO:0005581 (collagen)
+T905	PR 21767 21775	collagen
+#905	AnnotatorNotes T905	PR:000003262 (collagen alpha chain)
+T906	GO_BP 21833 21840	attract
+#906	AnnotatorNotes T906	GO:0050918 (positive chemotaxis)
+T907	GO_CC 21841 21846	axons
+#907	AnnotatorNotes T907	GO:0030424 (axon)
+T908	GO_BP 21854 21865	development
+#908	AnnotatorNotes T908	GO:0032502 (developmental process)
+T909	PR 21924 21928	NT-3
+#909	AnnotatorNotes T909	PR:000011459 (neurotrophin-3)
+T910	GO_BP 21932 21942	developing
+#910	AnnotatorNotes T910	GO:0032502 (developmental process)
+T911	GO_BP 21951 21958	sensory
+#911	AnnotatorNotes T911	GO:0007600 (sensory perception)
+T912	GO_CC 21959 21964	axons
+#912	AnnotatorNotes T912	GO:0030424 (axon)
+T913	PR 21990 22002	neurotrophin
+#913	AnnotatorNotes T913	PR:000021998 (neurotrophin)
+T914	GO_BP 22007 22014	attract
+#914	AnnotatorNotes T914	GO:0050918 (positive chemotaxis)
+T915	GO_BP 22019 22025	induce
+#915	AnnotatorNotes T915	GO:0031128 (induction)
+T916	GO_CC 22026 22032	axonal
+#916	AnnotatorNotes T916	GO:0030424 (axon)
+T917	GO_BP 22033 22042	branching
+#917	AnnotatorNotes T917	GO:0001763 (morphogenesis of a branching structure)
+T918	GO_BP 22150 22164	reflex pathway
+#918	AnnotatorNotes T918	GO:0060004 (reflex)
+T919	PR 22171 22176	Wnt-3
+#919	AnnotatorNotes T919	PR:000017442 (proto-oncogene protein Wnt-3)
+T920	GO_CC 22203 22207	axon
+#920	AnnotatorNotes T920	GO:0030424 (axon)
+T921	CHEBI 22278 22286	molecule
+#921	AnnotatorNotes T921	CHEBI:36357 (polyatomic entities)
+T922	PR 22288 22293	Slit2
+#922	AnnotatorNotes T922	PR:000015235 (slit 2 protein)
+T923	GO_BP 22295 22304	expressed
+#923	AnnotatorNotes T923	GO:0010467 (gene expression)
+T924	CL 22327 22340	motor neurons
+#924	AnnotatorNotes T924	CL:0000100 (motor neuron)
+T925	GO_BP 22327 22332	motor
+#925	AnnotatorNotes T925	GO:0050879 (multicellular organismal movement)
+T926	GO_BP 22374 22382	inducing
+#926	AnnotatorNotes T926	GO:0031128 (induction)
+T927	GO_CC 22383 22389	axonal
+#927	AnnotatorNotes T927	GO:0030424 (axon)
+T928	GO_BP 22390 22399	branching
+#928	AnnotatorNotes T928	GO:0001763 (morphogenesis of a branching structure)
+T929	CL 22466 22473	neurons
+#929	AnnotatorNotes T929	CL:0000540 (neuron)
+T930	GO_BP 22474 22481	express
+#930	AnnotatorNotes T930	GO:0010467 (gene expression)
+T931	independent_continuant 22487 22496	receptors
+#931	AnnotatorNotes T931	independent_continuant
+T932	GO_MF 22487 22496	receptors
+#932	AnnotatorNotes T932	GO:0004872 (receptor activity)
+T933	GO_MF 22504 22508	bind
+#933	AnnotatorNotes T933	GO:0005488 (binding)
+T934	GO_BP 22523 22537	proprioceptive
+#934	AnnotatorNotes T934	GO:0019230 (proprioception)
+T935	GO_CC 22538 22543	axons
+#935	AnnotatorNotes T935	GO:0030424 (axon)
+T936	GO_BP 22569 22579	responding
+#936	AnnotatorNotes T936	GO:0050896 (response to stimulus)
+T937	PR 22616 22621	Slit2
+#937	AnnotatorNotes T937	PR:000015235 (slit 2 protein)
+T938	PR 22650 22654	NT-3
+#938	AnnotatorNotes T938	PR:000011459 (neurotrophin-3)
+T939	GO_BP 22655 22665	responsive
+#939	AnnotatorNotes T939	GO:0050896 (response to stimulus)
+T940	GO_CC 22670 22675	axons
+#940	AnnotatorNotes T940	GO:0030424 (axon)
+T941	GO_BP 22737 22746	branching
+#941	AnnotatorNotes T941	GO:0001763 (morphogenesis of a branching structure)
+T942	GO_CC 22778 22783	axons
+#942	AnnotatorNotes T942	GO:0030424 (axon)
+T943	EntrezGene 22838 22843	Slit2
+#943	AnnotatorNotes T943	EG:20563
+T944	PR 22838 22843	Slit2
+#944	AnnotatorNotes T944	PR:000015235 (slit 2 protein)
+T945	GO_BP 22879 22888	branching
+#945	AnnotatorNotes T945	GO:0001763 (morphogenesis of a branching structure)
+T946	GO_BP 22892 22905	propioceptive
+#946	AnnotatorNotes T946	GO:0019230 (proprioception)
+T947	GO_CC 22906 22911	axons
+#947	AnnotatorNotes T947	GO:0030424 (axon)
+T948	GO_BP 22951 22960	branching
+#948	AnnotatorNotes T948	GO:0001763 (morphogenesis of a branching structure)
+T949	EntrezGene 22998 23000	PV
+#949	AnnotatorNotes T949	EG:19293
+T950	PR 22998 23000	PV
+#950	AnnotatorNotes T950	PR:000013502 (parvalbumin alpha)
+T951	GO_BP 23001 23011	expression
+#951	AnnotatorNotes T951	GO:0010467 (gene expression)
+T952	italic 23015 23023	Bax/NT-3
+#952	AnnotatorNotes T952	italic (null)
+T953	EntrezGene 23015 23018	Bax
+#953	AnnotatorNotes T953	EG:12028
+T954	PR 23015 23018	Bax
+#954	AnnotatorNotes T954	PR:000002193 (apoptosis regulator BAX)
+T955	EntrezGene 23019 23023	NT-3
+#955	AnnotatorNotes T955	EG:18205
+T956	PR 23019 23023	NT-3
+#956	AnnotatorNotes T956	PR:000011459 (neurotrophin-3)
+T957	NCBITaxon 23027 23031	mice
+#957	AnnotatorNotes T957	NCBITaxon:10088 (Mus)
+T958	EntrezGene 23046 23048	PV
+#958	AnnotatorNotes T958	EG:19293
+T959	PR 23046 23048	PV
+#959	AnnotatorNotes T959	PR:000013502 (parvalbumin alpha)
+T960	GO_BP 23049 23059	expression
+#960	AnnotatorNotes T960	GO:0010467 (gene expression)
+T961	GO_BP 23092 23106	axon targeting
+#961	AnnotatorNotes T961	GO:0007411 (axon guidance)
+T962	GO_CC 23092 23096	axon
+#962	AnnotatorNotes T962	GO:0030424 (axon)
+T963	GO_BP 23126 23141	differentiation
+#963	AnnotatorNotes T963	GO:0030154 (cell differentiation)
+T964	GO_BP 23224 23240	axon pathfinding
+#964	AnnotatorNotes T964	GO:0007411 (axon guidance)
+T965	GO_CC 23224 23228	axon
+#965	AnnotatorNotes T965	GO:0030424 (axon)
+T966	GO_BP 23264 23270	reflex
+#966	AnnotatorNotes T966	GO:0060004 (reflex)
+T967	GO_BP 23296 23311	differentiation
+#967	AnnotatorNotes T967	GO:0030154 (cell differentiation)
+T968	EntrezGene 23331 23333	PV
+#968	AnnotatorNotes T968	EG:19293
+T969	PR 23331 23333	PV
+#969	AnnotatorNotes T969	PR:000013502 (parvalbumin alpha)
+T970	NCBITaxon 23337 23341	mice
+#970	AnnotatorNotes T970	NCBITaxon:10088 (Mus)
+T971	GO_BP 23349 23356	develop
+#971	AnnotatorNotes T971	GO:0032502 (developmental process)
+T972	GO_BP 23404 23412	behavior
+#972	AnnotatorNotes T972	GO:0007610 (behavior)
+T973	GO_BP 23416 23433	physical activity
+#973	AnnotatorNotes T973	GO:0050879 (multicellular organismal movement)
+T974	GO_BP 23491 23507	axonal targeting
+#974	AnnotatorNotes T974	GO:0007411 (axon guidance)
+T975	GO_CC 23491 23497	axonal
+#975	AnnotatorNotes T975	GO:0030424 (axon)
+T976	italic 23519 23527	Bax/NT-3
+#976	AnnotatorNotes T976	italic (null)
+T977	EntrezGene 23519 23522	Bax
+#977	AnnotatorNotes T977	EG:12028
+T978	PR 23519 23522	Bax
+#978	AnnotatorNotes T978	PR:000002193 (apoptosis regulator BAX)
+T979	EntrezGene 23523 23527	NT-3
+#979	AnnotatorNotes T979	EG:18205
+T980	PR 23523 23527	NT-3
+#980	AnnotatorNotes T980	PR:000011459 (neurotrophin-3)
+T981	NCBITaxon 23538 23542	mice
+#981	AnnotatorNotes T981	NCBITaxon:10088 (Mus)
+T982	EntrezGene 23575 23577	PV
+#982	AnnotatorNotes T982	EG:19293
+T983	PR 23575 23577	PV
+#983	AnnotatorNotes T983	PR:000013502 (parvalbumin alpha)
+T984	GO_BP 23578 23588	expression
+#984	AnnotatorNotes T984	GO:0010467 (gene expression)
+T985	GO_BP 23592 23606	proprioceptive
+#985	AnnotatorNotes T985	GO:0019230 (proprioception)
+T986	CL 23607 23612	cells
+#986	AnnotatorNotes T986	CL:0000000 (cell)
+T987	GO_CC 23607 23612	cells
+#987	AnnotatorNotes T987	GO:0005623 (cell)
+T988	EntrezGene 23648 23652	NT-3
+#988	AnnotatorNotes T988	EG:18205
+T989	PR 23648 23652	NT-3
+#989	AnnotatorNotes T989	PR:000011459 (neurotrophin-3)
+T990	GO_BP 23675 23688	axon guidance
+#990	AnnotatorNotes T990	GO:0007411 (axon guidance)
+T991	GO_CC 23675 23679	axon
+#991	AnnotatorNotes T991	GO:0030424 (axon)
+T992	GO_BP 23697 23711	proprioceptive
+#992	AnnotatorNotes T992	GO:0019230 (proprioception)
+T993	GO_CC 23712 23717	axons
+#993	AnnotatorNotes T993	GO:0030424 (axon)
+T994	GO_BP 23792 23805	axon guidance
+#994	AnnotatorNotes T994	GO:0007411 (axon guidance)
+T995	GO_CC 23792 23796	axon
+#995	AnnotatorNotes T995	GO:0030424 (axon)
+T996	GO_CC 23834 23839	axons
+#996	AnnotatorNotes T996	GO:0030424 (axon)
+T997	EntrezGene 23882 23886	NT-3
+#997	AnnotatorNotes T997	EG:18205
+T998	PR 23882 23886	NT-3
+#998	AnnotatorNotes T998	PR:000011459 (neurotrophin-3)
+T999	CHEBI 23907 23915	molecule
+#999	AnnotatorNotes T999	CHEBI:36357 (polyatomic entities)
+T1000	GO_BP 23937 23946	targeting
+#1000	AnnotatorNotes T1000	GO:0007411 (axon guidance)
+T1001	GO_BP 23960 23969	branching
+#1001	AnnotatorNotes T1001	GO:0001763 (morphogenesis of a branching structure)
+T1002	GO_BP 23973 23980	sensory
+#1002	AnnotatorNotes T1002	GO:0007600 (sensory perception)
+T1003	GO_CC 23981 23986	axons
+#1003	AnnotatorNotes T1003	GO:0030424 (axon)
+T1004	EntrezGene 24015 24019	NT-3
+#1004	AnnotatorNotes T1004	EG:18205
+T1005	PR 24015 24019	NT-3
+#1005	AnnotatorNotes T1005	PR:000011459 (neurotrophin-3)
+T1006	GO_BP 24062 24075	axon guidance
+#1006	AnnotatorNotes T1006	GO:0007411 (axon guidance)
+T1007	GO_CC 24062 24066	axon
+#1007	AnnotatorNotes T1007	GO:0030424 (axon)
+T1008	CHEBI 24076 24085	molecules
+#1008	AnnotatorNotes T1008	CHEBI:36357 (polyatomic entities)
+T1009	GO_BP 24092 24102	regulating
+#1009	AnnotatorNotes T1009	GO:0065007 (biological regulation)
+T1010	GO_BP 24103 24113	expression
+#1010	AnnotatorNotes T1010	GO:0010467 (gene expression)
+T1011	GO_BP 24138 24152	proprioceptive
+#1011	AnnotatorNotes T1011	GO:0019230 (proprioception)
+T1012	CL 24153 24159	neuron
+#1012	AnnotatorNotes T1012	CL:0000540 (neuron)
+T1013	independent_continuant 24169 24178	receptors
+#1013	AnnotatorNotes T1013	independent_continuant
+T1014	GO_MF 24169 24178	receptors
+#1014	AnnotatorNotes T1014	GO:0004872 (receptor activity)
+T1015	GO_BP 24200 24213	axon guidance
+#1015	AnnotatorNotes T1015	GO:0007411 (axon guidance)
+T1016	GO_CC 24200 24204	axon
+#1016	AnnotatorNotes T1016	GO:0030424 (axon)
+T1017	GO_BP 24246 24256	Generation
+#1017	AnnotatorNotes T1017	GO:0000003 (reproduction)
+T1018	italic 24284 24287	Bax
+#1018	AnnotatorNotes T1018	italic (null)
+T1019	PR 24284 24287	Bax
+#1019	AnnotatorNotes T1019	PR:000002193 (apoptosis regulator BAX)
+T1020	EntrezGene 24284 24287	Bax
+#1020	AnnotatorNotes T1020	EG:12028
+T1021	italic 24381 24385	NT-3
+#1021	AnnotatorNotes T1021	italic (null)
+T1022	EntrezGene 24381 24385	NT-3
+#1022	AnnotatorNotes T1022	EG:18205
+T1023	PR 24381 24385	NT-3
+#1023	AnnotatorNotes T1023	PR:000011459 (neurotrophin-3)
+T1024	GO_BP 24431 24439	generate
+#1024	AnnotatorNotes T1024	GO:0000003 (reproduction)
+T1025	NCBITaxon 24460 24467	animals
+#1025	AnnotatorNotes T1025	NCBITaxon:33208 (Metazoa)
+T1026	NCBITaxon 24505 24512	animals
+#1026	AnnotatorNotes T1026	NCBITaxon:33208 (Metazoa)
+T1027	SO 24535 24540	genes
+#1027	AnnotatorNotes T1027	SO:0000704 (gene)
+T1028	GO_BP 24546 24550	bred
+#1028	AnnotatorNotes T1028	GO:0007618 (mating)
+T1029	SO 24577 24584	Primers
+#1029	AnnotatorNotes T1029	SO:0000112 (primer)
+T1030	italic 24598 24601	Bax
+#1030	AnnotatorNotes T1030	italic (null)
+T1031	EntrezGene 24598 24601	Bax
+#1031	AnnotatorNotes T1031	EG:12028
+T1032	PR 24598 24601	Bax
+#1032	AnnotatorNotes T1032	PR:000002193 (apoptosis regulator BAX)
+T1033	SO 24602 24607	locus
+#1033	AnnotatorNotes T1033	SO:0000001 (region)
+T1034	SO 24720 24727	Primers
+#1034	AnnotatorNotes T1034	SO:0000112 (primer)
+T1035	italic 24741 24745	NT-3
+#1035	AnnotatorNotes T1035	italic (null)
+T1036	PR 24741 24745	NT-3
+#1036	AnnotatorNotes T1036	PR:000011459 (neurotrophin-3)
+T1037	EntrezGene 24741 24745	NT-3
+#1037	AnnotatorNotes T1037	EG:18205
+T1038	SO 24746 24751	locus
+#1038	AnnotatorNotes T1038	SO:0000001 (region)
+T1039	SO 24903 24905	WT
+#1039	AnnotatorNotes T1039	SO:0000817 (wild_type)
+T1040	italic 24907 24910	Bax
+#1040	AnnotatorNotes T1040	italic (null)
+T1041	PR 24907 24910	Bax
+#1041	AnnotatorNotes T1041	PR:000002193 (apoptosis regulator BAX)
+T1042	EntrezGene 24907 24910	Bax
+#1042	AnnotatorNotes T1042	EG:12028
+T1043	italic 24919 24923	NT-3
+#1043	AnnotatorNotes T1043	italic (null)
+T1044	PR 24919 24923	NT-3
+#1044	AnnotatorNotes T1044	PR:000011459 (neurotrophin-3)
+T1045	EntrezGene 24919 24923	NT-3
+#1045	AnnotatorNotes T1045	EG:18205
+T1046	italic 24976 24984	Bax/NT-3
+#1046	AnnotatorNotes T1046	italic (null)
+T1047	EntrezGene 24976 24979	Bax
+#1047	AnnotatorNotes T1047	EG:12028
+T1048	PR 24976 24979	Bax
+#1048	AnnotatorNotes T1048	PR:000002193 (apoptosis regulator BAX)
+T1049	EntrezGene 24980 24984	NT-3
+#1049	AnnotatorNotes T1049	EG:18205
+T1050	PR 24980 24984	NT-3
+#1050	AnnotatorNotes T1050	PR:000011459 (neurotrophin-3)
+T1051	NCBITaxon 24995 24999	mice
+#1051	AnnotatorNotes T1051	NCBITaxon:10088 (Mus)
+T1052	EntrezGene 25047 25050	p75
+#1052	AnnotatorNotes T1052	EG:18053
+T1053	PR 25047 25050	p75
+#1053	AnnotatorNotes T1053	PR:000001405 (tumor necrosis factor receptor superfamily member 16)
+T1054	SO 25132 25135	DNA
+#1054	AnnotatorNotes T1054	SO:0000352 (DNA)
+T1055	NCBITaxon 25148 25155	animals
+#1055	AnnotatorNotes T1055	NCBITaxon:33208 (Metazoa)
+T1056	SO 25166 25173	primers
+#1056	AnnotatorNotes T1056	SO:0000112 (primer)
+T1057	GO_MF 25256 25259	neo
+#1057	AnnotatorNotes T1057	GO:0008910 (kanamycin kinase activity)
+T1058	independent_continuant 25256 25259	neo
+#1058	AnnotatorNotes T1058	independent_continuant
+T1059	SO 25260 25267	primers
+#1059	AnnotatorNotes T1059	SO:0000112 (primer)
+T1060	italic 25353 25356	p75
+#1060	AnnotatorNotes T1060	italic (null)
+T1061	PR 25353 25356	p75
+#1061	AnnotatorNotes T1061	PR:000001405 (tumor necrosis factor receptor superfamily member 16)
+T1062	EntrezGene 25353 25356	p75
+#1062	AnnotatorNotes T1062	EG:18053
+T1063	SO 25357 25362	locus
+#1063	AnnotatorNotes T1063	SO:0000001 (region)
+T1064	NCBITaxon 25559 25565	Animal
+#1064	AnnotatorNotes T1064	NCBITaxon:33208 (Metazoa)
+T1065	NCBITaxon 25675 25682	animals
+#1065	AnnotatorNotes T1065	NCBITaxon:33208 (Metazoa)
+T1066	EntrezGene 25685 25689	TrkA
+#1066	AnnotatorNotes T1066	EG:18211
+T1067	PR 25685 25689	TrkA
+#1067	AnnotatorNotes T1067	PR:000011469 (high affinity nerve growth factor receptor)
+T1068	EntrezGene 25690 25694	TrkC
+#1068	AnnotatorNotes T1068	EG:18213
+T1069	PR 25690 25694	TrkC
+#1069	AnnotatorNotes T1069	PR:000011471 (NT-3 growth factor receptor)
+T1070	NCBITaxon 25804 25810	rabbit
+#1070	AnnotatorNotes T1070	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1071	PR 25816 25820	TrkA
+#1071	AnnotatorNotes T1071	PR:000011469 (high affinity nerve growth factor receptor)
+T1072	NCBITaxon 25825 25829	goat
+#1072	AnnotatorNotes T1072	NCBITaxon:9925 (Capra hircus)
+T1073	PR 25835 25839	TrkC
+#1073	AnnotatorNotes T1073	PR:000011471 (NT-3 growth factor receptor)
+T1074	GO_CC 25840 25850	antibodies
+#1074	AnnotatorNotes T1074	GO:0019814 (immunoglobulin complex)
+T1075	GO_BP 25925 25935	conjugated
+#1075	AnnotatorNotes T1075	GO:0043412 (biopolymer modification)
+T1076	NCBITaxon 25936 25942	donkey
+#1076	AnnotatorNotes T1076	NCBITaxon:9793 (Equus asinus)
+T1077	NCBITaxon 25948 25954	rabbit
+#1077	AnnotatorNotes T1077	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1078	CHEBI 25959 25963	FITC
+#1078	AnnotatorNotes T1078	CHEBI:37926 (fluorescein isothiocyanate)
+T1079	GO_BP 25964 25974	conjugated
+#1079	AnnotatorNotes T1079	GO:0043412 (biopolymer modification)
+T1080	NCBITaxon 25975 25981	donkey
+#1080	AnnotatorNotes T1080	NCBITaxon:9793 (Equus asinus)
+T1081	NCBITaxon 25987 25991	goat
+#1081	AnnotatorNotes T1081	NCBITaxon:9925 (Capra hircus)
+T1082	GO_CC 25992 26002	antibodies
+#1082	AnnotatorNotes T1082	GO:0019814 (immunoglobulin complex)
+T1083	NCBITaxon 26102 26108	donkey
+#1083	AnnotatorNotes T1083	NCBITaxon:9793 (Equus asinus)
+T1084	EntrezGene 26120 26122	PV
+#1084	AnnotatorNotes T1084	EG:19293
+T1085	PR 26120 26122	PV
+#1085	AnnotatorNotes T1085	PR:000013502 (parvalbumin alpha)
+T1086	NCBITaxon 26183 26188	mouse
+#1086	AnnotatorNotes T1086	NCBITaxon:10088 (Mus)
+T1087	PR 26194 26196	PV
+#1087	AnnotatorNotes T1087	PR:000013502 (parvalbumin alpha)
+T1088	GO_CC 26197 26205	antibody
+#1088	AnnotatorNotes T1088	GO:0019814 (immunoglobulin complex)
+T1089	CHEBI 26275 26286	fluorescein
+#1089	AnnotatorNotes T1089	CHEBI:31624 (fluorescein)
+T1090	NCBITaxon 26287 26292	mouse
+#1090	AnnotatorNotes T1090	NCBITaxon:10088 (Mus)
+T1091	NCBITaxon 26296 26301	mouse
+#1091	AnnotatorNotes T1091	NCBITaxon:10088 (Mus)
+T1092	EntrezGene 26397 26401	TrkA
+#1092	AnnotatorNotes T1092	EG:18211
+T1093	PR 26397 26401	TrkA
+#1093	AnnotatorNotes T1093	PR:000011469 (high affinity nerve growth factor receptor)
+T1094	EntrezGene 26407 26411	TrkC
+#1094	AnnotatorNotes T1094	EG:18213
+T1095	PR 26407 26411	TrkC
+#1095	AnnotatorNotes T1095	PR:000011471 (NT-3 growth factor receptor)
+T1096	CL 26420 26425	cells
+#1096	AnnotatorNotes T1096	CL:0000000 (cell)
+T1097	GO_CC 26420 26425	cells
+#1097	AnnotatorNotes T1097	GO:0005623 (cell)
+T1098	SO 26459 26467	genotype
+#1098	AnnotatorNotes T1098	SO:0001027 (genotype)
+T1099	GO_CC 26790 26798	antibody
+#1099	AnnotatorNotes T1099	GO:0019814 (immunoglobulin complex)
+T1100	GO_CC 26867 26873	myosin
+#1100	AnnotatorNotes T1100	GO:0016459 (myosin complex)
+T1101	SO 26880 26885	chain
+#1101	AnnotatorNotes T1101	SO:0000001 (region)
+T1102	SO 26886 26893	isoform
+#1102	AnnotatorNotes T1102	SO:0001060 (sequence_variant)
+T1103	NCBITaxon 26918 26923	mouse
+#1103	AnnotatorNotes T1103	NCBITaxon:10088 (Mus)
+T1104	NCBITaxon 26927 26932	mouse
+#1104	AnnotatorNotes T1104	NCBITaxon:10088 (Mus)
+T1105	NCBITaxon 26969 26975	rabbit
+#1105	AnnotatorNotes T1105	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1106	PR 26981 26985	NF-M
+#1106	AnnotatorNotes T1106	PR:000011120 (neurofilament medium polypeptide)
+T1107	GO_CC 26986 26994	antibody
+#1107	AnnotatorNotes T1107	GO:0019814 (immunoglobulin complex)
+T1108	GO_BP 27014 27024	conjugated
+#1108	AnnotatorNotes T1108	GO:0043412 (biopolymer modification)
+T1109	NCBITaxon 27025 27029	goat
+#1109	AnnotatorNotes T1109	NCBITaxon:9925 (Capra hircus)
+T1110	NCBITaxon 27035 27041	rabbit
+#1110	AnnotatorNotes T1110	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1111	GO_CC 27042 27050	antibody
+#1111	AnnotatorNotes T1111	GO:0019814 (immunoglobulin complex)
+T1112	SO 27186 27195	genotypes
+#1112	AnnotatorNotes T1112	SO:0001027 (genotype)
+T1113	italic 27197 27200	n =
+#1113	AnnotatorNotes T1113	italic (null)
+T1114	GO_BP 27373 27378	motor
+#1114	AnnotatorNotes T1114	GO:0050879 (multicellular organismal movement)
+T1115	CL 27418 27431	motor neurons
+#1115	AnnotatorNotes T1115	CL:0000100 (motor neuron)
+T1116	GO_BP 27418 27423	motor
+#1116	AnnotatorNotes T1116	GO:0050879 (multicellular organismal movement)
+T1117	CHEBI 27504 27515	perchlorate
+#1117	AnnotatorNotes T1117	CHEBI:49706 (perchlorate)
+T1118	CHEBI 27522 27531	Molecular
+#1118	AnnotatorNotes T1118	CHEBI:36357 (polyatomic entities)
+T1119	CHEBI 27928 27932	Tris
+#1119	AnnotatorNotes T1119	CHEBI:9754 (tris)
+T1120	EntrezGene 28025 28028	Bax
+#1120	AnnotatorNotes T1120	EG:12028
+T1121	PR 28025 28028	Bax
+#1121	AnnotatorNotes T1121	PR:000002193 (apoptosis regulator BAX)
+T1122	EntrezGene 28039 28042	p75
+#1122	AnnotatorNotes T1122	EG:18053
+T1123	PR 28039 28042	p75
+#1123	AnnotatorNotes T1123	PR:000001405 (tumor necrosis factor receptor superfamily member 16)
+T1124	NCBITaxon 28048 28053	mouse
+#1124	AnnotatorNotes T1124	NCBITaxon:10088 (Mus)
+T1125	GO_CC 28073 28081	collagen
+#1125	AnnotatorNotes T1125	GO:0005581 (collagen)
+T1126	PR 28073 28081	collagen
+#1126	AnnotatorNotes T1126	PR:000003262 (collagen alpha chain)
+T1127	CHEBI 28152 28160	tungsten
+#1127	AnnotatorNotes T1127	CHEBI:27998 (tungsten)
+T1128	GO_CC 28170 28178	Collagen
+#1128	AnnotatorNotes T1128	GO:0005581 (collagen)
+T1129	PR 28170 28178	Collagen
+#1129	AnnotatorNotes T1129	PR:000003262 (collagen alpha chain)
+T1130	GO_CC 28214 28222	collagen
+#1130	AnnotatorNotes T1130	GO:0005581 (collagen)
+T1131	PR 28214 28222	collagen
+#1131	AnnotatorNotes T1131	PR:000003262 (collagen alpha chain)
+T1132	CHEBI 28250 28261	acetic acid
+#1132	AnnotatorNotes T1132	CHEBI:15366 (acetic acid)
+T1133	sub 28321 28322	2
+#1133	AnnotatorNotes T1133	sub (null)
+T1134	GO_CC 28449 28457	collagen
+#1134	AnnotatorNotes T1134	GO:0005581 (collagen)
+T1135	PR 28449 28457	collagen
+#1135	AnnotatorNotes T1135	PR:000003262 (collagen alpha chain)
+T1136	PR 28607 28611	NT-3
+#1136	AnnotatorNotes T1136	PR:000011459 (neurotrophin-3)
+T1137	EntrezGene 28733 28736	BSA
+#1137	AnnotatorNotes T1137	EG:280717
+T1138	PR 28776 28788	neurotrophin
+#1138	AnnotatorNotes T1138	PR:000021998 (neurotrophin)
+T1139	EntrezGene 28813 28816	BSA
+#1139	AnnotatorNotes T1139	EG:280717
+T1140	GO_CC 28903 28911	Collagen
+#1140	AnnotatorNotes T1140	GO:0005581 (collagen)
+T1141	PR 28903 28911	Collagen
+#1141	AnnotatorNotes T1141	PR:000003262 (collagen alpha chain)
+T1142	SO 29065 29067	WT
+#1142	AnnotatorNotes T1142	SO:0000817 (wild_type)
+T1143	PR 29148 29152	TrkC
+#1143	AnnotatorNotes T1143	PR:000011471 (NT-3 growth factor receptor)
+T1144	CHEBI 29167 29182	Pharmaceuticals
+#1144	AnnotatorNotes T1144	CHEBI:33294 (pharmaceutical)
+T1145	NCBITaxon 29358 29363	mouse
+#1145	AnnotatorNotes T1145	NCBITaxon:10088 (Mus)
+T1146	PR 29535 29539	NT-3
+#1146	AnnotatorNotes T1146	PR:000011459 (neurotrophin-3)
+T1147	italic 29548 29551	n =
+#1147	AnnotatorNotes T1147	italic (null)
+T1148	italic 29571 29574	n =
+#1148	AnnotatorNotes T1148	italic (null)
+T1149	CHEBI 29818 29821	CO2
+#1149	AnnotatorNotes T1149	CHEBI:16526 (carbon dioxide)
+T1150	sub 29820 29821	2
+#1150	AnnotatorNotes T1150	sub (null)
+T1151	CHEBI 29992 29995	dye
+#1151	AnnotatorNotes T1151	CHEBI:37958 (dye)
+T1152	CL 30126 30138	Motor Neuron
+#1152	AnnotatorNotes T1152	CL:0000100 (motor neuron)
+T1153	GO_BP 30126 30131	Motor
+#1153	AnnotatorNotes T1153	GO:0050879 (multicellular organismal movement)
+T1154	SO 30164 30166	WT
+#1154	AnnotatorNotes T1154	SO:0000817 (wild_type)
+T1155	italic 30201 30209	Bax/NT-3
+#1155	AnnotatorNotes T1155	italic (null)
+T1156	EntrezGene 30201 30204	Bax
+#1156	AnnotatorNotes T1156	EG:12028
+T1157	PR 30201 30204	Bax
+#1157	AnnotatorNotes T1157	PR:000002193 (apoptosis regulator BAX)
+T1158	EntrezGene 30205 30209	NT-3
+#1158	AnnotatorNotes T1158	EG:18205
+T1159	PR 30205 30209	NT-3
+#1159	AnnotatorNotes T1159	PR:000011459 (neurotrophin-3)
+T1160	CL 30246 30259	motor neurons
+#1160	AnnotatorNotes T1160	CL:0000100 (motor neuron)
+T1161	GO_BP 30246 30251	motor
+#1161	AnnotatorNotes T1161	GO:0050879 (multicellular organismal movement)
+T1162	GO_BP 30332 30339	sensory
+#1162	AnnotatorNotes T1162	GO:0007600 (sensory perception)
+T1163	GO_CC 30340 30345	axons
+#1163	AnnotatorNotes T1163	GO:0030424 (axon)
+T1164	SO 30377 30379	WT
+#1164	AnnotatorNotes T1164	SO:0000817 (wild_type)
+T1165	GO_BP 30395 30409	proprioceptive
+#1165	AnnotatorNotes T1165	GO:0019230 (proprioception)
+T1166	GO_CC 30410 30415	axons
+#1166	AnnotatorNotes T1166	GO:0030424 (axon)
+T1167	CL 30427 30439	motor neuron
+#1167	AnnotatorNotes T1167	CL:0000100 (motor neuron)
+T1168	GO_BP 30427 30432	motor
+#1168	AnnotatorNotes T1168	GO:0050879 (multicellular organismal movement)
+T1169	GO_CC 30440 30449	dendrites
+#1169	AnnotatorNotes T1169	GO:0030425 (dendrite)
+T1170	GO_BP 30471 30478	forming
+#1170	AnnotatorNotes T1170	GO:0022607 (cellular component assembly)
+T1171	GO_CC 30479 30487	synapses
+#1171	AnnotatorNotes T1171	GO:0045202 (synapse)
+T1172	EntrezGene 30494 30497	Bax
+#1172	AnnotatorNotes T1172	EG:12028
+T1173	PR 30494 30497	Bax
+#1173	AnnotatorNotes T1173	PR:000002193 (apoptosis regulator BAX)
+T1174	EntrezGene 30498 30502	NT-3
+#1174	AnnotatorNotes T1174	EG:18205
+T1175	PR 30498 30502	NT-3
+#1175	AnnotatorNotes T1175	PR:000011459 (neurotrophin-3)
+T1176	CL 30665 30677	motor neuron
+#1176	AnnotatorNotes T1176	CL:0000100 (motor neuron)
+T1177	GO_BP 30665 30670	motor
+#1177	AnnotatorNotes T1177	GO:0050879 (multicellular organismal movement)
+T1178	GO_CC 30678 30687	dendrites
+#1178	AnnotatorNotes T1178	GO:0030425 (dendrite)
+T1179	GO_BP 30752 30766	proprioceptive
+#1179	AnnotatorNotes T1179	GO:0019230 (proprioception)
+T1180	CL 30785 30798	motor neurons
+#1180	AnnotatorNotes T1180	CL:0000100 (motor neuron)
+T1181	GO_BP 30785 30790	motor
+#1181	AnnotatorNotes T1181	GO:0050879 (multicellular organismal movement)
+T1182	GO_BP 30879 30886	sensory
+#1182	AnnotatorNotes T1182	GO:0007600 (sensory perception)
+T1183	GO_CC 30887 30892	axons
+#1183	AnnotatorNotes T1183	GO:0030424 (axon)
+T1184	CL 30912 30925	motor neurons
+#1184	AnnotatorNotes T1184	CL:0000100 (motor neuron)
+T1185	GO_BP 30912 30917	motor
+#1185	AnnotatorNotes T1185	GO:0050879 (multicellular organismal movement)
+T1186	EntrezGene 31053 31057	NF-M
+#1186	AnnotatorNotes T1186	EG:18040
+T1187	PR 31053 31057	NF-M
+#1187	AnnotatorNotes T1187	PR:000011120 (neurofilament medium polypeptide)
+T1188	GO_BP 31244 31251	sensory
+#1188	AnnotatorNotes T1188	GO:0007600 (sensory perception)
+T1189	GO_BP 31314 31321	develop
+#1189	AnnotatorNotes T1189	GO:0032502 (developmental process)
+T1190	SO 31336 31345	genotypes
+#1190	AnnotatorNotes T1190	SO:0001027 (genotype)
+T1191	italic 31477 31481	NT-3
+#1191	AnnotatorNotes T1191	italic (null)
+T1192	EntrezGene 31477 31481	NT-3
+#1192	AnnotatorNotes T1192	EG:18205
+T1193	PR 31477 31481	NT-3
+#1193	AnnotatorNotes T1193	PR:000011459 (neurotrophin-3)
+T1194	NCBITaxon 31485 31492	animals
+#1194	AnnotatorNotes T1194	NCBITaxon:33208 (Metazoa)
+T1195	PR 31511 31515	TrkA
+#1195	AnnotatorNotes T1195	PR:000011469 (high affinity nerve growth factor receptor)
+T1196	PR 31520 31524	TrkC
+#1196	AnnotatorNotes T1196	PR:000011471 (NT-3 growth factor receptor)
+T1197	GO_CC 31525 31535	antibodies
+#1197	AnnotatorNotes T1197	GO:0019814 (immunoglobulin complex)
+T1198	GO_CC 31562 31570	antibody
+#1198	AnnotatorNotes T1198	GO:0019814 (immunoglobulin complex)
+T1199	NCBITaxon 31635 31642	animals
+#1199	AnnotatorNotes T1199	NCBITaxon:33208 (Metazoa)
+T1200	EntrezGene 31940 31944	BDNF
+#1200	AnnotatorNotes T1200	EG:12064
+T1201	PR 31940 31944	BDNF
+#1201	AnnotatorNotes T1201	PR:000004716 (brain-derived neurotrophic factor)
+T1202	EntrezGene 31947 31980	brain-derived neurotrophic factor
+#1202	AnnotatorNotes T1202	EG:12064
+T1203	PR 31947 31980	brain-derived neurotrophic factor
+#1203	AnnotatorNotes T1203	PR:000004716 (brain-derived neurotrophic factor)
+T1204	GO_BP 31961 31973	neurotrophic
+#1204	AnnotatorNotes T1204	GO:0048666 (neuron development)
+T1205	EntrezGene 31982 31985	BSA
+#1205	AnnotatorNotes T1205	EG:280717
+T1206	EntrezGene 31988 32008	bovine serum albumin
+#1206	AnnotatorNotes T1206	EG:280717
+T1207	NCBITaxon 31988 31994	bovine
+#1207	AnnotatorNotes T1207	NCBITaxon:27592 (Bovinae)
+T1208	PR 31995 32008	serum albumin
+#1208	AnnotatorNotes T1208	PR:000003918 (serum albumin)
+T1209	EntrezGene 32072 32076	NF-M
+#1209	AnnotatorNotes T1209	EG:18040
+T1210	PR 32072 32076	NF-M
+#1210	AnnotatorNotes T1210	PR:000011120 (neurofilament medium polypeptide)
+T1211	EntrezGene 32079 32094	neurofilament-M
+#1211	AnnotatorNotes T1211	EG:18040
+T1212	PR 32079 32094	neurofilament-M
+#1212	AnnotatorNotes T1212	PR:000011120 (neurofilament medium polypeptide)
+T1213	EntrezGene 32096 32100	NT-3
+#1213	AnnotatorNotes T1213	EG:18205
+T1214	PR 32096 32100	NT-3
+#1214	AnnotatorNotes T1214	PR:000011459 (neurotrophin-3)
+T1215	EntrezGene 32103 32117	neurotrophin-3
+#1215	AnnotatorNotes T1215	EG:18205
+T1216	PR 32103 32117	neurotrophin-3
+#1216	AnnotatorNotes T1216	PR:000011459 (neurotrophin-3)
+T1217	CHEBI 32144 32153	phosphate
+#1217	AnnotatorNotes T1217	CHEBI:35780 (phosphate ions)
+T1218	CHEBI 32144 32153	phosphate
+#1218	AnnotatorNotes T1218	CHEBI:26020 (phosphates)
+T1219	EntrezGene 32169 32171	PV
+#1219	AnnotatorNotes T1219	EG:19293
+T1220	PR 32169 32171	PV
+#1220	AnnotatorNotes T1220	PR:000013502 (parvalbumin alpha)
+T1221	EntrezGene 32174 32185	parvalbumin
+#1221	AnnotatorNotes T1221	EG:19293
+T1222	PR 32174 32185	parvalbumin
+#1222	AnnotatorNotes T1222	PR:000013502 (parvalbumin alpha)
+T1223	PR 32187 32191	TrkC
+#1223	AnnotatorNotes T1223	PR:000011471 (NT-3 growth factor receptor)
+T1224	PR 32208 32222	TrkC receptors
+#1224	AnnotatorNotes T1224	PR:000011471 (NT-3 growth factor receptor)
+T1225	independent_continuant 32213 32222	receptors
+#1225	AnnotatorNotes T1225	independent_continuant
+T1226	GO_MF 32213 32222	receptors
+#1226	AnnotatorNotes T1226	GO:0004872 (receptor activity)
+T1227	GO_BP 32223 32233	conjugated
+#1227	AnnotatorNotes T1227	GO:0043412 (biopolymer modification)
+T1228	SO 32250 32257	regions
+#1228	AnnotatorNotes T1228	SO:0000001 (region)
+T1229	SO 32259 32261	WT
+#1229	AnnotatorNotes T1229	SO:0000817 (wild_type)
+T1230	SO 32264 32273	wild-type
+#1230	AnnotatorNotes T1230	SO:0000817 (wild_type)
+T1231	EntrezGene 32305 32309	TrkA
+#1231	AnnotatorNotes T1231	EG:18211
+T1232	PR 32305 32309	TrkA
+#1232	AnnotatorNotes T1232	PR:000011469 (high affinity nerve growth factor receptor)
+T1233	EntrezGene 32310 32314	TrkC
+#1233	AnnotatorNotes T1233	EG:18213
+T1234	PR 32310 32314	TrkC
+#1234	AnnotatorNotes T1234	PR:000011471 (NT-3 growth factor receptor)
+T1235	EntrezGene 32319 32321	PV
+#1235	AnnotatorNotes T1235	EG:19293
+T1236	PR 32319 32321	PV
+#1236	AnnotatorNotes T1236	PR:000013502 (parvalbumin alpha)
+T1237	EntrezGene 32382 32386	TrkA
+#1237	AnnotatorNotes T1237	EG:18211
+T1238	PR 32382 32386	TrkA
+#1238	AnnotatorNotes T1238	PR:000011469 (high affinity nerve growth factor receptor)
+T1239	EntrezGene 32405 32409	TrkC
+#1239	AnnotatorNotes T1239	EG:18213
+T1240	PR 32405 32409	TrkC
+#1240	AnnotatorNotes T1240	PR:000011471 (NT-3 growth factor receptor)
+T1241	EntrezGene 32415 32417	PV
+#1241	AnnotatorNotes T1241	EG:19293
+T1242	PR 32415 32417	PV
+#1242	AnnotatorNotes T1242	PR:000013502 (parvalbumin alpha)
+T1243	GO_BP 32452 32462	expression
+#1243	AnnotatorNotes T1243	GO:0010467 (gene expression)
+T1244	EntrezGene 32469 32473	TrkA
+#1244	AnnotatorNotes T1244	EG:18211
+T1245	PR 32469 32473	TrkA
+#1245	AnnotatorNotes T1245	PR:000011469 (high affinity nerve growth factor receptor)
+T1246	EntrezGene 32474 32478	TrkC
+#1246	AnnotatorNotes T1246	EG:18213
+T1247	PR 32474 32478	TrkC
+#1247	AnnotatorNotes T1247	PR:000011471 (NT-3 growth factor receptor)
+T1248	EntrezGene 32506 32510	TrkC
+#1248	AnnotatorNotes T1248	EG:18213
+T1249	PR 32506 32510	TrkC
+#1249	AnnotatorNotes T1249	PR:000011471 (NT-3 growth factor receptor)
+T1250	CL 32520 32527	neurons
+#1250	AnnotatorNotes T1250	CL:0000540 (neuron)
+T1251	GO_BP 32537 32547	eliminated
+#1251	AnnotatorNotes T1251	GO:0012501 (programmed cell death)
+T1252	italic 32551 32555	NT-3
+#1252	AnnotatorNotes T1252	italic (null)
+T1253	PR 32551 32555	NT-3
+#1253	AnnotatorNotes T1253	PR:000011459 (neurotrophin-3)
+T1254	EntrezGene 32551 32555	NT-3
+#1254	AnnotatorNotes T1254	EG:18205
+T1255	EntrezGene 32592 32596	TrkA
+#1255	AnnotatorNotes T1255	EG:18211
+T1256	PR 32592 32596	TrkA
+#1256	AnnotatorNotes T1256	PR:000011469 (high affinity nerve growth factor receptor)
+T1257	EntrezGene 32597 32601	TrkC
+#1257	AnnotatorNotes T1257	EG:18213
+T1258	PR 32597 32601	TrkC
+#1258	AnnotatorNotes T1258	PR:000011471 (NT-3 growth factor receptor)
+T1259	EntrezGene 32636 32638	PV
+#1259	AnnotatorNotes T1259	EG:19293
+T1260	PR 32636 32638	PV
+#1260	AnnotatorNotes T1260	PR:000013502 (parvalbumin alpha)
+T1261	EntrezGene 32673 32677	TrkC
+#1261	AnnotatorNotes T1261	EG:18213
+T1262	PR 32673 32677	TrkC
+#1262	AnnotatorNotes T1262	PR:000011471 (NT-3 growth factor receptor)
+T1263	CL 32687 32692	cells
+#1263	AnnotatorNotes T1263	CL:0000000 (cell)
+T1264	GO_CC 32687 32692	cells
+#1264	AnnotatorNotes T1264	GO:0005623 (cell)
+T1265	GO_BP 32701 32708	express
+#1265	AnnotatorNotes T1265	GO:0010467 (gene expression)
+T1266	EntrezGene 32709 32711	PV
+#1266	AnnotatorNotes T1266	EG:19293
+T1267	PR 32709 32711	PV
+#1267	AnnotatorNotes T1267	PR:000013502 (parvalbumin alpha)
+T1268	EntrezGene 32727 32731	TrkA
+#1268	AnnotatorNotes T1268	EG:18211
+T1269	PR 32727 32731	TrkA
+#1269	AnnotatorNotes T1269	PR:000011469 (high affinity nerve growth factor receptor)
+T1270	CL 32747 32752	cells
+#1270	AnnotatorNotes T1270	CL:0000000 (cell)
+T1271	GO_CC 32747 32752	cells
+#1271	AnnotatorNotes T1271	GO:0005623 (cell)
+T1272	EntrezGene 32756 32760	TrkC
+#1272	AnnotatorNotes T1272	EG:18213
+T1273	PR 32756 32760	TrkC
+#1273	AnnotatorNotes T1273	PR:000011471 (NT-3 growth factor receptor)
+T1274	CL 32776 32781	cells
+#1274	AnnotatorNotes T1274	CL:0000000 (cell)
+T1275	GO_CC 32776 32781	cells
+#1275	AnnotatorNotes T1275	GO:0005623 (cell)
+T1276	CL 32838 32843	cells
+#1276	AnnotatorNotes T1276	CL:0000000 (cell)
+T1277	GO_CC 32838 32843	cells
+#1277	AnnotatorNotes T1277	GO:0005623 (cell)
+T1278	italic 32909 32912	Bax
+#1278	AnnotatorNotes T1278	italic (null)
+T1279	PR 32909 32912	Bax
+#1279	AnnotatorNotes T1279	PR:000002193 (apoptosis regulator BAX)
+T1280	EntrezGene 32909 32912	Bax
+#1280	AnnotatorNotes T1280	EG:12028
+T1281	italic 32922 32926	NT-3
+#1281	AnnotatorNotes T1281	italic (null)
+T1282	PR 32922 32926	NT-3
+#1282	AnnotatorNotes T1282	PR:000011459 (neurotrophin-3)
+T1283	EntrezGene 32922 32926	NT-3
+#1283	AnnotatorNotes T1283	EG:18205
+T1284	EntrezGene 32955 32959	TrkC
+#1284	AnnotatorNotes T1284	EG:18213
+T1285	PR 32955 32959	TrkC
+#1285	AnnotatorNotes T1285	PR:000011471 (NT-3 growth factor receptor)
+T1286	CL 32969 32974	cells
+#1286	AnnotatorNotes T1286	CL:0000000 (cell)
+T1287	GO_CC 32969 32974	cells
+#1287	AnnotatorNotes T1287	GO:0005623 (cell)
+T1288	EntrezGene 32989 32993	TrkA
+#1288	AnnotatorNotes T1288	EG:18211
+T1289	PR 32989 32993	TrkA
+#1289	AnnotatorNotes T1289	PR:000011469 (high affinity nerve growth factor receptor)
+T1290	EntrezGene 32994 32998	TrkC
+#1290	AnnotatorNotes T1290	EG:18213
+T1291	PR 32994 32998	TrkC
+#1291	AnnotatorNotes T1291	PR:000011471 (NT-3 growth factor receptor)
+T1292	GO_CC 33127 33133	Axonal
+#1292	AnnotatorNotes T1292	GO:0030424 (axon)
+T1293	GO_CC 33134 33145	Projections
+#1293	AnnotatorNotes T1293	GO:0042995 (cell projection)
+T1294	GO_BP 33214 33228	proprioceptive
+#1294	AnnotatorNotes T1294	GO:0019230 (proprioception)
+T1295	CL 33229 33236	neurons
+#1295	AnnotatorNotes T1295	CL:0000540 (neuron)
+T1296	CL 33264 33277	motor neurons
+#1296	AnnotatorNotes T1296	CL:0000100 (motor neuron)
+T1297	GO_BP 33264 33269	motor
+#1297	AnnotatorNotes T1297	GO:0050879 (multicellular organismal movement)
+T1298	GO_CC 33307 33312	axons
+#1298	AnnotatorNotes T1298	GO:0030424 (axon)
+T1299	GO_BP 33317 33325	directed
+#1299	AnnotatorNotes T1299	GO:0007411 (axon guidance)
+T1300	GO_BP 33433 33439	reflex
+#1300	AnnotatorNotes T1300	GO:0060004 (reflex)
+T1301	GO_BP 33459 33467	develops
+#1301	AnnotatorNotes T1301	GO:0032502 (developmental process)
+T1302	EntrezGene 33496 33500	NT-3
+#1302	AnnotatorNotes T1302	EG:18205
+T1303	PR 33496 33500	NT-3
+#1303	AnnotatorNotes T1303	PR:000011459 (neurotrophin-3)
+T1304	GO_BP 33501 33509	released
+#1304	AnnotatorNotes T1304	GO:0046903 (secretion)
+T1305	CL 33527 33540	motor neurons
+#1305	AnnotatorNotes T1305	CL:0000100 (motor neuron)
+T1306	GO_BP 33527 33532	motor
+#1306	AnnotatorNotes T1306	GO:0050879 (multicellular organismal movement)
+T1307	GO_CC 33686 33701	synaptic bouton
+#1307	AnnotatorNotes T1307	GO:0043195 (terminal button)
+T1308	GO_CC 33686 33694	synaptic
+#1308	AnnotatorNotes T1308	GO:0045202 (synapse)
+T1309	GO_BP 33764 33771	Sensory
+#1309	AnnotatorNotes T1309	GO:0007600 (sensory perception)
+T1310	GO_CC 33772 33777	Axons
+#1310	AnnotatorNotes T1310	GO:0030424 (axon)
+T1311	SO 33845 33847	WT
+#1311	AnnotatorNotes T1311	SO:0000817 (wild_type)
+T1312	GO_BP 33868 33882	proprioceptive
+#1312	AnnotatorNotes T1312	GO:0019230 (proprioception)
+T1313	GO_CC 33883 33888	axons
+#1313	AnnotatorNotes T1313	GO:0030424 (axon)
+T1314	CL 33911 33924	motor neurons
+#1314	AnnotatorNotes T1314	CL:0000100 (motor neuron)
+T1315	GO_BP 33911 33916	motor
+#1315	AnnotatorNotes T1315	GO:0050879 (multicellular organismal movement)
+T1316	EntrezGene 33995 33998	Bax
+#1316	AnnotatorNotes T1316	EG:12028
+T1317	PR 33995 33998	Bax
+#1317	AnnotatorNotes T1317	PR:000002193 (apoptosis regulator BAX)
+T1318	EntrezGene 34022 34026	NT-3
+#1318	AnnotatorNotes T1318	EG:18205
+T1319	PR 34022 34026	NT-3
+#1319	AnnotatorNotes T1319	PR:000011459 (neurotrophin-3)
+T1320	GO_BP 34082 34093	nociceptive
+#1320	AnnotatorNotes T1320	GO:0019233 (sensory perception of pain)
+T1321	GO_CC 34094 34099	axons
+#1321	AnnotatorNotes T1321	GO:0030424 (axon)
+T1322	EntrezGene 34202 34205	Bax
+#1322	AnnotatorNotes T1322	EG:12028
+T1323	PR 34202 34205	Bax
+#1323	AnnotatorNotes T1323	PR:000002193 (apoptosis regulator BAX)
+T1324	EntrezGene 34206 34210	NT-3
+#1324	AnnotatorNotes T1324	EG:18205
+T1325	PR 34206 34210	NT-3
+#1325	AnnotatorNotes T1325	PR:000011459 (neurotrophin-3)
+T1326	GO_BP 34300 34304	grow
+#1326	AnnotatorNotes T1326	GO:0040007 (growth)
+T1327	CL 34317 34330	motor neurons
+#1327	AnnotatorNotes T1327	CL:0000100 (motor neuron)
+T1328	GO_BP 34317 34322	motor
+#1328	AnnotatorNotes T1328	GO:0050879 (multicellular organismal movement)
+T1329	GO_BP 34340 34348	directed
+#1329	AnnotatorNotes T1329	GO:0007411 (axon guidance)
+T1330	EntrezGene 34453 34457	TrkA
+#1330	AnnotatorNotes T1330	EG:18211
+T1331	PR 34453 34457	TrkA
+#1331	AnnotatorNotes T1331	PR:000011469 (high affinity nerve growth factor receptor)
+T1332	EntrezGene 34458 34462	TrkC
+#1332	AnnotatorNotes T1332	EG:18213
+T1333	PR 34458 34462	TrkC
+#1333	AnnotatorNotes T1333	PR:000011471 (NT-3 growth factor receptor)
+T1334	EntrezGene 34503 34507	NF-M
+#1334	AnnotatorNotes T1334	EG:18040
+T1335	PR 34503 34507	NF-M
+#1335	AnnotatorNotes T1335	PR:000011120 (neurofilament medium polypeptide)
+T1336	EntrezGene 34651 34655	NF-M
+#1336	AnnotatorNotes T1336	EG:18040
+T1337	PR 34651 34655	NF-M
+#1337	AnnotatorNotes T1337	PR:000011120 (neurofilament medium polypeptide)
+T1338	EntrezGene 34750 34754	NF-M
+#1338	AnnotatorNotes T1338	EG:18040
+T1339	PR 34750 34754	NF-M
+#1339	AnnotatorNotes T1339	PR:000011120 (neurofilament medium polypeptide)
+T1340	EntrezGene 35182 35186	TrkC
+#1340	AnnotatorNotes T1340	EG:18213
+T1341	PR 35182 35186	TrkC
+#1341	AnnotatorNotes T1341	PR:000011471 (NT-3 growth factor receptor)
+T1342	EntrezGene 35249 35253	TrkA
+#1342	AnnotatorNotes T1342	EG:18211
+T1343	PR 35249 35253	TrkA
+#1343	AnnotatorNotes T1343	PR:000011469 (high affinity nerve growth factor receptor)
+T1344	EntrezGene 35264 35268	TrkC
+#1344	AnnotatorNotes T1344	EG:18213
+T1345	PR 35264 35268	TrkC
+#1345	AnnotatorNotes T1345	PR:000011471 (NT-3 growth factor receptor)
+T1346	EntrezGene 35333 35337	TrkC
+#1346	AnnotatorNotes T1346	EG:18213
+T1347	PR 35333 35337	TrkC
+#1347	AnnotatorNotes T1347	PR:000011471 (NT-3 growth factor receptor)
+T1348	italic 35369 35373	NT-3
+#1348	AnnotatorNotes T1348	italic (null)
+T1349	PR 35369 35373	NT-3
+#1349	AnnotatorNotes T1349	PR:000011459 (neurotrophin-3)
+T1350	EntrezGene 35369 35373	NT-3
+#1350	AnnotatorNotes T1350	EG:18205
+T1351	EntrezGene 35488 35492	TrkA
+#1351	AnnotatorNotes T1351	EG:18211
+T1352	PR 35488 35492	TrkA
+#1352	AnnotatorNotes T1352	PR:000011469 (high affinity nerve growth factor receptor)
+T1353	EntrezGene 35497 35501	TrkC
+#1353	AnnotatorNotes T1353	EG:18213
+T1354	PR 35497 35501	TrkC
+#1354	AnnotatorNotes T1354	PR:000011471 (NT-3 growth factor receptor)
+T1355	GO_BP 35560 35572	localization
+#1355	AnnotatorNotes T1355	GO:0051179 (localization)
+T1356	GO_BP 35673 35688	Chemoattraction
+#1356	AnnotatorNotes T1356	GO:0050918 (positive chemotaxis)
+T1357	GO_CC 35700 35705	Axons
+#1357	AnnotatorNotes T1357	GO:0030424 (axon)
+T1358	PR 35715 35719	NT-3
+#1358	AnnotatorNotes T1358	PR:000011459 (neurotrophin-3)
+T1359	SO 35764 35766	WT
+#1359	AnnotatorNotes T1359	SO:0000817 (wild_type)
+T1360	PR 35776 35780	NT-3
+#1360	AnnotatorNotes T1360	PR:000011459 (neurotrophin-3)
+T1361	SO 35799 35801	WT
+#1361	AnnotatorNotes T1361	SO:0000817 (wild_type)
+T1362	EntrezGene 35833 35836	Bax
+#1362	AnnotatorNotes T1362	EG:12028
+T1363	PR 35833 35836	Bax
+#1363	AnnotatorNotes T1363	PR:000002193 (apoptosis regulator BAX)
+T1364	PR 35851 35855	NT-3
+#1364	AnnotatorNotes T1364	PR:000011459 (neurotrophin-3)
+T1365	EntrezGene 35874 35877	p75
+#1365	AnnotatorNotes T1365	EG:18053
+T1366	PR 35874 35877	p75
+#1366	AnnotatorNotes T1366	PR:000001405 (tumor necrosis factor receptor superfamily member 16)
+T1367	PR 35892 35896	NT-3
+#1367	AnnotatorNotes T1367	PR:000011459 (neurotrophin-3)
+T1368	SO 35915 35917	WT
+#1368	AnnotatorNotes T1368	SO:0000817 (wild_type)
+T1369	PR 35927 35931	NT-3
+#1369	AnnotatorNotes T1369	PR:000011459 (neurotrophin-3)
+T1370	PR 35948 35952	TrkC
+#1370	AnnotatorNotes T1370	PR:000011471 (NT-3 growth factor receptor)
+T1371	SO 35976 35978	WT
+#1371	AnnotatorNotes T1371	SO:0000817 (wild_type)
+T1372	PR 35988 35992	NT-3
+#1372	AnnotatorNotes T1372	PR:000011459 (neurotrophin-3)
+T1373	GO_BP 36131 36146	Chemoattraction
+#1373	AnnotatorNotes T1373	GO:0050918 (positive chemotaxis)
+T1374	PR 36155 36159	NT-3
+#1374	AnnotatorNotes T1374	PR:000011459 (neurotrophin-3)
+T1375	PR 36221 36225	NT-3
+#1375	AnnotatorNotes T1375	PR:000011459 (neurotrophin-3)
+T1376	SO 36260 36262	WT
+#1376	AnnotatorNotes T1376	SO:0000817 (wild_type)
+T1377	GO_CC 36283 36288	axons
+#1377	AnnotatorNotes T1377	GO:0030424 (axon)
+T1378	GO_BP 36348 36355	growing
+#1378	AnnotatorNotes T1378	GO:0040007 (growth)
+T1379	GO_CC 36529 36534	axons
+#1379	AnnotatorNotes T1379	GO:0030424 (axon)
+T1380	GO_CC 36651 36656	axons
+#1380	AnnotatorNotes T1380	GO:0030424 (axon)
+T1381	PR 36707 36711	NT-3
+#1381	AnnotatorNotes T1381	PR:000011459 (neurotrophin-3)
+T1382	GO_CC 36732 36737	axons
+#1382	AnnotatorNotes T1382	GO:0030424 (axon)
+T1383	PR 36791 36795	NT-3
+#1383	AnnotatorNotes T1383	PR:000011459 (neurotrophin-3)
+T1384	GO_CC 36820 36825	axons
+#1384	AnnotatorNotes T1384	GO:0030424 (axon)
+T1385	PR 37197 37201	NT-3
+#1385	AnnotatorNotes T1385	PR:000011459 (neurotrophin-3)
+T1386	GO_BP 37209 37218	localized
+#1386	AnnotatorNotes T1386	GO:0051179 (localization)
+T1387	GO_CC 37241 37246	axons
+#1387	AnnotatorNotes T1387	GO:0030424 (axon)
+T1388	GO_BP 37247 37251	grow
+#1388	AnnotatorNotes T1388	GO:0040007 (growth)
+T1389	PR 37264 37268	NT-3
+#1389	AnnotatorNotes T1389	PR:000011459 (neurotrophin-3)
+T1390	PR 37275 37279	NT-3
+#1390	AnnotatorNotes T1390	PR:000011459 (neurotrophin-3)
+T1391	GO_BP 37300 37306	growth
+#1391	AnnotatorNotes T1391	GO:0040007 (growth)
+T1392	GO_BP 37372 37379	growing
+#1392	AnnotatorNotes T1392	GO:0040007 (growth)
+T1393	GO_BP 37420 37427	forming
+#1393	AnnotatorNotes T1393	GO:0032502 (developmental process)
+T1394	GO_BP 37447 37456	branching
+#1394	AnnotatorNotes T1394	GO:0001763 (morphogenesis of a branching structure)
+T1395	bold 37524 37546	Conflicts of interest.
+#1395	AnnotatorNotes T1395	bold (null)
+T1396	bold 37611 37632	Author contributions.
+#1396	AnnotatorNotes T1396	bold (null)
+T1397	GO_BP 38065 38080	chemoattractant
+#1397	AnnotatorNotes T1397	GO:0050918 (positive chemotaxis)
+T1398	EntrezGene 38090 38094	NT-3
+#1398	AnnotatorNotes T1398	EG:18205
+T1399	PR 38090 38094	NT-3
+#1399	AnnotatorNotes T1399	PR:000011459 (neurotrophin-3)
+T1400	GO_BP 38098 38112	proprioceptive
+#1400	AnnotatorNotes T1400	GO:0019230 (proprioception)
+T1401	GO_BP 38113 38126	axon guidance
+#1401	AnnotatorNotes T1401	GO:0007411 (axon guidance)
+T1402	GO_CC 38113 38117	axon
+#1402	AnnotatorNotes T1402	GO:0030424 (axon)

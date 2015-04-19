@@ -1,0 +1,4282 @@
+T1	GO_BP 0 22	BMP Receptor Signaling
+#1	AnnotatorNotes T1	GO:0030509 (BMP signaling pathway)
+T2	PR 0 3	BMP
+#2	AnnotatorNotes T2	PR:000000034 (BMP)
+T3	GO_MF 4 12	Receptor
+#3	AnnotatorNotes T3	GO:0004872 (receptor activity)
+T4	independent_continuant 4 12	Receptor
+#4	AnnotatorNotes T4	independent_continuant
+T5	GO_BP 153 161	mobility
+#5	AnnotatorNotes T5	GO:0050879 (multicellular organismal movement)
+T6	NCBITaxon 212 218	people
+#6	AnnotatorNotes T6	NCBITaxon:9606 (Homo sapiens)
+T7	CHEBI 247 256	molecular
+#7	AnnotatorNotes T7	CHEBI:36357 (polyatomic entities)
+T8	GO_BP 273 279	create
+#8	AnnotatorNotes T8	GO:0032502 (developmental process)
+T9	GO_BP 431 446	gene expression
+#9	AnnotatorNotes T9	GO:0010467 (gene expression)
+T10	SO 431 435	gene
+#10	AnnotatorNotes T10	SO:0000704 (gene)
+T11	GO_BP 512 522	regulatory
+#11	AnnotatorNotes T11	GO:0065007 (biological regulation)
+T12	EntrezGene 544 554	mouse Gdf5
+#12	AnnotatorNotes T12	EG:14563
+T13	NCBITaxon 544 549	mouse
+#13	AnnotatorNotes T13	NCBITaxon:10088 (Mus)
+T14	italic 550 554	Gdf5
+#14	AnnotatorNotes T14	italic (null)
+T15	PR 550 554	Gdf5
+#15	AnnotatorNotes T15	PR:000000281 (growth/differentiation factor 5)
+T16	SO 555 559	gene
+#16	AnnotatorNotes T16	SO:0000704 (gene)
+T17	PR 563 589	bone morphogenetic protein
+#17	AnnotatorNotes T17	PR:000000034 (BMP)
+T18	GO_BP 568 581	morphogenetic
+#18	AnnotatorNotes T18	GO:0009653 (anatomical structure morphogenesis)
+T19	CHEBI 582 589	protein
+#19	AnnotatorNotes T19	CHEBI:36080 (proteins)
+T20	PR 591 594	BMP
+#20	AnnotatorNotes T20	PR:000000034 (BMP)
+T21	GO_BP 614 621	develop
+#21	AnnotatorNotes T21	GO:0000003 (reproduction)
+T22	NCBITaxon 626 631	mouse
+#22	AnnotatorNotes T22	NCBITaxon:10088 (Mus)
+T23	SO 688 693	genes
+#23	AnnotatorNotes T23	SO:0000704 (gene)
+T24	GO_BP 710 720	developing
+#24	AnnotatorNotes T24	GO:0032502 (developmental process)
+T25	GO_BP 729 739	Expression
+#25	AnnotatorNotes T25	GO:0010467 (gene expression)
+T26	GO_MF 747 758	recombinase
+#26	AnnotatorNotes T26	GO:0000150 (recombinase activity)
+T27	independent_continuant 747 758	recombinase
+#27	AnnotatorNotes T27	independent_continuant
+T28	GO_MF 747 758	recombinase
+#28	AnnotatorNotes T28	GO:0009009 (site-specific recombinase activity)
+T29	italic 764 768	Gdf5
+#29	AnnotatorNotes T29	italic (null)
+T30	PR 764 768	Gdf5
+#30	AnnotatorNotes T30	PR:000000281 (growth/differentiation factor 5)
+T31	EntrezGene 764 768	Gdf5
+#31	AnnotatorNotes T31	EG:14563
+T32	SO 769 800	bacterial artificial chromosome
+#32	AnnotatorNotes T32	SO:0000153 (BAC)
+T33	NCBITaxon 769 778	bacterial
+#33	AnnotatorNotes T33	NCBITaxon:2 (Bacteria)
+T34	GO_CC 790 800	chromosome
+#34	AnnotatorNotes T34	GO:0005694 (chromosome)
+T35	SO 801 807	clones
+#35	AnnotatorNotes T35	SO:0000151 (clone)
+T36	SO 856 875	floxed target genes
+#36	AnnotatorNotes T36	"floxed .. genes" SO:0000363 (floxed_gene)
+T37	SO 856 862	floxed
+#37	AnnotatorNotes T37	SO:0000359 (floxed)
+T38	GO_BP 879 889	developing
+#38	AnnotatorNotes T38	GO:0032502 (developmental process)
+T39	GO_BP 1027 1049	BMP receptor signaling
+#39	AnnotatorNotes T39	GO:0030509 (BMP signaling pathway)
+T40	PR 1027 1030	BMP
+#40	AnnotatorNotes T40	PR:000000034 (BMP)
+T41	GO_MF 1031 1039	receptor
+#41	AnnotatorNotes T41	GO:0004872 (receptor activity)
+T42	independent_continuant 1031 1039	receptor
+#42	AnnotatorNotes T42	independent_continuant
+T43	GO_BP 1059 1070	development
+#43	AnnotatorNotes T43	GO:0032502 (developmental process)
+T44	NCBITaxon 1072 1076	Mice
+#44	AnnotatorNotes T44	NCBITaxon:10088 (Mus)
+T45	SO 1087 1096	mutations
+#45	AnnotatorNotes T45	SO:0001059 (sequence_alteration)
+T46	italic 1100 1106	Bmpr1a
+#46	AnnotatorNotes T46	italic (null)
+T47	EntrezGene 1100 1106	Bmpr1a
+#47	AnnotatorNotes T47	EG:12166
+T48	PR 1100 1106	Bmpr1a
+#48	AnnotatorNotes T48	PR:000000035 (BMP receptor type-1A)
+T49	GO_BP 1120 1123	die
+#49	AnnotatorNotes T49	GO:0016265 (death)
+T50	GO_BP 1133 1146	embryogenesis
+#50	AnnotatorNotes T50	GO:0009790 (embryonic development)
+T51	SO 1191 1197	floxed
+#51	AnnotatorNotes T51	SO:0000359 (floxed)
+T52	italic 1198 1204	Bmpr1a
+#52	AnnotatorNotes T52	italic (null)
+T53	EntrezGene 1198 1204	Bmpr1a
+#53	AnnotatorNotes T53	EG:12166
+T54	PR 1198 1204	Bmpr1a
+#54	AnnotatorNotes T54	PR:000000035 (BMP receptor type-1A)
+T55	SO 1205 1211	allele
+#55	AnnotatorNotes T55	SO:0001023 (allele)
+T56	italic 1221 1225	Gdf5
+#56	AnnotatorNotes T56	italic (null)
+T57	PR 1221 1225	Gdf5
+#57	AnnotatorNotes T57	PR:000000281 (growth/differentiation factor 5)
+T58	EntrezGene 1221 1225	Gdf5
+#58	AnnotatorNotes T58	EG:14563
+T59	italic 1226 1229	Cre
+#59	AnnotatorNotes T59	italic (null)
+T60	GO_BP 1285 1290	birth
+#60	AnnotatorNotes T60	GO:0007567 (parturition)
+T61	GO_BP 1305 1316	development
+#61	AnnotatorNotes T61	GO:0032502 (developmental process)
+T62	NCBITaxon 1320 1324	mice
+#62	AnnotatorNotes T62	NCBITaxon:10088 (Mus)
+T63	italic 1337 1343	Bmpr1a
+#63	AnnotatorNotes T63	italic (null)
+T64	PR 1337 1343	Bmpr1a
+#64	AnnotatorNotes T64	PR:000000035 (BMP receptor type-1A)
+T65	EntrezGene 1337 1343	Bmpr1a
+#65	AnnotatorNotes T65	EG:12166
+T66	SO 1344 1348	gene
+#66	AnnotatorNotes T66	SO:0000704 (gene)
+T67	GO_BP 1395 1399	form
+#67	AnnotatorNotes T67	GO:0032502 (developmental process)
+T68	PR 1427 1442	Bmpr1a receptor
+#68	AnnotatorNotes T68	PR:000000035 (BMP receptor type-1A)
+T69	italic 1427 1433	Bmpr1a
+#69	AnnotatorNotes T69	italic (null)
+T70	EntrezGene 1427 1433	Bmpr1a
+#70	AnnotatorNotes T70	EG:12166
+T71	independent_continuant 1434 1442	receptor
+#71	AnnotatorNotes T71	independent_continuant
+T72	GO_MF 1434 1442	receptor
+#72	AnnotatorNotes T72	GO:0004872 (receptor activity)
+T73	GO_MF 1524 1532	receptor
+#73	AnnotatorNotes T73	GO:0004872 (receptor activity)
+T74	independent_continuant 1524 1532	receptor
+#74	AnnotatorNotes T74	independent_continuant
+T75	NCBITaxon 1543 1547	mice
+#75	AnnotatorNotes T75	NCBITaxon:10088 (Mus)
+T76	GO_BP 1554 1559	birth
+#76	AnnotatorNotes T76	GO:0007567 (parturition)
+T77	NCBITaxon 1584 1589	human
+#77	AnnotatorNotes T77	NCBITaxon:9606 (Homo sapiens)
+T78	italic 1606 1610	Gdf5
+#78	AnnotatorNotes T78	italic (null)
+T79	EntrezGene 1606 1610	Gdf5
+#79	AnnotatorNotes T79	EG:14563
+T80	PR 1606 1610	Gdf5
+#80	AnnotatorNotes T80	PR:000000281 (growth/differentiation factor 5)
+T81	italic 1611 1614	Cre
+#81	AnnotatorNotes T81	italic (null)
+T82	NCBITaxon 1615 1619	mice
+#82	AnnotatorNotes T82	NCBITaxon:10088 (Mus)
+T83	SO 1682 1687	genes
+#83	AnnotatorNotes T83	SO:0000704 (gene)
+T84	GO_BP 1710 1732	BMP receptor signaling
+#84	AnnotatorNotes T84	GO:0030509 (BMP signaling pathway)
+T85	PR 1710 1713	BMP
+#85	AnnotatorNotes T85	PR:000000034 (BMP)
+T86	GO_MF 1714 1722	receptor
+#86	AnnotatorNotes T86	GO:0004872 (receptor activity)
+T87	independent_continuant 1714 1722	receptor
+#87	AnnotatorNotes T87	independent_continuant
+T88	GO_BP 1764 1775	development
+#88	AnnotatorNotes T88	GO:0032502 (developmental process)
+T89	GO_BP 1780 1808	creation of multiple tissues
+#89	AnnotatorNotes T89	"creation of .. tissues" GO:0009888 (tissue development)
+T90	GO_BP 1872 1877	birth
+#90	AnnotatorNotes T90	GO:0007567 (parturition)
+T91	SO 1879 1886	Genetic
+#91	AnnotatorNotes T91	SO:0000704 (gene)
+T92	GO_BP 1916 1938	BMP receptor signaling
+#92	AnnotatorNotes T92	GO:0030509 (BMP signaling pathway)
+T93	PR 1916 1919	BMP
+#93	AnnotatorNotes T93	PR:000000034 (BMP)
+T94	GO_MF 1920 1928	receptor
+#94	AnnotatorNotes T94	GO:0004872 (receptor activity)
+T95	independent_continuant 1920 1928	receptor
+#95	AnnotatorNotes T95	independent_continuant
+T96	NCBITaxon 1974 1979	human
+#96	AnnotatorNotes T96	NCBITaxon:9606 (Homo sapiens)
+T97	GO_BP 2025 2032	augment
+#97	AnnotatorNotes T97	GO:0048518 (positive regulation of biological process)
+T98	GO_BP 2033 2055	BMP receptor signaling
+#98	AnnotatorNotes T98	GO:0030509 (BMP signaling pathway)
+T99	PR 2033 2036	BMP
+#99	AnnotatorNotes T99	PR:000000034 (BMP)
+T100	GO_MF 2037 2045	receptor
+#100	AnnotatorNotes T100	GO:0004872 (receptor activity)
+T101	independent_continuant 2037 2045	receptor
+#101	AnnotatorNotes T101	independent_continuant
+T102	NCBITaxon 2534 2540	people
+#102	AnnotatorNotes T102	NCBITaxon:9606 (Homo sapiens)
+T103	NCBITaxon 2615 2621	people
+#103	AnnotatorNotes T103	NCBITaxon:9606 (Homo sapiens)
+T104	CHEBI 2711 2720	molecular
+#104	AnnotatorNotes T104	CHEBI:36357 (polyatomic entities)
+T105	GO_BP 2737 2743	create
+#105	AnnotatorNotes T105	GO:0032502 (developmental process)
+T106	GO_BP 2882 2891	formation
+#106	AnnotatorNotes T106	GO:0032502 (developmental process)
+T107	GO_BP 2906 2919	embryogenesis
+#107	AnnotatorNotes T107	GO:0009790 (embryonic development)
+T108	CL 2942 2946	cell
+#108	AnnotatorNotes T108	CL:0000000 (cell)
+T109	GO_CC 2942 2946	cell
+#109	AnnotatorNotes T109	GO:0005623 (cell)
+T110	GO_BP 2973 2977	form
+#110	AnnotatorNotes T110	GO:0032502 (developmental process)
+T111	GO_BP 2985 2995	developing
+#111	AnnotatorNotes T111	GO:0032502 (developmental process)
+T112	GO_BP 3031 3052	Programmed cell death
+#112	AnnotatorNotes T112	GO:0012501 (programmed cell death)
+T113	CL 3042 3046	cell
+#113	AnnotatorNotes T113	CL:0000000 (cell)
+T114	GO_CC 3042 3046	cell
+#114	AnnotatorNotes T114	GO:0005623 (cell)
+T115	GO_BP 3112 3117	forms
+#115	AnnotatorNotes T115	GO:0032502 (developmental process)
+T116	CL 3148 3152	cell
+#116	AnnotatorNotes T116	CL:0000000 (cell)
+T117	GO_CC 3148 3152	cell
+#117	AnnotatorNotes T117	GO:0005623 (cell)
+T118	CL 3188 3192	cell
+#118	AnnotatorNotes T118	CL:0000000 (cell)
+T119	GO_CC 3188 3192	cell
+#119	AnnotatorNotes T119	GO:0005623 (cell)
+T120	GO_BP 3249 3256	develop
+#120	AnnotatorNotes T120	GO:0032502 (developmental process)
+T121	CL 3327 3332	cells
+#121	AnnotatorNotes T121	CL:0000000 (cell)
+T122	GO_CC 3327 3332	cells
+#122	AnnotatorNotes T122	GO:0005623 (cell)
+T123	GO_BP 3416 3423	develop
+#123	AnnotatorNotes T123	GO:0032502 (developmental process)
+T124	GO_BP 3580 3598	signaling pathways
+#124	AnnotatorNotes T124	GO:0007165 (signal transduction)
+T125	GO_BP 3644 3653	formation
+#125	AnnotatorNotes T125	GO:0032502 (developmental process)
+T126	italic 3655 3660	Wnt14
+#126	AnnotatorNotes T126	italic (null)
+T127	PR 3655 3660	Wnt14
+#127	AnnotatorNotes T127	PR:000017452 (protein Wnt-9a)
+T128	GO_BP 3664 3673	expressed
+#128	AnnotatorNotes T128	GO:0010467 (gene expression)
+T129	GO_BP 3716 3720	form
+#129	AnnotatorNotes T129	GO:0032502 (developmental process)
+T130	GO_BP 3752 3762	expression
+#130	AnnotatorNotes T130	GO:0010467 (gene expression)
+T131	PR 3883 3909	bone morphogenetic protein
+#131	AnnotatorNotes T131	PR:000000034 (BMP)
+T132	GO_BP 3888 3901	morphogenetic
+#132	AnnotatorNotes T132	GO:0009653 (anatomical structure morphogenesis)
+T133	CHEBI 3902 3909	protein
+#133	AnnotatorNotes T133	CHEBI:36080 (proteins)
+T134	PR 3911 3914	BMP
+#134	AnnotatorNotes T134	PR:000000034 (BMP)
+T135	GO_BP 3926 3934	secreted
+#135	AnnotatorNotes T135	GO:0046903 (secretion)
+T136	GO_BP 3935 3944	signaling
+#136	AnnotatorNotes T136	GO:0007165 (signal transduction)
+T137	CHEBI 3945 3954	molecules
+#137	AnnotatorNotes T137	CHEBI:36357 (polyatomic entities)
+T138	GO_BP 3964 3973	expressed
+#138	AnnotatorNotes T138	GO:0010467 (gene expression)
+T139	GO_BP 4012 4016	form
+#139	AnnotatorNotes T139	GO:0032502 (developmental process)
+T140	SO 4049 4054	genes
+#140	AnnotatorNotes T140	SO:0000704 (gene)
+T141	italic 4055 4078	Gdf5, Gdf6, Gdf7, Bmp2,
+#141	AnnotatorNotes T141	italic (null)
+T142	PR 4055 4059	Gdf5
+#142	AnnotatorNotes T142	PR:000000281 (growth/differentiation factor 5)
+T143	PR 4061 4065	Gdf6
+#143	AnnotatorNotes T143	PR:000007924 (growth/differentiation factor 6)
+T144	PR 4067 4071	Gdf7
+#144	AnnotatorNotes T144	PR:000000282 (growth/differentiation factor 7)
+T145	PR 4073 4077	Bmp2
+#145	AnnotatorNotes T145	PR:000000164 (BMP2)
+T146	italic 4083 4087	Bmp4
+#146	AnnotatorNotes T146	italic (null)
+T147	PR 4083 4087	Bmp4
+#147	AnnotatorNotes T147	PR:000000165 (BMP4)
+T148	italic 4192 4196	Gdf5
+#148	AnnotatorNotes T148	italic (null)
+T149	PR 4192 4196	Gdf5
+#149	AnnotatorNotes T149	PR:000000281 (growth/differentiation factor 5)
+T150	GO_BP 4197 4207	expression
+#150	AnnotatorNotes T150	GO:0010467 (gene expression)
+T151	GO_BP 4264 4271	develop
+#151	AnnotatorNotes T151	GO:0032502 (developmental process)
+T152	SO 4299 4304	known
+#152	AnnotatorNotes T152	SO:0000906 (independently_known)
+T153	GO_BP 4322 4331	formation
+#153	AnnotatorNotes T153	GO:0032502 (developmental process)
+T154	SO 4333 4342	Mutations
+#154	AnnotatorNotes T154	SO:0001059 (sequence_alteration)
+T155	italic 4353 4357	Gdf5
+#155	AnnotatorNotes T155	italic (null)
+T156	PR 4353 4357	Gdf5
+#156	AnnotatorNotes T156	PR:000000281 (growth/differentiation factor 5)
+T157	italic 4381 4385	Gdf6
+#157	AnnotatorNotes T157	italic (null)
+T158	PR 4381 4385	Gdf6
+#158	AnnotatorNotes T158	PR:000007924 (growth/differentiation factor 6)
+T159	SO 4386 4390	gene
+#159	AnnotatorNotes T159	SO:0000704 (gene)
+T160	GO_BP 4402 4411	formation
+#160	AnnotatorNotes T160	GO:0032502 (developmental process)
+T161	GO_BP 4520 4537	formation process
+#161	AnnotatorNotes T161	GO:0032502 (developmental process)
+T162	SO 4588 4597	mutations
+#162	AnnotatorNotes T162	SO:0001059 (sequence_alteration)
+T163	italic 4601 4605	Bmp2
+#163	AnnotatorNotes T163	italic (null)
+T164	PR 4601 4605	Bmp2
+#164	AnnotatorNotes T164	PR:000000164 (BMP2)
+T165	italic 4609 4613	Bmp4
+#165	AnnotatorNotes T165	italic (null)
+T166	PR 4609 4613	Bmp4
+#166	AnnotatorNotes T166	PR:000000165 (BMP4)
+T167	GO_BP 4695 4704	formation
+#167	AnnotatorNotes T167	GO:0032502 (developmental process)
+T168	GO_BP 4782 4800	signaling pathways
+#168	AnnotatorNotes T168	GO:0007165 (signal transduction)
+T169	GO_BP 4832 4842	maturation
+#169	AnnotatorNotes T169	GO:0021700 (developmental maturation)
+T170	GO_BP 4899 4912	BMP signaling
+#170	AnnotatorNotes T170	GO:0030509 (BMP signaling pathway)
+T171	PR 4899 4902	BMP
+#171	AnnotatorNotes T171	PR:000000034 (BMP)
+T172	GO_BP 5016 5027	development
+#172	AnnotatorNotes T172	GO:0032502 (developmental process)
+T173	PR 5180 5184	BMPs
+#173	AnnotatorNotes T173	PR:000000034 (BMP)
+T174	GO_MF 5185 5189	bind
+#174	AnnotatorNotes T174	GO:0005488 (binding)
+T175	GO_CC 5201 5210	complexes
+#175	AnnotatorNotes T175	GO:0032991 (macromolecular complex)
+T176	GO_MF 5241 5288	transmembrane serine-threonine kinase receptors
+#176	AnnotatorNotes T176	GO:0004675 (transmembrane receptor protein serine/threonine kinase activity)
+T177	independent_continuant 5241 5288	transmembrane serine-threonine kinase receptors
+#177	AnnotatorNotes T177	independent_continuant
+T178	GO_CC 5241 5254	transmembrane
+#178	AnnotatorNotes T178	GO:0016021 (integral to membrane)
+T179	independent_continuant 5255 5278	serine-threonine kinase
+#179	AnnotatorNotes T179	independent_continuant
+T180	GO_MF 5255 5278	serine-threonine kinase
+#180	AnnotatorNotes T180	GO:0004674 (protein serine/threonine kinase activity)
+T181	CHEBI 5255 5261	serine
+#181	AnnotatorNotes T181	CHEBI:32848 (serine residue)
+T182	SO 5255 5261	serine
+#182	AnnotatorNotes T182	SO:0001444 (serine)
+T183	CHEBI 5262 5271	threonine
+#183	AnnotatorNotes T183	CHEBI:32835 (threonine residue)
+T184	SO 5262 5271	threonine
+#184	AnnotatorNotes T184	SO:0001445 (threonine)
+T185	PR 5295 5298	BMP
+#185	AnnotatorNotes T185	PR:000000034 (BMP)
+T186	GO_MF 5299 5306	binding
+#186	AnnotatorNotes T186	GO:0005488 (binding)
+T187	GO_CC 5314 5323	complexes
+#187	AnnotatorNotes T187	GO:0032991 (macromolecular complex)
+T188	GO_BP 5324 5333	transduce
+#188	AnnotatorNotes T188	GO:0007165 (signal transduction)
+T189	GO_BP 5346 5361	phosphorylating
+#189	AnnotatorNotes T189	GO:0016310 (phosphorylation)
+T190	PR 5377 5381	Smad
+#190	AnnotatorNotes T190	PR:000000027 (smad protein)
+T191	GO_MF 5392 5413	transcription factors
+#191	AnnotatorNotes T191	GO:0003700 (transcription factor activity)
+T192	independent_continuant 5392 5413	transcription factors
+#192	AnnotatorNotes T192	independent_continuant
+T193	GO_BP 5392 5405	transcription
+#193	AnnotatorNotes T193	GO:0006350 (transcription)
+T194	PR 5480 5483	BMP
+#194	AnnotatorNotes T194	PR:000000034 (BMP)
+T195	GO_MF 5491 5500	receptors
+#195	AnnotatorNotes T195	GO:0004872 (receptor activity)
+T196	independent_continuant 5491 5500	receptors
+#196	AnnotatorNotes T196	independent_continuant
+T197	GO_BP 5513 5523	patterning
+#197	AnnotatorNotes T197	GO:0007389 (pattern specification process)
+T198	PR 5525 5531	BMPR1A
+#198	AnnotatorNotes T198	PR:000000035 (BMP receptor type-1A)
+T199	PR 5536 5542	BMPR1B
+#199	AnnotatorNotes T199	PR:000000036 (BMP receptor type-1B)
+T200	GO_MF 5549 5558	receptors
+#200	AnnotatorNotes T200	GO:0004872 (receptor activity)
+T201	independent_continuant 5549 5558	receptors
+#201	AnnotatorNotes T201	independent_continuant
+T202	GO_MF 5563 5567	bind
+#202	AnnotatorNotes T202	GO:0005488 (binding)
+T203	PR 5568 5572	BMP2
+#203	AnnotatorNotes T203	PR:000000164 (BMP2)
+T204	PR 5574 5578	BMP4
+#204	AnnotatorNotes T204	PR:000000165 (BMP4)
+T205	PR 5584 5588	GDF5
+#205	AnnotatorNotes T205	PR:000000281 (growth/differentiation factor 5)
+T206	PR 5599 5603	GDF5
+#206	AnnotatorNotes T206	PR:000000281 (growth/differentiation factor 5)
+T207	PR 5630 5636	BMPR1B
+#207	AnnotatorNotes T207	PR:000000036 (BMP receptor type-1B)
+T208	GO_MF 5750 5759	receptors
+#208	AnnotatorNotes T208	GO:0004872 (receptor activity)
+T209	independent_continuant 5750 5759	receptors
+#209	AnnotatorNotes T209	independent_continuant
+T210	GO_BP 5769 5778	expressed
+#210	AnnotatorNotes T210	GO:0010467 (gene expression)
+T211	GO_BP 5813 5824	development
+#211	AnnotatorNotes T211	GO:0032502 (developmental process)
+T212	italic 5836 5842	Bmpr1a
+#212	AnnotatorNotes T212	italic (null)
+T213	PR 5836 5842	Bmpr1a
+#213	AnnotatorNotes T213	PR:000000035 (BMP receptor type-1A)
+T214	GO_BP 5843 5853	expression
+#214	AnnotatorNotes T214	GO:0010467 (gene expression)
+T215	CL 5934 5959	hypertrophic chondrocytes
+#215	AnnotatorNotes T215	CL:0000743 (hypertrophic chondrocyte)
+T216	italic 6010 6016	Bmpr1b
+#216	AnnotatorNotes T216	italic (null)
+T217	PR 6010 6016	Bmpr1b
+#217	AnnotatorNotes T217	PR:000000036 (BMP receptor type-1B)
+T218	GO_BP 6017 6027	expression
+#218	AnnotatorNotes T218	GO:0010467 (gene expression)
+T219	CL 6077 6094	mesenchymal cells
+#219	AnnotatorNotes T219	CL:0000134 (mesenchymal cell)
+T220	GO_CC 6089 6094	cells
+#220	AnnotatorNotes T220	GO:0005623 (cell)
+T221	SO 6257 6266	mutations
+#221	AnnotatorNotes T221	SO:0001059 (sequence_alteration)
+T222	italic 6274 6280	Bmpr1b
+#222	AnnotatorNotes T222	italic (null)
+T223	PR 6274 6280	Bmpr1b
+#223	AnnotatorNotes T223	PR:000000036 (BMP receptor type-1B)
+T224	EntrezGene 6274 6280	Bmpr1b
+#224	AnnotatorNotes T224	EG:12167
+T225	SO 6281 6285	gene
+#225	AnnotatorNotes T225	SO:0000704 (gene)
+T226	GO_BP 6286 6293	produce
+#226	AnnotatorNotes T226	GO:0000003 (reproduction)
+T227	NCBITaxon 6301 6305	mice
+#227	AnnotatorNotes T227	NCBITaxon:10088 (Mus)
+T228	GO_BP 6322 6346	bone and joint formation
+#228	AnnotatorNotes T228	"bone .. formation" GO:0001503 (ossification)
+T229	NCBITaxon 6383 6387	mice
+#229	AnnotatorNotes T229	NCBITaxon:10088 (Mus)
+T230	italic 6396 6400	Gdf5
+#230	AnnotatorNotes T230	italic (null)
+T231	PR 6396 6400	Gdf5
+#231	AnnotatorNotes T231	PR:000000281 (growth/differentiation factor 5)
+T232	EntrezGene 6396 6400	Gdf5
+#232	AnnotatorNotes T232	EG:14563
+T233	SO 6467 6476	mutations
+#233	AnnotatorNotes T233	SO:0001059 (sequence_alteration)
+T234	italic 6480 6486	Bmpr1a
+#234	AnnotatorNotes T234	italic (null)
+T235	PR 6480 6486	Bmpr1a
+#235	AnnotatorNotes T235	PR:000000035 (BMP receptor type-1A)
+T236	GO_BP 6536 6548	gastrulation
+#236	AnnotatorNotes T236	GO:0007369 (gastrulation)
+T237	NCBITaxon 6574 6578	mice
+#237	AnnotatorNotes T237	NCBITaxon:10088 (Mus)
+T238	SO 6584 6593	mutations
+#238	AnnotatorNotes T238	SO:0001059 (sequence_alteration)
+T239	italic 6597 6601	Bmp4
+#239	AnnotatorNotes T239	italic (null)
+T240	PR 6597 6601	Bmp4
+#240	AnnotatorNotes T240	PR:000000165 (BMP4)
+T241	EntrezGene 6597 6601	Bmp4
+#241	AnnotatorNotes T241	EG:12159
+T242	SO 6666 6672	floxed
+#242	AnnotatorNotes T242	SO:0000359 (floxed)
+T243	SO 6673 6680	alleles
+#243	AnnotatorNotes T243	SO:0001023 (allele)
+T244	italic 6694 6700	Bmpr1a
+#244	AnnotatorNotes T244	italic (null)
+T245	PR 6694 6700	Bmpr1a
+#245	AnnotatorNotes T245	PR:000000035 (BMP receptor type-1A)
+T246	GO_BP 6733 6753	developmental events
+#246	AnnotatorNotes T246	GO:0032502 (developmental process)
+T247	GO_BP 6772 6796	bone and joint formation
+#247	AnnotatorNotes T247	"bone .. formation" GO:0001503 (ossification)
+T248	SO 6841 6848	genetic
+#248	AnnotatorNotes T248	SO:0000704 (gene)
+T249	SO 6887 6892	genes
+#249	AnnotatorNotes T249	SO:0000704 (gene)
+T250	GO_BP 6981 6990	formation
+#250	AnnotatorNotes T250	GO:0032502 (developmental process)
+T251	GO_BP 7054 7064	expression
+#251	AnnotatorNotes T251	GO:0010467 (gene expression)
+T252	italic 7080 7084	Gdf5
+#252	AnnotatorNotes T252	italic (null)
+T253	EntrezGene 7080 7084	Gdf5
+#253	AnnotatorNotes T253	EG:14563
+T254	PR 7080 7084	Gdf5
+#254	AnnotatorNotes T254	PR:000000281 (growth/differentiation factor 5)
+T255	SO 7085 7089	gene
+#255	AnnotatorNotes T255	SO:0000704 (gene)
+T256	GO_BP 7093 7101	engineer
+#256	AnnotatorNotes T256	GO:0009058 (biosynthetic process)
+T257	italic 7104 7107	Cre
+#257	AnnotatorNotes T257	italic (null)
+T258	italic 7108 7112	loxP
+#258	AnnotatorNotes T258	italic (null)
+T259	italic 7133 7142	Gdf5-Cre,
+#259	AnnotatorNotes T259	italic (null)
+T260	EntrezGene 7133 7137	Gdf5
+#260	AnnotatorNotes T260	EG:14563
+T261	PR 7133 7137	Gdf5
+#261	AnnotatorNotes T261	PR:000000281 (growth/differentiation factor 5)
+T262	GO_BP 7185 7192	express
+#262	AnnotatorNotes T262	GO:0010467 (gene expression)
+T263	SO 7193 7198	genes
+#263	AnnotatorNotes T263	SO:0000704 (gene)
+T264	NCBITaxon 7230 7234	mice
+#264	AnnotatorNotes T264	NCBITaxon:10088 (Mus)
+T265	SO 7271 7280	modifying
+#265	AnnotatorNotes T265	SO:0000041 (sequence_operation)
+T266	SO 7281 7286	genes
+#266	AnnotatorNotes T266	SO:0000704 (gene)
+T267	italic 7440 7448	Gdf5-Cre
+#267	AnnotatorNotes T267	italic (null)
+T268	EntrezGene 7440 7444	Gdf5
+#268	AnnotatorNotes T268	EG:14563
+T269	PR 7440 7444	Gdf5
+#269	AnnotatorNotes T269	PR:000000281 (growth/differentiation factor 5)
+T270	GO_BP 7449 7462	recombination
+#270	AnnotatorNotes T270	GO:0006310 (DNA recombination)
+T271	SO 7510 7519	mutations
+#271	AnnotatorNotes T271	SO:0001059 (sequence_alteration)
+T272	italic 7523 7530	Bmpr1a,
+#272	AnnotatorNotes T272	italic (null)
+T273	EntrezGene 7523 7529	Bmpr1a
+#273	AnnotatorNotes T273	EG:12166
+T274	PR 7523 7529	Bmpr1a
+#274	AnnotatorNotes T274	PR:000000035 (BMP receptor type-1A)
+T275	GO_MF 7551 7559	receptor
+#275	AnnotatorNotes T275	GO:0004872 (receptor activity)
+T276	independent_continuant 7551 7559	receptor
+#276	AnnotatorNotes T276	independent_continuant
+T277	GO_BP 7588 7597	formation
+#277	AnnotatorNotes T277	GO:0032502 (developmental process)
+T278	GO_BP 7624 7659	initiation of programmed cell death
+#278	AnnotatorNotes T278	GO:0012502 (induction of programmed cell death)
+T279	GO_BP 7638 7659	programmed cell death
+#279	AnnotatorNotes T279	GO:0012501 (programmed cell death)
+T280	CL 7649 7653	cell
+#280	AnnotatorNotes T280	CL:0000000 (cell)
+T281	GO_CC 7649 7653	cell
+#281	AnnotatorNotes T281	GO:0005623 (cell)
+T282	italic 7702 7708	Bmpr1a
+#282	AnnotatorNotes T282	italic (null)
+T283	PR 7702 7708	Bmpr1a
+#283	AnnotatorNotes T283	PR:000000035 (BMP receptor type-1A)
+T284	EntrezGene 7702 7708	Bmpr1a
+#284	AnnotatorNotes T284	EG:12166
+T285	italic 7811 7831	Gdf5-Cre/Bmpr1afloxP
+#285	AnnotatorNotes T285	italic (null)
+T286	EntrezGene 7811 7815	Gdf5
+#286	AnnotatorNotes T286	EG:14563
+T287	PR 7811 7815	Gdf5
+#287	AnnotatorNotes T287	PR:000000281 (growth/differentiation factor 5)
+T288	sup 7826 7831	floxP
+#288	AnnotatorNotes T288	sup (null)
+T289	NCBITaxon 7832 7836	mice
+#289	AnnotatorNotes T289	NCBITaxon:10088 (Mus)
+T290	GO_BP 7868 7873	forms
+#290	AnnotatorNotes T290	GO:0032502 (developmental process)
+T291	GO_BP 7907 7917	expression
+#291	AnnotatorNotes T291	GO:0010467 (gene expression)
+T292	GO_BP 7957 7962	birth
+#292	AnnotatorNotes T292	GO:0007567 (parturition)
+T293	GO_BP 8054 8062	mobility
+#293	AnnotatorNotes T293	GO:0050879 (multicellular organismal movement)
+T294	GO_BP 8095 8108	BMP signaling
+#294	AnnotatorNotes T294	GO:0030509 (BMP signaling pathway)
+T295	PR 8095 8098	BMP
+#295	AnnotatorNotes T295	PR:000000034 (BMP)
+T296	GO_BP 8187 8226	modulation of the BMP signaling pathway
+#296	AnnotatorNotes T296	"modulation of .. BMP signaling pathway" GO:0030510 (regulation of BMP signaling pathway)
+T297	GO_BP 8205 8226	BMP signaling pathway
+#297	AnnotatorNotes T297	GO:0030509 (BMP signaling pathway)
+T298	PR 8205 8208	BMP
+#298	AnnotatorNotes T298	PR:000000034 (BMP)
+T299	SO 8282 8289	Genetic
+#299	AnnotatorNotes T299	SO:0000704 (gene)
+T300	SO 8325 8330	Genes
+#300	AnnotatorNotes T300	SO:0000704 (gene)
+T301	GO_BP 8340 8351	Development
+#301	AnnotatorNotes T301	GO:0032502 (developmental process)
+T302	SO 8414 8419	genes
+#302	AnnotatorNotes T302	SO:0000704 (gene)
+T303	GO_BP 8452 8463	development
+#303	AnnotatorNotes T303	GO:0032502 (developmental process)
+T304	GO_BP 8468 8478	engineered
+#304	AnnotatorNotes T304	GO:0000003 (reproduction)
+T305	SO 8479 8489	transgenic
+#305	AnnotatorNotes T305	SO:0000902 (transgene)
+T306	NCBITaxon 8490 8494	mice
+#306	AnnotatorNotes T306	NCBITaxon:10088 (Mus)
+T307	GO_BP 8498 8505	express
+#307	AnnotatorNotes T307	GO:0010467 (gene expression)
+T308	GO_MF 8510 8521	recombinase
+#308	AnnotatorNotes T308	GO:0000150 (recombinase activity)
+T309	GO_MF 8510 8521	recombinase
+#309	AnnotatorNotes T309	GO:0009009 (site-specific recombinase activity)
+T310	independent_continuant 8510 8521	recombinase
+#310	AnnotatorNotes T310	independent_continuant
+T311	GO_BP 8525 8535	developing
+#311	AnnotatorNotes T311	GO:0032502 (developmental process)
+T312	italic 8555 8559	Gdf5
+#312	AnnotatorNotes T312	italic (null)
+T313	PR 8555 8559	Gdf5
+#313	AnnotatorNotes T313	PR:000000281 (growth/differentiation factor 5)
+T314	SO 8565 8569	gene
+#314	AnnotatorNotes T314	SO:0000704 (gene)
+T315	GO_BP 8579 8588	expressed
+#315	AnnotatorNotes T315	GO:0010467 (gene expression)
+T316	GO_BP 8607 8617	developing
+#316	AnnotatorNotes T316	GO:0032502 (developmental process)
+T317	GO_BP 8643 8668	embryonic joint formation
+#317	AnnotatorNotes T317	"embryonic .. formation" GO:0009790 (embryonic development)
+T318	SO 8672 8703	bacterial artificial chromosome
+#318	AnnotatorNotes T318	SO:0000153 (BAC)
+T319	NCBITaxon 8672 8681	bacterial
+#319	AnnotatorNotes T319	NCBITaxon:2 (Bacteria)
+T320	GO_CC 8693 8703	chromosome
+#320	AnnotatorNotes T320	GO:0005694 (chromosome)
+T321	SO 8705 8708	BAC
+#321	AnnotatorNotes T321	SO:0000153 (BAC)
+T322	italic 8725 8729	Gdf5
+#322	AnnotatorNotes T322	italic (null)
+T323	EntrezGene 8725 8729	Gdf5
+#323	AnnotatorNotes T323	EG:14563
+T324	PR 8725 8729	Gdf5
+#324	AnnotatorNotes T324	PR:000000281 (growth/differentiation factor 5)
+T325	SO 8730 8735	locus
+#325	AnnotatorNotes T325	SO:0000001 (region)
+T326	SO 8740 8748	modified
+#326	AnnotatorNotes T326	SO:0000041 (sequence_operation)
+T327	GO_BP 8763 8776	recombination
+#327	AnnotatorNotes T327	GO:0006310 (DNA recombination)
+T328	NCBITaxon 8780 8788	bacteria
+#328	AnnotatorNotes T328	NCBITaxon:2 (Bacteria)
+T329	SO 8792 8798	insert
+#329	AnnotatorNotes T329	SO:0000046 (insert)
+T330	SO 8801 8809	cassette
+#330	AnnotatorNotes T330	SO:0005853 (gene_cassette)
+T331	SO 8823 8851	internal ribosome entry site
+#331	AnnotatorNotes T331	SO:0000243 (internal_ribosome_entry_site)
+T332	GO_CC 8832 8840	ribosome
+#332	AnnotatorNotes T332	GO:0005840 (ribosome)
+T333	SO 8853 8857	IRES
+#333	AnnotatorNotes T333	SO:0000243 (internal_ribosome_entry_site)
+T334	EntrezGene 8859 8895	human placental alkaline phosphatase
+#334	AnnotatorNotes T334	EG:250
+T335	NCBITaxon 8859 8864	human
+#335	AnnotatorNotes T335	NCBITaxon:9606 (Homo sapiens)
+T336	PR 8865 8895	placental alkaline phosphatase
+#336	AnnotatorNotes T336	PR:000003969 (alkaline phosphatase, placental type)
+T337	GO_MF 8875 8895	alkaline phosphatase
+#337	AnnotatorNotes T337	GO:0004035 (alkaline phosphatase activity)
+T338	independent_continuant 8875 8895	alkaline phosphatase
+#338	AnnotatorNotes T338	independent_continuant
+T339	CHEBI 8875 8883	alkaline
+#339	AnnotatorNotes T339	CHEBI:36364 (alkaline earth salts)
+T340	CHEBI 8875 8883	alkaline
+#340	AnnotatorNotes T340	CHEBI:35479 (alkali metal salts)
+T341	EntrezGene 8897 8902	hPLAP
+#341	AnnotatorNotes T341	EG:250
+T342	SO 8913 8935	translation start site
+#342	AnnotatorNotes T342	SO:0000318 (start_codon)
+T343	GO_BP 8913 8930	translation start
+#343	AnnotatorNotes T343	GO:0006413 (translational initiation)
+T344	GO_BP 8913 8924	translation
+#344	AnnotatorNotes T344	GO:0006412 (translation)
+T345	italic 8939 8943	Gdf5
+#345	AnnotatorNotes T345	italic (null)
+T346	EntrezGene 8939 8943	Gdf5
+#346	AnnotatorNotes T346	EG:14563
+T347	PR 8939 8943	Gdf5
+#347	AnnotatorNotes T347	PR:000000281 (growth/differentiation factor 5)
+T348	SO 8962 8970	modified
+#348	AnnotatorNotes T348	SO:0000041 (sequence_operation)
+T349	SO 8971 8974	BAC
+#349	AnnotatorNotes T349	SO:0000153 (BAC)
+T350	GO_BP 8992 8996	make
+#350	AnnotatorNotes T350	GO:0000003 (reproduction)
+T351	SO 9006 9016	transgenic
+#351	AnnotatorNotes T351	SO:0000902 (transgene)
+T352	NCBITaxon 9017 9021	mice
+#352	AnnotatorNotes T352	NCBITaxon:10088 (Mus)
+T353	italic 9037 9045	Gdf5-Cre
+#353	AnnotatorNotes T353	italic (null)
+T354	EntrezGene 9037 9041	Gdf5
+#354	AnnotatorNotes T354	EG:14563
+T355	PR 9037 9041	Gdf5
+#355	AnnotatorNotes T355	PR:000000281 (growth/differentiation factor 5)
+T356	SO 9046 9056	transgenic
+#356	AnnotatorNotes T356	SO:0000902 (transgene)
+T357	NCBITaxon 9057 9061	mice
+#357	AnnotatorNotes T357	NCBITaxon:10088 (Mus)
+T358	SO 9078 9087	transgene
+#358	AnnotatorNotes T358	SO:0000902 (transgene)
+T359	GO_BP 9088 9098	expression
+#359	AnnotatorNotes T359	GO:0010467 (gene expression)
+T360	GO_MF 9107 9118	recombinase
+#360	AnnotatorNotes T360	GO:0000150 (recombinase activity)
+T361	GO_MF 9107 9118	recombinase
+#361	AnnotatorNotes T361	GO:0009009 (site-specific recombinase activity)
+T362	independent_continuant 9107 9118	recombinase
+#362	AnnotatorNotes T362	independent_continuant
+T363	NCBITaxon 9162 9166	mice
+#363	AnnotatorNotes T363	NCBITaxon:10088 (Mus)
+T364	GO_BP 9185 9195	expression
+#364	AnnotatorNotes T364	GO:0010467 (gene expression)
+T365	italic 9199 9203	lacZ
+#365	AnnotatorNotes T365	italic (null)
+T366	SO 9223 9230	removal
+#366	AnnotatorNotes T366	SO:0000045 (delete)
+T367	SO 9234 9264	transcriptional stop sequences
+#367	AnnotatorNotes T367	SO:0000616 (transcription_end_site)
+T368	GO_BP 9234 9254	transcriptional stop
+#368	AnnotatorNotes T368	GO:0006353 (transcription termination)
+T369	GO_BP 9234 9249	transcriptional
+#369	AnnotatorNotes T369	GO:0006350 (transcription)
+T370	SO 9250 9264	stop sequences
+#370	AnnotatorNotes T370	SO:0000141 (terminator)
+T371	GO_BP 9326 9336	expression
+#371	AnnotatorNotes T371	GO:0010467 (gene expression)
+T372	SO 9344 9353	transgene
+#372	AnnotatorNotes T372	SO:0000902 (transgene)
+T373	EntrezGene 9366 9371	HPLAP
+#373	AnnotatorNotes T373	EG:250
+T374	GO_BP 9389 9409	recombination of DNA
+#374	AnnotatorNotes T374	GO:0006310 (DNA recombination)
+T375	SO 9406 9409	DNA
+#375	AnnotatorNotes T375	SO:0000352 (DNA)
+T376	GO_BP 9489 9499	expression
+#376	AnnotatorNotes T376	GO:0010467 (gene expression)
+T377	EntrezGene 9547 9552	HPLAP
+#377	AnnotatorNotes T377	EG:250
+T378	GO_BP 9553 9563	expression
+#378	AnnotatorNotes T378	GO:0010467 (gene expression)
+T379	EntrezGene 9616 9621	HPLAP
+#379	AnnotatorNotes T379	EG:250
+T380	GO_BP 9622 9632	expression
+#380	AnnotatorNotes T380	GO:0010467 (gene expression)
+T381	italic 9640 9648	Gdf5-Cre
+#381	AnnotatorNotes T381	italic (null)
+T382	EntrezGene 9640 9644	Gdf5
+#382	AnnotatorNotes T382	EG:14563
+T383	PR 9640 9644	Gdf5
+#383	AnnotatorNotes T383	PR:000000281 (growth/differentiation factor 5)
+T384	SO 9649 9659	transgenic
+#384	AnnotatorNotes T384	SO:0000902 (transgene)
+T385	GO_BP 9696 9704	breeding
+#385	AnnotatorNotes T385	GO:0007618 (mating)
+T386	GO_BP 9742 9752	expression
+#386	AnnotatorNotes T386	GO:0010467 (gene expression)
+T387	GO_BP 9771 9782	development
+#387	AnnotatorNotes T387	GO:0032502 (developmental process)
+T388	italic 9886 9894	Gdf5-Cre
+#388	AnnotatorNotes T388	italic (null)
+T389	EntrezGene 9886 9890	Gdf5
+#389	AnnotatorNotes T389	EG:14563
+T390	PR 9886 9890	Gdf5
+#390	AnnotatorNotes T390	PR:000000281 (growth/differentiation factor 5)
+T391	SO 9895 9904	transgene
+#391	AnnotatorNotes T391	SO:0000902 (transgene)
+T392	GO_BP 9905 9914	expresses
+#392	AnnotatorNotes T392	GO:0010467 (gene expression)
+T393	GO_MF 9919 9930	recombinase
+#393	AnnotatorNotes T393	GO:0000150 (recombinase activity)
+T394	independent_continuant 9919 9930	recombinase
+#394	AnnotatorNotes T394	independent_continuant
+T395	GO_MF 9919 9930	recombinase
+#395	AnnotatorNotes T395	GO:0009009 (site-specific recombinase activity)
+T396	GO_BP 9942 9959	DNA recombination
+#396	AnnotatorNotes T396	GO:0006310 (DNA recombination)
+T397	SO 9942 9945	DNA
+#397	AnnotatorNotes T397	SO:0000352 (DNA)
+T398	GO_BP 9963 9973	developing
+#398	AnnotatorNotes T398	GO:0032502 (developmental process)
+T399	NCBITaxon 9997 10001	mice
+#399	AnnotatorNotes T399	NCBITaxon:10088 (Mus)
+T400	italic 10020 10035	lacZ ROSA26 Cre
+#400	AnnotatorNotes T400	italic (null)
+T401	NCBITaxon 10059 10063	mice
+#401	AnnotatorNotes T401	NCBITaxon:10088 (Mus)
+T402	italic 10103 10107	lacZ
+#402	AnnotatorNotes T402	italic (null)
+T403	GO_BP 10108 10121	recombination
+#403	AnnotatorNotes T403	GO:0006310 (DNA recombination)
+T404	GO_BP 10133 10144	development
+#404	AnnotatorNotes T404	GO:0032502 (developmental process)
+T405	GO_BP 10156 10166	developing
+#405	AnnotatorNotes T405	GO:0032502 (developmental process)
+T406	GO_BP 10179 10186	forming
+#406	AnnotatorNotes T406	GO:0032502 (developmental process)
+T407	GO_BP 10245 10250	forms
+#407	AnnotatorNotes T407	GO:0032502 (developmental process)
+T408	GO_BP 10324 10335	development
+#408	AnnotatorNotes T408	GO:0032502 (developmental process)
+T409	GO_BP 10384 10393	formation
+#409	AnnotatorNotes T409	GO:0032502 (developmental process)
+T410	GO_BP 10421 10430	formation
+#410	AnnotatorNotes T410	GO:0032502 (developmental process)
+T411	GO_BP 10521 10532	development
+#411	AnnotatorNotes T411	GO:0032502 (developmental process)
+T412	GO_BP 10695 10705	expression
+#412	AnnotatorNotes T412	GO:0010467 (gene expression)
+T413	GO_BP 10848 10858	expression
+#413	AnnotatorNotes T413	GO:0010467 (gene expression)
+T414	GO_BP 11082 11092	developing
+#414	AnnotatorNotes T414	GO:0032502 (developmental process)
+T415	CL 11134 11139	cells
+#415	AnnotatorNotes T415	CL:0000000 (cell)
+T416	GO_CC 11134 11139	cells
+#416	AnnotatorNotes T416	GO:0005623 (cell)
+T417	GO_BP 11192 11202	expression
+#417	AnnotatorNotes T417	GO:0010467 (gene expression)
+T418	CL 11235 11240	cells
+#418	AnnotatorNotes T418	CL:0000000 (cell)
+T419	GO_CC 11235 11240	cells
+#419	AnnotatorNotes T419	GO:0005623 (cell)
+T420	GO_BP 11411 11421	developing
+#420	AnnotatorNotes T420	GO:0032502 (developmental process)
+T421	GO_BP 11445 11455	expression
+#421	AnnotatorNotes T421	GO:0010467 (gene expression)
+T422	GO_BP 11513 11524	development
+#422	AnnotatorNotes T422	GO:0032502 (developmental process)
+T423	GO_BP 11768 11778	expression
+#423	AnnotatorNotes T423	GO:0010467 (gene expression)
+T424	italic 11782 11786	Gdf5
+#424	AnnotatorNotes T424	italic (null)
+T425	PR 11782 11786	Gdf5
+#425	AnnotatorNotes T425	PR:000000281 (growth/differentiation factor 5)
+T426	GO_BP 11815 11836	embryonic development
+#426	AnnotatorNotes T426	GO:0009790 (embryonic development)
+T427	GO_BP 11870 11880	expression
+#427	AnnotatorNotes T427	GO:0010467 (gene expression)
+T428	italic 11897 11901	Gdf5
+#428	AnnotatorNotes T428	italic (null)
+T429	PR 11897 11901	Gdf5
+#429	AnnotatorNotes T429	PR:000000281 (growth/differentiation factor 5)
+T430	SO 11902 11906	gene
+#430	AnnotatorNotes T430	SO:0000704 (gene)
+T431	italic 11942 11946	Gdf5
+#431	AnnotatorNotes T431	italic (null)
+T432	PR 11942 11946	Gdf5
+#432	AnnotatorNotes T432	PR:000000281 (growth/differentiation factor 5)
+T433	GO_BP 11947 11957	expression
+#433	AnnotatorNotes T433	GO:0010467 (gene expression)
+T434	GO_MF 12027 12029	RT
+#434	AnnotatorNotes T434	GO:0003964 (RNA-directed DNA polymerase activity)
+T435	GO_BP 12027 12029	RT
+#435	AnnotatorNotes T435	GO:0006410 (transcription, RNA-dependent)
+T436	independent_continuant 12027 12029	RT
+#436	AnnotatorNotes T436	independent_continuant
+T437	italic 12177 12181	lacZ
+#437	AnnotatorNotes T437	italic (null)
+T438	GO_BP 12182 12192	expression
+#438	AnnotatorNotes T438	GO:0010467 (gene expression)
+T439	GO_BP 12349 12359	developing
+#439	AnnotatorNotes T439	GO:0032502 (developmental process)
+T440	GO_BP 12489 12494	birth
+#440	AnnotatorNotes T440	GO:0007567 (parturition)
+T441	GO_BP 12509 12518	expressed
+#441	AnnotatorNotes T441	GO:0010467 (gene expression)
+T442	GO_BP 12697 12706	expressed
+#442	AnnotatorNotes T442	GO:0010467 (gene expression)
+T443	CL 12750 12755	cells
+#443	AnnotatorNotes T443	CL:0000000 (cell)
+T444	GO_CC 12750 12755	cells
+#444	AnnotatorNotes T444	GO:0005623 (cell)
+T445	GO_BP 12763 12769	growth
+#445	AnnotatorNotes T445	GO:0040007 (growth)
+T446	SO 12891 12901	transgenic
+#446	AnnotatorNotes T446	SO:0000902 (transgene)
+T447	NCBITaxon 12902 12906	mice
+#447	AnnotatorNotes T447	NCBITaxon:10088 (Mus)
+T448	GO_BP 12962 12972	expression
+#448	AnnotatorNotes T448	GO:0010467 (gene expression)
+T449	NCBITaxon 13032 13038	animal
+#449	AnnotatorNotes T449	NCBITaxon:33208 (Metazoa)
+T450	GO_BP 13059 13069	expression
+#450	AnnotatorNotes T450	GO:0010467 (gene expression)
+T451	SO 13077 13086	transgene
+#451	AnnotatorNotes T451	SO:0000902 (transgene)
+T452	EntrezGene 13109 13114	HPLAP
+#452	AnnotatorNotes T452	EG:250
+T453	NCBITaxon 13168 13175	animals
+#453	AnnotatorNotes T453	NCBITaxon:33208 (Metazoa)
+T454	GO_BP 13215 13228	recombination
+#454	AnnotatorNotes T454	GO:0006310 (DNA recombination)
+T455	GO_BP 13243 13253	expression
+#455	AnnotatorNotes T455	GO:0010467 (gene expression)
+T456	NCBITaxon 13310 13317	animals
+#456	AnnotatorNotes T456	NCBITaxon:33208 (Metazoa)
+T457	GO_BP 13328 13338	expression
+#457	AnnotatorNotes T457	GO:0010467 (gene expression)
+T458	GO_BP 13368 13379	development
+#458	AnnotatorNotes T458	GO:0032502 (developmental process)
+T459	GO_BP 13418 13431	recombination
+#459	AnnotatorNotes T459	GO:0006310 (DNA recombination)
+T460	GO_BP 13441 13451	expression
+#460	AnnotatorNotes T460	GO:0010467 (gene expression)
+T461	NCBITaxon 13475 13482	animals
+#461	AnnotatorNotes T461	NCBITaxon:33208 (Metazoa)
+T462	GO_BP 13496 13509	recombination
+#462	AnnotatorNotes T462	GO:0006310 (DNA recombination)
+T463	NCBITaxon 13579 13586	animals
+#463	AnnotatorNotes T463	NCBITaxon:33208 (Metazoa)
+T464	SO 13663 13668	genes
+#464	AnnotatorNotes T464	SO:0000704 (gene)
+T465	SO 13720 13724	site
+#465	AnnotatorNotes T465	SO:0000001 (region)
+T466	italic 13748 13768	Gdf5-Cre/Bmpr1afloxP
+#466	AnnotatorNotes T466	italic (null)
+T467	EntrezGene 13748 13752	Gdf5
+#467	AnnotatorNotes T467	EG:14563
+T468	PR 13748 13752	Gdf5
+#468	AnnotatorNotes T468	PR:000000281 (growth/differentiation factor 5)
+T469	sup 13763 13768	floxP
+#469	AnnotatorNotes T469	sup (null)
+T470	NCBITaxon 13769 13776	Animals
+#470	AnnotatorNotes T470	NCBITaxon:33208 (Metazoa)
+T471	italic 13853 13861	Gdf5-Cre
+#471	AnnotatorNotes T471	italic (null)
+T472	EntrezGene 13853 13857	Gdf5
+#472	AnnotatorNotes T472	EG:14563
+T473	PR 13853 13857	Gdf5
+#473	AnnotatorNotes T473	PR:000000281 (growth/differentiation factor 5)
+T474	GO_BP 13889 13902	BMP signaling
+#474	AnnotatorNotes T474	GO:0030509 (BMP signaling pathway)
+T475	PR 13889 13892	BMP
+#475	AnnotatorNotes T475	PR:000000034 (BMP)
+T476	GO_BP 13923 13934	development
+#476	AnnotatorNotes T476	GO:0032502 (developmental process)
+T477	italic 13936 13944	Gdf5-Cre
+#477	AnnotatorNotes T477	italic (null)
+T478	EntrezGene 13936 13940	Gdf5
+#478	AnnotatorNotes T478	EG:14563
+T479	PR 13936 13940	Gdf5
+#479	AnnotatorNotes T479	PR:000000281 (growth/differentiation factor 5)
+T480	SO 13945 13955	transgenic
+#480	AnnotatorNotes T480	SO:0000902 (transgene)
+T481	NCBITaxon 13956 13960	mice
+#481	AnnotatorNotes T481	NCBITaxon:10088 (Mus)
+T482	GO_BP 13966 13970	bred
+#482	AnnotatorNotes T482	GO:0007618 (mating)
+T483	NCBITaxon 13974 13981	animals
+#483	AnnotatorNotes T483	NCBITaxon:33208 (Metazoa)
+T484	SO 14005 14011	floxed
+#484	AnnotatorNotes T484	SO:0000359 (floxed)
+T485	SO 14012 14018	allele
+#485	AnnotatorNotes T485	SO:0001023 (allele)
+T486	italic 14026 14032	Bmpr1a
+#486	AnnotatorNotes T486	italic (null)
+T487	EntrezGene 14026 14032	Bmpr1a
+#487	AnnotatorNotes T487	EG:12166
+T488	PR 14026 14032	Bmpr1a
+#488	AnnotatorNotes T488	PR:000000035 (BMP receptor type-1A)
+T489	SO 14033 14038	locus
+#489	AnnotatorNotes T489	SO:0000001 (region)
+T490	italic 14060 14061	,
+#490	AnnotatorNotes T490	italic (null)
+T491	italic 14093 14097	R26R
+#491	AnnotatorNotes T491	italic (null)
+T492	SO 14107 14113	allele
+#492	AnnotatorNotes T492	SO:0001023 (allele)
+T493	GO_BP 14171 14184	recombination
+#493	AnnotatorNotes T493	GO:0006310 (DNA recombination)
+T494	SO 14266 14270	exon
+#494	AnnotatorNotes T494	SO:0000147 (exon)
+T495	italic 14278 14284	Bmpr1a
+#495	AnnotatorNotes T495	italic (null)
+T496	PR 14278 14284	Bmpr1a
+#496	AnnotatorNotes T496	PR:000000035 (BMP receptor type-1A)
+T497	EntrezGene 14278 14284	Bmpr1a
+#497	AnnotatorNotes T497	EG:12166
+T498	SO 14285 14289	gene
+#498	AnnotatorNotes T498	SO:0000704 (gene)
+T499	SO 14294 14301	deleted
+#499	AnnotatorNotes T499	SO:0000045 (delete)
+T500	NCBITaxon 14305 14309	mice
+#500	AnnotatorNotes T500	NCBITaxon:10088 (Mus)
+T501	italic 14332 14340	Gdf5-Cre
+#501	AnnotatorNotes T501	italic (null)
+T502	EntrezGene 14332 14336	Gdf5
+#502	AnnotatorNotes T502	EG:14563
+T503	PR 14332 14336	Gdf5
+#503	AnnotatorNotes T503	PR:000000281 (growth/differentiation factor 5)
+T504	SO 14341 14350	transgene
+#504	AnnotatorNotes T504	SO:0000902 (transgene)
+T505	GO_BP 14408 14418	recombined
+#505	AnnotatorNotes T505	GO:0006310 (DNA recombination)
+T506	italic 14419 14430	Bmpr1afloxP
+#506	AnnotatorNotes T506	italic (null)
+T507	sup 14425 14430	floxP
+#507	AnnotatorNotes T507	sup (null)
+T508	SO 14431 14437	allele
+#508	AnnotatorNotes T508	SO:0001023 (allele)
+T509	SO 14452 14458	allele
+#509	AnnotatorNotes T509	SO:0001023 (allele)
+T510	italic 14466 14472	Bmpr1a
+#510	AnnotatorNotes T510	italic (null)
+T511	EntrezGene 14466 14472	Bmpr1a
+#511	AnnotatorNotes T511	EG:12166
+T512	PR 14466 14472	Bmpr1a
+#512	AnnotatorNotes T512	PR:000000035 (BMP receptor type-1A)
+T513	SO 14473 14478	locus
+#513	AnnotatorNotes T513	SO:0000001 (region)
+T514	italic 14544 14564	Gdf5-Cre/Bmpr1afloxP
+#514	AnnotatorNotes T514	italic (null)
+T515	EntrezGene 14544 14548	Gdf5
+#515	AnnotatorNotes T515	EG:14563
+T516	PR 14544 14548	Gdf5
+#516	AnnotatorNotes T516	PR:000000281 (growth/differentiation factor 5)
+T517	sup 14559 14564	floxP
+#517	AnnotatorNotes T517	sup (null)
+T518	NCBITaxon 14586 14590	mice
+#518	AnnotatorNotes T518	NCBITaxon:10088 (Mus)
+T519	italic 14647 14655	Gdf5-Cre
+#519	AnnotatorNotes T519	italic (null)
+T520	EntrezGene 14647 14651	Gdf5
+#520	AnnotatorNotes T520	EG:14563
+T521	PR 14647 14651	Gdf5
+#521	AnnotatorNotes T521	PR:000000281 (growth/differentiation factor 5)
+T522	NCBITaxon 14727 14734	animals
+#522	AnnotatorNotes T522	NCBITaxon:33208 (Metazoa)
+T523	SO 14747 14755	mutation
+#523	AnnotatorNotes T523	SO:0001059 (sequence_alteration)
+T524	italic 14763 14769	Bmpr1a
+#524	AnnotatorNotes T524	italic (null)
+T525	EntrezGene 14763 14769	Bmpr1a
+#525	AnnotatorNotes T525	EG:12166
+T526	PR 14763 14769	Bmpr1a
+#526	AnnotatorNotes T526	PR:000000035 (BMP receptor type-1A)
+T527	SO 14770 14775	locus
+#527	AnnotatorNotes T527	SO:0000001 (region)
+T528	italic 14811 14831	Gdf5-Cre/Bmpr1afloxP
+#528	AnnotatorNotes T528	italic (null)
+T529	EntrezGene 14811 14815	Gdf5
+#529	AnnotatorNotes T529	EG:14563
+T530	PR 14811 14815	Gdf5
+#530	AnnotatorNotes T530	PR:000000281 (growth/differentiation factor 5)
+T531	sup 14826 14831	floxP
+#531	AnnotatorNotes T531	sup (null)
+T532	NCBITaxon 14832 14836	mice
+#532	AnnotatorNotes T532	NCBITaxon:10088 (Mus)
+T533	NCBITaxon 14896 14900	mice
+#533	AnnotatorNotes T533	NCBITaxon:10088 (Mus)
+T534	italic 15005 15006	n
+#534	AnnotatorNotes T534	italic (null)
+T535	SO 15013 15020	mutants
+#535	AnnotatorNotes T535	SO:0001059 (sequence_alteration)
+T536	independent_continuant 15013 15020	mutants
+#536	AnnotatorNotes T536	independent_continuant
+T537	italic 15036 15037	n
+#537	AnnotatorNotes T537	italic (null)
+T538	italic 15044 15045	p
+#538	AnnotatorNotes T538	italic (null)
+T539	GO_BP 15057 15070	BMP signaling
+#539	AnnotatorNotes T539	GO:0030509 (BMP signaling pathway)
+T540	PR 15057 15060	BMP
+#540	AnnotatorNotes T540	PR:000000034 (BMP)
+T541	GO_BP 15099 15105	growth
+#541	AnnotatorNotes T541	GO:0040007 (growth)
+T542	NCBITaxon 15129 15133	mice
+#542	AnnotatorNotes T542	NCBITaxon:10088 (Mus)
+T543	italic 15201 15207	Bmpr1a
+#543	AnnotatorNotes T543	italic (null)
+T544	PR 15201 15207	Bmpr1a
+#544	AnnotatorNotes T544	PR:000000035 (BMP receptor type-1A)
+T545	EntrezGene 15201 15207	Bmpr1a
+#545	AnnotatorNotes T545	EG:12166
+T546	CL 15240 15245	cells
+#546	AnnotatorNotes T546	CL:0000000 (cell)
+T547	GO_CC 15240 15245	cells
+#547	AnnotatorNotes T547	GO:0005623 (cell)
+T548	GO_BP 15251 15258	express
+#548	AnnotatorNotes T548	GO:0010467 (gene expression)
+T549	italic 15263 15271	Gdf5-Cre
+#549	AnnotatorNotes T549	italic (null)
+T550	EntrezGene 15263 15267	Gdf5
+#550	AnnotatorNotes T550	EG:14563
+T551	PR 15263 15267	Gdf5
+#551	AnnotatorNotes T551	PR:000000281 (growth/differentiation factor 5)
+T552	SO 15272 15281	transgene
+#552	AnnotatorNotes T552	SO:0000902 (transgene)
+T553	SO 15288 15294	mutant
+#553	AnnotatorNotes T553	SO:0001059 (sequence_alteration)
+T554	NCBITaxon 15295 15299	mice
+#554	AnnotatorNotes T554	NCBITaxon:10088 (Mus)
+T555	SO 15558 15564	mutant
+#555	AnnotatorNotes T555	SO:0001059 (sequence_alteration)
+T556	NCBITaxon 15565 15572	animals
+#556	AnnotatorNotes T556	NCBITaxon:33208 (Metazoa)
+T557	NCBITaxon 15869 15875	animal
+#557	AnnotatorNotes T557	NCBITaxon:33208 (Metazoa)
+T558	GO_BP 16006 16012	formed
+#558	AnnotatorNotes T558	GO:0032502 (developmental process)
+T559	GO_CC 16069 16075	matrix
+#559	AnnotatorNotes T559	GO:0031012 (extracellular matrix)
+T560	GO_BP 16219 16225	growth
+#560	AnnotatorNotes T560	GO:0040007 (growth)
+T561	italic 16286 16292	Bmpr1a
+#561	AnnotatorNotes T561	italic (null)
+T562	EntrezGene 16286 16292	Bmpr1a
+#562	AnnotatorNotes T562	EG:12166
+T563	PR 16286 16292	Bmpr1a
+#563	AnnotatorNotes T563	PR:000000035 (BMP receptor type-1A)
+T564	GO_BP 16322 16331	formation
+#564	AnnotatorNotes T564	GO:0032502 (developmental process)
+T565	GO_BP 16386 16434	generation or maintenance of articular cartilage
+#565	AnnotatorNotes T565	"generation .. of .. cartilage" GO:0051216 (cartilage development)
+T566	GO_BP 16470 16483	Developmental
+#566	AnnotatorNotes T566	GO:0032502 (developmental process)
+T567	GO_BP 16549 16559	eliminated
+#567	AnnotatorNotes T567	GO:0060033 (anatomical structure regression)
+T568	GO_BP 16563 16572	apoptosis
+#568	AnnotatorNotes T568	GO:0006915 (apoptosis)
+T569	GO_BP 16580 16601	embryonic development
+#569	AnnotatorNotes T569	GO:0009790 (embryonic development)
+T570	PR 16639 16642	BMP
+#570	AnnotatorNotes T570	PR:000000034 (BMP)
+T571	PR 16721 16724	BMP
+#571	AnnotatorNotes T571	PR:000000034 (BMP)
+T572	GO_MF 16725 16734	receptors
+#572	AnnotatorNotes T572	GO:0004872 (receptor activity)
+T573	independent_continuant 16725 16734	receptors
+#573	AnnotatorNotes T573	independent_continuant
+T574	italic 16839 16859	Gdf5-Cre/Bmpr1afloxP
+#574	AnnotatorNotes T574	italic (null)
+T575	EntrezGene 16839 16843	Gdf5
+#575	AnnotatorNotes T575	EG:14563
+T576	PR 16839 16843	Gdf5
+#576	AnnotatorNotes T576	PR:000000281 (growth/differentiation factor 5)
+T577	sup 16854 16859	floxP
+#577	AnnotatorNotes T577	sup (null)
+T578	SO 16860 16866	mutant
+#578	AnnotatorNotes T578	SO:0001059 (sequence_alteration)
+T579	GO_BP 17215 17225	expression
+#579	AnnotatorNotes T579	GO:0010467 (gene expression)
+T580	italic 17229 17242	Gdf5-Cre/R26R
+#580	AnnotatorNotes T580	italic (null)
+T581	EntrezGene 17229 17233	Gdf5
+#581	AnnotatorNotes T581	EG:14563
+T582	PR 17229 17233	Gdf5
+#582	AnnotatorNotes T582	PR:000000281 (growth/differentiation factor 5)
+T583	GO_BP 17285 17298	recombination
+#583	AnnotatorNotes T583	GO:0006310 (DNA recombination)
+T584	GO_BP 17467 17480	recombination
+#584	AnnotatorNotes T584	GO:0006310 (DNA recombination)
+T585	GO_BP 17485 17495	expression
+#585	AnnotatorNotes T585	GO:0010467 (gene expression)
+T586	GO_MF 17584 17621	Terminal deoxynucleotidyl transferase
+#586	AnnotatorNotes T586	GO:0003912 (DNA nucleotidylexotransferase activity)
+T587	independent_continuant 17584 17621	Terminal deoxynucleotidyl transferase
+#587	AnnotatorNotes T587	independent_continuant
+T588	PR 17584 17621	Terminal deoxynucleotidyl transferase
+#588	AnnotatorNotes T588	PR:000006611 (DNA nucleotidylexotransferase)
+T589	CHEBI 17593 17609	deoxynucleotidyl
+#589	AnnotatorNotes T589	CHEBI:19260 (2'-deoxyribonucleotides)
+T590	CHEBI 17631 17656	deoxyuridine triphosphate
+#590	AnnotatorNotes T590	CHEBI:17625 (dUTP)
+T591	CHEBI 17631 17643	deoxyuridine
+#591	AnnotatorNotes T591	CHEBI:16450 (2'-deoxyuridine)
+T592	GO_BP 17843 17848	dying
+#592	AnnotatorNotes T592	GO:0016265 (death)
+T593	CL 17849 17854	cells
+#593	AnnotatorNotes T593	CL:0000000 (cell)
+T594	GO_CC 17849 17854	cells
+#594	AnnotatorNotes T594	GO:0005623 (cell)
+T595	SO 17909 17915	mutant
+#595	AnnotatorNotes T595	SO:0001059 (sequence_alteration)
+T596	GO_BP 17934 17948	phosphorylated
+#596	AnnotatorNotes T596	GO:0016310 (phosphorylation)
+T597	CHEBI 17949 17956	histone
+#597	AnnotatorNotes T597	CHEBI:15358 (histone)
+T598	GO_BP 17968 17981	proliferating
+#598	AnnotatorNotes T598	GO:0008283 (cell proliferation)
+T599	CL 17982 17987	cells
+#599	AnnotatorNotes T599	CL:0000000 (cell)
+T600	GO_CC 17982 17987	cells
+#600	AnnotatorNotes T600	GO:0005623 (cell)
+T601	CL 18042 18047	cells
+#601	AnnotatorNotes T601	CL:0000000 (cell)
+T602	GO_CC 18042 18047	cells
+#602	AnnotatorNotes T602	GO:0005623 (cell)
+T603	GO_BP 18129 18138	expressed
+#603	AnnotatorNotes T603	GO:0010467 (gene expression)
+T604	italic 18147 18167	Gdf5-Cre/Bmpr1afloxP
+#604	AnnotatorNotes T604	italic (null)
+T605	EntrezGene 18147 18151	Gdf5
+#605	AnnotatorNotes T605	EG:14563
+T606	PR 18147 18151	Gdf5
+#606	AnnotatorNotes T606	PR:000000281 (growth/differentiation factor 5)
+T607	sup 18162 18167	floxP
+#607	AnnotatorNotes T607	sup (null)
+T608	SO 18168 18174	mutant
+#608	AnnotatorNotes T608	SO:0001059 (sequence_alteration)
+T609	EntrezGene 18237 18252	BMPR1A receptor
+#609	AnnotatorNotes T609	EG:12166
+T610	PR 18237 18252	BMPR1A receptor
+#610	AnnotatorNotes T610	PR:000000035 (BMP receptor type-1A)
+T611	GO_MF 18244 18252	receptor
+#611	AnnotatorNotes T611	GO:0004872 (receptor activity)
+T612	independent_continuant 18244 18252	receptor
+#612	AnnotatorNotes T612	independent_continuant
+T613	GO_BP 18253 18262	signaling
+#613	AnnotatorNotes T613	GO:0007165 (signal transduction)
+T614	GO_BP 18270 18291	programmed cell death
+#614	AnnotatorNotes T614	GO:0012501 (programmed cell death)
+T615	CL 18281 18285	cell
+#615	AnnotatorNotes T615	CL:0000000 (cell)
+T616	GO_CC 18281 18285	cell
+#616	AnnotatorNotes T616	GO:0005623 (cell)
+T617	GO_BP 18333 18343	recombined
+#617	AnnotatorNotes T617	GO:0006310 (DNA recombination)
+T618	CL 18344 18349	cells
+#618	AnnotatorNotes T618	CL:0000000 (cell)
+T619	GO_CC 18344 18349	cells
+#619	AnnotatorNotes T619	GO:0005623 (cell)
+T620	GO_BP 18362 18373	proliferate
+#620	AnnotatorNotes T620	GO:0008283 (cell proliferation)
+T621	EntrezGene 18392 18398	BMPR1A
+#621	AnnotatorNotes T621	EG:12166
+T622	PR 18392 18398	BMPR1A
+#622	AnnotatorNotes T622	PR:000000035 (BMP receptor type-1A)
+T623	GO_BP 18399 18408	signaling
+#623	AnnotatorNotes T623	GO:0007165 (signal transduction)
+T624	GO_BP 18434 18443	Formation
+#624	AnnotatorNotes T624	GO:0032502 (developmental process)
+T625	italic 18466 18472	Bmpr1a
+#625	AnnotatorNotes T625	italic (null)
+T626	PR 18466 18472	Bmpr1a
+#626	AnnotatorNotes T626	PR:000000035 (BMP receptor type-1A)
+T627	SO 18473 18477	gene
+#627	AnnotatorNotes T627	SO:0000704 (gene)
+T628	GO_BP 18481 18490	expressed
+#628	AnnotatorNotes T628	GO:0010467 (gene expression)
+T629	GO_BP 18518 18528	developing
+#629	AnnotatorNotes T629	GO:0032502 (developmental process)
+T630	GO_MF 18573 18586	hybridization
+#630	AnnotatorNotes T630	GO:0000739 (DNA strand annealing activity)
+T631	GO_MF 18573 18586	hybridization
+#631	AnnotatorNotes T631	GO:0033592 (RNA strand annealing activity)
+T632	SO 18603 18607	gene
+#632	AnnotatorNotes T632	SO:0000704 (gene)
+T633	GO_BP 18616 18625	expressed
+#633	AnnotatorNotes T633	GO:0010467 (gene expression)
+T634	GO_BP 18783 18796	recombination
+#634	AnnotatorNotes T634	GO:0006310 (DNA recombination)
+T635	SO 18974 18980	mutant
+#635	AnnotatorNotes T635	SO:0001059 (sequence_alteration)
+T636	NCBITaxon 18981 18988	animals
+#636	AnnotatorNotes T636	NCBITaxon:33208 (Metazoa)
+T637	GO_BP 19024 19034	expression
+#637	AnnotatorNotes T637	GO:0010467 (gene expression)
+T638	italic 19083 19087	Gdf5
+#638	AnnotatorNotes T638	italic (null)
+T639	EntrezGene 19083 19087	Gdf5
+#639	AnnotatorNotes T639	EG:14563
+T640	PR 19083 19087	Gdf5
+#640	AnnotatorNotes T640	PR:000000281 (growth/differentiation factor 5)
+T641	SO 19088 19092	gene
+#641	AnnotatorNotes T641	SO:0000704 (gene)
+T642	GO_BP 19105 19114	expressed
+#642	AnnotatorNotes T642	GO:0010467 (gene expression)
+T643	GO_BP 19155 19164	formation
+#643	AnnotatorNotes T643	GO:0032502 (developmental process)
+T644	SO 19186 19190	gene
+#644	AnnotatorNotes T644	SO:0000704 (gene)
+T645	GO_CC 19205 19213	collagen
+#645	AnnotatorNotes T645	GO:0005581 (collagen)
+T646	PR 19205 19213	collagen
+#646	AnnotatorNotes T646	PR:000003262 (collagen alpha chain)
+T647	CHEBI 19214 19221	protein
+#647	AnnotatorNotes T647	CHEBI:36080 (proteins)
+T648	GO_CC 19235 19241	matrix
+#648	AnnotatorNotes T648	GO:0031012 (extracellular matrix)
+T649	italic 19242 19250	(Col2a1)
+#649	AnnotatorNotes T649	italic (null)
+T650	EntrezGene 19243 19249	Col2a1
+#650	AnnotatorNotes T650	EG:12824
+T651	PR 19243 19249	Col2a1
+#651	AnnotatorNotes T651	PR:000003266 (collagen type II alpha chain)
+T652	GO_BP 19254 19268	down-regulated
+#652	AnnotatorNotes T652	GO:0048519 (negative regulation of biological process)
+T653	italic 19319 19325	Col2a1
+#653	AnnotatorNotes T653	italic (null)
+T654	PR 19319 19325	Col2a1
+#654	AnnotatorNotes T654	PR:000003266 (collagen type II alpha chain)
+T655	EntrezGene 19319 19325	Col2a1
+#655	AnnotatorNotes T655	EG:12824
+T656	italic 19421 19441	Gdf5-Cre/Bmpr1afloxP
+#656	AnnotatorNotes T656	italic (null)
+T657	EntrezGene 19421 19425	Gdf5
+#657	AnnotatorNotes T657	EG:14563
+T658	PR 19421 19425	Gdf5
+#658	AnnotatorNotes T658	PR:000000281 (growth/differentiation factor 5)
+T659	sup 19436 19441	floxP
+#659	AnnotatorNotes T659	sup (null)
+T660	SO 19442 19449	mutants
+#660	AnnotatorNotes T660	SO:0001059 (sequence_alteration)
+T661	independent_continuant 19442 19449	mutants
+#661	AnnotatorNotes T661	independent_continuant
+T662	italic 19480 19484	Gdf5
+#662	AnnotatorNotes T662	italic (null)
+T663	PR 19480 19484	Gdf5
+#663	AnnotatorNotes T663	PR:000000281 (growth/differentiation factor 5)
+T664	EntrezGene 19480 19484	Gdf5
+#664	AnnotatorNotes T664	EG:14563
+T665	GO_BP 19485 19495	expression
+#665	AnnotatorNotes T665	GO:0010467 (gene expression)
+T666	GO_BP 19568 19575	forming
+#666	AnnotatorNotes T666	GO:0032502 (developmental process)
+T667	SO 19672 19678	mutant
+#667	AnnotatorNotes T667	SO:0001059 (sequence_alteration)
+T668	GO_BP 19718 19730	segmentation
+#668	AnnotatorNotes T668	GO:0035282 (segmentation)
+T669	GO_BP 19761 19782	embryonic development
+#669	AnnotatorNotes T669	GO:0009790 (embryonic development)
+T670	italic 19910 19916	Bmpr1a
+#670	AnnotatorNotes T670	italic (null)
+T671	EntrezGene 19910 19916	Bmpr1a
+#671	AnnotatorNotes T671	EG:12166
+T672	PR 19910 19916	Bmpr1a
+#672	AnnotatorNotes T672	PR:000000035 (BMP receptor type-1A)
+T673	NCBITaxon 19938 19942	mice
+#673	AnnotatorNotes T673	NCBITaxon:10088 (Mus)
+T674	GO_BP 19954 19966	segmentation
+#674	AnnotatorNotes T674	GO:0035282 (segmentation)
+T675	italic 20018 20026	Gdf5-Cre
+#675	AnnotatorNotes T675	italic (null)
+T676	EntrezGene 20018 20022	Gdf5
+#676	AnnotatorNotes T676	EG:14563
+T677	PR 20018 20022	Gdf5
+#677	AnnotatorNotes T677	PR:000000281 (growth/differentiation factor 5)
+T678	GO_BP 20036 20049	recombination
+#678	AnnotatorNotes T678	GO:0006310 (DNA recombination)
+T679	GO_BP 20135 20145	cell death
+#679	AnnotatorNotes T679	GO:0008219 (cell death)
+T680	CL 20135 20139	cell
+#680	AnnotatorNotes T680	CL:0000000 (cell)
+T681	GO_CC 20135 20139	cell
+#681	AnnotatorNotes T681	GO:0005623 (cell)
+T682	GO_BP 20149 20167	cell proliferation
+#682	AnnotatorNotes T682	GO:0008283 (cell proliferation)
+T683	CL 20149 20153	cell
+#683	AnnotatorNotes T683	CL:0000000 (cell)
+T684	GO_CC 20149 20153	cell
+#684	AnnotatorNotes T684	GO:0005623 (cell)
+T685	GO_BP 20312 20322	expression
+#685	AnnotatorNotes T685	GO:0010467 (gene expression)
+T686	GO_BP 20437 20447	expression
+#686	AnnotatorNotes T686	GO:0010467 (gene expression)
+T687	italic 20451 20464	Col2a1, Gdf5,
+#687	AnnotatorNotes T687	italic (null)
+T688	EntrezGene 20451 20457	Col2a1
+#688	AnnotatorNotes T688	EG:12824
+T689	PR 20451 20457	Col2a1
+#689	AnnotatorNotes T689	PR:000003266 (collagen type II alpha chain)
+T690	EntrezGene 20459 20463	Gdf5
+#690	AnnotatorNotes T690	EG:14563
+T691	PR 20459 20463	Gdf5
+#691	AnnotatorNotes T691	PR:000000281 (growth/differentiation factor 5)
+T692	italic 20468 20474	Bmpr1b
+#692	AnnotatorNotes T692	italic (null)
+T693	PR 20468 20474	Bmpr1b
+#693	AnnotatorNotes T693	PR:000000036 (BMP receptor type-1B)
+T694	EntrezGene 20468 20474	Bmpr1b
+#694	AnnotatorNotes T694	EG:12167
+T695	GO_BP 20566 20571	birth
+#695	AnnotatorNotes T695	GO:0007567 (parturition)
+T696	NCBITaxon 20641 20648	animals
+#696	AnnotatorNotes T696	NCBITaxon:33208 (Metazoa)
+T697	CL 20650 20662	chondrocytes
+#697	AnnotatorNotes T697	CL:0000138 (chondrocyte)
+T698	GO_CC 20739 20745	matrix
+#698	AnnotatorNotes T698	GO:0031012 (extracellular matrix)
+T699	CHEBI 20807 20820	proteoglycans
+#699	AnnotatorNotes T699	CHEBI:37396 (proteoglycans)
+T700	SO 20853 20862	wild-type
+#700	AnnotatorNotes T700	SO:0000817 (wild_type)
+T701	SO 20867 20873	mutant
+#701	AnnotatorNotes T701	SO:0001059 (sequence_alteration)
+T702	CL 20874 20879	cells
+#702	AnnotatorNotes T702	CL:0000000 (cell)
+T703	GO_CC 20874 20879	cells
+#703	AnnotatorNotes T703	GO:0005623 (cell)
+T704	GO_BP 20906 20915	expressed
+#704	AnnotatorNotes T704	GO:0010467 (gene expression)
+T705	italic 20931 20937	Col2a1
+#705	AnnotatorNotes T705	italic (null)
+T706	PR 20931 20937	Col2a1
+#706	AnnotatorNotes T706	PR:000003266 (collagen type II alpha chain)
+T707	EntrezGene 20931 20937	Col2a1
+#707	AnnotatorNotes T707	EG:12824
+T708	italic 20942 20957	Aggrecan (Agg),
+#708	AnnotatorNotes T708	italic (null)
+T709	EntrezGene 20942 20950	Aggrecan
+#709	AnnotatorNotes T709	EG:11595
+T710	PR 20942 20950	Aggrecan
+#710	AnnotatorNotes T710	PR:000003606 (aggrecan core protein)
+T711	EntrezGene 20952 20955	Agg
+#711	AnnotatorNotes T711	EG:11595
+T712	PR 20952 20955	Agg
+#712	AnnotatorNotes T712	PR:000003606 (aggrecan core protein)
+T713	SO 20962 20967	genes
+#713	AnnotatorNotes T713	SO:0000704 (gene)
+T714	CHEBI 20998 21006	proteins
+#714	AnnotatorNotes T714	CHEBI:36080 (proteins)
+T715	GO_CC 21020 21026	matrix
+#715	AnnotatorNotes T715	GO:0031012 (extracellular matrix)
+T716	GO_BP 21084 21119	cellular apoptosis or proliferation
+#716	AnnotatorNotes T716	"cellular .. proliferation" GO:0008283 (cell proliferation)
+T717	GO_BP 21084 21102	cellular apoptosis
+#717	AnnotatorNotes T717	GO:0006915 (apoptosis)
+T718	CL 21084 21092	cellular
+#718	AnnotatorNotes T718	CL:0000000 (cell)
+T719	GO_CC 21084 21092	cellular
+#719	AnnotatorNotes T719	GO:0005623 (cell)
+T720	CL 21186 21191	cells
+#720	AnnotatorNotes T720	CL:0000000 (cell)
+T721	GO_CC 21186 21191	cells
+#721	AnnotatorNotes T721	GO:0005623 (cell)
+T722	GO_BP 21206 21215	specified
+#722	AnnotatorNotes T722	GO:0001708 (cell fate specification)
+T723	SO 21219 21226	mutants
+#723	AnnotatorNotes T723	SO:0001059 (sequence_alteration)
+T724	independent_continuant 21219 21226	mutants
+#724	AnnotatorNotes T724	independent_continuant
+T725	GO_BP 21245 21255	expression
+#725	AnnotatorNotes T725	GO:0010467 (gene expression)
+T726	italic 21259 21277	Matrilin-4 (Mat4),
+#726	AnnotatorNotes T726	italic (null)
+T727	EntrezGene 21259 21269	Matrilin-4
+#727	AnnotatorNotes T727	EG:17183
+T728	PR 21259 21269	Matrilin-4
+#728	AnnotatorNotes T728	PR:000010208 (matrilin-4)
+T729	EntrezGene 21271 21275	Mat4
+#729	AnnotatorNotes T729	EG:17183
+T730	PR 21271 21275	Mat4
+#730	AnnotatorNotes T730	PR:000010208 (matrilin-4)
+T731	SO 21280 21284	gene
+#731	AnnotatorNotes T731	SO:0000704 (gene)
+T732	GO_BP 21285 21294	expressed
+#732	AnnotatorNotes T732	GO:0010467 (gene expression)
+T733	GO_BP 21357 21367	developing
+#733	AnnotatorNotes T733	GO:0032502 (developmental process)
+T734	SO 21416 21422	mutant
+#734	AnnotatorNotes T734	SO:0001059 (sequence_alteration)
+T735	NCBITaxon 21423 21430	animals
+#735	AnnotatorNotes T735	NCBITaxon:33208 (Metazoa)
+T736	GO_BP 21432 21445	transcription
+#736	AnnotatorNotes T736	GO:0006350 (transcription)
+T737	italic 21449 21453	Mat4
+#737	AnnotatorNotes T737	italic (null)
+T738	EntrezGene 21449 21453	Mat4
+#738	AnnotatorNotes T738	EG:17183
+T739	PR 21449 21453	Mat4
+#739	AnnotatorNotes T739	PR:000010208 (matrilin-4)
+T740	GO_BP 21569 21579	expression
+#740	AnnotatorNotes T740	GO:0010467 (gene expression)
+T741	GO_BP 21645 21658	recombination
+#741	AnnotatorNotes T741	GO:0006310 (DNA recombination)
+T742	GO_BP 21802 21817	gene expression
+#742	AnnotatorNotes T742	GO:0010467 (gene expression)
+T743	SO 21802 21806	gene
+#743	AnnotatorNotes T743	SO:0000704 (gene)
+T744	italic 21840 21846	Bmpr1a
+#744	AnnotatorNotes T744	italic (null)
+T745	EntrezGene 21840 21846	Bmpr1a
+#745	AnnotatorNotes T745	EG:12166
+T746	PR 21840 21846	Bmpr1a
+#746	AnnotatorNotes T746	PR:000000035 (BMP receptor type-1A)
+T747	GO_BP 21879 21928	formation or specification of articular cartilage
+#747	AnnotatorNotes T747	"formation .. of .. cartilage" GO:0051216 (cartilage development)
+T748	GO_BP 21892 21905	specification
+#748	AnnotatorNotes T748	GO:0007389 (pattern specification process)
+T749	GO_BP 21945 21950	birth
+#749	AnnotatorNotes T749	GO:0007567 (parturition)
+T750	SO 22021 22027	mutant
+#750	AnnotatorNotes T750	SO:0001059 (sequence_alteration)
+T751	NCBITaxon 22028 22035	animals
+#751	AnnotatorNotes T751	NCBITaxon:33208 (Metazoa)
+T752	GO_BP 22041 22051	expression
+#752	AnnotatorNotes T752	GO:0010467 (gene expression)
+T753	italic 22055 22061	Col2a1
+#753	AnnotatorNotes T753	italic (null)
+T754	EntrezGene 22055 22061	Col2a1
+#754	AnnotatorNotes T754	EG:12824
+T755	PR 22055 22061	Col2a1
+#755	AnnotatorNotes T755	PR:000003266 (collagen type II alpha chain)
+T756	CL 22238 22243	cells
+#756	AnnotatorNotes T756	CL:0000000 (cell)
+T757	GO_CC 22238 22243	cells
+#757	AnnotatorNotes T757	GO:0005623 (cell)
+T758	italic 22323 22329	Col2a1
+#758	AnnotatorNotes T758	italic (null)
+T759	PR 22323 22329	Col2a1
+#759	AnnotatorNotes T759	PR:000003266 (collagen type II alpha chain)
+T760	EntrezGene 22323 22329	Col2a1
+#760	AnnotatorNotes T760	EG:12824
+T761	GO_BP 22330 22340	expression
+#761	AnnotatorNotes T761	GO:0010467 (gene expression)
+T762	CL 22361 22366	cells
+#762	AnnotatorNotes T762	CL:0000000 (cell)
+T763	GO_CC 22361 22366	cells
+#763	AnnotatorNotes T763	GO:0005623 (cell)
+T764	GO_BP 22497 22507	expression
+#764	AnnotatorNotes T764	GO:0010467 (gene expression)
+T765	italic 22511 22514	Agg
+#765	AnnotatorNotes T765	italic (null)
+T766	PR 22511 22514	Agg
+#766	AnnotatorNotes T766	PR:000003606 (aggrecan core protein)
+T767	EntrezGene 22511 22514	Agg
+#767	AnnotatorNotes T767	EG:11595
+T768	SO 22523 22528	genes
+#768	AnnotatorNotes T768	SO:0000704 (gene)
+T769	GO_BP 22538 22547	expressed
+#769	AnnotatorNotes T769	GO:0010467 (gene expression)
+T770	CL 22573 22588	cartilage cells
+#770	AnnotatorNotes T770	CL:0000138 (chondrocyte)
+T771	GO_CC 22583 22588	cells
+#771	AnnotatorNotes T771	GO:0005623 (cell)
+T772	italic 22590 22609	Collagen 3 (Col3a1)
+#772	AnnotatorNotes T772	italic (null)
+T773	EntrezGene 22590 22600	Collagen 3
+#773	AnnotatorNotes T773	EG:12825
+T774	PR 22590 22600	Collagen 3
+#774	AnnotatorNotes T774	PR:000003328 (collagen alpha-1(III) chain)
+T775	EntrezGene 22602 22608	Col3a1
+#775	AnnotatorNotes T775	EG:12825
+T776	PR 22602 22608	Col3a1
+#776	AnnotatorNotes T776	PR:000003328 (collagen alpha-1(III) chain)
+T777	italic 22614 22635	Collagen 10 (Col10a1)
+#777	AnnotatorNotes T777	italic (null)
+T778	EntrezGene 22614 22625	Collagen 10
+#778	AnnotatorNotes T778	EG:12813
+T779	PR 22614 22625	Collagen 10
+#779	AnnotatorNotes T779	PR:000005693 (collagen alpha-1(X) chain)
+T780	EntrezGene 22627 22634	Col10a1
+#780	AnnotatorNotes T780	EG:12813
+T781	PR 22627 22634	Col10a1
+#781	AnnotatorNotes T781	PR:000005693 (collagen alpha-1(X) chain)
+T782	GO_BP 22701 22714	BMP signaling
+#782	AnnotatorNotes T782	GO:0030509 (BMP signaling pathway)
+T783	PR 22701 22704	BMP
+#783	AnnotatorNotes T783	PR:000000034 (BMP)
+T784	CL 22727 22739	chondrocytes
+#784	AnnotatorNotes T784	CL:0000138 (chondrocyte)
+T785	italic 22779 22798	Collagen 1 (Col1a1)
+#785	AnnotatorNotes T785	italic (null)
+T786	PR 22779 22789	Collagen 1
+#786	AnnotatorNotes T786	PR:000003263 (collagen type I alpha chain)
+T787	PR 22791 22797	Col1a1
+#787	AnnotatorNotes T787	PR:000003264 (collagen alpha-1(I) chain)
+T788	GO_BP 22799 22809	expression
+#788	AnnotatorNotes T788	GO:0010467 (gene expression)
+T789	GO_BP 22820 22833	proliferation
+#789	AnnotatorNotes T789	GO:0008283 (cell proliferation)
+T790	CL 22849 22854	cells
+#790	AnnotatorNotes T790	CL:0000000 (cell)
+T791	GO_CC 22849 22854	cells
+#791	AnnotatorNotes T791	GO:0005623 (cell)
+T792	CL 22871 22881	fibroblast
+#792	AnnotatorNotes T792	CL:0000057 (fibroblast)
+T793	GO_BP 22964 22974	expression
+#793	AnnotatorNotes T793	GO:0010467 (gene expression)
+T794	italic 22978 22984	Col1a1
+#794	AnnotatorNotes T794	italic (null)
+T795	PR 22978 22984	Col1a1
+#795	AnnotatorNotes T795	PR:000003264 (collagen alpha-1(I) chain)
+T796	EntrezGene 22978 22984	Col1a1
+#796	AnnotatorNotes T796	EG:12842
+T797	SO 22988 22994	mutant
+#797	AnnotatorNotes T797	SO:0001059 (sequence_alteration)
+T798	GO_BP 23023 23036	proliferation
+#798	AnnotatorNotes T798	GO:0008283 (cell proliferation)
+T799	CL 23063 23068	cells
+#799	AnnotatorNotes T799	CL:0000000 (cell)
+T800	GO_CC 23063 23068	cells
+#800	AnnotatorNotes T800	GO:0005623 (cell)
+T801	SO 23079 23085	mutant
+#801	AnnotatorNotes T801	SO:0001059 (sequence_alteration)
+T802	NCBITaxon 23097 23104	animals
+#802	AnnotatorNotes T802	NCBITaxon:33208 (Metazoa)
+T803	GO_BP 23131 23141	recombined
+#803	AnnotatorNotes T803	GO:0006310 (DNA recombination)
+T804	GO_BP 23154 23164	expression
+#804	AnnotatorNotes T804	GO:0010467 (gene expression)
+T805	CL 23196 23211	cartilage cells
+#805	AnnotatorNotes T805	CL:0000138 (chondrocyte)
+T806	GO_CC 23206 23211	cells
+#806	AnnotatorNotes T806	GO:0005623 (cell)
+T807	CL 23260 23272	chondrocytes
+#807	AnnotatorNotes T807	CL:0000138 (chondrocyte)
+T808	GO_BP 23274 23280	growth
+#808	AnnotatorNotes T808	GO:0040007 (growth)
+T809	CL 23287 23299	chondrocytes
+#809	AnnotatorNotes T809	CL:0000138 (chondrocyte)
+T810	CL 23305 23316	osteoblasts
+#810	AnnotatorNotes T810	CL:0000062 (osteoblast)
+T811	GO_BP 23383 23396	BMP signaling
+#811	AnnotatorNotes T811	GO:0030509 (BMP signaling pathway)
+T812	PR 23383 23386	BMP
+#812	AnnotatorNotes T812	PR:000000034 (BMP)
+T813	CL 23423 23427	cell
+#813	AnnotatorNotes T813	CL:0000000 (cell)
+T814	GO_CC 23423 23427	cell
+#814	AnnotatorNotes T814	GO:0005623 (cell)
+T815	italic 23511 23522	Osteocalcin
+#815	AnnotatorNotes T815	italic (null)
+T816	EntrezGene 23511 23522	Osteocalcin
+#816	AnnotatorNotes T816	EG:12097
+T817	italic 23527 23533	Col1a1
+#817	AnnotatorNotes T817	italic (null)
+T818	PR 23527 23533	Col1a1
+#818	AnnotatorNotes T818	PR:000003264 (collagen alpha-1(I) chain)
+T819	EntrezGene 23527 23533	Col1a1
+#819	AnnotatorNotes T819	EG:12842
+T820	GO_BP 23534 23544	expression
+#820	AnnotatorNotes T820	GO:0010467 (gene expression)
+T821	CL 23564 23575	osteoblasts
+#821	AnnotatorNotes T821	CL:0000062 (osteoblast)
+T822	EntrezGene 23630 23636	BMPR1A
+#822	AnnotatorNotes T822	EG:12166
+T823	PR 23630 23636	BMPR1A
+#823	AnnotatorNotes T823	PR:000000035 (BMP receptor type-1A)
+T824	GO_BP 23709 23733	expression of many genes
+#824	AnnotatorNotes T824	"expression of .. genes" GO:0010467 (gene expression)
+T825	SO 23728 23733	genes
+#825	AnnotatorNotes T825	SO:0000704 (gene)
+T826	GO_CC 23754 23784	components of cartilage matrix
+#826	AnnotatorNotes T826	"components of .. matrix" GO:0044420 (extracellular matrix part)
+T827	GO_CC 23778 23784	matrix
+#827	AnnotatorNotes T827	GO:0031012 (extracellular matrix)
+T828	italic 23820 23824	Sox9
+#828	AnnotatorNotes T828	italic (null)
+T829	PR 23820 23824	Sox9
+#829	AnnotatorNotes T829	PR:000015435 (transcription factor SOX-9)
+T830	GO_BP 23858 23873	differentiation
+#830	AnnotatorNotes T830	GO:0030154 (cell differentiation)
+T831	GO_BP 23879 23935	expression of cartilage extracellular matrix (ECM) genes
+#831	AnnotatorNotes T831	"expression of .. genes" GO:0010467 (gene expression)
+T832	GO_CC 23903 23923	extracellular matrix
+#832	AnnotatorNotes T832	GO:0031012 (extracellular matrix)
+T833	GO_CC 23903 23916	extracellular
+#833	AnnotatorNotes T833	GO:0005576 (extracellular region)
+T834	GO_CC 23925 23928	ECM
+#834	AnnotatorNotes T834	GO:0031012 (extracellular matrix)
+T835	SO 23930 23935	genes
+#835	AnnotatorNotes T835	SO:0000704 (gene)
+T836	italic 23946 23949	Agg
+#836	AnnotatorNotes T836	italic (null)
+T837	PR 23946 23949	Agg
+#837	AnnotatorNotes T837	PR:000003606 (aggrecan core protein)
+T838	GO_MF 23967 23992	transcriptional regulator
+#838	AnnotatorNotes T838	GO:0030528 (transcription regulator activity)
+T839	independent_continuant 23967 23992	transcriptional regulator
+#839	AnnotatorNotes T839	independent_continuant
+T840	GO_BP 23967 23982	transcriptional
+#840	AnnotatorNotes T840	GO:0006350 (transcription)
+T841	GO_CC 24014 24020	matrix
+#841	AnnotatorNotes T841	GO:0031012 (extracellular matrix)
+T842	SO 24021 24025	gene
+#842	AnnotatorNotes T842	SO:0000704 (gene)
+T843	italic 24026 24032	Col2a1
+#843	AnnotatorNotes T843	italic (null)
+T844	PR 24026 24032	Col2a1
+#844	AnnotatorNotes T844	PR:000003266 (collagen type II alpha chain)
+T845	GO_BP 24136 24184	expression of many cartilage matrix marker genes
+#845	AnnotatorNotes T845	"expression of .. genes" GO:0010467 (gene expression)
+T846	GO_CC 24165 24171	matrix
+#846	AnnotatorNotes T846	GO:0031012 (extracellular matrix)
+T847	SO 24179 24184	genes
+#847	AnnotatorNotes T847	SO:0000704 (gene)
+T848	italic 24188 24194	Bmpr1a
+#848	AnnotatorNotes T848	italic (null)
+T849	EntrezGene 24188 24194	Bmpr1a
+#849	AnnotatorNotes T849	EG:12166
+T850	PR 24188 24194	Bmpr1a
+#850	AnnotatorNotes T850	PR:000000035 (BMP receptor type-1A)
+T851	SO 24195 24201	mutant
+#851	AnnotatorNotes T851	SO:0001059 (sequence_alteration)
+T852	NCBITaxon 24202 24206	mice
+#852	AnnotatorNotes T852	NCBITaxon:10088 (Mus)
+T853	EntrezGene 24212 24216	SOX9
+#853	AnnotatorNotes T853	EG:20682
+T854	PR 24212 24216	SOX9
+#854	AnnotatorNotes T854	PR:000015435 (transcription factor SOX-9)
+T855	CHEBI 24217 24224	protein
+#855	AnnotatorNotes T855	CHEBI:36080 (proteins)
+T856	NCBITaxon 24351 24355	mice
+#856	AnnotatorNotes T856	NCBITaxon:10088 (Mus)
+T857	GO_BP 24463 24473	Maturation
+#857	AnnotatorNotes T857	GO:0021700 (developmental maturation)
+T858	italic 24495 24501	Bmpr1a
+#858	AnnotatorNotes T858	italic (null)
+T859	EntrezGene 24495 24501	Bmpr1a
+#859	AnnotatorNotes T859	EG:12166
+T860	PR 24495 24501	Bmpr1a
+#860	AnnotatorNotes T860	PR:000000035 (BMP receptor type-1A)
+T861	GO_BP 24666 24674	expanded
+#861	AnnotatorNotes T861	GO:0008283 (cell proliferation)
+T862	GO_BP 24693 24697	grew
+#862	AnnotatorNotes T862	GO:0040007 (growth)
+T863	GO_BP 24855 24865	maturation
+#863	AnnotatorNotes T863	GO:0021700 (developmental maturation)
+T864	GO_BP 24880 24890	expression
+#864	AnnotatorNotes T864	GO:0010467 (gene expression)
+T865	italic 24894 24901	Col10a1
+#865	AnnotatorNotes T865	italic (null)
+T866	EntrezGene 24894 24901	Col10a1
+#866	AnnotatorNotes T866	EG:12813
+T867	PR 24894 24901	Col10a1
+#867	AnnotatorNotes T867	PR:000005693 (collagen alpha-1(X) chain)
+T868	CL 24929 24941	chondrocytes
+#868	AnnotatorNotes T868	CL:0000138 (chondrocyte)
+T869	italic 25065 25072	Col10a1
+#869	AnnotatorNotes T869	italic (null)
+T870	EntrezGene 25065 25072	Col10a1
+#870	AnnotatorNotes T870	EG:12813
+T871	PR 25065 25072	Col10a1
+#871	AnnotatorNotes T871	PR:000005693 (collagen alpha-1(X) chain)
+T872	GO_BP 25073 25083	expression
+#872	AnnotatorNotes T872	GO:0010467 (gene expression)
+T873	GO_BP 25150 25163	recombination
+#873	AnnotatorNotes T873	GO:0006310 (DNA recombination)
+T874	GO_BP 25184 25194	expression
+#874	AnnotatorNotes T874	GO:0010467 (gene expression)
+T875	italic 25198 25205	Col10a1
+#875	AnnotatorNotes T875	italic (null)
+T876	EntrezGene 25198 25205	Col10a1
+#876	AnnotatorNotes T876	EG:12813
+T877	PR 25198 25205	Col10a1
+#877	AnnotatorNotes T877	PR:000005693 (collagen alpha-1(X) chain)
+T878	CL 25250 25255	cells
+#878	AnnotatorNotes T878	CL:0000000 (cell)
+T879	GO_CC 25250 25255	cells
+#879	AnnotatorNotes T879	GO:0005623 (cell)
+T880	GO_BP 25302 25314	ossification
+#880	AnnotatorNotes T880	GO:0001503 (ossification)
+T881	italic 25328 25335	Col10a1
+#881	AnnotatorNotes T881	italic (null)
+T882	PR 25328 25335	Col10a1
+#882	AnnotatorNotes T882	PR:000005693 (collagen alpha-1(X) chain)
+T883	GO_BP 25348 25357	expressed
+#883	AnnotatorNotes T883	GO:0010467 (gene expression)
+T884	GO_BP 25361 25369	maturing
+#884	AnnotatorNotes T884	GO:0021700 (developmental maturation)
+T885	CL 25370 25385	cartilage cells
+#885	AnnotatorNotes T885	CL:0000138 (chondrocyte)
+T886	GO_CC 25380 25385	cells
+#886	AnnotatorNotes T886	GO:0005623 (cell)
+T887	PR 25534 25569	parathyroid hormone-related protein
+#887	AnnotatorNotes T887	PR:000013433 (parathyroid hormone-related protein)
+T888	PR 25534 25553	parathyroid hormone
+#888	AnnotatorNotes T888	PR:000013429 (parathyroid hormone)
+T889	CHEBI 25546 25553	hormone
+#889	AnnotatorNotes T889	CHEBI:24621 (hormone)
+T890	independent_continuant 25546 25553	hormone
+#890	AnnotatorNotes T890	independent_continuant
+T891	GO_MF 25546 25553	hormone
+#891	AnnotatorNotes T891	GO:0005179 (hormone activity)
+T892	CHEBI 25562 25569	protein
+#892	AnnotatorNotes T892	CHEBI:36080 (proteins)
+T893	GO_BP 25591 25595	made
+#893	AnnotatorNotes T893	GO:0009058 (biosynthetic process)
+T894	GO_BP 25643 25653	maturation
+#894	AnnotatorNotes T894	GO:0021700 (developmental maturation)
+T895	CL 25799 25803	cell
+#895	AnnotatorNotes T895	CL:0000000 (cell)
+T896	GO_CC 25799 25803	cell
+#896	AnnotatorNotes T896	GO:0005623 (cell)
+T897	GO_BP 25834 25844	maturation
+#897	AnnotatorNotes T897	GO:0048469 (cell maturation)
+T898	CL 25848 25860	chondrocytes
+#898	AnnotatorNotes T898	CL:0000138 (chondrocyte)
+T899	CL 25968 25985	mononuclear cells
+#899	AnnotatorNotes T899	CL:0000842 (mononuclear cell)
+T900	CL 25968 25985	mononuclear cells
+#900	AnnotatorNotes T900	CL:0000226 (single nucleate cell)
+T901	GO_CC 25980 25985	cells
+#901	AnnotatorNotes T901	GO:0005623 (cell)
+T902	CL 25997 26009	synoviocytes
+#902	AnnotatorNotes T902	CL:0000214 (synovial cell)
+T903	CL 26013 26024	macrophages
+#903	AnnotatorNotes T903	CL:0000235 (macrophage)
+T904	CL 26026 26030	cell
+#904	AnnotatorNotes T904	CL:0000000 (cell)
+T905	GO_CC 26026 26030	cell
+#905	AnnotatorNotes T905	GO:0005623 (cell)
+T906	GO_CC 26081 26088	surface
+#906	AnnotatorNotes T906	GO:0009986 (cell surface)
+T907	CL 26136 26147	neutrophils
+#907	AnnotatorNotes T907	CL:0000775 (neutrophil)
+T908	GO_BP 26195 26207	inflammation
+#908	AnnotatorNotes T908	GO:0006954 (inflammatory response)
+T909	GO_BP 26316 26327	development
+#909	AnnotatorNotes T909	GO:0032502 (developmental process)
+T910	GO_BP 26331 26340	regulated
+#910	AnnotatorNotes T910	GO:0065007 (biological regulation)
+T911	GO_BP 26344 26357	BMP signaling
+#911	AnnotatorNotes T911	GO:0030509 (BMP signaling pathway)
+T912	PR 26344 26347	BMP
+#912	AnnotatorNotes T912	PR:000000034 (BMP)
+T913	GO_BP 26405 26413	response
+#913	AnnotatorNotes T913	GO:0050896 (response to stimulus)
+T914	GO_BP 26680 26689	expansion
+#914	AnnotatorNotes T914	GO:0008283 (cell proliferation)
+T915	SO 26725 26731	mutant
+#915	AnnotatorNotes T915	SO:0001059 (sequence_alteration)
+T916	NCBITaxon 26732 26736	mice
+#916	AnnotatorNotes T916	NCBITaxon:10088 (Mus)
+T917	NCBITaxon 26878 26885	animals
+#917	AnnotatorNotes T917	NCBITaxon:33208 (Metazoa)
+T918	italic 26911 26914	Agg
+#918	AnnotatorNotes T918	italic (null)
+T919	EntrezGene 26911 26914	Agg
+#919	AnnotatorNotes T919	EG:11595
+T920	PR 26911 26914	Agg
+#920	AnnotatorNotes T920	PR:000003606 (aggrecan core protein)
+T921	italic 26919 26924	Col10
+#921	AnnotatorNotes T921	italic (null)
+T922	PR 26919 26924	Col10
+#922	AnnotatorNotes T922	PR:000005693 (collagen alpha-1(X) chain)
+T923	EntrezGene 26919 26924	Col10
+#923	AnnotatorNotes T923	EG:12813
+T924	GO_BP 26925 26935	expression
+#924	AnnotatorNotes T924	GO:0010467 (gene expression)
+T925	SO 26956 26962	mutant
+#925	AnnotatorNotes T925	SO:0001059 (sequence_alteration)
+T926	GO_BP 27299 27309	expression
+#926	AnnotatorNotes T926	GO:0010467 (gene expression)
+T927	italic 27313 27333	Osteocalcin, Col1a1,
+#927	AnnotatorNotes T927	italic (null)
+T928	EntrezGene 27313 27324	Osteocalcin
+#928	AnnotatorNotes T928	EG:12097
+T929	EntrezGene 27326 27332	Col1a1
+#929	AnnotatorNotes T929	EG:12842
+T930	PR 27326 27332	Col1a1
+#930	AnnotatorNotes T930	PR:000003264 (collagen alpha-1(I) chain)
+T931	EntrezGene 27337 27362	matrix metalloprotease-13
+#931	AnnotatorNotes T931	EG:17386
+T932	PR 27337 27362	matrix metalloprotease-13
+#932	AnnotatorNotes T932	PR:000010473 (collagenase 3)
+T933	GO_CC 27337 27343	matrix
+#933	AnnotatorNotes T933	GO:0031012 (extracellular matrix)
+T934	GO_MF 27344 27359	metalloprotease
+#934	AnnotatorNotes T934	GO:0004222 (metalloendopeptidase activity)
+T935	independent_continuant 27344 27359	metalloprotease
+#935	AnnotatorNotes T935	independent_continuant
+T936	GO_CC 27540 27546	matrix
+#936	AnnotatorNotes T936	GO:0031012 (extracellular matrix)
+T937	GO_BP 27622 27631	formation
+#937	AnnotatorNotes T937	GO:0032502 (developmental process)
+T938	italic 27715 27721	Col2a1
+#938	AnnotatorNotes T938	italic (null)
+T939	EntrezGene 27715 27721	Col2a1
+#939	AnnotatorNotes T939	EG:12824
+T940	PR 27715 27721	Col2a1
+#940	AnnotatorNotes T940	PR:000003266 (collagen type II alpha chain)
+T941	italic 27726 27729	Agg
+#941	AnnotatorNotes T941	italic (null)
+T942	EntrezGene 27726 27729	Agg
+#942	AnnotatorNotes T942	EG:11595
+T943	PR 27726 27729	Agg
+#943	AnnotatorNotes T943	PR:000003606 (aggrecan core protein)
+T944	GO_BP 27730 27740	expression
+#944	AnnotatorNotes T944	GO:0010467 (gene expression)
+T945	SO 27769 27775	mutant
+#945	AnnotatorNotes T945	SO:0001059 (sequence_alteration)
+T946	independent_continuant 27769 27775	mutant
+#946	AnnotatorNotes T946	independent_continuant
+T947	GO_BP 27795 27805	expression
+#947	AnnotatorNotes T947	GO:0010467 (gene expression)
+T948	EntrezGene 27809 27813	Sox9
+#948	AnnotatorNotes T948	EG:20682
+T949	PR 27809 27813	Sox9
+#949	AnnotatorNotes T949	PR:000015435 (transcription factor SOX-9)
+T950	SO 27855 27861	mutant
+#950	AnnotatorNotes T950	SO:0001059 (sequence_alteration)
+T951	SO 28025 28032	mutants
+#951	AnnotatorNotes T951	SO:0001059 (sequence_alteration)
+T952	independent_continuant 28025 28032	mutants
+#952	AnnotatorNotes T952	independent_continuant
+T953	GO_BP 28058 28064	formed
+#953	AnnotatorNotes T953	GO:0032502 (developmental process)
+T954	CL 28163 28168	cells
+#954	AnnotatorNotes T954	CL:0000000 (cell)
+T955	GO_CC 28163 28168	cells
+#955	AnnotatorNotes T955	GO:0005623 (cell)
+T956	NCBITaxon 28315 28322	animals
+#956	AnnotatorNotes T956	NCBITaxon:33208 (Metazoa)
+T957	SO 28456 28462	mutant
+#957	AnnotatorNotes T957	SO:0001059 (sequence_alteration)
+T958	NCBITaxon 28463 28470	animals
+#958	AnnotatorNotes T958	NCBITaxon:33208 (Metazoa)
+T959	GO_BP 28515 28521	growth
+#959	AnnotatorNotes T959	GO:0040007 (growth)
+T960	NCBITaxon 28637 28644	animals
+#960	AnnotatorNotes T960	NCBITaxon:33208 (Metazoa)
+T961	CL 28822 28827	cells
+#961	AnnotatorNotes T961	CL:0000000 (cell)
+T962	GO_CC 28822 28827	cells
+#962	AnnotatorNotes T962	GO:0005623 (cell)
+T963	SO 28846 28852	mutant
+#963	AnnotatorNotes T963	SO:0001059 (sequence_alteration)
+T964	CL 28928 28933	cells
+#964	AnnotatorNotes T964	CL:0000000 (cell)
+T965	GO_CC 28928 28933	cells
+#965	AnnotatorNotes T965	GO:0005623 (cell)
+T966	italic 28972 28978	Bmpr1a
+#966	AnnotatorNotes T966	italic (null)
+T967	PR 28972 28978	Bmpr1a
+#967	AnnotatorNotes T967	PR:000000035 (BMP receptor type-1A)
+T968	EntrezGene 28972 28978	Bmpr1a
+#968	AnnotatorNotes T968	EG:12166
+T969	CL 28991 28995	cell
+#969	AnnotatorNotes T969	CL:0000000 (cell)
+T970	GO_CC 28991 28995	cell
+#970	AnnotatorNotes T970	GO:0005623 (cell)
+T971	SO 29094 29100	mutant
+#971	AnnotatorNotes T971	SO:0001059 (sequence_alteration)
+T972	CL 29132 29137	cells
+#972	AnnotatorNotes T972	CL:0000000 (cell)
+T973	GO_CC 29132 29137	cells
+#973	AnnotatorNotes T973	GO:0005623 (cell)
+T974	GO_BP 29304 29310	growth
+#974	AnnotatorNotes T974	GO:0040007 (growth)
+T975	SO 29420 29427	mutants
+#975	AnnotatorNotes T975	SO:0001059 (sequence_alteration)
+T976	independent_continuant 29420 29427	mutants
+#976	AnnotatorNotes T976	independent_continuant
+T977	GO_BP 29690 29698	response
+#977	AnnotatorNotes T977	GO:0050896 (response to stimulus)
+T978	GO_BP 29702 29716	bone formation
+#978	AnnotatorNotes T978	GO:0001503 (ossification)
+T979	italic 29805 29811	Bmpr1a
+#979	AnnotatorNotes T979	italic (null)
+T980	EntrezGene 29805 29811	Bmpr1a
+#980	AnnotatorNotes T980	EG:12166
+T981	PR 29805 29811	Bmpr1a
+#981	AnnotatorNotes T981	PR:000000035 (BMP receptor type-1A)
+T982	GO_BP 29812 29849	signaling in some LACZ-positive cells
+#982	AnnotatorNotes T982	"signaling in .. cells" GO:0007242 (intracellular signaling cascade)
+T983	CL 29844 29849	cells
+#983	AnnotatorNotes T983	CL:0000000 (cell)
+T984	GO_CC 29844 29849	cells
+#984	AnnotatorNotes T984	GO:0005623 (cell)
+T985	GO_BP 30034 30040	motion
+#985	AnnotatorNotes T985	GO:0050879 (multicellular organismal movement)
+T986	SO 30044 30050	mutant
+#986	AnnotatorNotes T986	SO:0001059 (sequence_alteration)
+T987	NCBITaxon 30051 30058	animals
+#987	AnnotatorNotes T987	NCBITaxon:33208 (Metazoa)
+T988	italic 30060 30080	Gdf5-Cre/Bmpr1afloxP
+#988	AnnotatorNotes T988	italic (null)
+T989	EntrezGene 30060 30064	Gdf5
+#989	AnnotatorNotes T989	EG:14563
+T990	PR 30060 30064	Gdf5
+#990	AnnotatorNotes T990	PR:000000281 (growth/differentiation factor 5)
+T991	sup 30075 30080	floxP
+#991	AnnotatorNotes T991	sup (null)
+T992	SO 30081 30087	mutant
+#992	AnnotatorNotes T992	SO:0001059 (sequence_alteration)
+T993	NCBITaxon 30088 30095	animals
+#993	AnnotatorNotes T993	NCBITaxon:33208 (Metazoa)
+T994	italic 30231 30232	n
+#994	AnnotatorNotes T994	italic (null)
+T995	SO 30239 30246	mutants
+#995	AnnotatorNotes T995	SO:0001059 (sequence_alteration)
+T996	independent_continuant 30239 30246	mutants
+#996	AnnotatorNotes T996	independent_continuant
+T997	italic 30256 30257	n
+#997	AnnotatorNotes T997	italic (null)
+T998	italic 30264 30265	p
+#998	AnnotatorNotes T998	italic (null)
+T999	SO 30277 30283	Mutant
+#999	AnnotatorNotes T999	SO:0001059 (sequence_alteration)
+T1000	NCBITaxon 30284 30288	mice
+#1000	AnnotatorNotes T1000	NCBITaxon:10088 (Mus)
+T1001	GO_BP 30342 30350	mobility
+#1001	AnnotatorNotes T1001	GO:0050879 (multicellular organismal movement)
+T1002	italic 30458 30459	n
+#1002	AnnotatorNotes T1002	italic (null)
+T1003	SO 30466 30473	mutants
+#1003	AnnotatorNotes T1003	SO:0001059 (sequence_alteration)
+T1004	independent_continuant 30466 30473	mutants
+#1004	AnnotatorNotes T1004	independent_continuant
+T1005	italic 30483 30484	n
+#1005	AnnotatorNotes T1005	italic (null)
+T1006	italic 30490 30491	p
+#1006	AnnotatorNotes T1006	italic (null)
+T1007	italic 30534 30535	n
+#1007	AnnotatorNotes T1007	italic (null)
+T1008	SO 30542 30549	mutants
+#1008	AnnotatorNotes T1008	SO:0001059 (sequence_alteration)
+T1009	independent_continuant 30542 30549	mutants
+#1009	AnnotatorNotes T1009	independent_continuant
+T1010	italic 30560 30561	n
+#1010	AnnotatorNotes T1010	italic (null)
+T1011	italic 30567 30568	p
+#1011	AnnotatorNotes T1011	italic (null)
+T1012	GO_BP 30615 30630	gene expression
+#1012	AnnotatorNotes T1012	GO:0010467 (gene expression)
+T1013	SO 30615 30619	gene
+#1013	AnnotatorNotes T1013	SO:0000704 (gene)
+T1014	SO 30658 30664	mutant
+#1014	AnnotatorNotes T1014	SO:0001059 (sequence_alteration)
+T1015	NCBITaxon 30665 30669	mice
+#1015	AnnotatorNotes T1015	NCBITaxon:10088 (Mus)
+T1016	EntrezGene 30687 30693	BMPR1A
+#1016	AnnotatorNotes T1016	EG:12166
+T1017	PR 30687 30693	BMPR1A
+#1017	AnnotatorNotes T1017	PR:000000035 (BMP receptor type-1A)
+T1018	GO_BP 30806 30819	BMP signaling
+#1018	AnnotatorNotes T1018	GO:0030509 (BMP signaling pathway)
+T1019	PR 30806 30809	BMP
+#1019	AnnotatorNotes T1019	PR:000000034 (BMP)
+T1020	GO_BP 30853 30873	developmental events
+#1020	AnnotatorNotes T1020	GO:0032502 (developmental process)
+T1021	GO_BP 30911 30924	embryogenesis
+#1021	AnnotatorNotes T1021	GO:0009790 (embryonic development)
+T1022	PR 30955 30958	BMP
+#1022	AnnotatorNotes T1022	PR:000000034 (BMP)
+T1023	GO_MF 30959 30968	receptors
+#1023	AnnotatorNotes T1023	GO:0004872 (receptor activity)
+T1024	independent_continuant 30959 30968	receptors
+#1024	AnnotatorNotes T1024	independent_continuant
+T1025	GO_BP 30976 30981	death
+#1025	AnnotatorNotes T1025	GO:0016265 (death)
+T1026	italic 31017 31025	Gdf5-Cre
+#1026	AnnotatorNotes T1026	italic (null)
+T1027	EntrezGene 31017 31021	Gdf5
+#1027	AnnotatorNotes T1027	EG:14563
+T1028	PR 31017 31021	Gdf5
+#1028	AnnotatorNotes T1028	PR:000000281 (growth/differentiation factor 5)
+T1029	GO_BP 31026 31039	recombination
+#1029	AnnotatorNotes T1029	GO:0006310 (DNA recombination)
+T1030	italic 31089 31095	Bmpr1a
+#1030	AnnotatorNotes T1030	italic (null)
+T1031	PR 31089 31095	Bmpr1a
+#1031	AnnotatorNotes T1031	PR:000000035 (BMP receptor type-1A)
+T1032	EntrezGene 31089 31095	Bmpr1a
+#1032	AnnotatorNotes T1032	EG:12166
+T1033	SO 31096 31105	mutations
+#1033	AnnotatorNotes T1033	SO:0001059 (sequence_alteration)
+T1034	GO_MF 31169 31177	receptor
+#1034	AnnotatorNotes T1034	GO:0004872 (receptor activity)
+T1035	independent_continuant 31169 31177	receptor
+#1035	AnnotatorNotes T1035	independent_continuant
+T1036	GO_BP 31181 31210	limb and skeletal development
+#1036	AnnotatorNotes T1036	"limb .. development" GO:0060173 (limb development)
+T1037	GO_BP 31190 31210	skeletal development
+#1037	AnnotatorNotes T1037	GO:0001501 (skeletal development)
+T1038	SO 31257 31268	eliminating
+#1038	AnnotatorNotes T1038	SO:0000045 (delete)
+T1039	italic 31269 31275	Bmpr1a
+#1039	AnnotatorNotes T1039	italic (null)
+T1040	PR 31269 31275	Bmpr1a
+#1040	AnnotatorNotes T1040	PR:000000035 (BMP receptor type-1A)
+T1041	EntrezGene 31269 31275	Bmpr1a
+#1041	AnnotatorNotes T1041	EG:12166
+T1042	italic 31281 31285	Gdf5
+#1042	AnnotatorNotes T1042	italic (null)
+T1043	EntrezGene 31281 31285	Gdf5
+#1043	AnnotatorNotes T1043	EG:14563
+T1044	PR 31281 31285	Gdf5
+#1044	AnnotatorNotes T1044	PR:000000281 (growth/differentiation factor 5)
+T1045	GO_BP 31286 31292	driven
+#1045	AnnotatorNotes T1045	GO:0048518 (positive regulation of biological process)
+T1046	GO_BP 31343 31352	formation
+#1046	AnnotatorNotes T1046	GO:0032502 (developmental process)
+T1047	GO_BP 31439 31444	birth
+#1047	AnnotatorNotes T1047	GO:0007567 (parturition)
+T1048	GO_BP 31526 31539	BMP signaling
+#1048	AnnotatorNotes T1048	GO:0030509 (BMP signaling pathway)
+T1049	PR 31526 31529	BMP
+#1049	AnnotatorNotes T1049	PR:000000034 (BMP)
+T1050	GO_BP 31560 31569	apoptosis
+#1050	AnnotatorNotes T1050	GO:0006915 (apoptosis)
+T1051	GO_BP 31577 31600	development of the limb
+#1051	AnnotatorNotes T1051	"development of .. limb" GO:0060173 (limb development)
+T1052	GO_BP 31660 31681	BMP signaling pathway
+#1052	AnnotatorNotes T1052	GO:0030509 (BMP signaling pathway)
+T1053	PR 31660 31663	BMP
+#1053	AnnotatorNotes T1053	PR:000000034 (BMP)
+T1054	GO_BP 31842 31855	BMP signaling
+#1054	AnnotatorNotes T1054	GO:0030509 (BMP signaling pathway)
+T1055	PR 31842 31845	BMP
+#1055	AnnotatorNotes T1055	PR:000000034 (BMP)
+T1056	GO_BP 31885 31894	apoptosis
+#1056	AnnotatorNotes T1056	GO:0006915 (apoptosis)
+T1057	italic 31913 31919	Bmpr1a
+#1057	AnnotatorNotes T1057	italic (null)
+T1058	PR 31913 31919	Bmpr1a
+#1058	AnnotatorNotes T1058	PR:000000035 (BMP receptor type-1A)
+T1059	EntrezGene 31913 31919	Bmpr1a
+#1059	AnnotatorNotes T1059	EG:12166
+T1060	italic 31995 32001	Bmpr1a
+#1060	AnnotatorNotes T1060	italic (null)
+T1061	PR 31995 32001	Bmpr1a
+#1061	AnnotatorNotes T1061	PR:000000035 (BMP receptor type-1A)
+T1062	EntrezGene 31995 32001	Bmpr1a
+#1062	AnnotatorNotes T1062	EG:12166
+T1063	GO_BP 32058 32067	formation
+#1063	AnnotatorNotes T1063	GO:0032502 (developmental process)
+T1064	GO_BP 32104 32108	form
+#1064	AnnotatorNotes T1064	GO:0032502 (developmental process)
+T1065	SO 32151 32160	Mutations
+#1065	AnnotatorNotes T1065	SO:0001059 (sequence_alteration)
+T1066	PR 32193 32196	BMP
+#1066	AnnotatorNotes T1066	PR:000000034 (BMP)
+T1067	italic 32205 32209	Gdf5
+#1067	AnnotatorNotes T1067	italic (null)
+T1068	PR 32205 32209	Gdf5
+#1068	AnnotatorNotes T1068	PR:000000281 (growth/differentiation factor 5)
+T1069	italic 32214 32219	Gdf6,
+#1069	AnnotatorNotes T1069	italic (null)
+T1070	PR 32214 32218	Gdf6
+#1070	AnnotatorNotes T1070	PR:000007924 (growth/differentiation factor 6)
+T1071	italic 32224 32230	Bmpr1b
+#1071	AnnotatorNotes T1071	italic (null)
+T1072	PR 32224 32230	Bmpr1b
+#1072	AnnotatorNotes T1072	PR:000000036 (BMP receptor type-1B)
+T1073	GO_MF 32231 32239	receptor
+#1073	AnnotatorNotes T1073	GO:0004872 (receptor activity)
+T1074	independent_continuant 32231 32239	receptor
+#1074	AnnotatorNotes T1074	independent_continuant
+T1075	EntrezGene 32252 32264	human Noggin
+#1075	AnnotatorNotes T1075	EG:9241
+T1076	NCBITaxon 32252 32257	human
+#1076	AnnotatorNotes T1076	NCBITaxon:9606 (Homo sapiens)
+T1077	italic 32258 32264	Noggin
+#1077	AnnotatorNotes T1077	italic (null)
+T1078	PR 32258 32264	Noggin
+#1078	AnnotatorNotes T1078	PR:000000021 (noggin protein)
+T1079	SO 32265 32270	locus
+#1079	AnnotatorNotes T1079	SO:0000001 (region)
+T1080	GO_BP 32399 32408	formation
+#1080	AnnotatorNotes T1080	GO:0032502 (developmental process)
+T1081	GO_BP 32506 32517	BMP pathway
+#1081	AnnotatorNotes T1081	GO:0030509 (BMP signaling pathway)
+T1082	PR 32506 32509	BMP
+#1082	AnnotatorNotes T1082	PR:000000034 (BMP)
+T1083	GO_BP 32547 32560	BMP signaling
+#1083	AnnotatorNotes T1083	GO:0030509 (BMP signaling pathway)
+T1084	PR 32547 32550	BMP
+#1084	AnnotatorNotes T1084	PR:000000034 (BMP)
+T1085	GO_BP 32599 32608	formation
+#1085	AnnotatorNotes T1085	GO:0032502 (developmental process)
+T1086	GO_BP 32658 32662	form
+#1086	AnnotatorNotes T1086	GO:0032502 (developmental process)
+T1087	italic 32677 32683	Bmpr1a
+#1087	AnnotatorNotes T1087	italic (null)
+T1088	PR 32677 32683	Bmpr1a
+#1088	AnnotatorNotes T1088	PR:000000035 (BMP receptor type-1A)
+T1089	EntrezGene 32677 32683	Bmpr1a
+#1089	AnnotatorNotes T1089	EG:12166
+T1090	italic 32702 32706	Gdf5
+#1090	AnnotatorNotes T1090	italic (null)
+T1091	EntrezGene 32702 32706	Gdf5
+#1091	AnnotatorNotes T1091	EG:14563
+T1092	PR 32702 32706	Gdf5
+#1092	AnnotatorNotes T1092	PR:000000281 (growth/differentiation factor 5)
+T1093	GO_BP 32707 32717	expression
+#1093	AnnotatorNotes T1093	GO:0010467 (gene expression)
+T1094	GO_BP 32825 32838	BMP signaling
+#1094	AnnotatorNotes T1094	GO:0030509 (BMP signaling pathway)
+T1095	PR 32825 32828	BMP
+#1095	AnnotatorNotes T1095	PR:000000034 (BMP)
+T1096	GO_BP 32876 32886	expression
+#1096	AnnotatorNotes T1096	GO:0010467 (gene expression)
+T1097	PR 32896 32899	BMP
+#1097	AnnotatorNotes T1097	PR:000000034 (BMP)
+T1098	GO_MF 32900 32909	receptors
+#1098	AnnotatorNotes T1098	GO:0004872 (receptor activity)
+T1099	independent_continuant 32900 32909	receptors
+#1099	AnnotatorNotes T1099	independent_continuant
+T1100	italic 32974 32982	Gdf5-Cre
+#1100	AnnotatorNotes T1100	italic (null)
+T1101	EntrezGene 32974 32978	Gdf5
+#1101	AnnotatorNotes T1101	EG:14563
+T1102	PR 32974 32978	Gdf5
+#1102	AnnotatorNotes T1102	PR:000000281 (growth/differentiation factor 5)
+T1103	SO 32994 32998	gene
+#1103	AnnotatorNotes T1103	SO:0000704 (gene)
+T1104	GO_BP 33065 33075	expression
+#1104	AnnotatorNotes T1104	GO:0010467 (gene expression)
+T1105	EntrezGene 33083 33088	HPLAP
+#1105	AnnotatorNotes T1105	EG:250
+T1106	GO_BP 33097 33103	driven
+#1106	AnnotatorNotes T1106	GO:0048518 (positive regulation of biological process)
+T1107	italic 33116 33120	Gdf5
+#1107	AnnotatorNotes T1107	italic (null)
+T1108	PR 33116 33120	Gdf5
+#1108	AnnotatorNotes T1108	PR:000000281 (growth/differentiation factor 5)
+T1109	EntrezGene 33116 33120	Gdf5
+#1109	AnnotatorNotes T1109	EG:14563
+T1110	GO_BP 33121 33128	control
+#1110	AnnotatorNotes T1110	GO:0065007 (biological regulation)
+T1111	italic 33147 33151	R26R
+#1111	AnnotatorNotes T1111	italic (null)
+T1112	GO_BP 33165 33174	expressed
+#1112	AnnotatorNotes T1112	GO:0010467 (gene expression)
+T1113	italic 33185 33193	Gdf5-Cre
+#1113	AnnotatorNotes T1113	italic (null)
+T1114	EntrezGene 33185 33189	Gdf5
+#1114	AnnotatorNotes T1114	EG:14563
+T1115	PR 33185 33189	Gdf5
+#1115	AnnotatorNotes T1115	PR:000000281 (growth/differentiation factor 5)
+T1116	GO_BP 33194 33207	recombination
+#1116	AnnotatorNotes T1116	GO:0006310 (DNA recombination)
+T1117	GO_BP 33223 33236	recombination
+#1117	AnnotatorNotes T1117	GO:0006310 (DNA recombination)
+T1118	GO_BP 33259 33274	gene expression
+#1118	AnnotatorNotes T1118	GO:0010467 (gene expression)
+T1119	SO 33259 33263	gene
+#1119	AnnotatorNotes T1119	SO:0000704 (gene)
+T1120	italic 33364 33370	Bmpr1a
+#1120	AnnotatorNotes T1120	italic (null)
+T1121	PR 33364 33370	Bmpr1a
+#1121	AnnotatorNotes T1121	PR:000000035 (BMP receptor type-1A)
+T1122	EntrezGene 33364 33370	Bmpr1a
+#1122	AnnotatorNotes T1122	EG:12166
+T1123	CHEBI 33371 33375	mRNA
+#1123	AnnotatorNotes T1123	CHEBI:33699 (messenger RNA)
+T1124	SO 33371 33375	mRNA
+#1124	AnnotatorNotes T1124	SO:0000234 (mRNA)
+T1125	CHEBI 33380 33387	protein
+#1125	AnnotatorNotes T1125	CHEBI:36080 (proteins)
+T1126	italic 33424 33432	Gdf5-Cre
+#1126	AnnotatorNotes T1126	italic (null)
+T1127	EntrezGene 33424 33428	Gdf5
+#1127	AnnotatorNotes T1127	EG:14563
+T1128	PR 33424 33428	Gdf5
+#1128	AnnotatorNotes T1128	PR:000000281 (growth/differentiation factor 5)
+T1129	GO_BP 33444 33457	recombination
+#1129	AnnotatorNotes T1129	GO:0006310 (DNA recombination)
+T1130	italic 33513 33519	Bmpr1a
+#1130	AnnotatorNotes T1130	italic (null)
+T1131	EntrezGene 33513 33519	Bmpr1a
+#1131	AnnotatorNotes T1131	EG:12166
+T1132	PR 33513 33519	Bmpr1a
+#1132	AnnotatorNotes T1132	PR:000000035 (BMP receptor type-1A)
+T1133	GO_BP 33529 33538	formation
+#1133	AnnotatorNotes T1133	GO:0032502 (developmental process)
+T1134	GO_BP 33573 33605	decay of Bmpr1a mRNA and protein
+#1134	AnnotatorNotes T1134	"decay of .. protein" GO:0030163 (protein catabolic process)
+T1135	GO_BP 33573 33593	decay of Bmpr1a mRNA
+#1135	AnnotatorNotes T1135	"decay of .. mRNA" GO:0006402 (mRNA catabolic process)
+T1136	italic 33582 33588	Bmpr1a
+#1136	AnnotatorNotes T1136	italic (null)
+T1137	EntrezGene 33582 33588	Bmpr1a
+#1137	AnnotatorNotes T1137	EG:12166
+T1138	PR 33582 33588	Bmpr1a
+#1138	AnnotatorNotes T1138	PR:000000035 (BMP receptor type-1A)
+T1139	CHEBI 33589 33593	mRNA
+#1139	AnnotatorNotes T1139	CHEBI:33699 (messenger RNA)
+T1140	SO 33589 33593	mRNA
+#1140	AnnotatorNotes T1140	SO:0000234 (mRNA)
+T1141	CHEBI 33598 33605	protein
+#1141	AnnotatorNotes T1141	CHEBI:36080 (proteins)
+T1142	italic 33611 33619	Gdf5-Cre
+#1142	AnnotatorNotes T1142	italic (null)
+T1143	EntrezGene 33611 33615	Gdf5
+#1143	AnnotatorNotes T1143	EG:14563
+T1144	PR 33611 33615	Gdf5
+#1144	AnnotatorNotes T1144	PR:000000281 (growth/differentiation factor 5)
+T1145	italic 33672 33678	Bmpr1a
+#1145	AnnotatorNotes T1145	italic (null)
+T1146	PR 33672 33678	Bmpr1a
+#1146	AnnotatorNotes T1146	PR:000000035 (BMP receptor type-1A)
+T1147	EntrezGene 33672 33678	Bmpr1a
+#1147	AnnotatorNotes T1147	EG:12166
+T1148	GO_BP 33691 33701	recombined
+#1148	AnnotatorNotes T1148	GO:0006310 (DNA recombination)
+T1149	CL 33702 33707	cells
+#1149	AnnotatorNotes T1149	CL:0000000 (cell)
+T1150	GO_CC 33702 33707	cells
+#1150	AnnotatorNotes T1150	GO:0005623 (cell)
+T1151	SO 33759 33766	genetic
+#1151	AnnotatorNotes T1151	SO:0000704 (gene)
+T1152	italic 33776 33782	Bmpr1a
+#1152	AnnotatorNotes T1152	italic (null)
+T1153	EntrezGene 33776 33782	Bmpr1a
+#1153	AnnotatorNotes T1153	EG:12166
+T1154	PR 33776 33782	Bmpr1a
+#1154	AnnotatorNotes T1154	PR:000000035 (BMP receptor type-1A)
+T1155	GO_BP 33817 33828	development
+#1155	AnnotatorNotes T1155	GO:0032502 (developmental process)
+T1156	GO_BP 33885 33900	gene expression
+#1156	AnnotatorNotes T1156	GO:0010467 (gene expression)
+T1157	SO 33885 33889	gene
+#1157	AnnotatorNotes T1157	SO:0000704 (gene)
+T1158	GO_BP 33919 33924	birth
+#1158	AnnotatorNotes T1158	GO:0007567 (parturition)
+T1159	italic 33926 33932	Bmpr1a
+#1159	AnnotatorNotes T1159	italic (null)
+T1160	EntrezGene 33926 33932	Bmpr1a
+#1160	AnnotatorNotes T1160	EG:12166
+T1161	PR 33926 33932	Bmpr1a
+#1161	AnnotatorNotes T1161	PR:000000035 (BMP receptor type-1A)
+T1162	NCBITaxon 33943 33950	animals
+#1162	AnnotatorNotes T1162	NCBITaxon:33208 (Metazoa)
+T1163	GO_BP 33985 33999	differentiated
+#1163	AnnotatorNotes T1163	GO:0030154 (cell differentiation)
+T1164	GO_BP 34049 34056	develop
+#1164	AnnotatorNotes T1164	GO:0032502 (developmental process)
+T1165	GO_BP 34061 34064	age
+#1165	AnnotatorNotes T1165	GO:0007568 (aging)
+T1166	GO_BP 34093 34115	BMP receptor signaling
+#1166	AnnotatorNotes T1166	GO:0030509 (BMP signaling pathway)
+T1167	PR 34093 34096	BMP
+#1167	AnnotatorNotes T1167	PR:000000034 (BMP)
+T1168	GO_MF 34097 34105	receptor
+#1168	AnnotatorNotes T1168	GO:0004872 (receptor activity)
+T1169	independent_continuant 34097 34105	receptor
+#1169	AnnotatorNotes T1169	independent_continuant
+T1170	GO_BP 34429 34437	mobility
+#1170	AnnotatorNotes T1170	GO:0050879 (multicellular organismal movement)
+T1171	GO_BP 34478 34484	create
+#1171	AnnotatorNotes T1171	GO:0032502 (developmental process)
+T1172	italic 34591 34597	Bmpr1a
+#1172	AnnotatorNotes T1172	italic (null)
+T1173	EntrezGene 34591 34597	Bmpr1a
+#1173	AnnotatorNotes T1173	EG:12166
+T1174	PR 34591 34597	Bmpr1a
+#1174	AnnotatorNotes T1174	PR:000000035 (BMP receptor type-1A)
+T1175	GO_BP 34667 34680	proliferation
+#1175	AnnotatorNotes T1175	GO:0008283 (cell proliferation)
+T1176	GO_BP 34696 34703	express
+#1176	AnnotatorNotes T1176	GO:0010467 (gene expression)
+T1177	italic 34704 34711	Col1a1,
+#1177	AnnotatorNotes T1177	italic (null)
+T1178	EntrezGene 34704 34710	Col1a1
+#1178	AnnotatorNotes T1178	EG:12842
+T1179	PR 34704 34710	Col1a1
+#1179	AnnotatorNotes T1179	PR:000003264 (collagen alpha-1(I) chain)
+T1180	GO_BP 34729 34736	express
+#1180	AnnotatorNotes T1180	GO:0010467 (gene expression)
+T1181	EntrezGene 34737 34741	SOX9
+#1181	AnnotatorNotes T1181	EG:20682
+T1182	PR 34737 34741	SOX9
+#1182	AnnotatorNotes T1182	PR:000015435 (transcription factor SOX-9)
+T1183	GO_MF 34751 34771	transcription factor
+#1183	AnnotatorNotes T1183	GO:0003700 (transcription factor activity)
+T1184	independent_continuant 34751 34771	transcription factor
+#1184	AnnotatorNotes T1184	independent_continuant
+T1185	GO_BP 34751 34764	transcription
+#1185	AnnotatorNotes T1185	GO:0006350 (transcription)
+T1186	GO_BP 34772 34782	regulating
+#1186	AnnotatorNotes T1186	GO:0065007 (biological regulation)
+T1187	GO_BP 34783 34793	expression
+#1187	AnnotatorNotes T1187	GO:0010467 (gene expression)
+T1188	GO_CC 34808 34838	components of cartilage matrix
+#1188	AnnotatorNotes T1188	"components of .. matrix" GO:0044420 (extracellular matrix part)
+T1189	GO_CC 34832 34838	matrix
+#1189	AnnotatorNotes T1189	GO:0031012 (extracellular matrix)
+T1190	GO_CC 34890 34920	components of cartilage matrix
+#1190	AnnotatorNotes T1190	"components of .. matrix" GO:0044420 (extracellular matrix part)
+T1191	GO_CC 34914 34920	matrix
+#1191	AnnotatorNotes T1191	GO:0031012 (extracellular matrix)
+T1192	SO 34946 34952	mutant
+#1192	AnnotatorNotes T1192	SO:0001059 (sequence_alteration)
+T1193	NCBITaxon 34953 34960	animals
+#1193	AnnotatorNotes T1193	NCBITaxon:33208 (Metazoa)
+T1194	GO_BP 34985 35028	synthesis of Col2a1, Agg, and proteoglycans
+#1194	AnnotatorNotes T1194	"synthesis of .. proteoglycans" GO:0030166 (proteoglycan biosynthetic process)
+T1195	italic 34998 35010	Col2a1, Agg,
+#1195	AnnotatorNotes T1195	italic (null)
+T1196	EntrezGene 34998 35004	Col2a1
+#1196	AnnotatorNotes T1196	EG:12824
+T1197	PR 34998 35004	Col2a1
+#1197	AnnotatorNotes T1197	PR:000003266 (collagen type II alpha chain)
+T1198	EntrezGene 35006 35009	Agg
+#1198	AnnotatorNotes T1198	EG:11595
+T1199	PR 35006 35009	Agg
+#1199	AnnotatorNotes T1199	PR:000003606 (aggrecan core protein)
+T1200	CHEBI 35015 35028	proteoglycans
+#1200	AnnotatorNotes T1200	CHEBI:37396 (proteoglycans)
+T1201	EntrezGene 35041 35047	BMPR1A
+#1201	AnnotatorNotes T1201	EG:12166
+T1202	PR 35041 35047	BMPR1A
+#1202	AnnotatorNotes T1202	PR:000000035 (BMP receptor type-1A)
+T1203	GO_BP 35115 35125	expression
+#1203	AnnotatorNotes T1203	GO:0010467 (gene expression)
+T1204	GO_CC 35133 35147	ECM components
+#1204	AnnotatorNotes T1204	GO:0044420 (extracellular matrix part)
+T1205	GO_CC 35133 35136	ECM
+#1205	AnnotatorNotes T1205	GO:0031012 (extracellular matrix)
+T1206	EntrezGene 35177 35202	SOX9 transcription factor
+#1206	AnnotatorNotes T1206	EG:20682
+T1207	PR 35177 35202	SOX9 transcription factor
+#1207	AnnotatorNotes T1207	PR:000015435 (transcription factor SOX-9)
+T1208	independent_continuant 35182 35202	transcription factor
+#1208	AnnotatorNotes T1208	independent_continuant
+T1209	GO_MF 35182 35202	transcription factor
+#1209	AnnotatorNotes T1209	GO:0003700 (transcription factor activity)
+T1210	GO_BP 35182 35195	transcription
+#1210	AnnotatorNotes T1210	GO:0006350 (transcription)
+T1211	GO_BP 35219 35228	expressed
+#1211	AnnotatorNotes T1211	GO:0010467 (gene expression)
+T1212	SO 35232 35238	mutant
+#1212	AnnotatorNotes T1212	SO:0001059 (sequence_alteration)
+T1213	italic 35265 35272	Col2a1,
+#1213	AnnotatorNotes T1213	italic (null)
+T1214	EntrezGene 35265 35271	Col2a1
+#1214	AnnotatorNotes T1214	EG:12824
+T1215	PR 35265 35271	Col2a1
+#1215	AnnotatorNotes T1215	PR:000003266 (collagen type II alpha chain)
+T1216	independent_continuant 35297 35317	transcription factor
+#1216	AnnotatorNotes T1216	independent_continuant
+T1217	GO_MF 35297 35317	transcription factor
+#1217	AnnotatorNotes T1217	GO:0003700 (transcription factor activity)
+T1218	GO_BP 35297 35310	transcription
+#1218	AnnotatorNotes T1218	GO:0006350 (transcription)
+T1219	PR 35390 35394	SOX9
+#1219	AnnotatorNotes T1219	PR:000015435 (transcription factor SOX-9)
+T1220	independent_continuant 35423 35437	protein kinase
+#1220	AnnotatorNotes T1220	independent_continuant
+T1221	GO_MF 35423 35437	protein kinase
+#1221	AnnotatorNotes T1221	GO:0004672 (protein kinase activity)
+T1222	CHEBI 35423 35430	protein
+#1222	AnnotatorNotes T1222	CHEBI:36080 (proteins)
+T1223	GO_BP 35456 35479	protein phosphorylation
+#1223	AnnotatorNotes T1223	GO:0006468 (protein amino acid phosphorylation)
+T1224	CHEBI 35456 35463	protein
+#1224	AnnotatorNotes T1224	CHEBI:36080 (proteins)
+T1225	CHEBI 35515 35523	proteins
+#1225	AnnotatorNotes T1225	CHEBI:36080 (proteins)
+T1226	PR 35525 35531	L-SOX5
+#1226	AnnotatorNotes T1226	PR:000026780 (transcription factor SOX-5 isoform 2)
+T1227	PR 35536 35540	SOX6
+#1227	AnnotatorNotes T1227	PR:000015432 (transcription factor SOX-6)
+T1228	SO 35631 35636	genes
+#1228	AnnotatorNotes T1228	SO:0000704 (gene)
+T1229	NCBITaxon 35652 35659	chicken
+#1229	AnnotatorNotes T1229	NCBITaxon:9031 (Gallus gallus)
+T1230	GO_BP 35666 35675	formation
+#1230	AnnotatorNotes T1230	GO:0032502 (developmental process)
+T1231	italic 35689 35693	Sox9
+#1231	AnnotatorNotes T1231	italic (null)
+T1232	PR 35689 35693	Sox9
+#1232	AnnotatorNotes T1232	PR:000015435 (transcription factor SOX-9)
+T1233	EntrezGene 35689 35693	Sox9
+#1233	AnnotatorNotes T1233	EG:374148
+T1234	italic 35722 35728	Bmpr1b
+#1234	AnnotatorNotes T1234	italic (null)
+T1235	EntrezGene 35722 35728	Bmpr1b
+#1235	AnnotatorNotes T1235	EG:396030
+T1236	PR 35722 35728	Bmpr1b
+#1236	AnnotatorNotes T1236	PR:000000036 (BMP receptor type-1B)
+T1237	italic 35734 35741	L-Sox5,
+#1237	AnnotatorNotes T1237	italic (null)
+T1238	PR 35734 35740	L-Sox5
+#1238	AnnotatorNotes T1238	PR:000026780 (transcription factor SOX-5 isoform 2)
+T1239	EntrezGene 35736 35740	Sox5
+#1239	AnnotatorNotes T1239	EG:418195
+T1240	italic 35751 35755	Sox6
+#1240	AnnotatorNotes T1240	italic (null)
+T1241	PR 35751 35755	Sox6
+#1241	AnnotatorNotes T1241	PR:000015432 (transcription factor SOX-6)
+T1242	EntrezGene 35751 35755	Sox6
+#1242	AnnotatorNotes T1242	EG:423068
+T1243	GO_CC 35774 35802	matrix structural components
+#1243	AnnotatorNotes T1243	"matrix .. components" GO:0044420 (extracellular matrix part)
+T1244	GO_CC 35774 35780	matrix
+#1244	AnnotatorNotes T1244	GO:0031012 (extracellular matrix)
+T1245	italic 35803 35809	Col2a1
+#1245	AnnotatorNotes T1245	italic (null)
+T1246	EntrezGene 35803 35809	Col2a1
+#1246	AnnotatorNotes T1246	EG:395069
+T1247	PR 35803 35809	Col2a1
+#1247	AnnotatorNotes T1247	PR:000003266 (collagen type II alpha chain)
+T1248	italic 35814 35817	Agg
+#1248	AnnotatorNotes T1248	italic (null)
+T1249	EntrezGene 35814 35817	Agg
+#1249	AnnotatorNotes T1249	EG:395798
+T1250	PR 35814 35817	Agg
+#1250	AnnotatorNotes T1250	PR:000003606 (aggrecan core protein)
+T1251	GO_BP 35899 35914	gene expression
+#1251	AnnotatorNotes T1251	GO:0010467 (gene expression)
+T1252	SO 35899 35903	gene
+#1252	AnnotatorNotes T1252	SO:0000704 (gene)
+T1253	italic 35927 35933	Bmpr1a
+#1253	AnnotatorNotes T1253	italic (null)
+T1254	PR 35927 35933	Bmpr1a
+#1254	AnnotatorNotes T1254	PR:000000035 (BMP receptor type-1A)
+T1255	EntrezGene 35927 35933	Bmpr1a
+#1255	AnnotatorNotes T1255	EG:12166
+T1256	NCBITaxon 35944 35948	mice
+#1256	AnnotatorNotes T1256	NCBITaxon:10088 (Mus)
+T1257	EntrezGene 35963 35969	BMPR1A
+#1257	AnnotatorNotes T1257	EG:12166
+T1258	PR 35963 35969	BMPR1A
+#1258	AnnotatorNotes T1258	PR:000000035 (BMP receptor type-1A)
+T1259	GO_BP 35970 35979	signaling
+#1259	AnnotatorNotes T1259	GO:0007165 (signal transduction)
+T1260	EntrezGene 36010 36014	SOX9
+#1260	AnnotatorNotes T1260	EG:20682
+T1261	PR 36010 36014	SOX9
+#1261	AnnotatorNotes T1261	PR:000015435 (transcription factor SOX-9)
+T1262	GO_BP 36018 36057	post-translational protein modification
+#1262	AnnotatorNotes T1262	GO:0043687 (post-translational protein modification)
+T1263	GO_BP 36023 36036	translational
+#1263	AnnotatorNotes T1263	GO:0006412 (translation)
+T1264	CHEBI 36037 36044	protein
+#1264	AnnotatorNotes T1264	CHEBI:36080 (proteins)
+T1265	italic 36072 36078	L-Sox5
+#1265	AnnotatorNotes T1265	italic (null)
+T1266	PR 36072 36078	L-Sox5
+#1266	AnnotatorNotes T1266	PR:000026780 (transcription factor SOX-5 isoform 2)
+T1267	EntrezGene 36074 36078	Sox5
+#1267	AnnotatorNotes T1267	EG:20678
+T1268	italic 36082 36086	Sox6
+#1268	AnnotatorNotes T1268	italic (null)
+T1269	PR 36082 36086	Sox6
+#1269	AnnotatorNotes T1269	PR:000015432 (transcription factor SOX-6)
+T1270	EntrezGene 36082 36086	Sox6
+#1270	AnnotatorNotes T1270	EG:20679
+T1271	GO_BP 36112 36122	expression
+#1271	AnnotatorNotes T1271	GO:0010467 (gene expression)
+T1272	GO_CC 36126 36140	ECM components
+#1272	AnnotatorNotes T1272	GO:0044420 (extracellular matrix part)
+T1273	GO_CC 36126 36129	ECM
+#1273	AnnotatorNotes T1273	GO:0031012 (extracellular matrix)
+T1274	PR 36190 36194	BMP2
+#1274	AnnotatorNotes T1274	PR:000000164 (BMP2)
+T1275	GO_BP 36236 36246	expression
+#1275	AnnotatorNotes T1275	GO:0010467 (gene expression)
+T1276	italic 36250 36254	Sox6
+#1276	AnnotatorNotes T1276	italic (null)
+T1277	PR 36250 36254	Sox6
+#1277	AnnotatorNotes T1277	PR:000015432 (transcription factor SOX-6)
+T1278	CL 36273 36278	cells
+#1278	AnnotatorNotes T1278	CL:0000000 (cell)
+T1279	GO_CC 36273 36278	cells
+#1279	AnnotatorNotes T1279	GO:0005623 (cell)
+T1280	GO_BP 36370 36380	expression
+#1280	AnnotatorNotes T1280	GO:0010467 (gene expression)
+T1281	italic 36384 36390	L-Sox5
+#1281	AnnotatorNotes T1281	italic (null)
+T1282	PR 36384 36390	L-Sox5
+#1282	AnnotatorNotes T1282	PR:000026780 (transcription factor SOX-5 isoform 2)
+T1283	EntrezGene 36386 36390	Sox5
+#1283	AnnotatorNotes T1283	EG:20678
+T1284	italic 36394 36398	Sox6
+#1284	AnnotatorNotes T1284	italic (null)
+T1285	PR 36394 36398	Sox6
+#1285	AnnotatorNotes T1285	PR:000015432 (transcription factor SOX-6)
+T1286	EntrezGene 36394 36398	Sox6
+#1286	AnnotatorNotes T1286	EG:20679
+T1287	GO_BP 36446 36461	phosphorylation
+#1287	AnnotatorNotes T1287	GO:0016310 (phosphorylation)
+T1288	EntrezGene 36471 36475	SOX9
+#1288	AnnotatorNotes T1288	EG:20682
+T1289	PR 36471 36475	SOX9
+#1289	AnnotatorNotes T1289	PR:000015435 (transcription factor SOX-9)
+T1290	CHEBI 36503 36511	reagents
+#1290	AnnotatorNotes T1290	CHEBI:33893 (reagent)
+T1291	SO 36677 36686	mutations
+#1291	AnnotatorNotes T1291	SO:0001059 (sequence_alteration)
+T1292	italic 36690 36696	L-Sox5
+#1292	AnnotatorNotes T1292	italic (null)
+T1293	PR 36690 36696	L-Sox5
+#1293	AnnotatorNotes T1293	PR:000026780 (transcription factor SOX-5 isoform 2)
+T1294	italic 36700 36705	Sox-6
+#1294	AnnotatorNotes T1294	italic (null)
+T1295	PR 36700 36705	Sox-6
+#1295	AnnotatorNotes T1295	PR:000015432 (transcription factor SOX-6)
+T1296	GO_BP 36739 36744	birth
+#1296	AnnotatorNotes T1296	GO:0007567 (parturition)
+T1297	GO_BP 36879 36888	regulated
+#1297	AnnotatorNotes T1297	GO:0065007 (biological regulation)
+T1298	GO_BP 36892 36905	BMP signaling
+#1298	AnnotatorNotes T1298	GO:0030509 (BMP signaling pathway)
+T1299	PR 36892 36895	BMP
+#1299	AnnotatorNotes T1299	PR:000000034 (BMP)
+T1300	EntrezGene 36921 36925	SOX9
+#1300	AnnotatorNotes T1300	EG:20682
+T1301	PR 36921 36925	SOX9
+#1301	AnnotatorNotes T1301	PR:000015435 (transcription factor SOX-9)
+T1302	SO 36943 36948	genes
+#1302	AnnotatorNotes T1302	SO:0000704 (gene)
+T1303	SO 36974 36982	Mutation
+#1303	AnnotatorNotes T1303	SO:0000041 (sequence_operation)
+T1304	italic 36986 36991	Smad3
+#1304	AnnotatorNotes T1304	italic (null)
+T1305	PR 36986 36991	Smad3
+#1305	AnnotatorNotes T1305	PR:000000365 (smad3)
+T1306	GO_BP 36995 37005	expression
+#1306	AnnotatorNotes T1306	GO:0010467 (gene expression)
+T1307	GO_MF 37027 37080	transforming growth factor β (TGF-β) type II receptor
+#1307	AnnotatorNotes T1307	"transforming growth factor β .. type II receptor" GO:0005026 (transforming growth factor beta receptor activity, type II)
+T1308	independent_continuant 37027 37080	transforming growth factor β (TGF-β) type II receptor
+#1308	AnnotatorNotes T1308	"transforming growth factor β .. type II receptor" independent_continuant
+T1309	PR 37027 37080	transforming growth factor β (TGF-β) type II receptor
+#1309	AnnotatorNotes T1309	"transforming growth factor β .. type II receptor" PR:000000005 (TGF-beta receptor type-2)
+T1310	PR 37027 37055	transforming growth factor β
+#1310	AnnotatorNotes T1310	PR:000000046 (TGF-beta)
+T1311	GO_MF 37040 37053	growth factor
+#1311	AnnotatorNotes T1311	GO:0008083 (growth factor activity)
+T1312	independent_continuant 37040 37053	growth factor
+#1312	AnnotatorNotes T1312	independent_continuant
+T1313	GO_BP 37040 37046	growth
+#1313	AnnotatorNotes T1313	GO:0040007 (growth)
+T1314	GO_MF 37057 37080	TGF-β) type II receptor
+#1314	AnnotatorNotes T1314	"TGF-β .. type II receptor" GO:0005026 (transforming growth factor beta receptor activity, type II)
+T1315	PR 37057 37080	TGF-β) type II receptor
+#1315	AnnotatorNotes T1315	"TGF-β .. type II receptor" PR:000000005 (TGF-beta receptor type-2)
+T1316	independent_continuant 37057 37080	TGF-β) type II receptor
+#1316	AnnotatorNotes T1316	"TGF-β .. type II receptor" independent_continuant
+T1317	PR 37057 37062	TGF-β
+#1317	AnnotatorNotes T1317	PR:000000046 (TGF-beta)
+T1318	GO_BP 37207 37237	TGFβ rather than BMP signaling
+#1318	AnnotatorNotes T1318	"TGFβ .. signaling" GO:0007179 (transforming growth factor beta receptor signaling pathway)
+T1319	PR 37207 37211	TGFβ
+#1319	AnnotatorNotes T1319	PR:000000046 (TGF-beta)
+T1320	GO_BP 37224 37237	BMP signaling
+#1320	AnnotatorNotes T1320	GO:0030509 (BMP signaling pathway)
+T1321	PR 37224 37227	BMP
+#1321	AnnotatorNotes T1321	PR:000000034 (BMP)
+T1322	italic 37357 37363	Bmpr1a
+#1322	AnnotatorNotes T1322	italic (null)
+T1323	EntrezGene 37357 37363	Bmpr1a
+#1323	AnnotatorNotes T1323	EG:12166
+T1324	PR 37357 37363	Bmpr1a
+#1324	AnnotatorNotes T1324	PR:000000035 (BMP receptor type-1A)
+T1325	SO 37364 37370	mutant
+#1325	AnnotatorNotes T1325	SO:0001059 (sequence_alteration)
+T1326	GO_CC 37408 37422	ECM components
+#1326	AnnotatorNotes T1326	GO:0044420 (extracellular matrix part)
+T1327	GO_CC 37408 37411	ECM
+#1327	AnnotatorNotes T1327	GO:0031012 (extracellular matrix)
+T1328	GO_BP 37484 37506	TGFβ and BMP signaling
+#1328	AnnotatorNotes T1328	"TGFβ .. signaling" GO:0007179 (transforming growth factor beta receptor signaling pathway)
+T1329	PR 37484 37488	TGFβ
+#1329	AnnotatorNotes T1329	PR:000000046 (TGF-beta)
+T1330	GO_BP 37493 37506	BMP signaling
+#1330	AnnotatorNotes T1330	GO:0030509 (BMP signaling pathway)
+T1331	PR 37493 37496	BMP
+#1331	AnnotatorNotes T1331	PR:000000034 (BMP)
+T1332	PR 37591 37595	BMPs
+#1332	AnnotatorNotes T1332	PR:000000034 (BMP)
+T1333	GO_BP 37654 37660	induce
+#1333	AnnotatorNotes T1333	GO:0031128 (induction)
+T1334	GO_BP 37669 37683	bone formation
+#1334	AnnotatorNotes T1334	GO:0001503 (ossification)
+T1335	GO_BP 37744 37763	cartilage formation
+#1335	AnnotatorNotes T1335	GO:0051216 (cartilage development)
+T1336	GO_BP 37815 37825	regenerate
+#1336	AnnotatorNotes T1336	GO:0031099 (regeneration)
+T1337	NCBITaxon 37853 37860	animals
+#1337	AnnotatorNotes T1337	NCBITaxon:33208 (Metazoa)
+T1338	EntrezGene 38035 38041	BMPR1A
+#1338	AnnotatorNotes T1338	EG:12166
+T1339	PR 38035 38041	BMPR1A
+#1339	AnnotatorNotes T1339	PR:000000035 (BMP receptor type-1A)
+T1340	CHEBI 38082 38090	molecule
+#1340	AnnotatorNotes T1340	CHEBI:36357 (polyatomic entities)
+T1341	CHEBI 38091 38099	agonists
+#1341	AnnotatorNotes T1341	CHEBI:48705 (agonist)
+T1342	GO_MF 38091 38099	agonists
+#1342	AnnotatorNotes T1342	GO:0048018 (receptor agonist activity)
+T1343	independent_continuant 38091 38099	agonists
+#1343	AnnotatorNotes T1343	independent_continuant
+T1344	GO_MF 38137 38145	receptor
+#1344	AnnotatorNotes T1344	GO:0004872 (receptor activity)
+T1345	independent_continuant 38137 38145	receptor
+#1345	AnnotatorNotes T1345	independent_continuant
+T1346	italic 38289 38295	Bmpr1a
+#1346	AnnotatorNotes T1346	italic (null)
+T1347	EntrezGene 38289 38295	Bmpr1a
+#1347	AnnotatorNotes T1347	EG:12166
+T1348	PR 38289 38295	Bmpr1a
+#1348	AnnotatorNotes T1348	PR:000000035 (BMP receptor type-1A)
+T1349	GO_BP 38402 38410	mobility
+#1349	AnnotatorNotes T1349	GO:0050879 (multicellular organismal movement)
+T1350	italic 38460 38466	Bmpr1a
+#1350	AnnotatorNotes T1350	italic (null)
+T1351	EntrezGene 38460 38466	Bmpr1a
+#1351	AnnotatorNotes T1351	EG:12166
+T1352	PR 38460 38466	Bmpr1a
+#1352	AnnotatorNotes T1352	PR:000000035 (BMP receptor type-1A)
+T1353	NCBITaxon 38477 38481	mice
+#1353	AnnotatorNotes T1353	NCBITaxon:10088 (Mus)
+T1354	GO_BP 38521 38534	BMP signaling
+#1354	AnnotatorNotes T1354	GO:0030509 (BMP signaling pathway)
+T1355	PR 38521 38524	BMP
+#1355	AnnotatorNotes T1355	PR:000000034 (BMP)
+T1356	NCBITaxon 38554 38559	human
+#1356	AnnotatorNotes T1356	NCBITaxon:9606 (Homo sapiens)
+T1357	SO 38621 38628	genetic
+#1357	AnnotatorNotes T1357	SO:0000704 (gene)
+T1358	SO 38672 38679	genetic
+#1358	AnnotatorNotes T1358	SO:0000704 (gene)
+T1359	NCBITaxon 38788 38794	Humans
+#1359	AnnotatorNotes T1359	NCBITaxon:9606 (Homo sapiens)
+T1360	SO 38838 38847	mutations
+#1360	AnnotatorNotes T1360	SO:0001059 (sequence_alteration)
+T1361	italic 38851 38857	BMPR1A
+#1361	AnnotatorNotes T1361	italic (null)
+T1362	EntrezGene 38851 38857	BMPR1A
+#1362	AnnotatorNotes T1362	EG:657
+T1363	PR 38851 38857	BMPR1A
+#1363	AnnotatorNotes T1363	PR:000000035 (BMP receptor type-1A)
+T1364	NCBITaxon 38984 38990	people
+#1364	AnnotatorNotes T1364	NCBITaxon:9606 (Homo sapiens)
+T1365	NCBITaxon 39035 39039	mice
+#1365	AnnotatorNotes T1365	NCBITaxon:10088 (Mus)
+T1366	SO 39088 39094	allele
+#1366	AnnotatorNotes T1366	SO:0001023 (allele)
+T1367	italic 39098 39105	Bmpr1a,
+#1367	AnnotatorNotes T1367	italic (null)
+T1368	EntrezGene 39098 39104	Bmpr1a
+#1368	AnnotatorNotes T1368	EG:12166
+T1369	PR 39098 39104	Bmpr1a
+#1369	AnnotatorNotes T1369	PR:000000035 (BMP receptor type-1A)
+T1370	SO 39179 39197	chromosome regions
+#1370	AnnotatorNotes T1370	SO:0000830 (chromosome_part)
+T1371	GO_CC 39179 39189	chromosome
+#1371	AnnotatorNotes T1371	GO:0005694 (chromosome)
+T1372	SO 39179 39189	chromosome
+#1372	AnnotatorNotes T1372	SO:0000340 (chromosome)
+T1373	NCBITaxon 39253 39259	humans
+#1373	AnnotatorNotes T1373	NCBITaxon:9606 (Homo sapiens)
+T1374	SO 39388 39406	chromosome regions
+#1374	AnnotatorNotes T1374	SO:0000830 (chromosome_part)
+T1375	GO_CC 39388 39398	chromosome
+#1375	AnnotatorNotes T1375	GO:0005694 (chromosome)
+T1376	SO 39388 39398	chromosome
+#1376	AnnotatorNotes T1376	SO:0000340 (chromosome)
+T1377	SO 39415 39420	genes
+#1377	AnnotatorNotes T1377	SO:0000704 (gene)
+T1378	GO_BP 39455 39476	BMP signaling pathway
+#1378	AnnotatorNotes T1378	GO:0030509 (BMP signaling pathway)
+T1379	PR 39455 39458	BMP
+#1379	AnnotatorNotes T1379	PR:000000034 (BMP)
+T1380	italic 39492 39496	BMP5
+#1380	AnnotatorNotes T1380	italic (null)
+T1381	EntrezGene 39492 39496	BMP5
+#1381	AnnotatorNotes T1381	EG:653
+T1382	PR 39492 39496	BMP5
+#1382	AnnotatorNotes T1382	PR:000000166 (BMP5)
+T1383	SO 39497 39501	gene
+#1383	AnnotatorNotes T1383	SO:0000704 (gene)
+T1384	NCBITaxon 39505 39510	human
+#1384	AnnotatorNotes T1384	NCBITaxon:9606 (Homo sapiens)
+T1385	GO_CC 39511 39521	chromosome
+#1385	AnnotatorNotes T1385	GO:0005694 (chromosome)
+T1386	SO 39511 39521	chromosome
+#1386	AnnotatorNotes T1386	SO:0000340 (chromosome)
+T1387	italic 39555 39560	MADH1
+#1387	AnnotatorNotes T1387	italic (null)
+T1388	PR 39555 39560	MADH1
+#1388	AnnotatorNotes T1388	PR:000000363 (smad1)
+T1389	EntrezGene 39555 39560	MADH1
+#1389	AnnotatorNotes T1389	EG:4086
+T1390	SO 39561 39565	gene
+#1390	AnnotatorNotes T1390	SO:0000704 (gene)
+T1391	NCBITaxon 39569 39574	human
+#1391	AnnotatorNotes T1391	NCBITaxon:9606 (Homo sapiens)
+T1392	GO_CC 39575 39585	chromosome
+#1392	AnnotatorNotes T1392	GO:0005694 (chromosome)
+T1393	SO 39575 39585	chromosome
+#1393	AnnotatorNotes T1393	SO:0000340 (chromosome)
+T1394	EntrezGene 39648 39662	BMPR2 receptor
+#1394	AnnotatorNotes T1394	EG:659
+T1395	italic 39648 39653	BMPR2
+#1395	AnnotatorNotes T1395	italic (null)
+T1396	PR 39648 39653	BMPR2
+#1396	AnnotatorNotes T1396	PR:000000037 (BMP receptor type-2)
+T1397	GO_MF 39654 39662	receptor
+#1397	AnnotatorNotes T1397	GO:0004872 (receptor activity)
+T1398	independent_continuant 39654 39662	receptor
+#1398	AnnotatorNotes T1398	independent_continuant
+T1399	NCBITaxon 39666 39671	human
+#1399	AnnotatorNotes T1399	NCBITaxon:9606 (Homo sapiens)
+T1400	GO_CC 39672 39682	chromosome
+#1400	AnnotatorNotes T1400	GO:0005694 (chromosome)
+T1401	SO 39672 39682	chromosome
+#1401	AnnotatorNotes T1401	SO:0000340 (chromosome)
+T1402	NCBITaxon 39732 39737	human
+#1402	AnnotatorNotes T1402	NCBITaxon:9606 (Homo sapiens)
+T1403	SO 39797 39802	genes
+#1403	AnnotatorNotes T1403	SO:0000704 (gene)
+T1404	SO 39867 39876	inclusion
+#1404	AnnotatorNotes T1404	SO:0000046 (insert)
+T1405	SO 39880 39887	genetic
+#1405	AnnotatorNotes T1405	SO:0000704 (gene)
+T1406	GO_BP 39901 39914	BMP signaling
+#1406	AnnotatorNotes T1406	GO:0030509 (BMP signaling pathway)
+T1407	PR 39901 39904	BMP
+#1407	AnnotatorNotes T1407	PR:000000034 (BMP)
+T1408	SO 39985 39989	loci
+#1408	AnnotatorNotes T1408	SO:0000001 (region)
+T1409	SO 40030 40039	mutations
+#1409	AnnotatorNotes T1409	SO:0001059 (sequence_alteration)
+T1410	GO_BP 40042 40075	Development and disease processes
+#1410	AnnotatorNotes T1410	"Development .. processes" GO:0032502 (developmental process)
+T1411	SO 40124 40135	genetically
+#1411	AnnotatorNotes T1411	SO:0000704 (gene)
+T1412	GO_BP 40165 40174	generated
+#1412	AnnotatorNotes T1412	GO:0032502 (developmental process)
+T1413	NCBITaxon 40217 40227	vertebrate
+#1413	AnnotatorNotes T1413	NCBITaxon:7742 (Vertebrata)
+T1414	GO_BP 40228 40239	development
+#1414	AnnotatorNotes T1414	GO:0032502 (developmental process)
+T1415	italic 40245 40253	Gdf5-Cre
+#1415	AnnotatorNotes T1415	italic (null)
+T1416	EntrezGene 40245 40249	Gdf5
+#1416	AnnotatorNotes T1416	EG:14563
+T1417	PR 40245 40249	Gdf5
+#1417	AnnotatorNotes T1417	PR:000000281 (growth/differentiation factor 5)
+T1418	GO_BP 40299 40314	gene expression
+#1418	AnnotatorNotes T1418	GO:0010467 (gene expression)
+T1419	SO 40299 40303	gene
+#1419	AnnotatorNotes T1419	SO:0000704 (gene)
+T1420	SO 40411 40416	genes
+#1420	AnnotatorNotes T1420	SO:0000704 (gene)
+T1421	SO 40473 40491	floxed target gene
+#1421	AnnotatorNotes T1421	"floxed .. gene" SO:0000363 (floxed_gene)
+T1422	SO 40473 40479	floxed
+#1422	AnnotatorNotes T1422	SO:0000359 (floxed)
+T1423	GO_BP 40540 40560	expression of a gene
+#1423	AnnotatorNotes T1423	"expression of .. gene" GO:0010467 (gene expression)
+T1424	SO 40556 40560	gene
+#1424	AnnotatorNotes T1424	SO:0000704 (gene)
+T1425	GO_BP 40574 40584	developing
+#1425	AnnotatorNotes T1425	GO:0032502 (developmental process)
+T1426	SO 40630 40634	gene
+#1426	AnnotatorNotes T1426	SO:0000704 (gene)
+T1427	GO_BP 40761 40772	development
+#1427	AnnotatorNotes T1427	GO:0032502 (developmental process)
+T1428	GO_BP 40922 40932	Generation
+#1428	AnnotatorNotes T1428	GO:0000003 (reproduction)
+T1429	italic 40936 40944	Gdf5-Cre
+#1429	AnnotatorNotes T1429	italic (null)
+T1430	EntrezGene 40936 40940	Gdf5
+#1430	AnnotatorNotes T1430	EG:14563
+T1431	PR 40936 40940	Gdf5
+#1431	AnnotatorNotes T1431	PR:000000281 (growth/differentiation factor 5)
+T1432	SO 40945 40955	transgenic
+#1432	AnnotatorNotes T1432	SO:0000902 (transgene)
+T1433	NCBITaxon 40956 40960	mice
+#1433	AnnotatorNotes T1433	NCBITaxon:10088 (Mus)
+T1434	NCBITaxon 40964 40969	mouse
+#1434	AnnotatorNotes T1434	NCBITaxon:10088 (Mus)
+T1435	SO 40980 40983	BAC
+#1435	AnnotatorNotes T1435	SO:0000153 (BAC)
+T1436	SO 41039 41042	BAC
+#1436	AnnotatorNotes T1436	SO:0000153 (BAC)
+T1437	italic 41052 41056	Gdf5
+#1437	AnnotatorNotes T1437	italic (null)
+T1438	EntrezGene 41052 41056	Gdf5
+#1438	AnnotatorNotes T1438	EG:14563
+T1439	PR 41052 41056	Gdf5
+#1439	AnnotatorNotes T1439	PR:000000281 (growth/differentiation factor 5)
+T1440	SO 41057 41062	locus
+#1440	AnnotatorNotes T1440	SO:0000001 (region)
+T1441	SO 41069 41072	BAC
+#1441	AnnotatorNotes T1441	SO:0000153 (BAC)
+T1442	SO 41077 41085	modified
+#1442	AnnotatorNotes T1442	SO:0000041 (sequence_operation)
+T1443	GO_BP 41105 41118	recombination
+#1443	AnnotatorNotes T1443	GO:0006310 (DNA recombination)
+T1444	NCBITaxon 41129 41136	E. coli
+#1444	AnnotatorNotes T1444	NCBITaxon:562 (Escherichia coli)
+T1445	taxonomic_rank 41129 41136	E. coli
+#1445	AnnotatorNotes T1445	taxonomic_rank (null)
+T1446	GO_CC 41165 41172	nuclear
+#1446	AnnotatorNotes T1446	GO:0005634 (nucleus)
+T1447	GO_BP 41173 41182	localized
+#1447	AnnotatorNotes T1447	GO:0051179 (localization)
+T1448	GO_MF 41187 41198	recombinase
+#1448	AnnotatorNotes T1448	GO:0000150 (recombinase activity)
+T1449	GO_MF 41187 41198	recombinase
+#1449	AnnotatorNotes T1449	GO:0009009 (site-specific recombinase activity)
+T1450	independent_continuant 41187 41198	recombinase
+#1450	AnnotatorNotes T1450	independent_continuant
+T1451	SO 41205 41212	plasmid
+#1451	AnnotatorNotes T1451	SO:0000155 (plasmid)
+T1452	SO 41253 41257	IRES
+#1452	AnnotatorNotes T1452	SO:0000243 (internal_ribosome_entry_site)
+T1453	italic 41258 41263	hPLAP
+#1453	AnnotatorNotes T1453	italic (null)
+T1454	EntrezGene 41258 41263	hPLAP
+#1454	AnnotatorNotes T1454	EG:250
+T1455	SO 41270 41277	plasmid
+#1455	AnnotatorNotes T1455	SO:0000155 (plasmid)
+T1456	SO 41327 41341	ATG start site
+#1456	AnnotatorNotes T1456	SO:0000318 (start_codon)
+T1457	italic 41345 41349	Gdf5
+#1457	AnnotatorNotes T1457	italic (null)
+T1458	PR 41345 41349	Gdf5
+#1458	AnnotatorNotes T1458	PR:000000281 (growth/differentiation factor 5)
+T1459	EntrezGene 41345 41349	Gdf5
+#1459	AnnotatorNotes T1459	EG:14563
+T1460	SO 41371 41373	bp
+#1460	AnnotatorNotes T1460	SO:0000028 (base_pair)
+T1461	SO 41387 41391	exon
+#1461	AnnotatorNotes T1461	SO:0000147 (exon)
+T1462	italic 41395 41399	Gdf5
+#1462	AnnotatorNotes T1462	italic (null)
+T1463	PR 41395 41399	Gdf5
+#1463	AnnotatorNotes T1463	PR:000000281 (growth/differentiation factor 5)
+T1464	EntrezGene 41395 41399	Gdf5
+#1464	AnnotatorNotes T1464	EG:14563
+T1465	SO 41404 41411	removed
+#1465	AnnotatorNotes T1465	SO:0000045 (delete)
+T1466	EntrezGene 41430 41434	GDF5
+#1466	AnnotatorNotes T1466	EG:14563
+T1467	PR 41430 41434	GDF5
+#1467	AnnotatorNotes T1467	PR:000000281 (growth/differentiation factor 5)
+T1468	CHEBI 41435 41442	protein
+#1468	AnnotatorNotes T1468	CHEBI:36080 (proteins)
+T1469	GO_BP 41462 41470	produced
+#1469	AnnotatorNotes T1469	GO:0009058 (biosynthetic process)
+T1470	SO 41513 41524	PCR product
+#1470	AnnotatorNotes T1470	SO:0000006 (PCR_product)
+T1471	SO 41554 41571	restriction sites
+#1471	AnnotatorNotes T1471	SO:0000061 (restriction_enzyme_binding_site)
+T1472	SO 41590 41592	bp
+#1472	AnnotatorNotes T1472	SO:0000028 (base_pair)
+T1473	SO 41599 41620	genomic Gdf5 sequence
+#1473	AnnotatorNotes T1473	"genomic .. sequence" SO:0000991 (genomic_DNA)
+T1474	SO 41599 41606	genomic
+#1474	AnnotatorNotes T1474	SO:0001026 (genome)
+T1475	italic 41607 41611	Gdf5
+#1475	AnnotatorNotes T1475	italic (null)
+T1476	PR 41607 41611	Gdf5
+#1476	AnnotatorNotes T1476	PR:000000281 (growth/differentiation factor 5)
+T1477	EntrezGene 41607 41611	Gdf5
+#1477	AnnotatorNotes T1477	EG:14563
+T1478	SO 41635 41661	ATG translation start site
+#1478	AnnotatorNotes T1478	SO:0000318 (start_codon)
+T1479	GO_BP 41639 41656	translation start
+#1479	AnnotatorNotes T1479	GO:0006413 (translational initiation)
+T1480	GO_BP 41639 41650	translation
+#1480	AnnotatorNotes T1480	GO:0006412 (translation)
+T1481	SO 41663 41677	forward primer
+#1481	AnnotatorNotes T1481	SO:0000121 (forward_primer)
+T1482	SO 41663 41670	forward
+#1482	AnnotatorNotes T1482	SO:0001030 (forward)
+T1483	SO 41718 41725	reverse
+#1483	AnnotatorNotes T1483	SO:0001031 (reverse)
+T1484	italic 41764 41767	Cre
+#1484	AnnotatorNotes T1484	italic (null)
+T1485	SO 41810 41818	fragment
+#1485	AnnotatorNotes T1485	SO:0000731 (fragmentary)
+T1486	SO 41829 41833	IRES
+#1486	AnnotatorNotes T1486	SO:0000243 (internal_ribosome_entry_site)
+T1487	italic 41834 41839	hPLAP
+#1487	AnnotatorNotes T1487	italic (null)
+T1488	EntrezGene 41834 41839	hPLAP
+#1488	AnnotatorNotes T1488	EG:250
+T1489	SO 41868 41879	PCR product
+#1489	AnnotatorNotes T1489	SO:0000006 (PCR_product)
+T1490	SO 41907 41912	sites
+#1490	AnnotatorNotes T1490	SO:0000001 (region)
+T1491	italic 41931 41936	hPLAP
+#1491	AnnotatorNotes T1491	italic (null)
+T1492	EntrezGene 41931 41936	hPLAP
+#1492	AnnotatorNotes T1492	EG:250
+T1493	SO 41937 41958	translation stop site
+#1493	AnnotatorNotes T1493	SO:0000319 (stop_codon)
+T1494	GO_BP 41937 41953	translation stop
+#1494	AnnotatorNotes T1494	GO:0006415 (translational termination)
+T1495	GO_BP 41937 41948	translation
+#1495	AnnotatorNotes T1495	GO:0006412 (translation)
+T1496	SO 41960 41974	forward primer
+#1496	AnnotatorNotes T1496	SO:0000121 (forward_primer)
+T1497	SO 41960 41967	forward
+#1497	AnnotatorNotes T1497	SO:0001030 (forward)
+T1498	SO 42021 42028	reverse
+#1498	AnnotatorNotes T1498	SO:0001031 (reverse)
+T1499	SO 42124 42135	PCR product
+#1499	AnnotatorNotes T1499	SO:0000006 (PCR_product)
+T1500	italic 42165 42169	Gdf5
+#1500	AnnotatorNotes T1500	italic (null)
+T1501	EntrezGene 42165 42169	Gdf5
+#1501	AnnotatorNotes T1501	EG:14563
+T1502	PR 42165 42169	Gdf5
+#1502	AnnotatorNotes T1502	PR:000000281 (growth/differentiation factor 5)
+T1503	SO 42170 42177	genomic
+#1503	AnnotatorNotes T1503	SO:0001026 (genome)
+T1504	SO 42198 42242	part of the first exon and downstream intron
+#1504	AnnotatorNotes T1504	"part of .. intron" SO:0001014 (intron_domain)
+T1505	SO 42198 42220	part of the first exon
+#1505	AnnotatorNotes T1505	"part of .. exon" SO:0000852 (exon_region)
+T1506	SO 42216 42220	exon
+#1506	AnnotatorNotes T1506	SO:0000147 (exon)
+T1507	SO 42236 42242	intron
+#1507	AnnotatorNotes T1507	SO:0000188 (intron)
+T1508	SO 42248 42262	forward primer
+#1508	AnnotatorNotes T1508	SO:0000121 (forward_primer)
+T1509	SO 42248 42255	forward
+#1509	AnnotatorNotes T1509	SO:0001030 (forward)
+T1510	SO 42296 42300	exon
+#1510	AnnotatorNotes T1510	SO:0000147 (exon)
+T1511	SO 42327 42331	site
+#1511	AnnotatorNotes T1511	SO:0000001 (region)
+T1512	SO 42337 42351	reverse primer
+#1512	AnnotatorNotes T1512	SO:0000132 (reverse_primer)
+T1513	SO 42337 42344	reverse
+#1513	AnnotatorNotes T1513	SO:0001031 (reverse)
+T1514	NCBITaxon 42364 42366	T7
+#1514	AnnotatorNotes T1514	NCBITaxon:10760 (Enterobacteria phage T7)
+T1515	SO 42367 42375	promoter
+#1515	AnnotatorNotes T1515	SO:0000167 (promoter)
+T1516	SO 42383 42389	vector
+#1516	AnnotatorNotes T1516	SO:0000440 (vector_replicon)
+T1517	SO 42436 42454	intronic XhoI site
+#1517	AnnotatorNotes T1517	"intronic .. site" SO:0000188 (intron)
+T1518	SO 42456 42470	forward primer
+#1518	AnnotatorNotes T1518	SO:0000121 (forward_primer)
+T1519	SO 42456 42463	forward
+#1519	AnnotatorNotes T1519	SO:0001030 (forward)
+T1520	SO 42510 42517	reverse
+#1520	AnnotatorNotes T1520	SO:0001031 (reverse)
+T1521	SO 42573 42582	construct
+#1521	AnnotatorNotes T1521	SO:0001037 (mobile_genetic_element)
+T1522	GO_BP 42587 42592	built
+#1522	AnnotatorNotes T1522	GO:0009058 (biosynthetic process)
+T1523	GO_BP 42671 42679	digested
+#1523	AnnotatorNotes T1523	GO:0009056 (catabolic process)
+T1524	SO 42719 42725	vector
+#1524	AnnotatorNotes T1524	SO:0000440 (vector_replicon)
+T1525	GO_BP 42746 42759	recombination
+#1525	AnnotatorNotes T1525	GO:0006310 (DNA recombination)
+T1526	SO 42808 42820	DNA sequence
+#1526	AnnotatorNotes T1526	SO:0000352 (DNA)
+T1527	SO 42866 42875	construct
+#1527	AnnotatorNotes T1527	SO:0001037 (mobile_genetic_element)
+T1528	SO 42880 42883	BAC
+#1528	AnnotatorNotes T1528	SO:0000153 (BAC)
+T1529	SO 42884 42897	modifications
+#1529	AnnotatorNotes T1529	SO:0001059 (sequence_alteration)
+T1530	GO_BP 42903 42907	made
+#1530	AnnotatorNotes T1530	GO:0009058 (biosynthetic process)
+T1531	SO 42940 42948	modified
+#1531	AnnotatorNotes T1531	SO:0000041 (sequence_operation)
+T1532	SO 42949 42952	BAC
+#1532	AnnotatorNotes T1532	SO:0000153 (BAC)
+T1533	GO_BP 42969 42976	produce
+#1533	AnnotatorNotes T1533	GO:0000003 (reproduction)
+T1534	SO 42977 42987	transgenic
+#1534	AnnotatorNotes T1534	SO:0000902 (transgene)
+T1535	NCBITaxon 42988 42995	animals
+#1535	AnnotatorNotes T1535	NCBITaxon:33208 (Metazoa)
+T1536	SO 42999 43008	loxP site
+#1536	AnnotatorNotes T1536	SO:0000346 (loxP_site)
+T1537	italic 42999 43003	loxP
+#1537	AnnotatorNotes T1537	italic (null)
+T1538	SO 43024 43034	BAC vector
+#1538	AnnotatorNotes T1538	SO:0000153 (BAC)
+T1539	SO 43052 43059	removed
+#1539	AnnotatorNotes T1539	SO:0000045 (delete)
+T1540	SO 43108 43113	sites
+#1540	AnnotatorNotes T1540	SO:0000001 (region)
+T1541	SO 43123 43129	genome
+#1541	AnnotatorNotes T1541	SO:0001026 (genome)
+T1542	SO 43143 43146	BAC
+#1542	AnnotatorNotes T1542	SO:0000153 (BAC)
+T1543	SO 43147 43150	DNA
+#1543	AnnotatorNotes T1543	SO:0000352 (DNA)
+T1544	GO_BP 43184 43192	digested
+#1544	AnnotatorNotes T1544	GO:0009056 (catabolic process)
+T1545	SO 43215 43221	insert
+#1545	AnnotatorNotes T1545	SO:0000667 (insertion)
+T1546	SO 43231 43237	vector
+#1546	AnnotatorNotes T1546	SO:0000440 (vector_replicon)
+T1547	CHEBI 43268 43275	sucrose
+#1547	AnnotatorNotes T1547	CHEBI:17992 (sucrose)
+T1548	SO 43365 43371	vector
+#1548	AnnotatorNotes T1548	SO:0000440 (vector_replicon)
+T1549	SO 43381 43384	DNA
+#1549	AnnotatorNotes T1549	SO:0000352 (DNA)
+T1550	SO 43390 43395	probe
+#1550	AnnotatorNotes T1550	SO:0000051 (probe)
+T1551	SO 43428 43434	insert
+#1551	AnnotatorNotes T1551	SO:0000667 (insertion)
+T1552	SO 43460 43466	vector
+#1552	AnnotatorNotes T1552	SO:0000440 (vector_replicon)
+T1553	SO 43467 43470	DNA
+#1553	AnnotatorNotes T1553	SO:0000352 (DNA)
+T1554	CHEBI 43517 43521	Tris
+#1554	AnnotatorNotes T1554	CHEBI:9754 (tris)
+T1555	CHEBI 43544 43548	EDTA
+#1555	AnnotatorNotes T1555	CHEBI:30378 (ethylenediaminetetraacetate)
+T1556	CHEBI 43544 43548	EDTA
+#1556	AnnotatorNotes T1556	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T1557	SO 43661 43667	insert
+#1557	AnnotatorNotes T1557	SO:0000667 (insertion)
+T1558	SO 43668 43671	DNA
+#1558	AnnotatorNotes T1558	SO:0000352 (DNA)
+T1559	GO_CC 43718 43728	pronucleus
+#1559	AnnotatorNotes T1559	GO:0045120 (pronucleus)
+T1560	GO_BP 43732 43742	fertilized
+#1560	AnnotatorNotes T1560	GO:0009566 (fertilization)
+T1561	CL 43743 43747	eggs
+#1561	AnnotatorNotes T1561	CL:0000025 (egg)
+T1562	NCBITaxon 43759 43763	mice
+#1562	AnnotatorNotes T1562	NCBITaxon:10088 (Mus)
+T1563	SO 43780 43790	Transgenic
+#1563	AnnotatorNotes T1563	SO:0000902 (transgene)
+T1564	independent_continuant 43780 43790	Transgenic
+#1564	AnnotatorNotes T1564	independent_continuant
+T1565	SO 43801 43811	Transgenic
+#1565	AnnotatorNotes T1565	SO:0000902 (transgene)
+T1566	NCBITaxon 43820 43824	mice
+#1566	AnnotatorNotes T1566	NCBITaxon:10088 (Mus)
+T1567	italic 43854 43857	Cre
+#1567	AnnotatorNotes T1567	italic (null)
+T1568	SO 43867 43874	primers
+#1568	AnnotatorNotes T1568	SO:0000112 (primer)
+T1569	SO 43966 43968	bp
+#1569	AnnotatorNotes T1569	SO:0000028 (base_pair)
+T1570	SO 43969 43976	product
+#1570	AnnotatorNotes T1570	SO:0000006 (PCR_product)
+T1571	SO 44011 44021	BAC vector
+#1571	AnnotatorNotes T1571	SO:0000153 (BAC)
+T1572	SO 44028 44034	vector
+#1572	AnnotatorNotes T1572	SO:0000440 (vector_replicon)
+T1573	SO 44044 44051	primers
+#1573	AnnotatorNotes T1573	SO:0000112 (primer)
+T1574	SO 44138 44140	bp
+#1574	AnnotatorNotes T1574	SO:0000028 (base_pair)
+T1575	SO 44141 44148	product
+#1575	AnnotatorNotes T1575	SO:0000006 (PCR_product)
+T1576	italic 44165 44173	Gdf5-Cre
+#1576	AnnotatorNotes T1576	italic (null)
+T1577	EntrezGene 44165 44169	Gdf5
+#1577	AnnotatorNotes T1577	EG:14563
+T1578	PR 44165 44169	Gdf5
+#1578	AnnotatorNotes T1578	PR:000000281 (growth/differentiation factor 5)
+T1579	NCBITaxon 44174 44178	mice
+#1579	AnnotatorNotes T1579	NCBITaxon:10088 (Mus)
+T1580	GO_BP 44184 44195	established
+#1580	AnnotatorNotes T1580	GO:0000003 (reproduction)
+T1581	GO_BP 44234 44241	Matings
+#1581	AnnotatorNotes T1581	GO:0007618 (mating)
+T1582	NCBITaxon 44280 44284	mice
+#1582	AnnotatorNotes T1582	NCBITaxon:10088 (Mus)
+T1583	EntrezGene 44359 44364	HPLAP
+#1583	AnnotatorNotes T1583	EG:250
+T1584	CHEBI 44518 44524	chloro
+#1584	AnnotatorNotes T1584	CHEBI:47853 (chloro group)
+T1585	italic 44652 44658	Bmpr1a
+#1585	AnnotatorNotes T1585	italic (null)
+T1586	PR 44652 44658	Bmpr1a
+#1586	AnnotatorNotes T1586	PR:000000035 (BMP receptor type-1A)
+T1587	EntrezGene 44652 44658	Bmpr1a
+#1587	AnnotatorNotes T1587	EG:12166
+T1588	SO 44659 44665	mutant
+#1588	AnnotatorNotes T1588	SO:0001059 (sequence_alteration)
+T1589	NCBITaxon 44666 44670	mice
+#1589	AnnotatorNotes T1589	NCBITaxon:10088 (Mus)
+T1590	italic 44672 44678	Bmpr1a
+#1590	AnnotatorNotes T1590	italic (null)
+T1591	PR 44672 44678	Bmpr1a
+#1591	AnnotatorNotes T1591	PR:000000035 (BMP receptor type-1A)
+T1592	EntrezGene 44672 44678	Bmpr1a
+#1592	AnnotatorNotes T1592	EG:12166
+T1593	SO 44688 44694	floxed
+#1593	AnnotatorNotes T1593	SO:0000359 (floxed)
+T1594	SO 44695 44702	alleles
+#1594	AnnotatorNotes T1594	SO:0001023 (allele)
+T1595	GO_BP 44819 44827	breeding
+#1595	AnnotatorNotes T1595	GO:0007618 (mating)
+T1596	NCBITaxon 44829 44833	Mice
+#1596	AnnotatorNotes T1596	NCBITaxon:10088 (Mus)
+T1597	SO 44856 44862	floxed
+#1597	AnnotatorNotes T1597	SO:0000359 (floxed)
+T1598	SO 44863 44870	alleles
+#1598	AnnotatorNotes T1598	SO:0001023 (allele)
+T1599	GO_BP 44886 44891	mated
+#1599	AnnotatorNotes T1599	GO:0007618 (mating)
+T1600	italic 44895 44903	Gdf5-Cre
+#1600	AnnotatorNotes T1600	italic (null)
+T1601	EntrezGene 44895 44899	Gdf5
+#1601	AnnotatorNotes T1601	EG:14563
+T1602	PR 44895 44899	Gdf5
+#1602	AnnotatorNotes T1602	PR:000000281 (growth/differentiation factor 5)
+T1603	NCBITaxon 44904 44908	mice
+#1603	AnnotatorNotes T1603	NCBITaxon:10088 (Mus)
+T1604	NCBITaxon 44945 44949	mice
+#1604	AnnotatorNotes T1604	NCBITaxon:10088 (Mus)
+T1605	SO 45020 45026	mutant
+#1605	AnnotatorNotes T1605	SO:0001059 (sequence_alteration)
+T1606	NCBITaxon 45027 45034	animals
+#1606	AnnotatorNotes T1606	NCBITaxon:33208 (Metazoa)
+T1607	GO_BP 45035 45044	generated
+#1607	AnnotatorNotes T1607	GO:0000003 (reproduction)
+T1608	GO_BP 45074 45081	matings
+#1608	AnnotatorNotes T1608	GO:0007618 (mating)
+T1609	NCBITaxon 45148 45152	mice
+#1609	AnnotatorNotes T1609	NCBITaxon:10088 (Mus)
+T1610	NCBITaxon 45214 45221	animals
+#1610	AnnotatorNotes T1610	NCBITaxon:33208 (Metazoa)
+T1611	GO_BP 45309 45315	formed
+#1611	AnnotatorNotes T1611	GO:0032502 (developmental process)
+T1612	NCBITaxon 45428 45432	mice
+#1612	AnnotatorNotes T1612	NCBITaxon:10088 (Mus)
+T1613	NCBITaxon 45457 45464	animals
+#1613	AnnotatorNotes T1613	NCBITaxon:33208 (Metazoa)
+T1614	NCBITaxon 45621 45626	mouse
+#1614	AnnotatorNotes T1614	NCBITaxon:10088 (Mus)
+T1615	GO_BP 45651 45657	motion
+#1615	AnnotatorNotes T1615	GO:0050879 (multicellular organismal movement)
+T1616	NCBITaxon 45765 45772	animals
+#1616	AnnotatorNotes T1616	NCBITaxon:33208 (Metazoa)
+T1617	NCBITaxon 45996 46003	animals
+#1617	AnnotatorNotes T1617	NCBITaxon:33208 (Metazoa)
+T1618	italic 46012 46016	R26R
+#1618	AnnotatorNotes T1618	italic (null)
+T1619	NCBITaxon 46026 46030	mice
+#1619	AnnotatorNotes T1619	NCBITaxon:10088 (Mus)
+T1620	SO 46054 46063	genotypes
+#1620	AnnotatorNotes T1620	SO:0001027 (genotype)
+T1621	GO_BP 46064 46073	generated
+#1621	AnnotatorNotes T1621	GO:0000003 (reproduction)
+T1622	italic 46109 46117	Gdf5-Cre
+#1622	AnnotatorNotes T1622	italic (null)
+T1623	EntrezGene 46109 46113	Gdf5
+#1623	AnnotatorNotes T1623	EG:14563
+T1624	PR 46109 46113	Gdf5
+#1624	AnnotatorNotes T1624	PR:000000281 (growth/differentiation factor 5)
+T1625	italic 46122 46132	Bmpr1anull
+#1625	AnnotatorNotes T1625	italic (null)
+T1626	sup 46128 46132	null
+#1626	AnnotatorNotes T1626	sup (null)
+T1627	italic 46169 46180	Bmpr1afloxP
+#1627	AnnotatorNotes T1627	italic (null)
+T1628	sup 46175 46180	floxP
+#1628	AnnotatorNotes T1628	sup (null)
+T1629	GO_BP 46325 46353	Cell death and proliferation
+#1629	AnnotatorNotes T1629	"Cell .. proliferation" GO:0008283 (cell proliferation)
+T1630	GO_BP 46325 46335	Cell death
+#1630	AnnotatorNotes T1630	GO:0008219 (cell death)
+T1631	CL 46325 46329	Cell
+#1631	AnnotatorNotes T1631	CL:0000000 (cell)
+T1632	GO_CC 46325 46329	Cell
+#1632	AnnotatorNotes T1632	GO:0005623 (cell)
+T1633	SO 46373 46379	mutant
+#1633	AnnotatorNotes T1633	SO:0001059 (sequence_alteration)
+T1634	NCBITaxon 46392 46399	animals
+#1634	AnnotatorNotes T1634	NCBITaxon:33208 (Metazoa)
+T1635	GO_BP 46561 46571	Cell Death
+#1635	AnnotatorNotes T1635	GO:0008219 (cell death)
+T1636	CL 46561 46565	Cell
+#1636	AnnotatorNotes T1636	CL:0000000 (cell)
+T1637	GO_CC 46561 46565	Cell
+#1637	AnnotatorNotes T1637	GO:0005623 (cell)
+T1638	NCBITaxon 46711 46715	goat
+#1638	AnnotatorNotes T1638	NCBITaxon:9925 (Capra hircus)
+T1639	NCBITaxon 46778 46784	rabbit
+#1639	AnnotatorNotes T1639	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1640	CHEBI 46790 46797	phospho
+#1640	AnnotatorNotes T1640	CHEBI:32958 (phosphate group)
+T1641	CHEBI 46798 46805	histone
+#1641	AnnotatorNotes T1641	CHEBI:15358 (histone)
+T1642	GO_CC 46809 46817	antibody
+#1642	AnnotatorNotes T1642	GO:0019814 (immunoglobulin complex)
+T1643	GO_BP 46825 46832	Mitosis
+#1643	AnnotatorNotes T1643	GO:0007067 (mitosis)
+T1644	CL 46914 46919	cells
+#1644	AnnotatorNotes T1644	CL:0000000 (cell)
+T1645	GO_CC 46914 46919	cells
+#1645	AnnotatorNotes T1645	GO:0005623 (cell)
+T1646	GO_BP 46923 46930	mitosis
+#1646	AnnotatorNotes T1646	GO:0007067 (mitosis)
+T1647	NCBITaxon 46949 46955	rabbit
+#1647	AnnotatorNotes T1647	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1648	GO_CC 46966 46974	antibody
+#1648	AnnotatorNotes T1648	GO:0019814 (immunoglobulin complex)
+T1649	GO_CC 46998 47006	antibody
+#1649	AnnotatorNotes T1649	GO:0019814 (immunoglobulin complex)
+T1650	CL 47008 47012	Cell
+#1650	AnnotatorNotes T1650	CL:0000000 (cell)
+T1651	GO_CC 47008 47012	Cell
+#1651	AnnotatorNotes T1651	GO:0005623 (cell)
+T1652	GO_CC 47013 47019	nuclei
+#1652	AnnotatorNotes T1652	GO:0005634 (nucleus)
+T1653	GO_CC 47266 47283	nuclear fragments
+#1653	AnnotatorNotes T1653	GO:0044428 (nuclear part)
+T1654	GO_CC 47266 47273	nuclear
+#1654	AnnotatorNotes T1654	GO:0005634 (nucleus)
+T1655	GO_CC 47314 47320	nuclei
+#1655	AnnotatorNotes T1655	GO:0005634 (nucleus)
+T1656	SO 47405 47411	mutant
+#1656	AnnotatorNotes T1656	SO:0001059 (sequence_alteration)
+T1657	NCBITaxon 47412 47419	animals
+#1657	AnnotatorNotes T1657	NCBITaxon:33208 (Metazoa)
+T1658	CL 47443 47448	cells
+#1658	AnnotatorNotes T1658	CL:0000000 (cell)
+T1659	GO_CC 47443 47448	cells
+#1659	AnnotatorNotes T1659	GO:0005623 (cell)
+T1660	italic 47771 47775	R26R
+#1660	AnnotatorNotes T1660	italic (null)
+T1661	NCBITaxon 47849 47856	animals
+#1661	AnnotatorNotes T1661	NCBITaxon:33208 (Metazoa)
+T1662	CHEBI 48050 48057	sucrose
+#1662	AnnotatorNotes T1662	CHEBI:17992 (sucrose)
+T1663	CHEBI 48089 48096	sucrose
+#1663	AnnotatorNotes T1663	CHEBI:17992 (sucrose)
+T1664	NCBITaxon 48180 48187	animals
+#1664	AnnotatorNotes T1664	NCBITaxon:33208 (Metazoa)
+T1665	CHEBI 48288 48292	EDTA
+#1665	AnnotatorNotes T1665	CHEBI:30378 (ethylenediaminetetraacetate)
+T1666	CHEBI 48288 48292	EDTA
+#1666	AnnotatorNotes T1666	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T1667	CHEBI 48333 48340	sucrose
+#1667	AnnotatorNotes T1667	CHEBI:17992 (sucrose)
+T1668	NCBITaxon 48442 48446	mice
+#1668	AnnotatorNotes T1668	NCBITaxon:10088 (Mus)
+T1669	CHEBI 48825 48830	water
+#1669	AnnotatorNotes T1669	CHEBI:15377 (water)
+T1670	GO_CC 48853 48860	Nuclear
+#1670	AnnotatorNotes T1670	GO:0005634 (nucleus)
+T1671	CHEBI 48898 48903	water
+#1671	AnnotatorNotes T1671	CHEBI:15377 (water)
+T1672	SO 48999 49002	RNA
+#1672	AnnotatorNotes T1672	SO:0000356 (RNA)
+T1673	GO_MF 49011 49024	hybridization
+#1673	AnnotatorNotes T1673	GO:0000739 (DNA strand annealing activity)
+T1674	GO_MF 49011 49024	hybridization
+#1674	AnnotatorNotes T1674	GO:0033592 (RNA strand annealing activity)
+T1675	GO_BP 49130 49141	acetylation
+#1675	AnnotatorNotes T1675	GO:0006473 (protein amino acid acetylation)
+T1676	independent_continuant 49189 49199	proteinase
+#1676	AnnotatorNotes T1676	independent_continuant
+T1677	GO_MF 49189 49199	proteinase
+#1677	AnnotatorNotes T1677	GO:0008233 (peptidase activity)
+T1678	GO_BP 49258 49271	developmental
+#1678	AnnotatorNotes T1678	GO:0032502 (developmental process)
+T1679	SO 49475 49481	Probes
+#1679	AnnotatorNotes T1679	SO:0000051 (probe)
+T1680	SO 49500 49505	genes
+#1680	AnnotatorNotes T1680	SO:0000704 (gene)
+T1681	italic 49538 49544	Bmpr1a
+#1681	AnnotatorNotes T1681	italic (null)
+T1682	PR 49538 49544	Bmpr1a
+#1682	AnnotatorNotes T1682	PR:000000035 (BMP receptor type-1A)
+T1683	italic 49568 49574	Col2a1
+#1683	AnnotatorNotes T1683	italic (null)
+T1684	PR 49568 49574	Col2a1
+#1684	AnnotatorNotes T1684	PR:000003266 (collagen type II alpha chain)
+T1685	italic 49601 49608	Col10a1
+#1685	AnnotatorNotes T1685	italic (null)
+T1686	PR 49601 49608	Col10a1
+#1686	AnnotatorNotes T1686	PR:000005693 (collagen alpha-1(X) chain)
+T1687	italic 49629 49633	Gdf5
+#1687	AnnotatorNotes T1687	italic (null)
+T1688	PR 49629 49633	Gdf5
+#1688	AnnotatorNotes T1688	PR:000000281 (growth/differentiation factor 5)
+T1689	italic 49661 49672	Osteocalcin
+#1689	AnnotatorNotes T1689	italic (null)
+T1690	italic 49700 49704	Sox5
+#1690	AnnotatorNotes T1690	italic (null)
+T1691	PR 49700 49704	Sox5
+#1691	AnnotatorNotes T1691	PR:000015431 (transcription factor SOX-5)
+T1692	italic 49709 49713	Sox6
+#1692	AnnotatorNotes T1692	italic (null)
+T1693	PR 49709 49713	Sox6
+#1693	AnnotatorNotes T1693	PR:000015432 (transcription factor SOX-6)
+T1694	SO 49752 49757	probe
+#1694	AnnotatorNotes T1694	SO:0000051 (probe)
+T1695	italic 49780 49783	Agg
+#1695	AnnotatorNotes T1695	italic (null)
+T1696	PR 49780 49783	Agg
+#1696	AnnotatorNotes T1696	PR:000003606 (aggrecan core protein)
+T1697	italic 49822 49826	Bmp2
+#1697	AnnotatorNotes T1697	italic (null)
+T1698	PR 49822 49826	Bmp2
+#1698	AnnotatorNotes T1698	PR:000000164 (BMP2)
+T1699	italic 49831 49835	Bmp4
+#1699	AnnotatorNotes T1699	italic (null)
+T1700	PR 49831 49835	Bmp4
+#1700	AnnotatorNotes T1700	PR:000000165 (BMP4)
+T1701	italic 49871 49877	Col1a1
+#1701	AnnotatorNotes T1701	italic (null)
+T1702	PR 49871 49877	Col1a1
+#1702	AnnotatorNotes T1702	PR:000003264 (collagen alpha-1(I) chain)
+T1703	italic 49916 49931	Bmpr1b, Col3a1,
+#1703	AnnotatorNotes T1703	italic (null)
+T1704	EntrezGene 49916 49922	Bmpr1b
+#1704	AnnotatorNotes T1704	EG:12167
+T1705	PR 49916 49922	Bmpr1b
+#1705	AnnotatorNotes T1705	PR:000000036 (BMP receptor type-1B)
+T1706	EntrezGene 49924 49930	Col3a1
+#1706	AnnotatorNotes T1706	EG:12825
+T1707	PR 49924 49930	Col3a1
+#1707	AnnotatorNotes T1707	PR:000003328 (collagen alpha-1(III) chain)
+T1708	italic 49936 49940	Mat4
+#1708	AnnotatorNotes T1708	italic (null)
+T1709	PR 49936 49940	Mat4
+#1709	AnnotatorNotes T1709	PR:000010208 (matrilin-4)
+T1710	EntrezGene 49936 49940	Mat4
+#1710	AnnotatorNotes T1710	EG:17183
+T1711	SO 49941 49947	probes
+#1711	AnnotatorNotes T1711	SO:0000051 (probe)
+T1712	GO_BP 49953 49957	made
+#1712	AnnotatorNotes T1712	GO:0009058 (biosynthetic process)
+T1713	SO 49963 49967	ESTs
+#1713	AnnotatorNotes T1713	SO:0000345 (EST)
+T1714	SO 49979 49984	clone
+#1714	AnnotatorNotes T1714	SO:0000151 (clone)
+T1715	GO_BP 50148 50156	digested
+#1715	AnnotatorNotes T1715	GO:0009056 (catabolic process)
+T1716	NCBITaxon 50187 50193	bovine
+#1716	AnnotatorNotes T1716	NCBITaxon:27592 (Bovinae)
+T1717	CHEBI 50368 50385	hydrogen peroxide
+#1717	AnnotatorNotes T1717	CHEBI:16240 (hydrogen peroxide)
+T1718	CHEBI 50368 50376	hydrogen
+#1718	AnnotatorNotes T1718	CHEBI:49637 (hydrogen)
+T1719	CHEBI 50377 50385	peroxide
+#1719	AnnotatorNotes T1719	CHEBI:44785 (peroxide)
+T1720	CHEBI 50394 50402	methanol
+#1720	AnnotatorNotes T1720	CHEBI:17790 (methanol)
+T1721	NCBITaxon 50461 50465	goat
+#1721	AnnotatorNotes T1721	NCBITaxon:9925 (Capra hircus)
+T1722	NCBITaxon 50475 50481	bovine
+#1722	AnnotatorNotes T1722	NCBITaxon:27592 (Bovinae)
+T1723	GO_CC 50530 50540	antibodies
+#1723	AnnotatorNotes T1723	GO:0019814 (immunoglobulin complex)
+T1724	NCBITaxon 50570 50574	goat
+#1724	AnnotatorNotes T1724	NCBITaxon:9925 (Capra hircus)
+T1725	NCBITaxon 50584 50590	bovine
+#1725	AnnotatorNotes T1725	NCBITaxon:27592 (Bovinae)
+T1726	CHEBI 50616 50622	Biotin
+#1726	AnnotatorNotes T1726	CHEBI:15956 (biotin)
+T1727	CHEBI 50616 50622	Biotin
+#1727	AnnotatorNotes T1727	CHEBI:22885 (biotinyl group)
+T1728	GO_CC 50641 50651	antibodies
+#1728	AnnotatorNotes T1728	GO:0019814 (immunoglobulin complex)
+T1729	GO_CC 50790 50800	antibodies
+#1729	AnnotatorNotes T1729	GO:0019814 (immunoglobulin complex)
+T1730	NCBITaxon 50826 50830	goat
+#1730	AnnotatorNotes T1730	NCBITaxon:9925 (Capra hircus)
+T1731	EntrezGene 50836 50847	mouse MMP13
+#1731	AnnotatorNotes T1731	EG:17386
+T1732	NCBITaxon 50836 50841	mouse
+#1732	AnnotatorNotes T1732	NCBITaxon:10088 (Mus)
+T1733	PR 50842 50847	MMP13
+#1733	AnnotatorNotes T1733	PR:000010473 (collagenase 3)
+T1734	NCBITaxon 50918 50924	rabbit
+#1734	AnnotatorNotes T1734	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1735	EntrezGene 50930 50940	human SOX9
+#1735	AnnotatorNotes T1735	EG:6662
+T1736	NCBITaxon 50930 50935	human
+#1736	AnnotatorNotes T1736	NCBITaxon:9606 (Homo sapiens)
+T1737	PR 50936 50940	SOX9
+#1737	AnnotatorNotes T1737	PR:000015435 (transcription factor SOX-9)
+T1738	NCBITaxon 50979 50985	rabbit
+#1738	AnnotatorNotes T1738	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1739	GO_BP 50991 51005	phosphorylated
+#1739	AnnotatorNotes T1739	GO:0016310 (phosphorylation)
+T1740	PR 51006 51010	SOX9
+#1740	AnnotatorNotes T1740	PR:000015435 (transcription factor SOX-9)
+T1741	PR 51012 51016	SOX9
+#1741	AnnotatorNotes T1741	PR:000015435 (transcription factor SOX-9)
+T1742	SO 51166 51171	genes
+#1742	AnnotatorNotes T1742	SO:0000704 (gene)
+T1743	italic 51200 51204	Gdf5
+#1743	AnnotatorNotes T1743	italic (null)
+T1744	EntrezGene 51200 51204	Gdf5
+#1744	AnnotatorNotes T1744	EG:14563
+T1745	PR 51200 51204	Gdf5
+#1745	AnnotatorNotes T1745	PR:000000281 (growth/differentiation factor 5)
+T1746	italic 51220 51226	Bmpr1a
+#1746	AnnotatorNotes T1746	italic (null)
+T1747	PR 51220 51226	Bmpr1a
+#1747	AnnotatorNotes T1747	PR:000000035 (BMP receptor type-1A)
+T1748	EntrezGene 51220 51226	Bmpr1a
+#1748	AnnotatorNotes T1748	EG:12166
+T1749	italic 51288 51291	Cre
+#1749	AnnotatorNotes T1749	italic (null)
+T1750	SO 51292 51301	construct
+#1750	AnnotatorNotes T1750	SO:0001037 (mobile_genetic_element)
+T1751	SO 51303 51310	plasmid
+#1751	AnnotatorNotes T1751	SO:0000155 (plasmid)
+T1752	SO 51344 51348	IRES
+#1752	AnnotatorNotes T1752	SO:0000243 (internal_ribosome_entry_site)
+T1753	italic 51349 51354	hPLAP
+#1753	AnnotatorNotes T1753	italic (null)
+T1754	EntrezGene 51349 51354	hPLAP
+#1754	AnnotatorNotes T1754	EG:250
+T1755	SO 51355 51364	construct
+#1755	AnnotatorNotes T1755	SO:0001037 (mobile_genetic_element)
+T1756	SO 51366 51373	plasmid
+#1756	AnnotatorNotes T1756	SO:0000155 (plasmid)
+T1757	GO_CC 51423 51433	antibodies
+#1757	AnnotatorNotes T1757	GO:0019814 (immunoglobulin complex)
+T1758	NCBITaxon 51449 51460	individuals
+#1758	AnnotatorNotes T1758	NCBITaxon:1 (root)
+T1759	SO 51473 51478	probe
+#1759	AnnotatorNotes T1759	SO:0000051 (probe)
+T1760	italic 51519 51524	(Bmp2
+#1760	AnnotatorNotes T1760	italic (null)
+T1761	PR 51520 51524	Bmp2
+#1761	AnnotatorNotes T1761	PR:000000164 (BMP2)
+T1762	italic 51529 51535	Bmp4),
+#1762	AnnotatorNotes T1762	italic (null)
+T1763	PR 51529 51533	Bmp4
+#1763	AnnotatorNotes T1763	PR:000000165 (BMP4)
+T1764	italic 51548 51554	(Agg),
+#1764	AnnotatorNotes T1764	italic (null)
+T1765	italic 51571 51579	(Col1a1)
+#1765	AnnotatorNotes T1765	italic (null)
+T1766	PR 51572 51578	Col1a1
+#1766	AnnotatorNotes T1766	PR:000003264 (collagen alpha-1(I) chain)
+T1767	italic 51604 51608	Sox5
+#1767	AnnotatorNotes T1767	italic (null)
+T1768	PR 51604 51608	Sox5
+#1768	AnnotatorNotes T1768	PR:000015431 (transcription factor SOX-5)
+T1769	italic 51613 51617	Sox6
+#1769	AnnotatorNotes T1769	italic (null)
+T1770	PR 51613 51617	Sox6
+#1770	AnnotatorNotes T1770	PR:000015432 (transcription factor SOX-6)
+T1771	SO 51618 51623	probe
+#1771	AnnotatorNotes T1771	SO:0000051 (probe)
+T1772	NCBITaxon 51710 51714	mice
+#1772	AnnotatorNotes T1772	NCBITaxon:10088 (Mus)
+T1773	SO 52190 52193	BAC
+#1773	AnnotatorNotes T1773	SO:0000153 (BAC)
+T1774	SO 52196 52227	bacterial artificial chromosome
+#1774	AnnotatorNotes T1774	SO:0000153 (BAC)
+T1775	NCBITaxon 52196 52205	bacterial
+#1775	AnnotatorNotes T1775	NCBITaxon:2 (Bacteria)
+T1776	GO_CC 52217 52227	chromosome
+#1776	AnnotatorNotes T1776	GO:0005694 (chromosome)
+T1777	PR 52229 52235	Bmpr1a
+#1777	AnnotatorNotes T1777	PR:000000035 (BMP receptor type-1A)
+T1778	PR 52238 52276	bone morphogenetic protein receptor 1a
+#1778	AnnotatorNotes T1778	PR:000000035 (BMP receptor type-1A)
+T1779	PR 52238 52264	bone morphogenetic protein
+#1779	AnnotatorNotes T1779	PR:000000034 (BMP)
+T1780	GO_BP 52243 52256	morphogenetic
+#1780	AnnotatorNotes T1780	GO:0009653 (anatomical structure morphogenesis)
+T1781	CHEBI 52257 52264	protein
+#1781	AnnotatorNotes T1781	CHEBI:36080 (proteins)
+T1782	GO_MF 52265 52273	receptor
+#1782	AnnotatorNotes T1782	GO:0004872 (receptor activity)
+T1783	independent_continuant 52265 52273	receptor
+#1783	AnnotatorNotes T1783	independent_continuant
+T1784	GO_CC 52313 52316	ECM
+#1784	AnnotatorNotes T1784	GO:0031012 (extracellular matrix)
+T1785	GO_CC 52319 52339	extracellular matrix
+#1785	AnnotatorNotes T1785	GO:0031012 (extracellular matrix)
+T1786	GO_CC 52319 52332	extracellular
+#1786	AnnotatorNotes T1786	GO:0005576 (extracellular region)
+T1787	SO 52347 52357	transgenic
+#1787	AnnotatorNotes T1787	SO:0000902 (transgene)
+T1788	EntrezGene 52372 52376	Gdf5
+#1788	AnnotatorNotes T1788	EG:14563
+T1789	PR 52372 52376	Gdf5
+#1789	AnnotatorNotes T1789	PR:000000281 (growth/differentiation factor 5)
+T1790	independent_continuant 52377 52397	alkaline phosphatase
+#1790	AnnotatorNotes T1790	independent_continuant
+T1791	GO_MF 52377 52397	alkaline phosphatase
+#1791	AnnotatorNotes T1791	GO:0004035 (alkaline phosphatase activity)
+T1792	CHEBI 52377 52385	alkaline
+#1792	AnnotatorNotes T1792	CHEBI:36364 (alkaline earth salts)
+T1793	CHEBI 52377 52385	alkaline
+#1793	AnnotatorNotes T1793	CHEBI:35479 (alkali metal salts)
+T1794	SO 52402 52411	construct
+#1794	AnnotatorNotes T1794	SO:0001037 (mobile_genetic_element)
+T1795	PR 52413 52417	Gdf5
+#1795	AnnotatorNotes T1795	PR:000000281 (growth/differentiation factor 5)
+T1796	PR 52420 52451	growth differentiation factor 5
+#1796	AnnotatorNotes T1796	PR:000000281 (growth/differentiation factor 5)
+T1797	GO_BP 52420 52426	growth
+#1797	AnnotatorNotes T1797	GO:0040007 (growth)
+T1798	GO_BP 52427 52442	differentiation
+#1798	AnnotatorNotes T1798	GO:0030154 (cell differentiation)
+T1799	EntrezGene 52453 52458	hPLAP
+#1799	AnnotatorNotes T1799	EG:250
+T1800	EntrezGene 52461 52497	human placental alkaline phosphatase
+#1800	AnnotatorNotes T1800	EG:250
+T1801	NCBITaxon 52461 52466	human
+#1801	AnnotatorNotes T1801	NCBITaxon:9606 (Homo sapiens)
+T1802	PR 52467 52497	placental alkaline phosphatase
+#1802	AnnotatorNotes T1802	PR:000003969 (alkaline phosphatase, placental type)
+T1803	GO_MF 52477 52497	alkaline phosphatase
+#1803	AnnotatorNotes T1803	GO:0004035 (alkaline phosphatase activity)
+T1804	independent_continuant 52477 52497	alkaline phosphatase
+#1804	AnnotatorNotes T1804	independent_continuant
+T1805	CHEBI 52477 52485	alkaline
+#1805	AnnotatorNotes T1805	CHEBI:35479 (alkali metal salts)
+T1806	CHEBI 52477 52485	alkaline
+#1806	AnnotatorNotes T1806	CHEBI:36364 (alkaline earth salts)
+T1807	SO 52499 52503	IRES
+#1807	AnnotatorNotes T1807	SO:0000243 (internal_ribosome_entry_site)
+T1808	SO 52506 52534	internal ribosome entry site
+#1808	AnnotatorNotes T1808	SO:0000243 (internal_ribosome_entry_site)
+T1809	GO_CC 52515 52523	ribosome
+#1809	AnnotatorNotes T1809	GO:0005840 (ribosome)
+T1810	EntrezGene 52572 52578	ROSA26
+#1810	AnnotatorNotes T1810	EG:14910
+T1811	PR 52600 52605	TGF-β
+#1811	AnnotatorNotes T1811	PR:000000046 (TGF-beta)
+T1812	PR 52608 52636	transforming growth factor β
+#1812	AnnotatorNotes T1812	PR:000000046 (TGF-beta)
+T1813	GO_MF 52621 52634	growth factor
+#1813	AnnotatorNotes T1813	GO:0008083 (growth factor activity)
+T1814	independent_continuant 52621 52634	growth factor
+#1814	AnnotatorNotes T1814	independent_continuant
+T1815	GO_BP 52621 52627	growth
+#1815	AnnotatorNotes T1815	GO:0040007 (growth)
+T1816	independent_continuant 52646 52683	terminal deoxynucleotidyl transferase
+#1816	AnnotatorNotes T1816	independent_continuant
+T1817	GO_MF 52646 52683	terminal deoxynucleotidyl transferase
+#1817	AnnotatorNotes T1817	GO:0003912 (DNA nucleotidylexotransferase activity)
+T1818	PR 52646 52683	terminal deoxynucleotidyl transferase
+#1818	AnnotatorNotes T1818	PR:000006611 (DNA nucleotidylexotransferase)
+T1819	CHEBI 52655 52671	deoxynucleotidyl
+#1819	AnnotatorNotes T1819	CHEBI:19260 (2'-deoxyribonucleotides)
+T1820	CHEBI 52693 52718	deoxyuridine triphosphate
+#1820	AnnotatorNotes T1820	CHEBI:17625 (dUTP)
+T1821	CHEBI 52693 52705	deoxyuridine
+#1821	AnnotatorNotes T1821	CHEBI:16450 (2'-deoxyuridine)
+T1822	SO 52770 52777	Genetic
+#1822	AnnotatorNotes T1822	SO:0000704 (gene)
+T1823	GO_BP 52788 52793	Drive
+#1823	AnnotatorNotes T1823	GO:0048518 (positive regulation of biological process)
+T1824	SO 52794 52798	Gene
+#1824	AnnotatorNotes T1824	SO:0000704 (gene)
+T1825	GO_BP 52799 52812	Recombination
+#1825	AnnotatorNotes T1825	GO:0006310 (DNA recombination)
+T1826	GO_BP 52816 52826	Developing
+#1826	AnnotatorNotes T1826	GO:0032502 (developmental process)
+T1827	SO 52848 52851	BAC
+#1827	AnnotatorNotes T1827	SO:0000153 (BAC)
+T1828	italic 52861 52865	Gdf5
+#1828	AnnotatorNotes T1828	italic (null)
+T1829	PR 52861 52865	Gdf5
+#1829	AnnotatorNotes T1829	PR:000000281 (growth/differentiation factor 5)
+T1830	EntrezGene 52861 52865	Gdf5
+#1830	AnnotatorNotes T1830	EG:14563
+T1831	SO 52866 52871	locus
+#1831	AnnotatorNotes T1831	SO:0000001 (region)
+T1832	SO 52876 52884	modified
+#1832	AnnotatorNotes T1832	SO:0000041 (sequence_operation)
+T1833	SO 52888 52897	inserting
+#1833	AnnotatorNotes T1833	SO:0000046 (insert)
+T1834	italic 52898 52901	Cre
+#1834	AnnotatorNotes T1834	italic (null)
+T1835	SO 52902 52906	IRES
+#1835	AnnotatorNotes T1835	SO:0000243 (internal_ribosome_entry_site)
+T1836	italic 52907 52912	hPLAP
+#1836	AnnotatorNotes T1836	italic (null)
+T1837	EntrezGene 52907 52912	hPLAP
+#1837	AnnotatorNotes T1837	EG:250
+T1838	SO 52922 52944	translation start site
+#1838	AnnotatorNotes T1838	SO:0000318 (start_codon)
+T1839	GO_BP 52922 52939	translation start
+#1839	AnnotatorNotes T1839	GO:0006413 (translational initiation)
+T1840	GO_BP 52922 52933	translation
+#1840	AnnotatorNotes T1840	GO:0006412 (translation)
+T1841	italic 52948 52952	Gdf5
+#1841	AnnotatorNotes T1841	italic (null)
+T1842	PR 52948 52952	Gdf5
+#1842	AnnotatorNotes T1842	PR:000000281 (growth/differentiation factor 5)
+T1843	EntrezGene 52948 52952	Gdf5
+#1843	AnnotatorNotes T1843	EG:14563
+T1844	GO_BP 52965 52969	make
+#1844	AnnotatorNotes T1844	GO:0000003 (reproduction)
+T1845	SO 52970 52980	transgenic
+#1845	AnnotatorNotes T1845	SO:0000902 (transgene)
+T1846	NCBITaxon 52981 52985	mice
+#1846	AnnotatorNotes T1846	NCBITaxon:10088 (Mus)
+T1847	italic 53064 53072	Gdf5-Cre
+#1847	AnnotatorNotes T1847	italic (null)
+T1848	EntrezGene 53064 53068	Gdf5
+#1848	AnnotatorNotes T1848	EG:14563
+T1849	PR 53064 53068	Gdf5
+#1849	AnnotatorNotes T1849	PR:000000281 (growth/differentiation factor 5)
+T1850	GO_BP 53073 53079	driven
+#1850	AnnotatorNotes T1850	GO:0048518 (positive regulation of biological process)
+T1851	GO_BP 53080 53093	recombination
+#1851	AnnotatorNotes T1851	GO:0006310 (DNA recombination)
+T1852	italic 53126 53130	lacZ
+#1852	AnnotatorNotes T1852	italic (null)
+T1853	GO_BP 53131 53141	expression
+#1853	AnnotatorNotes T1853	GO:0010467 (gene expression)
+T1854	italic 53151 53155	R26R
+#1854	AnnotatorNotes T1854	italic (null)
+T1855	SO 53169 53175	allele
+#1855	AnnotatorNotes T1855	SO:0001023 (allele)
+T1856	NCBITaxon 53379 53384	mouse
+#1856	AnnotatorNotes T1856	NCBITaxon:10088 (Mus)
+T1857	EntrezGene 53440 53445	HPLAP
+#1857	AnnotatorNotes T1857	EG:250
+T1858	GO_BP 53446 53456	expression
+#1858	AnnotatorNotes T1858	GO:0010467 (gene expression)
+T1859	SO 53466 53475	transgene
+#1859	AnnotatorNotes T1859	SO:0000902 (transgene)
+T1860	GO_BP 53508 53518	expression
+#1860	AnnotatorNotes T1860	GO:0010467 (gene expression)
+T1861	GO_BP 53528 53538	rearranged
+#1861	AnnotatorNotes T1861	GO:0006310 (DNA recombination)
+T1862	italic 53539 53543	R26R
+#1862	AnnotatorNotes T1862	italic (null)
+T1863	SO 53544 53550	allele
+#1863	AnnotatorNotes T1863	SO:0001023 (allele)
+T1864	EntrezGene 53673 53678	HPLAP
+#1864	AnnotatorNotes T1864	EG:250
+T1865	GO_BP 53720 53726	formed
+#1865	AnnotatorNotes T1865	GO:0032502 (developmental process)
+T1866	EntrezGene 53783 53788	HPLAP
+#1866	AnnotatorNotes T1866	EG:250
+T1867	GO_BP 53798 53808	expression
+#1867	AnnotatorNotes T1867	GO:0010467 (gene expression)
+T1868	GO_BP 53963 53972	expressed
+#1868	AnnotatorNotes T1868	GO:0010467 (gene expression)
+T1869	GO_BP 54208 54218	expression
+#1869	AnnotatorNotes T1869	GO:0010467 (gene expression)
+T1870	GO_BP 54251 54261	developing
+#1870	AnnotatorNotes T1870	GO:0032502 (developmental process)
+T1871	CL 54375 54380	cells
+#1871	AnnotatorNotes T1871	CL:0000000 (cell)
+T1872	GO_CC 54375 54380	cells
+#1872	AnnotatorNotes T1872	GO:0005623 (cell)
+T1873	italic 54434 54440	Bmpr1a
+#1873	AnnotatorNotes T1873	italic (null)
+T1874	PR 54434 54440	Bmpr1a
+#1874	AnnotatorNotes T1874	PR:000000035 (BMP receptor type-1A)
+T1875	EntrezGene 54434 54440	Bmpr1a
+#1875	AnnotatorNotes T1875	EG:12166
+T1876	GO_BP 54465 54475	Regression
+#1876	AnnotatorNotes T1876	GO:0060033 (anatomical structure regression)
+T1877	GO_BP 54480 54489	Apoptosis
+#1877	AnnotatorNotes T1877	GO:0006915 (apoptosis)
+T1878	SO 54581 54587	mutant
+#1878	AnnotatorNotes T1878	SO:0001059 (sequence_alteration)
+T1879	italic 54713 54721	Gdf5-Cre
+#1879	AnnotatorNotes T1879	italic (null)
+T1880	EntrezGene 54713 54717	Gdf5
+#1880	AnnotatorNotes T1880	EG:14563
+T1881	PR 54713 54717	Gdf5
+#1881	AnnotatorNotes T1881	PR:000000281 (growth/differentiation factor 5)
+T1882	italic 54730 54734	lacZ
+#1882	AnnotatorNotes T1882	italic (null)
+T1883	GO_BP 54735 54745	expression
+#1883	AnnotatorNotes T1883	GO:0010467 (gene expression)
+T1884	italic 54751 54755	R26R
+#1884	AnnotatorNotes T1884	italic (null)
+T1885	GO_BP 54968 54977	apoptosis
+#1885	AnnotatorNotes T1885	GO:0006915 (apoptosis)
+T1886	GO_BP 55019 55032	proliferation
+#1886	AnnotatorNotes T1886	GO:0008283 (cell proliferation)
+T1887	GO_BP 55060 55086	histone H3 phosphorylation
+#1887	AnnotatorNotes T1887	"histone .. phosphorylation" GO:0016572 (histone phosphorylation)
+T1888	CHEBI 55060 55067	histone
+#1888	AnnotatorNotes T1888	CHEBI:15358 (histone)
+T1889	SO 55183 55190	mutants
+#1889	AnnotatorNotes T1889	SO:0001059 (sequence_alteration)
+T1890	independent_continuant 55183 55190	mutants
+#1890	AnnotatorNotes T1890	independent_continuant
+T1891	GO_BP 55236 55243	mitotic
+#1891	AnnotatorNotes T1891	GO:0007067 (mitosis)
+T1892	CL 55244 55249	cells
+#1892	AnnotatorNotes T1892	CL:0000000 (cell)
+T1893	GO_CC 55244 55249	cells
+#1893	AnnotatorNotes T1893	GO:0005623 (cell)
+T1894	GO_BP 55334 55341	mitotic
+#1894	AnnotatorNotes T1894	GO:0007067 (mitosis)
+T1895	CL 55342 55347	cells
+#1895	AnnotatorNotes T1895	CL:0000000 (cell)
+T1896	GO_CC 55342 55347	cells
+#1896	AnnotatorNotes T1896	GO:0005623 (cell)
+T1897	GO_BP 55397 55406	apoptosis
+#1897	AnnotatorNotes T1897	GO:0006915 (apoptosis)
+T1898	GO_BP 55428 55441	proliferation
+#1898	AnnotatorNotes T1898	GO:0008283 (cell proliferation)
+T1899	GO_BP 55563 55572	regressed
+#1899	AnnotatorNotes T1899	GO:0060033 (anatomical structure regression)
+T1900	SO 55632 55639	mutants
+#1900	AnnotatorNotes T1900	SO:0001059 (sequence_alteration)
+T1901	independent_continuant 55632 55639	mutants
+#1901	AnnotatorNotes T1901	independent_continuant
+T1902	CL 55681 55686	cells
+#1902	AnnotatorNotes T1902	CL:0000000 (cell)
+T1903	GO_CC 55681 55686	cells
+#1903	AnnotatorNotes T1903	GO:0005623 (cell)
+T1904	italic 55707 55715	Gdf5-Cre
+#1904	AnnotatorNotes T1904	italic (null)
+T1905	EntrezGene 55707 55711	Gdf5
+#1905	AnnotatorNotes T1905	EG:14563
+T1906	PR 55707 55711	Gdf5
+#1906	AnnotatorNotes T1906	PR:000000281 (growth/differentiation factor 5)
+T1907	GO_BP 55725 55738	recombination
+#1907	AnnotatorNotes T1907	GO:0006310 (DNA recombination)
+T1908	italic 55756 55762	Bmpr1a
+#1908	AnnotatorNotes T1908	italic (null)
+T1909	EntrezGene 55756 55762	Bmpr1a
+#1909	AnnotatorNotes T1909	EG:12166
+T1910	PR 55756 55762	Bmpr1a
+#1910	AnnotatorNotes T1910	PR:000000035 (BMP receptor type-1A)
+T1911	GO_BP 55786 55796	expression
+#1911	AnnotatorNotes T1911	GO:0010467 (gene expression)
+T1912	italic 55840 55848	Gdf5-Cre
+#1912	AnnotatorNotes T1912	italic (null)
+T1913	EntrezGene 55840 55844	Gdf5
+#1913	AnnotatorNotes T1913	EG:14563
+T1914	PR 55840 55844	Gdf5
+#1914	AnnotatorNotes T1914	PR:000000281 (growth/differentiation factor 5)
+T1915	SO 55858 55866	Deletion
+#1915	AnnotatorNotes T1915	SO:0000045 (delete)
+T1916	italic 55870 55876	Bmpr1a
+#1916	AnnotatorNotes T1916	italic (null)
+T1917	EntrezGene 55870 55876	Bmpr1a
+#1917	AnnotatorNotes T1917	EG:12166
+T1918	PR 55870 55876	Bmpr1a
+#1918	AnnotatorNotes T1918	PR:000000035 (BMP receptor type-1A)
+T1919	GO_BP 55882 55890	Breeding
+#1919	AnnotatorNotes T1919	GO:0007618 (mating)
+T1920	SO 55915 55922	deletes
+#1920	AnnotatorNotes T1920	SO:0000045 (delete)
+T1921	italic 55923 55934	Bmpr1afloxP
+#1921	AnnotatorNotes T1921	italic (null)
+T1922	sup 55929 55934	floxP
+#1922	AnnotatorNotes T1922	sup (null)
+T1923	italic 55963 55971	Gdf5-Cre
+#1923	AnnotatorNotes T1923	italic (null)
+T1924	EntrezGene 55963 55967	Gdf5
+#1924	AnnotatorNotes T1924	EG:14563
+T1925	PR 55963 55967	Gdf5
+#1925	AnnotatorNotes T1925	PR:000000281 (growth/differentiation factor 5)
+T1926	GO_BP 55981 55994	recombination
+#1926	AnnotatorNotes T1926	GO:0006310 (DNA recombination)
+T1927	italic 55998 56002	lacZ
+#1927	AnnotatorNotes T1927	italic (null)
+T1928	GO_BP 56003 56013	expression
+#1928	AnnotatorNotes T1928	GO:0010467 (gene expression)
+T1929	italic 56019 56023	R26R
+#1929	AnnotatorNotes T1929	italic (null)
+T1930	SO 56043 56049	mutant
+#1930	AnnotatorNotes T1930	SO:0001059 (sequence_alteration)
+T1931	NCBITaxon 56062 56066	mice
+#1931	AnnotatorNotes T1931	NCBITaxon:10088 (Mus)
+T1932	CHEBI 56114 56126	alizarin red
+#1932	AnnotatorNotes T1932	CHEBI:16866 (alizarin)
+T1933	SO 56233 56239	mutant
+#1933	AnnotatorNotes T1933	SO:0001059 (sequence_alteration)
+T1934	independent_continuant 56233 56239	mutant
+#1934	AnnotatorNotes T1934	independent_continuant
+T1935	SO 56400 56406	mutant
+#1935	AnnotatorNotes T1935	SO:0001059 (sequence_alteration)
+T1936	GO_BP 56523 56529	growth
+#1936	AnnotatorNotes T1936	GO:0040007 (growth)
+T1937	SO 56577 56583	Mutant
+#1937	AnnotatorNotes T1937	SO:0001059 (sequence_alteration)
+T1938	italic 56671 56677	Bmpr1a
+#1938	AnnotatorNotes T1938	italic (null)
+T1939	EntrezGene 56671 56677	Bmpr1a
+#1939	AnnotatorNotes T1939	EG:12166
+T1940	PR 56671 56677	Bmpr1a
+#1940	AnnotatorNotes T1940	PR:000000035 (BMP receptor type-1A)
+T1941	GO_BP 56681 56690	Expressed
+#1941	AnnotatorNotes T1941	GO:0010467 (gene expression)
+T1942	GO_BP 56737 56746	Formation
+#1942	AnnotatorNotes T1942	GO:0032502 (developmental process)
+T1943	SO 56802 56811	wild-type
+#1943	AnnotatorNotes T1943	SO:0000817 (wild_type)
+T1944	NCBITaxon 56812 56817	mouse
+#1944	AnnotatorNotes T1944	NCBITaxon:10088 (Mus)
+T1945	SO 56835 56841	mutant
+#1945	AnnotatorNotes T1945	SO:0001059 (sequence_alteration)
+T1946	independent_continuant 56835 56841	mutant
+#1946	AnnotatorNotes T1946	independent_continuant
+T1947	GO_MF 57006 57019	hybridization
+#1947	AnnotatorNotes T1947	GO:0000739 (DNA strand annealing activity)
+T1948	GO_MF 57006 57019	hybridization
+#1948	AnnotatorNotes T1948	GO:0033592 (RNA strand annealing activity)
+T1949	italic 57042 57048	Bmpr1a
+#1949	AnnotatorNotes T1949	italic (null)
+T1950	EntrezGene 57042 57048	Bmpr1a
+#1950	AnnotatorNotes T1950	EG:12166
+T1951	PR 57042 57048	Bmpr1a
+#1951	AnnotatorNotes T1951	PR:000000035 (BMP receptor type-1A)
+T1952	GO_BP 57052 57061	expressed
+#1952	AnnotatorNotes T1952	GO:0010467 (gene expression)
+T1953	GO_BP 57115 57122	forming
+#1953	AnnotatorNotes T1953	GO:0032502 (developmental process)
+T1954	italic 57225 57233	Gdf5-Cre
+#1954	AnnotatorNotes T1954	italic (null)
+T1955	EntrezGene 57225 57229	Gdf5
+#1955	AnnotatorNotes T1955	EG:14563
+T1956	PR 57225 57229	Gdf5
+#1956	AnnotatorNotes T1956	PR:000000281 (growth/differentiation factor 5)
+T1957	GO_BP 57247 57257	expression
+#1957	AnnotatorNotes T1957	GO:0010467 (gene expression)
+T1958	italic 57263 57267	R26R
+#1958	AnnotatorNotes T1958	italic (null)
+T1959	GO_BP 57275 57282	forming
+#1959	AnnotatorNotes T1959	GO:0032502 (developmental process)
+T1960	GO_BP 57332 57347	gene expression
+#1960	AnnotatorNotes T1960	GO:0010467 (gene expression)
+T1961	SO 57332 57336	gene
+#1961	AnnotatorNotes T1961	SO:0000704 (gene)
+T1962	italic 57352 57356	R26R
+#1962	AnnotatorNotes T1962	italic (null)
+T1963	SO 57421 57427	mutant
+#1963	AnnotatorNotes T1963	SO:0001059 (sequence_alteration)
+T1964	NCBITaxon 57448 57452	mice
+#1964	AnnotatorNotes T1964	NCBITaxon:10088 (Mus)
+T1965	GO_BP 57519 57533	down-regulated
+#1965	AnnotatorNotes T1965	GO:0048519 (negative regulation of biological process)
+T1966	italic 57534 57538	Col2
+#1966	AnnotatorNotes T1966	italic (null)
+T1967	EntrezGene 57534 57538	Col2
+#1967	AnnotatorNotes T1967	EG:12824
+T1968	PR 57534 57538	Col2
+#1968	AnnotatorNotes T1968	PR:000003266 (collagen type II alpha chain)
+T1969	GO_BP 57544 57551	express
+#1969	AnnotatorNotes T1969	GO:0010467 (gene expression)
+T1970	italic 57552 57556	Gdf5
+#1970	AnnotatorNotes T1970	italic (null)
+T1971	PR 57552 57556	Gdf5
+#1971	AnnotatorNotes T1971	PR:000000281 (growth/differentiation factor 5)
+T1972	EntrezGene 57552 57556	Gdf5
+#1972	AnnotatorNotes T1972	EG:14563
+T1973	GO_BP 57577 57584	express
+#1973	AnnotatorNotes T1973	GO:0010467 (gene expression)
+T1974	CL 57598 57603	cells
+#1974	AnnotatorNotes T1974	CL:0000000 (cell)
+T1975	GO_CC 57598 57603	cells
+#1975	AnnotatorNotes T1975	GO:0005623 (cell)
+T1976	SO 57647 57653	mutant
+#1976	AnnotatorNotes T1976	SO:0001059 (sequence_alteration)
+T1977	GO_BP 57687 57696	formation
+#1977	AnnotatorNotes T1977	GO:0032502 (developmental process)
+T1978	italic 57718 57722	Col2
+#1978	AnnotatorNotes T1978	italic (null)
+T1979	EntrezGene 57718 57722	Col2
+#1979	AnnotatorNotes T1979	EG:12824
+T1980	PR 57718 57722	Col2
+#1980	AnnotatorNotes T1980	PR:000003266 (collagen type II alpha chain)
+T1981	GO_BP 57723 57733	expression
+#1981	AnnotatorNotes T1981	GO:0010467 (gene expression)
+T1982	italic 57830 57834	Gdf5
+#1982	AnnotatorNotes T1982	italic (null)
+T1983	EntrezGene 57830 57834	Gdf5
+#1983	AnnotatorNotes T1983	EG:14563
+T1984	PR 57830 57834	Gdf5
+#1984	AnnotatorNotes T1984	PR:000000281 (growth/differentiation factor 5)
+T1985	GO_BP 57835 57845	expression
+#1985	AnnotatorNotes T1985	GO:0010467 (gene expression)
+T1986	SO 57955 57962	mutants
+#1986	AnnotatorNotes T1986	SO:0001059 (sequence_alteration)
+T1987	independent_continuant 57955 57962	mutants
+#1987	AnnotatorNotes T1987	independent_continuant
+T1988	GO_BP 57963 57970	express
+#1988	AnnotatorNotes T1988	GO:0010467 (gene expression)
+T1989	italic 57971 57975	Col2
+#1989	AnnotatorNotes T1989	italic (null)
+T1990	EntrezGene 57971 57975	Col2
+#1990	AnnotatorNotes T1990	EG:12824
+T1991	PR 57971 57975	Col2
+#1991	AnnotatorNotes T1991	PR:000003266 (collagen type II alpha chain)
+T1992	GO_BP 58000 58007	forming
+#1992	AnnotatorNotes T1992	GO:0032502 (developmental process)
+T1993	GO_BP 58041 58051	expression
+#1993	AnnotatorNotes T1993	GO:0010467 (gene expression)
+T1994	italic 58055 58059	Gdf5
+#1994	AnnotatorNotes T1994	italic (null)
+T1995	EntrezGene 58055 58059	Gdf5
+#1995	AnnotatorNotes T1995	EG:14563
+T1996	PR 58055 58059	Gdf5
+#1996	AnnotatorNotes T1996	PR:000000281 (growth/differentiation factor 5)
+T1997	italic 58170 58176	Bmpr1a
+#1997	AnnotatorNotes T1997	italic (null)
+T1998	PR 58170 58176	Bmpr1a
+#1998	AnnotatorNotes T1998	PR:000000035 (BMP receptor type-1A)
+T1999	EntrezGene 58170 58176	Bmpr1a
+#1999	AnnotatorNotes T1999	EG:12166
+T2000	GO_BP 58201 58211	Expression
+#2000	AnnotatorNotes T2000	GO:0010467 (gene expression)
+T2001	GO_CC 58215 58229	ECM Components
+#2001	AnnotatorNotes T2001	GO:0044420 (extracellular matrix part)
+T2002	GO_CC 58215 58218	ECM
+#2002	AnnotatorNotes T2002	GO:0031012 (extracellular matrix)
+T2003	GO_MF 58262 58275	hybridization
+#2003	AnnotatorNotes T2003	GO:0000739 (DNA strand annealing activity)
+T2004	GO_MF 58262 58275	hybridization
+#2004	AnnotatorNotes T2004	GO:0033592 (RNA strand annealing activity)
+T2005	NCBITaxon 58422 58426	mice
+#2005	AnnotatorNotes T2005	NCBITaxon:10088 (Mus)
+T2006	GO_BP 58431 58436	birth
+#2006	AnnotatorNotes T2006	GO:0007567 (parturition)
+T2007	SO 58480 58487	mutants
+#2007	AnnotatorNotes T2007	SO:0001059 (sequence_alteration)
+T2008	independent_continuant 58480 58487	mutants
+#2008	AnnotatorNotes T2008	independent_continuant
+T2009	italic 58548 58552	Col2
+#2009	AnnotatorNotes T2009	italic (null)
+T2010	EntrezGene 58548 58552	Col2
+#2010	AnnotatorNotes T2010	EG:12824
+T2011	PR 58548 58552	Col2
+#2011	AnnotatorNotes T2011	PR:000003266 (collagen type II alpha chain)
+T2012	GO_BP 58553 58563	expression
+#2012	AnnotatorNotes T2012	GO:0010467 (gene expression)
+T2013	italic 58572 58576	Mat4
+#2013	AnnotatorNotes T2013	italic (null)
+T2014	PR 58572 58576	Mat4
+#2014	AnnotatorNotes T2014	PR:000010208 (matrilin-4)
+T2015	EntrezGene 58572 58576	Mat4
+#2015	AnnotatorNotes T2015	EG:17183
+T2016	GO_BP 58577 58587	expression
+#2016	AnnotatorNotes T2016	GO:0010467 (gene expression)
+T2017	GO_BP 58635 58644	specified
+#2017	AnnotatorNotes T2017	GO:0007389 (pattern specification process)
+T2018	SO 58648 58655	mutants
+#2018	AnnotatorNotes T2018	SO:0001059 (sequence_alteration)
+T2019	independent_continuant 58648 58655	mutants
+#2019	AnnotatorNotes T2019	independent_continuant
+T2020	GO_BP 58681 58691	expression
+#2020	AnnotatorNotes T2020	GO:0010467 (gene expression)
+T2021	GO_BP 58714 58727	recombination
+#2021	AnnotatorNotes T2021	GO:0006310 (DNA recombination)
+T2022	NCBITaxon 58854 58858	mice
+#2022	AnnotatorNotes T2022	NCBITaxon:10088 (Mus)
+T2023	GO_BP 58876 58881	birth
+#2023	AnnotatorNotes T2023	GO:0007567 (parturition)
+T2024	GO_BP 58977 58986	expresses
+#2024	AnnotatorNotes T2024	GO:0010467 (gene expression)
+T2025	italic 58987 58991	Col2
+#2025	AnnotatorNotes T2025	italic (null)
+T2026	EntrezGene 58987 58991	Col2
+#2026	AnnotatorNotes T2026	EG:12824
+T2027	PR 58987 58991	Col2
+#2027	AnnotatorNotes T2027	PR:000003266 (collagen type II alpha chain)
+T2028	italic 58997 59000	Agg
+#2028	AnnotatorNotes T2028	italic (null)
+T2029	PR 58997 59000	Agg
+#2029	AnnotatorNotes T2029	PR:000003606 (aggrecan core protein)
+T2030	EntrezGene 58997 59000	Agg
+#2030	AnnotatorNotes T2030	EG:11595
+T2031	EntrezGene 59010 59014	SOX9
+#2031	AnnotatorNotes T2031	EG:20682
+T2032	PR 59010 59014	SOX9
+#2032	AnnotatorNotes T2032	PR:000015435 (transcription factor SOX-9)
+T2033	SO 59033 59039	mutant
+#2033	AnnotatorNotes T2033	SO:0001059 (sequence_alteration)
+T2034	CL 59050 59055	cells
+#2034	AnnotatorNotes T2034	CL:0000000 (cell)
+T2035	GO_CC 59050 59055	cells
+#2035	AnnotatorNotes T2035	GO:0005623 (cell)
+T2036	GO_BP 59149 59159	expression
+#2036	AnnotatorNotes T2036	GO:0010467 (gene expression)
+T2037	italic 59163 59167	Col2
+#2037	AnnotatorNotes T2037	italic (null)
+T2038	EntrezGene 59163 59167	Col2
+#2038	AnnotatorNotes T2038	EG:12824
+T2039	PR 59163 59167	Col2
+#2039	AnnotatorNotes T2039	PR:000003266 (collagen type II alpha chain)
+T2040	italic 59176 59179	Agg
+#2040	AnnotatorNotes T2040	italic (null)
+T2041	EntrezGene 59176 59179	Agg
+#2041	AnnotatorNotes T2041	EG:11595
+T2042	PR 59176 59179	Agg
+#2042	AnnotatorNotes T2042	PR:000003606 (aggrecan core protein)
+T2043	EntrezGene 59213 59217	SOX9
+#2043	AnnotatorNotes T2043	EG:20682
+T2044	PR 59213 59217	SOX9
+#2044	AnnotatorNotes T2044	PR:000015435 (transcription factor SOX-9)
+T2045	CHEBI 59218 59225	protein
+#2045	AnnotatorNotes T2045	CHEBI:36080 (proteins)
+T2046	GO_BP 59299 59309	expression
+#2046	AnnotatorNotes T2046	GO:0010467 (gene expression)
+T2047	GO_BP 59332 59345	recombination
+#2047	AnnotatorNotes T2047	GO:0006310 (DNA recombination)
+T2048	CL 59372 59377	cells
+#2048	AnnotatorNotes T2048	CL:0000000 (cell)
+T2049	GO_CC 59372 59377	cells
+#2049	AnnotatorNotes T2049	GO:0005623 (cell)
+T2050	GO_BP 59458 59467	Expansion
+#2050	AnnotatorNotes T2050	GO:0008283 (cell proliferation)
+T2051	GO_BP 59512 59522	Maturation
+#2051	AnnotatorNotes T2051	GO:0021700 (developmental maturation)
+T2052	italic 59560 59566	Bmpr1a
+#2052	AnnotatorNotes T2052	italic (null)
+T2053	EntrezGene 59560 59566	Bmpr1a
+#2053	AnnotatorNotes T2053	EG:12166
+T2054	PR 59560 59566	Bmpr1a
+#2054	AnnotatorNotes T2054	PR:000000035 (BMP receptor type-1A)
+T2055	SO 59567 59573	Mutant
+#2055	AnnotatorNotes T2055	SO:0001059 (sequence_alteration)
+T2056	NCBITaxon 59574 59578	Mice
+#2056	AnnotatorNotes T2056	NCBITaxon:10088 (Mus)
+T2057	NCBITaxon 59652 59656	mice
+#2057	AnnotatorNotes T2057	NCBITaxon:10088 (Mus)
+T2058	GO_BP 59708 59721	recombination
+#2058	AnnotatorNotes T2058	GO:0006310 (DNA recombination)
+T2059	CL 59774 59788	synovial cells
+#2059	AnnotatorNotes T2059	CL:0000214 (synovial cell)
+T2060	GO_CC 59783 59788	cells
+#2060	AnnotatorNotes T2060	GO:0005623 (cell)
+T2061	SO 59822 59829	mutants
+#2061	AnnotatorNotes T2061	SO:0001059 (sequence_alteration)
+T2062	independent_continuant 59822 59829	mutants
+#2062	AnnotatorNotes T2062	independent_continuant
+T2063	GO_MF 59849 59862	hybridization
+#2063	AnnotatorNotes T2063	GO:0000739 (DNA strand annealing activity)
+T2064	GO_MF 59849 59862	hybridization
+#2064	AnnotatorNotes T2064	GO:0033592 (RNA strand annealing activity)
+T2065	italic 59869 59874	Col10
+#2065	AnnotatorNotes T2065	italic (null)
+T2066	EntrezGene 59869 59874	Col10
+#2066	AnnotatorNotes T2066	EG:12813
+T2067	PR 59869 59874	Col10
+#2067	AnnotatorNotes T2067	PR:000005693 (collagen alpha-1(X) chain)
+T2068	GO_BP 59875 59885	expression
+#2068	AnnotatorNotes T2068	GO:0010467 (gene expression)
+T2069	SO 59897 59904	mutants
+#2069	AnnotatorNotes T2069	SO:0001059 (sequence_alteration)
+T2070	independent_continuant 59897 59904	mutants
+#2070	AnnotatorNotes T2070	independent_continuant
+T2071	GO_BP 59941 59950	expansion
+#2071	AnnotatorNotes T2071	GO:0008283 (cell proliferation)
+T2072	CL 60018 60022	cell
+#2072	AnnotatorNotes T2072	CL:0000000 (cell)
+T2073	GO_CC 60018 60022	cell
+#2073	AnnotatorNotes T2073	GO:0005623 (cell)
+T2074	GO_BP 60076 60086	expressing
+#2074	AnnotatorNotes T2074	GO:0010467 (gene expression)
+T2075	CL 60087 60092	cells
+#2075	AnnotatorNotes T2075	CL:0000000 (cell)
+T2076	GO_CC 60087 60092	cells
+#2076	AnnotatorNotes T2076	GO:0005623 (cell)
+T2077	GO_BP 60130 60142	upregulation
+#2077	AnnotatorNotes T2077	GO:0048518 (positive regulation of biological process)
+T2078	italic 60146 60151	Col10
+#2078	AnnotatorNotes T2078	italic (null)
+T2079	PR 60146 60151	Col10
+#2079	AnnotatorNotes T2079	PR:000005693 (collagen alpha-1(X) chain)
+T2080	EntrezGene 60146 60151	Col10
+#2080	AnnotatorNotes T2080	EG:12813
+T2081	italic 60192 60197	Col10
+#2081	AnnotatorNotes T2081	italic (null)
+T2082	EntrezGene 60192 60197	Col10
+#2082	AnnotatorNotes T2082	EG:12813
+T2083	PR 60192 60197	Col10
+#2083	AnnotatorNotes T2083	PR:000005693 (collagen alpha-1(X) chain)
+T2084	GO_BP 60198 60208	expression
+#2084	AnnotatorNotes T2084	GO:0010467 (gene expression)
+T2085	CL 60231 60236	cells
+#2085	AnnotatorNotes T2085	CL:0000000 (cell)
+T2086	GO_CC 60231 60236	cells
+#2086	AnnotatorNotes T2086	GO:0005623 (cell)
+T2087	GO_BP 60274 60287	recombination
+#2087	AnnotatorNotes T2087	GO:0006310 (DNA recombination)
+T2088	GO_BP 60298 60307	formation
+#2088	AnnotatorNotes T2088	GO:0032502 (developmental process)
+T2089	SO 60365 60371	mutant
+#2089	AnnotatorNotes T2089	SO:0001059 (sequence_alteration)
+T2090	independent_continuant 60365 60371	mutant
+#2090	AnnotatorNotes T2090	independent_continuant
+T2091	GO_BP 60384 60393	formation
+#2091	AnnotatorNotes T2091	GO:0032502 (developmental process)
+T2092	italic 60521 60527	Bmpr1a
+#2092	AnnotatorNotes T2092	italic (null)
+T2093	EntrezGene 60521 60527	Bmpr1a
+#2093	AnnotatorNotes T2093	EG:12166
+T2094	PR 60521 60527	Bmpr1a
+#2094	AnnotatorNotes T2094	PR:000000035 (BMP receptor type-1A)
+T2095	GO_BP 60528 60537	Signaling
+#2095	AnnotatorNotes T2095	GO:0007165 (signal transduction)
+T2096	GO_BP 60620 60625	Aging
+#2096	AnnotatorNotes T2096	GO:0007568 (aging)
+T2097	NCBITaxon 60626 60630	Mice
+#2097	AnnotatorNotes T2097	NCBITaxon:10088 (Mus)
+T2098	NCBITaxon 60710 60714	mice
+#2098	AnnotatorNotes T2098	NCBITaxon:10088 (Mus)
+T2099	CL 60838 60843	cells
+#2099	AnnotatorNotes T2099	CL:0000000 (cell)
+T2100	GO_CC 60838 60843	cells
+#2100	AnnotatorNotes T2100	GO:0005623 (cell)
+T2101	SO 60847 60854	mutants
+#2101	AnnotatorNotes T2101	SO:0001059 (sequence_alteration)
+T2102	independent_continuant 60847 60854	mutants
+#2102	AnnotatorNotes T2102	independent_continuant
+T2103	GO_BP 60953 60963	expression
+#2103	AnnotatorNotes T2103	GO:0010467 (gene expression)
+T2104	GO_BP 60986 60999	recombination
+#2104	AnnotatorNotes T2104	GO:0006310 (DNA recombination)
+T2105	CL 61026 61031	cells
+#2105	AnnotatorNotes T2105	CL:0000000 (cell)
+T2106	GO_CC 61026 61031	cells
+#2106	AnnotatorNotes T2106	GO:0005623 (cell)
+T2107	NCBITaxon 61115 61122	animals
+#2107	AnnotatorNotes T2107	NCBITaxon:33208 (Metazoa)
+T2108	GO_BP 61156 61162	growth
+#2108	AnnotatorNotes T2108	GO:0040007 (growth)
+T2109	GO_BP 61188 61193	birth
+#2109	AnnotatorNotes T2109	GO:0007567 (parturition)
+T2110	SO 61244 61251	mutants
+#2110	AnnotatorNotes T2110	SO:0001059 (sequence_alteration)
+T2111	independent_continuant 61244 61251	mutants
+#2111	AnnotatorNotes T2111	independent_continuant
+T2112	GO_BP 61473 61486	recombination
+#2112	AnnotatorNotes T2112	GO:0006310 (DNA recombination)
+T2113	CL 61513 61518	cells
+#2113	AnnotatorNotes T2113	CL:0000000 (cell)
+T2114	GO_CC 61513 61518	cells
+#2114	AnnotatorNotes T2114	GO:0005623 (cell)
+T2115	SO 61543 61550	mutants
+#2115	AnnotatorNotes T2115	SO:0001059 (sequence_alteration)
+T2116	independent_continuant 61543 61550	mutants
+#2116	AnnotatorNotes T2116	independent_continuant
+T2117	CL 61570 61575	cells
+#2117	AnnotatorNotes T2117	CL:0000000 (cell)
+T2118	GO_CC 61570 61575	cells
+#2118	AnnotatorNotes T2118	GO:0005623 (cell)
+T2119	italic 61636 61642	Bmpr1a
+#2119	AnnotatorNotes T2119	italic (null)
+T2120	PR 61636 61642	Bmpr1a
+#2120	AnnotatorNotes T2120	PR:000000035 (BMP receptor type-1A)
+T2121	EntrezGene 61636 61642	Bmpr1a
+#2121	AnnotatorNotes T2121	EG:12166
+T2122	CL 61651 61655	cell
+#2122	AnnotatorNotes T2122	CL:0000000 (cell)
+T2123	GO_CC 61651 61655	cell
+#2123	AnnotatorNotes T2123	GO:0005623 (cell)
+T2124	SO 61715 61721	mutant
+#2124	AnnotatorNotes T2124	SO:0001059 (sequence_alteration)
+T2125	GO_BP 61910 61923	recombination
+#2125	AnnotatorNotes T2125	GO:0006310 (DNA recombination)
+T2126	CL 61946 61951	cells
+#2126	AnnotatorNotes T2126	CL:0000000 (cell)
+T2127	GO_CC 61946 61951	cells
+#2127	AnnotatorNotes T2127	GO:0005623 (cell)
+T2128	SO 62009 62016	mutants
+#2128	AnnotatorNotes T2128	SO:0001059 (sequence_alteration)
+T2129	independent_continuant 62009 62016	mutants
+#2129	AnnotatorNotes T2129	independent_continuant
+T2130	GO_BP 62043 62049	formed
+#2130	AnnotatorNotes T2130	GO:0032502 (developmental process)
+T2131	SO 62072 62079	mutants
+#2131	AnnotatorNotes T2131	SO:0001059 (sequence_alteration)
+T2132	independent_continuant 62072 62079	mutants
+#2132	AnnotatorNotes T2132	independent_continuant
+T2133	SO 62133 62139	mutant
+#2133	AnnotatorNotes T2133	SO:0001059 (sequence_alteration)
+T2134	bold 62245 62267	Conflicts of interest.
+#2134	AnnotatorNotes T2134	bold (null)
+T2135	bold 62332 62353	Author contributions.
+#2135	AnnotatorNotes T2135	bold (null)
+T2136	CHEBI 62517 62525	reagents
+#2136	AnnotatorNotes T2136	CHEBI:33893 (reagent)
+T2137	CHEBI 62688 62703	Pharmaceuticals
+#2137	AnnotatorNotes T2137	CHEBI:33294 (pharmaceutical)
+T2138	GO_BP 62816 62838	BMP receptor signaling
+#2138	AnnotatorNotes T2138	GO:0030509 (BMP signaling pathway)
+T2139	PR 62816 62819	BMP
+#2139	AnnotatorNotes T2139	PR:000000034 (BMP)
+T2140	GO_MF 62820 62828	receptor
+#2140	AnnotatorNotes T2140	GO:0004872 (receptor activity)
+T2141	independent_continuant 62820 62828	receptor
+#2141	AnnotatorNotes T2141	independent_continuant

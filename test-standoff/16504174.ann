@@ -1,0 +1,2466 @@
+T1	NCBITaxon 46 51	mouse
+#1	AnnotatorNotes T1	NCBITaxon:10088 (Mus)
+T2	SO 52 56	gene
+#2	AnnotatorNotes T2	SO:0000704 (gene)
+T3	EntrezGene 66 70	ESG1
+#3	AnnotatorNotes T3	EG:434423
+T4	PR 66 70	ESG1
+#4	AnnotatorNotes T4	PR:000006847 (developmental pluripotency-associated protein 5A)
+T5	EntrezGene 72 76	PH34
+#5	AnnotatorNotes T5	EG:434423
+T6	PR 72 76	PH34
+#6	AnnotatorNotes T6	PR:000006847 (developmental pluripotency-associated protein 5A)
+T7	EntrezGene 77 82	ECAT2
+#7	AnnotatorNotes T7	EG:434423
+T8	PR 77 82	ECAT2
+#8	AnnotatorNotes T8	PR:000006847 (developmental pluripotency-associated protein 5A)
+T9	EntrezGene 83 88	DPPA5
+#9	AnnotatorNotes T9	EG:434423
+T10	PR 83 88	DPPA5
+#10	AnnotatorNotes T10	PR:000006847 (developmental pluripotency-associated protein 5A)
+T11	PR 113 154	Embryonic stem cell-specific gene (ESG) 1
+#11	AnnotatorNotes T11	"Embryonic stem cell-specific gene .. 1" PR:000006847 (developmental pluripotency-associated protein 5A)
+T12	CL 123 132	stem cell
+#12	AnnotatorNotes T12	CL:0000034 (stem cell)
+T13	GO_CC 128 132	cell
+#13	AnnotatorNotes T13	GO:0005623 (cell)
+T14	SO 142 146	gene
+#14	AnnotatorNotes T14	SO:0000704 (gene)
+T15	PR 148 154	ESG) 1
+#15	AnnotatorNotes T15	"ESG .. 1" PR:000006847 (developmental pluripotency-associated protein 5A)
+T16	italic 148 151	ESG
+#16	AnnotatorNotes T16	italic (null)
+T17	SO 175 181	domain
+#17	AnnotatorNotes T17	SO:0000417 (polypeptide_domain)
+T18	CHEBI 193 200	protein
+#18	AnnotatorNotes T18	CHEBI:36080 (proteins)
+T19	GO_BP 218 227	expressed
+#19	AnnotatorNotes T19	GO:0010467 (gene expression)
+T20	CL 246 256	germ cells
+#20	AnnotatorNotes T20	CL:0000586 (germ cell)
+T21	GO_CC 251 256	cells
+#21	AnnotatorNotes T21	GO:0005623 (cell)
+T22	CL 272 287	stem (ES) cells
+#22	AnnotatorNotes T22	"stem .. cells" CL:0000034 (stem cell)
+T23	GO_CC 282 287	cells
+#23	AnnotatorNotes T23	GO:0005623 (cell)
+T24	SO 317 331	genomic clones
+#24	AnnotatorNotes T24	SO:0000040 (genomic_clone)
+T25	SO 317 324	genomic
+#25	AnnotatorNotes T25	SO:0001026 (genome)
+T26	EntrezGene 347 357	mouse ESG1
+#26	AnnotatorNotes T26	EG:434423
+T27	NCBITaxon 347 352	mouse
+#27	AnnotatorNotes T27	NCBITaxon:10088 (Mus)
+T28	italic 353 357	ESG1
+#28	AnnotatorNotes T28	italic (null)
+T29	PR 353 357	ESG1
+#29	AnnotatorNotes T29	PR:000006847 (developmental pluripotency-associated protein 5A)
+T30	SO 358 362	gene
+#30	AnnotatorNotes T30	SO:0000704 (gene)
+T31	SO 372 383	pseudogenes
+#31	AnnotatorNotes T31	SO:0000336 (pseudogene)
+T32	SO 400 425	chromosomal localizations
+#32	AnnotatorNotes T32	SO:0000830 (chromosome_part)
+T33	GO_CC 400 411	chromosomal
+#33	AnnotatorNotes T33	GO:0005694 (chromosome)
+T34	SO 400 411	chromosomal
+#34	AnnotatorNotes T34	SO:0000340 (chromosome)
+T35	NCBITaxon 507 512	mouse
+#35	AnnotatorNotes T35	NCBITaxon:10088 (Mus)
+T36	SO 513 520	genomic
+#36	AnnotatorNotes T36	SO:0001026 (genome)
+T37	italic 552 556	ESG1
+#37	AnnotatorNotes T37	italic (null)
+T38	EntrezGene 552 556	ESG1
+#38	AnnotatorNotes T38	EG:434423
+T39	PR 552 556	ESG1
+#39	AnnotatorNotes T39	PR:000006847 (developmental pluripotency-associated protein 5A)
+T40	SO 557 561	gene
+#40	AnnotatorNotes T40	SO:0000704 (gene)
+T41	SO 585 612	bacterial artificial clones
+#41	AnnotatorNotes T41	SO:0000153 (BAC)
+T42	NCBITaxon 585 594	bacterial
+#42	AnnotatorNotes T42	NCBITaxon:2 (Bacteria)
+T43	SO 606 612	clones
+#43	AnnotatorNotes T43	SO:0000151 (clone)
+T44	EntrezGene 628 638	mouse ESG1
+#44	AnnotatorNotes T44	EG:434423
+T45	NCBITaxon 628 633	mouse
+#45	AnnotatorNotes T45	NCBITaxon:10088 (Mus)
+T46	italic 634 638	ESG1
+#46	AnnotatorNotes T46	italic (null)
+T47	PR 634 638	ESG1
+#47	AnnotatorNotes T47	PR:000006847 (developmental pluripotency-associated protein 5A)
+T48	SO 639 643	gene
+#48	AnnotatorNotes T48	SO:0000704 (gene)
+T49	italic 662 666	ESG1
+#49	AnnotatorNotes T49	italic (null)
+T50	PR 662 666	ESG1
+#50	AnnotatorNotes T50	PR:000006847 (developmental pluripotency-associated protein 5A)
+T51	EntrezGene 662 666	ESG1
+#51	AnnotatorNotes T51	EG:434423
+T52	SO 672 680	sequence
+#52	AnnotatorNotes T52	SO:0000001 (region)
+T53	SO 696 700	gene
+#53	AnnotatorNotes T53	SO:0000704 (gene)
+T54	GO_CC 716 726	chromosome
+#54	AnnotatorNotes T54	GO:0005694 (chromosome)
+T55	SO 716 726	chromosome
+#55	AnnotatorNotes T55	SO:0000340 (chromosome)
+T56	EntrezGene 734 738	ESG1
+#56	AnnotatorNotes T56	EG:434423
+T57	PR 734 738	ESG1
+#57	AnnotatorNotes T57	PR:000006847 (developmental pluripotency-associated protein 5A)
+T58	SO 744 752	sequence
+#58	AnnotatorNotes T58	SO:0000001 (region)
+T59	SO 783 792	mutations
+#59	AnnotatorNotes T59	SO:0001059 (sequence_alteration)
+T60	SO 830 840	pseudogene
+#60	AnnotatorNotes T60	SO:0000336 (pseudogene)
+T61	SO 846 864	5' flanking region
+#61	AnnotatorNotes T61	SO:0001416 (five_prime_flanking_region)
+T62	italic 872 876	ESG1
+#62	AnnotatorNotes T62	italic (null)
+T63	PR 872 876	ESG1
+#63	AnnotatorNotes T63	PR:000006847 (developmental pluripotency-associated protein 5A)
+T64	EntrezGene 872 876	ESG1
+#64	AnnotatorNotes T64	EG:434423
+T65	SO 877 881	gene
+#65	AnnotatorNotes T65	SO:0000704 (gene)
+T66	SO 903 913	pseudogene
+#66	AnnotatorNotes T66	SO:0000336 (pseudogene)
+T67	SO 932 940	enhancer
+#67	AnnotatorNotes T67	SO:0000165 (enhancer)
+T68	SO 945 953	promoter
+#68	AnnotatorNotes T68	SO:0000167 (promoter)
+T69	CL 986 991	cells
+#69	AnnotatorNotes T69	CL:0000000 (cell)
+T70	GO_CC 986 991	cells
+#70	AnnotatorNotes T70	GO:0005623 (cell)
+T71	GO_MF 995 1005	luciferase
+#71	AnnotatorNotes T71	GO:0045289 (luciferin monooxygenase activity)
+T72	independent_continuant 995 1005	luciferase
+#72	AnnotatorNotes T72	independent_continuant
+T73	italic 1066 1070	ESG1
+#73	AnnotatorNotes T73	italic (null)
+T74	PR 1066 1070	ESG1
+#74	AnnotatorNotes T74	PR:000006847 (developmental pluripotency-associated protein 5A)
+T75	EntrezGene 1066 1070	ESG1
+#75	AnnotatorNotes T75	EG:434423
+T76	SO 1071 1075	gene
+#76	AnnotatorNotes T76	SO:0000704 (gene)
+T77	SO 1080 1088	replaced
+#77	AnnotatorNotes T77	SO:0000048 (substitute)
+T78	SO 1094 1102	sequence
+#78	AnnotatorNotes T78	SO:0000001 (region)
+T79	CL 1109 1114	cells
+#79	AnnotatorNotes T79	CL:0000000 (cell)
+T80	GO_CC 1109 1114	cells
+#80	AnnotatorNotes T80	GO:0005623 (cell)
+T81	SO 1128 1136	cassette
+#81	AnnotatorNotes T81	SO:0005853 (gene_cassette)
+T82	GO_BP 1151 1164	recombination
+#82	AnnotatorNotes T82	GO:0006310 (DNA recombination)
+T83	GO_BP 1183 1193	expression
+#83	AnnotatorNotes T83	GO:0010467 (gene expression)
+T84	CL 1215 1225	germ cells
+#84	AnnotatorNotes T84	CL:0000586 (germ cell)
+T85	GO_CC 1220 1225	cells
+#85	AnnotatorNotes T85	GO:0005623 (cell)
+T86	italic 1227 1231	ESG1
+#86	AnnotatorNotes T86	italic (null)
+T87	PR 1227 1231	ESG1
+#87	AnnotatorNotes T87	PR:000006847 (developmental pluripotency-associated protein 5A)
+T88	EntrezGene 1227 1231	ESG1
+#88	AnnotatorNotes T88	EG:434423
+T89	sup 1231 1234	-/-
+#89	AnnotatorNotes T89	sup (null)
+T90	NCBITaxon 1235 1239	mice
+#90	AnnotatorNotes T90	NCBITaxon:10088 (Mus)
+T91	GO_BP 1240 1249	developed
+#91	AnnotatorNotes T91	GO:0032502 (developmental process)
+T92	GO_BP 1285 1294	generated
+#92	AnnotatorNotes T92	GO:0032502 (developmental process)
+T93	italic 1295 1299	ESG1
+#93	AnnotatorNotes T93	italic (null)
+T94	EntrezGene 1295 1299	ESG1
+#94	AnnotatorNotes T94	EG:434423
+T95	PR 1295 1299	ESG1
+#95	AnnotatorNotes T95	PR:000006847 (developmental pluripotency-associated protein 5A)
+T96	sup 1299 1302	-/-
+#96	AnnotatorNotes T96	sup (null)
+T97	CL 1306 1311	cells
+#97	AnnotatorNotes T97	CL:0000000 (cell)
+T98	GO_CC 1306 1311	cells
+#98	AnnotatorNotes T98	GO:0005623 (cell)
+T99	GO_BP 1352 1365	recombination
+#99	AnnotatorNotes T99	GO:0006310 (DNA recombination)
+T100	EntrezGene 1501 1505	ESG1
+#100	AnnotatorNotes T100	EG:434423
+T101	PR 1501 1505	ESG1
+#101	AnnotatorNotes T101	PR:000006847 (developmental pluripotency-associated protein 5A)
+T102	CL 1515 1520	cells
+#102	AnnotatorNotes T102	CL:0000000 (cell)
+T103	GO_CC 1515 1520	cells
+#103	AnnotatorNotes T103	GO:0005623 (cell)
+T104	CL 1531 1536	cells
+#104	AnnotatorNotes T104	CL:0000000 (cell)
+T105	GO_CC 1531 1536	cells
+#105	AnnotatorNotes T105	GO:0005623 (cell)
+T106	GO_BP 1569 1582	proliferation
+#106	AnnotatorNotes T106	GO:0008283 (cell proliferation)
+T107	GO_BP 1588 1603	differentiation
+#107	AnnotatorNotes T107	GO:0030154 (cell differentiation)
+T108	EntrezGene 1622 1632	mouse ESG1
+#108	AnnotatorNotes T108	EG:434423
+T109	NCBITaxon 1622 1627	mouse
+#109	AnnotatorNotes T109	NCBITaxon:10088 (Mus)
+T110	italic 1628 1632	ESG1
+#110	AnnotatorNotes T110	italic (null)
+T111	PR 1628 1632	ESG1
+#111	AnnotatorNotes T111	PR:000006847 (developmental pluripotency-associated protein 5A)
+T112	SO 1633 1637	gene
+#112	AnnotatorNotes T112	SO:0000704 (gene)
+T113	SO 1666 1676	pseudogene
+#113	AnnotatorNotes T113	SO:0000336 (pseudogene)
+T114	GO_CC 1692 1702	chromosome
+#114	AnnotatorNotes T114	GO:0005694 (chromosome)
+T115	SO 1692 1702	chromosome
+#115	AnnotatorNotes T115	SO:0000340 (chromosome)
+T116	GO_BP 1727 1737	expression
+#116	AnnotatorNotes T116	GO:0010467 (gene expression)
+T117	CL 1753 1758	cells
+#117	AnnotatorNotes T117	CL:0000000 (cell)
+T118	GO_CC 1753 1758	cells
+#118	AnnotatorNotes T118	GO:0005623 (cell)
+T119	CL 1763 1773	germ cells
+#119	AnnotatorNotes T119	CL:0000586 (germ cell)
+T120	GO_CC 1768 1773	cells
+#120	AnnotatorNotes T120	GO:0005623 (cell)
+T121	EntrezGene 1775 1779	ESG1
+#121	AnnotatorNotes T121	EG:434423
+T122	PR 1775 1779	ESG1
+#122	AnnotatorNotes T122	PR:000006847 (developmental pluripotency-associated protein 5A)
+T123	GO_BP 1799 1823	self-renewal of ES cells
+#123	AnnotatorNotes T123	"self-renewal of .. cells" GO:0017145 (stem cell division)
+T124	CL 1818 1823	cells
+#124	AnnotatorNotes T124	CL:0000000 (cell)
+T125	GO_CC 1818 1823	cells
+#125	AnnotatorNotes T125	GO:0005623 (cell)
+T126	GO_BP 1828 1854	establishment of germcells
+#126	AnnotatorNotes T126	GO:0007281 (germ cell development)
+T127	CL 1845 1854	germcells
+#127	AnnotatorNotes T127	CL:0000586 (germ cell)
+T128	CL 1879 1894	stem (ES) cells
+#128	AnnotatorNotes T128	"stem .. cells" CL:0000034 (stem cell)
+T129	GO_CC 1889 1894	cells
+#129	AnnotatorNotes T129	GO:0005623 (cell)
+T130	NCBITaxon 1938 1942	mice
+#130	AnnotatorNotes T130	NCBITaxon:10088 (Mus)
+T131	NCBITaxon 1961 1967	humans
+#131	AnnotatorNotes T131	NCBITaxon:9606 (Homo sapiens)
+T132	CL 1984 1989	cells
+#132	AnnotatorNotes T132	CL:0000000 (cell)
+T133	GO_CC 1984 1989	cells
+#133	AnnotatorNotes T133	GO:0005623 (cell)
+T134	GO_BP 2082 2095	differentiate
+#134	AnnotatorNotes T134	GO:0030154 (cell differentiation)
+T135	CL 2119 2124	cells
+#135	AnnotatorNotes T135	CL:0000000 (cell)
+T136	GO_CC 2119 2124	cells
+#136	AnnotatorNotes T136	GO:0005623 (cell)
+T137	GO_BP 2136 2149	proliferation
+#137	AnnotatorNotes T137	GO:0008283 (cell proliferation)
+T138	NCBITaxon 2178 2183	mouse
+#138	AnnotatorNotes T138	NCBITaxon:10088 (Mus)
+T139	CL 2187 2192	cells
+#139	AnnotatorNotes T139	CL:0000000 (cell)
+T140	GO_CC 2187 2192	cells
+#140	AnnotatorNotes T140	GO:0005623 (cell)
+T141	SO 2219 2223	gene
+#141	AnnotatorNotes T141	SO:0000704 (gene)
+T142	NCBITaxon 2271 2276	human
+#142	AnnotatorNotes T142	NCBITaxon:9606 (Homo sapiens)
+T143	CL 2280 2285	cells
+#143	AnnotatorNotes T143	CL:0000000 (cell)
+T144	GO_CC 2280 2285	cells
+#144	AnnotatorNotes T144	GO:0005623 (cell)
+T145	CL 2309 2313	cell
+#145	AnnotatorNotes T145	CL:0000000 (cell)
+T146	GO_CC 2309 2313	cell
+#146	AnnotatorNotes T146	GO:0005623 (cell)
+T147	CHEBI 2423 2432	molecular
+#147	AnnotatorNotes T147	CHEBI:23367 (molecular entity)
+T148	GO_BP 2482 2507	proliferation of ES cells
+#148	AnnotatorNotes T148	"proliferation of .. cells" GO:0008283 (cell proliferation)
+T149	CL 2502 2507	cells
+#149	AnnotatorNotes T149	CL:0000000 (cell)
+T150	GO_CC 2502 2507	cells
+#150	AnnotatorNotes T150	GO:0005623 (cell)
+T151	CL 2552 2561	stem cell
+#151	AnnotatorNotes T151	CL:0000034 (stem cell)
+T152	GO_CC 2557 2561	cell
+#152	AnnotatorNotes T152	GO:0005623 (cell)
+T153	CHEBI 2590 2599	molecules
+#153	AnnotatorNotes T153	CHEBI:23367 (molecular entity)
+T154	CL 2616 2621	cells
+#154	AnnotatorNotes T154	CL:0000000 (cell)
+T155	GO_CC 2616 2621	cells
+#155	AnnotatorNotes T155	GO:0005623 (cell)
+T156	SO 2708 2713	genes
+#156	AnnotatorNotes T156	SO:0000704 (gene)
+T157	GO_BP 2727 2736	expressed
+#157	AnnotatorNotes T157	GO:0010467 (gene expression)
+T158	CL 2743 2748	cells
+#158	AnnotatorNotes T158	CL:0000000 (cell)
+T159	GO_CC 2743 2748	cells
+#159	AnnotatorNotes T159	GO:0005623 (cell)
+T160	SO 2794 2797	DNA
+#160	AnnotatorNotes T160	SO:0000352 (DNA)
+T161	SO 2826 2848	expressed sequence tag
+#161	AnnotatorNotes T161	SO:0000345 (EST)
+T162	GO_BP 2826 2835	expressed
+#162	AnnotatorNotes T162	GO:0010467 (gene expression)
+T163	SO 2892 2903	transcripts
+#163	AnnotatorNotes T163	SO:0000673 (transcript)
+T164	italic 2915 2919	ESG1
+#164	AnnotatorNotes T164	italic (null)
+T165	PR 2915 2919	ESG1
+#165	AnnotatorNotes T165	PR:000006847 (developmental pluripotency-associated protein 5A)
+T166	italic 2945 2950	dppa5
+#166	AnnotatorNotes T166	italic (null)
+T167	PR 2945 2950	dppa5
+#167	AnnotatorNotes T167	PR:000006847 (developmental pluripotency-associated protein 5A)
+T168	italic 2954 2959	ECAT2
+#168	AnnotatorNotes T168	italic (null)
+T169	PR 2954 2959	ECAT2
+#169	AnnotatorNotes T169	PR:000006847 (developmental pluripotency-associated protein 5A)
+T170	PR 2962 2966	ESG1
+#170	AnnotatorNotes T170	PR:000006847 (developmental pluripotency-associated protein 5A)
+T171	SO 2998 3008	transcript
+#171	AnnotatorNotes T171	SO:0000673 (transcript)
+T172	PR 3009 3013	Ph34
+#172	AnnotatorNotes T172	PR:000006847 (developmental pluripotency-associated protein 5A)
+T173	GO_BP 3023 3037	down-regulated
+#173	AnnotatorNotes T173	GO:0048519 (negative regulation of biological process)
+T174	CHEBI 3041 3054	retinoic acid
+#174	AnnotatorNotes T174	CHEBI:26536 (retinoic acid)
+T175	CL 3078 3083	cells
+#175	AnnotatorNotes T175	CL:0000000 (cell)
+T176	GO_CC 3078 3083	cells
+#176	AnnotatorNotes T176	GO:0005623 (cell)
+T177	GO_BP 3094 3117	expression of this gene
+#177	AnnotatorNotes T177	"expression of .. gene" GO:0010467 (gene expression)
+T178	SO 3113 3117	gene
+#178	AnnotatorNotes T178	SO:0000704 (gene)
+T179	NCBITaxon 3134 3138	mice
+#179	AnnotatorNotes T179	NCBITaxon:10088 (Mus)
+T180	CL 3160 3170	germ cells
+#180	AnnotatorNotes T180	CL:0000586 (germ cell)
+T181	GO_CC 3165 3170	cells
+#181	AnnotatorNotes T181	GO:0005623 (cell)
+T182	GO_BP 3188 3197	expressed
+#182	AnnotatorNotes T182	GO:0010467 (gene expression)
+T183	CL 3213 3218	cells
+#183	AnnotatorNotes T183	CL:0000000 (cell)
+T184	GO_CC 3213 3218	cells
+#184	AnnotatorNotes T184	GO:0005623 (cell)
+T185	CL 3233 3238	cells
+#185	AnnotatorNotes T185	CL:0000000 (cell)
+T186	GO_CC 3233 3238	cells
+#186	AnnotatorNotes T186	GO:0005623 (cell)
+T187	CL 3250 3260	germ cells
+#187	AnnotatorNotes T187	CL:0000586 (germ cell)
+T188	GO_CC 3255 3260	cells
+#188	AnnotatorNotes T188	GO:0005623 (cell)
+T189	CL 3266 3297	multipotent germline stem cells
+#189	AnnotatorNotes T189	"multipotent .. stem cells" CL:0000048 (multi fate stem cell)
+T190	CL 3278 3297	germline stem cells
+#190	AnnotatorNotes T190	CL:0000014 (germ line stem cell)
+T191	GO_CC 3292 3297	cells
+#191	AnnotatorNotes T191	GO:0005623 (cell)
+T192	italic 3304 3308	ESG1
+#192	AnnotatorNotes T192	italic (null)
+T193	PR 3304 3308	ESG1
+#193	AnnotatorNotes T193	PR:000006847 (developmental pluripotency-associated protein 5A)
+T194	SO 3319 3330	polypeptide
+#194	AnnotatorNotes T194	SO:0000104 (polypeptide)
+T195	CHEBI 3338 3349	amino acids
+#195	AnnotatorNotes T195	CHEBI:33708 (amino-acid residue)
+T196	SO 3338 3349	amino acids
+#196	AnnotatorNotes T196	SO:0001237 (amino_acid)
+T197	CHEBI 3338 3343	amino
+#197	AnnotatorNotes T197	CHEBI:46882 (amino group)
+T198	CHEBI 3338 3343	amino
+#198	AnnotatorNotes T198	CHEBI:32952 (amines)
+T199	CHEBI 3344 3349	acids
+#199	AnnotatorNotes T199	CHEBI:37527 (acid)
+T200	SO 3376 3382	domain
+#200	AnnotatorNotes T200	SO:0000417 (polypeptide_domain)
+T201	GO_MF 3396 3407	RNA-binding
+#201	AnnotatorNotes T201	GO:0003723 (RNA binding)
+T202	SO 3396 3399	RNA
+#202	AnnotatorNotes T202	SO:0000356 (RNA)
+T203	SO 3408 3414	domain
+#203	AnnotatorNotes T203	SO:0000417 (polypeptide_domain)
+T204	EntrezGene 3453 3457	ESG1
+#204	AnnotatorNotes T204	EG:434423
+T205	PR 3453 3457	ESG1
+#205	AnnotatorNotes T205	PR:000006847 (developmental pluripotency-associated protein 5A)
+T206	GO_MF 3474 3485	RNA-binding
+#206	AnnotatorNotes T206	GO:0003723 (RNA binding)
+T207	SO 3474 3477	RNA
+#207	AnnotatorNotes T207	SO:0000356 (RNA)
+T208	CHEBI 3486 3493	protein
+#208	AnnotatorNotes T208	CHEBI:36080 (proteins)
+T209	CL 3522 3527	cells
+#209	AnnotatorNotes T209	CL:0000000 (cell)
+T210	GO_CC 3522 3527	cells
+#210	AnnotatorNotes T210	GO:0005623 (cell)
+T211	NCBITaxon 3532 3536	mice
+#211	AnnotatorNotes T211	NCBITaxon:10088 (Mus)
+T212	SO 3548 3555	genomic
+#212	AnnotatorNotes T212	SO:0001026 (genome)
+T213	SO 3588 3602	genomic clones
+#213	AnnotatorNotes T213	SO:0000040 (genomic_clone)
+T214	SO 3588 3595	genomic
+#214	AnnotatorNotes T214	SO:0001026 (genome)
+T215	EntrezGene 3618 3628	mouse ESG1
+#215	AnnotatorNotes T215	EG:434423
+T216	NCBITaxon 3618 3623	mouse
+#216	AnnotatorNotes T216	NCBITaxon:10088 (Mus)
+T217	italic 3624 3628	ESG1
+#217	AnnotatorNotes T217	italic (null)
+T218	PR 3624 3628	ESG1
+#218	AnnotatorNotes T218	PR:000006847 (developmental pluripotency-associated protein 5A)
+T219	SO 3629 3633	gene
+#219	AnnotatorNotes T219	SO:0000704 (gene)
+T220	SO 3644 3655	pseudogenes
+#220	AnnotatorNotes T220	SO:0000336 (pseudogene)
+T221	SO 3675 3686	pseudogenes
+#221	AnnotatorNotes T221	SO:0000336 (pseudogene)
+T222	SO 3705 3709	exon
+#222	AnnotatorNotes T222	SO:0000147 (exon)
+T223	SO 3710 3716	intron
+#223	AnnotatorNotes T223	SO:0000188 (intron)
+T224	italic 3734 3738	ESG1
+#224	AnnotatorNotes T224	italic (null)
+T225	PR 3734 3738	ESG1
+#225	AnnotatorNotes T225	PR:000006847 (developmental pluripotency-associated protein 5A)
+T226	EntrezGene 3734 3738	ESG1
+#226	AnnotatorNotes T226	EG:434423
+T227	SO 3739 3743	gene
+#227	AnnotatorNotes T227	SO:0000704 (gene)
+T228	GO_BP 3762 3772	generation
+#228	AnnotatorNotes T228	GO:0009058 (biosynthetic process)
+T229	SO 3776 3780	gene
+#229	AnnotatorNotes T229	SO:0000704 (gene)
+T230	SO 3813 3824	pseudogenes
+#230	AnnotatorNotes T230	SO:0000336 (pseudogene)
+T231	SO 3845 3852	introns
+#231	AnnotatorNotes T231	SO:0000188 (intron)
+T232	GO_BP 3881 3890	generated
+#232	AnnotatorNotes T232	GO:0009058 (biosynthetic process)
+T233	italic 3916 3920	ESG1
+#233	AnnotatorNotes T233	italic (null)
+T234	PR 3916 3920	ESG1
+#234	AnnotatorNotes T234	PR:000006847 (developmental pluripotency-associated protein 5A)
+T235	SO 3921 3932	transcripts
+#235	AnnotatorNotes T235	SO:0000673 (transcript)
+T236	SO 3938 3963	chromosomal localizations
+#236	AnnotatorNotes T236	SO:0000830 (chromosome_part)
+T237	GO_CC 3938 3949	chromosomal
+#237	AnnotatorNotes T237	GO:0005694 (chromosome)
+T238	SO 3938 3949	chromosomal
+#238	AnnotatorNotes T238	SO:0000340 (chromosome)
+T239	EntrezGene 3971 3981	mouse ESG1
+#239	AnnotatorNotes T239	EG:434423
+T240	NCBITaxon 3971 3976	mouse
+#240	AnnotatorNotes T240	NCBITaxon:10088 (Mus)
+T241	italic 3977 3981	ESG1
+#241	AnnotatorNotes T241	italic (null)
+T242	PR 3977 3981	ESG1
+#242	AnnotatorNotes T242	PR:000006847 (developmental pluripotency-associated protein 5A)
+T243	SO 3982 3986	gene
+#243	AnnotatorNotes T243	SO:0000704 (gene)
+T244	SO 3991 4002	pseudogenes
+#244	AnnotatorNotes T244	SO:0000336 (pseudogene)
+T245	NCBITaxon 4088 4093	mouse
+#245	AnnotatorNotes T245	NCBITaxon:10088 (Mus)
+T246	SO 4094 4098	gene
+#246	AnnotatorNotes T246	SO:0000704 (gene)
+T247	CHEBI 4113 4120	protein
+#247	AnnotatorNotes T247	CHEBI:36080 (proteins)
+T248	SO 4133 4144	pseudogenes
+#248	AnnotatorNotes T248	SO:0000336 (pseudogene)
+T249	SO 4164 4168	gene
+#249	AnnotatorNotes T249	SO:0000704 (gene)
+T250	EntrezGene 4222 4226	ESG1
+#250	AnnotatorNotes T250	EG:434423
+T251	PR 4222 4226	ESG1
+#251	AnnotatorNotes T251	PR:000006847 (developmental pluripotency-associated protein 5A)
+T252	SO 4253 4277	Chromosomal localization
+#252	AnnotatorNotes T252	SO:0000830 (chromosome_part)
+T253	GO_CC 4253 4264	Chromosomal
+#253	AnnotatorNotes T253	GO:0005694 (chromosome)
+T254	SO 4253 4264	Chromosomal
+#254	AnnotatorNotes T254	SO:0000340 (chromosome)
+T255	EntrezGene 4296 4306	mouse ESG1
+#255	AnnotatorNotes T255	EG:434423
+T256	NCBITaxon 4296 4301	mouse
+#256	AnnotatorNotes T256	NCBITaxon:10088 (Mus)
+T257	italic 4302 4306	ESG1
+#257	AnnotatorNotes T257	italic (null)
+T258	PR 4302 4306	ESG1
+#258	AnnotatorNotes T258	PR:000006847 (developmental pluripotency-associated protein 5A)
+T259	SO 4307 4311	gene
+#259	AnnotatorNotes T259	SO:0000704 (gene)
+T260	SO 4316 4326	psedogenes
+#260	AnnotatorNotes T260	SO:0000336 (pseudogene)
+T261	SO 4345 4370	chromosomal localizations
+#261	AnnotatorNotes T261	SO:0000830 (chromosome_part)
+T262	GO_CC 4345 4356	chromosomal
+#262	AnnotatorNotes T262	GO:0005694 (chromosome)
+T263	SO 4345 4356	chromosomal
+#263	AnnotatorNotes T263	SO:0000340 (chromosome)
+T264	EntrezGene 4378 4388	mouse ESG1
+#264	AnnotatorNotes T264	EG:434423
+T265	NCBITaxon 4378 4383	mouse
+#265	AnnotatorNotes T265	NCBITaxon:10088 (Mus)
+T266	italic 4384 4388	ESG1
+#266	AnnotatorNotes T266	italic (null)
+T267	PR 4384 4388	ESG1
+#267	AnnotatorNotes T267	PR:000006847 (developmental pluripotency-associated protein 5A)
+T268	SO 4389 4393	gene
+#268	AnnotatorNotes T268	SO:0000704 (gene)
+T269	SO 4398 4409	pseudogenes
+#269	AnnotatorNotes T269	SO:0000336 (pseudogene)
+T270	NCBITaxon 4448 4453	mouse
+#270	AnnotatorNotes T270	NCBITaxon:10088 (Mus)
+T271	SO 4454 4461	genomic
+#271	AnnotatorNotes T271	SO:0001026 (genome)
+T272	italic 4480 4484	ESG1
+#272	AnnotatorNotes T272	italic (null)
+T273	EntrezGene 4480 4484	ESG1
+#273	AnnotatorNotes T273	EG:434423
+T274	PR 4480 4484	ESG1
+#274	AnnotatorNotes T274	PR:000006847 (developmental pluripotency-associated protein 5A)
+T275	SO 4485 4498	cDNA sequence
+#275	AnnotatorNotes T275	SO:0000756 (cDNA)
+T276	SO 4542 4553	pseudogenes
+#276	AnnotatorNotes T276	SO:0000336 (pseudogene)
+T277	SO 4562 4569	introns
+#277	AnnotatorNotes T277	SO:0000188 (intron)
+T278	GO_CC 4573 4584	chromosomes
+#278	AnnotatorNotes T278	GO:0005694 (chromosome)
+T279	SO 4573 4584	chromosomes
+#279	AnnotatorNotes T279	SO:0000340 (chromosome)
+T280	SO 4646 4652	intron
+#280	AnnotatorNotes T280	SO:0000188 (intron)
+T281	SO 4658 4669	pseudogenes
+#281	AnnotatorNotes T281	SO:0000336 (pseudogene)
+T282	SO 4689 4692	DNA
+#282	AnnotatorNotes T282	SO:0000352 (DNA)
+T283	SO 4693 4702	fragments
+#283	AnnotatorNotes T283	SO:0000731 (fragmentary)
+T284	SO 4717 4741	chromosomal localization
+#284	AnnotatorNotes T284	SO:0000830 (chromosome_part)
+T285	GO_CC 4717 4728	chromosomal
+#285	AnnotatorNotes T285	GO:0005694 (chromosome)
+T286	SO 4717 4728	chromosomal
+#286	AnnotatorNotes T286	SO:0000340 (chromosome)
+T287	SO 4773 4785	pseudodgenes
+#287	AnnotatorNotes T287	SO:0000336 (pseudogene)
+T288	SO 4803 4811	homology
+#288	AnnotatorNotes T288	SO:0000857 (homologous)
+T289	italic 4815 4819	ESG1
+#289	AnnotatorNotes T289	italic (null)
+T290	EntrezGene 4815 4819	ESG1
+#290	AnnotatorNotes T290	EG:434423
+T291	PR 4815 4819	ESG1
+#291	AnnotatorNotes T291	PR:000006847 (developmental pluripotency-associated protein 5A)
+T292	SO 4820 4824	cDNA
+#292	AnnotatorNotes T292	SO:0000756 (cDNA)
+T293	GO_BP 4841 4848	produce
+#293	AnnotatorNotes T293	GO:0009058 (biosynthetic process)
+T294	CHEBI 4860 4868	proteins
+#294	AnnotatorNotes T294	CHEBI:36080 (proteins)
+T295	SO 4890 4899	mutations
+#295	AnnotatorNotes T295	SO:0001059 (sequence_alteration)
+T296	SO 4956 4962	intron
+#296	AnnotatorNotes T296	SO:0000188 (intron)
+T297	SO 4968 4979	pseudogenes
+#297	AnnotatorNotes T297	SO:0000336 (pseudogene)
+T298	SO 5031 5047	retropseudogenes
+#298	AnnotatorNotes T298	SO:0000043 (processed_pseudogene)
+T299	CL 5077 5081	cell
+#299	AnnotatorNotes T299	CL:0000000 (cell)
+T300	GO_CC 5077 5081	cell
+#300	AnnotatorNotes T300	GO:0005623 (cell)
+T301	SO 5091 5096	genes
+#301	AnnotatorNotes T301	SO:0000704 (gene)
+T302	bold 5114 5185	ESG1pseudogenes identified by a Blast search of mouse genomic databases
+#302	AnnotatorNotes T302	bold (null)
+T303	italic 5114 5118	ESG1
+#303	AnnotatorNotes T303	italic (null)
+T304	NCBITaxon 5162 5167	mouse
+#304	AnnotatorNotes T304	NCBITaxon:10088 (Mus)
+T305	SO 5168 5175	genomic
+#305	AnnotatorNotes T305	SO:0001026 (genome)
+T306	SO 5187 5209	Substitution mutations
+#306	AnnotatorNotes T306	SO:1000002 (substitution)
+T307	SO 5240 5246	Intron
+#307	AnnotatorNotes T307	SO:0000188 (intron)
+T308	SO 5252 5255	gap
+#308	AnnotatorNotes T308	SO:0000730 (gap)
+T309	SO 5256 5265	sequences
+#309	AnnotatorNotes T309	SO:0000001 (region)
+T310	SO 5296 5321	Chromosomal localizations
+#310	AnnotatorNotes T310	SO:0000830 (chromosome_part)
+T311	GO_CC 5296 5307	Chromosomal
+#311	AnnotatorNotes T311	GO:0005694 (chromosome)
+T312	SO 5296 5307	Chromosomal
+#312	AnnotatorNotes T312	SO:0000340 (chromosome)
+T313	GO_CC 5350 5360	chromosome
+#313	AnnotatorNotes T313	GO:0005694 (chromosome)
+T314	SO 5350 5360	chromosome
+#314	AnnotatorNotes T314	SO:0000340 (chromosome)
+T315	SO 5380 5383	DNA
+#315	AnnotatorNotes T315	SO:0000352 (DNA)
+T316	SO 5384 5392	fragment
+#316	AnnotatorNotes T316	SO:0000731 (fragmentary)
+T317	italic 5408 5412	ESG1
+#317	AnnotatorNotes T317	italic (null)
+T318	PR 5408 5412	ESG1
+#318	AnnotatorNotes T318	PR:000006847 (developmental pluripotency-associated protein 5A)
+T319	EntrezGene 5408 5412	ESG1
+#319	AnnotatorNotes T319	EG:434423
+T320	SO 5413 5417	gene
+#320	AnnotatorNotes T320	SO:0000704 (gene)
+T321	SO 5445 5452	introns
+#321	AnnotatorNotes T321	SO:0000188 (intron)
+T322	SO 5486 5491	exons
+#322	AnnotatorNotes T322	SO:0000147 (exon)
+T323	SO 5525 5534	mutations
+#323	AnnotatorNotes T323	SO:0001059 (sequence_alteration)
+T324	italic 5542 5546	ESG1
+#324	AnnotatorNotes T324	italic (null)
+T325	PR 5542 5546	ESG1
+#325	AnnotatorNotes T325	PR:000006847 (developmental pluripotency-associated protein 5A)
+T326	EntrezGene 5542 5546	ESG1
+#326	AnnotatorNotes T326	EG:434423
+T327	SO 5547 5560	cDNA sequence
+#327	AnnotatorNotes T327	SO:0000756 (cDNA)
+T328	SO 5581 5585	exon
+#328	AnnotatorNotes T328	SO:0000147 (exon)
+T329	italic 5635 5639	ESG1
+#329	AnnotatorNotes T329	italic (null)
+T330	EntrezGene 5635 5639	ESG1
+#330	AnnotatorNotes T330	EG:434423
+T331	PR 5635 5639	ESG1
+#331	AnnotatorNotes T331	PR:000006847 (developmental pluripotency-associated protein 5A)
+T332	SO 5640 5644	gene
+#332	AnnotatorNotes T332	SO:0000704 (gene)
+T333	GO_CC 5654 5664	chromosome
+#333	AnnotatorNotes T333	GO:0005694 (chromosome)
+T334	SO 5654 5664	chromosome
+#334	AnnotatorNotes T334	SO:0000340 (chromosome)
+T335	SO 5690 5693	DNA
+#335	AnnotatorNotes T335	SO:0000352 (DNA)
+T336	SO 5694 5702	fragment
+#336	AnnotatorNotes T336	SO:0000731 (fragmentary)
+T337	SO 5753 5757	exon
+#337	AnnotatorNotes T337	SO:0000147 (exon)
+T338	EntrezGene 5765 5769	ESG1
+#338	AnnotatorNotes T338	EG:434423
+T339	PR 5765 5769	ESG1
+#339	AnnotatorNotes T339	PR:000006847 (developmental pluripotency-associated protein 5A)
+T340	SO 5770 5774	gene
+#340	AnnotatorNotes T340	SO:0000704 (gene)
+T341	italic 5810 5814	ESG1
+#341	AnnotatorNotes T341	italic (null)
+T342	PR 5810 5814	ESG1
+#342	AnnotatorNotes T342	PR:000006847 (developmental pluripotency-associated protein 5A)
+T343	EntrezGene 5810 5814	ESG1
+#343	AnnotatorNotes T343	EG:434423
+T344	SO 5820 5843	sequences on chromosome
+#344	AnnotatorNotes T344	SO:0000830 (chromosome_part)
+T345	GO_CC 5833 5843	chromosome
+#345	AnnotatorNotes T345	GO:0005694 (chromosome)
+T346	SO 5833 5843	chromosome
+#346	AnnotatorNotes T346	SO:0000340 (chromosome)
+T347	SO 5892 5895	DNA
+#347	AnnotatorNotes T347	SO:0000352 (DNA)
+T348	SO 5896 5905	fragments
+#348	AnnotatorNotes T348	SO:0000731 (fragmentary)
+T349	italic 5921 5925	ESG1
+#349	AnnotatorNotes T349	italic (null)
+T350	PR 5921 5925	ESG1
+#350	AnnotatorNotes T350	PR:000006847 (developmental pluripotency-associated protein 5A)
+T351	EntrezGene 5921 5925	ESG1
+#351	AnnotatorNotes T351	EG:434423
+T352	SO 5926 5930	gene
+#352	AnnotatorNotes T352	SO:0000704 (gene)
+T353	SO 5948 5979	bacterial artificial chromosome
+#353	AnnotatorNotes T353	SO:0000153 (BAC)
+T354	NCBITaxon 5948 5957	bacterial
+#354	AnnotatorNotes T354	NCBITaxon:2 (Bacteria)
+T355	GO_CC 5969 5979	chromosome
+#355	AnnotatorNotes T355	GO:0005694 (chromosome)
+T356	SO 5981 5984	BAC
+#356	AnnotatorNotes T356	SO:0000153 (BAC)
+T357	SO 5986 5989	DNA
+#357	AnnotatorNotes T357	SO:0000352 (DNA)
+T358	SO 6008 6014	primer
+#358	AnnotatorNotes T358	SO:0000112 (primer)
+T359	SO 6054 6058	gene
+#359	AnnotatorNotes T359	SO:0000704 (gene)
+T360	SO 6068 6079	pseudogenes
+#360	AnnotatorNotes T360	SO:0000336 (pseudogene)
+T361	SO 6114 6125	overlapping
+#361	AnnotatorNotes T361	SO:0000068 (overlapping)
+T362	SO 6126 6129	BAC
+#362	AnnotatorNotes T362	SO:0000153 (BAC)
+T363	SO 6130 6136	clones
+#363	AnnotatorNotes T363	SO:0000151 (clone)
+T364	SO 6200 6206	clones
+#364	AnnotatorNotes T364	SO:0000151 (clone)
+T365	SO 6219 6227	sequence
+#365	AnnotatorNotes T365	SO:0000001 (region)
+T366	italic 6262 6266	ESG1
+#366	AnnotatorNotes T366	italic (null)
+T367	EntrezGene 6262 6266	ESG1
+#367	AnnotatorNotes T367	EG:434423
+T368	PR 6262 6266	ESG1
+#368	AnnotatorNotes T368	PR:000006847 (developmental pluripotency-associated protein 5A)
+T369	SO 6267 6271	cDNA
+#369	AnnotatorNotes T369	SO:0000756 (cDNA)
+T370	SO 6309 6316	introns
+#370	AnnotatorNotes T370	SO:0000188 (intron)
+T371	SO 6338 6354	intron sequences
+#371	AnnotatorNotes T371	SO:0000188 (intron)
+T372	SO 6421 6442	exon-intron junctions
+#372	AnnotatorNotes T372	SO:0001421 (splice_junction)
+T373	SO 6421 6425	exon
+#373	AnnotatorNotes T373	SO:0000147 (exon)
+T374	SO 6426 6432	intron
+#374	AnnotatorNotes T374	SO:0000188 (intron)
+T375	SO 6453 6471	5' flanking region
+#375	AnnotatorNotes T375	SO:0001416 (five_prime_flanking_region)
+T376	SO 6480 6483	DNA
+#376	AnnotatorNotes T376	SO:0000352 (DNA)
+T377	SO 6484 6492	fragment
+#377	AnnotatorNotes T377	SO:0000731 (fragmentary)
+T378	SO 6510 6518	promoter
+#378	AnnotatorNotes T378	SO:0000167 (promoter)
+T379	SO 6519 6527	enhancer
+#379	AnnotatorNotes T379	SO:0000165 (enhancer)
+T380	GO_MF 6540 6550	luciferase
+#380	AnnotatorNotes T380	GO:0045289 (luciferin monooxygenase activity)
+T381	independent_continuant 6540 6550	luciferase
+#381	AnnotatorNotes T381	independent_continuant
+T382	CL 6590 6595	cells
+#382	AnnotatorNotes T382	CL:0000000 (cell)
+T383	GO_CC 6590 6595	cells
+#383	AnnotatorNotes T383	GO:0005623 (cell)
+T384	CL 6616 6621	cells
+#384	AnnotatorNotes T384	CL:0000000 (cell)
+T385	GO_CC 6616 6621	cells
+#385	AnnotatorNotes T385	GO:0005623 (cell)
+T386	SO 6643 6651	fragment
+#386	AnnotatorNotes T386	SO:0000731 (fragmentary)
+T387	GO_BP 6686 6695	induction
+#387	AnnotatorNotes T387	GO:0031128 (induction)
+T388	GO_BP 6699 6714	differentiation
+#388	AnnotatorNotes T388	GO:0030154 (cell differentiation)
+T389	CHEBI 6718 6731	retinoic acid
+#389	AnnotatorNotes T389	CHEBI:26536 (retinoic acid)
+T390	SO 6756 6764	sequence
+#390	AnnotatorNotes T390	SO:0000001 (region)
+T391	italic 6772 6776	ESG1
+#391	AnnotatorNotes T391	italic (null)
+T392	EntrezGene 6772 6776	ESG1
+#392	AnnotatorNotes T392	EG:434423
+T393	PR 6772 6776	ESG1
+#393	AnnotatorNotes T393	PR:000006847 (developmental pluripotency-associated protein 5A)
+T394	SO 6777 6781	gene
+#394	AnnotatorNotes T394	SO:0000704 (gene)
+T395	bold 6794 6863	BAC clones containing the ESG1 gene and a duplication pseudogene (PS)
+#395	AnnotatorNotes T395	bold (null)
+T396	SO 6794 6797	BAC
+#396	AnnotatorNotes T396	SO:0000153 (BAC)
+T397	SO 6798 6804	clones
+#397	AnnotatorNotes T397	SO:0000151 (clone)
+T398	italic 6820 6824	ESG1
+#398	AnnotatorNotes T398	italic (null)
+T399	EntrezGene 6820 6824	ESG1
+#399	AnnotatorNotes T399	EG:434423
+T400	PR 6820 6824	ESG1
+#400	AnnotatorNotes T400	PR:000006847 (developmental pluripotency-associated protein 5A)
+T401	SO 6825 6829	gene
+#401	AnnotatorNotes T401	SO:0000704 (gene)
+T402	SO 6836 6847	duplication
+#402	AnnotatorNotes T402	SO:1000035 (nucleotide_duplication)
+T403	SO 6848 6858	pseudogene
+#403	AnnotatorNotes T403	SO:0000336 (pseudogene)
+T404	SO 6860 6862	PS
+#404	AnnotatorNotes T404	SO:0000336 (pseudogene)
+T405	SO 6868 6880	Localization
+#405	AnnotatorNotes T405	SO:0000001 (region)
+T406	SO 6888 6892	gene
+#406	AnnotatorNotes T406	SO:0000704 (gene)
+T407	SO 6897 6899	PS
+#407	AnnotatorNotes T407	SO:0000336 (pseudogene)
+T408	GO_CC 6903 6913	chromosome
+#408	AnnotatorNotes T408	GO:0005694 (chromosome)
+T409	SO 6903 6913	chromosome
+#409	AnnotatorNotes T409	SO:0000340 (chromosome)
+T410	SO 6920 6928	Sequence
+#410	AnnotatorNotes T410	SO:0000001 (region)
+T411	SO 6947 6951	gene
+#411	AnnotatorNotes T411	SO:0000704 (gene)
+T412	SO 6956 6958	PS
+#412	AnnotatorNotes T412	SO:0000336 (pseudogene)
+T413	SO 6983 6993	homologous
+#413	AnnotatorNotes T413	SO:0000857 (homologous)
+T414	SO 7005 7015	base pairs
+#414	AnnotatorNotes T414	SO:0000028 (base_pair)
+T415	SO 7005 7009	base
+#415	AnnotatorNotes T415	SO:0001236 (base)
+T416	SO 7038 7042	exon
+#416	AnnotatorNotes T416	SO:0000147 (exon)
+T417	SO 7050 7052	bp
+#417	AnnotatorNotes T417	SO:0000028 (base_pair)
+T418	SO 7077 7081	exon
+#418	AnnotatorNotes T418	SO:0000147 (exon)
+T419	SO 7083 7105	Substitution mutations
+#419	AnnotatorNotes T419	SO:1000002 (substitution)
+T420	SO 7140 7149	insertion
+#420	AnnotatorNotes T420	SO:0000667 (insertion)
+T421	bold 7195 7253	Promoter/enhancer activity of the ESG1 gene and pseudogene
+#421	AnnotatorNotes T421	bold (null)
+T422	SO 7195 7203	Promoter
+#422	AnnotatorNotes T422	SO:0000167 (promoter)
+T423	SO 7204 7212	enhancer
+#423	AnnotatorNotes T423	SO:0000165 (enhancer)
+T424	italic 7229 7233	ESG1
+#424	AnnotatorNotes T424	italic (null)
+T425	EntrezGene 7229 7233	ESG1
+#425	AnnotatorNotes T425	EG:434423
+T426	PR 7229 7233	ESG1
+#426	AnnotatorNotes T426	PR:000006847 (developmental pluripotency-associated protein 5A)
+T427	SO 7234 7238	gene
+#427	AnnotatorNotes T427	SO:0000704 (gene)
+T428	SO 7243 7253	pseudogene
+#428	AnnotatorNotes T428	SO:0000336 (pseudogene)
+T429	SO 7255 7258	DNA
+#429	AnnotatorNotes T429	SO:0000352 (DNA)
+T430	SO 7259 7268	fragments
+#430	AnnotatorNotes T430	SO:0000731 (fragmentary)
+T431	SO 7297 7316	5' flanking regions
+#431	AnnotatorNotes T431	SO:0001416 (five_prime_flanking_region)
+T432	SO 7324 7328	gene
+#432	AnnotatorNotes T432	SO:0000704 (gene)
+T433	SO 7333 7335	PS
+#433	AnnotatorNotes T433	SO:0000336 (pseudogene)
+T434	SO 7341 7352	transferred
+#434	AnnotatorNotes T434	SO:0000049 (translocate)
+T435	independent_continuant 7358 7368	luciferase
+#435	AnnotatorNotes T435	independent_continuant
+T436	GO_MF 7358 7368	luciferase
+#436	AnnotatorNotes T436	GO:0045289 (luciferin monooxygenase activity)
+T437	SO 7378 7386	plasmids
+#437	AnnotatorNotes T437	SO:0000155 (plasmid)
+T438	SO 7415 7420	genes
+#438	AnnotatorNotes T438	SO:0000704 (gene)
+T439	CL 7446 7451	cells
+#439	AnnotatorNotes T439	CL:0000000 (cell)
+T440	GO_CC 7446 7451	cells
+#440	AnnotatorNotes T440	GO:0005623 (cell)
+T441	CHEBI 7468 7481	retinoic acid
+#441	AnnotatorNotes T441	CHEBI:26536 (retinoic acid)
+T442	CL 7493 7498	cells
+#442	AnnotatorNotes T442	CL:0000000 (cell)
+T443	GO_CC 7493 7498	cells
+#443	AnnotatorNotes T443	GO:0005623 (cell)
+T444	CL 7526 7531	cells
+#444	AnnotatorNotes T444	CL:0000000 (cell)
+T445	GO_CC 7526 7531	cells
+#445	AnnotatorNotes T445	GO:0005623 (cell)
+T446	SO 7664 7667	BAC
+#446	AnnotatorNotes T446	SO:0000153 (BAC)
+T447	SO 7668 7674	clones
+#447	AnnotatorNotes T447	SO:0000151 (clone)
+T448	italic 7693 7697	ESG1
+#448	AnnotatorNotes T448	italic (null)
+T449	PR 7693 7697	ESG1
+#449	AnnotatorNotes T449	PR:000006847 (developmental pluripotency-associated protein 5A)
+T450	EntrezGene 7693 7697	ESG1
+#450	AnnotatorNotes T450	EG:434423
+T451	SO 7703 7711	sequence
+#451	AnnotatorNotes T451	SO:0000001 (region)
+T452	SO 7733 7742	sequences
+#452	AnnotatorNotes T452	SO:0000001 (region)
+T453	SO 7766 7785	intergenic sequence
+#453	AnnotatorNotes T453	SO:0000605 (intergenic_region)
+T454	italic 7829 7833	ESG1
+#454	AnnotatorNotes T454	italic (null)
+T455	EntrezGene 7829 7833	ESG1
+#455	AnnotatorNotes T455	EG:434423
+T456	PR 7829 7833	ESG1
+#456	AnnotatorNotes T456	PR:000006847 (developmental pluripotency-associated protein 5A)
+T457	SO 7839 7847	sequence
+#457	AnnotatorNotes T457	SO:0000001 (region)
+T458	SO 7891 7896	exons
+#458	AnnotatorNotes T458	SO:0000147 (exon)
+T459	SO 7901 7908	introns
+#459	AnnotatorNotes T459	SO:0000188 (intron)
+T460	italic 7916 7920	ESG1
+#460	AnnotatorNotes T460	italic (null)
+T461	EntrezGene 7916 7920	ESG1
+#461	AnnotatorNotes T461	EG:434423
+T462	PR 7916 7920	ESG1
+#462	AnnotatorNotes T462	PR:000006847 (developmental pluripotency-associated protein 5A)
+T463	SO 7921 7925	gene
+#463	AnnotatorNotes T463	SO:0000704 (gene)
+T464	SO 7932 7940	sequence
+#464	AnnotatorNotes T464	SO:0000001 (region)
+T465	CHEBI 7970 7980	nucleotide
+#465	AnnotatorNotes T465	CHEBI:25613 (nucleotidyl groups)
+T466	SO 7970 7980	nucleotide
+#466	AnnotatorNotes T466	SO:0001236 (base)
+T467	SO 7981 7994	substitutions
+#467	AnnotatorNotes T467	SO:1000002 (substitution)
+T468	SO 8009 8014	exons
+#468	AnnotatorNotes T468	SO:0000147 (exon)
+T469	SO 8023 8043	nucleotide insertion
+#469	AnnotatorNotes T469	SO:1000034 (nucleotide_insertion)
+T470	CHEBI 8023 8033	nucleotide
+#470	AnnotatorNotes T470	CHEBI:25613 (nucleotidyl groups)
+T471	SO 8023 8033	nucleotide
+#471	AnnotatorNotes T471	SO:0001236 (base)
+T472	SO 8047 8051	exon
+#472	AnnotatorNotes T472	SO:0000147 (exon)
+T473	SO 8080 8090	base pairs
+#473	AnnotatorNotes T473	SO:0000028 (base_pair)
+T474	SO 8080 8084	base
+#474	AnnotatorNotes T474	SO:0001236 (base)
+T475	SO 8098 8117	3' flanking regions
+#475	AnnotatorNotes T475	SO:0001417 (three_prime_flanking_region)
+T476	SO 8123 8132	conserved
+#476	AnnotatorNotes T476	SO:0000856 (conserved)
+T477	EntrezGene 8145 8149	ESG1
+#477	AnnotatorNotes T477	EG:434423
+T478	PR 8145 8149	ESG1
+#478	AnnotatorNotes T478	PR:000006847 (developmental pluripotency-associated protein 5A)
+T479	SO 8150 8154	gene
+#479	AnnotatorNotes T479	SO:0000704 (gene)
+T480	SO 8163 8173	pseudogene
+#480	AnnotatorNotes T480	SO:0000336 (pseudogene)
+T481	SO 8185 8195	base pairs
+#481	AnnotatorNotes T481	SO:0000028 (base_pair)
+T482	SO 8185 8189	base
+#482	AnnotatorNotes T482	SO:0001236 (base)
+T483	SO 8203 8221	5' flanking region
+#483	AnnotatorNotes T483	SO:0001416 (five_prime_flanking_region)
+T484	SO 8243 8261	5' flanking region
+#484	AnnotatorNotes T484	SO:0001416 (five_prime_flanking_region)
+T485	SO 8291 8299	promoter
+#485	AnnotatorNotes T485	SO:0000167 (promoter)
+T486	SO 8300 8308	enhancer
+#486	AnnotatorNotes T486	SO:0000165 (enhancer)
+T487	independent_continuant 8321 8331	luciferase
+#487	AnnotatorNotes T487	independent_continuant
+T488	GO_MF 8321 8331	luciferase
+#488	AnnotatorNotes T488	GO:0045289 (luciferin monooxygenase activity)
+T489	SO 8390 8398	sequence
+#489	AnnotatorNotes T489	SO:0000001 (region)
+T490	GO_BP 8402 8413	transcribed
+#490	AnnotatorNotes T490	GO:0006350 (transcription)
+T491	GO_BP 8417 8427	translated
+#491	AnnotatorNotes T491	GO:0006412 (translation)
+T492	CHEBI 8446 8453	protein
+#492	AnnotatorNotes T492	CHEBI:36080 (proteins)
+T493	SO 8460 8468	sequence
+#493	AnnotatorNotes T493	SO:0000001 (region)
+T494	SO 8489 8500	duplication
+#494	AnnotatorNotes T494	SO:1000035 (nucleotide_duplication)
+T495	SO 8501 8511	pseudogene
+#495	AnnotatorNotes T495	SO:0000336 (pseudogene)
+T496	SO 8563 8574	pseudogenes
+#496	AnnotatorNotes T496	SO:0000336 (pseudogene)
+T497	SO 8588 8592	exon
+#497	AnnotatorNotes T497	SO:0000147 (exon)
+T498	SO 8593 8599	intron
+#498	AnnotatorNotes T498	SO:0000188 (intron)
+T499	italic 8620 8624	ESG1
+#499	AnnotatorNotes T499	italic (null)
+T500	PR 8620 8624	ESG1
+#500	AnnotatorNotes T500	PR:000006847 (developmental pluripotency-associated protein 5A)
+T501	EntrezGene 8620 8624	ESG1
+#501	AnnotatorNotes T501	EG:434423
+T502	SO 8625 8629	gene
+#502	AnnotatorNotes T502	SO:0000704 (gene)
+T503	SO 8678 8689	pseudogenes
+#503	AnnotatorNotes T503	SO:0000336 (pseudogene)
+T504	SO 8734 8742	location
+#504	AnnotatorNotes T504	SO:0000001 (region)
+T505	SO 8760 8770	pseudogene
+#505	AnnotatorNotes T505	SO:0000336 (pseudogene)
+T506	EntrezGene 8800 8810	mouse ESG1
+#506	AnnotatorNotes T506	EG:434423
+T507	NCBITaxon 8800 8805	mouse
+#507	AnnotatorNotes T507	NCBITaxon:10088 (Mus)
+T508	italic 8806 8810	ESG1
+#508	AnnotatorNotes T508	italic (null)
+T509	PR 8806 8810	ESG1
+#509	AnnotatorNotes T509	PR:000006847 (developmental pluripotency-associated protein 5A)
+T510	SO 8811 8815	gene
+#510	AnnotatorNotes T510	SO:0000704 (gene)
+T511	EntrezGene 8842 8846	ESG1
+#511	AnnotatorNotes T511	EG:434423
+T512	PR 8842 8846	ESG1
+#512	AnnotatorNotes T512	PR:000006847 (developmental pluripotency-associated protein 5A)
+T513	SO 8851 8858	deleted
+#513	AnnotatorNotes T513	SO:0000045 (delete)
+T514	SO 8863 8867	gene
+#514	AnnotatorNotes T514	SO:0000704 (gene)
+T515	GO_BP 8882 8895	recombination
+#515	AnnotatorNotes T515	GO:0006310 (DNA recombination)
+T516	NCBITaxon 8899 8904	mouse
+#516	AnnotatorNotes T516	NCBITaxon:10088 (Mus)
+T517	CL 8908 8913	cells
+#517	AnnotatorNotes T517	CL:0000000 (cell)
+T518	GO_CC 8908 8913	cells
+#518	AnnotatorNotes T518	GO:0005623 (cell)
+T519	SO 8918 8926	replaced
+#519	AnnotatorNotes T519	SO:0000048 (substitute)
+T520	SO 8937 8942	exons
+#520	AnnotatorNotes T520	SO:0000147 (exon)
+T521	SO 8957 9016	fusion of the neomycin-resistance and β-galactosidase genes
+#521	AnnotatorNotes T521	"fusion of .. genes" SO:0000287 (fusion_gene)
+T522	CHEBI 8971 8979	neomycin
+#522	AnnotatorNotes T522	CHEBI:44577 (neomycin)
+T523	GO_MF 8995 9010	β-galactosidase
+#523	AnnotatorNotes T523	GO:0004565 (beta-galactosidase activity)
+T524	independent_continuant 8995 9010	β-galactosidase
+#524	AnnotatorNotes T524	independent_continuant
+T525	CHEBI 9032 9042	hygromycin
+#525	AnnotatorNotes T525	CHEBI:24753 (hygromycins)
+T526	SO 9053 9057	gene
+#526	AnnotatorNotes T526	SO:0000704 (gene)
+T527	SO 9085 9092	vectors
+#527	AnnotatorNotes T527	SO:0000440 (vector_replicon)
+T528	CL 9128 9133	cells
+#528	AnnotatorNotes T528	CL:0000000 (cell)
+T529	GO_CC 9128 9133	cells
+#529	AnnotatorNotes T529	GO:0005623 (cell)
+T530	CL 9175 9179	cell
+#530	AnnotatorNotes T530	CL:0000000 (cell)
+T531	GO_CC 9175 9179	cell
+#531	AnnotatorNotes T531	GO:0005623 (cell)
+T532	GO_BP 9211 9224	recombination
+#532	AnnotatorNotes T532	GO:0006310 (DNA recombination)
+T533	SO 9248 9254	vector
+#533	AnnotatorNotes T533	SO:0000440 (vector_replicon)
+T534	GO_BP 9366 9379	recombination
+#534	AnnotatorNotes T534	GO:0006310 (DNA recombination)
+T535	SO 9402 9408	vector
+#535	AnnotatorNotes T535	SO:0000440 (vector_replicon)
+T536	bold 9421 9463	Targeted disruption of the mouse ESG1 gene
+#536	AnnotatorNotes T536	bold (null)
+T537	EntrezGene 9448 9458	mouse ESG1
+#537	AnnotatorNotes T537	EG:434423
+T538	NCBITaxon 9448 9453	mouse
+#538	AnnotatorNotes T538	NCBITaxon:10088 (Mus)
+T539	PR 9454 9458	ESG1
+#539	AnnotatorNotes T539	PR:000006847 (developmental pluripotency-associated protein 5A)
+T540	SO 9459 9463	gene
+#540	AnnotatorNotes T540	SO:0000704 (gene)
+T541	SO 9537 9554	Recognition sites
+#541	AnnotatorNotes T541	SO:0000409 (binding_site)
+T542	italic 9558 9561	Pst
+#542	AnnotatorNotes T542	italic (null)
+T543	italic 9571 9574	Spe
+#543	AnnotatorNotes T543	italic (null)
+T544	SO 9640 9644	gene
+#544	AnnotatorNotes T544	SO:0000704 (gene)
+T545	EntrezGene 9654 9670	diphtheria toxin
+#545	AnnotatorNotes T545	EG:2650491
+T546	CHEBI 9665 9670	toxin
+#546	AnnotatorNotes T546	CHEBI:27026 (toxin)
+T547	SO 9683 9691	inserted
+#547	AnnotatorNotes T547	SO:0000046 (insert)
+T548	SO 9723 9730	vectors
+#548	AnnotatorNotes T548	SO:0000440 (vector_replicon)
+T549	GO_BP 9813 9826	recombination
+#549	AnnotatorNotes T549	GO:0006310 (DNA recombination)
+T550	independent_continuant 9828 9830	WT
+#550	AnnotatorNotes T550	independent_continuant
+T551	SO 9828 9830	WT
+#551	AnnotatorNotes T551	SO:0000817 (wild_type)
+T552	SO 9832 9841	wild-type
+#552	AnnotatorNotes T552	SO:0000817 (wild_type)
+T553	CL 9845 9850	cells
+#553	AnnotatorNotes T553	CL:0000000 (cell)
+T554	GO_CC 9845 9850	cells
+#554	AnnotatorNotes T554	GO:0005623 (cell)
+T555	SO 9861 9862	+
+#555	AnnotatorNotes T555	SO:0000817 (wild_type)
+T556	CL 9868 9873	cells
+#556	AnnotatorNotes T556	CL:0000000 (cell)
+T557	GO_CC 9868 9873	cells
+#557	AnnotatorNotes T557	GO:0005623 (cell)
+T558	SO 9883 9884	+
+#558	AnnotatorNotes T558	SO:0000817 (wild_type)
+T559	CL 9890 9895	cells
+#559	AnnotatorNotes T559	CL:0000000 (cell)
+T560	GO_CC 9890 9895	cells
+#560	AnnotatorNotes T560	GO:0005623 (cell)
+T561	EntrezGene 9902 9906	ESG1
+#561	AnnotatorNotes T561	EG:434423
+T562	PR 9902 9906	ESG1
+#562	AnnotatorNotes T562	PR:000006847 (developmental pluripotency-associated protein 5A)
+T563	CL 9915 9920	cells
+#563	AnnotatorNotes T563	CL:0000000 (cell)
+T564	GO_CC 9915 9920	cells
+#564	AnnotatorNotes T564	GO:0005623 (cell)
+T565	SO 10016 10025	wild-type
+#565	AnnotatorNotes T565	SO:0000817 (wild_type)
+T566	CL 10029 10034	cells
+#566	AnnotatorNotes T566	CL:0000000 (cell)
+T567	GO_CC 10029 10034	cells
+#567	AnnotatorNotes T567	GO:0005623 (cell)
+T568	independent_continuant 10036 10038	WT
+#568	AnnotatorNotes T568	independent_continuant
+T569	SO 10036 10038	WT
+#569	AnnotatorNotes T569	SO:0000817 (wild_type)
+T570	EntrezGene 10041 10045	ESG1
+#570	AnnotatorNotes T570	EG:434423
+T571	PR 10041 10045	ESG1
+#571	AnnotatorNotes T571	PR:000006847 (developmental pluripotency-associated protein 5A)
+T572	CL 10054 10059	cells
+#572	AnnotatorNotes T572	CL:0000000 (cell)
+T573	GO_CC 10054 10059	cells
+#573	AnnotatorNotes T573	GO:0005623 (cell)
+T574	CL 10100 10105	cells
+#574	AnnotatorNotes T574	CL:0000000 (cell)
+T575	GO_CC 10100 10105	cells
+#575	AnnotatorNotes T575	GO:0005623 (cell)
+T576	SO 10107 10108	+
+#576	AnnotatorNotes T576	SO:0000817 (wild_type)
+T577	SO 10214 10217	RNA
+#577	AnnotatorNotes T577	SO:0000356 (RNA)
+T578	CHEBI 10219 10235	ethidium bromide
+#578	AnnotatorNotes T578	CHEBI:4883 (ethidium bromide)
+T579	CHEBI 10219 10227	ethidium
+#579	AnnotatorNotes T579	CHEBI:42478 (ethidium)
+T580	CHEBI 10228 10235	bromide
+#580	AnnotatorNotes T580	CHEBI:15858 (bromide)
+T581	CHEBI 10248 10261	ribosomal RNA
+#581	AnnotatorNotes T581	CHEBI:18111 (ribosomal RNA)
+T582	SO 10248 10261	ribosomal RNA
+#582	AnnotatorNotes T582	SO:0000252 (rRNA)
+T583	GO_CC 10248 10257	ribosomal
+#583	AnnotatorNotes T583	GO:0005840 (ribosome)
+T584	SO 10308 10314	mutant
+#584	AnnotatorNotes T584	SO:0001059 (sequence_alteration)
+T585	CL 10318 10323	cells
+#585	AnnotatorNotes T585	CL:0000000 (cell)
+T586	GO_CC 10318 10323	cells
+#586	AnnotatorNotes T586	GO:0005623 (cell)
+T587	SO 10349 10355	vector
+#587	AnnotatorNotes T587	SO:0000440 (vector_replicon)
+T588	CL 10382 10387	cells
+#588	AnnotatorNotes T588	CL:0000000 (cell)
+T589	GO_CC 10382 10387	cells
+#589	AnnotatorNotes T589	GO:0005623 (cell)
+T590	italic 10451 10455	ESG1
+#590	AnnotatorNotes T590	italic (null)
+T591	PR 10451 10455	ESG1
+#591	AnnotatorNotes T591	PR:000006847 (developmental pluripotency-associated protein 5A)
+T592	EntrezGene 10451 10455	ESG1
+#592	AnnotatorNotes T592	EG:434423
+T593	SO 10456 10464	deletion
+#593	AnnotatorNotes T593	SO:0000045 (delete)
+T594	EntrezGene 10531 10535	ESG1
+#594	AnnotatorNotes T594	EG:434423
+T595	PR 10531 10535	ESG1
+#595	AnnotatorNotes T595	PR:000006847 (developmental pluripotency-associated protein 5A)
+T596	CL 10545 10550	cells
+#596	AnnotatorNotes T596	CL:0000000 (cell)
+T597	GO_CC 10545 10550	cells
+#597	AnnotatorNotes T597	GO:0005623 (cell)
+T598	SO 10588 10594	vector
+#598	AnnotatorNotes T598	SO:0000440 (vector_replicon)
+T599	SO 10599 10607	replaced
+#599	AnnotatorNotes T599	SO:0000048 (substitute)
+T600	SO 10617 10623	vector
+#600	AnnotatorNotes T600	SO:0000440 (vector_replicon)
+T601	CL 10639 10644	cells
+#601	AnnotatorNotes T601	CL:0000000 (cell)
+T602	GO_CC 10639 10644	cells
+#602	AnnotatorNotes T602	GO:0005623 (cell)
+T603	SO 10706 10712	vector
+#603	AnnotatorNotes T603	SO:0000440 (vector_replicon)
+T604	SO 10717 10727	integrated
+#604	AnnotatorNotes T604	SO:0000046 (insert)
+T605	italic 10754 10758	ESG1
+#605	AnnotatorNotes T605	italic (null)
+T606	EntrezGene 10754 10758	ESG1
+#606	AnnotatorNotes T606	EG:434423
+T607	PR 10754 10758	ESG1
+#607	AnnotatorNotes T607	PR:000006847 (developmental pluripotency-associated protein 5A)
+T608	sup 10758 10761	-/-
+#608	AnnotatorNotes T608	sup (null)
+T609	CL 10765 10770	cells
+#609	AnnotatorNotes T609	CL:0000000 (cell)
+T610	GO_CC 10765 10770	cells
+#610	AnnotatorNotes T610	GO:0005623 (cell)
+T611	CL 10818 10823	cells
+#611	AnnotatorNotes T611	CL:0000000 (cell)
+T612	GO_CC 10818 10823	cells
+#612	AnnotatorNotes T612	GO:0005623 (cell)
+T613	GO_BP 10829 10841	proliferated
+#613	AnnotatorNotes T613	GO:0008283 (cell proliferation)
+T614	SO 10905 10914	wild-type
+#614	AnnotatorNotes T614	SO:0000817 (wild_type)
+T615	CL 10916 10921	cells
+#615	AnnotatorNotes T615	CL:0000000 (cell)
+T616	GO_CC 10916 10921	cells
+#616	AnnotatorNotes T616	GO:0005623 (cell)
+T617	italic 10935 10939	ESG1
+#617	AnnotatorNotes T617	italic (null)
+T618	EntrezGene 10935 10939	ESG1
+#618	AnnotatorNotes T618	EG:434423
+T619	PR 10935 10939	ESG1
+#619	AnnotatorNotes T619	PR:000006847 (developmental pluripotency-associated protein 5A)
+T620	sup 10939 10942	-/-
+#620	AnnotatorNotes T620	sup (null)
+T621	CL 10943 10948	cells
+#621	AnnotatorNotes T621	CL:0000000 (cell)
+T622	GO_CC 10943 10948	cells
+#622	AnnotatorNotes T622	GO:0005623 (cell)
+T623	GO_BP 10949 10963	differentiated
+#623	AnnotatorNotes T623	GO:0030154 (cell differentiation)
+T624	PR 10994 11020	leukemia inhibitory factor
+#624	AnnotatorNotes T624	PR:000009799 (leukemia inhibitory factor)
+T625	CHEBI 11036 11049	retinoic acid
+#625	AnnotatorNotes T625	CHEBI:26536 (retinoic acid)
+T626	NCBITaxon 11116 11120	mice
+#626	AnnotatorNotes T626	NCBITaxon:10088 (Mus)
+T627	CL 11128 11133	cells
+#627	AnnotatorNotes T627	CL:0000000 (cell)
+T628	GO_CC 11128 11133	cells
+#628	AnnotatorNotes T628	GO:0005623 (cell)
+T629	GO_BP 11134 11142	produced
+#629	AnnotatorNotes T629	GO:0032502 (developmental process)
+T630	EntrezGene 11249 11253	ESG1
+#630	AnnotatorNotes T630	EG:434423
+T631	PR 11249 11253	ESG1
+#631	AnnotatorNotes T631	PR:000006847 (developmental pluripotency-associated protein 5A)
+T632	GO_BP 11277 11289	self-renewal
+#632	AnnotatorNotes T632	GO:0017145 (stem cell division)
+T633	CL 11324 11329	cells
+#633	AnnotatorNotes T633	CL:0000000 (cell)
+T634	GO_CC 11324 11329	cells
+#634	AnnotatorNotes T634	GO:0005623 (cell)
+T635	bold 11342 11372	Analyses of ESG1-null ES cells
+#635	AnnotatorNotes T635	bold (null)
+T636	EntrezGene 11354 11358	ESG1
+#636	AnnotatorNotes T636	EG:434423
+T637	PR 11354 11358	ESG1
+#637	AnnotatorNotes T637	PR:000006847 (developmental pluripotency-associated protein 5A)
+T638	CL 11367 11372	cells
+#638	AnnotatorNotes T638	CL:0000000 (cell)
+T639	GO_CC 11367 11372	cells
+#639	AnnotatorNotes T639	GO:0005623 (cell)
+T640	EntrezGene 11395 11399	ESG1
+#640	AnnotatorNotes T640	EG:434423
+T641	PR 11395 11399	ESG1
+#641	AnnotatorNotes T641	PR:000006847 (developmental pluripotency-associated protein 5A)
+T642	CL 11408 11412	cell
+#642	AnnotatorNotes T642	CL:0000000 (cell)
+T643	GO_CC 11408 11412	cell
+#643	AnnotatorNotes T643	GO:0005623 (cell)
+T644	GO_BP 11422 11427	grown
+#644	AnnotatorNotes T644	GO:0040007 (growth)
+T645	CL 11442 11447	cells
+#645	AnnotatorNotes T645	CL:0000000 (cell)
+T646	GO_CC 11442 11447	cells
+#646	AnnotatorNotes T646	GO:0005623 (cell)
+T647	GO_BP 11452 11458	Growth
+#647	AnnotatorNotes T647	GO:0040007 (growth)
+T648	SO 11468 11477	wild-type
+#648	AnnotatorNotes T648	SO:0000817 (wild_type)
+T649	SO 11479 11481	WT
+#649	AnnotatorNotes T649	SO:0000817 (wild_type)
+T650	EntrezGene 11484 11488	ESG1
+#650	AnnotatorNotes T650	EG:434423
+T651	PR 11484 11488	ESG1
+#651	AnnotatorNotes T651	PR:000006847 (developmental pluripotency-associated protein 5A)
+T652	SO 11518 11519	+
+#652	AnnotatorNotes T652	SO:0000817 (wild_type)
+T653	CL 11526 11531	cells
+#653	AnnotatorNotes T653	CL:0000000 (cell)
+T654	GO_CC 11526 11531	cells
+#654	AnnotatorNotes T654	GO:0005623 (cell)
+T655	sup 11551 11552	4
+#655	AnnotatorNotes T655	sup (null)
+T656	CL 11553 11558	cells
+#656	AnnotatorNotes T656	CL:0000000 (cell)
+T657	GO_CC 11553 11558	cells
+#657	AnnotatorNotes T657	GO:0005623 (cell)
+T658	CL 11595 11599	Cell
+#658	AnnotatorNotes T658	CL:0000000 (cell)
+T659	GO_CC 11595 11599	Cell
+#659	AnnotatorNotes T659	GO:0005623 (cell)
+T660	SO 11676 11677	+
+#660	AnnotatorNotes T660	SO:0000817 (wild_type)
+T661	CL 11688 11693	cells
+#661	AnnotatorNotes T661	CL:0000000 (cell)
+T662	GO_CC 11688 11693	cells
+#662	AnnotatorNotes T662	GO:0005623 (cell)
+T663	EntrezGene 11807 11811	ESG1
+#663	AnnotatorNotes T663	EG:434423
+T664	PR 11807 11811	ESG1
+#664	AnnotatorNotes T664	PR:000006847 (developmental pluripotency-associated protein 5A)
+T665	CL 11820 11825	cells
+#665	AnnotatorNotes T665	CL:0000000 (cell)
+T666	GO_CC 11820 11825	cells
+#666	AnnotatorNotes T666	GO:0005623 (cell)
+T667	GO_BP 11875 11890	gene expression
+#667	AnnotatorNotes T667	GO:0010467 (gene expression)
+T668	SO 11875 11879	gene
+#668	AnnotatorNotes T668	SO:0000704 (gene)
+T669	italic 11903 11907	ESG1
+#669	AnnotatorNotes T669	italic (null)
+T670	PR 11903 11907	ESG1
+#670	AnnotatorNotes T670	PR:000006847 (developmental pluripotency-associated protein 5A)
+T671	EntrezGene 11903 11907	ESG1
+#671	AnnotatorNotes T671	EG:434423
+T672	sup 11907 11910	-/-
+#672	AnnotatorNotes T672	sup (null)
+T673	CL 11914 11919	cells
+#673	AnnotatorNotes T673	CL:0000000 (cell)
+T674	GO_CC 11914 11919	cells
+#674	AnnotatorNotes T674	GO:0005623 (cell)
+T675	SO 11926 11941	oligonucleotide
+#675	AnnotatorNotes T675	SO:0000696 (oligo)
+T676	SO 11948 11951	DNA
+#676	AnnotatorNotes T676	SO:0000352 (DNA)
+T677	SO 11985 11990	genes
+#677	AnnotatorNotes T677	SO:0000704 (gene)
+T678	CL 12020 12025	cells
+#678	AnnotatorNotes T678	CL:0000000 (cell)
+T679	GO_CC 12020 12025	cells
+#679	AnnotatorNotes T679	GO:0005623 (cell)
+T680	italic 12027 12031	ESG1
+#680	AnnotatorNotes T680	italic (null)
+T681	PR 12027 12031	ESG1
+#681	AnnotatorNotes T681	PR:000006847 (developmental pluripotency-associated protein 5A)
+T682	EntrezGene 12027 12031	ESG1
+#682	AnnotatorNotes T682	EG:434423
+T683	SO 12054 12058	gene
+#683	AnnotatorNotes T683	SO:0000704 (gene)
+T684	italic 12093 12097	ESG1
+#684	AnnotatorNotes T684	italic (null)
+T685	PR 12093 12097	ESG1
+#685	AnnotatorNotes T685	PR:000006847 (developmental pluripotency-associated protein 5A)
+T686	EntrezGene 12093 12097	ESG1
+#686	AnnotatorNotes T686	EG:434423
+T687	sup 12097 12100	-/-
+#687	AnnotatorNotes T687	sup (null)
+T688	CL 12104 12109	cells
+#688	AnnotatorNotes T688	CL:0000000 (cell)
+T689	GO_CC 12104 12109	cells
+#689	AnnotatorNotes T689	GO:0005623 (cell)
+T690	GO_BP 12127 12161	expression of ES cell marker genes
+#690	AnnotatorNotes T690	"expression of .. genes" GO:0010467 (gene expression)
+T691	CL 12144 12148	cell
+#691	AnnotatorNotes T691	CL:0000000 (cell)
+T692	GO_CC 12144 12148	cell
+#692	AnnotatorNotes T692	GO:0005623 (cell)
+T693	SO 12156 12161	genes
+#693	AnnotatorNotes T693	SO:0000704 (gene)
+T694	italic 12171 12176	Nanog
+#694	AnnotatorNotes T694	italic (null)
+T695	PR 12171 12176	Nanog
+#695	AnnotatorNotes T695	PR:000010968 (homeobox protein NANOG)
+T696	EntrezGene 12171 12176	Nanog
+#696	AnnotatorNotes T696	EG:71950
+T697	italic 12181 12187	Oct3/4
+#697	AnnotatorNotes T697	italic (null)
+T698	PR 12181 12187	Oct3/4
+#698	AnnotatorNotes T698	PR:000013044 (POU domain, class 5, transcription factor 1)
+T699	EntrezGene 12181 12187	Oct3/4
+#699	AnnotatorNotes T699	EG:18999
+T700	italic 12203 12207	ESG1
+#700	AnnotatorNotes T700	italic (null)
+T701	EntrezGene 12203 12207	ESG1
+#701	AnnotatorNotes T701	EG:434423
+T702	PR 12203 12207	ESG1
+#702	AnnotatorNotes T702	PR:000006847 (developmental pluripotency-associated protein 5A)
+T703	sup 12207 12210	-/-
+#703	AnnotatorNotes T703	sup (null)
+T704	CL 12214 12219	cells
+#704	AnnotatorNotes T704	CL:0000000 (cell)
+T705	GO_CC 12214 12219	cells
+#705	AnnotatorNotes T705	GO:0005623 (cell)
+T706	EntrezGene 12241 12247	Oct3/4
+#706	AnnotatorNotes T706	EG:18999
+T707	PR 12241 12247	Oct3/4
+#707	AnnotatorNotes T707	PR:000013044 (POU domain, class 5, transcription factor 1)
+T708	GO_BP 12248 12258	expression
+#708	AnnotatorNotes T708	GO:0010467 (gene expression)
+T709	CHEBI 12262 12269	protein
+#709	AnnotatorNotes T709	CHEBI:36080 (proteins)
+T710	GO_BP 12318 12333	gene expression
+#710	AnnotatorNotes T710	GO:0010467 (gene expression)
+T711	SO 12318 12322	gene
+#711	AnnotatorNotes T711	SO:0000704 (gene)
+T712	CL 12375 12380	cells
+#712	AnnotatorNotes T712	CL:0000000 (cell)
+T713	GO_CC 12375 12380	cells
+#713	AnnotatorNotes T713	GO:0005623 (cell)
+T714	italic 12385 12389	ESG1
+#714	AnnotatorNotes T714	italic (null)
+T715	PR 12385 12389	ESG1
+#715	AnnotatorNotes T715	PR:000006847 (developmental pluripotency-associated protein 5A)
+T716	EntrezGene 12385 12389	ESG1
+#716	AnnotatorNotes T716	EG:434423
+T717	sup 12389 12392	-/-
+#717	AnnotatorNotes T717	sup (null)
+T718	CL 12396 12401	cells
+#718	AnnotatorNotes T718	CL:0000000 (cell)
+T719	GO_CC 12396 12401	cells
+#719	AnnotatorNotes T719	GO:0005623 (cell)
+T720	SO 12411 12416	genes
+#720	AnnotatorNotes T720	SO:0000704 (gene)
+T721	italic 12464 12468	ESG1
+#721	AnnotatorNotes T721	italic (null)
+T722	EntrezGene 12464 12468	ESG1
+#722	AnnotatorNotes T722	EG:434423
+T723	PR 12464 12468	ESG1
+#723	AnnotatorNotes T723	PR:000006847 (developmental pluripotency-associated protein 5A)
+T724	sup 12468 12471	-/-
+#724	AnnotatorNotes T724	sup (null)
+T725	CL 12472 12477	cells
+#725	AnnotatorNotes T725	CL:0000000 (cell)
+T726	GO_CC 12472 12477	cells
+#726	AnnotatorNotes T726	GO:0005623 (cell)
+T727	italic 12489 12529	Krt1-8, Pem, Ctgf, Ptgs2, Igf2 and Inhba
+#727	AnnotatorNotes T727	italic (null)
+T728	EntrezGene 12489 12493	Krt1
+#728	AnnotatorNotes T728	EG:16678
+T729	PR 12489 12493	Krt1
+#729	AnnotatorNotes T729	PR:000009450 (keratin, type II cytoskeletal 1)
+T730	EntrezGene 12497 12500	Pem
+#730	AnnotatorNotes T730	EG:18617
+T731	PR 12497 12500	Pem
+#731	AnnotatorNotes T731	PR:000014397 (homeobox protein Rhox5)
+T732	EntrezGene 12502 12506	Ctgf
+#732	AnnotatorNotes T732	EG:14219
+T733	PR 12502 12506	Ctgf
+#733	AnnotatorNotes T733	PR:000003172 (connective tissue growth factor)
+T734	EntrezGene 12508 12513	Ptgs2
+#734	AnnotatorNotes T734	EG:19225
+T735	PR 12508 12513	Ptgs2
+#735	AnnotatorNotes T735	PR:000013428 (prostaglandin G/H synthase 2)
+T736	EntrezGene 12515 12519	Igf2
+#736	AnnotatorNotes T736	EG:16002
+T737	PR 12515 12519	Igf2
+#737	AnnotatorNotes T737	PR:000008942 (insulin-like growth factor II)
+T738	EntrezGene 12524 12529	Inhba
+#738	AnnotatorNotes T738	EG:16323
+T739	PR 12524 12529	Inhba
+#739	AnnotatorNotes T739	PR:000000216 (activin/inhibin beta A chain)
+T740	SO 12537 12542	genes
+#740	AnnotatorNotes T740	SO:0000704 (gene)
+T741	GO_BP 12552 12561	regulated
+#741	AnnotatorNotes T741	GO:0065007 (biological regulation)
+T742	EntrezGene 12588 12592	ESG1
+#742	AnnotatorNotes T742	EG:434423
+T743	PR 12588 12592	ESG1
+#743	AnnotatorNotes T743	PR:000006847 (developmental pluripotency-associated protein 5A)
+T744	EntrezGene 12600 12604	ESG1
+#744	AnnotatorNotes T744	EG:434423
+T745	PR 12600 12604	ESG1
+#745	AnnotatorNotes T745	PR:000006847 (developmental pluripotency-associated protein 5A)
+T746	GO_MF 12624 12635	RNA-binding
+#746	AnnotatorNotes T746	GO:0003723 (RNA binding)
+T747	SO 12624 12627	RNA
+#747	AnnotatorNotes T747	SO:0000356 (RNA)
+T748	SO 12636 12642	domain
+#748	AnnotatorNotes T748	SO:0000417 (polypeptide_domain)
+T749	GO_BP 12651 12660	stabilize
+#749	AnnotatorNotes T749	GO:0043489 (RNA stabilization)
+T750	CHEBI 12661 12665	mRNA
+#750	AnnotatorNotes T750	CHEBI:33699 (messenger RNA)
+T751	SO 12661 12665	mRNA
+#751	AnnotatorNotes T751	SO:0000234 (mRNA)
+T752	SO 12675 12680	genes
+#752	AnnotatorNotes T752	SO:0000704 (gene)
+T753	bold 12751 12797	Gene expression analyses of ESG1-null ES cells
+#753	AnnotatorNotes T753	bold (null)
+T754	GO_BP 12751 12766	Gene expression
+#754	AnnotatorNotes T754	GO:0010467 (gene expression)
+T755	SO 12751 12755	Gene
+#755	AnnotatorNotes T755	SO:0000704 (gene)
+T756	EntrezGene 12779 12783	ESG1
+#756	AnnotatorNotes T756	EG:434423
+T757	PR 12779 12783	ESG1
+#757	AnnotatorNotes T757	PR:000006847 (developmental pluripotency-associated protein 5A)
+T758	CL 12792 12797	cells
+#758	AnnotatorNotes T758	CL:0000000 (cell)
+T759	GO_CC 12792 12797	cells
+#759	AnnotatorNotes T759	GO:0005623 (cell)
+T760	SO 12802 12805	DNA
+#760	AnnotatorNotes T760	SO:0000352 (DNA)
+T761	SO 12833 12836	RNA
+#761	AnnotatorNotes T761	SO:0000356 (RNA)
+T762	SO 12842 12851	wild-type
+#762	AnnotatorNotes T762	SO:0000817 (wild_type)
+T763	CL 12855 12860	cells
+#763	AnnotatorNotes T763	CL:0000000 (cell)
+T764	GO_CC 12855 12860	cells
+#764	AnnotatorNotes T764	GO:0005623 (cell)
+T765	EntrezGene 12865 12869	ESG1
+#765	AnnotatorNotes T765	EG:434423
+T766	PR 12865 12869	ESG1
+#766	AnnotatorNotes T766	PR:000006847 (developmental pluripotency-associated protein 5A)
+T767	CL 12878 12883	cells
+#767	AnnotatorNotes T767	CL:0000000 (cell)
+T768	GO_CC 12878 12883	cells
+#768	AnnotatorNotes T768	GO:0005623 (cell)
+T769	GO_MF 12942 12952	hybridized
+#769	AnnotatorNotes T769	GO:0000739 (DNA strand annealing activity)
+T770	GO_MF 12942 12952	hybridized
+#770	AnnotatorNotes T770	GO:0033592 (RNA strand annealing activity)
+T771	NCBITaxon 12964 12969	Mouse
+#771	AnnotatorNotes T771	NCBITaxon:10088 (Mus)
+T772	GO_BP 12970 12983	Developmental
+#772	AnnotatorNotes T772	GO:0032502 (developmental process)
+T773	CL 13073 13077	Cell
+#773	AnnotatorNotes T773	CL:0000000 (cell)
+T774	GO_CC 13073 13077	Cell
+#774	AnnotatorNotes T774	GO:0005623 (cell)
+T775	EntrezGene 13091 13095	ESG1
+#775	AnnotatorNotes T775	EG:434423
+T776	PR 13091 13095	ESG1
+#776	AnnotatorNotes T776	PR:000006847 (developmental pluripotency-associated protein 5A)
+T777	sup 13095 13098	+/-
+#777	AnnotatorNotes T777	sup (null)
+T778	SO 13095 13096	+
+#778	AnnotatorNotes T778	SO:0000817 (wild_type)
+T779	EntrezGene 13103 13107	ESG1
+#779	AnnotatorNotes T779	EG:434423
+T780	PR 13103 13107	ESG1
+#780	AnnotatorNotes T780	PR:000006847 (developmental pluripotency-associated protein 5A)
+T781	sup 13107 13110	-/-
+#781	AnnotatorNotes T781	sup (null)
+T782	CL 13111 13116	cells
+#782	AnnotatorNotes T782	CL:0000000 (cell)
+T783	GO_CC 13111 13116	cells
+#783	AnnotatorNotes T783	GO:0005623 (cell)
+T784	GO_BP 13135 13145	expression
+#784	AnnotatorNotes T784	GO:0010467 (gene expression)
+T785	EntrezGene 13149 13153	ESG1
+#785	AnnotatorNotes T785	EG:434423
+T786	PR 13149 13153	ESG1
+#786	AnnotatorNotes T786	PR:000006847 (developmental pluripotency-associated protein 5A)
+T787	EntrezGene 13155 13161	Oct3/4
+#787	AnnotatorNotes T787	EG:18999
+T788	PR 13155 13161	Oct3/4
+#788	AnnotatorNotes T788	PR:000013044 (POU domain, class 5, transcription factor 1)
+T789	EntrezGene 13166 13170	CDK4
+#789	AnnotatorNotes T789	EG:12567
+T790	PR 13166 13170	CDK4
+#790	AnnotatorNotes T790	PR:000005257 (cell division protein kinase 4)
+T791	GO_BP 13196 13204	generate
+#791	AnnotatorNotes T791	GO:0000003 (reproduction)
+T792	EntrezGene 13205 13209	ESG1
+#792	AnnotatorNotes T792	EG:434423
+T793	PR 13205 13209	ESG1
+#793	AnnotatorNotes T793	PR:000006847 (developmental pluripotency-associated protein 5A)
+T794	NCBITaxon 13219 13223	mice
+#794	AnnotatorNotes T794	NCBITaxon:10088 (Mus)
+T795	italic 13243 13247	ESG1
+#795	AnnotatorNotes T795	italic (null)
+T796	EntrezGene 13243 13247	ESG1
+#796	AnnotatorNotes T796	EG:434423
+T797	PR 13243 13247	ESG1
+#797	AnnotatorNotes T797	PR:000006847 (developmental pluripotency-associated protein 5A)
+T798	sup 13247 13250	+/-
+#798	AnnotatorNotes T798	sup (null)
+T799	SO 13247 13248	+
+#799	AnnotatorNotes T799	SO:0000817 (wild_type)
+T800	CL 13254 13258	cell
+#800	AnnotatorNotes T800	CL:0000000 (cell)
+T801	GO_CC 13254 13258	cell
+#801	AnnotatorNotes T801	GO:0005623 (cell)
+T802	NCBITaxon 13297 13301	mice
+#802	AnnotatorNotes T802	NCBITaxon:10088 (Mus)
+T803	italic 13368 13372	ESG1
+#803	AnnotatorNotes T803	italic (null)
+T804	EntrezGene 13368 13372	ESG1
+#804	AnnotatorNotes T804	EG:434423
+T805	PR 13368 13372	ESG1
+#805	AnnotatorNotes T805	PR:000006847 (developmental pluripotency-associated protein 5A)
+T806	sup 13372 13375	-/-
+#806	AnnotatorNotes T806	sup (null)
+T807	NCBITaxon 13376 13380	mice
+#807	AnnotatorNotes T807	NCBITaxon:10088 (Mus)
+T808	independent_continuant 13409 13418	wild-type
+#808	AnnotatorNotes T808	independent_continuant
+T809	SO 13409 13418	wild-type
+#809	AnnotatorNotes T809	SO:0000817 (wild_type)
+T810	italic 13423 13427	ESG1
+#810	AnnotatorNotes T810	italic (null)
+T811	PR 13423 13427	ESG1
+#811	AnnotatorNotes T811	PR:000006847 (developmental pluripotency-associated protein 5A)
+T812	EntrezGene 13423 13427	ESG1
+#812	AnnotatorNotes T812	EG:434423
+T813	sup 13427 13430	+/-
+#813	AnnotatorNotes T813	sup (null)
+T814	SO 13427 13428	+
+#814	AnnotatorNotes T814	SO:0000817 (wild_type)
+T815	italic 13439 13443	ESG1
+#815	AnnotatorNotes T815	italic (null)
+T816	PR 13439 13443	ESG1
+#816	AnnotatorNotes T816	PR:000006847 (developmental pluripotency-associated protein 5A)
+T817	EntrezGene 13439 13443	ESG1
+#817	AnnotatorNotes T817	EG:434423
+T818	sup 13443 13446	-/-
+#818	AnnotatorNotes T818	sup (null)
+T819	italic 13469 13473	ESG1
+#819	AnnotatorNotes T819	italic (null)
+T820	EntrezGene 13469 13473	ESG1
+#820	AnnotatorNotes T820	EG:434423
+T821	PR 13469 13473	ESG1
+#821	AnnotatorNotes T821	PR:000006847 (developmental pluripotency-associated protein 5A)
+T822	sup 13473 13476	+/-
+#822	AnnotatorNotes T822	sup (null)
+T823	SO 13473 13474	+
+#823	AnnotatorNotes T823	SO:0000817 (wild_type)
+T824	NCBITaxon 13477 13481	mice
+#824	AnnotatorNotes T824	NCBITaxon:10088 (Mus)
+T825	NCBITaxon 13489 13496	animals
+#825	AnnotatorNotes T825	NCBITaxon:33208 (Metazoa)
+T826	GO_BP 13514 13525	development
+#826	AnnotatorNotes T826	GO:0032502 (developmental process)
+T827	EntrezGene 13696 13700	ESG1
+#827	AnnotatorNotes T827	EG:434423
+T828	PR 13696 13700	ESG1
+#828	AnnotatorNotes T828	PR:000006847 (developmental pluripotency-associated protein 5A)
+T829	NCBITaxon 13725 13730	mouse
+#829	AnnotatorNotes T829	NCBITaxon:10088 (Mus)
+T830	GO_BP 13731 13742	development
+#830	AnnotatorNotes T830	GO:0032502 (developmental process)
+T831	GO_BP 13747 13766	germ cell formation
+#831	AnnotatorNotes T831	GO:0007281 (germ cell development)
+T832	CL 13747 13756	germ cell
+#832	AnnotatorNotes T832	CL:0000586 (germ cell)
+T833	GO_CC 13752 13756	cell
+#833	AnnotatorNotes T833	GO:0005623 (cell)
+T834	GO_BP 13777 13786	generated
+#834	AnnotatorNotes T834	GO:0032502 (developmental process)
+T835	CL 13790 13795	cells
+#835	AnnotatorNotes T835	CL:0000000 (cell)
+T836	GO_CC 13790 13795	cells
+#836	AnnotatorNotes T836	GO:0005623 (cell)
+T837	italic 13841 13845	ESG1
+#837	AnnotatorNotes T837	italic (null)
+T838	PR 13841 13845	ESG1
+#838	AnnotatorNotes T838	PR:000006847 (developmental pluripotency-associated protein 5A)
+T839	EntrezGene 13841 13845	ESG1
+#839	AnnotatorNotes T839	EG:434423
+T840	sup 13845 13848	+/-
+#840	AnnotatorNotes T840	sup (null)
+T841	SO 13845 13846	+
+#841	AnnotatorNotes T841	SO:0000817 (wild_type)
+T842	italic 13859 13863	ESG1
+#842	AnnotatorNotes T842	italic (null)
+T843	EntrezGene 13859 13863	ESG1
+#843	AnnotatorNotes T843	EG:434423
+T844	PR 13859 13863	ESG1
+#844	AnnotatorNotes T844	PR:000006847 (developmental pluripotency-associated protein 5A)
+T845	sup 13863 13866	-/-
+#845	AnnotatorNotes T845	sup (null)
+T846	CL 13892 13896	cell
+#846	AnnotatorNotes T846	CL:0000000 (cell)
+T847	GO_CC 13892 13896	cell
+#847	AnnotatorNotes T847	GO:0005623 (cell)
+T848	GO_BP 13903 13914	established
+#848	AnnotatorNotes T848	GO:0032502 (developmental process)
+T849	italic 13932 13936	ESG1
+#849	AnnotatorNotes T849	italic (null)
+T850	PR 13932 13936	ESG1
+#850	AnnotatorNotes T850	PR:000006847 (developmental pluripotency-associated protein 5A)
+T851	EntrezGene 13932 13936	ESG1
+#851	AnnotatorNotes T851	EG:434423
+T852	sup 13936 13939	-/-
+#852	AnnotatorNotes T852	sup (null)
+T853	EntrezGene 13947 13951	ESG1
+#853	AnnotatorNotes T853	EG:434423
+T854	PR 13947 13951	ESG1
+#854	AnnotatorNotes T854	PR:000006847 (developmental pluripotency-associated protein 5A)
+T855	CL 13960 13965	cells
+#855	AnnotatorNotes T855	CL:0000000 (cell)
+T856	GO_CC 13960 13965	cells
+#856	AnnotatorNotes T856	GO:0005623 (cell)
+T857	GO_BP 13998 14011	proliferation
+#857	AnnotatorNotes T857	GO:0008283 (cell proliferation)
+T858	GO_BP 14017 14032	differentiation
+#858	AnnotatorNotes T858	GO:0030154 (cell differentiation)
+T859	EntrezGene 14062 14066	ESG1
+#859	AnnotatorNotes T859	EG:434423
+T860	PR 14062 14066	ESG1
+#860	AnnotatorNotes T860	PR:000006847 (developmental pluripotency-associated protein 5A)
+T861	CL 14088 14093	cells
+#861	AnnotatorNotes T861	CL:0000000 (cell)
+T862	GO_CC 14088 14093	cells
+#862	AnnotatorNotes T862	GO:0005623 (cell)
+T863	EntrezGene 14146 14150	ESG1
+#863	AnnotatorNotes T863	EG:434423
+T864	PR 14146 14150	ESG1
+#864	AnnotatorNotes T864	PR:000006847 (developmental pluripotency-associated protein 5A)
+T865	NCBITaxon 14170 14175	mouse
+#865	AnnotatorNotes T865	NCBITaxon:10088 (Mus)
+T866	SO 14176 14180	gene
+#866	AnnotatorNotes T866	SO:0000704 (gene)
+T867	GO_CC 14184 14194	chromosome
+#867	AnnotatorNotes T867	GO:0005694 (chromosome)
+T868	SO 14184 14194	chromosome
+#868	AnnotatorNotes T868	SO:0000340 (chromosome)
+T869	SO 14201 14208	deleted
+#869	AnnotatorNotes T869	SO:0000045 (delete)
+T870	GO_BP 14226 14239	recombination
+#870	AnnotatorNotes T870	GO:0006310 (DNA recombination)
+T871	CL 14246 14251	cells
+#871	AnnotatorNotes T871	CL:0000000 (cell)
+T872	GO_CC 14246 14251	cells
+#872	AnnotatorNotes T872	GO:0005623 (cell)
+T873	GO_BP 14270 14280	expression
+#873	AnnotatorNotes T873	GO:0010467 (gene expression)
+T874	CL 14299 14309	germ cells
+#874	AnnotatorNotes T874	CL:0000586 (germ cell)
+T875	GO_CC 14304 14309	cells
+#875	AnnotatorNotes T875	GO:0005623 (cell)
+T876	CL 14327 14332	cells
+#876	AnnotatorNotes T876	CL:0000000 (cell)
+T877	GO_CC 14327 14332	cells
+#877	AnnotatorNotes T877	GO:0005623 (cell)
+T878	EntrezGene 14361 14365	ESG1
+#878	AnnotatorNotes T878	EG:434423
+T879	PR 14361 14365	ESG1
+#879	AnnotatorNotes T879	PR:000006847 (developmental pluripotency-associated protein 5A)
+T880	NCBITaxon 14385 14390	mouse
+#880	AnnotatorNotes T880	NCBITaxon:10088 (Mus)
+T881	GO_BP 14391 14402	development
+#881	AnnotatorNotes T881	GO:0032502 (developmental process)
+T882	GO_BP 14404 14423	germ cell formation
+#882	AnnotatorNotes T882	GO:0007281 (germ cell development)
+T883	CL 14404 14413	germ cell
+#883	AnnotatorNotes T883	CL:0000586 (germ cell)
+T884	GO_CC 14409 14413	cell
+#884	AnnotatorNotes T884	GO:0005623 (cell)
+T885	GO_BP 14432 14449	cell self-renewal
+#885	AnnotatorNotes T885	GO:0017145 (stem cell division)
+T886	CL 14432 14436	cell
+#886	AnnotatorNotes T886	CL:0000000 (cell)
+T887	GO_CC 14432 14436	cell
+#887	AnnotatorNotes T887	GO:0005623 (cell)
+T888	SO 14492 14495	BAC
+#888	AnnotatorNotes T888	SO:0000153 (BAC)
+T889	SO 14496 14502	clones
+#889	AnnotatorNotes T889	SO:0000151 (clone)
+T890	EntrezGene 14518 14528	mouse ESG1
+#890	AnnotatorNotes T890	EG:434423
+T891	NCBITaxon 14518 14523	mouse
+#891	AnnotatorNotes T891	NCBITaxon:10088 (Mus)
+T892	italic 14524 14528	ESG1
+#892	AnnotatorNotes T892	italic (null)
+T893	PR 14524 14528	ESG1
+#893	AnnotatorNotes T893	PR:000006847 (developmental pluripotency-associated protein 5A)
+T894	SO 14529 14533	gene
+#894	AnnotatorNotes T894	SO:0000704 (gene)
+T895	SO 14547 14578	bacterial artificial chromosome
+#895	AnnotatorNotes T895	SO:0000153 (BAC)
+T896	NCBITaxon 14547 14556	bacterial
+#896	AnnotatorNotes T896	NCBITaxon:2 (Bacteria)
+T897	GO_CC 14568 14578	chromosome
+#897	AnnotatorNotes T897	GO:0005694 (chromosome)
+T898	SO 14580 14583	BAC
+#898	AnnotatorNotes T898	SO:0000153 (BAC)
+T899	SO 14585 14591	clones
+#899	AnnotatorNotes T899	SO:0000151 (clone)
+T900	EntrezGene 14603 14613	mouse ESG1
+#900	AnnotatorNotes T900	EG:434423
+T901	NCBITaxon 14603 14608	mouse
+#901	AnnotatorNotes T901	NCBITaxon:10088 (Mus)
+T902	italic 14609 14613	ESG1
+#902	AnnotatorNotes T902	italic (null)
+T903	PR 14609 14613	ESG1
+#903	AnnotatorNotes T903	PR:000006847 (developmental pluripotency-associated protein 5A)
+T904	SO 14614 14618	gene
+#904	AnnotatorNotes T904	SO:0000704 (gene)
+T905	NCBITaxon 14656 14661	mouse
+#905	AnnotatorNotes T905	NCBITaxon:10088 (Mus)
+T906	SO 14662 14665	BAC
+#906	AnnotatorNotes T906	SO:0000153 (BAC)
+T907	SO 14674 14677	DNA
+#907	AnnotatorNotes T907	SO:0000352 (DNA)
+T908	EntrezGene 14714 14718	pH34
+#908	AnnotatorNotes T908	EG:434423
+T909	PR 14714 14718	pH34
+#909	AnnotatorNotes T909	PR:000006847 (developmental pluripotency-associated protein 5A)
+T910	EntrezGene 14757 14761	pH34
+#910	AnnotatorNotes T910	EG:434423
+T911	PR 14757 14761	pH34
+#911	AnnotatorNotes T911	PR:000006847 (developmental pluripotency-associated protein 5A)
+T912	SO 14796 14803	primers
+#912	AnnotatorNotes T912	SO:0000112 (primer)
+T913	GO_MF 14815 14833	restriction enzyme
+#913	AnnotatorNotes T913	GO:0015666 (restriction endodeoxyribonuclease activity)
+T914	independent_continuant 14815 14833	restriction enzyme
+#914	AnnotatorNotes T914	independent_continuant
+T915	SO 14827 14833	enzyme
+#915	AnnotatorNotes T915	SO:0001185 (enzymatic)
+T916	GO_BP 14834 14843	digestion
+#916	AnnotatorNotes T916	GO:0009056 (catabolic process)
+T917	SO 14884 14887	BAC
+#917	AnnotatorNotes T917	SO:0000153 (BAC)
+T918	SO 14888 14894	clones
+#918	AnnotatorNotes T918	SO:0000151 (clone)
+T919	EntrezGene 14923 14927	pH34
+#919	AnnotatorNotes T919	EG:434423
+T920	PR 14923 14927	pH34
+#920	AnnotatorNotes T920	PR:000006847 (developmental pluripotency-associated protein 5A)
+T921	EntrezGene 14973 14977	pH34
+#921	AnnotatorNotes T921	EG:434423
+T922	PR 14973 14977	pH34
+#922	AnnotatorNotes T922	PR:000006847 (developmental pluripotency-associated protein 5A)
+T923	EntrezGene 15012 15016	pH34
+#923	AnnotatorNotes T923	EG:434423
+T924	PR 15012 15016	pH34
+#924	AnnotatorNotes T924	PR:000006847 (developmental pluripotency-associated protein 5A)
+T925	PR 15062 15066	pH34
+#925	AnnotatorNotes T925	PR:000006847 (developmental pluripotency-associated protein 5A)
+T926	EntrezGene 15109 15113	pH34
+#926	AnnotatorNotes T926	EG:434423
+T927	PR 15109 15113	pH34
+#927	AnnotatorNotes T927	PR:000006847 (developmental pluripotency-associated protein 5A)
+T928	SO 15153 15159	probes
+#928	AnnotatorNotes T928	SO:0000051 (probe)
+T929	GO_MF 15161 15174	Hybridization
+#929	AnnotatorNotes T929	GO:0033592 (RNA strand annealing activity)
+T930	GO_MF 15161 15174	Hybridization
+#930	AnnotatorNotes T930	GO:0000739 (DNA strand annealing activity)
+T931	SO 15186 15192	probes
+#931	AnnotatorNotes T931	SO:0000051 (probe)
+T932	italic 15230 15234	ESG1
+#932	AnnotatorNotes T932	italic (null)
+T933	EntrezGene 15230 15234	ESG1
+#933	AnnotatorNotes T933	EG:434423
+T934	PR 15230 15234	ESG1
+#934	AnnotatorNotes T934	PR:000006847 (developmental pluripotency-associated protein 5A)
+T935	SO 15235 15239	gene
+#935	AnnotatorNotes T935	SO:0000704 (gene)
+T936	SO 15243 15254	pseudogenes
+#936	AnnotatorNotes T936	SO:0000336 (pseudogene)
+T937	SO 15273 15279	region
+#937	AnnotatorNotes T937	SO:0000001 (region)
+T938	EntrezGene 15295 15305	mouse ESG1
+#938	AnnotatorNotes T938	EG:434423
+T939	NCBITaxon 15295 15300	mouse
+#939	AnnotatorNotes T939	NCBITaxon:10088 (Mus)
+T940	italic 15301 15305	ESG1
+#940	AnnotatorNotes T940	italic (null)
+T941	PR 15301 15305	ESG1
+#941	AnnotatorNotes T941	PR:000006847 (developmental pluripotency-associated protein 5A)
+T942	SO 15306 15310	gene
+#942	AnnotatorNotes T942	SO:0000704 (gene)
+T943	SO 15319 15337	3' flanking region
+#943	AnnotatorNotes T943	SO:0001417 (three_prime_flanking_region)
+T944	italic 15362 15365	Xho
+#944	AnnotatorNotes T944	italic (null)
+T945	italic 15367 15370	Sal
+#945	AnnotatorNotes T945	italic (null)
+T946	SO 15372 15380	fragment
+#946	AnnotatorNotes T946	SO:0000731 (fragmentary)
+T947	SO 15398 15404	vector
+#947	AnnotatorNotes T947	SO:0000440 (vector_replicon)
+T948	italic 15419 15423	Hind
+#948	AnnotatorNotes T948	italic (null)
+T949	italic 15431 15435	EcoR
+#949	AnnotatorNotes T949	italic (null)
+T950	GO_BP 15437 15445	digested
+#950	AnnotatorNotes T950	GO:0009056 (catabolic process)
+T951	SO 15446 15455	fragments
+#951	AnnotatorNotes T951	SO:0000731 (fragmentary)
+T952	SO 15464 15470	vector
+#952	AnnotatorNotes T952	SO:0000440 (vector_replicon)
+T953	italic 15543 15547	ESG1
+#953	AnnotatorNotes T953	italic (null)
+T954	EntrezGene 15543 15547	ESG1
+#954	AnnotatorNotes T954	EG:434423
+T955	PR 15543 15547	ESG1
+#955	AnnotatorNotes T955	PR:000006847 (developmental pluripotency-associated protein 5A)
+T956	SO 15548 15558	pseudogene
+#956	AnnotatorNotes T956	SO:0000336 (pseudogene)
+T957	SO 15567 15585	3' flanking region
+#957	AnnotatorNotes T957	SO:0001417 (three_prime_flanking_region)
+T958	italic 15596 15599	Not
+#958	AnnotatorNotes T958	italic (null)
+T959	italic 15601 15604	Xho
+#959	AnnotatorNotes T959	italic (null)
+T960	SO 15606 15614	fragment
+#960	AnnotatorNotes T960	SO:0000731 (fragmentary)
+T961	italic 15650 15654	BamH
+#961	AnnotatorNotes T961	italic (null)
+T962	italic 15660 15663	Pst
+#962	AnnotatorNotes T962	italic (null)
+T963	SO 15666 15675	fragments
+#963	AnnotatorNotes T963	SO:0000731 (fragmentary)
+T964	SO 15684 15690	vector
+#964	AnnotatorNotes T964	SO:0000440 (vector_replicon)
+T965	SO 15748 15756	sequence
+#965	AnnotatorNotes T965	SO:0000001 (region)
+T966	SO 15772 15791	5' flanking regions
+#966	AnnotatorNotes T966	SO:0001416 (five_prime_flanking_region)
+T967	italic 15799 15803	ESG1
+#967	AnnotatorNotes T967	italic (null)
+T968	PR 15799 15803	ESG1
+#968	AnnotatorNotes T968	PR:000006847 (developmental pluripotency-associated protein 5A)
+T969	EntrezGene 15799 15803	ESG1
+#969	AnnotatorNotes T969	EG:434423
+T970	SO 15804 15808	gene
+#970	AnnotatorNotes T970	SO:0000704 (gene)
+T971	SO 15825 15836	pseudogenes
+#971	AnnotatorNotes T971	SO:0000336 (pseudogene)
+T972	EntrezGene 15886 15890	pH34
+#972	AnnotatorNotes T972	EG:434423
+T973	PR 15886 15890	pH34
+#973	AnnotatorNotes T973	PR:000006847 (developmental pluripotency-associated protein 5A)
+T974	EntrezGene 15938 15942	pH34
+#974	AnnotatorNotes T974	EG:434423
+T975	PR 15938 15942	pH34
+#975	AnnotatorNotes T975	PR:000006847 (developmental pluripotency-associated protein 5A)
+T976	SO 15948 15955	primers
+#976	AnnotatorNotes T976	SO:0000112 (primer)
+T977	SO 15971 15979	sequence
+#977	AnnotatorNotes T977	SO:0000001 (region)
+T978	italic 16052 16055	Nsi
+#978	AnnotatorNotes T978	italic (null)
+T979	GO_BP 16057 16066	digensted
+#979	AnnotatorNotes T979	GO:0009056 (catabolic process)
+T980	italic 16076 16079	Xba
+#980	AnnotatorNotes T980	italic (null)
+T981	italic 16083 16086	Spe
+#981	AnnotatorNotes T981	italic (null)
+T982	italic 16090 16094	EcoR
+#982	AnnotatorNotes T982	italic (null)
+T983	italic 16102 16105	Pst
+#983	AnnotatorNotes T983	italic (null)
+T984	GO_BP 16107 16115	digested
+#984	AnnotatorNotes T984	GO:0009056 (catabolic process)
+T985	SO 16116 16125	fragments
+#985	AnnotatorNotes T985	SO:0000731 (fragmentary)
+T986	SO 16195 16203	fragment
+#986	AnnotatorNotes T986	SO:0000731 (fragmentary)
+T987	SO 16218 16236	5' flanking region
+#987	AnnotatorNotes T987	SO:0001416 (five_prime_flanking_region)
+T988	italic 16244 16248	ESG1
+#988	AnnotatorNotes T988	italic (null)
+T989	PR 16244 16248	ESG1
+#989	AnnotatorNotes T989	PR:000006847 (developmental pluripotency-associated protein 5A)
+T990	EntrezGene 16244 16248	ESG1
+#990	AnnotatorNotes T990	EG:434423
+T991	SO 16249 16253	gene
+#991	AnnotatorNotes T991	SO:0000704 (gene)
+T992	SO 16264 16272	fragment
+#992	AnnotatorNotes T992	SO:0000731 (fragmentary)
+T993	italic 16292 16295	Sac
+#993	AnnotatorNotes T993	italic (null)
+T994	GO_BP 16297 16305	digested
+#994	AnnotatorNotes T994	GO:0009056 (catabolic process)
+T995	SO 16359 16367	fragment
+#995	AnnotatorNotes T995	SO:0000731 (fragmentary)
+T996	SO 16389 16395	region
+#996	AnnotatorNotes T996	SO:0000001 (region)
+T997	SO 16409 16419	pseudogene
+#997	AnnotatorNotes T997	SO:0000336 (pseudogene)
+T998	GO_BP 16422 16434	Construction
+#998	AnnotatorNotes T998	GO:0009058 (biosynthetic process)
+T999	italic 16438 16442	ESG1
+#999	AnnotatorNotes T999	italic (null)
+T1000	PR 16438 16442	ESG1
+#1000	AnnotatorNotes T1000	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1001	EntrezGene 16438 16442	ESG1
+#1001	AnnotatorNotes T1001	EG:434423
+T1002	SO 16453 16460	vectors
+#1002	AnnotatorNotes T1002	SO:0000440 (vector_replicon)
+T1003	SO 16465 16473	replaced
+#1003	AnnotatorNotes T1003	SO:0000048 (substitute)
+T1004	italic 16485 16489	ESG1
+#1004	AnnotatorNotes T1004	italic (null)
+T1005	EntrezGene 16485 16489	ESG1
+#1005	AnnotatorNotes T1005	EG:434423
+T1006	PR 16485 16489	ESG1
+#1006	AnnotatorNotes T1006	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1007	SO 16490 16495	exons
+#1007	AnnotatorNotes T1007	SO:0000147 (exon)
+T1008	SO 16515 16522	vectors
+#1008	AnnotatorNotes T1008	SO:0000440 (vector_replicon)
+T1009	SO 16544 16548	IRES
+#1009	AnnotatorNotes T1009	SO:0000243 (internal_ribosome_entry_site)
+T1010	SO 16555 16563	cassette
+#1010	AnnotatorNotes T1010	SO:0005853 (gene_cassette)
+T1011	SO 16575 16579	IRES
+#1011	AnnotatorNotes T1011	SO:0000243 (internal_ribosome_entry_site)
+T1012	SO 16585 16593	cassette
+#1012	AnnotatorNotes T1012	SO:0005853 (gene_cassette)
+T1013	SO 16597 16605	promoter
+#1013	AnnotatorNotes T1013	SO:0000167 (promoter)
+T1014	EntrezGene 16689 16693	pH34
+#1014	AnnotatorNotes T1014	EG:434423
+T1015	PR 16689 16693	pH34
+#1015	AnnotatorNotes T1015	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1016	EntrezGene 16747 16751	pH34
+#1016	AnnotatorNotes T1016	EG:434423
+T1017	PR 16747 16751	pH34
+#1017	AnnotatorNotes T1017	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1018	SO 16805 16812	primers
+#1018	AnnotatorNotes T1018	SO:0000112 (primer)
+T1019	EntrezGene 16859 16863	pH34
+#1019	AnnotatorNotes T1019	EG:434423
+T1020	PR 16859 16863	pH34
+#1020	AnnotatorNotes T1020	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1021	EntrezGene 16917 16921	pH34
+#1021	AnnotatorNotes T1021	EG:434423
+T1022	PR 16917 16921	pH34
+#1022	AnnotatorNotes T1022	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1023	SO 16971 16978	primers
+#1023	AnnotatorNotes T1023	SO:0000112 (primer)
+T1024	SO 16984 16988	IRES
+#1024	AnnotatorNotes T1024	SO:0000243 (internal_ribosome_entry_site)
+T1025	SO 16998 17002	IRES
+#1025	AnnotatorNotes T1025	SO:0000243 (internal_ribosome_entry_site)
+T1026	SO 17008 17017	cassettes
+#1026	AnnotatorNotes T1026	SO:0005853 (gene_cassette)
+T1027	GO_BP 17023 17030	ligated
+#1027	AnnotatorNotes T1027	GO:0006266 (DNA ligation)
+T1028	SO 17054 17063	fragments
+#1028	AnnotatorNotes T1028	SO:0000731 (fragmentary)
+T1029	EntrezGene 17069 17085	diphtheria toxin
+#1029	AnnotatorNotes T1029	EG:2650491
+T1030	CHEBI 17080 17085	toxin
+#1030	AnnotatorNotes T1030	CHEBI:27026 (toxin)
+T1031	SO 17088 17096	cassette
+#1031	AnnotatorNotes T1031	SO:0005853 (gene_cassette)
+T1032	italic 17159 17162	Sac
+#1032	AnnotatorNotes T1032	italic (null)
+T1033	SO 17182 17189	vectors
+#1033	AnnotatorNotes T1033	SO:0000440 (vector_replicon)
+T1034	sup 17223 17224	7
+#1034	AnnotatorNotes T1034	sup (null)
+T1035	CL 17232 17237	cells
+#1035	AnnotatorNotes T1035	CL:0000000 (cell)
+T1036	GO_CC 17232 17237	cells
+#1036	AnnotatorNotes T1036	GO:0005623 (cell)
+T1037	SO 17251 17255	Gene
+#1037	AnnotatorNotes T1037	SO:0000704 (gene)
+T1038	GO_BP 17273 17284	Transfected
+#1038	AnnotatorNotes T1038	GO:0009294 (DNA mediated transformation)
+T1039	CL 17285 17290	cells
+#1039	AnnotatorNotes T1039	CL:0000000 (cell)
+T1040	GO_CC 17285 17290	cells
+#1040	AnnotatorNotes T1040	GO:0005623 (cell)
+T1041	CHEBI 17338 17350	hygromycin B
+#1041	AnnotatorNotes T1041	CHEBI:16976 (hygromycin B)
+T1042	SO 17366 17377	Genomic DNA
+#1042	AnnotatorNotes T1042	SO:0000991 (genomic_DNA)
+T1043	SO 17366 17373	Genomic
+#1043	AnnotatorNotes T1043	SO:0001026 (genome)
+T1044	CHEBI 17392 17404	hygromycin B
+#1044	AnnotatorNotes T1044	CHEBI:16976 (hygromycin B)
+T1045	GO_BP 17452 17465	recombination
+#1045	AnnotatorNotes T1045	GO:0006310 (DNA recombination)
+T1046	GO_BP 17528 17541	recombination
+#1046	AnnotatorNotes T1046	GO:0006310 (DNA recombination)
+T1047	CL 17546 17551	cells
+#1047	AnnotatorNotes T1047	CL:0000000 (cell)
+T1048	GO_CC 17546 17551	cells
+#1048	AnnotatorNotes T1048	GO:0005623 (cell)
+T1049	SO 17552 17563	genomic DNA
+#1049	AnnotatorNotes T1049	SO:0000991 (genomic_DNA)
+T1050	SO 17552 17559	genomic
+#1050	AnnotatorNotes T1050	SO:0001026 (genome)
+T1051	GO_BP 17593 17603	Cell Lysis
+#1051	AnnotatorNotes T1051	GO:0019835 (cytolysis)
+T1052	CL 17593 17597	Cell
+#1052	AnnotatorNotes T1052	CL:0000000 (cell)
+T1053	GO_CC 17593 17597	Cell
+#1053	AnnotatorNotes T1053	GO:0005623 (cell)
+T1054	SO 17662 17673	genomic DNA
+#1054	AnnotatorNotes T1054	SO:0000991 (genomic_DNA)
+T1055	SO 17662 17669	genomic
+#1055	AnnotatorNotes T1055	SO:0001026 (genome)
+T1056	GO_BP 17684 17692	digested
+#1056	AnnotatorNotes T1056	GO:0009056 (catabolic process)
+T1057	italic 17698 17701	Pst
+#1057	AnnotatorNotes T1057	italic (null)
+T1058	CHEBI 17730 17737	agarose
+#1058	AnnotatorNotes T1058	CHEBI:2511 (agarose)
+T1059	CHEBI 17763 17768	nylon
+#1059	AnnotatorNotes T1059	CHEBI:25614 (nylons)
+T1060	SO 17803 17805	bp
+#1060	AnnotatorNotes T1060	SO:0000028 (base_pair)
+T1061	SO 17809 17814	probe
+#1061	AnnotatorNotes T1061	SO:0000051 (probe)
+T1062	SO 17925 17932	primers
+#1062	AnnotatorNotes T1062	SO:0000112 (primer)
+T1063	SO 17938 17943	probe
+#1063	AnnotatorNotes T1063	SO:0000051 (probe)
+T1064	SO 17989 17998	wild-type
+#1064	AnnotatorNotes T1064	SO:0000817 (wild_type)
+T1065	SO 17999 18004	locus
+#1065	AnnotatorNotes T1065	SO:0000001 (region)
+T1066	SO 18035 18040	locus
+#1066	AnnotatorNotes T1066	SO:0000001 (region)
+T1067	SO 18074 18079	locus
+#1067	AnnotatorNotes T1067	SO:0000001 (region)
+T1068	SO 18081 18092	Genomic DNA
+#1068	AnnotatorNotes T1068	SO:0000991 (genomic_DNA)
+T1069	SO 18081 18088	Genomic
+#1069	AnnotatorNotes T1069	SO:0001026 (genome)
+T1070	GO_BP 18102 18110	digested
+#1070	AnnotatorNotes T1070	GO:0009056 (catabolic process)
+T1071	SO 18160 18162	bp
+#1071	AnnotatorNotes T1071	SO:0000028 (base_pair)
+T1072	SO 18166 18171	probe
+#1072	AnnotatorNotes T1072	SO:0000051 (probe)
+T1073	SO 18290 18297	primers
+#1073	AnnotatorNotes T1073	SO:0000112 (primer)
+T1074	SO 18303 18308	probe
+#1074	AnnotatorNotes T1074	SO:0000051 (probe)
+T1075	GO_MF 18309 18319	hybridized
+#1075	AnnotatorNotes T1075	GO:0000739 (DNA strand annealing activity)
+T1076	GO_MF 18309 18319	hybridized
+#1076	AnnotatorNotes T1076	GO:0033592 (RNA strand annealing activity)
+T1077	SO 18349 18358	wild-type
+#1077	AnnotatorNotes T1077	SO:0000817 (wild_type)
+T1078	SO 18359 18364	locus
+#1078	AnnotatorNotes T1078	SO:0000001 (region)
+T1079	SO 18397 18402	locus
+#1079	AnnotatorNotes T1079	SO:0000001 (region)
+T1080	SO 18437 18442	locus
+#1080	AnnotatorNotes T1080	SO:0000001 (region)
+T1081	GO_BP 18445 18490	Generation of anti-ESG1 polyclonal antibodies
+#1081	AnnotatorNotes T1081	"Generation of .. antibodies" GO:0002378 (immunoglobulin biosynthetic process)
+T1082	GO_BP 18445 18490	Generation of anti-ESG1 polyclonal antibodies
+#1082	AnnotatorNotes T1082	"Generation of .. antibodies" GO:0002377 (immunoglobulin production)
+T1083	EntrezGene 18464 18468	ESG1
+#1083	AnnotatorNotes T1083	EG:434423
+T1084	PR 18464 18468	ESG1
+#1084	AnnotatorNotes T1084	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1085	GO_CC 18480 18490	antibodies
+#1085	AnnotatorNotes T1085	GO:0019814 (immunoglobulin complex)
+T1086	SO 18496 18511	coding sequence
+#1086	AnnotatorNotes T1086	SO:0000316 (CDS)
+T1087	italic 18515 18519	Esg1
+#1087	AnnotatorNotes T1087	italic (null)
+T1088	EntrezGene 18515 18519	Esg1
+#1088	AnnotatorNotes T1088	EG:434423
+T1089	PR 18515 18519	Esg1
+#1089	AnnotatorNotes T1089	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1090	EntrezGene 18550 18554	pH34
+#1090	AnnotatorNotes T1090	EG:434423
+T1091	PR 18550 18554	pH34
+#1091	AnnotatorNotes T1091	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1092	EntrezGene 18607 18611	pH34
+#1092	AnnotatorNotes T1092	EG:434423
+T1093	PR 18607 18611	pH34
+#1093	AnnotatorNotes T1093	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1094	SO 18660 18667	primers
+#1094	AnnotatorNotes T1094	SO:0000112 (primer)
+T1095	GO_BP 18672 18681	construct
+#1095	AnnotatorNotes T1095	GO:0009058 (biosynthetic process)
+T1096	EntrezGene 18688 18692	pH34
+#1096	AnnotatorNotes T1096	EG:434423
+T1097	PR 18688 18692	pH34
+#1097	AnnotatorNotes T1097	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1098	SO 18708 18719	PCR product
+#1098	AnnotatorNotes T1098	SO:0000006 (PCR_product)
+T1099	EntrezGene 18768 18772	pH34
+#1099	AnnotatorNotes T1099	EG:434423
+T1100	PR 18768 18772	pH34
+#1100	AnnotatorNotes T1100	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1101	GO_BP 18820 18833	recombination
+#1101	AnnotatorNotes T1101	GO:0006310 (DNA recombination)
+T1102	GO_BP 18841 18853	introduction
+#1102	AnnotatorNotes T1102	GO:0009294 (DNA mediated transformation)
+T1103	GO_BP 18871 18881	expression
+#1103	AnnotatorNotes T1103	GO:0010467 (gene expression)
+T1104	SO 18882 18888	vector
+#1104	AnnotatorNotes T1104	SO:0000440 (vector_replicon)
+T1105	EntrezGene 18897 18901	pH34
+#1105	AnnotatorNotes T1105	EG:434423
+T1106	PR 18897 18901	pH34
+#1106	AnnotatorNotes T1106	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1107	italic 18915 18922	E. coli
+#1107	AnnotatorNotes T1107	italic (null)
+T1108	NCBITaxon 18915 18922	E. coli
+#1108	AnnotatorNotes T1108	NCBITaxon:562 (Escherichia coli)
+T1109	taxonomic_rank 18915 18922	E. coli
+#1109	AnnotatorNotes T1109	taxonomic_rank (null)
+T1110	GO_BP 18937 18948	recombinant
+#1110	AnnotatorNotes T1110	GO:0006310 (DNA recombination)
+T1111	GO_BP 18949 18967	protein production
+#1111	AnnotatorNotes T1111	GO:0006412 (translation)
+T1112	CHEBI 18949 18956	protein
+#1112	AnnotatorNotes T1112	CHEBI:36080 (proteins)
+T1113	CHEBI 19021 19030	Histidine
+#1113	AnnotatorNotes T1113	CHEBI:32535 (histidine residue)
+T1114	SO 19021 19030	Histidine
+#1114	AnnotatorNotes T1114	SO:0001452 (histidine)
+T1115	EntrezGene 19038 19042	ESG1
+#1115	AnnotatorNotes T1115	EG:434423
+T1116	PR 19038 19042	ESG1
+#1116	AnnotatorNotes T1116	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1117	CHEBI 19062 19064	Ni
+#1117	AnnotatorNotes T1117	CHEBI:28112 (nickel)
+T1118	CHEBI 19065 19086	nitrilotriacetic acid
+#1118	AnnotatorNotes T1118	CHEBI:44557 (nitrilotriacetic acid)
+T1119	CHEBI 19087 19094	agarose
+#1119	AnnotatorNotes T1119	CHEBI:2511 (agarose)
+T1120	GO_BP 19110 19120	denaturing
+#1120	AnnotatorNotes T1120	GO:0030164 (protein denaturation)
+T1121	CHEBI 19155 19159	urea
+#1121	AnnotatorNotes T1121	CHEBI:16199 (urea)
+T1122	CHEBI 19188 19192	urea
+#1122	AnnotatorNotes T1122	CHEBI:16199 (urea)
+T1123	GO_BP 19198 19209	recombinant
+#1123	AnnotatorNotes T1123	GO:0006310 (DNA recombination)
+T1124	CHEBI 19210 19218	proteins
+#1124	AnnotatorNotes T1124	CHEBI:36080 (proteins)
+T1125	NCBITaxon 19256 19263	rabbits
+#1125	AnnotatorNotes T1125	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1126	GO_BP 19267 19275	generate
+#1126	AnnotatorNotes T1126	GO:0009058 (biosynthetic process)
+T1127	EntrezGene 19281 19285	ESG1
+#1127	AnnotatorNotes T1127	EG:434423
+T1128	PR 19281 19285	ESG1
+#1128	AnnotatorNotes T1128	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1129	GO_CC 19297 19307	antibodies
+#1129	AnnotatorNotes T1129	GO:0019814 (immunoglobulin complex)
+T1130	CL 19348 19352	cell
+#1130	AnnotatorNotes T1130	CL:0000000 (cell)
+T1131	GO_CC 19348 19352	cell
+#1131	AnnotatorNotes T1131	GO:0005623 (cell)
+T1132	CL 19383 19391	cellular
+#1132	AnnotatorNotes T1132	CL:0000000 (cell)
+T1133	GO_CC 19383 19391	cellular
+#1133	AnnotatorNotes T1133	GO:0005623 (cell)
+T1134	CHEBI 19392 19400	proteins
+#1134	AnnotatorNotes T1134	CHEBI:36080 (proteins)
+T1135	CHEBI 19419 19441	sodium dodecyl sulfate
+#1135	AnnotatorNotes T1135	CHEBI:8984 (sodium dodecyl sulfate)
+T1136	CHEBI 19419 19425	sodium
+#1136	AnnotatorNotes T1136	CHEBI:26708 (sodium)
+T1137	CHEBI 19426 19441	dodecyl sulfate
+#1137	AnnotatorNotes T1137	CHEBI:23872 (dodecyl sulfate)
+T1138	CHEBI 19426 19433	dodecyl
+#1138	AnnotatorNotes T1138	CHEBI:23870 (dodecyl group)
+T1139	CHEBI 19434 19441	sulfate
+#1139	AnnotatorNotes T1139	CHEBI:45536 (sulfonato group)
+T1140	CHEBI 19443 19446	SDS
+#1140	AnnotatorNotes T1140	CHEBI:8984 (sodium dodecyl sulfate)
+T1141	EntrezGene 19564 19568	ESG1
+#1141	AnnotatorNotes T1141	EG:434423
+T1142	PR 19564 19568	ESG1
+#1142	AnnotatorNotes T1142	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1143	PR 19592 19598	Oct3/4
+#1143	AnnotatorNotes T1143	PR:000013044 (POU domain, class 5, transcription factor 1)
+T1144	PR 19639 19643	CDK4
+#1144	AnnotatorNotes T1144	PR:000005257 (cell division protein kinase 4)
+T1145	GO_CC 19714 19724	antibodies
+#1145	AnnotatorNotes T1145	GO:0019814 (immunoglobulin complex)
+T1146	NCBITaxon 19726 19737	Horseradish
+#1146	AnnotatorNotes T1146	NCBITaxon:3704 (Armoracia rusticana)
+T1147	GO_MF 19738 19748	peroxidase
+#1147	AnnotatorNotes T1147	GO:0004601 (peroxidase activity)
+T1148	independent_continuant 19738 19748	peroxidase
+#1148	AnnotatorNotes T1148	independent_continuant
+T1149	GO_BP 19749 19759	conjugated
+#1149	AnnotatorNotes T1149	GO:0043412 (biopolymer modification)
+T1150	NCBITaxon 19765 19771	rabbit
+#1150	AnnotatorNotes T1150	NCBITaxon:9986 (Oryctolagus cuniculus)
+T1151	NCBITaxon 19781 19786	mouse
+#1151	AnnotatorNotes T1151	NCBITaxon:10088 (Mus)
+T1152	GO_CC 19787 19802	immunoglobulins
+#1152	AnnotatorNotes T1152	GO:0019814 (immunoglobulin complex)
+T1153	CL 19812 19816	Cell
+#1153	AnnotatorNotes T1153	CL:0000000 (cell)
+T1154	GO_CC 19812 19816	Cell
+#1154	AnnotatorNotes T1154	GO:0005623 (cell)
+T1155	GO_BP 19817 19826	Signaling
+#1155	AnnotatorNotes T1155	GO:0007165 (signal transduction)
+T1156	GO_MF 19848 19864	antibody binding
+#1156	AnnotatorNotes T1156	GO:0019865 (immunoglobulin binding)
+T1157	GO_CC 19848 19856	antibody
+#1157	AnnotatorNotes T1157	GO:0019814 (immunoglobulin complex)
+T1158	GO_MF 19880 19885	bound
+#1158	AnnotatorNotes T1158	GO:0005488 (binding)
+T1159	GO_CC 19886 19894	antibody
+#1159	AnnotatorNotes T1159	GO:0019814 (immunoglobulin complex)
+T1160	EntrezGene 19968 19972	ESG1
+#1160	AnnotatorNotes T1160	EG:434423
+T1161	PR 19968 19972	ESG1
+#1161	AnnotatorNotes T1161	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1162	CL 19986 19991	cells
+#1162	AnnotatorNotes T1162	CL:0000000 (cell)
+T1163	GO_CC 19986 19991	cells
+#1163	AnnotatorNotes T1163	GO:0005623 (cell)
+T1164	italic 20010 20014	Esg1
+#1164	AnnotatorNotes T1164	italic (null)
+T1165	PR 20010 20014	Esg1
+#1165	AnnotatorNotes T1165	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1166	EntrezGene 20010 20014	Esg1
+#1166	AnnotatorNotes T1166	EG:434423
+T1167	sup 20014 20017	+/-
+#1167	AnnotatorNotes T1167	sup (null)
+T1168	SO 20014 20015	+
+#1168	AnnotatorNotes T1168	SO:0000817 (wild_type)
+T1169	italic 20017 20024	or ESG1
+#1169	AnnotatorNotes T1169	italic (null)
+T1170	EntrezGene 20020 20024	ESG1
+#1170	AnnotatorNotes T1170	EG:434423
+T1171	PR 20020 20024	ESG1
+#1171	AnnotatorNotes T1171	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1172	sup 20024 20027	-/-
+#1172	AnnotatorNotes T1172	sup (null)
+T1173	SO 20028 20034	mutant
+#1173	AnnotatorNotes T1173	SO:0001059 (sequence_alteration)
+T1174	NCBITaxon 20042 20046	mice
+#1174	AnnotatorNotes T1174	NCBITaxon:10088 (Mus)
+T1175	CHEBI 20066 20075	Tamoxifen
+#1175	AnnotatorNotes T1175	CHEBI:41774 (tamoxifen)
+T1176	GO_BP 20143 20152	pregnancy
+#1176	AnnotatorNotes T1176	GO:0007565 (female pregnancy)
+T1177	CL 20249 20254	cells
+#1177	AnnotatorNotes T1177	CL:0000000 (cell)
+T1178	GO_CC 20249 20254	cells
+#1178	AnnotatorNotes T1178	GO:0005623 (cell)
+T1179	NCBITaxon 20346 20352	Bovine
+#1179	AnnotatorNotes T1179	NCBITaxon:27592 (Bovinae)
+T1180	CHEBI 20391 20402	Amino Acids
+#1180	AnnotatorNotes T1180	CHEBI:33709 (amino acids)
+T1181	SO 20391 20402	Amino Acids
+#1181	AnnotatorNotes T1181	SO:0001237 (amino_acid)
+T1182	CHEBI 20391 20396	Amino
+#1182	AnnotatorNotes T1182	CHEBI:46882 (amino group)
+T1183	CHEBI 20422 20433	L-glutamine
+#1183	AnnotatorNotes T1183	CHEBI:18050 (L-glutamine)
+T1184	CHEBI 20456 20466	Penicillin
+#1184	AnnotatorNotes T1184	CHEBI:17334 (penicillins)
+T1185	CHEBI 20467 20479	Streptomysin
+#1185	AnnotatorNotes T1185	CHEBI:17076 (streptomycin)
+T1186	CHEBI 20506 20523	2-mercaptoethanol
+#1186	AnnotatorNotes T1186	CHEBI:41218 (mercaptoethanol)
+T1187	GO_MF 20641 20648	trypsin
+#1187	AnnotatorNotes T1187	GO:0004295 (trypsin activity)
+T1188	independent_continuant 20641 20648	trypsin
+#1188	AnnotatorNotes T1188	independent_continuant
+T1189	CL 20672 20676	cell
+#1189	AnnotatorNotes T1189	CL:0000000 (cell)
+T1190	GO_CC 20672 20676	cell
+#1190	AnnotatorNotes T1190	GO:0005623 (cell)
+T1191	GO_MF 20793 20800	trypsin
+#1191	AnnotatorNotes T1191	GO:0004295 (trypsin activity)
+T1192	independent_continuant 20793 20800	trypsin
+#1192	AnnotatorNotes T1192	independent_continuant
+T1193	CL 20806 20811	cells
+#1193	AnnotatorNotes T1193	CL:0000000 (cell)
+T1194	GO_CC 20806 20811	cells
+#1194	AnnotatorNotes T1194	GO:0005623 (cell)
+T1195	CL 20910 20914	cell
+#1195	AnnotatorNotes T1195	CL:0000000 (cell)
+T1196	GO_CC 20910 20914	cell
+#1196	AnnotatorNotes T1196	GO:0005623 (cell)
+T1197	CL 21004 21008	cell
+#1197	AnnotatorNotes T1197	CL:0000000 (cell)
+T1198	GO_CC 21004 21008	cell
+#1198	AnnotatorNotes T1198	GO:0005623 (cell)
+T1199	CL 21029 21034	cells
+#1199	AnnotatorNotes T1199	CL:0000000 (cell)
+T1200	GO_CC 21029 21034	cells
+#1200	AnnotatorNotes T1200	GO:0005623 (cell)
+T1201	SO 21110 21113	RNA
+#1201	AnnotatorNotes T1201	SO:0000356 (RNA)
+T1202	SO 21119 21128	wild-type
+#1202	AnnotatorNotes T1202	SO:0000817 (wild_type)
+T1203	CL 21132 21137	cells
+#1203	AnnotatorNotes T1203	CL:0000000 (cell)
+T1204	GO_CC 21132 21137	cells
+#1204	AnnotatorNotes T1204	GO:0005623 (cell)
+T1205	EntrezGene 21142 21146	ESG1
+#1205	AnnotatorNotes T1205	EG:434423
+T1206	PR 21142 21146	ESG1
+#1206	AnnotatorNotes T1206	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1207	sup 21146 21149	-/-
+#1207	AnnotatorNotes T1207	sup (null)
+T1208	CL 21153 21158	cells
+#1208	AnnotatorNotes T1208	CL:0000000 (cell)
+T1209	GO_CC 21153 21158	cells
+#1209	AnnotatorNotes T1209	GO:0005623 (cell)
+T1210	GO_MF 21220 21230	hybridized
+#1210	AnnotatorNotes T1210	GO:0000739 (DNA strand annealing activity)
+T1211	GO_MF 21220 21230	hybridized
+#1211	AnnotatorNotes T1211	GO:0033592 (RNA strand annealing activity)
+T1212	NCBITaxon 21236 21241	Mouse
+#1212	AnnotatorNotes T1212	NCBITaxon:10088 (Mus)
+T1213	GO_BP 21242 21253	Development
+#1213	AnnotatorNotes T1213	GO:0032502 (developmental process)
+T1214	GO_MF 21390 21403	Hybridization
+#1214	AnnotatorNotes T1214	GO:0000739 (DNA strand annealing activity)
+T1215	GO_MF 21390 21403	Hybridization
+#1215	AnnotatorNotes T1215	GO:0033592 (RNA strand annealing activity)
+T1216	EntrezGene 21576 21580	ESG1
+#1216	AnnotatorNotes T1216	EG:434423
+T1217	PR 21576 21580	ESG1
+#1217	AnnotatorNotes T1217	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1218	NCBITaxon 21590 21594	mice
+#1218	AnnotatorNotes T1218	NCBITaxon:10088 (Mus)
+T1219	SO 21614 21639	chromosomal localizations
+#1219	AnnotatorNotes T1219	SO:0000830 (chromosome_part)
+T1220	GO_CC 21614 21625	chromosomal
+#1220	AnnotatorNotes T1220	GO:0005694 (chromosome)
+T1221	SO 21614 21625	chromosomal
+#1221	AnnotatorNotes T1221	SO:0000340 (chromosome)
+T1222	EntrezGene 21647 21651	ESG1
+#1222	AnnotatorNotes T1222	EG:434423
+T1223	PR 21647 21651	ESG1
+#1223	AnnotatorNotes T1223	PR:000006847 (developmental pluripotency-associated protein 5A)
+T1224	SO 21652 21656	gene
+#1224	AnnotatorNotes T1224	SO:0000704 (gene)
+T1225	SO 21661 21672	pseudogenes
+#1225	AnnotatorNotes T1225	SO:0000336 (pseudogene)
+T1226	GO_BP 21677 21688	constructed
+#1226	AnnotatorNotes T1226	GO:0009058 (biosynthetic process)
+T1227	SO 21703 21709	vector
+#1227	AnnotatorNotes T1227	SO:0000440 (vector_replicon)
+T1228	NCBITaxon 21726 21731	mouse
+#1228	AnnotatorNotes T1228	NCBITaxon:10088 (Mus)
+T1229	CL 21778 21782	cell
+#1229	AnnotatorNotes T1229	CL:0000000 (cell)
+T1230	GO_CC 21778 21782	cell
+#1230	AnnotatorNotes T1230	GO:0005623 (cell)
+T1231	SO 22260 22267	vectors
+#1231	AnnotatorNotes T1231	SO:0000440 (vector_replicon)
+T1232	CL 22327 22332	cells
+#1232	AnnotatorNotes T1232	CL:0000000 (cell)
+T1233	GO_CC 22327 22332	cells
+#1233	AnnotatorNotes T1233	GO:0005623 (cell)

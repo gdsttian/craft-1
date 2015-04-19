@@ -1,0 +1,3668 @@
+T1	GO_CC 0 5	CAF-1
+#1	AnnotatorNotes T1	GO:0033186 (CAF-1 complex)
+T2	GO_CC 23 38	Heterochromatin
+#2	AnnotatorNotes T2	GO:0000792 (heterochromatin)
+T3	CL 77 82	Cells
+#3	AnnotatorNotes T3	CL:0000000 (cell)
+T4	GO_CC 77 82	Cells
+#4	AnnotatorNotes T4	GO:0005623 (cell)
+T5	NCBITaxon 101 110	mammalian
+#5	AnnotatorNotes T5	NCBITaxon:40674 (Mammalia)
+T6	GO_BP 111 122	development
+#6	AnnotatorNotes T6	GO:0032502 (developmental process)
+T7	GO_CC 124 133	chromatin
+#7	AnnotatorNotes T7	GO:0000785 (chromatin)
+T8	SO 184 190	genome
+#8	AnnotatorNotes T8	SO:0001026 (genome)
+T9	GO_BP 252 270	chromatin assembly
+#9	AnnotatorNotes T9	GO:0031497 (chromatin assembly)
+T10	GO_CC 252 261	chromatin
+#10	AnnotatorNotes T10	GO:0000785 (chromatin)
+T11	GO_CC 321 348	chromatin assembly factor 1
+#11	AnnotatorNotes T11	GO:0033186 (CAF-1 complex)
+T12	GO_BP 321 339	chromatin assembly
+#12	AnnotatorNotes T12	GO:0031497 (chromatin assembly)
+T13	GO_CC 321 330	chromatin
+#13	AnnotatorNotes T13	GO:0000785 (chromatin)
+T14	GO_CC 350 355	CAF-1
+#14	AnnotatorNotes T14	GO:0033186 (CAF-1 complex)
+T15	GO_BP 368 380	implantation
+#15	AnnotatorNotes T15	GO:0007566 (embryo implantation)
+T16	GO_BP 381 392	development
+#16	AnnotatorNotes T16	GO:0032502 (developmental process)
+T17	GO_BP 397 406	generated
+#17	AnnotatorNotes T17	GO:0000003 (reproduction)
+T18	NCBITaxon 409 414	mouse
+#18	AnnotatorNotes T18	NCBITaxon:10088 (Mus)
+T19	SO 440 448	mutation
+#19	AnnotatorNotes T19	SO:0001059 (sequence_alteration)
+T20	SO 456 460	gene
+#20	AnnotatorNotes T20	SO:0000704 (gene)
+T21	EntrezGene 489 498	p150CAF-1
+#21	AnnotatorNotes T21	EG:27221
+T22	PR 489 498	p150CAF-1
+#22	AnnotatorNotes T22	PR:000005402 (chromatin assembly factor 1 subunit A)
+T23	EntrezGene 508 517	p150CAF-1
+#23	AnnotatorNotes T23	EG:27221
+T24	PR 508 517	p150CAF-1
+#24	AnnotatorNotes T24	PR:000005402 (chromatin assembly factor 1 subunit A)
+T25	SO 532 539	mutants
+#25	AnnotatorNotes T25	SO:0001059 (sequence_alteration)
+T26	independent_continuant 532 539	mutants
+#26	AnnotatorNotes T26	independent_continuant
+T27	GO_BP 549 562	developmental
+#27	AnnotatorNotes T27	GO:0032502 (developmental process)
+T28	CL 580 584	cell
+#28	AnnotatorNotes T28	CL:0000000 (cell)
+T29	GO_CC 580 584	cell
+#29	AnnotatorNotes T29	GO:0005623 (cell)
+T30	EntrezGene 603 612	p150CAF-1
+#30	AnnotatorNotes T30	EG:27221
+T31	PR 603 612	p150CAF-1
+#31	AnnotatorNotes T31	PR:000005402 (chromatin assembly factor 1 subunit A)
+T32	GO_CC 667 674	nuclear
+#32	AnnotatorNotes T32	GO:0005634 (nucleus)
+T33	GO_CC 704 719	heterochromatin
+#33	AnnotatorNotes T33	GO:0000792 (heterochromatin)
+T34	SO 749 758	wild-type
+#34	AnnotatorNotes T34	SO:0000817 (wild_type)
+T35	GO_CC 768 791	heterochromatin domains
+#35	AnnotatorNotes T35	GO:0000792 (heterochromatin)
+T36	SO 784 791	domains
+#36	AnnotatorNotes T36	SO:0000001 (region)
+T37	CL 836 840	cell
+#37	AnnotatorNotes T37	CL:0000000 (cell)
+T38	GO_CC 836 840	cell
+#38	AnnotatorNotes T38	GO:0005623 (cell)
+T39	EntrezGene 867 876	p150CAF-1
+#39	AnnotatorNotes T39	EG:27221
+T40	PR 867 876	p150CAF-1
+#40	AnnotatorNotes T40	PR:000005402 (chromatin assembly factor 1 subunit A)
+T41	SO 877 883	mutant
+#41	AnnotatorNotes T41	SO:0001059 (sequence_alteration)
+T42	CL 887 891	cell
+#42	AnnotatorNotes T42	CL:0000000 (cell)
+T43	GO_CC 887 891	cell
+#43	AnnotatorNotes T43	GO:0005623 (cell)
+T44	GO_CC 935 950	heterochromatin
+#44	AnnotatorNotes T44	GO:0000792 (heterochromatin)
+T45	GO_CC 993 1008	heterochromatin
+#45	AnnotatorNotes T45	GO:0000792 (heterochromatin)
+T46	CL 1025 1029	cell
+#46	AnnotatorNotes T46	CL:0000000 (cell)
+T47	GO_CC 1025 1029	cell
+#47	AnnotatorNotes T47	GO:0005623 (cell)
+T48	SO 1036 1045	wild-type
+#48	AnnotatorNotes T48	SO:0000817 (wild_type)
+T49	GO_CC 1071 1076	CAF-1
+#49	AnnotatorNotes T49	GO:0033186 (CAF-1 complex)
+T50	GO_CC 1111 1126	heterochromatin
+#50	AnnotatorNotes T50	GO:0000792 (heterochromatin)
+T51	GO_BP 1150 1161	development
+#51	AnnotatorNotes T51	GO:0032502 (developmental process)
+T52	CL 1176 1186	stem cells
+#52	AnnotatorNotes T52	CL:0000034 (stem cell)
+T53	GO_CC 1181 1186	cells
+#53	AnnotatorNotes T53	GO:0005623 (cell)
+T54	EntrezGene 1201 1210	p150CAF-1
+#54	AnnotatorNotes T54	EG:27221
+T55	PR 1201 1210	p150CAF-1
+#55	AnnotatorNotes T55	PR:000005402 (chromatin assembly factor 1 subunit A)
+T56	GO_BP 1217 1233	RNA interference
+#56	AnnotatorNotes T56	GO:0016246 (RNA interference)
+T57	SO 1217 1220	RNA
+#57	AnnotatorNotes T57	SO:0000356 (RNA)
+T58	GO_BP 1290 1304	decondensation
+#58	AnnotatorNotes T58	GO:0051312 (chromosome decondensation)
+T59	GO_CC 1308 1343	pericentric heterochromatin domains
+#59	AnnotatorNotes T59	GO:0005721 (centric heterochromatin)
+T60	GO_CC 1308 1319	pericentric
+#60	AnnotatorNotes T60	GO:0000775 (chromosome, pericentric region)
+T61	SO 1336 1343	domains
+#61	AnnotatorNotes T61	SO:0000001 (region)
+T62	GO_CC 1366 1371	CAF-1
+#62	AnnotatorNotes T62	GO:0033186 (CAF-1 complex)
+T63	CL 1381 1386	cells
+#63	AnnotatorNotes T63	CL:0000000 (cell)
+T64	GO_CC 1381 1386	cells
+#64	AnnotatorNotes T64	GO:0005623 (cell)
+T65	GO_BP 1427 1446	histone methylation
+#65	AnnotatorNotes T65	GO:0016571 (histone methylation)
+T66	CHEBI 1427 1434	histone
+#66	AnnotatorNotes T66	CHEBI:15358 (histone)
+T67	GO_CC 1469 1496	pericentric heterochromatin
+#67	AnnotatorNotes T67	GO:0005721 (centric heterochromatin)
+T68	GO_CC 1469 1480	pericentric
+#68	AnnotatorNotes T68	GO:0000775 (chromosome, pericentric region)
+T69	GO_CC 1519 1534	heterochromatin
+#69	AnnotatorNotes T69	GO:0000792 (heterochromatin)
+T70	EntrezGene 1552 1561	p150CAF-1
+#70	AnnotatorNotes T70	EG:27221
+T71	PR 1552 1561	p150CAF-1
+#71	AnnotatorNotes T71	PR:000005402 (chromatin assembly factor 1 subunit A)
+T72	NCBITaxon 1571 1576	mouse
+#72	AnnotatorNotes T72	NCBITaxon:10088 (Mus)
+T73	CL 1587 1598	fibroblasts
+#73	AnnotatorNotes T73	CL:0000057 (fibroblast)
+T74	CL 1610 1615	cells
+#74	AnnotatorNotes T74	CL:0000000 (cell)
+T75	GO_CC 1610 1615	cells
+#75	AnnotatorNotes T75	GO:0005623 (cell)
+T76	GO_BP 1633 1650	lineage committed
+#76	AnnotatorNotes T76	GO:0045165 (cell fate commitment)
+T77	GO_CC 1668 1673	CAF-1
+#77	AnnotatorNotes T77	GO:0033186 (CAF-1 complex)
+T78	GO_CC 1703 1718	heterochromatin
+#78	AnnotatorNotes T78	GO:0000792 (heterochromatin)
+T79	CL 1757 1762	cells
+#79	AnnotatorNotes T79	CL:0000000 (cell)
+T80	GO_CC 1757 1762	cells
+#80	AnnotatorNotes T80	GO:0005623 (cell)
+T81	GO_BP 1803 1821	chromatin assembly
+#81	AnnotatorNotes T81	GO:0031497 (chromatin assembly)
+T82	GO_CC 1803 1812	chromatin
+#82	AnnotatorNotes T82	GO:0000785 (chromatin)
+T83	GO_BP 1835 1846	controlling
+#83	AnnotatorNotes T83	GO:0065007 (biological regulation)
+T84	SO 1902 1908	genome
+#84	AnnotatorNotes T84	SO:0001026 (genome)
+T85	CL 1940 1950	stem cells
+#85	AnnotatorNotes T85	CL:0000034 (stem cell)
+T86	GO_CC 1945 1950	cells
+#86	AnnotatorNotes T86	GO:0005623 (cell)
+T87	GO_CC 1963 1972	Chromatin
+#87	AnnotatorNotes T87	GO:0000785 (chromatin)
+T88	SO 1995 2002	genetic
+#88	AnnotatorNotes T88	SO:0000704 (gene)
+T89	GO_CC 2065 2076	nucleosomes
+#89	AnnotatorNotes T89	GO:0000786 (nucleosome)
+T90	SO 2087 2090	DNA
+#90	AnnotatorNotes T90	SO:0000352 (DNA)
+T91	CHEBI 2114 2130	histone proteins
+#91	AnnotatorNotes T91	CHEBI:15358 (histone)
+T92	CHEBI 2122 2130	proteins
+#92	AnnotatorNotes T92	CHEBI:36080 (proteins)
+T93	GO_CC 2195 2206	nucleosomes
+#93	AnnotatorNotes T93	GO:0000786 (nucleosome)
+T94	GO_BP 2231 2241	regulation
+#94	AnnotatorNotes T94	GO:0065007 (biological regulation)
+T95	SO 2245 2251	genome
+#95	AnnotatorNotes T95	SO:0001026 (genome)
+T96	GO_BP 2336 2350	cell divisions
+#96	AnnotatorNotes T96	GO:0051301 (cell division)
+T97	CL 2336 2340	cell
+#97	AnnotatorNotes T97	CL:0000000 (cell)
+T98	GO_CC 2336 2340	cell
+#98	AnnotatorNotes T98	GO:0005623 (cell)
+T99	GO_CC 2381 2390	chromatin
+#99	AnnotatorNotes T99	GO:0000785 (chromatin)
+T100	SO 2411 2418	genetic
+#100	AnnotatorNotes T100	SO:0000704 (gene)
+T101	SO 2443 2446	DNA
+#101	AnnotatorNotes T101	SO:0000352 (DNA)
+T102	SO 2483 2489	genome
+#102	AnnotatorNotes T102	SO:0001026 (genome)
+T103	GO_BP 2490 2501	replication
+#103	AnnotatorNotes T103	GO:0006260 (DNA replication)
+T104	GO_BP 2513 2531	chromatin assembly
+#104	AnnotatorNotes T104	GO:0031497 (chromatin assembly)
+T105	GO_CC 2513 2522	chromatin
+#105	AnnotatorNotes T105	GO:0000785 (chromatin)
+T106	GO_BP 2542 2551	builds up
+#106	AnnotatorNotes T106	GO:0022607 (cellular component assembly)
+T107	GO_CC 2560 2571	nucleosomes
+#107	AnnotatorNotes T107	GO:0000786 (nucleosome)
+T108	GO_CC 2600 2611	nucleosomes
+#108	AnnotatorNotes T108	GO:0000786 (nucleosome)
+T109	GO_BP 2628 2636	modified
+#109	AnnotatorNotes T109	GO:0043412 (biopolymer modification)
+T110	SO 2628 2636	modified
+#110	AnnotatorNotes T110	SO:0000041 (sequence_operation)
+T111	SO 2652 2659	enzymes
+#111	AnnotatorNotes T111	SO:0001185 (enzymatic)
+T112	GO_BP 2741 2759	chromatin assembly
+#112	AnnotatorNotes T112	GO:0031497 (chromatin assembly)
+T113	GO_CC 2741 2750	chromatin
+#113	AnnotatorNotes T113	GO:0000785 (chromatin)
+T114	GO_CC 2768 2773	CAF-1
+#114	AnnotatorNotes T114	GO:0033186 (CAF-1 complex)
+T115	NCBITaxon 2778 2783	mouse
+#115	AnnotatorNotes T115	NCBITaxon:10088 (Mus)
+T116	CL 2794 2804	stem cells
+#116	AnnotatorNotes T116	CL:0000034 (stem cell)
+T117	GO_CC 2799 2804	cells
+#117	AnnotatorNotes T117	GO:0005623 (cell)
+T118	GO_CC 2853 2858	CAF-1
+#118	AnnotatorNotes T118	GO:0033186 (CAF-1 complex)
+T119	SO 2902 2917	genomic regions
+#119	AnnotatorNotes T119	SO:0000991 (genomic_DNA)
+T120	SO 2902 2909	genomic
+#120	AnnotatorNotes T120	SO:0001026 (genome)
+T121	GO_CC 2957 2962	CAF-1
+#121	AnnotatorNotes T121	GO:0033186 (CAF-1 complex)
+T122	GO_BP 2990 3025	spatial organization of chromosomes
+#122	AnnotatorNotes T122	GO:0050000 (chromosome localization)
+T123	GO_CC 3014 3040	chromosomes in the nucleus
+#123	AnnotatorNotes T123	"chromosomes in .. nucleus" GO:0000228 (nuclear chromosome)
+T124	SO 3014 3025	chromosomes
+#124	AnnotatorNotes T124	SO:0000340 (chromosome)
+T125	GO_CC 3033 3040	nucleus
+#125	AnnotatorNotes T125	GO:0005634 (nucleus)
+T126	GO_CC 3112 3121	chromatin
+#126	AnnotatorNotes T126	GO:0000785 (chromatin)
+T127	CL 3154 3163	stem cell
+#127	AnnotatorNotes T127	CL:0000034 (stem cell)
+T128	GO_CC 3159 3163	cell
+#128	AnnotatorNotes T128	GO:0005623 (cell)
+T129	NCBITaxon 3211 3216	mouse
+#129	AnnotatorNotes T129	NCBITaxon:10088 (Mus)
+T130	GO_BP 3221 3233	implantation
+#130	AnnotatorNotes T130	GO:0007566 (embryo implantation)
+T131	GO_BP 3234 3245	development
+#131	AnnotatorNotes T131	GO:0032502 (developmental process)
+T132	SO 3251 3257	genome
+#132	AnnotatorNotes T132	SO:0001026 (genome)
+T133	GO_BP 3328 3343	gene expression
+#133	AnnotatorNotes T133	GO:0010467 (gene expression)
+T134	SO 3328 3332	gene
+#134	AnnotatorNotes T134	SO:0000704 (gene)
+T135	GO_BP 3391 3413	differentiation events
+#135	AnnotatorNotes T135	GO:0030154 (cell differentiation)
+T136	GO_BP 3475 3490	DNA methylation
+#136	AnnotatorNotes T136	GO:0006306 (DNA methylation)
+T137	SO 3475 3478	DNA
+#137	AnnotatorNotes T137	SO:0000352 (DNA)
+T138	GO_CC 3559 3568	chromatin
+#138	AnnotatorNotes T138	GO:0000785 (chromatin)
+T139	GO_BP 3634 3651	histone modifying
+#139	AnnotatorNotes T139	GO:0016570 (histone modification)
+T140	CHEBI 3634 3641	histone
+#140	AnnotatorNotes T140	CHEBI:15358 (histone)
+T141	SO 3642 3651	modifying
+#141	AnnotatorNotes T141	SO:0000041 (sequence_operation)
+T142	SO 3652 3659	enzymes
+#142	AnnotatorNotes T142	SO:0001185 (enzymatic)
+T143	GO_BP 3661 3681	chromatin remodeling
+#143	AnnotatorNotes T143	GO:0006338 (chromatin remodeling)
+T144	GO_CC 3661 3670	chromatin
+#144	AnnotatorNotes T144	GO:0000785 (chromatin)
+T145	CHEBI 3695 3702	histone
+#145	AnnotatorNotes T145	CHEBI:15358 (histone)
+T146	GO_BP 3725 3737	implantation
+#146	AnnotatorNotes T146	GO:0007566 (embryo implantation)
+T147	GO_BP 3738 3749	development
+#147	AnnotatorNotes T147	GO:0032502 (developmental process)
+T148	CL 3757 3767	stem cells
+#148	AnnotatorNotes T148	CL:0000034 (stem cell)
+T149	GO_CC 3762 3767	cells
+#149	AnnotatorNotes T149	GO:0005623 (cell)
+T150	CHEBI 3823 3830	histone
+#150	AnnotatorNotes T150	CHEBI:15358 (histone)
+T151	GO_CC 3846 3876	chromatin remodeling complexes
+#151	AnnotatorNotes T151	GO:0016585 (chromatin remodeling complex)
+T152	GO_BP 3846 3866	chromatin remodeling
+#152	AnnotatorNotes T152	GO:0006338 (chromatin remodeling)
+T153	GO_CC 3846 3855	chromatin
+#153	AnnotatorNotes T153	GO:0000785 (chromatin)
+T154	GO_BP 3896 3903	promote
+#154	AnnotatorNotes T154	GO:0048518 (positive regulation of biological process)
+T155	GO_BP 3904 3923	nucleosome assembly
+#155	AnnotatorNotes T155	GO:0006334 (nucleosome assembly)
+T156	GO_CC 3904 3914	nucleosome
+#156	AnnotatorNotes T156	GO:0000786 (nucleosome)
+T157	GO_BP 3978 3985	control
+#157	AnnotatorNotes T157	GO:0065007 (biological regulation)
+T158	GO_BP 3986 4004	chromatin assembly
+#158	AnnotatorNotes T158	GO:0031497 (chromatin assembly)
+T159	GO_CC 3986 3995	chromatin
+#159	AnnotatorNotes T159	GO:0000785 (chromatin)
+T160	GO_BP 4027 4038	development
+#160	AnnotatorNotes T160	GO:0032502 (developmental process)
+T161	CHEBI 4052 4059	histone
+#161	AnnotatorNotes T161	CHEBI:15358 (histone)
+T162	GO_CC 4072 4099	chromatin assembly factor 1
+#162	AnnotatorNotes T162	GO:0033186 (CAF-1 complex)
+T163	GO_BP 4072 4090	chromatin assembly
+#163	AnnotatorNotes T163	GO:0031497 (chromatin assembly)
+T164	GO_CC 4072 4081	chromatin
+#164	AnnotatorNotes T164	GO:0000785 (chromatin)
+T165	GO_CC 4101 4106	CAF-1
+#165	AnnotatorNotes T165	GO:0033186 (CAF-1 complex)
+T166	PR 4128 4132	p150
+#166	AnnotatorNotes T166	PR:000005402 (chromatin assembly factor 1 subunit A)
+T167	PR 4134 4137	p60
+#167	AnnotatorNotes T167	PR:000005403 (chromatin assembly factor 1 subunit B)
+T168	PR 4143 4146	p48
+#168	AnnotatorNotes T168	PR:000013776 (histone-binding protein RBBP4)
+T169	GO_CC 4148 4155	complex
+#169	AnnotatorNotes T169	GO:0032991 (macromolecular complex)
+T170	GO_BP 4162 4170	promotes
+#170	AnnotatorNotes T170	GO:0048518 (positive regulation of biological process)
+T171	CHEBI 4171 4178	histone
+#171	AnnotatorNotes T171	CHEBI:15358 (histone)
+T172	GO_BP 4211 4222	synthesized
+#172	AnnotatorNotes T172	GO:0009058 (biosynthetic process)
+T173	SO 4223 4226	DNA
+#173	AnnotatorNotes T173	SO:0000352 (DNA)
+T174	GO_BP 4234 4245	replication
+#174	AnnotatorNotes T174	GO:0006260 (DNA replication)
+T175	GO_BP 4249 4259	DNA repair
+#175	AnnotatorNotes T175	GO:0006281 (DNA repair)
+T176	SO 4249 4252	DNA
+#176	AnnotatorNotes T176	SO:0000352 (DNA)
+T177	GO_CC 4282 4287	CAF-1
+#177	AnnotatorNotes T177	GO:0033186 (CAF-1 complex)
+T178	CHEBI 4301 4308	histone
+#178	AnnotatorNotes T178	CHEBI:15358 (histone)
+T179	SO 4312 4319	variant
+#179	AnnotatorNotes T179	SO:0001060 (sequence_variant)
+T180	GO_CC 4330 4339	chromatin
+#180	AnnotatorNotes T180	GO:0000785 (chromatin)
+T181	SO 4365 4368	DNA
+#181	AnnotatorNotes T181	SO:0000352 (DNA)
+T182	GO_BP 4369 4378	synthesis
+#182	AnnotatorNotes T182	GO:0009058 (biosynthetic process)
+T183	CHEBI 4397 4404	histone
+#183	AnnotatorNotes T183	CHEBI:15358 (histone)
+T184	PR 4416 4420	HIRA
+#184	AnnotatorNotes T184	PR:000008570 (protein HIRA)
+T185	SO 4464 4471	variant
+#185	AnnotatorNotes T185	SO:0001060 (sequence_variant)
+T186	SO 4477 4480	DNA
+#186	AnnotatorNotes T186	SO:0000352 (DNA)
+T187	GO_BP 4481 4490	synthesis
+#187	AnnotatorNotes T187	GO:0009058 (biosynthetic process)
+T188	GO_BP 4549 4567	chromatin assembly
+#188	AnnotatorNotes T188	GO:0031497 (chromatin assembly)
+T189	GO_CC 4549 4558	chromatin
+#189	AnnotatorNotes T189	GO:0000785 (chromatin)
+T190	GO_CC 4578 4583	CAF-1
+#190	AnnotatorNotes T190	GO:0033186 (CAF-1 complex)
+T191	CHEBI 4607 4615	proteins
+#191	AnnotatorNotes T191	CHEBI:36080 (proteins)
+T192	GO_CC 4627 4642	heterochromatin
+#192	AnnotatorNotes T192	GO:0000792 (heterochromatin)
+T193	GO_CC 4654 4669	heterochromatin
+#193	AnnotatorNotes T193	GO:0000792 (heterochromatin)
+T194	CHEBI 4670 4677	protein
+#194	AnnotatorNotes T194	CHEBI:36080 (proteins)
+T195	PR 4690 4694	MBD1
+#195	AnnotatorNotes T195	PR:000010214 (methyl-CpG-binding domain protein 1)
+T196	GO_MF 4698 4716	methyl-CpG binding
+#196	AnnotatorNotes T196	GO:0008327 (methyl-CpG binding)
+T197	CHEBI 4698 4704	methyl
+#197	AnnotatorNotes T197	CHEBI:32875 (methyl group)
+T198	SO 4717 4723	domain
+#198	AnnotatorNotes T198	SO:0000417 (polypeptide_domain)
+T199	CHEBI 4724 4731	protein
+#199	AnnotatorNotes T199	CHEBI:36080 (proteins)
+T200	GO_BP 4737 4745	recruits
+#200	AnnotatorNotes T200	GO:0051234 (establishment of localization)
+T201	GO_MF 4746 4765	histone deacetylase
+#201	AnnotatorNotes T201	GO:0004407 (histone deacetylase activity)
+T202	independent_continuant 4746 4765	histone deacetylase
+#202	AnnotatorNotes T202	independent_continuant
+T203	CHEBI 4746 4753	histone
+#203	AnnotatorNotes T203	CHEBI:15358 (histone)
+T204	GO_BP 4770 4780	repressive
+#204	AnnotatorNotes T204	GO:0048519 (negative regulation of biological process)
+T205	GO_MF 4781 4806	histone methyltransferase
+#205	AnnotatorNotes T205	GO:0042054 (histone methyltransferase activity)
+T206	independent_continuant 4781 4806	histone methyltransferase
+#206	AnnotatorNotes T206	independent_continuant
+T207	CHEBI 4781 4788	histone
+#207	AnnotatorNotes T207	CHEBI:15358 (histone)
+T208	PR 4840 4849	p150CAF-1
+#208	AnnotatorNotes T208	PR:000005402 (chromatin assembly factor 1 subunit A)
+T209	GO_BP 4874 4885	replication
+#209	AnnotatorNotes T209	GO:0006260 (DNA replication)
+T210	CHEBI 4907 4916	molecules
+#210	AnnotatorNotes T210	CHEBI:23367 (molecular entity)
+T211	SO 4920 4937	replication sites
+#211	AnnotatorNotes T211	SO:0000296 (origin_of_replication)
+T212	GO_BP 4920 4931	replication
+#212	AnnotatorNotes T212	GO:0006260 (DNA replication)
+T213	GO_CC 4941 4968	pericentric heterochromatin
+#213	AnnotatorNotes T213	GO:0005721 (centric heterochromatin)
+T214	GO_CC 4941 4952	pericentric
+#214	AnnotatorNotes T214	GO:0000775 (chromosome, pericentric region)
+T215	GO_BP 4985 4992	S phase
+#215	AnnotatorNotes T215	GO:0051320 (S phase)
+T216	GO_CC 5044 5049	CAF-1
+#216	AnnotatorNotes T216	GO:0033186 (CAF-1 complex)
+T217	GO_BP 5057 5085	formation of heterochromatin
+#217	AnnotatorNotes T217	GO:0031507 (heterochromatin formation)
+T218	GO_CC 5070 5085	heterochromatin
+#218	AnnotatorNotes T218	GO:0000792 (heterochromatin)
+T219	SO 5159 5181	evolutionary conserved
+#219	AnnotatorNotes T219	SO:0000857 (homologous)
+T220	CHEBI 5182 5189	histone
+#220	AnnotatorNotes T220	CHEBI:15358 (histone)
+T221	GO_BP 5309 5320	development
+#221	AnnotatorNotes T221	GO:0032502 (developmental process)
+T222	NCBITaxon 5324 5331	mammals
+#222	AnnotatorNotes T222	NCBITaxon:40674 (Mammalia)
+T223	CL 5351 5356	cells
+#223	AnnotatorNotes T223	CL:0000000 (cell)
+T224	GO_CC 5351 5356	cells
+#224	AnnotatorNotes T224	GO:0005623 (cell)
+T225	CL 5375 5390	stem (ES) cells
+#225	AnnotatorNotes T225	"stem .. cells" CL:0000034 (stem cell)
+T226	GO_CC 5385 5390	cells
+#226	AnnotatorNotes T226	GO:0005623 (cell)
+T227	GO_CC 5433 5438	CAF-1
+#227	AnnotatorNotes T227	GO:0033186 (CAF-1 complex)
+T228	NCBITaxon 5452 5457	mouse
+#228	AnnotatorNotes T228	NCBITaxon:10088 (Mus)
+T229	GO_BP 5458 5469	development
+#229	AnnotatorNotes T229	GO:0032502 (developmental process)
+T230	SO 5473 5480	genetic
+#230	AnnotatorNotes T230	SO:0000704 (gene)
+T231	CL 5500 5505	cells
+#231	AnnotatorNotes T231	CL:0000000 (cell)
+T232	GO_CC 5500 5505	cells
+#232	AnnotatorNotes T232	GO:0005623 (cell)
+T233	GO_BP 5525 5541	RNA interference
+#233	AnnotatorNotes T233	GO:0016246 (RNA interference)
+T234	SO 5525 5528	RNA
+#234	AnnotatorNotes T234	SO:0000356 (RNA)
+T235	GO_BP 5543 5547	RNAi
+#235	AnnotatorNotes T235	GO:0016246 (RNA interference)
+T236	GO_CC 5563 5568	CAF-1
+#236	AnnotatorNotes T236	GO:0033186 (CAF-1 complex)
+T237	NCBITaxon 5605 5610	mouse
+#237	AnnotatorNotes T237	NCBITaxon:10088 (Mus)
+T238	CL 5626 5631	cells
+#238	AnnotatorNotes T238	CL:0000000 (cell)
+T239	GO_CC 5626 5631	cells
+#239	AnnotatorNotes T239	GO:0005623 (cell)
+T240	GO_CC 5658 5663	CAF-1
+#240	AnnotatorNotes T240	GO:0033186 (CAF-1 complex)
+T241	GO_CC 5731 5754	heterochromatin domains
+#241	AnnotatorNotes T241	GO:0000792 (heterochromatin)
+T242	SO 5747 5754	domains
+#242	AnnotatorNotes T242	SO:0000001 (region)
+T243	CL 5780 5785	cells
+#243	AnnotatorNotes T243	CL:0000000 (cell)
+T244	GO_CC 5780 5785	cells
+#244	AnnotatorNotes T244	GO:0005623 (cell)
+T245	SO 5805 5809	gene
+#245	AnnotatorNotes T245	SO:0000704 (gene)
+T246	CL 5826 5831	cells
+#246	AnnotatorNotes T246	CL:0000000 (cell)
+T247	GO_CC 5826 5831	cells
+#247	AnnotatorNotes T247	GO:0005623 (cell)
+T248	SO 5835 5841	delete
+#248	AnnotatorNotes T248	SO:0000045 (delete)
+T249	SO 5842 5846	exon
+#249	AnnotatorNotes T249	SO:0000147 (exon)
+T250	italic 5856 5862	Chaf1a
+#250	AnnotatorNotes T250	italic (null)
+T251	PR 5856 5862	Chaf1a
+#251	AnnotatorNotes T251	PR:000005402 (chromatin assembly factor 1 subunit A)
+T252	EntrezGene 5856 5862	Chaf1a
+#252	AnnotatorNotes T252	EG:27221
+T253	SO 5863 5867	gene
+#253	AnnotatorNotes T253	SO:0000704 (gene)
+T254	EntrezGene 5883 5892	p150CAF-1
+#254	AnnotatorNotes T254	EG:27221
+T255	PR 5883 5892	p150CAF-1
+#255	AnnotatorNotes T255	PR:000005402 (chromatin assembly factor 1 subunit A)
+T256	italic 5906 5912	Chaf1a
+#256	AnnotatorNotes T256	italic (null)
+T257	EntrezGene 5906 5912	Chaf1a
+#257	AnnotatorNotes T257	EG:27221
+T258	PR 5906 5912	Chaf1a
+#258	AnnotatorNotes T258	PR:000005402 (chromatin assembly factor 1 subunit A)
+T259	sup 5912 5915	+/−
+#259	AnnotatorNotes T259	sup (null)
+T260	SO 5912 5913	+
+#260	AnnotatorNotes T260	SO:0000817 (wild_type)
+T261	italic 5914 5915	−
+#261	AnnotatorNotes T261	italic (null)
+T262	NCBITaxon 5916 5920	mice
+#262	AnnotatorNotes T262	NCBITaxon:10088 (Mus)
+T263	GO_BP 5926 5930	born
+#263	AnnotatorNotes T263	GO:0007567 (parturition)
+T264	NCBITaxon 6065 6069	mice
+#264	AnnotatorNotes T264	NCBITaxon:10088 (Mus)
+T265	GO_BP 6080 6088	generate
+#265	AnnotatorNotes T265	GO:0000003 (reproduction)
+T266	italic 6104 6110	Chaf1a
+#266	AnnotatorNotes T266	italic (null)
+T267	PR 6104 6110	Chaf1a
+#267	AnnotatorNotes T267	PR:000005402 (chromatin assembly factor 1 subunit A)
+T268	EntrezGene 6104 6110	Chaf1a
+#268	AnnotatorNotes T268	EG:27221
+T269	sup 6110 6113	−/−
+#269	AnnotatorNotes T269	sup (null)
+T270	italic 6112 6113	−
+#270	AnnotatorNotes T270	italic (null)
+T271	NCBITaxon 6114 6118	mice
+#271	AnnotatorNotes T271	NCBITaxon:10088 (Mus)
+T272	italic 6147 6153	Chaf1a
+#272	AnnotatorNotes T272	italic (null)
+T273	EntrezGene 6147 6153	Chaf1a
+#273	AnnotatorNotes T273	EG:27221
+T274	PR 6147 6153	Chaf1a
+#274	AnnotatorNotes T274	PR:000005402 (chromatin assembly factor 1 subunit A)
+T275	sup 6153 6156	−/−
+#275	AnnotatorNotes T275	sup (null)
+T276	italic 6155 6156	−
+#276	AnnotatorNotes T276	italic (null)
+T277	GO_BP 6198 6210	implantation
+#277	AnnotatorNotes T277	GO:0007566 (embryo implantation)
+T278	italic 6244 6250	Chaf1a
+#278	AnnotatorNotes T278	italic (null)
+T279	EntrezGene 6244 6250	Chaf1a
+#279	AnnotatorNotes T279	EG:27221
+T280	PR 6244 6250	Chaf1a
+#280	AnnotatorNotes T280	PR:000005402 (chromatin assembly factor 1 subunit A)
+T281	sup 6250 6253	−/−
+#281	AnnotatorNotes T281	sup (null)
+T282	italic 6252 6253	−
+#282	AnnotatorNotes T282	italic (null)
+T283	italic 6372 6378	Chaf1a
+#283	AnnotatorNotes T283	italic (null)
+T284	PR 6372 6378	Chaf1a
+#284	AnnotatorNotes T284	PR:000005402 (chromatin assembly factor 1 subunit A)
+T285	EntrezGene 6372 6378	Chaf1a
+#285	AnnotatorNotes T285	EG:27221
+T286	sup 6378 6381	+/−
+#286	AnnotatorNotes T286	sup (null)
+T287	SO 6378 6379	+
+#287	AnnotatorNotes T287	SO:0000817 (wild_type)
+T288	italic 6380 6381	−
+#288	AnnotatorNotes T288	italic (null)
+T289	NCBITaxon 6382 6386	mice
+#289	AnnotatorNotes T289	NCBITaxon:10088 (Mus)
+T290	SO 6450 6456	mutant
+#290	AnnotatorNotes T290	SO:0001059 (sequence_alteration)
+T291	SO 6510 6516	mutant
+#291	AnnotatorNotes T291	SO:0001059 (sequence_alteration)
+T292	CL 6552 6557	cells
+#292	AnnotatorNotes T292	CL:0000000 (cell)
+T293	GO_CC 6552 6557	cells
+#293	AnnotatorNotes T293	GO:0005623 (cell)
+T294	CL 6589 6594	cells
+#294	AnnotatorNotes T294	CL:0000000 (cell)
+T295	GO_CC 6589 6594	cells
+#295	AnnotatorNotes T295	GO:0005623 (cell)
+T296	SO 6608 6617	wild-type
+#296	AnnotatorNotes T296	SO:0000817 (wild_type)
+T297	SO 6755 6764	wild-type
+#297	AnnotatorNotes T297	SO:0000817 (wild_type)
+T298	EntrezGene 6769 6778	p150CAF-1
+#298	AnnotatorNotes T298	EG:27221
+T299	PR 6769 6778	p150CAF-1
+#299	AnnotatorNotes T299	PR:000005402 (chromatin assembly factor 1 subunit A)
+T300	EntrezGene 6807 6816	p150CAF-1
+#300	AnnotatorNotes T300	EG:27221
+T301	PR 6807 6816	p150CAF-1
+#301	AnnotatorNotes T301	PR:000005402 (chromatin assembly factor 1 subunit A)
+T302	CL 6865 6869	cell
+#302	AnnotatorNotes T302	CL:0000000 (cell)
+T303	GO_CC 6865 6869	cell
+#303	AnnotatorNotes T303	GO:0005623 (cell)
+T304	CHEBI 6934 6941	protein
+#304	AnnotatorNotes T304	CHEBI:36080 (proteins)
+T305	CL 6982 6986	cell
+#305	AnnotatorNotes T305	CL:0000000 (cell)
+T306	GO_CC 6982 6986	cell
+#306	AnnotatorNotes T306	GO:0005623 (cell)
+T307	EntrezGene 7013 7022	p150CAF-1
+#307	AnnotatorNotes T307	EG:27221
+T308	PR 7013 7022	p150CAF-1
+#308	AnnotatorNotes T308	PR:000005402 (chromatin assembly factor 1 subunit A)
+T309	CHEBI 7023 7030	protein
+#309	AnnotatorNotes T309	CHEBI:36080 (proteins)
+T310	GO_BP 7082 7096	cell divisions
+#310	AnnotatorNotes T310	GO:0051301 (cell division)
+T311	CL 7082 7086	cell
+#311	AnnotatorNotes T311	CL:0000000 (cell)
+T312	GO_CC 7082 7086	cell
+#312	AnnotatorNotes T312	GO:0005623 (cell)
+T313	GO_BP 7104 7117	developmental
+#313	AnnotatorNotes T313	GO:0032502 (developmental process)
+T314	GO_CC 7157 7164	nuclear
+#314	AnnotatorNotes T314	GO:0005634 (nucleus)
+T315	GO_CC 7181 7196	heterochromatin
+#315	AnnotatorNotes T315	GO:0000792 (heterochromatin)
+T316	GO_CC 7222 7228	nuclei
+#316	AnnotatorNotes T316	GO:0005634 (nucleus)
+T317	italic 7232 7238	Chaf1a
+#317	AnnotatorNotes T317	italic (null)
+T318	PR 7232 7238	Chaf1a
+#318	AnnotatorNotes T318	PR:000005402 (chromatin assembly factor 1 subunit A)
+T319	EntrezGene 7232 7238	Chaf1a
+#319	AnnotatorNotes T319	EG:27221
+T320	sup 7238 7241	−/−
+#320	AnnotatorNotes T320	sup (null)
+T321	italic 7240 7241	−
+#321	AnnotatorNotes T321	italic (null)
+T322	GO_CC 7251 7278	Pericentric heterochromatin
+#322	AnnotatorNotes T322	GO:0005721 (centric heterochromatin)
+T323	GO_CC 7251 7262	Pericentric
+#323	AnnotatorNotes T323	GO:0000775 (chromosome, pericentric region)
+T324	GO_CC 7316 7331	heterochromatin
+#324	AnnotatorNotes T324	GO:0000792 (heterochromatin)
+T325	GO_BP 7361 7371	interphase
+#325	AnnotatorNotes T325	GO:0051325 (interphase)
+T326	GO_CC 7372 7378	nuclei
+#326	AnnotatorNotes T326	GO:0005634 (nucleus)
+T327	PR 7431 7435	HP1α
+#327	AnnotatorNotes T327	PR:000005086 (chromobox protein 5)
+T328	SO 7451 7460	wild-type
+#328	AnnotatorNotes T328	SO:0000817 (wild_type)
+T329	NCBITaxon 7480 7485	mouse
+#329	AnnotatorNotes T329	NCBITaxon:10088 (Mus)
+T330	CL 7494 7499	cells
+#330	AnnotatorNotes T330	CL:0000000 (cell)
+T331	GO_CC 7494 7499	cells
+#331	AnnotatorNotes T331	GO:0005623 (cell)
+T332	GO_CC 7501 7536	pericentric heterochromatin domains
+#332	AnnotatorNotes T332	GO:0005721 (centric heterochromatin)
+T333	GO_CC 7501 7512	pericentric
+#333	AnnotatorNotes T333	GO:0000775 (chromosome, pericentric region)
+T334	SO 7529 7536	domains
+#334	AnnotatorNotes T334	SO:0000001 (region)
+T335	GO_BP 7558 7562	form
+#335	AnnotatorNotes T335	GO:0022607 (cellular component assembly)
+T336	GO_CC 7576 7596	chromatin structures
+#336	AnnotatorNotes T336	GO:0000785 (chromatin)
+T337	GO_CC 7604 7617	chromocenters
+#337	AnnotatorNotes T337	GO:0010369 (chromocenter)
+T338	italic 7715 7721	Chaf1a
+#338	AnnotatorNotes T338	italic (null)
+T339	PR 7715 7721	Chaf1a
+#339	AnnotatorNotes T339	PR:000005402 (chromatin assembly factor 1 subunit A)
+T340	EntrezGene 7715 7721	Chaf1a
+#340	AnnotatorNotes T340	EG:27221
+T341	sup 7721 7724	−/−
+#341	AnnotatorNotes T341	sup (null)
+T342	italic 7723 7724	−
+#342	AnnotatorNotes T342	italic (null)
+T343	GO_CC 7752 7761	chromatin
+#343	AnnotatorNotes T343	GO:0000785 (chromatin)
+T344	SO 7821 7827	genome
+#344	AnnotatorNotes T344	SO:0001026 (genome)
+T345	GO_CC 7945 7960	heterochromatin
+#345	AnnotatorNotes T345	GO:0000792 (heterochromatin)
+T346	CL 7990 7994	cell
+#346	AnnotatorNotes T346	CL:0000000 (cell)
+T347	GO_CC 7990 7994	cell
+#347	AnnotatorNotes T347	GO:0005623 (cell)
+T348	CL 8025 8029	cell
+#348	AnnotatorNotes T348	CL:0000000 (cell)
+T349	GO_CC 8025 8029	cell
+#349	AnnotatorNotes T349	GO:0005623 (cell)
+T350	SO 8036 8045	wild-type
+#350	AnnotatorNotes T350	SO:0000817 (wild_type)
+T351	GO_CC 8137 8163	nucleolar precursor bodies
+#351	AnnotatorNotes T351	GO:0005731 (nucleolus organizer region)
+T352	GO_CC 8137 8146	nucleolar
+#352	AnnotatorNotes T352	GO:0005730 (nucleolus)
+T353	GO_CC 8177 8200	Heterochromatin domains
+#353	AnnotatorNotes T353	GO:0000792 (heterochromatin)
+T354	SO 8193 8200	domains
+#354	AnnotatorNotes T354	SO:0000001 (region)
+T355	GO_BP 8219 8228	assembled
+#355	AnnotatorNotes T355	GO:0022607 (cellular component assembly)
+T356	CL 8267 8271	cell
+#356	AnnotatorNotes T356	CL:0000000 (cell)
+T357	GO_CC 8267 8271	cell
+#357	AnnotatorNotes T357	GO:0005623 (cell)
+T358	CL 8279 8283	cell
+#358	AnnotatorNotes T358	CL:0000000 (cell)
+T359	GO_CC 8279 8283	cell
+#359	AnnotatorNotes T359	GO:0005623 (cell)
+T360	GO_BP 8315 8327	Localization
+#360	AnnotatorNotes T360	GO:0051179 (localization)
+T361	EntrezGene 8331 8335	HP1α
+#361	AnnotatorNotes T361	EG:12419
+T362	PR 8331 8335	HP1α
+#362	AnnotatorNotes T362	PR:000005086 (chromobox protein 5)
+T363	GO_CC 8421 8436	heterochromatin
+#363	AnnotatorNotes T363	GO:0000792 (heterochromatin)
+T364	GO_CC 8460 8467	nuclear
+#364	AnnotatorNotes T364	GO:0005634 (nucleus)
+T365	GO_CC 8484 8499	heterochromatin
+#365	AnnotatorNotes T365	GO:0000792 (heterochromatin)
+T366	GO_BP 8536 8548	implantation
+#366	AnnotatorNotes T366	GO:0007566 (embryo implantation)
+T367	GO_BP 8549 8560	development
+#367	AnnotatorNotes T367	GO:0032502 (developmental process)
+T368	CL 8578 8582	cell
+#368	AnnotatorNotes T368	CL:0000000 (cell)
+T369	GO_CC 8578 8582	cell
+#369	AnnotatorNotes T369	GO:0005623 (cell)
+T370	italic 8609 8615	Chaf1a
+#370	AnnotatorNotes T370	italic (null)
+T371	EntrezGene 8609 8615	Chaf1a
+#371	AnnotatorNotes T371	EG:27221
+T372	PR 8609 8615	Chaf1a
+#372	AnnotatorNotes T372	PR:000005402 (chromatin assembly factor 1 subunit A)
+T373	sup 8615 8618	−/−
+#373	AnnotatorNotes T373	sup (null)
+T374	italic 8617 8618	−
+#374	AnnotatorNotes T374	italic (null)
+T375	CL 8676 8680	cell
+#375	AnnotatorNotes T375	CL:0000000 (cell)
+T376	GO_CC 8676 8680	cell
+#376	AnnotatorNotes T376	GO:0005623 (cell)
+T377	GO_CC 8786 8793	nucleus
+#377	AnnotatorNotes T377	GO:0005634 (nucleus)
+T378	GO_CC 8837 8845	nucleoli
+#378	AnnotatorNotes T378	GO:0005730 (nucleolus)
+T379	GO_CC 8874 8880	nuclei
+#379	AnnotatorNotes T379	GO:0005634 (nucleus)
+T380	GO_BP 8894 8906	Localization
+#380	AnnotatorNotes T380	GO:0051179 (localization)
+T381	EntrezGene 8910 8914	HP1α
+#381	AnnotatorNotes T381	EG:12419
+T382	PR 8910 8914	HP1α
+#382	AnnotatorNotes T382	PR:000005086 (chromobox protein 5)
+T383	GO_CC 8989 8996	nuclear
+#383	AnnotatorNotes T383	GO:0005634 (nucleus)
+T384	GO_CC 9023 9031	nucleoli
+#384	AnnotatorNotes T384	GO:0005730 (nucleolus)
+T385	GO_CC 9075 9090	heterochromatin
+#385	AnnotatorNotes T385	GO:0000792 (heterochromatin)
+T386	italic 9094 9100	Chaf1a
+#386	AnnotatorNotes T386	italic (null)
+T387	EntrezGene 9094 9100	Chaf1a
+#387	AnnotatorNotes T387	EG:27221
+T388	PR 9094 9100	Chaf1a
+#388	AnnotatorNotes T388	PR:000005402 (chromatin assembly factor 1 subunit A)
+T389	sup 9100 9103	−/−
+#389	AnnotatorNotes T389	sup (null)
+T390	italic 9102 9103	−
+#390	AnnotatorNotes T390	italic (null)
+T391	GO_CC 9134 9149	heterochromatin
+#391	AnnotatorNotes T391	GO:0000792 (heterochromatin)
+T392	CL 9185 9189	cell
+#392	AnnotatorNotes T392	CL:0000000 (cell)
+T393	GO_CC 9185 9189	cell
+#393	AnnotatorNotes T393	GO:0005623 (cell)
+T394	SO 9196 9205	wild-type
+#394	AnnotatorNotes T394	SO:0000817 (wild_type)
+T395	EntrezGene 9277 9286	p150CAF-1
+#395	AnnotatorNotes T395	EG:27221
+T396	PR 9277 9286	p150CAF-1
+#396	AnnotatorNotes T396	PR:000005402 (chromatin assembly factor 1 subunit A)
+T397	GO_BP 9298 9310	implantation
+#397	AnnotatorNotes T397	GO:0007566 (embryo implantation)
+T398	GO_BP 9311 9322	development
+#398	AnnotatorNotes T398	GO:0032502 (developmental process)
+T399	CHEBI 9345 9352	protein
+#399	AnnotatorNotes T399	CHEBI:36080 (proteins)
+T400	GO_CC 9400 9444	heterochromatin within embryonic cell nuclei
+#400	AnnotatorNotes T400	"heterochromatin within .. nuclei" GO:0005720 (nuclear heterochromatin)
+T401	CL 9433 9437	cell
+#401	AnnotatorNotes T401	CL:0000000 (cell)
+T402	GO_CC 9433 9437	cell
+#402	AnnotatorNotes T402	GO:0005623 (cell)
+T403	GO_CC 9438 9444	nuclei
+#403	AnnotatorNotes T403	GO:0005634 (nucleus)
+T404	GO_CC 9499 9504	CAF-1
+#404	AnnotatorNotes T404	GO:0033186 (CAF-1 complex)
+T405	CL 9534 9539	cells
+#405	AnnotatorNotes T405	CL:0000000 (cell)
+T406	GO_CC 9534 9539	cells
+#406	AnnotatorNotes T406	GO:0005623 (cell)
+T407	CL 9585 9589	cell
+#407	AnnotatorNotes T407	CL:0000000 (cell)
+T408	GO_CC 9585 9589	cell
+#408	AnnotatorNotes T408	GO:0005623 (cell)
+T409	GO_BP 9612 9625	developmental
+#409	AnnotatorNotes T409	GO:0032502 (developmental process)
+T410	italic 9645 9651	Chaf1a
+#410	AnnotatorNotes T410	italic (null)
+T411	PR 9645 9651	Chaf1a
+#411	AnnotatorNotes T411	PR:000005402 (chromatin assembly factor 1 subunit A)
+T412	EntrezGene 9645 9651	Chaf1a
+#412	AnnotatorNotes T412	EG:27221
+T413	sup 9651 9654	−/−
+#413	AnnotatorNotes T413	sup (null)
+T414	italic 9653 9654	−
+#414	AnnotatorNotes T414	italic (null)
+T415	CL 9669 9674	cells
+#415	AnnotatorNotes T415	CL:0000000 (cell)
+T416	GO_CC 9669 9674	cells
+#416	AnnotatorNotes T416	GO:0005623 (cell)
+T417	GO_BP 9744 9748	RNAi
+#417	AnnotatorNotes T417	GO:0016246 (RNA interference)
+T418	EntrezGene 9771 9780	p150CAF-1
+#418	AnnotatorNotes T418	EG:27221
+T419	PR 9771 9780	p150CAF-1
+#419	AnnotatorNotes T419	PR:000005402 (chromatin assembly factor 1 subunit A)
+T420	CL 9797 9802	cells
+#420	AnnotatorNotes T420	CL:0000000 (cell)
+T421	GO_CC 9797 9802	cells
+#421	AnnotatorNotes T421	GO:0005623 (cell)
+T422	EntrezGene 9864 9873	p150CAF-1
+#422	AnnotatorNotes T422	EG:27221
+T423	PR 9864 9873	p150CAF-1
+#423	AnnotatorNotes T423	PR:000005402 (chromatin assembly factor 1 subunit A)
+T424	GO_BP 9874 9878	RNAi
+#424	AnnotatorNotes T424	GO:0016246 (RNA interference)
+T425	CL 9891 9896	cells
+#425	AnnotatorNotes T425	CL:0000000 (cell)
+T426	GO_CC 9891 9896	cells
+#426	AnnotatorNotes T426	GO:0005623 (cell)
+T427	CL 9939 9944	cells
+#427	AnnotatorNotes T427	CL:0000000 (cell)
+T428	GO_CC 9939 9944	cells
+#428	AnnotatorNotes T428	GO:0005623 (cell)
+T429	italic 9948 9954	Chaf1a
+#429	AnnotatorNotes T429	italic (null)
+T430	PR 9948 9954	Chaf1a
+#430	AnnotatorNotes T430	PR:000005402 (chromatin assembly factor 1 subunit A)
+T431	EntrezGene 9948 9954	Chaf1a
+#431	AnnotatorNotes T431	EG:27221
+T432	sup 9954 9957	−/−
+#432	AnnotatorNotes T432	sup (null)
+T433	italic 9956 9957	−
+#433	AnnotatorNotes T433	italic (null)
+T434	NCBITaxon 9961 9965	mice
+#434	AnnotatorNotes T434	NCBITaxon:10088 (Mus)
+T435	EntrezGene 10018 10022	HP1α
+#435	AnnotatorNotes T435	EG:12419
+T436	PR 10018 10022	HP1α
+#436	AnnotatorNotes T436	PR:000005086 (chromobox protein 5)
+T437	GO_CC 10052 10060	nucleoli
+#437	AnnotatorNotes T437	GO:0005730 (nucleolus)
+T438	GO_CC 10089 10096	nucleus
+#438	AnnotatorNotes T438	GO:0005634 (nucleus)
+T439	EntrezGene 10137 10146	p150CAF-1
+#439	AnnotatorNotes T439	EG:27221
+T440	PR 10137 10146	p150CAF-1
+#440	AnnotatorNotes T440	PR:000005402 (chromatin assembly factor 1 subunit A)
+T441	GO_CC 10164 10171	nuclear
+#441	AnnotatorNotes T441	GO:0005634 (nucleus)
+T442	GO_CC 10188 10203	heterochromatin
+#442	AnnotatorNotes T442	GO:0000792 (heterochromatin)
+T443	CL 10210 10215	cells
+#443	AnnotatorNotes T443	CL:0000000 (cell)
+T444	GO_CC 10210 10215	cells
+#444	AnnotatorNotes T444	GO:0005623 (cell)
+T445	GO_BP 10246 10258	implantation
+#445	AnnotatorNotes T445	GO:0007566 (embryo implantation)
+T446	GO_CC 10327 10342	heterochromatin
+#446	AnnotatorNotes T446	GO:0000792 (heterochromatin)
+T447	NCBITaxon 10367 10372	mouse
+#447	AnnotatorNotes T447	NCBITaxon:10088 (Mus)
+T448	CL 10383 10394	fibroblasts
+#448	AnnotatorNotes T448	CL:0000057 (fibroblast)
+T449	EntrezGene 10412 10421	p150CAF-1
+#449	AnnotatorNotes T449	EG:27221
+T450	PR 10412 10421	p150CAF-1
+#450	AnnotatorNotes T450	PR:000005402 (chromatin assembly factor 1 subunit A)
+T451	GO_BP 10435 10439	RNAi
+#451	AnnotatorNotes T451	GO:0016246 (RNA interference)
+T452	EntrezGene 10441 10450	p150CAF-1
+#452	AnnotatorNotes T452	EG:27221
+T453	PR 10441 10450	p150CAF-1
+#453	AnnotatorNotes T453	PR:000005402 (chromatin assembly factor 1 subunit A)
+T454	GO_BP 10504 10522	cell proliferation
+#454	AnnotatorNotes T454	GO:0008283 (cell proliferation)
+T455	CL 10504 10508	cell
+#455	AnnotatorNotes T455	CL:0000000 (cell)
+T456	GO_CC 10504 10508	cell
+#456	AnnotatorNotes T456	GO:0005623 (cell)
+T457	GO_CC 10579 10602	heterochromatin domains
+#457	AnnotatorNotes T457	GO:0000792 (heterochromatin)
+T458	SO 10595 10602	domains
+#458	AnnotatorNotes T458	SO:0000001 (region)
+T459	EntrezGene 10635 10644	p150CAF-1
+#459	AnnotatorNotes T459	EG:27221
+T460	PR 10635 10644	p150CAF-1
+#460	AnnotatorNotes T460	PR:000005402 (chromatin assembly factor 1 subunit A)
+T461	CL 10662 10667	cells
+#461	AnnotatorNotes T461	CL:0000000 (cell)
+T462	GO_CC 10662 10667	cells
+#462	AnnotatorNotes T462	GO:0005623 (cell)
+T463	GO_CC 10683 10698	heterochromatin
+#463	AnnotatorNotes T463	GO:0000792 (heterochromatin)
+T464	GO_CC 10768 10773	CAF-1
+#464	AnnotatorNotes T464	GO:0033186 (CAF-1 complex)
+T465	CL 10801 10806	cells
+#465	AnnotatorNotes T465	CL:0000000 (cell)
+T466	GO_CC 10801 10806	cells
+#466	AnnotatorNotes T466	GO:0005623 (cell)
+T467	EntrezGene 10842 10851	p150CAF-1
+#467	AnnotatorNotes T467	EG:27221
+T468	PR 10842 10851	p150CAF-1
+#468	AnnotatorNotes T468	PR:000005402 (chromatin assembly factor 1 subunit A)
+T469	CL 10858 10863	cells
+#469	AnnotatorNotes T469	CL:0000000 (cell)
+T470	GO_CC 10858 10863	cells
+#470	AnnotatorNotes T470	GO:0005623 (cell)
+T471	GO_CC 10889 10904	heterochromatin
+#471	AnnotatorNotes T471	GO:0000792 (heterochromatin)
+T472	GO_CC 10905 10927	nuclear subcompartment
+#472	AnnotatorNotes T472	GO:0044428 (nuclear part)
+T473	GO_CC 10905 10912	nuclear
+#473	AnnotatorNotes T473	GO:0005634 (nucleus)
+T474	GO_CC 10981 10988	nuclear
+#474	AnnotatorNotes T474	GO:0005634 (nucleus)
+T475	GO_CC 11039 11047	antibody
+#475	AnnotatorNotes T475	GO:0019814 (immunoglobulin complex)
+T476	PR 11060 11082	promyelocytic leukemia
+#476	AnnotatorNotes T476	PR:000026474 (probable transcription factor PML)
+T477	CL 11060 11073	promyelocytic
+#477	AnnotatorNotes T477	CL:0000836 (promyelocyte)
+T478	PR 11084 11087	PML
+#478	AnnotatorNotes T478	PR:000026474 (probable transcription factor PML)
+T479	CHEBI 11089 11096	protein
+#479	AnnotatorNotes T479	CHEBI:36080 (proteins)
+T480	GO_CC 11122 11140	PML nuclear bodies
+#480	AnnotatorNotes T480	GO:0016605 (PML body)
+T481	EntrezGene 11122 11125	PML
+#481	AnnotatorNotes T481	EG:18854
+T482	PR 11122 11125	PML
+#482	AnnotatorNotes T482	PR:000026474 (probable transcription factor PML)
+T483	GO_CC 11126 11133	nuclear
+#483	AnnotatorNotes T483	GO:0005634 (nucleus)
+T484	GO_CC 11171 11192	subnuclear structures
+#484	AnnotatorNotes T484	GO:0044428 (nuclear part)
+T485	GO_BP 11253 11265	distribution
+#485	AnnotatorNotes T485	GO:0051179 (localization)
+T486	GO_CC 11280 11298	PML nuclear bodies
+#486	AnnotatorNotes T486	GO:0016605 (PML body)
+T487	EntrezGene 11280 11283	PML
+#487	AnnotatorNotes T487	EG:18854
+T488	PR 11280 11283	PML
+#488	AnnotatorNotes T488	PR:000026474 (probable transcription factor PML)
+T489	GO_CC 11284 11291	nuclear
+#489	AnnotatorNotes T489	GO:0005634 (nucleus)
+T490	EntrezGene 11319 11328	p150CAF-1
+#490	AnnotatorNotes T490	EG:27221
+T491	PR 11319 11328	p150CAF-1
+#491	AnnotatorNotes T491	PR:000005402 (chromatin assembly factor 1 subunit A)
+T492	CL 11341 11346	cells
+#492	AnnotatorNotes T492	CL:0000000 (cell)
+T493	GO_CC 11341 11346	cells
+#493	AnnotatorNotes T493	GO:0005623 (cell)
+T494	GO_CC 11381 11388	nuclear
+#494	AnnotatorNotes T494	GO:0005634 (nucleus)
+T495	GO_CC 11436 11441	CAF-1
+#495	AnnotatorNotes T495	GO:0033186 (CAF-1 complex)
+T496	GO_CC 11509 11514	CAF-1
+#496	AnnotatorNotes T496	GO:0033186 (CAF-1 complex)
+T497	GO_CC 11561 11570	chromatin
+#497	AnnotatorNotes T497	GO:0000785 (chromatin)
+T498	CHEBI 11585 11593	proteins
+#498	AnnotatorNotes T498	CHEBI:36080 (proteins)
+T499	CHEBI 11602 11609	histone
+#499	AnnotatorNotes T499	CHEBI:15358 (histone)
+T500	EntrezGene 11617 11621	HP1α
+#500	AnnotatorNotes T500	EG:12419
+T501	PR 11617 11621	HP1α
+#501	AnnotatorNotes T501	PR:000005086 (chromobox protein 5)
+T502	GO_CC 11641 11646	CAF-1
+#502	AnnotatorNotes T502	GO:0033186 (CAF-1 complex)
+T503	CL 11699 11704	cells
+#503	AnnotatorNotes T503	CL:0000000 (cell)
+T504	GO_CC 11699 11704	cells
+#504	AnnotatorNotes T504	GO:0005623 (cell)
+T505	GO_CC 11740 11755	heterochromatin
+#505	AnnotatorNotes T505	GO:0000792 (heterochromatin)
+T506	GO_CC 11756 11778	subnuclear compartment
+#506	AnnotatorNotes T506	GO:0044428 (nuclear part)
+T507	NCBITaxon 11811 11820	mammalian
+#507	AnnotatorNotes T507	NCBITaxon:40674 (Mammalia)
+T508	CL 11821 11825	cell
+#508	AnnotatorNotes T508	CL:0000000 (cell)
+T509	GO_CC 11821 11825	cell
+#509	AnnotatorNotes T509	GO:0005623 (cell)
+T510	GO_CC 11844 11849	CAF-1
+#510	AnnotatorNotes T510	GO:0033186 (CAF-1 complex)
+T511	GO_BP 11875 11882	S phase
+#511	AnnotatorNotes T511	GO:0051320 (S phase)
+T512	GO_BP 11935 11947	transfection
+#512	AnnotatorNotes T512	GO:0009294 (DNA mediated transformation)
+T513	GO_BP 11955 11959	RNAi
+#513	AnnotatorNotes T513	GO:0016246 (RNA interference)
+T514	SO 11960 11966	vector
+#514	AnnotatorNotes T514	SO:0000440 (vector_replicon)
+T515	EntrezGene 11968 11977	p150CAF-1
+#515	AnnotatorNotes T515	EG:27221
+T516	PR 11968 11977	p150CAF-1
+#516	AnnotatorNotes T516	PR:000005402 (chromatin assembly factor 1 subunit A)
+T517	CL 11987 11992	cells
+#517	AnnotatorNotes T517	CL:0000000 (cell)
+T518	GO_CC 11987 11992	cells
+#518	AnnotatorNotes T518	GO:0005623 (cell)
+T519	GO_CC 12030 12035	CAF-1
+#519	AnnotatorNotes T519	GO:0033186 (CAF-1 complex)
+T520	GO_BP 12071 12082	replication
+#520	AnnotatorNotes T520	GO:0006260 (DNA replication)
+T521	SO 12099 12112	incorporation
+#521	AnnotatorNotes T521	SO:0000046 (insert)
+T522	CHEBI 12120 12129	thymidine
+#522	AnnotatorNotes T522	CHEBI:17748 (thymidine)
+T523	CHEBI 12130 12136	analog
+#523	AnnotatorNotes T523	CHEBI:22694 (base analogs)
+T524	GO_CC 12179 12183	PCNA
+#524	AnnotatorNotes T524	GO:0005577 (fibrinogen complex)
+T525	PR 12179 12183	PCNA
+#525	AnnotatorNotes T525	PR:000012421 (proliferating cell nuclear antigen)
+T526	EntrezGene 12179 12183	PCNA
+#526	AnnotatorNotes T526	EG:18538
+T527	GO_CC 12185 12219	proliferating cell nuclear antigen
+#527	AnnotatorNotes T527	GO:0005577 (fibrinogen complex)
+T528	EntrezGene 12185 12219	proliferating cell nuclear antigen
+#528	AnnotatorNotes T528	EG:18538
+T529	PR 12185 12219	proliferating cell nuclear antigen
+#529	AnnotatorNotes T529	PR:000012421 (proliferating cell nuclear antigen)
+T530	GO_BP 12185 12198	proliferating
+#530	AnnotatorNotes T530	GO:0008283 (cell proliferation)
+T531	CL 12199 12203	cell
+#531	AnnotatorNotes T531	CL:0000000 (cell)
+T532	GO_CC 12199 12203	cell
+#532	AnnotatorNotes T532	GO:0005623 (cell)
+T533	GO_CC 12204 12211	nuclear
+#533	AnnotatorNotes T533	GO:0005634 (nucleus)
+T534	CL 12299 12304	cells
+#534	AnnotatorNotes T534	CL:0000000 (cell)
+T535	GO_CC 12299 12304	cells
+#535	AnnotatorNotes T535	GO:0005623 (cell)
+T536	GO_BP 12306 12321	DNA replication
+#536	AnnotatorNotes T536	GO:0006260 (DNA replication)
+T537	SO 12306 12309	DNA
+#537	AnnotatorNotes T537	SO:0000352 (DNA)
+T538	GO_CC 12362 12377	heterochromatin
+#538	AnnotatorNotes T538	GO:0000792 (heterochromatin)
+T539	CL 12416 12421	cells
+#539	AnnotatorNotes T539	CL:0000000 (cell)
+T540	GO_CC 12416 12421	cells
+#540	AnnotatorNotes T540	GO:0005623 (cell)
+T541	GO_BP 12431 12442	proliferate
+#541	AnnotatorNotes T541	GO:0008283 (cell proliferation)
+T542	GO_BP 12447 12450	die
+#542	AnnotatorNotes T542	GO:0016265 (death)
+T543	EntrezGene 12467 12476	p150CAF-1
+#543	AnnotatorNotes T543	EG:27221
+T544	PR 12467 12476	p150CAF-1
+#544	AnnotatorNotes T544	PR:000005402 (chromatin assembly factor 1 subunit A)
+T545	GO_BP 12506 12522	cellular process
+#545	AnnotatorNotes T545	GO:0009987 (cellular process)
+T546	CL 12506 12514	cellular
+#546	AnnotatorNotes T546	CL:0000000 (cell)
+T547	GO_CC 12506 12514	cellular
+#547	AnnotatorNotes T547	GO:0005623 (cell)
+T548	EntrezGene 12585 12594	p150CAF-1
+#548	AnnotatorNotes T548	EG:27221
+T549	PR 12585 12594	p150CAF-1
+#549	AnnotatorNotes T549	PR:000005402 (chromatin assembly factor 1 subunit A)
+T550	CL 12610 12615	cells
+#550	AnnotatorNotes T550	CL:0000000 (cell)
+T551	GO_CC 12610 12615	cells
+#551	AnnotatorNotes T551	GO:0005623 (cell)
+T552	GO_CC 12667 12697	heterochromatin in the nucleus
+#552	AnnotatorNotes T552	"heterochromatin in .. nucleus" GO:0005720 (nuclear heterochromatin)
+T553	GO_CC 12690 12697	nucleus
+#553	AnnotatorNotes T553	GO:0005634 (nucleus)
+T554	GO_BP 12725 12735	cell cycle
+#554	AnnotatorNotes T554	GO:0007049 (cell cycle)
+T555	CL 12725 12729	cell
+#555	AnnotatorNotes T555	CL:0000000 (cell)
+T556	GO_CC 12725 12729	cell
+#556	AnnotatorNotes T556	GO:0005623 (cell)
+T557	GO_CC 12799 12814	heterochromatin
+#557	AnnotatorNotes T557	GO:0000792 (heterochromatin)
+T558	SO 12852 12855	DNA
+#558	AnnotatorNotes T558	SO:0000352 (DNA)
+T559	GO_MF 12877 12890	hybridization
+#559	AnnotatorNotes T559	GO:0033592 (RNA strand annealing activity)
+T560	GO_MF 12877 12890	hybridization
+#560	AnnotatorNotes T560	GO:0000739 (DNA strand annealing activity)
+T561	GO_BP 12932 12944	distribution
+#561	AnnotatorNotes T561	GO:0051179 (localization)
+T562	GO_CC 12948 12991	pericentric and centric chromosomal regions
+#562	AnnotatorNotes T562	"pericentric .. chromosomal regions" GO:0000775 (chromosome, pericentric region)
+T563	SO 12972 12991	chromosomal regions
+#563	AnnotatorNotes T563	SO:0000830 (chromosome_part)
+T564	GO_CC 12972 12983	chromosomal
+#564	AnnotatorNotes T564	GO:0005694 (chromosome)
+T565	SO 12972 12983	chromosomal
+#565	AnnotatorNotes T565	SO:0000340 (chromosome)
+T566	NCBITaxon 13002 13007	mouse
+#566	AnnotatorNotes T566	NCBITaxon:10088 (Mus)
+T567	SO 13063 13080	satellite repeats
+#567	AnnotatorNotes T567	SO:0000005 (satellite_DNA)
+T568	GO_CC 13101 13147	Pericentric domains from different chromosomes
+#568	AnnotatorNotes T568	"Pericentric domains from .. chromosomes" GO:0000775 (chromosome, pericentric region)
+T569	SO 13113 13147	domains from different chromosomes
+#569	AnnotatorNotes T569	"domains from .. chromosomes" SO:0000830 (chromosome_part)
+T570	GO_CC 13136 13147	chromosomes
+#570	AnnotatorNotes T570	GO:0005694 (chromosome)
+T571	SO 13136 13147	chromosomes
+#571	AnnotatorNotes T571	SO:0000340 (chromosome)
+T572	GO_BP 13148 13152	form
+#572	AnnotatorNotes T572	GO:0022607 (cellular component assembly)
+T573	GO_BP 13247 13257	interphase
+#573	AnnotatorNotes T573	GO:0051325 (interphase)
+T574	GO_CC 13258 13265	nucleus
+#574	AnnotatorNotes T574	GO:0005634 (nucleus)
+T575	GO_CC 13304 13322	pericentric domain
+#575	AnnotatorNotes T575	GO:0000775 (chromosome, pericentric region)
+T576	SO 13316 13322	domain
+#576	AnnotatorNotes T576	SO:0000001 (region)
+T577	SO 13332 13339	regions
+#577	AnnotatorNotes T577	SO:0000001 (region)
+T578	GO_BP 13340 13344	form
+#578	AnnotatorNotes T578	GO:0022607 (cellular component assembly)
+T579	EntrezGene 13381 13390	p150CAF-1
+#579	AnnotatorNotes T579	EG:27221
+T580	PR 13381 13390	p150CAF-1
+#580	AnnotatorNotes T580	PR:000005402 (chromatin assembly factor 1 subunit A)
+T581	GO_BP 13391 13395	RNAi
+#581	AnnotatorNotes T581	GO:0016246 (RNA interference)
+T582	CL 13405 13410	cells
+#582	AnnotatorNotes T582	CL:0000000 (cell)
+T583	GO_CC 13405 13410	cells
+#583	AnnotatorNotes T583	GO:0005623 (cell)
+T584	GO_CC 13440 13467	pericentric heterochromatin
+#584	AnnotatorNotes T584	GO:0005721 (centric heterochromatin)
+T585	GO_CC 13440 13451	pericentric
+#585	AnnotatorNotes T585	GO:0000775 (chromosome, pericentric region)
+T586	GO_CC 13558 13601	pericentric domains from single chromosomes
+#586	AnnotatorNotes T586	"pericentric domains from .. chromosomes" GO:0000775 (chromosome, pericentric region)
+T587	SO 13570 13601	domains from single chromosomes
+#587	AnnotatorNotes T587	"domains from .. chromosomes" SO:0000830 (chromosome_part)
+T588	GO_CC 13590 13601	chromosomes
+#588	AnnotatorNotes T588	GO:0005694 (chromosome)
+T589	SO 13590 13601	chromosomes
+#589	AnnotatorNotes T589	SO:0000340 (chromosome)
+T590	CL 13716 13721	cells
+#590	AnnotatorNotes T590	CL:0000000 (cell)
+T591	GO_CC 13716 13721	cells
+#591	AnnotatorNotes T591	GO:0005623 (cell)
+T592	GO_CC 13781 13788	nuclear
+#592	AnnotatorNotes T592	GO:0005634 (nucleus)
+T593	EntrezGene 13861 13870	p150CAF-1
+#593	AnnotatorNotes T593	EG:27221
+T594	PR 13861 13870	p150CAF-1
+#594	AnnotatorNotes T594	PR:000005402 (chromatin assembly factor 1 subunit A)
+T595	GO_CC 13959 13966	nucleus
+#595	AnnotatorNotes T595	GO:0005634 (nucleus)
+T596	GO_BP 14019 14109	distribution of DAPI and major satellite hybridization signals in p150CAF-1-depleted cells
+#596	AnnotatorNotes T596	"distribution .. in .. cells" GO:0051641 (cellular localization)
+T597	SO 14050 14059	satellite
+#597	AnnotatorNotes T597	SO:0000005 (satellite_DNA)
+T598	GO_MF 14060 14073	hybridization
+#598	AnnotatorNotes T598	GO:0033592 (RNA strand annealing activity)
+T599	GO_MF 14060 14073	hybridization
+#599	AnnotatorNotes T599	GO:0000739 (DNA strand annealing activity)
+T600	EntrezGene 14085 14094	p150CAF-1
+#600	AnnotatorNotes T600	EG:27221
+T601	PR 14085 14094	p150CAF-1
+#601	AnnotatorNotes T601	PR:000005402 (chromatin assembly factor 1 subunit A)
+T602	CL 14104 14109	cells
+#602	AnnotatorNotes T602	CL:0000000 (cell)
+T603	GO_CC 14104 14109	cells
+#603	AnnotatorNotes T603	GO:0005623 (cell)
+T604	GO_BP 14141 14155	decondensation
+#604	AnnotatorNotes T604	GO:0051312 (chromosome decondensation)
+T605	GO_CC 14159 14194	pericentric heterochromatin domains
+#605	AnnotatorNotes T605	GO:0005721 (centric heterochromatin)
+T606	GO_CC 14159 14170	pericentric
+#606	AnnotatorNotes T606	GO:0000775 (chromosome, pericentric region)
+T607	SO 14187 14194	domains
+#607	AnnotatorNotes T607	SO:0000001 (region)
+T608	SO 14217 14224	domains
+#608	AnnotatorNotes T608	SO:0000001 (region)
+T609	CL 14274 14279	cells
+#609	AnnotatorNotes T609	CL:0000000 (cell)
+T610	GO_CC 14274 14279	cells
+#610	AnnotatorNotes T610	GO:0005623 (cell)
+T611	EntrezGene 14323 14332	p150CAF-1
+#611	AnnotatorNotes T611	EG:27221
+T612	PR 14323 14332	p150CAF-1
+#612	AnnotatorNotes T612	PR:000005402 (chromatin assembly factor 1 subunit A)
+T613	EntrezGene 14402 14411	p150CAF-1
+#613	AnnotatorNotes T613	EG:27221
+T614	PR 14402 14411	p150CAF-1
+#614	AnnotatorNotes T614	PR:000005402 (chromatin assembly factor 1 subunit A)
+T615	GO_BP 14439 14451	condensation
+#615	AnnotatorNotes T615	GO:0030261 (chromosome condensation)
+T616	GO_CC 14470 14505	pericentric heterochromatin domains
+#616	AnnotatorNotes T616	GO:0005721 (centric heterochromatin)
+T617	GO_CC 14470 14481	pericentric
+#617	AnnotatorNotes T617	GO:0000775 (chromosome, pericentric region)
+T618	SO 14498 14505	domains
+#618	AnnotatorNotes T618	SO:0000001 (region)
+T619	GO_CC 14532 14537	CAF-1
+#619	AnnotatorNotes T619	GO:0033186 (CAF-1 complex)
+T620	CHEBI 14559 14566	histone
+#620	AnnotatorNotes T620	CHEBI:15358 (histone)
+T621	SO 14595 14598	DNA
+#621	AnnotatorNotes T621	SO:0000352 (DNA)
+T622	GO_BP 14599 14608	synthesis
+#622	AnnotatorNotes T622	GO:0009058 (biosynthetic process)
+T623	GO_CC 14666 14675	chromatin
+#623	AnnotatorNotes T623	GO:0000785 (chromatin)
+T624	GO_CC 14715 14726	nucleosomal
+#624	AnnotatorNotes T624	GO:0000786 (nucleosome)
+T625	GO_MF 14747 14754	DNase I
+#625	AnnotatorNotes T625	GO:0004530 (deoxyribonuclease I activity)
+T626	independent_continuant 14747 14754	DNase I
+#626	AnnotatorNotes T626	independent_continuant
+T627	PR 14747 14754	DNase I
+#627	AnnotatorNotes T627	PR:000006592 (deoxyribonuclease-1)
+T628	GO_MF 14771 14779	nuclease
+#628	AnnotatorNotes T628	GO:0004518 (nuclease activity)
+T629	independent_continuant 14771 14779	nuclease
+#629	AnnotatorNotes T629	independent_continuant
+T630	EntrezGene 14864 14873	p150CAF-1
+#630	AnnotatorNotes T630	EG:27221
+T631	PR 14864 14873	p150CAF-1
+#631	AnnotatorNotes T631	PR:000005402 (chromatin assembly factor 1 subunit A)
+T632	CL 14886 14891	cells
+#632	AnnotatorNotes T632	CL:0000000 (cell)
+T633	GO_CC 14886 14891	cells
+#633	AnnotatorNotes T633	GO:0005623 (cell)
+T634	SO 14913 14919	genome
+#634	AnnotatorNotes T634	SO:0001026 (genome)
+T635	GO_CC 14920 14929	chromatin
+#635	AnnotatorNotes T635	GO:0000785 (chromatin)
+T636	GO_CC 14936 14947	pericentric
+#636	AnnotatorNotes T636	GO:0000775 (chromosome, pericentric region)
+T637	SO 14948 14955	repeats
+#637	AnnotatorNotes T637	SO:0000726 (repeat_unit)
+T638	SO 14948 14955	repeats
+#638	AnnotatorNotes T638	SO:0000657 (repeat_region)
+T639	CHEBI 15034 15041	histone
+#639	AnnotatorNotes T639	CHEBI:15358 (histone)
+T640	GO_CC 15050 15069	chromatin in nuclei
+#640	AnnotatorNotes T640	GO:0000790 (nuclear chromatin)
+T641	GO_CC 15063 15069	nuclei
+#641	AnnotatorNotes T641	GO:0005634 (nucleus)
+T642	CL 15084 15089	cells
+#642	AnnotatorNotes T642	CL:0000000 (cell)
+T643	GO_CC 15084 15089	cells
+#643	AnnotatorNotes T643	GO:0005623 (cell)
+T644	GO_BP 15090 15101	transfected
+#644	AnnotatorNotes T644	GO:0009294 (DNA mediated transformation)
+T645	PR 15119 15128	p150CAF-1
+#645	AnnotatorNotes T645	PR:000005402 (chromatin assembly factor 1 subunit A)
+T646	GO_BP 15129 15133	RNAi
+#646	AnnotatorNotes T646	GO:0016246 (RNA interference)
+T647	SO 15134 15149	plasmid vectors
+#647	AnnotatorNotes T647	SO:0000755 (plasmid_vector)
+T648	SO 15134 15141	plasmid
+#648	AnnotatorNotes T648	SO:0000155 (plasmid)
+T649	GO_CC 15151 15157	Nuclei
+#649	AnnotatorNotes T649	GO:0005634 (nucleus)
+T650	CHEBI 15199 15203	salt
+#650	AnnotatorNotes T650	CHEBI:24866 (salts)
+T651	CHEBI 15239 15243	NaCl
+#651	AnnotatorNotes T651	CHEBI:26710 (sodium chloride)
+T652	CHEBI 15251 15255	NaCl
+#652	AnnotatorNotes T652	CHEBI:26710 (sodium chloride)
+T653	CHEBI 15290 15297	histone
+#653	AnnotatorNotes T653	CHEBI:15358 (histone)
+T654	GO_CC 15327 15336	chromatin
+#654	AnnotatorNotes T654	GO:0000785 (chromatin)
+T655	EntrezGene 15374 15383	p150CAF-1
+#655	AnnotatorNotes T655	EG:27221
+T656	PR 15374 15383	p150CAF-1
+#656	AnnotatorNotes T656	PR:000005402 (chromatin assembly factor 1 subunit A)
+T657	CL 15396 15401	cells
+#657	AnnotatorNotes T657	CL:0000000 (cell)
+T658	GO_CC 15396 15401	cells
+#658	AnnotatorNotes T658	GO:0005623 (cell)
+T659	GO_BP 15460 15474	decondensation
+#659	AnnotatorNotes T659	GO:0051312 (chromosome decondensation)
+T660	GO_CC 15478 15505	pericentric heterochromatin
+#660	AnnotatorNotes T660	GO:0005721 (centric heterochromatin)
+T661	GO_CC 15478 15489	pericentric
+#661	AnnotatorNotes T661	GO:0000775 (chromosome, pericentric region)
+T662	GO_CC 15562 15573	nucleosomal
+#662	AnnotatorNotes T662	GO:0000786 (nucleosome)
+T663	GO_CC 15618 15625	nuclear
+#663	AnnotatorNotes T663	GO:0005634 (nucleus)
+T664	GO_BP 15626 15638	localization
+#664	AnnotatorNotes T664	GO:0051179 (localization)
+T665	EntrezGene 15642 15646	HP1α
+#665	AnnotatorNotes T665	EG:12419
+T666	PR 15642 15646	HP1α
+#666	AnnotatorNotes T666	PR:000005086 (chromobox protein 5)
+T667	italic 15670 15676	Chaf1a
+#667	AnnotatorNotes T667	italic (null)
+T668	EntrezGene 15670 15676	Chaf1a
+#668	AnnotatorNotes T668	EG:27221
+T669	PR 15670 15676	Chaf1a
+#669	AnnotatorNotes T669	PR:000005402 (chromatin assembly factor 1 subunit A)
+T670	sup 15676 15679	−/−
+#670	AnnotatorNotes T670	sup (null)
+T671	italic 15678 15679	−
+#671	AnnotatorNotes T671	italic (null)
+T672	EntrezGene 15692 15701	p150CAF-1
+#672	AnnotatorNotes T672	EG:27221
+T673	PR 15692 15701	p150CAF-1
+#673	AnnotatorNotes T673	PR:000005402 (chromatin assembly factor 1 subunit A)
+T674	CL 15714 15719	cells
+#674	AnnotatorNotes T674	CL:0000000 (cell)
+T675	GO_CC 15714 15719	cells
+#675	AnnotatorNotes T675	GO:0005623 (cell)
+T676	GO_CC 15813 15840	pericentric heterochromatin
+#676	AnnotatorNotes T676	GO:0005721 (centric heterochromatin)
+T677	GO_CC 15813 15824	pericentric
+#677	AnnotatorNotes T677	GO:0000775 (chromosome, pericentric region)
+T678	GO_BP 15858 15877	DNA CpG methylation
+#678	AnnotatorNotes T678	GO:0010424 (cytosine methylation within a CG sequence)
+T679	SO 15858 15861	DNA
+#679	AnnotatorNotes T679	SO:0000352 (DNA)
+T680	SO 15892 15909	satellite repeats
+#680	AnnotatorNotes T680	SO:0000005 (satellite_DNA)
+T681	EntrezGene 15966 15975	p150CAF-1
+#681	AnnotatorNotes T681	EG:27221
+T682	PR 15966 15975	p150CAF-1
+#682	AnnotatorNotes T682	PR:000005402 (chromatin assembly factor 1 subunit A)
+T683	CL 15985 15990	cells
+#683	AnnotatorNotes T683	CL:0000000 (cell)
+T684	GO_CC 15985 15990	cells
+#684	AnnotatorNotes T684	GO:0005623 (cell)
+T685	CL 16018 16022	cell
+#685	AnnotatorNotes T685	CL:0000000 (cell)
+T686	GO_CC 16018 16022	cell
+#686	AnnotatorNotes T686	GO:0005623 (cell)
+T687	GO_BP 16048 16052	RNAi
+#687	AnnotatorNotes T687	GO:0016246 (RNA interference)
+T688	CL 16082 16086	cell
+#688	AnnotatorNotes T688	CL:0000000 (cell)
+T689	GO_CC 16082 16086	cell
+#689	AnnotatorNotes T689	GO:0005623 (cell)
+T690	GO_BP 16093 16108	DNA methylation
+#690	AnnotatorNotes T690	GO:0006306 (DNA methylation)
+T691	SO 16093 16096	DNA
+#691	AnnotatorNotes T691	SO:0000352 (DNA)
+T692	CL 16138 16143	cells
+#692	AnnotatorNotes T692	CL:0000000 (cell)
+T693	GO_CC 16138 16143	cells
+#693	AnnotatorNotes T693	GO:0005623 (cell)
+T694	GO_CC 16202 16213	pericentric
+#694	AnnotatorNotes T694	GO:0000775 (chromosome, pericentric region)
+T695	SO 16214 16221	repeats
+#695	AnnotatorNotes T695	SO:0000726 (repeat_unit)
+T696	SO 16214 16221	repeats
+#696	AnnotatorNotes T696	SO:0000657 (repeat_region)
+T697	GO_CC 16265 16288	heterochromatin domains
+#697	AnnotatorNotes T697	GO:0000792 (heterochromatin)
+T698	SO 16281 16288	domains
+#698	AnnotatorNotes T698	SO:0000001 (region)
+T699	EntrezGene 16292 16301	p150CAF-1
+#699	AnnotatorNotes T699	EG:27221
+T700	PR 16292 16301	p150CAF-1
+#700	AnnotatorNotes T700	PR:000005402 (chromatin assembly factor 1 subunit A)
+T701	CL 16314 16319	cells
+#701	AnnotatorNotes T701	CL:0000000 (cell)
+T702	GO_CC 16314 16319	cells
+#702	AnnotatorNotes T702	GO:0005623 (cell)
+T703	GO_BP 16335 16339	RNAi
+#703	AnnotatorNotes T703	GO:0016246 (RNA interference)
+T704	SO 16340 16354	plasmid vector
+#704	AnnotatorNotes T704	SO:0000755 (plasmid_vector)
+T705	SO 16340 16347	plasmid
+#705	AnnotatorNotes T705	SO:0000155 (plasmid)
+T706	CL 16366 16370	cell
+#706	AnnotatorNotes T706	CL:0000000 (cell)
+T707	GO_CC 16366 16370	cell
+#707	AnnotatorNotes T707	GO:0005623 (cell)
+T708	EntrezGene 16404 16413	p150CAF-1
+#708	AnnotatorNotes T708	EG:27221
+T709	PR 16404 16413	p150CAF-1
+#709	AnnotatorNotes T709	PR:000005402 (chromatin assembly factor 1 subunit A)
+T710	GO_CC 16437 16452	heterochromatin
+#710	AnnotatorNotes T710	GO:0000792 (heterochromatin)
+T711	GO_BP 16497 16512	DNA methylation
+#711	AnnotatorNotes T711	GO:0006306 (DNA methylation)
+T712	SO 16497 16500	DNA
+#712	AnnotatorNotes T712	SO:0000352 (DNA)
+T713	GO_CC 16516 16527	pericentric
+#713	AnnotatorNotes T713	GO:0000775 (chromosome, pericentric region)
+T714	SO 16528 16535	repeats
+#714	AnnotatorNotes T714	SO:0000726 (repeat_unit)
+T715	SO 16528 16535	repeats
+#715	AnnotatorNotes T715	SO:0000657 (repeat_region)
+T716	GO_BP 16582 16603	histone modifications
+#716	AnnotatorNotes T716	GO:0016570 (histone modification)
+T717	CHEBI 16582 16589	histone
+#717	AnnotatorNotes T717	CHEBI:15358 (histone)
+T718	SO 16590 16603	modifications
+#718	AnnotatorNotes T718	SO:0001059 (sequence_alteration)
+T719	GO_CC 16612 16621	chromatin
+#719	AnnotatorNotes T719	GO:0000785 (chromatin)
+T720	GO_CC 16674 16683	chromatin
+#720	AnnotatorNotes T720	GO:0000785 (chromatin)
+T721	GO_CC 16704 16719	pericentric DNA
+#721	AnnotatorNotes T721	GO:0000775 (chromosome, pericentric region)
+T722	SO 16716 16719	DNA
+#722	AnnotatorNotes T722	SO:0000352 (DNA)
+T723	GO_CC 16796 16806	antibodies
+#723	AnnotatorNotes T723	GO:0019814 (immunoglobulin complex)
+T724	EntrezGene 16817 16826	p150CAF-1
+#724	AnnotatorNotes T724	EG:27221
+T725	PR 16817 16826	p150CAF-1
+#725	AnnotatorNotes T725	PR:000005402 (chromatin assembly factor 1 subunit A)
+T726	SO 16886 16903	satellite repeats
+#726	AnnotatorNotes T726	SO:0000005 (satellite_DNA)
+T727	EntrezGene 16979 16988	p150CAF-1
+#727	AnnotatorNotes T727	EG:27221
+T728	PR 16979 16988	p150CAF-1
+#728	AnnotatorNotes T728	PR:000005402 (chromatin assembly factor 1 subunit A)
+T729	GO_CC 17025 17052	pericentric heterochromatin
+#729	AnnotatorNotes T729	GO:0005721 (centric heterochromatin)
+T730	GO_CC 17025 17036	pericentric
+#730	AnnotatorNotes T730	GO:0000775 (chromosome, pericentric region)
+T731	SO 17172 17180	elements
+#731	AnnotatorNotes T731	SO:0000001 (region)
+T732	SO 17219 17240	repeated DNA elements
+#732	AnnotatorNotes T732	"repeated .. elements" SO:0000726 (repeat_unit)
+T733	SO 17219 17240	repeated DNA elements
+#733	AnnotatorNotes T733	"repeated .. elements" SO:0000657 (repeat_region)
+T734	SO 17228 17240	DNA elements
+#734	AnnotatorNotes T734	SO:0000352 (DNA)
+T735	EntrezGene 17296 17305	p150CAF-1
+#735	AnnotatorNotes T735	EG:27221
+T736	PR 17296 17305	p150CAF-1
+#736	AnnotatorNotes T736	PR:000005402 (chromatin assembly factor 1 subunit A)
+T737	GO_CC 17350 17377	pericentric heterochromatin
+#737	AnnotatorNotes T737	GO:0005721 (centric heterochromatin)
+T738	GO_CC 17350 17361	pericentric
+#738	AnnotatorNotes T738	GO:0000775 (chromosome, pericentric region)
+T739	SO 17408 17412	loci
+#739	AnnotatorNotes T739	SO:0000001 (region)
+T740	EntrezGene 17470 17479	p150CAF-1
+#740	AnnotatorNotes T740	EG:27221
+T741	PR 17470 17479	p150CAF-1
+#741	AnnotatorNotes T741	PR:000005402 (chromatin assembly factor 1 subunit A)
+T742	CL 17489 17494	cells
+#742	AnnotatorNotes T742	CL:0000000 (cell)
+T743	GO_CC 17489 17494	cells
+#743	AnnotatorNotes T743	GO:0005623 (cell)
+T744	SO 17560 17569	wild-type
+#744	AnnotatorNotes T744	SO:0000817 (wild_type)
+T745	CL 17570 17575	cells
+#745	AnnotatorNotes T745	CL:0000000 (cell)
+T746	GO_CC 17570 17575	cells
+#746	AnnotatorNotes T746	GO:0005623 (cell)
+T747	EntrezGene 17743 17752	p150CAF-1
+#747	AnnotatorNotes T747	EG:27221
+T748	PR 17743 17752	p150CAF-1
+#748	AnnotatorNotes T748	PR:000005402 (chromatin assembly factor 1 subunit A)
+T749	CL 17762 17767	cells
+#749	AnnotatorNotes T749	CL:0000000 (cell)
+T750	GO_CC 17762 17767	cells
+#750	AnnotatorNotes T750	GO:0005623 (cell)
+T751	EntrezGene 17809 17813	HP1α
+#751	AnnotatorNotes T751	EG:12419
+T752	PR 17809 17813	HP1α
+#752	AnnotatorNotes T752	PR:000005086 (chromobox protein 5)
+T753	CL 17940 17945	cells
+#753	AnnotatorNotes T753	CL:0000000 (cell)
+T754	GO_CC 17940 17945	cells
+#754	AnnotatorNotes T754	GO:0005623 (cell)
+T755	SO 18051 18059	epitopes
+#755	AnnotatorNotes T755	SO:0001018 (epitope)
+T756	GO_BP 18090 18099	relocated
+#756	AnnotatorNotes T756	GO:0051234 (establishment of localization)
+T757	GO_CC 18168 18173	CAF-1
+#757	AnnotatorNotes T757	GO:0033186 (CAF-1 complex)
+T758	CL 18180 18185	cells
+#758	AnnotatorNotes T758	CL:0000000 (cell)
+T759	GO_CC 18180 18185	cells
+#759	AnnotatorNotes T759	GO:0005623 (cell)
+T760	GO_CC 18224 18239	heterochromatin
+#760	AnnotatorNotes T760	GO:0000792 (heterochromatin)
+T761	EntrezGene 18342 18351	p150CAF-1
+#761	AnnotatorNotes T761	EG:27221
+T762	PR 18342 18351	p150CAF-1
+#762	AnnotatorNotes T762	PR:000005402 (chromatin assembly factor 1 subunit A)
+T763	NCBITaxon 18382 18387	mouse
+#763	AnnotatorNotes T763	NCBITaxon:10088 (Mus)
+T764	GO_BP 18394 18407	embryogenesis
+#764	AnnotatorNotes T764	GO:0009790 (embryonic development)
+T765	CL 18418 18423	cells
+#765	AnnotatorNotes T765	CL:0000000 (cell)
+T766	GO_CC 18418 18423	cells
+#766	AnnotatorNotes T766	GO:0005623 (cell)
+T767	GO_CC 18454 18459	CAF-1
+#767	AnnotatorNotes T767	GO:0033186 (CAF-1 complex)
+T768	GO_BP 18496 18511	DNA replication
+#768	AnnotatorNotes T768	GO:0006260 (DNA replication)
+T769	SO 18496 18499	DNA
+#769	AnnotatorNotes T769	SO:0000352 (DNA)
+T770	NCBITaxon 18515 18526	vertebrates
+#770	AnnotatorNotes T770	NCBITaxon:7742 (Vertebrata)
+T771	italic 18531 18546	Xenopus laevis,
+#771	AnnotatorNotes T771	italic (null)
+T772	taxonomic_rank 18531 18545	Xenopus laevis
+#772	AnnotatorNotes T772	taxonomic_rank (null)
+T773	NCBITaxon 18531 18545	Xenopus laevis
+#773	AnnotatorNotes T773	NCBITaxon:8355 (Xenopus laevis)
+T774	EntrezGene 18547 18556	p150CAF-1
+#774	AnnotatorNotes T774	EG:733264
+T775	PR 18547 18556	p150CAF-1
+#775	AnnotatorNotes T775	PR:000005402 (chromatin assembly factor 1 subunit A)
+T776	GO_BP 18592 18606	cell divisions
+#776	AnnotatorNotes T776	GO:0051301 (cell division)
+T777	CL 18592 18596	cell
+#777	AnnotatorNotes T777	CL:0000000 (cell)
+T778	GO_CC 18592 18596	cell
+#778	AnnotatorNotes T778	GO:0005623 (cell)
+T779	GO_BP 18631 18642	development
+#779	AnnotatorNotes T779	GO:0032502 (developmental process)
+T780	GO_CC 18660 18665	CAF-1
+#780	AnnotatorNotes T780	GO:0033186 (CAF-1 complex)
+T781	NCBITaxon 18682 18691	mammalian
+#781	AnnotatorNotes T781	NCBITaxon:40674 (Mammalia)
+T782	CL 18692 18696	cell
+#782	AnnotatorNotes T782	CL:0000000 (cell)
+T783	GO_CC 18692 18696	cell
+#783	AnnotatorNotes T783	GO:0005623 (cell)
+T784	GO_BP 18726 18741	DNA replication
+#784	AnnotatorNotes T784	GO:0006260 (DNA replication)
+T785	SO 18726 18729	DNA
+#785	AnnotatorNotes T785	SO:0000352 (DNA)
+T786	GO_CC 18788 18793	CAF-1
+#786	AnnotatorNotes T786	GO:0033186 (CAF-1 complex)
+T787	GO_CC 18801 18808	nuclear
+#787	AnnotatorNotes T787	GO:0005634 (nucleus)
+T788	GO_CC 18825 18848	heterochromatin domains
+#788	AnnotatorNotes T788	GO:0000792 (heterochromatin)
+T789	SO 18841 18848	domains
+#789	AnnotatorNotes T789	SO:0000001 (region)
+T790	GO_BP 18862 18873	development
+#790	AnnotatorNotes T790	GO:0032502 (developmental process)
+T791	CL 18884 18889	cells
+#791	AnnotatorNotes T791	CL:0000000 (cell)
+T792	GO_CC 18884 18889	cells
+#792	AnnotatorNotes T792	GO:0005623 (cell)
+T793	EntrezGene 18907 18916	p150CAF-1
+#793	AnnotatorNotes T793	EG:27221
+T794	PR 18907 18916	p150CAF-1
+#794	AnnotatorNotes T794	PR:000005402 (chromatin assembly factor 1 subunit A)
+T795	CL 18929 18934	cells
+#795	AnnotatorNotes T795	CL:0000000 (cell)
+T796	GO_CC 18929 18934	cells
+#796	AnnotatorNotes T796	GO:0005623 (cell)
+T797	GO_BP 18942 18957	DNA replication
+#797	AnnotatorNotes T797	GO:0006260 (DNA replication)
+T798	SO 18942 18945	DNA
+#798	AnnotatorNotes T798	SO:0000352 (DNA)
+T799	GO_CC 19013 19024	nucleosomal
+#799	AnnotatorNotes T799	GO:0000786 (nucleosome)
+T800	GO_CC 19046 19061	heterochromatin
+#800	AnnotatorNotes T800	GO:0000792 (heterochromatin)
+T801	EntrezGene 19108 19117	p150CAF-1
+#801	AnnotatorNotes T801	EG:27221
+T802	PR 19108 19117	p150CAF-1
+#802	AnnotatorNotes T802	PR:000005402 (chromatin assembly factor 1 subunit A)
+T803	GO_CC 19133 19143	PML bodies
+#803	AnnotatorNotes T803	GO:0016605 (PML body)
+T804	EntrezGene 19133 19136	PML
+#804	AnnotatorNotes T804	EG:18854
+T805	PR 19133 19136	PML
+#805	AnnotatorNotes T805	PR:000026474 (probable transcription factor PML)
+T806	CL 19150 19154	cell
+#806	AnnotatorNotes T806	CL:0000000 (cell)
+T807	GO_CC 19150 19154	cell
+#807	AnnotatorNotes T807	GO:0005623 (cell)
+T808	GO_CC 19155 19161	nuclei
+#808	AnnotatorNotes T808	GO:0005634 (nucleus)
+T809	GO_CC 19176 19183	nuclear
+#809	AnnotatorNotes T809	GO:0005634 (nucleus)
+T810	EntrezGene 19235 19244	p150CAF-1
+#810	AnnotatorNotes T810	EG:27221
+T811	PR 19235 19244	p150CAF-1
+#811	AnnotatorNotes T811	PR:000005402 (chromatin assembly factor 1 subunit A)
+T812	GO_BP 19270 19276	arrest
+#812	AnnotatorNotes T812	GO:0007050 (cell cycle arrest)
+T813	GO_BP 19283 19296	cell division
+#813	AnnotatorNotes T813	GO:0051301 (cell division)
+T814	CL 19283 19287	cell
+#814	AnnotatorNotes T814	CL:0000000 (cell)
+T815	GO_CC 19283 19287	cell
+#815	AnnotatorNotes T815	GO:0005623 (cell)
+T816	GO_BP 19301 19311	cell death
+#816	AnnotatorNotes T816	GO:0008219 (cell death)
+T817	CL 19301 19305	cell
+#817	AnnotatorNotes T817	CL:0000000 (cell)
+T818	GO_CC 19301 19305	cell
+#818	AnnotatorNotes T818	GO:0005623 (cell)
+T819	GO_CC 19349 19364	heterochromatin
+#819	AnnotatorNotes T819	GO:0000792 (heterochromatin)
+T820	GO_BP 19436 19449	developmental
+#820	AnnotatorNotes T820	GO:0032502 (developmental process)
+T821	GO_BP 19476 19493	death in ES cells
+#821	AnnotatorNotes T821	"death in .. cells" GO:0008219 (cell death)
+T822	CL 19488 19493	cells
+#822	AnnotatorNotes T822	CL:0000000 (cell)
+T823	GO_CC 19488 19493	cells
+#823	AnnotatorNotes T823	GO:0005623 (cell)
+T824	GO_CC 19507 19512	CAF-1
+#824	AnnotatorNotes T824	GO:0033186 (CAF-1 complex)
+T825	GO_CC 19520 19527	nuclear
+#825	AnnotatorNotes T825	GO:0005634 (nucleus)
+T826	GO_CC 19544 19559	heterochromatin
+#826	AnnotatorNotes T826	GO:0000792 (heterochromatin)
+T827	GO_BP 19577 19589	localization
+#827	AnnotatorNotes T827	GO:0051179 (localization)
+T828	GO_BP 19591 19603	condensation
+#828	AnnotatorNotes T828	GO:0030261 (chromosome condensation)
+T829	GO_CC 19623 19642	pericentric domains
+#829	AnnotatorNotes T829	GO:0000775 (chromosome, pericentric region)
+T830	SO 19635 19642	domains
+#830	AnnotatorNotes T830	SO:0000001 (region)
+T831	GO_CC 19671 19676	CAF-1
+#831	AnnotatorNotes T831	GO:0033186 (CAF-1 complex)
+T832	CL 19715 19720	cells
+#832	AnnotatorNotes T832	CL:0000000 (cell)
+T833	GO_CC 19715 19720	cells
+#833	AnnotatorNotes T833	GO:0005623 (cell)
+T834	NCBITaxon 19725 19730	human
+#834	AnnotatorNotes T834	NCBITaxon:9606 (Homo sapiens)
+T835	CL 19731 19735	cell
+#835	AnnotatorNotes T835	CL:0000000 (cell)
+T836	GO_CC 19731 19735	cell
+#836	AnnotatorNotes T836	GO:0005623 (cell)
+T837	CL 19799 19804	cells
+#837	AnnotatorNotes T837	CL:0000000 (cell)
+T838	GO_CC 19799 19804	cells
+#838	AnnotatorNotes T838	GO:0005623 (cell)
+T839	CL 19842 19847	cells
+#839	AnnotatorNotes T839	CL:0000000 (cell)
+T840	GO_CC 19842 19847	cells
+#840	AnnotatorNotes T840	GO:0005623 (cell)
+T841	SO 19855 19861	genome
+#841	AnnotatorNotes T841	SO:0001026 (genome)
+T842	CL 19891 19896	cells
+#842	AnnotatorNotes T842	CL:0000000 (cell)
+T843	GO_CC 19891 19896	cells
+#843	AnnotatorNotes T843	GO:0005623 (cell)
+T844	GO_CC 19974 19979	CAF-1
+#844	AnnotatorNotes T844	GO:0033186 (CAF-1 complex)
+T845	GO_CC 19983 19998	heterochromatin
+#845	AnnotatorNotes T845	GO:0000792 (heterochromatin)
+T846	CL 20034 20039	cells
+#846	AnnotatorNotes T846	CL:0000000 (cell)
+T847	GO_CC 20034 20039	cells
+#847	AnnotatorNotes T847	GO:0005623 (cell)
+T848	GO_CC 20061 20070	chromatin
+#848	AnnotatorNotes T848	GO:0000785 (chromatin)
+T849	CHEBI 20071 20079	proteins
+#849	AnnotatorNotes T849	CHEBI:36080 (proteins)
+T850	GO_MF 20101 20105	bind
+#850	AnnotatorNotes T850	GO:0005488 (binding)
+T851	GO_CC 20128 20137	chromatin
+#851	AnnotatorNotes T851	GO:0000785 (chromatin)
+T852	CL 20152 20160	cellular
+#852	AnnotatorNotes T852	CL:0000000 (cell)
+T853	GO_CC 20152 20160	cellular
+#853	AnnotatorNotes T853	GO:0005623 (cell)
+T854	GO_CC 20200 20215	heterochromatin
+#854	AnnotatorNotes T854	GO:0000792 (heterochromatin)
+T855	GO_CC 20216 20223	nuclear
+#855	AnnotatorNotes T855	GO:0005634 (nucleus)
+T856	GO_CC 20247 20252	CAF-1
+#856	AnnotatorNotes T856	GO:0033186 (CAF-1 complex)
+T857	CL 20296 20301	cells
+#857	AnnotatorNotes T857	CL:0000000 (cell)
+T858	GO_CC 20296 20301	cells
+#858	AnnotatorNotes T858	GO:0005623 (cell)
+T859	GO_BP 20319 20336	lineage committed
+#859	AnnotatorNotes T859	GO:0045165 (cell fate commitment)
+T860	SO 20352 20358	genome
+#860	AnnotatorNotes T860	SO:0001026 (genome)
+T861	CL 20404 20409	cells
+#861	AnnotatorNotes T861	CL:0000000 (cell)
+T862	GO_CC 20404 20409	cells
+#862	AnnotatorNotes T862	GO:0005623 (cell)
+T863	GO_CC 20442 20447	CAF-1
+#863	AnnotatorNotes T863	GO:0033186 (CAF-1 complex)
+T864	GO_CC 20486 20491	CAF-1
+#864	AnnotatorNotes T864	GO:0033186 (CAF-1 complex)
+T865	CL 20517 20522	cells
+#865	AnnotatorNotes T865	CL:0000000 (cell)
+T866	GO_CC 20517 20522	cells
+#866	AnnotatorNotes T866	GO:0005623 (cell)
+T867	SO 20542 20551	conserved
+#867	AnnotatorNotes T867	SO:0000856 (conserved)
+T868	italic 20581 20602	Arabidopsis thaliana,
+#868	AnnotatorNotes T868	italic (null)
+T869	NCBITaxon 20581 20601	Arabidopsis thaliana
+#869	AnnotatorNotes T869	NCBITaxon:3702 (Arabidopsis thaliana)
+T870	taxonomic_rank 20581 20601	Arabidopsis thaliana
+#870	AnnotatorNotes T870	taxonomic_rank (null)
+T871	GO_CC 20612 20617	CAF-1
+#871	AnnotatorNotes T871	GO:0033186 (CAF-1 complex)
+T872	GO_CC 20663 20668	CAF-1
+#872	AnnotatorNotes T872	GO:0033186 (CAF-1 complex)
+T873	GO_CC 20709 20721	chromocenter
+#873	AnnotatorNotes T873	GO:0010369 (chromocenter)
+T874	GO_CC 20782 20787	CAF-1
+#874	AnnotatorNotes T874	GO:0033186 (CAF-1 complex)
+T875	GO_CC 20808 20823	heterochromatin
+#875	AnnotatorNotes T875	GO:0000792 (heterochromatin)
+T876	NCBITaxon 20846 20851	mouse
+#876	AnnotatorNotes T876	NCBITaxon:10088 (Mus)
+T877	NCBITaxon 20864 20869	mouse
+#877	AnnotatorNotes T877	NCBITaxon:10088 (Mus)
+T878	CL 20873 20878	cells
+#878	AnnotatorNotes T878	CL:0000000 (cell)
+T879	GO_CC 20873 20878	cells
+#879	AnnotatorNotes T879	GO:0005623 (cell)
+T880	GO_CC 20893 20898	CAF-1
+#880	AnnotatorNotes T880	GO:0033186 (CAF-1 complex)
+T881	GO_CC 20950 20961	pericentric
+#881	AnnotatorNotes T881	GO:0000775 (chromosome, pericentric region)
+T882	SO 20962 20969	repeats
+#882	AnnotatorNotes T882	SO:0000726 (repeat_unit)
+T883	SO 20962 20969	repeats
+#883	AnnotatorNotes T883	SO:0000657 (repeat_region)
+T884	SO 20986 20994	elements
+#884	AnnotatorNotes T884	SO:0000001 (region)
+T885	SO 21006 21024	repeated sequences
+#885	AnnotatorNotes T885	SO:0000726 (repeat_unit)
+T886	SO 21006 21024	repeated sequences
+#886	AnnotatorNotes T886	SO:0000657 (repeat_region)
+T887	NCBITaxon 21045 21050	mouse
+#887	AnnotatorNotes T887	NCBITaxon:10088 (Mus)
+T888	SO 21051 21057	genome
+#888	AnnotatorNotes T888	SO:0001026 (genome)
+T889	GO_CC 21090 21097	nuclear
+#889	AnnotatorNotes T889	GO:0005634 (nucleus)
+T890	GO_CC 21137 21164	pericentric heterochromatin
+#890	AnnotatorNotes T890	GO:0005721 (centric heterochromatin)
+T891	GO_CC 21137 21148	pericentric
+#891	AnnotatorNotes T891	GO:0000775 (chromosome, pericentric region)
+T892	CL 21183 21188	cells
+#892	AnnotatorNotes T892	CL:0000000 (cell)
+T893	GO_CC 21183 21188	cells
+#893	AnnotatorNotes T893	GO:0005623 (cell)
+T894	GO_CC 21225 21240	heterochromatin
+#894	AnnotatorNotes T894	GO:0000792 (heterochromatin)
+T895	GO_CC 21309 21314	CAF-1
+#895	AnnotatorNotes T895	GO:0033186 (CAF-1 complex)
+T896	GO_CC 21346 21351	CAF-1
+#896	AnnotatorNotes T896	GO:0033186 (CAF-1 complex)
+T897	taxonomic_rank 21359 21366	species
+#897	AnnotatorNotes T897	species (null)
+T898	CHEBI 21441 21448	histone
+#898	AnnotatorNotes T898	CHEBI:15358 (histone)
+T899	SO 21452 21460	variants
+#899	AnnotatorNotes T899	SO:0001060 (sequence_variant)
+T900	NCBITaxon 21481 21491	eukaryotes
+#900	AnnotatorNotes T900	NCBITaxon:2759 (Eukaryota)
+T901	GO_CC 21493 21498	CAF-1
+#901	AnnotatorNotes T901	GO:0033186 (CAF-1 complex)
+T902	NCBITaxon 21515 21522	mammals
+#902	AnnotatorNotes T902	NCBITaxon:40674 (Mammalia)
+T903	NCBITaxon 21542 21566	Saccharomyces cerevisiae
+#903	AnnotatorNotes T903	NCBITaxon:4932 (Saccharomyces cerevisiae)
+T904	taxonomic_rank 21542 21566	Saccharomyces cerevisiae
+#904	AnnotatorNotes T904	taxonomic_rank (null)
+T905	NCBITaxon 21592 21605	budding yeast
+#905	AnnotatorNotes T905	NCBITaxon:4892 (Saccharomycetales)
+T906	GO_BP 21592 21599	budding
+#906	AnnotatorNotes T906	GO:0007114 (cell budding)
+T907	SO 21606 21612	genome
+#907	AnnotatorNotes T907	SO:0001026 (genome)
+T908	GO_CC 21630 21653	heterochromatin regions
+#908	AnnotatorNotes T908	GO:0000792 (heterochromatin)
+T909	SO 21646 21653	regions
+#909	AnnotatorNotes T909	SO:0000001 (region)
+T910	NCBITaxon 21684 21694	eukaryotes
+#910	AnnotatorNotes T910	NCBITaxon:2759 (Eukaryota)
+T911	SO 21717 21725	features
+#911	AnnotatorNotes T911	SO:0000110 (sequence_feature)
+T912	GO_CC 21729 21744	heterochromatin
+#912	AnnotatorNotes T912	GO:0000792 (heterochromatin)
+T913	GO_BP 21761 21775	trimethylation
+#913	AnnotatorNotes T913	GO:0018023 (peptidyl-lysine tri-methylation)
+T914	GO_CC 21833 21842	chromatin
+#914	AnnotatorNotes T914	GO:0000785 (chromatin)
+T915	italic 21846 21860	S. cerevisiae.
+#915	AnnotatorNotes T915	italic (null)
+T916	NCBITaxon 21846 21859	S. cerevisiae
+#916	AnnotatorNotes T916	NCBITaxon:4932 (Saccharomyces cerevisiae)
+T917	taxonomic_rank 21846 21859	S. cerevisiae
+#917	AnnotatorNotes T917	taxonomic_rank (null)
+T918	NCBITaxon 21864 21871	mammals
+#918	AnnotatorNotes T918	NCBITaxon:40674 (Mammalia)
+T919	GO_BP 21878 21891	dimethylation
+#919	AnnotatorNotes T919	GO:0018027 (peptidyl-lysine di-methylation)
+T920	SO 21964 21977	modifications
+#920	AnnotatorNotes T920	SO:0001059 (sequence_alteration)
+T921	GO_BP 21997 22008	transcribed
+#921	AnnotatorNotes T921	GO:0006350 (transcription)
+T922	GO_CC 22009 22026	chromatin regions
+#922	AnnotatorNotes T922	GO:0000785 (chromatin)
+T923	SO 22019 22026	regions
+#923	AnnotatorNotes T923	SO:0000001 (region)
+T924	SO 22063 22070	variant
+#924	AnnotatorNotes T924	SO:0001060 (sequence_variant)
+T925	NCBITaxon 22072 22085	S. cerevisiae
+#925	AnnotatorNotes T925	NCBITaxon:4932 (Saccharomyces cerevisiae)
+T926	taxonomic_rank 22072 22085	S. cerevisiae
+#926	AnnotatorNotes T926	taxonomic_rank (null)
+T927	GO_BP 22116 22125	expressed
+#927	AnnotatorNotes T927	GO:0010467 (gene expression)
+T928	GO_CC 22148 22157	chromatin
+#928	AnnotatorNotes T928	GO:0000785 (chromatin)
+T929	GO_BP 22163 22174	replication
+#929	AnnotatorNotes T929	GO:0006260 (DNA replication)
+T930	NCBITaxon 22205 22215	eukaryotes
+#930	AnnotatorNotes T930	NCBITaxon:2759 (Eukaryota)
+T931	GO_CC 22269 22292	heterochromatin regions
+#931	AnnotatorNotes T931	GO:0000792 (heterochromatin)
+T932	SO 22285 22292	regions
+#932	AnnotatorNotes T932	SO:0000001 (region)
+T933	GO_CC 22312 22317	CAF-1
+#933	AnnotatorNotes T933	GO:0033186 (CAF-1 complex)
+T934	GO_BP 22335 22346	replication
+#934	AnnotatorNotes T934	GO:0006260 (DNA replication)
+T935	GO_CC 22365 22372	complex
+#935	AnnotatorNotes T935	GO:0032991 (macromolecular complex)
+T936	GO_CC 22412 22419	nuclear
+#936	AnnotatorNotes T936	GO:0005634 (nucleus)
+T937	GO_CC 22436 22463	pericentric heterochromatin
+#937	AnnotatorNotes T937	GO:0005721 (centric heterochromatin)
+T938	GO_CC 22436 22447	pericentric
+#938	AnnotatorNotes T938	GO:0000775 (chromosome, pericentric region)
+T939	CL 22482 22487	cells
+#939	AnnotatorNotes T939	CL:0000000 (cell)
+T940	GO_CC 22482 22487	cells
+#940	AnnotatorNotes T940	GO:0005623 (cell)
+T941	GO_CC 22561 22570	chromatin
+#941	AnnotatorNotes T941	GO:0000785 (chromatin)
+T942	GO_CC 22598 22605	nuclear
+#942	AnnotatorNotes T942	GO:0005634 (nucleus)
+T943	GO_CC 22635 22650	heterochromatin
+#943	AnnotatorNotes T943	GO:0000792 (heterochromatin)
+T944	GO_CC 22820 22843	heterochromatin domains
+#944	AnnotatorNotes T944	GO:0000792 (heterochromatin)
+T945	SO 22836 22843	domains
+#945	AnnotatorNotes T945	SO:0000001 (region)
+T946	EntrezGene 22847 22856	p150CAF-1
+#946	AnnotatorNotes T946	EG:27221
+T947	PR 22847 22856	p150CAF-1
+#947	AnnotatorNotes T947	PR:000005402 (chromatin assembly factor 1 subunit A)
+T948	CL 22877 22882	cells
+#948	AnnotatorNotes T948	CL:0000000 (cell)
+T949	GO_CC 22877 22882	cells
+#949	AnnotatorNotes T949	GO:0005623 (cell)
+T950	GO_CC 22884 22889	CAF-1
+#950	AnnotatorNotes T950	GO:0033186 (CAF-1 complex)
+T951	GO_CC 22930 22945	heterochromatin
+#951	AnnotatorNotes T951	GO:0000792 (heterochromatin)
+T952	GO_CC 23004 23023	pericentric domains
+#952	AnnotatorNotes T952	GO:0000775 (chromosome, pericentric region)
+T953	SO 23016 23023	domains
+#953	AnnotatorNotes T953	SO:0000001 (region)
+T954	GO_BP 23056 23071	DNA replication
+#954	AnnotatorNotes T954	GO:0006260 (DNA replication)
+T955	SO 23056 23059	DNA
+#955	AnnotatorNotes T955	SO:0000352 (DNA)
+T956	EntrezGene 23090 23099	p150CAF-1
+#956	AnnotatorNotes T956	EG:27221
+T957	PR 23090 23099	p150CAF-1
+#957	AnnotatorNotes T957	PR:000005402 (chromatin assembly factor 1 subunit A)
+T958	GO_CC 23101 23116	heterochromatin
+#958	AnnotatorNotes T958	GO:0000792 (heterochromatin)
+T959	CHEBI 23147 23155	molecule
+#959	AnnotatorNotes T959	CHEBI:23367 (molecular entity)
+T960	EntrezGene 23244 23247	HP1
+#960	AnnotatorNotes T960	EG:12417
+T961	CHEBI 23248 23255	protein
+#961	AnnotatorNotes T961	CHEBI:36080 (proteins)
+T962	GO_CC 23278 23283	CAF-1
+#962	AnnotatorNotes T962	GO:0033186 (CAF-1 complex)
+T963	GO_CC 23350 23365	heterochromatin
+#963	AnnotatorNotes T963	GO:0000792 (heterochromatin)
+T964	GO_BP 23373 23385	implantation
+#964	AnnotatorNotes T964	GO:0007566 (embryo implantation)
+T965	GO_CC 23426 23433	nuclear
+#965	AnnotatorNotes T965	GO:0005634 (nucleus)
+T966	CL 23463 23467	cell
+#966	AnnotatorNotes T966	CL:0000000 (cell)
+T967	GO_CC 23463 23467	cell
+#967	AnnotatorNotes T967	GO:0005623 (cell)
+T968	NCBITaxon 23514 23519	mouse
+#968	AnnotatorNotes T968	NCBITaxon:10088 (Mus)
+T969	GO_CC 23538 23545	nuclear
+#969	AnnotatorNotes T969	GO:0005634 (nucleus)
+T970	GO_CC 23562 23595	heterochromatin in ES cell nuclei
+#970	AnnotatorNotes T970	"heterochromatin in .. nuclei" GO:0005720 (nuclear heterochromatin)
+T971	CL 23584 23588	cell
+#971	AnnotatorNotes T971	CL:0000000 (cell)
+T972	GO_CC 23584 23588	cell
+#972	AnnotatorNotes T972	GO:0005623 (cell)
+T973	GO_CC 23589 23595	nuclei
+#973	AnnotatorNotes T973	GO:0005634 (nucleus)
+T974	CL 23630 23634	cell
+#974	AnnotatorNotes T974	CL:0000000 (cell)
+T975	GO_CC 23630 23634	cell
+#975	AnnotatorNotes T975	GO:0005623 (cell)
+T976	GO_CC 23661 23668	nuclear
+#976	AnnotatorNotes T976	GO:0005634 (nucleus)
+T977	GO_BP 23691 23701	remodeling
+#977	AnnotatorNotes T977	GO:0006338 (chromatin remodeling)
+T978	GO_CC 23705 23720	heterochromatin
+#978	AnnotatorNotes T978	GO:0000792 (heterochromatin)
+T979	GO_CC 23748 23755	nuclear
+#979	AnnotatorNotes T979	GO:0005634 (nucleus)
+T980	GO_CC 23853 23868	heterochromatin
+#980	AnnotatorNotes T980	GO:0000792 (heterochromatin)
+T981	EntrezGene 23913 23922	p150CAF-1
+#981	AnnotatorNotes T981	EG:27221
+T982	PR 23913 23922	p150CAF-1
+#982	AnnotatorNotes T982	PR:000005402 (chromatin assembly factor 1 subunit A)
+T983	CL 23935 23940	cells
+#983	AnnotatorNotes T983	CL:0000000 (cell)
+T984	GO_CC 23935 23940	cells
+#984	AnnotatorNotes T984	GO:0005623 (cell)
+T985	GO_BP 23949 23964	developmentally
+#985	AnnotatorNotes T985	GO:0032502 (developmental process)
+T986	CL 23977 23981	cell
+#986	AnnotatorNotes T986	CL:0000000 (cell)
+T987	GO_CC 23977 23981	cell
+#987	AnnotatorNotes T987	GO:0005623 (cell)
+T988	italic 23988 23997	Chaf1a−/−
+#988	AnnotatorNotes T988	italic (null)
+T989	EntrezGene 23988 23994	Chaf1a
+#989	AnnotatorNotes T989	EG:27221
+T990	PR 23988 23994	Chaf1a
+#990	AnnotatorNotes T990	PR:000005402 (chromatin assembly factor 1 subunit A)
+T991	sup 23994 23997	−/−
+#991	AnnotatorNotes T991	sup (null)
+T992	GO_CC 24028 24033	CAF-1
+#992	AnnotatorNotes T992	GO:0033186 (CAF-1 complex)
+T993	GO_CC 24067 24082	heterochromatin
+#993	AnnotatorNotes T993	GO:0000792 (heterochromatin)
+T994	GO_BP 24113 24127	cell divisions
+#994	AnnotatorNotes T994	GO:0051301 (cell division)
+T995	CL 24113 24117	cell
+#995	AnnotatorNotes T995	CL:0000000 (cell)
+T996	GO_CC 24113 24117	cell
+#996	AnnotatorNotes T996	GO:0005623 (cell)
+T997	GO_CC 24171 24178	nuclear
+#997	AnnotatorNotes T997	GO:0005634 (nucleus)
+T998	GO_BP 24199 24225	control of gene expression
+#998	AnnotatorNotes T998	GO:0010468 (regulation of gene expression)
+T999	GO_BP 24210 24225	gene expression
+#999	AnnotatorNotes T999	GO:0010467 (gene expression)
+T1000	SO 24210 24214	gene
+#1000	AnnotatorNotes T1000	SO:0000704 (gene)
+T1001	GO_CC 24262 24267	CAF-1
+#1001	AnnotatorNotes T1001	GO:0033186 (CAF-1 complex)
+T1002	GO_BP 24311 24326	gene expression
+#1002	AnnotatorNotes T1002	GO:0010467 (gene expression)
+T1003	SO 24311 24315	gene
+#1003	AnnotatorNotes T1003	SO:0000704 (gene)
+T1004	GO_BP 24340 24353	embryogenesis
+#1004	AnnotatorNotes T1004	GO:0009790 (embryonic development)
+T1005	GO_CC 24414 24423	chromatin
+#1005	AnnotatorNotes T1005	GO:0000785 (chromatin)
+T1006	GO_BP 24446 24457	development
+#1006	AnnotatorNotes T1006	GO:0032502 (developmental process)
+T1007	CL 24487 24492	cells
+#1007	AnnotatorNotes T1007	CL:0000000 (cell)
+T1008	GO_CC 24487 24492	cells
+#1008	AnnotatorNotes T1008	GO:0005623 (cell)
+T1009	GO_BP 24536 24551	DNA methylation
+#1009	AnnotatorNotes T1009	GO:0006306 (DNA methylation)
+T1010	SO 24536 24539	DNA
+#1010	AnnotatorNotes T1010	SO:0000352 (DNA)
+T1011	GO_BP 24556 24573	histone modifying
+#1011	AnnotatorNotes T1011	GO:0016570 (histone modification)
+T1012	CHEBI 24556 24563	histone
+#1012	AnnotatorNotes T1012	CHEBI:15358 (histone)
+T1013	SO 24564 24573	modifying
+#1013	AnnotatorNotes T1013	SO:0000041 (sequence_operation)
+T1014	SO 24574 24581	enzymes
+#1014	AnnotatorNotes T1014	SO:0001185 (enzymatic)
+T1015	GO_BP 24627 24645	chromatin assembly
+#1015	AnnotatorNotes T1015	GO:0031497 (chromatin assembly)
+T1016	GO_CC 24627 24636	chromatin
+#1016	AnnotatorNotes T1016	GO:0000785 (chromatin)
+T1017	GO_BP 24685 24695	assembling
+#1017	AnnotatorNotes T1017	GO:0022607 (cellular component assembly)
+T1018	GO_CC 24696 24707	nucleosomes
+#1018	AnnotatorNotes T1018	GO:0000786 (nucleosome)
+T1019	GO_CC 24709 24714	CAF-1
+#1019	AnnotatorNotes T1019	GO:0033186 (CAF-1 complex)
+T1020	GO_CC 24762 24785	heterochromatin domains
+#1020	AnnotatorNotes T1020	GO:0000792 (heterochromatin)
+T1021	SO 24778 24785	domains
+#1021	AnnotatorNotes T1021	SO:0000001 (region)
+T1022	CL 24810 24815	cells
+#1022	AnnotatorNotes T1022	CL:0000000 (cell)
+T1023	GO_CC 24810 24815	cells
+#1023	AnnotatorNotes T1023	GO:0005623 (cell)
+T1024	GO_BP 24841 24851	Generation
+#1024	AnnotatorNotes T1024	GO:0000003 (reproduction)
+T1025	GO_BP 24841 24851	Generation
+#1025	AnnotatorNotes T1025	GO:0032502 (developmental process)
+T1026	italic 24855 24861	Chaf1a
+#1026	AnnotatorNotes T1026	italic (null)
+T1027	PR 24855 24861	Chaf1a
+#1027	AnnotatorNotes T1027	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1028	EntrezGene 24855 24861	Chaf1a
+#1028	AnnotatorNotes T1028	EG:27221
+T1029	SO 24862 24868	mutant
+#1029	AnnotatorNotes T1029	SO:0001059 (sequence_alteration)
+T1030	NCBITaxon 24869 24873	mice
+#1030	AnnotatorNotes T1030	NCBITaxon:10088 (Mus)
+T1031	SO 24916 24923	genomic
+#1031	AnnotatorNotes T1031	SO:0001026 (genome)
+T1032	SO 24924 24933	fragments
+#1032	AnnotatorNotes T1032	SO:0000731 (fragmentary)
+T1033	italic 24961 24967	Chaf1a
+#1033	AnnotatorNotes T1033	italic (null)
+T1034	EntrezGene 24961 24967	Chaf1a
+#1034	AnnotatorNotes T1034	EG:27221
+T1035	PR 24961 24967	Chaf1a
+#1035	AnnotatorNotes T1035	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1036	SO 24968 24972	exon
+#1036	AnnotatorNotes T1036	SO:0000147 (exon)
+T1037	SO 24982 24985	DNA
+#1037	AnnotatorNotes T1037	SO:0000352 (DNA)
+T1038	SO 24986 24995	fragments
+#1038	AnnotatorNotes T1038	SO:0000731 (fragmentary)
+T1039	GO_BP 25001 25010	assembled
+#1039	AnnotatorNotes T1039	GO:0009058 (biosynthetic process)
+T1040	EntrezGene 25057 25059	DT
+#1040	AnnotatorNotes T1040	EG:2650491
+T1041	EntrezGene 25061 25077	diphtheria toxin
+#1041	AnnotatorNotes T1041	EG:2650491
+T1042	CHEBI 25072 25077	toxin
+#1042	AnnotatorNotes T1042	CHEBI:27026 (toxin)
+T1043	SO 25079 25088	cassettes
+#1043	AnnotatorNotes T1043	SO:0005853 (gene_cassette)
+T1044	SO 25121 25130	construct
+#1044	AnnotatorNotes T1044	SO:0001037 (mobile_genetic_element)
+T1045	GO_BP 25135 25146	transfected
+#1045	AnnotatorNotes T1045	GO:0009294 (DNA mediated transformation)
+T1046	CL 25153 25158	cells
+#1046	AnnotatorNotes T1046	CL:0000000 (cell)
+T1047	GO_CC 25153 25158	cells
+#1047	AnnotatorNotes T1047	GO:0005623 (cell)
+T1048	GO_BP 25193 25204	recombinant
+#1048	AnnotatorNotes T1048	GO:0006310 (DNA recombination)
+T1049	CL 25208 25213	cells
+#1049	AnnotatorNotes T1049	CL:0000000 (cell)
+T1050	GO_CC 25208 25213	cells
+#1050	AnnotatorNotes T1050	GO:0005623 (cell)
+T1051	SO 25227 25233	mutant
+#1051	AnnotatorNotes T1051	SO:0001059 (sequence_alteration)
+T1052	italic 25234 25240	Chaf1a
+#1052	AnnotatorNotes T1052	italic (null)
+T1053	sup 25240 25246	tm1Ger
+#1053	AnnotatorNotes T1053	sup (null)
+T1054	italic 25260 25266	Chaf1a
+#1054	AnnotatorNotes T1054	italic (null)
+T1055	EntrezGene 25260 25266	Chaf1a
+#1055	AnnotatorNotes T1055	EG:27221
+T1056	PR 25260 25266	Chaf1a
+#1056	AnnotatorNotes T1056	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1057	sup 25266 25267	−
+#1057	AnnotatorNotes T1057	sup (null)
+T1058	SO 25287 25293	allele
+#1058	AnnotatorNotes T1058	SO:0001023 (allele)
+T1059	italic 25335 25341	Chaf1a
+#1059	AnnotatorNotes T1059	italic (null)
+T1060	EntrezGene 25335 25341	Chaf1a
+#1060	AnnotatorNotes T1060	EG:27221
+T1061	PR 25335 25341	Chaf1a
+#1061	AnnotatorNotes T1061	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1062	sup 25341 25344	+/−
+#1062	AnnotatorNotes T1062	sup (null)
+T1063	SO 25341 25342	+
+#1063	AnnotatorNotes T1063	SO:0000817 (wild_type)
+T1064	italic 25343 25344	−
+#1064	AnnotatorNotes T1064	italic (null)
+T1065	NCBITaxon 25345 25349	mice
+#1065	AnnotatorNotes T1065	NCBITaxon:10088 (Mus)
+T1066	GO_BP 25363 25373	recombined
+#1066	AnnotatorNotes T1066	GO:0006310 (DNA recombination)
+T1067	CL 25377 25382	cells
+#1067	AnnotatorNotes T1067	CL:0000000 (cell)
+T1068	GO_CC 25377 25382	cells
+#1068	AnnotatorNotes T1068	GO:0005623 (cell)
+T1069	italic 25453 25459	Chaf1a
+#1069	AnnotatorNotes T1069	italic (null)
+T1070	EntrezGene 25453 25459	Chaf1a
+#1070	AnnotatorNotes T1070	EG:27221
+T1071	PR 25453 25459	Chaf1a
+#1071	AnnotatorNotes T1071	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1072	sup 25459 25462	+/−
+#1072	AnnotatorNotes T1072	sup (null)
+T1073	SO 25459 25460	+
+#1073	AnnotatorNotes T1073	SO:0000817 (wild_type)
+T1074	italic 25461 25462	−
+#1074	AnnotatorNotes T1074	italic (null)
+T1075	NCBITaxon 25463 25467	mice
+#1075	AnnotatorNotes T1075	NCBITaxon:10088 (Mus)
+T1076	SO 25568 25583	oligonucleotide
+#1076	AnnotatorNotes T1076	SO:0000696 (oligo)
+T1077	SO 25584 25591	primers
+#1077	AnnotatorNotes T1077	SO:0000112 (primer)
+T1078	SO 25633 25642	wild-type
+#1078	AnnotatorNotes T1078	SO:0000817 (wild_type)
+T1079	SO 25647 25653	mutant
+#1079	AnnotatorNotes T1079	SO:0001059 (sequence_alteration)
+T1080	SO 25654 25661	alleles
+#1080	AnnotatorNotes T1080	SO:0001023 (allele)
+T1081	SO 25789 25804	oligonucleotide
+#1081	AnnotatorNotes T1081	SO:0000696 (oligo)
+T1082	SO 25805 25812	primers
+#1082	AnnotatorNotes T1082	SO:0000112 (primer)
+T1083	CHEBI 25879 25886	agarose
+#1083	AnnotatorNotes T1083	CHEBI:2511 (agarose)
+T1084	SO 25927 25936	wild-type
+#1084	AnnotatorNotes T1084	SO:0000817 (wild_type)
+T1085	SO 25942 25944	bp
+#1085	AnnotatorNotes T1085	SO:0000028 (base_pair)
+T1086	GO_BP 25950 25961	recombinant
+#1086	AnnotatorNotes T1086	GO:0006310 (DNA recombination)
+T1087	SO 25967 25969	bp
+#1087	AnnotatorNotes T1087	SO:0000028 (base_pair)
+T1088	SO 25971 25978	alleles
+#1088	AnnotatorNotes T1088	SO:0001023 (allele)
+T1089	EntrezGene 25981 25990	P150CAF-1
+#1089	AnnotatorNotes T1089	EG:27221
+T1090	PR 25981 25990	P150CAF-1
+#1090	AnnotatorNotes T1090	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1091	GO_BP 26004 26008	RNAi
+#1091	AnnotatorNotes T1091	GO:0016246 (RNA interference)
+T1092	GO_BP 26016 26020	RNAi
+#1092	AnnotatorNotes T1092	GO:0016246 (RNA interference)
+T1093	SO 26021 26035	plasmid vector
+#1093	AnnotatorNotes T1093	SO:0000755 (plasmid_vector)
+T1094	SO 26021 26028	plasmid
+#1094	AnnotatorNotes T1094	SO:0000155 (plasmid)
+T1095	NCBITaxon 26076 26081	mouse
+#1095	AnnotatorNotes T1095	NCBITaxon:10088 (Mus)
+T1096	SO 26085 26093	promoter
+#1096	AnnotatorNotes T1096	SO:0000167 (promoter)
+T1097	CHEBI 26100 26109	puromycin
+#1097	AnnotatorNotes T1097	CHEBI:17939 (puromycin)
+T1098	SO 26120 26124	gene
+#1098	AnnotatorNotes T1098	SO:0000704 (gene)
+T1099	SO 26210 26216	vector
+#1099	AnnotatorNotes T1099	SO:0000440 (vector_replicon)
+T1100	SO 26236 26240	gene
+#1100	AnnotatorNotes T1100	SO:0000704 (gene)
+T1101	SO 26272 26277	genes
+#1101	AnnotatorNotes T1101	SO:0000704 (gene)
+T1102	CL 26284 26289	cells
+#1102	AnnotatorNotes T1102	CL:0000000 (cell)
+T1103	GO_CC 26284 26289	cells
+#1103	AnnotatorNotes T1103	GO:0005623 (cell)
+T1104	CL 26324 26329	cells
+#1104	AnnotatorNotes T1104	CL:0000000 (cell)
+T1105	GO_CC 26324 26329	cells
+#1105	AnnotatorNotes T1105	GO:0005623 (cell)
+T1106	CL 26406 26411	cells
+#1106	AnnotatorNotes T1106	CL:0000000 (cell)
+T1107	GO_CC 26406 26411	cells
+#1107	AnnotatorNotes T1107	GO:0005623 (cell)
+T1108	SO 26426 26434	sequence
+#1108	AnnotatorNotes T1108	SO:0000001 (region)
+T1109	PR 26438 26447	p150CAF-1
+#1109	AnnotatorNotes T1109	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1110	SO 26448 26453	siRNA
+#1110	AnnotatorNotes T1110	SO:0000646 (siRNA)
+T1111	SO 26455 26476	short interfering RNA
+#1111	AnnotatorNotes T1111	SO:0000646 (siRNA)
+T1112	GO_BP 26461 26472	interfering
+#1112	AnnotatorNotes T1112	GO:0016246 (RNA interference)
+T1113	SO 26511 26518	plasmid
+#1113	AnnotatorNotes T1113	SO:0000155 (plasmid)
+T1114	SO 26532 26538	vector
+#1114	AnnotatorNotes T1114	SO:0000440 (vector_replicon)
+T1115	GO_BP 26539 26548	expressed
+#1115	AnnotatorNotes T1115	GO:0010467 (gene expression)
+T1116	SO 26551 26556	siRNA
+#1116	AnnotatorNotes T1116	SO:0000646 (siRNA)
+T1117	GO_BP 26574 26589	RNA degradation
+#1117	AnnotatorNotes T1117	GO:0006401 (RNA catabolic process)
+T1118	SO 26574 26577	RNA
+#1118	AnnotatorNotes T1118	SO:0000356 (RNA)
+T1119	CL 26594 26599	cells
+#1119	AnnotatorNotes T1119	CL:0000000 (cell)
+T1120	GO_CC 26594 26599	cells
+#1120	AnnotatorNotes T1120	GO:0005623 (cell)
+T1121	GO_BP 26605 26616	transfected
+#1121	AnnotatorNotes T1121	GO:0009294 (DNA mediated transformation)
+T1122	SO 26645 26648	RNA
+#1122	AnnotatorNotes T1122	SO:0000356 (RNA)
+T1123	SO 26649 26663	plasmid vector
+#1123	AnnotatorNotes T1123	SO:0000755 (plasmid_vector)
+T1124	SO 26649 26656	plasmid
+#1124	AnnotatorNotes T1124	SO:0000155 (plasmid)
+T1125	CHEBI 26751 26760	Puromycin
+#1125	AnnotatorNotes T1125	CHEBI:17939 (puromycin)
+T1126	CL 26807 26812	cells
+#1126	AnnotatorNotes T1126	CL:0000000 (cell)
+T1127	GO_CC 26807 26812	cells
+#1127	AnnotatorNotes T1127	GO:0005623 (cell)
+T1128	PR 26868 26877	p150CAF-1
+#1128	AnnotatorNotes T1128	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1129	GO_BP 26878 26882	RNAi
+#1129	AnnotatorNotes T1129	GO:0016246 (RNA interference)
+T1130	SO 26883 26889	vector
+#1130	AnnotatorNotes T1130	SO:0000440 (vector_replicon)
+T1131	GO_CC 26939 26944	CAF-1
+#1131	AnnotatorNotes T1131	GO:0033186 (CAF-1 complex)
+T1132	CL 26963 26968	cells
+#1132	AnnotatorNotes T1132	CL:0000000 (cell)
+T1133	GO_CC 26963 26968	cells
+#1133	AnnotatorNotes T1133	GO:0005623 (cell)
+T1134	EntrezGene 27035 27044	p150CAF-1
+#1134	AnnotatorNotes T1134	EG:27221
+T1135	PR 27035 27044	p150CAF-1
+#1135	AnnotatorNotes T1135	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1136	GO_BP 27045 27055	expression
+#1136	AnnotatorNotes T1136	GO:0010467 (gene expression)
+T1137	CL 27085 27090	cells
+#1137	AnnotatorNotes T1137	CL:0000000 (cell)
+T1138	GO_CC 27085 27090	cells
+#1138	AnnotatorNotes T1138	GO:0005623 (cell)
+T1139	SO 27122 27126	gene
+#1139	AnnotatorNotes T1139	SO:0000704 (gene)
+T1140	GO_BP 27167 27178	transfected
+#1140	AnnotatorNotes T1140	GO:0009294 (DNA mediated transformation)
+T1141	GO_BP 27199 27203	RNAi
+#1141	AnnotatorNotes T1141	GO:0016246 (RNA interference)
+T1142	SO 27204 27218	plasmid vector
+#1142	AnnotatorNotes T1142	SO:0000755 (plasmid_vector)
+T1143	SO 27204 27211	plasmid
+#1143	AnnotatorNotes T1143	SO:0000155 (plasmid)
+T1144	CL 27335 27340	Cells
+#1144	AnnotatorNotes T1144	CL:0000000 (cell)
+T1145	GO_CC 27335 27340	Cells
+#1145	AnnotatorNotes T1145	GO:0005623 (cell)
+T1146	CHEBI 27424 27433	puromycin
+#1146	AnnotatorNotes T1146	CHEBI:17939 (puromycin)
+T1147	CL 27436 27440	Cell
+#1147	AnnotatorNotes T1147	CL:0000000 (cell)
+T1148	GO_CC 27436 27440	Cell
+#1148	AnnotatorNotes T1148	GO:0005623 (cell)
+T1149	CL 27457 27462	cells
+#1149	AnnotatorNotes T1149	CL:0000000 (cell)
+T1150	GO_CC 27457 27462	cells
+#1150	AnnotatorNotes T1150	GO:0005623 (cell)
+T1151	SO 27504 27508	gene
+#1151	AnnotatorNotes T1151	SO:0000704 (gene)
+T1152	CL 27528 27533	cells
+#1152	AnnotatorNotes T1152	CL:0000000 (cell)
+T1153	GO_CC 27528 27533	cells
+#1153	AnnotatorNotes T1153	GO:0005623 (cell)
+T1154	GO_BP 27551 27555	RNAi
+#1154	AnnotatorNotes T1154	GO:0016246 (RNA interference)
+T1155	CL 27585 27589	cell
+#1155	AnnotatorNotes T1155	CL:0000000 (cell)
+T1156	GO_CC 27585 27589	cell
+#1156	AnnotatorNotes T1156	GO:0005623 (cell)
+T1157	GO_BP 27627 27631	bred
+#1157	AnnotatorNotes T1157	GO:0007618 (mating)
+T1158	CL 27667 27672	cells
+#1158	AnnotatorNotes T1158	CL:0000000 (cell)
+T1159	GO_CC 27667 27672	cells
+#1159	AnnotatorNotes T1159	GO:0005623 (cell)
+T1160	CL 27799 27804	Cells
+#1160	AnnotatorNotes T1160	CL:0000000 (cell)
+T1161	GO_CC 27799 27804	Cells
+#1161	AnnotatorNotes T1161	GO:0005623 (cell)
+T1162	CHEBI 27974 27978	acid
+#1162	AnnotatorNotes T1162	CHEBI:37527 (acid)
+T1163	CL 28096 28101	cells
+#1163	AnnotatorNotes T1163	CL:0000000 (cell)
+T1164	GO_CC 28096 28101	cells
+#1164	AnnotatorNotes T1164	GO:0005623 (cell)
+T1165	GO_CC 28103 28113	Antibodies
+#1165	AnnotatorNotes T1165	GO:0019814 (immunoglobulin complex)
+T1166	PR 28119 28123	HP1α
+#1166	AnnotatorNotes T1166	PR:000005086 (chromobox protein 5)
+T1167	GO_CC 28255 28259	PCNA
+#1167	AnnotatorNotes T1167	GO:0005577 (fibrinogen complex)
+T1168	PR 28255 28259	PCNA
+#1168	AnnotatorNotes T1168	PR:000012421 (proliferating cell nuclear antigen)
+T1169	PR 28287 28290	PML
+#1169	AnnotatorNotes T1169	PR:000026474 (probable transcription factor PML)
+T1170	GO_CC 28387 28397	Antibodies
+#1170	AnnotatorNotes T1170	GO:0019814 (immunoglobulin complex)
+T1171	EntrezGene 28403 28417	mouse p150CAF1
+#1171	AnnotatorNotes T1171	EG:27221
+T1172	NCBITaxon 28403 28408	mouse
+#1172	AnnotatorNotes T1172	NCBITaxon:10088 (Mus)
+T1173	PR 28409 28417	p150CAF1
+#1173	AnnotatorNotes T1173	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1174	GO_CC 28522 28532	antibodies
+#1174	AnnotatorNotes T1174	GO:0019814 (immunoglobulin complex)
+T1175	CHEBI 28553 28562	Molecular
+#1175	AnnotatorNotes T1175	CHEBI:23367 (molecular entity)
+T1176	CL 28635 28640	Cells
+#1176	AnnotatorNotes T1176	CL:0000000 (cell)
+T1177	GO_CC 28635 28640	Cells
+#1177	AnnotatorNotes T1177	GO:0005623 (cell)
+T1178	GO_BP 28646 28651	lysed
+#1178	AnnotatorNotes T1178	GO:0019835 (cytolysis)
+T1179	CHEBI 28691 28694	SDS
+#1179	AnnotatorNotes T1179	CHEBI:8984 (sodium dodecyl sulfate)
+T1180	GO_CC 28722 28732	antibodies
+#1180	AnnotatorNotes T1180	GO:0019814 (immunoglobulin complex)
+T1181	EntrezGene 28741 28750	p150CAF-1
+#1181	AnnotatorNotes T1181	EG:27221
+T1182	PR 28741 28750	p150CAF-1
+#1182	AnnotatorNotes T1182	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1183	PR 28775 28779	HP1α
+#1183	AnnotatorNotes T1183	PR:000005086 (chromobox protein 5)
+T1184	CHEBI 28805 28812	Histone
+#1184	AnnotatorNotes T1184	CHEBI:15358 (histone)
+T1185	PR 28861 28868	β-actin
+#1185	AnnotatorNotes T1185	PR:000003676 (actin, cytoplasmic 1)
+T1186	SO 28891 28894	DNA
+#1186	AnnotatorNotes T1186	SO:0000352 (DNA)
+T1187	SO 28902 28908	Probes
+#1187	AnnotatorNotes T1187	SO:0000051 (probe)
+T1188	CHEBI 28941 28947	Biotin
+#1188	AnnotatorNotes T1188	CHEBI:22885 (biotinyl group)
+T1189	CHEBI 28951 28955	dUTP
+#1189	AnnotatorNotes T1189	CHEBI:17625 (dUTP)
+T1190	CHEBI 28959 28970	Digoxigenin
+#1190	AnnotatorNotes T1190	CHEBI:42098 (digoxigenin)
+T1191	CHEBI 28974 28978	dUTP
+#1191	AnnotatorNotes T1191	CHEBI:17625 (dUTP)
+T1192	SO 29015 29021	probes
+#1192	AnnotatorNotes T1192	SO:0000051 (probe)
+T1193	GO_BP 29027 29036	generated
+#1193	AnnotatorNotes T1193	GO:0009058 (biosynthetic process)
+T1194	GO_BP 29045 29056	translation
+#1194	AnnotatorNotes T1194	GO:0006412 (translation)
+T1195	GO_CC 29298 29304	Nuclei
+#1195	AnnotatorNotes T1195	GO:0005634 (nucleus)
+T1196	GO_MF 29318 29326	nuclease
+#1196	AnnotatorNotes T1196	GO:0004518 (nuclease activity)
+T1197	independent_continuant 29318 29326	nuclease
+#1197	AnnotatorNotes T1197	independent_continuant
+T1198	GO_BP 29327 29336	digestion
+#1198	AnnotatorNotes T1198	GO:0009056 (catabolic process)
+T1199	GO_CC 29366 29375	chromatin
+#1199	AnnotatorNotes T1199	GO:0000785 (chromatin)
+T1200	CL 29381 29386	cells
+#1200	AnnotatorNotes T1200	CL:0000000 (cell)
+T1201	GO_CC 29381 29386	cells
+#1201	AnnotatorNotes T1201	GO:0005623 (cell)
+T1202	CHEBI 29439 29443	Tris
+#1202	AnnotatorNotes T1202	CHEBI:9754 (tris)
+T1203	CHEBI 29444 29447	HCl
+#1203	AnnotatorNotes T1203	CHEBI:36807 (hydrochlorides)
+T1204	CHEBI 29444 29447	HCl
+#1204	AnnotatorNotes T1204	CHEBI:17883 (hydrogen chloride)
+T1205	CHEBI 29464 29471	sucrose
+#1205	AnnotatorNotes T1205	CHEBI:17992 (sucrose)
+T1206	CHEBI 29479 29482	KCl
+#1206	AnnotatorNotes T1206	CHEBI:32588 (potassium chloride)
+T1207	CHEBI 29490 29494	NaCl
+#1207	AnnotatorNotes T1207	CHEBI:26710 (sodium chloride)
+T1208	CHEBI 29501 29506	MgCl2
+#1208	AnnotatorNotes T1208	CHEBI:6636 (magnesium dichloride)
+T1209	CHEBI 29515 29519	EGTA
+#1209	AnnotatorNotes T1209	CHEBI:30741 (ethylene glycol bis(2-aminoethyl)tetraacetate)
+T1210	CHEBI 29515 29519	EGTA
+#1210	AnnotatorNotes T1210	CHEBI:30740 (ethylene glycol bis(2-aminoethyl)tetraacetic acid)
+T1211	GO_CC 29584 29590	Nuclei
+#1211	AnnotatorNotes T1211	GO:0005634 (nucleus)
+T1212	italic 29633 29634	g
+#1212	AnnotatorNotes T1212	italic (null)
+T1213	CHEBI 29659 29666	sucrose
+#1213	AnnotatorNotes T1213	CHEBI:17992 (sucrose)
+T1214	GO_MF 29725 29733	nuclease
+#1214	AnnotatorNotes T1214	GO:0004518 (nuclease activity)
+T1215	independent_continuant 29725 29733	nuclease
+#1215	AnnotatorNotes T1215	independent_continuant
+T1216	CHEBI 29748 29752	Tris
+#1216	AnnotatorNotes T1216	CHEBI:9754 (tris)
+T1217	CHEBI 29753 29756	HCl
+#1217	AnnotatorNotes T1217	CHEBI:36807 (hydrochlorides)
+T1218	CHEBI 29753 29756	HCl
+#1218	AnnotatorNotes T1218	CHEBI:17883 (hydrogen chloride)
+T1219	CHEBI 29773 29777	NaCl
+#1219	AnnotatorNotes T1219	CHEBI:26710 (sodium chloride)
+T1220	CHEBI 29786 29793	sucrose
+#1220	AnnotatorNotes T1220	CHEBI:17992 (sucrose)
+T1221	CHEBI 29800 29805	MgCl2
+#1221	AnnotatorNotes T1221	CHEBI:6636 (magnesium dichloride)
+T1222	sub 29804 29805	2
+#1222	AnnotatorNotes T1222	sub (null)
+T1223	CHEBI 29812 29817	CaCl2
+#1223	AnnotatorNotes T1223	CHEBI:3312 (calcium dichloride)
+T1224	sub 29816 29817	2
+#1224	AnnotatorNotes T1224	sub (null)
+T1225	sup 29830 29831	6
+#1225	AnnotatorNotes T1225	sup (null)
+T1226	GO_CC 29832 29838	nuclei
+#1226	AnnotatorNotes T1226	GO:0005634 (nucleus)
+T1227	independent_continuant 29910 29917	DNase I
+#1227	AnnotatorNotes T1227	independent_continuant
+T1228	GO_MF 29910 29917	DNase I
+#1228	AnnotatorNotes T1228	GO:0004530 (deoxyribonuclease I activity)
+T1229	PR 29910 29917	DNase I
+#1229	AnnotatorNotes T1229	PR:000006592 (deoxyribonuclease-1)
+T1230	GO_BP 29935 29944	Digestion
+#1230	AnnotatorNotes T1230	GO:0009056 (catabolic process)
+T1231	GO_MF 29994 30001	DNase I
+#1231	AnnotatorNotes T1231	GO:0004530 (deoxyribonuclease I activity)
+T1232	PR 29994 30001	DNase I
+#1232	AnnotatorNotes T1232	PR:000006592 (deoxyribonuclease-1)
+T1233	independent_continuant 29994 30001	DNase I
+#1233	AnnotatorNotes T1233	independent_continuant
+T1234	GO_BP 30003 30013	Digestions
+#1234	AnnotatorNotes T1234	GO:0009056 (catabolic process)
+T1235	CHEBI 30037 30040	SDS
+#1235	AnnotatorNotes T1235	CHEBI:8984 (sodium dodecyl sulfate)
+T1236	CHEBI 30051 30055	EDTA
+#1236	AnnotatorNotes T1236	CHEBI:30378 (ethylenediaminetetraacetate)
+T1237	CHEBI 30051 30055	EDTA
+#1237	AnnotatorNotes T1237	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T1238	SO 30066 30070	DNAs
+#1238	AnnotatorNotes T1238	SO:0000352 (DNA)
+T1239	GO_MF 30088 30098	proteinase
+#1239	AnnotatorNotes T1239	GO:0008233 (peptidase activity)
+T1240	independent_continuant 30088 30098	proteinase
+#1240	AnnotatorNotes T1240	independent_continuant
+T1241	GO_BP 30101 30110	digestion
+#1241	AnnotatorNotes T1241	GO:0009056 (catabolic process)
+T1242	CHEBI 30123 30129	phenol
+#1242	AnnotatorNotes T1242	CHEBI:15882 (phenol)
+T1243	CHEBI 30130 30140	chloroform
+#1243	AnnotatorNotes T1243	CHEBI:35255 (chloroform)
+T1244	CHEBI 30156 30167	isopropanol
+#1244	AnnotatorNotes T1244	CHEBI:17824 (propan-2-ol)
+T1245	CHEBI 30210 30217	histone
+#1245	AnnotatorNotes T1245	CHEBI:15358 (histone)
+T1246	GO_CC 30226 30235	chromatin
+#1246	AnnotatorNotes T1246	GO:0000785 (chromatin)
+T1247	EntrezGene 30251 30255	p150
+#1247	AnnotatorNotes T1247	EG:27221
+T1248	PR 30251 30255	p150
+#1248	AnnotatorNotes T1248	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1249	CL 30265 30270	cells
+#1249	AnnotatorNotes T1249	CL:0000000 (cell)
+T1250	GO_CC 30265 30270	cells
+#1250	AnnotatorNotes T1250	GO:0005623 (cell)
+T1251	GO_CC 30281 30287	nuclei
+#1251	AnnotatorNotes T1251	GO:0005634 (nucleus)
+T1252	CHEBI 30340 30345	Hepes
+#1252	AnnotatorNotes T1252	CHEBI:46756 (HEPES)
+T1253	CHEBI 30359 30367	Glycerol
+#1253	AnnotatorNotes T1253	CHEBI:17754 (glycerol)
+T1254	CHEBI 30374 30379	MgCl2
+#1254	AnnotatorNotes T1254	CHEBI:6636 (magnesium dichloride)
+T1255	CHEBI 30401 30404	DTT
+#1255	AnnotatorNotes T1255	CHEBI:18320 (1,4-dithiothreitol)
+T1256	CHEBI 30413 30417	PMSF
+#1256	AnnotatorNotes T1256	CHEBI:8102 (phenylmethanesulfonyl fluoride)
+T1257	CHEBI 30480 30484	NaCl
+#1257	AnnotatorNotes T1257	CHEBI:26710 (sodium chloride)
+T1258	italic 30517 30519	g,
+#1258	AnnotatorNotes T1258	italic (null)
+T1259	CHEBI 30581 30588	histone
+#1259	AnnotatorNotes T1259	CHEBI:15358 (histone)
+T1260	GO_CC 30592 30600	antibody
+#1260	AnnotatorNotes T1260	GO:0019814 (immunoglobulin complex)
+T1261	GO_CC 30637 30646	chromatin
+#1261	AnnotatorNotes T1261	GO:0000785 (chromatin)
+T1262	SO 30647 30656	fragments
+#1262	AnnotatorNotes T1262	SO:0000731 (fragmentary)
+T1263	GO_CC 30671 30682	nucleosomes
+#1263	AnnotatorNotes T1263	GO:0000786 (nucleosome)
+T1264	GO_CC 30720 30729	chromatin
+#1264	AnnotatorNotes T1264	GO:0000785 (chromatin)
+T1265	GO_CC 30780 30790	antibodies
+#1265	AnnotatorNotes T1265	GO:0019814 (immunoglobulin complex)
+T1266	CHEBI 30814 30821	protein
+#1266	AnnotatorNotes T1266	CHEBI:36080 (proteins)
+T1267	SO 30871 30874	DNA
+#1267	AnnotatorNotes T1267	SO:0000352 (DNA)
+T1268	CHEBI 30903 30910	agarose
+#1268	AnnotatorNotes T1268	CHEBI:2511 (agarose)
+T1269	GO_MF 30947 30960	Hybridization
+#1269	AnnotatorNotes T1269	GO:0033592 (RNA strand annealing activity)
+T1270	GO_MF 30947 30960	Hybridization
+#1270	AnnotatorNotes T1270	GO:0000739 (DNA strand annealing activity)
+T1271	GO_CC 31062 31072	Antibodies
+#1271	AnnotatorNotes T1271	GO:0019814 (immunoglobulin complex)
+T1272	GO_CC 31122 31132	Antibodies
+#1272	AnnotatorNotes T1272	GO:0019814 (immunoglobulin complex)
+T1273	SO 31271 31273	bp
+#1273	AnnotatorNotes T1273	SO:0000028 (base_pair)
+T1274	SO 31286 31294	fragment
+#1274	AnnotatorNotes T1274	SO:0000731 (fragmentary)
+T1275	SO 31312 31321	satellite
+#1275	AnnotatorNotes T1275	SO:0000005 (satellite_DNA)
+T1276	SO 31322 31327	probe
+#1276	AnnotatorNotes T1276	SO:0000051 (probe)
+T1277	SO 31347 31349	bp
+#1277	AnnotatorNotes T1277	SO:0000028 (base_pair)
+T1278	SO 31364 31372	fragment
+#1278	AnnotatorNotes T1278	SO:0000731 (fragmentary)
+T1279	SO 31425 31427	bp
+#1279	AnnotatorNotes T1279	SO:0000028 (base_pair)
+T1280	SO 31434 31450	satellite repeat
+#1280	AnnotatorNotes T1280	SO:0000005 (satellite_DNA)
+T1281	SO 31457 31463	Probes
+#1281	AnnotatorNotes T1281	SO:0000051 (probe)
+T1282	SO 31520 31525	probe
+#1282	AnnotatorNotes T1282	SO:0000051 (probe)
+T1283	SO 31534 31542	elements
+#1283	AnnotatorNotes T1283	SO:0000001 (region)
+T1284	EntrezGene 31614 31623	p150CAF-1
+#1284	AnnotatorNotes T1284	EG:27221
+T1285	PR 31614 31623	p150CAF-1
+#1285	AnnotatorNotes T1285	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1286	GO_BP 31637 31641	RNAi
+#1286	AnnotatorNotes T1286	GO:0016246 (RNA interference)
+T1287	CL 31700 31705	cells
+#1287	AnnotatorNotes T1287	CL:0000000 (cell)
+T1288	GO_CC 31700 31705	cells
+#1288	AnnotatorNotes T1288	GO:0005623 (cell)
+T1289	GO_BP 31706 31717	transfected
+#1289	AnnotatorNotes T1289	GO:0009294 (DNA mediated transformation)
+T1290	PR 31741 31750	p150CAF-1
+#1290	AnnotatorNotes T1290	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1291	PR 31752 31756	p150
+#1291	AnnotatorNotes T1291	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1292	GO_BP 31758 31762	RNAi
+#1292	AnnotatorNotes T1292	GO:0016246 (RNA interference)
+T1293	SO 31763 31778	plasmid vectors
+#1293	AnnotatorNotes T1293	SO:0000755 (plasmid_vector)
+T1294	SO 31763 31770	plasmid
+#1294	AnnotatorNotes T1294	SO:0000155 (plasmid)
+T1295	EntrezGene 31780 31787	β-actin
+#1295	AnnotatorNotes T1295	EG:11461
+T1296	PR 31780 31787	β-actin
+#1296	AnnotatorNotes T1296	PR:000003676 (actin, cytoplasmic 1)
+T1297	CL 31829 31834	cells
+#1297	AnnotatorNotes T1297	CL:0000000 (cell)
+T1298	GO_CC 31829 31834	cells
+#1298	AnnotatorNotes T1298	GO:0005623 (cell)
+T1299	EntrezGene 31867 31876	p150CAF-1
+#1299	AnnotatorNotes T1299	EG:27221
+T1300	PR 31867 31876	p150CAF-1
+#1300	AnnotatorNotes T1300	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1301	EntrezGene 31917 31921	HP1α
+#1301	AnnotatorNotes T1301	EG:12419
+T1302	PR 31917 31921	HP1α
+#1302	AnnotatorNotes T1302	PR:000005086 (chromobox protein 5)
+T1303	CHEBI 31923 31930	histone
+#1303	AnnotatorNotes T1303	CHEBI:15358 (histone)
+T1304	CL 31975 31980	cells
+#1304	AnnotatorNotes T1304	CL:0000000 (cell)
+T1305	GO_CC 31975 31980	cells
+#1305	AnnotatorNotes T1305	GO:0005623 (cell)
+T1306	GO_BP 31981 31992	transfected
+#1306	AnnotatorNotes T1306	GO:0009294 (DNA mediated transformation)
+T1307	PR 32016 32025	p150CAF-1
+#1307	AnnotatorNotes T1307	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1308	PR 32027 32031	p150
+#1308	AnnotatorNotes T1308	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1309	SO 32033 32038	siRNA
+#1309	AnnotatorNotes T1309	SO:0000646 (siRNA)
+T1310	SO 32039 32045	vector
+#1310	AnnotatorNotes T1310	SO:0000440 (vector_replicon)
+T1311	EntrezGene 32070 32079	p150CAF-1
+#1311	AnnotatorNotes T1311	EG:27221
+T1312	PR 32070 32079	p150CAF-1
+#1312	AnnotatorNotes T1312	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1313	GO_CC 32080 32088	antibody
+#1313	AnnotatorNotes T1313	GO:0019814 (immunoglobulin complex)
+T1314	GO_CC 32190 32197	nucleus
+#1314	AnnotatorNotes T1314	GO:0005634 (nucleus)
+T1315	EntrezGene 32241 32250	p150CAF-1
+#1315	AnnotatorNotes T1315	EG:27221
+T1316	PR 32241 32250	p150CAF-1
+#1316	AnnotatorNotes T1316	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1317	GO_BP 32264 32268	RNAi
+#1317	AnnotatorNotes T1317	GO:0016246 (RNA interference)
+T1318	GO_CC 32316 32321	CAF-1
+#1318	AnnotatorNotes T1318	GO:0033186 (CAF-1 complex)
+T1319	GO_BP 32405 32409	RNAi
+#1319	AnnotatorNotes T1319	GO:0016246 (RNA interference)
+T1320	SO 32410 32424	plasmid vector
+#1320	AnnotatorNotes T1320	SO:0000755 (plasmid_vector)
+T1321	SO 32410 32417	plasmid
+#1321	AnnotatorNotes T1321	SO:0000155 (plasmid)
+T1322	GO_BP 32471 32482	transfected
+#1322	AnnotatorNotes T1322	GO:0009294 (DNA mediated transformation)
+T1323	CL 32486 32490	cell
+#1323	AnnotatorNotes T1323	CL:0000000 (cell)
+T1324	GO_CC 32486 32490	cell
+#1324	AnnotatorNotes T1324	GO:0005623 (cell)
+T1325	CL 32518 32523	cells
+#1325	AnnotatorNotes T1325	CL:0000000 (cell)
+T1326	GO_CC 32518 32523	cells
+#1326	AnnotatorNotes T1326	GO:0005623 (cell)
+T1327	SO 32560 32564	gene
+#1327	AnnotatorNotes T1327	SO:0000704 (gene)
+T1328	GO_CC 32658 32663	CAF-1
+#1328	AnnotatorNotes T1328	GO:0033186 (CAF-1 complex)
+T1329	CL 32683 32694	Fibroblasts
+#1329	AnnotatorNotes T1329	CL:0000057 (fibroblast)
+T1330	GO_BP 32706 32721	DNA Replication
+#1330	AnnotatorNotes T1330	GO:0006260 (DNA replication)
+T1331	SO 32706 32709	DNA
+#1331	AnnotatorNotes T1331	SO:0000352 (DNA)
+T1332	GO_CC 32748 32763	Heterochromatin
+#1332	AnnotatorNotes T1332	GO:0000792 (heterochromatin)
+T1333	GO_CC 32764 32771	Nuclear
+#1333	AnnotatorNotes T1333	GO:0005634 (nucleus)
+T1334	EntrezGene 32805 32814	p150CAF-1
+#1334	AnnotatorNotes T1334	EG:27221
+T1335	PR 32805 32814	p150CAF-1
+#1335	AnnotatorNotes T1335	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1336	GO_BP 32846 32857	transfected
+#1336	AnnotatorNotes T1336	GO:0009294 (DNA mediated transformation)
+T1337	PR 32881 32890	p150CAF-1
+#1337	AnnotatorNotes T1337	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1338	GO_BP 32891 32895	RNAi
+#1338	AnnotatorNotes T1338	GO:0016246 (RNA interference)
+T1339	SO 32896 32903	vectors
+#1339	AnnotatorNotes T1339	SO:0000440 (vector_replicon)
+T1340	PR 32986 32990	p150
+#1340	AnnotatorNotes T1340	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1341	EntrezGene 33028 33037	p150CAF-1
+#1341	AnnotatorNotes T1341	EG:27221
+T1342	PR 33028 33037	p150CAF-1
+#1342	AnnotatorNotes T1342	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1343	GO_CC 33113 33124	cytoplasmic
+#1343	AnnotatorNotes T1343	GO:0005737 (cytoplasm)
+T1344	GO_CC 33125 33130	CAF-1
+#1344	AnnotatorNotes T1344	GO:0033186 (CAF-1 complex)
+T1345	CL 33338 33342	cell
+#1345	AnnotatorNotes T1345	CL:0000000 (cell)
+T1346	GO_CC 33338 33342	cell
+#1346	AnnotatorNotes T1346	GO:0005623 (cell)
+T1347	NCBITaxon 33399 33405	animal
+#1347	AnnotatorNotes T1347	NCBITaxon:33208 (Metazoa)
+T1348	CL 33431 33436	cells
+#1348	AnnotatorNotes T1348	CL:0000000 (cell)
+T1349	GO_CC 33431 33436	cells
+#1349	AnnotatorNotes T1349	GO:0005623 (cell)
+T1350	PR 33460 33463	PML
+#1350	AnnotatorNotes T1350	PR:000026474 (probable transcription factor PML)
+T1351	GO_CC 33464 33472	antibody
+#1351	AnnotatorNotes T1351	GO:0019814 (immunoglobulin complex)
+T1352	SO 33503 33509	probes
+#1352	AnnotatorNotes T1352	SO:0000051 (probe)
+T1353	GO_CC 33703 33708	CAF-1
+#1353	AnnotatorNotes T1353	GO:0033186 (CAF-1 complex)
+T1354	GO_CC 33711 33738	chromatin assembly factor 1
+#1354	AnnotatorNotes T1354	GO:0033186 (CAF-1 complex)
+T1355	GO_BP 33711 33729	chromatin assembly
+#1355	AnnotatorNotes T1355	GO:0031497 (chromatin assembly)
+T1356	GO_CC 33711 33720	chromatin
+#1356	AnnotatorNotes T1356	GO:0000785 (chromatin)
+T1357	GO_CC 33747 33756	chromatin
+#1357	AnnotatorNotes T1357	GO:0000785 (chromatin)
+T1358	GO_MF 33849 33862	hybridization
+#1358	AnnotatorNotes T1358	GO:0033592 (RNA strand annealing activity)
+T1359	GO_MF 33849 33862	hybridization
+#1359	AnnotatorNotes T1359	GO:0000739 (DNA strand annealing activity)
+T1360	NCBITaxon 33928 33933	mouse
+#1360	AnnotatorNotes T1360	NCBITaxon:10088 (Mus)
+T1361	CL 33944 33954	fibroblast
+#1361	AnnotatorNotes T1361	CL:0000057 (fibroblast)
+T1362	GO_CC 33956 33960	PCNA
+#1362	AnnotatorNotes T1362	GO:0005577 (fibrinogen complex)
+T1363	PR 33956 33960	PCNA
+#1363	AnnotatorNotes T1363	PR:000012421 (proliferating cell nuclear antigen)
+T1364	EntrezGene 33956 33960	PCNA
+#1364	AnnotatorNotes T1364	EG:18538
+T1365	GO_CC 33963 33997	proliferating cell nuclear antigen
+#1365	AnnotatorNotes T1365	GO:0005577 (fibrinogen complex)
+T1366	EntrezGene 33963 33997	proliferating cell nuclear antigen
+#1366	AnnotatorNotes T1366	EG:18538
+T1367	PR 33963 33997	proliferating cell nuclear antigen
+#1367	AnnotatorNotes T1367	PR:000012421 (proliferating cell nuclear antigen)
+T1368	GO_BP 33963 33976	proliferating
+#1368	AnnotatorNotes T1368	GO:0008283 (cell proliferation)
+T1369	CL 33977 33981	cell
+#1369	AnnotatorNotes T1369	CL:0000000 (cell)
+T1370	GO_CC 33977 33981	cell
+#1370	AnnotatorNotes T1370	GO:0005623 (cell)
+T1371	GO_CC 33982 33989	nuclear
+#1371	AnnotatorNotes T1371	GO:0005634 (nucleus)
+T1372	EntrezGene 33999 34002	PML
+#1372	AnnotatorNotes T1372	EG:18854
+T1373	PR 33999 34002	PML
+#1373	AnnotatorNotes T1373	PR:000026474 (probable transcription factor PML)
+T1374	EntrezGene 34005 34027	promyelocytic leukemia
+#1374	AnnotatorNotes T1374	EG:18854
+T1375	PR 34005 34027	promyelocytic leukemia
+#1375	AnnotatorNotes T1375	PR:000026474 (probable transcription factor PML)
+T1376	CL 34005 34018	promyelocytic
+#1376	AnnotatorNotes T1376	CL:0000836 (promyelocyte)
+T1377	GO_BP 34029 34033	RNAi
+#1377	AnnotatorNotes T1377	GO:0016246 (RNA interference)
+T1378	GO_BP 34036 34052	RNA interference
+#1378	AnnotatorNotes T1378	GO:0016246 (RNA interference)
+T1379	SO 34036 34039	RNA
+#1379	AnnotatorNotes T1379	SO:0000356 (RNA)
+T1380	SO 34054 34059	siRNA
+#1380	AnnotatorNotes T1380	SO:0000646 (siRNA)
+T1381	SO 34062 34083	short interfering RNA
+#1381	AnnotatorNotes T1381	SO:0000646 (siRNA)
+T1382	GO_BP 34068 34079	interfering
+#1382	AnnotatorNotes T1382	GO:0016246 (RNA interference)
+T1383	EntrezGene 34123 34132	p150CAF-1
+#1383	AnnotatorNotes T1383	EG:27221
+T1384	PR 34123 34132	p150CAF-1
+#1384	AnnotatorNotes T1384	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1385	GO_BP 34157 34170	Developmental
+#1385	AnnotatorNotes T1385	GO:0032502 (developmental process)
+T1386	GO_CC 34196 34211	Heterochromatin
+#1386	AnnotatorNotes T1386	GO:0000792 (heterochromatin)
+T1387	GO_BP 34230 34240	Generation
+#1387	AnnotatorNotes T1387	GO:0000003 (reproduction)
+T1388	italic 34244 34250	Chaf1a
+#1388	AnnotatorNotes T1388	italic (null)
+T1389	EntrezGene 34244 34250	Chaf1a
+#1389	AnnotatorNotes T1389	EG:27221
+T1390	PR 34244 34250	Chaf1a
+#1390	AnnotatorNotes T1390	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1391	sup 34250 34253	+/−
+#1391	AnnotatorNotes T1391	sup (null)
+T1392	SO 34250 34251	+
+#1392	AnnotatorNotes T1392	SO:0000817 (wild_type)
+T1393	italic 34252 34253	−
+#1393	AnnotatorNotes T1393	italic (null)
+T1394	NCBITaxon 34254 34258	mice
+#1394	AnnotatorNotes T1394	NCBITaxon:10088 (Mus)
+T1395	GO_BP 34273 34286	recombination
+#1395	AnnotatorNotes T1395	GO:0006310 (DNA recombination)
+T1396	CL 34293 34298	cells
+#1396	AnnotatorNotes T1396	CL:0000000 (cell)
+T1397	GO_CC 34293 34298	cells
+#1397	AnnotatorNotes T1397	GO:0005623 (cell)
+T1398	EntrezGene 34320 34328	p150CAF1
+#1398	AnnotatorNotes T1398	EG:27221
+T1399	PR 34320 34328	p150CAF1
+#1399	AnnotatorNotes T1399	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1400	CHEBI 34329 34336	protein
+#1400	AnnotatorNotes T1400	CHEBI:36080 (proteins)
+T1401	SO 34364 34371	domains
+#1401	AnnotatorNotes T1401	SO:0000417 (polypeptide_domain)
+T1402	EntrezGene 34381 34384	HP1
+#1402	AnnotatorNotes T1402	EG:12417
+T1403	EntrezGene 34389 34397	p60CAF-1
+#1403	AnnotatorNotes T1403	EG:110749
+T1404	PR 34389 34397	p60CAF-1
+#1404	AnnotatorNotes T1404	PR:000005403 (chromatin assembly factor 1 subunit B)
+T1405	CHEBI 34407 34413	acidic
+#1405	AnnotatorNotes T1405	CHEBI:37527 (acid)
+T1406	SO 34414 34420	domain
+#1406	AnnotatorNotes T1406	SO:0000417 (polypeptide_domain)
+T1407	NCBITaxon 34453 34459	murine
+#1407	AnnotatorNotes T1407	NCBITaxon:39107 (Murinae)
+T1408	italic 34460 34466	Chaf1a
+#1408	AnnotatorNotes T1408	italic (null)
+T1409	PR 34460 34466	Chaf1a
+#1409	AnnotatorNotes T1409	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1410	SO 34467 34471	gene
+#1410	AnnotatorNotes T1410	SO:0000704 (gene)
+T1411	SO 34500 34505	exons
+#1411	AnnotatorNotes T1411	SO:0000147 (exon)
+T1412	SO 34510 34517	introns
+#1412	AnnotatorNotes T1412	SO:0000188 (intron)
+T1413	SO 34554 34581	translation initiation site
+#1413	AnnotatorNotes T1413	SO:0000318 (start_codon)
+T1414	GO_BP 34554 34576	translation initiation
+#1414	AnnotatorNotes T1414	GO:0006413 (translational initiation)
+T1415	GO_BP 34554 34565	translation
+#1415	AnnotatorNotes T1415	GO:0006412 (translation)
+T1416	italic 34602 34608	Chaf1a
+#1416	AnnotatorNotes T1416	italic (null)
+T1417	PR 34602 34608	Chaf1a
+#1417	AnnotatorNotes T1417	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1418	EntrezGene 34602 34608	Chaf1a
+#1418	AnnotatorNotes T1418	EG:27221
+T1419	SO 34619 34625	vector
+#1419	AnnotatorNotes T1419	SO:0000440 (vector_replicon)
+T1420	SO 34642 34670	genomic DNA homology regions
+#1420	AnnotatorNotes T1420	"genomic DNA .. regions" SO:0000991 (genomic_DNA)
+T1421	SO 34642 34649	genomic
+#1421	AnnotatorNotes T1421	SO:0001026 (genome)
+T1422	EntrezGene 34692 34708	diphtheria toxin
+#1422	AnnotatorNotes T1422	EG:2650491
+T1423	CHEBI 34703 34708	toxin
+#1423	AnnotatorNotes T1423	CHEBI:27026 (toxin)
+T1424	EntrezGene 34710 34712	DT
+#1424	AnnotatorNotes T1424	EG:2650491
+T1425	CHEBI 34719 34727	neomycin
+#1425	AnnotatorNotes T1425	CHEBI:44577 (neomycin)
+T1426	SO 34738 34743	genes
+#1426	AnnotatorNotes T1426	SO:0000704 (gene)
+T1427	GO_BP 34745 34755	Recombined
+#1427	AnnotatorNotes T1427	GO:0006310 (DNA recombination)
+T1428	GO_BP 34757 34760	Rec
+#1428	AnnotatorNotes T1428	GO:0006310 (DNA recombination)
+T1429	CL 34765 34770	cells
+#1429	AnnotatorNotes T1429	CL:0000000 (cell)
+T1430	GO_CC 34765 34770	cells
+#1430	AnnotatorNotes T1430	GO:0005623 (cell)
+T1431	NCBITaxon 34775 34779	mice
+#1431	AnnotatorNotes T1431	NCBITaxon:10088 (Mus)
+T1432	italic 34819 34822	Sca
+#1432	AnnotatorNotes T1432	italic (null)
+T1433	SO 34846 34851	probe
+#1433	AnnotatorNotes T1433	SO:0000051 (probe)
+T1434	GO_BP 34858 34866	Breeding
+#1434	AnnotatorNotes T1434	GO:0007618 (mating)
+T1435	GO_BP 34889 34923	production of E4 Chaf1a−/− embryos
+#1435	AnnotatorNotes T1435	"production of .. embryos" GO:0009790 (embryonic development)
+T1436	italic 34906 34912	Chaf1a
+#1436	AnnotatorNotes T1436	italic (null)
+T1437	EntrezGene 34906 34912	Chaf1a
+#1437	AnnotatorNotes T1437	EG:27221
+T1438	PR 34906 34912	Chaf1a
+#1438	AnnotatorNotes T1438	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1439	sup 34912 34915	−/−
+#1439	AnnotatorNotes T1439	sup (null)
+T1440	italic 34914 34915	−
+#1440	AnnotatorNotes T1440	italic (null)
+T1441	SO 34973 34988	oligonucleotide
+#1441	AnnotatorNotes T1441	SO:0000696 (oligo)
+T1442	SO 34989 34996	primers
+#1442	AnnotatorNotes T1442	SO:0000112 (primer)
+T1443	EntrezGene 35115 35124	p150CAF-1
+#1443	AnnotatorNotes T1443	EG:27221
+T1444	PR 35115 35124	p150CAF-1
+#1444	AnnotatorNotes T1444	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1445	EntrezGene 35137 35141	HP1α
+#1445	AnnotatorNotes T1445	EG:12419
+T1446	PR 35137 35141	HP1α
+#1446	AnnotatorNotes T1446	PR:000005086 (chromobox protein 5)
+T1447	italic 35175 35181	Chaf1a
+#1447	AnnotatorNotes T1447	italic (null)
+T1448	PR 35175 35181	Chaf1a
+#1448	AnnotatorNotes T1448	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1449	EntrezGene 35175 35181	Chaf1a
+#1449	AnnotatorNotes T1449	EG:27221
+T1450	sup 35181 35184	+/−
+#1450	AnnotatorNotes T1450	sup (null)
+T1451	SO 35181 35182	+
+#1451	AnnotatorNotes T1451	SO:0000817 (wild_type)
+T1452	italic 35183 35184	−
+#1452	AnnotatorNotes T1452	italic (null)
+T1453	italic 35207 35213	Chaf1a
+#1453	AnnotatorNotes T1453	italic (null)
+T1454	EntrezGene 35207 35213	Chaf1a
+#1454	AnnotatorNotes T1454	EG:27221
+T1455	PR 35207 35213	Chaf1a
+#1455	AnnotatorNotes T1455	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1456	sup 35213 35216	+/+
+#1456	AnnotatorNotes T1456	sup (null)
+T1457	SO 35213 35214	+
+#1457	AnnotatorNotes T1457	SO:0000817 (wild_type)
+T1458	SO 35215 35216	+
+#1458	AnnotatorNotes T1458	SO:0000817 (wild_type)
+T1459	italic 35221 35227	Chaf1a
+#1459	AnnotatorNotes T1459	italic (null)
+T1460	EntrezGene 35221 35227	Chaf1a
+#1460	AnnotatorNotes T1460	EG:27221
+T1461	PR 35221 35227	Chaf1a
+#1461	AnnotatorNotes T1461	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1462	sup 35227 35230	+/−
+#1462	AnnotatorNotes T1462	sup (null)
+T1463	SO 35227 35228	+
+#1463	AnnotatorNotes T1463	SO:0000817 (wild_type)
+T1464	italic 35229 35230	−
+#1464	AnnotatorNotes T1464	italic (null)
+T1465	EntrezGene 35281 35290	p150CAF-1
+#1465	AnnotatorNotes T1465	EG:27221
+T1466	PR 35281 35290	p150CAF-1
+#1466	AnnotatorNotes T1466	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1467	SO 35320 35329	wild-type
+#1467	AnnotatorNotes T1467	SO:0000817 (wild_type)
+T1468	EntrezGene 35331 35340	p150CAF-1
+#1468	AnnotatorNotes T1468	EG:27221
+T1469	PR 35331 35340	p150CAF-1
+#1469	AnnotatorNotes T1469	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1470	GO_BP 35341 35351	expression
+#1470	AnnotatorNotes T1470	GO:0010467 (gene expression)
+T1471	GO_BP 35377 35384	S phase
+#1471	AnnotatorNotes T1471	GO:0051320 (S phase)
+T1472	CL 35410 35415	cells
+#1472	AnnotatorNotes T1472	CL:0000000 (cell)
+T1473	GO_CC 35410 35415	cells
+#1473	AnnotatorNotes T1473	GO:0005623 (cell)
+T1474	SO 35427 35436	wild-type
+#1474	AnnotatorNotes T1474	SO:0000817 (wild_type)
+T1475	CL 35490 35494	cell
+#1475	AnnotatorNotes T1475	CL:0000000 (cell)
+T1476	GO_CC 35490 35494	cell
+#1476	AnnotatorNotes T1476	GO:0005623 (cell)
+T1477	EntrezGene 35526 35535	p150CAF-1
+#1477	AnnotatorNotes T1477	EG:27221
+T1478	PR 35526 35535	p150CAF-1
+#1478	AnnotatorNotes T1478	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1479	EntrezGene 35655 35659	HP1α
+#1479	AnnotatorNotes T1479	EG:12419
+T1480	PR 35655 35659	HP1α
+#1480	AnnotatorNotes T1480	PR:000005086 (chromobox protein 5)
+T1481	SO 35690 35693	DNA
+#1481	AnnotatorNotes T1481	SO:0000352 (DNA)
+T1482	EntrezGene 35743 35746	HP1
+#1482	AnnotatorNotes T1482	EG:12417
+T1483	GO_CC 35827 35834	nucleus
+#1483	AnnotatorNotes T1483	GO:0005634 (nucleus)
+T1484	GO_CC 35918 35938	heterochromatin foci
+#1484	AnnotatorNotes T1484	GO:0000792 (heterochromatin)
+T1485	EntrezGene 35960 35964	HP1α
+#1485	AnnotatorNotes T1485	EG:12419
+T1486	PR 35960 35964	HP1α
+#1486	AnnotatorNotes T1486	PR:000005086 (chromobox protein 5)
+T1487	SO 35977 35986	wild-type
+#1487	AnnotatorNotes T1487	SO:0000817 (wild_type)
+T1488	italic 36026 36032	Chaf1a
+#1488	AnnotatorNotes T1488	italic (null)
+T1489	PR 36026 36032	Chaf1a
+#1489	AnnotatorNotes T1489	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1490	EntrezGene 36026 36032	Chaf1a
+#1490	AnnotatorNotes T1490	EG:27221
+T1491	sup 36032 36035	−/−
+#1491	AnnotatorNotes T1491	sup (null)
+T1492	EntrezGene 36054 36058	HP1α
+#1492	AnnotatorNotes T1492	EG:12419
+T1493	PR 36054 36058	HP1α
+#1493	AnnotatorNotes T1493	PR:000005086 (chromobox protein 5)
+T1494	GO_CC 36091 36098	nucleus
+#1494	AnnotatorNotes T1494	GO:0005634 (nucleus)
+T1495	EntrezGene 36102 36111	p150CAF-1
+#1495	AnnotatorNotes T1495	EG:27221
+T1496	PR 36102 36111	p150CAF-1
+#1496	AnnotatorNotes T1496	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1497	GO_CC 36153 36160	nuclear
+#1497	AnnotatorNotes T1497	GO:0005634 (nucleus)
+T1498	GO_CC 36191 36206	heterochromatin
+#1498	AnnotatorNotes T1498	GO:0000792 (heterochromatin)
+T1499	SO 36254 36263	Wild-type
+#1499	AnnotatorNotes T1499	SO:0000817 (wild_type)
+T1500	CL 36309 36314	cells
+#1500	AnnotatorNotes T1500	CL:0000000 (cell)
+T1501	GO_CC 36309 36314	cells
+#1501	AnnotatorNotes T1501	GO:0005623 (cell)
+T1502	CL 36328 36333	cells
+#1502	AnnotatorNotes T1502	CL:0000000 (cell)
+T1503	GO_CC 36328 36333	cells
+#1503	AnnotatorNotes T1503	GO:0005623 (cell)
+T1504	CL 36346 36351	cells
+#1504	AnnotatorNotes T1504	CL:0000000 (cell)
+T1505	GO_CC 36346 36351	cells
+#1505	AnnotatorNotes T1505	GO:0005623 (cell)
+T1506	CL 36363 36368	cells
+#1506	AnnotatorNotes T1506	CL:0000000 (cell)
+T1507	GO_CC 36363 36368	cells
+#1507	AnnotatorNotes T1507	GO:0005623 (cell)
+T1508	CL 36382 36387	cells
+#1508	AnnotatorNotes T1508	CL:0000000 (cell)
+T1509	GO_CC 36382 36387	cells
+#1509	AnnotatorNotes T1509	GO:0005623 (cell)
+T1510	GO_CC 36400 36415	Heterochromatin
+#1510	AnnotatorNotes T1510	GO:0000792 (heterochromatin)
+T1511	EntrezGene 36465 36468	HP1
+#1511	AnnotatorNotes T1511	EG:12417
+T1512	GO_CC 36531 36538	nucleus
+#1512	AnnotatorNotes T1512	GO:0005634 (nucleus)
+T1513	GO_CC 36615 36622	nucleus
+#1513	AnnotatorNotes T1513	GO:0005634 (nucleus)
+T1514	CL 36632 36636	cell
+#1514	AnnotatorNotes T1514	CL:0000000 (cell)
+T1515	GO_CC 36632 36636	cell
+#1515	AnnotatorNotes T1515	GO:0005623 (cell)
+T1516	EntrezGene 36690 36699	p150CAF-1
+#1516	AnnotatorNotes T1516	EG:27221
+T1517	PR 36690 36699	p150CAF-1
+#1517	AnnotatorNotes T1517	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1518	CL 36706 36711	Cells
+#1518	AnnotatorNotes T1518	CL:0000000 (cell)
+T1519	GO_CC 36706 36711	Cells
+#1519	AnnotatorNotes T1519	GO:0005623 (cell)
+T1520	GO_CC 36746 36761	Heterochromatin
+#1520	AnnotatorNotes T1520	GO:0000792 (heterochromatin)
+T1521	EntrezGene 36805 36814	p150CAF-1
+#1521	AnnotatorNotes T1521	EG:27221
+T1522	PR 36805 36814	p150CAF-1
+#1522	AnnotatorNotes T1522	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1523	GO_BP 36818 36822	RNAi
+#1523	AnnotatorNotes T1523	GO:0016246 (RNA interference)
+T1524	CL 36829 36834	cells
+#1524	AnnotatorNotes T1524	CL:0000000 (cell)
+T1525	GO_CC 36829 36834	cells
+#1525	AnnotatorNotes T1525	GO:0005623 (cell)
+T1526	SO 36840 36845	siRNA
+#1526	AnnotatorNotes T1526	SO:0000646 (siRNA)
+T1527	GO_BP 36846 36856	expression
+#1527	AnnotatorNotes T1527	GO:0010467 (gene expression)
+T1528	SO 36857 36863	vector
+#1528	AnnotatorNotes T1528	SO:0000440 (vector_replicon)
+T1529	CHEBI 36875 36884	puromycin
+#1529	AnnotatorNotes T1529	CHEBI:17939 (puromycin)
+T1530	SO 36895 36903	cassette
+#1530	AnnotatorNotes T1530	SO:0005853 (gene_cassette)
+T1531	NCBITaxon 36916 36921	mouse
+#1531	AnnotatorNotes T1531	NCBITaxon:10088 (Mus)
+T1532	SO 36925 36933	promoter
+#1532	AnnotatorNotes T1532	SO:0000167 (promoter)
+T1533	SO 36943 36948	siRNA
+#1533	AnnotatorNotes T1533	SO:0000646 (siRNA)
+T1534	SO 36958 36966	sequence
+#1534	AnnotatorNotes T1534	SO:0000001 (region)
+T1535	CL 36971 36976	cells
+#1535	AnnotatorNotes T1535	CL:0000000 (cell)
+T1536	GO_CC 36971 36976	cells
+#1536	AnnotatorNotes T1536	GO:0005623 (cell)
+T1537	CHEBI 36993 37002	puromycin
+#1537	AnnotatorNotes T1537	CHEBI:17939 (puromycin)
+T1538	GO_BP 37035 37047	transfection
+#1538	AnnotatorNotes T1538	GO:0009294 (DNA mediated transformation)
+T1539	GO_CC 37063 37078	heterochromatin
+#1539	AnnotatorNotes T1539	GO:0000792 (heterochromatin)
+T1540	EntrezGene 37095 37104	p150CAF-1
+#1540	AnnotatorNotes T1540	EG:27221
+T1541	PR 37095 37104	p150CAF-1
+#1541	AnnotatorNotes T1541	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1542	CL 37117 37122	cells
+#1542	AnnotatorNotes T1542	CL:0000000 (cell)
+T1543	GO_CC 37117 37122	cells
+#1543	AnnotatorNotes T1543	GO:0005623 (cell)
+T1544	EntrezGene 37143 37152	p150CAF-1
+#1544	AnnotatorNotes T1544	EG:27221
+T1545	PR 37143 37152	p150CAF-1
+#1545	AnnotatorNotes T1545	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1546	EntrezGene 37165 37169	HP1α
+#1546	AnnotatorNotes T1546	EG:12419
+T1547	PR 37165 37169	HP1α
+#1547	AnnotatorNotes T1547	PR:000005086 (chromobox protein 5)
+T1548	CL 37182 37187	cells
+#1548	AnnotatorNotes T1548	CL:0000000 (cell)
+T1549	GO_CC 37182 37187	cells
+#1549	AnnotatorNotes T1549	GO:0005623 (cell)
+T1550	GO_BP 37188 37199	transfected
+#1550	AnnotatorNotes T1550	GO:0009294 (DNA mediated transformation)
+T1551	PR 37224 37233	p150CAF-1
+#1551	AnnotatorNotes T1551	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1552	SO 37234 37239	siRNA
+#1552	AnnotatorNotes T1552	SO:0000646 (siRNA)
+T1553	SO 37241 37246	siRNA
+#1553	AnnotatorNotes T1553	SO:0000646 (siRNA)
+T1554	GO_BP 37247 37257	expression
+#1554	AnnotatorNotes T1554	GO:0010467 (gene expression)
+T1555	EntrezGene 37279 37288	p150CAF-1
+#1555	AnnotatorNotes T1555	EG:27221
+T1556	PR 37279 37288	p150CAF-1
+#1556	AnnotatorNotes T1556	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1557	EntrezGene 37345 37349	HP1α
+#1557	AnnotatorNotes T1557	EG:12419
+T1558	PR 37345 37349	HP1α
+#1558	AnnotatorNotes T1558	PR:000005086 (chromobox protein 5)
+T1559	SO 37380 37383	DNA
+#1559	AnnotatorNotes T1559	SO:0000352 (DNA)
+T1560	GO_CC 37417 37432	Heterochromatin
+#1560	AnnotatorNotes T1560	GO:0000792 (heterochromatin)
+T1561	EntrezGene 37464 37473	p150CAF-1
+#1561	AnnotatorNotes T1561	EG:27221
+T1562	PR 37464 37473	p150CAF-1
+#1562	AnnotatorNotes T1562	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1563	EntrezGene 37508 37517	p150CAF-1
+#1563	AnnotatorNotes T1563	EG:27221
+T1564	PR 37508 37517	p150CAF-1
+#1564	AnnotatorNotes T1564	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1565	EntrezGene 37530 37534	HP1α
+#1565	AnnotatorNotes T1565	EG:12419
+T1566	PR 37530 37534	HP1α
+#1566	AnnotatorNotes T1566	PR:000005086 (chromobox protein 5)
+T1567	GO_BP 37549 37560	transfected
+#1567	AnnotatorNotes T1567	GO:0009294 (DNA mediated transformation)
+T1568	PR 37584 37593	p150CAF-1
+#1568	AnnotatorNotes T1568	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1569	SO 37594 37599	siRNA
+#1569	AnnotatorNotes T1569	SO:0000646 (siRNA)
+T1570	EntrezGene 37646 37650	HP1α
+#1570	AnnotatorNotes T1570	EG:12419
+T1571	PR 37646 37650	HP1α
+#1571	AnnotatorNotes T1571	PR:000005086 (chromobox protein 5)
+T1572	SO 37681 37684	DNA
+#1572	AnnotatorNotes T1572	SO:0000352 (DNA)
+T1573	GO_CC 37699 37709	PML bodies
+#1573	AnnotatorNotes T1573	GO:0016605 (PML body)
+T1574	EntrezGene 37699 37702	PML
+#1574	AnnotatorNotes T1574	EG:18854
+T1575	PR 37699 37702	PML
+#1575	AnnotatorNotes T1575	PR:000026474 (probable transcription factor PML)
+T1576	EntrezGene 37729 37738	p150CAF-1
+#1576	AnnotatorNotes T1576	EG:27221
+T1577	PR 37729 37738	p150CAF-1
+#1577	AnnotatorNotes T1577	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1578	CL 37751 37756	cells
+#1578	AnnotatorNotes T1578	CL:0000000 (cell)
+T1579	GO_CC 37751 37756	cells
+#1579	AnnotatorNotes T1579	GO:0005623 (cell)
+T1580	EntrezGene 37777 37780	PML
+#1580	AnnotatorNotes T1580	EG:18854
+T1581	PR 37777 37780	PML
+#1581	AnnotatorNotes T1581	PR:000026474 (probable transcription factor PML)
+T1582	CL 37793 37798	cells
+#1582	AnnotatorNotes T1582	CL:0000000 (cell)
+T1583	GO_CC 37793 37798	cells
+#1583	AnnotatorNotes T1583	GO:0005623 (cell)
+T1584	GO_BP 37799 37810	transfected
+#1584	AnnotatorNotes T1584	GO:0009294 (DNA mediated transformation)
+T1585	PR 37834 37843	p150CAF-1
+#1585	AnnotatorNotes T1585	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1586	SO 37844 37849	siRNA
+#1586	AnnotatorNotes T1586	SO:0000646 (siRNA)
+T1587	EntrezGene 37896 37899	PML
+#1587	AnnotatorNotes T1587	EG:18854
+T1588	PR 37896 37899	PML
+#1588	AnnotatorNotes T1588	PR:000026474 (probable transcription factor PML)
+T1589	SO 37930 37933	DNA
+#1589	AnnotatorNotes T1589	SO:0000352 (DNA)
+T1590	EntrezGene 37954 37963	p150CAF-1
+#1590	AnnotatorNotes T1590	EG:27221
+T1591	PR 37954 37963	p150CAF-1
+#1591	AnnotatorNotes T1591	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1592	GO_CC 37986 38001	Heterochromatin
+#1592	AnnotatorNotes T1592	GO:0000792 (heterochromatin)
+T1593	GO_BP 38042 38057	DNA Replication
+#1593	AnnotatorNotes T1593	GO:0006260 (DNA replication)
+T1594	SO 38042 38045	DNA
+#1594	AnnotatorNotes T1594	SO:0000352 (DNA)
+T1595	CL 38064 38069	Cells
+#1595	AnnotatorNotes T1595	CL:0000000 (cell)
+T1596	GO_CC 38064 38069	Cells
+#1596	AnnotatorNotes T1596	GO:0005623 (cell)
+T1597	CL 38078 38083	cells
+#1597	AnnotatorNotes T1597	CL:0000000 (cell)
+T1598	GO_CC 38078 38083	cells
+#1598	AnnotatorNotes T1598	GO:0005623 (cell)
+T1599	GO_BP 38089 38100	transfected
+#1599	AnnotatorNotes T1599	GO:0009294 (DNA mediated transformation)
+T1600	PR 38106 38115	p150CAF-1
+#1600	AnnotatorNotes T1600	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1601	SO 38127 38132	siRNA
+#1601	AnnotatorNotes T1601	SO:0000646 (siRNA)
+T1602	SO 38133 38140	vectors
+#1602	AnnotatorNotes T1602	SO:0000440 (vector_replicon)
+T1603	CHEBI 38158 38167	puromycin
+#1603	AnnotatorNotes T1603	CHEBI:17939 (puromycin)
+T1604	CL 38179 38184	cells
+#1604	AnnotatorNotes T1604	CL:0000000 (cell)
+T1605	GO_CC 38179 38184	cells
+#1605	AnnotatorNotes T1605	GO:0005623 (cell)
+T1606	SO 38291 38304	incorporation
+#1606	AnnotatorNotes T1606	SO:0000046 (insert)
+T1607	EntrezGene 38343 38352	p150CAF-1
+#1607	AnnotatorNotes T1607	EG:27221
+T1608	PR 38343 38352	p150CAF-1
+#1608	AnnotatorNotes T1608	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1609	CL 38362 38367	cells
+#1609	AnnotatorNotes T1609	CL:0000000 (cell)
+T1610	GO_CC 38362 38367	cells
+#1610	AnnotatorNotes T1610	GO:0005623 (cell)
+T1611	EntrezGene 38418 38427	p150CAF-1
+#1611	AnnotatorNotes T1611	EG:27221
+T1612	PR 38418 38427	p150CAF-1
+#1612	AnnotatorNotes T1612	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1613	GO_CC 38494 38498	PCNA
+#1613	AnnotatorNotes T1613	GO:0005577 (fibrinogen complex)
+T1614	EntrezGene 38494 38498	PCNA
+#1614	AnnotatorNotes T1614	EG:18538
+T1615	PR 38494 38498	PCNA
+#1615	AnnotatorNotes T1615	PR:000012421 (proliferating cell nuclear antigen)
+T1616	GO_BP 38547 38556	formation
+#1616	AnnotatorNotes T1616	GO:0022607 (cellular component assembly)
+T1617	GO_BP 38560 38571	replication
+#1617	AnnotatorNotes T1617	GO:0006260 (DNA replication)
+T1618	EntrezGene 38597 38606	p150CAF-1
+#1618	AnnotatorNotes T1618	EG:27221
+T1619	PR 38597 38606	p150CAF-1
+#1619	AnnotatorNotes T1619	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1620	CL 38619 38624	cells
+#1620	AnnotatorNotes T1620	CL:0000000 (cell)
+T1621	GO_CC 38619 38624	cells
+#1621	AnnotatorNotes T1621	GO:0005623 (cell)
+T1622	EntrezGene 38645 38654	p150CAF-1
+#1622	AnnotatorNotes T1622	EG:27221
+T1623	PR 38645 38654	p150CAF-1
+#1623	AnnotatorNotes T1623	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1624	EntrezGene 38692 38701	p150CAF-1
+#1624	AnnotatorNotes T1624	EG:27221
+T1625	PR 38692 38701	p150CAF-1
+#1625	AnnotatorNotes T1625	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1626	GO_CC 38706 38710	PCNA
+#1626	AnnotatorNotes T1626	GO:0005577 (fibrinogen complex)
+T1627	EntrezGene 38706 38710	PCNA
+#1627	AnnotatorNotes T1627	EG:18538
+T1628	PR 38706 38710	PCNA
+#1628	AnnotatorNotes T1628	PR:000012421 (proliferating cell nuclear antigen)
+T1629	GO_BP 38776 38786	cell-cycle
+#1629	AnnotatorNotes T1629	GO:0007049 (cell cycle)
+T1630	CL 38776 38780	cell
+#1630	AnnotatorNotes T1630	CL:0000000 (cell)
+T1631	GO_CC 38776 38780	cell
+#1631	AnnotatorNotes T1631	GO:0005623 (cell)
+T1632	EntrezGene 38811 38820	p150CAF-1
+#1632	AnnotatorNotes T1632	EG:27221
+T1633	PR 38811 38820	p150CAF-1
+#1633	AnnotatorNotes T1633	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1634	CL 38833 38838	cells
+#1634	AnnotatorNotes T1634	CL:0000000 (cell)
+T1635	GO_CC 38833 38838	cells
+#1635	AnnotatorNotes T1635	GO:0005623 (cell)
+T1636	CL 38883 38888	cells
+#1636	AnnotatorNotes T1636	CL:0000000 (cell)
+T1637	GO_CC 38883 38888	cells
+#1637	AnnotatorNotes T1637	GO:0005623 (cell)
+T1638	GO_BP 38897 38920	phase of the cell cycle
+#1638	AnnotatorNotes T1638	"phase of .. cell cycle" GO:0022403 (cell cycle phase)
+T1639	GO_BP 38910 38920	cell cycle
+#1639	AnnotatorNotes T1639	GO:0007049 (cell cycle)
+T1640	CL 38910 38914	cell
+#1640	AnnotatorNotes T1640	CL:0000000 (cell)
+T1641	GO_CC 38910 38914	cell
+#1641	AnnotatorNotes T1641	GO:0005623 (cell)
+T1642	GO_BP 38922 38924	G1
+#1642	AnnotatorNotes T1642	GO:0051318 (G1 phase)
+T1643	GO_BP 38926 38927	S
+#1643	AnnotatorNotes T1643	GO:0051320 (S phase)
+T1644	GO_BP 38929 38933	G2/M
+#1644	AnnotatorNotes T1644	GO:0031576 (G2/M transition checkpoint)
+T1645	GO_BP 38929 38931	G2
+#1645	AnnotatorNotes T1645	GO:0051319 (G2 phase)
+T1646	GO_BP 38932 38933	M
+#1646	AnnotatorNotes T1646	GO:0000279 (M phase)
+T1647	SO 38955 38968	incorporation
+#1647	AnnotatorNotes T1647	SO:0000046 (insert)
+T1648	SO 38973 38976	DNA
+#1648	AnnotatorNotes T1648	SO:0000352 (DNA)
+T1649	GO_BP 39133 39145	transfection
+#1649	AnnotatorNotes T1649	GO:0009294 (DNA mediated transformation)
+T1650	SO 39153 39158	siRNA
+#1650	AnnotatorNotes T1650	SO:0000646 (siRNA)
+T1651	SO 39159 39166	vectors
+#1651	AnnotatorNotes T1651	SO:0000440 (vector_replicon)
+T1652	EntrezGene 39192 39201	p150CAF-1
+#1652	AnnotatorNotes T1652	EG:27221
+T1653	PR 39192 39201	p150CAF-1
+#1653	AnnotatorNotes T1653	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1654	GO_BP 39239 39251	Localization
+#1654	AnnotatorNotes T1654	GO:0051179 (localization)
+T1655	GO_BP 39257 39271	Decondensation
+#1655	AnnotatorNotes T1655	GO:0051312 (chromosome decondensation)
+T1656	GO_CC 39275 39310	Pericentric Heterochromatin Domains
+#1656	AnnotatorNotes T1656	"Pericentric .. Domains" GO:0000775 (chromosome, pericentric region)
+T1657	SO 39303 39310	Domains
+#1657	AnnotatorNotes T1657	SO:0000001 (region)
+T1658	GO_BP 39312 39324	Distribution
+#1658	AnnotatorNotes T1658	GO:0051179 (localization)
+T1659	GO_CC 39328 39373	pericentric (red) and centric (green) domains
+#1659	AnnotatorNotes T1659	"pericentric .. domains" GO:0000775 (chromosome, pericentric region)
+T1660	SO 39366 39373	domains
+#1660	AnnotatorNotes T1660	SO:0000001 (region)
+T1661	GO_BP 39394 39404	interphase
+#1661	AnnotatorNotes T1661	GO:0051325 (interphase)
+T1662	GO_CC 39405 39411	nuclei
+#1662	AnnotatorNotes T1662	GO:0005634 (nucleus)
+T1663	NCBITaxon 39415 39420	mouse
+#1663	AnnotatorNotes T1663	NCBITaxon:10088 (Mus)
+T1664	CL 39424 39429	cells
+#1664	AnnotatorNotes T1664	CL:0000000 (cell)
+T1665	GO_CC 39424 39429	cells
+#1665	AnnotatorNotes T1665	GO:0005623 (cell)
+T1666	SO 39433 39436	DNA
+#1666	AnnotatorNotes T1666	SO:0000352 (DNA)
+T1667	SO 39455 39514	satellite (pSAT) [47] and minor satellite (pMR150) [48] DNA
+#1667	AnnotatorNotes T1667	"satellite .. DNA" SO:0000005 (satellite_DNA)
+T1668	SO 39487 39514	satellite (pMR150) [48] DNA
+#1668	AnnotatorNotes T1668	"satellite .. DNA" SO:0000005 (satellite_DNA)
+T1669	SO 39511 39514	DNA
+#1669	AnnotatorNotes T1669	SO:0000352 (DNA)
+T1670	SO 39515 39521	probes
+#1670	AnnotatorNotes T1670	SO:0000051 (probe)
+T1671	CL 39547 39552	cells
+#1671	AnnotatorNotes T1671	CL:0000000 (cell)
+T1672	GO_CC 39547 39552	cells
+#1672	AnnotatorNotes T1672	GO:0005623 (cell)
+T1673	GO_BP 39553 39563	expressing
+#1673	AnnotatorNotes T1673	GO:0010467 (gene expression)
+T1674	SO 39579 39584	siRNA
+#1674	AnnotatorNotes T1674	SO:0000646 (siRNA)
+T1675	GO_CC 39586 39630	pericentric regions from several chromosomes
+#1675	AnnotatorNotes T1675	"pericentric regions from .. chromosomes" GO:0000775 (chromosome, pericentric region)
+T1676	SO 39598 39630	regions from several chromosomes
+#1676	AnnotatorNotes T1676	"regions from .. chromosomes" SO:0000830 (chromosome_part)
+T1677	GO_CC 39619 39630	chromosomes
+#1677	AnnotatorNotes T1677	GO:0005694 (chromosome)
+T1678	SO 39619 39630	chromosomes
+#1678	AnnotatorNotes T1678	SO:0000340 (chromosome)
+T1679	GO_CC 39666 39679	chromocenters
+#1679	AnnotatorNotes T1679	GO:0010369 (chromocenter)
+T1680	GO_BP 39680 39684	form
+#1680	AnnotatorNotes T1680	GO:0022607 (cellular component assembly)
+T1681	SO 39752 39759	regions
+#1681	AnnotatorNotes T1681	SO:0000001 (region)
+T1682	SO 39822 39829	domains
+#1682	AnnotatorNotes T1682	SO:0000001 (region)
+T1683	GO_CC 39880 39891	pericentric
+#1683	AnnotatorNotes T1683	GO:0000775 (chromosome, pericentric region)
+T1684	GO_CC 39943 39962	pericentric domains
+#1684	AnnotatorNotes T1684	GO:0000775 (chromosome, pericentric region)
+T1685	SO 39955 39962	domains
+#1685	AnnotatorNotes T1685	SO:0000001 (region)
+T1686	CL 39978 39983	cells
+#1686	AnnotatorNotes T1686	CL:0000000 (cell)
+T1687	GO_CC 39978 39983	cells
+#1687	AnnotatorNotes T1687	GO:0005623 (cell)
+T1688	GO_BP 39984 39994	expressing
+#1688	AnnotatorNotes T1688	GO:0010467 (gene expression)
+T1689	PR 39995 40004	p150CAF-1
+#1689	AnnotatorNotes T1689	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1690	SO 40005 40010	siRNA
+#1690	AnnotatorNotes T1690	SO:0000646 (siRNA)
+T1691	GO_BP 40023 40030	forming
+#1691	AnnotatorNotes T1691	GO:0022607 (cellular component assembly)
+T1692	GO_CC 40044 40057	chromocenters
+#1692	AnnotatorNotes T1692	GO:0010369 (chromocenter)
+T1693	GO_CC 40059 40078	pericentric domains
+#1693	AnnotatorNotes T1693	GO:0000775 (chromosome, pericentric region)
+T1694	SO 40071 40078	domains
+#1694	AnnotatorNotes T1694	SO:0000001 (region)
+T1695	GO_CC 40179 40186	nuclear
+#1695	AnnotatorNotes T1695	GO:0005634 (nucleus)
+T1696	CL 40233 40238	cells
+#1696	AnnotatorNotes T1696	CL:0000000 (cell)
+T1697	GO_CC 40233 40238	cells
+#1697	AnnotatorNotes T1697	GO:0005623 (cell)
+T1698	GO_CC 40307 40314	nucleus
+#1698	AnnotatorNotes T1698	GO:0005634 (nucleus)
+T1699	GO_CC 40407 40420	chromocenters
+#1699	AnnotatorNotes T1699	GO:0010369 (chromocenter)
+T1700	GO_BP 40435 40444	condensed
+#1700	AnnotatorNotes T1700	GO:0030261 (chromosome condensation)
+T1701	SO 40451 40461	satellites
+#1701	AnnotatorNotes T1701	SO:0000005 (satellite_DNA)
+T1702	CL 40479 40484	cells
+#1702	AnnotatorNotes T1702	CL:0000000 (cell)
+T1703	GO_CC 40479 40484	cells
+#1703	AnnotatorNotes T1703	GO:0005623 (cell)
+T1704	GO_BP 40485 40495	expressing
+#1704	AnnotatorNotes T1704	GO:0010467 (gene expression)
+T1705	PR 40496 40505	p150CAF-1
+#1705	AnnotatorNotes T1705	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1706	SO 40506 40511	siRNA
+#1706	AnnotatorNotes T1706	SO:0000646 (siRNA)
+T1707	EntrezGene 40513 40522	p150CAF-1
+#1707	AnnotatorNotes T1707	EG:27221
+T1708	PR 40513 40522	p150CAF-1
+#1708	AnnotatorNotes T1708	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1709	SO 40648 40657	satellite
+#1709	AnnotatorNotes T1709	SO:0000005 (satellite_DNA)
+T1710	GO_MF 40658 40671	hybridization
+#1710	AnnotatorNotes T1710	GO:0033592 (RNA strand annealing activity)
+T1711	GO_MF 40658 40671	hybridization
+#1711	AnnotatorNotes T1711	GO:0000739 (DNA strand annealing activity)
+T1712	SO 40720 40730	satellites
+#1712	AnnotatorNotes T1712	SO:0000005 (satellite_DNA)
+T1713	GO_CC 40799 40811	chromocenter
+#1713	AnnotatorNotes T1713	GO:0010369 (chromocenter)
+T1714	CL 40823 40828	cells
+#1714	AnnotatorNotes T1714	CL:0000000 (cell)
+T1715	GO_CC 40823 40828	cells
+#1715	AnnotatorNotes T1715	GO:0005623 (cell)
+T1716	GO_CC 40849 40861	chromocenter
+#1716	AnnotatorNotes T1716	GO:0010369 (chromocenter)
+T1717	EntrezGene 40865 40874	p150CAF-1
+#1717	AnnotatorNotes T1717	EG:27221
+T1718	PR 40865 40874	p150CAF-1
+#1718	AnnotatorNotes T1718	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1719	CL 40884 40889	cells
+#1719	AnnotatorNotes T1719	CL:0000000 (cell)
+T1720	GO_CC 40884 40889	cells
+#1720	AnnotatorNotes T1720	GO:0005623 (cell)
+T1721	GO_CC 40906 40917	Nucleosomal
+#1721	AnnotatorNotes T1721	GO:0000786 (nucleosome)
+T1722	EntrezGene 40949 40958	p150CAF-1
+#1722	AnnotatorNotes T1722	EG:27221
+T1723	PR 40949 40958	p150CAF-1
+#1723	AnnotatorNotes T1723	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1724	CL 40971 40976	Cells
+#1724	AnnotatorNotes T1724	CL:0000000 (cell)
+T1725	GO_CC 40971 40976	Cells
+#1725	AnnotatorNotes T1725	GO:0005623 (cell)
+T1726	CL 41007 41012	cells
+#1726	AnnotatorNotes T1726	CL:0000000 (cell)
+T1727	GO_CC 41007 41012	cells
+#1727	AnnotatorNotes T1727	GO:0005623 (cell)
+T1728	GO_BP 41013 41024	transfected
+#1728	AnnotatorNotes T1728	GO:0009294 (DNA mediated transformation)
+T1729	PR 41041 41050	p150CAF-1
+#1729	AnnotatorNotes T1729	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1730	SO 41051 41056	siRNA
+#1730	AnnotatorNotes T1730	SO:0000646 (siRNA)
+T1731	SO 41057 41063	vector
+#1731	AnnotatorNotes T1731	SO:0000440 (vector_replicon)
+T1732	GO_CC 41065 41071	Nuclei
+#1732	AnnotatorNotes T1732	GO:0005634 (nucleus)
+T1733	GO_BP 41077 41085	digested
+#1733	AnnotatorNotes T1733	GO:0022411 (cellular component disassembly)
+T1734	independent_continuant 41113 41120	DNase I
+#1734	AnnotatorNotes T1734	independent_continuant
+T1735	GO_MF 41113 41120	DNase I
+#1735	AnnotatorNotes T1735	GO:0004530 (deoxyribonuclease I activity)
+T1736	PR 41113 41120	DNase I
+#1736	AnnotatorNotes T1736	PR:000006592 (deoxyribonuclease-1)
+T1737	GO_BP 41141 41150	digestion
+#1737	AnnotatorNotes T1737	GO:0009056 (catabolic process)
+T1738	independent_continuant 41170 41179	nucleases
+#1738	AnnotatorNotes T1738	independent_continuant
+T1739	GO_MF 41170 41179	nucleases
+#1739	AnnotatorNotes T1739	GO:0004518 (nuclease activity)
+T1740	SO 41187 41190	DNA
+#1740	AnnotatorNotes T1740	SO:0000352 (DNA)
+T1741	CHEBI 41220 41227	agarose
+#1741	AnnotatorNotes T1741	CHEBI:2511 (agarose)
+T1742	CHEBI 41255 41271	ethidium bromide
+#1742	AnnotatorNotes T1742	CHEBI:4883 (ethidium bromide)
+T1743	CHEBI 41255 41263	ethidium
+#1743	AnnotatorNotes T1743	CHEBI:42478 (ethidium)
+T1744	CHEBI 41264 41271	bromide
+#1744	AnnotatorNotes T1744	CHEBI:15858 (bromide)
+T1745	SO 41287 41298	genomic DNA
+#1745	AnnotatorNotes T1745	SO:0000991 (genomic_DNA)
+T1746	SO 41287 41294	genomic
+#1746	AnnotatorNotes T1746	SO:0001026 (genome)
+T1747	SO 41309 41312	DNA
+#1747	AnnotatorNotes T1747	SO:0000352 (DNA)
+T1748	CHEBI 41332 41337	nylon
+#1748	AnnotatorNotes T1748	CHEBI:25614 (nylons)
+T1749	GO_MF 41363 41373	hybridized
+#1749	AnnotatorNotes T1749	GO:0033592 (RNA strand annealing activity)
+T1750	GO_MF 41363 41373	hybridized
+#1750	AnnotatorNotes T1750	GO:0000739 (DNA strand annealing activity)
+T1751	CHEBI 41385 41388	32P
+#1751	AnnotatorNotes T1751	CHEBI:37972 (phosphorus-32)
+T1752	sup 41385 41387	32
+#1752	AnnotatorNotes T1752	sup (null)
+T1753	SO 41408 41424	satellite repeat
+#1753	AnnotatorNotes T1753	SO:0000005 (satellite_DNA)
+T1754	SO 41425 41430	probe
+#1754	AnnotatorNotes T1754	SO:0000051 (probe)
+T1755	GO_BP 41448 41467	DNA CpG Methylation
+#1755	AnnotatorNotes T1755	GO:0010424 (cytosine methylation within a CG sequence)
+T1756	SO 41448 41451	DNA
+#1756	AnnotatorNotes T1756	SO:0000352 (DNA)
+T1757	GO_CC 41471 41498	Pericentric Heterochromatin
+#1757	AnnotatorNotes T1757	GO:0005721 (centric heterochromatin)
+T1758	GO_CC 41471 41482	Pericentric
+#1758	AnnotatorNotes T1758	GO:0000775 (chromosome, pericentric region)
+T1759	SO 41506 41513	Altered
+#1759	AnnotatorNotes T1759	SO:0000041 (sequence_operation)
+T1760	EntrezGene 41517 41526	p150CAF-1
+#1760	AnnotatorNotes T1760	EG:27221
+T1761	PR 41517 41526	p150CAF-1
+#1761	AnnotatorNotes T1761	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1762	CL 41539 41544	Cells
+#1762	AnnotatorNotes T1762	CL:0000000 (cell)
+T1763	GO_CC 41539 41544	Cells
+#1763	AnnotatorNotes T1763	GO:0005623 (cell)
+T1764	SO 41552 41555	DNA
+#1764	AnnotatorNotes T1764	SO:0000352 (DNA)
+T1765	CL 41574 41579	cells
+#1765	AnnotatorNotes T1765	CL:0000000 (cell)
+T1766	GO_CC 41574 41579	cells
+#1766	AnnotatorNotes T1766	GO:0005623 (cell)
+T1767	GO_BP 41580 41591	transfected
+#1767	AnnotatorNotes T1767	GO:0009294 (DNA mediated transformation)
+T1768	PR 41614 41623	p150CAF-1
+#1768	AnnotatorNotes T1768	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1769	SO 41624 41629	siRNA
+#1769	AnnotatorNotes T1769	SO:0000646 (siRNA)
+T1770	SO 41630 41636	vector
+#1770	AnnotatorNotes T1770	SO:0000440 (vector_replicon)
+T1771	GO_BP 41641 41649	digested
+#1771	AnnotatorNotes T1771	GO:0009056 (catabolic process)
+T1772	italic 41655 41658	Mae
+#1772	AnnotatorNotes T1772	italic (null)
+T1773	SO 41668 41688	recognition sequence
+#1773	AnnotatorNotes T1773	SO:0000409 (binding_site)
+T1774	SO 41709 41726	satellite repeats
+#1774	AnnotatorNotes T1774	SO:0000005 (satellite_DNA)
+T1775	GO_BP 41728 41736	Digested
+#1775	AnnotatorNotes T1775	GO:0009056 (catabolic process)
+T1776	SO 41737 41740	DNA
+#1776	AnnotatorNotes T1776	SO:0000352 (DNA)
+T1777	CHEBI 41757 41764	agarose
+#1777	AnnotatorNotes T1777	CHEBI:2511 (agarose)
+T1778	SO 41824 41833	satellite
+#1778	AnnotatorNotes T1778	SO:0000005 (satellite_DNA)
+T1779	SO 41834 41839	probe
+#1779	AnnotatorNotes T1779	SO:0000051 (probe)
+T1780	GO_CC 41893 41920	Pericentric Heterochromatin
+#1780	AnnotatorNotes T1780	GO:0005721 (centric heterochromatin)
+T1781	GO_CC 41893 41904	Pericentric
+#1781	AnnotatorNotes T1781	GO:0000775 (chromosome, pericentric region)
+T1782	EntrezGene 41924 41933	p150CAF-1
+#1782	AnnotatorNotes T1782	EG:27221
+T1783	PR 41924 41933	p150CAF-1
+#1783	AnnotatorNotes T1783	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1784	CL 41943 41948	Cells
+#1784	AnnotatorNotes T1784	CL:0000000 (cell)
+T1785	GO_CC 41943 41948	Cells
+#1785	AnnotatorNotes T1785	GO:0005623 (cell)
+T1786	EntrezGene 41954 41963	p150CAF-1
+#1786	AnnotatorNotes T1786	EG:27221
+T1787	PR 41954 41963	p150CAF-1
+#1787	AnnotatorNotes T1787	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1788	GO_CC 42015 42042	pericentric heterochromatin
+#1788	AnnotatorNotes T1788	GO:0005721 (centric heterochromatin)
+T1789	GO_CC 42015 42026	pericentric
+#1789	AnnotatorNotes T1789	GO:0000775 (chromosome, pericentric region)
+T1790	CHEBI 42058 42065	histone
+#1790	AnnotatorNotes T1790	CHEBI:15358 (histone)
+T1791	SO 42081 42098	satellite repeats
+#1791	AnnotatorNotes T1791	SO:0000005 (satellite_DNA)
+T1792	PR 42146 42155	p150CAF-1
+#1792	AnnotatorNotes T1792	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1793	PR 42157 42161	p150
+#1793	AnnotatorNotes T1793	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1794	SO 42163 42168	siRNA
+#1794	AnnotatorNotes T1794	SO:0000646 (siRNA)
+T1795	GO_BP 42169 42179	expressing
+#1795	AnnotatorNotes T1795	GO:0010467 (gene expression)
+T1796	CL 42183 42188	cells
+#1796	AnnotatorNotes T1796	CL:0000000 (cell)
+T1797	GO_CC 42183 42188	cells
+#1797	AnnotatorNotes T1797	GO:0005623 (cell)
+T1798	SO 42190 42193	DNA
+#1798	AnnotatorNotes T1798	SO:0000352 (DNA)
+T1799	GO_MF 42226 42240	antibody-bound
+#1799	AnnotatorNotes T1799	GO:0019865 (immunoglobulin binding)
+T1800	GO_CC 42226 42234	antibody
+#1800	AnnotatorNotes T1800	GO:0019814 (immunoglobulin complex)
+T1801	GO_CC 42241 42249	fraction
+#1801	AnnotatorNotes T1801	GO:0000267 (cell fraction)
+T1802	CHEBI 42267 42274	agarose
+#1802	AnnotatorNotes T1802	CHEBI:2511 (agarose)
+T1803	SO 42329 42345	satellite repeat
+#1803	AnnotatorNotes T1803	SO:0000005 (satellite_DNA)
+T1804	SO 42346 42351	probe
+#1804	AnnotatorNotes T1804	SO:0000051 (probe)
+T1805	GO_MF 42363 42376	Hybridization
+#1805	AnnotatorNotes T1805	GO:0033592 (RNA strand annealing activity)
+T1806	GO_MF 42363 42376	Hybridization
+#1806	AnnotatorNotes T1806	GO:0000739 (DNA strand annealing activity)
+T1807	SO 42505 42514	satellite
+#1807	AnnotatorNotes T1807	SO:0000005 (satellite_DNA)
+T1808	SO 42515 42520	probe
+#1808	AnnotatorNotes T1808	SO:0000051 (probe)
+T1809	SO 42604 42607	LTR
+#1809	AnnotatorNotes T1809	SO:0000286 (long_terminal_repeat)
+T1810	SO 42608 42613	probe
+#1810	AnnotatorNotes T1810	SO:0000051 (probe)
+T1811	SO 42659 42662	DNA
+#1811	AnnotatorNotes T1811	SO:0000352 (DNA)
+T1812	EntrezGene 42687 42696	p150CAF-1
+#1812	AnnotatorNotes T1812	EG:27221
+T1813	PR 42687 42696	p150CAF-1
+#1813	AnnotatorNotes T1813	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1814	CL 42709 42714	cells
+#1814	AnnotatorNotes T1814	CL:0000000 (cell)
+T1815	GO_CC 42709 42714	cells
+#1815	AnnotatorNotes T1815	GO:0005623 (cell)
+T1816	SO 42730 42733	DNA
+#1816	AnnotatorNotes T1816	SO:0000352 (DNA)
+T1817	CL 42756 42761	cells
+#1817	AnnotatorNotes T1817	CL:0000000 (cell)
+T1818	GO_CC 42756 42761	cells
+#1818	AnnotatorNotes T1818	GO:0005623 (cell)
+T1819	EntrezGene 42935 42944	p150CAF-1
+#1819	AnnotatorNotes T1819	EG:27221
+T1820	PR 42935 42944	p150CAF-1
+#1820	AnnotatorNotes T1820	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1821	CL 42957 42962	cells
+#1821	AnnotatorNotes T1821	CL:0000000 (cell)
+T1822	GO_CC 42957 42962	cells
+#1822	AnnotatorNotes T1822	GO:0005623 (cell)
+T1823	EntrezGene 43028 43032	HP1α
+#1823	AnnotatorNotes T1823	EG:12419
+T1824	PR 43028 43032	HP1α
+#1824	AnnotatorNotes T1824	PR:000005086 (chromobox protein 5)
+T1825	PR 43054 43063	p150CAF-1
+#1825	AnnotatorNotes T1825	PR:000005402 (chromatin assembly factor 1 subunit A)
+T1826	SO 43064 43069	siRNA
+#1826	AnnotatorNotes T1826	SO:0000646 (siRNA)
+T1827	GO_BP 43070 43080	expressing
+#1827	AnnotatorNotes T1827	GO:0010467 (gene expression)
+T1828	CL 43084 43089	cells
+#1828	AnnotatorNotes T1828	CL:0000000 (cell)
+T1829	GO_CC 43084 43089	cells
+#1829	AnnotatorNotes T1829	GO:0005623 (cell)
+T1830	EntrezGene 43102 43106	HP1α
+#1830	AnnotatorNotes T1830	EG:12419
+T1831	PR 43102 43106	HP1α
+#1831	AnnotatorNotes T1831	PR:000005086 (chromobox protein 5)
+T1832	bold 43355 43375	Competing interests.
+#1832	AnnotatorNotes T1832	bold (null)
+T1833	bold 43573 43594	Author contributions.
+#1833	AnnotatorNotes T1833	bold (null)
+T1834	bold 43772 43780	Funding.
+#1834	AnnotatorNotes T1834	bold (null)

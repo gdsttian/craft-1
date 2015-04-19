@@ -1,0 +1,4440 @@
+T1	GO_MF 0 11	DNA binding
+#1	AnnotatorNotes T1	GO:0003677 (DNA binding)
+T2	SO 0 3	DNA
+#2	AnnotatorNotes T2	SO:0000352 (DNA)
+T3	GO_MF 16 24	helicase
+#3	AnnotatorNotes T3	GO:0004386 (helicase activity)
+T4	independent_continuant 16 24	helicase
+#4	AnnotatorNotes T4	independent_continuant
+T5	EntrezGene 36 46	mouse MCM4
+#5	AnnotatorNotes T5	EG:17217
+T6	NCBITaxon 36 41	mouse
+#6	AnnotatorNotes T6	NCBITaxon:10088 (Mus)
+T7	PR 42 46	MCM4
+#7	AnnotatorNotes T7	PR:000010246 (DNA replication licensing factor MCM4)
+T8	GO_MF 51 59	helicase
+#8	AnnotatorNotes T8	GO:0004386 (helicase activity)
+T9	independent_continuant 51 59	helicase
+#9	AnnotatorNotes T9	independent_continuant
+T10	GO_MF 71 80	Helicases
+#10	AnnotatorNotes T10	GO:0004386 (helicase activity)
+T11	independent_continuant 71 80	Helicases
+#11	AnnotatorNotes T11	independent_continuant
+T12	GO_BP 103 147	initiation and elongation of DNA replication
+#12	AnnotatorNotes T12	"initiation .. of DNA replication" GO:0006270 (DNA replication initiation)
+T13	GO_BP 118 147	elongation of DNA replication
+#13	AnnotatorNotes T13	GO:0006271 (DNA strand elongation during DNA replication)
+T14	GO_BP 132 147	DNA replication
+#14	AnnotatorNotes T14	GO:0006260 (DNA replication)
+T15	SO 132 135	DNA
+#15	AnnotatorNotes T15	SO:0000352 (DNA)
+T16	independent_continuant 177 185	helicase
+#16	AnnotatorNotes T16	independent_continuant
+T17	GO_MF 177 185	helicase
+#17	AnnotatorNotes T17	GO:0004386 (helicase activity)
+T18	independent_continuant 190 196	ATPase
+#18	AnnotatorNotes T18	independent_continuant
+T19	GO_MF 190 196	ATPase
+#19	AnnotatorNotes T19	GO:0016887 (ATPase activity)
+T20	NCBITaxon 215 224	mammalian
+#20	AnnotatorNotes T20	NCBITaxon:40674 (Mammalia)
+T21	PR 225 229	Mcm4
+#21	AnnotatorNotes T21	PR:000010246 (DNA replication licensing factor MCM4)
+T22	GO_CC 234 241	complex
+#22	AnnotatorNotes T22	GO:0032991 (macromolecular complex)
+T23	CHEBI 272 279	thymine
+#23	AnnotatorNotes T23	CHEBI:30757 (thymin-1-yl group)
+T24	SO 285 300	single-stranded
+#24	AnnotatorNotes T24	SO:0000984 (single)
+T25	SO 292 300	stranded
+#25	AnnotatorNotes T25	SO:0000001 (region)
+T26	SO 301 304	DNA
+#26	AnnotatorNotes T26	SO:0000352 (DNA)
+T27	GO_MF 353 361	helicase
+#27	AnnotatorNotes T27	GO:0004386 (helicase activity)
+T28	independent_continuant 353 361	helicase
+#28	AnnotatorNotes T28	independent_continuant
+T29	SO 384 393	synthetic
+#29	AnnotatorNotes T29	SO:0000351 (synthetic_sequence)
+T30	SO 394 398	DNAs
+#30	AnnotatorNotes T30	SO:0000352 (DNA)
+T31	EntrezGene 423 427	Mcm4
+#31	AnnotatorNotes T31	EG:17217
+T32	PR 423 427	Mcm4
+#32	AnnotatorNotes T32	PR:000010246 (DNA replication licensing factor MCM4)
+T33	CHEBI 486 488	nt
+#33	AnnotatorNotes T33	CHEBI:25613 (nucleotidyl groups)
+T34	SO 486 488	nt
+#34	AnnotatorNotes T34	SO:0001236 (base)
+T35	SO 489 504	single-stranded
+#35	AnnotatorNotes T35	SO:0000984 (single)
+T36	SO 496 504	stranded
+#36	AnnotatorNotes T36	SO:0000001 (region)
+T37	SO 505 513	segments
+#37	AnnotatorNotes T37	SO:0000001 (region)
+T38	GO_BP 556 566	generating
+#38	AnnotatorNotes T38	GO:0022607 (cellular component assembly)
+T39	CHEBI 592 599	thymine
+#39	AnnotatorNotes T39	CHEBI:17821 (thymine)
+T40	CHEBI 600 608	residues
+#40	AnnotatorNotes T40	CHEBI:33791 (canonical nucleoside residues)
+T41	SO 600 608	residues
+#41	AnnotatorNotes T41	SO:0001236 (base)
+T42	SO 625 631	strand
+#42	AnnotatorNotes T42	SO:0000001 (region)
+T43	GO_BP 667 676	unwinding
+#43	AnnotatorNotes T43	GO:0032508 (DNA duplex unwinding)
+T44	GO_BP 728 737	unwinding
+#44	AnnotatorNotes T44	GO:0032508 (DNA duplex unwinding)
+T45	EntrezGene 767 771	Mcm4
+#45	AnnotatorNotes T45	EG:17217
+T46	PR 767 771	Mcm4
+#46	AnnotatorNotes T46	PR:000010246 (DNA replication licensing factor MCM4)
+T47	GO_BP 805 814	unwinding
+#47	AnnotatorNotes T47	GO:0032508 (DNA duplex unwinding)
+T48	EntrezGene 830 834	Mcm4
+#48	AnnotatorNotes T48	EG:17217
+T49	PR 830 834	Mcm4
+#49	AnnotatorNotes T49	PR:000010246 (DNA replication licensing factor MCM4)
+T50	GO_MF 839 844	binds
+#50	AnnotatorNotes T50	GO:0005488 (binding)
+T51	GO_BP 849 856	unwinds
+#51	AnnotatorNotes T51	GO:0032508 (DNA duplex unwinding)
+T52	GO_CC 865 869	fork
+#52	AnnotatorNotes T52	GO:0005657 (replication fork)
+T53	GO_BP 874 883	extension
+#53	AnnotatorNotes T53	GO:0006271 (DNA strand elongation during DNA replication)
+T54	SO 906 921	single-stranded
+#54	AnnotatorNotes T54	SO:0000984 (single)
+T55	SO 913 921	stranded
+#55	AnnotatorNotes T55	SO:0000001 (region)
+T56	SO 930 933	DNA
+#56	AnnotatorNotes T56	SO:0000352 (DNA)
+T57	GO_MF 949 957	helicase
+#57	AnnotatorNotes T57	GO:0004386 (helicase activity)
+T58	independent_continuant 949 957	helicase
+#58	AnnotatorNotes T58	independent_continuant
+T59	SO 984 992	sequence
+#59	AnnotatorNotes T59	SO:0000001 (region)
+T60	SO 1054 1057	DNA
+#60	AnnotatorNotes T60	SO:0000352 (DNA)
+T61	CHEBI 1075 1082	thymine
+#61	AnnotatorNotes T61	CHEBI:30757 (thymin-1-yl group)
+T62	GO_BP 1092 1111	Strand displacement
+#62	AnnotatorNotes T62	GO:0000732 (strand displacement)
+T63	SO 1092 1098	Strand
+#63	AnnotatorNotes T63	SO:0000001 (region)
+T64	EntrezGene 1115 1119	Mcm4
+#64	AnnotatorNotes T64	EG:17127
+T65	PR 1115 1119	Mcm4
+#65	AnnotatorNotes T65	PR:000010246 (DNA replication licensing factor MCM4)
+T66	SO 1163 1169	duplex
+#66	AnnotatorNotes T66	SO:0000985 (double)
+T67	SO 1170 1176	region
+#67	AnnotatorNotes T67	SO:0000001 (region)
+T68	SO 1188 1199	Replacement
+#68	AnnotatorNotes T68	SO:0000048 (substitute)
+T69	CHEBI 1203 1211	cytosine
+#69	AnnotatorNotes T69	CHEBI:30758 (cytosin-1-yl group)
+T70	CHEBI 1212 1219	guanine
+#70	AnnotatorNotes T70	CHEBI:30755 (guanine group)
+T71	CHEBI 1231 1239	cytosine
+#71	AnnotatorNotes T71	CHEBI:30758 (cytosin-1-yl group)
+T72	CHEBI 1240 1247	inosine
+#72	AnnotatorNotes T72	CHEBI:24849 (inosyl groups)
+T73	SO 1240 1247	inosine
+#73	AnnotatorNotes T73	SO:0001230 (inosine)
+T74	GO_BP 1277 1286	unwinding
+#74	AnnotatorNotes T74	GO:0032508 (DNA duplex unwinding)
+T75	NCBITaxon 1304 1313	mammalian
+#75	AnnotatorNotes T75	NCBITaxon:40674 (Mammalia)
+T76	PR 1314 1318	Mcm4
+#76	AnnotatorNotes T76	PR:000010246 (DNA replication licensing factor MCM4)
+T77	GO_MF 1323 1331	helicase
+#77	AnnotatorNotes T77	GO:0004386 (helicase activity)
+T78	independent_continuant 1323 1331	helicase
+#78	AnnotatorNotes T78	independent_continuant
+T79	GO_BP 1352 1361	unwinding
+#79	AnnotatorNotes T79	GO:0032508 (DNA duplex unwinding)
+T80	SO 1369 1380	base-paired
+#80	AnnotatorNotes T80	SO:0000028 (base_pair)
+T81	SO 1369 1373	base
+#81	AnnotatorNotes T81	SO:0001236 (base)
+T82	NCBITaxon 1492 1502	eukaryotic
+#82	AnnotatorNotes T82	NCBITaxon:2759 (Eukaryota)
+T83	GO_BP 1503 1514	replicative
+#83	AnnotatorNotes T83	GO:0006260 (DNA replication)
+T84	GO_MF 1515 1523	helicase
+#84	AnnotatorNotes T84	GO:0004386 (helicase activity)
+T85	independent_continuant 1515 1523	helicase
+#85	AnnotatorNotes T85	independent_continuant
+T86	independent_continuant 1540 1553	DNA helicases
+#86	AnnotatorNotes T86	independent_continuant
+T87	GO_MF 1540 1553	DNA helicases
+#87	AnnotatorNotes T87	GO:0003678 (DNA helicase activity)
+T88	SO 1540 1543	DNA
+#88	AnnotatorNotes T88	SO:0000352 (DNA)
+T89	CHEBI 1579 1621	nucleotide or deoxynucleotide triphosphate
+#89	AnnotatorNotes T89	"nucleotide .. triphosphate" CHEBI:17326 (nucleoside triphosphates)
+T90	CHEBI 1579 1621	nucleotide or deoxynucleotide triphosphate
+#90	AnnotatorNotes T90	"nucleotide .. triphosphate" CHEBI:37076 (ribonucleoside 5'-triphosphates)
+T91	CHEBI 1593 1621	deoxynucleotide triphosphate
+#91	AnnotatorNotes T91	CHEBI:16381 (2'-deoxyribonucleoside 5'-triphosphates)
+T92	CHEBI 1593 1621	deoxynucleotide triphosphate
+#92	AnnotatorNotes T92	CHEBI:16516 (2'-deoxyribonucleoside triphosphates)
+T93	GO_BP 1625 1641	duplex unwinding
+#93	AnnotatorNotes T93	GO:0032508 (DNA duplex unwinding)
+T94	GO_MF 1696 1714	nucleotide binding
+#94	AnnotatorNotes T94	GO:0000166 (nucleotide binding)
+T95	CHEBI 1696 1706	nucleotide
+#95	AnnotatorNotes T95	CHEBI:36976 (nucleotides)
+T96	GO_MF 1716 1727	DNA binding
+#96	AnnotatorNotes T96	GO:0003677 (DNA binding)
+T97	SO 1716 1719	DNA
+#97	AnnotatorNotes T97	SO:0000352 (DNA)
+T98	CHEBI 1732 1735	ATP
+#98	AnnotatorNotes T98	CHEBI:15422 (ATP)
+T99	CHEBI 1732 1735	ATP
+#99	AnnotatorNotes T99	CHEBI:30616 (ATP(4-))
+T100	GO_BP 1763 1786	unwinding of duplex DNA
+#100	AnnotatorNotes T100	GO:0032508 (DNA duplex unwinding)
+T101	SO 1776 1782	duplex
+#101	AnnotatorNotes T101	SO:0000985 (double)
+T102	SO 1783 1786	DNA
+#102	AnnotatorNotes T102	SO:0000352 (DNA)
+T103	GO_MF 1808 1817	helicases
+#103	AnnotatorNotes T103	GO:0004386 (helicase activity)
+T104	independent_continuant 1808 1817	helicases
+#104	AnnotatorNotes T104	independent_continuant
+T105	GO_CC 1828 1869	minichromosome maintenance (Mcm) helicase
+#105	AnnotatorNotes T105	"minichromosome maintenance .. helicase" GO:0042555 (MCM complex)
+T106	GO_CC 1856 1869	Mcm) helicase
+#106	AnnotatorNotes T106	"Mcm .. helicase" GO:0042555 (MCM complex)
+T107	GO_MF 1861 1869	helicase
+#107	AnnotatorNotes T107	GO:0004386 (helicase activity)
+T108	independent_continuant 1861 1869	helicase
+#108	AnnotatorNotes T108	independent_continuant
+T109	GO_BP 1892 1900	assemble
+#109	AnnotatorNotes T109	GO:0022607 (cellular component assembly)
+T110	independent_continuant 1946 1959	DNA helicases
+#110	AnnotatorNotes T110	independent_continuant
+T111	GO_MF 1946 1959	DNA helicases
+#111	AnnotatorNotes T111	GO:0003678 (DNA helicase activity)
+T112	SO 1946 1949	DNA
+#112	AnnotatorNotes T112	SO:0000352 (DNA)
+T113	EntrezGene 1985 2016	simian virus 40 large T-antigen
+#113	AnnotatorNotes T113	EG:1489531
+T114	NCBITaxon 1985 2000	simian virus 40
+#114	AnnotatorNotes T114	NCBITaxon:10633 (Simian virus 40)
+T115	italic 2022 2038	Escherichia coli
+#115	AnnotatorNotes T115	italic (null)
+T116	NCBITaxon 2022 2038	Escherichia coli
+#116	AnnotatorNotes T116	NCBITaxon:562 (Escherichia coli)
+T117	taxonomic_rank 2022 2038	Escherichia coli
+#117	AnnotatorNotes T117	taxonomic_rank (null)
+T118	PR 2039 2043	DnaB
+#118	AnnotatorNotes T118	PR:000022460 (replicative DNA helicase)
+T119	NCBITaxon 2052 2060	Archaeal
+#119	AnnotatorNotes T119	NCBITaxon:2157 (Archaea)
+T120	NCBITaxon 2119 2129	eukaryotic
+#120	AnnotatorNotes T120	NCBITaxon:2759 (Eukaryota)
+T121	GO_CC 2130 2143	Mcm helicases
+#121	AnnotatorNotes T121	GO:0042555 (MCM complex)
+T122	GO_MF 2134 2143	helicases
+#122	AnnotatorNotes T122	GO:0004386 (helicase activity)
+T123	independent_continuant 2134 2143	helicases
+#123	AnnotatorNotes T123	independent_continuant
+T124	PR 2173 2177	Mcm4
+#124	AnnotatorNotes T124	PR:000010246 (DNA replication licensing factor MCM4)
+T125	CHEBI 2182 2190	proteins
+#125	AnnotatorNotes T125	CHEBI:36080 (proteins)
+T126	PR 2213 2220	Mcm 2–7
+#126	AnnotatorNotes T126	"Mcm .. 7" PR:000010249 (DNA replication licensing factor MCM7)
+T127	PR 2213 2218	Mcm 2
+#127	AnnotatorNotes T127	PR:000010242 (DNA replication licensing factor MCM2)
+T128	GO_CC 2213 2216	Mcm
+#128	AnnotatorNotes T128	GO:0042555 (MCM complex)
+T129	CHEBI 2221 2229	proteins
+#129	AnnotatorNotes T129	CHEBI:36080 (proteins)
+T130	SO 2245 2254	conserved
+#130	AnnotatorNotes T130	SO:0000856 (conserved)
+T131	GO_MF 2255 2275	DNA-dependent ATPase
+#131	AnnotatorNotes T131	GO:0008094 (DNA-dependent ATPase activity)
+T132	independent_continuant 2255 2275	DNA-dependent ATPase
+#132	AnnotatorNotes T132	independent_continuant
+T133	SO 2255 2258	DNA
+#133	AnnotatorNotes T133	SO:0000352 (DNA)
+T134	SO 2300 2307	regions
+#134	AnnotatorNotes T134	SO:0000001 (region)
+T135	GO_CC 2361 2364	MCM
+#135	AnnotatorNotes T135	GO:0042555 (MCM complex)
+T136	CHEBI 2365 2373	proteins
+#136	AnnotatorNotes T136	CHEBI:36080 (proteins)
+T137	GO_BP 2378 2386	generate
+#137	AnnotatorNotes T137	GO:0022607 (cellular component assembly)
+T138	PR 2397 2401	Mcm4
+#138	AnnotatorNotes T138	PR:000010246 (DNA replication licensing factor MCM4)
+T139	GO_CC 2406 2413	complex
+#139	AnnotatorNotes T139	GO:0032991 (macromolecular complex)
+T140	independent_continuant 2453 2465	DNA helicase
+#140	AnnotatorNotes T140	independent_continuant
+T141	GO_MF 2453 2465	DNA helicase
+#141	AnnotatorNotes T141	GO:0003678 (DNA helicase activity)
+T142	SO 2453 2456	DNA
+#142	AnnotatorNotes T142	SO:0000352 (DNA)
+T143	PR 2496 2500	Mcm4
+#143	AnnotatorNotes T143	PR:000010246 (DNA replication licensing factor MCM4)
+T144	PR 2502 2506	Mcm6
+#144	AnnotatorNotes T144	PR:000010248 (DNA replication licensing factor MCM6)
+T145	PR 2511 2515	Mcm7
+#145	AnnotatorNotes T145	PR:000010249 (DNA replication licensing factor MCM7)
+T146	CHEBI 2516 2524	proteins
+#146	AnnotatorNotes T146	CHEBI:36080 (proteins)
+T147	independent_continuant 2559 2567	helicase
+#147	AnnotatorNotes T147	independent_continuant
+T148	GO_MF 2559 2567	helicase
+#148	AnnotatorNotes T148	GO:0004386 (helicase activity)
+T149	PR 2586 2590	Mcm2
+#149	AnnotatorNotes T149	PR:000010242 (DNA replication licensing factor MCM2)
+T150	PR 2594 2598	Mcm3
+#150	AnnotatorNotes T150	PR:000010243 (DNA replication licensing factor MCM3)
+T151	independent_continuant 2613 2621	helicase
+#151	AnnotatorNotes T151	independent_continuant
+T152	GO_MF 2613 2621	helicase
+#152	AnnotatorNotes T152	GO:0004386 (helicase activity)
+T153	PR 2638 2642	Mcm4
+#153	AnnotatorNotes T153	PR:000010246 (DNA replication licensing factor MCM4)
+T154	GO_CC 2647 2654	complex
+#154	AnnotatorNotes T154	GO:0032991 (macromolecular complex)
+T155	GO_CC 2759 2768	Chromatin
+#155	AnnotatorNotes T155	GO:0000785 (chromatin)
+T156	SO 2800 2807	genetic
+#156	AnnotatorNotes T156	SO:0000704 (gene)
+T157	italic 2828 2852	Saccharomyces cerevisiae
+#157	AnnotatorNotes T157	italic (null)
+T158	taxonomic_rank 2828 2852	Saccharomyces cerevisiae
+#158	AnnotatorNotes T158	taxonomic_rank (null)
+T159	NCBITaxon 2828 2852	Saccharomyces cerevisiae
+#159	AnnotatorNotes T159	NCBITaxon:4932 (Saccharomyces cerevisiae)
+T160	GO_CC 2877 2880	Mcm
+#160	AnnotatorNotes T160	GO:0042555 (MCM complex)
+T161	GO_BP 2932 2958	DNA chain elongation stage
+#161	AnnotatorNotes T161	GO:0022616 (DNA strand elongation)
+T162	SO 2932 2941	DNA chain
+#162	AnnotatorNotes T162	SO:0000352 (DNA)
+T163	GO_BP 2964 2975	replicative
+#163	AnnotatorNotes T163	GO:0006260 (DNA replication)
+T164	GO_MF 2976 2984	helicase
+#164	AnnotatorNotes T164	GO:0004386 (helicase activity)
+T165	independent_continuant 2976 2984	helicase
+#165	AnnotatorNotes T165	independent_continuant
+T166	EntrezGene 3047 3087	Schizosaccharomyces pombe and mouse Mcm4
+#166	AnnotatorNotes T166	"Schizosaccharomyces pombe .. Mcm4" EG:2539164
+T167	italic 3047 3072	Schizosaccharomyces pombe
+#167	AnnotatorNotes T167	italic (null)
+T168	NCBITaxon 3047 3072	Schizosaccharomyces pombe
+#168	AnnotatorNotes T168	NCBITaxon:4896 (Schizosaccharomyces pombe)
+T169	taxonomic_rank 3047 3072	Schizosaccharomyces pombe
+#169	AnnotatorNotes T169	taxonomic_rank (null)
+T170	EntrezGene 3077 3087	mouse Mcm4
+#170	AnnotatorNotes T170	EG:17217
+T171	NCBITaxon 3077 3082	mouse
+#171	AnnotatorNotes T171	NCBITaxon:10088 (Mus)
+T172	PR 3083 3087	Mcm4
+#172	AnnotatorNotes T172	PR:000010246 (DNA replication licensing factor MCM4)
+T173	GO_CC 3092 3101	complexes
+#173	AnnotatorNotes T173	GO:0032991 (macromolecular complex)
+T174	GO_CC 3133 3139	forked
+#174	AnnotatorNotes T174	GO:0005657 (replication fork)
+T175	SO 3140 3143	DNA
+#175	AnnotatorNotes T175	SO:0000352 (DNA)
+T176	GO_BP 3166 3172	unwind
+#176	AnnotatorNotes T176	GO:0032508 (DNA duplex unwinding)
+T177	SO 3173 3179	duplex
+#177	AnnotatorNotes T177	SO:0000985 (double)
+T178	SO 3180 3183	DNA
+#178	AnnotatorNotes T178	SO:0000352 (DNA)
+T179	SO 3195 3197	bp
+#179	AnnotatorNotes T179	SO:0000028 (base_pair)
+T180	PR 3207 3211	Mcm4
+#180	AnnotatorNotes T180	PR:000010246 (DNA replication licensing factor MCM4)
+T181	GO_MF 3216 3221	binds
+#181	AnnotatorNotes T181	GO:0005488 (binding)
+T182	GO_CC 3225 3251	fork and bubble structures
+#182	AnnotatorNotes T182	"fork .. structures" GO:0005657 (replication fork)
+T184	CHEBI 3258 3261	ATP
+#184	AnnotatorNotes T184	CHEBI:15422 (ATP)
+T185	CHEBI 3258 3261	ATP
+#185	AnnotatorNotes T185	CHEBI:30616 (ATP(4-))
+T186	GO_BP 3284 3293	generates
+#186	AnnotatorNotes T186	GO:0022607 (cellular component assembly)
+T187	GO_CC 3313 3320	complex
+#187	AnnotatorNotes T187	GO:0032991 (macromolecular complex)
+T188	EntrezGene 3339 3348	T-antigen
+#188	AnnotatorNotes T188	EG:1489531
+T189	independent_continuant 3392 3400	helicase
+#189	AnnotatorNotes T189	independent_continuant
+T190	GO_MF 3392 3400	helicase
+#190	AnnotatorNotes T190	GO:0004386 (helicase activity)
+T191	CHEBI 3405 3408	ATP
+#191	AnnotatorNotes T191	CHEBI:15422 (ATP)
+T192	CHEBI 3405 3408	ATP
+#192	AnnotatorNotes T192	CHEBI:30616 (ATP(4-))
+T193	NCBITaxon 3434 3443	mammalian
+#193	AnnotatorNotes T193	NCBITaxon:40674 (Mammalia)
+T194	PR 3444 3448	Mcm4
+#194	AnnotatorNotes T194	PR:000010246 (DNA replication licensing factor MCM4)
+T195	SO 3483 3498	single-stranded
+#195	AnnotatorNotes T195	SO:0000984 (single)
+T196	SO 3490 3498	stranded
+#196	AnnotatorNotes T196	SO:0000001 (region)
+T197	SO 3499 3502	DNA
+#197	AnnotatorNotes T197	SO:0000352 (DNA)
+T198	CHEBI 3527 3534	thymine
+#198	AnnotatorNotes T198	CHEBI:17821 (thymine)
+T199	CHEBI 3535 3543	residues
+#199	AnnotatorNotes T199	CHEBI:33791 (canonical nucleoside residues)
+T200	SO 3535 3543	residues
+#200	AnnotatorNotes T200	SO:0001236 (base)
+T201	GO_CC 3576 3579	Mcm
+#201	AnnotatorNotes T201	GO:0042555 (MCM complex)
+T202	SO 3620 3639	replication origins
+#202	AnnotatorNotes T202	SO:0000296 (origin_of_replication)
+T203	GO_BP 3620 3631	replication
+#203	AnnotatorNotes T203	GO:0006260 (DNA replication)
+T204	NCBITaxon 3650 3660	eukaryotes
+#204	AnnotatorNotes T204	NCBITaxon:2759 (Eukaryota)
+T205	GO_CC 3730 3742	Mcm helicase
+#205	AnnotatorNotes T205	GO:0042555 (MCM complex)
+T206	independent_continuant 3734 3742	helicase
+#206	AnnotatorNotes T206	independent_continuant
+T207	GO_MF 3734 3742	helicase
+#207	AnnotatorNotes T207	GO:0004386 (helicase activity)
+T208	GO_CC 3794 3811	replication forks
+#208	AnnotatorNotes T208	GO:0005657 (replication fork)
+T209	GO_BP 3794 3805	replication
+#209	AnnotatorNotes T209	GO:0006260 (DNA replication)
+T210	italic 3812 3819	in vivo
+#210	AnnotatorNotes T210	italic (null)
+T211	independent_continuant 3860 3868	helicase
+#211	AnnotatorNotes T211	independent_continuant
+T212	GO_MF 3860 3868	helicase
+#212	AnnotatorNotes T212	GO:0004386 (helicase activity)
+T213	GO_MF 3880 3891	DNA binding
+#213	AnnotatorNotes T213	GO:0003677 (DNA binding)
+T214	SO 3880 3883	DNA
+#214	AnnotatorNotes T214	SO:0000352 (DNA)
+T215	EntrezGene 3895 3905	mouse Mcm4
+#215	AnnotatorNotes T215	EG:17217
+T216	NCBITaxon 3895 3900	mouse
+#216	AnnotatorNotes T216	NCBITaxon:10088 (Mus)
+T217	PR 3901 3905	Mcm4
+#217	AnnotatorNotes T217	PR:000010246 (DNA replication licensing factor MCM4)
+T218	GO_MF 3910 3918	helicase
+#218	AnnotatorNotes T218	GO:0004386 (helicase activity)
+T219	independent_continuant 3910 3918	helicase
+#219	AnnotatorNotes T219	independent_continuant
+T220	GO_CC 3933 3939	forked
+#220	AnnotatorNotes T220	GO:0005657 (replication fork)
+T221	SO 3961 3965	DNAs
+#221	AnnotatorNotes T221	SO:0000352 (DNA)
+T222	SO 3993 4001	sequence
+#222	AnnotatorNotes T222	SO:0000001 (region)
+T223	GO_CC 4022 4034	Mcm helicase
+#223	AnnotatorNotes T223	GO:0042555 (MCM complex)
+T224	GO_MF 4026 4034	helicase
+#224	AnnotatorNotes T224	GO:0004386 (helicase activity)
+T225	independent_continuant 4026 4034	helicase
+#225	AnnotatorNotes T225	independent_continuant
+T226	SO 4072 4075	DNA
+#226	AnnotatorNotes T226	SO:0000352 (DNA)
+T227	SO 4111 4120	sequences
+#227	AnnotatorNotes T227	SO:0000001 (region)
+T228	GO_CC 4163 4175	Mcm helicase
+#228	AnnotatorNotes T228	GO:0042555 (MCM complex)
+T229	GO_MF 4167 4175	helicase
+#229	AnnotatorNotes T229	GO:0004386 (helicase activity)
+T230	independent_continuant 4167 4175	helicase
+#230	AnnotatorNotes T230	independent_continuant
+T231	GO_BP 4187 4204	unwinding process
+#231	AnnotatorNotes T231	GO:0032508 (DNA duplex unwinding)
+T232	NCBITaxon 4232 4241	mammalian
+#232	AnnotatorNotes T232	NCBITaxon:40674 (Mammalia)
+T233	PR 4242 4246	Mcm4
+#233	AnnotatorNotes T233	PR:000010246 (DNA replication licensing factor MCM4)
+T234	GO_MF 4261 4266	binds
+#234	AnnotatorNotes T234	GO:0005488 (binding)
+T235	SO 4270 4285	single-stranded
+#235	AnnotatorNotes T235	SO:0000984 (single)
+T236	SO 4277 4285	stranded
+#236	AnnotatorNotes T236	SO:0000001 (region)
+T237	SO 4286 4296	DNA region
+#237	AnnotatorNotes T237	SO:0000352 (DNA)
+T238	GO_MF 4321 4329	helicase
+#238	AnnotatorNotes T238	GO:0004386 (helicase activity)
+T239	independent_continuant 4321 4329	helicase
+#239	AnnotatorNotes T239	independent_continuant
+T240	SO 4382 4397	single-stranded
+#240	AnnotatorNotes T240	SO:0000984 (single)
+T241	SO 4389 4397	stranded
+#241	AnnotatorNotes T241	SO:0000001 (region)
+T242	SO 4398 4405	segment
+#242	AnnotatorNotes T242	SO:0000001 (region)
+T243	EntrezGene 4421 4425	Mcm4
+#243	AnnotatorNotes T243	EG:17217
+T244	PR 4421 4425	Mcm4
+#244	AnnotatorNotes T244	PR:000010246 (DNA replication licensing factor MCM4)
+T245	GO_MF 4430 4438	helicase
+#245	AnnotatorNotes T245	GO:0004386 (helicase activity)
+T246	independent_continuant 4430 4438	helicase
+#246	AnnotatorNotes T246	independent_continuant
+T247	GO_BP 4469 4478	unwinding
+#247	AnnotatorNotes T247	GO:0032508 (DNA duplex unwinding)
+T248	SO 4491 4497	duplex
+#248	AnnotatorNotes T248	SO:0000985 (double)
+T249	SO 4498 4505	segment
+#249	AnnotatorNotes T249	SO:0000001 (region)
+T250	GO_BP 4578 4589	replication
+#250	AnnotatorNotes T250	GO:0006260 (DNA replication)
+T251	SO 4604 4610	genome
+#251	AnnotatorNotes T251	SO:0001026 (genome)
+T252	CHEBI 4636 4644	Reagents
+#252	AnnotatorNotes T252	CHEBI:33893 (reagent)
+T253	CHEBI 4668 4673	dNTPs
+#253	AnnotatorNotes T253	CHEBI:16516 (2'-deoxyribonucleoside triphosphates)
+T254	CHEBI 4668 4673	dNTPs
+#254	AnnotatorNotes T254	CHEBI:16381 (2'-deoxyribonucleoside 5'-triphosphates)
+T255	CHEBI 4674 4679	rNTPs
+#255	AnnotatorNotes T255	CHEBI:37076 (ribonucleoside 5'-triphosphates)
+T256	CHEBI 4674 4679	rNTPs
+#256	AnnotatorNotes T256	CHEBI:17972 (ribonucleoside triphosphates)
+T257	SO 4754 4769	single-stranded
+#257	AnnotatorNotes T257	SO:0000984 (single)
+T258	SO 4761 4769	stranded
+#258	AnnotatorNotes T258	SO:0000001 (region)
+T259	SO 4770 4778	circular
+#259	AnnotatorNotes T259	SO:0000988 (circular)
+T260	SO 4779 4782	DNA
+#260	AnnotatorNotes T260	SO:0000352 (DNA)
+T261	EntrezGene 4784 4808	T4 polynucleotide kinase
+#261	AnnotatorNotes T261	EG:1258796
+T262	NCBITaxon 4784 4786	T4
+#262	AnnotatorNotes T262	NCBITaxon:348604 (Enterobacteria phage T4 sensu lato)
+T263	GO_MF 4787 4808	polynucleotide kinase
+#263	AnnotatorNotes T263	GO:0051731 (polynucleotide kinase activity)
+T264	PR 4787 4808	polynucleotide kinase
+#264	AnnotatorNotes T264	PR:000012924 (bifunctional polynucleotide phosphatase/kinase)
+T265	independent_continuant 4787 4808	polynucleotide kinase
+#265	AnnotatorNotes T265	independent_continuant
+T266	CHEBI 4787 4801	polynucleotide
+#266	AnnotatorNotes T266	CHEBI:15986 (polynucleotides)
+T267	GO_MF 4810 4817	DNase I
+#267	AnnotatorNotes T267	GO:0004530 (deoxyribonuclease I activity)
+T268	PR 4810 4817	DNase I
+#268	AnnotatorNotes T268	PR:000006592 (deoxyribonuclease-1)
+T269	independent_continuant 4810 4817	DNase I
+#269	AnnotatorNotes T269	independent_continuant
+T270	SO 4833 4841	fragment
+#270	AnnotatorNotes T270	SO:0000731 (fragmentary)
+T271	GO_MF 4860 4868	Nuclease
+#271	AnnotatorNotes T271	GO:0004518 (nuclease activity)
+T272	independent_continuant 4860 4868	Nuclease
+#272	AnnotatorNotes T272	independent_continuant
+T273	GO_CC 4905 4907	Ab
+#273	AnnotatorNotes T273	GO:0019814 (immunoglobulin complex)
+T274	GO_CC 4909 4917	antibody
+#274	AnnotatorNotes T274	GO:0019814 (immunoglobulin complex)
+T275	CHEBI 4919 4926	agarose
+#275	AnnotatorNotes T275	CHEBI:2511 (agarose)
+T276	SO 4936 4943	peptide
+#276	AnnotatorNotes T276	SO:0001407 (peptidyl)
+T277	EntrezGene 4961 4975	SV40 T-antigen
+#277	AnnotatorNotes T277	EG:1489531
+T278	NCBITaxon 4961 4965	SV40
+#278	AnnotatorNotes T278	NCBITaxon:10633 (Simian virus 40)
+T279	NCBITaxon 4994 5005	baculovirus
+#279	AnnotatorNotes T279	NCBITaxon:10442 (Baculoviridae)
+T280	NCBITaxon 5015 5021	insect
+#280	AnnotatorNotes T280	NCBITaxon:6960 (Hexapoda)
+T281	CL 5022 5027	cells
+#281	AnnotatorNotes T281	CL:0000000 (cell)
+T282	GO_CC 5022 5027	cells
+#282	AnnotatorNotes T282	GO:0005623 (cell)
+T283	PR 5046 5059	PriA helicase
+#283	AnnotatorNotes T283	PR:000023591 (primosomal protein N')
+T284	GO_MF 5051 5059	helicase
+#284	AnnotatorNotes T284	GO:0004386 (helicase activity)
+T285	independent_continuant 5051 5059	helicase
+#285	AnnotatorNotes T285	independent_continuant
+T286	CHEBI 5060 5067	protein
+#286	AnnotatorNotes T286	CHEBI:36080 (proteins)
+T287	SO 5105 5121	Oligonucleotides
+#287	AnnotatorNotes T287	SO:0000696 (oligo)
+T288	GO_BP 5308 5318	Expression
+#288	AnnotatorNotes T288	GO:0010467 (gene expression)
+T289	EntrezGene 5339 5349	mouse Mcm4
+#289	AnnotatorNotes T289	EG:17217
+T290	NCBITaxon 5339 5344	mouse
+#290	AnnotatorNotes T290	NCBITaxon:10088 (Mus)
+T291	PR 5345 5349	Mcm4
+#291	AnnotatorNotes T291	PR:000010246 (DNA replication licensing factor MCM4)
+T292	GO_CC 5354 5361	complex
+#292	AnnotatorNotes T292	GO:0032991 (macromolecular complex)
+T293	GO_BP 5367 5378	recombinant
+#293	AnnotatorNotes T293	GO:0006310 (DNA recombination)
+T294	NCBITaxon 5379 5392	baculoviruses
+#294	AnnotatorNotes T294	NCBITaxon:10442 (Baculoviridae)
+T295	GO_BP 5393 5403	expressing
+#295	AnnotatorNotes T295	GO:0010467 (gene expression)
+T296	sub 5407 5408	6
+#296	AnnotatorNotes T296	sub (null)
+T297	EntrezGene 5409 5413	Mcm4
+#297	AnnotatorNotes T297	EG:17217
+T298	PR 5409 5413	Mcm4
+#298	AnnotatorNotes T298	PR:000010246 (DNA replication licensing factor MCM4)
+T299	EntrezGene 5414 5418	Mcm6
+#299	AnnotatorNotes T299	EG:17219
+T300	PR 5414 5418	Mcm6
+#300	AnnotatorNotes T300	PR:000010248 (DNA replication licensing factor MCM6)
+T301	EntrezGene 5422 5426	Mcm7
+#301	AnnotatorNotes T301	EG:17220
+T302	PR 5422 5426	Mcm7
+#302	AnnotatorNotes T302	PR:000010249 (DNA replication licensing factor MCM7)
+T303	CHEBI 5432 5440	proteins
+#303	AnnotatorNotes T303	CHEBI:36080 (proteins)
+T304	NCBITaxon 5491 5497	insect
+#304	AnnotatorNotes T304	NCBITaxon:6960 (Hexapoda)
+T305	CL 5498 5503	cells
+#305	AnnotatorNotes T305	CL:0000000 (cell)
+T306	GO_CC 5498 5503	cells
+#306	AnnotatorNotes T306	GO:0005623 (cell)
+T307	CL 5576 5580	CELL
+#307	AnnotatorNotes T307	CL:0000000 (cell)
+T308	GO_CC 5576 5580	CELL
+#308	AnnotatorNotes T308	GO:0005623 (cell)
+T309	GO_BP 5629 5639	expression
+#309	AnnotatorNotes T309	GO:0010467 (gene expression)
+T310	EntrezGene 5647 5651	Mcm4
+#310	AnnotatorNotes T310	EG:17217
+T311	PR 5647 5651	Mcm4
+#311	AnnotatorNotes T311	PR:000010246 (DNA replication licensing factor MCM4)
+T312	CHEBI 5656 5664	proteins
+#312	AnnotatorNotes T312	CHEBI:36080 (proteins)
+T313	CL 5676 5681	cells
+#313	AnnotatorNotes T313	CL:0000000 (cell)
+T314	GO_CC 5676 5681	cells
+#314	AnnotatorNotes T314	GO:0005623 (cell)
+T315	GO_BP 5703 5714	recombinant
+#315	AnnotatorNotes T315	GO:0006310 (DNA recombination)
+T316	NCBITaxon 5715 5728	baculoviruses
+#316	AnnotatorNotes T316	NCBITaxon:10442 (Baculoviridae)
+T317	GO_BP 5729 5739	expressing
+#317	AnnotatorNotes T317	GO:0010467 (gene expression)
+T318	sub 5747 5748	6
+#318	AnnotatorNotes T318	sub (null)
+T319	EntrezGene 5749 5753	Mcm4
+#319	AnnotatorNotes T319	EG:17217
+T320	PR 5749 5753	Mcm4
+#320	AnnotatorNotes T320	PR:000010246 (DNA replication licensing factor MCM4)
+T321	EntrezGene 5754 5758	Mcm6
+#321	AnnotatorNotes T321	EG:17219
+T322	PR 5754 5758	Mcm6
+#322	AnnotatorNotes T322	PR:000010248 (DNA replication licensing factor MCM6)
+T323	CHEBI 5759 5767	proteins
+#323	AnnotatorNotes T323	CHEBI:36080 (proteins)
+T324	GO_BP 5778 5788	expressing
+#324	AnnotatorNotes T324	GO:0010467 (gene expression)
+T325	EntrezGene 5793 5797	Mcm7
+#325	AnnotatorNotes T325	EG:17220
+T326	PR 5793 5797	Mcm7
+#326	AnnotatorNotes T326	PR:000010249 (DNA replication licensing factor MCM7)
+T327	GO_BP 5851 5862	recombinant
+#327	AnnotatorNotes T327	GO:0006310 (DNA recombination)
+T328	EntrezGene 5863 5867	Mcm4
+#328	AnnotatorNotes T328	EG:17217
+T329	PR 5863 5867	Mcm4
+#329	AnnotatorNotes T329	PR:000010246 (DNA replication licensing factor MCM4)
+T330	GO_CC 5872 5881	complexes
+#330	AnnotatorNotes T330	GO:0032991 (macromolecular complex)
+T331	SO 5927 5930	DNA
+#331	AnnotatorNotes T331	SO:0000352 (DNA)
+T332	SO 5947 5956	sequences
+#332	AnnotatorNotes T332	SO:0000001 (region)
+T333	SO 5969 5985	oligonucleotides
+#333	AnnotatorNotes T333	SO:0000696 (oligo)
+T334	GO_BP 5995 6008	constructions
+#334	AnnotatorNotes T334	GO:0009058 (biosynthetic process)
+T335	SO 6012 6015	DNA
+#335	AnnotatorNotes T335	SO:0000352 (DNA)
+T336	GO_BP 6098 6109	constructed
+#336	AnnotatorNotes T336	GO:0009058 (biosynthetic process)
+T337	GO_MF 6113 6122	annealing
+#337	AnnotatorNotes T337	GO:0033592 (RNA strand annealing activity)
+T338	GO_MF 6113 6122	annealing
+#338	AnnotatorNotes T338	GO:0000739 (DNA strand annealing activity)
+T339	SO 6131 6147	oligonucleotides
+#339	AnnotatorNotes T339	SO:0000696 (oligo)
+T340	SO 6161 6176	single-stranded
+#340	AnnotatorNotes T340	SO:0000984 (single)
+T341	SO 6168 6176	stranded
+#341	AnnotatorNotes T341	SO:0000001 (region)
+T342	SO 6177 6185	circular
+#342	AnnotatorNotes T342	SO:0000988 (circular)
+T343	SO 6186 6189	DNA
+#343	AnnotatorNotes T343	SO:0000352 (DNA)
+T344	SO 6321 6324	DNA
+#344	AnnotatorNotes T344	SO:0000352 (DNA)
+T345	GO_BP 6348 6357	assembled
+#345	AnnotatorNotes T345	GO:0009058 (biosynthetic process)
+T346	SO 6391 6407	oligonucleotides
+#346	AnnotatorNotes T346	SO:0000696 (oligo)
+T347	SO 6428 6444	strand sequences
+#347	AnnotatorNotes T347	SO:0000001 (region)
+T348	GO_CC 6467 6471	fork
+#348	AnnotatorNotes T348	GO:0005657 (replication fork)
+T349	GO_BP 6488 6496	prepared
+#349	AnnotatorNotes T349	GO:0009058 (biosynthetic process)
+T350	GO_MF 6500 6509	annealing
+#350	AnnotatorNotes T350	GO:0033592 (RNA strand annealing activity)
+T351	GO_MF 6500 6509	annealing
+#351	AnnotatorNotes T351	GO:0000739 (DNA strand annealing activity)
+T352	SO 6514 6530	oligonucleotides
+#352	AnnotatorNotes T352	SO:0000696 (oligo)
+T353	sub 6534 6536	30
+#353	AnnotatorNotes T353	sub (null)
+T354	sub 6543 6545	60
+#354	AnnotatorNotes T354	sub (null)
+T355	GO_BP 6558 6567	construct
+#355	AnnotatorNotes T355	GO:0009058 (biosynthetic process)
+T356	GO_BP 6572 6580	arrested
+#356	AnnotatorNotes T356	GO:0043111 (replication fork blocking)
+T357	GO_CC 6581 6585	fork
+#357	AnnotatorNotes T357	GO:0005657 (replication fork)
+T358	GO_BP 6590 6609	3′- or 5′-extension
+#358	AnnotatorNotes T358	"3′- .. extension" GO:0006272 (leading strand elongation)
+T359	GO_BP 6597 6609	5′-extension
+#359	AnnotatorNotes T359	GO:0006273 (lagging strand elongation)
+T360	SO 6646 6662	oligonucleotides
+#360	AnnotatorNotes T360	SO:0000696 (oligo)
+T361	GO_MF 6685 6693	annealed
+#361	AnnotatorNotes T361	GO:0033592 (RNA strand annealing activity)
+T362	GO_MF 6685 6693	annealed
+#362	AnnotatorNotes T362	GO:0000739 (DNA strand annealing activity)
+T363	EntrezGene 6702 6710	lamin B2
+#363	AnnotatorNotes T363	EG:84823
+T364	PR 6702 6710	lamin B2
+#364	AnnotatorNotes T364	PR:000009861 (lamin-B2)
+T365	CHEBI 6726 6727	T
+#365	AnnotatorNotes T365	CHEBI:30757 (thymin-1-yl group)
+T366	SO 6733 6739	strand
+#366	AnnotatorNotes T366	SO:0000001 (region)
+T367	EntrezGene 6747 6755	lamin B2
+#367	AnnotatorNotes T367	EG:84823
+T368	PR 6747 6755	lamin B2
+#368	AnnotatorNotes T368	PR:000009861 (lamin-B2)
+T369	SO 6756 6762	origin
+#369	AnnotatorNotes T369	SO:0000296 (origin_of_replication)
+T370	SO 6763 6769	region
+#370	AnnotatorNotes T370	SO:0000001 (region)
+T371	GO_BP 6774 6785	constructed
+#371	AnnotatorNotes T371	GO:0009058 (biosynthetic process)
+T372	EntrezGene 6838 6843	c-myc
+#372	AnnotatorNotes T372	EG:4609
+T373	PR 6838 6843	c-myc
+#373	AnnotatorNotes T373	PR:000000084 (c-myc protein)
+T374	italic 6840 6843	myc
+#374	AnnotatorNotes T374	italic (null)
+T375	EntrezGene 6851 6856	c-myc
+#375	AnnotatorNotes T375	EG:4609
+T376	PR 6851 6856	c-myc
+#376	AnnotatorNotes T376	PR:000000084 (c-myc protein)
+T377	italic 6853 6856	myc
+#377	AnnotatorNotes T377	italic (null)
+T378	SO 6873 6882	sequences
+#378	AnnotatorNotes T378	SO:0000001 (region)
+T379	SO 6922 6933	nucleotides
+#379	AnnotatorNotes T379	SO:0001236 (base)
+T380	SO 6985 6991	strand
+#380	AnnotatorNotes T380	SO:0000001 (region)
+T381	GO_BP 7023 7029	melted
+#381	AnnotatorNotes T381	GO:0032508 (DNA duplex unwinding)
+T382	SO 7030 7036	region
+#382	AnnotatorNotes T382	SO:0000001 (region)
+T383	SO 7066 7081	oligonucleotide
+#383	AnnotatorNotes T383	SO:0000696 (oligo)
+T384	GO_MF 7095 7103	annealed
+#384	AnnotatorNotes T384	GO:0033592 (RNA strand annealing activity)
+T385	GO_MF 7095 7103	annealed
+#385	AnnotatorNotes T385	GO:0000739 (DNA strand annealing activity)
+T386	SO 7123 7138	oligonucleotide
+#386	AnnotatorNotes T386	SO:0000696 (oligo)
+T387	CHEBI 7195 7199	Tris
+#387	AnnotatorNotes T387	CHEBI:9754 (tris)
+T388	CHEBI 7200 7203	HCl
+#388	AnnotatorNotes T388	CHEBI:17883 (hydrogen chloride)
+T389	CHEBI 7200 7203	HCl
+#389	AnnotatorNotes T389	CHEBI:36807 (hydrochlorides)
+T390	CHEBI 7220 7225	MgCl2
+#390	AnnotatorNotes T390	CHEBI:6636 (magnesium dichloride)
+T391	sub 7224 7225	2
+#391	AnnotatorNotes T391	sub (null)
+T392	CHEBI 7236 7240	NaCl
+#392	AnnotatorNotes T392	CHEBI:26710 (sodium chloride)
+T393	GO_BP 7341 7350	assembled
+#393	AnnotatorNotes T393	GO:0009058 (biosynthetic process)
+T394	SO 7474 7489	single-stranded
+#394	AnnotatorNotes T394	SO:0000984 (single)
+T395	SO 7481 7489	stranded
+#395	AnnotatorNotes T395	SO:0000001 (region)
+T396	SO 7490 7498	circular
+#396	AnnotatorNotes T396	SO:0000988 (circular)
+T397	SO 7499 7502	DNA
+#397	AnnotatorNotes T397	SO:0000352 (DNA)
+T398	SO 7526 7532	duplex
+#398	AnnotatorNotes T398	SO:0000985 (double)
+T399	SO 7533 7540	regions
+#399	AnnotatorNotes T399	SO:0000001 (region)
+T400	GO_BP 7546 7554	prepared
+#400	AnnotatorNotes T400	GO:0009058 (biosynthetic process)
+T401	GO_BP 7558 7567	extending
+#401	AnnotatorNotes T401	GO:0022616 (DNA strand elongation)
+T402	SO 7568 7578	DNA chains
+#402	AnnotatorNotes T402	SO:0000352 (DNA)
+T403	sub 7604 7606	40
+#403	AnnotatorNotes T403	sub (null)
+T404	SO 7620 7626	region
+#404	AnnotatorNotes T404	SO:0000001 (region)
+T405	GO_MF 7627 7638	hybridizing
+#405	AnnotatorNotes T405	GO:0033592 (RNA strand annealing activity)
+T406	GO_MF 7627 7638	hybridizing
+#406	AnnotatorNotes T406	GO:0000739 (DNA strand annealing activity)
+T407	SO 7642 7651	positions
+#407	AnnotatorNotes T407	SO:0001236 (base)
+T408	SO 7673 7679	vector
+#408	AnnotatorNotes T408	SO:0000440 (vector_replicon)
+T409	GO_MF 7681 7689	annealed
+#409	AnnotatorNotes T409	GO:0033592 (RNA strand annealing activity)
+T410	GO_MF 7681 7689	annealed
+#410	AnnotatorNotes T410	GO:0000739 (DNA strand annealing activity)
+T411	SO 7697 7712	single-stranded
+#411	AnnotatorNotes T411	SO:0000984 (single)
+T412	SO 7704 7712	stranded
+#412	AnnotatorNotes T412	SO:0000001 (region)
+T413	SO 7713 7721	circular
+#413	AnnotatorNotes T413	SO:0000988 (circular)
+T414	SO 7722 7725	DNA
+#414	AnnotatorNotes T414	SO:0000352 (DNA)
+T415	SO 7727 7737	DNA chains
+#415	AnnotatorNotes T415	SO:0000352 (DNA)
+T416	GO_BP 7743 7752	elongated
+#416	AnnotatorNotes T416	GO:0022616 (DNA strand elongation)
+T417	CHEBI 7790 7793	32P
+#417	AnnotatorNotes T417	CHEBI:37972 (phosphorus-32)
+T418	sup 7790 7792	32
+#418	AnnotatorNotes T418	sup (null)
+T419	CHEBI 7794 7798	dGTP
+#419	AnnotatorNotes T419	CHEBI:16497 (dGTP)
+T420	GO_BP 7812 7821	extension
+#420	AnnotatorNotes T420	GO:0022616 (DNA strand elongation)
+T421	CHEBI 7859 7864	dNTPs
+#421	AnnotatorNotes T421	CHEBI:16381 (2'-deoxyribonucleoside 5'-triphosphates)
+T422	CHEBI 7859 7864	dNTPs
+#422	AnnotatorNotes T422	CHEBI:16516 (2'-deoxyribonucleoside triphosphates)
+T423	SO 7909 7915	duplex
+#423	AnnotatorNotes T423	SO:0000985 (double)
+T424	SO 7916 7923	regions
+#424	AnnotatorNotes T424	SO:0000001 (region)
+T425	EntrezGene 8020 8024	Mcm4
+#425	AnnotatorNotes T425	EG:17217
+T426	PR 8020 8024	Mcm4
+#426	AnnotatorNotes T426	PR:000010246 (DNA replication licensing factor MCM4)
+T427	GO_CC 8029 8036	complex
+#427	AnnotatorNotes T427	GO:0032991 (macromolecular complex)
+T428	CHEBI 8139 8143	EDTA
+#428	AnnotatorNotes T428	CHEBI:30378 (ethylenediaminetetraacetate)
+T429	CHEBI 8139 8143	EDTA
+#429	AnnotatorNotes T429	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T430	CHEBI 8153 8156	SDS
+#430	AnnotatorNotes T430	CHEBI:8984 (sodium dodecyl sulfate)
+T431	GO_MF 8173 8183	proteinase
+#431	AnnotatorNotes T431	GO:0008233 (peptidase activity)
+T432	independent_continuant 8173 8183	proteinase
+#432	AnnotatorNotes T432	independent_continuant
+T433	SO 8315 8330	single-stranded
+#433	AnnotatorNotes T433	SO:0000984 (single)
+T434	SO 8322 8330	stranded
+#434	AnnotatorNotes T434	SO:0000001 (region)
+T435	SO 8331 8339	circular
+#435	AnnotatorNotes T435	SO:0000988 (circular)
+T436	SO 8340 8344	DNAs
+#436	AnnotatorNotes T436	SO:0000352 (DNA)
+T437	GO_BP 8398 8409	constructed
+#437	AnnotatorNotes T437	GO:0009058 (biosynthetic process)
+T438	SO 8413 8422	inserting
+#438	AnnotatorNotes T438	SO:0000046 (insert)
+T439	CHEBI 8425 8426	G
+#439	AnnotatorNotes T439	CHEBI:30755 (guanine group)
+T440	SO 8432 8447	repeat sequence
+#440	AnnotatorNotes T440	SO:0000726 (repeat_unit)
+T441	SO 8432 8447	repeat sequence
+#441	AnnotatorNotes T441	SO:0000657 (repeat_region)
+T442	sub 8461 8462	6
+#442	AnnotatorNotes T442	sub (null)
+T443	GO_BP 8464 8472	prepared
+#443	AnnotatorNotes T443	GO:0009058 (biosynthetic process)
+T444	GO_MF 8476 8485	annealing
+#444	AnnotatorNotes T444	GO:0033592 (RNA strand annealing activity)
+T445	GO_MF 8476 8485	annealing
+#445	AnnotatorNotes T445	GO:0000739 (DNA strand annealing activity)
+T446	SO 8493 8509	oligonucleotides
+#446	AnnotatorNotes T446	SO:0000696 (oligo)
+T447	sub 8533 8534	6
+#447	AnnotatorNotes T447	sub (null)
+T448	sub 8560 8561	6
+#448	AnnotatorNotes T448	sub (null)
+T449	SO 8579 8583	site
+#449	AnnotatorNotes T449	SO:0000001 (region)
+T450	SO 8603 8612	sequences
+#450	AnnotatorNotes T450	SO:0000001 (region)
+T451	SO 8620 8626	insert
+#451	AnnotatorNotes T451	SO:0000667 (insertion)
+T452	GO_MF 8644 8656	DNA helicase
+#452	AnnotatorNotes T452	GO:0003678 (DNA helicase activity)
+T453	independent_continuant 8644 8656	DNA helicase
+#453	AnnotatorNotes T453	independent_continuant
+T454	SO 8644 8647	DNA
+#454	AnnotatorNotes T454	SO:0000352 (DNA)
+T455	EntrezGene 8700 8704	Mcm4
+#455	AnnotatorNotes T455	EG:17217
+T456	PR 8700 8704	Mcm4
+#456	AnnotatorNotes T456	PR:000010246 (DNA replication licensing factor MCM4)
+T457	CHEBI 8709 8717	proteins
+#457	AnnotatorNotes T457	CHEBI:36080 (proteins)
+T458	CHEBI 8798 8803	HEPES
+#458	AnnotatorNotes T458	CHEBI:46756 (HEPES)
+T459	CHEBI 8804 8808	NaOH
+#459	AnnotatorNotes T459	CHEBI:32145 (sodium hydroxide)
+T460	CHEBI 8825 8839	sodium acetate
+#460	AnnotatorNotes T460	CHEBI:32954 (sodium acetate)
+T461	CHEBI 8825 8831	sodium
+#461	AnnotatorNotes T461	CHEBI:26708 (sodium)
+T462	CHEBI 8832 8839	acetate
+#462	AnnotatorNotes T462	CHEBI:30089 (acetate)
+T463	CHEBI 8847 8849	Mg
+#463	AnnotatorNotes T463	CHEBI:25107 (magnesium)
+T464	CHEBI 8850 8856	CH3COO
+#464	AnnotatorNotes T464	CHEBI:30089 (acetate)
+T465	sub 8852 8853	3
+#465	AnnotatorNotes T465	sub (null)
+T466	sub 8857 8858	2
+#466	AnnotatorNotes T466	sub (null)
+T467	CHEBI 8865 8868	DTT
+#467	AnnotatorNotes T467	CHEBI:18320 (1,4-dithiothreitol)
+T468	EntrezGene 8881 8884	BSA
+#468	AnnotatorNotes T468	EG:280717
+T469	CHEBI 8893 8900	ATP-γ-S
+#469	AnnotatorNotes T469	CHEBI:27575 (adenosine 5'-[gamma-thio]triphosphate)
+T470	CHEBI 8893 8896	ATP
+#470	AnnotatorNotes T470	CHEBI:15422 (ATP)
+T471	CHEBI 8893 8896	ATP
+#471	AnnotatorNotes T471	CHEBI:30616 (ATP(4-))
+T472	CHEBI 8899 8900	S
+#472	AnnotatorNotes T472	CHEBI:26833 (sulfur)
+T473	CHEBI 8979 8987	glycerol
+#473	AnnotatorNotes T473	CHEBI:17754 (glycerol)
+T474	CHEBI 9073 9082	magnesium
+#474	AnnotatorNotes T474	CHEBI:25107 (magnesium)
+T475	CHEBI 9083 9090	acetate
+#475	AnnotatorNotes T475	CHEBI:30089 (acetate)
+T476	CHEBI 9098 9106	glycerol
+#476	AnnotatorNotes T476	CHEBI:17754 (glycerol)
+T477	GO_MF 9179 9191	DNA helicase
+#477	AnnotatorNotes T477	GO:0003678 (DNA helicase activity)
+T478	independent_continuant 9179 9191	DNA helicase
+#478	AnnotatorNotes T478	independent_continuant
+T479	SO 9179 9182	DNA
+#479	AnnotatorNotes T479	SO:0000352 (DNA)
+T480	CHEBI 9315 9318	ATP
+#480	AnnotatorNotes T480	CHEBI:15422 (ATP)
+T481	CHEBI 9315 9318	ATP
+#481	AnnotatorNotes T481	CHEBI:30616 (ATP(4-))
+T482	CHEBI 9438 9442	EDTA
+#482	AnnotatorNotes T482	CHEBI:30378 (ethylenediaminetetraacetate)
+T483	CHEBI 9438 9442	EDTA
+#483	AnnotatorNotes T483	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T484	CHEBI 9452 9455	SDS
+#484	AnnotatorNotes T484	CHEBI:8984 (sodium dodecyl sulfate)
+T485	GO_MF 9472 9482	proteinase
+#485	AnnotatorNotes T485	GO:0008233 (peptidase activity)
+T486	independent_continuant 9472 9482	proteinase
+#486	AnnotatorNotes T486	independent_continuant
+T487	GO_MF 9622 9630	Nuclease
+#487	AnnotatorNotes T487	GO:0004518 (nuclease activity)
+T488	independent_continuant 9622 9630	Nuclease
+#488	AnnotatorNotes T488	independent_continuant
+T489	CHEBI 9696 9701	HEPES
+#489	AnnotatorNotes T489	CHEBI:46756 (HEPES)
+T490	CHEBI 9702 9706	NaOH
+#490	AnnotatorNotes T490	CHEBI:32145 (sodium hydroxide)
+T491	CHEBI 9723 9737	sodium acetate
+#491	AnnotatorNotes T491	CHEBI:32954 (sodium acetate)
+T492	CHEBI 9723 9729	sodium
+#492	AnnotatorNotes T492	CHEBI:26708 (sodium)
+T493	CHEBI 9730 9737	acetate
+#493	AnnotatorNotes T493	CHEBI:30089 (acetate)
+T494	CHEBI 9745 9747	Mg
+#494	AnnotatorNotes T494	CHEBI:25107 (magnesium)
+T495	CHEBI 9748 9754	CH3COO
+#495	AnnotatorNotes T495	CHEBI:30089 (acetate)
+T496	sub 9750 9751	3
+#496	AnnotatorNotes T496	sub (null)
+T497	sub 9755 9756	2
+#497	AnnotatorNotes T497	sub (null)
+T498	CHEBI 9763 9766	DTT
+#498	AnnotatorNotes T498	CHEBI:18320 (1,4-dithiothreitol)
+T499	EntrezGene 9779 9782	BSA
+#499	AnnotatorNotes T499	EG:280717
+T500	CHEBI 9791 9798	ATP-γ-S
+#500	AnnotatorNotes T500	CHEBI:27575 (adenosine 5'-[gamma-thio]triphosphate)
+T501	CHEBI 9791 9794	ATP
+#501	AnnotatorNotes T501	CHEBI:15422 (ATP)
+T502	CHEBI 9791 9794	ATP
+#502	AnnotatorNotes T502	CHEBI:30616 (ATP(4-))
+T503	CHEBI 9797 9798	S
+#503	AnnotatorNotes T503	CHEBI:26833 (sulfur)
+T504	CHEBI 9807 9812	CaCl2
+#504	AnnotatorNotes T504	CHEBI:3312 (calcium dichloride)
+T505	sub 9811 9812	2
+#505	AnnotatorNotes T505	sub (null)
+T506	CHEBI 9825 9828	32P
+#506	AnnotatorNotes T506	CHEBI:37972 (phosphorus-32)
+T507	sup 9825 9827	32
+#507	AnnotatorNotes T507	sup (null)
+T508	EntrezGene 9883 9887	Mcm4
+#508	AnnotatorNotes T508	EG:17217
+T509	PR 9883 9887	Mcm4
+#509	AnnotatorNotes T509	PR:000010246 (DNA replication licensing factor MCM4)
+T510	CHEBI 9892 9900	proteins
+#510	AnnotatorNotes T510	CHEBI:36080 (proteins)
+T511	GO_MF 9963 9970	DNase I
+#511	AnnotatorNotes T511	GO:0004530 (deoxyribonuclease I activity)
+T512	PR 9963 9970	DNase I
+#512	AnnotatorNotes T512	PR:000006592 (deoxyribonuclease-1)
+T513	independent_continuant 9963 9970	DNase I
+#513	AnnotatorNotes T513	independent_continuant
+T514	GO_MF 10072 10079	DNase I
+#514	AnnotatorNotes T514	GO:0004530 (deoxyribonuclease I activity)
+T515	PR 10072 10079	DNase I
+#515	AnnotatorNotes T515	PR:000006592 (deoxyribonuclease-1)
+T516	independent_continuant 10072 10079	DNase I
+#516	AnnotatorNotes T516	independent_continuant
+T517	CHEBI 10146 10150	EDTA
+#517	AnnotatorNotes T517	CHEBI:30378 (ethylenediaminetetraacetate)
+T518	CHEBI 10146 10150	EDTA
+#518	AnnotatorNotes T518	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T519	CHEBI 10157 10172	sodium chloride
+#519	AnnotatorNotes T519	CHEBI:26710 (sodium chloride)
+T520	CHEBI 10157 10163	sodium
+#520	AnnotatorNotes T520	CHEBI:26708 (sodium)
+T521	CHEBI 10164 10172	chloride
+#521	AnnotatorNotes T521	CHEBI:17996 (chloride)
+T522	CHEBI 10177 10180	SDS
+#522	AnnotatorNotes T522	CHEBI:8984 (sodium dodecyl sulfate)
+T523	NCBITaxon 10196 10201	yeast
+#523	AnnotatorNotes T523	NCBITaxon:4892 (Saccharomycetales)
+T524	SO 10202 10205	RNA
+#524	AnnotatorNotes T524	SO:0000356 (RNA)
+T525	GO_MF 10212 10220	nuclease
+#525	AnnotatorNotes T525	GO:0004518 (nuclease activity)
+T526	independent_continuant 10212 10220	nuclease
+#526	AnnotatorNotes T526	independent_continuant
+T527	GO_MF 10244 10261	binding reactions
+#527	AnnotatorNotes T527	GO:0005488 (binding)
+T528	CHEBI 10317 10322	CaCl2
+#528	AnnotatorNotes T528	CHEBI:3312 (calcium dichloride)
+T529	sub 10321 10322	2
+#529	AnnotatorNotes T529	sub (null)
+T530	GO_MF 10339 10347	nuclease
+#530	AnnotatorNotes T530	GO:0004518 (nuclease activity)
+T531	independent_continuant 10339 10347	nuclease
+#531	AnnotatorNotes T531	independent_continuant
+T532	CHEBI 10472 10476	EDTA
+#532	AnnotatorNotes T532	CHEBI:30378 (ethylenediaminetetraacetate)
+T533	CHEBI 10472 10476	EDTA
+#533	AnnotatorNotes T533	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T534	CHEBI 10487 10491	NaOH
+#534	AnnotatorNotes T534	CHEBI:32145 (sodium hydroxide)
+T535	CHEBI 10591 10605	sodium acetate
+#535	AnnotatorNotes T535	CHEBI:32954 (sodium acetate)
+T536	CHEBI 10591 10597	sodium
+#536	AnnotatorNotes T536	CHEBI:26708 (sodium)
+T537	CHEBI 10598 10605	acetate
+#537	AnnotatorNotes T537	CHEBI:30089 (acetate)
+T538	CHEBI 10616 10624	Proteins
+#538	AnnotatorNotes T538	CHEBI:36080 (proteins)
+T539	CHEBI 10641 10647	phenol
+#539	AnnotatorNotes T539	CHEBI:15882 (phenol)
+T540	CHEBI 10648 10658	chloroform
+#540	AnnotatorNotes T540	CHEBI:35255 (chloroform)
+T541	SO 10675 10679	DNAs
+#541	AnnotatorNotes T541	SO:0000352 (DNA)
+T542	CHEBI 10698 10705	ethanol
+#542	AnnotatorNotes T542	CHEBI:16236 (ethanol)
+T543	CHEBI 10746 10753	ethanol
+#543	AnnotatorNotes T543	CHEBI:16236 (ethanol)
+T544	GO_BP 10759 10767	digested
+#544	AnnotatorNotes T544	GO:0009056 (catabolic process)
+T545	SO 10768 10771	DNA
+#545	AnnotatorNotes T545	SO:0000352 (DNA)
+T546	CHEBI 10870 10874	urea
+#546	AnnotatorNotes T546	CHEBI:16199 (urea)
+T547	EntrezGene 10915 10919	Mcm4
+#547	AnnotatorNotes T547	EG:17217
+T548	PR 10915 10919	Mcm4
+#548	AnnotatorNotes T548	PR:000010246 (DNA replication licensing factor MCM4)
+T549	GO_CC 10924 10931	complex
+#549	AnnotatorNotes T549	GO:0032991 (macromolecular complex)
+T550	SO 10961 10976	single-stranded
+#550	AnnotatorNotes T550	SO:0000984 (single)
+T551	SO 10968 10976	stranded
+#551	AnnotatorNotes T551	SO:0000001 (region)
+T552	SO 10977 10988	DNA segment
+#552	AnnotatorNotes T552	SO:0000352 (DNA)
+T553	PR 10990 10994	Mcm4
+#553	AnnotatorNotes T553	PR:000010246 (DNA replication licensing factor MCM4)
+T554	GO_MF 10999 11004	binds
+#554	AnnotatorNotes T554	GO:0005488 (binding)
+T555	SO 11017 11020	DNA
+#555	AnnotatorNotes T555	SO:0000352 (DNA)
+T556	GO_BP 11036 11043	unwinds
+#556	AnnotatorNotes T556	GO:0032508 (DNA duplex unwinding)
+T557	SO 11048 11054	duplex
+#557	AnnotatorNotes T557	SO:0000985 (double)
+T558	SO 11055 11063	segments
+#558	AnnotatorNotes T558	SO:0000001 (region)
+T559	SO 11081 11096	single-stranded
+#559	AnnotatorNotes T559	SO:0000984 (single)
+T560	SO 11088 11096	stranded
+#560	AnnotatorNotes T560	SO:0000001 (region)
+T561	SO 11097 11104	segment
+#561	AnnotatorNotes T561	SO:0000001 (region)
+T562	CHEBI 11114 11121	thymine
+#562	AnnotatorNotes T562	CHEBI:17821 (thymine)
+T563	SO 11122 11131	stretches
+#563	AnnotatorNotes T563	SO:0000001 (region)
+T564	GO_MF 11170 11204	binding of Mcm4/6/7 on bubble DNAs
+#564	AnnotatorNotes T564	"binding .. on bubble DNAs" GO:0000405 (bubble DNA binding)
+T565	EntrezGene 11181 11185	Mcm4
+#565	AnnotatorNotes T565	EG:17217
+T566	PR 11181 11185	Mcm4
+#566	AnnotatorNotes T566	PR:000010246 (DNA replication licensing factor MCM4)
+T567	SO 11200 11204	DNAs
+#567	AnnotatorNotes T567	SO:0000352 (DNA)
+T568	GO_MF 11219 11227	nuclease
+#568	AnnotatorNotes T568	GO:0004518 (nuclease activity)
+T569	independent_continuant 11219 11227	nuclease
+#569	AnnotatorNotes T569	independent_continuant
+T570	SO 11277 11281	DNAs
+#570	AnnotatorNotes T570	SO:0000352 (DNA)
+T571	EntrezGene 11286 11290	Mcm4
+#571	AnnotatorNotes T571	EG:17217
+T572	PR 11286 11290	Mcm4
+#572	AnnotatorNotes T572	PR:000010246 (DNA replication licensing factor MCM4)
+T573	CHEBI 11314 11321	ATP-γ-S
+#573	AnnotatorNotes T573	CHEBI:27575 (adenosine 5'-[gamma-thio]triphosphate)
+T574	CHEBI 11314 11317	ATP
+#574	AnnotatorNotes T574	CHEBI:15422 (ATP)
+T575	CHEBI 11314 11317	ATP
+#575	AnnotatorNotes T575	CHEBI:30616 (ATP(4-))
+T576	CHEBI 11320 11321	S
+#576	AnnotatorNotes T576	CHEBI:26833 (sulfur)
+T577	GO_MF 11336 11360	binding to substrate DNA
+#577	AnnotatorNotes T577	"binding to .. DNA" GO:0003677 (DNA binding)
+T578	SO 11357 11360	DNA
+#578	AnnotatorNotes T578	SO:0000352 (DNA)
+T579	GO_MF 11387 11395	helicase
+#579	AnnotatorNotes T579	GO:0004386 (helicase activity)
+T580	independent_continuant 11387 11395	helicase
+#580	AnnotatorNotes T580	independent_continuant
+T581	GO_MF 11428 11435	DNase I
+#581	AnnotatorNotes T581	GO:0004530 (deoxyribonuclease I activity)
+T582	PR 11428 11435	DNase I
+#582	AnnotatorNotes T582	PR:000006592 (deoxyribonuclease-1)
+T583	independent_continuant 11428 11435	DNase I
+#583	AnnotatorNotes T583	independent_continuant
+T584	SO 11478 11480	bp
+#584	AnnotatorNotes T584	SO:0000028 (base_pair)
+T585	SO 11481 11487	duplex
+#585	AnnotatorNotes T585	SO:0000985 (double)
+T586	SO 11488 11495	regions
+#586	AnnotatorNotes T586	SO:0000001 (region)
+T587	SO 11582 11597	single-stranded
+#587	AnnotatorNotes T587	SO:0000984 (single)
+T588	SO 11589 11597	stranded
+#588	AnnotatorNotes T588	SO:0000001 (region)
+T589	SO 11598 11604	region
+#589	AnnotatorNotes T589	SO:0000001 (region)
+T590	GO_MF 11636 11643	DNase I
+#590	AnnotatorNotes T590	GO:0004530 (deoxyribonuclease I activity)
+T591	PR 11636 11643	DNase I
+#591	AnnotatorNotes T591	PR:000006592 (deoxyribonuclease-1)
+T592	independent_continuant 11636 11643	DNase I
+#592	AnnotatorNotes T592	independent_continuant
+T593	SO 11647 11662	double-stranded
+#593	AnnotatorNotes T593	SO:0000985 (double)
+T594	SO 11654 11662	stranded
+#594	AnnotatorNotes T594	SO:0000001 (region)
+T595	SO 11663 11666	DNA
+#595	AnnotatorNotes T595	SO:0000352 (DNA)
+T596	CHEBI 11683 11684	T
+#596	AnnotatorNotes T596	CHEBI:30757 (thymin-1-yl group)
+T597	SO 11746 11761	single-stranded
+#597	AnnotatorNotes T597	SO:0000984 (single)
+T598	SO 11753 11761	stranded
+#598	AnnotatorNotes T598	SO:0000001 (region)
+T599	SO 11762 11769	regions
+#599	AnnotatorNotes T599	SO:0000001 (region)
+T600	SO 11793 11800	strands
+#600	AnnotatorNotes T600	SO:0000001 (region)
+T601	EntrezGene 11834 11838	Mcm4
+#601	AnnotatorNotes T601	EG:17217
+T602	PR 11834 11838	Mcm4
+#602	AnnotatorNotes T602	PR:000010246 (DNA replication licensing factor MCM4)
+T603	EntrezGene 11877 11881	Mcm4
+#603	AnnotatorNotes T603	EG:17217
+T604	PR 11877 11881	Mcm4
+#604	AnnotatorNotes T604	PR:000010246 (DNA replication licensing factor MCM4)
+T605	CHEBI 11889 11890	T
+#605	AnnotatorNotes T605	CHEBI:30757 (thymin-1-yl group)
+T606	SO 11903 11912	sequences
+#606	AnnotatorNotes T606	SO:0000001 (region)
+T607	SO 11987 12002	single-stranded
+#607	AnnotatorNotes T607	SO:0000984 (single)
+T608	SO 11994 12002	stranded
+#608	AnnotatorNotes T608	SO:0000001 (region)
+T609	SO 12003 12014	DNA segment
+#609	AnnotatorNotes T609	SO:0000352 (DNA)
+T610	GO_MF 12023 12032	nucleases
+#610	AnnotatorNotes T610	GO:0004518 (nuclease activity)
+T611	independent_continuant 12023 12032	nucleases
+#611	AnnotatorNotes T611	independent_continuant
+T612	SO 12067 12082	single-stranded
+#612	AnnotatorNotes T612	SO:0000984 (single)
+T613	SO 12074 12082	stranded
+#613	AnnotatorNotes T613	SO:0000001 (region)
+T614	SO 12083 12086	DNA
+#614	AnnotatorNotes T614	SO:0000352 (DNA)
+T615	GO_CC 12118 12129	Mcm complex
+#615	AnnotatorNotes T615	GO:0042555 (MCM complex)
+T616	SO 12152 12155	DNA
+#616	AnnotatorNotes T616	SO:0000352 (DNA)
+T617	GO_MF 12164 12171	binding
+#617	AnnotatorNotes T617	GO:0005488 (binding)
+T618	SO 12180 12187	strands
+#618	AnnotatorNotes T618	SO:0000001 (region)
+T619	SO 12195 12210	single-stranded
+#619	AnnotatorNotes T619	SO:0000984 (single)
+T620	SO 12202 12210	stranded
+#620	AnnotatorNotes T620	SO:0000001 (region)
+T621	SO 12211 12217	region
+#621	AnnotatorNotes T621	SO:0000001 (region)
+T622	EntrezGene 12242 12246	Mcm4
+#622	AnnotatorNotes T622	EG:17217
+T623	PR 12242 12246	Mcm4
+#623	AnnotatorNotes T623	PR:000010246 (DNA replication licensing factor MCM4)
+T624	SO 12328 12334	strand
+#624	AnnotatorNotes T624	SO:0000001 (region)
+T625	SO 12407 12416	base-pair
+#625	AnnotatorNotes T625	SO:0000028 (base_pair)
+T626	SO 12407 12411	base
+#626	AnnotatorNotes T626	SO:0001236 (base)
+T627	SO 12417 12423	duplex
+#627	AnnotatorNotes T627	SO:0000985 (double)
+T628	SO 12424 12431	segment
+#628	AnnotatorNotes T628	SO:0000001 (region)
+T629	SO 12557 12563	strand
+#629	AnnotatorNotes T629	SO:0000001 (region)
+T630	EntrezGene 12584 12588	Mcm4
+#630	AnnotatorNotes T630	EG:17217
+T631	PR 12584 12588	Mcm4
+#631	AnnotatorNotes T631	PR:000010246 (DNA replication licensing factor MCM4)
+T632	GO_MF 12597 12601	bind
+#632	AnnotatorNotes T632	GO:0005488 (binding)
+T633	GO_BP 12607 12618	replication
+#633	AnnotatorNotes T633	GO:0006260 (DNA replication)
+T634	EntrezGene 12737 12751	SV40 T-antigen
+#634	AnnotatorNotes T634	EG:1489525
+T635	NCBITaxon 12737 12741	SV40
+#635	AnnotatorNotes T635	NCBITaxon:10633 (Simian virus 40)
+T636	GO_MF 12759 12767	Nuclease
+#636	AnnotatorNotes T636	GO:0004518 (nuclease activity)
+T637	independent_continuant 12759 12767	Nuclease
+#637	AnnotatorNotes T637	independent_continuant
+T638	SO 12863 12878	single-stranded
+#638	AnnotatorNotes T638	SO:0000984 (single)
+T639	SO 12870 12878	stranded
+#639	AnnotatorNotes T639	SO:0000001 (region)
+T640	SO 12884 12890	region
+#640	AnnotatorNotes T640	SO:0000001 (region)
+T641	SO 12906 12908	bp
+#641	AnnotatorNotes T641	SO:0000028 (base_pair)
+T642	SO 12909 12915	duplex
+#642	AnnotatorNotes T642	SO:0000985 (double)
+T643	SO 12916 12919	DNA
+#643	AnnotatorNotes T643	SO:0000352 (DNA)
+T644	SO 12936 12942	duplex
+#644	AnnotatorNotes T644	SO:0000985 (double)
+T645	SO 12946 12959	single-strand
+#645	AnnotatorNotes T645	SO:0000984 (single)
+T646	SO 12953 12959	strand
+#646	AnnotatorNotes T646	SO:0000001 (region)
+T647	SO 12960 12968	junction
+#647	AnnotatorNotes T647	SO:0000699 (junction)
+T648	GO_CC 12987 12990	Mcm
+#648	AnnotatorNotes T648	GO:0042555 (MCM complex)
+T649	GO_MF 12991 12998	binding
+#649	AnnotatorNotes T649	GO:0005488 (binding)
+T650	GO_MF 13004 13010	DNaseI
+#650	AnnotatorNotes T650	GO:0004530 (deoxyribonuclease I activity)
+T651	independent_continuant 13004 13010	DNaseI
+#651	AnnotatorNotes T651	independent_continuant
+T652	PR 13004 13010	DNaseI
+#652	AnnotatorNotes T652	PR:000006592 (deoxyribonuclease-1)
+T653	GO_BP 13011 13020	digestion
+#653	AnnotatorNotes T653	GO:0009056 (catabolic process)
+T654	EntrezGene 13050 13054	Mcm4
+#654	AnnotatorNotes T654	EG:17217
+T655	PR 13050 13054	Mcm4
+#655	AnnotatorNotes T655	PR:000010246 (DNA replication licensing factor MCM4)
+T656	CHEBI 13059 13066	protein
+#656	AnnotatorNotes T656	CHEBI:36080 (proteins)
+T657	SO 13092 13107	single-stranded
+#657	AnnotatorNotes T657	SO:0000984 (single)
+T658	SO 13099 13107	stranded
+#658	AnnotatorNotes T658	SO:0000001 (region)
+T659	SO 13108 13118	DNA region
+#659	AnnotatorNotes T659	SO:0000352 (DNA)
+T660	SO 13159 13165	duplex
+#660	AnnotatorNotes T660	SO:0000985 (double)
+T661	SO 13166 13174	segments
+#661	AnnotatorNotes T661	SO:0000001 (region)
+T662	GO_CC 13203 13219	replication fork
+#662	AnnotatorNotes T662	GO:0005657 (replication fork)
+T663	GO_BP 13203 13214	replication
+#663	AnnotatorNotes T663	GO:0006260 (DNA replication)
+T664	GO_BP 13222 13270	Formation of double hexameric Mcm4/6/7 complexes
+#664	AnnotatorNotes T664	"Formation of .. complexes" GO:0065003 (macromolecular complex assembly)
+T665	EntrezGene 13252 13256	Mcm4
+#665	AnnotatorNotes T665	EG:17217
+T666	PR 13252 13256	Mcm4
+#666	AnnotatorNotes T666	PR:000010246 (DNA replication licensing factor MCM4)
+T667	GO_CC 13261 13270	complexes
+#667	AnnotatorNotes T667	GO:0032991 (macromolecular complex)
+T668	independent_continuant 13283 13291	helicase
+#668	AnnotatorNotes T668	independent_continuant
+T669	GO_MF 13283 13291	helicase
+#669	AnnotatorNotes T669	GO:0004386 (helicase activity)
+T670	EntrezGene 13353 13357	Mcm4
+#670	AnnotatorNotes T670	EG:17217
+T671	PR 13353 13357	Mcm4
+#671	AnnotatorNotes T671	PR:000010246 (DNA replication licensing factor MCM4)
+T672	GO_BP 13362 13371	generates
+#672	AnnotatorNotes T672	GO:0022607 (cellular component assembly)
+T673	GO_CC 13391 13398	complex
+#673	AnnotatorNotes T673	GO:0032991 (macromolecular complex)
+T674	SO 13487 13502	single-stranded
+#674	AnnotatorNotes T674	SO:0000984 (single)
+T675	SO 13494 13502	stranded
+#675	AnnotatorNotes T675	SO:0000001 (region)
+T676	SO 13503 13510	segment
+#676	AnnotatorNotes T676	SO:0000001 (region)
+T677	SO 13535 13550	single-stranded
+#677	AnnotatorNotes T677	SO:0000984 (single)
+T678	SO 13542 13550	stranded
+#678	AnnotatorNotes T678	SO:0000001 (region)
+T679	SO 13551 13558	segment
+#679	AnnotatorNotes T679	SO:0000001 (region)
+T680	GO_CC 13622 13633	Mcm complex
+#680	AnnotatorNotes T680	GO:0042555 (MCM complex)
+T681	PR 13674 13678	Mcm4
+#681	AnnotatorNotes T681	PR:000010246 (DNA replication licensing factor MCM4)
+T682	GO_BP 13690 13695	forms
+#682	AnnotatorNotes T682	GO:0022607 (cellular component assembly)
+T683	GO_CC 13715 13722	complex
+#683	AnnotatorNotes T683	GO:0032991 (macromolecular complex)
+T684	SO 13764 13766	nt
+#684	AnnotatorNotes T684	SO:0001236 (base)
+T685	SO 13780 13795	single-stranded
+#685	AnnotatorNotes T685	SO:0000984 (single)
+T686	SO 13787 13795	stranded
+#686	AnnotatorNotes T686	SO:0000001 (region)
+T687	SO 13796 13803	segment
+#687	AnnotatorNotes T687	SO:0000001 (region)
+T688	GO_CC 13828 13835	complex
+#688	AnnotatorNotes T688	GO:0032991 (macromolecular complex)
+T689	SO 13849 13852	DNA
+#689	AnnotatorNotes T689	SO:0000352 (DNA)
+T690	GO_BP 13924 13933	formation
+#690	AnnotatorNotes T690	GO:0022607 (cellular component assembly)
+T691	SO 13944 13953	synthetic
+#691	AnnotatorNotes T691	SO:0000351 (synthetic_sequence)
+T692	sub 13983 13985	10
+#692	AnnotatorNotes T692	sub (null)
+T693	sub 13992 13994	20
+#693	AnnotatorNotes T693	sub (null)
+T694	sub 14001 14003	30
+#694	AnnotatorNotes T694	sub (null)
+T695	sub 14010 14012	40
+#695	AnnotatorNotes T695	sub (null)
+T696	sub 14022 14024	50
+#696	AnnotatorNotes T696	sub (null)
+T697	SO 14069 14077	unpaired
+#697	AnnotatorNotes T697	SO:0000984 (single)
+T698	SO 14078 14085	segment
+#698	AnnotatorNotes T698	SO:0000001 (region)
+T699	GO_BP 14091 14102	constructed
+#699	AnnotatorNotes T699	GO:0009058 (biosynthetic process)
+T700	GO_MF 14112 14119	binding
+#700	AnnotatorNotes T700	GO:0005488 (binding)
+T701	independent_continuant 14124 14132	helicase
+#701	AnnotatorNotes T701	independent_continuant
+T702	GO_MF 14124 14132	helicase
+#702	AnnotatorNotes T702	GO:0004386 (helicase activity)
+T703	EntrezGene 14147 14151	Mcm4
+#703	AnnotatorNotes T703	EG:17217
+T704	PR 14147 14151	Mcm4
+#704	AnnotatorNotes T704	PR:000010246 (DNA replication licensing factor MCM4)
+T705	EntrezGene 14191 14195	Mcm4
+#705	AnnotatorNotes T705	EG:17217
+T706	PR 14191 14195	Mcm4
+#706	AnnotatorNotes T706	PR:000010246 (DNA replication licensing factor MCM4)
+T707	CHEBI 14221 14233	radiolabeled
+#707	AnnotatorNotes T707	CHEBI:35211 (radioactive label)
+T708	SO 14234 14243	synthetic
+#708	AnnotatorNotes T708	SO:0000351 (synthetic_sequence)
+T709	CHEBI 14287 14294	ATP-γ-S
+#709	AnnotatorNotes T709	CHEBI:27575 (adenosine 5'-[gamma-thio]triphosphate)
+T710	CHEBI 14287 14290	ATP
+#710	AnnotatorNotes T710	CHEBI:15422 (ATP)
+T711	CHEBI 14287 14290	ATP
+#711	AnnotatorNotes T711	CHEBI:30616 (ATP(4-))
+T712	CHEBI 14293 14294	S
+#712	AnnotatorNotes T712	CHEBI:26833 (sulfur)
+T713	GO_BP 14304 14321	complex formation
+#713	AnnotatorNotes T713	GO:0065003 (macromolecular complex assembly)
+T714	GO_CC 14304 14311	complex
+#714	AnnotatorNotes T714	GO:0032991 (macromolecular complex)
+T715	GO_MF 14375 14386	DNA binding
+#715	AnnotatorNotes T715	GO:0003677 (DNA binding)
+T716	SO 14375 14378	DNA
+#716	AnnotatorNotes T716	SO:0000352 (DNA)
+T717	CHEBI 14485 14488	ATP
+#717	AnnotatorNotes T717	CHEBI:15422 (ATP)
+T718	CHEBI 14485 14488	ATP
+#718	AnnotatorNotes T718	CHEBI:30616 (ATP(4-))
+T719	independent_continuant 14500 14512	DNA helicase
+#719	AnnotatorNotes T719	independent_continuant
+T720	GO_MF 14500 14512	DNA helicase
+#720	AnnotatorNotes T720	GO:0003678 (DNA helicase activity)
+T721	SO 14500 14503	DNA
+#721	AnnotatorNotes T721	SO:0000352 (DNA)
+T722	GO_CC 14572 14581	complexes
+#722	AnnotatorNotes T722	GO:0032991 (macromolecular complex)
+T723	EntrezGene 14587 14591	Mcm4
+#723	AnnotatorNotes T723	EG:17217
+T724	PR 14587 14591	Mcm4
+#724	AnnotatorNotes T724	PR:000010246 (DNA replication licensing factor MCM4)
+T725	GO_BP 14608 14617	generated
+#725	AnnotatorNotes T725	GO:0022607 (cellular component assembly)
+T726	EntrezGene 14698 14702	Mcm4
+#726	AnnotatorNotes T726	EG:17217
+T727	PR 14698 14702	Mcm4
+#727	AnnotatorNotes T727	PR:000010246 (DNA replication licensing factor MCM4)
+T728	GO_CC 14741 14750	complexes
+#728	AnnotatorNotes T728	GO:0032991 (macromolecular complex)
+T729	GO_BP 14784 14793	generated
+#729	AnnotatorNotes T729	GO:0022607 (cellular component assembly)
+T730	GO_CC 14894 14903	complexes
+#730	AnnotatorNotes T730	GO:0032991 (macromolecular complex)
+T731	sub 14922 14924	40
+#731	AnnotatorNotes T731	sub (null)
+T732	sub 14934 14936	50
+#732	AnnotatorNotes T732	sub (null)
+T733	GO_CC 14981 14990	complexes
+#733	AnnotatorNotes T733	GO:0032991 (macromolecular complex)
+T734	SO 15032 15047	single-stranded
+#734	AnnotatorNotes T734	SO:0000984 (single)
+T735	SO 15039 15047	stranded
+#735	AnnotatorNotes T735	SO:0000001 (region)
+T736	SO 15048 15055	segment
+#736	AnnotatorNotes T736	SO:0000001 (region)
+T737	SO 15071 15073	nt
+#737	AnnotatorNotes T737	SO:0001236 (base)
+T738	GO_CC 15137 15149	Mcm helicase
+#738	AnnotatorNotes T738	GO:0042555 (MCM complex)
+T739	GO_MF 15141 15149	helicase
+#739	AnnotatorNotes T739	GO:0004386 (helicase activity)
+T740	independent_continuant 15141 15149	helicase
+#740	AnnotatorNotes T740	independent_continuant
+T741	GO_MF 15177 15189	DNA helicase
+#741	AnnotatorNotes T741	GO:0003678 (DNA helicase activity)
+T742	independent_continuant 15177 15189	DNA helicase
+#742	AnnotatorNotes T742	independent_continuant
+T743	SO 15177 15180	DNA
+#743	AnnotatorNotes T743	SO:0000352 (DNA)
+T744	EntrezGene 15198 15202	Mcm4
+#744	AnnotatorNotes T744	EG:17217
+T745	PR 15198 15202	Mcm4
+#745	AnnotatorNotes T745	PR:000010246 (DNA replication licensing factor MCM4)
+T746	GO_CC 15207 15214	complex
+#746	AnnotatorNotes T746	GO:0032991 (macromolecular complex)
+T747	independent_continuant 15228 15236	helicase
+#747	AnnotatorNotes T747	independent_continuant
+T748	GO_MF 15228 15236	helicase
+#748	AnnotatorNotes T748	GO:0004386 (helicase activity)
+T749	GO_BP 15302 15314	displacement
+#749	AnnotatorNotes T749	GO:0000732 (strand displacement)
+T750	SO 15354 15369	single-stranded
+#750	AnnotatorNotes T750	SO:0000984 (single)
+T751	SO 15361 15369	stranded
+#751	AnnotatorNotes T751	SO:0000001 (region)
+T752	SO 15370 15377	segment
+#752	AnnotatorNotes T752	SO:0000001 (region)
+T753	SO 15397 15399	nt
+#753	AnnotatorNotes T753	SO:0001236 (base)
+T754	sub 15409 15411	40
+#754	AnnotatorNotes T754	sub (null)
+T755	sub 15421 15423	50
+#755	AnnotatorNotes T755	sub (null)
+T756	GO_BP 15456 15468	displacement
+#756	AnnotatorNotes T756	GO:0000732 (strand displacement)
+T757	SO 15501 15516	single-stranded
+#757	AnnotatorNotes T757	SO:0000984 (single)
+T758	SO 15508 15516	stranded
+#758	AnnotatorNotes T758	SO:0000001 (region)
+T759	SO 15517 15524	segment
+#759	AnnotatorNotes T759	SO:0000001 (region)
+T760	SO 15540 15542	nt
+#760	AnnotatorNotes T760	SO:0001236 (base)
+T761	independent_continuant 15574 15582	helicase
+#761	AnnotatorNotes T761	independent_continuant
+T762	GO_MF 15574 15582	helicase
+#762	AnnotatorNotes T762	GO:0004386 (helicase activity)
+T763	EntrezGene 15699 15703	Mcm4
+#763	AnnotatorNotes T763	EG:17217
+T764	PR 15699 15703	Mcm4
+#764	AnnotatorNotes T764	PR:000010246 (DNA replication licensing factor MCM4)
+T765	GO_CC 15708 15715	complex
+#765	AnnotatorNotes T765	GO:0032991 (macromolecular complex)
+T766	SO 15729 15732	DNA
+#766	AnnotatorNotes T766	SO:0000352 (DNA)
+T767	GO_CC 15755 15762	complex
+#767	AnnotatorNotes T767	GO:0032991 (macromolecular complex)
+T768	GO_BP 15776 15783	unwinds
+#768	AnnotatorNotes T768	GO:0032508 (DNA duplex unwinding)
+T769	SO 15788 15794	duplex
+#769	AnnotatorNotes T769	SO:0000985 (double)
+T770	SO 15795 15801	region
+#770	AnnotatorNotes T770	SO:0000001 (region)
+T771	SO 15819 15822	DNA
+#771	AnnotatorNotes T771	SO:0000352 (DNA)
+T772	SO 15830 15837	strands
+#772	AnnotatorNotes T772	SO:0000001 (region)
+T773	CHEBI 15841 15848	thymine
+#773	AnnotatorNotes T773	CHEBI:30757 (thymin-1-yl group)
+T774	SO 15854 15869	single-stranded
+#774	AnnotatorNotes T774	SO:0000984 (single)
+T775	SO 15861 15869	stranded
+#775	AnnotatorNotes T775	SO:0000001 (region)
+T776	SO 15870 15878	segments
+#776	AnnotatorNotes T776	SO:0000001 (region)
+T777	GO_BP 15906 15929	unwinding of bubble DNA
+#777	AnnotatorNotes T777	"unwinding of .. DNA" GO:0032508 (DNA duplex unwinding)
+T778	SO 15926 15929	DNA
+#778	AnnotatorNotes T778	SO:0000352 (DNA)
+T779	EntrezGene 15933 15937	Mcm4
+#779	AnnotatorNotes T779	EG:17217
+T780	PR 15933 15937	Mcm4
+#780	AnnotatorNotes T780	PR:000010246 (DNA replication licensing factor MCM4)
+T781	GO_MF 15953 16001	binding of the Mcm4/6/7 double hexamer to bubble
+#781	AnnotatorNotes T781	"binding .. to bubble" GO:0000405 (bubble DNA binding)
+T782	EntrezGene 15968 15972	Mcm4
+#782	AnnotatorNotes T782	EG:17217
+T783	PR 15968 15972	Mcm4
+#783	AnnotatorNotes T783	PR:000010246 (DNA replication licensing factor MCM4)
+T784	GO_BP 16039 16082	unwinding of one of the two duplex segments
+#784	AnnotatorNotes T784	"unwinding of .. duplex segments" GO:0032508 (DNA duplex unwinding)
+T785	SO 16067 16073	duplex
+#785	AnnotatorNotes T785	SO:0000985 (double)
+T786	SO 16074 16082	segments
+#786	AnnotatorNotes T786	SO:0000001 (region)
+T787	GO_BP 16145 16154	unwinding
+#787	AnnotatorNotes T787	GO:0032508 (DNA duplex unwinding)
+T788	GO_BP 16232 16239	unwound
+#788	AnnotatorNotes T788	GO:0032508 (DNA duplex unwinding)
+T789	EntrezGene 16243 16247	Mcm4
+#789	AnnotatorNotes T789	EG:17217
+T790	PR 16243 16247	Mcm4
+#790	AnnotatorNotes T790	PR:000010246 (DNA replication licensing factor MCM4)
+T791	CHEBI 16261 16268	thymine
+#791	AnnotatorNotes T791	CHEBI:30757 (thymin-1-yl group)
+T792	SO 16269 16278	stretches
+#792	AnnotatorNotes T792	SO:0000001 (region)
+T793	SO 16287 16294	strands
+#793	AnnotatorNotes T793	SO:0000001 (region)
+T794	SO 16302 16317	single-stranded
+#794	AnnotatorNotes T794	SO:0000984 (single)
+T795	SO 16309 16317	stranded
+#795	AnnotatorNotes T795	SO:0000001 (region)
+T796	SO 16318 16325	segment
+#796	AnnotatorNotes T796	SO:0000001 (region)
+T797	GO_BP 16330 16341	constructed
+#797	AnnotatorNotes T797	GO:0009058 (biosynthetic process)
+T798	CHEBI 16365 16366	T
+#798	AnnotatorNotes T798	CHEBI:30757 (thymin-1-yl group)
+T799	CHEBI 16367 16368	G
+#799	AnnotatorNotes T799	CHEBI:30755 (guanine group)
+T800	SO 16388 16394	strand
+#800	AnnotatorNotes T800	SO:0000001 (region)
+T801	CHEBI 16398 16399	T
+#801	AnnotatorNotes T801	CHEBI:30757 (thymin-1-yl group)
+T802	CHEBI 16420 16421	T
+#802	AnnotatorNotes T802	CHEBI:30757 (thymin-1-yl group)
+T803	SO 16442 16448	strand
+#803	AnnotatorNotes T803	SO:0000001 (region)
+T804	CHEBI 16452 16453	G
+#804	AnnotatorNotes T804	CHEBI:30755 (guanine group)
+T805	CHEBI 16474 16475	G
+#805	AnnotatorNotes T805	CHEBI:30755 (guanine group)
+T806	GO_MF 16492 16500	helicase
+#806	AnnotatorNotes T806	GO:0004386 (helicase activity)
+T807	independent_continuant 16492 16500	helicase
+#807	AnnotatorNotes T807	independent_continuant
+T808	EntrezGene 16549 16553	Mcm4
+#808	AnnotatorNotes T808	EG:17217
+T809	PR 16549 16553	Mcm4
+#809	AnnotatorNotes T809	PR:000010246 (DNA replication licensing factor MCM4)
+T810	GO_BP 16569 16578	unwinding
+#810	AnnotatorNotes T810	GO:0032508 (DNA duplex unwinding)
+T811	CHEBI 16628 16629	T
+#811	AnnotatorNotes T811	CHEBI:30757 (thymin-1-yl group)
+T812	EntrezGene 16654 16658	Mcm4
+#812	AnnotatorNotes T812	EG:17217
+T813	PR 16654 16658	Mcm4
+#813	AnnotatorNotes T813	PR:000010246 (DNA replication licensing factor MCM4)
+T814	GO_MF 16667 16671	bind
+#814	AnnotatorNotes T814	GO:0005488 (binding)
+T815	CHEBI 16681 16682	T
+#815	AnnotatorNotes T815	CHEBI:30757 (thymin-1-yl group)
+T816	CHEBI 16683 16684	G
+#816	AnnotatorNotes T816	CHEBI:30755 (guanine group)
+T817	GO_BP 16694 16699	forms
+#817	AnnotatorNotes T817	GO:0022607 (cellular component assembly)
+T818	GO_CC 16719 16726	complex
+#818	AnnotatorNotes T818	GO:0032991 (macromolecular complex)
+T819	GO_BP 16759 16768	unwinding
+#819	AnnotatorNotes T819	GO:0032508 (DNA duplex unwinding)
+T820	GO_MF 16810 16818	helicase
+#820	AnnotatorNotes T820	GO:0004386 (helicase activity)
+T821	independent_continuant 16810 16818	helicase
+#821	AnnotatorNotes T821	independent_continuant
+T822	CHEBI 16875 16882	thymine
+#822	AnnotatorNotes T822	CHEBI:30757 (thymin-1-yl group)
+T823	SO 16888 16894	strand
+#823	AnnotatorNotes T823	SO:0000001 (region)
+T824	GO_BP 16934 16943	displaces
+#824	AnnotatorNotes T824	GO:0000732 (strand displacement)
+T825	SO 16960 16966	duplex
+#825	AnnotatorNotes T825	SO:0000985 (double)
+T826	SO 16967 16975	segments
+#826	AnnotatorNotes T826	SO:0000001 (region)
+T827	GO_CC 17017 17032	fork structures
+#827	AnnotatorNotes T827	GO:0005657 (replication fork)
+T828	GO_BP 17060 17069	displaced
+#828	AnnotatorNotes T828	GO:0000732 (strand displacement)
+T829	CHEBI 17093 17094	G
+#829	AnnotatorNotes T829	CHEBI:30755 (guanine group)
+T830	GO_BP 17262 17271	displaced
+#830	AnnotatorNotes T830	GO:0000732 (strand displacement)
+T831	CHEBI 17298 17307	molecules
+#831	AnnotatorNotes T831	CHEBI:23367 (molecular entity)
+T832	EntrezGene 17315 17319	Mcm4
+#832	AnnotatorNotes T832	EG:17217
+T833	PR 17315 17319	Mcm4
+#833	AnnotatorNotes T833	PR:000010246 (DNA replication licensing factor MCM4)
+T834	GO_MF 17364 17371	Binding
+#834	AnnotatorNotes T834	GO:0005488 (binding)
+T835	independent_continuant 17376 17384	helicase
+#835	AnnotatorNotes T835	independent_continuant
+T836	GO_MF 17376 17384	helicase
+#836	AnnotatorNotes T836	GO:0004386 (helicase activity)
+T837	EntrezGene 17396 17400	Mcm4
+#837	AnnotatorNotes T837	EG:17217
+T838	PR 17396 17400	Mcm4
+#838	AnnotatorNotes T838	PR:000010246 (DNA replication licensing factor MCM4)
+T839	GO_CC 17408 17414	forked
+#839	AnnotatorNotes T839	GO:0005657 (replication fork)
+T840	GO_BP 17419 17438	3′- or 5′-extension
+#840	AnnotatorNotes T840	"3′- .. extension" GO:0006272 (leading strand elongation)
+T841	GO_BP 17426 17438	5′-extension
+#841	AnnotatorNotes T841	GO:0006273 (lagging strand elongation)
+T842	independent_continuant 17506 17514	helicase
+#842	AnnotatorNotes T842	independent_continuant
+T843	GO_MF 17506 17514	helicase
+#843	AnnotatorNotes T843	GO:0004386 (helicase activity)
+T844	GO_CC 17528 17534	forked
+#844	AnnotatorNotes T844	GO:0005657 (replication fork)
+T845	GO_CC 17549 17553	fork
+#845	AnnotatorNotes T845	GO:0005657 (replication fork)
+T846	SO 17594 17600	strand
+#846	AnnotatorNotes T846	SO:0000001 (region)
+T847	GO_CC 17604 17608	fork
+#847	AnnotatorNotes T847	GO:0005657 (replication fork)
+T848	SO 17631 17637	strand
+#848	AnnotatorNotes T848	SO:0000001 (region)
+T849	GO_CC 17641 17645	fork
+#849	AnnotatorNotes T849	GO:0005657 (replication fork)
+T850	GO_CC 17671 17675	fork
+#850	AnnotatorNotes T850	GO:0005657 (replication fork)
+T851	GO_BP 17696 17708	5′-extension
+#851	AnnotatorNotes T851	GO:0006273 (lagging strand elongation)
+T852	GO_BP 17712 17724	3′-extension
+#852	AnnotatorNotes T852	GO:0006272 (leading strand elongation)
+T853	GO_BP 17741 17752	constructed
+#853	AnnotatorNotes T853	GO:0009058 (biosynthetic process)
+T854	EntrezGene 17754 17758	Mcm4
+#854	AnnotatorNotes T854	EG:17217
+T855	PR 17754 17758	Mcm4
+#855	AnnotatorNotes T855	PR:000010246 (DNA replication licensing factor MCM4)
+T856	GO_MF 17763 17768	bound
+#856	AnnotatorNotes T856	GO:0005488 (binding)
+T857	GO_CC 17774 17778	fork
+#857	AnnotatorNotes T857	GO:0005657 (replication fork)
+T858	GO_CC 17788 17792	fork
+#858	AnnotatorNotes T858	GO:0005657 (replication fork)
+T859	GO_CC 17841 17845	fork
+#859	AnnotatorNotes T859	GO:0005657 (replication fork)
+T860	PR 17891 17904	PriA helicase
+#860	AnnotatorNotes T860	PR:000023591 (primosomal protein N')
+T861	GO_MF 17896 17904	helicase
+#861	AnnotatorNotes T861	GO:0004386 (helicase activity)
+T862	independent_continuant 17896 17904	helicase
+#862	AnnotatorNotes T862	independent_continuant
+T863	GO_MF 17925 17930	bound
+#863	AnnotatorNotes T863	GO:0005488 (binding)
+T864	GO_CC 17936 17940	fork
+#864	AnnotatorNotes T864	GO:0005657 (replication fork)
+T865	GO_CC 17972 17976	fork
+#865	AnnotatorNotes T865	GO:0005657 (replication fork)
+T866	EntrezGene 18014 18018	Mcm4
+#866	AnnotatorNotes T866	EG:17217
+T867	PR 18014 18018	Mcm4
+#867	AnnotatorNotes T867	PR:000010246 (DNA replication licensing factor MCM4)
+T868	GO_MF 18023 18028	bound
+#868	AnnotatorNotes T868	GO:0005488 (binding)
+T869	GO_BP 18037 18049	5′-extension
+#869	AnnotatorNotes T869	GO:0006273 (lagging strand elongation)
+T870	GO_BP 18054 18066	3′-extension
+#870	AnnotatorNotes T870	GO:0006272 (leading strand elongation)
+T871	GO_CC 18120 18124	fork
+#871	AnnotatorNotes T871	GO:0005657 (replication fork)
+T872	GO_CC 18135 18139	fork
+#872	AnnotatorNotes T872	GO:0005657 (replication fork)
+T873	EntrezGene 18157 18161	Mcm4
+#873	AnnotatorNotes T873	EG:17217
+T874	PR 18157 18161	Mcm4
+#874	AnnotatorNotes T874	PR:000010246 (DNA replication licensing factor MCM4)
+T875	GO_MF 18166 18171	bound
+#875	AnnotatorNotes T875	GO:0005488 (binding)
+T876	GO_CC 18177 18181	fork
+#876	AnnotatorNotes T876	GO:0005657 (replication fork)
+T877	GO_CC 18223 18230	complex
+#877	AnnotatorNotes T877	GO:0032991 (macromolecular complex)
+T878	EntrezGene 18292 18296	Mcm4
+#878	AnnotatorNotes T878	EG:17217
+T879	PR 18292 18296	Mcm4
+#879	AnnotatorNotes T879	PR:000010246 (DNA replication licensing factor MCM4)
+T880	GO_CC 18301 18308	complex
+#880	AnnotatorNotes T880	GO:0032991 (macromolecular complex)
+T881	SO 18324 18327	DNA
+#881	AnnotatorNotes T881	SO:0000352 (DNA)
+T882	SO 18367 18382	single-stranded
+#882	AnnotatorNotes T882	SO:0000984 (single)
+T883	SO 18374 18382	stranded
+#883	AnnotatorNotes T883	SO:0000001 (region)
+T884	SO 18383 18389	region
+#884	AnnotatorNotes T884	SO:0000001 (region)
+T885	SO 18490 18505	single-stranded
+#885	AnnotatorNotes T885	SO:0000984 (single)
+T886	SO 18497 18505	stranded
+#886	AnnotatorNotes T886	SO:0000001 (region)
+T887	SO 18506 18509	DNA
+#887	AnnotatorNotes T887	SO:0000352 (DNA)
+T888	GO_CC 18518 18522	fork
+#888	AnnotatorNotes T888	GO:0005657 (replication fork)
+T889	GO_BP 18544 18551	unwound
+#889	AnnotatorNotes T889	GO:0032508 (DNA duplex unwinding)
+T890	GO_CC 18558 18562	fork
+#890	AnnotatorNotes T890	GO:0005657 (replication fork)
+T891	GO_CC 18572 18576	fork
+#891	AnnotatorNotes T891	GO:0005657 (replication fork)
+T892	GO_BP 18593 18600	unwound
+#892	AnnotatorNotes T892	GO:0032508 (DNA duplex unwinding)
+T893	EntrezGene 18604 18608	Mcm4
+#893	AnnotatorNotes T893	EG:17217
+T894	PR 18604 18608	Mcm4
+#894	AnnotatorNotes T894	PR:000010246 (DNA replication licensing factor MCM4)
+T895	independent_continuant 18637 18645	helicase
+#895	AnnotatorNotes T895	independent_continuant
+T896	GO_MF 18637 18645	helicase
+#896	AnnotatorNotes T896	GO:0004386 (helicase activity)
+T897	GO_CC 18659 18663	fork
+#897	AnnotatorNotes T897	GO:0005657 (replication fork)
+T898	SO 18688 18694	duplex
+#898	AnnotatorNotes T898	SO:0000985 (double)
+T899	SO 18695 18702	regions
+#899	AnnotatorNotes T899	SO:0000001 (region)
+T900	SO 18721 18736	double-stranded
+#900	AnnotatorNotes T900	SO:0000985 (double)
+T901	SO 18728 18736	stranded
+#901	AnnotatorNotes T901	SO:0000001 (region)
+T902	SO 18737 18740	DNA
+#902	AnnotatorNotes T902	SO:0000352 (DNA)
+T903	independent_continuant 18769 18775	ATPase
+#903	AnnotatorNotes T903	independent_continuant
+T904	GO_MF 18769 18775	ATPase
+#904	AnnotatorNotes T904	GO:0016887 (ATPase activity)
+T905	EntrezGene 18788 18792	Mcm4
+#905	AnnotatorNotes T905	EG:4173
+T906	PR 18788 18792	Mcm4
+#906	AnnotatorNotes T906	PR:000010246 (DNA replication licensing factor MCM4)
+T907	PR 18820 18824	PriA
+#907	AnnotatorNotes T907	PR:000023591 (primosomal protein N')
+T908	GO_MF 18847 18855	helicase
+#908	AnnotatorNotes T908	GO:0004386 (helicase activity)
+T909	independent_continuant 18847 18855	helicase
+#909	AnnotatorNotes T909	independent_continuant
+T910	GO_MF 18875 18880	binds
+#910	AnnotatorNotes T910	GO:0005488 (binding)
+T911	GO_CC 18888 18892	fork
+#911	AnnotatorNotes T911	GO:0005657 (replication fork)
+T912	SO 18893 18901	junction
+#912	AnnotatorNotes T912	SO:0000699 (junction)
+T913	GO_BP 18906 18913	unwinds
+#913	AnnotatorNotes T913	GO:0032508 (DNA duplex unwinding)
+T914	GO_CC 18918 18922	fork
+#914	AnnotatorNotes T914	GO:0005657 (replication fork)
+T915	SO 18947 18953	strand
+#915	AnnotatorNotes T915	SO:0000001 (region)
+T916	SO 18954 18957	DNA
+#916	AnnotatorNotes T916	SO:0000352 (DNA)
+T917	GO_CC 18963 18967	fork
+#917	AnnotatorNotes T917	GO:0005657 (replication fork)
+T918	GO_BP 18976 18983	unwinds
+#918	AnnotatorNotes T918	GO:0032508 (DNA duplex unwinding)
+T919	SO 19004 19010	strand
+#919	AnnotatorNotes T919	SO:0000001 (region)
+T920	GO_CC 19016 19020	fork
+#920	AnnotatorNotes T920	GO:0005657 (replication fork)
+T921	EntrezGene 19086 19090	Mcm4
+#921	AnnotatorNotes T921	EG:17217
+T922	PR 19086 19090	Mcm4
+#922	AnnotatorNotes T922	PR:000010246 (DNA replication licensing factor MCM4)
+T923	GO_CC 19095 19102	complex
+#923	AnnotatorNotes T923	GO:0032991 (macromolecular complex)
+T924	GO_MF 19103 19108	binds
+#924	AnnotatorNotes T924	GO:0005488 (binding)
+T925	SO 19112 19127	single-stranded
+#925	AnnotatorNotes T925	SO:0000984 (single)
+T926	SO 19119 19127	stranded
+#926	AnnotatorNotes T926	SO:0000001 (region)
+T927	SO 19128 19131	DNA
+#927	AnnotatorNotes T927	SO:0000352 (DNA)
+T928	GO_MF 19145 19153	helicase
+#928	AnnotatorNotes T928	GO:0004386 (helicase activity)
+T929	independent_continuant 19145 19153	helicase
+#929	AnnotatorNotes T929	independent_continuant
+T930	SO 19193 19208	single-stranded
+#930	AnnotatorNotes T930	SO:0000984 (single)
+T931	SO 19200 19208	stranded
+#931	AnnotatorNotes T931	SO:0000001 (region)
+T932	GO_BP 19219 19231	3′-extension
+#932	AnnotatorNotes T932	GO:0006272 (leading strand elongation)
+T933	GO_BP 19254 19263	displaced
+#933	AnnotatorNotes T933	GO:0000732 (strand displacement)
+T934	EntrezGene 19267 19271	Mcm4
+#934	AnnotatorNotes T934	EG:17217
+T935	PR 19267 19271	Mcm4
+#935	AnnotatorNotes T935	PR:000010246 (DNA replication licensing factor MCM4)
+T936	GO_BP 19307 19319	3′-extension
+#936	AnnotatorNotes T936	GO:0006272 (leading strand elongation)
+T937	GO_BP 19327 19334	unwound
+#937	AnnotatorNotes T937	GO:0032508 (DNA duplex unwinding)
+T938	NCBITaxon 19342 19350	archaeal
+#938	AnnotatorNotes T938	NCBITaxon:2157 (Archaea)
+T939	GO_CC 19351 19354	Mcm
+#939	AnnotatorNotes T939	GO:0042555 (MCM complex)
+T940	NCBITaxon 19378 19403	fission and budding yeast
+#940	AnnotatorNotes T940	"fission .. yeast" NCBITaxon:4894 (Schizosaccharomycetaceae)
+T941	GO_BP 19378 19385	fission
+#941	AnnotatorNotes T941	GO:0043093 (binary fission)
+T942	NCBITaxon 19390 19403	budding yeast
+#942	AnnotatorNotes T942	NCBITaxon:4892 (Saccharomycetales)
+T943	GO_BP 19390 19397	budding
+#943	AnnotatorNotes T943	GO:0007114 (cell budding)
+T944	GO_CC 19404 19417	Mcm complexes
+#944	AnnotatorNotes T944	GO:0042555 (MCM complex)
+T945	GO_BP 19438 19449	constructed
+#945	AnnotatorNotes T945	GO:0009058 (biosynthetic process)
+T946	GO_BP 19450 19462	3′-extension
+#946	AnnotatorNotes T946	GO:0006272 (leading strand elongation)
+T947	EntrezGene 19564 19574	mouse Mcm4
+#947	AnnotatorNotes T947	EG:17217
+T948	NCBITaxon 19564 19569	mouse
+#948	AnnotatorNotes T948	NCBITaxon:10088 (Mus)
+T949	PR 19570 19574	Mcm4
+#949	AnnotatorNotes T949	PR:000010246 (DNA replication licensing factor MCM4)
+T950	GO_BP 19583 19591	displace
+#950	AnnotatorNotes T950	GO:0000732 (strand displacement)
+T951	EntrezGene 19630 19634	Mcm4
+#951	AnnotatorNotes T951	EG:17217
+T952	PR 19630 19634	Mcm4
+#952	AnnotatorNotes T952	PR:000010246 (DNA replication licensing factor MCM4)
+T953	GO_MF 19639 19644	binds
+#953	AnnotatorNotes T953	GO:0005488 (binding)
+T954	GO_BP 19664 19676	3′-extension
+#954	AnnotatorNotes T954	GO:0006272 (leading strand elongation)
+T955	GO_BP 19710 19722	3′-extension
+#955	AnnotatorNotes T955	GO:0006272 (leading strand elongation)
+T956	PR 19811 19815	Mcm4
+#956	AnnotatorNotes T956	PR:000010246 (DNA replication licensing factor MCM4)
+T957	GO_MF 19820 19825	binds
+#957	AnnotatorNotes T957	GO:0005488 (binding)
+T958	SO 19835 19840	oligo
+#958	AnnotatorNotes T958	SO:0000696 (oligo)
+T959	SO 19877 19882	oligo
+#959	AnnotatorNotes T959	SO:0000696 (oligo)
+T960	GO_BP 19916 19928	3′-extension
+#960	AnnotatorNotes T960	GO:0006272 (leading strand elongation)
+T961	GO_BP 19933 19942	displaced
+#961	AnnotatorNotes T961	GO:0000732 (strand displacement)
+T962	PR 19958 19967	Mcm 4/6/7
+#962	AnnotatorNotes T962	"Mcm .. 7" PR:000010249 (DNA replication licensing factor MCM7)
+T963	PR 19958 19965	Mcm 4/6
+#963	AnnotatorNotes T963	"Mcm .. 6" PR:000010248 (DNA replication licensing factor MCM6)
+T964	EntrezGene 19958 19963	Mcm 4
+#964	AnnotatorNotes T964	EG:17217
+T965	PR 19958 19963	Mcm 4
+#965	AnnotatorNotes T965	PR:000010246 (DNA replication licensing factor MCM4)
+T966	GO_CC 19958 19961	Mcm
+#966	AnnotatorNotes T966	GO:0042555 (MCM complex)
+T967	NCBITaxon 20089 20094	yeast
+#967	AnnotatorNotes T967	NCBITaxon:4896 (Schizosaccharomyces pombe)
+T968	NCBITaxon 20089 20094	yeast
+#968	AnnotatorNotes T968	NCBITaxon:4932 (Saccharomyces cerevisiae)
+T969	PR 20095 20099	Mcm4
+#969	AnnotatorNotes T969	PR:000010246 (DNA replication licensing factor MCM4)
+T970	GO_MF 20104 20113	helicases
+#970	AnnotatorNotes T970	GO:0004386 (helicase activity)
+T971	independent_continuant 20104 20113	helicases
+#971	AnnotatorNotes T971	independent_continuant
+T972	GO_BP 20139 20148	unwinding
+#972	AnnotatorNotes T972	GO:0032508 (DNA duplex unwinding)
+T973	GO_BP 20149 20161	3′-extension
+#973	AnnotatorNotes T973	GO:0006272 (leading strand elongation)
+T974	GO_BP 20197 20209	5′-extension
+#974	AnnotatorNotes T974	GO:0006273 (lagging strand elongation)
+T975	EntrezGene 20220 20224	Mcm4
+#975	AnnotatorNotes T975	EG:17217
+T976	PR 20220 20224	Mcm4
+#976	AnnotatorNotes T976	PR:000010246 (DNA replication licensing factor MCM4)
+T977	GO_MF 20235 20239	bind
+#977	AnnotatorNotes T977	GO:0005488 (binding)
+T978	GO_BP 20249 20258	displaced
+#978	AnnotatorNotes T978	GO:0000732 (strand displacement)
+T979	GO_CC 20266 20278	Mcm helicase
+#979	AnnotatorNotes T979	GO:0042555 (MCM complex)
+T980	GO_MF 20270 20278	helicase
+#980	AnnotatorNotes T980	GO:0004386 (helicase activity)
+T981	independent_continuant 20270 20278	helicase
+#981	AnnotatorNotes T981	independent_continuant
+T982	GO_BP 20321 20333	3′-extension
+#982	AnnotatorNotes T982	GO:0006272 (leading strand elongation)
+T983	GO_BP 20357 20369	displacement
+#983	AnnotatorNotes T983	GO:0000732 (strand displacement)
+T984	GO_CC 20423 20438	fork structures
+#984	AnnotatorNotes T984	GO:0005657 (replication fork)
+T985	independent_continuant 20454 20462	helicase
+#985	AnnotatorNotes T985	independent_continuant
+T986	GO_MF 20454 20462	helicase
+#986	AnnotatorNotes T986	GO:0004386 (helicase activity)
+T987	NCBITaxon 20534 20543	mammalian
+#987	AnnotatorNotes T987	NCBITaxon:40674 (Mammalia)
+T988	GO_CC 20544 20556	Mcm helicase
+#988	AnnotatorNotes T988	GO:0042555 (MCM complex)
+T989	GO_MF 20548 20556	helicase
+#989	AnnotatorNotes T989	GO:0004386 (helicase activity)
+T990	independent_continuant 20548 20556	helicase
+#990	AnnotatorNotes T990	independent_continuant
+T991	CHEBI 20587 20594	thymine
+#991	AnnotatorNotes T991	CHEBI:30757 (thymin-1-yl group)
+T992	SO 20595 20602	stretch
+#992	AnnotatorNotes T992	SO:0000001 (region)
+T993	SO 20613 20628	single-stranded
+#993	AnnotatorNotes T993	SO:0000984 (single)
+T994	SO 20620 20628	stranded
+#994	AnnotatorNotes T994	SO:0000001 (region)
+T995	CHEBI 20655 20662	thymine
+#995	AnnotatorNotes T995	CHEBI:30757 (thymin-1-yl group)
+T996	GO_CC 20689 20701	Mcm helicase
+#996	AnnotatorNotes T996	GO:0042555 (MCM complex)
+T997	independent_continuant 20693 20701	helicase
+#997	AnnotatorNotes T997	independent_continuant
+T998	GO_MF 20693 20701	helicase
+#998	AnnotatorNotes T998	GO:0004386 (helicase activity)
+T999	CHEBI 20787 20794	thymine
+#999	AnnotatorNotes T999	CHEBI:17821 (thymine)
+T1000	CHEBI 20795 20803	residues
+#1000	AnnotatorNotes T1000	CHEBI:33791 (canonical nucleoside residues)
+T1001	SO 20795 20803	residues
+#1001	AnnotatorNotes T1001	SO:0001236 (base)
+T1002	GO_CC 20826 20838	Mcm helicase
+#1002	AnnotatorNotes T1002	GO:0042555 (MCM complex)
+T1003	independent_continuant 20830 20838	helicase
+#1003	AnnotatorNotes T1003	independent_continuant
+T1004	GO_MF 20830 20838	helicase
+#1004	AnnotatorNotes T1004	GO:0004386 (helicase activity)
+T1005	SO 20876 20891	single-stranded
+#1005	AnnotatorNotes T1005	SO:0000984 (single)
+T1006	SO 20883 20891	stranded
+#1006	AnnotatorNotes T1006	SO:0000001 (region)
+T1007	SO 20892 20895	DNA
+#1007	AnnotatorNotes T1007	SO:0000352 (DNA)
+T1008	SO 20912 20914	bp
+#1008	AnnotatorNotes T1008	SO:0000028 (base_pair)
+T1009	SO 20915 20921	duplex
+#1009	AnnotatorNotes T1009	SO:0000985 (double)
+T1010	SO 20922 20928	region
+#1010	AnnotatorNotes T1010	SO:0000001 (region)
+T1011	CHEBI 20966 20968	nt
+#1011	AnnotatorNotes T1011	CHEBI:25613 (nucleotidyl groups)
+T1012	SO 20966 20968	nt
+#1012	AnnotatorNotes T1012	SO:0001236 (base)
+T1013	CHEBI 20993 21003	nucleotide
+#1013	AnnotatorNotes T1013	CHEBI:25613 (nucleotidyl groups)
+T1014	SO 20993 21003	nucleotide
+#1014	AnnotatorNotes T1014	SO:0001236 (base)
+T1015	GO_BP 21022 21033	constructed
+#1015	AnnotatorNotes T1015	GO:0009058 (biosynthetic process)
+T1016	GO_BP 21042 21051	unwinding
+#1016	AnnotatorNotes T1016	GO:0032508 (DNA duplex unwinding)
+T1017	EntrezGene 21055 21065	mouse Mcm4
+#1017	AnnotatorNotes T1017	EG:17217
+T1018	NCBITaxon 21055 21060	mouse
+#1018	AnnotatorNotes T1018	NCBITaxon:10088 (Mus)
+T1019	PR 21061 21065	Mcm4
+#1019	AnnotatorNotes T1019	PR:000010246 (DNA replication licensing factor MCM4)
+T1020	EntrezGene 21125 21129	Mcm4
+#1020	AnnotatorNotes T1020	EG:17217
+T1021	PR 21125 21129	Mcm4
+#1021	AnnotatorNotes T1021	PR:000010246 (DNA replication licensing factor MCM4)
+T1022	GO_BP 21141 21150	displaced
+#1022	AnnotatorNotes T1022	GO:0000732 (strand displacement)
+T1023	GO_MF 21155 21163	annealed
+#1023	AnnotatorNotes T1023	GO:0033592 (RNA strand annealing activity)
+T1024	GO_MF 21155 21163	annealed
+#1024	AnnotatorNotes T1024	GO:0000739 (DNA strand annealing activity)
+T1025	SO 21170 21185	oligonucleotide
+#1025	AnnotatorNotes T1025	SO:0000696 (oligo)
+T1026	independent_continuant 21234 21242	helicase
+#1026	AnnotatorNotes T1026	independent_continuant
+T1027	GO_MF 21234 21242	helicase
+#1027	AnnotatorNotes T1027	GO:0004386 (helicase activity)
+T1028	SO 21309 21316	repeats
+#1028	AnnotatorNotes T1028	SO:0000726 (repeat_unit)
+T1029	SO 21309 21316	repeats
+#1029	AnnotatorNotes T1029	SO:0000657 (repeat_region)
+T1030	sub 21342 21344	25
+#1030	AnnotatorNotes T1030	sub (null)
+T1031	independent_continuant 21373 21381	helicase
+#1031	AnnotatorNotes T1031	independent_continuant
+T1032	GO_MF 21373 21381	helicase
+#1032	AnnotatorNotes T1032	GO:0004386 (helicase activity)
+T1033	sub 21413 21415	17
+#1033	AnnotatorNotes T1033	sub (null)
+T1034	CHEBI 21429 21436	thymine
+#1034	AnnotatorNotes T1034	CHEBI:30757 (thymin-1-yl group)
+T1035	GO_BP 21499 21508	unwinding
+#1035	AnnotatorNotes T1035	GO:0032508 (DNA duplex unwinding)
+T1036	sub 21517 21519	13
+#1036	AnnotatorNotes T1036	sub (null)
+T1037	sub 21529 21531	10
+#1037	AnnotatorNotes T1037	sub (null)
+T1038	sub 21540 21542	50
+#1038	AnnotatorNotes T1038	sub (null)
+T1039	SO 21575 21582	repeats
+#1039	AnnotatorNotes T1039	SO:0000726 (repeat_unit)
+T1040	SO 21575 21582	repeats
+#1040	AnnotatorNotes T1040	SO:0000657 (repeat_region)
+T1041	CHEBI 21608 21615	thymine
+#1041	AnnotatorNotes T1041	CHEBI:30757 (thymin-1-yl group)
+T1042	GO_CC 21653 21665	Mcm helicase
+#1042	AnnotatorNotes T1042	GO:0042555 (MCM complex)
+T1043	GO_MF 21657 21665	helicase
+#1043	AnnotatorNotes T1043	GO:0004386 (helicase activity)
+T1044	independent_continuant 21657 21665	helicase
+#1044	AnnotatorNotes T1044	independent_continuant
+T1045	sub 21697 21699	25
+#1045	AnnotatorNotes T1045	sub (null)
+T1046	GO_MF 21716 21722	anneal
+#1046	AnnotatorNotes T1046	GO:0033592 (RNA strand annealing activity)
+T1047	GO_MF 21716 21722	anneal
+#1047	AnnotatorNotes T1047	GO:0000739 (DNA strand annealing activity)
+T1048	GO_CC 21761 21764	Mcm
+#1048	AnnotatorNotes T1048	GO:0042555 (MCM complex)
+T1049	sub 21799 21801	13
+#1049	AnnotatorNotes T1049	sub (null)
+T1050	sub 21811 21812	8
+#1050	AnnotatorNotes T1050	sub (null)
+T1051	GO_BP 21821 21828	enhance
+#1051	AnnotatorNotes T1051	GO:0048518 (positive regulation of biological process)
+T1052	GO_BP 21833 21842	unwinding
+#1052	AnnotatorNotes T1052	GO:0032508 (DNA duplex unwinding)
+T1053	SO 21911 21930	repeating sequences
+#1053	AnnotatorNotes T1053	SO:0000726 (repeat_unit)
+T1054	SO 21911 21930	repeating sequences
+#1054	AnnotatorNotes T1054	SO:0000657 (repeat_region)
+T1055	CHEBI 21934 21941	thymine
+#1055	AnnotatorNotes T1055	CHEBI:30757 (thymin-1-yl group)
+T1056	CHEBI 21946 21954	cytosine
+#1056	AnnotatorNotes T1056	CHEBI:30758 (cytosin-1-yl group)
+T1057	sub 22028 22030	25
+#1057	AnnotatorNotes T1057	sub (null)
+T1058	sub 22036 22038	13
+#1058	AnnotatorNotes T1058	sub (null)
+T1059	sub 22046 22047	8
+#1059	AnnotatorNotes T1059	sub (null)
+T1060	sub 22057 22058	6
+#1060	AnnotatorNotes T1060	sub (null)
+T1061	sub 22064 22066	17
+#1061	AnnotatorNotes T1061	sub (null)
+T1062	GO_BP 22072 22081	displaced
+#1062	AnnotatorNotes T1062	GO:0000732 (strand displacement)
+T1063	EntrezGene 22089 22093	Mcm4
+#1063	AnnotatorNotes T1063	EG:17217
+T1064	PR 22089 22093	Mcm4
+#1064	AnnotatorNotes T1064	PR:000010246 (DNA replication licensing factor MCM4)
+T1065	GO_CC 22098 22105	complex
+#1065	AnnotatorNotes T1065	GO:0032991 (macromolecular complex)
+T1066	sub 22151 22153	17
+#1066	AnnotatorNotes T1066	sub (null)
+T1067	CHEBI 22175 22182	thymine
+#1067	AnnotatorNotes T1067	CHEBI:30757 (thymin-1-yl group)
+T1068	GO_CC 22228 22240	Mcm helicase
+#1068	AnnotatorNotes T1068	GO:0042555 (MCM complex)
+T1069	GO_MF 22232 22240	helicase
+#1069	AnnotatorNotes T1069	GO:0004386 (helicase activity)
+T1070	independent_continuant 22232 22240	helicase
+#1070	AnnotatorNotes T1070	independent_continuant
+T1071	sub 22246 22248	13
+#1071	AnnotatorNotes T1071	sub (null)
+T1072	sub 22257 22259	17
+#1072	AnnotatorNotes T1072	sub (null)
+T1073	GO_BP 22265 22274	displaced
+#1073	AnnotatorNotes T1073	GO:0000732 (strand displacement)
+T1074	CHEBI 22341 22343	nt
+#1074	AnnotatorNotes T1074	CHEBI:25613 (nucleotidyl groups)
+T1075	SO 22341 22343	nt
+#1075	AnnotatorNotes T1075	SO:0001236 (base)
+T1076	GO_BP 22415 22427	displacement
+#1076	AnnotatorNotes T1076	GO:0000732 (strand displacement)
+T1077	CHEBI 22459 22466	thymine
+#1077	AnnotatorNotes T1077	CHEBI:30757 (thymin-1-yl group)
+T1078	sub 22515 22517	17
+#1078	AnnotatorNotes T1078	sub (null)
+T1079	sub 22524 22526	17
+#1079	AnnotatorNotes T1079	sub (null)
+T1080	CHEBI 22564 22571	thymine
+#1080	AnnotatorNotes T1080	CHEBI:30757 (thymin-1-yl group)
+T1081	GO_CC 22611 22623	Mcm helicase
+#1081	AnnotatorNotes T1081	GO:0042555 (MCM complex)
+T1082	GO_MF 22615 22623	helicase
+#1082	AnnotatorNotes T1082	GO:0004386 (helicase activity)
+T1083	independent_continuant 22615 22623	helicase
+#1083	AnnotatorNotes T1083	independent_continuant
+T1084	SO 22666 22675	sequences
+#1084	AnnotatorNotes T1084	SO:0000001 (region)
+T1085	EntrezGene 22685 22690	c-myc
+#1085	AnnotatorNotes T1085	EG:4609
+T1086	PR 22685 22690	c-myc
+#1086	AnnotatorNotes T1086	PR:000000084 (c-myc protein)
+T1087	italic 22687 22690	myc
+#1087	AnnotatorNotes T1087	italic (null)
+T1088	SO 22691 22697	origin
+#1088	AnnotatorNotes T1088	SO:0000296 (origin_of_replication)
+T1089	GO_CC 22707 22719	Mcm helicase
+#1089	AnnotatorNotes T1089	GO:0042555 (MCM complex)
+T1090	GO_MF 22711 22719	helicase
+#1090	AnnotatorNotes T1090	GO:0004386 (helicase activity)
+T1091	independent_continuant 22711 22719	helicase
+#1091	AnnotatorNotes T1091	independent_continuant
+T1092	SO 22762 22771	sequences
+#1092	AnnotatorNotes T1092	SO:0000001 (region)
+T1093	italic 22796 22797	n
+#1093	AnnotatorNotes T1093	italic (null)
+T1094	sub 22796 22797	n
+#1094	AnnotatorNotes T1094	sub (null)
+T1095	SO 22798 22804	tracts
+#1095	AnnotatorNotes T1095	SO:0000001 (region)
+T1096	EntrezGene 22822 22836	human lamin B2
+#1096	AnnotatorNotes T1096	EG:84823
+T1097	NCBITaxon 22822 22827	human
+#1097	AnnotatorNotes T1097	NCBITaxon:9606 (Homo sapiens)
+T1098	PR 22828 22836	lamin B2
+#1098	AnnotatorNotes T1098	PR:000009861 (lamin-B2)
+T1099	SO 22837 22843	origin
+#1099	AnnotatorNotes T1099	SO:0000296 (origin_of_replication)
+T1100	CHEBI 22849 22856	thymine
+#1100	AnnotatorNotes T1100	CHEBI:30757 (thymin-1-yl group)
+T1101	GO_CC 22910 22922	Mcm helicase
+#1101	AnnotatorNotes T1101	GO:0042555 (MCM complex)
+T1102	GO_MF 22914 22922	helicase
+#1102	AnnotatorNotes T1102	GO:0004386 (helicase activity)
+T1103	independent_continuant 22914 22922	helicase
+#1103	AnnotatorNotes T1103	independent_continuant
+T1104	SO 22940 22951	replacement
+#1104	AnnotatorNotes T1104	SO:0000048 (substitute)
+T1105	CHEBI 22955 22963	thymines
+#1105	AnnotatorNotes T1105	CHEBI:30757 (thymin-1-yl group)
+T1106	CHEBI 22969 22977	guanines
+#1106	AnnotatorNotes T1106	CHEBI:30755 (guanine group)
+T1107	GO_MF 22992 23000	helicase
+#1107	AnnotatorNotes T1107	GO:0004386 (helicase activity)
+T1108	independent_continuant 22992 23000	helicase
+#1108	AnnotatorNotes T1108	independent_continuant
+T1109	SO 23047 23054	natural
+#1109	AnnotatorNotes T1109	SO:0000782 (natural)
+T1110	SO 23055 23074	replication origins
+#1110	AnnotatorNotes T1110	SO:0000296 (origin_of_replication)
+T1111	GO_BP 23055 23066	replication
+#1111	AnnotatorNotes T1111	GO:0006260 (DNA replication)
+T1112	CHEBI 23090 23097	thymine
+#1112	AnnotatorNotes T1112	CHEBI:30757 (thymin-1-yl group)
+T1113	GO_CC 23135 23147	Mcm helicase
+#1113	AnnotatorNotes T1113	GO:0042555 (MCM complex)
+T1114	GO_MF 23139 23147	helicase
+#1114	AnnotatorNotes T1114	GO:0004386 (helicase activity)
+T1115	independent_continuant 23139 23147	helicase
+#1115	AnnotatorNotes T1115	independent_continuant
+T1116	GO_BP 23174 23185	constructed
+#1116	AnnotatorNotes T1116	GO:0009058 (biosynthetic process)
+T1117	EntrezGene 23215 23220	c-myc
+#1117	AnnotatorNotes T1117	EG:4609
+T1118	PR 23215 23220	c-myc
+#1118	AnnotatorNotes T1118	PR:000000084 (c-myc protein)
+T1119	italic 23217 23220	myc
+#1119	AnnotatorNotes T1119	italic (null)
+T1120	SO 23233 23242	sequences
+#1120	AnnotatorNotes T1120	SO:0000001 (region)
+T1121	GO_BP 23265 23278	DNA unwinding
+#1121	AnnotatorNotes T1121	GO:0032508 (DNA duplex unwinding)
+T1122	SO 23265 23268	DNA
+#1122	AnnotatorNotes T1122	SO:0000352 (DNA)
+T1123	SO 23288 23294	region
+#1123	AnnotatorNotes T1123	SO:0000001 (region)
+T1124	EntrezGene 23302 23313	human c-myc
+#1124	AnnotatorNotes T1124	EG:4609
+T1125	NCBITaxon 23302 23307	human
+#1125	AnnotatorNotes T1125	NCBITaxon:9606 (Homo sapiens)
+T1126	PR 23308 23313	c-myc
+#1126	AnnotatorNotes T1126	PR:000000084 (c-myc protein)
+T1127	italic 23310 23313	myc
+#1127	AnnotatorNotes T1127	italic (null)
+T1128	SO 23314 23320	origin
+#1128	AnnotatorNotes T1128	SO:0000296 (origin_of_replication)
+T1129	EntrezGene 23344 23349	c-myc
+#1129	AnnotatorNotes T1129	EG:4609
+T1130	PR 23344 23349	c-myc
+#1130	AnnotatorNotes T1130	PR:000000084 (c-myc protein)
+T1131	italic 23346 23349	myc
+#1131	AnnotatorNotes T1131	italic (null)
+T1132	SO 23383 23391	unpaired
+#1132	AnnotatorNotes T1132	SO:0000984 (single)
+T1133	SO 23392 23399	segment
+#1133	AnnotatorNotes T1133	SO:0000001 (region)
+T1134	EntrezGene 23409 23414	c-myc
+#1134	AnnotatorNotes T1134	EG:4609
+T1135	PR 23409 23414	c-myc
+#1135	AnnotatorNotes T1135	PR:000000084 (c-myc protein)
+T1136	italic 23411 23414	myc
+#1136	AnnotatorNotes T1136	italic (null)
+T1137	SO 23432 23438	strand
+#1137	AnnotatorNotes T1137	SO:0000001 (region)
+T1138	EntrezGene 23464 23469	c-myc
+#1138	AnnotatorNotes T1138	EG:4609
+T1139	PR 23464 23469	c-myc
+#1139	AnnotatorNotes T1139	PR:000000084 (c-myc protein)
+T1140	italic 23466 23469	myc
+#1140	AnnotatorNotes T1140	italic (null)
+T1141	SO 23493 23499	strand
+#1141	AnnotatorNotes T1141	SO:0000001 (region)
+T1142	GO_BP 23553 23560	unwound
+#1142	AnnotatorNotes T1142	GO:0032508 (DNA duplex unwinding)
+T1143	SO 23561 23567	region
+#1143	AnnotatorNotes T1143	SO:0000001 (region)
+T1144	EntrezGene 23575 23580	c-myc
+#1144	AnnotatorNotes T1144	EG:4609
+T1145	PR 23575 23580	c-myc
+#1145	AnnotatorNotes T1145	PR:000000084 (c-myc protein)
+T1146	italic 23577 23580	myc
+#1146	AnnotatorNotes T1146	italic (null)
+T1147	SO 23581 23587	origin
+#1147	AnnotatorNotes T1147	SO:0000296 (origin_of_replication)
+T1148	SO 23602 23610	deletion
+#1148	AnnotatorNotes T1148	SO:0000045 (delete)
+T1149	EntrezGene 23663 23667	Mcm4
+#1149	AnnotatorNotes T1149	EG:17217
+T1150	PR 23663 23667	Mcm4
+#1150	AnnotatorNotes T1150	PR:000010246 (DNA replication licensing factor MCM4)
+T1151	GO_BP 23672 23679	unwound
+#1151	AnnotatorNotes T1151	GO:0032508 (DNA duplex unwinding)
+T1152	EntrezGene 23686 23694	lamin B2
+#1152	AnnotatorNotes T1152	EG:84823
+T1153	PR 23686 23694	lamin B2
+#1153	AnnotatorNotes T1153	PR:000009861 (lamin-B2)
+T1154	CHEBI 23696 23703	thymine
+#1154	AnnotatorNotes T1154	CHEBI:30757 (thymin-1-yl group)
+T1155	EntrezGene 23716 23721	c-myc
+#1155	AnnotatorNotes T1155	EG:4609
+T1156	PR 23716 23721	c-myc
+#1156	AnnotatorNotes T1156	PR:000000084 (c-myc protein)
+T1157	italic 23718 23721	myc
+#1157	AnnotatorNotes T1157	italic (null)
+T1158	EntrezGene 23742 23747	c-myc
+#1158	AnnotatorNotes T1158	EG:4609
+T1159	PR 23742 23747	c-myc
+#1159	AnnotatorNotes T1159	PR:000000084 (c-myc protein)
+T1160	italic 23744 23747	myc
+#1160	AnnotatorNotes T1160	italic (null)
+T1161	SO 23817 23826	sequences
+#1161	AnnotatorNotes T1161	SO:0000001 (region)
+T1162	EntrezGene 23836 23841	c-myc
+#1162	AnnotatorNotes T1162	EG:4609
+T1163	PR 23836 23841	c-myc
+#1163	AnnotatorNotes T1163	PR:000000084 (c-myc protein)
+T1164	italic 23838 23841	myc
+#1164	AnnotatorNotes T1164	italic (null)
+T1165	SO 23842 23848	origin
+#1165	AnnotatorNotes T1165	SO:0000296 (origin_of_replication)
+T1166	GO_CC 23895 23907	Mcm helicase
+#1166	AnnotatorNotes T1166	GO:0042555 (MCM complex)
+T1167	GO_MF 23899 23907	helicase
+#1167	AnnotatorNotes T1167	GO:0004386 (helicase activity)
+T1168	independent_continuant 23899 23907	helicase
+#1168	AnnotatorNotes T1168	independent_continuant
+T1169	SO 23941 23950	sequences
+#1169	AnnotatorNotes T1169	SO:0000001 (region)
+T1170	CHEBI 23960 23967	thymine
+#1170	AnnotatorNotes T1170	CHEBI:30757 (thymin-1-yl group)
+T1171	EntrezGene 23989 23993	Mcm4
+#1171	AnnotatorNotes T1171	EG:17217
+T1172	PR 23989 23993	Mcm4
+#1172	AnnotatorNotes T1172	PR:000010246 (DNA replication licensing factor MCM4)
+T1173	GO_BP 24001 24009	displace
+#1173	AnnotatorNotes T1173	GO:0000732 (strand displacement)
+T1174	CHEBI 24013 24015	nt
+#1174	AnnotatorNotes T1174	CHEBI:25613 (nucleotidyl groups)
+T1175	SO 24013 24015	nt
+#1175	AnnotatorNotes T1175	SO:0001236 (base)
+T1176	CHEBI 24089 24096	thymine
+#1176	AnnotatorNotes T1176	CHEBI:30757 (thymin-1-yl group)
+T1177	SO 24118 24126	sequence
+#1177	AnnotatorNotes T1177	SO:0000001 (region)
+T1178	GO_CC 24150 24162	Mcm helicase
+#1178	AnnotatorNotes T1178	GO:0042555 (MCM complex)
+T1179	GO_MF 24154 24162	helicase
+#1179	AnnotatorNotes T1179	GO:0004386 (helicase activity)
+T1180	independent_continuant 24154 24162	helicase
+#1180	AnnotatorNotes T1180	independent_continuant
+T1181	EntrezGene 24197 24201	MCM4
+#1181	AnnotatorNotes T1181	EG:17217
+T1182	PR 24197 24201	MCM4
+#1182	AnnotatorNotes T1182	PR:000010246 (DNA replication licensing factor MCM4)
+T1183	GO_MF 24206 24211	bound
+#1183	AnnotatorNotes T1183	GO:0005488 (binding)
+T1184	EntrezGene 24269 24274	c-myc
+#1184	AnnotatorNotes T1184	EG:4609
+T1185	PR 24269 24274	c-myc
+#1185	AnnotatorNotes T1185	PR:000000084 (c-myc protein)
+T1186	italic 24271 24274	myc
+#1186	AnnotatorNotes T1186	italic (null)
+T1187	EntrezGene 24292 24297	c-myc
+#1187	AnnotatorNotes T1187	EG:4609
+T1188	PR 24292 24297	c-myc
+#1188	AnnotatorNotes T1188	PR:000000084 (c-myc protein)
+T1189	italic 24294 24297	myc
+#1189	AnnotatorNotes T1189	italic (null)
+T1190	EntrezGene 24342 24350	lamin B2
+#1190	AnnotatorNotes T1190	EG:84823
+T1191	PR 24342 24350	lamin B2
+#1191	AnnotatorNotes T1191	PR:000009861 (lamin-B2)
+T1192	independent_continuant 24375 24383	helicase
+#1192	AnnotatorNotes T1192	independent_continuant
+T1193	GO_MF 24375 24383	helicase
+#1193	AnnotatorNotes T1193	GO:0004386 (helicase activity)
+T1194	GO_MF 24388 24399	DNA binding
+#1194	AnnotatorNotes T1194	GO:0003677 (DNA binding)
+T1195	SO 24388 24391	DNA
+#1195	AnnotatorNotes T1195	SO:0000352 (DNA)
+T1196	CHEBI 24510 24517	guanine
+#1196	AnnotatorNotes T1196	CHEBI:30755 (guanine group)
+T1197	CHEBI 24522 24530	cytosine
+#1197	AnnotatorNotes T1197	CHEBI:30758 (cytosin-1-yl group)
+T1198	SO 24531 24540	stretches
+#1198	AnnotatorNotes T1198	SO:0000001 (region)
+T1199	GO_MF 24545 24549	bind
+#1199	AnnotatorNotes T1199	GO:0005488 (binding)
+T1200	GO_CC 24553 24556	Mcm
+#1200	AnnotatorNotes T1200	GO:0042555 (MCM complex)
+T1201	GO_MF 24581 24589	helicase
+#1201	AnnotatorNotes T1201	GO:0004386 (helicase activity)
+T1202	independent_continuant 24581 24589	helicase
+#1202	AnnotatorNotes T1202	independent_continuant
+T1203	GO_BP 24597 24610	DNA unwinding
+#1203	AnnotatorNotes T1203	GO:0032508 (DNA duplex unwinding)
+T1204	SO 24597 24600	DNA
+#1204	AnnotatorNotes T1204	SO:0000352 (DNA)
+T1205	EntrezGene 24614 24618	Mcm4
+#1205	AnnotatorNotes T1205	EG:17217
+T1206	PR 24614 24618	Mcm4
+#1206	AnnotatorNotes T1206	PR:000010246 (DNA replication licensing factor MCM4)
+T1207	SO 24651 24660	sequences
+#1207	AnnotatorNotes T1207	SO:0000001 (region)
+T1208	SO 24668 24674	duplex
+#1208	AnnotatorNotes T1208	SO:0000985 (double)
+T1209	SO 24675 24682	segment
+#1209	AnnotatorNotes T1209	SO:0000001 (region)
+T1210	CHEBI 24710 24717	thymine
+#1210	AnnotatorNotes T1210	CHEBI:30757 (thymin-1-yl group)
+T1211	SO 24723 24738	single-stranded
+#1211	AnnotatorNotes T1211	SO:0000984 (single)
+T1212	SO 24730 24738	stranded
+#1212	AnnotatorNotes T1212	SO:0000001 (region)
+T1213	SO 24739 24742	DNA
+#1213	AnnotatorNotes T1213	SO:0000352 (DNA)
+T1214	GO_CC 24797 24809	Mcm helicase
+#1214	AnnotatorNotes T1214	GO:0042555 (MCM complex)
+T1215	GO_MF 24801 24809	helicase
+#1215	AnnotatorNotes T1215	GO:0004386 (helicase activity)
+T1216	independent_continuant 24801 24809	helicase
+#1216	AnnotatorNotes T1216	independent_continuant
+T1217	CHEBI 24844 24851	thymine
+#1217	AnnotatorNotes T1217	CHEBI:30757 (thymin-1-yl group)
+T1218	SO 24852 24861	sequences
+#1218	AnnotatorNotes T1218	SO:0000001 (region)
+T1219	GO_BP 24890 24913	unwinding of duplex DNA
+#1219	AnnotatorNotes T1219	GO:0032508 (DNA duplex unwinding)
+T1220	SO 24903 24909	duplex
+#1220	AnnotatorNotes T1220	SO:0000985 (double)
+T1221	SO 24910 24913	DNA
+#1221	AnnotatorNotes T1221	SO:0000352 (DNA)
+T1222	CHEBI 24955 24965	nucleotide
+#1222	AnnotatorNotes T1222	CHEBI:25613 (nucleotidyl groups)
+T1223	SO 24955 24965	nucleotide
+#1223	AnnotatorNotes T1223	SO:0001236 (base)
+T1224	SO 24985 24991	duplex
+#1224	AnnotatorNotes T1224	SO:0000985 (double)
+T1225	SO 24992 24998	region
+#1225	AnnotatorNotes T1225	SO:0000001 (region)
+T1226	GO_BP 25011 25029	unwinding activity
+#1226	AnnotatorNotes T1226	GO:0032508 (DNA duplex unwinding)
+T1227	GO_BP 25057 25068	constructed
+#1227	AnnotatorNotes T1227	GO:0009058 (biosynthetic process)
+T1228	GO_CC 25092 25107	fork structures
+#1228	AnnotatorNotes T1228	GO:0005657 (replication fork)
+T1229	GO_CC 25111 25115	fork
+#1229	AnnotatorNotes T1229	GO:0005657 (replication fork)
+T1230	SO 25136 25145	sequences
+#1230	AnnotatorNotes T1230	SO:0000001 (region)
+T1231	SO 25153 25159	duplex
+#1231	AnnotatorNotes T1231	SO:0000985 (double)
+T1232	SO 25160 25167	segment
+#1232	AnnotatorNotes T1232	SO:0000001 (region)
+T1233	CHEBI 25201 25209	cytosine
+#1233	AnnotatorNotes T1233	CHEBI:16040 (cytosine)
+T1234	CHEBI 25210 25218	residues
+#1234	AnnotatorNotes T1234	CHEBI:33791 (canonical nucleoside residues)
+T1235	SO 25210 25218	residues
+#1235	AnnotatorNotes T1235	SO:0001236 (base)
+T1236	SO 25234 25240	strand
+#1236	AnnotatorNotes T1236	SO:0000001 (region)
+T1237	EntrezGene 25263 25267	Mcm4
+#1237	AnnotatorNotes T1237	EG:17217
+T1238	PR 25263 25267	Mcm4
+#1238	AnnotatorNotes T1238	PR:000010246 (DNA replication licensing factor MCM4)
+T1239	GO_MF 25272 25277	bound
+#1239	AnnotatorNotes T1239	GO:0005488 (binding)
+T1240	GO_CC 25289 25293	fork
+#1240	AnnotatorNotes T1240	GO:0005657 (replication fork)
+T1241	EntrezGene 25378 25382	Mcm4
+#1241	AnnotatorNotes T1241	EG:17217
+T1242	PR 25378 25382	Mcm4
+#1242	AnnotatorNotes T1242	PR:000010246 (DNA replication licensing factor MCM4)
+T1243	GO_MF 25387 25392	binds
+#1243	AnnotatorNotes T1243	GO:0005488 (binding)
+T1244	SO 25396 25411	single-stranded
+#1244	AnnotatorNotes T1244	SO:0000984 (single)
+T1245	SO 25403 25411	stranded
+#1245	AnnotatorNotes T1245	SO:0000001 (region)
+T1246	GO_MF 25431 25443	DNA helicase
+#1246	AnnotatorNotes T1246	GO:0003678 (DNA helicase activity)
+T1247	independent_continuant 25431 25443	DNA helicase
+#1247	AnnotatorNotes T1247	independent_continuant
+T1248	SO 25431 25434	DNA
+#1248	AnnotatorNotes T1248	SO:0000352 (DNA)
+T1249	GO_CC 25454 25458	fork
+#1249	AnnotatorNotes T1249	GO:0005657 (replication fork)
+T1250	sub 25464 25466	49
+#1250	AnnotatorNotes T1250	sub (null)
+T1251	GO_BP 25478 25487	displaced
+#1251	AnnotatorNotes T1251	GO:0000732 (strand displacement)
+T1252	EntrezGene 25491 25495	Mcm4
+#1252	AnnotatorNotes T1252	EG:17217
+T1253	PR 25491 25495	Mcm4
+#1253	AnnotatorNotes T1253	PR:000010246 (DNA replication licensing factor MCM4)
+T1254	GO_BP 25517 25526	displaced
+#1254	AnnotatorNotes T1254	GO:0000732 (strand displacement)
+T1255	EntrezGene 25530 25557	SV40 T-antigen DNA helicase
+#1255	AnnotatorNotes T1255	EG:1489531
+T1256	NCBITaxon 25530 25534	SV40
+#1256	AnnotatorNotes T1256	NCBITaxon:10633 (Simian virus 40)
+T1257	GO_MF 25545 25557	DNA helicase
+#1257	AnnotatorNotes T1257	GO:0003678 (DNA helicase activity)
+T1258	independent_continuant 25545 25557	DNA helicase
+#1258	AnnotatorNotes T1258	independent_continuant
+T1259	SO 25545 25548	DNA
+#1259	AnnotatorNotes T1259	SO:0000352 (DNA)
+T1260	CHEBI 25576 25583	thymine
+#1260	AnnotatorNotes T1260	CHEBI:30757 (thymin-1-yl group)
+T1261	CHEBI 25587 25594	adenine
+#1261	AnnotatorNotes T1261	CHEBI:30756 (adenine group)
+T1262	SO 25598 25606	inserted
+#1262	AnnotatorNotes T1262	SO:0000046 (insert)
+T1263	CHEBI 25622 25632	nucleotide
+#1263	AnnotatorNotes T1263	CHEBI:25613 (nucleotidyl groups)
+T1264	SO 25622 25632	nucleotide
+#1264	AnnotatorNotes T1264	SO:0001236 (base)
+T1265	SO 25634 25641	repeats
+#1265	AnnotatorNotes T1265	SO:0000726 (repeat_unit)
+T1266	SO 25634 25641	repeats
+#1266	AnnotatorNotes T1266	SO:0000657 (repeat_region)
+T1267	GO_BP 25672 25681	unwinding
+#1267	AnnotatorNotes T1267	GO:0032508 (DNA duplex unwinding)
+T1268	GO_CC 25695 25699	fork
+#1268	AnnotatorNotes T1268	GO:0005657 (replication fork)
+T1269	sub 25709 25711	16
+#1269	AnnotatorNotes T1269	sub (null)
+T1270	GO_CC 25718 25722	fork
+#1270	AnnotatorNotes T1270	GO:0005657 (replication fork)
+T1271	sub 25732 25734	16
+#1271	AnnotatorNotes T1271	sub (null)
+T1272	GO_BP 25755 25764	unwinding
+#1272	AnnotatorNotes T1272	GO:0032508 (DNA duplex unwinding)
+T1273	SO 25823 25829	duplex
+#1273	AnnotatorNotes T1273	SO:0000985 (double)
+T1274	SO 25830 25837	segment
+#1274	AnnotatorNotes T1274	SO:0000001 (region)
+T1275	GO_CC 25841 25845	fork
+#1275	AnnotatorNotes T1275	GO:0005657 (replication fork)
+T1276	sub 25857 25859	12
+#1276	AnnotatorNotes T1276	sub (null)
+T1277	GO_CC 25863 25867	fork
+#1277	AnnotatorNotes T1277	GO:0005657 (replication fork)
+T1278	sub 25879 25881	12
+#1278	AnnotatorNotes T1278	sub (null)
+T1279	GO_CC 25885 25889	fork
+#1279	AnnotatorNotes T1279	GO:0005657 (replication fork)
+T1280	sub 25901 25903	12
+#1280	AnnotatorNotes T1280	sub (null)
+T1281	GO_CC 25910 25914	fork
+#1281	AnnotatorNotes T1281	GO:0005657 (replication fork)
+T1282	sub 25926 25928	12
+#1282	AnnotatorNotes T1282	sub (null)
+T1283	SO 25962 25968	duplex
+#1283	AnnotatorNotes T1283	SO:0000985 (double)
+T1284	SO 25969 25976	segment
+#1284	AnnotatorNotes T1284	SO:0000001 (region)
+T1285	GO_BP 26017 26024	unwound
+#1285	AnnotatorNotes T1285	GO:0032508 (DNA duplex unwinding)
+T1286	SO 26078 26086	segments
+#1286	AnnotatorNotes T1286	SO:0000001 (region)
+T1287	SO 26113 26116	DNA
+#1287	AnnotatorNotes T1287	SO:0000352 (DNA)
+T1288	SO 26122 26137	single-stranded
+#1288	AnnotatorNotes T1288	SO:0000984 (single)
+T1289	SO 26129 26137	stranded
+#1289	AnnotatorNotes T1289	SO:0000001 (region)
+T1290	SO 26138 26146	circular
+#1290	AnnotatorNotes T1290	SO:0000988 (circular)
+T1291	SO 26147 26150	DNA
+#1291	AnnotatorNotes T1291	SO:0000352 (DNA)
+T1292	GO_BP 26160 26171	constructed
+#1292	AnnotatorNotes T1292	GO:0009058 (biosynthetic process)
+T1293	SO 26215 26218	DNA
+#1293	AnnotatorNotes T1293	SO:0000352 (DNA)
+T1294	SO 26241 26247	duplex
+#1294	AnnotatorNotes T1294	SO:0000985 (double)
+T1295	SO 26248 26255	regions
+#1295	AnnotatorNotes T1295	SO:0000001 (region)
+T1296	SO 26292 26298	vector
+#1296	AnnotatorNotes T1296	SO:0000440 (vector_replicon)
+T1297	SO 26340 26342	nt
+#1297	AnnotatorNotes T1297	SO:0001236 (base)
+T1298	CHEBI 26348 26349	G
+#1298	AnnotatorNotes T1298	CHEBI:30755 (guanine group)
+T1299	SO 26355 26362	segment
+#1299	AnnotatorNotes T1299	SO:0000001 (region)
+T1300	GO_MF 26381 26392	hybridizing
+#1300	AnnotatorNotes T1300	GO:0033592 (RNA strand annealing activity)
+T1301	GO_MF 26381 26392	hybridizing
+#1301	AnnotatorNotes T1301	GO:0000739 (DNA strand annealing activity)
+T1302	SO 26393 26408	oligonucleotide
+#1302	AnnotatorNotes T1302	SO:0000696 (oligo)
+T1303	EntrezGene 26428 26432	Mcm4
+#1303	AnnotatorNotes T1303	EG:17217
+T1304	PR 26428 26432	Mcm4
+#1304	AnnotatorNotes T1304	PR:000010246 (DNA replication licensing factor MCM4)
+T1305	GO_MF 26437 26445	helicase
+#1305	AnnotatorNotes T1305	GO:0004386 (helicase activity)
+T1306	independent_continuant 26437 26445	helicase
+#1306	AnnotatorNotes T1306	independent_continuant
+T1307	GO_BP 26450 26458	displace
+#1307	AnnotatorNotes T1307	GO:0000732 (strand displacement)
+T1308	SO 26459 26465	duplex
+#1308	AnnotatorNotes T1308	SO:0000985 (double)
+T1309	SO 26466 26469	DNA
+#1309	AnnotatorNotes T1309	SO:0000352 (DNA)
+T1310	SO 26480 26482	nt
+#1310	AnnotatorNotes T1310	SO:0001236 (base)
+T1311	GO_BP 26594 26606	displacement
+#1311	AnnotatorNotes T1311	GO:0000732 (strand displacement)
+T1312	SO 26638 26646	segments
+#1312	AnnotatorNotes T1312	SO:0000001 (region)
+T1313	GO_BP 26706 26718	displacement
+#1313	AnnotatorNotes T1313	GO:0000732 (strand displacement)
+T1314	SO 26729 26731	nt
+#1314	AnnotatorNotes T1314	SO:0001236 (base)
+T1315	EntrezGene 26810 26814	Mcm4
+#1315	AnnotatorNotes T1315	EG:17217
+T1316	PR 26810 26814	Mcm4
+#1316	AnnotatorNotes T1316	PR:000010246 (DNA replication licensing factor MCM4)
+T1317	GO_CC 26819 26826	complex
+#1317	AnnotatorNotes T1317	GO:0032991 (macromolecular complex)
+T1318	GO_CC 26869 26873	fork
+#1318	AnnotatorNotes T1318	GO:0005657 (replication fork)
+T1319	SO 26901 26907	duplex
+#1319	AnnotatorNotes T1319	SO:0000985 (double)
+T1320	SO 26908 26915	segment
+#1320	AnnotatorNotes T1320	SO:0000001 (region)
+T1321	GO_BP 26934 26943	unwinding
+#1321	AnnotatorNotes T1321	GO:0032508 (DNA duplex unwinding)
+T1322	GO_CC 26951 26963	Mcm helicase
+#1322	AnnotatorNotes T1322	GO:0042555 (MCM complex)
+T1323	GO_MF 26955 26963	helicase
+#1323	AnnotatorNotes T1323	GO:0004386 (helicase activity)
+T1324	independent_continuant 26955 26963	helicase
+#1324	AnnotatorNotes T1324	independent_continuant
+T1325	CHEBI 27013 27020	thymine
+#1325	AnnotatorNotes T1325	CHEBI:30757 (thymin-1-yl group)
+T1326	CHEBI 27021 27028	adenine
+#1326	AnnotatorNotes T1326	CHEBI:30756 (adenine group)
+T1327	SO 27029 27034	pairs
+#1327	AnnotatorNotes T1327	SO:0000028 (base_pair)
+T1328	SO 27067 27073	duplex
+#1328	AnnotatorNotes T1328	SO:0000985 (double)
+T1329	SO 27074 27080	region
+#1329	AnnotatorNotes T1329	SO:0000001 (region)
+T1330	GO_BP 27107 27116	unwinding
+#1330	AnnotatorNotes T1330	GO:0032508 (DNA duplex unwinding)
+T1331	EntrezGene 27120 27124	Mcm4
+#1331	AnnotatorNotes T1331	EG:17217
+T1332	PR 27120 27124	Mcm4
+#1332	AnnotatorNotes T1332	PR:000010246 (DNA replication licensing factor MCM4)
+T1333	EntrezGene 27145 27149	Mcm4
+#1333	AnnotatorNotes T1333	EG:17217
+T1334	PR 27145 27149	Mcm4
+#1334	AnnotatorNotes T1334	PR:000010246 (DNA replication licensing factor MCM4)
+T1335	GO_BP 27181 27189	displace
+#1335	AnnotatorNotes T1335	GO:0000732 (strand displacement)
+T1336	SO 27218 27229	base-paired
+#1336	AnnotatorNotes T1336	SO:0000028 (base_pair)
+T1337	SO 27218 27222	base
+#1337	AnnotatorNotes T1337	SO:0001236 (base)
+T1338	SO 27230 27237	segment
+#1338	AnnotatorNotes T1338	SO:0000001 (region)
+T1339	GO_CC 27309 27313	fork
+#1339	AnnotatorNotes T1339	GO:0005657 (replication fork)
+T1340	SO 27335 27354	inosine (I) residue
+#1340	AnnotatorNotes T1340	"inosine .. residue" SO:0001230 (inosine)
+T1341	CHEBI 27335 27342	inosine
+#1341	AnnotatorNotes T1341	CHEBI:17596 (inosine)
+T1342	CHEBI 27344 27345	I
+#1342	AnnotatorNotes T1342	CHEBI:17596 (inosine)
+T1343	SO 27344 27345	I
+#1343	AnnotatorNotes T1343	SO:0001230 (inosine)
+T1344	CHEBI 27347 27354	residue
+#1344	AnnotatorNotes T1344	CHEBI:33791 (canonical nucleoside residues)
+T1345	CHEBI 27366 27375	guanosine
+#1345	AnnotatorNotes T1345	CHEBI:16750 (guanosine)
+T1346	CHEBI 27376 27383	residue
+#1346	AnnotatorNotes T1346	CHEBI:33791 (canonical nucleoside residues)
+T1347	SO 27376 27383	residue
+#1347	AnnotatorNotes T1347	SO:0001236 (base)
+T1348	CHEBI 27414 27415	I
+#1348	AnnotatorNotes T1348	CHEBI:24849 (inosyl groups)
+T1349	SO 27414 27415	I
+#1349	AnnotatorNotes T1349	SO:0001230 (inosine)
+T1350	CHEBI 27416 27417	C
+#1350	AnnotatorNotes T1350	CHEBI:30758 (cytosin-1-yl group)
+T1351	SO 27418 27427	base pair
+#1351	AnnotatorNotes T1351	SO:0000028 (base_pair)
+T1352	SO 27418 27422	base
+#1352	AnnotatorNotes T1352	SO:0001236 (base)
+T1353	CHEBI 27454 27455	G
+#1353	AnnotatorNotes T1353	CHEBI:30755 (guanine group)
+T1354	CHEBI 27456 27457	C
+#1354	AnnotatorNotes T1354	CHEBI:30758 (cytosin-1-yl group)
+T1355	SO 27458 27467	base pair
+#1355	AnnotatorNotes T1355	SO:0000028 (base_pair)
+T1356	SO 27458 27462	base
+#1356	AnnotatorNotes T1356	SO:0001236 (base)
+T1357	SO 27471 27477	duplex
+#1357	AnnotatorNotes T1357	SO:0000985 (double)
+T1358	SO 27478 27481	DNA
+#1358	AnnotatorNotes T1358	SO:0000352 (DNA)
+T1359	CHEBI 27501 27509	hydrogen
+#1359	AnnotatorNotes T1359	CHEBI:49637 (hydrogen)
+T1360	CHEBI 27538 27539	A
+#1360	AnnotatorNotes T1360	CHEBI:30756 (adenine group)
+T1361	CHEBI 27540 27541	T
+#1361	AnnotatorNotes T1361	CHEBI:30757 (thymin-1-yl group)
+T1362	SO 27542 27551	base pair
+#1362	AnnotatorNotes T1362	SO:0000028 (base_pair)
+T1363	SO 27542 27546	base
+#1363	AnnotatorNotes T1363	SO:0001236 (base)
+T1364	GO_BP 27561 27572	constructed
+#1364	AnnotatorNotes T1364	GO:0009058 (biosynthetic process)
+T1365	GO_CC 27586 27590	fork
+#1365	AnnotatorNotes T1365	GO:0005657 (replication fork)
+T1366	sub 27626 27628	10
+#1366	AnnotatorNotes T1366	sub (null)
+T1367	sub 27639 27641	10
+#1367	AnnotatorNotes T1367	sub (null)
+T1368	sub 27654 27656	10
+#1368	AnnotatorNotes T1368	sub (null)
+T1369	SO 27657 27663	duplex
+#1369	AnnotatorNotes T1369	SO:0000985 (double)
+T1370	SO 27664 27675	DNA segment
+#1370	AnnotatorNotes T1370	SO:0000352 (DNA)
+T1371	EntrezGene 27689 27693	Mcm4
+#1371	AnnotatorNotes T1371	EG:17217
+T1372	PR 27689 27693	Mcm4
+#1372	AnnotatorNotes T1372	PR:000010246 (DNA replication licensing factor MCM4)
+T1373	GO_BP 27705 27714	displaced
+#1373	AnnotatorNotes T1373	GO:0000732 (strand displacement)
+T1374	CHEBI 27722 27724	nt
+#1374	AnnotatorNotes T1374	CHEBI:25613 (nucleotidyl groups)
+T1375	SO 27722 27724	nt
+#1375	AnnotatorNotes T1375	SO:0001236 (base)
+T1376	SO 27748 27755	repeats
+#1376	AnnotatorNotes T1376	SO:0000726 (repeat_unit)
+T1377	SO 27748 27755	repeats
+#1377	AnnotatorNotes T1377	SO:0000657 (repeat_region)
+T1378	GO_CC 27771 27775	fork
+#1378	AnnotatorNotes T1378	GO:0005657 (replication fork)
+T1379	sub 27785 27787	10
+#1379	AnnotatorNotes T1379	sub (null)
+T1380	GO_BP 27792 27801	displaced
+#1380	AnnotatorNotes T1380	GO:0000732 (strand displacement)
+T1381	GO_CC 27837 27841	fork
+#1381	AnnotatorNotes T1381	GO:0005657 (replication fork)
+T1382	sub 27851 27853	10
+#1382	AnnotatorNotes T1382	sub (null)
+T1383	GO_BP 27858 27867	displaced
+#1383	AnnotatorNotes T1383	GO:0000732 (strand displacement)
+T1384	GO_CC 27912 27916	fork
+#1384	AnnotatorNotes T1384	GO:0005657 (replication fork)
+T1385	sub 27926 27928	10
+#1385	AnnotatorNotes T1385	sub (null)
+T1386	SO 27973 27979	duplex
+#1386	AnnotatorNotes T1386	SO:0000985 (double)
+T1387	SO 27980 27987	segment
+#1387	AnnotatorNotes T1387	SO:0000001 (region)
+T1388	SO 28008 28017	base pair
+#1388	AnnotatorNotes T1388	SO:0000028 (base_pair)
+T1389	SO 28008 28012	base
+#1389	AnnotatorNotes T1389	SO:0001236 (base)
+T1390	EntrezGene 28051 28055	Mcm4
+#1390	AnnotatorNotes T1390	EG:17217
+T1391	PR 28051 28055	Mcm4
+#1391	AnnotatorNotes T1391	PR:000010246 (DNA replication licensing factor MCM4)
+T1392	GO_BP 28063 28071	displace
+#1392	AnnotatorNotes T1392	GO:0000732 (strand displacement)
+T1393	GO_MF 28097 28109	DNA helicase
+#1393	AnnotatorNotes T1393	GO:0003678 (DNA helicase activity)
+T1394	independent_continuant 28097 28109	DNA helicase
+#1394	AnnotatorNotes T1394	independent_continuant
+T1395	SO 28097 28100	DNA
+#1395	AnnotatorNotes T1395	SO:0000352 (DNA)
+T1396	GO_CC 28147 28164	replication forks
+#1396	AnnotatorNotes T1396	GO:0005657 (replication fork)
+T1397	GO_BP 28147 28158	replication
+#1397	AnnotatorNotes T1397	GO:0006260 (DNA replication)
+T1398	SO 28225 28244	replication origins
+#1398	AnnotatorNotes T1398	SO:0000296 (origin_of_replication)
+T1399	GO_BP 28225 28236	replication
+#1399	AnnotatorNotes T1399	GO:0006260 (DNA replication)
+T1400	GO_BP 28284 28295	replicative
+#1400	AnnotatorNotes T1400	GO:0006260 (DNA replication)
+T1401	GO_MF 28296 28305	helicases
+#1401	AnnotatorNotes T1401	GO:0004386 (helicase activity)
+T1402	independent_continuant 28296 28305	helicases
+#1402	AnnotatorNotes T1402	independent_continuant
+T1403	SO 28320 28323	DNA
+#1403	AnnotatorNotes T1403	SO:0000352 (DNA)
+T1404	CHEBI 28394 28403	molecular
+#1404	AnnotatorNotes T1404	CHEBI:23367 (molecular entity)
+T1405	GO_BP 28413 28442	initiation of DNA replication
+#1405	AnnotatorNotes T1405	GO:0006270 (DNA replication initiation)
+T1406	GO_BP 28427 28442	DNA replication
+#1406	AnnotatorNotes T1406	GO:0006260 (DNA replication)
+T1407	SO 28427 28430	DNA
+#1407	AnnotatorNotes T1407	SO:0000352 (DNA)
+T1408	GO_CC 28468 28471	Mcm
+#1408	AnnotatorNotes T1408	GO:0042555 (MCM complex)
+T1409	NCBITaxon 28500 28510	eukaryotic
+#1409	AnnotatorNotes T1409	NCBITaxon:2759 (Eukaryota)
+T1410	GO_BP 28511 28522	replicative
+#1410	AnnotatorNotes T1410	GO:0006260 (DNA replication)
+T1411	GO_MF 28523 28531	helicase
+#1411	AnnotatorNotes T1411	GO:0004386 (helicase activity)
+T1412	independent_continuant 28523 28531	helicase
+#1412	AnnotatorNotes T1412	independent_continuant
+T1413	GO_MF 28588 28595	binding
+#1413	AnnotatorNotes T1413	GO:0005488 (binding)
+T1414	independent_continuant 28600 28608	helicase
+#1414	AnnotatorNotes T1414	independent_continuant
+T1415	GO_MF 28600 28608	helicase
+#1415	AnnotatorNotes T1415	GO:0004386 (helicase activity)
+T1416	EntrezGene 28620 28630	mouse Mcm4
+#1416	AnnotatorNotes T1416	EG:17217
+T1417	NCBITaxon 28620 28625	mouse
+#1417	AnnotatorNotes T1417	NCBITaxon:10088 (Mus)
+T1418	PR 28626 28630	Mcm4
+#1418	AnnotatorNotes T1418	PR:000010246 (DNA replication licensing factor MCM4)
+T1419	GO_CC 28670 28696	fork and bubble structures
+#1419	AnnotatorNotes T1419	"fork .. structures" GO:0005657 (replication fork)
+T1420	GO_MF 28708 28715	binding
+#1420	AnnotatorNotes T1420	GO:0005488 (binding)
+T1421	EntrezGene 28734 28738	Mcm4
+#1421	AnnotatorNotes T1421	EG:17217
+T1422	PR 28734 28738	Mcm4
+#1422	AnnotatorNotes T1422	PR:000010246 (DNA replication licensing factor MCM4)
+T1423	GO_MF 28743 28751	helicase
+#1423	AnnotatorNotes T1423	GO:0004386 (helicase activity)
+T1424	independent_continuant 28743 28751	helicase
+#1424	AnnotatorNotes T1424	independent_continuant
+T1425	GO_BP 28775 28804	Initiation of DNA replication
+#1425	AnnotatorNotes T1425	GO:0006270 (DNA replication initiation)
+T1426	GO_BP 28789 28804	DNA replication
+#1426	AnnotatorNotes T1426	GO:0006260 (DNA replication)
+T1427	SO 28789 28792	DNA
+#1427	AnnotatorNotes T1427	SO:0000352 (DNA)
+T1428	GO_BP 28834 28855	melting of duplex DNA
+#1428	AnnotatorNotes T1428	GO:0032508 (DNA duplex unwinding)
+T1429	SO 28845 28851	duplex
+#1429	AnnotatorNotes T1429	SO:0000985 (double)
+T1430	SO 28852 28855	DNA
+#1430	AnnotatorNotes T1430	SO:0000352 (DNA)
+T1431	SO 28861 28880	replication origins
+#1431	AnnotatorNotes T1431	SO:0000296 (origin_of_replication)
+T1432	GO_BP 28861 28872	replication
+#1432	AnnotatorNotes T1432	GO:0006260 (DNA replication)
+T1433	GO_MF 28882 28891	Helicases
+#1433	AnnotatorNotes T1433	GO:0004386 (helicase activity)
+T1434	independent_continuant 28882 28891	Helicases
+#1434	AnnotatorNotes T1434	independent_continuant
+T1435	GO_CC 28908 28925	replication forks
+#1435	AnnotatorNotes T1435	GO:0005657 (replication fork)
+T1436	GO_BP 28908 28919	replication
+#1436	AnnotatorNotes T1436	GO:0006260 (DNA replication)
+T1437	GO_BP 28938 28944	melted
+#1437	AnnotatorNotes T1437	GO:0032508 (DNA duplex unwinding)
+T1438	SO 28945 28951	region
+#1438	AnnotatorNotes T1438	SO:0000001 (region)
+T1439	GO_MF 28974 28981	binding
+#1439	AnnotatorNotes T1439	GO:0005488 (binding)
+T1440	NCBITaxon 28986 28994	bacteria
+#1440	AnnotatorNotes T1440	NCBITaxon:2 (Bacteria)
+T1441	PR 29029 29033	Mcm4
+#1441	AnnotatorNotes T1441	PR:000010246 (DNA replication licensing factor MCM4)
+T1442	GO_MF 29100 29112	DNA helicase
+#1442	AnnotatorNotes T1442	GO:0003678 (DNA helicase activity)
+T1443	independent_continuant 29100 29112	DNA helicase
+#1443	AnnotatorNotes T1443	independent_continuant
+T1444	SO 29100 29103	DNA
+#1444	AnnotatorNotes T1444	SO:0000352 (DNA)
+T1445	GO_CC 29120 29125	forks
+#1445	AnnotatorNotes T1445	GO:0005657 (replication fork)
+T1446	EntrezGene 29147 29151	Mcm4
+#1446	AnnotatorNotes T1446	EG:17217
+T1447	PR 29147 29151	Mcm4
+#1447	AnnotatorNotes T1447	PR:000010246 (DNA replication licensing factor MCM4)
+T1448	GO_BP 29159 29165	unwind
+#1448	AnnotatorNotes T1448	GO:0032508 (DNA duplex unwinding)
+T1449	SO 29212 29218	duplex
+#1449	AnnotatorNotes T1449	SO:0000985 (double)
+T1450	SO 29219 29222	DNA
+#1450	AnnotatorNotes T1450	SO:0000352 (DNA)
+T1451	GO_CC 29257 29260	Mcm
+#1451	AnnotatorNotes T1451	GO:0042555 (MCM complex)
+T1452	SO 29287 29302	single-stranded
+#1452	AnnotatorNotes T1452	SO:0000984 (single)
+T1453	SO 29294 29302	stranded
+#1453	AnnotatorNotes T1453	SO:0000001 (region)
+T1454	SO 29303 29310	segment
+#1454	AnnotatorNotes T1454	SO:0000001 (region)
+T1455	PR 29343 29347	Mcm4
+#1455	AnnotatorNotes T1455	PR:000010246 (DNA replication licensing factor MCM4)
+T1456	GO_CC 29352 29359	complex
+#1456	AnnotatorNotes T1456	GO:0032991 (macromolecular complex)
+T1457	CHEBI 29391 29398	thymine
+#1457	AnnotatorNotes T1457	CHEBI:30757 (thymin-1-yl group)
+T1458	SO 29404 29413	sequences
+#1458	AnnotatorNotes T1458	SO:0000001 (region)
+T1459	SO 29425 29440	single-stranded
+#1459	AnnotatorNotes T1459	SO:0000984 (single)
+T1460	SO 29432 29440	stranded
+#1460	AnnotatorNotes T1460	SO:0000001 (region)
+T1461	SO 29441 29448	segment
+#1461	AnnotatorNotes T1461	SO:0000001 (region)
+T1462	GO_MF 29453 29461	helicase
+#1462	AnnotatorNotes T1462	GO:0004386 (helicase activity)
+T1463	independent_continuant 29453 29461	helicase
+#1463	AnnotatorNotes T1463	independent_continuant
+T1464	independent_continuant 29520 29528	helicase
+#1464	AnnotatorNotes T1464	independent_continuant
+T1465	GO_MF 29520 29528	helicase
+#1465	AnnotatorNotes T1465	GO:0004386 (helicase activity)
+T1466	EntrezGene 29539 29543	Mcm4
+#1466	AnnotatorNotes T1466	EG:17217
+T1467	PR 29539 29543	Mcm4
+#1467	AnnotatorNotes T1467	PR:000010246 (DNA replication licensing factor MCM4)
+T1468	SO 29551 29560	synthetic
+#1468	AnnotatorNotes T1468	SO:0000351 (synthetic_sequence)
+T1469	SO 29602 29610	unpaired
+#1469	AnnotatorNotes T1469	SO:0000984 (single)
+T1470	SO 29611 29617	region
+#1470	AnnotatorNotes T1470	SO:0000001 (region)
+T1471	CHEBI 29652 29654	nt
+#1471	AnnotatorNotes T1471	CHEBI:25613 (nucleotidyl groups)
+T1472	SO 29652 29654	nt
+#1472	AnnotatorNotes T1472	SO:0001236 (base)
+T1473	GO_BP 29674 29712	assembly of a double-hexameric complex
+#1473	AnnotatorNotes T1473	"assembly of .. complex" GO:0065003 (macromolecular complex assembly)
+T1474	GO_CC 29705 29712	complex
+#1474	AnnotatorNotes T1474	GO:0032991 (macromolecular complex)
+T1475	SO 29730 29733	DNA
+#1475	AnnotatorNotes T1475	SO:0000352 (DNA)
+T1476	EntrezGene 29746 29760	SV40 T-antigen
+#1476	AnnotatorNotes T1476	EG:1489525
+T1477	NCBITaxon 29746 29750	SV40
+#1477	AnnotatorNotes T1477	NCBITaxon:10633 (Simian virus 40)
+T1478	CHEBI 29761 29768	protein
+#1478	AnnotatorNotes T1478	CHEBI:36080 (proteins)
+T1479	SO 29796 29802	strand
+#1479	AnnotatorNotes T1479	SO:0000001 (region)
+T1480	SO 29810 29825	single-stranded
+#1480	AnnotatorNotes T1480	SO:0000984 (single)
+T1481	SO 29817 29825	stranded
+#1481	AnnotatorNotes T1481	SO:0000001 (region)
+T1482	SO 29826 29833	segment
+#1482	AnnotatorNotes T1482	SO:0000001 (region)
+T1483	CHEBI 29837 29838	T
+#1483	AnnotatorNotes T1483	CHEBI:30757 (thymin-1-yl group)
+T1484	SO 29855 29863	replaced
+#1484	AnnotatorNotes T1484	SO:0000048 (substitute)
+T1485	CHEBI 29867 29874	guanine
+#1485	AnnotatorNotes T1485	CHEBI:30755 (guanine group)
+T1486	SO 29880 29889	sequences
+#1486	AnnotatorNotes T1486	SO:0000001 (region)
+T1487	GO_BP 29909 29918	unwinding
+#1487	AnnotatorNotes T1487	GO:0032508 (DNA duplex unwinding)
+T1488	EntrezGene 29985 29989	Mcm4
+#1488	AnnotatorNotes T1488	EG:17217
+T1489	PR 29985 29989	Mcm4
+#1489	AnnotatorNotes T1489	PR:000010246 (DNA replication licensing factor MCM4)
+T1490	SO 30015 30017	nt
+#1490	AnnotatorNotes T1490	SO:0001236 (base)
+T1491	SO 30018 30033	single-stranded
+#1491	AnnotatorNotes T1491	SO:0000984 (single)
+T1492	SO 30025 30033	stranded
+#1492	AnnotatorNotes T1492	SO:0000001 (region)
+T1493	SO 30034 30045	DNA segment
+#1493	AnnotatorNotes T1493	SO:0000352 (DNA)
+T1494	SO 30108 30115	strands
+#1494	AnnotatorNotes T1494	SO:0000001 (region)
+T1495	GO_CC 30139 30143	fork
+#1495	AnnotatorNotes T1495	GO:0005657 (replication fork)
+T1496	EntrezGene 30149 30153	Mcm4
+#1496	AnnotatorNotes T1496	EG:17217
+T1497	PR 30149 30153	Mcm4
+#1497	AnnotatorNotes T1497	PR:000010246 (DNA replication licensing factor MCM4)
+T1498	GO_CC 30158 30165	complex
+#1498	AnnotatorNotes T1498	GO:0032991 (macromolecular complex)
+T1499	SO 30192 30207	single-stranded
+#1499	AnnotatorNotes T1499	SO:0000984 (single)
+T1500	SO 30199 30207	stranded
+#1500	AnnotatorNotes T1500	SO:0000001 (region)
+T1501	SO 30208 30218	DNA strand
+#1501	AnnotatorNotes T1501	SO:0000352 (DNA)
+T1502	SO 30212 30218	strand
+#1502	AnnotatorNotes T1502	SO:0000001 (region)
+T1503	GO_MF 30240 30244	bind
+#1503	AnnotatorNotes T1503	GO:0005488 (binding)
+T1504	GO_BP 30284 30291	forming
+#1504	AnnotatorNotes T1504	GO:0022607 (cellular component assembly)
+T1505	GO_BP 30383 30392	unwinding
+#1505	AnnotatorNotes T1505	GO:0032508 (DNA duplex unwinding)
+T1506	GO_BP 30515 30522	unwound
+#1506	AnnotatorNotes T1506	GO:0032508 (DNA duplex unwinding)
+T1507	SO 30523 30538	single-stranded
+#1507	AnnotatorNotes T1507	SO:0000984 (single)
+T1508	SO 30530 30538	stranded
+#1508	AnnotatorNotes T1508	SO:0000001 (region)
+T1509	SO 30539 30542	DNA
+#1509	AnnotatorNotes T1509	SO:0000352 (DNA)
+T1510	GO_MF 30610 30617	binding
+#1510	AnnotatorNotes T1510	GO:0005488 (binding)
+T1511	independent_continuant 30622 30630	helicase
+#1511	AnnotatorNotes T1511	independent_continuant
+T1512	GO_MF 30622 30630	helicase
+#1512	AnnotatorNotes T1512	GO:0004386 (helicase activity)
+T1513	EntrezGene 30642 30651	T-antigen
+#1513	AnnotatorNotes T1513	EG:1489525
+T1514	EntrezGene 30718 30722	Mcm4
+#1514	AnnotatorNotes T1514	EG:17217
+T1515	PR 30718 30722	Mcm4
+#1515	AnnotatorNotes T1515	PR:000010246 (DNA replication licensing factor MCM4)
+T1516	GO_CC 30743 30747	fork
+#1516	AnnotatorNotes T1516	GO:0005657 (replication fork)
+T1517	GO_BP 30748 30755	unwinds
+#1517	AnnotatorNotes T1517	GO:0032508 (DNA duplex unwinding)
+T1518	NCBITaxon 30808 30813	mouse
+#1518	AnnotatorNotes T1518	NCBITaxon:10088 (Mus)
+T1519	NCBITaxon 30818 30824	archea
+#1519	AnnotatorNotes T1519	NCBITaxon:2157 (Archaea)
+T1520	GO_CC 30825 30828	MCM
+#1520	AnnotatorNotes T1520	GO:0042555 (MCM complex)
+T1521	CHEBI 30845 30853	electron
+#1521	AnnotatorNotes T1521	CHEBI:10545 (electron)
+T1522	EntrezGene 30927 30947	SV40 large T-antigen
+#1522	AnnotatorNotes T1522	EG:1489531
+T1523	NCBITaxon 30927 30931	SV40
+#1523	AnnotatorNotes T1523	NCBITaxon:10633 (Simian virus 40)
+T1524	NCBITaxon 31009 31014	mouse
+#1524	AnnotatorNotes T1524	NCBITaxon:10088 (Mus)
+T1525	GO_CC 31015 31018	Mcm
+#1525	AnnotatorNotes T1525	GO:0042555 (MCM complex)
+T1526	SO 31031 31034	DNA
+#1526	AnnotatorNotes T1526	SO:0000352 (DNA)
+T1527	SO 31051 31059	sequence
+#1527	AnnotatorNotes T1527	SO:0000001 (region)
+T1528	EntrezGene 31076 31080	Mcm4
+#1528	AnnotatorNotes T1528	EG:17217
+T1529	PR 31076 31080	Mcm4
+#1529	AnnotatorNotes T1529	PR:000010246 (DNA replication licensing factor MCM4)
+T1530	GO_MF 31085 31093	helicase
+#1530	AnnotatorNotes T1530	GO:0004386 (helicase activity)
+T1531	independent_continuant 31085 31093	helicase
+#1531	AnnotatorNotes T1531	independent_continuant
+T1532	GO_MF 31106 31117	DNA binding
+#1532	AnnotatorNotes T1532	GO:0003677 (DNA binding)
+T1533	SO 31106 31109	DNA
+#1533	AnnotatorNotes T1533	SO:0000352 (DNA)
+T1534	EntrezGene 31139 31143	Mcm4
+#1534	AnnotatorNotes T1534	EG:17217
+T1535	PR 31139 31143	Mcm4
+#1535	AnnotatorNotes T1535	PR:000010246 (DNA replication licensing factor MCM4)
+T1536	GO_MF 31148 31153	binds
+#1536	AnnotatorNotes T1536	GO:0005488 (binding)
+T1537	SO 31185 31200	single-stranded
+#1537	AnnotatorNotes T1537	SO:0000984 (single)
+T1538	SO 31192 31200	stranded
+#1538	AnnotatorNotes T1538	SO:0000001 (region)
+T1539	SO 31201 31212	DNA regions
+#1539	AnnotatorNotes T1539	SO:0000352 (DNA)
+T1540	SO 31254 31269	single-stranded
+#1540	AnnotatorNotes T1540	SO:0000984 (single)
+T1541	SO 31261 31269	stranded
+#1541	AnnotatorNotes T1541	SO:0000001 (region)
+T1542	GO_BP 31284 31311	Unwinding of the duplex DNA
+#1542	AnnotatorNotes T1542	"Unwinding of .. duplex DNA" GO:0032508 (DNA duplex unwinding)
+T1543	SO 31301 31307	duplex
+#1543	AnnotatorNotes T1543	SO:0000985 (double)
+T1544	SO 31308 31311	DNA
+#1544	AnnotatorNotes T1544	SO:0000352 (DNA)
+T1545	SO 31323 31336	translocation
+#1545	AnnotatorNotes T1545	SO:0000049 (translocate)
+T1546	SO 31340 31355	single-stranded
+#1546	AnnotatorNotes T1546	SO:0000984 (single)
+T1547	SO 31347 31355	stranded
+#1547	AnnotatorNotes T1547	SO:0000001 (region)
+T1548	SO 31356 31359	DNA
+#1548	AnnotatorNotes T1548	SO:0000352 (DNA)
+T1549	independent_continuant 31419 31427	helicase
+#1549	AnnotatorNotes T1549	independent_continuant
+T1550	GO_MF 31419 31427	helicase
+#1550	AnnotatorNotes T1550	GO:0004386 (helicase activity)
+T1551	GO_CC 31440 31444	fork
+#1551	AnnotatorNotes T1551	GO:0005657 (replication fork)
+T1552	GO_BP 31453 31465	3′-extension
+#1552	AnnotatorNotes T1552	GO:0006272 (leading strand elongation)
+T1553	GO_CC 31479 31483	fork
+#1553	AnnotatorNotes T1553	GO:0005657 (replication fork)
+T1554	GO_CC 31491 31495	fork
+#1554	AnnotatorNotes T1554	GO:0005657 (replication fork)
+T1555	GO_BP 31507 31519	5′-extension
+#1555	AnnotatorNotes T1555	GO:0006273 (lagging strand elongation)
+T1556	SO 31572 31587	single-stranded
+#1556	AnnotatorNotes T1556	SO:0000984 (single)
+T1557	SO 31579 31587	stranded
+#1557	AnnotatorNotes T1557	SO:0000001 (region)
+T1558	SO 31588 31591	DNA
+#1558	AnnotatorNotes T1558	SO:0000352 (DNA)
+T1559	EntrezGene 31599 31603	Mcm4
+#1559	AnnotatorNotes T1559	EG:17217
+T1560	PR 31599 31603	Mcm4
+#1560	AnnotatorNotes T1560	PR:000010246 (DNA replication licensing factor MCM4)
+T1561	GO_BP 31612 31620	displace
+#1561	AnnotatorNotes T1561	GO:0000732 (strand displacement)
+T1562	GO_MF 31621 31630	annealing
+#1562	AnnotatorNotes T1562	GO:0033592 (RNA strand annealing activity)
+T1563	GO_MF 31621 31630	annealing
+#1563	AnnotatorNotes T1563	GO:0000739 (DNA strand annealing activity)
+T1564	SO 31631 31646	oligonucleotide
+#1564	AnnotatorNotes T1564	SO:0000696 (oligo)
+T1565	SO 31652 31660	circular
+#1565	AnnotatorNotes T1565	SO:0000988 (circular)
+T1566	SO 31661 31676	single-stranded
+#1566	AnnotatorNotes T1566	SO:0000984 (single)
+T1567	SO 31668 31676	stranded
+#1567	AnnotatorNotes T1567	SO:0000001 (region)
+T1568	SO 31677 31680	DNA
+#1568	AnnotatorNotes T1568	SO:0000352 (DNA)
+T1569	EntrezGene 31701 31711	mouse Mcm4
+#1569	AnnotatorNotes T1569	EG:17217
+T1570	NCBITaxon 31701 31706	mouse
+#1570	AnnotatorNotes T1570	NCBITaxon:10088 (Mus)
+T1571	PR 31707 31711	Mcm4
+#1571	AnnotatorNotes T1571	PR:000010246 (DNA replication licensing factor MCM4)
+T1572	GO_BP 31719 31725	unwind
+#1572	AnnotatorNotes T1572	GO:0032508 (DNA duplex unwinding)
+T1573	GO_BP 31726 31738	3′-extension
+#1573	AnnotatorNotes T1573	GO:0006272 (leading strand elongation)
+T1574	NCBITaxon 31756 31764	archaeal
+#1574	AnnotatorNotes T1574	NCBITaxon:2157 (Archaea)
+T1575	GO_CC 31765 31777	Mcm helicase
+#1575	AnnotatorNotes T1575	GO:0042555 (MCM complex)
+T1576	GO_MF 31769 31777	helicase
+#1576	AnnotatorNotes T1576	GO:0004386 (helicase activity)
+T1577	independent_continuant 31769 31777	helicase
+#1577	AnnotatorNotes T1577	independent_continuant
+T1578	EntrezGene 31789 31793	Mcm4
+#1578	AnnotatorNotes T1578	EG:2539164
+T1579	PR 31789 31793	Mcm4
+#1579	AnnotatorNotes T1579	PR:000010246 (DNA replication licensing factor MCM4)
+T1580	italic 31803 31810	S.pombe
+#1580	AnnotatorNotes T1580	italic (null)
+T1581	NCBITaxon 31803 31810	S.pombe
+#1581	AnnotatorNotes T1581	NCBITaxon:4896 (Schizosaccharomyces pombe)
+T1582	taxonomic_rank 31803 31810	S.pombe
+#1582	AnnotatorNotes T1582	taxonomic_rank (null)
+T1583	italic 31815 31827	S.cerevisiae
+#1583	AnnotatorNotes T1583	italic (null)
+T1584	NCBITaxon 31815 31827	S.cerevisiae
+#1584	AnnotatorNotes T1584	NCBITaxon:4932 (Saccharomyces cerevisiae)
+T1585	taxonomic_rank 31815 31827	S.cerevisiae
+#1585	AnnotatorNotes T1585	taxonomic_rank (null)
+T1586	NCBITaxon 31844 31852	archaeal
+#1586	AnnotatorNotes T1586	NCBITaxon:2157 (Archaea)
+T1587	GO_CC 31853 31856	Mcm
+#1587	AnnotatorNotes T1587	GO:0042555 (MCM complex)
+T1588	GO_BP 31861 31867	unwind
+#1588	AnnotatorNotes T1588	GO:0032508 (DNA duplex unwinding)
+T1589	GO_CC 31870 31874	fork
+#1589	AnnotatorNotes T1589	GO:0005657 (replication fork)
+T1590	NCBITaxon 31883 31893	eukaryotic
+#1590	AnnotatorNotes T1590	NCBITaxon:2759 (Eukaryota)
+T1591	PR 31894 31898	Mcm4
+#1591	AnnotatorNotes T1591	PR:000010246 (DNA replication licensing factor MCM4)
+T1592	GO_MF 31928 31933	binds
+#1592	AnnotatorNotes T1592	GO:0005488 (binding)
+T1593	SO 31937 31952	double-stranded
+#1593	AnnotatorNotes T1593	SO:0000985 (double)
+T1594	SO 31944 31952	stranded
+#1594	AnnotatorNotes T1594	SO:0000001 (region)
+T1595	SO 31953 31956	DNA
+#1595	AnnotatorNotes T1595	SO:0000352 (DNA)
+T1596	NCBITaxon 31995 32000	yeast
+#1596	AnnotatorNotes T1596	NCBITaxon:4894 (Schizosaccharomycetaceae)
+T1597	NCBITaxon 31995 32000	yeast
+#1597	AnnotatorNotes T1597	NCBITaxon:4892 (Saccharomycetales)
+T1598	GO_CC 32001 32014	Mcm helicases
+#1598	AnnotatorNotes T1598	GO:0042555 (MCM complex)
+T1599	GO_MF 32005 32014	helicases
+#1599	AnnotatorNotes T1599	GO:0004386 (helicase activity)
+T1600	independent_continuant 32005 32014	helicases
+#1600	AnnotatorNotes T1600	independent_continuant
+T1601	SO 32019 32030	translocate
+#1601	AnnotatorNotes T1601	SO:0000049 (translocate)
+T1602	SO 32034 32040	duplex
+#1602	AnnotatorNotes T1602	SO:0000985 (double)
+T1603	SO 32041 32044	DNA
+#1603	AnnotatorNotes T1603	SO:0000352 (DNA)
+T1604	NCBITaxon 32082 32091	mammalian
+#1604	AnnotatorNotes T1604	NCBITaxon:40674 (Mammalia)
+T1605	PR 32092 32096	Mcm4
+#1605	AnnotatorNotes T1605	PR:000010246 (DNA replication licensing factor MCM4)
+T1606	SO 32142 32151	sequences
+#1606	AnnotatorNotes T1606	SO:0000001 (region)
+T1607	CHEBI 32185 32192	adenine
+#1607	AnnotatorNotes T1607	CHEBI:30756 (adenine group)
+T1608	CHEBI 32197 32204	thymine
+#1608	AnnotatorNotes T1608	CHEBI:30757 (thymin-1-yl group)
+T1609	SO 32215 32234	replication origins
+#1609	AnnotatorNotes T1609	SO:0000296 (origin_of_replication)
+T1610	GO_BP 32215 32226	replication
+#1610	AnnotatorNotes T1610	GO:0006260 (DNA replication)
+T1611	GO_CC 32260 32263	Mcm
+#1611	AnnotatorNotes T1611	GO:0042555 (MCM complex)
+T1612	SO 32307 32312	sites
+#1612	AnnotatorNotes T1612	SO:0000001 (region)
+T1613	NCBITaxon 32316 32325	mammalian
+#1613	AnnotatorNotes T1613	NCBITaxon:40674 (Mammalia)
+T1614	GO_BP 32326 32341	DNA replication
+#1614	AnnotatorNotes T1614	GO:0006260 (DNA replication)
+T1615	SO 32326 32329	DNA
+#1615	AnnotatorNotes T1615	SO:0000352 (DNA)
+T1616	SO 32385 32394	sequences
+#1616	AnnotatorNotes T1616	SO:0000001 (region)
+T1617	NCBITaxon 32400 32405	human
+#1617	AnnotatorNotes T1617	NCBITaxon:9606 (Homo sapiens)
+T1618	SO 32406 32425	replication origins
+#1618	AnnotatorNotes T1618	SO:0000296 (origin_of_replication)
+T1619	GO_BP 32406 32417	replication
+#1619	AnnotatorNotes T1619	GO:0006260 (DNA replication)
+T1620	EntrezGene 32438 32442	Mcm4
+#1620	AnnotatorNotes T1620	EG:17217
+T1621	PR 32438 32442	Mcm4
+#1621	AnnotatorNotes T1621	PR:000010246 (DNA replication licensing factor MCM4)
+T1622	GO_MF 32447 32455	helicase
+#1622	AnnotatorNotes T1622	GO:0004386 (helicase activity)
+T1623	independent_continuant 32447 32455	helicase
+#1623	AnnotatorNotes T1623	independent_continuant
+T1624	EntrezGene 32462 32470	lamin-B2
+#1624	AnnotatorNotes T1624	EG:84823
+T1625	PR 32462 32470	lamin-B2
+#1625	AnnotatorNotes T1625	PR:000009861 (lamin-B2)
+T1626	EntrezGene 32475 32480	c-myc
+#1626	AnnotatorNotes T1626	EG:4609
+T1627	PR 32475 32480	c-myc
+#1627	AnnotatorNotes T1627	PR:000000084 (c-myc protein)
+T1628	italic 32477 32480	myc
+#1628	AnnotatorNotes T1628	italic (null)
+T1629	SO 32481 32488	origins
+#1629	AnnotatorNotes T1629	SO:0000296 (origin_of_replication)
+T1630	GO_CC 32523 32535	Mcm helicase
+#1630	AnnotatorNotes T1630	GO:0042555 (MCM complex)
+T1631	GO_MF 32527 32535	helicase
+#1631	AnnotatorNotes T1631	GO:0004386 (helicase activity)
+T1632	independent_continuant 32527 32535	helicase
+#1632	AnnotatorNotes T1632	independent_continuant
+T1633	italic 32536 32544	in vitro
+#1633	AnnotatorNotes T1633	italic (null)
+T1634	SO 32566 32570	site
+#1634	AnnotatorNotes T1634	SO:0000001 (region)
+T1635	GO_CC 32591 32594	Mcm
+#1635	AnnotatorNotes T1635	GO:0042555 (MCM complex)
+T1636	GO_BP 32602 32628	DNA replication initiation
+#1636	AnnotatorNotes T1636	GO:0006270 (DNA replication initiation)
+T1637	GO_BP 32602 32617	DNA replication
+#1637	AnnotatorNotes T1637	GO:0006260 (DNA replication)
+T1638	SO 32602 32605	DNA
+#1638	AnnotatorNotes T1638	SO:0000352 (DNA)
+T1639	SO 32629 32633	zone
+#1639	AnnotatorNotes T1639	SO:0000001 (region)
+T1640	EntrezGene 32641 32646	c-myc
+#1640	AnnotatorNotes T1640	EG:4609
+T1641	PR 32641 32646	c-myc
+#1641	AnnotatorNotes T1641	PR:000000084 (c-myc protein)
+T1642	italic 32643 32646	myc
+#1642	AnnotatorNotes T1642	italic (null)
+T1643	SO 32717 32725	sequence
+#1643	AnnotatorNotes T1643	SO:0000001 (region)
+T1644	SO 32741 32756	single-stranded
+#1644	AnnotatorNotes T1644	SO:0000984 (single)
+T1645	SO 32748 32756	stranded
+#1645	AnnotatorNotes T1645	SO:0000001 (region)
+T1646	SO 32757 32760	DNA
+#1646	AnnotatorNotes T1646	SO:0000352 (DNA)
+T1647	independent_continuant 32768 32776	helicase
+#1647	AnnotatorNotes T1647	independent_continuant
+T1648	GO_MF 32768 32776	helicase
+#1648	AnnotatorNotes T1648	GO:0004386 (helicase activity)
+T1649	GO_CC 32789 32792	Mcm
+#1649	AnnotatorNotes T1649	GO:0042555 (MCM complex)
+T1650	CHEBI 32820 32827	thymine
+#1650	AnnotatorNotes T1650	CHEBI:30757 (thymin-1-yl group)
+T1651	independent_continuant 32873 32881	helicase
+#1651	AnnotatorNotes T1651	independent_continuant
+T1652	GO_MF 32873 32881	helicase
+#1652	AnnotatorNotes T1652	GO:0004386 (helicase activity)
+T1653	GO_BP 32910 32922	displacement
+#1653	AnnotatorNotes T1653	GO:0000732 (strand displacement)
+T1654	CHEBI 32940 32947	thymine
+#1654	AnnotatorNotes T1654	CHEBI:30757 (thymin-1-yl group)
+T1655	SO 33002 33011	stretches
+#1655	AnnotatorNotes T1655	SO:0000001 (region)
+T1656	CHEBI 33015 33022	thymine
+#1656	AnnotatorNotes T1656	CHEBI:17821 (thymine)
+T1657	CHEBI 33023 33031	residues
+#1657	AnnotatorNotes T1657	CHEBI:33791 (canonical nucleoside residues)
+T1658	SO 33023 33031	residues
+#1658	AnnotatorNotes T1658	SO:0001236 (base)
+T1659	SO 33071 33078	repeats
+#1659	AnnotatorNotes T1659	SO:0000726 (repeat_unit)
+T1660	SO 33071 33078	repeats
+#1660	AnnotatorNotes T1660	SO:0000657 (repeat_region)
+T1661	EntrezGene 33132 33136	Mcm4
+#1661	AnnotatorNotes T1661	EG:17217
+T1662	PR 33132 33136	Mcm4
+#1662	AnnotatorNotes T1662	PR:000010246 (DNA replication licensing factor MCM4)
+T1663	SO 33181 33200	secondary structure
+#1663	AnnotatorNotes T1663	SO:0001078 (polypeptide_secondary_structure)
+T1664	SO 33212 33227	single-stranded
+#1664	AnnotatorNotes T1664	SO:0000984 (single)
+T1665	SO 33219 33227	stranded
+#1665	AnnotatorNotes T1665	SO:0000001 (region)
+T1666	SO 33228 33231	DNA
+#1666	AnnotatorNotes T1666	SO:0000352 (DNA)
+T1667	independent_continuant 33250 33258	helicase
+#1667	AnnotatorNotes T1667	independent_continuant
+T1668	GO_MF 33250 33258	helicase
+#1668	AnnotatorNotes T1668	GO:0004386 (helicase activity)
+T1669	GO_MF 33267 33275	Nuclease
+#1669	AnnotatorNotes T1669	GO:0004518 (nuclease activity)
+T1670	independent_continuant 33267 33275	Nuclease
+#1670	AnnotatorNotes T1670	independent_continuant
+T1671	GO_MF 33311 33318	binding
+#1671	AnnotatorNotes T1671	GO:0005488 (binding)
+T1672	SO 33341 33360	secondary structure
+#1672	AnnotatorNotes T1672	SO:0001078 (polypeptide_secondary_structure)
+T1673	EntrezGene 33408 33412	Mcm4
+#1673	AnnotatorNotes T1673	EG:17217
+T1674	PR 33408 33412	Mcm4
+#1674	AnnotatorNotes T1674	PR:000010246 (DNA replication licensing factor MCM4)
+T1675	GO_MF 33417 33425	helicase
+#1675	AnnotatorNotes T1675	GO:0004386 (helicase activity)
+T1676	independent_continuant 33417 33425	helicase
+#1676	AnnotatorNotes T1676	independent_continuant
+T1677	SO 33474 33489	single-stranded
+#1677	AnnotatorNotes T1677	SO:0000984 (single)
+T1678	SO 33481 33489	stranded
+#1678	AnnotatorNotes T1678	SO:0000001 (region)
+T1679	SO 33490 33493	DNA
+#1679	AnnotatorNotes T1679	SO:0000352 (DNA)
+T1680	CHEBI 33499 33506	thymine
+#1680	AnnotatorNotes T1680	CHEBI:30757 (thymin-1-yl group)
+T1681	SO 33584 33587	DNA
+#1681	AnnotatorNotes T1681	SO:0000352 (DNA)
+T1682	CHEBI 33598 33605	thymine
+#1682	AnnotatorNotes T1682	CHEBI:30757 (thymin-1-yl group)
+T1683	SO 33646 33654	sequence
+#1683	AnnotatorNotes T1683	SO:0000001 (region)
+T1684	GO_CC 33671 33683	Mcm helicase
+#1684	AnnotatorNotes T1684	GO:0042555 (MCM complex)
+T1685	GO_MF 33675 33683	helicase
+#1685	AnnotatorNotes T1685	GO:0004386 (helicase activity)
+T1686	independent_continuant 33675 33683	helicase
+#1686	AnnotatorNotes T1686	independent_continuant
+T1687	SO 33769 33777	sequence
+#1687	AnnotatorNotes T1687	SO:0000001 (region)
+T1688	GO_BP 33851 33861	regulation
+#1688	AnnotatorNotes T1688	GO:0065007 (biological regulation)
+T1689	SO 33865 33869	site
+#1689	AnnotatorNotes T1689	SO:0000001 (region)
+T1690	GO_BP 33884 33913	initiation of DNA replication
+#1690	AnnotatorNotes T1690	GO:0006270 (DNA replication initiation)
+T1691	GO_BP 33898 33913	DNA replication
+#1691	AnnotatorNotes T1691	GO:0006260 (DNA replication)
+T1692	SO 33898 33901	DNA
+#1692	AnnotatorNotes T1692	SO:0000352 (DNA)
+T1693	GO_BP 33921 33932	development
+#1693	AnnotatorNotes T1693	GO:0032502 (developmental process)
+T1694	CL 33947 33951	cell
+#1694	AnnotatorNotes T1694	CL:0000000 (cell)
+T1695	GO_CC 33947 33951	cell
+#1695	AnnotatorNotes T1695	GO:0005623 (cell)
+T1696	SO 34018 34036	replication origin
+#1696	AnnotatorNotes T1696	SO:0000296 (origin_of_replication)
+T1697	GO_BP 34018 34029	replication
+#1697	AnnotatorNotes T1697	GO:0006260 (DNA replication)
+T1698	SO 34044 34050	genome
+#1698	AnnotatorNotes T1698	SO:0001026 (genome)
+T1699	CL 34074 34078	cell
+#1699	AnnotatorNotes T1699	CL:0000000 (cell)
+T1700	GO_CC 34074 34078	cell
+#1700	AnnotatorNotes T1700	GO:0005623 (cell)
+T1701	EntrezGene 34086 34090	Mcm4
+#1701	AnnotatorNotes T1701	EG:17217
+T1702	PR 34086 34090	Mcm4
+#1702	AnnotatorNotes T1702	PR:000010246 (DNA replication licensing factor MCM4)
+T1703	GO_MF 34095 34103	helicase
+#1703	AnnotatorNotes T1703	GO:0004386 (helicase activity)
+T1704	independent_continuant 34095 34103	helicase
+#1704	AnnotatorNotes T1704	independent_continuant
+T1705	GO_BP 34122 34131	unwinding
+#1705	AnnotatorNotes T1705	GO:0032508 (DNA duplex unwinding)
+T1706	GO_CC 34139 34143	fork
+#1706	AnnotatorNotes T1706	GO:0005657 (replication fork)
+T1707	SO 34173 34188	single-stranded
+#1707	AnnotatorNotes T1707	SO:0000984 (single)
+T1708	SO 34180 34188	stranded
+#1708	AnnotatorNotes T1708	SO:0000001 (region)
+T1709	CHEBI 34189 34196	thymine
+#1709	AnnotatorNotes T1709	CHEBI:17821 (thymine)
+T1710	CHEBI 34197 34205	residues
+#1710	AnnotatorNotes T1710	CHEBI:33791 (canonical nucleoside residues)
+T1711	SO 34197 34205	residues
+#1711	AnnotatorNotes T1711	SO:0001236 (base)
+T1712	GO_CC 34224 34236	Mcm helicase
+#1712	AnnotatorNotes T1712	GO:0042555 (MCM complex)
+T1713	GO_MF 34228 34236	helicase
+#1713	AnnotatorNotes T1713	GO:0004386 (helicase activity)
+T1714	independent_continuant 34228 34236	helicase
+#1714	AnnotatorNotes T1714	independent_continuant
+T1715	GO_BP 34306 34329	unwinding of duplex DNA
+#1715	AnnotatorNotes T1715	GO:0032508 (DNA duplex unwinding)
+T1716	SO 34319 34325	duplex
+#1716	AnnotatorNotes T1716	SO:0000985 (double)
+T1717	SO 34326 34329	DNA
+#1717	AnnotatorNotes T1717	SO:0000352 (DNA)
+T1718	SO 34373 34377	pair
+#1718	AnnotatorNotes T1718	SO:0000028 (base_pair)
+T1719	SO 34385 34391	duplex
+#1719	AnnotatorNotes T1719	SO:0000985 (double)
+T1720	SO 34392 34399	segment
+#1720	AnnotatorNotes T1720	SO:0000001 (region)
+T1721	GO_CC 34428 34440	Mcm helicase
+#1721	AnnotatorNotes T1721	GO:0042555 (MCM complex)
+T1722	independent_continuant 34432 34440	helicase
+#1722	AnnotatorNotes T1722	independent_continuant
+T1723	GO_MF 34432 34440	helicase
+#1723	AnnotatorNotes T1723	GO:0004386 (helicase activity)
+T1724	SO 34451 34457	Duplex
+#1724	AnnotatorNotes T1724	SO:0000985 (double)
+T1725	SO 34458 34461	DNA
+#1725	AnnotatorNotes T1725	SO:0000352 (DNA)
+T1726	SO 34482 34487	pairs
+#1726	AnnotatorNotes T1726	SO:0000028 (base_pair)
+T1727	SO 34492 34499	repeats
+#1727	AnnotatorNotes T1727	SO:0000726 (repeat_unit)
+T1728	SO 34492 34499	repeats
+#1728	AnnotatorNotes T1728	SO:0000657 (repeat_region)
+T1729	GO_CC 34515 34519	fork
+#1729	AnnotatorNotes T1729	GO:0005657 (replication fork)
+T1730	GO_BP 34528 34537	displaced
+#1730	AnnotatorNotes T1730	GO:0000732 (strand displacement)
+T1731	GO_BP 34582 34591	displaced
+#1731	AnnotatorNotes T1731	GO:0000732 (strand displacement)
+T1732	EntrezGene 34595 34609	SV40 T-antigen
+#1732	AnnotatorNotes T1732	EG:1489525
+T1733	NCBITaxon 34595 34599	SV40
+#1733	AnnotatorNotes T1733	NCBITaxon:10633 (Simian virus 40)
+T1734	GO_CC 34623 34635	Mcm helicase
+#1734	AnnotatorNotes T1734	GO:0042555 (MCM complex)
+T1735	GO_MF 34627 34635	helicase
+#1735	AnnotatorNotes T1735	GO:0004386 (helicase activity)
+T1736	independent_continuant 34627 34635	helicase
+#1736	AnnotatorNotes T1736	independent_continuant
+T1737	SO 34677 34683	duplex
+#1737	AnnotatorNotes T1737	SO:0000985 (double)
+T1738	SO 34684 34691	segment
+#1738	AnnotatorNotes T1738	SO:0000001 (region)
+T1739	SO 34702 34710	circular
+#1739	AnnotatorNotes T1739	SO:0000988 (circular)
+T1740	SO 34711 34726	single-stranded
+#1740	AnnotatorNotes T1740	SO:0000984 (single)
+T1741	SO 34718 34726	stranded
+#1741	AnnotatorNotes T1741	SO:0000001 (region)
+T1742	EntrezGene 34787 34791	Mcm4
+#1742	AnnotatorNotes T1742	EG:17217
+T1743	PR 34787 34791	Mcm4
+#1743	AnnotatorNotes T1743	PR:000010246 (DNA replication licensing factor MCM4)
+T1744	GO_BP 34808 34816	displace
+#1744	AnnotatorNotes T1744	GO:0000732 (strand displacement)
+T1745	SO 34817 34820	DNA
+#1745	AnnotatorNotes T1745	SO:0000352 (DNA)
+T1746	SO 34838 34844	region
+#1746	AnnotatorNotes T1746	SO:0000001 (region)
+T1747	GO_CC 34955 34958	Mcm
+#1747	AnnotatorNotes T1747	GO:0042555 (MCM complex)
+T1748	SO 34978 34986	circular
+#1748	AnnotatorNotes T1748	SO:0000988 (circular)
+T1749	SO 34987 35002	single-stranded
+#1749	AnnotatorNotes T1749	SO:0000984 (single)
+T1750	SO 34994 35002	stranded
+#1750	AnnotatorNotes T1750	SO:0000001 (region)
+T1751	SO 35003 35006	DNA
+#1751	AnnotatorNotes T1751	SO:0000352 (DNA)
+T1752	CHEBI 35049 35051	nt
+#1752	AnnotatorNotes T1752	CHEBI:25613 (nucleotidyl groups)
+T1753	SO 35049 35051	nt
+#1753	AnnotatorNotes T1753	SO:0001236 (base)
+T1754	SO 35065 35068	DNA
+#1754	AnnotatorNotes T1754	SO:0000352 (DNA)
+T1755	GO_CC 35078 35082	fork
+#1755	AnnotatorNotes T1755	GO:0005657 (replication fork)
+T1756	independent_continuant 35108 35116	helicase
+#1756	AnnotatorNotes T1756	independent_continuant
+T1757	GO_MF 35108 35116	helicase
+#1757	AnnotatorNotes T1757	GO:0004386 (helicase activity)
+T1758	GO_CC 35155 35158	Mcm
+#1758	AnnotatorNotes T1758	GO:0042555 (MCM complex)
+T1759	SO 35200 35206	random
+#1759	AnnotatorNotes T1759	SO:0000449 (random_sequence)
+T1760	SO 35208 35216	sequence
+#1760	AnnotatorNotes T1760	SO:0000001 (region)
+T1761	GO_BP 35234 35241	unwound
+#1761	AnnotatorNotes T1761	GO:0032508 (DNA duplex unwinding)
+T1762	SO 35242 35248	duplex
+#1762	AnnotatorNotes T1762	SO:0000985 (double)
+T1763	SO 35249 35256	segment
+#1763	AnnotatorNotes T1763	SO:0000001 (region)
+T1764	GO_CC 35295 35307	Mcm helicase
+#1764	AnnotatorNotes T1764	GO:0042555 (MCM complex)
+T1765	GO_MF 35299 35307	helicase
+#1765	AnnotatorNotes T1765	GO:0004386 (helicase activity)
+T1766	independent_continuant 35299 35307	helicase
+#1766	AnnotatorNotes T1766	independent_continuant
+T1767	GO_BP 35348 35356	displace
+#1767	AnnotatorNotes T1767	GO:0000732 (strand displacement)
+T1768	SO 35369 35375	duplex
+#1768	AnnotatorNotes T1768	SO:0000985 (double)
+T1769	SO 35376 35383	segment
+#1769	AnnotatorNotes T1769	SO:0000001 (region)
+T1770	GO_CC 35391 35395	fork
+#1770	AnnotatorNotes T1770	GO:0005657 (replication fork)
+T1771	SO 35423 35433	base pairs
+#1771	AnnotatorNotes T1771	SO:0000028 (base_pair)
+T1772	SO 35423 35427	base
+#1772	AnnotatorNotes T1772	SO:0001236 (base)
+T1773	SO 35452 35459	repeats
+#1773	AnnotatorNotes T1773	SO:0000726 (repeat_unit)
+T1774	SO 35452 35459	repeats
+#1774	AnnotatorNotes T1774	SO:0000657 (repeat_region)
+T1775	GO_BP 35481 35490	unwinding
+#1775	AnnotatorNotes T1775	GO:0032508 (DNA duplex unwinding)
+T1776	CHEBI 35527 35534	thymine
+#1776	AnnotatorNotes T1776	CHEBI:17821 (thymine)
+T1777	CHEBI 35535 35543	residues
+#1777	AnnotatorNotes T1777	CHEBI:33791 (canonical nucleoside residues)
+T1778	SO 35535 35543	residues
+#1778	AnnotatorNotes T1778	SO:0001236 (base)
+T1779	SO 35564 35570	duplex
+#1779	AnnotatorNotes T1779	SO:0000985 (double)
+T1780	SO 35571 35574	DNA
+#1780	AnnotatorNotes T1780	SO:0000352 (DNA)
+T1781	GO_BP 35590 35599	unwinding
+#1781	AnnotatorNotes T1781	GO:0032508 (DNA duplex unwinding)
+T1782	EntrezGene 35609 35613	Mcm4
+#1782	AnnotatorNotes T1782	EG:17217
+T1783	PR 35609 35613	Mcm4
+#1783	AnnotatorNotes T1783	PR:000010246 (DNA replication licensing factor MCM4)
+T1784	GO_BP 35652 35658	unwind
+#1784	AnnotatorNotes T1784	GO:0032508 (DNA duplex unwinding)
+T1785	SO 35673 35678	pairs
+#1785	AnnotatorNotes T1785	SO:0000028 (base_pair)
+T1786	SO 35680 35691	Replacement
+#1786	AnnotatorNotes T1786	SO:0000048 (substitute)
+T1787	CHEBI 35707 35716	guanosine
+#1787	AnnotatorNotes T1787	CHEBI:24459 (guanosyl groups)
+T1788	CHEBI 35722 35729	inosine
+#1788	AnnotatorNotes T1788	CHEBI:24849 (inosyl groups)
+T1789	SO 35722 35729	inosine
+#1789	AnnotatorNotes T1789	SO:0001230 (inosine)
+T1790	SO 35741 35747	repeat
+#1790	AnnotatorNotes T1790	SO:0000726 (repeat_unit)
+T1791	SO 35741 35747	repeat
+#1791	AnnotatorNotes T1791	SO:0000657 (repeat_region)
+T1792	SO 35748 35754	duplex
+#1792	AnnotatorNotes T1792	SO:0000985 (double)
+T1793	SO 35755 35758	DNA
+#1793	AnnotatorNotes T1793	SO:0000352 (DNA)
+T1794	GO_BP 35771 35783	displacement
+#1794	AnnotatorNotes T1794	GO:0000732 (strand displacement)
+T1795	SO 35848 35857	base pair
+#1795	AnnotatorNotes T1795	SO:0000028 (base_pair)
+T1796	SO 35848 35852	base
+#1796	AnnotatorNotes T1796	SO:0001236 (base)
+T1797	GO_CC 35887 35899	Mcm helicase
+#1797	AnnotatorNotes T1797	GO:0042555 (MCM complex)
+T1798	independent_continuant 35891 35899	helicase
+#1798	AnnotatorNotes T1798	independent_continuant
+T1799	GO_MF 35891 35899	helicase
+#1799	AnnotatorNotes T1799	GO:0004386 (helicase activity)
+T1800	SO 35944 35954	base pairs
+#1800	AnnotatorNotes T1800	SO:0000028 (base_pair)
+T1801	SO 35944 35948	base
+#1801	AnnotatorNotes T1801	SO:0001236 (base)
+T1802	independent_continuant 35973 35981	helicase
+#1802	AnnotatorNotes T1802	independent_continuant
+T1803	GO_MF 35973 35981	helicase
+#1803	AnnotatorNotes T1803	GO:0004386 (helicase activity)
+T1804	EntrezGene 35992 35996	Mcm4
+#1804	AnnotatorNotes T1804	EG:17217
+T1805	PR 35992 35996	Mcm4
+#1805	AnnotatorNotes T1805	PR:000010246 (DNA replication licensing factor MCM4)
+T1806	NCBITaxon 36085 36094	mammalian
+#1806	AnnotatorNotes T1806	NCBITaxon:40674 (Mammalia)
+T1807	PR 36095 36099	Mcm4
+#1807	AnnotatorNotes T1807	PR:000010246 (DNA replication licensing factor MCM4)
+T1808	GO_MF 36104 36112	helicase
+#1808	AnnotatorNotes T1808	GO:0004386 (helicase activity)
+T1809	independent_continuant 36104 36112	helicase
+#1809	AnnotatorNotes T1809	independent_continuant
+T1810	NCBITaxon 36159 36169	eukaryotic
+#1810	AnnotatorNotes T1810	NCBITaxon:2759 (Eukaryota)
+T1811	GO_BP 36170 36181	replicative
+#1811	AnnotatorNotes T1811	GO:0006260 (DNA replication)
+T1812	GO_MF 36182 36190	helicase
+#1812	AnnotatorNotes T1812	GO:0004386 (helicase activity)
+T1813	independent_continuant 36182 36190	helicase
+#1813	AnnotatorNotes T1813	independent_continuant
+T1814	GO_BP 36201 36230	initiation of DNA replication
+#1814	AnnotatorNotes T1814	GO:0006270 (DNA replication initiation)
+T1815	GO_BP 36215 36230	DNA replication
+#1815	AnnotatorNotes T1815	GO:0006260 (DNA replication)
+T1816	SO 36215 36218	DNA
+#1816	AnnotatorNotes T1816	SO:0000352 (DNA)
+T1817	GO_CC 36232 36244	Mcm helicase
+#1817	AnnotatorNotes T1817	GO:0042555 (MCM complex)
+T1818	GO_MF 36236 36244	helicase
+#1818	AnnotatorNotes T1818	GO:0004386 (helicase activity)
+T1819	independent_continuant 36236 36244	helicase
+#1819	AnnotatorNotes T1819	independent_continuant
+T1820	GO_CC 36274 36281	complex
+#1820	AnnotatorNotes T1820	GO:0032991 (macromolecular complex)
+T1821	GO_BP 36299 36305	melted
+#1821	AnnotatorNotes T1821	GO:0032508 (DNA duplex unwinding)
+T1822	SO 36306 36312	origin
+#1822	AnnotatorNotes T1822	SO:0000296 (origin_of_replication)
+T1823	SO 36313 36319	region
+#1823	AnnotatorNotes T1823	SO:0000001 (region)
+T1824	GO_BP 36349 36372	unwinding of duplex DNA
+#1824	AnnotatorNotes T1824	GO:0032508 (DNA duplex unwinding)
+T1825	SO 36362 36368	duplex
+#1825	AnnotatorNotes T1825	SO:0000985 (double)
+T1826	SO 36369 36372	DNA
+#1826	AnnotatorNotes T1826	SO:0000352 (DNA)
+T1827	SO 36428 36454	origins of DNA replication
+#1827	AnnotatorNotes T1827	SO:0000296 (origin_of_replication)
+T1828	GO_BP 36439 36454	DNA replication
+#1828	AnnotatorNotes T1828	GO:0006260 (DNA replication)
+T1829	SO 36439 36442	DNA
+#1829	AnnotatorNotes T1829	SO:0000352 (DNA)
+T1830	EntrezGene 36479 36488	T-antigen
+#1830	AnnotatorNotes T1830	EG:1489531
+T1831	CHEBI 36620 36627	thymine
+#1831	AnnotatorNotes T1831	CHEBI:30757 (thymin-1-yl group)
+T1832	SO 36633 36642	sequences
+#1832	AnnotatorNotes T1832	SO:0000001 (region)
+T1833	GO_BP 36662 36668	melted
+#1833	AnnotatorNotes T1833	GO:0032508 (DNA duplex unwinding)
+T1834	SO 36669 36675	region
+#1834	AnnotatorNotes T1834	SO:0000001 (region)
+T1835	GO_CC 36681 36693	Mcm helicase
+#1835	AnnotatorNotes T1835	GO:0042555 (MCM complex)
+T1836	GO_MF 36685 36693	helicase
+#1836	AnnotatorNotes T1836	GO:0004386 (helicase activity)
+T1837	independent_continuant 36685 36693	helicase
+#1837	AnnotatorNotes T1837	independent_continuant
+T1838	GO_CC 36784 36802	helicase complexes
+#1838	AnnotatorNotes T1838	GO:0033202 (DNA helicase complex)
+T1839	GO_MF 36784 36792	helicase
+#1839	AnnotatorNotes T1839	GO:0004386 (helicase activity)
+T1840	independent_continuant 36784 36792	helicase
+#1840	AnnotatorNotes T1840	independent_continuant
+T1841	GO_BP 36807 36816	generated
+#1841	AnnotatorNotes T1841	GO:0022607 (cellular component assembly)
+T1842	GO_MF 36838 36847	helicases
+#1842	AnnotatorNotes T1842	GO:0004386 (helicase activity)
+T1843	independent_continuant 36838 36847	helicases
+#1843	AnnotatorNotes T1843	independent_continuant
+T1844	SO 36855 36862	origins
+#1844	AnnotatorNotes T1844	SO:0000296 (origin_of_replication)
+T1845	GO_BP 36891 36912	melting of duplex DNA
+#1845	AnnotatorNotes T1845	GO:0032508 (DNA duplex unwinding)
+T1846	SO 36902 36908	duplex
+#1846	AnnotatorNotes T1846	SO:0000985 (double)
+T1847	SO 36909 36912	DNA
+#1847	AnnotatorNotes T1847	SO:0000352 (DNA)
+T1848	GO_MF 36942 36949	binding
+#1848	AnnotatorNotes T1848	GO:0005488 (binding)
+T1849	GO_CC 36953 36958	preRC
+#1849	AnnotatorNotes T1849	GO:0005656 (pre-replicative complex)
+T1850	GO_CC 36995 37015	chromatin structures
+#1850	AnnotatorNotes T1850	GO:0000785 (chromatin)
+T1851	GO_BP 37029 37038	unwinding
+#1851	AnnotatorNotes T1851	GO:0032508 (DNA duplex unwinding)
+T1852	GO_MF 37059 37072	topoisomerase
+#1852	AnnotatorNotes T1852	GO:0003916 (DNA topoisomerase activity)
+T1853	independent_continuant 37059 37072	topoisomerase
+#1853	AnnotatorNotes T1853	independent_continuant
+T1854	PR 37095 37108	Mcm8 helicase
+#1854	AnnotatorNotes T1854	PR:000010250 (DNA replication licensing factor MCM8)
+T1855	GO_MF 37100 37108	helicase
+#1855	AnnotatorNotes T1855	GO:0004386 (helicase activity)
+T1856	independent_continuant 37100 37108	helicase
+#1856	AnnotatorNotes T1856	independent_continuant
+T1857	GO_CC 37153 37157	fork
+#1857	AnnotatorNotes T1857	GO:0005657 (replication fork)
+T1858	CHEBI 37168 37176	proteins
+#1858	AnnotatorNotes T1858	CHEBI:36080 (proteins)
+T1859	PR 37185 37190	Cdc45
+#1859	AnnotatorNotes T1859	PR:000005215 (CDC45-related protein)
+T1860	GO_BP 37210 37232	phosphorylation events
+#1860	AnnotatorNotes T1860	GO:0016310 (phosphorylation)
+T1861	GO_MF 37236 37256	Cdk and Cdc7 kinases
+#1861	AnnotatorNotes T1861	"Cdk .. kinases" GO:0004693 (cyclin-dependent protein kinase activity)
+T1862	independent_continuant 37236 37256	Cdk and Cdc7 kinases
+#1862	AnnotatorNotes T1862	"Cdk .. kinases" independent_continuant
+T1863	PR 37244 37256	Cdc7 kinases
+#1863	AnnotatorNotes T1863	PR:000005218 (cell division cycle 7-related protein kinase)
+T1864	independent_continuant 37310 37318	helicase
+#1864	AnnotatorNotes T1864	independent_continuant
+T1865	GO_MF 37310 37318	helicase
+#1865	AnnotatorNotes T1865	GO:0004386 (helicase activity)
+T1866	EntrezGene 37331 37335	Mcm4
+#1866	AnnotatorNotes T1866	EG:17217
+T1867	PR 37331 37335	Mcm4
+#1867	AnnotatorNotes T1867	PR:000010246 (DNA replication licensing factor MCM4)
+T1868	SO 37351 37357	duplex
+#1868	AnnotatorNotes T1868	SO:0000985 (double)
+T1869	SO 37358 37361	DNA
+#1869	AnnotatorNotes T1869	SO:0000352 (DNA)
+T1870	EntrezGene 37413 37417	Mcm4
+#1870	AnnotatorNotes T1870	EG:17217
+T1871	PR 37413 37417	Mcm4
+#1871	AnnotatorNotes T1871	PR:000010246 (DNA replication licensing factor MCM4)
+T1872	GO_MF 37422 37430	helicase
+#1872	AnnotatorNotes T1872	GO:0004386 (helicase activity)
+T1873	independent_continuant 37422 37430	helicase
+#1873	AnnotatorNotes T1873	independent_continuant
+T1874	GO_BP 37460 37471	replicative
+#1874	AnnotatorNotes T1874	GO:0006260 (DNA replication)
+T1875	GO_MF 37472 37480	helicase
+#1875	AnnotatorNotes T1875	GO:0004386 (helicase activity)
+T1876	independent_continuant 37472 37480	helicase
+#1876	AnnotatorNotes T1876	independent_continuant
+T1877	GO_CC 37488 37505	replication forks
+#1877	AnnotatorNotes T1877	GO:0005657 (replication fork)
+T1878	GO_BP 37488 37499	replication
+#1878	AnnotatorNotes T1878	GO:0006260 (DNA replication)
+T1879	EntrezGene 37530 37534	Mcm4
+#1879	AnnotatorNotes T1879	EG:17217
+T1880	PR 37530 37534	Mcm4
+#1880	AnnotatorNotes T1880	PR:000010246 (DNA replication licensing factor MCM4)
+T1881	GO_CC 37539 37546	complex
+#1881	AnnotatorNotes T1881	GO:0032991 (macromolecular complex)
+T1882	GO_BP 37570 37579	unwinding
+#1882	AnnotatorNotes T1882	GO:0032508 (DNA duplex unwinding)
+T1883	SO 37583 37589	duplex
+#1883	AnnotatorNotes T1883	SO:0000985 (double)
+T1884	GO_CC 37590 37611	DNA replication forks
+#1884	AnnotatorNotes T1884	GO:0005657 (replication fork)
+T1885	GO_BP 37590 37605	DNA replication
+#1885	AnnotatorNotes T1885	GO:0006260 (DNA replication)
+T1886	SO 37590 37593	DNA
+#1886	AnnotatorNotes T1886	SO:0000352 (DNA)
+T1887	PR 37613 37617	Mcm4
+#1887	AnnotatorNotes T1887	PR:000010246 (DNA replication licensing factor MCM4)
+T1888	CHEBI 37674 37682	proteins
+#1888	AnnotatorNotes T1888	CHEBI:36080 (proteins)
+T1889	GO_CC 37704 37707	Mcm
+#1889	AnnotatorNotes T1889	GO:0042555 (MCM complex)
+T1890	PR 37718 37723	Cdc45
+#1890	AnnotatorNotes T1890	PR:000005215 (CDC45-related protein)
+T1891	GO_CC 37733 37737	GINS
+#1891	AnnotatorNotes T1891	GO:0000811 (GINS complex)
+T1892	GO_CC 37747 37761	DNA polymerase
+#1892	AnnotatorNotes T1892	GO:0042575 (DNA polymerase complex)
+T1893	SO 37747 37750	DNA
+#1893	AnnotatorNotes T1893	SO:0000352 (DNA)
+T1894	PR 37777 37781	Mcm8
+#1894	AnnotatorNotes T1894	PR:000010250 (DNA replication licensing factor MCM8)
+T1895	GO_MF 37836 37844	helicase
+#1895	AnnotatorNotes T1895	GO:0004386 (helicase activity)
+T1896	independent_continuant 37836 37844	helicase
+#1896	AnnotatorNotes T1896	independent_continuant
+T1897	GO_BP 37856 37867	replicating
+#1897	AnnotatorNotes T1897	GO:0006260 (DNA replication)
+T1898	SO 37879 37885	genome
+#1898	AnnotatorNotes T1898	SO:0001026 (genome)
+T1899	GO_BP 37934 37946	preparations
+#1899	AnnotatorNotes T1899	GO:0009058 (biosynthetic process)
+T1900	SO 37972 37976	DNAs
+#1900	AnnotatorNotes T1900	SO:0000352 (DNA)
+T1901	italic 38364 38394	Conflict of interest statement
+#1901	AnnotatorNotes T1901	italic (null)
+T1902	GO_MF 38442 38450	Nuclease
+#1902	AnnotatorNotes T1902	GO:0004518 (nuclease activity)
+T1903	independent_continuant 38442 38450	Nuclease
+#1903	AnnotatorNotes T1903	independent_continuant
+T1904	GO_MF 38474 38501	binding of Mcm4/6/7 protein
+#1904	AnnotatorNotes T1904	"binding of .. protein" GO:0005488 (binding)
+T1905	EntrezGene 38485 38489	Mcm4
+#1905	AnnotatorNotes T1905	EG:17217
+T1906	PR 38485 38489	Mcm4
+#1906	AnnotatorNotes T1906	PR:000010246 (DNA replication licensing factor MCM4)
+T1907	CHEBI 38494 38501	protein
+#1907	AnnotatorNotes T1907	CHEBI:36080 (proteins)
+T1908	SO 38505 38514	synthetic
+#1908	AnnotatorNotes T1908	SO:0000351 (synthetic_sequence)
+T1909	GO_CC 38526 38530	fork
+#1909	AnnotatorNotes T1909	GO:0005657 (replication fork)
+T1910	bold 38544 38545	A
+#1910	AnnotatorNotes T1910	bold (null)
+T1911	CHEBI 38557 38558	T
+#1911	AnnotatorNotes T1911	CHEBI:17821 (thymine)
+T1912	SO 38592 38598	strand
+#1912	AnnotatorNotes T1912	SO:0000001 (region)
+T1913	SO 38609 38615	strand
+#1913	AnnotatorNotes T1913	SO:0000001 (region)
+T1914	CHEBI 38630 38633	32P
+#1914	AnnotatorNotes T1914	CHEBI:37972 (phosphorus-32)
+T1915	sup 38630 38632	32
+#1915	AnnotatorNotes T1915	sup (null)
+T1916	EntrezGene 38741 38745	Mcm4
+#1916	AnnotatorNotes T1916	EG:17217
+T1917	PR 38741 38745	Mcm4
+#1917	AnnotatorNotes T1917	PR:000010246 (DNA replication licensing factor MCM4)
+T1918	CHEBI 38750 38757	protein
+#1918	AnnotatorNotes T1918	CHEBI:36080 (proteins)
+T1919	GO_MF 38810 38817	DNase I
+#1919	AnnotatorNotes T1919	GO:0004530 (deoxyribonuclease I activity)
+T1920	independent_continuant 38810 38817	DNase I
+#1920	AnnotatorNotes T1920	independent_continuant
+T1921	PR 38810 38817	DNase I
+#1921	AnnotatorNotes T1921	PR:000006592 (deoxyribonuclease-1)
+T1922	GO_MF 38830 38838	nuclease
+#1922	AnnotatorNotes T1922	GO:0004518 (nuclease activity)
+T1923	independent_continuant 38830 38838	nuclease
+#1923	AnnotatorNotes T1923	independent_continuant
+T1924	bold 38844 38845	B
+#1924	AnnotatorNotes T1924	bold (null)
+T1925	GO_CC 38862 38866	fork
+#1925	AnnotatorNotes T1925	GO:0005657 (replication fork)
+T1926	SO 38867 38873	random
+#1926	AnnotatorNotes T1926	SO:0000449 (random_sequence)
+T1927	EntrezGene 38993 38997	Mcm4
+#1927	AnnotatorNotes T1927	EG:17217
+T1928	PR 38993 38997	Mcm4
+#1928	AnnotatorNotes T1928	PR:000010246 (DNA replication licensing factor MCM4)
+T1929	CHEBI 39002 39009	protein
+#1929	AnnotatorNotes T1929	CHEBI:36080 (proteins)
+T1930	GO_MF 39044 39051	DNase I
+#1930	AnnotatorNotes T1930	GO:0004530 (deoxyribonuclease I activity)
+T1931	PR 39044 39051	DNase I
+#1931	AnnotatorNotes T1931	PR:000006592 (deoxyribonuclease-1)
+T1932	independent_continuant 39044 39051	DNase I
+#1932	AnnotatorNotes T1932	independent_continuant
+T1933	GO_MF 39064 39072	nuclease
+#1933	AnnotatorNotes T1933	GO:0004518 (nuclease activity)
+T1934	independent_continuant 39064 39072	nuclease
+#1934	AnnotatorNotes T1934	independent_continuant
+T1935	GO_BP 39117 39127	denaturing
+#1935	AnnotatorNotes T1935	GO:0030164 (protein denaturation)
+T1936	SO 39134 39149	Single-stranded
+#1936	AnnotatorNotes T1936	SO:0000984 (single)
+T1937	SO 39141 39149	stranded
+#1937	AnnotatorNotes T1937	SO:0000001 (region)
+T1938	SO 39154 39160	duplex
+#1938	AnnotatorNotes T1938	SO:0000985 (double)
+T1939	SO 39161 39168	regions
+#1939	AnnotatorNotes T1939	SO:0000001 (region)
+T1940	SO 39258 39265	strands
+#1940	AnnotatorNotes T1940	SO:0000001 (region)
+T1941	SO 39324 39331	Regions
+#1941	AnnotatorNotes T1941	SO:0000001 (region)
+T1942	SO 39540 39547	regions
+#1942	AnnotatorNotes T1942	SO:0000001 (region)
+T1943	GO_MF 39592 39599	binding
+#1943	AnnotatorNotes T1943	GO:0005488 (binding)
+T1944	EntrezGene 39630 39634	Mcm4
+#1944	AnnotatorNotes T1944	EG:17217
+T1945	PR 39630 39634	Mcm4
+#1945	AnnotatorNotes T1945	PR:000010246 (DNA replication licensing factor MCM4)
+T1946	GO_MF 39747 39755	annealed
+#1946	AnnotatorNotes T1946	GO:0033592 (RNA strand annealing activity)
+T1947	GO_MF 39747 39755	annealed
+#1947	AnnotatorNotes T1947	GO:0000739 (DNA strand annealing activity)
+T1948	SO 39756 39772	oligonucleotides
+#1948	AnnotatorNotes T1948	SO:0000696 (oligo)
+T1949	CHEBI 39777 39789	radiolabeled
+#1949	AnnotatorNotes T1949	CHEBI:35211 (radioactive label)
+T1950	SO 39800 39802	bp
+#1950	AnnotatorNotes T1950	SO:0000028 (base_pair)
+T1951	GO_MF 39822 39829	Binding
+#1951	AnnotatorNotes T1951	GO:0005488 (binding)
+T1952	independent_continuant 39834 39842	helicase
+#1952	AnnotatorNotes T1952	independent_continuant
+T1953	GO_MF 39834 39842	helicase
+#1953	AnnotatorNotes T1953	GO:0004386 (helicase activity)
+T1954	EntrezGene 39854 39864	mouse Mcm4
+#1954	AnnotatorNotes T1954	EG:17217
+T1955	NCBITaxon 39854 39859	mouse
+#1955	AnnotatorNotes T1955	NCBITaxon:10088 (Mus)
+T1956	PR 39860 39864	Mcm4
+#1956	AnnotatorNotes T1956	PR:000010246 (DNA replication licensing factor MCM4)
+T1957	SO 39901 39916	single-stranded
+#1957	AnnotatorNotes T1957	SO:0000984 (single)
+T1958	SO 39908 39916	stranded
+#1958	AnnotatorNotes T1958	SO:0000001 (region)
+T1959	SO 39917 39925	segments
+#1959	AnnotatorNotes T1959	SO:0000001 (region)
+T1960	bold 39956 39957	A
+#1960	AnnotatorNotes T1960	bold (null)
+T1961	GO_MF 39963 39975	DNA helicase
+#1961	AnnotatorNotes T1961	GO:0003678 (DNA helicase activity)
+T1962	independent_continuant 39963 39975	DNA helicase
+#1962	AnnotatorNotes T1962	independent_continuant
+T1963	SO 39963 39966	DNA
+#1963	AnnotatorNotes T1963	SO:0000352 (DNA)
+T1964	bold 39977 39978	B
+#1964	AnnotatorNotes T1964	bold (null)
+T1965	EntrezGene 40007 40017	mouse Mcm4
+#1965	AnnotatorNotes T1965	EG:17217
+T1966	NCBITaxon 40007 40012	mouse
+#1966	AnnotatorNotes T1966	NCBITaxon:10088 (Mus)
+T1967	PR 40013 40017	Mcm4
+#1967	AnnotatorNotes T1967	PR:000010246 (DNA replication licensing factor MCM4)
+T1968	SO 40025 40034	synthetic
+#1968	AnnotatorNotes T1968	SO:0000351 (synthetic_sequence)
+T1969	SO 40042 40046	DNAs
+#1969	AnnotatorNotes T1969	SO:0000352 (DNA)
+T1970	sub 40062 40064	10
+#1970	AnnotatorNotes T1970	sub (null)
+T1971	sub 40071 40073	20
+#1971	AnnotatorNotes T1971	sub (null)
+T1972	sub 40080 40082	30
+#1972	AnnotatorNotes T1972	sub (null)
+T1973	sub 40089 40091	40
+#1973	AnnotatorNotes T1973	sub (null)
+T1974	sub 40101 40103	50
+#1974	AnnotatorNotes T1974	sub (null)
+T1975	EntrezGene 40157 40161	Mcm4
+#1975	AnnotatorNotes T1975	EG:17217
+T1976	PR 40157 40161	Mcm4
+#1976	AnnotatorNotes T1976	PR:000010246 (DNA replication licensing factor MCM4)
+T1977	CHEBI 40166 40173	protein
+#1977	AnnotatorNotes T1977	CHEBI:36080 (proteins)
+T1978	CHEBI 40309 40312	32P
+#1978	AnnotatorNotes T1978	CHEBI:37972 (phosphorus-32)
+T1979	sup 40309 40311	32
+#1979	AnnotatorNotes T1979	sup (null)
+T1980	CHEBI 40367 40374	thymine
+#1980	AnnotatorNotes T1980	CHEBI:30757 (thymin-1-yl group)
+T1981	SO 40380 40389	sequences
+#1981	AnnotatorNotes T1981	SO:0000001 (region)
+T1982	SO 40399 40405	single
+#1982	AnnotatorNotes T1982	SO:0000984 (single)
+T1983	SO 40406 40412	strand
+#1983	AnnotatorNotes T1983	SO:0000001 (region)
+T1984	CHEBI 40420 40421	T
+#1984	AnnotatorNotes T1984	CHEBI:30757 (thymin-1-yl group)
+T1985	GO_BP 40437 40446	unwinding
+#1985	AnnotatorNotes T1985	GO:0032508 (DNA duplex unwinding)
+T1986	EntrezGene 40450 40454	Mcm4
+#1986	AnnotatorNotes T1986	EG:17217
+T1987	PR 40450 40454	Mcm4
+#1987	AnnotatorNotes T1987	PR:000010246 (DNA replication licensing factor MCM4)
+T1988	bold 40461 40462	A
+#1988	AnnotatorNotes T1988	bold (null)
+T1989	EntrezGene 40468 40472	Mcm4
+#1989	AnnotatorNotes T1989	EG:17217
+T1990	PR 40468 40472	Mcm4
+#1990	AnnotatorNotes T1990	PR:000010246 (DNA replication licensing factor MCM4)
+T1991	independent_continuant 40477 40485	helicase
+#1991	AnnotatorNotes T1991	independent_continuant
+T1992	GO_MF 40477 40485	helicase
+#1992	AnnotatorNotes T1992	GO:0004386 (helicase activity)
+T1993	SO 40524 40527	DNA
+#1993	AnnotatorNotes T1993	SO:0000352 (DNA)
+T1994	SO 40561 40569	unpaired
+#1994	AnnotatorNotes T1994	SO:0000984 (single)
+T1995	SO 40570 40577	segment
+#1995	AnnotatorNotes T1995	SO:0000001 (region)
+T1996	CHEBI 40585 40592	thymine
+#1996	AnnotatorNotes T1996	CHEBI:30757 (thymin-1-yl group)
+T1997	SO 40598 40607	sequences
+#1997	AnnotatorNotes T1997	SO:0000001 (region)
+T1998	CHEBI 40615 40616	T
+#1998	AnnotatorNotes T1998	CHEBI:30757 (thymin-1-yl group)
+T1999	CHEBI 40642 40649	thymine
+#1999	AnnotatorNotes T1999	CHEBI:30757 (thymin-1-yl group)
+T2000	CHEBI 40655 40662	guanine
+#2000	AnnotatorNotes T2000	CHEBI:30755 (guanine group)
+T2001	SO 40668 40676	sequence
+#2001	AnnotatorNotes T2001	SO:0000001 (region)
+T2002	SO 40685 40691	strand
+#2002	AnnotatorNotes T2002	SO:0000001 (region)
+T2003	CHEBI 40841 40848	protein
+#2003	AnnotatorNotes T2003	CHEBI:36080 (proteins)
+T2004	EntrezGene 40893 40897	Mcm4
+#2004	AnnotatorNotes T2004	EG:17217
+T2005	PR 40893 40897	Mcm4
+#2005	AnnotatorNotes T2005	PR:000010246 (DNA replication licensing factor MCM4)
+T2006	GO_CC 40902 40909	complex
+#2006	AnnotatorNotes T2006	GO:0032991 (macromolecular complex)
+T2007	bold 40926 40927	B
+#2007	AnnotatorNotes T2007	bold (null)
+T2008	GO_MF 40929 40937	Helicase
+#2008	AnnotatorNotes T2008	GO:0004386 (helicase activity)
+T2009	independent_continuant 40929 40937	Helicase
+#2009	AnnotatorNotes T2009	independent_continuant
+T2010	EntrezGene 40965 40969	Mcm4
+#2010	AnnotatorNotes T2010	EG:17217
+T2011	PR 40965 40969	Mcm4
+#2011	AnnotatorNotes T2011	PR:000010246 (DNA replication licensing factor MCM4)
+T2012	GO_BP 41053 41062	displaced
+#2012	AnnotatorNotes T2012	GO:0000732 (strand displacement)
+T2013	GO_MF 41113 41124	DNA binding
+#2013	AnnotatorNotes T2013	GO:0003677 (DNA binding)
+T2014	SO 41113 41116	DNA
+#2014	AnnotatorNotes T2014	SO:0000352 (DNA)
+T2015	independent_continuant 41129 41137	helicase
+#2015	AnnotatorNotes T2015	independent_continuant
+T2016	GO_MF 41129 41137	helicase
+#2016	AnnotatorNotes T2016	GO:0004386 (helicase activity)
+T2017	EntrezGene 41149 41153	Mcm4
+#2017	AnnotatorNotes T2017	EG:17217
+T2018	PR 41149 41153	Mcm4
+#2018	AnnotatorNotes T2018	PR:000010246 (DNA replication licensing factor MCM4)
+T2019	GO_CC 41169 41173	fork
+#2019	AnnotatorNotes T2019	GO:0005657 (replication fork)
+T2020	bold 41187 41188	A
+#2020	AnnotatorNotes T2020	bold (null)
+T2021	EntrezGene 41227 41231	Mcm4
+#2021	AnnotatorNotes T2021	EG:17217
+T2022	PR 41227 41231	Mcm4
+#2022	AnnotatorNotes T2022	PR:000010246 (DNA replication licensing factor MCM4)
+T2023	GO_CC 41248 41252	fork
+#2023	AnnotatorNotes T2023	GO:0005657 (replication fork)
+T2024	GO_BP 41257 41266	extension
+#2024	AnnotatorNotes T2024	GO:0022616 (DNA strand elongation)
+T2025	bold 41302 41303	B
+#2025	AnnotatorNotes T2025	bold (null)
+T2026	GO_MF 41305 41317	DNA helicase
+#2026	AnnotatorNotes T2026	GO:0003678 (DNA helicase activity)
+T2027	independent_continuant 41305 41317	DNA helicase
+#2027	AnnotatorNotes T2027	independent_continuant
+T2028	SO 41305 41308	DNA
+#2028	AnnotatorNotes T2028	SO:0000352 (DNA)
+T2029	EntrezGene 41399 41403	Mcm4
+#2029	AnnotatorNotes T2029	EG:17217
+T2030	PR 41399 41403	Mcm4
+#2030	AnnotatorNotes T2030	PR:000010246 (DNA replication licensing factor MCM4)
+T2031	PR 41485 41498	PriA helicase
+#2031	AnnotatorNotes T2031	PR:000023591 (primosomal protein N')
+T2032	GO_MF 41490 41498	helicase
+#2032	AnnotatorNotes T2032	GO:0004386 (helicase activity)
+T2033	independent_continuant 41490 41498	helicase
+#2033	AnnotatorNotes T2033	independent_continuant
+T2034	GO_BP 41631 41640	displaced
+#2034	AnnotatorNotes T2034	GO:0000732 (strand displacement)
+T2035	SO 41707 41716	positions
+#2035	AnnotatorNotes T2035	SO:0000001 (region)
+T2036	GO_CC 41724 41733	complexes
+#2036	AnnotatorNotes T2036	GO:0032991 (macromolecular complex)
+T2037	SO 41852 41868	oligonucleotides
+#2037	AnnotatorNotes T2037	SO:0000696 (oligo)
+T2038	CHEBI 41921 41924	32P
+#2038	AnnotatorNotes T2038	CHEBI:37972 (phosphorus-32)
+T2039	sup 41921 41923	32
+#2039	AnnotatorNotes T2039	sup (null)
+T2040	GO_MF 41956 41967	DNA binding
+#2040	AnnotatorNotes T2040	GO:0003677 (DNA binding)
+T2041	SO 41956 41959	DNA
+#2041	AnnotatorNotes T2041	SO:0000352 (DNA)
+T2042	independent_continuant 41972 41980	helicase
+#2042	AnnotatorNotes T2042	independent_continuant
+T2043	GO_MF 41972 41980	helicase
+#2043	AnnotatorNotes T2043	GO:0004386 (helicase activity)
+T2044	EntrezGene 41992 41996	Mcm4
+#2044	AnnotatorNotes T2044	EG:17217
+T2045	PR 41992 41996	Mcm4
+#2045	AnnotatorNotes T2045	PR:000010246 (DNA replication licensing factor MCM4)
+T2046	GO_BP 42004 42024	5′- and 3′-extension
+#2046	AnnotatorNotes T2046	"5′- .. extension" GO:0006273 (lagging strand elongation)
+T2047	GO_BP 42012 42024	3′-extension
+#2047	AnnotatorNotes T2047	GO:0006272 (leading strand elongation)
+T2048	GO_MF 42037 42048	DNA-binding
+#2048	AnnotatorNotes T2048	GO:0003677 (DNA binding)
+T2049	SO 42037 42040	DNA
+#2049	AnnotatorNotes T2049	SO:0000352 (DNA)
+T2050	bold 42050 42051	A
+#2050	AnnotatorNotes T2050	bold (null)
+T2051	GO_MF 42057 42065	helicase
+#2051	AnnotatorNotes T2051	GO:0004386 (helicase activity)
+T2052	independent_continuant 42057 42065	helicase
+#2052	AnnotatorNotes T2052	independent_continuant
+T2053	bold 42067 42068	B
+#2053	AnnotatorNotes T2053	bold (null)
+T2054	EntrezGene 42084 42088	Mcm4
+#2054	AnnotatorNotes T2054	EG:17217
+T2055	PR 42084 42088	Mcm4
+#2055	AnnotatorNotes T2055	PR:000010246 (DNA replication licensing factor MCM4)
+T2056	GO_BP 42118 42130	3′-extension
+#2056	AnnotatorNotes T2056	GO:0006272 (leading strand elongation)
+T2057	bold 42162 42163	C
+#2057	AnnotatorNotes T2057	bold (null)
+T2058	GO_BP 42187 42196	displaced
+#2058	AnnotatorNotes T2058	GO:0000732 (strand displacement)
+T2059	bold 42217 42218	D
+#2059	AnnotatorNotes T2059	bold (null)
+T2060	GO_MF 42220 42232	DNA helicase
+#2060	AnnotatorNotes T2060	GO:0003678 (DNA helicase activity)
+T2061	independent_continuant 42220 42232	DNA helicase
+#2061	AnnotatorNotes T2061	independent_continuant
+T2062	SO 42220 42223	DNA
+#2062	AnnotatorNotes T2062	SO:0000352 (DNA)
+T2063	GO_BP 42243 42255	5′-extension
+#2063	AnnotatorNotes T2063	GO:0006273 (lagging strand elongation)
+T2064	GO_BP 42257 42269	3′-extension
+#2064	AnnotatorNotes T2064	GO:0006272 (leading strand elongation)
+T2065	GO_CC 42276 42282	forked
+#2065	AnnotatorNotes T2065	GO:0005657 (replication fork)
+T2066	EntrezGene 42352 42356	Mcm4
+#2066	AnnotatorNotes T2066	EG:17217
+T2067	PR 42352 42356	Mcm4
+#2067	AnnotatorNotes T2067	PR:000010246 (DNA replication licensing factor MCM4)
+T2068	GO_CC 42361 42368	complex
+#2068	AnnotatorNotes T2068	GO:0032991 (macromolecular complex)
+T2069	CHEBI 42480 42483	32P
+#2069	AnnotatorNotes T2069	CHEBI:37972 (phosphorus-32)
+T2070	sup 42480 42482	32
+#2070	AnnotatorNotes T2070	sup (null)
+T2071	CHEBI 42534 42544	nucleotide
+#2071	AnnotatorNotes T2071	CHEBI:25613 (nucleotidyl groups)
+T2072	SO 42534 42544	nucleotide
+#2072	AnnotatorNotes T2072	SO:0001236 (base)
+T2073	GO_BP 42576 42588	displacement
+#2073	AnnotatorNotes T2073	GO:0000732 (strand displacement)
+T2074	EntrezGene 42627 42631	Mcm4
+#2074	AnnotatorNotes T2074	EG:17217
+T2075	PR 42627 42631	Mcm4
+#2075	AnnotatorNotes T2075	PR:000010246 (DNA replication licensing factor MCM4)
+T2076	bold 42638 42639	A
+#2076	AnnotatorNotes T2076	bold (null)
+T2077	GO_MF 42641 42653	DNA helicase
+#2077	AnnotatorNotes T2077	GO:0003678 (DNA helicase activity)
+T2078	independent_continuant 42641 42653	DNA helicase
+#2078	AnnotatorNotes T2078	independent_continuant
+T2079	SO 42641 42644	DNA
+#2079	AnnotatorNotes T2079	SO:0000352 (DNA)
+T2080	GO_MF 42712 42720	helicase
+#2080	AnnotatorNotes T2080	GO:0004386 (helicase activity)
+T2081	independent_continuant 42712 42720	helicase
+#2081	AnnotatorNotes T2081	independent_continuant
+T2082	SO 42738 42753	single-stranded
+#2082	AnnotatorNotes T2082	SO:0000984 (single)
+T2083	SO 42745 42753	stranded
+#2083	AnnotatorNotes T2083	SO:0000001 (region)
+T2084	SO 42754 42762	circular
+#2084	AnnotatorNotes T2084	SO:0000988 (circular)
+T2085	SO 42763 42766	DNA
+#2085	AnnotatorNotes T2085	SO:0000352 (DNA)
+T2086	SO 42793 42813	nucleotide sequences
+#2086	AnnotatorNotes T2086	SO:0000348 (nucleic_acid)
+T2087	CHEBI 42793 42803	nucleotide
+#2087	AnnotatorNotes T2087	CHEBI:25613 (nucleotidyl groups)
+T2088	SO 42793 42803	nucleotide
+#2088	AnnotatorNotes T2088	SO:0001236 (base)
+T2089	CHEBI 42867 42870	32P
+#2089	AnnotatorNotes T2089	CHEBI:37972 (phosphorus-32)
+T2090	sup 42867 42869	32
+#2090	AnnotatorNotes T2090	sup (null)
+T2091	GO_MF 42894 42902	annealed
+#2091	AnnotatorNotes T2091	GO:0033592 (RNA strand annealing activity)
+T2092	GO_MF 42894 42902	annealed
+#2092	AnnotatorNotes T2092	GO:0000739 (DNA strand annealing activity)
+T2093	SO 42903 42919	oligonucleotides
+#2093	AnnotatorNotes T2093	SO:0000696 (oligo)
+T2094	bold 42922 42923	B
+#2094	AnnotatorNotes T2094	bold (null)
+T2095	GO_MF 42925 42937	DNA helicase
+#2095	AnnotatorNotes T2095	GO:0003678 (DNA helicase activity)
+T2096	independent_continuant 42925 42937	DNA helicase
+#2096	AnnotatorNotes T2096	independent_continuant
+T2097	SO 42925 42928	DNA
+#2097	AnnotatorNotes T2097	SO:0000352 (DNA)
+T2098	GO_MF 43002 43010	helicase
+#2098	AnnotatorNotes T2098	GO:0004386 (helicase activity)
+T2099	independent_continuant 43002 43010	helicase
+#2099	AnnotatorNotes T2099	independent_continuant
+T2100	bold 43055 43056	C
+#2100	AnnotatorNotes T2100	bold (null)
+T2101	GO_BP 43076 43085	displaced
+#2101	AnnotatorNotes T2101	GO:0000732 (strand displacement)
+T2102	SO 43086 43102	oligonucleotides
+#2102	AnnotatorNotes T2102	SO:0000696 (oligo)
+T2103	EntrezGene 43157 43161	Mcm4
+#2103	AnnotatorNotes T2103	EG:17217
+T2104	PR 43157 43161	Mcm4
+#2104	AnnotatorNotes T2104	PR:000010246 (DNA replication licensing factor MCM4)
+T2105	GO_CC 43166 43173	complex
+#2105	AnnotatorNotes T2105	GO:0032991 (macromolecular complex)
+T2106	EntrezGene 43235 43239	Mcm4
+#2106	AnnotatorNotes T2106	EG:17217
+T2107	PR 43235 43239	Mcm4
+#2107	AnnotatorNotes T2107	PR:000010246 (DNA replication licensing factor MCM4)
+T2108	GO_MF 43244 43256	DNA helicase
+#2108	AnnotatorNotes T2108	GO:0003678 (DNA helicase activity)
+T2109	independent_continuant 43244 43256	DNA helicase
+#2109	AnnotatorNotes T2109	independent_continuant
+T2110	SO 43244 43247	DNA
+#2110	AnnotatorNotes T2110	SO:0000352 (DNA)
+T2111	SO 43260 43269	sequences
+#2111	AnnotatorNotes T2111	SO:0000001 (region)
+T2112	EntrezGene 43287 43298	human c-myc
+#2112	AnnotatorNotes T2112	EG:4609
+T2113	NCBITaxon 43287 43292	human
+#2113	AnnotatorNotes T2113	NCBITaxon:9606 (Homo sapiens)
+T2114	PR 43293 43298	c-myc
+#2114	AnnotatorNotes T2114	PR:000000084 (c-myc protein)
+T2115	italic 43295 43298	myc
+#2115	AnnotatorNotes T2115	italic (null)
+T2116	SO 43299 43305	origin
+#2116	AnnotatorNotes T2116	SO:0000296 (origin_of_replication)
+T2117	bold 43308 43309	A
+#2117	AnnotatorNotes T2117	bold (null)
+T2118	GO_MF 43311 43323	DNA helicase
+#2118	AnnotatorNotes T2118	GO:0003678 (DNA helicase activity)
+T2119	independent_continuant 43311 43323	DNA helicase
+#2119	AnnotatorNotes T2119	independent_continuant
+T2120	SO 43311 43314	DNA
+#2120	AnnotatorNotes T2120	SO:0000352 (DNA)
+T2121	EntrezGene 43334 43338	Mcm4
+#2121	AnnotatorNotes T2121	EG:17217
+T2122	PR 43334 43338	Mcm4
+#2122	AnnotatorNotes T2122	PR:000010246 (DNA replication licensing factor MCM4)
+T2123	EntrezGene 43409 43414	c-myc
+#2123	AnnotatorNotes T2123	EG:4609
+T2124	PR 43409 43414	c-myc
+#2124	AnnotatorNotes T2124	PR:000000084 (c-myc protein)
+T2125	italic 43411 43414	myc
+#2125	AnnotatorNotes T2125	italic (null)
+T2126	EntrezGene 43420 43428	Lamin B2
+#2126	AnnotatorNotes T2126	EG:84823
+T2127	PR 43420 43428	Lamin B2
+#2127	AnnotatorNotes T2127	PR:000009861 (lamin-B2)
+T2128	EntrezGene 43433 43438	c-myc
+#2128	AnnotatorNotes T2128	EG:4609
+T2129	PR 43433 43438	c-myc
+#2129	AnnotatorNotes T2129	PR:000000084 (c-myc protein)
+T2130	italic 43435 43438	myc
+#2130	AnnotatorNotes T2130	italic (null)
+T2131	SO 43445 43454	sequences
+#2131	AnnotatorNotes T2131	SO:0000001 (region)
+T2132	SO 43462 43470	unpaired
+#2132	AnnotatorNotes T2132	SO:0000984 (single)
+T2133	SO 43471 43478	segment
+#2133	AnnotatorNotes T2133	SO:0000001 (region)
+T2134	CHEBI 43484 43491	thymine
+#2134	AnnotatorNotes T2134	CHEBI:30757 (thymin-1-yl group)
+T2135	GO_BP 43562 43571	displaced
+#2135	AnnotatorNotes T2135	GO:0000732 (strand displacement)
+T2136	bold 43611 43612	B
+#2136	AnnotatorNotes T2136	bold (null)
+T2137	GO_MF 43614 43625	DNA binding
+#2137	AnnotatorNotes T2137	GO:0003677 (DNA binding)
+T2138	SO 43614 43617	DNA
+#2138	AnnotatorNotes T2138	SO:0000352 (DNA)
+T2139	EntrezGene 43629 43633	Mcm4
+#2139	AnnotatorNotes T2139	EG:17217
+T2140	PR 43629 43633	Mcm4
+#2140	AnnotatorNotes T2140	PR:000010246 (DNA replication licensing factor MCM4)
+T2141	EntrezGene 43762 43766	Mcm4
+#2141	AnnotatorNotes T2141	EG:17217
+T2142	PR 43762 43766	Mcm4
+#2142	AnnotatorNotes T2142	PR:000010246 (DNA replication licensing factor MCM4)
+T2143	GO_CC 43771 43778	complex
+#2143	AnnotatorNotes T2143	GO:0032991 (macromolecular complex)
+T2144	CHEBI 43836 43846	nucleotide
+#2144	AnnotatorNotes T2144	CHEBI:25613 (nucleotidyl groups)
+T2145	SO 43836 43846	nucleotide
+#2145	AnnotatorNotes T2145	SO:0001236 (base)
+T2146	SO 43867 43873	duplex
+#2146	AnnotatorNotes T2146	SO:0000985 (double)
+T2147	SO 43874 43882	segments
+#2147	AnnotatorNotes T2147	SO:0000001 (region)
+T2148	independent_continuant 43886 43894	helicase
+#2148	AnnotatorNotes T2148	independent_continuant
+T2149	GO_MF 43886 43894	helicase
+#2149	AnnotatorNotes T2149	GO:0004386 (helicase activity)
+T2150	EntrezGene 43905 43909	Mcm4
+#2150	AnnotatorNotes T2150	EG:17217
+T2151	PR 43905 43909	Mcm4
+#2151	AnnotatorNotes T2151	PR:000010246 (DNA replication licensing factor MCM4)
+T2152	GO_MF 43915 43926	DNA binding
+#2152	AnnotatorNotes T2152	GO:0003677 (DNA binding)
+T2153	SO 43915 43918	DNA
+#2153	AnnotatorNotes T2153	SO:0000352 (DNA)
+T2154	bold 43928 43929	A
+#2154	AnnotatorNotes T2154	bold (null)
+T2155	independent_continuant 43935 43943	helicase
+#2155	AnnotatorNotes T2155	independent_continuant
+T2156	GO_MF 43935 43943	helicase
+#2156	AnnotatorNotes T2156	GO:0004386 (helicase activity)
+T2157	bold 43945 43946	B
+#2157	AnnotatorNotes T2157	bold (null)
+T2158	bold 43948 43949	D
+#2158	AnnotatorNotes T2158	bold (null)
+T2159	bold 43954 43955	E
+#2159	AnnotatorNotes T2159	bold (null)
+T2160	EntrezGene 43975 43979	Mcm4
+#2160	AnnotatorNotes T2160	EG:17217
+T2161	PR 43975 43979	Mcm4
+#2161	AnnotatorNotes T2161	PR:000010246 (DNA replication licensing factor MCM4)
+T2162	GO_MF 43984 43992	helicase
+#2162	AnnotatorNotes T2162	GO:0004386 (helicase activity)
+T2163	independent_continuant 43984 43992	helicase
+#2163	AnnotatorNotes T2163	independent_continuant
+T2164	GO_CC 44020 44024	fork
+#2164	AnnotatorNotes T2164	GO:0005657 (replication fork)
+T2165	SO 44025 44029	DNAs
+#2165	AnnotatorNotes T2165	SO:0000352 (DNA)
+T2166	CHEBI 44058 44069	nucleotides
+#2166	AnnotatorNotes T2166	CHEBI:25613 (nucleotidyl groups)
+T2167	SO 44058 44069	nucleotides
+#2167	AnnotatorNotes T2167	SO:0001236 (base)
+T2168	SO 44077 44083	duplex
+#2168	AnnotatorNotes T2168	SO:0000985 (double)
+T2169	SO 44084 44090	region
+#2169	AnnotatorNotes T2169	SO:0000001 (region)
+T2170	SO 44119 44134	single-stranded
+#2170	AnnotatorNotes T2170	SO:0000984 (single)
+T2171	SO 44126 44134	stranded
+#2171	AnnotatorNotes T2171	SO:0000001 (region)
+T2172	SO 44135 44143	circular
+#2172	AnnotatorNotes T2172	SO:0000988 (circular)
+T2173	SO 44165 44168	DNA
+#2173	AnnotatorNotes T2173	SO:0000352 (DNA)
+T2174	CHEBI 44218 44225	protein
+#2174	AnnotatorNotes T2174	CHEBI:36080 (proteins)
+T2175	EntrezGene 44276 44280	Mcm4
+#2175	AnnotatorNotes T2175	EG:17217
+T2176	PR 44276 44280	Mcm4
+#2176	AnnotatorNotes T2176	PR:000010246 (DNA replication licensing factor MCM4)
+T2177	CHEBI 44285 44292	protein
+#2177	AnnotatorNotes T2177	CHEBI:36080 (proteins)
+T2178	EntrezGene 44334 44348	SV40 T-antigen
+#2178	AnnotatorNotes T2178	EG:1489531
+T2179	NCBITaxon 44334 44338	SV40
+#2179	AnnotatorNotes T2179	NCBITaxon:10633 (Simian virus 40)
+T2180	bold 44351 44352	C
+#2180	AnnotatorNotes T2180	bold (null)
+T2181	GO_BP 44376 44385	displaced
+#2181	AnnotatorNotes T2181	GO:0000732 (strand displacement)
+T2182	GO_MF 44409 44417	Helicase
+#2182	AnnotatorNotes T2182	GO:0004386 (helicase activity)
+T2183	independent_continuant 44409 44417	Helicase
+#2183	AnnotatorNotes T2183	independent_continuant
+T2184	sub 44430 44432	40
+#2184	AnnotatorNotes T2184	sub (null)
+T2185	sub 44452 44454	40
+#2185	AnnotatorNotes T2185	sub (null)
+T2186	SO 44498 44504	duplex
+#2186	AnnotatorNotes T2186	SO:0000985 (double)
+T2187	SO 44505 44512	regions
+#2187	AnnotatorNotes T2187	SO:0000001 (region)
+T2188	CHEBI 44543 44550	protein
+#2188	AnnotatorNotes T2188	CHEBI:36080 (proteins)
+T2189	EntrezGene 44615 44619	Mcm4
+#2189	AnnotatorNotes T2189	EG:17217
+T2190	PR 44615 44619	Mcm4
+#2190	AnnotatorNotes T2190	PR:000010246 (DNA replication licensing factor MCM4)
+T2191	CHEBI 44624 44631	protein
+#2191	AnnotatorNotes T2191	CHEBI:36080 (proteins)
+T2192	CHEBI 44691 44692	G
+#2192	AnnotatorNotes T2192	CHEBI:30755 (guanine group)
+T2193	SO 44814 44821	segment
+#2193	AnnotatorNotes T2193	SO:0000001 (region)
+T2194	CHEBI 44859 44861	nt
+#2194	AnnotatorNotes T2194	CHEBI:25613 (nucleotidyl groups)
+T2195	SO 44859 44861	nt
+#2195	AnnotatorNotes T2195	SO:0001236 (base)
+T2196	CHEBI 44867 44868	G
+#2196	AnnotatorNotes T2196	CHEBI:30755 (guanine group)
+T2197	SO 44874 44881	segment
+#2197	AnnotatorNotes T2197	SO:0000001 (region)
+T2198	CHEBI 44923 44926	32P
+#2198	AnnotatorNotes T2198	CHEBI:37972 (phosphorus-32)
+T2199	sup 44923 44925	32
+#2199	AnnotatorNotes T2199	sup (null)
+T2200	CHEBI 44927 44931	dGTP
+#2200	AnnotatorNotes T2200	CHEBI:16497 (dGTP)
+T2201	SO 44932 44944	incorporated
+#2201	AnnotatorNotes T2201	SO:0000046 (insert)
+T2202	SO 44954 44960	duplex
+#2202	AnnotatorNotes T2202	SO:0000985 (double)
+T2203	SO 44961 44968	segment
+#2203	AnnotatorNotes T2203	SO:0000001 (region)
+T2204	CHEBI 44972 44975	32P
+#2204	AnnotatorNotes T2204	CHEBI:37972 (phosphorus-32)
+T2205	sup 44972 44974	32
+#2205	AnnotatorNotes T2205	sup (null)
+T2206	GO_MF 44999 45007	annealed
+#2206	AnnotatorNotes T2206	GO:0033592 (RNA strand annealing activity)
+T2207	GO_MF 44999 45007	annealed
+#2207	AnnotatorNotes T2207	GO:0000739 (DNA strand annealing activity)
+T2208	SO 45008 45024	oligonucleotides
+#2208	AnnotatorNotes T2208	SO:0000696 (oligo)
+T2209	GO_BP 45038 45047	denatured
+#2209	AnnotatorNotes T2209	GO:0032508 (DNA duplex unwinding)
+T2210	SO 45051 45053	bp
+#2210	AnnotatorNotes T2210	SO:0000028 (base_pair)
+T2211	SO 45061 45064	DNA
+#2211	AnnotatorNotes T2211	SO:0000352 (DNA)
+T2212	CHEBI 45077 45078	I
+#2212	AnnotatorNotes T2212	CHEBI:24849 (inosyl groups)
+T2213	SO 45077 45078	I
+#2213	AnnotatorNotes T2213	SO:0001230 (inosine)
+T2214	CHEBI 45089 45096	inosine
+#2214	AnnotatorNotes T2214	CHEBI:17596 (inosine)
+T2215	SO 45089 45096	inosine
+#2215	AnnotatorNotes T2215	SO:0001230 (inosine)
+T2216	GO_BP 45129 45142	Constructions
+#2216	AnnotatorNotes T2216	GO:0009058 (biosynthetic process)
+T2217	GO_MF 45146 45154	helicase
+#2217	AnnotatorNotes T2217	GO:0004386 (helicase activity)
+T2218	independent_continuant 45146 45154	helicase
+#2218	AnnotatorNotes T2218	independent_continuant
+T2219	SO 45216 45232	oligonucleotides
+#2219	AnnotatorNotes T2219	SO:0000696 (oligo)
+T2220	SO 45239 45248	sequences
+#2220	AnnotatorNotes T2220	SO:0000001 (region)
+T2221	SO 45289 45305	oligonucleotides
+#2221	AnnotatorNotes T2221	SO:0000696 (oligo)

@@ -1,0 +1,2116 @@
+T1	EntrezGene 0 26	CEBPG transcription factor
+#1	AnnotatorNotes T1	EG:1054
+T2	PR 0 26	CEBPG transcription factor
+#2	AnnotatorNotes T2	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T3	GO_MF 6 26	transcription factor
+#3	AnnotatorNotes T3	GO:0003700 (transcription factor activity)
+T4	independent_continuant 6 26	transcription factor
+#4	AnnotatorNotes T4	independent_continuant
+T5	GO_BP 6 19	transcription
+#5	AnnotatorNotes T5	GO:0006350 (transcription)
+T6	CHEBI 43 54	antioxidant
+#6	AnnotatorNotes T6	CHEBI:22586 (antioxidant)
+T7	GO_MF 43 54	antioxidant
+#7	AnnotatorNotes T7	GO:0016209 (antioxidant activity)
+T8	independent_continuant 43 54	antioxidant
+#8	AnnotatorNotes T8	independent_continuant
+T9	GO_BP 59 69	DNA repair
+#9	AnnotatorNotes T9	GO:0006281 (DNA repair)
+T10	SO 59 62	DNA
+#10	AnnotatorNotes T10	SO:0000352 (DNA)
+T11	SO 70 75	genes
+#11	AnnotatorNotes T11	SO:0000704 (gene)
+T12	CL 96 112	epithelial cells
+#12	AnnotatorNotes T12	CL:0000066 (epithelial cell)
+T13	GO_CC 107 112	cells
+#13	AnnotatorNotes T13	GO:0005623 (cell)
+T14	NCBITaxon 124 135	individuals
+#14	AnnotatorNotes T14	NCBITaxon:1 (root)
+T15	SO 360 371	genetically
+#15	AnnotatorNotes T15	SO:0000704 (gene)
+T16	CHEBI 416 427	antioxidant
+#16	AnnotatorNotes T16	CHEBI:22586 (antioxidant)
+T17	independent_continuant 416 427	antioxidant
+#17	AnnotatorNotes T17	independent_continuant
+T18	GO_MF 416 427	antioxidant
+#18	AnnotatorNotes T18	GO:0016209 (antioxidant activity)
+T19	SO 428 433	genes
+#19	AnnotatorNotes T19	SO:0000704 (gene)
+T20	SO 444 454	transcript
+#20	AnnotatorNotes T20	SO:0000673 (transcript)
+T21	CL 495 511	epithelial cells
+#21	AnnotatorNotes T21	CL:0000066 (epithelial cell)
+T22	GO_CC 506 511	cells
+#22	AnnotatorNotes T22	GO:0005623 (cell)
+T23	NCBITaxon 525 536	individuals
+#23	AnnotatorNotes T23	NCBITaxon:1 (root)
+T24	NCBITaxon 556 567	individuals
+#24	AnnotatorNotes T24	NCBITaxon:1 (root)
+T25	SO 618 628	transcript
+#25	AnnotatorNotes T25	SO:0000673 (transcript)
+T26	GO_BP 658 668	DNA repair
+#26	AnnotatorNotes T26	GO:0006281 (DNA repair)
+T27	SO 658 661	DNA
+#27	AnnotatorNotes T27	SO:0000352 (DNA)
+T28	SO 669 674	genes
+#28	AnnotatorNotes T28	SO:0000704 (gene)
+T29	CHEBI 702 713	antioxidant
+#29	AnnotatorNotes T29	CHEBI:22586 (antioxidant)
+T30	independent_continuant 702 713	antioxidant
+#30	AnnotatorNotes T30	independent_continuant
+T31	GO_MF 702 713	antioxidant
+#31	AnnotatorNotes T31	GO:0016209 (antioxidant activity)
+T32	SO 714 719	genes
+#32	AnnotatorNotes T32	SO:0000704 (gene)
+T33	CHEBI 759 770	antioxidant
+#33	AnnotatorNotes T33	CHEBI:22586 (antioxidant)
+T34	GO_MF 759 770	antioxidant
+#34	AnnotatorNotes T34	GO:0016209 (antioxidant activity)
+T35	independent_continuant 759 770	antioxidant
+#35	AnnotatorNotes T35	independent_continuant
+T36	GO_BP 775 785	DNA repair
+#36	AnnotatorNotes T36	GO:0006281 (DNA repair)
+T37	SO 775 778	DNA
+#37	AnnotatorNotes T37	SO:0000352 (DNA)
+T38	SO 786 791	genes
+#38	AnnotatorNotes T38	SO:0000704 (gene)
+T39	GO_BP 799 808	regulated
+#39	AnnotatorNotes T39	GO:0065007 (biological regulation)
+T40	GO_MF 824 845	transcription factors
+#40	AnnotatorNotes T40	GO:0003700 (transcription factor activity)
+T41	independent_continuant 824 845	transcription factors
+#41	AnnotatorNotes T41	independent_continuant
+T42	GO_BP 824 837	transcription
+#42	AnnotatorNotes T42	GO:0006350 (transcription)
+T43	NCBITaxon 861 871	individual
+#43	AnnotatorNotes T43	NCBITaxon:1 (root)
+T44	GO_BP 885 895	expression
+#44	AnnotatorNotes T44	GO:0010467 (gene expression)
+T45	GO_MF 936 957	transcription factors
+#45	AnnotatorNotes T45	GO:0003700 (transcription factor activity)
+T46	independent_continuant 936 957	transcription factors
+#46	AnnotatorNotes T46	independent_continuant
+T47	GO_BP 936 949	transcription
+#47	AnnotatorNotes T47	GO:0006350 (transcription)
+T48	NCBITaxon 983 993	individual
+#48	AnnotatorNotes T48	NCBITaxon:1 (root)
+T49	SO 1043 1081	transcription factor recognition sites
+#49	AnnotatorNotes T49	SO:0000235 (TF_binding_site)
+T50	GO_MF 1043 1063	transcription factor
+#50	AnnotatorNotes T50	GO:0003700 (transcription factor activity)
+T51	independent_continuant 1043 1063	transcription factor
+#51	AnnotatorNotes T51	independent_continuant
+T52	GO_BP 1043 1056	transcription
+#52	AnnotatorNotes T52	GO:0006350 (transcription)
+T53	CHEBI 1103 1114	antioxidant
+#53	AnnotatorNotes T53	CHEBI:22586 (antioxidant)
+T54	independent_continuant 1103 1114	antioxidant
+#54	AnnotatorNotes T54	independent_continuant
+T55	GO_MF 1103 1114	antioxidant
+#55	AnnotatorNotes T55	GO:0016209 (antioxidant activity)
+T56	SO 1115 1120	genes
+#56	AnnotatorNotes T56	SO:0000704 (gene)
+T57	SO 1155 1167	DNA sequence
+#57	AnnotatorNotes T57	SO:0000352 (DNA)
+T58	SO 1182 1192	transcript
+#58	AnnotatorNotes T58	SO:0000673 (transcript)
+T59	GO_MF 1219 1240	transcription factors
+#59	AnnotatorNotes T59	GO:0003700 (transcription factor activity)
+T60	independent_continuant 1219 1240	transcription factors
+#60	AnnotatorNotes T60	independent_continuant
+T61	GO_BP 1219 1232	transcription
+#61	AnnotatorNotes T61	GO:0006350 (transcription)
+T62	CHEBI 1274 1285	antioxidant
+#62	AnnotatorNotes T62	CHEBI:22586 (antioxidant)
+T63	GO_MF 1274 1285	antioxidant
+#63	AnnotatorNotes T63	GO:0016209 (antioxidant activity)
+T64	independent_continuant 1274 1285	antioxidant
+#64	AnnotatorNotes T64	independent_continuant
+T65	GO_BP 1290 1300	DNA repair
+#65	AnnotatorNotes T65	GO:0006281 (DNA repair)
+T66	SO 1290 1293	DNA
+#66	AnnotatorNotes T66	SO:0000352 (DNA)
+T67	SO 1301 1306	genes
+#67	AnnotatorNotes T67	SO:0000704 (gene)
+T68	NCBITaxon 1396 1407	individuals
+#68	AnnotatorNotes T68	NCBITaxon:1 (root)
+T69	EntrezGene 1419 1445	CEBPG transcription factor
+#69	AnnotatorNotes T69	EG:1054
+T70	PR 1419 1445	CEBPG transcription factor
+#70	AnnotatorNotes T70	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T71	GO_MF 1425 1445	transcription factor
+#71	AnnotatorNotes T71	GO:0003700 (transcription factor activity)
+T72	independent_continuant 1425 1445	transcription factor
+#72	AnnotatorNotes T72	independent_continuant
+T73	GO_BP 1425 1438	transcription
+#73	AnnotatorNotes T73	GO:0006350 (transcription)
+T74	CHEBI 1504 1515	antioxidant
+#74	AnnotatorNotes T74	CHEBI:22586 (antioxidant)
+T75	GO_MF 1504 1515	antioxidant
+#75	AnnotatorNotes T75	GO:0016209 (antioxidant activity)
+T76	independent_continuant 1504 1515	antioxidant
+#76	AnnotatorNotes T76	independent_continuant
+T77	GO_BP 1519 1529	DNA repair
+#77	AnnotatorNotes T77	GO:0006281 (DNA repair)
+T78	SO 1519 1522	DNA
+#78	AnnotatorNotes T78	SO:0000352 (DNA)
+T79	SO 1530 1535	genes
+#79	AnnotatorNotes T79	SO:0000704 (gene)
+T80	NCBITaxon 1546 1557	individuals
+#80	AnnotatorNotes T80	NCBITaxon:1 (root)
+T81	NCBITaxon 1572 1583	individuals
+#81	AnnotatorNotes T81	NCBITaxon:1 (root)
+T82	NCBITaxon 1591 1602	individuals
+#82	AnnotatorNotes T82	NCBITaxon:1 (root)
+T83	EntrezGene 1624 1629	CEBPG
+#83	AnnotatorNotes T83	EG:1054
+T84	PR 1624 1629	CEBPG
+#84	AnnotatorNotes T84	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T85	NCBITaxon 1685 1696	individuals
+#85	AnnotatorNotes T85	NCBITaxon:1 (root)
+T86	SO 1713 1718	genes
+#86	AnnotatorNotes T86	SO:0000704 (gene)
+T87	EntrezGene 1720 1725	XRCC1
+#87	AnnotatorNotes T87	EG:7515
+T88	PR 1720 1725	XRCC1
+#88	AnnotatorNotes T88	PR:000017504 (DNA repair protein XRCC1)
+T89	EntrezGene 1727 1732	ERCC5
+#89	AnnotatorNotes T89	EG:2073
+T90	PR 1727 1732	ERCC5
+#90	AnnotatorNotes T90	PR:000007167 (DNA repair protein complementing XP-G cells)
+T91	EntrezGene 1734 1739	GSTP1
+#91	AnnotatorNotes T91	EG:2950
+T92	EntrezGene 1745 1749	SOD1
+#92	AnnotatorNotes T92	EG:6647
+T93	PR 1745 1749	SOD1
+#93	AnnotatorNotes T93	PR:000015399 (superoxide dismutase [Cu-Zn])
+T94	EntrezGene 1797 1801	GPX1
+#94	AnnotatorNotes T94	EG:2876
+T95	PR 1797 1801	GPX1
+#95	AnnotatorNotes T95	PR:000008210 (glutathione peroxidase 1)
+T96	GO_MF 1818 1838	transcription factor
+#96	AnnotatorNotes T96	GO:0003700 (transcription factor activity)
+T97	independent_continuant 1818 1838	transcription factor
+#97	AnnotatorNotes T97	independent_continuant
+T98	GO_BP 1818 1831	transcription
+#98	AnnotatorNotes T98	GO:0006350 (transcription)
+T99	SO 1880 1885	genes
+#99	AnnotatorNotes T99	SO:0000704 (gene)
+T100	NCBITaxon 1896 1907	individuals
+#100	AnnotatorNotes T100	NCBITaxon:1 (root)
+T101	EntrezGene 1912 1916	E2F1
+#101	AnnotatorNotes T101	EG:1869
+T102	PR 1912 1916	E2F1
+#102	AnnotatorNotes T102	PR:000006852 (transcription factor E2F1)
+T103	EntrezGene 1918 1922	E2F1
+#103	AnnotatorNotes T103	EG:1869
+T104	PR 1918 1922	E2F1
+#104	AnnotatorNotes T104	PR:000006852 (transcription factor E2F1)
+T105	EntrezGene 1943 1948	GSTP1
+#105	AnnotatorNotes T105	EG:2950
+T106	NCBITaxon 1962 1973	individuals
+#106	AnnotatorNotes T106	NCBITaxon:1 (root)
+T107	EntrezGene 1994 1999	CEBPG
+#107	AnnotatorNotes T107	EG:1054
+T108	PR 1994 1999	CEBPG
+#108	AnnotatorNotes T108	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T109	NCBITaxon 2067 2078	individuals
+#109	AnnotatorNotes T109	NCBITaxon:1 (root)
+T110	NCBITaxon 2094 2105	individuals
+#110	AnnotatorNotes T110	NCBITaxon:1 (root)
+T111	EntrezGene 2137 2142	CEBPG
+#111	AnnotatorNotes T111	EG:1054
+T112	PR 2137 2142	CEBPG
+#112	AnnotatorNotes T112	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T113	GO_MF 2150 2170	transcription factor
+#113	AnnotatorNotes T113	GO:0003700 (transcription factor activity)
+T114	independent_continuant 2150 2170	transcription factor
+#114	AnnotatorNotes T114	independent_continuant
+T115	GO_BP 2150 2163	transcription
+#115	AnnotatorNotes T115	GO:0006350 (transcription)
+T116	GO_BP 2197 2207	regulating
+#116	AnnotatorNotes T116	GO:0065007 (biological regulation)
+T117	GO_BP 2208 2221	transcription
+#117	AnnotatorNotes T117	GO:0006350 (transcription)
+T118	CHEBI 2229 2240	antioxidant
+#118	AnnotatorNotes T118	CHEBI:22586 (antioxidant)
+T119	GO_MF 2229 2240	antioxidant
+#119	AnnotatorNotes T119	GO:0016209 (antioxidant activity)
+T120	independent_continuant 2229 2240	antioxidant
+#120	AnnotatorNotes T120	independent_continuant
+T121	GO_BP 2245 2255	DNA repair
+#121	AnnotatorNotes T121	GO:0006281 (DNA repair)
+T122	SO 2245 2248	DNA
+#122	AnnotatorNotes T122	SO:0000352 (DNA)
+T123	SO 2256 2261	genes
+#123	AnnotatorNotes T123	SO:0000704 (gene)
+T124	NCBITaxon 2272 2283	individuals
+#124	AnnotatorNotes T124	NCBITaxon:1 (root)
+T125	GO_BP 2391 2401	regulation
+#125	AnnotatorNotes T125	GO:0065007 (biological regulation)
+T126	CHEBI 2405 2416	antioxidant
+#126	AnnotatorNotes T126	CHEBI:22586 (antioxidant)
+T127	GO_MF 2405 2416	antioxidant
+#127	AnnotatorNotes T127	GO:0016209 (antioxidant activity)
+T128	independent_continuant 2405 2416	antioxidant
+#128	AnnotatorNotes T128	independent_continuant
+T129	GO_BP 2421 2431	DNA repair
+#129	AnnotatorNotes T129	GO:0006281 (DNA repair)
+T130	SO 2421 2424	DNA
+#130	AnnotatorNotes T130	SO:0000352 (DNA)
+T131	SO 2432 2437	genes
+#131	AnnotatorNotes T131	SO:0000704 (gene)
+T132	EntrezGene 2441 2446	CEBPG
+#132	AnnotatorNotes T132	EG:1054
+T133	PR 2441 2446	CEBPG
+#133	AnnotatorNotes T133	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T134	GO_BP 2513 2518	death
+#134	AnnotatorNotes T134	GO:0016265 (death)
+T135	GO_BP 2567 2573	deaths
+#135	AnnotatorNotes T135	GO:0016265 (death)
+T136	CHEBI 2710 2721	Antioxidant
+#136	AnnotatorNotes T136	CHEBI:22586 (antioxidant)
+T137	independent_continuant 2710 2721	Antioxidant
+#137	AnnotatorNotes T137	independent_continuant
+T138	GO_MF 2710 2721	Antioxidant
+#138	AnnotatorNotes T138	GO:0016209 (antioxidant activity)
+T139	GO_BP 2726 2736	DNA repair
+#139	AnnotatorNotes T139	GO:0006281 (DNA repair)
+T140	SO 2726 2729	DNA
+#140	AnnotatorNotes T140	SO:0000352 (DNA)
+T141	SO 2737 2744	enzymes
+#141	AnnotatorNotes T141	SO:0001185 (enzymatic)
+T142	GO_BP 2809 2818	expressed
+#142	AnnotatorNotes T142	GO:0010467 (gene expression)
+T143	CL 2837 2842	cells
+#143	AnnotatorNotes T143	CL:0000000 (cell)
+T144	GO_CC 2837 2842	cells
+#144	AnnotatorNotes T144	GO:0005623 (cell)
+T145	CL 2868 2884	epithelial cells
+#145	AnnotatorNotes T145	CL:0000066 (epithelial cell)
+T146	GO_CC 2879 2884	cells
+#146	AnnotatorNotes T146	GO:0005623 (cell)
+T147	NCBITaxon 2913 2923	individual
+#147	AnnotatorNotes T147	NCBITaxon:1 (root)
+T148	SO 2959 2964	genes
+#148	AnnotatorNotes T148	SO:0000704 (gene)
+T149	CHEBI 3012 3023	Antioxidant
+#149	AnnotatorNotes T149	CHEBI:22586 (antioxidant)
+T150	GO_MF 3012 3023	Antioxidant
+#150	AnnotatorNotes T150	GO:0016209 (antioxidant activity)
+T151	independent_continuant 3012 3023	Antioxidant
+#151	AnnotatorNotes T151	independent_continuant
+T152	SO 3024 3031	enzymes
+#152	AnnotatorNotes T152	SO:0001185 (enzymatic)
+T153	CHEBI 3050 3073	reactive oxygen species
+#153	AnnotatorNotes T153	CHEBI:26523 (reactive oxygen species)
+T154	CHEBI 3059 3065	oxygen
+#154	AnnotatorNotes T154	CHEBI:25805 (oxygen)
+T155	GO_BP 3074 3082	produced
+#155	AnnotatorNotes T155	GO:0009058 (biosynthetic process)
+T156	GO_BP 3107 3132	metabolism of xenobiotics
+#156	AnnotatorNotes T156	GO:0006805 (xenobiotic metabolic process)
+T157	CHEBI 3121 3132	xenobiotics
+#157	AnnotatorNotes T157	CHEBI:35703 (xenobiotic)
+T158	GO_BP 3194 3202	produced
+#158	AnnotatorNotes T158	GO:0009058 (biosynthetic process)
+T159	GO_BP 3213 3232	cellular metabolism
+#159	AnnotatorNotes T159	GO:0044237 (cellular metabolic process)
+T160	CL 3213 3221	cellular
+#160	AnnotatorNotes T160	CL:0000000 (cell)
+T161	GO_CC 3213 3221	cellular
+#161	AnnotatorNotes T161	GO:0005623 (cell)
+T162	CHEBI 3234 3257	Reactive oxygen species
+#162	AnnotatorNotes T162	CHEBI:26523 (reactive oxygen species)
+T163	CHEBI 3243 3249	oxygen
+#163	AnnotatorNotes T163	CHEBI:25805 (oxygen)
+T164	GO_BP 3298 3322	denaturation of proteins
+#164	AnnotatorNotes T164	GO:0030164 (protein denaturation)
+T165	CHEBI 3314 3322	proteins
+#165	AnnotatorNotes T165	CHEBI:36080 (proteins)
+T166	GO_BP 3324 3337	cross-linking
+#166	AnnotatorNotes T166	GO:0018149 (peptide cross-linking)
+T167	CHEBI 3341 3347	lipids
+#167	AnnotatorNotes T167	CHEBI:18059 (lipids)
+T168	CHEBI 3352 3360	proteins
+#168	AnnotatorNotes T168	CHEBI:36080 (proteins)
+T169	GO_BP 3365 3399	modification of nucleic acid bases
+#169	AnnotatorNotes T169	GO:0006304 (DNA modification)
+T170	SO 3365 3377	modification
+#170	AnnotatorNotes T170	SO:0000041 (sequence_operation)
+T171	CHEBI 3381 3393	nucleic acid
+#171	AnnotatorNotes T171	CHEBI:33696 (nucleic acids)
+T172	SO 3381 3393	nucleic acid
+#172	AnnotatorNotes T172	SO:0000348 (nucleic_acid)
+T173	CHEBI 3389 3393	acid
+#173	AnnotatorNotes T173	CHEBI:37527 (acid)
+T174	SO 3394 3399	bases
+#174	AnnotatorNotes T174	SO:0001236 (base)
+T175	GO_BP 3431 3441	DNA repair
+#175	AnnotatorNotes T175	GO:0006281 (DNA repair)
+T176	SO 3431 3434	DNA
+#176	AnnotatorNotes T176	SO:0000352 (DNA)
+T177	SO 3442 3449	enzymes
+#177	AnnotatorNotes T177	SO:0001185 (enzymatic)
+T178	GO_BP 3450 3456	repair
+#178	AnnotatorNotes T178	GO:0006281 (DNA repair)
+T179	SO 3480 3483	DNA
+#179	AnnotatorNotes T179	SO:0000352 (DNA)
+T180	SO 3653 3663	transcript
+#180	AnnotatorNotes T180	SO:0000673 (transcript)
+T181	CHEBI 3691 3702	antioxidant
+#181	AnnotatorNotes T181	CHEBI:22586 (antioxidant)
+T182	GO_MF 3691 3702	antioxidant
+#182	AnnotatorNotes T182	GO:0016209 (antioxidant activity)
+T183	independent_continuant 3691 3702	antioxidant
+#183	AnnotatorNotes T183	independent_continuant
+T184	SO 3703 3708	genes
+#184	AnnotatorNotes T184	SO:0000704 (gene)
+T185	NCBITaxon 3733 3744	individuals
+#185	AnnotatorNotes T185	NCBITaxon:1 (root)
+T186	NCBITaxon 3764 3775	individuals
+#186	AnnotatorNotes T186	NCBITaxon:1 (root)
+T187	NCBITaxon 3796 3807	individuals
+#187	AnnotatorNotes T187	NCBITaxon:1 (root)
+T188	CHEBI 3842 3853	antioxidant
+#188	AnnotatorNotes T188	CHEBI:22586 (antioxidant)
+T189	GO_MF 3842 3853	antioxidant
+#189	AnnotatorNotes T189	GO:0016209 (antioxidant activity)
+T190	independent_continuant 3842 3853	antioxidant
+#190	AnnotatorNotes T190	independent_continuant
+T191	SO 3929 3939	transcript
+#191	AnnotatorNotes T191	SO:0000673 (transcript)
+T192	CHEBI 3975 3986	antioxidant
+#192	AnnotatorNotes T192	CHEBI:22586 (antioxidant)
+T193	independent_continuant 3975 3986	antioxidant
+#193	AnnotatorNotes T193	independent_continuant
+T194	GO_MF 3975 3986	antioxidant
+#194	AnnotatorNotes T194	GO:0016209 (antioxidant activity)
+T195	GO_BP 3990 4000	DNA repair
+#195	AnnotatorNotes T195	GO:0006281 (DNA repair)
+T196	SO 3990 3993	DNA
+#196	AnnotatorNotes T196	SO:0000352 (DNA)
+T197	SO 4001 4006	genes
+#197	AnnotatorNotes T197	SO:0000704 (gene)
+T198	NCBITaxon 4017 4028	individuals
+#198	AnnotatorNotes T198	NCBITaxon:1 (root)
+T199	NCBITaxon 4044 4055	individuals
+#199	AnnotatorNotes T199	NCBITaxon:1 (root)
+T200	SO 4057 4061	Gene
+#200	AnnotatorNotes T200	SO:0000704 (gene)
+T201	EntrezGene 4102 4107	GSTP1
+#201	AnnotatorNotes T201	EG:2950
+T202	EntrezGene 4108 4112	GPX1
+#202	AnnotatorNotes T202	EG:2876
+T203	PR 4108 4112	GPX1
+#203	AnnotatorNotes T203	PR:000008210 (glutathione peroxidase 1)
+T204	EntrezGene 4114 4117	CAT
+#204	AnnotatorNotes T204	EG:847
+T205	PR 4114 4117	CAT
+#205	AnnotatorNotes T205	PR:000005061 (catalase)
+T206	EntrezGene 4118 4122	GPX3
+#206	AnnotatorNotes T206	EG:2878
+T207	PR 4118 4122	GPX3
+#207	AnnotatorNotes T207	PR:000008212 (glutathione peroxidase 3)
+T208	EntrezGene 4128 4132	GPX3
+#208	AnnotatorNotes T208	EG:2878
+T209	PR 4128 4132	GPX3
+#209	AnnotatorNotes T209	PR:000008212 (glutathione peroxidase 3)
+T210	EntrezGene 4133 4137	SOD1
+#210	AnnotatorNotes T210	EG:6647
+T211	PR 4133 4137	SOD1
+#211	AnnotatorNotes T211	PR:000015399 (superoxide dismutase [Cu-Zn])
+T212	GO_BP 4188 4197	regulated
+#212	AnnotatorNotes T212	GO:0065007 (biological regulation)
+T213	SO 4198 4203	genes
+#213	AnnotatorNotes T213	SO:0000704 (gene)
+T214	SO 4223 4261	transcription factor recognition sites
+#214	AnnotatorNotes T214	SO:0000235 (TF_binding_site)
+T215	GO_MF 4223 4243	transcription factor
+#215	AnnotatorNotes T215	GO:0003700 (transcription factor activity)
+T216	independent_continuant 4223 4243	transcription factor
+#216	AnnotatorNotes T216	independent_continuant
+T217	GO_BP 4223 4236	transcription
+#217	AnnotatorNotes T217	GO:0006350 (transcription)
+T218	SO 4269 4287	regulatory regions
+#218	AnnotatorNotes T218	SO:0005836 (regulatory_region)
+T219	GO_BP 4269 4279	regulatory
+#219	AnnotatorNotes T219	GO:0065007 (biological regulation)
+T220	SO 4297 4302	genes
+#220	AnnotatorNotes T220	SO:0000704 (gene)
+T221	NCBITaxon 4385 4395	individual
+#221	AnnotatorNotes T221	NCBITaxon:1 (root)
+T222	GO_BP 4409 4419	regulation
+#222	AnnotatorNotes T222	GO:0065007 (biological regulation)
+T223	CHEBI 4427 4438	antioxidant
+#223	AnnotatorNotes T223	CHEBI:22586 (antioxidant)
+T224	GO_MF 4427 4438	antioxidant
+#224	AnnotatorNotes T224	GO:0016209 (antioxidant activity)
+T225	independent_continuant 4427 4438	antioxidant
+#225	AnnotatorNotes T225	independent_continuant
+T226	GO_BP 4443 4453	DNA repair
+#226	AnnotatorNotes T226	GO:0006281 (DNA repair)
+T227	SO 4443 4446	DNA
+#227	AnnotatorNotes T227	SO:0000352 (DNA)
+T228	SO 4454 4459	genes
+#228	AnnotatorNotes T228	SO:0000704 (gene)
+T229	GO_MF 4475 4496	transcription factors
+#229	AnnotatorNotes T229	GO:0003700 (transcription factor activity)
+T230	independent_continuant 4475 4496	transcription factors
+#230	AnnotatorNotes T230	independent_continuant
+T231	GO_BP 4475 4488	transcription
+#231	AnnotatorNotes T231	GO:0006350 (transcription)
+T232	NCBITaxon 4514 4525	individuals
+#232	AnnotatorNotes T232	NCBITaxon:1 (root)
+T233	GO_BP 4543 4553	regulation
+#233	AnnotatorNotes T233	GO:0065007 (biological regulation)
+T234	SO 4641 4679	transcription factor recognition sites
+#234	AnnotatorNotes T234	SO:0000235 (TF_binding_site)
+T235	GO_MF 4641 4661	transcription factor
+#235	AnnotatorNotes T235	GO:0003700 (transcription factor activity)
+T236	independent_continuant 4641 4661	transcription factor
+#236	AnnotatorNotes T236	independent_continuant
+T237	GO_BP 4641 4654	transcription
+#237	AnnotatorNotes T237	GO:0006350 (transcription)
+T238	SO 4694 4712	regulatory regions
+#238	AnnotatorNotes T238	SO:0005836 (regulatory_region)
+T239	GO_BP 4694 4704	regulatory
+#239	AnnotatorNotes T239	GO:0065007 (biological regulation)
+T240	SO 4737 4741	gene
+#240	AnnotatorNotes T240	SO:0000704 (gene)
+T241	SO 4782 4794	DNA sequence
+#241	AnnotatorNotes T241	SO:0000352 (DNA)
+T242	SO 4815 4825	transcript
+#242	AnnotatorNotes T242	SO:0000673 (transcript)
+T243	CHEBI 4890 4901	antioxidant
+#243	AnnotatorNotes T243	CHEBI:22586 (antioxidant)
+T244	GO_MF 4890 4901	antioxidant
+#244	AnnotatorNotes T244	GO:0016209 (antioxidant activity)
+T245	independent_continuant 4890 4901	antioxidant
+#245	AnnotatorNotes T245	independent_continuant
+T246	GO_BP 4910 4920	DNA repair
+#246	AnnotatorNotes T246	GO:0006281 (DNA repair)
+T247	SO 4910 4913	DNA
+#247	AnnotatorNotes T247	SO:0000352 (DNA)
+T248	SO 4921 4926	genes
+#248	AnnotatorNotes T248	SO:0000704 (gene)
+T249	NCBITaxon 5589 5600	individuals
+#249	AnnotatorNotes T249	NCBITaxon:1 (root)
+T250	NCBITaxon 5622 5633	individuals
+#250	AnnotatorNotes T250	NCBITaxon:1 (root)
+T251	NCBITaxon 5644 5655	individuals
+#251	AnnotatorNotes T251	NCBITaxon:1 (root)
+T252	NCBITaxon 5729 5740	individuals
+#252	AnnotatorNotes T252	NCBITaxon:1 (root)
+T253	SO 5768 5778	Transcript
+#253	AnnotatorNotes T253	SO:0000673 (transcript)
+T254	SO 5808 5811	RNA
+#254	AnnotatorNotes T254	SO:0000356 (RNA)
+T255	GO_BP 5845 5864	reverse transcribed
+#255	AnnotatorNotes T255	GO:0006410 (transcription, RNA-dependent)
+T256	EntrezGene 5871 5898	M-MLV reverse transcriptase
+#256	AnnotatorNotes T256	EG:1491871
+T257	NCBITaxon 5871 5876	M-MLV
+#257	AnnotatorNotes T257	NCBITaxon:11801 (Moloney murine leukemia virus)
+T258	GO_MF 5877 5898	reverse transcriptase
+#258	AnnotatorNotes T258	GO:0003964 (RNA-directed DNA polymerase activity)
+T259	independent_continuant 5877 5898	reverse transcriptase
+#259	AnnotatorNotes T259	independent_continuant
+T260	SO 5903 5908	oligo
+#260	AnnotatorNotes T260	SO:0000696 (oligo)
+T261	SO 5912 5919	primers
+#261	AnnotatorNotes T261	SO:0000112 (primer)
+T262	GO_MF 5965 5967	RT
+#262	AnnotatorNotes T262	GO:0003964 (RNA-directed DNA polymerase activity)
+T263	independent_continuant 5965 5967	RT
+#263	AnnotatorNotes T263	independent_continuant
+T264	GO_BP 5965 5967	RT
+#264	AnnotatorNotes T264	GO:0006410 (transcription, RNA-dependent)
+T265	SO 5993 6003	transcript
+#265	AnnotatorNotes T265	SO:0000673 (transcript)
+T266	SO 6090 6094	gene
+#266	AnnotatorNotes T266	SO:0000704 (gene)
+T267	SO 6209 6217	products
+#267	AnnotatorNotes T267	SO:0000006 (PCR_product)
+T268	SO 6276 6279	DNA
+#268	AnnotatorNotes T268	SO:0000352 (DNA)
+T269	SO 6291 6294	DNA
+#269	AnnotatorNotes T269	SO:0000352 (DNA)
+T270	CHEBI 6304 6312	reagents
+#270	AnnotatorNotes T270	CHEBI:33893 (reagent)
+T271	SO 6474 6478	Gene
+#271	AnnotatorNotes T271	SO:0000704 (gene)
+T272	CHEBI 6519 6527	reagents
+#272	AnnotatorNotes T272	CHEBI:33893 (reagent)
+T273	SO 6581 6585	Gene
+#273	AnnotatorNotes T273	SO:0000704 (gene)
+T274	CHEBI 6626 6634	reagents
+#274	AnnotatorNotes T274	CHEBI:33893 (reagent)
+T275	SO 6660 6665	genes
+#275	AnnotatorNotes T275	SO:0000704 (gene)
+T276	SO 6714 6721	primers
+#276	AnnotatorNotes T276	SO:0000112 (primer)
+T277	SO 6797 6805	Sequence
+#277	AnnotatorNotes T277	SO:0000001 (region)
+T278	SO 6826 6833	primers
+#278	AnnotatorNotes T278	SO:0000112 (primer)
+T279	CHEBI 6990 7000	inhibitors
+#279	AnnotatorNotes T279	CHEBI:35222 (inhibitor)
+T280	SO 7049 7059	transcript
+#280	AnnotatorNotes T280	SO:0000673 (transcript)
+T281	SO 7415 7427	PCR products
+#281	AnnotatorNotes T281	SO:0000006 (PCR_product)
+T282	SO 7761 7766	genes
+#282	AnnotatorNotes T282	SO:0000704 (gene)
+T283	SO 7800 7804	gene
+#283	AnnotatorNotes T283	SO:0000704 (gene)
+T284	CHEBI 7819 7827	reagents
+#284	AnnotatorNotes T284	CHEBI:33893 (reagent)
+T285	CHEBI 7874 7883	molecules
+#285	AnnotatorNotes T285	CHEBI:23367 (molecular entity)
+T286	sup 7967 7968	7
+#286	AnnotatorNotes T286	sup (null)
+T287	CHEBI 7969 7978	molecules
+#287	AnnotatorNotes T287	CHEBI:23367 (molecular entity)
+T288	CHEBI 8126 8136	inhibitors
+#288	AnnotatorNotes T288	CHEBI:35222 (inhibitor)
+T289	SO 8154 8158	gene
+#289	AnnotatorNotes T289	SO:0000704 (gene)
+T290	SO 8240 8251	PCR product
+#290	AnnotatorNotes T290	SO:0000006 (PCR_product)
+T291	SO 8379 8383	cDNA
+#291	AnnotatorNotes T291	SO:0000756 (cDNA)
+T292	SO 8430 8440	transcript
+#292	AnnotatorNotes T292	SO:0000673 (transcript)
+T293	GO_MF 8536 8557	transcription factors
+#293	AnnotatorNotes T293	GO:0003700 (transcription factor activity)
+T294	independent_continuant 8536 8557	transcription factors
+#294	AnnotatorNotes T294	independent_continuant
+T295	GO_BP 8536 8549	transcription
+#295	AnnotatorNotes T295	GO:0006350 (transcription)
+T296	CHEBI 8570 8581	antioxidant
+#296	AnnotatorNotes T296	CHEBI:22586 (antioxidant)
+T297	GO_MF 8570 8581	antioxidant
+#297	AnnotatorNotes T297	GO:0016209 (antioxidant activity)
+T298	independent_continuant 8570 8581	antioxidant
+#298	AnnotatorNotes T298	independent_continuant
+T299	GO_BP 8586 8596	DNA repair
+#299	AnnotatorNotes T299	GO:0006281 (DNA repair)
+T300	SO 8586 8589	DNA
+#300	AnnotatorNotes T300	SO:0000352 (DNA)
+T301	SO 8597 8602	genes
+#301	AnnotatorNotes T301	SO:0000704 (gene)
+T302	NCBITaxon 8627 8638	individuals
+#302	AnnotatorNotes T302	NCBITaxon:1 (root)
+T303	NCBITaxon 8650 8661	individuals
+#303	AnnotatorNotes T303	NCBITaxon:1 (root)
+T304	NCBITaxon 8672 8683	individuals
+#304	AnnotatorNotes T304	NCBITaxon:1 (root)
+T305	GO_MF 8718 8739	transcription factors
+#305	AnnotatorNotes T305	GO:0003700 (transcription factor activity)
+T306	independent_continuant 8718 8739	transcription factors
+#306	AnnotatorNotes T306	independent_continuant
+T307	GO_BP 8718 8731	transcription
+#307	AnnotatorNotes T307	GO:0006350 (transcription)
+T308	CHEBI 8757 8768	antioxidant
+#308	AnnotatorNotes T308	CHEBI:22586 (antioxidant)
+T309	independent_continuant 8757 8768	antioxidant
+#309	AnnotatorNotes T309	independent_continuant
+T310	GO_MF 8757 8768	antioxidant
+#310	AnnotatorNotes T310	GO:0016209 (antioxidant activity)
+T311	GO_BP 8772 8782	DNA repair
+#311	AnnotatorNotes T311	GO:0006281 (DNA repair)
+T312	SO 8772 8775	DNA
+#312	AnnotatorNotes T312	SO:0000352 (DNA)
+T313	SO 8783 8788	genes
+#313	AnnotatorNotes T313	SO:0000704 (gene)
+T314	GO_BP 8940 8963	expression of each gene
+#314	AnnotatorNotes T314	"expression of .. gene" GO:0010467 (gene expression)
+T315	SO 8959 8963	gene
+#315	AnnotatorNotes T315	SO:0000704 (gene)
+T316	NCBITaxon 8974 8985	individuals
+#316	AnnotatorNotes T316	NCBITaxon:1 (root)
+T317	GO_MF 9126 9147	transcription factors
+#317	AnnotatorNotes T317	GO:0003700 (transcription factor activity)
+T318	independent_continuant 9126 9147	transcription factors
+#318	AnnotatorNotes T318	independent_continuant
+T319	GO_BP 9126 9139	transcription
+#319	AnnotatorNotes T319	GO:0006350 (transcription)
+T320	CHEBI 9163 9174	antioxidant
+#320	AnnotatorNotes T320	CHEBI:22586 (antioxidant)
+T321	independent_continuant 9163 9174	antioxidant
+#321	AnnotatorNotes T321	independent_continuant
+T322	GO_MF 9163 9174	antioxidant
+#322	AnnotatorNotes T322	GO:0016209 (antioxidant activity)
+T323	GO_BP 9178 9188	DNA repair
+#323	AnnotatorNotes T323	GO:0006281 (DNA repair)
+T324	SO 9178 9181	DNA
+#324	AnnotatorNotes T324	SO:0000352 (DNA)
+T325	SO 9189 9194	genes
+#325	AnnotatorNotes T325	SO:0000704 (gene)
+T326	SO 9386 9396	transcript
+#326	AnnotatorNotes T326	SO:0000673 (transcript)
+T327	SO 9421 9425	gene
+#327	AnnotatorNotes T327	SO:0000704 (gene)
+T328	SO 9559 9596	Transcription factor recognition site
+#328	AnnotatorNotes T328	SO:0000235 (TF_binding_site)
+T329	GO_MF 9559 9579	Transcription factor
+#329	AnnotatorNotes T329	GO:0003700 (transcription factor activity)
+T330	independent_continuant 9559 9579	Transcription factor
+#330	AnnotatorNotes T330	independent_continuant
+T331	GO_BP 9559 9572	Transcription
+#331	AnnotatorNotes T331	GO:0006350 (transcription)
+T332	SO 9710 9715	genes
+#332	AnnotatorNotes T332	SO:0000704 (gene)
+T333	SO 9727 9733	genome
+#333	AnnotatorNotes T333	SO:0001026 (genome)
+T334	SO 9750 9760	base pairs
+#334	AnnotatorNotes T334	SO:0000028 (base_pair)
+T335	SO 9750 9754	base
+#335	AnnotatorNotes T335	SO:0001236 (base)
+T336	SO 9768 9784	promoter regions
+#336	AnnotatorNotes T336	SO:0000167 (promoter)
+T337	SO 9791 9801	base pairs
+#337	AnnotatorNotes T337	SO:0000028 (base_pair)
+T338	SO 9791 9795	base
+#338	AnnotatorNotes T338	SO:0001236 (base)
+T339	SO 9822 9832	base pairs
+#339	AnnotatorNotes T339	SO:0000028 (base_pair)
+T340	SO 9822 9826	base
+#340	AnnotatorNotes T340	SO:0001236 (base)
+T341	SO 9842 9866	transcription start site
+#341	AnnotatorNotes T341	SO:0000315 (TSS)
+T342	GO_BP 9842 9861	transcription start
+#342	AnnotatorNotes T342	GO:0006352 (transcription initiation)
+T343	GO_BP 9842 9855	transcription
+#343	AnnotatorNotes T343	GO:0006350 (transcription)
+T344	SO 9877 9881	gene
+#344	AnnotatorNotes T344	SO:0000704 (gene)
+T345	SO 9941 9950	base pair
+#345	AnnotatorNotes T345	SO:0000028 (base_pair)
+T346	SO 9941 9945	base
+#346	AnnotatorNotes T346	SO:0001236 (base)
+T347	SO 9951 9960	sequences
+#347	AnnotatorNotes T347	SO:0000001 (region)
+T348	SO 10026 10035	sequences
+#348	AnnotatorNotes T348	SO:0000001 (region)
+T349	SO 10049 10086	transcription factor recognition site
+#349	AnnotatorNotes T349	SO:0000235 (TF_binding_site)
+T350	GO_MF 10049 10069	transcription factor
+#350	AnnotatorNotes T350	GO:0003700 (transcription factor activity)
+T351	independent_continuant 10049 10069	transcription factor
+#351	AnnotatorNotes T351	independent_continuant
+T352	GO_BP 10049 10062	transcription
+#352	AnnotatorNotes T352	GO:0006350 (transcription)
+T353	SO 10160 10194	sites for 11 transcription factors
+#353	AnnotatorNotes T353	"sites for .. transcription factors" SO:0000235 (TF_binding_site)
+T354	GO_MF 10173 10194	transcription factors
+#354	AnnotatorNotes T354	GO:0003700 (transcription factor activity)
+T355	independent_continuant 10173 10194	transcription factors
+#355	AnnotatorNotes T355	independent_continuant
+T356	GO_BP 10173 10186	transcription
+#356	AnnotatorNotes T356	GO:0006350 (transcription)
+T357	CHEBI 10358 10366	reagents
+#357	AnnotatorNotes T357	CHEBI:33893 (reagent)
+T358	GO_MF 10399 10420	transcription factors
+#358	AnnotatorNotes T358	GO:0003700 (transcription factor activity)
+T359	independent_continuant 10399 10420	transcription factors
+#359	AnnotatorNotes T359	independent_continuant
+T360	GO_BP 10399 10412	transcription
+#360	AnnotatorNotes T360	GO:0006350 (transcription)
+T361	EntrezGene 10432 10437	CEBPB
+#361	AnnotatorNotes T361	EG:1051
+T362	PR 10432 10437	CEBPB
+#362	AnnotatorNotes T362	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T363	EntrezGene 10439 10444	CEBPE
+#363	AnnotatorNotes T363	EG:1053
+T364	PR 10439 10444	CEBPE
+#364	AnnotatorNotes T364	PR:000005310 (CCAAT/enhancer-binding protein epsilon)
+T365	EntrezGene 10446 10451	CEBPG
+#365	AnnotatorNotes T365	EG:1054
+T366	PR 10446 10451	CEBPG
+#366	AnnotatorNotes T366	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T367	EntrezGene 10453 10457	E2F1
+#367	AnnotatorNotes T367	EG:1869
+T368	PR 10453 10457	E2F1
+#368	AnnotatorNotes T368	PR:000006852 (transcription factor E2F1)
+T369	EntrezGene 10459 10463	E2F3
+#369	AnnotatorNotes T369	EG:1871
+T370	PR 10459 10463	E2F3
+#370	AnnotatorNotes T370	PR:000006854 (transcription factor E2F3)
+T371	EntrezGene 10465 10469	E2F4
+#371	AnnotatorNotes T371	EG:1874
+T372	PR 10465 10469	E2F4
+#372	AnnotatorNotes T372	PR:000006855 (transcription factor E2F4)
+T373	EntrezGene 10471 10475	E2F5
+#373	AnnotatorNotes T373	EG:1875
+T374	PR 10471 10475	E2F5
+#374	AnnotatorNotes T374	PR:000006856 (transcription factor E2F5)
+T375	EntrezGene 10477 10481	E2F6
+#375	AnnotatorNotes T375	EG:1876
+T376	PR 10477 10481	E2F6
+#376	AnnotatorNotes T376	PR:000006857 (transcription factor E2F6)
+T377	EntrezGene 10483 10487	EVI1
+#377	AnnotatorNotes T377	EG:2122
+T378	PR 10483 10487	EVI1
+#378	AnnotatorNotes T378	PR:000007234 (ecotropic virus integration site 1 protein)
+T379	EntrezGene 10493 10497	PAX5
+#379	AnnotatorNotes T379	EG:5079
+T380	PR 10493 10497	PAX5
+#380	AnnotatorNotes T380	PR:000001903 (paired box protein PAX-5)
+T381	GO_MF 10504 10525	transcription factors
+#381	AnnotatorNotes T381	GO:0003700 (transcription factor activity)
+T382	independent_continuant 10504 10525	transcription factors
+#382	AnnotatorNotes T382	independent_continuant
+T383	GO_BP 10504 10517	transcription
+#383	AnnotatorNotes T383	GO:0006350 (transcription)
+T384	GO_BP 10531 10540	expressed
+#384	AnnotatorNotes T384	GO:0010467 (gene expression)
+T385	EntrezGene 10660 10665	CEBPB
+#385	AnnotatorNotes T385	EG:1051
+T386	PR 10660 10665	CEBPB
+#386	AnnotatorNotes T386	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T387	EntrezGene 10667 10672	CEBPG
+#387	AnnotatorNotes T387	EG:1054
+T388	PR 10667 10672	CEBPG
+#388	AnnotatorNotes T388	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T389	EntrezGene 10674 10678	E2F1
+#389	AnnotatorNotes T389	EG:1869
+T390	PR 10674 10678	E2F1
+#390	AnnotatorNotes T390	PR:000006852 (transcription factor E2F1)
+T391	EntrezGene 10680 10684	E2F3
+#391	AnnotatorNotes T391	EG:1871
+T392	PR 10680 10684	E2F3
+#392	AnnotatorNotes T392	PR:000006854 (transcription factor E2F3)
+T393	EntrezGene 10686 10690	E2F6
+#393	AnnotatorNotes T393	EG:1876
+T394	PR 10686 10690	E2F6
+#394	AnnotatorNotes T394	PR:000006857 (transcription factor E2F6)
+T395	EntrezGene 10696 10699	EVI
+#395	AnnotatorNotes T395	EG:2122
+T396	PR 10696 10699	EVI
+#396	AnnotatorNotes T396	PR:000007234 (ecotropic virus integration site 1 protein)
+T397	CHEBI 10762 10773	antioxidant
+#397	AnnotatorNotes T397	CHEBI:22586 (antioxidant)
+T398	GO_MF 10762 10773	antioxidant
+#398	AnnotatorNotes T398	GO:0016209 (antioxidant activity)
+T399	independent_continuant 10762 10773	antioxidant
+#399	AnnotatorNotes T399	independent_continuant
+T400	GO_BP 10782 10792	DNA repair
+#400	AnnotatorNotes T400	GO:0006281 (DNA repair)
+T401	SO 10782 10785	DNA
+#401	AnnotatorNotes T401	SO:0000352 (DNA)
+T402	SO 10793 10798	genes
+#402	AnnotatorNotes T402	SO:0000704 (gene)
+T403	SO 10832 10842	transcript
+#403	AnnotatorNotes T403	SO:0000673 (transcript)
+T404	SO 10881 10885	gene
+#404	AnnotatorNotes T404	SO:0000704 (gene)
+T405	EntrezGene 10924 10928	E2F1
+#405	AnnotatorNotes T405	EG:1869
+T406	PR 10924 10928	E2F1
+#406	AnnotatorNotes T406	PR:000006852 (transcription factor E2F1)
+T407	SO 10968 10972	gene
+#407	AnnotatorNotes T407	SO:0000704 (gene)
+T408	CHEBI 10982 10991	inhibitor
+#408	AnnotatorNotes T408	CHEBI:35222 (inhibitor)
+T409	EntrezGene 11033 11037	E2F1
+#409	AnnotatorNotes T409	EG:1869
+T410	PR 11033 11037	E2F1
+#410	AnnotatorNotes T410	PR:000006852 (transcription factor E2F1)
+T411	SO 11085 11089	cDNA
+#411	AnnotatorNotes T411	SO:0000756 (cDNA)
+T412	SO 11090 11101	PCR product
+#412	AnnotatorNotes T412	SO:0000006 (PCR_product)
+T413	SO 11132 11136	gene
+#413	AnnotatorNotes T413	SO:0000704 (gene)
+T414	SO 11248 11260	PCR products
+#414	AnnotatorNotes T414	SO:0000006 (PCR_product)
+T415	CHEBI 11323 11332	molecules
+#415	AnnotatorNotes T415	CHEBI:23367 (molecular entity)
+T416	NCBITaxon 11507 11518	individuals
+#416	AnnotatorNotes T416	NCBITaxon:1 (root)
+T417	EntrezGene 11572 11577	CEBPG
+#417	AnnotatorNotes T417	EG:1054
+T418	PR 11572 11577	CEBPG
+#418	AnnotatorNotes T418	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T419	CHEBI 11598 11609	antioxidant
+#419	AnnotatorNotes T419	CHEBI:22586 (antioxidant)
+T420	GO_MF 11598 11609	antioxidant
+#420	AnnotatorNotes T420	GO:0016209 (antioxidant activity)
+T421	independent_continuant 11598 11609	antioxidant
+#421	AnnotatorNotes T421	independent_continuant
+T422	GO_BP 11613 11623	DNA repair
+#422	AnnotatorNotes T422	GO:0006281 (DNA repair)
+T423	SO 11613 11616	DNA
+#423	AnnotatorNotes T423	SO:0000352 (DNA)
+T424	SO 11624 11629	genes
+#424	AnnotatorNotes T424	SO:0000704 (gene)
+T425	EntrezGene 11644 11649	XRCC1
+#425	AnnotatorNotes T425	EG:7515
+T426	PR 11644 11649	XRCC1
+#426	AnnotatorNotes T426	PR:000017504 (DNA repair protein XRCC1)
+T427	EntrezGene 11651 11656	ERCC5
+#427	AnnotatorNotes T427	EG:2073
+T428	PR 11651 11656	ERCC5
+#428	AnnotatorNotes T428	PR:000007167 (DNA repair protein complementing XP-G cells)
+T429	EntrezGene 11658 11663	GSTP1
+#429	AnnotatorNotes T429	EG:2950
+T430	EntrezGene 11665 11669	SOD1
+#430	AnnotatorNotes T430	EG:6647
+T431	PR 11665 11669	SOD1
+#431	AnnotatorNotes T431	PR:000015399 (superoxide dismutase [Cu-Zn])
+T432	EntrezGene 11671 11675	GPX1
+#432	AnnotatorNotes T432	EG:2876
+T433	PR 11671 11675	GPX1
+#433	AnnotatorNotes T433	PR:000008210 (glutathione peroxidase 1)
+T434	EntrezGene 11677 11682	ERCC1
+#434	AnnotatorNotes T434	EG:2067
+T435	PR 11677 11682	ERCC1
+#435	AnnotatorNotes T435	PR:000007163 (DNA excision repair protein ERCC-1)
+T436	EntrezGene 11684 11687	CAT
+#436	AnnotatorNotes T436	EG:847
+T437	PR 11684 11687	CAT
+#437	AnnotatorNotes T437	PR:000005061 (catalase)
+T438	EntrezGene 11692 11697	ERCC2
+#438	AnnotatorNotes T438	EG:2068
+T439	PR 11692 11697	ERCC2
+#439	AnnotatorNotes T439	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T440	NCBITaxon 11728 11739	individuals
+#440	AnnotatorNotes T440	NCBITaxon:1 (root)
+T441	EntrezGene 11748 11753	CEBPG
+#441	AnnotatorNotes T441	EG:1054
+T442	PR 11748 11753	CEBPG
+#442	AnnotatorNotes T442	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T443	CHEBI 11789 11800	antioxidant
+#443	AnnotatorNotes T443	CHEBI:22586 (antioxidant)
+T444	independent_continuant 11789 11800	antioxidant
+#444	AnnotatorNotes T444	independent_continuant
+T445	GO_MF 11789 11800	antioxidant
+#445	AnnotatorNotes T445	GO:0016209 (antioxidant activity)
+T446	GO_BP 11804 11814	DNA repair
+#446	AnnotatorNotes T446	GO:0006281 (DNA repair)
+T447	SO 11804 11807	DNA
+#447	AnnotatorNotes T447	SO:0000352 (DNA)
+T448	SO 11815 11820	genes
+#448	AnnotatorNotes T448	SO:0000704 (gene)
+T449	GO_MF 11882 11903	transcription factors
+#449	AnnotatorNotes T449	GO:0003700 (transcription factor activity)
+T450	independent_continuant 11882 11903	transcription factors
+#450	AnnotatorNotes T450	independent_continuant
+T451	GO_BP 11882 11895	transcription
+#451	AnnotatorNotes T451	GO:0006350 (transcription)
+T452	EntrezGene 11918 11923	XRCC1
+#452	AnnotatorNotes T452	EG:7515
+T453	PR 11918 11923	XRCC1
+#453	AnnotatorNotes T453	PR:000017504 (DNA repair protein XRCC1)
+T454	EntrezGene 11925 11930	ERCC5
+#454	AnnotatorNotes T454	EG:2073
+T455	PR 11925 11930	ERCC5
+#455	AnnotatorNotes T455	PR:000007167 (DNA repair protein complementing XP-G cells)
+T456	EntrezGene 11932 11937	GSTP1
+#456	AnnotatorNotes T456	EG:2950
+T457	EntrezGene 11943 11947	SOD1
+#457	AnnotatorNotes T457	EG:6647
+T458	PR 11943 11947	SOD1
+#458	AnnotatorNotes T458	PR:000015399 (superoxide dismutase [Cu-Zn])
+T459	EntrezGene 11969 11974	CEBPG
+#459	AnnotatorNotes T459	EG:1054
+T460	PR 11969 11974	CEBPG
+#460	AnnotatorNotes T460	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T461	NCBITaxon 12005 12016	individuals
+#461	AnnotatorNotes T461	NCBITaxon:1 (root)
+T462	NCBITaxon 12036 12047	individuals
+#462	AnnotatorNotes T462	NCBITaxon:1 (root)
+T463	EntrezGene 12094 12098	GPX1
+#463	AnnotatorNotes T463	EG:2876
+T464	PR 12094 12098	GPX1
+#464	AnnotatorNotes T464	PR:000008210 (glutathione peroxidase 1)
+T465	EntrezGene 12152 12157	CEBPG
+#465	AnnotatorNotes T465	EG:1054
+T466	PR 12152 12157	CEBPG
+#466	AnnotatorNotes T466	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T467	EntrezGene 12162 12167	XRCC1
+#467	AnnotatorNotes T467	EG:7515
+T468	PR 12162 12167	XRCC1
+#468	AnnotatorNotes T468	PR:000017504 (DNA repair protein XRCC1)
+T469	NCBITaxon 12178 12189	individuals
+#469	AnnotatorNotes T469	NCBITaxon:1 (root)
+T470	NCBITaxon 12196 12207	individuals
+#470	AnnotatorNotes T470	NCBITaxon:1 (root)
+T471	SO 12257 12262	genes
+#471	AnnotatorNotes T471	SO:0000704 (gene)
+T472	EntrezGene 12272 12277	CEBPG
+#472	AnnotatorNotes T472	EG:1054
+T473	PR 12272 12277	CEBPG
+#473	AnnotatorNotes T473	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T474	EntrezGene 12283 12288	XRCC1
+#474	AnnotatorNotes T474	EG:7515
+T475	PR 12283 12288	XRCC1
+#475	AnnotatorNotes T475	PR:000017504 (DNA repair protein XRCC1)
+T476	EntrezGene 12290 12295	ERCC5
+#476	AnnotatorNotes T476	EG:2073
+T477	PR 12290 12295	ERCC5
+#477	AnnotatorNotes T477	PR:000007167 (DNA repair protein complementing XP-G cells)
+T478	EntrezGene 12297 12302	GSTP1
+#478	AnnotatorNotes T478	EG:2950
+T479	EntrezGene 12304 12308	SOD1
+#479	AnnotatorNotes T479	EG:6647
+T480	PR 12304 12308	SOD1
+#480	AnnotatorNotes T480	PR:000015399 (superoxide dismutase [Cu-Zn])
+T481	EntrezGene 12312 12316	GPX1
+#481	AnnotatorNotes T481	EG:2876
+T482	PR 12312 12316	GPX1
+#482	AnnotatorNotes T482	PR:000008210 (glutathione peroxidase 1)
+T483	NCBITaxon 12393 12404	individuals
+#483	AnnotatorNotes T483	NCBITaxon:1 (root)
+T484	NCBITaxon 12409 12420	individuals
+#484	AnnotatorNotes T484	NCBITaxon:1 (root)
+T485	NCBITaxon 12456 12467	individuals
+#485	AnnotatorNotes T485	NCBITaxon:1 (root)
+T486	italic 12482 12483	r
+#486	AnnotatorNotes T486	italic (null)
+T487	sup 12483 12484	2
+#487	AnnotatorNotes T487	sup (null)
+T488	EntrezGene 12529 12534	CEBPG
+#488	AnnotatorNotes T488	EG:1054
+T489	PR 12529 12534	CEBPG
+#489	AnnotatorNotes T489	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T490	GO_BP 12572 12582	expression
+#490	AnnotatorNotes T490	GO:0010467 (gene expression)
+T491	EntrezGene 12586 12591	XRCC1
+#491	AnnotatorNotes T491	EG:7515
+T492	PR 12586 12591	XRCC1
+#492	AnnotatorNotes T492	PR:000017504 (DNA repair protein XRCC1)
+T493	EntrezGene 12599 12604	ERCC5
+#493	AnnotatorNotes T493	EG:2073
+T494	PR 12599 12604	ERCC5
+#494	AnnotatorNotes T494	PR:000007167 (DNA repair protein complementing XP-G cells)
+T495	EntrezGene 12612 12617	GSTP1
+#495	AnnotatorNotes T495	EG:2950
+T496	EntrezGene 12625 12629	SOD1
+#496	AnnotatorNotes T496	EG:6647
+T497	PR 12625 12629	SOD1
+#497	AnnotatorNotes T497	PR:000015399 (superoxide dismutase [Cu-Zn])
+T498	EntrezGene 12641 12645	GPX1
+#498	AnnotatorNotes T498	EG:2876
+T499	PR 12641 12645	GPX1
+#499	AnnotatorNotes T499	PR:000008210 (glutathione peroxidase 1)
+T500	EntrezGene 12653 12657	E2F1
+#500	AnnotatorNotes T500	EG:1869
+T501	PR 12653 12657	E2F1
+#501	AnnotatorNotes T501	PR:000006852 (transcription factor E2F1)
+T502	NCBITaxon 12748 12759	individuals
+#502	AnnotatorNotes T502	NCBITaxon:1 (root)
+T503	NCBITaxon 12767 12778	individuals
+#503	AnnotatorNotes T503	NCBITaxon:1 (root)
+T504	EntrezGene 12812 12816	E2F1
+#504	AnnotatorNotes T504	EG:1869
+T505	PR 12812 12816	E2F1
+#505	AnnotatorNotes T505	PR:000006852 (transcription factor E2F1)
+T506	EntrezGene 12851 12856	ERCC5
+#506	AnnotatorNotes T506	EG:2073
+T507	PR 12851 12856	ERCC5
+#507	AnnotatorNotes T507	PR:000007167 (DNA repair protein complementing XP-G cells)
+T508	EntrezGene 12858 12863	GSTP1
+#508	AnnotatorNotes T508	EG:2950
+T509	EntrezGene 12868 12872	SOD1
+#509	AnnotatorNotes T509	EG:6647
+T510	PR 12868 12872	SOD1
+#510	AnnotatorNotes T510	PR:000015399 (superoxide dismutase [Cu-Zn])
+T511	NCBITaxon 12903 12914	individuals
+#511	AnnotatorNotes T511	NCBITaxon:1 (root)
+T512	EntrezGene 12916 12920	E2F1
+#512	AnnotatorNotes T512	EG:1869
+T513	PR 12916 12920	E2F1
+#513	AnnotatorNotes T513	PR:000006852 (transcription factor E2F1)
+T514	EntrezGene 12941 12946	GSTP1
+#514	AnnotatorNotes T514	EG:2950
+T515	NCBITaxon 12993 13004	individuals
+#515	AnnotatorNotes T515	NCBITaxon:1 (root)
+T516	NCBITaxon 13060 13071	individuals
+#516	AnnotatorNotes T516	NCBITaxon:1 (root)
+T517	NCBITaxon 13079 13090	individuals
+#517	AnnotatorNotes T517	NCBITaxon:1 (root)
+T518	GO_MF 13130 13151	transcription factors
+#518	AnnotatorNotes T518	GO:0003700 (transcription factor activity)
+T519	independent_continuant 13130 13151	transcription factors
+#519	AnnotatorNotes T519	independent_continuant
+T520	GO_BP 13130 13143	transcription
+#520	AnnotatorNotes T520	GO:0006350 (transcription)
+T521	EntrezGene 13173 13178	XRCC1
+#521	AnnotatorNotes T521	EG:7515
+T522	PR 13173 13178	XRCC1
+#522	AnnotatorNotes T522	PR:000017504 (DNA repair protein XRCC1)
+T523	EntrezGene 13180 13185	ERCC5
+#523	AnnotatorNotes T523	EG:2073
+T524	PR 13180 13185	ERCC5
+#524	AnnotatorNotes T524	PR:000007167 (DNA repair protein complementing XP-G cells)
+T525	EntrezGene 13187 13192	GSTP1
+#525	AnnotatorNotes T525	EG:2950
+T526	EntrezGene 13194 13198	SOD1
+#526	AnnotatorNotes T526	EG:6647
+T527	PR 13194 13198	SOD1
+#527	AnnotatorNotes T527	PR:000015399 (superoxide dismutase [Cu-Zn])
+T528	EntrezGene 13203 13207	GPX1
+#528	AnnotatorNotes T528	EG:2876
+T529	PR 13203 13207	GPX1
+#529	AnnotatorNotes T529	PR:000008210 (glutathione peroxidase 1)
+T530	GO_BP 13240 13255	gene expression
+#530	AnnotatorNotes T530	GO:0010467 (gene expression)
+T531	SO 13240 13244	gene
+#531	AnnotatorNotes T531	SO:0000704 (gene)
+T532	EntrezGene 13290 13294	E2F1
+#532	AnnotatorNotes T532	EG:1869
+T533	PR 13290 13294	E2F1
+#533	AnnotatorNotes T533	PR:000006852 (transcription factor E2F1)
+T534	EntrezGene 13299 13304	GSTZ1
+#534	AnnotatorNotes T534	EG:2954
+T535	PR 13299 13304	GSTZ1
+#535	AnnotatorNotes T535	PR:000008307 (maleylacetoacetate isomerase)
+T536	EntrezGene 13347 13352	GSTM1
+#536	AnnotatorNotes T536	EG:2944
+T537	PR 13347 13352	GSTM1
+#537	AnnotatorNotes T537	PR:000008300 (glutathione S-transferase Mu 1)
+T538	SO 13368 13372	gene
+#538	AnnotatorNotes T538	SO:0000704 (gene)
+T539	GO_BP 13394 13404	expression
+#539	AnnotatorNotes T539	GO:0010467 (gene expression)
+T540	EntrezGene 13442 13447	ERCC2
+#540	AnnotatorNotes T540	EG:2068
+T541	PR 13442 13447	ERCC2
+#541	AnnotatorNotes T541	PR:000007164 (TFIIH basal transcription factor complex helicase subunit)
+T542	GO_BP 13448 13458	expression
+#542	AnnotatorNotes T542	GO:0010467 (gene expression)
+T543	NCBITaxon 13574 13584	individual
+#543	AnnotatorNotes T543	NCBITaxon:1 (root)
+T544	GO_BP 13598 13608	regulation
+#544	AnnotatorNotes T544	GO:0065007 (biological regulation)
+T545	CHEBI 13616 13627	antioxidant
+#545	AnnotatorNotes T545	CHEBI:22586 (antioxidant)
+T546	independent_continuant 13616 13627	antioxidant
+#546	AnnotatorNotes T546	independent_continuant
+T547	GO_MF 13616 13627	antioxidant
+#547	AnnotatorNotes T547	GO:0016209 (antioxidant activity)
+T548	GO_BP 13632 13642	DNA repair
+#548	AnnotatorNotes T548	GO:0006281 (DNA repair)
+T549	SO 13632 13635	DNA
+#549	AnnotatorNotes T549	SO:0000352 (DNA)
+T550	SO 13643 13648	genes
+#550	AnnotatorNotes T550	SO:0000704 (gene)
+T551	GO_MF 13664 13685	transcription factors
+#551	AnnotatorNotes T551	GO:0003700 (transcription factor activity)
+T552	independent_continuant 13664 13685	transcription factors
+#552	AnnotatorNotes T552	independent_continuant
+T553	GO_BP 13664 13677	transcription
+#553	AnnotatorNotes T553	GO:0006350 (transcription)
+T554	NCBITaxon 13700 13711	individuals
+#554	AnnotatorNotes T554	NCBITaxon:1 (root)
+T555	GO_BP 13729 13739	regulation
+#555	AnnotatorNotes T555	GO:0065007 (biological regulation)
+T556	NCBITaxon 13879 13889	individual
+#556	AnnotatorNotes T556	NCBITaxon:1 (root)
+T557	SO 13903 13913	transcript
+#557	AnnotatorNotes T557	SO:0000673 (transcript)
+T558	EntrezGene 13924 13929	CEBPG
+#558	AnnotatorNotes T558	EG:1054
+T559	PR 13924 13929	CEBPG
+#559	AnnotatorNotes T559	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T560	SO 13953 13958	genes
+#560	AnnotatorNotes T560	SO:0000704 (gene)
+T561	NCBITaxon 13973 13984	individuals
+#561	AnnotatorNotes T561	NCBITaxon:1 (root)
+T562	EntrezGene 13989 13994	CEBPG
+#562	AnnotatorNotes T562	EG:1054
+T563	PR 13989 13994	CEBPG
+#563	AnnotatorNotes T563	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T564	SO 13995 14005	transcript
+#564	AnnotatorNotes T564	SO:0000673 (transcript)
+T565	SO 14084 14094	transcript
+#565	AnnotatorNotes T565	SO:0000673 (transcript)
+T566	CHEBI 14124 14135	antioxidant
+#566	AnnotatorNotes T566	CHEBI:22586 (antioxidant)
+T567	independent_continuant 14124 14135	antioxidant
+#567	AnnotatorNotes T567	independent_continuant
+T568	GO_MF 14124 14135	antioxidant
+#568	AnnotatorNotes T568	GO:0016209 (antioxidant activity)
+T569	GO_BP 14140 14150	DNA repair
+#569	AnnotatorNotes T569	GO:0006281 (DNA repair)
+T570	SO 14140 14143	DNA
+#570	AnnotatorNotes T570	SO:0000352 (DNA)
+T571	SO 14151 14156	genes
+#571	AnnotatorNotes T571	SO:0000704 (gene)
+T572	NCBITaxon 14167 14178	individuals
+#572	AnnotatorNotes T572	NCBITaxon:1 (root)
+T573	EntrezGene 14225 14230	CEBPG
+#573	AnnotatorNotes T573	EG:1054
+T574	PR 14225 14230	CEBPG
+#574	AnnotatorNotes T574	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T575	SO 14241 14246	genes
+#575	AnnotatorNotes T575	SO:0000704 (gene)
+T576	NCBITaxon 14253 14264	individuals
+#576	AnnotatorNotes T576	NCBITaxon:1 (root)
+T577	CHEBI 14321 14332	antioxidant
+#577	AnnotatorNotes T577	CHEBI:22586 (antioxidant)
+T578	independent_continuant 14321 14332	antioxidant
+#578	AnnotatorNotes T578	independent_continuant
+T579	GO_MF 14321 14332	antioxidant
+#579	AnnotatorNotes T579	GO:0016209 (antioxidant activity)
+T580	GO_BP 14336 14346	DNA repair
+#580	AnnotatorNotes T580	GO:0006281 (DNA repair)
+T581	SO 14336 14339	DNA
+#581	AnnotatorNotes T581	SO:0000352 (DNA)
+T582	SO 14347 14352	genes
+#582	AnnotatorNotes T582	SO:0000704 (gene)
+T583	EntrezGene 14369 14374	CEBPG
+#583	AnnotatorNotes T583	EG:1054
+T584	PR 14369 14374	CEBPG
+#584	AnnotatorNotes T584	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T585	NCBITaxon 14385 14396	individuals
+#585	AnnotatorNotes T585	NCBITaxon:1 (root)
+T586	GO_BP 14400 14409	regulated
+#586	AnnotatorNotes T586	GO:0065007 (biological regulation)
+T587	EntrezGene 14413 14418	CEBPG
+#587	AnnotatorNotes T587	EG:1054
+T588	PR 14413 14418	CEBPG
+#588	AnnotatorNotes T588	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T589	EntrezGene 14464 14469	CEBPG
+#589	AnnotatorNotes T589	EG:1054
+T590	PR 14464 14469	CEBPG
+#590	AnnotatorNotes T590	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T591	GO_MF 14552 14573	transcription factors
+#591	AnnotatorNotes T591	GO:0003700 (transcription factor activity)
+T592	independent_continuant 14552 14573	transcription factors
+#592	AnnotatorNotes T592	independent_continuant
+T593	GO_BP 14552 14565	transcription
+#593	AnnotatorNotes T593	GO:0006350 (transcription)
+T594	SO 14600 14605	genes
+#594	AnnotatorNotes T594	SO:0000704 (gene)
+T595	SO 14667 14672	genes
+#595	AnnotatorNotes T595	SO:0000704 (gene)
+T596	EntrezGene 14678 14683	CEBPB
+#596	AnnotatorNotes T596	EG:1051
+T597	PR 14678 14683	CEBPB
+#597	AnnotatorNotes T597	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T598	GO_MF 14691 14696	binds
+#598	AnnotatorNotes T598	GO:0005488 (binding)
+T599	SO 14709 14725	recognition site
+#599	AnnotatorNotes T599	SO:0000409 (binding_site)
+T600	EntrezGene 14729 14734	CEBPG
+#600	AnnotatorNotes T600	EG:1054
+T601	PR 14729 14734	CEBPG
+#601	AnnotatorNotes T601	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T602	SO 14751 14767	recognition site
+#602	AnnotatorNotes T602	SO:0000409 (binding_site)
+T603	CHEBI 14787 14798	antioxidant
+#603	AnnotatorNotes T603	CHEBI:22586 (antioxidant)
+T604	independent_continuant 14787 14798	antioxidant
+#604	AnnotatorNotes T604	independent_continuant
+T605	GO_MF 14787 14798	antioxidant
+#605	AnnotatorNotes T605	GO:0016209 (antioxidant activity)
+T606	GO_BP 14802 14812	DNA repair
+#606	AnnotatorNotes T606	GO:0006281 (DNA repair)
+T607	SO 14802 14805	DNA
+#607	AnnotatorNotes T607	SO:0000352 (DNA)
+T608	SO 14813 14818	genes
+#608	AnnotatorNotes T608	SO:0000704 (gene)
+T609	EntrezGene 14896 14901	CEBPG
+#609	AnnotatorNotes T609	EG:1054
+T610	PR 14896 14901	CEBPG
+#610	AnnotatorNotes T610	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T611	CHEBI 14907 14918	antioxidant
+#611	AnnotatorNotes T611	CHEBI:22586 (antioxidant)
+T612	independent_continuant 14907 14918	antioxidant
+#612	AnnotatorNotes T612	independent_continuant
+T613	GO_MF 14907 14918	antioxidant
+#613	AnnotatorNotes T613	GO:0016209 (antioxidant activity)
+T614	GO_BP 14923 14933	DNA repair
+#614	AnnotatorNotes T614	GO:0006281 (DNA repair)
+T615	SO 14923 14926	DNA
+#615	AnnotatorNotes T615	SO:0000352 (DNA)
+T616	SO 14934 14939	genes
+#616	AnnotatorNotes T616	SO:0000704 (gene)
+T617	NCBITaxon 14950 14961	individuals
+#617	AnnotatorNotes T617	NCBITaxon:1 (root)
+T618	EntrezGene 14987 14992	CEBPG
+#618	AnnotatorNotes T618	EG:1054
+T619	PR 14987 14992	CEBPG
+#619	AnnotatorNotes T619	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T620	CHEBI 15020 15031	antioxidant
+#620	AnnotatorNotes T620	CHEBI:22586 (antioxidant)
+T621	independent_continuant 15020 15031	antioxidant
+#621	AnnotatorNotes T621	independent_continuant
+T622	GO_MF 15020 15031	antioxidant
+#622	AnnotatorNotes T622	GO:0016209 (antioxidant activity)
+T623	GO_BP 15035 15045	DNA repair
+#623	AnnotatorNotes T623	GO:0006281 (DNA repair)
+T624	SO 15035 15038	DNA
+#624	AnnotatorNotes T624	SO:0000352 (DNA)
+T625	SO 15046 15051	genes
+#625	AnnotatorNotes T625	SO:0000704 (gene)
+T626	GO_BP 15055 15064	regulated
+#626	AnnotatorNotes T626	GO:0045449 (regulation of transcription)
+T627	GO_MF 15070 15090	transcription factor
+#627	AnnotatorNotes T627	GO:0003700 (transcription factor activity)
+T628	independent_continuant 15070 15090	transcription factor
+#628	AnnotatorNotes T628	independent_continuant
+T629	GO_BP 15070 15083	transcription
+#629	AnnotatorNotes T629	GO:0006350 (transcription)
+T630	SO 15133 15149	recognition site
+#630	AnnotatorNotes T630	SO:0000409 (binding_site)
+T631	EntrezGene 15315 15320	CEBPG
+#631	AnnotatorNotes T631	EG:1054
+T632	PR 15315 15320	CEBPG
+#632	AnnotatorNotes T632	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T633	CHEBI 15325 15336	antioxidant
+#633	AnnotatorNotes T633	CHEBI:22586 (antioxidant)
+T634	GO_MF 15325 15336	antioxidant
+#634	AnnotatorNotes T634	GO:0016209 (antioxidant activity)
+T635	independent_continuant 15325 15336	antioxidant
+#635	AnnotatorNotes T635	independent_continuant
+T636	GO_BP 15340 15350	DNA repair
+#636	AnnotatorNotes T636	GO:0006281 (DNA repair)
+T637	SO 15340 15343	DNA
+#637	AnnotatorNotes T637	SO:0000352 (DNA)
+T638	SO 15351 15356	genes
+#638	AnnotatorNotes T638	SO:0000704 (gene)
+T639	NCBITaxon 15363 15374	individuals
+#639	AnnotatorNotes T639	NCBITaxon:1 (root)
+T640	NCBITaxon 15400 15410	individual
+#640	AnnotatorNotes T640	NCBITaxon:1 (root)
+T641	NCBITaxon 15418 15428	individual
+#641	AnnotatorNotes T641	NCBITaxon:1 (root)
+T642	SO 15656 15666	transcript
+#642	AnnotatorNotes T642	SO:0000673 (transcript)
+T643	EntrezGene 15687 15692	CEBPG
+#643	AnnotatorNotes T643	EG:1054
+T644	PR 15687 15692	CEBPG
+#644	AnnotatorNotes T644	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T645	EntrezGene 15694 15699	XRCC1
+#645	AnnotatorNotes T645	EG:7515
+T646	PR 15694 15699	XRCC1
+#646	AnnotatorNotes T646	PR:000017504 (DNA repair protein XRCC1)
+T647	EntrezGene 15701 15706	ERCC5
+#647	AnnotatorNotes T647	EG:2073
+T648	PR 15701 15706	ERCC5
+#648	AnnotatorNotes T648	PR:000007167 (DNA repair protein complementing XP-G cells)
+T649	EntrezGene 15708 15713	GSTP1
+#649	AnnotatorNotes T649	EG:2950
+T650	EntrezGene 15715 15719	SOD1
+#650	AnnotatorNotes T650	EG:6647
+T651	PR 15715 15719	SOD1
+#651	AnnotatorNotes T651	PR:000015399 (superoxide dismutase [Cu-Zn])
+T652	EntrezGene 15724 15728	GPX1
+#652	AnnotatorNotes T652	EG:2876
+T653	PR 15724 15728	GPX1
+#653	AnnotatorNotes T653	PR:000008210 (glutathione peroxidase 1)
+T654	NCBITaxon 15967 15978	individuals
+#654	AnnotatorNotes T654	NCBITaxon:1 (root)
+T655	NCBITaxon 15998 16009	individuals
+#655	AnnotatorNotes T655	NCBITaxon:1 (root)
+T656	NCBITaxon 16197 16208	individuals
+#656	AnnotatorNotes T656	NCBITaxon:1 (root)
+T657	SO 16307 16317	transcript
+#657	AnnotatorNotes T657	SO:0000673 (transcript)
+T658	EntrezGene 16339 16344	CEBPG
+#658	AnnotatorNotes T658	EG:1054
+T659	PR 16339 16344	CEBPG
+#659	AnnotatorNotes T659	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T660	SO 16357 16367	transcript
+#660	AnnotatorNotes T660	SO:0000673 (transcript)
+T661	CHEBI 16401 16412	antioxidant
+#661	AnnotatorNotes T661	CHEBI:22586 (antioxidant)
+T662	GO_MF 16401 16412	antioxidant
+#662	AnnotatorNotes T662	GO:0016209 (antioxidant activity)
+T663	independent_continuant 16401 16412	antioxidant
+#663	AnnotatorNotes T663	independent_continuant
+T664	GO_BP 16416 16426	DNA repair
+#664	AnnotatorNotes T664	GO:0006281 (DNA repair)
+T665	SO 16416 16419	DNA
+#665	AnnotatorNotes T665	SO:0000352 (DNA)
+T666	SO 16427 16432	genes
+#666	AnnotatorNotes T666	SO:0000704 (gene)
+T667	EntrezGene 16592 16597	CEBPG
+#667	AnnotatorNotes T667	EG:1054
+T668	PR 16592 16597	CEBPG
+#668	AnnotatorNotes T668	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T669	CHEBI 16648 16659	antioxidant
+#669	AnnotatorNotes T669	CHEBI:22586 (antioxidant)
+T670	independent_continuant 16648 16659	antioxidant
+#670	AnnotatorNotes T670	independent_continuant
+T671	GO_MF 16648 16659	antioxidant
+#671	AnnotatorNotes T671	GO:0016209 (antioxidant activity)
+T672	GO_BP 16663 16673	DNA repair
+#672	AnnotatorNotes T672	GO:0006281 (DNA repair)
+T673	SO 16663 16666	DNA
+#673	AnnotatorNotes T673	SO:0000352 (DNA)
+T674	SO 16674 16679	genes
+#674	AnnotatorNotes T674	SO:0000704 (gene)
+T675	NCBITaxon 16697 16708	individuals
+#675	AnnotatorNotes T675	NCBITaxon:1 (root)
+T676	NCBITaxon 16734 16745	individuals
+#676	AnnotatorNotes T676	NCBITaxon:1 (root)
+T677	EntrezGene 16903 16908	CEBPG
+#677	AnnotatorNotes T677	EG:1054
+T678	PR 16903 16908	CEBPG
+#678	AnnotatorNotes T678	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T679	GO_BP 16936 16962	transcriptional regulation
+#679	AnnotatorNotes T679	GO:0045449 (regulation of transcription)
+T680	GO_BP 16936 16951	transcriptional
+#680	AnnotatorNotes T680	GO:0006350 (transcription)
+T681	CHEBI 16970 16981	antioxidant
+#681	AnnotatorNotes T681	CHEBI:22586 (antioxidant)
+T682	GO_MF 16970 16981	antioxidant
+#682	AnnotatorNotes T682	GO:0016209 (antioxidant activity)
+T683	independent_continuant 16970 16981	antioxidant
+#683	AnnotatorNotes T683	independent_continuant
+T684	GO_BP 16985 16995	DNA repair
+#684	AnnotatorNotes T684	GO:0006281 (DNA repair)
+T685	SO 16985 16988	DNA
+#685	AnnotatorNotes T685	SO:0000352 (DNA)
+T686	SO 16996 17001	genes
+#686	AnnotatorNotes T686	SO:0000704 (gene)
+T687	NCBITaxon 17034 17044	individual
+#687	AnnotatorNotes T687	NCBITaxon:1 (root)
+T688	GO_BP 17062 17072	regulation
+#688	AnnotatorNotes T688	GO:0065007 (biological regulation)
+T689	SO 17090 17095	genes
+#689	AnnotatorNotes T689	SO:0000704 (gene)
+T690	EntrezGene 17099 17104	CEBPG
+#690	AnnotatorNotes T690	EG:1054
+T691	PR 17099 17104	CEBPG
+#691	AnnotatorNotes T691	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T692	NCBITaxon 17141 17152	individuals
+#692	AnnotatorNotes T692	NCBITaxon:1 (root)
+T693	GO_BP 17255 17265	regulation
+#693	AnnotatorNotes T693	GO:0065007 (biological regulation)
+T694	CHEBI 17291 17302	antioxidant
+#694	AnnotatorNotes T694	CHEBI:22586 (antioxidant)
+T695	independent_continuant 17291 17302	antioxidant
+#695	AnnotatorNotes T695	independent_continuant
+T696	GO_MF 17291 17302	antioxidant
+#696	AnnotatorNotes T696	GO:0016209 (antioxidant activity)
+T697	GO_BP 17307 17317	DNA repair
+#697	AnnotatorNotes T697	GO:0006281 (DNA repair)
+T698	SO 17307 17310	DNA
+#698	AnnotatorNotes T698	SO:0000352 (DNA)
+T699	SO 17318 17323	genes
+#699	AnnotatorNotes T699	SO:0000704 (gene)
+T700	NCBITaxon 17383 17394	individuals
+#700	AnnotatorNotes T700	NCBITaxon:1 (root)
+T701	NCBITaxon 17398 17409	individuals
+#701	AnnotatorNotes T701	NCBITaxon:1 (root)
+T702	EntrezGene 17443 17448	CEBPG
+#702	AnnotatorNotes T702	EG:1054
+T703	PR 17443 17448	CEBPG
+#703	AnnotatorNotes T703	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T704	CHEBI 17474 17485	antioxidant
+#704	AnnotatorNotes T704	CHEBI:22586 (antioxidant)
+T705	GO_MF 17474 17485	antioxidant
+#705	AnnotatorNotes T705	GO:0016209 (antioxidant activity)
+T706	independent_continuant 17474 17485	antioxidant
+#706	AnnotatorNotes T706	independent_continuant
+T707	GO_BP 17493 17503	DNA repair
+#707	AnnotatorNotes T707	GO:0006281 (DNA repair)
+T708	SO 17493 17496	DNA
+#708	AnnotatorNotes T708	SO:0000352 (DNA)
+T709	SO 17504 17509	genes
+#709	AnnotatorNotes T709	SO:0000704 (gene)
+T710	PR 17512 17517	CEBPG
+#710	AnnotatorNotes T710	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T711	GO_MF 17538 17558	transcription factor
+#711	AnnotatorNotes T711	GO:0003700 (transcription factor activity)
+T712	independent_continuant 17538 17558	transcription factor
+#712	AnnotatorNotes T712	independent_continuant
+T713	GO_BP 17538 17551	transcription
+#713	AnnotatorNotes T713	GO:0006350 (transcription)
+T714	SO 17582 17591	sequences
+#714	AnnotatorNotes T714	SO:0000001 (region)
+T715	GO_MF 17606 17617	DNA binding
+#715	AnnotatorNotes T715	GO:0003677 (DNA binding)
+T716	SO 17606 17609	DNA
+#716	AnnotatorNotes T716	SO:0000352 (DNA)
+T717	GO_MF 17622 17643	heterodimer formation
+#717	AnnotatorNotes T717	GO:0046982 (protein heterodimerization activity)
+T718	SO 17659 17668	sequences
+#718	AnnotatorNotes T718	SO:0000001 (region)
+T719	PR 17705 17710	CEBPG
+#719	AnnotatorNotes T719	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T720	GO_BP 17711 17716	forms
+#720	AnnotatorNotes T720	GO:0022607 (cellular component assembly)
+T721	GO_BP 17829 17842	transcription
+#721	AnnotatorNotes T721	GO:0006350 (transcription)
+T722	GO_BP 17850 17859	regulated
+#722	AnnotatorNotes T722	GO:0065007 (biological regulation)
+T723	SO 17860 17864	gene
+#723	AnnotatorNotes T723	SO:0000704 (gene)
+T724	PR 17866 17871	CEBPG
+#724	AnnotatorNotes T724	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T725	PR 17915 17919	IL-6
+#725	AnnotatorNotes T725	PR:000001393 (interleukin-6)
+T726	PR 17924 17928	IL-8
+#726	AnnotatorNotes T726	PR:000001395 (interleukin-8)
+T727	SO 17929 17938	promoters
+#727	AnnotatorNotes T727	SO:0000167 (promoter)
+T728	CL 17942 17948	B cell
+#728	AnnotatorNotes T728	CL:0000236 (B cell)
+T729	GO_CC 17944 17948	cell
+#729	AnnotatorNotes T729	GO:0005623 (cell)
+T730	PR 18014 18019	CEBPA
+#730	AnnotatorNotes T730	PR:000005307 (CCAAT/enhancer-binding protein alpha)
+T731	PR 18024 18029	CEBPB
+#731	AnnotatorNotes T731	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T732	CL 18033 18043	fibroblast
+#732	AnnotatorNotes T732	CL:0000057 (fibroblast)
+T733	CL 18048 18054	B cell
+#733	AnnotatorNotes T733	CL:0000236 (B cell)
+T734	GO_CC 18050 18054	cell
+#734	AnnotatorNotes T734	GO:0005623 (cell)
+T735	EntrezGene 18082 18087	CEBPG
+#735	AnnotatorNotes T735	EG:12611
+T736	PR 18082 18087	CEBPG
+#736	AnnotatorNotes T736	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T737	NCBITaxon 18097 18101	mice
+#737	AnnotatorNotes T737	NCBITaxon:10088 (Mus)
+T738	EntrezGene 18121 18126	CEBPG
+#738	AnnotatorNotes T738	EG:1054
+T739	PR 18121 18126	CEBPG
+#739	AnnotatorNotes T739	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T740	EntrezGene 18168 18173	CEBPG
+#740	AnnotatorNotes T740	EG:12611
+T741	PR 18168 18173	CEBPG
+#741	AnnotatorNotes T741	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T742	sup 18173 18176	-/-
+#742	AnnotatorNotes T742	sup (null)
+T743	NCBITaxon 18186 18190	mice
+#743	AnnotatorNotes T743	NCBITaxon:10088 (Mus)
+T744	GO_BP 18206 18211	birth
+#744	AnnotatorNotes T744	GO:0007567 (parturition)
+T745	GO_BP 18225 18228	die
+#745	AnnotatorNotes T745	GO:0016265 (death)
+T746	NCBITaxon 18312 18318	humans
+#746	AnnotatorNotes T746	NCBITaxon:9606 (Homo sapiens)
+T747	CHEBI 18358 18369	antioxidant
+#747	AnnotatorNotes T747	CHEBI:22586 (antioxidant)
+T748	GO_MF 18358 18369	antioxidant
+#748	AnnotatorNotes T748	GO:0016209 (antioxidant activity)
+T749	EntrezGene 18558 18563	CEBPG
+#749	AnnotatorNotes T749	EG:1054
+T750	PR 18558 18563	CEBPG
+#750	AnnotatorNotes T750	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T751	GO_BP 18567 18577	regulating
+#751	AnnotatorNotes T751	GO:0065007 (biological regulation)
+T752	CHEBI 18582 18593	antioxidant
+#752	AnnotatorNotes T752	CHEBI:22586 (antioxidant)
+T753	independent_continuant 18582 18593	antioxidant
+#753	AnnotatorNotes T753	independent_continuant
+T754	GO_MF 18582 18593	antioxidant
+#754	AnnotatorNotes T754	GO:0016209 (antioxidant activity)
+T755	GO_BP 18598 18608	DNA repair
+#755	AnnotatorNotes T755	GO:0006281 (DNA repair)
+T756	SO 18598 18601	DNA
+#756	AnnotatorNotes T756	SO:0000352 (DNA)
+T757	SO 18609 18614	genes
+#757	AnnotatorNotes T757	SO:0000704 (gene)
+T758	EntrezGene 18659 18664	CEBPG
+#758	AnnotatorNotes T758	EG:1054
+T759	PR 18659 18664	CEBPG
+#759	AnnotatorNotes T759	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T760	SO 18676 18680	gene
+#760	AnnotatorNotes T760	SO:0000704 (gene)
+T761	SO 18681 18691	transcript
+#761	AnnotatorNotes T761	SO:0000673 (transcript)
+T762	CHEBI 18745 18752	protein
+#762	AnnotatorNotes T762	CHEBI:36080 (proteins)
+T763	EntrezGene 18776 18780	E2F1
+#763	AnnotatorNotes T763	EG:1869
+T764	PR 18776 18780	E2F1
+#764	AnnotatorNotes T764	PR:000006852 (transcription factor E2F1)
+T765	GO_BP 18798 18808	DNA repair
+#765	AnnotatorNotes T765	GO:0006281 (DNA repair)
+T766	SO 18798 18801	DNA
+#766	AnnotatorNotes T766	SO:0000352 (DNA)
+T767	CHEBI 18813 18824	antioxidant
+#767	AnnotatorNotes T767	CHEBI:22586 (antioxidant)
+T768	independent_continuant 18813 18824	antioxidant
+#768	AnnotatorNotes T768	independent_continuant
+T769	GO_MF 18813 18824	antioxidant
+#769	AnnotatorNotes T769	GO:0016209 (antioxidant activity)
+T770	SO 18825 18830	genes
+#770	AnnotatorNotes T770	SO:0000704 (gene)
+T771	EntrezGene 18875 18880	CEBPG
+#771	AnnotatorNotes T771	EG:1054
+T772	PR 18875 18880	CEBPG
+#772	AnnotatorNotes T772	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T773	EntrezGene 18890 18894	E2F1
+#773	AnnotatorNotes T773	EG:1869
+T774	PR 18890 18894	E2F1
+#774	AnnotatorNotes T774	PR:000006852 (transcription factor E2F1)
+T775	NCBITaxon 18935 18946	individuals
+#775	AnnotatorNotes T775	NCBITaxon:1 (root)
+T776	NCBITaxon 18961 18972	individuals
+#776	AnnotatorNotes T776	NCBITaxon:1 (root)
+T777	EntrezGene 19004 19008	E2F1
+#777	AnnotatorNotes T777	EG:1869
+T778	PR 19004 19008	E2F1
+#778	AnnotatorNotes T778	PR:000006852 (transcription factor E2F1)
+T779	GO_BP 19014 19024	DNA repair
+#779	AnnotatorNotes T779	GO:0006281 (DNA repair)
+T780	SO 19014 19017	DNA
+#780	AnnotatorNotes T780	SO:0000352 (DNA)
+T781	CHEBI 19029 19040	antioxidant
+#781	AnnotatorNotes T781	CHEBI:22586 (antioxidant)
+T782	independent_continuant 19029 19040	antioxidant
+#782	AnnotatorNotes T782	independent_continuant
+T783	GO_MF 19029 19040	antioxidant
+#783	AnnotatorNotes T783	GO:0016209 (antioxidant activity)
+T784	SO 19041 19046	genes
+#784	AnnotatorNotes T784	SO:0000704 (gene)
+T785	NCBITaxon 19053 19064	individuals
+#785	AnnotatorNotes T785	NCBITaxon:1 (root)
+T786	GO_BP 19109 19119	controlled
+#786	AnnotatorNotes T786	GO:0065007 (biological regulation)
+T787	PR 19196 19200	E2F1
+#787	AnnotatorNotes T787	PR:000006852 (transcription factor E2F1)
+T788	GO_BP 19233 19241	regulate
+#788	AnnotatorNotes T788	GO:0065007 (biological regulation)
+T789	GO_BP 19242 19255	transcription
+#789	AnnotatorNotes T789	GO:0006350 (transcription)
+T790	GO_BP 19259 19269	DNA repair
+#790	AnnotatorNotes T790	GO:0006281 (DNA repair)
+T791	SO 19259 19262	DNA
+#791	AnnotatorNotes T791	SO:0000352 (DNA)
+T792	SO 19270 19276	enzyme
+#792	AnnotatorNotes T792	SO:0001185 (enzymatic)
+T793	SO 19277 19282	genes
+#793	AnnotatorNotes T793	SO:0000704 (gene)
+T794	CL 19292 19296	cell
+#794	AnnotatorNotes T794	CL:0000000 (cell)
+T795	GO_CC 19292 19296	cell
+#795	AnnotatorNotes T795	GO:0005623 (cell)
+T796	NCBITaxon 19322 19327	human
+#796	AnnotatorNotes T796	NCBITaxon:9606 (Homo sapiens)
+T797	CL 19328 19339	fibroblasts
+#797	AnnotatorNotes T797	CL:0000057 (fibroblast)
+T798	NCBITaxon 19344 19349	mouse
+#798	AnnotatorNotes T798	NCBITaxon:10088 (Mus)
+T799	CL 19350 19365	epidermal cells
+#799	AnnotatorNotes T799	CL:0000362 (epidermal cell)
+T800	GO_CC 19360 19365	cells
+#800	AnnotatorNotes T800	GO:0005623 (cell)
+T801	GO_BP 19420 19430	DNA repair
+#801	AnnotatorNotes T801	GO:0006281 (DNA repair)
+T802	SO 19420 19423	DNA
+#802	AnnotatorNotes T802	SO:0000352 (DNA)
+T803	SO 19431 19435	gene
+#803	AnnotatorNotes T803	SO:0000704 (gene)
+T804	GO_BP 19436 19449	up-regulation
+#804	AnnotatorNotes T804	GO:0048518 (positive regulation of biological process)
+T805	GO_BP 19453 19461	response
+#805	AnnotatorNotes T805	GO:0050896 (response to stimulus)
+T806	EntrezGene 19465 19469	E2F1
+#806	AnnotatorNotes T806	EG:1869
+T807	PR 19465 19469	E2F1
+#807	AnnotatorNotes T807	PR:000006852 (transcription factor E2F1)
+T808	GO_BP 19490 19500	DNA repair
+#808	AnnotatorNotes T808	GO:0006281 (DNA repair)
+T809	SO 19490 19493	DNA
+#809	AnnotatorNotes T809	SO:0000352 (DNA)
+T810	SO 19510 19513	DNA
+#810	AnnotatorNotes T810	SO:0000352 (DNA)
+T811	GO_BP 19517 19528	replicating
+#811	AnnotatorNotes T811	GO:0006260 (DNA replication)
+T812	SO 19637 19662	variation in DNA sequence
+#812	AnnotatorNotes T812	"variation in .. sequence" SO:0001059 (sequence_alteration)
+T813	SO 19650 19662	DNA sequence
+#813	AnnotatorNotes T813	SO:0000352 (DNA)
+T814	SO 19667 19679	polymorphism
+#814	AnnotatorNotes T814	SO:0001025 (polymorphic_sequence_variant)
+T815	SO 19667 19679	polymorphism
+#815	AnnotatorNotes T815	SO:0000694 (SNP)
+T816	SO 19890 19902	polymorphism
+#816	AnnotatorNotes T816	SO:0001025 (polymorphic_sequence_variant)
+T817	SO 19890 19902	polymorphism
+#817	AnnotatorNotes T817	SO:0000694 (SNP)
+T818	SO 19926 19939	polymorphisms
+#818	AnnotatorNotes T818	SO:0001025 (polymorphic_sequence_variant)
+T819	SO 19926 19939	polymorphisms
+#819	AnnotatorNotes T819	SO:0000694 (SNP)
+T820	SO 19963 19975	polymorphism
+#820	AnnotatorNotes T820	SO:0001025 (polymorphic_sequence_variant)
+T821	SO 19963 19975	polymorphism
+#821	AnnotatorNotes T821	SO:0000694 (SNP)
+T822	SO 20012 20016	gene
+#822	AnnotatorNotes T822	SO:0000704 (gene)
+T823	SO 20086 20089	DNA
+#823	AnnotatorNotes T823	SO:0000352 (DNA)
+T824	SO 20130 20142	polymorphism
+#824	AnnotatorNotes T824	SO:0001025 (polymorphic_sequence_variant)
+T825	SO 20130 20142	polymorphism
+#825	AnnotatorNotes T825	SO:0000694 (SNP)
+T826	SO 20266 20279	polymorphisms
+#826	AnnotatorNotes T826	SO:0001025 (polymorphic_sequence_variant)
+T827	SO 20266 20279	polymorphisms
+#827	AnnotatorNotes T827	SO:0000694 (SNP)
+T828	SO 20293 20298	sites
+#828	AnnotatorNotes T828	SO:0000001 (region)
+T829	SO 20345 20358	polymorphisms
+#829	AnnotatorNotes T829	SO:0001025 (polymorphic_sequence_variant)
+T830	SO 20345 20358	polymorphisms
+#830	AnnotatorNotes T830	SO:0000694 (SNP)
+T831	GO_BP 20666 20675	regulated
+#831	AnnotatorNotes T831	GO:0065007 (biological regulation)
+T832	GO_BP 20676 20689	transcription
+#832	AnnotatorNotes T832	GO:0006350 (transcription)
+T833	SO 20704 20709	genes
+#833	AnnotatorNotes T833	SO:0000704 (gene)
+T834	GO_MF 20725 20746	transcription factors
+#834	AnnotatorNotes T834	GO:0003700 (transcription factor activity)
+T835	independent_continuant 20725 20746	transcription factors
+#835	AnnotatorNotes T835	independent_continuant
+T836	GO_BP 20725 20738	transcription
+#836	AnnotatorNotes T836	GO:0006350 (transcription)
+T837	SO 20860 20865	genes
+#837	AnnotatorNotes T837	SO:0000704 (gene)
+T838	SO 20955 20965	transcript
+#838	AnnotatorNotes T838	SO:0000673 (transcript)
+T839	SO 21062 21067	genes
+#839	AnnotatorNotes T839	SO:0000704 (gene)
+T840	SO 21132 21145	polymorphisms
+#840	AnnotatorNotes T840	SO:0001025 (polymorphic_sequence_variant)
+T841	SO 21132 21145	polymorphisms
+#841	AnnotatorNotes T841	SO:0000694 (SNP)
+T842	GO_BP 21158 21168	regulation
+#842	AnnotatorNotes T842	GO:0065007 (biological regulation)
+T843	EntrezGene 21172 21177	XRCC1
+#843	AnnotatorNotes T843	EG:7515
+T844	PR 21172 21177	XRCC1
+#844	AnnotatorNotes T844	PR:000017504 (DNA repair protein XRCC1)
+T845	EntrezGene 21179 21184	ERCC5
+#845	AnnotatorNotes T845	EG:2073
+T846	PR 21179 21184	ERCC5
+#846	AnnotatorNotes T846	PR:000007167 (DNA repair protein complementing XP-G cells)
+T847	EntrezGene 21186 21191	GSTP1
+#847	AnnotatorNotes T847	EG:2950
+T848	EntrezGene 21193 21197	SOD1
+#848	AnnotatorNotes T848	EG:6647
+T849	PR 21193 21197	SOD1
+#849	AnnotatorNotes T849	PR:000015399 (superoxide dismutase [Cu-Zn])
+T850	EntrezGene 21203 21207	GPX1
+#850	AnnotatorNotes T850	EG:2876
+T851	PR 21203 21207	GPX1
+#851	AnnotatorNotes T851	PR:000008210 (glutathione peroxidase 1)
+T852	EntrezGene 21211 21216	CEBPG
+#852	AnnotatorNotes T852	EG:1054
+T853	PR 21211 21216	CEBPG
+#853	AnnotatorNotes T853	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T854	SO 21223 21236	polymorphisms
+#854	AnnotatorNotes T854	SO:0001025 (polymorphic_sequence_variant)
+T855	SO 21223 21236	polymorphisms
+#855	AnnotatorNotes T855	SO:0000694 (SNP)
+T856	SO 21372 21385	polymorphisms
+#856	AnnotatorNotes T856	SO:0001025 (polymorphic_sequence_variant)
+T857	SO 21372 21385	polymorphisms
+#857	AnnotatorNotes T857	SO:0000694 (SNP)
+T858	GO_BP 21398 21408	regulation
+#858	AnnotatorNotes T858	GO:0065007 (biological regulation)
+T859	CHEBI 21444 21455	antioxidant
+#859	AnnotatorNotes T859	CHEBI:22586 (antioxidant)
+T860	independent_continuant 21444 21455	antioxidant
+#860	AnnotatorNotes T860	independent_continuant
+T861	GO_MF 21444 21455	antioxidant
+#861	AnnotatorNotes T861	GO:0016209 (antioxidant activity)
+T862	GO_BP 21460 21470	DNA repair
+#862	AnnotatorNotes T862	GO:0006281 (DNA repair)
+T863	SO 21460 21463	DNA
+#863	AnnotatorNotes T863	SO:0000352 (DNA)
+T864	SO 21471 21476	genes
+#864	AnnotatorNotes T864	SO:0000704 (gene)
+T865	NCBITaxon 21527 21538	individuals
+#865	AnnotatorNotes T865	NCBITaxon:1 (root)
+T866	NCBITaxon 21591 21602	individuals
+#866	AnnotatorNotes T866	NCBITaxon:1 (root)
+T867	SO 21752 21756	gene
+#867	AnnotatorNotes T867	SO:0000704 (gene)
+T868	CHEBI 21766 21776	inhibitors
+#868	AnnotatorNotes T868	CHEBI:35222 (inhibitor)
+T869	SO 21885 21895	transcript
+#869	AnnotatorNotes T869	SO:0000673 (transcript)
+T870	SO 22044 22054	transcript
+#870	AnnotatorNotes T870	SO:0000673 (transcript)
+T871	SO 22161 22171	transcript
+#871	AnnotatorNotes T871	SO:0000673 (transcript)
+T872	SO 22210 22220	transcript
+#872	AnnotatorNotes T872	SO:0000673 (transcript)
+T873	SO 22275 22280	genes
+#873	AnnotatorNotes T873	SO:0000704 (gene)
+T874	SO 22302 22312	transcript
+#874	AnnotatorNotes T874	SO:0000673 (transcript)
+T875	SO 22350 22360	transcript
+#875	AnnotatorNotes T875	SO:0000673 (transcript)
+T876	SO 22393 22401	property
+#876	AnnotatorNotes T876	SO:0000110 (sequence_feature)
+T877	SO 22405 22410	genes
+#877	AnnotatorNotes T877	SO:0000704 (gene)
+T878	GO_BP 22423 22432	regulated
+#878	AnnotatorNotes T878	GO:0065007 (biological regulation)
+T879	GO_BP 22440 22453	transcription
+#879	AnnotatorNotes T879	GO:0006350 (transcription)
+T880	NCBITaxon 22501 22512	individuals
+#880	AnnotatorNotes T880	NCBITaxon:1 (root)
+T881	EntrezGene 22514 22519	CEBPG
+#881	AnnotatorNotes T881	EG:1054
+T882	PR 22514 22519	CEBPG
+#882	AnnotatorNotes T882	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T883	GO_BP 22520 22529	regulates
+#883	AnnotatorNotes T883	GO:0065007 (biological regulation)
+T884	GO_BP 22530 22543	transcription
+#884	AnnotatorNotes T884	GO:0006350 (transcription)
+T885	CHEBI 22551 22562	antioxidant
+#885	AnnotatorNotes T885	CHEBI:22586 (antioxidant)
+T886	independent_continuant 22551 22562	antioxidant
+#886	AnnotatorNotes T886	independent_continuant
+T887	GO_MF 22551 22562	antioxidant
+#887	AnnotatorNotes T887	GO:0016209 (antioxidant activity)
+T888	GO_BP 22566 22576	DNA repair
+#888	AnnotatorNotes T888	GO:0006281 (DNA repair)
+T889	SO 22566 22569	DNA
+#889	AnnotatorNotes T889	SO:0000352 (DNA)
+T890	SO 22577 22582	genes
+#890	AnnotatorNotes T890	SO:0000704 (gene)
+T891	EntrezGene 22627 22632	CEBPG
+#891	AnnotatorNotes T891	EG:1054
+T892	PR 22627 22632	CEBPG
+#892	AnnotatorNotes T892	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T893	GO_BP 22633 22643	regulation
+#893	AnnotatorNotes T893	GO:0065007 (biological regulation)
+T894	CHEBI 22686 22697	antioxidant
+#894	AnnotatorNotes T894	CHEBI:22586 (antioxidant)
+T895	GO_MF 22686 22697	antioxidant
+#895	AnnotatorNotes T895	GO:0016209 (antioxidant activity)
+T896	independent_continuant 22686 22697	antioxidant
+#896	AnnotatorNotes T896	independent_continuant
+T897	GO_BP 22705 22715	DNA repair
+#897	AnnotatorNotes T897	GO:0006281 (DNA repair)
+T898	SO 22705 22708	DNA
+#898	AnnotatorNotes T898	SO:0000352 (DNA)
+T899	SO 22716 22721	genes
+#899	AnnotatorNotes T899	SO:0000704 (gene)
+T900	SO 22822 22826	Gene
+#900	AnnotatorNotes T900	SO:0000704 (gene)
+T901	GO_BP 22848 22856	produces
+#901	AnnotatorNotes T901	GO:0009058 (biosynthetic process)
+T902	CHEBI 22880 22888	reagents
+#902	AnnotatorNotes T902	CHEBI:33893 (reagent)
+T903	GO_MF 22993 22995	TF
+#903	AnnotatorNotes T903	GO:0003700 (transcription factor activity)
+T904	independent_continuant 22993 22995	TF
+#904	AnnotatorNotes T904	independent_continuant
+T905	CHEBI 23887 23895	reagents
+#905	AnnotatorNotes T905	CHEBI:33893 (reagent)
+T906	SO 23927 23932	genes
+#906	AnnotatorNotes T906	SO:0000704 (gene)
+T907	SO 23961 23965	Gene
+#907	AnnotatorNotes T907	SO:0000704 (gene)
+T908	SO 24000 24004	Gene
+#908	AnnotatorNotes T908	SO:0000704 (gene)
+T909	bold 24217 24297	Correlation of each transcription factor with XRCC1, ERCC5, GSTP1, SOD1, or GPX1
+#909	AnnotatorNotes T909	bold (null)
+T910	GO_MF 24237 24257	transcription factor
+#910	AnnotatorNotes T910	GO:0003700 (transcription factor activity)
+T911	independent_continuant 24237 24257	transcription factor
+#911	AnnotatorNotes T911	independent_continuant
+T912	GO_BP 24237 24250	transcription
+#912	AnnotatorNotes T912	GO:0006350 (transcription)
+T913	EntrezGene 24263 24268	XRCC1
+#913	AnnotatorNotes T913	EG:7515
+T914	PR 24263 24268	XRCC1
+#914	AnnotatorNotes T914	PR:000017504 (DNA repair protein XRCC1)
+T915	EntrezGene 24270 24275	ERCC5
+#915	AnnotatorNotes T915	EG:2073
+T916	PR 24270 24275	ERCC5
+#916	AnnotatorNotes T916	PR:000007167 (DNA repair protein complementing XP-G cells)
+T917	EntrezGene 24277 24282	GSTP1
+#917	AnnotatorNotes T917	EG:2950
+T918	EntrezGene 24284 24288	SOD1
+#918	AnnotatorNotes T918	EG:6647
+T919	PR 24284 24288	SOD1
+#919	AnnotatorNotes T919	PR:000015399 (superoxide dismutase [Cu-Zn])
+T920	EntrezGene 24293 24297	GPX1
+#920	AnnotatorNotes T920	EG:2876
+T921	PR 24293 24297	GPX1
+#921	AnnotatorNotes T921	PR:000008210 (glutathione peroxidase 1)
+T922	bold 24299 24304	(a-f)
+#922	AnnotatorNotes T922	bold (null)
+T923	italic 24355 24356	r
+#923	AnnotatorNotes T923	italic (null)
+T924	GO_MF 24373 24393	transcription factor
+#924	AnnotatorNotes T924	GO:0003700 (transcription factor activity)
+T925	independent_continuant 24373 24393	transcription factor
+#925	AnnotatorNotes T925	independent_continuant
+T926	GO_BP 24373 24386	transcription
+#926	AnnotatorNotes T926	GO:0006350 (transcription)
+T927	SO 24426 24431	genes
+#927	AnnotatorNotes T927	SO:0000704 (gene)
+T928	bold 24433 24436	(a)
+#928	AnnotatorNotes T928	bold (null)
+T929	EntrezGene 24437 24442	CEBPB
+#929	AnnotatorNotes T929	EG:1051
+T930	PR 24437 24442	CEBPB
+#930	AnnotatorNotes T930	PR:000005308 (CCAAT/enhancer-binding protein beta)
+T931	bold 24444 24447	(b)
+#931	AnnotatorNotes T931	bold (null)
+T932	EntrezGene 24448 24453	CEBPG
+#932	AnnotatorNotes T932	EG:1054
+T933	PR 24448 24453	CEBPG
+#933	AnnotatorNotes T933	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T934	bold 24455 24458	(c)
+#934	AnnotatorNotes T934	bold (null)
+T935	EntrezGene 24459 24463	E2F1
+#935	AnnotatorNotes T935	EG:1869
+T936	PR 24459 24463	E2F1
+#936	AnnotatorNotes T936	PR:000006852 (transcription factor E2F1)
+T937	bold 24465 24468	(d)
+#937	AnnotatorNotes T937	bold (null)
+T938	EntrezGene 24469 24473	E2F3
+#938	AnnotatorNotes T938	EG:1871
+T939	PR 24469 24473	E2F3
+#939	AnnotatorNotes T939	PR:000006854 (transcription factor E2F3)
+T940	bold 24475 24478	(e)
+#940	AnnotatorNotes T940	bold (null)
+T941	EntrezGene 24479 24483	E2F6
+#941	AnnotatorNotes T941	EG:1876
+T942	PR 24479 24483	E2F6
+#942	AnnotatorNotes T942	PR:000006857 (transcription factor E2F6)
+T943	bold 24485 24488	(f)
+#943	AnnotatorNotes T943	bold (null)
+T944	EntrezGene 24489 24493	EVI1
+#944	AnnotatorNotes T944	EG:2122
+T945	PR 24489 24493	EVI1
+#945	AnnotatorNotes T945	PR:000007234 (ecotropic virus integration site 1 protein)
+T946	EntrezGene 24571 24576	CEBPG
+#946	AnnotatorNotes T946	EG:1054
+T947	PR 24571 24576	CEBPG
+#947	AnnotatorNotes T947	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T948	bold 24597 24598	b
+#948	AnnotatorNotes T948	bold (null)
+T949	italic 24618 24619	r
+#949	AnnotatorNotes T949	italic (null)
+T950	NCBITaxon 24641 24652	individuals
+#950	AnnotatorNotes T950	NCBITaxon:1 (root)
+T951	NCBITaxon 24660 24671	individuals
+#951	AnnotatorNotes T951	NCBITaxon:1 (root)
+T952	SO 24730 24734	gene
+#952	AnnotatorNotes T952	SO:0000704 (gene)
+T953	bold 24833 24905	Scatter plot representation of bivariate correlation of CEBPG with XRCC1
+#953	AnnotatorNotes T953	bold (null)
+T954	EntrezGene 24889 24894	CEBPG
+#954	AnnotatorNotes T954	EG:1054
+T955	PR 24889 24894	CEBPG
+#955	AnnotatorNotes T955	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T956	EntrezGene 24900 24905	XRCC1
+#956	AnnotatorNotes T956	EG:7515
+T957	PR 24900 24905	XRCC1
+#957	AnnotatorNotes T957	PR:000017504 (DNA repair protein XRCC1)
+T958	bold 24907 24913	(a, b)
+#958	AnnotatorNotes T958	bold (null)
+T959	EntrezGene 24914 24919	CEBPG
+#959	AnnotatorNotes T959	EG:1054
+T960	PR 24914 24919	CEBPG
+#960	AnnotatorNotes T960	PR:000005311 (CCAAT/enhancer-binding protein gamma)
+T961	EntrezGene 24920 24925	XRCC1
+#961	AnnotatorNotes T961	EG:7515
+T962	PR 24920 24925	XRCC1
+#962	AnnotatorNotes T962	PR:000017504 (DNA repair protein XRCC1)
+T963	bold 24944 24945	b
+#963	AnnotatorNotes T963	bold (null)
+T964	bold 24974 24977	(a)
+#964	AnnotatorNotes T964	bold (null)
+T965	NCBITaxon 24985 24996	individuals
+#965	AnnotatorNotes T965	NCBITaxon:1 (root)
+T966	bold 24998 25001	(b)
+#966	AnnotatorNotes T966	bold (null)
+T967	NCBITaxon 25005 25016	individuals
+#967	AnnotatorNotes T967	NCBITaxon:1 (root)
+T968	sup 25100 25101	1
+#968	AnnotatorNotes T968	sup (null)
+T969	sup 25113 25114	2
+#969	AnnotatorNotes T969	sup (null)
+T970	NCBITaxon 25141 25151	individual
+#970	AnnotatorNotes T970	NCBITaxon:1 (root)
+T971	sup 25153 25154	3
+#971	AnnotatorNotes T971	sup (null)
+T972	sup 25161 25162	4
+#972	AnnotatorNotes T972	sup (null)
+T973	sup 25180 25181	5
+#973	AnnotatorNotes T973	sup (null)
+T974	sup 25193 25194	6
+#974	AnnotatorNotes T974	sup (null)
+T975	sup 25209 25210	7
+#975	AnnotatorNotes T975	sup (null)
+T976	sup 25220 25221	8
+#976	AnnotatorNotes T976	sup (null)
+T977	NCBITaxon 25244 25254	individual
+#977	AnnotatorNotes T977	NCBITaxon:1 (root)
+T978	sup 25256 25257	9
+#978	AnnotatorNotes T978	sup (null)
+T979	CL 25267 25271	cell
+#979	AnnotatorNotes T979	CL:0000000 (cell)
+T980	GO_CC 25267 25271	cell
+#980	AnnotatorNotes T980	GO:0005623 (cell)
+T981	sup 25285 25287	10
+#981	AnnotatorNotes T981	sup (null)
+T982	sup 25307 25309	11
+#982	AnnotatorNotes T982	sup (null)
+T983	CL 25315 25319	cell
+#983	AnnotatorNotes T983	CL:0000000 (cell)
+T984	GO_CC 25315 25319	cell
+#984	AnnotatorNotes T984	GO:0005623 (cell)
+T985	sup 25333 25335	12
+#985	AnnotatorNotes T985	sup (null)
+T986	sup 25354 25356	13
+#986	AnnotatorNotes T986	sup (null)
+T987	sup 25371 25373	14
+#987	AnnotatorNotes T987	sup (null)
+T988	sup 25419 25421	15
+#988	AnnotatorNotes T988	sup (null)
+T989	SO 25464 25472	Sequence
+#989	AnnotatorNotes T989	SO:0000001 (region)
+T990	SO 25482 25488	primer
+#990	AnnotatorNotes T990	SO:0000112 (primer)
+T991	SO 25530 25540	transcript
+#991	AnnotatorNotes T991	SO:0000673 (transcript)
+T992	SO 25643 25653	transcript
+#992	AnnotatorNotes T992	SO:0000673 (transcript)
+T993	SO 25693 25703	transcript
+#993	AnnotatorNotes T993	SO:0000673 (transcript)
+T994	SO 25728 25732	gene
+#994	AnnotatorNotes T994	SO:0000704 (gene)
+T995	CHEBI 25749 25758	molecules
+#995	AnnotatorNotes T995	CHEBI:23367 (molecular entity)
+T996	sup 25761 25762	6
+#996	AnnotatorNotes T996	sup (null)
+T997	PR 25763 25770	β-actin
+#997	AnnotatorNotes T997	PR:000003676 (actin, cytoplasmic 1)
+T998	CHEBI 25771 25780	molecules
+#998	AnnotatorNotes T998	CHEBI:23367 (molecular entity)
+T999	GO_BP 25842 25852	Expression
+#999	AnnotatorNotes T999	GO:0010467 (gene expression)
+T1000	SO 25954 25964	transcript
+#1000	AnnotatorNotes T1000	SO:0000673 (transcript)
+T1001	SO 26035 26045	transcript
+#1001	AnnotatorNotes T1001	SO:0000673 (transcript)
+T1002	GO_BP 26132 26142	Expression
+#1002	AnnotatorNotes T1002	GO:0010467 (gene expression)
+T1003	SO 26241 26251	transcript
+#1003	AnnotatorNotes T1003	SO:0000673 (transcript)
+T1004	CHEBI 26322 26333	antioxidant
+#1004	AnnotatorNotes T1004	CHEBI:22586 (antioxidant)
+T1005	independent_continuant 26322 26333	antioxidant
+#1005	AnnotatorNotes T1005	independent_continuant
+T1006	GO_MF 26322 26333	antioxidant
+#1006	AnnotatorNotes T1006	GO:0016209 (antioxidant activity)
+T1007	GO_BP 26337 26347	DNA repair
+#1007	AnnotatorNotes T1007	GO:0006281 (DNA repair)
+T1008	SO 26337 26340	DNA
+#1008	AnnotatorNotes T1008	SO:0000352 (DNA)
+T1009	SO 26348 26353	genes
+#1009	AnnotatorNotes T1009	SO:0000704 (gene)
+T1010	independent_continuant 26374 26395	transcription factors
+#1010	AnnotatorNotes T1010	independent_continuant
+T1011	GO_MF 26374 26395	transcription factors
+#1011	AnnotatorNotes T1011	GO:0003700 (transcription factor activity)
+T1012	GO_BP 26374 26387	transcription
+#1012	AnnotatorNotes T1012	GO:0006350 (transcription)
+T1013	EntrezGene 26407 26411	E2F1
+#1013	AnnotatorNotes T1013	EG:1869
+T1014	PR 26407 26411	E2F1
+#1014	AnnotatorNotes T1014	PR:000006852 (transcription factor E2F1)
+T1015	NCBITaxon 26454 26465	individuals
+#1015	AnnotatorNotes T1015	NCBITaxon:1 (root)
+T1016	NCBITaxon 26477 26488	individuals
+#1016	AnnotatorNotes T1016	NCBITaxon:1 (root)
+T1017	NCBITaxon 26499 26510	individuals
+#1017	AnnotatorNotes T1017	NCBITaxon:1 (root)
+T1018	sup 26514 26515	1
+#1018	AnnotatorNotes T1018	sup (null)
+T1019	CHEBI 26543 26552	molecules
+#1019	AnnotatorNotes T1019	CHEBI:23367 (molecular entity)
+T1020	sup 26657 26658	2
+#1020	AnnotatorNotes T1020	sup (null)
+T1021	EntrezGene 26677 26681	E2F1
+#1021	AnnotatorNotes T1021	EG:1869
+T1022	PR 26677 26681	E2F1
+#1022	AnnotatorNotes T1022	PR:000006852 (transcription factor E2F1)
+T1023	NCBITaxon 26735 26745	individual
+#1023	AnnotatorNotes T1023	NCBITaxon:1 (root)
+T1024	NCBITaxon 26757 26768	individuals
+#1024	AnnotatorNotes T1024	NCBITaxon:1 (root)
+T1025	NCBITaxon 26779 26790	individuals
+#1025	AnnotatorNotes T1025	NCBITaxon:1 (root)
+T1026	SO 26847 26857	transcript
+#1026	AnnotatorNotes T1026	SO:0000673 (transcript)
+T1027	CHEBI 26889 26900	antioxidant
+#1027	AnnotatorNotes T1027	CHEBI:22586 (antioxidant)
+T1028	GO_MF 26889 26900	antioxidant
+#1028	AnnotatorNotes T1028	GO:0016209 (antioxidant activity)
+T1029	independent_continuant 26889 26900	antioxidant
+#1029	AnnotatorNotes T1029	independent_continuant
+T1030	GO_BP 26904 26914	DNA repair
+#1030	AnnotatorNotes T1030	GO:0006281 (DNA repair)
+T1031	SO 26904 26907	DNA
+#1031	AnnotatorNotes T1031	SO:0000352 (DNA)
+T1032	SO 26915 26919	gene
+#1032	AnnotatorNotes T1032	SO:0000704 (gene)
+T1033	GO_MF 26932 26952	transcription factor
+#1033	AnnotatorNotes T1033	GO:0003700 (transcription factor activity)
+T1034	independent_continuant 26932 26952	transcription factor
+#1034	AnnotatorNotes T1034	independent_continuant
+T1035	GO_BP 26932 26945	transcription
+#1035	AnnotatorNotes T1035	GO:0006350 (transcription)
+T1036	SO 27024 27034	transcript
+#1036	AnnotatorNotes T1036	SO:0000673 (transcript)
+T1037	GO_MF 27081 27102	transcription factors
+#1037	AnnotatorNotes T1037	GO:0003700 (transcription factor activity)
+T1038	independent_continuant 27081 27102	transcription factors
+#1038	AnnotatorNotes T1038	independent_continuant
+T1039	GO_BP 27081 27094	transcription
+#1039	AnnotatorNotes T1039	GO:0006350 (transcription)
+T1040	GO_MF 27128 27139	antioxidant
+#1040	AnnotatorNotes T1040	GO:0016209 (antioxidant activity)
+T1041	independent_continuant 27128 27139	antioxidant
+#1041	AnnotatorNotes T1041	independent_continuant
+T1042	GO_BP 27143 27153	DNA repair
+#1042	AnnotatorNotes T1042	GO:0006281 (DNA repair)
+T1043	SO 27143 27146	DNA
+#1043	AnnotatorNotes T1043	SO:0000352 (DNA)
+T1044	SO 27154 27159	genes
+#1044	AnnotatorNotes T1044	SO:0000704 (gene)
+T1045	GO_BP 27234 27257	expression of each gene
+#1045	AnnotatorNotes T1045	"expression of .. gene" GO:0010467 (gene expression)
+T1046	SO 27253 27257	gene
+#1046	AnnotatorNotes T1046	SO:0000704 (gene)
+T1047	italic 27306 27307	r
+#1047	AnnotatorNotes T1047	italic (null)
+T1048	independent_continuant 27538 27559	transcription factors
+#1048	AnnotatorNotes T1048	independent_continuant
+T1049	GO_MF 27538 27559	transcription factors
+#1049	AnnotatorNotes T1049	GO:0003700 (transcription factor activity)
+T1050	GO_BP 27538 27551	transcription
+#1050	AnnotatorNotes T1050	GO:0006350 (transcription)
+T1051	independent_continuant 27575 27586	antioxidant
+#1051	AnnotatorNotes T1051	independent_continuant
+T1052	GO_MF 27575 27586	antioxidant
+#1052	AnnotatorNotes T1052	GO:0016209 (antioxidant activity)
+T1053	GO_BP 27590 27600	DNA repair
+#1053	AnnotatorNotes T1053	GO:0006281 (DNA repair)
+T1054	SO 27590 27593	DNA
+#1054	AnnotatorNotes T1054	SO:0000352 (DNA)
+T1055	SO 27601 27606	genes
+#1055	AnnotatorNotes T1055	SO:0000704 (gene)
+T1056	EntrezGene 27622 27626	E2F1
+#1056	AnnotatorNotes T1056	EG:1869
+T1057	PR 27622 27626	E2F1
+#1057	AnnotatorNotes T1057	PR:000006852 (transcription factor E2F1)
+T1058	NCBITaxon 27654 27665	individuals
+#1058	AnnotatorNotes T1058	NCBITaxon:1 (root)

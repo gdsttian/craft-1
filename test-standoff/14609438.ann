@@ -1,0 +1,1850 @@
+T1	independent_continuant 11 34	tripeptidyl-peptidase I
+#1	AnnotatorNotes T1	independent_continuant
+T2	GO_MF 11 34	tripeptidyl-peptidase I
+#2	AnnotatorNotes T2	GO:0019131 (tripeptidyl-peptidase I activity)
+T3	PR 11 34	tripeptidyl-peptidase I
+#3	AnnotatorNotes T3	PR:000016585 (tripeptidyl-peptidase 1)
+T4	EntrezGene 11 34	tripeptidyl-peptidase I
+#4	AnnotatorNotes T4	EG:1200
+T5	EntrezGene 36 40	CLN2
+#5	AnnotatorNotes T5	EG:1200
+T6	PR 36 40	CLN2
+#6	AnnotatorNotes T6	PR:000016585 (tripeptidyl-peptidase 1)
+T7	SO 67 76	conserved
+#7	AnnotatorNotes T7	SO:0000856 (conserved)
+T8	GO_MF 111 137	serine-carboxyl peptidases
+#8	AnnotatorNotes T8	GO:0004185 (serine carboxypeptidase activity)
+T9	independent_continuant 111 137	serine-carboxyl peptidases
+#9	AnnotatorNotes T9	independent_continuant
+T10	CHEBI 111 117	serine
+#10	AnnotatorNotes T10	CHEBI:32848 (serine residue)
+T11	SO 111 117	serine
+#11	AnnotatorNotes T11	SO:0001444 (serine)
+T12	CHEBI 118 126	carboxyl
+#12	AnnotatorNotes T12	CHEBI:46883 (carboxy group)
+T13	GO_MF 161 184	Tripeptidyl-peptidase I
+#13	AnnotatorNotes T13	GO:0019131 (tripeptidyl-peptidase I activity)
+T14	independent_continuant 161 184	Tripeptidyl-peptidase I
+#14	AnnotatorNotes T14	independent_continuant
+T15	PR 161 184	Tripeptidyl-peptidase I
+#15	AnnotatorNotes T15	PR:000016585 (tripeptidyl-peptidase 1)
+T16	PR 200 204	CLN2
+#16	AnnotatorNotes T16	PR:000016585 (tripeptidyl-peptidase 1)
+T17	GO_MF 247 273	serine-carboxyl peptidases
+#17	AnnotatorNotes T17	GO:0004185 (serine carboxypeptidase activity)
+T18	independent_continuant 247 273	serine-carboxyl peptidases
+#18	AnnotatorNotes T18	independent_continuant
+T19	CHEBI 247 253	serine
+#19	AnnotatorNotes T19	CHEBI:32848 (serine residue)
+T20	SO 247 253	serine
+#20	AnnotatorNotes T20	SO:0001444 (serine)
+T21	CHEBI 254 262	carboxyl
+#21	AnnotatorNotes T21	CHEBI:46883 (carboxy group)
+T22	NCBITaxon 279 285	humans
+#22	AnnotatorNotes T22	NCBITaxon:9606 (Homo sapiens)
+T23	GO_BP 298 308	expression
+#23	AnnotatorNotes T23	GO:0010467 (gene expression)
+T24	SO 317 323	enzyme
+#24	AnnotatorNotes T24	SO:0001185 (enzymatic)
+T25	GO_BP 334 339	fatal
+#25	AnnotatorNotes T25	GO:0016265 (death)
+T26	CL 392 400	neuronal
+#26	AnnotatorNotes T26	CL:0000540 (neuron)
+T27	SO 432 439	enzymes
+#27	AnnotatorNotes T27	SO:0001185 (enzymatic)
+T28	SO 463 480	genomic sequences
+#28	AnnotatorNotes T28	SO:0001026 (genome)
+T29	taxonomic_rank 492 499	species
+#29	AnnotatorNotes T29	species (null)
+T30	SO 663 672	orthologs
+#30	AnnotatorNotes T30	SO:0000855 (orthologous_region)
+T31	EntrezGene 676 686	human CLN2
+#31	AnnotatorNotes T31	EG:1200
+T32	NCBITaxon 676 681	human
+#32	AnnotatorNotes T32	NCBITaxon:9606 (Homo sapiens)
+T33	PR 682 686	CLN2
+#33	AnnotatorNotes T33	PR:000016585 (tripeptidyl-peptidase 1)
+T34	SO 694 711	genomic sequences
+#34	AnnotatorNotes T34	SO:0001026 (genome)
+T35	NCBITaxon 727 737	eukaryotic
+#35	AnnotatorNotes T35	NCBITaxon:2759 (Eukaryota)
+T36	taxonomic_rank 738 745	species
+#36	AnnotatorNotes T36	species (null)
+T37	SO 747 754	Enzymes
+#37	AnnotatorNotes T37	SO:0001185 (enzymatic)
+T38	SO 760 769	sequences
+#38	AnnotatorNotes T38	SO:0000001 (region)
+T39	SO 819 826	genomes
+#39	AnnotatorNotes T39	SO:0001026 (genome)
+T40	NCBITaxon 830 837	macaque
+#40	AnnotatorNotes T40	NCBITaxon:9539 (Macaca)
+T41	NCBITaxon 839 844	mouse
+#41	AnnotatorNotes T41	NCBITaxon:10088 (Mus)
+T42	NCBITaxon 846 849	rat
+#42	AnnotatorNotes T42	NCBITaxon:10114 (Rattus)
+T43	NCBITaxon 851 854	dog
+#43	AnnotatorNotes T43	NCBITaxon:9615 (Canis familiaris)
+T44	NCBITaxon 860 863	cow
+#44	AnnotatorNotes T44	NCBITaxon:9913 (Bos taurus)
+T45	SO 909 916	enzymes
+#45	AnnotatorNotes T45	SO:0001185 (enzymatic)
+T46	NCBITaxon 932 936	fish
+#46	AnnotatorNotes T46	NCBITaxon:7898 (Actinopterygii)
+T47	NCBITaxon 932 936	fish
+#47	AnnotatorNotes T47	NCBITaxon:117565 (Hyperotreti)
+T48	NCBITaxon 932 936	fish
+#48	AnnotatorNotes T48	NCBITaxon:117569 (Hyperoartia)
+T49	NCBITaxon 932 936	fish
+#49	AnnotatorNotes T49	NCBITaxon:7777 (Chondrichthyes)
+T50	NCBITaxon 932 936	fish
+#50	AnnotatorNotes T50	NCBITaxon:7878 (Dipnoi)
+T51	NCBITaxon 932 936	fish
+#51	AnnotatorNotes T51	NCBITaxon:118072 (Coelacanthimorpha)
+T52	NCBITaxon 938 942	fugu
+#52	AnnotatorNotes T52	NCBITaxon:31032 (Takifugu)
+T53	NCBITaxon 947 952	zebra
+#53	AnnotatorNotes T53	NCBITaxon:7955 (Danio rerio)
+T54	NCBITaxon 969 974	frogs
+#54	AnnotatorNotes T54	NCBITaxon:8342 (Anura)
+T55	taxonomic_rank 976 994	Xenopus tropicalis
+#55	AnnotatorNotes T55	taxonomic_rank (null)
+T56	NCBITaxon 976 994	Xenopus tropicalis
+#56	AnnotatorNotes T56	NCBITaxon:8364 (Xenopus (Silurana) tropicalis)
+T57	EntrezGene 1026 1036	human CLN2
+#57	AnnotatorNotes T57	EG:1200
+T58	NCBITaxon 1026 1031	human
+#58	AnnotatorNotes T58	NCBITaxon:9606 (Homo sapiens)
+T59	PR 1032 1036	CLN2
+#59	AnnotatorNotes T59	PR:000016585 (tripeptidyl-peptidase 1)
+T60	SO 1067 1075	homology
+#60	AnnotatorNotes T60	SO:0000857 (homologous)
+T61	italic 1081 1092	Pseudomonas
+#61	AnnotatorNotes T61	italic (null)
+T62	NCBITaxon 1081 1092	Pseudomonas
+#62	AnnotatorNotes T62	NCBITaxon:286 (Pseudomonas)
+T63	taxonomic_rank 1081 1092	Pseudomonas
+#63	AnnotatorNotes T63	taxonomic_rank (null)
+T64	taxonomic_rank 1093 1096	sp.
+#64	AnnotatorNotes T64	species (null)
+T65	PR 1125 1129	CLN2
+#65	AnnotatorNotes T65	PR:000016585 (tripeptidyl-peptidase 1)
+T66	SO 1145 1154	conserved
+#66	AnnotatorNotes T66	SO:0000856 (conserved)
+T67	NCBITaxon 1191 1200	organisms
+#67	AnnotatorNotes T67	NCBITaxon:1 (root)
+T68	SO 1316 1327	active site
+#68	AnnotatorNotes T68	SO:0100019 (polypeptide_catalytic_motif)
+T69	SO 1354 1363	conserved
+#69	AnnotatorNotes T69	SO:0000856 (conserved)
+T70	SO 1374 1379	known
+#70	AnnotatorNotes T70	SO:0000906 (independently_known)
+T71	PR 1380 1384	CLN2
+#71	AnnotatorNotes T71	PR:000016585 (tripeptidyl-peptidase 1)
+T72	SO 1385 1392	enzymes
+#72	AnnotatorNotes T72	SO:0001185 (enzymatic)
+T73	GO_MF 1434 1446	tripeptidase
+#73	AnnotatorNotes T73	GO:0008240 (tripeptidyl-peptidase activity)
+T74	independent_continuant 1434 1446	tripeptidase
+#74	AnnotatorNotes T74	independent_continuant
+T75	GO_MF 1488 1495	binding
+#75	AnnotatorNotes T75	GO:0005488 (binding)
+T76	SO 1615 1622	enzymes
+#76	AnnotatorNotes T76	SO:0001185 (enzymatic)
+T77	CHEBI 1658 1668	inhibitors
+#77	AnnotatorNotes T77	CHEBI:35222 (inhibitor)
+T78	EntrezGene 1672 1676	CLN2
+#78	AnnotatorNotes T78	EG:1200
+T79	PR 1672 1676	CLN2
+#79	AnnotatorNotes T79	PR:000016585 (tripeptidyl-peptidase 1)
+T80	independent_continuant 1717 1740	tripeptidyl-peptidase I
+#80	AnnotatorNotes T80	independent_continuant
+T81	PR 1717 1740	tripeptidyl-peptidase I
+#81	AnnotatorNotes T81	PR:000016585 (tripeptidyl-peptidase 1)
+T82	GO_MF 1717 1740	tripeptidyl-peptidase I
+#82	AnnotatorNotes T82	GO:0019131 (tripeptidyl-peptidase I activity)
+T83	GO_MF 1742 1747	TPP-I
+#83	AnnotatorNotes T83	GO:0019131 (tripeptidyl-peptidase I activity)
+T84	PR 1742 1747	TPP-I
+#84	AnnotatorNotes T84	PR:000016585 (tripeptidyl-peptidase 1)
+T85	independent_continuant 1742 1747	TPP-I
+#85	AnnotatorNotes T85	independent_continuant
+T86	GO_MF 1940 1945	TPP-I
+#86	AnnotatorNotes T86	GO:0019131 (tripeptidyl-peptidase I activity)
+T87	PR 1940 1945	TPP-I
+#87	AnnotatorNotes T87	PR:000016585 (tripeptidyl-peptidase 1)
+T88	independent_continuant 1940 1945	TPP-I
+#88	AnnotatorNotes T88	independent_continuant
+T89	SO 1993 1999	enzyme
+#89	AnnotatorNotes T89	SO:0001185 (enzymatic)
+T90	PR 2006 2010	CLN2
+#90	AnnotatorNotes T90	PR:000016585 (tripeptidyl-peptidase 1)
+T91	SO 2042 2051	mutations
+#91	AnnotatorNotes T91	SO:0001059 (sequence_alteration)
+T92	SO 2082 2091	enzymatic
+#92	AnnotatorNotes T92	SO:0001185 (enzymatic)
+T93	EntrezGene 2104 2108	CLN2
+#93	AnnotatorNotes T93	EG:1200
+T94	PR 2104 2108	CLN2
+#94	AnnotatorNotes T94	PR:000016585 (tripeptidyl-peptidase 1)
+T95	GO_BP 2136 2141	fatal
+#95	AnnotatorNotes T95	GO:0016265 (death)
+T96	CL 2204 2212	neuronal
+#96	AnnotatorNotes T96	CL:0000540 (neuron)
+T97	PR 2305 2309	CLN2
+#97	AnnotatorNotes T97	PR:000016585 (tripeptidyl-peptidase 1)
+T98	independent_continuant 2315 2331	serine peptidase
+#98	AnnotatorNotes T98	independent_continuant
+T99	GO_MF 2315 2331	serine peptidase
+#99	AnnotatorNotes T99	GO:0008236 (serine-type peptidase activity)
+T100	CHEBI 2315 2321	serine
+#100	AnnotatorNotes T100	CHEBI:32848 (serine residue)
+T101	SO 2315 2321	serine
+#101	AnnotatorNotes T101	SO:0001444 (serine)
+T102	SO 2411 2425	catalytic site
+#102	AnnotatorNotes T102	SO:0100019 (polypeptide_catalytic_motif)
+T103	PR 2454 2458	CLN2
+#103	AnnotatorNotes T103	PR:000016585 (tripeptidyl-peptidase 1)
+T104	SO 2501 2508	enzymes
+#104	AnnotatorNotes T104	SO:0001185 (enzymatic)
+T105	NCBITaxon 2578 2587	bacterial
+#105	AnnotatorNotes T105	NCBITaxon:2 (Bacteria)
+T106	SO 2588 2595	enzymes
+#106	AnnotatorNotes T106	SO:0001185 (enzymatic)
+T107	SO 2611 2619	sequence
+#107	AnnotatorNotes T107	SO:0000001 (region)
+T108	PR 2634 2638	CLN2
+#108	AnnotatorNotes T108	PR:000016585 (tripeptidyl-peptidase 1)
+T109	SO 2734 2741	enzymes
+#109	AnnotatorNotes T109	SO:0001185 (enzymatic)
+T110	GO_MF 2768 2794	serine-carboxyl peptidases
+#110	AnnotatorNotes T110	GO:0004185 (serine carboxypeptidase activity)
+T111	independent_continuant 2768 2794	serine-carboxyl peptidases
+#111	AnnotatorNotes T111	independent_continuant
+T112	CHEBI 2768 2774	serine
+#112	AnnotatorNotes T112	CHEBI:32848 (serine residue)
+T113	SO 2768 2774	serine
+#113	AnnotatorNotes T113	SO:0001444 (serine)
+T114	CHEBI 2775 2783	carboxyl
+#114	AnnotatorNotes T114	CHEBI:46883 (carboxy group)
+T115	SO 2848 2857	conserved
+#115	AnnotatorNotes T115	SO:0000856 (conserved)
+T116	CHEBI 2875 2878	Ser
+#116	AnnotatorNotes T116	CHEBI:32848 (serine residue)
+T117	SO 2875 2878	Ser
+#117	AnnotatorNotes T117	SO:0001444 (serine)
+T118	CHEBI 2880 2883	Glu
+#118	AnnotatorNotes T118	CHEBI:32483 (glutamic acid residue)
+T119	SO 2880 2883	Glu
+#119	AnnotatorNotes T119	SO:0001454 (glutamic_acid)
+T120	CHEBI 2885 2888	Asp
+#120	AnnotatorNotes T120	CHEBI:32470 (aspartic acid residue)
+T121	SO 2885 2888	Asp
+#121	AnnotatorNotes T121	SO:0001453 (aspartic_acid)
+T122	CHEBI 2916 2919	Asp
+#122	AnnotatorNotes T122	CHEBI:32470 (aspartic acid residue)
+T123	SO 2916 2919	Asp
+#123	AnnotatorNotes T123	SO:0001453 (aspartic_acid)
+T124	CHEBI 2927 2935	oxyanion
+#124	AnnotatorNotes T124	CHEBI:35406 (oxoanions)
+T125	SO 2972 2980	variants
+#125	AnnotatorNotes T125	SO:0001060 (sequence_variant)
+T126	NCBITaxon 3059 3066	archaea
+#126	AnnotatorNotes T126	NCBITaxon:2157 (Archaea)
+T127	NCBITaxon 3068 3076	bacteria
+#127	AnnotatorNotes T127	NCBITaxon:2 (Bacteria)
+T128	NCBITaxon 3078 3083	fungi
+#128	AnnotatorNotes T128	NCBITaxon:4751 (Fungi)
+T129	NCBITaxon 3088 3095	amoebae
+#129	AnnotatorNotes T129	NCBITaxon:5774 (Amoeba)
+T130	NCBITaxon 3116 3125	organisms
+#130	AnnotatorNotes T130	NCBITaxon:1 (root)
+T131	SO 3147 3155	variants
+#131	AnnotatorNotes T131	SO:0001060 (sequence_variant)
+T132	PR 3159 3163	CLN2
+#132	AnnotatorNotes T132	PR:000016585 (tripeptidyl-peptidase 1)
+T133	NCBITaxon 3219 3228	organisms
+#133	AnnotatorNotes T133	NCBITaxon:1 (root)
+T134	EntrezGene 3303 3307	CLN2
+#134	AnnotatorNotes T134	EG:1200
+T135	PR 3303 3307	CLN2
+#135	AnnotatorNotes T135	PR:000016585 (tripeptidyl-peptidase 1)
+T136	SO 3320 3327	enzymes
+#136	AnnotatorNotes T136	SO:0001185 (enzymatic)
+T137	SO 3360 3367	genomic
+#137	AnnotatorNotes T137	SO:0001026 (genome)
+T138	SO 3477 3483	enzyme
+#138	AnnotatorNotes T138	SO:0001185 (enzymatic)
+T139	CHEBI 3603 3612	molecular
+#139	AnnotatorNotes T139	CHEBI:36357 (polyatomic entities)
+T140	SO 3716 3722	enzyme
+#140	AnnotatorNotes T140	SO:0001185 (enzymatic)
+T141	CHEBI 3770 3780	inhibitors
+#141	AnnotatorNotes T141	CHEBI:35222 (inhibitor)
+T142	NCBITaxon 3859 3862	HIV
+#142	AnnotatorNotes T142	NCBITaxon:11676 (Human immunodeficiency virus 1)
+T143	independent_continuant 3863 3871	protease
+#143	AnnotatorNotes T143	independent_continuant
+T144	GO_MF 3863 3871	protease
+#144	AnnotatorNotes T144	GO:0008233 (peptidase activity)
+T145	GO_MF 3902 3911	peptidase
+#145	AnnotatorNotes T145	GO:0008233 (peptidase activity)
+T146	independent_continuant 3902 3911	peptidase
+#146	AnnotatorNotes T146	independent_continuant
+T147	NCBITaxon 3919 3930	coronavirus
+#147	AnnotatorNotes T147	NCBITaxon:693995 (Coronavirinae)
+T148	CHEBI 4034 4043	molecular
+#148	AnnotatorNotes T148	CHEBI:36357 (polyatomic entities)
+T149	SO 4044 4052	homology
+#149	AnnotatorNotes T149	SO:0000857 (homologous)
+T150	EntrezGene 4091 4095	CLN2
+#150	AnnotatorNotes T150	EG:1200
+T151	PR 4091 4095	CLN2
+#151	AnnotatorNotes T151	PR:000016585 (tripeptidyl-peptidase 1)
+T152	SO 4187 4194	enzymes
+#152	AnnotatorNotes T152	SO:0001185 (enzymatic)
+T153	CHEBI 4226 4236	inhibitors
+#153	AnnotatorNotes T153	CHEBI:35222 (inhibitor)
+T154	SO 4263 4271	Sequence
+#154	AnnotatorNotes T154	SO:0000001 (region)
+T155	EntrezGene 4291 4295	CLN2
+#155	AnnotatorNotes T155	EG:1200
+T156	PR 4291 4295	CLN2
+#156	AnnotatorNotes T156	PR:000016585 (tripeptidyl-peptidase 1)
+T157	SO 4301 4308	enzymes
+#157	AnnotatorNotes T157	SO:0001185 (enzymatic)
+T158	NCBITaxon 4310 4319	Mammalian
+#158	AnnotatorNotes T158	NCBITaxon:40674 (Mammalia)
+T159	SO 4320 4327	enzymes
+#159	AnnotatorNotes T159	SO:0001185 (enzymatic)
+T160	SO 4328 4338	homologous
+#160	AnnotatorNotes T160	SO:0000857 (homologous)
+T161	EntrezGene 4342 4352	human CLN2
+#161	AnnotatorNotes T161	EG:1200
+T162	NCBITaxon 4342 4347	human
+#162	AnnotatorNotes T162	NCBITaxon:9606 (Homo sapiens)
+T163	PR 4348 4352	CLN2
+#163	AnnotatorNotes T163	PR:000016585 (tripeptidyl-peptidase 1)
+T164	SO 4402 4421	conserved sequences
+#164	AnnotatorNotes T164	SO:0000330 (conserved_region)
+T165	SO 4402 4411	conserved
+#165	AnnotatorNotes T165	SO:0000856 (conserved)
+T166	SO 4440 4447	enzymes
+#166	AnnotatorNotes T166	SO:0001185 (enzymatic)
+T167	GO_BP 4452 4461	expressed
+#167	AnnotatorNotes T167	GO:0010467 (gene expression)
+T168	SO 4469 4479	prosegment
+#168	AnnotatorNotes T168	SO:0001062 (propeptide)
+T169	CHEBI 4498 4506	residues
+#169	AnnotatorNotes T169	CHEBI:33708 (amino-acid residue)
+T170	SO 4498 4506	residues
+#170	AnnotatorNotes T170	SO:0001237 (amino_acid)
+T171	GO_BP 4515 4522	cleaved
+#171	AnnotatorNotes T171	GO:0030908 (protein splicing)
+T172	GO_BP 4534 4544	maturation
+#172	AnnotatorNotes T172	GO:0051604 (protein maturation)
+T173	GO_BP 4546 4554	yielding
+#173	AnnotatorNotes T173	GO:0009058 (biosynthetic process)
+T174	SO 4576 4582	domain
+#174	AnnotatorNotes T174	SO:0000417 (polypeptide_domain)
+T175	SO 4593 4602	sequences
+#175	AnnotatorNotes T175	SO:0000001 (region)
+T176	PR 4621 4625	CLN2
+#176	AnnotatorNotes T176	PR:000016585 (tripeptidyl-peptidase 1)
+T177	taxonomic_rank 4635 4642	species
+#177	AnnotatorNotes T177	species (null)
+T178	NCBITaxon 4678 4683	human
+#178	AnnotatorNotes T178	NCBITaxon:9606 (Homo sapiens)
+T179	NCBITaxon 4685 4692	macaque
+#179	AnnotatorNotes T179	NCBITaxon:9539 (Macaca)
+T180	NCBITaxon 4694 4697	dog
+#180	AnnotatorNotes T180	NCBITaxon:9615 (Canis familiaris)
+T181	NCBITaxon 4699 4704	mouse
+#181	AnnotatorNotes T181	NCBITaxon:10088 (Mus)
+T182	NCBITaxon 4706 4709	rat
+#182	AnnotatorNotes T182	NCBITaxon:10114 (Rattus)
+T183	NCBITaxon 4715 4718	cow
+#183	AnnotatorNotes T183	NCBITaxon:9913 (Bos taurus)
+T184	SO 4737 4744	enzymes
+#184	AnnotatorNotes T184	SO:0001185 (enzymatic)
+T185	CHEBI 4760 4771	amino acids
+#185	AnnotatorNotes T185	CHEBI:33708 (amino-acid residue)
+T186	SO 4760 4771	amino acids
+#186	AnnotatorNotes T186	SO:0001237 (amino_acid)
+T187	CHEBI 4760 4765	amino
+#187	AnnotatorNotes T187	CHEBI:46882 (amino group)
+T188	CHEBI 4760 4765	amino
+#188	AnnotatorNotes T188	CHEBI:32952 (amines)
+T189	CHEBI 4766 4771	acids
+#189	AnnotatorNotes T189	CHEBI:37527 (acid)
+T190	SO 4793 4810	polypeptide chain
+#190	AnnotatorNotes T190	SO:0000104 (polypeptide)
+T191	SO 4831 4841	prosegment
+#191	AnnotatorNotes T191	SO:0001062 (propeptide)
+T192	SO 4860 4866	domain
+#192	AnnotatorNotes T192	SO:0000417 (polypeptide_domain)
+T193	EntrezGene 4890 4900	mouse CLN2
+#193	AnnotatorNotes T193	EG:12751
+T194	NCBITaxon 4890 4895	mouse
+#194	AnnotatorNotes T194	NCBITaxon:10088 (Mus)
+T195	PR 4896 4900	CLN2
+#195	AnnotatorNotes T195	PR:000016585 (tripeptidyl-peptidase 1)
+T196	SO 4919 4927	deletion
+#196	AnnotatorNotes T196	SO:0000159 (deletion)
+T197	SO 4935 4945	prosegment
+#197	AnnotatorNotes T197	SO:0001062 (propeptide)
+T198	SO 4959 4967	sequence
+#198	AnnotatorNotes T198	SO:0000001 (region)
+T199	SO 4987 4994	enzymes
+#199	AnnotatorNotes T199	SO:0001185 (enzymatic)
+T200	NCBITaxon 5063 5068	human
+#200	AnnotatorNotes T200	NCBITaxon:9606 (Homo sapiens)
+T201	NCBITaxon 5073 5078	mouse
+#201	AnnotatorNotes T201	NCBITaxon:10088 (Mus)
+T202	SO 5079 5086	enzymes
+#202	AnnotatorNotes T202	SO:0001185 (enzymatic)
+T203	NCBITaxon 5206 5211	mouse
+#203	AnnotatorNotes T203	NCBITaxon:10088 (Mus)
+T204	NCBITaxon 5212 5217	human
+#204	AnnotatorNotes T204	NCBITaxon:9606 (Homo sapiens)
+T205	SO 5218 5227	orthologs
+#205	AnnotatorNotes T205	SO:0000855 (orthologous_region)
+T206	NCBITaxon 5240 5249	mammalian
+#206	AnnotatorNotes T206	NCBITaxon:40674 (Mammalia)
+T207	PR 5250 5254	CLN2
+#207	AnnotatorNotes T207	PR:000016585 (tripeptidyl-peptidase 1)
+T208	SO 5278 5287	conserved
+#208	AnnotatorNotes T208	SO:0000856 (conserved)
+T209	SO 5288 5294	enzyme
+#209	AnnotatorNotes T209	SO:0001185 (enzymatic)
+T210	bold 5307 5359	Sequence comparisons of mammalian CLN2-like enzymes.
+#210	AnnotatorNotes T210	bold (null)
+T211	SO 5307 5315	Sequence
+#211	AnnotatorNotes T211	SO:0000001 (region)
+T212	NCBITaxon 5331 5340	mammalian
+#212	AnnotatorNotes T212	NCBITaxon:40674 (Mammalia)
+T213	EntrezGene 5341 5345	CLN2
+#213	AnnotatorNotes T213	EG:1200
+T214	PR 5341 5345	CLN2
+#214	AnnotatorNotes T214	PR:000016585 (tripeptidyl-peptidase 1)
+T215	SO 5351 5358	enzymes
+#215	AnnotatorNotes T215	SO:0001185 (enzymatic)
+T216	SO 5365 5374	sequences
+#216	AnnotatorNotes T216	SO:0000001 (region)
+T217	SO 5402 5409	enzymes
+#217	AnnotatorNotes T217	SO:0001185 (enzymatic)
+T218	SO 5425 5435	prosegment
+#218	AnnotatorNotes T218	SO:0001062 (propeptide)
+T219	CHEBI 5437 5445	Residues
+#219	AnnotatorNotes T219	CHEBI:33708 (amino-acid residue)
+T220	SO 5437 5445	Residues
+#220	AnnotatorNotes T220	SO:0001237 (amino_acid)
+T221	SO 5458 5469	active site
+#221	AnnotatorNotes T221	SO:0100019 (polypeptide_catalytic_motif)
+T222	SO 5515 5524	conserved
+#222	AnnotatorNotes T222	SO:0000856 (conserved)
+T223	CHEBI 5525 5533	residues
+#223	AnnotatorNotes T223	CHEBI:33708 (amino-acid residue)
+T224	SO 5525 5533	residues
+#224	AnnotatorNotes T224	SO:0001237 (amino_acid)
+T225	SO 5583 5589	enzyme
+#225	AnnotatorNotes T225	SO:0001185 (enzymatic)
+T226	CHEBI 5625 5633	residues
+#226	AnnotatorNotes T226	CHEBI:33708 (amino-acid residue)
+T227	SO 5625 5633	residues
+#227	AnnotatorNotes T227	SO:0001237 (amino_acid)
+T228	CHEBI 5691 5699	residues
+#228	AnnotatorNotes T228	CHEBI:33708 (amino-acid residue)
+T229	SO 5691 5699	residues
+#229	AnnotatorNotes T229	SO:0001237 (amino_acid)
+T230	GO_BP 5753 5763	maturation
+#230	AnnotatorNotes T230	GO:0051604 (protein maturation)
+T231	GO_BP 5764 5772	cleavage
+#231	AnnotatorNotes T231	GO:0030908 (protein splicing)
+T232	SO 5794 5804	N terminus
+#232	AnnotatorNotes T232	SO:0100014 (n_terminal_region)
+T233	CHEBI 5794 5795	N
+#233	AnnotatorNotes T233	CHEBI:46882 (amino group)
+T234	SO 5819 5825	enzyme
+#234	AnnotatorNotes T234	SO:0001185 (enzymatic)
+T235	NCBITaxon 5878 5885	mammals
+#235	AnnotatorNotes T235	NCBITaxon:40674 (Mammalia)
+T236	EntrezGene 5887 5891	CLN2
+#236	AnnotatorNotes T236	EG:1200
+T237	PR 5887 5891	CLN2
+#237	AnnotatorNotes T237	PR:000016585 (tripeptidyl-peptidase 1)
+T238	SO 5897 5904	enzymes
+#238	AnnotatorNotes T238	SO:0001185 (enzymatic)
+T239	NCBITaxon 5923 5927	fugu
+#239	AnnotatorNotes T239	NCBITaxon:31032 (Takifugu)
+T240	NCBITaxon 5929 5940	puffer fish
+#240	AnnotatorNotes T240	NCBITaxon:31031 (Tetraodontidae)
+T241	NCBITaxon 5993 5997	fugu
+#241	AnnotatorNotes T241	NCBITaxon:31032 (Takifugu)
+T242	SO 5998 6006	sequence
+#242	AnnotatorNotes T242	SO:0000001 (region)
+T243	NCBITaxon 6023 6032	zebrafish
+#243	AnnotatorNotes T243	NCBITaxon:7955 (Danio rerio)
+T244	SO 6034 6040	contig
+#244	AnnotatorNotes T244	SO:0000149 (contig)
+T245	NCBITaxon 6057 6066	zebrafish
+#245	AnnotatorNotes T245	NCBITaxon:7955 (Danio rerio)
+T246	SO 6067 6070	EST
+#246	AnnotatorNotes T246	SO:0000345 (EST)
+T247	SO 6091 6099	fragment
+#247	AnnotatorNotes T247	SO:0000731 (fragmentary)
+T248	SO 6107 6115	sequence
+#248	AnnotatorNotes T248	SO:0000001 (region)
+T249	SO 6130 6136	enzyme
+#249	AnnotatorNotes T249	SO:0001185 (enzymatic)
+T250	SO 6196 6209	modifications
+#250	AnnotatorNotes T250	SO:0001059 (sequence_alteration)
+T251	NCBITaxon 6224 6233	zebrafish
+#251	AnnotatorNotes T251	NCBITaxon:7955 (Danio rerio)
+T252	SO 6234 6242	sequence
+#252	AnnotatorNotes T252	SO:0000001 (region)
+T253	NCBITaxon 6280 6284	fugu
+#253	AnnotatorNotes T253	NCBITaxon:31032 (Takifugu)
+T254	PR 6285 6289	CLN2
+#254	AnnotatorNotes T254	PR:000016585 (tripeptidyl-peptidase 1)
+T255	SO 6297 6310	modifications
+#255	AnnotatorNotes T255	SO:0001059 (sequence_alteration)
+T256	SO 6321 6329	deletion
+#256	AnnotatorNotes T256	SO:0000159 (deletion)
+T257	CHEBI 6342 6352	nucleotide
+#257	AnnotatorNotes T257	CHEBI:25613 (nucleotidyl groups)
+T258	SO 6342 6352	nucleotide
+#258	AnnotatorNotes T258	SO:0001236 (base)
+T259	SO 6391 6401	insertions
+#259	AnnotatorNotes T259	SO:0000667 (insertion)
+T260	SO 6405 6413	repeated
+#260	AnnotatorNotes T260	SO:0000726 (repeat_unit)
+T261	SO 6414 6430	nucleotide pairs
+#261	AnnotatorNotes T261	SO:0000028 (base_pair)
+T262	CHEBI 6414 6424	nucleotide
+#262	AnnotatorNotes T262	CHEBI:25613 (nucleotidyl groups)
+T263	SO 6414 6424	nucleotide
+#263	AnnotatorNotes T263	SO:0001236 (base)
+T264	SO 6474 6487	modifications
+#264	AnnotatorNotes T264	SO:0001059 (sequence_alteration)
+T265	CHEBI 6552 6563	amino acids
+#265	AnnotatorNotes T265	CHEBI:33708 (amino-acid residue)
+T266	SO 6552 6563	amino acids
+#266	AnnotatorNotes T266	SO:0001237 (amino_acid)
+T267	CHEBI 6552 6557	amino
+#267	AnnotatorNotes T267	CHEBI:32952 (amines)
+T268	CHEBI 6552 6557	amino
+#268	AnnotatorNotes T268	CHEBI:46882 (amino group)
+T269	CHEBI 6558 6563	acids
+#269	AnnotatorNotes T269	CHEBI:37527 (acid)
+T270	SO 6593 6602	sequences
+#270	AnnotatorNotes T270	SO:0000001 (region)
+T271	bold 6680 6726	Corrected gene sequence of the zebrafish CLN2.
+#271	AnnotatorNotes T271	bold (null)
+T272	SO 6690 6703	gene sequence
+#272	AnnotatorNotes T272	SO:0000704 (gene)
+T273	EntrezGene 6711 6725	zebrafish CLN2
+#273	AnnotatorNotes T273	EG:798347
+T274	NCBITaxon 6711 6720	zebrafish
+#274	AnnotatorNotes T274	NCBITaxon:7955 (Danio rerio)
+T275	PR 6721 6725	CLN2
+#275	AnnotatorNotes T275	PR:000016585 (tripeptidyl-peptidase 1)
+T276	SO 6740 6748	sequence
+#276	AnnotatorNotes T276	SO:0000001 (region)
+T277	SO 6816 6824	sequence
+#277	AnnotatorNotes T277	SO:0000001 (region)
+T278	NCBITaxon 6832 6836	fugu
+#278	AnnotatorNotes T278	NCBITaxon:31032 (Takifugu)
+T279	SO 6837 6843	enzyme
+#279	AnnotatorNotes T279	SO:0001185 (enzymatic)
+T280	SO 6845 6853	Inserted
+#280	AnnotatorNotes T280	SO:0000046 (insert)
+T281	CHEBI 6854 6865	nucleotides
+#281	AnnotatorNotes T281	CHEBI:25613 (nucleotidyl groups)
+T282	SO 6854 6865	nucleotides
+#282	AnnotatorNotes T282	SO:0001236 (base)
+T283	SO 6892 6899	deleted
+#283	AnnotatorNotes T283	SO:0000045 (delete)
+T284	SO 6927 6946	amino acid sequence
+#284	AnnotatorNotes T284	SO:0001407 (peptidyl)
+T285	CHEBI 6927 6937	amino acid
+#285	AnnotatorNotes T285	CHEBI:33708 (amino-acid residue)
+T286	SO 6927 6937	amino acid
+#286	AnnotatorNotes T286	SO:0001237 (amino_acid)
+T287	CHEBI 6927 6932	amino
+#287	AnnotatorNotes T287	CHEBI:46882 (amino group)
+T288	CHEBI 6927 6932	amino
+#288	AnnotatorNotes T288	CHEBI:32952 (amines)
+T289	CHEBI 6933 6937	acid
+#289	AnnotatorNotes T289	CHEBI:37527 (acid)
+T290	NCBITaxon 6954 6958	fugu
+#290	AnnotatorNotes T290	NCBITaxon:31032 (Takifugu)
+T291	EntrezGene 6959 6963	CLN2
+#291	AnnotatorNotes T291	EG:1200
+T292	PR 6959 6963	CLN2
+#292	AnnotatorNotes T292	PR:000016585 (tripeptidyl-peptidase 1)
+T293	independent_continuant 6994 6997	TPP
+#293	AnnotatorNotes T293	independent_continuant
+T294	GO_MF 6994 6997	TPP
+#294	AnnotatorNotes T294	GO:0008240 (tripeptidyl-peptidase activity)
+T295	SO 7038 7047	sequences
+#295	AnnotatorNotes T295	SO:0000001 (region)
+T296	NCBITaxon 7055 7064	mammalian
+#296	AnnotatorNotes T296	NCBITaxon:40674 (Mammalia)
+T297	SO 7065 7074	orthologs
+#297	AnnotatorNotes T297	SO:0000855 (orthologous_region)
+T298	GO_BP 7120 7130	translated
+#298	AnnotatorNotes T298	GO:0006412 (translation)
+T299	SO 7131 7150	amino acid sequence
+#299	AnnotatorNotes T299	SO:0001407 (peptidyl)
+T300	CHEBI 7131 7141	amino acid
+#300	AnnotatorNotes T300	CHEBI:33708 (amino-acid residue)
+T301	SO 7131 7141	amino acid
+#301	AnnotatorNotes T301	SO:0001237 (amino_acid)
+T302	CHEBI 7131 7136	amino
+#302	AnnotatorNotes T302	CHEBI:32952 (amines)
+T303	CHEBI 7131 7136	amino
+#303	AnnotatorNotes T303	CHEBI:46882 (amino group)
+T304	CHEBI 7137 7141	acid
+#304	AnnotatorNotes T304	CHEBI:37527 (acid)
+T305	NCBITaxon 7167 7176	mammalian
+#305	AnnotatorNotes T305	NCBITaxon:40674 (Mammalia)
+T306	NCBITaxon 7181 7190	zebrafish
+#306	AnnotatorNotes T306	NCBITaxon:7955 (Danio rerio)
+T307	SO 7191 7198	enzymes
+#307	AnnotatorNotes T307	SO:0001185 (enzymatic)
+T308	SO 7209 7223	amino terminus
+#308	AnnotatorNotes T308	SO:0100014 (n_terminal_region)
+T309	CHEBI 7209 7214	amino
+#309	AnnotatorNotes T309	CHEBI:46882 (amino group)
+T310	SO 7231 7248	propeptide region
+#310	AnnotatorNotes T310	SO:0001062 (propeptide)
+T311	CHEBI 7271 7282	amino acids
+#311	AnnotatorNotes T311	CHEBI:33708 (amino-acid residue)
+T312	SO 7271 7282	amino acids
+#312	AnnotatorNotes T312	SO:0001237 (amino_acid)
+T313	CHEBI 7271 7276	amino
+#313	AnnotatorNotes T313	CHEBI:46882 (amino group)
+T314	CHEBI 7271 7276	amino
+#314	AnnotatorNotes T314	CHEBI:32952 (amines)
+T315	CHEBI 7277 7282	acids
+#315	AnnotatorNotes T315	CHEBI:37527 (acid)
+T316	SO 7350 7368	assembled sequence
+#316	AnnotatorNotes T316	SO:0000353 (sequence_assembly)
+T317	SO 7388 7397	variation
+#317	AnnotatorNotes T317	SO:0001059 (sequence_alteration)
+T318	SO 7417 7429	coding frame
+#318	AnnotatorNotes T318	SO:0000717 (reading_frame)
+T319	CHEBI 7454 7464	methionine
+#319	AnnotatorNotes T319	CHEBI:32648 (methionine residue)
+T320	SO 7454 7464	methionine
+#320	AnnotatorNotes T320	SO:0001442 (methionine)
+T321	CHEBI 7482 7490	residues
+#321	AnnotatorNotes T321	CHEBI:33708 (amino-acid residue)
+T322	SO 7482 7490	residues
+#322	AnnotatorNotes T322	SO:0001237 (amino_acid)
+T323	SO 7515 7531	genomic sequence
+#323	AnnotatorNotes T323	SO:0001026 (genome)
+T324	NCBITaxon 7551 7555	fugu
+#324	AnnotatorNotes T324	NCBITaxon:31032 (Takifugu)
+T325	bold 7591 7634	Sequences of the catalytic domains of CLN2.
+#325	AnnotatorNotes T325	bold (null)
+T326	SO 7591 7600	Sequences
+#326	AnnotatorNotes T326	SO:0000001 (region)
+T327	SO 7618 7625	domains
+#327	AnnotatorNotes T327	SO:0000417 (polypeptide_domain)
+T328	EntrezGene 7629 7633	CLN2
+#328	AnnotatorNotes T328	EG:798347
+T329	PR 7629 7633	CLN2
+#329	AnnotatorNotes T329	PR:000016585 (tripeptidyl-peptidase 1)
+T330	SO 7644 7653	sequences
+#330	AnnotatorNotes T330	SO:0000001 (region)
+T331	EntrezGene 7668 7704	CLN2 from human, fugu, and zebrafish
+#331	AnnotatorNotes T331	"CLN2 from .. zebrafish" EG:798347
+T332	EntrezGene 7668 7683	CLN2 from human
+#332	AnnotatorNotes T332	EG:1200
+T333	PR 7668 7672	CLN2
+#333	AnnotatorNotes T333	PR:000016585 (tripeptidyl-peptidase 1)
+T334	NCBITaxon 7678 7683	human
+#334	AnnotatorNotes T334	NCBITaxon:9606 (Homo sapiens)
+T335	NCBITaxon 7685 7689	fugu
+#335	AnnotatorNotes T335	NCBITaxon:31032 (Takifugu)
+T336	NCBITaxon 7695 7704	zebrafish
+#336	AnnotatorNotes T336	NCBITaxon:7955 (Danio rerio)
+T337	SO 7724 7731	partial
+#337	AnnotatorNotes T337	SO:0000731 (fragmentary)
+T338	SO 7732 7740	sequence
+#338	AnnotatorNotes T338	SO:0000001 (region)
+T339	EntrezGene 7753 7779	CLN2 in Xenopus tropicalis
+#339	AnnotatorNotes T339	EG:100124868
+T340	PR 7753 7757	CLN2
+#340	AnnotatorNotes T340	PR:000016585 (tripeptidyl-peptidase 1)
+T341	taxonomic_rank 7761 7779	Xenopus tropicalis
+#341	AnnotatorNotes T341	taxonomic_rank (null)
+T342	NCBITaxon 7761 7779	Xenopus tropicalis
+#342	AnnotatorNotes T342	NCBITaxon:8364 (Xenopus (Silurana) tropicalis)
+T343	CHEBI 7781 7789	Residues
+#343	AnnotatorNotes T343	CHEBI:33708 (amino-acid residue)
+T344	SO 7781 7789	Residues
+#344	AnnotatorNotes T344	SO:0001237 (amino_acid)
+T345	SO 7812 7819	enzymes
+#345	AnnotatorNotes T345	SO:0001185 (enzymatic)
+T346	SO 7877 7897	Active site residues
+#346	AnnotatorNotes T346	SO:0001104 (catalytic_residue)
+T347	SO 7877 7888	Active site
+#347	AnnotatorNotes T347	SO:0100019 (polypeptide_catalytic_motif)
+T348	CHEBI 7889 7897	residues
+#348	AnnotatorNotes T348	CHEBI:33708 (amino-acid residue)
+T349	PR 7926 7930	CLN2
+#349	AnnotatorNotes T349	PR:000016585 (tripeptidyl-peptidase 1)
+T350	NCBITaxon 7954 7958	fish
+#350	AnnotatorNotes T350	NCBITaxon:7898 (Actinopterygii)
+T351	NCBITaxon 7954 7958	fish
+#351	AnnotatorNotes T351	NCBITaxon:117565 (Hyperotreti)
+T352	NCBITaxon 7954 7958	fish
+#352	AnnotatorNotes T352	NCBITaxon:117569 (Hyperoartia)
+T353	NCBITaxon 7954 7958	fish
+#353	AnnotatorNotes T353	NCBITaxon:118072 (Coelacanthimorpha)
+T354	NCBITaxon 7954 7958	fish
+#354	AnnotatorNotes T354	NCBITaxon:7878 (Dipnoi)
+T355	NCBITaxon 7954 7958	fish
+#355	AnnotatorNotes T355	NCBITaxon:7777 (Chondrichthyes)
+T356	NCBITaxon 7972 7982	amphibians
+#356	AnnotatorNotes T356	NCBITaxon:8292 (Amphibia)
+T357	taxonomic_rank 8001 8019	Xenopus tropicalis
+#357	AnnotatorNotes T357	taxonomic_rank (null)
+T358	NCBITaxon 8001 8019	Xenopus tropicalis
+#358	AnnotatorNotes T358	NCBITaxon:8364 (Xenopus (Silurana) tropicalis)
+T359	taxonomic_rank 8023 8030	species
+#359	AnnotatorNotes T359	species (null)
+T360	NCBITaxon 8034 8038	frog
+#360	AnnotatorNotes T360	NCBITaxon:8342 (Anura)
+T361	SO 8043 8050	partial
+#361	AnnotatorNotes T361	SO:0000731 (fragmentary)
+T362	SO 8051 8059	sequence
+#362	AnnotatorNotes T362	SO:0000001 (region)
+T363	GO_MF 8077 8080	TPP
+#363	AnnotatorNotes T363	GO:0008240 (tripeptidyl-peptidase activity)
+T364	independent_continuant 8077 8080	TPP
+#364	AnnotatorNotes T364	independent_continuant
+T365	SO 8105 8108	EST
+#365	AnnotatorNotes T365	SO:0000345 (EST)
+T366	SO 8158 8164	domain
+#366	AnnotatorNotes T366	SO:0000417 (polypeptide_domain)
+T367	SO 8199 8210	active site
+#367	AnnotatorNotes T367	SO:0100019 (polypeptide_catalytic_motif)
+T368	SO 8225 8235	N terminus
+#368	AnnotatorNotes T368	SO:0100014 (n_terminal_region)
+T369	CHEBI 8225 8226	N
+#369	AnnotatorNotes T369	CHEBI:46882 (amino group)
+T370	CHEBI 8254 8281	aspartic and glutamic acids
+#370	AnnotatorNotes T370	"aspartic .. acids" CHEBI:32470 (aspartic acid residue)
+T371	SO 8254 8281	aspartic and glutamic acids
+#371	AnnotatorNotes T371	"aspartic .. acids" SO:0001453 (aspartic_acid)
+T372	CHEBI 8267 8281	glutamic acids
+#372	AnnotatorNotes T372	CHEBI:32483 (glutamic acid residue)
+T373	SO 8267 8281	glutamic acids
+#373	AnnotatorNotes T373	SO:0001454 (glutamic_acid)
+T374	CHEBI 8276 8281	acids
+#374	AnnotatorNotes T374	CHEBI:37527 (acid)
+T375	SO 8341 8345	part
+#375	AnnotatorNotes T375	SO:0000001 (region)
+T376	SO 8353 8359	enzyme
+#376	AnnotatorNotes T376	SO:0001185 (enzymatic)
+T377	NCBITaxon 8388 8392	fugu
+#377	AnnotatorNotes T377	NCBITaxon:31032 (Takifugu)
+T378	GO_MF 8403 8406	TPP
+#378	AnnotatorNotes T378	GO:0008240 (tripeptidyl-peptidase activity)
+T379	independent_continuant 8403 8406	TPP
+#379	AnnotatorNotes T379	independent_continuant
+T380	EntrezGene 8430 8440	human CLN2
+#380	AnnotatorNotes T380	EG:1200
+T381	NCBITaxon 8430 8435	human
+#381	AnnotatorNotes T381	NCBITaxon:9606 (Homo sapiens)
+T382	PR 8436 8440	CLN2
+#382	AnnotatorNotes T382	PR:000016585 (tripeptidyl-peptidase 1)
+T383	SO 8453 8461	Sequence
+#383	AnnotatorNotes T383	SO:0000001 (region)
+T384	NCBITaxon 8476 8485	bacterial
+#384	AnnotatorNotes T384	NCBITaxon:2 (Bacteria)
+T385	NCBITaxon 8489 8495	fungal
+#385	AnnotatorNotes T385	NCBITaxon:4751 (Fungi)
+T386	SO 8542 8548	enzyme
+#386	AnnotatorNotes T386	SO:0001185 (enzymatic)
+T387	NCBITaxon 8558 8563	frogs
+#387	AnnotatorNotes T387	NCBITaxon:8342 (Anura)
+T388	PR 8614 8618	CLN2
+#388	AnnotatorNotes T388	PR:000016585 (tripeptidyl-peptidase 1)
+T389	SO 8655 8664	conserved
+#389	AnnotatorNotes T389	SO:0000856 (conserved)
+T390	EntrezGene 8665 8669	CLN2
+#390	AnnotatorNotes T390	EG:1200
+T391	PR 8665 8669	CLN2
+#391	AnnotatorNotes T391	PR:000016585 (tripeptidyl-peptidase 1)
+T392	SO 8675 8682	enzymes
+#392	AnnotatorNotes T392	SO:0001185 (enzymatic)
+T393	NCBITaxon 8695 8702	mammals
+#393	AnnotatorNotes T393	NCBITaxon:40674 (Mammalia)
+T394	NCBITaxon 8719 8723	fish
+#394	AnnotatorNotes T394	NCBITaxon:7898 (Actinopterygii)
+T395	NCBITaxon 8719 8723	fish
+#395	AnnotatorNotes T395	NCBITaxon:7777 (Chondrichthyes)
+T396	NCBITaxon 8719 8723	fish
+#396	AnnotatorNotes T396	NCBITaxon:7878 (Dipnoi)
+T397	NCBITaxon 8719 8723	fish
+#397	AnnotatorNotes T397	NCBITaxon:117565 (Hyperotreti)
+T398	NCBITaxon 8719 8723	fish
+#398	AnnotatorNotes T398	NCBITaxon:118072 (Coelacanthimorpha)
+T399	NCBITaxon 8719 8723	fish
+#399	AnnotatorNotes T399	NCBITaxon:117569 (Hyperoartia)
+T400	taxonomic_rank 8724 8731	species
+#400	AnnotatorNotes T400	species (null)
+T401	NCBITaxon 8743 8748	frogs
+#401	AnnotatorNotes T401	NCBITaxon:8342 (Anura)
+T402	independent_continuant 8773 8783	peptidases
+#402	AnnotatorNotes T402	independent_continuant
+T403	GO_MF 8773 8783	peptidases
+#403	AnnotatorNotes T403	GO:0008233 (peptidase activity)
+T404	NCBITaxon 8815 8826	vertebrates
+#404	AnnotatorNotes T404	NCBITaxon:7742 (Vertebrata)
+T405	NCBITaxon 8872 8878	humans
+#405	AnnotatorNotes T405	NCBITaxon:9606 (Homo sapiens)
+T406	NCBITaxon 8887 8891	mice
+#406	AnnotatorNotes T406	NCBITaxon:10088 (Mus)
+T407	EntrezGene 8960 8970	human CLN2
+#407	AnnotatorNotes T407	EG:1200
+T408	NCBITaxon 8960 8965	human
+#408	AnnotatorNotes T408	NCBITaxon:9606 (Homo sapiens)
+T409	PR 8966 8970	CLN2
+#409	AnnotatorNotes T409	PR:000016585 (tripeptidyl-peptidase 1)
+T410	EntrezGene 8998 9002	CLN2
+#410	AnnotatorNotes T410	EG:1200
+T411	PR 8998 9002	CLN2
+#411	AnnotatorNotes T411	PR:000016585 (tripeptidyl-peptidase 1)
+T412	CHEBI 9060 9067	protein
+#412	AnnotatorNotes T412	CHEBI:36080 (proteins)
+T413	SO 9117 9123	enzyme
+#413	AnnotatorNotes T413	SO:0001185 (enzymatic)
+T414	GO_CC 9127 9135	membrane
+#414	AnnotatorNotes T414	GO:0016020 (membrane)
+T415	GO_MF 9136 9141	bound
+#415	AnnotatorNotes T415	GO:0005488 (binding)
+T416	SO 9152 9160	sequence
+#416	AnnotatorNotes T416	SO:0000001 (region)
+T417	SO 9208 9214	enzyme
+#417	AnnotatorNotes T417	SO:0001185 (enzymatic)
+T418	GO_CC 9247 9260	transmembrane
+#418	AnnotatorNotes T418	GO:0016021 (integral to membrane)
+T419	GO_MF 9261 9267	anchor
+#419	AnnotatorNotes T419	GO:0043495 (protein anchor)
+T420	independent_continuant 9261 9267	anchor
+#420	AnnotatorNotes T420	independent_continuant
+T421	CHEBI 9344 9349	water
+#421	AnnotatorNotes T421	CHEBI:15377 (water)
+T422	SO 9419 9427	sequence
+#422	AnnotatorNotes T422	SO:0000001 (region)
+T423	EntrezGene 9447 9451	CLN2
+#423	AnnotatorNotes T423	EG:1200
+T424	PR 9447 9451	CLN2
+#424	AnnotatorNotes T424	PR:000016585 (tripeptidyl-peptidase 1)
+T425	SO 9513 9536	experimentally obtained
+#425	AnnotatorNotes T425	SO:0000312 (experimentally_determined)
+T426	SO 9566 9573	enzymes
+#426	AnnotatorNotes T426	SO:0001185 (enzymatic)
+T427	SO 9589 9597	homology
+#427	AnnotatorNotes T427	SO:0000857 (homologous)
+T428	EntrezGene 9615 9625	human CLN2
+#428	AnnotatorNotes T428	EG:1200
+T429	NCBITaxon 9615 9620	human
+#429	AnnotatorNotes T429	NCBITaxon:9606 (Homo sapiens)
+T430	PR 9621 9625	CLN2
+#430	AnnotatorNotes T430	PR:000016585 (tripeptidyl-peptidase 1)
+T431	SO 9652 9660	homology
+#431	AnnotatorNotes T431	SO:0000857 (homologous)
+T432	GO_MF 9729 9734	bound
+#432	AnnotatorNotes T432	GO:0005488 (binding)
+T433	CHEBI 9735 9744	inhibitor
+#433	AnnotatorNotes T433	CHEBI:35222 (inhibitor)
+T434	CHEBI 9819 9827	compound
+#434	AnnotatorNotes T434	CHEBI:36357 (polyatomic entities)
+T435	EntrezGene 9840 9850	human CLN2
+#435	AnnotatorNotes T435	EG:1200
+T436	NCBITaxon 9840 9845	human
+#436	AnnotatorNotes T436	NCBITaxon:9606 (Homo sapiens)
+T437	PR 9846 9850	CLN2
+#437	AnnotatorNotes T437	PR:000016585 (tripeptidyl-peptidase 1)
+T438	SO 9866 9874	peptides
+#438	AnnotatorNotes T438	SO:0001407 (peptidyl)
+T439	CHEBI 9883 9891	aldehyde
+#439	AnnotatorNotes T439	CHEBI:17478 (aldehydes)
+T440	SO 9916 9925	C-termini
+#440	AnnotatorNotes T440	SO:0100015 (c_terminal_region)
+T441	CHEBI 9916 9917	C
+#441	AnnotatorNotes T441	CHEBI:46883 (carboxy group)
+T442	CHEBI 9916 9917	C
+#442	AnnotatorNotes T442	CHEBI:18245 (carboxylato group)
+T443	CHEBI 9953 9978	inhibitors of this enzyme
+#443	AnnotatorNotes T443	"inhibitors of .. enzyme" CHEBI:23924 (enzyme inhibitor)
+T444	GO_MF 9953 9978	inhibitors of this enzyme
+#444	AnnotatorNotes T444	"inhibitors of .. enzyme" GO:0004857 (enzyme inhibitor activity)
+T445	independent_continuant 9953 9978	inhibitors of this enzyme
+#445	AnnotatorNotes T445	"inhibitors of .. enzyme" independent_continuant
+T446	SO 9972 9978	enzyme
+#446	AnnotatorNotes T446	SO:0001185 (enzymatic)
+T447	CHEBI 10057 10066	inhibitor
+#447	AnnotatorNotes T447	CHEBI:35222 (inhibitor)
+T448	EntrezGene 10082 10086	CLN2
+#448	AnnotatorNotes T448	EG:1200
+T449	PR 10082 10086	CLN2
+#449	AnnotatorNotes T449	PR:000016585 (tripeptidyl-peptidase 1)
+T450	CHEBI 10137 10146	inhibitor
+#450	AnnotatorNotes T450	CHEBI:35222 (inhibitor)
+T451	SO 10155 10161	enzyme
+#451	AnnotatorNotes T451	SO:0001185 (enzymatic)
+T452	EntrezGene 10297 10301	CLN2
+#452	AnnotatorNotes T452	EG:1200
+T453	PR 10297 10301	CLN2
+#453	AnnotatorNotes T453	PR:000016585 (tripeptidyl-peptidase 1)
+T454	independent_continuant 10307 10319	tripeptidase
+#454	AnnotatorNotes T454	independent_continuant
+T455	GO_MF 10307 10319	tripeptidase
+#455	AnnotatorNotes T455	GO:0008240 (tripeptidyl-peptidase activity)
+T456	CHEBI 10335 10344	inhibitor
+#456	AnnotatorNotes T456	CHEBI:35222 (inhibitor)
+T457	GO_MF 10414 10419	bound
+#457	AnnotatorNotes T457	GO:0005488 (binding)
+T458	bold 10445 10499	Sequence alignment of bacterial and mammalian enzymes.
+#458	AnnotatorNotes T458	bold (null)
+T459	SO 10445 10453	Sequence
+#459	AnnotatorNotes T459	SO:0000001 (region)
+T460	NCBITaxon 10467 10476	bacterial
+#460	AnnotatorNotes T460	NCBITaxon:2 (Bacteria)
+T461	NCBITaxon 10481 10490	mammalian
+#461	AnnotatorNotes T461	NCBITaxon:40674 (Mammalia)
+T462	SO 10491 10498	enzymes
+#462	AnnotatorNotes T462	SO:0001185 (enzymatic)
+T463	SO 10517 10526	sequences
+#463	AnnotatorNotes T463	SO:0000001 (region)
+T464	EntrezGene 10558 10568	human CLN2
+#464	AnnotatorNotes T464	EG:1200
+T465	NCBITaxon 10558 10563	human
+#465	AnnotatorNotes T465	NCBITaxon:9606 (Homo sapiens)
+T466	PR 10564 10568	CLN2
+#466	AnnotatorNotes T466	PR:000016585 (tripeptidyl-peptidase 1)
+T467	SO 10621 10627	enzyme
+#467	AnnotatorNotes T467	SO:0001185 (enzymatic)
+T468	EntrezGene 10754 10758	CLN2
+#468	AnnotatorNotes T468	EG:1200
+T469	PR 10754 10758	CLN2
+#469	AnnotatorNotes T469	PR:000016585 (tripeptidyl-peptidase 1)
+T470	CHEBI 10952 10960	residues
+#470	AnnotatorNotes T470	CHEBI:33708 (amino-acid residue)
+T471	SO 10952 10960	residues
+#471	AnnotatorNotes T471	SO:0001237 (amino_acid)
+T472	CHEBI 11130 11137	protein
+#472	AnnotatorNotes T472	CHEBI:36080 (proteins)
+T473	CHEBI 11178 11187	cysteines
+#473	AnnotatorNotes T473	CHEBI:32460 (cysteine residue)
+T474	SO 11178 11187	cysteines
+#474	AnnotatorNotes T474	SO:0001447 (cysteine)
+T475	SO 11201 11210	conserved
+#475	AnnotatorNotes T475	SO:0000856 (conserved)
+T476	NCBITaxon 11224 11230	animal
+#476	AnnotatorNotes T476	NCBITaxon:33208 (Metazoa)
+T477	taxonomic_rank 11231 11238	species
+#477	AnnotatorNotes T477	species (null)
+T478	PR 11242 11246	CLN2
+#478	AnnotatorNotes T478	PR:000016585 (tripeptidyl-peptidase 1)
+T479	SO 11298 11303	known
+#479	AnnotatorNotes T479	SO:0000906 (independently_known)
+T480	SO 11304 11313	sequences
+#480	AnnotatorNotes T480	SO:0000001 (region)
+T481	NCBITaxon 11317 11326	bacterial
+#481	AnnotatorNotes T481	NCBITaxon:2 (Bacteria)
+T482	EntrezGene 11401 11405	CLN2
+#482	AnnotatorNotes T482	EG:1200
+T483	PR 11401 11405	CLN2
+#483	AnnotatorNotes T483	PR:000016585 (tripeptidyl-peptidase 1)
+T484	bold 11476 11515	A homology-derived model of human CLN2.
+#484	AnnotatorNotes T484	bold (null)
+T485	SO 11478 11486	homology
+#485	AnnotatorNotes T485	SO:0000857 (homologous)
+T486	EntrezGene 11504 11514	human CLN2
+#486	AnnotatorNotes T486	EG:1200
+T487	NCBITaxon 11504 11509	human
+#487	AnnotatorNotes T487	NCBITaxon:9606 (Homo sapiens)
+T488	PR 11510 11514	CLN2
+#488	AnnotatorNotes T488	PR:000016585 (tripeptidyl-peptidase 1)
+T489	EntrezGene 11550 11554	CLN2
+#489	AnnotatorNotes T489	EG:1200
+T490	PR 11550 11554	CLN2
+#490	AnnotatorNotes T490	PR:000016585 (tripeptidyl-peptidase 1)
+T491	SO 11565 11573	segments
+#491	AnnotatorNotes T491	SO:0000001 (region)
+T492	SO 11612 11621	conserved
+#492	AnnotatorNotes T492	SO:0000856 (conserved)
+T493	CHEBI 11717 11725	residues
+#493	AnnotatorNotes T493	CHEBI:33708 (amino-acid residue)
+T494	SO 11717 11725	residues
+#494	AnnotatorNotes T494	SO:0001237 (amino_acid)
+T495	SO 11748 11755	mutated
+#495	AnnotatorNotes T495	SO:0000041 (sequence_operation)
+T496	SO 11763 11768	genes
+#496	AnnotatorNotes T496	SO:0000704 (gene)
+T497	CL 11813 11821	neuronal
+#497	AnnotatorNotes T497	CL:0000540 (neuron)
+T498	GO_MF 11909 11916	binding
+#498	AnnotatorNotes T498	GO:0005488 (binding)
+T499	EntrezGene 11928 11932	CLN2
+#499	AnnotatorNotes T499	EG:1200
+T500	PR 11928 11932	CLN2
+#500	AnnotatorNotes T500	PR:000016585 (tripeptidyl-peptidase 1)
+T501	PR 11986 11990	CLN2
+#501	AnnotatorNotes T501	PR:000016585 (tripeptidyl-peptidase 1)
+T502	GO_MF 12004 12016	tripeptidase
+#502	AnnotatorNotes T502	GO:0008240 (tripeptidyl-peptidase activity)
+T503	independent_continuant 12004 12016	tripeptidase
+#503	AnnotatorNotes T503	independent_continuant
+T504	GO_MF 12054 12061	binding
+#504	AnnotatorNotes T504	GO:0005488 (binding)
+T505	CHEBI 12163 12171	Residues
+#505	AnnotatorNotes T505	CHEBI:33708 (amino-acid residue)
+T506	SO 12163 12171	Residues
+#506	AnnotatorNotes T506	SO:0001237 (amino_acid)
+T507	CHEBI 12185 12194	inhibitor
+#507	AnnotatorNotes T507	CHEBI:35222 (inhibitor)
+T508	CHEBI 12337 12347	inhibitors
+#508	AnnotatorNotes T508	CHEBI:35222 (inhibitor)
+T509	CHEBI 12365 12373	tyrosine
+#509	AnnotatorNotes T509	CHEBI:32789 (tyrosine residue)
+T510	SO 12365 12373	tyrosine
+#510	AnnotatorNotes T510	SO:0001446 (tyrosine)
+T511	CHEBI 12379 12392	phenylalanine
+#511	AnnotatorNotes T511	CHEBI:32503 (phenylalanine residue)
+T512	SO 12379 12392	phenylalanine
+#512	AnnotatorNotes T512	SO:0001441 (phenylalanine)
+T513	SO 12449 12458	conserved
+#513	AnnotatorNotes T513	SO:0000856 (conserved)
+T514	SO 12606 12611	chain
+#514	AnnotatorNotes T514	SO:0000001 (region)
+T515	CHEBI 12622 12630	residues
+#515	AnnotatorNotes T515	CHEBI:33708 (amino-acid residue)
+T516	SO 12622 12630	residues
+#516	AnnotatorNotes T516	SO:0001237 (amino_acid)
+T517	SO 12696 12704	sequence
+#517	AnnotatorNotes T517	SO:0000001 (region)
+T518	EntrezGene 12719 12729	human CLN2
+#518	AnnotatorNotes T518	EG:1200
+T519	NCBITaxon 12719 12724	human
+#519	AnnotatorNotes T519	NCBITaxon:9606 (Homo sapiens)
+T520	PR 12725 12729	CLN2
+#520	AnnotatorNotes T520	PR:000016585 (tripeptidyl-peptidase 1)
+T521	SO 12754 12759	chain
+#521	AnnotatorNotes T521	SO:0000001 (region)
+T522	CHEBI 12787 12795	hydrogen
+#522	AnnotatorNotes T522	CHEBI:49637 (hydrogen)
+T523	SO 12868 12876	sequence
+#523	AnnotatorNotes T523	SO:0000001 (region)
+T524	SO 12950 12957	enzymes
+#524	AnnotatorNotes T524	SO:0001185 (enzymatic)
+T525	SO 12981 12990	conserved
+#525	AnnotatorNotes T525	SO:0000856 (conserved)
+T526	CHEBI 13002 13009	residue
+#526	AnnotatorNotes T526	CHEBI:33708 (amino-acid residue)
+T527	SO 13002 13009	residue
+#527	AnnotatorNotes T527	SO:0001237 (amino_acid)
+T528	CHEBI 13037 13045	oxyanion
+#528	AnnotatorNotes T528	CHEBI:35406 (oxoanions)
+T529	CHEBI 13266 13273	solvent
+#529	AnnotatorNotes T529	CHEBI:46787 (solvent)
+T530	SO 13325 13342	chain of residues
+#530	AnnotatorNotes T530	SO:0000001 (region)
+T531	CHEBI 13334 13342	residues
+#531	AnnotatorNotes T531	CHEBI:33708 (amino-acid residue)
+T532	SO 13334 13342	residues
+#532	AnnotatorNotes T532	SO:0001237 (amino_acid)
+T533	SO 13366 13375	conserved
+#533	AnnotatorNotes T533	SO:0000856 (conserved)
+T534	SO 13408 13413	chain
+#534	AnnotatorNotes T534	SO:0000001 (region)
+T535	CHEBI 13469 13476	residue
+#535	AnnotatorNotes T535	CHEBI:33708 (amino-acid residue)
+T536	SO 13469 13476	residue
+#536	AnnotatorNotes T536	SO:0001237 (amino_acid)
+T537	bold 13506 13547	A model of the active site of human CLN2.
+#537	AnnotatorNotes T537	bold (null)
+T538	SO 13521 13532	active site
+#538	AnnotatorNotes T538	SO:0100019 (polypeptide_catalytic_motif)
+T539	EntrezGene 13536 13546	human CLN2
+#539	AnnotatorNotes T539	EG:1200
+T540	NCBITaxon 13536 13541	human
+#540	AnnotatorNotes T540	NCBITaxon:9606 (Homo sapiens)
+T541	PR 13542 13546	CLN2
+#541	AnnotatorNotes T541	PR:000016585 (tripeptidyl-peptidase 1)
+T542	SO 13552 13558	enzyme
+#542	AnnotatorNotes T542	SO:0001185 (enzymatic)
+T543	CHEBI 13614 13623	inhibitor
+#543	AnnotatorNotes T543	CHEBI:35222 (inhibitor)
+T544	GO_MF 13651 13661	peptidases
+#544	AnnotatorNotes T544	GO:0008233 (peptidase activity)
+T545	independent_continuant 13651 13661	peptidases
+#545	AnnotatorNotes T545	independent_continuant
+T546	CHEBI 13677 13685	residues
+#546	AnnotatorNotes T546	CHEBI:33708 (amino-acid residue)
+T547	SO 13677 13685	residues
+#547	AnnotatorNotes T547	SO:0001237 (amino_acid)
+T548	SO 13693 13699	enzyme
+#548	AnnotatorNotes T548	SO:0001185 (enzymatic)
+T549	CHEBI 13757 13766	molecular
+#549	AnnotatorNotes T549	CHEBI:36357 (polyatomic entities)
+T550	CHEBI 13799 13808	inhibitor
+#550	AnnotatorNotes T550	CHEBI:35222 (inhibitor)
+T551	CHEBI 13839 13847	residues
+#551	AnnotatorNotes T551	CHEBI:33708 (amino-acid residue)
+T552	SO 13839 13847	residues
+#552	AnnotatorNotes T552	SO:0001237 (amino_acid)
+T553	SO 13923 13948	experimentally-determined
+#553	AnnotatorNotes T553	SO:0000312 (experimentally_determined)
+T554	CHEBI 14208 14216	hydrogen
+#554	AnnotatorNotes T554	CHEBI:49637 (hydrogen)
+T555	CHEBI 14233 14241	tyrosine
+#555	AnnotatorNotes T555	CHEBI:32789 (tyrosine residue)
+T556	SO 14233 14241	tyrosine
+#556	AnnotatorNotes T556	SO:0001446 (tyrosine)
+T557	CHEBI 14249 14258	inhibitor
+#557	AnnotatorNotes T557	CHEBI:35222 (inhibitor)
+T558	CHEBI 14288 14295	residue
+#558	AnnotatorNotes T558	CHEBI:33708 (amino-acid residue)
+T559	SO 14288 14295	residue
+#559	AnnotatorNotes T559	SO:0001237 (amino_acid)
+T560	EntrezGene 14299 14303	CLN2
+#560	AnnotatorNotes T560	EG:1200
+T561	PR 14299 14303	CLN2
+#561	AnnotatorNotes T561	PR:000016585 (tripeptidyl-peptidase 1)
+T562	CHEBI 14403 14411	hydrogen
+#562	AnnotatorNotes T562	CHEBI:49637 (hydrogen)
+T563	CHEBI 14425 14433	tyrosine
+#563	AnnotatorNotes T563	CHEBI:32789 (tyrosine residue)
+T564	SO 14425 14433	tyrosine
+#564	AnnotatorNotes T564	SO:0001446 (tyrosine)
+T565	CHEBI 14447 14455	residues
+#565	AnnotatorNotes T565	CHEBI:33708 (amino-acid residue)
+T566	SO 14447 14455	residues
+#566	AnnotatorNotes T566	SO:0001237 (amino_acid)
+T567	CHEBI 14554 14561	residue
+#567	AnnotatorNotes T567	CHEBI:33708 (amino-acid residue)
+T568	SO 14554 14561	residue
+#568	AnnotatorNotes T568	SO:0001237 (amino_acid)
+T569	EntrezGene 14576 14580	CLN2
+#569	AnnotatorNotes T569	EG:1200
+T570	PR 14576 14580	CLN2
+#570	AnnotatorNotes T570	PR:000016585 (tripeptidyl-peptidase 1)
+T571	SO 14617 14629	counterparts
+#571	AnnotatorNotes T571	SO:0000853 (homologous_region)
+T572	CHEBI 14759 14766	residue
+#572	AnnotatorNotes T572	CHEBI:33708 (amino-acid residue)
+T573	SO 14759 14766	residue
+#573	AnnotatorNotes T573	SO:0001237 (amino_acid)
+T574	EntrezGene 14770 14774	CLN2
+#574	AnnotatorNotes T574	EG:1200
+T575	PR 14770 14774	CLN2
+#575	AnnotatorNotes T575	PR:000016585 (tripeptidyl-peptidase 1)
+T576	EntrezGene 14955 14959	CLN2
+#576	AnnotatorNotes T576	EG:1200
+T577	PR 14955 14959	CLN2
+#577	AnnotatorNotes T577	PR:000016585 (tripeptidyl-peptidase 1)
+T578	CHEBI 15002 15009	protein
+#578	AnnotatorNotes T578	CHEBI:36080 (proteins)
+T579	CHEBI 15050 15070	chain of the protein
+#579	AnnotatorNotes T579	"chain of .. protein" CHEBI:16541 (protein polypeptide chains)
+T580	SO 15050 15055	chain
+#580	AnnotatorNotes T580	SO:0000001 (region)
+T581	CHEBI 15063 15070	protein
+#581	AnnotatorNotes T581	CHEBI:36080 (proteins)
+T582	SO 15124 15133	conserved
+#582	AnnotatorNotes T582	SO:0000856 (conserved)
+T583	CHEBI 15143 15151	proteins
+#583	AnnotatorNotes T583	CHEBI:36080 (proteins)
+T584	SO 15199 15207	deletion
+#584	AnnotatorNotes T584	SO:0000159 (deletion)
+T585	SO 15229 15237	sequence
+#585	AnnotatorNotes T585	SO:0000001 (region)
+T586	EntrezGene 15277 15281	CLN2
+#586	AnnotatorNotes T586	EG:1200
+T587	PR 15277 15281	CLN2
+#587	AnnotatorNotes T587	PR:000016585 (tripeptidyl-peptidase 1)
+T588	CHEBI 15349 15357	proteins
+#588	AnnotatorNotes T588	CHEBI:36080 (proteins)
+T589	EntrezGene 15473 15477	CLN2
+#589	AnnotatorNotes T589	EG:1200
+T590	PR 15473 15477	CLN2
+#590	AnnotatorNotes T590	PR:000016585 (tripeptidyl-peptidase 1)
+T591	CHEBI 15515 15522	solvent
+#591	AnnotatorNotes T591	CHEBI:46787 (solvent)
+T592	CHEBI 15692 15700	residues
+#592	AnnotatorNotes T592	CHEBI:33708 (amino-acid residue)
+T593	SO 15692 15700	residues
+#593	AnnotatorNotes T593	SO:0001237 (amino_acid)
+T594	SO 15759 15766	enzymes
+#594	AnnotatorNotes T594	SO:0001185 (enzymatic)
+T595	CHEBI 15839 15846	residue
+#595	AnnotatorNotes T595	CHEBI:33708 (amino-acid residue)
+T596	SO 15839 15846	residue
+#596	AnnotatorNotes T596	SO:0001237 (amino_acid)
+T597	EntrezGene 15850 15854	CLN2
+#597	AnnotatorNotes T597	EG:1200
+T598	PR 15850 15854	CLN2
+#598	AnnotatorNotes T598	PR:000016585 (tripeptidyl-peptidase 1)
+T599	CHEBI 15908 15915	residue
+#599	AnnotatorNotes T599	CHEBI:33708 (amino-acid residue)
+T600	SO 15908 15915	residue
+#600	AnnotatorNotes T600	SO:0001237 (amino_acid)
+T601	CHEBI 15989 15994	atoms
+#601	AnnotatorNotes T601	CHEBI:33250 (atoms)
+T602	SO 16040 16049	predicted
+#602	AnnotatorNotes T602	SO:0000732 (predicted)
+T603	EntrezGene 16063 16067	CLN2
+#603	AnnotatorNotes T603	EG:1200
+T604	PR 16063 16067	CLN2
+#604	AnnotatorNotes T604	PR:000016585 (tripeptidyl-peptidase 1)
+T605	independent_continuant 16144 16156	tripeptidase
+#605	AnnotatorNotes T605	independent_continuant
+T606	GO_MF 16144 16156	tripeptidase
+#606	AnnotatorNotes T606	GO:0008240 (tripeptidyl-peptidase activity)
+T607	SO 16174 16180	enzyme
+#607	AnnotatorNotes T607	SO:0001185 (enzymatic)
+T608	SO 16321 16331	N-terminal
+#608	AnnotatorNotes T608	SO:0100014 (n_terminal_region)
+T609	CHEBI 16321 16322	N
+#609	AnnotatorNotes T609	CHEBI:46882 (amino group)
+T610	CHEBI 16332 16337	amine
+#610	AnnotatorNotes T610	CHEBI:46882 (amino group)
+T611	CHEBI 16367 16374	residue
+#611	AnnotatorNotes T611	CHEBI:33708 (amino-acid residue)
+T612	SO 16367 16374	residue
+#612	AnnotatorNotes T612	SO:0001237 (amino_acid)
+T613	EntrezGene 16378 16382	CLN2
+#613	AnnotatorNotes T613	EG:1200
+T614	PR 16378 16382	CLN2
+#614	AnnotatorNotes T614	PR:000016585 (tripeptidyl-peptidase 1)
+T615	CHEBI 16480 16491	carboxylate
+#615	AnnotatorNotes T615	CHEBI:18245 (carboxylato group)
+T616	CHEBI 16500 16508	nitrogen
+#616	AnnotatorNotes T616	CHEBI:25555 (nitrogen)
+T617	SO 16516 16526	N-terminus
+#617	AnnotatorNotes T617	SO:0100014 (n_terminal_region)
+T618	CHEBI 16516 16517	N
+#618	AnnotatorNotes T618	CHEBI:46882 (amino group)
+T619	CHEBI 16576 16582	groups
+#619	AnnotatorNotes T619	CHEBI:24433 (groups)
+T620	CHEBI 16605 16613	hydrogen
+#620	AnnotatorNotes T620	CHEBI:49637 (hydrogen)
+T621	CHEBI 16681 16688	protein
+#621	AnnotatorNotes T621	CHEBI:36080 (proteins)
+T622	CHEBI 16749 16757	hydrogen
+#622	AnnotatorNotes T622	CHEBI:49637 (hydrogen)
+T623	CHEBI 16874 16880	serine
+#623	AnnotatorNotes T623	CHEBI:32848 (serine residue)
+T624	SO 16874 16880	serine
+#624	AnnotatorNotes T624	SO:0001444 (serine)
+T625	SO 16899 16908	conserved
+#625	AnnotatorNotes T625	SO:0000856 (conserved)
+T626	EntrezGene 16916 16920	CLN2
+#626	AnnotatorNotes T626	EG:1200
+T627	PR 16916 16920	CLN2
+#627	AnnotatorNotes T627	PR:000016585 (tripeptidyl-peptidase 1)
+T628	SO 16926 16933	enzymes
+#628	AnnotatorNotes T628	SO:0001185 (enzymatic)
+T629	SO 16948 16957	mutations
+#629	AnnotatorNotes T629	SO:0001059 (sequence_alteration)
+T630	SO 16993 17002	mutations
+#630	AnnotatorNotes T630	SO:0001059 (sequence_alteration)
+T631	SO 17019 17026	genetic
+#631	AnnotatorNotes T631	SO:0000704 (gene)
+T632	CL 17072 17080	neuronal
+#632	AnnotatorNotes T632	CL:0000540 (neuron)
+T633	SO 17158 17167	mutations
+#633	AnnotatorNotes T633	SO:0001059 (sequence_alteration)
+T634	GO_BP 17178 17188	expression
+#634	AnnotatorNotes T634	GO:0010467 (gene expression)
+T635	SO 17209 17215	enzyme
+#635	AnnotatorNotes T635	SO:0001185 (enzymatic)
+T636	SO 17232 17238	intron
+#636	AnnotatorNotes T636	SO:0000188 (intron)
+T637	SO 17239 17243	exon
+#637	AnnotatorNotes T637	SO:0000147 (exon)
+T638	GO_BP 17244 17251	splices
+#638	AnnotatorNotes T638	GO:0008380 (RNA splicing)
+T639	SO 17274 17283	mutations
+#639	AnnotatorNotes T639	SO:0001059 (sequence_alteration)
+T640	CHEBI 17299 17309	amino acid
+#640	AnnotatorNotes T640	CHEBI:33708 (amino-acid residue)
+T641	SO 17299 17309	amino acid
+#641	AnnotatorNotes T641	SO:0001237 (amino_acid)
+T642	CHEBI 17299 17304	amino
+#642	AnnotatorNotes T642	CHEBI:32952 (amines)
+T643	CHEBI 17299 17304	amino
+#643	AnnotatorNotes T643	CHEBI:46882 (amino group)
+T644	CHEBI 17305 17309	acid
+#644	AnnotatorNotes T644	CHEBI:37527 (acid)
+T645	SO 17310 17323	substitutions
+#645	AnnotatorNotes T645	SO:1000002 (substitution)
+T646	SO 17338 17344	enzyme
+#646	AnnotatorNotes T646	SO:0001185 (enzymatic)
+T647	SO 17351 17360	mutations
+#647	AnnotatorNotes T647	SO:0001059 (sequence_alteration)
+T648	SO 17484 17492	mutation
+#648	AnnotatorNotes T648	SO:0001059 (sequence_alteration)
+T649	SO 17523 17531	replaces
+#649	AnnotatorNotes T649	SO:1000002 (substitution)
+T650	CHEBI 17546 17552	serine
+#650	AnnotatorNotes T650	CHEBI:32848 (serine residue)
+T651	SO 17546 17552	serine
+#651	AnnotatorNotes T651	SO:0001444 (serine)
+T652	EntrezGene 17556 17560	CLN2
+#652	AnnotatorNotes T652	EG:1200
+T653	PR 17556 17560	CLN2
+#653	AnnotatorNotes T653	PR:000016585 (tripeptidyl-peptidase 1)
+T654	SO 17603 17612	enzymatic
+#654	AnnotatorNotes T654	SO:0001185 (enzymatic)
+T655	CHEBI 17632 17640	residues
+#655	AnnotatorNotes T655	CHEBI:33708 (amino-acid residue)
+T656	SO 17632 17640	residues
+#656	AnnotatorNotes T656	SO:0001237 (amino_acid)
+T657	CHEBI 17706 17714	Residues
+#657	AnnotatorNotes T657	CHEBI:33708 (amino-acid residue)
+T658	SO 17706 17714	Residues
+#658	AnnotatorNotes T658	SO:0001237 (amino_acid)
+T659	SO 17758 17767	conserved
+#659	AnnotatorNotes T659	SO:0000856 (conserved)
+T660	PR 17780 17784	CLN2
+#660	AnnotatorNotes T660	PR:000016585 (tripeptidyl-peptidase 1)
+T661	SO 17888 17897	mutations
+#661	AnnotatorNotes T661	SO:0001059 (sequence_alteration)
+T662	SO 17924 17933	enzymatic
+#662	AnnotatorNotes T662	SO:0001185 (enzymatic)
+T663	SO 17999 18008	mutations
+#663	AnnotatorNotes T663	SO:0001059 (sequence_alteration)
+T664	SO 18059 18072	modifications
+#664	AnnotatorNotes T664	SO:0001059 (sequence_alteration)
+T665	EntrezGene 18076 18080	CLN2
+#665	AnnotatorNotes T665	EG:1200
+T666	PR 18076 18080	CLN2
+#666	AnnotatorNotes T666	PR:000016585 (tripeptidyl-peptidase 1)
+T667	CHEBI 18185 18195	inhibitors
+#667	AnnotatorNotes T667	CHEBI:35222 (inhibitor)
+T668	EntrezGene 18199 18203	CLN2
+#668	AnnotatorNotes T668	EG:1200
+T669	PR 18199 18203	CLN2
+#669	AnnotatorNotes T669	PR:000016585 (tripeptidyl-peptidase 1)
+T670	EntrezGene 18276 18280	CLN2
+#670	AnnotatorNotes T670	EG:1200
+T671	PR 18276 18280	CLN2
+#671	AnnotatorNotes T671	PR:000016585 (tripeptidyl-peptidase 1)
+T672	SO 18327 18348	single-site mutations
+#672	AnnotatorNotes T672	SO:1000008 (point_mutation)
+T673	EntrezGene 18352 18356	CLN2
+#673	AnnotatorNotes T673	EG:1200
+T674	PR 18352 18356	CLN2
+#674	AnnotatorNotes T674	PR:000016585 (tripeptidyl-peptidase 1)
+T675	SO 18380 18385	genes
+#675	AnnotatorNotes T675	SO:0000704 (gene)
+T676	CL 18438 18446	neuronal
+#676	AnnotatorNotes T676	CL:0000540 (neuron)
+T677	GO_CC 18584 18593	lysosomal
+#677	AnnotatorNotes T677	GO:0005764 (lysosome)
+T678	GO_CC 18594 18608	storage bodies
+#678	AnnotatorNotes T678	GO:0000322 (storage vacuole)
+T679	CL 18620 18624	cell
+#679	AnnotatorNotes T679	CL:0000000 (cell)
+T680	GO_CC 18620 18624	cell
+#680	AnnotatorNotes T680	GO:0005623 (cell)
+T681	EntrezGene 18725 18764	subunit c of mitochondrial ATP synthase
+#681	AnnotatorNotes T681	EG:516
+T682	PR 18725 18764	subunit c of mitochondrial ATP synthase
+#682	AnnotatorNotes T682	PR:000022190 (ATP synthase subunit c)
+T683	italic 18733 18734	c
+#683	AnnotatorNotes T683	italic (null)
+T684	GO_CC 18738 18764	mitochondrial ATP synthase
+#684	AnnotatorNotes T684	GO:0005753 (mitochondrial proton-transporting ATP synthase complex)
+T685	GO_CC 18738 18751	mitochondrial
+#685	AnnotatorNotes T685	GO:0005739 (mitochondrion)
+T686	CHEBI 18752 18755	ATP
+#686	AnnotatorNotes T686	CHEBI:15422 (ATP)
+T687	CHEBI 18752 18755	ATP
+#687	AnnotatorNotes T687	CHEBI:30616 (ATP(4-))
+T688	CHEBI 18771 18778	protein
+#688	AnnotatorNotes T688	CHEBI:36080 (proteins)
+T689	GO_MF 18839 18847	protease
+#689	AnnotatorNotes T689	GO:0008233 (peptidase activity)
+T690	independent_continuant 18839 18847	protease
+#690	AnnotatorNotes T690	independent_continuant
+T691	PR 18881 18885	CLN2
+#691	AnnotatorNotes T691	PR:000016585 (tripeptidyl-peptidase 1)
+T692	GO_BP 18897 18904	degrade
+#692	AnnotatorNotes T692	GO:0009056 (catabolic process)
+T693	SO 18925 18935	N terminus
+#693	AnnotatorNotes T693	SO:0100014 (n_terminal_region)
+T694	CHEBI 18925 18926	N
+#694	AnnotatorNotes T694	CHEBI:46882 (amino group)
+T695	PR 19032 19036	CLN2
+#695	AnnotatorNotes T695	PR:000016585 (tripeptidyl-peptidase 1)
+T696	GO_BP 19051 19061	processing
+#696	AnnotatorNotes T696	GO:0016485 (protein processing)
+T697	CHEBI 19084 19095	angiotensin
+#697	AnnotatorNotes T697	CHEBI:48433 (angiotensin)
+T698	SO 19104 19112	peptides
+#698	AnnotatorNotes T698	SO:0001407 (peptidyl)
+T699	GO_BP 19142 19150	cleavage
+#699	AnnotatorNotes T699	GO:0030908 (protein splicing)
+T700	SO 19183 19191	peptides
+#700	AnnotatorNotes T700	SO:0001407 (peptidyl)
+T701	GO_BP 19214 19223	processed
+#701	AnnotatorNotes T701	GO:0016485 (protein processing)
+T702	SO 19224 19231	peptide
+#702	AnnotatorNotes T702	SO:0001407 (peptidyl)
+T703	CHEBI 19248 19259	amino acids
+#703	AnnotatorNotes T703	CHEBI:33708 (amino-acid residue)
+T704	SO 19248 19259	amino acids
+#704	AnnotatorNotes T704	SO:0001237 (amino_acid)
+T705	CHEBI 19248 19253	amino
+#705	AnnotatorNotes T705	CHEBI:32952 (amines)
+T706	CHEBI 19248 19253	amino
+#706	AnnotatorNotes T706	CHEBI:46882 (amino group)
+T707	CHEBI 19254 19259	acids
+#707	AnnotatorNotes T707	CHEBI:37527 (acid)
+T708	CHEBI 19281 19284	Asp
+#708	AnnotatorNotes T708	CHEBI:32470 (aspartic acid residue)
+T709	SO 19281 19284	Asp
+#709	AnnotatorNotes T709	SO:0001453 (aspartic_acid)
+T710	CHEBI 19285 19288	Arg
+#710	AnnotatorNotes T710	CHEBI:32700 (arginine residue)
+T711	SO 19285 19288	Arg
+#711	AnnotatorNotes T711	SO:0001451 (argenine)
+T712	CHEBI 19289 19292	Val
+#712	AnnotatorNotes T712	CHEBI:32861 (valine residue)
+T713	SO 19289 19292	Val
+#713	AnnotatorNotes T713	SO:0001436 (valine)
+T714	SO 19293 19300	removed
+#714	AnnotatorNotes T714	SO:0000045 (delete)
+T715	SO 19310 19320	N terminus
+#715	AnnotatorNotes T715	SO:0100014 (n_terminal_region)
+T716	CHEBI 19310 19311	N
+#716	AnnotatorNotes T716	CHEBI:46882 (amino group)
+T717	EntrezGene 19335 19339	CLN2
+#717	AnnotatorNotes T717	EG:1200
+T718	PR 19335 19339	CLN2
+#718	AnnotatorNotes T718	PR:000016585 (tripeptidyl-peptidase 1)
+T719	SO 19383 19390	peptide
+#719	AnnotatorNotes T719	SO:0001407 (peptidyl)
+T720	SO 19422 19434	binding site
+#720	AnnotatorNotes T720	SO:0000409 (binding_site)
+T721	GO_MF 19422 19429	binding
+#721	AnnotatorNotes T721	GO:0005488 (binding)
+T722	GO_MF 19463 19470	binding
+#722	AnnotatorNotes T722	GO:0005488 (binding)
+T723	SO 19562 19569	peptide
+#723	AnnotatorNotes T723	SO:0001407 (peptidyl)
+T724	GO_BP 19570 19580	acetylated
+#724	AnnotatorNotes T724	GO:0006473 (protein amino acid acetylation)
+T725	SO 19588 19598	N terminus
+#725	AnnotatorNotes T725	SO:0100014 (n_terminal_region)
+T726	CHEBI 19588 19589	N
+#726	AnnotatorNotes T726	CHEBI:46882 (amino group)
+T727	GO_BP 19609 19618	processed
+#727	AnnotatorNotes T727	GO:0016485 (protein processing)
+T728	SO 19671 19681	N-terminal
+#728	AnnotatorNotes T728	SO:0100014 (n_terminal_region)
+T729	CHEBI 19671 19672	N
+#729	AnnotatorNotes T729	CHEBI:46882 (amino group)
+T730	CHEBI 19682 19693	amino group
+#730	AnnotatorNotes T730	CHEBI:46882 (amino group)
+T731	CHEBI 19682 19687	amino
+#731	AnnotatorNotes T731	CHEBI:32952 (amines)
+T732	independent_continuant 19771 19783	tripeptidase
+#732	AnnotatorNotes T732	independent_continuant
+T733	GO_MF 19771 19783	tripeptidase
+#733	AnnotatorNotes T733	GO:0008240 (tripeptidyl-peptidase activity)
+T734	EntrezGene 19799 19803	CLN2
+#734	AnnotatorNotes T734	EG:1200
+T735	PR 19799 19803	CLN2
+#735	AnnotatorNotes T735	PR:000016585 (tripeptidyl-peptidase 1)
+T736	GO_BP 19855 19864	processed
+#736	AnnotatorNotes T736	GO:0016485 (protein processing)
+T737	PR 19870 19878	glucagon
+#737	AnnotatorNotes T737	PR:000007891 (glucagon)
+T738	SO 19891 19900	sequences
+#738	AnnotatorNotes T738	SO:0000001 (region)
+T739	SO 20007 20019	binding site
+#739	AnnotatorNotes T739	SO:0000409 (binding_site)
+T740	GO_MF 20007 20014	binding
+#740	AnnotatorNotes T740	GO:0005488 (binding)
+T741	EntrezGene 20027 20031	CLN2
+#741	AnnotatorNotes T741	EG:1200
+T742	PR 20027 20031	CLN2
+#742	AnnotatorNotes T742	PR:000016585 (tripeptidyl-peptidase 1)
+T743	PR 20098 20113	cholecystokinin
+#743	AnnotatorNotes T743	PR:000005110 (cholecystokinin)
+T744	PR 20180 20184	CLN2
+#744	AnnotatorNotes T744	PR:000016585 (tripeptidyl-peptidase 1)
+T745	GO_BP 20212 20218	cleave
+#745	AnnotatorNotes T745	GO:0030908 (protein splicing)
+T746	GO_CC 20219 20227	collagen
+#746	AnnotatorNotes T746	GO:0005581 (collagen)
+T747	PR 20219 20227	collagen
+#747	AnnotatorNotes T747	PR:000003262 (collagen alpha chain)
+T748	SO 20236 20244	peptides
+#748	AnnotatorNotes T748	SO:0001407 (peptidyl)
+T749	GO_BP 20287 20297	processing
+#749	AnnotatorNotes T749	GO:0016485 (protein processing)
+T750	CHEBI 20306 20309	Gly
+#750	AnnotatorNotes T750	CHEBI:29947 (glycine residue)
+T751	SO 20306 20309	Gly
+#751	AnnotatorNotes T751	SO:0001443 (glycine)
+T752	CHEBI 20310 20313	Pro
+#752	AnnotatorNotes T752	CHEBI:32874 (proline residue)
+T753	SO 20310 20313	Pro
+#753	AnnotatorNotes T753	SO:0001439 (proline)
+T754	CHEBI 20314 20317	Met
+#754	AnnotatorNotes T754	CHEBI:32648 (methionine residue)
+T755	SO 20314 20317	Met
+#755	AnnotatorNotes T755	SO:0001442 (methionine)
+T756	CHEBI 20319 20322	Gly
+#756	AnnotatorNotes T756	CHEBI:29947 (glycine residue)
+T757	SO 20319 20322	Gly
+#757	AnnotatorNotes T757	SO:0001443 (glycine)
+T758	CHEBI 20323 20326	Pro
+#758	AnnotatorNotes T758	CHEBI:32874 (proline residue)
+T759	SO 20323 20326	Pro
+#759	AnnotatorNotes T759	SO:0001439 (proline)
+T760	CHEBI 20327 20330	Arg
+#760	AnnotatorNotes T760	CHEBI:32700 (arginine residue)
+T761	SO 20327 20330	Arg
+#761	AnnotatorNotes T761	SO:0001451 (argenine)
+T762	CHEBI 20336 20339	Gly
+#762	AnnotatorNotes T762	CHEBI:29947 (glycine residue)
+T763	SO 20336 20339	Gly
+#763	AnnotatorNotes T763	SO:0001443 (glycine)
+T764	CHEBI 20340 20343	Pro
+#764	AnnotatorNotes T764	CHEBI:32874 (proline residue)
+T765	SO 20340 20343	Pro
+#765	AnnotatorNotes T765	SO:0001439 (proline)
+T766	CHEBI 20344 20347	Ala
+#766	AnnotatorNotes T766	CHEBI:32441 (alanine residue)
+T767	SO 20344 20347	Ala
+#767	AnnotatorNotes T767	SO:0001435 (alanine)
+T768	CHEBI 20432 20439	protein
+#768	AnnotatorNotes T768	CHEBI:36080 (proteins)
+T769	italic 20445 20473	Alicyclobacillus sendaiensis
+#769	AnnotatorNotes T769	italic (null)
+T770	taxonomic_rank 20445 20473	Alicyclobacillus sendaiensis
+#770	AnnotatorNotes T770	taxonomic_rank (null)
+T771	NCBITaxon 20445 20473	Alicyclobacillus sendaiensis
+#771	AnnotatorNotes T771	NCBITaxon:192387 (Alicyclobacillus sendaiensis)
+T772	italic 20487 20489	As
+#772	AnnotatorNotes T772	italic (null)
+T773	taxonomic_rank 20487 20489	As
+#773	AnnotatorNotes T773	taxonomic_rank (null)
+T774	NCBITaxon 20487 20489	As
+#774	AnnotatorNotes T774	NCBITaxon:192387 (Alicyclobacillus sendaiensis)
+T775	GO_BP 20507 20513	cleave
+#775	AnnotatorNotes T775	GO:0030908 (protein splicing)
+T776	GO_CC 20523 20531	collagen
+#776	AnnotatorNotes T776	GO:0005581 (collagen)
+T777	PR 20523 20531	collagen
+#777	AnnotatorNotes T777	PR:000003262 (collagen alpha chain)
+T778	SO 20540 20548	peptides
+#778	AnnotatorNotes T778	SO:0001407 (peptidyl)
+T779	SO 20559 20565	native
+#779	AnnotatorNotes T779	SO:0000782 (natural)
+T780	GO_CC 20566 20581	type I collagen
+#780	AnnotatorNotes T780	GO:0005584 (collagen type I)
+T781	PR 20566 20581	type I collagen
+#781	AnnotatorNotes T781	PR:000003263 (collagen type I alpha chain)
+T782	SO 20607 20619	binding site
+#782	AnnotatorNotes T782	SO:0000409 (binding_site)
+T783	GO_MF 20607 20614	binding
+#783	AnnotatorNotes T783	GO:0005488 (binding)
+T784	EntrezGene 20623 20627	CLN2
+#784	AnnotatorNotes T784	EG:1200
+T785	PR 20623 20627	CLN2
+#785	AnnotatorNotes T785	PR:000016585 (tripeptidyl-peptidase 1)
+T786	SO 20691 20697	enzyme
+#786	AnnotatorNotes T786	SO:0001185 (enzymatic)
+T787	independent_continuant 20715 20726	collagenase
+#787	AnnotatorNotes T787	independent_continuant
+T788	GO_MF 20715 20726	collagenase
+#788	AnnotatorNotes T788	GO:0008133 (collagenase activity)
+T789	GO_CC 20752 20760	collagen
+#789	AnnotatorNotes T789	GO:0005581 (collagen)
+T790	PR 20752 20760	collagen
+#790	AnnotatorNotes T790	PR:000003262 (collagen alpha chain)
+T791	GO_BP 20761 20771	processing
+#791	AnnotatorNotes T791	GO:0016485 (protein processing)
+T792	EntrezGene 20780 20784	CLN2
+#792	AnnotatorNotes T792	EG:1200
+T793	PR 20780 20784	CLN2
+#793	AnnotatorNotes T793	PR:000016585 (tripeptidyl-peptidase 1)
+T794	EntrezGene 20869 20873	CLN2
+#794	AnnotatorNotes T794	EG:1200
+T795	PR 20869 20873	CLN2
+#795	AnnotatorNotes T795	PR:000016585 (tripeptidyl-peptidase 1)
+T796	GO_MF 20957 20983	serine-carboxyl peptidases
+#796	AnnotatorNotes T796	GO:0004185 (serine carboxypeptidase activity)
+T797	independent_continuant 20957 20983	serine-carboxyl peptidases
+#797	AnnotatorNotes T797	independent_continuant
+T798	CHEBI 20957 20963	serine
+#798	AnnotatorNotes T798	CHEBI:32848 (serine residue)
+T799	SO 20957 20963	serine
+#799	AnnotatorNotes T799	SO:0001444 (serine)
+T800	CHEBI 20964 20972	carboxyl
+#800	AnnotatorNotes T800	CHEBI:46883 (carboxy group)
+T801	SO 20989 20998	enzymatic
+#801	AnnotatorNotes T801	SO:0001185 (enzymatic)
+T802	SO 21022 21029	enzymes
+#802	AnnotatorNotes T802	SO:0001185 (enzymatic)
+T803	CHEBI 21065 21075	inhibitors
+#803	AnnotatorNotes T803	CHEBI:35222 (inhibitor)
+T804	EntrezGene 21089 21093	CLN2
+#804	AnnotatorNotes T804	EG:1200
+T805	PR 21089 21093	CLN2
+#805	AnnotatorNotes T805	PR:000016585 (tripeptidyl-peptidase 1)
+T806	SO 21117 21125	features
+#806	AnnotatorNotes T806	SO:0000110 (sequence_feature)
+T807	SO 21180 21187	enzymes
+#807	AnnotatorNotes T807	SO:0001185 (enzymatic)
+T808	CHEBI 21217 21225	aldehyde
+#808	AnnotatorNotes T808	CHEBI:17478 (aldehydes)
+T809	CHEBI 21299 21305	serine
+#809	AnnotatorNotes T809	CHEBI:32848 (serine residue)
+T810	SO 21299 21305	serine
+#810	AnnotatorNotes T810	SO:0001444 (serine)
+T811	CHEBI 21342 21348	ketone
+#811	AnnotatorNotes T811	CHEBI:17087 (ketones)
+T812	CHEBI 21385 21395	inhibitors
+#812	AnnotatorNotes T812	CHEBI:35222 (inhibitor)
+T813	CHEBI 21513 21519	groups
+#813	AnnotatorNotes T813	CHEBI:24433 (groups)
+T814	SO 21529 21538	N termini
+#814	AnnotatorNotes T814	SO:0100014 (n_terminal_region)
+T815	CHEBI 21529 21530	N
+#815	AnnotatorNotes T815	CHEBI:46882 (amino group)
+T816	CHEBI 21561 21571	inhibitors
+#816	AnnotatorNotes T816	CHEBI:35222 (inhibitor)
+T817	SO 21582 21591	N termini
+#817	AnnotatorNotes T817	SO:0100014 (n_terminal_region)
+T818	CHEBI 21582 21583	N
+#818	AnnotatorNotes T818	CHEBI:46882 (amino group)
+T819	GO_BP 21606 21617	synthesized
+#819	AnnotatorNotes T819	GO:0009058 (biosynthetic process)
+T820	GO_MF 21671 21678	binding
+#820	AnnotatorNotes T820	GO:0005488 (binding)
+T821	SO 21755 21772	peptide sequences
+#821	AnnotatorNotes T821	SO:0001407 (peptidyl)
+T822	EntrezGene 21799 21803	CLN2
+#822	AnnotatorNotes T822	EG:1200
+T823	PR 21799 21803	CLN2
+#823	AnnotatorNotes T823	PR:000016585 (tripeptidyl-peptidase 1)
+T824	CHEBI 21932 21937	group
+#824	AnnotatorNotes T824	CHEBI:24433 (groups)
+T825	CHEBI 22047 22057	inhibitors
+#825	AnnotatorNotes T825	CHEBI:35222 (inhibitor)
+T826	PR 22114 22118	CLN2
+#826	AnnotatorNotes T826	PR:000016585 (tripeptidyl-peptidase 1)
+T827	SO 22153 22161	Homology
+#827	AnnotatorNotes T827	SO:0000857 (homologous)
+T828	CHEBI 22191 22197	atomic
+#828	AnnotatorNotes T828	CHEBI:33250 (atoms)
+T829	EntrezGene 22214 22218	CLN2
+#829	AnnotatorNotes T829	EG:1200
+T830	PR 22214 22218	CLN2
+#830	AnnotatorNotes T830	PR:000016585 (tripeptidyl-peptidase 1)
+T831	SO 22252 22260	sequence
+#831	AnnotatorNotes T831	SO:0000001 (region)
+T832	CHEBI 22305 22313	proteins
+#832	AnnotatorNotes T832	CHEBI:36080 (proteins)
+T833	CHEBI 22361 22366	atoms
+#833	AnnotatorNotes T833	CHEBI:33250 (atoms)
+T834	SO 22386 22393	enzymes
+#834	AnnotatorNotes T834	SO:0001185 (enzymatic)
+T835	SO 22417 22424	enzymes
+#835	AnnotatorNotes T835	SO:0001185 (enzymatic)
+T836	independent_continuant 22477 22502	serine-carboxyl peptidase
+#836	AnnotatorNotes T836	independent_continuant
+T837	GO_MF 22477 22502	serine-carboxyl peptidase
+#837	AnnotatorNotes T837	GO:0004185 (serine carboxypeptidase activity)
+T838	CHEBI 22477 22483	serine
+#838	AnnotatorNotes T838	CHEBI:32848 (serine residue)
+T839	SO 22477 22483	serine
+#839	AnnotatorNotes T839	SO:0001444 (serine)
+T840	CHEBI 22484 22492	carboxyl
+#840	AnnotatorNotes T840	CHEBI:46883 (carboxy group)
+T841	CHEBI 22585 22592	Protein
+#841	AnnotatorNotes T841	CHEBI:36080 (proteins)
+T842	SO 22759 22767	sequence
+#842	AnnotatorNotes T842	SO:0000001 (region)
+T843	SO 22790 22795	known
+#843	AnnotatorNotes T843	SO:0000906 (independently_known)
+T844	CHEBI 22892 22910	amino acid residue
+#844	AnnotatorNotes T844	CHEBI:33708 (amino-acid residue)
+T845	SO 22892 22910	amino acid residue
+#845	AnnotatorNotes T845	SO:0001237 (amino_acid)
+T846	CHEBI 22892 22902	amino acid
+#846	AnnotatorNotes T846	CHEBI:33709 (amino acids)
+T847	CHEBI 22892 22897	amino
+#847	AnnotatorNotes T847	CHEBI:46882 (amino group)
+T848	CHEBI 22892 22897	amino
+#848	AnnotatorNotes T848	CHEBI:32952 (amines)
+T849	SO 22930 22942	conservation
+#849	AnnotatorNotes T849	SO:0000856 (conserved)
+T850	SO 22961 22971	homologous
+#850	AnnotatorNotes T850	SO:0000857 (homologous)
+T851	CHEBI 22972 22980	proteins
+#851	AnnotatorNotes T851	CHEBI:36080 (proteins)
+T852	SO 23030 23038	sequence
+#852	AnnotatorNotes T852	SO:0000001 (region)
+T853	SO 23055 23063	Sequence
+#853	AnnotatorNotes T853	SO:0000001 (region)
+T854	EntrezGene 23207 23217	human CLN2
+#854	AnnotatorNotes T854	EG:1200
+T855	NCBITaxon 23207 23212	human
+#855	AnnotatorNotes T855	NCBITaxon:9606 (Homo sapiens)
+T856	PR 23213 23217	CLN2
+#856	AnnotatorNotes T856	PR:000016585 (tripeptidyl-peptidase 1)
+T857	SO 23218 23227	sequences
+#857	AnnotatorNotes T857	SO:0000001 (region)
+T858	SO 23310 23318	sequence
+#858	AnnotatorNotes T858	SO:0000001 (region)
+T859	CHEBI 23414 23422	proteins
+#859	AnnotatorNotes T859	CHEBI:36080 (proteins)
+T860	SO 23431 23449	conserved segments
+#860	AnnotatorNotes T860	SO:0000330 (conserved_region)
+T861	SO 23431 23440	conserved
+#861	AnnotatorNotes T861	SO:0000856 (conserved)
+T862	SO 23510 23517	regions
+#862	AnnotatorNotes T862	SO:0000001 (region)
+T863	SO 23551 23560	sequences
+#863	AnnotatorNotes T863	SO:0000001 (region)
+T864	SO 23580 23589	sequences
+#864	AnnotatorNotes T864	SO:0000001 (region)
+T865	italic 23667 23679	vise-a-versa
+#865	AnnotatorNotes T865	italic (null)
+T866	CHEBI 23807 23815	proteins
+#866	AnnotatorNotes T866	CHEBI:36080 (proteins)
+T867	SO 23905 23914	conserved
+#867	AnnotatorNotes T867	SO:0000856 (conserved)
+T868	CHEBI 23915 23923	residues
+#868	AnnotatorNotes T868	CHEBI:33708 (amino-acid residue)
+T869	SO 23915 23923	residues
+#869	AnnotatorNotes T869	SO:0001237 (amino_acid)
+T870	SO 23936 23943	regions
+#870	AnnotatorNotes T870	SO:0000001 (region)
+T871	SO 24006 24015	sequences
+#871	AnnotatorNotes T871	SO:0000001 (region)
+T872	EntrezGene 24031 24041	human CLN2
+#872	AnnotatorNotes T872	EG:1200
+T873	NCBITaxon 24031 24036	human
+#873	AnnotatorNotes T873	NCBITaxon:9606 (Homo sapiens)
+T874	PR 24037 24041	CLN2
+#874	AnnotatorNotes T874	PR:000016585 (tripeptidyl-peptidase 1)
+T875	GO_BP 24085 24094	complexed
+#875	AnnotatorNotes T875	GO:0065003 (macromolecular complex assembly)
+T876	CHEBI 24104 24113	inhibitor
+#876	AnnotatorNotes T876	CHEBI:35222 (inhibitor)
+T877	CHEBI 24204 24211	protein
+#877	AnnotatorNotes T877	CHEBI:36080 (proteins)
+T878	CHEBI 24257 24266	inhibitor
+#878	AnnotatorNotes T878	CHEBI:35222 (inhibitor)
+T879	GO_MF 24296 24308	tripeptidase
+#879	AnnotatorNotes T879	GO:0008240 (tripeptidyl-peptidase activity)
+T880	independent_continuant 24296 24308	tripeptidase
+#880	AnnotatorNotes T880	independent_continuant
+T881	EntrezGene 24322 24326	CLN2
+#881	AnnotatorNotes T881	EG:1200
+T882	PR 24322 24326	CLN2
+#882	AnnotatorNotes T882	PR:000016585 (tripeptidyl-peptidase 1)
+T883	CHEBI 24355 24363	residues
+#883	AnnotatorNotes T883	CHEBI:33708 (amino-acid residue)
+T884	SO 24355 24363	residues
+#884	AnnotatorNotes T884	SO:0001237 (amino_acid)
+T885	CHEBI 24393 24399	atomic
+#885	AnnotatorNotes T885	CHEBI:33250 (atoms)
+T886	SO 24443 24451	sequence
+#886	AnnotatorNotes T886	SO:0000001 (region)
+T887	SO 24491 24499	homology
+#887	AnnotatorNotes T887	SO:0000857 (homologous)
+T888	SO 24605 24631	active site of the protein
+#888	AnnotatorNotes T888	"active site of .. protein" SO:0100019 (polypeptide_catalytic_motif)
+T889	CHEBI 24624 24631	protein
+#889	AnnotatorNotes T889	CHEBI:36080 (proteins)
+T890	CHEBI 24659 24667	residues
+#890	AnnotatorNotes T890	CHEBI:33708 (amino-acid residue)
+T891	SO 24659 24667	residues
+#891	AnnotatorNotes T891	SO:0001237 (amino_acid)
+T892	CHEBI 24769 24777	residues
+#892	AnnotatorNotes T892	CHEBI:33708 (amino-acid residue)
+T893	SO 24769 24777	residues
+#893	AnnotatorNotes T893	SO:0001237 (amino_acid)
+T894	CHEBI 24916 24925	molecular
+#894	AnnotatorNotes T894	CHEBI:36357 (polyatomic entities)
+T895	CHEBI 25037 25045	residues
+#895	AnnotatorNotes T895	CHEBI:33708 (amino-acid residue)
+T896	SO 25037 25045	residues
+#896	AnnotatorNotes T896	SO:0001237 (amino_acid)
+T897	SO 25100 25110	insertions
+#897	AnnotatorNotes T897	SO:0000667 (insertion)
+T898	SO 25115 25124	deletions
+#898	AnnotatorNotes T898	SO:0000159 (deletion)
+T899	SO 25147 25154	regions
+#899	AnnotatorNotes T899	SO:0000001 (region)
+T900	CHEBI 25162 25169	protein
+#900	AnnotatorNotes T900	CHEBI:36080 (proteins)
+T901	SO 25340 25362	conserved loop regions
+#901	AnnotatorNotes T901	"conserved .. regions" SO:0000330 (conserved_region)
+T902	SO 25340 25349	conserved
+#902	AnnotatorNotes T902	SO:0000856 (conserved)
+T903	SO 25407 25415	homology
+#903	AnnotatorNotes T903	SO:0000857 (homologous)
+T904	SO 25494 25505	active site
+#904	AnnotatorNotes T904	SO:0100019 (polypeptide_catalytic_motif)
+T905	SO 25558 25566	boundary
+#905	AnnotatorNotes T905	SO:0000699 (junction)
+T906	SO 25582 25610	conserved, functional region
+#906	AnnotatorNotes T906	"conserved .. region" SO:0000330 (conserved_region)
+T907	SO 25582 25591	conserved
+#907	AnnotatorNotes T907	SO:0000856 (conserved)
+T908	italic 25708 25716	in vacuo
+#908	AnnotatorNotes T908	italic (null)
+T909	CHEBI 26031 26037	atomic
+#909	AnnotatorNotes T909	CHEBI:33250 (atoms)
+T910	CHEBI 26058 26062	salt
+#910	AnnotatorNotes T910	CHEBI:24866 (salts)
+T911	CHEBI 26075 26083	hydrogen
+#911	AnnotatorNotes T911	CHEBI:49637 (hydrogen)
+T912	CHEBI 26159 26165	atomic
+#912	AnnotatorNotes T912	CHEBI:33250 (atoms)
+T913	SO 26553 26560	genomic
+#913	AnnotatorNotes T913	SO:0001026 (genome)
+T914	SO 26592 26599	enzymes
+#914	AnnotatorNotes T914	SO:0001185 (enzymatic)
+T915	EntrezGene 26668 26672	CLN2
+#915	AnnotatorNotes T915	EG:1200
+T916	PR 26668 26672	CLN2
+#916	AnnotatorNotes T916	PR:000016585 (tripeptidyl-peptidase 1)
+T917	GO_MF 26820 26846	serine-carboxyl peptidases
+#917	AnnotatorNotes T917	GO:0004185 (serine carboxypeptidase activity)
+T918	independent_continuant 26820 26846	serine-carboxyl peptidases
+#918	AnnotatorNotes T918	independent_continuant
+T919	CHEBI 26820 26826	serine
+#919	AnnotatorNotes T919	CHEBI:32848 (serine residue)
+T920	SO 26820 26826	serine
+#920	AnnotatorNotes T920	SO:0001444 (serine)
+T921	CHEBI 26827 26835	carboxyl
+#921	AnnotatorNotes T921	CHEBI:46883 (carboxy group)
+T922	CHEBI 26871 26881	inhibitors
+#922	AnnotatorNotes T922	CHEBI:35222 (inhibitor)
+T923	SO 26914 26920	enzyme
+#923	AnnotatorNotes T923	SO:0001185 (enzymatic)
+T924	SO 26938 26944	enzyme
+#924	AnnotatorNotes T924	SO:0001185 (enzymatic)
+T925	NCBITaxon 27703 27708	Human
+#925	AnnotatorNotes T925	NCBITaxon:9606 (Homo sapiens)

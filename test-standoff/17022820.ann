@@ -1,0 +1,2066 @@
+T1	SO 0 7	Genetic
+#1	AnnotatorNotes T1	SO:0000704 (gene)
+T2	GO_BP 30 38	response
+#2	AnnotatorNotes T2	GO:0050896 (response to stimulus)
+T3	GO_BP 42 52	hemostasis
+#3	AnnotatorNotes T3	GO:0007599 (hemostasis)
+T4	GO_BP 57 67	thrombosis
+#4	AnnotatorNotes T4	GO:0007596 (blood coagulation)
+T5	GO_BP 91 101	Thrombosis
+#5	AnnotatorNotes T5	GO:0007596 (blood coagulation)
+T6	GO_BP 109 114	fatal
+#6	AnnotatorNotes T6	GO:0016265 (death)
+T7	NCBITaxon 247 252	mouse
+#7	AnnotatorNotes T7	NCBITaxon:10088 (Mus)
+T8	GO_BP 355 372	vessel remodeling
+#8	AnnotatorNotes T8	GO:0001974 (blood vessel remodeling)
+T9	SO 415 422	genetic
+#9	AnnotatorNotes T9	SO:0000704 (gene)
+T10	GO_BP 463 471	regulate
+#10	AnnotatorNotes T10	GO:0065007 (biological regulation)
+T11	GO_BP 472 482	thrombosis
+#11	AnnotatorNotes T11	GO:0007596 (blood coagulation)
+T12	GO_BP 487 497	hemostasis
+#12	AnnotatorNotes T12	GO:0007599 (hemostasis)
+T13	GO_BP 543 553	thrombosis
+#13	AnnotatorNotes T13	GO:0007596 (blood coagulation)
+T14	GO_BP 558 568	hemostasis
+#14	AnnotatorNotes T14	GO:0007599 (hemostasis)
+T15	GO_BP 626 634	response
+#15	AnnotatorNotes T15	GO:0050896 (response to stimulus)
+T16	GO_CC 642 653	chromosomes
+#16	AnnotatorNotes T16	GO:0005694 (chromosome)
+T17	SO 642 653	chromosomes
+#17	AnnotatorNotes T17	SO:0000340 (chromosome)
+T18	NCBITaxon 709 713	mice
+#18	AnnotatorNotes T18	NCBITaxon:10088 (Mus)
+T19	GO_BP 748 758	thrombosis
+#19	AnnotatorNotes T19	GO:0007596 (blood coagulation)
+T20	GO_BP 763 773	hemostasis
+#20	AnnotatorNotes T20	GO:0007599 (hemostasis)
+T21	CHEBI 861 876	ferric chloride
+#21	AnnotatorNotes T21	CHEBI:30808 (iron trichloride)
+T22	CHEBI 861 867	ferric
+#22	AnnotatorNotes T22	CHEBI:29034 (iron(3+))
+T23	CHEBI 868 876	chloride
+#23	AnnotatorNotes T23	CHEBI:23114 (chloride salts)
+T24	CHEBI 868 876	chloride
+#24	AnnotatorNotes T24	CHEBI:17996 (chloride)
+T25	GO_BP 881 891	blood flow
+#25	AnnotatorNotes T25	GO:0008015 (blood circulation)
+T26	GO_BP 984 994	thrombosis
+#26	AnnotatorNotes T26	GO:0007596 (blood coagulation)
+T27	GO_BP 999 1009	hemostasis
+#27	AnnotatorNotes T27	GO:0007599 (hemostasis)
+T28	GO_CC 1090 1100	chromosome
+#28	AnnotatorNotes T28	GO:0005694 (chromosome)
+T29	SO 1090 1100	chromosome
+#29	AnnotatorNotes T29	SO:0000340 (chromosome)
+T30	SO 1101 1113	substitution
+#30	AnnotatorNotes T30	SO:1000002 (substitution)
+T31	GO_CC 1127 1138	chromosomes
+#31	AnnotatorNotes T31	GO:0005694 (chromosome)
+T32	SO 1127 1138	chromosomes
+#32	AnnotatorNotes T32	SO:0000340 (chromosome)
+T33	GO_BP 1183 1191	response
+#33	AnnotatorNotes T33	GO:0050896 (response to stimulus)
+T34	GO_BP 1230 1248	Thrombus occlusion
+#34	AnnotatorNotes T34	GO:0007596 (blood coagulation)
+T35	NCBITaxon 1288 1292	mice
+#35	AnnotatorNotes T35	NCBITaxon:10088 (Mus)
+T36	NCBITaxon 1314 1318	mice
+#36	AnnotatorNotes T36	NCBITaxon:10088 (Mus)
+T37	NCBITaxon 1425 1429	mice
+#37	AnnotatorNotes T37	NCBITaxon:10088 (Mus)
+T38	NCBITaxon 1451 1455	mice
+#38	AnnotatorNotes T38	NCBITaxon:10088 (Mus)
+T39	GO_BP 1457 1468	Coagulation
+#39	AnnotatorNotes T39	GO:0050817 (coagulation)
+T40	GO_CC 1518 1526	collagen
+#40	AnnotatorNotes T40	GO:0005581 (collagen)
+T41	NCBITaxon 1567 1571	mice
+#41	AnnotatorNotes T41	NCBITaxon:10088 (Mus)
+T42	GO_CC 1579 1589	chromosome
+#42	AnnotatorNotes T42	GO:0005694 (chromosome)
+T43	SO 1579 1589	chromosome
+#43	AnnotatorNotes T43	SO:0000340 (chromosome)
+T44	SO 1590 1602	substitution
+#44	AnnotatorNotes T44	SO:1000002 (substitution)
+T45	sup 1619 1622	A/J
+#45	AnnotatorNotes T45	sup (null)
+T46	sup 1632 1635	A/J
+#46	AnnotatorNotes T46	sup (null)
+T47	sup 1649 1652	A/J
+#47	AnnotatorNotes T47	sup (null)
+T48	NCBITaxon 1729 1733	mice
+#48	AnnotatorNotes T48	NCBITaxon:10088 (Mus)
+T49	NCBITaxon 1735 1739	Mice
+#49	AnnotatorNotes T49	NCBITaxon:10088 (Mus)
+T50	GO_CC 1756 1767	chromosomes
+#50	AnnotatorNotes T50	GO:0005694 (chromosome)
+T51	SO 1756 1767	chromosomes
+#51	AnnotatorNotes T51	SO:0000340 (chromosome)
+T52	NCBITaxon 1817 1821	mice
+#52	AnnotatorNotes T52	NCBITaxon:10088 (Mus)
+T53	GO_CC 1842 1852	chromosome
+#53	AnnotatorNotes T53	GO:0005694 (chromosome)
+T54	SO 1842 1852	chromosome
+#54	AnnotatorNotes T54	SO:0000340 (chromosome)
+T55	SO 1853 1865	substitution
+#55	AnnotatorNotes T55	SO:1000002 (substitution)
+T56	sup 1882 1885	A/J
+#56	AnnotatorNotes T56	sup (null)
+T57	sup 1898 1901	A/J
+#57	AnnotatorNotes T57	sup (null)
+T58	GO_BP 2053 2063	thrombosis
+#58	AnnotatorNotes T58	GO:0007596 (blood coagulation)
+T59	GO_BP 2068 2079	haemostasis
+#59	AnnotatorNotes T59	GO:0007599 (hemostasis)
+T60	NCBITaxon 2121 2125	mice
+#60	AnnotatorNotes T60	NCBITaxon:10088 (Mus)
+T61	GO_CC 2137 2147	chromosome
+#61	AnnotatorNotes T61	GO:0005694 (chromosome)
+T62	SO 2137 2147	chromosome
+#62	AnnotatorNotes T62	SO:0000340 (chromosome)
+T63	SO 2148 2160	substitution
+#63	AnnotatorNotes T63	SO:1000002 (substitution)
+T64	SO 2330 2333	QTL
+#64	AnnotatorNotes T64	SO:0000771 (QTL)
+T65	SO 2375 2382	genetic
+#65	AnnotatorNotes T65	SO:0000704 (gene)
+T66	GO_BP 2414 2441	response to vascular injury
+#66	AnnotatorNotes T66	"response to .. injury" GO:0009611 (response to wounding)
+T67	GO_BP 2450 2460	thrombosis
+#67	AnnotatorNotes T67	GO:0007596 (blood coagulation)
+T68	SO 2534 2541	genetic
+#68	AnnotatorNotes T68	SO:0000704 (gene)
+T69	GO_BP 2558 2568	thrombotic
+#69	AnnotatorNotes T69	GO:0007596 (blood coagulation)
+T70	SO 2689 2696	genetic
+#70	AnnotatorNotes T70	SO:0000704 (gene)
+T71	SO 2697 2706	mutations
+#71	AnnotatorNotes T71	SO:0001059 (sequence_alteration)
+T72	NCBITaxon 2785 2790	human
+#72	AnnotatorNotes T72	NCBITaxon:9606 (Homo sapiens)
+T73	GO_BP 2804 2822	Thrombus formation
+#73	AnnotatorNotes T73	GO:0007596 (blood coagulation)
+T74	GO_BP 3069 3079	thrombosis
+#74	AnnotatorNotes T74	GO:0007596 (blood coagulation)
+T75	GO_BP 3092 3101	responses
+#75	AnnotatorNotes T75	GO:0050896 (response to stimulus)
+T76	SO 3133 3140	genetic
+#76	AnnotatorNotes T76	SO:0000704 (gene)
+T77	SO 3174 3187	Polymorphisms
+#77	AnnotatorNotes T77	SO:0001025 (polymorphic_sequence_variant)
+T78	SO 3174 3187	Polymorphisms
+#78	AnnotatorNotes T78	SO:0000694 (SNP)
+T79	SO 3192 3201	mutations
+#79	AnnotatorNotes T79	SO:0001059 (sequence_alteration)
+T80	GO_BP 3205 3216	coagulation
+#80	AnnotatorNotes T80	GO:0050817 (coagulation)
+T81	GO_BP 3226 3238	fibrinolytic
+#81	AnnotatorNotes T81	GO:0042730 (fibrinolysis)
+T82	independent_continuant 3248 3274	platelet surface receptors
+#82	AnnotatorNotes T82	independent_continuant
+T83	GO_MF 3248 3274	platelet surface receptors
+#83	AnnotatorNotes T83	GO:0001621 (platelet ADP receptor activity)
+T84	CL 3248 3256	platelet
+#84	AnnotatorNotes T84	CL:0000233 (platelet)
+T85	GO_MF 3276 3311	methylenetetrahydrofalate reductase
+#85	AnnotatorNotes T85	GO:0033738 (methylenetetrahydrofolate reductase (ferredoxin) activity)
+T86	PR 3276 3311	methylenetetrahydrofalate reductase
+#86	AnnotatorNotes T86	PR:000010725 (methylenetetrahydrofolate reductase)
+T87	independent_continuant 3276 3311	methylenetetrahydrofalate reductase
+#87	AnnotatorNotes T87	independent_continuant
+T88	CHEBI 3276 3301	methylenetetrahydrofalate
+#88	AnnotatorNotes T88	CHEBI:25297 (methylenetetrahydrofolates)
+T89	PR 3313 3346	endothelial nitric oxide synthase
+#89	AnnotatorNotes T89	PR:000011328 (nitric oxide synthase, endothelial)
+T90	GO_MF 3325 3346	nitric oxide synthase
+#90	AnnotatorNotes T90	GO:0004517 (nitric-oxide synthase activity)
+T91	independent_continuant 3325 3346	nitric oxide synthase
+#91	AnnotatorNotes T91	independent_continuant
+T92	CHEBI 3325 3337	nitric oxide
+#92	AnnotatorNotes T92	CHEBI:16480 (nitrosyl)
+T93	CHEBI 3325 3331	nitric
+#93	AnnotatorNotes T93	CHEBI:25555 (nitrogen)
+T94	CHEBI 3352 3363	antioxidant
+#94	AnnotatorNotes T94	CHEBI:22586 (antioxidant)
+T95	independent_continuant 3352 3363	antioxidant
+#95	AnnotatorNotes T95	independent_continuant
+T96	GO_MF 3352 3363	antioxidant
+#96	AnnotatorNotes T96	GO:0016209 (antioxidant activity)
+T97	SO 3364 3371	enzymes
+#97	AnnotatorNotes T97	SO:0001185 (enzymatic)
+T98	SO 3396 3403	genetic
+#98	AnnotatorNotes T98	SO:0000704 (gene)
+T99	GO_BP 3438 3448	thrombosis
+#99	AnnotatorNotes T99	GO:0007596 (blood coagulation)
+T100	GO_BP 3519 3529	thrombosis
+#100	AnnotatorNotes T100	GO:0007596 (blood coagulation)
+T101	GO_BP 3581 3591	thrombosis
+#101	AnnotatorNotes T101	GO:0007596 (blood coagulation)
+T102	SO 3684 3691	genetic
+#102	AnnotatorNotes T102	SO:0000704 (gene)
+T103	GO_BP 3713 3723	thrombotic
+#103	AnnotatorNotes T103	GO:0007596 (blood coagulation)
+T104	SO 3763 3770	genetic
+#104	AnnotatorNotes T104	SO:0000704 (gene)
+T105	CHEBI 3809 3818	molecules
+#105	AnnotatorNotes T105	CHEBI:23367 (molecular entity)
+T106	GO_BP 3841 3849	regulate
+#106	AnnotatorNotes T106	GO:0065007 (biological regulation)
+T107	GO_BP 3850 3878	thrombus formation and lysis
+#107	AnnotatorNotes T107	"thrombus .. lysis" GO:0042730 (fibrinolysis)
+T108	GO_BP 3850 3868	thrombus formation
+#108	AnnotatorNotes T108	GO:0007596 (blood coagulation)
+T109	GO_BP 3920 3930	thrombotic
+#109	AnnotatorNotes T109	GO:0007596 (blood coagulation)
+T110	NCBITaxon 3970 3975	mouse
+#110	AnnotatorNotes T110	NCBITaxon:10088 (Mus)
+T111	GO_BP 4138 4147	responses
+#111	AnnotatorNotes T111	GO:0050896 (response to stimulus)
+T112	GO_BP 4376 4393	vessel remodeling
+#112	AnnotatorNotes T112	GO:0001974 (blood vessel remodeling)
+T113	GO_BP 4469 4479	thrombosis
+#113	AnnotatorNotes T113	GO:0007596 (blood coagulation)
+T114	NCBITaxon 4498 4502	mice
+#114	AnnotatorNotes T114	NCBITaxon:10088 (Mus)
+T115	GO_BP 4546 4556	thrombosis
+#115	AnnotatorNotes T115	GO:0007596 (blood coagulation)
+T116	GO_BP 4558 4582	Clot formation and lysis
+#116	AnnotatorNotes T116	"Clot .. lysis" GO:0042730 (fibrinolysis)
+T117	GO_BP 4558 4572	Clot formation
+#117	AnnotatorNotes T117	GO:0050817 (coagulation)
+T118	GO_BP 4611 4621	thrombosis
+#118	AnnotatorNotes T118	GO:0007596 (blood coagulation)
+T119	CL 4632 4640	platelet
+#119	AnnotatorNotes T119	CL:0000233 (platelet)
+T120	GO_BP 4654 4665	coagulation
+#120	AnnotatorNotes T120	GO:0050817 (coagulation)
+T121	GO_BP 4671 4693	fibrinolytic functions
+#121	AnnotatorNotes T121	GO:0042730 (fibrinolysis)
+T122	GO_BP 4766 4774	modulate
+#122	AnnotatorNotes T122	GO:0065007 (biological regulation)
+T123	SO 4911 4947	location(s) on a specific chromosome
+#123	AnnotatorNotes T123	"location(s) on .. chromosome" SO:0000830 (chromosome_part)
+T124	GO_CC 4937 4947	chromosome
+#124	AnnotatorNotes T124	GO:0005694 (chromosome)
+T125	SO 4937 4947	chromosome
+#125	AnnotatorNotes T125	SO:0000340 (chromosome)
+T126	SO 4951 4975	quantitative trait locus
+#126	AnnotatorNotes T126	SO:0000771 (QTL)
+T127	SO 4977 4980	QTL
+#127	AnnotatorNotes T127	SO:0000771 (QTL)
+T128	NCBITaxon 5011 5015	mice
+#128	AnnotatorNotes T128	NCBITaxon:10088 (Mus)
+T129	sup 5169 5171	ob
+#129	AnnotatorNotes T129	sup (null)
+T130	EntrezGene 5173 5176	Plg
+#130	AnnotatorNotes T130	EG:18815
+T131	PR 5173 5176	Plg
+#131	AnnotatorNotes T131	PR:000012867 (plasminogen)
+T132	EntrezGene 5185 5191	PAI-F1
+#132	AnnotatorNotes T132	EG:18787
+T133	PR 5185 5188	PAI
+#133	AnnotatorNotes T133	PR:000014702 (plasminogen activator inhibitor 1)
+T134	NCBITaxon 5195 5199	mice
+#134	AnnotatorNotes T134	NCBITaxon:10088 (Mus)
+T135	GO_CC 5237 5247	chromosome
+#135	AnnotatorNotes T135	GO:0005694 (chromosome)
+T136	SO 5237 5247	chromosome
+#136	AnnotatorNotes T136	SO:0000340 (chromosome)
+T137	SO 5248 5260	substitution
+#137	AnnotatorNotes T137	SO:1000002 (substitution)
+T138	GO_BP 5279 5288	generated
+#138	AnnotatorNotes T138	GO:0000003 (reproduction)
+T139	GO_BP 5317 5325	breeding
+#139	AnnotatorNotes T139	GO:0007618 (mating)
+T140	NCBITaxon 5412 5416	mice
+#140	AnnotatorNotes T140	NCBITaxon:10088 (Mus)
+T141	SO 5418 5425	Genetic
+#141	AnnotatorNotes T141	SO:0000704 (gene)
+T142	GO_CC 5515 5525	chromosome
+#142	AnnotatorNotes T142	GO:0005694 (chromosome)
+T143	SO 5515 5525	chromosome
+#143	AnnotatorNotes T143	SO:0000340 (chromosome)
+T144	GO_CC 5550 5560	chromosome
+#144	AnnotatorNotes T144	GO:0005694 (chromosome)
+T145	SO 5550 5560	chromosome
+#145	AnnotatorNotes T145	SO:0000340 (chromosome)
+T146	NCBITaxon 5570 5574	mice
+#146	AnnotatorNotes T146	NCBITaxon:10088 (Mus)
+T147	SO 5686 5689	QTL
+#147	AnnotatorNotes T147	SO:0000771 (QTL)
+T148	GO_CC 5706 5716	chromosome
+#148	AnnotatorNotes T148	GO:0005694 (chromosome)
+T149	SO 5706 5716	chromosome
+#149	AnnotatorNotes T149	SO:0000340 (chromosome)
+T150	NCBITaxon 5751 5755	mice
+#150	AnnotatorNotes T150	NCBITaxon:10088 (Mus)
+T151	SO 5773 5776	QTL
+#151	AnnotatorNotes T151	SO:0000771 (QTL)
+T152	SO 5789 5795	genome
+#152	AnnotatorNotes T152	SO:0001026 (genome)
+T153	SO 5857 5860	QTL
+#153	AnnotatorNotes T153	SO:0000771 (QTL)
+T154	SO 5886 5889	QTL
+#154	AnnotatorNotes T154	SO:0000771 (QTL)
+T155	SO 5962 5965	QTL
+#155	AnnotatorNotes T155	SO:0000771 (QTL)
+T156	sup 6018 6021	A/J
+#156	AnnotatorNotes T156	sup (null)
+T157	GO_BP 6046 6054	behavior
+#157	AnnotatorNotes T157	GO:0007610 (behavior)
+T158	CHEBI 6079 6086	sterols
+#158	AnnotatorNotes T158	CHEBI:15889 (sterols)
+T159	CHEBI 6104 6115	amino acids
+#159	AnnotatorNotes T159	CHEBI:33709 (amino acids)
+T160	SO 6104 6115	amino acids
+#160	AnnotatorNotes T160	SO:0001237 (amino_acid)
+T161	CHEBI 6104 6109	amino
+#161	AnnotatorNotes T161	CHEBI:46882 (amino group)
+T162	CHEBI 6104 6109	amino
+#162	AnnotatorNotes T162	CHEBI:32952 (amines)
+T163	SO 6162 6165	QTL
+#163	AnnotatorNotes T163	SO:0000771 (QTL)
+T164	SO 6206 6212	genome
+#164	AnnotatorNotes T164	SO:0001026 (genome)
+T165	NCBITaxon 6293 6297	mice
+#165	AnnotatorNotes T165	NCBITaxon:10088 (Mus)
+T166	GO_BP 6302 6315	prothrombotic
+#166	AnnotatorNotes T166	GO:0030194 (positive regulation of blood coagulation)
+T167	CHEBI 6334 6349	ferric chloride
+#167	AnnotatorNotes T167	CHEBI:30808 (iron trichloride)
+T168	CHEBI 6334 6340	ferric
+#168	AnnotatorNotes T168	CHEBI:29034 (iron(3+))
+T169	CHEBI 6341 6349	chloride
+#169	AnnotatorNotes T169	CHEBI:17996 (chloride)
+T170	CHEBI 6341 6349	chloride
+#170	AnnotatorNotes T170	CHEBI:23114 (chloride salts)
+T171	GO_BP 6410 6421	coagulation
+#171	AnnotatorNotes T171	GO:0050817 (coagulation)
+T172	GO_BP 6426 6438	fibrinolysis
+#172	AnnotatorNotes T172	GO:0042730 (fibrinolysis)
+T173	NCBITaxon 6515 6519	mice
+#173	AnnotatorNotes T173	NCBITaxon:10088 (Mus)
+T174	GO_BP 6534 6547	prothrombotic
+#174	AnnotatorNotes T174	GO:0030194 (positive regulation of blood coagulation)
+T175	GO_BP 6573 6584	coagulation
+#175	AnnotatorNotes T175	GO:0050817 (coagulation)
+T176	CL 6588 6596	platelet
+#176	AnnotatorNotes T176	CL:0000233 (platelet)
+T177	SO 6799 6802	QTL
+#177	AnnotatorNotes T177	SO:0000771 (QTL)
+T178	SO 6856 6863	genetic
+#178	AnnotatorNotes T178	SO:0000704 (gene)
+T179	GO_BP 6911 6922	haemostasis
+#179	AnnotatorNotes T179	GO:0007599 (hemostasis)
+T180	GO_BP 6927 6937	thrombosis
+#180	AnnotatorNotes T180	GO:0007596 (blood coagulation)
+T181	NCBITaxon 6949 6953	Mice
+#181	AnnotatorNotes T181	NCBITaxon:10088 (Mus)
+T182	sup 6992 6994	ob
+#182	AnnotatorNotes T182	sup (null)
+T183	SO 7024 7028	gene
+#183	AnnotatorNotes T183	SO:0000704 (gene)
+T184	EntrezGene 7038 7075	plasminogen (Plg) activator inhibitor
+#184	AnnotatorNotes T184	"plasminogen .. activator inhibitor" EG:18787
+T185	PR 7038 7075	plasminogen (Plg) activator inhibitor
+#185	AnnotatorNotes T185	"plasminogen .. activator inhibitor" PR:000014702 (plasminogen activator inhibitor 1)
+T186	independent_continuant 7038 7065	plasminogen (Plg) activator
+#186	AnnotatorNotes T186	"plasminogen .. activator" independent_continuant
+T187	GO_MF 7038 7065	plasminogen (Plg) activator
+#187	AnnotatorNotes T187	"plasminogen .. activator" GO:0008243 (plasminogen activator activity)
+T188	EntrezGene 7038 7049	plasminogen
+#188	AnnotatorNotes T188	EG:18815
+T189	PR 7038 7049	plasminogen
+#189	AnnotatorNotes T189	PR:000012867 (plasminogen)
+T190	EntrezGene 7051 7075	Plg) activator inhibitor
+#190	AnnotatorNotes T190	"Plg .. activator inhibitor" EG:18787
+T191	PR 7051 7075	Plg) activator inhibitor
+#191	AnnotatorNotes T191	"Plg .. activator inhibitor" PR:000014702 (plasminogen activator inhibitor 1)
+T192	independent_continuant 7051 7065	Plg) activator
+#192	AnnotatorNotes T192	"Plg .. activator" independent_continuant
+T193	GO_MF 7051 7065	Plg) activator
+#193	AnnotatorNotes T193	"Plg .. activator" GO:0008243 (plasminogen activator activity)
+T194	EntrezGene 7051 7054	Plg
+#194	AnnotatorNotes T194	EG:18815
+T195	PR 7051 7054	Plg
+#195	AnnotatorNotes T195	PR:000012867 (plasminogen)
+T196	NCBITaxon 7086 7090	mice
+#196	AnnotatorNotes T196	NCBITaxon:10088 (Mus)
+T197	EntrezGene 7092 7097	PAI-1
+#197	AnnotatorNotes T197	EG:18787
+T198	PR 7092 7097	PAI-1
+#198	AnnotatorNotes T198	PR:000014702 (plasminogen activator inhibitor 1)
+T199	NCBITaxon 7117 7121	mice
+#199	AnnotatorNotes T199	NCBITaxon:10088 (Mus)
+T200	EntrezGene 7220 7223	Plg
+#200	AnnotatorNotes T200	EG:18815
+T201	PR 7220 7223	Plg
+#201	AnnotatorNotes T201	PR:000012867 (plasminogen)
+T202	NCBITaxon 7227 7231	mice
+#202	AnnotatorNotes T202	NCBITaxon:10088 (Mus)
+T203	GO_BP 7237 7246	generated
+#203	AnnotatorNotes T203	GO:0000003 (reproduction)
+T204	GO_BP 7313 7322	generated
+#204	AnnotatorNotes T204	GO:0000003 (reproduction)
+T205	NCBITaxon 7335 7339	mice
+#205	AnnotatorNotes T205	NCBITaxon:10088 (Mus)
+T206	NCBITaxon 7414 7418	mice
+#206	AnnotatorNotes T206	NCBITaxon:10088 (Mus)
+T207	EntrezGene 7424 7427	Plg
+#207	AnnotatorNotes T207	EG:18815
+T208	PR 7424 7427	Plg
+#208	AnnotatorNotes T208	PR:000012867 (plasminogen)
+T209	NCBITaxon 7431 7435	mice
+#209	AnnotatorNotes T209	NCBITaxon:10088 (Mus)
+T210	GO_BP 7443 7452	reproduce
+#210	AnnotatorNotes T210	GO:0000003 (reproduction)
+T211	EntrezGene 7462 7465	Plg
+#211	AnnotatorNotes T211	EG:18815
+T212	PR 7462 7465	Plg
+#212	AnnotatorNotes T212	PR:000012867 (plasminogen)
+T213	GO_BP 7499 7507	breeding
+#213	AnnotatorNotes T213	GO:0007618 (mating)
+T214	SO 7509 7518	Genotypes
+#214	AnnotatorNotes T214	SO:0001027 (genotype)
+T215	EntrezGene 7520 7523	Plg
+#215	AnnotatorNotes T215	EG:18815
+T216	PR 7520 7523	Plg
+#216	AnnotatorNotes T216	PR:000012867 (plasminogen)
+T217	SO 7523 7524	+
+#217	AnnotatorNotes T217	SO:0000817 (wild_type)
+T218	SO 7525 7526	+
+#218	AnnotatorNotes T218	SO:0000817 (wild_type)
+T219	EntrezGene 7528 7531	Plg
+#219	AnnotatorNotes T219	EG:18815
+T220	PR 7528 7531	Plg
+#220	AnnotatorNotes T220	PR:000012867 (plasminogen)
+T221	SO 7531 7532	+
+#221	AnnotatorNotes T221	SO:0000817 (wild_type)
+T222	EntrezGene 7536 7539	Plg
+#222	AnnotatorNotes T222	EG:18815
+T223	PR 7536 7539	Plg
+#223	AnnotatorNotes T223	PR:000012867 (plasminogen)
+T224	GO_BP 7636 7644	Breeding
+#224	AnnotatorNotes T224	GO:0007618 (mating)
+T225	NCBITaxon 7662 7666	mice
+#225	AnnotatorNotes T225	NCBITaxon:10088 (Mus)
+T226	NCBITaxon 7718 7722	mice
+#226	AnnotatorNotes T226	NCBITaxon:10088 (Mus)
+T227	GO_BP 7739 7743	bred
+#227	AnnotatorNotes T227	GO:0007618 (mating)
+T228	GO_BP 7739 7743	bred
+#228	AnnotatorNotes T228	GO:0000003 (reproduction)
+T229	NCBITaxon 7818 7822	Mice
+#229	AnnotatorNotes T229	NCBITaxon:10088 (Mus)
+T230	CHEBI 7940 7944	food
+#230	AnnotatorNotes T230	CHEBI:33290 (food)
+T231	CHEBI 7949 7954	water
+#231	AnnotatorNotes T231	CHEBI:15377 (water)
+T232	NCBITaxon 7967 7971	Mice
+#232	AnnotatorNotes T232	NCBITaxon:10088 (Mus)
+T233	GO_BP 7977 7980	fed
+#233	AnnotatorNotes T233	GO:0007631 (feeding behavior)
+T234	CHEBI 8040 8047	protein
+#234	AnnotatorNotes T234	CHEBI:36080 (proteins)
+T235	NCBITaxon 8137 8143	animal
+#235	AnnotatorNotes T235	NCBITaxon:33208 (Metazoa)
+T236	NCBITaxon 8231 8237	Animal
+#236	AnnotatorNotes T236	NCBITaxon:33208 (Metazoa)
+T237	GO_BP 8311 8331	thrombosis formation
+#237	AnnotatorNotes T237	GO:0007596 (blood coagulation)
+T238	CHEBI 8357 8372	ferric chloride
+#238	AnnotatorNotes T238	CHEBI:30808 (iron trichloride)
+T239	CHEBI 8357 8363	ferric
+#239	AnnotatorNotes T239	CHEBI:29034 (iron(3+))
+T240	CHEBI 8364 8372	chloride
+#240	AnnotatorNotes T240	CHEBI:17996 (chloride)
+T241	CHEBI 8364 8372	chloride
+#241	AnnotatorNotes T241	CHEBI:23114 (chloride salts)
+T242	CHEBI 8374 8379	FeCl3
+#242	AnnotatorNotes T242	CHEBI:30808 (iron trichloride)
+T243	sub 8378 8379	3
+#243	AnnotatorNotes T243	sub (null)
+T244	NCBITaxon 8426 8430	Mice
+#244	AnnotatorNotes T244	NCBITaxon:10088 (Mus)
+T245	CHEBI 8766 8771	FeCl3
+#245	AnnotatorNotes T245	CHEBI:30808 (iron trichloride)
+T246	sub 8770 8771	3
+#246	AnnotatorNotes T246	sub (null)
+T247	CHEBI 8896 8901	FeCl3
+#247	AnnotatorNotes T247	CHEBI:30808 (iron trichloride)
+T248	sub 8900 8901	3
+#248	AnnotatorNotes T248	sub (null)
+T249	GO_BP 8951 8961	blood flow
+#249	AnnotatorNotes T249	GO:0008015 (blood circulation)
+T250	GO_BP 9138 9148	Blood flow
+#250	AnnotatorNotes T250	GO:0008015 (blood circulation)
+T251	NCBITaxon 9258 9262	mice
+#251	AnnotatorNotes T251	NCBITaxon:10088 (Mus)
+T252	NCBITaxon 9371 9375	mice
+#252	AnnotatorNotes T252	NCBITaxon:10088 (Mus)
+T253	CHEBI 9499 9504	water
+#253	AnnotatorNotes T253	CHEBI:15377 (water)
+T254	GO_BP 9882 9893	Coagulation
+#254	AnnotatorNotes T254	GO:0050817 (coagulation)
+T255	EntrezGene 9895 9898	Plg
+#255	AnnotatorNotes T255	EG:18815
+T256	PR 9895 9898	Plg
+#256	AnnotatorNotes T256	PR:000012867 (plasminogen)
+T257	EntrezGene 9900 9914	α2-antiplasmin
+#257	AnnotatorNotes T257	EG:18816
+T258	PR 9900 9914	α2-antiplasmin
+#258	AnnotatorNotes T258	PR:000014706 (alpha-2-antiplasmin)
+T259	sub 9901 9902	2
+#259	AnnotatorNotes T259	sub (null)
+T260	GO_MF 9903 9914	antiplasmin
+#260	AnnotatorNotes T260	GO:0030568 (plasmin inhibitor activity)
+T261	independent_continuant 9903 9914	antiplasmin
+#261	AnnotatorNotes T261	independent_continuant
+T262	GO_CC 9916 9926	fibrinogen
+#262	AnnotatorNotes T262	GO:0005577 (fibrinogen complex)
+T263	GO_BP 9928 9940	fibrinolytic
+#263	AnnotatorNotes T263	GO:0042730 (fibrinolysis)
+T264	EntrezGene 9945 9950	PAI-1
+#264	AnnotatorNotes T264	EG:18787
+T265	PR 9945 9950	PAI-1
+#265	AnnotatorNotes T265	PR:000014702 (plasminogen activator inhibitor 1)
+T266	NCBITaxon 9959 9963	Mice
+#266	AnnotatorNotes T266	NCBITaxon:10088 (Mus)
+T267	CHEBI 10111 10118	reagent
+#267	AnnotatorNotes T267	CHEBI:33893 (reagent)
+T268	EntrezGene 10142 10153	prothrombin
+#268	AnnotatorNotes T268	EG:14061
+T269	PR 10142 10153	prothrombin
+#269	AnnotatorNotes T269	PR:000007299 (prothrombin)
+T270	GO_BP 10263 10274	Coagulation
+#270	AnnotatorNotes T270	GO:0050817 (coagulation)
+T271	EntrezGene 10307 10312	PAI-1
+#271	AnnotatorNotes T271	EG:18787
+T272	PR 10307 10312	PAI-1
+#272	AnnotatorNotes T272	PR:000014702 (plasminogen activator inhibitor 1)
+T273	italic 10373 10378	et al
+#273	AnnotatorNotes T273	italic (null)
+T274	EntrezGene 10385 10390	PAI-1
+#274	AnnotatorNotes T274	EG:18787
+T275	PR 10385 10390	PAI-1
+#275	AnnotatorNotes T275	PR:000014702 (plasminogen activator inhibitor 1)
+T276	NCBITaxon 10448 10453	sheep
+#276	AnnotatorNotes T276	NCBITaxon:9940 (Ovis aries)
+T277	EntrezGene 10459 10470	mouse PAI-1
+#277	AnnotatorNotes T277	EG:18787
+T278	NCBITaxon 10459 10464	mouse
+#278	AnnotatorNotes T278	NCBITaxon:10088 (Mus)
+T279	PR 10465 10470	PAI-1
+#279	AnnotatorNotes T279	PR:000014702 (plasminogen activator inhibitor 1)
+T280	GO_CC 10509 10517	antibody
+#280	AnnotatorNotes T280	GO:0019814 (immunoglobulin complex)
+T281	EntrezGene 10522 10533	mouse PAI-1
+#281	AnnotatorNotes T281	EG:18787
+T282	NCBITaxon 10522 10527	mouse
+#282	AnnotatorNotes T282	NCBITaxon:10088 (Mus)
+T283	PR 10528 10533	PAI-1
+#283	AnnotatorNotes T283	PR:000014702 (plasminogen activator inhibitor 1)
+T284	EntrezGene 10588 10591	Plg
+#284	AnnotatorNotes T284	EG:18815
+T285	PR 10588 10591	Plg
+#285	AnnotatorNotes T285	PR:000012867 (plasminogen)
+T286	GO_BP 10645 10666	fibrinolytic activity
+#286	AnnotatorNotes T286	GO:0042730 (fibrinolysis)
+T287	GO_BP 10688 10699	degradation
+#287	AnnotatorNotes T287	GO:0009056 (catabolic process)
+T288	EntrezGene 10761 10766	PAI-1
+#288	AnnotatorNotes T288	EG:18787
+T289	PR 10761 10766	PAI-1
+#289	AnnotatorNotes T289	PR:000014702 (plasminogen activator inhibitor 1)
+T290	EntrezGene 10770 10773	Plg
+#290	AnnotatorNotes T290	EG:18815
+T291	PR 10770 10773	Plg
+#291	AnnotatorNotes T291	PR:000012867 (plasminogen)
+T292	NCBITaxon 10784 10788	mice
+#292	AnnotatorNotes T292	NCBITaxon:10088 (Mus)
+T293	EntrezGene 10819 10839	mouse α2-antiplasmin
+#293	AnnotatorNotes T293	EG:18816
+T294	NCBITaxon 10819 10824	mouse
+#294	AnnotatorNotes T294	NCBITaxon:10088 (Mus)
+T295	PR 10825 10839	α2-antiplasmin
+#295	AnnotatorNotes T295	PR:000014706 (alpha-2-antiplasmin)
+T296	sub 10826 10827	2
+#296	AnnotatorNotes T296	sub (null)
+T297	GO_MF 10828 10839	antiplasmin
+#297	AnnotatorNotes T297	GO:0030568 (plasmin inhibitor activity)
+T298	independent_continuant 10828 10839	antiplasmin
+#298	AnnotatorNotes T298	independent_continuant
+T299	GO_MF 10862 10869	plasmin
+#299	AnnotatorNotes T299	GO:0004283 (plasmin activity)
+T300	EntrezGene 10862 10869	plasmin
+#300	AnnotatorNotes T300	EG:18815
+T301	independent_continuant 10862 10869	plasmin
+#301	AnnotatorNotes T301	independent_continuant
+T302	NCBITaxon 10905 10910	mouse
+#302	AnnotatorNotes T302	NCBITaxon:10088 (Mus)
+T303	GO_CC 10911 10919	antibody
+#303	AnnotatorNotes T303	GO:0019814 (immunoglobulin complex)
+T304	CHEBI 10921 10930	Molecular
+#304	AnnotatorNotes T304	CHEBI:23367 (molecular entity)
+T305	GO_CC 10965 10975	fibrinogen
+#305	AnnotatorNotes T305	GO:0005577 (fibrinogen complex)
+T306	GO_CC 11001 11011	antibodies
+#306	AnnotatorNotes T306	GO:0019814 (immunoglobulin complex)
+T307	NCBITaxon 11027 11032	mouse
+#307	AnnotatorNotes T307	NCBITaxon:10088 (Mus)
+T308	GO_CC 11033 11043	fibrinogen
+#308	AnnotatorNotes T308	GO:0005577 (fibrinogen complex)
+T309	GO_CC 11289 11297	collagen
+#309	AnnotatorNotes T309	GO:0005581 (collagen)
+T310	NCBITaxon 11592 11597	mouse
+#310	AnnotatorNotes T310	NCBITaxon:10088 (Mus)
+T311	NCBITaxon 11706 11710	mice
+#311	AnnotatorNotes T311	NCBITaxon:10088 (Mus)
+T312	SO 11723 11732	wild-type
+#312	AnnotatorNotes T312	SO:0000817 (wild_type)
+T313	SO 11734 11736	WT
+#313	AnnotatorNotes T313	SO:0000817 (wild_type)
+T314	EntrezGene 11742 11745	Plg
+#314	AnnotatorNotes T314	EG:18815
+T315	PR 11742 11745	Plg
+#315	AnnotatorNotes T315	PR:000012867 (plasminogen)
+T316	sup 11825 11827	ob
+#316	AnnotatorNotes T316	sup (null)
+T317	EntrezGene 11829 11834	PAI-1
+#317	AnnotatorNotes T317	EG:18787
+T318	PR 11829 11834	PAI-1
+#318	AnnotatorNotes T318	PR:000014702 (plasminogen activator inhibitor 1)
+T319	NCBITaxon 11838 11842	mice
+#319	AnnotatorNotes T319	NCBITaxon:10088 (Mus)
+T320	italic 11919 11920	P
+#320	AnnotatorNotes T320	italic (null)
+T321	NCBITaxon 12008 12012	mice
+#321	AnnotatorNotes T321	NCBITaxon:10088 (Mus)
+T322	italic 12092 12093	P
+#322	AnnotatorNotes T322	italic (null)
+T323	GO_BP 12248 12266	thrombus formation
+#323	AnnotatorNotes T323	GO:0007596 (blood coagulation)
+T324	NCBITaxon 12281 12285	mice
+#324	AnnotatorNotes T324	NCBITaxon:10088 (Mus)
+T325	CHEBI 12291 12296	FeCl3
+#325	AnnotatorNotes T325	CHEBI:30808 (iron trichloride)
+T326	sub 12295 12296	3
+#326	AnnotatorNotes T326	sub (null)
+T327	GO_BP 12361 12371	thrombosis
+#327	AnnotatorNotes T327	GO:0007596 (blood coagulation)
+T328	NCBITaxon 12438 12443	mouse
+#328	AnnotatorNotes T328	NCBITaxon:10088 (Mus)
+T329	GO_BP 12505 12523	thrombus occlusion
+#329	AnnotatorNotes T329	GO:0007596 (blood coagulation)
+T330	NCBITaxon 12566 12570	mice
+#330	AnnotatorNotes T330	NCBITaxon:10088 (Mus)
+T331	NCBITaxon 12614 12618	mice
+#331	AnnotatorNotes T331	NCBITaxon:10088 (Mus)
+T332	NCBITaxon 12651 12655	mice
+#332	AnnotatorNotes T332	NCBITaxon:10088 (Mus)
+T333	CHEBI 12670 12675	FeCl3
+#333	AnnotatorNotes T333	CHEBI:30808 (iron trichloride)
+T334	sub 12674 12675	3
+#334	AnnotatorNotes T334	sub (null)
+T335	NCBITaxon 12705 12709	mice
+#335	AnnotatorNotes T335	NCBITaxon:10088 (Mus)
+T336	NCBITaxon 12766 12770	mice
+#336	AnnotatorNotes T336	NCBITaxon:10088 (Mus)
+T337	GO_BP 12978 12988	blood flow
+#337	AnnotatorNotes T337	GO:0008015 (blood circulation)
+T338	CHEBI 12995 13000	FeCl3
+#338	AnnotatorNotes T338	CHEBI:30808 (iron trichloride)
+T339	sub 12999 13000	3
+#339	AnnotatorNotes T339	sub (null)
+T340	NCBITaxon 13085 13089	mice
+#340	AnnotatorNotes T340	NCBITaxon:10088 (Mus)
+T341	NCBITaxon 13119 13123	mice
+#341	AnnotatorNotes T341	NCBITaxon:10088 (Mus)
+T342	GO_BP 13128 13138	blood flow
+#342	AnnotatorNotes T342	GO:0008015 (blood circulation)
+T343	sup 13406 13407	2
+#343	AnnotatorNotes T343	sup (null)
+T344	NCBITaxon 13479 13483	mice
+#344	AnnotatorNotes T344	NCBITaxon:10088 (Mus)
+T345	NCBITaxon 13496 13500	mice
+#345	AnnotatorNotes T345	NCBITaxon:10088 (Mus)
+T346	NCBITaxon 13618 13622	mice
+#346	AnnotatorNotes T346	NCBITaxon:10088 (Mus)
+T347	NCBITaxon 13698 13702	mice
+#347	AnnotatorNotes T347	NCBITaxon:10088 (Mus)
+T348	NCBITaxon 13723 13727	mice
+#348	AnnotatorNotes T348	NCBITaxon:10088 (Mus)
+T349	bold 13740 13782	Arterial occlusion time in B6 and A/J mice
+#349	AnnotatorNotes T349	bold (null)
+T350	NCBITaxon 13778 13782	mice
+#350	AnnotatorNotes T350	NCBITaxon:10088 (Mus)
+T351	bold 13784 13798	Panels A and B
+#351	AnnotatorNotes T351	bold (null)
+T352	SO 13845 13853	genotype
+#352	AnnotatorNotes T352	SO:0001027 (genotype)
+T353	CHEBI 13887 13902	ferric chloride
+#353	AnnotatorNotes T353	CHEBI:30808 (iron trichloride)
+T354	CHEBI 13887 13893	ferric
+#354	AnnotatorNotes T354	CHEBI:29034 (iron(3+))
+T355	CHEBI 13894 13902	chloride
+#355	AnnotatorNotes T355	CHEBI:17996 (chloride)
+T356	CHEBI 13894 13902	chloride
+#356	AnnotatorNotes T356	CHEBI:23114 (chloride salts)
+T357	bold 13931 13939	Panel A:
+#357	AnnotatorNotes T357	bold (null)
+T358	NCBITaxon 13943 13947	mice
+#358	AnnotatorNotes T358	NCBITaxon:10088 (Mus)
+T359	bold 13949 13957	Panel B:
+#359	AnnotatorNotes T359	bold (null)
+T360	NCBITaxon 13962 13966	mice
+#360	AnnotatorNotes T360	NCBITaxon:10088 (Mus)
+T361	bold 13968 13976	Panel C:
+#361	AnnotatorNotes T361	bold (null)
+T362	NCBITaxon 14022 14026	mice
+#362	AnnotatorNotes T362	NCBITaxon:10088 (Mus)
+T363	SO 14031 14039	genotype
+#363	AnnotatorNotes T363	SO:0001027 (genotype)
+T364	italic 14086 14087	P
+#364	AnnotatorNotes T364	italic (null)
+T365	NCBITaxon 14107 14111	mice
+#365	AnnotatorNotes T365	NCBITaxon:10088 (Mus)
+T366	NCBITaxon 14191 14195	mice
+#366	AnnotatorNotes T366	NCBITaxon:10088 (Mus)
+T367	GO_BP 14232 14251	hemostatic activity
+#367	AnnotatorNotes T367	GO:0007599 (hemostasis)
+T368	NCBITaxon 14470 14475	mouse
+#368	AnnotatorNotes T368	NCBITaxon:10088 (Mus)
+T369	NCBITaxon 14553 14557	mice
+#369	AnnotatorNotes T369	NCBITaxon:10088 (Mus)
+T370	NCBITaxon 14573 14577	mice
+#370	AnnotatorNotes T370	NCBITaxon:10088 (Mus)
+T371	NCBITaxon 14674 14678	mice
+#371	AnnotatorNotes T371	NCBITaxon:10088 (Mus)
+T372	GO_BP 14705 14715	hemostasis
+#372	AnnotatorNotes T372	GO:0007599 (hemostasis)
+T373	sup 14720 14722	ob
+#373	AnnotatorNotes T373	sup (null)
+T374	NCBITaxon 14723 14727	mice
+#374	AnnotatorNotes T374	NCBITaxon:10088 (Mus)
+T375	GO_BP 14732 14742	thrombosis
+#375	AnnotatorNotes T375	GO:0007596 (blood coagulation)
+T376	EntrezGene 14744 14747	Plg
+#376	AnnotatorNotes T376	EG:18815
+T377	PR 14744 14747	Plg
+#377	AnnotatorNotes T377	PR:000012867 (plasminogen)
+T378	EntrezGene 14755 14758	PAI
+#378	AnnotatorNotes T378	EG:18787
+T379	PR 14755 14758	PAI
+#379	AnnotatorNotes T379	PR:000014702 (plasminogen activator inhibitor 1)
+T380	NCBITaxon 14762 14766	mice
+#380	AnnotatorNotes T380	NCBITaxon:10088 (Mus)
+T381	sup 14793 14795	ob
+#381	AnnotatorNotes T381	sup (null)
+T382	NCBITaxon 14796 14800	mice
+#382	AnnotatorNotes T382	NCBITaxon:10088 (Mus)
+T383	CL 14815 14823	platelet
+#383	AnnotatorNotes T383	CL:0000233 (platelet)
+T384	CL 14879 14887	platelet
+#384	AnnotatorNotes T384	CL:0000233 (platelet)
+T385	sup 14908 14910	ob
+#385	AnnotatorNotes T385	sup (null)
+T386	NCBITaxon 14911 14915	mice
+#386	AnnotatorNotes T386	NCBITaxon:10088 (Mus)
+T387	NCBITaxon 14996 15000	mice
+#387	AnnotatorNotes T387	NCBITaxon:10088 (Mus)
+T388	EntrezGene 15076 15079	Plg
+#388	AnnotatorNotes T388	EG:18815
+T389	PR 15076 15079	Plg
+#389	AnnotatorNotes T389	PR:000012867 (plasminogen)
+T390	NCBITaxon 15083 15087	mice
+#390	AnnotatorNotes T390	NCBITaxon:10088 (Mus)
+T391	SO 15100 15102	WT
+#391	AnnotatorNotes T391	SO:0000817 (wild_type)
+T392	NCBITaxon 15103 15107	mice
+#392	AnnotatorNotes T392	NCBITaxon:10088 (Mus)
+T393	EntrezGene 15156 15161	PAI-1
+#393	AnnotatorNotes T393	EG:18787
+T394	PR 15156 15161	PAI-1
+#394	AnnotatorNotes T394	PR:000014702 (plasminogen activator inhibitor 1)
+T395	NCBITaxon 15165 15169	mice
+#395	AnnotatorNotes T395	NCBITaxon:10088 (Mus)
+T396	NCBITaxon 15185 15189	mice
+#396	AnnotatorNotes T396	NCBITaxon:10088 (Mus)
+T397	sup 15213 15215	ob
+#397	AnnotatorNotes T397	sup (null)
+T398	NCBITaxon 15216 15220	mice
+#398	AnnotatorNotes T398	NCBITaxon:10088 (Mus)
+T399	CL 15228 15236	platelet
+#399	AnnotatorNotes T399	CL:0000233 (platelet)
+T400	NCBITaxon 15347 15351	mice
+#400	AnnotatorNotes T400	NCBITaxon:10088 (Mus)
+T401	CL 15366 15374	platelet
+#401	AnnotatorNotes T401	CL:0000233 (platelet)
+T402	bold 15435 15479	Bleeding and rebleeding time in B6, A/J, Lep
+#402	AnnotatorNotes T402	bold (null)
+T403	sup 15479 15481	ob
+#403	AnnotatorNotes T403	sup (null)
+T404	bold 15481 15507	, Plg-/- and PAI-1-/- mice
+#404	AnnotatorNotes T404	bold (null)
+T405	EntrezGene 15483 15486	Plg
+#405	AnnotatorNotes T405	EG:18815
+T406	PR 15483 15486	Plg
+#406	AnnotatorNotes T406	PR:000012867 (plasminogen)
+T407	EntrezGene 15494 15499	PAI-1
+#407	AnnotatorNotes T407	EG:18787
+T408	PR 15494 15499	PAI-1
+#408	AnnotatorNotes T408	PR:000014702 (plasminogen activator inhibitor 1)
+T409	NCBITaxon 15503 15507	mice
+#409	AnnotatorNotes T409	NCBITaxon:10088 (Mus)
+T410	bold 15509 15520	Panel A, B:
+#410	AnnotatorNotes T410	bold (null)
+T411	bold 15549 15560	Panel C, D:
+#411	AnnotatorNotes T411	bold (null)
+T412	SO 15658 15660	WT
+#412	AnnotatorNotes T412	SO:0000817 (wild_type)
+T413	EntrezGene 15665 15668	Plg
+#413	AnnotatorNotes T413	EG:18815
+T414	PR 15665 15668	Plg
+#414	AnnotatorNotes T414	PR:000012867 (plasminogen)
+T415	EntrezGene 15733 15738	PAI-1
+#415	AnnotatorNotes T415	EG:18787
+T416	PR 15733 15738	PAI-1
+#416	AnnotatorNotes T416	PR:000014702 (plasminogen activator inhibitor 1)
+T417	sup 15749 15751	ob
+#417	AnnotatorNotes T417	sup (null)
+T418	italic 15859 15860	P
+#418	AnnotatorNotes T418	italic (null)
+T419	italic 15871 15872	P
+#419	AnnotatorNotes T419	italic (null)
+T420	italic 15884 15885	P
+#420	AnnotatorNotes T420	italic (null)
+T421	SO 15909 15911	WT
+#421	AnnotatorNotes T421	SO:0000817 (wild_type)
+T422	NCBITaxon 15912 15916	mice
+#422	AnnotatorNotes T422	NCBITaxon:10088 (Mus)
+T423	NCBITaxon 15953 15957	mice
+#423	AnnotatorNotes T423	NCBITaxon:10088 (Mus)
+T424	SO 15962 15970	genotype
+#424	AnnotatorNotes T424	SO:0001027 (genotype)
+T425	italic 16196 16197	P
+#425	AnnotatorNotes T425	italic (null)
+T426	NCBITaxon 16207 16211	mice
+#426	AnnotatorNotes T426	NCBITaxon:10088 (Mus)
+T427	NCBITaxon 16224 16228	mice
+#427	AnnotatorNotes T427	NCBITaxon:10088 (Mus)
+T428	sup 16298 16300	ob
+#428	AnnotatorNotes T428	sup (null)
+T429	NCBITaxon 16301 16305	mice
+#429	AnnotatorNotes T429	NCBITaxon:10088 (Mus)
+T430	NCBITaxon 16318 16322	mice
+#430	AnnotatorNotes T430	NCBITaxon:10088 (Mus)
+T431	GO_BP 16360 16372	fibrinolytic
+#431	AnnotatorNotes T431	GO:0042730 (fibrinolysis)
+T432	EntrezGene 16408 16411	Plg
+#432	AnnotatorNotes T432	EG:18815
+T433	PR 16408 16411	Plg
+#433	AnnotatorNotes T433	PR:000012867 (plasminogen)
+T434	EntrezGene 16419 16424	PAI-1
+#434	AnnotatorNotes T434	EG:18787
+T435	PR 16419 16424	PAI-1
+#435	AnnotatorNotes T435	PR:000014702 (plasminogen activator inhibitor 1)
+T436	NCBITaxon 16428 16432	mice
+#436	AnnotatorNotes T436	NCBITaxon:10088 (Mus)
+T437	EntrezGene 16500 16503	Plg
+#437	AnnotatorNotes T437	EG:18815
+T438	PR 16500 16503	Plg
+#438	AnnotatorNotes T438	PR:000012867 (plasminogen)
+T439	NCBITaxon 16507 16511	mice
+#439	AnnotatorNotes T439	NCBITaxon:10088 (Mus)
+T440	SO 16524 16526	WT
+#440	AnnotatorNotes T440	SO:0000817 (wild_type)
+T441	EntrezGene 16544 16549	PAI-1
+#441	AnnotatorNotes T441	EG:18787
+T442	PR 16544 16549	PAI-1
+#442	AnnotatorNotes T442	PR:000014702 (plasminogen activator inhibitor 1)
+T443	NCBITaxon 16553 16557	mice
+#443	AnnotatorNotes T443	NCBITaxon:10088 (Mus)
+T444	italic 16579 16580	P
+#444	AnnotatorNotes T444	italic (null)
+T445	NCBITaxon 16655 16659	mice
+#445	AnnotatorNotes T445	NCBITaxon:10088 (Mus)
+T446	EntrezGene 16672 16675	Plg
+#446	AnnotatorNotes T446	EG:18815
+T447	PR 16672 16675	Plg
+#447	AnnotatorNotes T447	PR:000012867 (plasminogen)
+T448	EntrezGene 16751 16756	PAI-1
+#448	AnnotatorNotes T448	EG:18787
+T449	PR 16751 16756	PAI-1
+#449	AnnotatorNotes T449	PR:000014702 (plasminogen activator inhibitor 1)
+T450	GO_BP 16879 16889	regulation
+#450	AnnotatorNotes T450	GO:0065007 (biological regulation)
+T451	EntrezGene 16897 16900	Plg
+#451	AnnotatorNotes T451	EG:18815
+T452	PR 16897 16900	Plg
+#452	AnnotatorNotes T452	PR:000012867 (plasminogen)
+T453	GO_BP 16928 16945	blood coagulation
+#453	AnnotatorNotes T453	GO:0007596 (blood coagulation)
+T454	NCBITaxon 16965 16969	mice
+#454	AnnotatorNotes T454	NCBITaxon:10088 (Mus)
+T455	GO_BP 17002 17013	coagulation
+#455	AnnotatorNotes T455	GO:0050817 (coagulation)
+T456	EntrezGene 17080 17091	prothrombin
+#456	AnnotatorNotes T456	EG:14061
+T457	PR 17080 17091	prothrombin
+#457	AnnotatorNotes T457	PR:000007299 (prothrombin)
+T458	GO_BP 17193 17222	extrinsic coagulation pathway
+#458	AnnotatorNotes T458	GO:0007598 (blood coagulation, extrinsic pathway)
+T459	GO_MF 17238 17248	Factor VII
+#459	AnnotatorNotes T459	GO:0003802 (coagulation factor VIIa activity)
+T460	PR 17238 17248	Factor VII
+#460	AnnotatorNotes T460	PR:000007301 (coagulation factor VII)
+T461	independent_continuant 17238 17248	Factor VII
+#461	AnnotatorNotes T461	independent_continuant
+T462	PR 17252 17265	tissue factor
+#462	AnnotatorNotes T462	PR:000001940 (tissue factor)
+T463	GO_BP 17321 17346	activation of Factors XII
+#463	AnnotatorNotes T463	GO:0002542 (Factor XII activation)
+T464	PR 17335 17363	Factors XII, XI, IX and VIII
+#464	AnnotatorNotes T464	"Factors .. VIII" PR:000007302 (coagulation factor VIII)
+T465	GO_MF 17335 17354	Factors XII, XI, IX
+#465	AnnotatorNotes T465	"Factors .. IX" GO:0003803 (coagulation factor IXa activity)
+T466	independent_continuant 17335 17354	Factors XII, XI, IX
+#466	AnnotatorNotes T466	"Factors .. IX" independent_continuant
+T467	PR 17335 17354	Factors XII, XI, IX
+#467	AnnotatorNotes T467	"Factors .. IX" PR:000007303 (coagulation factor IX)
+T468	GO_MF 17335 17350	Factors XII, XI
+#468	AnnotatorNotes T468	"Factors .. XI" GO:0003805 (coagulation factor XIa activity)
+T469	independent_continuant 17335 17350	Factors XII, XI
+#469	AnnotatorNotes T469	"Factors .. XI" independent_continuant
+T470	PR 17335 17350	Factors XII, XI
+#470	AnnotatorNotes T470	"Factors .. XI" PR:000007295 (coagulation factor XI)
+T471	independent_continuant 17335 17346	Factors XII
+#471	AnnotatorNotes T471	independent_continuant
+T472	GO_MF 17335 17346	Factors XII
+#472	AnnotatorNotes T472	GO:0003806 (coagulation factor XIIa activity)
+T473	PR 17335 17346	Factors XII
+#473	AnnotatorNotes T473	PR:000007296 (coagulation factor XII)
+T474	GO_MF 17405 17413	Factor X
+#474	AnnotatorNotes T474	GO:0003804 (coagulation factor Xa activity)
+T475	independent_continuant 17405 17413	Factor X
+#475	AnnotatorNotes T475	independent_continuant
+T476	PR 17405 17413	Factor X
+#476	AnnotatorNotes T476	PR:000007294 (coagulation factor X)
+T477	GO_MF 17461 17469	thrombin
+#477	AnnotatorNotes T477	GO:0003809 (thrombin activity)
+T478	independent_continuant 17461 17469	thrombin
+#478	AnnotatorNotes T478	independent_continuant
+T479	GO_BP 17470 17480	generation
+#479	AnnotatorNotes T479	GO:0009058 (biosynthetic process)
+T480	GO_BP 17492 17506	clot formation
+#480	AnnotatorNotes T480	GO:0050817 (coagulation)
+T481	NCBITaxon 17552 17556	mice
+#481	AnnotatorNotes T481	NCBITaxon:10088 (Mus)
+T482	NCBITaxon 17603 17608	mouse
+#482	AnnotatorNotes T482	NCBITaxon:10088 (Mus)
+T483	GO_BP 17659 17678	coagulation pathway
+#483	AnnotatorNotes T483	GO:0050817 (coagulation)
+T484	GO_BP 17733 17744	Coagulation
+#484	AnnotatorNotes T484	GO:0050817 (coagulation)
+T485	EntrezGene 17749 17760	Plasminogen
+#485	AnnotatorNotes T485	EG:18815
+T486	PR 17749 17760	Plasminogen
+#486	AnnotatorNotes T486	PR:000012867 (plasminogen)
+T487	NCBITaxon 17800 17805	mouse
+#487	AnnotatorNotes T487	NCBITaxon:10088 (Mus)
+T488	italic 17843 17844	P
+#488	AnnotatorNotes T488	italic (null)
+T489	italic 17855 17856	P
+#489	AnnotatorNotes T489	italic (null)
+T490	EntrezGene 17875 17878	Plg
+#490	AnnotatorNotes T490	EG:18815
+T491	PR 17875 17878	Plg
+#491	AnnotatorNotes T491	PR:000012867 (plasminogen)
+T492	EntrezGene 17883 17888	PAI-1
+#492	AnnotatorNotes T492	EG:18787
+T493	PR 17883 17888	PAI-1
+#493	AnnotatorNotes T493	PR:000014702 (plasminogen activator inhibitor 1)
+T494	NCBITaxon 17911 17915	mice
+#494	AnnotatorNotes T494	NCBITaxon:10088 (Mus)
+T495	EntrezGene 17917 17920	Plg
+#495	AnnotatorNotes T495	EG:18815
+T496	PR 17917 17920	Plg
+#496	AnnotatorNotes T496	PR:000012867 (plasminogen)
+T497	NCBITaxon 17961 17965	mice
+#497	AnnotatorNotes T497	NCBITaxon:10088 (Mus)
+T498	NCBITaxon 17977 17981	mice
+#498	AnnotatorNotes T498	NCBITaxon:10088 (Mus)
+T499	GO_BP 17996 18017	fibrinolytic activity
+#499	AnnotatorNotes T499	GO:0042730 (fibrinolysis)
+T500	EntrezGene 18019 18024	PAI-1
+#500	AnnotatorNotes T500	EG:18787
+T501	PR 18019 18024	PAI-1
+#501	AnnotatorNotes T501	PR:000014702 (plasminogen activator inhibitor 1)
+T502	EntrezGene 18039 18053	α2-anitplasmin
+#502	AnnotatorNotes T502	EG:18816
+T503	PR 18039 18053	α2-anitplasmin
+#503	AnnotatorNotes T503	PR:000014706 (alpha-2-antiplasmin)
+T504	sub 18040 18041	2
+#504	AnnotatorNotes T504	sub (null)
+T505	GO_MF 18042 18053	anitplasmin
+#505	AnnotatorNotes T505	GO:0030568 (plasmin inhibitor activity)
+T506	independent_continuant 18042 18053	anitplasmin
+#506	AnnotatorNotes T506	independent_continuant
+T507	NCBITaxon 18085 18089	mice
+#507	AnnotatorNotes T507	NCBITaxon:10088 (Mus)
+T508	NCBITaxon 18114 18118	mice
+#508	AnnotatorNotes T508	NCBITaxon:10088 (Mus)
+T509	GO_CC 18200 18210	fibrinogen
+#509	AnnotatorNotes T509	GO:0005577 (fibrinogen complex)
+T510	NCBITaxon 18237 18241	mice
+#510	AnnotatorNotes T510	NCBITaxon:10088 (Mus)
+T511	CHEBI 18275 18282	protein
+#511	AnnotatorNotes T511	CHEBI:36080 (proteins)
+T512	EntrezGene 18304 18307	Plg
+#512	AnnotatorNotes T512	EG:18815
+T513	PR 18304 18307	Plg
+#513	AnnotatorNotes T513	PR:000012867 (plasminogen)
+T514	NCBITaxon 18321 18325	mice
+#514	AnnotatorNotes T514	NCBITaxon:10088 (Mus)
+T515	NCBITaxon 18358 18362	mice
+#515	AnnotatorNotes T515	NCBITaxon:10088 (Mus)
+T516	GO_BP 18433 18443	denaturing
+#516	AnnotatorNotes T516	GO:0030164 (protein denaturation)
+T517	EntrezGene 18501 18504	Plg
+#517	AnnotatorNotes T517	EG:18815
+T518	PR 18501 18504	Plg
+#518	AnnotatorNotes T518	PR:000012867 (plasminogen)
+T519	CHEBI 18596 18599	SDS
+#519	AnnotatorNotes T519	CHEBI:8984 (sodium dodecyl sulfate)
+T520	NCBITaxon 18676 18680	mice
+#520	AnnotatorNotes T520	NCBITaxon:10088 (Mus)
+T521	NCBITaxon 18761 18765	mice
+#521	AnnotatorNotes T521	NCBITaxon:10088 (Mus)
+T522	NCBITaxon 18782 18786	mice
+#522	AnnotatorNotes T522	NCBITaxon:10088 (Mus)
+T523	EntrezGene 18895 18898	Plg
+#523	AnnotatorNotes T523	EG:18815
+T524	PR 18895 18898	Plg
+#524	AnnotatorNotes T524	PR:000012867 (plasminogen)
+T525	NCBITaxon 18922 18926	mice
+#525	AnnotatorNotes T525	NCBITaxon:10088 (Mus)
+T526	NCBITaxon 18962 18966	mice
+#526	AnnotatorNotes T526	NCBITaxon:10088 (Mus)
+T527	EntrezGene 19112 19115	Plg
+#527	AnnotatorNotes T527	EG:18815
+T528	PR 19112 19115	Plg
+#528	AnnotatorNotes T528	PR:000012867 (plasminogen)
+T529	NCBITaxon 19127 19132	mouse
+#529	AnnotatorNotes T529	NCBITaxon:10088 (Mus)
+T530	NCBITaxon 19191 19195	mice
+#530	AnnotatorNotes T530	NCBITaxon:10088 (Mus)
+T531	NCBITaxon 19344 19348	mice
+#531	AnnotatorNotes T531	NCBITaxon:10088 (Mus)
+T532	GO_CC 19704 19712	collagen
+#532	AnnotatorNotes T532	GO:0005581 (collagen)
+T533	CL 19724 19732	platelet
+#533	AnnotatorNotes T533	CL:0000233 (platelet)
+T534	GO_BP 19733 19741	adhesive
+#534	AnnotatorNotes T534	GO:0022610 (biological adhesion)
+T535	GO_BP 19771 19789	thrombus formation
+#535	AnnotatorNotes T535	GO:0007596 (blood coagulation)
+T536	GO_CC 19791 19799	Collagen
+#536	AnnotatorNotes T536	GO:0005581 (collagen)
+T537	GO_CC 19903 19911	collagen
+#537	AnnotatorNotes T537	GO:0005581 (collagen)
+T538	NCBITaxon 19947 19951	mice
+#538	AnnotatorNotes T538	NCBITaxon:10088 (Mus)
+T539	GO_CC 19964 19972	Collagen
+#539	AnnotatorNotes T539	GO:0005581 (collagen)
+T540	NCBITaxon 20013 20017	mice
+#540	AnnotatorNotes T540	NCBITaxon:10088 (Mus)
+T541	NCBITaxon 20055 20059	mice
+#541	AnnotatorNotes T541	NCBITaxon:10088 (Mus)
+T542	bold 20089 20117	Tail morphology and collagen
+#542	AnnotatorNotes T542	bold (null)
+T543	GO_CC 20109 20117	collagen
+#543	AnnotatorNotes T543	GO:0005581 (collagen)
+T544	bold 20225 20233	Panel A:
+#544	AnnotatorNotes T544	bold (null)
+T545	NCBITaxon 20309 20313	mice
+#545	AnnotatorNotes T545	NCBITaxon:10088 (Mus)
+T546	bold 20315 20323	Panel B:
+#546	AnnotatorNotes T546	bold (null)
+T547	NCBITaxon 20396 20400	mice
+#547	AnnotatorNotes T547	NCBITaxon:10088 (Mus)
+T548	GO_CC 20432 20440	collagen
+#548	AnnotatorNotes T548	GO:0005581 (collagen)
+T549	bold 20442 20450	Panel C:
+#549	AnnotatorNotes T549	bold (null)
+T550	GO_CC 20473 20481	collagen
+#550	AnnotatorNotes T550	GO:0005581 (collagen)
+T551	NCBITaxon 20640 20645	mouse
+#551	AnnotatorNotes T551	NCBITaxon:10088 (Mus)
+T552	NCBITaxon 20680 20684	mice
+#552	AnnotatorNotes T552	NCBITaxon:10088 (Mus)
+T553	SO 20689 20697	genotype
+#553	AnnotatorNotes T553	SO:0001027 (genotype)
+T554	italic 20743 20744	P
+#554	AnnotatorNotes T554	italic (null)
+T555	NCBITaxon 20764 20768	mice
+#555	AnnotatorNotes T555	NCBITaxon:10088 (Mus)
+T556	GO_CC 20829 20840	chromosomes
+#556	AnnotatorNotes T556	GO:0005694 (chromosome)
+T557	SO 20829 20840	chromosomes
+#557	AnnotatorNotes T557	SO:0000340 (chromosome)
+T558	SO 20846 20849	QTL
+#558	AnnotatorNotes T558	SO:0000771 (QTL)
+T559	GO_BP 20940 20950	hemostasis
+#559	AnnotatorNotes T559	GO:0007599 (hemostasis)
+T560	GO_BP 20955 20965	thrombosis
+#560	AnnotatorNotes T560	GO:0007596 (blood coagulation)
+T561	NCBITaxon 21044 21048	mice
+#561	AnnotatorNotes T561	NCBITaxon:10088 (Mus)
+T562	sup 21122 21125	A/J
+#562	AnnotatorNotes T562	sup (null)
+T563	italic 21138 21139	P
+#563	AnnotatorNotes T563	italic (null)
+T564	NCBITaxon 21213 21217	mice
+#564	AnnotatorNotes T564	NCBITaxon:10088 (Mus)
+T565	NCBITaxon 21385 21389	mice
+#565	AnnotatorNotes T565	NCBITaxon:10088 (Mus)
+T566	NCBITaxon 21409 21413	mice
+#566	AnnotatorNotes T566	NCBITaxon:10088 (Mus)
+T567	sup 21439 21442	A/J
+#567	AnnotatorNotes T567	sup (null)
+T568	sup 21464 21467	A/J
+#568	AnnotatorNotes T568	sup (null)
+T569	italic 21497 21498	P
+#569	AnnotatorNotes T569	italic (null)
+T570	NCBITaxon 21551 21555	mice
+#570	AnnotatorNotes T570	NCBITaxon:10088 (Mus)
+T571	NCBITaxon 21597 21601	mice
+#571	AnnotatorNotes T571	NCBITaxon:10088 (Mus)
+T572	sup 21626 21629	A/J
+#572	AnnotatorNotes T572	sup (null)
+T573	italic 21666 21667	P
+#573	AnnotatorNotes T573	italic (null)
+T574	NCBITaxon 21743 21747	mice
+#574	AnnotatorNotes T574	NCBITaxon:10088 (Mus)
+T575	NCBITaxon 21858 21862	mice
+#575	AnnotatorNotes T575	NCBITaxon:10088 (Mus)
+T576	NCBITaxon 21920 21924	mice
+#576	AnnotatorNotes T576	NCBITaxon:10088 (Mus)
+T577	bold 21960 21999	Bleeding and rebleeding time in the CSS
+#577	AnnotatorNotes T577	bold (null)
+T578	bold 22001 22009	Panel A:
+#578	AnnotatorNotes T578	bold (null)
+T579	bold 22035 22043	Panel B:
+#579	AnnotatorNotes T579	bold (null)
+T580	NCBITaxon 22103 22107	mice
+#580	AnnotatorNotes T580	NCBITaxon:10088 (Mus)
+T581	NCBITaxon 22144 22148	mice
+#581	AnnotatorNotes T581	NCBITaxon:10088 (Mus)
+T582	italic 22258 22259	P
+#582	AnnotatorNotes T582	italic (null)
+T583	italic 22332 22333	P
+#583	AnnotatorNotes T583	italic (null)
+T584	NCBITaxon 22434 22438	mice
+#584	AnnotatorNotes T584	NCBITaxon:10088 (Mus)
+T585	NCBITaxon 22465 22469	mice
+#585	AnnotatorNotes T585	NCBITaxon:10088 (Mus)
+T586	GO_BP 22473 22480	produce
+#586	AnnotatorNotes T586	GO:0000003 (reproduction)
+T587	NCBITaxon 22493 22497	mice
+#587	AnnotatorNotes T587	NCBITaxon:10088 (Mus)
+T588	NCBITaxon 22618 22622	mice
+#588	AnnotatorNotes T588	NCBITaxon:10088 (Mus)
+T589	NCBITaxon 22666 22670	mice
+#589	AnnotatorNotes T589	NCBITaxon:10088 (Mus)
+T590	sup 22771 22774	A/J
+#590	AnnotatorNotes T590	sup (null)
+T591	sup 22785 22788	A/J
+#591	AnnotatorNotes T591	sup (null)
+T592	GO_CC 22934 22945	chromosomes
+#592	AnnotatorNotes T592	GO:0005694 (chromosome)
+T593	SO 22934 22945	chromosomes
+#593	AnnotatorNotes T593	SO:0000340 (chromosome)
+T594	GO_CC 23072 23083	chromosomes
+#594	AnnotatorNotes T594	GO:0005694 (chromosome)
+T595	SO 23072 23083	chromosomes
+#595	AnnotatorNotes T595	SO:0000340 (chromosome)
+T596	bold 23138 23189	Bleeding and rebleeding time in the CSS backcrosses
+#596	AnnotatorNotes T596	bold (null)
+T597	bold 23191 23199	Panel A:
+#597	AnnotatorNotes T597	bold (null)
+T598	bold 23228 23236	Panel B:
+#598	AnnotatorNotes T598	bold (null)
+T599	NCBITaxon 23290 23294	mice
+#599	AnnotatorNotes T599	NCBITaxon:10088 (Mus)
+T600	NCBITaxon 23363 23367	mice
+#600	AnnotatorNotes T600	NCBITaxon:10088 (Mus)
+T601	GO_CC 23372 23383	chromosomes
+#601	AnnotatorNotes T601	GO:0005694 (chromosome)
+T602	SO 23372 23383	chromosomes
+#602	AnnotatorNotes T602	SO:0000340 (chromosome)
+T603	NCBITaxon 23435 23439	mice
+#603	AnnotatorNotes T603	NCBITaxon:10088 (Mus)
+T604	NCBITaxon 23476 23480	mice
+#604	AnnotatorNotes T604	NCBITaxon:10088 (Mus)
+T605	italic 23594 23595	P
+#605	AnnotatorNotes T605	italic (null)
+T606	italic 23667 23668	P
+#606	AnnotatorNotes T606	italic (null)
+T607	EntrezGene 23702 23707	PAI-1
+#607	AnnotatorNotes T607	EG:18787
+T608	PR 23702 23707	PAI-1
+#608	AnnotatorNotes T608	PR:000014702 (plasminogen activator inhibitor 1)
+T609	EntrezGene 23748 23751	Plg
+#609	AnnotatorNotes T609	EG:18815
+T610	PR 23748 23751	Plg
+#610	AnnotatorNotes T610	PR:000012867 (plasminogen)
+T611	GO_CC 23769 23780	chromosomes
+#611	AnnotatorNotes T611	GO:0005694 (chromosome)
+T612	SO 23769 23780	chromosomes
+#612	AnnotatorNotes T612	SO:0000340 (chromosome)
+T613	EntrezGene 23788 23793	PAI-1
+#613	AnnotatorNotes T613	EG:18787
+T614	PR 23788 23793	PAI-1
+#614	AnnotatorNotes T614	PR:000014702 (plasminogen activator inhibitor 1)
+T615	EntrezGene 23804 23818	α2-antiplasmin
+#615	AnnotatorNotes T615	EG:18816
+T616	PR 23804 23818	α2-antiplasmin
+#616	AnnotatorNotes T616	PR:000014706 (alpha-2-antiplasmin)
+T617	sub 23805 23806	2
+#617	AnnotatorNotes T617	sub (null)
+T618	independent_continuant 23807 23818	antiplasmin
+#618	AnnotatorNotes T618	independent_continuant
+T619	GO_MF 23807 23818	antiplasmin
+#619	AnnotatorNotes T619	GO:0030568 (plasmin inhibitor activity)
+T620	EntrezGene 23833 23836	Plg
+#620	AnnotatorNotes T620	EG:18815
+T621	NCBITaxon 23871 23875	mice
+#621	AnnotatorNotes T621	NCBITaxon:10088 (Mus)
+T622	EntrezGene 23890 23893	Plg
+#622	AnnotatorNotes T622	EG:18815
+T623	PR 23890 23893	Plg
+#623	AnnotatorNotes T623	PR:000012867 (plasminogen)
+T624	GO_BP 23903 23924	fibrinolytic activity
+#624	AnnotatorNotes T624	GO:0042730 (fibrinolysis)
+T625	EntrezGene 23926 23940	α2-antiplasmin
+#625	AnnotatorNotes T625	EG:18816
+T626	PR 23926 23940	α2-antiplasmin
+#626	AnnotatorNotes T626	PR:000014706 (alpha-2-antiplasmin)
+T627	sub 23927 23928	2
+#627	AnnotatorNotes T627	sub (null)
+T628	independent_continuant 23929 23940	antiplasmin
+#628	AnnotatorNotes T628	independent_continuant
+T629	GO_MF 23929 23940	antiplasmin
+#629	AnnotatorNotes T629	GO:0030568 (plasmin inhibitor activity)
+T630	EntrezGene 23942 23947	PAI-1
+#630	AnnotatorNotes T630	EG:18787
+T631	PR 23942 23947	PAI-1
+#631	AnnotatorNotes T631	PR:000014702 (plasminogen activator inhibitor 1)
+T632	GO_CC 23961 23971	fibrinogen
+#632	AnnotatorNotes T632	GO:0005577 (fibrinogen complex)
+T633	NCBITaxon 23992 23996	mice
+#633	AnnotatorNotes T633	NCBITaxon:10088 (Mus)
+T634	NCBITaxon 24008 24012	mice
+#634	AnnotatorNotes T634	NCBITaxon:10088 (Mus)
+T635	EntrezGene 24018 24021	Plg
+#635	AnnotatorNotes T635	EG:18815
+T636	PR 24018 24021	Plg
+#636	AnnotatorNotes T636	PR:000012867 (plasminogen)
+T637	italic 24054 24055	P
+#637	AnnotatorNotes T637	italic (null)
+T638	NCBITaxon 24117 24121	mice
+#638	AnnotatorNotes T638	NCBITaxon:10088 (Mus)
+T639	EntrezGene 24157 24160	Plg
+#639	AnnotatorNotes T639	EG:18815
+T640	PR 24157 24160	Plg
+#640	AnnotatorNotes T640	PR:000012867 (plasminogen)
+T641	NCBITaxon 24202 24206	mice
+#641	AnnotatorNotes T641	NCBITaxon:10088 (Mus)
+T642	GO_BP 24208 24229	Fibrinolytic activity
+#642	AnnotatorNotes T642	GO:0042730 (fibrinolysis)
+T643	NCBITaxon 24298 24302	mice
+#643	AnnotatorNotes T643	NCBITaxon:10088 (Mus)
+T644	EntrezGene 24304 24318	α2-antiplasmin
+#644	AnnotatorNotes T644	EG:18816
+T645	PR 24304 24318	α2-antiplasmin
+#645	AnnotatorNotes T645	PR:000014706 (alpha-2-antiplasmin)
+T646	sub 24305 24306	2
+#646	AnnotatorNotes T646	sub (null)
+T647	independent_continuant 24307 24318	antiplasmin
+#647	AnnotatorNotes T647	independent_continuant
+T648	GO_MF 24307 24318	antiplasmin
+#648	AnnotatorNotes T648	GO:0030568 (plasmin inhibitor activity)
+T649	italic 24338 24339	P
+#649	AnnotatorNotes T649	italic (null)
+T650	NCBITaxon 24367 24371	mice
+#650	AnnotatorNotes T650	NCBITaxon:10088 (Mus)
+T651	italic 24411 24412	P
+#651	AnnotatorNotes T651	italic (null)
+T652	NCBITaxon 24502 24506	mice
+#652	AnnotatorNotes T652	NCBITaxon:10088 (Mus)
+T653	NCBITaxon 24526 24530	mice
+#653	AnnotatorNotes T653	NCBITaxon:10088 (Mus)
+T654	EntrezGene 24533 24538	PAI-1
+#654	AnnotatorNotes T654	EG:18787
+T655	PR 24533 24538	PAI-1
+#655	AnnotatorNotes T655	PR:000014702 (plasminogen activator inhibitor 1)
+T656	EntrezGene 24788 24793	PAI-1
+#656	AnnotatorNotes T656	EG:18787
+T657	PR 24788 24793	PAI-1
+#657	AnnotatorNotes T657	PR:000014702 (plasminogen activator inhibitor 1)
+T658	NCBITaxon 24822 24826	mice
+#658	AnnotatorNotes T658	NCBITaxon:10088 (Mus)
+T659	EntrezGene 24840 24845	PAI-1
+#659	AnnotatorNotes T659	EG:18787
+T660	PR 24840 24845	PAI-1
+#660	AnnotatorNotes T660	PR:000014702 (plasminogen activator inhibitor 1)
+T661	EntrezGene 25070 25075	PAI-1
+#661	AnnotatorNotes T661	EG:18787
+T662	PR 25070 25075	PAI-1
+#662	AnnotatorNotes T662	PR:000014702 (plasminogen activator inhibitor 1)
+T663	NCBITaxon 25137 25141	mice
+#663	AnnotatorNotes T663	NCBITaxon:10088 (Mus)
+T664	EntrezGene 25196 25201	PAI-1
+#664	AnnotatorNotes T664	EG:18787
+T665	PR 25196 25201	PAI-1
+#665	AnnotatorNotes T665	PR:000014702 (plasminogen activator inhibitor 1)
+T666	EntrezGene 25275 25280	PAI-1
+#666	AnnotatorNotes T666	EG:18787
+T667	PR 25275 25280	PAI-1
+#667	AnnotatorNotes T667	PR:000014702 (plasminogen activator inhibitor 1)
+T668	NCBITaxon 25364 25368	mice
+#668	AnnotatorNotes T668	NCBITaxon:10088 (Mus)
+T669	NCBITaxon 25399 25403	mice
+#669	AnnotatorNotes T669	NCBITaxon:10088 (Mus)
+T670	bold 25416 25444	PAI-1 in the CSS backcrosses
+#670	AnnotatorNotes T670	bold (null)
+T671	EntrezGene 25416 25421	PAI-1
+#671	AnnotatorNotes T671	EG:18787
+T672	PR 25416 25421	PAI-1
+#672	AnnotatorNotes T672	PR:000014702 (plasminogen activator inhibitor 1)
+T673	bold 25446 25454	Panel A:
+#673	AnnotatorNotes T673	bold (null)
+T674	EntrezGene 25462 25467	PAI-1
+#674	AnnotatorNotes T674	EG:18787
+T675	PR 25462 25467	PAI-1
+#675	AnnotatorNotes T675	PR:000014702 (plasminogen activator inhibitor 1)
+T676	bold 25488 25496	Panel B:
+#676	AnnotatorNotes T676	bold (null)
+T677	EntrezGene 25504 25509	PAI-1
+#677	AnnotatorNotes T677	EG:18787
+T678	PR 25504 25509	PAI-1
+#678	AnnotatorNotes T678	PR:000014702 (plasminogen activator inhibitor 1)
+T679	NCBITaxon 25553 25557	mice
+#679	AnnotatorNotes T679	NCBITaxon:10088 (Mus)
+T680	NCBITaxon 25626 25630	mice
+#680	AnnotatorNotes T680	NCBITaxon:10088 (Mus)
+T681	GO_CC 25635 25646	chromosomes
+#681	AnnotatorNotes T681	GO:0005694 (chromosome)
+T682	SO 25635 25646	chromosomes
+#682	AnnotatorNotes T682	SO:0000340 (chromosome)
+T683	NCBITaxon 25698 25702	mice
+#683	AnnotatorNotes T683	NCBITaxon:10088 (Mus)
+T684	NCBITaxon 25739 25743	mice
+#684	AnnotatorNotes T684	NCBITaxon:10088 (Mus)
+T685	italic 25853 25854	P
+#685	AnnotatorNotes T685	italic (null)
+T686	italic 25926 25927	P
+#686	AnnotatorNotes T686	italic (null)
+T687	GO_BP 25970 25988	thrombus formation
+#687	AnnotatorNotes T687	GO:0007596 (blood coagulation)
+T688	CHEBI 26162 26167	FeCl3
+#688	AnnotatorNotes T688	CHEBI:30808 (iron trichloride)
+T689	sub 26166 26167	3
+#689	AnnotatorNotes T689	sub (null)
+T690	NCBITaxon 26246 26250	mice
+#690	AnnotatorNotes T690	NCBITaxon:10088 (Mus)
+T691	NCBITaxon 26348 26352	mice
+#691	AnnotatorNotes T691	NCBITaxon:10088 (Mus)
+T692	NCBITaxon 26450 26454	mice
+#692	AnnotatorNotes T692	NCBITaxon:10088 (Mus)
+T693	NCBITaxon 26474 26478	mice
+#693	AnnotatorNotes T693	NCBITaxon:10088 (Mus)
+T694	NCBITaxon 26524 26528	mice
+#694	AnnotatorNotes T694	NCBITaxon:10088 (Mus)
+T695	NCBITaxon 26589 26593	mice
+#695	AnnotatorNotes T695	NCBITaxon:10088 (Mus)
+T696	SO 26683 26688	genes
+#696	AnnotatorNotes T696	SO:0000704 (gene)
+T697	GO_CC 26692 26702	chromosome
+#697	AnnotatorNotes T697	GO:0005694 (chromosome)
+T698	SO 26692 26702	chromosome
+#698	AnnotatorNotes T698	SO:0000340 (chromosome)
+T699	bold 26764 26810	Arterial occlusion time in the CSS backcrosses
+#699	AnnotatorNotes T699	bold (null)
+T700	NCBITaxon 26857 26861	mice
+#700	AnnotatorNotes T700	NCBITaxon:10088 (Mus)
+T701	NCBITaxon 26931 26935	mice
+#701	AnnotatorNotes T701	NCBITaxon:10088 (Mus)
+T702	GO_CC 26940 26951	chromosomes
+#702	AnnotatorNotes T702	GO:0005694 (chromosome)
+T703	SO 26940 26951	chromosomes
+#703	AnnotatorNotes T703	SO:0000340 (chromosome)
+T704	NCBITaxon 27003 27007	mice
+#704	AnnotatorNotes T704	NCBITaxon:10088 (Mus)
+T705	NCBITaxon 27044 27048	mice
+#705	AnnotatorNotes T705	NCBITaxon:10088 (Mus)
+T706	italic 27158 27159	P
+#706	AnnotatorNotes T706	italic (null)
+T707	italic 27231 27232	P
+#707	AnnotatorNotes T707	italic (null)
+T708	GO_BP 27271 27281	thrombotic
+#708	AnnotatorNotes T708	GO:0007596 (blood coagulation)
+T709	NCBITaxon 27340 27344	mice
+#709	AnnotatorNotes T709	NCBITaxon:10088 (Mus)
+T710	GO_BP 27495 27512	vessel remodeling
+#710	AnnotatorNotes T710	GO:0001974 (blood vessel remodeling)
+T711	GO_BP 27615 27625	thrombotic
+#711	AnnotatorNotes T711	GO:0007596 (blood coagulation)
+T712	GO_BP 27626 27634	response
+#712	AnnotatorNotes T712	GO:0050896 (response to stimulus)
+T713	SO 27703 27707	gene
+#713	AnnotatorNotes T713	SO:0000704 (gene)
+T714	NCBITaxon 27717 27721	mice
+#714	AnnotatorNotes T714	NCBITaxon:10088 (Mus)
+T715	EntrezGene 27729 27732	Plg
+#715	AnnotatorNotes T715	EG:18815
+T716	PR 27729 27732	Plg
+#716	AnnotatorNotes T716	PR:000012867 (plasminogen)
+T717	GO_BP 27754 27766	fibrinolytic
+#717	AnnotatorNotes T717	GO:0042730 (fibrinolysis)
+T718	GO_BP 27767 27776	responses
+#718	AnnotatorNotes T718	GO:0050896 (response to stimulus)
+T719	EntrezGene 27792 27798	leptin
+#719	AnnotatorNotes T719	EG:16846
+T720	PR 27792 27798	leptin
+#720	AnnotatorNotes T720	PR:000009758 (leptin)
+T721	NCBITaxon 27809 27813	mice
+#721	AnnotatorNotes T721	NCBITaxon:10088 (Mus)
+T722	CL 27829 27837	platelet
+#722	AnnotatorNotes T722	CL:0000233 (platelet)
+T723	GO_BP 27885 27895	thrombotic
+#723	AnnotatorNotes T723	GO:0007596 (blood coagulation)
+T724	GO_BP 27896 27904	response
+#724	AnnotatorNotes T724	GO:0050896 (response to stimulus)
+T725	GO_BP 28011 28022	coagulation
+#725	AnnotatorNotes T725	GO:0050817 (coagulation)
+T726	CL 28026 28034	platelet
+#726	AnnotatorNotes T726	CL:0000233 (platelet)
+T727	GO_CC 28080 28091	chromosomes
+#727	AnnotatorNotes T727	GO:0005694 (chromosome)
+T728	SO 28080 28091	chromosomes
+#728	AnnotatorNotes T728	SO:0000340 (chromosome)
+T729	SO 28106 28111	genes
+#729	AnnotatorNotes T729	SO:0000704 (gene)
+T730	NCBITaxon 28181 28185	Mice
+#730	AnnotatorNotes T730	NCBITaxon:10088 (Mus)
+T731	GO_CC 28206 28217	chromosomes
+#731	AnnotatorNotes T731	GO:0005694 (chromosome)
+T732	SO 28206 28217	chromosomes
+#732	AnnotatorNotes T732	SO:0000340 (chromosome)
+T733	GO_CC 28255 28266	chromosomes
+#733	AnnotatorNotes T733	GO:0005694 (chromosome)
+T734	SO 28255 28266	chromosomes
+#734	AnnotatorNotes T734	SO:0000340 (chromosome)
+T735	EntrezGene 28348 28353	PAI-1
+#735	AnnotatorNotes T735	EG:18787
+T736	PR 28348 28353	PAI-1
+#736	AnnotatorNotes T736	PR:000014702 (plasminogen activator inhibitor 1)
+T737	NCBITaxon 28435 28439	mice
+#737	AnnotatorNotes T737	NCBITaxon:10088 (Mus)
+T738	GO_CC 28551 28562	chromosomes
+#738	AnnotatorNotes T738	GO:0005694 (chromosome)
+T739	SO 28551 28562	chromosomes
+#739	AnnotatorNotes T739	SO:0000340 (chromosome)
+T740	GO_CC 28707 28718	chromosomes
+#740	AnnotatorNotes T740	GO:0005694 (chromosome)
+T741	SO 28707 28718	chromosomes
+#741	AnnotatorNotes T741	SO:0000340 (chromosome)
+T742	CHEBI 28735 28740	FeCl3
+#742	AnnotatorNotes T742	CHEBI:30808 (iron trichloride)
+T743	sub 28739 28740	3
+#743	AnnotatorNotes T743	sub (null)
+T744	GO_BP 28778 28788	thrombosis
+#744	AnnotatorNotes T744	GO:0007596 (blood coagulation)
+T745	NCBITaxon 28792 28796	mice
+#745	AnnotatorNotes T745	NCBITaxon:10088 (Mus)
+T746	SO 28828 28835	genetic
+#746	AnnotatorNotes T746	SO:0000704 (gene)
+T747	CHEBI 28976 28981	FeCl3
+#747	AnnotatorNotes T747	CHEBI:30808 (iron trichloride)
+T748	sub 28980 28981	3
+#748	AnnotatorNotes T748	sub (null)
+T749	CHEBI 28996 29001	FeCl3
+#749	AnnotatorNotes T749	CHEBI:30808 (iron trichloride)
+T750	sub 29000 29001	3
+#750	AnnotatorNotes T750	sub (null)
+T751	GO_BP 29013 29031	thrombus formation
+#751	AnnotatorNotes T751	GO:0007596 (blood coagulation)
+T752	NCBITaxon 29082 29086	mice
+#752	AnnotatorNotes T752	NCBITaxon:10088 (Mus)
+T753	NCBITaxon 29106 29110	mice
+#753	AnnotatorNotes T753	NCBITaxon:10088 (Mus)
+T754	NCBITaxon 29200 29204	rats
+#754	AnnotatorNotes T754	NCBITaxon:10114 (Rattus)
+T755	GO_BP 29273 29283	blood flow
+#755	AnnotatorNotes T755	GO:0008015 (blood circulation)
+T756	NCBITaxon 29528 29532	mice
+#756	AnnotatorNotes T756	NCBITaxon:10088 (Mus)
+T757	NCBITaxon 29633 29637	mice
+#757	AnnotatorNotes T757	NCBITaxon:10088 (Mus)
+T758	GO_BP 29654 29664	blood flow
+#758	AnnotatorNotes T758	GO:0008015 (blood circulation)
+T759	sup 29732 29734	ob
+#759	AnnotatorNotes T759	sup (null)
+T760	NCBITaxon 29735 29739	mice
+#760	AnnotatorNotes T760	NCBITaxon:10088 (Mus)
+T761	CL 29759 29767	platelet
+#761	AnnotatorNotes T761	CL:0000233 (platelet)
+T762	GO_BP 29782 29793	coagulation
+#762	AnnotatorNotes T762	GO:0050817 (coagulation)
+T763	NCBITaxon 29838 29842	mice
+#763	AnnotatorNotes T763	NCBITaxon:10088 (Mus)
+T764	EntrezGene 29868 29871	Plg
+#764	AnnotatorNotes T764	EG:18815
+T765	PR 29868 29871	Plg
+#765	AnnotatorNotes T765	PR:000012867 (plasminogen)
+T766	GO_BP 29886 29904	thrombus formation
+#766	AnnotatorNotes T766	GO:0007596 (blood coagulation)
+T767	EntrezGene 29929 29932	Plg
+#767	AnnotatorNotes T767	EG:18815
+T768	PR 29929 29932	Plg
+#768	AnnotatorNotes T768	PR:000012867 (plasminogen)
+T769	NCBITaxon 29936 29940	mice
+#769	AnnotatorNotes T769	NCBITaxon:10088 (Mus)
+T770	EntrezGene 29963 29966	PAI
+#770	AnnotatorNotes T770	EG:18787
+T771	PR 29963 29966	PAI
+#771	AnnotatorNotes T771	PR:000014702 (plasminogen activator inhibitor 1)
+T772	NCBITaxon 29970 29974	mice
+#772	AnnotatorNotes T772	NCBITaxon:10088 (Mus)
+T773	GO_MF 30007 30023	plasmin activity
+#773	AnnotatorNotes T773	GO:0004283 (plasmin activity)
+T774	EntrezGene 30007 30014	plasmin
+#774	AnnotatorNotes T774	EG:18815
+T775	GO_BP 30048 30058	clot lysis
+#775	AnnotatorNotes T775	GO:0050819 (negative regulation of coagulation)
+T776	GO_BP 30064 30072	modulate
+#776	AnnotatorNotes T776	GO:0065007 (biological regulation)
+T777	GO_BP 30105 30123	thrombus formation
+#777	AnnotatorNotes T777	GO:0007596 (blood coagulation)
+T778	NCBITaxon 30179 30183	mice
+#778	AnnotatorNotes T778	NCBITaxon:10088 (Mus)
+T779	GO_BP 30230 30240	expression
+#779	AnnotatorNotes T779	GO:0010467 (gene expression)
+T780	CL 30244 30252	platelet
+#780	AnnotatorNotes T780	CL:0000233 (platelet)
+T781	GO_BP 30257 30268	coagulation
+#781	AnnotatorNotes T781	GO:0050817 (coagulation)
+T782	CHEBI 30269 30277	proteins
+#782	AnnotatorNotes T782	CHEBI:36080 (proteins)
+T783	NCBITaxon 30281 30285	mice
+#783	AnnotatorNotes T783	NCBITaxon:10088 (Mus)
+T784	italic 30294 30299	et al
+#784	AnnotatorNotes T784	italic (null)
+T785	NCBITaxon 30328 30332	mice
+#785	AnnotatorNotes T785	NCBITaxon:10088 (Mus)
+T786	NCBITaxon 30359 30363	mice
+#786	AnnotatorNotes T786	NCBITaxon:10088 (Mus)
+T787	PR 30411 30433	von Willebrand antigen
+#787	AnnotatorNotes T787	PR:000017364 (von Willebrand factor)
+T788	EntrezGene 30411 30425	von Willebrand
+#788	AnnotatorNotes T788	EG:22371
+T789	italic 30441 30446	et al
+#789	AnnotatorNotes T789	italic (null)
+T790	NCBITaxon 30462 30466	mice
+#790	AnnotatorNotes T790	NCBITaxon:10088 (Mus)
+T791	SO 30472 30476	gene
+#791	AnnotatorNotes T791	SO:0000704 (gene)
+T792	SO 30477 30486	deletions
+#792	AnnotatorNotes T792	SO:0000159 (deletion)
+T793	GO_BP 30494 30513	coagulation pathway
+#793	AnnotatorNotes T793	GO:0050817 (coagulation)
+T794	EntrezGene 30627 30632	FVIII
+#794	AnnotatorNotes T794	EG:14069
+T795	PR 30627 30632	FVIII
+#795	AnnotatorNotes T795	PR:000007302 (coagulation factor VIII)
+T796	GO_MF 30637 30640	FIX
+#796	AnnotatorNotes T796	GO:0003803 (coagulation factor IXa activity)
+T797	independent_continuant 30637 30640	FIX
+#797	AnnotatorNotes T797	independent_continuant
+T798	PR 30637 30640	FIX
+#798	AnnotatorNotes T798	PR:000007303 (coagulation factor IX)
+T799	EntrezGene 30637 30640	FIX
+#799	AnnotatorNotes T799	EG:14071
+T800	NCBITaxon 30651 30655	mice
+#800	AnnotatorNotes T800	NCBITaxon:10088 (Mus)
+T801	SO 30749 30756	genetic
+#801	AnnotatorNotes T801	SO:0000704 (gene)
+T802	GO_BP 30771 30789	thrombus formation
+#802	AnnotatorNotes T802	GO:0007596 (blood coagulation)
+T803	NCBITaxon 30805 30809	Mice
+#803	AnnotatorNotes T803	NCBITaxon:10088 (Mus)
+T804	CL 30860 30868	platelet
+#804	AnnotatorNotes T804	CL:0000233 (platelet)
+T805	CL 30879 30887	platelet
+#805	AnnotatorNotes T805	CL:0000233 (platelet)
+T806	EntrezGene 30914 30943	protease-activated receptor-4
+#806	AnnotatorNotes T806	EG:14065
+T807	PR 30914 30943	protease-activated receptor-4
+#807	AnnotatorNotes T807	PR:000001664 (proteinase-activated receptor 4)
+T808	GO_MF 30914 30941	protease-activated receptor
+#808	AnnotatorNotes T808	GO:0001648 (proteinase activated receptor activity)
+T809	independent_continuant 30914 30941	protease-activated receptor
+#809	AnnotatorNotes T809	independent_continuant
+T810	GO_MF 30914 30922	protease
+#810	AnnotatorNotes T810	GO:0008233 (peptidase activity)
+T811	independent_continuant 30914 30922	protease
+#811	AnnotatorNotes T811	independent_continuant
+T812	EntrezGene 30989 30995	leptin
+#812	AnnotatorNotes T812	EG:16846
+T813	PR 30989 30995	leptin
+#813	AnnotatorNotes T813	PR:000009758 (leptin)
+T814	CL 31020 31028	platelet
+#814	AnnotatorNotes T814	CL:0000233 (platelet)
+T815	EntrezGene 31125 31128	Plg
+#815	AnnotatorNotes T815	EG:18815
+T816	PR 31125 31128	Plg
+#816	AnnotatorNotes T816	PR:000012867 (plasminogen)
+T817	EntrezGene 31136 31139	uPA
+#817	AnnotatorNotes T817	EG:18792
+T818	PR 31136 31139	uPA
+#818	AnnotatorNotes T818	PR:000012826 (urokinase-type plasminogen activator)
+T819	NCBITaxon 31143 31147	mice
+#819	AnnotatorNotes T819	NCBITaxon:10088 (Mus)
+T820	EntrezGene 31162 31165	Plg
+#820	AnnotatorNotes T820	EG:18815
+T821	PR 31162 31165	Plg
+#821	AnnotatorNotes T821	PR:000012867 (plasminogen)
+T822	EntrezGene 31170 31173	uPA
+#822	AnnotatorNotes T822	EG:18792
+T823	PR 31170 31173	uPA
+#823	AnnotatorNotes T823	PR:000012826 (urokinase-type plasminogen activator)
+T824	CL 31200 31208	platelet
+#824	AnnotatorNotes T824	CL:0000233 (platelet)
+T825	GO_BP 31209 31217	response
+#825	AnnotatorNotes T825	GO:0050896 (response to stimulus)
+T826	GO_BP 31221 31228	promote
+#826	AnnotatorNotes T826	GO:0048518 (positive regulation of biological process)
+T827	GO_BP 31236 31254	thrombus formation
+#827	AnnotatorNotes T827	GO:0007596 (blood coagulation)
+T828	NCBITaxon 31325 31330	mouse
+#828	AnnotatorNotes T828	NCBITaxon:10088 (Mus)
+T829	SO 31348 31355	genetic
+#829	AnnotatorNotes T829	SO:0000704 (gene)
+T830	GO_BP 31375 31386	coagulation
+#830	AnnotatorNotes T830	GO:0050817 (coagulation)
+T831	NCBITaxon 31468 31472	mice
+#831	AnnotatorNotes T831	NCBITaxon:10088 (Mus)
+T832	NCBITaxon 31558 31562	mice
+#832	AnnotatorNotes T832	NCBITaxon:10088 (Mus)
+T833	EntrezGene 31578 31581	Plg
+#833	AnnotatorNotes T833	EG:18815
+T834	PR 31578 31581	Plg
+#834	AnnotatorNotes T834	PR:000012867 (plasminogen)
+T835	NCBITaxon 31585 31589	mice
+#835	AnnotatorNotes T835	NCBITaxon:10088 (Mus)
+T836	EntrezGene 31619 31624	PAI-1
+#836	AnnotatorNotes T836	EG:18787
+T837	PR 31619 31624	PAI-1
+#837	AnnotatorNotes T837	PR:000014702 (plasminogen activator inhibitor 1)
+T838	EntrezGene 31663 31666	uPA
+#838	AnnotatorNotes T838	EG:18792
+T839	PR 31663 31666	uPA
+#839	AnnotatorNotes T839	PR:000012826 (urokinase-type plasminogen activator)
+T840	NCBITaxon 31670 31674	mice
+#840	AnnotatorNotes T840	NCBITaxon:10088 (Mus)
+T841	EntrezGene 31721 31724	Plg
+#841	AnnotatorNotes T841	EG:18815
+T842	PR 31721 31724	Plg
+#842	AnnotatorNotes T842	PR:000012867 (plasminogen)
+T843	NCBITaxon 31728 31732	mice
+#843	AnnotatorNotes T843	NCBITaxon:10088 (Mus)
+T844	EntrezGene 31874 31877	Plg
+#844	AnnotatorNotes T844	EG:18815
+T845	PR 31874 31877	Plg
+#845	AnnotatorNotes T845	PR:000012867 (plasminogen)
+T846	NCBITaxon 31895 31899	mice
+#846	AnnotatorNotes T846	NCBITaxon:10088 (Mus)
+T847	italic 31909 31914	et al
+#847	AnnotatorNotes T847	italic (null)
+T848	EntrezGene 31964 31967	tPA
+#848	AnnotatorNotes T848	EG:18791
+T849	PR 31964 31967	tPA
+#849	AnnotatorNotes T849	PR:000012825 (tissue-type plasminogen activator)
+T850	EntrezGene 31972 31975	uPA
+#850	AnnotatorNotes T850	EG:18792
+T851	PR 31972 31975	uPA
+#851	AnnotatorNotes T851	PR:000012826 (urokinase-type plasminogen activator)
+T852	EntrezGene 31980 31985	PAI-1
+#852	AnnotatorNotes T852	EG:18787
+T853	PR 31980 31985	PAI-1
+#853	AnnotatorNotes T853	PR:000014702 (plasminogen activator inhibitor 1)
+T854	NCBITaxon 31989 31993	mice
+#854	AnnotatorNotes T854	NCBITaxon:10088 (Mus)
+T855	SO 32006 32008	WT
+#855	AnnotatorNotes T855	SO:0000817 (wild_type)
+T856	NCBITaxon 32009 32013	mice
+#856	AnnotatorNotes T856	NCBITaxon:10088 (Mus)
+T857	EntrezGene 32216 32219	Plg
+#857	AnnotatorNotes T857	EG:18815
+T858	PR 32216 32219	Plg
+#858	AnnotatorNotes T858	PR:000012867 (plasminogen)
+T859	NCBITaxon 32223 32227	mice
+#859	AnnotatorNotes T859	NCBITaxon:10088 (Mus)
+T860	EntrezGene 32262 32265	Plg
+#860	AnnotatorNotes T860	EG:18815
+T861	PR 32262 32265	Plg
+#861	AnnotatorNotes T861	PR:000012867 (plasminogen)
+T862	NCBITaxon 32269 32273	mice
+#862	AnnotatorNotes T862	NCBITaxon:10088 (Mus)
+T863	SO 32433 32444	genetically
+#863	AnnotatorNotes T863	SO:0000704 (gene)
+T864	SO 32509 32520	genetically
+#864	AnnotatorNotes T864	SO:0000704 (gene)
+T865	NCBITaxon 32586 32590	mice
+#865	AnnotatorNotes T865	NCBITaxon:10088 (Mus)
+T866	NCBITaxon 32699 32703	mice
+#866	AnnotatorNotes T866	NCBITaxon:10088 (Mus)
+T867	NCBITaxon 32786 32790	mice
+#867	AnnotatorNotes T867	NCBITaxon:10088 (Mus)
+T868	EntrezGene 32827 32830	Plg
+#868	AnnotatorNotes T868	EG:18815
+T869	PR 32827 32830	Plg
+#869	AnnotatorNotes T869	PR:000012867 (plasminogen)
+T870	NCBITaxon 32834 32838	mice
+#870	AnnotatorNotes T870	NCBITaxon:10088 (Mus)
+T871	NCBITaxon 32913 32917	mice
+#871	AnnotatorNotes T871	NCBITaxon:10088 (Mus)
+T872	SO 32963 32965	WT
+#872	AnnotatorNotes T872	SO:0000817 (wild_type)
+T873	EntrezGene 32983 32986	uPA
+#873	AnnotatorNotes T873	EG:18792
+T874	PR 32983 32986	uPA
+#874	AnnotatorNotes T874	PR:000012826 (urokinase-type plasminogen activator)
+T875	sup 33002 33004	ob
+#875	AnnotatorNotes T875	sup (null)
+T876	NCBITaxon 33013 33017	mice
+#876	AnnotatorNotes T876	NCBITaxon:10088 (Mus)
+T877	GO_CC 33209 33217	collagen
+#877	AnnotatorNotes T877	GO:0005581 (collagen)
+T878	NCBITaxon 33249 33253	mice
+#878	AnnotatorNotes T878	NCBITaxon:10088 (Mus)
+T879	GO_BP 33291 33346	metabolism of collagen or extracellular matrix proteins
+#879	AnnotatorNotes T879	"metabolism of .. proteins" GO:0019538 (protein metabolic process)
+T880	GO_BP 33291 33313	metabolism of collagen
+#880	AnnotatorNotes T880	GO:0032963 (collagen metabolic process)
+T881	GO_CC 33305 33313	collagen
+#881	AnnotatorNotes T881	GO:0005581 (collagen)
+T882	GO_CC 33317 33337	extracellular matrix
+#882	AnnotatorNotes T882	GO:0031012 (extracellular matrix)
+T883	GO_CC 33317 33330	extracellular
+#883	AnnotatorNotes T883	GO:0005576 (extracellular region)
+T884	CHEBI 33338 33346	proteins
+#884	AnnotatorNotes T884	CHEBI:36080 (proteins)
+T885	NCBITaxon 33428 33432	mice
+#885	AnnotatorNotes T885	NCBITaxon:10088 (Mus)
+T886	SO 33473 33478	genes
+#886	AnnotatorNotes T886	SO:0000704 (gene)
+T887	EntrezGene 33483 33486	Plg
+#887	AnnotatorNotes T887	EG:18815
+T888	PR 33483 33486	Plg
+#888	AnnotatorNotes T888	PR:000012867 (plasminogen)
+T889	EntrezGene 33488 33493	PAI-1
+#889	AnnotatorNotes T889	EG:18787
+T890	PR 33488 33493	PAI-1
+#890	AnnotatorNotes T890	PR:000014702 (plasminogen activator inhibitor 1)
+T891	EntrezGene 33499 33513	α2-antiplasmin
+#891	AnnotatorNotes T891	EG:18816
+T892	PR 33499 33513	α2-antiplasmin
+#892	AnnotatorNotes T892	PR:000014706 (alpha-2-antiplasmin)
+T893	sub 33500 33501	2
+#893	AnnotatorNotes T893	sub (null)
+T894	independent_continuant 33502 33513	antiplasmin
+#894	AnnotatorNotes T894	independent_continuant
+T895	GO_MF 33502 33513	antiplasmin
+#895	AnnotatorNotes T895	GO:0030568 (plasmin inhibitor activity)
+T896	GO_CC 33534 33545	chromosomes
+#896	AnnotatorNotes T896	GO:0005694 (chromosome)
+T897	SO 33534 33545	chromosomes
+#897	AnnotatorNotes T897	SO:0000340 (chromosome)
+T898	SO 33561 33564	QTL
+#898	AnnotatorNotes T898	SO:0000771 (QTL)
+T899	NCBITaxon 33664 33668	mice
+#899	AnnotatorNotes T899	NCBITaxon:10088 (Mus)
+T900	NCBITaxon 33831 33835	mice
+#900	AnnotatorNotes T900	NCBITaxon:10088 (Mus)
+T901	NCBITaxon 33861 33865	mice
+#901	AnnotatorNotes T901	NCBITaxon:10088 (Mus)
+T902	NCBITaxon 33875 33879	mice
+#902	AnnotatorNotes T902	NCBITaxon:10088 (Mus)
+T903	EntrezGene 33945 33948	Plg
+#903	AnnotatorNotes T903	EG:18815
+T904	PR 33945 33948	Plg
+#904	AnnotatorNotes T904	PR:000012867 (plasminogen)
+T905	EntrezGene 33950 33955	PAI-1
+#905	AnnotatorNotes T905	EG:18787
+T906	PR 33950 33955	PAI-1
+#906	AnnotatorNotes T906	PR:000014702 (plasminogen activator inhibitor 1)
+T907	EntrezGene 33961 33975	α2-antiplasmin
+#907	AnnotatorNotes T907	EG:18816
+T908	PR 33961 33975	α2-antiplasmin
+#908	AnnotatorNotes T908	PR:000014706 (alpha-2-antiplasmin)
+T909	sub 33962 33963	2
+#909	AnnotatorNotes T909	sub (null)
+T910	GO_MF 33964 33975	antiplasmin
+#910	AnnotatorNotes T910	GO:0030568 (plasmin inhibitor activity)
+T911	independent_continuant 33964 33975	antiplasmin
+#911	AnnotatorNotes T911	independent_continuant
+T912	SO 33981 33994	allelic forms
+#912	AnnotatorNotes T912	SO:0001023 (allele)
+T913	EntrezGene 34002 34011	mouse Plg
+#913	AnnotatorNotes T913	EG:18815
+T914	NCBITaxon 34002 34007	mouse
+#914	AnnotatorNotes T914	NCBITaxon:10088 (Mus)
+T915	PR 34008 34011	Plg
+#915	AnnotatorNotes T915	PR:000012867 (plasminogen)
+T916	SO 34012 34016	gene
+#916	AnnotatorNotes T916	SO:0000704 (gene)
+T917	NCBITaxon 34051 34055	mice
+#917	AnnotatorNotes T917	NCBITaxon:10088 (Mus)
+T918	EntrezGene 34062 34065	Plg
+#918	AnnotatorNotes T918	EG:18815
+T919	PR 34062 34065	Plg
+#919	AnnotatorNotes T919	PR:000012867 (plasminogen)
+T920	NCBITaxon 34101 34105	mice
+#920	AnnotatorNotes T920	NCBITaxon:10088 (Mus)
+T921	NCBITaxon 34121 34125	mice
+#921	AnnotatorNotes T921	NCBITaxon:10088 (Mus)
+T922	EntrezGene 34169 34172	Plg
+#922	AnnotatorNotes T922	EG:18815
+T923	PR 34169 34172	Plg
+#923	AnnotatorNotes T923	PR:000012867 (plasminogen)
+T924	SO 34284 34290	region
+#924	AnnotatorNotes T924	SO:0000001 (region)
+T925	GO_CC 34318 34321	Chr
+#925	AnnotatorNotes T925	GO:0005694 (chromosome)
+T926	SO 34318 34321	Chr
+#926	AnnotatorNotes T926	SO:0000340 (chromosome)
+T927	NCBITaxon 34348 34352	mice
+#927	AnnotatorNotes T927	NCBITaxon:10088 (Mus)
+T928	GO_CC 34361 34371	chromosome
+#928	AnnotatorNotes T928	GO:0005694 (chromosome)
+T929	SO 34361 34371	chromosome
+#929	AnnotatorNotes T929	SO:0000340 (chromosome)
+T930	EntrezGene 34393 34396	Plg
+#930	AnnotatorNotes T930	EG:18815
+T931	PR 34393 34396	Plg
+#931	AnnotatorNotes T931	PR:000012867 (plasminogen)
+T932	SO 34397 34401	gene
+#932	AnnotatorNotes T932	SO:0000704 (gene)
+T933	NCBITaxon 34526 34530	mice
+#933	AnnotatorNotes T933	NCBITaxon:10088 (Mus)
+T934	SO 34552 34555	QTL
+#934	AnnotatorNotes T934	SO:0000771 (QTL)
+T935	EntrezGene 34563 34566	Plg
+#935	AnnotatorNotes T935	EG:18815
+T936	PR 34563 34566	Plg
+#936	AnnotatorNotes T936	PR:000012867 (plasminogen)
+T937	SO 34578 34583	genes
+#937	AnnotatorNotes T937	SO:0000704 (gene)
+T938	GO_MF 34594 34603	proteases
+#938	AnnotatorNotes T938	GO:0008233 (peptidase activity)
+T939	independent_continuant 34594 34603	proteases
+#939	AnnotatorNotes T939	independent_continuant
+T940	CHEBI 34615 34623	proteins
+#940	AnnotatorNotes T940	CHEBI:36080 (proteins)
+T941	GO_CC 34639 34649	chromosome
+#941	AnnotatorNotes T941	GO:0005694 (chromosome)
+T942	SO 34639 34649	chromosome
+#942	AnnotatorNotes T942	SO:0000340 (chromosome)
+T943	SO 34676 34681	genes
+#943	AnnotatorNotes T943	SO:0000704 (gene)
+T944	SO 34683 34705	DNA base pair sequence
+#944	AnnotatorNotes T944	"DNA .. sequence" SO:0000352 (DNA)
+T945	SO 34687 34696	base pair
+#945	AnnotatorNotes T945	SO:0000028 (base_pair)
+T946	SO 34687 34691	base
+#946	AnnotatorNotes T946	SO:0001236 (base)
+T947	EntrezGene 34719 34724	PAI-1
+#947	AnnotatorNotes T947	EG:18787
+T948	PR 34719 34724	PAI-1
+#948	AnnotatorNotes T948	PR:000014702 (plasminogen activator inhibitor 1)
+T949	SO 34725 34729	gene
+#949	AnnotatorNotes T949	SO:0000704 (gene)
+T950	EntrezGene 34737 34751	α2-antiplasmin
+#950	AnnotatorNotes T950	EG:18816
+T951	PR 34737 34751	α2-antiplasmin
+#951	AnnotatorNotes T951	PR:000014706 (alpha-2-antiplasmin)
+T952	sub 34738 34739	2
+#952	AnnotatorNotes T952	sub (null)
+T953	GO_MF 34740 34751	antiplasmin
+#953	AnnotatorNotes T953	GO:0030568 (plasmin inhibitor activity)
+T954	independent_continuant 34740 34751	antiplasmin
+#954	AnnotatorNotes T954	independent_continuant
+T955	SO 34752 34756	gene
+#955	AnnotatorNotes T955	SO:0000704 (gene)
+T956	NCBITaxon 34771 34775	mice
+#956	AnnotatorNotes T956	NCBITaxon:10088 (Mus)
+T957	GO_BP 34815 34825	regulatory
+#957	AnnotatorNotes T957	GO:0065007 (biological regulation)
+T958	SO 34826 34831	genes
+#958	AnnotatorNotes T958	SO:0000704 (gene)
+T959	SO 34848 34861	coding region
+#959	AnnotatorNotes T959	SO:0000316 (CDS)
+T960	SO 34922 34927	genes
+#960	AnnotatorNotes T960	SO:0000704 (gene)
+T961	EntrezGene 34950 34953	Plg
+#961	AnnotatorNotes T961	EG:18815
+T962	PR 34950 34953	Plg
+#962	AnnotatorNotes T962	PR:000012867 (plasminogen)
+T963	NCBITaxon 35074 35078	mice
+#963	AnnotatorNotes T963	NCBITaxon:10088 (Mus)
+T964	GO_BP 35104 35124	thrombosis formation
+#964	AnnotatorNotes T964	GO:0007596 (blood coagulation)
+T965	CHEBI 35130 35135	FeCl3
+#965	AnnotatorNotes T965	CHEBI:30808 (iron trichloride)
+T966	sub 35134 35135	3
+#966	AnnotatorNotes T966	sub (null)
+T967	EntrezGene 35201 35212	plasminogen
+#967	AnnotatorNotes T967	EG:18815
+T968	PR 35201 35212	plasminogen
+#968	AnnotatorNotes T968	PR:000012867 (plasminogen)
+T969	GO_CC 35245 35253	collagen
+#969	AnnotatorNotes T969	GO:0005581 (collagen)
+T970	GO_CC 35272 35283	chromosomes
+#970	AnnotatorNotes T970	GO:0005694 (chromosome)
+T971	SO 35272 35283	chromosomes
+#971	AnnotatorNotes T971	SO:0000340 (chromosome)
+T972	NCBITaxon 35293 35297	mice
+#972	AnnotatorNotes T972	NCBITaxon:10088 (Mus)
+T973	SO 35323 35326	QTL
+#973	AnnotatorNotes T973	SO:0000771 (QTL)
+T974	SO 35352 35357	genes
+#974	AnnotatorNotes T974	SO:0000704 (gene)
+T975	EntrezGene 35394 35397	Plg
+#975	AnnotatorNotes T975	EG:18815
+T976	PR 35394 35397	Plg
+#976	AnnotatorNotes T976	PR:000012867 (plasminogen)
+T977	GO_BP 35410 35418	modulate
+#977	AnnotatorNotes T977	GO:0065007 (biological regulation)
+T978	NCBITaxon 35523 35527	mice
+#978	AnnotatorNotes T978	NCBITaxon:10088 (Mus)
+T979	SO 35557 35564	genetic
+#979	AnnotatorNotes T979	SO:0000704 (gene)
+T980	GO_BP 35581 35591	thrombosis
+#980	AnnotatorNotes T980	GO:0007596 (blood coagulation)
+T981	GO_BP 35596 35607	haemostasis
+#981	AnnotatorNotes T981	GO:0007599 (hemostasis)
+T982	SO 35672 35677	genes
+#982	AnnotatorNotes T982	SO:0000704 (gene)
+T983	SO 35706 35711	genes
+#983	AnnotatorNotes T983	SO:0000704 (gene)
+T984	GO_BP 35759 35769	thrombosis
+#984	AnnotatorNotes T984	GO:0007596 (blood coagulation)
+T985	GO_CC 35807 35827	extracellular matrix
+#985	AnnotatorNotes T985	GO:0031012 (extracellular matrix)
+T986	GO_CC 35807 35820	extracellular
+#986	AnnotatorNotes T986	GO:0005576 (extracellular region)
+T987	SO 35986 35993	genetic
+#987	AnnotatorNotes T987	SO:0000704 (gene)
+T988	GO_BP 36010 36020	thrombotic
+#988	AnnotatorNotes T988	GO:0007596 (blood coagulation)
+T989	GO_CC 36064 36074	chromosome
+#989	AnnotatorNotes T989	GO:0005694 (chromosome)
+T990	SO 36064 36074	chromosome
+#990	AnnotatorNotes T990	SO:0000340 (chromosome)
+T991	SO 36075 36087	substitution
+#991	AnnotatorNotes T991	SO:1000002 (substitution)
+T992	SO 36108 36111	Chr
+#992	AnnotatorNotes T992	SO:0000340 (chromosome)
+T993	sup 36113 36116	A/J
+#993	AnnotatorNotes T993	sup (null)
+T994	SO 36144 36146	WT
+#994	AnnotatorNotes T994	SO:0000817 (wild_type)
+T995	SO 36149 36158	wild-type
+#995	AnnotatorNotes T995	SO:0000817 (wild_type)
+T996	EntrezGene 36177 36180	Plg
+#996	AnnotatorNotes T996	EG:18815
+T997	PR 36177 36180	Plg
+#997	AnnotatorNotes T997	PR:000012867 (plasminogen)
+T998	EntrezGene 36183 36194	plasminogen
+#998	AnnotatorNotes T998	EG:18815
+T999	PR 36183 36194	plasminogen
+#999	AnnotatorNotes T999	PR:000012867 (plasminogen)
+T1000	EntrezGene 36196 36201	PAI-1
+#1000	AnnotatorNotes T1000	EG:18787
+T1001	PR 36196 36201	PAI-1
+#1001	AnnotatorNotes T1001	PR:000014702 (plasminogen activator inhibitor 1)
+T1002	EntrezGene 36204 36237	plasminogen activator inhibitor-1
+#1002	AnnotatorNotes T1002	EG:18787
+T1003	PR 36204 36237	plasminogen activator inhibitor-1
+#1003	AnnotatorNotes T1003	PR:000014702 (plasminogen activator inhibitor 1)
+T1004	GO_MF 36204 36225	plasminogen activator
+#1004	AnnotatorNotes T1004	GO:0008243 (plasminogen activator activity)
+T1005	independent_continuant 36204 36225	plasminogen activator
+#1005	AnnotatorNotes T1005	independent_continuant
+T1006	EntrezGene 36204 36215	plasminogen
+#1006	AnnotatorNotes T1006	EG:18815
+T1007	PR 36204 36215	plasminogen
+#1007	AnnotatorNotes T1007	PR:000012867 (plasminogen)
+T1008	EntrezGene 36239 36242	tPA
+#1008	AnnotatorNotes T1008	EG:18791
+T1009	PR 36239 36242	tPA
+#1009	AnnotatorNotes T1009	PR:000012825 (tissue-type plasminogen activator)
+T1010	EntrezGene 36245 36273	tissue plasminogen activator
+#1010	AnnotatorNotes T1010	EG:18791
+T1011	PR 36245 36273	tissue plasminogen activator
+#1011	AnnotatorNotes T1011	PR:000012825 (tissue-type plasminogen activator)
+T1012	GO_MF 36252 36273	plasminogen activator
+#1012	AnnotatorNotes T1012	GO:0008243 (plasminogen activator activity)
+T1013	independent_continuant 36252 36273	plasminogen activator
+#1013	AnnotatorNotes T1013	independent_continuant
+T1014	EntrezGene 36252 36263	plasminogen
+#1014	AnnotatorNotes T1014	EG:18815
+T1015	PR 36252 36263	plasminogen
+#1015	AnnotatorNotes T1015	PR:000012867 (plasminogen)
+T1016	EntrezGene 36275 36278	uPA
+#1016	AnnotatorNotes T1016	EG:18792
+T1017	PR 36275 36278	uPA
+#1017	AnnotatorNotes T1017	PR:000012826 (urokinase-type plasminogen activator)
+T1018	EntrezGene 36281 36312	urokinase plasminogen activator
+#1018	AnnotatorNotes T1018	EG:18792
+T1019	PR 36281 36312	urokinase plasminogen activator
+#1019	AnnotatorNotes T1019	PR:000012826 (urokinase-type plasminogen activator)
+T1020	GO_MF 36291 36312	plasminogen activator
+#1020	AnnotatorNotes T1020	GO:0008243 (plasminogen activator activity)
+T1021	independent_continuant 36291 36312	plasminogen activator
+#1021	AnnotatorNotes T1021	independent_continuant
+T1022	EntrezGene 36291 36302	plasminogen
+#1022	AnnotatorNotes T1022	EG:18815
+T1023	PR 36291 36302	plasminogen
+#1023	AnnotatorNotes T1023	PR:000012867 (plasminogen)
+T1024	SO 36348 36351	QTL
+#1024	AnnotatorNotes T1024	SO:0000771 (QTL)
+T1025	SO 36354 36378	quantitative trait locus
+#1025	AnnotatorNotes T1025	SO:0000771 (QTL)
+T1026	GO_CC 36785 36793	collagen
+#1026	AnnotatorNotes T1026	GO:0005581 (collagen)
+T1027	NCBITaxon 36828 36833	mouse
+#1027	AnnotatorNotes T1027	NCBITaxon:10088 (Mus)
+T1028	GO_BP 36834 36842	breeding
+#1028	AnnotatorNotes T1028	GO:0007618 (mating)
+T1029	GO_CC 36917 36925	collagen
+#1029	AnnotatorNotes T1029	GO:0005581 (collagen)
+T1030	GO_BP 36965 36973	breeding
+#1030	AnnotatorNotes T1030	GO:0007618 (mating)
+T1031	GO_BP 37045 37054	developed
+#1031	AnnotatorNotes T1031	GO:0000003 (reproduction)
+T1032	EntrezGene 37426 37437	plasminogen
+#1032	AnnotatorNotes T1032	EG:18815
+T1033	PR 37426 37437	plasminogen
+#1033	AnnotatorNotes T1033	PR:000012867 (plasminogen)

@@ -1,0 +1,2314 @@
+T1	NCBITaxon 44 48	Mice
+#1	AnnotatorNotes T1	NCBITaxon:10088 (Mus)
+T2	SO 92 96	Gene
+#2	AnnotatorNotes T2	SO:0000704 (gene)
+T3	NCBITaxon 106 110	Mice
+#3	AnnotatorNotes T3	NCBITaxon:10088 (Mus)
+T4	SO 211 218	genetic
+#4	AnnotatorNotes T4	SO:0000704 (gene)
+T5	SO 270 274	gene
+#5	AnnotatorNotes T5	SO:0000704 (gene)
+T6	NCBITaxon 284 288	mice
+#6	AnnotatorNotes T6	NCBITaxon:10088 (Mus)
+T7	SO 345 350	genes
+#7	AnnotatorNotes T7	SO:0000704 (gene)
+T8	NCBITaxon 428 432	mice
+#8	AnnotatorNotes T8	NCBITaxon:10088 (Mus)
+T9	GO_BP 453 463	generation
+#9	AnnotatorNotes T9	GO:0000003 (reproduction)
+T10	SO 467 471	gene
+#10	AnnotatorNotes T10	SO:0000704 (gene)
+T11	NCBITaxon 481 485	mice
+#11	AnnotatorNotes T11	NCBITaxon:10088 (Mus)
+T12	SO 538 545	genetic
+#12	AnnotatorNotes T12	SO:0000704 (gene)
+T13	SO 612 616	gene
+#13	AnnotatorNotes T13	SO:0000704 (gene)
+T14	NCBITaxon 626 630	mice
+#14	AnnotatorNotes T14	NCBITaxon:10088 (Mus)
+T15	GO_BP 671 740	expression of autoimmunity of as-yet-uncharacterised background genes
+#15	AnnotatorNotes T15	"expression .. of .. genes" GO:0010467 (gene expression)
+T16	SO 735 740	genes
+#16	AnnotatorNotes T16	SO:0000704 (gene)
+T17	NCBITaxon 773 778	mouse
+#17	AnnotatorNotes T17	NCBITaxon:10088 (Mus)
+T18	SO 794 800	genome
+#18	AnnotatorNotes T18	SO:0001026 (genome)
+T19	SO 861 865	loci
+#19	AnnotatorNotes T19	SO:0000001 (region)
+T20	NCBITaxon 896 900	mice
+#20	AnnotatorNotes T20	NCBITaxon:10088 (Mus)
+T21	GO_BP 961 969	creating
+#21	AnnotatorNotes T21	GO:0000003 (reproduction)
+T22	SO 1019 1039	Chromosome 1 segment
+#22	AnnotatorNotes T22	"Chromosome .. segment" SO:0000830 (chromosome_part)
+T23	GO_CC 1019 1029	Chromosome
+#23	AnnotatorNotes T23	GO:0005694 (chromosome)
+T24	SO 1019 1029	Chromosome
+#24	AnnotatorNotes T24	SO:0000340 (chromosome)
+T25	SO 1064 1072	interval
+#25	AnnotatorNotes T25	SO:0000001 (region)
+T26	GO_CC 1124 1131	nuclear
+#26	AnnotatorNotes T26	GO:0005634 (nucleus)
+T27	SO 1194 1198	gene
+#27	AnnotatorNotes T27	SO:0000704 (gene)
+T28	NCBITaxon 1291 1296	mouse
+#28	AnnotatorNotes T28	NCBITaxon:10088 (Mus)
+T29	SO 1321 1325	gene
+#29	AnnotatorNotes T29	SO:0000704 (gene)
+T30	SO 1354 1358	gene
+#30	AnnotatorNotes T30	SO:0000704 (gene)
+T31	SO 1448 1452	gene
+#31	AnnotatorNotes T31	SO:0000704 (gene)
+T32	GO_BP 1580 1590	production
+#32	AnnotatorNotes T32	GO:0009058 (biosynthetic process)
+T33	GO_CC 1615 1618	Abs
+#33	AnnotatorNotes T33	GO:0019814 (immunoglobulin complex)
+T34	CL 1715 1719	cell
+#34	AnnotatorNotes T34	CL:0000000 (cell)
+T35	GO_CC 1715 1719	cell
+#35	AnnotatorNotes T35	GO:0005623 (cell)
+T36	GO_CC 1720 1727	nucleus
+#36	AnnotatorNotes T36	GO:0005634 (nucleus)
+T37	SO 1729 1736	Genetic
+#37	AnnotatorNotes T37	SO:0000704 (gene)
+T38	NCBITaxon 1813 1819	humans
+#38	AnnotatorNotes T38	NCBITaxon:9606 (Homo sapiens)
+T39	NCBITaxon 1824 1831	animals
+#39	AnnotatorNotes T39	NCBITaxon:33208 (Metazoa)
+T40	SO 1926 1931	Genes
+#40	AnnotatorNotes T40	SO:0000704 (gene)
+T41	SO 2041 2046	genes
+#41	AnnotatorNotes T41	SO:0000704 (gene)
+T42	SO 2106 2113	genetic
+#42	AnnotatorNotes T42	SO:0000704 (gene)
+T43	NCBITaxon 2178 2184	murine
+#43	AnnotatorNotes T43	NCBITaxon:39107 (Murinae)
+T44	GO_BP 2208 2217	generated
+#44	AnnotatorNotes T44	GO:0000003 (reproduction)
+T45	SO 2253 2258	genes
+#45	AnnotatorNotes T45	SO:0000704 (gene)
+T46	GO_BP 2259 2269	modulating
+#46	AnnotatorNotes T46	GO:0065007 (biological regulation)
+T47	NCBITaxon 2377 2381	mice
+#47	AnnotatorNotes T47	NCBITaxon:10088 (Mus)
+T48	italic 2512 2519	lpr/lpr
+#48	AnnotatorNotes T48	italic (null)
+T49	italic 2546 2549	lpr
+#49	AnnotatorNotes T49	italic (null)
+T50	SO 2550 2558	mutation
+#50	AnnotatorNotes T50	SO:0001059 (sequence_alteration)
+T51	EntrezGene 2566 2578	FAS receptor
+#51	AnnotatorNotes T51	EG:14102
+T52	PR 2566 2578	FAS receptor
+#52	AnnotatorNotes T52	PR:000001962 (tumor necrosis factor receptor superfamily member 6)
+T53	EntrezGene 2566 2569	FAS
+#53	AnnotatorNotes T53	EG:14103
+T54	GO_MF 2570 2578	receptor
+#54	AnnotatorNotes T54	GO:0004872 (receptor activity)
+T55	independent_continuant 2570 2578	receptor
+#55	AnnotatorNotes T55	independent_continuant
+T56	SO 2579 2583	gene
+#56	AnnotatorNotes T56	SO:0000704 (gene)
+T57	EntrezGene 2624 2659	Y chromosome autoimmune accelerator
+#57	AnnotatorNotes T57	EG:107944
+T58	GO_CC 2624 2636	Y chromosome
+#58	AnnotatorNotes T58	GO:0000806 (Y chromosome)
+T59	SO 2626 2636	chromosome
+#59	AnnotatorNotes T59	SO:0000340 (chromosome)
+T60	italic 2661 2664	Yaa
+#60	AnnotatorNotes T60	italic (null)
+T61	EntrezGene 2661 2664	Yaa
+#61	AnnotatorNotes T61	EG:107944
+T62	SO 2666 2670	gene
+#62	AnnotatorNotes T62	SO:0000704 (gene)
+T63	SO 2714 2721	genetic
+#63	AnnotatorNotes T63	SO:0000704 (gene)
+T64	SO 2784 2793	intervals
+#64	AnnotatorNotes T64	SO:0000001 (region)
+T65	SO 2869 2878	intervals
+#65	AnnotatorNotes T65	SO:0000001 (region)
+T66	SO 2924 2931	genetic
+#66	AnnotatorNotes T66	SO:0000704 (gene)
+T67	SO 3020 3025	genes
+#67	AnnotatorNotes T67	SO:0000704 (gene)
+T68	SO 3104 3108	loci
+#68	AnnotatorNotes T68	SO:0000001 (region)
+T69	SO 3137 3157	chromosome locations
+#69	AnnotatorNotes T69	SO:0000830 (chromosome_part)
+T70	GO_CC 3137 3147	chromosome
+#70	AnnotatorNotes T70	GO:0005694 (chromosome)
+T71	SO 3137 3147	chromosome
+#71	AnnotatorNotes T71	SO:0000340 (chromosome)
+T72	SO 3304 3308	loci
+#72	AnnotatorNotes T72	SO:0000001 (region)
+T73	SO 3332 3357	loci on distal Chromosome
+#73	AnnotatorNotes T73	"loci on .. Chromosome" SO:0000830 (chromosome_part)
+T74	GO_CC 3347 3357	Chromosome
+#74	AnnotatorNotes T74	GO:0005694 (chromosome)
+T75	SO 3347 3357	Chromosome
+#75	AnnotatorNotes T75	SO:0000340 (chromosome)
+T76	SO 3394 3399	genes
+#76	AnnotatorNotes T76	SO:0000704 (gene)
+T77	SO 3563 3568	genes
+#77	AnnotatorNotes T77	SO:0000704 (gene)
+T78	italic 3643 3646	lpr
+#78	AnnotatorNotes T78	italic (null)
+T79	SO 3647 3655	mutation
+#79	AnnotatorNotes T79	SO:0001059 (sequence_alteration)
+T80	SO 3669 3676	genetic
+#80	AnnotatorNotes T80	SO:0000704 (gene)
+T81	NCBITaxon 3731 3737	murine
+#81	AnnotatorNotes T81	NCBITaxon:39107 (Murinae)
+T82	CHEBI 3786 3795	molecular
+#82	AnnotatorNotes T82	CHEBI:36357 (polyatomic entities)
+T83	CHEBI 3799 3806	protein
+#83	AnnotatorNotes T83	CHEBI:36080 (proteins)
+T84	SO 3829 3836	genetic
+#84	AnnotatorNotes T84	SO:0000704 (gene)
+T85	SO 3861 3866	genes
+#85	AnnotatorNotes T85	SO:0000704 (gene)
+T86	CHEBI 3876 3884	proteins
+#86	AnnotatorNotes T86	CHEBI:36080 (proteins)
+T87	GO_BP 3957 3974	immune regulation
+#87	AnnotatorNotes T87	GO:0002682 (regulation of immune system process)
+T88	SO 4082 4091	mutations
+#88	AnnotatorNotes T88	SO:0001059 (sequence_alteration)
+T89	NCBITaxon 4217 4221	mice
+#89	AnnotatorNotes T89	NCBITaxon:10088 (Mus)
+T90	GO_BP 4242 4252	generation
+#90	AnnotatorNotes T90	GO:0000003 (reproduction)
+T91	SO 4256 4260	gene
+#91	AnnotatorNotes T91	SO:0000704 (gene)
+T92	NCBITaxon 4270 4274	mice
+#92	AnnotatorNotes T92	NCBITaxon:10088 (Mus)
+T93	SO 4493 4500	genetic
+#93	AnnotatorNotes T93	SO:0000704 (gene)
+T94	SO 4560 4564	gene
+#94	AnnotatorNotes T94	SO:0000704 (gene)
+T95	NCBITaxon 4574 4578	mice
+#95	AnnotatorNotes T95	NCBITaxon:10088 (Mus)
+T96	SO 4746 4750	gene
+#96	AnnotatorNotes T96	SO:0000704 (gene)
+T97	NCBITaxon 4760 4764	mice
+#97	AnnotatorNotes T97	NCBITaxon:10088 (Mus)
+T98	SO 4841 4846	genes
+#98	AnnotatorNotes T98	SO:0000704 (gene)
+T99	NCBITaxon 4881 4885	mice
+#99	AnnotatorNotes T99	NCBITaxon:10088 (Mus)
+T100	SO 4923 4930	mutated
+#100	AnnotatorNotes T100	SO:0000041 (sequence_operation)
+T101	SO 4931 4937	allele
+#101	AnnotatorNotes T101	SO:0001023 (allele)
+T102	SO 4968 4974	genome
+#102	AnnotatorNotes T102	SO:0001026 (genome)
+T103	NCBITaxon 5036 5040	mice
+#103	AnnotatorNotes T103	NCBITaxon:10088 (Mus)
+T104	SO 5065 5073	mutation
+#104	AnnotatorNotes T104	SO:0001059 (sequence_alteration)
+T105	EntrezGene 5081 5106	serum amyloid P component
+#105	AnnotatorNotes T105	EG:20219
+T106	PR 5081 5106	serum amyloid P component
+#106	AnnotatorNotes T106	PR:000004126 (serum amyloid P-component)
+T107	SO 5107 5111	gene
+#107	AnnotatorNotes T107	SO:0000704 (gene)
+T108	italic 5113 5117	Apcs
+#108	AnnotatorNotes T108	italic (null)
+T109	PR 5113 5117	Apcs
+#109	AnnotatorNotes T109	PR:000004126 (serum amyloid P-component)
+T110	EntrezGene 5113 5117	Apcs
+#110	AnnotatorNotes T110	EG:20219
+T111	italic 5124 5128	Apcs
+#111	AnnotatorNotes T111	italic (null)
+T112	EntrezGene 5124 5128	Apcs
+#112	AnnotatorNotes T112	EG:20219
+T113	PR 5124 5128	Apcs
+#113	AnnotatorNotes T113	PR:000004126 (serum amyloid P-component)
+T114	NCBITaxon 5139 5143	mice
+#114	AnnotatorNotes T114	NCBITaxon:10088 (Mus)
+T115	italic 5145 5149	Apcs
+#115	AnnotatorNotes T115	italic (null)
+T116	PR 5145 5149	Apcs
+#116	AnnotatorNotes T116	PR:000004126 (serum amyloid P-component)
+T117	EntrezGene 5145 5149	Apcs
+#117	AnnotatorNotes T117	EG:20219
+T118	sup 5149 5152	−/−
+#118	AnnotatorNotes T118	sup (null)
+T119	SO 5185 5189	gene
+#119	AnnotatorNotes T119	SO:0000704 (gene)
+T120	SO 5272 5279	genetic
+#120	AnnotatorNotes T120	SO:0000704 (gene)
+T121	italic 5324 5328	Apcs
+#121	AnnotatorNotes T121	italic (null)
+T122	PR 5324 5328	Apcs
+#122	AnnotatorNotes T122	PR:000004126 (serum amyloid P-component)
+T123	EntrezGene 5324 5328	Apcs
+#123	AnnotatorNotes T123	EG:20219
+T124	sup 5328 5331	−/−
+#124	AnnotatorNotes T124	sup (null)
+T125	NCBITaxon 5332 5336	mice
+#125	AnnotatorNotes T125	NCBITaxon:10088 (Mus)
+T126	SO 5374 5381	mutated
+#126	AnnotatorNotes T126	SO:0000041 (sequence_operation)
+T127	SO 5382 5386	gene
+#127	AnnotatorNotes T127	SO:0000704 (gene)
+T128	SO 5450 5454	gene
+#128	AnnotatorNotes T128	SO:0000704 (gene)
+T129	italic 5488 5492	Apcs
+#129	AnnotatorNotes T129	italic (null)
+T130	PR 5488 5492	Apcs
+#130	AnnotatorNotes T130	PR:000004126 (serum amyloid P-component)
+T131	EntrezGene 5488 5492	Apcs
+#131	AnnotatorNotes T131	EG:20219
+T132	SO 5493 5497	gene
+#132	AnnotatorNotes T132	SO:0000704 (gene)
+T133	GO_CC 5512 5522	Chromosome
+#133	AnnotatorNotes T133	GO:0005694 (chromosome)
+T134	SO 5512 5522	Chromosome
+#134	AnnotatorNotes T134	SO:0000340 (chromosome)
+T135	SO 5555 5565	centromere
+#135	AnnotatorNotes T135	SO:0000577 (centromere)
+T136	SO 5576 5582	region
+#136	AnnotatorNotes T136	SO:0000001 (region)
+T137	SO 5618 5622	loci
+#137	AnnotatorNotes T137	SO:0000001 (region)
+T138	italic 5635 5639	Sle1
+#138	AnnotatorNotes T138	italic (null)
+T139	EntrezGene 5635 5639	Sle1
+#139	AnnotatorNotes T139	EG:112367
+T140	italic 5661 5665	Nba2
+#140	AnnotatorNotes T140	italic (null)
+T141	EntrezGene 5661 5665	Nba2
+#141	AnnotatorNotes T141	EG:110273
+T142	italic 5709 5713	Bxs3
+#142	AnnotatorNotes T142	italic (null)
+T143	EntrezGene 5709 5713	Bxs3
+#143	AnnotatorNotes T143	EG:114323
+T144	SO 5837 5843	region
+#144	AnnotatorNotes T144	SO:0000001 (region)
+T145	SO 5861 5866	genes
+#145	AnnotatorNotes T145	SO:0000704 (gene)
+T146	EntrezGene 5893 5899	FcγRII
+#146	AnnotatorNotes T146	EG:14130
+T147	PR 5893 5899	FcγRII
+#147	AnnotatorNotes T147	PR:000001479 (low affinity immunoglobulin gamma Fc region receptor II)
+T148	GO_MF 5905 5924	complement receptor
+#148	AnnotatorNotes T148	GO:0004875 (complement receptor activity)
+T149	independent_continuant 5905 5924	complement receptor
+#149	AnnotatorNotes T149	independent_continuant
+T150	EntrezGene 5925 5928	CR1
+#150	AnnotatorNotes T150	EG:12902
+T151	PR 5925 5928	CR1
+#151	AnnotatorNotes T151	PR:000001337 (complement receptor type 1)
+T152	EntrezGene 5932 5936	CD35
+#152	AnnotatorNotes T152	EG:12902
+T153	PR 5932 5936	CD35
+#153	AnnotatorNotes T153	PR:000001337 (complement receptor type 1)
+T154	EntrezGene 5937 5941	CD21
+#154	AnnotatorNotes T154	EG:12902
+T155	PR 5937 5941	CD21
+#155	AnnotatorNotes T155	PR:000001338 (complement receptor type 2)
+T156	GO_BP 5952 5957	decay
+#156	AnnotatorNotes T156	GO:0022411 (cellular component disassembly)
+T157	EntrezGene 5978 5982	CD55
+#157	AnnotatorNotes T157	EG:13136
+T158	PR 5978 5982	CD55
+#158	AnnotatorNotes T158	PR:000025662 (complement decay-accelerating factor)
+T159	SO 6142 6146	gene
+#159	AnnotatorNotes T159	SO:0000704 (gene)
+T160	CL 6174 6184	stem cells
+#160	AnnotatorNotes T160	CL:0000034 (stem cell)
+T161	GO_CC 6179 6184	cells
+#161	AnnotatorNotes T161	GO:0005623 (cell)
+T162	SO 6224 6231	genetic
+#162	AnnotatorNotes T162	SO:0000704 (gene)
+T163	SO 6232 6236	loci
+#163	AnnotatorNotes T163	SO:0000001 (region)
+T164	NCBITaxon 6272 6276	mice
+#164	AnnotatorNotes T164	NCBITaxon:10088 (Mus)
+T165	SO 6335 6364	interval on distal Chromosome
+#165	AnnotatorNotes T165	"interval on .. Chromosome" SO:0000830 (chromosome_part)
+T166	GO_CC 6354 6364	Chromosome
+#166	AnnotatorNotes T166	GO:0005694 (chromosome)
+T167	SO 6354 6364	Chromosome
+#167	AnnotatorNotes T167	SO:0000340 (chromosome)
+T168	SO 6373 6384	transferred
+#168	AnnotatorNotes T168	SO:0000049 (translocate)
+T169	SO 6402 6408	genome
+#169	AnnotatorNotes T169	SO:0001026 (genome)
+T170	GO_BP 6433 6440	created
+#170	AnnotatorNotes T170	GO:0009058 (biosynthetic process)
+T171	SO 6472 6476	gene
+#171	AnnotatorNotes T171	SO:0000704 (gene)
+T172	CL 6520 6530	stem cells
+#172	AnnotatorNotes T172	CL:0000034 (stem cell)
+T173	GO_CC 6525 6530	cells
+#173	AnnotatorNotes T173	GO:0005623 (cell)
+T174	SO 6631 6638	mutated
+#174	AnnotatorNotes T174	SO:0000041 (sequence_operation)
+T175	italic 6639 6643	Apcs
+#175	AnnotatorNotes T175	italic (null)
+T176	PR 6639 6643	Apcs
+#176	AnnotatorNotes T176	PR:000004126 (serum amyloid P-component)
+T177	EntrezGene 6639 6643	Apcs
+#177	AnnotatorNotes T177	EG:20219
+T178	SO 6644 6648	gene
+#178	AnnotatorNotes T178	SO:0000704 (gene)
+T179	SO 6717 6722	genes
+#179	AnnotatorNotes T179	SO:0000704 (gene)
+T180	SO 6744 6751	genomes
+#180	AnnotatorNotes T180	SO:0001026 (genome)
+T181	SO 6838 6843	genes
+#181	AnnotatorNotes T181	SO:0000704 (gene)
+T182	SO 6929 6936	genetic
+#182	AnnotatorNotes T182	SO:0000704 (gene)
+T183	italic 7018 7022	Apcs
+#183	AnnotatorNotes T183	italic (null)
+T184	PR 7018 7022	Apcs
+#184	AnnotatorNotes T184	PR:000004126 (serum amyloid P-component)
+T185	EntrezGene 7018 7022	Apcs
+#185	AnnotatorNotes T185	EG:20219
+T186	sup 7022 7025	−/−
+#186	AnnotatorNotes T186	sup (null)
+T187	NCBITaxon 7026 7030	Mice
+#187	AnnotatorNotes T187	NCBITaxon:10088 (Mus)
+T188	SO 7051 7058	genetic
+#188	AnnotatorNotes T188	SO:0000704 (gene)
+T189	NCBITaxon 7130 7134	mice
+#189	AnnotatorNotes T189	NCBITaxon:10088 (Mus)
+T190	GO_BP 7139 7148	generated
+#190	AnnotatorNotes T190	GO:0000003 (reproduction)
+T191	NCBITaxon 7188 7195	animals
+#191	AnnotatorNotes T191	NCBITaxon:33208 (Metazoa)
+T192	SO 7212 7220	mutation
+#192	AnnotatorNotes T192	SO:0001059 (sequence_alteration)
+T193	italic 7228 7232	Apcs
+#193	AnnotatorNotes T193	italic (null)
+T194	PR 7228 7232	Apcs
+#194	AnnotatorNotes T194	PR:000004126 (serum amyloid P-component)
+T195	EntrezGene 7228 7232	Apcs
+#195	AnnotatorNotes T195	EG:20219
+T196	SO 7233 7237	gene
+#196	AnnotatorNotes T196	SO:0000704 (gene)
+T197	NCBITaxon 7321 7325	mice
+#197	AnnotatorNotes T197	NCBITaxon:10088 (Mus)
+T198	NCBITaxon 7436 7440	mice
+#198	AnnotatorNotes T198	NCBITaxon:10088 (Mus)
+T199	SO 7577 7586	wild-type
+#199	AnnotatorNotes T199	SO:0000817 (wild_type)
+T200	NCBITaxon 7605 7609	mice
+#200	AnnotatorNotes T200	NCBITaxon:10088 (Mus)
+T201	GO_CC 7662 7665	Abs
+#201	AnnotatorNotes T201	GO:0019814 (immunoglobulin complex)
+T202	GO_BP 7740 7753	proliferative
+#202	AnnotatorNotes T202	GO:0008283 (cell proliferation)
+T203	GO_CC 7864 7871	nuclear
+#203	AnnotatorNotes T203	GO:0005634 (nucleus)
+T204	GO_CC 7872 7875	Abs
+#204	AnnotatorNotes T204	GO:0019814 (immunoglobulin complex)
+T205	GO_CC 7892 7901	chromatin
+#205	AnnotatorNotes T205	GO:0000785 (chromatin)
+T206	GO_CC 7902 7904	Ab
+#206	AnnotatorNotes T206	GO:0019814 (immunoglobulin complex)
+T207	italic 7956 7960	Apcs
+#207	AnnotatorNotes T207	italic (null)
+T208	EntrezGene 7956 7960	Apcs
+#208	AnnotatorNotes T208	EG:20219
+T209	PR 7956 7960	Apcs
+#209	AnnotatorNotes T209	PR:000004126 (serum amyloid P-component)
+T210	sup 7960 7963	−/−
+#210	AnnotatorNotes T210	sup (null)
+T211	NCBITaxon 7964 7968	mice
+#211	AnnotatorNotes T211	NCBITaxon:10088 (Mus)
+T212	SO 8130 8145	single-stranded
+#212	AnnotatorNotes T212	SO:0000984 (single)
+T213	SO 8137 8145	stranded
+#213	AnnotatorNotes T213	SO:0000001 (region)
+T214	SO 8146 8149	DNA
+#214	AnnotatorNotes T214	SO:0000352 (DNA)
+T215	SO 8167 8182	double-stranded
+#215	AnnotatorNotes T215	SO:0000985 (double)
+T216	SO 8174 8182	stranded
+#216	AnnotatorNotes T216	SO:0000001 (region)
+T217	SO 8183 8186	DNA
+#217	AnnotatorNotes T217	SO:0000352 (DNA)
+T218	GO_CC 8195 8198	Abs
+#218	AnnotatorNotes T218	GO:0019814 (immunoglobulin complex)
+T219	SO 8371 8378	segment
+#219	AnnotatorNotes T219	SO:0000001 (region)
+T220	SO 8392 8399	mutated
+#220	AnnotatorNotes T220	SO:0000041 (sequence_operation)
+T221	italic 8400 8404	Apcs
+#221	AnnotatorNotes T221	italic (null)
+T222	EntrezGene 8400 8404	Apcs
+#222	AnnotatorNotes T222	EG:20219
+T223	PR 8400 8404	Apcs
+#223	AnnotatorNotes T223	PR:000004126 (serum amyloid P-component)
+T224	SO 8405 8409	gene
+#224	AnnotatorNotes T224	SO:0000704 (gene)
+T225	SO 8450 8456	genome
+#225	AnnotatorNotes T225	SO:0001026 (genome)
+T226	SO 8551 8555	Loci
+#226	AnnotatorNotes T226	SO:0000001 (region)
+T227	NCBITaxon 8616 8620	Mice
+#227	AnnotatorNotes T227	NCBITaxon:10088 (Mus)
+T228	SO 8645 8667	microsatellite markers
+#228	AnnotatorNotes T228	SO:0000289 (microsatellite)
+T229	GO_CC 8695 8704	autosomes
+#229	AnnotatorNotes T229	GO:0030849 (autosome)
+T230	SO 8726 8731	genes
+#230	AnnotatorNotes T230	SO:0000704 (gene)
+T231	SO 8793 8799	genome
+#231	AnnotatorNotes T231	SO:0001026 (genome)
+T232	SO 8887 8903	areas of linkage
+#232	AnnotatorNotes T232	SO:0000018 (linkage_group)
+T233	SO 9071 9098	Chromosome 1 distal segment
+#233	AnnotatorNotes T233	"Chromosome .. segment" SO:0000830 (chromosome_part)
+T234	GO_CC 9071 9081	Chromosome
+#234	AnnotatorNotes T234	GO:0005694 (chromosome)
+T235	SO 9071 9081	Chromosome
+#235	AnnotatorNotes T235	SO:0000340 (chromosome)
+T236	italic 9173 9177	Apcs
+#236	AnnotatorNotes T236	italic (null)
+T237	EntrezGene 9173 9177	Apcs
+#237	AnnotatorNotes T237	EG:20219
+T238	PR 9173 9177	Apcs
+#238	AnnotatorNotes T238	PR:000004126 (serum amyloid P-component)
+T239	sup 9177 9180	−/−
+#239	AnnotatorNotes T239	sup (null)
+T240	NCBITaxon 9181 9185	mice
+#240	AnnotatorNotes T240	NCBITaxon:10088 (Mus)
+T241	SO 9194 9200	region
+#241	AnnotatorNotes T241	SO:0000001 (region)
+T242	GO_CC 9226 9237	Chromosomes
+#242	AnnotatorNotes T242	GO:0005694 (chromosome)
+T243	SO 9226 9237	Chromosomes
+#243	AnnotatorNotes T243	SO:0000340 (chromosome)
+T244	SO 9328 9354	quantitative trait linkage
+#244	AnnotatorNotes T244	SO:0000771 (QTL)
+T245	SO 9356 9359	QTL
+#245	AnnotatorNotes T245	SO:0000771 (QTL)
+T246	SO 9389 9412	intervals on Chromosome
+#246	AnnotatorNotes T246	SO:0000830 (chromosome_part)
+T247	GO_CC 9402 9412	Chromosome
+#247	AnnotatorNotes T247	GO:0005694 (chromosome)
+T248	SO 9402 9412	Chromosome
+#248	AnnotatorNotes T248	SO:0000340 (chromosome)
+T249	SO 9470 9477	regions
+#249	AnnotatorNotes T249	SO:0000001 (region)
+T250	NCBITaxon 9508 9513	mouse
+#250	AnnotatorNotes T250	NCBITaxon:10088 (Mus)
+T251	GO_CC 9588 9597	chromatin
+#251	AnnotatorNotes T251	GO:0000785 (chromatin)
+T252	GO_CC 9598 9600	Ab
+#252	AnnotatorNotes T252	GO:0019814 (immunoglobulin complex)
+T253	GO_CC 9662 9692	telomeric region of Chromosome
+#253	AnnotatorNotes T253	GO:0000781 (chromosome, telomeric region)
+T254	SO 9662 9692	telomeric region of Chromosome
+#254	AnnotatorNotes T254	SO:0000624 (telomere)
+T255	GO_CC 9682 9692	Chromosome
+#255	AnnotatorNotes T255	GO:0005694 (chromosome)
+T256	SO 9682 9692	Chromosome
+#256	AnnotatorNotes T256	SO:0000340 (chromosome)
+T257	SO 9734 9742	position
+#257	AnnotatorNotes T257	SO:0000001 (region)
+T258	italic 9772 9776	Apcs
+#258	AnnotatorNotes T258	italic (null)
+T259	PR 9772 9776	Apcs
+#259	AnnotatorNotes T259	PR:000004126 (serum amyloid P-component)
+T260	EntrezGene 9772 9776	Apcs
+#260	AnnotatorNotes T260	EG:20219
+T261	SO 9777 9781	gene
+#261	AnnotatorNotes T261	SO:0000704 (gene)
+T262	GO_BP 9808 9821	Ab production
+#262	AnnotatorNotes T262	GO:0002378 (immunoglobulin biosynthetic process)
+T263	GO_BP 9808 9821	Ab production
+#263	AnnotatorNotes T263	GO:0002377 (immunoglobulin production)
+T264	GO_CC 9808 9810	Ab
+#264	AnnotatorNotes T264	GO:0019814 (immunoglobulin complex)
+T265	SO 9847 9869	segments on Chromosome
+#265	AnnotatorNotes T265	SO:0000830 (chromosome_part)
+T266	GO_CC 9859 9869	Chromosome
+#266	AnnotatorNotes T266	GO:0005694 (chromosome)
+T267	SO 9859 9869	Chromosome
+#267	AnnotatorNotes T267	SO:0000340 (chromosome)
+T268	SO 9899 9906	genetic
+#268	AnnotatorNotes T268	SO:0000704 (gene)
+T269	NCBITaxon 9933 9938	mouse
+#269	AnnotatorNotes T269	NCBITaxon:10088 (Mus)
+T270	GO_CC 10039 10048	chromatin
+#270	AnnotatorNotes T270	GO:0000785 (chromatin)
+T271	GO_CC 10049 10051	Ab
+#271	AnnotatorNotes T271	GO:0019814 (immunoglobulin complex)
+T272	italic 10068 10072	Apcs
+#272	AnnotatorNotes T272	italic (null)
+T273	PR 10068 10072	Apcs
+#273	AnnotatorNotes T273	PR:000004126 (serum amyloid P-component)
+T274	EntrezGene 10068 10072	Apcs
+#274	AnnotatorNotes T274	EG:20219
+T275	sup 10072 10075	−/−
+#275	AnnotatorNotes T275	sup (null)
+T276	NCBITaxon 10076 10080	mice
+#276	AnnotatorNotes T276	NCBITaxon:10088 (Mus)
+T277	SO 10098 10105	gene(s)
+#277	AnnotatorNotes T277	SO:0000704 (gene)
+T278	SO 10127 10133	region
+#278	AnnotatorNotes T278	SO:0000001 (region)
+T279	SO 10150 10157	mutated
+#279	AnnotatorNotes T279	SO:0000041 (sequence_operation)
+T280	italic 10158 10162	Apcs
+#280	AnnotatorNotes T280	italic (null)
+T281	EntrezGene 10158 10162	Apcs
+#281	AnnotatorNotes T281	EG:20219
+T282	PR 10158 10162	Apcs
+#282	AnnotatorNotes T282	PR:000004126 (serum amyloid P-component)
+T283	SO 10163 10167	gene
+#283	AnnotatorNotes T283	SO:0000704 (gene)
+T284	SO 10195 10202	mutated
+#284	AnnotatorNotes T284	SO:0000041 (sequence_operation)
+T285	italic 10203 10207	Apcs
+#285	AnnotatorNotes T285	italic (null)
+T286	PR 10203 10207	Apcs
+#286	AnnotatorNotes T286	PR:000004126 (serum amyloid P-component)
+T287	EntrezGene 10203 10207	Apcs
+#287	AnnotatorNotes T287	EG:20219
+T288	SO 10208 10212	gene
+#288	AnnotatorNotes T288	SO:0000704 (gene)
+T289	GO_CC 10258 10261	Abs
+#289	AnnotatorNotes T289	GO:0019814 (immunoglobulin complex)
+T290	italic 10292 10296	Apcs
+#290	AnnotatorNotes T290	italic (null)
+T291	PR 10292 10296	Apcs
+#291	AnnotatorNotes T291	PR:000004126 (serum amyloid P-component)
+T292	EntrezGene 10292 10296	Apcs
+#292	AnnotatorNotes T292	EG:20219
+T293	sup 10296 10299	−/−
+#293	AnnotatorNotes T293	sup (null)
+T294	NCBITaxon 10300 10304	mice
+#294	AnnotatorNotes T294	NCBITaxon:10088 (Mus)
+T295	SO 10323 10332	wild-type
+#295	AnnotatorNotes T295	SO:0000817 (wild_type)
+T296	NCBITaxon 10333 10337	mice
+#296	AnnotatorNotes T296	NCBITaxon:10088 (Mus)
+T297	SO 10389 10409	region of Chromosome
+#297	AnnotatorNotes T297	SO:0000830 (chromosome_part)
+T298	GO_CC 10399 10409	Chromosome
+#298	AnnotatorNotes T298	GO:0005694 (chromosome)
+T299	SO 10399 10409	Chromosome
+#299	AnnotatorNotes T299	SO:0000340 (chromosome)
+T300	SO 10420 10435	microsatellites
+#300	AnnotatorNotes T300	SO:0000289 (microsatellite)
+T301	SO 10682 10688	region
+#301	AnnotatorNotes T301	SO:0000001 (region)
+T302	italic 10709 10713	Apcs
+#302	AnnotatorNotes T302	italic (null)
+T303	PR 10709 10713	Apcs
+#303	AnnotatorNotes T303	PR:000004126 (serum amyloid P-component)
+T304	EntrezGene 10709 10713	Apcs
+#304	AnnotatorNotes T304	EG:20219
+T305	GO_BP 10732 10771	production of ANA and anti-chromatin Ab
+#305	AnnotatorNotes T305	"production of .. Ab" GO:0002378 (immunoglobulin biosynthetic process)
+T306	GO_BP 10732 10771	production of ANA and anti-chromatin Ab
+#306	AnnotatorNotes T306	"production of .. Ab" GO:0002377 (immunoglobulin production)
+T307	GO_CC 10759 10768	chromatin
+#307	AnnotatorNotes T307	GO:0000785 (chromatin)
+T308	GO_CC 10769 10771	Ab
+#308	AnnotatorNotes T308	GO:0019814 (immunoglobulin complex)
+T309	NCBITaxon 10829 10833	mice
+#309	AnnotatorNotes T309	NCBITaxon:10088 (Mus)
+T310	italic 10870 10874	Apcs
+#310	AnnotatorNotes T310	italic (null)
+T311	PR 10870 10874	Apcs
+#311	AnnotatorNotes T311	PR:000004126 (serum amyloid P-component)
+T312	EntrezGene 10870 10874	Apcs
+#312	AnnotatorNotes T312	EG:20219
+T313	NCBITaxon 10916 10920	mice
+#313	AnnotatorNotes T313	NCBITaxon:10088 (Mus)
+T314	italic 10954 10955	n
+#314	AnnotatorNotes T314	italic (null)
+T315	italic 10996 10997	n
+#315	AnnotatorNotes T315	italic (null)
+T316	italic 11018 11019	p
+#316	AnnotatorNotes T316	italic (null)
+T317	NCBITaxon 11096 11102	murine
+#317	AnnotatorNotes T317	NCBITaxon:39107 (Murinae)
+T318	italic 11126 11130	Apcs
+#318	AnnotatorNotes T318	italic (null)
+T319	PR 11126 11130	Apcs
+#319	AnnotatorNotes T319	PR:000004126 (serum amyloid P-component)
+T320	EntrezGene 11126 11130	Apcs
+#320	AnnotatorNotes T320	EG:20219
+T321	SO 11194 11202	sequence
+#321	AnnotatorNotes T321	SO:0000001 (region)
+T322	italic 11226 11230	Apcs
+#322	AnnotatorNotes T322	italic (null)
+T323	EntrezGene 11226 11230	Apcs
+#323	AnnotatorNotes T323	EG:20219
+T324	PR 11226 11230	Apcs
+#324	AnnotatorNotes T324	PR:000004126 (serum amyloid P-component)
+T325	SO 11231 11244	coding region
+#325	AnnotatorNotes T325	SO:0000316 (CDS)
+T326	SO 11284 11299	coding sequence
+#326	AnnotatorNotes T326	SO:0000316 (CDS)
+T327	SO 11300 11313	polymorphisms
+#327	AnnotatorNotes T327	SO:0001025 (polymorphic_sequence_variant)
+T328	SO 11300 11313	polymorphisms
+#328	AnnotatorNotes T328	SO:0000694 (SNP)
+T329	italic 11321 11325	Apcs
+#329	AnnotatorNotes T329	italic (null)
+T330	PR 11321 11325	Apcs
+#330	AnnotatorNotes T330	PR:000004126 (serum amyloid P-component)
+T331	EntrezGene 11321 11325	Apcs
+#331	AnnotatorNotes T331	EG:20219
+T332	SO 11326 11330	gene
+#332	AnnotatorNotes T332	SO:0000704 (gene)
+T333	SO 11378 11385	variant
+#333	AnnotatorNotes T333	SO:0001060 (sequence_variant)
+T334	CHEBI 11393 11400	protein
+#334	AnnotatorNotes T334	CHEBI:36080 (proteins)
+T335	italic 11533 11537	Apcs
+#335	AnnotatorNotes T335	italic (null)
+T336	PR 11533 11537	Apcs
+#336	AnnotatorNotes T336	PR:000004126 (serum amyloid P-component)
+T337	SO 11538 11553	coding sequence
+#337	AnnotatorNotes T337	SO:0000316 (CDS)
+T338	NCBITaxon 11611 11617	murine
+#338	AnnotatorNotes T338	NCBITaxon:39107 (Murinae)
+T339	SO 11659 11667	segments
+#339	AnnotatorNotes T339	SO:0000001 (region)
+T340	SO 11771 11790	locus on Chromosome
+#340	AnnotatorNotes T340	SO:0000830 (chromosome_part)
+T341	GO_CC 11780 11790	Chromosome
+#341	AnnotatorNotes T341	GO:0005694 (chromosome)
+T342	SO 11780 11790	Chromosome
+#342	AnnotatorNotes T342	SO:0000340 (chromosome)
+T343	SO 11796 11810	genomic region
+#343	AnnotatorNotes T343	SO:0000991 (genomic_DNA)
+T344	SO 11796 11803	genomic
+#344	AnnotatorNotes T344	SO:0001026 (genome)
+T345	SO 11866 11874	position
+#345	AnnotatorNotes T345	SO:0000001 (region)
+T346	GO_BP 11932 11942	production
+#346	AnnotatorNotes T346	GO:0009058 (biosynthetic process)
+T347	GO_CC 11986 11995	chromatin
+#347	AnnotatorNotes T347	GO:0000785 (chromatin)
+T348	GO_BP 11996 12006	production
+#348	AnnotatorNotes T348	GO:0009058 (biosynthetic process)
+T349	SO 12105 12112	genetic
+#349	AnnotatorNotes T349	SO:0000704 (gene)
+T350	SO 12258 12265	alleles
+#350	AnnotatorNotes T350	SO:0001023 (allele)
+T351	SO 12341 12346	genes
+#351	AnnotatorNotes T351	SO:0000704 (gene)
+T352	NCBITaxon 12430 12434	mice
+#352	AnnotatorNotes T352	NCBITaxon:10088 (Mus)
+T353	GO_CC 12496 12506	Chromosome
+#353	AnnotatorNotes T353	GO:0005694 (chromosome)
+T354	SO 12496 12506	Chromosome
+#354	AnnotatorNotes T354	SO:0000340 (chromosome)
+T355	SO 12643 12662	locus on Chromosome
+#355	AnnotatorNotes T355	SO:0000830 (chromosome_part)
+T356	GO_CC 12652 12662	Chromosome
+#356	AnnotatorNotes T356	GO:0005694 (chromosome)
+T357	SO 12652 12662	Chromosome
+#357	AnnotatorNotes T357	SO:0000340 (chromosome)
+T358	SO 12808 12811	QTL
+#358	AnnotatorNotes T358	SO:0000771 (QTL)
+T359	SO 12894 12903	wild-type
+#359	AnnotatorNotes T359	SO:0000817 (wild_type)
+T360	NCBITaxon 12904 12908	mice
+#360	AnnotatorNotes T360	NCBITaxon:10088 (Mus)
+T361	GO_CC 12912 12922	Chromosome
+#361	AnnotatorNotes T361	GO:0005694 (chromosome)
+T362	SO 12912 12922	Chromosome
+#362	AnnotatorNotes T362	SO:0000340 (chromosome)
+T363	SO 12940 12946	region
+#363	AnnotatorNotes T363	SO:0000001 (region)
+T364	italic 13020 13021	p
+#364	AnnotatorNotes T364	italic (null)
+T365	GO_CC 13044 13054	Chromosome
+#365	AnnotatorNotes T365	GO:0005694 (chromosome)
+T366	SO 13044 13054	Chromosome
+#366	AnnotatorNotes T366	SO:0000340 (chromosome)
+T367	italic 13144 13145	p
+#367	AnnotatorNotes T367	italic (null)
+T368	italic 13168 13169	p
+#368	AnnotatorNotes T368	italic (null)
+T369	SO 13185 13194	wild-type
+#369	AnnotatorNotes T369	SO:0000817 (wild_type)
+T370	italic 13199 13203	Apcs
+#370	AnnotatorNotes T370	italic (null)
+T371	EntrezGene 13199 13203	Apcs
+#371	AnnotatorNotes T371	EG:20219
+T372	PR 13199 13203	Apcs
+#372	AnnotatorNotes T372	PR:000004126 (serum amyloid P-component)
+T373	sup 13203 13206	−/−
+#373	AnnotatorNotes T373	sup (null)
+T374	NCBITaxon 13207 13211	mice
+#374	AnnotatorNotes T374	NCBITaxon:10088 (Mus)
+T375	NCBITaxon 13315 13319	mice
+#375	AnnotatorNotes T375	NCBITaxon:10088 (Mus)
+T376	SO 13367 13370	QTL
+#376	AnnotatorNotes T376	SO:0000771 (QTL)
+T377	GO_BP 13405 13415	Production
+#377	AnnotatorNotes T377	GO:0000003 (reproduction)
+T378	GO_CC 13433 13443	Chromosome
+#378	AnnotatorNotes T378	GO:0005694 (chromosome)
+T379	SO 13433 13443	Chromosome
+#379	AnnotatorNotes T379	SO:0000340 (chromosome)
+T380	GO_BP 13492 13501	generated
+#380	AnnotatorNotes T380	GO:0000003 (reproduction)
+T381	GO_CC 13539 13569	telomeric region of Chromosome
+#381	AnnotatorNotes T381	GO:0000781 (chromosome, telomeric region)
+T382	SO 13539 13569	telomeric region of Chromosome
+#382	AnnotatorNotes T382	SO:0000624 (telomere)
+T383	GO_CC 13559 13569	Chromosome
+#383	AnnotatorNotes T383	GO:0005694 (chromosome)
+T384	SO 13559 13569	Chromosome
+#384	AnnotatorNotes T384	SO:0000340 (chromosome)
+T385	NCBITaxon 13585 13590	mouse
+#385	AnnotatorNotes T385	NCBITaxon:10088 (Mus)
+T386	SO 13721 13728	genetic
+#386	AnnotatorNotes T386	SO:0000704 (gene)
+T387	SO 13854 13875	Chromosome 1 interval
+#387	AnnotatorNotes T387	"Chromosome .. interval" SO:0000830 (chromosome_part)
+T388	GO_CC 13854 13864	Chromosome
+#388	AnnotatorNotes T388	GO:0005694 (chromosome)
+T389	SO 13854 13864	Chromosome
+#389	AnnotatorNotes T389	SO:0000340 (chromosome)
+T390	SO 13904 13926	microsatellite markers
+#390	AnnotatorNotes T390	SO:0000289 (microsatellite)
+T391	GO_CC 14002 14012	chromosome
+#391	AnnotatorNotes T391	GO:0005694 (chromosome)
+T392	SO 14002 14012	chromosome
+#392	AnnotatorNotes T392	SO:0000340 (chromosome)
+T393	SO 14031 14038	removal
+#393	AnnotatorNotes T393	SO:0000045 (delete)
+T394	SO 14057 14072	genomic regions
+#394	AnnotatorNotes T394	SO:0000991 (genomic_DNA)
+T395	SO 14057 14064	genomic
+#395	AnnotatorNotes T395	SO:0001026 (genome)
+T396	SO 14122 14143	Chromosome 1 interval
+#396	AnnotatorNotes T396	"Chromosome .. interval" SO:0000830 (chromosome_part)
+T397	GO_CC 14122 14132	Chromosome
+#397	AnnotatorNotes T397	GO:0005694 (chromosome)
+T398	SO 14122 14132	Chromosome
+#398	AnnotatorNotes T398	SO:0000340 (chromosome)
+T399	NCBITaxon 14160 14164	mice
+#399	AnnotatorNotes T399	NCBITaxon:10088 (Mus)
+T400	SO 14179 14200	microsatellite marker
+#400	AnnotatorNotes T400	SO:0000289 (microsatellite)
+T401	SO 14276 14284	interval
+#401	AnnotatorNotes T401	SO:0000001 (region)
+T402	NCBITaxon 14347 14351	mice
+#402	AnnotatorNotes T402	NCBITaxon:10088 (Mus)
+T403	GO_CC 14361 14371	Chromosome
+#403	AnnotatorNotes T403	GO:0005694 (chromosome)
+T404	SO 14361 14371	Chromosome
+#404	AnnotatorNotes T404	SO:0000340 (chromosome)
+T405	NCBITaxon 14383 14387	mice
+#405	AnnotatorNotes T405	NCBITaxon:10088 (Mus)
+T406	italic 14443 14447	Apcs
+#406	AnnotatorNotes T406	italic (null)
+T407	EntrezGene 14443 14447	Apcs
+#407	AnnotatorNotes T407	EG:20219
+T408	PR 14443 14447	Apcs
+#408	AnnotatorNotes T408	PR:000004126 (serum amyloid P-component)
+T409	sup 14447 14450	−/−
+#409	AnnotatorNotes T409	sup (null)
+T410	NCBITaxon 14451 14455	mice
+#410	AnnotatorNotes T410	NCBITaxon:10088 (Mus)
+T411	italic 14510 14514	Apcs
+#411	AnnotatorNotes T411	italic (null)
+T412	EntrezGene 14510 14514	Apcs
+#412	AnnotatorNotes T412	EG:20219
+T413	PR 14510 14514	Apcs
+#413	AnnotatorNotes T413	PR:000004126 (serum amyloid P-component)
+T414	sup 14514 14517	−/−
+#414	AnnotatorNotes T414	sup (null)
+T415	italic 14598 14602	Apcs
+#415	AnnotatorNotes T415	italic (null)
+T416	PR 14598 14602	Apcs
+#416	AnnotatorNotes T416	PR:000004126 (serum amyloid P-component)
+T417	EntrezGene 14598 14602	Apcs
+#417	AnnotatorNotes T417	EG:20219
+T418	sup 14602 14605	−/−
+#418	AnnotatorNotes T418	sup (null)
+T419	NCBITaxon 14606 14610	mice
+#419	AnnotatorNotes T419	NCBITaxon:10088 (Mus)
+T420	SO 14620 14626	genome
+#420	AnnotatorNotes T420	SO:0001026 (genome)
+T421	italic 14638 14642	Apcs
+#421	AnnotatorNotes T421	italic (null)
+T422	PR 14638 14642	Apcs
+#422	AnnotatorNotes T422	PR:000004126 (serum amyloid P-component)
+T423	EntrezGene 14638 14642	Apcs
+#423	AnnotatorNotes T423	EG:20219
+T424	SO 14643 14648	locus
+#424	AnnotatorNotes T424	SO:0000001 (region)
+T425	SO 14665 14672	stretch
+#425	AnnotatorNotes T425	SO:0000001 (region)
+T426	SO 14798 14804	region
+#426	AnnotatorNotes T426	SO:0000001 (region)
+T427	italic 14851 14855	Apcs
+#427	AnnotatorNotes T427	italic (null)
+T428	PR 14851 14855	Apcs
+#428	AnnotatorNotes T428	PR:000004126 (serum amyloid P-component)
+T429	EntrezGene 14851 14855	Apcs
+#429	AnnotatorNotes T429	EG:20219
+T430	sup 14855 14858	−/−
+#430	AnnotatorNotes T430	sup (null)
+T431	NCBITaxon 14859 14863	mice
+#431	AnnotatorNotes T431	NCBITaxon:10088 (Mus)
+T432	NCBITaxon 14898 14905	animals
+#432	AnnotatorNotes T432	NCBITaxon:33208 (Metazoa)
+T433	GO_CC 14932 14935	Abs
+#433	AnnotatorNotes T433	GO:0019814 (immunoglobulin complex)
+T434	GO_CC 15101 15104	Abs
+#434	AnnotatorNotes T434	GO:0019814 (immunoglobulin complex)
+T435	italic 15144 15148	Apcs
+#435	AnnotatorNotes T435	italic (null)
+T436	EntrezGene 15144 15148	Apcs
+#436	AnnotatorNotes T436	EG:20219
+T437	PR 15144 15148	Apcs
+#437	AnnotatorNotes T437	PR:000004126 (serum amyloid P-component)
+T438	sup 15148 15151	−/−
+#438	AnnotatorNotes T438	sup (null)
+T439	SO 15168 15177	wild-type
+#439	AnnotatorNotes T439	SO:0000817 (wild_type)
+T440	NCBITaxon 15235 15242	animals
+#440	AnnotatorNotes T440	NCBITaxon:33208 (Metazoa)
+T441	GO_BP 15248 15257	expressed
+#441	AnnotatorNotes T441	GO:0010467 (gene expression)
+T442	GO_CC 15278 15281	Abs
+#442	AnnotatorNotes T442	GO:0019814 (immunoglobulin complex)
+T443	NCBITaxon 15363 15367	mice
+#443	AnnotatorNotes T443	NCBITaxon:10088 (Mus)
+T444	SO 15386 15394	mutation
+#444	AnnotatorNotes T444	SO:0001059 (sequence_alteration)
+T445	italic 15402 15406	Apcs
+#445	AnnotatorNotes T445	italic (null)
+T446	EntrezGene 15402 15406	Apcs
+#446	AnnotatorNotes T446	EG:20219
+T447	PR 15402 15406	Apcs
+#447	AnnotatorNotes T447	PR:000004126 (serum amyloid P-component)
+T448	SO 15407 15411	gene
+#448	AnnotatorNotes T448	SO:0000704 (gene)
+T449	SO 15488 15506	loci on Chromosome
+#449	AnnotatorNotes T449	SO:0000830 (chromosome_part)
+T450	GO_CC 15496 15506	Chromosome
+#450	AnnotatorNotes T450	GO:0005694 (chromosome)
+T451	SO 15496 15506	Chromosome
+#451	AnnotatorNotes T451	SO:0000340 (chromosome)
+T452	SO 15521 15526	genes
+#452	AnnotatorNotes T452	SO:0000704 (gene)
+T453	GO_CC 15579 15586	nuclear
+#453	AnnotatorNotes T453	GO:0005634 (nucleus)
+T454	italic 15762 15766	Apcs
+#454	AnnotatorNotes T454	italic (null)
+T455	EntrezGene 15762 15766	Apcs
+#455	AnnotatorNotes T455	EG:20219
+T456	PR 15762 15766	Apcs
+#456	AnnotatorNotes T456	PR:000004126 (serum amyloid P-component)
+T457	sup 15766 15769	−/−
+#457	AnnotatorNotes T457	sup (null)
+T458	italic 15842 15846	Apcs
+#458	AnnotatorNotes T458	italic (null)
+T459	PR 15842 15846	Apcs
+#459	AnnotatorNotes T459	PR:000004126 (serum amyloid P-component)
+T460	EntrezGene 15842 15846	Apcs
+#460	AnnotatorNotes T460	EG:20219
+T461	SO 15896 15903	alleles
+#461	AnnotatorNotes T461	SO:0001023 (allele)
+T462	SO 16016 16021	genes
+#462	AnnotatorNotes T462	SO:0000704 (gene)
+T463	SO 16070 16074	gene
+#463	AnnotatorNotes T463	SO:0000704 (gene)
+T464	NCBITaxon 16084 16088	mice
+#464	AnnotatorNotes T464	NCBITaxon:10088 (Mus)
+T465	NCBITaxon 16203 16208	mouse
+#465	AnnotatorNotes T465	NCBITaxon:10088 (Mus)
+T466	SO 16234 16238	gene
+#466	AnnotatorNotes T466	SO:0000704 (gene)
+T467	SO 16286 16290	loci
+#467	AnnotatorNotes T467	SO:0000001 (region)
+T468	NCBITaxon 16315 16319	mice
+#468	AnnotatorNotes T468	NCBITaxon:10088 (Mus)
+T469	NCBITaxon 16394 16401	animals
+#469	AnnotatorNotes T469	NCBITaxon:33208 (Metazoa)
+T470	SO 16425 16429	gene
+#470	AnnotatorNotes T470	SO:0000704 (gene)
+T471	SO 16439 16448	mutations
+#471	AnnotatorNotes T471	SO:0001059 (sequence_alteration)
+T472	GO_BP 16458 16467	developed
+#472	AnnotatorNotes T472	GO:0000003 (reproduction)
+T473	NCBITaxon 16479 16484	mouse
+#473	AnnotatorNotes T473	NCBITaxon:10088 (Mus)
+T474	SO 16502 16527	portion of 129 Chromosome
+#474	AnnotatorNotes T474	"portion of .. Chromosome" SO:0000830 (chromosome_part)
+T475	GO_CC 16517 16527	Chromosome
+#475	AnnotatorNotes T475	GO:0005694 (chromosome)
+T476	SO 16517 16527	Chromosome
+#476	AnnotatorNotes T476	SO:0000340 (chromosome)
+T477	SO 16575 16584	wild-type
+#477	AnnotatorNotes T477	SO:0000817 (wild_type)
+T478	GO_CC 16623 16630	nuclear
+#478	AnnotatorNotes T478	GO:0005634 (nucleus)
+T479	GO_CC 16663 16673	Chromosome
+#479	AnnotatorNotes T479	GO:0005694 (chromosome)
+T480	SO 16663 16673	Chromosome
+#480	AnnotatorNotes T480	SO:0000340 (chromosome)
+T481	NCBITaxon 16714 16718	mice
+#481	AnnotatorNotes T481	NCBITaxon:10088 (Mus)
+T482	italic 16731 16735	Apcs
+#482	AnnotatorNotes T482	italic (null)
+T483	PR 16731 16735	Apcs
+#483	AnnotatorNotes T483	PR:000004126 (serum amyloid P-component)
+T484	EntrezGene 16731 16735	Apcs
+#484	AnnotatorNotes T484	EG:20219
+T485	SO 16736 16740	gene
+#485	AnnotatorNotes T485	SO:0000704 (gene)
+T486	EntrezGene 16763 16788	serum amyloid P component
+#486	AnnotatorNotes T486	EG:20219
+T487	PR 16763 16788	serum amyloid P component
+#487	AnnotatorNotes T487	PR:000004126 (serum amyloid P-component)
+T488	GO_CC 16899 16906	nuclear
+#488	AnnotatorNotes T488	GO:0005634 (nucleus)
+T489	SO 17044 17049	genes
+#489	AnnotatorNotes T489	SO:0000704 (gene)
+T490	SO 17070 17089	Chromosome 1 region
+#490	AnnotatorNotes T490	"Chromosome .. region" SO:0000830 (chromosome_part)
+T491	GO_CC 17070 17080	Chromosome
+#491	AnnotatorNotes T491	GO:0005694 (chromosome)
+T492	SO 17070 17080	Chromosome
+#492	AnnotatorNotes T492	SO:0000340 (chromosome)
+T493	SO 17162 17166	gene
+#493	AnnotatorNotes T493	SO:0000704 (gene)
+T494	CL 17194 17204	stem cells
+#494	AnnotatorNotes T494	CL:0000034 (stem cell)
+T495	GO_CC 17199 17204	cells
+#495	AnnotatorNotes T495	GO:0005623 (cell)
+T496	SO 17238 17245	genetic
+#496	AnnotatorNotes T496	SO:0000704 (gene)
+T497	GO_CC 17379 17386	nuclear
+#497	AnnotatorNotes T497	GO:0005634 (nucleus)
+T498	SO 17414 17418	gene
+#498	AnnotatorNotes T498	SO:0000704 (gene)
+T499	SO 17428 17434	mutant
+#499	AnnotatorNotes T499	SO:0001059 (sequence_alteration)
+T500	SO 17435 17439	gene
+#500	AnnotatorNotes T500	SO:0000704 (gene)
+T501	SO 17461 17466	genes
+#501	AnnotatorNotes T501	SO:0000704 (gene)
+T502	GO_BP 17467 17476	expressed
+#502	AnnotatorNotes T502	GO:0010467 (gene expression)
+T503	SO 17489 17495	region
+#503	AnnotatorNotes T503	SO:0000001 (region)
+T504	SO 17512 17516	gene
+#504	AnnotatorNotes T504	SO:0000704 (gene)
+T505	SO 17547 17552	genes
+#505	AnnotatorNotes T505	SO:0000704 (gene)
+T506	italic 17652 17655	lpr
+#506	AnnotatorNotes T506	italic (null)
+T507	italic 17660 17663	Yaa
+#507	AnnotatorNotes T507	italic (null)
+T508	EntrezGene 17660 17663	Yaa
+#508	AnnotatorNotes T508	EG:107944
+T509	SO 17687 17692	genes
+#509	AnnotatorNotes T509	SO:0000704 (gene)
+T510	NCBITaxon 17704 17708	mice
+#510	AnnotatorNotes T510	NCBITaxon:10088 (Mus)
+T511	italic 17730 17733	lpr
+#511	AnnotatorNotes T511	italic (null)
+T512	SO 17734 17738	gene
+#512	AnnotatorNotes T512	SO:0000704 (gene)
+T513	GO_BP 17805 17818	Ab production
+#513	AnnotatorNotes T513	GO:0002378 (immunoglobulin biosynthetic process)
+T514	GO_BP 17805 17818	Ab production
+#514	AnnotatorNotes T514	GO:0002377 (immunoglobulin production)
+T515	GO_CC 17805 17807	Ab
+#515	AnnotatorNotes T515	GO:0019814 (immunoglobulin complex)
+T516	GO_BP 17823 17829	lethal
+#516	AnnotatorNotes T516	GO:0016265 (death)
+T517	italic 17934 17937	lpr
+#517	AnnotatorNotes T517	italic (null)
+T518	SO 17938 17942	gene
+#518	AnnotatorNotes T518	SO:0000704 (gene)
+T519	GO_BP 18015 18028	Ab production
+#519	AnnotatorNotes T519	GO:0002378 (immunoglobulin biosynthetic process)
+T520	GO_BP 18015 18028	Ab production
+#520	AnnotatorNotes T520	GO:0002377 (immunoglobulin production)
+T521	GO_CC 18015 18017	Ab
+#521	AnnotatorNotes T521	GO:0019814 (immunoglobulin complex)
+T522	GO_CC 18064 18076	Y-chromosome
+#522	AnnotatorNotes T522	GO:0000806 (Y chromosome)
+T523	SO 18066 18076	chromosome
+#523	AnnotatorNotes T523	SO:0000340 (chromosome)
+T524	italic 18084 18087	Yaa
+#524	AnnotatorNotes T524	italic (null)
+T525	EntrezGene 18084 18087	Yaa
+#525	AnnotatorNotes T525	EG:107944
+T526	SO 18088 18092	gene
+#526	AnnotatorNotes T526	SO:0000704 (gene)
+T527	GO_BP 18118 18126	enhances
+#527	AnnotatorNotes T527	GO:0048518 (positive regulation of biological process)
+T528	GO_BP 18137 18160	development of auto-Abs
+#528	AnnotatorNotes T528	"development of .. Abs" GO:0002378 (immunoglobulin biosynthetic process)
+T529	GO_BP 18137 18160	development of auto-Abs
+#529	AnnotatorNotes T529	"development of .. Abs" GO:0002377 (immunoglobulin production)
+T530	GO_CC 18157 18160	Abs
+#530	AnnotatorNotes T530	GO:0019814 (immunoglobulin complex)
+T531	italic 18264 18267	Yaa
+#531	AnnotatorNotes T531	italic (null)
+T532	EntrezGene 18264 18267	Yaa
+#532	AnnotatorNotes T532	EG:107944
+T533	SO 18268 18272	gene
+#533	AnnotatorNotes T533	SO:0000704 (gene)
+T534	SO 18377 18384	genetic
+#534	AnnotatorNotes T534	SO:0000704 (gene)
+T535	SO 18457 18461	gene
+#535	AnnotatorNotes T535	SO:0000704 (gene)
+T536	NCBITaxon 18471 18475	mice
+#536	AnnotatorNotes T536	NCBITaxon:10088 (Mus)
+T537	SO 18648 18655	alleles
+#537	AnnotatorNotes T537	SO:0001023 (allele)
+T538	SO 18731 18752	microsatellite marker
+#538	AnnotatorNotes T538	SO:0000289 (microsatellite)
+T539	NCBITaxon 18781 18787	murine
+#539	AnnotatorNotes T539	NCBITaxon:39107 (Murinae)
+T540	SO 18807 18816	intervals
+#540	AnnotatorNotes T540	SO:0000001 (region)
+T541	SO 18974 18981	alleles
+#541	AnnotatorNotes T541	SO:0001023 (allele)
+T542	SO 19114 19118	loci
+#542	AnnotatorNotes T542	SO:0000001 (region)
+T543	SO 19134 19139	locus
+#543	AnnotatorNotes T543	SO:0000001 (region)
+T544	SO 19219 19226	genetic
+#544	AnnotatorNotes T544	SO:0000704 (gene)
+T545	SO 19310 19317	genetic
+#545	AnnotatorNotes T545	SO:0000704 (gene)
+T546	SO 19332 19336	gene
+#546	AnnotatorNotes T546	SO:0000704 (gene)
+T547	NCBITaxon 19346 19350	mice
+#547	AnnotatorNotes T547	NCBITaxon:10088 (Mus)
+T548	NCBITaxon 19688 19692	mice
+#548	AnnotatorNotes T548	NCBITaxon:10088 (Mus)
+T549	SO 19767 19774	alleles
+#549	AnnotatorNotes T549	SO:0001023 (allele)
+T550	SO 19923 19930	genetic
+#550	AnnotatorNotes T550	SO:0000704 (gene)
+T551	SO 19931 19935	loci
+#551	AnnotatorNotes T551	SO:0000001 (region)
+T552	NCBITaxon 20012 20016	mice
+#552	AnnotatorNotes T552	NCBITaxon:10088 (Mus)
+T553	SO 20053 20074	segment of Chromosome
+#553	AnnotatorNotes T553	SO:0000830 (chromosome_part)
+T554	GO_CC 20064 20074	Chromosome
+#554	AnnotatorNotes T554	GO:0005694 (chromosome)
+T555	SO 20064 20074	Chromosome
+#555	AnnotatorNotes T555	SO:0000340 (chromosome)
+T556	GO_BP 20104 20114	expression
+#556	AnnotatorNotes T556	GO:0010467 (gene expression)
+T557	GO_CC 20123 20126	Abs
+#557	AnnotatorNotes T557	GO:0019814 (immunoglobulin complex)
+T558	SO 20133 20139	region
+#558	AnnotatorNotes T558	SO:0000001 (region)
+T559	GO_BP 20210 20218	response
+#559	AnnotatorNotes T559	GO:0050896 (response to stimulus)
+T560	GO_CC 20222 20229	nuclear
+#560	AnnotatorNotes T560	GO:0005634 (nucleus)
+T561	GO_BP 20254 20262	response
+#561	AnnotatorNotes T561	GO:0050896 (response to stimulus)
+T562	SO 20304 20309	genes
+#562	AnnotatorNotes T562	SO:0000704 (gene)
+T563	SO 20355 20376	segment on Chromosome
+#563	AnnotatorNotes T563	SO:0000830 (chromosome_part)
+T564	GO_CC 20366 20376	Chromosome
+#564	AnnotatorNotes T564	GO:0005694 (chromosome)
+T565	SO 20366 20376	Chromosome
+#565	AnnotatorNotes T565	SO:0000340 (chromosome)
+T566	SO 20412 20417	genes
+#566	AnnotatorNotes T566	SO:0000704 (gene)
+T567	GO_CC 20421 20431	Chromosome
+#567	AnnotatorNotes T567	GO:0005694 (chromosome)
+T568	SO 20421 20431	Chromosome
+#568	AnnotatorNotes T568	SO:0000340 (chromosome)
+T569	SO 20523 20543	region on Chromosome
+#569	AnnotatorNotes T569	SO:0000830 (chromosome_part)
+T570	GO_CC 20533 20543	Chromosome
+#570	AnnotatorNotes T570	GO:0005694 (chromosome)
+T571	SO 20533 20543	Chromosome
+#571	AnnotatorNotes T571	SO:0000340 (chromosome)
+T572	SO 20574 20581	alleles
+#572	AnnotatorNotes T572	SO:0001023 (allele)
+T573	SO 20646 20667	portion of Chromosome
+#573	AnnotatorNotes T573	SO:0000830 (chromosome_part)
+T574	GO_CC 20657 20667	Chromosome
+#574	AnnotatorNotes T574	GO:0005694 (chromosome)
+T575	SO 20657 20667	Chromosome
+#575	AnnotatorNotes T575	SO:0000340 (chromosome)
+T576	SO 20683 20689	region
+#576	AnnotatorNotes T576	SO:0000001 (region)
+T577	SO 20774 20794	region on Chromosome
+#577	AnnotatorNotes T577	SO:0000830 (chromosome_part)
+T578	GO_CC 20784 20794	Chromosome
+#578	AnnotatorNotes T578	GO:0005694 (chromosome)
+T579	SO 20784 20794	Chromosome
+#579	AnnotatorNotes T579	SO:0000340 (chromosome)
+T580	NCBITaxon 20891 20897	murine
+#580	AnnotatorNotes T580	NCBITaxon:39107 (Murinae)
+T581	SO 21024 21028	loci
+#581	AnnotatorNotes T581	SO:0000001 (region)
+T582	SO 21076 21083	genetic
+#582	AnnotatorNotes T582	SO:0000704 (gene)
+T583	SO 21140 21146	genome
+#583	AnnotatorNotes T583	SO:0001026 (genome)
+T584	GO_BP 21158 21167	enhancing
+#584	AnnotatorNotes T584	GO:0048518 (positive regulation of biological process)
+T585	SO 21190 21194	loci
+#585	AnnotatorNotes T585	SO:0000001 (region)
+T586	NCBITaxon 21208 21213	mouse
+#586	AnnotatorNotes T586	NCBITaxon:10088 (Mus)
+T587	SO 21230 21235	genes
+#587	AnnotatorNotes T587	SO:0000704 (gene)
+T588	GO_BP 21236 21245	promoting
+#588	AnnotatorNotes T588	GO:0048518 (positive regulation of biological process)
+T589	NCBITaxon 21276 21280	mice
+#589	AnnotatorNotes T589	NCBITaxon:10088 (Mus)
+T590	SO 21316 21320	loci
+#590	AnnotatorNotes T590	SO:0000001 (region)
+T591	SO 21375 21379	gene
+#591	AnnotatorNotes T591	SO:0000704 (gene)
+T592	NCBITaxon 21389 21396	animals
+#592	AnnotatorNotes T592	NCBITaxon:33208 (Metazoa)
+T593	italic 21431 21435	Apcs
+#593	AnnotatorNotes T593	italic (null)
+T594	EntrezGene 21431 21435	Apcs
+#594	AnnotatorNotes T594	EG:20219
+T595	PR 21431 21435	Apcs
+#595	AnnotatorNotes T595	PR:000004126 (serum amyloid P-component)
+T596	sup 21435 21438	−/−
+#596	AnnotatorNotes T596	sup (null)
+T597	NCBITaxon 21439 21443	mice
+#597	AnnotatorNotes T597	NCBITaxon:10088 (Mus)
+T598	GO_CC 21449 21459	Chromosome
+#598	AnnotatorNotes T598	GO:0005694 (chromosome)
+T599	SO 21449 21459	Chromosome
+#599	AnnotatorNotes T599	SO:0000340 (chromosome)
+T600	SO 21462 21473	genetically
+#600	AnnotatorNotes T600	SO:0000704 (gene)
+T601	GO_CC 21571 21574	MHC
+#601	AnnotatorNotes T601	GO:0042611 (MHC protein complex)
+T602	SO 21575 21582	regions
+#602	AnnotatorNotes T602	SO:0000001 (region)
+T603	NCBITaxon 21590 21595	mouse
+#603	AnnotatorNotes T603	NCBITaxon:10088 (Mus)
+T604	SO 21596 21602	genome
+#604	AnnotatorNotes T604	SO:0001026 (genome)
+T605	GO_CC 21610 21640	telomeric Chromosome 1 segment
+#605	AnnotatorNotes T605	"telomeric Chromosome .. segment" GO:0000781 (chromosome, telomeric region)
+T606	SO 21610 21640	telomeric Chromosome 1 segment
+#606	AnnotatorNotes T606	"telomeric Chromosome .. segment" SO:0000624 (telomere)
+T607	GO_CC 21620 21630	Chromosome
+#607	AnnotatorNotes T607	GO:0005694 (chromosome)
+T608	SO 21620 21630	Chromosome
+#608	AnnotatorNotes T608	SO:0000340 (chromosome)
+T609	SO 21664 21668	loci
+#609	AnnotatorNotes T609	SO:0000001 (region)
+T610	italic 21681 21685	Sle1
+#610	AnnotatorNotes T610	italic (null)
+T611	EntrezGene 21681 21685	Sle1
+#611	AnnotatorNotes T611	EG:112367
+T612	italic 21707 21711	Nba2
+#612	AnnotatorNotes T612	italic (null)
+T613	EntrezGene 21707 21711	Nba2
+#613	AnnotatorNotes T613	EG:110273
+T614	italic 21774 21778	Bxs3
+#614	AnnotatorNotes T614	italic (null)
+T615	EntrezGene 21774 21778	Bxs3
+#615	AnnotatorNotes T615	EG:114323
+T616	SO 21858 21884	region of mouse Chromosome
+#616	AnnotatorNotes T616	"region of .. Chromosome" SO:0000830 (chromosome_part)
+T617	NCBITaxon 21868 21873	mouse
+#617	AnnotatorNotes T617	NCBITaxon:10088 (Mus)
+T618	GO_CC 21874 21884	Chromosome
+#618	AnnotatorNotes T618	GO:0005694 (chromosome)
+T619	SO 21874 21884	Chromosome
+#619	AnnotatorNotes T619	SO:0000340 (chromosome)
+T620	SO 21890 21901	orthologous
+#620	AnnotatorNotes T620	SO:0000858 (orthologous)
+T621	SO 21907 21933	region on human Chromosome
+#621	AnnotatorNotes T621	"region on .. Chromosome" SO:0000830 (chromosome_part)
+T622	NCBITaxon 21917 21922	human
+#622	AnnotatorNotes T622	NCBITaxon:9606 (Homo sapiens)
+T623	GO_CC 21923 21933	Chromosome
+#623	AnnotatorNotes T623	GO:0005694 (chromosome)
+T624	SO 21923 21933	Chromosome
+#624	AnnotatorNotes T624	SO:0000340 (chromosome)
+T625	NCBITaxon 21977 21982	human
+#625	AnnotatorNotes T625	NCBITaxon:9606 (Homo sapiens)
+T626	italic 22013 22017	Apcs
+#626	AnnotatorNotes T626	italic (null)
+T627	PR 22013 22017	Apcs
+#627	AnnotatorNotes T627	PR:000004126 (serum amyloid P-component)
+T628	EntrezGene 22013 22017	Apcs
+#628	AnnotatorNotes T628	EG:325
+T629	SO 22018 22022	gene
+#629	AnnotatorNotes T629	SO:0000704 (gene)
+T630	SO 22047 22052	genes
+#630	AnnotatorNotes T630	SO:0000704 (gene)
+T631	SO 22078 22084	region
+#631	AnnotatorNotes T631	SO:0000001 (region)
+T632	EntrezGene 22090 22121	human serum amyloid P component
+#632	AnnotatorNotes T632	EG:325
+T633	NCBITaxon 22090 22095	human
+#633	AnnotatorNotes T633	NCBITaxon:9606 (Homo sapiens)
+T634	PR 22096 22121	serum amyloid P component
+#634	AnnotatorNotes T634	PR:000004126 (serum amyloid P-component)
+T635	GO_MF 22122 22127	binds
+#635	AnnotatorNotes T635	GO:0005488 (binding)
+T636	SO 22138 22141	DNA
+#636	AnnotatorNotes T636	SO:0000352 (DNA)
+T637	GO_CC 22143 22152	chromatin
+#637	AnnotatorNotes T637	GO:0000785 (chromatin)
+T638	CL 22158 22173	apoptotic cells
+#638	AnnotatorNotes T638	CL:0000445 (apoptosis fated cell)
+T639	GO_BP 22158 22167	apoptotic
+#639	AnnotatorNotes T639	GO:0006915 (apoptosis)
+T640	GO_CC 22168 22173	cells
+#640	AnnotatorNotes T640	GO:0005623 (cell)
+T641	GO_CC 22287 22296	chromatin
+#641	AnnotatorNotes T641	GO:0000785 (chromatin)
+T642	CL 22301 22316	apoptotic cells
+#642	AnnotatorNotes T642	CL:0000445 (apoptosis fated cell)
+T643	GO_BP 22301 22310	apoptotic
+#643	AnnotatorNotes T643	GO:0006915 (apoptosis)
+T644	CL 22311 22324	cells in vivo
+#644	AnnotatorNotes T644	CL:0000003 (cell in vivo)
+T645	GO_CC 22311 22316	cells
+#645	AnnotatorNotes T645	GO:0005623 (cell)
+T646	italic 22443 22447	Apcs
+#646	AnnotatorNotes T646	italic (null)
+T647	PR 22443 22447	Apcs
+#647	AnnotatorNotes T647	PR:000004126 (serum amyloid P-component)
+T648	EntrezGene 22443 22447	Apcs
+#648	AnnotatorNotes T648	EG:20219
+T649	sup 22447 22450	−/−
+#649	AnnotatorNotes T649	sup (null)
+T650	NCBITaxon 22451 22455	mice
+#650	AnnotatorNotes T650	NCBITaxon:10088 (Mus)
+T651	GO_BP 22470 22477	produce
+#651	AnnotatorNotes T651	GO:0009058 (biosynthetic process)
+T652	GO_CC 22523 22537	immune complex
+#652	AnnotatorNotes T652	GO:0019814 (immunoglobulin complex)
+T653	italic 22643 22647	Apcs
+#653	AnnotatorNotes T653	italic (null)
+T654	PR 22643 22647	Apcs
+#654	AnnotatorNotes T654	PR:000004126 (serum amyloid P-component)
+T655	EntrezGene 22643 22647	Apcs
+#655	AnnotatorNotes T655	EG:20219
+T656	GO_CC 22678 22687	chromatin
+#656	AnnotatorNotes T656	GO:0000785 (chromatin)
+T657	GO_CC 22784 22793	chromatin
+#657	AnnotatorNotes T657	GO:0000785 (chromatin)
+T658	GO_CC 22794 22796	Ab
+#658	AnnotatorNotes T658	GO:0019814 (immunoglobulin complex)
+T659	italic 22858 22862	Apcs
+#659	AnnotatorNotes T659	italic (null)
+T660	EntrezGene 22858 22862	Apcs
+#660	AnnotatorNotes T660	EG:20219
+T661	PR 22858 22862	Apcs
+#661	AnnotatorNotes T661	PR:000004126 (serum amyloid P-component)
+T662	sup 22862 22865	−/−
+#662	AnnotatorNotes T662	sup (null)
+T663	NCBITaxon 22866 22870	mice
+#663	AnnotatorNotes T663	NCBITaxon:10088 (Mus)
+T664	italic 22945 22949	Apcs
+#664	AnnotatorNotes T664	italic (null)
+T665	EntrezGene 22945 22949	Apcs
+#665	AnnotatorNotes T665	EG:20219
+T666	PR 22945 22949	Apcs
+#666	AnnotatorNotes T666	PR:000004126 (serum amyloid P-component)
+T667	sup 22949 22952	−/−
+#667	AnnotatorNotes T667	sup (null)
+T668	NCBITaxon 22953 22957	mice
+#668	AnnotatorNotes T668	NCBITaxon:10088 (Mus)
+T669	GO_BP 22994 23003	generated
+#669	AnnotatorNotes T669	GO:0000003 (reproduction)
+T670	SO 23099 23103	loci
+#670	AnnotatorNotes T670	SO:0000001 (region)
+T671	SO 23154 23160	genome
+#671	AnnotatorNotes T671	SO:0001026 (genome)
+T672	SO 23189 23195	region
+#672	AnnotatorNotes T672	SO:0000001 (region)
+T673	italic 23212 23216	Apcs
+#673	AnnotatorNotes T673	italic (null)
+T674	PR 23212 23216	Apcs
+#674	AnnotatorNotes T674	PR:000004126 (serum amyloid P-component)
+T675	EntrezGene 23212 23216	Apcs
+#675	AnnotatorNotes T675	EG:20219
+T676	SO 23217 23221	gene
+#676	AnnotatorNotes T676	SO:0000704 (gene)
+T677	SO 23234 23239	locus
+#677	AnnotatorNotes T677	SO:0000001 (region)
+T678	GO_BP 23260 23300	development of ANA and anti-chromatin Ab
+#678	AnnotatorNotes T678	"development of .. Ab" GO:0002377 (immunoglobulin production)
+T679	GO_BP 23260 23300	development of ANA and anti-chromatin Ab
+#679	AnnotatorNotes T679	"development of .. Ab" GO:0002378 (immunoglobulin biosynthetic process)
+T680	GO_CC 23288 23297	chromatin
+#680	AnnotatorNotes T680	GO:0000785 (chromatin)
+T681	GO_CC 23298 23300	Ab
+#681	AnnotatorNotes T681	GO:0019814 (immunoglobulin complex)
+T682	italic 23399 23403	Apcs
+#682	AnnotatorNotes T682	italic (null)
+T683	PR 23399 23403	Apcs
+#683	AnnotatorNotes T683	PR:000004126 (serum amyloid P-component)
+T684	EntrezGene 23399 23403	Apcs
+#684	AnnotatorNotes T684	EG:20219
+T685	sup 23403 23406	−/−
+#685	AnnotatorNotes T685	sup (null)
+T686	NCBITaxon 23407 23411	mice
+#686	AnnotatorNotes T686	NCBITaxon:10088 (Mus)
+T687	GO_CC 23416 23426	Chromosome
+#687	AnnotatorNotes T687	GO:0005694 (chromosome)
+T688	SO 23416 23426	Chromosome
+#688	AnnotatorNotes T688	SO:0000340 (chromosome)
+T689	SO 23429 23440	genetically
+#689	AnnotatorNotes T689	SO:0000704 (gene)
+T690	GO_CC 23538 23541	Abs
+#690	AnnotatorNotes T690	GO:0019814 (immunoglobulin complex)
+T691	italic 23620 23624	Apcs
+#691	AnnotatorNotes T691	italic (null)
+T692	EntrezGene 23620 23624	Apcs
+#692	AnnotatorNotes T692	EG:20219
+T693	PR 23620 23624	Apcs
+#693	AnnotatorNotes T693	PR:000004126 (serum amyloid P-component)
+T694	SO 23680 23685	genes
+#694	AnnotatorNotes T694	SO:0000704 (gene)
+T695	GO_CC 23695 23725	telomeric region of Chromosome
+#695	AnnotatorNotes T695	GO:0000781 (chromosome, telomeric region)
+T696	SO 23695 23725	telomeric region of Chromosome
+#696	AnnotatorNotes T696	SO:0000624 (telomere)
+T697	GO_CC 23715 23725	Chromosome
+#697	AnnotatorNotes T697	GO:0005694 (chromosome)
+T698	SO 23715 23725	Chromosome
+#698	AnnotatorNotes T698	SO:0000340 (chromosome)
+T699	SO 23753 23760	genomic
+#699	AnnotatorNotes T699	SO:0001026 (genome)
+T700	NCBITaxon 23853 23857	mice
+#700	AnnotatorNotes T700	NCBITaxon:10088 (Mus)
+T701	SO 23880 23886	region
+#701	AnnotatorNotes T701	SO:0000001 (region)
+T702	GO_BP 23893 23903	generation
+#702	AnnotatorNotes T702	GO:0000003 (reproduction)
+T703	SO 24022 24029	alleles
+#703	AnnotatorNotes T703	SO:0001023 (allele)
+T704	SO 24146 24166	Chromosome 1 segment
+#704	AnnotatorNotes T704	"Chromosome .. segment" SO:0000830 (chromosome_part)
+T705	GO_CC 24146 24156	Chromosome
+#705	AnnotatorNotes T705	GO:0005694 (chromosome)
+T706	SO 24146 24156	Chromosome
+#706	AnnotatorNotes T706	SO:0000340 (chromosome)
+T707	italic 24175 24179	Apcs
+#707	AnnotatorNotes T707	italic (null)
+T708	PR 24175 24179	Apcs
+#708	AnnotatorNotes T708	PR:000004126 (serum amyloid P-component)
+T709	EntrezGene 24175 24179	Apcs
+#709	AnnotatorNotes T709	EG:20219
+T710	SO 24180 24184	gene
+#710	AnnotatorNotes T710	SO:0000704 (gene)
+T711	SO 24258 24287	interval on distal Chromosome
+#711	AnnotatorNotes T711	"interval on .. Chromosome" SO:0000830 (chromosome_part)
+T712	GO_CC 24277 24287	Chromosome
+#712	AnnotatorNotes T712	GO:0005694 (chromosome)
+T713	SO 24277 24287	Chromosome
+#713	AnnotatorNotes T713	SO:0000340 (chromosome)
+T714	SO 24296 24307	transferred
+#714	AnnotatorNotes T714	SO:0000049 (translocate)
+T715	SO 24325 24331	genome
+#715	AnnotatorNotes T715	SO:0001026 (genome)
+T716	GO_BP 24356 24363	created
+#716	AnnotatorNotes T716	GO:0009058 (biosynthetic process)
+T717	SO 24395 24402	mutated
+#717	AnnotatorNotes T717	SO:0000041 (sequence_operation)
+T718	SO 24403 24407	gene
+#718	AnnotatorNotes T718	SO:0000704 (gene)
+T719	SO 24424 24442	chromosomal region
+#719	AnnotatorNotes T719	SO:0000830 (chromosome_part)
+T720	GO_CC 24424 24435	chromosomal
+#720	AnnotatorNotes T720	GO:0005694 (chromosome)
+T721	SO 24424 24435	chromosomal
+#721	AnnotatorNotes T721	SO:0000340 (chromosome)
+T722	GO_BP 24474 24496	production of auto-Abs
+#722	AnnotatorNotes T722	"production of .. Abs" GO:0002378 (immunoglobulin biosynthetic process)
+T723	GO_BP 24474 24496	production of auto-Abs
+#723	AnnotatorNotes T723	"production of .. Abs" GO:0002377 (immunoglobulin production)
+T724	GO_CC 24493 24496	Abs
+#724	AnnotatorNotes T724	GO:0019814 (immunoglobulin complex)
+T725	NCBITaxon 24553 24557	mice
+#725	AnnotatorNotes T725	NCBITaxon:10088 (Mus)
+T726	SO 24572 24581	mutations
+#726	AnnotatorNotes T726	SO:0001059 (sequence_alteration)
+T727	SO 24572 24581	mutations
+#727	AnnotatorNotes T727	SO:0000041 (sequence_operation)
+T728	SO 24585 24590	genes
+#728	AnnotatorNotes T728	SO:0000704 (gene)
+T729	SO 24607 24613	region
+#729	AnnotatorNotes T729	SO:0000001 (region)
+T730	NCBITaxon 24676 24680	mice
+#730	AnnotatorNotes T730	NCBITaxon:10088 (Mus)
+T731	EntrezGene 24689 24696	FcγRIIB
+#731	AnnotatorNotes T731	EG:14130
+T732	PR 24689 24696	FcγRIIB
+#732	AnnotatorNotes T732	PR:000001479 (low affinity immunoglobulin gamma Fc region receptor II)
+T733	GO_MF 24725 24745	complement receptors
+#733	AnnotatorNotes T733	GO:0004875 (complement receptor activity)
+T734	independent_continuant 24725 24745	complement receptors
+#734	AnnotatorNotes T734	independent_continuant
+T735	EntrezGene 24747 24750	CR1
+#735	AnnotatorNotes T735	EG:12902
+T736	PR 24747 24750	CR1
+#736	AnnotatorNotes T736	PR:000001337 (complement receptor type 1)
+T737	PR 24797 24822	decay-accelerating factor
+#737	AnnotatorNotes T737	PR:000025662 (complement decay-accelerating factor)
+T738	GO_BP 24797 24802	decay
+#738	AnnotatorNotes T738	GO:0022411 (cellular component disassembly)
+T739	EntrezGene 24824 24828	CD55
+#739	AnnotatorNotes T739	EG:13136
+T740	PR 24824 24828	CD55
+#740	AnnotatorNotes T740	PR:000025662 (complement decay-accelerating factor)
+T741	NCBITaxon 24906 24910	mice
+#741	AnnotatorNotes T741	NCBITaxon:10088 (Mus)
+T742	SO 24929 24937	mutation
+#742	AnnotatorNotes T742	SO:0001059 (sequence_alteration)
+T743	CL 24969 24979	stem cells
+#743	AnnotatorNotes T743	CL:0000034 (stem cell)
+T744	GO_CC 24974 24979	cells
+#744	AnnotatorNotes T744	GO:0005623 (cell)
+T745	SO 25027 25034	genetic
+#745	AnnotatorNotes T745	SO:0000704 (gene)
+T746	NCBITaxon 25118 25124	murine
+#746	AnnotatorNotes T746	NCBITaxon:39107 (Murinae)
+T747	SO 25173 25177	gene
+#747	AnnotatorNotes T747	SO:0000704 (gene)
+T748	SO 25234 25238	gene
+#748	AnnotatorNotes T748	SO:0000704 (gene)
+T749	NCBITaxon 25248 25255	animals
+#749	AnnotatorNotes T749	NCBITaxon:33208 (Metazoa)
+T750	SO 25265 25274	mutations
+#750	AnnotatorNotes T750	SO:0001059 (sequence_alteration)
+T751	SO 25278 25283	genes
+#751	AnnotatorNotes T751	SO:0000704 (gene)
+T752	SO 25325 25331	allele
+#752	AnnotatorNotes T752	SO:0001023 (allele)
+T753	GO_CC 25335 25345	Chromosome
+#753	AnnotatorNotes T753	GO:0005694 (chromosome)
+T754	SO 25335 25345	Chromosome
+#754	AnnotatorNotes T754	SO:0000340 (chromosome)
+T755	GO_CC 25401 25408	nuclear
+#755	AnnotatorNotes T755	GO:0005634 (nucleus)
+T756	italic 25468 25475	Apcs−/−
+#756	AnnotatorNotes T756	italic (null)
+T757	EntrezGene 25468 25472	Apcs
+#757	AnnotatorNotes T757	EG:20219
+T758	PR 25468 25472	Apcs
+#758	AnnotatorNotes T758	PR:000004126 (serum amyloid P-component)
+T759	sup 25472 25475	−/−
+#759	AnnotatorNotes T759	sup (null)
+T760	NCBITaxon 25476 25480	mice
+#760	AnnotatorNotes T760	NCBITaxon:10088 (Mus)
+T761	NCBITaxon 25529 25533	mice
+#761	AnnotatorNotes T761	NCBITaxon:10088 (Mus)
+T762	italic 25612 25619	Apcs−/−
+#762	AnnotatorNotes T762	italic (null)
+T763	EntrezGene 25612 25616	Apcs
+#763	AnnotatorNotes T763	EG:20219
+T764	PR 25612 25616	Apcs
+#764	AnnotatorNotes T764	PR:000004126 (serum amyloid P-component)
+T765	sup 25616 25619	−/−
+#765	AnnotatorNotes T765	sup (null)
+T766	NCBITaxon 25620 25624	mice
+#766	AnnotatorNotes T766	NCBITaxon:10088 (Mus)
+T767	NCBITaxon 25652 25656	mice
+#767	AnnotatorNotes T767	NCBITaxon:10088 (Mus)
+T768	italic 25699 25703	Apcs
+#768	AnnotatorNotes T768	italic (null)
+T769	PR 25699 25703	Apcs
+#769	AnnotatorNotes T769	PR:000004126 (serum amyloid P-component)
+T770	EntrezGene 25699 25703	Apcs
+#770	AnnotatorNotes T770	EG:20219
+T771	GO_BP 25729 25739	processing
+#771	AnnotatorNotes T771	GO:0019882 (antigen processing and presentation)
+T772	italic 25813 25817	Apcs
+#772	AnnotatorNotes T772	italic (null)
+T773	PR 25813 25817	Apcs
+#773	AnnotatorNotes T773	PR:000004126 (serum amyloid P-component)
+T774	EntrezGene 25813 25817	Apcs
+#774	AnnotatorNotes T774	EG:20219
+T775	GO_BP 25908 25918	expression
+#775	AnnotatorNotes T775	GO:0010467 (gene expression)
+T776	EntrezGene 25926 25950	human C-reactive protein
+#776	AnnotatorNotes T776	EG:1401
+T777	NCBITaxon 25926 25931	human
+#777	AnnotatorNotes T777	NCBITaxon:9606 (Homo sapiens)
+T778	PR 25932 25950	C-reactive protein
+#778	AnnotatorNotes T778	PR:000005897 (C-reactive protein)
+T779	CHEBI 25943 25950	protein
+#779	AnnotatorNotes T779	CHEBI:36080 (proteins)
+T780	GO_BP 25955 25966	acute-phase
+#780	AnnotatorNotes T780	GO:0006953 (acute-phase response)
+T781	CHEBI 25967 25974	protein
+#781	AnnotatorNotes T781	CHEBI:36080 (proteins)
+T782	italic 25994 25998	Apcs
+#782	AnnotatorNotes T782	italic (null)
+T783	PR 25994 25998	Apcs
+#783	AnnotatorNotes T783	PR:000004126 (serum amyloid P-component)
+T784	GO_CC 26118 26134	immune complexes
+#784	AnnotatorNotes T784	GO:0019814 (immunoglobulin complex)
+T785	SO 26201 26213	polymorphism
+#785	AnnotatorNotes T785	SO:0001025 (polymorphic_sequence_variant)
+T786	SO 26201 26213	polymorphism
+#786	AnnotatorNotes T786	SO:0000694 (SNP)
+T787	EntrezGene 26253 26271	C-reactive protein
+#787	AnnotatorNotes T787	EG:1401
+T788	PR 26253 26271	C-reactive protein
+#788	AnnotatorNotes T788	PR:000005897 (C-reactive protein)
+T789	CHEBI 26264 26271	protein
+#789	AnnotatorNotes T789	CHEBI:36080 (proteins)
+T790	NCBITaxon 26313 26319	humans
+#790	AnnotatorNotes T790	NCBITaxon:9606 (Homo sapiens)
+T791	NCBITaxon 26368 26372	mice
+#791	AnnotatorNotes T791	NCBITaxon:10088 (Mus)
+T792	italic 26381 26388	Apcs−/−
+#792	AnnotatorNotes T792	italic (null)
+T793	EntrezGene 26381 26385	Apcs
+#793	AnnotatorNotes T793	EG:20219
+T794	PR 26381 26385	Apcs
+#794	AnnotatorNotes T794	PR:000004126 (serum amyloid P-component)
+T795	sup 26385 26388	−/−
+#795	AnnotatorNotes T795	sup (null)
+T796	NCBITaxon 26389 26393	mice
+#796	AnnotatorNotes T796	NCBITaxon:10088 (Mus)
+T797	SO 26432 26453	regions on Chromosome
+#797	AnnotatorNotes T797	SO:0000830 (chromosome_part)
+T798	GO_CC 26443 26453	Chromosome
+#798	AnnotatorNotes T798	GO:0005694 (chromosome)
+T799	SO 26443 26453	Chromosome
+#799	AnnotatorNotes T799	SO:0000340 (chromosome)
+T800	SO 26610 26615	genes
+#800	AnnotatorNotes T800	SO:0000704 (gene)
+T801	NCBITaxon 26722 26726	mice
+#801	AnnotatorNotes T801	NCBITaxon:10088 (Mus)
+T802	SO 26783 26788	genes
+#802	AnnotatorNotes T802	SO:0000704 (gene)
+T803	EntrezGene 26887 26891	Apcs
+#803	AnnotatorNotes T803	EG:20219
+T804	PR 26887 26891	Apcs
+#804	AnnotatorNotes T804	PR:000004126 (serum amyloid P-component)
+T805	italic 26887 26890	Apc
+#805	AnnotatorNotes T805	italic (null)
+T806	SO 27028 27035	genomes
+#806	AnnotatorNotes T806	SO:0001026 (genome)
+T807	SO 27098 27102	gene
+#807	AnnotatorNotes T807	SO:0000704 (gene)
+T808	SO 27201 27208	genetic
+#808	AnnotatorNotes T808	SO:0000704 (gene)
+T809	NCBITaxon 27248 27252	Mice
+#809	AnnotatorNotes T809	NCBITaxon:10088 (Mus)
+T810	NCBITaxon 27263 27267	mice
+#810	AnnotatorNotes T810	NCBITaxon:10088 (Mus)
+T811	SO 27282 27291	Wild-type
+#811	AnnotatorNotes T811	SO:0000817 (wild_type)
+T812	GO_BP 27363 27367	bred
+#812	AnnotatorNotes T812	GO:0000003 (reproduction)
+T813	GO_BP 27363 27367	bred
+#813	AnnotatorNotes T813	GO:0007618 (mating)
+T814	NCBITaxon 27390 27396	animal
+#814	AnnotatorNotes T814	NCBITaxon:33208 (Metazoa)
+T815	NCBITaxon 27474 27478	mice
+#815	AnnotatorNotes T815	NCBITaxon:10088 (Mus)
+T816	GO_BP 27484 27493	generated
+#816	AnnotatorNotes T816	GO:0000003 (reproduction)
+T817	SO 27519 27528	wild-type
+#817	AnnotatorNotes T817	SO:0000817 (wild_type)
+T818	NCBITaxon 27559 27563	mice
+#818	AnnotatorNotes T818	NCBITaxon:10088 (Mus)
+T819	NCBITaxon 27603 27607	mice
+#819	AnnotatorNotes T819	NCBITaxon:10088 (Mus)
+T820	italic 27613 27617	Apcs
+#820	AnnotatorNotes T820	italic (null)
+T821	PR 27613 27617	Apcs
+#821	AnnotatorNotes T821	PR:000004126 (serum amyloid P-component)
+T822	EntrezGene 27613 27617	Apcs
+#822	AnnotatorNotes T822	EG:20219
+T823	sup 27617 27620	−/−
+#823	AnnotatorNotes T823	sup (null)
+T824	NCBITaxon 27620 27624	mice
+#824	AnnotatorNotes T824	NCBITaxon:10088 (Mus)
+T825	GO_BP 27630 27639	generated
+#825	AnnotatorNotes T825	GO:0000003 (reproduction)
+T826	italic 27710 27714	Apcs
+#826	AnnotatorNotes T826	italic (null)
+T827	PR 27710 27714	Apcs
+#827	AnnotatorNotes T827	PR:000004126 (serum amyloid P-component)
+T828	EntrezGene 27710 27714	Apcs
+#828	AnnotatorNotes T828	EG:20219
+T829	sup 27714 27717	−/−
+#829	AnnotatorNotes T829	sup (null)
+T830	NCBITaxon 27718 27722	mice
+#830	AnnotatorNotes T830	NCBITaxon:10088 (Mus)
+T831	GO_BP 27728 27737	generated
+#831	AnnotatorNotes T831	GO:0000003 (reproduction)
+T832	italic 27755 27759	Apcs
+#832	AnnotatorNotes T832	italic (null)
+T833	EntrezGene 27755 27759	Apcs
+#833	AnnotatorNotes T833	EG:20219
+T834	PR 27755 27759	Apcs
+#834	AnnotatorNotes T834	PR:000004126 (serum amyloid P-component)
+T835	sup 27759 27762	−/−
+#835	AnnotatorNotes T835	sup (null)
+T836	NCBITaxon 27763 27767	mice
+#836	AnnotatorNotes T836	NCBITaxon:10088 (Mus)
+T837	SO 27779 27786	genetic
+#837	AnnotatorNotes T837	SO:0000704 (gene)
+T838	italic 27803 27807	Apcs
+#838	AnnotatorNotes T838	italic (null)
+T839	EntrezGene 27803 27807	Apcs
+#839	AnnotatorNotes T839	EG:20219
+T840	PR 27803 27807	Apcs
+#840	AnnotatorNotes T840	PR:000004126 (serum amyloid P-component)
+T841	sup 27807 27810	−/−
+#841	AnnotatorNotes T841	sup (null)
+T842	NCBITaxon 27811 27818	animals
+#842	AnnotatorNotes T842	NCBITaxon:33208 (Metazoa)
+T843	italic 27924 27928	Apcs
+#843	AnnotatorNotes T843	italic (null)
+T844	PR 27924 27928	Apcs
+#844	AnnotatorNotes T844	PR:000004126 (serum amyloid P-component)
+T845	EntrezGene 27924 27928	Apcs
+#845	AnnotatorNotes T845	EG:20219
+T846	sup 27928 27931	−/−
+#846	AnnotatorNotes T846	sup (null)
+T847	NCBITaxon 27939 27943	mice
+#847	AnnotatorNotes T847	NCBITaxon:10088 (Mus)
+T848	GO_BP 27949 27957	produced
+#848	AnnotatorNotes T848	GO:0000003 (reproduction)
+T849	SO 27981 27990	Wild-type
+#849	AnnotatorNotes T849	SO:0000817 (wild_type)
+T850	NCBITaxon 28026 28030	mice
+#850	AnnotatorNotes T850	NCBITaxon:10088 (Mus)
+T851	GO_BP 28036 28045	generated
+#851	AnnotatorNotes T851	GO:0000003 (reproduction)
+T852	SO 28070 28078	interval
+#852	AnnotatorNotes T852	SO:0000001 (region)
+T853	SO 28087 28102	microsatellites
+#853	AnnotatorNotes T853	SO:0000289 (microsatellite)
+T854	SO 28182 28189	regions
+#854	AnnotatorNotes T854	SO:0000001 (region)
+T855	SO 28207 28229	microsatellite markers
+#855	AnnotatorNotes T855	SO:0000289 (microsatellite)
+T856	SO 28230 28241	polymorphic
+#856	AnnotatorNotes T856	SO:0001025 (polymorphic_sequence_variant)
+T857	SO 28230 28241	polymorphic
+#857	AnnotatorNotes T857	SO:0000694 (SNP)
+T858	NCBITaxon 28266 28270	mice
+#858	AnnotatorNotes T858	NCBITaxon:10088 (Mus)
+T859	GO_BP 28355 28363	generate
+#859	AnnotatorNotes T859	GO:0000003 (reproduction)
+T860	NCBITaxon 28399 28403	mice
+#860	AnnotatorNotes T860	NCBITaxon:10088 (Mus)
+T861	SO 28427 28448	Chromosome 1 interval
+#861	AnnotatorNotes T861	"Chromosome .. interval" SO:0000830 (chromosome_part)
+T862	GO_CC 28427 28437	Chromosome
+#862	AnnotatorNotes T862	GO:0005694 (chromosome)
+T863	SO 28427 28437	Chromosome
+#863	AnnotatorNotes T863	SO:0000340 (chromosome)
+T864	SO 28472 28481	positions
+#864	AnnotatorNotes T864	SO:0000001 (region)
+T865	SO 28570 28578	position
+#865	AnnotatorNotes T865	SO:0000001 (region)
+T866	SO 28629 28637	interval
+#866	AnnotatorNotes T866	SO:0000001 (region)
+T867	italic 28654 28658	Apcs
+#867	AnnotatorNotes T867	italic (null)
+T868	PR 28654 28658	Apcs
+#868	AnnotatorNotes T868	PR:000004126 (serum amyloid P-component)
+T869	EntrezGene 28654 28658	Apcs
+#869	AnnotatorNotes T869	EG:20219
+T870	sup 28658 28661	−/−
+#870	AnnotatorNotes T870	sup (null)
+T871	NCBITaxon 28662 28666	mice
+#871	AnnotatorNotes T871	NCBITaxon:10088 (Mus)
+T872	SO 28723 28729	genome
+#872	AnnotatorNotes T872	SO:0001026 (genome)
+T873	italic 28741 28745	Apcs
+#873	AnnotatorNotes T873	italic (null)
+T874	PR 28741 28745	Apcs
+#874	AnnotatorNotes T874	PR:000004126 (serum amyloid P-component)
+T875	EntrezGene 28741 28745	Apcs
+#875	AnnotatorNotes T875	EG:20219
+T876	SO 28746 28751	locus
+#876	AnnotatorNotes T876	SO:0000001 (region)
+T877	SO 28768 28775	segment
+#877	AnnotatorNotes T877	SO:0000001 (region)
+T878	SO 28869 28878	positions
+#878	AnnotatorNotes T878	SO:0000001 (region)
+T879	SO 28953 28962	positions
+#879	AnnotatorNotes T879	SO:0000001 (region)
+T880	italic 29027 29031	Apcs
+#880	AnnotatorNotes T880	italic (null)
+T881	PR 29027 29031	Apcs
+#881	AnnotatorNotes T881	PR:000004126 (serum amyloid P-component)
+T882	EntrezGene 29027 29031	Apcs
+#882	AnnotatorNotes T882	EG:20219
+T883	sup 29031 29034	−/−
+#883	AnnotatorNotes T883	sup (null)
+T884	NCBITaxon 29034 29038	mice
+#884	AnnotatorNotes T884	NCBITaxon:10088 (Mus)
+T885	SO 29054 29063	wild-type
+#885	AnnotatorNotes T885	SO:0000817 (wild_type)
+T886	NCBITaxon 29064 29071	animals
+#886	AnnotatorNotes T886	NCBITaxon:33208 (Metazoa)
+T887	NCBITaxon 29109 29113	mice
+#887	AnnotatorNotes T887	NCBITaxon:10088 (Mus)
+T888	sup 29114 29117	−/−
+#888	AnnotatorNotes T888	sup (null)
+T889	NCBITaxon 29149 29156	Animals
+#889	AnnotatorNotes T889	NCBITaxon:33208 (Metazoa)
+T890	NCBITaxon 29215 29221	animal
+#890	AnnotatorNotes T890	NCBITaxon:33208 (Metazoa)
+T891	GO_CC 29384 29387	Abs
+#891	AnnotatorNotes T891	GO:0019814 (immunoglobulin complex)
+T892	CL 29462 29467	cells
+#892	AnnotatorNotes T892	CL:0000000 (cell)
+T893	GO_CC 29462 29467	cells
+#893	AnnotatorNotes T893	GO:0005623 (cell)
+T894	GO_CC 29484 29487	Abs
+#894	AnnotatorNotes T894	GO:0019814 (immunoglobulin complex)
+T895	NCBITaxon 29536 29554	Crithidia luciliae
+#895	AnnotatorNotes T895	NCBITaxon:46909 (Crithidia luciliae)
+T896	taxonomic_rank 29536 29554	Crithidia luciliae
+#896	AnnotatorNotes T896	taxonomic_rank (null)
+T897	GO_CC 29724 29727	Abs
+#897	AnnotatorNotes T897	GO:0019814 (immunoglobulin complex)
+T898	GO_CC 29746 29755	chromatin
+#898	AnnotatorNotes T898	GO:0000785 (chromatin)
+T899	italic 29997 30004	lpr/lpr
+#899	AnnotatorNotes T899	italic (null)
+T900	PR 29997 30000	lpr
+#900	AnnotatorNotes T900	PR:000001962 (tumor necrosis factor receptor superfamily member 6)
+T901	PR 30001 30004	lpr
+#901	AnnotatorNotes T901	PR:000001962 (tumor necrosis factor receptor superfamily member 6)
+T902	NCBITaxon 30005 30010	mouse
+#902	AnnotatorNotes T902	NCBITaxon:10088 (Mus)
+T903	EntrezGene 30156 30160	Apcs
+#903	AnnotatorNotes T903	EG:20219
+T904	PR 30156 30160	Apcs
+#904	AnnotatorNotes T904	PR:000004126 (serum amyloid P-component)
+T905	NCBITaxon 30197 30202	sheep
+#905	AnnotatorNotes T905	NCBITaxon:9940 (Ovis aries)
+T906	EntrezGene 30208 30218	mouse Apcs
+#906	AnnotatorNotes T906	EG:20219
+T907	NCBITaxon 30208 30213	mouse
+#907	AnnotatorNotes T907	NCBITaxon:10088 (Mus)
+T908	PR 30214 30218	Apcs
+#908	AnnotatorNotes T908	PR:000004126 (serum amyloid P-component)
+T909	NCBITaxon 30223 30229	rabbit
+#909	AnnotatorNotes T909	NCBITaxon:9986 (Oryctolagus cuniculus)
+T910	EntrezGene 30235 30245	mouse Apcs
+#910	AnnotatorNotes T910	EG:20219
+T911	NCBITaxon 30235 30240	mouse
+#911	AnnotatorNotes T911	NCBITaxon:10088 (Mus)
+T912	PR 30241 30245	Apcs
+#912	AnnotatorNotes T912	PR:000004126 (serum amyloid P-component)
+T913	GO_CC 30246 30249	Abs
+#913	AnnotatorNotes T913	GO:0019814 (immunoglobulin complex)
+T914	GO_BP 30439 30450	acute-phase
+#914	AnnotatorNotes T914	GO:0006953 (acute-phase response)
+T915	PR 30487 30491	Apcs
+#915	AnnotatorNotes T915	PR:000004126 (serum amyloid P-component)
+T916	italic 30506 30510	Apcs
+#916	AnnotatorNotes T916	italic (null)
+T917	EntrezGene 30506 30510	Apcs
+#917	AnnotatorNotes T917	EG:20219
+T918	PR 30506 30510	Apcs
+#918	AnnotatorNotes T918	PR:000004126 (serum amyloid P-component)
+T919	sup 30510 30513	−/−
+#919	AnnotatorNotes T919	sup (null)
+T920	NCBITaxon 30514 30519	mouse
+#920	AnnotatorNotes T920	NCBITaxon:10088 (Mus)
+T921	NCBITaxon 30595 30599	mice
+#921	AnnotatorNotes T921	NCBITaxon:10088 (Mus)
+T922	GO_BP 30621 30625	died
+#922	AnnotatorNotes T922	GO:0016265 (death)
+T923	CHEBI 30796 30809	periodic acid
+#923	AnnotatorNotes T923	CHEBI:29149 (periodic acid)
+T924	CHEBI 30817 30824	reagent
+#924	AnnotatorNotes T924	CHEBI:33893 (reagent)
+T925	sup 31382 31384	TM
+#925	AnnotatorNotes T925	sup (null)
+T926	italic 31564 31565	p
+#926	AnnotatorNotes T926	italic (null)
+T927	SO 31807 31818	genomic DNA
+#927	AnnotatorNotes T927	SO:0000991 (genomic_DNA)
+T928	SO 31807 31814	genomic
+#928	AnnotatorNotes T928	SO:0001026 (genome)
+T929	SO 31829 31840	polymorphic
+#929	AnnotatorNotes T929	SO:0001025 (polymorphic_sequence_variant)
+T930	SO 31829 31840	polymorphic
+#930	AnnotatorNotes T930	SO:0000694 (SNP)
+T931	GO_CC 31907 31916	autosomes
+#931	AnnotatorNotes T931	GO:0030849 (autosome)
+T932	CHEBI 31953 31961	reagents
+#932	AnnotatorNotes T932	CHEBI:33893 (reagent)
+T933	CHEBI 31980 31985	MgCl2
+#933	AnnotatorNotes T933	CHEBI:6636 (magnesium dichloride)
+T934	sub 31984 31985	2
+#934	AnnotatorNotes T934	sub (null)
+T935	SO 31997 32004	primers
+#935	AnnotatorNotes T935	SO:0000112 (primer)
+T936	SO 32006 32028	Microsatellite markers
+#936	AnnotatorNotes T936	SO:0000289 (microsatellite)
+T937	SO 32052 32065	polymorphisms
+#937	AnnotatorNotes T937	SO:0001025 (polymorphic_sequence_variant)
+T938	SO 32052 32065	polymorphisms
+#938	AnnotatorNotes T938	SO:0000694 (SNP)
+T939	NCBITaxon 32090 32094	mice
+#939	AnnotatorNotes T939	NCBITaxon:10088 (Mus)
+T940	SO 32101 32108	primers
+#940	AnnotatorNotes T940	SO:0000112 (primer)
+T941	CHEBI 32140 32156	ethidium bromide
+#941	AnnotatorNotes T941	CHEBI:4883 (ethidium bromide)
+T942	CHEBI 32140 32148	ethidium
+#942	AnnotatorNotes T942	CHEBI:42478 (ethidium)
+T943	CHEBI 32149 32156	bromide
+#943	AnnotatorNotes T943	CHEBI:15858 (bromide)
+T944	CHEBI 32165 32172	agarose
+#944	AnnotatorNotes T944	CHEBI:2511 (agarose)
+T945	CHEBI 32184 32187	SDS
+#945	AnnotatorNotes T945	CHEBI:8984 (sodium dodecyl sulfate)
+T946	SO 32242 32245	QTL
+#946	AnnotatorNotes T946	SO:0000771 (QTL)
+T947	SO 32265 32268	QTL
+#947	AnnotatorNotes T947	SO:0000771 (QTL)
+T948	NCBITaxon 32397 32401	mice
+#948	AnnotatorNotes T948	NCBITaxon:10088 (Mus)
+T949	GO_CC 32461 32464	Abs
+#949	AnnotatorNotes T949	GO:0019814 (immunoglobulin complex)
+T950	SO 32530 32533	QTL
+#950	AnnotatorNotes T950	SO:0000771 (QTL)
+T951	italic 32790 32791	p
+#951	AnnotatorNotes T951	italic (null)
+T952	sup 32802 32804	−3
+#952	AnnotatorNotes T952	sup (null)
+T953	italic 32818 32819	p
+#953	AnnotatorNotes T953	italic (null)
+T954	sup 32830 32832	−4
+#954	AnnotatorNotes T954	sup (null)
+T955	italic 32848 32849	p
+#955	AnnotatorNotes T955	italic (null)
+T956	sup 32858 32860	−5
+#956	AnnotatorNotes T956	sup (null)
+T957	SO 33018 33023	genes
+#957	AnnotatorNotes T957	SO:0000704 (gene)
+T958	SO 33028 33032	gene
+#958	AnnotatorNotes T958	SO:0000704 (gene)
+T959	italic 33070 33074	Apcs
+#959	AnnotatorNotes T959	italic (null)
+T960	PR 33070 33074	Apcs
+#960	AnnotatorNotes T960	PR:000004126 (serum amyloid P-component)
+T961	EntrezGene 33070 33074	Apcs
+#961	AnnotatorNotes T961	EG:20219
+T962	EntrezGene 33097 33101	CD35
+#962	AnnotatorNotes T962	EG:12902
+T963	PR 33097 33101	CD35
+#963	AnnotatorNotes T963	PR:000001337 (complement receptor type 1)
+T964	EntrezGene 33102 33106	CD21
+#964	AnnotatorNotes T964	EG:12902
+T965	PR 33102 33106	CD21
+#965	AnnotatorNotes T965	PR:000001338 (complement receptor type 2)
+T966	EntrezGene 33129 33133	CD55
+#966	AnnotatorNotes T966	EG:13136
+T967	PR 33129 33133	CD55
+#967	AnnotatorNotes T967	PR:000025662 (complement decay-accelerating factor)
+T968	EntrezGene 33160 33172	FAS receptor
+#968	AnnotatorNotes T968	EG:14102
+T969	PR 33160 33172	FAS receptor
+#969	AnnotatorNotes T969	PR:000001962 (tumor necrosis factor receptor superfamily member 6)
+T970	EntrezGene 33160 33163	FAS
+#970	AnnotatorNotes T970	EG:14103
+T971	GO_MF 33164 33172	receptor
+#971	AnnotatorNotes T971	GO:0004872 (receptor activity)
+T972	independent_continuant 33164 33172	receptor
+#972	AnnotatorNotes T972	independent_continuant
+T973	SO 33173 33177	gene
+#973	AnnotatorNotes T973	SO:0000704 (gene)
+T974	EntrezGene 33204 33210	FcγRII
+#974	AnnotatorNotes T974	EG:14130
+T975	PR 33204 33210	FcγRII
+#975	AnnotatorNotes T975	PR:000001479 (low affinity immunoglobulin gamma Fc region receptor II)
+T976	NCBITaxon 33408 33414	animal
+#976	AnnotatorNotes T976	NCBITaxon:33208 (Metazoa)
+T977	GO_CC 33638 33640	Ab
+#977	AnnotatorNotes T977	GO:0019814 (immunoglobulin complex)
+T978	GO_CC 33643 33651	antibody
+#978	AnnotatorNotes T978	GO:0019814 (immunoglobulin complex)
+T979	GO_CC 33672 33680	antibody
+#979	AnnotatorNotes T979	GO:0019814 (immunoglobulin complex)
+T980	EntrezGene 33710 33714	Apcs
+#980	AnnotatorNotes T980	EG:20219
+T981	PR 33710 33714	Apcs
+#981	AnnotatorNotes T981	PR:000004126 (serum amyloid P-component)
+T982	EntrezGene 33720 33724	Apcs
+#982	AnnotatorNotes T982	EG:20219
+T983	PR 33720 33724	Apcs
+#983	AnnotatorNotes T983	PR:000004126 (serum amyloid P-component)
+T984	NCBITaxon 33735 33739	mice
+#984	AnnotatorNotes T984	NCBITaxon:10088 (Mus)
+T985	EntrezGene 33741 33745	Apcs
+#985	AnnotatorNotes T985	EG:20219
+T986	PR 33741 33745	Apcs
+#986	AnnotatorNotes T986	PR:000004126 (serum amyloid P-component)
+T987	EntrezGene 33748 33773	serum amyloid P component
+#987	AnnotatorNotes T987	EG:20219
+T988	PR 33748 33773	serum amyloid P component
+#988	AnnotatorNotes T988	PR:000004126 (serum amyloid P-component)
+T989	SO 33774 33778	gene
+#989	AnnotatorNotes T989	SO:0000704 (gene)
+T990	SO 33788 33803	double-stranded
+#990	AnnotatorNotes T990	SO:0000985 (double)
+T991	SO 33795 33803	stranded
+#991	AnnotatorNotes T991	SO:0000001 (region)
+T992	SO 33804 33807	DNA
+#992	AnnotatorNotes T992	SO:0000352 (DNA)
+T993	SO 33834 33837	QTL
+#993	AnnotatorNotes T993	SO:0000771 (QTL)
+T994	SO 33840 33866	quantitative trait linkage
+#994	AnnotatorNotes T994	SO:0000771 (QTL)
+T995	SO 33917 33932	single-stranded
+#995	AnnotatorNotes T995	SO:0000984 (single)
+T996	SO 33924 33932	stranded
+#996	AnnotatorNotes T996	SO:0000001 (region)
+T997	SO 33933 33936	DNA
+#997	AnnotatorNotes T997	SO:0000352 (DNA)
+T998	GO_CC 33979 33989	Chromosome
+#998	AnnotatorNotes T998	GO:0005694 (chromosome)
+T999	SO 33979 33989	Chromosome
+#999	AnnotatorNotes T999	SO:0000340 (chromosome)
+T1000	GO_CC 34010 34019	Chromatin
+#1000	AnnotatorNotes T1000	GO:0000785 (chromatin)
+T1001	GO_CC 34020 34023	Abs
+#1001	AnnotatorNotes T1001	GO:0019814 (immunoglobulin complex)
+T1002	italic 34044 34052	.Apcs−/−
+#1002	AnnotatorNotes T1002	italic (null)
+T1003	EntrezGene 34045 34049	Apcs
+#1003	AnnotatorNotes T1003	EG:20219
+T1004	PR 34045 34049	Apcs
+#1004	AnnotatorNotes T1004	PR:000004126 (serum amyloid P-component)
+T1005	sup 34049 34052	−/−
+#1005	AnnotatorNotes T1005	sup (null)
+T1006	NCBITaxon 34053 34057	Mice
+#1006	AnnotatorNotes T1006	NCBITaxon:10088 (Mus)
+T1007	NCBITaxon 34117 34124	animals
+#1007	AnnotatorNotes T1007	NCBITaxon:33208 (Metazoa)
+T1008	SO 34138 34147	positions
+#1008	AnnotatorNotes T1008	SO:0000001 (region)
+T1009	SO 34164 34172	interval
+#1009	AnnotatorNotes T1009	SO:0000001 (region)
+T1010	SO 34199 34208	locations
+#1010	AnnotatorNotes T1010	SO:0000001 (region)
+T1011	GO_CC 34446 34456	Chromosome
+#1011	AnnotatorNotes T1011	GO:0005694 (chromosome)
+T1012	SO 34446 34456	Chromosome
+#1012	AnnotatorNotes T1012	SO:0000340 (chromosome)
+T1013	GO_CC 34475 34478	Abs
+#1013	AnnotatorNotes T1013	GO:0019814 (immunoglobulin complex)
+T1014	NCBITaxon 34520 34524	mice
+#1014	AnnotatorNotes T1014	NCBITaxon:10088 (Mus)
+T1015	SO 34532 34540	position
+#1015	AnnotatorNotes T1015	SO:0000001 (region)
+T1016	italic 34581 34589	.Apcs−/−
+#1016	AnnotatorNotes T1016	italic (null)
+T1017	EntrezGene 34582 34586	Apcs
+#1017	AnnotatorNotes T1017	EG:20219
+T1018	PR 34582 34586	Apcs
+#1018	AnnotatorNotes T1018	PR:000004126 (serum amyloid P-component)
+T1019	sup 34586 34589	−/−
+#1019	AnnotatorNotes T1019	sup (null)
+T1020	NCBITaxon 34589 34596	animals
+#1020	AnnotatorNotes T1020	NCBITaxon:33208 (Metazoa)
+T1021	SO 34611 34619	position
+#1021	AnnotatorNotes T1021	SO:0000001 (region)
+T1022	SO 34682 34686	loci
+#1022	AnnotatorNotes T1022	SO:0000001 (region)
+T1023	SO 34700 34709	positions
+#1023	AnnotatorNotes T1023	SO:0000001 (region)
+T1024	SO 34726 34734	interval
+#1024	AnnotatorNotes T1024	SO:0000001 (region)
+T1025	SO 34761 34770	locations
+#1025	AnnotatorNotes T1025	SO:0000001 (region)
+T1026	bold 34933 34934	.
+#1026	AnnotatorNotes T1026	bold (null)
+T1027	SO 34946 34954	Interval
+#1027	AnnotatorNotes T1027	SO:0000001 (region)
+T1028	SO 34977 34980	QTL
+#1028	AnnotatorNotes T1028	SO:0000771 (QTL)
+T1029	GO_CC 34984 34994	Chromosome
+#1029	AnnotatorNotes T1029	GO:0005694 (chromosome)
+T1030	SO 34984 34994	Chromosome
+#1030	AnnotatorNotes T1030	SO:0000340 (chromosome)
+T1031	GO_CC 35028 35031	Abs
+#1031	AnnotatorNotes T1031	GO:0019814 (immunoglobulin complex)
+T1032	SO 35045 35054	positions
+#1032	AnnotatorNotes T1032	SO:0000001 (region)
+T1033	SO 35071 35079	interval
+#1033	AnnotatorNotes T1033	SO:0000001 (region)
+T1034	SO 35106 35115	locations
+#1034	AnnotatorNotes T1034	SO:0000001 (region)
+T1035	SO 35471 35479	Interval
+#1035	AnnotatorNotes T1035	SO:0000001 (region)
+T1036	SO 35502 35505	QTL
+#1036	AnnotatorNotes T1036	SO:0000771 (QTL)
+T1037	GO_CC 35509 35519	Chromosome
+#1037	AnnotatorNotes T1037	GO:0005694 (chromosome)
+T1038	SO 35509 35519	Chromosome
+#1038	AnnotatorNotes T1038	SO:0000340 (chromosome)
+T1039	GO_CC 35540 35549	Chromatin
+#1039	AnnotatorNotes T1039	GO:0000785 (chromatin)
+T1040	GO_CC 35550 35553	Abs
+#1040	AnnotatorNotes T1040	GO:0019814 (immunoglobulin complex)
+T1041	SO 35567 35576	positions
+#1041	AnnotatorNotes T1041	SO:0000001 (region)
+T1042	SO 35593 35601	interval
+#1042	AnnotatorNotes T1042	SO:0000001 (region)
+T1043	SO 35628 35637	locations
+#1043	AnnotatorNotes T1043	SO:0000001 (region)
+T1044	GO_CC 35941 35943	Ab
+#1044	AnnotatorNotes T1044	GO:0019814 (immunoglobulin complex)
+T1045	italic 35994 35998	Apcs
+#1045	AnnotatorNotes T1045	italic (null)
+T1046	EntrezGene 35994 35998	Apcs
+#1046	AnnotatorNotes T1046	EG:20219
+T1047	PR 35994 35998	Apcs
+#1047	AnnotatorNotes T1047	PR:000004126 (serum amyloid P-component)
+T1048	sup 35998 36001	−/−
+#1048	AnnotatorNotes T1048	sup (null)
+T1049	NCBITaxon 36002 36006	mice
+#1049	AnnotatorNotes T1049	NCBITaxon:10088 (Mus)
+T1050	NCBITaxon 36074 36079	mouse
+#1050	AnnotatorNotes T1050	NCBITaxon:10088 (Mus)
+T1051	NCBITaxon 36118 36125	animals
+#1051	AnnotatorNotes T1051	NCBITaxon:33208 (Metazoa)
+T1052	italic 36238 36242	Apcs
+#1052	AnnotatorNotes T1052	italic (null)
+T1053	EntrezGene 36238 36242	Apcs
+#1053	AnnotatorNotes T1053	EG:20219
+T1054	PR 36238 36242	Apcs
+#1054	AnnotatorNotes T1054	PR:000004126 (serum amyloid P-component)
+T1055	sup 36243 36246	−/−
+#1055	AnnotatorNotes T1055	sup (null)
+T1056	NCBITaxon 36247 36251	mice
+#1056	AnnotatorNotes T1056	NCBITaxon:10088 (Mus)
+T1057	SO 36277 36286	wild-type
+#1057	AnnotatorNotes T1057	SO:0000817 (wild_type)
+T1058	NCBITaxon 36305 36312	animals
+#1058	AnnotatorNotes T1058	NCBITaxon:33208 (Metazoa)
+T1059	SO 36326 36345	Chromosome 1 region
+#1059	AnnotatorNotes T1059	"Chromosome .. region" SO:0000830 (chromosome_part)
+T1060	GO_CC 36326 36336	Chromosome
+#1060	AnnotatorNotes T1060	GO:0005694 (chromosome)
+T1061	SO 36326 36336	Chromosome
+#1061	AnnotatorNotes T1061	SO:0000340 (chromosome)
+T1062	GO_CC 36446 36455	chromatin
+#1062	AnnotatorNotes T1062	GO:0000785 (chromatin)
+T1063	GO_CC 36456 36458	Ab
+#1063	AnnotatorNotes T1063	GO:0019814 (immunoglobulin complex)
+T1064	NCBITaxon 36607 36611	mice
+#1064	AnnotatorNotes T1064	NCBITaxon:10088 (Mus)
+T1065	SO 36683 36691	Interval
+#1065	AnnotatorNotes T1065	SO:0000001 (region)
+T1066	SO 36714 36717	QTL
+#1066	AnnotatorNotes T1066	SO:0000771 (QTL)
+T1067	GO_CC 36721 36731	Chromosome
+#1067	AnnotatorNotes T1067	GO:0005694 (chromosome)
+T1068	SO 36721 36731	Chromosome
+#1068	AnnotatorNotes T1068	SO:0000340 (chromosome)
+T1069	GO_CC 36749 36758	Chromatin
+#1069	AnnotatorNotes T1069	GO:0000785 (chromatin)
+T1070	GO_CC 36775 36778	Abs
+#1070	AnnotatorNotes T1070	GO:0019814 (immunoglobulin complex)
+T1071	SO 36828 36837	positions
+#1071	AnnotatorNotes T1071	SO:0000001 (region)
+T1072	SO 36854 36862	interval
+#1072	AnnotatorNotes T1072	SO:0000001 (region)
+T1073	SO 36889 36898	locations
+#1073	AnnotatorNotes T1073	SO:0000001 (region)
+T1074	GO_CC 37226 37228	Ab
+#1074	AnnotatorNotes T1074	GO:0019814 (immunoglobulin complex)
+T1075	NCBITaxon 37265 37269	mice
+#1075	AnnotatorNotes T1075	NCBITaxon:10088 (Mus)
+T1076	italic 37279 37283	Apcs
+#1076	AnnotatorNotes T1076	italic (null)
+T1077	PR 37279 37283	Apcs
+#1077	AnnotatorNotes T1077	PR:000004126 (serum amyloid P-component)
+T1078	EntrezGene 37279 37283	Apcs
+#1078	AnnotatorNotes T1078	EG:20219
+T1079	sup 37284 37287	−/−
+#1079	AnnotatorNotes T1079	sup (null)
+T1080	NCBITaxon 37288 37292	mice
+#1080	AnnotatorNotes T1080	NCBITaxon:10088 (Mus)
+T1081	NCBITaxon 37333 37337	mice
+#1081	AnnotatorNotes T1081	NCBITaxon:10088 (Mus)
+T1082	NCBITaxon 37381 37386	mouse
+#1082	AnnotatorNotes T1082	NCBITaxon:10088 (Mus)
+T1083	NCBITaxon 37424 37431	animals
+#1083	AnnotatorNotes T1083	NCBITaxon:33208 (Metazoa)
+T1084	GO_CC 37536 37545	chromatin
+#1084	AnnotatorNotes T1084	GO:0000785 (chromatin)
+T1085	GO_CC 37550 37552	Ab
+#1085	AnnotatorNotes T1085	GO:0019814 (immunoglobulin complex)
+T1086	NCBITaxon 37583 37587	mice
+#1086	AnnotatorNotes T1086	NCBITaxon:10088 (Mus)
+T1087	GO_CC 37603 37605	Ab
+#1087	AnnotatorNotes T1087	GO:0019814 (immunoglobulin complex)
+T1088	GO_CC 37729 37731	Ab
+#1088	AnnotatorNotes T1088	GO:0019814 (immunoglobulin complex)
+T1089	NCBITaxon 37908 37912	mice
+#1089	AnnotatorNotes T1089	NCBITaxon:10088 (Mus)
+T1090	italic 37922 37926	Apcs
+#1090	AnnotatorNotes T1090	italic (null)
+T1091	PR 37922 37926	Apcs
+#1091	AnnotatorNotes T1091	PR:000004126 (serum amyloid P-component)
+T1092	EntrezGene 37922 37926	Apcs
+#1092	AnnotatorNotes T1092	EG:20219
+T1093	sup 37926 37929	−/−
+#1093	AnnotatorNotes T1093	sup (null)
+T1094	NCBITaxon 37930 37934	mice
+#1094	AnnotatorNotes T1094	NCBITaxon:10088 (Mus)
+T1095	NCBITaxon 37975 37979	mice
+#1095	AnnotatorNotes T1095	NCBITaxon:10088 (Mus)
+T1096	bold 38123 38124	.
+#1096	AnnotatorNotes T1096	bold (null)
+T1097	GO_CC 38233 38243	Chromosome
+#1097	AnnotatorNotes T1097	GO:0005694 (chromosome)
+T1098	SO 38233 38243	Chromosome
+#1098	AnnotatorNotes T1098	SO:0000340 (chromosome)
+T1099	GO_CC 38256 38265	Chromatin
+#1099	AnnotatorNotes T1099	GO:0000785 (chromatin)
+T1100	GO_CC 38281 38284	Abs
+#1100	AnnotatorNotes T1100	GO:0019814 (immunoglobulin complex)
+T1101	NCBITaxon 38306 38310	Mice
+#1101	AnnotatorNotes T1101	NCBITaxon:10088 (Mus)
+T1102	italic 38365 38373	.Apcs−/−
+#1102	AnnotatorNotes T1102	italic (null)
+T1103	EntrezGene 38366 38370	Apcs
+#1103	AnnotatorNotes T1103	EG:20219
+T1104	PR 38366 38370	Apcs
+#1104	AnnotatorNotes T1104	PR:000004126 (serum amyloid P-component)
+T1105	sup 38370 38373	−/−
+#1105	AnnotatorNotes T1105	sup (null)
+T1106	NCBITaxon 38374 38381	animals
+#1106	AnnotatorNotes T1106	NCBITaxon:33208 (Metazoa)
+T1107	SO 38395 38404	positions
+#1107	AnnotatorNotes T1107	SO:0000001 (region)
+T1108	SO 38421 38429	interval
+#1108	AnnotatorNotes T1108	SO:0000001 (region)
+T1109	SO 38456 38465	locations
+#1109	AnnotatorNotes T1109	SO:0000001 (region)
+T1110	GO_CC 38657 38660	Abs
+#1110	AnnotatorNotes T1110	GO:0019814 (immunoglobulin complex)
+T1111	italic 38664 38668	Apcs
+#1111	AnnotatorNotes T1111	italic (null)
+T1112	EntrezGene 38664 38668	Apcs
+#1112	AnnotatorNotes T1112	EG:20219
+T1113	PR 38664 38668	Apcs
+#1113	AnnotatorNotes T1113	PR:000004126 (serum amyloid P-component)
+T1114	sup 38668 38671	−/−
+#1114	AnnotatorNotes T1114	sup (null)
+T1115	SO 38676 38685	Wild-Type
+#1115	AnnotatorNotes T1115	SO:0000817 (wild_type)
+T1116	NCBITaxon 38711 38715	Mice
+#1116	AnnotatorNotes T1116	NCBITaxon:10088 (Mus)
+T1117	italic 38749 38753	Apcs
+#1117	AnnotatorNotes T1117	italic (null)
+T1118	EntrezGene 38749 38753	Apcs
+#1118	AnnotatorNotes T1118	EG:20219
+T1119	PR 38749 38753	Apcs
+#1119	AnnotatorNotes T1119	PR:000004126 (serum amyloid P-component)
+T1120	sup 38753 38756	−/−
+#1120	AnnotatorNotes T1120	sup (null)
+T1121	SO 38761 38770	wild-type
+#1121	AnnotatorNotes T1121	SO:0000817 (wild_type)
+T1122	GO_BP 38900 38905	death
+#1122	AnnotatorNotes T1122	GO:0016265 (death)
+T1123	NCBITaxon 38913 38917	mice
+#1123	AnnotatorNotes T1123	NCBITaxon:10088 (Mus)
+T1124	italic 39028 39032	Apcs
+#1124	AnnotatorNotes T1124	italic (null)
+T1125	EntrezGene 39028 39032	Apcs
+#1125	AnnotatorNotes T1125	EG:20219
+T1126	PR 39028 39032	Apcs
+#1126	AnnotatorNotes T1126	PR:000004126 (serum amyloid P-component)
+T1127	sup 39032 39035	−/−
+#1127	AnnotatorNotes T1127	sup (null)
+T1128	SO 39040 39049	Wild-Type
+#1128	AnnotatorNotes T1128	SO:0000817 (wild_type)
+T1129	NCBITaxon 39075 39079	Mice
+#1129	AnnotatorNotes T1129	NCBITaxon:10088 (Mus)
+T1130	SO 39319 39325	Genome
+#1130	AnnotatorNotes T1130	SO:0001026 (genome)
+T1131	italic 39351 39355	Apcs
+#1131	AnnotatorNotes T1131	italic (null)
+T1132	EntrezGene 39351 39355	Apcs
+#1132	AnnotatorNotes T1132	EG:20219
+T1133	PR 39351 39355	Apcs
+#1133	AnnotatorNotes T1133	PR:000004126 (serum amyloid P-component)
+T1134	sup 39355 39358	−/−
+#1134	AnnotatorNotes T1134	sup (null)
+T1135	SO 39363 39372	Wild-Type
+#1135	AnnotatorNotes T1135	SO:0000817 (wild_type)
+T1136	NCBITaxon 39398 39402	Mice
+#1136	AnnotatorNotes T1136	NCBITaxon:10088 (Mus)
+T1137	sup 39404 39405	a
+#1137	AnnotatorNotes T1137	sup (null)
+T1138	sup 39426 39427	b
+#1138	AnnotatorNotes T1138	sup (null)
+T1139	sup 39449 39450	c
+#1139	AnnotatorNotes T1139	sup (null)
+T1140	GO_CC 39525 39528	Chr
+#1140	AnnotatorNotes T1140	GO:0005694 (chromosome)
+T1141	SO 39525 39528	Chr
+#1141	AnnotatorNotes T1141	SO:0000340 (chromosome)
+T1142	GO_CC 39530 39540	Chromosome
+#1142	AnnotatorNotes T1142	GO:0005694 (chromosome)
+T1143	SO 39530 39540	Chromosome
+#1143	AnnotatorNotes T1143	SO:0000340 (chromosome)
+T1144	GO_CC 39614 39625	Chromosomes
+#1144	AnnotatorNotes T1144	GO:0005694 (chromosome)
+T1145	SO 39614 39625	Chromosomes
+#1145	AnnotatorNotes T1145	SO:0000340 (chromosome)
+T1146	SO 39750 39775	oligonucleotide sequences
+#1146	AnnotatorNotes T1146	SO:0000696 (oligo)
+T1147	SO 39792 39801	positions
+#1147	AnnotatorNotes T1147	SO:0000001 (region)
+T1148	SO 39809 39831	microsatellite markers
+#1148	AnnotatorNotes T1148	SO:0000289 (microsatellite)
+T1149	NCBITaxon 39857 39862	Mouse
+#1149	AnnotatorNotes T1149	NCBITaxon:10088 (Mus)
+T1150	SO 39863 39869	Genome
+#1150	AnnotatorNotes T1150	SO:0001026 (genome)
+T1151	NCBITaxon 39880 39885	Mouse
+#1151	AnnotatorNotes T1151	NCBITaxon:10088 (Mus)
+T1152	SO 39886 39892	Genome
+#1152	AnnotatorNotes T1152	SO:0001026 (genome)
+T1153	bold 40004 40026	Conflicts of interest.
+#1153	AnnotatorNotes T1153	bold (null)
+T1154	bold 40091 40112	Author contributions.
+#1154	AnnotatorNotes T1154	bold (null)
+T1155	NCBITaxon 40540 40544	mice
+#1155	AnnotatorNotes T1155	NCBITaxon:10088 (Mus)
+T1156	SO 40588 40592	gene
+#1156	AnnotatorNotes T1156	SO:0000704 (gene)
+T1157	NCBITaxon 40602 40606	mice
+#1157	AnnotatorNotes T1157	NCBITaxon:10088 (Mus)

@@ -1,0 +1,3902 @@
+T1	GO_BP 33 61	Suppression of Aβ Production
+#1	AnnotatorNotes T1	"Suppression of .. Production" GO:0009890 (negative regulation of biosynthetic process)
+T2	PR 48 50	Aβ
+#2	AnnotatorNotes T2	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T3	GO_BP 51 61	Production
+#3	AnnotatorNotes T3	GO:0009058 (biosynthetic process)
+T4	SO 67 77	Transgenic
+#4	AnnotatorNotes T4	SO:0000902 (transgene)
+T5	GO_MF 132 141	proteases
+#5	AnnotatorNotes T5	GO:0008233 (peptidase activity)
+T6	independent_continuant 132 141	proteases
+#6	AnnotatorNotes T6	independent_continuant
+T7	GO_BP 160 166	cleave
+#7	AnnotatorNotes T7	GO:0030908 (protein splicing)
+T8	PR 167 176	amyloid-β
+#8	AnnotatorNotes T8	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T9	PR 178 180	Aβ
+#9	AnnotatorNotes T9	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T10	SO 182 189	peptide
+#10	AnnotatorNotes T10	SO:0001407 (peptidyl)
+T11	EntrezGene 199 224	amyloid precursor protein
+#11	AnnotatorNotes T11	EG:351
+T12	PR 199 224	amyloid precursor protein
+#12	AnnotatorNotes T12	PR:000004168 (amyloid beta A4 protein)
+T13	CHEBI 217 224	protein
+#13	AnnotatorNotes T13	CHEBI:36080 (proteins)
+T14	EntrezGene 226 229	APP
+#14	AnnotatorNotes T14	EG:351
+T15	PR 226 229	APP
+#15	AnnotatorNotes T15	PR:000004168 (amyloid beta A4 protein)
+T16	PR 375 377	Aβ
+#16	AnnotatorNotes T16	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T17	GO_BP 378 388	production
+#17	AnnotatorNotes T17	GO:0009058 (biosynthetic process)
+T18	NCBITaxon 603 609	animal
+#18	AnnotatorNotes T18	NCBITaxon:33208 (Metazoa)
+T19	GO_BP 718 727	generated
+#19	AnnotatorNotes T19	GO:0000003 (reproduction)
+T20	SO 730 740	transgenic
+#20	AnnotatorNotes T20	SO:0000902 (transgene)
+T21	NCBITaxon 741 746	mouse
+#21	AnnotatorNotes T21	NCBITaxon:10088 (Mus)
+T22	SO 758 769	genetically
+#22	AnnotatorNotes T22	SO:0000704 (gene)
+T23	PR 791 793	Aβ
+#23	AnnotatorNotes T23	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T24	GO_BP 794 804	production
+#24	AnnotatorNotes T24	GO:0009058 (biosynthetic process)
+T25	CHEBI 844 854	inhibitors
+#25	AnnotatorNotes T25	CHEBI:35222 (inhibitor)
+T26	NCBITaxon 862 866	mice
+#26	AnnotatorNotes T26	NCBITaxon:10088 (Mus)
+T27	SO 879 885	mutant
+#27	AnnotatorNotes T27	SO:0001059 (sequence_alteration)
+T28	EntrezGene 886 889	APP
+#28	AnnotatorNotes T28	EG:11820
+T29	PR 886 889	APP
+#29	AnnotatorNotes T29	PR:000004168 (amyloid beta A4 protein)
+T30	SO 897 903	vector
+#30	AnnotatorNotes T30	SO:0000440 (vector_replicon)
+T31	GO_BP 916 925	regulated
+#31	AnnotatorNotes T31	GO:0065007 (biological regulation)
+T32	GO_BP 978 988	expression
+#32	AnnotatorNotes T32	GO:0010467 (gene expression)
+T33	EntrezGene 992 995	APP
+#33	AnnotatorNotes T33	EG:11820
+T34	PR 992 995	APP
+#34	AnnotatorNotes T34	PR:000004168 (amyloid beta A4 protein)
+T35	SO 1090 1100	transgenic
+#35	AnnotatorNotes T35	SO:0000902 (transgene)
+T36	EntrezGene 1101 1104	APP
+#36	AnnotatorNotes T36	EG:11820
+T37	PR 1101 1104	APP
+#37	AnnotatorNotes T37	PR:000004168 (amyloid beta A4 protein)
+T38	GO_BP 1105 1115	expression
+#38	AnnotatorNotes T38	GO:0010467 (gene expression)
+T39	PR 1148 1150	Aβ
+#39	AnnotatorNotes T39	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T40	GO_BP 1151 1161	production
+#40	AnnotatorNotes T40	GO:0009058 (biosynthetic process)
+T41	NCBITaxon 1195 1199	mice
+#41	AnnotatorNotes T41	NCBITaxon:10088 (Mus)
+T42	GO_BP 1201 1239	Suppression of transgenic Aβ synthesis
+#42	AnnotatorNotes T42	"Suppression of .. synthesis" GO:0009890 (negative regulation of biosynthetic process)
+T43	SO 1216 1226	transgenic
+#43	AnnotatorNotes T43	SO:0000902 (transgene)
+T44	PR 1227 1229	Aβ
+#44	AnnotatorNotes T44	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T45	GO_BP 1230 1239	synthesis
+#45	AnnotatorNotes T45	GO:0009058 (biosynthetic process)
+T46	GO_BP 1316 1325	formation
+#46	AnnotatorNotes T46	GO:0032502 (developmental process)
+T47	GO_BP 1450 1458	assemble
+#47	AnnotatorNotes T47	GO:0032502 (developmental process)
+T48	NCBITaxon 1460 1464	Mice
+#48	AnnotatorNotes T48	NCBITaxon:10088 (Mus)
+T49	GO_BP 1474 1487	APP synthesis
+#49	AnnotatorNotes T49	GO:0042983 (amyloid precursor protein biosynthetic process)
+T50	EntrezGene 1474 1477	APP
+#50	AnnotatorNotes T50	EG:11820
+T51	PR 1474 1477	APP
+#51	AnnotatorNotes T51	PR:000004168 (amyloid beta A4 protein)
+T52	GO_BP 1492 1502	suppressed
+#52	AnnotatorNotes T52	GO:0048519 (negative regulation of biological process)
+T53	GO_BP 1533 1542	formation
+#53	AnnotatorNotes T53	GO:0032502 (developmental process)
+T54	PR 1546 1548	Aβ
+#54	AnnotatorNotes T54	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T55	SO 1693 1703	transgenic
+#55	AnnotatorNotes T55	SO:0000902 (transgene)
+T56	NCBITaxon 1704 1708	mice
+#56	AnnotatorNotes T56	NCBITaxon:10088 (Mus)
+T57	PR 1813 1815	Aβ
+#57	AnnotatorNotes T57	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T58	GO_BP 1816 1826	production
+#58	AnnotatorNotes T58	GO:0009058 (biosynthetic process)
+T59	GO_BP 1990 1996	formed
+#59	AnnotatorNotes T59	GO:0032502 (developmental process)
+T60	PR 2144 2153	amyloid-β
+#60	AnnotatorNotes T60	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T61	PR 2155 2157	Aβ
+#61	AnnotatorNotes T61	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T62	SO 2159 2166	peptide
+#62	AnnotatorNotes T62	SO:0001407 (peptidyl)
+T63	SO 2311 2318	genetic
+#63	AnnotatorNotes T63	SO:0000704 (gene)
+T64	SO 2353 2362	mutations
+#64	AnnotatorNotes T64	SO:0001059 (sequence_alteration)
+T65	EntrezGene 2370 2395	amyloid precursor protein
+#65	AnnotatorNotes T65	EG:351
+T66	PR 2370 2395	amyloid precursor protein
+#66	AnnotatorNotes T66	PR:000004168 (amyloid beta A4 protein)
+T67	CHEBI 2388 2395	protein
+#67	AnnotatorNotes T67	CHEBI:36080 (proteins)
+T68	EntrezGene 2397 2400	APP
+#68	AnnotatorNotes T68	EG:351
+T69	PR 2397 2400	APP
+#69	AnnotatorNotes T69	PR:000004168 (amyloid beta A4 protein)
+T70	PR 2414 2416	Aβ
+#70	AnnotatorNotes T70	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T71	EntrezGene 2433 2452	presenilins 1 and 2
+#71	AnnotatorNotes T71	"presenilins .. 2" EG:5664
+T72	PR 2433 2452	presenilins 1 and 2
+#72	AnnotatorNotes T72	"presenilins .. 2" PR:000013345 (presenilin-2)
+T73	EntrezGene 2433 2446	presenilins 1
+#73	AnnotatorNotes T73	EG:5663
+T74	PR 2433 2446	presenilins 1
+#74	AnnotatorNotes T74	PR:000013344 (presenilin-1)
+T75	GO_MF 2496 2508	endoprotease
+#75	AnnotatorNotes T75	GO:0004175 (endopeptidase activity)
+T76	independent_continuant 2496 2508	endoprotease
+#76	AnnotatorNotes T76	independent_continuant
+T77	GO_CC 2509 2516	complex
+#77	AnnotatorNotes T77	GO:0032991 (macromolecular complex)
+T78	PR 2531 2533	Aβ
+#78	AnnotatorNotes T78	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T79	EntrezGene 2539 2542	APP
+#79	AnnotatorNotes T79	EG:351
+T80	PR 2539 2542	APP
+#80	AnnotatorNotes T80	PR:000004168 (amyloid beta A4 protein)
+T81	PR 2603 2605	Aβ
+#81	AnnotatorNotes T81	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T82	PR 2697 2699	Aβ
+#82	AnnotatorNotes T82	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T83	SO 2760 2767	peptide
+#83	AnnotatorNotes T83	SO:0001407 (peptidyl)
+T84	GO_CC 2821 2829	antibody
+#84	AnnotatorNotes T84	GO:0019814 (immunoglobulin complex)
+T85	PR 2867 2869	Aβ
+#85	AnnotatorNotes T85	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T86	NCBITaxon 2900 2906	humans
+#86	AnnotatorNotes T86	NCBITaxon:9606 (Homo sapiens)
+T87	GO_BP 3185 3203	cognitive function
+#87	AnnotatorNotes T87	GO:0050890 (cognition)
+T88	PR 3258 3260	Aβ
+#88	AnnotatorNotes T88	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T89	GO_CC 3270 3278	antibody
+#89	AnnotatorNotes T89	GO:0019814 (immunoglobulin complex)
+T90	GO_CC 3341 3351	antibodies
+#90	AnnotatorNotes T90	GO:0019814 (immunoglobulin complex)
+T91	SO 3370 3377	epitope
+#91	AnnotatorNotes T91	SO:0001018 (epitope)
+T92	PR 3573 3575	Aβ
+#92	AnnotatorNotes T92	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T93	GO_BP 3599 3609	production
+#93	AnnotatorNotes T93	GO:0009058 (biosynthetic process)
+T94	CHEBI 3629 3636	protein
+#94	AnnotatorNotes T94	CHEBI:36080 (proteins)
+T95	EntrezGene 3637 3640	APP
+#95	AnnotatorNotes T95	EG:351
+T96	PR 3637 3640	APP
+#96	AnnotatorNotes T96	PR:000004168 (amyloid beta A4 protein)
+T97	SO 3642 3649	Peptide
+#97	AnnotatorNotes T97	SO:0001407 (peptidyl)
+T98	PR 3650 3652	Aβ
+#98	AnnotatorNotes T98	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T99	EntrezGene 3670 3673	APP
+#99	AnnotatorNotes T99	EG:351
+T100	PR 3670 3673	APP
+#100	AnnotatorNotes T100	PR:000004168 (amyloid beta A4 protein)
+T101	SO 3695 3702	enzymes
+#101	AnnotatorNotes T101	SO:0001185 (enzymatic)
+T102	EntrezGene 3708 3731	β-APP cleaving enzyme 1
+#102	AnnotatorNotes T102	EG:23621
+T103	PR 3708 3731	β-APP cleaving enzyme 1
+#103	AnnotatorNotes T103	PR:000004615 (beta-secretase 1)
+T104	EntrezGene 3708 3713	β-APP
+#104	AnnotatorNotes T104	EG:351
+T105	PR 3708 3713	β-APP
+#105	AnnotatorNotes T105	PR:000004168 (amyloid beta A4 protein)
+T106	GO_BP 3714 3722	cleaving
+#106	AnnotatorNotes T106	GO:0030908 (protein splicing)
+T107	SO 3723 3729	enzyme
+#107	AnnotatorNotes T107	SO:0001185 (enzymatic)
+T108	EntrezGene 3733 3738	BACE1
+#108	AnnotatorNotes T108	EG:23621
+T109	PR 3733 3738	BACE1
+#109	AnnotatorNotes T109	PR:000004615 (beta-secretase 1)
+T110	GO_BP 3763 3769	cleave
+#110	AnnotatorNotes T110	GO:0030908 (protein splicing)
+T111	SO 3793 3809	N- and C-termini
+#111	AnnotatorNotes T111	"N- .. termini" SO:0100014 (n_terminal_region)
+T112	CHEBI 3793 3794	N
+#112	AnnotatorNotes T112	CHEBI:46882 (amino group)
+T113	SO 3800 3809	C-termini
+#113	AnnotatorNotes T113	SO:0100015 (c_terminal_region)
+T114	CHEBI 3800 3801	C
+#114	AnnotatorNotes T114	CHEBI:46883 (carboxy group)
+T115	CHEBI 3800 3801	C
+#115	AnnotatorNotes T115	CHEBI:18245 (carboxylato group)
+T116	PR 3813 3815	Aβ
+#116	AnnotatorNotes T116	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T117	CHEBI 3839 3849	inhibitors
+#117	AnnotatorNotes T117	CHEBI:35222 (inhibitor)
+T118	GO_BP 3883 3891	produced
+#118	AnnotatorNotes T118	GO:0009058 (biosynthetic process)
+T119	CHEBI 3909 3917	molecule
+#119	AnnotatorNotes T119	CHEBI:23367 (molecular entity)
+T120	GO_MF 3918 3953	inhibitors of β-APP cleaving enzyme
+#120	AnnotatorNotes T120	"inhibitors of .. enzyme" GO:0004857 (enzyme inhibitor activity)
+T121	independent_continuant 3918 3953	inhibitors of β-APP cleaving enzyme
+#121	AnnotatorNotes T121	"inhibitors of .. enzyme" independent_continuant
+T122	CHEBI 3918 3928	inhibitors
+#122	AnnotatorNotes T122	CHEBI:35222 (inhibitor)
+T123	EntrezGene 3932 3955	β-APP cleaving enzyme 1
+#123	AnnotatorNotes T123	EG:23621
+T124	PR 3932 3955	β-APP cleaving enzyme 1
+#124	AnnotatorNotes T124	PR:000004615 (beta-secretase 1)
+T125	EntrezGene 3932 3937	β-APP
+#125	AnnotatorNotes T125	EG:351
+T126	PR 3932 3937	β-APP
+#126	AnnotatorNotes T126	PR:000004168 (amyloid beta A4 protein)
+T127	GO_BP 3938 3946	cleaving
+#127	AnnotatorNotes T127	GO:0030908 (protein splicing)
+T128	SO 3947 3953	enzyme
+#128	AnnotatorNotes T128	SO:0001185 (enzymatic)
+T129	NCBITaxon 4050 4056	humans
+#129	AnnotatorNotes T129	NCBITaxon:9606 (Homo sapiens)
+T130	EntrezGene 4124 4147	β-APP cleaving enzyme 1
+#130	AnnotatorNotes T130	EG:23821
+T131	PR 4124 4147	β-APP cleaving enzyme 1
+#131	AnnotatorNotes T131	PR:000004615 (beta-secretase 1)
+T132	EntrezGene 4124 4129	β-APP
+#132	AnnotatorNotes T132	EG:11820
+T133	PR 4124 4129	β-APP
+#133	AnnotatorNotes T133	PR:000004168 (amyloid beta A4 protein)
+T134	GO_BP 4130 4138	cleaving
+#134	AnnotatorNotes T134	GO:0030908 (protein splicing)
+T135	SO 4139 4145	enzyme
+#135	AnnotatorNotes T135	SO:0001185 (enzymatic)
+T136	GO_BP 4173 4184	development
+#136	AnnotatorNotes T136	GO:0032502 (developmental process)
+T137	SO 4199 4209	transgenic
+#137	AnnotatorNotes T137	SO:0000902 (transgene)
+T138	NCBITaxon 4210 4215	mouse
+#138	AnnotatorNotes T138	NCBITaxon:10088 (Mus)
+T139	GO_BP 4365 4375	production
+#139	AnnotatorNotes T139	GO:0009058 (biosynthetic process)
+T140	PR 4379 4381	Aβ
+#140	AnnotatorNotes T140	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T141	GO_BP 4391 4401	suppressed
+#141	AnnotatorNotes T141	GO:0048519 (negative regulation of biological process)
+T142	NCBITaxon 4476 4482	animal
+#142	AnnotatorNotes T142	NCBITaxon:33208 (Metazoa)
+T143	CHEBI 4503 4511	reagents
+#143	AnnotatorNotes T143	CHEBI:33893 (reagent)
+T144	CHEBI 4549 4578	chemical secretase inhibitors
+#144	AnnotatorNotes T144	"chemical .. inhibitors" CHEBI:35222 (inhibitor)
+T145	CHEBI 4549 4557	chemical
+#145	AnnotatorNotes T145	CHEBI:23367 (molecular entity)
+T146	NCBITaxon 4600 4605	human
+#146	AnnotatorNotes T146	NCBITaxon:9606 (Homo sapiens)
+T147	GO_BP 4653 4662	developed
+#147	AnnotatorNotes T147	GO:0000003 (reproduction)
+T148	NCBITaxon 4665 4670	mouse
+#148	AnnotatorNotes T148	NCBITaxon:10088 (Mus)
+T149	GO_BP 4708 4717	expresses
+#149	AnnotatorNotes T149	GO:0010467 (gene expression)
+T150	EntrezGene 4733 4736	APP
+#150	AnnotatorNotes T150	EG:11820
+T151	PR 4733 4736	APP
+#151	AnnotatorNotes T151	PR:000004168 (amyloid beta A4 protein)
+T152	SO 4737 4746	transgene
+#152	AnnotatorNotes T152	SO:0000902 (transgene)
+T153	GO_BP 4806 4815	regulated
+#153	AnnotatorNotes T153	GO:0065007 (biological regulation)
+T154	CHEBI 4830 4842	tetracycline
+#154	AnnotatorNotes T154	CHEBI:27902 (tetracycline)
+T155	CHEBI 4859 4863	food
+#155	AnnotatorNotes T155	CHEBI:33290 (food)
+T156	CHEBI 4867 4872	water
+#156	AnnotatorNotes T156	CHEBI:15377 (water)
+T157	GO_BP 4893 4903	expression
+#157	AnnotatorNotes T157	GO:0010467 (gene expression)
+T158	SO 4937 4944	vectors
+#158	AnnotatorNotes T158	SO:0000440 (vector_replicon)
+T159	GO_BP 4987 4997	expression
+#159	AnnotatorNotes T159	GO:0010467 (gene expression)
+T160	CHEBI 5034 5046	tetracycline
+#160	AnnotatorNotes T160	CHEBI:27902 (tetracycline)
+T161	CHEBI 5108 5122	pharmaceutical
+#161	AnnotatorNotes T161	CHEBI:33294 (pharmaceutical)
+T162	CHEBI 5123 5132	inhibitor
+#162	AnnotatorNotes T162	CHEBI:35222 (inhibitor)
+T163	PR 5136 5138	Aβ
+#163	AnnotatorNotes T163	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T164	GO_BP 5139 5149	production
+#164	AnnotatorNotes T164	GO:0009058 (biosynthetic process)
+T165	SO 5292 5301	Transgene
+#165	AnnotatorNotes T165	SO:0000902 (transgene)
+T166	GO_BP 5302 5314	Construction
+#166	AnnotatorNotes T166	GO:0009058 (biosynthetic process)
+T167	GO_BP 5319 5326	created
+#167	AnnotatorNotes T167	GO:0009058 (biosynthetic process)
+T168	CHEBI 5329 5341	tetracycline
+#168	AnnotatorNotes T168	CHEBI:27902 (tetracycline)
+T169	GO_BP 5342 5352	responsive
+#169	AnnotatorNotes T169	GO:0050896 (response to stimulus)
+T170	NCBITaxon 5362 5367	mouse
+#170	AnnotatorNotes T170	NCBITaxon:10088 (Mus)
+T171	NCBITaxon 5368 5373	human
+#171	AnnotatorNotes T171	NCBITaxon:9606 (Homo sapiens)
+T172	PR 5388 5395	Indiana
+#172	AnnotatorNotes T172	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T173	PR 5397 5400	swe
+#173	AnnotatorNotes T173	PR:000025601 (amyloid beta A4 protein sequence variant APPKM670/671NL (human))
+T174	PR 5401 5404	ind
+#174	AnnotatorNotes T174	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T175	SO 5406 5412	vector
+#175	AnnotatorNotes T175	SO:0000440 (vector_replicon)
+T176	SO 5416 5425	replacing
+#176	AnnotatorNotes T176	SO:0000048 (substitute)
+T177	SO 5430 5445	promoter region
+#177	AnnotatorNotes T177	SO:0000167 (promoter)
+T178	EntrezGene 5453 5458	moPrP
+#178	AnnotatorNotes T178	EG:19122
+T179	SO 5464 5470	vector
+#179	AnnotatorNotes T179	SO:0000440 (vector_replicon)
+T180	CHEBI 5517 5529	tetracycline
+#180	AnnotatorNotes T180	CHEBI:27902 (tetracycline)
+T181	GO_BP 5530 5540	responsive
+#181	AnnotatorNotes T181	GO:0050896 (response to stimulus)
+T182	SO 5541 5549	promoter
+#182	AnnotatorNotes T182	SO:0000167 (promoter)
+T183	GO_BP 5630 5638	ligating
+#183	AnnotatorNotes T183	GO:0006266 (DNA ligation)
+T184	EntrezGene 5639 5648	mouse APP
+#184	AnnotatorNotes T184	EG:11820
+T185	PR 5639 5648	mouse APP
+#185	AnnotatorNotes T185	PR:000025533 (amyloid beta A4 protein (mouse))
+T186	NCBITaxon 5639 5644	mouse
+#186	AnnotatorNotes T186	NCBITaxon:10088 (Mus)
+T187	PR 5666 5668	Aβ
+#187	AnnotatorNotes T187	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T188	SO 5669 5675	domain
+#188	AnnotatorNotes T188	SO:0000417 (polypeptide_domain)
+T189	NCBITaxon 5677 5679	mo
+#189	AnnotatorNotes T189	NCBITaxon:10088 (Mus)
+T190	PR 5680 5688	huAPP695
+#190	AnnotatorNotes T190	PR:000025537 (amyloid beta A4 protein isoform APP695 (human))
+T191	SO 5690 5694	cDNA
+#191	AnnotatorNotes T191	SO:0000756 (cDNA)
+T192	SO 5708 5714	vector
+#192	AnnotatorNotes T192	SO:0000440 (vector_replicon)
+T193	CHEBI 5740 5752	tetracycline
+#193	AnnotatorNotes T193	CHEBI:27902 (tetracycline)
+T194	GO_BP 5753 5763	responsive
+#194	AnnotatorNotes T194	GO:0050896 (response to stimulus)
+T195	SO 5764 5772	promoter
+#195	AnnotatorNotes T195	SO:0000167 (promoter)
+T196	SO 5774 5776	bp
+#196	AnnotatorNotes T196	SO:0000028 (base_pair)
+T197	SO 5813 5820	primers
+#197	AnnotatorNotes T197	SO:0000112 (primer)
+T198	SO 5856 5861	sites
+#198	AnnotatorNotes T198	SO:0000001 (region)
+T199	SO 5888 5892	site
+#199	AnnotatorNotes T199	SO:0000001 (region)
+T200	SO 5940 5945	sites
+#200	AnnotatorNotes T200	SO:0000001 (region)
+T201	SO 5957 5965	promoter
+#201	AnnotatorNotes T201	SO:0000167 (promoter)
+T202	SO 5967 5974	forward
+#202	AnnotatorNotes T202	SO:0001030 (forward)
+T203	CHEBI 6028 6029	C
+#203	AnnotatorNotes T203	CHEBI:30758 (cytosin-1-yl group)
+T204	SO 6031 6038	reverse
+#204	AnnotatorNotes T204	SO:0001031 (reverse)
+T205	EntrezGene 6107 6112	moPrP
+#205	AnnotatorNotes T205	EG:19122
+T206	SO 6118 6124	intron
+#206	AnnotatorNotes T206	SO:0000188 (intron)
+T207	SO 6147 6154	primers
+#207	AnnotatorNotes T207	SO:0000112 (primer)
+T208	SO 6184 6188	site
+#208	AnnotatorNotes T208	SO:0000001 (region)
+T209	SO 6206 6210	exon
+#209	AnnotatorNotes T209	SO:0000147 (exon)
+T210	SO 6240 6252	site of exon
+#210	AnnotatorNotes T210	SO:0000852 (exon_region)
+T211	SO 6248 6252	exon
+#211	AnnotatorNotes T211	SO:0000147 (exon)
+T212	SO 6256 6263	forward
+#212	AnnotatorNotes T212	SO:0001030 (forward)
+T213	SO 6305 6312	reverse
+#213	AnnotatorNotes T213	SO:0001031 (reverse)
+T214	SO 6362 6368	intron
+#214	AnnotatorNotes T214	SO:0000188 (intron)
+T215	SO 6369 6377	fragment
+#215	AnnotatorNotes T215	SO:0000731 (fragmentary)
+T216	SO 6407 6413	vector
+#216	AnnotatorNotes T216	SO:0000440 (vector_replicon)
+T217	SO 6470 6477	excised
+#217	AnnotatorNotes T217	SO:0000045 (delete)
+T218	GO_BP 6488 6497	digestion
+#218	AnnotatorNotes T218	GO:0009056 (catabolic process)
+T219	GO_BP 6502 6509	ligated
+#219	AnnotatorNotes T219	GO:0006266 (DNA ligation)
+T220	SO 6531 6539	fragment
+#220	AnnotatorNotes T220	SO:0000731 (fragmentary)
+T221	EntrezGene 6543 6548	moPrP
+#221	AnnotatorNotes T221	EG:19122
+T222	SO 6565 6569	exon
+#222	AnnotatorNotes T222	SO:0000147 (exon)
+T223	SO 6573 6577	exon
+#223	AnnotatorNotes T223	SO:0000147 (exon)
+T224	SO 6585 6591	3′ UTR
+#224	AnnotatorNotes T224	SO:0000205 (three_prime_UTR)
+T225	GO_BP 6612 6620	generate
+#225	AnnotatorNotes T225	GO:0009058 (biosynthetic process)
+T226	SO 6624 6636	intermediate
+#226	AnnotatorNotes T226	SO:0000933 (intermediate)
+T227	SO 6637 6643	vector
+#227	AnnotatorNotes T227	SO:0000440 (vector_replicon)
+T228	SO 6659 6664	exons
+#228	AnnotatorNotes T228	SO:0000147 (exon)
+T229	SO 6679 6685	intron
+#229	AnnotatorNotes T229	SO:0000188 (intron)
+T230	SO 6693 6701	promoter
+#230	AnnotatorNotes T230	SO:0000167 (promoter)
+T231	SO 6708 6714	vector
+#231	AnnotatorNotes T231	SO:0000440 (vector_replicon)
+T232	SO 6744 6748	site
+#232	AnnotatorNotes T232	SO:0000001 (region)
+T233	SO 6749 6759	introduced
+#233	AnnotatorNotes T233	SO:0000046 (insert)
+T234	SO 6767 6773	intron
+#234	AnnotatorNotes T234	SO:0000188 (intron)
+T235	SO 6782 6788	primer
+#235	AnnotatorNotes T235	SO:0000112 (primer)
+T236	GO_BP 6794 6801	ligated
+#236	AnnotatorNotes T236	GO:0006266 (DNA ligation)
+T237	SO 6839 6847	promoter
+#237	AnnotatorNotes T237	SO:0000167 (promoter)
+T238	SO 6848 6856	fragment
+#238	AnnotatorNotes T238	SO:0000731 (fragmentary)
+T239	GO_BP 6863 6871	ligation
+#239	AnnotatorNotes T239	GO:0006266 (DNA ligation)
+T240	GO_BP 6872 6881	generated
+#240	AnnotatorNotes T240	GO:0009058 (biosynthetic process)
+T241	SO 6891 6897	vector
+#241	AnnotatorNotes T241	SO:0000440 (vector_replicon)
+T242	SO 6924 6932	promoter
+#242	AnnotatorNotes T242	SO:0000167 (promoter)
+T243	SO 6958 6963	exons
+#243	AnnotatorNotes T243	SO:0000147 (exon)
+T244	SO 6969 6975	intron
+#244	AnnotatorNotes T244	SO:0000188 (intron)
+T245	SO 6994 7000	3′ UTR
+#245	AnnotatorNotes T245	SO:0000205 (three_prime_UTR)
+T246	EntrezGene 7008 7013	moPrP
+#246	AnnotatorNotes T246	EG:19122
+T247	SO 7019 7025	vector
+#247	AnnotatorNotes T247	SO:0000440 (vector_replicon)
+T248	SO 7066 7072	vector
+#248	AnnotatorNotes T248	SO:0000440 (vector_replicon)
+T249	PR 7095 7102	Swedish
+#249	AnnotatorNotes T249	PR:000025601 (amyloid beta A4 protein sequence variant APPKM670/671NL (human))
+T250	PR 7121 7128	Indiana
+#250	AnnotatorNotes T250	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T251	SO 7137 7146	mutations
+#251	AnnotatorNotes T251	SO:0001059 (sequence_alteration)
+T252	NCBITaxon 7156 7158	mo
+#252	AnnotatorNotes T252	NCBITaxon:10088 (Mus)
+T253	PR 7159 7167	huAPP695
+#253	AnnotatorNotes T253	PR:000025537 (amyloid beta A4 protein isoform APP695 (human))
+T254	SO 7168 7172	cDNA
+#254	AnnotatorNotes T254	SO:0000756 (cDNA)
+T255	SO 7204 7210	primer
+#255	AnnotatorNotes T255	SO:0000112 (primer)
+T256	SO 7242 7253	overlapping
+#256	AnnotatorNotes T256	SO:0000068 (overlapping)
+T257	SO 7254 7262	products
+#257	AnnotatorNotes T257	SO:0000006 (PCR_product)
+T258	GO_BP 7268 7277	generated
+#258	AnnotatorNotes T258	GO:0009058 (biosynthetic process)
+T259	SO 7306 7313	primers
+#259	AnnotatorNotes T259	SO:0000112 (primer)
+T260	SO 7338 7347	mutations
+#260	AnnotatorNotes T260	SO:0001059 (sequence_alteration)
+T261	PR 7349 7356	Swedish
+#261	AnnotatorNotes T261	PR:000025601 (amyloid beta A4 protein sequence variant APPKM670/671NL (human))
+T262	SO 7357 7364	forward
+#262	AnnotatorNotes T262	SO:0001030 (forward)
+T263	PR 7414 7421	Indiana
+#263	AnnotatorNotes T263	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T264	SO 7422 7429	reverse
+#264	AnnotatorNotes T264	SO:0001031 (reverse)
+T265	CHEBI 7459 7460	C
+#265	AnnotatorNotes T265	CHEBI:30758 (cytosin-1-yl group)
+T266	PR 7462 7469	Indiana
+#266	AnnotatorNotes T266	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T267	SO 7470 7477	forward
+#267	AnnotatorNotes T267	SO:0001030 (forward)
+T268	SO 7515 7522	reverse
+#268	AnnotatorNotes T268	SO:0001031 (reverse)
+T269	SO 7533 7545	PCR products
+#269	AnnotatorNotes T269	SO:0000006 (PCR_product)
+T270	GO_BP 7551 7558	ligated
+#270	AnnotatorNotes T270	GO:0006266 (DNA ligation)
+T271	GO_BP 7560 7568	digested
+#271	AnnotatorNotes T271	GO:0009056 (catabolic process)
+T272	NCBITaxon 7623 7625	mo
+#272	AnnotatorNotes T272	NCBITaxon:10088 (Mus)
+T273	PR 7626 7634	huAPP695
+#273	AnnotatorNotes T273	PR:000025537 (amyloid beta A4 protein isoform APP695 (human))
+T274	SO 7641 7647	vector
+#274	AnnotatorNotes T274	SO:0000440 (vector_replicon)
+T275	PR 7676 7679	ind
+#275	AnnotatorNotes T275	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T276	SO 7708 7712	site
+#276	AnnotatorNotes T276	SO:0000001 (region)
+T277	EntrezGene 7720 7725	moPrP
+#277	AnnotatorNotes T277	EG:19122
+T278	SO 7731 7737	vector
+#278	AnnotatorNotes T278	SO:0000440 (vector_replicon)
+T279	SO 7765 7774	construct
+#279	AnnotatorNotes T279	SO:0001037 (mobile_genetic_element)
+T280	GO_CC 7777 7787	Pronuclear
+#280	AnnotatorNotes T280	GO:0045120 (pronucleus)
+T281	EntrezGene 7856 7861	moPrP
+#281	AnnotatorNotes T281	EG:19122
+T282	NCBITaxon 7867 7869	mo
+#282	AnnotatorNotes T282	NCBITaxon:10088 (Mus)
+T283	PR 7882 7885	ind
+#283	AnnotatorNotes T283	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T284	SO 7886 7892	vector
+#284	AnnotatorNotes T284	SO:0000440 (vector_replicon)
+T285	SO 7928 7934	domain
+#285	AnnotatorNotes T285	SO:0000001 (region)
+T286	SO 7935 7942	excised
+#286	AnnotatorNotes T286	SO:0000045 (delete)
+T287	GO_BP 7946 7955	digestion
+#287	AnnotatorNotes T287	GO:0009056 (catabolic process)
+T288	SO 7980 7986	vector
+#288	AnnotatorNotes T288	SO:0000440 (vector_replicon)
+T289	GO_CC 8009 8019	pronucleus
+#289	AnnotatorNotes T289	GO:0045120 (pronucleus)
+T290	GO_BP 8023 8033	fertilized
+#290	AnnotatorNotes T290	GO:0009566 (fertilization)
+T291	CL 8034 8038	eggs
+#291	AnnotatorNotes T291	CL:0000025 (egg)
+T292	GO_BP 8064 8071	matings
+#292	AnnotatorNotes T292	GO:0007618 (mating)
+T293	NCBITaxon 8081 8088	animals
+#293	AnnotatorNotes T293	NCBITaxon:33208 (Metazoa)
+T294	SO 8127 8136	transgene
+#294	AnnotatorNotes T294	SO:0000902 (transgene)
+T295	EntrezGene 8172 8175	PrP
+#295	AnnotatorNotes T295	EG:19122
+T296	PR 8172 8175	PrP
+#296	AnnotatorNotes T296	PR:000001886 (major prion protein)
+T297	EntrezGene 8178 8181	PrP
+#297	AnnotatorNotes T297	EG:19122
+T298	PR 8178 8181	PrP
+#298	AnnotatorNotes T298	PR:000001886 (major prion protein)
+T299	SO 8185 8192	primers
+#299	AnnotatorNotes T299	SO:0000112 (primer)
+T300	SO 8210 8219	Transgene
+#300	AnnotatorNotes T300	SO:0000902 (transgene)
+T301	GO_BP 8243 8247	bred
+#301	AnnotatorNotes T301	GO:0007618 (mating)
+T302	NCBITaxon 8251 8258	animals
+#302	AnnotatorNotes T302	NCBITaxon:33208 (Metazoa)
+T303	GO_BP 8259 8269	expressing
+#303	AnnotatorNotes T303	GO:0010467 (gene expression)
+T304	CHEBI 8274 8286	tetracycline
+#304	AnnotatorNotes T304	CHEBI:27902 (tetracycline)
+T305	GO_BP 8314 8321	control
+#305	AnnotatorNotes T305	GO:0065007 (biological regulation)
+T306	PR 8329 8358	calcium-calmodulin kinase IIα
+#306	AnnotatorNotes T306	PR:000003199 (calcium/calmodulin-dependent protein kinase type II alpha chain)
+T307	GO_MF 8329 8354	calcium-calmodulin kinase
+#307	AnnotatorNotes T307	GO:0004683 (calmodulin-dependent protein kinase activity)
+T308	independent_continuant 8329 8354	calcium-calmodulin kinase
+#308	AnnotatorNotes T308	independent_continuant
+T309	CHEBI 8329 8336	calcium
+#309	AnnotatorNotes T309	CHEBI:22984 (calcium)
+T310	PR 8337 8347	calmodulin
+#310	AnnotatorNotes T310	PR:000004978 (calmodulin)
+T311	PR 8360 8367	CaMKIIα
+#311	AnnotatorNotes T311	PR:000003199 (calcium/calmodulin-dependent protein kinase type II alpha chain)
+T312	SO 8369 8377	promoter
+#312	AnnotatorNotes T312	SO:0000167 (promoter)
+T313	PR 8476 8482	Camk2a
+#313	AnnotatorNotes T313	PR:000003199 (calcium/calmodulin-dependent protein kinase type II alpha chain)
+T314	SO 8551 8561	transgenic
+#314	AnnotatorNotes T314	SO:0000902 (transgene)
+T315	EntrezGene 8570 8573	APP
+#315	AnnotatorNotes T315	EG:11820
+T316	PR 8570 8573	APP
+#316	AnnotatorNotes T316	PR:000004168 (amyloid beta A4 protein)
+T317	EntrezGene 8605 8608	APP
+#317	AnnotatorNotes T317	EG:11820
+T318	PR 8605 8608	APP
+#318	AnnotatorNotes T318	PR:000004168 (amyloid beta A4 protein)
+T319	NCBITaxon 8620 8624	mice
+#319	AnnotatorNotes T319	NCBITaxon:10088 (Mus)
+T320	CHEBI 8645 8649	food
+#320	AnnotatorNotes T320	CHEBI:33290 (food)
+T321	CHEBI 8654 8659	water
+#321	AnnotatorNotes T321	CHEBI:15377 (water)
+T322	NCBITaxon 8672 8678	Animal
+#322	AnnotatorNotes T322	NCBITaxon:33208 (Metazoa)
+T323	NCBITaxon 8797 8803	Animal
+#323	AnnotatorNotes T323	NCBITaxon:33208 (Metazoa)
+T324	CHEBI 9026 9036	antibiotic
+#324	AnnotatorNotes T324	CHEBI:22582 (antibiotic)
+T325	GO_BP 9057 9068	consumption
+#325	AnnotatorNotes T325	GO:0007631 (feeding behavior)
+T326	NCBITaxon 9080 9085	mouse
+#326	AnnotatorNotes T326	NCBITaxon:10088 (Mus)
+T327	NCBITaxon 9121 9127	animal
+#327	AnnotatorNotes T327	NCBITaxon:33208 (Metazoa)
+T328	NCBITaxon 9167 9173	animal
+#328	AnnotatorNotes T328	NCBITaxon:33208 (Metazoa)
+T329	GO_BP 9283 9310	breakdown of the antibiotic
+#329	AnnotatorNotes T329	"breakdown of .. antibiotic" GO:0017001 (antibiotic catabolic process)
+T330	CHEBI 9300 9310	antibiotic
+#330	AnnotatorNotes T330	CHEBI:22582 (antibiotic)
+T331	SO 9375 9384	transgene
+#331	AnnotatorNotes T331	SO:0000902 (transgene)
+T332	GO_BP 9392 9420	amplification of genomic DNA
+#332	AnnotatorNotes T332	"amplification of .. DNA" GO:0006277 (DNA amplification)
+T333	SO 9409 9420	genomic DNA
+#333	AnnotatorNotes T333	SO:0000991 (genomic_DNA)
+T334	SO 9409 9416	genomic
+#334	AnnotatorNotes T334	SO:0001026 (genome)
+T335	CHEBI 9513 9517	NaOH
+#335	AnnotatorNotes T335	CHEBI:32145 (sodium hydroxide)
+T336	CHEBI 9576 9580	Tris
+#336	AnnotatorNotes T336	CHEBI:9754 (tris)
+T337	CHEBI 9581 9584	HCl
+#337	AnnotatorNotes T337	CHEBI:17883 (hydrogen chloride)
+T338	CHEBI 9581 9584	HCl
+#338	AnnotatorNotes T338	CHEBI:36807 (hydrochlorides)
+T339	EntrezGene 9704 9707	APP
+#339	AnnotatorNotes T339	EG:11820
+T340	PR 9704 9707	APP
+#340	AnnotatorNotes T340	PR:000004168 (amyloid beta A4 protein)
+T341	SO 9716 9726	transgenes
+#341	AnnotatorNotes T341	SO:0000902 (transgene)
+T342	SO 9787 9794	primers
+#342	AnnotatorNotes T342	SO:0000112 (primer)
+T343	EntrezGene 9796 9799	APP
+#343	AnnotatorNotes T343	EG:11820
+T344	PR 9796 9799	APP
+#344	AnnotatorNotes T344	PR:000004168 (amyloid beta A4 protein)
+T345	SO 9820 9834	forward primer
+#345	AnnotatorNotes T345	SO:0000121 (forward_primer)
+T346	SO 9820 9827	forward
+#346	AnnotatorNotes T346	SO:0001030 (forward)
+T347	EntrezGene 9868 9871	APP
+#347	AnnotatorNotes T347	EG:11820
+T348	PR 9868 9871	APP
+#348	AnnotatorNotes T348	PR:000004168 (amyloid beta A4 protein)
+T349	SO 9872 9876	cDNA
+#349	AnnotatorNotes T349	SO:0000756 (cDNA)
+T350	SO 9919 9933	reverse primer
+#350	AnnotatorNotes T350	SO:0000132 (reverse_primer)
+T351	SO 9919 9926	reverse
+#351	AnnotatorNotes T351	SO:0001031 (reverse)
+T352	EntrezGene 9934 9937	PrP
+#352	AnnotatorNotes T352	EG:19122
+T353	PR 9934 9937	PrP
+#353	AnnotatorNotes T353	PR:000001886 (major prion protein)
+T354	SO 9958 9964	3′ UTR
+#354	AnnotatorNotes T354	SO:0000205 (three_prime_UTR)
+T355	SO 9972 9978	vector
+#355	AnnotatorNotes T355	SO:0000440 (vector_replicon)
+T356	SO 10021 10030	transgene
+#356	AnnotatorNotes T356	SO:0000902 (transgene)
+T357	SO 10052 10058	primer
+#357	AnnotatorNotes T357	SO:0000112 (primer)
+T358	SO 10113 10120	forward
+#358	AnnotatorNotes T358	SO:0001030 (forward)
+T359	SO 10209 10216	reverse
+#359	AnnotatorNotes T359	SO:0001031 (reverse)
+T360	EntrezGene 10228 10237	HSV1 VP16
+#360	AnnotatorNotes T360	EG:2703416
+T361	NCBITaxon 10228 10232	HSV1
+#361	AnnotatorNotes T361	NCBITaxon:10298 (Human herpesvirus 1)
+T362	SO 10292 10301	transgene
+#362	AnnotatorNotes T362	SO:0000902 (transgene)
+T363	SO 10331 10375	segment of the endogenous prion protein gene
+#363	AnnotatorNotes T363	"segment of .. gene" SO:0000842 (gene_component_region)
+T364	EntrezGene 10357 10370	prion protein
+#364	AnnotatorNotes T364	EG:19122
+T365	PR 10357 10370	prion protein
+#365	AnnotatorNotes T365	PR:000001886 (major prion protein)
+T366	CHEBI 10363 10370	protein
+#366	AnnotatorNotes T366	CHEBI:36080 (proteins)
+T367	SO 10371 10375	gene
+#367	AnnotatorNotes T367	SO:0000704 (gene)
+T368	SO 10393 10396	DNA
+#368	AnnotatorNotes T368	SO:0000352 (DNA)
+T369	SO 10413 10427	forward primer
+#369	AnnotatorNotes T369	SO:0000121 (forward_primer)
+T370	SO 10413 10420	forward
+#370	AnnotatorNotes T370	SO:0001030 (forward)
+T371	EntrezGene 10429 10432	PrP
+#371	AnnotatorNotes T371	EG:19122
+T372	PR 10429 10432	PrP
+#372	AnnotatorNotes T372	PR:000001886 (major prion protein)
+T373	EntrezGene 10454 10463	mouse PrP
+#373	AnnotatorNotes T373	EG:19122
+T374	NCBITaxon 10454 10459	mouse
+#374	AnnotatorNotes T374	NCBITaxon:10088 (Mus)
+T375	PR 10460 10463	PrP
+#375	AnnotatorNotes T375	PR:000001886 (major prion protein)
+T376	SO 10464 10482	open reading frame
+#376	AnnotatorNotes T376	SO:0000236 (ORF)
+T377	SO 10522 10536	reverse primer
+#377	AnnotatorNotes T377	SO:0000132 (reverse_primer)
+T378	SO 10522 10529	reverse
+#378	AnnotatorNotes T378	SO:0001031 (reverse)
+T379	EntrezGene 10538 10541	PrP
+#379	AnnotatorNotes T379	EG:19122
+T380	PR 10538 10541	PrP
+#380	AnnotatorNotes T380	PR:000001886 (major prion protein)
+T381	SO 10562 10568	3′ UTR
+#381	AnnotatorNotes T381	SO:0000205 (three_prime_UTR)
+T382	EntrezGene 10587 10590	PrP
+#382	AnnotatorNotes T382	EG:19122
+T383	PR 10587 10590	PrP
+#383	AnnotatorNotes T383	PR:000001886 (major prion protein)
+T384	SO 10591 10595	gene
+#384	AnnotatorNotes T384	SO:0000704 (gene)
+T385	SO 10604 10613	transgene
+#385	AnnotatorNotes T385	SO:0000902 (transgene)
+T386	SO 10614 10620	vector
+#386	AnnotatorNotes T386	SO:0000440 (vector_replicon)
+T387	independent_continuant 10739 10749	transgenic
+#387	AnnotatorNotes T387	independent_continuant
+T388	SO 10739 10749	transgenic
+#388	AnnotatorNotes T388	SO:0000902 (transgene)
+T389	independent_continuant 10754 10763	wild-type
+#389	AnnotatorNotes T389	independent_continuant
+T390	SO 10754 10763	wild-type
+#390	AnnotatorNotes T390	SO:0000817 (wild_type)
+T391	SO 10776 10778	bp
+#391	AnnotatorNotes T391	SO:0000028 (base_pair)
+T392	SO 10779 10786	product
+#392	AnnotatorNotes T392	SO:0000006 (PCR_product)
+T393	EntrezGene 10807 10810	PrP
+#393	AnnotatorNotes T393	EG:19122
+T394	PR 10807 10810	PrP
+#394	AnnotatorNotes T394	PR:000001886 (major prion protein)
+T395	SO 10811 10815	gene
+#395	AnnotatorNotes T395	SO:0000704 (gene)
+T396	EntrezGene 10821 10824	APP
+#396	AnnotatorNotes T396	EG:11820
+T397	PR 10821 10824	APP
+#397	AnnotatorNotes T397	PR:000004168 (amyloid beta A4 protein)
+T398	SO 10825 10834	transgene
+#398	AnnotatorNotes T398	SO:0000902 (transgene)
+T399	SO 10869 10871	bp
+#399	AnnotatorNotes T399	SO:0000028 (base_pair)
+T400	SO 10881 10888	product
+#400	AnnotatorNotes T400	SO:0000006 (PCR_product)
+T401	SO 10912 10914	bp
+#401	AnnotatorNotes T401	SO:0000028 (base_pair)
+T402	CHEBI 11037 11046	phosphate
+#402	AnnotatorNotes T402	CHEBI:26020 (phosphates)
+T403	CHEBI 11037 11046	phosphate
+#403	AnnotatorNotes T403	CHEBI:35780 (phosphate ions)
+T404	CHEBI 11047 11055	buffered
+#404	AnnotatorNotes T404	CHEBI:35225 (buffer)
+T405	CHEBI 11079 11083	EDTA
+#405	AnnotatorNotes T405	CHEBI:30378 (ethylenediaminetetraacetate)
+T406	CHEBI 11079 11083	EDTA
+#406	AnnotatorNotes T406	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T407	CHEBI 11088 11107	protease inhibitors
+#407	AnnotatorNotes T407	CHEBI:37670 (protease inhibitor)
+T408	independent_continuant 11088 11107	protease inhibitors
+#408	AnnotatorNotes T408	independent_continuant
+T409	GO_MF 11088 11107	protease inhibitors
+#409	AnnotatorNotes T409	GO:0030414 (protease inhibitor activity)
+T410	GO_MF 11088 11096	protease
+#410	AnnotatorNotes T410	GO:0008233 (peptidase activity)
+T411	independent_continuant 11088 11096	protease
+#411	AnnotatorNotes T411	independent_continuant
+T412	NCBITaxon 11109 11118	Mammalian
+#412	AnnotatorNotes T412	NCBITaxon:40674 (Mammalia)
+T413	CL 11119 11123	cell
+#413	AnnotatorNotes T413	CL:0000000 (cell)
+T414	GO_CC 11119 11123	cell
+#414	AnnotatorNotes T414	GO:0005623 (cell)
+T415	SO 11186 11191	probe
+#415	AnnotatorNotes T415	SO:0000051 (probe)
+T416	CHEBI 11306 11310	EDTA
+#416	AnnotatorNotes T416	CHEBI:30378 (ethylenediaminetetraacetate)
+T417	CHEBI 11306 11310	EDTA
+#417	AnnotatorNotes T417	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T418	CHEBI 11311 11329	protease inhibitor
+#418	AnnotatorNotes T418	CHEBI:37670 (protease inhibitor)
+T419	GO_MF 11311 11329	protease inhibitor
+#419	AnnotatorNotes T419	GO:0030414 (protease inhibitor activity)
+T420	independent_continuant 11311 11329	protease inhibitor
+#420	AnnotatorNotes T420	independent_continuant
+T421	GO_MF 11311 11319	protease
+#421	AnnotatorNotes T421	GO:0008233 (peptidase activity)
+T422	independent_continuant 11311 11319	protease
+#422	AnnotatorNotes T422	independent_continuant
+T423	CHEBI 11526 11530	Tris
+#423	AnnotatorNotes T423	CHEBI:9754 (tris)
+T424	CHEBI 11531 11534	HCl
+#424	AnnotatorNotes T424	CHEBI:17883 (hydrogen chloride)
+T425	CHEBI 11531 11534	HCl
+#425	AnnotatorNotes T425	CHEBI:36807 (hydrochlorides)
+T426	CHEBI 11649 11653	Tris
+#426	AnnotatorNotes T426	CHEBI:9754 (tris)
+T427	CHEBI 11654 11661	glycine
+#427	AnnotatorNotes T427	CHEBI:15428 (glycine)
+T428	CHEBI 11662 11684	sodium dodecyl sulfate
+#428	AnnotatorNotes T428	CHEBI:8984 (sodium dodecyl sulfate)
+T429	CHEBI 11662 11668	sodium
+#429	AnnotatorNotes T429	CHEBI:26708 (sodium)
+T430	CHEBI 11669 11684	dodecyl sulfate
+#430	AnnotatorNotes T430	CHEBI:23872 (dodecyl sulfate)
+T431	CHEBI 11669 11676	dodecyl
+#431	AnnotatorNotes T431	CHEBI:23870 (dodecyl group)
+T432	CHEBI 11677 11684	sulfate
+#432	AnnotatorNotes T432	CHEBI:16189 (sulfate)
+T433	CHEBI 11677 11684	sulfate
+#433	AnnotatorNotes T433	CHEBI:45536 (sulfonato group)
+T434	CHEBI 11691 11694	SDS
+#434	AnnotatorNotes T434	CHEBI:8984 (sodium dodecyl sulfate)
+T435	CHEBI 11763 11767	Tris
+#435	AnnotatorNotes T435	CHEBI:9754 (tris)
+T436	CHEBI 11768 11775	tricine
+#436	AnnotatorNotes T436	CHEBI:46760 (tricine)
+T437	CHEBI 11776 11779	SDS
+#437	AnnotatorNotes T437	CHEBI:8984 (sodium dodecyl sulfate)
+T438	CHEBI 11844 11852	Proteins
+#438	AnnotatorNotes T438	CHEBI:36080 (proteins)
+T439	GO_CC 12157 12167	antibodies
+#439	AnnotatorNotes T439	GO:0019814 (immunoglobulin complex)
+T440	NCBITaxon 12169 12174	mouse
+#440	AnnotatorNotes T440	NCBITaxon:10088 (Mus)
+T441	NCBITaxon 12270 12275	mouse
+#441	AnnotatorNotes T441	NCBITaxon:10088 (Mus)
+T442	NCBITaxon 12369 12375	rabbit
+#442	AnnotatorNotes T442	NCBITaxon:9986 (Oryctolagus cuniculus)
+T443	PR 12392 12414	superoxide dismutase 1
+#443	AnnotatorNotes T443	PR:000015399 (superoxide dismutase [Cu-Zn])
+T444	GO_MF 12392 12412	superoxide dismutase
+#444	AnnotatorNotes T444	GO:0004784 (superoxide dismutase activity)
+T445	independent_continuant 12392 12412	superoxide dismutase
+#445	AnnotatorNotes T445	independent_continuant
+T446	CHEBI 12392 12402	superoxide
+#446	AnnotatorNotes T446	CHEBI:18421 (superoxide)
+T447	EntrezGene 12418 12423	hSOD1
+#447	AnnotatorNotes T447	EG:6647
+T448	NCBITaxon 12461 12467	rabbit
+#448	AnnotatorNotes T448	NCBITaxon:9986 (Oryctolagus cuniculus)
+T449	NCBITaxon 12631 12635	goat
+#449	AnnotatorNotes T449	NCBITaxon:9925 (Capra hircus)
+T450	NCBITaxon 12641 12646	mouse
+#450	AnnotatorNotes T450	NCBITaxon:10088 (Mus)
+T451	NCBITaxon 12651 12655	goat
+#451	AnnotatorNotes T451	NCBITaxon:9925 (Capra hircus)
+T452	NCBITaxon 12661 12667	rabbit
+#452	AnnotatorNotes T452	NCBITaxon:9986 (Oryctolagus cuniculus)
+T453	GO_BP 12672 12682	conjugated
+#453	AnnotatorNotes T453	GO:0043412 (biopolymer modification)
+T454	GO_CC 12693 12701	antibody
+#454	AnnotatorNotes T454	GO:0019814 (immunoglobulin complex)
+T455	CHEBI 12852 12859	reagent
+#455	AnnotatorNotes T455	CHEBI:33893 (reagent)
+T456	CHEBI 12888 12897	Molecular
+#456	AnnotatorNotes T456	CHEBI:23367 (molecular entity)
+T457	CHEBI 13016 13025	Molecular
+#457	AnnotatorNotes T457	CHEBI:23367 (molecular entity)
+T458	CHEBI 13285 13289	mRNA
+#458	AnnotatorNotes T458	CHEBI:33699 (messenger RNA)
+T459	SO 13285 13289	mRNA
+#459	AnnotatorNotes T459	SO:0000234 (mRNA)
+T460	SO 13336 13339	RNA
+#460	AnnotatorNotes T460	SO:0000356 (RNA)
+T461	CHEBI 13593 13605	radiolabeled
+#461	AnnotatorNotes T461	CHEBI:35211 (radioactive label)
+T462	SO 13611 13613	bp
+#462	AnnotatorNotes T462	SO:0000028 (base_pair)
+T463	SO 13625 13629	cDNA
+#463	AnnotatorNotes T463	SO:0000756 (cDNA)
+T464	SO 13630 13638	fragment
+#464	AnnotatorNotes T464	SO:0000731 (fragmentary)
+T465	NCBITaxon 13642 13644	mo
+#465	AnnotatorNotes T465	NCBITaxon:10088 (Mus)
+T466	PR 13645 13653	huAPP695
+#466	AnnotatorNotes T466	PR:000025537 (amyloid beta A4 protein isoform APP695 (human))
+T467	SO 13654 13658	cDNA
+#467	AnnotatorNotes T467	SO:0000756 (cDNA)
+T468	GO_MF 13666 13677	hybridizing
+#468	AnnotatorNotes T468	GO:0000739 (DNA strand annealing activity)
+T469	GO_MF 13666 13677	hybridizing
+#469	AnnotatorNotes T469	GO:0033592 (RNA strand annealing activity)
+T470	EntrezGene 13703 13706	BSA
+#470	AnnotatorNotes T470	EG:280717
+T471	CHEBI 13712 13716	EDTA
+#471	AnnotatorNotes T471	CHEBI:30378 (ethylenediaminetetraacetate)
+T472	CHEBI 13712 13716	EDTA
+#472	AnnotatorNotes T472	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T473	CHEBI 13723 13739	sodium phosphate
+#473	AnnotatorNotes T473	CHEBI:37586 (sodium phosphates)
+T474	CHEBI 13723 13729	sodium
+#474	AnnotatorNotes T474	CHEBI:26708 (sodium)
+T475	CHEBI 13730 13739	phosphate
+#475	AnnotatorNotes T475	CHEBI:35780 (phosphate ions)
+T476	CHEBI 13759 13762	SDS
+#476	AnnotatorNotes T476	CHEBI:8984 (sodium dodecyl sulfate)
+T477	EntrezGene 13830 13833	BSA
+#477	AnnotatorNotes T477	EG:280717
+T478	CHEBI 13839 13843	EDTA
+#478	AnnotatorNotes T478	CHEBI:30378 (ethylenediaminetetraacetate)
+T479	CHEBI 13839 13843	EDTA
+#479	AnnotatorNotes T479	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T480	CHEBI 13850 13866	sodium phosphate
+#480	AnnotatorNotes T480	CHEBI:37586 (sodium phosphates)
+T481	CHEBI 13850 13856	sodium
+#481	AnnotatorNotes T481	CHEBI:26708 (sodium)
+T482	CHEBI 13857 13866	phosphate
+#482	AnnotatorNotes T482	CHEBI:35780 (phosphate ions)
+T483	CHEBI 13886 13889	SDS
+#483	AnnotatorNotes T483	CHEBI:8984 (sodium dodecyl sulfate)
+T484	CHEBI 13940 13944	EDTA
+#484	AnnotatorNotes T484	CHEBI:30378 (ethylenediaminetetraacetate)
+T485	CHEBI 13940 13944	EDTA
+#485	AnnotatorNotes T485	CHEBI:42191 (ethylenediaminetetraacetic acid)
+T486	CHEBI 13951 13967	sodium phosphate
+#486	AnnotatorNotes T486	CHEBI:37586 (sodium phosphates)
+T487	CHEBI 13951 13957	sodium
+#487	AnnotatorNotes T487	CHEBI:26708 (sodium)
+T488	CHEBI 13958 13967	phosphate
+#488	AnnotatorNotes T488	CHEBI:35780 (phosphate ions)
+T489	CHEBI 13987 13990	SDS
+#489	AnnotatorNotes T489	CHEBI:8984 (sodium dodecyl sulfate)
+T490	NCBITaxon 14097 14101	Mice
+#490	AnnotatorNotes T490	NCBITaxon:10088 (Mus)
+T491	CHEBI 14289 14297	alcohols
+#491	AnnotatorNotes T491	CHEBI:30879 (alcohols)
+T492	CHEBI 14397 14403	silver
+#492	AnnotatorNotes T492	CHEBI:30512 (silver)
+T493	CHEBI 14411 14417	Silver
+#493	AnnotatorNotes T493	CHEBI:30512 (silver)
+T494	CHEBI 14595 14601	xylene
+#494	AnnotatorNotes T494	CHEBI:27338 (xylene)
+T495	CHEBI 14606 14614	alcohols
+#495	AnnotatorNotes T495	CHEBI:30879 (alcohols)
+T496	CHEBI 14624 14629	water
+#496	AnnotatorNotes T496	CHEBI:15377 (water)
+T497	CHEBI 14665 14679	silver nitrate
+#497	AnnotatorNotes T497	CHEBI:32130 (silver(1+) nitrate)
+T498	CHEBI 14665 14671	silver
+#498	AnnotatorNotes T498	CHEBI:30512 (silver)
+T499	CHEBI 14672 14679	nitrate
+#499	AnnotatorNotes T499	CHEBI:17632 (nitrate)
+T500	CHEBI 14746 14751	water
+#500	AnnotatorNotes T500	CHEBI:15377 (water)
+T501	CHEBI 14781 14795	silver nitrate
+#501	AnnotatorNotes T501	CHEBI:32130 (silver(1+) nitrate)
+T502	CHEBI 14781 14787	silver
+#502	AnnotatorNotes T502	CHEBI:30512 (silver)
+T503	CHEBI 14788 14795	nitrate
+#503	AnnotatorNotes T503	CHEBI:17632 (nitrate)
+T504	CHEBI 14825 14843	ammonium hydroxide
+#504	AnnotatorNotes T504	CHEBI:18219 (ammonium hydroxide)
+T505	CHEBI 14825 14833	ammonium
+#505	AnnotatorNotes T505	CHEBI:28938 (ammonium)
+T506	CHEBI 14834 14843	hydroxide
+#506	AnnotatorNotes T506	CHEBI:16234 (hydroxide)
+T507	CHEBI 14883 14896	ammonia water
+#507	AnnotatorNotes T507	CHEBI:18219 (ammonium hydroxide)
+T508	CHEBI 14883 14890	ammonia
+#508	AnnotatorNotes T508	CHEBI:16134 (ammonia)
+T509	CHEBI 14891 14896	water
+#509	AnnotatorNotes T509	CHEBI:15377 (water)
+T510	CHEBI 14972 14984	formaldehyde
+#510	AnnotatorNotes T510	CHEBI:16842 (formaldehyde)
+T511	CHEBI 15006 15011	water
+#511	AnnotatorNotes T511	CHEBI:15377 (water)
+T512	CHEBI 15035 15046	nitric acid
+#512	AnnotatorNotes T512	CHEBI:48107 (nitric acid)
+T513	CHEBI 15061 15072	citric acid
+#513	AnnotatorNotes T513	CHEBI:30769 (citric acid)
+T514	CHEBI 15101 15115	silver nitrate
+#514	AnnotatorNotes T514	CHEBI:32130 (silver(1+) nitrate)
+T515	CHEBI 15101 15107	silver
+#515	AnnotatorNotes T515	CHEBI:30512 (silver)
+T516	CHEBI 15108 15115	nitrate
+#516	AnnotatorNotes T516	CHEBI:17632 (nitrate)
+T517	CHEBI 15157 15162	water
+#517	AnnotatorNotes T517	CHEBI:15377 (water)
+T518	CHEBI 15176 15182	sodium
+#518	AnnotatorNotes T518	CHEBI:26708 (sodium)
+T519	CHEBI 15183 15194	thiosulfate
+#519	AnnotatorNotes T519	CHEBI:26977 (thiosulfates)
+T520	CHEBI 15183 15194	thiosulfate
+#520	AnnotatorNotes T520	CHEBI:16094 (thiosulfate(2-))
+T521	CHEBI 15219 15227	alcohols
+#521	AnnotatorNotes T521	CHEBI:30879 (alcohols)
+T522	CHEBI 15232 15238	xylene
+#522	AnnotatorNotes T522	CHEBI:27338 (xylene)
+T523	CHEBI 15312 15318	xylene
+#523	AnnotatorNotes T523	CHEBI:27338 (xylene)
+T524	CHEBI 15323 15331	alcohols
+#524	AnnotatorNotes T524	CHEBI:30879 (alcohols)
+T525	CHEBI 15520 15525	water
+#525	AnnotatorNotes T525	CHEBI:15377 (water)
+T526	CHEBI 15562 15571	potassium
+#526	AnnotatorNotes T526	CHEBI:26216 (potassium)
+T527	CHEBI 15572 15584	permanganate
+#527	AnnotatorNotes T527	CHEBI:25939 (permanganate)
+T528	CHEBI 15621 15630	potassium
+#528	AnnotatorNotes T528	CHEBI:26216 (potassium)
+T529	CHEBI 15631 15644	metabisulfate
+#529	AnnotatorNotes T529	CHEBI:29209 (dithionate(2-))
+T530	CHEBI 15648 15659	oxalic acid
+#530	AnnotatorNotes T530	CHEBI:16995 (oxalic acid)
+T531	CHEBI 15729 15736	aqueous
+#531	AnnotatorNotes T531	CHEBI:15377 (water)
+T532	CHEBI 15874 15881	ethanol
+#532	AnnotatorNotes T532	CHEBI:16236 (ethanol)
+T533	CHEBI 15905 15910	water
+#533	AnnotatorNotes T533	CHEBI:15377 (water)
+T534	CHEBI 15948 15955	aqueous
+#534	AnnotatorNotes T534	CHEBI:15377 (water)
+T535	EntrezGene 16018 16049	glial fibrillary acidic protein
+#535	AnnotatorNotes T535	EG:14580
+T536	PR 16018 16049	glial fibrillary acidic protein
+#536	AnnotatorNotes T536	PR:000007939 (glial fibrillary acidic protein)
+T537	CL 16018 16023	glial
+#537	AnnotatorNotes T537	CL:0000125 (glial cell)
+T538	CHEBI 16035 16041	acidic
+#538	AnnotatorNotes T538	CHEBI:37527 (acid)
+T539	CHEBI 16042 16049	protein
+#539	AnnotatorNotes T539	CHEBI:36080 (proteins)
+T540	PR 16055 16057	Aβ
+#540	AnnotatorNotes T540	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T541	CHEBI 16173 16179	xylene
+#541	AnnotatorNotes T541	CHEBI:27338 (xylene)
+T542	CHEBI 16214 16222	alcohols
+#542	AnnotatorNotes T542	CHEBI:30879 (alcohols)
+T543	CHEBI 16232 16237	water
+#543	AnnotatorNotes T543	CHEBI:15377 (water)
+T544	independent_continuant 16250 16260	peroxidase
+#544	AnnotatorNotes T544	independent_continuant
+T545	GO_MF 16250 16260	peroxidase
+#545	AnnotatorNotes T545	GO:0004601 (peroxidase activity)
+T546	CHEBI 16305 16322	hydrogen peroxide
+#546	AnnotatorNotes T546	CHEBI:16240 (hydrogen peroxide)
+T547	CHEBI 16305 16313	hydrogen
+#547	AnnotatorNotes T547	CHEBI:49637 (hydrogen)
+T548	CHEBI 16314 16322	peroxide
+#548	AnnotatorNotes T548	CHEBI:44785 (peroxide)
+T549	CHEBI 16326 16334	methanol
+#549	AnnotatorNotes T549	CHEBI:17790 (methanol)
+T550	CHEBI 16374 16379	water
+#550	AnnotatorNotes T550	CHEBI:15377 (water)
+T551	NCBITaxon 16475 16479	goat
+#551	AnnotatorNotes T551	NCBITaxon:9925 (Capra hircus)
+T552	GO_CC 16553 16561	antibody
+#552	AnnotatorNotes T552	GO:0019814 (immunoglobulin complex)
+T553	NCBITaxon 16563 16569	rabbit
+#553	AnnotatorNotes T553	NCBITaxon:9986 (Oryctolagus cuniculus)
+T554	PR 16575 16577	Aβ
+#554	AnnotatorNotes T554	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T555	SO 16578 16585	peptide
+#555	AnnotatorNotes T555	SO:0001407 (peptidyl)
+T556	GO_CC 16597 16605	antibody
+#556	AnnotatorNotes T556	GO:0019814 (immunoglobulin complex)
+T557	NCBITaxon 16675 16681	rabbit
+#557	AnnotatorNotes T557	NCBITaxon:9986 (Oryctolagus cuniculus)
+T558	NCBITaxon 16701 16707	rabbit
+#558	AnnotatorNotes T558	NCBITaxon:9986 (Oryctolagus cuniculus)
+T559	EntrezGene 16713 16744	glial fibrillary acidic protein
+#559	AnnotatorNotes T559	EG:281189
+T560	PR 16713 16744	glial fibrillary acidic protein
+#560	AnnotatorNotes T560	PR:000007939 (glial fibrillary acidic protein)
+T561	CL 16713 16718	glial
+#561	AnnotatorNotes T561	CL:0000125 (glial cell)
+T562	CHEBI 16730 16736	acidic
+#562	AnnotatorNotes T562	CHEBI:37527 (acid)
+T563	CHEBI 16737 16744	protein
+#563	AnnotatorNotes T563	CHEBI:36080 (proteins)
+T564	EntrezGene 16746 16750	GFAP
+#564	AnnotatorNotes T564	EG:281189
+T565	PR 16746 16750	GFAP
+#565	AnnotatorNotes T565	PR:000007939 (glial fibrillary acidic protein)
+T566	GO_CC 16763 16773	antibodies
+#566	AnnotatorNotes T566	GO:0019814 (immunoglobulin complex)
+T567	NCBITaxon 16857 16861	goat
+#567	AnnotatorNotes T567	NCBITaxon:9925 (Capra hircus)
+T568	GO_CC 16950 16958	antibody
+#568	AnnotatorNotes T568	GO:0019814 (immunoglobulin complex)
+T569	NCBITaxon 17048 17054	rabbit
+#569	AnnotatorNotes T569	NCBITaxon:9986 (Oryctolagus cuniculus)
+T570	PR 17078 17080	Aβ
+#570	AnnotatorNotes T570	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T571	GO_MF 17145 17155	peroxidase
+#571	AnnotatorNotes T571	GO:0004601 (peroxidase activity)
+T572	independent_continuant 17145 17155	peroxidase
+#572	AnnotatorNotes T572	independent_continuant
+T573	GO_MF 17161 17171	peroxidase
+#573	AnnotatorNotes T573	GO:0004601 (peroxidase activity)
+T574	independent_continuant 17161 17171	peroxidase
+#574	AnnotatorNotes T574	independent_continuant
+T575	CHEBI 17172 17180	reagents
+#575	AnnotatorNotes T575	CHEBI:33893 (reagent)
+T576	EntrezGene 17207 17211	GFAP
+#576	AnnotatorNotes T576	EG:281189
+T577	PR 17207 17211	GFAP
+#577	AnnotatorNotes T577	PR:000007939 (glial fibrillary acidic protein)
+T578	GO_MF 17320 17336	Antibody binding
+#578	AnnotatorNotes T578	GO:0019865 (immunoglobulin binding)
+T579	GO_CC 17320 17328	Antibody
+#579	AnnotatorNotes T579	GO:0019814 (immunoglobulin complex)
+T580	CHEBI 17562 17565	SDS
+#580	AnnotatorNotes T580	CHEBI:8984 (sodium dodecyl sulfate)
+T581	CHEBI 17644 17647	SDS
+#581	AnnotatorNotes T581	CHEBI:8984 (sodium dodecyl sulfate)
+T582	CHEBI 17738 17745	acetate
+#582	AnnotatorNotes T582	CHEBI:30089 (acetate)
+T583	PR 17895 17897	Aβ
+#583	AnnotatorNotes T583	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T584	GO_CC 17898 17906	antibody
+#584	AnnotatorNotes T584	GO:0019814 (immunoglobulin complex)
+T585	GO_BP 18123 18133	conjugated
+#585	AnnotatorNotes T585	GO:0043412 (biopolymer modification)
+T586	CHEBI 18134 18141	protein
+#586	AnnotatorNotes T586	CHEBI:36080 (proteins)
+T587	GO_MF 18268 18284	antibody binding
+#587	AnnotatorNotes T587	GO:0019865 (immunoglobulin binding)
+T588	GO_CC 18268 18276	antibody
+#588	AnnotatorNotes T588	GO:0019814 (immunoglobulin complex)
+T589	CHEBI 18432 18441	Molecular
+#589	AnnotatorNotes T589	CHEBI:23367 (molecular entity)
+T590	PR 18499 18501	Aβ
+#590	AnnotatorNotes T590	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T591	PR 18571 18573	Aβ
+#591	AnnotatorNotes T591	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T592	CHEBI 18728 18731	SDS
+#592	AnnotatorNotes T592	CHEBI:8984 (sodium dodecyl sulfate)
+T593	CHEBI 18741 18752	formic acid
+#593	AnnotatorNotes T593	CHEBI:30751 (formic acid)
+T594	CHEBI 18754 18756	FA
+#594	AnnotatorNotes T594	CHEBI:30751 (formic acid)
+T595	italic 18846 18847	g
+#595	AnnotatorNotes T595	italic (null)
+T596	CHEBI 19067 19070	SDS
+#596	AnnotatorNotes T596	CHEBI:8984 (sodium dodecyl sulfate)
+T597	CHEBI 19115 19117	FA
+#597	AnnotatorNotes T597	CHEBI:30751 (formic acid)
+T598	CHEBI 19147 19151	Tris
+#598	AnnotatorNotes T598	CHEBI:9754 (tris)
+T599	CHEBI 19152 19161	phosphate
+#599	AnnotatorNotes T599	CHEBI:26020 (phosphates)
+T600	CHEBI 19152 19161	phosphate
+#600	AnnotatorNotes T600	CHEBI:35780 (phosphate ions)
+T601	NCBITaxon 19223 19228	Human
+#601	AnnotatorNotes T601	NCBITaxon:9606 (Homo sapiens)
+T602	PR 19229 19231	Aβ
+#602	AnnotatorNotes T602	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T603	SO 19287 19294	epitope
+#603	AnnotatorNotes T603	SO:0001018 (epitope)
+T604	PR 19336 19340	Aβ40
+#604	AnnotatorNotes T604	PR:000025584 (beta-amyloid protein 40)
+T605	PR 19345 19349	Aβ42
+#605	AnnotatorNotes T605	PR:000025583 (beta-amyloid protein 42)
+T606	CHEBI 19373 19381	Chemical
+#606	AnnotatorNotes T606	CHEBI:23367 (molecular entity)
+T607	PR 19415 19417	Aβ
+#607	AnnotatorNotes T607	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T608	NCBITaxon 19419 19424	mouse
+#608	AnnotatorNotes T608	NCBITaxon:10088 (Mus)
+T609	NCBITaxon 19427 19432	human
+#609	AnnotatorNotes T609	NCBITaxon:9606 (Homo sapiens)
+T610	SO 19516 19523	epitope
+#610	AnnotatorNotes T610	SO:0001018 (epitope)
+T611	PR 19724 19731	CaMKIIα
+#611	AnnotatorNotes T611	PR:000003199 (calcium/calmodulin-dependent protein kinase type II alpha chain)
+T612	PR 19749 19752	ind
+#612	AnnotatorNotes T612	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T613	NCBITaxon 19762 19766	mice
+#613	AnnotatorNotes T613	NCBITaxon:10088 (Mus)
+T614	NCBITaxon 19794 19801	Animals
+#614	AnnotatorNotes T614	NCBITaxon:33208 (Metazoa)
+T615	italic 19888 19891	n =
+#615	AnnotatorNotes T615	italic (null)
+T616	SO 19900 19908	genotype
+#616	AnnotatorNotes T616	SO:0001027 (genotype)
+T617	SO 19928 19936	genotype
+#617	AnnotatorNotes T617	SO:0001027 (genotype)
+T618	NCBITaxon 20039 20045	animal
+#618	AnnotatorNotes T618	NCBITaxon:33208 (Metazoa)
+T619	NCBITaxon 20385 20391	animal
+#619	AnnotatorNotes T619	NCBITaxon:33208 (Metazoa)
+T620	CHEBI 20501 20508	protein
+#620	AnnotatorNotes T620	CHEBI:36080 (proteins)
+T621	GO_BP 20509 20519	expression
+#621	AnnotatorNotes T621	GO:0010467 (gene expression)
+T622	italic 20804 20805	x
+#622	AnnotatorNotes T622	italic (null)
+T623	SO 20919 20928	transgene
+#623	AnnotatorNotes T623	SO:0000902 (transgene)
+T624	GO_BP 20939 20946	express
+#624	AnnotatorNotes T624	GO:0010467 (gene expression)
+T625	SO 20956 20962	mutant
+#625	AnnotatorNotes T625	SO:0001059 (sequence_alteration)
+T626	SO 20963 20970	version
+#626	AnnotatorNotes T626	SO:0001060 (sequence_variant)
+T627	NCBITaxon 20983 20985	mo
+#627	AnnotatorNotes T627	NCBITaxon:10088 (Mus)
+T628	PR 20986 20994	huAPP695
+#628	AnnotatorNotes T628	PR:000025537 (amyloid beta A4 protein isoform APP695 (human))
+T629	PR 20996 20999	swe
+#629	AnnotatorNotes T629	PR:000025601 (amyloid beta A4 protein sequence variant APPKM670/671NL (human))
+T630	PR 21000 21003	ind
+#630	AnnotatorNotes T630	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T631	CHEBI 21036 21048	tetracycline
+#631	AnnotatorNotes T631	CHEBI:27902 (tetracycline)
+T632	GO_BP 21049 21059	responsive
+#632	AnnotatorNotes T632	GO:0050896 (response to stimulus)
+T633	SO 21060 21068	promoter
+#633	AnnotatorNotes T633	SO:0000167 (promoter)
+T634	SO 21078 21088	Transgenic
+#634	AnnotatorNotes T634	SO:0000902 (transgene)
+T635	EntrezGene 21089 21092	APP
+#635	AnnotatorNotes T635	EG:11820
+T636	PR 21089 21092	APP
+#636	AnnotatorNotes T636	PR:000004168 (amyloid beta A4 protein)
+T637	GO_BP 21093 21103	expression
+#637	AnnotatorNotes T637	GO:0010467 (gene expression)
+T638	PR 21141 21144	ind
+#638	AnnotatorNotes T638	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T639	NCBITaxon 21145 21149	mice
+#639	AnnotatorNotes T639	NCBITaxon:10088 (Mus)
+T640	NCBITaxon 21153 21160	animals
+#640	AnnotatorNotes T640	NCBITaxon:33208 (Metazoa)
+T641	GO_BP 21161 21170	producing
+#641	AnnotatorNotes T641	GO:0009058 (biosynthetic process)
+T642	GO_BP 21181 21188	control
+#642	AnnotatorNotes T642	GO:0065007 (biological regulation)
+T643	PR 21196 21203	CaMKIIα
+#643	AnnotatorNotes T643	PR:000003199 (calcium/calmodulin-dependent protein kinase type II alpha chain)
+T644	SO 21204 21212	promoter
+#644	AnnotatorNotes T644	SO:0000167 (promoter)
+T645	PR 21295 21298	ind
+#645	AnnotatorNotes T645	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T646	NCBITaxon 21299 21303	mice
+#646	AnnotatorNotes T646	NCBITaxon:10088 (Mus)
+T647	GO_BP 21309 21317	produced
+#647	AnnotatorNotes T647	GO:0009058 (biosynthetic process)
+T648	SO 21338 21347	transgene
+#648	AnnotatorNotes T648	SO:0000902 (transgene)
+T649	PR 21436 21439	APP
+#649	AnnotatorNotes T649	PR:000004168 (amyloid beta A4 protein)
+T650	SO 21440 21450	transgenic
+#650	AnnotatorNotes T650	SO:0000902 (transgene)
+T651	GO_BP 21579 21586	produce
+#651	AnnotatorNotes T651	GO:0009058 (biosynthetic process)
+T652	SO 21587 21597	transgenic
+#652	AnnotatorNotes T652	SO:0000902 (transgene)
+T653	EntrezGene 21598 21601	APP
+#653	AnnotatorNotes T653	EG:11820
+T654	PR 21598 21601	APP
+#654	AnnotatorNotes T654	PR:000004168 (amyloid beta A4 protein)
+T655	CHEBI 21602 21609	protein
+#655	AnnotatorNotes T655	CHEBI:36080 (proteins)
+T656	EntrezGene 21716 21719	APP
+#656	AnnotatorNotes T656	EG:11820
+T657	PR 21716 21719	APP
+#657	AnnotatorNotes T657	PR:000004168 (amyloid beta A4 protein)
+T658	EntrezGene 21756 21759	APP
+#658	AnnotatorNotes T658	EG:11820
+T659	PR 21756 21759	APP
+#659	AnnotatorNotes T659	PR:000004168 (amyloid beta A4 protein)
+T660	NCBITaxon 21760 21764	mice
+#660	AnnotatorNotes T660	NCBITaxon:10088 (Mus)
+T661	GO_CC 21774 21782	antibody
+#661	AnnotatorNotes T661	GO:0019814 (immunoglobulin complex)
+T662	EntrezGene 21815 21818	APP
+#662	AnnotatorNotes T662	EG:11820
+T663	PR 21815 21818	APP
+#663	AnnotatorNotes T663	PR:000004168 (amyloid beta A4 protein)
+T664	EntrezGene 21824 21856	amyloid precursor-like protein 2
+#664	AnnotatorNotes T664	EG:11804
+T665	PR 21824 21856	amyloid precursor-like protein 2
+#665	AnnotatorNotes T665	PR:000004137 (amyloid-like protein 2)
+T666	EntrezGene 21824 21841	amyloid precursor
+#666	AnnotatorNotes T666	EG:19122
+T667	PR 21824 21841	amyloid precursor
+#667	AnnotatorNotes T667	PR:000004168 (amyloid beta A4 protein)
+T668	CHEBI 21847 21854	protein
+#668	AnnotatorNotes T668	CHEBI:36080 (proteins)
+T669	SO 21866 21876	transgenic
+#669	AnnotatorNotes T669	SO:0000902 (transgene)
+T670	CHEBI 21877 21884	protein
+#670	AnnotatorNotes T670	CHEBI:36080 (proteins)
+T671	GO_CC 21897 21905	antibody
+#671	AnnotatorNotes T671	GO:0019814 (immunoglobulin complex)
+T672	EntrezGene 21969 21972	APP
+#672	AnnotatorNotes T672	EG:11820
+T673	PR 21969 21972	APP
+#673	AnnotatorNotes T673	PR:000004168 (amyloid beta A4 protein)
+T674	NCBITaxon 21973 21977	mice
+#674	AnnotatorNotes T674	NCBITaxon:10088 (Mus)
+T675	GO_BP 22001 22012	suppression
+#675	AnnotatorNotes T675	GO:0048519 (negative regulation of biological process)
+T676	SO 22020 22029	transgene
+#676	AnnotatorNotes T676	SO:0000902 (transgene)
+T677	SO 22188 22197	transgene
+#677	AnnotatorNotes T677	SO:0000902 (transgene)
+T678	GO_BP 22198 22209	suppression
+#678	AnnotatorNotes T678	GO:0048519 (negative regulation of biological process)
+T679	NCBITaxon 22339 22343	mice
+#679	AnnotatorNotes T679	NCBITaxon:10088 (Mus)
+T680	GO_BP 22348 22352	born
+#680	AnnotatorNotes T680	GO:0007567 (parturition)
+T681	NCBITaxon 22544 22551	Animals
+#681	AnnotatorNotes T681	NCBITaxon:33208 (Metazoa)
+T682	GO_BP 22552 22556	born
+#682	AnnotatorNotes T682	GO:0007567 (parturition)
+T683	SO 22587 22597	transgenic
+#683	AnnotatorNotes T683	SO:0000902 (transgene)
+T684	EntrezGene 22598 22601	APP
+#684	AnnotatorNotes T684	EG:11820
+T685	PR 22598 22601	APP
+#685	AnnotatorNotes T685	PR:000004168 (amyloid beta A4 protein)
+T686	SO 22661 22671	transgenic
+#686	AnnotatorNotes T686	SO:0000902 (transgene)
+T687	EntrezGene 22672 22675	APP
+#687	AnnotatorNotes T687	EG:11820
+T688	PR 22672 22675	APP
+#688	AnnotatorNotes T688	PR:000004168 (amyloid beta A4 protein)
+T689	GO_BP 22676 22686	expression
+#689	AnnotatorNotes T689	GO:0010467 (gene expression)
+T690	GO_BP 22757 22767	expression
+#690	AnnotatorNotes T690	GO:0010467 (gene expression)
+T691	NCBITaxon 22797 22801	mice
+#691	AnnotatorNotes T691	NCBITaxon:10088 (Mus)
+T692	SO 22833 22843	transgenic
+#692	AnnotatorNotes T692	SO:0000902 (transgene)
+T693	CHEBI 22844 22851	protein
+#693	AnnotatorNotes T693	CHEBI:36080 (proteins)
+T694	GO_BP 22852 22860	produced
+#694	AnnotatorNotes T694	GO:0009058 (biosynthetic process)
+T695	GO_BP 22951 22964	transcription
+#695	AnnotatorNotes T695	GO:0006350 (transcription)
+T696	EntrezGene 23016 23019	APP
+#696	AnnotatorNotes T696	EG:11820
+T697	PR 23016 23019	APP
+#697	AnnotatorNotes T697	PR:000004168 (amyloid beta A4 protein)
+T698	SO 23037 23047	transgenic
+#698	AnnotatorNotes T698	SO:0000902 (transgene)
+T699	NCBITaxon 23105 23112	animals
+#699	AnnotatorNotes T699	NCBITaxon:33208 (Metazoa)
+T700	NCBITaxon 23176 23180	mice
+#700	AnnotatorNotes T700	NCBITaxon:10088 (Mus)
+T701	PR 23318 23320	Aβ
+#701	AnnotatorNotes T701	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T702	GO_BP 23321 23331	production
+#702	AnnotatorNotes T702	GO:0009058 (biosynthetic process)
+T703	GO_BP 23336 23346	suppressed
+#703	AnnotatorNotes T703	GO:0048519 (negative regulation of biological process)
+T704	PR 23415 23418	ind
+#704	AnnotatorNotes T704	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T705	PR 23432 23436	Aβ40
+#705	AnnotatorNotes T705	PR:000025584 (beta-amyloid protein 40)
+T706	PR 23441 23445	Aβ42
+#706	AnnotatorNotes T706	PR:000025583 (beta-amyloid protein 42)
+T707	NCBITaxon 23506 23513	animals
+#707	AnnotatorNotes T707	NCBITaxon:33208 (Metazoa)
+T708	NCBITaxon 23535 23539	mice
+#708	AnnotatorNotes T708	NCBITaxon:10088 (Mus)
+T709	SO 23620 23627	peptide
+#709	AnnotatorNotes T709	SO:0001407 (peptidyl)
+T710	SO 23661 23670	transgene
+#710	AnnotatorNotes T710	SO:0000902 (transgene)
+T711	GO_BP 23680 23690	suppressed
+#711	AnnotatorNotes T711	GO:0048519 (negative regulation of biological process)
+T712	SO 23798 23805	peptide
+#712	AnnotatorNotes T712	SO:0001407 (peptidyl)
+T713	GO_BP 23806 23815	synthesis
+#713	AnnotatorNotes T713	GO:0009058 (biosynthetic process)
+T714	CHEBI 23878 23881	SDS
+#714	AnnotatorNotes T714	CHEBI:8984 (sodium dodecyl sulfate)
+T715	CHEBI 23891 23893	FA
+#715	AnnotatorNotes T715	CHEBI:30751 (formic acid)
+T716	SO 23914 23922	peptides
+#716	AnnotatorNotes T716	SO:0001407 (peptidyl)
+T717	NCBITaxon 23964 23969	human
+#717	AnnotatorNotes T717	NCBITaxon:9606 (Homo sapiens)
+T718	SO 23970 23979	transgene
+#718	AnnotatorNotes T718	SO:0000902 (transgene)
+T719	PR 23988 23992	Aβ40
+#719	AnnotatorNotes T719	PR:000025584 (beta-amyloid protein 40)
+T720	PR 23997 24001	Aβ42
+#720	AnnotatorNotes T720	PR:000025583 (beta-amyloid protein 42)
+T721	NCBITaxon 24015 24019	mice
+#721	AnnotatorNotes T721	NCBITaxon:10088 (Mus)
+T722	NCBITaxon 24044 24051	animals
+#722	AnnotatorNotes T722	NCBITaxon:33208 (Metazoa)
+T723	GO_BP 24073 24077	born
+#723	AnnotatorNotes T723	GO:0007567 (parturition)
+T724	PR 24258 24261	ind
+#724	AnnotatorNotes T724	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T725	PR 24333 24336	ind
+#725	AnnotatorNotes T725	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T726	GO_BP 24337 24346	synthesis
+#726	AnnotatorNotes T726	GO:0009058 (biosynthetic process)
+T727	SO 24397 24406	transgene
+#727	AnnotatorNotes T727	SO:0000902 (transgene)
+T728	PR 24415 24417	Aβ
+#728	AnnotatorNotes T728	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T729	GO_BP 24441 24451	suppressed
+#729	AnnotatorNotes T729	GO:0048519 (negative regulation of biological process)
+T730	NCBITaxon 24455 24462	animals
+#730	AnnotatorNotes T730	NCBITaxon:33208 (Metazoa)
+T731	GO_BP 24463 24467	born
+#731	AnnotatorNotes T731	GO:0007567 (parturition)
+T732	CHEBI 24535 24545	antibiotic
+#732	AnnotatorNotes T732	CHEBI:22582 (antibiotic)
+T733	NCBITaxon 24602 24606	mice
+#733	AnnotatorNotes T733	NCBITaxon:10088 (Mus)
+T734	PR 24620 24624	Aβ42
+#734	AnnotatorNotes T734	PR:000025583 (beta-amyloid protein 42)
+T735	CHEBI 24734 24737	SDS
+#735	AnnotatorNotes T735	CHEBI:8984 (sodium dodecyl sulfate)
+T736	PR 24746 24750	Aβ42
+#736	AnnotatorNotes T736	PR:000025583 (beta-amyloid protein 42)
+T737	CHEBI 24843 24845	FA
+#737	AnnotatorNotes T737	CHEBI:30751 (formic acid)
+T738	GO_CC 24846 24854	fraction
+#738	AnnotatorNotes T738	GO:0000267 (cell fraction)
+T739	SO 24894 24901	peptide
+#739	AnnotatorNotes T739	SO:0001407 (peptidyl)
+T740	NCBITaxon 24921 24928	animals
+#740	AnnotatorNotes T740	NCBITaxon:33208 (Metazoa)
+T741	NCBITaxon 25076 25083	animals
+#741	AnnotatorNotes T741	NCBITaxon:33208 (Metazoa)
+T742	GO_BP 25094 25098	born
+#742	AnnotatorNotes T742	GO:0007567 (parturition)
+T743	SO 25170 25177	peptide
+#743	AnnotatorNotes T743	SO:0001407 (peptidyl)
+T744	PR 25195 25199	Aβ42
+#744	AnnotatorNotes T744	PR:000025583 (beta-amyloid protein 42)
+T745	NCBITaxon 25224 25228	mice
+#745	AnnotatorNotes T745	NCBITaxon:10088 (Mus)
+T746	PR 25251 25253	Aβ
+#746	AnnotatorNotes T746	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T747	NCBITaxon 25277 25281	mice
+#747	AnnotatorNotes T747	NCBITaxon:10088 (Mus)
+T748	SO 25308 25317	transgene
+#748	AnnotatorNotes T748	SO:0000902 (transgene)
+T749	SO 25326 25333	peptide
+#749	AnnotatorNotes T749	SO:0001407 (peptidyl)
+T750	PR 25353 25355	Aβ
+#750	AnnotatorNotes T750	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T751	EntrezGene 25374 25377	APP
+#751	AnnotatorNotes T751	EG:11820
+T752	PR 25374 25377	APP
+#752	AnnotatorNotes T752	PR:000004168 (amyloid beta A4 protein)
+T753	NCBITaxon 25378 25382	mice
+#753	AnnotatorNotes T753	NCBITaxon:10088 (Mus)
+T754	SO 25423 25430	peptide
+#754	AnnotatorNotes T754	SO:0001407 (peptidyl)
+T755	NCBITaxon 25454 25461	animals
+#755	AnnotatorNotes T755	NCBITaxon:33208 (Metazoa)
+T756	PR 25542 25545	ind
+#756	AnnotatorNotes T756	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T757	GO_BP 25597 25643	suppression of transgenic APPswe/ind synthesis
+#757	AnnotatorNotes T757	"suppression of .. synthesis" GO:0009890 (negative regulation of biosynthetic process)
+T758	SO 25612 25622	transgenic
+#758	AnnotatorNotes T758	SO:0000902 (transgene)
+T759	PR 25630 25633	ind
+#759	AnnotatorNotes T759	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T760	GO_BP 25634 25643	synthesis
+#760	AnnotatorNotes T760	GO:0009058 (biosynthetic process)
+T761	PR 25675 25677	Aβ
+#761	AnnotatorNotes T761	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T762	PR 25743 25750	Swedish
+#762	AnnotatorNotes T762	PR:000025601 (amyloid beta A4 protein sequence variant APPKM670/671NL (human))
+T763	PR 25755 25762	Indiana
+#763	AnnotatorNotes T763	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T764	SO 25763 25772	mutations
+#764	AnnotatorNotes T764	SO:0001059 (sequence_alteration)
+T765	PR 25795 25799	Aβ42
+#765	AnnotatorNotes T765	PR:000025583 (beta-amyloid protein 42)
+T766	GO_BP 25846 25855	formation
+#766	AnnotatorNotes T766	GO:0032502 (developmental process)
+T767	NCBITaxon 25869 25876	animals
+#767	AnnotatorNotes T767	NCBITaxon:33208 (Metazoa)
+T768	SO 25918 25928	transgenic
+#768	AnnotatorNotes T768	SO:0000902 (transgene)
+T769	PR 25930 25937	CaMKIIα
+#769	AnnotatorNotes T769	PR:000003199 (calcium/calmodulin-dependent protein kinase type II alpha chain)
+T770	PR 25955 25958	ind
+#770	AnnotatorNotes T770	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T771	NCBITaxon 25960 25964	mice
+#771	AnnotatorNotes T771	NCBITaxon:10088 (Mus)
+T772	GO_BP 25994 26003	formation
+#772	AnnotatorNotes T772	GO:0032502 (developmental process)
+T773	NCBITaxon 26056 26060	mice
+#773	AnnotatorNotes T773	NCBITaxon:10088 (Mus)
+T774	GO_BP 26177 26186	olfactory
+#774	AnnotatorNotes T774	GO:0007608 (sensory perception of smell)
+T775	PR 26217 26224	CaMKIIα
+#775	AnnotatorNotes T775	PR:000003199 (calcium/calmodulin-dependent protein kinase type II alpha chain)
+T776	SO 26225 26233	promoter
+#776	AnnotatorNotes T776	SO:0000167 (promoter)
+T777	PR 26480 26487	CaMKIIα
+#777	AnnotatorNotes T777	PR:000003199 (calcium/calmodulin-dependent protein kinase type II alpha chain)
+T778	GO_BP 26488 26498	controlled
+#778	AnnotatorNotes T778	GO:0065007 (biological regulation)
+T779	SO 26499 26508	transgene
+#779	AnnotatorNotes T779	SO:0000902 (transgene)
+T780	GO_BP 26509 26519	expression
+#780	AnnotatorNotes T780	GO:0010467 (gene expression)
+T781	NCBITaxon 26560 26565	human
+#781	AnnotatorNotes T781	NCBITaxon:9606 (Homo sapiens)
+T782	EntrezGene 26616 26619	APP
+#782	AnnotatorNotes T782	EG:11820
+T783	PR 26616 26619	APP
+#783	AnnotatorNotes T783	PR:000004168 (amyloid beta A4 protein)
+T784	NCBITaxon 26620 26624	mice
+#784	AnnotatorNotes T784	NCBITaxon:10088 (Mus)
+T785	PR 26731 26734	APP
+#785	AnnotatorNotes T785	PR:000004168 (amyloid beta A4 protein)
+T786	SO 26735 26745	transgenic
+#786	AnnotatorNotes T786	SO:0000902 (transgene)
+T787	NCBITaxon 26746 26750	mice
+#787	AnnotatorNotes T787	NCBITaxon:10088 (Mus)
+T788	PR 26767 26774	Swedish
+#788	AnnotatorNotes T788	PR:000025601 (amyloid beta A4 protein sequence variant APPKM670/671NL (human))
+T789	SO 26775 26783	mutation
+#789	AnnotatorNotes T789	SO:0001059 (sequence_alteration)
+T790	EntrezGene 26836 26839	APP
+#790	AnnotatorNotes T790	EG:11820
+T791	PR 26836 26839	APP
+#791	AnnotatorNotes T791	PR:000004168 (amyloid beta A4 protein)
+T792	NCBITaxon 26840 26844	mice
+#792	AnnotatorNotes T792	NCBITaxon:10088 (Mus)
+T793	NCBITaxon 26996 27000	mice
+#793	AnnotatorNotes T793	NCBITaxon:10088 (Mus)
+T794	GO_BP 27001 27011	expressing
+#794	AnnotatorNotes T794	GO:0010467 (gene expression)
+T795	SO 27012 27018	mutant
+#795	AnnotatorNotes T795	SO:0001059 (sequence_alteration)
+T796	PR 27019 27022	APP
+#796	AnnotatorNotes T796	PR:000004168 (amyloid beta A4 protein)
+T797	PR 27031 27036	Thy-1
+#797	AnnotatorNotes T797	PR:000001843 (Thy-1 membrane glycoprotein)
+T798	SO 27037 27045	promoter
+#798	AnnotatorNotes T798	SO:0000167 (promoter)
+T799	GO_BP 27119 27135	axonal transport
+#799	AnnotatorNotes T799	GO:0008088 (axon cargo transport)
+T800	GO_CC 27119 27125	axonal
+#800	AnnotatorNotes T800	GO:0030424 (axon)
+T801	PR 27139 27142	APP
+#801	AnnotatorNotes T801	PR:000004168 (amyloid beta A4 protein)
+T802	PR 27143 27145	Aβ
+#802	AnnotatorNotes T802	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T803	GO_CC 27153 27182	terminals of cortical neurons
+#803	AnnotatorNotes T803	"terminals of .. neurons" GO:0043679 (nerve terminal)
+T804	CL 27175 27182	neurons
+#804	AnnotatorNotes T804	CL:0000540 (neuron)
+T805	SO 27235 27245	transgenic
+#805	AnnotatorNotes T805	SO:0000902 (transgene)
+T806	NCBITaxon 27246 27250	mice
+#806	AnnotatorNotes T806	NCBITaxon:10088 (Mus)
+T807	GO_BP 27252 27262	expressing
+#807	AnnotatorNotes T807	GO:0010467 (gene expression)
+T808	EntrezGene 27280 27283	APP
+#808	AnnotatorNotes T808	EG:11820
+T809	PR 27280 27283	APP
+#809	AnnotatorNotes T809	PR:000004168 (amyloid beta A4 protein)
+T810	SO 27284 27294	transgenes
+#810	AnnotatorNotes T810	SO:0000902 (transgene)
+T811	GO_BP 27296 27305	developed
+#811	AnnotatorNotes T811	GO:0032502 (developmental process)
+T812	SO 27330 27340	transgenic
+#812	AnnotatorNotes T812	SO:0000902 (transgene)
+T813	NCBITaxon 27341 27345	mice
+#813	AnnotatorNotes T813	NCBITaxon:10088 (Mus)
+T814	SO 27473 27483	transgenic
+#814	AnnotatorNotes T814	SO:0000902 (transgene)
+T815	NCBITaxon 27484 27491	animals
+#815	AnnotatorNotes T815	NCBITaxon:33208 (Metazoa)
+T816	GO_BP 27492 27496	born
+#816	AnnotatorNotes T816	GO:0007567 (parturition)
+T817	NCBITaxon 27516 27523	Animals
+#817	AnnotatorNotes T817	NCBITaxon:33208 (Metazoa)
+T818	GO_BP 27541 27551	expressing
+#818	AnnotatorNotes T818	GO:0010467 (gene expression)
+T819	SO 27684 27693	transgene
+#819	AnnotatorNotes T819	SO:0000902 (transgene)
+T820	GO_BP 27694 27704	expression
+#820	AnnotatorNotes T820	GO:0010467 (gene expression)
+T821	PR 27756 27758	Aβ
+#821	AnnotatorNotes T821	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T822	SO 27759 27766	peptide
+#822	AnnotatorNotes T822	SO:0001407 (peptidyl)
+T823	GO_BP 27785 27794	formation
+#823	AnnotatorNotes T823	GO:0032502 (developmental process)
+T824	CHEBI 27859 27869	inhibitors
+#824	AnnotatorNotes T824	CHEBI:35222 (inhibitor)
+T825	PR 27873 27875	Aβ
+#825	AnnotatorNotes T825	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T826	GO_BP 27876 27886	production
+#826	AnnotatorNotes T826	GO:0009058 (biosynthetic process)
+T827	SO 27919 27929	transgenic
+#827	AnnotatorNotes T827	SO:0000902 (transgene)
+T828	NCBITaxon 27930 27934	mice
+#828	AnnotatorNotes T828	NCBITaxon:10088 (Mus)
+T829	PR 27936 27943	CaMKIIα
+#829	AnnotatorNotes T829	PR:000003199 (calcium/calmodulin-dependent protein kinase type II alpha chain)
+T830	EntrezGene 27950 27953	APP
+#830	AnnotatorNotes T830	EG:11820
+T831	PR 27950 27953	APP
+#831	AnnotatorNotes T831	PR:000004168 (amyloid beta A4 protein)
+T832	CHEBI 27974 27978	food
+#832	AnnotatorNotes T832	CHEBI:33290 (food)
+T833	GO_BP 28019 28028	formation
+#833	AnnotatorNotes T833	GO:0032502 (developmental process)
+T834	NCBITaxon 28090 28097	animals
+#834	AnnotatorNotes T834	NCBITaxon:33208 (Metazoa)
+T835	CHEBI 28132 28136	food
+#835	AnnotatorNotes T835	CHEBI:33290 (food)
+T836	NCBITaxon 28236 28243	animals
+#836	AnnotatorNotes T836	NCBITaxon:33208 (Metazoa)
+T837	GO_BP 28310 28317	created
+#837	AnnotatorNotes T837	GO:0000003 (reproduction)
+T838	italic 28335 28338	n =
+#838	AnnotatorNotes T838	italic (null)
+T839	italic 28359 28362	n =
+#839	AnnotatorNotes T839	italic (null)
+T840	italic 28388 28391	n =
+#840	AnnotatorNotes T840	italic (null)
+T841	italic 28421 28424	n =
+#841	AnnotatorNotes T841	italic (null)
+T842	GO_BP 28434 28445	suppression
+#842	AnnotatorNotes T842	GO:0048519 (negative regulation of biological process)
+T843	SO 28456 28466	transgenic
+#843	AnnotatorNotes T843	SO:0000902 (transgene)
+T844	PR 28474 28477	ind
+#844	AnnotatorNotes T844	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T845	NCBITaxon 28504 28511	animals
+#845	AnnotatorNotes T845	NCBITaxon:33208 (Metazoa)
+T846	SO 28571 28580	transgene
+#846	AnnotatorNotes T846	SO:0000902 (transgene)
+T847	GO_BP 28590 28600	suppressed
+#847	AnnotatorNotes T847	GO:0048519 (negative regulation of biological process)
+T848	NCBITaxon 28624 28628	mice
+#848	AnnotatorNotes T848	NCBITaxon:10088 (Mus)
+T849	NCBITaxon 28685 28692	animals
+#849	AnnotatorNotes T849	NCBITaxon:33208 (Metazoa)
+T850	NCBITaxon 28735 28742	animals
+#850	AnnotatorNotes T850	NCBITaxon:33208 (Metazoa)
+T851	PR 28804 28807	ind
+#851	AnnotatorNotes T851	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T852	EntrezGene 28812 28815	APP
+#852	AnnotatorNotes T852	EG:11820
+T853	PR 28812 28815	APP
+#853	AnnotatorNotes T853	PR:000004168 (amyloid beta A4 protein)
+T854	SO 28816 28826	C-terminal
+#854	AnnotatorNotes T854	SO:0100015 (c_terminal_region)
+T855	CHEBI 28816 28817	C
+#855	AnnotatorNotes T855	CHEBI:18245 (carboxylato group)
+T856	CHEBI 28816 28817	C
+#856	AnnotatorNotes T856	CHEBI:46883 (carboxy group)
+T857	SO 28827 28835	fragment
+#857	AnnotatorNotes T857	SO:0000731 (fragmentary)
+T858	GO_BP 28854 28864	suppressed
+#858	AnnotatorNotes T858	GO:0048519 (negative regulation of biological process)
+T859	PR 28943 28946	ind
+#859	AnnotatorNotes T859	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T860	GO_BP 28955 28964	processed
+#860	AnnotatorNotes T860	GO:0016485 (protein processing)
+T861	SO 28965 28975	C-terminal
+#861	AnnotatorNotes T861	SO:0100015 (c_terminal_region)
+T862	CHEBI 28965 28966	C
+#862	AnnotatorNotes T862	CHEBI:46883 (carboxy group)
+T863	CHEBI 28965 28966	C
+#863	AnnotatorNotes T863	CHEBI:18245 (carboxylato group)
+T864	SO 28976 28985	fragments
+#864	AnnotatorNotes T864	SO:0000731 (fragmentary)
+T865	NCBITaxon 29047 29053	animal
+#865	AnnotatorNotes T865	NCBITaxon:33208 (Metazoa)
+T866	CHEBI 29128 29134	silver
+#866	AnnotatorNotes T866	CHEBI:30512 (silver)
+T867	CHEBI 29153 29159	silver
+#867	AnnotatorNotes T867	CHEBI:30512 (silver)
+T868	PR 29179 29181	Aβ
+#868	AnnotatorNotes T868	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T869	NCBITaxon 29398 29402	mice
+#869	AnnotatorNotes T869	NCBITaxon:10088 (Mus)
+T870	GO_BP 29628 29634	formed
+#870	AnnotatorNotes T870	GO:0032502 (developmental process)
+T871	NCBITaxon 29667 29674	animals
+#871	AnnotatorNotes T871	NCBITaxon:33208 (Metazoa)
+T872	SO 29689 29698	transgene
+#872	AnnotatorNotes T872	SO:0000902 (transgene)
+T873	GO_BP 29699 29710	suppression
+#873	AnnotatorNotes T873	GO:0048519 (negative regulation of biological process)
+T874	GO_BP 29789 29793	form
+#874	AnnotatorNotes T874	GO:0032502 (developmental process)
+T875	CHEBI 29916 29922	silver
+#875	AnnotatorNotes T875	CHEBI:30512 (silver)
+T876	GO_BP 30090 30101	suppression
+#876	AnnotatorNotes T876	GO:0048519 (negative regulation of biological process)
+T877	SO 30105 30115	transgenic
+#877	AnnotatorNotes T877	SO:0000902 (transgene)
+T878	EntrezGene 30116 30119	APP
+#878	AnnotatorNotes T878	EG:11820
+T879	PR 30116 30119	APP
+#879	AnnotatorNotes T879	PR:000004168 (amyloid beta A4 protein)
+T880	NCBITaxon 30272 30276	mice
+#880	AnnotatorNotes T880	NCBITaxon:10088 (Mus)
+T881	GO_BP 30298 30309	suppression
+#881	AnnotatorNotes T881	GO:0048519 (negative regulation of biological process)
+T882	EntrezGene 30349 30352	APP
+#882	AnnotatorNotes T882	EG:11820
+T883	PR 30349 30352	APP
+#883	AnnotatorNotes T883	PR:000004168 (amyloid beta A4 protein)
+T884	NCBITaxon 30353 30357	mice
+#884	AnnotatorNotes T884	NCBITaxon:10088 (Mus)
+T885	PR 30359 30366	CaMKIIα
+#885	AnnotatorNotes T885	PR:000003199 (calcium/calmodulin-dependent protein kinase type II alpha chain)
+T886	PR 30384 30387	ind
+#886	AnnotatorNotes T886	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T887	italic 30397 30400	n =
+#887	AnnotatorNotes T887	italic (null)
+T888	NCBITaxon 30467 30471	mice
+#888	AnnotatorNotes T888	NCBITaxon:10088 (Mus)
+T889	SO 30501 30510	transgene
+#889	AnnotatorNotes T889	SO:0000902 (transgene)
+T890	GO_BP 30511 30522	suppression
+#890	AnnotatorNotes T890	GO:0048519 (negative regulation of biological process)
+T891	italic 30540 30543	n =
+#891	AnnotatorNotes T891	italic (null)
+T892	italic 30563 30566	n =
+#892	AnnotatorNotes T892	italic (null)
+T893	italic 30591 30594	n =
+#893	AnnotatorNotes T893	italic (null)
+T894	EntrezGene 30618 30621	APP
+#894	AnnotatorNotes T894	EG:11820
+T895	PR 30618 30621	APP
+#895	AnnotatorNotes T895	PR:000004168 (amyloid beta A4 protein)
+T896	SO 30637 30646	transgene
+#896	AnnotatorNotes T896	SO:0000902 (transgene)
+T897	GO_BP 30647 30658	suppression
+#897	AnnotatorNotes T897	GO:0048519 (negative regulation of biological process)
+T898	NCBITaxon 30674 30681	animals
+#898	AnnotatorNotes T898	NCBITaxon:33208 (Metazoa)
+T899	NCBITaxon 30714 30718	mice
+#899	AnnotatorNotes T899	NCBITaxon:10088 (Mus)
+T900	NCBITaxon 30791 30795	mice
+#900	AnnotatorNotes T900	NCBITaxon:10088 (Mus)
+T901	GO_BP 30823 30834	Suppression
+#901	AnnotatorNotes T901	GO:0048519 (negative regulation of biological process)
+T902	SO 30838 30847	transgene
+#902	AnnotatorNotes T902	SO:0000902 (transgene)
+T903	GO_BP 30848 30858	expression
+#903	AnnotatorNotes T903	GO:0010467 (gene expression)
+T904	CHEBI 30961 30967	silver
+#904	AnnotatorNotes T904	CHEBI:30512 (silver)
+T905	NCBITaxon 31051 31058	animals
+#905	AnnotatorNotes T905	NCBITaxon:33208 (Metazoa)
+T906	PR 31112 31114	Aβ
+#906	AnnotatorNotes T906	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T907	NCBITaxon 31136 31140	mice
+#907	AnnotatorNotes T907	NCBITaxon:10088 (Mus)
+T908	SO 31158 31167	transgene
+#908	AnnotatorNotes T908	SO:0000902 (transgene)
+T909	GO_BP 31168 31179	suppression
+#909	AnnotatorNotes T909	GO:0048519 (negative regulation of biological process)
+T910	NCBITaxon 31236 31242	animal
+#910	AnnotatorNotes T910	NCBITaxon:33208 (Metazoa)
+T911	CHEBI 31279 31286	protein
+#911	AnnotatorNotes T911	CHEBI:36080 (proteins)
+T912	CHEBI 31329 31336	acetate
+#912	AnnotatorNotes T912	CHEBI:30089 (acetate)
+T913	GO_BP 31487 31493	visual
+#913	AnnotatorNotes T913	GO:0007601 (visual perception)
+T914	EntrezGene 31546 31549	APP
+#914	AnnotatorNotes T914	EG:11820
+T915	PR 31546 31549	APP
+#915	AnnotatorNotes T915	PR:000004168 (amyloid beta A4 protein)
+T916	NCBITaxon 31550 31554	mice
+#916	AnnotatorNotes T916	NCBITaxon:10088 (Mus)
+T917	PR 31620 31622	Aβ
+#917	AnnotatorNotes T917	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T918	NCBITaxon 31721 31725	mice
+#918	AnnotatorNotes T918	NCBITaxon:10088 (Mus)
+T919	PR 31762 31764	Aβ
+#919	AnnotatorNotes T919	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T920	EntrezGene 31834 31837	APP
+#920	AnnotatorNotes T920	EG:11820
+T921	PR 31834 31837	APP
+#921	AnnotatorNotes T921	PR:000004168 (amyloid beta A4 protein)
+T922	NCBITaxon 31838 31842	mice
+#922	AnnotatorNotes T922	NCBITaxon:10088 (Mus)
+T923	PR 31895 31897	Aβ
+#923	AnnotatorNotes T923	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T924	NCBITaxon 31920 31927	animals
+#924	AnnotatorNotes T924	NCBITaxon:33208 (Metazoa)
+T925	SO 31981 31990	transgene
+#925	AnnotatorNotes T925	SO:0000902 (transgene)
+T926	GO_BP 31991 32002	suppression
+#926	AnnotatorNotes T926	GO:0048519 (negative regulation of biological process)
+T927	PR 32062 32064	Aβ
+#927	AnnotatorNotes T927	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T928	SO 32156 32163	peptide
+#928	AnnotatorNotes T928	SO:0001407 (peptidyl)
+T929	PR 32186 32189	ind
+#929	AnnotatorNotes T929	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T930	GO_BP 32190 32200	expression
+#930	AnnotatorNotes T930	GO:0010467 (gene expression)
+T931	GO_BP 32205 32215	suppressed
+#931	AnnotatorNotes T931	GO:0048519 (negative regulation of biological process)
+T932	SO 32278 32285	peptide
+#932	AnnotatorNotes T932	SO:0001407 (peptidyl)
+T933	CHEBI 32297 32300	SDS
+#933	AnnotatorNotes T933	CHEBI:8984 (sodium dodecyl sulfate)
+T934	CHEBI 32307 32309	FA
+#934	AnnotatorNotes T934	CHEBI:30751 (formic acid)
+T935	GO_CC 32318 32327	fractions
+#935	AnnotatorNotes T935	GO:0000267 (cell fraction)
+T936	SO 32334 32343	transgene
+#936	AnnotatorNotes T936	SO:0000902 (transgene)
+T937	PR 32352 32356	Aβ40
+#937	AnnotatorNotes T937	PR:000025584 (beta-amyloid protein 40)
+T938	PR 32361 32365	Aβ42
+#938	AnnotatorNotes T938	PR:000025583 (beta-amyloid protein 42)
+T939	NCBITaxon 32383 32388	human
+#939	AnnotatorNotes T939	NCBITaxon:9606 (Homo sapiens)
+T940	NCBITaxon 32417 32424	animals
+#940	AnnotatorNotes T940	NCBITaxon:33208 (Metazoa)
+T941	PR 32488 32490	Aβ
+#941	AnnotatorNotes T941	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T942	CHEBI 32521 32524	SDS
+#942	AnnotatorNotes T942	CHEBI:8984 (sodium dodecyl sulfate)
+T943	CHEBI 32529 32531	FA
+#943	AnnotatorNotes T943	CHEBI:30751 (formic acid)
+T944	GO_CC 32532 32541	fractions
+#944	AnnotatorNotes T944	GO:0000267 (cell fraction)
+T945	CHEBI 32660 32663	SDS
+#945	AnnotatorNotes T945	CHEBI:8984 (sodium dodecyl sulfate)
+T946	CHEBI 32668 32670	FA
+#946	AnnotatorNotes T946	CHEBI:30751 (formic acid)
+T947	PR 32679 32681	Aβ
+#947	AnnotatorNotes T947	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T948	PR 32895 32899	Aβ40
+#948	AnnotatorNotes T948	PR:000025584 (beta-amyloid protein 40)
+T949	NCBITaxon 32922 32926	mice
+#949	AnnotatorNotes T949	NCBITaxon:10088 (Mus)
+T950	PR 32950 32954	Aβ42
+#950	AnnotatorNotes T950	PR:000025583 (beta-amyloid protein 42)
+T951	PR 33054 33058	Aβ40
+#951	AnnotatorNotes T951	PR:000025584 (beta-amyloid protein 40)
+T952	PR 33063 33067	Aβ42
+#952	AnnotatorNotes T952	PR:000025583 (beta-amyloid protein 42)
+T953	GO_BP 33210 33219	synthetic
+#953	AnnotatorNotes T953	GO:0009058 (biosynthetic process)
+T954	NCBITaxon 33267 33274	animals
+#954	AnnotatorNotes T954	NCBITaxon:33208 (Metazoa)
+T955	PR 33319 33321	Aβ
+#955	AnnotatorNotes T955	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T956	NCBITaxon 33331 33338	animals
+#956	AnnotatorNotes T956	NCBITaxon:33208 (Metazoa)
+T957	CL 33371 33376	glial
+#957	AnnotatorNotes T957	CL:0000125 (glial cell)
+T958	SO 33492 33501	transgene
+#958	AnnotatorNotes T958	SO:0000902 (transgene)
+T959	GO_BP 33502 33513	suppression
+#959	AnnotatorNotes T959	GO:0048519 (negative regulation of biological process)
+T960	CHEBI 33527 33533	silver
+#960	AnnotatorNotes T960	CHEBI:30512 (silver)
+T961	GO_BP 33642 33651	activated
+#961	AnnotatorNotes T961	GO:0001775 (cell activation)
+T962	CL 33652 33662	astrocytes
+#962	AnnotatorNotes T962	CL:0000127 (astrocyte)
+T963	EntrezGene 33681 33685	GFAP
+#963	AnnotatorNotes T963	EG:14580
+T964	PR 33681 33685	GFAP
+#964	AnnotatorNotes T964	PR:000007939 (glial fibrillary acidic protein)
+T965	NCBITaxon 33717 33724	animals
+#965	AnnotatorNotes T965	NCBITaxon:33208 (Metazoa)
+T966	CL 33750 33755	glial
+#966	AnnotatorNotes T966	CL:0000125 (glial cell)
+T967	NCBITaxon 33806 33810	mice
+#967	AnnotatorNotes T967	NCBITaxon:10088 (Mus)
+T968	SO 33825 33834	transgene
+#968	AnnotatorNotes T968	SO:0000902 (transgene)
+T969	GO_BP 33835 33846	suppression
+#969	AnnotatorNotes T969	GO:0048519 (negative regulation of biological process)
+T970	GO_BP 33861 33867	growth
+#970	AnnotatorNotes T970	GO:0040007 (growth)
+T971	NCBITaxon 33913 33917	mice
+#971	AnnotatorNotes T971	NCBITaxon:10088 (Mus)
+T972	PR 34079 34081	Aβ
+#972	AnnotatorNotes T972	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T973	GO_BP 34093 34102	cognitive
+#973	AnnotatorNotes T973	GO:0050890 (cognition)
+T974	NCBITaxon 34124 34128	mice
+#974	AnnotatorNotes T974	NCBITaxon:10088 (Mus)
+T975	GO_BP 34155 34164	cognition
+#975	AnnotatorNotes T975	GO:0050890 (cognition)
+T976	GO_BP 34238 34247	cognitive
+#976	AnnotatorNotes T976	GO:0050890 (cognition)
+T977	GO_BP 34248 34256	behavior
+#977	AnnotatorNotes T977	GO:0007610 (behavior)
+T978	SO 34318 34328	transgenic
+#978	AnnotatorNotes T978	SO:0000902 (transgene)
+T979	NCBITaxon 34329 34333	mice
+#979	AnnotatorNotes T979	NCBITaxon:10088 (Mus)
+T980	EntrezGene 34343 34346	APP
+#980	AnnotatorNotes T980	EG:11820
+T981	PR 34343 34346	APP
+#981	AnnotatorNotes T981	PR:000004168 (amyloid beta A4 protein)
+T982	NCBITaxon 34347 34354	animals
+#982	AnnotatorNotes T982	NCBITaxon:33208 (Metazoa)
+T983	NCBITaxon 34477 34481	mice
+#983	AnnotatorNotes T983	NCBITaxon:10088 (Mus)
+T984	CHEBI 34508 34513	water
+#984	AnnotatorNotes T984	CHEBI:15377 (water)
+T985	CHEBI 34534 34539	water
+#985	AnnotatorNotes T985	CHEBI:15377 (water)
+T986	NCBITaxon 34688 34695	animals
+#986	AnnotatorNotes T986	NCBITaxon:33208 (Metazoa)
+T987	NCBITaxon 34766 34770	mice
+#987	AnnotatorNotes T987	NCBITaxon:10088 (Mus)
+T988	NCBITaxon 34908 34915	animals
+#988	AnnotatorNotes T988	NCBITaxon:33208 (Metazoa)
+T989	NCBITaxon 34974 34978	mice
+#989	AnnotatorNotes T989	NCBITaxon:10088 (Mus)
+T990	GO_BP 34987 34995	produced
+#990	AnnotatorNotes T990	GO:0000003 (reproduction)
+T991	GO_BP 35030 35037	express
+#991	AnnotatorNotes T991	GO:0010467 (gene expression)
+T992	SO 35054 35064	transgenic
+#992	AnnotatorNotes T992	SO:0000902 (transgene)
+T993	CHEBI 35065 35072	protein
+#993	AnnotatorNotes T993	CHEBI:36080 (proteins)
+T994	GO_BP 35197 35206	cognitive
+#994	AnnotatorNotes T994	GO:0050890 (cognition)
+T995	EntrezGene 35306 35309	APP
+#995	AnnotatorNotes T995	EG:11820
+T996	PR 35306 35309	APP
+#996	AnnotatorNotes T996	PR:000004168 (amyloid beta A4 protein)
+T997	NCBITaxon 35310 35314	mice
+#997	AnnotatorNotes T997	NCBITaxon:10088 (Mus)
+T998	GO_BP 35364 35373	cognitive
+#998	AnnotatorNotes T998	GO:0050890 (cognition)
+T999	NCBITaxon 35390 35397	animals
+#999	AnnotatorNotes T999	NCBITaxon:33208 (Metazoa)
+T1000	GO_BP 35447 35456	cognitive
+#1000	AnnotatorNotes T1000	GO:0050890 (cognition)
+T1001	EntrezGene 35549 35552	APP
+#1001	AnnotatorNotes T1001	EG:11820
+T1002	PR 35549 35552	APP
+#1002	AnnotatorNotes T1002	PR:000004168 (amyloid beta A4 protein)
+T1003	NCBITaxon 35553 35557	mice
+#1003	AnnotatorNotes T1003	NCBITaxon:10088 (Mus)
+T1004	SO 35605 35615	transgenic
+#1004	AnnotatorNotes T1004	SO:0000902 (transgene)
+T1005	NCBITaxon 35616 35623	animals
+#1005	AnnotatorNotes T1005	NCBITaxon:33208 (Metazoa)
+T1006	SO 35648 35658	transgenic
+#1006	AnnotatorNotes T1006	SO:0000902 (transgene)
+T1007	GO_BP 35729 35739	ambulation
+#1007	AnnotatorNotes T1007	GO:0040011 (locomotion)
+T1008	SO 35798 35808	transgenic
+#1008	AnnotatorNotes T1008	SO:0000902 (transgene)
+T1009	NCBITaxon 35809 35813	mice
+#1009	AnnotatorNotes T1009	NCBITaxon:10088 (Mus)
+T1010	GO_BP 35977 35990	diurnal cycle
+#1010	AnnotatorNotes T1010	GO:0007623 (circadian rhythm)
+T1011	EntrezGene 36090 36093	APP
+#1011	AnnotatorNotes T1011	EG:11820
+T1012	PR 36090 36093	APP
+#1012	AnnotatorNotes T1012	PR:000004168 (amyloid beta A4 protein)
+T1013	NCBITaxon 36094 36098	mice
+#1013	AnnotatorNotes T1013	NCBITaxon:10088 (Mus)
+T1014	GO_BP 36157 36165	behavior
+#1014	AnnotatorNotes T1014	GO:0007610 (behavior)
+T1015	SO 36223 36232	transgene
+#1015	AnnotatorNotes T1015	SO:0000902 (transgene)
+T1016	GO_BP 36233 36244	suppression
+#1016	AnnotatorNotes T1016	GO:0048519 (negative regulation of biological process)
+T1017	EntrezGene 36357 36360	APP
+#1017	AnnotatorNotes T1017	EG:11820
+T1018	PR 36357 36360	APP
+#1018	AnnotatorNotes T1018	PR:000004168 (amyloid beta A4 protein)
+T1019	NCBITaxon 36361 36365	mice
+#1019	AnnotatorNotes T1019	NCBITaxon:10088 (Mus)
+T1020	NCBITaxon 36374 36381	Animals
+#1020	AnnotatorNotes T1020	NCBITaxon:33208 (Metazoa)
+T1021	GO_BP 36382 36386	born
+#1021	AnnotatorNotes T1021	GO:0007567 (parturition)
+T1022	NCBITaxon 36511 36518	animals
+#1022	AnnotatorNotes T1022	NCBITaxon:33208 (Metazoa)
+T1023	independent_continuant 36525 36535	transgenic
+#1023	AnnotatorNotes T1023	independent_continuant
+T1024	SO 36525 36535	transgenic
+#1024	AnnotatorNotes T1024	SO:0000902 (transgene)
+T1025	independent_continuant 36540 36549	wild-type
+#1025	AnnotatorNotes T1025	independent_continuant
+T1026	SO 36540 36549	wild-type
+#1026	AnnotatorNotes T1026	SO:0000817 (wild_type)
+T1027	GO_BP 36566 36583	circadian rhythms
+#1027	AnnotatorNotes T1027	GO:0007623 (circadian rhythm)
+T1028	NCBITaxon 36690 36695	mouse
+#1028	AnnotatorNotes T1028	NCBITaxon:10088 (Mus)
+T1029	PR 36766 36768	Aβ
+#1029	AnnotatorNotes T1029	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1030	GO_BP 36769 36779	production
+#1030	AnnotatorNotes T1030	GO:0009058 (biosynthetic process)
+T1031	SO 36831 36841	transgenic
+#1031	AnnotatorNotes T1031	SO:0000902 (transgene)
+T1032	NCBITaxon 36842 36846	mice
+#1032	AnnotatorNotes T1032	NCBITaxon:10088 (Mus)
+T1033	GO_BP 36852 36861	developed
+#1033	AnnotatorNotes T1033	GO:0000003 (reproduction)
+T1034	GO_BP 36882 36889	express
+#1034	AnnotatorNotes T1034	GO:0010467 (gene expression)
+T1035	PR 36912 36915	ind
+#1035	AnnotatorNotes T1035	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T1036	GO_BP 36926 36933	control
+#1036	AnnotatorNotes T1036	GO:0065007 (biological regulation)
+T1037	CHEBI 36939 36951	tetracycline
+#1037	AnnotatorNotes T1037	CHEBI:27902 (tetracycline)
+T1038	GO_BP 36952 36962	responsive
+#1038	AnnotatorNotes T1038	GO:0050896 (response to stimulus)
+T1039	SO 36963 36971	promoter
+#1039	AnnotatorNotes T1039	SO:0000167 (promoter)
+T1040	GO_BP 37012 37022	suppresses
+#1040	AnnotatorNotes T1040	GO:0048519 (negative regulation of biological process)
+T1041	PR 37058 37061	ind
+#1041	AnnotatorNotes T1041	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T1042	SO 37070 37080	C-terminal
+#1042	AnnotatorNotes T1042	SO:0100015 (c_terminal_region)
+T1043	CHEBI 37070 37071	C
+#1043	AnnotatorNotes T1043	CHEBI:46883 (carboxy group)
+T1044	CHEBI 37070 37071	C
+#1044	AnnotatorNotes T1044	CHEBI:18245 (carboxylato group)
+T1045	SO 37081 37090	fragments
+#1045	AnnotatorNotes T1045	SO:0000731 (fragmentary)
+T1046	SO 37112 37118	mutant
+#1046	AnnotatorNotes T1046	SO:0001059 (sequence_alteration)
+T1047	CHEBI 37119 37127	proteins
+#1047	AnnotatorNotes T1047	CHEBI:36080 (proteins)
+T1048	SO 37171 37181	Transgenic
+#1048	AnnotatorNotes T1048	SO:0000902 (transgene)
+T1049	GO_BP 37182 37192	expression
+#1049	AnnotatorNotes T1049	GO:0010467 (gene expression)
+T1050	PR 37203 37206	ind
+#1050	AnnotatorNotes T1050	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T1051	PR 37240 37244	Aβ42
+#1051	AnnotatorNotes T1051	PR:000025583 (beta-amyloid protein 42)
+T1052	NCBITaxon 37295 37299	mice
+#1052	AnnotatorNotes T1052	NCBITaxon:10088 (Mus)
+T1053	NCBITaxon 37451 37455	mice
+#1053	AnnotatorNotes T1053	NCBITaxon:10088 (Mus)
+T1054	SO 37491 37498	peptide
+#1054	AnnotatorNotes T1054	SO:0001407 (peptidyl)
+T1055	GO_BP 37513 37524	suppression
+#1055	AnnotatorNotes T1055	GO:0048519 (negative regulation of biological process)
+T1056	SO 37528 37538	transgenic
+#1056	AnnotatorNotes T1056	SO:0000902 (transgene)
+T1057	EntrezGene 37539 37542	APP
+#1057	AnnotatorNotes T1057	EG:11820
+T1058	PR 37539 37542	APP
+#1058	AnnotatorNotes T1058	PR:000004168 (amyloid beta A4 protein)
+T1059	NCBITaxon 37649 37656	animals
+#1059	AnnotatorNotes T1059	NCBITaxon:33208 (Metazoa)
+T1060	CHEBI 37794 37804	inhibitors
+#1060	AnnotatorNotes T1060	CHEBI:35222 (inhibitor)
+T1061	SO 37912 37921	transgene
+#1061	AnnotatorNotes T1061	SO:0000902 (transgene)
+T1062	GO_BP 37922 37933	suppression
+#1062	AnnotatorNotes T1062	GO:0048519 (negative regulation of biological process)
+T1063	GO_BP 37973 37977	form
+#1063	AnnotatorNotes T1063	GO:0032502 (developmental process)
+T1064	CHEBI 38051 38058	protein
+#1064	AnnotatorNotes T1064	CHEBI:36080 (proteins)
+T1065	SO 38078 38084	mutant
+#1065	AnnotatorNotes T1065	SO:0001059 (sequence_alteration)
+T1066	PR 38085 38095	huntingtin
+#1066	AnnotatorNotes T1066	PR:000008840 (huntingtin)
+T1067	GO_CC 38155 38168	extracellular
+#1067	AnnotatorNotes T1067	GO:0005576 (extracellular region)
+T1068	CHEBI 38207 38221	pharmaceutical
+#1068	AnnotatorNotes T1068	CHEBI:33294 (pharmaceutical)
+T1069	CHEBI 38234 38244	inhibitors
+#1069	AnnotatorNotes T1069	CHEBI:35222 (inhibitor)
+T1070	GO_BP 38280 38307	regulation of Aβ production
+#1070	AnnotatorNotes T1070	"regulation of .. production" GO:0009889 (regulation of biosynthetic process)
+T1071	PR 38294 38296	Aβ
+#1071	AnnotatorNotes T1071	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1072	GO_BP 38297 38307	production
+#1072	AnnotatorNotes T1072	GO:0009058 (biosynthetic process)
+T1073	CHEBI 38385 38394	compounds
+#1073	AnnotatorNotes T1073	CHEBI:23367 (molecular entity)
+T1074	SO 38434 38444	transgenic
+#1074	AnnotatorNotes T1074	SO:0000902 (transgene)
+T1075	NCBITaxon 38445 38449	mice
+#1075	AnnotatorNotes T1075	NCBITaxon:10088 (Mus)
+T1076	GO_BP 38472 38483	suppression
+#1076	AnnotatorNotes T1076	GO:0048519 (negative regulation of biological process)
+T1077	PR 38487 38491	Aβ40
+#1077	AnnotatorNotes T1077	PR:000025584 (beta-amyloid protein 40)
+T1078	GO_BP 38530 38541	suppression
+#1078	AnnotatorNotes T1078	GO:0048519 (negative regulation of biological process)
+T1079	PR 38545 38549	Aβ42
+#1079	AnnotatorNotes T1079	PR:000025583 (beta-amyloid protein 42)
+T1080	EntrezGene 38627 38630	APP
+#1080	AnnotatorNotes T1080	EG:11820
+T1081	PR 38627 38630	APP
+#1081	AnnotatorNotes T1081	PR:000004168 (amyloid beta A4 protein)
+T1082	GO_BP 38631 38641	expression
+#1082	AnnotatorNotes T1082	GO:0010467 (gene expression)
+T1083	NCBITaxon 38656 38660	mice
+#1083	AnnotatorNotes T1083	NCBITaxon:10088 (Mus)
+T1084	GO_BP 38732 38760	suppression of Aβ production
+#1084	AnnotatorNotes T1084	"suppression of .. production" GO:0009890 (negative regulation of biosynthetic process)
+T1085	PR 38747 38749	Aβ
+#1085	AnnotatorNotes T1085	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1086	GO_BP 38750 38760	production
+#1086	AnnotatorNotes T1086	GO:0009058 (biosynthetic process)
+T1087	CHEBI 38839 38849	inhibitors
+#1087	AnnotatorNotes T1087	CHEBI:35222 (inhibitor)
+T1088	CHEBI 38887 38908	pharmaceutical agents
+#1088	AnnotatorNotes T1088	CHEBI:33294 (pharmaceutical)
+T1089	GO_BP 38946 38970	control of Aβ production
+#1089	AnnotatorNotes T1089	"control of .. production" GO:0009889 (regulation of biosynthetic process)
+T1090	PR 38957 38959	Aβ
+#1090	AnnotatorNotes T1090	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1091	GO_BP 38960 38970	production
+#1091	AnnotatorNotes T1091	GO:0009058 (biosynthetic process)
+T1092	PR 39060 39062	Aβ
+#1092	AnnotatorNotes T1092	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1093	CHEBI 39072 39081	compounds
+#1093	AnnotatorNotes T1093	CHEBI:23367 (molecular entity)
+T1094	SO 39249 39258	transgene
+#1094	AnnotatorNotes T1094	SO:0000902 (transgene)
+T1095	GO_BP 39259 39270	suppression
+#1095	AnnotatorNotes T1095	GO:0048519 (negative regulation of biological process)
+T1096	NCBITaxon 39302 39309	animals
+#1096	AnnotatorNotes T1096	NCBITaxon:33208 (Metazoa)
+T1097	NCBITaxon 39527 39534	animals
+#1097	AnnotatorNotes T1097	NCBITaxon:33208 (Metazoa)
+T1098	PR 39599 39601	Aβ
+#1098	AnnotatorNotes T1098	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1099	SO 39698 39705	peptide
+#1099	AnnotatorNotes T1099	SO:0001407 (peptidyl)
+T1100	PR 39797 39799	Aβ
+#1100	AnnotatorNotes T1100	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1101	GO_BP 39800 39810	production
+#1101	AnnotatorNotes T1101	GO:0009058 (biosynthetic process)
+T1102	NCBITaxon 40004 40010	humans
+#1102	AnnotatorNotes T1102	NCBITaxon:9606 (Homo sapiens)
+T1103	NCBITaxon 40092 40098	rodent
+#1103	AnnotatorNotes T1103	NCBITaxon:9989 (Rodentia)
+T1104	GO_BP 40300 40310	production
+#1104	AnnotatorNotes T1104	GO:0009058 (biosynthetic process)
+T1105	PR 40314 40316	Aβ
+#1105	AnnotatorNotes T1105	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1106	EntrezGene 40372 40375	APP
+#1106	AnnotatorNotes T1106	EG:351
+T1107	PR 40372 40375	APP
+#1107	AnnotatorNotes T1107	PR:000004168 (amyloid beta A4 protein)
+T1108	GO_BP 40376 40386	expression
+#1108	AnnotatorNotes T1108	GO:0010467 (gene expression)
+T1109	NCBITaxon 40591 40595	mice
+#1109	AnnotatorNotes T1109	NCBITaxon:10088 (Mus)
+T1110	PR 40608 40611	APP
+#1110	AnnotatorNotes T1110	PR:000004168 (amyloid beta A4 protein)
+T1111	SO 40612 40623	transgenics
+#1111	AnnotatorNotes T1111	SO:0000902 (transgene)
+T1112	independent_continuant 40612 40623	transgenics
+#1112	AnnotatorNotes T1112	independent_continuant
+T1113	PR 40638 40645	Swedish
+#1113	AnnotatorNotes T1113	PR:000025601 (amyloid beta A4 protein sequence variant APPKM670/671NL (human))
+T1114	SO 40646 40654	mutation
+#1114	AnnotatorNotes T1114	SO:0001059 (sequence_alteration)
+T1115	NCBITaxon 40798 40803	human
+#1115	AnnotatorNotes T1115	NCBITaxon:9606 (Homo sapiens)
+T1116	GO_BP 40870 40876	formed
+#1116	AnnotatorNotes T1116	GO:0032502 (developmental process)
+T1117	NCBITaxon 40886 40890	mice
+#1117	AnnotatorNotes T1117	NCBITaxon:10088 (Mus)
+T1118	SO 41041 41050	transgene
+#1118	AnnotatorNotes T1118	SO:0000902 (transgene)
+T1119	GO_BP 41051 41061	expression
+#1119	AnnotatorNotes T1119	GO:0010467 (gene expression)
+T1120	NCBITaxon 41115 41120	mouse
+#1120	AnnotatorNotes T1120	NCBITaxon:10088 (Mus)
+T1121	PR 41121 41123	Aβ
+#1121	AnnotatorNotes T1121	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1122	GO_BP 41140 41148	produced
+#1122	AnnotatorNotes T1122	GO:0009058 (biosynthetic process)
+T1123	NCBITaxon 41208 41213	mouse
+#1123	AnnotatorNotes T1123	NCBITaxon:10088 (Mus)
+T1124	PR 41214 41216	Aβ
+#1124	AnnotatorNotes T1124	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1125	NCBITaxon 41235 41240	human
+#1125	AnnotatorNotes T1125	NCBITaxon:9606 (Homo sapiens)
+T1126	SO 41241 41248	peptide
+#1126	AnnotatorNotes T1126	SO:0001407 (peptidyl)
+T1127	SO 41324 41331	peptide
+#1127	AnnotatorNotes T1127	SO:0001407 (peptidyl)
+T1128	GO_BP 41373 41382	formation
+#1128	AnnotatorNotes T1128	GO:0032502 (developmental process)
+T1129	PR 41387 41394	CaMKIIα
+#1129	AnnotatorNotes T1129	PR:000003199 (calcium/calmodulin-dependent protein kinase type II alpha chain)
+T1130	PR 41411 41414	ind
+#1130	AnnotatorNotes T1130	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T1131	NCBITaxon 41415 41419	mice
+#1131	AnnotatorNotes T1131	NCBITaxon:10088 (Mus)
+T1132	GO_BP 41458 41465	develop
+#1132	AnnotatorNotes T1132	GO:0032502 (developmental process)
+T1133	SO 41530 41537	genetic
+#1133	AnnotatorNotes T1133	SO:0000704 (gene)
+T1134	GO_BP 41565 41575	production
+#1134	AnnotatorNotes T1134	GO:0009058 (biosynthetic process)
+T1135	PR 41579 41581	Aβ
+#1135	AnnotatorNotes T1135	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1136	NCBITaxon 41605 41611	humans
+#1136	AnnotatorNotes T1136	NCBITaxon:9606 (Homo sapiens)
+T1137	GO_BP 41759 41775	APP/Aβ synthetic
+#1137	AnnotatorNotes T1137	"APP .. synthetic" GO:0042983 (amyloid precursor protein biosynthetic process)
+T1138	EntrezGene 41759 41762	APP
+#1138	AnnotatorNotes T1138	EG:11820
+T1139	PR 41759 41762	APP
+#1139	AnnotatorNotes T1139	PR:000004168 (amyloid beta A4 protein)
+T1140	PR 41763 41765	Aβ
+#1140	AnnotatorNotes T1140	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1141	PR 41885 41887	Aβ
+#1141	AnnotatorNotes T1141	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1142	NCBITaxon 41998 42003	human
+#1142	AnnotatorNotes T1142	NCBITaxon:9606 (Homo sapiens)
+T1143	GO_BP 42057 42063	formed
+#1143	AnnotatorNotes T1143	GO:0032502 (developmental process)
+T1144	NCBITaxon 42067 42072	mouse
+#1144	AnnotatorNotes T1144	NCBITaxon:10088 (Mus)
+T1145	NCBITaxon 42093 42098	human
+#1145	AnnotatorNotes T1145	NCBITaxon:9606 (Homo sapiens)
+T1146	NCBITaxon 42151 42155	mice
+#1146	AnnotatorNotes T1146	NCBITaxon:10088 (Mus)
+T1147	NCBITaxon 42301 42306	human
+#1147	AnnotatorNotes T1147	NCBITaxon:9606 (Homo sapiens)
+T1148	NCBITaxon 42327 42332	mouse
+#1148	AnnotatorNotes T1148	NCBITaxon:10088 (Mus)
+T1149	CL 42351 42361	microglial
+#1149	AnnotatorNotes T1149	CL:0000129 (microglial cell)
+T1150	GO_BP 42362 42374	phagocytosis
+#1150	AnnotatorNotes T1150	GO:0006909 (phagocytosis)
+T1151	CL 42385 42394	microglia
+#1151	AnnotatorNotes T1151	CL:0000129 (microglial cell)
+T1152	SO 42398 42408	transgenic
+#1152	AnnotatorNotes T1152	SO:0000902 (transgene)
+T1153	NCBITaxon 42409 42414	mouse
+#1153	AnnotatorNotes T1153	NCBITaxon:10088 (Mus)
+T1154	GO_BP 42422 42430	localize
+#1154	AnnotatorNotes T1154	GO:0051179 (localization)
+T1155	GO_BP 42497 42507	engulfment
+#1155	AnnotatorNotes T1155	GO:0006911 (phagocytosis, engulfment)
+T1156	CL 42530 42539	microglia
+#1156	AnnotatorNotes T1156	CL:0000129 (microglial cell)
+T1157	NCBITaxon 42571 42576	human
+#1157	AnnotatorNotes T1157	NCBITaxon:9606 (Homo sapiens)
+T1158	GO_BP 42611 42621	activation
+#1158	AnnotatorNotes T1158	GO:0001775 (cell activation)
+T1159	GO_BP 42635 42645	expression
+#1159	AnnotatorNotes T1159	GO:0010467 (gene expression)
+T1160	GO_MF 42649 42668	complement receptor
+#1160	AnnotatorNotes T1160	GO:0004875 (complement receptor activity)
+T1161	independent_continuant 42649 42668	complement receptor
+#1161	AnnotatorNotes T1161	independent_continuant
+T1162	CL 42693 42702	microglia
+#1162	AnnotatorNotes T1162	CL:0000129 (microglial cell)
+T1163	GO_BP 42706 42724	amyloid metabolism
+#1163	AnnotatorNotes T1163	GO:0050435 (beta-amyloid metabolic process)
+T1164	SO 42737 42747	transgenic
+#1164	AnnotatorNotes T1164	SO:0000902 (transgene)
+T1165	NCBITaxon 42771 42776	human
+#1165	AnnotatorNotes T1165	NCBITaxon:9606 (Homo sapiens)
+T1166	GO_BP 42868 42885	anti-inflammatory
+#1166	AnnotatorNotes T1166	GO:0050728 (negative regulation of inflammatory response)
+T1167	GO_BP 42873 42885	inflammatory
+#1167	AnnotatorNotes T1167	GO:0006954 (inflammatory response)
+T1168	GO_BP 42902 42923	microglial activation
+#1168	AnnotatorNotes T1168	GO:0001774 (microglial cell activation)
+T1169	CL 42902 42912	microglial
+#1169	AnnotatorNotes T1169	CL:0000129 (microglial cell)
+T1170	PR 42956 42959	APP
+#1170	AnnotatorNotes T1170	PR:000004168 (amyloid beta A4 protein)
+T1171	SO 42960 42970	transgenic
+#1171	AnnotatorNotes T1171	SO:0000902 (transgene)
+T1172	NCBITaxon 42971 42975	mice
+#1172	AnnotatorNotes T1172	NCBITaxon:10088 (Mus)
+T1173	NCBITaxon 42999 43004	mouse
+#1173	AnnotatorNotes T1173	NCBITaxon:10088 (Mus)
+T1174	CL 43005 43014	microglia
+#1174	AnnotatorNotes T1174	CL:0000129 (microglial cell)
+T1175	GO_BP 43022 43031	formation
+#1175	AnnotatorNotes T1175	GO:0032502 (developmental process)
+T1176	CHEBI 43158 43181	anti-inflammatory drugs
+#1176	AnnotatorNotes T1176	CHEBI:35472 (anti-inflammatory drug)
+T1177	GO_BP 43158 43175	anti-inflammatory
+#1177	AnnotatorNotes T1177	GO:0050728 (negative regulation of inflammatory response)
+T1178	GO_BP 43163 43175	inflammatory
+#1178	AnnotatorNotes T1178	GO:0006954 (inflammatory response)
+T1179	GO_BP 43197 43205	cleavage
+#1179	AnnotatorNotes T1179	GO:0030908 (protein splicing)
+T1180	CL 43240 43249	microglia
+#1180	AnnotatorNotes T1180	CL:0000129 (microglial cell)
+T1181	NCBITaxon 43262 43267	human
+#1181	AnnotatorNotes T1181	NCBITaxon:9606 (Homo sapiens)
+T1182	NCBITaxon 43286 43291	mouse
+#1182	AnnotatorNotes T1182	NCBITaxon:10088 (Mus)
+T1183	CL 43340 43350	microglial
+#1183	AnnotatorNotes T1183	CL:0000129 (microglial cell)
+T1184	EntrezGene 43496 43499	APP
+#1184	AnnotatorNotes T1184	EG:11820
+T1185	PR 43496 43499	APP
+#1185	AnnotatorNotes T1185	PR:000004168 (amyloid beta A4 protein)
+T1186	NCBITaxon 43500 43504	mice
+#1186	AnnotatorNotes T1186	NCBITaxon:10088 (Mus)
+T1187	CL 43549 43558	microglia
+#1187	AnnotatorNotes T1187	CL:0000129 (microglial cell)
+T1188	NCBITaxon 43568 43573	mouse
+#1188	AnnotatorNotes T1188	NCBITaxon:10088 (Mus)
+T1189	CL 43629 43634	cells
+#1189	AnnotatorNotes T1189	CL:0000000 (cell)
+T1190	GO_CC 43629 43634	cells
+#1190	AnnotatorNotes T1190	GO:0005623 (cell)
+T1191	EntrezGene 43696 43699	APP
+#1191	AnnotatorNotes T1191	EG:11820
+T1192	PR 43696 43699	APP
+#1192	AnnotatorNotes T1192	PR:000004168 (amyloid beta A4 protein)
+T1193	NCBITaxon 43700 43704	mice
+#1193	AnnotatorNotes T1193	NCBITaxon:10088 (Mus)
+T1194	GO_BP 43793 43803	activation
+#1194	AnnotatorNotes T1194	GO:0001775 (cell activation)
+T1195	CL 43813 43822	microglia
+#1195	AnnotatorNotes T1195	CL:0000129 (microglial cell)
+T1196	NCBITaxon 43838 43842	mice
+#1196	AnnotatorNotes T1196	NCBITaxon:10088 (Mus)
+T1197	CHEBI 43899 43921	anti-inflammatory drug
+#1197	AnnotatorNotes T1197	CHEBI:35472 (anti-inflammatory drug)
+T1198	GO_BP 43899 43916	anti-inflammatory
+#1198	AnnotatorNotes T1198	GO:0050728 (negative regulation of inflammatory response)
+T1199	GO_BP 43904 43916	inflammatory
+#1199	AnnotatorNotes T1199	GO:0006954 (inflammatory response)
+T1200	CHEBI 43926 43935	inhibitor
+#1200	AnnotatorNotes T1200	CHEBI:35222 (inhibitor)
+T1201	GO_BP 43939 43960	microglial activation
+#1201	AnnotatorNotes T1201	GO:0001774 (microglial cell activation)
+T1202	CL 43939 43949	microglial
+#1202	AnnotatorNotes T1202	CL:0000129 (microglial cell)
+T1203	GO_BP 43993 44010	anti-inflammatory
+#1203	AnnotatorNotes T1203	GO:0050728 (negative regulation of inflammatory response)
+T1204	GO_BP 43998 44010	inflammatory
+#1204	AnnotatorNotes T1204	GO:0006954 (inflammatory response)
+T1205	CHEBI 44064 44083	anti-inflammatories
+#1205	AnnotatorNotes T1205	CHEBI:35472 (anti-inflammatory drug)
+T1206	NCBITaxon 44148 44155	animals
+#1206	AnnotatorNotes T1206	NCBITaxon:33208 (Metazoa)
+T1207	CL 44313 44323	microglial
+#1207	AnnotatorNotes T1207	CL:0000129 (microglial cell)
+T1208	GO_BP 44324 44333	responses
+#1208	AnnotatorNotes T1208	GO:0050896 (response to stimulus)
+T1209	NCBITaxon 44359 44364	mouse
+#1209	AnnotatorNotes T1209	NCBITaxon:10088 (Mus)
+T1210	CL 44426 44436	microglial
+#1210	AnnotatorNotes T1210	CL:0000129 (microglial cell)
+T1211	PR 44589 44591	Aβ
+#1211	AnnotatorNotes T1211	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1212	NCBITaxon 44624 44629	mouse
+#1212	AnnotatorNotes T1212	NCBITaxon:10088 (Mus)
+T1213	PR 44671 44673	Aβ
+#1213	AnnotatorNotes T1213	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1214	GO_CC 44674 44684	antibodies
+#1214	AnnotatorNotes T1214	GO:0019814 (immunoglobulin complex)
+T1215	GO_CC 44821 44829	antibody
+#1215	AnnotatorNotes T1215	GO:0019814 (immunoglobulin complex)
+T1216	NCBITaxon 45081 45091	lentiviral
+#1216	AnnotatorNotes T1216	NCBITaxon:11646 (Lentivirus)
+T1217	GO_MF 45104 45114	neprilysin
+#1217	AnnotatorNotes T1217	GO:0004245 (neprilysin activity)
+T1218	independent_continuant 45104 45114	neprilysin
+#1218	AnnotatorNotes T1218	independent_continuant
+T1219	PR 45104 45114	neprilysin
+#1219	AnnotatorNotes T1219	PR:000001898 (neprilysin)
+T1220	GO_CC 45249 45257	antibody
+#1220	AnnotatorNotes T1220	GO:0019814 (immunoglobulin complex)
+T1221	GO_BP 45296 45305	activated
+#1221	AnnotatorNotes T1221	GO:0001775 (cell activation)
+T1222	CL 45306 45315	microglia
+#1222	AnnotatorNotes T1222	CL:0000129 (microglial cell)
+T1223	SO 45438 45446	deletion
+#1223	AnnotatorNotes T1223	SO:0000045 (delete)
+T1224	GO_MF 45454 45465	Fc receptor
+#1224	AnnotatorNotes T1224	GO:0019763 (immunoglobulin receptor activity)
+T1225	independent_continuant 45454 45465	Fc receptor
+#1225	AnnotatorNotes T1225	independent_continuant
+T1226	GO_MF 45479 45487	receptor
+#1226	AnnotatorNotes T1226	GO:0004872 (receptor activity)
+T1227	independent_continuant 45479 45487	receptor
+#1227	AnnotatorNotes T1227	independent_continuant
+T1228	CL 45492 45502	microglial
+#1228	AnnotatorNotes T1228	CL:0000129 (microglial cell)
+T1229	GO_CC 45519 45527	antibody
+#1229	AnnotatorNotes T1229	GO:0019814 (immunoglobulin complex)
+T1230	GO_CC 45536 45545	complexes
+#1230	AnnotatorNotes T1230	GO:0032991 (macromolecular complex)
+T1231	PR 45550 45553	APP
+#1231	AnnotatorNotes T1231	PR:000004168 (amyloid beta A4 protein)
+T1232	SO 45554 45564	transgenic
+#1232	AnnotatorNotes T1232	SO:0000902 (transgene)
+T1233	NCBITaxon 45565 45570	mouse
+#1233	AnnotatorNotes T1233	NCBITaxon:10088 (Mus)
+T1234	GO_CC 45616 45624	antibody
+#1234	AnnotatorNotes T1234	GO:0019814 (immunoglobulin complex)
+T1235	GO_BP 45694 45714	microglia activation
+#1235	AnnotatorNotes T1235	GO:0001774 (microglial cell activation)
+T1236	CL 45694 45703	microglia
+#1236	AnnotatorNotes T1236	CL:0000129 (microglial cell)
+T1237	GO_CC 45893 45901	antibody
+#1237	AnnotatorNotes T1237	GO:0019814 (immunoglobulin complex)
+T1238	NCBITaxon 45905 45910	viral
+#1238	AnnotatorNotes T1238	NCBITaxon:10239 (Viruses)
+T1239	GO_BP 45941 45964	activation of microglia
+#1239	AnnotatorNotes T1239	GO:0001774 (microglial cell activation)
+T1240	CL 45955 45964	microglia
+#1240	AnnotatorNotes T1240	CL:0000129 (microglial cell)
+T1241	GO_BP 46043 46055	phagocytosis
+#1241	AnnotatorNotes T1241	GO:0006909 (phagocytosis)
+T1242	PR 46083 46085	Aβ
+#1242	AnnotatorNotes T1242	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1243	GO_MF 46110 46120	neprilysin
+#1243	AnnotatorNotes T1243	GO:0004245 (neprilysin activity)
+T1244	PR 46110 46120	neprilysin
+#1244	AnnotatorNotes T1244	PR:000001898 (neprilysin)
+T1245	independent_continuant 46110 46120	neprilysin
+#1245	AnnotatorNotes T1245	independent_continuant
+T1246	PR 46124 46126	Aβ
+#1246	AnnotatorNotes T1246	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1247	GO_CC 46136 46146	antibodies
+#1247	AnnotatorNotes T1247	GO:0019814 (immunoglobulin complex)
+T1248	SO 46185 46192	peptide
+#1248	AnnotatorNotes T1248	SO:0001407 (peptidyl)
+T1249	GO_BP 46243 46266	activation of microglia
+#1249	AnnotatorNotes T1249	GO:0001774 (microglial cell activation)
+T1250	CL 46257 46266	microglia
+#1250	AnnotatorNotes T1250	CL:0000129 (microglial cell)
+T1251	SO 46275 46285	transgenic
+#1251	AnnotatorNotes T1251	SO:0000902 (transgene)
+T1252	GO_BP 46286 46296	expression
+#1252	AnnotatorNotes T1252	GO:0010467 (gene expression)
+T1253	PR 46300 46304	TGFβ
+#1253	AnnotatorNotes T1253	PR:000000046 (TGF-beta)
+T1254	CHEBI 46334 46352	lipopolysaccharide
+#1254	AnnotatorNotes T1254	CHEBI:16412 (lipopolysaccharide)
+T1255	PR 46413 46416	APP
+#1255	AnnotatorNotes T1255	PR:000004168 (amyloid beta A4 protein)
+T1256	SO 46417 46427	transgenic
+#1256	AnnotatorNotes T1256	SO:0000902 (transgene)
+T1257	NCBITaxon 46428 46432	mice
+#1257	AnnotatorNotes T1257	NCBITaxon:10088 (Mus)
+T1258	GO_CC 46459 46467	antibody
+#1258	AnnotatorNotes T1258	GO:0019814 (immunoglobulin complex)
+T1259	GO_BP 46492 46502	activation
+#1259	AnnotatorNotes T1259	GO:0001775 (cell activation)
+T1260	GO_BP 46513 46525	inflammation
+#1260	AnnotatorNotes T1260	GO:0006954 (inflammatory response)
+T1261	GO_CC 46546 46554	antibody
+#1261	AnnotatorNotes T1261	GO:0019814 (immunoglobulin complex)
+T1262	GO_MF 46559 46564	bound
+#1262	AnnotatorNotes T1262	GO:0005488 (binding)
+T1263	SO 46565 46572	peptide
+#1263	AnnotatorNotes T1263	SO:0001407 (peptidyl)
+T1264	GO_BP 46595 46603	degraded
+#1264	AnnotatorNotes T1264	GO:0009056 (catabolic process)
+T1265	PR 46619 46621	Aβ
+#1265	AnnotatorNotes T1265	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1266	GO_BP 46746 46757	stimulation
+#1266	AnnotatorNotes T1266	GO:0001775 (cell activation)
+T1267	CL 46759 46768	microglia
+#1267	AnnotatorNotes T1267	CL:0000129 (microglial cell)
+T1268	NCBITaxon 46772 46777	mouse
+#1268	AnnotatorNotes T1268	NCBITaxon:10088 (Mus)
+T1269	GO_BP 46829 46839	activation
+#1269	AnnotatorNotes T1269	GO:0001775 (cell activation)
+T1270	NCBITaxon 46858 46864	humans
+#1270	AnnotatorNotes T1270	NCBITaxon:9606 (Homo sapiens)
+T1271	NCBITaxon 46914 46918	mice
+#1271	AnnotatorNotes T1271	NCBITaxon:10088 (Mus)
+T1272	GO_BP 46924 46931	express
+#1272	AnnotatorNotes T1272	GO:0010467 (gene expression)
+T1273	EntrezGene 46938 46947	human tau
+#1273	AnnotatorNotes T1273	EG:4137
+T1274	NCBITaxon 46938 46943	human
+#1274	AnnotatorNotes T1274	NCBITaxon:9606 (Homo sapiens)
+T1275	PR 46944 46947	tau
+#1275	AnnotatorNotes T1275	PR:000010173 (microtubule-associated protein tau)
+T1276	SO 46962 46968	vector
+#1276	AnnotatorNotes T1276	SO:0000440 (vector_replicon)
+T1277	NCBITaxon 46962 46968	vector
+#1277	AnnotatorNotes T1277	NCBITaxon:29278 (vectors)
+T1278	EntrezGene 47000 47003	APP
+#1278	AnnotatorNotes T1278	EG:11820
+T1279	PR 47000 47003	APP
+#1279	AnnotatorNotes T1279	PR:000004168 (amyloid beta A4 protein)
+T1280	NCBITaxon 47004 47008	mice
+#1280	AnnotatorNotes T1280	NCBITaxon:10088 (Mus)
+T1281	EntrezGene 47038 47041	tau
+#1281	AnnotatorNotes T1281	EG:4137
+T1282	PR 47038 47041	tau
+#1282	AnnotatorNotes T1282	PR:000010173 (microtubule-associated protein tau)
+T1283	SO 47127 47136	transgene
+#1283	AnnotatorNotes T1283	SO:0000902 (transgene)
+T1284	GO_BP 47137 47148	suppression
+#1284	AnnotatorNotes T1284	GO:0048519 (negative regulation of biological process)
+T1285	CHEBI 47253 47260	protein
+#1285	AnnotatorNotes T1285	CHEBI:36080 (proteins)
+T1286	NCBITaxon 47297 47302	mouse
+#1286	AnnotatorNotes T1286	NCBITaxon:10088 (Mus)
+T1287	SO 47436 47445	transgene
+#1287	AnnotatorNotes T1287	SO:0000902 (transgene)
+T1288	GO_BP 47446 47457	suppression
+#1288	AnnotatorNotes T1288	GO:0048519 (negative regulation of biological process)
+T1289	CHEBI 47495 47502	protein
+#1289	AnnotatorNotes T1289	CHEBI:36080 (proteins)
+T1290	CHEBI 47580 47587	protein
+#1290	AnnotatorNotes T1290	CHEBI:36080 (proteins)
+T1291	PR 47695 47697	Aβ
+#1291	AnnotatorNotes T1291	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1292	EntrezGene 47702 47705	tau
+#1292	AnnotatorNotes T1292	EG:4137
+T1293	PR 47702 47705	tau
+#1293	AnnotatorNotes T1293	PR:000010173 (microtubule-associated protein tau)
+T1294	CHEBI 47751 47758	protein
+#1294	AnnotatorNotes T1294	CHEBI:36080 (proteins)
+T1295	GO_CC 47802 47815	extracellular
+#1295	AnnotatorNotes T1295	GO:0005576 (extracellular region)
+T1296	GO_BP 47916 47925	synthesis
+#1296	AnnotatorNotes T1296	GO:0009058 (biosynthetic process)
+T1297	PR 47933 47935	Aβ
+#1297	AnnotatorNotes T1297	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1298	GO_BP 47961 47970	cognitive
+#1298	AnnotatorNotes T1298	GO:0050890 (cognition)
+T1299	EntrezGene 48005 48008	tau
+#1299	AnnotatorNotes T1299	EG:4137
+T1300	PR 48005 48008	tau
+#1300	AnnotatorNotes T1300	PR:000010173 (microtubule-associated protein tau)
+T1301	NCBITaxon 48009 48013	mice
+#1301	AnnotatorNotes T1301	NCBITaxon:10088 (Mus)
+T1302	CHEBI 48027 48034	protein
+#1302	AnnotatorNotes T1302	CHEBI:36080 (proteins)
+T1303	GO_BP 48077 48086	cognitive
+#1303	AnnotatorNotes T1303	GO:0050890 (cognition)
+T1304	SO 48109 48118	transgene
+#1304	AnnotatorNotes T1304	SO:0000902 (transgene)
+T1305	GO_BP 48119 48130	suppression
+#1305	AnnotatorNotes T1305	GO:0048519 (negative regulation of biological process)
+T1306	GO_BP 48184 48194	behavioral
+#1306	AnnotatorNotes T1306	GO:0007610 (behavior)
+T1307	EntrezGene 48246 48249	APP
+#1307	AnnotatorNotes T1307	EG:11820
+T1308	PR 48246 48249	APP
+#1308	AnnotatorNotes T1308	PR:000004168 (amyloid beta A4 protein)
+T1309	NCBITaxon 48250 48254	mice
+#1309	AnnotatorNotes T1309	NCBITaxon:10088 (Mus)
+T1310	EntrezGene 48351 48354	APP
+#1310	AnnotatorNotes T1310	EG:11820
+T1311	PR 48351 48354	APP
+#1311	AnnotatorNotes T1311	PR:000004168 (amyloid beta A4 protein)
+T1312	NCBITaxon 48355 48359	mice
+#1312	AnnotatorNotes T1312	NCBITaxon:10088 (Mus)
+T1313	SO 48504 48514	transgenic
+#1313	AnnotatorNotes T1313	SO:0000902 (transgene)
+T1314	NCBITaxon 48515 48519	mice
+#1314	AnnotatorNotes T1314	NCBITaxon:10088 (Mus)
+T1315	CHEBI 48617 48622	water
+#1315	AnnotatorNotes T1315	CHEBI:15377 (water)
+T1316	GO_BP 48682 48690	learning
+#1316	AnnotatorNotes T1316	GO:0007612 (learning)
+T1317	GO_BP 48695 48701	memory
+#1317	AnnotatorNotes T1317	GO:0007613 (memory)
+T1318	GO_BP 48783 48791	movement
+#1318	AnnotatorNotes T1318	GO:0050879 (multicellular organismal movement)
+T1319	GO_BP 48820 48829	cognitive
+#1319	AnnotatorNotes T1319	GO:0050890 (cognition)
+T1320	GO_BP 48830 48840	behavioral
+#1320	AnnotatorNotes T1320	GO:0007610 (behavior)
+T1321	GO_BP 48928 48938	expression
+#1321	AnnotatorNotes T1321	GO:0010467 (gene expression)
+T1322	PR 48953 48956	ind
+#1322	AnnotatorNotes T1322	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T1323	GO_BP 48976 48987	proteolytic
+#1323	AnnotatorNotes T1323	GO:0006508 (proteolysis)
+T1324	NCBITaxon 49088 49092	mice
+#1324	AnnotatorNotes T1324	NCBITaxon:10088 (Mus)
+T1325	SO 49243 49253	transgenic
+#1325	AnnotatorNotes T1325	SO:0000902 (transgene)
+T1326	GO_BP 49254 49267	APP synthesis
+#1326	AnnotatorNotes T1326	GO:0042983 (amyloid precursor protein biosynthetic process)
+T1327	EntrezGene 49254 49257	APP
+#1327	AnnotatorNotes T1327	EG:11820
+T1328	PR 49254 49257	APP
+#1328	AnnotatorNotes T1328	PR:000004168 (amyloid beta A4 protein)
+T1329	GO_BP 49314 49321	develop
+#1329	AnnotatorNotes T1329	GO:0009058 (biosynthetic process)
+T1330	CL 49369 49377	neuronal
+#1330	AnnotatorNotes T1330	CL:0000540 (neuron)
+T1331	SO 49397 49406	transgene
+#1331	AnnotatorNotes T1331	SO:0000902 (transgene)
+T1332	GO_BP 49407 49417	expression
+#1332	AnnotatorNotes T1332	GO:0010467 (gene expression)
+T1333	GO_BP 49441 49452	development
+#1333	AnnotatorNotes T1333	GO:0032502 (developmental process)
+T1334	PR 49573 49575	Aβ
+#1334	AnnotatorNotes T1334	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1335	GO_BP 49576 49586	production
+#1335	AnnotatorNotes T1335	GO:0009058 (biosynthetic process)
+T1336	SO 49636 49646	transgenic
+#1336	AnnotatorNotes T1336	SO:0000902 (transgene)
+T1337	NCBITaxon 49647 49652	mouse
+#1337	AnnotatorNotes T1337	NCBITaxon:10088 (Mus)
+T1338	PR 49730 49732	Aβ
+#1338	AnnotatorNotes T1338	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1339	GO_BP 49733 49742	synthesis
+#1339	AnnotatorNotes T1339	GO:0009058 (biosynthetic process)
+T1340	PR 49881 49883	Aβ
+#1340	AnnotatorNotes T1340	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1341	GO_BP 49884 49894	production
+#1341	AnnotatorNotes T1341	GO:0009058 (biosynthetic process)
+T1342	PR 49905 49907	Aβ
+#1342	AnnotatorNotes T1342	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1343	GO_BP 49908 49919	degradation
+#1343	AnnotatorNotes T1343	GO:0009056 (catabolic process)
+T1344	GO_BP 49925 49932	enhance
+#1344	AnnotatorNotes T1344	GO:0048518 (positive regulation of biological process)
+T1345	GO_BP 49933 49945	phagocytosis
+#1345	AnnotatorNotes T1345	GO:0006909 (phagocytosis)
+T1346	CHEBI 50090 50100	inhibitors
+#1346	AnnotatorNotes T1346	CHEBI:35222 (inhibitor)
+T1347	GO_BP 50268 50289	microglial activation
+#1347	AnnotatorNotes T1347	GO:0001774 (microglial cell activation)
+T1348	CL 50268 50278	microglial
+#1348	AnnotatorNotes T1348	CL:0000129 (microglial cell)
+T1349	NCBITaxon 50293 50298	human
+#1349	AnnotatorNotes T1349	NCBITaxon:9606 (Homo sapiens)
+T1350	GO_BP 50340 50349	formation
+#1350	AnnotatorNotes T1350	GO:0032502 (developmental process)
+T1351	GO_BP 50392 50404	phagocytosis
+#1351	AnnotatorNotes T1351	GO:0006909 (phagocytosis)
+T1352	CHEBI 50495 50505	inhibitors
+#1352	AnnotatorNotes T1352	CHEBI:35222 (inhibitor)
+T1353	NCBITaxon 50559 50564	human
+#1353	AnnotatorNotes T1353	NCBITaxon:9606 (Homo sapiens)
+T1354	SO 50713 50723	Transgenic
+#1354	AnnotatorNotes T1354	SO:0000902 (transgene)
+T1355	EntrezGene 50724 50727	APP
+#1355	AnnotatorNotes T1355	EG:11820
+T1356	PR 50724 50727	APP
+#1356	AnnotatorNotes T1356	PR:000004168 (amyloid beta A4 protein)
+T1357	GO_BP 50728 50738	Expression
+#1357	AnnotatorNotes T1357	GO:0010467 (gene expression)
+T1358	GO_BP 50743 50754	Suppression
+#1358	AnnotatorNotes T1358	GO:0048519 (negative regulation of biological process)
+T1359	EntrezGene 50786 50789	APP
+#1359	AnnotatorNotes T1359	EG:11820
+T1360	PR 50786 50789	APP
+#1360	AnnotatorNotes T1360	PR:000004168 (amyloid beta A4 protein)
+T1361	NCBITaxon 50819 50824	human
+#1361	AnnotatorNotes T1361	NCBITaxon:9606 (Homo sapiens)
+T1362	GO_CC 50834 50842	antibody
+#1362	AnnotatorNotes T1362	GO:0019814 (immunoglobulin complex)
+T1363	SO 50856 50865	transgene
+#1363	AnnotatorNotes T1363	SO:0000902 (transgene)
+T1364	EntrezGene 50886 50889	APP
+#1364	AnnotatorNotes T1364	EG:11820
+T1365	PR 50886 50889	APP
+#1365	AnnotatorNotes T1365	PR:000004168 (amyloid beta A4 protein)
+T1366	NCBITaxon 50929 50936	animals
+#1366	AnnotatorNotes T1366	NCBITaxon:33208 (Metazoa)
+T1367	SO 51016 51025	transgene
+#1367	AnnotatorNotes T1367	SO:0000902 (transgene)
+T1368	GO_BP 51026 51036	expression
+#1368	AnnotatorNotes T1368	GO:0010467 (gene expression)
+T1369	SO 51090 51100	transgenic
+#1369	AnnotatorNotes T1369	SO:0000902 (transgene)
+T1370	PR 51101 51104	APP
+#1370	AnnotatorNotes T1370	PR:000004168 (amyloid beta A4 protein)
+T1371	SO 51163 51165	Tg
+#1371	AnnotatorNotes T1371	SO:0000902 (transgene)
+T1372	SO 51216 51226	transgenic
+#1372	AnnotatorNotes T1372	SO:0000902 (transgene)
+T1373	CHEBI 51227 51234	protein
+#1373	AnnotatorNotes T1373	CHEBI:36080 (proteins)
+T1374	EntrezGene 51259 51262	APP
+#1374	AnnotatorNotes T1374	EG:11820
+T1375	PR 51259 51262	APP
+#1375	AnnotatorNotes T1375	PR:000004168 (amyloid beta A4 protein)
+T1376	SO 51400 51410	Transgenic
+#1376	AnnotatorNotes T1376	SO:0000902 (transgene)
+T1377	EntrezGene 51411 51414	APP
+#1377	AnnotatorNotes T1377	EG:11820
+T1378	PR 51411 51414	APP
+#1378	AnnotatorNotes T1378	PR:000004168 (amyloid beta A4 protein)
+T1379	CHEBI 51415 51419	mRNA
+#1379	AnnotatorNotes T1379	CHEBI:33699 (messenger RNA)
+T1380	SO 51415 51419	mRNA
+#1380	AnnotatorNotes T1380	SO:0000234 (mRNA)
+T1381	CHEBI 51454 51458	mRNA
+#1381	AnnotatorNotes T1381	CHEBI:33699 (messenger RNA)
+T1382	SO 51454 51458	mRNA
+#1382	AnnotatorNotes T1382	SO:0000234 (mRNA)
+T1383	EntrezGene 51523 51526	APP
+#1383	AnnotatorNotes T1383	EG:11820
+T1384	PR 51523 51526	APP
+#1384	AnnotatorNotes T1384	PR:000004168 (amyloid beta A4 protein)
+T1385	SO 51581 51591	transgenic
+#1385	AnnotatorNotes T1385	SO:0000902 (transgene)
+T1386	CHEBI 51592 51596	mRNA
+#1386	AnnotatorNotes T1386	CHEBI:33699 (messenger RNA)
+T1387	SO 51592 51596	mRNA
+#1387	AnnotatorNotes T1387	SO:0000234 (mRNA)
+T1388	GO_BP 51597 51607	expression
+#1388	AnnotatorNotes T1388	GO:0010467 (gene expression)
+T1389	GO_MF 51609 51622	Hybridization
+#1389	AnnotatorNotes T1389	GO:0000739 (DNA strand annealing activity)
+T1390	GO_MF 51609 51622	Hybridization
+#1390	AnnotatorNotes T1390	GO:0033592 (RNA strand annealing activity)
+T1391	SO 51904 51914	transgenic
+#1391	AnnotatorNotes T1391	SO:0000902 (transgene)
+T1392	NCBITaxon 51915 51919	mice
+#1392	AnnotatorNotes T1392	NCBITaxon:10088 (Mus)
+T1393	CHEBI 51930 51936	silver
+#1393	AnnotatorNotes T1393	CHEBI:30512 (silver)
+T1394	PR 51985 51987	Aβ
+#1394	AnnotatorNotes T1394	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1395	SO 52072 52081	transgene
+#1395	AnnotatorNotes T1395	SO:0000902 (transgene)
+T1396	GO_BP 52082 52093	suppression
+#1396	AnnotatorNotes T1396	GO:0048519 (negative regulation of biological process)
+T1397	NCBITaxon 52254 52258	mice
+#1397	AnnotatorNotes T1397	NCBITaxon:10088 (Mus)
+T1398	GO_BP 52304 52315	suppression
+#1398	AnnotatorNotes T1398	GO:0048519 (negative regulation of biological process)
+T1399	SO 52323 52332	transgene
+#1399	AnnotatorNotes T1399	SO:0000902 (transgene)
+T1400	SO 52415 52425	transgenic
+#1400	AnnotatorNotes T1400	SO:0000902 (transgene)
+T1401	NCBITaxon 52437 52443	animal
+#1401	AnnotatorNotes T1401	NCBITaxon:33208 (Metazoa)
+T1402	EntrezGene 52494 52497	APP
+#1402	AnnotatorNotes T1402	EG:11820
+T1403	PR 52494 52497	APP
+#1403	AnnotatorNotes T1403	PR:000004168 (amyloid beta A4 protein)
+T1404	SO 52512 52522	transgenic
+#1404	AnnotatorNotes T1404	SO:0000902 (transgene)
+T1405	NCBITaxon 52523 52530	animals
+#1405	AnnotatorNotes T1405	NCBITaxon:33208 (Metazoa)
+T1406	PR 52656 52658	Aβ
+#1406	AnnotatorNotes T1406	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1407	GO_BP 52659 52670	Suppression
+#1407	AnnotatorNotes T1407	GO:0048519 (negative regulation of biological process)
+T1408	CHEBI 52689 52695	silver
+#1408	AnnotatorNotes T1408	CHEBI:30512 (silver)
+T1409	EntrezGene 52788 52791	APP
+#1409	AnnotatorNotes T1409	EG:11820
+T1410	PR 52788 52791	APP
+#1410	AnnotatorNotes T1410	PR:000004168 (amyloid beta A4 protein)
+T1411	NCBITaxon 52792 52796	mice
+#1411	AnnotatorNotes T1411	NCBITaxon:10088 (Mus)
+T1412	SO 52884 52893	transgene
+#1412	AnnotatorNotes T1412	SO:0000902 (transgene)
+T1413	GO_BP 52894 52905	suppression
+#1413	AnnotatorNotes T1413	GO:0048519 (negative regulation of biological process)
+T1414	PR 53073 53075	Aβ
+#1414	AnnotatorNotes T1414	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1415	GO_BP 53076 53087	suppression
+#1415	AnnotatorNotes T1415	GO:0048519 (negative regulation of biological process)
+T1416	NCBITaxon 53238 53242	mice
+#1416	AnnotatorNotes T1416	NCBITaxon:10088 (Mus)
+T1417	SO 53265 53275	transgenic
+#1417	AnnotatorNotes T1417	SO:0000902 (transgene)
+T1418	NCBITaxon 53276 53283	animals
+#1418	AnnotatorNotes T1418	NCBITaxon:33208 (Metazoa)
+T1419	SO 53658 53667	Transgene
+#1419	AnnotatorNotes T1419	SO:0000902 (transgene)
+T1420	GO_BP 53668 53679	Suppression
+#1420	AnnotatorNotes T1420	GO:0048519 (negative regulation of biological process)
+T1421	PR 53694 53696	Aβ
+#1421	AnnotatorNotes T1421	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1422	GO_BP 53707 53716	Formation
+#1422	AnnotatorNotes T1422	GO:0032502 (developmental process)
+T1423	EntrezGene 53751 53754	APP
+#1423	AnnotatorNotes T1423	EG:11820
+T1424	PR 53751 53754	APP
+#1424	AnnotatorNotes T1424	PR:000004168 (amyloid beta A4 protein)
+T1425	NCBITaxon 53755 53759	Mice
+#1425	AnnotatorNotes T1425	NCBITaxon:10088 (Mus)
+T1426	PR 53761 53768	CaMKIIα
+#1426	AnnotatorNotes T1426	PR:000003199 (calcium/calmodulin-dependent protein kinase type II alpha chain)
+T1427	PR 53786 53789	ind
+#1427	AnnotatorNotes T1427	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T1428	EntrezGene 53862 53865	APP
+#1428	AnnotatorNotes T1428	EG:11820
+T1429	PR 53862 53865	APP
+#1429	AnnotatorNotes T1429	PR:000004168 (amyloid beta A4 protein)
+T1430	EntrezGene 53901 53904	APP
+#1430	AnnotatorNotes T1430	EG:11820
+T1431	PR 53901 53904	APP
+#1431	AnnotatorNotes T1431	PR:000004168 (amyloid beta A4 protein)
+T1432	SO 53935 53951	integration site
+#1432	AnnotatorNotes T1432	SO:0000366 (insertion_site)
+T1433	SO 53935 53946	integration
+#1433	AnnotatorNotes T1433	SO:0000046 (insert)
+T1434	SO 54030 54040	transgenic
+#1434	AnnotatorNotes T1434	SO:0000902 (transgene)
+T1435	NCBITaxon 54041 54045	mice
+#1435	AnnotatorNotes T1435	NCBITaxon:10088 (Mus)
+T1436	EntrezGene 54081 54084	APP
+#1436	AnnotatorNotes T1436	EG:11820
+T1437	PR 54081 54084	APP
+#1437	AnnotatorNotes T1437	PR:000004168 (amyloid beta A4 protein)
+T1438	NCBITaxon 54094 54099	human
+#1438	AnnotatorNotes T1438	NCBITaxon:9606 (Homo sapiens)
+T1439	GO_CC 54109 54117	antibody
+#1439	AnnotatorNotes T1439	GO:0019814 (immunoglobulin complex)
+T1440	SO 54134 54143	transgene
+#1440	AnnotatorNotes T1440	SO:0000902 (transgene)
+T1441	GO_BP 54144 54155	suppression
+#1441	AnnotatorNotes T1441	GO:0048519 (negative regulation of biological process)
+T1442	GO_MF 54210 54230	superoxide dismutase
+#1442	AnnotatorNotes T1442	GO:0004784 (superoxide dismutase activity)
+T1443	PR 54210 54230	superoxide dismutase
+#1443	AnnotatorNotes T1443	PR:000015399 (superoxide dismutase [Cu-Zn])
+T1444	EntrezGene 54210 54230	superoxide dismutase
+#1444	AnnotatorNotes T1444	EG:20655
+T1445	independent_continuant 54210 54230	superoxide dismutase
+#1445	AnnotatorNotes T1445	independent_continuant
+T1446	CHEBI 54210 54220	superoxide
+#1446	AnnotatorNotes T1446	CHEBI:18421 (superoxide)
+T1447	EntrezGene 54232 54236	SOD1
+#1447	AnnotatorNotes T1447	EG:20655
+T1448	PR 54232 54236	SOD1
+#1448	AnnotatorNotes T1448	PR:000015399 (superoxide dismutase [Cu-Zn])
+T1449	SO 54346 54356	transgenic
+#1449	AnnotatorNotes T1449	SO:0000902 (transgene)
+T1450	EntrezGene 54357 54360	APP
+#1450	AnnotatorNotes T1450	EG:11820
+T1451	PR 54357 54360	APP
+#1451	AnnotatorNotes T1451	PR:000004168 (amyloid beta A4 protein)
+T1452	GO_BP 54383 54393	suppressed
+#1452	AnnotatorNotes T1452	GO:0048519 (negative regulation of biological process)
+T1453	italic 54478 54479	F
+#1453	AnnotatorNotes T1453	italic (null)
+T1454	sub 54479 54482	2,8
+#1454	AnnotatorNotes T1454	sub (null)
+T1455	italic 54493 54496	p <
+#1455	AnnotatorNotes T1455	italic (null)
+T1456	GO_BP 54519 54530	suppression
+#1456	AnnotatorNotes T1456	GO:0048519 (negative regulation of biological process)
+T1457	PR 54673 54675	Aβ
+#1457	AnnotatorNotes T1457	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1458	GO_BP 54864 54873	formation
+#1458	AnnotatorNotes T1458	GO:0032502 (developmental process)
+T1459	NCBITaxon 54941 54945	mice
+#1459	AnnotatorNotes T1459	NCBITaxon:10088 (Mus)
+T1460	italic 54981 54982	F
+#1460	AnnotatorNotes T1460	italic (null)
+T1461	sub 54982 54986	2,18
+#1461	AnnotatorNotes T1461	sub (null)
+T1462	italic 54996 54999	p <
+#1462	AnnotatorNotes T1462	italic (null)
+T1463	GO_BP 55018 55027	formation
+#1463	AnnotatorNotes T1463	GO:0032502 (developmental process)
+T1464	SO 55055 55064	transgene
+#1464	AnnotatorNotes T1464	SO:0000902 (transgene)
+T1465	GO_BP 55065 55076	suppression
+#1465	AnnotatorNotes T1465	GO:0048519 (negative regulation of biological process)
+T1466	NCBITaxon 55107 55111	mice
+#1466	AnnotatorNotes T1466	NCBITaxon:10088 (Mus)
+T1467	NCBITaxon 55154 55161	animals
+#1467	AnnotatorNotes T1467	NCBITaxon:33208 (Metazoa)
+T1468	italic 55194 55197	p >
+#1468	AnnotatorNotes T1468	italic (null)
+T1469	italic 55228 55231	p <
+#1469	AnnotatorNotes T1469	italic (null)
+T1470	italic 55242 55245	p <
+#1470	AnnotatorNotes T1470	italic (null)
+T1471	italic 55258 55261	p <
+#1471	AnnotatorNotes T1471	italic (null)
+T1472	NCBITaxon 55294 55298	mice
+#1472	AnnotatorNotes T1472	NCBITaxon:10088 (Mus)
+T1473	SO 55427 55436	Transgene
+#1473	AnnotatorNotes T1473	SO:0000902 (transgene)
+T1474	GO_BP 55437 55448	Suppression
+#1474	AnnotatorNotes T1474	GO:0048519 (negative regulation of biological process)
+T1475	EntrezGene 55468 55471	APP
+#1475	AnnotatorNotes T1475	EG:11820
+T1476	PR 55468 55471	APP
+#1476	AnnotatorNotes T1476	PR:000004168 (amyloid beta A4 protein)
+T1477	NCBITaxon 55472 55476	Mice
+#1477	AnnotatorNotes T1477	NCBITaxon:10088 (Mus)
+T1478	EntrezGene 55600 55603	APP
+#1478	AnnotatorNotes T1478	EG:11820
+T1479	PR 55600 55603	APP
+#1479	AnnotatorNotes T1479	PR:000004168 (amyloid beta A4 protein)
+T1480	NCBITaxon 55604 55608	mice
+#1480	AnnotatorNotes T1480	NCBITaxon:10088 (Mus)
+T1481	GO_BP 55678 55689	Suppression
+#1481	AnnotatorNotes T1481	GO:0048519 (negative regulation of biological process)
+T1482	SO 55693 55703	transgenic
+#1482	AnnotatorNotes T1482	SO:0000902 (transgene)
+T1483	EntrezGene 55704 55707	APP
+#1483	AnnotatorNotes T1483	EG:11820
+T1484	PR 55704 55707	APP
+#1484	AnnotatorNotes T1484	PR:000004168 (amyloid beta A4 protein)
+T1485	GO_BP 55708 55718	expression
+#1485	AnnotatorNotes T1485	GO:0010467 (gene expression)
+T1486	CHEBI 55817 55823	silver
+#1486	AnnotatorNotes T1486	CHEBI:30512 (silver)
+T1487	CHEBI 56026 56033	protein
+#1487	AnnotatorNotes T1487	CHEBI:36080 (proteins)
+T1488	PR 56041 56050	amyloid-β
+#1488	AnnotatorNotes T1488	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1489	SO 56051 56058	peptide
+#1489	AnnotatorNotes T1489	SO:0001407 (peptidyl)
+T1490	GO_BP 56083 56087	form
+#1490	AnnotatorNotes T1490	GO:0032502 (developmental process)
+T1491	SO 56144 56151	peptide
+#1491	AnnotatorNotes T1491	SO:0001407 (peptidyl)
+T1492	GO_BP 56164 56168	made
+#1492	AnnotatorNotes T1492	GO:0009058 (biosynthetic process)
+T1493	NCBITaxon 56194 56205	individuals
+#1493	AnnotatorNotes T1493	NCBITaxon:1 (root)
+T1494	GO_BP 56214 56218	made
+#1494	AnnotatorNotes T1494	GO:0009058 (biosynthetic process)
+T1495	CHEBI 56233 56240	protein
+#1495	AnnotatorNotes T1495	CHEBI:36080 (proteins)
+T1496	EntrezGene 56248 56273	amyloid precursor protein
+#1496	AnnotatorNotes T1496	EG:351
+T1497	PR 56248 56273	amyloid precursor protein
+#1497	AnnotatorNotes T1497	PR:000004168 (amyloid beta A4 protein)
+T1498	CHEBI 56266 56273	protein
+#1498	AnnotatorNotes T1498	CHEBI:36080 (proteins)
+T1499	EntrezGene 56275 56278	APP
+#1499	AnnotatorNotes T1499	EG:351
+T1500	PR 56275 56278	APP
+#1500	AnnotatorNotes T1500	PR:000004168 (amyloid beta A4 protein)
+T1501	PR 56373 56375	Aβ
+#1501	AnnotatorNotes T1501	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1502	GO_BP 56376 56384	produced
+#1502	AnnotatorNotes T1502	GO:0009058 (biosynthetic process)
+T1503	EntrezGene 56390 56393	APP
+#1503	AnnotatorNotes T1503	EG:351
+T1504	PR 56390 56393	APP
+#1504	AnnotatorNotes T1504	PR:000004168 (amyloid beta A4 protein)
+T1505	GO_BP 56441 56451	production
+#1505	AnnotatorNotes T1505	GO:0009058 (biosynthetic process)
+T1506	PR 56455 56457	Aβ
+#1506	AnnotatorNotes T1506	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1507	PR 56590 56592	Aβ
+#1507	AnnotatorNotes T1507	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1508	CHEBI 56602 56607	drugs
+#1508	AnnotatorNotes T1508	CHEBI:23888 (drug)
+T1509	CHEBI 56765 56770	drugs
+#1509	AnnotatorNotes T1509	CHEBI:23888 (drug)
+T1510	PR 56789 56791	Aβ
+#1510	AnnotatorNotes T1510	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1511	NCBITaxon 56863 56869	animal
+#1511	AnnotatorNotes T1511	NCBITaxon:33208 (Metazoa)
+T1512	CHEBI 57018 57023	drugs
+#1512	AnnotatorNotes T1512	CHEBI:23888 (drug)
+T1513	GO_BP 57054 57061	created
+#1513	AnnotatorNotes T1513	GO:0000003 (reproduction)
+T1514	NCBITaxon 57062 57066	mice
+#1514	AnnotatorNotes T1514	NCBITaxon:10088 (Mus)
+T1515	GO_BP 57072 57079	produce
+#1515	AnnotatorNotes T1515	GO:0009058 (biosynthetic process)
+T1516	EntrezGene 57089 57092	APP
+#1516	AnnotatorNotes T1516	EG:11820
+T1517	PR 57089 57092	APP
+#1517	AnnotatorNotes T1517	PR:000004168 (amyloid beta A4 protein)
+T1518	GO_BP 57102 57109	develop
+#1518	AnnotatorNotes T1518	GO:0032502 (developmental process)
+T1519	NCBITaxon 57141 57146	human
+#1519	AnnotatorNotes T1519	NCBITaxon:9606 (Homo sapiens)
+T1520	NCBITaxon 57179 57183	mice
+#1520	AnnotatorNotes T1520	NCBITaxon:10088 (Mus)
+T1521	NCBITaxon 57191 57195	mice
+#1521	AnnotatorNotes T1521	NCBITaxon:10088 (Mus)
+T1522	SO 57220 57224	gene
+#1522	AnnotatorNotes T1522	SO:0000704 (gene)
+T1523	EntrezGene 57266 57269	APP
+#1523	AnnotatorNotes T1523	EG:11820
+T1524	PR 57266 57269	APP
+#1524	AnnotatorNotes T1524	PR:000004168 (amyloid beta A4 protein)
+T1525	GO_BP 57273 57280	feeding
+#1525	AnnotatorNotes T1525	GO:0007631 (feeding behavior)
+T1526	NCBITaxon 57285 57289	mice
+#1526	AnnotatorNotes T1526	NCBITaxon:10088 (Mus)
+T1527	CHEBI 57298 57302	food
+#1527	AnnotatorNotes T1527	CHEBI:33290 (food)
+T1528	EntrezGene 57316 57319	APP
+#1528	AnnotatorNotes T1528	EG:11820
+T1529	PR 57316 57319	APP
+#1529	AnnotatorNotes T1529	PR:000004168 (amyloid beta A4 protein)
+T1530	NCBITaxon 57329 57333	mice
+#1530	AnnotatorNotes T1530	NCBITaxon:10088 (Mus)
+T1531	PR 57376 57378	Aβ
+#1531	AnnotatorNotes T1531	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1532	CHEBI 57388 57393	drugs
+#1532	AnnotatorNotes T1532	CHEBI:23888 (drug)
+T1533	PR 57478 57480	Aβ
+#1533	AnnotatorNotes T1533	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1534	GO_BP 57481 57491	production
+#1534	AnnotatorNotes T1534	GO:0009058 (biosynthetic process)
+T1535	PR 57533 57535	Aβ
+#1535	AnnotatorNotes T1535	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1536	GO_BP 57536 57546	production
+#1536	AnnotatorNotes T1536	GO:0009058 (biosynthetic process)
+T1537	PR 57653 57655	Aβ
+#1537	AnnotatorNotes T1537	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1538	CHEBI 57665 57670	drugs
+#1538	AnnotatorNotes T1538	CHEBI:23888 (drug)
+T1539	GO_BP 57810 57816	formed
+#1539	AnnotatorNotes T1539	GO:0032502 (developmental process)
+T1540	GO_BP 57981 57991	production
+#1540	AnnotatorNotes T1540	GO:0009058 (biosynthetic process)
+T1541	PR 57995 57997	Aβ
+#1541	AnnotatorNotes T1541	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1542	GO_BP 58114 58121	forming
+#1542	AnnotatorNotes T1542	GO:0032502 (developmental process)
+T1543	NCBITaxon 58129 58134	mouse
+#1543	AnnotatorNotes T1543	NCBITaxon:10088 (Mus)
+T1544	GO_BP 58238 58244	formed
+#1544	AnnotatorNotes T1544	GO:0032502 (developmental process)
+T1545	GO_BP 58612 58617	Aging
+#1545	AnnotatorNotes T1545	GO:0007568 (aging)
+T1546	PR 58951 58958	CaMKIIα
+#1546	AnnotatorNotes T1546	PR:000003199 (calcium/calmodulin-dependent protein kinase type II alpha chain)
+T1547	NCBITaxon 58963 58967	mice
+#1547	AnnotatorNotes T1547	NCBITaxon:10088 (Mus)
+T1548	NCBITaxon 59253 59259	animal
+#1548	AnnotatorNotes T1548	NCBITaxon:33208 (Metazoa)
+T1549	CHEBI 59388 59396	Chemical
+#1549	AnnotatorNotes T1549	CHEBI:23367 (molecular entity)
+T1550	GO_CC 59422 59432	antibodies
+#1550	AnnotatorNotes T1550	GO:0019814 (immunoglobulin complex)
+T1551	GO_CC 59516 59524	antibody
+#1551	AnnotatorNotes T1551	GO:0019814 (immunoglobulin complex)
+T1552	GO_CC 59554 59562	antibody
+#1552	AnnotatorNotes T1552	GO:0019814 (immunoglobulin complex)
+T1553	GO_BP 59874 59879	Aging
+#1553	AnnotatorNotes T1553	GO:0007568 (aging)
+T1554	NCBITaxon 60164 60170	animal
+#1554	AnnotatorNotes T1554	NCBITaxon:33208 (Metazoa)
+T1555	PR 60352 60354	Aβ
+#1555	AnnotatorNotes T1555	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1556	PR 60357 60366	amyloid-β
+#1556	AnnotatorNotes T1556	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1557	PR 60399 60416	amyloid precursor
+#1557	AnnotatorNotes T1557	PR:000004168 (amyloid beta A4 protein)
+T1558	CHEBI 60422 60429	protein
+#1558	AnnotatorNotes T1558	CHEBI:36080 (proteins)
+T1559	EntrezGene 60431 60434	APP
+#1559	AnnotatorNotes T1559	EG:351
+T1560	PR 60431 60434	APP
+#1560	AnnotatorNotes T1560	PR:000004168 (amyloid beta A4 protein)
+T1561	EntrezGene 60437 60462	amyloid precursor protein
+#1561	AnnotatorNotes T1561	EG:351
+T1562	PR 60437 60462	amyloid precursor protein
+#1562	AnnotatorNotes T1562	PR:000004168 (amyloid beta A4 protein)
+T1563	CHEBI 60455 60462	protein
+#1563	AnnotatorNotes T1563	CHEBI:36080 (proteins)
+T1564	PR 60464 60471	CaMKIIα
+#1564	AnnotatorNotes T1564	PR:000003199 (calcium/calmodulin-dependent protein kinase type II alpha chain)
+T1565	PR 60474 60503	calcium-calmodulin kinase IIα
+#1565	AnnotatorNotes T1565	PR:000003199 (calcium/calmodulin-dependent protein kinase type II alpha chain)
+T1566	independent_continuant 60474 60499	calcium-calmodulin kinase
+#1566	AnnotatorNotes T1566	independent_continuant
+T1567	GO_MF 60474 60499	calcium-calmodulin kinase
+#1567	AnnotatorNotes T1567	GO:0004683 (calmodulin-dependent protein kinase activity)
+T1568	CHEBI 60474 60481	calcium
+#1568	AnnotatorNotes T1568	CHEBI:22984 (calcium)
+T1569	PR 60482 60492	calmodulin
+#1569	AnnotatorNotes T1569	PR:000004978 (calmodulin)
+T1570	CHEBI 60524 60526	FA
+#1570	AnnotatorNotes T1570	CHEBI:30751 (formic acid)
+T1571	CHEBI 60529 60540	formic acid
+#1571	AnnotatorNotes T1571	CHEBI:30751 (formic acid)
+T1572	EntrezGene 60542 60546	GFAP
+#1572	AnnotatorNotes T1572	EG:14580
+T1573	PR 60542 60546	GFAP
+#1573	AnnotatorNotes T1573	PR:000007939 (glial fibrillary acidic protein)
+T1574	EntrezGene 60549 60580	glial fibrillary acidic protein
+#1574	AnnotatorNotes T1574	EG:14580
+T1575	PR 60549 60580	glial fibrillary acidic protein
+#1575	AnnotatorNotes T1575	PR:000007939 (glial fibrillary acidic protein)
+T1576	CL 60549 60554	glial
+#1576	AnnotatorNotes T1576	CL:0000125 (glial cell)
+T1577	CHEBI 60566 60572	acidic
+#1577	AnnotatorNotes T1577	CHEBI:37527 (acid)
+T1578	CHEBI 60573 60580	protein
+#1578	AnnotatorNotes T1578	CHEBI:36080 (proteins)
+T1579	NCBITaxon 60582 60584	mo
+#1579	AnnotatorNotes T1579	NCBITaxon:10088 (Mus)
+T1580	PR 60585 60593	huAPP695
+#1580	AnnotatorNotes T1580	PR:000025537 (amyloid beta A4 protein isoform APP695 (human))
+T1581	EntrezGene 60596 60605	mouse APP
+#1581	AnnotatorNotes T1581	EG:11820
+T1582	NCBITaxon 60596 60601	mouse
+#1582	AnnotatorNotes T1582	NCBITaxon:10088 (Mus)
+T1583	PR 60602 60605	APP
+#1583	AnnotatorNotes T1583	PR:000004168 (amyloid beta A4 protein)
+T1584	PR 60623 60625	Aβ
+#1584	AnnotatorNotes T1584	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1585	SO 60626 60632	domain
+#1585	AnnotatorNotes T1585	SO:0000417 (polypeptide_domain)
+T1586	CHEBI 60640 60649	phosphate
+#1586	AnnotatorNotes T1586	CHEBI:26020 (phosphates)
+T1587	CHEBI 60640 60649	phosphate
+#1587	AnnotatorNotes T1587	CHEBI:35780 (phosphate ions)
+T1588	CHEBI 60650 60658	buffered
+#1588	AnnotatorNotes T1588	CHEBI:35225 (buffer)
+T1589	CHEBI 60667 60670	SDS
+#1589	AnnotatorNotes T1589	CHEBI:8984 (sodium dodecyl sulfate)
+T1590	CHEBI 60673 60695	sodium dodecyl sulfate
+#1590	AnnotatorNotes T1590	CHEBI:8984 (sodium dodecyl sulfate)
+T1591	CHEBI 60673 60679	sodium
+#1591	AnnotatorNotes T1591	CHEBI:26708 (sodium)
+T1592	CHEBI 60680 60695	dodecyl sulfate
+#1592	AnnotatorNotes T1592	CHEBI:23872 (dodecyl sulfate)
+T1593	CHEBI 60688 60695	sulfate
+#1593	AnnotatorNotes T1593	CHEBI:45536 (sulfonato group)
+T1594	CHEBI 60688 60695	sulfate
+#1594	AnnotatorNotes T1594	CHEBI:16189 (sulfate)
+T1595	PR 60697 60700	swe
+#1595	AnnotatorNotes T1595	PR:000025601 (amyloid beta A4 protein sequence variant APPKM670/671NL (human))
+T1596	PR 60701 60704	ind
+#1596	AnnotatorNotes T1596	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T1597	PR 60707 60714	Swedish
+#1597	AnnotatorNotes T1597	PR:000025601 (amyloid beta A4 protein sequence variant APPKM670/671NL (human))
+T1598	PR 60715 60722	Indiana
+#1598	AnnotatorNotes T1598	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T1599	CHEBI 60730 60742	tetracycline
+#1599	AnnotatorNotes T1599	CHEBI:27902 (tetracycline)
+T1600	GO_BP 60789 60825	Control of Transgenic APP Expression
+#1600	AnnotatorNotes T1600	"Control of .. Expression" GO:0010468 (regulation of gene expression)
+T1601	SO 60800 60810	Transgenic
+#1601	AnnotatorNotes T1601	SO:0000902 (transgene)
+T1602	EntrezGene 60811 60814	APP
+#1602	AnnotatorNotes T1602	EG:11820
+T1603	PR 60811 60814	APP
+#1603	AnnotatorNotes T1603	PR:000004168 (amyloid beta A4 protein)
+T1604	GO_BP 60815 60825	Expression
+#1604	AnnotatorNotes T1604	GO:0010467 (gene expression)
+T1605	SO 60859 60869	transgenic
+#1605	AnnotatorNotes T1605	SO:0000902 (transgene)
+T1606	EntrezGene 60870 60873	APP
+#1606	AnnotatorNotes T1606	EG:11820
+T1607	PR 60870 60873	APP
+#1607	AnnotatorNotes T1607	PR:000004168 (amyloid beta A4 protein)
+T1608	NCBITaxon 60884 60889	human
+#1608	AnnotatorNotes T1608	NCBITaxon:9606 (Homo sapiens)
+T1609	GO_CC 60904 60912	antibody
+#1609	AnnotatorNotes T1609	GO:0019814 (immunoglobulin complex)
+T1610	GO_BP 60919 60929	expression
+#1610	AnnotatorNotes T1610	GO:0010467 (gene expression)
+T1611	CHEBI 60945 60952	protein
+#1611	AnnotatorNotes T1611	CHEBI:36080 (proteins)
+T1612	SO 61002 61012	transgenic
+#1612	AnnotatorNotes T1612	SO:0000902 (transgene)
+T1613	NCBITaxon 61013 61020	animals
+#1613	AnnotatorNotes T1613	NCBITaxon:33208 (Metazoa)
+T1614	GO_BP 61040 61051	suppression
+#1614	AnnotatorNotes T1614	GO:0048519 (negative regulation of biological process)
+T1615	NCBITaxon 61087 61094	animals
+#1615	AnnotatorNotes T1615	NCBITaxon:33208 (Metazoa)
+T1616	SO 61115 61124	transgene
+#1616	AnnotatorNotes T1616	SO:0000902 (transgene)
+T1617	GO_BP 61125 61135	expression
+#1617	AnnotatorNotes T1617	GO:0010467 (gene expression)
+T1618	CHEBI 61137 61144	protein
+#1618	AnnotatorNotes T1618	CHEBI:36080 (proteins)
+T1619	NCBITaxon 61173 61180	animals
+#1619	AnnotatorNotes T1619	NCBITaxon:33208 (Metazoa)
+T1620	CHEBI 61260 61267	protein
+#1620	AnnotatorNotes T1620	CHEBI:36080 (proteins)
+T1621	NCBITaxon 61295 61302	animals
+#1621	AnnotatorNotes T1621	NCBITaxon:33208 (Metazoa)
+T1622	NCBITaxon 61329 61333	mice
+#1622	AnnotatorNotes T1622	NCBITaxon:10088 (Mus)
+T1623	GO_BP 61334 61338	born
+#1623	AnnotatorNotes T1623	GO:0007567 (parturition)
+T1624	SO 61387 61397	N-terminal
+#1624	AnnotatorNotes T1624	SO:0100014 (n_terminal_region)
+T1625	CHEBI 61387 61388	N
+#1625	AnnotatorNotes T1625	CHEBI:46882 (amino group)
+T1626	GO_CC 61398 61406	antibody
+#1626	AnnotatorNotes T1626	GO:0019814 (immunoglobulin complex)
+T1627	SO 61428 61438	transgenic
+#1627	AnnotatorNotes T1627	SO:0000902 (transgene)
+T1628	CHEBI 61454 61461	protein
+#1628	AnnotatorNotes T1628	CHEBI:36080 (proteins)
+T1629	EntrezGene 61495 61498	APP
+#1629	AnnotatorNotes T1629	EG:11820
+T1630	PR 61495 61498	APP
+#1630	AnnotatorNotes T1630	PR:000004168 (amyloid beta A4 protein)
+T1631	NCBITaxon 61537 61541	mice
+#1631	AnnotatorNotes T1631	NCBITaxon:10088 (Mus)
+T1632	SO 61615 61625	transgenic
+#1632	AnnotatorNotes T1632	SO:0000902 (transgene)
+T1633	EntrezGene 61626 61629	APP
+#1633	AnnotatorNotes T1633	EG:11820
+T1634	PR 61626 61629	APP
+#1634	AnnotatorNotes T1634	PR:000004168 (amyloid beta A4 protein)
+T1635	NCBITaxon 61712 61719	animals
+#1635	AnnotatorNotes T1635	NCBITaxon:33208 (Metazoa)
+T1636	italic 61827 61828	F
+#1636	AnnotatorNotes T1636	italic (null)
+T1637	sub 61828 61832	4,15
+#1637	AnnotatorNotes T1637	sub (null)
+T1638	italic 61842 61845	p <
+#1638	AnnotatorNotes T1638	italic (null)
+T1639	EntrezGene 61854 61857	APP
+#1639	AnnotatorNotes T1639	EG:11820
+T1640	PR 61854 61857	APP
+#1640	AnnotatorNotes T1640	PR:000004168 (amyloid beta A4 protein)
+T1641	italic 61958 61961	p >
+#1641	AnnotatorNotes T1641	italic (null)
+T1642	EntrezGene 62067 62070	APP
+#1642	AnnotatorNotes T1642	EG:11820
+T1643	PR 62067 62070	APP
+#1643	AnnotatorNotes T1643	PR:000004168 (amyloid beta A4 protein)
+T1644	EntrezGene 62102 62105	APP
+#1644	AnnotatorNotes T1644	EG:11820
+T1645	PR 62102 62105	APP
+#1645	AnnotatorNotes T1645	PR:000004168 (amyloid beta A4 protein)
+T1646	NCBITaxon 62106 62110	mice
+#1646	AnnotatorNotes T1646	NCBITaxon:10088 (Mus)
+T1647	NCBITaxon 62162 62166	mice
+#1647	AnnotatorNotes T1647	NCBITaxon:10088 (Mus)
+T1648	italic 62200 62201	F
+#1648	AnnotatorNotes T1648	italic (null)
+T1649	sub 62201 62205	4,15
+#1649	AnnotatorNotes T1649	sub (null)
+T1650	italic 62215 62218	p <
+#1650	AnnotatorNotes T1650	italic (null)
+T1651	NCBITaxon 62276 62283	animals
+#1651	AnnotatorNotes T1651	NCBITaxon:33208 (Metazoa)
+T1652	italic 62285 62288	p >
+#1652	AnnotatorNotes T1652	italic (null)
+T1653	italic 62319 62322	p <
+#1653	AnnotatorNotes T1653	italic (null)
+T1654	NCBITaxon 62355 62359	mice
+#1654	AnnotatorNotes T1654	NCBITaxon:10088 (Mus)
+T1655	PR 62438 62440	Aβ
+#1655	AnnotatorNotes T1655	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1656	SO 62476 62485	Transgene
+#1656	AnnotatorNotes T1656	SO:0000902 (transgene)
+T1657	GO_BP 62486 62497	Suppression
+#1657	AnnotatorNotes T1657	GO:0048519 (negative regulation of biological process)
+T1658	EntrezGene 62547 62550	APP
+#1658	AnnotatorNotes T1658	EG:11820
+T1659	PR 62547 62550	APP
+#1659	AnnotatorNotes T1659	PR:000004168 (amyloid beta A4 protein)
+T1660	NCBITaxon 62551 62555	mice
+#1660	AnnotatorNotes T1660	NCBITaxon:10088 (Mus)
+T1661	CHEBI 62668 62671	SDS
+#1661	AnnotatorNotes T1661	CHEBI:8984 (sodium dodecyl sulfate)
+T1662	CHEBI 62681 62683	FA
+#1662	AnnotatorNotes T1662	CHEBI:30751 (formic acid)
+T1663	NCBITaxon 62696 62701	human
+#1663	AnnotatorNotes T1663	NCBITaxon:9606 (Homo sapiens)
+T1664	PR 62711 62713	Aβ
+#1664	AnnotatorNotes T1664	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1665	SO 62731 62740	transgene
+#1665	AnnotatorNotes T1665	SO:0000902 (transgene)
+T1666	SO 62749 62756	peptide
+#1666	AnnotatorNotes T1666	SO:0001407 (peptidyl)
+T1667	GO_CC 62765 62773	fraction
+#1667	AnnotatorNotes T1667	GO:0000267 (cell fraction)
+T1668	PR 62775 62779	Aβ40
+#1668	AnnotatorNotes T1668	PR:000025584 (beta-amyloid protein 40)
+T1669	PR 62799 62803	Aβ42
+#1669	AnnotatorNotes T1669	PR:000025583 (beta-amyloid protein 42)
+T1670	PR 62831 62833	Aβ
+#1670	AnnotatorNotes T1670	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1671	italic 62941 62942	F
+#1671	AnnotatorNotes T1671	italic (null)
+T1672	sub 62942 62946	4,24
+#1672	AnnotatorNotes T1672	sub (null)
+T1673	italic 62968 62971	p <
+#1673	AnnotatorNotes T1673	italic (null)
+T1674	PR 62983 62987	Aβ40
+#1674	AnnotatorNotes T1674	PR:000025584 (beta-amyloid protein 40)
+T1675	PR 62992 62996	Aβ42
+#1675	AnnotatorNotes T1675	PR:000025583 (beta-amyloid protein 42)
+T1676	PR 63013 63015	Aβ
+#1676	AnnotatorNotes T1676	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1677	NCBITaxon 63034 63041	animals
+#1677	AnnotatorNotes T1677	NCBITaxon:33208 (Metazoa)
+T1678	NCBITaxon 63089 63096	animals
+#1678	AnnotatorNotes T1678	NCBITaxon:33208 (Metazoa)
+T1679	italic 63098 63101	p >
+#1679	AnnotatorNotes T1679	italic (null)
+T1680	NCBITaxon 63147 63154	animals
+#1680	AnnotatorNotes T1680	NCBITaxon:33208 (Metazoa)
+T1681	GO_BP 63180 63189	formation
+#1681	AnnotatorNotes T1681	GO:0032502 (developmental process)
+T1682	PR 63224 63226	Aβ
+#1682	AnnotatorNotes T1682	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1683	CHEBI 63249 63252	SDS
+#1683	AnnotatorNotes T1683	CHEBI:8984 (sodium dodecyl sulfate)
+T1684	GO_CC 63253 63261	fraction
+#1684	AnnotatorNotes T1684	GO:0000267 (cell fraction)
+T1685	SO 63282 63291	transgene
+#1685	AnnotatorNotes T1685	SO:0000902 (transgene)
+T1686	PR 63300 63304	Aβ40
+#1686	AnnotatorNotes T1686	PR:000025584 (beta-amyloid protein 40)
+T1687	PR 63309 63313	Aβ42
+#1687	AnnotatorNotes T1687	PR:000025583 (beta-amyloid protein 42)
+T1688	GO_CC 63352 63360	fraction
+#1688	AnnotatorNotes T1688	GO:0000267 (cell fraction)
+T1689	PR 63362 63364	Aβ
+#1689	AnnotatorNotes T1689	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1690	CHEBI 63379 63382	SDS
+#1690	AnnotatorNotes T1690	CHEBI:8984 (sodium dodecyl sulfate)
+T1691	GO_CC 63383 63391	fraction
+#1691	AnnotatorNotes T1691	GO:0000267 (cell fraction)
+T1692	NCBITaxon 63457 63464	animals
+#1692	AnnotatorNotes T1692	NCBITaxon:33208 (Metazoa)
+T1693	italic 63488 63489	F
+#1693	AnnotatorNotes T1693	italic (null)
+T1694	sub 63489 63493	4,24
+#1694	AnnotatorNotes T1694	sub (null)
+T1695	italic 63515 63518	p <
+#1695	AnnotatorNotes T1695	italic (null)
+T1696	PR 63530 63534	Aβ40
+#1696	AnnotatorNotes T1696	PR:000025584 (beta-amyloid protein 40)
+T1697	PR 63539 63543	Aβ42
+#1697	AnnotatorNotes T1697	PR:000025583 (beta-amyloid protein 42)
+T1698	NCBITaxon 63576 63583	animals
+#1698	AnnotatorNotes T1698	NCBITaxon:33208 (Metazoa)
+T1699	SO 63643 63650	peptide
+#1699	AnnotatorNotes T1699	SO:0001407 (peptidyl)
+T1700	italic 63652 63655	p <
+#1700	AnnotatorNotes T1700	italic (null)
+T1701	PR 63719 63721	Aβ
+#1701	AnnotatorNotes T1701	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1702	NCBITaxon 63732 63736	mice
+#1702	AnnotatorNotes T1702	NCBITaxon:10088 (Mus)
+T1703	GO_BP 63737 63741	born
+#1703	AnnotatorNotes T1703	GO:0007567 (parturition)
+T1704	italic 63821 63824	p >
+#1704	AnnotatorNotes T1704	italic (null)
+T1705	CHEBI 63861 63863	FA
+#1705	AnnotatorNotes T1705	CHEBI:30751 (formic acid)
+T1706	GO_CC 63872 63880	fraction
+#1706	AnnotatorNotes T1706	GO:0000267 (cell fraction)
+T1707	PR 63941 63945	Aβ42
+#1707	AnnotatorNotes T1707	PR:000025583 (beta-amyloid protein 42)
+T1708	NCBITaxon 63959 63966	animals
+#1708	AnnotatorNotes T1708	NCBITaxon:33208 (Metazoa)
+T1709	italic 63983 63986	p <
+#1709	AnnotatorNotes T1709	italic (null)
+T1710	italic 64079 64080	F
+#1710	AnnotatorNotes T1710	italic (null)
+T1711	sub 64080 64084	4,24
+#1711	AnnotatorNotes T1711	sub (null)
+T1712	italic 64094 64097	p <
+#1712	AnnotatorNotes T1712	italic (null)
+T1713	PR 64136 64138	Aβ
+#1713	AnnotatorNotes T1713	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1714	CHEBI 64146 64148	FA
+#1714	AnnotatorNotes T1714	CHEBI:30751 (formic acid)
+T1715	GO_CC 64149 64157	fraction
+#1715	AnnotatorNotes T1715	GO:0000267 (cell fraction)
+T1716	CHEBI 64246 64248	FA
+#1716	AnnotatorNotes T1716	CHEBI:30751 (formic acid)
+T1717	SO 64266 64273	peptide
+#1717	AnnotatorNotes T1717	SO:0001407 (peptidyl)
+T1718	GO_CC 64274 64282	fraction
+#1718	AnnotatorNotes T1718	GO:0000267 (cell fraction)
+T1719	italic 64353 64356	p >
+#1719	AnnotatorNotes T1719	italic (null)
+T1720	PR 64428 64430	Aβ
+#1720	AnnotatorNotes T1720	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1721	SO 64431 64438	species
+#1721	AnnotatorNotes T1721	SO:0001060 (sequence_variant)
+T1722	PR 64467 64469	Aβ
+#1722	AnnotatorNotes T1722	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1723	SO 64501 64510	transgene
+#1723	AnnotatorNotes T1723	SO:0000902 (transgene)
+T1724	SO 64519 64527	peptides
+#1724	AnnotatorNotes T1724	SO:0001407 (peptidyl)
+T1725	NCBITaxon 64539 64546	animals
+#1725	AnnotatorNotes T1725	NCBITaxon:33208 (Metazoa)
+T1726	GO_BP 64547 64551	born
+#1726	AnnotatorNotes T1726	GO:0007567 (parturition)
+T1727	PR 64577 64579	Aβ
+#1727	AnnotatorNotes T1727	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1728	NCBITaxon 64614 64621	animals
+#1728	AnnotatorNotes T1728	NCBITaxon:33208 (Metazoa)
+T1729	italic 64623 64626	p >
+#1729	AnnotatorNotes T1729	italic (null)
+T1730	italic 64675 64676	F
+#1730	AnnotatorNotes T1730	italic (null)
+T1731	sub 64676 64680	4,24
+#1731	AnnotatorNotes T1731	sub (null)
+T1732	italic 64700 64703	p <
+#1732	AnnotatorNotes T1732	italic (null)
+T1733	PR 64715 64719	Aβ40
+#1733	AnnotatorNotes T1733	PR:000025584 (beta-amyloid protein 40)
+T1734	PR 64724 64728	Aβ42
+#1734	AnnotatorNotes T1734	PR:000025583 (beta-amyloid protein 42)
+T1735	SO 64761 64770	transgene
+#1735	AnnotatorNotes T1735	SO:0000902 (transgene)
+T1736	GO_BP 64771 64782	suppression
+#1736	AnnotatorNotes T1736	GO:0048519 (negative regulation of biological process)
+T1737	GO_BP 64798 64807	synthesis
+#1737	AnnotatorNotes T1737	GO:0009058 (biosynthetic process)
+T1738	SO 64816 64824	peptides
+#1738	AnnotatorNotes T1738	SO:0001407 (peptidyl)
+T1739	GO_BP 64852 64862	suppresses
+#1739	AnnotatorNotes T1739	GO:0048519 (negative regulation of biological process)
+T1740	PR 64863 64867	Aβ40
+#1740	AnnotatorNotes T1740	PR:000025584 (beta-amyloid protein 40)
+T1741	italic 64876 64879	p >
+#1741	AnnotatorNotes T1741	italic (null)
+T1742	PR 64950 64954	Aβ42
+#1742	AnnotatorNotes T1742	PR:000025583 (beta-amyloid protein 42)
+T1743	PR 64969 64973	Aβ42
+#1743	AnnotatorNotes T1743	PR:000025583 (beta-amyloid protein 42)
+T1744	NCBITaxon 65008 65015	animals
+#1744	AnnotatorNotes T1744	NCBITaxon:33208 (Metazoa)
+T1745	CHEBI 65067 65070	SDS
+#1745	AnnotatorNotes T1745	CHEBI:8984 (sodium dodecyl sulfate)
+T1746	CHEBI 65075 65077	FA
+#1746	AnnotatorNotes T1746	CHEBI:30751 (formic acid)
+T1747	GO_CC 65078 65087	fractions
+#1747	AnnotatorNotes T1747	GO:0000267 (cell fraction)
+T1748	italic 65092 65095	p <
+#1748	AnnotatorNotes T1748	italic (null)
+T1749	italic 65106 65109	p <
+#1749	AnnotatorNotes T1749	italic (null)
+T1750	italic 65122 65125	p <
+#1750	AnnotatorNotes T1750	italic (null)
+T1751	NCBITaxon 65158 65162	mice
+#1751	AnnotatorNotes T1751	NCBITaxon:10088 (Mus)
+T1752	SO 65243 65252	Transgene
+#1752	AnnotatorNotes T1752	SO:0000902 (transgene)
+T1753	GO_BP 65253 65264	Suppression
+#1753	AnnotatorNotes T1753	GO:0048519 (negative regulation of biological process)
+T1754	NCBITaxon 65274 65278	Mice
+#1754	AnnotatorNotes T1754	NCBITaxon:10088 (Mus)
+T1755	NCBITaxon 65361 65368	animals
+#1755	AnnotatorNotes T1755	NCBITaxon:33208 (Metazoa)
+T1756	NCBITaxon 65447 65452	human
+#1756	AnnotatorNotes T1756	NCBITaxon:9606 (Homo sapiens)
+T1757	GO_CC 65462 65470	antibody
+#1757	AnnotatorNotes T1757	GO:0019814 (immunoglobulin complex)
+T1758	SO 65487 65496	transgene
+#1758	AnnotatorNotes T1758	SO:0000902 (transgene)
+T1759	GO_BP 65497 65508	suppression
+#1759	AnnotatorNotes T1759	GO:0048519 (negative regulation of biological process)
+T1760	EntrezGene 65592 65614	superoxide dismutase 1
+#1760	AnnotatorNotes T1760	EG:20655
+T1761	PR 65592 65614	superoxide dismutase 1
+#1761	AnnotatorNotes T1761	PR:000015399 (superoxide dismutase [Cu-Zn])
+T1762	GO_MF 65592 65612	superoxide dismutase
+#1762	AnnotatorNotes T1762	GO:0004784 (superoxide dismutase activity)
+T1763	independent_continuant 65592 65612	superoxide dismutase
+#1763	AnnotatorNotes T1763	independent_continuant
+T1764	CHEBI 65592 65602	superoxide
+#1764	AnnotatorNotes T1764	CHEBI:18421 (superoxide)
+T1765	EntrezGene 65616 65620	SOD1
+#1765	AnnotatorNotes T1765	EG:20655
+T1766	PR 65616 65620	SOD1
+#1766	AnnotatorNotes T1766	PR:000015399 (superoxide dismutase [Cu-Zn])
+T1767	SO 65722 65732	Transgenic
+#1767	AnnotatorNotes T1767	SO:0000902 (transgene)
+T1768	EntrezGene 65733 65736	APP
+#1768	AnnotatorNotes T1768	EG:11820
+T1769	PR 65733 65736	APP
+#1769	AnnotatorNotes T1769	PR:000004168 (amyloid beta A4 protein)
+T1770	GO_BP 65762 65772	suppressed
+#1770	AnnotatorNotes T1770	GO:0048519 (negative regulation of biological process)
+T1771	italic 65846 65849	p <
+#1771	AnnotatorNotes T1771	italic (null)
+T1772	NCBITaxon 65887 65894	animals
+#1772	AnnotatorNotes T1772	NCBITaxon:33208 (Metazoa)
+T1773	italic 65961 65962	F
+#1773	AnnotatorNotes T1773	italic (null)
+T1774	sub 65962 65966	3,12
+#1774	AnnotatorNotes T1774	sub (null)
+T1775	italic 65977 65980	p <
+#1775	AnnotatorNotes T1775	italic (null)
+T1776	SO 66023 66032	transgene
+#1776	AnnotatorNotes T1776	SO:0000902 (transgene)
+T1777	GO_BP 66033 66044	suppression
+#1777	AnnotatorNotes T1777	GO:0048519 (negative regulation of biological process)
+T1778	PR 66213 66215	Aβ
+#1778	AnnotatorNotes T1778	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1779	GO_BP 66216 66227	suppression
+#1779	AnnotatorNotes T1779	GO:0048519 (negative regulation of biological process)
+T1780	NCBITaxon 66345 66352	animals
+#1780	AnnotatorNotes T1780	NCBITaxon:33208 (Metazoa)
+T1781	SO 66460 66469	transgene
+#1781	AnnotatorNotes T1781	SO:0000902 (transgene)
+T1782	GO_BP 66470 66481	suppression
+#1782	AnnotatorNotes T1782	GO:0048519 (negative regulation of biological process)
+T1783	EntrezGene 66503 66506	APP
+#1783	AnnotatorNotes T1783	EG:11820
+T1784	PR 66503 66506	APP
+#1784	AnnotatorNotes T1784	PR:000004168 (amyloid beta A4 protein)
+T1785	NCBITaxon 66507 66511	mice
+#1785	AnnotatorNotes T1785	NCBITaxon:10088 (Mus)
+T1786	PR 66551 66554	ind
+#1786	AnnotatorNotes T1786	PR:000025572 (amyloid beta A4 protein sequence variant APPV717F (human))
+T1787	NCBITaxon 66599 66603	mice
+#1787	AnnotatorNotes T1787	NCBITaxon:10088 (Mus)
+T1788	EntrezGene 66683 66686	APP
+#1788	AnnotatorNotes T1788	EG:11820
+T1789	PR 66683 66686	APP
+#1789	AnnotatorNotes T1789	PR:000004168 (amyloid beta A4 protein)
+T1790	SO 66687 66697	C-terminal
+#1790	AnnotatorNotes T1790	SO:0100015 (c_terminal_region)
+T1791	CHEBI 66687 66688	C
+#1791	AnnotatorNotes T1791	CHEBI:18245 (carboxylato group)
+T1792	CHEBI 66687 66688	C
+#1792	AnnotatorNotes T1792	CHEBI:46883 (carboxy group)
+T1793	SO 66698 66707	fragments
+#1793	AnnotatorNotes T1793	SO:0000731 (fragmentary)
+T1794	GO_CC 66718 66726	antibody
+#1794	AnnotatorNotes T1794	GO:0019814 (immunoglobulin complex)
+T1795	PR 66758 66760	Aβ
+#1795	AnnotatorNotes T1795	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1796	GO_BP 66761 66769	cleavage
+#1796	AnnotatorNotes T1796	GO:0030908 (protein splicing)
+T1797	CHEBI 66817 66824	protein
+#1797	AnnotatorNotes T1797	CHEBI:36080 (proteins)
+T1798	EntrezGene 66856 66878	superoxide dismutase 1
+#1798	AnnotatorNotes T1798	EG:20655
+T1799	PR 66856 66878	superoxide dismutase 1
+#1799	AnnotatorNotes T1799	PR:000015399 (superoxide dismutase [Cu-Zn])
+T1800	GO_MF 66856 66876	superoxide dismutase
+#1800	AnnotatorNotes T1800	GO:0004784 (superoxide dismutase activity)
+T1801	independent_continuant 66856 66876	superoxide dismutase
+#1801	AnnotatorNotes T1801	independent_continuant
+T1802	CHEBI 66856 66866	superoxide
+#1802	AnnotatorNotes T1802	CHEBI:18421 (superoxide)
+T1803	GO_BP 66986 66997	Suppression
+#1803	AnnotatorNotes T1803	GO:0048519 (negative regulation of biological process)
+T1804	SO 67001 67011	Transgenic
+#1804	AnnotatorNotes T1804	SO:0000902 (transgene)
+T1805	EntrezGene 67012 67015	APP
+#1805	AnnotatorNotes T1805	EG:11820
+T1806	PR 67012 67015	APP
+#1806	AnnotatorNotes T1806	PR:000004168 (amyloid beta A4 protein)
+T1807	PR 67073 67075	Aβ
+#1807	AnnotatorNotes T1807	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1808	EntrezGene 67143 67146	APP
+#1808	AnnotatorNotes T1808	EG:11820
+T1809	PR 67143 67146	APP
+#1809	AnnotatorNotes T1809	PR:000004168 (amyloid beta A4 protein)
+T1810	NCBITaxon 67147 67151	mice
+#1810	AnnotatorNotes T1810	NCBITaxon:10088 (Mus)
+T1811	CHEBI 67210 67217	protein
+#1811	AnnotatorNotes T1811	CHEBI:36080 (proteins)
+T1812	CHEBI 67261 67268	acetate
+#1812	AnnotatorNotes T1812	CHEBI:30089 (acetate)
+T1813	CHEBI 67277 67284	protein
+#1813	AnnotatorNotes T1813	CHEBI:36080 (proteins)
+T1814	PR 67357 67359	Aβ
+#1814	AnnotatorNotes T1814	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1815	PR 67541 67543	Aβ
+#1815	AnnotatorNotes T1815	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1816	NCBITaxon 67607 67611	mice
+#1816	AnnotatorNotes T1816	NCBITaxon:10088 (Mus)
+T1817	italic 67647 67648	F
+#1817	AnnotatorNotes T1817	italic (null)
+T1818	sub 67648 67652	3,18
+#1818	AnnotatorNotes T1818	sub (null)
+T1819	italic 67661 67664	p <
+#1819	AnnotatorNotes T1819	italic (null)
+T1820	SO 67731 67740	transgene
+#1820	AnnotatorNotes T1820	SO:0000902 (transgene)
+T1821	GO_BP 67741 67752	suppression
+#1821	AnnotatorNotes T1821	GO:0048519 (negative regulation of biological process)
+T1822	PR 67779 67781	Aβ
+#1822	AnnotatorNotes T1822	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1823	NCBITaxon 67809 67813	mice
+#1823	AnnotatorNotes T1823	NCBITaxon:10088 (Mus)
+T1824	NCBITaxon 67856 67863	animals
+#1824	AnnotatorNotes T1824	NCBITaxon:33208 (Metazoa)
+T1825	italic 67882 67885	p >
+#1825	AnnotatorNotes T1825	italic (null)
+T1826	SO 67920 67930	transgenic
+#1826	AnnotatorNotes T1826	SO:0000902 (transgene)
+T1827	italic 68020 68023	p <
+#1827	AnnotatorNotes T1827	italic (null)
+T1828	italic 68034 68037	p <
+#1828	AnnotatorNotes T1828	italic (null)
+T1829	NCBITaxon 68070 68074	mice
+#1829	AnnotatorNotes T1829	NCBITaxon:10088 (Mus)
+T1830	italic 68102 68105	p <
+#1830	AnnotatorNotes T1830	italic (null)
+T1831	NCBITaxon 68138 68142	mice
+#1831	AnnotatorNotes T1831	NCBITaxon:10088 (Mus)
+T1832	italic 68154 68155	t
+#1832	AnnotatorNotes T1832	italic (null)
+T1833	NCBITaxon 68222 68226	mice
+#1833	AnnotatorNotes T1833	NCBITaxon:10088 (Mus)
+T1834	CHEBI 68261 68267	silver
+#1834	AnnotatorNotes T1834	CHEBI:30512 (silver)
+T1835	PR 68316 68318	Aβ
+#1835	AnnotatorNotes T1835	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1836	NCBITaxon 68431 68438	animals
+#1836	AnnotatorNotes T1836	NCBITaxon:33208 (Metazoa)
+T1837	SO 68462 68471	transgene
+#1837	AnnotatorNotes T1837	SO:0000902 (transgene)
+T1838	GO_BP 68472 68482	suppressed
+#1838	AnnotatorNotes T1838	GO:0048519 (negative regulation of biological process)
+T1839	NCBITaxon 68483 68487	mice
+#1839	AnnotatorNotes T1839	NCBITaxon:10088 (Mus)
+T1840	SO 68555 68565	transgenic
+#1840	AnnotatorNotes T1840	SO:0000902 (transgene)
+T1841	NCBITaxon 68566 68573	animals
+#1841	AnnotatorNotes T1841	NCBITaxon:33208 (Metazoa)
+T1842	PR 68660 68662	Aβ
+#1842	AnnotatorNotes T1842	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1843	SO 68721 68728	Peptide
+#1843	AnnotatorNotes T1843	SO:0001407 (peptidyl)
+T1844	NCBITaxon 68732 68736	Mice
+#1844	AnnotatorNotes T1844	NCBITaxon:10088 (Mus)
+T1845	PR 68766 68768	Aβ
+#1845	AnnotatorNotes T1845	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1846	EntrezGene 68809 68812	APP
+#1846	AnnotatorNotes T1846	EG:11820
+T1847	PR 68809 68812	APP
+#1847	AnnotatorNotes T1847	PR:000004168 (amyloid beta A4 protein)
+T1848	NCBITaxon 68822 68826	mice
+#1848	AnnotatorNotes T1848	NCBITaxon:10088 (Mus)
+T1849	NCBITaxon 68890 68897	animals
+#1849	AnnotatorNotes T1849	NCBITaxon:33208 (Metazoa)
+T1850	SO 68944 68954	transgenic
+#1850	AnnotatorNotes T1850	SO:0000902 (transgene)
+T1851	EntrezGene 68955 68958	APP
+#1851	AnnotatorNotes T1851	EG:11820
+T1852	PR 68955 68958	APP
+#1852	AnnotatorNotes T1852	PR:000004168 (amyloid beta A4 protein)
+T1853	CHEBI 69091 69094	SDS
+#1853	AnnotatorNotes T1853	CHEBI:8984 (sodium dodecyl sulfate)
+T1854	CHEBI 69104 69106	FA
+#1854	AnnotatorNotes T1854	CHEBI:30751 (formic acid)
+T1855	NCBITaxon 69119 69124	human
+#1855	AnnotatorNotes T1855	NCBITaxon:9606 (Homo sapiens)
+T1856	PR 69134 69136	Aβ
+#1856	AnnotatorNotes T1856	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1857	SO 69154 69163	transgene
+#1857	AnnotatorNotes T1857	SO:0000902 (transgene)
+T1858	SO 69172 69179	peptide
+#1858	AnnotatorNotes T1858	SO:0001407 (peptidyl)
+T1859	GO_CC 69188 69196	fraction
+#1859	AnnotatorNotes T1859	GO:0000267 (cell fraction)
+T1860	PR 69198 69202	Aβ40
+#1860	AnnotatorNotes T1860	PR:000025584 (beta-amyloid protein 40)
+T1861	PR 69222 69226	Aβ42
+#1861	AnnotatorNotes T1861	PR:000025583 (beta-amyloid protein 42)
+T1862	PR 69253 69255	Aβ
+#1862	AnnotatorNotes T1862	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1863	NCBITaxon 69288 69292	mice
+#1863	AnnotatorNotes T1863	NCBITaxon:10088 (Mus)
+T1864	CHEBI 69315 69317	FA
+#1864	AnnotatorNotes T1864	CHEBI:30751 (formic acid)
+T1865	CHEBI 69322 69325	SDS
+#1865	AnnotatorNotes T1865	CHEBI:8984 (sodium dodecyl sulfate)
+T1866	GO_CC 69326 69335	fractions
+#1866	AnnotatorNotes T1866	GO:0000267 (cell fraction)
+T1867	CHEBI 69395 69398	SDS
+#1867	AnnotatorNotes T1867	CHEBI:8984 (sodium dodecyl sulfate)
+T1868	CHEBI 69404 69406	FA
+#1868	AnnotatorNotes T1868	CHEBI:30751 (formic acid)
+T1869	PR 69417 69419	Aβ
+#1869	AnnotatorNotes T1869	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1870	NCBITaxon 69449 69453	mice
+#1870	AnnotatorNotes T1870	NCBITaxon:10088 (Mus)
+T1871	NCBITaxon 69507 69511	mice
+#1871	AnnotatorNotes T1871	NCBITaxon:10088 (Mus)
+T1872	CHEBI 69582 69585	SDS
+#1872	AnnotatorNotes T1872	CHEBI:8984 (sodium dodecyl sulfate)
+T1873	CHEBI 69590 69592	FA
+#1873	AnnotatorNotes T1873	CHEBI:30751 (formic acid)
+T1874	GO_CC 69593 69602	fractions
+#1874	AnnotatorNotes T1874	GO:0000267 (cell fraction)
+T1875	italic 69603 69604	F
+#1875	AnnotatorNotes T1875	italic (null)
+T1876	sub 69604 69608	3,18
+#1876	AnnotatorNotes T1876	sub (null)
+T1877	italic 69623 69626	p <
+#1877	AnnotatorNotes T1877	italic (null)
+T1878	SO 69660 69669	transgene
+#1878	AnnotatorNotes T1878	SO:0000902 (transgene)
+T1879	GO_BP 69670 69681	suppression
+#1879	AnnotatorNotes T1879	GO:0048519 (negative regulation of biological process)
+T1880	PR 69687 69689	Aβ
+#1880	AnnotatorNotes T1880	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1881	italic 69757 69760	p >
+#1881	AnnotatorNotes T1881	italic (null)
+T1882	NCBITaxon 69792 69796	mice
+#1882	AnnotatorNotes T1882	NCBITaxon:10088 (Mus)
+T1883	italic 69823 69826	p <
+#1883	AnnotatorNotes T1883	italic (null)
+T1884	italic 69837 69840	p <
+#1884	AnnotatorNotes T1884	italic (null)
+T1885	italic 69853 69856	p <
+#1885	AnnotatorNotes T1885	italic (null)
+T1886	NCBITaxon 69889 69893	mice
+#1886	AnnotatorNotes T1886	NCBITaxon:10088 (Mus)
+T1887	EntrezGene 69933 69936	APP
+#1887	AnnotatorNotes T1887	EG:11820
+T1888	PR 69933 69936	APP
+#1888	AnnotatorNotes T1888	PR:000004168 (amyloid beta A4 protein)
+T1889	NCBITaxon 69963 69967	mice
+#1889	AnnotatorNotes T1889	NCBITaxon:10088 (Mus)
+T1890	italic 69990 69991	t
+#1890	AnnotatorNotes T1890	italic (null)
+T1891	GO_CC 70011 70019	fraction
+#1891	AnnotatorNotes T1891	GO:0000267 (cell fraction)
+T1892	PR 70055 70057	Aβ
+#1892	AnnotatorNotes T1892	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1893	italic 70078 70079	y
+#1893	AnnotatorNotes T1893	italic (null)
+T1894	PR 70121 70123	Aβ
+#1894	AnnotatorNotes T1894	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1895	NCBITaxon 70150 70154	mice
+#1895	AnnotatorNotes T1895	NCBITaxon:10088 (Mus)
+T1896	NCBITaxon 70194 70198	mice
+#1896	AnnotatorNotes T1896	NCBITaxon:10088 (Mus)
+T1897	SO 70214 70222	peptides
+#1897	AnnotatorNotes T1897	SO:0001407 (peptidyl)
+T1898	NCBITaxon 70296 70300	mice
+#1898	AnnotatorNotes T1898	NCBITaxon:10088 (Mus)
+T1899	PR 70307 70311	Aβ40
+#1899	AnnotatorNotes T1899	PR:000025584 (beta-amyloid protein 40)
+T1900	italic 70346 70349	p <
+#1900	AnnotatorNotes T1900	italic (null)
+T1901	PR 70425 70429	Aβ40
+#1901	AnnotatorNotes T1901	PR:000025584 (beta-amyloid protein 40)
+T1902	italic 70430 70431	F
+#1902	AnnotatorNotes T1902	italic (null)
+T1903	sub 70431 70435	3,18
+#1903	AnnotatorNotes T1903	sub (null)
+T1904	italic 70444 70447	p <
+#1904	AnnotatorNotes T1904	italic (null)
+T1905	PR 70484 70488	Aβ42
+#1905	AnnotatorNotes T1905	PR:000025583 (beta-amyloid protein 42)
+T1906	PR 70556 70560	Aβ42
+#1906	AnnotatorNotes T1906	PR:000025583 (beta-amyloid protein 42)
+T1907	italic 70562 70563	F
+#1907	AnnotatorNotes T1907	italic (null)
+T1908	sub 70563 70567	3,18
+#1908	AnnotatorNotes T1908	sub (null)
+T1909	italic 70576 70579	p <
+#1909	AnnotatorNotes T1909	italic (null)
+T1910	italic 70677 70680	p <
+#1910	AnnotatorNotes T1910	italic (null)
+T1911	NCBITaxon 70712 70716	mice
+#1911	AnnotatorNotes T1911	NCBITaxon:10088 (Mus)
+T1912	italic 70744 70747	p <
+#1912	AnnotatorNotes T1912	italic (null)
+T1913	NCBITaxon 70780 70784	mice
+#1913	AnnotatorNotes T1913	NCBITaxon:10088 (Mus)
+T1914	italic 70796 70797	t
+#1914	AnnotatorNotes T1914	italic (null)
+T1915	CL 70828 70833	Glial
+#1915	AnnotatorNotes T1915	CL:0000125 (glial cell)
+T1916	SO 70868 70877	Transgene
+#1916	AnnotatorNotes T1916	SO:0000902 (transgene)
+T1917	GO_BP 70878 70889	Suppression
+#1917	AnnotatorNotes T1917	GO:0048519 (negative regulation of biological process)
+T1918	GO_BP 70915 70924	activated
+#1918	AnnotatorNotes T1918	GO:0001775 (cell activation)
+T1919	CL 70925 70935	astrocytes
+#1919	AnnotatorNotes T1919	CL:0000127 (astrocyte)
+T1920	EntrezGene 70977 70980	APP
+#1920	AnnotatorNotes T1920	EG:11820
+T1921	PR 70977 70980	APP
+#1921	AnnotatorNotes T1921	PR:000004168 (amyloid beta A4 protein)
+T1922	NCBITaxon 70981 70985	mice
+#1922	AnnotatorNotes T1922	NCBITaxon:10088 (Mus)
+T1923	GO_BP 71042 71050	reactive
+#1923	AnnotatorNotes T1923	GO:0050896 (response to stimulus)
+T1924	CL 71051 71061	astrocytes
+#1924	AnnotatorNotes T1924	CL:0000127 (astrocyte)
+T1925	NCBITaxon 71158 71162	mice
+#1925	AnnotatorNotes T1925	NCBITaxon:10088 (Mus)
+T1926	SO 71239 71248	transgene
+#1926	AnnotatorNotes T1926	SO:0000902 (transgene)
+T1927	GO_BP 71249 71260	suppression
+#1927	AnnotatorNotes T1927	GO:0048519 (negative regulation of biological process)
+T1928	CHEBI 71269 71275	silver
+#1928	AnnotatorNotes T1928	CHEBI:30512 (silver)
+T1929	EntrezGene 71293 71297	GFAP
+#1929	AnnotatorNotes T1929	EG:14580
+T1930	PR 71293 71297	GFAP
+#1930	AnnotatorNotes T1930	PR:000007939 (glial fibrillary acidic protein)
+T1931	SO 71389 71398	Transgene
+#1931	AnnotatorNotes T1931	SO:0000902 (transgene)
+T1932	GO_BP 71399 71410	Suppression
+#1932	AnnotatorNotes T1932	GO:0048519 (negative regulation of biological process)
+T1933	EntrezGene 71443 71446	APP
+#1933	AnnotatorNotes T1933	EG:11820
+T1934	PR 71443 71446	APP
+#1934	AnnotatorNotes T1934	PR:000004168 (amyloid beta A4 protein)
+T1935	NCBITaxon 71447 71451	Mice
+#1935	AnnotatorNotes T1935	NCBITaxon:10088 (Mus)
+T1936	GO_BP 71475 71485	ambulation
+#1936	AnnotatorNotes T1936	GO:0040011 (locomotion)
+T1937	SO 71536 71546	transgenic
+#1937	AnnotatorNotes T1937	SO:0000902 (transgene)
+T1938	NCBITaxon 71547 71551	mice
+#1938	AnnotatorNotes T1938	NCBITaxon:10088 (Mus)
+T1939	SO 71571 71581	transgenic
+#1939	AnnotatorNotes T1939	SO:0000902 (transgene)
+T1940	SO 71683 71693	transgenic
+#1940	AnnotatorNotes T1940	SO:0000902 (transgene)
+T1941	NCBITaxon 71694 71698	mice
+#1941	AnnotatorNotes T1941	NCBITaxon:10088 (Mus)
+T1942	SO 71911 71919	genotype
+#1942	AnnotatorNotes T1942	SO:0001027 (genotype)
+T1943	SO 71940 71950	transgenic
+#1943	AnnotatorNotes T1943	SO:0000902 (transgene)
+T1944	EntrezGene 72034 72037	APP
+#1944	AnnotatorNotes T1944	EG:11820
+T1945	PR 72034 72037	APP
+#1945	AnnotatorNotes T1945	PR:000004168 (amyloid beta A4 protein)
+T1946	NCBITaxon 72038 72045	animals
+#1946	AnnotatorNotes T1946	NCBITaxon:33208 (Metazoa)
+T1947	italic 72063 72064	y
+#1947	AnnotatorNotes T1947	italic (null)
+T1948	GO_BP 72244 72272	suppression of Aβ production
+#1948	AnnotatorNotes T1948	"suppression of .. production" GO:0009890 (negative regulation of biosynthetic process)
+T1949	PR 72259 72261	Aβ
+#1949	AnnotatorNotes T1949	PR:000019036 (amyloid beta A4 protein proteolytic cleavage product)
+T1950	GO_BP 72262 72272	production
+#1950	AnnotatorNotes T1950	GO:0009058 (biosynthetic process)
+T1951	SO 72278 72288	transgenic
+#1951	AnnotatorNotes T1951	SO:0000902 (transgene)
