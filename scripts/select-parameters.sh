@@ -14,6 +14,8 @@ INPUTDIR="$CRAFTROOT/train-and-devel-standoff-separated"
 
 OUTPUTDIR="$CRAFTROOT/parameter-selection-results"
 
+NOHUPDIR="nohup"
+
 RANDOMSEED="0c31e182-0d8a-40d8-94da-b2e1aa41ec8f"
 
 EVALUATOR="$HOME/git_checkout/semsuite/semsuite eval -a -x 10 -r $RANDOMSEED"
@@ -21,11 +23,14 @@ EVALUATOR="$HOME/git_checkout/semsuite/semsuite eval -a -x 10 -r $RANDOMSEED"
 rm -rf "$OUTPUTDIR"
 mkdir "$OUTPUTDIR"
 
+mkdir -p "$NOHUPDIR"
+
 for d in "$INPUTDIR"/*; do
     t=`basename $d`
-    o="$OUTPUTDIR/$t"
+    o="$OUTPUTDIR/${t}-results.txt"
+    n="$NOHUPDIR/nohup.out.$t"
     nohup $EVALUATOR \
 	-c2 '(2**{5..-10..-1})' \
 	-b 'B-*:{-5..5..0.5}' \
-	$d > $o 2>nohup.out.$t&
+	"$d" > "$o" 2>"$n" &
 done
