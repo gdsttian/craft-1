@@ -1,0 +1,282 @@
+T1	EntrezGene 4 23	Zebrafish moonshine
+T6	EntrezGene 37 75	Transcriptional Intermediary Factor 1γ
+T21	EntrezGene 301 320	zebrafish moonshine
+T25	EntrezGene 322 325	mon
+T33	EntrezGene 452 455	mon
+T51	EntrezGene 676 679	mon
+T60	EntrezGene 768 773	gata1
+T64	EntrezGene 814 817	mon
+T74	EntrezGene 905 910	tif1γ
+T80	EntrezGene 962 965	mon
+T86	EntrezGene 1013 1018	tif1γ
+T96	EntrezGene 1128 1133	gata1
+T100	EntrezGene 1182 1187	tif1γ
+T108	EntrezGene 1334 1339	Tif1γ
+T184	EntrezGene 3065 3070	gata1
+T190	EntrezGene 3178 3187	moonshine
+T192	EntrezGene 3189 3192	mon
+T196	EntrezGene 3245 3252	vampire
+T199	EntrezGene 3326 3329	mon
+T209	EntrezGene 3495 3498	mon
+T221	EntrezGene 3661 3664	mon
+T292	EntrezGene 5161 5166	Tif1β
+T311	EntrezGene 5617 5622	tif1γ
+T317	EntrezGene 5692 5697	tif1γ
+T326	EntrezGene 5831 5836	Tif1γ
+T336	EntrezGene 6008 6013	Tif1γ
+T341	EntrezGene 6092 6105	Zebrafish mon
+T348	EntrezGene 6205 6208	mon
+T358	EntrezGene 6328 6331	mon
+T362	EntrezGene 6381 6394	zebrafish mon
+T373	EntrezGene 6506 6509	mon
+T379	EntrezGene 6541 6546	gata1
+T393	EntrezGene 6847 6852	gata1
+T397	EntrezGene 6943 6948	gata1
+T399	EntrezGene 6950 6953	scl
+T401	EntrezGene 6955 6960	gata2
+T405	EntrezGene 6966 6972	ikaros
+T414	EntrezGene 7143 7146	mon
+T420	EntrezGene 7227 7232	c-myb
+T425	EntrezGene 7237 7241	rag1
+T427	EntrezGene 7263 7266	mon
+T435	EntrezGene 7373 7376	mon
+T441	EntrezGene 7484 7487	mon
+T449	EntrezGene 7616 7619	mon
+T459	EntrezGene 7834 7847	zebrafish mon
+T467	EntrezGene 7870 7873	mon
+T473	EntrezGene 7960 7963	mon
+T479	EntrezGene 8076 8079	mon
+T489	EntrezGene 8413 8416	mon
+T500	EntrezGene 8618 8621	mon
+T506	EntrezGene 8724 8727	mon
+T512	EntrezGene 8792 8795	mon
+T522	EntrezGene 8962 8965	mon
+T576	EntrezGene 10163 10166	mon
+T585	EntrezGene 10280 10283	mon
+T587	EntrezGene 10303 10313	human TIFγ
+T598	EntrezGene 10498 10501	mon
+T610	EntrezGene 10622 10627	TIF1γ
+T618	EntrezGene 10712 10716	NRAS
+T627	EntrezGene 10859 10872	zebrafish mon
+T633	EntrezGene 10908 10919	human TIF1γ
+T645	EntrezGene 11014 11017	mon
+T680	EntrezGene 11594 11597	mon
+T698	EntrezGene 11916 11919	mon
+T703	EntrezGene 11985 11988	mon
+T706	EntrezGene 12022 12027	Tif1γ
+T710	EntrezGene 12057 12060	mon
+T711	EntrezGene 12103 12108	tif1γ
+T720	EntrezGene 12234 12239	tif1γ
+T728	EntrezGene 12390 12393	mon
+T732	EntrezGene 12494 12499	tif1γ
+T735	EntrezGene 12628 12680	stem cell leukemiahematopoietic transcription factor
+T744	EntrezGene 12682 12685	scl
+T750	EntrezGene 12748 12753	tif1γ
+T753	EntrezGene 12758 12761	scl
+T757	EntrezGene 12845 12850	tif1γ
+T766	EntrezGene 13021 13026	tif1γ
+T772	EntrezGene 13102 13117	zebrafish tif1γ
+T782	EntrezGene 13292 13295	mon
+T786	EntrezGene 13340 13353	zebrafish mon
+T790	EntrezGene 13357 13368	mouse Tif1γ
+T794	EntrezGene 13389 13400	Mouse Tif1γ
+T801	EntrezGene 13645 13658	zebrafish mon
+T805	EntrezGene 13663 13674	mouse Tif1γ
+T817	EntrezGene 13900 13905	tif1γ
+T833	EntrezGene 14111 14122	human TIF1α
+T843	EntrezGene 14193 14208	zebrafish tif1α
+T857	EntrezGene 14316 14321	TIF1α
+T864	EntrezGene 14409 14415	SEMA3A
+T872	EntrezGene 14541 14546	tif1α
+T877	EntrezGene 14555 14560	tif1γ
+T885	EntrezGene 14675 14690	zebrafish tif1γ
+T890	EntrezGene 14751 14766	zebrafish tif1α
+T897	EntrezGene 14882 14887	tif1γ
+T901	EntrezGene 14906 14911	tif1α
+T906	EntrezGene 15014 15019	tif1α
+T911	EntrezGene 15058 15063	tif1γ
+T916	EntrezGene 15151 15156	tif1γ
+T920	EntrezGene 15182 15185	mon
+T924	EntrezGene 15237 15252	zebrafish tif1γ
+T931	EntrezGene 15281 15284	mon
+T938	EntrezGene 15401 15404	mon
+T967	EntrezGene 16011 16014	mon
+T976	EntrezGene 16138 16141	mon
+T981	EntrezGene 16282 16285	mon
+T986	EntrezGene 16397 16400	mon
+T990	EntrezGene 16429 16434	tif1γ
+T1014	EntrezGene 16732 16735	mon
+T1058	EntrezGene 17963 17973	vlad tepes
+T1059	EntrezGene 17975 17980	gata1
+T1067	EntrezGene 18074 18079	tif1γ
+T1072	EntrezGene 18258 18263	Tif1γ
+T1079	EntrezGene 18371 18376	Tif1γ
+T1092	EntrezGene 18508 18519	human TIF1γ
+T1095	EntrezGene 18524 18535	mouse Tif1γ
+T1101	EntrezGene 18604 18609	Tif1γ
+T1103	EntrezGene 18638 18643	Tif1γ
+T1108	EntrezGene 18712 18717	Tif1γ
+T1123	EntrezGene 19202 19207	Tif1γ
+T1126	EntrezGene 19263 19267	HP1α
+T1130	EntrezGene 19327 19332	Tif1γ
+T1133	EntrezGene 19358 19380	promyelocytic leukemia
+T1137	EntrezGene 19395 19398	PML
+T1143	EntrezGene 19450 19455	Mre11
+T1147	EntrezGene 19497 19503	TFII-B
+T1150	EntrezGene 19559 19564	Tif1γ
+T1169	EntrezGene 19855 19860	Tif1γ
+T1175	EntrezGene 19987 20000	zebrafish mon
+T1188	EntrezGene 20173 20178	Tif1γ
+T1192	EntrezGene 20242 20247	Tif1γ
+T1198	EntrezGene 20416 20421	Tif1γ
+T1215	EntrezGene 20840 20849	moonshine
+T1219	EntrezGene 20916 20919	mon
+T1223	EntrezGene 20998 21003	Tif1γ
+T1228	EntrezGene 21044 21047	mon
+T1235	EntrezGene 21185 21198	zebrafish mon
+T1243	EntrezGene 21258 21263	Tif1γ
+T1250	EntrezGene 21437 21452	zebrafish tif1γ
+T1268	EntrezGene 21589 21604	Zebrafish tif1γ
+T1282	EntrezGene 21710 21715	TIF1γ
+T1286	EntrezGene 21750 21755	tif1γ
+T1290	EntrezGene 21788 21791	mon
+T1299	EntrezGene 21863 21868	tif1γ
+T1301	EntrezGene 21869 21874	Tif1γ
+T1314	EntrezGene 22036 22041	tif1γ
+T1321	EntrezGene 22084 22087	mon
+T1337	EntrezGene 22444 22449	Tif1γ
+T1374	EntrezGene 23048 23061	zebrafish mon
+T1388	EntrezGene 23246 23251	tif1γ
+T1396	EntrezGene 23379 23382	mon
+T1410	EntrezGene 23587 23592	gata1
+T1416	EntrezGene 23658 23661	mon
+T1424	EntrezGene 23733 23738	gata1
+T1438	EntrezGene 23941 23944	scl
+T1440	EntrezGene 23949 23954	gata2
+T1467	EntrezGene 24483 24486	mon
+T1470	EntrezGene 24514 24519	tif1γ
+T1475	EntrezGene 24608 24611	mon
+T1478	EntrezGene 24672 24677	Tif1γ
+T1481	EntrezGene 24700 24715	zebrafish Tif1γ
+T1492	EntrezGene 24922 24925	mon
+T1500	EntrezGene 25039 25042	mon
+T1505	EntrezGene 25110 25115	tif1γ
+T1510	EntrezGene 25253 25256	mon
+T1516	EntrezGene 25316 25327	mouse Gata1
+T1520	EntrezGene 25349 25376	zebrafish vlad tepes (gata1
+T1521	EntrezGene 25349 25369	zebrafish vlad tepes
+T1528	EntrezGene 25505 25508	mon
+T1531	EntrezGene 25513 25518	gata1
+T1535	EntrezGene 25588 25593	gata1
+T1540	EntrezGene 25604 25607	mon
+T1544	EntrezGene 25651 25656	tif1γ
+T1549	EntrezGene 25667 25672	gata1
+T1564	EntrezGene 26033 26038	gata1
+T1567	EntrezGene 26043 26048	tif1γ
+T1570	EntrezGene 26148 26153	gata1
+T1573	EntrezGene 26158 26163	tif1γ
+T1580	EntrezGene 26246 26251	Tif1γ
+T1585	EntrezGene 26334 26339	tif1γ
+T1592	EntrezGene 26481 26486	Tif1γ
+T1616	EntrezGene 26962 26967	Tif1γ
+T1622	EntrezGene 27141 27144	PML
+T1625	EntrezGene 27169 27174	Tif1γ
+T1638	EntrezGene 27422 27427	Tif1γ
+T1653	EntrezGene 27656 27661	Tif1γ
+T1657	EntrezGene 27736 27741	Tif1γ
+T1698	EntrezGene 28780 28783	mon
+T1705	EntrezGene 28888 28891	mon
+T1735	EntrezGene 29758 29780	human C-terminal TIF1γ
+T1746	EntrezGene 30051 30056	Tif1γ
+T1807	EntrezGene 32189 32198	fly bonus
+T1810	EntrezGene 32211 32222	human TIF1α
+T1813	EntrezGene 32233 32244	human TIF1β
+T1816	EntrezGene 32255 32265	human TIFγ
+T1819	EntrezGene 32276 32287	human TIF1γ
+T1823	EntrezGene 32298 32301	mon
+T1825	EntrezGene 32313 32324	mouse Tif1α
+T1828	EntrezGene 32335 32346	mouse Tif1β
+T1831	EntrezGene 32363 32374	mouse Tif1γ
+T1834	EntrezGene 32392 32439	cDNA sequences of zebrafish mon/tif1γ and tif1α
+T1835	EntrezGene 32392 32429	cDNA sequences of zebrafish mon/tif1γ
+T1836	EntrezGene 32392 32423	cDNA sequences of zebrafish mon
+T1847	EntrezGene 32774 32777	mon
+T1859	EntrezGene 33356 33359	mon
+T1861	EntrezGene 33362 33371	moonshine
+T1864	EntrezGene 33378 33381	PML
+T1866	EntrezGene 33384 33406	promyelocytic leukemia
+T1872	EntrezGene 33445 33448	scl
+T1874	EntrezGene 33451 33469	stem cell leukemia
+T1879	EntrezGene 33576 33589	Zebrafish mon
+T1895	EntrezGene 33816 33821	gata1
+T1906	EntrezGene 34141 34144	scl
+T1908	EntrezGene 34146 34151	gata2
+T1910	EntrezGene 34153 34158	gata1
+T1912	EntrezGene 34160 34166	ikaros
+T1916	EntrezGene 34172 34175	myb
+T1923	EntrezGene 34211 34214	myb
+T1930	EntrezGene 34365 34369	rag1
+T1936	EntrezGene 34406 34409	mon
+T1939	EntrezGene 34514 34527	Zebrafish mon
+T1949	EntrezGene 34623 34626	mon
+T1969	EntrezGene 35063 35066	mon
+T1971	EntrezGene 35075 35090	Zebrafish tif1γ
+T1978	EntrezGene 35116 35119	mon
+T1994	EntrezGene 35426 35429	mon
+T1999	EntrezGene 35525 35528	mon
+T2005	EntrezGene 35605 35620	zebrafish tif1γ
+T2010	EntrezGene 35760 35804	zebrafish (Danio rerio [Dr]) Tif1γ and Tif1α
+T2011	EntrezGene 35760 35794	zebrafish (Danio rerio [Dr]) Tif1γ
+T2013	EntrezGene 35771 35804	Danio rerio [Dr]) Tif1γ and Tif1α
+T2014	EntrezGene 35771 35794	Danio rerio [Dr]) Tif1γ
+T2017	EntrezGene 35784 35804	Dr]) Tif1γ and Tif1α
+T2018	EntrezGene 35784 35794	Dr]) Tif1γ
+T2024	EntrezGene 35861 35895	human (Hs) TIF1α, TIF1β, and TIF1γ
+T2025	EntrezGene 35861 35884	human (Hs) TIF1α, TIF1β
+T2026	EntrezGene 35861 35877	human (Hs) TIF1α
+T2028	EntrezGene 35868 35895	Hs) TIF1α, TIF1β, and TIF1γ
+T2029	EntrezGene 35868 35884	Hs) TIF1α, TIF1β
+T2030	EntrezGene 35868 35877	Hs) TIF1α
+T2036	EntrezGene 35897 35931	mouse (Mm) Tif1α, Tif1β, and Tif1γ
+T2037	EntrezGene 35897 35920	mouse (Mm) Tif1α, Tif1β
+T2038	EntrezGene 35897 35913	mouse (Mm) Tif1α
+T2040	EntrezGene 35904 35931	Mm) Tif1α, Tif1β, and Tif1γ
+T2041	EntrezGene 35904 35920	Mm) Tif1α, Tif1β
+T2042	EntrezGene 35904 35913	Mm) Tif1α
+T2048	EntrezGene 35938 35952	fly (Dm) bonus
+T2050	EntrezGene 35943 35952	Dm) bonus
+T2054	EntrezGene 36002 36007	Tif1γ
+T2062	EntrezGene 36265 36290	zebrafish and human TIF1γ
+T2064	EntrezGene 36279 36290	human TIF1γ
+T2075	EntrezGene 36476 36479	mon
+T2077	EntrezGene 36480 36485	tif1γ
+T2087	EntrezGene 36627 36632	tif1γ
+T2089	EntrezGene 36634 36639	tif1γ
+T2097	EntrezGene 36707 36712	tif1γ
+T2100	EntrezGene 36846 36851	tif1γ
+T2105	EntrezGene 36923 36926	scl
+T2109	EntrezGene 36938 36943	tif1γ
+T2115	EntrezGene 37093 37108	Zebrafish tif1α
+T2121	EntrezGene 37197 37202	tif1γ
+T2123	EntrezGene 37204 37209	Tif1α
+T2131	EntrezGene 37371 37374	scl
+T2134	EntrezGene 37457 37462	tif1γ
+T2143	EntrezGene 37547 37552	Tif1γ
+T2149	EntrezGene 37816 37821	tif1γ
+T2155	EntrezGene 37888 37891	mon
+T2165	EntrezGene 37974 37979	Tif1γ
+T2180	EntrezGene 38240 38245	tif1γ
+T2215	EntrezGene 39098 39103	Tif1γ
+T2221	EntrezGene 39258 39263	Tif1γ
+T2223	EntrezGene 39293 39297	HP1α
+T2226	EntrezGene 39340 39344	HP1α
+T2232	EntrezGene 39433 39438	Tif1γ
+T2236	EntrezGene 39499 39504	Tif1γ
+T2238	EntrezGene 39522 39527	Gata1
+T2251	EntrezGene 39657 39662	tif1γ
+T2257	EntrezGene 39676 39679	mon
+T2264	EntrezGene 39725 39730	tif1γ
+T2272	EntrezGene 39829 39832	mon
+T2281	EntrezGene 40289 40292	mon
+T2306	EntrezGene 41561 41580	zebrafish moonshine
+T2311	EntrezGene 41594 41632	transcriptional intermediary factor 1γ

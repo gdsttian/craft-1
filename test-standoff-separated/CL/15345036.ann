@@ -1,0 +1,314 @@
+T8	CL 88 102	apoptotic cell
+T12	CL 150 165	apoptotic cells
+T19	CL 224 232	cellular
+T26	CL 289 299	phagocytes
+T29	CL 357 372	apoptotic cells
+T63	CL 1047 1061	apoptotic cell
+T69	CL 1125 1140	apoptotic cells
+T79	CL 1196 1207	macrophages
+T87	CL 1294 1309	apoptotic cells
+T98	CL 1462 1476	apoptotic cell
+T111	CL 1633 1647	apoptotic cell
+T114	CL 1661 1672	macrophages
+T116	CL 1721 1731	macrophage
+T125	CL 1862 1876	apoptotic cell
+T129	CL 1912 1916	cell
+T135	CL 2064 2068	cell
+T138	CL 2171 2176	cells
+T141	CL 2211 2216	cells
+T147	CL 2287 2291	cell
+T149	CL 2342 2357	Apoptotic cells
+T152	CL 2404 2409	cells
+T155	CL 2446 2456	phagocytes
+T156	CL 2475 2480	cells
+T162	CL 2634 2639	cells
+T166	CL 2702 2717	apoptotic cells
+T171	CL 2851 2866	apoptotic cells
+T184	CL 3044 3048	cell
+T189	CL 3093 3108	apoptotic cells
+T196	CL 3189 3204	apoptotic cells
+T209	CL 3387 3402	apoptotic cells
+T216	CL 3544 3559	apoptotic cells
+T243	CL 3922 3936	apoptotic cell
+T247	CL 4038 4052	apoptotic cell
+T256	CL 4176 4190	apoptotic cell
+T289	CL 4604 4619	apoptotic cells
+T296	CL 4764 4778	apoptotic cell
+T300	CL 4821 4825	cell
+T304	CL 4889 4904	apoptotic cells
+T321	CL 5162 5172	phagocytes
+T362	CL 5804 5819	apoptotic cells
+T377	CL 6019 6034	apoptotic cells
+T390	CL 6167 6175	platelet
+T394	CL 6347 6358	macrophages
+T395	CL 6364 6379	apoptotic cells
+T399	CL 6448 6463	apoptotic cells
+T403	CL 6537 6541	cell
+T414	CL 6695 6699	cell
+T430	CL 6906 6922	epithelial cells
+T433	CL 6959 6974	apoptotic cells
+T441	CL 7095 7109	apoptotic cell
+T471	CL 7732 7747	apoptotic cells
+T500	CL 8160 8175	stem (ES) cells
+T637	CL 11108 11113	cells
+T655	CL 11410 11414	cell
+T718	CL 13225 13230	cells
+T761	CL 14548 14564	epithelial cells
+T765	CL 14591 14595	cell
+T785	CL 15124 15140	epithelial cells
+T804	CL 15631 15639	cellular
+T807	CL 15711 15716	cells
+T809	CL 15773 15787	neuronal cells
+T852	CL 17126 17144	early erythroblast
+T879	CL 18071 18076	cells
+T914	CL 18634 18642	cellular
+T922	CL 18860 18865	cells
+T936	CL 19401 19427	pigmented epithelial cells
+T942	CL 19565 19580	pigmented cells
+T954	CL 20204 20208	cell
+T964	CL 20450 20465	apoptotic cells
+T975	CL 20576 20591	apoptotic cells
+T979	CL 20629 20633	cell
+T984	CL 20725 20755	cells in the distal mesenchyme
+T994	CL 20996 21000	cell
+T1009	CL 21153 21157	cell
+T1013	CL 21235 21239	cell
+T1022	CL 21430 21458	apoptotic interdigital cells
+T1027	CL 21527 21542	apoptotic cells
+T1046	CL 21852 21857	cells
+T1056	CL 22128 22132	cell
+T1059	CL 22286 22301	apoptotic cells
+T1066	CL 22444 22459	apoptotic cells
+T1080	CL 22540 22555	apoptotic cells
+T1093	CL 22681 22696	apoptotic cells
+T1098	CL 22782 22796	apoptotic cell
+T1105	CL 22926 22941	apoptotic cells
+T1112	CL 23166 23180	apoptotic cell
+T1122	CL 23285 23290	cells
+T1131	CL 23388 23392	cell
+T1152	CL 23700 23715	apoptotic cells
+T1172	CL 23933 23944	neutrophils
+T1179	CL 24063 24074	macrophages
+T1183	CL 24206 24216	macrophage
+T1188	CL 24300 24311	macrophages
+T1189	CL 24317 24332	apoptotic cells
+T1192	CL 24370 24385	apoptotic cells
+T1195	CL 24390 24401	macrophages
+T1198	CL 24580 24585	cells
+T1201	CL 24618 24633	apoptotic cells
+T1204	CL 24660 24671	macrophages
+T1207	CL 24739 24753	apoptotic cell
+T1215	CL 24852 24867	apoptotic cells
+T1218	CL 24919 24924	cells
+T1220	CL 24948 24959	macrophages
+T1226	CL 25018 25032	apoptotic cell
+T1231	CL 25108 25119	macrophages
+T1235	CL 25274 25279	cells
+T1239	CL 25414 25428	apoptotic cell
+T1252	CL 25467 25478	macrophages
+T1254	CL 25514 25528	apoptotic cell
+T1258	CL 25657 25671	apoptotic cell
+T1265	CL 25692 25703	macrophages
+T1267	CL 25782 25793	macrophages
+T1269	CL 25812 25827	apoptotic cells
+T1272	CL 25856 25867	macrophages
+T1274	CL 25966 25981	apoptotic cells
+T1279	CL 26046 26057	macrophages
+T1280	CL 26136 26146	macrophage
+T1292	CL 26236 26247	macrophages
+T1294	CL 26266 26281	apoptotic cells
+T1298	CL 26340 26355	apoptotic cells
+T1301	CL 26360 26370	macrophage
+T1307	CL 26430 26441	macrophages
+T1309	CL 26490 26512	apoptotic target cells
+T1313	CL 26532 26543	macrophages
+T1317	CL 26581 26592	macrophages
+T1319	CL 26624 26639	apoptotic cells
+T1324	CL 26696 26701	cells
+T1327	CL 26732 26736	cell
+T1340	CL 26838 26848	macrophage
+T1342	CL 26922 26937	apoptotic cells
+T1349	CL 27086 27101	apoptotic cells
+T1352	CL 27105 27116	macrophages
+T1357	CL 27161 27172	macrophages
+T1364	CL 27241 27256	apoptotic cells
+T1376	CL 27403 27418	apoptotic cells
+T1387	CL 27516 27527	macrophages
+T1394	CL 27601 27616	apoptotic cells
+T1402	CL 27776 27787	macrophages
+T1409	CL 27864 27879	apoptotic cells
+T1419	CL 27953 27964	macrophages
+T1442	CL 28149 28160	macrophages
+T1447	CL 28214 28225	macrophages
+T1462	CL 28481 28492	macrophages
+T1464	CL 28526 28541	apoptotic cells
+T1469	CL 28573 28588	apoptotic cells
+T1477	CL 28677 28688	macrophages
+T1484	CL 28779 28790	macrophages
+T1486	CL 28804 28819	apoptotic cells
+T1498	CL 28927 28938	macrophages
+T1499	CL 28982 28997	apoptotic cells
+T1503	CL 29048 29059	macrophages
+T1512	CL 29156 29164	monocyte
+T1518	CL 29277 29288	macrophages
+T1524	CL 29374 29389	apoptotic cells
+T1539	CL 29557 29572	apoptotic cells
+T1545	CL 29606 29617	macrophages
+T1663	CL 32516 32520	cell
+T1675	CL 32805 32820	apoptotic cells
+T1683	CL 32901 32916	apoptotic cells
+T1688	CL 33050 33092	apoptotic mesenchymal and epithelial cells
+T1690	CL 33060 33092	mesenchymal and epithelial cells
+T1691	CL 33076 33092	epithelial cells
+T1732	CL 34363 34379	epithelial cells
+T1811	CL 36949 36953	cell
+T1815	CL 37096 37111	apoptotic cells
+T1820	CL 37205 37219	apoptotic cell
+T1828	CL 37357 37371	apoptotic cell
+T1831	CL 37442 37446	cell
+T1839	CL 37805 37809	cell
+T1842	CL 37908 37916	neuronal
+T1844	CL 37943 37947	cell
+T1855	CL 38211 38240	apoptotic photoreceptor cells
+T1857	CL 38221 38240	photoreceptor cells
+T1860	CL 38259 38269	macrophage
+T1882	CL 38890 38905	apoptotic cells
+T1886	CL 38918 38922	cell
+T1900	CL 39001 39005	cell
+T1903	CL 39039 39072	apoptotic neural progenitor cells
+T1918	CL 39444 39458	apoptotic cell
+T1943	CL 39902 39917	apoptotic cells
+T1951	CL 39998 40013	apoptotic cells
+T1955	CL 40032 40046	apoptotic cell
+T1964	CL 40122 40137	apoptotic cells
+T1983	CL 40376 40391	apoptotic cells
+T1990	CL 40509 40524	apoptotic cells
+T1997	CL 40538 40549	macrophages
+T1998	CL 40570 40581	macrophages
+T2003	CL 40640 40645	cells
+T2008	CL 40707 40721	apoptotic cell
+T2024	CL 40964 40979	apoptotic cells
+T2034	CL 41199 41214	apoptotic cells
+T2038	CL 41304 41312	cellular
+T2047	CL 41713 41728	apoptotic cells
+T2073	CL 42023 42028	cells
+T2079	CL 42097 42102	cells
+T2082	CL 42123 42134	macrophages
+T2087	CL 42255 42260	cells
+T2090	CL 42319 42324	cells
+T2093	CL 42458 42463	cells
+T2095	CL 42478 42489	macrophages
+T2097	CL 42593 42603	macrophage
+T2099	CL 42626 42641	apoptotic cells
+T2103	CL 42711 42726	apoptotic cells
+T2107	CL 42761 42765	cell
+T2114	CL 42967 42982	apoptotic cells
+T2117	CL 42987 42998	macrophages
+T2119	CL 43048 43063	apoptotic cells
+T2122	CL 43112 43117	cells
+T2124	CL 43133 43144	macrophages
+T2141	CL 43503 43518	apoptotic cells
+T2148	CL 43691 43696	cells
+T2151	CL 43726 43741	apoptotic cells
+T2155	CL 43768 43782	apoptotic cell
+T2158	CL 43832 43837	cells
+T2165	CL 43966 43981	apoptotic cells
+T2172	CL 43995 44006	macrophages
+T2176	CL 44084 44095	macrophages
+T2179	CL 44167 44189	peritoneal macrophages
+T2184	CL 44227 44251	hematopoietic stem cells
+T2187	CL 44359 44369	macrophage
+T2188	CL 44373 44377	cell
+T2198	CL 44582 44593	macrophages
+T2210	CL 44891 44905	apoptotic cell
+T2215	CL 44955 44966	macrophages
+T2218	CL 45035 45049	apoptotic cell
+T2228	CL 45249 45260	macrophages
+T2239	CL 45333 45344	macrophages
+T2248	CL 45433 45448	apoptotic cells
+T2252	CL 45478 45486	cellular
+T2260	CL 45552 45563	macrophages
+T2262	CL 45621 45631	macrophage
+T2290	CL 46053 46057	cell
+T2316	CL 46396 46400	cell
+T2335	CL 46770 46785	apoptotic cells
+T2365	CL 47354 47365	macrophages
+T2366	CL 47370 47381	fibroblasts
+T2367	CL 47502 47507	cells
+T2394	CL 48324 48339	apoptotic cells
+T2411	CL 48613 48627	apoptotic cell
+T2425	CL 48784 48795	macrophages
+T2427	CL 48846 48861	apoptotic cells
+T2488	CL 49724 49729	cells
+T2491	CL 49778 49783	cells
+T2496	CL 49866 49870	cell
+T2512	CL 50111 50116	cells
+T2516	CL 50294 50298	cell
+T2527	CL 50548 50552	cell
+T2540	CL 50749 50753	cell
+T2750	CL 56192 56207	apoptotic cells
+T2753	CL 56212 56223	macrophages
+T2770	CL 56910 56921	macrophages
+T2777	CL 57290 57294	cell
+T2780	CL 57349 57354	cells
+T2783	CL 57419 57429	macrophage
+T2790	CL 57698 57703	cells
+T2792	CL 57766 57776	Macrophage
+T2794	CL 57839 57850	macrophages
+T2796	CL 57917 57922	cells
+T2798	CL 57973 57995	apoptotic target cells
+T2803	CL 58158 58163	cells
+T2806	CL 58230 58235	cells
+T2810	CL 58323 58328	cells
+T2812	CL 58383 58388	cells
+T2817	CL 58491 58496	cells
+T2828	CL 58792 58807	apoptotic cells
+T2831	CL 58904 58909	cells
+T2835	CL 58960 58971	macrophages
+T2836	CL 59028 59033	Cells
+T2845	CL 59408 59419	macrophages
+T2846	CL 59450 59461	macrophages
+T2852	CL 59623 59628	cells
+T2854	CL 59653 59664	macrophages
+T2855	CL 59679 59690	macrophages
+T2857	CL 59711 59716	cells
+T2859	CL 59741 59752	macrophages
+T2860	CL 59915 59925	macrophage
+T2867	CL 60084 60099	apoptotic cells
+T2893	CL 60991 61006	apoptotic cells
+T2896	CL 61011 61022	macrophages
+T2901	CL 61137 61148	macrophages
+T2908	CL 61284 61299	apoptotic cells
+T2911	CL 61304 61315	macrophages
+T2916	CL 61430 61441	macrophages
+T2925	CL 61841 61845	cell
+T2929	CL 62156 62160	cell
+T2947	CL 62542 62547	cells
+T3123	CL 65282 65287	cells
+T3179	CL 66872 66886	megakaryocytes
+T3182	CL 67003 67015	erythrocytes
+T3243	CL 68749 68753	cell
+T3245	CL 68779 68790	macrophages
+T3247	CL 68809 68824	apoptotic cells
+T3262	CL 69010 69025	apoptotic cells
+T3279	CL 69215 69230	apoptotic cells
+T3284	CL 69367 69382	apoptotic cells
+T3294	CL 69566 69576	macrophage
+T3300	CL 69738 69749	macrophages
+T3301	CL 69784 69799	apoptotic cells
+T3306	CL 69979 69994	apoptotic cells
+T3309	CL 70018 70029	macrophages
+T3321	CL 70250 70261	Macrophages
+T3324	CL 70298 70313	apoptotic cells
+T3329	CL 70366 70381	apoptotic cells
+T3337	CL 70407 70418	macrophages
+T3338	CL 70464 70475	macrophages
+T3340	CL 70494 70509	apoptotic cells
+T3345	CL 70634 70649	apoptotic cells
+T3349	CL 70673 70684	macrophages
+T3351	CL 70730 70735	cells
+T3354	CL 70753 70763	macrophage
+T3356	CL 70823 70838	apoptotic cells
+T3371	CL 70970 70985	apoptotic cells
+T3380	CL 71086 71101	apoptotic cells
+T3384	CL 71146 71161	apoptotic cells

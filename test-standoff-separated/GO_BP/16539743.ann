@@ -1,0 +1,371 @@
+T5	GO_BP 80 89	expressed
+T19	GO_BP 377 390	transcription
+T22	GO_BP 533 542	expressed
+T41	GO_BP 769 794	photoreceptor development
+T55	GO_BP 1008 1031	chromatin modifications
+T59	GO_BP 1110 1120	regulating
+T60	GO_BP 1121 1136	gene expression
+T62	GO_BP 1140 1165	photoreceptor development
+T68	GO_BP 1190 1199	expressed
+T71	GO_BP 1288 1303	differentiation
+T72	GO_BP 1336 1349	Transcription
+T76	GO_BP 1370 1379	regulated
+T92	GO_BP 1572 1581	localizes
+T109	GO_BP 1761 1776	transcriptional
+T110	GO_BP 1809 1819	repression
+T121	GO_BP 1999 2008	expressed
+T123	GO_BP 2066 2076	expression
+T130	GO_BP 2150 2165	transcriptional
+T134	GO_BP 2260 2295	development of the mammalian retina
+T138	GO_BP 2330 2339	generated
+T152	GO_BP 2652 2658	vision
+T153	GO_BP 2660 2677	Phototransduction
+T154	GO_BP 2713 2722	detecting
+T156	GO_BP 2769 2785	capture of light
+T167	GO_BP 2922 2939	phototransduction
+T171	GO_BP 3100 3159	response to many environmental and/or genetic perturbations
+T174	GO_BP 3187 3197	production
+T177	GO_BP 3228 3239	development
+T178	GO_BP 3277 3305	Rod photoreceptor generation
+T180	GO_BP 3331 3336	birth
+T188	GO_BP 3415 3424	generated
+T192	GO_BP 3474 3483	generated
+T193	GO_BP 3496 3506	production
+T198	GO_BP 3649 3662	transcription
+T199	GO_BP 3666 3688	chromatin modification
+T203	GO_BP 3734 3747	transcription
+T204	GO_BP 3759 3784	photoreceptor development
+T212	GO_BP 3867 3937	cell fate determination and terminal differentiation of photoreceptors
+T215	GO_BP 3904 3919	differentiation
+T218	GO_BP 3980 3995	differentiating
+T226	GO_BP 4094 4102	controls
+T227	GO_BP 4107 4120	transcription
+T231	GO_BP 4191 4200	formation
+T235	GO_BP 4244 4270	phototransduction pathways
+T240	GO_BP 4307 4316	expressed
+T241	GO_BP 4320 4330	developing
+T244	GO_BP 4402 4435	upregulation of Crx transcription
+T248	GO_BP 4422 4435	transcription
+T249	GO_BP 4459 4474	differentiating
+T259	GO_BP 4636 4642	visual
+T261	GO_BP 4656 4663	develop
+T281	GO_BP 5007 5014	control
+T282	GO_BP 5023 5048	photoreceptor development
+T286	GO_BP 5062 5075	transcription
+T293	GO_BP 5106 5114	regulate
+T294	GO_BP 5119 5132	specification
+T327	GO_BP 5605 5611	mating
+T328	GO_BP 5617 5626	signaling
+T332	GO_BP 5659 5672	transcription
+T336	GO_BP 5711 5726	transcriptional
+T337	GO_BP 5752 5766	gene silencing
+T339	GO_BP 5774 5785	development
+T344	GO_BP 5852 5862	regulation
+T345	GO_BP 5905 5940	silencing of specific sets of genes
+T347	GO_BP 5949 5972	chromatin modifications
+T350	GO_BP 5995 6005	repressive
+T358	GO_BP 6098 6102	form
+T363	GO_BP 6202 6249	formation of a higher order chromatin structure
+T365	GO_BP 6277 6286	repressed
+T387	GO_BP 6515 6524	expressed
+T389	GO_BP 6578 6593	differentiation
+T390	GO_BP 6623 6633	expression
+T394	GO_BP 6654 6663	regulated
+T399	GO_BP 6690 6699	localized
+T413	GO_BP 6860 6875	transcriptional
+T420	GO_BP 6947 6962	transcriptional
+T421	GO_BP 6984 7017	retinal photoreceptor development
+T429	GO_BP 7106 7115	expressed
+T430	GO_BP 7123 7133	developing
+T463	GO_BP 7815 7837	translation initiation
+T464	GO_BP 7815 7826	translation
+T468	GO_BP 7910 7920	initiation
+T469	GO_BP 7910 7920	initiation
+T475	GO_BP 8066 8070	stop
+T476	GO_BP 8066 8070	stop
+T600	GO_BP 9352 9364	localization
+T604	GO_BP 9408 9423	polyadenylation
+T655	GO_BP 10266 10276	Expression
+T659	GO_BP 10292 10302	developing
+T663	GO_BP 10352 10362	expression
+T674	GO_BP 10559 10586	expression of the mr-s gene
+T679	GO_BP 10594 10604	developing
+T683	GO_BP 10700 10710	developing
+T689	GO_BP 10939 10949	developing
+T694	GO_BP 11005 11015	expression
+T698	GO_BP 11111 11121	expressing
+T701	GO_BP 11142 11159	phototransduction
+T706	GO_BP 11330 11340	expression
+T717	GO_BP 11439 11449	expression
+T718	GO_BP 11453 11463	developing
+T723	GO_BP 11506 11516	expression
+T724	GO_BP 11524 11555	development of the mouse retina
+T739	GO_BP 11945 11955	expression
+T747	GO_BP 12031 12033	RT
+T754	GO_BP 12455 12465	expression
+T755	GO_BP 12471 12498	expression of the mr-s gene
+T765	GO_BP 12799 12818	alternative spliced
+T770	GO_BP 12970 12977	express
+T774	GO_BP 13020 13030	developing
+T777	GO_BP 13114 13123	expressed
+T778	GO_BP 13166 13176	expression
+T784	GO_BP 13303 13305	RT
+T806	GO_BP 13588 13597	expressed
+T808	GO_BP 13695 13697	RT
+T816	GO_BP 13815 13824	expressed
+T817	GO_BP 13828 13838	developing
+T819	GO_BP 13877 13909	Regulation of mr-s transcription
+T823	GO_BP 13896 13909	transcription
+T829	GO_BP 13938 13951	Transcription
+T832	GO_BP 14007 14040	retinal photoreceptor development
+T838	GO_BP 14081 14090	expressed
+T839	GO_BP 14094 14104	developing
+T844	GO_BP 14169 14178	expressed
+T849	GO_BP 14240 14249	regulated
+T854	GO_BP 14278 14287	regulates
+T858	GO_BP 14293 14306	transcription
+T883	GO_BP 14579 14592	transcription
+T887	GO_BP 14609 14618	regulated
+T891	GO_BP 14647 14649	RT
+T893	GO_BP 14683 14698	transcriptional
+T904	GO_BP 14797 14810	transcription
+T905	GO_BP 14829 14842	downregulated
+T912	GO_BP 14917 14930	transcription
+T913	GO_BP 14934 14943	regulated
+T916	GO_BP 14958 14968	developing
+T919	GO_BP 15017 15030	transcription
+T924	GO_BP 15042 15051	regulated
+T942	GO_BP 15188 15198	expression
+T948	GO_BP 15272 15274	RT
+T968	GO_BP 15519 15521	RT
+T975	GO_BP 15566 15579	transcription
+T985	GO_BP 15748 15759	transfected
+T998	GO_BP 15898 15909	transfected
+T1001	GO_BP 15923 15933	expression
+T1010	GO_BP 16076 16085	regulates
+T1014	GO_BP 16091 16104	transcription
+T1033	GO_BP 16303 16313	expression
+T1048	GO_BP 16497 16508	upregulated
+T1053	GO_BP 16530 16540	expression
+T1061	GO_BP 16658 16668	expression
+T1063	GO_BP 16732 16756	transcriptional activity
+T1065	GO_BP 16767 16776	augmented
+T1073	GO_BP 16910 16925	gene expression
+T1075	GO_BP 16934 16945	upregulated
+T1080	GO_BP 16968 16978	expression
+T1084	GO_BP 17062 17072	expression
+T1099	GO_BP 17354 17364	expression
+T1100	GO_BP 17393 17403	expression
+T1113	GO_BP 17588 17601	transcription
+T1114	GO_BP 17614 17623	regulated
+T1117	GO_BP 17648 17659	constructed
+T1128	GO_BP 17800 17810	expression
+T1133	GO_BP 18035 18046	transfected
+T1142	GO_BP 18185 18209	transcription initiation
+T1143	GO_BP 18185 18198	transcription
+T1144	GO_BP 18242 18274	regulation of mr-s transcription
+T1148	GO_BP 18261 18274	transcription
+T1177	GO_BP 18780 18795	transcriptional
+T1211	GO_BP 19296 19309	transcription
+T1213	GO_BP 19325 19329	make
+T1220	GO_BP 19422 19437	transcriptional
+T1222	GO_BP 19459 19463	make
+T1225	GO_BP 19513 19524	transformed
+T1237	GO_BP 19675 19685	expression
+T1253	GO_BP 19861 19874	transcription
+T1262	GO_BP 19961 19974	transcription
+T1280	GO_BP 20122 20135	transcription
+T1284	GO_BP 20205 20215	expression
+T1330	GO_BP 21156 21166	expression
+T1367	GO_BP 21667 21679	transfection
+T1372	GO_BP 21800 21811	constructed
+T1387	GO_BP 22207 22219	transfection
+T1394	GO_BP 22358 22369	transfected
+T1426	GO_BP 22902 22913	transfected
+T1436	GO_BP 23158 23167	generated
+T1437	GO_BP 23175 23186	transfected
+T1485	GO_BP 24286 24310	subcellular localization
+T1486	GO_BP 24298 24345	localization of mr-s protein in mammalian cells
+T1487	GO_BP 24298 24326	localization of mr-s protein
+T1495	GO_BP 24368 24380	localization
+T1506	GO_BP 24479 24488	localizes
+T1508	GO_BP 24522 24546	subcellular localization
+T1509	GO_BP 24534 24573	localization of mr-s in mammalian cells
+T1524	GO_BP 24696 24705	localized
+T1528	GO_BP 24782 24814	localization of the mr-s protein
+T1537	GO_BP 24917 24926	localizes
+T1545	GO_BP 25034 25060	transcriptional regulation
+T1546	GO_BP 25034 25049	transcriptional
+T1550	GO_BP 25094 25118	Subcellular localization
+T1551	GO_BP 25106 25145	localization of mr-s in mammalian cells
+T1560	GO_BP 25185 25196	transfected
+T1572	GO_BP 25424 25439	transcriptional
+T1582	GO_BP 25569 25584	transcriptional
+T1583	GO_BP 25607 25621	polymerization
+T1589	GO_BP 25683 25698	transcriptional
+T1590	GO_BP 25721 25725	form
+T1602	GO_BP 25920 25929	generated
+T1604	GO_BP 25955 25962	express
+T1627	GO_BP 26264 26275	transfected
+T1630	GO_BP 26285 26294	repressed
+T1667	GO_BP 26828 26838	repressive
+T1669	GO_BP 26879 26888	repressed
+T1672	GO_BP 26900 26915	gene expression
+T1676	GO_BP 26994 27020	transcriptional repressive
+T1677	GO_BP 26994 27009	transcriptional
+T1683	GO_BP 27149 27175	transcriptional repression
+T1684	GO_BP 27149 27164	transcriptional
+T1690	GO_BP 27352 27362	repression
+T1694	GO_BP 27471 27497	transcriptional repressive
+T1695	GO_BP 27471 27486	transcriptional
+T1697	GO_BP 27555 27562	repress
+T1698	GO_BP 27563 27576	transcription
+T1702	GO_BP 27634 27660	transcriptional repression
+T1703	GO_BP 27634 27649	transcriptional
+T1714	GO_BP 27860 27870	repressive
+T1718	GO_BP 27958 27967	repressed
+T1724	GO_BP 28021 28032	transfected
+T1726	GO_BP 28085 28111	transcriptional repressive
+T1727	GO_BP 28085 28100	transcriptional
+T1743	GO_BP 28382 28391	repressed
+T1746	GO_BP 28432 28441	repressed
+T1749	GO_BP 28506 28518	transfection
+T1757	GO_BP 28687 28697	developing
+T1762	GO_BP 28814 28840	transcriptional repression
+T1763	GO_BP 28814 28829	transcriptional
+T1772	GO_BP 28971 28986	transcriptional
+T1773	GO_BP 29000 29010	developing
+T1785	GO_BP 29125 29151	transcriptional repression
+T1786	GO_BP 29125 29140	transcriptional
+T1790	GO_BP 29214 29224	repressive
+T1811	GO_BP 29519 29545	transcriptional repressive
+T1812	GO_BP 29519 29534	transcriptional
+T1814	GO_BP 29556 29581	photoreceptor development
+T1824	GO_BP 29728 29738	repression
+T1834	GO_BP 29842 29857	transcriptional
+T1841	GO_BP 29993 30004	transfected
+T1845	GO_BP 30047 30057	expressing
+T1854	GO_BP 30168 30179	transfected
+T1857	GO_BP 30395 30406	transfected
+T1861	GO_BP 30466 30476	repression
+T1866	GO_BP 30648 30659	transfected
+T1870	GO_BP 30776 30787	transfected
+T1899	GO_BP 31279 31294	transcriptional
+T1900	GO_BP 31318 31328	repression
+T1916	GO_BP 31555 31564	expressed
+T1921	GO_BP 31630 31640	expression
+T1922	GO_BP 31648 31658	developing
+T1923	GO_BP 31685 31695	expression
+T1932	GO_BP 31983 31998	differentiation
+T1933	GO_BP 32000 32007	forming
+T1939	GO_BP 32093 32122	development of photoreceptors
+T1945	GO_BP 32190 32215	photoreceptor development
+T1948	GO_BP 32239 32248	regulates
+T1951	GO_BP 32253 32266	transcription
+T1957	GO_BP 32300 32302	RT
+T1968	GO_BP 32468 32478	upregulate
+T1969	GO_BP 32483 32496	transcription
+T1980	GO_BP 32593 32602	expressed
+T1987	GO_BP 32722 32735	transcription
+T1988	GO_BP 32748 32757	regulated
+T1996	GO_BP 32818 32831	transcription
+T1997	GO_BP 32854 32863	expressed
+T1999	GO_BP 32925 32938	transcription
+T2007	GO_BP 33060 33070	expression
+T2015	GO_BP 33198 33207	expressed
+T2031	GO_BP 33424 33428	form
+T2034	GO_BP 33489 33536	formation of a higher order chromatin structure
+T2067	GO_BP 34122 34127	forms
+T2076	GO_BP 34285 34289	form
+T2078	GO_BP 34323 34337	gene silencing
+T2081	GO_BP 34351 34361	repressive
+T2096	GO_BP 34802 34807	forms
+T2109	GO_BP 35066 35081	oligomerization
+T2122	GO_BP 35311 35326	transcriptional
+T2123	GO_BP 35343 35355	segmentation
+T2127	GO_BP 35370 35385	transcriptional
+T2129	GO_BP 35430 35440	recruiting
+T2132	GO_BP 35517 35531	polymerization
+T2140	GO_BP 35639 35652	transcription
+T2145	GO_BP 35719 35732	transcription
+T2157	GO_BP 35883 35898	transcriptional
+T2161	GO_BP 35961 35971	repressive
+T2168	GO_BP 36142 36168	transcriptional repressive
+T2169	GO_BP 36142 36157	transcriptional
+T2170	GO_BP 36179 36193	Polymerization
+T2172	GO_BP 36265 36275	repressive
+T2178	GO_BP 36334 36340	lethal
+T2188	GO_BP 36457 36472	transcriptional
+T2197	GO_BP 36617 36632	transcriptional
+T2208	GO_BP 36855 36881	transcriptional repressive
+T2209	GO_BP 36855 36870	transcriptional
+T2212	GO_BP 36923 36933	repressive
+T2235	GO_BP 37470 37479	silencing
+T2244	GO_BP 37564 37573	methylate
+T2248	GO_BP 37611 37619	silenced
+T2256	GO_BP 37741 37751	repression
+T2258	GO_BP 37773 37793	chromatin remodeling
+T2261	GO_BP 37878 37888	repression
+T2264	GO_BP 37952 37962	repression
+T2270	GO_BP 38041 38067	transcriptional repression
+T2271	GO_BP 38041 38056	transcriptional
+T2280	GO_BP 38245 38255	repression
+T2291	GO_BP 38430 38445	transcriptional
+T2292	GO_BP 38469 38483	down-regulates
+T2293	GO_BP 38509 38539	expression of the target genes
+T2295	GO_BP 38547 38580	retinal photoreceptor development
+T2297	GO_BP 38614 38624	repressive
+T2317	GO_BP 38816 38826	expression
+T2319	GO_BP 38886 38901	differentiation
+T2327	GO_BP 39005 39013	suppress
+T2328	GO_BP 39018 39055	expression of non-photoreceptor genes
+T2335	GO_BP 39146 39218	cell fate determination of rod photoreceptors versus cone photoreceptors
+T2336	GO_BP 39146 39191	cell fate determination of rod photoreceptors
+T2343	GO_BP 39298 39311	retinogenesis
+T2345	GO_BP 39410 39420	expression
+T2352	GO_BP 39462 39471	expressed
+T2358	GO_BP 39563 39578	transcriptional
+T2359	GO_BP 39607 39620	down-regulate
+T2373	GO_BP 39842 39851	expressed
+T2382	GO_BP 40007 40032	photoreceptor development
+T2387	GO_BP 40077 40086	localizes
+T2397	GO_BP 40213 40228	transcriptional
+T2398	GO_BP 40244 40254	repressive
+T2412	GO_BP 40405 40459	development of retinal photoreceptors and pineal gland
+T2413	GO_BP 40405 40442	development of retinal photoreceptors
+T2422	GO_BP 40608 40617	expressed
+T2441	GO_BP 40913 40915	RT
+T2480	GO_BP 41531 41533	RT
+T2491	GO_BP 41669 41681	transfection
+T2497	GO_BP 41875 41887	transfection
+T2506	GO_BP 41963 41975	transfection
+T2514	GO_BP 42162 42174	transfection
+T2545	GO_BP 42763 42765	RT
+T2548	GO_BP 42858 42877	reverse transcribed
+T2551	GO_BP 42912 42914	RT
+T2581	GO_BP 43674 43680	growth
+T2588	GO_BP 43934 43939	grown
+T2633	GO_BP 44689 44699	expression
+T2635	GO_BP 44716 44727	constructed
+T2641	GO_BP 44856 44867	transfected
+T2652	GO_BP 44976 44988	transfection
+T2700	GO_BP 46136 46146	conjugated
+T2703	GO_BP 46228 46252	Subcellular localization
+T2704	GO_BP 46266 46277	transfected
+T2714	GO_BP 46406 46418	transfection
+T2730	GO_BP 46909 46919	conjugated
+T2737	GO_BP 47176 47191	transcriptional
+T2742	GO_BP 47243 47254	constructed
+T2753	GO_BP 47401 47411	expression
+T2755	GO_BP 47425 47436	constructed
+T2762	GO_BP 47496 47506	expression
+T2804	GO_BP 48202 48226	transcriptional activity
+T2807	GO_BP 48244 48252	generate
+T2811	GO_BP 48304 48312	produced
+T2814	GO_BP 48398 48406	digested
+T2821	GO_BP 48494 48505	transfected
+T2824	GO_BP 48553 48563	expression
+T2829	GO_BP 48622 48634	transfection
+T2833	GO_BP 48688 48700	transfection
+T2861	GO_BP 48923 48932	expressed
+T2883	GO_BP 49864 49875	Development

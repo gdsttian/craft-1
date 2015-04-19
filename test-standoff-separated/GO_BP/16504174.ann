@@ -1,0 +1,87 @@
+T19	GO_BP 218 227	expressed
+T82	GO_BP 1151 1164	recombination
+T83	GO_BP 1183 1193	expression
+T91	GO_BP 1240 1249	developed
+T92	GO_BP 1285 1294	generated
+T99	GO_BP 1352 1365	recombination
+T106	GO_BP 1569 1582	proliferation
+T107	GO_BP 1588 1603	differentiation
+T116	GO_BP 1727 1737	expression
+T123	GO_BP 1799 1823	self-renewal of ES cells
+T126	GO_BP 1828 1854	establishment of germcells
+T134	GO_BP 2082 2095	differentiate
+T137	GO_BP 2136 2149	proliferation
+T148	GO_BP 2482 2507	proliferation of ES cells
+T157	GO_BP 2727 2736	expressed
+T162	GO_BP 2826 2835	expressed
+T173	GO_BP 3023 3037	down-regulated
+T177	GO_BP 3094 3117	expression of this gene
+T182	GO_BP 3188 3197	expressed
+T228	GO_BP 3762 3772	generation
+T232	GO_BP 3881 3890	generated
+T293	GO_BP 4841 4848	produce
+T387	GO_BP 6686 6695	induction
+T388	GO_BP 6699 6714	differentiation
+T490	GO_BP 8402 8413	transcribed
+T491	GO_BP 8417 8427	translated
+T515	GO_BP 8882 8895	recombination
+T532	GO_BP 9211 9224	recombination
+T534	GO_BP 9366 9379	recombination
+T549	GO_BP 9813 9826	recombination
+T613	GO_BP 10829 10841	proliferated
+T623	GO_BP 10949 10963	differentiated
+T629	GO_BP 11134 11142	produced
+T632	GO_BP 11277 11289	self-renewal
+T644	GO_BP 11422 11427	grown
+T647	GO_BP 11452 11458	Growth
+T667	GO_BP 11875 11890	gene expression
+T690	GO_BP 12127 12161	expression of ES cell marker genes
+T708	GO_BP 12248 12258	expression
+T710	GO_BP 12318 12333	gene expression
+T741	GO_BP 12552 12561	regulated
+T749	GO_BP 12651 12660	stabilize
+T754	GO_BP 12751 12766	Gene expression
+T772	GO_BP 12970 12983	Developmental
+T784	GO_BP 13135 13145	expression
+T791	GO_BP 13196 13204	generate
+T826	GO_BP 13514 13525	development
+T830	GO_BP 13731 13742	development
+T831	GO_BP 13747 13766	germ cell formation
+T834	GO_BP 13777 13786	generated
+T848	GO_BP 13903 13914	established
+T857	GO_BP 13998 14011	proliferation
+T858	GO_BP 14017 14032	differentiation
+T870	GO_BP 14226 14239	recombination
+T873	GO_BP 14270 14280	expression
+T881	GO_BP 14391 14402	development
+T882	GO_BP 14404 14423	germ cell formation
+T885	GO_BP 14432 14449	cell self-renewal
+T916	GO_BP 14834 14843	digestion
+T950	GO_BP 15437 15445	digested
+T979	GO_BP 16057 16066	digensted
+T984	GO_BP 16107 16115	digested
+T994	GO_BP 16297 16305	digested
+T998	GO_BP 16422 16434	Construction
+T1027	GO_BP 17023 17030	ligated
+T1038	GO_BP 17273 17284	Transfected
+T1045	GO_BP 17452 17465	recombination
+T1046	GO_BP 17528 17541	recombination
+T1051	GO_BP 17593 17603	Cell Lysis
+T1056	GO_BP 17684 17692	digested
+T1070	GO_BP 18102 18110	digested
+T1081	GO_BP 18445 18490	Generation of anti-ESG1 polyclonal antibodies
+T1082	GO_BP 18445 18490	Generation of anti-ESG1 polyclonal antibodies
+T1095	GO_BP 18672 18681	construct
+T1101	GO_BP 18820 18833	recombination
+T1102	GO_BP 18841 18853	introduction
+T1103	GO_BP 18871 18881	expression
+T1110	GO_BP 18937 18948	recombinant
+T1111	GO_BP 18949 18967	protein production
+T1120	GO_BP 19110 19120	denaturing
+T1123	GO_BP 19198 19209	recombinant
+T1126	GO_BP 19267 19275	generate
+T1149	GO_BP 19749 19759	conjugated
+T1155	GO_BP 19817 19826	Signaling
+T1176	GO_BP 20143 20152	pregnancy
+T1213	GO_BP 21242 21253	Development
+T1226	GO_BP 21677 21688	constructed

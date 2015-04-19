@@ -1,0 +1,318 @@
+T8	GO_BP 37 52	Transcriptional
+T9	GO_BP 103 116	Hematopoiesis
+T10	GO_BP 128 141	Hematopoiesis
+T14	GO_BP 214 222	regulate
+T15	GO_BP 223 236	transcription
+T28	GO_BP 378 391	hematopoiesis
+T38	GO_BP 500 515	transcriptional
+T45	GO_BP 629 640	development
+T47	GO_BP 642 655	hematopoietic
+T54	GO_BP 696 703	express
+T55	GO_BP 721 734	hematopoietic
+T58	GO_BP 735 748	transcription
+T62	GO_BP 787 796	apoptosis
+T69	GO_BP 855 859	stop
+T70	GO_BP 855 859	stop
+T71	GO_BP 881 891	expression
+T78	GO_BP 924 947	embryonic hematopoiesis
+T89	GO_BP 1024 1034	expression
+T91	GO_BP 1070 1083	hematopoietic
+T92	GO_BP 1089 1118	cell and progenitor formation
+T97	GO_BP 1134 1144	expression
+T103	GO_BP 1237 1252	differentiation
+T111	GO_BP 1351 1360	localized
+T113	GO_BP 1392 1402	expression
+T115	GO_BP 1430 1445	cell maturation
+T117	GO_BP 1491 1506	transcriptional
+T118	GO_BP 1534 1572	differentiation of hematopoietic cells
+T121	GO_BP 1553 1566	hematopoietic
+T124	GO_BP 1604 1617	Hematopoiesis
+T125	GO_BP 1643 1743	processes of cell proliferation and differentiation of a relatively small number of progenitor cells
+T126	GO_BP 1643 1674	processes of cell proliferation
+T134	GO_BP 1822 1835	Hematopoiesis
+T138	GO_BP 1922 1930	produces
+T141	GO_BP 2036 2050	differentiated
+T144	GO_BP 2063 2071	produced
+T145	GO_BP 2172 2185	hematopoiesis
+T148	GO_BP 2259 2272	differentiate
+T149	GO_BP 2323 2336	hematopoiesis
+T150	GO_BP 2337 2345	produces
+T153	GO_BP 2432 2445	hematopoiesis
+T154	GO_BP 2458 2471	self-renewing
+T157	GO_BP 2488 2495	develop
+T159	GO_BP 2577 2590	hematopoietic
+T161	GO_BP 2617 2627	developing
+T162	GO_BP 2646 2653	produce
+T171	GO_BP 2822 2829	control
+T172	GO_BP 2830 2843	hematopoiesis
+T178	GO_BP 3022 3029	express
+T182	GO_BP 3044 3057	transcription
+T186	GO_BP 3093 3106	hematopoietic
+T202	GO_BP 3372 3416	embryonic and definitive adult hematopoiesis
+T212	GO_BP 3542 3549	express
+T213	GO_BP 3567 3580	hematopoietic
+T216	GO_BP 3581 3594	transcription
+T217	GO_BP 3615 3624	apoptosis
+T228	GO_BP 3709 3724	transcriptional
+T234	GO_BP 3788 3803	transcriptional
+T248	GO_BP 4283 4303	chromatin remodeling
+T270	GO_BP 4625 4638	transcription
+T278	GO_BP 4920 4925	forms
+T294	GO_BP 5200 5213	embryogenesis
+T295	GO_BP 5227 5236	induction
+T303	GO_BP 5435 5446	development
+T306	GO_BP 5521 5554	embryonic and adult hematopoiesis
+T315	GO_BP 5663 5686	embryonic hematopoiesis
+T320	GO_BP 5706 5715	expressed
+T322	GO_BP 5753 5766	hematopoietic
+T323	GO_BP 5785 5798	downregulated
+T325	GO_BP 5812 5822	maturation
+T329	GO_BP 5845 5854	localizes
+T339	GO_BP 6047 6063	cell development
+T346	GO_BP 6158 6172	Erythropoiesis
+T351	GO_BP 6229 6240	development
+T352	GO_BP 6260 6273	hematopoietic
+T353	GO_BP 6274 6289	gene expression
+T355	GO_BP 6294 6303	apoptosis
+T361	GO_BP 6355 6368	embryogenesis
+T376	GO_BP 6527 6537	expression
+T382	GO_BP 6550 6563	hematopoietic
+T385	GO_BP 6685 6700	differentiating
+T388	GO_BP 6725 6746	programmed cell death
+T394	GO_BP 6853 6863	expression
+T395	GO_BP 6904 6917	hematopoietic
+T408	GO_BP 7062 7075	hematopoietic
+T410	GO_BP 7101 7110	specified
+T411	GO_BP 7128 7161	development of mon mutant embryos
+T416	GO_BP 7192 7202	cell death
+T419	GO_BP 7213 7223	expression
+T432	GO_BP 7308 7319	development
+T444	GO_BP 7519 7549	apoptosis of mesenchymal cells
+T451	GO_BP 7653 7754	development and survival of both committed erythroid progenitor cells and posterior mesenchymal cells
+T452	GO_BP 7653 7722	development and survival of both committed erythroid progenitor cells
+T453	GO_BP 7686 7695	committed
+T458	GO_BP 7785 7798	hematopoiesis
+T469	GO_BP 7888 7894	lethal
+T470	GO_BP 7912 7923	development
+T484	GO_BP 8235 8248	hematopoiesis
+T487	GO_BP 8371 8386	differentiation
+T493	GO_BP 8464 8474	maturation
+T495	GO_BP 8528 8560	differentiation of myeloid cells
+T502	GO_BP 8677 8691	erythropoiesis
+T554	GO_BP 9716 9723	meioses
+T557	GO_BP 9785 9796	recombinant
+T581	GO_BP 10211 10226	transcriptional
+T646	GO_BP 11052 11061	generates
+T648	GO_BP 11074 11078	stop
+T649	GO_BP 11074 11078	stop
+T668	GO_BP 11433 11437	stop
+T669	GO_BP 11433 11437	stop
+T689	GO_BP 11688 11699	translation
+T691	GO_BP 11764 11775	translation
+T700	GO_BP 11932 11942	expression
+T714	GO_BP 12112 12121	expressed
+T715	GO_BP 12125 12138	hematopoietic
+T724	GO_BP 12248 12257	expressed
+T725	GO_BP 12335 12347	gastrulation
+T726	GO_BP 12376 12386	expression
+T733	GO_BP 12500 12510	expression
+T734	GO_BP 12618 12627	expresses
+T742	GO_BP 12660 12673	transcription
+T748	GO_BP 12740 12747	express
+T755	GO_BP 12785 12790	forms
+T760	GO_BP 12871 12880	expressed
+T770	GO_BP 13063 13094	nonsense-mediated message decay
+T776	GO_BP 13134 13143	expressed
+T778	GO_BP 13238 13251	hematopoietic
+T779	GO_BP 13279 13288	apoptosis
+T785	GO_BP 13326 13336	expression
+T798	GO_BP 13411 13420	expressed
+T800	GO_BP 13488 13497	expressed
+T810	GO_BP 13710 13723	hematopoiesis
+T813	GO_BP 13771 13775	form
+T821	GO_BP 13923 13932	expressed
+T826	GO_BP 13986 13988	RT
+T869	GO_BP 14519 14529	expression
+T889	GO_BP 14707 14716	expressed
+T894	GO_BP 14804 14814	expression
+T895	GO_BP 14849 14862	hematopoietic
+T902	GO_BP 14922 14931	expressed
+T903	GO_BP 14977 14987	developing
+T912	GO_BP 15098 15102	form
+T913	GO_BP 15137 15147	Expression
+T917	GO_BP 15165 15178	Hematopoiesis
+T943	GO_BP 15444 15479	formation of embryonic erythrocytes
+T946	GO_BP 15543 15580	embryonic patterning or organogenesis
+T947	GO_BP 15543 15563	embryonic patterning
+T948	GO_BP 15592 15603	development
+T969	GO_BP 16033 16041	expanded
+T979	GO_BP 16190 16198	expanded
+T983	GO_BP 16332 16345	hematopoiesis
+T984	GO_BP 16379 16393	Erythropoiesis
+T993	GO_BP 16435 16445	expression
+T998	GO_BP 16525 16540	gene expression
+T1002	GO_BP 16544 16557	hematopoietic
+T1022	GO_BP 16832 16837	drive
+T1023	GO_BP 16842 16852	expression
+T1051	GO_BP 17797 17802	dying
+T1075	GO_BP 18292 18317	Developmentally Regulated
+T1076	GO_BP 18292 18307	Developmentally
+T1077	GO_BP 18343 18367	subcellular distribution
+T1078	GO_BP 18355 18384	distribution of Tif1γ protein
+T1105	GO_BP 18647 18656	localized
+T1107	GO_BP 18696 18725	localization of Tif1γ protein
+T1117	GO_BP 19041 19088	localization or expression of the TIF1 proteins
+T1118	GO_BP 19057 19067	expression
+T1120	GO_BP 19096 19105	regulated
+T1121	GO_BP 19122 19145	developmental processes
+T1140	GO_BP 19416 19426	DNA repair
+T1146	GO_BP 19460 19475	transcriptional
+T1149	GO_BP 19545 19555	expression
+T1153	GO_BP 19584 19612	differentiation of G1E cells
+T1159	GO_BP 19669 19682	differentiate
+T1167	GO_BP 19750 19760	stabilized
+T1168	GO_BP 19764 19793	response to estrogen exposure
+T1172	GO_BP 19869 19879	expression
+T1174	GO_BP 19914 19929	differentiation
+T1181	GO_BP 20006 20016	expression
+T1182	GO_BP 20043 20086	maturation of the primitive erythroid cells
+T1190	GO_BP 20187 20196	expressed
+T1196	GO_BP 20292 20304	localization
+T1197	GO_BP 20326 20341	differentiation
+T1202	GO_BP 20471 20486	differentiation
+T1205	GO_BP 20581 20592	controlling
+T1206	GO_BP 20593 20608	gene expression
+T1208	GO_BP 20616 20629	hematopoiesis
+T1222	GO_BP 20961 20976	transcriptional
+T1225	GO_BP 21012 21037	hematopoietic development
+T1293	GO_BP 21822 21826	stop
+T1294	GO_BP 21822 21826	stop
+T1295	GO_BP 21838 21848	mRNA decay
+T1303	GO_BP 21885 21894	expressed
+T1306	GO_BP 21898 21911	hematopoietic
+T1308	GO_BP 21929 21942	embryogenesis
+T1311	GO_BP 22012 22022	expression
+T1318	GO_BP 22067 22080	hematopoiesis
+T1324	GO_BP 22117 22151	hematopoiesis in wild-type embryos
+T1331	GO_BP 22255 22264	expressed
+T1336	GO_BP 22417 22421	form
+T1340	GO_BP 22461 22471	developing
+T1343	GO_BP 22472 22485	hematopoietic
+T1370	GO_BP 22856 22869	transcription
+T1384	GO_BP 23217 23230	hematopoiesis
+T1389	GO_BP 23258 23267	Apoptosis
+T1391	GO_BP 23313 23326	hematopoietic
+T1392	GO_BP 23327 23342	gene expression
+T1394	GO_BP 23344 23353	apoptosis
+T1401	GO_BP 23441 23447	formed
+T1404	GO_BP 23497 23510	differentiate
+T1405	GO_BP 23531 23552	programmed cell death
+T1408	GO_BP 23573 23583	expression
+T1412	GO_BP 23629 23638	committed
+T1425	GO_BP 23739 23749	expression
+T1427	GO_BP 23766 23775	apoptotic
+T1429	GO_BP 23821 23832	development
+T1430	GO_BP 23852 23865	hematopoietic
+T1431	GO_BP 23866 23881	gene expression
+T1433	GO_BP 23903 23916	expression of
+T1434	GO_BP 23924 23929	genes
+T1443	GO_BP 23974 23987	hematopoietic
+T1446	GO_BP 24013 24026	hematopoietic
+T1452	GO_BP 24146 24159	hematopoietic
+T1454	GO_BP 24191 24201	commitment
+T1456	GO_BP 24240 24247	develop
+T1459	GO_BP 24288 24297	apoptosis
+T1464	GO_BP 24395 24409	erythropoiesis
+T1472	GO_BP 24551 24564	hematopoiesis
+T1480	GO_BP 24690 24699	expressed
+T1484	GO_BP 24734 24747	hematopoiesis
+T1485	GO_BP 24768 24781	organogenesis
+T1490	GO_BP 24852 24856	laid
+T1506	GO_BP 25133 25147	erythropoiesis
+T1507	GO_BP 25197 25210	hematopoietic
+T1508	GO_BP 25226 25239	hematopoietic
+T1533	GO_BP 25554 25568	erythropoiesis
+T1551	GO_BP 25709 25722	hematopoiesis
+T1558	GO_BP 25960 25966	arrest
+T1561	GO_BP 25995 26006	development
+T1575	GO_BP 26185 26193	regulate
+T1577	GO_BP 26199 26212	transcription
+T1582	GO_BP 26280 26294	Erythropoiesis
+T1588	GO_BP 26412 26452	control of hematopoietic gene expression
+T1589	GO_BP 26423 26436	hematopoietic
+T1590	GO_BP 26437 26452	gene expression
+T1595	GO_BP 26510 26525	transcriptional
+T1597	GO_BP 26549 26562	hematopoietic
+T1601	GO_BP 26727 26760	positively or negatively regulate
+T1602	GO_BP 26741 26760	negatively regulate
+T1604	GO_BP 26766 26779	transcription
+T1614	GO_BP 26940 26950	regulatory
+T1624	GO_BP 27153 27165	Localization
+T1629	GO_BP 27206 27215	regulated
+T1630	GO_BP 27219 27249	posttranslational modification
+T1631	GO_BP 27258 27275	SUMO modification
+T1633	GO_BP 27304 27308	form
+T1637	GO_BP 27400 27408	assembly
+T1640	GO_BP 27428 27433	forms
+T1646	GO_BP 27474 27487	transcription
+T1652	GO_BP 27589 27604	differentiation
+T1659	GO_BP 27745 27753	regulate
+T1661	GO_BP 27760 27776	cell development
+T1671	GO_BP 27955 27964	generated
+T1678	GO_BP 28183 28194	constructed
+T1679	GO_BP 28198 28204	mating
+T1695	GO_BP 28754 28756	RT
+T1701	GO_BP 28816 28826	expression
+T1714	GO_BP 28977 28988	transcribed
+T1744	GO_BP 29950 29955	grown
+T1759	GO_BP 30688 30708	cell differentiation
+T1769	GO_BP 30925 30939	erythropoiesis
+T1777	GO_BP 31125 31136	proliferate
+T1786	GO_BP 31381 31392	Development
+T1799	GO_BP 31759 31770	Development
+T1857	GO_BP 33237 33246	expressed
+T1878	GO_BP 33483 33498	transcriptional
+T1885	GO_BP 33631 33644	Hematopoiesis
+T1888	GO_BP 33730 33739	apoptosis
+T1897	GO_BP 33938 33947	apoptosis
+T1900	GO_BP 34005 34018	hematopoietic
+T1902	GO_BP 34066 34077	development
+T1921	GO_BP 34197 34207	Expression
+T1928	GO_BP 34351 34361	expression
+T1945	GO_BP 34575 34588	Hematopoiesis
+T1959	GO_BP 34888 34902	differentiated
+T2080	GO_BP 36501 36510	Expressed
+T2081	GO_BP 36514 36527	Hematopoietic
+T2085	GO_BP 36613 36623	expression
+T2091	GO_BP 36653 36662	expressed
+T2094	GO_BP 36693 36703	expression
+T2098	GO_BP 36816 36827	development
+T2102	GO_BP 36864 36873	expressed
+T2103	GO_BP 36915 36922	express
+T2110	GO_BP 36947 36956	expressed
+T2113	GO_BP 37052 37065	hematopoietic
+T2119	GO_BP 37125 37134	expressed
+T2125	GO_BP 37220 37229	expressed
+T2126	GO_BP 37256 37269	hematopoietic
+T2127	GO_BP 37293 37302	expressed
+T2128	GO_BP 37324 37334	expression
+T2129	GO_BP 37357 37367	Expression
+T2136	GO_BP 37463 37473	expression
+T2140	GO_BP 37533 37543	expression
+T2144	GO_BP 37663 37673	expression
+T2145	GO_BP 37711 37721	expression
+T2152	GO_BP 37861 37884	Embryonic Hematopoiesis
+T2168	GO_BP 37999 38010	development
+T2183	GO_BP 38259 38273	erythropoiesis
+T2192	GO_BP 38503 38517	erythropoiesis
+T2201	GO_BP 38727 38738	proliferate
+T2207	GO_BP 38931 38940	Localizes
+T2231	GO_BP 39410 39417	express
+T2235	GO_BP 39485 39495	Expression
+T2241	GO_BP 39548 39558	maturation
+T2242	GO_BP 39559 39566	induced
+T2260	GO_BP 39689 39702	Hematopoietic
+T2279	GO_BP 40255 40268	Hematopoiesis
+T2305	GO_BP 41380 41393	Developmental
+T2313	GO_BP 41594 41609	transcriptional
+T2314	GO_BP 41660 41673	hematopoiesis

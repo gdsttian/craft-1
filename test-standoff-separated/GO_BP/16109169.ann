@@ -1,0 +1,329 @@
+T6	GO_BP 76 85	formation
+T7	GO_BP 96 126	patterning of the mouse embryo
+T15	GO_BP 299 311	gastrulation
+T16	GO_BP 356 391	patterning of the developing embryo
+T17	GO_BP 374 384	developing
+T21	GO_BP 480 518	embryonic patterning and morphogenesis
+T22	GO_BP 480 500	embryonic patterning
+T30	GO_BP 612 641	expression of nutritive genes
+T32	GO_BP 710 720	patterning
+T33	GO_BP 812 822	production
+T43	GO_BP 884 894	expression
+T47	GO_BP 948 958	expression
+T48	GO_BP 1006 1017	development
+T50	GO_BP 1056 1065	expressed
+T51	GO_BP 1140 1150	expression
+T70	GO_BP 1359 1370	established
+T71	GO_BP 1398 1403	forms
+T72	GO_BP 1415 1425	expression
+T73	GO_BP 1500 1509	specified
+T76	GO_BP 1561 1585	patterning of the embryo
+T77	GO_BP 1590 1599	formation
+T78	GO_BP 1656 1671	down-regulation
+T81	GO_BP 1695 1701	growth
+T84	GO_BP 1706 1719	transcription
+T86	GO_BP 1811 1844	cellular and molecular activities
+T92	GO_BP 1894 1900	govern
+T93	GO_BP 1924 1935	development
+T123	GO_BP 2903 2911	location
+T128	GO_BP 3037 3110	assembly and possibly the subcellular location of large protein complexes
+T129	GO_BP 3063 3083	subcellular location
+T130	GO_BP 3075 3110	location of large protein complexes
+T139	GO_BP 3269 3287	cellular processes
+T142	GO_BP 3304 3315	trafficking
+T145	GO_BP 3319 3325	growth
+T148	GO_BP 3351 3364	transcription
+T155	GO_BP 3581 3600	cellular activities
+T184	GO_BP 4052 4073	embryonic development
+T187	GO_BP 4125 4138	developmental
+T188	GO_BP 4153 4165	gastrulation
+T191	GO_BP 4231 4243	neurogenesis
+T205	GO_BP 4416 4427	development
+T209	GO_BP 4623 4633	expression
+T212	GO_BP 4704 4716	gastrulation
+T220	GO_BP 4951 4957	direct
+T221	GO_BP 4958 5031	anterior/posterior axis formation and patterning in the developing embryo
+T222	GO_BP 4996 5031	patterning in the developing embryo
+T223	GO_BP 5014 5024	developing
+T228	GO_BP 5326 5340	iron transport
+T233	GO_BP 5410 5421	endocytosis
+T240	GO_BP 5534 5542	shuttles
+T243	GO_BP 5604 5616	localization
+T246	GO_BP 5624 5637	transcription
+T249	GO_BP 5701 5714	transcription
+T250	GO_BP 5755 5762	pattern
+T251	GO_BP 5843 5862	expression of genes
+T253	GO_BP 5885 5923	embryonic patterning and morphogenesis
+T254	GO_BP 5885 5905	embryonic patterning
+T265	GO_BP 6081 6091	patterning
+T266	GO_BP 6135 6145	expression
+T269	GO_BP 6161 6167	growth
+T272	GO_BP 6172 6185	transcription
+T275	GO_BP 6274 6302	paraxial mesoderm production
+T277	GO_BP 6357 6367	developing
+T281	GO_BP 6469 6471	RT
+T283	GO_BP 6500 6542	expression of a panel of 'nutritive' genes
+T294	GO_BP 6694 6725	expression of "nutritive" genes
+T315	GO_BP 6799 6812	hematopoiesis
+T316	GO_BP 6816 6830	vasculogenesis
+T339	GO_BP 6951 6970	expression of genes
+T343	GO_BP 7067 7080	developmental
+T344	GO_BP 7114 7133	expression of genes
+T346	GO_BP 7140 7147	pattern
+T347	GO_BP 7173 7184	morphogenic
+T367	GO_BP 7631 7637	formed
+T373	GO_BP 7687 7696	expressed
+T374	GO_BP 7767 7776	expressed
+T376	GO_BP 7828 7838	expression
+T380	GO_BP 7880 7890	expression
+T382	GO_BP 7933 7943	expression
+T383	GO_BP 7944 7953	localized
+T384	GO_BP 8015 8025	expression
+T385	GO_BP 8090 8158	specification and movement of anterior visceral endoderm (AVE) cells
+T386	GO_BP 8108 8158	movement of anterior visceral endoderm (AVE) cells
+T389	GO_BP 8213 8220	induced
+T392	GO_BP 8298 8307	induction
+T404	GO_BP 8539 8546	develop
+T407	GO_BP 8616 8626	expression
+T408	GO_BP 8659 8669	expression
+T413	GO_BP 8725 8748	transcriptional control
+T414	GO_BP 8725 8740	transcriptional
+T418	GO_BP 8770 8780	expression
+T420	GO_BP 8982 8991	induction
+T421	GO_BP 8996 9008	localization
+T428	GO_BP 9227 9245	endoderm formation
+T429	GO_BP 9251 9261	expression
+T442	GO_BP 9353 9363	expression
+T451	GO_BP 9666 9676	expression
+T457	GO_BP 9741 9751	regulation
+T458	GO_BP 9958 9967	formation
+T461	GO_BP 10062 10080	mesoderm formation
+T463	GO_BP 10112 10121	specified
+T465	GO_BP 10162 10172	expression
+T475	GO_BP 10267 10277	patterning
+T479	GO_BP 10329 10338	expressed
+T491	GO_BP 10576 10586	expression
+T497	GO_BP 10730 10739	expressed
+T502	GO_BP 10870 10879	expressed
+T505	GO_BP 10964 10973	expressed
+T506	GO_BP 11030 11039	expressed
+T507	GO_BP 11192 11199	express
+T513	GO_BP 11266 11276	expression
+T524	GO_BP 11486 11546	formation of anterior primitive streak and paraxial mesoderm
+T534	GO_BP 11639 11648	expressed
+T538	GO_BP 11713 11722	expressed
+T547	GO_BP 11875 11884	expressed
+T551	GO_BP 11921 11931	expression
+T553	GO_BP 11979 11991	localization
+T554	GO_BP 11999 12009	expression
+T563	GO_BP 12223 12251	paraxial mesoderm production
+T569	GO_BP 12770 12779	generates
+T570	GO_BP 12821 12848	paraxial mesoderm formation
+T573	GO_BP 12913 12923	patterning
+T577	GO_BP 12953 12962	expressed
+T580	GO_BP 12996 13001	fated
+T581	GO_BP 12996 13001	fated
+T582	GO_BP 12996 13001	fated
+T590	GO_BP 13156 13167	development
+T591	GO_BP 13229 13239	expression
+T601	GO_BP 13324 13353	paraxial mesoderm development
+T602	GO_BP 13373 13383	expression
+T608	GO_BP 13544 13554	expression
+T614	GO_BP 13768 13777	formation
+T615	GO_BP 13812 13849	axial and paraxial mesoderm formation
+T616	GO_BP 13822 13849	paraxial mesoderm formation
+T617	GO_BP 13863 13881	neural development
+T620	GO_BP 13917 13923	growth
+T621	GO_BP 13931 13941	expression
+T624	GO_BP 13998 14008	patterning
+T625	GO_BP 14036 14045	signaling
+T627	GO_BP 14084 14094	patterning
+T632	GO_BP 14134 14142	secreted
+T634	GO_BP 14173 14182	formation
+T635	GO_BP 14227 14236	induction
+T639	GO_BP 14275 14284	expressed
+T640	GO_BP 14355 14367	implantation
+T641	GO_BP 14509 14519	expression
+T645	GO_BP 14564 14574	expression
+T649	GO_BP 14608 14618	expression
+T688	GO_BP 15000 15010	expression
+T699	GO_BP 15063 15070	express
+T705	GO_BP 15282 15286	form
+T706	GO_BP 15290 15299	organized
+T708	GO_BP 15360 15375	gene expression
+T715	GO_BP 15565 15575	expression
+T716	GO_BP 15619 15629	expression
+T728	GO_BP 15889 15902	downregulated
+T731	GO_BP 15912 15921	migrating
+T735	GO_BP 15998 16007	expressed
+T737	GO_BP 16043 16053	expression
+T744	GO_BP 16274 16284	expression
+T749	GO_BP 16345 16359	down-regulated
+T753	GO_BP 16520 16529	signaling
+T754	GO_BP 16559 16571	gastrulation
+T758	GO_BP 16614 16628	cell migration
+T761	GO_BP 16666 16675	Expressed
+T762	GO_BP 16697 16706	formation
+T766	GO_BP 16854 16867	downregulated
+T778	GO_BP 16960 16970	expression
+T779	GO_BP 16983 16992	expressed
+T780	GO_BP 17154 17161	migrate
+T781	GO_BP 17207 17217	expression
+T792	GO_BP 17321 17330	migration
+T796	GO_BP 17379 17389	repression
+T804	GO_BP 17463 17473	expression
+T813	GO_BP 17521 17530	expressed
+T814	GO_BP 17619 17623	form
+T815	GO_BP 17633 17645	gastrulation
+T816	GO_BP 17671 17676	forms
+T820	GO_BP 17697 17706	expressed
+T831	GO_BP 17888 17898	expression
+T837	GO_BP 18092 18102	regulation
+T846	GO_BP 18255 18268	transcription
+T849	GO_BP 18309 18319	expression
+T850	GO_BP 18338 18347	signaling
+T854	GO_BP 18477 18488	development
+T855	GO_BP 18555 18564	induction
+T856	GO_BP 18594 18604	patterning
+T857	GO_BP 18660 18671	development
+T864	GO_BP 18715 18728	transcription
+T865	GO_BP 18736 18745	expressed
+T866	GO_BP 18856 18864	secreted
+T872	GO_BP 18974 18986	gastrulation
+T876	GO_BP 19013 19022	expressed
+T885	GO_BP 19205 19220	differentiation
+T889	GO_BP 19227 19237	expression
+T897	GO_BP 19363 19376	transcription
+T898	GO_BP 19384 19393	expressed
+T900	GO_BP 19485 19494	expressed
+T905	GO_BP 19564 19574	expressing
+T907	GO_BP 19659 19667	location
+T908	GO_BP 19691 19706	differentiation
+T910	GO_BP 19726 19736	expression
+T915	GO_BP 19911 19921	expression
+T921	GO_BP 19958 19967	expressed
+T923	GO_BP 20133 20143	expression
+T932	GO_BP 20246 20255	expressed
+T934	GO_BP 20352 20362	Expression
+T935	GO_BP 20381 20390	signaling
+T939	GO_BP 20462 20472	expression
+T953	GO_BP 20587 20596	localized
+T957	GO_BP 20724 20731	induced
+T962	GO_BP 20807 20816	signaling
+T966	GO_BP 20884 20894	expression
+T969	GO_BP 20999 21009	expression
+T976	GO_BP 21073 21083	expression
+T977	GO_BP 21116 21125	formation
+T978	GO_BP 21146 21150	form
+T983	GO_BP 21282 21289	develop
+T986	GO_BP 21455 21459	form
+T987	GO_BP 21789 21798	formation
+T988	GO_BP 21803 21813	patterning
+T991	GO_BP 21846 21855	signaling
+T993	GO_BP 21879 21888	expressed
+T994	GO_BP 21958 21967	localized
+T995	GO_BP 22063 22073	regulating
+T996	GO_BP 22078 22087	formation
+T998	GO_BP 22143 22153	patterning
+T1004	GO_BP 22238 22248	expression
+T1011	GO_BP 22333 22342	expressed
+T1015	GO_BP 22435 22445	expression
+T1019	GO_BP 22560 22569	signaling
+T1024	GO_BP 22676 22685	induction
+T1033	GO_BP 22910 22914	form
+T1042	GO_BP 22966 22975	signaling
+T1045	GO_BP 23142 23152	patterning
+T1053	GO_BP 23224 23233	expressed
+T1054	GO_BP 23279 23318	posteriorization of the anterior embryo
+T1056	GO_BP 23344 23357	Wnt signaling
+T1069	GO_BP 23446 23455	expressed
+T1083	GO_BP 23626 23636	expression
+T1084	GO_BP 23709 23719	expression
+T1085	GO_BP 23762 23772	expression
+T1092	GO_BP 23818 23828	expression
+T1094	GO_BP 23902 23912	expression
+T1101	GO_BP 23960 23969	formation
+T1102	GO_BP 23988 23997	induction
+T1103	GO_BP 24017 24021	form
+T1111	GO_BP 24125 24132	forming
+T1114	GO_BP 24279 24286	develop
+T1116	GO_BP 24377 24384	develop
+T1119	GO_BP 24563 24576	organogenesis
+T1126	GO_BP 24806 24825	cellular activities
+T1134	GO_BP 25051 25063	gastrulation
+T1135	GO_BP 25121 25136	gene expression
+T1145	GO_BP 25250 25259	formation
+T1146	GO_BP 25279 25310	production of paraxial mesoderm
+T1149	GO_BP 25422 25431	expressed
+T1154	GO_BP 25525 25540	down-regulation
+T1155	GO_BP 25568 25577	expressed
+T1157	GO_BP 25611 25621	expression
+T1158	GO_BP 25666 25699	anterior/posterior axis formation
+T1159	GO_BP 25721 25730	formation
+T1160	GO_BP 25833 25844	development
+T1167	GO_BP 26009 26019	expression
+T1178	GO_BP 26211 26220	migration
+T1179	GO_BP 26314 26329	down-regulation
+T1183	GO_BP 26460 26470	expression
+T1195	GO_BP 26542 26568	transcriptional regulation
+T1196	GO_BP 26542 26557	transcriptional
+T1200	GO_BP 26669 26677	regulate
+T1201	GO_BP 26682 26707	expression of these genes
+T1205	GO_BP 26881 26896	gene expression
+T1213	GO_BP 26979 26990	development
+T1220	GO_BP 27062 27072	expression
+T1227	GO_BP 27156 27166	expression
+T1241	GO_BP 27331 27341	expression
+T1248	GO_BP 27412 27425	Wnt signaling
+T1251	GO_BP 27470 27479	signaling
+T1254	GO_BP 27533 27542	induction
+T1257	GO_BP 27596 27605	transport
+T1258	GO_BP 27610 27619	secretion
+T1268	GO_BP 27696 27705	expressed
+T1279	GO_BP 27804 27810	growth
+T1280	GO_BP 27839 27850	development
+T1281	GO_BP 27880 27889	regulated
+T1282	GO_BP 27897 27909	gastrulation
+T1300	GO_BP 28306 28310	form
+T1301	GO_BP 28337 28350	organogenesis
+T1303	GO_BP 28421 28430	formation
+T1304	GO_BP 28495 28501	induce
+T1305	GO_BP 28531 28535	form
+T1307	GO_BP 28566 28573	express
+T1320	GO_BP 28644 28653	formation
+T1321	GO_BP 28681 28690	induction
+T1322	GO_BP 28715 28719	form
+T1331	GO_BP 28969 28980	development
+T1334	GO_BP 29154 29169	CNS development
+T1341	GO_BP 29326 29347	embryonic development
+T1348	GO_BP 29532 29562	embryonic ectoderm development
+T1351	GO_BP 29542 29562	ectoderm development
+T1358	GO_BP 29659 29670	development
+T1359	GO_BP 29689 29698	formation
+T1369	GO_BP 29726 29736	expression
+T1370	GO_BP 29781 29800	mesoderm production
+T1373	GO_BP 29874 29885	development
+T1374	GO_BP 29912 29921	imprinted
+T1375	GO_BP 29922 29936	X-inactivation
+T1377	GO_BP 29941 29959	genomic imprinting
+T1395	GO_BP 30548 30569	embryonic development
+T1396	GO_BP 30610 30614	make
+T1422	GO_BP 31046 31059	transcription
+T1426	GO_BP 31101 31111	expression
+T1429	GO_BP 31199 31209	regulation
+T1431	GO_BP 31232 31242	expression
+T1438	GO_BP 31373 31383	regulation
+T1441	GO_BP 31459 31469	patterning
+T1442	GO_BP 31499 31512	embryogenesis
+T1443	GO_BP 31550 31559	formation
+T1444	GO_BP 31591 31632	paraxial mesoderm and head fold formation
+T1445	GO_BP 31687 31696	expressed
+T1448	GO_BP 31697 31703	growth
+T1451	GO_BP 31708 31721	transcription
+T1456	GO_BP 31862 31879	cellular pathways
+T1461	GO_BP 32071 32081	developing
+T1489	GO_BP 32596 32607	pregnancies
+T1490	GO_BP 32613 32619	mating
+T1500	GO_BP 32853 32863	expression
+T1501	GO_BP 32895 32902	matings
+T1527	GO_BP 33343 33353	expression

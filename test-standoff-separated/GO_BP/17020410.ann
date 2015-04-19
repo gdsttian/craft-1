@@ -1,0 +1,139 @@
+T1	GO_BP 56 62	Lethal
+T19	GO_BP 691 701	DNA repair
+T21	GO_BP 712 725	transcription
+T27	GO_BP 1030 1036	lethal
+T32	GO_BP 1120 1133	transcription
+T34	GO_BP 1212 1225	developmental
+T54	GO_BP 2069 2078	metabolic
+T93	GO_BP 2981 2994	transcription
+T94	GO_BP 2995 3005	DNA repair
+T98	GO_BP 3123 3147	transcription initiation
+T99	GO_BP 3123 3136	transcription
+T100	GO_BP 3152 3169	DNA damage repair
+T102	GO_BP 3178 3218	nucleotide excision repair (NER) pathway
+T103	GO_BP 3178 3197	nucleotide excision
+T107	GO_BP 3206 3218	NER) pathway
+T112	GO_BP 3484 3496	pigmentation
+T113	GO_BP 3603 3609	growth
+T114	GO_BP 3763 3769	growth
+T116	GO_BP 4028 4041	transcription
+T119	GO_BP 4155 4173	neurodevelopmental
+T143	GO_BP 5184 5193	generated
+T147	GO_BP 5287 5297	generation
+T153	GO_BP 5438 5444	ageing
+T156	GO_BP 5475 5485	DNA repair
+T158	GO_BP 5569 5579	Generation
+T162	GO_BP 5614 5623	generated
+T177	GO_BP 5769 5779	expression
+T181	GO_BP 5850 5852	RT
+T184	GO_BP 5879 5889	expression
+T195	GO_BP 6130 6139	expressed
+T200	GO_BP 6312 6318	births
+T203	GO_BP 6456 6462	lethal
+T205	GO_BP 6547 6557	expression
+T216	GO_BP 6752 6765	embryogenesis
+T223	GO_BP 6958 6964	lethal
+T264	GO_BP 7586 7604	translational stop
+T265	GO_BP 7586 7599	translational
+T268	GO_BP 7632 7647	polyadenylation
+T289	GO_BP 7987 8002	polyadenylation
+T307	GO_BP 8391 8399	digested
+T321	GO_BP 8448 8459	recombinant
+T329	GO_BP 8547 8553	yields
+T340	GO_BP 8634 8639	yield
+T345	GO_BP 8758 8764	yields
+T349	GO_BP 8816 8818	RT
+T354	GO_BP 8841 8851	expression
+T419	GO_BP 9622 9635	Developmental
+T420	GO_BP 9713 9719	lethal
+T442	GO_BP 10024 10028	born
+T443	GO_BP 10068 10078	Expression
+T450	GO_BP 10177 10187	expression
+T472	GO_BP 10549 10559	expression
+T473	GO_BP 10576 10582	lethal
+T490	GO_BP 10926 10936	hair cycle
+T494	GO_BP 11096 11106	hair cycle
+T518	GO_BP 11733 11746	Developmental
+T563	GO_BP 12741 12751	developing
+T576	GO_BP 13370 13383	developmental
+T584	GO_BP 13599 13605	Lethal
+T590	GO_BP 13785 13791	ageing
+T638	GO_BP 15026 15032	Ageing
+T678	GO_BP 16008 16014	lethal
+T687	GO_BP 16118 16127	generated
+T697	GO_BP 16266 16272	lethal
+T710	GO_BP 16499 16505	ageing
+T720	GO_BP 16986 16995	synthesis
+T721	GO_BP 17039 17052	RNA synthesis
+T723	GO_BP 17121 17124	NER
+T725	GO_BP 17152 17155	NER
+T726	GO_BP 17160 17185	transcription-coupled NER
+T727	GO_BP 17160 17173	transcription
+T728	GO_BP 17197 17200	NER
+T729	GO_BP 17248 17262	response to UV
+T745	GO_BP 17770 17809	activity of compound heterozygous cells
+T752	GO_BP 17894 17900	lethal
+T801	GO_BP 18611 18614	NER
+T816	GO_BP 18890 18902	NER reaction
+T821	GO_BP 19133 19139	repair
+T843	GO_BP 19527 19536	expressed
+T851	GO_BP 19808 19814	repair
+T871	GO_BP 20129 20157	transcription-coupled repair
+T872	GO_BP 20129 20142	transcription
+T887	GO_BP 20352 20378	Incision/excision activity
+T888	GO_BP 20361 20378	excision activity
+T892	GO_BP 20441 20453	NER reaction
+T893	GO_BP 20503 20514	recombinant
+T906	GO_BP 20619 20630	recombinant
+T914	GO_BP 20694 20697	NER
+T915	GO_BP 20713 20721	excision
+T921	GO_BP 20807 20817	denaturing
+T1024	GO_BP 22860 22870	expression
+T1046	GO_BP 23343 23353	expression
+T1056	GO_BP 23561 23571	expression
+T1061	GO_BP 23638 23648	expression
+T1065	GO_BP 23738 23748	expression
+T1122	GO_BP 25884 25897	Transcription
+T1123	GO_BP 25902 25908	Repair
+T1128	GO_BP 26015 26021	lethal
+T1138	GO_BP 26069 26082	transcription
+T1140	GO_BP 26185 26236	differentiation of enucleating skin and blood cells
+T1142	GO_BP 26204 26215	enucleating
+T1155	GO_BP 26372 26385	transcription
+T1171	GO_BP 26706 26712	lethal
+T1182	GO_BP 26915 26930	transcriptional
+T1184	GO_BP 27003 27055	differentiation of skin, hair-shaft, and blood cells
+T1188	GO_BP 27112 27118	lethal
+T1203	GO_BP 27392 27407	differentiation
+T1204	GO_BP 27497 27512	transcriptional
+T1205	GO_BP 27540 27561	embryonic development
+T1217	GO_BP 27641 27689	ontogenesis of skin, hair-shaft, and blood cells
+T1218	GO_BP 27641 27672	ontogenesis of skin, hair-shaft
+T1219	GO_BP 27641 27660	ontogenesis of skin
+T1222	GO_BP 27738 27744	repair
+T1234	GO_BP 27888 27898	expression
+T1239	GO_BP 28117 28132	repair activity
+T1256	GO_BP 28770 28782	NER activity
+T1258	GO_BP 28897 28909	NER reaction
+T1274	GO_BP 29265 29339	transcription-coupled repair of either UV-induced or endogenous DNA damage
+T1275	GO_BP 29265 29278	transcription
+T1281	GO_BP 29494 29507	transcription
+T1294	GO_BP 29763 29776	transcription
+T1304	GO_BP 30208 30212	died
+T1377	GO_BP 33682 33692	expression
+T1380	GO_BP 33811 33821	Generation
+T1387	GO_BP 33931 33941	generation
+T1403	GO_BP 34141 34150	generated
+T1404	GO_BP 34141 34150	generated
+T1418	GO_BP 34874 34900	incision/excision activity
+T1419	GO_BP 34883 34900	excision activity
+T1436	GO_BP 35405 35431	incision/excision activity
+T1437	GO_BP 35414 35431	excision activity
+T1439	GO_BP 35439 35450	recombinant
+T1462	GO_BP 37093 37096	NER
+T1463	GO_BP 37099 37125	nucleotide excision repair
+T1464	GO_BP 37099 37118	nucleotide excision
+T1472	GO_BP 37175 37188	transcription
+T1473	GO_BP 37189 37199	DNA repair
+T1475	GO_BP 37260 37273	RNA synthesis
+T1478	GO_BP 37330 37339	synthesis

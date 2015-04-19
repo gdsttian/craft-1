@@ -28,7 +28,7 @@ mkdir -p "$NOHUPDIR"
 for d in "$INPUTDIR"/*; do
     t=`basename $d`
     o="$OUTPUTDIR/${t}-results.txt"
-    n="$NOHUPDIR/nohup.out.$t"
+    n="$NOHUPDIR/nohup.out.$t.parameters"
     nohup $EVALUATOR \
 	-c2 '(2**{5..-10..-1})' \
 	-b 'B-*:{-5..5..0.5}' \

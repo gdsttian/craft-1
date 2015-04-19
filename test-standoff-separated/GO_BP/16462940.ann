@@ -1,0 +1,132 @@
+T3	GO_BP 135 145	expression
+T5	GO_BP 283 293	regulation
+T8	GO_BP 467 478	constructed
+T19	GO_BP 683 692	metabolic
+T21	GO_BP 870 885	gene expression
+T24	GO_BP 1063 1073	regulation
+T27	GO_BP 1168 1197	regulation of gene expression
+T28	GO_BP 1182 1197	gene expression
+T31	GO_BP 1448 1458	regulation
+T38	GO_BP 1805 1815	expression
+T41	GO_BP 1921 1943	sexual differentiation
+T48	GO_BP 2317 2327	expression
+T49	GO_BP 2349 2364	gene expression
+T51	GO_BP 2420 2430	expression
+T53	GO_BP 2470 2483	transcription
+T56	GO_BP 2517 2527	regulating
+T57	GO_BP 2532 2542	expression
+T68	GO_BP 3312 3322	behavioral
+T72	GO_BP 3640 3655	gene expression
+T75	GO_BP 3812 3822	expression
+T80	GO_BP 4119 4128	metabolic
+T102	GO_BP 5004 5019	gene expression
+T104	GO_BP 5078 5093	gene expression
+T107	GO_BP 5191 5201	regulation
+T111	GO_BP 5460 5495	regulation of liver gene expression
+T112	GO_BP 5480 5495	gene expression
+T123	GO_BP 5742 5751	metabolic
+T126	GO_BP 5908 5923	gene expression
+T130	GO_BP 6035 6045	regulation
+T171	GO_BP 7724 7739	gene expression
+T178	GO_BP 8298 8313	gene expression
+T223	GO_BP 11600 11610	regulation
+T233	GO_BP 12328 12337	expressed
+T237	GO_BP 12491 12501	expression
+T240	GO_BP 12780 12795	gene expression
+T242	GO_BP 12830 12841	controlling
+T244	GO_BP 12878 12888	expression
+T245	GO_BP 12920 12930	expression
+T266	GO_BP 14238 14247	regulated
+T279	GO_BP 14884 14899	transcriptional
+T291	GO_BP 15564 15577	transcription
+T293	GO_BP 15783 15800	gene's expression
+T298	GO_BP 15997 16026	regulation of gene expression
+T299	GO_BP 16011 16026	gene expression
+T303	GO_BP 16132 16147	gene expression
+T306	GO_BP 16164 16174	regulation
+T326	GO_BP 17622 17632	regulation
+T342	GO_BP 18523 18533	regulation
+T344	GO_BP 18590 18600	regulation
+T346	GO_BP 18719 18734	transcriptional
+T351	GO_BP 19159 19172	transcription
+T352	GO_BP 19184 19193	regulated
+T357	GO_BP 19360 19369	regulated
+T358	GO_BP 19476 19491	gene expression
+T360	GO_BP 19602 19617	gene expression
+T364	GO_BP 19720 19730	controlled
+T379	GO_BP 20533 20543	regulation
+T383	GO_BP 20614 20629	gene expression
+T389	GO_BP 20731 20746	gene expression
+T395	GO_BP 20897 20906	regulated
+T400	GO_BP 20970 20985	gene expression
+T402	GO_BP 20993 21003	controlled
+T410	GO_BP 21234 21263	regulation of gene expression
+T411	GO_BP 21248 21263	gene expression
+T422	GO_BP 21592 21602	regulation
+T427	GO_BP 21837 21847	regulation
+T428	GO_BP 21896 21905	metabolic
+T430	GO_BP 22027 22042	gene expression
+T434	GO_BP 22290 22300	regulation
+T435	GO_BP 22331 22384	Regulation of Both Complex Traits and Gene Expression
+T436	GO_BP 22369 22384	Gene Expression
+T438	GO_BP 22464 22471	control
+T461	GO_BP 24061 24071	regulation
+T462	GO_BP 24131 24146	proinflammatory
+T467	GO_BP 24423 24441	hormone secretions
+T472	GO_BP 24457 24467	regulation
+T475	GO_BP 24601 24611	expression
+T476	GO_BP 24674 24687	transcription
+T480	GO_BP 24885 24895	regulation
+T481	GO_BP 24920 24935	gene expression
+T485	GO_BP 25005 25018	transcription
+T493	GO_BP 25407 25420	transcription
+T496	GO_BP 25610 25639	regulation of gene expression
+T497	GO_BP 25624 25639	gene expression
+T503	GO_BP 25719 25729	regulation
+T512	GO_BP 25901 25930	regulation of gene expression
+T513	GO_BP 25915 25930	gene expression
+T530	GO_BP 26835 26845	expression
+T539	GO_BP 27165 27196	posttranslational modifications
+T541	GO_BP 27247 27256	regulated
+T542	GO_BP 27291 27304	transcription
+T545	GO_BP 27424 27439	gene expression
+T548	GO_BP 27562 27569	control
+T549	GO_BP 27662 27672	controlled
+T552	GO_BP 27847 27857	Regulation
+T562	GO_BP 28534 28549	gene expression
+T580	GO_BP 29539 29549	regulatory
+T585	GO_BP 29771 29780	metabolic
+T588	GO_BP 29961 29971	controlled
+T596	GO_BP 30212 30227	gene expression
+T600	GO_BP 30347 30357	regulation
+T602	GO_BP 30429 30439	expression
+T605	GO_BP 30772 30782	regulation
+T606	GO_BP 31030 31045	gene expression
+T615	GO_BP 31423 31432	metabolic
+T618	GO_BP 31618 31628	regulation
+T619	GO_BP 31898 31913	gene expression
+T626	GO_BP 32205 32215	regulation
+T628	GO_BP 32359 32369	regulation
+T642	GO_BP 32597 32606	generated
+T647	GO_BP 32675 32684	generated
+T655	GO_BP 32781 32785	bred
+T658	GO_BP 32860 32868	produced
+T660	GO_BP 32884 32887	fed
+T663	GO_BP 33070 33075	death
+T669	GO_BP 33246 33256	expression
+T682	GO_BP 33858 33877	reverse transcribed
+T688	GO_BP 34371 34386	Gene expression
+T692	GO_BP 34716 34725	expressed
+T703	GO_BP 35449 35464	gene expression
+T733	GO_BP 39279 39288	expressed
+T735	GO_BP 39484 39499	gene expression
+T744	GO_BP 40061 40076	gene expression
+T749	GO_BP 40536 40551	gene expression
+T755	GO_BP 41488 41498	expression
+T777	GO_BP 44043 44055	construction
+T787	GO_BP 44182 44197	gene expression
+T831	GO_BP 45959 45974	Gene Expression
+T833	GO_BP 46014 46023	expressed
+T839	GO_BP 46120 46130	Expression
+T889	GO_BP 48687 48702	gene expression
+T906	GO_BP 49298 49313	gene expression

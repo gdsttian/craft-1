@@ -1,0 +1,111 @@
+T7	GO_BP 200 208	generate
+T18	GO_BP 528 537	expressed
+T55	GO_BP 1566 1580	cell formation
+T59	GO_BP 1644 1653	formation
+T75	GO_BP 2004 2014	expression
+T78	GO_BP 2149 2159	expression
+T81	GO_BP 2269 2282	differentiate
+T91	GO_BP 2688 2698	developing
+T95	GO_BP 2820 2827	produce
+T98	GO_BP 3002 3011	denatured
+T102	GO_BP 3085 3130	denaturation and aggregation of lens proteins
+T111	GO_BP 3297 3307	expression
+T114	GO_BP 3417 3426	expressed
+T126	GO_BP 4079 4088	formation
+T127	GO_BP 4124 4164	differentiation of lens epithelial cells
+T130	GO_BP 4236 4251	differentiation
+T136	GO_BP 4434 4442	assembly
+T139	GO_BP 4560 4575	differentiating
+T140	GO_BP 4656 4667	development
+T142	GO_BP 4750 4761	transfected
+T146	GO_BP 4815 4823	localize
+T147	GO_BP 4827 4837	interphase
+T163	GO_BP 5231 5240	formation
+T165	GO_BP 5310 5325	differentiation
+T168	GO_BP 5504 5512	generate
+T187	GO_BP 6252 6261	formation
+T201	GO_BP 6695 6704	expressed
+T212	GO_BP 7158 7172	cell formation
+T221	GO_BP 7394 7403	generated
+T222	GO_BP 7413 7421	breeding
+T230	GO_BP 7696 7702	Vision
+T232	GO_BP 7772 7778	Vision
+T316	GO_BP 13197 13206	localized
+T338	GO_BP 14112 14120	migrated
+T410	GO_BP 17704 17713	organized
+T420	GO_BP 18154 18161	ordered
+T472	GO_BP 20255 20264	organized
+T484	GO_BP 20745 20757	organization
+T519	GO_BP 22390 22398	generate
+T548	GO_BP 23417 23426	expressed
+T574	GO_BP 24348 24394	differentiation and growth of lens fiber cells
+T575	GO_BP 24368 24394	growth of lens fiber cells
+T578	GO_BP 24403 24438	differentiation of lens fiber cells
+T589	GO_BP 24649 24684	Differentiation of epithelial cells
+T594	GO_BP 24779 24792	differentiate
+T599	GO_BP 24837 24845	arranged
+T612	GO_BP 25222 25231	establish
+T626	GO_BP 25707 25755	differentiation pathway of lens epithelial cells
+T639	GO_BP 26085 26090	birth
+T643	GO_BP 26517 26523	visual
+T649	GO_BP 26898 26906	arranged
+T661	GO_BP 27318 27327	migrating
+T664	GO_BP 27402 27415	differentiate
+T675	GO_BP 28048 28100	development and progression of morphological changes
+T680	GO_BP 28320 28366	differentiation and growth of lens fiber cells
+T681	GO_BP 28340 28366	growth of lens fiber cells
+T685	GO_BP 28473 28489	biological event
+T688	GO_BP 28530 28586	transformation from an epithelial cell into a fiber cell
+T693	GO_BP 28653 28660	forming
+T696	GO_BP 28685 28698	differentiate
+T700	GO_BP 28772 28781	formation
+T703	GO_BP 28809 28815	formed
+T708	GO_BP 28898 28913	differentiation
+T709	GO_BP 28948 28958	expression
+T711	GO_BP 28993 29003	developing
+T712	GO_BP 29048 29071	differentiation process
+T713	GO_BP 29138 29161	differentiation process
+T717	GO_BP 29327 29347	cell differentiation
+T724	GO_BP 29581 29590	denatured
+T728	GO_BP 29664 29676	denaturation
+T735	GO_BP 29909 29918	expressed
+T738	GO_BP 29948 29959	development
+T739	GO_BP 29964 29979	differentiation
+T740	GO_BP 30008 30017	expressed
+T741	GO_BP 30029 30044	differentiation
+T746	GO_BP 30125 30135	expression
+T747	GO_BP 30164 30170	growth
+T748	GO_BP 30171 30177	arrest
+T752	GO_BP 30221 30251	differentiation of HL 60 cells
+T755	GO_BP 30265 30273	myogenic
+T756	GO_BP 30274 30289	differentiation
+T763	GO_BP 30401 30411	myogenesis
+T767	GO_BP 30559 30568	formation
+T775	GO_BP 30824 30834	regulating
+T776	GO_BP 30839 30849	cell cycle
+T785	GO_BP 31021 31030	expressed
+T786	GO_BP 31034 31045	transfected
+T789	GO_BP 31087 31095	localize
+T790	GO_BP 31099 31109	interphase
+T792	GO_BP 31131 31141	regulatory
+T801	GO_BP 31415 31426	cell growth
+T808	GO_BP 31523 31533	regulating
+T809	GO_BP 31538 31548	cell cycle
+T813	GO_BP 31662 31683	cell cycle regulation
+T814	GO_BP 31662 31672	cell cycle
+T817	GO_BP 31691 31706	differentiation
+T819	GO_BP 31782 31791	localized
+T836	GO_BP 32246 32255	formation
+T837	GO_BP 32295 32335	differentiation of lens epithelial cells
+T840	GO_BP 32414 32429	differentiation
+T841	GO_BP 32479 32484	forms
+T847	GO_BP 32645 32653	assembly
+T848	GO_BP 32645 32653	assembly
+T851	GO_BP 32708 32723	differentiating
+T856	GO_BP 32863 32912	synthesis of alpha-crystallin in epithelial cells
+T859	GO_BP 32926 32949	differentiation process
+T861	GO_BP 33035 33059	cell shape and migration
+T864	GO_BP 33080 33092	organization
+T873	GO_BP 33546 33556	production
+T877	GO_BP 33600 33610	production
+T881	GO_BP 33908 33914	Vision

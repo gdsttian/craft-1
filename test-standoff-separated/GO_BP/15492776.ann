@@ -1,0 +1,474 @@
+T1	GO_BP 0 22	BMP Receptor Signaling
+T5	GO_BP 153 161	mobility
+T8	GO_BP 273 279	create
+T9	GO_BP 431 446	gene expression
+T11	GO_BP 512 522	regulatory
+T18	GO_BP 568 581	morphogenetic
+T21	GO_BP 614 621	develop
+T24	GO_BP 710 720	developing
+T25	GO_BP 729 739	Expression
+T38	GO_BP 879 889	developing
+T39	GO_BP 1027 1049	BMP receptor signaling
+T43	GO_BP 1059 1070	development
+T49	GO_BP 1120 1123	die
+T50	GO_BP 1133 1146	embryogenesis
+T60	GO_BP 1285 1290	birth
+T61	GO_BP 1305 1316	development
+T67	GO_BP 1395 1399	form
+T76	GO_BP 1554 1559	birth
+T84	GO_BP 1710 1732	BMP receptor signaling
+T88	GO_BP 1764 1775	development
+T89	GO_BP 1780 1808	creation of multiple tissues
+T90	GO_BP 1872 1877	birth
+T92	GO_BP 1916 1938	BMP receptor signaling
+T97	GO_BP 2025 2032	augment
+T98	GO_BP 2033 2055	BMP receptor signaling
+T105	GO_BP 2737 2743	create
+T106	GO_BP 2882 2891	formation
+T107	GO_BP 2906 2919	embryogenesis
+T110	GO_BP 2973 2977	form
+T111	GO_BP 2985 2995	developing
+T112	GO_BP 3031 3052	Programmed cell death
+T115	GO_BP 3112 3117	forms
+T120	GO_BP 3249 3256	develop
+T123	GO_BP 3416 3423	develop
+T124	GO_BP 3580 3598	signaling pathways
+T125	GO_BP 3644 3653	formation
+T128	GO_BP 3664 3673	expressed
+T129	GO_BP 3716 3720	form
+T130	GO_BP 3752 3762	expression
+T132	GO_BP 3888 3901	morphogenetic
+T135	GO_BP 3926 3934	secreted
+T136	GO_BP 3935 3944	signaling
+T138	GO_BP 3964 3973	expressed
+T139	GO_BP 4012 4016	form
+T150	GO_BP 4197 4207	expression
+T151	GO_BP 4264 4271	develop
+T153	GO_BP 4322 4331	formation
+T160	GO_BP 4402 4411	formation
+T161	GO_BP 4520 4537	formation process
+T167	GO_BP 4695 4704	formation
+T168	GO_BP 4782 4800	signaling pathways
+T169	GO_BP 4832 4842	maturation
+T170	GO_BP 4899 4912	BMP signaling
+T172	GO_BP 5016 5027	development
+T188	GO_BP 5324 5333	transduce
+T189	GO_BP 5346 5361	phosphorylating
+T193	GO_BP 5392 5405	transcription
+T197	GO_BP 5513 5523	patterning
+T210	GO_BP 5769 5778	expressed
+T211	GO_BP 5813 5824	development
+T214	GO_BP 5843 5853	expression
+T218	GO_BP 6017 6027	expression
+T226	GO_BP 6286 6293	produce
+T228	GO_BP 6322 6346	bone and joint formation
+T236	GO_BP 6536 6548	gastrulation
+T246	GO_BP 6733 6753	developmental events
+T247	GO_BP 6772 6796	bone and joint formation
+T250	GO_BP 6981 6990	formation
+T251	GO_BP 7054 7064	expression
+T256	GO_BP 7093 7101	engineer
+T262	GO_BP 7185 7192	express
+T270	GO_BP 7449 7462	recombination
+T277	GO_BP 7588 7597	formation
+T278	GO_BP 7624 7659	initiation of programmed cell death
+T279	GO_BP 7638 7659	programmed cell death
+T290	GO_BP 7868 7873	forms
+T291	GO_BP 7907 7917	expression
+T292	GO_BP 7957 7962	birth
+T293	GO_BP 8054 8062	mobility
+T294	GO_BP 8095 8108	BMP signaling
+T296	GO_BP 8187 8226	modulation of the BMP signaling pathway
+T297	GO_BP 8205 8226	BMP signaling pathway
+T301	GO_BP 8340 8351	Development
+T303	GO_BP 8452 8463	development
+T304	GO_BP 8468 8478	engineered
+T307	GO_BP 8498 8505	express
+T311	GO_BP 8525 8535	developing
+T315	GO_BP 8579 8588	expressed
+T316	GO_BP 8607 8617	developing
+T317	GO_BP 8643 8668	embryonic joint formation
+T327	GO_BP 8763 8776	recombination
+T343	GO_BP 8913 8930	translation start
+T344	GO_BP 8913 8924	translation
+T350	GO_BP 8992 8996	make
+T359	GO_BP 9088 9098	expression
+T364	GO_BP 9185 9195	expression
+T368	GO_BP 9234 9254	transcriptional stop
+T369	GO_BP 9234 9249	transcriptional
+T371	GO_BP 9326 9336	expression
+T374	GO_BP 9389 9409	recombination of DNA
+T376	GO_BP 9489 9499	expression
+T378	GO_BP 9553 9563	expression
+T380	GO_BP 9622 9632	expression
+T385	GO_BP 9696 9704	breeding
+T386	GO_BP 9742 9752	expression
+T387	GO_BP 9771 9782	development
+T392	GO_BP 9905 9914	expresses
+T396	GO_BP 9942 9959	DNA recombination
+T398	GO_BP 9963 9973	developing
+T403	GO_BP 10108 10121	recombination
+T404	GO_BP 10133 10144	development
+T405	GO_BP 10156 10166	developing
+T406	GO_BP 10179 10186	forming
+T407	GO_BP 10245 10250	forms
+T408	GO_BP 10324 10335	development
+T409	GO_BP 10384 10393	formation
+T410	GO_BP 10421 10430	formation
+T411	GO_BP 10521 10532	development
+T412	GO_BP 10695 10705	expression
+T413	GO_BP 10848 10858	expression
+T414	GO_BP 11082 11092	developing
+T417	GO_BP 11192 11202	expression
+T420	GO_BP 11411 11421	developing
+T421	GO_BP 11445 11455	expression
+T422	GO_BP 11513 11524	development
+T423	GO_BP 11768 11778	expression
+T426	GO_BP 11815 11836	embryonic development
+T427	GO_BP 11870 11880	expression
+T433	GO_BP 11947 11957	expression
+T435	GO_BP 12027 12029	RT
+T438	GO_BP 12182 12192	expression
+T439	GO_BP 12349 12359	developing
+T440	GO_BP 12489 12494	birth
+T441	GO_BP 12509 12518	expressed
+T442	GO_BP 12697 12706	expressed
+T445	GO_BP 12763 12769	growth
+T448	GO_BP 12962 12972	expression
+T450	GO_BP 13059 13069	expression
+T454	GO_BP 13215 13228	recombination
+T455	GO_BP 13243 13253	expression
+T457	GO_BP 13328 13338	expression
+T458	GO_BP 13368 13379	development
+T459	GO_BP 13418 13431	recombination
+T460	GO_BP 13441 13451	expression
+T462	GO_BP 13496 13509	recombination
+T474	GO_BP 13889 13902	BMP signaling
+T476	GO_BP 13923 13934	development
+T482	GO_BP 13966 13970	bred
+T493	GO_BP 14171 14184	recombination
+T505	GO_BP 14408 14418	recombined
+T539	GO_BP 15057 15070	BMP signaling
+T541	GO_BP 15099 15105	growth
+T548	GO_BP 15251 15258	express
+T558	GO_BP 16006 16012	formed
+T560	GO_BP 16219 16225	growth
+T564	GO_BP 16322 16331	formation
+T565	GO_BP 16386 16434	generation or maintenance of articular cartilage
+T566	GO_BP 16470 16483	Developmental
+T567	GO_BP 16549 16559	eliminated
+T568	GO_BP 16563 16572	apoptosis
+T569	GO_BP 16580 16601	embryonic development
+T579	GO_BP 17215 17225	expression
+T583	GO_BP 17285 17298	recombination
+T584	GO_BP 17467 17480	recombination
+T585	GO_BP 17485 17495	expression
+T592	GO_BP 17843 17848	dying
+T596	GO_BP 17934 17948	phosphorylated
+T598	GO_BP 17968 17981	proliferating
+T603	GO_BP 18129 18138	expressed
+T613	GO_BP 18253 18262	signaling
+T614	GO_BP 18270 18291	programmed cell death
+T617	GO_BP 18333 18343	recombined
+T620	GO_BP 18362 18373	proliferate
+T623	GO_BP 18399 18408	signaling
+T624	GO_BP 18434 18443	Formation
+T628	GO_BP 18481 18490	expressed
+T629	GO_BP 18518 18528	developing
+T633	GO_BP 18616 18625	expressed
+T634	GO_BP 18783 18796	recombination
+T637	GO_BP 19024 19034	expression
+T642	GO_BP 19105 19114	expressed
+T643	GO_BP 19155 19164	formation
+T652	GO_BP 19254 19268	down-regulated
+T665	GO_BP 19485 19495	expression
+T666	GO_BP 19568 19575	forming
+T668	GO_BP 19718 19730	segmentation
+T669	GO_BP 19761 19782	embryonic development
+T674	GO_BP 19954 19966	segmentation
+T678	GO_BP 20036 20049	recombination
+T679	GO_BP 20135 20145	cell death
+T682	GO_BP 20149 20167	cell proliferation
+T685	GO_BP 20312 20322	expression
+T686	GO_BP 20437 20447	expression
+T695	GO_BP 20566 20571	birth
+T704	GO_BP 20906 20915	expressed
+T716	GO_BP 21084 21119	cellular apoptosis or proliferation
+T717	GO_BP 21084 21102	cellular apoptosis
+T722	GO_BP 21206 21215	specified
+T725	GO_BP 21245 21255	expression
+T732	GO_BP 21285 21294	expressed
+T733	GO_BP 21357 21367	developing
+T736	GO_BP 21432 21445	transcription
+T740	GO_BP 21569 21579	expression
+T741	GO_BP 21645 21658	recombination
+T742	GO_BP 21802 21817	gene expression
+T747	GO_BP 21879 21928	formation or specification of articular cartilage
+T748	GO_BP 21892 21905	specification
+T749	GO_BP 21945 21950	birth
+T752	GO_BP 22041 22051	expression
+T761	GO_BP 22330 22340	expression
+T764	GO_BP 22497 22507	expression
+T769	GO_BP 22538 22547	expressed
+T782	GO_BP 22701 22714	BMP signaling
+T788	GO_BP 22799 22809	expression
+T789	GO_BP 22820 22833	proliferation
+T793	GO_BP 22964 22974	expression
+T798	GO_BP 23023 23036	proliferation
+T803	GO_BP 23131 23141	recombined
+T804	GO_BP 23154 23164	expression
+T808	GO_BP 23274 23280	growth
+T811	GO_BP 23383 23396	BMP signaling
+T820	GO_BP 23534 23544	expression
+T824	GO_BP 23709 23733	expression of many genes
+T830	GO_BP 23858 23873	differentiation
+T831	GO_BP 23879 23935	expression of cartilage extracellular matrix (ECM) genes
+T840	GO_BP 23967 23982	transcriptional
+T845	GO_BP 24136 24184	expression of many cartilage matrix marker genes
+T857	GO_BP 24463 24473	Maturation
+T861	GO_BP 24666 24674	expanded
+T862	GO_BP 24693 24697	grew
+T863	GO_BP 24855 24865	maturation
+T864	GO_BP 24880 24890	expression
+T872	GO_BP 25073 25083	expression
+T873	GO_BP 25150 25163	recombination
+T874	GO_BP 25184 25194	expression
+T880	GO_BP 25302 25314	ossification
+T883	GO_BP 25348 25357	expressed
+T884	GO_BP 25361 25369	maturing
+T893	GO_BP 25591 25595	made
+T894	GO_BP 25643 25653	maturation
+T897	GO_BP 25834 25844	maturation
+T908	GO_BP 26195 26207	inflammation
+T909	GO_BP 26316 26327	development
+T910	GO_BP 26331 26340	regulated
+T911	GO_BP 26344 26357	BMP signaling
+T913	GO_BP 26405 26413	response
+T914	GO_BP 26680 26689	expansion
+T924	GO_BP 26925 26935	expression
+T926	GO_BP 27299 27309	expression
+T937	GO_BP 27622 27631	formation
+T944	GO_BP 27730 27740	expression
+T947	GO_BP 27795 27805	expression
+T953	GO_BP 28058 28064	formed
+T959	GO_BP 28515 28521	growth
+T974	GO_BP 29304 29310	growth
+T977	GO_BP 29690 29698	response
+T978	GO_BP 29702 29716	bone formation
+T982	GO_BP 29812 29849	signaling in some LACZ-positive cells
+T985	GO_BP 30034 30040	motion
+T1001	GO_BP 30342 30350	mobility
+T1012	GO_BP 30615 30630	gene expression
+T1018	GO_BP 30806 30819	BMP signaling
+T1020	GO_BP 30853 30873	developmental events
+T1021	GO_BP 30911 30924	embryogenesis
+T1025	GO_BP 30976 30981	death
+T1029	GO_BP 31026 31039	recombination
+T1036	GO_BP 31181 31210	limb and skeletal development
+T1037	GO_BP 31190 31210	skeletal development
+T1045	GO_BP 31286 31292	driven
+T1046	GO_BP 31343 31352	formation
+T1047	GO_BP 31439 31444	birth
+T1048	GO_BP 31526 31539	BMP signaling
+T1050	GO_BP 31560 31569	apoptosis
+T1051	GO_BP 31577 31600	development of the limb
+T1052	GO_BP 31660 31681	BMP signaling pathway
+T1054	GO_BP 31842 31855	BMP signaling
+T1056	GO_BP 31885 31894	apoptosis
+T1063	GO_BP 32058 32067	formation
+T1064	GO_BP 32104 32108	form
+T1080	GO_BP 32399 32408	formation
+T1081	GO_BP 32506 32517	BMP pathway
+T1083	GO_BP 32547 32560	BMP signaling
+T1085	GO_BP 32599 32608	formation
+T1086	GO_BP 32658 32662	form
+T1093	GO_BP 32707 32717	expression
+T1094	GO_BP 32825 32838	BMP signaling
+T1096	GO_BP 32876 32886	expression
+T1104	GO_BP 33065 33075	expression
+T1106	GO_BP 33097 33103	driven
+T1110	GO_BP 33121 33128	control
+T1112	GO_BP 33165 33174	expressed
+T1116	GO_BP 33194 33207	recombination
+T1117	GO_BP 33223 33236	recombination
+T1118	GO_BP 33259 33274	gene expression
+T1129	GO_BP 33444 33457	recombination
+T1133	GO_BP 33529 33538	formation
+T1134	GO_BP 33573 33605	decay of Bmpr1a mRNA and protein
+T1135	GO_BP 33573 33593	decay of Bmpr1a mRNA
+T1148	GO_BP 33691 33701	recombined
+T1155	GO_BP 33817 33828	development
+T1156	GO_BP 33885 33900	gene expression
+T1158	GO_BP 33919 33924	birth
+T1163	GO_BP 33985 33999	differentiated
+T1164	GO_BP 34049 34056	develop
+T1165	GO_BP 34061 34064	age
+T1166	GO_BP 34093 34115	BMP receptor signaling
+T1170	GO_BP 34429 34437	mobility
+T1171	GO_BP 34478 34484	create
+T1175	GO_BP 34667 34680	proliferation
+T1176	GO_BP 34696 34703	express
+T1180	GO_BP 34729 34736	express
+T1185	GO_BP 34751 34764	transcription
+T1186	GO_BP 34772 34782	regulating
+T1187	GO_BP 34783 34793	expression
+T1194	GO_BP 34985 35028	synthesis of Col2a1, Agg, and proteoglycans
+T1203	GO_BP 35115 35125	expression
+T1210	GO_BP 35182 35195	transcription
+T1211	GO_BP 35219 35228	expressed
+T1218	GO_BP 35297 35310	transcription
+T1223	GO_BP 35456 35479	protein phosphorylation
+T1230	GO_BP 35666 35675	formation
+T1251	GO_BP 35899 35914	gene expression
+T1259	GO_BP 35970 35979	signaling
+T1262	GO_BP 36018 36057	post-translational protein modification
+T1263	GO_BP 36023 36036	translational
+T1271	GO_BP 36112 36122	expression
+T1275	GO_BP 36236 36246	expression
+T1280	GO_BP 36370 36380	expression
+T1287	GO_BP 36446 36461	phosphorylation
+T1296	GO_BP 36739 36744	birth
+T1297	GO_BP 36879 36888	regulated
+T1298	GO_BP 36892 36905	BMP signaling
+T1306	GO_BP 36995 37005	expression
+T1313	GO_BP 37040 37046	growth
+T1318	GO_BP 37207 37237	TGFβ rather than BMP signaling
+T1320	GO_BP 37224 37237	BMP signaling
+T1328	GO_BP 37484 37506	TGFβ and BMP signaling
+T1330	GO_BP 37493 37506	BMP signaling
+T1333	GO_BP 37654 37660	induce
+T1334	GO_BP 37669 37683	bone formation
+T1335	GO_BP 37744 37763	cartilage formation
+T1336	GO_BP 37815 37825	regenerate
+T1349	GO_BP 38402 38410	mobility
+T1354	GO_BP 38521 38534	BMP signaling
+T1378	GO_BP 39455 39476	BMP signaling pathway
+T1406	GO_BP 39901 39914	BMP signaling
+T1410	GO_BP 40042 40075	Development and disease processes
+T1412	GO_BP 40165 40174	generated
+T1414	GO_BP 40228 40239	development
+T1418	GO_BP 40299 40314	gene expression
+T1423	GO_BP 40540 40560	expression of a gene
+T1425	GO_BP 40574 40584	developing
+T1427	GO_BP 40761 40772	development
+T1428	GO_BP 40922 40932	Generation
+T1443	GO_BP 41105 41118	recombination
+T1447	GO_BP 41173 41182	localized
+T1469	GO_BP 41462 41470	produced
+T1479	GO_BP 41639 41656	translation start
+T1480	GO_BP 41639 41650	translation
+T1494	GO_BP 41937 41953	translation stop
+T1495	GO_BP 41937 41948	translation
+T1522	GO_BP 42587 42592	built
+T1523	GO_BP 42671 42679	digested
+T1525	GO_BP 42746 42759	recombination
+T1530	GO_BP 42903 42907	made
+T1533	GO_BP 42969 42976	produce
+T1544	GO_BP 43184 43192	digested
+T1560	GO_BP 43732 43742	fertilized
+T1580	GO_BP 44184 44195	established
+T1581	GO_BP 44234 44241	Matings
+T1595	GO_BP 44819 44827	breeding
+T1599	GO_BP 44886 44891	mated
+T1607	GO_BP 45035 45044	generated
+T1608	GO_BP 45074 45081	matings
+T1611	GO_BP 45309 45315	formed
+T1615	GO_BP 45651 45657	motion
+T1621	GO_BP 46064 46073	generated
+T1629	GO_BP 46325 46353	Cell death and proliferation
+T1630	GO_BP 46325 46335	Cell death
+T1635	GO_BP 46561 46571	Cell Death
+T1643	GO_BP 46825 46832	Mitosis
+T1646	GO_BP 46923 46930	mitosis
+T1675	GO_BP 49130 49141	acetylation
+T1678	GO_BP 49258 49271	developmental
+T1712	GO_BP 49953 49957	made
+T1715	GO_BP 50148 50156	digested
+T1739	GO_BP 50991 51005	phosphorylated
+T1780	GO_BP 52243 52256	morphogenetic
+T1797	GO_BP 52420 52426	growth
+T1798	GO_BP 52427 52442	differentiation
+T1815	GO_BP 52621 52627	growth
+T1823	GO_BP 52788 52793	Drive
+T1825	GO_BP 52799 52812	Recombination
+T1826	GO_BP 52816 52826	Developing
+T1839	GO_BP 52922 52939	translation start
+T1840	GO_BP 52922 52933	translation
+T1844	GO_BP 52965 52969	make
+T1850	GO_BP 53073 53079	driven
+T1851	GO_BP 53080 53093	recombination
+T1853	GO_BP 53131 53141	expression
+T1858	GO_BP 53446 53456	expression
+T1860	GO_BP 53508 53518	expression
+T1861	GO_BP 53528 53538	rearranged
+T1865	GO_BP 53720 53726	formed
+T1867	GO_BP 53798 53808	expression
+T1868	GO_BP 53963 53972	expressed
+T1869	GO_BP 54208 54218	expression
+T1870	GO_BP 54251 54261	developing
+T1876	GO_BP 54465 54475	Regression
+T1877	GO_BP 54480 54489	Apoptosis
+T1883	GO_BP 54735 54745	expression
+T1885	GO_BP 54968 54977	apoptosis
+T1886	GO_BP 55019 55032	proliferation
+T1887	GO_BP 55060 55086	histone H3 phosphorylation
+T1891	GO_BP 55236 55243	mitotic
+T1894	GO_BP 55334 55341	mitotic
+T1897	GO_BP 55397 55406	apoptosis
+T1898	GO_BP 55428 55441	proliferation
+T1899	GO_BP 55563 55572	regressed
+T1907	GO_BP 55725 55738	recombination
+T1911	GO_BP 55786 55796	expression
+T1919	GO_BP 55882 55890	Breeding
+T1926	GO_BP 55981 55994	recombination
+T1928	GO_BP 56003 56013	expression
+T1936	GO_BP 56523 56529	growth
+T1941	GO_BP 56681 56690	Expressed
+T1942	GO_BP 56737 56746	Formation
+T1952	GO_BP 57052 57061	expressed
+T1953	GO_BP 57115 57122	forming
+T1957	GO_BP 57247 57257	expression
+T1959	GO_BP 57275 57282	forming
+T1960	GO_BP 57332 57347	gene expression
+T1965	GO_BP 57519 57533	down-regulated
+T1969	GO_BP 57544 57551	express
+T1973	GO_BP 57577 57584	express
+T1977	GO_BP 57687 57696	formation
+T1981	GO_BP 57723 57733	expression
+T1985	GO_BP 57835 57845	expression
+T1988	GO_BP 57963 57970	express
+T1992	GO_BP 58000 58007	forming
+T1993	GO_BP 58041 58051	expression
+T2000	GO_BP 58201 58211	Expression
+T2006	GO_BP 58431 58436	birth
+T2012	GO_BP 58553 58563	expression
+T2016	GO_BP 58577 58587	expression
+T2017	GO_BP 58635 58644	specified
+T2020	GO_BP 58681 58691	expression
+T2021	GO_BP 58714 58727	recombination
+T2023	GO_BP 58876 58881	birth
+T2024	GO_BP 58977 58986	expresses
+T2036	GO_BP 59149 59159	expression
+T2046	GO_BP 59299 59309	expression
+T2047	GO_BP 59332 59345	recombination
+T2050	GO_BP 59458 59467	Expansion
+T2051	GO_BP 59512 59522	Maturation
+T2058	GO_BP 59708 59721	recombination
+T2068	GO_BP 59875 59885	expression
+T2071	GO_BP 59941 59950	expansion
+T2074	GO_BP 60076 60086	expressing
+T2077	GO_BP 60130 60142	upregulation
+T2084	GO_BP 60198 60208	expression
+T2087	GO_BP 60274 60287	recombination
+T2088	GO_BP 60298 60307	formation
+T2091	GO_BP 60384 60393	formation
+T2095	GO_BP 60528 60537	Signaling
+T2096	GO_BP 60620 60625	Aging
+T2103	GO_BP 60953 60963	expression
+T2104	GO_BP 60986 60999	recombination
+T2108	GO_BP 61156 61162	growth
+T2109	GO_BP 61188 61193	birth
+T2112	GO_BP 61473 61486	recombination
+T2125	GO_BP 61910 61923	recombination
+T2130	GO_BP 62043 62049	formed
+T2138	GO_BP 62816 62838	BMP receptor signaling

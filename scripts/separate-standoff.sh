@@ -10,9 +10,19 @@ SCRIPTDIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 
 CRAFTROOT="$SCRIPTDIR/.."
 
-INPUTDIR="$CRAFTROOT/train-and-devel-standoff"
+if [[ "$#" -ne 1 ]]; then
+    echo "Usage: $0 DIRECTORY"
+    exit 1
+fi
+INPUTDIR=$1
 
-OUTPUTDIR="$CRAFTROOT/train-and-devel-standoff-separated"
+if [[ ! -d "$INPUTDIR" ]]; then
+    echo "Error: no a directory: $INPUTDIR"
+    exit 1
+fi
+
+INPUTDIR=${INPUTDIR%/}
+OUTPUTDIR="${INPUTDIR}-separated"
 
 for t in SO GO_BP PR EntrezGene GO_CC CHEBI NCBITaxon CL GO_MF; do
     d="$OUTPUTDIR/$t"

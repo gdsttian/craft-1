@@ -1,0 +1,140 @@
+T2	GO_BP 30 38	response
+T3	GO_BP 42 52	hemostasis
+T4	GO_BP 57 67	thrombosis
+T5	GO_BP 91 101	Thrombosis
+T6	GO_BP 109 114	fatal
+T8	GO_BP 355 372	vessel remodeling
+T10	GO_BP 463 471	regulate
+T11	GO_BP 472 482	thrombosis
+T12	GO_BP 487 497	hemostasis
+T13	GO_BP 543 553	thrombosis
+T14	GO_BP 558 568	hemostasis
+T15	GO_BP 626 634	response
+T19	GO_BP 748 758	thrombosis
+T20	GO_BP 763 773	hemostasis
+T25	GO_BP 881 891	blood flow
+T26	GO_BP 984 994	thrombosis
+T27	GO_BP 999 1009	hemostasis
+T33	GO_BP 1183 1191	response
+T34	GO_BP 1230 1248	Thrombus occlusion
+T39	GO_BP 1457 1468	Coagulation
+T58	GO_BP 2053 2063	thrombosis
+T59	GO_BP 2068 2079	haemostasis
+T66	GO_BP 2414 2441	response to vascular injury
+T67	GO_BP 2450 2460	thrombosis
+T69	GO_BP 2558 2568	thrombotic
+T73	GO_BP 2804 2822	Thrombus formation
+T74	GO_BP 3069 3079	thrombosis
+T75	GO_BP 3092 3101	responses
+T80	GO_BP 3205 3216	coagulation
+T81	GO_BP 3226 3238	fibrinolytic
+T99	GO_BP 3438 3448	thrombosis
+T100	GO_BP 3519 3529	thrombosis
+T101	GO_BP 3581 3591	thrombosis
+T103	GO_BP 3713 3723	thrombotic
+T106	GO_BP 3841 3849	regulate
+T107	GO_BP 3850 3878	thrombus formation and lysis
+T108	GO_BP 3850 3868	thrombus formation
+T109	GO_BP 3920 3930	thrombotic
+T111	GO_BP 4138 4147	responses
+T112	GO_BP 4376 4393	vessel remodeling
+T113	GO_BP 4469 4479	thrombosis
+T115	GO_BP 4546 4556	thrombosis
+T116	GO_BP 4558 4582	Clot formation and lysis
+T117	GO_BP 4558 4572	Clot formation
+T118	GO_BP 4611 4621	thrombosis
+T120	GO_BP 4654 4665	coagulation
+T121	GO_BP 4671 4693	fibrinolytic functions
+T122	GO_BP 4766 4774	modulate
+T138	GO_BP 5279 5288	generated
+T139	GO_BP 5317 5325	breeding
+T157	GO_BP 6046 6054	behavior
+T166	GO_BP 6302 6315	prothrombotic
+T171	GO_BP 6410 6421	coagulation
+T172	GO_BP 6426 6438	fibrinolysis
+T174	GO_BP 6534 6547	prothrombotic
+T175	GO_BP 6573 6584	coagulation
+T179	GO_BP 6911 6922	haemostasis
+T180	GO_BP 6927 6937	thrombosis
+T203	GO_BP 7237 7246	generated
+T204	GO_BP 7313 7322	generated
+T210	GO_BP 7443 7452	reproduce
+T213	GO_BP 7499 7507	breeding
+T224	GO_BP 7636 7644	Breeding
+T227	GO_BP 7739 7743	bred
+T228	GO_BP 7739 7743	bred
+T233	GO_BP 7977 7980	fed
+T237	GO_BP 8311 8331	thrombosis formation
+T249	GO_BP 8951 8961	blood flow
+T250	GO_BP 9138 9148	Blood flow
+T254	GO_BP 9882 9893	Coagulation
+T263	GO_BP 9928 9940	fibrinolytic
+T270	GO_BP 10263 10274	Coagulation
+T286	GO_BP 10645 10666	fibrinolytic activity
+T287	GO_BP 10688 10699	degradation
+T323	GO_BP 12248 12266	thrombus formation
+T327	GO_BP 12361 12371	thrombosis
+T329	GO_BP 12505 12523	thrombus occlusion
+T337	GO_BP 12978 12988	blood flow
+T342	GO_BP 13128 13138	blood flow
+T367	GO_BP 14232 14251	hemostatic activity
+T372	GO_BP 14705 14715	hemostasis
+T375	GO_BP 14732 14742	thrombosis
+T431	GO_BP 16360 16372	fibrinolytic
+T450	GO_BP 16879 16889	regulation
+T453	GO_BP 16928 16945	blood coagulation
+T455	GO_BP 17002 17013	coagulation
+T458	GO_BP 17193 17222	extrinsic coagulation pathway
+T463	GO_BP 17321 17346	activation of Factors XII
+T479	GO_BP 17470 17480	generation
+T480	GO_BP 17492 17506	clot formation
+T483	GO_BP 17659 17678	coagulation pathway
+T484	GO_BP 17733 17744	Coagulation
+T499	GO_BP 17996 18017	fibrinolytic activity
+T516	GO_BP 18433 18443	denaturing
+T534	GO_BP 19733 19741	adhesive
+T535	GO_BP 19771 19789	thrombus formation
+T559	GO_BP 20940 20950	hemostasis
+T560	GO_BP 20955 20965	thrombosis
+T586	GO_BP 22473 22480	produce
+T624	GO_BP 23903 23924	fibrinolytic activity
+T642	GO_BP 24208 24229	Fibrinolytic activity
+T687	GO_BP 25970 25988	thrombus formation
+T708	GO_BP 27271 27281	thrombotic
+T710	GO_BP 27495 27512	vessel remodeling
+T711	GO_BP 27615 27625	thrombotic
+T712	GO_BP 27626 27634	response
+T717	GO_BP 27754 27766	fibrinolytic
+T718	GO_BP 27767 27776	responses
+T723	GO_BP 27885 27895	thrombotic
+T724	GO_BP 27896 27904	response
+T725	GO_BP 28011 28022	coagulation
+T744	GO_BP 28778 28788	thrombosis
+T751	GO_BP 29013 29031	thrombus formation
+T755	GO_BP 29273 29283	blood flow
+T758	GO_BP 29654 29664	blood flow
+T762	GO_BP 29782 29793	coagulation
+T766	GO_BP 29886 29904	thrombus formation
+T775	GO_BP 30048 30058	clot lysis
+T776	GO_BP 30064 30072	modulate
+T777	GO_BP 30105 30123	thrombus formation
+T779	GO_BP 30230 30240	expression
+T781	GO_BP 30257 30268	coagulation
+T793	GO_BP 30494 30513	coagulation pathway
+T802	GO_BP 30771 30789	thrombus formation
+T825	GO_BP 31209 31217	response
+T826	GO_BP 31221 31228	promote
+T827	GO_BP 31236 31254	thrombus formation
+T830	GO_BP 31375 31386	coagulation
+T879	GO_BP 33291 33346	metabolism of collagen or extracellular matrix proteins
+T880	GO_BP 33291 33313	metabolism of collagen
+T957	GO_BP 34815 34825	regulatory
+T964	GO_BP 35104 35124	thrombosis formation
+T977	GO_BP 35410 35418	modulate
+T980	GO_BP 35581 35591	thrombosis
+T981	GO_BP 35596 35607	haemostasis
+T984	GO_BP 35759 35769	thrombosis
+T988	GO_BP 36010 36020	thrombotic
+T1028	GO_BP 36834 36842	breeding
+T1030	GO_BP 36965 36973	breeding
+T1031	GO_BP 37045 37054	developed

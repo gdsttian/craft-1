@@ -1,0 +1,781 @@
+T6	GO_BP 63 76	embryogenesis
+T7	GO_BP 88 110	apoptotic cell removal
+T9	GO_BP 88 97	apoptotic
+T11	GO_BP 134 146	Phagocytosis
+T13	GO_BP 150 159	apoptotic
+T16	GO_BP 191 202	development
+T17	GO_BP 204 219	immune function
+T18	GO_BP 224 244	cellular homeostasis
+T27	GO_BP 327 372	recognition and engulfment of apoptotic cells
+T28	GO_BP 343 372	engulfment of apoptotic cells
+T30	GO_BP 357 366	apoptotic
+T32	GO_BP 380 397	anti-inflammatory
+T33	GO_BP 385 397	inflammatory
+T34	GO_BP 398 407	signaling
+T50	GO_BP 607 613	growth
+T51	GO_BP 650 665	differentiation
+T52	GO_BP 715 728	embryogenesis
+T53	GO_BP 740 755	eye development
+T54	GO_BP 815 830	differentiation
+T60	GO_BP 917 924	develop
+T61	GO_BP 945 954	induction
+T62	GO_BP 1047 1071	apoptotic cell clearance
+T64	GO_BP 1047 1056	apoptotic
+T68	GO_BP 1111 1140	engulfment of apoptotic cells
+T70	GO_BP 1125 1134	apoptotic
+T80	GO_BP 1225 1251	pro- and anti-inflammatory
+T81	GO_BP 1234 1251	anti-inflammatory
+T82	GO_BP 1239 1251	inflammatory
+T85	GO_BP 1261 1270	signaling
+T86	GO_BP 1277 1288	stimulation
+T88	GO_BP 1294 1303	apoptotic
+T94	GO_BP 1378 1449	development and differentiation of multiple organs during embryogenesis
+T95	GO_BP 1394 1409	differentiation
+T96	GO_BP 1436 1449	embryogenesis
+T97	GO_BP 1462 1484	apoptotic cell removal
+T99	GO_BP 1462 1471	apoptotic
+T104	GO_BP 1526 1539	developmental
+T105	GO_BP 1565 1590	differentiation-promoting
+T106	GO_BP 1565 1580	differentiation
+T110	GO_BP 1633 1657	apoptotic cell clearance
+T112	GO_BP 1633 1642	apoptotic
+T115	GO_BP 1707 1750	regulation of macrophage cytokine responses
+T119	GO_BP 1741 1750	responses
+T124	GO_BP 1862 1886	apoptotic cell clearance
+T126	GO_BP 1862 1871	apoptotic
+T128	GO_BP 1901 1922	Programmed cell death
+T131	GO_BP 1927 1936	apoptosis
+T132	GO_BP 1965 2014	development of almost all multicellular organisms
+T134	GO_BP 2052 2063	controlling
+T137	GO_BP 2146 2157	development
+T140	GO_BP 2181 2191	eliminated
+T143	GO_BP 2217 2225	produced
+T145	GO_BP 2243 2264	embryonic development
+T146	GO_BP 2287 2297	cell death
+T150	GO_BP 2342 2351	Apoptotic
+T154	GO_BP 2413 2422	apoptotic
+T158	GO_BP 2494 2503	regulated
+T159	GO_BP 2525 2594	release of potentially noxious or immunogenic intracellular materials
+T161	GO_BP 2628 2633	dying
+T165	GO_BP 2686 2698	Phagocytosis
+T167	GO_BP 2702 2711	apoptotic
+T169	GO_BP 2746 2766	engulfment processes
+T170	GO_BP 2837 2866	engulfment of apoptotic cells
+T172	GO_BP 2851 2860	apoptotic
+T174	GO_BP 2880 2889	secretion
+T176	GO_BP 2900 2917	anti-inflammatory
+T177	GO_BP 2905 2917	inflammatory
+T179	GO_BP 2922 2939	immunosuppressive
+T180	GO_BP 2968 2979	recognition
+T181	GO_BP 2991 2998	release
+T182	GO_BP 3002 3018	pro-inflammatory
+T183	GO_BP 3006 3018	inflammatory
+T186	GO_BP 3059 3068	recognize
+T187	GO_BP 3070 3077	respond
+T188	GO_BP 3086 3092	ingest
+T190	GO_BP 3093 3102	apoptotic
+T192	GO_BP 3135 3145	phagocytic
+T197	GO_BP 3189 3198	apoptotic
+T206	GO_BP 3314 3335	phagocytic mechanisms
+T207	GO_BP 3340 3402	pathways for the recognition and engulfment of apoptotic cells
+T208	GO_BP 3340 3402	pathways for the recognition and engulfment of apoptotic cells
+T210	GO_BP 3387 3396	apoptotic
+T215	GO_BP 3528 3540	phagocytosis
+T217	GO_BP 3544 3553	apoptotic
+T223	GO_BP 3621 3632	recognition
+T238	GO_BP 3859 3871	phagocytosis
+T239	GO_BP 3875 3916	transduction of anti-inflammatory signals
+T240	GO_BP 3891 3908	anti-inflammatory
+T241	GO_BP 3896 3908	inflammatory
+T242	GO_BP 3922 3948	apoptotic cell recognition
+T244	GO_BP 3922 3931	apoptotic
+T246	GO_BP 4038 4062	apoptotic cell clearance
+T248	GO_BP 4038 4047	apoptotic
+T251	GO_BP 4119 4128	responses
+T254	GO_BP 4176 4213	apoptotic cell recognition and uptake
+T255	GO_BP 4176 4202	apoptotic cell recognition
+T257	GO_BP 4176 4185	apoptotic
+T282	GO_BP 4465 4471	growth
+T290	GO_BP 4604 4613	apoptotic
+T292	GO_BP 4670 4692	induction of apoptosis
+T293	GO_BP 4683 4692	apoptosis
+T294	GO_BP 4764 4802	apoptotic cell recognition and removal
+T295	GO_BP 4764 4790	apoptotic cell recognition
+T297	GO_BP 4764 4773	apoptotic
+T305	GO_BP 4889 4898	apoptotic
+T311	GO_BP 4984 4990	growth
+T312	GO_BP 4991 4997	arrest
+T315	GO_BP 5032 5053	complement activation
+T322	GO_BP 5178 5187	recognize
+T342	GO_BP 5465 5473	oxidized
+T361	GO_BP 5794 5819	uptake of apoptotic cells
+T363	GO_BP 5804 5813	apoptotic
+T366	GO_BP 5849 5861	phagocytosis
+T378	GO_BP 6019 6028	apoptotic
+T380	GO_BP 6077 6084	release
+T382	GO_BP 6088 6105	anti-inflammatory
+T383	GO_BP 6093 6105	inflammatory
+T387	GO_BP 6140 6146	growth
+T389	GO_BP 6167 6186	platelet-activating
+T393	GO_BP 6306 6315	signaling
+T396	GO_BP 6364 6373	apoptotic
+T398	GO_BP 6428 6444	immune responses
+T400	GO_BP 6448 6457	apoptotic
+T407	GO_BP 6563 6575	localization
+T409	GO_BP 6616 6628	localization
+T412	GO_BP 6672 6681	targeting
+T421	GO_BP 6802 6836	localization for the Ptdsr protein
+T425	GO_BP 6875 6922	localization of Ptdsr in Hydra epithelial cells
+T432	GO_BP 6943 6955	phagocytosis
+T434	GO_BP 6959 6968	apoptotic
+T440	GO_BP 7095 7121	apoptotic cell recognition
+T442	GO_BP 7095 7104	apoptotic
+T444	GO_BP 7126 7143	anti-inflammatory
+T445	GO_BP 7131 7143	inflammatory
+T446	GO_BP 7144 7153	signaling
+T450	GO_BP 7215 7230	gene-expression
+T454	GO_BP 7281 7287	lethal
+T462	GO_BP 7410 7425	differentiation
+T465	GO_BP 7523 7533	generation
+T470	GO_BP 7719 7747	clearance of apoptotic cells
+T472	GO_BP 7732 7741	apoptotic
+T478	GO_BP 7857 7866	apoptosis
+T479	GO_BP 7878 7888	Generation
+T492	GO_BP 7996 8005	generated
+T503	GO_BP 8206 8216	generating
+T509	GO_BP 8296 8307	established
+T530	GO_BP 8512 8520	generate
+T538	GO_BP 8575 8585	expression
+T544	GO_BP 8624 8626	RT
+T548	GO_BP 8774 8780	lethal
+T549	GO_BP 8893 8914	embryonic development
+T554	GO_BP 8959 8968	breedings
+T561	GO_BP 9173 9184	gestational
+T575	GO_BP 9586 9592	growth
+T576	GO_BP 9668 9681	developmental
+T577	GO_BP 9863 9878	eye development
+T598	GO_BP 10312 10316	born
+T599	GO_BP 10353 10360	matings
+T604	GO_BP 10423 10427	died
+T605	GO_BP 10435 10443	delivery
+T606	GO_BP 10468 10473	birth
+T610	GO_BP 10510 10516	growth
+T616	GO_BP 10803 10813	Expression
+T620	GO_BP 10830 10843	embryogenesis
+T624	GO_BP 10951 10962	development
+T626	GO_BP 10976 10978	RT
+T631	GO_BP 11021 11030	expressed
+T632	GO_BP 11040 11051	development
+T639	GO_BP 11133 11146	developmental
+T640	GO_BP 11206 11216	expression
+T644	GO_BP 11253 11263	expression
+T650	GO_BP 11374 11383	generated
+T666	GO_BP 11535 11545	expression
+T667	GO_BP 11621 11634	developmental
+T671	GO_BP 11681 11691	expression
+T679	GO_BP 11805 11815	expression
+T680	GO_BP 11823 11833	developing
+T684	GO_BP 11917 11927	expression
+T685	GO_BP 11949 11959	developing
+T686	GO_BP 12065 12078	embryogenesis
+T690	GO_BP 12101 12111	expression
+T691	GO_BP 12142 12152	developing
+T695	GO_BP 12191 12201	expression
+T698	GO_BP 12282 12292	developing
+T699	GO_BP 12435 12445	expression
+T700	GO_BP 12530 12540	expression
+T701	GO_BP 12621 12631	Expression
+T705	GO_BP 12725 12734	expressed
+T706	GO_BP 12815 12825	Expression
+T707	GO_BP 12875 12885	expression
+T708	GO_BP 13012 13022	developing
+T712	GO_BP 13058 13068	expression
+T713	GO_BP 13124 13131	develop
+T717	GO_BP 13175 13185	expression
+T720	GO_BP 13238 13248	developing
+T724	GO_BP 13310 13319	expressed
+T725	GO_BP 13347 13357	developing
+T726	GO_BP 13383 13393	expression
+T730	GO_BP 13434 13444	expression
+T731	GO_BP 13485 13512	development of these organs
+T736	GO_BP 13699 13709	expression
+T737	GO_BP 13787 13797	expression
+T741	GO_BP 13889 13898	expressed
+T742	GO_BP 13910 13923	embryogenesis
+T746	GO_BP 14023 14038	differentiation
+T750	GO_BP 14078 14095	organ development
+T755	GO_BP 14243 14254	development
+T756	GO_BP 14296 14311	differentiation
+T757	GO_BP 14410 14419	developed
+T758	GO_BP 14425 14434	expanding
+T759	GO_BP 14507 14516	developed
+T760	GO_BP 14533 14547	differentiated
+T771	GO_BP 14751 14760	expansion
+T772	GO_BP 14879 14894	differentiation
+T783	GO_BP 14995 15004	developed
+T784	GO_BP 15034 15048	differentiated
+T790	GO_BP 15268 15277	developed
+T795	GO_BP 15398 15413	differentiation
+T796	GO_BP 15463 15474	development
+T801	GO_BP 15515 15524	developed
+T803	GO_BP 15631 15655	cellular differentiation
+T806	GO_BP 15675 15684	organized
+T820	GO_BP 16274 16283	expansion
+T827	GO_BP 16469 16478	generated
+T829	GO_BP 16585 16594	developed
+T830	GO_BP 16604 16609	birth
+T837	GO_BP 16685 16695	maturation
+T842	GO_BP 16848 16863	differentiation
+T843	GO_BP 16902 16907	birth
+T849	GO_BP 16967 16970	die
+T850	GO_BP 17089 17103	erythropoietic
+T851	GO_BP 17104 17119	differentiation
+T861	GO_BP 17334 17352	ocular development
+T862	GO_BP 17369 17378	formation
+T870	GO_BP 17750 17765	differentiation
+T871	GO_BP 17773 17783	developing
+T873	GO_BP 17880 17895	differentiation
+T896	GO_BP 18402 18417	differentiation
+T913	GO_BP 18634 18658	cellular differentiation
+T916	GO_BP 18663 18672	expansion
+T917	GO_BP 18786 18794	expanded
+T931	GO_BP 19086 19101	differentiation
+T944	GO_BP 19758 19767	formation
+T945	GO_BP 19803 19812	induction
+T946	GO_BP 19828 19871	proliferation of ectopic mesenchymal tissue
+T947	GO_BP 19971 19978	induced
+T953	GO_BP 20169 20184	differentiation
+T961	GO_BP 20364 20373	induction
+T962	GO_BP 20420 20432	Phagocytosis
+T963	GO_BP 20437 20465	clearance of apoptotic cells
+T965	GO_BP 20450 20459	apoptotic
+T974	GO_BP 20563 20591	clearance of apoptotic cells
+T976	GO_BP 20576 20585	apoptotic
+T978	GO_BP 20629 20639	cell death
+T982	GO_BP 20681 20691	developing
+T983	GO_BP 20699 20730	Apoptosis of interdigital cells
+T986	GO_BP 20798 20811	developmental
+T993	GO_BP 20996 21006	cell death
+T1012	GO_BP 21235 21245	cell death
+T1015	GO_BP 21261 21271	regression
+T1021	GO_BP 21417 21458	clearance of apoptotic interdigital cells
+T1023	GO_BP 21430 21439	apoptotic
+T1025	GO_BP 21466 21482	limb development
+T1026	GO_BP 21516 21542	removal of apoptotic cells
+T1028	GO_BP 21527 21536	apoptotic
+T1041	GO_BP 21689 21698	apoptosis
+T1042	GO_BP 21723 21740	tissue remodeling
+T1043	GO_BP 21748 21759	development
+T1044	GO_BP 21820 21857	distribution of aCasp3-positive cells
+T1053	GO_BP 22052 22061	apoptosis
+T1054	GO_BP 22093 22113	Tissue restructuring
+T1055	GO_BP 22117 22138	programmed cell death
+T1058	GO_BP 22229 22239	developing
+T1060	GO_BP 22286 22295	apoptotic
+T1064	GO_BP 22350 22359	expressed
+T1065	GO_BP 22428 22459	distribution of apoptotic cells
+T1067	GO_BP 22444 22453	apoptotic
+T1079	GO_BP 22521 22531	developing
+T1081	GO_BP 22540 22549	apoptotic
+T1094	GO_BP 22681 22690	apoptotic
+T1097	GO_BP 22782 22806	apoptotic cell clearance
+T1099	GO_BP 22782 22791	apoptotic
+T1102	GO_BP 22844 22865	embryonic development
+T1104	GO_BP 22910 22941	distribution of apoptotic cells
+T1106	GO_BP 22926 22935	apoptotic
+T1110	GO_BP 23046 23056	developing
+T1111	GO_BP 23166 23188	apoptotic cell removal
+T1113	GO_BP 23166 23175	apoptotic
+T1120	GO_BP 23267 23290	clearance of dead cells
+T1121	GO_BP 23280 23284	dead
+T1124	GO_BP 23298 23314	lung development
+T1129	GO_BP 23364 23383	apoptosis induction
+T1130	GO_BP 23364 23373	apoptosis
+T1149	GO_BP 23549 23558	apoptosis
+T1150	GO_BP 23599 23612	morphogenesis
+T1151	GO_BP 23684 23715	distribution of apoptotic cells
+T1153	GO_BP 23700 23709	apoptotic
+T1171	GO_BP 23918 23929	recruitment
+T1173	GO_BP 23973 23985	inflammation
+T1174	GO_BP 24002 24013	development
+T1180	GO_BP 24079 24088	recruited
+T1181	GO_BP 24106 24115	apoptosis
+T1182	GO_BP 24136 24149	embryogenesis
+T1187	GO_BP 24284 24332	localization of macrophages with apoptotic cells
+T1190	GO_BP 24317 24326	apoptotic
+T1193	GO_BP 24370 24379	apoptotic
+T1196	GO_BP 24407 24416	localized
+T1197	GO_BP 24543 24554	development
+T1200	GO_BP 24607 24633	removal of apoptotic cells
+T1202	GO_BP 24618 24627	apoptotic
+T1206	GO_BP 24739 24763	apoptotic cell clearance
+T1208	GO_BP 24739 24748	apoptotic
+T1213	GO_BP 24798 24809	development
+T1214	GO_BP 24836 24848	phagocytosis
+T1216	GO_BP 24852 24861	apoptotic
+T1225	GO_BP 25018 25039	apoptotic cell uptake
+T1227	GO_BP 25018 25027	apoptotic
+T1230	GO_BP 25063 25075	phagocytosis
+T1232	GO_BP 25149 25161	phagocytosis
+T1233	GO_BP 25169 25181	Phagocytosis
+T1234	GO_BP 25185 25194	apoptotic
+T1237	GO_BP 25317 25329	phagocytosis
+T1238	GO_BP 25414 25435	apoptotic cell uptake
+T1240	GO_BP 25414 25423	apoptotic
+T1253	GO_BP 25514 25539	apoptotic cell engulfment
+T1255	GO_BP 25514 25523	apoptotic
+T1257	GO_BP 25657 25678	apoptotic cell uptake
+T1259	GO_BP 25657 25666	apoptotic
+T1266	GO_BP 25718 25730	phagocytosis
+T1268	GO_BP 25803 25811	engulfed
+T1270	GO_BP 25812 25821	apoptotic
+T1273	GO_BP 25904 25916	Phagocytosed
+T1275	GO_BP 25966 25975	apoptotic
+T1277	GO_BP 26007 26015	engulfed
+T1293	GO_BP 26257 26265	engulfed
+T1295	GO_BP 26266 26275	apoptotic
+T1297	GO_BP 26327 26339	phagocytosed
+T1299	GO_BP 26340 26349	apoptotic
+T1302	GO_BP 26372 26384	phagocytotic
+T1308	GO_BP 26471 26479	engulfed
+T1310	GO_BP 26490 26499	apoptotic
+T1318	GO_BP 26617 26623	ingest
+T1320	GO_BP 26624 26633	apoptotic
+T1322	GO_BP 26665 26701	recognition or phagocytosis of cells
+T1323	GO_BP 26680 26692	phagocytosis
+T1326	GO_BP 26721 26742	programmed cell death
+T1332	GO_BP 26781 26831	production of pro- and anti-inflammatory cytokines
+T1333	GO_BP 26781 26831	production of pro- and anti-inflammatory cytokines
+T1334	GO_BP 26795 26821	pro- and anti-inflammatory
+T1335	GO_BP 26804 26821	anti-inflammatory
+T1336	GO_BP 26809 26821	inflammatory
+T1339	GO_BP 26838 26860	macrophage stimulation
+T1341	GO_BP 26906 26918	phagocytosis
+T1343	GO_BP 26922 26931	apoptotic
+T1346	GO_BP 27004 27014	regulating
+T1347	GO_BP 27037 27049	inflammatory
+T1348	GO_BP 27071 27101	recognition of apoptotic cells
+T1350	GO_BP 27086 27095	apoptotic
+T1358	GO_BP 27186 27193	release
+T1359	GO_BP 27194 27211	anti-inflammatory
+T1360	GO_BP 27199 27211	inflammatory
+T1363	GO_BP 27228 27256	ingestion of apoptotic cells
+T1365	GO_BP 27241 27250	apoptotic
+T1373	GO_BP 27320 27331	stimulation
+T1377	GO_BP 27403 27412	apoptotic
+T1388	GO_BP 27541 27548	secrete
+T1389	GO_BP 27555 27572	anti-inflammatory
+T1390	GO_BP 27560 27572	inflammatory
+T1393	GO_BP 27588 27616	ingestion of apoptotic cells
+T1395	GO_BP 27601 27610	apoptotic
+T1403	GO_BP 27791 27798	release
+T1404	GO_BP 27799 27817	immune-suppressive
+T1407	GO_BP 27834 27879	recognition and engulfment of apoptotic cells
+T1408	GO_BP 27850 27879	engulfment of apoptotic cells
+T1410	GO_BP 27864 27873	apoptotic
+T1412	GO_BP 27901 27917	pro-inflammatory
+T1413	GO_BP 27905 27917	inflammatory
+T1414	GO_BP 27918 27927	signaling
+T1420	GO_BP 27969 27979	stimulated
+T1437	GO_BP 28114 28125	stimulation
+T1443	GO_BP 28161 28169	produced
+T1450	GO_BP 28251 28260	secretion
+T1452	GO_BP 28296 28307	stimulation
+T1454	GO_BP 28410 28421	stimulation
+T1457	GO_BP 28460 28467	release
+T1463	GO_BP 28512 28541	engulfment of apoptotic cells
+T1465	GO_BP 28526 28535	apoptotic
+T1467	GO_BP 28546 28556	stimulated
+T1470	GO_BP 28573 28582	apoptotic
+T1478	GO_BP 28689 28696	release
+T1481	GO_BP 28714 28725	stimulation
+T1483	GO_BP 28764 28790	stimulation of macrophages
+T1487	GO_BP 28804 28813	apoptotic
+T1489	GO_BP 28854 28865	stimulation
+T1493	GO_BP 28906 28913	release
+T1500	GO_BP 28982 28991	apoptotic
+T1504	GO_BP 29102 29118	pro-inflammatory
+T1505	GO_BP 29106 29118	inflammatory
+T1519	GO_BP 29311 29327	pro-inflammatory
+T1520	GO_BP 29315 29327	inflammatory
+T1521	GO_BP 29328 29337	signaling
+T1522	GO_BP 29344 29389	recognition and engulfment of apoptotic cells
+T1523	GO_BP 29360 29389	engulfment of apoptotic cells
+T1525	GO_BP 29374 29383	apoptotic
+T1530	GO_BP 29442 29489	release of pro- and anti-inflammatory cytokines
+T1531	GO_BP 29453 29479	pro- and anti-inflammatory
+T1532	GO_BP 29462 29479	anti-inflammatory
+T1533	GO_BP 29467 29479	inflammatory
+T1536	GO_BP 29496 29507	stimulation
+T1540	GO_BP 29557 29566	apoptotic
+T1546	GO_BP 29645 29652	produce
+T1547	GO_BP 29656 29663	secrete
+T1548	GO_BP 29664 29690	pro- and anti-inflammatory
+T1549	GO_BP 29673 29690	anti-inflammatory
+T1550	GO_BP 29678 29690	inflammatory
+T1556	GO_BP 29741 29756	differentiation
+T1557	GO_BP 29790 29801	development
+T1573	GO_BP 29969 29984	differentiation
+T1574	GO_BP 30031 30044	embryogenesis
+T1575	GO_BP 30144 30154	generation
+T1597	GO_BP 30520 30529	generated
+T1616	GO_BP 31139 31145	growth
+T1617	GO_BP 31217 31232	differentiation
+T1621	GO_BP 31269 31278	expressed
+T1622	GO_BP 31293 31306	embryogenesis
+T1623	GO_BP 31349 31372	branching morphogenesis
+T1628	GO_BP 31482 31491	developed
+T1630	GO_BP 31528 31543	differentiation
+T1631	GO_BP 31609 31623	differentiated
+T1632	GO_BP 31658 31673	differentiation
+T1633	GO_BP 31725 31738	developmental
+T1639	GO_BP 31892 31906	differentiated
+T1640	GO_BP 31976 31991	differentiation
+T1644	GO_BP 32034 32043	generated
+T1651	GO_BP 32151 32156	birth
+T1652	GO_BP 32199 32214	differentiation
+T1653	GO_BP 32271 32280	gestation
+T1658	GO_BP 32350 32358	expanded
+T1660	GO_BP 32405 32414	branching
+T1661	GO_BP 32430 32444	differentiated
+T1662	GO_BP 32505 32526	programmed cell death
+T1665	GO_BP 32534 32550	lung development
+T1671	GO_BP 32599 32612	embryogenesis
+T1673	GO_BP 32686 32695	apoptosis
+T1674	GO_BP 32724 32737	morphogenesis
+T1676	GO_BP 32805 32814	apoptotic
+T1684	GO_BP 32901 32910	apoptotic
+T1687	GO_BP 33037 33092	clearance of apoptotic mesenchymal and epithelial cells
+T1689	GO_BP 33050 33059	apoptotic
+T1693	GO_BP 33118 33131	morphogenesis
+T1698	GO_BP 33220 33236	lung development
+T1699	GO_BP 33244 33257	embryogenesis
+T1700	GO_BP 33272 33304	formation of the epithelial lung
+T1701	GO_BP 33309 33332	branching morphogenesis
+T1702	GO_BP 33406 33415	formation
+T1703	GO_BP 33482 33491	formation
+T1704	GO_BP 33599 33616	branching process
+T1705	GO_BP 33638 33653	differentiation
+T1706	GO_BP 33763 33776	embryogenesis
+T1707	GO_BP 33786 33809	mammary gland formation
+T1708	GO_BP 33837 33845	expanded
+T1709	GO_BP 33860 33876	branching events
+T1710	GO_BP 33926 33935	apoptosis
+T1715	GO_BP 34011 34019	expanded
+T1722	GO_BP 34134 34137	die
+T1724	GO_BP 34232 34242	expression
+T1729	GO_BP 34311 34379	maturation of surfactant-producing type II alveolar epithelial cells
+T1731	GO_BP 34336 34345	producing
+T1734	GO_BP 34451 34456	death
+T1750	GO_BP 34753 34756	die
+T1751	GO_BP 34783 34800	heart development
+T1752	GO_BP 35035 35050	eye development
+T1760	GO_BP 35231 35240	formation
+T1761	GO_BP 35285 35294	induction
+T1762	GO_BP 35298 35336	proliferation of underlying mesenchyme
+T1766	GO_BP 35566 35585	retinal development
+T1767	GO_BP 35619 35628	gestation
+T1768	GO_BP 35656 35669	morphogenesis
+T1769	GO_BP 35725 35738	embryogenesis
+T1770	GO_BP 35808 35818	expression
+T1778	GO_BP 35866 35875	expressed
+T1779	GO_BP 35897 35907	developing
+T1780	GO_BP 36000 36010	expression
+T1781	GO_BP 36042 36052	developing
+T1785	GO_BP 36130 36150	ocular morphogenesis
+T1786	GO_BP 36160 36173	establishment
+T1787	GO_BP 36206 36215	formation
+T1788	GO_BP 36243 36256	eye-formation
+T1789	GO_BP 36295 36344	development of the forebrain [37,38] and the nose
+T1790	GO_BP 36295 36323	development of the forebrain
+T1798	GO_BP 36620 36659	regulation of differentiation processes
+T1799	GO_BP 36634 36659	differentiation processes
+T1803	GO_BP 36753 36766	eye formation
+T1809	GO_BP 36845 36854	formation
+T1810	GO_BP 36914 36929	differentiation
+T1814	GO_BP 37085 37111	removal of apoptotic cells
+T1816	GO_BP 37096 37105	apoptotic
+T1818	GO_BP 37119 37134	eye development
+T1819	GO_BP 37205 37229	apoptotic cell clearance
+T1821	GO_BP 37205 37214	apoptotic
+T1823	GO_BP 37274 37293	apoptosis induction
+T1824	GO_BP 37274 37283	apoptosis
+T1826	GO_BP 37307 37326	retinal development
+T1827	GO_BP 37357 37377	apoptotic cell death
+T1830	GO_BP 37442 37452	cell death
+T1833	GO_BP 37535 37554	apoptosis induction
+T1834	GO_BP 37535 37544	apoptosis
+T1835	GO_BP 37584 37589	birth
+T1836	GO_BP 37692 37701	formation
+T1837	GO_BP 37758 37773	eye development
+T1838	GO_BP 37805 37819	cell apoptosis
+T1841	GO_BP 37891 37904	establishment
+T1843	GO_BP 37943 37953	cell death
+T1846	GO_BP 37968 37987	retinal development
+T1847	GO_BP 38090 38105	differentiation
+T1854	GO_BP 38196 38240	elimination of apoptotic photoreceptor cells
+T1856	GO_BP 38211 38220	apoptotic
+T1861	GO_BP 38270 38280	engulfment
+T1881	GO_BP 38874 38905	distribution of apoptotic cells
+T1883	GO_BP 38890 38899	apoptotic
+T1885	GO_BP 38909 38917	pyknotic
+T1899	GO_BP 39001 39011	cell death
+T1902	GO_BP 39026 39072	clearance of apoptotic neural progenitor cells
+T1904	GO_BP 39039 39048	apoptotic
+T1909	GO_BP 39205 39220	differentiation
+T1910	GO_BP 39248 39257	gestation
+T1911	GO_BP 39298 39313	differentiation
+T1916	GO_BP 39394 39409	differentiation
+T1917	GO_BP 39444 39468	apoptotic cell clearance
+T1919	GO_BP 39444 39453	apoptotic
+T1927	GO_BP 39609 39618	promoting
+T1928	GO_BP 39626 39636	maturation
+T1929	GO_BP 39650 39665	differentiation
+T1937	GO_BP 39802 39812	expression
+T1938	GO_BP 39840 39855	differentiation
+T1942	GO_BP 39889 39917	clearance of apoptotic cells
+T1944	GO_BP 39902 39911	apoptotic
+T1950	GO_BP 39988 40013	uptake of apoptotic cells
+T1952	GO_BP 39998 40007	apoptotic
+T1954	GO_BP 40032 40056	apoptotic cell clearance
+T1956	GO_BP 40032 40041	apoptotic
+T1963	GO_BP 40111 40137	removal of apoptotic cells
+T1965	GO_BP 40122 40131	apoptotic
+T1981	GO_BP 40300 40321	embryonic development
+T1982	GO_BP 40366 40391	uptake of apoptotic cells
+T1984	GO_BP 40376 40385	apoptotic
+T1986	GO_BP 40411 40422	development
+T1987	GO_BP 40437 40449	phagocytosis
+T1989	GO_BP 40499 40524	uptake of apoptotic cells
+T1991	GO_BP 40509 40518	apoptotic
+T2001	GO_BP 40626 40634	engulfed
+T2002	GO_BP 40635 40639	dead
+T2007	GO_BP 40707 40731	apoptotic cell clearance
+T2009	GO_BP 40707 40716	apoptotic
+T2023	GO_BP 40937 40979	distribution and amount of apoptotic cells
+T2025	GO_BP 40964 40973	apoptotic
+T2031	GO_BP 41086 41099	developmental
+T2033	GO_BP 41174 41183	gestation
+T2035	GO_BP 41199 41208	apoptotic
+T2037	GO_BP 41290 41300	remodeling
+T2040	GO_BP 41327 41336	apoptosis
+T2041	GO_BP 41410 41419	apoptosis
+T2042	GO_BP 41481 41492	homeostasis
+T2043	GO_BP 41518 41523	birth
+T2044	GO_BP 41574 41586	inflammation
+T2045	GO_BP 41602 41618	lung development
+T2046	GO_BP 41649 41658	apoptosis
+T2048	GO_BP 41713 41722	apoptotic
+T2050	GO_BP 41765 41778	embryogenesis
+T2063	GO_BP 41911 41922	development
+T2078	GO_BP 42066 42102	localization of TUNEL-positive cells
+T2092	GO_BP 42442 42450	engulfed
+T2096	GO_BP 42578 42591	embryogenesis
+T2098	GO_BP 42613 42641	clearance of apoptotic cells
+T2100	GO_BP 42626 42635	apoptotic
+T2102	GO_BP 42682 42726	mechanism for the removal of apoptotic cells
+T2104	GO_BP 42711 42720	apoptotic
+T2106	GO_BP 42750 42771	programmed cell death
+T2109	GO_BP 42807 42820	embryogenesis
+T2110	GO_BP 42830 42840	remodeling
+T2111	GO_BP 42869 42888	gonad morphogenesis
+T2112	GO_BP 42893 42908	differentiation
+T2113	GO_BP 42951 42982	localization of apoptotic cells
+T2115	GO_BP 42967 42976	apoptotic
+T2118	GO_BP 43035 43063	clearance of apoptotic cells
+T2120	GO_BP 43048 43057	apoptotic
+T2125	GO_BP 43160 43169	recruited
+T2126	GO_BP 43187 43196	apoptosis
+T2135	GO_BP 43419 43432	hematopoietic
+T2138	GO_BP 43450 43463	transcription
+T2140	GO_BP 43487 43499	phagocytosis
+T2142	GO_BP 43503 43512	apoptotic
+T2144	GO_BP 43526 43539	embryogenesis
+T2145	GO_BP 43599 43610	recognition
+T2147	GO_BP 43662 43682	engulfment mechanism
+T2150	GO_BP 43714 43725	phagocytose
+T2152	GO_BP 43726 43735	apoptotic
+T2154	GO_BP 43768 43792	apoptotic cell clearance
+T2156	GO_BP 43768 43777	apoptotic
+T2164	GO_BP 43956 43981	uptake of apoptotic cells
+T2166	GO_BP 43966 43975	apoptotic
+T2174	GO_BP 44030 44042	phagocytosis
+T2185	GO_BP 44227 44240	hematopoietic
+T2194	GO_BP 44492 44505	hematopoiesis
+T2195	GO_BP 44536 44547	recruitment
+T2196	GO_BP 44552 44593	activation/differentiation of macrophages
+T2197	GO_BP 44563 44578	differentiation
+T2209	GO_BP 44891 44916	apoptotic cell engulfment
+T2211	GO_BP 44891 44900	apoptotic
+T2217	GO_BP 45035 45056	apoptotic cell uptake
+T2219	GO_BP 45035 45044	apoptotic
+T2223	GO_BP 45197 45220	phagocytotic engulfment
+T2224	GO_BP 45197 45209	phagocytotic
+T2240	GO_BP 45352 45401	secretion of pro- and anti-inflammatory cytokines
+T2241	GO_BP 45365 45391	pro- and anti-inflammatory
+T2242	GO_BP 45374 45391	anti-inflammatory
+T2243	GO_BP 45379 45391	inflammatory
+T2246	GO_BP 45408 45419	stimulation
+T2249	GO_BP 45433 45442	apoptotic
+T2251	GO_BP 45478 45497	cellular activation
+T2254	GO_BP 45502 45521	effector mechanisms
+T2261	GO_BP 45609 45642	pathways of macrophage activation
+T2267	GO_BP 45754 45787	localization of the Ptdsr protein
+T2289	GO_BP 46053 46075	cell-corpse engulfment
+T2295	GO_BP 46091 46095	RNAi
+T2300	GO_BP 46268 46277	transduce
+T2301	GO_BP 46281 46291	engulfment
+T2315	GO_BP 46396 46427	cell-corpse engulfment pathways
+T2330	GO_BP 46650 46660	engulfment
+T2334	GO_BP 46754 46766	phagocytosis
+T2336	GO_BP 46770 46779	apoptotic
+T2343	GO_BP 46924 46948	subcellular localization
+T2348	GO_BP 47038 47057	signal transduction
+T2349	GO_BP 47065 47075	engulfment
+T2357	GO_BP 47183 47192	recognize
+T2378	GO_BP 47732 47742	recognizes
+T2385	GO_BP 48058 48073	differentiation
+T2386	GO_BP 48078 48088	maturation
+T2387	GO_BP 48116 48129	embryogenesis
+T2391	GO_BP 48214 48245	morphogenesis of several organs
+T2392	GO_BP 48251 48264	developmental
+T2393	GO_BP 48311 48339	clearance of apoptotic cells
+T2395	GO_BP 48324 48333	apoptotic
+T2405	GO_BP 48534 48545	recognition
+T2408	GO_BP 48564 48575	recognition
+T2410	GO_BP 48613 48638	apoptotic cell engulfment
+T2412	GO_BP 48613 48622	apoptotic
+T2414	GO_BP 48643 48660	anti-inflammatory
+T2415	GO_BP 48648 48660	inflammatory
+T2416	GO_BP 48661 48670	signaling
+T2426	GO_BP 48834 48845	phagocytose
+T2428	GO_BP 48846 48855	apoptotic
+T2432	GO_BP 48892 48901	responses
+T2433	GO_BP 48908 48919	stimulation
+T2438	GO_BP 49038 49049	development
+T2439	GO_BP 49075 49087	Construction
+T2441	GO_BP 49116 49126	generation
+T2487	GO_BP 49704 49717	recombination
+T2490	GO_BP 49734 49744	generation
+T2493	GO_BP 49789 49800	transfected
+T2499	GO_BP 49964 49984	recombination events
+T2505	GO_BP 50028 50036	produced
+T2506	GO_BP 50085 50096	recombinant
+T2514	GO_BP 50199 50210	development
+T2515	GO_BP 50240 50245	mated
+T2526	GO_BP 50508 50518	generation
+T2550	GO_BP 50871 50880	generated
+T2551	GO_BP 50988 50993	mated
+T2555	GO_BP 51091 51101	expression
+T2561	GO_BP 51146 51148	RT
+T2627	GO_BP 52276 52284	digested
+T2683	GO_BP 53713 53720	express
+T2690	GO_BP 53764 53773	expressed
+T2697	GO_BP 53892 53897	lysis
+T2714	GO_BP 54450 54460	conjugated
+T2722	GO_BP 54941 54944	fed
+T2729	GO_BP 55101 55110	establish
+T2751	GO_BP 56192 56201	apoptotic
+T2762	GO_BP 56485 56497	biotinylated
+T2772	GO_BP 57072 57081	digestion
+T2784	GO_BP 57437 57448	stimulating
+T2789	GO_BP 57689 57697	adherent
+T2793	GO_BP 57777 57789	phagocytosis
+T2799	GO_BP 57973 57982	apoptotic
+T2802	GO_BP 58117 58126	apoptosis
+T2808	GO_BP 58273 58292	apoptosis induction
+T2809	GO_BP 58273 58282	apoptosis
+T2814	GO_BP 58422 58431	apoptotic
+T2823	GO_BP 58578 58587	apoptotic
+T2824	GO_BP 58683 58695	Phagocytosis
+T2827	GO_BP 58782 58807	uptake of apoptotic cells
+T2829	GO_BP 58792 58801	apoptotic
+T2833	GO_BP 58922 58934	phagocytosis
+T2834	GO_BP 58938 58947	apoptotic
+T2841	GO_BP 59176 59183	coupled
+T2843	GO_BP 59273 59281	engulfed
+T2844	GO_BP 59355 59367	phagocytosis
+T2847	GO_BP 59471 59479	engulfed
+T2848	GO_BP 59480 59489	apoptotic
+T2849	GO_BP 59506 59518	phagocytotic
+T2850	GO_BP 59576 59588	phagocytotic
+T2851	GO_BP 59614 59622	engulfed
+T2856	GO_BP 59702 59710	engulfed
+T2861	GO_BP 59926 59945	cytokine production
+T2862	GO_BP 59926 59945	cytokine production
+T2865	GO_BP 59979 59988	apoptotic
+T2868	GO_BP 60084 60093	apoptotic
+T2890	GO_BP 60615 60627	inflammation
+T2892	GO_BP 60975 61006	localization of apoptotic cells
+T2894	GO_BP 60991 61000	apoptotic
+T2897	GO_BP 61042 61052	developing
+T2907	GO_BP 61268 61299	localization of apoptotic cells
+T2909	GO_BP 61284 61293	apoptotic
+T2912	GO_BP 61335 61345	developing
+T2946	GO_BP 62522 62535	recombination
+T2998	GO_BP 63129 63137	digested
+T3061	GO_BP 63825 63838	Developmental
+T3064	GO_BP 63876 63881	birth
+T3072	GO_BP 64347 64357	Expression
+T3076	GO_BP 64383 64404	embryonic development
+T3078	GO_BP 64442 64454	construction
+T3084	GO_BP 64498 64508	expression
+T3086	GO_BP 64586 64596	regulatory
+T3095	GO_BP 64698 64708	expression
+T3107	GO_BP 64865 64874	gestation
+T3108	GO_BP 64876 64886	Expression
+T3112	GO_BP 64967 64977	developing
+T3113	GO_BP 65022 65032	developing
+T3117	GO_BP 65105 65115	expression
+T3121	GO_BP 65208 65218	Expression
+T3122	GO_BP 65247 65257	developing
+T3126	GO_BP 65293 65303	Expression
+T3127	GO_BP 65348 65358	Expression
+T3142	GO_BP 65624 65637	embryogenesis
+T3150	GO_BP 65785 65798	developmental
+T3155	GO_BP 65928 65934	formed
+T3166	GO_BP 66359 66368	developed
+T3177	GO_BP 66758 66778	formation of alveoli
+T3181	GO_BP 66966 66980	erythropoietic
+T3184	GO_BP 67094 67105	metabolized
+T3185	GO_BP 67121 67126	dying
+T3204	GO_BP 67377 67390	developmental
+T3205	GO_BP 67468 67478	patterning
+T3227	GO_BP 68007 68022	eye development
+T3239	GO_BP 68500 68521	deposition of pigment
+T3240	GO_BP 68581 68590	induction
+T3241	GO_BP 68594 68607	proliferation
+T3242	GO_BP 68738 68759	programmed cell death
+T3246	GO_BP 68798 68824	removal of apoptotic cells
+T3248	GO_BP 68809 68818	apoptotic
+T3261	GO_BP 68994 69025	localization of apoptotic cells
+T3263	GO_BP 69010 69019	apoptotic
+T3265	GO_BP 69047 69057	regression
+T3280	GO_BP 69215 69224	apoptotic
+T3282	GO_BP 69287 69297	developing
+T3283	GO_BP 69334 69382	distribution and total number of apoptotic cells
+T3285	GO_BP 69367 69376	apoptotic
+T3293	GO_BP 69532 69545	developmental
+T3302	GO_BP 69784 69793	apoptotic
+T3304	GO_BP 69807 69828	embryonic development
+T3305	GO_BP 69963 69975	Phagocytosis
+T3307	GO_BP 69979 69988	apoptotic
+T3317	GO_BP 70144 70153	apoptotic
+T3323	GO_BP 70285 70297	phagocytosed
+T3325	GO_BP 70298 70307	apoptotic
+T3328	GO_BP 70350 70362	phagocytosis
+T3330	GO_BP 70366 70375	apoptotic
+T3339	GO_BP 70485 70493	engulfed
+T3341	GO_BP 70494 70503	apoptotic
+T3343	GO_BP 70526 70535	apoptosis
+T3346	GO_BP 70634 70643	apoptotic
+T3348	GO_BP 70650 70662	phagocytosed
+T3353	GO_BP 70736 70748	phagocytosed
+T3355	GO_BP 70812 70838	removal of apoptotic cells
+T3357	GO_BP 70823 70832	apoptotic
+T3364	GO_BP 70890 70909	Cytokine production
+T3365	GO_BP 70890 70909	Cytokine production
+T3368	GO_BP 70924 70935	stimulation
+T3372	GO_BP 70970 70979	apoptotic
+T3381	GO_BP 71086 71095	apoptotic
+T3385	GO_BP 71146 71155	apoptotic

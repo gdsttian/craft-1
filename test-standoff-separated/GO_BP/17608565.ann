@@ -1,0 +1,621 @@
+T4	GO_BP 21 36	Differentiation
+T5	GO_BP 45 55	Cell-Cycle
+T8	GO_BP 68 78	Regulation
+T12	GO_BP 183 198	differentiation
+T14	GO_BP 271 281	cell cycle
+T17	GO_BP 300 305	death
+T19	GO_BP 326 341	differentiation
+T20	GO_BP 415 430	differentiation
+T21	GO_BP 435 478	light-evoked electrophysiological responses
+T22	GO_BP 469 508	responses in Rb-deficient retinal cells
+T27	GO_BP 534 542	division
+T28	GO_BP 547 556	apoptosis
+T34	GO_BP 598 611	transcription
+T39	GO_BP 712 722	cell-cycle
+T42	GO_BP 735 750	differentiation
+T47	GO_BP 871 886	developmentally
+T48	GO_BP 897 905	rhythmic
+T50	GO_BP 948 956	division
+T51	GO_BP 960 970	repressing
+T52	GO_BP 984 991	promote
+T53	GO_BP 992 1007	differentiation
+T54	GO_BP 1011 1023	potentiating
+T56	GO_BP 1073 1081	promotes
+T57	GO_BP 1086 1101	differentiation
+T61	GO_BP 1180 1190	developing
+T62	GO_BP 1240 1264	subcellular distribution
+T69	GO_BP 1434 1442	promotes
+T70	GO_BP 1447 1462	differentiation
+T73	GO_BP 1525 1534	regulates
+T74	GO_BP 1542 1557	differentiation
+T75	GO_BP 1624 1636	potentiation
+T79	GO_BP 1755 1763	division
+T80	GO_BP 1768 1773	death
+T83	GO_BP 1796 1809	transcription
+T85	GO_BP 1855 1862	promote
+T86	GO_BP 1863 1878	differentiation
+T87	GO_BP 1882 1894	potentiating
+T90	GO_BP 1911 1924	transcription
+T91	GO_BP 1943 1958	differentiation
+T95	GO_BP 2024 2030	driven
+T96	GO_BP 2031 2039	division
+T97	GO_BP 2044 2049	death
+T100	GO_BP 2101 2109	controls
+T101	GO_BP 2110 2118	division
+T102	GO_BP 2120 2125	death
+T103	GO_BP 2131 2146	differentiation
+T106	GO_BP 2193 2201	division
+T107	GO_BP 2205 2220	differentiating
+T111	GO_BP 2262 2276	death in cells
+T114	GO_BP 2286 2295	apoptosis
+T115	GO_BP 2322 2337	differentiation
+T121	GO_BP 2445 2458	differentiate
+T127	GO_BP 2566 2581	differentiation
+T128	GO_BP 2595 2607	potentiating
+T133	GO_BP 2635 2643	promotes
+T134	GO_BP 2654 2674	cell differentiation
+T137	GO_BP 2714 2724	cell-cycle
+T142	GO_BP 2841 2856	differentiation
+T145	GO_BP 2956 2968	neurogenesis
+T146	GO_BP 2974 2985	development
+T147	GO_BP 3060 3084	cell (RPC) proliferation
+T150	GO_BP 3112 3119	mitotic
+T153	GO_BP 3210 3225	differentiation
+T156	GO_BP 3303 3313	cell cycle
+T159	GO_BP 3317 3325	generate
+T160	GO_BP 3369 3380	development
+T161	GO_BP 3435 3450	differentiation
+T162	GO_BP 3455 3465	cell cycle
+T165	GO_BP 3488 3495	mitotic
+T166	GO_BP 3501 3508	migrate
+T167	GO_BP 3513 3517	form
+T177	GO_BP 3675 3681	reside
+T181	GO_BP 3758 3762	form
+T194	GO_BP 4007 4015	Division
+T195	GO_BP 4020 4030	Cell Death
+T201	GO_BP 4056 4075	Retinal development
+T202	GO_BP 4107 4115	dividing
+T208	GO_BP 4222 4232	cell cycle
+T211	GO_BP 4276 4283	mitotic
+T213	GO_BP 4416 4430	differentiated
+T231	GO_BP 4600 4611	Development
+T233	GO_BP 4655 4663	regulate
+T234	GO_BP 4664 4674	cell cycle
+T237	GO_BP 4679 4688	apoptosis
+T238	GO_BP 4692 4702	repressing
+T239	GO_BP 4716 4723	promote
+T240	GO_BP 4724 4739	differentiation
+T241	GO_BP 4743 4755	potentiating
+T244	GO_BP 4772 4785	transcription
+T246	GO_BP 4831 4846	differentiation
+T247	GO_BP 4888 4896	division
+T248	GO_BP 4900 4905	death
+T249	GO_BP 4929 4939	regulation
+T250	GO_BP 4943 4958	differentiation
+T254	GO_BP 5095 5102	S-phase
+T255	GO_BP 5127 5136	apoptosis
+T275	GO_BP 5671 5681	cell cycle
+T282	GO_BP 5759 5770	proliferate
+T287	GO_BP 5831 5834	die
+T288	GO_BP 5838 5847	apoptosis
+T290	GO_BP 5858 5866	controls
+T291	GO_BP 5871 5881	cell cycle
+T297	GO_BP 5912 5925	transcription
+T300	GO_BP 5971 5984	transcription
+T304	GO_BP 6017 6027	regulatory
+T305	GO_BP 6075 6085	cell cycle
+T314	GO_BP 6256 6264	division
+T317	GO_BP 6282 6297	transcriptional
+T318	GO_BP 6318 6323	drive
+T322	GO_BP 6401 6409	division
+T330	GO_BP 6545 6550	drive
+T331	GO_BP 6551 6559	division
+T336	GO_BP 6652 6662	repressive
+T337	GO_BP 6741 6755	gene silencing
+T339	GO_BP 6772 6786	differentiated
+T342	GO_BP 6820 6827	promote
+T343	GO_BP 6828 6837	apoptosis
+T347	GO_BP 6915 6928	pro-apoptotic
+T348	GO_BP 6919 6928	apoptotic
+T354	GO_BP 7051 7060	apoptosis
+T355	GO_BP 7068 7078	developing
+T358	GO_BP 7151 7160	apoptosis
+T360	GO_BP 7268 7277	apoptosis
+T364	GO_BP 7394 7403	apoptosis
+T369	GO_BP 7462 7469	promote
+T370	GO_BP 7470 7475	death
+T379	GO_BP 7696 7704	generate
+T382	GO_BP 7848 7858	expression
+T385	GO_BP 7895 7905	stimulated
+T386	GO_BP 7909 7915	divide
+T387	GO_BP 7934 7944	repressive
+T388	GO_BP 7984 7992	dividing
+T393	GO_BP 8090 8100	repression
+T394	GO_BP 8118 8127	silencing
+T408	GO_BP 8371 8380	regulated
+T409	GO_BP 8384 8408	subcellular localization
+T410	GO_BP 8464 8474	repressive
+T411	GO_BP 8534 8546	distribution
+T415	GO_BP 8653 8668	differentiation
+T416	GO_BP 8737 8752	differentiation
+T417	GO_BP 8808 8816	division
+T418	GO_BP 8821 8826	death
+T420	GO_BP 8839 8847	regulate
+T421	GO_BP 8848 8863	differentiation
+T426	GO_BP 9017 9024	promote
+T427	GO_BP 9025 9040	differentiation
+T428	GO_BP 9127 9139	potentiating
+T431	GO_BP 9156 9169	transcription
+T436	GO_BP 9296 9303	promote
+T437	GO_BP 9310 9323	morphogenesis
+T438	GO_BP 9377 9392	differentiation
+T442	GO_BP 9460 9468	division
+T443	GO_BP 9476 9485	apoptosis
+T444	GO_BP 9529 9559	differentiation of Rb KO cells
+T449	GO_BP 9586 9599	proliferation
+T450	GO_BP 9604 9609	death
+T453	GO_BP 9639 9649	suppresses
+T454	GO_BP 9654 9662	division
+T455	GO_BP 9667 9672	death
+T464	GO_BP 9792 9806	differentiated
+T465	GO_BP 9869 9884	differentiation
+T474	GO_BP 10010 10025	differentiation
+T479	GO_BP 10183 10198	developmentally
+T480	GO_BP 10209 10217	rhythmic
+T481	GO_BP 10249 10264	differentiation
+T483	GO_BP 10327 10335	promotes
+T484	GO_BP 10336 10351	differentiation
+T487	GO_BP 10392 10405	transcription
+T490	GO_BP 10447 10458	development
+T498	GO_BP 10527 10537	expression
+T503	GO_BP 10563 10573	expression
+T505	GO_BP 10601 10615	differentiated
+T513	GO_BP 10762 10774	neurogenesis
+T519	GO_BP 10868 10875	control
+T520	GO_BP 10880 10895	differentiation
+T527	GO_BP 11095 11101	drives
+T528	GO_BP 11106 11121	differentiation
+T531	GO_BP 11183 11191	division
+T532	GO_BP 11196 11201	death
+T535	GO_BP 11211 11219	regulate
+T537	GO_BP 11229 11244	differentiation
+T539	GO_BP 11329 11344	differentiation
+T542	GO_BP 11367 11376	Regulates
+T543	GO_BP 11377 11385	Division
+T544	GO_BP 11390 11395	Death
+T559	GO_BP 11544 11548	bred
+T586	GO_BP 11708 11712	bred
+T587	GO_BP 11716 11723	produce
+T620	GO_BP 12158 12171	cell division
+T629	GO_BP 12418 12427	synthesis
+T635	GO_BP 12668 12674	reside
+T636	GO_BP 12721 12729	division
+T640	GO_BP 12787 12795	division
+T643	GO_BP 12884 12894	positioned
+T644	GO_BP 12895 12902	S-phase
+T647	GO_BP 12950 12958	division
+T648	GO_BP 12989 12999	suppressed
+T661	GO_BP 13129 13140	development
+T662	GO_BP 13154 13161	mitotic
+T675	GO_BP 13272 13282	suppressed
+T676	GO_BP 13291 13299	division
+T682	GO_BP 13348 13358	suppressed
+T683	GO_BP 13367 13374	S-phase
+T684	GO_BP 13379 13386	mitosis
+T690	GO_BP 13461 13467	drives
+T691	GO_BP 13476 13484	division
+T698	GO_BP 13646 13656	suppresses
+T699	GO_BP 13665 13673	division
+T703	GO_BP 13750 13759	apoptosis
+T704	GO_BP 13761 13772	eliminating
+T713	GO_BP 13912 13932	death of these cells
+T718	GO_BP 14022 14031	apoptotic
+T736	GO_BP 14288 14298	cell death
+T788	GO_BP 15229 15236	adapted
+T791	GO_BP 15596 15604	response
+T797	GO_BP 15778 15832	expression of known E2f targets as well as other genes
+T800	GO_BP 15838 15846	regulate
+T801	GO_BP 15851 15861	cell cycle
+T804	GO_BP 15866 15875	apoptosis
+T805	GO_BP 15908 15918	cell cycle
+T808	GO_BP 15923 15932	apoptotic
+T809	GO_BP 15949 15961	up-regulated
+T839	GO_BP 16318 16333	Differentiation
+T849	GO_BP 16399 16407	division
+T850	GO_BP 16412 16417	death
+T861	GO_BP 16515 16523	controls
+T862	GO_BP 16524 16539	differentiation
+T863	GO_BP 16555 16565	cell cycle
+T913	GO_BP 16932 16941	expressed
+T953	GO_BP 17568 17576	regulate
+T955	GO_BP 17591 17606	differentiation
+T959	GO_BP 17638 17651	transcription
+T961	GO_BP 17698 17706	regulate
+T963	GO_BP 17721 17736	differentiation
+T965	GO_BP 17776 17788	potentiating
+T967	GO_BP 17793 17808	differentiation
+T972	GO_BP 17892 17907	differentiation
+T973	GO_BP 17935 17954	expression of genes
+T975	GO_BP 17960 17968	modulate
+T976	GO_BP 17969 17979	maturation
+T977	GO_BP 18022 18035	proliferation
+T978	GO_BP 18079 18087	division
+T979	GO_BP 18092 18101	apoptosis
+T990	GO_BP 18252 18259	driving
+T991	GO_BP 18268 18276	division
+T997	GO_BP 18302 18310	promotes
+T998	GO_BP 18322 18330	division
+T999	GO_BP 18356 18369	proliferation
+T1037	GO_BP 18954 18959	death
+T1038	GO_BP 18995 19004	apoptosis
+T1039	GO_BP 19048 19058	developing
+T1052	GO_BP 19204 19212	suppress
+T1056	GO_BP 19308 19316	division
+T1077	GO_BP 19583 19591	regulate
+T1078	GO_BP 19592 19607	differentiation
+T1079	GO_BP 19723 19738	differentiation
+T1094	GO_BP 19898 19915	visual signalling
+T1095	GO_BP 19898 19904	visual
+T1106	GO_BP 20227 20257	activation of ON bipolar cells
+T1109	GO_BP 20273 20295	Responses to dim light
+T1110	GO_BP 20304 20311	adapted
+T1117	GO_BP 20506 20520	cell apoptosis
+T1119	GO_BP 20558 20566	response
+T1120	GO_BP 20653 20662	Responses
+T1130	GO_BP 20757 20765	response
+T1139	GO_BP 20937 20944	adapted
+T1144	GO_BP 21094 21101	develop
+T1153	GO_BP 21284 21292	response
+T1167	GO_BP 21522 21530	response
+T1176	GO_BP 21643 21652	expansion
+T1185	GO_BP 21878 21887	responses
+T1202	GO_BP 22121 22136	differentiation
+T1209	GO_BP 22288 22296	response
+T1219	GO_BP 22424 22439	Differentiation
+T1220	GO_BP 22455 22465	Cell Cycle
+T1226	GO_BP 22564 22579	differentiation
+T1244	GO_BP 22829 22839	cell-cycle
+T1247	GO_BP 22845 22854	apoptosis
+T1248	GO_BP 22867 22882	differentiation
+T1285	GO_BP 23445 23460	Differentiation
+T1353	GO_BP 24520 24537	rhythmic activity
+T1354	GO_BP 24564 24583	retinal development
+T1356	GO_BP 24647 24655	responds
+T1358	GO_BP 24776 24784	responds
+T1380	GO_BP 25050 25059	expressed
+T1408	GO_BP 25411 25420	expressed
+T1424	GO_BP 25706 25715	expressed
+T1432	GO_BP 25881 25896	differentiation
+T1437	GO_BP 25933 25942	expressed
+T1438	GO_BP 25982 25992	generating
+T1439	GO_BP 26008 26018	expressing
+T1458	GO_BP 26252 26267	differentiation
+T1459	GO_BP 26320 26333	specification
+T1460	GO_BP 26370 26379	transport
+T1466	GO_BP 26491 26501	eliminated
+T1496	GO_BP 26960 26968	regulate
+T1497	GO_BP 26973 26983	expression
+T1516	GO_BP 27090 27100	expression
+T1525	GO_BP 27215 27224	transport
+T1526	GO_BP 27237 27250	developmental
+T1529	GO_BP 27270 27280	expression
+T1537	GO_BP 27420 27425	moves
+T1558	GO_BP 27771 27780	synthesis
+T1559	GO_BP 27795 27804	transport
+T1563	GO_BP 27850 27865	Differentiation
+T1569	GO_BP 27987 27994	mitosis
+T1574	GO_BP 28115 28122	mitotic
+T1593	GO_BP 28213 28220	mitosis
+T1594	GO_BP 28225 28235	cell death
+T1603	GO_BP 28332 28339	mitosis
+T1612	GO_BP 28447 28454	mitosis
+T1613	GO_BP 28456 28466	cell death
+T1644	GO_BP 28843 28856	cell division
+T1651	GO_BP 28923 28931	dividing
+T1657	GO_BP 29018 29026	dividing
+T1667	GO_BP 29295 29304	Regulates
+T1668	GO_BP 29309 29324	Differentiation
+T1680	GO_BP 29481 29491	potentiate
+T1683	GO_BP 29508 29521	transcription
+T1684	GO_BP 29535 29542	promote
+T1685	GO_BP 29543 29558	differentiation
+T1688	GO_BP 29656 29671	differentiation
+T1690	GO_BP 29721 29736	differentiation
+T1691	GO_BP 29761 29780	cell cycle or death
+T1692	GO_BP 29761 29771	cell cycle
+T1695	GO_BP 29851 29859	regulate
+T1696	GO_BP 29865 29880	differentiation
+T1705	GO_BP 29957 29967	maturation
+T1709	GO_BP 30008 30018	suppressed
+T1710	GO_BP 30027 30034	mitosis
+T1721	GO_BP 30206 30213	mitosis
+T1745	GO_BP 30481 30487	killed
+T1757	GO_BP 30606 30616	cell death
+T1759	GO_BP 30637 30652	differentiation
+T1764	GO_BP 30718 30733	differentiation
+T1781	GO_BP 30963 30972	expressed
+T1810	GO_BP 31258 31264	killed
+T1811	GO_BP 31268 31277	apoptosis
+T1812	GO_BP 31332 31340	division
+T1817	GO_BP 31406 31415	expressed
+T1829	GO_BP 31553 31560	forming
+T1848	GO_BP 31762 31771	expressed
+T1851	GO_BP 31909 31917	division
+T1853	GO_BP 31974 31984	cell cycle
+T1856	GO_BP 32015 32030	differentiation
+T1863	GO_BP 32130 32138	dividing
+T1880	GO_BP 32293 32301	dividing
+T1884	GO_BP 32361 32370	expressed
+T1885	GO_BP 32419 32429	suppressed
+T1891	GO_BP 32486 32494	dividing
+T1897	GO_BP 32556 32564	dividing
+T1909	GO_BP 32739 32749	suppresses
+T1910	GO_BP 32758 32766	division
+T1911	GO_BP 32784 32799	differentiation
+T1916	GO_BP 32823 32833	suppresses
+T1917	GO_BP 32843 32858	differentiation
+T1918	GO_BP 32875 32883	division
+T1919	GO_BP 32895 32905	Expression
+T1925	GO_BP 33000 33015	differentiation
+T1929	GO_BP 33089 33099	expression
+T1941	GO_BP 33359 33369	expression
+T1944	GO_BP 33458 33471	proliferation
+T1948	GO_BP 33586 33600	differentiated
+T1949	GO_BP 33609 33617	division
+T1955	GO_BP 33686 33694	division
+T1956	GO_BP 33736 33743	mitotic
+T1959	GO_BP 33770 33779	expressed
+T1995	GO_BP 34320 34332	distribution
+T2015	GO_BP 34658 34673	differentiation
+T2016	GO_BP 34701 34710	expressed
+T2022	GO_BP 34760 34770	Expression
+T2094	GO_BP 36114 36124	developing
+T2099	GO_BP 36182 36197	differentiation
+T2106	GO_BP 36317 36325	promotes
+T2107	GO_BP 36333 36348	differentiation
+T2110	GO_BP 36387 36399	Localization
+T2135	GO_BP 36918 36929	development
+T2146	GO_BP 37199 37206	express
+T2152	GO_BP 37473 37483	expressing
+T2156	GO_BP 37508 37518	maturation
+T2172	GO_BP 38155 38168	transcription
+T2173	GO_BP 38176 38185	expressed
+T2183	GO_BP 38497 38521	subcellular distribution
+T2184	GO_BP 38560 38572	localization
+T2185	GO_BP 38580 38589	regulated
+T2186	GO_BP 38608 38640	post-translational modifications
+T2187	GO_BP 38613 38626	translational
+T2189	GO_BP 38653 38677	Subcellular Distribution
+T2190	GO_BP 38665 38724	Distribution of E2f3 Isoforms and Other Cell Cycle Proteins
+T2194	GO_BP 38705 38715	Cell Cycle
+T2198	GO_BP 38732 38742	Developing
+T2214	GO_BP 39106 39112	Drives
+T2215	GO_BP 39117 39132	Differentiation
+T2223	GO_BP 39217 39227	recombined
+T2255	GO_BP 39658 39667	expresses
+T2265	GO_BP 39751 39760	expresses
+T2277	GO_BP 39841 39850	expresses
+T2296	GO_BP 40317 40324	M-phase
+T2301	GO_BP 40397 40405	suppress
+T2302	GO_BP 40414 40422	division
+T2304	GO_BP 40523 40535	distribution
+T2305	GO_BP 40545 40555	cell cycle
+T2308	GO_BP 40574 40593	retinal development
+T2333	GO_BP 41144 41156	localization
+T2346	GO_BP 41285 41297	distribution
+T2347	GO_BP 41326 41336	cell cycle
+T2350	GO_BP 41382 41394	distribution
+T2352	GO_BP 41440 41460	compartmentalization
+T2355	GO_BP 41466 41475	Regulates
+T2356	GO_BP 41480 41495	Differentiation
+T2363	GO_BP 41576 41591	differentiation
+T2376	GO_BP 41836 41846	developing
+T2392	GO_BP 42187 42202	down-regulation
+T2404	GO_BP 42343 42353	regulatory
+T2405	GO_BP 42398 42408	cell cycle
+T2408	GO_BP 42462 42472	cell cycle
+T2414	GO_BP 42634 42649	differentiation
+T2419	GO_BP 42703 42713	suppressed
+T2423	GO_BP 42780 42798	cell cycle control
+T2424	GO_BP 42780 42790	cell cycle
+T2429	GO_BP 42803 42813	regulation
+T2431	GO_BP 42861 42876	differentiation
+T2434	GO_BP 42894 42902	Controls
+T2435	GO_BP 42911 42934	Cell Division and Death
+T2436	GO_BP 42911 42924	Cell Division
+T2443	GO_BP 43022 43032	cell cycle
+T2446	GO_BP 43053 43068	differentiation
+T2447	GO_BP 43090 43095	death
+T2449	GO_BP 43250 43258	promotes
+T2450	GO_BP 43259 43269	cell cycle
+T2456	GO_BP 43419 43428	regulates
+T2457	GO_BP 43429 43444	differentiation
+T2458	GO_BP 43500 43508	division
+T2459	GO_BP 43513 43518	death
+T2461	GO_BP 43562 43570	regulate
+T2462	GO_BP 43571 43590	neuronal maturation
+T2468	GO_BP 43666 43674	division
+T2469	GO_BP 43679 43684	death
+T2480	GO_BP 43745 43759	differentiated
+T2483	GO_BP 43857 43868	signal flow
+T2488	GO_BP 43920 43928	Division
+T2489	GO_BP 43933 43938	death
+T2509	GO_BP 44062 44070	regulate
+T2510	GO_BP 44071 44086	differentiation
+T2511	GO_BP 44147 44162	cell maturation
+T2514	GO_BP 44243 44251	division
+T2515	GO_BP 44256 44261	death
+T2521	GO_BP 44347 44360	transcription
+T2522	GO_BP 44374 44381	promote
+T2523	GO_BP 44382 44397	differentiation
+T2532	GO_BP 44499 44507	division
+T2533	GO_BP 44509 44514	death
+T2534	GO_BP 44520 44535	differentiation
+T2538	GO_BP 44569 44578	generated
+T2543	GO_BP 44744 44750	drives
+T2544	GO_BP 44759 44767	division
+T2545	GO_BP 44772 44781	apoptosis
+T2547	GO_BP 44928 44952	apoptosis in Rb KO cells
+T2556	GO_BP 45079 45087	promotes
+T2557	GO_BP 45100 45113	cell division
+T2560	GO_BP 45127 45136	apoptosis
+T2580	GO_BP 45458 45466	response
+T2591	GO_BP 45584 45635	development of cones, bipolar cells, or other cells
+T2592	GO_BP 45584 45619	development of cones, bipolar cells
+T2593	GO_BP 45584 45604	development of cones
+T2606	GO_BP 45767 45775	Controls
+T2607	GO_BP 45780 45795	Differentiation
+T2613	GO_BP 45925 45933	suppress
+T2621	GO_BP 46022 46079	synthesis and transport of a large cohort of SAC proteins
+T2622	GO_BP 46036 46079	transport of a large cohort of SAC proteins
+T2624	GO_BP 46116 46127	development
+T2628	GO_BP 46246 46255	regulates
+T2629	GO_BP 46256 46268	neurogenesis
+T2630	GO_BP 46285 46292	mitosis
+T2638	GO_BP 46426 46437	potentiates
+T2641	GO_BP 46454 46467	transcription
+T2642	GO_BP 46481 46488	promote
+T2643	GO_BP 46489 46504	differentiation
+T2645	GO_BP 46531 46539	promotes
+T2646	GO_BP 46547 46562	differentiation
+T2647	GO_BP 46566 46578	potentiating
+T2649	GO_BP 46675 46685	repression
+T2652	GO_BP 46730 46738	promotes
+T2653	GO_BP 46743 46758	differentiation
+T2658	GO_BP 46798 46807	Regulates
+T2667	GO_BP 47018 47024	temper
+T2668	GO_BP 47029 47038	expansion
+T2669	GO_BP 47063 47078	differentiation
+T2670	GO_BP 47147 47154	mitosis
+T2677	GO_BP 47262 47277	differentiation
+T2680	GO_BP 47384 47399	differentiation
+T2685	GO_BP 47473 47506	regulation of SAC differentiation
+T2686	GO_BP 47491 47506	differentiation
+T2689	GO_BP 47551 47562	controlling
+T2690	GO_BP 47563 47571	division
+T2691	GO_BP 47575 47580	death
+T2699	GO_BP 47634 47642	suppress
+T2700	GO_BP 47652 47665	proliferation
+T2701	GO_BP 47669 47674	death
+T2706	GO_BP 47716 47729	proliferation
+T2707	GO_BP 47734 47739	death
+T2708	GO_BP 47763 47778	differentiation
+T2717	GO_BP 47858 47866	division
+T2725	GO_BP 47928 47972	expression of cell cycle and apoptotic genes
+T2726	GO_BP 47942 47952	cell cycle
+T2729	GO_BP 47957 47966	apoptotic
+T2736	GO_BP 48002 48011	expressed
+T2738	GO_BP 48055 48061	drives
+T2739	GO_BP 48071 48081	cell-cycle
+T2750	GO_BP 48248 48263	differentiation
+T2756	GO_BP 48368 48375	promote
+T2757	GO_BP 48376 48391	differentiation
+T2759	GO_BP 48460 48467	repress
+T2766	GO_BP 48657 48666	regulates
+T2767	GO_BP 48671 48686	differentiation
+T2770	GO_BP 48799 48814	differentiation
+T2775	GO_BP 48927 48936	regulates
+T2776	GO_BP 48941 48956	differentiation
+T2780	GO_BP 49020 49032	Localization
+T2796	GO_BP 49291 49315	subcellular distribution
+T2797	GO_BP 49303 49343	distribution in developing retinal cells
+T2798	GO_BP 49319 49329	developing
+T2812	GO_BP 49586 49605	negative regulatory
+T2813	GO_BP 49645 49652	S-phase
+T2816	GO_BP 49721 49730	regulated
+T2819	GO_BP 49798 49811	distributions
+T2822	GO_BP 49876 49888	localization
+T2837	GO_BP 50081 50093	localization
+T2838	GO_BP 50132 50142	repressive
+T2839	GO_BP 50151 50166	differentiating
+T2841	GO_BP 50186 50194	switches
+T2845	GO_BP 50237 50244	remains
+T2846	GO_BP 50285 50305	compartmentalization
+T2849	GO_BP 50400 50412	distribution
+T2850	GO_BP 50473 50483	supporting
+T2851	GO_BP 50488 50503	differentiation
+T2852	GO_BP 50528 50536	Division
+T2853	GO_BP 50541 50556	Differentiation
+T2855	GO_BP 50613 50628	differentiating
+T2858	GO_BP 50645 50655	cell cycle
+T2863	GO_BP 50798 50804	temper
+T2864	GO_BP 50805 50814	expansion
+T2867	GO_BP 50897 50905	division
+T2868	GO_BP 50920 50935	differentiating
+T2871	GO_BP 50997 51012	differentiation
+T2872	GO_BP 51061 51076	differentiating
+T2876	GO_BP 51125 51132	migrate
+T2877	GO_BP 51159 51166	express
+T2881	GO_BP 51232 51239	migrate
+T2886	GO_BP 51368 51382	differentiated
+T2888	GO_BP 51395 51402	migrate
+T2889	GO_BP 51429 51439	expression
+T2892	GO_BP 51518 51533	differentiation
+T2899	GO_BP 51612 51620	division
+T2902	GO_BP 51710 51718	division
+T2903	GO_BP 51767 51782	differentiation
+T2906	GO_BP 51834 51842	division
+T2907	GO_BP 51853 51897	division of terminally differentiating cells
+T2908	GO_BP 51876 51891	differentiating
+T2911	GO_BP 51936 51950	transformation
+T2912	GO_BP 52033 52048	Differentiation
+T2913	GO_BP 52075 52090	differentiation
+T2916	GO_BP 52124 52139	transcriptional
+T2919	GO_BP 52257 52267	regulation
+T2920	GO_BP 52308 52316	regulate
+T2921	GO_BP 52317 52332	differentiation
+T2923	GO_BP 52352 52362	cell cycle
+T2928	GO_BP 52434 52449	differentiation
+T2931	GO_BP 52464 52477	transcription
+T2932	GO_BP 52486 52493	shuttle
+T2935	GO_BP 52531 52543	neurogenesis
+T2943	GO_BP 52849 52857	promotes
+T2944	GO_BP 52858 52895	differentiation in non-neuronal cells
+T2950	GO_BP 52998 53011	differentiate
+T2956	GO_BP 53143 53149	induce
+T2957	GO_BP 53150 53165	differentiation
+T2963	GO_BP 53386 53398	potentiation
+T2966	GO_BP 53418 53431	transcription
+T2973	GO_BP 53642 53655	differentiate
+T2974	GO_BP 53749 53764	differentiation
+T3015	GO_BP 54950 54957	S-phase
+T3019	GO_BP 55088 55105	biotin-conjugated
+T3063	GO_BP 56744 56753	expressed
+T3066	GO_BP 56858 56865	express
+T3069	GO_BP 57090 57097	S-phase
+T3070	GO_BP 57099 57106	M-phase
+T3072	GO_BP 57112 57121	apoptotic
+T3074	GO_BP 57214 57228	differentiated
+T3078	GO_BP 57426 57447	reverse transcription
+T3081	GO_BP 57588 57597	digestion
+T3091	GO_BP 57713 57724	synthesized
+T3094	GO_BP 57792 57801	synthesis
+T3107	GO_BP 58494 58506	denaturation
+T3110	GO_BP 58543 58552	extension
+T3111	GO_BP 58543 58552	extension
+T3141	GO_BP 59677 59687	conjugated
+T3156	GO_BP 60354 60361	adapted
+T3159	GO_BP 60410 60417	adapted
+T3160	GO_BP 60629 60636	adapted
+T3161	GO_BP 60658 60665	adapted
+T3162	GO_BP 60695 60705	adaptation
+T3166	GO_BP 60940 60949	responses
+T3186	GO_BP 61465 61473	Division
+T3187	GO_BP 61478 61488	Cell Death
+T3195	GO_BP 61619 61626	S-phase
+T3196	GO_BP 61651 61660	apoptosis
+T3205	GO_BP 61773 61782	synthesis
+T3206	GO_BP 61866 61874	dividing
+T3211	GO_BP 61987 61995	Division
+T3212	GO_BP 62000 62009	Apoptosis
+T3218	GO_BP 62199 62206	S-phase
+T3219	GO_BP 62245 62254	apoptosis
+T3231	GO_BP 62451 62459	dividing
+T3242	GO_BP 62595 62602	Mitosis
+T3248	GO_BP 62733 62740	M-phase
+T3268	GO_BP 63179 63189	Cell Death
+T3312	GO_BP 63998 64005	adapted
+T3313	GO_BP 64198 64213	Differentiation
+T3376	GO_BP 65388 65412	Subcellular Distribution
+T3378	GO_BP 65437 65447	Developing
+T3430	GO_BP 66938 66951	transcription

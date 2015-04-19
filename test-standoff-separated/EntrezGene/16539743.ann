@@ -1,0 +1,343 @@
+T1	EntrezGene 32 36	mr-s
+T24	EntrezGene 608 652	mouse mr-s (major retinal SAM domain protein
+T25	EntrezGene 608 618	mouse mr-s
+T44	EntrezGene 875 879	mr-s
+T47	EntrezGene 915 927	polyhomeotic
+T48	EntrezGene 929 931	ph
+T50	EntrezGene 943 947	Mph1
+T52	EntrezGene 948 953	Rae28
+T57	EntrezGene 1077 1081	mr-s
+T64	EntrezGene 1167 1171	mr-s
+T74	EntrezGene 1353 1357	mr-s
+T80	EntrezGene 1416 1419	Crx
+T82	EntrezGene 1463 1467	mr-s
+T88	EntrezGene 1551 1553	ph
+T89	EntrezGene 1559 1563	mr-s
+T94	EntrezGene 1610 1614	mr-s
+T100	EntrezGene 1700 1704	mr-s
+T103	EntrezGene 1722 1726	GAL4
+T111	EntrezGene 1832 1836	mr-s
+T119	EntrezGene 1970 1974	mr-s
+T124	EntrezGene 2127 2131	mr-s
+T238	EntrezGene 4279 4282	Crx
+T247	EntrezGene 4418 4421	Crx
+T255	EntrezGene 4542 4545	Crx
+T267	EntrezGene 4759 4768	human CRX
+T279	EntrezGene 5003 5006	Crx
+T352	EntrezGene 6024 6026	ph
+T371	EntrezGene 6351 6355	mr-s
+T375	EntrezGene 6422 6426	mr-s
+T377	EntrezGene 6462 6464	ph
+T380	EntrezGene 6481 6485	MPH1
+T382	EntrezGene 6486 6491	Rae28
+T386	EntrezGene 6493 6497	mr-s
+T392	EntrezGene 6637 6641	mr-s
+T395	EntrezGene 6667 6670	Crx
+T397	EntrezGene 6682 6686	mr-s
+T404	EntrezGene 6799 6803	mr-s
+T407	EntrezGene 6821 6825	GAL4
+T415	EntrezGene 6915 6919	mr-s
+T423	EntrezGene 7040 7050	mouse mr-s
+T439	EntrezGene 7460 7480	polyhomeotic protein
+T453	EntrezGene 7751 7755	mr-s
+T455	EntrezGene 7757 7789	major retinal SAM domain protein
+T478	EntrezGene 8094 8098	mr-s
+T488	EntrezGene 8182 8186	mr-s
+T499	EntrezGene 8348 8352	mr-s
+T501	EntrezGene 8388 8392	Mph1
+T503	EntrezGene 8393 8398	Rae28
+T507	EntrezGene 8419 8421	ph
+T508	EntrezGene 8433 8443	Mouse mr-s
+T517	EntrezGene 8551 8561	mouse mr-s
+T521	EntrezGene 8606 8642	rat, human, chick and zebrafish mr-s
+T523	EntrezGene 8611 8642	human, chick and zebrafish mr-s
+T525	EntrezGene 8618 8642	chick and zebrafish mr-s
+T527	EntrezGene 8628 8642	zebrafish mr-s
+T533	EntrezGene 8738 8748	mouse mr-s
+T540	EntrezGene 8791 8811	mouse and human mr-s
+T542	EntrezGene 8801 8811	human mr-s
+T550	EntrezGene 8906 8916	Mouse mr-s
+T556	EntrezGene 8950 8960	human MR-S
+T562	EntrezGene 9057 9067	Human MR-S
+T567	EntrezGene 9103 9107	LCA9
+T582	EntrezGene 9215 9219	mr-s
+T635	EntrezGene 10017 10060	mouse, rat, human, chick and zebrafish mr-s
+T637	EntrezGene 10024 10060	rat, human, chick and zebrafish mr-s
+T639	EntrezGene 10029 10060	human, chick and zebrafish mr-s
+T641	EntrezGene 10036 10060	chick and zebrafish mr-s
+T643	EntrezGene 10046 10060	zebrafish mr-s
+T658	EntrezGene 10280 10284	mr-s
+T661	EntrezGene 10347 10351	mr-s
+T671	EntrezGene 10505 10509	mr-s
+T676	EntrezGene 10577 10581	mr-s
+T686	EntrezGene 10895 10899	mr-s
+T692	EntrezGene 10988 10992	mr-s
+T705	EntrezGene 11217 11221	mr-s
+T709	EntrezGene 11344 11348	mr-s
+T715	EntrezGene 11434 11438	mr-s
+T722	EntrezGene 11501 11505	mr-s
+T731	EntrezGene 11593 11597	mr-s
+T733	EntrezGene 11713 11717	mr-s
+T737	EntrezGene 11940 11944	mr-s
+T742	EntrezGene 12010 12014	mr-s
+T752	EntrezGene 12450 12454	mr-s
+T757	EntrezGene 12489 12493	mr-s
+T768	EntrezGene 12869 12873	mr-s
+T773	EntrezGene 12978 12982	mr-s
+T781	EntrezGene 13180 13184	mr-s
+T791	EntrezGene 13425 13445	mouse mr-s and G3PDH
+T792	EntrezGene 13425 13435	mouse mr-s
+T802	EntrezGene 13524 13528	mr-s
+T805	EntrezGene 13580 13584	mr-s
+T812	EntrezGene 13720 13724	mr-s
+T814	EntrezGene 13793 13797	mr-s
+T822	EntrezGene 13891 13895	mr-s
+T824	EntrezGene 13913 13936	Crx homeodomain protein
+T847	EntrezGene 14228 14232	mr-s
+T850	EntrezGene 14253 14256	Crx
+T852	EntrezGene 14274 14277	Crx
+T857	EntrezGene 14288 14292	mr-s
+T864	EntrezGene 14346 14350	mr-s
+T869	EntrezGene 14373 14376	Crx
+T872	EntrezGene 14412 14415	Crx
+T876	EntrezGene 14431 14435	mr-s
+T878	EntrezGene 14503 14506	Crx
+T882	EntrezGene 14543 14547	mr-s
+T886	EntrezGene 14596 14600	mr-s
+T888	EntrezGene 14622 14625	Crx
+T895	EntrezGene 14709 14713	mr-s
+T900	EntrezGene 14735 14738	Crx
+T903	EntrezGene 14792 14796	mr-s
+T908	EntrezGene 14850 14853	Crx
+T911	EntrezGene 14912 14916	mr-s
+T914	EntrezGene 14947 14950	Crx
+T923	EntrezGene 15034 15038	mr-s
+T925	EntrezGene 15055 15058	Crx
+T931	EntrezGene 15107 15117	mouse mr-s
+T938	EntrezGene 15157 15160	Crx
+T940	EntrezGene 15183 15187	mr-s
+T945	EntrezGene 15230 15233	Crx
+T952	EntrezGene 15355 15358	Crx
+T958	EntrezGene 15456 15460	mr-s
+T964	EntrezGene 15465 15470	G3PDH
+T970	EntrezGene 15542 15545	Crx
+T974	EntrezGene 15561 15565	mr-s
+T979	EntrezGene 15656 15659	Crx
+T1008	EntrezGene 16072 16075	Crx
+T1012	EntrezGene 16086 16090	mr-s
+T1021	EntrezGene 16204 16208	mr-s
+T1038	EntrezGene 16363 16367	mr-s
+T1040	EntrezGene 16401 16404	Crx
+T1098	EntrezGene 17349 17353	mr-s
+T1103	EntrezGene 17415 17419	mr-s
+T1111	EntrezGene 17583 17587	mr-s
+T1115	EntrezGene 17634 17637	Crx
+T1120	EntrezGene 17725 17728	Crx
+T1135	EntrezGene 18132 18135	Crx
+T1147	EntrezGene 18256 18260	mr-s
+T1149	EntrezGene 18278 18281	Crx
+T1152	EntrezGene 18304 18308	mr-s
+T1165	EntrezGene 18591 18595	mr-s
+T1172	EntrezGene 18721 18725	mr-s
+T1182	EntrezGene 18882 18886	GAL4
+T1188	EntrezGene 19003 19007	mr-s
+T1190	EntrezGene 19054 19058	mr-s
+T1197	EntrezGene 19171 19175	mr-s
+T1202	EntrezGene 19244 19248	mr-s
+T1212	EntrezGene 19317 19321	GAL4
+T1216	EntrezGene 19397 19401	mr-s
+T1219	EntrezGene 19417 19421	GAL4
+T1228	EntrezGene 19566 19570	GAL4
+T1233	EntrezGene 19642 19646	mr-s
+T1238	EntrezGene 19707 19711	mr-s
+T1250	EntrezGene 19797 19801	mr-s
+T1260	EntrezGene 19937 19941	mr-s
+T1268	EntrezGene 20033 20037	mr-s
+T1276	EntrezGene 20087 20091	mr-s
+T1291	EntrezGene 20290 20294	mr-s
+T1296	EntrezGene 20327 20331	GAL4
+T1297	EntrezGene 20385 20389	mr-s
+T1304	EntrezGene 20595 20599	GAL4
+T1311	EntrezGene 20801 20805	GAL4
+T1313	EntrezGene 20829 20833	mr-s
+T1318	EntrezGene 20940 20944	mr-s
+T1322	EntrezGene 21030 21034	mr-s
+T1326	EntrezGene 21063 21073	yeast GAL4
+T1335	EntrezGene 21410 21414	mr-s
+T1340	EntrezGene 21441 21445	mr-s
+T1351	EntrezGene 21495 21499	mr-s
+T1359	EntrezGene 21562 21566	mr-s
+T1368	EntrezGene 21715 21719	mr-s
+T1370	EntrezGene 21758 21762	mr-s
+T1376	EntrezGene 21915 21919	GAL4
+T1377	EntrezGene 21949 21953	mr-s
+T1379	EntrezGene 22019 22023	mr-s
+T1381	EntrezGene 22030 22033	mrs
+T1390	EntrezGene 22269 22273	mr-s
+T1395	EntrezGene 22415 22418	mrs
+T1398	EntrezGene 22556 22560	mr-s
+T1433	EntrezGene 23113 23117	mr-s
+T1440	EntrezGene 23321 23325	mr-s
+T1448	EntrezGene 23445 23449	mr-s
+T1457	EntrezGene 23540 23542	ph
+T1459	EntrezGene 23597 23599	ph
+T1463	EntrezGene 23696 23714	Sex comb on midleg
+T1464	EntrezGene 23716 23719	Scm
+T1468	EntrezGene 23849 23851	ph
+T1470	EntrezGene 23890 23894	mr-s
+T1474	EntrezGene 24067 24070	mrs
+T1476	EntrezGene 24128 24132	GAL4
+T1477	EntrezGene 24158 24162	mr-s
+T1488	EntrezGene 24314 24318	mr-s
+T1500	EntrezGene 24413 24417	mr-s
+T1503	EntrezGene 24466 24470	mr-s
+T1510	EntrezGene 24550 24554	mr-s
+T1517	EntrezGene 24614 24618	mr-s
+T1521	EntrezGene 24683 24687	mr-s
+T1529	EntrezGene 24802 24806	mr-s
+T1532	EntrezGene 24828 24832	mr-s
+T1534	EntrezGene 24904 24908	mr-s
+T1542	EntrezGene 25006 25010	mr-s
+T1547	EntrezGene 25068 25070	ph
+T1552	EntrezGene 25122 25126	mr-s
+T1558	EntrezGene 25176 25180	mr-s
+T1565	EntrezGene 25386 25390	GAL4
+T1566	EntrezGene 25391 25395	mr-s
+T1575	EntrezGene 25477 25479	ph
+T1579	EntrezGene 25551 25553	Ph
+T1592	EntrezGene 25766 25770	mr-s
+T1598	EntrezGene 25873 25877	mr-s
+T1607	EntrezGene 25994 25998	mr-s
+T1609	EntrezGene 26012 26016	GAL4
+T1613	EntrezGene 26083 26087	mr-s
+T1615	EntrezGene 26097 26101	GAL4
+T1619	EntrezGene 26126 26129	mrs
+T1623	EntrezGene 26182 26186	GAL4
+T1628	EntrezGene 26281 26284	mrs
+T1633	EntrezGene 26380 26384	GAL4
+T1638	EntrezGene 26516 26520	mr-s
+T1640	EntrezGene 26529 26533	GAL4
+T1648	EntrezGene 26678 26682	mr-s
+T1663	EntrezGene 26775 26779	GAL4
+T1674	EntrezGene 26983 26986	mrs
+T1681	EntrezGene 27128 27132	mr-s
+T1688	EntrezGene 27319 27322	mrs
+T1691	EntrezGene 27423 27427	mr-s
+T1700	EntrezGene 27617 27621	mr-s
+T1708	EntrezGene 27755 27759	GAL4
+T1728	EntrezGene 28124 28128	mr-s
+T1735	EntrezGene 28259 28262	mrs
+T1760	EntrezGene 28809 28813	mr-s
+T1768	EntrezGene 28951 28955	mr-s
+T1778	EntrezGene 29079 29083	mr-s
+T1787	EntrezGene 29155 29159	mr-s
+T1794	EntrezGene 29261 29271	mouse mr-s
+T1808	EntrezGene 29493 29503	mouse mr-s
+T1826	EntrezGene 29789 29793	mr-s
+T1828	EntrezGene 29803 29807	GAL4
+T1848	EntrezGene 30092 30096	GAL4
+T1849	EntrezGene 30134 30137	mrs
+T1864	EntrezGene 30554 30557	mrs
+T1868	EntrezGene 30758 30761	mrs
+T1877	EntrezGene 31099 31142	mouse, rat, human, chick and zebrafish mr-s
+T1879	EntrezGene 31106 31142	rat, human, chick and zebrafish mr-s
+T1881	EntrezGene 31111 31142	human, chick and zebrafish mr-s
+T1883	EntrezGene 31118 31142	chick and zebrafish mr-s
+T1885	EntrezGene 31128 31142	zebrafish mr-s
+T1895	EntrezGene 31260 31263	mrs
+T1901	EntrezGene 31341 31345	mr-s
+T1915	EntrezGene 31526 31530	mr-s
+T1920	EntrezGene 31625 31629	mr-s
+T1926	EntrezGene 31742 31745	Crx
+T1937	EntrezGene 32058 32062	mr-s
+T1960	EntrezGene 32339 32343	mr-s
+T1963	EntrezGene 32358 32361	Crx
+T1986	EntrezGene 32717 32721	mr-s
+T1989	EntrezGene 32761 32764	Crx
+T2002	EntrezGene 32942 32946	mr-s
+T2005	EntrezGene 33009 33012	Nrl
+T2011	EntrezGene 33097 33100	Nrl
+T2014	EntrezGene 33154 33158	mr-s
+T2018	EntrezGene 33221 33224	Nrl
+T2025	EntrezGene 33347 33351	mr-s
+T2028	EntrezGene 33390 33392	ph
+T2036	EntrezGene 33582 33586	mr-s
+T2039	EntrezGene 33646 33650	mr-s
+T2045	EntrezGene 33788 33792	mr-s
+T2047	EntrezGene 33822 33826	mr-s
+T2054	EntrezGene 33950 33954	mr-s
+T2056	EntrezGene 33978 33982	mr-s
+T2065	EntrezGene 34117 34121	mr-s
+T2070	EntrezGene 34215 34219	mr-s
+T2074	EntrezGene 34276 34280	mr-s
+T2083	EntrezGene 34403 34405	ph
+T2092	EntrezGene 34715 34719	mr-s
+T2094	EntrezGene 34797 34801	mr-s
+T2112	EntrezGene 35121 35123	ph
+T2128	EntrezGene 35405 35414	Hunchback
+T2133	EntrezGene 35544 35548	mr-s
+T2141	EntrezGene 35684 35688	mr-s
+T2147	EntrezGene 35816 35820	mr-s
+T2149	EntrezGene 35834 35838	GAL4
+T2153	EntrezGene 35863 35866	mrs
+T2158	EntrezGene 35941 35945	mr-s
+T2165	EntrezGene 36089 36093	mr-s
+T2173	EntrezGene 36289 36291	ph
+T2175	EntrezGene 36328 36365	human lethal(3) malignant brain tumor
+T2179	EntrezGene 36367 36376	H-L(3)MBT
+T2189	EntrezGene 36513 36522	H-L(3)MBT
+T2199	EntrezGene 36657 36661	mr-s
+T2210	EntrezGene 36894 36898	mr-s
+T2221	EntrezGene 37198 37202	mr-s
+T2251	EntrezGene 37647 37649	ph
+T2272	EntrezGene 38075 38078	mrs
+T2281	EntrezGene 38259 38263	mr-s
+T2286	EntrezGene 38402 38406	mr-s
+T2298	EntrezGene 38637 38641	mr-s
+T2310	EntrezGene 38738 38742	mr-s
+T2316	EntrezGene 38811 38815	mr-s
+T2321	EntrezGene 38943 38947	mr-s
+T2325	EntrezGene 38996 39000	mr-s
+T2333	EntrezGene 39126 39130	mr-s
+T2347	EntrezGene 39432 39436	mr-s
+T2350	EntrezGene 39454 39458	mr-s
+T2363	EntrezGene 39694 39698	mr-s
+T2367	EntrezGene 39746 39750	mr-s
+T2369	EntrezGene 39807 39817	mouse mr-s
+T2384	EntrezGene 40064 40068	mr-s
+T2391	EntrezGene 40167 40171	mr-s
+T2394	EntrezGene 40189 40193	GAL4
+T2399	EntrezGene 40267 40271	mr-s
+T2409	EntrezGene 40345 40349	mr-s
+T2415	EntrezGene 40484 40494	mouse mr-s
+T2460	EntrezGene 41201 41205	mr-s
+T2468	EntrezGene 41366 41370	mr-s
+T2477	EntrezGene 41513 41517	mr-s
+T2527	EntrezGene 42508 42512	mr-s
+T2555	EntrezGene 42965 42969	mr-s
+T2562	EntrezGene 43154 43165	mouse G3PDH
+T2572	EntrezGene 43354 43358	GAL4
+T2574	EntrezGene 43431 43435	GAL4
+T2575	EntrezGene 43534 43538	mr-s
+T2592	EntrezGene 44125 44129	mr-s
+T2609	EntrezGene 44232 44236	mr-s
+T2615	EntrezGene 44488 44492	mr-s
+T2617	EntrezGene 44511 44514	mrs
+T2639	EntrezGene 44847 44851	mr-s
+T2706	EntrezGene 46321 46325	mr-s
+T2720	EntrezGene 46675 46695	bovine serum albumin
+T2723	EntrezGene 46697 46700	BSA
+T2727	EntrezGene 46822 46825	BSA
+T2740	EntrezGene 47234 47238	mr-s
+T2748	EntrezGene 47336 47340	mr-s
+T2765	EntrezGene 47589 47592	Crx
+T2774	EntrezGene 47705 47708	Crx
+T2783	EntrezGene 47819 47822	Crx
+T2793	EntrezGene 47943 47946	Crx
+T2799	EntrezGene 48047 48051	GAL4
+T2805	EntrezGene 48230 48234	mr-s
+T2816	EntrezGene 48440 48444	GAL4
+T2834	EntrezGene 48726 48729	Crx
+T2836	EntrezGene 48731 48748	cone-rod homeobox
+T2842	EntrezGene 48756 48769	orthodenticle
+T2874	EntrezGene 49234 49237	Crx

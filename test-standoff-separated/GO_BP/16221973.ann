@@ -1,0 +1,283 @@
+T2	GO_BP 35 42	defense
+T8	GO_BP 107 123	Metal-responsive
+T12	GO_BP 124 137	transcription
+T14	GO_BP 155 164	regulates
+T15	GO_BP 165 195	expression of its target genes
+T17	GO_BP 199 236	response to various stress conditions
+T20	GO_BP 279 293	metal response
+T25	GO_BP 398 425	embryonic liver development
+T26	GO_BP 408 425	liver development
+T31	GO_BP 481 486	birth
+T32	GO_BP 500 506	lethal
+T38	GO_BP 633 646	transcription
+T46	GO_BP 826 870	expression of selenoprotein W, muscle 1 gene
+T61	GO_BP 982 1007	oxidative stress response
+T65	GO_BP 1057 1102	expression of N-myc downstream regulated gene
+T70	GO_BP 1088 1097	regulated
+T77	GO_BP 1228 1244	cadmium response
+T93	GO_BP 1368 1377	represses
+T94	GO_BP 1388 1398	expression
+T104	GO_BP 1501 1514	transcription
+T106	GO_BP 1540 1581	synthesis and regeneration of glutathione
+T113	GO_BP 1675 1704	cellular anti-cadmium defense
+T124	GO_BP 1950 1965	stress response
+T141	GO_BP 2228 2245	metal homeostasis
+T155	GO_BP 2445 2455	expression
+T164	GO_BP 2486 2502	metal-responsive
+T168	GO_BP 2503 2516	transcription
+T175	GO_BP 2616 2630	metal response
+T197	GO_BP 3035 3070	response to other stress situations
+T202	GO_BP 3211 3229	membrane-localized
+T211	GO_BP 3315 3321	growth
+T215	GO_BP 3340 3350	angiogenic
+T219	GO_BP 3387 3393	growth
+T220	GO_BP 3460 3471	development
+T223	GO_BP 3533 3546	embryogenesis
+T242	GO_BP 3891 3897	lethal
+T245	GO_BP 4002 4008	lethal
+T254	GO_BP 4148 4153	birth
+T255	GO_BP 4167 4173	lethal
+T260	GO_BP 4283 4292	generated
+T272	GO_BP 4597 4599	RT
+T279	GO_BP 4754 4776	expression of the gene
+T287	GO_BP 4846 4891	expression of N-myc downstream regulated gene
+T292	GO_BP 4877 4886	regulated
+T310	GO_BP 5000 5007	repress
+T311	GO_BP 5012 5066	expression of solute carrier family 39, member 10 gene
+T326	GO_BP 5165 5173	response
+T328	GO_BP 5201 5223	glutathione metabolism
+T331	GO_BP 5283 5290	defense
+T336	GO_BP 5412 5422	Generation
+T346	GO_BP 5522 5531	generated
+T353	GO_BP 5655 5664	construct
+T356	GO_BP 5704 5717	recombination
+T389	GO_BP 6203 6213	expression
+T405	GO_BP 6325 6334	generated
+T485	GO_BP 7980 7995	Gene expression
+T492	GO_BP 8214 8225	synthesized
+T496	GO_BP 8265 8274	Synthesis
+T499	GO_BP 8325 8338	transcription
+T506	GO_BP 8993 9011	cadmium-responsive
+T512	GO_BP 9081 9090	expressed
+T513	GO_BP 9136 9146	expression
+T524	GO_BP 9677 9679	RT
+T525	GO_BP 9689 9691	RT
+T527	GO_BP 9733 9735	RT
+T531	GO_BP 9824 9832	digested
+T567	GO_BP 10516 10524	digested
+T652	GO_BP 13156 13161	grown
+T659	GO_BP 13335 13346	transfected
+T660	GO_BP 13364 13374	expression
+T666	GO_BP 13433 13439	driven
+T683	GO_BP 13838 13849	transfected
+T690	GO_BP 13906 13916	expression
+T695	GO_BP 13945 13951	driven
+T698	GO_BP 13989 13999	expression
+T702	GO_BP 14051 14058	control
+T706	GO_BP 14086 14097	transfected
+T711	GO_BP 14220 14225	grown
+T712	GO_BP 14249 14259	expression
+T721	GO_BP 14334 14336	RT
+T731	GO_BP 14555 14561	adhere
+T737	GO_BP 14725 14746	glutathione synthesis
+T745	GO_BP 14977 14995	Cell Proliferation
+T748	GO_BP 15066 15076	Generation
+T753	GO_BP 15154 15167	recombination
+T785	GO_BP 15499 15508	expressed
+T786	GO_BP 15532 15539	control
+T801	GO_BP 15917 15933	translation stop
+T803	GO_BP 15917 15928	translation
+T807	GO_BP 15970 15978	produced
+T824	GO_BP 16259 16261	RT
+T900	GO_BP 17835 17870	expression of metallothionein genes
+T902	GO_BP 17899 17914	gene expression
+T914	GO_BP 18160 18174	downregulation
+T915	GO_BP 18178 18188	expression
+T927	GO_BP 18437 18450	transcription
+T930	GO_BP 18556 18568	upregulation
+T943	GO_BP 18809 18823	downregulation
+T953	GO_BP 19098 19110	upregulation
+T961	GO_BP 19326 19335	expressed
+T962	GO_BP 19361 19375	Downregulation
+T971	GO_BP 19487 19501	downregulation
+T990	GO_BP 19660 19675	transcriptional
+T993	GO_BP 19747 19760	transcription
+T1010	GO_BP 20149 20159	expression
+T1019	GO_BP 20246 20259	downregulated
+T1037	GO_BP 20471 20481	expression
+T1044	GO_BP 20605 20607	RT
+T1045	GO_BP 20701 20736	upregulation of Sepw1 transcription
+T1049	GO_BP 20723 20736	transcription
+T1060	GO_BP 20938 20948	expression
+T1072	GO_BP 21048 21061	transcription
+T1074	GO_BP 21159 21172	transcription
+T1094	GO_BP 21591 21607	Cadmium response
+T1104	GO_BP 21659 21672	downregulated
+T1116	GO_BP 21844 21859	stress response
+T1119	GO_BP 21932 21942	expression
+T1128	GO_BP 22061 22063	RT
+T1134	GO_BP 22137 22147	expression
+T1139	GO_BP 22222 22238	cadmium response
+T1141	GO_BP 22271 22281	expression
+T1143	GO_BP 22343 22353	expression
+T1156	GO_BP 22456 22469	transcription
+T1181	GO_BP 23148 23164	Cadmium response
+T1191	GO_BP 23251 23264	downregulated
+T1202	GO_BP 23440 23450	myogenesis
+T1204	GO_BP 23506 23508	RT
+T1208	GO_BP 23567 23577	expression
+T1212	GO_BP 23660 23676	cadmium response
+T1229	GO_BP 23859 23872	transcription
+T1248	GO_BP 24225 24235	expression
+T1255	GO_BP 24314 24325	upregulated
+T1267	GO_BP 24540 24549	transport
+T1274	GO_BP 24705 24707	RT
+T1275	GO_BP 24722 24736	downregulation
+T1279	GO_BP 24749 24759	expression
+T1287	GO_BP 24853 24863	expression
+T1292	GO_BP 24952 24962	expression
+T1297	GO_BP 25075 25088	transcription
+T1305	GO_BP 25212 25226	downregulation
+T1309	GO_BP 25412 25422	repression
+T1310	GO_BP 25436 25446	expression
+T1314	GO_BP 25493 25509	cadmium response
+T1324	GO_BP 25653 25666	transcription
+T1337	GO_BP 25945 25963	Cadmium-responsive
+T1342	GO_BP 26030 26048	cadmium-responsive
+T1352	GO_BP 26267 26279	upregulation
+T1358	GO_BP 26474 26488	downregulation
+T1360	GO_BP 26547 26588	metabolism of the antioxidant glutathione
+T1365	GO_BP 26606 26617	upregulated
+T1382	GO_BP 26767 26791	synthesis of glutathione
+T1411	GO_BP 27092 27094	RT
+T1430	GO_BP 27277 27287	expression
+T1441	GO_BP 27452 27477	cellular cadmium response
+T1444	GO_BP 27461 27477	cadmium response
+T1477	GO_BP 28085 28092	defense
+T1486	GO_BP 28261 28280	glutathione pathway
+T1489	GO_BP 28322 28333	upregulated
+T1508	GO_BP 28481 28520	endoplasmic reticulum protein retention
+T1517	GO_BP 28561 28576	stress response
+T1518	GO_BP 28591 28605	anti-apoptotic
+T1519	GO_BP 28596 28605	apoptotic
+T1526	GO_BP 28669 28678	apoptosis
+T1537	GO_BP 28995 29022	embryonic liver development
+T1538	GO_BP 29005 29022	liver development
+T1539	GO_BP 29048 29063	gene expression
+T1551	GO_BP 29201 29218	stress-responsive
+T1562	GO_BP 29347 29357	expression
+T1576	GO_BP 29620 29630	expression
+T1589	GO_BP 29803 29832	expression of a reporter gene
+T1603	GO_BP 29948 29956	response
+T1612	GO_BP 30045 30058	transcription
+T1617	GO_BP 30162 30172	expression
+T1622	GO_BP 30252 30262	expression
+T1641	GO_BP 30418 30427	regulated
+T1645	GO_BP 30468 30481	transcription
+T1648	GO_BP 30495 30504	represses
+T1649	GO_BP 30509 30519	expression
+T1654	GO_BP 30541 30554	Transcription
+T1673	GO_BP 31068 31088	cell stress response
+T1679	GO_BP 31149 31164	gene expression
+T1687	GO_BP 31271 31281	expression
+T1695	GO_BP 31406 31419	transcription
+T1703	GO_BP 31503 31512	localized
+T1705	GO_BP 31516 31524	adhesion
+T1708	GO_BP 31599 31607	adhesion
+T1711	GO_BP 31645 31664	actin-cross-linking
+T1718	GO_BP 31846 31887	destruction of, cellular contact proteins
+T1726	GO_BP 32001 32015	actin-bundling
+T1731	GO_BP 32098 32130	depolymerization of microtubules
+T1738	GO_BP 32234 32246	upregulation
+T1744	GO_BP 32369 32384	stress response
+T1745	GO_BP 32391 32401	expression
+T1748	GO_BP 32434 32443	represses
+T1749	GO_BP 32450 32463	transcription
+T1753	GO_BP 32522 32554	expression of other target genes
+T1775	GO_BP 32810 32819	promoting
+T1776	GO_BP 32820 32861	extracellular and vesicular ion transport
+T1778	GO_BP 32838 32861	vesicular ion transport
+T1780	GO_BP 32848 32861	ion transport
+T1802	GO_BP 33173 33226	expression and metal induction of the mouse Znt1 gene
+T1815	GO_BP 33337 33346	promoting
+T1822	GO_BP 33500 33525	cellular zinc homeostasis
+T1833	GO_BP 33597 33604	control
+T1834	GO_BP 33605 33615	expression
+T1850	GO_BP 33787 33800	transcription
+T1853	GO_BP 33888 33909	transcriptional start
+T1854	GO_BP 33888 33903	transcriptional
+T1860	GO_BP 33952 33965	transcription
+T1861	GO_BP 33991 34015	transcription initiation
+T1862	GO_BP 33991 34004	transcription
+T1868	GO_BP 34090 34105	zinc-responsive
+T1875	GO_BP 34159 34168	regulated
+T1883	GO_BP 34232 34242	expression
+T1891	GO_BP 34372 34386	downregulation
+T1896	GO_BP 34464 34472	response
+T1912	GO_BP 34682 34695	transcription
+T1922	GO_BP 34802 34815	hepatogenesis
+T1926	GO_BP 34821 34831	expression
+T1927	GO_BP 34835 34844	repressed
+T1938	GO_BP 34966 34976	expression
+T1942	GO_BP 34987 34996	expressed
+T1943	GO_BP 35106 35116	expression
+T1954	GO_BP 35231 35241	expression
+T1955	GO_BP 35254 35275	embryonal development
+T1958	GO_BP 35408 35423	stress response
+T1968	GO_BP 35597 35607	expression
+T1972	GO_BP 35645 35670	oxidative stress response
+T1976	GO_BP 35726 35736	expression
+T1985	GO_BP 35785 35792	repress
+T1986	GO_BP 35803 35813	expression
+T1992	GO_BP 35854 35869	transcriptional
+T2005	GO_BP 35927 35940	transcription
+T2007	GO_BP 36051 36066	gene expression
+T2012	GO_BP 36143 36173	responsive to cadmium exposure
+T2016	GO_BP 36251 36261	production
+T2027	GO_BP 36542 36562	cellular homeostasis
+T2030	GO_BP 36593 36612	expression of genes
+T2032	GO_BP 36622 36633	acute-phase
+T2042	GO_BP 36980 36987	defense
+T2064	GO_BP 37405 37417	upregulation
+T2078	GO_BP 37487 37512	cellular cadmium response
+T2081	GO_BP 37496 37512	cadmium response
+T2096	GO_BP 37797 37804	defense
+T2097	GO_BP 37869 37898	cellular anti-cadmium defense
+T2108	GO_BP 38473 38483	generating
+T2124	GO_BP 39030 39040	Generation
+T2130	GO_BP 39123 39136	recombination
+T2156	GO_BP 39454 39464	generation
+T2158	GO_BP 39474 39478	stop
+T2159	GO_BP 39474 39478	stop
+T2180	GO_BP 39787 39789	RT
+T2205	GO_BP 40095 40124	protein–DNA complex formation
+T2224	GO_BP 40423 40433	expression
+T2228	GO_BP 40473 40475	RT
+T2244	GO_BP 40718 40720	RT
+T2287	GO_BP 41112 41125	transcription
+T2298	GO_BP 41306 41335	protein–DNA complex formation
+T2318	GO_BP 41633 41646	transcription
+T2326	GO_BP 41758 41774	Cadmium response
+T2334	GO_BP 41823 41825	RT
+T2350	GO_BP 42068 42070	RT
+T2369	GO_BP 42288 42301	transcription
+T2380	GO_BP 42482 42511	protein–DNA complex formation
+T2408	GO_BP 42956 42972	Cadmium response
+T2416	GO_BP 43021 43023	RT
+T2432	GO_BP 43266 43268	RT
+T2451	GO_BP 43486 43499	transcription
+T2462	GO_BP 43680 43709	protein–DNA complex formation
+T2489	GO_BP 44114 44123	represses
+T2490	GO_BP 44130 44140	expression
+T2495	GO_BP 44175 44177	RT
+T2511	GO_BP 44423 44425	RT
+T2530	GO_BP 44646 44659	transcription
+T2541	GO_BP 44840 44869	protein–DNA complex formation
+T2587	GO_BP 45856 45871	gene expression
+T2594	GO_BP 45927 45941	downregulation
+T2600	GO_BP 46121 46131	expression
+T2612	GO_BP 46518 46531	transcription
+T2618	GO_BP 46597 46610	transcription
+T2623	GO_BP 46785 46800	gene expression
+T2627	GO_BP 46844 46858	downregulation
+T2631	GO_BP 47038 47048	expression

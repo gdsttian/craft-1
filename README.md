@@ -23,8 +23,8 @@ diff -r train-and-devel-standoff-separated train-and-devel-standoff-separated-de
 
 ## Parameter selection
 
-* Run `scripts/separate-standoff.sh` to create separate standoff files for each
-  annotation type
+* Run `scripts/separate-standoff.sh train-and-devel-standoff` to
+  create separate standoff files for each annotation type
 * Run `scripts/select-parameters.sh` to run parameter selection using
   cross-validation on the training-and-development data
 
