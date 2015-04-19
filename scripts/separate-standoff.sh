@@ -30,6 +30,6 @@ for t in SO GO_BP PR EntrezGene GO_CC CHEBI NCBITaxon CL GO_MF; do
     mkdir -p "$d"
     cp "$INPUTDIR"/*.txt "$d"
     for f in "$INPUTDIR"/*.ann; do 
-	egrep '^[^[:space:]]+[[:space:]]'$t' ' $f > "$d"/`basename $f`
+	egrep '^[^[:space:]]+[[:space:]]'$t' ' $f > "$d"/`basename $f` || true
     done
 done
